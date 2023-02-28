@@ -4,11 +4,11 @@ title: "Ordinanza del 23 maggio 2012 sulla promozione dello sport e dell'attivit
 short: OPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: it
-version: 2023-01-01
+version: 2023-03-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20230301/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20230301-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20230301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20230101/it"
 
 (Ordinanza sulla promozione dello sport, OPSpo)
 
-del 23 maggio 2012 (Stato 1° gennaio 2023)
+del 23 maggio 2012 (Stato 1° marzo 2023)
 
 Il Consiglio federale svizzero,
 
@@ -111,7 +111,7 @@ Una disciplina sportiva può essere ammessa come disciplina sportiva G+S se:
 
   è sostenuta da una federazione d’importanza nazionale che:
 
-  - 1\. è affiliata all’associazione mantello dello sport svizzero, e
+  - 1\. è affiliata all’associazione mantello delle federazioni sportive svizzere[^6-2], e
   - 2\. ha la volontà e i mezzi per assumersi compiti nello sviluppo della disciplina sportiva in questione come pure nella formazione e nella formazione continua dei monitori delle organizzazioni affiliate.
 
 <sup>2</sup>
@@ -120,12 +120,13 @@ In nessun caso sono ammessi:
 
 - a. gli sport motoristici e aeronautici;
 - b. le discipline sportive che prevedono come scopo ultimo l’atterramento dell’avversario e in cui non si stabilisce espressamente che i bambini e i giovani possono praticarle soltanto senza l’atterramento dell’avversario;
-- c. le discipline sportive che comportano un rischio elevato per i partecipanti, segnatamente quelle di cui all’articolo 1 capoverso 2, lettere c–e della legge federale del 17 dicembre 2010[^6-2] concernente l’attività di guida alpina e l’offerta di attività a rischio.
+- c. le discipline sportive che comportano un rischio elevato per i partecipanti, segnatamente quelle di cui all’articolo 1 capoverso 2, lettere c–e della legge federale del 17 dicembre 2010[^6-3] concernente l’attività di guida alpina e l’offerta di attività a rischio.
 
 <sup>3</sup> Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) stabilisce le discipline sportive G+S.
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
-[^6-2]: [RS 935.91](https://fedlex.data.admin.ch/eli/cc/2013/87)
+[^6-2]: Nuova espr. giusta il n. I dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^6-3]: [RS 935.91](https://fedlex.data.admin.ch/eli/cc/2013/87)
 
 #### Art. 7
 
@@ -718,7 +719,7 @@ L’UFSPO revoca il riconoscimento a un membro dei quadri in caso di:
 
 **...[^41-1]**
 
-<sup>1</sup> L’associazione mantello dello sport svizzero riceve un contributo annuo per la promozione, lo sviluppo e il sostegno dello sport elvetico.
+<sup>1</sup> L’associazione mantello delle federazioni sportive svizzere riceve un contributo annuo per la promozione, lo sviluppo e il sostegno dello sport elvetico.
 
 <sup>2</sup> L’UFSPO stipula con l’associazione mantello un contratto di prestazioni che disciplina in particolare le prestazioni della Confederazione in denaro, in servizi e in natura all’associazione mantello nonché il loro trasferimento alle federazioni sportive nazionali.
 
@@ -1364,11 +1365,172 @@ Il contributo della Confederazione si fonda su:
 
 [^tit4-1]: Nuovo testo giusta l’all. 2 n. II 1 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
-### Capitolo 1: Doping
+### Capitolo 1: Misure generali
 
 [^tit4-chap1-1]
 
-[^tit4-chap1-1]: Introdotto dall’all. 2 n. II 1 dell’O dell’7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^tit4-chap1-1]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)).
+
+#### Art. 72c
+
+**Principio**
+
+Sono concessi aiuti finanziari all’associazione mantello delle federazioni sportive svizzere o ad altre organizzazioni sportive e organizzatori responsabili di manifestazioni sportive (organizzazioni sportive) a condizione che i beneficiari dei contributi adottino misure efficaci al fine di:
+
+- a. impedire violazioni degli obblighi di comportamento risultanti dalla Carta etica dello sport svizzero 2015[^72c-1] (comportamenti scorretti);
+- b. impedire violazioni delle direttive relative a una buona organizzazione e amministrazione presso le organizzazioni sportive (irregolarità) ed eliminare le irregolarità esistenti;
+- c. attuare i principi della Carta etica dello sport svizzero;
+- d. impedire incidenti e lesioni nell’ambito dello sport e dell’attività fisica.
+
+[^72c-1]: La Carta etica può essere consultata all’indirizzo: [https://www.swissolympic.ch/fr/](https://www.swissolympic.ch/fr/) &gt; Association faîtière &gt; Fédérations &gt; Valeurs & Éthique &gt; Statuts en matière d’éthique &gt; Charte d’éthique (IT).
+
+#### Art. 72d
+
+**Direttive dell’associazione mantello**
+
+<sup>1</sup>
+
+Tra le misure efficaci ai sensi dell’articolo 72*c* rientrano le direttive che l’associazione mantello adotta in merito a:
+
+- a.
+
+  gli obblighi di comportamento risultanti dalla Carta etica dello sport svizzero 2015[^72d-1] destinati in particolare ad allenatori, atleti, accompagnatori, funzionari nonché impiegati e delegati delle organizzazioni sportive, in particolare direttive riguardanti:
+
+  - 1\. la protezione dalla discriminazione,
+  - 2\. la protezione dalla violenza fisica, dallo sfruttamento e dagli abusi sessuali,
+  - 3\. la protezione dal sovraccarico e dalle lesioni dell’integrità psichica quali minacce, umiliazioni, molestie o mobbing,
+  - 4\. la salvaguardia e la promozione dello sviluppo globale, in particolare degli atleti minorenni,
+  - 5\. la protezione dell’ambiente da un impatto eccessivo dovuto allo svolgimento dell’attività sportiva,
+  - 6\. la salvaguardia della correttezza della competizione sportiva attraverso la lotta al doping, alla manipolazione delle competizioni e alla grave violazione delle regole sportive,
+  - 7\. la rinuncia al consumo di sostanze contenenti nicotina e alcool durante l’attività sportiva;
+
+- b.
+
+  i requisiti relativi alla buona organizzazione e amministrazione presso le organizzazioni sportive, in particolare direttive riguardanti:
+
+  - 1\. la documentazione e la pubblicazione delle decisioni più importanti che concernono l’organizzazione sportiva e i suoi gruppi di interesse,
+  - 2\. la documentazione e la pubblicazione della provenienza e dell’utilizzo delle finanze delle organizzazioni sportive,
+  - 3\. una rappresentanza equilibrata di entrambi i sessi negli organi direttivi, prevedendo che, nell’organo direttivo dell’associazione mantello e delle sue organizzazioni affiliate, entrambi i sessi siano rappresentati almeno al 40 per cento,
+  - 4\. le limitazioni della durata della carica per le funzioni degli organi direttivi dell’organizzazione sportiva,
+  - 5\. la gestione dei conflitti di interesse delle persone appartenenti agli organi direttivi delle organizzazioni sportive,
+  - 6\. il diritto di partecipazione degli atleti alle decisioni relative a temi che li riguardano,
+  - 7\. le misure per la protezione dei dati dei membri e dei collaboratori dell’organizzazione sportiva,
+  - 8\. le misure volte all’attuazione e al controllo degli obblighi di comportamento di cui alla lettera a;
+
+- c. lo svolgimento di inchieste su comportamenti scorretti e irregolarità all’interno delle organizzazioni sportive da parte di un servizio di segnalazione nazionale indipendente nonché il sanzionamento delle violazioni da parte di un organo disciplinare indipendente;
+- d. i requisiti per le organizzazioni sportive relativi alle misure per impedire incidenti e lesioni durante lo svolgimento dell’attività sportiva, in particolare attraverso formazione, informazione, consulenza, ricerca, documentazione e controlli.
+
+<sup>2</sup> Le direttive di cui al capoverso 1 lettera b devono tenere conto delle diverse strutture delle organizzazioni sportive; in tal modo i principi della proporzionalità e dell’uguaglianza giuridica sono rispettati.
+
+<sup>3</sup> L’associazione mantello pubblica le direttive in vigore sul proprio sito Internet.
+
+<sup>4</sup> L’associazione mantello valuta periodicamente l’efficacia delle proprie direttive attraverso sondaggi in serie o altri metodi di valutazione.
+
+[^72d-1]: La Carta etica può essere consultata all’indirizzo: [https://www.swissolympic.ch/fr/](https://www.swissolympic.ch/fr/) &gt; Association faîtière &gt; Fédérations &gt; Valeurs & Éthique &gt; Statuts en matière d’éthique &gt; Charte d’éthique (IT).
+
+#### Art. 72e
+
+**Misure efficaci**
+
+<sup>1</sup> Il rispetto e l’attuazione delle direttive dell’associazione mantello sono considerati misure efficaci, sempreché tali direttive siano giudicate dall’UFSPO legittime e appropriate.
+
+<sup>2</sup> Se l’associazione mantello o una delle sue organizzazioni affiliate non raggiunge la quota richiesta secondo l’articolo 72*d* capoverso 1 lettera b numero 3, l’organizzazione inoltra all’UFSPO una motivazione scritta illustrando le misure adottate per raggiungere tale quota.
+
+<sup>3</sup> Le organizzazioni sportive di diritto privato non affiliate all’associazione mantello o a una delle sue organizzazioni affiliate, non sono vincolate al rispetto di direttive supplementari dell’associazione mantello oltre a quelle menzionate nell’articolo 72*d*.
+
+<sup>4</sup> Per le organizzazioni sportive di diritto pubblico il rispetto e l’attuazione delle direttive di cui all’articolo 72*d* capoverso 1 lettere a e d sono considerati misure efficaci.
+
+#### Art. 72f
+
+**Servizio di segnalazione nazionale**
+
+<sup>1</sup>
+
+Rientra nelle misure efficaci ai sensi dell’articolo 72*c* quanto segue:
+
+- a.
+
+  l’associazione mantello si adopera affinché venga istituito e gestito un servizio di segnalazione nazionale che soddisfi i seguenti requisiti:
+
+  - 1\. il servizio di segnalazione è indipendente,
+  - 2\. chiunque sia vittima di comportamenti scorretti o irregolarità in ambito sportivo o sia a conoscenza di siffatti comportamenti o irregolarità o ne nutra il sospetto può effettuare una segnalazione al servizio di segnalazione,
+  - 3\. il servizio di segnalazione accetta anche segnalazioni anonime; esso assicura che, su richiesta, l’identità della persona che segnala o che è stata vittima di un presunto comportamento scorretto non venga rivelata a terzi, in particolare alle persone e organizzazioni sportive oggetto della segnalazione e all’organo disciplinare;
+
+- b.
+
+  il servizio di segnalazione soddisfa i seguenti requisiti:
+
+  - 1\. emana le disposizioni organizzative e procedurali necessarie all’adempimento dei compiti e pubblica le disposizioni in vigore sul proprio sito Internet,
+  - 2\. procede ad accertamenti in merito ai fatti segnalati; in caso di sospetto fondato di comportamenti scorretti o irregolarità, redige un rapporto di inchiesta e lo trasmette all’organo disciplinare insieme agli atti dell’inchiesta,
+  - 3\. fornisce all’UFSPO una copia del rapporto di inchiesta, senza ulteriori allegati ai fini della verifica del diritto agli aiuti finanziari o dei riconoscimenti dei quadri G+S o ESA.
+
+<sup>2</sup> L’UFSPO concede un aiuto finanziario al servizio di segnalazione per l’adempimento dei suoi compiti, purché anche l’associazione mantello fornisca un contributo adeguato. A tal fine stipula un contratto di prestazioni con l’ente responsabile del servizio di segnalazione.
+
+#### Art. 72g
+
+**Organo disciplinare**
+
+<sup>1</sup>
+
+Rientra nelle misure efficaci ai sensi dell’articolo 72*c* quanto segue:
+
+- a.
+
+  l’associazione mantello si adopera affinché venga istituito e gestito un organo disciplinare che soddisfi i seguenti requisiti:
+
+  - 1\. l’organo disciplinare è indipendente, in particolare dal servizio di segnalazione,
+  - 2\. esso valuta i casi trasmessigli dal servizio di segnalazione relativi a presunti comportamenti scorretti o presunte irregolarità e può pronunciare le sanzioni o le misure previste nei regolamenti dell’associazione mantello;
+
+- b.
+
+  l’organo disciplinare soddisfa i seguenti requisiti:
+
+  - 1\. emana le disposizioni organizzative e procedurali necessarie all’adempimento dei compiti e pubblica le disposizioni in vigore sul proprio sito Internet,
+  - 2\. fornisce all’UFSPO una copia della sua decisione e della relativa motivazione scritta ai fini della verifica del diritto agli aiuti finanziari o dei riconoscimenti dei quadri G+S o ESA.
+
+<sup>2</sup> L’UFSPO concede un aiuto finanziario all’organo disciplinare nell’adempimento dei suoi compiti, purché anche l’associazione mantello fornisca un contributo adeguato. A tal fine stipula un contratto di prestazioni con l’ente responsabile dell’organo disciplinare.
+
+#### Art. 72h
+
+**Procedure dinanzi al servizio di segnalazione e all’organo disciplinare**
+
+<sup>1</sup>
+
+Affinché le misure di cui all’articolo 72*c* siano ritenute efficaci, il servizio di segnalazione e l’organo disciplinare garantiscono procedure corrette a tutela dei diritti della personalità e dei diritti di parte degli interessati, in particolare assicurandosi che:
+
+- a. in tutte le fasi di una procedura sia rispettata la dignità umana delle persone coinvolte;
+- b. i fatti siano accertati in modo imparziale e completo e le persone siano protette da imputazioni infondate e condanne a priori;
+- c. le persone alle quali vengono imputate violazioni siano informate in modo completo al momento dell’avvio della procedura sulle presunte violazioni di cui vengono accusate nonché sullo svolgimento della procedura e sui loro diritti procedurali;
+- d. i dati su cui si fonda una procedura siano acquisiti esclusivamente in modo conforme alla legge;
+- e. alle persone coinvolte in una procedura sia garantito il diritto di essere sentite;
+- f. le persone coinvolte in una procedura possano farsi assistere in tutte le fasi della stessa.
+
+<sup>2</sup> Affinché le misure di cui all’articolo 72*c* siano ritenute efficaci, nelle controversie relative a una violazione delle direttive di cui all’articolo 72*d* capoverso 1 lettere a e b, agli interessati può essere impedito di adire un tribunale ordinario solo nel caso in cui questi ultimi abbiano espressamente riconosciuto, per gli oggetti in questione, la competenza esclusiva di un tribunale arbitrale mediante un accordo o il riconoscimento di relativi statuti. Sono fatti salvi i rimedi giuridici previsti dalla legge contro la decisione del tribunale arbitrale.
+
+#### Art. 72i
+
+**Responsabilità dell’organizzazione sportiva**
+
+Se una persona, in qualità di membro, impiegato o delegato di un’organizzazione sportiva, viola le direttive di cui all’articolo 72*d* capoverso 1 lettera a, l’UFSPO può ridurre o negare gli aiuti finanziari all’organizzazione sportiva o chiederne la restituzione, se quest’ultima non è in grado di provare di aver adottato tutte le misure organizzative necessarie e ragionevolmente esigibili per prevenire tale violazione.
+
+#### Art. 72j
+
+**Accordo per un trasferimento di aiuti finanziari**
+
+<sup>1</sup>
+
+Qualora un’organizzazione sportiva trasferisca aiuti finanziari della Confederazione a un’organizzazione affiliata o a terzi, deve garantire, mediante la stipula di un accordo scritto con i beneficiari e attraverso controlli adeguati, che questi ultimi:
+
+- a. rispettino gli obblighi legati alla concessione dei contributi;
+- b. consentano alle autorità competenti della Confederazione di attuare tutte le misure necessarie per i controlli relativi all’utilizzo dei contributi ricevuti.
+
+<sup>2</sup> Qualora i beneficiari di cui al capoverso 1 non rispettino gli obblighi legati alla concessione dei contributi, l’UFSPO chiede all’organizzazione sportiva la restituzione degli aiuti finanziari.
+
+### Capitolo 1*a*: Doping
+
+[^tit4-chap1a-1]
+
+[^tit4-chap1a-1]: Originario cap. 1. Introdotto dall’all. 2 n. II 1 dell’O dell’7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 #### Art. 73
 
@@ -1409,7 +1571,7 @@ Sono considerati prodotti proibiti ai sensi dell’articolo 19 capoverso 3 LPSpo
 
 Sono considerate competizioni sportive tutte le manifestazioni sportive:
 
-- a. organizzate dall’associazione mantello dello sport svizzero, dalle federazioni ad essa affiliate e dalle loro federazioni locali e società sportive; o
+- a. organizzate dall’associazione mantello delle federazioni sportive svizzere, dalle federazioni ad essa affiliate e dalle loro federazioni locali e società sportive; o
 - b. conformemente ai regolamenti di una federazione sportiva internazionale o nazionale.
 
 #### Art. 76
@@ -1599,11 +1761,23 @@ Gli accordi di cui all’articolo 83 capoverso 2 sono validi fino al 31 dicembre
 
 [^83c-1]: Introdotto dal n. I dell’O del 3 apr. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)). Abrogato dal n. I dell’O del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
+### Capitolo 1*a*: Doping
+
+[^tit6-chap1a-1]
+
+[^tit6-chap1a-1]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)).
+
 #### Art. 83d
 
-[^83d-1]
+**Disposizioni transitorie della modifica del 25 gennaio 2023**[^83d-1]
 
-[^83d-1]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+<sup>1</sup> I beneficiari di aiuti finanziari devono attuare le direttive di cui all’articolo 72*d* capoverso 1 lettera a al più tardi dal 1° gennaio 2024.
+
+<sup>2</sup> Devono attuare le direttive di cui all’articolo 72*d* capoverso 1 lettera b al più tardi dal 1° gennaio 2025; le organizzazioni che beneficiano di aiuti finanziari esclusivamente per lo svolgimento di corsi e campi nel quadro del programma G+S devono attuare le disposizioni al più tardi dal 1° gennaio 2026.
+
+<sup>3</sup> Il servizio di segnalazione e l’organo disciplinare devono adeguare le loro disposizioni organizzative e procedurali ai requisiti degli articoli 72*f*–72*h* entro il 31 dicembre 2024.
+
+[^83d-1]: Introdotto dal n. I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)).
 
 #### Art. 83e
 
@@ -1621,84 +1795,85 @@ Gli accordi di cui all’articolo 83 capoverso 2 sono validi fino al 31 dicembre
 
 La presente ordinanza entra in vigore il 1° ottobre 2012.
 
-Allegato
+Allegato[^t-1]
 
 (art. 74)
 
 ## Prodotti e metodi proibiti
 
+[^t-1]: Nuovo testo giusta il n. II dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)).
+
 ### I. Prodotti proibiti
 
 ### 1. Sostanze farmaceutiche non ammesse
 
-Qualsiasi sostanza farmacologica non compresa nella lista sottostante e non approvata da autorità sanitarie statali per l’uso terapeutico umano, come farmaci nella fase di sviluppo pre-clinico o clinico, non più autorizzati, droghe di sintesi, medicinali ad uso veterinario.
+Qualsiasi sostanza farmacologica non compresa nella lista sottostante e non approvata da autorità sanitarie statali per l’uso terapeutico umano, come ad esempio farmaci nella fase di sviluppo pre-clinico o clinico, non più autorizzati, droghe di sintesi, sostanze approvate solo in ambito veterinario.
 
-### 2. Agenti anabolizzanti e altre sostanze ad azione anabolizzante
+### 2. Agenti anabolizzanti e altre sostanze anabolizzanti
 
-a) Steroidi anabolizzanti androgeni esogeni
+a. Steroidi anabolizzanti androgeni (AAS)
 
-**1-Androstendiolo** (5α-androst-1-en-3 ,17β-diol), **1-Androstendione** (5α-androst-1-en-3,17-dion), **Bolandiolo** (estr-4-ene-3β,17β-diol), **Bolasterone**, **Boldenone**, **Boldione** (androsta-1,4-dien-3,17-dion), **Calusterone**, **Clostebolo**, **Danazolo** (17α-etinil-17β-idrossiandrost-4-eno[2,3-d]isossazolo), **Deidroclormetiltestosterone** (4-cloro-17β-idrossi-17α-metilandrosta-1,4-dien-3-on), **Desossimetiltestosterone** (17α-metil-5α-androst-2-en-17β-ol), **Drostanolone**, **Etilestrenolo** (19-nor-17α-pregn-4-en-17-ol), **Fluossimesterone**, **Formebolone**, **Furazabolo** (17β-idrossi-17α-metil-5α-androstano[2,3-c]-furazano), **Gestrinone**, **4-Idrossitestosterone** (4,17β-diidrossi-androst-4-en-3-on), **Mestanolone**, **Mesterolone**, **Metenolone**, **Metandienone** (17β-idrossi-17α-metilandrosta-1,4-dien-3-on), **Metandriolo**, **Metasterone** (2α,17α-dimetil-5α-androstan-3-on-17β-ol), **Metildienolone** (17β-idrossi-17α-metilestra-4,9-dien-3-on), **Metil-1-testosterone** (17β-idrossi-17α-metil-5α-androst-1-en-3-on), **Metilnortestosterone**, (17β-idrossi-17α-metilestr-4-en-3-on), **Metiltestosterone**, **Metribolone** (Metiltrienolone 17β-idrossi-17α-metilestra-4,9,11-trien-3-on), **Mibolerone**, **Nandrolone**, **19-Norandrostendione** (estr-4-en-3,17-dion), **Norboletone**, **Norclostebolo**, **Noretandrolone**, **Ossabolone**, **Ossandrolone**, **Ossimesterone**, **Ossimetolone**, **Prostanozolo** (17β-idrossi-5α-androstano[3,2-c]pyrazol), **Quinbolone**, **Stanozololo**, **Stenbolone**, **1-Testosterone** (17β-idrossi-5α-androst-1-en-3-on), **Tetraidrogestrinone**(18a-homo-pregna-4,9,11-trien-17β-ol-3-on), **Trenbolone**.
+**1-androstenediolo** (5α-androst-1-ene-3β,17β-diolo), **1-androstenedione** (5α-androst-1-ene-3,17-dione), **1-androsterone** (3α-idrossi-5α-androst-1-ene-17-one), **1-epiandrosteron****e** (3β-idrossi-5α-androst-1-ene-17-one), **1-testosterone** (17β-idrossi-5α-androst-1-ene-3-one), **4-androstenediolo** (androst-4-ene-3β,17β-diolo), **4-idrossitestosterone** (4,17β-diidrossiandrost-4-ene-3-one), **5-androstenedione** (androst-5-ene-3,17-dione), **7α-idrossi-DHEA**, **7β-idrossi-DHEA**, **7-keto-DHEA**, **19-norandrostenediolo** (estr-4-ene-3,17-diolo), **19-norandrostenedione** (estr-4-ene-3,17-dione), **androstanolone** (5α-diidrotestosterone, 17β-idrossi-5α-androstan-3-one), **androstenediolo** (androst-5-ene-3β,17β-diolo), **androstenedione** (androst-4-ene-3,17-dione), **bolasterone**, **boldenone**, **boldione** (androsta-1,4-diene-3,17-dione), **calusterone**, **clostebol**, **danazolo** ([1,2]ossazolo[4’,5’:2,3]pregna-4-ene-20-in-17α-olo), **deidroclormetiltestosterone** (4-cloro-17β-idrossi-17α-metilandrosta-1,4-diene-3-one), **desossimetiltestosterone** (17α-metil-5α-androst-2-ene-17β-olo, 17α-metil-5α-androst-3-ene-17β-olo), **drostanolone**, **epiandrosteron****e** (3β-idrossi-5α-androstan-17-one), **epi-diidrotestosterone** (17β-idrossi-5β-androstan-3-one), **epitestosterone**, **etilestrenolo** (19-norpregna-4-ene-17α-olo), **fluossimesterone**, **formebolone**, **furazabolo** (17α-metil[1,2,5]ossadiazolo[3’,4’:2,3]-5α-androstan-17β-olo), **gestrinone**, **mestanolone**, **mesterolone**, **metandienone** (17β-idrossi-17α-metilandrosta-1,4-diene-3-one), **metenolone**, **metandriolo**, **metasterone** (17β-idrossi-2α,17α-dimetil-5α-androstan-3-one), **metil-1-testosterone** (17β-idrossi-17α-metil-5α-androst-1-ene-3-one), **metilclostebol**, **metildienolone** (17β-idrossi-17α-metilestra-4,9-diene-3-one), **metilnortestosterone** (17β-idrossi-17α-metilestr-4-ene-3-one), **metiltestosterone**, **metribolone** (metiltrienolone, 17β-idrossi-17α-metilestra-4,9,11-triene-3-one), **mibolerone**, **nandrolone** (19-nortestosterone), **norboletone**, **norclostebol** (4-cloro-17β-olo-estr-4-ene-3-one), **noretandrolone**, **ossabolone**, **ossandrolone**, **ossimesterone**, **ossimetolone**, **prasterone** (deidroepiandrosterone, DHEA,3β-idrossiandrost-5-ene-17-one), **prostanozolo** (17β-[(tetraidropiran-2-il)ossi]-1’H-pirazolo[3,4:2,3]-5α-androstano), **quinbolone**, **stanozololo**, **stenbolone**, **testosterone**, **tetraidrogestrino-ne** (17-idrossi-18α-omo-19-nor-17α-pregna-4,9,11-trien-3-one), **trenbolone** (17β-idrossiestr-4,9,11-trien-3-one),e altre sostanze con struttura chimica simile o effetto biologico simile.
 
-b. Steroidi anabolizzanti androgeni endogeni
+b. Altre sostanze anabolizzanti
 
-**Androstendiolo** (androst-5-en-3β,17β-diol), **Androstendione** (androst-4-en-3,17-dion), **Diidrotestosterone** (17β-idrossi-5α-androstan-3-on), **Prasterone** (Deidroepiandrosterone, DHEA), **Testosterone**.
-
-c. Altre sostanze ad azione anabolizzante
-
-Clenbuterolo, modulatori selettivi del recettore degli androgeni (SARMs), tibolone, zeranolo, zilpaterolo.
+Altre sostanze anabolizzanti comprendono in particolare: clenbuterolo, modulatori selettivi del recettore degli androgeni [SARMs, ad es. AC-262536, andarina, BMS-564929, enobosarm (ostarina), JNJ-28330835, LG-121071, LGD-2226, LGD-3303, LGD-4033 (ligandrol), RAD140, S-23, S-40503, TFM-4AS-1, YK-11], tibolone, zeranolo e zilpaterolo.
 
 ### 3. Sostanze che stimolano l’eritropoiesi
 
-Le seguenti sostanze e i loro fattori di rilascio:
+Eritropoietine (EPO) e sostanze che hanno un effetto sull’eritropoiesi, in particolare:
 
-Epoetina alfa, beta, delta, omega, theta, zeta e analoghe eritropoietine umane ricombinanti, darbepoetina alfa (dEPO), metossi polietilen glicol-epoetina beta, anche PEG-epoetina beta, Continuous Erythropoiesis Receptor Activator (CERA), stabilizzatori del fattore ipossia-inducibile (HIF), peginesatide (Hematide).
+- 3\.1 **Agonisti del recettore dell’eritropoietina**, ad esempio darbepoetine (dEPO); eritropoietine (EPO; in particolare epoetina alfa, beta, delta, omega, teta, zeta e analoghe eritropoietine umane ricombinanti); **derivati dell’EPO** [es. EPO-Fc, metossi polietilenglicol-epoetina beta (CERA)]; **EPO-mimetici e loro derivati**, ad esempio CNTO-530 e peginesatide.
+- 3\.2 **Sostanze attivanti del fattore ipossia-inducibile (HIF)**, ad esempio cobalto; daprodustat (GSK1278863); IOX2; molidustat (BAY 85-3934); roxadustat (FG-4592); vadadustat (AKB-6548); xenon.
+- 3\.3 **GATA inibitori**, ad esempio K-11706.
+- 3\.4 **Inibitori della trasduzione dei segnali mediati dal fattore di crescita trasformante beta (TGF-β),** ad esempio luspatercept; sotatercept.
+- 3\.5 **Agonisti del recettore per il meccanismo naturale di riparazione**, ad esempio asialo EPO; EPO carbamilata (CEPO).
 
-### 4. Ormoni della crescita, fattori della crescita insulino-simile e altri fattori della crescita
+### 4. Gonadotropine
 
-Ormone della crescita (GH), fattore di rilascio dell’ormone della crescita (Growth Hormone Releasing Hormones (GHRH)), peptidi di riolascio dell’ormone della crescita (Growth Hormone Releasing Peptides (GHRP)), fattore di crescita insulino-simile (ad es. IGF-1, analoghi IGF-1), fattori di crescita del fibroblasto (FGF), fattori di crescita degli epatociti (HGF), fattori di crescita meccanici (MGF), fattori di crescita di derivazione piastrinica (PDGF), fattore di crescita vascolare-endoteliale (VEGF), e altri fattori di crescita che in muscoli, tendini o legamenti influenzano la sintesi o la degradazione delle proteine, la vascolarizzazione, l’utilizzazione di energia, la capacità rigenerativa o la commutazione del tipo di fibra.
+Gonadotropina corionica (CG, hCG), ormone luteinizzante (LH), gonadotropina corionica alfa, lutropina alfa nonché fattori di rilascio CG e LH, in particolare buserelina, deslorelina, gonadorelina, goserelina, leuprorelina, nafarelina e triptorelina.
 
-### 5. Gonadotropine
+### 5. Corticotropine
 
-Gonadotropina corionica (HCG), ormone luteinizzante (LH), gonadotropina corionica alfa, ormone luteinizzante lutropina alfa.
+Corticotropina, tetracosactide e fattori di rilascio della corticotropina, in particolare corticorelina.
 
-### 6. Insuline
+### 6. Ormoni della crescita, fattori di crescita insulino-simili e altri fattori di crescita
 
-Insulina
+**Ormone della crescita (GH)**, i suoi **frammenti** e **fattori di rilascio**, in particolare: **frammenti dell’ormone della crescita**, ad esempio AOD-9604 e hGH 176-191; **ormone di rilascio dell’ormone della crescita** (GHRH) e suoi analoghi, ad esempio CJC-1293, CJC-1295, sermorelina, somatorelina e tesamorelina; **secretogoghi dell’ormone della crescita** (GHS), ad esempio lenomorelina (grelina) e i suoi mimetici, in particolare anamorelina, ipamorelina, macimorelina, e tabimorelina; **peptidi di rilascio dell’ormone della crescita** (GHRP), ad esempio alesamorelina, GHRP-1, GHRP-2 (pralmorelina), GHRP-3, GHRP-4, GHRP-5, GHRP-6 ed examorelina (hexarelin).
 
-### 7. Corticotropine
+**Fattori di crescita e modulatori dei fattori di crescita**, in particolare: **fattore di crescita di derivazione piastrinica** (PDGF); **fattori di crescita dei fibroblasti** (FGF); **fattore di crescita degli epatociti** (HGF); **fattore di crescita insulino-simile** (IGF-1) e suoi analoghi; **fattori di crescita meccanici** (MGF); **timosina-β4** e suoi **derivati**, ad esempio TB-500; **fattore di crescita vascolare-endoteliale** (VEGF).
 
-Corticotropina, tetracosactide
+Tutti gli altri fattori di crescita o modulatori dei fattori di crescita che influenzano la sintesi di proteine, la degradazione di proteine, la vascolarizzazione, l’utilizzo di energia, la capacità rigenerativa o la transdifferenziazione del tipo di fibra in muscoli, tendini o legamenti.
 
-### 8. Inibitori dell’aromatasi
+### 7. Inibitori dell’aromatasi
 
-Aminoglutetimide, anastrozolo, androsta-1,4,6-triene-3,17-dione (androstatrienedione), 4-androstene-3,6,17 trione (6-oxo), exemestano, formestano, letrozolo, testolattone
+Gli inibitori dell’aromatasi comprendono in particolare: **2-androstenolo** (5α-androst-2-ene-17-olo), **2-androstenone** (5α-androst-2-ene-17-one), **3-androstenolo** (5α-androst-3-ene-17-olo), **3-androstenone** (5α-androst-3-ene-17-one), **4-androstene-3,6,17 trione** (6-oxo), **aminoglutetimide**, **anastrozolo**, **androstatrienedione** (androsta-1,4,6-triene-3,17-dione), **arimistane** (androsta-3,5-diene-7,17-dione), **exemestano**, **formestano**, **letrozolo**, **testolattone**.
 
-### 9. Modulatori selettivi dei recettori estrogeni (SERM)
+### 8. Sostanze antiestrogeniche
 
-Raloxifene, tamoxifene, toremifene
+Le sostanze antiestrogeniche e i modulatori selettivi del recettore degli estrogeni (SERMs) comprendono in particolare: **bazedoxifene**, **clomifene**, **ciclofenil****e**, **fulvestrant**, **nitromifen****e**, **ospemifene**, **raloxifene**, **tamoxifen****e**, **toremifene**.
 
-### 10. Sostanze con effetto anti estrogenico
+### 9. Antagonisti dell’attivazione del recettore dell’activina di tipo IIB
 
-Clomifene, ciclofenil, fulvestrant
+Le sostanze che inibiscono l’attivazione del recettore dell’activina di tipo IIB comprendono in particolare: **anticorpi neutralizzanti l’activina A**; **antagonisti del recettore dell’activina di tipo IIB** quali: **ricettori dell’activina difettivi** (ad es. ACE-031); **anticorpi anti recettore dell’activina tipo IIB** (ad es. bimagrumab); **inibitori della miostatina** come: **sostanze che riducono o aboliscono l’espressione della miostatina**; **proteine leganti la miostatina** (ad es. follistatina, propeptide della miostatina); **anticorpi neutralizzanti la miostatina** (ad es. domagrozumab, landogrozumab, stamulumab).
 
-### 11. Inibitori della miostatina
+### 10. Modulatori metabolici
 
-Stamulumab
-
-### 12. Modulatori metabolici
-
-Agonisti (ad es. GW 1516) del recettore d attivato dal proliferatore del perossisoma δ (PPARδ) e agonisti (ad es. AICAR) dell’asse PPARδ-AMP-protein chinasi attivato (AMPK).
+- 10\.1 **Attivatori della protein chinasi AMP-attivata (AMPK)**, in particolare AICAR, SR9009; e **agonisti del recettore δ attivato dal proliferatore dei perossisomi (PPARδ)**, in particolare acido 2-(2-metil-4-((4-metil-2-(4-(trifluorometil)fenil)tiazolo-5-il)metiltio)fenossi) acetico (GW 1516, GW501516).
+- 10\.2 **Insuline** e **insulino-mimetici**
+- 10\.3 **Meldonio**
+- 10\.4 **Trimetazidina**
 
 ### II. Metodi proibiti
 
-### 1. Incremento della capacità di trasporto di ossigeno
+### 1. Manipolazione del sangue e dei componenti del sangue
 
-Il doping ematico, compresa l’utilizzazione di sangue autologo, omologo o eterologo oppure di prodotti a base di cellule ematiche rosse di qualsiasi provenienza e l’incremento artificiale della capacità di assorbimento, di trasporto o di liberazione dell’ossigeno, segnatamente per mezzo di perfluorocomposti, dell’efaproxiral (RSR 13) e di prodotti a base di emoglobina modificata (ad esempio surrogati sanguigni emoglobinici e prodotti di emoglobina microincapsulata).
+Il doping ematico, compresa la somministrazione o reintroduzione nel sistema circolatorio di qualsiasi quantità di sangue autologo, allogenico (omologo) o eterologo o di prodotti contenenti globuli rossi di qualsiasi origine, nonché l’incremento artificiale della capacità di assorbimento, di trasporto o di liberazione dell’ossigeno, segnatamente per mezzo di sostanze chimiche perfluoridiche, dell’efaproxiral (RSR13) e di prodotti a base di emoglobina modificata (ad es. sostituti del sangue basati sull’emoglobina, prodotti di emoglobina microincapsulata) e qualsiasi forma di manipolazione endovascolare del sangue o di componenti del sangue attraverso metodi fisici o chimici.
 
 ### 2. Manipolazioni chimiche e fisiche
 
-Le manipolazioni o la tentata manipolazione con lo scopo di alterare l’integrità o la validità di un campione prelevato durante un controllo antidoping.
+La manipolazione, o tentata manipolazione, non consentita per alterare l’integrità e la validità dei campioni prelevati durante i controlli antidoping. Queste manipolazioni comprendono in particolare: la sostituzione e l’alterazione dei campioni prelevati, ad esempio attraverso l’aggiunta di proteasi a un campione prelevato.
 
-### 3. Doping genetico
+### 3. Doping genetico e cellulare
 
-Trasferimento di acidi nucleici o sequenze di acido nucleico e/o utilizzo di cellule normali o geneticamente modificate.
+I seguenti metodi, potenzialmente in grado di migliorare la prestazione atletica: il trasferimento o l’utilizzo di acidi nucleici o di analoghi degli acidi nucleici in grado di alterare le sequenze del genoma o l’espressione genica con un qualsiasi meccanismo, in particolare attraverso tecnologie per l’editing dei geni, l’inattivazione dei geni, il trasferimento dei geni e l’utilizzo di cellule normali o geneticamente modificate.
