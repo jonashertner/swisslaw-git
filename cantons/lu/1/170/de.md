@@ -3,20 +3,19 @@ canton: LU
 number: "170"
 title: Gesetz über die Korporationen
 language: de
-version: 2018-01-01
-valid_until: 2023-02-28
-version_adopted: 2016-06-20
+version: 2023-03-01
+version_adopted: 2022-11-28
 adopted: 2013-12-09
 in_force: 2014-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/170"
-pdf: "https://srl.lu.ch/api/de/versions/3158/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4053/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Korporationen
 
-vom 09.12.2013 (Stand 01.01.2018)
+vom 09.12.2013 (Stand 01.03.2023)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -178,6 +177,8 @@ beschliesst:
 <sup>1</sup> Die Stimmberechtigten sind das oberste Organ der Korporation.
 
 <sup>2</sup> Soweit sie es in ihrem Reglement nicht anders geregelt haben, führen die Korporationen die Wahlen und Abstimmungen im Versammlungsverfahren durch.
+
+<sup>2<sup>bis</sup></sup> Kann bei einer Katastrophe, in einer Notlage oder in einer vergleichbaren Situation wegen einer unmittelbar drohenden schweren Gefährdung oder Störung der öffentlichen Sicherheit und Ordnung oder der öffentlichen Gesundheit eine Versammlung nicht ordnungsgemäss durchgeführt werden, so kann der Korporationsrat eine Abstimmung oder eine Wahl im Urnenverfahren anordnen.
 
 <sup>3</sup> Die Stimmberechtigung und das Verfahren richten sich nach dem Stimmrechtsgesetz vom 25. Oktober 1988[^16-1].
 
