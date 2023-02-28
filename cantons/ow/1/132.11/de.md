@@ -4,13 +4,13 @@ number: "132.11"
 title: Geschäftsordnung des Kantonsrats
 short: GO KR
 language: de
-version: 2012-07-01
-valid_until: 2023-02-28
-version_adopted: 2012-03-15
+version: 2023-03-01
+valid_until: 2023-07-31
+version_adopted: 2022-12-01
 adopted: 2005-04-21
 in_force: 2006-06-30
 url: "http://gdb.ow.ch/app/de/texts_of_law/132.11"
-pdf: "http://gdb.ow.ch/api/de/versions/1657/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1785/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1657/pdf_file"
 
 (GO KR)
 
-vom 21.04.2005 (Stand 01.07.2012)
+vom 21.04.2005 (Stand 01.03.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -206,7 +206,7 @@ beschliesst:
 
 <sup>1</sup> Die Verhandlungen des Kantonsrats werden elektronisch aufgezeichnet.
 
-<sup>2</sup> Die elektronische Aufzeichnung dient der Protokollierung und ist nicht öffentlich. Sie wird zu archivischen Zwecken aufbewahrt. Die Ratsleitung kann in begründeten Fällen eine Abklärung oder Einsichtnahme gestatten.
+<sup>2</sup> Die elektronische Aufzeichnung dient der Protokollierung. Sie wird zu archivischen Zwecken aufbewahrt und unterliegt nicht dem Gesetz über das Öffentlichkeitsprinzip. Die Ratsleitung kann in begründeten Fällen eine Abklärung oder Einsichtnahme gestatten.
 
 <sup>3</sup> Die Aufzeichnungen über Beratungen unter Ausschluss der Öffentlichkeit gemäss Art. 12 des Kantonsratsgesetzes sind nach der Protokollierung zu löschen.
 
@@ -248,16 +248,16 @@ beschliesst:
 
 **b. Einsichtgabe**
 
-<sup>1</sup> Die Kommissionsprotokolle sind unter Vorbehalt von Absatz 2 und 3 vertraulich. Sie werden, sofern die Kommission nicht anders beschliesst, zugestellt:
+<sup>1</sup> Die Kommissionsprotokolle sind vertraulich. Sie werden, sofern die Kommission nicht anders beschliesst, zugestellt:
 
 - a. den Mitgliedern der vorberatenden Kommission;
 - b. dem zuständigen Departement;
 - c. den Fraktionspräsidien auf Verlangen;
 - d. der Staatskanzlei zuhanden der Gesetzesmaterialien und der Kantonsratsakten.
 
-<sup>2</sup> Die Staatskanzlei kann nach Abschluss der Beratungen des Kantonsrats Dritten Einsicht in Kommissionsprotokolle gewähren, soweit ein Interesse im Rahmen der parlamentarischen Arbeit, der Rechtsanwendung oder der Wissenschaft glaubhaft gemacht wird. Bei Anständen entscheidet das Ratspräsidium.
+<sup>2</sup> Nach Abschluss der Beratungen des Kantonsrats bzw. nach Abschluss der Kommissionsarbeit kann Dritten nach Massgabe des Gesetzes über das Öffentlichkeitsprinzip Einsicht in die amtlichen Dokumente der Kommissionen gewährt werden. Für die Rechtsanwendung können die Protokolle der vorberatenden Kommission zu einem Erlass veröffentlicht werden.
 
-<sup>3</sup> Mit der Rechtsgültigkeit der Erlasse entfällt die Vertraulichkeit.
+<sup>3</sup> …
 
 ## 4. Verhandlungsordnung
 
@@ -612,6 +612,8 @@ Ursprüngliche Fundstelle: OGS 2005, 28
 
 geändert durch
 
-\- Nachtrag zum Gesetz über den Kantonsrat (Kantonsratsgesetz) vom 15. März 2012, in Kraft seit 1. Juli 2012 (OGS 2012, 15 und 27)
+\- Nachtrag zum Gesetz über den Kantonsrat (Kantonsratsgesetz) vom 15. März 2012, in Kraft seit 1. Juli 2012 (OGS 2012, 15 und 27),
+
+\- Gesetz über das Öffentlichkeitsprinzip vom 1. Dezember 2022 (OGS 2022, 29), Botschaft und Vorlage des Regierungsrats vom 13. Juni 2022, Kantonsratssitzungen vom 27. Oktober und 1. Dezember 2022 (22.22.01), in Kraft seit 1. März 2023 (OGS 2023, 1)
 
 OGS 2005, 28
