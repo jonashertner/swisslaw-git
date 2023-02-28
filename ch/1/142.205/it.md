@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 sull'integrazione degli stranieri (OIntS)"
 short: OIntS
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/511"
 language: it
-version: 2019-05-01
+version: 2023-03-01
 adopted: 2018-08-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/511/20190501/it/xml/fedlex-data-admin-ch-eli-cc-2018-511-20190501-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20190501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/511/20230301/it/xml/fedlex-data-admin-ch-eli-cc-2018-511-20230301-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20230301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20190501/it"
 
 (OIntS)
 
-del 15 agosto 2018 (Stato 1° maggio 2019)
+del 15 agosto 2018 (Stato 1° marzo 2023)
 
 Il Consiglio federale svizzero,
 
@@ -267,16 +267,19 @@ In merito alla promozione della prima integrazione dei rifugiati riconosciuti e 
 
 <sup>2</sup> La somma forfettaria si basa sull’indice nazionale dei prezzi al consumo al 31 ottobre 2018. Alla fine di ogni anno la SEM adatta a tale indice la somma per l’anno civile seguente.
 
+<sup>2bis</sup> Per le persone ammesse provvisoriamente, i rifugiati riconosciuti e le persone bisognose di protezione titolari di un permesso di dimora che in precedenza hanno beneficiato di una protezione provvisoria senza permesso di dimora, la somma forfettaria per persona è ridotta in ragione dell’importo delle prestazioni già corrisposte nel quadro di programmi della Confederazione per misure di sostegno a favore della persona in questione.[^15-2]
+
 <sup>3</sup> La SEM versa la somma forfettaria sulla base di accordi di programma a favore dei programmi cantonali d’integrazione.
 
 <sup>4</sup> Versa la somma forfettaria ai Cantoni due volte l’anno in virtù del numero di decisioni effettive riguardanti persone di cui al capoverso 1; sono determinanti le cifre della banca dati Finanziamento Asilo.
 
 <sup>5</sup> I Cantoni possono impiegare la somma forfettaria anche per misure ai sensi dell’articolo 14*a* capoverso 3 lettere c ed e volte a promuovere l’integrazione dei richiedenti l’asilo oggetto di una procedura ampliata.
 
-<sup>6</sup> I Cantoni possono impiegare la somma forfettaria anche per misure d’integrazione a favore di persone ammesse provvisoriamente, rifugiati riconosciuti e persone bisognose di protezione titolari di un permesso di dimora, attuate nelle strutture ordinarie dell’aiuto sociale cantonale e considerate alla stregua di prestazioni assistenziali secondo l’articolo 3 della legge federale del 24 giugno 1977[^15-2] sull’assistenza.
+<sup>6</sup> I Cantoni possono impiegare la somma forfettaria anche per misure d’integrazione a favore di persone ammesse provvisoriamente, rifugiati riconosciuti e persone bisognose di protezione titolari di un permesso di dimora, attuate nelle strutture ordinarie dell’aiuto sociale cantonale e considerate alla stregua di prestazioni assistenziali secondo l’articolo 3 della legge federale del 24 giugno 1977[^15-3] sull’assistenza.
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
-[^15-2]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
+[^15-2]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 46](https://fedlex.data.admin.ch/eli/oc/2023/46)).
+[^15-3]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
 
 #### Art. 16
 

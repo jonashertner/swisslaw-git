@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Integration von Ausländerinnen 
 short: VIntA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/511"
 language: de
-version: 2019-05-01
+version: 2023-03-01
 adopted: 2018-08-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/511/20190501/de/xml/fedlex-data-admin-ch-eli-cc-2018-511-20190501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20190501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/511/20230301/de/xml/fedlex-data-admin-ch-eli-cc-2018-511-20230301-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20230301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20190501/de"
 
 (VIntA)
 
-vom 15. August 2018 (Stand am 1. Mai 2019)
+vom 15. August 2018 (Stand am 1. März 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -267,16 +267,19 @@ Im Hinblick auf die Förderung der Erstintegration von anerkannten Flüchtlingen
 
 <sup>2</sup> Die Pauschale basiert auf dem Stand des Landesindexes der Konsumentenpreise vom 31. Oktober 2018. Das SEM passt diese Pauschale jeweils per Ende des Jahres für das folgende Kalenderjahr an diesen Index an.
 
+<sup>2bis</sup> Bei vorläufig aufgenommenen Personen, anerkannten Flüchtlingen und schutzbedürftigen Personen mit Aufenthaltsbewilligung, denen zuvor vorübergehender Schutz ohne Aufenthaltsbewilligung gewährt wurde, wird die Pauschale pro Person um die Beiträge gekürzt, die im Rahmen von Programmen des Bundes für Unterstützungsmassnahmen zugunsten dieser Person ausbezahlt wurden.[^15-2]
+
 <sup>3</sup> Das SEM richtet die Pauschale auf der Grundlage der Programmvereinbarungen zugunsten der kantonalen Integrationsprogramme aus.
 
 <sup>4</sup> Es richtet den Kantonen die Pauschale gestützt auf die Zahl der effektiven Entscheide betreffend Personen nach Absatz 1 zweimal jährlich aus; massgebend sind die Zahlen aus der Datenbank Finanzierung Asyl.
 
 <sup>5</sup> Die Kantone können die Pauschale auch für Massnahmen nach Artikel 14*a* Absatz 3 Buchstaben c und e zur Förderung der Integration von Asylsuchenden einsetzen, deren Gesuch im erweiterten Verfahren behandelt wird.
 
-<sup>6</sup> Sie können die Pauschale auch für Integrationsmassnahmen zugunsten von vorläufig aufgenommenen Personen, anerkannten Flüchtlingen und schutzbedürftigen Personen mit Aufenthaltsbewilligung einsetzen, die im Rahmen der Regelstrukturen der kantonalen Sozialhilfe umgesetzt werden und als Unterstützungen im Sinne von Artikel 3 des Zuständigkeitsgesetzes vom 24. Juni 1977[^15-2] gelten.
+<sup>6</sup> Sie können die Pauschale auch für Integrationsmassnahmen zugunsten von vorläufig aufgenommenen Personen, anerkannten Flüchtlingen und schutzbedürftigen Personen mit Aufenthaltsbewilligung einsetzen, die im Rahmen der Regelstrukturen der kantonalen Sozialhilfe umgesetzt werden und als Unterstützungen im Sinne von Artikel 3 des Zuständigkeitsgesetzes vom 24. Juni 1977[^15-3] gelten.
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
-[^15-2]: [SR 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
+[^15-2]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 1. März 2023 ([AS 2023 46](https://fedlex.data.admin.ch/eli/oc/2023/46)).
+[^15-3]: [SR 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
 
 #### Art. 16
 

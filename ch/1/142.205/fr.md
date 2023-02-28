@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'intégration des étrangers (OIE)"
 short: OIE
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/511"
 language: fr
-version: 2019-05-01
+version: 2023-03-01
 adopted: 2018-08-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/511/20190501/fr/xml/fedlex-data-admin-ch-eli-cc-2018-511-20190501-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20190501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/511/20230301/fr/xml/fedlex-data-admin-ch-eli-cc-2018-511-20230301-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20230301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20190501/fr"
 
 (OIE)
 
-du 15 août 2018 (Etat le 1<sup>er</sup> mai 2019)
+du 15 août 2018 (État le 1<sup>er</sup> mars 2023)
 
 Le Conseil fédéral suisse,
 
@@ -95,7 +95,7 @@ Dans le cadre de la collaboration interinstitutionnelle, ils coopèrent avec les
 
 ### (art. 56, al. 4, LEI)
 
-<sup>1</sup> Le SEM et les services cantonaux chargés des contacts avec le SEM pour les questions d’intégration s’assistent mutuellement dans l’accomplissement de leurs tâches. Ils procèdent régulièrement à des échanges de vues et d’expérience. Ils y associent, dans la mesure du possible, les communes et d’autres acteurs.
+Le SEM et les services cantonaux chargés des contacts avec le SEM pour les questions d’intégration s’assistent mutuellement dans l’accomplissement de leurs tâches. Ils procèdent régulièrement à des échanges de vues et d’expérience. Ils y associent, dans la mesure du possible, les communes et d’autres acteurs.
 
 #### Art. 6
 
@@ -267,16 +267,19 @@ En ce qui concerne l’encouragement de la première intégration des réfugiés
 
 <sup>2</sup> Le forfait se calcule sur la base de l’indice suisse des prix à la consommation au 31 octobre 2018. À la fin de chaque année, le SEM adapte, pour l’année civile suivante, le forfait à cet indice.
 
+<sup>2bis</sup> Le forfait en faveur d’une personne admise à titre provisoire, d’un réfugié reconnu ou d’une personne à protéger titulaire d’une autorisation de séjour après avoir bénéficié d’une protection temporaire sans autorisation de séjour est réduit à concurrence du montant versé pour l’intéressé dans le cadre de mesures de soutien financées par des programmes de la Confédération.[^15-2]
+
 <sup>3</sup> Le SEM verse le forfait sur la base d’une convention-programme en faveur des programmes d’intégration cantonaux.
 
 <sup>4</sup> Il verse le forfait aux cantons deux fois par année sur la base du nombre de décisions effectives concernant les personnes visées à l’al. 1; les chiffres qui figurent dans la banque de données sur le financement de l’asile sont déterminants.
 
 <sup>5</sup> Les cantons peuvent également utiliser le forfait pour financer des mesures visées à l’art. 14*a*, al. 3, let. c et e, visant à encourager l’intégration des requérants d’asile dont la demande est traitée en procédure étendue.
 
-<sup>6</sup> Ils peuvent également utiliser le forfait pour financer des mesures d’intégration en faveur de personnes admises à titre provisoire, de réfugiés reconnus et de personnes à protéger titulaires d’une autorisation de séjour lorsque ces mesures sont mises en œuvre dans les structures ordinaires de l’aide sociale cantonale et qu’elles sont considérées comme des prestations d’assistance au sens de l’art. 3 de la loi fédérale du 24 juin 1977 en matière d’assistance[^15-2].
+<sup>6</sup> Ils peuvent également utiliser le forfait pour financer des mesures d’intégration en faveur de personnes admises à titre provisoire, de réfugiés reconnus et de personnes à protéger titulaires d’une autorisation de séjour lorsque ces mesures sont mises en œuvre dans les structures ordinaires de l’aide sociale cantonale et qu’elles sont considérées comme des prestations d’assistance au sens de l’art. 3 de la loi fédérale du 24 juin 1977 en matière d’assistance[^15-3].
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
-[^15-2]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
+[^15-2]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 1<sup>er</sup> mars 2023 ([RO 2023 46](https://fedlex.data.admin.ch/eli/oc/2023/46)).
+[^15-3]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
 
 #### Art. 16
 
