@@ -4,13 +4,12 @@ number: "324.111"
 title: "Ordonnance cantonale sur les amendes d'ordre *"
 short: OCAO
 language: fr
-version: 2020-01-01
-valid_until: 2023-02-28
-version_adopted: 2019-11-20
+version: 2023-03-01
+version_adopted: 2022-09-07
 adopted: 2002-09-18
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/324.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1750/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2707/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1750/pdf_file"
 
 (OCAO)
 
-du 18.09.2002 (état au 01.01.2020)
+du 18.09.2002 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -161,8 +160,8 @@ arrête:
 <tr><th>F</th><th>Chasse et protection de la faune sauvage</th><th>CHF</th></tr>
 <tr><td>15</td><td>Ne pas observer l'obligation de déclarer en cas de défense personnelle (art. 8, al. 5 de l'ordonnance du 26 février 2003 sur la chasse [OCh][^A11-7] en relation avec l'art. 31, al. 1, lit. a de la loi du 25 mars 2002 sur la chasse et la faune sauvage [LCh][^A11-8])</td><td>50</td></tr>
 <tr><td>16</td><td>Ne pas avoir déclaré immédiatement une recherche de gibier qui a lieu dans le cadre des restrictions de temps ou de lieu fixées pour la chasse (art. 16 OCh en relation avec l'art. 31, al. 1, lit. a LCh)</td><td>50</td></tr>
-<tr><td>16a</td><td>Manquement à l'obligation d'établir la sûreté du tir ou de fournir une attestation ou ommission de l'inscription dans le carnet de contrôle des animaux tirés (art. 17a OCh)</td><td>100</td></tr>
 <tr><td>17</td><td>Outrepasser de 11 à 30% la distance maximale de tir admise (art. 18 OCh en relation avec l'art. 31, al. 1, lit. a LCh)</td><td>100</td></tr>
+<tr><td>17a</td><td>Armes à feu non rangées dans un étui ou dans une mallette fermée sur le siège arrière ou dans le coffre pendant le transport en véhicule (art. 19, al. 4 OCh en relation avec l'art. 31, al. 1, lit. a LCh)</td><td>50</td></tr>
 <tr><td>18</td><td>Exercice de la chasse pendant la même période après l'utilisation d'un véhicule à moteur privé (art. 21, al. 1 et 2 OCh en relation avec l'art. 31, al. 1, lit. a LCh)</td><td>100</td></tr>
 <tr><td>19</td><td>Vignette non apposée sur le véhicule (art. 21, al. 4 OCh en relation avec l'art. 31, al. 1, lit. a LCh)</td><td>20</td></tr>
 <tr><td>20</td><td>Ne pas être porteur des pièces de légitimation ou autres documents prescrits pour les invités, en particulier de l'attestation qu'un examen de chasse reconnu a été passé (art. 4, al. 1 et 2 de l'ordonnance de Direction du 27 mars 2003 sur la chasse [ODCh][^A11-9] en relation avec l'art. 18, al. 4 de la loi fédérale du 20 juin 1986 sur la chasse et la protection des mammifères et oiseaux sauvages [loi sur la chasse, LChP][^A11-10])</td><td>20</td></tr>

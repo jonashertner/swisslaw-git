@@ -4,13 +4,12 @@ number: "324.111"
 title: Kantonale Ordnungsbussenverordnung
 short: KOBV
 language: de
-version: 2020-01-01
-valid_until: 2023-02-28
-version_adopted: 2019-11-20
+version: 2023-03-01
+version_adopted: 2022-09-07
 adopted: 2002-09-18
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/324.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1750/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2707/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1750/pdf_file"
 
 (KOBV)
 
-vom 18.09.2002 (Stand 01.01.2020)
+vom 18.09.2002 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -161,8 +160,8 @@ beschliesst:
 <tr><th>F</th><th>Jagd und Wildtierschutz</th><th>CHF</th></tr>
 <tr><td>15</td><td>Unterlassen der Meldepflicht bei der Selbsthilfe (Art. 8 Abs. 5 der Jagdverordnung vom 26. Februar 2003 [JaV][^A11-7] i.V.m. Art. 31 Abs. 1 Bst. a des Gesetzes vom 25. März 2002 über Jagd und Wildtierschutz [JWG][^A11-8])</td><td>50</td></tr>
 <tr><td>16</td><td>Nicht unverzügliches Melden von Nachsuchen, die innerhalb der zeitlichen oder örtlichen Beschränkung der Jagd stattfinden (Art. 16 JaV i.V.m. Art. 31 Abs. 1 Bst. a JWG)</td><td>50</td></tr>
-<tr><td>16a</td><td>Kein Treffsicherheitsnachweis oder kein Beleg oder kein Eintrag im Abschusskontrollheft (Art. 17a JaV)</td><td>100</td></tr>
 <tr><td>17</td><td>Überschreitung der maximal zulässigen Schussdistanz (Art. 18 JaV i.V.m. Art. 31 Abs. 1 Bst. a JWG) um 11 bis 30%</td><td>100</td></tr>
+<tr><td>17a</td><td>Schusswaffen, die während des Transports im Fahrzeug nicht in einem Futteral oder verschlossenen Waffenkoffer auf dem Rücksitz oder im Kofferraum mitgeführt wurden (Art. 19 Abs. 4 JaV i.V.m. Art. 31 Abs. 1 Bst. a JWG)</td><td>50</td></tr>
 <tr><td>18</td><td>Aufnahme der Jagd nach Gebrauch eines Motorfahrzeugs in der gleichen Zeitperiode (Art. 21 Abs. 1 und 2 JaV i.V.m. Art. 31 Abs. 1 Bst. a JWG)</td><td>100</td></tr>
 <tr><td>19</td><td>Nichtanbringen der Fahrzeugvignette (Art. 21 Abs. 4 JaV i.V.m. Art. 31 Abs. 1 Bst. a JWG)</td><td>20</td></tr>
 <tr><td>20</td><td>Nichtmitführen der für Gäste vorgeschriebenen Ausweise und Papiere, insbesondere der Bestätigung über die anerkannte Jagdprüfung (Art. 4 Abs. 1 und 2 der Direktionsverordnung vom 27. März 2003 über die Jagd [JaDV][^A11-9] i.V.m. Art. 18 Abs. 4 des Bundesgesetzes vom 20. Juni 1986 über die Jagd und den Schutz wildlebender Säugetiere und Vögel [Jagdgesetz, JSG][^A11-10])</td><td>20</td></tr>
