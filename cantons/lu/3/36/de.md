@@ -4,13 +4,12 @@ number: "36"
 title: "Verordnung über die Organisation, die Führung und die Kontrolle der kantonalen Verwaltung"
 short: "Organisationsverordnung, OV"
 language: de
-version: 2021-09-01
-valid_until: 2023-02-28
-version_adopted: 2021-08-23
+version: 2023-03-01
+version_adopted: 2023-02-07
 adopted: 2017-07-04
 in_force: 2017-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/36"
-pdf: "https://srl.lu.ch/api/de/versions/3814/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4054/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3814/pdf_file"
 
 (Organisationsverordnung, OV)
 
-vom 04.07.2017 (Stand 01.09.2021)
+vom 04.07.2017 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -305,20 +304,54 @@ beschliesst:
 
 <sup>2</sup> In Beschwerdeverfahren vor Gerichten nimmt das sachlich zuständige Departement Stellung, soweit der Regierungsrat nichts anderes anordnet.
 
-## 7 Meldungen von Verwaltungsmitarbeiterinnen und ‑mitarbeitern
+## 7 Meldungen von kantonalen Angestellten
 
 #### § 22
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der Verwaltung können Meldung gemäss § 46a Absatz 1 des Personalgesetzes[^22-1] erstatten:
+<sup>1</sup> Die kantonalen Angestellten können Meldung gemäss § 46a Absatz 1 des Personalgesetzes[^22-1] erstatten:
 
 - a. ihren Vorgesetzten,
-- b. dem Aufsichtsorgan über das Organ, dem der Mitarbeiter oder die Mitarbeiterin angehört.
+- b. dem Aufsichtsorgan über das Organ, dem der Mitarbeiter oder die Mitarbeiterin angehört,
+- c. der Anlaufstelle in Verwaltungsangelegenheiten für kantonale Angestellte.
 
-<sup>2</sup> Der oder die Vorgesetzte oder das Aufsichtsorgan nimmt die Meldung zur Prüfung entgegen.
+<sup>2</sup> Der oder die Vorgesetzte, das Aufsichtsorgan oder die Anlaufstelle nimmt die Meldung zur Prüfung entgegen. Für Meldungen bedarf es keiner Entbindung von der Geheimhaltungspflicht.
 
 <sup>3</sup> Wer Meldung erstattet, darf weder direkt noch indirekt benachteiligt werden.
 
 [^22-1]: SRL Nr. [51](https://srl.lu.ch/data/51/de)
+
+## 7a Anlaufstelle in Verwaltungsangelegenheiten für kantonale Angestellte
+
+#### § 22a
+
+**Anlaufstelle**
+
+<sup>1</sup> Der Regierungsrat ernennt als Anlaufstelle in Verwaltungsangelegenheiten für kantonale Angestellte eine verwaltungsexterne Fachperson als Beauftragten oder Beauftragte.
+
+<sup>2</sup> Der oder die Beauftragte übt die Funktion auf der Grundlage einer öffentlich-rechtlichen Vereinbarung fachlich selbständig und unabhängig aus. Die Staatskanzlei regelt die Einzelheiten.
+
+<sup>3</sup> Der oder die Beauftragte darf in keinem öffentlich-rechtlichen Arbeitsverhältnis mit dem Kanton Luzern stehen und keine leitende Funktion in einer politischen Partei oder bei einem Interessenverband ausüben.
+
+<sup>4</sup> Er oder sie erstattet dem Regierungsrat jährlich Bericht.
+
+#### § 22b
+
+**Meldungen**
+
+<sup>1</sup> Dem oder der Beauftragten können von kantonalen Angestellten Missstände, wie Verstösse gegen Gesetze oder Verordnungen, oder andere Unregelmässigkeiten sowie Mängel und Risiken in der Tätigkeit der Departemente, der Staatskanzlei und der Dienststellen gemeldet werden. Meldungen aus der Bevölkerung nimmt der oder die Beauftragte nicht entgegen.
+
+<sup>2</sup> Die Meldungen können mündlich oder schriftlich erstattet werden.
+
+<sup>3</sup> Der oder die Beauftragte behandelt die eingehenden Meldungen und die Daten der meldenden Personen vertraulich und ist zu Verschwiegenheit im Sinn von § 52 des Personalgesetzes[^22b-1] verpflichtet. Insbesondere gibt er oder sie die Namen der meldenden Personen ohne deren Einverständnis nicht bekannt und stellt sicher, dass keine Rückschlüsse auf diese möglich sind.
+
+<sup>4</sup> Der oder die Beauftragte kann der meldenden Person zum weiteren Vorgehen Rat erteilen und den gemeldeten Sachverhalt im Hinblick auf Rechtmässigkeit und Angemessenheit sowie auf Befolgung der übrigen Grundsätze gemäss den §§ 21, 21a und 21b des Organisationsgesetzes[^22b-2] abklären. Ein Anspruch auf Abklärung besteht nicht.
+
+<sup>5</sup> Der oder die Beauftragte kann den Departementen, der Staatskanzlei und den Dienststellen Anregungen geben und, sofern er oder sie eine Massnahme als notwendig erachtet, eine schriftliche Empfehlung abgeben. Das Departement, die Staatskanzlei oder die Dienststelle hat die Anregungen und Empfehlungen zu prüfen und den oder die Beauftragte in der Regel innert Monatsfrist über deren Behandlung zu informieren.
+
+<sup>6</sup> Der oder die Beauftragte kann der meldenden Person Auskunft über die Behandlung ihrer Meldung geben.
+
+[^22b-1]: SRL Nr. [51](https://srl.lu.ch/data/51/de)
+[^22b-2]: SRL Nr. [20](https://srl.lu.ch/data/20/de)
 
 ## 8 Liste der geplanten Verordnungsänderungen
 
