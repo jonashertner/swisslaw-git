@@ -4,13 +4,13 @@ number: "818.111"
 title: Ausführungsbestimmungen zum Veterinärgesetz
 short: AB VetG
 language: de
-version: 2016-01-01
-valid_until: 2023-02-28
-version_adopted: 2015-12-01
+version: 2023-03-01
+valid_until: 2024-11-30
+version_adopted: 2023-01-24
 adopted: 2011-01-11
 in_force: 2011-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/818.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1696/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1789/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1696/pdf_file"
 
 (AB VetG)
 
-vom 11.01.2011 (Stand 01.01.2016)
+vom 11.01.2011 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -121,9 +121,9 @@ beschliesst:
 
 **Inkasso der Beiträge**
 
-<sup>1</sup> Die Beiträge der Tierhalter und der Tierhalterinnen werden in der Regel mit den landwirtschaftlichen Direktzahlungen verrechnet. Falls dies nicht möglich ist, werden Beiträge, die mehr als Fr. 20.– betragen, in Rechnung gestellt.
+<sup>1</sup> Die Beiträge der Tierhalter und der Tierhalterinnen werden in der Regel mit den landwirtschaftlichen Direktzahlungen verrechnet. Falls dies nicht möglich ist, werden Beiträge ab Fr. 20.– in Rechnung gestellt.
 
-<sup>2</sup> Die Beiträge der Bienenhalter und Bienenhalterinnen werden durch den Bienenzüchterverein Obwalden eingezogen, auch wenn sie weniger als Fr. 20.– betragen.
+<sup>2</sup> …
 
 ## 5. Schlussbestimmungen
 
@@ -141,6 +141,8 @@ Ursprüngliches Inkrafttreten: 1. Januar 2011
 
 geändert durch:
 
-\- Nachtrag vom 1. Dezember 2015, in Kraft seit 1. Januar 2016 (OGS 2015, 69)
+\- Nachtrag vom 1. Dezember 2015, in Kraft seit 1. Januar 2016 (OGS 2015, 69),
+
+\- Nachtrag vom 24. Januar 2023, in Kraft seit 1.März 2023 (OGS 2023, 4)
 
 OGS 2011, 4
