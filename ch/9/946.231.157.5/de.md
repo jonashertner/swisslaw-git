@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: Verordnung vom 17. Oktober 2018 über Massnahmen gegenüber Myanmar
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: de
-version: 2022-11-22
+version: 2023-03-02
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20221122/de/xml/fedlex-data-admin-ch-eli-cc-2018-560-20221122-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20221122/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20230302/de/xml/fedlex-data-admin-ch-eli-cc-2018-560-20230302-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20230302/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Myanmar
 
-vom 17. Oktober 2018 (Stand am 22. November 2022)
+vom 17. Oktober 2018 (Stand am 2. März 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -227,8 +227,8 @@ Anhang 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Jan. 2019 ([AS 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), vom 20. Mai 2019 ([AS 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), vom 6. Mai 2020 ([AS 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), vom 31. März 2021 ([AS 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), vom 29. April 2021 ([AS 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), vom 10. Mai 2021 ([AS 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), vom 30. Juni 2021 ([AS 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), vom 4. März 2022 ([AS 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)) und vom 21. Nov. 2022, in Kraft seit 22. Nov. 2022 um 18.00 Uhr ([AS 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)).
-[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/697](https://fedlex.data.admin.ch/eli/oc/2022/697) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Jan. 2019 ([AS 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), vom 20. Mai 2019 ([AS 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), vom 6. Mai 2020 ([AS 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), vom 31. März 2021 ([AS 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), vom 29. April 2021 ([AS 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), vom 10. Mai 2021 ([AS 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), vom 30. Juni 2021 ([AS 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), vom 4. März 2022 ([AS 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), vom 21. Nov. 2022 ([AS 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)) und vom 1. März 2023, in Kraft seit 2. März 2023 um 18.00 Uhr (AS **202****3** 99).
+[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/99](https://fedlex.data.admin.ch/eli/oc/2023/99) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 2
 

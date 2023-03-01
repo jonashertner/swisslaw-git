@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: "Ordonnance du 17 octobre 2018 instituant des mesures à l'encontre du Myanmar"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: fr
-version: 2022-11-22
+version: 2023-03-02
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20221122/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20221122-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20221122/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20230302/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20230302-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20230302/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Myanmar
 
-du 17 octobre 2018 (État le 22 novembre 2022)
+du 17 octobre 2018 (État le 2 mars 2023)
 
 Le Conseil fédéral suisse,
 
@@ -227,8 +227,8 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I des O du DEFR du 17 janv. 2019 ([RO 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), du 20 mai 2019 ([RO 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), du 6 mai 2020 ([RO 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), le ch. I de l’O du 31 mars 2021 ([RO 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), le ch. I des O du DEFR du 29 avr. 2021 ([RO 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), du 10 mai 2021 ([RO 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), du 30 juin 2021 ([RO 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), du 4 mars 2022 ([RO 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)) et du 21 nov. 2022, en vigueur depuis le 22 nov. 2022 à 18 heures ([RO 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)).
-[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/697](https://fedlex.data.admin.ch/eli/oc/2022/697) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 17 janv. 2019 ([RO 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), du 20 mai 2019 ([RO 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), du 6 mai 2020 ([RO 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), le ch. I de l’O du 31 mars 2021 ([RO 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), le ch. I des O du DEFR du 29 avr. 2021 ([RO 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), du 10 mai 2021 ([RO 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), du 30 juin 2021 ([RO 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), du 4 mars 2022 ([RO 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), du 21 nov. 2022 ([RO 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)) et du 1<sup>er</sup> mars 2023, en vigueur depuis le 2 mars 2023 à 18 heures ([RO 2023 99](https://fedlex.data.admin.ch/eli/oc/2023/99)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/99](https://fedlex.data.admin.ch/eli/oc/2023/99) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 2
 
