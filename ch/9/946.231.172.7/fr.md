@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordonnance du 8 juin 2012 instituant des mesures à l'encontre de la Syrie"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: fr
-version: 2022-09-28
+version: 2023-03-03
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20220928/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20220928-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20220928/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20230303/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20230303-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20230303/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Syrie
 
-du 8 juin 2012 (État le 28 septembre 2022)
+du 8 juin 2012 (État le 3 mars 2023)
 
 Le Conseil fédéral suisse,
 
@@ -121,21 +121,22 @@ Il est interdit:
 Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas:
 
 - a. à l’achat de pétrole et de produits pétroliers exportés depuis la Syrie avant le 24 septembre 2011;
-- b.
+- b.[^3-1]
 
   à l’achat et au transport de produits pétroliers en vue:
 
-  - 1\. de la fourniture d’une aide humanitaire ou d’une aide à la population civile en Syrie par des organismes publics ou par des entreprises et entités recevant des contributions de la Confédération à cette fin,
-  - 2\. de l’exercice des activités officielles de représentations diplomatiques ou consulaires de la Suisse et de l’accomplissement de missions officielles de la Confédération.[^3-1]
+  - 1\. de la réalisation d’activités humanitaires ou de la fourniture d’une aide à la population civile en Syrie par des organismes publics ou par des entreprises et entités qui reçoivent un financement de la Confédération pour mener des activités humanitaires ou fournir une aide à la population civile,
+  - 2\. de l’exercice d’activités officielles de représentations diplomatiques ou consulaires de la Suisse et l’accomplissement de missions officielles de la Confédération.[^3-2]
 
 <sup>4</sup> Il est interdit d’octroyer un prêt ou un crédit à une personne ou une entité syrienne exerçant des activités d’exploration, de production ou de raffinage de pétrole. Cette interdiction ne s’applique pas aux contrats conclus avant le 1<sup>er</sup> octobre 2011.
 
 <sup>5</sup> Il est interdit d’acquérir ou d’augmenter une participation dans une personne ou entité syrienne participant à des activités d’exploration, de production ou de raffinage de pétrole et de créer une coentreprise avec elle. Cette interdiction ne s’applique pas aux contrats conclus avant le 1<sup>er</sup> octobre 2011.
 
-<sup>6</sup> Le SECO peut, après avoir consulté les services compétents du DFAE, accorder des dérogations aux interdictions prévues aux al. 1, 2, 4 et 5 pour permettre de servir des buts humanitaires.[^3-2]
+<sup>6</sup> Le SECO peut, après avoir consulté les services compétents du DFAE, accorder des dérogations aux interdictions prévues aux al. 1, 2, 4 et 5 pour permettre de servir des buts humanitaires.[^3-3]
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 10 mars 2017, en vigueur depuis le 10 mars 2017 ([RO 2017 705](https://fedlex.data.admin.ch/eli/oc/2017/132)).
-[^3-2]: Introduit par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 10 mars 2017, en vigueur depuis le 10 mars 2017 ([RO 2017 705](https://fedlex.data.admin.ch/eli/oc/2017/132)).
+[^3-3]: Introduit par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 
 #### Art. 4
 
@@ -255,14 +256,16 @@ L’interdiction prévue à l’al. 1 ne s’applique pas s’il est établi:
 
 <sup>1</sup> Les avoirs et les ressources économiques appartenant à ou sous contrôle des personnes physiques, entreprises et entités citées à l’annexe 7 sont gelés.
 
-<sup>2</sup> Il est interdit de fournir des avoirs aux personnes physiques, entreprises et entités visées par le gel des avoirs ou de mettre à leur disposition, directement ou indirectement, des avoirs ou des ressources économiques. Cette interdiction ne s’applique pas à l’achat ni au transport de produits pétroliers aux fins énoncées à l’art. 3, al. 3, let. b.[^10-1]
+<sup>2</sup> Il est interdit de fournir des avoirs aux personnes physiques, entreprises et entités visées par le gel des avoirs ou de mettre à leur disposition, directement ou indirectement, des avoirs ou des ressources économiques.[^10-1]
 
 <sup>2bis</sup>
 
-Le SECO peut accorder des dérogations à l’interdiction prévue à l’al. 2 lorsque les transactions financières sont nécessaires pour:
+L’interdiction prévue à l’al. 2 ne s’applique pas lorsque la fourniture des avoirs ou la mise à disposition des avoirs ou des ressources économiques est nécessaire:
 
-- a. la fourniture d’une aide humanitaire ou d’une aide à la population civile en Syrie par des organismes publics ou par des entreprises et entités recevant des contributions de la Confédération à cette fin;
-- b. l’exercice des activités officielles de représentations diplomatiques ou consulaires de la Suisse et l’accomplissement de missions officielles de la Confédération.[^10-2]
+- a. à la réalisation d’activités humanitaires ou à la fourniture d’une aide à la population civile en Syrie par des organismes publics ou par des entreprises et entités qui reçoivent un financement de la Confédération pour mener des activités humanitaires ou fournir une aide à la population civile, ou
+- b. à l’exercice des activités officielles de représentations diplomatiques ou consulaires de la Suisse et l’accomplissement de missions officielles de la Confédération.[^10-2]
+
+<sup>2ter</sup> Le SECO peut, exceptionnellement, autoriser des dérogations aux interdictions prévues à l’al. 2 pour permettre la réalisation d’activités humanitaires ou la fourniture d’une aide à la population civile en Syrie.[^10-3]
 
 <sup>3</sup>
 
@@ -272,16 +275,16 @@ Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des co
 - b. d’honorer des contrats existants;
 - c. d’honorer des créances en application d’une décision judiciaire, administrative ou arbitrale;
 - d. de sauvegarder des intérêts suisses, ou
-- e.[^10-3]
+- e.[^10-4]
 
   de fournir un appui financier à des ressortissants syriens non inscrits sur la liste figurant à l’annexe 7 qui:
 
   - 1\. suivent un enseignement ou une formation professionnelle en Suisse, ou
   - 2\. y sont engagés dans la recherche universitaire;
 
-- f.[^10-4] de les utiliser à des fins humanitaires;
-- g.[^10-5] de détruire des armes chimiques ou des installations destinées à la fabrication d’armes chimiques;
-- h.[^10-6] de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires syriennes.
+- f.[^10-5] de les utiliser à des fins humanitaires;
+- g.[^10-6] de détruire des armes chimiques ou des installations destinées à la fabrication d’armes chimiques;
+- h.[^10-7] de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires syriennes.
 
 <sup>4</sup>
 
@@ -291,14 +294,16 @@ Le SECO peut, exceptionnellement, autoriser la libération d’avoirs et de ress
 - b. d’honorer les crédits commerciaux;
 - c. d’honorer les contrats commerciaux, dans la mesure où le paiement ne favorise pas une activité interdite au sens de la présente ordonnance.
 
-<sup>5</sup> Le SECO autorise les dérogations prévues aux al. 3 et 4 après avoir consulté les services compétents du DFAE et du Département fédéral des finances (DFF).
+<sup>5</sup> Il autorise les dérogations prévues aux al. 2<sup>ter</sup>, 3 et 4 après avoir consulté les services compétents du DFAE et du Département fédéral des finances (DFF).[^10-8]
 
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 10 mars 2017, en vigueur depuis le 10 mars 2017 ([RO 2017 705](https://fedlex.data.admin.ch/eli/oc/2017/132)).
-[^10-2]: Introduit par le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 15 nov. 2019 ([RO 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)).
-[^10-3]: Introduite par le ch. I de l’O du 19 déc. 2012, en vigueur depuis le 21 déc. 2012 ([RO 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^10-4]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-2]: Introduit par le ch. I de l’O du 16 oct. 2019 ([RO 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-3]: Introduit par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-4]: Introduite par le ch. I de l’O du 19 déc. 2012, en vigueur depuis le 21 déc. 2012 ([RO 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
 [^10-5]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^10-6]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-7]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-8]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 
 #### Art. 11
 

@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordinanza dell' 8 giugno 2012 che istituisce provvedimenti nei confronti della Siria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: it
-version: 2022-09-28
+version: 2023-03-03
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20220928/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20220928-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20220928/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20230303/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20230303-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20230303/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Siria
 
-dell’8 giugno 2012 (Stato 28 settembre 2022)
+dell’8 giugno 2012 (Stato 3 marzo 2023)
 
 Il Consiglio federale svizzero,
 
@@ -123,21 +123,22 @@ Per quanto concerne il petrolio e i prodotti petroliferi di cui all’allegato 2
 I divieti di cui ai capoversi 1 e 2 non si applicano:
 
 - a. all’acquisto di petrolio e prodotti petroliferi esportati dalla Siria prima del 24 settembre 2011;
-- b.
+- b.[^3-1]
 
-  all’acquisto e al trasporto di prodotti petroliferi finalizzati a:
+  all’acquisto e al trasporto di prodotti petroliferi per:
 
-  - 1\. fornire aiuto umanitario e sostegno alla popolazione civile in Siria per il tramite di servizi pubblici o imprese e organizzazioni che ricevono a tal fine contributi federali,
-  - 2\. svolgere le attività ufficiali delle rappresentanze diplomatiche e consolari della Svizzera e adempiere missioni ufficiali della Confederazione.[^3-1]
+  - 1\. svolgere attività umanitarie o di sostegno alla popolazione civile in Siria per il tramite di servizi pubblici o imprese e organizzazioni che ricevono contributi federali per svolgere attività umanitarie o di sostegno alla popolazione civile,
+  - 2\. svolgere attività ufficiali delle rappresentanze diplomatiche o consolari della Svizzera e adempiere missioni ufficiali della Confederazione.[^3-2]
 
 <sup>4</sup> È vietato concedere prestiti o crediti a persone od organizzazioni siriane che partecipano alla prospezione, all’estrazione o alla raffinazione di petrolio. Il divieto non si applica ai contratti conclusi prima del 1° ottobre 2011.
 
 <sup>5</sup> È vietato acquisire o aumentare partecipazioni in persone fisiche od organizzazioni siriane che partecipano ad attività di cui al capoverso 4 e costituire joint venture con esse. Il divieto non si applica ai contratti conclusi prima del 1° ottobre 2011.
 
-<sup>6</sup> La SECO può, d’intesa con i competenti uffici del DFAE, autorizzare deroghe a scopi umanitari ai divieti di cui ai capoversi 1, 2, 4 e 5.[^3-2]
+<sup>6</sup> La SECO può, d’intesa con i competenti uffici del DFAE, autorizzare deroghe a scopi umanitari ai divieti di cui ai capoversi 1, 2, 4 e 5.[^3-3]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 10 mar. 2017, in vigore dal 10 mar. 2017 ([RU 2017 705](https://fedlex.data.admin.ch/eli/oc/2017/132)).
-[^3-2]: Introdotto dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^3-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del 10 mar. 2017, in vigore dal 10 mar. 2017 ([RU 2017 705](https://fedlex.data.admin.ch/eli/oc/2017/132)).
+[^3-3]: Introdotto dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 
 #### Art. 4
 
@@ -257,14 +258,16 @@ Il divieto di cui al capoverso 1 non si applica se si può dimostrare che:
 
 <sup>1</sup> Sono bloccati gli averi e le risorse economiche di proprietà o sotto il controllo delle persone fisiche, delle imprese o delle organizzazioni menzionate nell’allegato 7.
 
-<sup>2</sup> È vietato trasferire averi alle persone fisiche, alle imprese e alle organizzazioni che sottostanno al blocco, oppure mettere a loro disposizione, direttamente o indirettamente, tali averi e risorse economiche. Il divieto non si applica all’acquisto e al trasporto di prodotti petroliferi per gli scopi di cui all’articolo 3 capoverso 3 lettera b.[^10-1]
+<sup>2</sup> È vietato traferire averi alle persone fisiche, alle imprese e alle organizzazioni che sottostanno al blocco oppure mettere altrimenti a disposizione, direttamente o indirettamente, averi e risorse economiche.[^10-1]
 
 <sup>2bis</sup>
 
-La SECO può autorizzare deroghe al divieto di cui al capoverso 2 quando le transazioni finanziarie sono necessarie per:
+Il divieto di cui al capoverso 2 non si applica quando il trasferimento di averi o la messa a disposizione di averi o risorse economiche è necessario per:
 
-- a. fornire aiuto umanitario e sostegno alla popolazione civile in Siria per il tramite di servizi pubblici o imprese e organizzazioni che ricevono a tal fine contributi federali;
-- b. svolgere le attività ufficiali delle rappresentanze diplomatiche e consolari della Svizzera e adempiere missioni ufficiali della Confederazione.[^10-2]
+- a. svolgere attività umanitarie o di sostegno alla popolazione civile in Siria per il tramite di servizi pubblici o imprese e organizzazioni che ricevono contributi federali per svolgere attività umanitarie o di sostegno alla popolazione civile; oppure
+- b. svolgere attività ufficiali delle rappresentanze diplomatiche o consolari della Svizzera e adempiere missioni ufficiali della Confederazione.[^10-2]
+
+<sup>2ter</sup> La SECO può autorizzare deroghe ai divieti di cui al capoverso 2 per permettere lo svolgimento di attività umanitarie o di sostegno alla popolazione civile in Siria.[^10-3]
 
 <sup>3</sup>
 
@@ -274,16 +277,16 @@ La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimen
 - b. rispettare contratti esistenti;
 - c. rispettare crediti oggetto di una sentenza giudiziaria, amministrativa o arbitrale; oppure
 - d. tutelare interessi svizzeri;
-- e.[^10-3]
+- e.[^10-4]
 
   sostenere finanziariamente i cittadini siriani non menzionati nell’allegato 7 che, in Svizzera:
 
   - 1\. seguono una formazione generale o professionale, oppure
   - 2\. effettuano attività di ricerca universitaria;
 
-- f.[^10-4] utilizzarli a scopi umanitari;
-- g.[^10-5] distruggere armi chimiche o impianti destinati alla fabbricazione di armi chimiche;
-- h.[^10-6] adempiere agli scopi ufficiali di missioni diplomatiche o consolari siriane.
+- f.[^10-5] utilizzarli a scopi umanitari;
+- g.[^10-6] distruggere armi chimiche o impianti destinati alla fabbricazione di armi chimiche;
+- h.[^10-7] adempiere agli scopi ufficiali di missioni diplomatiche o consolari siriane.
 
 <sup>4</sup>
 
@@ -293,14 +296,16 @@ La SECO, eccezionalmente, può autorizzare la liberazione di risorse economiche 
 - b. l’impiego di crediti commerciali;
 - c. l’adempimento di contratti commerciali, purché il pagamento non contribuisca ad una delle attività proibite dalla presente ordinanza.
 
-<sup>5</sup> La SECO autorizza le attività di cui ai capoversi 3 e 4 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze (DFF).
+<sup>5</sup> La SECO autorizza le attività di cui ai capoversi 2<sup>ter</sup>, 3 e 4 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze (DFF).[^10-8]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 10 mar. 2017, in vigore dal 10 mar. 2017 ([RU 2017 705](https://fedlex.data.admin.ch/eli/oc/2017/132)).
-[^10-2]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 15 nov. 2019 ([RU 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)).
-[^10-3]: Introdotta dal n. I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^10-4]: Introdotta dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-2]: Introdotto dal n. I dell’O del 16 ott. 2019 ([RU 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-3]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-4]: Introdotta dal n. I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
 [^10-5]: Introdotta dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^10-6]: Introdotta dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-7]: Introdotta dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-8]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 
 #### Art. 11
 

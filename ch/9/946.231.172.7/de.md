@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: Verordnung vom 8. Juni 2012 über Massnahmen gegenüber Syrien
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: de
-version: 2022-09-28
+version: 2023-03-03
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20220928/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20220928-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20220928/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20230303/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20230303-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20230303/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Syrien
 
-vom 8. Juni 2012 (Stand am 28. September 2022)
+vom 8. Juni 2012 (Stand am 3. März 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -121,21 +121,22 @@ Es ist verboten, Erdöl und Erdölprodukte nach Anhang 2:
 Die Verbote nach den Absätzen 1 und 2 gelten nicht für:
 
 - a. den Kauf von Erdöl und Erdölprodukten, die vor dem 24. September 2011 aus Syrien ausgeführt wurden;
-- b.
+- b.[^3-1]
 
   den Kauf und den Transport von Erdölprodukten zur:
 
-  - 1\. Erbringung humanitärer Hilfe und Unterstützung der Zivilbevölkerung in Syrien durch öffentliche Stellen sowie Unternehmen und Organisationen, die dafür Beiträge des Bundes erhalten,
-  - 2\. Ausübung der amtlichen Tätigkeiten von diplomatischen und konsularischen Vertretungen der Schweiz und zur Erfüllung offizieller Missionen des Bundes.[^3-1]
+  - 1\. Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung in Syrien durch öffentliche Stellen oder durch Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung Beiträge des Bundes erhalten,
+  - 2\. Ausübung amtlicher Tätigkeiten diplomatischer und konsularischer Vertretungen der Schweiz und zur Erfüllung offizieller Missionen des Bundes.[^3-2]
 
 <sup>4</sup> Es ist verboten, syrischen Personen oder Organisationen, die an der Exploration, Förderung oder Raffination von Erdöl beteiligt sind, Darlehen oder Kredite zu gewähren. Ausgenommen sind Verträge, die vor dem 1. Oktober 2011 abgeschlossen wurden.
 
 <sup>5</sup> Es ist verboten, Beteiligungen an syrischen Personen oder Organisationen, die an der Exploration, Förderung oder Raffination von Erdöl beteiligt sind, zu erwerben oder auszuweiten und mit ihnen Jointventures zu gründen. Ausgenommen sind Verträge, die vor dem 1. Oktober 2011 abgeschlossen wurden.
 
-<sup>6</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA zur Erfüllung humanitärer Zwecke Ausnahmen von den Verboten nach den Absätzen 1, 2, 4 und 5 bewilligen.[^3-2]
+<sup>6</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA zur Erfüllung humanitärer Zwecke Ausnahmen von den Verboten nach den Absätzen 1, 2, 4 und 5 bewilligen.[^3-3]
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 10. März 2017, in Kraft seit 10. März 2017 ([AS 2017 705](https://fedlex.data.admin.ch/eli/oc/2017/132)).
-[^3-2]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^3-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr (AS **20****23** 109).
+[^3-2]: Fassung gemäss Ziff. I der V vom 10. März 2017, in Kraft seit 10. März 2017 ([AS 2017 705](https://fedlex.data.admin.ch/eli/oc/2017/132)).
+[^3-3]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 
 #### Art. 4
 
@@ -255,14 +256,16 @@ Das Verbot nach Absatz 1 gilt nicht, wenn nachgewiesen werden kann, dass:
 
 <sup>1</sup> Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder unter der Kontrolle der natürlichen Personen, Unternehmen oder Organisationen nach Anhang 7 befinden, sind gesperrt.
 
-<sup>2</sup> Es ist verboten, den von der Sperrung betroffenen natürlichen Personen, Unternehmen und Organisationen Gelder zu überweisen oder diesen Gelder und wirtschaftliche Ressourcen sonst wie direkt oder indirekt zur Verfügung zu stellen. Das Verbot gilt nicht für den Kauf und den Transport von Erdölprodukten für Zwecke nach Artikel 3 Absatz 3 Buchstabe b.[^10-1]
+<sup>2</sup> Es ist verboten, den von der Sperrung betroffenen natürlichen Personen, Unternehmen und Organisationen Gelder zu überweisen oder Gelder und wirtschaftliche Ressourcen sonst wie direkt oder indirekt zur Verfügung zu stellen.[^10-1]
 
 <sup>2bis</sup>
 
-Das SECO kann Ausnahmen von dem Verbot nach Absatz 2 bewilligen für Finanztransaktionen, die notwendig sind:
+Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder die Bereitstellung von Geldern oder wirtschaftlichen Ressourcen erforderlich ist:
 
-- a. zur Erbringung humanitärer Hilfe oder zur Unterstützung der Zivilbevölkerung in Syrien durch öffentliche Stellen oder durch Unternehmen oder Organisationen, die dafür Beiträge des Bundes erhalten;
-- b. zur Ausübung der amtlichen Tätigkeiten von diplomatischen oder konsularischen Vertretungen der Schweiz oder zur Erfüllung offizieller Missionen des Bundes.[^10-2]
+- a. zur Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung in Syrien durch öffentliche Stellen oder durch Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung Beiträge des Bundes erhalten; oder
+- b. zur Ausübung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen der Schweiz und zur Erfüllung offizieller Missionen des Bundes.[^10-2]
+
+<sup>2ter</sup> Das SECO kann Ausnahmen von den Verboten nach Absatz 2 bewilligen, um die Durchführung humanitärer Aktivitäten oder die Unterstützung der Zivilbevölkerung in Syrien zu ermöglichen.[^10-3]
 
 <sup>3</sup>
 
@@ -272,16 +275,16 @@ Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermög
 - b. Erfüllung bestehender Verträge;
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind; oder
 - d. Wahrung schweizerischer Interessen;
-- e.[^10-3]
+- e.[^10-4]
 
   finanziellen Unterstützung syrischer Staatsbürger, die nicht in Anhang 7 aufgeführt sind und die in der Schweiz:
 
   - 1\. eine allgemeine oder berufliche Ausbildung durchlaufen, oder
   - 2\. in der akademischen Forschung tätig sind;
 
-- f.[^10-4] Verwendung für humanitäre Zwecke;
-- g.[^10-5] Vernichtung chemischer Waffen oder Zerstörung von Anlagen zur Herstellung chemischer Waffen;
-- h.[^10-6] Erfüllung der amtlichen Tätigkeit syrischer diplomatischer oder konsularischer Vertretungen.
+- f.[^10-5] Verwendung für humanitäre Zwecke;
+- g.[^10-6] Vernichtung chemischer Waffen oder Zerstörung von Anlagen zur Herstellung chemischer Waffen;
+- h.[^10-7] Erfüllung der amtlichen Tätigkeit syrischer diplomatischer oder konsularischer Vertretungen.
 
 <sup>4</sup>
 
@@ -291,14 +294,16 @@ Das SECO kann die Freigabe von gesperrten Geldern und wirtschaftlichen Ressource
 - b. die Bedienung von Handelskrediten;
 - c. die Erfüllung von Handelsverträgen, sofern die Zahlung nicht zu einer nach dieser Verordnung verbotenen Aktivität beiträgt.
 
-<sup>5</sup> Das SECO bewilligt Ausnahmen nach den Absätzen 3 und 4 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements (EFD).
+<sup>5</sup> Es bewilligt Ausnahmen nach den Absätzen 2<sup>ter</sup>, 3 und 4 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements (EFD).[^10-8]
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 10. März 2017, in Kraft seit 10. März 2017 ([AS 2017 705](https://fedlex.data.admin.ch/eli/oc/2017/132)).
-[^10-2]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 15. Nov. 2019 ([AS 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)).
-[^10-3]: Eingefügt durch Ziff. I der V vom 19. Dez. 2012, in Kraft seit 21. Dez. 2012 ([AS 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^10-4]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-2]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019 ([AS 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-3]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-4]: Eingefügt durch Ziff. I der V vom 19. Dez. 2012, in Kraft seit 21. Dez. 2012 ([AS 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
 [^10-5]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^10-6]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-7]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-8]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 
 #### Art. 11
 
