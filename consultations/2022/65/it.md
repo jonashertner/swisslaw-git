@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Adattamento dell’ordinanza sull’assicurazione contro gli infortuni
 document: Progetto posto in consultazione
 language: it

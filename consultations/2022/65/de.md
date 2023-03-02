@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Anpassung der Verordnung über die Unfallversicherung
 document: Vernehmlassungsvorlage
 language: de

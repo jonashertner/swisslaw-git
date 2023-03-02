@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Adaptation de l’ordonnance sur l’assurance-accidents
 document: Projet mis en consultation
 language: fr
