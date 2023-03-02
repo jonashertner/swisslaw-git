@@ -4,11 +4,11 @@ title: Verordnung vom 23. September 2022 über genetische Untersuchungen beim Me
 short: GUMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/585"
 language: de
-version: 2022-12-01
+version: 2023-03-03
 adopted: 2022-09-23
 in_force: 2022-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/585/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2022-585-20221201-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/585/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/585/20230303/de/xml/fedlex-data-admin-ch-eli-cc-2022-585-20230303-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/585/20230303/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/585/20221201/de"
 
 (GUMV)
 
-vom 23. September 2022 (Stand am 1. Dezember 2022)
+vom 23. September 2022 (Stand am 3. März 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf das Bundesgesetz vom 15. Juni 2018[^ingress-1] über genetische Un
 
 verordnet:
 
-[^ingress-1]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
-[^ingress-2]: [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^ingress-1]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
+[^ingress-2]: [SR 810.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9229)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -51,7 +51,7 @@ Diese Verordnung regelt:
 
 <sup>2</sup> Für die Erstellung von DNA-Profilen zur Klärung der Abstammung oder zur Identifizierung gilt die Verordnung vom 14. Februar 2007[^1-1] über die Erstellung von DNA-Profilen im Zivil- und im Verwaltungsbereich (VDZV).
 
-[^1-1]: [SR 810.122.2](https://fedlex.data.admin.ch/eli/cc/2007/134)
+[^1-1]: [SR 810.122.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9235)
 
 #### Art. 2
 
@@ -203,7 +203,7 @@ Das Bundesamt für Gesundheit (BAG) kann einem nicht akkreditierten Laboratorium
 - a. über ein Qualitätsmanagementsystem verfügt, das die Vorgaben einer der Normen nach Anhang 2 Ziffer 1 erfüllt; und
 - b. bei der Schweizerischen Akkreditierungsstelle (SAS) die entsprechende Akkreditierung beantragt hat.
 
-[^9-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^9-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 10
 
@@ -263,9 +263,9 @@ Mindestens die Hälfte des mit der Durchführung von zytogenetischen oder moleku
 
 <sup>2</sup> Führt das Laboratorium zytogenetische oder molekulargenetische Untersuchungen von Keimzellen oder Embryonen *in vitro* durch, so muss mindestens eine im Laboratorium tätige Person über hinreichende Erfahrung in der Anwendung der einschlägigen Methoden und Techniken verfügen.
 
-[^13-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^13-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^13-3]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^13-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^13-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^13-3]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 ### 3. Abschnitt: Bewilligungsverfahren
 
@@ -510,8 +510,8 @@ Die SAS informiert das BAG über:
 
 <sup>6</sup> Das Schweizerische Heilmittelinstitut informiert das BAG, wenn sich bei der Wahrnehmung der Aufsichtsaufgaben nach Artikel 2 der Verordnung vom 29. April 2015[^30-2] über mikrobiologische Laboratorien Hinweise darauf ergeben, dass ein Laboratorium die Bewilligungsvoraussetzungen oder die Pflichten nach der vorliegenden Verordnung nicht erfüllt.
 
-[^30-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^30-2]: [SR 818.101.32](https://fedlex.data.admin.ch/eli/cc/2015/299)
+[^30-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^30-2]: [SR 818.101.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9794)
 
 ### 7. Abschnitt: Reihenuntersuchungen
 
@@ -654,7 +654,7 @@ Als genetische Untersuchungen ethnischer oder anderer die Herkunft betreffende E
 - b. mögliche Verwandtschaftsverhältnisse, die sich aus dem Abgleich mit Einträgen in Datenbanken der Anbieter von Untersuchungen nach Buchstabe a ergeben können; Abklärungen, die einer bestimmten Person oder deren Nachkommen dazu dienen, ein Abstammungs- oder Verwandtschaftsverhältnis zu einer anderen bestimmten Person zu klären, fallen unter Vorbehalt von Buchstabe c unter die Vorgaben der VDZV[^39-1];
 - c. die Abstammung von oder die Verwandtschaft mit einer oder mehreren bestimmten Persönlichkeiten; dabei müssen die zum Abgleich erforderlichen genetischen Daten dem Anbieter der Untersuchung bereits vorliegen.
 
-[^39-1]: [SR 810.122.2](https://fedlex.data.admin.ch/eli/cc/2007/134)
+[^39-1]: [SR 810.122.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9235)
 
 ### 2. Abschnitt: Veranlassung
 
@@ -911,8 +911,8 @@ Die SAS informiert das BAG über:
 
 <sup>6</sup> Das Schweizerische Heilmittelinstitut informiert das BAG, wenn sich bei der Wahrnehmung der Aufsichtsaufgaben nach Artikel 2 der Verordnung vom 29. April 2015[^60-2] über mikrobiologische Laboratorien Hinweise darauf ergeben, dass ein Laboratorium die Bewilligungsvoraussetzungen oder die Pflichten nach der vorliegenden Verordnung nicht erfüllt.
 
-[^60-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^60-2]: [SR 818.101.32](https://fedlex.data.admin.ch/eli/cc/2015/299)
+[^60-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^60-2]: [SR 818.101.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9794)
 
 ## 4. Kapitel: Genetische Untersuchungen nicht erblicher Eigenschaften
 
@@ -954,7 +954,9 @@ Für genetische Untersuchungen im medizinischen Bereich, die nicht im Zusammenha
 
 <sup>1</sup> Für genetische Untersuchungen ausserhalb des medizinischen Bereichs zur Abklärung von nicht erblichen Eigenschaften gelten die Artikel 3–15, 33 und 56–58 GUMG.
 
-<sup>2</sup> Ist vor der Veranlassung der Untersuchung unklar, ob es sich um eine erbliche Eigenschaft des Erbguts handelt, so gelten das 1., 2., 4. und 8. Kapitel GUMG.
+<sup>2</sup> Ist vor der Veranlassung der Untersuchung unklar, ob es sich um eine erbliche Eigenschaft des Erbguts handelt, so gelten das 1., 3., 4. und 8. Kapitel GUMG.[^63-1]
+
+[^63-1]: Berichtigung vom 3. März 2023 ([AS 2023 101](https://fedlex.data.admin.ch/eli/oc/2023/101)).
 
 ## 5. Kapitel: Genetische Untersuchungen im Zusammenhang mit Bluttransfusionen und Transplantationen
 
@@ -1028,9 +1030,9 @@ Die Eidgenössische Kommission für genetische Untersuchungen beim Menschen setz
 
 <sup>6</sup> Im Übrigen gilt die Allgemeine Gebührenverordnung vom 8. September 2004[^68-3].
 
-[^68-1]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^68-2]: [SR 946.513.7](https://fedlex.data.admin.ch/eli/cc/2006/177)
-[^68-3]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^68-1]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
+[^68-2]: [SR 946.513.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11471)
+[^68-3]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 69
 
@@ -1245,7 +1247,7 @@ Das Laboratorium legt die Verantwortlichkeiten, Befugnisse und Arbeitsbeziehunge
 
 5.4 Das Laboratorium gewährleistet die Kennzeichnung, die Aufbewahrung, den Schutz, die Sicherung, die Archivierung, die Wiederauffindbarkeit, die Aufbewahrungsfrist und die Vernichtung der Aufzeichnungen und Proben.
 
-### 6. Gewährleistung der Vertraulichkeit von genetische Daten
+### 6. Gewährleistung der Vertraulichkeit von genetischen Daten
 
 Systeme, die verwendet werden, um genetische Daten zu bearbeiten, insbesondere zu erfassen, aufzuzeichnen, aufzubewahren oder bekanntzugeben, werden vor ihrer Einführung vom Laboratorium auf ihre Funktionsfähigkeit und Schwachstellen hin bewertet.
 

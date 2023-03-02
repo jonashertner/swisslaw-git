@@ -4,11 +4,11 @@ title: Ordinanza del 23 settembre 2022 concernente gli esami genetici sull’ess
 short: OEGU
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/585"
 language: it
-version: 2022-12-01
+version: 2023-03-03
 adopted: 2022-09-23
 in_force: 2022-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/585/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2022-585-20221201-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/585/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/585/20230303/it/xml/fedlex-data-admin-ch-eli-cc-2022-585-20230303-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/585/20230303/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/585/20221201/it"
 
 (OEGU)
 
-del 23 settembre 2022 (Stato 1° dicembre 2022)
+del 23 settembre 2022 (Stato 3 marzo 2023) (Stato 3 marzo 2023)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ vista la legge federale del 15 giugno 2018[^ingress-1] concernente gli esami gen
 
 ordina:
 
-[^ingress-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
-[^ingress-2]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^ingress-1]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
+[^ingress-2]: [RS 810.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9229)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -51,7 +51,7 @@ La presente ordinanza disciplina:
 
 <sup>2</sup> All’allestimento di profili del DNA volti a determinare la filiazione o l’identità di una persona si applica l’ordinanza del 14 febbraio 2007[^1-1] sull’allestimento di profili del DNA in materia civile e amministrativa (ODCA).
 
-[^1-1]: [RS 810.122.2](https://fedlex.data.admin.ch/eli/cc/2007/134)
+[^1-1]: [RS 810.122.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9235)
 
 #### Art. 2
 
@@ -203,7 +203,7 @@ L’Ufficio federale della sanità pubblica (UFSP) può autorizzare un laborator
 - a. dispone di un sistema di gestione della qualità che adempie le disposizioni di una delle norme di cui all’allegato 2 numero 1; e
 - b. ha presentato una domanda per il corrispondente accreditamento al Servizio di accreditamento svizzero (SAS).
 
-[^9-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^9-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 10
 
@@ -263,9 +263,9 @@ Almeno la metà del personale di laboratorio incaricato dell’esecuzione di esa
 
 <sup>2</sup> Se il laboratorio esegue esami citogenetici o genetico-molecolari di gameti o embrioni *in vitro*, almeno una delle persone che lavorano nel laboratorio deve avere sufficiente esperienza nell’applicazione dei metodi e delle tecniche pertinenti.
 
-[^13-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^13-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^13-3]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^13-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^13-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^13-3]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 ### Sezione 3: Procedura di autorizzazione
 
@@ -510,8 +510,8 @@ Il SAS informa l’UFSP in merito:
 
 <sup>6</sup> L’Istituto svizzero per gli agenti terapeutici informa l’UFSP se, nell’esercizio dei suoi compiti di vigilanza secondo l’articolo 2 dell’ordinanza del 29 aprile 2015[^30-2] concernente i laboratori di microbiologia, emergono indizi in base ai quali un laboratorio non soddisfa le condizioni per l’autorizzazione o gli obblighi secondo la presente ordinanza.
 
-[^30-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^30-2]: [RS 818.101.32](https://fedlex.data.admin.ch/eli/cc/2015/299)
+[^30-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^30-2]: [RS 818.101.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9794)
 
 ### Sezione 7: Depistaggio genetico
 
@@ -654,7 +654,7 @@ Per esami genetici di caratteristiche concernenti l’origine, sia etnica sia d�
 - b. eventuali rapporti di parentela che possono risultare dal confronto con le registrazioni contenute nelle banche dati dei fornitori di esami di cui alla lettera a; gli accertamenti che servono a una determinata persona o ai suoi discendenti per chiarire un rapporto di filiazione o di parentela con un’altra determinata persona sottostanno alle disposizioni dell’ODCA[^39-1], fatto salvo quanto disposto alla lettera c;
 - c. la filiazione da o la parentela con una o più determinate personalità; in questo caso i dati genetici necessari per il confronto devono essere già a disposizione del fornitore dell’esame.
 
-[^39-1]: [RS 818.101.32](https://fedlex.data.admin.ch/eli/cc/2015/299)
+[^39-1]: [RS 818.101.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9794)
 
 ### Sezione 2: Prescrizione
 
@@ -907,8 +907,8 @@ Il SAS informa l’UFSP in merito:
 
 <sup>6</sup> L’Istituto svizzero per gli agenti terapeutici informa l’UFSP se, nell’esercizio dei suoi compiti di vigilanza secondo l’articolo 2 dell’ordinanza del 29 aprile 2015[^60-2] concernente i laboratori di microbiologia, emergono indizi in base ai quali un laboratorio non soddisfa le condizioni per l’autorizzazione o gli obblighi secondo la presente ordinanza.
 
-[^60-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^60-2]: [RS 818.101.32](https://fedlex.data.admin.ch/eli/cc/2015/299)
+[^60-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^60-2]: [RS 818.101.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9794)
 
 ## Capitolo 4: Esami genetici di caratteristiche non ereditarie
 
@@ -950,7 +950,9 @@ Agli esami genetici in ambito medico che non sono legati a una malattia tumorale
 
 <sup>1</sup> Agli esami genetici al di fuori dell’ambito medico volti a determinare caratteristiche non ereditarie si applicano gli articoli 3–15, 33 e 56–58 LEGU.
 
-<sup>2</sup> Se prima della prescrizione dell’esame non è chiaro se si tratti di una caratteristica ereditaria del patrimonio genetico si applicano i capitoli 1, 2, 4 e 8 LEGU.
+<sup>2</sup> Se prima della prescrizione dell’esame non è chiaro se si tratti di una caratteristica ereditaria del patrimonio genetico si applicano i capitoli 1, 3, 4 e 8 LEGU.[^63-1]
+
+[^63-1]: Correzione del 3 mar. 2023 ([RU 2023 101](https://fedlex.data.admin.ch/eli/oc/2023/101)).
 
 ## Capitolo 5: Esami genetici nell’ambito di trasfusioni di sangue e di trapianti
 
@@ -1024,9 +1026,9 @@ La Commissione federale per gli esami genetici sull’essere umano è composta d
 
 <sup>6</sup> Per il resto si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^68-3] sugli emolumenti.
 
-[^68-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^68-2]: [RS 946.513.7](https://fedlex.data.admin.ch/eli/cc/2006/177)
-[^68-3]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^68-1]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
+[^68-2]: [RS 946.513.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11471)
+[^68-3]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 69
 

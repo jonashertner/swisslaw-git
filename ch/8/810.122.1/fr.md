@@ -4,11 +4,11 @@ title: Ordonnance du 23 septembre 2022 sur l’analyse génétique humaine (OAGH
 short: OAGH
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/585"
 language: fr
-version: 2022-12-01
+version: 2023-03-03
 adopted: 2022-09-23
 in_force: 2022-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/585/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2022-585-20221201-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/585/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/585/20230303/fr/xml/fedlex-data-admin-ch-eli-cc-2022-585-20230303-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/585/20230303/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/585/20221201/fr"
 
 (OAGH)
 
-du 23 septembre 2022 (État le 1<sup>er</sup> décembre 2022)
+du 23 septembre 2022 (État le 3 mars 2023)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu la loi fédérale du 15 juin 2018 sur l’analyse génétique humaine (LAGH)[
 
 arrête:
 
-[^ingress-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
-[^ingress-2]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^ingress-1]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
+[^ingress-2]: [RS 810.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9229)
 
 ## Chapitre 1 Dispositions générales
 
@@ -51,7 +51,7 @@ La présente ordonnance détermine:
 
 <sup>2</sup> L’établissement de profils d’ADN visant à déterminer la filiation ou l’identité d’une personne est régi par l’ordonnance du 14 février 2007 sur l’établissement de profils d’ADN en matière civile et administrative (OACA)[^1-1].
 
-[^1-1]: [RS 810.122.2](https://fedlex.data.admin.ch/eli/cc/2007/134)
+[^1-1]: [RS 810.122.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9235)
 
 #### Art. 2
 
@@ -203,7 +203,7 @@ L’Office fédéral de la santé publique (OFSP) peut autoriser un laboratoire 
 - a. il dispose d’un système de gestion de la qualité conforme aux exigences de l’une des normes citées à l’annexe 2, ch. 1;
 - b. il a déposé la demande d’accréditation requise auprès du Service d’accréditation suisse (SAS).
 
-[^9-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^9-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 10
 
@@ -263,9 +263,9 @@ La moitié au moins du personnel de laboratoire qui effectue des analyses cytog�
 
 <sup>2</sup> Lorsque le laboratoire effectue des analyses cytogénétiques ou moléculaires sur des gamètes ou des embryons *in vitro*, une personne au moins travaillant dans ce laboratoire doit avoir une expérience suffisante des méthodes et des techniques utilisées.
 
-[^13-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^13-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^13-3]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^13-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^13-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^13-3]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 ### Section 3 Procédure d’autorisation
 
@@ -510,8 +510,8 @@ Le SAS informe l’OFSP des faits suivants:
 
 <sup>6</sup> Si, dans l’exercice des obligations de surveillance qui lui incombent en vertu de l’art. 2 de l’ordonnance du 29 avril 2015 sur les laboratoires de microbiologie[^30-2], l’Institut suisse des produits thérapeutiques a connaissance d’éléments qui suggèrent qu’un laboratoire ne remplit pas les conditions d’autorisation ou les obligations prévues par la présente ordonnance, il en informe l’OFSP.
 
-[^30-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^30-2]: [RS 818.101.32](https://fedlex.data.admin.ch/eli/cc/2015/299)
+[^30-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^30-2]: [RS 818.101.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9794)
 
 ### Section 7 Dépistages
 
@@ -654,7 +654,7 @@ Sont considérées comme des analyses génétiques de caractéristiques concerna
 - b. les liens de parenté éventuels qui peuvent résulter de la comparaison avec les entrées figurant dans les banques de données des fournisseurs d’analyses au sens de la let. a; les analyses qui servent à une personne déterminée ou à ses descendants à établir un lien de filiation ou de parenté avec une autre personne déterminée sont soumises, sous réserve de la let. c, aux exigences de l’OACA[^39-1];
 - c. la filiation ou la parenté avec un ou plusieurs personnages déterminés; dans ce cas, le prestataire proposant l’analyse doit déjà disposer des données génétiques permettant cette comparaison.
 
-[^39-1]: [RS 810.122.2](https://fedlex.data.admin.ch/eli/cc/2007/134)
+[^39-1]: [RS 810.122.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9235)
 
 ### Section 2 Prescription
 
@@ -911,8 +911,8 @@ Le SAS informe l’OFSP des faits suivants:
 
 <sup>6</sup> Si, dans l’exercice des obligations de surveillance qui lui incombent en vertu de l’art. 2 de l’ordonnance du 29 avril 2015 sur les laboratoires de microbiologie[^60-2], l’Institut suisse des produits thérapeutiques a connaissance d’éléments qui suggèrent qu’un laboratoire ne remplit pas les conditions d’autorisation ou les obligations prévues dans la présente ordonnance, il en informe l’OFSP.
 
-[^60-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^60-2]: [RS 818.101.32](https://fedlex.data.admin.ch/eli/cc/2015/299)
+[^60-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^60-2]: [RS 818.101.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9794)
 
 ## Chapitre 4 Analyses génétiques de caractéristiques non héréditaires
 
@@ -954,7 +954,9 @@ Les analyses génétiques réalisées dans le domaine médical non oncologique a
 
 <sup>1</sup> Les analyses génétiques réalisées en dehors du domaine médical afin de déterminer des caractéristiques non héréditaires sont régies par les art. 3 à 15, 33 et 56 à 58 LAGH.
 
-<sup>2</sup> Lorsque, avant de prescrire l’analyse, il n’est pas clairement établi si cette dernière porte ou non sur une caractéristique héréditaire du patrimoine génétique, les chap. 1, 2, 4 et 8 LAGH s’appliquent.
+<sup>2</sup> Lorsque, avant de prescrire l’analyse, il n’est pas clairement établi si cette dernière porte ou non sur une caractéristique héréditaire du patrimoine génétique, les chap. 1, 3, 4 et 8 LAGH s’appliquent.[^63-1]
+
+[^63-1]: Erratum du 3 mars 2023 ([RO 2023 101](https://fedlex.data.admin.ch/eli/oc/2023/101)).
 
 ## Chapitre 5 Analyses génétiques réalisées dans le cadre de transfusions sanguines et de transplantations
 
@@ -1028,9 +1030,9 @@ La Commission fédérale pour l’analyse génétique humaine se compose de pers
 
 <sup>6</sup> Au surplus, l’ordonnance générale du 8 septembre 2004 sur les émoluments[^68-3] est applicable.
 
-[^68-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^68-2]: [RS 946.513.7](https://fedlex.data.admin.ch/eli/cc/2006/177)
-[^68-3]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^68-1]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
+[^68-2]: [RS 946.513.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11471)
+[^68-3]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 69
 
