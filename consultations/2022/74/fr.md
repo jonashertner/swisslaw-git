@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Loi fédérale sur le travail dans l’industrie, l’artisanat et le commerce (Exception pour les travailleurs occupés par de nouvelles entreprises)"
 document: Projet mis en consultation
 language: fr

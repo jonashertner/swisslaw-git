@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Bundesgesetz über die Arbeit in Industrie, Gewerbe und Handel (Ausnahme für Arbeitnehmende von neu gegründeten Betrieben)"
 document: Vernehmlassungsvorlage
 language: de

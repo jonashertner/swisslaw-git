@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge sul lavoro (eccezione per i dipendenti di aziende di nuova costituzione)
 document: Progetto posto in consultazione
 language: it
