@@ -3,11 +3,11 @@ sr: "131.217"
 title: "Costituzione del Cantone di Glarona, del 1<sup>o</sup> maggio 1988"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga"
 language: it
-version: 2022-09-22
+version: 2023-03-06
 adopted: 1988-05-01
 in_force: 1988-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20220922/it/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20220922-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20220922/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20230306/it/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20230306-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20230306/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,9 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20220922/it"
 
 Traduzione[^t-1]
 
-del 1° maggio 1988 (Stato 22 settembre 2022)
+del 1° maggio 1988 (Stato 6 marzo 2023)[^t-2]
 
-[^t-1]: Dal testo originale tedesco.
+[^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
 **Preambolo**
 
@@ -211,7 +212,11 @@ Le normative con effetto retroattivo non possono imporre nuovi oneri al singolo.
 
 ## Capitolo 2: Compiti pubblici e ordinamento finanziario
 
-### Sezione 1: Protezione dell’ambiente e assetto territoriale
+### Sezione 1: Protezione dell’ambiente e del clima e assetto territoriale
+
+[^chap2-sec1-1]
+
+[^chap2-sec1-1]: Accettato nella Landsgemeinde del 1° mag. 2022, in vigore dal 1° lug. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 22
 
@@ -222,6 +227,18 @@ Le normative con effetto retroattivo non possono imporre nuovi oneri al singolo.
 <sup>2</sup> Nei limiti del diritto federale, il Cantone e i Comuni emanano prescrizioni e prendono provvedimenti a tutela dell’essere umano e del suo ambiente.
 
 <sup>3</sup> Essi preservano la bellezza e le caratteristiche del paesaggio e dei siti, nonché dei monumenti naturali e culturali.
+
+#### Art. 22a
+
+**Protezione del clima**[^22a-1]
+
+<sup>1</sup> Il Cantone e i Comuni si adoperano per limitare i cambiamenti climatici e i loro effetti nocivi. Contribuiscono a raggiungere gli obiettivi climatici del Cantone e della Confederazione e gli obiettivi sanciti negli accordi internazionali vincolanti per la Svizzera.
+
+<sup>2</sup> Provvedono affinché siano adottate le misure appropriate. Le misure volte alla protezione del clima devono essere compatibili con le esigenze ambientali, sociali ed economiche.
+
+<sup>3</sup> Prevedono incentivi finanziari per il raggiungimento degli obiettivi climatici.
+
+[^22a-1]: Accettato nella Landsgemeinde del 1° mag. 2022, in vigore dal 1° lug. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 23
 
@@ -322,15 +339,15 @@ Il Cantone può promuovere la costruzione di abitazioni o accordare agevolazioni
 
 <sup>1</sup> Il Cantone garantisce l’esercizio di un ospedale ubicato in territorio glaronese (ospedale cantonale). La legge disciplina le prestazioni che devono essere fornite dall’ospedale cantonale e la forma giuridica.[^33-1]
 
-<sup>2</sup> I Comuni provvedono affinché le persone anziane possano essere debitamente assistite in istituti di degenza.[^33-2]
+<sup>2</sup> Il Cantone garantisce le cure sanitarie ambulatoriali e stazionarie.[^33-2]
 
-<sup>3</sup> Essi possono gestire ricoveri e case di cura per le persone anziane o affidarne la gestione a terzi.[^33-3]
+<sup>3</sup> *...*[^33-3]
 
 <sup>4</sup> La legge disciplina la vigilanza.[^33-4]
 
 [^33-1]: Accettato nella Landsgemeinde del 3 mag. 2009, in vigore dal 3 mag. 2009. Garanzia dell’AF dell’8 giu. 2010 ([FF 2010 3839](https://fedlex.data.admin.ch/eli/fga/2010/748)art. 1 n. 1 [1905](https://fedlex.data.admin.ch/eli/fga/2010/378)).
-[^33-2]: Accettato nella Landsgemeinde del 6 mag. 2007, in vigore dal 1° gen. 2008. Garanzia dell’AF del 12 giu. 2008 ([FF 2008 5085](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 n. 2 [1187](https://fedlex.data.admin.ch/eli/fga/2008/355)).
-[^33-3]: Accettato nella Landsgemeinde del 6 mag. 2007, in vigore dal 1° gen. 2008. Garanzia dell’AF del 12 giu. 2008 ([FF 2008 5085](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 n. 2 [1187](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^33-2]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° gen. 2023. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^33-3]: Abrogato nella Landsgemeinde del 5 set. 2021, con effetto dal 1° gen. 2023. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 [^33-4]: Accettato nella Landsgemeinde del 6 mag. 2007, in vigore dal 1° gen. 2008. Garanzia dell’AF del 12 giu. 2008 ([FF 2008 5085](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 n. 2 [1187](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 ### Sezione 5: Protezione della famiglia
@@ -661,13 +678,13 @@ La Landsgemeinde è l’assemblea degli abitanti del Cantone aventi diritto di v
 
 <sup>2</sup> Le proposte per il memoriale che il Gran Consiglio ha dichiarato irrilevanti sono menzionate separatamente, senza preavviso.
 
-<sup>3</sup> Con il memoriale sono sottoposti per conoscenza alla Landsgemeinde il conto annuale, il rapporto finanziario e il preventivo.[^62-1]
+<sup>3</sup> ...[^62-1]
 
 <sup>4</sup> Il memoriale della Landsgemeinde è distribuito in un numero sufficiente di esemplari agli aventi diritto di voto almeno quattro settimane prima della Landsgemeinde.[^62-2]
 
 <sup>5</sup> ...[^62-3]
 
-[^62-1]: Accettato nella Landsgemeinde del 4 mag. 2014, in vigore dal 1° set. 2014. Garanzia dell’AF del 3 mar. 2016 ([FF 2016 1975](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 3, [2015 6231](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^62-1]: Abrogato nella Landsgemeinde del 1° mag. 2022, con effetto dal 1° lug. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 [^62-2]: Accettata nella Landsgemeinde del 7 mag. 2017, in vigore dal 1° gen. 2018. Garanzia dell’AF del 17 set. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 1 cpv. 1, [2020 4567](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 [^62-3]: Abrogato nella Landsgemeinde del 7 mag. 2017, con effetto dal 1° gen. 2018. Garanzia dell’AF del 17 set. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 1 cpv. 1, [2020 4567](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
@@ -996,12 +1013,12 @@ Il Gran Consiglio è competente per:
 
 Spetta al Gran Consiglio:
 
-- a.[^90-1] allestire il preventivo, esaminare e approvare il conto annuale e approvare il piano finanziario;
+- a.[^90-1] allestire il preventivo, esaminare e approvare il conto annuale e prendere atto del piano integrato dei compiti e delle finanze;
 - b.[^90-2] decidere tutte le spese uniche di non oltre 1 milione di franchi destinate a un medesimo scopo e liberamente determinabili, nonché tutte le spese ricorrenti di non oltre 200 000 franchi annui destinate a un medesimo scopo e liberamente determinabili;
 - c. acquistare fondi a trattative private, a titolo di investimento o a titolo previdenziale, se il prezzo è di oltre 600 000 franchi, ma non supera i 5 000 000 di franchi;
 - d. decidere l’assunzione e il rinnovo di prestiti a lungo termine.
 
-[^90-1]: Accettata nella Landsgemeinde del 4 mag. 2014, in vigore dal 1° set. 2014. Garanzia dell’AF del 3 mar. 2016 ([FF 2016 1975](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 3, [2015 6231](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^90-1]: Accettata nella Landsgemeinde del 1° mag. 2022, in vigore dal 1° lug. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 [^90-2]: Accettata nella Landsgemeinde del 5 mag. 2002, in vigore dal 1° lug. 2002. Garanzia dell’AF del 24 set. 2003 ([FF 2003 5989](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 n. 3 [2908](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 #### Art. 91
@@ -1296,10 +1313,9 @@ Incombe al Consiglio di Stato:
 
 ### Sottosezione 2: Autorità di perseguimento penale
 
-[^chap5-sec3-subsec2-1][^chap5-sec3-subsec2-2]
+[^chap5-sec3-subsec2-1]
 
 [^chap5-sec3-subsec2-1]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
-[^chap5-sec3-subsec2-2]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 113
 
@@ -1721,14 +1737,6 @@ La presente Costituzione entra in vigore accettata che sia dalla Landsgemeinde.
 
 **Aggregazione di Comuni**
 
-<sup>1</sup> A partire dal 1° gennaio 2011, nel Cantone vi saranno unicamente i tre Comuni seguenti, sotto forma di Comuni unitari (riunione del Comune politico, del Comune scolastico e del Patriziato [“*Tagwen*”]):
-
-Bilten, Mühlehorn, Obstalden, Filzbach, Niederurnen, Oberurnen, Näfels e Mollis;
-
-Netstal, Riedern, Glarona e Ennenda;
-
-Mitlödi, Sool, Schwändi, Schwanden, Haslen[^u1-148-1], Luchsingen, Betschwanden, Rüti, Braunwald, Linthal, Matt, Engi e Elm.
-
 <sup>2</sup> Rimangono salve altre aggregazioni volontarie.
 
 <sup>3</sup> Gli aventi diritto di voto dei Comuni aggregati decidono il nome del nuovo Comune.
@@ -1736,6 +1744,12 @@ Mitlödi, Sool, Schwändi, Schwanden, Haslen[^u1-148-1], Luchsingen, Betschwande
 <sup>4</sup> Se i Comuni menzionati nel capoverso 1 non dovessero aggregarsi di loro propria iniziativa entro il 31 dicembre 2010, l’aggregazione diventerebbe automaticamente effettiva il 1° gennaio 2011.
 
 <sup>5</sup> La legge sui Comuni può prevedere che, per un periodo transitorio corrispondente a una legislatura, i Comuni che devono aggregarsi secondo il capoverso 1 hanno diritto almeno a un seggio nell’Esecutivo comunale. Questo diritto può essere conferito ad ogni Comune o a un gruppo di Comuni.
+
+<sup>1</sup> A partire dal 1° gennaio 2011, nel Cantone vi saranno unicamente i tre Comuni seguenti, sotto forma di Comuni unitari (riunione del Comune politico, del Comune scolastico e del Patriziato [“*Tagwen*”]):
+
+- Bilten, Mühlehorn, Obstalden, Filzbach, Niederurnen, Oberurnen, Näfels e Mollis;
+- Netstal, Riedern, Glarona e Ennenda;
+- Mitlödi, Sool, Schwändi, Schwanden, Haslen[^u1-148-1], Luchsingen, Betschwanden, Rüti, Braunwald, Linthal, Matt, Engi e Elm.
 
 [^u1-148-1]: Poiché l’aggregazione dei Comuni politici di Nidfurn, Leuggelbach e Haslen entra in vigore il 1° lug. 2006, si giustifica che il Consiglio di Stato anticipi la relativa decisione nell’ambito della revisione in corso; «Haslen» comprende pertanto i Comuni di Nidfurn, Leuggelbach e Haslen.
 
@@ -1799,11 +1813,11 @@ La legge può prevedere che gli Esecutivi dei tre nuovi Comuni costituiti il 1<s
 
 Il procuratore pubblico, i due giudici istruttori e il magistrato dei minorenni attuali restano in carica fino al 31 dicembre 2010.
 
-Allegato[^t-2]
+Allegato[^t-3]
 
 ## Elenco dei Comuni politici e dei Patriziati (“*Tagwen*”)
 
-[^t-2]: Stato 8 giu. 2010, in vigore dal 1° gen. 2011.
+[^t-3]: Stato 8 giu. 2010, in vigore dal 1° gen. 2011.
 
 Glarus Nord
 
@@ -1850,6 +1864,8 @@ Aggregazioni
   - [tab] – sullo scioglimento del Comune 131
 
 - [tab] – di Comuni 148
+
+Ambiente 22, 46
 
 Amministrazione
 
@@ -1971,6 +1987,7 @@ Cantone
   - [tab] – scientifica 40
 
 - [tab] – cure agli ammalati 32
+- [tab] – cure sanitarie ambulatoriali e stazionarie 33
 - [tab] – diritto
   - [tab] – di regalìa 4
   - [tab] – del lavoro 28
@@ -2032,6 +2049,7 @@ Cantone
   - [tab] – ricorsi a nome del 101
 
 - [tab] – protezione
+  - [tab] – del clima 22*a*
   - [tab] – dell’ambiente 22
   - [tab] – della famiglia 34
 
@@ -2093,6 +2111,8 @@ Cittadinanza 20 ss
   - – del Comune 20
   - – della Confederazione 20
 
+Clima 22*a*
+
 Commissione (i)
 
 - [tab] – cantonali 104
@@ -2142,6 +2162,7 @@ Compiti
 - [tab] – istituzione di consorzi 116
 - [tab] – legislazione sui Comuni 145
 - [tab] – nomina di persone incaricate di compiti pubblici 98
+- [tab] – piano integrato dei 90
 - [tab] – prestazioni
   - [tab] – cantonali per l’adempimento di 55
   - [tab] – comunali per l’adempimento di 55
@@ -2158,7 +2179,6 @@ Comune (i) 115 ss
 - [tab] – approvvigionamento energetico 46
 - [tab] – assicurazione sociale 27
 - [tab] – assistenza
-  - [tab] – a persone anziane 33
   - [tab] – ai disoccupati 28
   - [tab] – sociale 29
 
@@ -2197,7 +2217,6 @@ Comune (i) 115 ss
 - [tab] – gestione finanziaria 52
 - [tab] – incombenze del Gran Consiglio 91
 - [tab] – incompatibilità 75
-- [tab] – istituti di degenza 33
 - [tab] – legislazione sui 145
 - [tab] – modifiche
   - [tab] – di confini dei 118
@@ -2227,6 +2246,7 @@ Comune (i) 115 ss
 
 - [tab] – proposte per la Landsgemeinde 58
 - [tab] – protezione
+  - [tab] – del clima 22*a*
   - [tab] – dell’ambiente 22
   - [tab] – della famiglia 34
 
@@ -2372,7 +2392,6 @@ Consuntivo 53
 
 Conto annuale
 
-- [tab] – per conoscenza alla Landsgemeinde 62
 - [tab] – attribuzioni in materia finanziaria
   - [tab] – Consiglio di Stato 100
   - [tab] – Gran Consiglio 90
@@ -2505,6 +2524,7 @@ Diritto (i)
 - [tab] – principi dell’attività dello Stato 17
 - [tab] – promozione della costruzione di abitazioni 31
 - [tab] – provvedimenti a tutela
+  - [tab] – del clima 22*a*
   - [tab] – del suo ambiente 22
   - [tab] – dell’essere umano 22
 
@@ -2922,7 +2942,6 @@ Progetti
 Preventivo
 
 - [tab] – e consuntivo 53
-- [tab] – per conoscenza della Landsgemeinde 62
 - [tab] – attribuzioni in materia finanziaria
   - [tab] – Consiglio di Stato 100
   - [tab] – corpo elettorale 131
@@ -2943,6 +2962,12 @@ Proporzionale
 Proprietà
 
 - [tab] – garanzia della 14
+
+Protezione
+
+– del clima 22*a*
+
+– dell’ambiente 22
 
 Pubblicità
 
@@ -3018,7 +3043,7 @@ Sede
 - [tab] – aiuto sociale dello 26
 - [tab] – autonomia delle Chiese 136
 - [tab] – Chiese 135
-- [tab] – conto di 62
+- [tab] – conto di 90
 - [tab] – diritti fondamentali su cui poggia lo 2 ss
 - [tab] – diritto dello 127
 - [tab] – investimento dei capitali dello 100
@@ -3037,7 +3062,6 @@ Territorio
 - [tab] – ospedali 33
 - [tab] – parrocchia 127
 - [tab] – pianificazione del 23
-- [tab] – ricoveri 33
 
 Tribunale (i) 107 ss
 
@@ -3075,7 +3099,6 @@ Vigilanza
   - [tab] – nel settore scolastico 37
   - [tab] – sugli ospedali 33
   - [tab] – sui
-  - – ricoveri 33
   - – tribunali 82
   - [tab] – sul
   - – Governo 82

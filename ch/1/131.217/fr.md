@@ -3,11 +3,11 @@ sr: "131.217"
 title: "Constitution du canton de Glaris, du 1<sup>er</sup> mai 1988"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga"
 language: fr
-version: 2022-09-22
+version: 2023-03-06
 adopted: 1988-05-01
 in_force: 1988-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20220922/fr/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20220922-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20220922/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20230306/fr/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20230306-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20230306/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20220922/fr"
 
 Traduction[^t-1]
 
-du 1<sup>er</sup> mai 1988 (État le 22 septembre 2022)[^t-2]
+du 1<sup>er</sup> mai 1988 (État le 6 mars 2023)[^t-2]
 
-[^t-1]: Texte original allemand.
+[^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
 
 **Préambule**
@@ -212,7 +212,11 @@ Les réglementations pourvues d’effet rétroactif ne peuvent imposer de nouvel
 
 ## Chapitre 2 Tâches publiques et régime financier
 
-### Section 1 Protection de l’environnement et aménagement du territoire
+### Section 1 Protection de l’environnement et du climat et aménagement du territoire
+
+[^chap2-sec1-1]
+
+[^chap2-sec1-1]: Accepté par la *Landsgemeinde* du 1<sup>er</sup> mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 22
 
@@ -223,6 +227,18 @@ Les réglementations pourvues d’effet rétroactif ne peuvent imposer de nouvel
 <sup>2</sup> Dans le cadre du droit fédéral, le canton et les communes édictent les prescriptions et prennent les mesures destinées à la protection de l’homme et de son environnement.
 
 <sup>3</sup> Ils préservent la beauté et le caractère spécifique du paysage et des sites ainsi que des monuments naturels et culturels.
+
+#### Art. 22a
+
+**Protection du climat**[^22a-1]
+
+<sup>1</sup> Le canton et les communes s’engagent à atténuer le changement climatique et ses effets. Ils contribuent aux objectifs climatiques du canton, de la Confédération et des traités internationaux auxquels la Suisse est tenue.
+
+<sup>2</sup> Ils veillent à ce que des mesures appropriées soient mises en œuvre. Les mesures pour la protection du climat doivent être compatibles avec l’environnement, la société et l’économie.
+
+<sup>3</sup> Ils prévoient des incitations financières pour la réalisation des objectifs climatiques.
+
+[^22a-1]: Accepté par la *Landsgemeinde* du 1<sup>er</sup> mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 23
 
@@ -323,15 +339,15 @@ Le canton peut encourager la construction de logements ou accorder des facilité
 
 <sup>1</sup> Le canton garantit l’exploitation d’un hôpital ayant son site dans le canton de Glaris (hôpital cantonal). La loi règle la forme juridique de l’hôpital cantonal et les prestations qu’il est tenu de fournir.[^33-1]
 
-<sup>2</sup> Les communes veillent à l’existence d’établissements pour personnes âgées.[^33-2]
+<sup>2</sup> Le canton garantit les soins de santé ambulatoires et stationnaires.[^33-2]
 
-<sup>3</sup> Elles peuvent gérer des établissements pour personnes âgées ou en confier la gestion à des tiers.[^33-3]
+<sup>3</sup> …[^33-3]
 
 <sup>4</sup> La loi règle la surveillance.[^33-4]
 
 [^33-1]: Accepté par la *Landsgemeinde* du 3 mai 2009, en vigueur depuis le 3 mai 2009. Garantie de l’Ass. féd. du 8 juin 2010 ([FF 2010 3977](https://fedlex.data.admin.ch/eli/fga/2010/748)art. 1 ch. 1 1957).
-[^33-2]: Accepté par la *Landsgemeinde* du 6 mai 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 2 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
-[^33-3]: Accepté par la *Landsgemeinde* du 6 mai 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 2 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^33-2]: Acceptée par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^33-3]: Abrogé par la *Landsgemeinde* du 5 sept. 2021, avec effet au 1<sup>er</sup> janv. 2023. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 [^33-4]: Accepté par la *Landsgemeinde* du 6 mai 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 2 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 ### Section 5 Protection de la famille
@@ -609,13 +625,13 @@ En matière communale, tout citoyen actif a le droit:
 
 <sup>2</sup> Une initiative peut concerner tout objet qui relève de la compétence de la *Landsgemeinde*.[^58-3]
 
-<sup>3</sup> ...[^58-4]
+<sup>3</sup> …[^58-4]
 
 <sup>4</sup> Lorsqu’une initiative ne respecte pas le principe de l’unité de la forme, celui de l’unité de la matière ou le droit supérieur ou lorsqu’elle n’est pas exécutable, le Grand Conseil la déclare totalement ou partiellement nulle.[^58-5]
 
 <sup>5</sup> L’initiative doit avoir un objet défini avec précision, être motivée et être signée par ses auteurs.
 
-<sup>6</sup> ...[^58-6]
+<sup>6</sup> …[^58-6]
 
 [^58-1]: Acceptée par la *Landsgemeinde* du 7 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 1 al. 1, [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 [^58-2]: Accepté par la *Landsgemeinde* du 6 mai 2007, en vigueur depuis le 6 mai 2007. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 2 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
@@ -628,7 +644,7 @@ En matière communale, tout citoyen actif a le droit:
 
 **Traitement des initiatives**
 
-<sup>1</sup> ...[^59-1]
+<sup>1</sup> …[^59-1]
 
 <sup>2</sup> Le Grand Conseil décide de la recevabilité juridique des initiatives et de leur pertinence. Sont pertinentes les initiatives recevables qui recueillent au moins dix voix.[^59-2]
 
@@ -663,13 +679,13 @@ La *Landsgemeinde* est l’assemblée des citoyens actifs du canton. Elle consti
 
 <sup>2</sup> Les initiatives qui n’ont pas été déclarées pertinentes par le Grand Conseil sont mentionnées séparément, sans préavis.
 
-<sup>3</sup> Avec le mémorial, sont portés à la connaissance de la *Landsgemeinde* les comptes annuels, le rapport concernant les finances ainsi que le budget.[^62-1]
+<sup>3</sup> …[^62-1]
 
 <sup>4</sup> Le mémorial de la *Landsgemeinde* est distribué en nombre suffisant aux citoyens actifs quatre semaines au plus tard avant la *Lands**gemeinde*.[^62-2]
 
-<sup>5</sup> ...[^62-3]
+<sup>5</sup> …[^62-3]
 
-[^62-1]: Accepté par la *Landsgemeinde* du 4 mai 2014, en vigueur depuis le 1<sup>er</sup> sept. 2014. Garantie de l’Ass. féd. du 3 mars 2016 ([FF 2016 2137](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 3, [2015 6959](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^62-1]: Abrogé par la *Landsgemeinde* du 1<sup>er</sup> mai 2022, avec effet au 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 [^62-2]: Accepté par la *Landsgemeinde* du 7 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 1 al. 1, [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 [^62-3]: Abrogé par la *Landsgemeinde* du 7 mai 2017, avec effet au 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 1 al. 1, [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
@@ -683,7 +699,7 @@ La *Landsgemeinde* est l’assemblée des citoyens actifs du canton. Elle consti
 
 <sup>3</sup> Une *Landsgemeinde* extraordinaire a lieu lorsque la *Landsgemeinde* le décide, lorsqu’au moins 2000 citoyens actifs le demandent en indiquant les objets à traiter ou lorsque le Grand Conseil convoque les citoyens actifs pour le traitement d’affaires urgentes.
 
-<sup>4</sup> ...[^63-1]
+<sup>4</sup> …[^63-1]
 
 <sup>5</sup> Le Conseil d’État peut prendre des mesures destinées à faciliter la participation à la *Landsgemeinde*, en particulier pour les citoyens actifs venant de communes éloignées.
 
@@ -998,12 +1014,12 @@ Le Grand Conseil est compétent:
 
 Il appartient au Grand Conseil:
 
-- a.[^90-1] d’établir le budget, d’examiner et d’approuver les comptes annuels ainsi que d’approuver le plan financier;
+- a.[^90-1] d’établir le budget, d’examiner et d’approuver les comptes annuels ainsi que de prendre acte du plan intégral des tâches et des finances;
 - b.[^90-2] de statuer sur toutes les dépenses uniques, non déterminées et relatives au même objet, qui ne dépassent pas 1 million de francs, ainsi que sur toutes les dépenses périodiques non déterminées et relatives au même objet, qui ne dépassent pas 200 000 francs par année;
 - c. de décider l’acquisition de gré à gré d’immeubles à titre de placements ou par mesure de précaution lorsque le prix est supérieur à 600 000 francs et ne dépasse pas 5 000 000 de francs;
 - d. de statuer sur la souscription ou le renouvellement d’emprunts à long terme.
 
-[^90-1]: Accepté par la *Landsgemeinde* du 4 mai 2014, en vigueur depuis le 1<sup>er</sup> sept. 2014. Garantie de l’Ass. féd. du 3 mars 2016 ([FF 2016 2137](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 3, [2015 6959](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^90-1]: Accepté par la *Landsgemeinde* du 1<sup>er</sup> mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 [^90-2]: Acceptée par la *Landsgemeinde* du 5 mai 2002, en vigueur depuis le 1<sup>er</sup> juil. 2002. Garantie de l’Ass. féd. du 24 sept. 2003 ([FF 2003 6299](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 ch. 3 [2999](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 #### Art. 91
@@ -1034,7 +1050,7 @@ Le Grand Conseil peut, au nom du canton, participer à la vie politique fédéra
 
 - a. en déposant une initiative cantonale;
 - b. en demandant le référendum avec d’autres cantons;
-- c.[^92-1] ...
+- c.[^92-1] …
 
 [^92-1]: Abrogée par la *Landsgemeinde* du 7 mai 2017, avec effet au 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 1 al. 1, [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
@@ -1912,7 +1928,7 @@ Avocat des mineurs
 
 **Banque cantonale** 49
 
-**Budget** 53, 62<sup>3</sup>, 90<sup>a</sup>, 100<sup>a</sup>,131<sup>f</sup>
+**Budget** 53, 90<sup>a</sup>, 100<sup>a</sup>,131<sup>f</sup>
 
 **Chambre pénale** 108
 
@@ -1923,6 +1939,8 @@ Avocat des mineurs
 **Choses** (publiques) cf. Constructions
 
 **Circonscriptions électorales** 70
+
+**Climat** 22*a*
 
 **Commission judiciaire pénale** 108
 
@@ -2324,8 +2342,6 @@ Période de fonction 78, 154
 
 **Perquisition** 16
 
-**Personnes âgées**, établissements de soins 33<sup>2</sup>
-
 Planification financière 52, 90a, 100a
 
 Poursuite pénale 114
@@ -2343,6 +2359,8 @@ Procédures électorales
 - – canton 70–72
 
 **Protection de l’environnement** 22
+
+Protection du climat 22*a*
 
 Protection juridique
 
@@ -2375,6 +2393,8 @@ Santé publique
 - – sport 41
 
 **Sécurité sociale** 26, 27
+
+**Soins de santé,** ambulatoires et stationnaires 33<sup>2</sup>
 
 **Surveillance** (haute surveillance)
 

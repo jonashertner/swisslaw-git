@@ -3,18 +3,18 @@ sr: "131.217"
 title: "Verfassung des Kantons Glarus, vom 1. Mai 1988"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga"
 language: de
-version: 2022-09-22
+version: 2023-03-06
 adopted: 1988-05-01
 in_force: 1988-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20220922/de/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20220922-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20220922/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20230306/de/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20230306-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20230306/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Glarus
 
-vom 1. Mai 1988 (Stand am 22. September 2022)[^t-1]
+vom 1. Mai 1988 (Stand am 6. März 2023)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -209,7 +209,11 @@ Rückwirkende Erlasse dürfen dem einzelnen keine neuen Belastungen auferlegen.
 
 ## Zweites Kapitel: Öffentliche Aufgaben und Finanzordnung
 
-### Erster Abschnitt: Umweltschutz und Raumordnung
+### Erster Abschnitt: Umweltschutz, Klimaschutz und Raumordnung
+
+[^chap2-sec1-1]
+
+[^chap2-sec1-1]: Angenommen an der Landsgemeinde vom 1. Mai 2022, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 22
 
@@ -220,6 +224,18 @@ Rückwirkende Erlasse dürfen dem einzelnen keine neuen Belastungen auferlegen.
 <sup>2</sup> Der Kanton und die Gemeinden erlassen im Rahmen des Bundesrechts Vorschriften und treffen Massnahmen zum Schutz des Menschen und seiner Umwelt.
 
 <sup>3</sup> Sie bewahren die Schönheit und Eigenart der Landschaft und der Ortsbilder sowie der Natur- und Kulturdenkmäler.
+
+#### Art. 22a
+
+**Klimaschutz**[^22a-1]
+
+<sup>1</sup> Kanton und Gemeinden setzen sich für die Begrenzung der Klimaveränderung und deren nachteiligen Auswirkungen ein. Sie leisten den erforderlichen Beitrag zur Erreichung der Klimaziele des Kantons, des Bundes und der für die Schweiz verbindlichen internationalen Abkommen.
+
+<sup>2</sup> Sie sorgen dafür, dass dazu geeignete Massnahmen umgesetzt werden. Die Massnahmen zum Klimaschutz sind umwelt-, sozial- und wirtschaftsverträglich auszugestalten.
+
+<sup>3</sup> Sie setzen finanzielle Anreize zur Erreichung der Klimaziele.
+
+[^22a-1]: Angenommen an der Landsgemeinde vom 1. Mai 2022, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 23
 
@@ -320,15 +336,15 @@ Der Kanton kann den Wohnungsbau fördern oder Mietzinserleichterungen gewähren,
 
 <sup>1</sup> Der Kanton gewährleistet den Betrieb eines Spitals mit Standort im Kanton Glarus (Kantonsspital). Das Gesetz regelt die vom Kantonsspital zu erbringenden Leistungen und die Rechtsform.[^33-1]
 
-<sup>2</sup> Die Gemeinden sorgen für die stationäre Altersbetreuung.[^33-2]
+<sup>2</sup> Der Kanton gewährleistet die ambulante und stationäre Gesundheitsversorgung.[^33-2]
 
-<sup>3</sup> Sie können Alters- und Pflegeheime führen oder deren Führung an Dritte übertragen.[^33-3]
+<sup>3</sup> …[^33-3]
 
 <sup>4</sup> Das Gesetz regelt die Aufsicht.[^33-4]
 
 [^33-1]: Angenommen an der Landsgemeinde vom 3. Mai 2009, in Kraft seit 3. Mai 2009. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1, [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
-[^33-2]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
-[^33-3]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^33-2]: Angenommen an der Landsgemeinde vom 5. Sept 2021, in Kraft seit 1. Jan. 2023. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^33-3]: Aufgehoben an der Landsgemeinde vom 5. Sept 2021, mit Wirkung seit 1. Jan. 2023. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 [^33-4]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 ### Fünfter Abschnitt: Schutz der Familie
@@ -659,13 +675,13 @@ Die Landsgemeinde ist die Versammlung der stimmberechtigten Landeseinwohner. Sie
 
 <sup>2</sup> Die vom Landrat unerheblich erklärten Memorialsanträge werden ohne Stellungnahme gesondert aufgeführt.
 
-<sup>3</sup> Mit dem Memorial werden der Landsgemeinde die Jahresrechnung, der Finanz-bericht sowie das Budget zur Kenntnis gebracht.[^62-1]
+<sup>3</sup> …[^62-1]
 
 <sup>4</sup> Das Landsgemeindememorial wird in einer ausreichenden Anzahl spätestens vier Wochen vor der Landsgemeinde an die Stimmberechtigten verteilt.[^62-2]
 
 <sup>5</sup> …[^62-3]
 
-[^62-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^62-1]: Aufgehoben an der Landsgemeinde vom 1. Mai 2022, mit Wirkung seit 1. Juli 2022. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 [^62-2]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 [^62-3]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
@@ -735,7 +751,7 @@ Die Landsgemeinde ist zuständig für:
 
 - a. die Wahl des Landammanns und des Landesstatthalters;
 - b.[^68-1] die Wahl der Gerichtspräsidien, der teilamtlichen Vizepräsidien und der weiteren Richterinnen und Richter;
-- c. …[^68-2].
+- c.[^68-2] …
 
 [^68-1]: Angenommen an der Landsgemeinde vom 5. Sept 2021, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 [^68-2]: Aufgehoben an der Landsgemeinde vom 2. Mai 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
@@ -994,12 +1010,12 @@ Der Landrat ist zuständig für:
 
 Dem Landrat stehen zu:
 
-- a.[^90-1] die Festsetzung des Budgets, die Prüfung und Abnahme der Jahresrechnung und die Genehmigung des Finanzplans;
+- a.[^90-1] die Festsetzung des Budgets, die Prüfung und Abnahme der Jahresrechnung und die Kenntnisnahme des Integrierten Aufgaben- und Finanzplans;
 - b.[^90-2] Beschlüsse über alle frei bestimmbaren einmaligen Ausgaben für den gleichen Zweck, die 1 Million Franken und über alle frei bestimmbaren wiederkehrenden Ausgaben für den gleichen Zweck, die 200 000 Franken im Jahr nicht übersteigen;
 - c. der freie Erwerb von Grundstücken als Anlage oder zur Vorsorge im Betrag von mehr als 600 000 Franken bis zu 5 000 000 Franken;
 - d. Beschlüsse über die Aufnahme und Erneuerung langfristiger Anleihen.
 
-[^90-1]: Angenommer an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014, Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^90-1]: Angenommen an der Landsgemeinde vom 1. Mai 2022, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 [^90-2]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 #### Art. 91
@@ -1422,7 +1438,7 @@ Aufgehoben
 
 [^126-1]
 
-[^126-1]: Angenommen an der Landsgemeinde vom 4. Mai 2003. Gewährleistungsbeschluss vom 10. März 2004 ([BBl 2004 1393](https://fedlex.data.admin.ch/eli/fga/2004/263)Art. 1 Ziff. 2; [2003 8087](https://fedlex.data.admin.ch/eli/fga/2003/1380)). Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^126-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 #### Art. 126a
 
@@ -1836,7 +1852,7 @@ Die Zahlen verweisen auf Artikel der Verfassung
 
 **Abgaben** 50
 
-**Altersbetreuung**, stationäre 33<sup>2</sup>
+**Altersbetreuung** 33<sup>2</sup>
 
 **Amtsblatt** 62, 65
 
@@ -1877,6 +1893,7 @@ Angestellte
   - – Verwaltung 94, 101
 
 - – über die Strafverfolgungsbehörden 114<sup>1</sup>
+- [tab] **Aufgabenplanung** 90<sup>a</sup>
 
 **Ausgaben** (Kompetenzen)
 
@@ -1919,7 +1936,7 @@ Beschlussfassung, dringliche 132
 
 Bestandesänderungen, von Gemeinden 118
 
-Budget 53, 62<sup>3</sup>, 90<sup>a</sup>, 100<sup>a</sup>, 131<sup>f</sup>
+Budget 53, 90<sup>a</sup>, 100<sup>a</sup>, 131<sup>f</sup>
 
 Bund
 
@@ -2066,6 +2083,8 @@ Kantonsverfassung
 
 **Kirchgemeinde** 127, 128
 
+**Klimaschutz** 22*a*
+
 **Kommissionen** 84, 88, 104, 131
 
 **Kompetenzstreitigkeiten** 91<sup>g</sup>
@@ -2190,7 +2209,7 @@ Politische Rechte
 
 **Raumplanung** 23
 
-**Rechnung** 53, 62<sup>3</sup>, 90<sup>a</sup>
+**Rechnung** 53, 90<sup>a</sup>
 
 **Rechtsetzung** s.
 
