@@ -3,11 +3,11 @@ sr: "131.222.2"
 title: "Constitution du canton de Bâle-Campagne, du 17 mai 1984"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/2_1157_1173_1041_fga"
 language: fr
-version: 2019-09-16
+version: 2023-03-06
 adopted: 1984-05-17
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20190916/fr/xml/fedlex-data-admin-ch-eli-cc-1985-2_1157_1173_1041_fga-20190916-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20190916/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20230306/fr/xml/fedlex-data-admin-ch-eli-cc-1985-2_1157_1173_1041_fga-20230306-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20230306/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20190916/fr"
 
 Traduction[^t-1]
 
-du 17 mai 1984 (Etat le 16 septembre 2019)[^t-2]
+du 17 mai 1984 (État le 6 mars 2023)[^t-2]
 
 [^t-1]: Le texte en langue originale est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
@@ -350,6 +350,8 @@ Le peuple élit par la voie des urnes:
 
 <sup>1</sup> 1500 citoyens actifs peuvent, par une initiative rédigée ou non rédigée, demander que des dispositions constitutionnelles ou légales soient édictées, modifiées ou abrogées.
 
+<sup>1bis</sup> Le délai pour déposer les signatures est de deux ans.[^28-1]
+
 <sup>2</sup> L’initiative rédigée contient un projet rédigé. Elle est déposée expressément comme initiative constitutionnelle ou comme initiative législative.
 
 <sup>3</sup> Par une initiative non rédigée, les signataires demandent au Grand Conseil de rédiger un projet conforme aux vœux de l’initiative.
@@ -358,19 +360,26 @@ Le peuple élit par la voie des urnes:
 
 <sup>5</sup> Le droit des citoyens actifs de déposer des initiatives dans les communes est réglé par les dispositions de la loi et du règlement communal.
 
+[^28-1]: Accepté en [votation populaire du 13 fév. 2022](http://www.admin.ch/ch/f/pore/va/20220213/index.html), en vigueur depuis le 14 fév. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+
 #### § 29
 
 **Procédure**
 
 <sup>1</sup> Le Grand Conseil déclare non valables les initiatives impossibles ou manifestement contraires au droit.
 
-<sup>2</sup> Les initiatives rédigées sont soumises au vote du peuple dans un délai de 18 mois sans aucun changement quant à la forme et au contenu. La loi règle les exceptions et les conséquences en cas d’inobservation de ce délai.[^29-1]
+<sup>2</sup> Les initiatives rédigées sont soumises au vote du peuple dans un délai de 18 mois sans aucun changement quant à la forme et au contenu.[^29-1] …[^29-2]
 
-<sup>3</sup> Si le Grand Conseil n’approuve pas une initiative non rédigée, cette dernière est soumise dans les deux ans au vote du peuple. Si le peuple ou le Grand Conseil approuve l’initiative, le Grand Conseil soumet au peuple dans les deux ans un projet qui la réalise. Il détermine si le texte sera de degré constitutionnel ou légal.
+<sup>3</sup> Si le Grand Conseil n’approuve pas une initiative non rédigée, cette dernière est soumise dans les deux ans au vote du peuple. Si le peuple ou le Grand Conseil approuve l’initiative, le Grand Conseil élabore dans les deux ans un projet qui la réalise.[^29-3] Il détermine si le texte sera de degré constitutionnel ou légal.
+
+<sup>3bis</sup> La loi règle les exceptions et les conséquences en cas d’inobservation du délai de traitement des initiatives populaires.[^29-4]
 
 <sup>4</sup> Le Grand Conseil peut opposer un contre-projet à toute initiative.
 
 [^29-1]: Accepté en [votation populaire du 2 déc. 2001](http://www.admin.ch/ch/f/pore/va/20011202/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2002. Garantie de l’Ass. féd. du 23 sept. 2002 (FF **2002** II 6133 art. 1 ch. 5 [3304](https://fedlex.data.admin.ch/eli/fga/2002/493)).
+[^29-2]: Phrase abrogée en [votation populaire du 13 fév. 2022](http://www.admin.ch/ch/f/pore/va/20220213/index.html), avec effet au 14 fév. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^29-3]: Phrase acceptée en [votation populaire du 13 fév. 2022](http://www.admin.ch/ch/f/pore/va/20220213/index.html), en vigueur depuis le 14 fév. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^29-4]: Accepté en [votation populaire du 13 fév. 2022](http://www.admin.ch/ch/f/pore/va/20220213/index.html), en vigueur depuis le 14 fév. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 ### 4. Votations populaires
 
@@ -381,12 +390,15 @@ Le peuple élit par la voie des urnes:
 Sont soumis au vote du peuple:
 
 - a. les modifications de la Constitution et les traités internationaux qui modifient la constitution;
-- b. les lois et les traites internationaux qui contiennent des dispositions de niveau légal, s’ils ont été adoptés à une majorité qui est inférieure au quatre cinquièmes des membres présents du Grand Conseil ou si celui-ci décide, par un arrêté séparé, de les soumettre au référendum obligatoire;
-- c. les initiatives rédigées et les contre-projets qui leurs sont opposés;
-- d. les initiatives non rédigées que le Grand Conseil refuse, les contre-projets qu’il leur oppose et les actes législatifs qu’il élabore sur la base d’une initiative non formulée;
+- b.[^30-2] les lois et les traités internationaux qui contiennent des dispositions de niveau légal et les actes législatifs qui sont élaborés sur la base d’une initiative non rédigée qui a été retirée, s’ils ont été adoptés à une majorité qui est inférieure au quatre cinquièmes des membres présents du Grand Conseil ou si celui-ci décide, par un arrêté séparé, de les soumettre au référendum obligatoire;
+- c.[^30-3] les initiatives rédigées et les contre-projets qui leurs sont opposés en même temps;
+- d.[^30-4] les initiatives non rédigées que le Grand Conseil refuse, les contre-projets qui leurs sont opposés en même temps et les actes législatifs qui sont élaborés sur la base d’une initiative non rédigée;
 - e. les décisions de l’assemblée communale ou du conseil général conformément aux dispositions de la loi et du règlement communal.
 
 [^30-1]: Accepté en [votation populaire du 7 juin 1998](http://www.admin.ch/ch/f/pore/va/19980607/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2000. Garantie de l’Ass. féd. du 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 4 2299).
+[^30-2]: Acceptée en [votation populaire du 13 fév. 2022](http://www.admin.ch/ch/f/pore/va/20220213/index.html), en vigueur depuis le 14 fév. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^30-3]: Acceptée en [votation populaire du 13 fév. 2022](http://www.admin.ch/ch/f/pore/va/20220213/index.html), en vigueur depuis le 14 fév. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^30-4]: Acceptée en [votation populaire du 13 fév. 2022](http://www.admin.ch/ch/f/pore/va/20220213/index.html), en vigueur depuis le 14 fév. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### § 31
 
@@ -398,7 +410,7 @@ Sont soumis au vote du peuple à la demande de 1500 citoyens actifs:
 
 - a. les décisions prises par le Grand Conseil en matière de plans qui sont contraignantes, sont d’importance fondamentale et sont exposées au référendum facultatif selon la Constitution ou la loi;
 - b.[^31-1] les décisions du Grand Conseil portant sur des dépenses nouvelles et uniques de plus d’un million de francs ou sur des dépenses nouvelles se répétant chaque année de plus de 200 000 francs;
-- c.[^31-2] les lois et les traités internationaux qui contiennent des dispositions de niveau légal, s’ils ne sont pas soumis au référendum obligatoire;
+- c.[^31-2] les lois et les traités internationaux qui contiennent des dispositions de niveau légal et les actes législatifs qui sont élaborés sur la base d’une initiative non rédigée qui a été retirée, s’ils ne sont pas soumis au référendum obligatoire;
 - d.[^31-3] à titre d’exception au § 63, al. 3, la fixation sous forme de décret de la quotité de l’impôt cantonal sur le revenu pour l’année fiscale à venir si sa valeur est autre que 100 % de l’impôt cantonal usuellement prélevé sur le revenu des personnes physiques.
 
 <sup>2</sup> La demande doit être déposée dans les huit semaines qui suivent la publication.
@@ -406,7 +418,7 @@ Sont soumis au vote du peuple à la demande de 1500 citoyens actifs:
 <sup>3</sup> Les décisions de l’assemblée communale et du conseil général sont sujettes au référendum facultatif conformément aux dispositions de la loi et du règlement communal.
 
 [^31-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 3 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
-[^31-2]: Acceptée en [votation populaire du 7 juin 1998](http://www.admin.ch/ch/f/pore/va/19980607/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2000. Garantie de l’Ass. féd. du 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 4 2299).
+[^31-2]: Acceptée en [votation populaire du 13 fév. 2022](http://www.admin.ch/ch/f/pore/va/20220213/index.html), en vigueur depuis le 14 fév. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 [^31-3]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 3 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 #### § 32
@@ -868,13 +880,14 @@ Le Grand Conseil:
 - b. exerce les droits de participation que la Constitution fédérale accorde aux cantons;
 - c. statue sur les conflits de compétences dans la mesure où cette tâche ne relève pas d’un tribunal;
 - d. règle les traitements, rentes et retraites versés par le canton;
-- e. élit pour un an le président et le vice-président du gouvernement ainsi que, pour une période administrative, le président, le vice-président et les autres membres des tribunaux du canton, le chancelier d’État, le médiateur et les jurés fédéraux;
+- e.[^67-2] élit pour un an le président et le vice-président du gouvernement ainsi que, pour une période administrative, le président, le vice-président et les autres membres des tribunaux du canton, le chancelier d’État et le médiateur;
 - f. confère le droit de cité cantonal aux étrangers;
 - g. exerce les droits de grâce et d’amnistie.
 
 <sup>2</sup> La loi peut accorder d’autres attributions au Grand Conseil.
 
 [^67-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 3 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^67-2]: Acceptée en [votation populaire du 15 mai 2022](http://www.admin.ch/ch/f/pore/va/20220515/index.html), en vigueur depuis le 1<sup>er</sup> août 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 al. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### § 68
 
@@ -1066,7 +1079,7 @@ La loi règle:
 <sup>1</sup> La juridiction civile est exercée
 
 - a. par les juges de paix;
-- b.[^83-1] par les tribunaux civils d'arrondissement[^83-2];
+- b.[^83-1] par les tribunaux civils d’arrondissement[^83-2];
 - c.[^83-3] par le Tribunal cantonal.
 
 <sup>2</sup> La loi peut soumettre des litiges déterminés à des tribunaux spéciaux.
@@ -1154,13 +1167,15 @@ Comme Cour constitutionnelle, le Tribunal cantonal connaît:[^86-2]
 
 #### § 88
 
-**Rôle et indépendance**
+**Rôle, indépendance et incompatibilités**[^88-1]
 
-<sup>1</sup> Le médiateur veille à ce que les administrations du canton et des communes ainsi que la justice fonctionnent de manière conforme au droit, correcte et judicieuse.
+<sup>1</sup> Le médiateur veille à ce que les administrations du canton et des communes ainsi que la justice fonctionnent de manière conforme au droit et judicieuse.
 
-<sup>2</sup> Il n’est pas lié par les instructions d’autres autorités.
+<sup>2</sup> Il remplit ses tâches de manière indépendante. Il n’est pas lié par les instructions d’autres autorités.
 
-<sup>3</sup> Sa fonction n’est pas compatible avec l’exercice d’une autre profession ou industrie ou avec une position dirigeante dans un parti politique.
+<sup>3</sup> La loi règle les incompatibilités.
+
+[^88-1]: Accepté en [votation populaire du 15 mai 2022](http://www.admin.ch/ch/f/pore/va/20220515/index.html), en vigueur depuis le 1<sup>er</sup> août 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 al. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### § 89
 

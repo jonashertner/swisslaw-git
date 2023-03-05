@@ -3,11 +3,11 @@ sr: "131.222.2"
 title: "Costituzione del Cantone di Basilea Campagna, del 17 maggio 1984"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/2_1157_1173_1041_fga"
 language: it
-version: 2019-09-16
+version: 2023-03-06
 adopted: 1984-05-17
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20190916/it/xml/fedlex-data-admin-ch-eli-cc-1985-2_1157_1173_1041_fga-20190916-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20190916/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20230306/it/xml/fedlex-data-admin-ch-eli-cc-1985-2_1157_1173_1041_fga-20230306-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20230306/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20190916/it"
 
 Traduzione[^t-1]
 
-del 17 maggio 1984 (Stato 16 settembre 2019)[^t-2]
+del 17 maggio 1984 (Stato 6 marzo 2023)[^t-2]
 
 [^t-1]: Accettata nella votazione popolare del 4 nov. 1984, in vigore dal 1° gen. 1987. Garanzia dell’AF dell’11 giu. 1986 (FF **1986** II 511 art. 1, **1985** II 1041). Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
@@ -358,6 +358,8 @@ Il Popolo elegge alle urne:
 
 <sup>1</sup> 1500 aventi diritto di voto possono, mediante un’iniziativa elaborata o generica, chiedere l’emanazione, la modifica o l’abrogazione di disposizioni costituzionali o di legge.
 
+<sup>1bis</sup> Il termine per il deposito delle firme è di due anni.[^28-1]
+
 <sup>2</sup> L’iniziativa elaborata contiene un progetto elaborato. È presentata espressamente come iniziativa costituzionale o legislativa.
 
 <sup>3</sup> Mediante l’iniziativa generica, i firmatari chiedono al Gran Consiglio di elaborare un progetto nel senso auspicato dall’iniziativa.
@@ -366,19 +368,26 @@ Il Popolo elegge alle urne:
 
 <sup>5</sup> Il diritto degli aventi diritto di voto di presentare iniziative nei Comuni è retto dalle disposizioni della legge e del regolamento comunale.
 
+[^28-1]: Accettato nella [votazione popolare del 13 feb. 2022](http://www.admin.ch/ch/i/pore/va/20220213/index.html), in vigore dal 14 feb. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 cpv. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+
 #### § 29
 
 **Procedura**
 
 <sup>1</sup> Il Gran Consiglio dichiara non valide le iniziative inattuabili o manifestamente contrarie al diritto.
 
-<sup>2</sup> Le iniziative elaborate sono sottoposte al voto del Popolo entro 18 mesi, senza cambiamenti di forma o contenuto. La legge disciplina le eccezioni e le conseguenze in caso d’inosservanza del termine.[^29-1]
+<sup>2</sup> Le iniziative elaborate sono sottoposte al voto del Popolo entro 18 mesi, senza cambiamenti di forma o contenuto.[^29-1]...[^29-2]
 
-<sup>3</sup> Le iniziative generiche sono sottoposte entro due anni al voto del Popolo se il Gran Consiglio non le approva nel merito. Se il Popolo o il Gran Consiglio ha deciso di dare seguito all’iniziativa, il Gran Consiglio elabora entro due anni un pertinente progetto a destinazione del Popolo. Esso determina se il testo deve avere rango costituzionale o di legge.
+<sup>3</sup> Le iniziative generiche sono sottoposte entro due anni al voto del Popolo se il Gran Consiglio non le approva nel merito. Se il Popolo o il Gran Consiglio ha deciso di dare seguito all’iniziativa, il Gran Consiglio elabora entro due anni un pertinente progetto.[^29-3] Esso determina se il testo deve avere rango costituzionale o di legge.
+
+<sup>3bis</sup> La legge disciplina le eccezioni e le conseguenze in caso d’inosservanza del termine di trattazione delle iniziative popolari.[^29-4]
 
 <sup>4</sup> Il Gran Consiglio può contrapporre un controprogetto a qualsiasi iniziativa.
 
 [^29-1]: Accettato nella [votazione popolare del 2 dic. 2001](http://www.admin.ch/ch/i/pore/va/20011202/index.html), in vigore dal 1° gen. 2002. Garanzia dell’AF del 23 set. 2002 ([FF 2002 5883](https://fedlex.data.admin.ch/eli/fga/2002/1047)art. 1 n. 5 [3177](https://fedlex.data.admin.ch/eli/fga/2002/493)).
+[^29-2]: Per. abrogato nella [votazione popolare del 13 feb. 2022](http://www.admin.ch/ch/i/pore/va/20220213/index.html), con effetto dal 14 feb. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 cpv. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^29-3]: Secondo per. accettato nella [votazione popolare del 13 feb. 2022](http://www.admin.ch/ch/i/pore/va/20220213/index.html), in vigore dal 14 feb. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 cpv. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^29-4]: Accettato nella [votazione popolare del 13 feb. 2022](http://www.admin.ch/ch/i/pore/va/20220213/index.html), in vigore dal 14 feb. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 cpv. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 ### 4. Votazioni popolari
 
@@ -389,12 +398,15 @@ Il Popolo elegge alle urne:
 Sono sottoposti obbligatoriamente al voto del Popolo:
 
 - a. le modifiche costituzionali e i trattati che modificano la Costituzione;
-- b. le leggi nonché i trattati che contengono disposizioni sostanzialmente di rango legislativo, se adottati dal Gran Consiglio a una maggioranza inferiore ai quattro quinti dei membri presenti o se il Gran Consiglio decide, con decreto separato, di sottoporli a referendum obbligatorio;
-- c. le iniziative elaborate e i relativi controprogetti;
-- d. le iniziative generiche respinte dal Gran Consiglio, i relativi controprogetti e gli atti legislativi elaborati in base a un’iniziativa generica;
+- b.[^30-2] le leggi nonché i trattati che contengono disposizioni sostanzialmente di rango legislativo e gli atti legislativi elaborati in base a un’iniziativa generica che è stata ritirata, se adottati dal Gran Consiglio a una maggioranza inferiore ai quattro quinti dei membri presenti o se il Gran Consiglio decide, con decreto separato, di sottoporli a referendum obbligatorio;
+- c.[^30-3] le iniziative elaborate e i controprogetti che sono loro contrapposti contemporaneamente;
+- d.[^30-4] le iniziative generiche respinte dal Gran Consiglio, i controprogetti che sono loro contrapposti contemporaneamente e gli atti legislativi elaborati in base a un’iniziativa generica;
 - e. le decisioni dell’Assemblea comunale o del Consiglio comunale secondo le disposizioni della legge e del regolamento comunale.
 
 [^30-1]: Accettato nella [votazione popolare del 7 giu. 1998](http://www.admin.ch/ch/i/pore/va/19980607/index.html), in vigore dal 1° gen. 2000. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 4 2157).
+[^30-2]: Accettata nella [votazione popolare del 13 feb. 2022](http://www.admin.ch/ch/i/pore/va/20220213/index.html), in vigore dal 14 feb. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 cpv. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^30-3]: Accettata nella [votazione popolare del 13 feb. 2022](http://www.admin.ch/ch/i/pore/va/20220213/index.html), in vigore dal 14 feb. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 cpv. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^30-4]: Accettata nella [votazione popolare del 13 feb. 2022](http://www.admin.ch/ch/i/pore/va/20220213/index.html), in vigore dal 14 feb. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 cpv. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### § 31
 
@@ -406,16 +418,16 @@ Sono sottoposti al voto del Popolo a richiesta di 1500 aventi diritto di voto:
 
 - a. le decisioni vincolanti del Gran Consiglio in materia di pianificazione, se d’importanza fondamentale e sottostanti a referendum facoltativo secondo la Costituzione o la legge;
 - b.[^31-1] le decisioni del Gran Consiglio concernenti nuove spese uniche di oltre un milione di franchi o nuove spese annue ricorrenti di oltre 200 000 franchi;
-- c.[^31-2] le leggi nonché i trattati che contengono disposizioni sostanzialmente di rango legislativo, se non sottostanno a referendum obbligatorio;
+- c.[^31-2] le leggi nonché i trattati che contengono disposizioni sostanzialmente di rango legislativo e gli atti legislativi elaborati in base a un’iniziativa generica che è stata ritirata, se non sottostanno a referendum obbligatorio;
 - d.[^31-3] quale eccezione al § 63 capoverso 3, l’aliquota dell’imposta cantonale sul reddito stabilita per decreto per l’anno fiscale successivo, se il suo valore è diverso dal 100 per cento dell’imposta cantonale normale sul reddito delle persone fisiche.
 
 <sup>2</sup> La domanda dev’essere presentata nelle otto settimane dopo la pubblicazione.
 
 <sup>3</sup> Le decisioni dell’Assemblea comunale e del Consiglio comunale sottostanno a referendum facoltativo secondo le disposizioni della legge e del regolamento comunale.
 
-[^31-1]: Accettato nella [votazione popolare del 24 set. 2017](http://www.admin.ch/ch/i/pore/va/20170924/index.html), in vigore dal 1° gen. 2018. Garanzia dell’AF del 17 set. 2018 ([FF 2018 5335](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 3 316135).
-[^31-2]: Accettata nella [votazione popolare del 7 giu. 1998](http://www.admin.ch/ch/i/pore/va/19980607/index.html), in vigore dal 1° gen. 2000. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 4 2157).
-[^31-3]: Accettato nella [votazione popolare del 24 set. 2017](http://www.admin.ch/ch/i/pore/va/20170924/index.html), in vigore dal 1° gen. 2018. Garanzia dell’AF del 17 set. 2018 ([FF 2018 5335](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 3 [3161](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^31-1]: Accettata nella [votazione popolare del 24 set. 2017](http://www.admin.ch/ch/i/pore/va/20170924/index.html), in vigore dal 1° gen. 2018. Garanzia dell’AF del 17 set. 2018 ([FF 2018 5335](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 3 316135).
+[^31-2]: Accettata nella [votazione popolare del 13 feb. 2022](http://www.admin.ch/ch/i/pore/va/20220213/index.html), in vigore dal 14 feb. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 cpv. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^31-3]: Accettata nella [votazione popolare del 24 set. 2017](http://www.admin.ch/ch/i/pore/va/20170924/index.html), in vigore dal 1° gen. 2018. Garanzia dell’AF del 17 set. 2018 ([FF 2018 5335](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 3 [3161](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 #### § 32
 
@@ -876,13 +888,14 @@ Il Gran Consiglio:
 - b. esercita i diritti di partecipazione che la Costituzione federale conferisce ai Cantoni;
 - c. decide i conflitti di competenza, per quanto non ne sia competente un tribunale;
 - d. disciplina le retribuzioni, le rendite e le pensioni versate dal Cantone;
-- e. elegge per un anno il presidente e il vicepresidente del Consiglio di Stato, nonché, per un periodo amministrativo, il presidente, il vicepresidente e gli altri membri dei tribunali cantonali, il cancelliere dello Stato, il difensore civico e i giurati federali;
+- e.[^67-2] elegge per un anno il presidente e il vicepresidente del Consiglio di Stato, nonché, per un periodo amministrativo, il presidente, il vicepresidente e gli altri membri dei tribunali cantonali, il cancelliere dello Stato e il difensore civico;
 - f. conferisce la cittadinanza cantonale agli stranieri;
 - g. accorda la grazia e l’amnistia.
 
 <sup>2</sup> La legge può conferire ulteriori competenze al Gran Consiglio.
 
 [^67-1]: Accettato nella [votazione popolare del 24 set. 2017](http://www.admin.ch/ch/i/pore/va/20170924/index.html), in vigore dal 1° gen. 2018. Garanzia dell’AF del 17 set. 2018 ([FF 2018 5335](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 3 [3161](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^67-2]: Accettata nella [votazione popolare del 15 mag. 2022](http://www.admin.ch/ch/i/pore/va/20220515/index.html), in vigore dal 1° ago. 2002. Garanzia dell’AF del 6 mar. 2003 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 cpv. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### § 68
 
@@ -1168,13 +1181,15 @@ Non sono impugnabili dinanzi alla Corte costituzionale:
 
 #### § 88
 
-**Statuto e indipendenza**
+**Statuto, indipendenza e incompatibilità**[^88-1]
 
-<sup>1</sup> Il difensore civico vigila affinché l’amministrazione cantonale e le amministrazioni comunali, nonché l’apparato giudiziario operino conformemente al diritto, correttamente e in modo appropriato.
+<sup>1</sup> Il difensore civico vigila affinché l’amministrazione cantonale e le amministrazioni comunali, nonché l’apparato giudiziario operino conformemente al diritto e in modo appropriato.
 
-<sup>2</sup> Il difensore civico non è vincolato a istruzioni di altre autorità.
+<sup>2</sup> Il difensore civico svolge i suoi compiti in modo indipendente. Non è vincolato a istruzioni di altre autorità.
 
-<sup>3</sup> La sua funzione è incompatibile con l’esercizio di un’altra professione o industria o con una posizione dirigente in un partito politico.
+<sup>3</sup> La legge disciplina le incompatibilità.
+
+[^88-1]: Accettato nella [votazione popolare del 15 mag. 2022](http://www.admin.ch/ch/i/pore/va/20220515/index.html), in vigore dal 1° ago. 2002. Garanzia dell’AF del 6 mar. 2003 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 4 cpv. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### § 89
 
@@ -2792,6 +2807,7 @@ Indennità
 
 Incompatibilità 51, 72
 
+- [tab] – del difensore civico 88
 - [tab] – tra parenti 52
 - [tab] – revisione totale 144
 
@@ -2807,6 +2823,7 @@ Iniziativa
 - [tab] – dichiarazione di non validità 29
 - [tab] – impugnabilità del mancato rispetto di iniziative popolari da parte del Gran Consiglio 37
 - [tab] – iniziativa popolare 28 ss
+  - [tab] – deposito delle firme 28
   - [tab] – elaborata 28, 30
   - [tab] – generica 28, 29, 30
   - [tab] – procedura 29
@@ -2943,7 +2960,6 @@ Periodo amministrativo 49*a*, 53
 - [tab] – altri membri dei tribunali cantonali 67
 - [tab] – cancelliere dello Stato 67
 - [tab] – difensore civico 67
-- [tab] – giurati federali 67
 - [tab] – presidente 67
 - [tab] – vicepresidente 67
 
@@ -3126,6 +3142,12 @@ Sede
 Sussidiarietà 47*a*
 
 Tassa di soggiorno 131
+
+Termine
+
+- [tab] – diritti fondamentali 9, 10
+- [tab] – iniziativa popolare 28, 29
+- [tab] – ordinamento finanziario 129
 
 Territorio
 
