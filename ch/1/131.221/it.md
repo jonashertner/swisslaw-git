@@ -3,11 +3,11 @@ sr: "131.221"
 title: "Costituzione del Cantone di Soletta, dell'8 giugno 1986"
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga"
 language: it
-version: 2016-03-03
+version: 2023-03-06
 adopted: 1986-06-08
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga/20160303/it/xml/fedlex-data-admin-ch-eli-cc-1987-2_642_626_526_fga-20160303-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20160303/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga/20230306/it/xml/fedlex-data-admin-ch-eli-cc-1987-2_642_626_526_fga-20230306-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20230306/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20160303/it"
 
 Traduzione[^t-1]
 
-dell’8 giugno 1986 (Stato 3 marzo 2016)[^t-2]
+dell’8 giugno 1986 (Stato 6 marzo 2023)[^t-2]
 
-[^t-1]: Dal testo originale tedesco.
+[^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
 Il Popolo del Cantone di Soletta,
@@ -1199,12 +1199,16 @@ Il Cantone può emanare una legge sui mezzi di comunicazione sociale che promuov
 
 **Scuole pubbliche**
 
-<sup>1</sup> I Comuni politici istituiscono e gestiscono le scuole di base, ad eccezione degli istituti pedagogici speciali; la scuola d’infanzia è parte integrante della scuola di base. Il Cantone partecipa alle spese.[^105-1]
+<sup>1</sup> I Comuni politici istituiscono e gestiscono le scuole di base; la scuola d’infanzia è parte integrante della scuola di base.[^105-1] Il Cantone partecipa alle spese.[^105-2]
 
-<sup>2</sup> Il Cantone istituisce e gestisce gli istituti pedagogici speciali e le altre scuole pubbliche.[^105-2]
+<sup>2</sup> Il Cantone istituisce e gestisce gli istituti pedagogici speciali. Può gestire altre offerte cantonali a livello di scuola di base. La legge disciplina i particolari.[^105-3]
 
-[^105-1]: Accettato nella [votazione popolare del 14 apr. 2013](http://www.admin.ch/ch/i/pore/va/20130414/index.html), in vigore dal 1° gen. 2014. Garanzia dell’AF del 24 set. 2014 ([FF 2014 6817](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 n. 4 [3183](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+<sup>2bis</sup> Il Cantone istituisce e gestisce le altre scuole pubbliche. La legge disciplina i loro compiti e la loro organizzazione.[^105-4]
+
+[^105-1]: Accettato nella [votazione popolare del 15 mag. 2022](http://www.admin.ch/ch/i/pore/va/20220515/index.html), in vigore dal 1° ago. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 3; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 [^105-2]: Accettato nella [votazione popolare del 14 apr. 2013](http://www.admin.ch/ch/i/pore/va/20130414/index.html), in vigore dal 1° gen. 2014. Garanzia dell’AF del 24 set. 2014 ([FF 2014 6817](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 n. 4 [3183](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^105-3]: Accettato nella [votazione popolare del 15 mag. 2022](http://www.admin.ch/ch/i/pore/va/20220515/index.html), in vigore dal 1° ago. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 3; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^105-4]: Accettato nella [votazione popolare del 15 mag. 2022](http://www.admin.ch/ch/i/pore/va/20220515/index.html), in vigore dal 1° ago. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 3; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 106
 

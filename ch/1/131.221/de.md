@@ -3,18 +3,18 @@ sr: "131.221"
 title: "Verfassung des Kantons Solothurn, vom 8. Juni 1986"
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga"
 language: de
-version: 2016-03-03
+version: 2023-03-06
 adopted: 1986-06-08
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga/20160303/de/xml/fedlex-data-admin-ch-eli-cc-1987-2_642_626_526_fga-20160303-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20160303/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2_642_626_526_fga/20230306/de/xml/fedlex-data-admin-ch-eli-cc-1987-2_642_626_526_fga-20230306-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/2_642_626_526_fga/20230306/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Solothurn
 
-vom 8. Juni 1986 (Stand am 3. März 2016)[^t-1]
+vom 8. Juni 1986 (Stand am 6. März 2023)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -1020,7 +1020,7 @@ Die Zivilgerichtsbarkeit wird ausgeübt durch:
 - a. die Friedensrichter;
 - b. die Amtsgerichtspräsidenten;
 - c. die Amtsgerichte;
-- d.[^89-1] …;
+- d.[^89-1] …
 - e. das Obergericht;
 - f.[^89-2] weitere Gerichte und Schlichtungsbehörden nach Massgabe des Gesetzes.
 
@@ -1037,14 +1037,14 @@ Die Zivilgerichtsbarkeit wird ausgeübt durch:
 
 Die Strafgerichtsbarkeit wird ausgeübt durch:
 
-- [tab] a. und b. [^90-1] …;
+- [tab] a. und b. [^90-1] …
 - c. die Jugendgerichtspräsidenten;
 - d.[^90-2] das Jugendgericht;
 - e. die Amtsgerichtspräsidenten;
 - f. die Amtsgerichte;
 - g. das Obergericht;
 - h.[^90-3] den Haftrichter;
-- i.[^90-4] ….
+- i.[^90-4] …
 
 <sup>2</sup> Strafverfolgungsbehörden sind die Staatsanwaltschaft, die Jugendanwaltschaft, die Polizei und die Friedensrichter.[^90-5]
 
@@ -1208,14 +1208,18 @@ Der Kanton kann ein Gesetz über Medien erlassen, das der Förderung der kulture
 
 **Öffentliche Schulen**
 
-<sup>1</sup> Die Einwohnergemeinden errichten und führen die Volksschulen mit Ausnahme der sonderpädagogischen Institutionen; der Kindergarten ist Teil der Volksschule. Der Kanton beteiligt sich an den Kosten.[^105-1]
+<sup>1</sup> Die Einwohnergemeinden errichten und führen die Volksschulen; der Kindergarten ist Teil der Volksschule.[^105-1] Der Kanton beteiligt sich an den Kosten.[^105-2]
 
-<sup>2</sup> Der Kanton errichtet und führt sonderpädagogische Institutionen und die übrigen öffentlichen Schulen.[^105-2]
+<sup>2</sup> Der Kanton errichtet und führt die sonderpädagogischen Institutionen. Er kann weitere kantonale Angebote auf der Volksschulstufe führen. Das Gesetz regelt die Einzelheiten.[^105-3]
+
+<sup>2</sup> <sup>bis</sup> Der Kanton errichtet und führt die übrigen öffentlichen Schulen. Das Gesetz regelt deren Aufgaben und Organisation.[^105-4]
 
 <sup>3</sup> Alle öffentlichen Schulen stehen unter der Aufsicht des Kantons.
 
-[^105-1]: Angenommen in der [Volksabstimmung vom 14. April 2013](http://www.admin.ch/ch/d/pore/va/20130414/index.html), in Kraft seit 1. Jan. 2014. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 4 [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^105-1]: Angenommen in der [Volksabstimmung vom 15. Mai 2022](http://www.admin.ch/ch/d/pore/va/20220515/index.html), in Kraft seit 1. Aug. 2022. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 3; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 [^105-2]: Angenommen in der [Volksabstimmung vom 14. April 2013](http://www.admin.ch/ch/d/pore/va/20130414/index.html), in Kraft seit 1. Jan. 2014. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 4 [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^105-3]: Angenommen in der [Volksabstimmung vom 15. Mai 2022](http://www.admin.ch/ch/d/pore/va/20220515/index.html), in Kraft seit 1. Aug. 2022. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 3; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^105-4]: Angenommen in der [Volksabstimmung vom 15. Mai 2022](http://www.admin.ch/ch/d/pore/va/20220515/index.html), in Kraft seit 1. Aug. 2022. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 3; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 106
 
@@ -2183,7 +2187,7 @@ Schulen
 - – Kompetenzen 82<sup>1a</sup>
 - – Notrecht 79<sup>4</sup>
 
-**Sonderschulen**, heilpädagogische 105<sup>1, 2</sup>
+**Sonderschulen**, heilpädagogische 105<sup>2</sup>
 
 **Sozialhilfe** 95
 
