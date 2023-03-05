@@ -4,11 +4,11 @@ title: "Costituzione della Repubblica e Cantone di Ginevra, del 14 ottobre 2012 
 short: Cost.-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: it
-version: 2021-09-21
+version: 2023-03-06
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20210921/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20210921-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20210921/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230306/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20230306-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20230306/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -19,9 +19,10 @@ Traduzione[^t-1]
 
 (Cost.-GE)
 
-del 14 ottobre 2012 (Stato 21 settembre 2021)
+del 14 ottobre 2012 (Stato 6 marzo 2023)[^t-2]
 
-[^t-1]: Accettata nella votazione popolare del 14 ott. 2012, in vigore dal 1° giu. 2013. Garanzia federale del 20 mar. 2014 (FF **2014** 2701, **2013** 7969 7977). Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
+[^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
+[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
 **Preambolo**
 
@@ -96,7 +97,7 @@ La legge disciplina l’acquisto e la perdita della cittadinanza ginevrina.
 **Stemma e motto**
 
 <table>
-<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20210921/it/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230306/it/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 8
@@ -444,7 +445,10 @@ Le votazioni hanno luogo il più presto possibile, ma al più tardi un anno dopo
 - a) l’adozione di una legge costituzionale da parte del Gran Consiglio;
 - b) il rifiuto di un’iniziativa senza controprogetto o l’adozione di un controprogetto laddove l’iniziativa non sia ritirata;
 - c) la scadenza del termine stabilito dalla Costituzione per la trattazione di un’iniziativa;
-- d) l’accertamento da parte del Consiglio di Stato della riuscita formale di una domanda di referendum.
+- d) l’accertamento da parte del Consiglio di Stato della riuscita formale di una domanda di referendum;
+- e)[^46-1] l’adozione da parte del Gran Consiglio di una risoluzione di destituzione di un membro del Consiglio di Stato in caso di perdita di fiducia.
+
+[^46-1]: Accettato nella votazione popolare il 28 nov. 2021, in vigore dal 1° giu. 2023. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 cpv. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 47
 
@@ -464,7 +468,7 @@ Il diritto di utilizzare gratuitamente il suolo pubblico per la raccolta di firm
 
 <sup>4</sup> ...[^48-1]
 
-[^48-1]: Abrogato nella [votazione popolare del 29 nov. 2020](http://www.admin.ch/ch/i/pore/va/20201129/index.html), con effetto dal 19 dic. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^48-1]: Abrogato nella [votazione popolare del 29 nov. 2020](http://www.admin.ch/ch/i/pore/va/20201129/index.html), con effetto dal 19 dic. 2020. aranzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 49
 
@@ -637,7 +641,11 @@ Se il corpo elettorale accetta un’iniziativa non elaborata, il Gran Consiglio 
 
 **Referendum obbligatorio**
 
-Le revisioni della Costituzione sono sottoposte d’ufficio al corpo elettorale.
+<sup>1</sup> Le revisioni della Costituzione sono sottoposte d’ufficio al corpo elettorale.
+
+<sup>2</sup> Sono sottoposte d’ufficio al corpo elettorale anche le risoluzioni di destituzione di un membro del Consiglio di Stato in caso di perdita di fiducia adottate dal Gran Consiglio.[^65-1]
+
+[^65-1]: Accettato nella votazione popolare il 28 nov. 2021, in vigore dal 1° giu. 2023. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 cpv. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 66
 
@@ -1135,6 +1143,34 @@ I Comuni, i partiti politici e le cerchie rappresentative sono invitati a esprim
 
 <sup>2</sup> Il Gran Consiglio elegge la persona responsabile dell’organo di mediazione per la durata della legislatura dopo essersi consultato con il Consiglio di Stato.
 
+### Sezione 5: Destituzione
+
+[^tit4-chap2-sec5-1]
+
+[^tit4-chap2-sec5-1]: Accettato nella votazione popolare il 28 nov. 2021, in vigore dal 1° giu. 2023. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 cpv. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+
+#### Art. 115A
+
+**Destituzione in caso di perdita di fiducia**
+
+<sup>1</sup> Ogni membro del Consiglio di Stato può essere destituito mediante una risoluzione adottata dal Gran Consiglio, se a causa del suo comportamento non beneficia più della fiducia del corpo elettorale necessaria per esercitare le proprie funzioni.
+
+<sup>2</sup> La proposta di risoluzione di destituzione è firmata da almeno 40 membri del Gran Consiglio, nei limiti della rappresentanza proporzionale dei gruppi in seduta plenaria.
+
+<sup>3</sup> La risoluzione di destituzione è accettata a maggioranza dei tre quarti dei voti espressi, senza tener conto delle astensioni, ma almeno a maggioranza dei membri del Gran Consiglio.
+
+<sup>4</sup> Se il corpo elettorale accetta la risoluzione di destituzione, il mandato del membro del Consiglio di Stato interessato termina al momento in cui il risultato della votazione è convalidato.
+
+<sup>5</sup> Poiché riveste un carattere prevalentemente politico ed è adottata dal Gran Consiglio, prima di essere obbligatoriamente sottoposta al corpo elettorale la risoluzione di destituzione non è soggetta a ricorso cantonale.
+
+#### Art. 115B
+
+**Destituzione in caso di incapacità durevole di esercitare la funzione**
+
+<sup>1</sup> La legge può prevedere la destituzione di un membro del Consiglio di Stato in caso di incapacità durevole di esercitare la funzione.
+
+<sup>2</sup> In tal caso la destituzione non è sottoposta al corpo elettorale e può essere oggetto di ricorso cantonale.
+
 ### Capitolo 3: Potere giudiziario
 
 ### Sezione 1: Principi
@@ -1367,10 +1403,13 @@ I Comuni sottostanno alla vigilanza del Consiglio di Stato che provvede affinch�
 È costituito:
 
 - a) di un Municipio composto di cinque membri nei Comuni con più di 50 000 abitanti;
-- b) di un Municipio composto di tre membri nei Comuni con più di 3000 abitanti;
-- c) di un sindaco e di due assessori negli altri Comuni.
+- b)[^141-1] di un Municipio composto di tre membri negli altri Comuni;
+- c)[^141-2] ...
 
 <sup>3</sup> Il Municipio è eletto ogni cinque anni secondo il sistema maggioritario. Il primo turno ha luogo contemporaneamente all’elezione del Consiglio comunale.
+
+[^141-1]: Accettato nella votazione popolare il 28 nov. 2021, in vigore dal 1° giu. 2025. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 cpv. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)). Fino al 31 mag. 2025: b. di un Municipio composto di tre membri nei Comuni con più di 3000 abitanti;
+[^141-2]: Abrogato nella votazione popolare il 28 nov. 2021, con effetto dal 1° giu. 2025. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 cpv. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)). Fino al 31 mag. 2025: c. di un sindaco e di due assessori negli altri Comuni.
 
 #### Art. 142
 
@@ -2602,6 +2641,7 @@ Consiglio di Stato 101 ss
   - – indipendenza dei membri del 104
 
 - – conflitto di interessi 84
+- – destituzione di un membro del 46, 65, 115A, 115B
 - – disposizioni finali e transitorie 224ss
 - – elezioni cantonali 52
 - – esame della validità dell’iniziativa popolare
@@ -2692,6 +2732,8 @@ Custodia diurna
 - – gestione di strutture di 203
 - – offerta di posti di 200
 - – responsabilità del controllo degli spazi di 201
+
+Destituzione di un membro del Consiglio di Stato 46, 65, 115A, 115B
 
 Dignità
 

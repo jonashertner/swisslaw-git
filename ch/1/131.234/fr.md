@@ -4,11 +4,11 @@ title: "Constitution de la République et canton de Genève, du 14 octobre 2012 
 short: Cst-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: fr
-version: 2021-09-21
+version: 2023-03-06
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20210921/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20210921-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20210921/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230306/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20230306-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20230306/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20210921/fr"
 
 (Cst-GE)
 
-du 14 octobre 2012 (Etat le 21 septembre 2021)[^t-1]
+du 14 octobre 2012 (État le 6 mars 2023)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
 
@@ -94,7 +94,7 @@ La loi règle l’acquisition et la perte de la nationalité genevoise.
 **Armoiries et devise**
 
 <table>
-<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20210921/fr/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230306/fr/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 8
@@ -442,7 +442,10 @@ Les votations ont lieu dans le plus bref délai, mais au plus tard un an après:
 - a) l’adoption d’une loi constitutionnelle par le Grand Conseil;
 - b) le refus d’une initiative sans contreprojet ou l’adoption d’un contreprojet pour autant que l’initiative ne soit pas retirée;
 - c) l’écoulement du délai imparti par la constitution pour le traitement d’une initiative;
-- d) la constatation par le Conseil d’État de l’aboutissement d’une demande de référendum.
+- d) la constatation par le Conseil d’État de l’aboutissement d’une demande de référendum;
+- e)[^46-1] l’adoption d’une résolution de destitution d’un membre du Conseil d’État pour perte de confiance par le Grand Conseil.
+
+[^46-1]: Acceptée en [votation populaire du 28 nov. 2021](http://www.admin.ch/ch/f/pore/va/20211128/index.html), en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 47
 
@@ -635,7 +638,11 @@ Si le corps électoral accepte une initiative non formulée, le Grand Conseil es
 
 **Référendum obligatoire**
 
-Les révisions de la constitution sont soumises d’office au corps électoral.
+<sup>1</sup> Les révisions de la constitution sont soumises d’office au corps électoral.
+
+<sup>2</sup> Les résolutions de destitution d’un membre du Conseil d’État pour perte de confiance, adoptées par le Grand Conseil, sont également soumises d’office au corps électoral.[^65-1]
+
+[^65-1]: Accepté en [votation populaire du 28 nov. 2021](http://www.admin.ch/ch/f/pore/va/20211128/index.html), en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 66
 
@@ -1133,6 +1140,34 @@ Les communes, les partis politiques et les milieux représentatifs sont invités
 
 <sup>2</sup> Le Grand Conseil élit la personne responsable de l’instance de médiation après consultation du Conseil d’État pour la durée de la législature.
 
+### Section 5 Destitution
+
+[^tit4-chap2-sec5-1]
+
+[^tit4-chap2-sec5-1]: Acceptée en [votation populaire du 28 nov. 2021](http://www.admin.ch/ch/f/pore/va/20211128/index.html), en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+
+#### Art. 115A
+
+**Destitution pour perte de confiance**
+
+<sup>1</sup> Chaque membre du Conseil d’État peut être destitué par le biais d’une résolution adoptée par le Grand Conseil, lorsqu’en raison de son comportement, il n’est plus en mesure de bénéficier, auprès du corps électoral, d’une confiance suffisante pour exercer ses fonctions.
+
+<sup>2</sup> La proposition de résolution de destitution doit être signée par au moins 40 membres du Grand Conseil, dans la limite de la représentation proportionnelle des groupes en séance plénière.
+
+<sup>3</sup> La résolution de destitution doit être acceptée à la majorité des trois quarts des voix exprimées, les abstentions n’étant pas prises en considération, mais au moins à la majorité des membres du Grand Conseil.
+
+<sup>4</sup> Si la résolution de destitution est acceptée par le corps électoral, le mandat du membre du Conseil d’État concerné prend fin dès que le résultat de l’opération électorale est validé.
+
+<sup>5</sup> Revêtant un caractère politique prépondérant et étant adoptée par le Grand Conseil, avant d’être soumise au référendum obligatoire, la résolution de destitution n’est pas sujette à recours cantonal.
+
+#### Art. 115B
+
+**Destitution pour incapacité durable d’exercer la fonction**
+
+<sup>1</sup> La loi peut prévoir un mécanisme de destitution d’un membre du Conseil d’État en cas d’incapacité durable d’exercer la fonction.
+
+<sup>2</sup> Dans le cas prévu à l’alinéa précédent, la destitution n’est pas soumise au corps électoral et peut faire l’objet d’un recours cantonal.
+
 ### Chapitre III Pouvoir judiciaire
 
 ### Section 1 Principes
@@ -1365,10 +1400,13 @@ Les communes sont soumises à la surveillance du Conseil d’État, qui veille �
 Il est composé:
 
 - a) d’un conseil administratif de cinq membres dans les communes de plus de 50 000 habitants;
-- b) d’un conseil administratif de trois membres dans les communes de plus de 3000 habitants;
-- c) d’un maire et de deux adjoints dans les autres communes.
+- b)[^141-1] d’un conseil administratif de trois membres dans les autres communes.
+- c)[^141-2] …
 
 <sup>3</sup> Il est élu tous les cinq ans au système majoritaire. Le premier tour a lieu simultanément à l’élection du conseil municipal.
+
+[^141-1]: Acceptée en [votation populaire du 28 nov. 2021](http://www.admin.ch/ch/f/pore/va/20211128/index.html), en vigueur depuis le 1<sup>er</sup> juin 2025. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)). Teneur jusqu’au 31 mai 2025: «d’un conseil administratif de trois membres dans les communes de plus de 3000 habitants»
+[^141-2]: Abrogée en [votation populaire du 28 nov. 2021](http://www.admin.ch/ch/f/pore/va/20211128/index.html), avec effet au 1<sup>er</sup> juin 2025. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)). Teneur jusqu’au 31 mai 2025: «d’un maire et de deux adjoints dans les autres communes»
 
 #### Art. 142
 
@@ -2495,6 +2533,7 @@ Conscience (liberté de – et de croyance) 25
 Conseil d’État
 
 - – compétences 46<sup>1</sup>, 60<sup>1</sup>, 72<sup>1</sup>, 92, 98<sup>2</sup>, 101, 107 à 115, 137, 221
+- – destitution 46<sup>2</sup>, 65<sup>2</sup>, 115A, 115B
 - – élection et organisation 52, 102, 105, 106
 - – généralités 101 à 115
 - – immunité et indépendance 84, 95, 104
@@ -2620,7 +2659,7 @@ Droits fondamentaux
 - – protection de la sphère privée 21
 - – protection des données et des communications 21
 - – protection du domicile 21
-- – protection du mariage, de la famille et d'autres formes de vie 22
+- – protection du mariage, de la famille et d’autres formes de vie 22
 - – restriction 43
 
 Droits politiques 44 à 79
@@ -2706,7 +2745,7 @@ Escroquerie fiscale 155<sup>5</sup>
 - – Surveillance par l’- v. Surveillance
 - – Autorités v. Autorités
 - – Pouvoir v. Pouvoir
-- – Responsabilité de l'- 12
+- – Responsabilité de l’- 12
 - – budget, finances v. Budget, Finances
 - – impôts v. Impôts
 - – laïcité v. Religion
@@ -2758,7 +2797,7 @@ Grâce 99
 
 Grand Conseil
 
-- – compétences 60, 61, 64, 67, 70, 72, 91 à 100, 106, 107, 111, 113, 115, 121, 123, 130, 156, 169, 219
+- – compétences 60, 61, 64, 67, 70, 72, 91 à 100, 106, 107, 111, 113, 115, 115A, 121, 123, 130, 156, 169, 219
 - – élection et organisation 52<sup>1</sup>, 81, 82, 86 à 90
 - – généralités 80 à 100
 - – immunité et indépendance 84, 85

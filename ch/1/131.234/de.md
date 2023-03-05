@@ -4,11 +4,11 @@ title: "Verfassung der Republik und des Kantons Genf, vom 14. Oktober 2012 (KV-G
 short: KV-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: de
-version: 2021-09-21
+version: 2023-03-06
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20210921/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20210921-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20210921/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230306/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20230306-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20230306/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20210921/de"
 
 (KV-GE)
 
-vom 14. Oktober 2012 (Stand am 21. September 2021)[^t-2]
+vom 14. Oktober 2012 (Stand am 6. März 2023)[^t-2]
 
 [^t-1]: Der Text in der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
@@ -97,7 +97,7 @@ Das Gesetz regelt Erwerb und Verlust des Genfer Bürgerrechts.
 **Wappen und Devise**
 
 <table>
-<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20210921/de/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20230306/de/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 8
@@ -445,7 +445,10 @@ Die Abstimmungen werden innert kürzester Frist durchgeführt, und zwar spätest
 - a. nach der Annahme eines Verfassungsgesetzes durch den Grossen Rat;
 - b. nach der Ablehnung einer Initiative, welcher kein Gegenvorschlag gegenübergestellt wurde, oder nach Annahme eines Gegenvorschlags, sofern die Initiative nicht zurückgezogen wurde;
 - c. nach Ablauf der von der Verfassung festgelegten Frist für die Behandlung einer Initiative;
-- d. nachdem der Staatsrat das Zustandekommen eines Referendumsbegehrens festgestellt hat.
+- d. nachdem der Staatsrat das Zustandekommen eines Referendumsbegehrens festgestellt hat;
+- e.[^46-1] nach der Annahme einer Resolution über die Amtsenthebung eines Staatsratsmitglieds wegen Vertrauensverlusts durch den Grossen Rat.
+
+[^46-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), in Kraft seit 1. Juni 2023. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 47
 
@@ -638,7 +641,11 @@ Wenn die Stimmberechtigten eine nicht formulierte Initiative annehmen, so hat de
 
 **Obligatorisches Referendum**
 
-Verfassungsrevisionen sind den Stimmberechtigten obligatorisch zur Abstimmung zu unterbreiten.
+<sup>1</sup> Verfassungsrevisionen sind den Stimmberechtigten obligatorisch zur Abstimmung zu unterbreiten.
+
+<sup>2</sup> Resolutionen des Grossen Rates über die Amtsenthebung eines Staatsratsmitglieds wegen Vertrauensverlusts sind den Stimmberechtigten ebenfalls obligatorisch zur Abstimmung zu unterbreiten.[^65-1]
+
+[^65-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), in Kraft seit 1. Juni 2023. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 66
 
@@ -1136,6 +1143,34 @@ Die Gemeinden, die politischen Parteien und die repräsentativen Kreise werden b
 
 <sup>2</sup> Der Grosse Rat wählt nach Anhörung des Staatsrats die für die Ombudsstelle verantwortliche Person für die Legislaturperiode.
 
+### 5. Abschnitt: Amtsenthebung
+
+[^tit4-chap2-sec5-1]
+
+[^tit4-chap2-sec5-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), in Kraft seit 1. Juni 2023. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+
+#### Art. 115A
+
+**Amtsenthebung wegen Vertrauensverlusts**
+
+<sup>1</sup> Jedes Mitglied des Staatsrates kann durch eine Resolution des Grossen Rates seines Amtes enthoben werden, wenn es aufgrund seines Verhaltens nicht mehr über das zur Ausübung seiner Funktion notwendige Vertrauen der Stimmberechtigten verfügt.
+
+<sup>2</sup> Der Vorschlag zur Resolution über die Amtsenthebung muss von mindestens 40 Mitgliedern des Grossen Rates unterzeichnet sein, wobei die Anzahl Unterschriften einer Fraktion begrenzt ist auf die der Fraktion gemäss Proporzwahl zugeteilte Anzahl Mitglieder in der Plenarversammlung.
+
+<sup>3</sup> Die Resolution über die Amtsenthebung muss mit drei Viertel der abgegebenen Stimmen angenommen werden, wobei Stimmenthaltungen nicht gezählt werden, mindestens aber von der Mehrheit der Mitglieder des Grossen Rates.
+
+<sup>4</sup> Wenn die Stimmberechtigten der Resolution über die Amtshebung zustimmen, so endet das Mandat des betreffenden Staatsratsmitglieds, sobald das Abstimmungsergebnis validiert ist.
+
+<sup>5</sup> Als Entscheid mit vorwiegend politischem Charakter, der vom Grossen Rat angenommen wurde, bevor er den Stimmberechtigten obligatorisch zur Abstimmung unterbreitet wird, unterliegt die Resolution über die Amtsenthebung nicht der kantonalen Beschwerde.
+
+#### Art. 115B
+
+**Amtsenthebung wegen dauerhafter Amtsunfähigkeit**
+
+<sup>1</sup> Das Gesetz kann die Amtsenthebung eines Mitglieds des Staatsrates wegen dauerhafter Amtsunfähigkeit vorsehen.
+
+<sup>2</sup> In diesem Fall wird die Amtsenthebung den Stimmberechtigen nicht obligatorisch zur Abstimmung unterbreitet und unterliegt der kantonalen Beschwerde.
+
 ### 3. Kapitel: Richterliche Gewalt
 
 ### 1. Abschnitt: Grundsätze
@@ -1368,10 +1403,13 @@ Die Gemeinden unterstehen der Aufsicht des Staatsrats; er sorgt dafür, dass sie
 Sie setzt sich zusammen aus:
 
 - a. einem administrativen Rat aus 5 Mitgliedern in Gemeinden mit mehr als 50 000 Einwohnerinnen und Einwohnern;
-- b. einem administrativen Rat aus 3 Mitgliedern in Gemeinden mit mehr als 3000 Einwohnerinnen und Einwohnern;
-- c. einer Gemeindepräsidentin oder einem Gemeindepräsidenten und 2 Adjunktinnen und Adjunkten in den anderen Gemeinden.
+- b.[^141-1] einem administrativen Rat aus 3 Mitgliedern in den anderen Gemeinden;
+- c.[^141-2] …
 
 <sup>3</sup> Sie wird alle fünf Jahre nach dem Grundsatz des Majorzes gewählt. Der erste Wahlgang findet gleichzeitig mit der Wahl des Gemeinderats statt.
+
+[^141-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), in Kraft seit 1. Juni 2025. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)). Bis 31. Mai 2025: «einem administrativen Rat aus 3 Mitgliedern in Gemeinden mit mehr als 3000 Einwohnerinnen und Einwohnern».
+[^141-2]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), mit Wirkung seit 1. Juni 2025. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)). Bis 31. Mai 2025: «einer Gemeindepräsidentin oder einem Gemeindepräsidenten und 2 Adjunktinnen und Adjunkten in den anderen Gemeinden».
 
 #### Art. 142
 
@@ -2362,6 +2400,10 @@ Amnestie 100
 
 Amt, öffentliches s. Beamte
 
+Amtsenthebung
+
+- – eines Staatsratsmitglieds 46<sup>2e</sup>, 65<sup>2</sup>, 115A, 115B
+
 Amtsgeheimnis 131, 223
 
 Anleihen 97, 154
@@ -2609,6 +2651,7 @@ Grosser Rat
 - – Allgemeines 80–100
 - – Aufsicht s. Aufsicht
 - – Immunität und Unabhängigkeit 84, 85
+- – Resolution 46<sup>2e</sup>, 65<sup>2</sup>, 115A, 115B
 - – Unvereinbarkeiten 83
 - – Wahl und Organisation 52, 81, 82, 86–90
 - – Zuständigkeiten 60, 61, 64, 67, 70, 72, 91–100, 106, 107, 111, 113, 115, 121–123, 130, 156, 169, 219
@@ -2871,6 +2914,10 @@ Religion
 
 Republik s. Kanton
 
+Resolution
+
+- – des Grossen Rates 46<sup>2e</sup>, 65<sup>2</sup>, 115A
+
 Ressourcen
 
 - – des Staats 154
@@ -2929,7 +2976,7 @@ Staatskanzlei 114
 Staatsrat
 
 - – Allgemeines 101–115
-- – Allgemeines 101–115
+- – Amtsenthebung: 46<sup>2e</sup>, 65<sup>2</sup>,115A, 115B
 - – Immunität und Unabhängigkeit 84, 95, 104
 - – Legislaturplanung 107
 - – Sitzung des Grossen Rats 86
