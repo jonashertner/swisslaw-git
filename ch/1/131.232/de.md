@@ -3,18 +3,18 @@ sr: "131.232"
 title: "Verfassung des Kantons Wallis, vom 8. März 1907"
 eli: "https://fedlex.data.admin.ch/eli/cc/1907/5_611_1_1_fga"
 language: de
-version: 2020-03-11
+version: 2023-03-06
 adopted: 1907-03-08
 in_force: 1907-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1907/5_611_1_1_fga/20200311/de/xml/fedlex-data-admin-ch-eli-cc-1907-5_611_1_1_fga-20200311-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1907/5_611_1_1_fga/20200311/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1907/5_611_1_1_fga/20230306/de/xml/fedlex-data-admin-ch-eli-cc-1907-5_611_1_1_fga-20230306-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1907/5_611_1_1_fga/20230306/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Wallis
 
-vom 8. März 1907 (Stand am 11. März 2020)[^t-1]
+vom 8. März 1907 (Stand am 6. März 2023)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -128,6 +128,14 @@ Das Petitionsrecht ist gewährleistet. Die Ausübung desselben wird vom Gesetze 
 #### Art. 14
 
 Der Staat erlässt Vorschriften betreffend Arbeiterschutz und Sicherung der Arbeiterfreiheit.
+
+#### Art. 14a
+
+[^14a-1]
+
+Der Staat erlässt Vorschriften zum Schutz vor Grossraubtieren und zur Beschränkung und Regulierung des Bestands. Die Förderung des Grossraubtierbestandes ist verboten.
+
+[^14a-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), in Kraft seit 1. Mai 2023. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 5; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 15
 
@@ -1315,6 +1323,8 @@ Grosser Rat
 - – Amtsantritt 86
 - – Kompetenz bei Verfassungsrevision 100–105, 107
 
+**Grossraubtiere** 14*a*
+
 Grundstück
 
 - – Enteignung 6
@@ -1629,4 +1639,6 @@ Wahlen
 - – durch das Volk 30, 39<sup>1</sup>, 52, 84–87, 103
 - – durch den Grossen Rat 39<sup>2</sup>,
 - – Wahlrecht 88, 89, 92
-  - [tab]
+
+- [tab]
+- [tab]

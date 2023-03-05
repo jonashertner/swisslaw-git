@@ -3,18 +3,18 @@ sr: "131.232"
 title: "Constitution du canton du Valais, du 8 mars 1907"
 eli: "https://fedlex.data.admin.ch/eli/cc/1907/5_611_1_1_fga"
 language: fr
-version: 2020-03-11
+version: 2023-03-06
 adopted: 1907-03-08
 in_force: 1907-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1907/5_611_1_1_fga/20200311/fr/xml/fedlex-data-admin-ch-eli-cc-1907-5_611_1_1_fga-20200311-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1907/5_611_1_1_fga/20200311/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1907/5_611_1_1_fga/20230306/fr/xml/fedlex-data-admin-ch-eli-cc-1907-5_611_1_1_fga-20230306-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1907/5_611_1_1_fga/20230306/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution du Canton du Valais
 
-du 8 mars 1907 (Etat le 11 mars 2020)[^t-1]
+du 8 mars 1907 (État le 6 mars 2023)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
 
@@ -128,6 +128,14 @@ Le droit de pétition est garanti. La loi en règle l’exercice.
 #### Art. 14
 
 L’État édicte des prescriptions concernant la protection ouvrière et assurant la liberté du travail.
+
+#### Art. 14a
+
+[^14a-1]
+
+L’État édicte des prescriptions relatives à la protection contre les grands prédateurs ainsi qu’à la limitation et à la régulation de leur effectif. La promotion de la population des grands prédateurs est interdite.
+
+[^14a-1]: Accepté en [votation populaire du 28 nov. 2021](http://www.admin.ch/ch/f/pore/va/20211128/index.html), en vigueur depuis le 1<sup>er</sup> mai 2023. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 5; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963))).
 
 #### Art. 15
 
@@ -1492,6 +1500,8 @@ Pouvoirs, autorités
 - – responsabilité 21, 50, 53
 - – surveillance 40, 55<sup>2</sup>
 
+Prédateurs 14*a*
+
 Préfet
 
 - – généralités 59
@@ -1567,7 +1577,6 @@ Système proportionnel
 
 - – au conseil général 87
 - – au conseil municipal et bourgeoisial 87
-- [tab]
 
 **Travail** protection 14
 

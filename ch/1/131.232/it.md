@@ -3,11 +3,11 @@ sr: "131.232"
 title: "Costituzione del Cantone del Vallese, dell'8 marzo 1907"
 eli: "https://fedlex.data.admin.ch/eli/cc/1907/5_611_1_1_fga"
 language: it
-version: 2020-03-11
+version: 2023-03-06
 adopted: 1907-03-08
 in_force: 1907-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1907/5_611_1_1_fga/20200311/it/xml/fedlex-data-admin-ch-eli-cc-1907-5_611_1_1_fga-20200311-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1907/5_611_1_1_fga/20200311/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1907/5_611_1_1_fga/20230306/it/xml/fedlex-data-admin-ch-eli-cc-1907-5_611_1_1_fga-20230306-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1907/5_611_1_1_fga/20230306/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1907/5_611_1_1_fga/20200311/it"
 
 Traduzione[^t-1]
 
-dell’8 marzo 1907 (Stato 11 marzo 2020)[^t-2]
+dell’8 marzo 1907 (Stato 6 marzo 2023)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. e nell’ediz. franc. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
@@ -131,6 +131,14 @@ Il diritto di petizione è garantito. La legge ne disciplina l’esercizio.
 #### Art. 14
 
 Lo Stato emana prescrizioni concernenti la protezione dei lavoratori e prescrizioni volte ad assicurare la libertà del lavoro.
+
+#### Art. 14a
+
+[^14a-1]
+
+Lo Stato emana prescrizioni concernenti la protezione contro i grandi predatori, nonché la limitazione e la regolazione del loro numero. È vietato promuovere l’aumento del numero di grandi predatori.
+
+[^14a-1]: Accettato nella [votazione popolare del 28 nov. 2021](http://www.admin.ch/ch/i/pore/va/20211128/index.html), in vigore dal 1° mag. 2023. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 5; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 15
 
@@ -1587,7 +1595,8 @@ Garanzie
 - – revisione della Costituzione 100ss
 - – sede del 27
 - – sessione costitutiva del 86
-- [tab]
+
+**Grandi** **predatori** 14*a*
 
 **Imposta(e)**
 
@@ -1965,8 +1974,6 @@ Referendum
 - – obbligatorio 32
 
 Revisione della Costituzione 100ss
-
-- [tab]
 
 Scuola(e)
 
