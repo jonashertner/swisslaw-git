@@ -3,22 +3,23 @@ sr: "131.211"
 title: "Costituzione del Cantone di Zurigo, del 27 febbraio 2005"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/14_fga"
 language: it
-version: 2022-03-16
+version: 2023-03-06
 adopted: 2005-02-27
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20220316/it/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20220316-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20220316/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20230306/it/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20230306-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230306/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione del Cantone di Zurigo
 
-Traduzione
+Traduzione[^t-1]
 
-del 27 febbraio 2005 (Stato 16 marzo 2022)[^t-1]
+del 27 febbraio 2005 (Stato 6 marzo 2023)[^t-2]
 
-[^t-1]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
+[^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
 **Preambolo**
 
@@ -1113,6 +1114,20 @@ Il Cantone e i Comuni provvedono a un’occupazione razionale del territorio, a 
 
 <sup>3</sup> Il Cantone e i Comuni possono promuovere l’applicazione di tecnologie ecologicamente sostenibili.
 
+### Clima
+
+#### Art. 102a
+
+[^102a-1]
+
+<sup>1</sup> Il Cantone e i Comuni si adoperano per limitare i cambiamenti climatici e i loro effetti. Tengono conto degli obiettivi della Confederazione e degli accordi internazionali vincolanti per la Svizzera. Le misure che adottano sono volte segnatamente a ridurre le emissioni di gas serra al fine di raggiungere la neutralità climatica.
+
+<sup>2</sup> Provvedono affinché misure idonee siano adottate segnatamente nell’ambito dello sviluppo degli insediamenti, nonché in quello degli edifici, dei trasporti, dell’agricoltura e della silvicoltura, come pure nei settori dell’industria e dell’artigianato.
+
+<sup>3</sup> Possono promuovere lo sviluppo e l’impiego di tecnologie, materiali e processi che contribuiscono alla protezione del clima e all’adattamento ai cambiamenti climatici.
+
+[^102a-1]: Accettato nella [votazione popolare del 15 mag. 2022](http://www.admin.ch/ch/i/pore/va/20220515/index.html), in vigore dal 1° nov. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+
 ### Protezione della natura e del patrimonio
 
 #### Art. 103
@@ -1607,6 +1622,8 @@ Bilancio
 - [tab] – elaborazione di un progetto di 68
 - [tab] – principi del 122
 
+Cambiamenti climatic 102*a*
+
 Cantone
 
 - [tab] – adeguata rappresentanza d’ambo i sessi 40
@@ -1770,6 +1787,10 @@ Cittadinanza 20 ss
 - [tab] – condizioni della cittadinanza cantonale 20
 - [tab] – perdita della 20
 
+Clima
+
+- [tab] – protezione del 102*a*
+
 Commissione (i)
 
 - [tab] – adeguata rappresentanza dei sessi nelle commissioni
@@ -1813,6 +1834,7 @@ Compiti 100 ss
   - [tab] – lavoro 107
   - [tab] – ordine pubblico 100
   - [tab] – perfezionamento professionale 119
+  - [tab] – protezione del clima 102*a*
   - [tab] – protezione del patrimonio 103
   - [tab] – protezione dell’ambiente 102
   - [tab] – protezione della natura 103
@@ -1886,6 +1908,7 @@ Comune (i) 83 ss
   - [tab] – lavoro 107
   - [tab] – ordine pubblico 100
   - [tab] – perfezionamento professionale 119
+  - [tab] – protezione del clima 102*a*
   - [tab] – protezione del patrimonio 103
   - [tab] – protezione dell’ambiente 102
   - [tab] – protezione della natura 103

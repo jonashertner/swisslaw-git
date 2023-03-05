@@ -3,18 +3,18 @@ sr: "131.211"
 title: "Verfassung des Kantons Zürich, vom 27. Februar 2005"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/14_fga"
 language: de
-version: 2022-03-16
+version: 2023-03-06
 adopted: 2005-02-27
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20220316/de/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20220316-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20220316/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20230306/de/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20230306-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230306/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Zürich
 
-vom 27. Februar 2005 (Stand am 16. März 2022)[^t-1]
+vom 27. Februar 2005 (Stand am 6. März 2023)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -1109,6 +1109,20 @@ Kanton und Gemeinden sorgen für eine geordnete Besiedlung, die zweckmässige un
 
 <sup>3</sup> Kanton und Gemeinden können die Anwendung nachhaltiger Technologien fördern.
 
+### Klima
+
+#### Art. 102a
+
+[^102a-1]
+
+<sup>1</sup> Kanton und Gemeinden setzen sich für die Begrenzung des Klimawandels und dessen Auswirkungen ein. Sie berücksichtigen dabei die Ziele des Bundes und der für die Schweiz verbindlichen internationalen Abkommen. Insbesondere richten sie ihre Massnahmen darauf aus, die Treibhausgasemissionen bis zur Treibhausgasneutralität zu vermindern.
+
+<sup>2</sup> Sie sorgen dafür, dass dazu geeignete Massnahmen, namentlich in den Bereichen Siedlungsentwicklung, Gebäude, Verkehr, Land- und Forstwirtschaft sowie Industrie und Gewerbe, umgesetzt werden.
+
+<sup>3</sup> Sie können die Entwicklung und Anwendung von Technologien, Materialien und Prozessen fördern, die zum Klimaschutz und zur Anpassung an den Klimawandel beitragen.
+
+[^102a-1]: Angenommen in der [Volksabstimmung vom 15. Mai 2022](http://www.admin.ch/ch/d/pore/va/20220515/index.html), in Kraft seit 1. Nov. 2022. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+
 ### Natur- und Heimatschutz
 
 #### Art. 103
@@ -1881,6 +1895,8 @@ Kirchen
 - – Übergangsrecht 145
 - – Wahl der Pfarrer 130 <sup>3d</sup>
 - – weitere Religionsgemeinschaften 131
+
+**K****lima** 102*a*
 
 **Kommissionen**
 

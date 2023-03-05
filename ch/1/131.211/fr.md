@@ -3,22 +3,23 @@ sr: "131.211"
 title: "Constitution du canton de Zurich, du 27 février 2005"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/14_fga"
 language: fr
-version: 2022-03-16
+version: 2023-03-06
 adopted: 2005-02-27
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20220316-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20220316/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20230306/fr/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20230306-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230306/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution du Canton de Zurich
 
-Traduction
+Traduction[^t-1]
 
-du 27 février 2005 (Etat le 16 mars 2022)[^t-1]
+du 27 février 2005 (État le 6 mars 2023)[^t-2]
 
-[^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+[^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
+[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
 
 **Préambule**
 
@@ -1111,6 +1112,20 @@ L’État et les communes veillent à une occupation rationnelle du territoire, 
 
 <sup>3</sup> L’État et les communes peuvent encourager l’utilisation de techniques permettant un développement durable.
 
+### Climat
+
+#### Art. 102a
+
+[^102a-1]
+
+<sup>1</sup> Le canton et les communes s’engagent à atténuer le changement climatique et ses effets. Ils prennent en compte les objectifs de la Confédération et des traités internationaux auxquels la Suisse est tenue. Leurs mesures visent notamment à réduire les émissions de gaz à effet de serre pour atteindre la neutralité climatique.
+
+<sup>2</sup> Ils veillent à ce que des mesures appropriées soient mises en œuvre notamment dans les domaines du développement de l’urbanisation, des bâtiments, des transports, de l’agriculture et de la sylviculture ainsi que dans l’industrie et l’artisanat.
+
+<sup>3</sup> Ils peuvent encourager le développement et l’utilisation de technologies, matériaux et processus qui contribuent à la protection du climat et à l’adaptation au changement climatique.
+
+[^102a-1]: Accepté en [votation populaire du 15 mai 2022](http://www.admin.ch/ch/f/pore/va/20220515/index.html), en vigueur depuis le 1<sup>er</sup> nov. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+
 ### Protection de la nature et du patrimoine
 
 #### Art. 103
@@ -1606,6 +1621,8 @@ Canton
   - – compétence pour l’autorisation 21
   - – droit de cité cantonal 20
   - – droit de cité communal 20, 21
+
+**Climat** 102*a*
 
 **Commissions**
 
