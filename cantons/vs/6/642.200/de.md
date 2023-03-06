@@ -1,25 +1,23 @@
 ---
 canton: VS
 number: "642.200"
-title: "Ausführungsverordnung zum Bundesgesetz über die Verrechnungssteuer und der eidgenössischen Verordnung über die Anrechnung ausländischer Quellensteuern *"
+title: Ausführungsverordnung zum Bundesgesetz über die Verrechnungssteuer und der eidgenössischen Verordnung über die pauschale Steueranrechnung
 short: AusVVStG
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-10-26
+version: 2012-07-20
+corrected: 2023-03-07
+version_adopted: 2012-05-16
 adopted: 2003-11-26
 in_force: 2003-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/642.200"
-pdf: "https://lex.vs.ch/api/de/versions/3190/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/1924/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ausführungsverordnung zum Bundesgesetz über die Verrechnungssteuer und der eidgenössischen Verordnung über die Anrechnung ausländischer Quellensteuern
+# Ausführungsverordnung zum Bundesgesetz über die Verrechnungssteuer und der eidgenössischen Verordnung über die pauschale Steueranrechnung
 
-(AusVVStG)
-
-vom 26.11.2003 (Stand 01.01.2022)
+vom 26.11.2003 (Stand 20.07.2012)
 
 Der Staatsrat des Kantons Wallis
 
@@ -29,9 +27,9 @@ eingesehen die Vollziehungsverordnung zum Bundesgesetz über die Verrechnungsste
 
 eingesehen die eidgenössische Verordnung vom 15. Juni 1998 zum schweizerisch-amerikanischen Doppelbesteuerungsabkommen vom 2. Oktober 1996;
 
-eingesehen die eidgenössische Verordnung über die Anrechnung ausländischer Quellensteuern vom 22. August 1967;
+eingesehen die eidgenössische Verordnung über die pauschale Steueranrechnung vom 22. August 1967 (VPS);
 
-auf Antrag des für die Finanzen zuständigen Departements,
+auf Antrag des Departements für Finanzen, Landwirtschaft und äussere Angelegenheiten,
 
 verordnet:
 
@@ -60,7 +58,7 @@ verordnet:
 
 **Rekursbehörde**
 
-<sup>1</sup> Die steuerrechtliche Abteilung des Kantonsgerichts gilt als Rekursinstanz im Sinne von Artikel 35 Absatz 2 VStG.
+<sup>1</sup> Die kantonale Steuerrekurskommission (Art. 150 bis 153 Steuergesetz) gilt als Rekursinstanz im Sinne von Artikel 35 Absatz 2 VStG.
 
 <sup>2</sup> Sie amtet auch als Rekursbehörde bei Bussen für Ordnungswidrigkeiten (Art. 67 Abs. 3 VStG).
 
@@ -100,7 +98,7 @@ verordnet:
 
 <sup>1</sup> Die Verrechnungssteuer auf die angefallenen Lottogewinne kann, nach Abzug der geschuldeten Kantons- und Gemeindesteuern, auf rückständige Kantonssteuern und auf Verlustscheine alter Steuerforderungen angerechnet oder der berechtigten Person ausbezahlt werden.
 
-<sup>2</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach Artikel 24 Buchstabe i<sup>bis</sup> des Bundesgesetzes über die direkte Bundessteuer (DBG) steuerfrei sind, werden 5 Prozent, jedoch höchstens 5'000 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Artikel 24 Buchstabe i<sup>bis</sup> DBG werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 25'000 Franken, abgezogen.
+<sup>2</sup> Vom Bruttogewinn werden die Einsätze, maximal jedoch in der Höhe von fünf Prozent, in Abzug gebracht.
 
 <sup>3</sup> Die Verrechnungssteuer kann frühestens nach Ablauf des Kalenderjahres, in dem die steuerbare Leistung fällig geworden ist, angerechnet werden (Art. 29 Abs. 2 VStG).
 
@@ -110,9 +108,9 @@ verordnet:
 
 **Rückerstattung des zusätzlichen Steuerrückbehalts USA**
 
-<sup>1</sup> Zuständig für die Rückerstattung des zusätzlichen Steuerrückbehalts USA auf amerikanische Dividenden und Zinsen ist das kantonale Verrechnungssteueramt.
+<sup>1</sup> Zuständig für die Rückerstattung des zusätzlichen Steuerrückbehalts auf amerikanische Dividenden und Zinsen ist das kantonale Verrechnungssteueramt.
 
-<sup>2</sup> Der Antrag auf Rückerstattung ist auf einem besonderen Formular einzureichen.
+<sup>2</sup> Der Antrag auf Rückerstattung ist auf einem besonderen Formular (Ergänzungsblatt USA), das vom kantonalen Verrechnungssteueramt ausgehändigt wird, mit der Steuererklärung einzureichen.
 
 <sup>3</sup> Er kann frühestens nach Ablauf des Kalenderjahres, in dem die amerikanischen Einkünfte fällig geworden sind, gestellt werden.
 
@@ -120,11 +118,11 @@ verordnet:
 
 #### Art. 8
 
-**Anrechnung ausländischer Quellensteuern**
+**Pauschale Steueranrechnung**
 
-<sup>1</sup> Zuständig für die Durchführung der Anrechnung ausländischer Quellensteuern ist das kantonale Verrechnungssteueramt.
+<sup>1</sup> Zuständig für die Durchführung der pauschalen Steueranrechnung ist das kantonale Verrechnungssteueramt.
 
-<sup>2</sup> Der Antrag auf Anrechnung ausländischer Quellensteuern ist auf einem besonderen Formular mit der Steuererklärung und den entsprechenden Belegen bei der kantonalen Steuerverwaltung einzureichen.
+<sup>2</sup> Der Antrag auf pauschale Steueranrechnung ist auf einem besonderen Formular, das vom kantonalen Verrechnungssteueramt ausgehändigt wird, mit der Steuererklärung und den entsprechenden Belegen bei der kantonalen Steuerverwaltung einzureichen.
 
 <sup>3</sup> Er kann frühestens nach Ablauf des Kalenderjahres, in dem die Erträgnisse fällig geworden sind, gestellt werden.
 
@@ -132,21 +130,15 @@ verordnet:
 
 **Anrechnung und Aufteilung**
 
-<sup>1</sup> Ausser in den in der eidgenössischen Verordnung über die Anrechnung ausländischer Quellensteuern vorgesehenen Fällen wird der Betrag der anrechenbaren ausländischen Quellensteuern zwischen dem Bund einerseits sowie den Kantonen und Gemeinden andererseits wie folgt verteilt:
+<sup>1</sup> Für natürliche Personen wird der Betrag der pauschalen Steueranrechnung mit den geschuldeten Kantonssteuern auf das Einkommen und Vermögen verrechnet. Der Überschuss kann auf rückständige Kantonssteuern und auf Verlustscheine alter Steuerforderungen angerechnet oder der berechtigten Person in bar ausbezahlt werden.
 
-- a) bei natürlichen Personen gemäss den Steuersätzen nach Artikel 9 Absatz 1 der eidgenössischen Verordnung über die Anrechnung ausländischer Quellensteuern, und
-- b) bei juristischen Personen im Verhältnis der Steuern auf dem Gewinn nach Artikel 10 Absatz 1 der eidgenössischen Verordnung über die Anrechnung ausländischer Quellensteuern.
+<sup>2</sup> Für juristische Personen erfolgt die Rückerstattung in bar.
 
-<sup>2</sup> Der dem Bund nicht zu belastende Anteil der ausländischen Quellensteuern wird am Ende der Steuerperiode, in der die Einnahmen fällig werden, zwischen dem Kanton und den Gemeinden wie folgt verteilt:
+<sup>3</sup> Der Teil der pauschalen Steueranrechnung, der nicht dem Bund zu belasten ist, wird im Verhältnis von je 50 Prozent zwischen dem Kanton und der Wohnortgemeinde oder dem Sitz des Gesuchstellers aufgeteilt.
 
-- a) im Verhältnis zum Einkommenssteuersatz des Kantons und der Gemeinde für die natürlichen Personen, und
-- b) im Verhältnis zu der vom Kanton und der Gemeinde erhobenen Gewinnsteuer für die juristischen Personen.
+<sup>4</sup> Übersteigt der Betrag, welcher der Gemeinde zu belasten ist, 1000 Franken, wird er vom kantonalen Verrechnungssteueramt unter allen beteiligten Gemeinden aufgeteilt.
 
-<sup>3</sup> Für natürliche Personen wird der Betrag der Anrechnung ausländischer Quellensteuern mit den geschuldeten Kantonssteuern auf das Einkommen und Vermögen verrechnet. Der Überschuss kann auf rückständige Kantonssteuern und auf Verlustscheine alter Steuerforderungen angerechnet oder der berechtigten Person in bar ausbezahlt werden.
-
-<sup>4</sup> Für juristische Personen erfolgt die Rückerstattung in bar.
-
-<sup>5</sup> …
+<sup>5</sup> Beträge unter 100 Franken gehen zu Lasten der Wohnortgemeinde.
 
 #### Art. 10
 
@@ -154,7 +146,7 @@ verordnet:
 
 <sup>1</sup> Gegen den Rückerstattungsentscheid kann beim kantonalen Verrechnungssteueramt schriftlich Einsprache erhoben werden (Art. 53 und 55 VStG).
 
-<sup>2</sup> Der Einspracheentscheid ist mit Beschwerde bei der steuerrechtlichen Abteilung des Kantonsgerichts anfechtbar (Art. 54 VStG).
+<sup>2</sup> Der Einspracheentscheid ist mit Beschwerde bei der kantonalen Steuerrekurskommission anfechtbar (Art. 54 VStG).
 
 <sup>3</sup> Das Verfahren richtet sich nach der Gesetzgebung des Bundes oder, wenn der Rückerstattungsentscheid mit einer Veranlagungsverfügung verbunden wurde (Art. 55 VStG), durch die sinngemässe Anwendung der Bestimmungen im Steuergesetz.
 
