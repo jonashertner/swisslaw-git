@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "431.1.13"
-title: "Ordonnance concernant la capacité d'accueil et le test d'aptitudes pour le Bachelor of Medicine (BMed) à l'Université de Fribourg pour l'année académique 2022/23"
+title: "Ordonnance concernant la capacité d'accueil et le test d'aptitudes pour le Bachelor of Medicine (BMed) à l'Université de Fribourg pour l'année académique 2023/24"
 language: fr
-version: 2022-03-08
-valid_until: 2023-03-06
-version_adopted: 2022-03-08
+version: 2023-03-07
+valid_until: 2024-03-04
+version_adopted: 2023-03-07
 adopted: 2026-03-17
 in_force: 2026-03-10
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/431.1.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7328/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7750/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant la capacité d'accueil et le test d'aptitudes pour le Bachelor of Medicine (BMed) à l'Université de Fribourg pour l'année académique 2022/23
+# Ordonnance concernant la capacité d'accueil et le test d'aptitudes pour le Bachelor of Medicine (BMed) à l'Université de Fribourg pour l'année académique 2023/24
 
 Université, Bachelor of Medicine (BMed) – O
 
-du 08.03.2022 (version entrée en vigueur le 08.03.2022)
+du 07.03.2023 (version entrée en vigueur le 07.03.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -26,11 +26,13 @@ Vu la loi du 19 novembre 1997 sur l'Université (LUni);
 
 Considérant:
 
-Le 24 février 2022, la Conférence suisse des hautes écoles, après avoir constaté que les capacités d'accueil étaient une nouvelle fois largement dépassées et que des transferts d'une université à l'autre ne parvenaient pas à résoudre les problèmes posés, a renouvelé sa recommandation aux cantons universitaires de Bâle-Ville, Bâle-Campagne, Berne, Fribourg, Tessin et Zurich ainsi qu'au Conseil des EPF de procéder au test d'aptitudes pour les études de médecine humaine et dentaire.
+Le 23 février 2023, la Conférence suisse des hautes écoles, après avoir constaté que les capacités d'accueil étaient une nouvelle fois largement dépassées et que des transferts d'une université à l'autre ne parvenaient pas à résoudre les problèmes posés, a renouvelé sa recommandation aux cantons universitaires de Bâle-Ville, Bâle-Campagne, Berne, Fribourg, du Tessin et de Zurich ainsi qu'au Conseil des EPF de procéder au test d'aptitudes pour les études de médecine humaine et dentaire.
 
-Procéder au test d'aptitudes à Fribourg assure aux étudiants et étudiantes la possibilité de poursuivre leurs études dans une autre université, étant donné qu'une grande partie d'entre eux continuent leurs études dans l'une des universités alémaniques qui ont introduit le test d'aptitudes.
+Procéder au test d'aptitudes à Fribourg assure aux candidats et candidates fribourgeois la possibilité, le cas échéant, d'entreprendre leurs études dans une université d'un autre canton. En effet, une grande partie des étudiants et étudiantes fribourgeois en médecine se forment dans l'une des universités alémaniques qui procèdent également au test d'aptitudes.
 
-Le Rectorat de l'Université de Fribourg, en sa séance du 31 janvier 2022, a préavisé favorablement le recours au test d'aptitudes dans ces conditions.
+En raison de la décision du 25 novembre 2021 de la Conférence suisse des hautes écoles d'augmenter la taxe de participation des candidats et candidates au test d'aptitudes de 200 à 300 francs dès 2023, l'article 6 al. 1 de la présente ordonnance pour l'année académique 2023/24 a été modifiée en conséquence.
+
+Le Rectorat de l'Université de Fribourg, en sa séance du 30 janvier 2023, a préavisé favorablement le recours au test d'aptitudes dans ces conditions.
 
 Sur la proposition de la Direction de la formation et des affaires culturelles,
 
@@ -46,7 +48,7 @@ Arrête:
 
 **Capacité d'accueil**
 
-<sup>1</sup> Pour l'année académique 2022/23, la capacité d'accueil pour la première année d'études de médecine humaine a été fixée à 125 places.
+<sup>1</sup> Pour l'année académique 2023/24, la capacité d'accueil pour la première année d'études de médecine humaine a été fixée à 125 places.
 
 #### Art. 3
 
@@ -70,15 +72,15 @@ Arrête:
 
 **Participation aux frais**
 
-<sup>1</sup> Les candidats et candidates doivent s'acquitter d'une participation de 200 francs aux frais liés au déroulement du test d'aptitudes.
+<sup>1</sup> Les candidats et candidates doivent s'acquitter d'une participation de 300 francs aux frais liés au déroulement du test d'aptitudes.
 
-<sup>2</sup> Toute personne n'ayant pas versé ce montant jusqu'au 24 mai 2022 au plus tard à swissuniversities n'est pas admise à passer le test d'aptitudes. Son inscription est considérée comme retirée.
+<sup>2</sup> Toute personne n'ayant pas versé ce montant jusqu'au 23 mai 2023 au plus tard à swissuniversities n'est pas admise à passer le test d'aptitudes. Son inscription est considérée comme retirée.
 
 #### Art. 7
 
 **Date du test d'aptitudes**
 
-<sup>1</sup> Conformément à la décision de la Conférence suisse des hautes écoles, le test d'aptitudes pour l'année académique 2022/23 est fixé au 8 juillet 2022.
+<sup>1</sup> Conformément à la décision de la Conférence suisse des hautes écoles, le test d'aptitudes pour l'année académique 2023/24 est fixé au 7 juillet 2023.
 
 #### Art. 8
 
@@ -156,4 +158,4 @@ Arrête:
 
 <sup>2</sup> Les décisions du Rectorat peuvent faire l'objet d'un recours auprès de la Commission de recours de l'Université de Fribourg.
 
-2022\_028
+2023\_031
