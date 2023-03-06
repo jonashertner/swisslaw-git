@@ -3,21 +3,20 @@ canton: VS
 number: "652.100"
 title: Reglement betreffend die Erhebung der Hundesteuer
 language: de
-version: 2012-01-01
-corrected: 2017-06-21
-version_adopted: 2011-12-21
+version: 2020-01-01
+corrected: 2023-03-07
+version_adopted: 2019-10-23
 adopted: 2011-12-21
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/652.100"
-pdf: "https://lex.vs.ch/api/de/versions/334/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2619/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement betreffend die Erhebung der Hundesteuer
 
-vom 21. Dezember 2011
+vom 21.12.2011 (Stand 01.01.2020)
 
 Der Staatsrat des Kantons Wallis
 
@@ -35,15 +34,15 @@ beschliesst:
 
 **Gegenstand**
 
-Das vorliegende Reglement hat die Regelung der Modalitäten der Erhebung der Hundesteuer zum Gegenstand. Es legt die vollständigen oder teilweisen Steuerbefreiungen fest.
+<sup>1</sup> Das vorliegende Reglement hat die Regelung der Modalitäten der Erhebung der Hundesteuer zum Gegenstand. Es legt die vollständigen oder teilweisen Steuerbefreiungen fest.
 
 #### Art. 2
 
 **Steuerpflicht**
 
-<sup>1</sup> Hundehalter im Sinne des vorliegenden Reglements ist diejenige Person, welche als Eigentümer in der eidgenössischen Datenbank ANIS eingeschrieben ist.
+<sup>1</sup> Hundehalter im Sinne des vorliegenden Reglements ist diejenige Person, welche als Eigentümer in der eidgenössischen Datenbank Amicus eingeschrieben ist.
 
-<sup>2</sup> Jeder Hundehalter, der seinen Wohnsitz im Wallis hat oder sich im Wallis mehr als drei Monate im Jahr aufhält, muss die Hundesteuer bis zum 31. März des laufenden Jahres oder nach Ablauf der Frist von 15Tagen gemäss Artikel 4 Absatz 3 des vorliegenden Reglements bezahlt haben.
+<sup>2</sup> Jeder Hundehalter, der seinen Wohnsitz im Wallis hat oder sich im Wallis mehr als drei Monate im Jahr aufhält, muss die Hundesteuer bis zum 31. März des laufenden Jahres oder nach Ablauf der Frist von 15 Tagen gemäss Artikel 4 Absatz 3 des vorliegenden Reglements bezahlt haben.
 
 #### Art. 3
 
@@ -59,22 +58,14 @@ Das vorliegende Reglement hat die Regelung der Modalitäten der Erhebung der Hun
 
 <sup>1</sup> Von der Hundesteuer gänzlich befreit sind:
 
-- a) die Diensthunde der Polizei, der Zollverwaltung, der Wildhüter und die brevetierten und verfügbaren Schweisshunde;
-
-- b) die Begleithunde von Blinden und Gehörlosen sowie die durch die Organisation «Le Copain» ausgebildeten Hilfshunde von motorisch Behinderten;
-
+- a) die Diensthunde der Polizei, der Zollverwaltung, der Wildhüter, Hilfswildhüter und die brevetierten und verfügbaren Schweisshunde;
+- b) die Begleithunde von Blinden und Gehörlosen sowie die Hilfshunde von Personen mit Behinderung, die durch die Organisation "Le Copain" oder eine andere vom kantonalen Veterinäramt anerkannte Stelle ausgebildet wurden;
 - c) die Rettungshunde, die durch die kantonale Walliser Rettungsorganisation (KWRO) anerkannt sind;
-
 - d) Hunde, die am 31. Dezember des betreffenden Jahres weniger als sechs Monate alt sind;
-
 - e) Hunde, deren Aufenthalt im Kanton Wallis weniger als drei Monate pro Jahr beträgt;
-
 - f) Hunde, die einer Person gehören, die Ergänzungsleistungen des Bundes oder kantonale Zusatzleistungen der AHV oder IV erhält; diese Steuerbefreiung wird nur für einen Hund gewährt;
-
-- g) Hunde, die am Präventionsprogramm im Sinne von Artikel 5 Absatz 5 des Gesetzes, welches das Tierschutzgesetz vollzieht, teilnehmen;
-
+- g) Hunde, die am Präventionsprogramm im Sinne von Artikel 40 des Gesetzes, welches das Tierschutzgesetz vollzieht, teilnehmen;
 - h) Therapiehunde; der Nachweis über eine angemessene Ausbildung und den regelmässigen Einsatz muss jährlich erbracht werden;
-
 - i) Herdenschutzhunde; der Nachweis über eine angemessene Ausbildung und den regelmässigen Einsatz muss jährlich erbracht werden.
 
 <sup>2</sup> Die unter den Buchstaben a, b, c, f, g, h und i bezeichneten Hunde müssen bei der Gemeindeverwaltung gemeldet werden, damit der Hund in der Liste der Hundehalter der Gemeinde registriert werden kann.
@@ -83,15 +74,7 @@ Das vorliegende Reglement hat die Regelung der Modalitäten der Erhebung der Hun
 
 #### Art. 5
 
-**Teilweise Steuerbefreiung**
-
-<sup>1</sup> Jeder Hundehalter, der bei einem Hundeverein, welcher der Schweizerischen Kynologischen Gesellschaft angegliedert ist, oder bei einem gleichwertigen Hundeverein einen Sensibilisierungskurs absolviert, kommt in den Genuss einer teilweisen Steuerbefreiung.
-
-<sup>2</sup> Der Teilerlass beträgt 20 Franken.
-
-<sup>3</sup> Um in den Genuss des Teilerlasses zu gelangen, muss der Hundehalter dem Erhebungsorgan eine Bestätigung des Verantwortlichen des Sensibilisierungskurses vorweisen. Er muss pro Jahr im Minimum zehn Lektionen von mindestens einer Stunde besucht haben.
-
-<sup>4</sup> Die Gültigkeit der Bestätigung ist jeweils auf ein Jahr beschränkt.
+**…**
 
 #### Art. 6
 
@@ -115,23 +98,17 @@ Das vorliegende Reglement hat die Regelung der Modalitäten der Erhebung der Hun
 
 **Aufgaben der kommunalen Bezugsbehörde**
 
-<sup>1</sup> Die Gemeindeverwaltungen erstellen eine Liste der Hundehalter und halten diese laufend aktuell.
+<sup>1</sup> Die Gemeindeverwaltungen erstellen eine Liste der Hundehalter und halten diese laufend aktuell. Dazu nutzen sie die Datenbank Amicus.
 
 <sup>2</sup> Bei Bezahlung der Steuer hat die zuständige Gemeindebehörde nachfolgende Pflichten:
 
 - a) Einfordern des Identitätsdokumentes des Hundes;
-
 - b) Kontrolle, dass der Hund zumindest über den elektronischen Chip identifizierbar ist;
-
 - c) im Zweifelsfall Kontrolle durch Lesung des Chips oder Einverlangen einer Bestätigung kürzeren Datums des Veterinärdienstes, welche die Lesung des Chips, die Nummer des elektronischen Chips sowie die Beschreibung des Hundes bestätigt;
-
-- d) Kontrolle der Genauigkeit der Angaben in der Datenbank ANIS, dem Hundehalter obliegt die Pflicht, die Angaben aktuell zu halten;
-
+- d) Kontrolle der Genauigkeit der Angaben in der Datenbank Amicus, dem Hundehalter obliegt die Pflicht, die Angaben aktuell zu halten;
 - e) vom Hundehalter eine Bestätigung der Versicherung einverlangen, welche belegt, dass die durch den Hund verursachten Schäden durch die Versicherung gedeckt sind;
-
 - f) vom Hundehalter einer im Kanton Wallis nicht zugelassenen Rasse oder deren Kreuzungen die vom kantonalen Veterinäramt ausgestellte Ausnahmebewilligung einverlangen;
-
-- g) von sämtlichen Hundehaltern von Hunden, die nach dem 1. September 2008 erworben wurden, eine Bestätigung einverlangen, welche belegt, dass der betreffende Hundehalter mit diesem Hund einen praktischen Kurs besucht hat. Handelt es sich um seinen ersten Hund, hat der Hundehalter zudem einen Beleg abzugeben, welcher bestätigt, dass er auch den theoretischen Kurs besucht hat.
+- g) von sämtlichen Ersthundehaltern von Hunden, die nach dem 1. Januar 2020 erworben wurden, eine Bestätigung dafür einverlangen, dass sie bei einem zugelassenen Ausbilder einen Kurs gemäss AGTSchG besucht haben.
 
 <sup>3</sup> Die Gemeindeverwaltungen übermitteln dem Veterinäramt per 31. März eine Liste mit den Namen sämtlicher Hundehalter die die Voraussetzungen gemäss vorstehendem Absatz 2 nicht erfüllen. Die Liste enthält mit Bezug auf jeden Hundehalter die Angaben der reglementarischen Vorschrift, die nicht erfüllt wird.
 
@@ -151,7 +128,7 @@ Das vorliegende Reglement hat die Regelung der Modalitäten der Erhebung der Hun
 
 **Aufsichtsbehörde**
 
-Die für das Polizeiwesen zuständige Gemeindebehörde beaufsichtigt den Vollzug des vorliegenden Reglements.
+<sup>1</sup> Die für das Polizeiwesen zuständige Gemeindebehörde beaufsichtigt den Vollzug des vorliegenden Reglements.
 
 #### Art. 11
 
@@ -159,10 +136,6 @@ Die für das Polizeiwesen zuständige Gemeindebehörde beaufsichtigt den Vollzug
 
 <sup>1</sup> Das Reglement betreffend die Erhebung der Hundesteuer vom 17. November 2004 wird aufgehoben.
 
-<sup>2</sup> Das vorliegende Reglement wird im kantonalen Amtsblatt publiziert und tritt zur selben Zeit wie die Änderung des Steuergesetzes vom 15. September 2011 in Kraft.[^11-1]
+<sup>2</sup> Das vorliegende Reglement wird im kantonalen Amtsblatt publiziert und tritt zur selben Zeit wie die Änderung des Steuergesetzes vom 15. September 2011 in Kraft.
 
-So angenommen im Staatsrat zu Sitten, den 21. Dezember 2011.
-
-Der Präsident des Staatsrates: Jacques Melly Der Staatskanzler: Philipp Spörri
-
-[^11-1]: Inkrafttreten am 1. Januar 2012
+CSW BO/Abl. 52/2011, 38/2011

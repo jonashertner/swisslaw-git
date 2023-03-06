@@ -1,29 +1,28 @@
 ---
 canton: VS
 number: "652.100"
-title: Règlement concernant la perception de l’impôt sur les chiens
+title: "Règlement concernant la perception de l'impôt sur les chiens"
 language: fr
-version: 2012-01-01
-corrected: 2017-06-21
-version_adopted: 2011-12-21
+version: 2020-01-01
+corrected: 2023-03-07
+version_adopted: 2019-10-23
 adopted: 2011-12-21
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/652.100"
-pdf: "https://lex.vs.ch/api/fr/versions/334/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2619/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement concernant la perception de l'impôt sur les chiens
 
-du 21 décembre 2011
+du 21.12.2011 (état 01.01.2020)
 
 Le Conseil d'Etat du canton du Valais
 
 vu les articles 182 alinéas 1 et 2 et 218 alinéa 5 de la loi fiscale du 10 mars 1976;
 
-vu la loi fédérale sur les épizooties du 1er juillet 1966;
+vu la loi fédérale sur les épizooties du 1<sup>er</sup> juillet 1966;
 
 vu la loi d’application de la loi fédérale sur la protection des animaux du 14 novembre 1984;
 
@@ -35,13 +34,13 @@ arrête:
 
 **Objet**
 
-Le présent règlement a pour objet de régler les modalités de la perception de l'impôt sur les chiens. Il fixe les exonérations totales ou partielles.
+<sup>1</sup> Le présent règlement a pour objet de régler les modalités de la perception de l'impôt sur les chiens. Il fixe les exonérations totales ou partielles.
 
 #### Art. 2
 
 **Assujettissement**
 
-<sup>1</sup> Est considérée comme détenteur du chien, la personne inscrite en tant que tel dans le fichier fédéral ANIS.
+<sup>1</sup> Est considérée comme détenteur du chien la personne inscrite en tant que tel dans le fichier fédéral Amicus.
 
 <sup>2</sup> Tout détenteur de chien qui a son domicile en Valais ou y réside plus de trois mois par année doit s’acquitter de l’impôt sur les chiens pour le 31 mars de l’année en cours ou à l’expiration du délai de 15 jours prévu à l’article 4 alinéa 3 du présent règlement.
 
@@ -59,23 +58,15 @@ Le présent règlement a pour objet de régler les modalités de la perception d
 
 <sup>1</sup> Sont totalement exonérés de l'impôt les détenteurs:
 
-- a) de chiens de service de la police, des douanes, des gardes-chasse et les chiens de rouge brevetés et disponibles;
-
-- b) de chiens d'aveugles, de sourds et les chiens d'assistance pour personnes handicapées sur le plan moteur, formés par l'association «Le Copain»;
-
+- a) de chiens de service de la police, des douanes, des gardes-chasse, gardes-chasse auxiliaires et les chiens de rouge brevetés et disponibles;
+- b) de chiens d'aveugles, de sourds et les chiens d'assistance pour personnes en situation de handicap, formés par l'association "Le Copain", ou une autre entité reconnue par l’Office vétérinaire Cantonal;
 - c) de chiens d'intervention reconnus par l'organisation cantonale valaisanne de secours (OCVS);
-
-- d) de chiens âgés de moins de six mois au 31 décembre de l’année concernée;
-
+- d) de chiens âgés de moins de six mois au 31 décembre de l'année concernée;
 - e) de chiens dont la durée du séjour dans le canton ne dépasse pas trois mois par année;
-
-- f) de chiens appartenant à une personne au bénéfice de prestations complémentaires fédérales ou d'allocations complémentaires cantonales de l'AVS et de l'AI; cette exonération n’est accordée que pour un seul chien;
-
-- g) de chiens participant au programme de prévention au sens de l'article 5 alinéa 5 de la loi d'application de la loi fédérale sur la protection des animaux;
-
+- f) de chiens appartenant à une personne au bénéfice de prestations complémentaires fédérales ou d'allocations complémentaires cantonales de l'AVS et de l'AI; cette exonération n'est accordée que pour un seul chien;
+- g) de chiens participant au programme de prévention au sens de l'article 40 de la loi d'application de la loi fédérale sur la protection des animaux;
 - h) de chiens de thérapie; les attestations d'une formation adéquate et d'un service régulier doivent être déposées chaque année;
-
-- i) de chiens de protection de troupeaux ; les attestations d'une formation adéquate et d'un service régulier doivent être déposées chaque année.
+- i) de chiens de protection de troupeaux; les attestations d'une formation adéquate et d'un service régulier doivent être déposées chaque année.
 
 <sup>2</sup> Les chiens désignés sous lettres a, b, c, f, g, h et i doivent être annoncés au greffe communal pour l’enregistrement du chien dans la liste communale des détenteurs de chiens.
 
@@ -83,15 +74,7 @@ Le présent règlement a pour objet de régler les modalités de la perception d
 
 #### Art. 5
 
-**Exonération partielle de l'impôt**
-
-<sup>1</sup> Tout détenteur de chien qui suit un cours d’éducation auprès d'un club affilié à la société cynologique suisse ou d’une société poursuivant des buts analogues, bénéficie d'une exonération partielle de l'impôt.
-
-<sup>2</sup> Le montant de l'exonération partielle s'élève à 20 francs.
-
-<sup>3</sup> Pour bénéficier de l'exonération partielle, le détenteur de chien doit présenter à l'autorité de perception l'attestation délivrée par le responsable du cours d’éducation. Il doit avoir fréquenté au moins dix séances par année d’une durée minimale d’une heure.
-
-<sup>4</sup> La durée de validité de l'attestation est d'une année.
+**…**
 
 #### Art. 6
 
@@ -115,23 +98,17 @@ Le présent règlement a pour objet de régler les modalités de la perception d
 
 **Tâches des autorités communales de perception**
 
-<sup>1</sup> Les administrations communales établissent et tiennent à jour la liste des détenteurs de chiens.
+<sup>1</sup> Les administrations communales établissent et tiennent à jour la liste des détenteurs de chiens. Elles utilisent à cet effet la banque de données Amicus.
 
 <sup>2</sup> Lors du paiement de l’impôt, l’autorité communale compétente a les obligations ci-après:
 
-- a) exiger la pièce d’identité du chien;
-
+- a) exiger la pièce d'identité du chien;
 - b) contrôler que le chien soit identifié au moyen d'une puce électronique;
-
 - c) en cas de doute procéder au contrôle par la lecture de la puce ou exiger une attestation vétérinaire récente attestant la lecture, le numéro de la puce électronique ainsi que la description du chien;
-
-- d) contrôler l’exactitude des indications contenues dans la banque de données ANIS, le détenteur du chien ayant l'obligation de tenir ces données à jour;
-
-- e) exiger du détenteur du chien le dépôt d’une attestation d'assurance responsabilité civile couvrant les dommages causés par le chien;
-
-- f) exiger du détenteur de chien appartenant à une des races et leurs croisements, dont la détention en Valais est interdite, le dépôt de l’autorisation exceptionnelle délivrée par le vétérinaire cantonal;
-
-- g) exiger que tout détenteur de chien acquis après le 1er septembre 2008 présente une attestation de compétence confirmant qu'il a suivi un cours pratique avec ce chien. S’il s’agit de son premier chien, il doit également présenter une attestation de compétence confirmant qu’il a suivi un cours théorique.
+- d) contrôler l'exactitude des indications contenues dans la banque de données Amicus, le détenteur du chien ayant l'obligation de tenir ces données à jour;
+- e) exiger du détenteur du chien le dépôt d'une attestation d'assurance responsabilité civile couvrant les dommages causés par le chien;
+- f) exiger du détenteur de chien appartenant à une des races et leurs croisements, dont la détention en Valais est interdite, le dépôt de l'autorisation exceptionnelle délivrée par le vétérinaire cantonal;
+- g) exiger que tout détenteur d’un premier chien acquis après le 1<sup>er</sup> janvier 2020 présente une attestation de suivi de cours auprès d’un moniteur reconnu conformément à la LALPA.
 
 <sup>3</sup> Les administrations communales communiquent à l’Office vétérinaire pour le 31 mars la liste de tous les détenteurs qui n’ont pas accompli les obligations prévues à l’alinéa 2. Cette liste mentionne, pour chaque détenteur, les prescriptions réglementaires qui n’ont pas été respectées.
 
@@ -151,7 +128,7 @@ Le présent règlement a pour objet de régler les modalités de la perception d
 
 **Autorité de surveillance**
 
-L'autorité communale compétente en matière de police est chargée de veiller à l'exécution du présent règlement.
+<sup>1</sup> L'autorité communale compétente en matière de police est chargée de veiller à l'exécution du présent règlement.
 
 #### Art. 11
 
@@ -159,10 +136,6 @@ L'autorité communale compétente en matière de police est chargée de veiller 
 
 <sup>1</sup> Le règlement concernant la perception de l’impôt sur les chiens du 17 novembre 2004 est abrogé.
 
-<sup>2</sup> Le présent règlement sera publié au Bulletin officiel et entrera en vigueur en même temps que la modification de la loi fiscale du 15 septembre 2011.[^11-1]
+<sup>2</sup> Le présent règlement sera publié au Bulletin officiel et entrera en vigueur en même temps que la modification de la loi fiscale du 15 septembre 2011.
 
-Ainsi adopté en Conseil d'Etat à Sion, le 21 décembre 2011.
-
-Le président du Conseil d’Etat: Jacques Melly Le chancelier d’Etat: Philipp Spörri
-
-[^11-1]: Entrée en vigueur le 1er janvier 2012
+RCV BO/Abl. 52/2011, 38/2011
