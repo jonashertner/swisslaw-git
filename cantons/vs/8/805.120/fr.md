@@ -4,12 +4,12 @@ number: "805.120"
 title: Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les structures de soins de jour ou de nuit
 language: fr
 version: 2023-01-01
-valid_until: 2023-12-31
+corrected: 2023-03-07
 version_adopted: 2023-03-01
 adopted: 2026-01-21
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/805.120"
-pdf: "https://lex.vs.ch/api/fr/versions/3187/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3145/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -51,16 +51,16 @@ arrête:
 
 - a) jusqu’à 20 minutes de soins requis: — Fr. 16.00
 - b) de 21 à 40 minutes de soins requis: — Fr. 31.00
-- c) de 41 à 60 minutes de soins requis: — Fr. 49.50
-- d) de 61 à 80 minutes de soins requis: — Fr. 68.50
-- e) de 81 à 100 minutes de soins requis: — Fr. 90.00
-- f) de 101 à 120 minutes de soins requis: — Fr. 106.50
-- g) de 121 à 140 minutes de soins requis: — Fr. 126.50
-- h) de 141 à 160 minutes de soins requis: — Fr. 146.00
-- i) de 161 à 180 minutes de soins requis: — Fr. 167.50
-- j) de 181 à 200 minutes de soins requis: — Fr. 187.50
-- k) de 201 à 220 minutes de soins requis: — Fr. 205.50
-- l) plus de 220 minutes de soins requis: — Fr. 239.00
+- c) de 41 à 60 minutes de soins requis: — Fr. 49.00
+- d) de 61 à 80 minutes de soins requis: — Fr. 68.00
+- e) de 81 à 100 minutes de soins requis: — Fr. 89.50
+- f) de 101 à 120 minutes de soins requis: — Fr. 106.00
+- g) de 121 à 140 minutes de soins requis: — Fr. 125.50
+- h) de 141 à 160 minutes de soins requis: — Fr. 145.00
+- i) de 161 à 180 minutes de soins requis: — Fr. 166.00
+- j) de 181 à 200 minutes de soins requis: — Fr. 186.00
+- k) de 201 à 220 minutes de soins requis: — Fr. 204.00
+- l) plus de 220 minutes de soins requis: — Fr. 237.00
 
 #### Art. 3
 
@@ -70,16 +70,16 @@ arrête:
 
 - a) jusqu’à 20 minutes de soins requis: — Fr. 6.40
 - b) de 21 à 40 minutes de soins requis: — Fr. 11.80
-- c) de 41 à 60 minutes de soins requis: — Fr. 20.70
-- d) de 61 à 80 minutes de soins requis: — Fr. 30.10
-- e) de 81 à 100 minutes de soins requis: — Fr. 42.00
-- f) de 101 à 120 minutes de soins requis: — Fr. 48.90
-- g) de 121 à 140 minutes de soins requis: — Fr. 59.30
-- h) de 141 à 160 minutes de soins requis: — Fr. 69.20
-- i) de 161 à 180 minutes de soins requis: — Fr. 81.10
-- j) de 181 à 200 minutes de soins requis: — Fr. 91.50
-- k) de 201 à 220 minutes de soins requis: — Fr. 99.90
-- l) plus de 220 minutes de soins requis: — Fr. 123.80
+- c) de 41 à 60 minutes de soins requis: — Fr. 20.20
+- d) de 61 à 80 minutes de soins requis: — Fr. 29.60
+- e) de 81 à 100 minutes de soins requis: — Fr. 41.50
+- f) de 101 à 120 minutes de soins requis: — Fr. 48.40
+- g) de 121 à 140 minutes de soins requis: — Fr. 58.30
+- h) de 141 à 160 minutes de soins requis: — Fr. 68.20
+- i) de 161 à 180 minutes de soins requis: — Fr. 79.60
+- j) de 181 à 200 minutes de soins requis: — Fr. 90.00
+- k) de 201 à 220 minutes de soins requis: — Fr. 98.40
+- l) plus de 220 minutes de soins requis: — Fr. 121.80
 
 #### Art. 4
 
