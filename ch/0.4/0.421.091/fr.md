@@ -3,11 +3,11 @@ sr: "0.421.091"
 title: Accord du 10 mai 1973 instituant le Laboratoire européen de biologie moléculaire (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/1332_1332_1332"
 language: fr
-version: 2020-06-30
+version: 2023-03-08
 adopted: 1973-05-10
 in_force: 1974-07-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1332_1332_1332/20200630/fr/xml/fedlex-data-admin-ch-eli-cc-1974-1332_1332_1332-20200630-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/1332_1332_1332/20200630/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1332_1332_1332/20230308/fr/xml/fedlex-data-admin-ch-eli-cc-1974-1332_1332_1332-20230308-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/1332_1332_1332/20230308/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,25 +26,25 @@ Instrument de ratification déposé par la Suisse le 14 décembre 1973
 
 Entré en vigueur pour la Suisse le 4 juillet 1974
 
-(Etat le 30 juin 2020)
+(État le 8 mars 2023)
 
 [^t-1]: [RO 1974 1331](https://fedlex.data.admin.ch/eli/oc/1974/1331_1331_1331)
 
 La République fédérale d’Allemagne, la République d’Autriche, le Royaume de Danemark, la République française, l’État d’Israël, la République italienne, le Royaume des Pays‑Bas, le Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord, le Royaume de Suède, la Confédération suisse,
 
-parties à l’Accord instituant la Conférence européenne de biologie moléculaire (ci‑ après dénommée «la CEBM») signé à Genève le 13 février 1969[^ingress-1];
+parties à l’Accord instituant la Conférence européenne de biologie moléculaire (ci‑ après dénommée «la CEBM») signé à Genève le 13 février 1969[^ingress-1],
 
-considérant que la coopération internationale existant dans le domaine de la biologie moléculaire devrait être étendue par l’institution d’un Laboratoire européen de biologie moléculaire, et prenant acte des propositions soumises à cette fin par l’Organisation européenne de biologie moléculaire (ci‑après dénommée «l’OEBM»);
+considérant que la coopération internationale existant dans le domaine de la biologie moléculaire devrait être étendue par l’institution d’un Laboratoire européen de biologie moléculaire, et prenant acte des propositions soumises à cette fin par l’Organisation européenne de biologie moléculaire (ci‑après dénommée «l’OEBM»),
 
-vu la décision en date du 28 juin 1972 par laquelle la CEBM a approuvé le projet d’un tel Laboratoire conformément au paragraphe 3 de l’Article Il dudit Accord, en vertu duquel des Projets Spéciaux peuvent être établis;
+vu la décision en date du 28 juin 1972 par laquelle la CEBM a approuvé le projet d’un tel Laboratoire conformément au paragraphe 3 de l’Article Il dudit Accord, en vertu duquel des Projets Spéciaux peuvent être établis,
 
-désireux de préciser les clauses et conditions selon lesquelles le Laboratoire est institué et exploité, de telle sorte que lesdites clauses et conditions ne soient pas affectées par une modification quelconque à l’Accord instituant la CEBM;
+désireux de préciser les clauses et conditions selon lesquelles le Laboratoire est institué et exploité, de telle sorte que lesdites clauses et conditions ne soient pas affectées par une modification quelconque à l’Accord instituant la CEBM,
 
-prenant *acte* de l’acceptation par la CEBM des dispositions du présent Accord qui la concernent;
+prenant *acte* de l’acceptation par la CEBM des dispositions du présent Accord qui la concernent,
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.421.09](https://fedlex.data.admin.ch/eli/cc/1970/562_563_563)
+[^ingress-1]: [RS 0.421.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1712)
 
 #### Art. I
 
@@ -217,7 +217,7 @@ Le Laboratoire est financé par:
 
 <sup>(1)</sup> Chaque État membre contribue annuellement aux dépenses en capital et aux dépenses courantes de fonctionnement du Laboratoire par le versement d’une somme globale en devises convertibles, selon un barème fixé tous les trois ans par le Conseil à la majorité des deux tiers de tous les États membres, et fondé sur la moyenne du revenu national net au coût des facteurs de chaque État membre pendant les trois dernières années civiles pour lesquelles on dispose de statistiques.
 
-<sup>(2)</sup> Le Conseil peut décider à la majorité des deux tiers de tous les États membres de tenir compte de toutes circonstances spéciales à un État membre et de modifier sa contribution en conséquence. Pour l’application de la présente disposition, on considère notamment qu’il y a «circonstances spéciales » lorsque le revenu national par habitant d’un État membre est inférieur à un montant qui sera déterminé par le Conseil à la majorité des deux tiers, ou est tel qu’un État membre est tenu de contribuer pour plus de trente pour cent du montant total des contributions établies par le Conseil conformément au barème mentionné au par. (1) du présent Article.
+<sup>(2)</sup> Le Conseil peut décider à la majorité des deux tiers de tous les États membres de tenir compte de toutes circonstances spéciales à un État membre et de modifier sa contribution en conséquence. Pour l’application de la présente disposition, on considère notamment qu’il y a «circonstances spéciales» lorsque le revenu national par habitant d’un État membre est inférieur à un montant qui sera déterminé par le Conseil à la majorité des deux tiers, ou est tel qu’un État membre est tenu de contribuer pour plus de trente pour cent du montant total des contributions établies par le Conseil conformément au barème mentionné au par. (1) du présent Article.
 
 - (3) a) Les États, qui deviennent parties au présent Accord postérieurement au 31 décembre de l’année de son entrée en vigueur, acquittent outre leur contribution aux dépenses futures en capital et aux dépenses courantes de fonctionnement, une contribution spéciale aux dépenses en capital précédemment encourues par le Laboratoire. Le montant de cette contribution spéciale est fixé par le Conseil à la majorité des deux tiers de tous les États membres.
 - b) Toute contribution versée conformément aux dispositions de l’al. a) du présent paragraphe vient en déduction des contributions des autres États membres, sauf décision contraire du Conseil à la majorité des deux tiers de tous les États membres.
@@ -269,7 +269,7 @@ Le Laboratoire est dissous si à une époque quelconque il y a moins de trois É
 <sup>(2)</sup> Le présent Accord est soumis à ratification, acceptation ou approbation. Les instruments appropriés sont déposés auprès du Gouvernement suisse.
 
 - (3) a) Tout État membre de la CEBM non signataire du présent Accord peut y adhérer à tout moment ultérieur.
-- b) La cessation de l’Accord instituant la CEBM n’empêche pas d’adhérer au présent Accord un État, autrefois partie à l'Accord instituant la CEBM ou à l’égard duquel a été prise, selon le par. (2) de l’Art. III de celui‑ci, une décision lui permettant d’y adhérer.
+- b) La cessation de l’Accord instituant la CEBM n’empêche pas d’adhérer au présent Accord un État, autrefois partie à l’Accord instituant la CEBM ou à l’égard duquel a été prise, selon le par. (2) de l’Art. III de celui‑ci, une décision lui permettant d’y adhérer.
 - c) Les instruments d’adhésion sont déposés auprès du Gouvernement suisse.
 - (4) a) Le présent Accord entrera en vigueur lorsqu’il aura été ratifié, accepté ou approuvé par la majorité des États énumérés au Préambule du présent Accord, y compris l’État sur le territoire duquel est situé le siège du Laboratoire, et sous réserve que l’ensemble des contributions desdits États représente au moins soixante‑dix pour cent du total des contributions figurant au barème annexé au présent Accord.
 - b) Après son entrée en vigueur selon le par. (4) a) du présent Article, le présent Accord entrera en vigueur, pour tout État signataire qui le ratifie, l’accepte ou l’approuve subséquemment, à la date du dépôt de son instrument de ratification, d’acceptation ou d’approbation.
@@ -302,7 +302,7 @@ Le Gouvernement suisse notifie aux États signataires et adhérents:
 
 <sup>(2)</sup> Lors de l’entrée en vigueur du présent Accord, le Gouvernement suisse le fait enregistrer auprès du Secrétariat des Nations Unies conformément à l’art. 102 de la Charte des Nations Unies[^XVII-1].
 
-[^XVII-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^XVII-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. XVIII
 
@@ -337,38 +337,39 @@ Le barème mentionné ici l’est exclusivement aux fins du par. (4) a) de l’A
 <tr><td></td><td></td><td>100,000</td></tr>
 </table>
 
-Champ d’application le 30 juin 2020**[^t-2]**
+Champ d’application le 8 mars 2023[^t-2]
 
 <table>
-<tr><th colspan="2">États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Allemagne</td><td>10 octobre</td><td>1973</td><td>4 juillet</td><td>1974</td></tr>
-<tr><td colspan="2">Autriche</td><td>26 septembre</td><td>1975</td><td>26 septembre</td><td>1975</td></tr>
-<tr><td colspan="2">Belgique</td><td>12 octobre</td><td>2010 A</td><td>12 octobre</td><td>2010</td></tr>
-<tr><td colspan="2">Croatie</td><td>29 août</td><td>2006 A</td><td>29 août</td><td>2006</td></tr>
-<tr><td colspan="2">Danemark</td><td>12 novembre</td><td>1973</td><td>4 juillet</td><td>1974</td></tr>
-<tr><td colspan="2">Espagne</td><td>24 novembre</td><td>1987 A</td><td>24 novembre</td><td>1987</td></tr>
-<tr><td colspan="2">Finlande</td><td>19 juin</td><td>1985 A</td><td>19 juin</td><td>1985</td></tr>
-<tr><td colspan="2">France</td><td>4 juillet</td><td>1974</td><td>4 juillet</td><td>1974</td></tr>
-<tr><td colspan="2">Grèce</td><td>13 mai</td><td>1985 A</td><td>13 mai</td><td>1985</td></tr>
-<tr><td colspan="2">Hongrie</td><td>13 avril</td><td>2017 A</td><td>13 avril</td><td>2017</td></tr>
-<tr><td colspan="2">Irlande</td><td>21 novembre</td><td>2003 A</td><td>21 novembre</td><td>2003</td></tr>
-<tr><td colspan="2">Islande</td><td>26 février</td><td>2007 A</td><td>26 février</td><td>2007</td></tr>
-<tr><td colspan="2">Israël</td><td>17 avril</td><td>1974</td><td>4 juillet</td><td>1974</td></tr>
-<tr><td colspan="2">Italie</td><td>28 juin</td><td>1976</td><td>28 juin</td><td>1976</td></tr>
-<tr><td colspan="2">Lituanie</td><td>3 juin</td><td>2019 A</td><td>3 juin</td><td>2019</td></tr>
-<tr><td colspan="2">Luxembourg</td><td>25 octobre</td><td>2007 A</td><td>25 octobre</td><td>2007</td></tr>
-<tr><td colspan="2">Malte</td><td>15 mars</td><td>2016 A</td><td>15 mars</td><td>2016</td></tr>
-<tr><td colspan="2">Monténégro</td><td>18 mai</td><td>2018 A</td><td>18 mai</td><td>2018</td></tr>
-<tr><td colspan="2">Norvège</td><td>8 octobre</td><td>1986 A</td><td>8 octobre</td><td>1986</td></tr>
-<tr><td colspan="2">Pays-Bas\*</td><td>13 mars</td><td>1974</td><td>4 juillet</td><td>1974</td></tr>
-<tr><td colspan="2">Pologne</td><td>28 janvier</td><td>2019 A</td><td>28 janvier</td><td>2019</td></tr>
-<tr><td colspan="2">Portugal</td><td>11 février</td><td>1999</td><td>11 février</td><td>1999</td></tr>
-<tr><td colspan="2">République tchèque</td><td>26 mai</td><td>2014 A</td><td>26 mai</td><td>2014</td></tr>
-<tr><td colspan="2">Royaume-Uni</td><td>11 décembre</td><td>1973</td><td>4 juillet</td><td>1974</td></tr>
-<tr><td colspan="2">Slovaquie</td><td>9 janvier</td><td>2018 A</td><td>9 janvier</td><td>2018</td></tr>
-<tr><td colspan="2">Suède</td><td>15 février</td><td>1974</td><td>4 juillet</td><td>1974</td></tr>
-<tr><td colspan="2">Suisse</td><td>14 décembre</td><td>1973</td><td>4 juillet</td><td>1974</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Celles-ci peuvent être consultées à l’adresse www.dfae.admin.ch &gt; Politique extérieure &gt; Droit international public &gt; Traités internationaux &gt; Dépositaire &gt; Autres conventions, ou obtenues auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Allemagne</td><td>10 octobre</td><td>1973</td><td>4 juillet</td><td>1974</td></tr>
+<tr><td>Autriche</td><td>26 septembre</td><td>1975</td><td>26 septembre</td><td>1975</td></tr>
+<tr><td>Belgique</td><td>12 octobre</td><td>2010 A</td><td>12 octobre</td><td>2010</td></tr>
+<tr><td>Croatie</td><td>29 août</td><td>2006 A</td><td>29 août</td><td>2006</td></tr>
+<tr><td>Danemark</td><td>12 novembre</td><td>1973</td><td>4 juillet</td><td>1974</td></tr>
+<tr><td>Espagne</td><td>24 novembre</td><td>1987 A</td><td>24 novembre</td><td>1987</td></tr>
+<tr><td>Estonie</td><td>7 février</td><td>2023 A</td><td>7 février</td><td>2023</td></tr>
+<tr><td>Finlande</td><td>19 juin</td><td>1985 A</td><td>19 juin</td><td>1985</td></tr>
+<tr><td>France</td><td>4 juillet</td><td>1974</td><td>4 juillet</td><td>1974</td></tr>
+<tr><td>Grèce</td><td>13 mai</td><td>1985 A</td><td>13 mai</td><td>1985</td></tr>
+<tr><td>Hongrie</td><td>13 avril</td><td>2017 A</td><td>13 avril</td><td>2017</td></tr>
+<tr><td>Irlande</td><td>21 novembre</td><td>2003 A</td><td>21 novembre</td><td>2003</td></tr>
+<tr><td>Islande</td><td>26 février</td><td>2007 A</td><td>26 février</td><td>2007</td></tr>
+<tr><td>Israël</td><td>17 avril</td><td>1974</td><td>4 juillet</td><td>1974</td></tr>
+<tr><td>Italie</td><td>28 juin</td><td>1976</td><td>28 juin</td><td>1976</td></tr>
+<tr><td>Lituanie</td><td>3 juin</td><td>2019 A</td><td>3 juin</td><td>2019</td></tr>
+<tr><td>Luxembourg</td><td>25 octobre</td><td>2007 A</td><td>25 octobre</td><td>2007</td></tr>
+<tr><td>Malte</td><td>15 mars</td><td>2016 A</td><td>15 mars</td><td>2016</td></tr>
+<tr><td>Monténégro</td><td>18 mai</td><td>2018 A</td><td>18 mai</td><td>2018</td></tr>
+<tr><td>Norvège</td><td>8 octobre</td><td>1986 A</td><td>8 octobre</td><td>1986</td></tr>
+<tr><td>Pays-Bas\*</td><td>13 mars</td><td>1974</td><td>4 juillet</td><td>1974</td></tr>
+<tr><td>Pologne</td><td>28 janvier</td><td>2019 A</td><td>28 janvier</td><td>2019</td></tr>
+<tr><td>Portugal</td><td>11 février</td><td>1999</td><td>11 février</td><td>1999</td></tr>
+<tr><td>République tchèque</td><td>26 mai</td><td>2014 A</td><td>26 mai</td><td>2014</td></tr>
+<tr><td>Royaume-Uni</td><td>11 décembre</td><td>1973</td><td>4 juillet</td><td>1974</td></tr>
+<tr><td>Slovaquie</td><td>9 janvier</td><td>2018 A</td><td>9 janvier</td><td>2018</td></tr>
+<tr><td>Suède</td><td>15 février</td><td>1974</td><td>4 juillet</td><td>1974</td></tr>
+<tr><td>Suisse</td><td>14 décembre</td><td>1973</td><td>4 juillet</td><td>1974</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Celles-ci peuvent être consultées à l’adresse: [www.dfae.admin.ch](http://www.dfae.admin.ch) &gt; Politique extérieure &gt; Droit international public &gt; Traités internationaux &gt; Dépositaire &gt; Autres conventions, ou obtenues auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1974 1332](https://fedlex.data.admin.ch/eli/oc/1974/1332_1332_1332), [1978 1490](https://fedlex.data.admin.ch/eli/oc/1978/1490_1490_1490), [1985 1339](https://fedlex.data.admin.ch/eli/oc/1985/1339_1339_1339), [1987 801](https://fedlex.data.admin.ch/eli/oc/1987/801_801_801), [1989 131](https://fedlex.data.admin.ch/eli/oc/1989/131_131_131), [2004 4139](https://fedlex.data.admin.ch/eli/oc/2004/613), [2009 3873](https://fedlex.data.admin.ch/eli/oc/2009/484), [2014 3203](https://fedlex.data.admin.ch/eli/oc/2014/547), [2019 1037](https://fedlex.data.admin.ch/eli/oc/2019/189), [2020 3333](https://fedlex.data.admin.ch/eli/oc/2020/565). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1974 1332](https://fedlex.data.admin.ch/eli/oc/1974/1332_1332_1332); [1978 1490](https://fedlex.data.admin.ch/eli/oc/1978/1490_1490_1490); [1985 1339](https://fedlex.data.admin.ch/eli/oc/1985/1339_1339_1339); [1987 801](https://fedlex.data.admin.ch/eli/oc/1987/801_801_801); [1989 131](https://fedlex.data.admin.ch/eli/oc/1989/131_131_131); [2004 4139](https://fedlex.data.admin.ch/eli/oc/2004/613); [2009 3873](https://fedlex.data.admin.ch/eli/oc/2009/484); [2014 3203](https://fedlex.data.admin.ch/eli/oc/2014/547); [2019 1037](https://fedlex.data.admin.ch/eli/oc/2019/189); [2020 3333](https://fedlex.data.admin.ch/eli/oc/2020/565); [2023 119](https://fedlex.data.admin.ch/eli/oc/2023/119). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

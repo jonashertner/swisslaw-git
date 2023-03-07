@@ -3,11 +3,11 @@ sr: "0.421.091"
 title: Übereinkommen vom 10. Mai 1973 zur Errichtung eines Europäischen Laboratoriums für Molekularbiologie (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/1332_1332_1332"
 language: de
-version: 2020-06-30
+version: 2023-03-08
 adopted: 1973-05-10
 in_force: 1974-07-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1332_1332_1332/20200630/de/xml/fedlex-data-admin-ch-eli-cc-1974-1332_1332_1332-20200630-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/1332_1332_1332/20200630/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1332_1332_1332/20230308/de/xml/fedlex-data-admin-ch-eli-cc-1974-1332_1332_1332-20230308-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/1332_1332_1332/20230308/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Genf am 10. Mai 1973 Von der Bundesversammlung genehmigt am 12. Dezember 1973[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 14. Dezember 1973 In Kraft getreten für die Schweiz am 4. Juli 1974
 
-(Stand am 30. Juni 2020)
+(Stand am 8. März 2023)
 
 [^t-1]: [AS 1974 1331](https://fedlex.data.admin.ch/eli/oc/1974/1331_1331_1331)
 
@@ -28,7 +28,7 @@ Das Königreich Dänemark, die Bundesrepublik Deutschland, die Französische Rep
 
 die Vertragsparteien des am 13. Februar 1969[^ingress-1] in Genf unterzeichneten Übereinkommens zur Gründung einer Europäischen Konferenz für Molekularbiologie (im folgenden als «EKMB» bezeichnet) sind;
 
-in der Erwägung, dass die bestehende internationale Zusammenarbeit auf dem Gebiete der Molekularbiologie durch die Errichtung eines Europäischen Laboratoriums für Molekularbiologie weiter ausgebaut werden sollte, und in Kenntnis der Vorschläge, die von der Europäischen Molekularbiologie‑Organisation (im folgenden als « EMBO» bezeichnet) zu diesem Zweck unterbreitet wurden;
+in der Erwägung, dass die bestehende internationale Zusammenarbeit auf dem Gebiete der Molekularbiologie durch die Errichtung eines Europäischen Laboratoriums für Molekularbiologie weiter ausgebaut werden sollte, und in Kenntnis der Vorschläge, die von der Europäischen Molekularbiologie‑Organisation (im folgenden als «EMBO» bezeichnet) zu diesem Zweck unterbreitet wurden;
 
 im Hinblick auf den Beschluss vom 28. Juni 1972, mit dem die EKMB das Vorhaben für ein solches Laboratorium nach Artikel II Absatz 3 des erwähnten Übereinkommens, wonach Sondervorhaben durchgeführt werden können, genehmigt hat;
 
@@ -38,7 +38,7 @@ in Kenntnis dessen, dass die EKMB die sie betreffenden Bestimmungen dieses Über
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.421.09](https://fedlex.data.admin.ch/eli/cc/1970/562_563_563)
+[^ingress-1]: [SR 0.421.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1712)
 
 #### Art. I
 
@@ -179,11 +179,13 @@ Der Rat:
 
 <sup>(6)</sup> Jeder Mitgliedstaat hat den ausschliesslich internationalen Charakter der Verantwortlichkeiten des Generaldirektors und des Personals in bezug auf das Laboratorium zu beachten. Bei der Wahrnehmung ihrer Dienstobliegenheiten dürfen sie von einem Mitgliedstaat, einer Regierung oder einer anderen Stelle ausserhalb des Laboratoriums Weisungen weder anfordern noch entgegennehmen.
 
-## **Artikel VIII**Beratender Wissenschaftsausschuss
+#### Art. VIII
 
-(1) Der Beratende Wissenschaftsausschuss, der nach Artikel VI Absatz (7) dieses Übereinkommens eingesetzt wird, berät den Rat, insbesondere hinsichtlich von Vorschlägen des Generaldirektors zur Durchführung des Programms des Laboratoriums.
+**Beratender Wissenschaftsausschuss**
 
-(2) Dem Ausschuss gehören hervorragende Wissenschaftler an, die in persönlicher Eigenschaft und nicht als Vertreter von Mitgliedstaaten ernannt werden. Die Mitglieder des Ausschusses sollen Wissenschaftler aus einem weiten Bereich einschlägiger Wissenschaftsgebiete sein, um soweit wie möglich sowohl das Gebiet der Molekularbiologie als auch andere geeignete wissenschaftliche Disziplinen zu erfassen. Der Generaldirektor schlägt nach angemessenen Beratungen insbesondere mit dem Rat der EMBO und einschlägigen nationalen Einrichtungen dem Rat eine Liste von Bewerbern vor, die der Rat bei der Ernennung der Mitglieder des Ausschusses berücksichtigt.
+<sup>(1)</sup> Der Beratende Wissenschaftsausschuss, der nach Artikel VI Absatz (7) dieses Übereinkommens eingesetzt wird, berät den Rat, insbesondere hinsichtlich von Vorschlägen des Generaldirektors zur Durchführung des Programms des Laboratoriums.
+
+<sup>(2)</sup> Dem Ausschuss gehören hervorragende Wissenschaftler an, die in persönlicher Eigenschaft und nicht als Vertreter von Mitgliedstaaten ernannt werden. Die Mitglieder des Ausschusses sollen Wissenschaftler aus einem weiten Bereich einschlägiger Wissenschaftsgebiete sein, um soweit wie möglich sowohl das Gebiet der Molekularbiologie als auch andere geeignete wissenschaftliche Disziplinen zu erfassen. Der Generaldirektor schlägt nach angemessenen Beratungen insbesondere mit dem Rat der EMBO und einschlägigen nationalen Einrichtungen dem Rat eine Liste von Bewerbern vor, die der Rat bei der Ernennung der Mitglieder des Ausschusses berücksichtigt.
 
 #### Art. IX
 
@@ -296,7 +298,7 @@ Die schweizerische Regierung notifiziert den Unterzeichnerstaaten und beigetrete
 
 <sup>(2)</sup> Die schweizerische Regierung lässt dieses Übereinkommen alsbald nach seinem Inkrafttreten nach Artikel 102 der Charta der Vereinten Nationen[^XVII-1] bei deren Sekretariat registrieren.
 
-[^XVII-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^XVII-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. XVIII
 
@@ -331,13 +333,14 @@ Dieser Schlüssel dient lediglich der Anwendung des Artikels XV Absatz (4) a) di
 <tr><td></td><td></td><td>100.000</td></tr>
 </table>
 
-Geltungsbereich am 30. Juni 2020**[^t-2]**
+Geltungsbereich am 8. März 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Belgien</td><td>12. Oktober</td><td>2010 B</td><td>12. Oktober</td><td>2010</td></tr>
 <tr><td>Dänemark</td><td>12. November</td><td>1973</td><td>4. Juli</td><td>1974</td></tr>
 <tr><td>Deutschland</td><td>10. Oktober</td><td>1973</td><td>4. Juli</td><td>1974</td></tr>
+<tr><td>Estland</td><td>7. Februar</td><td>2023 B</td><td>7. Februar</td><td>2023</td></tr>
 <tr><td>Finnland</td><td>19. Juni</td><td>1985 B</td><td>19. Juni</td><td>1985</td></tr>
 <tr><td>Frankreich</td><td>4. Juli</td><td>1974</td><td>4. Juli</td><td>1974</td></tr>
 <tr><td>Griechenland</td><td>13. Mai</td><td>1985 B</td><td>13. Mai</td><td>1985</td></tr>
@@ -362,7 +365,7 @@ Geltungsbereich am 30. Juni 2020**[^t-2]**
 <tr><td>Tschechische Republik</td><td>26. Mai</td><td>2014 B</td><td>26. Mai</td><td>2014</td></tr>
 <tr><td>Ungarn</td><td>13. April</td><td>2017 B</td><td>13. April</td><td>2017</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>11. Dezember</td><td>1973</td><td>4. Juli</td><td>1974</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. [tab] Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Diese können auf der Internetseite www.eda.admin.ch &gt; Aussenpolitik &gt; Völkerrecht &gt; Internationale Verträge &gt; Depositar &gt; Andere Abkommen eingesehen, oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. [tab] Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Diese können auf der Internetseite [www.eda.admin.ch](http://www.eda.admin.ch) &gt; Aussenpolitik &gt; Völkerrecht &gt; Internationale Verträge &gt; Depositar &gt; Andere Abkommen eingesehen, oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1974 1332](https://fedlex.data.admin.ch/eli/oc/1974/1332_1332_1332), [1978 1490](https://fedlex.data.admin.ch/eli/oc/1978/1490_1490_1490), [1985 1339](https://fedlex.data.admin.ch/eli/oc/1985/1339_1339_1339), [1987 801](https://fedlex.data.admin.ch/eli/oc/1987/801_801_801), [1989 131](https://fedlex.data.admin.ch/eli/oc/1989/131_131_131), [2004 4139](https://fedlex.data.admin.ch/eli/oc/2004/613), [2009 3873](https://fedlex.data.admin.ch/eli/oc/2009/484), [2014 3203](https://fedlex.data.admin.ch/eli/oc/2014/547), [2019 1037](https://fedlex.data.admin.ch/eli/oc/2019/189), [2020 3333](https://fedlex.data.admin.ch/eli/oc/2020/565). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1974 1332](https://fedlex.data.admin.ch/eli/oc/1974/1332_1332_1332); [1978 1490](https://fedlex.data.admin.ch/eli/oc/1978/1490_1490_1490); [1985 1339](https://fedlex.data.admin.ch/eli/oc/1985/1339_1339_1339); [1987 801](https://fedlex.data.admin.ch/eli/oc/1987/801_801_801); [1989 131](https://fedlex.data.admin.ch/eli/oc/1989/131_131_131); [2004 4139](https://fedlex.data.admin.ch/eli/oc/2004/613); [2009 3873](https://fedlex.data.admin.ch/eli/oc/2009/484); [2014 3203](https://fedlex.data.admin.ch/eli/oc/2014/547); [2019 1037](https://fedlex.data.admin.ch/eli/oc/2019/189); [2020 3333](https://fedlex.data.admin.ch/eli/oc/2020/565); [2023 119](https://fedlex.data.admin.ch/eli/oc/2023/119). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

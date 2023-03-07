@@ -3,33 +3,26 @@ sr: "0.421.091"
 title: Accordo del 10 maggio 1973 istitutivo del Laboratorio europeo di biologia molecolare (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/1332_1332_1332"
 language: it
-version: 2020-06-30
+version: 2023-03-08
 adopted: 1973-05-10
 in_force: 1974-07-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1332_1332_1332/20200630/it/xml/fedlex-data-admin-ch-eli-cc-1974-1332_1332_1332-20200630-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/1332_1332_1332/20200630/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1332_1332_1332/20230308/it/xml/fedlex-data-admin-ch-eli-cc-1974-1332_1332_1332-20230308-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/1332_1332_1332/20230308/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo istitutivo del Laboratorio europeo di biologia molecolare
 
-0.421.091 (Stato 30 giugno 2020)Nicht löschen bitte "[^t-1] " !!
+RU **1974** 1332; FF **1973** II 29
 
 Traduzione
 
-Conchiuso a Ginevra il 10 maggio 1973
+Conchiuso a Ginevra il 10 maggio 1973 Approvato dall’Assemblea federale il 12 dicembre 1973[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 14 dicembre 1973 Entrato in vigore per la Svizzera il 4 luglio 1974
 
-Approvato dall’Assemblea federale il 12 dicembre 1973[^t-2]
+(Stato 8 marzo 2023)
 
-Istrumento di ratificazione depositato dalla Svizzera il 14 dicembre 1973
-
-Entrato in vigore per la Svizzera il 4 luglio 1974
-
-(Stato 30 giugno 2020)
-
-[^t-1]: [RU 1974 1332](https://fedlex.data.admin.ch/eli/oc/1974/1332_1332_1332); [FF 1973 II 29](https://fedlex.data.admin.ch/eli/fga/1973/2_37_29_29)
-[^t-2]: [RU 1974 1331](https://fedlex.data.admin.ch/eli/oc/1974/1331_1331_1331)
+[^t-1]: [RU 1974 1331](https://fedlex.data.admin.ch/eli/oc/1974/1331_1331_1331)
 
 La Repubblica d’Austria, il Regno di Danimarca, la Repubblica francese, la Repubblica federale di Germania, lo Stato d’Israele, la Repubblica italiana, il Regno dei Paesi Bassi, il Regno di Svezia, la Confederazione svizzera, il Regno Unito di Gran Bretagna e d’Irlanda del Nord,
 
@@ -45,7 +38,7 @@ prendendo atto dell’accettazione, da parte della CEBM, dei disposti del presen
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.421.09](https://fedlex.data.admin.ch/eli/cc/1970/562_563_563)
+[^ingress-1]: [RS 0.421.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1712)
 
 #### Art. I
 
@@ -103,15 +96,13 @@ Sono organi del Laboratorio il Consiglio e il Direttore generale.
 
 **Consiglio**
 
-Composizione
+### Composizione
 
 <sup>(1)</sup> Il Consiglio si compone di tutti gli Stati membri del Laboratorio, ogni Membro essendo rappresentato da due delegati al massimo che possono essere coadiuvati da consiglieri.
 
 Il Consiglio elegge un presidente e due vicepresidenti i quali restano in funzione durante un anno e non possono venir rieletti più di due volte consecutive.
 
-Osservatori
-
-Poteri
+### Osservatori
 
 - (2) a)
 
@@ -121,6 +112,8 @@ Poteri
   - ii) Stati non membri della CEBM: per decisione del Consiglio presa all’unanimità dei Membri presenti e votanti.
 
 - b) L’OEBM e altri osservatori possono assistere alle riunioni del Consiglio giusta il regolamento interno da questo adottato secondo il paragrafo (3) k).
+
+### Poteri
 
 <sup>(3)</sup>
 
@@ -141,13 +134,11 @@ Il Consiglio:
 
 <sup>(4)</sup> Il Consiglio può modificare il programma di cui nel paragrafo (2) dell’Articolo II mediante decisione presa all’unanimità dei Membri presenti e votanti.
 
-Sessioni
+### Sessioni
 
 <sup>(5)</sup> Il Consiglio si raduna almeno una volta all’anno in sessione ordinaria. Può parimente riunirsi in sessione straordinaria. Le sessioni hanno luogo alla sede del Laboratorio, tranne decisione contraria del Consiglio.
 
-Voti
-
-Organi sussidiari
+### Voti
 
 - (6) a) i) Ciascun Stato membro dispone di una voce in Consiglio.
   - ii) Gli Stati che hanno firmato il presente Accordo, ma ancora non l’hanno ratificato, accettato o approvato, possono farsi rappresentare alle sessioni del Consiglio e partecipare ai suoi lavori, senza diritto di voto, durante il biennio decorrente dall’entrata in vigore del presente Accordo giusta il paragrafo (4) a) dell’Articolo XV.
@@ -155,6 +146,8 @@ Organi sussidiari
 
 - b) Tranne disposto contrario del presente Accordo, le decisioni del Consiglio vanno prese alla maggioranza dei membri presenti e votanti;
 - c) la presenza di delegati della maggioranza di tutti i membri è richiesta, per costituire il quorum, in tutte le sessioni del Consiglio.
+
+### Organi sussidiari
 
 - (7) a) II Consiglio istituisce, con decisione presa a maggioranza dei due terzi di tutti i membri, un Comitato consultivo e scientifico, un Comitato finanziario e qualunque altro organo sussidiario necessario.
 - b) La decisione istitutiva del Comitato consultivo scientifico deve contenere delle norme concernenti la sua composizione ed il suo mandato nonché la rotazione dei membri, giusta l’Articolo VIII; essa deve anche definire le condizioni di servizio dei membri.
@@ -303,7 +296,7 @@ Il Governo svizzero notifica agli Stati firmatari ed aderenti:
 
 <sup>(2)</sup> All’entrata in vigore del presente Accordo, il Governo svizzero lo fa registrare presso la Segreteria delle Nazioni Unite, conformemente all’articolo 102 della Carta[^XVII-1].
 
-[^XVII-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^XVII-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. XVIII
 
@@ -335,10 +328,14 @@ La scala qui sotto riprodotta vale esclusivamente ai fini del paragrafo (4) a) d
 <tr><td>Repubblica federale di Germania</td><td>25,926</td></tr>
 <tr><td>Svezia</td><td>5,039</td></tr>
 <tr><td>Svizzera</td><td>3,305</td></tr>
-<tr><td></td><td>100,00</td></tr>
+<tr><td></td><td>100,000</td></tr>
 </table>
 
-Campo d’applicazione il 30 giugno 2020**[^t-3]**
+## Campo d’applicazione l’8 marzo 2023
+
+[^annexu1-lvlu2-1]
+
+[^annexu1-lvlu2-1]: [RU 1974 1332](https://fedlex.data.admin.ch/eli/oc/1974/1332_1332_1332); [1978 1490](https://fedlex.data.admin.ch/eli/oc/1978/1490_1490_1490); [1985 1339](https://fedlex.data.admin.ch/eli/oc/1985/1339_1339_1339); [1987 801](https://fedlex.data.admin.ch/eli/oc/1987/801_801_801); [1989 131](https://fedlex.data.admin.ch/eli/oc/1989/131_131_131); [2004 4139](https://fedlex.data.admin.ch/eli/oc/2004/613); [2009 3873](https://fedlex.data.admin.ch/eli/oc/2009/484); [2014 3203](https://fedlex.data.admin.ch/eli/oc/2014/547); [2019 1037](https://fedlex.data.admin.ch/eli/oc/2019/189); [2020 3333](https://fedlex.data.admin.ch/eli/oc/2020/565); [2023 119](https://fedlex.data.admin.ch/eli/oc/2023/119). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -347,6 +344,7 @@ Campo d’applicazione il 30 giugno 2020**[^t-3]**
 <tr><td>Ceca, Repubblica</td><td>26 maggio</td><td>2014 A</td><td>26 maggio</td><td>2014</td></tr>
 <tr><td>Croazia</td><td>29 agosto</td><td>2006 A</td><td>29 agosto</td><td>2006</td></tr>
 <tr><td>Danimarca</td><td>12 novembre</td><td>1973</td><td>4 luglio</td><td>1974</td></tr>
+<tr><td>Estonia</td><td>7 febbraio</td><td>2023 A</td><td>7 febbraio</td><td>2023</td></tr>
 <tr><td>Finlandia</td><td>19 giugno</td><td>1985 A</td><td>19 giugno</td><td>1985</td></tr>
 <tr><td>Francia</td><td>4 luglio</td><td>1974</td><td>4 luglio</td><td>1974</td></tr>
 <tr><td>Germania</td><td>10 ottobre</td><td>1973</td><td>4 luglio</td><td>1974</td></tr>
@@ -369,7 +367,5 @@ Campo d’applicazione il 30 giugno 2020**[^t-3]**
 <tr><td>Svezia</td><td>15 febbraio</td><td>1974</td><td>4 luglio</td><td>1974</td></tr>
 <tr><td>Svizzera</td><td>14 dicembre</td><td>1973</td><td>4 luglio</td><td>1974</td></tr>
 <tr><td>Ungheria</td><td>13 aprile</td><td>2017 A</td><td>13 aprile</td><td>2017</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. [tab] Le riserve e dichiarazioni non sono pubblicate nella RU. Queste possono essere consultate sul sito www.dfae.admin.ch &gt; Politica estera &gt; Diritto internazionale pubblico &gt; Trattati internazionali &gt; Depositario &gt; Altre convenzioni, oppure ottenute presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Queste possono essere consultate sul sito [www.dfae.admin.ch](http://www.dfae.admin.ch) &gt; Politica estera &gt; Diritto internazionale pubblico &gt; Trattati internazionali &gt; Depositario &gt; Altre convenzioni, oppure ottenute presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
-
-[^t-3]: [RU 1974 1332](https://fedlex.data.admin.ch/eli/oc/1974/1332_1332_1332), [1978 1490](https://fedlex.data.admin.ch/eli/oc/1978/1490_1490_1490), [1985 1339](https://fedlex.data.admin.ch/eli/oc/1985/1339_1339_1339), [1987 801](https://fedlex.data.admin.ch/eli/oc/1987/801_801_801), [1989 131](https://fedlex.data.admin.ch/eli/oc/1989/131_131_131), [2004 4139](https://fedlex.data.admin.ch/eli/oc/2004/613), [2009 3873](https://fedlex.data.admin.ch/eli/oc/2009/484), [2014 3203](https://fedlex.data.admin.ch/eli/oc/2014/547), [2019 1037](https://fedlex.data.admin.ch/eli/oc/2019/189), [2020 3333](https://fedlex.data.admin.ch/eli/oc/2020/565). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
