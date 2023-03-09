@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: Verordnung vom 8. Juni 2012 über Massnahmen gegenüber Syrien
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: de
-version: 2023-03-03
+version: 2023-03-10
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20230303/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20230303-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20230303/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20230310/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20230310-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20230310/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Syrien
 
-vom 8. Juni 2012 (Stand am 3. März 2023)
+vom 8. Juni 2012 (Stand am 10. März 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -134,7 +134,7 @@ Die Verbote nach den Absätzen 1 und 2 gelten nicht für:
 
 <sup>6</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA zur Erfüllung humanitärer Zwecke Ausnahmen von den Verboten nach den Absätzen 1, 2, 4 und 5 bewilligen.[^3-3]
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr (AS **20****23** 109).
+[^3-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 [^3-2]: Fassung gemäss Ziff. I der V vom 10. März 2017, in Kraft seit 10. März 2017 ([AS 2017 705](https://fedlex.data.admin.ch/eli/oc/2017/132)).
 [^3-3]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 
@@ -267,6 +267,16 @@ Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder die 
 
 <sup>2ter</sup> Das SECO kann Ausnahmen von den Verboten nach Absatz 2 bewilligen, um die Durchführung humanitärer Aktivitäten oder die Unterstützung der Zivilbevölkerung in Syrien zu ermöglichen.[^10-3]
 
+<sup>2quater</sup>
+
+Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder die Bereitstellung von Geldern oder wirtschaftlichen Ressourcen erforderlich ist zur Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung in Syrien oder für andere Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+
+- a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
+- b. internationale Organisationen;
+- c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
+- d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
+- e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d und in Absatz 2<sup>bis</sup> genannten Organisationen, soweit sie in dieser Eigenschaft handeln.[^10-4]
+
 <sup>3</sup>
 
 Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
@@ -275,16 +285,16 @@ Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermög
 - b. Erfüllung bestehender Verträge;
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind; oder
 - d. Wahrung schweizerischer Interessen;
-- e.[^10-4]
+- e.[^10-5]
 
   finanziellen Unterstützung syrischer Staatsbürger, die nicht in Anhang 7 aufgeführt sind und die in der Schweiz:
 
   - 1\. eine allgemeine oder berufliche Ausbildung durchlaufen, oder
   - 2\. in der akademischen Forschung tätig sind;
 
-- f.[^10-5] Verwendung für humanitäre Zwecke;
-- g.[^10-6] Vernichtung chemischer Waffen oder Zerstörung von Anlagen zur Herstellung chemischer Waffen;
-- h.[^10-7] Erfüllung der amtlichen Tätigkeit syrischer diplomatischer oder konsularischer Vertretungen.
+- f.[^10-6] Verwendung für humanitäre Zwecke;
+- g.[^10-7] Vernichtung chemischer Waffen oder Zerstörung von Anlagen zur Herstellung chemischer Waffen;
+- h.[^10-8] Erfüllung der amtlichen Tätigkeit syrischer diplomatischer oder konsularischer Vertretungen.
 
 <sup>4</sup>
 
@@ -294,16 +304,17 @@ Das SECO kann die Freigabe von gesperrten Geldern und wirtschaftlichen Ressource
 - b. die Bedienung von Handelskrediten;
 - c. die Erfüllung von Handelsverträgen, sofern die Zahlung nicht zu einer nach dieser Verordnung verbotenen Aktivität beiträgt.
 
-<sup>5</sup> Es bewilligt Ausnahmen nach den Absätzen 2<sup>ter</sup>, 3 und 4 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements (EFD).[^10-8]
+<sup>5</sup> Es bewilligt Ausnahmen nach den Absätzen 2<sup>ter</sup>, 3 und 4 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements (EFD).[^10-9]
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 [^10-2]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019 ([AS 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 [^10-3]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-4]: Eingefügt durch Ziff. I der V vom 19. Dez. 2012, in Kraft seit 21. Dez. 2012 ([AS 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^10-5]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-4]: Eingefügt durch Ziff. I der V vom 10. März 2023, in Kraft vom 10. März 2023 um 18.00 Uhr bis zum 11. Sept. 2023 ([AS 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118)).
+[^10-5]: Eingefügt durch Ziff. I der V vom 19. Dez. 2012, in Kraft seit 21. Dez. 2012 ([AS 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
 [^10-6]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^10-7]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-8]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-8]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-9]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 
 #### Art. 11
 

@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordonnance du 8 juin 2012 instituant des mesures à l'encontre de la Syrie"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: fr
-version: 2023-03-03
+version: 2023-03-10
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20230303/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20230303-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20230303/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20230310/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20230310-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20230310/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Syrie
 
-du 8 juin 2012 (État le 3 mars 2023)
+du 8 juin 2012 (État le 10 mars 2023)
 
 Le Conseil fédéral suisse,
 
@@ -267,6 +267,16 @@ L’interdiction prévue à l’al. 2 ne s’applique pas lorsque la fourniture 
 
 <sup>2ter</sup> Le SECO peut, exceptionnellement, autoriser des dérogations aux interdictions prévues à l’al. 2 pour permettre la réalisation d’activités humanitaires ou la fourniture d’une aide à la population civile en Syrie.[^10-3]
 
+<sup>2quater</sup>
+
+L’interdiction prévue à l’al. 2 ne s’applique pas lorsque la fourniture des avoirs ou la mise à disposition des avoirs ou des ressources économiques est nécessaire à la réalisation d’activités humanitaires ou à la fourniture d’une aide à la population civile en Syrie ou à la réalisation d’autres activités qui visent à répondre aux besoins essentiels des personnes, par:
+
+- a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
+- b. des organisations internationales;
+- c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de celles-ci;
+- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
+- e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d et à l’al. 2<sup>bis</sup> agissant en cette qualité.[^10-4]
+
 <sup>3</sup>
 
 Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
@@ -275,16 +285,16 @@ Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des co
 - b. d’honorer des contrats existants;
 - c. d’honorer des créances en application d’une décision judiciaire, administrative ou arbitrale;
 - d. de sauvegarder des intérêts suisses, ou
-- e.[^10-4]
+- e.[^10-5]
 
   de fournir un appui financier à des ressortissants syriens non inscrits sur la liste figurant à l’annexe 7 qui:
 
   - 1\. suivent un enseignement ou une formation professionnelle en Suisse, ou
   - 2\. y sont engagés dans la recherche universitaire;
 
-- f.[^10-5] de les utiliser à des fins humanitaires;
-- g.[^10-6] de détruire des armes chimiques ou des installations destinées à la fabrication d’armes chimiques;
-- h.[^10-7] de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires syriennes.
+- f.[^10-6] de les utiliser à des fins humanitaires;
+- g.[^10-7] de détruire des armes chimiques ou des installations destinées à la fabrication d’armes chimiques;
+- h.[^10-8] de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires syriennes.
 
 <sup>4</sup>
 
@@ -294,16 +304,17 @@ Le SECO peut, exceptionnellement, autoriser la libération d’avoirs et de ress
 - b. d’honorer les crédits commerciaux;
 - c. d’honorer les contrats commerciaux, dans la mesure où le paiement ne favorise pas une activité interdite au sens de la présente ordonnance.
 
-<sup>5</sup> Il autorise les dérogations prévues aux al. 2<sup>ter</sup>, 3 et 4 après avoir consulté les services compétents du DFAE et du Département fédéral des finances (DFF).[^10-8]
+<sup>5</sup> Il autorise les dérogations prévues aux al. 2<sup>ter</sup>, 3 et 4 après avoir consulté les services compétents du DFAE et du Département fédéral des finances (DFF).[^10-9]
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 [^10-2]: Introduit par le ch. I de l’O du 16 oct. 2019 ([RO 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 [^10-3]: Introduit par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-4]: Introduite par le ch. I de l’O du 19 déc. 2012, en vigueur depuis le 21 déc. 2012 ([RO 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^10-5]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-4]: Introduit par le ch. I de l’O du 10 mars 2023, en vigueur du 10 mars 2023 à 18 heures au 11 sept. 2023 ([RO 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118)).
+[^10-5]: Introduite par le ch. I de l’O du 19 déc. 2012, en vigueur depuis le 21 déc. 2012 ([RO 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
 [^10-6]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^10-7]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-8]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-8]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-9]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 
 #### Art. 11
 

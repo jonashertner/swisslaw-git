@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordinanza dell' 8 giugno 2012 che istituisce provvedimenti nei confronti della Siria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: it
-version: 2023-03-03
+version: 2023-03-10
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20230303/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20230303-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20230303/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20230310/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20230310-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20230310/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Siria
 
-dell’8 giugno 2012 (Stato 3 marzo 2023)
+dell’8 giugno 2012 (Stato 10 marzo 2023) (Stato 10 marzo 2023)
 
 Il Consiglio federale svizzero,
 
@@ -269,6 +269,16 @@ Il divieto di cui al capoverso 2 non si applica quando il trasferimento di averi
 
 <sup>2ter</sup> La SECO può autorizzare deroghe ai divieti di cui al capoverso 2 per permettere lo svolgimento di attività umanitarie o di sostegno alla popolazione civile in Siria.[^10-3]
 
+<sup>2quater</sup>
+
+Il divieto di cui al capoverso 2 non si applica quando il trasferimento di averi o la messa a disposizione di averi o risorse economiche è necessario per svolgere attività umanitarie o di sostegno alla popolazione civile in Siria oppure per svolgere altre attività volte a soddisfare i bisogni umani fondamentali da parte di:
+
+- a. l’Organizzazione delle Nazioni Unite, anche per il tramite dei suoi programmi, fondi e altre entità e organismi, e dalle sue agenzie specializzate e organizzazioni collegate;
+- b. organizzazioni internazionali;
+- c. organizzazioni umanitarie aventi status di osservatore presso l’Assemblea generale delle Nazioni Unite e i membri di tali organizzazioni umanitarie;
+- d. organizzazioni non governative finanziate a livello bilaterale o multilaterale che partecipano ai piani di risposta umanitaria delle Nazioni Unite, ai piani di risposta per i rifugiati, ad altri appelli delle Nazioni Unite o a strutture umanitarie coordinate dall’Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA);
+- e. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi degli organismi di cui alle lettere a-d e al capoverso 2<sup>bis</sup> nella misura in cui agiscono in tale veste.[^10-4]
+
 <sup>3</sup>
 
 La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione di risorse economiche bloccate per:
@@ -277,16 +287,16 @@ La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimen
 - b. rispettare contratti esistenti;
 - c. rispettare crediti oggetto di una sentenza giudiziaria, amministrativa o arbitrale; oppure
 - d. tutelare interessi svizzeri;
-- e.[^10-4]
+- e.[^10-5]
 
   sostenere finanziariamente i cittadini siriani non menzionati nell’allegato 7 che, in Svizzera:
 
   - 1\. seguono una formazione generale o professionale, oppure
   - 2\. effettuano attività di ricerca universitaria;
 
-- f.[^10-5] utilizzarli a scopi umanitari;
-- g.[^10-6] distruggere armi chimiche o impianti destinati alla fabbricazione di armi chimiche;
-- h.[^10-7] adempiere agli scopi ufficiali di missioni diplomatiche o consolari siriane.
+- f.[^10-6] utilizzarli a scopi umanitari;
+- g.[^10-7] distruggere armi chimiche o impianti destinati alla fabbricazione di armi chimiche;
+- h.[^10-8] adempiere agli scopi ufficiali di missioni diplomatiche o consolari siriane.
 
 <sup>4</sup>
 
@@ -296,16 +306,17 @@ La SECO, eccezionalmente, può autorizzare la liberazione di risorse economiche 
 - b. l’impiego di crediti commerciali;
 - c. l’adempimento di contratti commerciali, purché il pagamento non contribuisca ad una delle attività proibite dalla presente ordinanza.
 
-<sup>5</sup> La SECO autorizza le attività di cui ai capoversi 2<sup>ter</sup>, 3 e 4 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze (DFF).[^10-8]
+<sup>5</sup> La SECO autorizza le attività di cui ai capoversi 2<sup>ter</sup>, 3 e 4 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze (DFF).[^10-9]
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 [^10-2]: Introdotto dal n. I dell’O del 16 ott. 2019 ([RU 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 [^10-3]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-4]: Introdotta dal n. I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^10-5]: Introdotta dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-4]: Introdotto dal n. I dell’O del 10 mar. 2023, in vigore dal 10 mar. 2023 alle 18.00 all’11 set. 2023 ([RU 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118)).
+[^10-5]: Introdotta dal n. I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
 [^10-6]: Introdotta dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^10-7]: Introdotta dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-8]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-8]: Introdotta dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-9]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 
 #### Art. 11
 
