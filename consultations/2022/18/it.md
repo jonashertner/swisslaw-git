@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Decreto federale sull’impiego dei mezzi di comunicazione elettronici nei procedimenti civili transfrontalieri
 document: Progetto posto in consultazione
 language: it

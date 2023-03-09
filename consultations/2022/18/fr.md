@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Arrêté fédéral concernant le recours aux moyens de communication électroniques dans les procédures civiles transfrontalières
 document: Projet mis en consultation
 language: fr

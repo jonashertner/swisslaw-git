@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesbeschluss über den Einsatz elektronischer Kommunikationsmittel in grenzüberschreitenden Zivilprozessen
 document: Vernehmlassungsvorlage
 language: de
