@@ -3,34 +3,27 @@ sr: "0.671.1"
 title: "Convenzione multilaterale per l'attuazione di misure relative alle convenzioni fiscali finalizzate a prevenire l'erosione della base imponibile e il trasferimento degli utili"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/486"
 language: it
-version: 2019-12-01
+version: 2023-03-13
 adopted: 2016-11-24
 in_force: 2019-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/486/20191201/it/xml/fedlex-data-admin-ch-eli-cc-2020-486-20191201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/486/20191201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/486/20230313/it/xml/fedlex-data-admin-ch-eli-cc-2020-486-20230313-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/486/20230313/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione multilaterale per l’attuazione di misure relative alle convenzioni fiscali finalizzate a prevenire l’erosione della base imponibile e il trasferimento degli utili****
+# Convenzione multilaterale per l’attuazione di misure relative alle convenzioni fiscali finalizzate a prevenire l’erosione della base imponibile e il trasferimento degli utili
 
 RU **2020** 2641; FF **2018** 4513[^t-1]
 
-Traduzione*[^t-2]*
+Traduzione
 
-Conclusa il 24 novembre 2016
+Conclusa il 24 novembre 2016 Approvata dall’Assemblea federale il 22 marzo 2019[^t-2] Strumento di ratifica depositato dalla Svizzera il 29 agosto 2019 Entrata in vigore per la Svizzera il 1° dicembre 2019
 
-Approvata dall’Assemblea federale il 22 marzo 2019[^t-3]
-
-Strumento di ratifica depositato dalla Svizzera il 29 agosto 2019
-
-Entrata in vigore per la Svizzera il 1° dicembre 2019
-
-(Stato 1° dicembre 2019)
+(Stato 13 marzo 2023)
 
 [^t-1]: IT qui e di seguito: spostamento dei profitti
-[^t-2]: Dai testi originali inglese e francese. Le divergenze rispetto alla traduzione dell’Italia (IT) sono debitamente contrassegnate.
-[^t-3]: [RU 2020 2625](https://fedlex.data.admin.ch/eli/oc/2020/485)
+[^t-2]: [RU 2020 2625](https://fedlex.data.admin.ch/eli/oc/2020/485)
 
 Le Parti della presente Convenzione,
 
@@ -1121,22 +1114,28 @@ Il Depositario conserva gli elenchi accessibili al pubblico:
 
 *(Seguono le firme)*
 
-Campo d’applicazione l’8 giugno 2020[^t-4]
+Campo d’applicazione il 13 marzo 2023[^t-3]
 
-La Svizzera è vincolata dalle disposizioni della Convenzione multilaterale per l’attuazione di misure relative alle convenzioni fiscali finalizzate a prevenire l’erosione della base imponibile e il trasferimento degli utili verso gli Stati e i territori seguenti conformemente al sottoparagrafo b) del paragrafo 7 dell’articolo 35 in combinato disposto con la clausola i) del sottoparagrafo a) del paragrafo 7 dell’articolo 35 della presente Convenzione:
+La Svizzera è vincolata dalle disposizioni della Convenzione multilaterale per l’attuazione di misure relative alle convenzioni fiscali finalizzate a prevenire l’erosione della base imponibile e il trasferimento degli utili verso gli Stati e i territori seguenti conformemente all’articolo 35 paragrafo 7 lettera b in combinato disposto con l’articolo 35 paragrafo 7 lettera a punto i della presente Convenzione:
 
 <table>
 <tr><th></th><th>Con effetto dal</th></tr>
-<tr><td>Lussemburgo[^t-5]</td><td>26 giugno 2020[^t-6]</td></tr>
+<tr><td>Islanda[^t-4]</td><td>15 gennaio 2023[^t-5]</td></tr>
+<tr><td>Lituania</td><td>17 gennaio 2021[^t-6]</td></tr>
+<tr><td>Lussemburgo</td><td>26 giugno 2020[^t-7]</td></tr>
+<tr><td>Repubblica ceca</td><td>17 gennaio 2021[^t-8]</td></tr>
 </table>
 
-## Riserve e notifiche della Confederazione Svizzera
+[^t-3]: [RU 2023 132](https://fedlex.data.admin.ch/eli/oc/2023/132). L’elenco completo dei Firmatari e delle Parti può essere consultato all’indirizzo www.oecd.org/fr/fiscalite/beps/convention-multilaterale-pour-la-mise-en-oeuvre-des-mesures-relatives-aux-conventions-fiscales-pour-prevenir-le-beps.htm.
+[^t-4]: L’efficacia è soggetta a una procedura d’attivazione. La data menzionata è quella della prima efficacia tra la Svizzera e lo Stato o territorio in questione.
+[^t-5]: Si veda l’Acc. amichevole del 15 dic. 2022 tra l’autorità competente della Confederazione Svizzera e l’autorità competente della Repubblica d’Islanda ([RU 2023 110](https://fedlex.data.admin.ch/eli/oc/2023/110)).
+[^t-6]: Si veda l’Acc. amichevole del 16 nov. 2020 tra l’autorità competente della Confederazione Svizzera e l’autorità competente della Repubblica di Lituania ([RU 2021 28](https://fedlex.data.admin.ch/eli/oc/2021/28)).
+[^t-7]: Si veda l’Acc. amichevole del 12 mag. 2020 tra l’autorità competente della Confederazione Svizzera e l’autorità competente del Granducato del Lussemburgo ([RU 2020 2715](https://fedlex.data.admin.ch/eli/oc/2020/487)).
+[^t-8]: Si veda l’Acc. amichevole del 24 nov. 2020 tra l’autorità competente della Confederazione Svizzera e l’autorità competente della Repubblica Ceca ([RU 2021 29](https://fedlex.data.admin.ch/eli/oc/2021/29)).
 
-[^t-4]: L’elenco completo dei Firmatari e delle Parti può essere consultato all’indirizzo www.oecd.org/fr/fiscalite/beps/convention-multilaterale-pour-la-mise-en-oeuvre-des-mesures-relatives-aux-conventions-fiscales-pour-prevenir-le-beps.htm.
-[^t-5]: L’efficacia è soggetta a una procedura d’attivazione. La data menzionata è quella della prima efficacia tra la Svizzera e lo Stato o territorio in questione.
-[^t-6]: Si veda l’Accordo amichevole del 12 maggio 2020 tra l’autorità competente della Confederazione Svizzera e l’autorità competente del Granducato del Lussemburgo ([RU 2020 2715](https://fedlex.data.admin.ch/eli/oc/2020/487)).
+Riserve e notifiche della Confederazione Svizzera
 
-### **Ad art. 2**Interpretazione dei termini
+## **Ad art. 2**Interpretazione dei termini
 
 Notifiche – Accordi fiscali coperti dalla Convenzione
 
@@ -1144,58 +1143,58 @@ In virtù dell’articolo 2 paragrafo 1 sottoparagrafo a clausola ii) della Conv
 
 <table>
 <tr><th>N.</th><th>Titolo</th><th>Altra Giurisdizione contraente</th><th>Originale/ Strumento(i) successivo(i)</th><th>Data della firma</th><th>Data di entrata in vigore</th></tr>
-<tr><td>1</td><td>Convention entre la Confédération suisse et la République d’Afrique du Sud en vue d’éviter les doubles impositions en matière d’impôts sur le revenu (**Testo originale**) *Convenzione tra la Confederazione Svizzera e la Repubblica del Sud**africa intesa a evitare la doppia imposizione in materia di imposte sul reddito* (**Traduzione**)[^scopeu1-lvlu1-lvlu1-1]</td><td>Sudafrica</td><td>Originale</td><td>08.05.2007</td><td>27.01.2009</td></tr>
-<tr><td>2</td><td>Convention entre la Confédération suisse et la République argentine en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (**Testo originale**) *Convenzione tra la Confederazione Svizzera e la Repubblica Argentina per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio* (**Traduzione**)[^scopeu1-lvlu1-lvlu1-2]</td><td>Argentina</td><td>Originale</td><td>20.03.2014</td><td>27.11.2015</td></tr>
-<tr><td>3</td><td>Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Republik Österreich zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen (**Testo originale**) *Convenzione tra la Confederazione Svizzera e la Repubblica d’Austria intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito e sulla sostanza* (**Tradu****zione**)[^scopeu1-lvlu1-lvlu1-3]</td><td>Austria</td><td>Originale</td><td>30.01.1974</td><td>04.12.1974</td></tr>
+<tr><td>1</td><td>Convention entre la Confédération suisse et la République d’Afrique du Sud en vue d’éviter les doubles impositions en matière d’impôts sur le revenu (**Testo originale**) *Convenzione tra la Confederazione Svizzera e la Repubblica del Sud**africa intesa a evitare la doppia imposizione in materia di imposte sul reddito* (**Traduzione**)[^declu2-lvlu1-1]</td><td>Sudafrica</td><td>Originale</td><td>08.05.2007</td><td>27.01.2009</td></tr>
+<tr><td>2</td><td>Convention entre la Confédération suisse et la République argentine en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (**Testo originale**) *Convenzione tra la Confederazione Svizzera e la Repubblica Argentina per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio* (**Traduzione**)[^declu2-lvlu1-2]</td><td>Argentina</td><td>Originale</td><td>20.03.2014</td><td>27.11.2015</td></tr>
+<tr><td>3</td><td>Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Republik Österreich zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen (**Testo originale**) *Convenzione tra la Confederazione Svizzera e la Repubblica d’Austria intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito e sulla sostanza* (**Tradu****zione**)[^declu2-lvlu1-3]</td><td>Austria</td><td>Originale</td><td>30.01.1974</td><td>04.12.1974</td></tr>
 <tr><td></td><td></td><td></td><td>Strumento successivo (a)</td><td>18.01.1994</td><td>01.05.1995</td></tr>
 <tr><td></td><td></td><td></td><td>Strumento successivo (b)</td><td>20.07.2000</td><td>13.09.2001</td></tr>
 <tr><td></td><td></td><td></td><td>Strumento successivo (c)</td><td>21.03.2006</td><td>02.02.2007</td></tr>
 <tr><td></td><td></td><td></td><td>Strumento successivo (d) (ivi compreso lo scambio di note del 03.09.2009)</td><td>03.09.2009</td><td>01.03.2011</td></tr>
 <tr><td></td><td></td><td></td><td>Strumento successivo (e)</td><td>04.06.2012</td><td>14.11.2012</td></tr>
-<tr><td>4</td><td>Convention entre la Confédération suisse et la République du Chili en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (**Testo originale**) *Convenzione tra la Confederazione Svizzera e la Repubblica del Cile per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio* (**Traduzione**)[^scopeu1-lvlu1-lvlu1-4]</td><td>Cile</td><td>Originale</td><td>02.04.2008</td><td>05.05.2010</td></tr>
-<tr><td>5</td><td>Abkommen zwischen der Schweizerischen Eidgenossenschaft und Island zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (**Testo originale**) *Convenzione tra la Confederazione Svizzera e l’Islanda per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio*(**Traduzione**)[^scopeu1-lvlu1-lvlu1-5]</td><td>Islanda</td><td>Originale</td><td>10.07.2014</td><td>06.11.2015</td></tr>
-<tr><td>6</td><td>Convenzione tra la Confederazione Svizzera e la Repubblica Italiana per evitare le doppie imposizioni e per regolare talune altre questioni in materia di imposte sul reddito e sul patrimonio (**Testo originale**)[^scopeu1-lvlu1-lvlu1-6]</td><td>Italia</td><td>Originale</td><td>09.03.1976</td><td>27.03.1979</td></tr>
+<tr><td>4</td><td>Convention entre la Confédération suisse et la République du Chili en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (**Testo originale**) *Convenzione tra la Confederazione Svizzera e la Repubblica del Cile per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio* (**Traduzione**)[^declu2-lvlu1-4]</td><td>Cile</td><td>Originale</td><td>02.04.2008</td><td>05.05.2010</td></tr>
+<tr><td>5</td><td>Abkommen zwischen der Schweizerischen Eidgenossenschaft und Island zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (**Testo originale**) *Convenzione tra la Confederazione Svizzera e l’Islanda per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio*(**Traduzione**)[^declu2-lvlu1-5]</td><td>Islanda</td><td>Originale</td><td>10.07.2014</td><td>06.11.2015</td></tr>
+<tr><td>6</td><td>Convenzione tra la Confederazione Svizzera e la Repubblica Italiana per evitare le doppie imposizioni e per regolare talune altre questioni in materia di imposte sul reddito e sul patrimonio (**Testo originale**)[^declu2-lvlu1-6]</td><td>Italia</td><td>Originale</td><td>09.03.1976</td><td>27.03.1979</td></tr>
 <tr><td></td><td></td><td></td><td>Strumento successivo (a)</td><td>28.04.1978</td><td>27.03.1979</td></tr>
 <tr><td></td><td></td><td></td><td>Strumento successivo (b)</td><td>23.02.2015</td><td>13.07.2016</td></tr>
-<tr><td>7</td><td>Abkommen zwischen dem Schweizerischen Bundesrat und der Regierung der Republik Litauen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen(**Testo originale**) *Convenzione tra il Consiglio fede**rale svizzero e il Governo della Repubblica di Lituania per evitare le doppie imposizioni in materia d’imposte sul reddito e sul* *patrimonio* (**Traduzione**)[^scopeu1-lvlu1-lvlu1-7]</td><td>Lituania</td><td>Originale</td><td>27.05.2002</td><td>18.12.2002</td></tr>
-<tr><td>8</td><td>Convention entre la Confédération suisse et le Grand-Duché de Luxembourg en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (**Testo originale**) *Convenzione tra la Confederazione Svizzera e il Granducato del* *Lussemburgo* *per evitare le doppie imposizioni in materia di imposte sul* *reddito e sul patrimonio* (**Traduzione**)[^scopeu1-lvlu1-lvlu1-8]</td><td>Lussemburgo</td><td>Originale</td><td>21.01.1993</td><td>19.02.1994</td></tr>
+<tr><td>7</td><td>Abkommen zwischen dem Schweizerischen Bundesrat und der Regierung der Republik Litauen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen(**Testo originale**) *Convenzione tra il Consiglio fede**rale svizzero e il Governo della Repubblica di Lituania per evitare le doppie imposizioni in materia d’imposte sul reddito e sul* *patrimonio* (**Traduzione**)[^declu2-lvlu1-7]</td><td>Lituania</td><td>Originale</td><td>27.05.2002</td><td>18.12.2002</td></tr>
+<tr><td>8</td><td>Convention entre la Confédération suisse et le Grand-Duché de Luxembourg en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (**Testo originale**) *Convenzione tra la Confederazione Svizzera e il Granducato del* *Lussemburgo* *per evitare le doppie imposizioni in materia di imposte sul* *reddito e sul patrimonio* (**Traduzione**)[^declu2-lvlu1-8]</td><td>Lussemburgo</td><td>Originale</td><td>21.01.1993</td><td>19.02.1994</td></tr>
 <tr><td></td><td></td><td></td><td>Strumento successivo (a)</td><td>25.08.2009</td><td>19.11.2010</td></tr>
 <tr><td></td><td></td><td></td><td>Strumento successivo (b)</td><td>11.07.2012</td><td>11.07.2013</td></tr>
-<tr><td>9</td><td>Convention entre le Conseil fédéral suisse et le Gouvernement des Etats-Unis du Mexique en vue d’éviter les doubles impositions en matière d’impôts sur le revenu (**Testo originale**) *Convenzione tra il Consiglio fede**rale svizzero e il Governo degli Stati Uniti del Messico per evitare le doppie imposizioni in materia di imposte sul reddito* (**Traduzione**)[^scopeu1-lvlu1-lvlu1-9]</td><td>Messico</td><td>Originale</td><td>03.08.1993</td><td>08.09.1994</td></tr>
+<tr><td>9</td><td>Convention entre le Conseil fédéral suisse et le Gouvernement des Etats-Unis du Mexique en vue d’éviter les doubles impositions en matière d’impôts sur le revenu (**Testo originale**) *Convenzione tra il Consiglio fede**rale svizzero e il Governo degli Stati Uniti del Messico per evitare le doppie imposizioni in materia di imposte sul reddito* (**Traduzione**)[^declu2-lvlu1-9]</td><td>Messico</td><td>Originale</td><td>03.08.1993</td><td>08.09.1994</td></tr>
 <tr><td></td><td></td><td></td><td>Strumento successivo (a)</td><td>18.09.2009</td><td>23.12.2010</td></tr>
-<tr><td>10</td><td>Convention entre la Suisse et le Portugal en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (**Testo originale**) *Convenzione tra la Confederazione Svizzera e il Portogallo intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito e sulla sostanza* (**Traduzione**)[^scopeu1-lvlu1-lvlu1-10]</td><td>Portogallo</td><td>Originale</td><td>26.09.1974</td><td>17.12.1975</td></tr>
+<tr><td>10</td><td>Convention entre la Suisse et le Portugal en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (**Testo originale**) *Convenzione tra la Confederazione Svizzera e il Portogallo intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito e sulla sostanza* (**Traduzione**)[^declu2-lvlu1-10]</td><td>Portogallo</td><td>Originale</td><td>26.09.1974</td><td>17.12.1975</td></tr>
 <tr><td></td><td></td><td></td><td>Strumento successivo (a)</td><td>25.06.2012</td><td>21.10.2013</td></tr>
-<tr><td>11</td><td>Abkommen zwischen dem Schweizerischen Bundesrat und der Regierung der Tschechischen Republik zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (**Testo originale**) *Convenzione tra il Consiglio fede**rale svizzero e il Governo della Repubblica Ceca per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio* (**Traduzione**)[^scopeu1-lvlu1-lvlu1-11]</td><td>Cechia</td><td>Originale</td><td>04.12.1995</td><td>23.10.1996</td></tr>
+<tr><td>11</td><td>Abkommen zwischen dem Schweizerischen Bundesrat und der Regierung der Tschechischen Republik zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (**Testo originale**) *Convenzione tra il Consiglio fede**rale svizzero e il Governo della Repubblica Ceca per evitare le doppie imposizioni in materia di imposte sul* *reddito e sul patrimonio* (**Traduzione**)[^declu2-lvlu1-11]</td><td>Cechia</td><td>Originale</td><td>04.12.1995</td><td>23.10.1996</td></tr>
 <tr><td></td><td></td><td></td><td>Strumento successivo (a)</td><td>11.09.2012</td><td>11.10.2013</td></tr>
-<tr><td>12</td><td>Convention entre la Confédération suisse et la République de Turquie en vue d’éviter les doubles impositions en matière d’impôts sur le revenu (**Testo originale**) *Convenzione tra la Confederazione Svizzera e la Repubblica Turca per evitare la doppia imposizione in materia d’imposte sul reddito* (**Traduzione**)[^scopeu1-lvlu1-lvlu1-12]</td><td>Turchia</td><td>Originale</td><td>18.06.2010</td><td>08.02.2012</td></tr>
+<tr><td>12</td><td>Convention entre la Confédération suisse et la République de Turquie en vue d’éviter les doubles impositions en matière d’impôts sur le revenu (**Testo originale**) *Convenzione tra la Confederazione Svizzera e la Repubblica Turca per evitare la doppia imposizione in materia d’imposte sul reddito* (**Traduzione**)[^declu2-lvlu1-12]</td><td>Turchia</td><td>Originale</td><td>18.06.2010</td><td>08.02.2012</td></tr>
 </table>
 
-[^scopeu1-lvlu1-lvlu1-1]: [RS 0.672.911.82](https://fedlex.data.admin.ch/eli/cc/2009/153)
-[^scopeu1-lvlu1-lvlu1-2]: [RS 0.672.915.41](https://fedlex.data.admin.ch/eli/cc/2015/744)
-[^scopeu1-lvlu1-lvlu1-3]: [RS 0.672.916.31](https://fedlex.data.admin.ch/eli/cc/1974/2085_2085_2085)
-[^scopeu1-lvlu1-lvlu1-4]: [RS 0.672.924.51](https://fedlex.data.admin.ch/eli/cc/2010/324)
-[^scopeu1-lvlu1-lvlu1-5]: [RS 0.672.944.51](https://fedlex.data.admin.ch/eli/cc/2015/793)
-[^scopeu1-lvlu1-lvlu1-6]: [RS 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
-[^scopeu1-lvlu1-lvlu1-7]: [RS 0.672.951.61](https://fedlex.data.admin.ch/eli/cc/2003/176)
-[^scopeu1-lvlu1-lvlu1-8]: [RS 0.672.951.81](https://fedlex.data.admin.ch/eli/cc/1994/333_333_333)
-[^scopeu1-lvlu1-lvlu1-9]: [RS 0.672.956.31](https://fedlex.data.admin.ch/eli/cc/1995/69_69_69)
-[^scopeu1-lvlu1-lvlu1-10]: [RS 0.672.965.41](https://fedlex.data.admin.ch/eli/cc/1975/2457_2457_2457)
-[^scopeu1-lvlu1-lvlu1-11]: [RS 0.672.974.31](https://fedlex.data.admin.ch/eli/cc/1997/961_961_961)
-[^scopeu1-lvlu1-lvlu1-12]: [RS 0.672.976.31](https://fedlex.data.admin.ch/eli/cc/2012/185)
+[^declu2-lvlu1-1]: [RS 0.672.911.82](https://fedlex.data.admin.ch/eli/cc/2009/153)
+[^declu2-lvlu1-2]: [RS 0.672.915.41](https://fedlex.data.admin.ch/eli/cc/2015/744)
+[^declu2-lvlu1-3]: [RS 0.672.916.31](https://fedlex.data.admin.ch/eli/cc/1974/2085_2085_2085)
+[^declu2-lvlu1-4]: [RS 0.672.924.51](https://fedlex.data.admin.ch/eli/cc/2010/324)
+[^declu2-lvlu1-5]: [RS 0.672.944.51](https://fedlex.data.admin.ch/eli/cc/2015/793)
+[^declu2-lvlu1-6]: [RS 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^declu2-lvlu1-7]: [RS 0.672.951.61](https://fedlex.data.admin.ch/eli/cc/2003/176)
+[^declu2-lvlu1-8]: [RS 0.672.951.81](https://fedlex.data.admin.ch/eli/cc/1994/333_333_333)
+[^declu2-lvlu1-9]: [RS 0.672.956.31](https://fedlex.data.admin.ch/eli/cc/1995/69_69_69)
+[^declu2-lvlu1-10]: [RS 0.672.965.41](https://fedlex.data.admin.ch/eli/cc/1975/2457_2457_2457)
+[^declu2-lvlu1-11]: [RS 0.672.974.31](https://fedlex.data.admin.ch/eli/cc/1997/961_961_961)
+[^declu2-lvlu1-12]: [RS 0.672.976.31](https://fedlex.data.admin.ch/eli/cc/2012/185)
 
-### **Ad art. 3**Entità trasparenti
+## **Ad art. 3**Entità trasparenti
 
 Riserva
 
 In virtù dell’articolo 3 paragrafo 5 sottoparagrafo a della Convenzione, la Confederazione Svizzera si riserva il diritto di non applicare la totalità dell’articolo 3 ai suoi Accordi fiscali coperti.
 
-### **Ad art. 4**Entità con doppia residenza
+## **Ad art. 4**Entità con doppia residenza
 
 Riserva
 
 In virtù dell’articolo 4 paragrafo 3 sottoparagrafo a della Convenzione, la Confederazione Svizzera si riserva il diritto di non applicare la totalità dell’articolo 4 ai suoi Accordi fiscali coperti.
 
-### **Ad art. 5**Applicazione dei metodi per l’eliminazione della doppia imposizione
+## **Ad art. 5**Applicazione dei metodi per l’eliminazione della doppia imposizione
 
 Riserva
 
@@ -1225,7 +1224,7 @@ In virtù dell’articolo 5 paragrafo 10 della Convenzione, la Confederazione Sv
 <tr><td>12</td><td>Turchia</td><td>Art. 22 par. 1 lett. a</td></tr>
 </table>
 
-### **Ad art. 6**Scopo di un Accordo fiscale coperto
+## **Ad art. 6**Scopo di un Accordo fiscale coperto
 
 Notifica relativa all’opzione scelta
 
@@ -1250,7 +1249,7 @@ In virtù dell’articolo 6 paragrafo 6 della Convenzione, la Confederazione Svi
 <tr><td>12</td><td>Turchia</td></tr>
 </table>
 
-### **Ad art. 7**Prevenzione dell’abuso dei trattati
+## **Ad art. 7**Prevenzione dell’abuso dei trattati
 
 Notifica relativa alle disposizioni pertinenti degli Accordi fiscali coperti
 
@@ -1266,55 +1265,55 @@ In virtù dell’articolo 7 paragrafo 17 sottoparagrafo a della Convenzione, la 
 <tr><td>11</td><td>Cechia</td><td>Protocollo, n. 8 (secondo la modifica di cui all’art. XI di (a))</td></tr>
 </table>
 
-### **Ad art. 8**Transazioni relative al trasferimento dei dividendi
+## **Ad art. 8**Transazioni relative al trasferimento dei dividendi
 
 Riserva
 
 In virtù dell’articolo 8 paragrafo 3 sottoparagrafo a della Convenzione, la Confederazione Svizzera si riserva il diritto di non applicare la totalità dell’articolo 8 ai suoi Accordi fiscali coperti.
 
-### **Ad art. 9**Utili di capitale da alienazione di azioni o partecipazioni in entità il cui valore deriva principalmente da beni immobili
+## **Ad art. 9**Utili di capitale da alienazione di azioni o partecipazioni in entità il cui valore deriva principalmente da beni immobili
 
 Riserva
 
 In virtù dell’articolo 9 paragrafo 6 sottoparagrafo a della Convenzione, la Confederazione Svizzera si riserva il diritto di non applicare l’articolo 9 paragrafo 1 ai suoi Accordi fiscali coperti.
 
-### **Ad art. 10**Clausola antiabuso per le stabili organizzazioni situate in Giurisdizioni terze
+## **Ad art. 10**Clausola antiabuso per le stabili organizzazioni situate in Giurisdizioni terze
 
 Riserva
 
 In virtù dell’articolo 10 paragrafo 5 sottoparagrafo a della Convenzione, la Confederazione Svizzera si riserva il diritto di non applicare la totalità dell’articolo 10 ai suoi Accordi fiscali coperti.
 
-### **Ad art. 11**Applicazione di Accordi fiscali per limitare il diritto di una Parte di assoggettare ad imposta i propri residenti
+## **Ad art. 11**Applicazione di Accordi fiscali per limitare il diritto di una Parte di assoggettare ad imposta i propri residenti
 
 Riserva
 
 In virtù dell’articolo 11 paragrafo 3 sottoparagrafo a della Convenzione, la Confederazione Svizzera si riserva il diritto di non applicare la totalità dell’articolo 11 ai suoi Accordi fiscali coperti.
 
-### **Ad art. 12**Elusione artificiosa dello status di stabile organizzazione attraverso accordi di commissione («commissionnaire arrangements») e strategie simili
+## **Ad art. 12**Elusione artificiosa dello status di stabile organizzazione attraverso accordi di commissione («commissionnaire arrangements») e strategie simili
 
 Riserva
 
 In virtù dell’articolo 12 paragrafo 4 della Convenzione, la Confederazione Svizzera si riserva il diritto di non applicare la totalità dell’articolo 12 ai suoi Accordi fiscali coperti.
 
-### **Ad art. 13**Elusione artificiosa dello status di stabile organizzazione attraverso esenzioni per specifiche attività
+## **Ad art. 13**Elusione artificiosa dello status di stabile organizzazione attraverso esenzioni per specifiche attività
 
 Riserva
 
 In virtù dell’articolo 13 paragrafo 6 sottoparagrafo a della Convenzione, la Confederazione Svizzera si riserva il diritto di non applicare la totalità dell’articolo 13 ai suoi Accordi fiscali coperti.
 
-### **Ad art. 14**Suddivisione («splitting-up») di contratti
+## **Ad art. 14**Suddivisione («splitting-up») di contratti
 
 Riserva
 
 In virtù dell’articolo 14 paragrafo 3 sottoparagrafo a della Convenzione, la Confederazione Svizzera si riserva il diritto di non applicare la totalità dell’articolo 14 ai suoi Accordi fiscali coperti.
 
-### **Ad art. 15**Definizione di una persona strettamente correlata a un’impresa
+## **Ad art. 15**Definizione di una persona strettamente correlata a un’impresa
 
 Riserva
 
 In virtù dell’articolo 15 paragrafo 2 della Convenzione, la Confederazione Svizzera si riserva il diritto di non applicare la totalità dell’articolo 15 ai suoi Accordi fiscali coperti per i quali ha formulato le riserve di cui all’articolo 12 paragrafo 4, all’articolo 13 paragrafo 6 sottoparagrafo a o c oppure all’articolo 14 paragrafo 3 sottoparagrafo a.
 
-### **Ad art. 16**Procedura amichevole
+## **Ad art. 16**Procedura amichevole
 
 Riserve
 
@@ -1375,7 +1374,7 @@ In virtù dell’articolo 16 paragrafo 6 sottoparagrafo d clausola ii) della Con
 <tr><td>9</td><td>Messico</td></tr>
 </table>
 
-### **Ad art. 17**Rettifiche corrispondenti
+## **Ad art. 17**Rettifiche corrispondenti
 
 Notifica relativa alle disposizioni pertinenti degli Accordi fiscali coperti
 
@@ -1395,19 +1394,19 @@ In virtù dell’articolo 17 paragrafo 4 della Convenzione, la Confederazione Sv
 <tr><td>12</td><td>Turchia</td><td>Art. 9 par. 2</td></tr>
 </table>
 
-### **Ad art. 18**Opzione per l’applicazione della parte VI
+## **Ad art. 18**Opzione per l’applicazione della parte VI
 
 Notifica relativa all’opzione scelta
 
 In virtù dell’articolo 18 della Convenzione, con la presente la Confederazione Svizzera sceglie di applicare la parte VI.
 
-### **Ad art. 19**Arbitrato obbligatorio e vincolante
+## **Ad art. 19**Arbitrato obbligatorio e vincolante
 
 Riserva
 
 In virtù dell’articolo 19 paragrafo 11 della Convenzione, ai fini dell’applicazione dell’articolo 19 ai suoi Accordi fiscali coperti, la Confederazione Svizzera si riserva il diritto di sostituire il periodo di due anni indicato nell’articolo 19 paragrafo 1 sottoparagrafo b con un periodo di tre anni.
 
-### **Ad art. 24**Accordo su una diversa risoluzione
+## **Ad art. 24**Accordo su una diversa risoluzione
 
 Notifica relativa all’opzione scelta
 
@@ -1417,7 +1416,7 @@ Riserva
 
 In virtù dell’articolo 24 paragrafo 3 della Convenzione, la Confederazione Svizzera si riserva il diritto di applicare l’articolo 24 paragrafo 2 soltanto ai suoi Accordi fiscali coperti ai quali si applica l’articolo 23 paragrafo 2.
 
-### **Ad art. 26**Compatibilità
+## **Ad art. 26**Compatibilità
 
 Riserva
 
@@ -1431,7 +1430,7 @@ In virtù dell’articolo 26 paragrafo 4 della Convenzione, la Confederazione Sv
 <tr><td>8</td><td>Lussemburgo</td><td>Art. 25 par. 5 (secondo la modifica di cui all’art. 2 par. 2 di (a))</td></tr>
 </table>
 
-### **Ad art. 28**Riserve
+## **Ad art. 28**Riserve
 
 Riserve
 
@@ -1445,7 +1444,7 @@ In virtù dell’articolo 28 paragrafo 2 della Convenzione, la Confederazione Sv
   - i) è effettuata in un anno di imposta non ancora prescritto, ma concerne dei redditi di anni di imposta già prescritti; o
   - ii) è effettuata conformemente alla legislazione nazionale, che prevede termini di prescrizione più lunghi per i beni immateriali difficilmente valutabili rispetto ai termini di prescrizione usuali applicabili alla correzione di una tassazione.
 
-### **Ad art. 35**Efficacia
+## **Ad art. 35**Efficacia
 
 Riserve
 

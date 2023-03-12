@@ -3,20 +3,20 @@ sr: "0.671.1"
 title: Multilaterales Übereinkommen vom 24. November 2016 zur Umsetzung steuerabkommensbezogener Massnahmen zur Verhinderung der Gewinnverkürzung und Gewinnverlagerung
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/486"
 language: de
-version: 2019-12-01
+version: 2023-03-13
 adopted: 2016-11-24
 in_force: 2019-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/486/20191201/de/xml/fedlex-data-admin-ch-eli-cc-2020-486-20191201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/486/20191201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/486/20230313/de/xml/fedlex-data-admin-ch-eli-cc-2020-486-20230313-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/486/20230313/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Multilaterales**** Übereinkommen zur Umsetzung steuerabkommensbezogener Massnahmen zur Verhinderung der Gewinnverkürzung und Gewinnverlagerung
+# Multilaterales Übereinkommen zur Umsetzung steuerabkommensbezogener Massnahmen zur Verhinderung der Gewinnverkürzung und Gewinnverlagerung
 
 AS **2020** 2641; BBl **2018** 5389[^t-1]
 
-Übersetzung*[^t-2]*
+Übersetzung[^t-2]
 
 Abgeschlossen am 24. November 2016
 
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 29. August 2019
 
 Für die Schweiz in Kraft getreten am 1. Dezember 2019
 
-(Stand am 1. Dezember 2019)
+(Stand am 13. März 2023)
 
 [^t-1]: DE und AT: Mehrseitiges
 [^t-2]: Zwischen der Schweiz, Deutschland, Österreich, Belgien und dem Fürstentum Liechtenstein abgestimmte deutsche Übersetzung auf der Basis des englischen und des französischen Originaltextes. Unterschiede in den Übersetzungen Deutschlands (DE) und Österreichs (AT) sind gekennzeichnet.
@@ -154,19 +154,19 @@ Eine Vertragspartei dieses Übereinkommens kann sich vorbehalten:
 
 <sup>1.</sup> Eine Vertragspartei dieses Übereinkommens kann sich für die Anwendung entweder der Absätze 2 und 3 (Option A) oder der Absätze 4 und 5 (Option B) oder der Absätze 6 und 7 (Option C) oder für die Anwendung keiner der genannten Optionen entscheiden. Entscheiden sich die Vertragsstaaten eines unter das Übereinkommen fallenden Steuerabkommens jeweils für unterschiedliche Optionen (oder entscheidet sich ein Vertragsstaat für die Anwendung einer Option und der andere für die Anwendung keiner der Optionen), so gilt die von jedem Vertragsstaat gewählte Option für die in seinem Gebiet ansässigen Personen.
 
-Option A
+### Option A
 
 <sup>2.</sup> Bestimmungen eines unter das Übereinkommen fallenden Steuerabkommens, nach denen anderenfalls Einkünfte oder Vermögen einer in einem Vertragsstaat ansässigen Person in diesem Vertragsstaat von der Steuer befreit würden, um eine Doppelbesteuerung zu beseitigen, gelten nicht, wenn der andere Vertragsstaat die Bestimmungen des unter das Übereinkommen fallenden Steuerabkommens so anwendet, dass diese Einkünfte oder dieses Vermögen von der Steuer befreit sind beziehungsweise ist oder der Satz, mit dem diese Einkünfte oder dieses Vermögen besteuert werden können, begrenzt ist. In letzterem Fall gewährt der erstgenannte Vertragsstaat von der Steuer vom Einkommen oder Vermögen dieser ansässigen Person einen Abzug in Höhe der im anderen Vertragsstaat entrichteten Steuer. Dieser Abzug darf jedoch den Teil der vor Gewährung des Abzugs berechneten Steuer nicht übersteigen, der den Einkünften oder Vermögenswerten zugerechnet werden kann, die im anderen Vertragsstaat besteuert werden können.
 
 <sup>3.</sup> Absatz 2 gilt für ein unter das Übereinkommen fallendes Steuerabkommen, nach dem ein Vertragsstaat anderenfalls die in Absatz 2 beschriebenen Einkünfte oder das dort beschriebene Vermögen von der Steuer befreien müsste.
 
-Option B
+### Option B
 
 <sup>4.</sup> Bestimmungen eines unter das Übereinkommen fallenden Steuerabkommens, nach denen anderenfalls Einkünfte einer in einem Vertragsstaat ansässigen Person in diesem Vertragsstaat von der Steuer befreit würden, um eine Doppelbesteuerung zu beseitigen, weil diese Einkünfte von diesem Vertragsstaat als Dividende betrachtet werden, gelten nicht, wenn diese Einkünfte bei der Ermittlung der steuerpflichtigen Gewinne einer im anderen Vertragsstaat ansässigen Person nach dem Recht dieses anderen Vertragsstaats zu einem Abzug führen. In diesem Fall gewährt der erstgenannte Vertragsstaat von der Steuer vom Einkommen dieser ansässigen Person einen Abzug in Höhe der im anderen Vertragsstaat entrichteten Steuer vom Einkommen. Dieser Abzug darf jedoch den Teil der vor Gewährung des Abzugs berechneten Steuer vom Einkommen nicht übersteigen, der den Einkünften zugerechnet werden kann, die im anderen Vertragsstaat besteuert werden können.
 
 <sup>5.</sup> Absatz 4 gilt für ein unter das Übereinkommen fallendes Steuerabkommen, nach dem ein Vertragsstaat anderenfalls die in Absatz 4 beschriebenen Einkünfte von der Steuer befreien müsste.
 
-Option C
+### Option C
 
 - 6\. a)
 
@@ -234,12 +234,14 @@ Eine Vertragspartei dieses Übereinkommens kann sich ausserdem entscheiden, bei 
 
 <sup>6.</sup> Eine Vertragspartei dieses Übereinkommens kann sich auch entscheiden, die Absätze 8–13 (im Folgenden als «vereinfachte Bestimmung zur Beschränkung von Vergünstigungen» bezeichnet) auf ihre unter das Übereinkommen fallenden Steuerabkommen anzuwenden, indem sie die Notifikation nach Absatz 17 Buchstabe c abgibt. Die vereinfachte Bestimmung zur Beschränkung von Vergünstigungen gilt nur dann in Bezug auf ein unter das Übereinkommen fallendes Steuerabkommen, wenn sich alle Vertragsstaaten für ihre Anwendung entschieden haben.
 
-<sup>7.</sup> Vereinfachte Bestimmung zur Beschränkung von Vergünstigungen
+<sup>7.</sup>
 
 In Fällen, in denen sich einige, jedoch nicht alle Vertragsstaaten eines unter das Übereinkommen fallenden Steuerabkommens nach Absatz 6 für die Anwendung der vereinfachten Bestimmung zur Beschränkung von Vergünstigungen entscheiden, gilt die vereinfachte Bestimmung zur Beschränkung von Vergünstigungen ungeachtet des Absatzes 6 in Bezug auf die Gewährung von Vergünstigungen nach dem unter das Übereinkommen fallenden Steuerabkommen:
 
 - a) durch alle Vertragsstaaten, sofern alle Vertragsstaaten, die sich nicht nach Absatz 6 für die Anwendung der vereinfachten Bestimmung zur Beschränkung von Vergünstigungen entscheiden, einer derartigen Anwendung zustimmen, indem sie sich für die Anwendung dieses Buchstabens entscheiden und dies dem Depositar notifizieren; oder
 - b) ausschliesslich durch die Vertragsstaaten, die sich für die Anwendung der vereinfachten Bestimmung zur Beschränkung von Vergünstigungen entscheiden, sofern alle Vertragsstaaten, die sich nicht nach Absatz 6 für die Anwendung der vereinfachten Bestimmung zur Beschränkung von Vergünstigungen entscheiden, einer derartigen Anwendung zustimmen, indem sie sich für die Anwendung dieses Buchstabens entscheiden und dies dem Depositar notifizieren.
+
+### Vereinfachte Bestimmung zur Beschränkung von Vergünstigungen
 
 <sup>8.</sup> es sei denn, diese Person ist zu dem Zeitpunkt, zu dem die Vergünstigung gewährt würde, eine «berechtigte Person» im Sinne des Absatzes 9.
 
@@ -297,7 +299,7 @@ Im Sinne der vereinfachten Bestimmung zur Beschränkung von Vergünstigungen:
   - ii) jede andere von den zuständigen Behörden der Vertragsstaaten vereinbarte Börse;
 
 - b) bedeutet der Ausdruck «Hauptgattung von Anteilen» die Gattung oder Gattungen der Anteile einer Gesellschaft, welche die Mehrheit der Gesamtstimmrechte und des Gesamtwerts der Gesellschaft darstellt beziehungsweise darstellen, oder die Gattung oder Gattungen von Eigentumsrechten eines Rechtsträgers, die insgesamt eine Mehrheit der Gesamtstimmrechte und des Gesamtwerts des Rechtsträgers darstellt beziehungsweise darstellen;
-- c) bedeutet der Ausdruck «gleichberechtigter Begünstigter» eine Person, die in Bezug auf bestimmte Einkünfte Anspruch auf Vergünstigungen hätte, die durch einen Vertragsstaat eines unter das Übereinkommen fallenden Steuerabkommens nach dessen innerstaatlichem Recht[^7-1], dem unter das Übereinkommen fallenden Steuerabkommen oder einer anderen völkerrechtlichen Übereinkunft gewährt werden und den nach dem unter das Übereinkommen fallenden Steuerabkommen für diese Einkünfte zu gewährenden Vergünstigungen entsprechen oder vorteilhafter als diese sind; um festzustellen, ob eine Person in Bezug auf Dividenden ein gleichberechtigter Begünstigter ist, wird die Person so behandelt, als hielte sie genau das gleiche Kapital der die Dividenden zahlenden Gesellschaft, das die Gesellschaft hält, welche die Vergünstigung für die Dividenden fordert;
+- c) bedeutet der Ausdruck «gleichberechtigter Begünstigter» eine Person, die in Bezug auf bestimmte Einkünfte Anspruch auf Vergünstigungen hätte, die durch einen Vertragsstaat eines unter das Übereinkommen fallenden Steuerabkommens nach dessen innerstaatlichem Recht[^7-subdivu2-1], dem unter das Übereinkommen fallenden Steuerabkommen oder einer anderen völkerrechtlichen Übereinkunft gewährt werden und den nach dem unter das Übereinkommen fallenden Steuerabkommen für diese Einkünfte zu gewährenden Vergünstigungen entsprechen oder vorteilhafter als diese sind; um festzustellen, ob eine Person in Bezug auf Dividenden ein gleichberechtigter Begünstigter ist, wird die Person so behandelt, als hielte sie genau das gleiche Kapital der die Dividenden zahlenden Gesellschaft, das die Gesellschaft hält, welche die Vergünstigung für die Dividenden fordert;
 - d) bedeutet der Ausdruck «Anteile» bei Rechtsträgern, die keine Gesellschaften sind, mit Anteilen vergleichbare Rechte;
 - e) sind zwei Personen «verbundene Personen», wenn einer der beiden Personen mindestens 50 Prozent der Eigentumsrechte an der anderen Person (oder bei einer Gesellschaft mindestens 50 Prozent der Gesamtstimmrechte und des Gesamtwerts der Anteile der Gesellschaft) unmittelbar oder mittelbar gehören oder einer weiteren Person mindestens 50 Prozent der Eigentumsrechte an jeder Person (oder bei einer Gesellschaft mindestens 50 Prozent der Gesamtstimmrechte und des Gesamtwerts der Anteile der Gesellschaft) unmittelbar oder mittelbar gehören; in jedem Fall ist eine Person mit einer anderen Person verbunden, wenn allen massgeblichen Tatsachen und Umständen zufolge die eine die andere beherrscht oder beide von derselben Person oder denselben Personen beherrscht werden.
 
@@ -319,7 +321,7 @@ Eine Vertragspartei dieses Übereinkommens kann sich vorbehalten:
 - d) Jede Vertragspartei dieses Übereinkommens, die sich nicht nach Absatz 6 für die Anwendung der vereinfachten Bestimmung zur Beschränkung von Vergünstigungen, sondern für die Anwendung des Absatzes 7 Buchstabe a oder b entscheidet, notifiziert dem Depositar den gewählten Buchstaben. Sofern diese Vertragspartei nicht den Vorbehalt nach Absatz 15 Buchstabe c angebracht hat, muss diese Notifikation auch die Liste ihrer unter das Übereinkommen fallenden Steuerabkommen umfassen, die eine in Absatz 14 beschriebene Bestimmung enthalten, sowie jeweils die Nummer des Artikels und des Absatzes dieser Bestimmung.
 - e) Haben alle Vertragsstaaten eine Notifikation nach Buchstabe c oder d in Bezug auf eine Bestimmung eines unter das Übereinkommen fallenden Steuerabkommens abgegeben, so wird diese durch die vereinfachte Bestimmung zur Beschränkung von Vergünstigungen ersetzt. Anderenfalls geht die vereinfachte Bestimmung zur Beschränkung von Vergünstigungen den Bestimmungen des unter das Übereinkommen fallenden Steuerabkommens nur insoweit vor, als diese mit der vereinfachten Bestimmung zur Beschränkung von Vergünstigungen unvereinbar sind.
 
-[^7-1]: Anm. d. Übers.: im Fall von Gebieten oder Hoheitsgebieten: internem Recht
+[^7-subdivu2-1]: Anm. d. Übers.: im Fall von Gebieten oder Hoheitsgebieten: internem Recht
 
 #### Art. 8
 
@@ -468,17 +470,17 @@ Ungeachtet der Bestimmungen eines unter das Übereinkommen fallenden Steuerabkom
 
 <sup>1.</sup> Eine Vertragspartei dieses Übereinkommens kann sich entscheiden, Absatz 2 (Option A), Absatz 3 (Option B) oder keine der beiden Optionen anzuwenden.
 
-Option A
+### Option A
 
 <sup>2.</sup> sofern diese Tätigkeit oder im Fall des Buchstabens c die Gesamttätigkeit der festen Geschäftseinrichtung vorbereitender Art ist oder eine Hilfstätigkeit darstellt.
-
-Option B
 
 Ungeachtet der Bestimmungen eines unter das Übereinkommen fallenden Steuerabkommens, die den Ausdruck «Betriebsstätte» bestimmen, gelten folgende Fälle als nicht von dem Ausdruck «Betriebsstätte» umfasst:
 
 - a) die Tätigkeiten, die in dem unter das Übereinkommen fallenden Steuerabkommen (vor Änderung durch das Übereinkommen) ausdrücklich als nicht als Betriebsstätte geltende Tätigkeiten aufgeführt sind, unabhängig davon, ob diese Ausnahme vom Betriebsstättenstatus voraussetzt, dass die Tätigkeit vorbereitender Art ist oder eine Hilfstätigkeit darstellt;
 - b) eine feste Geschäftseinrichtung, die ausschliesslich zu dem Zweck unterhalten wird, für das Unternehmen eine nicht unter Buchstabe a beschriebene Tätigkeit auszuüben;
 - c) eine feste Geschäftseinrichtung, die ausschliesslich zu dem Zweck unterhalten wird, mehrere der unter den Buchstaben a und b genannten Tätigkeiten auszuüben;
+
+### Option B
 
 <sup>3.</sup>
 
@@ -1116,20 +1118,26 @@ Der Depositar führt öffentlich verfügbare Listen:
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Paris am 24. November 2016 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung hinterlegt wird. *(Es folgen die Unterschriften)*
 
-Geltungsbereich am 8. Juni 2020**[^t-4]**
+Geltungsbereich am 13. März 2023[^t-4]
 
 Die Schweiz ist durch die Bestimmungen des Multilateralen Übereinkommens zur Umsetzung steuerabkommensbezogener Massnahmen zur Verhinderung der Gewinnverkürzung und Gewinnverlagerung in Bezug auf die folgenden Staaten und Gebiete gebunden, gemäss Artikel 35(7)(b) in Verbindung mit Artikel 35(7)(a)(i) dieses Übereinkommens:
 
 <table>
 <tr><th></th><th>Wirksam ab</th></tr>
-<tr><td>Luxemburg[^t-5]</td><td>26. Juni 2020[^t-6]</td></tr>
+<tr><td>Island[^t-5]</td><td>15. Januar 2023[^t-6]</td></tr>
+<tr><td>Litauen</td><td>17. Januar 2021[^t-7]</td></tr>
+<tr><td>Luxemburg</td><td>26. Juni 2020[^t-8]</td></tr>
+<tr><td>Tschechische Republik</td><td>17. Januar 2021[^t-9]</td></tr>
 </table>
 
 ## Vorbehalte und Notifikationen der Schweizerischen Eidgenossenschaft
 
-[^t-4]: Die vollständige Liste der Unterzeichner und Vertragsparteien kann unter der Adresse www.oecd.org/fr/fiscalite/beps/convention-multilaterale-pour-la-mise-en-oeuvre-des-mesures-relatives-aux-conventions-fiscales-pour-prevenir-le-beps.htm eingesehen werden.
+[^t-4]: [AS 2023 132](https://fedlex.data.admin.ch/eli/oc/2023/132). Die vollständige Liste der Unterzeichner und Vertragsparteien kann unter der Adresse: www.oecd.org/fr/fiscalite/beps/convention-multilaterale-pour-la-mise-en-oeuvre-des-mesures-relatives-aux-conventions-fiscales-pour-prevenir-le-beps.htm eingesehen werden.
 [^t-5]: Das Wirksamwerden unterliegt einem Aktivierungsverfahren. Das erwähnte Datum ist dasjenige des ersten Wirksamwerdens zwischen der Schweiz und diesem Vertragsstaat, bzw. Hoheitsgebiet.
-[^t-6]: Siehe die Verständigungsvereinbarung vom 12. Mai 2020 zwischen der zuständigen Behörde der Schweizerischen Eidgenossenschaft und der zuständigen Behörde des Grossherzogtums von Luxemburg ([AS 2020 2715](https://fedlex.data.admin.ch/eli/oc/2020/487)).
+[^t-6]: Siehe die Verständigungsvereinbarung vom 15. Dezember 2022 zwischen der zuständigen Behörde der Schweizerischen Eidgenossenschaft und der zuständigen Behörde ([AS 2023 110](https://fedlex.data.admin.ch/eli/oc/2023/110)).
+[^t-7]: Siehe die Verständigungsvereinbarung vom 16. November 2020 zwischen der zuständigen Behörde der Schweizerischen Eidgenossenschaft und der zuständigen Behörde der Republik Litauen ([AS 2021 28](https://fedlex.data.admin.ch/eli/oc/2021/28)).
+[^t-8]: Siehe die Verständigungsvereinbarung vom 12. Mai 2020 zwischen der zuständigen Behörde der Schweizerischen Eidgenossenschaft und der zuständigen Behörde des Grossherzogtums von Luxemburg ([AS 2020 2715](https://fedlex.data.admin.ch/eli/oc/2020/487)).
+[^t-9]: Siehe die Verständigungsvereinbarung vom 24. November 2020 zwischen der zuständigen Behörde der Schweizerischen Eidgenossenschaft und der zuständigen Behörde der Tschechischen Republik ([AS 2021 29](https://fedlex.data.admin.ch/eli/oc/2021/29)).
 
 ### **Zu Art. 2**Auslegung von Ausdrücken
 

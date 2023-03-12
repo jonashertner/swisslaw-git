@@ -3,11 +3,11 @@ sr: "0.671.1"
 title: "Convention multilatérale pour la mise en uvre des mesures relatives aux conventions fiscales pour prévenir l'érosion de la base d'imposition et le transfert de bénéfices"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/486"
 language: fr
-version: 2019-12-01
+version: 2023-03-13
 adopted: 2016-11-24
 in_force: 2019-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/486/20191201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-486-20191201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/486/20191201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/486/20230313/fr/xml/fedlex-data-admin-ch-eli-cc-2020-486-20230313-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/486/20230313/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 29 août 2019
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> décembre 2019
 
-(Etat le 1<sup>er</sup> décembre 2019)
+(État le 13 mars 2023)
 
 [^t-1]: [RO 2020 2625](https://fedlex.data.admin.ch/eli/oc/2020/485)
 
@@ -146,19 +146,19 @@ Une Partie peut se réserver le droit:
 
 <sup>1.</sup> Une Partie peut choisir d’appliquer les par. 2 et 3 (Option A), les par. 4 et 5 (Option B) ou les par. 6 et 7 (Option C), ou peut choisir de n’appliquer aucune de ces options. Lorsque chaque Juridiction contractante ayant conclu une Convention fiscale couverte choisit une option différente (ou lorsqu’une Juridiction contractante choisit d’appliquer une option et l’autre décide de n’en appliquer aucune), l’option choisie par chaque Juridiction contractante s’applique à ses propres résidents.
 
-Option A
+*Option A*
 
 <sup>2.</sup> Les dispositions d’une Convention fiscale couverte qui auraient pour effet d’exempter d’impôt le revenu ou la fortune d’un résident d’une Juridiction contractante dans cette Juridiction contractante aux fins d’éliminer la double imposition, ne s’appliquent pas lorsque l’autre Juridiction contractante applique les dispositions de la Convention fiscale couverte pour exempter d’impôt ce revenu ou cette fortune ou pour limiter le taux auquel ce revenu ou cette fortune est imposé. Dans ce dernier cas, la première Juridiction contractante accorde sur l’impôt qu’elle perçoit sur le revenu ou la fortune de ce résident une déduction d’un montant égal à l’impôt payé dans cette autre Juridiction contractante. Cette déduction ne peut toutefois excéder la fraction de l’impôt, calculé avant déduction, correspondant aux éléments de revenu ou de fortune imposables dans cette autre Juridiction contractante.
 
 <sup>3.</sup> Le par. 2 s’applique à une Convention fiscale couverte qui exigerait par ailleurs d’une Juridiction contractante qu’elle exempte d’impôt le revenu ou la fortune décrit dans ce paragraphe.
 
-Option B
+*Option B*
 
 <sup>4.</sup> Les dispositions d’une Convention fiscale couverte qui auraient pour effet d’exempter d’impôt dans une Juridiction contractante un revenu d’un résident de cette Juridiction contractante aux fins d’éliminer la double imposition du fait que ce revenu est considéré comme un dividende par cette Juridiction contractante ne s’appliquent pas lorsque ce revenu donne lieu à une déduction pour la détermination des bénéfices imposables d’un résident de l’autre Juridiction contractante en vertu de la législation de cette autre Juridiction contractante. En pareil cas, la première Juridiction contractante accorde sur l’impôt qu’elle perçoit sur le revenu de ce résident une déduction d’un montant égal à l’impôt payé sur le revenu en cause dans cette autre Juridiction contractante. Cette déduction ne peut toutefois excéder la fraction de l’impôt sur le revenu, calculé avant déduction, correspondant à ce revenu imposable dans cette autre Juridiction contractante.
 
 <sup>5.</sup> Le par. 4 s’applique à une Convention fiscale couverte qui exigerait par ailleurs d’une Juridiction contractante qu’elle exempte d’impôt le revenu décrit dans ce paragraphe.
 
-Option C
+*Option C*
 
 - 6\. a)
 
@@ -228,7 +228,7 @@ Une Partie peut également choisir d’inclure le texte suivant dans le préambu
 
 <sup>6.</sup> Une Partie peut également choisir d’appliquer à ses Conventions fiscales couvertes les dispositions prévues aux par. 8 à 13 (ci-après dénommées la «règle simplifiée de limitation des avantages») en formulant une notification décrite à l’al. c) du par. 17. La règle simplifiée de limitation des avantages ne s’applique à l’égard d’une Convention fiscale couverte que si toutes les Juridictions contractantes choisissent de l’appliquer.
 
-<sup>7.</sup> Règle simplifiée de limitation des avantages
+<sup>7.</sup> *Règle simplifiée de limitation des avantages*
 
 Dans les cas où seulement certaines Juridictions contractantes qui ont conclu une Convention fiscale couverte choisissent d’appliquer la règle simplifiée de limitation des avantages en vertu du par. 6, alors, nonobstant les dispositions de ce paragraphe, la règle simplifiée de limitation des avantages s’applique à l’octroi des avantages prévus par une Convention fiscale couverte:
 
@@ -458,11 +458,11 @@ Nonobstant les dispositions d’une Convention fiscale couverte qui définissent
 
 <sup>1.</sup> Une Partie peut choisir d’appliquer le par. 2 (Option A) ou le par. 3 (Option B) ou de n’appliquer aucune de ces options.
 
-Option A
+*Option A*
 
 <sup>2.</sup> à condition que l’activité concernée ou, dans le cas de l’al. c), l’activité d’ensemble de l’installation fixe d’affaires, revête un caractère préparatoire ou auxiliaire.
 
-Option B
+*Option B*
 
 Nonobstant les dispositions d’une Convention fiscale couverte qui définissent l’expression «établissement stable», on considère qu’il n’y a pas d’«établissement stable» dans les cas suivants:
 
@@ -1090,20 +1090,26 @@ Le Dépositaire tient à jour des listes accessibles au public:
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Paris, le 24<sup>ème</sup> jour de novembre 2016, en anglais et français, les deux textes faisant également foi, en un exemplaire unique qui sera déposé aux archives de l’Organisation de coopération et de développement économiques. *(Suivent les signatures)*
 
-Champ d’application le 8 juin 2020[^t-2]
+Champ d’application le 13 mars 2023[^t-2]
 
 La Suisse est liée par les dispositions de la Convention multilatérale pour la mise en œuvre des mesures relatives aux Conventions fiscales pour prévenir l’érosion de la base d’imposition et le transfert de bénéfices à l’égard des États et territoires suivants en vertu de l’article 35(7)(b) en relation avec l’article 35(7)(a)(i) de cette convention:
 
 <table>
 <tr><th></th><th>Effectif dès le</th></tr>
-<tr><td>Luxembourg[^t-3]</td><td>26 juin 2020[^t-4]</td></tr>
+<tr><td>Islande[^t-3]</td><td>15 janvier 2023[^t-4]</td></tr>
+<tr><td>Lituanie</td><td>17 janvier 2021[^t-5]</td></tr>
+<tr><td>Luxembourg</td><td>26 juin 2020[^t-6]</td></tr>
+<tr><td>République tchèque</td><td>17 janvier 2021[^t-7]</td></tr>
 </table>
 
 ## Réserves et notifications de la Confédération suisse
 
-[^t-2]: La liste complète des Signataires et Parties se trouve sous www.oecd.org/fr/fiscalite/beps/convention-multilaterale-pour-la-mise-en-oeuvre-des-mesures-relatives-aux-conventions-fiscales-pour-prevenir-le-beps.htm.
-[^t-3]: La prise d’effet est soumise à une procédure d’activation. La date mentionnée est celle de la première prise d’effet entre la Suisse et cet Etat partie ou ce territoire.
-[^t-4]: Voir l’Accord amiable du 12 mai 2020 entre l’autorité compétente de la Confédération suisse et l’autorité compétente du Grand-Duché de Luxembourg ([RO 2020 2715](https://fedlex.data.admin.ch/eli/oc/2020/487)).
+[^t-2]: [RO 2023 132](https://fedlex.data.admin.ch/eli/oc/2023/132). La liste complète des Signataires et Parties se trouve sous www.oecd.org/fr/fiscalite/beps/convention-multilaterale-pour-la-mise-en-oeuvre-des-mesures-relatives-aux-conventions-fiscales-pour-prevenir-le-beps.htm.
+[^t-3]: La prise d’effet est soumise à une procédure d’activation. La date mentionnée est celle de la première prise d’effet entre la Suisse et cet État partie ou ce territoire.
+[^t-4]: Voir l’Accord amiable du 15 décembre 2022 entre l’autorité compétente de la Confédération suisse et l’autorité compétente de l’Islande ([RO 2023 110](https://fedlex.data.admin.ch/eli/oc/2023/110)).
+[^t-5]: Voir l’Accord amiable du 16 novembre 2020 entre l’autorité compétente de la Confédération suisse et l’autorité compétente de la République de Lituanie ([RO 2021 28](https://fedlex.data.admin.ch/eli/oc/2021/28)).
+[^t-6]: Voir l’Accord amiable du 12 mai 2020 entre l’autorité compétente de la Confédération suisse et l’autorité compétente du Grand-Duché de Luxembourg ([RO 2020 2715](https://fedlex.data.admin.ch/eli/oc/2020/487)).
+[^t-7]: Voir l’Accord amiable du 24 novembre 2020 entre l’autorité compétente de la Confédération suisse et l’autorité compétente de la République tchèque ([RO 2021 29](https://fedlex.data.admin.ch/eli/oc/2021/29)).
 
 ### **Ad art. 2**Interprétation des termes
 
