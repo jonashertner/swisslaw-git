@@ -3,11 +3,11 @@ sr: "131.216.2"
 title: "Constitution du canton de Nidwald, du 10 octobre 1965"
 eli: "https://fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga"
 language: fr
-version: 2011-03-02
+version: 2023-03-13
 adopted: 1965-10-10
 in_force: 1965-10-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga/20110302/fr/xml/fedlex-data-admin-ch-eli-cc-1965-3_619_631_611_fga-20110302-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20110302/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga/20230313/fr/xml/fedlex-data-admin-ch-eli-cc-1965-3_619_631_611_fga-20230313-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20230313/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20110302/fr"
 
 Traduction[^t-2][^t-1]
 
-du 10 octobre 1965 (État le 2 mars 2011)[^t-3]
+du 10 octobre 1965 (État le 13 mars 2023)[^t-3]
 
-[^t-1]: Accepté en [votation populaire du 2 mai 2010](http://www.admin.ch/ch/f/pore/va/20100502/index.html). Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^t-1]: Accepté en votation populaire du 2 mai 2010. Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 [^t-2]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
-[^t-3]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+[^t-3]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
 Au nom de Dieu Tout-Puissant!
 
@@ -34,7 +34,7 @@ a adopté la constitution suivante:
 
 [^lvlI-1]
 
-[^lvlI-1]: Accepté en [votation populaire du 22 sept. 1996](http://www.admin.ch/ch/f/pore/va/19960922/index.html). Garanti par l’Ass. féd. le 4 déc. 1997 (FF **1998** 77 art. 1 ch. 2, [1997 III 1033](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^lvlI-1]: Accepté en votation populaire du 22 sept. 1996. Garanti par l’Ass. féd. le 4 déc. 1997 (FF **1998** 77 art. 1 ch. 2, [1997 III 1033](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 
 ### A. Droits fondamentaux
 
@@ -69,7 +69,7 @@ Dans les limites du droit fédéral et des lois cantonales édictées pour sauve
 
 <sup>3</sup> Le canton et les communes encouragent la réalisation de l’égalité de fait entre les hommes et les femmes.
 
-[^2-1]: Accepté en [votation populaire du 22 sept. 1996](http://www.admin.ch/ch/f/pore/va/19960922/index.html). Garanti par l’Ass. féd. le 4 déc. 1997 (FF **1998** 77 art. 1 ch. 2, [1997 III 1033](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^2-1]: Accepté en votation populaire du 22 sept. 1996. Garanti par l’Ass. féd. le 4 déc. 1997 (FF **1998** 77 art. 1 ch. 2, [1997 III 1033](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 
 ### Protection juridique
 
@@ -83,13 +83,13 @@ Dans les limites du droit fédéral et des lois cantonales édictées pour sauve
 
 <sup>4</sup> …[^3-1]
 
-[^3-1]: Abrogé en [votation populaire du 2 mai 2010](http://www.admin.ch/ch/f/pore/va/20100502/index.html). Garantie de l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^3-1]: Abrogé en votation populaire du 2 mai 2010. Garantie de l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 #### Art. 4
 
 [^4-1]
 
-[^4-1]: Abrogé en [votation populaire du 2 mai 2010](http://www.admin.ch/ch/f/pore/va/20100502/index.html). Garantie de l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^4-1]: Abrogé en votation populaire du 2 mai 2010. Garantie de l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Rétroactivité
 
@@ -119,13 +119,13 @@ L’expropriation ou une restriction analogue de la propriété privée ou d’u
 
 Est citoyen actif toute personne de nationalité suisse qui est légalement établie dans le canton, a 18 ans révolus et n’est pas privée, en vertu de la loi, de ses droits politiques.
 
-[^8-1]: Accepté en [votation populaire du 22 sept. 1996](http://www.admin.ch/ch/f/pore/va/19960922/index.html). Garanti par l’Ass. féd. le 4 déc. 1997 (FF **1998** 77 art. 1 ch. 2, [1997 III 1033](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^8-1]: Accepté en votation populaire du 22 sept. 1996. Garanti par l’Ass. féd. le 4 déc. 1997 (FF **1998** 77 art. 1 ch. 2, [1997 III 1033](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 
 #### Art. 9
 
 [^9-1]
 
-[^9-1]: Abrogé en [votation populaire du 22 sept. 1996](http://www.admin.ch/ch/f/pore/va/19960922/index.html). Garantie de l’Ass. féd. le 4 déc. 1997 (FF **1998** 77 art. 1 ch. 2, [1997 III 1033](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^9-1]: Abrogé en votation populaire du 22 sept. 1996. Garantie de l’Ass. féd. le 4 déc. 1997 (FF **1998** 77 art. 1 ch. 2, [1997 III 1033](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 
 ### Exercice des droits politiques
 
@@ -234,6 +234,18 @@ Le canton encourage dans les limites de la législation la formation et le perfe
 <sup>1</sup> Le canton protège les richesses naturelles du pays.
 
 <sup>2</sup> Il encourage en particulier les mesures concernant la protection des eaux et de l’air contre la pollution, la conservation et l’exploitation des forêts, la protection du monde alpin, de même que les efforts entrepris dans le domaine de l’aménagement du territoire national et local.
+
+### Protection du climat
+
+#### Art. 21a
+
+[^21a-1]
+
+<sup>1</sup> Le canton et les communes s’engagent à atténuer le changement climatique et ses effets; ils prennent en compte les objectifs de la Confédération et des traités internationaux auxquels la Suisse est tenue et leurs mesures visent entre autres à réduire les émissions de gaz à effet de serre pour atteindre la neutralité climatique.
+
+<sup>2</sup> Ils peuvent encourager le développement et l’utilisation de technologies, matériaux et processus qui contribuent à la protection du climat et à l’adaptation au changement climatique.
+
+[^21a-1]: Accepté en votation populaire du 12 mars 2023, en vigueur depuis le 13 mars 2023. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 2; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Protection du paysage et des sites
 
@@ -404,7 +416,7 @@ Le canton garantit le maintien des couvents et des fondations religieuses.
 <sup>5</sup> La loi peut définir d’autres incompatibilités pour les membres des autorités cantonales ou communales.[^41-2]
 
 [^41-1]: Accepté en votation populaire du 1<sup>er</sup> déc. 1996. Garanti par l’Ass. féd. le 4 déc. 1997 (FF **1998** 77 art. 1 ch. 2, [1997 III 1033](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
-[^41-2]: Accepté en [votation populaire du 2 mai 2010](http://www.admin.ch/ch/f/pore/va/20100502/index.html). Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^41-2]: Accepté en votation populaire du 2 mai 2010. Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Élections
 
@@ -438,7 +450,7 @@ Les autorités cantonales et communales doivent être convoquées:
 
 La durée des mandats des autorités est de quatre ans.
 
-[^45-1]: Accepté en [votation populaire du 7 juin 1998](http://www.admin.ch/ch/f/pore/va/19980607/index.html). Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^45-1]: Accepté en votation populaire du 7 juin 1998. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
 
 ### Suspension des fonctions
 
@@ -484,7 +496,7 @@ Ne peuvent appartenir simultanément à une autre autorité cantonale ou communa
 
 <sup>5</sup> Ces dispositions ne s’appliquent ni au Grand Conseil ni aux parlements communaux.
 
-[^48-1]: Accepté en [votation populaire du 2 mai 2010](http://www.admin.ch/ch/f/pore/va/20100502/index.html). Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^48-1]: Accepté en votation populaire du 2 mai 2010. Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Siège des autorités
 
@@ -533,9 +545,9 @@ Le corps électoral élit:
 
 <sup>2</sup> … [^51-3]
 
-[^51-1]: Abrogé en [votation populaire du 28 nov. 1999](http://www.admin.ch/ch/f/pore/va/19991128/index.html). Garantie de l’Ass. féd. le 27 sept. 2000 ([FF 2000 4772](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 ch. 1 [3310](https://fedlex.data.admin.ch/eli/fga/2000/739)).
-[^51-2]: Accepté en [votation populaire du 8 juin 1997](http://www.admin.ch/ch/f/pore/va/19970608/index.html). Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
-[^51-3]: Abrogé en [votation populaire du 28 nov. 1999](http://www.admin.ch/ch/f/pore/va/19991128/index.html). Garanti de l’Ass. féd. le 27 sept. 2000 ([FF 2000 4772](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 ch. 1 [3310](https://fedlex.data.admin.ch/eli/fga/2000/739)).
+[^51-1]: Abrogé en votation populaire du 28 nov. 1999. Garantie de l’Ass. féd. le 27 sept. 2000 ([FF 2000 4772](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 ch. 1 [3310](https://fedlex.data.admin.ch/eli/fga/2000/739)).
+[^51-2]: Accepté en votation populaire du 8 juin 1997. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^51-3]: Abrogé en votation populaire du 28 nov. 1999. Garanti de l’Ass. féd. le 27 sept. 2000 ([FF 2000 4772](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 ch. 1 [3310](https://fedlex.data.admin.ch/eli/fga/2000/739)).
 
 ### Référendum obligatoire
 
@@ -550,7 +562,7 @@ Sont soumis au référendum obligatoire:
 - 5\. l’adoption des avis formulés par le Conseil d’État à l’intention de la Confédération, dans la mesure où ils se rapportent à des installations nucléaires, notamment des dépôts de déchets radioactifs, qui doivent être construites sur le territoire du canton d’Unterwald-le-Bas, ainsi qu’aux mesures préparatoires;
 - 6\. l’octroi de concessions d’utilisation du sous-sol à des fins d’exploitation, de production ou d’entreposage, y compris les mesures préparatoires, à l’exclusion de l’exploitation des eaux souterraines et de la géothermie.
 
-[^52-1]: Accepté en [votation populaire du 7 juin 1998](http://www.admin.ch/ch/f/pore/va/19980607/index.html). Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^52-1]: Accepté en votation populaire du 7 juin 1998. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
 
 ### Référendum facultatif
 
@@ -566,8 +578,8 @@ Sont soumis au référendum, lorsque 250 citoyens actifs le demandent dans les d
 
 <sup>2</sup> La votation a lieu dans l’année qui suit la publication de l’acte législatif ou de la décision.
 
-[^52a-1]: Accepté en [votation populaire du 7 juin 1998](http://www.admin.ch/ch/f/pore/va/19980607/index.html). Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
-[^52a-2]: Accepté en [votation populaire du 24 sept. 2000](http://www.admin.ch/ch/f/pore/va/20000924/index.html). Garanti par l’Ass. féd. le 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 2 [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^52a-1]: Accepté en votation populaire du 7 juin 1998. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^52a-2]: Accepté en votation populaire du 24 sept. 2000. Garanti par l’Ass. féd. le 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 2 [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
 
 ### Référendum consultatif
 
@@ -611,7 +623,7 @@ Peuvent déposer une initiative:
 
 <sup>4</sup> Quand le contre-projet est déposé par les citoyens actifs, les signatures doivent être recueillies dans les deux mois qui suivent son dépôt auprès de la chancellerie d’État; ce dépôt doit être fait dans les deux mois qui suivent la publication du projet du Grand Conseil.
 
-[^54a-1]: Accepté en [votation populaire du 7 juin 1998](http://www.admin.ch/ch/f/pore/va/19980607/index.html). Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^54a-1]: Accepté en votation populaire du 7 juin 1998. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
 
 ### Procédure
 
@@ -668,7 +680,7 @@ Le Grand Conseil se compose de soixante membres.
 
 <sup>2</sup> Le président n’est pas immédiatement rééligible.
 
-[^59-1]: Accepté en [votation populaire du 7 juin 1998](http://www.admin.ch/ch/f/pore/va/19980607/index.html). Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^59-1]: Accepté en votation populaire du 7 juin 1998. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
 
 ### Élections
 
@@ -689,10 +701,10 @@ Le Grand Conseil élit:
 <sup>2</sup> L’élection des présidents et des autres membres des tribunaux a lieu deux ans après les élections au Grand Conseil et au Conseil d’État. [^59a-5]
 
 [^59a-1]: Accepté en votation populaire du 1<sup>er</sup> déc. 1996. Garanti par l’Ass. féd. le 4 déc. 1997 (FF **1998** 77 art. 1 ch. 2, [1997 III 1033](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
-[^59a-2]: Accepté en [votation populaire du 28 nov. 1999](http://www.admin.ch/ch/f/pore/va/19991128/index.html). Garanti par l’Ass. féd. le 27 sept. 2000 ([FF 2000 4772](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 ch. 1 [3310](https://fedlex.data.admin.ch/eli/fga/2000/739)).
-[^59a-3]: Accepté en [votation populaire du 28 nov. 1999](http://www.admin.ch/ch/f/pore/va/19991128/index.html). Garanti par l’Ass. féd. le 27 sept. 2000 ([FF 2000 4772](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 ch. 1 [3310](https://fedlex.data.admin.ch/eli/fga/2000/739)).
-[^59a-4]: Accepté en [votation populaire du 28 nov. 1999](http://www.admin.ch/ch/f/pore/va/19991128/index.html). Garanti par l’Ass. féd. le 27 sept. 2000 ([FF 2000 4772](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 ch. 1 [3310](https://fedlex.data.admin.ch/eli/fga/2000/739)).
-[^59a-5]: Accepté en [votation populaire du 2 mai 2010](http://www.admin.ch/ch/f/pore/va/20100502/index.html). Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^59a-2]: Accepté en votation populaire du 28 nov. 1999. Garanti par l’Ass. féd. le 27 sept. 2000 ([FF 2000 4772](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 ch. 1 [3310](https://fedlex.data.admin.ch/eli/fga/2000/739)).
+[^59a-3]: Accepté en votation populaire du 28 nov. 1999. Garanti par l’Ass. féd. le 27 sept. 2000 ([FF 2000 4772](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 ch. 1 [3310](https://fedlex.data.admin.ch/eli/fga/2000/739)).
+[^59a-4]: Accepté en votation populaire du 28 nov. 1999. Garanti par l’Ass. féd. le 27 sept. 2000 ([FF 2000 4772](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 ch. 1 [3310](https://fedlex.data.admin.ch/eli/fga/2000/739)).
+[^59a-5]: Accepté en votation populaire du 2 mai 2010. Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Législation
 
@@ -712,7 +724,7 @@ Le Grand Conseil édicte en la forme de la loi:
 
 <sup>3</sup> Il édicte le règlement régissant son activité.
 
-[^60-1]: Accepté en [votation populaire du 7 juin 1998](http://www.admin.ch/ch/f/pore/va/19980607/index.html). Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^60-1]: Accepté en votation populaire du 7 juin 1998. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
 
 ### Autres tâches
 
@@ -738,9 +750,9 @@ Sont en outre de la compétence du Grand Conseil:
 - 14\. toutes les autres tâches qui, en vertu de la législation, incombent au Grand Conseil.
 
 [^61-1]: Accepté en votation populaire du 1<sup>er</sup> déc. 1996. Garanti par l’Ass. féd. le 4 déc. 1997 (FF **1998** 77 art. 1 ch. 2, [1997 III 1033](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
-[^61-2]: Accepté en [votation populaire du 7 juin 1998](http://www.admin.ch/ch/f/pore/va/19980607/index.html). Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
-[^61-3]: Accepté en [votation populaire du 24 sept. 2000](http://www.admin.ch/ch/f/pore/va/20000924/index.html). Garanti par l’Ass. féd. le 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 2 [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
-[^61-4]: Accepté en [votation populaire du 7 juin 1998](http://www.admin.ch/ch/f/pore/va/19980607/index.html). Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^61-2]: Accepté en votation populaire du 7 juin 1998. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^61-3]: Accepté en votation populaire du 24 sept. 2000. Garanti par l’Ass. féd. le 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 2 [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^61-4]: Accepté en votation populaire du 7 juin 1998. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
 
 ### Droit de présenter des initiatives
 
@@ -760,7 +772,7 @@ Sont en outre de la compétence du Grand Conseil:
 
 Le Conseil d’État se compose de sept membres.
 
-[^62a-1]: Accepté en [votation populaire du 8 juin 1997](http://www.admin.ch/ch/f/pore/va/19970608/index.html). Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^62a-1]: Accepté en votation populaire du 8 juin 1997. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
 
 ### Départements
 
@@ -787,7 +799,7 @@ Le Conseil d’État édicte:
 
 <sup>2</sup> Il édicte des arrêtés de nécessité d’une durée limitée; ceux-ci doivent être soumis dès que possible au Grand Conseil qui décide s’ils doivent rester en vigueur et pour quelle durée.
 
-[^64-1]: Accepté en [votation populaire du 7 juin 1998](http://www.admin.ch/ch/f/pore/va/19980607/index.html). Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^64-1]: Accepté en votation populaire du 7 juin 1998. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
 
 ### Attributions administratives
 
@@ -811,7 +823,7 @@ II a notamment pour compétence et pour mandat:
 - 10\. d’administrer la fortune cantonale et d’en disposer dans les limites du ch. 9;
 - 11\. d’accomplir toutes les autres tâches qui lui sont confiées par la loi.
 
-[^65-1]: Accepté en [votation populaire du 7 juin 1998](http://www.admin.ch/ch/f/pore/va/19980607/index.html). Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^65-1]: Accepté en votation populaire du 7 juin 1998. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
 [^65-2]: Accepté en votation populaire du 1<sup>er</sup> déc. 1996. Garanti par l’Ass. féd. le 4 déc. 1997 (FF **1998** 77 art. 1 ch. 2, [1997 III 1033](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 [^65-3]: Accepté en votation populaire du 1<sup>er</sup> déc. 1996. Garanti par l’Ass. féd. le 4 déc. 1997 (FF **1998** 77 art. 1 ch. 2, [1997 III 1033](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 [^65-4]: Accepté en votation populaire du 1<sup>er</sup> déc. 1996. Garanti par l’Ass. féd. le 4 déc. 1997 (FF **1998** 77 art. 1 ch. 2, [1997 III 1033](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
@@ -828,7 +840,7 @@ II a notamment pour compétence et pour mandat:
 
 <sup>2</sup> Les lois qui violent la présente constitution ou qui sont contraires au droit fédéral ainsi que les actes normatifs qui sont inconstitutionnels ou illégaux ne lient pas les tribunaux.[^66-1]
 
-[^66-1]: Accepté en [votation populaire du 7 juin 1998](http://www.admin.ch/ch/f/pore/va/19980607/index.html). Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^66-1]: Accepté en votation populaire du 7 juin 1998. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
 
 ### Juridiction civile
 
@@ -845,7 +857,7 @@ La justice civile est rendue par:
 
 <sup>2</sup> La loi règle l’organisation des autorités de conciliation.
 
-[^67-1]: Accepté en [votation populaire du 2 mai 2010](http://www.admin.ch/ch/f/pore/va/20100502/index.html). Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^67-1]: Accepté en votation populaire du 2 mai 2010. Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Juridiction pénale
 
@@ -867,7 +879,7 @@ La loi:
 - 1\. règle l’organisation des autorités de poursuite pénale;
 - 2\. peut attribuer des compétences en matière de droit pénal administratif aux autorités administratives cantonales ou communales sous réserve du contrôle juridictionnel.
 
-[^67a-1]: Accepté en [votation populaire du 2 mai 2010](http://www.admin.ch/ch/f/pore/va/20100502/index.html). Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^67a-1]: Accepté en votation populaire du 2 mai 2010. Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Juridiction administrative
 
@@ -877,7 +889,7 @@ La loi:
 
 La justice en matière de droit administratif et de droit des assurances sociales est rendue par le Tribunal administratif.
 
-[^68-1]: Accepté en [votation populaire du 2 mai 2010](http://www.admin.ch/ch/f/pore/va/20100502/index.html). Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^68-1]: Accepté en votation populaire du 2 mai 2010. Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Juridiction constitutionnelle
 
@@ -915,7 +927,7 @@ La loi peut instituer:
 - 1\. des tribunaux spécialisés pour certains types de litiges;
 - 2\. des tribunaux intercantonaux.
 
-[^69a-1]: Accepté en [votation populaire du 2 mai 2010](http://www.admin.ch/ch/f/pore/va/20100502/index.html). Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^69a-1]: Accepté en votation populaire du 2 mai 2010. Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### C. Les pouvoirs communaux
 
@@ -980,7 +992,7 @@ L’assemblée communale, le conseil administratif et son président sont les or
 
 <sup>3</sup> Le président, le vice-président ou le mieux élu des autres membres du conseil administratif conduisent les délibérations.
 
-[^75-1]: Accepté en [votation populaire du 7 juin 1998](http://www.admin.ch/ch/f/pore/va/19980607/index.html). Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^75-1]: Accepté en votation populaire du 7 juin 1998. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
 
 ### Décisions obligatoires
 
@@ -1006,7 +1018,7 @@ Entrent dans la compétence de l’assemblée de commune:
 
 <sup>2</sup> La votation doit avoir lieu lors de la prochaine assemblée communale.
 
-[^77-1]: Accepté en [votation populaire du 7 juin 1998](http://www.admin.ch/ch/f/pore/va/19980607/index.html). Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^77-1]: Accepté en votation populaire du 7 juin 1998. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
 
 ### Droit d’initiative
 
@@ -1245,7 +1257,7 @@ Jusqu’à l’adoption de la nouvelle législation sur la responsabilité des c
 
 [^99100-1]
 
-[^99100-1]: Abrogés en [votation populaire du 2 mai 2010](http://www.admin.ch/ch/f/pore/va/20100502/index.html). Garantie de l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^99100-1]: Abrogés en votation populaire du 2 mai 2010. Garantie de l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Communes
 
@@ -1283,7 +1295,7 @@ Si la partie de la commune d’Oberdorf qui appartient à la paroisse catholique
 
 Les taux d’imposition actuels demeurent en vigueur jusqu’à l’entrée en vigueur de l’arrêté du Grand Conseil fixant le taux de l’impôt cantonal et d’un arrêté du Grand Conseil fixant le taux de l’impôt ecclésiastique pour les personnes morales.
 
-[^104-1]: Accepté en [votation populaire du 24 sept. 2000](http://www.admin.ch/ch/f/pore/va/20000924/index.html). Garanti par l’Ass. féd. le 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 2 [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^104-1]: Accepté en votation populaire du 24 sept. 2000. Garanti par l’Ass. féd. le 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 2 [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
 
 ### Communes d’assistance publique
 
@@ -1303,7 +1315,7 @@ Les taux d’imposition actuels demeurent en vigueur jusqu’à l’entrée en v
 
 <sup>2</sup> En vue de la composition de la présidence des tribunaux et du renouvellement des juges dont le mandat expire en 2010, une élection aura lieu en 2010 pour la durée du mandat restant à effectuer jusqu’en 2012.
 
-[^106-1]: Accepté en [votation populaire du 2 mai 2010](http://www.admin.ch/ch/f/pore/va/20100502/index.html). Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^106-1]: Accepté en votation populaire du 2 mai 2010. Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Garantie
 
@@ -1311,7 +1323,7 @@ Les taux d’imposition actuels demeurent en vigueur jusqu’à l’entrée en v
 
 Le Grand Conseil est autorisé à mettre en harmonie avec la constitution fédérale[^107-1] celles des dispositions de la présente constitution que l’Assemblée fédérale pourrait déclarer contraires à la constitution fédérale.
 
-[^107-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^107-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 
 ## Index des matières
 
@@ -1762,6 +1774,7 @@ Peuple
 **Protection**
 
 - – nature, paysage, patrimoine, culture 21, 22
+- – climat 21*a*
 - – sécurité sociale 25–29
 
 Publicité

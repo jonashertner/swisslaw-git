@@ -3,11 +3,11 @@ sr: "131.216.2"
 title: "Costituzione del Cantone di Nidvaldo, del 10 ottobre 1965"
 eli: "https://fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga"
 language: it
-version: 2011-03-02
+version: 2023-03-13
 adopted: 1965-10-10
 in_force: 1965-10-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga/20110302/it/xml/fedlex-data-admin-ch-eli-cc-1965-3_619_631_611_fga-20110302-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20110302/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga/20230313/it/xml/fedlex-data-admin-ch-eli-cc-1965-3_619_631_611_fga-20230313-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20230313/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20110302/it"
 
 Traduzione[^t-2][^t-1]
 
-del 10 ottobre 1965 (Stato 2 marzo 2011)[^t-3]
+del 10 ottobre 1965 (Stato 13 marzo 2023)[^t-3]
 
-[^t-1]: Accettato nella [votazione popolare del 2 mag. 2010](http://www.admin.ch/ch/i/pore/va/20100502/index.html), in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^t-1]: Accettato nella votazione popolare del 2 mag. 2010, in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 [^t-2]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
-[^t-3]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
+[^t-3]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
 
 In nome di Dio Onnipotente!
 
@@ -34,7 +34,7 @@ si è dato la presente Costituzione:
 
 [^lvlI-1]
 
-[^lvlI-1]: Accettato nella [votazione popolare del 22 set. 1996](http://www.admin.ch/ch/i/pore/va/19960922/index.html), in vigore dal 22 set. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^lvlI-1]: Accettato nella votazione popolare del 22 set. 1996, in vigore dal 22 set. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
 
 ### A. Diritti fondamentali
 
@@ -69,7 +69,7 @@ Nei limiti fissati dal diritto federale e dalle leggi cantonali emanate a tutela
 
 <sup>3</sup> Il Cantone e i Comuni promuovono l’effettiva parità dei sessi.
 
-[^2-1]: Accettato nella [votazione popolare del 22 set. 1996](http://www.admin.ch/ch/i/pore/va/19960922/index.html), in vigore dal 22 set. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^2-1]: Accettato nella votazione popolare del 22 set. 1996, in vigore dal 22 set. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
 
 ### Tutela giurisdizionale
 
@@ -83,13 +83,13 @@ Nei limiti fissati dal diritto federale e dalle leggi cantonali emanate a tutela
 
 <sup>4</sup> …[^3-1]
 
-[^3-1]: Abrogato nella [votazione popolare del 2 mag. 2010](http://www.admin.ch/ch/i/pore/va/20100502/index.html), con effetto dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^3-1]: Abrogato nella votazione popolare del 2 mag. 2010, con effetto dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 #### Art. 4
 
 [^4-1]
 
-[^4-1]: Abrogato nella [votazione popolare del 2 mag. 2010](http://www.admin.ch/ch/i/pore/va/20100502/index.html), con effetto dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^4-1]: Abrogato nella votazione popolare del 2 mag. 2010, con effetto dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Irretroattività
 
@@ -119,13 +119,13 @@ In caso di espropriazione o di equivalente restrizione della proprietà privata 
 
 È cittadino attivo chi ha la cittadinanza svizzera e si è legalmente stabilito nel Cantone, ha compiuto i 18 anni e per legge non è privato dei diritti politici.
 
-[^8-1]: Accettato nella [votazione popolare del 22 set. 1996](http://www.admin.ch/ch/i/pore/va/19960922/index.html), in vigore dal 22 set. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^8-1]: Accettato nella votazione popolare del 22 set. 1996, in vigore dal 22 set. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
 
 #### Art. 9
 
 [^9-1]
 
-[^9-1]: Abrogato nella [votazione popolare del 22 set. 1996](http://www.admin.ch/ch/i/pore/va/19960922/index.html), con effetto dal 22 set. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^9-1]: Abrogato nella votazione popolare del 22 set. 1996, con effetto dal 22 set. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
 
 ### Esercizio dei diritti politici
 
@@ -163,7 +163,7 @@ L’acquisto e la perdita della cittadinanza cantonale e comunale sono disciplin
 
 <sup>3</sup> Ogni cittadino attivo è tenuto ad assumere, per la durata di un mandato, la funzione ufficiale che gli è affidata in conformità della Costituzione, per quanto si tratti di funzione a titolo accessorio; la legge definisce le eccezioni.
 
-[^13-1]: Accettato nella [votazione popolare del 1° dic. 1996](http://www.admin.ch/ch/i/pore/va/19961201/index.html), in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^13-1]: Accettato nella votazione popolare del 1° dic. 1996, in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
 
 ## II. Compiti pubblici
 
@@ -234,6 +234,18 @@ Il Cantone promuove mediante sussidi, nei limiti fissati dalla legislazione, la 
 <sup>1</sup> Il Cantone protegge le ricchezze naturali del Paese.
 
 <sup>2</sup> Esso promuove in particolare le misure di protezione delle acque e dell’aria dall’inquinamento, la conservazione e lo sfruttamento delle foreste, la protezione del mondo alpestre, nonché gli sforzi nell’ambito della pianificazione territoriale nazionale e locale.
+
+### Protezione del clima
+
+#### Art. 21a
+
+[^21a-1]
+
+<sup>1</sup> Il Cantone e i Comuni si adoperano per limitare i cambiamenti climatici e i loro effetti; tengono conto degli obiettivi della Confederazione e degli accordi internazionali vincolanti per la Svizzera; le misure che adottano sono volte segnatamente a ridurre le emissioni di gas serra al fine di raggiungere la neutralità climatica.
+
+<sup>2</sup> Possono promuovere lo sviluppo e l’impiego di tecnologie, materiali e processi che contribuiscono alla protezione del clima e all’adattamento ai cambiamenti climatici.
+
+[^21a-1]: Accettato nella votazione popolare del 12 marz. 2023, in vigore dal 13 mar. 2024. Garanzia dell’AF del 14 mar. 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 2; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Protezione del paesaggio
 
@@ -403,8 +415,8 @@ Il Cantone garantisce la sopravvivenza dei conventi e delle fondazioni religiose
 
 <sup>5</sup> La legge può stabilire altre incompatibilità per i membri delle autorità cantonali o comunali.[^41-2]
 
-[^41-1]: Accettato nella [votazione popolare del 1° dic. 1996](http://www.admin.ch/ch/i/pore/va/19961201/index.html), in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
-[^41-2]: Accettato nella [votazione popolare del 2 mag. 2010](http://www.admin.ch/ch/i/pore/va/20100502/index.html), in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^41-1]: Accettato nella votazione popolare del 1° dic. 1996, in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^41-2]: Accettato nella votazione popolare del 2 mag. 2010, in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Elezioni
 
@@ -438,7 +450,7 @@ Le autorità cantonali e comunali devono essere convocate:
 
 La durata del mandato delle autorità è di quattro anni.
 
-[^45-1]: Accettato nella [votazione popolare del 7 giu. 1998](http://www.admin.ch/ch/i/pore/va/19980607/index.html), in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
+[^45-1]: Accettato nella votazione popolare del 7 giu. 1998, in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
 
 ### Sospensione e destituzione
 
@@ -484,7 +496,7 @@ Non possono far parte simultaneamente di un’altra autorità cantonale o comuna
 
 <sup>5</sup> Queste disposizioni non si applicano né al Gran Consiglio né ai parlamenti comunali.
 
-[^48-1]: Accettato nella [votazione popolare del 2 mag. 2010](http://www.admin.ch/ch/i/pore/va/20100502/index.html), in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^48-1]: Accettato nella votazione popolare del 2 mag. 2010, in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Sede delle autorità
 
@@ -508,7 +520,7 @@ La legge può, per il caso di catastrofi e eventi bellici, conferire al Gran Con
 
 [^lvlIV-lvlB-lvl1-1]
 
-[^lvlIV-lvlB-lvl1-1]: Accettato nella [votazione popolare del 1° dic. 1996](http://www.admin.ch/ch/i/pore/va/19961201/index.html), in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^lvlIV-lvlB-lvl1-1]: Accettato nella votazione popolare del 1° dic. 1996, in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
 
 ### Esercizio del diritto di voto
 
@@ -533,9 +545,9 @@ Gli aventi diritto di voto eleggono:
 
 <sup>2</sup> … [^51-3]
 
-[^51-1]: Abrogato nella [votazione popolare del 28 nov. 1999](http://www.admin.ch/ch/i/pore/va/19991128/index.html), in vigore dal 28 nov. 1999. Garanzia dell’AF del 27 set. 2000 ([FF 2000 4495](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 n. 1 [3123](https://fedlex.data.admin.ch/eli/fga/2000/739)).
+[^51-1]: Abrogato nella votazione popolare del 28 nov. 1999, in vigore dal 28 nov. 1999. Garanzia dell’AF del 27 set. 2000 ([FF 2000 4495](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 n. 1 [3123](https://fedlex.data.admin.ch/eli/fga/2000/739)).
 [^51-2]: Accettato nella votazione popolare dell’8 giu. 1997, in vigore dall’8 giu. 1997. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
-[^51-3]: Abrogato nella [votazione popolare del 28 nov. 1999](http://www.admin.ch/ch/i/pore/va/19991128/index.html), con effetto dal 28 nov. 1999. Garanzia dell’AF del 27 set. 2000 ([FF 2000 4495](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 n. 1 [3123](https://fedlex.data.admin.ch/eli/fga/2000/739)).
+[^51-3]: Abrogato nella votazione popolare del 28 nov. 1999, con effetto dal 28 nov. 1999. Garanzia dell’AF del 27 set. 2000 ([FF 2000 4495](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 n. 1 [3123](https://fedlex.data.admin.ch/eli/fga/2000/739)).
 
 ### Referendum obbligatorio
 
@@ -550,7 +562,7 @@ Sottostanno obbligatoriamente al voto del Popolo:
 - 5\. i pareri del Consiglio di Stato a destinazione della Confederazione, per quanto si riferiscano a impianti nucleari, segnatamente a depositi di scorie radioattive, e relative operazioni preliminari sul territorio del Cantone;
 - 6\. il rilascio di concessioni di sfruttamento del sottosuolo a fini di estrazione, produzione e deposito, nonché l’autorizzazione delle relative operazioni preliminari, eccettuato lo sfruttamento delle falde freatiche e della geotermia.
 
-[^52-1]: Accettato nella [votazione popolare del 7 giu. 1998](http://www.admin.ch/ch/i/pore/va/19980607/index.html), in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
+[^52-1]: Accettato nella votazione popolare del 7 giu. 1998, in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
 
 ### Referendum facoltativo
 
@@ -566,8 +578,8 @@ Sono sottoposti al voto del Popolo, se entro due mesi dalla loro pubblicazione a
 
 <sup>2</sup> La votazione si svolge nell’anno che segue la pubblicazione dell’atto normativo o della decisione.
 
-[^52a-1]: Accettato nella [votazione popolare del 7 giu. 1998](http://www.admin.ch/ch/i/pore/va/19980607/index.html), in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
-[^52a-2]: Accettato nella [votazione popolare del 24 set. 2000](http://www.admin.ch/ch/i/pore/va/20000924/index.html), in vigore dal 24 set. 2000. Garanzia dell’AF dell’11 dic. 2001 ([FF 2001 5802](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 n. 2 [4365](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^52a-1]: Accettato nella votazione popolare del 7 giu. 1998, in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
+[^52a-2]: Accettato nella votazione popolare del 24 set. 2000, in vigore dal 24 set. 2000. Garanzia dell’AF dell’11 dic. 2001 ([FF 2001 5802](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 n. 2 [4365](https://fedlex.data.admin.ch/eli/fga/2001/813)).
 
 ### Votazioni consultive
 
@@ -611,7 +623,7 @@ Possono presentare un’iniziativa:
 
 <sup>4</sup> Per i controprogetti presentati dai cittadini attivi, le firme devono essere raccolte entro due mesi dal deposito del testo presso la Cancelleria dello Stato; il deposito deve avvenire entro due mesi dalla pubblicazione del progetto del Gran Consiglio.
 
-[^54a-1]: Accettato nella [votazione popolare del 7 giu. 1998](http://www.admin.ch/ch/i/pore/va/19980607/index.html), in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
+[^54a-1]: Accettato nella votazione popolare del 7 giu. 1998, in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
 
 ### Procedura
 
@@ -668,7 +680,7 @@ Il Gran Consiglio si compone di 60 membri.
 
 <sup>2</sup> Il presidente uscente non è immediatamente rieleggibile.
 
-[^59-1]: Accettato nella [votazione popolare del 7 giu. 1998](http://www.admin.ch/ch/i/pore/va/19980607/index.html), in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
+[^59-1]: Accettato nella votazione popolare del 7 giu. 1998, in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
 
 ### Elezioni
 
@@ -688,11 +700,11 @@ Il Gran Consiglio elegge:
 
 <sup>2</sup> L’elezione dei giudici e l’assegnazione della presidenza dei tribunali avvengono due anni dopo le elezioni del Gran Consiglio e del Consiglio di Stato. [^59a-5]
 
-[^59a-1]: Accettato nella [votazione popolare del 1° dic. 1996](http://www.admin.ch/ch/i/pore/va/19961201/index.html), in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
-[^59a-2]: Accettato nella [votazione popolare del 28 nov. 1999](http://www.admin.ch/ch/i/pore/va/19991128/index.html), in vigore dal 28 nov. 1999. Garanzia dell’AF del 27 set. 2000 ([FF 2000 4495](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 n. 1 [3123](https://fedlex.data.admin.ch/eli/fga/2000/739)).
-[^59a-3]: Accettato nella [votazione popolare del 28 nov. 1999](http://www.admin.ch/ch/i/pore/va/19991128/index.html), in vigore dal 28 nov. 1999. Garanzia dell’AF del 27 set. 2000 ([FF 2000 4495](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 n. 1 [3123](https://fedlex.data.admin.ch/eli/fga/2000/739)).
-[^59a-4]: Accettato nella [votazione popolare del 28 nov. 1999](http://www.admin.ch/ch/i/pore/va/19991128/index.html), in vigore dal 28 nov. 1999. Garanzia dell’AF del 27 set. 2000 ([FF 2000 4495](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 n. 1 [3123](https://fedlex.data.admin.ch/eli/fga/2000/739)).
-[^59a-5]: Accettato nella [votazione popolare del 2 mag. 2010](http://www.admin.ch/ch/i/pore/va/20100502/index.html), in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^59a-1]: Accettato nella votazione popolare del 1° dic. 1996, in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^59a-2]: Accettato nella votazione popolare del 28 nov. 1999, in vigore dal 28 nov. 1999. Garanzia dell’AF del 27 set. 2000 ([FF 2000 4495](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 n. 1 [3123](https://fedlex.data.admin.ch/eli/fga/2000/739)).
+[^59a-3]: Accettato nella votazione popolare del 28 nov. 1999, in vigore dal 28 nov. 1999. Garanzia dell’AF del 27 set. 2000 ([FF 2000 4495](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 n. 1 [3123](https://fedlex.data.admin.ch/eli/fga/2000/739)).
+[^59a-4]: Accettato nella votazione popolare del 28 nov. 1999, in vigore dal 28 nov. 1999. Garanzia dell’AF del 27 set. 2000 ([FF 2000 4495](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 n. 1 [3123](https://fedlex.data.admin.ch/eli/fga/2000/739)).
+[^59a-5]: Accettato nella votazione popolare del 2 mag. 2010, in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Legislazione
 
@@ -712,7 +724,7 @@ Il Gran Consiglio emana in forma di legge:
 
 <sup>3</sup> Emana il regolamento interno necessario per la sua attività.
 
-[^60-1]: Accettato nella [votazione popolare del 7 giu. 1998](http://www.admin.ch/ch/i/pore/va/19980607/index.html), in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
+[^60-1]: Accettato nella votazione popolare del 7 giu. 1998, in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
 
 ### Altri compiti
 
@@ -737,10 +749,10 @@ Sono inoltre di competenza del Gran Consiglio:
 - 13\. l’alta vigilanza sulla gestione dei tribunali, in particolare l’approvazione dei rendiconti annuali;
 - 14\. tutti gli altri compiti assegnatigli dalla legislazione.
 
-[^61-1]: Accettato nella [votazione popolare del 1° dic. 1996](http://www.admin.ch/ch/i/pore/va/19961201/index.html), in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
-[^61-2]: Accettato nella [votazione popolare del 7 giu. 1998](http://www.admin.ch/ch/i/pore/va/19980607/index.html), in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
-[^61-3]: Accettato nella [votazione popolare del 24 set. 2000](http://www.admin.ch/ch/i/pore/va/20000924/index.html), in vigore dal 24 set. 2000. Garanzia dell’AF dell’11 dic. 2001 ([FF 2001 5802](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 n. 2 [4365](https://fedlex.data.admin.ch/eli/fga/2001/813)).
-[^61-4]: Accettato nella [votazione popolare del 7 giu. 1998](http://www.admin.ch/ch/i/pore/va/19980607/index.html), in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
+[^61-1]: Accettato nella votazione popolare del 1° dic. 1996, in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^61-2]: Accettato nella votazione popolare del 7 giu. 1998, in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
+[^61-3]: Accettato nella votazione popolare del 24 set. 2000, in vigore dal 24 set. 2000. Garanzia dell’AF dell’11 dic. 2001 ([FF 2001 5802](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 n. 2 [4365](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^61-4]: Accettato nella votazione popolare del 7 giu. 1998, in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
 
 ### Iniziativa parlamentare
 
@@ -787,7 +799,7 @@ Il Consiglio di Stato emana:
 
 <sup>2</sup> In caso di emergenza, esso emana altresì atti normativi di durata limitata; tale atti devono essere sottoposti appena possibile al Gran Consiglio, il quale decide se debbano rimanere in vigore e per quanto tempo.
 
-[^64-1]: Accettato nella [votazione popolare del 7 giu. 1998](http://www.admin.ch/ch/i/pore/va/19980607/index.html), in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
+[^64-1]: Accettato nella votazione popolare del 7 giu. 1998, in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
 
 ### Attribuzioni amministrative
 
@@ -806,17 +818,17 @@ Il Consiglio di Stato ha segnatamente la facoltà e il mandato di:
 - 5\. vigilare sull’insieme dell’amministrazione dello Stato e sugli istituti autogestiti, conformemente a quanto previsto dalla legislazione;
 - 6\.[^65-4] vigilare sui Comuni e sulle corporazioni comunali, conformemente a quanto previsto dalla legislazione, e, in caso di gravi inadempienze, prendere i provvedimenti che s’impongono, fatto salvo il ricorso al Gran Consiglio;
 - 7\. pronunciare sui ricorsi contro i Comuni e le corporazioni comunali, nonché contro i dipartimenti, per quanto non ne sia competente un tribunale;
-- [tab] 8.[^65-5] fatto salvo l’articolo 52 numero 6, rilasciare le autorizzazioni e concessioni cantonali, per quanto tale compito non sia affidato a un’altra autorità in virtù della legge;
+- 8\.[^65-5] fatto salvo l’articolo 52 numero 6, rilasciare le autorizzazioni e concessioni cantonali, per quanto tale compito non sia affidato a un’altra autorità in virtù della legge;
 - 9\.[^65-6] fatti salvi poteri più estesi conferitigli dalla legislazione o da una decisione del Gran Consiglio, decidere in merito a spese uniche liberamente determinabili sino a un importo di 200 000 franchi e in merito a spese annue ricorrenti sino a un importo di 40 000 franchi;
 - 10\. amministrare il patrimonio cantonale e disporne nei limiti del numero 9;
 - 11\. adempiere tutti gli altri compiti affidatigli dalla legislazione.
 
-[^65-1]: Accettato nella [votazione popolare del 7 giu. 1998](http://www.admin.ch/ch/i/pore/va/19980607/index.html), in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
-[^65-2]: Accettato nella [votazione popolare del 1° dic. 1996](http://www.admin.ch/ch/i/pore/va/19961201/index.html), in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
-[^65-3]: Accettato nella [votazione popolare del 1° dic. 1996](http://www.admin.ch/ch/i/pore/va/19961201/index.html), in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
-[^65-4]: Accettato nella [votazione popolare del 1° dic. 1996](http://www.admin.ch/ch/i/pore/va/19961201/index.html), in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
-[^65-5]: Accettato nella [votazione popolare del 1° dic. 1996](http://www.admin.ch/ch/i/pore/va/19961201/index.html), in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
-[^65-6]: Accettato nella [votazione popolare del 1° dic. 1996](http://www.admin.ch/ch/i/pore/va/19961201/index.html), in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^65-1]: Accettato nella votazione popolare del 7 giu. 1998, in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
+[^65-2]: Accettato nella votazione popolare del 1° dic. 1996, in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^65-3]: Accettato nella votazione popolare del 1° dic. 1996, in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^65-4]: Accettato nella votazione popolare del 1° dic. 1996, in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^65-5]: Accettato nella votazione popolare del 1° dic. 1996, in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^65-6]: Accettato nella votazione popolare del 1° dic. 1996, in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
 
 ### 4. Tribunali
 
@@ -828,7 +840,7 @@ Il Consiglio di Stato ha segnatamente la facoltà e il mandato di:
 
 <sup>2</sup> Le leggi che violano la presente Costituzione o sono contrarie al diritto federale, nonché gli atti normativi incostituzionali o contrari alla legge non vincolano i tribunali.[^66-1]
 
-[^66-1]: Accettato nella [votazione popolare del 7 giu. 1998](http://www.admin.ch/ch/i/pore/va/19980607/index.html), in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
+[^66-1]: Accettato nella votazione popolare del 7 giu. 1998, in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
 
 ### Giurisdizione civile
 
@@ -845,7 +857,7 @@ La giustizia civile è amministrata da:
 
 <sup>2</sup> La legislazione disciplina l’organizzazione delle autorità di conciliazione.
 
-[^67-1]: Accettato nella [votazione popolare del 2 mag. 2010](http://www.admin.ch/ch/i/pore/va/20100502/index.html), in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^67-1]: Accettato nella votazione popolare del 2 mag. 2010, in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Giurisdizione penale
 
@@ -867,7 +879,7 @@ La legislazione:
 - 1\. disciplina l’organizzazione delle autorità incaricate del perseguimento penale;
 - 2\. può conferire poteri penali amministrativi alle autorità amministrative cantonali e comunali, ferma restando la possibilità di riesame in sede giudiziaria.
 
-[^67a-1]: Accettato nella [votazione popolare del 2 mag. 2010](http://www.admin.ch/ch/i/pore/va/20100502/index.html), in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^67a-1]: Accettato nella votazione popolare del 2 mag. 2010, in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Giurisdizione amministrativa
 
@@ -877,7 +889,7 @@ La legislazione:
 
 La giustizia in materia di diritto amministrativo e di diritto delle assicurazioni sociali è amministrata dal Tribunale amministrativo.
 
-[^68-1]: Accettato nella [votazione popolare del 2 mag. 2010](http://www.admin.ch/ch/i/pore/va/20100502/index.html), in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^68-1]: Accettato nella votazione popolare del 2 mag. 2010, in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Giurisdizione costituzionale
 
@@ -896,7 +908,7 @@ In quanto Corte costituzionale, il Tribunale d’appello giudica:
 - 5\.[^69-1] i ricorsi contro le decisioni del Gran Consiglio o di un Esecutivo comunale in merito all’ammissibilità costituzionale delle iniziative e dei controprogetti conformemente all’articolo 61 numero 2 o all’articolo 83 capoverso 2 numero 5;
 - 6\. le altre cause attribuitegli dalla legge.
 
-[^69-1]: Accettato nella [votazione popolare del 1° dic. 1996](http://www.admin.ch/ch/i/pore/va/19961201/index.html), in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^69-1]: Accettato nella votazione popolare del 1° dic. 1996, in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
 
 ### Organizzazione
 
@@ -915,7 +927,7 @@ La legislazione può istituire:
 - 1\. speciali autorità giudiziarie per controversie specifiche;
 - 2\. tribunali intercantonali.
 
-[^69a-1]: Accettato nella [votazione popolare del 2 mag. 2010](http://www.admin.ch/ch/i/pore/va/20100502/index.html), in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^69a-1]: Accettato nella votazione popolare del 2 mag. 2010, in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### C. Poteri comunali
 
@@ -980,7 +992,7 @@ L’Assemblea comunale, nonché l’Esecutivo comunale e il suo presidente sono 
 
 <sup>3</sup> Le deliberazioni sono dirette dal presidente o dal vicepresidente dell’Esecutivo comunale o, fra gli altri suoi membri, da quello che ha raccolto più suffragi all’atto dell’elezione.
 
-[^75-1]: Accettato nella [votazione popolare del 7 giu. 1998](http://www.admin.ch/ch/i/pore/va/19980607/index.html), in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
+[^75-1]: Accettato nella votazione popolare del 7 giu. 1998, in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
 
 ### Votazione obbligatoria
 
@@ -992,7 +1004,7 @@ Rientrano nella competenza dell’Assemblea comunale:
 - 2\. l’elezione delle autorità e dei funzionari che secondo la legislazione devono essere eletti dall’Assemblea; i Comuni sono liberi di organizzare l’elezione dei membri degli Esecutivi comunali e dei revisori dei conti in modo che la metà dei mandati venga assegnata ogni due anni;
 - 3\. la determinazione dell’aliquota dell’imposta comunale;
 - 4\.[^76-1] le decisioni in materia di spese e le decisioni finanziarie che eccedano le competenze dell’Esecutivo comunale;
-- [tab] 5.[^76-2] la delibera del bilancio di previsione annuale;
+- 5\.[^76-2] la delibera del bilancio di previsione annuale;
 - 6\. l’approvazione dei conti comunali.
 
 [^76-1]: Accettato nella Landsgemeinde del 28 apr. 1974, in vigore dal 28 apr. 1974. Garanzia dell’AF del 12 dic. 1974 ([FF 1974 II 1486](https://fedlex.data.admin.ch/eli/fga/1974/2___1486)art. 1 n. 1 953).
@@ -1006,7 +1018,7 @@ Rientrano nella competenza dell’Assemblea comunale:
 
 <sup>2</sup> La votazione deve svolgersi nella successiva Assemblea.
 
-[^77-1]: Accettato nella [votazione popolare del 7 giu. 1998](http://www.admin.ch/ch/i/pore/va/19980607/index.html), in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
+[^77-1]: Accettato nella votazione popolare del 7 giu. 1998, in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
 
 ### Diritto d’iniziativa
 
@@ -1076,7 +1088,7 @@ Fatto salvo l’articolo 80, esso ha segnatamente la facoltà e il mandato di:
 - 4\. nominare i funzionari e gli impiegati, per quanto tale nomina non competa a un’altra autorità in virtù della legislazione;
 - 5\. decidere in merito all’ammissibilità costituzionale delle iniziative presentate all’Assemblea comunale, conformemente all’articolo 78 capoverso 4;
 - 6\. dare i pareri che il Cantone chiede al Comune;
-- [tab] 7.[^83-1] nei limiti delle competenze finanziarie definite dalla legislazione comunale, decidere in merito a spese uniche liberamente determinabili e in merito a spese annue ricorrenti, nonché in merito a spese cui il Comune è legalmente tenuto o per le quali la legislazione o una decisione dell’Assemblea comunale ha delegato poteri più estesi all’Esecutivo comunale;
+- 7\.[^83-1] nei limiti delle competenze finanziarie definite dalla legislazione comunale, decidere in merito a spese uniche liberamente determinabili e in merito a spese annue ricorrenti, nonché in merito a spese cui il Comune è legalmente tenuto o per le quali la legislazione o una decisione dell’Assemblea comunale ha delegato poteri più estesi all’Esecutivo comunale;
 - 8\. amministrare il patrimonio comunale e disporne nei limiti fissati dal numero 7;
 - 9\. decidere in merito alle spese di manutenzione degli edifici e impianti in possesso del Comune, senza riguardo al numero 7;
 - 10\. adempiere tutti gli altri compiti affidatigli dalla legislazione.
@@ -1095,7 +1107,7 @@ Fatto salvo l’articolo 80, esso ha segnatamente la facoltà e il mandato di:
 
 Un Comune politico non può essere smembrato né aggregato a un altro Comune senza il consenso dei cittadini attivi del Comune e del Cantone.
 
-[^84-1]: Accettato nella [votazione popolare del 1° dic. 1996](http://www.admin.ch/ch/i/pore/va/19961201/index.html), in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^84-1]: Accettato nella votazione popolare del 1° dic. 1996, in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
 
 ### Compito
 
@@ -1143,7 +1155,7 @@ Il Comune politico sbriga, nei limiti fissati dalla legislazione, tutti gli affa
 
 <sup>3</sup> Nelle parrocchie o cappellanie cattoliche romane che per tradizione hanno il diritto di nomina (presentazione) degli ecclesiastici, tale diritto è esercitato dall’Assemblea comunale parrocchiale o cappellaniale.
 
-[^89-1]: Accettato nella [votazione popolare del 1° dic. 1996](http://www.admin.ch/ch/i/pore/va/19961201/index.html), in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^89-1]: Accettato nella votazione popolare del 1° dic. 1996, in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
 
 ### Imposta di culto
 
@@ -1187,7 +1199,7 @@ Il Comune politico sbriga, nei limiti fissati dalla legislazione, tutti gli affa
 
 <sup>4</sup> La Costituzione riveduta è sottoposta al voto alle urne.[^93-3]
 
-[^93-1]: Accettato nella [votazione popolare del 1° dic. 1996](http://www.admin.ch/ch/i/pore/va/19961201/index.html), in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^93-1]: Accettato nella votazione popolare del 1° dic. 1996, in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
 [^93-2]: Accettato nella Landsgemeinde del 23 ott. 1994, in vigore dal 24 ott. 1994. Garanzia dell’AF del 14 mar. 1996 ([FF 1996 I 1159](https://fedlex.data.admin.ch/eli/fga/1996/1___1159)art. 1 n. 3, [1995 III 1241](https://fedlex.data.admin.ch/eli/fga/1995/3___1241)).
 [^93-3]: Accettato nella Landsgemeinde del 23 ott. 1994, in vigore dal 24 ott. 1994. Garanzia dell’AF del 14 mar. 1996 ([FF 1996 I 1159](https://fedlex.data.admin.ch/eli/fga/1996/1___1159)art. 1 n. 3, [1995 III 1241](https://fedlex.data.admin.ch/eli/fga/1995/3___1241)).
 
@@ -1207,7 +1219,7 @@ Nelle norme transitorie, l’entrata in vigore di tutte le nuove disposizioni co
 - 2\. fino all’adattamento degli atti normativi esistenti ivi menzionati.
 
 [^94-1]: Accettato nella Landsgemeinde del 23 ott. 1994, in vigore dal 24 ott. 1994. Garanzia dell’AF del 14 mar. 1996 ([FF 1996 I 1159](https://fedlex.data.admin.ch/eli/fga/1996/1___1159)art. 1 n. 3, [1995 III 1241](https://fedlex.data.admin.ch/eli/fga/1995/3___1241)).
-[^94-2]: Accettato nella [votazione popolare del 1° dic. 1996](http://www.admin.ch/ch/i/pore/va/19961201/index.html), in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
+[^94-2]: Accettato nella votazione popolare del 1° dic. 1996, in vigore dal 1° dic. 1996. Garanzia dell’AF del 4 dic. 1997 (FF **1998** 78 art. 1 n. 2, [1997 III 957](https://fedlex.data.admin.ch/eli/fga/1997/3___957)).
 
 ## VII. Regime transitorio
 
@@ -1245,7 +1257,7 @@ Sino all’emanazione della nuova legislazione sulla responsabilità degli enti 
 
 [^99100-1]
 
-[^99100-1]: Abrogati nella [votazione popolare del 2 mag. 2010](http://www.admin.ch/ch/i/pore/va/20100502/index.html), con effetto dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^99100-1]: Abrogati nella votazione popolare del 2 mag. 2010, con effetto dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Comuni
 
@@ -1283,7 +1295,7 @@ Se la parte del Comune di Oberdorf che appartiene alla Parrocchia cattolica roma
 
 Sino all’entrata in vigore del decreto del Gran Consiglio relativo alla determinazione dell’aliquota dell’imposta cantonale e di un decreto del Gran Consiglio relativo alla determinazione dell’aliquota dell’imposta di culto per le persone giuridiche rimangono in vigore le aliquote d’imposta attuali.
 
-[^104-1]: Accettato nella [votazione popolare del 24 set. 2000](http://www.admin.ch/ch/i/pore/va/20000924/index.html), in vigore dal 24 set. 2000. Garanzia dell’AF dell’11 dic. 2001 ([FF 2001 5802](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 n. 2 [4365](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^104-1]: Accettato nella votazione popolare del 24 set. 2000, in vigore dal 24 set. 2000. Garanzia dell’AF dell’11 dic. 2001 ([FF 2001 5802](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 n. 2 [4365](https://fedlex.data.admin.ch/eli/fga/2001/813)).
 
 ### Comuni di assistenza pubblica
 
@@ -1303,7 +1315,7 @@ Sino all’entrata in vigore del decreto del Gran Consiglio relativo alla determ
 
 <sup>2</sup> Per la composizione della presidenza dei tribunali e per la nomina dei giudici il cui mandato scade nel 2010, un’elezione si terrà nel 2010 per il resto del periodo di nomina fino al 2012.
 
-[^106-1]: Accettato nella [votazione popolare del 2 mag. 2010](http://www.admin.ch/ch/i/pore/va/20100502/index.html), in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^106-1]: Accettato nella votazione popolare del 2 mag. 2010, in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Procedura di conferimento della garanzia
 
@@ -1311,7 +1323,7 @@ Sino all’entrata in vigore del decreto del Gran Consiglio relativo alla determ
 
 Al Gran Consiglio è conferita piena facoltà di mettere in sintonia con la Costituzione federale[^107-1] le disposizioni della presente Costituzione che l’Assemblea federale dovesse dichiarare contrarie alla Costituzione federale.
 
-[^107-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^107-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 
 ## Indice delle materie
 
@@ -1459,6 +1471,7 @@ Cantone
   - [tab] – delle arti e mestieri 30
 
 - [tab] – protezione
+  - [tab] – del clima 21
   - [tab] – del paesaggio 22
   - [tab] – della natura 21
 
@@ -2009,11 +2022,12 @@ Proprietà
 
 Protezione
 
-- [tab] – protezione
-  - [tab] – del
+- [tab] – protezione del
+  - [tab] – clima 21*a*
   - – mondo alpestre 21
   - – paesaggio 22
-  - [tab] – della
+
+- [tab] – protezione della
   - – famiglia 29
   - – natura 21
   - [tab] – delle acque e dell’aria 21

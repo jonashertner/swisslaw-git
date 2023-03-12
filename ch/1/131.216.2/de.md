@@ -3,21 +3,21 @@ sr: "131.216.2"
 title: "Verfassung des Kantons Nidwalden, vom 10. Oktober 1965"
 eli: "https://fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga"
 language: de
-version: 2011-03-02
+version: 2023-03-13
 adopted: 1965-10-10
 in_force: 1965-10-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga/20110302/de/xml/fedlex-data-admin-ch-eli-cc-1965-3_619_631_611_fga-20110302-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20110302/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga/20230313/de/xml/fedlex-data-admin-ch-eli-cc-1965-3_619_631_611_fga-20230313-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20230313/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Nidwalden
 
-Vom 10. Oktober 1965 (Stand am 2. März 2011)[^t-2][^t-1]
+Vom 10. Oktober 1965 (Stand am 13. März 2023)[^t-2][^t-1]
 
-[^t-1]: Angenommen in der [Volksabstimmung vom 2. Mai 2010](http://www.admin.ch/ch/d/pore/va/20100502/index.html), in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
-[^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
+[^t-1]: Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
 Im Namen Gottes des Allmächtigen!
 
@@ -31,7 +31,7 @@ hat die nachstehende Verfassung angenommen.
 
 [^lvlI-1]
 
-[^lvlI-1]: Angenommen in der [Volksabstimmung vom 22. Sept. 1996](http://www.admin.ch/ch/d/pore/va/19960922/index.html), in Kraft seit 22. Sept. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^lvlI-1]: Angenommen in der Volksabstimmung vom 22. Sept. 1996, in Kraft seit 22. Sept. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 
 ### A. Grundrechte
 
@@ -66,7 +66,7 @@ In den Schranken des Bundesrechts und der zur Wahrung der öffentlichen Ordnung 
 
 <sup>3</sup> Kanton und Gemeinden fördern die tatsächliche Gleichstellung von Mann und Frau.
 
-[^2-1]: Angenommen in der [Volksabstimmung vom 22. Sept. 1996](http://www.admin.ch/ch/d/pore/va/19960922/index.html), in Kraft seit 22. Sept. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^2-1]: Angenommen in der Volksabstimmung vom 22. Sept. 1996, in Kraft seit 22. Sept. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 
 ### Rechtsschutz
 
@@ -80,13 +80,13 @@ In den Schranken des Bundesrechts und der zur Wahrung der öffentlichen Ordnung 
 
 <sup>4</sup> …[^3-1]
 
-[^3-1]: Aufgehoben in der [Volksabstimmung vom 2. Mai 2010](http://www.admin.ch/ch/d/pore/va/20100502/index.html), mit Wirkung seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^3-1]: Aufgehoben in der Volksabstimmung vom 2. Mai 2010, mit Wirkung seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 #### Art. 4
 
 [^4-1]
 
-[^4-1]: Aufgehoben in der [Volksabstimmung vom 2. Mai 2010](http://www.admin.ch/ch/d/pore/va/20100502/index.html), mit Wirkung seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^4-1]: Aufgehoben in der Volksabstimmung vom 2. Mai 2010, mit Wirkung seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Rückwirkung
 
@@ -116,13 +116,13 @@ Der Entzug und die ähnlich einem Entzug wirkende Beschränkung eines privaten E
 
 Das Aktivbürgerrecht können alle Personen ausüben, die das Schweizerbürgerrecht besitzen, im Kanton rechtlich niedergelassen sind, das 18. Altersjahr zurückgelegt haben und denen nicht durch die Gesetzgebung das Aktivbürgerrecht entzogen ist.
 
-[^8-1]: Angenommen in der [Volksabstimmung vom 22. Sept. 1996](http://www.admin.ch/ch/d/pore/va/19960922/index.html), in Kraft seit 22. Sept. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^8-1]: Angenommen in der Volksabstimmung vom 22. Sept. 1996, in Kraft seit 22. Sept. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 
 #### Art. 9
 
 [^9-1]
 
-[^9-1]: Aufgehoben in der [Volksabstimmung vom 22. Sept. 1996](http://www.admin.ch/ch/d/pore/va/19960922/index.html), mit Wirkung seit 22. Sept. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^9-1]: Aufgehoben in der Volksabstimmung vom 22. Sept. 1996, mit Wirkung seit 22. Sept. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 
 ### Ausübung der politischen Rechte
 
@@ -160,7 +160,7 @@ Der Erwerb und der Verlust des Kantons- und Gemeindebürgerrechts wird durch das
 
 <sup>3</sup> Jede Person, die das Aktivbürgerrecht besitzt, ist verpflichtet, das ihr verfassungsgemäss übertragene Amt für eine Amtsdauer zu übernehmen, soweit es sich um ein Nebenamt handelt; Ausnahmen bestimmt das Gesetz.
 
-[^13-1]: Angenommen in der [Volksabstimmung vom 1. Dez. 1996](http://www.admin.ch/ch/d/pore/va/19961201/index.html), in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^13-1]: Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 
 ## II. Die öffentlichen Aufgaben
 
@@ -231,6 +231,18 @@ Der Kanton fördert im Rahmen der Gesetzgebung die wissenschaftliche und berufli
 <sup>1</sup> Der Kanton schützt die natürlichen Reichtümer des Landes.
 
 <sup>2</sup> Er fördert insbesondere die Massnahmen zur Reinerhaltung der Gewässer und der Luft, zur Erhaltung und Bewirtschaftung der Waldungen, zum Schutz der Bergwelt sowie die Bestrebungen der Landes- und Ortsplanung.
+
+### Klimaschutz
+
+#### Art. 21a
+
+[^21a-1]
+
+<sup>1</sup> Kanton und Gemeinden setzen sich für die Begrenzung des Klimawandels und dessen Auswirkungen ein; sie berücksichtigen dabei die Ziele des Bundes und der für die Schweiz verbindlichen internationalen Abkommen und richten ihre Massnahmen unter anderem darauf aus, die Treibhausgasemissionen bis zur Treibhausgasneutralität zu vermindern.
+
+<sup>2</sup> Sie können die Entwicklung und Anwendung von Technologien, Materialien und Prozessen fördern, die zum Klimaschutz und zur Anpassung an den Klimawandel beitragen.
+
+[^21a-1]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 13. März 2023. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 2; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Heimatschutz
 
@@ -400,8 +412,8 @@ Der Kanton gewährleistet den Fortbestand der Klöster und kirchlichen Stiftunge
 
 <sup>5</sup> Das Gesetz kann weitere Unvereinbarkeiten für die Mitgliedschaft in kantonalen oder kommunalen Behörden bestimmen.[^41-2]
 
-[^41-1]: Angenommen in der [Volksabstimmung vom 1. Dez. 1996](http://www.admin.ch/ch/d/pore/va/19961201/index.html), in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
-[^41-2]: Angenommen in der [Volksabstimmung vom 2. Mai 2010](http://www.admin.ch/ch/d/pore/va/20100502/index.html), in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^41-1]: Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^41-2]: Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Wahlen
 
@@ -435,7 +447,7 @@ Die kantonalen und kommunalen Behörden sind einzuberufen:
 
 Die Amtsdauer der Behörden beträgt vier Jahre.
 
-[^45-1]: Angenommen in der [Volksabstimmung vom 7. Juni 1998](http://www.admin.ch/ch/d/pore/va/19980607/index.html), in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^45-1]: Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
 
 ### Amtsenthebung
 
@@ -481,7 +493,7 @@ Einer anderen kantonalen oder kommunalen Behörde dürfen nicht gleichzeitig ang
 
 <sup>5</sup> Diese Bestimmungen gelten nicht für den Landrat und die Gemeindeparlamente.
 
-[^48-1]: Angenommen in der [Volksabstimmung vom 2. Mai 2010](http://www.admin.ch/ch/d/pore/va/20100502/index.html), in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^48-1]: Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Amtssitz
 
@@ -505,7 +517,7 @@ Das Gesetz kann für den Fall von Katastrophen und kriegerischen Ereignissen dem
 
 [^lvlIV-lvlB-lvl1-1]
 
-[^lvlIV-lvlB-lvl1-1]: Angenommen in der [Volksabstimmung vom 1. Dez. 1996](http://www.admin.ch/ch/d/pore/va/19961201/index.html), in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^lvlIV-lvlB-lvl1-1]: Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 
 ### Ausübung des Stimm- und Wahlrechts
 
@@ -530,9 +542,9 @@ Die Stimmberechtigten wählen:
 
 <sup>2</sup> …[^51-3]
 
-[^51-1]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 1999](http://www.admin.ch/ch/d/pore/va/19991128/index.html), mit Wirkung seit 28. Nov. 1999. Gewährleistungsbeschluss vom 27. Sept. 2000 ([BBl 2000 5158](https://fedlex.data.admin.ch/eli/fga/2000/1101)Art. 1 Ziff. 1 [3529](https://fedlex.data.admin.ch/eli/fga/2000/739)).
-[^51-2]: Angenommen in der [Volksabstimmung vom 8. Juni 1997](http://www.admin.ch/ch/d/pore/va/19970608/index.html), in Kraft seit 8. Juni 1997. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
-[^51-3]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 1999](http://www.admin.ch/ch/d/pore/va/19991128/index.html), mit Wirkung seit 28. Nov. 1999. Gewährleistungsbeschluss vom 27. Sept. 2000 ([BBl 2000 5158](https://fedlex.data.admin.ch/eli/fga/2000/1101)Art. 1 Ziff. 1 [3529](https://fedlex.data.admin.ch/eli/fga/2000/739)).
+[^51-1]: Aufgehoben in der Volksabstimmung vom 28. Nov. 1999, mit Wirkung seit 28. Nov. 1999. Gewährleistungsbeschluss vom 27. Sept. 2000 ([BBl 2000 5158](https://fedlex.data.admin.ch/eli/fga/2000/1101)Art. 1 Ziff. 1 [3529](https://fedlex.data.admin.ch/eli/fga/2000/739)).
+[^51-2]: Angenommen in der Volksabstimmung vom 8. Juni 1997, in Kraft seit 8. Juni 1997. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^51-3]: Aufgehoben in der Volksabstimmung vom 28. Nov. 1999, mit Wirkung seit 28. Nov. 1999. Gewährleistungsbeschluss vom 27. Sept. 2000 ([BBl 2000 5158](https://fedlex.data.admin.ch/eli/fga/2000/1101)Art. 1 Ziff. 1 [3529](https://fedlex.data.admin.ch/eli/fga/2000/739)).
 
 ### Obligatorische Abstimmungen
 
@@ -547,7 +559,7 @@ Der obligatorischen Abstimmung unterliegen:
 - 5\. die Verabschiedung von Vernehmlassungen des Regierungsrates zuhanden des Bundes, soweit sie sich auf Atomanlagen, insbesondere Lagerstätten für radioaktive Abfälle, und sie vorbereitende Handlungen auf dem Gebiete des Kantons beziehen;
 - 6\. die Genehmigung von Verleihungen zur Benützung des Untergrundes für Ausbeutung, Produktion und Lagerung sowie deren vorbereitende Handlungen mit Ausnahme der Grundwasser- und Erdwärmenutzung.
 
-[^52-1]: Angenommen in der [Volksabstimmung vom 7. Juni 1998](http://www.admin.ch/ch/d/pore/va/19980607/index.html), in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^52-1]: Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
 
 ### Fakultative Abstimmungen
 
@@ -563,8 +575,8 @@ Der Abstimmung unterliegen, wenn es binnen zweier Monate seit Veröffentlichung 
 
 <sup>2</sup> Die Abstimmung ist binnen eines Jahres seit Veröffentlichung des Erlasses oder Beschlusses durchzuführen.
 
-[^52a-1]: Angenommen in der [Volksabstimmung vom 7. Juni 1998](http://www.admin.ch/ch/d/pore/va/19980607/index.html), in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
-[^52a-2]: Angenommen in der [Volksabstimmung vom 24. Sept. 2000](http://www.admin.ch/ch/d/pore/va/20000924/index.html), in Kraft seit 24. Sept. 2000. Gewährleistungsbeschluss vom 11. Dez. 2001 ([BBl 2001 6542](https://fedlex.data.admin.ch/eli/fga/2001/1125)Art. 1 Ziff. 2 [4879](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^52a-1]: Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^52a-2]: Angenommen in der Volksabstimmung vom 24. Sept. 2000, in Kraft seit 24. Sept. 2000. Gewährleistungsbeschluss vom 11. Dez. 2001 ([BBl 2001 6542](https://fedlex.data.admin.ch/eli/fga/2001/1125)Art. 1 Ziff. 2 [4879](https://fedlex.data.admin.ch/eli/fga/2001/813)).
 
 ### Konsultative Abstimmungen
 
@@ -608,7 +620,7 @@ Anträge können stellen:
 
 <sup>4</sup> Bei Gegenvorschlägen der Aktivbürgerschaft sind die Unterschriften binnen zweier Monate seit der Hinterlegung des Gegenvorschlages auf der Standeskanzlei einzureichen; die Hinterlegung hat binnen zweier Monate seit Veröffentlichung der Vorlage des Landrates zu erfolgen.
 
-[^54a-1]: Angenommen in der [Volksabstimmung vom 7. Juni 1998](http://www.admin.ch/ch/d/pore/va/19980607/index.html), in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^54a-1]: Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
 
 ### Verfahren
 
@@ -665,7 +677,7 @@ Der Landrat besteht aus 60 Mitgliedern.
 
 <sup>2</sup> Die Präsidentin oder der Präsident ist für eine nächste einjährige Amtsdauer nicht wieder wählbar.
 
-[^59-1]: Angenommen in der [Volksabstimmung vom 7. Juni 1998](http://www.admin.ch/ch/d/pore/va/19980607/index.html), in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^59-1]: Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
 
 ### Wahlen
 
@@ -685,11 +697,11 @@ Der Landrat wählt:
 
 <sup>2</sup> Die Wahlen von Richterinnen und Richtern sowie die Besetzung der Gerichtspräsidien sind jeweils zwei Jahre nach den Wahlen des Landrates und des Regierungsrates durchzuführen.[^59a-5]
 
-[^59a-1]: Angenommen in der [Volksabstimmung vom 1. Dez. 1996](http://www.admin.ch/ch/d/pore/va/19961201/index.html), in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
-[^59a-2]: Angenommen in der [Volksabstimmung vom 28. Nov. 1999](http://www.admin.ch/ch/d/pore/va/19991128/index.html), in Kraft seit 28. Nov. 1999. Gewährleistungsbeschluss vom 27. Sept. 2000 ([BBl 2000 5158](https://fedlex.data.admin.ch/eli/fga/2000/1101)Art. 1 Ziff. 1 [3529](https://fedlex.data.admin.ch/eli/fga/2000/739)).
-[^59a-3]: Angenommen in der [Volksabstimmung vom 28. Nov. 1999](http://www.admin.ch/ch/d/pore/va/19991128/index.html), in Kraft seit 28. Nov. 1999. Gewährleistungsbeschluss vom 27. Sept. 2000 ([BBl 2000 5158](https://fedlex.data.admin.ch/eli/fga/2000/1101)Art. 1 Ziff. 1 [3529](https://fedlex.data.admin.ch/eli/fga/2000/739)).
-[^59a-4]: Angenommen in der [Volksabstimmung vom 28. Nov. 1999](http://www.admin.ch/ch/d/pore/va/19991128/index.html), in Kraft seit 28. Nov. 1999. Gewährleistungsbeschluss vom 27. Sept. 2000 ([BBl 2000 5158](https://fedlex.data.admin.ch/eli/fga/2000/1101)Art. 1 Ziff. 1 [3529](https://fedlex.data.admin.ch/eli/fga/2000/739)).
-[^59a-5]: Angenommen in der [Volksabstimmung vom 2. Mai 2010](http://www.admin.ch/ch/d/pore/va/20100502/index.html), in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^59a-1]: Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^59a-2]: Angenommen in der Volksabstimmung vom 28. Nov. 1999, in Kraft seit 28. Nov. 1999. Gewährleistungsbeschluss vom 27. Sept. 2000 ([BBl 2000 5158](https://fedlex.data.admin.ch/eli/fga/2000/1101)Art. 1 Ziff. 1 [3529](https://fedlex.data.admin.ch/eli/fga/2000/739)).
+[^59a-3]: Angenommen in der Volksabstimmung vom 28. Nov. 1999, in Kraft seit 28. Nov. 1999. Gewährleistungsbeschluss vom 27. Sept. 2000 ([BBl 2000 5158](https://fedlex.data.admin.ch/eli/fga/2000/1101)Art. 1 Ziff. 1 [3529](https://fedlex.data.admin.ch/eli/fga/2000/739)).
+[^59a-4]: Angenommen in der Volksabstimmung vom 28. Nov. 1999, in Kraft seit 28. Nov. 1999. Gewährleistungsbeschluss vom 27. Sept. 2000 ([BBl 2000 5158](https://fedlex.data.admin.ch/eli/fga/2000/1101)Art. 1 Ziff. 1 [3529](https://fedlex.data.admin.ch/eli/fga/2000/739)).
+[^59a-5]: Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Rechtsetzung
 
@@ -709,7 +721,7 @@ Der Landrat erlässt in Form des Gesetzes:
 
 <sup>3</sup> Er erlässt das für seine Tätigkeit notwendige Geschäftsreglement.
 
-[^60-1]: Angenommen in der [Volksabstimmung vom 7. Juni 1998](http://www.admin.ch/ch/d/pore/va/19980607/index.html), in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^60-1]: Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
 
 ### Weitere Aufgaben
 
@@ -734,10 +746,10 @@ In die Zuständigkeit des Landrates fallen weiter:
 - 13\. die Oberaufsicht über den Geschäftsgang der Gerichte, insbesondere die Genehmigung der jährlichen Rechenschaftsberichte;
 - 14\. alle übrigen durch die Gesetzgebung dem Landrat übertragenen Aufgaben.
 
-[^61-1]: Angenommen in der [Volksabstimmung vom 1. Dez. 1996](http://www.admin.ch/ch/d/pore/va/19961201/index.html), in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
-[^61-2]: Angenommen in der [Volksabstimmung vom 7. Juni 1998](http://www.admin.ch/ch/d/pore/va/19980607/index.html), in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
-[^61-3]: Angenommen in der [Volksabstimmung vom 24. Sept. 2000](http://www.admin.ch/ch/d/pore/va/20000924/index.html), in Kraft seit 24. Sept. 2000. Gewährleistungsbeschluss vom 11. Dez. 2001 ([BBl 2001 6542](https://fedlex.data.admin.ch/eli/fga/2001/1125)Art. 1 Ziff. 2 [4879](https://fedlex.data.admin.ch/eli/fga/2001/813)).
-[^61-4]: Angenommen in der [Volksabstimmung vom 7. Juni 1998](http://www.admin.ch/ch/d/pore/va/19980607/index.html), in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^61-1]: Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^61-2]: Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^61-3]: Angenommen in der Volksabstimmung vom 24. Sept. 2000, in Kraft seit 24. Sept. 2000. Gewährleistungsbeschluss vom 11. Dez. 2001 ([BBl 2001 6542](https://fedlex.data.admin.ch/eli/fga/2001/1125)Art. 1 Ziff. 2 [4879](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^61-4]: Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
 
 ### Antragsrecht
 
@@ -757,7 +769,7 @@ In die Zuständigkeit des Landrates fallen weiter:
 
 Der Regierungsrat besteht aus sieben Mitgliedern.
 
-[^62a-1]: Angenommen in der [Volksabstimmung vom 8. Juni 1997](http://www.admin.ch/ch/d/pore/va/19970608/index.html), in Kraft seit 8. Juni 1997. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^62a-1]: Angenommen in der Volksabstimmung vom 8. Juni 1997, in Kraft seit 8. Juni 1997. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
 
 ### Departemente
 
@@ -784,7 +796,7 @@ Der Regierungsrat erlässt:
 
 <sup>2</sup> Er erlässt zeitlich befristete Noterlasse; diese sind sobald als möglich dem Landrat zu unterbreiten, der über ihre weitere Geltung und Befristung entscheidet.
 
-[^64-1]: Angenommen in der [Volksabstimmung vom 7. Juni 1998](http://www.admin.ch/ch/d/pore/va/19980607/index.html), in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^64-1]: Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
 
 ### Verwaltungsbefugnisse
 
@@ -808,12 +820,12 @@ Er ist namentlich befugt und beauftragt:
 - 10\. das Kantonsvermögen zu verwalten und im Rahmen von Ziffer 9 darüber zu verfügen;
 - 11\. alle weitern durch die Gesetzgebung ihm übertragenen Aufgaben zu erfüllen.
 
-[^65-1]: Angenommen in der [Volksabstimmung vom 7. Juni 1998](http://www.admin.ch/ch/d/pore/va/19980607/index.html), in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
-[^65-2]: Angenommen in der [Volksabstimmung vom 1. Dez. 1996](http://www.admin.ch/ch/d/pore/va/19961201/index.html), in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
-[^65-3]: Angenommen in der [Volksabstimmung vom 1. Dez. 1996](http://www.admin.ch/ch/d/pore/va/19961201/index.html), in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
-[^65-4]: Angenommen in der [Volksabstimmung vom 1. Dez. 1996](http://www.admin.ch/ch/d/pore/va/19961201/index.html), in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
-[^65-5]: Angenommen in der [Volksabstimmung vom 1. Dez. 1996](http://www.admin.ch/ch/d/pore/va/19961201/index.html), in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
-[^65-6]: Angenommen in der [Volksabstimmung vom 1. Dez. 1996](http://www.admin.ch/ch/d/pore/va/19961201/index.html), in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^65-1]: Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^65-2]: Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^65-3]: Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^65-4]: Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^65-5]: Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^65-6]: Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 
 ### 4. Gerichte
 
@@ -825,7 +837,7 @@ Er ist namentlich befugt und beauftragt:
 
 <sup>2</sup> Gesetze, die gegen diese Verfassung verstossen oder bundesrechtswidrig sind, und ebenso verfassungs- und gesetzwidrige Erlasse sind für die Gerichte unverbindlich.[^66-1]
 
-[^66-1]: Angenommen in der [Volksabstimmung vom 7. Juni 1998](http://www.admin.ch/ch/d/pore/va/19980607/index.html), in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^66-1]: Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
 
 ### Zivilrechtspflege
 
@@ -842,7 +854,7 @@ Die Zivilgerichtsbarkeit wird ausgeübt durch:
 
 <sup>2</sup> Die Gesetzgebung regelt die Organisation der Schlichtungsbehörden.
 
-[^67-1]: Angenommen in der [Volksabstimmung vom 2. Mai 2010](http://www.admin.ch/ch/d/pore/va/20100502/index.html), in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^67-1]: Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Strafrechtspflege
 
@@ -864,7 +876,7 @@ Die Gesetzgebung:
 - 1\. regelt die Organisation der Strafverfolgungsbehörden;
 - 2\. kann den Verwaltungsbehörden des Kantons und der Gemeinden unter Vorbehalt der richterlichen Überprüfung Verwaltungsstrafbefugnisse übertragen.
 
-[^67a-1]: Angenommen in der [Volksabstimmung vom 2. Mai 2010](http://www.admin.ch/ch/d/pore/va/20100502/index.html), in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^67a-1]: Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Verwaltungsrechtspflege
 
@@ -874,7 +886,7 @@ Die Gesetzgebung:
 
 Die Gerichtsbarkeit bei verwaltungs- und sozialversicherungsrechtlichen Streitigkeiten wird durch das Verwaltungsgericht ausgeübt.
 
-[^68-1]: Angenommen in der [Volksabstimmung vom 2. Mai 2010](http://www.admin.ch/ch/d/pore/va/20100502/index.html), in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^68-1]: Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Verfassungsgericht
 
@@ -893,7 +905,7 @@ Das Verfassungsgericht beurteilt:
 - 5\.[^69-1] Beschwerden gegen Entscheide des Landrates oder des administrativen Rates über die verfassungsmässige Zulässigkeit der Anträge und Gegenvorschläge gemäss Artikel 61 Ziffer 2 oder Artikel 83 Absatz 2 Ziffer 5;
 - 6\. die weitern durch Gesetz dem Verfassungsgericht zugewiesenen Angelegenheiten.
 
-[^69-1]: Angenommen in der [Volksabstimmung vom 1. Dez. 1996](http://www.admin.ch/ch/d/pore/va/19961201/index.html), in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^69-1]: Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 
 ### Organisation
 
@@ -912,7 +924,7 @@ Die Gesetzgebung kann:
 - 1\. für spezielle Streitigkeiten besondere richterliche Behörden einsetzen;
 - 2\. interkantonale Gerichte einsetzen.
 
-[^69a-1]: Angenommen in der [Volksabstimmung vom 2. Mai 2010](http://www.admin.ch/ch/d/pore/va/20100502/index.html), in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^69a-1]: Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### C. Die kommunalen Gewalten
 
@@ -977,7 +989,7 @@ Die Gemeindeversammlung, der administrative Rat und dessen Präsident sind die n
 
 <sup>3</sup> Die Verhandlungen leitet die Präsidentin beziehungsweise der Präsident oder die Vizepräsidentin beziehungsweise der Vizepräsident oder das in der Wahl nächstfolgende Mitglied des administrativen Rates.
 
-[^75-1]: Angenommen in der [Volksabstimmung vom 7. Juni 1998](http://www.admin.ch/ch/d/pore/va/19980607/index.html), in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^75-1]: Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
 
 ### Obligatorische Abstimmung
 
@@ -1003,7 +1015,7 @@ In die Zuständigkeit der Gemeindeversammlung fallen:
 
 <sup>2</sup> Die Abstimmung ist an der nächsten Gemeindeversammlung durchzuführen.
 
-[^77-1]: Angenommen in der [Volksabstimmung vom 7. Juni 1998](http://www.admin.ch/ch/d/pore/va/19980607/index.html), in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^77-1]: Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
 
 ### Antragsrecht
 
@@ -1092,7 +1104,7 @@ Er ist, unter Vorbehalt von Artikel 80, namentlich befugt und beauftragt:
 
 Eine politische Gemeinde darf nicht ohne Zustimmung der Aktivbürgerschaft der Gemeinde und des Kantons aufgeteilt oder mit einer andern Gemeinde vereinigt werden.
 
-[^84-1]: Angenommen in der [Volksabstimmung vom 1. Dez. 1996](http://www.admin.ch/ch/d/pore/va/19961201/index.html), in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^84-1]: Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 
 ### Aufgabe
 
@@ -1140,7 +1152,7 @@ Die politische Gemeinde regelt im Rahmen der Gesetzgebung alle örtlichen Angele
 
 <sup>3</sup> Der Gemeindeversammlung der römisch-katholischen Kirchgemeinden oder Kapellgemeinden, denen dieses hergebrachte Recht zukommt, steht die Ernennung (Präsentation) der Geistlichen zu.
 
-[^89-1]: Angenommen in der [Volksabstimmung vom 1. Dez. 1996](http://www.admin.ch/ch/d/pore/va/19961201/index.html), in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^89-1]: Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 
 ### Kirchensteuer
 
@@ -1184,7 +1196,7 @@ Die politische Gemeinde regelt im Rahmen der Gesetzgebung alle örtlichen Angele
 
 <sup>4</sup> Die revidierte Verfassung ist der Urnenabstimmung zu unterstellen.[^93-3]
 
-[^93-1]: Angenommen in der [Volksabstimmung vom 1. Dez. 1996](http://www.admin.ch/ch/d/pore/va/19961201/index.html), in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^93-1]: Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 [^93-2]: Angenommen an der Landsgemeinde vom 23. Okt. 1994, in Kraft seit 24. Okt. 1994. Gewährleistungsbeschluss vom 14. März 1996 ([BBl 1996 I 1357](https://fedlex.data.admin.ch/eli/fga/1996/1_1357__)Art. 1 Ziff. 3, [1995 III 1413](https://fedlex.data.admin.ch/eli/fga/1995/3_1413__)).
 [^93-3]: Angenommen an der Landsgemeinde vom 23. Okt. 1994, in Kraft seit 24. Okt. 1994. Gewährleistungsbeschluss vom 14. März 1996 ([BBl 1996 I 1357](https://fedlex.data.admin.ch/eli/fga/1996/1_1357__)Art. 1 Ziff. 3, [1995 III 1413](https://fedlex.data.admin.ch/eli/fga/1995/3_1413__)).
 
@@ -1204,7 +1216,7 @@ In der Übergangsordnung kann das Inkrafttreten aller oder einzelner neuer Verfa
 - 2\. bis nach erfolgter Anpassung der namentlich genannten bestehenden Erlasse.
 
 [^94-1]: Angenommen an der Landsgemeinde vom 23. Okt. 1994, in Kraft seit 24. Okt. 1994. Gewährleistungsbeschluss vom 14. März 1996 ([BBl 1996 I 1357](https://fedlex.data.admin.ch/eli/fga/1996/1_1357__)Art. 1 Ziff. 3, [1995 III 1413](https://fedlex.data.admin.ch/eli/fga/1995/3_1413__)).
-[^94-2]: Angenommen in der [Volksabstimmung vom 1. Dez. 1996](http://www.admin.ch/ch/d/pore/va/19961201/index.html), in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
+[^94-2]: Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 (BBl **1998** 103 Art. 1 Ziff. 2, [1997 III 1157](https://fedlex.data.admin.ch/eli/fga/1997/3_1157_1033_)).
 
 ## VII. Übergangsordnung
 
@@ -1242,7 +1254,7 @@ Bis zum Erlass der neuen Gesetzgebung über die Haftung öffentlichrechtlicher K
 
 [^99100-1]
 
-[^99100-1]: Aufgehoben in der [Volksabstimmung vom 2. Mai 2010](http://www.admin.ch/ch/d/pore/va/20100502/index.html), mit Wirkung seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^99100-1]: Aufgehoben in der Volksabstimmung vom 2. Mai 2010, mit Wirkung seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Gemeinden
 
@@ -1280,7 +1292,7 @@ Wenn der zur römisch-katholischen Kirchgemeinde Stans gehörende Teil der Gemei
 
 Bis zum Inkrafttreten des Landratsbeschlusses über die Festsetzung des Kantonssteuerfusses und eines Landratsbeschlusses über die Festsetzung des Kirchensteuerfusses für die juristischen Personen bleiben die bisherigen Steuerfüsse in Kraft.
 
-[^104-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2000](http://www.admin.ch/ch/d/pore/va/20000924/index.html), in Kraft seit 24. Sept. 2000. Gewährleistungsbeschluss vom 11. Dez. 2001 ([BBl 2001 6542](https://fedlex.data.admin.ch/eli/fga/2001/1125)Art. 1 Ziff. 2 [4879](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^104-1]: Angenommen in der Volksabstimmung vom 24. Sept. 2000, in Kraft seit 24. Sept. 2000. Gewährleistungsbeschluss vom 11. Dez. 2001 ([BBl 2001 6542](https://fedlex.data.admin.ch/eli/fga/2001/1125)Art. 1 Ziff. 2 [4879](https://fedlex.data.admin.ch/eli/fga/2001/813)).
 
 ### Armengemeinden
 
@@ -1300,7 +1312,7 @@ Bis zum Inkrafttreten des Landratsbeschlusses über die Festsetzung des Kantonss
 
 <sup>2</sup> Für die Besetzung der Gerichtspräsidien und für die Wahl von jenen Richterinnen und Richtern, deren Amtsdauer im Jahr 2010 abläuft, findet im Jahr 2010 eine Wahl für den Rest der Amtsdauer bis 2012 statt.
 
-[^106-1]: Angenommen in der [Volksabstimmung vom 2. Mai 2010](http://www.admin.ch/ch/d/pore/va/20100502/index.html), in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^106-1]: Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Gewährleistungsverfahren
 
@@ -1308,7 +1320,7 @@ Bis zum Inkrafttreten des Landratsbeschlusses über die Festsetzung des Kantonss
 
 Der Landrat wird bevollmächtigt, jene Verfassungsbestimmungen mit der Bundesverfassung[^107-1] in Übereinstimmung zu bringen, die allenfalls durch die Bundesversammlung als mit der Bundesverfassung in Widerspruch stehend erklärt werden.
 
-[^107-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^107-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 
 ## Sachregister
 
@@ -1560,6 +1572,8 @@ Kirchen
 - – Allgemeines, Kirche und Staat 34–40
 - – Kirchensteuern 90, 104
 - – Kirchgemeinden 88–90
+
+**Klimaschutz** 21*a*
 
 **Konzessionen,** Erteilung von 52<sup>6.</sup>, 65<sup>2/</sup><sup>8.</sup>
 
