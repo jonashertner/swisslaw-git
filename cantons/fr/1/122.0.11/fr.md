@@ -3,13 +3,12 @@ canton: FR
 number: "122.0.11"
 title: "Arrêté répartissant les Directions du Conseil d'Etat et formant ses délégations"
 language: fr
-version: 2023-01-17
-valid_until: 2023-03-13
-version_adopted: 2023-01-17
+version: 2023-03-14
+version_adopted: 2023-03-14
 adopted: 2022-01-31
 in_force: 2022-02-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7723/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8006/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7723/pdf_file"
 
 Directions administratives du Conseil d’Etat et délégations – A
 
-du 31.01.2022 (version entrée en vigueur le 17.01.2023)
+du 31.01.2022 (version entrée en vigueur le 14.03.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -46,13 +45,15 @@ Arrête:
 
 #### Art. 2
 
-<sup>1</sup> Cinq délégations permanentes sont formées, dont la liste et la composition sont les suivantes:
+<sup>1</sup> Sept délégations permanentes sont formées, dont la liste et la composition sont les suivantes:
 
 - a) Délégation des affaires économiques et financières: Olivier Curty (DEEF), Jean-Pierre Siggen (DFIN), Jean-François Steiert (DIME).
 - b) Délégation pour les questions du personnel: Jean-Pierre Siggen (DFIN), Philippe Demierre (DSAS), Sylvie Bonvin-Sansonnens (DFAC).
 - c) Délégation de la santé: Philippe Demierre (DSAS), Jean-François Steiert (DIME), Didier Castella (DIAF).
 - d) Délégation pour les agglomérations et les structures territoriales: Didier Castella (DIAF), Jean-Pierre Siggen (DFIN), Jean-François Steiert (DIME).
-- e) Délégation en matière de digitalisation et de systèmes d'information: Jean-Pierre Siggen (DFIN), Romain Collaud (DSJS), Sylvie Bonvin-Sansonnens (DFAC).
+- e) Délégation en matière de digitalisation et de systèmes d'information: Jean-Pierre Siggen (DFIN), Romain Collaud (DSJS), Sylvie Bonvin-Sansonnens (DFAC);
+- f) Délégation pour les affaires environnementales: Jean-François Steiert (DIME), Olivier Curty (DEEF), Didier Castella (DIAF);
+- g) Délégation pour la durabilité: Jean-François Steiert (DIME), Philippe Demierre (DSAS), Olivier Curty (DEEF).
 
 <sup>2</sup> Trois délégations temporaires sont en outre formées, dont la composition est la suivante:
 
