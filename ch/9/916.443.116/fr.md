@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordonnance de l’OSAV du 24 novembre 2022 instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/713"
 language: fr
-version: 2023-03-09
+version: 2023-03-14
 adopted: 2022-11-24
 in_force: 2022-11-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20230309/fr/xml/fedlex-data-admin-ch-eli-cc-2022-713-20230309-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20230309/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20230314/fr/xml/fedlex-data-admin-ch-eli-cc-2022-713-20230314-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20230314/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 
-du 24 novembre 2022 (État le 9 mars 2023)
+du 24 novembre 2022 (État le 14 mars 2023)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -76,7 +76,7 @@ La présente ordonnance fixe l’étendue des zones de protection et de surveill
 
 La région de contrôle englobe toute la Suisse ainsi que l’enclave allemande de Büsingen.
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 8 fév. 2023, en vigueur du 9 fév. au 15 mars 2023 ([RO 2023 58](https://fedlex.data.admin.ch/eli/oc/2023/58)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 8 fév. 2023, en vigueur du 9 fév. au 15 mars 2023 ([RO 2023 58](https://fedlex.data.admin.ch/eli/oc/2023/58)). Prolongé jusqu’au 30 avr. 2023 (art. 13, al. 6).
 
 #### Art. 8
 
@@ -154,7 +154,10 @@ Sur ordre de l’OSAV, le vétérinaire cantonal veille à ce qu’un dépistage
 
 <sup>5</sup> La durée de validité de la présente ordonnance et prolongée jusqu’au 15 mars 2023, sous réserve de l’al. 4.[^13-1]
 
+<sup>6</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 30 avril 2023, sous réserve de l’al. 4.[^13-2]
+
 [^13-1]: Introduit par le ch. I de l’O de l’OSAV du 3 fév. 2023, en vigueur depuis le 7 fév. 2023 ([RO 2023 48](https://fedlex.data.admin.ch/eli/oc/2023/48)).
+[^13-2]: Introduit par le ch. I de l’O de l’OSAV du 10 mars 2023, en vigueur depuis le 14 mars 2023 ([RO 2023 125](https://fedlex.data.admin.ch/eli/oc/2023/125)).
 
 Annexe[^t-1]
 

@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordinanza dell’USAV del 24 novembre 2022 che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/713"
 language: it
-version: 2023-03-09
+version: 2023-03-14
 adopted: 2022-11-24
 in_force: 2022-11-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20230309/it/xml/fedlex-data-admin-ch-eli-cc-2022-713-20230309-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20230309/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20230314/it/xml/fedlex-data-admin-ch-eli-cc-2022-713-20230314-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20230314/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 
-del 24 novembre 2022 (Stato 9 marzo 2023)
+del 24 novembre 2022 (Stato 14 marzo 2023)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -76,7 +76,7 @@ La presente ordinanza stabilisce il raggio delle zone di protezione e di sorvegl
 
 La zona di controllo comprende tutta la Svizzera, inclusa l’enclave di Büsingen.
 
-[^7-1]: In vigore dal 9 feb. al 15 mar. 2023 ([RU 2023 58](https://fedlex.data.admin.ch/eli/oc/2023/58)).
+[^7-1]: Nuovo testo giusta il n. I dell’O dell’USAV dell’8 feb. 2023, in vigore dal 9 feb. al 15 mar. 2023 ([RU 2023 58](https://fedlex.data.admin.ch/eli/oc/2023/58)). Prorogato al 30 apr. 2023 (art. 13 cpv. 6).
 
 #### Art. 8
 
@@ -154,7 +154,10 @@ Su ordine dell’USAV, il veterinario cantonale provvede affinché nella zona di
 
 <sup>5</sup> Fatto salvo il capoverso 4, la durata di validità della presente ordinanza è prorogata sino al 15 marzo 2023.[^13-1]
 
+<sup>6</sup> Fatto salvo il capoverso 4, la durata di validità della presente ordinanza è prorogata sino al 30 aprile 2023.[^13-2]
+
 [^13-1]: Introdotto dal n. I dell’O dell’USAV del 3 feb. 2023, in vigore dal 7 feb. 2023 ([RU 2023 48](https://fedlex.data.admin.ch/eli/oc/2023/48)).
+[^13-2]: Introdotto dal n. I dell’O dell’USAV del 10 mar. 2023, in vigore dal 14 mar. 2023 ([RU 2023 125](https://fedlex.data.admin.ch/eli/oc/2023/125)).
 
 Allegato[^t-1]
 

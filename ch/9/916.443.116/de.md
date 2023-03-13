@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Verordnung des BLV vom 24. November 2022 über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/713"
 language: de
-version: 2023-03-09
+version: 2023-03-14
 adopted: 2022-11-24
 in_force: 2022-11-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20230309/de/xml/fedlex-data-admin-ch-eli-cc-2022-713-20230309-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20230309/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20230314/de/xml/fedlex-data-admin-ch-eli-cc-2022-713-20230314-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20230314/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 
-vom 24. November 2022 (Stand am 9. März 2023)
+vom 24. November 2022 (Stand am 14. März 2023)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -76,7 +76,7 @@ Diese Verordnung legt den Umfang der Schutz- und Überwachungszonen nach Artikel
 
 Das Kontrollgebiet umfasst die ganze Schweiz und die deutsche Enklave Büsingen.
 
-[^7-1]: Fassung gemäss Ziff. I der V des BLV vom 8. Febr. 2023, in Kraft vom 9. Febr. bis zum 15. März 2023 ([AS 2023 58](https://fedlex.data.admin.ch/eli/oc/2023/58)).
+[^7-1]: Fassung gemäss Ziff. I der V des BLV vom 8. Febr. 2023, in Kraft vom 9. Febr. bis zum 15. März 2023 ([AS 2023 58](https://fedlex.data.admin.ch/eli/oc/2023/58)). Verlängert bis zum 30. April 2023 (siehe Art. 13 Abs. 6).
 
 #### Art. 8
 
@@ -154,7 +154,10 @@ Auf Anordnung des BLV sorgt die Kantonstierärztin oder der Kantonstierarzt daf�
 
 <sup>5</sup> Die Geltungsdauer dieser Verordnung wird unter Vorbehalt von Absatz 4 bis zum 15. März 2023 verlängert.[^13-1]
 
+<sup>6</sup> Die Geltungsdauer dieser Verordnung wird unter Vorbehalt von Absatz 4 bis zum 30. April 2023 verlängert.[^13-2]
+
 [^13-1]: Eingefügt durch Ziff. I der V des BLV vom 3. Febr. 2023, in Kraft seit 7. Febr. 2023 ([AS 2023 48](https://fedlex.data.admin.ch/eli/oc/2023/48)).
+[^13-2]: Eingefügt durch Ziff. I der V des BLV vom 10. März 2023, in Kraft seit 14. März 2023 ([AS 2023 125](https://fedlex.data.admin.ch/eli/oc/2023/125)).
 
 Anhang[^t-1]
 
