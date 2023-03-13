@@ -4,13 +4,13 @@ number: "923.013"
 title: Standeskommissionsbeschluss über die Fischerei
 short: StKB Fischerei
 language: de
-version: 2022-03-01
-valid_until: 2023-03-13
-version_adopted: 2022-03-01
+version: 2023-03-14
+valid_until: 2024-03-14
+version_adopted: 2023-03-14
 adopted: 2020-02-04
 in_force: 2020-02-10
 url: "https://ai.clex.ch/app/de/texts_of_law/923.013"
-pdf: "https://ai.clex.ch/api/de/versions/2202/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2215/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2202/pdf_file"
 
 (StKB Fischerei)
 
-vom 04.02.2020 (Stand 01.03.2022)
+vom 04.02.2020 (Stand 14.03.2023)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -33,11 +33,11 @@ beschliesst:
 
 **Fangzeiten**
 
-<sup>1</sup> In Fliessgewässern kann vom 9. April bis am 10. September gefischt werden.
+<sup>1</sup> In Fliessgewässern kann vom 8. April bis am 16. September gefischt werden.
 
-<sup>2</sup> In den Bergseen kann vom 9. April bis am 24. September gefischt werden.
+<sup>2</sup> In den Bergseen kann vom 8. April bis am 30. September gefischt werden.
 
-<sup>3</sup> Mit Wochen- und Tagespatenten kann vom 2. Mai bis am 10. September gefischt werden.
+<sup>3</sup> Mit Wochen- und Tagespatenten kann vom 15. Mai bis am 16. September gefischt werden.
 
 ## II. Mindestmasse und Fangzahlen
 
