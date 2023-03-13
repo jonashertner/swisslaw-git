@@ -3,20 +3,20 @@ canton: LU
 number: 736a
 title: Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 language: de
-version: 2023-02-28
-valid_until: 2023-03-13
-version_adopted: 2023-02-28
+version: 2023-03-14
+valid_until: 2023-03-27
+version_adopted: 2023-03-14
 adopted: 2017-07-04
 in_force: 2017-07-04
 url: "https://srl.lu.ch/app/de/texts_of_law/736a"
-pdf: "https://srl.lu.ch/api/de/versions/4057/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4060/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 
-vom 04.07.2017 (Stand 28.02.2023)
+vom 04.07.2017 (Stand 14.03.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -56,6 +56,7 @@ beschliesst:
 <tr><td>Schenkon</td><td>26. September 2021</td><td>25. November 2022</td></tr>
 <tr><td>Vitznau</td><td>13. Februar 2022</td><td>28. Februar 2023</td></tr>
 <tr><td>Pfaffnau</td><td>5. Juli 2022</td><td>28. Februar 2023</td></tr>
+<tr><td>Büron</td><td>31. Mai 2022</td><td>14. März 2023</td></tr>
 </table>
 
 [^Ziff1-1]: SRL Nr. [735](https://srl.lu.ch/data/735/de)
