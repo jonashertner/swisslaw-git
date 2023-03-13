@@ -4,11 +4,11 @@ title: "Ordinanza del 23 ottobre 2013 concernente i pagamenti diretti all'agrico
 short: OPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: it
-version: 2023-01-01
+version: 2023-03-14
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2013-765-20230101-it-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20230314/it/xml/fedlex-data-admin-ch-eli-cc-2013-765-20230314-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20230314/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20230101/it"
 
 (Ordinanza sui pagamenti diretti, OPD)
 
-del 23 ottobre 2013 (Stato 1° gennaio 2023)
+del 23 ottobre 2013 (Stato 14 marzo 2023)
 
 Il Consiglio federale svizzero,
 
@@ -3016,7 +3016,7 @@ Allegato 4[^t-3]
 
 ## Condizioni concernenti le superfici per la promozione della biodiversità
 
-[^t-3]: Aggiornato dal n. II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), dai n. II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), dal n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), dai n. II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), del 3 nov. 2021 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), dal n. II cpv. 1 dell’O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), dal n. II dell’O del 2 nov. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)) e dal n. II cpv. 1 dell’O del 1° nov. 2023, in vigore dal 1° gen. 2023 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^t-3]: Aggiornato dal n. II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), dai n. II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), dal n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), dai n. II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), del 3 nov. 2021 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), dal n. II cpv. 1 dell’O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), dai n. II dell’O del 2 nov. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)) e dal n. II cpv. 1 dell’O del 1° nov. 2023, in vigore dal 1° gen. 2023 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 
 ### A Superfici per la promozione della biodiversità
 
@@ -4192,7 +4192,7 @@ Allegato 8[^t-8]
 
 ## Riduzione dei pagamenti diretti
 
-[^t-8]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Aggiornato dai n. II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), dal n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), dalla correzione del 18 ago. 2020 ([RU 2020 3585](https://fedlex.data.admin.ch/eli/oc/2020/641)), dal n. II delle O dell’11 nov. 2020 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), del 3 nov. 2021 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), dal n. II cpv. 1 dell’O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), dal n. II dell’O del 2 nov. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)) e dal n. II cpv. 1 dell’O del 1° nov. 2023, in vigore dal 1° gen. 2023 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^t-8]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Aggiornato dal n. II delle O del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), dal n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), dalla correzione del 18 ago. 2020 ([RU 2020 3585](https://fedlex.data.admin.ch/eli/oc/2020/641)), dal n. II delle O dell’11 nov. 2020 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), del 3 nov. 2021 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), dal n. II cpv. 1 dell’O del 13 apr. 2022 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), dal n. II dell’O del 2 nov. 2022 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), dal n. II cpv. 1 dell’O del 1° nov. 2023, in vigore dal 1° gen. 2023 ([RU 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) e dalla correzione del 14 mar. 2023 ([RU 2023 126](https://fedlex.data.admin.ch/eli/oc/2023/126)).
 
 ### 1 Considerazioni generali
 
@@ -4256,13 +4256,13 @@ Allegato 8[^t-8]
 - 2\.1.6 Indicazioni sulle superfici e sugli alberi
 
 <table>
-<tr><th>Lacuna per il punto di controllo</th><th colspan="2"></th><th colspan="3">Riduzione o provvedimento</th></tr>
-<tr><td>a. Dichiarazione non corretta delle dimensioni della superficie (art. 98, 100 e 105)</td><td colspan="2">Valore troppo basso Valore troppo alto</td><td colspan="3">Correzione Correzione. In più riduzione pari all’ammontare della differenza di contributo (valore dichiarato meno valore esatto)</td></tr>
-<tr><td>b. Dichiarazione non corretta delle superfici in zone declive (art. 98, 100 e 105)</td><td colspan="2">Indicazioni sull’utilizzo non corrette Superficie o superficie parziale non classificata nel livello di declività giusto</td><td colspan="3">Per tutte le lacune: correzione, nuovo calcolo del contributo per le zone in forte pendenza. In più riduzione di 1000 fr.</td></tr>
-<tr><td>c. Dichiarazione non corretta delle superfici per zone (art. 98, 100 e 105)</td><td colspan="2">Indicazioni sulla zona non corrette Superficie o superficie parziale non classificata nella zona giusta</td><td colspan="3">Per tutte le lacune: correzione. In più riduzione di 200 fr./ha di superficie interessata</td></tr>
-<tr><td>d. Dichiarazione non corretta del numero di alberi isolati / alberi da frutto ad alto fusto nei campi (art. 98, 100 e 105)</td><td colspan="3">Valore troppo basso</td><td colspan="2">Nessuna correzione</td></tr>
-<tr><td></td><td colspan="3">Valore troppo alto</td><td colspan="2">Correzione. In più 50 fr. per albero interessato</td></tr>
-<tr><td colspan="2">e. Dichiarazione non corretta della categoria, del livello qualitativo o dell’interconnessione per alberi isolati / alberi da frutto ad alto fusto nei campi (art. 98, 100 e 105)</td><td colspan="3">Valore errato</td><td colspan="2">Per tutte le lacune: correzione. In più 50 fr. per albero interessato</td></tr>
+<tr><th>Lacuna per il punto di controllo</th><th></th><th colspan="2">Riduzione o provvedimento</th></tr>
+<tr><td>a. Dichiarazione non corretta delle dimensioni della superficie (art. 98, 100 e 105)</td><td>Valore troppo basso Valore troppo alto</td><td colspan="2">Correzione Correzione. In più riduzione pari all’ammontare della differenza di contributo (valore dichiarato meno valore esatto)</td></tr>
+<tr><td>b. Dichiarazione non corretta delle superfici in zone declive (art. 98, 100 e 105)</td><td>Indicazioni sull’utilizzo non corrette Superficie o superficie parziale non classificata nel livello di declività giusto</td><td colspan="2">Per tutte le lacune: correzione, nuovo calcolo del contributo per le zone in forte pendenza. In più riduzione di 1000 fr.</td></tr>
+<tr><td>c. Dichiarazione non corretta delle superfici per zone (art. 98, 100 e 105)</td><td>Indicazioni sulla zona non corrette Superficie o superficie parziale non classificata nella zona giusta</td><td colspan="2">Per tutte le lacune: correzione. In più riduzione di 200 fr./ha di superficie interessata</td></tr>
+<tr><td>d. Dichiarazione non corretta del numero di alberi isolati / alberi da frutto ad alto fusto nei campi (art. 98, 100 e 105)</td><td colspan="2">Valore troppo basso</td><td>Nessuna correzione</td></tr>
+<tr><td></td><td colspan="2">Valore troppo alto</td><td>Correzione. In più 50 fr. per albero interessato</td></tr>
+<tr><td>e. Dichiarazione non corretta della categoria, del livello qualitativo o dell’interconnessione per alberi isolati / alberi da frutto ad alto fusto nei campi (art. 98, 100 e 105)</td><td colspan="2">Valore errato</td><td>Per tutte le lacune: correzione. In più 50 fr. per albero interessato</td></tr>
 </table>
 
 - 2\.1.7 Gestione da parte dell’azienda
@@ -4904,7 +4904,7 @@ Allegato 8[^t-8]
 <tr><td>c. La superficie di uscita non è conforme alle esigenze generali</td><td>Animali della specie bovina e bufali (all. 6 lett. B n. 1.3)</td><td>110 punti</td></tr>
 <tr><td>d. La documentazione delle uscite non è conforme alle esigenze</td><td>Animali della specie bovina e bufali (all. 6 lett. B n. 1.6)</td><td>200 fr. Nessuna riduzione se nello stesso anno e per la stessa categoria di animali i PD sono ridotti in relazione al registro delle uscite per la protezione degli animali</td></tr>
 <tr><td>e. Agli animali non è concessa l’uscita nei giorni richiesti</td><td>Animali della specie bovina e bufali nonché animali delle specie equina, caprina e ovina (all. 6 lett. B n. 2.3, 2.5 e 2.6 nonché C n. 2.1)</td><td>1.5.–31.10.: 4 punti per giorno mancante 1.11.–30.4.: 6 punti per giorno mancante</td></tr>
-<tr><td>f. Nei giorni con uscita al pascolo gli animali coprono meno dell’80 per cento del loro fabbisogno giornaliero di sostanza secca con foraggio ottenuto da pascoli</td><td>Animali della specie bovina e bufali (all. 6 lett. C n. 2.2)</td><td>Meno dell’80 %: 60 punti Meno del 25 %: 110 punti</td></tr>
+<tr><td>f. Nei giorni con uscita al pascolo gli animali coprono meno del 70 per cento del loro fabbisogno giornaliero di sostanza secca con foraggio ottenuto da pascoli</td><td>Animali della specie bovina e bufali (all. 6 lett. C n. 2.2)</td><td>Meno del 70 %: 60 punti Meno del 25 %: 110 punti</td></tr>
 <tr><td>g. Superficie di uscita troppo piccola</td><td>Animali della specie bovina e bufali (all. 6 lett. B n. 2.7)</td><td>Differenza inferiore al 10 %: 60 punti Differenza del 10 % o oltre: 110 punti</td></tr>
 </table>
 

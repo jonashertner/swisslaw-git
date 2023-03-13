@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les paiements directs versés dans l'a
 short: OPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: fr
-version: 2023-01-01
+version: 2023-03-14
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20230101-fr-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20230314/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20230314-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20230314/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20230101/fr"
 
 (Ordonnance sur les paiements directs, OPD)
 
-du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2023)
+du 23 octobre 2013 (État le 14 mars 2023)
 
 Le Conseil fédéral suisse,
 
@@ -99,7 +99,7 @@ Les paiements directs comprennent les types de paiements directs suivants:
 - g. la contribution de transition.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^2-2]: En vigueur le 1<sup>er</sup> janv. 2024 ([RO 2022 2364](https://fedlex.data.admin.ch/eli/oc/2022/2364)).
+[^2-2]: En vigueur le 1<sup>er</sup> janv. 2024 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^2-3]: Abrogés par le ch. I de l’O du 13 avr. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^2-4]: Introduit par le ch. I de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Abrogé par le ch. I de l’O du 13 avr. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^2-5]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
@@ -350,7 +350,7 @@ Les services cantonaux compétents peuvent accorder des autorisations spéciales
 <sup>8</sup> Les surfaces d’essai ne sont pas assujetties aux prescriptions d’utilisation visées à l’annexe 1, ch. 6.1, 6.2 et 6.3. Le requérant doit passer une convention écrite avec l’exploitant et la faire parvenir au service phytosanitaire cantonal, avec le descriptif de l’essai.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^18-2]: Les seuils de tolérance en vigueur sont disponibles sous www.blw.admin.ch &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises; Informations complémentaires; Documentation.
+[^18-2]: Les seuils de tolérance en vigueur sont disponibles sous [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises; Informations complémentaires; Documentation.
 [^18-3]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 #### Art. 19
@@ -1240,7 +1240,7 @@ En dérogation à l’al. 3, les traitements suivants sont autorisés:
 
 [^68-1]: Nouvelle teneur selon le ch. III de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^68-2]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
-[^68-3]: La liste est disponible sous www.swissgranum.ch.
+[^68-3]: La liste est disponible sous [www.swissgranum.ch](http://www.swissgranum.ch).
 [^68-4]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
 
 #### Art. 69
@@ -1570,7 +1570,7 @@ Aucune contribution n’est versée pour l’aménagement:
 
 <sup>2</sup> Elle est versée si l’apport en azote dans l’ensemble de l’exploitation ne dépasse pas 90 % des besoins des cultures. Le bilan est calculé à l’aide de la méthode «Suisse-Bilanz», d’après le Guide Suisse-Bilanz. Sont applicables l’édition du guide Suisse-Bilanz[^71e-1] valable à partir du 1<sup>er</sup> janvier de l’année en cours et celle valable à partir du 1<sup>er</sup> janvier de l’année précédente. L’exploitant peut choisir laquelle des deux éditions il souhaite appliquer.
 
-[^71e-1]: Les éditions applicables du guide peuvent être consultées sous www.blw.admin.ch &gt; Thèmes &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
+[^71e-1]: Les éditions applicables du guide peuvent être consultées sous [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Thèmes &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
 
 ### Section 7 Contribution pour la production de lait et de viande basée sur les herbages
 
@@ -2441,7 +2441,7 @@ Les contributions ne sont pas réduites pour les années 2015 et 2016:
 Pour le calcul de la correction linéaire selon le module complémentaire 6 et du bilan import-export selon le module complémentaire 7 du guide Suisse-Bilan, version 1.8[^115b-2], le canton peut fixer lui-même la période de référence pour les années 2015 et 2016. Pour les poulets de chair, la période de référence correspond à l’année civile.
 
 [^115b-1]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^115b-2]: Les modules complémentaires 6 et 7 du Suisse-Bilan sont téléchargeables sous www.blw.admin.ch &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol &gt; Instruction concernant la prise en compte des aliments appauvris en éléments nutritifs dans le cadre de Suisse-Bilan, édition 1.8 (modules complémentaire 6 et 7) juillet 2015
+[^115b-2]: Les modules complémentaires 6 et 7 du Suisse-Bilan sont téléchargeables sous [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol &gt; Instruction concernant la prise en compte des aliments appauvris en éléments nutritifs dans le cadre de Suisse-Bilan, édition 1.8 (modules complémentaire 6 et 7) juillet 2015
 
 #### Art. 115c
 
@@ -2592,10 +2592,10 @@ Annexe 1[^t-1]
 - 2\.1.12 La clôture de la correction linéaire selon le module complémentaire 6 et du bilan import-export selon le module complémentaire 7 de la méthode «Suisse-Bilanz», selon le ch. 2.1.1, doit avoir lieu entre le 1<sup>er</sup> avril et le 31 août de l’année de contributions. La période de calcul doit comprendre au moins les dix mois précédents. La correction linéaire ou le bilan import-export réalisés doivent être déposés auprès de l’organe d’exécution cantonal au plus tard le 30 septembre de l’année de contributions.
 - 2\.1.13 Les exploitations qui ont conclu des conventions sur la correction linéaire selon le module complémentaire 6 ou sur le bilan import-export selon le module complémentaire 7 de la méthode «Suisse-Bilanz», version 1.10, doivent utiliser les teneurs en éléments fertilisants spécifiques à l’exploitation pour les transferts d’engrais de ferme saisis dans HODUFLU.
 
-[^annex1-lvlu1-lvl2-lvl21-1]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: www.blw.admin.ch &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
+[^annex1-lvlu1-lvl2-lvl21-1]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
 [^annex1-lvlu1-lvl2-lvl21-2]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^annex1-lvlu1-lvl2-lvl21-3]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
-[^annex1-lvlu1-lvl2-lvl21-4]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: www.blw.admin.ch &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
+[^annex1-lvlu1-lvl2-lvl21-4]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
 
 ### 2.2 Analyses du sol
 
@@ -2605,7 +2605,7 @@ Annexe 1[^t-1]
 - 2\.2.4 L’agrément des laboratoires ainsi que la reconnaissance des méthodes d’analyse et des prescriptions en matière d’échantillonnage relèvent de la compétence de l’OFAG. À cette fin, il procède régulièrement à des analyses interlaboratoires et publie chaque année une liste des laboratoires agréés, les méthodes d’analyse et les prescriptions reconnues en matière d’échantillonnage.
 - 2\.2.5 Les laboratoires agréés mettent à la disposition de l’OFAG les données souhaitées concernant les analyses du sol, à des fins d’analyse statistique.
 
-[^annex1-lvlu1-lvl2-lvl22-1]: Le module «2/Caractéristiques et analyses du sol» est disponible sous www.blw.admin.ch &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD) &gt; Bases légales
+[^annex1-lvlu1-lvl2-lvl22-1]: Le module «2/Caractéristiques et analyses du sol» est disponible sous [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD) &gt; Bases légales
 
 ### 3 Surfaces de promotion de la biodiversité imputables et ne donnant pas droit à des contributions
 
@@ -2696,7 +2696,7 @@ Annexe 1[^t-1]
 - 5\.1.6 Si la cause de la perte de sol visée au ch. 5.1.2 sur une parcelle d’exploitation n’est pas claire, le service cantonal compétent la détermine. Il veille ensuite à ce qu’une procédure concertée de prévention de l’érosion soit appliquée dans la région concernée.
 - 5\.1.7 Les contrôles sont effectués de manière ciblée dans les zones à risque après des précipitations. Les services cantonaux compétents établissent une liste des pertes de sol constatées.
 
-[^annex1-lvlu1-lvl5-lvl51-1]: La fiche technique est disponible sous: www.agridea.ch &gt; Publications &gt; Environnement, Paysage &gt; Protection des ressources (eau-air-sol) &gt; Erosion : Quelle quantité de terre perdue?
+[^annex1-lvlu1-lvl5-lvl51-1]: La fiche technique est disponible sous: [www.agridea.ch](http://www.agridea.ch) &gt; Publications &gt; Environnement, Paysage &gt; Protection des ressources (eau-air-sol) &gt; Erosion : Quelle quantité de terre perdue?
 
 ### 6 Sélection et utilisation ciblée des produits phytosanitaires
 
@@ -3394,10 +3394,10 @@ Annexe 5[^t-4]
 - 3\.3 Les rendements en MS des prairies et pâturages fixés dans le tableau 3 du guide Suisse-Bilan[^annex5-lvlu1-lvl3-4] servent de valeurs maximales pour le bilan fourrager. Si les rendements annoncés dépassent ces valeurs, ils doivent être justifiés à l’aide d’une estimation de la valeur de rendement. Le canton peut refuser les estimations de la valeur de rendement non plausibles. Le demandeur doit démontrer à ses frais la plausibilité de ses estimations sur demande du canton.
 - 3\.4 Les exploitations qui n’affourragent leurs animaux qu’avec de l’herbe des prairies et pâturages au sens du ch. 1.2 sont dispensées du calcul du bilan fourrager.
 
-[^annex5-lvlu1-lvl3-1]: Les éditions applicables de la méthode PLVH peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: www.blw.admin.ch &gt; Instruments &gt; Paiements directs &gt; Contributions au système de production &gt; Contribution pour la production de lait et de viande basée sur les herbages.
-[^annex5-lvlu1-lvl3-2]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: www.blw.admin.ch &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
+[^annex5-lvlu1-lvl3-1]: Les éditions applicables de la méthode PLVH peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Contributions au système de production &gt; Contribution pour la production de lait et de viande basée sur les herbages.
+[^annex5-lvlu1-lvl3-2]: Les éditions applicables du guide peuvent être consultées sur le site de l’Office fédéral de l’agriculture à l’adresse suivante: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
 [^annex5-lvlu1-lvl3-3]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
-[^annex5-lvlu1-lvl3-4]: Le guide est disponible sous www.blw.admin.ch &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol &gt; Guide Suisse-Bilan, édition 1.13, août 2015.
+[^annex5-lvlu1-lvl3-4]: Le guide est disponible sous [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol &gt; Guide Suisse-Bilan, édition 1.13, août 2015.
 
 ### 4 Exigences relatives à la documentation
 
@@ -3473,7 +3473,7 @@ Annexe 6[^t-5]
   - b. durant deux jours au plus avant un transport, pour autant que le numéro d’identification des animaux entravés selon l’ordonnance du 26 octobre 2011 sur la BDTA[^annex6-lvlu1-lvlA-lvl2-2] des animaux concernés et la date du transport aient été notés dans un journal avant la dérogation;
   - c. dans le cas des génisses en gestation avancée, qui sont gardées dans une stabulation entravée après le vêlage, elles peuvent y être déplacées au plus tôt dix jours avant la date présumée du vêlage.
 
-[^annex6-lvlu1-lvlA-lvl2-1]: La norme peut être consultée gratuitement auprès de l’Office fédéral de l’agriculture, 3003 Berne ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex6-lvlu1-lvlA-lvl2-1]: La norme peut être consultée gratuitement auprès de l’Office fédéral de l’agriculture, 3003 Berne ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 [^annex6-lvlu1-lvlA-lvl2-2]: [[RO 2011 5453](https://fedlex.data.admin.ch/eli/oc/2011/775); [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)annexe ch. 1; [2013 1753](https://fedlex.data.admin.ch/eli/oc/2013/399), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 13, [3999](https://fedlex.data.admin.ch/eli/oc/2013/730); [2014 1389](https://fedlex.data.admin.ch/eli/oc/2014/294), [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)annexe ch. 2; [2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)annexe ch. 2, [4573](https://fedlex.data.admin.ch/eli/oc/2015/770); [2016 3401](https://fedlex.data.admin.ch/eli/oc/2016/570); [2017 6145](https://fedlex.data.admin.ch/eli/oc/2017/680); [2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293), [4275](https://fedlex.data.admin.ch/eli/oc/2018/683), [4353](https://fedlex.data.admin.ch/eli/oc/2018/702)art. 20 ch. 2, [4543](https://fedlex.data.admin.ch/eli/oc/2018/708)annexe ch. 2; [2019 3673](https://fedlex.data.admin.ch/eli/oc/2019/663); [2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)annexe 4 ch. 9; [2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)ch. II 1; [2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)annexe ch. 1]. Voir actuellement l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux ([RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849))
 
 ### 3 Équidés
@@ -3867,7 +3867,7 @@ Annexe 6a[^t-6]
 - 4\.1 L’exploitant est tenu d’effectuer les enregistrements sur l’alimentation animale selon les instructions concernant la prise en compte des aliments appauvris en éléments nutritifs dans le cadre de Suisse-Bilanz. Sont applicables l’édition du guide Suisse-Bilanz[^annex6a-lvlu1-lvl4-1] valable à partir du 1<sup>er</sup> janvier de l’année en cours et celle valable à partir du 1<sup>er</sup> janvier de l’année précédente. L’exploitant peut choisir laquelle des deux éditions il souhaite appliquer.
 - 4\.2 Sont déterminants la teneur en protéines brutes exprimée en g/MJ EDP des aliments pour animaux compris dans la correction linéaire clôturée ou dans le bilan import/export conformément à l’annexe 1, ch. 2.1.12.
 
-[^annex6a-lvlu1-lvl4-1]: Les éditions applicables du guide peuvent être consultées sous www.blw.admin.ch &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
+[^annex6a-lvlu1-lvl4-1]: Les éditions applicables du guide peuvent être consultées sous [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
 
 ### 5 Vérification du respect de la valeur limite
 
@@ -4185,7 +4185,7 @@ Annexe 8[^t-8]
 
 ## Réduction des paiements directs
 
-[^t-8]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Mise à jour par le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), les errata des 17 janv. 2017 ([RO 2017 133](https://fedlex.data.admin.ch/eli/oc/2017/40)), 26 sept. 2017 ([RO 2017 5061](https://fedlex.data.admin.ch/eli/oc/2017/551)), 14 nov. 2017 ([RO 2017 6021](https://fedlex.data.admin.ch/eli/oc/2017/662)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), le ch. II des O du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)) et le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^t-8]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Mise à jour par le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), les errata des 17 janv. 2017 ([RO 2017 133](https://fedlex.data.admin.ch/eli/oc/2017/40)), 26 sept. 2017 ([RO 2017 5061](https://fedlex.data.admin.ch/eli/oc/2017/551)), 14 nov. 2017 ([RO 2017 6021](https://fedlex.data.admin.ch/eli/oc/2017/662)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), le ch. II des O du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)) et le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)). L’erratum du 14 mars 2023 ne concerne que le texte italien ([RO 2023 126](https://fedlex.data.admin.ch/eli/oc/2023/126)).
 
 ### 1 Généralités
 
@@ -4949,7 +4949,7 @@ Annexe 8[^t-8]
 <tr><td>b. La ration alimentaire complète de l’ensemble des porcs gardés dans l’exploitation dépasse la valeur limite spécifique à l’exploitation en protéines brutes en grammes par mégajoule d’énergie digestible porcs (g/MJ EDP) (annexe 6*a*, ch. 3 et 5) Les aliments ne présentent pas une valeur nutritive adaptée aux besoins des animaux (art. 82*c*, al. 1). Dans l’engraissement des porcs, moins de deux rations alimentaires ayant des teneurs différentes en protéines brutes en g/MJ EDP sont utilisées pendant la durée de l’engraissement. La ration alimentaire utilisée en phase finale de l’engraissement représente, par rapport à la matière sèche, moins de 30 % des aliments utilisés dans l’engraissement des porcs (art. 82*c*, al. 2).</td><td>200 % des contributions</td></tr>
 </table>
 
-[^annex8-lvlu1-lvl2-lvl210-1]: Les éditions applicables des modules complémentaires peuvent être consultées sous www.blw.admin.ch &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
+[^annex8-lvlu1-lvl2-lvl210-1]: Les éditions applicables des modules complémentaires peuvent être consultées sous [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
 
 ### 2.11 Dispositions applicables à l’agriculture dans la législation sur la protection des eaux, de l’environnement, de la nature et du paysage
 

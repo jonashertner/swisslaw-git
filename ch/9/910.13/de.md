@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Oktober 2013 über die Direktzahlungen an die Landwir
 short: DZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: de
-version: 2023-01-01
+version: 2023-03-14
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20230101-de-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20230314/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20230314-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20230314/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20230101/de"
 
 (Direktzahlungsverordnung, DZV)
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2023)
+vom 23. Oktober 2013 (Stand am 14. März 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -4182,7 +4182,7 @@ Anhang 8[^t-8]
 
 ## Kürzungen der Direktzahlungen
 
-[^t-8]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), vom 3. Nov. 2021 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), Ziff. II der V vom 2. Nov. 2022 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)) und Ziff. II Abs. 1 der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^t-8]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), vom 3. Nov. 2021 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), Ziff. II der V vom 2. Nov. 2022 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)) und Ziff. II Abs. 1 der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)). Die Berichtigung vom 14. März 2023 betrifft nur den italienischen Text ([AS 2023 126](https://fedlex.data.admin.ch/eli/oc/2023/126)).
 
 ### 1 Allgemeines
 
