@@ -4,11 +4,11 @@ title: "Lescha dals 30 da settember 2016 d'energia (LEn)"
 short: LEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: rm
-version: 2023-01-01
+version: 2023-03-15
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230315/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230315-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230315/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEn)
 
-dals 30 da settember 2016 (versiun dal 1. da schaner 2023)
+dals 30 da settember 2016 (versiun dals 15 da mars 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1270,10 +1270,10 @@ Cun ina multa fin a 100 000 francs vegn chastià, tgi che fa intenziunadamain il
 
 <sup>1</sup>
 
-Fin che l’installaziun d’implants fotovoltaics gronds tenor l’alinea 2 permetta da producir en Svizra tut en tut 2 TWh per onn, valan las suandantas cundiziuns per tals implants sco er per lur conducts d’attatg:
+Fin che l’installaziun d’implants fotovoltaics gronds tenor l’alinea 2 permetta da producir en Svizra tut en tut 2 TWh per onn, valan las suandantas cundiziuns per tals implants sco er per lur conducts d’attatg:[^71a-2]
 
 - a. lur basegn è cumprovà;
-- b. els èn d’in interess naziunal ed èn liads al lieu; en cas d’implants en objects tenor l’artitgel 5 LPNP[^71a-2] resta en vigur l’obligaziun da schanegiar uschè bain sco pussaivel l’object, e quai cun prender mesiras da restabiliment u da cumpensaziun, sch’i vegn divergià dal princip d’in mantegniment intact;
+- b. els èn d’in interess naziunal ed èn liads al lieu; en cas d’implants en objects tenor l’artitgel 5 LPNP[^71a-3] resta en vigur l’obligaziun da schanegiar uschè bain sco pussaivel l’object, e quai cun prender mesiras da restabiliment u da cumpensaziun, sch’i vegn divergià dal princip d’in mantegniment intact;
 - c. els n’èn betg suttamess a l’obligaziun da planisaziun;
 - d. l’interess d’als realisar ha da princip la precedenza envers auters interess naziunals, regiunals e locals;
 - e.
@@ -1282,7 +1282,7 @@ Fin che l’installaziun d’implants fotovoltaics gronds tenor l’alinea 2 per
 
   - 1\. palids e cuntradas da palì tenor l’artitgel 78 alinea 5 da la Constituziun federala,
   - 2\. biotops d’impurtanza naziunala tenor l’artitgel 18*a* LPNP, e
-  - 3\. en reservats d’utschels da l’aua e d’utschels migrants tenor l’artitgel 11 da la Lescha da chatscha dals 20 da zercladur 1986[^71a-3].
+  - 3\. en reservats d’utschels da l’aua e d’utschels migrants tenor l’artitgel 11 da la Lescha da chatscha dals 20 da zercladur 1986[^71a-4].
 
 <sup>2</sup>
 
@@ -1300,8 +1300,9 @@ Ils implants fotovoltaics gronds ston ademplir las suandantas premissas:
 <sup>6</sup> Quest artitgel resta applitgabel per dumondas che vegnan exponidas publicamain fin ils 31 da december 2025 sco er per eventualas proceduras da recurs.
 
 [^71a-1]: Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^71a-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^71a-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^71a-2]: La rectificaziun da la Cumissiun da redacziun da l’AF dals 14 da mars 2023, publitgada ils 15 da mars 2023, concerna mo il text talian ([AS 2023 129](https://fedlex.data.admin.ch/eli/oc/2023/129)).
+[^71a-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^71a-4]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 
 #### Art. 71b
 
@@ -1411,7 +1412,7 @@ Per consuments finals che han fatg ina cunvegna da finamiras tenor il dretg vert
 
 Ils chantuns decreteschan las disposiziuns davart las excepziuns tenor l’artitgel 45*a* alinea 2 fin il 1. da schaner 2023. Las dumondas che vegnan inoltradas avant questa data, n’èn betg suttamessas a l’obligaziun tenor l’artitgel 45*a* alinea 1.
 
-[^75b-1]: Oriundamain art. 75*a*. Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^75b-1]: Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543), là art. 75*a*; [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 #### Art. 76
 

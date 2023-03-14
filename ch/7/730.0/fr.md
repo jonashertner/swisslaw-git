@@ -4,11 +4,11 @@ title: "Loi du 30 septembre 2016 sur l'énergie (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: fr
-version: 2023-01-01
+version: 2023-03-15
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230101-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230315/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230315-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230101/fr"
 
 (LEne)[^t-1]
 
-du 30 septembre 2016 (État le 1<sup>er</sup> janvier 2023)
+du 30 septembre 2016 (État le 15 mars 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -1271,10 +1271,10 @@ Est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement:
 
 <sup>1</sup>
 
-Jusqu’à ce que la construction en Suisse de grandes installations photovoltaïques au sens de l’al. 2 permette une production annuelle totale de 2 TWh, les conditions suivantes s’appliquent à ces installations ainsi qu’à leurs lignes de raccordement:
+Jusqu’à ce que la construction en Suisse de grandes installations photovoltaïques au sens de l’al. 2 permette une production annuelle totale de 2 TWh, les conditions suivantes s’appliquent à ces installations ainsi qu’à leurs lignes de raccordement:[^71a-2]
 
 - a. leur nécessité est démontrée;
-- b. elles sont considérées comme des constructions relevant d’un intérêt national et dont l’implantation est imposée par leur destination; pour les installations situées dans les objets visés à l’art. 5 LPN[^71a-2], l’obligation de ménager l’objet le plus possible, y compris au moyen de mesures de reconstitution ou de remplacement, demeure s’il est dérogé au principe de conservation intacte;
+- b. elles sont considérées comme des constructions relevant d’un intérêt national et dont l’implantation est imposée par leur destination; pour les installations situées dans les objets visés à l’art. 5 LPN[^71a-3], l’obligation de ménager l’objet le plus possible, y compris au moyen de mesures de reconstitution ou de remplacement, demeure s’il est dérogé au principe de conservation intacte;
 - c. elles ne sont pas soumises à l’obligation d’aménager le territoire;
 - d. l’intérêt de les réaliser prime en principe d’autres intérêts nationaux, régionaux et locaux;
 - e.
@@ -1283,7 +1283,7 @@ Jusqu’à ce que la construction en Suisse de grandes installations photovolta�
 
   - 1\. les marais et les sites marécageux visés à l’art. 78, al. 5, de la Constitution,
   - 2\. les biotopes d’importance nationale visés à l’art. 18*a*, LPN, et
-  - 3\. les réserves de sauvagine et d’oiseaux migrateurs visées à l’art. 11 de la loi du 20 juin 1986 sur la chasse[^71a-3].
+  - 3\. les réserves de sauvagine et d’oiseaux migrateurs visées à l’art. 11 de la loi du 20 juin 1986 sur la chasse[^71a-4].
 
 <sup>2</sup>
 
@@ -1301,8 +1301,9 @@ Les grandes installations photovoltaïques sont celles qui remplissent les exige
 <sup>6</sup> Le présente article reste applicable aux demandes mises à l’enquête publique avant le 31 décembre 2025 ainsi qu’aux éventuelles procédures de recours.
 
 [^71a-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^71a-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^71a-3]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^71a-2]: L’erratum de la CdR de l’Ass. féd. du 14 mars 2023, publié le 15 mars 2023, ne concerne que le texte italien ([RO 2023 129](https://fedlex.data.admin.ch/eli/oc/2023/129)).
+[^71a-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^71a-4]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 
 #### Art. 71b
 

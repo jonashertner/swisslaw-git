@@ -4,11 +4,11 @@ title: "Legge federale sull'energia del 30 settembre 2016 (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: it
-version: 2023-01-01
+version: 2023-03-15
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230101-it-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230315/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230315-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230101/it"
 
 (LEne)
 
-del 30 settembre 2016 (Stato 1° gennaio 2023)
+del 30 settembre 2016 (Stato 15 marzo 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1271,10 +1271,10 @@ Tutte le persone incaricate dell’esecuzione della presente legge sottostanno a
 
 <sup>1</sup>
 
-Ai grandi impianti fotovoltaici che soddisfano i requisiti di cui al capoverso 2, nonché alle relative linee di allacciamento, si applicano, fino a quando in Svizzera non sono realizzati impianti che producono complessivamente 2 TWh di energia, le condizioni seguenti:
+Ai grandi impianti fotovoltaici che soddisfano i requisiti di cui al capoverso 2, nonché alle relative linee di allacciamento, si applicano, fino a quando in Svizzera non sono realizzati impianti che producono complessivamente 2 TWh di energia all’anno, le condizioni seguenti:[^71a-2]
 
 - a. la loro necessità è comprovata;
-- b. sono di interesse nazionale e a ubicazione vincolata; per gli impianti situati in oggetti di cui all’articolo 5 LPN[^71a-2] l’obbligo di salvaguardare detti oggetti per quanto possibile, per mezzo di provvedimenti di ripristino o di sostituzione, rimane applicabile anche in caso di deroga al principio di conservarli intatti;
+- b. sono di interesse nazionale e a ubicazione vincolata; per gli impianti situati in oggetti di cui all’articolo 5 LPN[^71a-3] l’obbligo di salvaguardare detti oggetti per quanto possibile, per mezzo di provvedimenti di ripristino o di sostituzione, rimane applicabile anche in caso di deroga al principio di conservarli intatti;
 - c. non sottostanno all’obbligo di pianificazione;
 - d. l’interesse alla loro realizzazione prevale in linea di principio su altri interessi nazionali, regionali e locali;
 - e.
@@ -1283,7 +1283,7 @@ Ai grandi impianti fotovoltaici che soddisfano i requisiti di cui al capoverso 2
 
   - 1\. nelle paludi e nei paesaggi palustri di cui all’articolo 78 capoverso 5 della Costituzione federale,
   - 2\. nei biotopi d’importanza nazionale di cui all’articolo 18*a* LPN, e
-  - 3\. nelle riserve per uccelli acquatici e di passo di cui all’articolo 11 della legge del 20 giugno 1986[^71a-3] sulla caccia.
+  - 3\. nelle riserve per uccelli acquatici e di passo di cui all’articolo 11 della legge del 20 giugno 1986[^71a-4] sulla caccia.
 
 <sup>2</sup>
 
@@ -1301,8 +1301,9 @@ I grandi impianti fotovoltaici devono soddisfare i requisiti seguenti:
 <sup>6</sup> Il presente articolo rimane applicabile alle domande depositate pubblicamente entro il 31 dicembre 2025 nonché alle eventuali procedure di ricorso.
 
 [^71a-1]: Introdotto dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^71a-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^71a-3]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^71a-2]: Correzione della CdR dell’AF del 14 mar. 2023, pubblicata il 15 mar. 2023 ([RU 2023 129](https://fedlex.data.admin.ch/eli/oc/2023/129)).
+[^71a-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^71a-4]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 
 #### Art. 71b
 
