@@ -4,13 +4,13 @@ number: "772.300"
 title: Gesetz über die Industriellen Werke Basel
 short: IWB-Gesetz
 language: de
-version: 2021-12-13
-valid_until: 2023-03-15
-version_adopted: 2021-10-20
+version: 2023-03-16
+valid_until: 2024-12-31
+version_adopted: 2023-01-11
 adopted: 2009-02-11
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5379/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5860/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ IWB-Gesetz | Energie- und Wasserversorgung
 
 (IWB-Gesetz)
 
-Vom 11. Februar 2009 (Stand 13. Dezember 2021)
+Vom 11. Februar 2009 (Stand 16. März 2023)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -121,6 +121,12 @@ beschliesst:
 <sup>3</sup> Im Bereich der Elektrizität streben die IWB an, den Absatz vollständig aus erneuerbaren Energien zu decken. Sie stellen durch Beteiligungen und/oder langfristige Lieferverträge sicher, dass durchschnittlich über fünf Jahre mindestens 80% der von den IWB an die Endkundinnen und Endkunden veräusserten Elektrizität aus erneuerbaren Energien erzeugt wird.
 
 <sup>4</sup> Die IWB beteiligen sich nicht an Grosskraftwerken, welche für die Erzeugung von Elektrizität aus nicht erneuerbaren Energien (Kernkraft, Erdgas und Kohle) angelegt sind, und vermeiden, soweit im Rahmen ihres Versorgungsauftrags wirtschaftlich tragbar, den Einkauf von Elektrizität aus solchen Grosskraftwerken.
+
+<sup>5</sup> Die Versorgung mit Erdgas zur Wärmeerzeugung im Kanton Basel-Stadt endet im Jahr 2037. In Bereichen des Fernwärmeversorgungsgebiets nach §1 Abs. 2<sup>bis</sup>, in denen bis dahin eine Abgabe von Fernwärme noch nicht möglich ist, kann der Regierungsrat auf Antrag der IWB hin zeitlich befristete Ausnahmen vorsehen.
+
+<sup>6</sup> Die IWB wirken darauf hin, dass die Versorgung mit Erdgas zur Wärmeerzeugung ausserhalb des Kantonsgebietes bis spätestens zum Jahr 2050 beendet wird; vorbehalten bleibt die Versorgung mit Gas auf Basis von erneuerbaren Quellen. Im Rahmen des Leistungsauftrags und der Eigentümerstrategie setzt der Regierungsrat unter Einhaltung der Grundsätze gemäss Abs. 1 entsprechende Zwischenziele.
+
+<sup>7</sup> Die IWB stellen sicher, dass Erweiterungen des Netzes für die Versorgung mit Erdgas zur Wärmeerzeugung nur noch im Rahmen der im Zeitpunkt des Inkrafttretens dieser Bestimmung bestehenden vertraglichen Verpflichtungen erfolgen und Investitionen in das Netz für die Erdgasversorgung zur Wärmeerzeugung bis zum Zeitpunkt der Einstellung der Versorgung mit Erdgas für die Wärmeerzeugung so weit als möglich abgeschrieben sind.
 
 ## III. Organisation der IWB
 
