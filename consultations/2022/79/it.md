@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Pa.Iv. Garantire la prassi dei casi di rigore secondo l'articolo 50 LStrI in caso di violenza nel matrimonio"
 document: Progetto posto in consultazione
 language: it

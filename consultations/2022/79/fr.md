@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Iv.pa. Garantir la pratique pour raisons personnelles majeures visée à l'article 50 LEI en cas de violence domestique"
 document: Projet mis en consultation
 language: fr

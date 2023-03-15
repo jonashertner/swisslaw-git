@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Pa.Iv. Bei häuslicher Gewalt die Härtefallpraxis nach Artikel 50 AIG garantieren
 document: Vernehmlassungsvorlage
 language: de
