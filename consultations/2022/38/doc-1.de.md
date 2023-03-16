@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über die Individualbesteuerung
 document: Vernehmlassungsvorlage-2
 language: de

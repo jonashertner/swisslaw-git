@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sull’imposizione individuale
 document: Progetto posto in consultazione-2
 language: it

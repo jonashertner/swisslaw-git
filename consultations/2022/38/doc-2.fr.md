@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur l’imposition individuelle
 document: Projet mis en consultation-1
 language: fr
