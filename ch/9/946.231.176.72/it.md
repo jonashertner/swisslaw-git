@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2023-03-02
+version: 2023-03-17
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230302/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230302-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230302/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230317/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230317-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230317/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 2 marzo 2023)
+del 4 marzo 2022 (Stato 17 marzo 2023)
 
 Il Consiglio federale svizzero,
 
@@ -794,10 +794,10 @@ Sono vietati l’assistenza all’emissione, la negoziazione o la prestazione di
 Nelle sedi di negoziazione, per i valori mobiliari di qualsiasi banca, impresa o organizzazione stabilita nella Federazione Russa sotto controllo pubblico o di proprietà pubblica per oltre il 50 per cento, sono vietate:
 
 - a. la quotazione e la fornitura di servizi;
-- b. ... .[^18-2]
+- b. l’ammissione alla negoziazione.[^18-2]
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00, la lett. b in vigore il 17 mar. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^18-2]: Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00, la lett. b in vigore dal 17 mar. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 
 #### Art. 19
 

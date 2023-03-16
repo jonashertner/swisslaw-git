@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2023-03-02
+version: 2023-03-17
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230302/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230302-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230302/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230317/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230317-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230317/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 2 mars 2023)
+du 4 mars 2022 (État le 17 mars 2023)
 
 Le Conseil fédéral suisse,
 
@@ -792,10 +792,10 @@ L’aide à l’émission, le négoce, ou la prestation de services d’investis
 Sur des plates-formes de négociation, pour les valeurs mobilières de toute banque, entreprise ou entité établie en Fédération de Russie et contrôlée ou détenue à plus de 50 % par une entité étatique, il est interdit:
 
 - a. de répertorier et de fournir des services;
-- b. … .[^18-2]
+- b. de les admettre à la négociation.[^18-2]
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^18-2]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures, sous réserve de la let. b., en vigueur depuis le 17 mars 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures, sous réserve de la let. b, en vigueur depuis le 17 mars 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 
 #### Art. 19
 
@@ -1303,8 +1303,8 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 
 [^29c-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^29c-2]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
-[^29c-3]: Cet accord intercantonal peut être consulté à l’adresse suivante www.lexfind.ch/fe/de/tol/33879/versions/219579/de
-[^29c-4]: Cet accord intercantonal peut être consulté à l’adresse suivante www.lexfind.ch/fe/de/tol/33884/versions/219203/de
+[^29c-3]: Cet accord intercantonal peut être consulté à l’adresse suivante [www.lexfind.ch/fe/de/tol/33879/versions/219579/de](http://www.lexfind.ch/fe/de/tol/33879/versions/219579/de)
+[^29c-4]: Cet accord intercantonal peut être consulté à l’adresse suivante [www.lexfind.ch/fe/de/tol/33884/versions/219203/de](http://www.lexfind.ch/fe/de/tol/33884/versions/219203/de)
 
 #### Art. 30
 

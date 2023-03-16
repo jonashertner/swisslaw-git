@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2023-03-02
+version: 2023-03-17
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230302/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230302-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230302/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230317/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230317-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230317/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 2. März 2023)
+vom 4. März 2022 (Stand am 17. März 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -793,10 +793,10 @@ Die Unterstützung bei der Ausgabe von, der Handel von und die Erbringung von Ef
 Es ist verboten, an Handelsplätzen Effekten von in der Russischen Föderation niedergelassenen Banken, Unternehmen oder Organisationen, die von einer staatlichen Stelle kontrolliert werden oder an denen eine staatliche Stelle zu über fünfzig Prozent beteiligt ist:
 
 - a. zu notieren und Dienstleistungen dafür zu erbringen;
-- b. … .[^18-2]
+- b. zum Handel zuzulassen.[^18-2]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^18-2]: Fassung gemäss Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr, Bst. b in Kraft ab 17. März 2023 ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^18-2]: Fassung gemäss Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr, Bst. b in Kraft seit 17. März 2023 ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 
 #### Art. 19
 
