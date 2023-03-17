@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)
 short: KVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: de
-version: 2023-01-01
+version: 2023-03-18
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230318/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230318-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230318/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230101/de"
 
 (KVG)
 
-vom 18. März 1994 (Stand am 1. Januar 2023)
+vom 18. März 1994 (Stand am 18. März 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -685,13 +685,25 @@ Leistungserbringer nach Artikel 35 Absatz 2 Buchstabe a müssen mindestens drei 
 - b. ein in der Amtssprache der Tätigkeitsregion erworbenes eidgenössisches Diplom für Ärzte und Ärztinnen;
 - c. ein in der Amtssprache der Tätigkeitsregion erworbenes und nach Artikel 15 des Medizinalberufegesetzes vom 23. Juni 2006[^37-2] anerkanntes ausländisches Diplom.
 
-<sup>2</sup> Die Einrichtungen nach Artikel 35 Absatz 2 Buchstabe n werden nur zugelassen, wenn die dort tätigen Ärzte und Ärztinnen die Voraussetzungen nach Absatz 1 erfüllen.
+<sup>1bis</sup>
 
-<sup>3</sup> Leistungserbringer nach den Absätzen 1 und 2 müssen sich einer zertifizierten Gemeinschaft oder Stammgemeinschaft nach Artikel 11 Buchstabe a des Bundesgesetzes vom 19. Juni 2015[^37-3] über das elektronische Patientendossier anschliessen.
+Die Kantone können Leistungserbringer nach Artikel 35 Absatz 2 Buchstabe a, die über einen der folgenden eidgenössischen Weiterbildungstitel oder einen als gleichwertig anerkannten ausländischen Weiterbildungstitel (Art. 21 des Medizinalberufegesetzes vom 23. Juni 2006) verfügen, von der Anforderung, während mindestens drei Jahren an einer anerkannten schweizerischen Weiterbildungsstätte gearbeitet zu haben, ausnehmen, wenn auf dem Kantonsgebiet in den betroffenen Bereichen eine Unterversorgung besteht:
+
+- a. Allgemeine Innere Medizin als einziger Weiterbildungstitel;
+- b. Praktischer Arzt oder Praktische Ärztin als einziger Weiterbildungstitel;
+- c. Kinder- und Jugendmedizin;
+- d. Kinder- und Jugendpsychiatrie und -psychotherapie.[^37-3]
+
+<sup>2</sup> Die Einrichtungen nach Artikel 35 Absatz 2 Buchstabe n werden nur zugelassen, wenn die dort tätigen Ärzte und Ärztinnen die Voraussetzungen nach den Absätzen 1 und 1<sup>bis</sup> erfüllen.[^37-4]
+
+<sup>3</sup> Leistungserbringer nach den Absätzen 1, 1<sup>bis</sup> und 2 müssen sich einer zertifizierten Gemeinschaft oder Stammgemeinschaft nach Artikel 11 Buchstabe a des Bundesgesetzes vom 19. Juni 2015[^37-5] über das elektronische Patientendossier anschliessen.[^37-6]
 
 [^37-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Zulassung von Leistungserbringern), in Kraft seit 1. Jan. 2022 ([AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [BBl 2018 3125](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 [^37-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^37-3]: [SR 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+[^37-3]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Ausnahmen von der Pflicht einer dreijährigen Tätigkeit), in Kraft vom 18. März 2023 bis zum 31. Dez. 2027 ([AS 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [BBl 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
+[^37-4]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Ausnahmen von der Pflicht einer dreijährigen Tätigkeit), in Kraft vom 18. März 2023 bis zum 31. Dez. 2027 ([AS 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [BBl 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
+[^37-5]: [SR 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+[^37-6]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Ausnahmen von der Pflicht einer dreijährigen Tätigkeit), in Kraft vom 18. März 2023 bis zum 31. Dez. 2027 ([AS 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [BBl 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
 
 #### Art. 38
 

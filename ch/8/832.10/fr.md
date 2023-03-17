@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: fr
-version: 2023-01-01
+version: 2023-03-18
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230318/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230318-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230318/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230101/fr"
 
 (LAMal)
 
-du 18 mars 1994 (État le 1<sup>er</sup> janvier 2023)
+du 18 mars 1994 (État le 18 mars 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -687,13 +687,25 @@ Les fournisseurs de prestations visés à l’art. 35, al. 2, let. a, doivent av
 - b. diplôme fédéral de médecine obtenu dans la langue officielle de la région dans laquelle ils exercent;
 - c. diplôme étranger reconnu en vertu de l’art. 15 de la loi du 23 juin 2006 sur les professions médicales[^37-2] obtenu dans la langue officielle de la région dans laquelle ils exercent.
 
-<sup>2</sup> Les institutions visées à l’art. 35, al. 2, let. n, ne sont admises que si les médecins qui y pratiquent remplissent les conditions prévues à l’al. 1.
+<sup>1bis</sup>
 
-<sup>3</sup> Les fournisseurs de prestations visés aux al. 1 et 2 doivent s’affilier à une communauté ou à une communauté de référence certifiée au sens de l’art. 11, let. a, de la loi fédérale du 19 juin 2015 sur le dossier électronique du patient[^37-3].
+Les cantons peuvent exempter les fournisseurs de prestations visés à l’art. 35, al. 2, let. a, titulaires d’un des titres postgrades fédéraux suivants ou d’un titre étranger reconnu équivalent (art. 21 de la loi du 23 juin 2006 sur les professions médicales) de l’exigence d’avoir travaillé pendant au moins trois ans dans un établissement suisse reconnu de formation postgrade si l’offre de soins est insuffisante sur leur territoire dans les domaines concernés:
+
+- a. médecine interne générale comme seul titre postgrade;
+- b. médecin praticien comme seul titre postgrade;
+- c. pédiatrie;
+- d. psychiatrie et psychothérapie d’enfants et d’adolescents.[^37-3]
+
+<sup>2</sup> Les institutions visées à l’art. 35, al. 2, let. n, ne sont admises que si les médecins qui y pratiquent remplissent les conditions prévues aux al. 1 et 1<sup>bis</sup>.[^37-4]
+
+<sup>3</sup> Les fournisseurs de prestations visés aux al. 1, 1<sup>bis</sup> et 2 doivent s’affilier à une communauté ou à une communauté de référence certifiée au sens de l’art. 11, let. a, de la loi fédérale du 19 juin 2015 sur le dossier électronique du patient[^37-5].[^37-6]
 
 [^37-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 [^37-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^37-3]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+[^37-3]: Introduit par le ch. I de la LF du 17 mars 2023 (Exceptions à l’obligation d’avoir exercé pendant trois ans), en vigueur du 18 mars 2023 au 31 déc. 2027 ([RO 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [FF 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
+[^37-4]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Exceptions à l’obligation d’avoir exercé pendant trois ans), en vigueur du 18 mars 2023 au 31 déc. 2027 ([RO 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [FF 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
+[^37-5]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+[^37-6]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Exceptions à l’obligation d’avoir exercé pendant trois ans), en vigueur du 18 mars 2023 au 31 déc. 2027 ([RO 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [FF 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
 
 #### Art. 38
 

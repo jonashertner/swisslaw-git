@@ -4,11 +4,11 @@ title: "Legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: it
-version: 2023-01-01
+version: 2023-03-18
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230318/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230318-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230318/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230101/it"
 
 (LAMal)
 
-del 18 marzo 1994 (Stato 1° gennaio 2023)
+del 18 marzo 1994 (Stato 18 marzo 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -684,13 +684,25 @@ I fornitori di prestazioni di cui all’articolo 35 capoverso 2 lettera a devono
 - b. un diploma federale di medico conseguito nella lingua ufficiale della regione in cui esercitano la loro attività;
 - c. un diploma estero riconosciuto secondo l’articolo 15 della legge del 23 giugno 2006[^37-2] sulle professioni mediche conseguito nella lingua ufficiale della regione in cui esercitano la loro attività.
 
-<sup>2</sup> Gli istituti di cui all’articolo 35 capoverso 2 lettera n sono autorizzati solo se i medici che vi esercitano la propria attività soddisfano le condizioni di cui al capoverso 1.
+<sup>1bis</sup>
 
-<sup>3</sup> I fornitori di prestazioni di cui ai capoversi 1 e 2 devono affiliarsi a una comunità o a una comunità di riferimento certificata ai sensi dell’articolo 11 lettera a della legge federale del 19 giugno 2015[^37-3] sulla cartella informatizzata del paziente.
+I Cantoni possono esonerare fornitori di prestazioni di cui all’articolo 35 capoverso 2 lettera a in possesso di uno dei titoli federali di perfezionamento elencati di seguito o di un titolo di perfezionamento estero riconosciuto equivalente (art. 21 della legge del 23 giugno 2006 sulle professioni mediche) dall’obbligo di avere lavorato per almeno tre anni in un centro svizzero di perfezionamento riconosciuto se l’offerta sanitaria sul territorio cantonale è insufficiente nei settori interessati:
+
+- a. medicina interna generale quale unico titolo di perfezionamento;
+- b. medico generico quale unico titolo di perfezionamento;
+- c. pediatria;
+- d. psichiatria e psicoterapia infantile e dell’adolescenza.[^37-3]
+
+<sup>2</sup> Gli istituti di cui all’articolo 35 capoverso 2 lettera n sono autorizzati solo se i medici che vi esercitano la propria attività soddisfano le condizioni di cui ai capoversi 1 e 1<sup>bis</sup>.[^37-4]
+
+<sup>3</sup> I fornitori di prestazioni di cui ai capoversi 1, 1<sup>bis</sup> e 2 devono affiliarsi a una comunità o a una comunità di riferimento certificata ai sensi dell’articolo 11 lettera a della legge federale del 19 giugno 2015[^37-5] sulla cartella informatizzata del paziente.[^37-6]
 
 [^37-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Autorizzazione dei fornitori di prestazioni), in vigore dal 1° gen. 2022 ([RU 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 2635](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 [^37-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^37-3]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+[^37-3]: Introdotto dal n. I della LF del 17 mar. 2023 (Eccezioni all’obbligo di esercitare l’attività per tre anni), in vigore dal 18 mar. 2023 al 31 dic. 2027 ([RU 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [FF 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125), [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
+[^37-4]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Eccezioni all’obbligo di esercitare l’attività per tre anni), in vigore dal 18 mar. 2023 al 31 dic. 2027 ([RU 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [FF 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125), [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
+[^37-5]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+[^37-6]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Eccezioni all’obbligo di esercitare l’attività per tre anni), in vigore dal 18 mar. 2023 al 31 dic. 2027 ([RU 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [FF 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125), [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
 
 #### Art. 38
 
