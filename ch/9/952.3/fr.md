@@ -3,18 +3,18 @@ sr: "952.3"
 title: "Ordonnance du 16 mars 2023 sur les prêts d'aide supplémentaires sous forme de liquidités et l'octroi par la Confédération de garanties du risque de défaillance pour les prêts d'aide sous forme de liquidités de la Banque nationale suisse à des banques d'importance systémique"
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/135"
 language: fr
-version: 2023-03-16
+version: 2023-03-19
 adopted: 2023-03-16
 in_force: 2023-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/135/20230316/fr/xml/fedlex-data-admin-ch-eli-cc-2023-135-20230316-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/135/20230316/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/135/20230319/fr/xml/fedlex-data-admin-ch-eli-cc-2023-135-20230319-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/135/20230319/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les prêts d’aide supplémentaires sous forme de liquidités et l’octroi par la Confédération de garanties du risque de défaillance pour les prêts d’aide sous forme de liquidités de la Banque nationale suisse à des banques d’importance systémique
 
-du 16 mars 2023 (État le 16 mars 2023)
+du 16 mars 2023 (État le 19 mars 2023)
 
 Le Conseil fédéral suisse,
 
@@ -41,9 +41,12 @@ La présente ordonnance régit:
 - e. les intérêts, les primes de risque, la prime de mise à disposition et les frais pour les prestations de tiers;
 - f. les obligations de l’emprunteuse;
 - g. d’autres mesures, et
-- h. les privilèges des créances en lien avec les prêts d’aide sous forme de liquidités.
+- h. les privilèges des créances en lien avec les prêts d’aide sous forme de liquidités;
+- i.[^1-1] la garantie contre les pertes.
 
 <sup>2</sup> L’ordonnance vise à contribuer à la stabilité de l’économie et du système financier suisses en cas de développements imprévus.
+
+[^1-1]: Introduite par le ch. I de l’O du 19 mars 2023, en vigueur depuis le 19 mars 2023 à 20 heures ([RO 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
 
 #### Art. 2
 
@@ -68,13 +71,15 @@ On entend par prêts d’aide sous forme de liquidités de la Banque nationale �
 
 <sup>1</sup> En dérogation à l’art. 219, al. 4, de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite (LP)[^3-1], les créances de la Banque nationale découlant de prêts d’aide supplémentaires sous forme de liquidités sont attribuées à la deuxième classe selon l’art. 219, al. 4, LP. En dérogation à l’art. 220, al. 1, LP, les autres créances de la deuxième classe visées à l’art. 219, al. 4, let. a à f, LP doivent être acquittées au préalable.
 
-<sup>2</sup> Le Conseil fédéral fixe le montant maximal que la Banque nationale peut verser au titre de prêts d’aide supplémentaires sous forme de liquidités. Le Conseil fédéral consulte au préalable la Banque nationale.
+<sup>2</sup> Le Conseil fédéral fixe le montant maximal que la Banque nationale peut verser, par groupe financier, au titre de prêts d’aide supplémentaires sous forme de liquidités. Le Conseil fédéral consulte au préalable la Banque nationale.[^3-2]
 
 <sup>3</sup> La Banque nationale détermine au demeurant les conditions qui régissent les prêts d’aide supplémentaires sous forme de liquidités. Dans le cadre du montant maximal fixé par le Conseil fédéral selon l’al. 2, la Banque nationale peut octroyer différents prêts d’aide supplémentaires sous forme de liquidités à plusieurs banques au sens de l’art. 2, al. 1, au sein d’un même groupe financier.
 
-<sup>4</sup> Les art. 4, al. 3, 8, al. 1 et 7, 9 et 10, al. 1, s’appliquent par analogie à l’octroi des prêts d’aide supplémentaires sous forme de liquidités.
+<sup>4</sup> Les art. 4, al. 3 et 4, 8, al. 1 et 7, 9 et 10, al. 1, s’appliquent par analogie à l’octroi des prêts d’aide supplémentaires sous forme de liquidités.[^3-3]
 
 [^3-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 19 mars 2023, en vigueur depuis le 19 mars 2023 à 20 heures ([RO 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du 19 mars 2023, en vigueur depuis le 19 mars 2023 à 20 heures ([RO 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
 
 ## Section 3 Prêts d’aide sous forme de liquidités assortis d’une garantie du risque de défaillance
 
@@ -107,6 +112,14 @@ Pour l’octroi d’une garantie du risque de défaillance, les conditions suiva
 L’approbation du crédit d’engagement nécessaire se fonde sur l’art. 28 de la loi du 7 octobre 2005 sur les finances[^5-1].
 
 [^5-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+
+#### Art. 5a
+
+**Fonds propres de base supplémentaires**[^5a-1]
+
+Au moment de l’approbation de crédits visée à l’art. 5, la FINMA peut ordonner à l’emprunteuse et au groupe financier d’amortir des fonds propres de base supplémentaires.
+
+[^5a-1]: Introduit par le ch. I de l’O du 19 mars 2023, en vigueur depuis le 19 mars 2023 à 20 heures ([RO 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
 
 #### Art. 6
 
@@ -166,6 +179,10 @@ Pendant la durée du contrat de crédit-cadre conclu entre la Banque nationale e
 
 <sup>3</sup> L’emprunteuse et les sociétés du groupe qui y sont directement ou indirectement liées ne doivent effectuer aucun acte qui pourrait retarder ou compromettre le remboursement des prêts ainsi que le paiement intégral des intérêts et des primes visés à l’art. 8, ni omettre un acte qui contribuerait au remboursement du prêt ainsi qu’au paiement intégral des intérêts et des primes visés à l’art. 8.
 
+<sup>4</sup> Les obligations visées à l’al. 1 ne s’appliquent pas si l’emprunteuse ou le groupe financier est repris par une société tierce et que l’emprunteuse ou le groupe financier est absorbé par une entité de ladite société tierce.[^9-1]
+
+[^9-1]: Introduit par le ch. I de l’O du 19 mars 2023, en vigueur depuis le 19 mars 2023 à 20 heures ([RO 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+
 #### Art. 10
 
 **Autres mesures**
@@ -175,6 +192,23 @@ Pendant la durée du contrat de crédit-cadre conclu entre la Banque nationale e
 <sup>2</sup> Conformément à l’art. 10*a* LB[^10-1], le DFF rend une décision portant sur des mesures liées à la rémunération. La FINMA contrôle sa mise en œuvre.
 
 [^10-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+
+#### Art. 10a
+
+**Dérogations à la loi sur la fusion**[^10a-1]
+
+<sup>1</sup>
+
+Concernant les transactions selon la loi du 3 octobre 2003 sur la fusion (LFus)[^10a-2] entre des banques surveillées par la FINMA qui sont d’importance systémique ou font partie d’un groupe financier d’importance systémique au sens de l’art. 7 LB et qui sont actives sur le plan international ou leurs sociétés de groupe, dans la mesure où cela est nécessaire à la protection de l’économie suisse et du système financier suisse, les règles suivantes s’appliquent:
+
+- a. l’exécution de telles transactions ne nécessite pas de décision de la part des assemblées générales des sociétés concernées si les transactions s’effectuent avec l’accord de la FINMA;
+- b. les art. 11, 14, 15 et 16 LFus ne s’appliquent pas si les transactions s’effectuent avec l’accord de la FINMA;
+- c. il est possible, avec l’accord de la FINMA, de déroger à d’autres exigences en matière de transactions fixées dans la LFus si les circonstances particulières l’exigent; en pareil cas, la FINMA consulte au préalable les autorités cantonales du registre de commerce concernées ainsi que l’Office fédéral du registre du commerce.
+
+<sup>2</sup> Les décisions de la FINMA sont contraignantes pour les autorités du registre du commerce.
+
+[^10a-1]: Introduit par le ch. I de l’O du 19 mars 2023, en vigueur depuis le 19 mars 2023 à 20 heures ([RO 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+[^10a-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
 
 #### Art. 11
 
@@ -213,6 +247,28 @@ Les créances couvertes par une garantie du risque de défaillance deviennent ex
 
 [^14-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^14-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+
+## Section 3*a* Garantie contre les pertes
+
+[^sec3a-1]
+
+[^sec3a-1]: Introduite par le ch. I de l’O du 19 mars 2023, en vigueur depuis le 19 mars 2023 à 20 heures ([RO 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+
+#### Art. 14a
+
+<sup>1</sup> Dans le cadre d’une transaction au sens de la LFus entre des banques surveillées par la FINMA qui sont d’importance systémique ou font partie d’un groupe financier d’importance systémique au sens de l’art. 7 LB et qui sont actives sur le plan international, la Confédération peut accorder à la banque repreneuse une garantie contre les pertes liées aux actifs à liquider de la banque reprise.
+
+<sup>2</sup> L’art. 5 s’applique par analogie à l’octroi de la garantie contre les pertes. Celle-ci s’élève au maximum à 9 milliards de francs suisses.
+
+<sup>3</sup>
+
+Pour le versement de la garantie contre les pertes, les conditions suivantes doivent être remplies:
+
+- a. tous les actifs à liquider ont été réalisés définitivement;
+- b. la banque repreneuse visée à l’al. 1 a assumé les pertes définitives de 5 milliards de francs suisses sur les actifs à liquider;
+- c. la FINMA surveille le respect des conditions fixées aux let. a et b et confirme à la Confédération la perte de 5 milliards de francs suisses subie définitivement par la banque repreneuse et la perte définitive qui doit être couverte par la garantie.
+
+<sup>4</sup> Les détails de la garantie contre les pertes sont réglés dans le contrat de garantie conclu par la Confédération et la banque repreneuse visée à l’al. 1.
 
 ## Section 4 Entrée en vigueur
 

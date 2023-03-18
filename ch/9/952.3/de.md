@@ -3,18 +3,18 @@ sr: "952.3"
 title: Verordnung vom 16. März 2023 über zusätzliche Liquiditätshilfe-Darlehen und die Gewährung von Ausfallgarantien des Bundes für Liquiditätshilfe-Darlehen der Schweizerischen Nationalbank an systemrelevante Banken
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/135"
 language: de
-version: 2023-03-16
+version: 2023-03-19
 adopted: 2023-03-16
 in_force: 2023-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/135/20230316/de/xml/fedlex-data-admin-ch-eli-cc-2023-135-20230316-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/135/20230316/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/135/20230319/de/xml/fedlex-data-admin-ch-eli-cc-2023-135-20230319-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/135/20230319/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über zusätzliche Liquiditätshilfe-Darlehen und die Gewährung von Ausfallgarantien des Bundes für Liquiditätshilfe-Darlehen der Schweizerischen Nationalbank an systemrelevante Banken
 
-vom 16. März 2023 (Stand am 16. März 2023)
+vom 16. März 2023 (Stand am 19. März 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -41,9 +41,12 @@ Diese Verordnung regelt:
 - e. die Zinsen, die Risikoprämien, die Bereitstellungsprämie und die Kosten für Leistungen Dritter;
 - f. die Pflichten der Darlehensnehmerin;
 - g. weitere Massnahmen; und
-- h. die Konkursprivilegien im Zusammenhang mit Liquiditätshilfe-Darlehen.
+- h. die Konkursprivilegien im Zusammenhang mit Liquiditätshilfe-Darlehen;
+- i.[^1-1] die Garantie zur Verlustabsicherung.
 
 <sup>2</sup> Die Verordnung soll dazu beitragen, die Stabilität der Schweizer Volkswirtschaft und des schweizerischen Finanzsystems bei unvorhergesehenen Entwicklungen zu sichern.
+
+[^1-1]: Eingefügt durch Ziff. I der V vom 19. März 2023, in Kraft seit 19. März 2023 um 20.00 Uhr ([AS 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
 
 #### Art. 2
 
@@ -68,13 +71,15 @@ Als Liquiditätshilfe-Darlehen der Nationalbank an eine Bank, die systemrelevant
 
 <sup>1</sup> In Abweichung von Artikel 219 Absatz 4 des Bundesgesetzes vom 11. April 1889[^3-1] über Schuldbetreibung und Konkurs (SchKG) werden Forderungen der Nationalbank aus zusätzlichen Liquiditätshilfe-Darlehen der zweiten Klasse nach Artikel 219 Absatz 4 SchKG zugewiesen. In Abweichung von Artikel 220 Absatz 1 SchKG sind die übrigen Forderungen innerhalb der zweiten Klasse gemäss Artikel 219 Absatz 4 Buchstaben a – f SchKG vorab zu befriedigen.
 
-<sup>2</sup> Der Bundesrat bestimmt die Höhe der von der Nationalbank maximal auszahlbaren zusätzlichen Liquiditätshilfe-Darlehen. Der Bundesrat konsultiert vorgängig die Nationalbank.
+<sup>2</sup> Der Bundesrat bestimmt die Höhe der von der Nationalbank höchstens auszahlbaren zusätzlichen Liquiditätshilfe-Darlehen pro Finanzgruppe. Der Bundesrat konsultiert vorgängig die Nationalbank.[^3-2]
 
 <sup>3</sup> Im Übrigen bestimmt die Nationalbank die Bedingungen der zusätzlichen Liquiditäts-Darlehen. Die Nationalbank kann im Rahmen der vom Bundesrat nach Absatz 2 bestimmten maximalen Höhe separate zusätzliche Liquiditäts-Darlehen an mehrere Banken gemäss Artikel 2 Absatz 1 innerhalb der gleichen Finanzgruppe gewähren.
 
-<sup>4</sup> Die Artikel 4 Absatz 3, 8 Absätze 1 und 7, 9 sowie 10 Absatz 1 gelten analog auch bei Gewährung eines zusätzlichen Liquiditätshilfe-Darlehens.
+<sup>4</sup> Die Artikel 4 Absätze 3 und 4, 8 Absätze 1 und 7, 9 sowie 10 Absatz 1 gelten analog auch bei Gewährung eines zusätzlichen Liquiditätshilfe-Darlehens.[^3-3]
 
 [^3-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^3-2]: Fassung gemäss Ziff. I der V vom 19. März 2023, in Kraft seit 19. März 2023 um 20.00 Uhr ([AS 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+[^3-3]: Fassung gemäss Ziff. I der V vom 19. März 2023, in Kraft seit 19. März 2023 um 20.00 Uhr ([AS 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
 
 ## 3. Abschnitt: Liquiditätshilfe-Darlehen mit Ausfallgarantie
 
@@ -107,6 +112,14 @@ Für die Gewährung einer Ausfallgarantie müssen die folgenden Voraussetzungen 
 Die Bewilligung des erforderlichen Verpflichtungskredits richtet sich nach Artikel 28 des Finanzhaushaltsgesetzes vom 7. Oktober 2005[^5-1].
 
 [^5-1]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+
+#### Art. 5a
+
+**Zusätzliches Kernkapital**[^5a-1]
+
+Im Zeitpunkt der Kreditbewilligung nach Artikel 5 kann die FINMA gegenüber der Darlehensnehmerin und der Finanzgruppe anordnen, zusätzliches Kernkapital abzuschreiben.
+
+[^5a-1]: Eingefügt durch Ziff. I der V vom 19. März 2023, in Kraft seit 19. März 2023 um 20.00 Uhr ([AS 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
 
 #### Art. 6
 
@@ -166,6 +179,10 @@ Während der Laufzeit des Rahmenkreditvertrags zwischen der Nationalbank und der
 
 <sup>3</sup> Die Darlehensnehmerin und die mit ihr direkt oder indirekt verbundenen Konzerngesellschaften dürfen weder Handlungen vornehmen, die die Rückzahlung dieser Darlehen und die vollständige Begleichung der Zinsen und Prämien nach Artikel 8 verzögern oder gefährden könnten, noch dürfen sie Handlungen unterlassen, die der Rückzahlung dieser Darlehen und der vollständigen Begleichung der Zinsen und Prämien nach Artikel 8 dienlich sind.
 
+<sup>4</sup> Die Pflichten nach Absatz 1 gelten nicht, wenn die Darlehensnehmerin oder die Finanzgruppe von einer Drittgesellschaft übernommen und die Darlehensnehmerin oder die Finanzgruppe von einer Einheit der Drittgesellschaft absorbiert werden.[^9-1]
+
+[^9-1]: Eingefügt durch Ziff. I der V vom 19. März 2023, in Kraft seit 19. März 2023 um 20.00 Uhr ([AS 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+
 #### Art. 10
 
 **WeitereMassnahmen**
@@ -175,6 +192,23 @@ Während der Laufzeit des Rahmenkreditvertrags zwischen der Nationalbank und der
 <sup>2</sup> Das EFD erlässt nach Artikel 10*a* BankG[^10-1] eine Verfügung über Massnahmen im Bereich der Vergütungen. Die FINMA überprüft deren Umsetzung.
 
 [^10-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+
+#### Art. 10a
+
+**Abweichungen vom Fusionsgesetz**[^10a-1]
+
+<sup>1</sup>
+
+Bei Transaktionen nach dem Fusionsgesetz vom 3. Oktober 2003[^10a-2] (FusG) zwischen von der FINMA beaufsichtigten Banken, die systemrelevant oder Teil einer systemrelevanten Finanzgruppe nach Artikel 7 BankG und die international tätig sind, oder ihren Gruppengesellschaften gilt, soweit dies zum Schutz der Schweizer Volkswirtschaft und des schweizerischen Finanzsystems notwendig ist, folgendes:
+
+- a. zur Durchführung solcher Transaktionen bedarf es keiner Beschlüsse der Generalversammlungen der beteiligten Gesellschaften, sofern die Transaktion in Abstimmung mit der FINMA erfolgt;
+- b. die Artikel 11, 14, 15 und 16 FusG finden keine Anwendung, sofern die Transaktion in Abstimmung mit der FINMA erfolgt;
+- c. in Abstimmung mit der FINMA kann von weiteren transaktionsbedingten Anforderungen des FusG abgewichen werden, sofern die besonderen Umstände dies erfordern; Die FINMA konsultiert diesfalls vorgängig die betroffenen kantonalen Handelsregisterbehörden sowie das Eidgenössisches Amt für das Handelsregister.
+
+<sup>2</sup> Die Entscheide der FINMA sind für die Handelsregisterbehörden bindend.
+
+[^10a-1]: Eingefügt durch Ziff. I der V vom 19. März 2023, in Kraft seit 19. März 2023 um 20.00 Uhr ([AS 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+[^10a-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
 
 #### Art. 11
 
@@ -213,6 +247,28 @@ Die durch eine Ausfallgarantie gedeckte Forderung wird 5 Jahre nach dem rechtskr
 
 [^14-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^14-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+
+## 3*a*. Abschnitt: Garantie zur Verlustabsicherung
+
+[^sec3a-1]
+
+[^sec3a-1]: Eingefügt durch Ziff. I der V vom 19. März 2023, in Kraft seit 19. März 2023 um 20.00 Uhr ([AS 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+
+#### Art. 14a
+
+<sup>1</sup> Im Rahmen einer Transaktion gemäss FusG zwischen von der FINMA beaufsichtigten Banken, die systemrelevant oder Teil einer systemrelevanten Finanzgruppe nach Artikel 7 BankG und die international tätig sind, kann der Bund zugunsten der übernehmenden Bank eine Garantie zur Verlustabsicherung abzuwickelnder Aktiven der übernommenen Bank gewähren.
+
+<sup>2</sup> Für die Gewährung der Garantie zur Verlustabsicherung ist Artikel 5 analog anzuwenden. Die Garantie zur Verlustabsicherung beträgt höchstens 9 Milliarden Schweizer Franken.
+
+<sup>3</sup>
+
+Für die Auszahlung der Garantie zur Verlustabsicherung müssen folgende Voraussetzungen erfüllt sein:
+
+- a. alle abzuwickelnden Aktiven wurden definitiv verwertet;
+- b. die übernehmende Bank nach Absatz 1 hat auf den abzuwickelnden Aktiven definitive Verluste von 5 Milliarden Schweizer Franken getragen;
+- c. die FINMA überwacht die Voraussetzungen nach den Buchstaben a und b und bestätigt gegenüber dem Bund den definitiv eingetretenen Verlust der übernehmenden Bank von 5 Milliarden Schweizer Franken sowie den definitiven Verlust, der durch die Garantie abzudecken ist.
+
+<sup>4</sup> Die Einzelheiten über die Garantie zur Verlustabsicherung werden im Garantievertrag zwischen dem Bund und der übernehmenden Bank nach Absatz 1 geregelt.
 
 ## 4. Abschnitt: Inkrafttreten
 
