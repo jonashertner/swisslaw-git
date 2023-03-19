@@ -3,18 +3,18 @@ sr: "952.3"
 title: Verordnung vom 16. März 2023 über zusätzliche Liquiditätshilfe-Darlehen und die Gewährung von Ausfallgarantien des Bundes für Liquiditätshilfe-Darlehen der Schweizerischen Nationalbank an systemrelevante Banken
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/135"
 language: de
-version: 2023-03-19
+version: 2023-03-20
 adopted: 2023-03-16
 in_force: 2023-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/135/20230319/de/xml/fedlex-data-admin-ch-eli-cc-2023-135-20230319-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/135/20230319/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/135/20230320/de/xml/fedlex-data-admin-ch-eli-cc-2023-135-20230320-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/135/20230320/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über zusätzliche Liquiditätshilfe-Darlehen und die Gewährung von Ausfallgarantien des Bundes für Liquiditätshilfe-Darlehen der Schweizerischen Nationalbank an systemrelevante Banken
 
-vom 16. März 2023 (Stand am 19. März 2023)
+vom 16. März 2023 (Stand am 20. März 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -40,8 +40,8 @@ Diese Verordnung regelt:
 - d. die Risikoreduktion;
 - e. die Zinsen, die Risikoprämien, die Bereitstellungsprämie und die Kosten für Leistungen Dritter;
 - f. die Pflichten der Darlehensnehmerin;
-- g. weitere Massnahmen; und
-- h. die Konkursprivilegien im Zusammenhang mit Liquiditätshilfe-Darlehen;
+- g. weitere Massnahmen;
+- h. die Konkursprivilegien im Zusammenhang mit Liquiditätshilfe-Darlehen; und
 - i.[^1-1] die Garantie zur Verlustabsicherung.
 
 <sup>2</sup> Die Verordnung soll dazu beitragen, die Stabilität der Schweizer Volkswirtschaft und des schweizerischen Finanzsystems bei unvorhergesehenen Entwicklungen zu sichern.
@@ -56,8 +56,8 @@ Diese Verordnung regelt:
 
 Als Liquiditätshilfe-Darlehen der Nationalbank an eine Bank, die systemrelevant oder Teil einer systemrelevanten Finanzgruppe nach Artikel 7 des Bankengesetzes vom 8. November 1934[^2-1] (BankG) ist (Darlehensnehmerin), gelten:
 
-- a. Ausserordentliche Liquiditätshilfe-Darlehen: Liquiditätshilfe-Darlehen nach den Richtlinien vom 25. März 2004[^2-2] der Schweizerischen Nationalbank über das geldpolitische Instrumentarium (Stand: 1. Juli 2021).
-- b. Zusätzliche Liquiditätshilfe-Darlehen: Liquiditätshilfe-Darlehen, die zusätzlich zu den ausserordentlichen Liquiditätshilfe-Darlehen gewährt werden und über ein Konkursprivileg gesichert werden.
+- a. ausserordentliche Liquiditätshilfe-Darlehen: Liquiditätshilfe-Darlehen nach den Richtlinien vom 25. März 2004[^2-2] der Schweizerischen Nationalbank über das geldpolitische Instrumentarium (Stand: 1. Juli 2021);
+- b. zusätzliche Liquiditätshilfe-Darlehen: Liquiditätshilfe-Darlehen, die zusätzlich zu den ausserordentlichen Liquiditätshilfe-Darlehen gewährt werden und über ein Konkursprivileg gesichert werden;
 - c. Liquiditätshilfe-Darlehen mit Ausfallgarantie: Liquiditätshilfe-Darlehen, die über die zusätzlichen Liquiditätshilfe-Darlehen hinausgehen und über ein Konkursprivileg sowie eine Ausfallgarantie des Bundes gesichert werden.
 
 <sup>2</sup> Als Ausfallgarantie gilt die Garantie des Bundes zugunsten der Nationalbank für die Sicherung eines allfälligen Verlusts aus Liquiditätshilfe-Darlehen nach Absatz 1 Buchstabe c.
@@ -69,11 +69,11 @@ Als Liquiditätshilfe-Darlehen der Nationalbank an eine Bank, die systemrelevant
 
 #### Art. 3
 
-<sup>1</sup> In Abweichung von Artikel 219 Absatz 4 des Bundesgesetzes vom 11. April 1889[^3-1] über Schuldbetreibung und Konkurs (SchKG) werden Forderungen der Nationalbank aus zusätzlichen Liquiditätshilfe-Darlehen der zweiten Klasse nach Artikel 219 Absatz 4 SchKG zugewiesen. In Abweichung von Artikel 220 Absatz 1 SchKG sind die übrigen Forderungen innerhalb der zweiten Klasse gemäss Artikel 219 Absatz 4 Buchstaben a – f SchKG vorab zu befriedigen.
+<sup>1</sup> In Abweichung von Artikel 219 Absatz 4 des Bundesgesetzes vom 11. April 1889[^3-1] über Schuldbetreibung und Konkurs (SchKG) werden Forderungen der Nationalbank aus zusätzlichen Liquiditätshilfe-Darlehen der zweiten Klasse nach Artikel 219 Absatz 4 SchKG zugewiesen. In Abweichung von Artikel 220 Absatz 1 SchKG sind die übrigen Forderungen innerhalb der zweiten Klasse gemäss Artikel 219 Absatz 4 Buchstaben a–f SchKG vorab zu befriedigen.
 
-<sup>2</sup> Der Bundesrat bestimmt die Höhe der von der Nationalbank höchstens auszahlbaren zusätzlichen Liquiditätshilfe-Darlehen pro Finanzgruppe. Der Bundesrat konsultiert vorgängig die Nationalbank.[^3-2]
+<sup>2</sup> Der Bundesrat bestimmt die Höhe der von der Nationalbank höchstens auszahlbaren zusätzlichen Liquiditätshilfe-Darlehen pro Finanzgruppe. Er konsultiert vorgängig die Nationalbank.[^3-2]
 
-<sup>3</sup> Im Übrigen bestimmt die Nationalbank die Bedingungen der zusätzlichen Liquiditäts-Darlehen. Die Nationalbank kann im Rahmen der vom Bundesrat nach Absatz 2 bestimmten maximalen Höhe separate zusätzliche Liquiditäts-Darlehen an mehrere Banken gemäss Artikel 2 Absatz 1 innerhalb der gleichen Finanzgruppe gewähren.
+<sup>3</sup> Im Übrigen bestimmt die Nationalbank die Bedingungen der zusätzlichen Liquiditätshilfe-Darlehen. Die Nationalbank kann im Rahmen der vom Bundesrat nach Absatz 2 bestimmten maximalen Höhe separate zusätzliche Liquiditätshilfe-Darlehen an mehrere Banken gemäss Artikel 2 Absatz 1 innerhalb der gleichen Finanzgruppe gewähren.
 
 <sup>4</sup> Die Artikel 4 Absätze 3 und 4, 8 Absätze 1 und 7, 9 sowie 10 Absatz 1 gelten analog auch bei Gewährung eines zusätzlichen Liquiditätshilfe-Darlehens.[^3-3]
 
@@ -95,9 +95,9 @@ Als Liquiditätshilfe-Darlehen der Nationalbank an eine Bank, die systemrelevant
 
 Für die Gewährung einer Ausfallgarantie müssen die folgenden Voraussetzungen erfüllt sein:
 
-- a. eine erhebliche Schädigung der Schweizer Volkswirtschaft und des schweizerischen Finanzsystems kann nicht anders abgewendet werden;
-- b. die Liquiditätshilfe-Darlehen sind für die Fortführung der Geschäftstätigkeit der Darlehensnehmerin geeignet und erforderlich;
-- c. die FINMA bestätigt die Solvenz der Darlehensnehmerin oder sie bestätigt, dass ein Sanierungsplan vorliegt. Ist die Darlehensnehmerin Teil einer Finanzgruppe, umfasst die Bestätigung der FINMA die ganze Finanzgruppe.
+- a. Eine erhebliche Schädigung der Schweizer Volkswirtschaft und des schweizerischen Finanzsystems kann nicht anders abgewendet werden.
+- b. Die Liquiditätshilfe-Darlehen sind für die Fortführung der Geschäftstätigkeit der Darlehensnehmerin geeignet und erforderlich.
+- c. Die FINMA bestätigt die Solvenz der Darlehensnehmerin oder sie bestätigt, dass ein Sanierungsplan vorliegt. Ist die Darlehensnehmerin Teil einer Finanzgruppe, umfasst die Bestätigung der FINMA die ganze Finanzgruppe.
 
 <sup>4</sup> Die Auszahlung der Liquiditätshilfe-Darlehen mit Ausfallgarantie erfolgt, wenn die Darlehensnehmerin die mit eigenen Mitteln erschliessbaren Finanzierungsquellen ausgeschöpft hat. Die Nationalbank bestätigt dem EFD anlässlich der ersten Auszahlung, dass die Darlehensnehmerin sowie die Finanzgruppe über keine geeigneten Sicherheiten mehr für die Besicherung ausserordentlicher Liquiditätshilfe-Darlehen verfügen und die zusätzlichen Liquiditätshilfe-Darlehen ausgeschöpft sind. Die FINMA bestätigt dem EFD, dass der Darlehensnehmerin sowie der Finanzgruppe keine anderweitigen Finanzierungsquellen zur Verfügung stehen.
 
@@ -141,7 +141,7 @@ Im Zeitpunkt der Kreditbewilligung nach Artikel 5 kann die FINMA gegenüber der 
 
 <sup>2</sup> Zusätzlich zu ihrer Aufsichtstätigkeit überwacht die FINMA den Einsatz der Liquiditätshilfe-Darlehen mit Ausfallgarantie. Zu diesem Zweck kann sie namentlich alle Massnahmen nach Artikel 26 BankG[^7-1] treffen, unabhängig davon, ob Schutzmassnahmen ergriffen wurden.
 
-<sup>3</sup> Die Darlehensnehmerin muss die Liquiditätshilfe-Darlehen mit Ausfallgarantie vor anderen Darlehen, die die Nationalbank ihr gewährt hat, zurückzahlen. Vorbehalten bleibt eine vorgängige Rückzahlung von ausserordentlicher Liquiditätshilfe-Darlehen, soweit für diese aufgrund von Marktveränderungen keine ausreichenden Sicherheiten mehr bestehen, oder soweit der Bund einer solchen Rückzahlung eines ausserordentlichen oder zusätzlichen Liquiditätshilfe-Darlehens in begründeten Fällen vorgängig zugestimmt hat.
+<sup>3</sup> Die Darlehensnehmerin muss die Liquiditätshilfe-Darlehen mit Ausfallgarantie vor anderen Darlehen, die die Nationalbank ihr gewährt hat, zurückzahlen. Vorbehalten bleibt eine vorgängige Rückzahlung von ausserordentlichen Liquiditätshilfe-Darlehen, soweit für diese aufgrund von Marktveränderungen keine ausreichenden Sicherheiten mehr bestehen, oder soweit der Bund einer solchen Rückzahlung eines ausserordentlichen oder zusätzlichen Liquiditätshilfe-Darlehens in begründeten Fällen vorgängig zugestimmt hat.
 
 [^7-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
@@ -199,11 +199,11 @@ Während der Laufzeit des Rahmenkreditvertrags zwischen der Nationalbank und der
 
 <sup>1</sup>
 
-Bei Transaktionen nach dem Fusionsgesetz vom 3. Oktober 2003[^10a-2] (FusG) zwischen von der FINMA beaufsichtigten Banken, die systemrelevant oder Teil einer systemrelevanten Finanzgruppe nach Artikel 7 BankG und die international tätig sind, oder ihren Gruppengesellschaften gilt, soweit dies zum Schutz der Schweizer Volkswirtschaft und des schweizerischen Finanzsystems notwendig ist, folgendes:
+Bei Transaktionen nach dem Fusionsgesetz vom 3. Oktober 2003[^10a-2] (FusG) zwischen von der FINMA beaufsichtigten Banken, die systemrelevant oder Teil einer systemrelevanten Finanzgruppe nach Artikel 7 BankG und die international tätig sind, oder ihren Gruppengesellschaften gilt, soweit dies zum Schutz der Schweizer Volkswirtschaft und des schweizerischen Finanzsystems notwendig ist, Folgendes:
 
-- a. zur Durchführung solcher Transaktionen bedarf es keiner Beschlüsse der Generalversammlungen der beteiligten Gesellschaften, sofern die Transaktion in Abstimmung mit der FINMA erfolgt;
-- b. die Artikel 11, 14, 15 und 16 FusG finden keine Anwendung, sofern die Transaktion in Abstimmung mit der FINMA erfolgt;
-- c. in Abstimmung mit der FINMA kann von weiteren transaktionsbedingten Anforderungen des FusG abgewichen werden, sofern die besonderen Umstände dies erfordern; Die FINMA konsultiert diesfalls vorgängig die betroffenen kantonalen Handelsregisterbehörden sowie das Eidgenössisches Amt für das Handelsregister.
+- a. Zur Durchführung solcher Transaktionen bedarf es keiner Beschlüsse der Generalversammlungen der beteiligten Gesellschaften, sofern die Transaktion in Abstimmung mit der FINMA erfolgt.
+- b. Die Artikel 11, 14, 15 und 16 FusG finden keine Anwendung, sofern die Transaktion in Abstimmung mit der FINMA erfolgt.
+- c. In Abstimmung mit der FINMA kann von weiteren transaktionsbedingten Anforderungen des FusG abgewichen werden, sofern die besonderen Umstände dies erfordern; die FINMA konsultiert diesfalls vorgängig die betroffenen kantonalen Handelsregisterbehörden sowie das Eidgenössische Amt für das Handelsregister.
 
 <sup>2</sup> Die Entscheide der FINMA sind für die Handelsregisterbehörden bindend.
 
@@ -214,7 +214,7 @@ Bei Transaktionen nach dem Fusionsgesetz vom 3. Oktober 2003[^10a-2] (FusG) zwis
 
 **Konkursprivileg von Forderungen im Zusammenhang mit Liquiditätshilfe-Darlehen mit Ausfallgarantie**
 
-In Abweichung von Artikel 219 Absatz 4 SchKG[^11-1] werden Forderungen der Nationalbank aus Liquiditätshilfe-Darlehen mit Ausfallgarantie, die aufgelaufenen Zinsen und die aufgelaufenen Prämien gemäss Artikel 8 der zweiten Klasse nach Artikel 219 Absatz 4 SchKG zugewiesen. In Abweichung von Artikel 220 Absatz 1 SchKG, sind die übrigen Forderungen innerhalb der zweiten Klasse gemäss Artikel 219 Absatz 4 Buchstaben a – f SchKG sowie Forderungen aus zusätzlichen Liquiditätshilfe-Darlehen vorab zu befriedigen.
+In Abweichung von Artikel 219 Absatz 4 SchKG[^11-1] werden Forderungen der Nationalbank aus Liquiditätshilfe-Darlehen mit Ausfallgarantie, die aufgelaufenen Zinsen und die aufgelaufenen Prämien gemäss Artikel 8 der zweiten Klasse nach Artikel 219 Absatz 4 SchKG zugewiesen. In Abweichung von Artikel 220 Absatz 1 SchKG sind die übrigen Forderungen innerhalb der zweiten Klasse gemäss Artikel 219 Absatz 4 Buchstaben a–f SchKG sowie Forderungen aus zusätzlichen Liquiditätshilfe-Darlehen vorab zu befriedigen.
 
 [^11-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
@@ -258,17 +258,21 @@ Die durch eine Ausfallgarantie gedeckte Forderung wird 5 Jahre nach dem rechtskr
 
 <sup>1</sup> Im Rahmen einer Transaktion gemäss FusG zwischen von der FINMA beaufsichtigten Banken, die systemrelevant oder Teil einer systemrelevanten Finanzgruppe nach Artikel 7 BankG und die international tätig sind, kann der Bund zugunsten der übernehmenden Bank eine Garantie zur Verlustabsicherung abzuwickelnder Aktiven der übernommenen Bank gewähren.
 
-<sup>2</sup> Für die Gewährung der Garantie zur Verlustabsicherung ist Artikel 5 analog anzuwenden. Die Garantie zur Verlustabsicherung beträgt höchstens 9 Milliarden Schweizer Franken.
+<sup>2</sup> Für die Gewährung der Garantie zur Verlustabsicherung ist Artikel 5 analog anzuwenden. Die Garantie zur Verlustabsicherung beträgt höchstens 9 Milliarden Schweizer Franken.[^14a-1]
 
 <sup>3</sup>
 
 Für die Auszahlung der Garantie zur Verlustabsicherung müssen folgende Voraussetzungen erfüllt sein:
 
-- a. alle abzuwickelnden Aktiven wurden definitiv verwertet;
-- b. die übernehmende Bank nach Absatz 1 hat auf den abzuwickelnden Aktiven definitive Verluste von 5 Milliarden Schweizer Franken getragen;
-- c. die FINMA überwacht die Voraussetzungen nach den Buchstaben a und b und bestätigt gegenüber dem Bund den definitiv eingetretenen Verlust der übernehmenden Bank von 5 Milliarden Schweizer Franken sowie den definitiven Verlust, der durch die Garantie abzudecken ist.
+- a. Alle abzuwickelnden Aktiven wurden definitiv verwertet.
+- b.[^14a-2] Die übernehmende Bank nach Absatz 1 hat auf den abzuwickelnden Aktiven definitive Verluste von 5 Milliarden Schweizer Franken getragen.
+- c.[^14a-3] Die FINMA überwacht die Voraussetzungen nach den Buchstaben a und b und bestätigt gegenüber dem Bund den definitiv eingetretenen Verlust der übernehmenden Bank von 5 Milliarden Schweizer Franken sowie den definitiven Verlust, der durch die Garantie abzudecken ist.
 
 <sup>4</sup> Die Einzelheiten über die Garantie zur Verlustabsicherung werden im Garantievertrag zwischen dem Bund und der übernehmenden Bank nach Absatz 1 geregelt.
+
+[^14a-1]: Die Berichtigung vom 20. März 2023 betrifft nur den französischen Text ([AS 2023 137](https://fedlex.data.admin.ch/eli/oc/2023/137)).
+[^14a-2]: Die Berichtigung vom 20. März 2023 betrifft nur den französischen Text ([AS 2023 137](https://fedlex.data.admin.ch/eli/oc/2023/137)).
+[^14a-3]: Die Berichtigung vom 20. März 2023 betrifft nur den französischen Text ([AS 2023 137](https://fedlex.data.admin.ch/eli/oc/2023/137)).
 
 ## 4. Abschnitt: Inkrafttreten
 

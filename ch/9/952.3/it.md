@@ -3,18 +3,18 @@ sr: "952.3"
 title: Ordinanza del 16 marzo 2023 concernente mutui supplementari a sostegno della liquidità e la concessione da parte della Confederazione di garanzie in caso di dissesto per mutui a sostegno della liquidità erogati dalla Banca nazionale svizzera a banche di rilevanza sistemica
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/135"
 language: it
-version: 2023-03-19
+version: 2023-03-20
 adopted: 2023-03-16
 in_force: 2023-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/135/20230319/it/xml/fedlex-data-admin-ch-eli-cc-2023-135-20230319-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/135/20230319/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/135/20230320/it/xml/fedlex-data-admin-ch-eli-cc-2023-135-20230320-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/135/20230320/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente mutui supplementari a sostegno della liquidità e la concessione da parte della Confederazione di garanzie in caso di dissesto per mutui a sostegno della liquidità erogati dalla Banca nazionale svizzera a banche di rilevanza sistemica
 
-del 16 marzo 2023 (Stato 19 marzo 2023)
+del 16 marzo 2023 (Stato 20 marzo 2023)
 
 Il Consiglio federale svizzero,
 
@@ -40,13 +40,13 @@ La presente ordinanza disciplina:
 - d. la riduzione dei rischi;
 - e. gli interessi, i premi di rischio, il premio per la messa a disposizione di una garanzia in caso di dissesto e i costi per prestazioni di terzi;
 - f. gli obblighi del mutuatario;
-- g. ulteriori provvedimenti; e
-- h. il privilegio nel fallimento per mutui a sostegno della liquidità.
+- g. ulteriori provvedimenti;
+- h. il privilegio nel fallimento per mutui a sostegno della liquidità; e
 - i.[^1-1] la garanzia a copertura delle perdite.
 
 <sup>2</sup> La presente ordinanza intende contribuire a garantire la stabilità dell’economia svizzera e del sistema finanziario svizzero nel caso di sviluppi imprevisti.
 
-[^1-1]: Introdotta dal n. I dell’O del 19 mar. 2023, in vigore dal 19 marzo 2023 alle ore 20.00 (RU **20****23** 136).
+[^1-1]: Introdotta dal n. I dell’O del 19 mar. 2023, in vigore dal 19 mar. 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
 
 #### Art. 2
 
@@ -78,8 +78,8 @@ Sono considerati mutui a sostegno della liquidità erogati dalla BNS a una banca
 <sup>4</sup> Gli articoli 4 capoversi 3 e 4, 8 capoversi 1 e 7, 9 e 10 capoverso 1 si applicano per analogia anche alla concessione di mutui supplementari a sostegno della liquidità.[^3-3]
 
 [^3-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^3-2]: Nuovo testo giusta il n. I dell’O del 19 mar. 2023, in vigore dal 19 marzo 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
-[^3-3]: Nuovo testo giusta il n. I dell’O del 19 mar. 2023, in vigore dal 19 marzo 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del 19 mar. 2023, in vigore dal 19 mar. 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+[^3-3]: Nuovo testo giusta il n. I dell’O del 19 mar. 2023, in vigore dal 19 mar. 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
 
 ## Sezione 3: Mutui a sostegno della liquidità con garanzia in caso di dissesto
 
@@ -119,7 +119,7 @@ Lo stanziamento del credito d’impegno necessario è retto dall’articolo 28 d
 
 Al momento dello stanziamento del credito secondo l’articolo 5 la FINMA può ordinare al mutuatario e al gruppo finanziario di ammortizzare fondi propri di base supplementari.
 
-[^5a-1]: Introdotto dal n. I dell’O del 19 mar. 2023, in vigore dal 19 marzo 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+[^5a-1]: Introdotto dal n. I dell’O del 19 mar. 2023, in vigore dal 19 mar. 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
 
 #### Art. 6
 
@@ -181,7 +181,7 @@ Durante il periodo di validità del contratto concluso tra la BNS e il mutuatari
 
 <sup>4</sup> Gli obblighi secondo il capoverso 1 non sono applicabili se il mutuatario o il gruppo finanziario è assunto da una società terza e il mutuatario o il gruppo finanziario è incorporato in un’unità della società terza.[^9-1]
 
-[^9-1]: Introdotto dal n. I dell’O del 19 mar. 2023, in vigore dal 19 marzo 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+[^9-1]: Introdotto dal n. I dell’O del 19 mar. 2023, in vigore dal 19 mar. 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
 
 #### Art. 10
 
@@ -207,7 +207,7 @@ Nel caso di transazioni secondo la legge del 3 ottobre 2003[^10a-2] sulla fusion
 
 <sup>2</sup> Le decisioni della FINMA sono vincolanti per le autorità del registro di commercio.
 
-[^10a-1]: Introdotto dal n. I dell’O del 19 mar. 2023, in vigore dal 19 marzo 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+[^10a-1]: Introdotto dal n. I dell’O del 19 mar. 2023, in vigore dal 19 mar. 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
 [^10a-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
 
 #### Art. 11
@@ -252,23 +252,27 @@ Il credito coperto da una garanzia in caso di dissesto diventa esigibile cinque 
 
 [^sec3a-1]
 
-[^sec3a-1]: Introdotta dal n. I dell’O del 19 mar. 2023, in vigore dal 19 marzo 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+[^sec3a-1]: Introdotta dal n. I dell’O del 19 mar. 2023, in vigore dal 19 mar. 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
 
 #### Art. 14a
 
 <sup>1</sup> Nel quadro di una transazione eseguita secondo la LFus tra banche assoggettate alla vigilanza della FINMA che hanno rilevanza sistemica o che fanno parte di un gruppo finanziario di rilevanza sistemica secondo l’articolo 7 LBCR e che sono attive a livello internazionale, la Confederazione può concedere alla banca assuntrice una garanzia a copertura delle perdite per gli attivi da liquidare della banca assunta.
 
-<sup>2</sup> L’articolo 5 si applica per analogia alla concessione della garanzia a copertura delle perdite. La garanzia a copertura delle perdite ammonta al massimo a 9 miliardi di franchi svizzeri.
+<sup>2</sup> L’articolo 5 si applica per analogia alla concessione della garanzia a copertura delle perdite. La garanzia a copertura delle perdite ammonta al massimo a 9 miliardi di franchi svizzeri.[^14a-1]
 
 <sup>3</sup>
 
 Per il versamento della garanzia a copertura delle perdite devono essere adempiute le seguenti condizioni:
 
 - a. tutti gli attivi da liquidare sono stati realizzati definitivamente;
-- b. la banca assuntrice di cui al capoverso 1 ha sostenuto perdite definitive di 5 miliardi di franchi svizzeri sugli attivi da liquidare;
-- c. la FINMA sorveglia l’adempimento delle condizioni di cui alle lettere a e b e conferma alla Confederazione le perdite di 5 miliardi di franchi svizzeri subite definitivamente dalla banca assuntrice e le perdite definitive da coprire con la garanzia.
+- b.[^14a-2] la banca assuntrice di cui al capoverso 1 ha sostenuto perdite definitive di 5 miliardi di franchi svizzeri sugli attivi da liquidare;
+- c.[^14a-3] la FINMA sorveglia l’adempimento delle condizioni di cui alle lettere a e b e conferma alla Confederazione le perdite di 5 miliardi di franchi svizzeri subite definitivamente dalla banca assuntrice e le perdite definitive da coprire con la garanzia.
 
 <sup>4</sup> I dettagli concernenti la garanzia a copertura delle perdite sono disciplinati nel contratto di garanzia concluso tra la Confederazione e la banca assuntrice di cui al capoverso 1.
+
+[^14a-1]: La correzione del 20 mar. 2023 concerne soltanto il testo francese ([RU 2023 137](https://fedlex.data.admin.ch/eli/oc/2023/137)).
+[^14a-2]: La correzione del 20 mar. 2023 concerne soltanto il testo francese ([RU 2023 137](https://fedlex.data.admin.ch/eli/oc/2023/137)).
+[^14a-3]: La correzione del 20 mar. 2023 concerne soltanto il testo francese ([RU 2023 137](https://fedlex.data.admin.ch/eli/oc/2023/137)).
 
 ## Sezione 4: Entrata in vigore
 

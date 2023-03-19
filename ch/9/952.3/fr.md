@@ -3,18 +3,18 @@ sr: "952.3"
 title: "Ordonnance du 16 mars 2023 sur les prêts d'aide supplémentaires sous forme de liquidités et l'octroi par la Confédération de garanties du risque de défaillance pour les prêts d'aide sous forme de liquidités de la Banque nationale suisse à des banques d'importance systémique"
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/135"
 language: fr
-version: 2023-03-19
+version: 2023-03-20
 adopted: 2023-03-16
 in_force: 2023-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/135/20230319/fr/xml/fedlex-data-admin-ch-eli-cc-2023-135-20230319-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/135/20230319/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/135/20230320/fr/xml/fedlex-data-admin-ch-eli-cc-2023-135-20230320-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/135/20230320/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les prêts d’aide supplémentaires sous forme de liquidités et l’octroi par la Confédération de garanties du risque de défaillance pour les prêts d’aide sous forme de liquidités de la Banque nationale suisse à des banques d’importance systémique
 
-du 16 mars 2023 (État le 19 mars 2023)
+du 16 mars 2023 (État le 20 mars 2023)
 
 Le Conseil fédéral suisse,
 
@@ -60,7 +60,7 @@ On entend par prêts d’aide sous forme de liquidités de la Banque nationale �
 - b. les prêts d’aide supplémentaires sous forme de liquidités: prêts d’aide sous forme de liquidités octroyés en plus des prêts d’aide extraordinaires sous forme de liquidités et garantis par un privilège des créances;
 - c. les prêts d’aide sous forme de liquidités assortis d’une garantie du risque de défaillance: prêts d’aide sous forme de liquidités qui vont au-delà des prêts d’aide supplémentaires sous forme de liquidités, et qui sont garantis par un privilège des créances et une garantie du risque de défaillance.
 
-<sup>2</sup> Par garantie du risque de défaillance, on entend les garanties octroyées à la Banque nationale par la Confédération pour assurer d’éventuelles pertes découlant d’un prêt d’aide sous forme de liquidités au sens de l’al. 1 let. c.
+<sup>2</sup> Par garantie du risque de défaillance, on entend les garanties octroyées à la Banque nationale par la Confédération pour assurer d’éventuelles pertes découlant d’un prêt d’aide sous forme de liquidités au sens de l’al. 1, let. c.
 
 [^2-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^2-2]: [www.snb.ch &gt; La BNS &gt; Directives et règlements &gt; Directives générales de la Banque nationale suisse du 25 mars 2004 sur ses instruments de politique monétaire](https://www.snb.ch/fr/mmr/reference/snb_legal_geldpol_instr/source/snb_legal_geldpol_instr.fr.pdf)
@@ -71,7 +71,7 @@ On entend par prêts d’aide sous forme de liquidités de la Banque nationale �
 
 <sup>1</sup> En dérogation à l’art. 219, al. 4, de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite (LP)[^3-1], les créances de la Banque nationale découlant de prêts d’aide supplémentaires sous forme de liquidités sont attribuées à la deuxième classe selon l’art. 219, al. 4, LP. En dérogation à l’art. 220, al. 1, LP, les autres créances de la deuxième classe visées à l’art. 219, al. 4, let. a à f, LP doivent être acquittées au préalable.
 
-<sup>2</sup> Le Conseil fédéral fixe le montant maximal que la Banque nationale peut verser, par groupe financier, au titre de prêts d’aide supplémentaires sous forme de liquidités. Le Conseil fédéral consulte au préalable la Banque nationale.[^3-2]
+<sup>2</sup> Le Conseil fédéral fixe le montant maximal que la Banque nationale peut verser, par groupe financier, au titre de prêts d’aide supplémentaires sous forme de liquidités. Il consulte au préalable la Banque nationale.[^3-2]
 
 <sup>3</sup> La Banque nationale détermine au demeurant les conditions qui régissent les prêts d’aide supplémentaires sous forme de liquidités. Dans le cadre du montant maximal fixé par le Conseil fédéral selon l’al. 2, la Banque nationale peut octroyer différents prêts d’aide supplémentaires sous forme de liquidités à plusieurs banques au sens de l’art. 2, al. 1, au sein d’un même groupe financier.
 
@@ -87,7 +87,7 @@ On entend par prêts d’aide sous forme de liquidités de la Banque nationale �
 
 **Octroi de garanties du risque de défaillance**
 
-<sup>1</sup> La Confédération peut octroyer à la Banque nationale des garanties du risque de défaillance pour couvrir les prêts d’aide sous forme de liquidités. La Confédération évalue les risques liés à l’octroi de garanties du risque de défaillance en tenant compte en particulier du privilège des créances au sens de l’art. 11.
+<sup>1</sup> La Confédération peut octroyer à la Banque nationale des garanties du risque de défaillance pour couvrir les prêts d’aide sous forme de liquidités. Elle évalue les risques liés à l’octroi de garanties du risque de défaillance en tenant compte en particulier du privilège des créances au sens de l’art. 11.
 
 <sup>2</sup> En octroyant une garantie du risque de défaillance, la Confédération s’engage à prendre en charge, après la clôture d’une procédure de faillite bancaire à l’encontre de l’emprunteuse, une éventuelle perte définitive de la Banque nationale découlant d’un prêt d’aide sous forme de liquidités garanti par la Confédération, y compris les intérêts courus et la prime de la Banque nationale prévue à l’art. 8, al. 2, à hauteur des fonds approuvés.
 
@@ -97,7 +97,7 @@ Pour l’octroi d’une garantie du risque de défaillance, les conditions suiva
 
 - a. il n’existe aucun autre moyen d’éviter que l’économie et le système financier suisses subissent un préjudice considérable;
 - b. les prêts d’aide sous forme de liquidités sont adéquats et nécessaires à la poursuite de l’activité de l’emprunteuse;
-- c. la FINMA confirme la solvabilité de l’emprunteuse ou confirme l’existence d’un plan d’assainissement. Si l’emprunteuse fait partie d’un groupe financier, la confirmation de la FINMA concerne l’ensemble du groupe.
+- c. la FINMA confirme la solvabilité de l’emprunteuse ou confirme l’existence d’un plan d’assainissement; si l’emprunteuse fait partie d’un groupe financier, la confirmation de la FINMA concerne l’ensemble du groupe.
 
 <sup>4</sup> Les prêts d’aide sous forme de liquidités assortis d’une garantie du risque de défaillance sont versés lorsque l’emprunteuse a épuisé toutes les possibilités de financement par ses propres moyens. Lors du premier versement, la Banque nationale confirme au DFF que l’emprunteuse et le groupe financier ne disposent plus de sûretés appropriées pour garantir les prêts d’aide extraordinaires sous forme de liquidités, et que les prêts d’aide supplémentaires sous forme de liquidités ont été épuisés. La FINMA confirme au DFF que l’emprunteuse et le groupe financier ne disposent d’aucune autre source de financement.
 
@@ -137,11 +137,11 @@ Au moment de l’approbation de crédits visée à l’art. 5, la FINMA peut ord
 
 **Réduction des risques et remboursement**
 
-<sup>1</sup> La FINMA et la Banque nationale en tant que prêteur veillent dans la mesure du possible à ce que les risques encourus par la Confédération du fait des garanties du risque de défaillance soient réduits.
+<sup>1</sup> La FINMA et la Banque nationale en tant que prêteuse veillent dans la mesure du possible à ce que les risques encourus par la Confédération du fait des garanties du risque de défaillance soient réduits.
 
 <sup>2</sup> En plus de son activité de surveillance, la FINMA surveille l’utilisation des prêts d’aide sous forme de liquidités assortis d’une garantie du risque de défaillance. À cet effet, elle peut notamment appliquer toutes les mesures prévues à l’art. 26 LB[^7-1], que des mesures protectrices aient été prises ou non.
 
-<sup>3</sup> L’emprunteuse doit rembourser les prêts d’aide sous forme de liquidités assortis d’une garantie du risque de défaillance avant les autres prêts que la Banque nationale lui a octroyés. Le remboursement préalable de prêts d’aide extraordinaire sous forme de liquidités est réservé s’il n’existe plus de sûretés suffisantes pour ces prêts en raison de l’évolution du marché ou si la Confédération a préalablement consenti, dans des cas justifiés, au remboursement préalable de prêts d’aide extraordinaires ou supplémentaires sous forme de liquidités.
+<sup>3</sup> L’emprunteuse doit rembourser les prêts d’aide sous forme de liquidités assortis d’une garantie du risque de défaillance avant les autres prêts que la Banque nationale lui a octroyés. Le remboursement préalable de prêts d’aide extraordinaire sous forme de liquidités est réservé s’il n’existe plus de sûretés suffisantes pour ces prêts en raison de l’évolution du marché ou si la Confédération a préalablement consenti, dans les cas ou cela se justifie, au remboursement préalable de prêts d’aide extraordinaires ou supplémentaires sous forme de liquidités.
 
 [^7-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
@@ -226,10 +226,10 @@ En dérogation à l’art. 219, al. 4, LP[^11-1], les créances de la Banque nat
 
 La Banque nationale peut avoir recours à la garantie du risque de défaillance pour autant que:
 
-- a. la Banque nationale a entièrement fait valoir dans la faillite les prêts d’aide sous forme de liquidités assortis d’une garantie du risque de défaillance, les intérêts courus, sa prime de risque ainsi que, au nom de la Confédération, les primes de mise à disposition et de risque courues, et que
-- b. la procédure de faillite est définitivement close.
+- a. la Banque nationale ait entièrement fait valoir dans la faillite les prêts d’aide sous forme de liquidités assortis d’une garantie du risque de défaillance, les intérêts courus, sa prime de risque ainsi que, au nom de la Confédération, les primes de mise à disposition et de risque courues, et que
+- b. la procédure de faillite soit définitivement close.
 
-<sup>2</sup> La Confédération et la Banque nationale définissent éventuellement d’autres conditions de recours à la garantie du risque de défaillance dans le contrat de garantie.
+<sup>2</sup> Le cas échéant, la Confédération et la Banque nationale définissent d’autres conditions de recours à la garantie du risque de défaillance dans le contrat de garantie.
 
 #### Art. 13
 
@@ -241,7 +241,7 @@ Les créances couvertes par une garantie du risque de défaillance deviennent ex
 
 **Dispositions pénales**
 
-<sup>1</sup> À moins qu’il n’ait commis une infraction plus grave au sens du code pénal[^14-1], est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement, contrevient aux obligations visées à l’art. 9.
+<sup>1</sup> À moins qu’il n’ait commis une infraction plus grave au sens du code pénal[^14-1], quiconque, intentionnellement, contrevient aux obligations visées à l’art. 9 est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
 <sup>2</sup> La compétence en la matière repose sur l’art. 50 de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^14-2].
 
@@ -258,17 +258,21 @@ Les créances couvertes par une garantie du risque de défaillance deviennent ex
 
 <sup>1</sup> Dans le cadre d’une transaction au sens de la LFus entre des banques surveillées par la FINMA qui sont d’importance systémique ou font partie d’un groupe financier d’importance systémique au sens de l’art. 7 LB et qui sont actives sur le plan international, la Confédération peut accorder à la banque repreneuse une garantie contre les pertes liées aux actifs à liquider de la banque reprise.
 
-<sup>2</sup> L’art. 5 s’applique par analogie à l’octroi de la garantie contre les pertes. Celle-ci s’élève au maximum à 9 milliards de francs suisses.
+<sup>2</sup> L’art. 5 s’applique par analogie à l’octroi de la garantie contre les pertes. Celle-ci s’élève au maximum à 9 milliards de francs suisses.[^14a-1]
 
 <sup>3</sup>
 
 Pour le versement de la garantie contre les pertes, les conditions suivantes doivent être remplies:
 
 - a. tous les actifs à liquider ont été réalisés définitivement;
-- b. la banque repreneuse visée à l’al. 1 a assumé les pertes définitives de 5 milliards de francs suisses sur les actifs à liquider;
-- c. la FINMA surveille le respect des conditions fixées aux let. a et b et confirme à la Confédération la perte de 5 milliards de francs suisses subie définitivement par la banque repreneuse et la perte définitive qui doit être couverte par la garantie.
+- b.[^14a-2] la banque repreneuse visée à l’al. 1 a assumé les pertes définitives de 5 milliards de francs suisses sur les actifs à liquider;
+- c.[^14a-3] la FINMA surveille le respect des conditions fixées aux let. a et b et confirme à la Confédération la perte de 5 milliards de francs suisses subie définitivement par la banque repreneuse et la perte définitive qui doit être couverte par la garantie.
 
 <sup>4</sup> Les détails de la garantie contre les pertes sont réglés dans le contrat de garantie conclu par la Confédération et la banque repreneuse visée à l’al. 1.
+
+[^14a-1]: Erratum du 20 mars 2023 ([RO 2023 137](https://fedlex.data.admin.ch/eli/oc/2023/137)).
+[^14a-2]: Erratum du 20 mars 2023 ([RO 2023 137](https://fedlex.data.admin.ch/eli/oc/2023/137)).
+[^14a-3]: Erratum du 20 mars 2023 ([RO 2023 137](https://fedlex.data.admin.ch/eli/oc/2023/137)).
 
 ## Section 4 Entrée en vigueur
 
@@ -276,4 +280,4 @@ Pour le versement de la garantie contre les pertes, les conditions suivantes doi
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 16 mars 2023 à 20 heures.
 
-<sup>2</sup> Elle a effet pendant six mois à compter de la date d’entrée en vigueur.
+<sup>2</sup> Elle a effet pendant six mois à compter de la date de l’entrée en vigueur.
