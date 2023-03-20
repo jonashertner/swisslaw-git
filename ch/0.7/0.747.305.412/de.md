@@ -3,11 +3,11 @@ sr: "0.747.305.412"
 title: Internationales Schiffsvermessungs-Übereinkommen von 1969 vom 23. Juni 1969 (mit Anlagen und Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326"
 language: de
-version: 2020-10-08
+version: 2023-03-21
 adopted: 1969-06-23
 in_force: 1982-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/fedlex-data-admin-ch-eli-cc-1982-1326_1326_1326-20201008-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/fedlex-data-admin-ch-eli-cc-1982-1326_1326_1326-20230321-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1982** 1326; BBl **1976** II 1181
 
 Abgeschlossen in London am 23. Juni 1969 Von der Bundesversammlung genehmigt am 30*.* November 1976[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 21. Juni 1977 In Kraft getreten für die Schweiz am 18. Juli 1982
 
-(Stand am 8. Oktober 2020)
+(Stand am 21. März 2023)
 
 [^t-1]: Art. 1 des BB vom 30. Nov. 1976 ([AS 1978 167](https://fedlex.data.admin.ch/eli/oc/1978/167_167_167)).
 
@@ -60,8 +60,6 @@ Im Sinne dieses Übereinkommens haben, soweit nicht ausdrücklich etwas anderes 
 
 **Anwendungsbereich**
 
-\2) Dieses Übereinkommen gilt für
-
 \3) Das Vermessungsergebnis vorhandener Schiffe, auf die dieses Übereinkommen nach Absatz 2 Buchstabe c) angewendet worden ist, darf danach nicht wieder nach den Vorschriften ermittelt werden, welche die Verwaltung vor dem Inkrafttreten des Übereinkommens auf Schiffe in der Auslandfahrt angewendet hat.
 
 \1) Dieses Übereinkommen gilt für folgende Schiffe, die in der Auslandfahrt eingesetzt sind:
@@ -69,6 +67,8 @@ Im Sinne dieses Übereinkommens haben, soweit nicht ausdrücklich etwas anderes 
 - a) Schiffe, die im Schiffsregister eines Staates eingetragen sind, dessen Regierung Vertragsregierung ist,
 - b) Schiffe, die in einem Hoheitsgebiet registriert sind, auf das dieses Übereinkommen nach Artikel 20 erstreckt wird, sowie
 - c) nicht registrierte Schiffe, welche die Flagge eines Staates führen, dessen Regierung Vertragsregierung ist.
+
+\2) Dieses Übereinkommen gilt für:
 
 - a) neue Schiffe;
 - b) vorhandene Schiffe, an denen Umbauten oder Veränderungen vorgenommen werden, die nach Ansicht der Verwaltung von wesentlichem Einfluss auf ihr geltendes Bruttovermessungsergebnis sind;
@@ -79,7 +79,7 @@ Im Sinne dieses Übereinkommens haben, soweit nicht ausdrücklich etwas anderes 
 
 **Ausnahmen**
 
-\1) Dieses Übereinkommen gilt nicht für
+\1) Dieses Übereinkommen gilt nicht für:
 
 - a) Kriegsschiffe sowie
 - b) Schiffe von weniger als 24 Meter (79 Fuss) Länge.
@@ -152,11 +152,11 @@ Messbriefe, die im Namen einer Vertragsregierung nach diesem Übereinkommen ausg
 
 **Überprüfung**
 
-\1) Ein Schiff, das die Flagge eines Staates führt, dessen Regierung Vertragsregierung ist, unterliegt in den Häfen anderer Vertragsregierungen der Überprüfung durch ordnungsgemäss ermächtigte Bedienstete dieser Regierungen. Diese Überprüfung ist auf die Feststellung zu beschränken,
-
 \2) Die Durchführung dieser Überprüfung darf keinen Zeitverlust für das Schiff verursachen.
 
 \3) Wird bei der Überprüfung festgestellt, dass die Hauptmerkmale des Schiffes von den im Internationalen Schiffsmessbrief (1969) eingetragenen so abweichen, dass sich eine grössere Brutto- oder Nettoraumzahl ergeben würde, so ist die Regierung des Staates, dessen Flagge das Schiff führt, unverzüglich zu unterrichten.
+
+\1) Ein Schiff, das die Flagge eines Staates führt, dessen Regierung Vertragsregierung ist, unterliegt in den Häfen anderer Vertragsregierungen der Überprüfung durch ordnungsgemäss ermächtigte Bedienstete dieser Regierungen. Diese Überprüfung ist auf die Feststellung zu beschränken:
 
 - a) dass das Schiff mit einem gültigen Internationalen Schiffsmessbrief (1969) versehen ist;
 - b) dass die Hauptmerkmale des Schiffes den Angaben im Messbrief entsprechen.
@@ -171,9 +171,9 @@ Die in diesem Übereinkommen vorgesehenen Vergünstigungen können für ein Schi
 
 **Frühere Verträge, Übereinkommen und Vereinbarungen**
 
-\1) Alle anderen Verträge, Übereinkommen und Vereinbarungen über Vermessungsfragen, die gegenwärtig zwischen den an diesem Übereinkommen beteiligten Regierungen in Kraft sind, bleiben während ihrer jeweiligen Geltungsdauer unbeschränkt wirksam in Bezug auf
-
 \2) Soweit jedoch solche Verträge, Übereinkommen oder Vereinbarungen zu den Vorschriften dieses Übereinkommens im Widerspruch stehen, sind die letzteren massgebend.
+
+\1) Alle anderen Verträge, Übereinkommen und Vereinbarungen über Vermessungsfragen, die gegenwärtig zwischen den an diesem Übereinkommen beteiligten Regierungen in Kraft sind, bleiben während ihrer jeweiligen Geltungsdauer unbeschränkt wirksam in Bezug auf:
 
 - a) Schiffe, auf welche dieses Übereinkommen nicht angewendet wird;
 - b) Schiffe, auf welche dieses Übereinkommen angewendet wird, soweit es sich um darin nicht ausdrücklich geregelte Angelegenheiten handelt.
@@ -192,9 +192,9 @@ Die Vertragsregierungen verpflichten sich, der Organisation folgende Unterlagen 
 
 **Unterzeichnung, Annahme und Beitritt**
 
-\1) Dieses Übereinkommen liegt sechs Monate, vom 23. Juni 1969 an gerechnet, zur Unterzeichnung und danach zum Beitritt auf. Die Regierungen der Mitgliedstaaten der Vereinten Nationen oder einer ihrer Sonderorganisationen oder der Internationalen Atomenergie-Organisation oder Vertragsparteien der Satzung des Internationalen Gerichtshofs[^16-1] können Vertragsparteien des Übereinkommens werden,
-
 \2) Die Annahme oder der Beitritt erfolgt durch Hinterlegung einer Annahme- oder Beitrittsurkunde bei der Organisation. Die Organisation teilt allen Regierungen, die dieses Übereinkommen unterzeichnet haben oder ihm beigetreten sind, jede neue Annahme und jeden neuen Beitritt sowie den Zeitpunkt der Hinterlegung der betreffenden Urkunde mit. Die Organisation teilt ausserdem allen Regierungen, die das Übereinkommen bereits unterzeichnet haben, jede Unterzeichnung mit, die innerhalb von sechs Monaten nach dem 23. Juni 1969 erfolgt.
+
+\1) Dieses Übereinkommen liegt sechs Monate, vom 23. Juni 1969 an gerechnet, zur Unterzeichnung und danach zum Beitritt auf. Die Regierungen der Mitgliedstaaten der Vereinten Nationen oder einer ihrer Sonderorganisationen oder der Internationalen Atomenergie-Organisation oder Vertragsparteien der Satzung des Internationalen Gerichtshofs[^16-1] können Vertragsparteien des Übereinkommens werden:
 
 - a) indem sie es ohne Vorbehalt der Annahme unterzeichnen;
 - b) indem sie es vorbehältlich der Annahme unterzeichnen und später annehmen oder
@@ -283,7 +283,7 @@ Dieses Übereinkommen ist in einer Urschrift in englischer und französischer Sp
 
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu London am 23. Juni 1969. (Es folgen die Unterschriften)
 
-Anlage 1*[^t-2]*
+Anlage 1[^t-2]
 
 ## Regeln für die Ermittlung der Brutto- und Nettoraumzahlen von Schiffen
 
@@ -335,7 +335,7 @@ Ungeachtet des Absatzes 4 werden die unter den Buchstaben a) bis e) aufgeführte
 
 \6) Fahrgast
 
-Ein Fahrgast ist jede Person ausser
+Ein Fahrgast ist jede Person ausser:
 
 - a) dem Kapitän und den Mitgliedern der Besatzung oder anderen Personen, die in irgendeiner Eigenschaft an Bord eines Schiffes für dessen Belange angestellt oder beschäftigt sind, sowie
 - b) Kindern unter einem Jahr.
@@ -368,35 +368,35 @@ Der Ausdruck Auditnorm bezeichnet den Anwendungscode.
 
 ### **Regel 3**Bruttoraumzahl
 
-Die Bruttoraumzahl (BRZ) eines Schiffes wird nach der Formel
+Die Bruttoraumzahl (BRZ) eines Schiffes wird nach der Formel:
 
 - BRZ = K<sub>1</sub> V
 
-ermittelt; hierin bedeuten
+ermittelt; hierin bedeuten:
 
 - V = Zahlenwert des in Kubikmeter gemessenen Inhalts aller geschlossenen Räume
 - K<sub>1</sub> = 0,2 + 0.02 log<sub>10</sub> V (oder entsprechend dem Tabellenwert in Anhang 2).
 
 ### **Regel 4**Nettoraumzahl
 
-\1) Die Nettoraumzahl (NRZ) eines Schiffes wird nach der Formel
+\1) Die Nettoraumzahl (NRZ) eines Schiffes wird nach der Formel:
 
-NRZ = K<sub>2</sub>V<sub>c</sub> <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image1.png)</sub>
+NRZ = K<sub>2</sub>V<sub>c</sub> <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image1.png)</sub>
 
-ermittelt; hierin dürfen
+ermittelt; hierin dürfen:
 
-a) der Faktor <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image2.png)</sub>Formel niemals grösser als eins,
+a) der Faktor <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image2.png)</sub>Formel niemals grösser als eins,
 
-b) der Ausdruck K<sub>2</sub>V<sub>c</sub> <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image3.png)</sub>niemals kleiner als 0,25 BRZ und
+b) der Ausdruck K<sub>2</sub>V<sub>c</sub> <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image3.png)</sub>niemals kleiner als 0,25 BRZ und
 
 c) NRZ niemals kleiner als 0,30 BRZ sein;
 
-in der Formel bedeuten
+in der Formel bedeuten:
 
 - V<sub>c</sub> = Zahlenwert des in Kubikmeter gemessenen Inhalts aller Laderäume,
 - K<sub>2</sub> = 0,2 + 0,02 log<sub>10</sub> V<sub>c</sub> (oder entsprechend dem Tabellenwert in Anhang 2),
 
-K<sub>3</sub> = 1,25 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image4.png)</sub>
+K<sub>3</sub> = 1,25 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image4.png)</sub>
 
 - H = Seitenhöhe mittschiffs gemäss Regel 2 Abs. 2 (in Meter),
 - T = Tiefgang mittschiffs gemäss Absatz 2 der vorliegenden Regel (in Meter),
@@ -405,7 +405,7 @@ K<sub>3</sub> = 1,25 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data
 - N<sub>1</sub> + N<sub>2</sub> = Gesamtzahl der nach dem Fahrgastzeugnis zulässigen Fahrgäste; falls die Summe von N<sub>1</sub> und N<sub>2</sub> kleiner als 13 ist, bleibt sie unberücksichtigt,
 - BRZ = Bruttoraumzahl des Schiffes gemäss Regel 3.
 
-\2) Als Tiefgang (T) im Sinne des Absatzes 1 gilt
+\2) Als Tiefgang (T) im Sinne des Absatzes 1 gilt:
 
 - a) für Schiffe, die dem in Kraft befindlichen Internationalen Freibord-Übereinkommen[^annexI-lvlu1-lvlu4-1] unterliegen, der Tiefgang, der dem nach jenem Übereinkommen erteilten Sommerfreibord (ohne Berücksichtigung eines Holzfreibords) entspricht;
 - b) für Fahrgastschiffe der Tiefgang, der der nach dem in Kraft befindlichen Internationalen Übereinkommen zum Schutz des menschlichen Lebens auf See oder einer anderen anwendbaren Internationalen Übereinkunft erteilten obersten Schottenladelinie entspricht;
@@ -421,7 +421,7 @@ K<sub>3</sub> = 1,25 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data
 
 \2) Schiffe, denen sowohl ein Freibord nach Buchstabe a) als auch nach Buchstabe b) der Regel 4 Abs. 2 erteilt worden ist, erhalten nur eine nach jener Regel ermittelte Nettoraumzahl, und zwar die, die dem für den jeweiligen Einsatz des Schiffes erteilten Freibord entspricht.
 
-\3) Wenn die in der Regel 3 und 4 bestimmten Merkmale eines Schiffes wie z. B. V, V<sub>c</sub>, T, N<sub>1</sub>, oder N<sub>2</sub> verändert werden oder wenn der in Absatz 2 erwähnte Freibord bei einem Wechsel des Einsatzes des Schiffes verändert wird und eine solche Änderung zu einer Verminderung der nach Regel 4 ermittelten Nettoraumzahl führt, darf ein neuer Internationaler Schiffsmessbrief (1969) mit dieser kleineren Nettoraumzahl erst nach Ablauf von zwölf Monaten nach Ausstellung des bis dahin geltenden Messbriefs ausgestellt werden. Diese Vorschrift gilt jedoch nicht,
+\3) Wenn die in der Regel 3 und 4 bestimmten Merkmale eines Schiffes wie z. B. V, V<sub>c</sub>, T, N<sub>1</sub>, oder N<sub>2</sub> verändert werden oder wenn der in Absatz 2 erwähnte Freibord bei einem Wechsel des Einsatzes des Schiffes verändert wird und eine solche Änderung zu einer Verminderung der nach Regel 4 ermittelten Nettoraumzahl führt, darf ein neuer Internationaler Schiffsmessbrief (1969) mit dieser kleineren Nettoraumzahl erst nach Ablauf von zwölf Monaten nach Ausstellung des bis dahin geltenden Messbriefs ausgestellt werden. Diese Vorschrift gilt jedoch nicht:
 
 - a) wenn das Schiff zur Flagge eines anderen Staates überwechselt,
 - b) wenn das Schiff Umbauten oder Veränderungen unterzogen wird, die nach Ansicht der Verwaltung von grösserer Bedeutung sind, wie es z. B. bei der Entfernung eines Aufbaues der Fall ist, die eine Änderung des erteilten Freibords erfordert und
@@ -447,7 +447,7 @@ Anhang I
 
 ## Bilder, auf die in Regel 2 Abs. 5 Bezug genommen wird
 
-In den folgenden Bildern bedeutet
+In den folgenden Bildern bedeutet:
 
 - O = ausgesonderte Räume
 - C = geschlossene Räume
@@ -458,55 +458,55 @@ In den folgenden Bildern bedeutet
 
 Regel 2 Abs. 5 Buchstabe a) Ziff. i)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image5.png)
 
 Bild 1
 
 Regel 2 Abs. 5 Buchstabe a) Ziff ii)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image6.png)
 
 Bild 2
 
 Regel 2 Abs. 5 Buchstabe a) Ziff ii)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image7.png)
 
 Bild 3
 
 Regel 2 Abs. 5 Buchstabe a) Ziff ii)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image8.png)
 
 Bild 4
 
 Regel 2 Abs. 5 Buchstabe a) Ziff iii)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image9.png)
 
 Bild 5
 
 Regel 2 Abs. 5 Buchstabe a) Ziff iii)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image10.png)
 
 Bild 6
 
 Regel 2 Abs. 5 Buchstabe b)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image11.png)
 
-h ≤ <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image12.png)</sub>, jedoch mindestens 0.75 m (2,5 Fuss).
+h ≤ <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image12.png)</sub>, jedoch mindestens 0.75 m (2,5 Fuss).
 
 Bild 7
 
 Regel 2 Abs. 5 Buchstabe c)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image13.png)
 
-h ≥ <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image12.png)</sub>, jedoch mindestens 0,75 m (2,5 Fuss)
+h ≥ <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image12.png)</sub>, jedoch mindestens 0,75 m (2,5 Fuss)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image14.png)
 
 Gegenüberliegende Öffnung nur an einer Seite
 
@@ -516,19 +516,19 @@ Bild 8
 
 Regel 2 Abs. 5 Buchstabe d)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image15.png)
 
 Bild 9
 
 Regel 2 Abs. 5 Buchstabe e)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image16.png)
 
 Bild 10
 
 Radius Schiff mit gerundetem Schergang Radius
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/de/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/de/xml/image/image17.png)
 
 Bild 11
 
@@ -619,7 +619,7 @@ Anlage II
 <tr><td></td><td colspan="12">BEMERKUNGEN:</td><td></td></tr>
 </table>
 
-Anlage III*[^t-3]*
+Anlage III[^t-3]
 
 ## Überprüfung der Einhaltung dieses Übereinkommens
 
@@ -644,7 +644,7 @@ Die Vertragsregierungen wenden bei der Wahrnehmung ihrer Verpflichtungen und Ver
 
 [^annexIII-lvlu1-lvlu2-1]: Siehe Rahmenpapier und Vorgehensweise zum Auditsystem der Mitgliedstaaten der IMO (Resolution A.1067(28)).
 
-Geltungsbereich am 8. Oktober 2020**[^t-4]**
+Geltungsbereich am 21. März 2023[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="3"></th></tr>
@@ -697,6 +697,7 @@ Geltungsbereich am 8. Oktober 2020**[^t-4]**
 <tr><td>Guatemala</td><td>20. Februar</td><td>2008 B</td><td>20. Mai</td><td colspan="3">2008</td></tr>
 <tr><td>Guinea</td><td>19. Januar</td><td>1981 B</td><td>18. Juli</td><td colspan="3">1982</td></tr>
 <tr><td>Guyana</td><td>10. Dezember</td><td>1997 B</td><td>10. März</td><td colspan="3">1998</td></tr>
+<tr><td>Guinea-Bissau</td><td>12. Mai</td><td>2022 B</td><td>12. August</td><td colspan="3">2022</td></tr>
 <tr><td>Haiti</td><td>6. April</td><td>1989 B</td><td>6. Juli</td><td colspan="3">1989</td></tr>
 <tr><td>Honduras</td><td>2. Dezember</td><td>1998 B</td><td>2. März</td><td colspan="3">1999</td></tr>
 <tr><td>Indien</td><td>26. Mai</td><td>1977 B</td><td>18. Juli</td><td colspan="3">1982</td></tr>
@@ -752,7 +753,7 @@ Geltungsbereich am 8. Oktober 2020**[^t-4]**
 <tr><td>Neuseeland\*</td><td>6. Januar</td><td>1978 B</td><td>18. Juli</td><td colspan="3">1982</td></tr>
 <tr><td>Nicaragua</td><td>2. Februar</td><td>1994 B</td><td>2. Mai</td><td colspan="3">1994</td></tr>
 <tr><td>Niederlande</td><td>16. Juni</td><td>1981</td><td>18. Juli</td><td colspan="3">1982</td></tr>
-<tr><td>Aruba</td><td>16. Juni</td><td>1981</td><td colspan="2">18. Juli</td><td>1982</td></tr>
+<tr><td>Aruba <sup>c</sup></td><td>16. Juni</td><td>1981</td><td colspan="2">18. Juli</td><td>1982</td></tr>
 <tr><td>Curaçao</td><td>16. Juni</td><td>1981</td><td colspan="2">18. Juli</td><td>1982</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>16. Juni</td><td>1981</td><td colspan="2">18. Juli</td><td>1982</td></tr>
 <tr><td>Sint Maarten</td><td>16. Juni</td><td>1981</td><td colspan="2">18. Juli</td><td>1982</td></tr>
@@ -773,6 +774,7 @@ Geltungsbereich am 8. Oktober 2020**[^t-4]**
 <tr><td>Russland\*</td><td>20. November</td><td>1969</td><td>18. Juli</td><td colspan="3">1982</td></tr>
 <tr><td>Salomoninseln</td><td>30. Juni</td><td>2004 B</td><td>30. September</td><td colspan="3">2004</td></tr>
 <tr><td>Samoa</td><td>18. Mai</td><td>2004 B</td><td>18. August</td><td colspan="3">2004</td></tr>
+<tr><td>San Marino</td><td>19. April</td><td>2021 B</td><td>19. Juli</td><td colspan="3">2021</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>11. Juni</td><td>2004 B</td><td>11. September</td><td colspan="3">2004</td></tr>
 <tr><td>St. Lucia</td><td>20. Mai</td><td>2004 B</td><td>20. August</td><td colspan="3">2004</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>28. Oktober</td><td>1983 B</td><td>28. Januar</td><td colspan="3">1984</td></tr>
@@ -820,7 +822,7 @@ Geltungsbereich am 8. Oktober 2020**[^t-4]**
 <tr><td>Kaimaninseln</td><td>9. Mai</td><td>1988</td><td>23. Juni</td><td colspan="3">1988</td></tr>
 <tr><td>Vietnam</td><td>18. Dezember</td><td>1990 B</td><td>18. März</td><td colspan="3">1991</td></tr>
 <tr><td>Zypern</td><td>9. Mai</td><td>1986 B</td><td>9. August</td><td colspan="3">1986</td></tr>
-<tr><td colspan="6">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 18. Juli 1982 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 5. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Vom 19. Nov. 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 13. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 18. Juli 1982 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 5. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Vom 19. Nov. 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 13. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar. <sup>c</sup> Am 1. Januar 1986 erhielt die Insel Aruba, die ein Teil der Niederländischen Antillen war, die innere Autonomie innerhalb des Königreichs der Niederlande.</td></tr>
 </table>
 
-[^t-4]: [AS 1982 1326](https://fedlex.data.admin.ch/eli/oc/1982/1326_1326_1326), [1983 234](https://fedlex.data.admin.ch/eli/oc/1983/234_234_234), [1984 269](https://fedlex.data.admin.ch/eli/oc/1984/269_269_269), [1985 245](https://fedlex.data.admin.ch/eli/oc/1985/245_245_245), [1986 833](https://fedlex.data.admin.ch/eli/oc/1986/833_833_833),[1987 1122](https://fedlex.data.admin.ch/eli/oc/1987/1122_1122_1122), [1989 403](https://fedlex.data.admin.ch/eli/oc/1989/403_403_403), [1990 1699](https://fedlex.data.admin.ch/eli/oc/1990/1699_1699_1699), [2005 1299](https://fedlex.data.admin.ch/eli/oc/2005/194), [2008 671](https://fedlex.data.admin.ch/eli/oc/2008/166), [2010 847](https://fedlex.data.admin.ch/eli/oc/2010/133), [2013 2103](https://fedlex.data.admin.ch/eli/oc/2013/444), [2018 1233](https://fedlex.data.admin.ch/eli/oc/2018/195), [2020 4475](https://fedlex.data.admin.ch/eli/oc/2020/786). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA ([www.eda.admin.ch/vertraege](http://www.eda.admin.ch/vertraege)).
+[^t-4]: [AS 1982 1326](https://fedlex.data.admin.ch/eli/oc/1982/1326_1326_1326); [1983 234](https://fedlex.data.admin.ch/eli/oc/1983/234_234_234); [1984 269](https://fedlex.data.admin.ch/eli/oc/1984/269_269_269); [1985 245](https://fedlex.data.admin.ch/eli/oc/1985/245_245_245); [1986 833](https://fedlex.data.admin.ch/eli/oc/1986/833_833_833); [1987 1122](https://fedlex.data.admin.ch/eli/oc/1987/1122_1122_1122); [1989 403](https://fedlex.data.admin.ch/eli/oc/1989/403_403_403); [1990 1699](https://fedlex.data.admin.ch/eli/oc/1990/1699_1699_1699); [2005 1299](https://fedlex.data.admin.ch/eli/oc/2005/194); [2008 671](https://fedlex.data.admin.ch/eli/oc/2008/166); [2010 847](https://fedlex.data.admin.ch/eli/oc/2010/133); [2013 2103](https://fedlex.data.admin.ch/eli/oc/2013/444); [2018 1233](https://fedlex.data.admin.ch/eli/oc/2018/195); [2020 4475](https://fedlex.data.admin.ch/eli/oc/2020/786); [2023 150](https://fedlex.data.admin.ch/eli/oc/2023/150). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty.

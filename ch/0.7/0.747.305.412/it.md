@@ -3,11 +3,11 @@ sr: "0.747.305.412"
 title: Convenzione internazionale del 23 giugno 1969 sulla stazzatura delle navi del 1969 (con App. e All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326"
 language: it
-version: 2020-10-08
+version: 2023-03-21
 adopted: 1969-06-23
 in_force: 1982-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/fedlex-data-admin-ch-eli-cc-1982-1326_1326_1326-20201008-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/fedlex-data-admin-ch-eli-cc-1982-1326_1326_1326-20230321-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1982** 1326; FF **1976** II 1153
 
 Traduzione
 
-Conchiusa a Londra il 23 giugno 1969
+Conchiusa a Londra il 23 giugno 1969 Approvata dall’Assemblea federale il 30 novembre 1976[^t-1] Ratificata con strumenti depositati dalla Svizzera il 21 giugno 1977 Entrata in vigore per la Svizzera il 18 luglio 1982
 
-Approvata dall’Assemblea federale il 30 novembre 1976[^t-1]
-
-Ratificata con strumenti depositati dalla Svizzera il 21 giugno 1977
-
-Entrata in vigore per la Svizzera il 18 luglio 1982
-
-(Stato 8 ottobre 2020)
+(Stato 21 marzo 2023)
 
 [^t-1]: Art. 1 del DF del 30 nov. 1976 ([RU 1978 167](https://fedlex.data.admin.ch/eli/oc/1978/167_167_167)).
 
@@ -289,7 +283,7 @@ I Governi contraenti si impegnano a trasmettere all’Organizzazione e a deposit
 
 La presente Convenzione è stipulata in unico esemplare in lingua francese e inglese, ed i due testi che la compongono fanno egualmente fede. Altrettanto dicasi per le traduzioni ufficiali in lingua russa e spagnola, che saranno depositate unitamente all’originale, recante in calce le rispettive firme.
 
-Allegato I*[^t-2]*
+Allegato I[^t-2]
 
 ## Norme per il calcolo della stazza lorda e della stazza netta delle navi
 
@@ -389,13 +383,13 @@ in cui
 
 \1) La stazza netta (NT) di una nave sarà calcolata in base alla seguente formula:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image1.png)</sub>
 
 in cui:
 
-a) il fattore <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image2.png)</sub> non dovrà essere superiore a 1;
+a) il fattore <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image2.png)</sub> non dovrà essere superiore a 1;
 
-b) il termine K<sub>2</sub>V<sub>c</sub> <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image3.png)</sub> non dovrà essere inferiore a 0,25 GT;
+b) il termine K<sub>2</sub>V<sub>c</sub> <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image3.png)</sub> non dovrà essere inferiore a 0,25 GT;
 
 c) NT non dovrà essere inferiore a 0,30 GT,
 
@@ -404,7 +398,7 @@ ed in cui:
 - V<sub>c</sub> = volume complessivo degli spazi adibiti al carico, espresso in metri cubi;
 - K<sub>2</sub> = 0,2 + 0,02 log10 Vc (K2 potrà anche essere ottenuto per mezzo della tabella riportata nell’appendice 2);
 
-K<sub>3</sub>= 1,25 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image4.png)</sub>,
+K<sub>3</sub>= 1,25 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image4.png)</sub>,
 
 - D = puntale dello scafo al centro della nave, espresso in metri, così come definito dalla norma 2‑2;
 - d = pescaggio, fuori ossatura, calcolato al centro della nave, espresso in metri, così come definito dalla presente norma, paragrafo 2;
@@ -471,55 +465,55 @@ Nelle navi con trincarino arrotondato, la larghezza sarà misurata come da fig. 
 
 Norma 2 (5) (a) (i)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image5.png)
 
 Fig. 1
 
 Norma 2 (5) (a) (ii)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image6.png)
 
 Fig. 2
 
 Norma 2 (5) (a) (ii)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image7.png)
 
 Fig. 3
 
 Norma 2 (5) (a) (ii)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image8.png)
 
 Fig. 4
 
 Norma 2 (5) (a) (iii)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image9.png)
 
 Fig. 5
 
 Norma 2 (5) (a) (iii)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image10.png)
 
 Fig. 6
 
 Norma 2 (5) (b)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image11.png)
 
-h = <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image12.png)</sub>, almeno o 0,75 m (2,5 piedi) a seconda del valore maggiore
+h = <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image12.png)</sub>, almeno o 0,75 m (2,5 piedi) a seconda del valore maggiore
 
 Fig. 7
 
 Norma 2 (5) (c)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image13.png)
 
-h = almeno <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image14.png)</sub>o 0,75 m (2,5 piedi) a seconda del valore maggiore
+h = almeno <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image14.png)</sub>o 0,75 m (2,5 piedi) a seconda del valore maggiore
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image15.png)
 
 Aperture laterali opposte Apertura su un solo lato
 
@@ -527,19 +521,19 @@ Fig. 8
 
 Norma 2 (5) (d)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image16.png)
 
 Fig. 9
 
 Norma 2 (5) (e)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image17.png)
 
 Fig. 10
 
 Raggio Nave con trincarini arrotondati Raggio
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/it/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/it/xml/image/image18.png)
 
 Fig. 11
 
@@ -589,7 +583,7 @@ V o V<sub>c</sub> = volume in metri cubi
 
 I coefficienti K<sub>1</sub> e K<sub>2</sub>, per i valori intermedi di V o V<sub>c</sub>, sono ottenuti per interpolazione lineare.
 
-Allegato II*[^t-3]*
+Allegato II[^t-3]
 
 <table>
 <tr><td></td><td colspan="26">Certificato internazionale di stazzatura delle navi (1969)</td><td></td></tr>
@@ -629,7 +623,7 @@ Allegato II*[^t-3]*
 
 [^t-3]: Nuovo testo giusta il n. II delle mod. approvate dall’Assemblea dell’IMO del 4 dic. 2013, in vigore dal 28 feb. 2017 ([RU 2018 973](https://fedlex.data.admin.ch/eli/oc/2018/141)).
 
-Allegato III*[^t-4]*
+Allegato III[^t-4]
 
 ## Verifica del rispetto delle disposizioni della Convenzione
 
@@ -654,7 +648,7 @@ I Governi contraenti applicano le disposizioni del Codice d’applicazione nell�
 
 [^annexIII-lvlu1-lvlu2-1]: Si rinvia al documento quadro e alle procedure per il Programma di audit degli Stati membri dell’IMO, adottati dall’Organizzazione mediante la risoluzione A.1067(28).
 
-Campo d’applicazione l’8 ottobre 2020**[^t-5]**
+Campo d’applicazione il 21 marzo 2023[^t-5]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -723,6 +717,7 @@ Campo d’applicazione l’8 ottobre 2020**[^t-5]**
 <tr><td>Grenada</td><td>28 giugno</td><td>2004 A</td><td>28 settembre</td><td>2004</td></tr>
 <tr><td>Guatemala</td><td>20 febbraio</td><td>2008 A</td><td>20 maggio</td><td>2008</td></tr>
 <tr><td>Guinea</td><td>19 gennaio</td><td>1981 A</td><td>18 luglio</td><td>1982</td></tr>
+<tr><td>Guinea-Bissau</td><td>12 maggio</td><td>2022 A</td><td>12 agosto</td><td>2022</td></tr>
 <tr><td>Guinea equatoriale</td><td>24 aprile</td><td>1996 A</td><td>24 luglio</td><td>1996</td></tr>
 <tr><td>Guyana</td><td>10 dicembre</td><td>1997 A</td><td>10 marzo</td><td>1998</td></tr>
 <tr><td>Haiti</td><td>6 aprile</td><td>1989 A</td><td>6 luglio</td><td>1989</td></tr>
@@ -770,7 +765,7 @@ Campo d’applicazione l’8 ottobre 2020**[^t-5]**
 <tr><td>Nuova Zelanda<sup>\*</sup></td><td>6 gennaio</td><td>1978 A</td><td>18 luglio</td><td>1982</td></tr>
 <tr><td>Oman</td><td>24 settembre</td><td>1990 A</td><td>24 dicembre</td><td>1990</td></tr>
 <tr><td>Paesi Bassi</td><td>16 giugno</td><td>1981</td><td>18 luglio</td><td>1982</td></tr>
-<tr><td>Aruba</td><td>16 giugno</td><td>1981</td><td>18 luglio</td><td>1982</td></tr>
+<tr><td>Aruba <sup>c</sup></td><td>16 giugno</td><td>1981</td><td>18 luglio</td><td>1982</td></tr>
 <tr><td>Curaçao</td><td>16 giugno</td><td>1981</td><td>18 luglio</td><td>1982</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>16 giugno</td><td>1981</td><td>18 luglio</td><td>1982</td></tr>
 <tr><td>Sint Maarten</td><td>16 giugno</td><td>1981</td><td>18 luglio</td><td>1982</td></tr>
@@ -798,6 +793,7 @@ Campo d’applicazione l’8 ottobre 2020**[^t-5]**
 <tr><td>Saint Vincent e Grenadine</td><td>28 ottobre</td><td>1983 A</td><td>28 gennaio</td><td>1984</td></tr>
 <tr><td>Salomone, Isole</td><td>30 giugno</td><td>2004 A</td><td>30 settembre</td><td>2004</td></tr>
 <tr><td>Samoa</td><td>18 maggio</td><td>2004 A</td><td>18 agosto</td><td>2004</td></tr>
+<tr><td>San Marino</td><td>19 aprile</td><td>2021 A</td><td>19 luglio</td><td>2021</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>29 ottobre</td><td>1998 A</td><td>29 gennaio</td><td>1999</td></tr>
 <tr><td>Seicelle</td><td>17 luglio</td><td>2017 A</td><td>17 ottobre</td><td>2017</td></tr>
 <tr><td>Senegal</td><td>16 gennaio</td><td>1997 A</td><td>16 aprile</td><td>1997</td></tr>
@@ -833,8 +829,9 @@ Campo d’applicazione l’8 ottobre 2020**[^t-5]**
 <tr><td colspan="5">\* Riserve e dichiarazioni \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU. I testi inglesi possono essere consultati sul sito internet dell’Organizzazione internazionale per la navigazione marittima (IMO): www.imo.org/Conventions oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dal 18 lug. 1982 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 5 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Dal 19 nov. 1999 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 13 dic. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
+<tr><td colspan="5"><sup>c</sup> Il 1° gennaio 1986 l’isola di Aruba, che faceva parte delle Antille olandesi, ha ottenuto l’autonomia interna in seno al Regno dei Paesi Bassi. Questo cambiamento ha effetti unicamente sulle relazioni di diritto costituzionale interne al Regno.</td></tr>
 </table>
 
 - [tab]
 
-[^t-5]: Completa quelli in [RU 1982 1326](https://fedlex.data.admin.ch/eli/oc/1982/1326_1326_1326), [1983 234](https://fedlex.data.admin.ch/eli/oc/1983/234_234_234), [1984 269](https://fedlex.data.admin.ch/eli/oc/1984/269_269_269), [1985 245](https://fedlex.data.admin.ch/eli/oc/1985/245_245_245), [1986 833](https://fedlex.data.admin.ch/eli/oc/1986/833_833_833),[1987 1122](https://fedlex.data.admin.ch/eli/oc/1987/1122_1122_1122), [1989 403](https://fedlex.data.admin.ch/eli/oc/1989/403_403_403), [1990 1699](https://fedlex.data.admin.ch/eli/oc/1990/1699_1699_1699), [2005 1299](https://fedlex.data.admin.ch/eli/oc/2005/194), [2008 671](https://fedlex.data.admin.ch/eli/oc/2008/166), [2010 847](https://fedlex.data.admin.ch/eli/oc/2010/133), [2013 2103](https://fedlex.data.admin.ch/eli/oc/2013/444), [2018 1233](https://fedlex.data.admin.ch/eli/oc/2018/195), [2020 4475](https://fedlex.data.admin.ch/eli/oc/2020/786). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-5]: [RU 1982 1326](https://fedlex.data.admin.ch/eli/oc/1982/1326_1326_1326); [1983 234](https://fedlex.data.admin.ch/eli/oc/1983/234_234_234); [1984 269](https://fedlex.data.admin.ch/eli/oc/1984/269_269_269); [1985 245](https://fedlex.data.admin.ch/eli/oc/1985/245_245_245); [1986 833](https://fedlex.data.admin.ch/eli/oc/1986/833_833_833); [1987 1122](https://fedlex.data.admin.ch/eli/oc/1987/1122_1122_1122); [1989 403](https://fedlex.data.admin.ch/eli/oc/1989/403_403_403); [1990 1699](https://fedlex.data.admin.ch/eli/oc/1990/1699_1699_1699); [2005 1299](https://fedlex.data.admin.ch/eli/oc/2005/194); [2008 671](https://fedlex.data.admin.ch/eli/oc/2008/166); [2010 847](https://fedlex.data.admin.ch/eli/oc/2010/133); [2013 2103](https://fedlex.data.admin.ch/eli/oc/2013/444); [2018 1233](https://fedlex.data.admin.ch/eli/oc/2018/195); **2020** 447; [2023 150](https://fedlex.data.admin.ch/eli/oc/2023/150). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty

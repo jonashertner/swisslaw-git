@@ -3,11 +3,11 @@ sr: "0.747.305.412"
 title: "Convention internationale de 1969 sur le jaugeage des navires, du 23 juin 1969 (avec annexes et appendices)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326"
 language: fr
-version: 2020-10-08
+version: 2023-03-21
 adopted: 1969-06-23
 in_force: 1982-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1326_1326_1326-20201008-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1326_1326_1326-20230321-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 21 juin 1977
 
 Entrée en vigueur pour la Suisse le 18 juillet 1982
 
-(Etat le 8 octobre 2020)
+(État le 21 mars 2023)
 
 [^t-1]: Art. 1 de l’AF du 30 nov. 1976 ([RO 1978 167](https://fedlex.data.admin.ch/eli/oc/1978/167_167_167))
 
@@ -51,8 +51,8 @@ Les Gouvernements contractants s’engagent à donner effet aux dispositions de 
 Aux fins de la présente Convention, sauf disposition contraire expresse:
 
 - 1) le terme «règles» désigne les règles figurant en annexe à la présente Convention;
-- 2) le terme «Administration» désigne le gouvernement de l’Etat dont le navire bat pavillon;
-- 3) l’expression «voyage international» désigne un voyage par mer entre un pays auquel s’applique la présente Convention et un port situé en dehors de ce pays, ou inversement. A cet égard, tout territoire dont les relations internationales sont assurées par un Gouvernement contractant ou dont l’Organisation des Nations Unies assure l’administration est considéré comme un pays distinct;
+- 2) le terme «Administration» désigne le gouvernement de l’État dont le navire bat pavillon;
+- 3) l’expression «voyage international» désigne un voyage par mer entre un pays auquel s’applique la présente Convention et un port situé en dehors de ce pays, ou inversement. À cet égard, tout territoire dont les relations internationales sont assurées par un Gouvernement contractant ou dont l’Organisation des Nations Unies assure l’administration est considéré comme un pays distinct;
 - 4) l’expression «jauge brute» traduit les dimensions hors tout d’un navire, déterminées conformément aux dispositions de la présente Convention;
 - 5) l’expression «jauge nette» représente la capacité d’utilisation d’un navire, déterminée conformément aux dispositions de la présente Convention;
 - 6) l’expression «navire neuf» désigne un navire dont la quille est posée, ou qui se trouve dans un état d’avancement équivalent, à la date ou postérieurement à la date d’entrée en vigueur de la présente Convention;
@@ -72,7 +72,7 @@ Aux fins de la présente Convention, sauf disposition contraire expresse:
 
 - a) navires immatriculés dans les pays dont le gouvernement est un Gouvernement contractant;
 - b) navires immatriculés dans les territoires auxquels la présente Convention est étendue en vertu de l’art. 20;
-- c) navires non immatriculés battant pavillon d’un Etat dont le gouvernement est un Gouvernement contractant.
+- c) navires non immatriculés battant pavillon d’un État dont le gouvernement est un Gouvernement contractant.
 
 \2) La présente Convention s’applique:
 
@@ -87,7 +87,7 @@ Aux fins de la présente Convention, sauf disposition contraire expresse:
 
 \1) La présente Convention ne s’applique pas:
 
-- a) aux navires de guerre; et
+- a) aux navires de guerre, et
 - b) aux navires d’une longueur inférieure à 24 mètres (79 pieds).
 
 \2) Aucune des dispositions de la présente Convention ne s’applique aux navires exclusivement affectés à la navigation:
@@ -126,15 +126,15 @@ La détermination des jauges brute et nette est effectuée par l’Administratio
 
 \2) Il est remis dès que possible, au gouvernement qui en a fait la demande, copie du certificat et des calculs faits pour déterminer les jauges.
 
-\3) Le certificat ainsi délivré comporte une déclaration attestant qu’il est délivré à la requête du gouvernement de l’Etat dont le navire bat ou battra pavillon; il a la même valeur et il est accepté dans les mêmes conditions qu’un certificat délivré en application de l’art. 7.
+\3) Le certificat ainsi délivré comporte une déclaration attestant qu’il est délivré à la requête du gouvernement de l’État dont le navire bat ou battra pavillon; il a la même valeur et il est accepté dans les mêmes conditions qu’un certificat délivré en application de l’art. 7.
 
-\4) Il n’est pas délivré de certificat international de jaugeage (1969) à un navire qui bat pavillon d’unEtat dont le gouvernement n’est pas un Gouvernement contractant.
+\4) Il n’est pas délivré de certificat international de jaugeage (1969) à un navire qui bat pavillon d’unÉtat dont le gouvernement n’est pas un Gouvernement contractant.
 
 #### Art. 9
 
 **Forme du certificat**
 
-\1) Le certificat est établi dans la langue ou les langues officielles de l’Etat qui le délivre. Si la langue utilisée n’est ni l’anglais ni le français, le texte comprend une traduction dans l’une de ces langues.
+\1) Le certificat est établi dans la langue ou les langues officielles de l’État qui le délivre. Si la langue utilisée n’est ni l’anglais ni le français, le texte comprend une traduction dans l’une de ces langues.
 
 \2) Ce certificat doit être conforme au modèle figurant à l’Annexe II.
 
@@ -144,9 +144,9 @@ La détermination des jauges brute et nette est effectuée par l’Administratio
 
 \1) Sous réserve des exceptions prévues dans les Règles, le certificat international de jaugeage (1969) cesse d’être valable et est annulé par l’Administration si l’aménagement, la construction, la capacité, l’utilisation des espaces, le nombre total de passagers que le navire est autorisé à transporter selon les indications de son certificat de capacité (passagers), le franc‑bord réglementaire ou le tirant d’eau autorisé du navire, ont subi des modifications de nature à nécessiter une augmentation de la jauge brute ou de la jauge nette.
 
-\2) Tout certificat délivré à un navire par une Administration cesse d’être valable si le navire passe sous le pavillon d’un autre Etat, sous réserve des dispositions du paragraphe 3 du présent article.
+\2) Tout certificat délivré à un navire par une Administration cesse d’être valable si le navire passe sous le pavillon d’un autre État, sous réserve des dispositions du paragraphe 3 du présent article.
 
-\3) Lorsqu’un navire passe sous le pavillon d’un autre Etat dont le gouvernement est un Gouvernement contractant, le certificat international de jaugeage (1969) demeure valable pendant une période ne dépassant pas trois mois, ou jusqu’à la date à laquelle l’Administration délivre en remplacement un autre certificat international de jaugeage (1969), si cette dernière date est plus rapprochée. Le Gouvernement de l’Etat dont le navire battait précédemment pavillon adresse à l’Administration, dès que possible après le changement de nationalité, copie du certificat dont le navire était pourvu à la date du changement, ainsi que des calculs des jauges correspondants.
+\3) Lorsqu’un navire passe sous le pavillon d’un autre État dont le gouvernement est un Gouvernement contractant, le certificat international de jaugeage (1969) demeure valable pendant une période ne dépassant pas trois mois, ou jusqu’à la date à laquelle l’Administration délivre en remplacement un autre certificat international de jaugeage (1969), si cette dernière date est plus rapprochée. Le Gouvernement de l’État dont le navire battait précédemment pavillon adresse à l’Administration, dès que possible après le changement de nationalité, copie du certificat dont le navire était pourvu à la date du changement, ainsi que des calculs des jauges correspondants.
 
 #### Art. 11
 
@@ -160,9 +160,9 @@ Le certificat délivré sous la responsabilité d’un Gouvernement contractant,
 
 \2) Cette inspection ne doit en aucun cas entraîner le moindre retard pour le navire.
 
-\3) Dans le cas où l’inspection révèle que les caractéristiques principales du navire diffèrent des indications portées sur le certificat international de jaugeage (1969), de telle manière qu’elles entraînent une augmentation de la jauge brute ou de la jauge nette, le gouvernement de l’Etat dont le navire bat pavillon en est immédiatement informé.
+\3) Dans le cas où l’inspection révèle que les caractéristiques principales du navire diffèrent des indications portées sur le certificat international de jaugeage (1969), de telle manière qu’elles entraînent une augmentation de la jauge brute ou de la jauge nette, le gouvernement de l’État dont le navire bat pavillon en est immédiatement informé.
 
-\1) Tout navire battant pavillon d’un Etat dont le gouvernement est un Gouvernement contractant est soumis, dans les ports relevant d’autres Gouvernement contractants, à l’inspection d’agents dûment autorisés à cet effet par lesdits Gouvernements. Cette inspection doit avoir pour seul objet de vérifier:
+\1) Tout navire battant pavillon d’un État dont le gouvernement est un Gouvernement contractant est soumis, dans les ports relevant d’autres Gouvernement contractants, à l’inspection d’agents dûment autorisés à cet effet par lesdits Gouvernements. Cette inspection doit avoir pour seul objet de vérifier:
 
 - a) que le navire est pourvu d’un certificat international de jaugeage (1969) en cours de validité;
 - b) que les caractéristiques principales du navire correspondent aux indications portées sur le certificat.
@@ -200,10 +200,10 @@ Les Gouvernements contractants s’engagent à communiquer à l’Organisation e
 
 \2) L’approbation ou l’adhésion s’effectue par le dépôt d’un instrument d’appro-bation ou d’adhésion auprès de l’Organisation, qui doit informer tous les gouvernements ayant signé la présente Convention, ou y ayant adhéré, de toute nouvelle approbation ou adhésion et de la date de dépôt de l’instrument. L’Organisation informe de même tous les gouvernements ayant déjà signé la Convention de toute signature qui serait apposée pendant le délai de six mois compté du 23 juin 1969.
 
-\1) La présente Convention restera ouverte à la signature pendant six mois à compter du 23 juin 1969 et restera ensuite ouverte à l’adhésion. Les gouvernements des Etats membres de l’Organisation des Nations Unies, de l’une de ses institutions spécialisées ou de l’Agence internationale de l’énergie atomique, ou parties au Statut de la Cour internationale de Justice[^16-1], peuvent devenir parties à la présente Convention par:
+\1) La présente Convention restera ouverte à la signature pendant six mois à compter du 23 juin 1969 et restera ensuite ouverte à l’adhésion. Les gouvernements des États membres de l’Organisation des Nations Unies, de l’une de ses institutions spécialisées ou de l’Agence internationale de l’énergie atomique, ou parties au Statut de la Cour internationale de Justice[^16-1], peuvent devenir parties à la présente Convention par:
 
 - a) signature sans réserve quant à l’approbation;
-- b) signature sous réserve d’approbation, suivie d’approbation; ou
+- b) signature sous réserve d’approbation, suivie d’approbation, ou
 - c) adhésion.
 
 [^16-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
@@ -212,7 +212,7 @@ Les Gouvernements contractants s’engagent à communiquer à l’Organisation e
 
 **Entrée en vigueur**
 
-\1) La présente Convention entre en vigueur vingt‑quatre mois après la date à laquelle au moins vingt‑cinq gouvernements d’Etats dont les flottes de commerce représentent au total 65 % au moins du tonnage brut de la flotte de commerce mondiale ont soit signé la Convention sans réserve quant à l’approbation, soit déposé un instrument d’approbation ou d’adhésion conformément à l’art. 16. L’Organisation informe tous les gouvernements qui ont signé la présente Convention, ou qui y ont adhéré, de la date de son entrée en vigueur.
+\1) La présente Convention entre en vigueur vingt‑quatre mois après la date à laquelle au moins vingt‑cinq gouvernements d’États dont les flottes de commerce représentent au total 65 % au moins du tonnage brut de la flotte de commerce mondiale ont soit signé la Convention sans réserve quant à l’approbation, soit déposé un instrument d’approbation ou d’adhésion conformément à l’art. 16. L’Organisation informe tous les gouvernements qui ont signé la présente Convention, ou qui y ont adhéré, de la date de son entrée en vigueur.
 
 \2) Pour les gouvernements qui déposent un instrument d’approbation de la présente Convention ou d’adhésion à celle‑ci au cours de la période de vingt-quatre mois prévue au paragraphe 1 du présent article, l’approbation ou l’adhésion prend effet au moment de l’entrée en vigueur de la présente Convention ou trois mois après le dépôt de l’instrument d’approbation ou d’adhésion, si cette dernière date est postérieure.
 
@@ -232,12 +232,12 @@ Les Gouvernements contractants s’engagent à communiquer à l’Organisation e
 
 \2) Amendement par approbation unanime:
 
-- a) A la demande d’un Gouvernement contractant, le texte de tout amendement qu’il propose d’apporter à la présente Convention est communiqué par l’Organisation à tous les Gouvernements contractants, pour examen en vue de son approbation unanime.
+- a) À la demande d’un Gouvernement contractant, le texte de tout amendement qu’il propose d’apporter à la présente Convention est communiqué par l’Organisation à tous les Gouvernements contractants, pour examen en vue de son approbation unanime.
 - b) Tout amendement ainsi adopté entre en vigueur douze mois après la date de son approbation par tous les Gouvernements contractants, à moins que ceux‑ci ne conviennent d’une date plus rapprochée. Un Gouvernement contractant qui n’a pas notifié à l’Organisation son approbation ou son refus de l’amendement dans un délai de vingt‑quatre mois à compter de la date où l’Organisation le lui a communiqué, est réputé avoir approuvé ledit amendement.
 
 \3) Amendement après examen au sein de l’Organisation:
 
-- a) A la demande d’un Gouvernement contractant, l’Organisation examine tout amendement à la présente Convention qui est présenté par ce gouvernement. Si cet amendement est adopté à la majorité des deux tiers des Membres présents et votants du Comité de la sécurité maritime de l’Organisation, l’amendement est communiqué à tous les Membres de l’Organisation et à tous les Gouvernements contractants six mois au moins avant qu’il ne soit examiné par l’Assemblée de l’Organisation.
+- a) À la demande d’un Gouvernement contractant, l’Organisation examine tout amendement à la présente Convention qui est présenté par ce gouvernement. Si cet amendement est adopté à la majorité des deux tiers des Membres présents et votants du Comité de la sécurité maritime de l’Organisation, l’amendement est communiqué à tous les Membres de l’Organisation et à tous les Gouvernements contractants six mois au moins avant qu’il ne soit examiné par l’Assemblée de l’Organisation.
 - b) S’il est adopté à la majorité des deux tiers des Membres présents et votants de l’Assemblée, l’amendement est communiqué par l’Organisation à tous les Gouvernements contractants pour acceptation.
 - c) Douze mois après la date de son acceptation par les deux tiers des Gouvernements contractants, l’amendement entre en vigueur pour tous les Gouvernements contractants à l’exception de ceux qui, avant son entrée en vigueur, ont fait une déclaration aux termes de laquelle ils ne l’acceptent pas.
 - d) Au moment de l’adoption d’un amendement, l’Assemblée peut proposer, à la majorité des deux tiers des Membres présents et votants, y compris les deux tiers des gouvernements représentés au Comité de la sécurité maritime présents et votants à l’Assemblée, qu’il soit décidé que celui‑ci revêt une importance telle que tout Gouvernement contractant qui fait une déclaration en vertu de l’alinéa c) ci‑dessus et n’approuve pas l’amendement dans un délai de douze mois après son entrée en vigueur cessera, à l’expiration de ce délai, d’être partie à la présente Convention. Une telle décision doit recueillir l’approbation préalable des deux tiers des Gouvernements contractants.
@@ -289,11 +289,11 @@ La présente Convention est établie en un seul exemplaire en langues française
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet par leurs gouvernements, ont apposé leur signature à la présente Convention. Fait à Londres, ce vingt‑trois juin mil neuf cent soixante‑neuf. (Suivent les signatures)
 
-Annexe I*[^t-2]*
+Annexe I[^t-2]
 
 ## Règles pour le calcul de la jauge brute et de la jauge nette des navires
 
-[^t-2]: Mise à jour selon le ch. I des Am. adoptés par l’Assemblée de l’OMI le 4 déc. 2013, en vigueur depuis le 28 fév. 2017 ([RO 2018 973](https://fedlex.data.admin.ch/eli/oc/2018/141)).
+[^t-2]: Mise à jour par le ch. I des Am. adoptés par l’Assemblée de l’OMI le 4 déc. 2013, en vigueur depuis le 28 fév. 2017 ([RO 2018 973](https://fedlex.data.admin.ch/eli/oc/2018/141)).
 
 #### Règle 1
 
@@ -346,14 +346,14 @@ Nonobstant les dispositions du par. 4 de la présente règle, les espaces décri
 
 Un passager s’entend de toute personne autre que:
 
-- a) le capitaine et les membres de l’équipage ou autres personnes employées ou occupées en quelque qualité que ce soit à bord d’un navire pour les besoins de ce navire; et
+- a) le capitaine et les membres de l’équipage ou autres personnes employées ou occupées en quelque qualité que ce soit à bord d’un navire pour les besoins de ce navire, et
 - b) les enfants de moins d’un an.
 
 ### 7) Espaces à cargaison
 
 Les espaces à cargaison qui doivent être compris dans le calcul de la jauge nette sont les espaces fermés qui sont affectés au transport de marchandises destinées à être déchargées du navire à condition que ces espaces aient été compris dans le calcul de la jauge brute. Ces espaces à cargaison doivent être certifiés comme tels par des marques de caractère permanent, composées des lettres CC (cale à cargaison) qui doivent figurer en un endroit tel qu’elles soient aisément visibles et avoir au moins 100 millimètres (4 pouces) de hauteur.
 
-### 8) Etanche aux intempéries
+### 8) Étanche aux intempéries
 
 Un dispositif est dit étanche aux intempéries lorsque dans toutes les conditions rencontrées en mer il ne laisse pas pénétrer l’eau.
 
@@ -363,7 +363,7 @@ Audit désigne un processus systématique, indépendant et dûment étayé qui v
 
 ### 10) Programme d’audit
 
-Programme d’audit désigne le Programme d’audit des Etats membres de l’OMI que l’Organisation a établi et qui tient compte des directives élaborées par l’Organisation[^annexI-lvlu1-2-subdivu10-1].
+Programme d’audit désigne le Programme d’audit des États membres de l’OMI que l’Organisation a établi et qui tient compte des directives élaborées par l’Organisation[^annexI-lvlu1-2-subdivu10-1].
 
 [^annexI-lvlu1-2-subdivu10-1]: Se reporter au document-cadre et aux procédures pour le Programme d’audit des Etats membres de l’OMI (résolution A.1067(28)).
 
@@ -391,19 +391,19 @@ La jauge brute (GT) d’un navire est calculée à l’aide de la formule suivan
 
 \1) La jauge nette (NT) d’un navire est calculée à l’aide de la formule
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image1.png)
 
 dans laquelle
 
-a) le facteur <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image2.png)</sub>ne doit pas être supérieur à 1;
+a) le facteur <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image2.png)</sub>ne doit pas être supérieur à 1;
 
-b) le terme K<sub>2</sub>V<sub>c</sub> <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image3.png)</sub> ne doit pas être inférieur à 0,25 GT;
+b) le terme K<sub>2</sub>V<sub>c</sub> <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image3.png)</sub> ne doit pas être inférieur à 0,25 GT;
 
 c) NT ne doit pas être inférieur à 0,30 GT,
 
 et où
 
-K<sub>3</sub>= 1,25 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image4.png)</sub>,
+K<sub>3</sub>= 1,25 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image4.png)</sub>,
 
 - V<sub>c</sub> = volume total des espaces à cargaison, exprimé en mètres cubes,
 - K<sub>2</sub> = 0,2 + 0,02 log<sub>10</sub> V<sub>c</sub> (K<sub>2</sub> peut aussi être obtenu au moyen de la table donnée à l’appendice 2),
@@ -435,7 +435,7 @@ K<sub>3</sub>= 1,25 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.
 
 \3) Si les caractéristiques d’un navire, telle que V, V<sub>c</sub>, d, N<sub>1</sub> ou N<sub>2</sub> définies dans les règles 3 et 4 sont modifiées ou si le franc‑bord assigné approprié dont il est question au par. 2 de la présente règle est modifié à la suite d’un changement dans le type d’exploitation du navire et que cette modification entraîne la diminution de la jauge nette déterminée en vertu des dispositions de la règle 4, il n’est pas délivré de nouveau certificat international de jaugeage (1969) indiquant la nouvelle jauge ainsi obtenue, avant l’expiration d’un délai de douze mois à compter de la date à laquelle a été délivré le certificat en cours de validité; toutefois, la présente disposition n’est pas applicable:
 
-- a) si le navire change de pavillon; ou
+- a) si le navire change de pavillon, ou
 - b) si le navire subit des transformations ou des modifications considérées comme importantes par l’Administration, telles que la suppression d’une superstructure entraînant la modification du franc‑bord assigné;
 - c) aux navires à passagers servant au transport d’un grand nombre de passagers sans couchettes lors de voyages de nature particulière, tels que des pèlerinages.
 
@@ -472,55 +472,55 @@ Dans les figures ci-après:
 
 Règle 2 (5) (a) (i)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image5.png)
 
 Fig. 1
 
 Règle 2 (5) (a) (ii)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image6.png)
 
 Fig. 2
 
 Règle 2 (5) (a) (ii)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image7.png)
 
 Fig. 3
 
 Règle 2 (5) (a) (ii)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image8.png)
 
 Fig. 4
 
 Règle 2 (5) (a) (iii)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image9.png)
 
 Fig. 5
 
 Règle 2 (5) (a) (iii)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image10.png)
 
 Fig. 6
 
 Règle 2 (5) (b)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image11.png)
 
-h = au moins <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image12.png)</sub> ou 0,75 m (2,5 pieds) selon celle qui est la plus grande.
+h = au moins <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image12.png)</sub> ou 0,75 m (2,5 pieds) selon celle qui est la plus grande.
 
 Fig. 7
 
 Règle 2 (5) (c)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image13.png)
 
-h = au moins<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image12.png)</sub>ou 0,75 m (2,5 pieds) selon celle qui est la plus grande.
+h = au moins<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image12.png)</sub>ou 0,75 m (2,5 pieds) selon celle qui est la plus grande.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image14.png)
 
 <table>
 <tr><td>Ouvertures latérales opposées</td><td>Ouverture dans un côté seulement</td></tr>
@@ -530,13 +530,13 @@ Fig. 8
 
 Règle 2 (5) (d)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image15.png)
 
 Fig. 9
 
 Règle 2 (5) (e)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image16.png)
 
 Fig. 10
 
@@ -544,7 +544,7 @@ Fig. 10
 <tr><td>Rayon</td><td>Navire à gouttières arrondies</td><td>Rayon</td></tr>
 </table>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20201008/fr/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326/20230321/fr/xml/image/image17.png)
 
 Fig. 11
 
@@ -632,7 +632,7 @@ Annexe II
 <tr><td></td><td colspan="26">OBSERVATIONS:</td><td></td></tr>
 </table>
 
-Annexe III*[^t-3]*
+Annexe III[^t-3]
 
 ## Vérification du respect des dispositions de la Convention
 
@@ -656,15 +656,15 @@ Les Gouvernements contractants utilisent les dispositions du Code d’applicatio
 
 \4. L’audit de chaque Gouvernement contractant doit:
 
-- 1) suivre un calendrier global établi par le Secrétaire général de l’Organisation qui tienne compte des directives élaborées par l’Organisation; et
+- 1) suivre un calendrier global établi par le Secrétaire général de l’Organisation qui tienne compte des directives élaborées par l’Organisation, et
 - 2) être effectué à des intervalles réguliers, compte tenu des directives élaborées par l’Organisation.
 
 [^annexIII-lvlu1-9-1]: Se reporter au document-cadre et aux procédures pour le Programme d’audit des Etats membres de l’OMI (résolution A.1067(28)).
 
-Champ d’application le 8 octobre 2020**[^t-4]**
+Champ d’application le 21 mars 2023[^t-4]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>24 novembre</td><td>1982 A</td><td>24 février</td><td>1983</td></tr>
 <tr><td>Albanie</td><td>3 avril</td><td>2003 A</td><td>3 juillet</td><td>2003</td></tr>
 <tr><td>Algérie</td><td>4 octobre</td><td>1976 A</td><td>18 juillet</td><td>1982</td></tr>
@@ -728,6 +728,7 @@ Champ d’application le 8 octobre 2020**[^t-4]**
 <tr><td>Grenade</td><td>28 juin</td><td>2004 A</td><td>28 septembre</td><td>2004</td></tr>
 <tr><td>Guatemala</td><td>20 février</td><td>2008 A</td><td>20 mai</td><td>2008</td></tr>
 <tr><td>Guinée</td><td>19 janvier</td><td>1981 A</td><td>18 juillet</td><td>1982</td></tr>
+<tr><td>Guinée-Bissau</td><td>12 mai</td><td>2022 A</td><td>12 août</td><td>2022</td></tr>
 <tr><td>Guinée équatoriale</td><td>24 avril</td><td>1996 A</td><td>24 juillet</td><td>1996</td></tr>
 <tr><td>Guyana</td><td>10 décembre</td><td>1997 A</td><td>10 mars</td><td>1998</td></tr>
 <tr><td>Haïti</td><td>6 avril</td><td>1989 A</td><td>6 juillet</td><td>1989</td></tr>
@@ -735,6 +736,7 @@ Champ d’application le 8 octobre 2020**[^t-4]**
 <tr><td>Hongrie\*</td><td>23 mai</td><td>1975 A</td><td>18 juillet</td><td>1982</td></tr>
 <tr><td>Îles Cook</td><td>21 décembre</td><td>2001 A</td><td>21 mars</td><td>2002</td></tr>
 <tr><td>Îles Marshall</td><td>25 avril</td><td>1989 A</td><td>25 juillet</td><td>1989</td></tr>
+<tr><td>Îles Salomon</td><td>30 juin</td><td>2004 A</td><td>30 septembre</td><td>2004</td></tr>
 <tr><td>Inde</td><td>26 mai</td><td>1977 A</td><td>18 juillet</td><td>1982</td></tr>
 <tr><td>Indonésie</td><td>14 mars</td><td>1989</td><td>14 juin</td><td>1989</td></tr>
 <tr><td>Iran</td><td>28 décembre</td><td>1973 A</td><td>18 juillet</td><td>1982</td></tr>
@@ -783,7 +785,7 @@ Champ d’application le 8 octobre 2020**[^t-4]**
 <tr><td>Panama</td><td>9 mars</td><td>1978 A</td><td>18 juillet</td><td>1982</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>25 octobre</td><td>1993 A</td><td>25 janvier</td><td>1994</td></tr>
 <tr><td>Pays-Bas</td><td>16 juin</td><td>1981</td><td>18 juillet</td><td>1982</td></tr>
-<tr><td>Aruba</td><td>16 juin</td><td>1981</td><td>18 juillet</td><td>1982</td></tr>
+<tr><td>Aruba <sup>c</sup></td><td>16 juin</td><td>1981</td><td>18 juillet</td><td>1982</td></tr>
 <tr><td>Curaçao</td><td>16 juin</td><td>1981</td><td>18 juillet</td><td>1982</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>16 juin</td><td>1981</td><td>18 juillet</td><td>1982</td></tr>
 <tr><td>Sint Maarten</td><td>16 juin</td><td>1981</td><td>18 juillet</td><td>1982</td></tr>
@@ -806,8 +808,8 @@ Champ d’application le 8 octobre 2020**[^t-4]**
 <tr><td>Russie\*</td><td>20 novembre</td><td>1969</td><td>18 juillet</td><td>1982</td></tr>
 <tr><td>Sainte-Lucie</td><td>20 mai</td><td>2004 A</td><td>20 août</td><td>2004</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>11 juin</td><td>2004 A</td><td>11 septembre</td><td>2004</td></tr>
+<tr><td>Saint-Marin</td><td>19 avril</td><td>2021 A</td><td>19 juillet</td><td>2021</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>28 octobre</td><td>1983 A</td><td>28 janvier</td><td>1984</td></tr>
-<tr><td>Salomon, Iles</td><td>30 juin</td><td>2004 A</td><td>30 septembre</td><td>2004</td></tr>
 <tr><td>Samoa</td><td>18 mai</td><td>2004 A</td><td>18 août</td><td>2004</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>29 octobre</td><td>1998 A</td><td>29 janvier</td><td>1999</td></tr>
 <tr><td>Sénégal</td><td>16 janvier</td><td>1997 A</td><td>16 avril</td><td>1997</td></tr>
@@ -837,9 +839,7 @@ Champ d’application le 8 octobre 2020**[^t-4]**
 <tr><td>Venezuela</td><td>6 juillet</td><td>1983</td><td>6 octobre</td><td>1983</td></tr>
 <tr><td>Vietnam</td><td>18 décembre</td><td>1990 A</td><td>18 mars</td><td>1991</td></tr>
 <tr><td>Yémen</td><td>6 mars</td><td>1979 A</td><td>18 juillet</td><td>1982</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Du 18 juillet 1982 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Du 19 nov. 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. A partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 déc. 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 18 juillet 1982 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 19 nov. 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 déc. 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999. <sup>c</sup> Au 1<sup>er</sup> janvier 1986 l’île d’Aruba, qui faisait partie des Antilles néerlandaises, a acquis son autonomie interne au sein du Royaume des Pays-Bas. Ce changement n’affecte que le fonctionnement des relations constitutionnelles internes au sein du Royaume.</td></tr>
 </table>
 
-[^t-4]: [RO 1982 1326](https://fedlex.data.admin.ch/eli/oc/1982/1326_1326_1326), [1983 234](https://fedlex.data.admin.ch/eli/oc/1983/234_234_234), [1984 269](https://fedlex.data.admin.ch/eli/oc/1984/269_269_269), [1985 245](https://fedlex.data.admin.ch/eli/oc/1985/245_245_245), [1986 833](https://fedlex.data.admin.ch/eli/oc/1986/833_833_833),[1987 1122](https://fedlex.data.admin.ch/eli/oc/1987/1122_1122_1122), [1989 403](https://fedlex.data.admin.ch/eli/oc/1989/403_403_403), [1990 1699](https://fedlex.data.admin.ch/eli/oc/1990/1699_1699_1699), [2005 1299](https://fedlex.data.admin.ch/eli/oc/2005/194), [2008 671](https://fedlex.data.admin.ch/eli/oc/2008/166), [2010 847](https://fedlex.data.admin.ch/eli/oc/2010/133), [2013 2103](https://fedlex.data.admin.ch/eli/oc/2013/444), [2018 1233](https://fedlex.data.admin.ch/eli/oc/2018/195), [2020 4475](https://fedlex.data.admin.ch/eli/oc/2020/786). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-4]: [RO 1982 1326](https://fedlex.data.admin.ch/eli/oc/1982/1326_1326_1326); [1983 234](https://fedlex.data.admin.ch/eli/oc/1983/234_234_234); [1984 269](https://fedlex.data.admin.ch/eli/oc/1984/269_269_269); [1985 245](https://fedlex.data.admin.ch/eli/oc/1985/245_245_245); [1986 833](https://fedlex.data.admin.ch/eli/oc/1986/833_833_833); [1987 1122](https://fedlex.data.admin.ch/eli/oc/1987/1122_1122_1122); [1989 403](https://fedlex.data.admin.ch/eli/oc/1989/403_403_403); [1990 1699](https://fedlex.data.admin.ch/eli/oc/1990/1699_1699_1699); [2005 1299](https://fedlex.data.admin.ch/eli/oc/2005/194); [2008 671](https://fedlex.data.admin.ch/eli/oc/2008/166); [2010 847](https://fedlex.data.admin.ch/eli/oc/2010/133); [2013 2103](https://fedlex.data.admin.ch/eli/oc/2013/444); [2018 1233](https://fedlex.data.admin.ch/eli/oc/2018/195); [2020 4475](https://fedlex.data.admin.ch/eli/oc/2020/786); [2023 150](https://fedlex.data.admin.ch/eli/oc/2023/150). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
