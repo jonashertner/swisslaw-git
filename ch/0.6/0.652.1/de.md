@@ -3,11 +3,11 @@ sr: "0.652.1"
 title: "Übereinkommen vom 25. Januar 1988 über die gegenseitige Amtshilfe in Steuersachen, geändert durch sein Protokoll"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/806"
 language: de
-version: 2021-02-17
+version: 2023-03-21
 adopted: 1988-01-25
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/806/20210217/de/xml/fedlex-data-admin-ch-eli-cc-2016-806-20210217-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/806/20210217/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/806/20230321/de/xml/fedlex-data-admin-ch-eli-cc-2016-806-20230321-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/806/20230321/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 26. September 2016
 
 Für die Schweiz in Kraft getreten am 1. Januar 2017
 
-(Stand am 17. Februar 2021)
+(Stand am 21. März 2023)
 
 [^t-1]: [AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805)
 
@@ -485,7 +485,7 @@ Der Verwahrer, dem eine Handlung, Notifikation oder Mitteilung zur Kenntnis gebr
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften) Geschehen durch die Verwahrer am 1. Juni 2011 nach Artikel X.4 des Änderungsprotokolls zum Übereinkommen über die gegenseitige Amtshilfe in Steuersachen in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in zwei Urschriften, von denen je eine im Archiv jeden Verwahrers hinterlegt wird. Die Verwahrer übermitteln allen Vertragsparteien des Übereinkommens in der durch das Protokoll geänderten Fassung sowie allen zum Beitritt berechtigten Staaten beglaubigte Abschriften.
 
-Geltungsbereich am 17. Februar 2021**[^t-2]**
+Geltungsbereich am 21. März 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -501,10 +501,13 @@ Geltungsbereich am 17. Februar 2021**[^t-2]**
 <tr><td>Barbados<sup>\*</sup></td><td>4. Juli</td><td>2016</td><td>1. November</td><td>2016</td></tr>
 <tr><td>Belgien<sup>\*</sup></td><td>8. Dezember</td><td>2014</td><td>1. April</td><td>2015</td></tr>
 <tr><td>Belize<sup>\*</sup></td><td>29. Mai</td><td>2013</td><td>1. September</td><td>2013</td></tr>
+<tr><td>Benin\*</td><td>24. Januar</td><td>2023</td><td>1. Mai</td><td>2023</td></tr>
 <tr><td>Bosnien und Herzegowina<sup>\*</sup></td><td>21. September</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Botsuana\*</td><td>15. Juni</td><td>2021</td><td>1. Oktober</td><td>2021</td></tr>
 <tr><td>Brasilien<sup>\*</sup></td><td>1. Juni</td><td>2016</td><td>1. Oktober</td><td>2016</td></tr>
 <tr><td>Brunei\*</td><td>28. März</td><td>2019</td><td>1. Juli</td><td>2019</td></tr>
 <tr><td>Bulgarien<sup>\*</sup></td><td>14. März</td><td>2016</td><td>1. Juli</td><td>2016</td></tr>
+<tr><td>Burkina Faso\*</td><td>13. Dezember</td><td>2022</td><td>1. April</td><td>2023</td></tr>
 <tr><td>Chile<sup>\*</sup></td><td>7. Juli</td><td>2016</td><td>1. November</td><td>2016</td></tr>
 <tr><td>China<sup>\*</sup></td><td>16. Oktober</td><td>2015</td><td>1. Februar</td><td>2016</td></tr>
 <tr><td>Hongkong\*</td><td>16. Oktober</td><td>2015</td><td>1. Februar</td><td>2016</td></tr>
@@ -520,6 +523,7 @@ Geltungsbereich am 17. Februar 2021**[^t-2]**
 <tr><td>Ecuador\*</td><td>26. August</td><td>2019</td><td>1. Dezember</td><td>2019</td></tr>
 <tr><td>El Salvador\*</td><td>26. Februar</td><td>2019</td><td>1. Juni</td><td>2019</td></tr>
 <tr><td>Estland<sup>\*</sup></td><td>8. Juli</td><td>2014</td><td>1. November</td><td>2014</td></tr>
+<tr><td>Eswatini\*</td><td>16. März</td><td>2021</td><td>1. Juli</td><td>2021</td></tr>
 <tr><td>Finnland<sup>\*</sup></td><td>21. Dezember</td><td>2010</td><td>1. Juni</td><td>2011</td></tr>
 <tr><td>Frankreich<sup>\*</sup></td><td>13. Dezember</td><td>2011</td><td>1. April</td><td>2012</td></tr>
 <tr><td>Neukaledonien\*</td><td>1. Dezember</td><td>2018</td><td>1. Dezember</td><td>2018</td></tr>
@@ -548,13 +552,16 @@ Geltungsbereich am 17. Februar 2021**[^t-2]**
 <tr><td>Kuwait\*</td><td>17. August</td><td>2018</td><td>1. Dezember</td><td>2018</td></tr>
 <tr><td>Lettland<sup>\*</sup></td><td>15. Juli</td><td>2014</td><td>1. November</td><td>2014</td></tr>
 <tr><td>Libanon\*</td><td>12. Mai</td><td>2017</td><td>1. September</td><td>2017</td></tr>
+<tr><td>Liberia\*</td><td>26. August</td><td>2021</td><td>1. Dezember</td><td>2021</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>22. August</td><td>2016</td><td>1. Dezember</td><td>2016</td></tr>
 <tr><td>Litauen<sup>\*</sup></td><td>4. Februar</td><td>2014</td><td>1. Juni</td><td>2014</td></tr>
 <tr><td>Luxemburg<sup>\*</sup></td><td>11. Juli</td><td>2014</td><td>1. November</td><td>2014</td></tr>
 <tr><td>Malaysia\*</td><td>3. Januar</td><td>2017</td><td>1. Mai</td><td>2017</td></tr>
+<tr><td>Malediven\*</td><td>20. September</td><td>2021</td><td>1. Januar</td><td>2022</td></tr>
 <tr><td>Malta<sup>\*</sup></td><td>29. Mai</td><td>2013</td><td>1. September</td><td>2013</td></tr>
 <tr><td>Marokko\*</td><td>22. Mai</td><td>2019</td><td>1. September</td><td>2019</td></tr>
 <tr><td>Marshallinseln\*</td><td>22. Dezember</td><td>2016</td><td>1. April</td><td>2017</td></tr>
+<tr><td>Mauretanien\*</td><td>29. April</td><td>2022</td><td>1. August</td><td>2022</td></tr>
 <tr><td>Mauritius<sup>\*</sup></td><td>31. August</td><td>2015</td><td>1. Dezember</td><td>2015</td></tr>
 <tr><td>Mexiko<sup>\*</sup></td><td>23. Mai</td><td>2012</td><td>1. September</td><td>2012</td></tr>
 <tr><td>Moldau<sup>\*</sup></td><td>24. November</td><td>2011</td><td>1. März</td><td>2012</td></tr>
@@ -574,12 +581,14 @@ Geltungsbereich am 17. Februar 2021**[^t-2]**
 <tr><td>Nordmazedonien\*</td><td>30. September</td><td>2019</td><td>1. Januar</td><td>2020</td></tr>
 <tr><td>Norwegen<sup>\*</sup></td><td>18. Februar</td><td>2011</td><td>1. Juni</td><td>2011</td></tr>
 <tr><td>Oman<sup>\*</sup></td><td>7. Juli</td><td>2020</td><td>1. November</td><td>2020</td></tr>
-<tr><td>Österreich<sup>\*</sup></td><td>28. August</td><td>2014</td><td>1. Dezember</td><td>2014</td></tr>
+<tr><td>Österreich<sup>\*</sup> <sup>\*\*</sup></td><td>28. August</td><td>2014</td><td>1. Dezember</td><td>2014</td></tr>
 <tr><td>Pakistan\*</td><td>14. Dezember</td><td>2016</td><td>1. Mai</td><td>2017</td></tr>
 <tr><td>Panama\*</td><td>16. März</td><td>2017</td><td>1. Juli</td><td>2017</td></tr>
+<tr><td>Paraguay\*</td><td>15. Juli</td><td>2021</td><td>1. November</td><td>2021</td></tr>
 <tr><td>Peru\*</td><td>28. Mai</td><td>2018</td><td>1. September</td><td>2018</td></tr>
 <tr><td>Polen<sup>\*</sup></td><td>22. Juni</td><td>2011</td><td>1. Oktober</td><td>2011</td></tr>
 <tr><td>Portugal<sup>\*</sup></td><td>17. November</td><td>2014</td><td>1. März</td><td>2015</td></tr>
+<tr><td>Ruanda\*</td><td>29. August</td><td>2022</td><td>1. Dezember</td><td>2022</td></tr>
 <tr><td>Rumänien<sup>\*</sup></td><td>11. Juli</td><td>2014</td><td>1. November</td><td>2014</td></tr>
 <tr><td>Russland<sup>\*</sup></td><td>4. März</td><td>2015</td><td>1. Juli</td><td>2015</td></tr>
 <tr><td>Samoa<sup>\*</sup></td><td>31. August</td><td>2016</td><td>1. Dezember</td><td>2016</td></tr>
@@ -598,6 +607,7 @@ Geltungsbereich am 17. Februar 2021**[^t-2]**
 <tr><td>St. Lucia\*</td><td>21. November</td><td>2016</td><td>1. März</td><td>2017</td></tr>
 <tr><td>St. Vincent und die Grenadinen<sup>\*</sup></td><td>31. August</td><td>2016</td><td>1. Dezember</td><td>2016</td></tr>
 <tr><td>Südafrika<sup>\*</sup></td><td>21. November</td><td>2013</td><td>1. März</td><td>2014</td></tr>
+<tr><td>Thailand\*</td><td>22. Dezember</td><td>2021</td><td>1. April</td><td>2022</td></tr>
 <tr><td>Tschechische Republik<sup>\*</sup></td><td>11. Oktober</td><td>2013</td><td>1. Februar</td><td>2014</td></tr>
 <tr><td>Tunesien<sup>\*</sup></td><td>31. Oktober</td><td>2013</td><td>1. Februar</td><td>2014</td></tr>
 <tr><td>Türkei\*</td><td>26. März</td><td>2018</td><td>1. Juli</td><td>2018</td></tr>
@@ -623,12 +633,12 @@ Geltungsbereich am 17. Februar 2021**[^t-2]**
 <tr><td colspan="5">\* Vorbehalte, Erklärungen. \*\* Einwendungen. Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2016 5071](https://fedlex.data.admin.ch/eli/oc/2016/806); [2017 3729](https://fedlex.data.admin.ch/eli/oc/2017/433); [2019 847](https://fedlex.data.admin.ch/eli/oc/2019/146); [2020 2893](https://fedlex.data.admin.ch/eli/oc/2020/533); [2021 105](https://fedlex.data.admin.ch/eli/oc/2021/105). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.
+[^t-2]: [AS 2016 5071](https://fedlex.data.admin.ch/eli/oc/2016/806), [2017 3729](https://fedlex.data.admin.ch/eli/oc/2017/433); [2019 847](https://fedlex.data.admin.ch/eli/oc/2019/146); [2020 2893](https://fedlex.data.admin.ch/eli/oc/2020/533); [2021 105](https://fedlex.data.admin.ch/eli/oc/2021/105); [2023 154](https://fedlex.data.admin.ch/eli/oc/2023/154). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty.
 [^t-3]: Ratifiziert wurde nur das Übereinkommen über die gegenseitige Amtshilfe in Steuersachen vom 25.1.1988. Der französische und englische Text können auf der Internetseite des Europarates eingesehen werden: www.coe.int/fr/web/conventions/full-list/-/conventions/treaty/127
 
 Vorbehalte und Erklärungen
 
-## Schweiz****
+## Schweiz
 
 [^declu2-lvlu1-1]
 

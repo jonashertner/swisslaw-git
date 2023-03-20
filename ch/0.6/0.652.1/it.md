@@ -3,11 +3,11 @@ sr: "0.652.1"
 title: "Convenzione del 25 gennaio 1988 sulla reciproca assistenza amministrativa in materia fiscale, emendata dal suo protocollo"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/806"
 language: it
-version: 2021-02-17
+version: 2023-03-21
 adopted: 1988-01-25
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/806/20210217/it/xml/fedlex-data-admin-ch-eli-cc-2016-806-20210217-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/806/20210217/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/806/20230321/it/xml/fedlex-data-admin-ch-eli-cc-2016-806-20230321-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/806/20230321/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2016** 5071; FF **2015** 4613
 
 Traduzione
 
-Conclusa il 25 gennaio 1988, emendata dal Protocollo del 27 maggio 2010
+Conclusa il 25 gennaio 1988, emendata dal Protocollo del 27 maggio 2010 Approvata dall’Assemblea federale il 18 dicembre 2015[^t-1] Strumento di ratifica depositato dalla Svizzera il 26 settembre 2016 Entrata in vigore per la Svizzera il 1° gennaio 2017
 
-Approvata dall’Assemblea federale il 18 dicembre 2015[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 26 settembre 2016
-
-Entrata in vigore per la Svizzera il 1° gennaio 2017
-
-(Stato 17 febbraio 2021)
+(Stato 21 marzo 2023)
 
 [^t-1]: [RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805)
 
@@ -485,7 +479,7 @@ Il Depositario presso cui è compiuto un atto, una notifica o una comunicazione 
 
 *In fede di che*, i sottoscritti, a tal fine debitamente autorizzati, hanno firmato la presente Convenzione. (Seguono le firme) Fatto il 1° giugno 2011 dai Depositari in virtù dell’articolo X.4 del Protocollo di modifica della Convenzione sulla reciproca assistenza amministrativa in materia fiscale, in francese e in inglese, entrambi i testi facenti ugualmente fede, in due esemplari che saranno depositati negli archivi di ogni Depositario. I Depositari trasmetteranno una copia autenticata a ogni Parte della Convenzione, come emendata dal Protocollo, e a ogni Stato legittimato a diventarne Parte.
 
-Campo d’applicazione il 17 febbraio 2021**[^t-2]**
+Campo d’applicazione il 21 marzo 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -496,17 +490,20 @@ Campo d’applicazione il 17 febbraio 2021**[^t-2]**
 <tr><td>Argentina\*</td><td>13 settembre</td><td>2012</td><td>1° gennaio</td><td>2013</td></tr>
 <tr><td>Armenia\*</td><td>6 febbraio</td><td>2020</td><td>1° giugno</td><td>2020</td></tr>
 <tr><td>Australia\*</td><td>30 agosto</td><td>2012</td><td>1° dicembre</td><td>2012</td></tr>
-<tr><td>Austria\*</td><td>28 agosto</td><td>2014</td><td>1° dicembre</td><td>2014</td></tr>
+<tr><td>Austria\* \*\*</td><td>28 agosto</td><td>2014</td><td>1° dicembre</td><td>2014</td></tr>
 <tr><td>Azerbaigian\*</td><td>29 maggio</td><td>2015</td><td>1° settembre</td><td>2015</td></tr>
 <tr><td>Bahama\*</td><td>26 aprile</td><td>2018</td><td>1° agosto</td><td>2018</td></tr>
 <tr><td>Bahrein\*</td><td>3 maggio</td><td>2018</td><td>1° settembre</td><td>2018</td></tr>
 <tr><td>Barbados\*</td><td>4 luglio</td><td>2016</td><td>1° novembre</td><td>2016</td></tr>
 <tr><td>Belgio\*</td><td>8 dicembre</td><td>2014</td><td>1° aprile</td><td>2015</td></tr>
 <tr><td>Belize\*</td><td>29 maggio</td><td>2013</td><td>1° settembre</td><td>2013</td></tr>
+<tr><td>Benin\*</td><td>24 gennaio</td><td>2023</td><td>1° maggio</td><td>2023</td></tr>
 <tr><td>Bosnia ed Erzegovina<sup>\*</sup></td><td>21 settembre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
+<tr><td>Botswana\*</td><td>15 giugno</td><td>2021</td><td>1° ottobre</td><td>2021</td></tr>
 <tr><td>Brasile\*</td><td>1° giugno</td><td>2016</td><td>1° ottobre</td><td>2016</td></tr>
 <tr><td>Brunei\*</td><td>28 marzo</td><td>2019</td><td>1° luglio</td><td>2019</td></tr>
 <tr><td>Bulgaria\*</td><td>14 marzo</td><td>2016</td><td>1° luglio</td><td>2016</td></tr>
+<tr><td>Burkina Faso\*</td><td>13 dicembre</td><td>2022</td><td>1° aprile</td><td>2023</td></tr>
 <tr><td>Camerun\*</td><td>30 giugno</td><td>2015</td><td>1° ottobre</td><td>2015</td></tr>
 <tr><td>Canada\*</td><td>21 novembre</td><td>2013</td><td>1° marzo</td><td>2014</td></tr>
 <tr><td>Capo Verde</td><td>6 gennaio</td><td>2020</td><td>1° maggio</td><td>2020</td></tr>
@@ -530,6 +527,7 @@ Campo d’applicazione il 17 febbraio 2021**[^t-2]**
 <tr><td>El Salvador\*</td><td>26 febbraio</td><td>2019</td><td>1° giugno</td><td>2019</td></tr>
 <tr><td>Emirati Arabi Uniti\*</td><td>21 maggio</td><td>2018</td><td>1° settembre</td><td>2018</td></tr>
 <tr><td>Estonia\*</td><td>8 luglio</td><td>2014</td><td>1° novembre</td><td>2014</td></tr>
+<tr><td>Eswatini\*</td><td>16 marzo</td><td>2021</td><td>1° luglio</td><td>2021</td></tr>
 <tr><td>Finlandia\*</td><td>21 dicembre</td><td>2010</td><td>1° giugno</td><td>2011</td></tr>
 <tr><td>Francia\*</td><td>13 dicembre</td><td>2011</td><td>1° aprile</td><td>2012</td></tr>
 <tr><td>Nuova Caledonia\*</td><td>1° dicembre</td><td>2018</td><td>1° dicembre</td><td>2018</td></tr>
@@ -552,14 +550,17 @@ Campo d’applicazione il 17 febbraio 2021**[^t-2]**
 <tr><td>Kuwait\*</td><td>17 agosto</td><td>2018</td><td>1° dicembre</td><td>2018</td></tr>
 <tr><td>Lettonia\*</td><td>15 luglio</td><td>2014</td><td>1° novembre</td><td>2014</td></tr>
 <tr><td>Libano<sup>\*</sup></td><td>12 maggio</td><td>2017</td><td>1° settembre</td><td>2017</td></tr>
+<tr><td>Liberia\*</td><td>26 agosto</td><td>2021</td><td>1° dicembre</td><td>2021</td></tr>
 <tr><td>Liechtenstein\*</td><td>22 agosto</td><td>2016</td><td>1° dicembre</td><td>2016</td></tr>
 <tr><td>Lituania\*</td><td>4 febbraio</td><td>2014</td><td>1° giugno</td><td>2014</td></tr>
 <tr><td>Lussemburgo\*</td><td>11 luglio</td><td>2014</td><td>1° novembre</td><td>2014</td></tr>
 <tr><td>Macedonia del Nord\*</td><td>30 settembre</td><td>2019</td><td>1° gennaio</td><td>2020</td></tr>
 <tr><td>Malaysia<sup>\*</sup></td><td>3 gennaio</td><td>2017</td><td>1° maggio</td><td>2017</td></tr>
+<tr><td>Maldive\*</td><td>20 settembre</td><td>2021</td><td>1° gennaio</td><td>2022</td></tr>
 <tr><td>Malta\*</td><td>29 maggio</td><td>2013</td><td>1° settembre</td><td>2013</td></tr>
 <tr><td>Marocco\*</td><td>22 maggio</td><td>2019</td><td>1° settembre</td><td>2019</td></tr>
 <tr><td>Marshall, Isole<sup>\*</sup></td><td>22 dicembre</td><td>2016</td><td>1° aprile</td><td>2017</td></tr>
+<tr><td>Mauritania\*</td><td>29 aprile</td><td>2022</td><td>1° agosto</td><td>2022</td></tr>
 <tr><td>Maurizio\*</td><td>31 agosto</td><td>2015</td><td>1° dicembre</td><td>2015</td></tr>
 <tr><td>Messico\*</td><td>23 maggio</td><td>2012</td><td>1° settembre</td><td>2012</td></tr>
 <tr><td>Moldova\*</td><td>24 novembre</td><td>2011</td><td>1° marzo</td><td>2012</td></tr>
@@ -578,6 +579,7 @@ Campo d’applicazione il 17 febbraio 2021**[^t-2]**
 <tr><td>Curaçao\*</td><td>29 maggio</td><td>2013</td><td>1° settembre</td><td>2013</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)\*</td><td>29 maggio</td><td>2013</td><td>1° settembre</td><td>2013</td></tr>
 <tr><td>Sint Maarten\*</td><td>29 maggio</td><td>2013</td><td>1° settembre</td><td>2013</td></tr>
+<tr><td>Paraguay\*</td><td>15 luglio</td><td>2021</td><td>1° novembre</td><td>2021</td></tr>
 <tr><td>Pakistan<sup>\*</sup></td><td>14 dicembre</td><td>2016</td><td>1° maggio</td><td>2017</td></tr>
 <tr><td>Panama<sup>\*</sup></td><td>16 marzo</td><td>2017</td><td>1° luglio</td><td>2017</td></tr>
 <tr><td>Perù\*</td><td>28 maggio</td><td>2018</td><td>1° settembre</td><td>2018</td></tr>
@@ -596,6 +598,7 @@ Campo d’applicazione il 17 febbraio 2021**[^t-2]**
 <tr><td>Turks e Caicos, Isole\*</td><td>1° dicembre</td><td>2013</td><td>1° dicembre</td><td>2013</td></tr>
 <tr><td>Vergini Britanniche, Isole\*</td><td>1° marzo</td><td>2014</td><td>1° marzo</td><td>2014</td></tr>
 <tr><td>Romania\*</td><td>11 luglio</td><td>2014</td><td>1° novembre</td><td>2014</td></tr>
+<tr><td>Ruanda\*</td><td>29 agosto</td><td>2022</td><td>1° dicembre</td><td>2022</td></tr>
 <tr><td>Russia\*</td><td>4 marzo</td><td>2015</td><td>1° luglio</td><td>2015</td></tr>
 <tr><td>Saint Kitts e Nevis\*</td><td>25 agosto</td><td>2016</td><td>1° dicembre</td><td>2016</td></tr>
 <tr><td>Saint Vincent e Grenadine\*</td><td>31 agosto</td><td>2016</td><td>1° dicembre</td><td>2016</td></tr>
@@ -613,6 +616,7 @@ Campo d’applicazione il 17 febbraio 2021**[^t-2]**
 <tr><td>Sudafrica\*</td><td>21 novembre</td><td>2013</td><td>1° marzo</td><td>2014</td></tr>
 <tr><td>Svezia\*</td><td>27 maggio</td><td>2011</td><td>1° settembre</td><td>2011</td></tr>
 <tr><td>Svizzera\*</td><td>26 settembre</td><td>2016</td><td>1° gennaio</td><td>2017</td></tr>
+<tr><td>Thailandia\*</td><td>22 dicembre</td><td>2021</td><td>1° aprile</td><td>2022</td></tr>
 <tr><td>Tunisia\*</td><td>31 ottobre</td><td>2013</td><td>1° febbraio</td><td>2014</td></tr>
 <tr><td>Turchia\*</td><td>26 marzo</td><td>2018</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Ucraina\*</td><td>22 maggio</td><td>2013</td><td>1° settembre</td><td>2013</td></tr>
@@ -620,11 +624,11 @@ Campo d’applicazione il 17 febbraio 2021**[^t-2]**
 <tr><td>Ungheria\*</td><td>7 novembre</td><td>2014</td><td>1° marzo</td><td>2015</td></tr>
 <tr><td>Uruguay\*</td><td>31 agosto</td><td>2016</td><td>1° dicembre</td><td>2016</td></tr>
 <tr><td>Vanuatu\*</td><td>23 agosto</td><td>2018</td><td>1° dicembre</td><td>2018</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: https://www.coe.int int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2016 5071](https://fedlex.data.admin.ch/eli/oc/2016/806); [2017 3729](https://fedlex.data.admin.ch/eli/oc/2017/433); [2019 847](https://fedlex.data.admin.ch/eli/oc/2019/146); [2020 2893](https://fedlex.data.admin.ch/eli/oc/2020/533); [2021 105](https://fedlex.data.admin.ch/eli/oc/2021/105)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.
-[^t-3]: È stata ratificata soltanto la Conv. sulla reciproca assistenza in materia fiscale del 25.1.1988. I testi francese e inglese possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int/fr/web/conventions/full-list/-/conventions/treaty/127.
+[^t-2]: [RU 2016 5071](https://fedlex.data.admin.ch/eli/oc/2016/806), [2017 3729](https://fedlex.data.admin.ch/eli/oc/2017/433); [2019 847](https://fedlex.data.admin.ch/eli/oc/2019/146); [2020 2893](https://fedlex.data.admin.ch/eli/oc/2020/533); [2021 105](https://fedlex.data.admin.ch/eli/oc/2021/105); [2023 154](https://fedlex.data.admin.ch/eli/oc/2023/154). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty.
+[^t-3]: È stata ratificata soltanto la Conv. sulla reciproca assistenza in materia fiscale del 25.01.1988. I testi francese e inglese possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int/fr/web/conventions/full-list/-/conventions/treaty/127.
 
 Riserve e dichiarazioni[^t-4]
 
