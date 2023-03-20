@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision des Arbeitslosenversicherungsgesetzes (Entschädigungssystem der Arbeitslosenkassen)
 document: Vernehmlassungsvorlage
 language: de

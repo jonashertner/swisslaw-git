@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale della legge sull’assicurazione contro la disoccupazione (sistema di rimborso delle casse di disoccupazione)
 document: Progetto posto in consultazione
 language: it

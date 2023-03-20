@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de la loi sur l’assurance-chômage (Système d’indemnisation des caisses de chômage)
 document: Projet mis en consultation
 language: fr
