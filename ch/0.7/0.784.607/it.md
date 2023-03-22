@@ -3,26 +3,27 @@ sr: "0.784.607"
 title: "Convenzione del 3 settembre 1976 istitutiva dell'Organizzazione internazionale per le telecomunicazioni mobili via satellite (con Acc. operativo e All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926"
 language: it
-version: 2017-07-05
+version: 2023-03-23
 adopted: 1976-09-03
 in_force: 1989-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926/20170705/it/xml/fedlex-data-admin-ch-eli-cc-1989-1926_1926_1926-20170705-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1926_1926_1926/20170705/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926/20230323/it/xml/fedlex-data-admin-ch-eli-cc-1989-1926_1926_1926-20230323-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1926_1926_1926/20230323/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione istitutiva dell’Organizzazione internazionale per le telecomunicazioni mobili via satellite****
+# Convenzione istitutiva dell’Organizzazione internazionale per le telecomunicazioni mobili via satellite
 
-Traduzione*[^t-2]*[^t-1]
+RU **1989** 1926[^t-1]
 
-Conclusa a Londra il 3 settembre 1976 Approvata dall’Assemblea federale il 16 dicembre 1988[^t-3] Strumento d’adesione depositato dalla Svizzera il 17 maggio 1989 Entrata in vigore per la Svizzera il 17 maggio 1989
+Traduzione
 
-(Stato 5 luglio 2017)
+Conclusa a Londra il 3 settembre 1976 Approvata dall’Assemblea federale il 16 dicembre 1988[^t-2] Strumento d’adesione depositato dalla Svizzera il 17 maggio 1989 Entrata in vigore per la Svizzera il 17 maggio 1989
 
-[^t-1]: La presente Conv., nonchè il suo all. e l’Acc. operativo, è stata aggiornata giusta gli emendamenti dell’Assemblea Inmarsat del 16 ott. 1985, del 19 gen. 1989 ([RU 2007 3365](https://fedlex.data.admin.ch/eli/oc/2007/411)) e del 24 apr. 1998, in vigore dal 31 lug. 2001 ([RU 2007 3937](https://fedlex.data.admin.ch/eli/oc/2007/525)).
-[^t-2]: RU **1989** 1926 Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-3]: [RU 1989 1925](https://fedlex.data.admin.ch/eli/oc/1989/1925_1925_1925)
+(Stato 23 marzo 2023)
+
+[^t-1]: La presente Conv., nonchè il suo all. e l’Acc. operativo, è stata aggiornata giusta gli emendamenti dell’Assemblea Inmarsat del 16 ott. 1985, del 19 gen. 1989 ([RU 2007 3365](https://fedlex.data.admin.ch/eli/oc/2007/411)), del 9 dic. 1994 ([RU 2007 3949](https://fedlex.data.admin.ch/eli/oc/2007/526)) e del 24 apr. 1998, in vigore dal 31 lug. 2001 ([RU 2007 3937](https://fedlex.data.admin.ch/eli/oc/2007/525)).
+[^t-2]: [RU 1989 1925](https://fedlex.data.admin.ch/eli/oc/1989/1925_1925_1925)
 
 Gli Stati parti della presente convenzione,
 
@@ -46,11 +47,11 @@ Affermando che un controllo intergovernativo è necessario per assicurare che la
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.790](https://fedlex.data.admin.ch/eli/cc/1970/87_90_90)
-[^ingress-2]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
-[^ingress-3]: [RS 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
-[^ingress-4]: [RS 0.784.01](https://fedlex.data.admin.ch/eli/cc/1996/1255_1255_1255)
-[^ingress-5]: [RS 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
+[^ingress-1]: [RS 0.790](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3400)
+[^ingress-2]: [RS 0.747.363.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3098)
+[^ingress-3]: [RS 0.784.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3376)
+[^ingress-4]: [RS 0.784.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3346)
+[^ingress-5]: [RS 0.784.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3351)
 
 #### Art. 1
 
@@ -244,7 +245,7 @@ Ogni controversia fra le Parti, o fra le Parti e l’Organizzazione, in relazion
 - e) di ogni notifica di ritiro;
 - f) delle altre modifiche e comunicazioni aventi relazione con la presente Convenzione.
 
-[^19-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^19-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *In fede di che,* i sottoscritti, debitamente autorizzati dai rispettivi Governi, hanno firmato la presente convenzione. Fatto a Londra il 3 settembre 1976 in lingua inglese, spagnola, francese e russa, tutti i testi facenti egualmente fede, in un solo esemplare depositato presso il Depositario che ne invierà una copia certificata conforme al Governo di ciascuno degli Stati che sono stati invitati a partecipare alla Conferenza internazionale sulla creazione di un sistema marittimo internazionale a satelliti e al Governo di ogni altro Stato che firmi la convenzione o che vi aderisca. (Seguono le firme)
 
@@ -600,7 +601,7 @@ Fatto a Londra il tre settembre millenovecentosettantasei nelle lingue inglese, 
 - e) di ogni sospensione e di ogni ritiro obbligatorio;
 - f) di altre notifiche e comunicazioni relative al presente accordo.
 
-[^annexu1-lvlu2-XIX-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^annexu1-lvlu2-XIX-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 Allegato
 
@@ -669,11 +670,12 @@ f) Quando una nuova Parte diviene Membro dell’Organizzazione, o quando una Par
 
 g) Le quote di investimento dello 0,05 per cento determinate conformemente al paragrafo 8) dell’articolo V dell’accordo operativo non saranno aumentate sulla base dei paragrafi c), d), e) e f) del presente allegato.
 
-Campo d’applicazione il 5 luglio 2017**[^t-4]**
+Campo d’applicazione il 23 marzo 2023[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Algeria</td><td>15 luglio</td><td>1979 F</td><td>16 luglio</td><td>1979</td></tr>
+<tr><td>Angola</td><td>7 febbraio</td><td>2022 A</td><td>7 febbraio</td><td>2022</td></tr>
 <tr><td>Antigua e Barbuda</td><td>12 ottobre</td><td>2009 A</td><td>12 ottobre</td><td>2009</td></tr>
 <tr><td>Arabia Saudita</td><td>5 ottobre</td><td>1983 A</td><td>5 ottobre</td><td>1983</td></tr>
 <tr><td>Argentina</td><td>2 ottobre</td><td>1979 A</td><td>2 ottobre</td><td>1979</td></tr>
@@ -683,6 +685,7 @@ Campo d’applicazione il 5 luglio 2017**[^t-4]**
 <tr><td>Bangladesh</td><td>17 settembre</td><td>1993 A</td><td>17 settembre</td><td>1993</td></tr>
 <tr><td>Belarus</td><td>29 marzo</td><td>1979</td><td>16 luglio</td><td>1979</td></tr>
 <tr><td>Belgio</td><td>14 luglio</td><td>1979</td><td>16 luglio</td><td>1979</td></tr>
+<tr><td>Bolivia</td><td>9 marzo</td><td>2018 A</td><td>9 marzo</td><td>2018</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>17 aprile</td><td>1998 A</td><td>17 aprile</td><td>1998</td></tr>
 <tr><td>Brasile</td><td>10 luglio</td><td>1979</td><td>16 luglio</td><td>1979</td></tr>
 <tr><td>Brunei</td><td>4 ottobre</td><td>1993 A</td><td>4 ottobre</td><td>1993</td></tr>
@@ -725,6 +728,8 @@ Campo d’applicazione il 5 luglio 2017**[^t-4]**
 <tr><td>Israele</td><td>13 ottobre</td><td>1987 A</td><td>13 ottobre</td><td>1987</td></tr>
 <tr><td>Italia</td><td>10 luglio</td><td>1979</td><td>16 luglio</td><td>1979</td></tr>
 <tr><td>Kenya</td><td>21 luglio</td><td>1998 A</td><td>21 luglio</td><td>1998</td></tr>
+<tr><td>Honduras</td><td>16 novembre</td><td>2016 A</td><td>16 novembre</td><td>2016</td></tr>
+<tr><td>Isole Salomone</td><td>20 novembre</td><td>2020 A</td><td>20 novembre</td><td>2020</td></tr>
 <tr><td>Kuwait</td><td>25 febbraio</td><td>1977</td><td>16 luglio</td><td>1979</td></tr>
 <tr><td>Lettonia</td><td>22 marzo</td><td>1995 A</td><td>22 marzo</td><td>1995</td></tr>
 <tr><td>Libano</td><td>29 dicembre</td><td>1994 A</td><td>29 dicembre</td><td>1994</td></tr>
@@ -739,7 +744,6 @@ Campo d’applicazione il 5 luglio 2017**[^t-4]**
 <tr><td>Monaco</td><td>1° ottobre</td><td>1990 A</td><td>1° ottobre</td><td>1990</td></tr>
 <tr><td>Mongolia</td><td>28 settembre</td><td>2011 A</td><td>28 settembre</td><td>2011</td></tr>
 <tr><td>Montenegro</td><td>6 giugno</td><td>2006 S</td><td>6 giugno</td><td>2006</td></tr>
-<tr><td>Honduras</td><td>16 novembre</td><td>2016 A</td><td>16 novembre</td><td>2016</td></tr>
 <tr><td>Mozambico</td><td>18 aprile</td><td>1990 A</td><td>18 aprile</td><td>1990</td></tr>
 <tr><td>Nigeria</td><td>23 febbraio</td><td>1988 A</td><td>23 febbraio</td><td>1988</td></tr>
 <tr><td>Norvegia</td><td>10 ottobre</td><td>1978</td><td>16 luglio</td><td>1979</td></tr>
@@ -778,6 +782,7 @@ Campo d’applicazione il 5 luglio 2017**[^t-4]**
 <tr><td>Turchia</td><td>16 novembre</td><td>1989</td><td>16 novembre</td><td>1989</td></tr>
 <tr><td>Ucraina</td><td>29 marzo</td><td>1979</td><td>16 luglio</td><td>1979</td></tr>
 <tr><td>Ungheria</td><td>24 luglio</td><td>1997 A</td><td>24 luglio</td><td>1997</td></tr>
+<tr><td>Uruguay</td><td>16 settembre</td><td>2022 A</td><td>16 settembre</td><td>2022</td></tr>
 <tr><td>Vanuatu</td><td>20 agosto</td><td>2008</td><td>20 agosto</td><td>2008</td></tr>
 <tr><td>Venezuela</td><td>27 aprile</td><td>2005 A</td><td>27 aprile</td><td>2005</td></tr>
 <tr><td>Vietnam</td><td>15 aprile</td><td>1998 A</td><td>15 aprile</td><td>1998</td></tr>
@@ -786,6 +791,4 @@ Campo d’applicazione il 5 luglio 2017**[^t-4]**
 <tr><td colspan="5"><sup>a</sup> Applicabile al Regno in Europa.</td></tr>
 </table>
 
-- [tab]
-
-[^t-4]: [RU 1989 1926](https://fedlex.data.admin.ch/eli/oc/1989/1926_1926_1926), [1990 1940](https://fedlex.data.admin.ch/eli/oc/1990/1940_1940_1940), [2003 372](https://fedlex.data.admin.ch/eli/oc/2003/77), [2007 4463](https://fedlex.data.admin.ch/eli/oc/2007/626), [2013 1597](https://fedlex.data.admin.ch/eli/oc/2013/372), [2015 181](https://fedlex.data.admin.ch/eli/oc/2015/21)e [2017 3731](https://fedlex.data.admin.ch/eli/oc/2017/434). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1989 1926](https://fedlex.data.admin.ch/eli/oc/1989/1926_1926_1926); [1990 1940](https://fedlex.data.admin.ch/eli/oc/1990/1940_1940_1940); [2003 372](https://fedlex.data.admin.ch/eli/oc/2003/77); [2007 4463](https://fedlex.data.admin.ch/eli/oc/2007/626); [2013 1597](https://fedlex.data.admin.ch/eli/oc/2013/372); [2015 181](https://fedlex.data.admin.ch/eli/oc/2015/21); [2017 3731](https://fedlex.data.admin.ch/eli/oc/2017/434); [2023 156](https://fedlex.data.admin.ch/eli/oc/2023/156). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty.

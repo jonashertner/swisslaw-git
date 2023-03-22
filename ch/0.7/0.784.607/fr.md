@@ -3,16 +3,16 @@ sr: "0.784.607"
 title: "Convention du 3 septembre 1976 portant création de l'Organisation internationale de télécommunications mobiles par satellites (avec ac. d'exploitation et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926"
 language: fr
-version: 2017-07-05
+version: 2023-03-23
 adopted: 1976-09-03
 in_force: 1989-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926/20170705/fr/xml/fedlex-data-admin-ch-eli-cc-1989-1926_1926_1926-20170705-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1926_1926_1926/20170705/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926/20230323/fr/xml/fedlex-data-admin-ch-eli-cc-1989-1926_1926_1926-20230323-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1926_1926_1926/20230323/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention portant création de l’Organisation internationale de télécommunications mobiles par satellites****
+# Convention portant création de l’Organisation internationale de télécommunications mobiles par satellites
 
 RO **1989** 1926[^t-1]
 
@@ -26,16 +26,16 @@ Instrument d’adhésion déposé par la Suisse le 17 mai 1989
 
 Entrée en vigueur pour la Suisse le 17 mai 1989
 
-(Etat le 5 juillet 2017)
+(État le 23 mars 2023)
 
-[^t-1]: La présente Conv., ainsi que son annexe et son accord d’exploitation, a été mise à jour selon les Amendements de l’Assemblée d’Inmarsat du 16 oct. 1985, du 19 janv. 1989 ([RO 2007 3365](https://fedlex.data.admin.ch/eli/oc/2007/411)) et du 24 avril 1998, en vigueur depuis le 31 juil. 2001 ([RO 2007 3937](https://fedlex.data.admin.ch/eli/oc/2007/525)).
+[^t-1]: La présente Conv., ainsi que son annexe et son accord d’exploitation, a été mise à jour selon les Amendements de l’Assemblée d’Inmarsat du 16 oct. 1985, du 19 janv. 1989 ([RO 2007 3365](https://fedlex.data.admin.ch/eli/oc/2007/411)), du 9 déc. 1994 ([RO 2007 3949](https://fedlex.data.admin.ch/eli/oc/2007/526)) et du 24 avril 1998, en vigueur depuis le 31 juil. 2001 ([RO 2007 3937](https://fedlex.data.admin.ch/eli/oc/2007/525)).
 [^t-2]: Art. 1 al. 1 de l’AF du 16 déc. 1988 ([RO 1989 1925](https://fedlex.data.admin.ch/eli/oc/1989/1925_1925_1925))
 
-Les Etats Parties à la présente Convention,
+Les États Parties à la présente Convention,
 
 considérant le principe énoncé dans la résolution 1721 (XVI) de l’Assemblée générale des Nations Unies, selon lequel les nations du monde doivent pouvoir communiquer dès que possible au moyen de satellites sur une base mondiale et non discriminatoire,
 
-considérant les dispositions pertinentes du Traité sur les principes régissant les activités des Etats en matière d’exploration et d’utilisation de l’espace extra-atmosphérique, y compris la lune et les autres corps célestes, conclu le 27 janvier 1967[^ingress-1], notamment l’article premier qui affirme que l’espace extra‑atmosphérique doit être utilisé pour le bien et dans l’intérêt de tous les pays,
+considérant les dispositions pertinentes du Traité sur les principes régissant les activités des États en matière d’exploration et d’utilisation de l’espace extra-atmosphérique, y compris la lune et les autres corps célestes, conclu le 27 janvier 1967[^ingress-1], notamment l’article premier qui affirme que l’espace extra‑atmosphérique doit être utilisé pour le bien et dans l’intérêt de tous les pays,
 
 résolus à cet effet, à continuer à fournir pour le bien des utilisateurs de télécommunications de tous les pays, en recourant à la technique de télécommunications spatiales la plus avancée et la plus appropriée, les moyens les plus efficaces et les plus économiques dans toute la mesure compatible avec l’utilisation la plus efficace et la plus équitable de spectre des fréquences radioélectriques et des orbites de satellites,
 
@@ -53,11 +53,11 @@ affirmant qu’un contrôle intergouvernemental est nécessaire pour assurer que
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.790](https://fedlex.data.admin.ch/eli/cc/1970/87_90_90)
-[^ingress-2]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
-[^ingress-3]: [RS 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
-[^ingress-4]: [RS 0.784.01](https://fedlex.data.admin.ch/eli/cc/1996/1255_1255_1255)
-[^ingress-5]: [RS 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
+[^ingress-1]: [RS 0.790](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3400)
+[^ingress-2]: [RS 0.747.363.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3098)
+[^ingress-3]: [RS 0.784.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3376)
+[^ingress-4]: [RS 0.784.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3346)
+[^ingress-5]: [RS 0.784.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3351)
 
 #### Art. 1
 
@@ -67,7 +67,7 @@ Aux fins de la présente Convention:
 
 - a) Le terme «l’Organisation» désigne l’organisation intergouvernementale établie conformément aux dispositions de l’art. 2.
 - b) Le terme «la Société» désigne la ou les structures commerciales constituées en application du droit national et par l’intermédiaire desquelles fonctionne le système à satellites d’Inmarsat.
-- c) Le terme «Partie» désigne un Etat à l’égard duquel la présente Convention est entrée en vigueur.
+- c) Le terme «Partie» désigne un État à l’égard duquel la présente Convention est entrée en vigueur.
 - d) L’expression «Accord de services publics» désigne l’Accord mis en application par l’Organisation et la Société, comme indiqué au par. 1 de l’art. 4.
 - e) «SMDSM» désigne le Système mondial de détresse et de sécurité en mer, tel qu’établi par l’Organisation maritime internationale.
 
@@ -136,9 +136,9 @@ L’Assemblée a les fonctions suivantes:
 
 - a) elle étudie et examine les buts, la politique générale et les objectifs à long terme de l’Organisation et les activités de la Société qui portent sur les principes de base énoncés à l’art. 3, compte tenu de toute recommandation de la Société à leur sujet;
 - b) elle prend toutes les mesures et décide de toutes les procédures nécessaires pour veiller à ce que la Société respecte les principes de base, conformément aux dispositions de l’art. 4, notamment l’approbation de la conclusion, de la modification et de la résiliation de l’Accord de services publics conformément aux dispositions du paragraphe 1 de l’art. 4;
-- c) elle décide de toute question concernant les relations officielles entre l’Organisation et les Etats, qu’ils soient Parties ou non, et les organisations internationales;
+- c) elle décide de toute question concernant les relations officielles entre l’Organisation et les États, qu’ils soient Parties ou non, et les organisations internationales;
 - d) elle décide de tout amendement à la présente Convention en vertu de l’art. 18 ci-après;
-- e) elle nomme un Directeur conformément à l’art. 9 et elle est habilitée à congédier le Directeur; et
+- e) elle nomme un Directeur conformément à l’art. 9 et elle est habilitée à congédier le Directeur, et
 - f) elle exerce toute autre fonction lui incombant en vertu de l’un quelconque des autres articles de la présente Convention.
 
 #### Art. 9
@@ -179,7 +179,7 @@ Une Partie n’est pas, en tant que telle, responsable des actes et obligations 
 
 **Personnalité juridique**
 
-L’Organisation a la personnalité juridique. Aux fins de l’exercice des fonctions qui lui incombent, elle est habilitée notamment à passer des contrats, acquérir, donner à bail, détenir et céder des biens meubles et immeubles, ainsi qu’ester en justice et conclure des accords avec des Etats ou des organisations internationales.
+L’Organisation a la personnalité juridique. Aux fins de l’exercice des fonctions qui lui incombent, elle est habilitée notamment à passer des contrats, acquérir, donner à bail, détenir et céder des biens meubles et immeubles, ainsi qu’ester en justice et conclure des accords avec des États ou des organisations internationales.
 
 #### Art. 13
 
@@ -199,7 +199,7 @@ Toute Partie peut, par notification écrite adressée au Dépositaire, se retire
 
 Tout différend entre des Parties, ou entre des Parties et l’Organisation, à propos de toute question découlant de la présente Convention doit être réglé par négociation entre les Parties intéressées . Si, dans un délai d’un an, à compter de la date à laquelle l’une quelconque des Parties a demandé un règlement, celui-ci n’est pas intervenu, et les Parties au différend n’ont pas accepté soit:
 
-- a) dans le cas de différend entre Partie, de le soumettre à la Cour internationale de justice; ou
+- a) dans le cas de différend entre Partie, de le soumettre à la Cour internationale de justice, ou
 - b) dans le cas d’autres différends, de le soumettre à d’autres procédures de règlement des différends, le différend peut, si les Parties y consentent, être soumis à l’arbitrage conformément à l’annexe de la présente Convention.
 
 #### Art. 16
@@ -210,21 +210,21 @@ Tout différend entre des Parties, ou entre des Parties et l’Organisation, à 
 
 \3) Aucune réserve ne peut être faite à la présente Convention.
 
-\1) La présente Convention reste ouverte à la signature à Londres jusqu’à son entrée en vigueur; elle demeure ensuite ouverte à l’adhésion. Tous les Etats peuvent devenir Parties à la présente Convention par:
+\1) La présente Convention reste ouverte à la signature à Londres jusqu’à son entrée en vigueur; elle demeure ensuite ouverte à l’adhésion. Tous les États peuvent devenir Parties à la présente Convention par:
 
-- a) signature sans réserve quant à la ratification, l’acceptation ou l’approbation; ou
-- b) signature sous réserve de ratification, d’acceptation ou d’approbation, suivie de ratification, d’acceptation ou d’approbation; ou
+- a) signature sans réserve quant à la ratification, l’acceptation ou l’approbation, ou
+- b) signature sous réserve de ratification, d’acceptation ou d’approbation, suivie de ratification, d’acceptation ou d’approbation, ou
 - c) adhésion.
 
 #### Art. 17
 
 **Entrée en vigueur**
 
-\1) La présente Convention entre en vigueur soixante jours après la date à laquelle des Etats représentant 95 % des parts d’investissement initiales sont devenus Parties à la Convention.
+\1) La présente Convention entre en vigueur soixante jours après la date à laquelle des États représentant 95 % des parts d’investissement initiales sont devenus Parties à la Convention.
 
 \2) Nonobstant les dispositions du par. 1), si la présente Convention n’est pas entrée en vigueur dans un délai de trente‑six mois après la date à laquelle elle a été ouverte à la signature, elle n’entre pas en vigueur.
 
-\3) Pour un Etat qui a déposé un instrument de ratification, d’acceptation, d’approbation de la présente Convention ou d’adhésion à celle‑ci après la date de son entrée en vigueur, la ratification, l’acceptation, l’approbation ou l’adhésion prend effet à la date du dépôt de l’instrument.
+\3) Pour un État qui a déposé un instrument de ratification, d’acceptation, d’approbation de la présente Convention ou d’adhésion à celle‑ci après la date de son entrée en vigueur, la ratification, l’acceptation, l’approbation ou l’adhésion prend effet à la date du dépôt de l’instrument.
 
 #### Art. 18
 
@@ -232,7 +232,7 @@ Tout différend entre des Parties, ou entre des Parties et l’Organisation, à 
 
 \1) Des amendements à la présente Convention peuvent être proposés par tout Partie, et sont diffusés par le Directeur à toutes les autres Parties et à la Société. L’Assemblée n’étudie l’amendement qu’après un délai de six mois, compte tenu de toute recommandation faite par la Société. Dans un cas particulier, l’Assemblée peut, en vertu d’une décision sur le fond, diminuer cette période de trois mois au plus.
 
-\2) S’il est adopté par l’Assemblée, l’amendement entre en vigueur cent vingt jours après réception par le Dépositaire des notifications d’acceptation de cet amendement par les deux tiers des Etats qui à la date de son adoption par l’amendement devient obligatoire pour les Parties qui l’ont accepté. Pour tout autre Etat Partie au moment de l’adoption de l’amendement par l’Assemblée, ledit amendement a force obligatoire le jour où le dépositaire reçoit sa notification d’acceptation.
+\2) S’il est adopté par l’Assemblée, l’amendement entre en vigueur cent vingt jours après réception par le Dépositaire des notifications d’acceptation de cet amendement par les deux tiers des États qui à la date de son adoption par l’amendement devient obligatoire pour les Parties qui l’ont accepté. Pour tout autre État Partie au moment de l’adoption de l’amendement par l’Assemblée, ledit amendement a force obligatoire le jour où le dépositaire reçoit sa notification d’acceptation.
 
 #### Art. 19
 
@@ -251,9 +251,9 @@ Tout différend entre des Parties, ou entre des Parties et l’Organisation, à 
 - e) de toute notification de retrait;
 - f) des autres modifications et communications ayant trait à la présente Convention.
 
-[^19-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^19-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
-*En foi de quoi,* les soussignés, dûment autorisés par leurs Gouvernements respectifs, ont signé la présente Convention. Fait à Londres ce trois septembre mil neuf cent soixante‑seize en langues anglaise, espagnole, française et russe, tous les textes faisant également foi, en un seul exemplaire qui est déposé auprès du Dépositaire qui en adresse une copie certifiée conforme au Gouvernement de chacun des Etats qui ont été invités à participer à la Conférence internationale sur la création d’un système maritime international à satellites et au Gouvernement de tout autre Etat qui signe la Convention ou qui y adhère. (Suivent les signatures)
+*En foi de quoi,* les soussignés, dûment autorisés par leurs Gouvernements respectifs, ont signé la présente Convention. Fait à Londres ce trois septembre mil neuf cent soixante‑seize en langues anglaise, espagnole, française et russe, tous les textes faisant également foi, en un seul exemplaire qui est déposé auprès du Dépositaire qui en adresse une copie certifiée conforme au Gouvernement de chacun des États qui ont été invités à participer à la Conférence internationale sur la création d’un système maritime international à satellites et au Gouvernement de tout autre État qui signe la Convention ou qui y adhère. (Suivent les signatures)
 
 Annexe
 
@@ -312,7 +312,7 @@ Tout demandeur ou groupe de demandeurs qui désire soumettre un différend à l�
 
 \7) Si, au cours de la procédure, les parties parviennent à un accord, le tribunal consigne celui‑ci sous forme d’une décision rendue avec le consentement des parties.
 
-\8) A tout moment de la procédure, le tribunal peut clore celle-ci s’il décide que les différends dépassent les limites de sa compétence telle que définie à l’art. 15 de la Convention.
+\8) À tout moment de la procédure, le tribunal peut clore celle-ci s’il décide que les différends dépassent les limites de sa compétence telle que définie à l’art. 15 de la Convention.
 
 \9) Les délibérations du tribunal sont secrètes.
 
@@ -355,13 +355,13 @@ En attendant de statuer, le tribunal peut indiquer toutes mesures conservatoires
 
 #### Art. 12
 
-A moins que le tribunal n’en décide autrement en raison de circonstances particulières à l’affaire, les dépens du tribunal, y compris la rémunération de ses membres, sont répartis de façon égale de part et d’autre. Lorsqu’il y a plus d’un demandeur ou plus d’un défendeur, le tribunal répartit les dépens qui leur incombent entre demandeurs ou défendeurs. Lorsque l’Organisation est partie à un différend, les dépens afférents à l’arbitrage qui lui incombent sont considérés comme une dépense administrative de l’Organisation.
+À moins que le tribunal n’en décide autrement en raison de circonstances particulières à l’affaire, les dépens du tribunal, y compris la rémunération de ses membres, sont répartis de façon égale de part et d’autre. Lorsqu’il y a plus d’un demandeur ou plus d’un défendeur, le tribunal répartit les dépens qui leur incombent entre demandeurs ou défendeurs. Lorsque l’Organisation est partie à un différend, les dépens afférents à l’arbitrage qui lui incombent sont considérés comme une dépense administrative de l’Organisation.
 
 ## Accord d’exploitation
 
 Les signataires du présent Accord d’exploitation,
 
-considérant que les Etats Parties à la Convention portant création de l’Organisation internationale de télécommunications maritimes par satellites (INMARSAT) s’engagent dans cette convention à signer le présent Accord d’exploitation ou à désigner un organisme compétent pour le signer,
+considérant que les États Parties à la Convention portant création de l’Organisation internationale de télécommunications maritimes par satellites (INMARSAT) s’engagent dans cette convention à signer le présent Accord d’exploitation ou à désigner un organisme compétent pour le signer,
 
 sont convenus de ce qui suit:
 
@@ -405,7 +405,7 @@ sont convenus de ce qui suit:
 
 **Limitation du capital**
 
-Le total des contributions nettes des Signataires au capital et de l’encours des engagements contractuels en capital de l’Organisation est soumis à une limite. Il est égal au montant cumulé des contributions au capital versées par les Signataires en application de l’article III, diminué du montant cumulé du capital qui leur est remboursé en vertu du présent Accord et augmenté de l’encours des engagements contractuels en capital de l’Organisation. La limite initiale est fixée à 200 millions de dollars des Etats‑Unis. Le Conseil est habilité à réajuster la limite.
+Le total des contributions nettes des Signataires au capital et de l’encours des engagements contractuels en capital de l’Organisation est soumis à une limite. Il est égal au montant cumulé des contributions au capital versées par les Signataires en application de l’article III, diminué du montant cumulé du capital qui leur est remboursé en vertu du présent Accord et augmenté de l’encours des engagements contractuels en capital de l’Organisation. La limite initiale est fixée à 200 millions de dollars des États‑Unis. Le Conseil est habilité à réajuster la limite.
 
 #### Art. V
 
@@ -431,7 +431,7 @@ Le total des contributions nettes des Signataires au capital et de l’encours d
 
 \11) Après application du par. 10), les parts d’investissement restantes non attribuées sont réparties entre les Signataires au prorata des parts d’investissement qui auraient dû leur revenir à la suite de toute nouvelle détermination, sous réserve des dispositions des par. 8) et 9).
 
-\12) A la demande d’un Signataire, le Conseil peut lui attribuer une part d’investissement réduite par rapport à celle qui lui est attribuée conformément aux par. 1) à 7) et 9) à 11) si d’autres Signataires compensent en totalité cette réduction en acceptant volontairement un accroissement de leurs parts d’investissement. Le Conseil adopte les procédures à suivre pour répartir équitablement la part ou les parts libérées entre les Signataires désirant augmenter leurs parts d’investissement.
+\12) À la demande d’un Signataire, le Conseil peut lui attribuer une part d’investissement réduite par rapport à celle qui lui est attribuée conformément aux par. 1) à 7) et 9) à 11) si d’autres Signataires compensent en totalité cette réduction en acceptant volontairement un accroissement de leurs parts d’investissement. Le Conseil adopte les procédures à suivre pour répartir équitablement la part ou les parts libérées entre les Signataires désirant augmenter leurs parts d’investissement.
 
 \5) Après la première détermination des parts d’investissement se fondant sur l’utilisation, les parts d’investissement sont déterminées de nouveau pour prendre effet:
 
@@ -453,7 +453,7 @@ Le total des contributions nettes des Signataires au capital et de l’encours d
 
   du coût d’acquisition initiale de tous les biens, tel qu’il est inscrit dans les comptes de l’Organisation à la date du réajustement, y compris la totalité des bénéfices capitalisés et des dépenses capitalisées, est soustrait le total:
 
-  - i) des amortissements cumulés inscrits dans les comptes de l’Organisation à la date du réajustement; et
+  - i) des amortissements cumulés inscrits dans les comptes de l’Organisation à la date du réajustement, et
   - ii) des sommes empruntées et autres sommes dues par l’Organisation à la date du réajustement;
 
 - b) on réajuste les résultats obtenus en application de l’al. a) en ajoutant ou en retranchant, selon le cas, une autre somme représentant l’insuffisance ou l’excès de paiements effectués par l’Organisation, au titre de la rémunération du capital depuis l’entrée en vigueur du présent Accord jusqu’à la date à laquelle l’évaluation prend effet, par rapport au montant cumulé des sommes dues en vertu du présent Accord, aux taux de rémunération du capital en vigueur au cours des périodes pendant lesquelles les taux pertinents, fixés par le Conseil en vertu de l’art. VIII, étaient applicables. Aux fins d’évaluer la somme représentant toute insuffisance ou tout excès de paiement, la rémunération exigible est calculée mensuellement et se rapporte au montant net des éléments visés à l’al. a).
@@ -464,7 +464,7 @@ Le total des contributions nettes des Signataires au capital et de l’encours d
 
 \1) Les redevances d’utilisation fixées en application de l’art. 19 de la Convention sont payables par les Signataires ou les organismes de télécommunications autorisés conformément aux modalités adoptées par le Conseil. Ces modalités suivent d’aussi près que possible les méthodes de comptabilité agréées en matière de télécommunications internationales.
 
-\2) A moins que le Conseil n’en décide autrement, les Signataires et les organismes de télécommunications autorisés sont chargés de fournir des renseignements à l’Organisation pour lui permettre de déterminer l’utilisation totale du secteur spatial d’INMARSAT et de déterminer les parts d’investissement. Le Conseil adopte la procédure à suivre pour soumettre ces renseignements à l’Organisation.
+\2) À moins que le Conseil n’en décide autrement, les Signataires et les organismes de télécommunications autorisés sont chargés de fournir des renseignements à l’Organisation pour lui permettre de déterminer l’utilisation totale du secteur spatial d’INMARSAT et de déterminer les parts d’investissement. Le Conseil adopte la procédure à suivre pour soumettre ces renseignements à l’Organisation.
 
 \3) Le Conseil prend toute sanction appropriée dans le cas où le paiement des redevances d’utilisation est en retard de quatre mois ou davantage par rapport à l’échéance.
 
@@ -478,7 +478,7 @@ Le total des contributions nettes des Signataires au capital et de l’encours d
 
 \3) Dans la mesure où les recettes de l’Organisation ne suffiraient pas à couvrir les frais d’exploitation, d’entretien et d’administration de l’Organisation, le Conseil peut décider de combler le déficit en utilisant le fonds de roulement de l’Organisation, en concluant des accords portant sur des découverts, en contractant des emprunts ou en demandant aux Signataires de verser des contributions au capital, au prorata de leurs parts d’investissement respectives; ces mesures peuvent se cumuler.
 
-\1) A moins que le Conseil n’en décide autrement, les recettes de l’Organisation sont normalement affectées, dans la mesure où les rentrées le permettent, dans l’ordre de priorité suivant:
+\1) À moins que le Conseil n’en décide autrement, les recettes de l’Organisation sont normalement affectées, dans la mesure où les rentrées le permettent, dans l’ordre de priorité suivant:
 
 - a) à la couverture des frais d’exploitation, d’entretien et d’administration;
 - b) à la constitution du fonds de roulement que le Conseil peut juger nécessaire;
@@ -528,7 +528,7 @@ L’Organisation, tout Signataire en tant que tel et, lorsqu’ils agissent dans
 
 \3) Sous réserve du paiement par le Signataire de toute somme qu’il doit aux termes des al. b) et c) du par. 1), l’Organisation doit, compte tenu de l’art. VIII, rembourser au Signataire les sommes visées aux al. a) et b) du par. 1), dans des délais du même ordre que ceux dans lesquels les autres Signataires sont remboursés de leurs contributions au capital ou dans des délais plus courts si le Conseil le décide. Le Conseil fixe le taux d’intérêt à verser au Signataire ou par celui‑ci en ce qui concerne toute somme qui peut rester due à tout moment.
 
-\4) A moins que le Conseil n’en décide autrement, un règlement conclu en vertu des dispositions du présent article n’a pas pour effet de dégager le Signataire de son obligation de verser sa part des contributions au capital nécessaires pour faire face aux responsabilités non contractuelles découlant d’actes ou d’omissions de l’Organisation qui ont précédé la réception de la notification de la décision de retrait ou, selon les cas, la date à laquelle le retrait obligatoire prend effet.
+\4) À moins que le Conseil n’en décide autrement, un règlement conclu en vertu des dispositions du présent article n’a pas pour effet de dégager le Signataire de son obligation de verser sa part des contributions au capital nécessaires pour faire face aux responsabilités non contractuelles découlant d’actes ou d’omissions de l’Organisation qui ont précédé la réception de la notification de la décision de retrait ou, selon les cas, la date à laquelle le retrait obligatoire prend effet.
 
 \5) Le Signataire ne perd aucun des droits qu’il a acquis en tant que tel, que nonobstant son retrait volontaire ou obligatoire il conserve après la date d’effet dudit retrait et pour lesquels il n’a pas reçu de compensation dans le cadre du règlement conclu en vertu du présent article.
 
@@ -564,7 +564,7 @@ L’Organisation, tout Signataire en tant que tel et, lorsqu’ils agissent dans
 
 \1) Tout différend entre les Signataires, ou entre des Signataires et l’Organisation, ayant trait aux droits et obligations découlant de la Convention ou du présent Accord, doit être résolu par voie de négociations entre les parties au différend. Si, dans un délai d’un an à compter de la date à laquelle l’une quelconque des parties a demandé un règlement, celui‑ci n’est pas intervenu, et si les parties au différend n’ont pas approuvé une autre procédure de règlement, le différend est soumis à l’arbitrage conformément à l’Annexe de la Convention, sur la demande de l’une quelconque des parties au différend.
 
-\2) A moins que les parties n’en conviennent autrement, tout différend mettant en cause l’Organisation et un ou plusieurs Signataires en vertu d’accords qui les lient est soumis à l’arbitrage conformément à l’Annexe de la Convention, sur la demande de l’une des parties au différend, dans un délai d’un an à compter de la date à laquelle ce règlement a été demandé par l’une quelconque des parties au différend.
+\2) À moins que les parties n’en conviennent autrement, tout différend mettant en cause l’Organisation et un ou plusieurs Signataires en vertu d’accords qui les lient est soumis à l’arbitrage conformément à l’Annexe de la Convention, sur la demande de l’une des parties au différend, dans un délai d’un an à compter de la date à laquelle ce règlement a été demandé par l’une quelconque des parties au différend.
 
 \3) Tout Signataire qui a cessé d’être Signataire demeure lié par le présent article en ce qui concerne les différends relatifs aux droits et obligations découlant du fait qu’il a été Signataire du présent Accord.
 
@@ -594,11 +594,11 @@ L’Organisation, tout Signataire en tant que tel et, lorsqu’ils agissent dans
 
 *En foi de quoi,* les soussignés, dûment autorisés, ont signé le présent Accord.
 
-Fait à Londres ce trois septembre mil neuf cent soixante‑seize en langues anglaise, espagnole, française et russe, tous les textes faisant également foi, en un seul exemplaire qui est déposé auprès du Dépositaire qui en adresse une copie certifiée conforme au Gouvernement de chacun des Etats qui ont été invités à participer à la Conférence internationale sur la création d’un système maritime international à satellites, au Gouvernement de tout autre Etat qui signe la Convention ou qui y adhère et à chaque Signataire.
+Fait à Londres ce trois septembre mil neuf cent soixante‑seize en langues anglaise, espagnole, française et russe, tous les textes faisant également foi, en un seul exemplaire qui est déposé auprès du Dépositaire qui en adresse une copie certifiée conforme au Gouvernement de chacun des États qui ont été invités à participer à la Conférence internationale sur la création d’un système maritime international à satellites, au Gouvernement de tout autre État qui signe la Convention ou qui y adhère et à chaque Signataire.
 
 (Suivent les signatures)
 
-\2) Le Dépositaire informe au plus tôt tous les Etats qui signent la Convention ou qui y adhèrent et tous les Signataires:
+\2) Le Dépositaire informe au plus tôt tous les États qui signent la Convention ou qui y adhèrent et tous les Signataires:
 
 - a) de toute signature du présent Accord;
 - b) de l’entrée en vigueur du présent Accord;
@@ -607,16 +607,16 @@ Fait à Londres ce trois septembre mil neuf cent soixante‑seize en langues ang
 - e) de toute suspension et de tout retrait obligatoire;
 - f) des autres notifications et communications ayant trait au présent Accord.
 
-[^annexu1-lvlu2-XIX-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^annexu1-lvlu2-XIX-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 Annexe
 
 ## Parts d’investissement préalables à la première détermination sur la base de l’utilisation
 
-a) Les parts initiales d’investissement des signataires désignés par les Etats énumérés ci-dessous s’établissent comme suit:
+a) Les parts initiales d’investissement des signataires désignés par les États énumérés ci-dessous s’établissent comme suit:
 
 <table>
-<tr><td>Etats-Unis</td><td>17,00</td></tr>
+<tr><td>États-Unis</td><td>17,00</td></tr>
 <tr><td>Royaume-Uni</td><td>12,00</td></tr>
 <tr><td>URSS, RSS de Biélorussie et RSS d’Ukraine</td><td>11,00</td></tr>
 <tr><td>Norvège</td><td>9,50</td></tr>
@@ -650,7 +650,7 @@ a) Les parts initiales d’investissement des signataires désignés par les Eta
 <tr><td>Suisse</td><td>0,25</td></tr>
 <tr><td>Libéria</td><td>0,10</td></tr>
 <tr><td>Algérie</td><td>0,05</td></tr>
-<tr><td>Egypte</td><td>0,05</td></tr>
+<tr><td>Égypte</td><td>0,05</td></tr>
 <tr><td>Ghana</td><td>0,05</td></tr>
 <tr><td>Irak</td><td>0,05</td></tr>
 <tr><td>République-unie du Cameroun</td><td>0,05</td></tr>
@@ -659,14 +659,14 @@ a) Les parts initiales d’investissement des signataires désignés par les Eta
 <tr><td>Total</td><td>101,45</td></tr>
 </table>
 
-b) Tout signataire de l’Accord d’exploitation désigné par un Etat mentionné ci-dessus peut, avant l’entrée en vigueur de la Convention et de l’Accord d’exploitation, accepter une part d’investissement initiale supérieure à celle mentionnée au paragraphe a) si:
+b) Tout signataire de l’Accord d’exploitation désigné par un État mentionné ci-dessus peut, avant l’entrée en vigueur de la Convention et de l’Accord d’exploitation, accepter une part d’investissement initiale supérieure à celle mentionnée au paragraphe a) si:
 
-- i) d’autres signataires acceptent une réduction correspondante de leur part d’investissement initiale; ou
+- i) d’autres signataires acceptent une réduction correspondante de leur part d’investissement initiale, ou
 - ii) la Convention et l’Accord d’exploitation ne sont pas entrés en vigueur vingt-quatre mois après avoir été ouverts à la signature.
 
-Les signataires intéressés le Dépositaire qui établit une liste révisée des parts d’investissements initiales et la communique à tous les Etats mentionnés dans la liste des parts d’investissement initiales.
+Les signataires intéressés le Dépositaire qui établit une liste révisée des parts d’investissements initiales et la communique à tous les États mentionnés dans la liste des parts d’investissement initiales.
 
-c) Le signataire désigné par un Etat qui n’est pas mentionné au par. a), s’il signe l’Accord d’exploitation avant son entrée en vigueur, indique au Dépositaire sa part d’investissement initiale qui correspond à l’utilisation relative du secteur spatial d’INMARSAT qu’il prévoit de faire. Le Dépositaire ajoute le nouveau signataire et sa part d’investissement initiale à la liste des parts d’investissement initiales figurant au paragraphe a). La liste ainsi révisée est communiquée à tous les Etats qui y sont mentionnés. La part d’investissement initiale du nouveau signataire est ensuite soumise au Conseil pour approbation ou réajustement. Si le Conseil modifie cette part, il réajuste proportionnellement les parts d’investissement initiales de tous le Signataires et ultérieurement les parts d’investissement de tous les Signataires.
+c) Le signataire désigné par un État qui n’est pas mentionné au par. a), s’il signe l’Accord d’exploitation avant son entrée en vigueur, indique au Dépositaire sa part d’investissement initiale qui correspond à l’utilisation relative du secteur spatial d’INMARSAT qu’il prévoit de faire. Le Dépositaire ajoute le nouveau signataire et sa part d’investissement initiale à la liste des parts d’investissement initiales figurant au paragraphe a). La liste ainsi révisée est communiquée à tous les États qui y sont mentionnés. La part d’investissement initiale du nouveau signataire est ensuite soumise au Conseil pour approbation ou réajustement. Si le Conseil modifie cette part, il réajuste proportionnellement les parts d’investissement initiales de tous le Signataires et ultérieurement les parts d’investissement de tous les Signataires.
 
 d) Lors de l’entrée en vigueur de l’Accord d’exploitation, les parts d’investissement des Signataires sont déterminées en réajustant proportionnellement les parts d’investissement initiales des Signataires de telle sorte que la somme de toutes les parts d’investissement représente 100 %.
 
@@ -676,13 +676,14 @@ f) Lorsqu’une nouvelle Partie devient Membre de l’Organisation ou lorsqu’u
 
 g) Les parts d’investissement de 0,05 % déterminées conformément au par. 8) de l’art. V de l’Accord d’exploitation ne sont pas relevées en application des par. c), d), e) et f) de la présente Annexe.
 
-Champ d’application le 5 juillet 2017**[^t-3]**
+Champ d’application le 23 mars 2023[^t-3]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>3 mars</td><td>1994 A</td><td>3 mars</td><td>1994</td></tr>
 <tr><td>Algérie</td><td>15 juillet</td><td>1979 Si</td><td>16 juillet</td><td>1979</td></tr>
-<tr><td>Allemagne\*</td><td>23 octobre</td><td>1979</td><td>23 octobre</td><td>1979</td></tr>
+<tr><td>Allemagne</td><td>23 octobre</td><td>1979</td><td>23 octobre</td><td>1979</td></tr>
+<tr><td>Angola</td><td>7 février</td><td>2022 A</td><td>7 février</td><td>2022</td></tr>
 <tr><td>Antigua et Barbuda</td><td>12 octobre</td><td>2009 A</td><td>12 octobre</td><td>2009</td></tr>
 <tr><td>Arabie Saoudite</td><td>5 octobre</td><td>1983 A</td><td>5 octobre</td><td>1983</td></tr>
 <tr><td>Argentine</td><td>2 octobre</td><td>1979 A</td><td>2 octobre</td><td>1979</td></tr>
@@ -692,6 +693,7 @@ Champ d’application le 5 juillet 2017**[^t-3]**
 <tr><td>Bangladesh</td><td>17 septembre</td><td>1993 A</td><td>17 septembre</td><td>1993</td></tr>
 <tr><td>Bélarus</td><td>29 mars</td><td>1979</td><td>16 juillet</td><td>1979</td></tr>
 <tr><td>Belgique</td><td>14 juillet</td><td>1979</td><td>16 juillet</td><td>1979</td></tr>
+<tr><td>Bolivie</td><td>9 mars</td><td>2018 A</td><td>9 mars</td><td>2018</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>17 avril</td><td>1998 A</td><td>17 avril</td><td>1998</td></tr>
 <tr><td>Brésil</td><td>10 juillet</td><td>1979</td><td>16 juillet</td><td>1979</td></tr>
 <tr><td>Brunéi</td><td>4 octobre</td><td>1993 A</td><td>4 octobre</td><td>1993</td></tr>
@@ -710,11 +712,11 @@ Champ d’application le 5 juillet 2017**[^t-3]**
 <tr><td>Croatie</td><td>24 novembre</td><td>1992 A</td><td>24 novembre</td><td>1992</td></tr>
 <tr><td>Cuba\*</td><td>25 juillet</td><td>1989 A</td><td>25 juillet</td><td>1989</td></tr>
 <tr><td>Danemark</td><td>10 mai</td><td>1979 Si</td><td>16 juillet</td><td>1979</td></tr>
-<tr><td>Egypte</td><td>29 novembre</td><td>1977 A</td><td>16 juillet</td><td>1979</td></tr>
-<tr><td>Emirats arabes unis</td><td>13 janvier</td><td>1983 A</td><td>13 janvier</td><td>1983</td></tr>
-<tr><td>Equateur</td><td>11 novembre</td><td>2015 A</td><td>11 novembre</td><td>2015</td></tr>
+<tr><td>Égypte</td><td>29 novembre</td><td>1977 A</td><td>16 juillet</td><td>1979</td></tr>
+<tr><td>Émirats arabes unis</td><td>13 janvier</td><td>1983 A</td><td>13 janvier</td><td>1983</td></tr>
+<tr><td>Équateur</td><td>11 novembre</td><td>2015 A</td><td>11 novembre</td><td>2015</td></tr>
 <tr><td>Espagne</td><td>5 septembre</td><td>1978</td><td>16 juillet</td><td>1979</td></tr>
-<tr><td>Etats-Unis</td><td>15 février</td><td>1979 Si</td><td>16 juillet</td><td>1979</td></tr>
+<tr><td>États-Unis</td><td>15 février</td><td>1979 Si</td><td>16 juillet</td><td>1979</td></tr>
 <tr><td>Fidji</td><td>8 mars</td><td>2016 A</td><td>8 mars</td><td>2016</td></tr>
 <tr><td>Finlande</td><td>12 juillet</td><td>1979</td><td>16 juillet</td><td>1979</td></tr>
 <tr><td>France</td><td>18 octobre</td><td>1979</td><td>18 octobre</td><td>1979</td></tr>
@@ -724,8 +726,9 @@ Champ d’application le 5 juillet 2017**[^t-3]**
 <tr><td>Grèce</td><td>13 juillet</td><td>1979</td><td>16 juillet</td><td>1979</td></tr>
 <tr><td>Honduras</td><td>16 novembre</td><td>2016 A</td><td>16 novembre</td><td>2016</td></tr>
 <tr><td>Hongrie</td><td>24 juillet</td><td>1997 A</td><td>24 juillet</td><td>1997</td></tr>
-<tr><td>Iles Cook</td><td>31 octobre</td><td>2007 A</td><td>31 octobre</td><td>2007</td></tr>
-<tr><td>Iles Marshall</td><td>12 mai</td><td>1997 A</td><td>12 mai</td><td>1997</td></tr>
+<tr><td>Îles Cook</td><td>31 octobre</td><td>2007 A</td><td>31 octobre</td><td>2007</td></tr>
+<tr><td>Îles Marshall</td><td>12 mai</td><td>1997 A</td><td>12 mai</td><td>1997</td></tr>
+<tr><td>Îles Salomon</td><td>20 novembre</td><td>2020 A</td><td>20 novembre</td><td>2020</td></tr>
 <tr><td>Inde</td><td>6 juin</td><td>1978</td><td>16 juillet</td><td>1979</td></tr>
 <tr><td>Indonésie\*</td><td>9 octobre</td><td>1986 A</td><td>9 octobre</td><td>1986</td></tr>
 <tr><td>Iran</td><td>12 octobre</td><td>1984 A</td><td>12 octobre</td><td>1984</td></tr>
@@ -755,7 +758,7 @@ Champ d’application le 5 juillet 2017**[^t-3]**
 <tr><td>Nouvelle-Zélande</td><td>17 août</td><td>1977 Si</td><td>16 juillet</td><td>1979</td></tr>
 <tr><td>Oman</td><td>30 décembre</td><td>1980 A</td><td>30 décembre</td><td>1980</td></tr>
 <tr><td>Pakistan</td><td>6 février</td><td>1985 A</td><td>6 février</td><td>1985</td></tr>
-<tr><td>Palaos</td><td>29 septembre</td><td>2011 A</td><td>29 septembre</td><td>2011</td></tr>
+<tr><td>Palaos</td><td>29 septembre</td><td>2011</td><td>29 septembre</td><td>2011</td></tr>
 <tr><td>Panama</td><td>26 octobre</td><td>1987 A</td><td>26 octobre</td><td>1987</td></tr>
 <tr><td>Pays-Bas\* <sup>a</sup></td><td>15 juin</td><td>1979</td><td>16 juillet</td><td>1979</td></tr>
 <tr><td>Aruba</td><td>15 juin</td><td>1979</td><td>16 juillet</td><td>1979</td></tr>
@@ -785,12 +788,12 @@ Champ d’application le 5 juillet 2017**[^t-3]**
 <tr><td>Tunisie</td><td>9 mai</td><td>1983 A</td><td>9 mai</td><td>1983</td></tr>
 <tr><td>Turquie</td><td>16 novembre</td><td>1989</td><td>16 novembre</td><td>1989</td></tr>
 <tr><td>Ukraine</td><td>29 mars</td><td>1979</td><td>16 juillet</td><td>1979</td></tr>
+<tr><td>Uruguay</td><td>16 septembre</td><td>2022 A</td><td>16 septembre</td><td>2022</td></tr>
 <tr><td>Vanuatu</td><td>20 août</td><td>2008</td><td>20 août</td><td>2008</td></tr>
 <tr><td>Venezuela</td><td>27 avril</td><td>2005 A</td><td>27 avril</td><td>2005</td></tr>
 <tr><td>Vietnam</td><td>15 avril</td><td>1998 A</td><td>15 avril</td><td>1998</td></tr>
 <tr><td>Yémen</td><td>24 janvier</td><td>2011 A</td><td>24 janvier</td><td>2011</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l'adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-3]: [RO 1989 1926](https://fedlex.data.admin.ch/eli/oc/1989/1926_1926_1926), [1990 1940](https://fedlex.data.admin.ch/eli/oc/1990/1940_1940_1940), [2003 372](https://fedlex.data.admin.ch/eli/oc/2003/77), [2007 4463](https://fedlex.data.admin.ch/eli/oc/2007/626), [2013 1597](https://fedlex.data.admin.ch/eli/oc/2013/372), [2015 181](https://fedlex.data.admin.ch/eli/oc/2015/21), [2017 3731](https://fedlex.data.admin.ch/eli/oc/2017/434). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1989 1926](https://fedlex.data.admin.ch/eli/oc/1989/1926_1926_1926); [1990 1940](https://fedlex.data.admin.ch/eli/oc/1990/1940_1940_1940); [2003 372](https://fedlex.data.admin.ch/eli/oc/2003/77); [2007 4463](https://fedlex.data.admin.ch/eli/oc/2007/626); [2013 1597](https://fedlex.data.admin.ch/eli/oc/2013/372); [2015 181](https://fedlex.data.admin.ch/eli/oc/2015/21); [2017 3731](https://fedlex.data.admin.ch/eli/oc/2017/434); [2023 156](https://fedlex.data.admin.ch/eli/oc/2023/156). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

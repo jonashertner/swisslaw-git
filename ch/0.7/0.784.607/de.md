@@ -3,33 +3,27 @@ sr: "0.784.607"
 title: Übereinkommen vom 3. September 1976 über die Internationale Organisation für mobile Satellitenkommunikation (mit Anhang und Betriebsvereinbarung samt Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926"
 language: de
-version: 2017-07-05
+version: 2023-03-23
 adopted: 1976-09-03
 in_force: 1989-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926/20170705/de/xml/fedlex-data-admin-ch-eli-cc-1989-1926_1926_1926-20170705-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1926_1926_1926/20170705/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926/20230323/de/xml/fedlex-data-admin-ch-eli-cc-1989-1926_1926_1926-20230323-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1926_1926_1926/20230323/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Übereinkommen über die Internationale Organisation für mobile Satellitenkommunikation****
+# Übereinkommen über die Internationale Organisation für mobile Satellitenkommunikation
 
-[^t-2]as Übersetzung*[^t-3]*[^t-1]
+AS **1989** 1926[^t-1]
 
-Abgeschlossen in London am 3. September 1976
+Übersetzung
 
-Von der Bundesversammlung genehmigt am 16. Dezember 1988[^t-4]
+Abgeschlossen in London am 3. September 1976 Von der Bundesversammlung genehmigt am 16. Dezember 1988[^t-2] Schweizerische Beitrittsurkunde hinterlegt am 17. Mai 1989 In Kraft getreten für die Schweiz am 17. Mai 1989
 
-Schweizerische Beitrittsurkunde hinterlegt am 17. Mai 1989
+(Stand am 23. März 2023)
 
-In Kraft getreten für die Schweiz am 17. Mai 1989
-
-(Stand am 5. Juli 2017)
-
-[^t-1]: Das Übereink., sein Anhang und die Betriebsvereinbarung wurden bereinigt gemäss Änd. der Inmarsat-Versammlung vom 16. Okt. 1985, 19. Jan. 1989 ([AS 2007 3365](https://fedlex.data.admin.ch/eli/oc/2007/411)) und 24. April 1998, für die Schweiz in Kraft seit 31. Juli 2001 ([AS 2007 3937](https://fedlex.data.admin.ch/eli/oc/2007/525)).
-[^t-2]: [AS 1989 1926](https://fedlex.data.admin.ch/eli/oc/1989/1926_1926_1926)
-[^t-3]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-4]: [AS 1989 1925](https://fedlex.data.admin.ch/eli/oc/1989/1925_1925_1925)
+[^t-1]: Das Übereink., sein Anhang und die Betriebsvereinbarung wurden bereinigt gemäss Änd. der Inmarsat-Versammlung vom 16. Okt. 1985, 19. Jan. 1989 ([AS 2007 3365](https://fedlex.data.admin.ch/eli/oc/2007/411)), 9. Dez. 1994 ([AS 2007 3949](https://fedlex.data.admin.ch/eli/oc/2007/526)) und 24. April 1998, für die Schweiz in Kraft seit 31. Juli 2001 ([AS 2007 3937](https://fedlex.data.admin.ch/eli/oc/2007/525)).
+[^t-2]: [AS 1989 1925](https://fedlex.data.admin.ch/eli/oc/1989/1925_1925_1925)
 
 Die Vertragsstaaten dieses Übereinkommens,
 
@@ -53,11 +47,11 @@ in Bekräftigung der Tatsache, dass ein Bedarf an zwischenstaatlicher Aufsicht b
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.790](https://fedlex.data.admin.ch/eli/cc/1970/87_90_90)
-[^ingress-2]: [SR 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
-[^ingress-3]: [SR 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
-[^ingress-4]: [SR 0.784.01](https://fedlex.data.admin.ch/eli/cc/1996/1255_1255_1255)
-[^ingress-5]: [SR 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
+[^ingress-1]: [SR 0.790](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3400)
+[^ingress-2]: [SR 0.747.363.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3098)
+[^ingress-3]: [SR 0.784.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3376)
+[^ingress-4]: [SR 0.784.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3346)
+[^ingress-5]: [SR 0.784.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3351)
 
 #### Art. 1
 
@@ -251,7 +245,7 @@ Streitigkeiten zwischen Vertragsparteien oder zwischen Vertragsparteien und der 
 - e) über jede Austrittsnotifikation;
 - f) über sonstige Änderungen und Mitteilungen in Bezug auf das Übereinkommen.
 
-[^19-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^19-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *Zu Urkund dessen* haben die von ihren Regierungen gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu London am 3. September 1976 in englischer, französischer, russischer und spanischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die beim Depositar hinterlegt wird; dieser übermittelt der Regierung jedes zur Internationalen Konferenz über die Errichtung eines Internationalen Seefunksatellitensystems eingeladenen Staates und der Regierung jedes anderen Staates, der dieses Übereinkommen unterzeichnet oder ihm beitritt, eine beglaubigte Abschrift. (Es folgen die Unterschriften)
 
@@ -607,7 +601,7 @@ Geschehen zu London am 3. September 1976 in englischer, französischer, russisch
 - e) von jeder Suspendierung oder Beendigung;
 - f) von sonstigen Notifikationen und Mitteilungen in Bezug auf diese Vereinbarung.
 
-[^annexu1-lvlu2-XIX-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^annexu1-lvlu2-XIX-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 Anhang
 
@@ -676,12 +670,13 @@ f) Tritt eine neue Vertragspartei in die Organisation ein oder tritt eine Vertra
 
 g) Die nach Artikel V Absatz 8 der Betriebsvereinbarung festgelegten Investitionsanteile von 0,05 Prozent werden nicht nach den Buchstaben c, d, e und f dieses Anhangs erhöht.
 
-Geltungsbereich am 5. Juli 2017**[^t-5]**
+Geltungsbereich am 23. März 2023[^t-3]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td colspan="2">Ägypten</td><td>29. November</td><td>1977 B</td><td>16. Juli</td><td>1979</td></tr>
 <tr><td colspan="2">Algerien</td><td>15. Juli</td><td>1979 U</td><td>16. Juli</td><td>1979</td></tr>
+<tr><td colspan="2">Angola</td><td>7. Februar</td><td>2022 B</td><td>7. Februar</td><td>2022</td></tr>
 <tr><td colspan="2">Antigua und Barbuda</td><td>12. Oktober</td><td>2009 B</td><td>12. Oktober</td><td>2009</td></tr>
 <tr><td colspan="2">Argentinien</td><td>2. Oktober</td><td>1979 B</td><td>2. Oktober</td><td>1979</td></tr>
 <tr><td colspan="2">Australien</td><td>16. März</td><td>1979</td><td>16. Juli</td><td>1979</td></tr>
@@ -690,6 +685,7 @@ Geltungsbereich am 5. Juli 2017**[^t-5]**
 <tr><td colspan="2">Bangladesch</td><td>17. September</td><td>1993 B</td><td>17. September</td><td>1993</td></tr>
 <tr><td colspan="2">Belarus</td><td>29. März</td><td>1979</td><td>16. Juli</td><td>1979</td></tr>
 <tr><td colspan="2">Belgien</td><td>14. Juli</td><td>1979</td><td>16. Juli</td><td>1979</td></tr>
+<tr><td colspan="2">Bolivien</td><td>9. März</td><td>2018 B</td><td>9. März</td><td>2018</td></tr>
 <tr><td colspan="2">Bosnien und Herzegowina</td><td>17. April</td><td>1998 B</td><td>17. April</td><td>1998</td></tr>
 <tr><td colspan="2">Brasilien</td><td>10. Juli</td><td>1979</td><td>16. Juli</td><td>1979</td></tr>
 <tr><td colspan="2">Brunei</td><td>4. Oktober</td><td>1993 B</td><td>4. Oktober</td><td>1993</td></tr>
@@ -755,7 +751,7 @@ Geltungsbereich am 5. Juli 2017**[^t-5]**
 <tr><td colspan="2">Norwegen</td><td>10. Oktober</td><td>1978</td><td>16. Juli</td><td>1979</td></tr>
 <tr><td colspan="2">Oman</td><td>30. Dezember</td><td>1980 B</td><td>30. Dezember</td><td>1980</td></tr>
 <tr><td colspan="2">Pakistan</td><td>6. Februar</td><td>1985 B</td><td>6. Februar</td><td>1985</td></tr>
-<tr><td colspan="2">Palau</td><td>29. September</td><td>2011 B</td><td>29. September</td><td>2011</td></tr>
+<tr><td colspan="2">Palau</td><td>29. September</td><td>2011</td><td>29. September</td><td>2011</td></tr>
 <tr><td colspan="2">Panama</td><td>26. Oktober</td><td>1987 B</td><td>26. Oktober</td><td>1987</td></tr>
 <tr><td colspan="2">Peru</td><td>30. Oktober</td><td>1987 B</td><td>30. Oktober</td><td>1987</td></tr>
 <tr><td colspan="2">Philippinen</td><td>30. März</td><td>1981 B</td><td>30. März</td><td>1981</td></tr>
@@ -763,6 +759,7 @@ Geltungsbereich am 5. Juli 2017**[^t-5]**
 <tr><td colspan="2">Portugal</td><td>13. Juli</td><td>1979 U</td><td>16. Juli</td><td>1979</td></tr>
 <tr><td colspan="2">Rumänien</td><td>27. September</td><td>1990 B</td><td>27. September</td><td>1990</td></tr>
 <tr><td colspan="2">Russland</td><td>13. März</td><td>1979</td><td>16. Juli</td><td>1979</td></tr>
+<tr><td colspan="2">Salomoninseln</td><td>20. November</td><td>2020 B</td><td>20. November</td><td>2020</td></tr>
 <tr><td colspan="2">Saudi-Arabien</td><td>5. Oktober</td><td>1983 B</td><td>5. Oktober</td><td>1983</td></tr>
 <tr><td colspan="2">Schweden</td><td>19. Juni</td><td>1979 U</td><td>16. Juli</td><td>1979</td></tr>
 <tr><td colspan="2">Schweiz</td><td>17. Mai</td><td>1989 B</td><td>17. Mai</td><td>1989</td></tr>
@@ -781,6 +778,7 @@ Geltungsbereich am 5. Juli 2017**[^t-5]**
 <tr><td colspan="2">Türkei</td><td>16. November</td><td>1989</td><td>16. November</td><td>1989</td></tr>
 <tr><td colspan="2">Ukraine</td><td>29. März</td><td>1979</td><td>16. Juli</td><td>1979</td></tr>
 <tr><td colspan="2">Ungarn</td><td>24. Juli</td><td>1997 B</td><td>24. Juli</td><td>1997</td></tr>
+<tr><td colspan="2">Uruguay</td><td>16. September</td><td>2022 B</td><td>16. September</td><td>2022</td></tr>
 <tr><td colspan="2">Vanuatu</td><td>20. August</td><td>2008</td><td>20. August</td><td>2008</td></tr>
 <tr><td colspan="2">Venezuela</td><td>27. April</td><td>2005 B</td><td>27. April</td><td>2005</td></tr>
 <tr><td colspan="2">Vereinigte Arabische Emirate</td><td>13. Januar</td><td>1983 B</td><td>13. Januar</td><td>1983</td></tr>
@@ -793,4 +791,4 @@ Geltungsbereich am 5. Juli 2017**[^t-5]**
 <tr><td colspan="6"><sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-5]: [AS 1989 1926](https://fedlex.data.admin.ch/eli/oc/1989/1926_1926_1926), [1990 1940](https://fedlex.data.admin.ch/eli/oc/1990/1940_1940_1940), [2003 372](https://fedlex.data.admin.ch/eli/oc/2003/77), [2007 4463](https://fedlex.data.admin.ch/eli/oc/2007/626), [2013 1597](https://fedlex.data.admin.ch/eli/oc/2013/372), [2015 181](https://fedlex.data.admin.ch/eli/oc/2015/21)und [2017 3731](https://fedlex.data.admin.ch/eli/oc/2017/434). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1989 1926](https://fedlex.data.admin.ch/eli/oc/1989/1926_1926_1926); [1990 1940](https://fedlex.data.admin.ch/eli/oc/1990/1940_1940_1940); [2003 372](https://fedlex.data.admin.ch/eli/oc/2003/77); [2007 4463](https://fedlex.data.admin.ch/eli/oc/2007/626); [2013 1597](https://fedlex.data.admin.ch/eli/oc/2013/372); [2015 181](https://fedlex.data.admin.ch/eli/oc/2015/21); [2017 3731](https://fedlex.data.admin.ch/eli/oc/2017/434); [2023 156](https://fedlex.data.admin.ch/eli/oc/2023/156). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty.
