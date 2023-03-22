@@ -3,11 +3,11 @@ sr: "0.747.356.11"
 title: "Protocole du 19 novembre 1976 de la Convention d'Athènes 1974 relative au transport par mer de passagers et de leurs bagages"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512"
 language: fr
-version: 2017-03-16
+version: 2023-03-23
 adopted: 1976-11-19
 in_force: 1989-04-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512/20170316/fr/xml/fedlex-data-admin-ch-eli-cc-1989-1512_1512_1512-20170316-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1512_1512_1512/20170316/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512/20230323/fr/xml/fedlex-data-admin-ch-eli-cc-1989-1512_1512_1512-20230323-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1512_1512_1512/20230323/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 15 décembre 1987
 
 Entré en vigueur pour la Suisse le 30 avril 1989
 
-(Etat le 16 mars 2017)
+(État le 23 mars 2023)
 
 [^t-1]: Art.1 al. l de l’AF du 20 mars 1987 ([RO 1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143)).
 
@@ -65,10 +65,10 @@ Aux fins du présent Protocole:
 
 Unité de compte ou unité monétaire et conversion
 
-- 1\. L’unité de compte mentionnée dans la présente Convention est le Droit de tirage spécial tel que défini par le Fonds monétaire international. Les montants mentionnés aux art. 7 et 8 sont convertis dans la monnaie nationale de l’Etat dont relève le tribunal saisi du litige sur la base de la valeur de cette monnaie à la date du jugement ou à la date adoptée d’un commun accord par les parties. La valeur, en Droit de tirage spécial, de la monnaie nationale d’un Etat qui est membre du Fonds monétaire international, est calculée selon la méthode d’évaluation appliquée par le Fonds monétaire international à la date en question pour ses propres opérations et transactions. La valeur, en Droit de tirage spécial, de la monnaie nationale d’un Etat qui n’est pas membre du Fonds monétaire international, est calculée de la façon déterminée par cet Etat.
+- 1\. L’unité de compte mentionnée dans la présente Convention est le Droit de tirage spécial tel que défini par le Fonds monétaire international. Les montants mentionnés aux art. 7 et 8 sont convertis dans la monnaie nationale de l’État dont relève le tribunal saisi du litige sur la base de la valeur de cette monnaie à la date du jugement ou à la date adoptée d’un commun accord par les parties. La valeur, en Droit de tirage spécial, de la monnaie nationale d’un État qui est membre du Fonds monétaire international, est calculée selon la méthode d’évaluation appliquée par le Fonds monétaire international à la date en question pour ses propres opérations et transactions. La valeur, en Droit de tirage spécial, de la monnaie nationale d’un État qui n’est pas membre du Fonds monétaire international, est calculée de la façon déterminée par cet État.
 - 2\.
 
-  Toutefois, un Etat qui n’est pas membre du Fonds monétaire international ou dont la législation ne permet pas d’appliquer les disposition du par. 1 du présent article peut, au moment de la ratification ou de l’adhésion, ou à tout moment par la suite, déclarer que les limites de la responsabilité prévues dans la présente Convention et applicables sur son territoire sont fixées de la manière suivante:
+  Toutefois, un État qui n’est pas membre du Fonds monétaire international ou dont la législation ne permet pas d’appliquer les disposition du par. 1 du présent article peut, au moment de la ratification ou de l’adhésion, ou à tout moment par la suite, déclarer que les limites de la responsabilité prévues dans la présente Convention et applicables sur son territoire sont fixées de la manière suivante:
 
   - a) en ce qui concerne le paragraphe 1 de l’art. 7, 700 000 unités monétaires;
   - b) en ce qui concerne le paragraphe 1 de l’art. 8, 12 500 unités monétaires;
@@ -76,20 +76,20 @@ Unité de compte ou unité monétaire et conversion
   - d) en ce qui concerne le paragraphe 3 de l’art. 8, 18 000 unités monétaires;
   - e) en ce qui concerne le par. 4 de l’art. 8, la franchise ne dépassera pas 1750 unités monétaires en cas de dommages causés à un véhicule et 200 unités monétaires par passager en cas de perte ou de dommages survenus à d’autre bagages.
 
-- L’unité monétaire visée dans le présent paragraphe correspond à soixante-cinq milligrammes et demi d’or au titre de neuf cent millièmes de fin. La conversion en monnaie nationale des montants indiqués dans le présent paragraphe s’effectue conformément à la législation de l’Etat en cause.
-- 3\. Le calcul mentionné à la dernière phrase du paragraphe 1 et la conversion mentionnée au par. 2 doivent être faits de façon à exprimer en monnaie nationale de l’Etat la même valeur réelle, dans la mesure du possible, que celle exprimée en unités de compte aux art. 7 et 8. Lors du dépôt d’un instrument visé à l’art. III et chaque fois qu’un changement se produit dans leur méthode de calcul ou dans la valeur de leur monnaie nationale par rapport à l’unité de compte ou à l’unité monétaire, les Etats communiquent au dépositaire leur méthode de calcul conformément au par. 1, ou les résultats de la conversion conformément au par. 2, selon le cas.
+- L’unité monétaire visée dans le présent paragraphe correspond à soixante-cinq milligrammes et demi d’or au titre de neuf cent millièmes de fin. La conversion en monnaie nationale des montants indiqués dans le présent paragraphe s’effectue conformément à la législation de l’État en cause.
+- 3\. Le calcul mentionné à la dernière phrase du paragraphe 1 et la conversion mentionnée au par. 2 doivent être faits de façon à exprimer en monnaie nationale de l’État la même valeur réelle, dans la mesure du possible, que celle exprimée en unités de compte aux art. 7 et 8. Lors du dépôt d’un instrument visé à l’art. III et chaque fois qu’un changement se produit dans leur méthode de calcul ou dans la valeur de leur monnaie nationale par rapport à l’unité de compte ou à l’unité monétaire, les États communiquent au dépositaire leur méthode de calcul conformément au par. 1, ou les résultats de la conversion conformément au par. 2, selon le cas.
 
 #### Art. III
 
 **Signature, ratification et adhésion**
 
-<sup>1.</sup> Le présent Protocole est ouvert à la signature de tout Etat qui a signé la Convention ou qui y a adhéré, et de tout Etat invité à participer à la Conférence chargée de réviser les dispositions relatives à l’unité de compte dans la Convention d’Athènes de 1974 relative au transport par mer de passagers et de leurs bagages, tenue à Londres du 17 au 19 novembre 1976. Le présent Protocole est ouvert à la signature du 1<sup>er</sup> février 1977 au 31 décembre 1977 au siège de l’Organisation.
+<sup>1.</sup> Le présent Protocole est ouvert à la signature de tout État qui a signé la Convention ou qui y a adhéré, et de tout État invité à participer à la Conférence chargée de réviser les dispositions relatives à l’unité de compte dans la Convention d’Athènes de 1974 relative au transport par mer de passagers et de leurs bagages, tenue à Londres du 17 au 19 novembre 1976. Le présent Protocole est ouvert à la signature du 1<sup>er</sup> février 1977 au 31 décembre 1977 au siège de l’Organisation.
 
-<sup>2.</sup> Sous réserve des dispositions du par. 4 du présent article, le présent Protocole est soumis à la ratification, à l’acceptation ou à l’approbation des Etats qui l’ont signé.
+<sup>2.</sup> Sous réserve des dispositions du par. 4 du présent article, le présent Protocole est soumis à la ratification, à l’acceptation ou à l’approbation des États qui l’ont signé.
 
-<sup>3.</sup> Sous réserve des dispositions du par. 4 du présent article, les Etats qui n’ont pas signé le présent Protocole peuvent y adhérer.
+<sup>3.</sup> Sous réserve des dispositions du par. 4 du présent article, les États qui n’ont pas signé le présent Protocole peuvent y adhérer.
 
-<sup>4.</sup> Les Etats Parties à la Convention peuvent ratifier, accepter ou approuver le présent Protocole, ou y adhérer.
+<sup>4.</sup> Les États Parties à la Convention peuvent ratifier, accepter ou approuver le présent Protocole, ou y adhérer.
 
 <sup>5.</sup> La ratification, l’acceptation, l’approbation ou l’adhésion s’effectuent par le dépôt d’un instrument en bonne et due forme à cet effet auprès du Secrétaire général.
 
@@ -99,11 +99,11 @@ Unité de compte ou unité monétaire et conversion
 
 **Entrée en vigueur**
 
-<sup>1.</sup> Le présent Protocole entre en vigueur à l’égard des Etats qui l’on ratifié, accepté ou approuvé, ou qui y ont adhéré, le quatre-vingt-dixième jour après la date à laquelle dix Etats, soit l’ont signé sans réserve quant à la ratification, l’acceptation ou l’approbation, soit ont déposé un instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
+<sup>1.</sup> Le présent Protocole entre en vigueur à l’égard des États qui l’on ratifié, accepté ou approuvé, ou qui y ont adhéré, le quatre-vingt-dixième jour après la date à laquelle dix États, soit l’ont signé sans réserve quant à la ratification, l’acceptation ou l’approbation, soit ont déposé un instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
 <sup>2.</sup> Toutefois, le présent Protocole ne peut entrer en vigueur avant l’entrée en vigueur de la Convention.
 
-<sup>3.</sup> Pour tout Etat qui ultérieurement signe le présent Protocole sans réserve quant à la ratification, l’acceptation ou l’approbation ou qui dépose un instrument de ratification, d’acceptation, d’approbation ou d’adhésion, le présent Protocole entre en vigueur le quatre-vingt-dixième jour après la date de la signature ou du dépôt.
+<sup>3.</sup> Pour tout État qui ultérieurement signe le présent Protocole sans réserve quant à la ratification, l’acceptation ou l’approbation ou qui dépose un instrument de ratification, d’acceptation, d’approbation ou d’adhésion, le présent Protocole entre en vigueur le quatre-vingt-dixième jour après la date de la signature ou du dépôt.
 
 #### Art. V
 
@@ -135,14 +135,14 @@ Le Secrétaire général:
 
 - a)
 
-  informe tous les Etats qui ont signé le Protocole ou y ont adhéré:
+  informe tous les États qui ont signé le Protocole ou y ont adhéré:
 
   - i) de toute signature nouvelle et de tout dépôt d’instrument, ainsi que de la date à laquelle cette signature ou ce dépôt sont intervenus;
   - ii) de la date d’entrée en vigueur du présent Protocole;
   - iii) du dépôt de tout instrument de dénonciation du présent Protocole, ainsi que de la date à laquelle la dénonciation prend effet;
   - iv) de tout amendement au présent Protocole;
 
-- b) transmet des copies certifiées conformes du présent Protocole à tous les Etats qui ont signé le présent Protocole ou y ont adhéré.
+- b) transmet des copies certifiées conformes du présent Protocole à tous les États qui ont signé le présent Protocole ou y ont adhéré.
 
 <sup>3.</sup> Dès l’entrée en vigueur du présent Protocole, le Secrétaire général en transmet une copie certifiée conforme au Secrétariat de l’Organisation des Nations Unies en vue de son enregistrement et de sa publication conformément à l’Article 102 de la Charte des Nations Unies[^VII-1].
 
@@ -156,34 +156,32 @@ Le présent Protocole est établi en un seul exemplaire original en langues angl
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Londres ce dix-neuf novembre mil neuf cent soixante-seize. (Suivent les signatures)
 
-Champ d’application le 16 mars 2017**[^t-2]**
+Champ d’application le 23 mars 2023[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Arabie Saoudite</td><td>25 janvier</td><td>2019 A</td><td>25 avril</td><td>2019</td></tr>
 <tr><td>Argentine</td><td>28 avril</td><td>1987 A</td><td>30 avril</td><td>1989</td></tr>
 <tr><td>Bahamas</td><td>28 avril</td><td>1987 A</td><td>30 avril</td><td>1989</td></tr>
 <tr><td>Barbade</td><td>6 mai</td><td>1994 A</td><td>4 août</td><td>1994</td></tr>
-<tr><td>Chine\*</td><td>1<sup>er</sup> juin</td><td>1994</td><td>30 août</td><td>1994</td></tr>
+<tr><td>Chine\*</td><td>1<sup>er</sup> juin</td><td>1994 A</td><td>30 août</td><td>1994</td></tr>
 <tr><td>[tab] Hong Kong <sup>a</sup></td><td>5 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>[tab] Macao</td><td>24 juin</td><td>2005</td><td>24 juin</td><td>2005</td></tr>
 <tr><td>Dominique</td><td>31 août</td><td>2001 A</td><td>29 novembre</td><td>2001</td></tr>
 <tr><td>Estonie</td><td>8 octobre</td><td>2002 A</td><td>6 janvier</td><td>2003</td></tr>
-<tr><td>Géorgie</td><td>25 août</td><td>1995 A</td><td>23 novembre</td><td>1995</td></tr>
 <tr><td>Libéria</td><td>28 avril</td><td>1987 A</td><td>30 avril</td><td>1989</td></tr>
 <tr><td>Libye</td><td>8 novembre</td><td>2012 A</td><td>6 février</td><td>2013</td></tr>
 <tr><td>Luxembourg</td><td>14 février</td><td>1991 A</td><td>15 mai</td><td>1991</td></tr>
 <tr><td>Pologne</td><td>28 avril</td><td>1987 A</td><td>30 avril</td><td>1989</td></tr>
-<tr><td>Russie\*</td><td>30 janvier</td><td>1989 A</td><td>30 avril</td><td>1989</td></tr>
 <tr><td>Suisse\*</td><td>15 décembre</td><td>1987 A</td><td>30 avril</td><td>1989</td></tr>
 <tr><td>Tonga</td><td>18 septembre</td><td>2003 A</td><td>17 décembre</td><td>2003</td></tr>
 <tr><td>Ukraine</td><td>11 novembre</td><td>1994 A</td><td>9 février</td><td>1995</td></tr>
 <tr><td>Vanuatu</td><td>13 janvier</td><td>1989 A</td><td>30 avril</td><td>1989</td></tr>
 <tr><td>Yémen</td><td>28 avril</td><td>1987 A</td><td>30 avril</td><td>1989</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation maritime internationale (OMI): www.imo.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Du 30 avril 1989 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 30 avril 1989 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
 </table>
 
-[^t-2]: [RO 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512), [2005 1309](https://fedlex.data.admin.ch/eli/oc/2005/197), [2007 4411](https://fedlex.data.admin.ch/eli/oc/2007/608), [2014 861](https://fedlex.data.admin.ch/eli/oc/2014/181), [2017 2285](https://fedlex.data.admin.ch/eli/oc/2017/211). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512); [2005 1309](https://fedlex.data.admin.ch/eli/oc/2005/197); [2007 4411](https://fedlex.data.admin.ch/eli/oc/2007/608); [2014 861](https://fedlex.data.admin.ch/eli/oc/2014/181); [2017 2285](https://fedlex.data.admin.ch/eli/oc/2017/211); [2023 158](https://fedlex.data.admin.ch/eli/oc/2023/158). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclarations
 
@@ -191,4 +189,4 @@ Suisse
 
 Le Conseil fédéral suisse déclare, en se référant à l’art. 9, par. 1 et 3, de la Convention d’Athènes de 1974 relative au transport par mer de passagers et de leurs bagages, introduits par l’art. II du Protocole du 19 novembre 1976, que la Suisse calcule de la manière suivante la valeur, en droit de tirage spécial (DTS), de sa monnaie nationale:
 
-La Banque nationale suisse (BNS) communique chaque jour au Fonds monétaire international (FMI) le cours moyen du dollar des Etats-Unis d’Amérique sur le marché des changes de Zurich. La contre-valeur en francs suisses d’un DTS est déterminée d’après ce cours du dollar et le cours en dollars du DTS, calculé par le FMI. Se fondant sur ces valeurs, la BNS calcule un cours moyen du DTS qu’elle publiera dans son Bulletin mensuel.
+La Banque nationale suisse (BNS) communique chaque jour au Fonds monétaire international (FMI) le cours moyen du dollar des États-Unis d’Amérique sur le marché des changes de Zurich. La contre-valeur en francs suisses d’un DTS est déterminée d’après ce cours du dollar et le cours en dollars du DTS, calculé par le FMI. Se fondant sur ces valeurs, la BNS calcule un cours moyen du DTS qu’elle publiera dans son Bulletin mensuel.

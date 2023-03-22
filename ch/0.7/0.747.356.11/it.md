@@ -3,25 +3,24 @@ sr: "0.747.356.11"
 title: "Protocollo del 19 novembre 1976 della Convenzione d'Atene del 1974 relativa al trasporto per mare di passeggeri e dei loro bagagli"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512"
 language: it
-version: 2017-03-16
+version: 2023-03-23
 adopted: 1976-11-19
 in_force: 1989-04-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512/20170316/it/xml/fedlex-data-admin-ch-eli-cc-1989-1512_1512_1512-20170316-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1512_1512_1512/20170316/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512/20230323/it/xml/fedlex-data-admin-ch-eli-cc-1989-1512_1512_1512-20230323-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1512_1512_1512/20230323/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Protocollo della Convenzione d’Atene del 1974 relativa al trasporto per mare di passeggeri e dei loro bagagli
 
-Traduzione*[^t-1]*
+Traduzione
 
-Concluso a Londra il 19 novembre 1976 Approvato dall’Assemblea federale il 20 marzo 1987[^t-2] Strumento d’adesione depositato dalla Svizzera il 15 dicembre 1987 Entrato in vigore per la Svizzera il 30 aprile 1989
+Concluso a Londra il 19 novembre 1976 Approvato dall’Assemblea federale il 20 marzo 1987[^t-1] Strumento d’adesione depositato dalla Svizzera il 15 dicembre 1987 Entrato in vigore per la Svizzera il 30 aprile 1989
 
-(Stato 16 marzo 2017)
+(Stato 23 marzo 2023)
 
-[^t-1]: RU **1989** 1512; FF **1986** II 541 Dal testo originale francese.
-[^t-2]: [RU 1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143)
+[^t-1]: RU **1989** 1512; FF **1986** II 541 RU **1988** 1143
 
 Le Parti del presente Protocollo,
 
@@ -156,34 +155,33 @@ Fatto a Londra il 19 novembre 1976
 
 *(Seguono le firme)*
 
-Campo d’applicazione il 16 marzo 2017**[^t-3]**
+Campo d’applicazione il 23 marzo 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Arabia Saudita</td><td>25 gennaio</td><td>2019 A</td><td>25 aprile</td><td>2019</td></tr>
 <tr><td>Argentina</td><td>28 aprile</td><td>1987 A</td><td>30 aprile</td><td>1989</td></tr>
 <tr><td>Bahamas</td><td>28 aprile</td><td>1987 A</td><td>30 aprile</td><td>1989</td></tr>
 <tr><td>Barbados</td><td>6 maggio</td><td>1994 A</td><td>4 agosto</td><td>1994</td></tr>
 <tr><td>Cina<sup>\*</sup></td><td>1° giugno</td><td>1994 A</td><td>30 agosto</td><td>1994</td></tr>
-<tr><td>Hong Kong<sup>a</sup></td><td>5 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>Hong Kong <sup>a</sup></td><td>5 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
 <tr><td>Macao</td><td>24 giugno</td><td>2005</td><td>24 giugno</td><td>2005</td></tr>
 <tr><td>Dominica</td><td>31 agosto</td><td>2001 A</td><td>29 novembre</td><td>2001</td></tr>
 <tr><td>Estonia</td><td>8 ottobre</td><td>2002 A</td><td>6 gennaio</td><td>2003</td></tr>
-<tr><td>Georgia</td><td>25 agosto</td><td>1995 A</td><td>23 novembre</td><td>1995</td></tr>
 <tr><td>Liberia</td><td>28 aprile</td><td>1987 A</td><td>30 aprile</td><td>1989</td></tr>
 <tr><td>Libia</td><td>8 novembre</td><td>2012 A</td><td>6 febbraio</td><td>2013</td></tr>
 <tr><td>Lussemburgo</td><td>14 febbraio</td><td>1991 A</td><td>15 maggio</td><td>1991</td></tr>
 <tr><td>Polonia</td><td>28 aprile</td><td>1987 A</td><td>30 aprile</td><td>1989</td></tr>
-<tr><td>Russia<sup>\*</sup></td><td>30 gennaio</td><td>1989 A</td><td>30 aprile</td><td>1989</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>15 dicembre</td><td>1987 A</td><td>30 aprile</td><td>1989</td></tr>
 <tr><td>Tonga</td><td>18 settembre</td><td>2003 A</td><td>17 dicembre</td><td>2003</td></tr>
 <tr><td>Ucraina</td><td>11 novembre</td><td>1994 A</td><td>9 febbraio</td><td>1995</td></tr>
 <tr><td>Vanuatu</td><td>13 gennaio</td><td>1989 A</td><td>30 aprile</td><td>1989</td></tr>
 <tr><td>Yemen</td><td>28 aprile</td><td>1987 A</td><td>30 aprile</td><td>1989</td></tr>
-<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. I testi inglesi possono essere consultati sul sito Internet dell’Organizzazione internazionale marittima (IMO): www.imo.org ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi in inglese possono essere consultati sul Internet dell’Organizzazione internazionale marittima (IMO): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna</td></tr>
 <tr><td colspan="6"><sup>a</sup> Dal 28 apr. 1987 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base ad una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 5 giu. 1997 la Conv. è applicabile dal 1° lug. 1997 anche alla RAS di Hong Kong.</td></tr>
 </table>
 
-[^t-3]: [RU 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512), [2005 1309](https://fedlex.data.admin.ch/eli/oc/2005/197), [2007 4411](https://fedlex.data.admin.ch/eli/oc/2007/608), [2014 861](https://fedlex.data.admin.ch/eli/oc/2014/181)e [2017 2285](https://fedlex.data.admin.ch/eli/oc/2017/211). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512); [2005 1309](https://fedlex.data.admin.ch/eli/oc/2005/197); [2007 4411](https://fedlex.data.admin.ch/eli/oc/2007/608); [2014 861](https://fedlex.data.admin.ch/eli/oc/2014/181); [2017 2285](https://fedlex.data.admin.ch/eli/oc/2017/211); [2023 158](https://fedlex.data.admin.ch/eli/oc/2023/158). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
 
 Riserve e dichiarazioni
 

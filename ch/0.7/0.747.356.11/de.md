@@ -3,25 +3,26 @@ sr: "0.747.356.11"
 title: Protokoll vom 19. November 1976 zum Athener Übereinkommen von 1974 über die Beförderung von Reisenden und ihrem Gepäck auf See
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512"
 language: de
-version: 2017-03-16
+version: 2023-03-23
 adopted: 1976-11-19
 in_force: 1989-04-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512/20170316/de/xml/fedlex-data-admin-ch-eli-cc-1989-1512_1512_1512-20170316-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1512_1512_1512/20170316/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512/20230323/de/xml/fedlex-data-admin-ch-eli-cc-1989-1512_1512_1512-20230323-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1512_1512_1512/20230323/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Protokoll zum Athener Übereinkommen von 1974 über die Beförderung von Reisenden und ihrem Gepäck auf See
 
-Übersetzung*[^t-1]*
+AS **1989** 1512; BBl **1986** II 717
 
-Abgeschlossen in London am 19. November 1976 Von der Bundesversammlung genehmigt am 20. März 1987[^t-2] Schweizerische Beitrittsurkunde hinterlegt am 15. Dezember 1987 In Kraft getreten für die Schweiz am 30. April 1989
+Übersetzung
 
-(Stand am 16. März 2017)
+Abgeschlossen in London am 19. November 1976 Von der Bundesversammlung genehmigt am 20. März 1987[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 15. Dezember 1987 In Kraft getreten für die Schweiz am 30. April 1989
 
-[^t-1]: AS **1989** 1512; BBl **1986** II 717 Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: [AS 1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143)
+(Stand am 23. März 2023)
+
+[^t-1]: [AS 1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143)
 
 Die Vertragsparteien dieses Protokolls,
 
@@ -152,7 +153,7 @@ Geschehen zu London am 19. November 1976.
 
 *(Es folgen die Unterschriften)*
 
-Geltungsbereich am 16. März 2017**[^t-3]**
+Geltungsbereich am 23. März 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -164,22 +165,21 @@ Geltungsbereich am 16. März 2017**[^t-3]**
 <tr><td>[tab] Macau</td><td>24. Juni</td><td>2005</td><td>24. Juni</td><td colspan="2">2005</td></tr>
 <tr><td>Dominica</td><td>31. August</td><td>2001 B</td><td>29. November</td><td colspan="2">2001</td></tr>
 <tr><td>Estland</td><td>8. Oktober</td><td>2002 B</td><td>6. Januar</td><td colspan="2">2003</td></tr>
-<tr><td>Georgien</td><td>25. August</td><td>1995 B</td><td>23. November</td><td colspan="2">1995</td></tr>
 <tr><td>Jemen</td><td>28. April</td><td>1987 B</td><td>30. April</td><td colspan="2">1989</td></tr>
 <tr><td>Liberia</td><td>28. April</td><td>1987 B</td><td>30. April</td><td colspan="2">1989</td></tr>
 <tr><td>Libyen</td><td>8. November</td><td>2012 B</td><td>6. Februar</td><td colspan="2">2013</td></tr>
 <tr><td>Luxemburg</td><td>14. Februar</td><td>1991 B</td><td>15. Mai</td><td colspan="2">1991</td></tr>
 <tr><td>Polen</td><td>28. April</td><td>1987 B</td><td>30. April</td><td colspan="2">1989</td></tr>
-<tr><td>Russland\*</td><td>30. Januar</td><td>1989 B</td><td>30. April</td><td colspan="2">1989</td></tr>
+<tr><td>Saudi-Arabien</td><td>25. Januar</td><td>2019 B</td><td>25. April</td><td colspan="2">2019</td></tr>
 <tr><td>Schweiz\*</td><td>15. Dezember</td><td>1987 B</td><td>30. April</td><td colspan="2">1989</td></tr>
 <tr><td>Tonga</td><td>18. September</td><td>2003 B</td><td>17. Dezember</td><td colspan="2">2003</td></tr>
 <tr><td>Ukraine</td><td>11. November</td><td>1994 B</td><td>9. Februar</td><td colspan="2">1995</td></tr>
 <tr><td>Vanuatu</td><td>13. Januar</td><td>1989 B</td><td>30. April</td><td colspan="2">1989</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-3]: [AS 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512), [2005 1309](https://fedlex.data.admin.ch/eli/oc/2005/197), [2007 4411](https://fedlex.data.admin.ch/eli/oc/2007/608), [2014 861](https://fedlex.data.admin.ch/eli/oc/2014/181)und [2017 2285](https://fedlex.data.admin.ch/eli/oc/2017/211). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512); [2005 1309](https://fedlex.data.admin.ch/eli/oc/2005/197); [2007 4411](https://fedlex.data.admin.ch/eli/oc/2007/608); [2014 861](https://fedlex.data.admin.ch/eli/oc/2014/181); [2017 2285](https://fedlex.data.admin.ch/eli/oc/2017/211); [2023 158](https://fedlex.data.admin.ch/eli/oc/2023/158). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty.
 
 Erklärungen
 
