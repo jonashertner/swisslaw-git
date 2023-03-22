@@ -3,11 +3,11 @@ sr: "0.747.712"
 title: Protocollo del 2005 del 14 ottobre 2005 relativo alla Convenzione per la repressione di atti illeciti contro la sicurezza della navigazione marittima
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/459"
 language: it
-version: 2020-06-11
+version: 2023-03-23
 adopted: 2005-10-14
 in_force: 2010-07-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/459/20200611/it/xml/fedlex-data-admin-ch-eli-cc-2010-459-20200611-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/459/20200611/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/459/20230323/it/xml/fedlex-data-admin-ch-eli-cc-2010-459-20230323-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/459/20230323/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2010** 3355; FF **2008** 985
 
 Traduzione
 
-Concluso a Londra il 14 ottobre 2005
+Concluso a Londra il 14 ottobre 2005 Approvato dall’Assemblea federale il 13 giugno 2008[^t-1] Strumento di ratifica depositato il 15 ottobre 2008 Entrato in vigore per la Svizzera il 28 luglio 2010
 
-Approvato dall’Assemblea federale il 13 giugno 2008[^t-1]
-
-Strumento di ratifica depositato il 15 ottobre 2008
-
-Entrato in vigore per la Svizzera il 28 luglio 2010
-
-(Stato 11 giugno 2020)
+(Stato 23 marzo 2023)
 
 [^t-1]: [RU 2010 3353](https://fedlex.data.admin.ch/eli/oc/2010/458)
 
@@ -596,7 +590,7 @@ Fatto a Londra il quattordici ottobre due mila cinque.
 
 (Seguono le firme)
 
-Campo d’applicazione l’11 giugno 2020**[^t-2]**
+Campo d’applicazione il 23 marzo 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -608,13 +602,13 @@ Campo d’applicazione l’11 giugno 2020**[^t-2]**
 <tr><td>Benin</td><td>28 giugno</td><td>2018 A</td><td>26 settembre</td><td>2018</td></tr>
 <tr><td>Bulgaria</td><td>7 ottobre</td><td>2010</td><td>5 gennaio</td><td>2011</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>28 maggio</td><td>2015 A</td><td>26 agosto</td><td>2015</td></tr>
-<tr><td>Cook, Isole</td><td>12 marzo</td><td>2007 A</td><td>28 luglio</td><td>2010</td></tr>
 <tr><td>Côte d’Ivoire</td><td>23 marzo</td><td>2012 A</td><td>21 giugno</td><td>2012</td></tr>
 <tr><td>Cuba</td><td>10 aprile</td><td>2014 A</td><td>9 luglio</td><td>2014</td></tr>
 <tr><td>Danimarca\* <sup>a</sup></td><td>14 settembre</td><td>2018</td><td>13 dicembre</td><td>2018</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>9 marzo</td><td>2010 A</td><td>28 luglio</td><td>2010</td></tr>
 <tr><td>Estonia</td><td>16 maggio</td><td>2008</td><td>28 luglio</td><td>2010</td></tr>
 <tr><td>Figi</td><td>21 maggio</td><td>2008 A</td><td>28 luglio</td><td>2010</td></tr>
+<tr><td>Finlandia</td><td>26 maggio</td><td>2020</td><td>24 agosto</td><td>2020</td></tr>
 <tr><td>Francia\*</td><td>9 maggio</td><td>2018</td><td>7 agosto</td><td>2018</td></tr>
 <tr><td>Germania</td><td>29 gennaio</td><td>2016 A</td><td>28 aprile</td><td>2016</td></tr>
 <tr><td>Ghana</td><td>18 novembre</td><td>2019 A</td><td>16 febbraio</td><td>2020</td></tr>
@@ -622,6 +616,7 @@ Campo d’applicazione l’11 giugno 2020**[^t-2]**
 <tr><td>Gibuti</td><td>23 aprile</td><td>2014 A</td><td>22 luglio</td><td>2014</td></tr>
 <tr><td>Grecia</td><td>11 settembre</td><td>2013</td><td>10 dicembre</td><td>2013</td></tr>
 <tr><td>Guyana</td><td>20 febbraio</td><td>2019 A</td><td>21 maggio</td><td>2019</td></tr>
+<tr><td>Iraq</td><td>19 luglio</td><td>2021 A</td><td>17 ottobre</td><td>2021</td></tr>
 <tr><td>Lettonia</td><td>16 novembre</td><td>2009 A</td><td>28 luglio</td><td>2010</td></tr>
 <tr><td>Liechtenstein</td><td>28 agosto</td><td>2009 A</td><td>28 luglio</td><td>2010</td></tr>
 <tr><td>Marshall, Isole</td><td>9 maggio</td><td>2008 A</td><td>28 luglio</td><td>2010</td></tr>
@@ -631,6 +626,7 @@ Campo d’applicazione l’11 giugno 2020**[^t-2]**
 <tr><td>Nigeria</td><td>18 giugno</td><td>2015 A</td><td>16 settembre</td><td>2015</td></tr>
 <tr><td>Norvegia</td><td>30 settembre</td><td>2013</td><td>29 dicembre</td><td>2013</td></tr>
 <tr><td>Nuova Zelanda</td><td>26 febbraio</td><td>2018</td><td>27 maggio</td><td>2018</td></tr>
+<tr><td>Cook, Isole</td><td>12 marzo</td><td>2007 A</td><td>28 luglio</td><td>2010</td></tr>
 <tr><td>Tokelau</td><td>26 febbraio</td><td>2018</td><td>27 maggio</td><td>2018</td></tr>
 <tr><td>Paesi Bassi <sup>b</sup></td><td>1° marzo</td><td>2011</td><td>30 maggio</td><td>2011</td></tr>
 <tr><td>Palau</td><td>29 settembre</td><td>2011 A</td><td>28 dicembre</td><td>2011</td></tr>
@@ -655,7 +651,7 @@ Campo d’applicazione l’11 giugno 2020**[^t-2]**
 <tr><td colspan="5"><sup>b</sup> Per il Regno in Europa e la parte caraibica dei Paesi Bassi (Bonaire, Sint Eustatius e Saba).</td></tr>
 </table>
 
-[^t-2]: [RU 2010 3355](https://fedlex.data.admin.ch/eli/oc/2010/459), [2011 3823](https://fedlex.data.admin.ch/eli/oc/2011/544), [2014 769](https://fedlex.data.admin.ch/eli/oc/2014/169), [2015 2933](https://fedlex.data.admin.ch/eli/oc/2015/550), [2016 3009](https://fedlex.data.admin.ch/eli/oc/2016/509), [2019 2461](https://fedlex.data.admin.ch/eli/oc/2019/456)e [2020 2725](https://fedlex.data.admin.ch/eli/oc/2020/491). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2010 3355](https://fedlex.data.admin.ch/eli/oc/2010/459); [2011 3823](https://fedlex.data.admin.ch/eli/oc/2011/544); [2014 769](https://fedlex.data.admin.ch/eli/oc/2014/169); [2015 2933](https://fedlex.data.admin.ch/eli/oc/2015/550); [2016 3009](https://fedlex.data.admin.ch/eli/oc/2016/509); [2019 2461](https://fedlex.data.admin.ch/eli/oc/2019/456); [2020 2725](https://fedlex.data.admin.ch/eli/oc/2020/491), [2023 165](https://fedlex.data.admin.ch/eli/oc/2023/165). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
 
 Dichiarazione
 

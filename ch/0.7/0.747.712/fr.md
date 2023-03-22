@@ -3,11 +3,11 @@ sr: "0.747.712"
 title: "Protocole de 2005 du 14 octobre 2005 relatif à la Convention pour la répression d'actes illicites contre la sécurité de la navigation maritime"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/459"
 language: fr
-version: 2020-06-11
+version: 2023-03-23
 adopted: 2005-10-14
 in_force: 2010-07-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/459/20200611/fr/xml/fedlex-data-admin-ch-eli-cc-2010-459-20200611-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/459/20200611/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/459/20230323/fr/xml/fedlex-data-admin-ch-eli-cc-2010-459-20230323-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/459/20230323/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 15 octobre 2008
 
 Entré en vigueur pour la Suisse le 28 juillet 2010
 
-(Etat le 11 juin 2020)
+(État le 23 mars 2023)
 
 [^t-1]: [RO 2010 3353](https://fedlex.data.admin.ch/eli/oc/2010/458)
 
@@ -597,7 +597,7 @@ Fait à Londres, ce quatorze octobre deux mille cinq.
 
 (Suivent les signatures)
 
-Champ d’application le 11 juin 2020**[^t-2]**
+Champ d’application le 23 mars 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -618,12 +618,13 @@ Champ d’application le 11 juin 2020**[^t-2]**
 <tr><td>Estonie</td><td>16 mai</td><td>2008</td><td>28 juillet</td><td>2010</td></tr>
 <tr><td>États-Unis</td><td>28 août</td><td>2015</td><td>26 novembre</td><td>2015</td></tr>
 <tr><td>Fidji</td><td>21 mai</td><td>2008 A</td><td>28 juillet</td><td>2010</td></tr>
+<tr><td>Finlande</td><td>26 mai</td><td>2020</td><td>24 août</td><td>2020</td></tr>
 <tr><td>France\*</td><td>9 mai</td><td>2018</td><td>7 août</td><td>2018</td></tr>
 <tr><td>Ghana</td><td>18 novembre</td><td>2019 A</td><td>16 février</td><td>2020</td></tr>
 <tr><td>Grèce</td><td>11 septembre</td><td>2013</td><td>10 décembre</td><td>2013</td></tr>
 <tr><td>Guyana</td><td>20 février</td><td>2019 A</td><td>21 mai</td><td>2019</td></tr>
-<tr><td>Îles Cook</td><td>12 mars</td><td>2007 A</td><td>28 juillet</td><td>2010</td></tr>
 <tr><td>Îles Marshall</td><td>9 mai</td><td>2008 A</td><td>28 juillet</td><td>2010</td></tr>
+<tr><td>Iraq</td><td>19 juillet</td><td>2021 A</td><td>17 octobre</td><td>2021</td></tr>
 <tr><td>Jamaïque</td><td>28 novembre</td><td>2013 A</td><td>26 février</td><td>2014</td></tr>
 <tr><td>Lettonie</td><td>16 novembre</td><td>2009 A</td><td>28 juillet</td><td>2010</td></tr>
 <tr><td>Liechtenstein</td><td>28 août</td><td>2009 A</td><td>28 juillet</td><td>2010</td></tr>
@@ -633,6 +634,7 @@ Champ d’application le 11 juin 2020**[^t-2]**
 <tr><td>Nigéria</td><td>18 juin</td><td>2015 A</td><td>16 septembre</td><td>2015</td></tr>
 <tr><td>Norvège</td><td>30 septembre</td><td>2013</td><td>29 décembre</td><td>2013</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>26 février</td><td>2018</td><td>27 mai</td><td>2018</td></tr>
+<tr><td>Îles Cook</td><td>12 mars</td><td>2007 A</td><td>28 juillet</td><td>2010</td></tr>
 <tr><td>Tokelau</td><td>26 février</td><td>2018</td><td>27 mai</td><td>2018</td></tr>
 <tr><td>Palaos</td><td>29 septembre</td><td>2011 A</td><td>28 décembre</td><td>2011</td></tr>
 <tr><td>Panama</td><td>24 février</td><td>2011 A</td><td>25 mai</td><td>2011</td></tr>
@@ -654,7 +656,7 @@ Champ d’application le 11 juin 2020**[^t-2]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org/ &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique ni aux Îles Féroé ni au Groënland. <sup>b</sup> Pour le Royaume en Europe et la partie caribienne des Pays-Bas (Bonaire, Sint Eustatius et Saba).</td></tr>
 </table>
 
-[^t-2]: RO **2010** 3376, [2011 3823](https://fedlex.data.admin.ch/eli/oc/2011/544), [2014 769](https://fedlex.data.admin.ch/eli/oc/2014/169), [2015 2933](https://fedlex.data.admin.ch/eli/oc/2015/550), [2016 3009](https://fedlex.data.admin.ch/eli/oc/2016/509), [2019 2461](https://fedlex.data.admin.ch/eli/oc/2019/456), [2020 2725](https://fedlex.data.admin.ch/eli/oc/2020/491). Une version du champ d’application mise à jour est publiée sur le site we b du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: RO **2010** 3376; [2011 3823](https://fedlex.data.admin.ch/eli/oc/2011/544); [2014 769](https://fedlex.data.admin.ch/eli/oc/2014/169); [2015 2933](https://fedlex.data.admin.ch/eli/oc/2015/550); [2016 3009](https://fedlex.data.admin.ch/eli/oc/2016/509); [2019 2461](https://fedlex.data.admin.ch/eli/oc/2019/456); [2020 2725](https://fedlex.data.admin.ch/eli/oc/2020/491); [2023 165](https://fedlex.data.admin.ch/eli/oc/2023/165). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Déclaration
 
