@@ -3,16 +3,16 @@ sr: "0.747.356.1"
 title: "Convention d'Athènes de 1974 relative au transport par mer de passagers et de leurs bagages, du 13 décembre 1974"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1144_1144_1144"
 language: fr
-version: 2017-03-16
+version: 2023-03-23
 adopted: 1974-12-13
 in_force: 1988-03-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1144_1144_1144/20170316/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1144_1144_1144-20170316-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1144_1144_1144/20170316/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1144_1144_1144/20230323/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1144_1144_1144-20230323-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1144_1144_1144/20230323/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention d’Athènes de 1974 relative au transport par mer de passagers et de leurs bagages****
+# Convention d’Athènes de 1974 relative au transport par mer de passagers et de leurs bagages
 
 RO **1988** 1144; FF **1986** II 741[^t-1]
 
@@ -26,12 +26,12 @@ Instrument de ratification déposé par la Suisse le 15 décembre 1987
 
 Entrée en vigueur pour la Suisse le 14 mars 1988
 
-(Etat le 16 mars 2017)
+(État le 23 mars 2023)
 
 [^t-1]: Les Am. du 19 nov. 1976 ([RS 0.747.356.11](https://fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512); [RO 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512)) sont insérés dans le présent texte. Ces Am. ne régissent que les rapports entre les Etats les ayant ratifés. Voir par conséquent leur propre champ d’application.
 [^t-2]: [RO 1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143)
 
-Les Etats parties à la présente Convention,
+Les États parties à la présente Convention,
 
 ayant reconnu l’utilité de fixer d’un commun accord certaines règles en matière de transport par mer de passagers et de leurs bagages,
 
@@ -76,7 +76,7 @@ Dans la présente convention, les termes suivants sont employés dans le sens in
 - b) en ce qui concerne les bagages de cabine, également la période pendant laquelle le passager se trouve dans une gare maritime ou sur un quai ou autre installation portuaire si ces bagages ont été pris en charge par le transporteur ou son préposé ou mandataire et n’ont pas encore été rendus au passager;
 - c) en ce qui concerne les autres bagages qui ne sont pas des bagages de cabine, la période comprise entre le moment où ils ont été pris en charge par le transporteur ou son préposé ou mandataire, à terre ou à bord, et le moment où ils ont été rendus par le transporteur, son préposé ou son mandataire;
 
-<sup>9.</sup> «transport international» signifie tout transport dont le lieu de départ et le lieu de destination sont, selon le contrat de transport, situés dans deux Etats différents ou dans un seul Etat si, selon le contrat de transport ou l’itinéraire prévu, il y a un port d’escale intermédiaire dans un autre Etat;
+<sup>9.</sup> «transport international» signifie tout transport dont le lieu de départ et le lieu de destination sont, selon le contrat de transport, situés dans deux États différents ou dans un seul État si, selon le contrat de transport ou l’itinéraire prévu, il y a un port d’escale intermédiaire dans un autre État;
 
 <sup>10.</sup> «Organisation» désigne l’Organisation[^1-1] intergouvernementale consultative de la navigation maritime.
 
@@ -90,9 +90,9 @@ Dans la présente convention, les termes suivants sont employés dans le sens in
 
 La présente Convention s’applique à tout transport international lorsque:
 
-- a) le navire bat le pavillon d’un Etat partie à la présente Convention ou est immatriculé dans un tel Etat, ou
-- b) le contrat de transport a été conclu dans un Etat partie à la présente Convention, ou
-- c) selon le contrat de transport, le lieu de départ ou de destination se trouve dans un Etat partie à la présente Convention.
+- a) le navire bat le pavillon d’un État partie à la présente Convention ou est immatriculé dans un tel État, ou
+- b) le contrat de transport a été conclu dans un État partie à la présente Convention, ou
+- c) selon le contrat de transport, le lieu de départ ou de destination se trouve dans un État partie à la présente Convention.
 
 <sup>2.</sup> Nonobstant les dispositions du par. 1 du présent article, la présente Convention ne s’applique pas lorsque le transport est soumis à un régime de responsabilité civile prévu par les dispositions de toute autre convention internationale sur le transport de passagers ou de bagages par un mode de transport différent, pour autant que ces dispositions doivent être appliquées au transport par mer.
 
@@ -138,7 +138,7 @@ Si le transporteur établit que la mort ou les lésions corporelles du passager,
 
 1.[^7-1] La responsabilité du transporteur en cas de mort ou de lésions corporelles d’un passager est limitée, dans tous les cas, à 46 666 unités de compte par transport. Si, d’après la loi du tribunal saisi, l’indemnité peut être fixée sous forme de rente, le capital de la rente ne peut dépasser cette limite.
 
-<sup>2.</sup> Nonobstant les dispositions du par. 1 du présent article, la législation nationale de tout Etat partie à la présente convention peut fixer, pour les transporteurs qui sont ses ressortissants, une limite de responsabilité per capita plus élevée.
+<sup>2.</sup> Nonobstant les dispositions du par. 1 du présent article, la législation nationale de tout État partie à la présente convention peut fixer, pour les transporteurs qui sont ses ressortissants, une limite de responsabilité per capita plus élevée.
 
 [^7-1]: Nouvelle teneur selon l’art. II par. 1 du Prot. du 19 nov. 1976, approuvé par l’Ass. féd. le 20 mars 1987 et en vigueur pour la Suisse depuis le 30 avril 1989 ([RO 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512), [1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143); [FF 1986 II 741](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
@@ -160,11 +160,11 @@ Si le transporteur établit que la mort ou les lésions corporelles du passager,
 
 **Unité de compte ou unité monétaire et conversion**[^9-1]
 
-<sup>1.</sup> L’unité de compte mentionnée dans la présente Convention est le Droit de tirage spécial tel que défini par le Fonds monétaire international. Les montants mentionnés aux art. 7 et 8 sont convertis dans la monnaie nationale de l’Etat dont relève le tribunal saisi du litige sur la base de la valeur de cette monnaie à la date du jugement ou à la date adoptée d’un commun accord par les parties. La valeur, en Droit de tirage spécial, de la monnaie nationale d’un Etat qui est membre du Fonds monétaire international, est calculée selon la méthode d’évaluation appliquée par le Fonds monétaire international à la date en question pour ses propres opérations et transactions. La valeur, en Droit de tirage spécial, de la monnaie nationale d’un Etat qui n’est pas membre du Fonds monétaire international, est calculée de la façon déterminée par cet Etat.
+<sup>1.</sup> L’unité de compte mentionnée dans la présente Convention est le Droit de tirage spécial tel que défini par le Fonds monétaire international. Les montants mentionnés aux art. 7 et 8 sont convertis dans la monnaie nationale de l’État dont relève le tribunal saisi du litige sur la base de la valeur de cette monnaie à la date du jugement ou à la date adoptée d’un commun accord par les parties. La valeur, en Droit de tirage spécial, de la monnaie nationale d’un État qui est membre du Fonds monétaire international, est calculée selon la méthode d’évaluation appliquée par le Fonds monétaire international à la date en question pour ses propres opérations et transactions. La valeur, en Droit de tirage spécial, de la monnaie nationale d’un État qui n’est pas membre du Fonds monétaire international, est calculée de la façon déterminée par cet État.
 
-<sup>2.</sup> L’unité monétaire visée dans le présent paragraphe correspond à soixante-cinq milligrammes et demi d’or au titre de neuf cent millièmes de fin. La conversion en monnaie nationale des montants indiqués dans le présent paragraphe s’effectue conformément à la législation de l’Etat en cause.
+<sup>2.</sup> L’unité monétaire visée dans le présent paragraphe correspond à soixante-cinq milligrammes et demi d’or au titre de neuf cent millièmes de fin. La conversion en monnaie nationale des montants indiqués dans le présent paragraphe s’effectue conformément à la législation de l’État en cause.
 
-Toutefois, un Etat qui n’est pas membre du Fonds monétaire international ou dont la législation ne permet pas d’appliquer les disposition du par. 1 du présent article peut, au moment de la ratification ou de l’adhésion, ou à tout moment par la suite, déclarer que les limites de la responsabilité prévues dans la présente Convention et applicables sur son territoire sont fixées de la manière suivante:
+Toutefois, un État qui n’est pas membre du Fonds monétaire international ou dont la législation ne permet pas d’appliquer les disposition du par. 1 du présent article peut, au moment de la ratification ou de l’adhésion, ou à tout moment par la suite, déclarer que les limites de la responsabilité prévues dans la présente Convention et applicables sur son territoire sont fixées de la manière suivante:
 
 - a) en ce qui concerne le paragraphe 1 de l’art. 7, 700 000 unités monétaires;
 - b) en ce qui concerne le paragraphe 1 de l’art. 8, 12 500 unités monétaires;
@@ -172,7 +172,7 @@ Toutefois, un Etat qui n’est pas membre du Fonds monétaire international ou d
 - d) en ce qui concerne le paragraphe 3 de l’art. 8, 18 000 unités monétaires;
 - e) en ce qui concerne le par. 4 de l’art. 8, la franchise ne dépassera pas 1750 unités monétaires en cas de dommages causés à un véhicule et 200 unités monétaires par passager en cas de perte ou de dommages survenus à d’autre bagages.
 
-<sup>3.</sup> Le calcul mentionné à la dernière phrase du paragraphe 1 et la conversion mentionnée au par. 2 doivent être faits de façon à exprimer en monnaie nationale de l’Etat la même valeur réelle, dans la mesure du possible, que celle exprimée en unités de compte aux art. 7 et 8. Lors du dépôt d’un instrument visé à l’art. III et chaque fois qu’un changement se produit dans leur méthode de calcul ou dans la valeur de leur monnaie nationale par rapport à l’unité de compte ou à l’unité monétaire, les Etats communiquent au dépositaire leur méthode de calcul conformément au par. 1, ou les résultats de la conversion conformément au par. 2, selon le cas.
+<sup>3.</sup> Le calcul mentionné à la dernière phrase du paragraphe 1 et la conversion mentionnée au par. 2 doivent être faits de façon à exprimer en monnaie nationale de l’État la même valeur réelle, dans la mesure du possible, que celle exprimée en unités de compte aux art. 7 et 8. Lors du dépôt d’un instrument visé à l’art. III et chaque fois qu’un changement se produit dans leur méthode de calcul ou dans la valeur de leur monnaie nationale par rapport à l’unité de compte ou à l’unité monétaire, les États communiquent au dépositaire leur méthode de calcul conformément au par. 1, ou les résultats de la conversion conformément au par. 2, selon le cas.
 
 [^9-1]: Nouvelle teneur selon l’art. II par. 3 du Prot. du 19 nov. 1976, approuvé par l’Ass. féd. le 20 mars 1987, en vigueur pour la Suisse depuis le 30 avril 1989 ([RO 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512), [1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143); [FF 1986 II 741](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
@@ -261,12 +261,12 @@ Le délai de prescription court:
 
 <sup>1.</sup>
 
-Une action intentée en vertu de la présente Convention doit être introduite, au choix du demandeur, devant l’une des juridictions énumérées ci-dessous, à condition que celle-ci soit située dans un Etat partie à la présente convention:
+Une action intentée en vertu de la présente Convention doit être introduite, au choix du demandeur, devant l’une des juridictions énumérées ci-dessous, à condition que celle-ci soit située dans un État partie à la présente convention:
 
 - a) le tribunal de la résidence habituelle ou du principal établissement du défendeur;
 - b) le tribunal du lieu de départ ou du lieu de destination stipulé dans le contrat de transport;
-- c) un tribunal de l’Etat du domicile ou de la résidence habituelle du demandeur, si le défendeur a un siège de son activité dans cet Etat et est soumis à la juridiction de celui-ci;
-- d) un tribunal de l’Etat du lieu de conclusion du contrat si le défendeur y a un siège de son activité et est soumis à la juridiction de cet Etat.
+- c) un tribunal de l’État du domicile ou de la résidence habituelle du demandeur, si le défendeur a un siège de son activité dans cet État et est soumis à la juridiction de celui-ci;
+- d) un tribunal de l’État du lieu de conclusion du contrat si le défendeur y a un siège de son activité et est soumis à la juridiction de cet État.
 
 <sup>2.</sup> Après l’événement qui a causé le dommage, les parties peuvent convenir de la juridiction ou du tribunal arbitral auquel le litige sera soumis.
 
@@ -295,7 +295,7 @@ Nul ne peut être tenu pour responsable d’un dommage causé par un accident nu
 
 **Transports commerciaux effectués par des personnes morales**
 
-La présente Convention s’applique aux transports effectués à titre commercial par un Etat ou d’autres personnes morales de droit public en vertu d’un contrat de transport tel que défini à l’article premier.
+La présente Convention s’applique aux transports effectués à titre commercial par un État ou d’autres personnes morales de droit public en vertu d’un contrat de transport tel que défini à l’article premier.
 
 #### Art. 22
 
@@ -313,7 +313,7 @@ La présente Convention s’applique aux transports effectués à titre commerci
 
 <sup>2.</sup>
 
-Les Etats peuvent devenir Parties à la présente convention par:
+Les États peuvent devenir Parties à la présente convention par:
 
 - a) signature sans réserve quant à la ratification, l’acceptation ou l’approbation;
 - b) signature sous réserve de ratification, d’acceptation ou d’approbation, suivie de ratification, acceptation ou approbation; ou
@@ -325,9 +325,9 @@ Les Etats peuvent devenir Parties à la présente convention par:
 
 **Entrée en vigueur**
 
-<sup>1.</sup> La présente Convention entre en vigueur le quatre-vingt-dixième jour après la date à laquelle dix Etats, soit l’ont signée sans réserve quant à la ratification, l’acceptation ou l’approbation, soit ont déposé un instrument de ratification, d’acceptation ou d’adhésion.
+<sup>1.</sup> La présente Convention entre en vigueur le quatre-vingt-dixième jour après la date à laquelle dix États, soit l’ont signée sans réserve quant à la ratification, l’acceptation ou l’approbation, soit ont déposé un instrument de ratification, d’acceptation ou d’adhésion.
 
-<sup>2.</sup> Pour tout Etat qui ultérieurement signe la présente Convention sans réserve quant à la ratification, l’acceptation ou l’approbation ou dépose un instrument de ratification, d’acceptation, d’approbation ou d’adhésion, la Convention entre en vigueur le quatre-vingt-dixième jour après la date de la signature ou du dépôt.
+<sup>2.</sup> Pour tout État qui ultérieurement signe la présente Convention sans réserve quant à la ratification, l’acceptation ou l’approbation ou dépose un instrument de ratification, d’acceptation, d’approbation ou d’adhésion, la Convention entre en vigueur le quatre-vingt-dixième jour après la date de la signature ou du dépôt.
 
 #### Art. 25
 
@@ -347,7 +347,7 @@ Les Etats peuvent devenir Parties à la présente convention par:
 
 <sup>2.</sup> L’Organisation convoque une conférence des Parties à la présente Convention ayant pour objet de la réviser ou de l’amender à la demande du tiers au moins des Parties.
 
-<sup>3.</sup> Tout Etat qui devient Partie à la présente Convention après l’entrée en vigueur d’un amendement adopté par une conférence convoquée conformément aux dispositions du présent article est lié par la Convention modifiée.
+<sup>3.</sup> Tout État qui devient Partie à la présente Convention après l’entrée en vigueur d’un amendement adopté par une conférence convoquée conformément aux dispositions du présent article est lié par la Convention modifiée.
 
 #### Art. 27
 
@@ -361,13 +361,13 @@ Le Secrétaire général de l’Organisation:
 
 - a)
 
-  informe tous les Etats qui ont signé la Convention ou y ont adhéré:
+  informe tous les États qui ont signé la Convention ou y ont adhéré:
 
   - i) de toute signature nouvelle et de tout dépôt d’instrument, ainsi que de la date à laquelle cette signature ou ce dépôt sont intervenus;
   - ii) de la date d’entrée en vigueur de la présente Convention;
   - iii) de toute dénonciation de la présente convention et de la date à laquelle celle-ci prend effet;
 
-- b) transmet des copies certifiées conformes de la présente Convention à tous les Etats signataires de cette Convention et à tous les Etats qui y ont adhéré.
+- b) transmet des copies certifiées conformes de la présente Convention à tous les États signataires de cette Convention et à tous les États qui y ont adhéré.
 
 <sup>3.</sup> Dès l’entrée en vigueur de la présente Convention, le Secrétaire général de l’Organisation en transmet une copie certifiée conforme au Secrétariat de l’Organisation des Nation Unies en vue de son enregistrement et de sa publication conformément à l’Article 102 de la Charte des Nations Unies[^27-1].
 
@@ -381,21 +381,21 @@ La présente convention est établie en un seul exemplaire original en langues a
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Athènes ce treize décembre mil neuf cent soixante-quatorze. (Suivent les signatures)
 
-Champ d’application le 16 mars 2017**[^t-3]**
+Champ d’application le 23 mars 2023[^t-3]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Arabie Saoudite</td><td>25 janvier</td><td>2019 A</td><td>25 avril</td><td>2019</td></tr>
 <tr><td>Argentine<sup>\*</sup></td><td>26 mai</td><td>1983 A</td><td>28 avril</td><td>1987</td></tr>
 <tr><td>Bahamas</td><td>7 juin</td><td>1983 A</td><td>28 avril</td><td>1987</td></tr>
 <tr><td>Barbade</td><td>6 mai</td><td>1994 A</td><td>4 août</td><td>1994</td></tr>
-<tr><td>Chine<sup>\*</sup></td><td>1<sup>er</sup> juin</td><td>1994</td><td>30 août</td><td>1994</td></tr>
-<tr><td>[tab] Hong Kong<sup>a</sup></td><td>1<sup>er</sup> juillet</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Chine<sup>\*</sup></td><td>1<sup>er</sup> juin</td><td>1994 A</td><td>30 août</td><td>1994</td></tr>
+<tr><td>[tab] Hong Kong <sup>a</sup></td><td>1<sup>er</sup> juillet</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>[tab] Macao</td><td>24 juin</td><td>2005</td><td>24 juin</td><td>2005</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>19 mai</td><td>2014 A</td><td>17 août</td><td>2014</td></tr>
 <tr><td>Dominique</td><td>31 août</td><td>2001 A</td><td>29 novembre</td><td>2001</td></tr>
-<tr><td>Egypte</td><td>18 octobre</td><td>1991 A</td><td>16 janvier</td><td>1992</td></tr>
+<tr><td>Égypte</td><td>18 octobre</td><td>1991 A</td><td>16 janvier</td><td>1992</td></tr>
 <tr><td>Estonie</td><td>8 octobre</td><td>2002 A</td><td>6 janvier</td><td>2003</td></tr>
-<tr><td>Géorgie</td><td>25 août</td><td>1995 A</td><td>23 novembre</td><td>1995</td></tr>
 <tr><td>Guinée équatoriale</td><td>24 avril</td><td>1996 A</td><td>23 juillet</td><td>1996</td></tr>
 <tr><td>Guyana</td><td>10 décembre</td><td>1997 A</td><td>10 mars</td><td>1998</td></tr>
 <tr><td>Jordanie</td><td>3 octobre</td><td>1995 A</td><td>1<sup>er</sup> janvier</td><td>1996</td></tr>
@@ -405,15 +405,13 @@ Champ d’application le 16 mars 2017**[^t-3]**
 <tr><td>Malawi</td><td>9 mars</td><td>1993 A</td><td>7 juin</td><td>1993</td></tr>
 <tr><td>Nigéria</td><td>24 février</td><td>2004 A</td><td>24 mai</td><td>2004</td></tr>
 <tr><td>Pologne</td><td>28 janvier</td><td>1987</td><td>28 avril</td><td>1987</td></tr>
-<tr><td>Russie\*</td><td>27 avril</td><td>1983 A</td><td>28 avril</td><td>1987</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>30 avril</td><td>2005 A</td><td>28 novembre</td><td>2005</td></tr>
 <tr><td>Suisse</td><td>15 décembre</td><td>1987</td><td>14 mars</td><td>1988</td></tr>
 <tr><td>Tonga</td><td>15 février</td><td>1977 A</td><td>28 avril</td><td>1987</td></tr>
 <tr><td>Ukraine</td><td>11 novembre</td><td>1994 A</td><td>9 février</td><td>1995</td></tr>
 <tr><td>Vanuatu</td><td>13 janvier</td><td>1989 A</td><td>13 avril</td><td>1989</td></tr>
 <tr><td>Yémen</td><td>6 mars</td><td>1979 A</td><td>28 avril</td><td>1987</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation maritime internationale (OMI): www.imo.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Du 28 avril 1987 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 28 avril 1987 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
 </table>
 
-[^t-3]: [RO 1988 1144](https://fedlex.data.admin.ch/eli/oc/1988/1144_1144_1144), [2005 1307](https://fedlex.data.admin.ch/eli/oc/2005/196), [2007 4409](https://fedlex.data.admin.ch/eli/oc/2007/607), [2014 859](https://fedlex.data.admin.ch/eli/oc/2014/180), [2017 2155](https://fedlex.data.admin.ch/eli/oc/2017/193). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1988 1144](https://fedlex.data.admin.ch/eli/oc/1988/1144_1144_1144); [2005 1307](https://fedlex.data.admin.ch/eli/oc/2005/196); [2007 4409](https://fedlex.data.admin.ch/eli/oc/2007/607); [2014 859](https://fedlex.data.admin.ch/eli/oc/2014/180); [2017 2155](https://fedlex.data.admin.ch/eli/oc/2017/193); [2023 157](https://fedlex.data.admin.ch/eli/oc/2023/157). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

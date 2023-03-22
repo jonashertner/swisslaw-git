@@ -3,28 +3,27 @@ sr: "0.747.356.1"
 title: "Convenzione d'Atene del 1974 relativa al trasporto per mare di passeggeri e dei loro bagagli, del 13 dicembre 1974"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1144_1144_1144"
 language: it
-version: 2017-03-16
+version: 2023-03-23
 adopted: 1974-12-13
 in_force: 1988-03-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1144_1144_1144/20170316/it/xml/fedlex-data-admin-ch-eli-cc-1988-1144_1144_1144-20170316-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1144_1144_1144/20170316/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1144_1144_1144/20230323/it/xml/fedlex-data-admin-ch-eli-cc-1988-1144_1144_1144-20230323-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1144_1144_1144/20230323/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione d’Atene del 1974 relativa al trasporto per mare di passeggeri e dei loro bagagli****
+# Convenzione d’Atene del 1974 relativa al trasporto per mare di passeggeri e dei loro bagagli
 
-RU **1988** 1144; FF **1986** II 566[^t-1]
+RU **1988** 1144; FF **1986** II 541[^t-1]
 
-Traduzione*[^t-2]*
+Traduzione
 
-Conclusa ad Atene il 13 dicembre 1974 Approvata dall’Assemblea federale il 20 marzo 1987[^t-3] Ratificata con strumenti depositati dalla Svizzera il 15 dicembre 1987 Entrata in vigore per la Svizzera il 14 marzo 1988
+Conclusa ad Atene il 13 dicembre 1974 Approvata dall’Assemblea federale il 20 marzo 1987[^t-2] Ratificata con strumenti depositati dalla Svizzera il 15 dicembre 1987 Entrata in vigore per la Svizzera il 14 marzo 1988
 
-(Stato 16 marzo 2017)
+(Stato 23 marzo 2023)
 
 [^t-1]: Gli em. del 19 nov. 1976 ([RS 0.747.356.11](https://fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512); [RU 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512)) sono inseriti nel presente testo. Questi em. sono in vigore solo nei rapporti tra gli Stati che li hanno ratificati. Vedi dunque i loro campi d’applicazione.
-[^t-2]: Dal testo originale francese.
-[^t-3]: [RU 1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143)
+[^t-2]: [RU 1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143)
 
 Gli Stati parti della presente Convenzione,
 
@@ -369,11 +368,12 @@ La presente Convenzione è fatta in un unico esemplare originale nelle lingue fr
 
 *In fede di che* i sottoscritti*,* debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto ad Atene il 13 dicembre 1974 (Seguono le firme)
 
-Campo d’applicazione il 16 marzo 2017**[^t-4]**
+Campo d’applicazione il 23 marzo 2023[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Argentina<sup>\*</sup></td><td>26 maggio</td><td>1983 A</td><td>28 aprile</td><td>1987</td></tr>
+<tr><td>Arabia Saudita</td><td>25 gennaio</td><td>2019 A</td><td>25 aprile</td><td>2019</td></tr>
 <tr><td>Bahamas</td><td>7 giugno</td><td>1983 A</td><td>28 aprile</td><td>1987</td></tr>
 <tr><td>Barbados</td><td>6 maggio</td><td>1994 A</td><td>4 agosto</td><td>1994</td></tr>
 <tr><td>Cina</td><td>1° giugno</td><td>1994 A</td><td>30 agosto</td><td>1994</td></tr>
@@ -383,7 +383,6 @@ Campo d’applicazione il 16 marzo 2017**[^t-4]**
 <tr><td>Dominica</td><td>31 agosto</td><td>2001 A</td><td>29 novembre</td><td>2001</td></tr>
 <tr><td>Egitto</td><td>18 ottobre</td><td>1991 A</td><td>16 gennaio</td><td>1992</td></tr>
 <tr><td>Estonia</td><td>8 ottobre</td><td>2002 A</td><td>6 gennaio</td><td>2003</td></tr>
-<tr><td>Georgia</td><td>25 agosto</td><td>1995 A</td><td>23 novembre</td><td>1995</td></tr>
 <tr><td>Giordania</td><td>3 ottobre</td><td>1995 A</td><td>1° gennaio</td><td>1996</td></tr>
 <tr><td>Guinea equatoriale</td><td>24 aprile</td><td>1996 A</td><td>23 luglio</td><td>1996</td></tr>
 <tr><td>Guyana</td><td>10 dicembre</td><td>1997 A</td><td>10 marzo</td><td>1998</td></tr>
@@ -393,15 +392,14 @@ Campo d’applicazione il 16 marzo 2017**[^t-4]**
 <tr><td>Malawi</td><td>9 marzo</td><td>1993 A</td><td>7 giugno</td><td>1993</td></tr>
 <tr><td>Nigeria</td><td>24 febbraio</td><td>2004 A</td><td>24 maggio</td><td>2004</td></tr>
 <tr><td>Polonia</td><td>28 gennaio</td><td>1987</td><td>28 aprile</td><td>1987</td></tr>
-<tr><td>Russia<sup>\*</sup></td><td>27 aprile</td><td>1983 A</td><td>28 aprile</td><td>1987</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>30 aprile</td><td>2005 A</td><td>28 novembre</td><td>2005</td></tr>
 <tr><td>Svizzera</td><td>15 dicembre</td><td>1987</td><td>14 marzo</td><td>1988</td></tr>
 <tr><td>Tonga</td><td>15 febbraio</td><td>1977 A</td><td>28 aprile</td><td>1987</td></tr>
 <tr><td>Ucraina</td><td>11 novembre</td><td>1994 A</td><td>9 febbraio</td><td>1995</td></tr>
 <tr><td>Vanuatu</td><td>13 gennaio</td><td>1989 A</td><td>13 aprile</td><td>1989</td></tr>
 <tr><td>Yemen</td><td>6 marzo</td><td>1979 A</td><td>28 aprile</td><td>1987</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi inglesi possono essere consultati sul sito internet dell’Organizzazione internazionale per la navigazione marittima (IMO): www.imo.org oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere consultati sul sito Internet dell’Organizzazione internazionale marittima (IMO): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dal 28 apr. 1987 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base ad una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997 la Conv. è applicabile dal 1° lug. 1997 anche alla RAS di Hong Kong.</td></tr>
 </table>
 
-[^t-4]: [RU 1988 1144](https://fedlex.data.admin.ch/eli/oc/1988/1144_1144_1144), [2005 1307](https://fedlex.data.admin.ch/eli/oc/2005/196), [2007 4409](https://fedlex.data.admin.ch/eli/oc/2007/607), [2014 859](https://fedlex.data.admin.ch/eli/oc/2014/180)e [2017 2155](https://fedlex.data.admin.ch/eli/oc/2017/193). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1988 1144](https://fedlex.data.admin.ch/eli/oc/1988/1144_1144_1144); [2005 1307](https://fedlex.data.admin.ch/eli/oc/2005/196); [2007 4409](https://fedlex.data.admin.ch/eli/oc/2007/607); [2014 859](https://fedlex.data.admin.ch/eli/oc/2014/180); [2017 2155](https://fedlex.data.admin.ch/eli/oc/2017/193); [2023 157](https://fedlex.data.admin.ch/eli/oc/2023/157). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
