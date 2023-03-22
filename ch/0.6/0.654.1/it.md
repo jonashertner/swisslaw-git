@@ -3,11 +3,11 @@ sr: "0.654.1"
 title: Accordo multilaterale del 27 gennaio 2016 tra autorità competenti concernente lo scambio di rendicontazioni Paese per Paese
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/785"
 language: it
-version: 2020-06-01
+version: 2023-03-23
 adopted: 2016-01-27
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20200601/it/xml/fedlex-data-admin-ch-eli-cc-2017-785-20200601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20200601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20230323/it/xml/fedlex-data-admin-ch-eli-cc-2017-785-20230323-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20230323/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **2017** 7247; FF **2017** 33
 
 Traduzione
 
-Concluso il 27 gennaio 2016
+Concluso il 27 gennaio 2016 Approvato dall’Assemblea federale il 16 giugno 2017[^t-1] Entrato in vigore il 1° dicembre 2017
 
-Approvato dall’Assemblea federale il 16 giugno 2017[^t-1]
-
-Entrato in vigore il 1° dicembre 2017
-
-(Stato 1° giugno 2020)
+(Stato 23 marzo 2023)
 
 [^t-1]: [RU 2017 7243](https://fedlex.data.admin.ch/eli/oc/2017/784)
 
@@ -163,7 +159,7 @@ Salvo se stabilito diversamente nell’Accordo, il Segretariato dell’Organo di
 
 Fatto in francese e in inglese, entrambi i testi facenti ugualmente fede.
 
-Campo d’applicazione il 1° giugno 2020**[^t-2]**
+Campo d’applicazione il 23 marzo 2023[^t-2]
 
 La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra autorità competenti concernente lo scambio di rendicontazioni Paese per Paese verso gli Stati e i territori seguenti conformemente al paragrafo 2 della sezione 8 del presente Accordo:
 
@@ -175,7 +171,10 @@ La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra aut
 <tr><td>Argentina</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Australia</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Austria</td><td>1° gennaio 2018\*\*</td></tr>
-<tr><td>Bahama</td><td>1° gennaio 2019\*</td></tr>
+<tr><td>Azerbaigian</td><td>1° gennaio 2018</td></tr>
+<tr><td>Bahamas</td><td>1° gennaio 2019\*</td></tr>
+<tr><td>Bahrein</td><td>1° gennaio 2019\*</td></tr>
+<tr><td>Barbados</td><td>1° gennaio 2018</td></tr>
 <tr><td>Belgio</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Belize</td><td>1° gennaio 2018\*</td></tr>
 <tr><td>Bermuda</td><td>1° gennaio 2018\*</td></tr>
@@ -186,8 +185,9 @@ La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra aut
 <tr><td>Cechia</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Cile</td><td>1° gennaio 2018</td></tr>
 <tr><td>Cina</td><td>1° gennaio 2018</td></tr>
+<tr><td>Cina - Macao</td><td>1° gennaio 2019\*</td></tr>
 <tr><td>Cipro</td><td>1° gennaio 2018</td></tr>
-<tr><td>Columbia</td><td>1° gennaio 2018\*\*</td></tr>
+<tr><td>Colombia</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Corea, Repubblica di</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Costa Rica</td><td>1° gennaio 2018\*</td></tr>
 <tr><td>Croazia</td><td>1° gennaio 2018</td></tr>
@@ -208,13 +208,16 @@ La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra aut
 <tr><td>Indonesia</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Irlanda</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Islanda</td><td>1° gennaio 2018\*\*</td></tr>
+<tr><td>Israele</td><td>1° gennaio 2018</td></tr>
 <tr><td>Italia</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Jersey</td><td>1° gennaio 2018\*\*</td></tr>
+<tr><td>Kazakstan</td><td>1° gennaio 2018</td></tr>
 <tr><td>Lettonia</td><td>1° gennaio 2018</td></tr>
 <tr><td>Liechtenstein</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Lituania</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Lussemburgo</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Malaysia</td><td>1° gennaio 2018\*\*</td></tr>
+<tr><td>Maldive</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Malta</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Man, Isola di</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Maurizio</td><td>1° gennaio 2018</td></tr>
@@ -223,22 +226,27 @@ La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra aut
 <tr><td>Nigeria</td><td>1° gennaio 2018\*</td></tr>
 <tr><td>Norvegia</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Nuova Zelanda</td><td>1° gennaio 2018\*\*</td></tr>
+<tr><td>Oman</td><td>1° gennaio 2021\*</td></tr>
 <tr><td>Paesi Bassi</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Pakistan</td><td>1° gennaio 2018\*\*</td></tr>
-<tr><td>Perù</td><td>1° gennaio 2018\*</td></tr>
+<tr><td>Panama</td><td>1° gennaio 2018</td></tr>
+<tr><td>Perù</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Polonia</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Portogallo</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Qatar</td><td>1° gennaio 2018\*</td></tr>
 <tr><td>Romania</td><td>1° gennaio 2018\*</td></tr>
 <tr><td>Russia</td><td>1° gennaio 2018</td></tr>
 <tr><td>San Marino</td><td>1° gennaio 2018</td></tr>
-<tr><td>Seicelle</td><td>1° gennaio 2018\*\*</td></tr>
+<tr><td>Seychelles</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Singapore</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Slovacchia</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Slovenia</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Spagna</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Sudafrica</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Svezia</td><td>1° gennaio 2018\*\*</td></tr>
+<tr><td>Thailandia</td><td>1° gennaio 2023</td></tr>
+<tr><td>Tunisia</td><td>1° gennaio 2018\*</td></tr>
+<tr><td>Turchia</td><td>1° gennaio 2019</td></tr>
 <tr><td>Turks e Caicos, Isole</td><td>1° gennaio 2018\*</td></tr>
 <tr><td>Ungheria</td><td>1° gennaio 2018</td></tr>
 <tr><td>Uruguay</td><td>1° gennaio 2018\*\*</td></tr>
@@ -246,5 +254,5 @@ La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra aut
 <tr><td colspan="2">\* Questi Stati e territori applicano sistematicamente lo scambio automatico di informazioni in modo non reciproco, sulla base di una notifica secondo il cpv. 1 b) della Sez. 8 dell’Acc. multilaterale. Questo significa che non ricevono rendicontazioni Paese per Paese da parte della Svizzera, ma le trasmettono tali rendicontazioni. \*\* Incluse le rendicontazioni Paese per Paese fornite su base volontaria in Svizzera per i periodi fiscali 2016 e 2017 in conformità alla dichiarazione relativa alla data effettiva per lo scambio di informazioni previsto dall’Acc. multilaterale tra autorità competenti concernente lo scambio di rendicontazioni Paese per Paese[^t-3].</td></tr>
 </table>
 
-[^t-2]: [RU 2020 2895](https://fedlex.data.admin.ch/eli/oc/2020/534)
+[^t-2]: [RU 2023 155](https://fedlex.data.admin.ch/eli/oc/2023/155). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty.
 [^t-3]: [RU 2018 25](https://fedlex.data.admin.ch/eli/oc/2018/11)
