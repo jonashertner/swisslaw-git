@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Attuazione della mozione 20.4339 CAPTE-N («Ridurre efficacemente il rumore eccessivo dei motori»): Adattamento di due articoli della legge federale sulla circolazione stradale e di quattro ordinanze"
 document: Progetto posto in consultazione-5
 language: it

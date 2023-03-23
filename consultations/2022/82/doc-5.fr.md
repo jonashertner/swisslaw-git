@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Mise en œuvre de la motion 20.4339 de la CEATE-N («Réduire de manière efficace le bruit excessif des moteurs»): adaptation de deux articles de la loi sur la circulation routière et de quatre ordonnances"
 document: Projet mis en consultation-5
 language: fr

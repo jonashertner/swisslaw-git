@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Umsetzung der Motion 20.4339 UREK-N («Übermässigen Motorenlärm wirksam reduzieren»): Anpassung von zwei Artikeln des Strassenverkehrsgesetzes und Teilrevision von vier Verordnungen"
 document: Vernehmlassungsvorlage-4
 language: de
