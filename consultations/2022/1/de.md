@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision der Biozidprodukteverordnung (VBP)
 document: Vernehmlassungsvorlage
 language: de

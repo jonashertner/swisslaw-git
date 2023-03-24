@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’Ordonnance sur les produits biocides (OPBio)
 document: Projet mis en consultation
 language: fr

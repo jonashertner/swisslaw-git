@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione dell’Ordinanza sui biocidi (OBioc)
 document: Progetto posto in consultazione
 language: it
