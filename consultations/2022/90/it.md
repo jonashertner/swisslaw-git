@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sull’assicurazione per la vecchiaia e per i superstiti (OAVS)
 document: Progetto posto in consultazione
 language: it

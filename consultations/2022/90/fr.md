@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification du règlement sur l’assurance-vieillesse et survivants (RAVS)
 document: Projet mis en consultation
 language: fr
