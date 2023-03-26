@@ -3,11 +3,11 @@ sr: "0.747.363.4"
 title: "Convenzione internazionale del 1989 sull'assistenza, del 28 aprile 1989"
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1635_1635_1635"
 language: it
-version: 2020-05-27
+version: 2023-03-27
 adopted: 1989-04-28
 in_force: 1996-07-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1635_1635_1635/20200527/it/xml/fedlex-data-admin-ch-eli-cc-1996-1635_1635_1635-20200527-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1635_1635_1635/20200527/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1635_1635_1635/20230327/it/xml/fedlex-data-admin-ch-eli-cc-1996-1635_1635_1635-20230327-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1635_1635_1635/20230327/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1996** 1635; FF **1992** II 1313
 
 Traduzione
 
-Conclusa a Londra il 28 aprile 1989
+Conclusa a Londra il 28 aprile 1989 Approvata dall’Assemblea federale il 28 settembre 1992[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 12 marzo 1993 Entrata in vigore per la Svizzera il 14 luglio 1996
 
-Approvata dall’Assemblea federale il 28 settembre 1992[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 12 marzo 1993
-
-Entrata in vigore per la Svizzera il 14 luglio 1996
-
-(Stato 27 maggio 2020)
+(Stato 27 marzo 2023)
 
 [^t-1]: Art. 1 cpv. 1 lett. c del DF del 28 set. 1992 ([RU 1993 1909](https://fedlex.data.admin.ch/eli/oc/1993/1909_1909_1909)).
 
@@ -398,7 +392,7 @@ La presente Convenzione è redatta in un unico esemplare originale nelle lingue 
 
 *In fede di che* i sottoscritti, a tal fine debitamente autorizzati dai loro rispettivi Governi, hanno apposto la loro firma alla presente Convenzione. Fatto a Londra, il ventotto aprile millenovecentoottantanove. (Seguono le firme)
 
-Campo d’applicazione il 27 maggio 2020**[^t-2]**
+Campo d’applicazione il 27 marzo 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -407,6 +401,7 @@ Campo d’applicazione il 27 maggio 2020**[^t-2]**
 <tr><td>Arabia Saudita<sup>\*</sup></td><td>16 dicembre</td><td>1991 A</td><td>14 luglio</td><td>1996</td></tr>
 <tr><td>Australia<sup>\*</sup></td><td>8 gennaio</td><td>1997 A</td><td>8 gennaio</td><td>1998</td></tr>
 <tr><td>Azerbaigian</td><td>12 giugno</td><td>2006 A</td><td>12 giugno</td><td>2007</td></tr>
+<tr><td>Barbados</td><td>8 marzo</td><td>2023 A</td><td>8 marzo</td><td>2024</td></tr>
 <tr><td>Belgio</td><td>30 giugno</td><td>2000 A</td><td>30 giugno</td><td>2000</td></tr>
 <tr><td>Brasile</td><td>29 luglio</td><td>2009 A</td><td>29 luglio</td><td>2010</td></tr>
 <tr><td>Bulgaria<sup>\*</sup></td><td>14 marzo</td><td>2005 A</td><td>14 marzo</td><td>2006</td></tr>
@@ -434,6 +429,7 @@ Campo d’applicazione il 27 maggio 2020**[^t-2]**
 <tr><td>Guyana</td><td>10 dicembre</td><td>1997 A</td><td>10 dicembre</td><td>1998</td></tr>
 <tr><td>India</td><td>18 ottobre</td><td>1995 A</td><td>18 ottobre</td><td>1996</td></tr>
 <tr><td>Iran<sup>\*</sup></td><td>1° agosto</td><td>1994 A</td><td>14 luglio</td><td>1996</td></tr>
+<tr><td>Iraq</td><td>1° marzo</td><td>2023 A</td><td>1° marzo</td><td>2024</td></tr>
 <tr><td>Irlanda<sup>\*</sup></td><td>6 gennaio</td><td>1995</td><td>14 luglio</td><td>1996</td></tr>
 <tr><td>Islanda</td><td>21 marzo</td><td>2002 A</td><td>21 marzo</td><td>2003</td></tr>
 <tr><td>Isole Marshall</td><td>16 ottobre</td><td>1995 A</td><td>16 ottobre</td><td>1996</td></tr>
@@ -471,12 +467,14 @@ Campo d’applicazione il 27 maggio 2020**[^t-2]**
 <tr><td>Montserrat<sup>\*</sup></td><td>29 settembre</td><td>1994</td><td>14 luglio</td><td>1996</td></tr>
 <tr><td>Sant’Elena e dipendenze (Ascension e Tristan da Cunha)<sup>\*</sup></td><td>22 luglio</td><td>1998</td><td>22 luglio</td><td>1998</td></tr>
 <tr><td>Terra antartica britannica<sup>\*</sup></td><td>22 luglio</td><td>1998</td><td>22 luglio</td><td>1998</td></tr>
-<tr><td>Territorio britannico dell'Oceano Indiano<sup>\*</sup></td><td>22 luglio</td><td>1998</td><td>22 luglio</td><td>1998</td></tr>
+<tr><td>Territorio britannico dell’Oceano Indiano<sup>\*</sup></td><td>22 luglio</td><td>1998</td><td>22 luglio</td><td>1998</td></tr>
 <tr><td>gruppo Pitcairn (Ducie, Oeno, Henderson e Pitcairn)<sup>\*</sup></td><td>22 luglio</td><td>1998</td><td>22 luglio</td><td>1998</td></tr>
 <tr><td>Romania</td><td>18 maggio</td><td>2001 A</td><td>18 maggio</td><td>2002</td></tr>
 <tr><td>Russia<sup>\*</sup></td><td>25 maggio</td><td>1999</td><td>25 maggio</td><td>2000</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>7 ottobre</td><td>2004 A</td><td>7 ottobre</td><td>2005</td></tr>
+<tr><td>San Marino</td><td>19 aprile</td><td>2021 A</td><td>19 aprile</td><td>2022</td></tr>
 <tr><td>Sierra Leone</td><td>26 luglio</td><td>2001 A</td><td>26 luglio</td><td>2002</td></tr>
+<tr><td>Singapore</td><td>24 luglio</td><td>2020 A</td><td>24 luglio</td><td>2021</td></tr>
 <tr><td>Siria<sup>\*</sup></td><td>19 marzo</td><td>2002 A</td><td>19 marzo</td><td>2003</td></tr>
 <tr><td>Slovenia</td><td>23 dicembre</td><td>2005 A</td><td>23 dicembre</td><td>2006</td></tr>
 <tr><td>Spagna</td><td>27 gennaio</td><td>2005</td><td>27 gennaio</td><td>2006</td></tr>
@@ -497,4 +495,4 @@ Campo d’applicazione il 27 maggio 2020**[^t-2]**
 
 - [tab]
 
-[^t-2]: [RU 1996 1635](https://fedlex.data.admin.ch/eli/oc/1996/1635_1635_1635), [2005 1317](https://fedlex.data.admin.ch/eli/oc/2005/201), [2008 99](https://fedlex.data.admin.ch/eli/oc/2008/38), [2009 617](https://fedlex.data.admin.ch/eli/oc/2009/111), [2012 5793](https://fedlex.data.admin.ch/eli/oc/2012/672), [2017 3797](https://fedlex.data.admin.ch/eli/oc/2017/446)e [2020 2181](https://fedlex.data.admin.ch/eli/oc/2020/433). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1996 1635](https://fedlex.data.admin.ch/eli/oc/1996/1635_1635_1635); [2005 1317](https://fedlex.data.admin.ch/eli/oc/2005/201); [2008 99](https://fedlex.data.admin.ch/eli/oc/2008/38); [2009 617](https://fedlex.data.admin.ch/eli/oc/2009/111); [2012 5793](https://fedlex.data.admin.ch/eli/oc/2012/672); [2017 3797](https://fedlex.data.admin.ch/eli/oc/2017/446); [2020 2181](https://fedlex.data.admin.ch/eli/oc/2020/433); [2023 171](https://fedlex.data.admin.ch/eli/oc/2023/171). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

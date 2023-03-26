@@ -3,11 +3,11 @@ sr: "0.747.363.4"
 title: Internationales Übereinkommen von 1989 über Bergung vom 28. April 1989
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1635_1635_1635"
 language: de
-version: 2020-05-27
+version: 2023-03-27
 adopted: 1989-04-28
 in_force: 1996-07-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1635_1635_1635/20200527/de/xml/fedlex-data-admin-ch-eli-cc-1996-1635_1635_1635-20200527-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1635_1635_1635/20200527/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1635_1635_1635/20230327/de/xml/fedlex-data-admin-ch-eli-cc-1996-1635_1635_1635-20230327-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1635_1635_1635/20230327/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1996** 1635; BBl **1992** II 1561
 
 Abgeschlossen in London am 28. April 1989 Von der Bundesversammlung genehmigt am 28. September 1992[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 12. März 1993 Inkrafttreten für die Schweiz am 14. Juli 1996
 
-(Stand am 27. Mai 2020)
+(Stand am 27. März 2023)
 
 [^t-1]: Art. 1 Abs. 1 Bst. c des BB vom 28. Sept. 1992 ([AS 1993 1909](https://fedlex.data.admin.ch/eli/oc/1993/1909_1909_1909))
 
@@ -379,7 +379,7 @@ Dieses Übereinkommen ist in einer Urschrift in arabischer, chinesischer, englis
 
 *Zu Urkund dessen* haben die hierzu von ihren Regierungen gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu London am 28. April 1989. (Es folgen die Unterschriften)
 
-Geltungsbereich am 27. Mai 2020**[^t-2]**
+Geltungsbereich am 27. März 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th colspan="3">Ratifikation Beitritt (B)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
@@ -388,11 +388,12 @@ Geltungsbereich am 27. Mai 2020**[^t-2]**
 <tr><td>Algerien</td><td colspan="3">26. März</td><td colspan="2">2012 B</td><td>26. März</td><td>2013</td></tr>
 <tr><td>Aserbaidschan</td><td colspan="3">12. Juni</td><td colspan="2">2006 B</td><td>12. Juni</td><td>2007</td></tr>
 <tr><td>Australien\*</td><td colspan="3">8. Januar</td><td colspan="2">1997 B</td><td>8. Januar</td><td>1998</td></tr>
+<tr><td>Barbados</td><td colspan="3">8. März</td><td colspan="2">2023 B</td><td>8. März</td><td colspan="2">2024</td></tr>
 <tr><td>Belgien</td><td colspan="3">30. Juni</td><td colspan="2">2004 B</td><td>30. Juni</td><td colspan="2">2005</td></tr>
 <tr><td>Brasilien</td><td colspan="3">29. Juli</td><td colspan="2">2009 B</td><td>29. Juli</td><td>2010</td></tr>
 <tr><td>Bulgarien\*</td><td colspan="3">14. März</td><td colspan="2">2005 B</td><td>14. März</td><td>2006</td></tr>
 <tr><td>China\*</td><td colspan="3">30. März</td><td colspan="2">1994 B</td><td>14. Juli</td><td>1996</td></tr>
-<tr><td>[tab] Hongkong\* <sup>a</sup></td><td colspan="3">5. Juni</td><td colspan="2">1997</td><td>1. Juli</td><td>1997</td></tr>
+<tr><td>Hongkong\* <sup>a</sup></td><td colspan="3">5. Juni</td><td colspan="2">1997</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td>Dänemark</td><td colspan="3">30. Mai</td><td colspan="2">1995</td><td>14. Juli</td><td>1996</td></tr>
 <tr><td>Deutschland\*</td><td colspan="3">8. Oktober</td><td colspan="2">2001</td><td>8. Oktober</td><td>2002</td></tr>
 <tr><td>Dominica</td><td colspan="3">31. August</td><td colspan="2">2001 B</td><td>31. August</td><td>2002</td></tr>
@@ -407,6 +408,7 @@ Geltungsbereich am 27. Mai 2020**[^t-2]**
 <tr><td>Guinea</td><td colspan="3">2. Oktober</td><td colspan="2">2002 B</td><td>2. Oktober</td><td>2003</td></tr>
 <tr><td>Guyana</td><td colspan="3">10. Dezember</td><td colspan="2">1997 B</td><td>10. Dezember</td><td>1998</td></tr>
 <tr><td>Indien</td><td colspan="3">18. Oktober</td><td colspan="2">1995 B</td><td>18. Oktober</td><td>1996</td></tr>
+<tr><td>Irak</td><td colspan="3">1. März</td><td colspan="2">2023 B</td><td>1. März</td><td>2024</td></tr>
 <tr><td>Iran\*</td><td colspan="3">1. August</td><td colspan="2">1994 B</td><td>14. Juli</td><td>1996</td></tr>
 <tr><td>Irland\*</td><td colspan="3">6. Januar</td><td colspan="2">1995</td><td>14. Juli</td><td>1996</td></tr>
 <tr><td>Island</td><td colspan="3">21. März</td><td colspan="2">2002 B</td><td>21. März</td><td>2003</td></tr>
@@ -430,7 +432,7 @@ Geltungsbereich am 27. Mai 2020**[^t-2]**
 <tr><td>Mongolei</td><td colspan="3">2. September</td><td colspan="2">2015 B</td><td>2. September</td><td>2016</td></tr>
 <tr><td>Montenegro</td><td colspan="3">19. April</td><td colspan="2">2012 B</td><td>19. April</td><td>2013</td></tr>
 <tr><td>Neuseeland\*</td><td colspan="3">16. Oktober</td><td colspan="2">2002 B</td><td>16. Oktober</td><td>2003</td></tr>
-<tr><td>[tab] Tokelau</td><td colspan="3">16. Oktober</td><td colspan="2">2002 B</td><td>16. Oktober</td><td>2003</td></tr>
+<tr><td>Tokelau</td><td colspan="3">16. Oktober</td><td colspan="2">2002 B</td><td>16. Oktober</td><td>2003</td></tr>
 <tr><td>Niederlande\* <sup>b</sup></td><td colspan="3">10. Dezember</td><td colspan="2">1997</td><td>10. Dezember</td><td>1998</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td colspan="3">10. Oktober</td><td colspan="2">2010</td><td>1. Oktober</td><td>2010</td></tr>
 <tr><td>Nigeria</td><td colspan="3">11. Oktober</td><td colspan="2">1990</td><td>14. Juli</td><td>1996</td></tr>
@@ -441,10 +443,12 @@ Geltungsbereich am 27. Mai 2020**[^t-2]**
 <tr><td>Polen</td><td colspan="3">16. Dezember</td><td colspan="2">2005</td><td>16. Dezember</td><td>2006</td></tr>
 <tr><td>Rumänien</td><td colspan="3">18. Mai</td><td colspan="2">2001 B</td><td>18. Mai</td><td>2002</td></tr>
 <tr><td>Russland\*</td><td colspan="3">25. Mai</td><td colspan="2">1999</td><td>25. Mai</td><td>2000</td></tr>
+<tr><td>San Marino</td><td colspan="3">19. April</td><td colspan="2">2021 B</td><td>19. April</td><td>2022</td></tr>
 <tr><td>Saudi-Arabien\*</td><td colspan="3">16. Dezember</td><td colspan="2">1991 B</td><td>14. Juli</td><td>1996</td></tr>
 <tr><td>Schweden\*</td><td colspan="3">19. Dezember</td><td colspan="2">1995</td><td>19. Dezember</td><td>1996</td></tr>
 <tr><td>Schweiz</td><td colspan="3">12. März</td><td colspan="2">1993</td><td>14. Juli</td><td>1996</td></tr>
 <tr><td>Sierra Leone</td><td colspan="3">26. Juli</td><td colspan="2">2001 B</td><td>26. Juli</td><td>2002</td></tr>
+<tr><td>Singapur</td><td colspan="3">24. Juli</td><td colspan="2">2020 B</td><td>24. Juli</td><td>2021</td></tr>
 <tr><td>Slowenien</td><td colspan="3">23. Dezember</td><td colspan="2">2005 B</td><td>23. Dezember</td><td>2006</td></tr>
 <tr><td>Spanien</td><td colspan="3">27. Januar</td><td colspan="2">2005</td><td>27. Januar</td><td>2006</td></tr>
 <tr><td>St. Kitts und Nevis</td><td colspan="3">7. Oktober</td><td colspan="2">2004 B</td><td>7. Oktober</td><td>2005</td></tr>
@@ -471,9 +475,9 @@ Geltungsbereich am 27. Mai 2020**[^t-2]**
 <tr><td>Pitcairn-Inseln (Ducie, Oeno, Henderson und Pitcairn)\*</td><td colspan="3">22. Juli</td><td colspan="2">1998</td><td>22. Juli</td><td>1998</td></tr>
 <tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)\*</td><td colspan="3">22. Juli</td><td colspan="2">1998</td><td>22. Juli</td><td>1998</td></tr>
 <tr><td>Turks- und Caicosinseln\*</td><td colspan="3">22. Juli</td><td colspan="2">1998</td><td>22. Juli</td><td>1998</td></tr>
-<tr><td colspan="9">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="9">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="9"><sup>a</sup> Vom 29. Mai 1997 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 5. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 <tr><td colspan="9"><sup>b</sup> Das Übereink. gilt für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 1996 1635](https://fedlex.data.admin.ch/eli/oc/1996/1635_1635_1635), [2005 1317](https://fedlex.data.admin.ch/eli/oc/2005/201), [2008 99](https://fedlex.data.admin.ch/eli/oc/2008/38), [2009 617](https://fedlex.data.admin.ch/eli/oc/2009/111), [2012 5793](https://fedlex.data.admin.ch/eli/oc/2012/672), [2017 3797](https://fedlex.data.admin.ch/eli/oc/2017/446), [2020 2181](https://fedlex.data.admin.ch/eli/oc/2020/433). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1996 1635](https://fedlex.data.admin.ch/eli/oc/1996/1635_1635_1635); [2005 1317](https://fedlex.data.admin.ch/eli/oc/2005/201); [2008 99](https://fedlex.data.admin.ch/eli/oc/2008/38); [2009 617](https://fedlex.data.admin.ch/eli/oc/2009/111); [2012 5793](https://fedlex.data.admin.ch/eli/oc/2012/672); [2017 3797](https://fedlex.data.admin.ch/eli/oc/2017/446); [2020 2181](https://fedlex.data.admin.ch/eli/oc/2020/433); [2023 171](https://fedlex.data.admin.ch/eli/oc/2023/171). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)

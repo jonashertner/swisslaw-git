@@ -3,11 +3,11 @@ sr: "0.747.363.4"
 title: "Convention internationale de 1989 sur l'assistance, du 28 avril 1989"
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1635_1635_1635"
 language: fr
-version: 2020-05-27
+version: 2023-03-27
 adopted: 1989-04-28
 in_force: 1996-07-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1635_1635_1635/20200527/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1635_1635_1635-20200527-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1635_1635_1635/20200527/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1635_1635_1635/20230327/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1635_1635_1635-20230327-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1635_1635_1635/20230327/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 12 mars 1993
 
 Entrée en vigueur pour la Suisse le 14 juillet 1996
 
-(Etat le 27 mai 2020)
+(État le 27 mars 2023)
 
 [^t-1]: Art. 1 al. 1 let. c de l’AF du 28 sept. **1992** ([RO 1993 1909](https://fedlex.data.admin.ch/eli/oc/1993/1909_1909_1909))
 
@@ -398,7 +398,7 @@ La présente Convention est établie en un seul exemplaire original en langues a
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet par leurs gouvernements respectifs, ont apposé leur signature à la présente Convention. Fait à Londres ce vingt-huit avril mil neuf cent quatre-vingt-neuf. (Suivent les signatures)
 
-Champ d’application le 27 mai 2020**[^t-2]**
+Champ d’application le 27 mars 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -408,12 +408,13 @@ Champ d’application le 27 mai 2020**[^t-2]**
 <tr><td>Arabie Saoudite\*</td><td>16 décembre</td><td>1991 A</td><td>14 juillet</td><td>1996</td></tr>
 <tr><td>Australie\*</td><td>8 janvier</td><td>1997 A</td><td>8 janvier</td><td>1998</td></tr>
 <tr><td>Azerbaïdjan</td><td>12 juin</td><td>2006 A</td><td>12 juin</td><td>2007</td></tr>
+<tr><td>Barbade</td><td>8 mars</td><td>2023 A</td><td>8 mars</td><td>2024</td></tr>
 <tr><td>Belgique</td><td>30 juin</td><td>2004 A</td><td>30 juin</td><td>2005</td></tr>
 <tr><td>Brésil</td><td>29 juillet</td><td>2009 A</td><td>29 juillet</td><td>2010</td></tr>
 <tr><td>Bulgarie\*</td><td>14 mars</td><td>2005 A</td><td>14 mars</td><td>2006</td></tr>
 <tr><td>Canada\*</td><td>14 novembre</td><td>1994</td><td>14 juillet</td><td>1996</td></tr>
 <tr><td>Chine\*</td><td>30 mars</td><td>1994 A</td><td>14 juillet</td><td>1996</td></tr>
-<tr><td>[tab] Hong Kong\* <sup>a</sup></td><td>5 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Hong Kong\* <sup>a</sup></td><td>5 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>7 septembre</td><td>2004 A</td><td>7 septembre</td><td>2005</td></tr>
 <tr><td>Croatie\*</td><td>10 septembre</td><td>1998 A</td><td>10 septembre</td><td>1999</td></tr>
 <tr><td>Danemark</td><td>30 mai</td><td>1995</td><td>14 juillet</td><td>1996</td></tr>
@@ -435,6 +436,7 @@ Champ d’application le 27 mai 2020**[^t-2]**
 <tr><td>Îles Marshall</td><td>16 octobre</td><td>1995 A</td><td>16 octobre</td><td>1996</td></tr>
 <tr><td>Inde</td><td>18 octobre</td><td>1995 A</td><td>18 octobre</td><td>1996</td></tr>
 <tr><td>Iran\*</td><td>1<sup>er</sup> août</td><td>1994 A</td><td>14 juillet</td><td>1996</td></tr>
+<tr><td>Iraq</td><td>1<sup>er</sup> mars</td><td>2023 A</td><td>1<sup>er</sup> mars</td><td>2024</td></tr>
 <tr><td>Irlande\*</td><td>6 janvier</td><td>1995</td><td>14 juillet</td><td>1996</td></tr>
 <tr><td>Islande</td><td>21 mars</td><td>2002 A</td><td>21 mars</td><td>2003</td></tr>
 <tr><td>Italie</td><td>14 juillet</td><td>1995</td><td>14 juillet</td><td>1996</td></tr>
@@ -455,7 +457,7 @@ Champ d’application le 27 mai 2020**[^t-2]**
 <tr><td>Nioué</td><td>27 juin</td><td>2012 A</td><td>27 juin</td><td>2013</td></tr>
 <tr><td>Norvège\*</td><td>3 décembre</td><td>1996</td><td>3 décembre</td><td>1997</td></tr>
 <tr><td>Nouvelle-Zélande\*</td><td>16 octobre</td><td>2002 A</td><td>16 octobre</td><td>2003</td></tr>
-<tr><td>[tab] Tokelau</td><td>16 octobre</td><td>2002 A</td><td>16 octobre</td><td>2003</td></tr>
+<tr><td>Tokelau</td><td>16 octobre</td><td>2002 A</td><td>16 octobre</td><td>2003</td></tr>
 <tr><td>Oman</td><td>14 octobre</td><td>1991 A</td><td>14 juillet</td><td>1996</td></tr>
 <tr><td>Palaos</td><td>29 septembre</td><td>2011 A</td><td>29 septembre</td><td>2012</td></tr>
 <tr><td>Pays-Bas\* <sup>b</sup></td><td>10 décembre</td><td>1997</td><td>10 décembre</td><td>1998</td></tr>
@@ -463,22 +465,24 @@ Champ d’application le 27 mai 2020**[^t-2]**
 <tr><td>Pologne</td><td>16 décembre</td><td>2005</td><td>16 décembre</td><td>2006</td></tr>
 <tr><td>Roumanie</td><td>18 mai</td><td>2001 A</td><td>18 mai</td><td>2002</td></tr>
 <tr><td>Royaume-Uni\*</td><td>29 septembre</td><td>1994</td><td>14 juillet</td><td>1996</td></tr>
-<tr><td>[tab] Anguilla\*</td><td>22 juillet</td><td>1998</td><td>22 juillet</td><td>1998</td></tr>
-<tr><td>[tab] Guernesey</td><td>14 septembre</td><td>2001</td><td>14 septembre</td><td>2001</td></tr>
-<tr><td>[tab] Île de Man\*</td><td>29 septembre</td><td>1994</td><td>14 juillet</td><td>1996</td></tr>
+<tr><td>Anguilla\*</td><td>22 juillet</td><td>1998</td><td>22 juillet</td><td>1998</td></tr>
+<tr><td>Guernesey</td><td>14 septembre</td><td>2001</td><td>14 septembre</td><td>2001</td></tr>
+<tr><td>Île de Man\*</td><td>29 septembre</td><td>1994</td><td>14 juillet</td><td>1996</td></tr>
 <tr><td>[tab] Îles Cayman\*</td><td>22 juillet</td><td>1998</td><td>22 juillet</td><td>1998</td></tr>
-<tr><td>[tab] Îles Falkland et dépendances (Géorgie du Sud et îles Sandwich du Sud)\*</td><td>29 septembre</td><td>1994</td><td>14 juillet</td><td>1996</td></tr>
-<tr><td>[tab] Îles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)\*</td><td>22 juillet</td><td>1998</td><td>22 juillet</td><td>1998</td></tr>
-<tr><td>[tab] Îles Turques et Caïques\*</td><td>22 juillet</td><td>1998</td><td>22 juillet</td><td>1998</td></tr>
-<tr><td>[tab] Îles Vierges britanniques\*</td><td>22 juillet</td><td>1998</td><td>22 juillet</td><td>1998</td></tr>
-<tr><td>[tab] Jersey\*</td><td>29 septembre</td><td>1994</td><td>14 juillet</td><td>1996</td></tr>
-<tr><td>[tab] Montserrat\*</td><td>29 septembre</td><td>1994</td><td>14 juillet</td><td>1996</td></tr>
-<tr><td>[tab] Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)\*</td><td>22 juillet</td><td>1998</td><td>22 juillet</td><td>1998</td></tr>
-<tr><td>[tab] Territoire antarctique britannique\*</td><td>22 juillet</td><td>1998</td><td>22 juillet</td><td>1998</td></tr>
-<tr><td>[tab] Territoire britannique de l’Océan Indien\*</td><td>22 juillet</td><td>1998</td><td>22 juillet</td><td>1998</td></tr>
+<tr><td>Îles Falkland et dépendances (Géorgie du Sud et îles Sandwich du Sud)\*</td><td>29 septembre</td><td>1994</td><td>14 juillet</td><td>1996</td></tr>
+<tr><td>Îles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)\*</td><td>22 juillet</td><td>1998</td><td>22 juillet</td><td>1998</td></tr>
+<tr><td>Îles Turques et Caïques\*</td><td>22 juillet</td><td>1998</td><td>22 juillet</td><td>1998</td></tr>
+<tr><td>Îles Vierges britanniques\*</td><td>22 juillet</td><td>1998</td><td>22 juillet</td><td>1998</td></tr>
+<tr><td>Jersey\*</td><td>29 septembre</td><td>1994</td><td>14 juillet</td><td>1996</td></tr>
+<tr><td>Montserrat\*</td><td>29 septembre</td><td>1994</td><td>14 juillet</td><td>1996</td></tr>
+<tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)\*</td><td>22 juillet</td><td>1998</td><td>22 juillet</td><td>1998</td></tr>
+<tr><td>Territoire antarctique britannique\*</td><td>22 juillet</td><td>1998</td><td>22 juillet</td><td>1998</td></tr>
+<tr><td>Territoire britannique de l’Océan Indien\*</td><td>22 juillet</td><td>1998</td><td>22 juillet</td><td>1998</td></tr>
 <tr><td>Russie\*</td><td>25 mai</td><td>1999</td><td>25 mai</td><td>2000</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>7 octobre</td><td>2004 A</td><td>7 octobre</td><td>2005</td></tr>
+<tr><td>Saint-Marin</td><td>19 avril</td><td>2021 A</td><td>19 avril</td><td>2022</td></tr>
 <tr><td>Sierra Leone</td><td>26 juillet</td><td>2001 A</td><td>26 juillet</td><td>2002</td></tr>
+<tr><td>Singapour</td><td>24 juillet</td><td>2020 A</td><td>24 juillet</td><td>2021</td></tr>
 <tr><td>Slovénie</td><td>23 décembre</td><td>2005 A</td><td>23 décembre</td><td>2006</td></tr>
 <tr><td>Suède\*</td><td>19 décembre</td><td>1995</td><td>19 décembre</td><td>1996</td></tr>
 <tr><td>Suisse</td><td>12 mars</td><td>1993</td><td>14 juillet</td><td>1996</td></tr>
@@ -490,7 +494,7 @@ Champ d’application le 27 mai 2020**[^t-2]**
 <tr><td>Ukraine</td><td>15 juin</td><td>2017 A</td><td>15 juin</td><td>2018</td></tr>
 <tr><td>Vanuatu</td><td>18 février</td><td>1999 A</td><td>18 février</td><td>2000</td></tr>
 <tr><td>Yémen</td><td>23 septembre</td><td>2008 A</td><td>23 septembre</td><td>2009</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 29 mai 1997 au 30 juin 1997 la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> La Convention s’applique au Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 29 mai 1997 au 30 juin 1997 la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> La Convention s’applique au Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 1996 1635](https://fedlex.data.admin.ch/eli/oc/1996/1635_1635_1635), [2005 1317](https://fedlex.data.admin.ch/eli/oc/2005/201), [2008 99](https://fedlex.data.admin.ch/eli/oc/2008/38), [2009 617](https://fedlex.data.admin.ch/eli/oc/2009/111), [2012 5793](https://fedlex.data.admin.ch/eli/oc/2012/672), [2017 3797](https://fedlex.data.admin.ch/eli/oc/2017/446), [2020 2181](https://fedlex.data.admin.ch/eli/oc/2020/433). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1996 1635](https://fedlex.data.admin.ch/eli/oc/1996/1635_1635_1635); [2005 1317](https://fedlex.data.admin.ch/eli/oc/2005/201); [2008 99](https://fedlex.data.admin.ch/eli/oc/2008/38); [2009 617](https://fedlex.data.admin.ch/eli/oc/2009/111); [2012 5793](https://fedlex.data.admin.ch/eli/oc/2012/672); [2017 3797](https://fedlex.data.admin.ch/eli/oc/2017/446); [2020 2181](https://fedlex.data.admin.ch/eli/oc/2020/433); [2023 171](https://fedlex.data.admin.ch/eli/oc/2023/171). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20)
