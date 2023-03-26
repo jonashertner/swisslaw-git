@@ -5,12 +5,12 @@ title: Vollzugsverordnung zum Gewässergesetz
 short: "Gewässerverordnung, GewV"
 language: de
 version: 2022-07-01
-valid_until: 2023-08-31
+corrected: 2023-03-27
 version_adopted: 2022-06-21
 adopted: 2020-10-13
 in_force: 2020-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/631.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1125/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1055/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
