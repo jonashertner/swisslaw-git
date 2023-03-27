@@ -3,11 +3,11 @@ sr: "0.814.290"
 title: "Convenzione internazionale del 1990 del 30 novembre 1990 sulla preparazione, la lotta e la cooperazione in materia di inquinamento da idrocarburi (con annesso)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1016_1016_1016"
 language: it
-version: 2019-03-21
+version: 2023-03-28
 adopted: 1990-11-30
 in_force: 1996-10-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1016_1016_1016/20190321/it/xml/fedlex-data-admin-ch-eli-cc-1998-1016_1016_1016-20190321-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1016_1016_1016/20190321/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1016_1016_1016/20230328/it/xml/fedlex-data-admin-ch-eli-cc-1998-1016_1016_1016-20230328-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1016_1016_1016/20230328/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1016_1016_1016/20190321/it"
 
 Traduzione
 
-Conclusa a Londra il 30 novembre 1990
+Conclusa a Londra il 30 novembre 1990 Approvata dall’Assemblea federale l’11 dicembre 1995[^t-1] Ratificata dalla Svizzera con strumento depositato il 4 luglio 1996 Entrato in vigore per la Svizzera il 4 ottobre 1996
 
-Approvata dall’Assemblea federale l’11 dicembre 1995[^t-1]
-
-Ratificata dalla Svizzera con strumento depositato il 4 luglio 1996
-
-Entrato in vigore per la Svizzera il 4 ottobre 1996
-
-(Stato 21 marzo 2019)
+(Stato 28 marzo 2023)
 
 [^t-1]: RU **1998** 1016; FF **1995** IV 229 Art. 1 cpv. 1 lett. a del DF dell’11 dic. 1995 (RU **1998** 1015).
 
@@ -300,7 +294,7 @@ Emendamento dopo esame da parte dell’Organizzazione:
 - f) i) Un emendamento ad un articolo o all’Annesso della Convenzione sarà considerato come accettato alla data alla quale è accettato da due terzi delle Parti.
   - ii) Un emendamento ad un’appendice sarà considerato come accettato allo scadere di un periodo stabilito dal Comitato di protezione dell’ambiente marino al momento della sua adozione. La durata di detto periodo non sarà inferiore a dieci mesi, a meno che entro tale periodo un’obiezione non venga comunicata al Segretario generale da non meno di un terzo delle Parti.
 
-- g) i) Un emendamento ad un articolo o all’Annesso della Convenzione accettato in conformità con il capoverso f)i) entra in vigore sei mesi dopo la data in cui è considerato accettato per quanto riguarda le Parti che hanno notificato al Segretario generale la loro accettazione.
+- g) i) Un emendamento ad un articolo o all’Annesso della Convenzione accet tato in conformità con il capoverso f)i) entra in vigore sei mesi dopo la data in cui è considerato accettato per quanto riguarda le Parti che hanno notificato al Segretario generale la loro accettazione.
   - ii) un emendamento ad un’appendice accettata in conformità con il capoverso f) ii) entra in vigore sei mesi dopo la data in cui è considerato accettato per quanto riguarda tutte le Parti ad eccezione di quelle che, prima di tale data vi hanno fatto obiezione. Una Parte può in ogni tempo ritirare un’obiezione precedentemente comunicata inviando a tal fine una notifica scritta al Segretario generale.
 
 <sup>(3)</sup>
@@ -405,7 +399,7 @@ Annesso
 
 (4) Le disposizioni della presente Convenzione non saranno interpretate nel senso di pregiudicare in alcun modo i diritti delle Parti di ricuperare da terzi il costo dei provvedimenti adottati per far fronte all’inquinamento o alle minacce di inquinamento in base ad altre disposizioni e regole applicabili del diritto nazionale ed internazionale. Si terranno particolarmente in considerazione la Convenzione internazionale del 1969 sulla responsabilità civile per i danni derivanti da inquinamento da idrocarburi e la Convenzione internazionale del 1971 sull’istituzione di un fondo internazionale per l’indennizzo dei danni derivanti da inquinamento da idrocarburi o ogni successivo emendamento a tali Convenzioni.
 
-Campo d’applicazione il 21 marzo 2019**[^t-2]**
+Campo d’applicazione il 28 marzo 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -420,6 +414,7 @@ Campo d’applicazione il 21 marzo 2019**[^t-2]**
 <tr><td>Bahamas</td><td>4 ottobre</td><td>2001 A</td><td>4 gennaio</td><td>2002</td></tr>
 <tr><td>Bahrein</td><td>9 marzo</td><td>2016 A</td><td>9 giugno</td><td>2016</td></tr>
 <tr><td>Bangladesh</td><td>23 luglio</td><td>2004 A</td><td>23 ottobre</td><td>2004</td></tr>
+<tr><td>Barbados</td><td>8 marzo</td><td>2023 A</td><td>8 giugno</td><td>2023</td></tr>
 <tr><td>Belgio</td><td>19 aprile</td><td>2017 A</td><td>19 luglio</td><td>2017</td></tr>
 <tr><td>Benin</td><td>5 febbraio</td><td>2010 A</td><td>5 maggio</td><td>2010</td></tr>
 <tr><td>Brasile</td><td>21 luglio</td><td>1998</td><td>21 ottobre</td><td>1998</td></tr>
@@ -428,27 +423,28 @@ Campo d’applicazione il 21 marzo 2019**[^t-2]**
 <tr><td>Canada</td><td>7 marzo</td><td>1994 A</td><td>13 maggio</td><td>1995</td></tr>
 <tr><td>Capo Verde</td><td>4 luglio</td><td>2003 A</td><td>4 ottobre</td><td>2003</td></tr>
 <tr><td>Cile</td><td>15 ottobre</td><td>1997 A</td><td>15 gennaio</td><td>1998</td></tr>
-<tr><td>Cina</td><td>30 marzo</td><td>1998 A</td><td>30 giugno</td><td>1998</td></tr>
+<tr><td>Cina\*</td><td>30 marzo</td><td>1998 A</td><td>30 giugno</td><td>1998</td></tr>
 <tr><td>Hong Kong</td><td></td><td></td><td>1° maggio</td><td>2001</td></tr>
 <tr><td>Macao</td><td></td><td></td><td>1° maggio</td><td>2001</td></tr>
 <tr><td>Colombia</td><td>11 giugno</td><td>2008 A</td><td>11 settembre</td><td>2008</td></tr>
 <tr><td>Comore</td><td>5 gennaio</td><td>2000 A</td><td>5 aprile</td><td>2000</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>7 settembre</td><td>2004 A</td><td>7 dicembre</td><td>2004</td></tr>
 <tr><td>Corea (Sud)</td><td>9 novembre</td><td>1999 A</td><td>9 febbraio</td><td>2000</td></tr>
-<tr><td>Costa d’Avorio</td><td>8 luglio</td><td>2013 A</td><td>8 ottobre</td><td>2013</td></tr>
+<tr><td>Costa d’Avorio</td><td>8 luglio</td><td>2013</td><td>8 ottobre</td><td>2013</td></tr>
 <tr><td>Croazia</td><td>12 gennaio</td><td>1998 A</td><td>12 aprile</td><td>1998</td></tr>
 <tr><td>Cuba</td><td>10 aprile</td><td>2008 A</td><td>10 luglio</td><td>2008</td></tr>
 <tr><td>Danimarca</td><td>22 ottobre</td><td>1996</td><td>22 gennaio</td><td>1997</td></tr>
 <tr><td>Isole Faeröer</td><td>18 febbraio</td><td>2003</td><td>18 febbraio</td><td>2003</td></tr>
 <tr><td>Dominica</td><td>31 agosto</td><td>2001 A</td><td>30 novembre</td><td>2001</td></tr>
-<tr><td>Ecuador</td><td>29 gennaio</td><td>2002 A</td><td>29 aprile</td><td>2002</td></tr>
+<tr><td>Ecuador</td><td>29 gennaio</td><td>2002</td><td>29 aprile</td><td>2002</td></tr>
 <tr><td>Egitto</td><td>29 giugno</td><td>1992</td><td>13 maggio</td><td>1995</td></tr>
 <tr><td>El Salvador</td><td>9 ottobre</td><td>1995 A</td><td>9 gennaio</td><td>1996</td></tr>
-<tr><td>Estonia</td><td>16 maggio</td><td>2008 A</td><td>16 agosto</td><td>2008</td></tr>
+<tr><td>Estonia</td><td>16 maggio</td><td>2008</td><td>16 agosto</td><td>2008</td></tr>
 <tr><td>Filippine</td><td>6 febbraio</td><td>2014 A</td><td>6 maggio</td><td>2014</td></tr>
 <tr><td>Finlandia</td><td>21 luglio</td><td>1993</td><td>13 maggio</td><td>1995</td></tr>
 <tr><td>Francia</td><td>6 novembre</td><td>1992</td><td>13 maggio</td><td>1995</td></tr>
 <tr><td>Gabon</td><td>12 aprile</td><td>2005 A</td><td>12 luglio</td><td>2005</td></tr>
+<tr><td>Gambia</td><td>30 ottobre</td><td>2019</td><td>30 gennaio</td><td>2020</td></tr>
 <tr><td>Georgia</td><td>20 febbraio</td><td>1996 A</td><td>20 maggio</td><td>1996</td></tr>
 <tr><td>Germania</td><td>15 febbraio</td><td>1995</td><td>15 maggio</td><td>1995</td></tr>
 <tr><td>Ghana</td><td>2 giugno</td><td>2010</td><td>2 settembre</td><td>2010</td></tr>
@@ -461,7 +457,9 @@ Campo d’applicazione il 21 marzo 2019**[^t-2]**
 <tr><td>Guyana</td><td>10 dicembre</td><td>1997 A</td><td>10 marzo</td><td>1998</td></tr>
 <tr><td>Honduras</td><td>16 novembre</td><td>2016 A</td><td>16 febbraio</td><td>2017</td></tr>
 <tr><td>India</td><td>17 novembre</td><td>1997 A</td><td>17 febbraio</td><td>1998</td></tr>
+<tr><td>Indonesia</td><td>13 dicembre</td><td>2022 A</td><td>13 marzo</td><td>2023</td></tr>
 <tr><td>Iran</td><td>25 febbraio</td><td>1998 A</td><td>25 maggio</td><td>1998</td></tr>
+<tr><td>Iraq</td><td>19 luglio</td><td>2021 A</td><td>19 ottobre</td><td>2021</td></tr>
 <tr><td>Irlanda</td><td>26 aprile</td><td>2001 A</td><td>26 luglio</td><td>2001</td></tr>
 <tr><td>Islanda</td><td>21 giugno</td><td>1993</td><td>13 maggio</td><td>1995</td></tr>
 <tr><td>Israele</td><td>24 marzo</td><td>1999</td><td>24 giugno</td><td>1999</td></tr>
@@ -481,6 +479,7 @@ Campo d’applicazione il 21 marzo 2019**[^t-2]**
 <tr><td>Maurizio</td><td>2 dicembre</td><td>1999 A</td><td>2 marzo</td><td>2000</td></tr>
 <tr><td>Messico</td><td>13 maggio</td><td>1994 A</td><td>13 maggio</td><td>1995</td></tr>
 <tr><td>Monaco</td><td>19 ottobre</td><td>1999 A</td><td>19 gennaio</td><td>2000</td></tr>
+<tr><td>Montenegro</td><td>12 luglio</td><td>2021 A</td><td>12 ottobre</td><td>2021</td></tr>
 <tr><td>Mozambico</td><td>9 novembre</td><td>2005 A</td><td>10 febbraio</td><td>2006</td></tr>
 <tr><td>Myanmar</td><td>15 dicembre</td><td>2016 A</td><td>15 marzo</td><td>2016</td></tr>
 <tr><td>Namibia</td><td>18 giugno</td><td>2007 A</td><td>18 settembre</td><td>2007</td></tr>
@@ -488,7 +487,7 @@ Campo d’applicazione il 21 marzo 2019**[^t-2]**
 <tr><td>Norvegia</td><td>8 marzo</td><td>1994</td><td>13 maggio</td><td>1995</td></tr>
 <tr><td>Nuova Zelanda</td><td>2 luglio</td><td>1999 A</td><td>2 ottobre</td><td>1999</td></tr>
 <tr><td>Oman</td><td>26 giugno</td><td>2008 A</td><td>26 settembre</td><td>2008</td></tr>
-<tr><td>Paesi Bassi <sup>a</sup></td><td>1° dicembre</td><td>1994</td><td>13 maggio</td><td>1995</td></tr>
+<tr><td>Paesi Bassi\*</td><td>1° dicembre</td><td>1994</td><td>13 maggio</td><td>1995</td></tr>
 <tr><td>Aruba</td><td>13 ottobre</td><td>2006</td><td>13 ottobre</td><td>2006</td></tr>
 <tr><td>Curaçao</td><td>10 ottobre</td><td>2010</td><td>10 ottobre</td><td>2010</td></tr>
 <tr><td>[tab] Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>10 ottobre</td><td>2010</td><td>10 ottobre</td><td>2010</td></tr>
@@ -529,7 +528,7 @@ Campo d’applicazione il 21 marzo 2019**[^t-2]**
 <tr><td>Vanuatu</td><td>18 febbraio</td><td>1999 A</td><td>18 maggio</td><td>1999</td></tr>
 <tr><td>Venezuela</td><td>12 dicembre</td><td>1994</td><td>13 maggio</td><td>1995</td></tr>
 <tr><td>Yemen</td><td>10 maggio</td><td>2013 A</td><td>10 agosto</td><td>2013</td></tr>
-<tr><td colspan="5">[tab] <sup>a</sup> Per il Regno in Europa</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. [tab]</td></tr>
 </table>
 
-[^t-2]: [RU 1998 1016](https://fedlex.data.admin.ch/eli/oc/1998/1016_1016_1016), [2003 2448](https://fedlex.data.admin.ch/eli/oc/2003/355), [2005 1671](https://fedlex.data.admin.ch/eli/oc/2005/268), [2008 23](https://fedlex.data.admin.ch/eli/oc/2008/9)[4135](https://fedlex.data.admin.ch/eli/oc/2008/584), [2012 1575](https://fedlex.data.admin.ch/eli/oc/2012/226), [2015 2935](https://fedlex.data.admin.ch/eli/oc/2015/551), [2019 1079](https://fedlex.data.admin.ch/eli/oc/2019/204). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1998 1016](https://fedlex.data.admin.ch/eli/oc/1998/1016_1016_1016); [2003 2448](https://fedlex.data.admin.ch/eli/oc/2003/355); [2005 1671](https://fedlex.data.admin.ch/eli/oc/2005/268); [2008 23](https://fedlex.data.admin.ch/eli/oc/2008/9), [4135](https://fedlex.data.admin.ch/eli/oc/2008/584); [2012 1575](https://fedlex.data.admin.ch/eli/oc/2012/226); [2015 2935](https://fedlex.data.admin.ch/eli/oc/2015/551); [2019 1079](https://fedlex.data.admin.ch/eli/oc/2019/204); [2023 172](https://fedlex.data.admin.ch/eli/oc/2023/172). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

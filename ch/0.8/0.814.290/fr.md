@@ -3,16 +3,18 @@ sr: "0.814.290"
 title: "Convention internationale de 1990 du 30 novembre 1990 sur la préparation, la lutte et la coopération en matière de pollution par les hydrocarbures (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1016_1016_1016"
 language: fr
-version: 2019-03-21
+version: 2023-03-28
 adopted: 1990-11-30
 in_force: 1996-10-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1016_1016_1016/20190321/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1016_1016_1016-20190321-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1016_1016_1016/20190321/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1016_1016_1016/20230328/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1016_1016_1016-20230328-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1016_1016_1016/20230328/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention internationale de 1990 sur la préparation, la lutte et la coopération en matière de pollution par les hydrocarbures
+
+RO **1998** 1016; FF **1995** IV 233
 
 Texte original
 
@@ -24,9 +26,9 @@ Instrument d’adhésion déposé par la Suisse le 4 juillet 1996
 
 Entrée en vigueur pour la Suisse le 4 octobre 1996
 
-(Etat le 21 mars 2019)
+(État le 28 mars 2023)
 
-[^t-1]: RO **1998** 1016; FF **1995** IV 233 Art. 1 al. 1 let. a de l’AF du 11 déc. 1995 (RO **1998** 1015).
+[^t-1]: Art. 1 al. 1 let. a de l’AF du 11 déc. 1995 ([RO 1998 1015](https://fedlex.data.admin.ch/eli/oc/1998/1015_1015_1015)).
 
 Les Parties à la présente Convention,
 
@@ -40,7 +42,7 @@ conscientes également qu’en cas d’événement de pollution par les hydrocar
 
 soulignant l’importance d’une préparation efficace pour lutter contre les événements de pollution par les hydrocarbures et le rôle primordial que les industries pétrolière et maritime ont à cet égard,
 
-reconnaissant en outre l’importance d’une assistance mutuelle et d’une coopération internationale en ce qui concerne notamment l’échange d’informations sur les moyens dont disposent les Etats pour lutter contre des événements de pollution par les hydrocarbures, l’établissement de plans d’urgence contre la pollution par les hydrocarbures, l’échange de rapports sur des événements importants susceptibles de toucher l’environnement marin ou le littoral et les intérêts connexes des Etats, ainsi que les programmes de recherche-développement portant sur les moyens de combattre la pollution du milieu marin par les hydrocarbures,
+reconnaissant en outre l’importance d’une assistance mutuelle et d’une coopération internationale en ce qui concerne notamment l’échange d’informations sur les moyens dont disposent les États pour lutter contre des événements de pollution par les hydrocarbures, l’établissement de plans d’urgence contre la pollution par les hydrocarbures, l’échange de rapports sur des événements importants susceptibles de toucher l’environnement marin ou le littoral et les intérêts connexes des États, ainsi que les programmes de recherche-développement portant sur les moyens de combattre la pollution du milieu marin par les hydrocarbures,
 
 tenant compte du principe «pollueur-payeur» en tant que principe général du droit international de l’environnement,
 
@@ -50,7 +52,7 @@ tenant compte en outre de l’importance des accords et arrangements bilatéraux
 
 considérant les dispositions pertinentes de la Convention des Nations Unies sur le droit de la mer, et notamment de sa partie XII,
 
-conscientes de la nécessité d’encourager la coopération internationale et de renforcer les moyens existants à l’échelle nationale, régionale et mondiale pour la préparation et la lutte en matière de pollution par les hydrocarbures, en tenant compte des besoins particuliers des pays en développement, et notamment des petits Etats insulaires,
+conscientes de la nécessité d’encourager la coopération internationale et de renforcer les moyens existants à l’échelle nationale, régionale et mondiale pour la préparation et la lutte en matière de pollution par les hydrocarbures, en tenant compte des besoins particuliers des pays en développement, et notamment des petits États insulaires,
 
 considérant que la meilleure façon d’atteindre ces objectifs est de conclure une Convention internationale sur la préparation, la lutte et la coopération en matière de pollution par les hydrocarbures,
 
@@ -71,7 +73,7 @@ sont convenues de ce qui suit:
 
 \2) L’Annexe de la présente Convention fait partie intégrante de la Convention et toute référence à la présente Convention constitue en même temps une référence à son annexe.
 
-\3) La présente Convention ne s’applique ni aux navires de guerre ou navires de guerre auxiliaires ni aux autres navires appartenant à un Etat ou exploités par cet Etat tant que celui-ci les utilise exclusivement à des fins gouvernementales et non commerciales. Cependant, chaque Partie doit s’assurer, en prenant des mesures appropriées qui ne compromettent pas les opérations ou la capacité opérationnelle des navires de ce type lui appartenant ou exploités par elle, que ceux-ci agissent d’une manière compatible avec la présente Convention, pour autant que cela soit raisonnable dans la pratique.
+\3) La présente Convention ne s’applique ni aux navires de guerre ou navires de guerre auxiliaires ni aux autres navires appartenant à un État ou exploités par cet État tant que celui-ci les utilise exclusivement à des fins gouvernementales et non commerciales. Cependant, chaque Partie doit s’assurer, en prenant des mesures appropriées qui ne compromettent pas les opérations ou la capacité opérationnelle des navires de ce type lui appartenant ou exploités par elle, que ceux-ci agissent d’une manière compatible avec la présente Convention, pour autant que cela soit raisonnable dans la pratique.
 
 #### Art. 2
 
@@ -80,7 +82,7 @@ sont convenues de ce qui suit:
 Aux fins de la présente Convention:
 
 - 1) «Hydrocarbures» désigne le pétrole sous toutes ses formes, y compris le pétrole brut, le fuel-oil, les boues, les résidus d’hydrocarbures et les produits raffinés.
-- 2) «Evénement de pollution par les hydrocarbures» désigne un fait ou un ensemble de faits ayant la même origine, dont résulte ou peut résulter un rejet d’hydrocarbures et qui présente ou peut présenter une menace pour le milieu marin, ou pour le littoral ou les intérêts connexes d’un ou de plusieurs Etats, et qui requiert une action urgente ou d’autres mesures de lutte immédiates.
+- 2) «Événement de pollution par les hydrocarbures» désigne un fait ou un ensemble de faits ayant la même origine, dont résulte ou peut résulter un rejet d’hydrocarbures et qui présente ou peut présenter une menace pour le milieu marin, ou pour le littoral ou les intérêts connexes d’un ou de plusieurs États, et qui requiert une action urgente ou d’autres mesures de lutte immédiates.
 - 3) «Navire» désigne un bâtiment de quelque type que ce soit exploité en milieu marin et englobe les hydroptères, les aéroglisseurs, les engins submersibles et les engins flottants de tout type.
 - 4) «Unité au large» désigne toute installation ou tout ouvrage au large, fixe ou flottant, menant des activités de prospection, d’exploitation ou de production gazière ou pétrolière, ou de chargement ou de déchargement d’hydrocarbures.
 - 5) «Ports maritimes et installations de manutention d’hydrocarbures» désigne les installations qui présentent un risque d’événement de pollution par les hydrocarbures et comprend, entre autres, les ports maritimes, les terminaux pétroliers, les pipelines et autres installations de manutention d’hydrocarbures.
@@ -110,19 +112,19 @@ Aux fins de la présente Convention:
 
   exige que les capitaines ou autres personnes ayant la charge de navires battant son pavillon ainsi que les personnes ayant la charge d’unités au large relevant de sa juridiction signalent sans retard tout événement survenu à bord de leur navire ou de leur unité au large qui entraîne ou risque d’entraîner un rejet d’hydrocarbures:
 
-  - i) dans le cas d’un navire, à l’Etat côtier le plus proche;
-  - ii) dans le cas d’une unité au large, à l’Etat côtier à la juridiction duquel est soumise l’unité;
+  - i) dans le cas d’un navire, à l’État côtier le plus proche;
+  - ii) dans le cas d’une unité au large, à l’État côtier à la juridiction duquel est soumise l’unité;
 
 - b)
 
   exige que les capitaines ou autres personnes ayant la charge de navires battant son pavillon ainsi que les personnes ayant la charge d’unités au large relevant de sa juridiction signalent sans retard tout événement observé en mer qui entraîne un rejet d’hydrocarbures ou toute présence d’hydrocarbures:
 
-  - i) dans le cas d’un navire, à l’Etat côtier le plus proche;
-  - ii) dans le cas d’une unité au large, à l’Etat côtier à la juridiction duquel est soumise l’unité;
+  - i) dans le cas d’un navire, à l’État côtier le plus proche,
+  - ii) dans le cas d’une unité au large, à l’État côtier à la juridiction duquel est soumise l’unité;
 
 - c) exige que les personnes ayant la charge de ports maritimes et d’installations de manutention d’hydrocarbures relevant de sa juridiction signalent sans retard à l’autorité nationale compétente tout événement qui entraîne ou risque d’entraîner un rejet d’hydrocarbures ou toute présence d’hydrocarbures;
-- d) donne à ses navires ou aéronefs chargés de l’inspection des mers et à ses autres services ou agents compétents des instructions les invitant à signaler sans retard à l’autorité nationale compétente ou, selon le cas, à l’Etat côtier le plus proche, tout événement observé en mer, dans un port maritime ou dans une installation de manutention d’hydrocarbures, qui entraîne un rejet d’hydrocarbures ou toute présence d’hydrocarbures;
-- e) prie les pilotes d’aéronefs civils de signaler sans retard à l’Etat côtier le plus proche tout événement observé en mer qui entraîne un rejet d’hydrocarbures ou toute présence d’hydrocarbures.
+- d) donne à ses navires ou aéronefs chargés de l’inspection des mers et à ses autres services ou agents compétents des instructions les invitant à signaler sans retard à l’autorité nationale compétente ou, selon le cas, à l’État côtier le plus proche, tout événement observé en mer, dans un port maritime ou dans une installation de manutention d’hydrocarbures, qui entraîne un rejet d’hydrocarbures ou toute présence d’hydrocarbures;
+- e) prie les pilotes d’aéronefs civils de signaler sans retard à l’État côtier le plus proche tout événement observé en mer qui entraîne un rejet d’hydrocarbures ou toute présence d’hydrocarbures.
 
 #### Art. 5
 
@@ -130,22 +132,22 @@ Aux fins de la présente Convention:
 
 \2) Lorsque la gravité de cet événement de pollution par les hydrocarbures le justifie, cette Partie devrait fournir à l’Organisation les informations visées aux al. 1 b) et c), soit directement, soit par l’intermédiaire de l’organisation ou des arrangements régionaux appropriés.
 
-\3) Lorsque la gravité de cet événement de pollution par les hydrocarbures le justifie, les autres Etats touchés par cet événement sont instamment priés d’informer l’Organisation, soit directement, soit par l’intermédiaire des organisations ou arrangements régionaux appropriés, de leur évaluation de l’importance de la menace pour leurs intérêts et de toute action entreprise ou prévue.
+\3) Lorsque la gravité de cet événement de pollution par les hydrocarbures le justifie, les autres États touchés par cet événement sont instamment priés d’informer l’Organisation, soit directement, soit par l’intermédiaire des organisations ou arrangements régionaux appropriés, de leur évaluation de l’importance de la menace pour leurs intérêts et de toute action entreprise ou prévue.
 
-\4) Les Parties devraient, dans la mesure du possible, utiliser le système d’établissement de rapports de pollution par les hydrocarbures élaboré par l’Organisation, lorsqu’elles échangent des renseignements et communiquent avec d’autres Etats et avec l’Organisation.
+\4) Les Parties devraient, dans la mesure du possible, utiliser le système d’établissement de rapports de pollution par les hydrocarbures élaboré par l’Organisation, lorsqu’elles échangent des renseignements et communiquent avec d’autres États et avec l’Organisation.
 
 \1) Lorsqu’une Partie reçoit un rapport visé à l’art. 4 ou des informations sur une pollution fournies par d’autres sources:
 
 - a) elle évalue la situation pour déterminer s’il s’agit d’un événement de pollution par les hydrocarbures;
-- b) elle évalue la nature, l’importance et les conséquences éventuelles de l’événement de pollution par les hydrocarbures; et
+- b) elle évalue la nature, l’importance et les conséquences éventuelles de l’événement de pollution par les hydrocarbures, et
 - c)
 
-  elle avise ensuite sans retard tous les Etats dont les intérêts sont concernés par cet événement de pollution par les hydrocarbures ou sont susceptibles de l’être en leur communiquant en même temps:
+  elle avise ensuite sans retard tous les États dont les intérêts sont concernés par cet événement de pollution par les hydrocarbures ou sont susceptibles de l’être en leur communiquant en même temps:
 
   - i) les détails de ses évaluations et de toute action entreprise ou prévue pour faire face à l’événement, et
   - ii) d’autres informations appropriées,
 
-- jusqu’à la conclusion de l’action entreprise pour faire face à l’événement ou jusqu’à ce que les Etats en question aient décidé d’une action commune.
+- jusqu’à la conclusion de l’action entreprise pour faire face à l’événement ou jusqu’à ce que les États en question aient décidé d’une action commune.
 
 #### Art. 6
 
@@ -158,8 +160,8 @@ Aux fins de la présente Convention:
   la désignation:
 
   - i) de l’autorité ou des autorités nationales compétentes chargées de la préparation et de la lutte contre la pollution par les hydrocarbures;
-  - ii) du point ou des points de contact opérationnels nationaux chargés de recevoir et de transmettre les rapports de pollution par les hydrocarbures visés à l’art. 4; et
-  - iii) d’une autorité qui est habilitée à agir au nom de l’Etat pour demander une assistance ou pour décider de fournir l’assistance demandée;
+  - ii) du point ou des points de contact opérationnels nationaux chargés de recevoir et de transmettre les rapports de pollution par les hydrocarbures visés à l’art. 4, et
+  - iii) d’une autorité qui est habilitée à agir au nom de l’État pour demander une assistance ou pour décider de fournir l’assistance demandée;
 
 - b) un plan d’urgence national pour la préparation et la lutte qui comporte le schéma des relations entre les divers organismes concernés, qu’ils soient publics ou privés, en tenant compte des directives élaborées par l’Organisation.
 
@@ -167,13 +169,13 @@ Aux fins de la présente Convention:
 
 - a) une quantité minimale de matériel de lutte contre les déversements d’hydrocarbures disposée préalablement et appropriée au risque encouru et des programmes relatifs à l’emploi de ce matériel;
 - b) un programme d’exercices à l’intention des organisations de lutte contre la pollution par les hydrocarbures et de formation du personnel concerné;
-- c) des plans détaillés et des moyens de communications pour lutter contre un événement de pollution par les hydrocarbures. Ces moyens devraient être disponibles en permanence; et
+- c) des plans détaillés et des moyens de communications pour lutter contre un événement de pollution par les hydrocarbures. Ces moyens devraient être disponibles en permanence, et
 - d) un mécanisme ou un arrangement pour coordonner les opérations de lutte contre un événement de pollution par les hydrocarbures, qui puisse, le cas échéant, mobiliser les ressources nécessaires.
 
 \3) Chaque Partie veille à ce que des informations à jour soient communiquées à l’Organisation soit directement, soit par l’intermédiaire de l’organisation ou des arrangements régionaux appropriés, en ce qui concerne:
 
 - a) l’emplacement, les données relatives aux télécommunications et, s’il y a lieu, les zones de responsabilité des autorités et services mentionnés à l’al. 1 a);
-- b) les renseignements sur le matériel de lutte contre la pollution et les services d’experts dans les domaines concernant la lutte contre la pollution par les hydrocarbures et l’assistance maritime qui pourraient être fournis sur demande à d’autres Etats; et
+- b) les renseignements sur le matériel de lutte contre la pollution et les services d’experts dans les domaines concernant la lutte contre la pollution par les hydrocarbures et l’assistance maritime qui pourraient être fournis sur demande à d’autres États, et
 - c) son plan d’urgence national.
 
 #### Art. 7
@@ -186,7 +188,7 @@ Aux fins de la présente Convention:
 
 \3) Conformément aux accords internationaux applicables, chaque Partie prend les mesures juridiques ou administratives nécessaires pour faciliter:
 
-- a) l’arrivée et l’utilisation sur son territoire ainsi que le départ des navires, des aéronefs et autres moyens de transport participant à la lutte contre un événement de pollution par les hydrocarbures ou transportant le personnel, les cargaisons, les produits et le matériel nécessaires pour faire face à un tel événement; et
+- a) l’arrivée et l’utilisation sur son territoire ainsi que le départ des navires, des aéronefs et autres moyens de transport participant à la lutte contre un événement de pollution par les hydrocarbures ou transportant le personnel, les cargaisons, les produits et le matériel nécessaires pour faire face à un tel événement, et
 - b) l’acheminement rapide du personnel, des cargaisons, des produits et du matériel visés à l’al. a) à destination, à l’intérieur et en provenance de son territoire.
 
 #### Art. 8
@@ -195,7 +197,7 @@ Aux fins de la présente Convention:
 
 \1) Les Parties conviennent de coopérer directement ou, le cas échéant, par l’intermédiaire de l’Organisation ou des organisations ou arrangements régionaux appropriés pour promouvoir l’échange des résultats des programmes de recherche-développement visant à améliorer les techniques existantes de préparation et de lutte contre la pollution par les hydrocarbures, y compris les technologies et les techniques de surveillance, d’endiguement, de récupération, de dispersion et de nettoyage et les autres moyens permettant de limiter ou d’atténuer les effets d’une pollution par les hydrocarbures, ainsi que les techniques de réhabilitation.
 
-\2) A cette fin, les Parties s’engagent à instaurer directement ou, le cas échéant, par l’intermédiaire de l’Organisation ou des organisations ou arrangements régionaux appropriés les liens nécessaires entre les instituts de recherche des Parties.
+\2) À cette fin, les Parties s’engagent à instaurer directement ou, le cas échéant, par l’intermédiaire de l’Organisation ou des organisations ou arrangements régionaux appropriés les liens nécessaires entre les instituts de recherche des Parties.
 
 \3) Les Parties conviennent de coopérer directement ou par l’intermédiaire de l’Organisation ou des organisations ou arrangements régionaux appropriés pour promouvoir, le cas échéant, la tenue, à intervalles réguliers, de colloques internationaux sur des questions pertinentes, y compris les progrès de la technologie et du matériel de lutte contre la pollution par les hydrocarbures.
 
@@ -211,7 +213,7 @@ Aux fins de la présente Convention:
 
 - a) former du personnel;
 - b) assurer la disponibilité de la technologie, du matériel et des installations appropriés;
-- c) faciliter d’autres mesures et arrangements visant à se préparer et à lutter contre les événements de pollution par les hydrocarbures; et
+- c) faciliter d’autres mesures et arrangements visant à se préparer et à lutter contre les événements de pollution par les hydrocarbures, et
 - d) mettre en train des programmes communs de recherche-développement.
 
 #### Art. 10
@@ -230,7 +232,7 @@ Aucune des dispositions de la présente Convention ne saurait être interprété
 
 **Arrangements institutionnels**
 
-\2) En exécutant les activités mentionnées dans le présent article, l’Organisation s’efforce de renforcer la capacité des Etats, séparément ou au moyen d’arrangements régionaux, en matière de préparation et de lutte contre les événements de pollution par les hydrocarbures, en tirant parti de l’expérience des Etats, des accords régionaux et des arrangements du secteur industriel et en accordant une attention particulière aux besoins des pays en développement.
+\2) En exécutant les activités mentionnées dans le présent article, l’Organisation s’efforce de renforcer la capacité des États, séparément ou au moyen d’arrangements régionaux, en matière de préparation et de lutte contre les événements de pollution par les hydrocarbures, en tirant parti de l’expérience des États, des accords régionaux et des arrangements du secteur industriel et en accordant une attention particulière aux besoins des pays en développement.
 
 \3) Les dispositions du présent article sont mises en œuvre conformément à un programme mis au point et constamment revu par l’Organisation.
 
@@ -240,34 +242,34 @@ Aucune des dispositions de la présente Convention ne saurait être interprété
 
   services d’information:
 
-  - i) recevoir, collationner et diffuser sur demande les informations fournies par les Parties (voir par exemple les art. 5 2) et 3), 6 3) et 10) et les renseignements pertinents fournis par d’autres sources; et
+  - i) recevoir, collationner et diffuser sur demande les informations fournies par les Parties (voir par exemple les art. 5 2) et 3), 6 3) et 10) et les renseignements pertinents fournis par d’autres sources, et
   - ii) fournir une assistance pour aider à identifier les sources de financement provisoire des frais [voir par exemple l’art. 7 2)];
 
 - b)
 
   Enseignement et formation:
 
-  - i) promouvoir la formation en matière de préparation et de lutte contre la pollution par les hydrocarbures (voir par exemple l’art. 9); et
+  - i) promouvoir la formation en matière de préparation et de lutte contre la pollution par les hydrocarbures (voir par exemple l’art. 9), et
   - ii) encourager la tenue de colloques internationaux [voir par exemple l’art. 8 3)];
 
 - c)
 
   services techniques:
 
-  - i) faciliter la coopération en matière de recherche-développement [voir par exemple les art. 8 1), 2) et 4) et 9 1) d)];
-  - ii) fournir des conseils aux Etats mettant en place une capacité nationale ou régionale de lutte contre les événements de pollution par les hydrocarbures; et
-  - iii) analyser les informations fournies par les Parties [voir par exemple les art. 5 2) et 3), 6 3) et 8 1)] et les informations pertinentes fournies par d’autres sources et fournir des conseils ou des informations aux Etats;
+  - i) faciliter la coopération en matière de recherche-développement [voir par exemple les art. 8 1), 2) et 4) et 9 1) d)],
+  - ii) fournir des conseils aux États mettant en place une capacité nationale ou régionale de lutte contre les événements de pollution par les hydrocarbures, et
+  - iii) analyser les informations fournies par les Parties [voir par exemple les art. 5 2) et 3), 6 3) et 8 1)] et les informations pertinentes fournies par d’autres sources et fournir des conseils ou des informations aux États;
 
 - d)
 
   assistance technique:
 
-  - i) faciliter la prestation d’une assistance technique aux Etats mettant en place une capacité nationale ou régionale de lutte contre les événements de pollution par les hydrocarbures; et
-  - ii) faciliter la prestation d’une assistance technique et de conseils, sur demande, aux Etats confrontés à un événement grave de pollution par les hydrocarbures.
+  - i) faciliter la prestation d’une assistance technique aux États mettant en place une capacité nationale ou régionale de lutte contre les événements de pollution par les hydrocarbures, et
+  - ii) faciliter la prestation d’une assistance technique et de conseils, sur demande, aux États confrontés à un événement grave de pollution par les hydrocarbures.
 
 #### Art. 13
 
-**Evaluation de la Convention**
+**Évaluation de la Convention**
 
 Les Parties évaluent au sein de l’Organisation l’efficacité de la Convention en fonction de ses objectifs, en particulier eu égard aux principes régissant la coopération et l’assistance.
 
@@ -302,9 +304,9 @@ Les Parties évaluent au sein de l’Organisation l’efficacité de la Conventi
 
 \3) Amendement par une conférence:
 
-- a) A la demande d’une Partie, appuyée par un tiers au moins des Parties, le Secrétaire général convoque une conférence des Parties à la Convention pour examiner des amendements à la Convention.
+- a) À la demande d’une Partie, appuyée par un tiers au moins des Parties, le Secrétaire général convoque une conférence des Parties à la Convention pour examiner des amendements à la Convention.
 - b) Un amendement adopté par cette conférence à la majorité des deux tiers des Parties présentes et votantes est communiqué par le Secrétaire général à toutes les Parties pour acceptation.
-- c) A moins que la conférence n’en décide autrement, l’amendement est réputé avoir été accepté et entre en vigueur conformément aux procédures prévues aux al. 2) f) et g).
+- c) À moins que la conférence n’en décide autrement, l’amendement est réputé avoir été accepté et entre en vigueur conformément aux procédures prévues aux al. 2) f) et g).
 
 #### Art. 15
 
@@ -312,21 +314,21 @@ Les Parties évaluent au sein de l’Organisation l’efficacité de la Conventi
 
 \2) La ratification, l’acceptation, l’approbation ou l’adhésion s’effectuent par le dépôt d’un instrument à cet effet auprès du Secrétaire général.
 
-\1) La présente Convention est ouverte à la signature, au Siège de l’Organisation, du 30 novembre 1990 au 29 novembre 1991 et reste ensuite ouverte à l’adhésion. Tous les Etats peuvent devenir Parties à la présente Convention par:
+\1) La présente Convention est ouverte à la signature, au Siège de l’Organisation, du 30 novembre 1990 au 29 novembre 1991 et reste ensuite ouverte à l’adhésion. Tous les États peuvent devenir Parties à la présente Convention par:
 
-- a) signature sans réserve quant à la ratification, l’acceptation ou l’approbation; ou
-- b) signature sous réserve de ratification, d’acceptation ou d’approbation, suivie de ratification, d’acceptation ou d’approbation; ou
+- a) signature sans réserve quant à la ratification, l’acceptation ou l’approbation, ou
+- b) signature sous réserve de ratification, d’acceptation ou d’approbation, suivie de ratification, d’acceptation ou d’approbation, ou
 - c) adhésion.
 
 #### Art. 16
 
 **Entrée en vigueur**
 
-\1) La présente Convention entre en vigueur douze mois après la date à laquelle au moins quinze Etats ont, soit signé cette convention sans réserve quant à la ratification, l’acceptation ou l’approbation, soit déposé les instruments requis de ratification, d’acceptation, d’approbation ou d’adhésion, conformément aux dispositions de l’art. 15.
+\1) La présente Convention entre en vigueur douze mois après la date à laquelle au moins quinze États ont, soit signé cette convention sans réserve quant à la ratification, l’acceptation ou l’approbation, soit déposé les instruments requis de ratification, d’acceptation, d’approbation ou d’adhésion, conformément aux dispositions de l’art. 15.
 
-\2) Pour les Etats qui ont déposé un instrument de ratification, d’acceptation, d’approbation de la présente Convention ou d’adhésion à celle-ci après que les conditions régissant son entrée en vigueur ont été remplies mais avant son entrée en vigueur, la ratification, l’acceptation, l’approbation ou l’adhésion prend effet à la date de l’entrée en vigueur de la présente Convention, ou trois mois après la date du dépôt de l’instrument si cette dernière date est postérieure.
+\2) Pour les États qui ont déposé un instrument de ratification, d’acceptation, d’approbation de la présente Convention ou d’adhésion à celle-ci après que les conditions régissant son entrée en vigueur ont été remplies mais avant son entrée en vigueur, la ratification, l’acceptation, l’approbation ou l’adhésion prend effet à la date de l’entrée en vigueur de la présente Convention, ou trois mois après la date du dépôt de l’instrument si cette dernière date est postérieure.
 
-\3) Pour les Etats qui ont déposé un instrument de ratification, d’acceptation, d’approbation de la présente Convention ou d’adhésion à celle-ci après son entrée en vigueur, la présente Convention prend effet trois mois après la date du dépôt de l’instrument.
+\3) Pour les États qui ont déposé un instrument de ratification, d’acceptation, d’approbation de la présente Convention ou d’adhésion à celle-ci après son entrée en vigueur, la présente Convention prend effet trois mois après la date du dépôt de l’instrument.
 
 \4) Tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion déposé après la date à laquelle un amendement à la présente Convention est réputé avoir été accepté conformément à l’art. 14 s’applique à la Convention dans sa forme modifiée.
 
@@ -352,13 +354,13 @@ Les Parties évaluent au sein de l’Organisation l’efficacité de la Conventi
 
 - a)
 
-  informe tous les Etats qui ont signé la présente Convention ou qui y ont adhéré:
+  informe tous les États qui ont signé la présente Convention ou qui y ont adhéré:
 
   - i) de toute nouvelle signature ou de tout dépôt d’un nouvel instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ainsi que de leur date,
   - ii) de la date d’entrée en vigueur de la présente Convention, et
   - iii) du dépôt de tout instrument de dénonciation de la présente Convention, ainsi que de la date à laquelle il a été reçu et de la date à laquelle la dénonciation prend effet;
 
-- b) transmet des copies certifiées conformes de la présente Convention aux gouvernements de tous les Etats qui l’ont signée ou qui y ont adhéré.
+- b) transmet des copies certifiées conformes de la présente Convention aux gouvernements de tous les États qui l’ont signée ou qui y ont adhéré.
 
 [^18-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
@@ -374,22 +376,22 @@ Annexe
 
 ## Remboursement des frais d’assistance
 
-- 1) a) A moins qu’un accord relatif aux dispositions financières régissant les mesures prises par les Parties pour faire face à un événement de pollution par les hydrocarbures n’ait été conclu sur une base bilatérale ou multilatérale avant l’événement de pollution par les hydrocarbures, chaque Partie assume les coûts des mesures qu’elle a prises pour faire face à une pollution, conformément aux dispositions de l’al. i) ou de l’al. ii) ci-après.
+- 1) a) À moins qu’un accord relatif aux dispositions financières régissant les mesures prises par les Parties pour faire face à un événement de pollution par les hydrocarbures n’ait été conclu sur une base bilatérale ou multilatérale avant l’événement de pollution par les hydrocarbures, chaque Partie assume les coûts des mesures qu’elle a prises pour faire face à une pollution, conformément aux dispositions de l’al. i) ou de l’al. ii) ci-après.
   - i) Si des mesures sont prises par une Partie sur la requête expresse d’une autre Partie, la Partie requérante rembourse à la Partie assistante le coût de ces mesures. La Partie requérante peut annuler sa requête à tout moment, mais dans ce cas elle assume les frais déjà encourus ou engagés par la Partie assistante.
   - ii) Si des mesures sont prises par une Partie de sa propre initiative, cette Partie assume le coût de ces mesures.
 
 - b) Les principes énoncés à l’al. a) s’appliquent sauf si les Parties intéressées en décident autrement dans chaque cas individuel.
 
-\2) A moins qu’il en ait été décidé autrement, les coûts des mesures prises par une Partie sur la requête d’une autre Partie sont calculés de manière équitable conformément au droit et à la pratique en vigueur dans le pays de la Partie assistante en matière de remboursement de ces coûts.
+\2) À moins qu’il en ait été décidé autrement, les coûts des mesures prises par une Partie sur la requête d’une autre Partie sont calculés de manière équitable conformément au droit et à la pratique en vigueur dans le pays de la Partie assistante en matière de remboursement de ces coûts.
 
 \3) La Partie requérant une assistance et la Partie assistante coopèrent, en tant que de besoin, pour mener à bien toute action en demande d’indemnisation. Elles tiennent dûment compte pour ce faire des régimes juridiques existants. Lorsque l’action ainsi menée ne permet pas une indemnisation totale des dépenses encourues dans l’opération d’assistance, la Partie requérant l’assistance peut demander à la Partie assistante de renoncer au remboursement des frais qui dépassent les sommes indemnisées ou de réduire les coûts qui ont été calculés conformément aux dispositions du par. 2). Elle peut également demander à surseoir au remboursement de ces frais. Lorsqu’elles examinent une telle demande, les Parties assistantes tiennent dûment compte des besoins des pays en développement.
 
 \4) Les dispositions de la présente Convention ne doivent pas être interprétées comme portant atteinte de quelque manière que ce soit aux droits des Parties de recouvrer auprès de tiers le coût des mesures prises pour faire face à une pollution ou à une menace de pollution en vertu d’autres dispositions et règles applicables du droit national et international. Une attention particulière doit être accordée à la Convention internationale de 1969 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures et à la Convention internationale de 1971 portant création d’un Fonds international d’indemnisation pour les dommages dus à la pollution par les hydrocarbures ou à tout amendement apporté ultérieurement à ces conventions.
 
-Champ d’application le 21 mars 2019**[^t-2]**
+Champ d’application le 28 mars 2023[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>4 juillet</td><td>2008 A</td><td>4 octobre</td><td>2008</td></tr>
 <tr><td>Albanie</td><td>2 janvier</td><td>2008 A</td><td>2 avril</td><td>2008</td></tr>
 <tr><td>Algérie</td><td>8 mars</td><td>2005 A</td><td>8 juin</td><td>2005</td></tr>
@@ -403,6 +405,7 @@ Champ d’application le 21 mars 2019**[^t-2]**
 <tr><td>Bahamas</td><td>4 octobre</td><td>2001 A</td><td>4 janvier</td><td>2002</td></tr>
 <tr><td>Bahreïn</td><td>9 mars</td><td>2016 A</td><td>9 juin</td><td>2016</td></tr>
 <tr><td>Bangladesh</td><td>23 juillet</td><td>2004 A</td><td>23 octobre</td><td>2004</td></tr>
+<tr><td>Barbade</td><td>8 mars</td><td>2023 A</td><td>8 juin</td><td>2023</td></tr>
 <tr><td>Belgique</td><td>19 avril</td><td>2017 A</td><td>19 juillet</td><td>2017</td></tr>
 <tr><td>Bénin</td><td>5 février</td><td>2010 A</td><td>5 mai</td><td>2010</td></tr>
 <tr><td>Brésil</td><td>21 juillet</td><td>1998</td><td>21 octobre</td><td>1998</td></tr>
@@ -411,29 +414,30 @@ Champ d’application le 21 mars 2019**[^t-2]**
 <tr><td>Canada</td><td>7 mars</td><td>1994 A</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>Cap-Vert</td><td>4 juillet</td><td>2003 A</td><td>4 octobre</td><td>2003</td></tr>
 <tr><td>Chili</td><td>15 octobre</td><td>1997 A</td><td>15 janvier</td><td>1998</td></tr>
-<tr><td>Chine</td><td>30 mars</td><td>1998 A</td><td>30 juin</td><td>1998</td></tr>
+<tr><td>Chine\*</td><td>30 mars</td><td>1998 A</td><td>30 juin</td><td>1998</td></tr>
 <tr><td>[tab] Hong Kong</td><td>1<sup>er</sup> mai</td><td>2001</td><td>1<sup>er</sup> mai</td><td>2001</td></tr>
 <tr><td>[tab] Macao</td><td>1<sup>er</sup> mai</td><td>2001</td><td>1<sup>er</sup> mai</td><td>2001</td></tr>
 <tr><td>Colombie</td><td>11 juin</td><td>2008 A</td><td>11 septembre</td><td>2008</td></tr>
 <tr><td>Comores</td><td>5 janvier</td><td>2000 A</td><td>5 avril</td><td>2000</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>7 décembre</td><td>2004 A</td><td>7 décembre</td><td>2004</td></tr>
 <tr><td>Corée (Sud)</td><td>9 novembre</td><td>1999 A</td><td>9 février</td><td>2000</td></tr>
-<tr><td>Côte d’Ivoire</td><td>8 juillet</td><td>2013 A</td><td>8 octobre</td><td>2013</td></tr>
+<tr><td>Côte d’Ivoire</td><td>8 juillet</td><td>2013</td><td>8 octobre</td><td>2013</td></tr>
 <tr><td>Croatie</td><td>12 janvier</td><td>1998 A</td><td>12 avril</td><td>1998</td></tr>
 <tr><td>Cuba</td><td>10 avril</td><td>2008 A</td><td>10 juillet</td><td>2008</td></tr>
 <tr><td>Danemark</td><td>22 octobre</td><td>1996</td><td>22 janvier</td><td>1997</td></tr>
-<tr><td>[tab] Iles Féroé</td><td>18 février</td><td>2003</td><td>18 février</td><td>2003</td></tr>
+<tr><td>[tab] Îles Féroé</td><td>18 février</td><td>2003</td><td>18 février</td><td>2003</td></tr>
 <tr><td>Djibouti</td><td>19 janvier</td><td>1998 A</td><td>19 avril</td><td>1998</td></tr>
 <tr><td>Dominique</td><td>31 août</td><td>2001 A</td><td>30 novembre</td><td>2001</td></tr>
-<tr><td>Egypte</td><td>29 juin</td><td>1992</td><td>13 mai</td><td>1995</td></tr>
+<tr><td>Égypte</td><td>29 juin</td><td>1992</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>El Salvador</td><td>9 octobre</td><td>1995 A</td><td>9 janvier</td><td>1996</td></tr>
-<tr><td>Equateur</td><td>29 janvier</td><td>2002 A</td><td>29 avril</td><td>2002</td></tr>
+<tr><td>Équateur</td><td>29 janvier</td><td>2002</td><td>29 avril</td><td>2002</td></tr>
 <tr><td>Espagne</td><td>12 janvier</td><td>1994</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>Estonie</td><td>16 mai</td><td>2008 A</td><td>16 août</td><td>2008</td></tr>
-<tr><td>Etats-Unis</td><td>27 mars</td><td>1992</td><td>13 mai</td><td>1995</td></tr>
+<tr><td>États-Unis</td><td>27 mars</td><td>1992</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>Finlande</td><td>21 juillet</td><td>1993</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>France</td><td>6 novembre</td><td>1992</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>Gabon</td><td>12 avril</td><td>2005 A</td><td>12 juillet</td><td>2005</td></tr>
+<tr><td>Gambie</td><td>30 octobre</td><td>2019</td><td>30 janvier</td><td>2020</td></tr>
 <tr><td>Géorgie</td><td>20 février</td><td>1996 A</td><td>20 mai</td><td>1996</td></tr>
 <tr><td>Ghana</td><td>2 juin</td><td>2010</td><td>2 septembre</td><td>2010</td></tr>
 <tr><td>Grèce</td><td>7 mars</td><td>1995</td><td>7 juin</td><td>1995</td></tr>
@@ -441,7 +445,9 @@ Champ d’application le 21 mars 2019**[^t-2]**
 <tr><td>Guyana</td><td>10 décembre</td><td>1997 A</td><td>10 mars</td><td>1998</td></tr>
 <tr><td>Honduras</td><td>16 novembre</td><td>2016 A</td><td>16 février</td><td>2017</td></tr>
 <tr><td>Inde</td><td>17 novembre</td><td>1997 A</td><td>17 février</td><td>1998</td></tr>
+<tr><td>Indonésie</td><td>13 décembre</td><td>2022 A</td><td>13 mars</td><td>2023</td></tr>
 <tr><td>Iran</td><td>25 février</td><td>1998 A</td><td>25 mai</td><td>1998</td></tr>
+<tr><td>Iraq</td><td>19 juillet</td><td>2021 A</td><td>19 octobre</td><td>2021</td></tr>
 <tr><td>Irlande</td><td>26 avril</td><td>2001 A</td><td>26 juillet</td><td>2001</td></tr>
 <tr><td>Islande</td><td>21 juin</td><td>1993</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>Israël</td><td>24 mars</td><td>1999</td><td>24 juin</td><td>1999</td></tr>
@@ -454,16 +460,17 @@ Champ d’application le 21 mars 2019**[^t-2]**
 <tr><td>Liban</td><td>30 mars</td><td>2005</td><td>30 juin</td><td>2005</td></tr>
 <tr><td>Libéria</td><td>5 octobre</td><td>1995 A</td><td>5 janvier</td><td>1996</td></tr>
 <tr><td>Libye</td><td>18 juin</td><td>2004 A</td><td>18 septembre</td><td>2004</td></tr>
-<tr><td>Lituanie</td><td>23 décembre</td><td>2002</td><td>23 mars</td><td>2003</td></tr>
-<tr><td>Madagascar</td><td>20 mai</td><td>2002</td><td>20 août</td><td>2002</td></tr>
+<tr><td>Lituanie</td><td>23 décembre</td><td>2002 A</td><td>23 mars</td><td>2003</td></tr>
+<tr><td>Madagascar</td><td>20 mai</td><td>2002 A</td><td>20 août</td><td>2002</td></tr>
 <tr><td>Malaisie</td><td>30 juillet</td><td>1997 A</td><td>30 octobre</td><td>1997</td></tr>
 <tr><td>Malte</td><td>21 janvier</td><td>2003</td><td>21 avril</td><td>2003</td></tr>
 <tr><td>Maroc</td><td>29 avril</td><td>2003</td><td>29 juillet</td><td>2003</td></tr>
-<tr><td>Marshall, Iles</td><td>16 octobre</td><td>1995 A</td><td>16 janvier</td><td>1996</td></tr>
+<tr><td>Marshall, Îles</td><td>16 octobre</td><td>1995 A</td><td>16 janvier</td><td>1996</td></tr>
 <tr><td>Maurice</td><td>2 décembre</td><td>1999 A</td><td>2 mars</td><td>2000</td></tr>
 <tr><td>Mauritanie</td><td>22 novembre</td><td>1999 A</td><td>22 février</td><td>2000</td></tr>
 <tr><td>Mexique</td><td>13 mai</td><td>1994 A</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>Monaco</td><td>19 octobre</td><td>1999 A</td><td>19 janvier</td><td>2000</td></tr>
+<tr><td>Monténégro</td><td>12 juillet</td><td>2021 A</td><td>12 octobre</td><td>2021</td></tr>
 <tr><td>Mozambique</td><td>9 novembre</td><td>2005 A</td><td>10 février</td><td>2006</td></tr>
 <tr><td>Myanmar</td><td>15 décembre</td><td>2016 A</td><td>15 mars</td><td>2016</td></tr>
 <tr><td>Namibie</td><td>18 juin</td><td>2007 A</td><td>18 septembre</td><td>2007</td></tr>
@@ -473,19 +480,19 @@ Champ d’application le 21 mars 2019**[^t-2]**
 <tr><td>Oman</td><td>26 juin</td><td>2008 A</td><td>26 septembre</td><td>2008</td></tr>
 <tr><td>Pakistan</td><td>21 juillet</td><td>1993 A</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>Palaos</td><td>29 septembre</td><td>2011 A</td><td>29 décembre</td><td>2011</td></tr>
-<tr><td>Pays-Bas <sup>a</sup></td><td>1<sup>er</sup> décembre</td><td>1994</td><td>13 mai</td><td>1995</td></tr>
+<tr><td>Pays-Bas\*</td><td>1<sup>er</sup> décembre</td><td>1994</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>Aruba</td><td>13 octobre</td><td>2006</td><td>13 octobre</td><td>2006</td></tr>
 <tr><td>Curaçao</td><td>10 octobre</td><td>2010</td><td>10 octobre</td><td>2010</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>10 octobre</td><td>2010</td><td>10 octobre</td><td>2010</td></tr>
 <tr><td>Sint Maarten</td><td>10 octobre</td><td>2010</td><td>10 octobre</td><td>2010</td></tr>
-<tr><td>Pérou</td><td>24 avril</td><td>2002</td><td>24 juillet</td><td>2002</td></tr>
-<tr><td>Philippines</td><td>6 février</td><td>2014 A</td><td>6 mai</td><td>2014</td></tr>
+<tr><td>Pérou</td><td>24 avril</td><td>2002 A</td><td>24 juillet</td><td>2002</td></tr>
+<tr><td>Philippines</td><td>6 février</td><td>2014</td><td>6 mai</td><td>2014</td></tr>
 <tr><td>Pologne</td><td>12 juin</td><td>2003</td><td>12 septembre</td><td>2003</td></tr>
 <tr><td>Portugal</td><td>27 février</td><td>2006 A</td><td>27 mai</td><td>2006</td></tr>
 <tr><td>Qatar</td><td>8 mai</td><td>2007 A</td><td>8 août</td><td>2007</td></tr>
 <tr><td>Roumanie</td><td>17 novembre</td><td>2000 A</td><td>17 février</td><td>2001</td></tr>
 <tr><td>Royaume-Uni</td><td>16 septembre</td><td>1997 A</td><td>16 décembre</td><td>1997</td></tr>
-<tr><td>[tab] Ile de Man</td><td>16 mai</td><td>2003</td><td>16 mai</td><td>2003</td></tr>
+<tr><td>[tab] Île de Man</td><td>16 mai</td><td>2003</td><td>16 mai</td><td>2003</td></tr>
 <tr><td>Russie</td><td>18 septembre</td><td>2009 A</td><td>18 décembre</td><td>2009</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>7 octobre</td><td>2004 A</td><td>7 janvier</td><td>2005</td></tr>
 <tr><td>Sainte-Lucie</td><td>20 mai</td><td>2004 A</td><td>20 août</td><td>2004</td></tr>
@@ -498,7 +505,7 @@ Champ d’application le 21 mars 2019**[^t-2]**
 <tr><td>Soudan</td><td>21 janvier</td><td>2015 A</td><td>21 avril</td><td>2015</td></tr>
 <tr><td>Suède</td><td>30 mars</td><td>1992</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>Suisse</td><td>4 juillet</td><td>1996 A</td><td>4 octobre</td><td>1996</td></tr>
-<tr><td>Syrie</td><td>14 mars</td><td>2003</td><td>14 juin</td><td>2003</td></tr>
+<tr><td>Syrie</td><td>14 mars</td><td>2003 A</td><td>14 juin</td><td>2003</td></tr>
 <tr><td>Tanzanie</td><td>16 mai</td><td>2006 A</td><td>16 août</td><td>2006</td></tr>
 <tr><td>Thaïlande</td><td>20 avril</td><td>2000 A</td><td>20 juillet</td><td>2000</td></tr>
 <tr><td>Togo</td><td>23 avril</td><td>2012 A</td><td>23 juillet</td><td>2012</td></tr>
@@ -510,7 +517,7 @@ Champ d’application le 21 mars 2019**[^t-2]**
 <tr><td>Vanuatu</td><td>18 février</td><td>1999 A</td><td>18 mai</td><td>1999</td></tr>
 <tr><td>Venezuela</td><td>12 décembre</td><td>1994</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>Yémen</td><td>10 mai</td><td>2013 A</td><td>10 août</td><td>2013</td></tr>
-<tr><td colspan="5"><sup>a</sup> La convention est applicable au Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: RO **1998** 1029, [2003 2448](https://fedlex.data.admin.ch/eli/oc/2003/355), [2005 1671](https://fedlex.data.admin.ch/eli/oc/2005/268), [2008 23](https://fedlex.data.admin.ch/eli/oc/2008/9)[4135](https://fedlex.data.admin.ch/eli/oc/2008/584), [2012 1575](https://fedlex.data.admin.ch/eli/oc/2012/226), [2015 2935](https://fedlex.data.admin.ch/eli/oc/2015/551), [2019 1079](https://fedlex.data.admin.ch/eli/oc/2019/204). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1998 1016](https://fedlex.data.admin.ch/eli/oc/1998/1016_1016_1016); [2003 2448](https://fedlex.data.admin.ch/eli/oc/2003/355); [2005 1671](https://fedlex.data.admin.ch/eli/oc/2005/268); [2008 23](https://fedlex.data.admin.ch/eli/oc/2008/9), [4135](https://fedlex.data.admin.ch/eli/oc/2008/584); [2012 1575](https://fedlex.data.admin.ch/eli/oc/2012/226); [2015 2935](https://fedlex.data.admin.ch/eli/oc/2015/551); [2019 1079](https://fedlex.data.admin.ch/eli/oc/2019/204); [2023 172](https://fedlex.data.admin.ch/eli/oc/2023/172). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
