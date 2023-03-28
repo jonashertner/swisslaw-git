@@ -3,11 +3,11 @@ sr: "0.814.295"
 title: Internationales Übereinkommen von 2001 vom 5. Oktober 2001 über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/889"
 language: de
-version: 2023-01-01
+version: 2023-03-29
 adopted: 2001-10-05
 in_force: 2013-12-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/889/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2013-889-20230101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/889/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/889/20230329/de/xml/fedlex-data-admin-ch-eli-cc-2013-889-20230329-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/889/20230329/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2013** 5543; BBl **2012** 8639
 
 Abgeschlossen in London am 5. Oktober 2001 Von der Bundesversammlung genehmigt am 22. März 2013[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 24. September 2013 In Kraft getreten für die Schweiz am 24. Dezember 2013
 
-(Stand am 1. Januar 2023)
+(Stand am 29. März 2023)
 
 [^t-1]: Art. 1 Abs. 1 Bst. c des BB vom 22. März 2013 ([AS 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)).
 
@@ -398,7 +398,7 @@ Anlagen 1–4[^t-2]
 
 [^t-2]: Die Anlagen und ihre Änderungen werden in der AS und in der SR nicht mehr veröffentlicht ([AS 2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Dort werden sie in den Resolutionen des zuständigen IMO-Komitees jeweils nachgeführt. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel, eingesehen werden.
 
-Geltungsbereich am 21. August 2019[^t-3]
+Geltungsbereich am 29. März 2023[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -418,7 +418,8 @@ Geltungsbereich am 21. August 2019[^t-3]
 <tr><td>Hongkong</td><td>15. Februar</td><td>2016</td><td>15. Februar</td><td>2016</td></tr>
 <tr><td>Macau</td><td>7. März</td><td>2011</td><td>7. Juni</td><td>2011</td></tr>
 <tr><td>Cook-Inseln</td><td>12. März</td><td>2007 B</td><td>17. September</td><td>2008</td></tr>
-<tr><td>Deutschland</td><td>20. August</td><td>2008</td><td>20. November</td><td>2008</td></tr>
+<tr><td>Côte d’Ivoire</td><td>17. März</td><td>2023 B</td><td>17. Juni</td><td>2023</td></tr>
+<tr><td>Deutschland</td><td>20. August</td><td>2008 B</td><td>20. November</td><td>2008</td></tr>
 <tr><td>Dänemark<sup>\*</sup> <sup>a</sup></td><td>19. Februar</td><td>2003 U</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Färöer</td><td>4. Juni</td><td>2010</td><td>4. Juni</td><td>2010</td></tr>
 <tr><td>Estland</td><td>23. Januar</td><td>2009 B</td><td>23. April</td><td>2009</td></tr>
@@ -429,18 +430,20 @@ Geltungsbereich am 21. August 2019[^t-3]
 <tr><td>Georgien</td><td>13. September</td><td>2018 B</td><td>13. Dezember</td><td>2018</td></tr>
 <tr><td>Grenada</td><td>26. Juli</td><td>2018 B</td><td>26. Oktober</td><td>2018</td></tr>
 <tr><td>Griechenland</td><td>22. Dezember</td><td>2005 B</td><td>17. September</td><td>2008</td></tr>
+<tr><td>Guinea-Bissau</td><td>12. Mai</td><td>2022 B</td><td>12. August</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>20. Februar</td><td>2019 B</td><td>20. Mai</td><td>2019</td></tr>
-<tr><td>Indien</td><td>24. April</td><td>2015</td><td>27. Juli</td><td>2015</td></tr>
+<tr><td>Indien</td><td>24. April</td><td>2015 B</td><td>27. Juli</td><td>2015</td></tr>
 <tr><td>Indonesien</td><td>11. September</td><td>2014 B</td><td>11. Dezember</td><td>2014</td></tr>
 <tr><td>Iran<sup>\*</sup></td><td>6. April</td><td>2011 B</td><td>6. Juli</td><td>2011</td></tr>
 <tr><td>Irland</td><td>20. Oktober</td><td>2011 B</td><td>20. Januar</td><td>2012</td></tr>
 <tr><td>Italien</td><td>21. Januar</td><td>2013 B</td><td>21. April</td><td>2013</td></tr>
 <tr><td>Japan</td><td>8. Juli</td><td>2003 B</td><td>17. September</td><td>2008</td></tr>
-<tr><td>Jordanien</td><td>24. März</td><td>2010</td><td>24. Juni</td><td>2010</td></tr>
-<tr><td>Kanada</td><td>8. April</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
+<tr><td>Jordanien</td><td>24. März</td><td>2010 B</td><td>24. Juni</td><td>2010</td></tr>
+<tr><td>Kanada</td><td>8. April</td><td>2010 B</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Kenia</td><td>7. Juli</td><td>2015 B</td><td>7. Oktober</td><td>2015</td></tr>
 <tr><td>Kiribati</td><td>5. Februar</td><td>2007 B</td><td>17. September</td><td>2008</td></tr>
-<tr><td>Kongo (Kinshasa)</td><td>19. Mai</td><td>2014</td><td>19. August</td><td>2014</td></tr>
+<tr><td>Kongo (Kinshasa)</td><td>19. Mai</td><td>2014 B</td><td>19. August</td><td>2014</td></tr>
+<tr><td>Korea (Nord-)</td><td>21. August</td><td>2020 B</td><td>21. November</td><td>2020</td></tr>
 <tr><td>Korea (Süd-)</td><td>24. Juli</td><td>2008 B</td><td>24. Oktober</td><td>2008</td></tr>
 <tr><td>Kroatien</td><td>2. Dezember</td><td>2006 B</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Lettland</td><td>9. Dezember</td><td>2003 B</td><td>17. September</td><td>2008</td></tr>
@@ -449,13 +452,14 @@ Geltungsbereich am 21. August 2019[^t-3]
 <tr><td>Litauen</td><td>29. Januar</td><td>2007 B</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Luxemburg</td><td>21. November</td><td>2005 B</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Madagaskar</td><td>26. Juli</td><td>2019 B</td><td>26. Oktober</td><td>2019</td></tr>
-<tr><td>Malaysia</td><td>27. September</td><td>2010</td><td>27. Dezember</td><td>2010</td></tr>
+<tr><td>Malaysia</td><td>27. September</td><td>2010 B</td><td>27. Dezember</td><td>2010</td></tr>
 <tr><td>Malta</td><td>27. März</td><td>2009 B</td><td>27. Juni</td><td>2009</td></tr>
 <tr><td>Marokko</td><td>17. April</td><td>2010</td><td>14. Juli</td><td>2010</td></tr>
 <tr><td>Marshallinseln</td><td>9. Mai</td><td>2008 B</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Mexiko</td><td>7. Juni</td><td>2006 B</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Mongolei</td><td>28. September</td><td>2011 B</td><td>28. Dezember</td><td>2011</td></tr>
 <tr><td>Montenegro</td><td>29. November</td><td>2011 B</td><td>29. Februar</td><td>2012</td></tr>
+<tr><td>Myanmar</td><td>17. August</td><td>2022 B</td><td>17. November</td><td>2022</td></tr>
 <tr><td>Niederlande<sup>\*</sup></td><td>16. April</td><td>2008 B</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>10. Oktober</td><td>2010</td><td>10. Oktober</td><td>2010</td></tr>
 <tr><td>Nigeria</td><td>5. März</td><td>2003 B</td><td>17. September</td><td>2008</td></tr>
@@ -469,7 +473,8 @@ Geltungsbereich am 21. August 2019[^t-3]
 <tr><td>Polen</td><td>9. August</td><td>2004 B</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Portugal</td><td>8. Januar</td><td>2019 B</td><td>8. April</td><td>2019</td></tr>
 <tr><td>Rumänien</td><td>16. Februar</td><td>2005 B</td><td>17. September</td><td>2008</td></tr>
-<tr><td>Russland</td><td>19. Oktober</td><td>2012</td><td>19. Januar</td><td>2012</td></tr>
+<tr><td>Russland</td><td>19. Oktober</td><td>2012 B</td><td>19. Januar</td><td>2012</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>15. August</td><td>2022 B</td><td>15. November</td><td>2022</td></tr>
 <tr><td>Saudi-Arabien</td><td>25. April</td><td>2018 B</td><td>25. Juli</td><td>2018</td></tr>
 <tr><td>Schweden</td><td>10. Dezember</td><td>2003</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Schweiz</td><td>24. September</td><td>2013 B</td><td>24. Dezember</td><td>2013</td></tr>
@@ -479,18 +484,19 @@ Geltungsbereich am 21. August 2019[^t-3]
 <tr><td>Slowenien</td><td>18. Mai</td><td>2007 B</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Spanien</td><td>16. Februar</td><td>2004 B</td><td>17. September</td><td>2008</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>30. August</td><td>2005 B</td><td>17. September</td><td>2008</td></tr>
+<tr><td>St. Lucia</td><td>2. Dezember</td><td>2020 B</td><td>2. März</td><td>2021</td></tr>
 <tr><td>Syrien<sup>\*</sup></td><td>24. April</td><td>2009 B</td><td>24. Juli</td><td>2009</td></tr>
 <tr><td>Südafrika</td><td>2. Juli</td><td>2008 B</td><td>2. Oktober</td><td>2008</td></tr>
 <tr><td>Togo</td><td>6. Februar</td><td>2017 B</td><td>6. Mai</td><td>2017</td></tr>
 <tr><td>Tonga</td><td>16. April</td><td>2014 B</td><td>16. Juli</td><td>2014</td></tr>
-<tr><td>Trinidad und Tobago</td><td>3. Januar</td><td>2012</td><td>3. April</td><td>2012</td></tr>
+<tr><td>Trinidad und Tobago</td><td>3. Januar</td><td>2012 B</td><td>3. April</td><td>2012</td></tr>
 <tr><td>Tunesien</td><td>5. September</td><td>2011 B</td><td>5. Dezember</td><td>2011</td></tr>
 <tr><td>Türkei\*</td><td>30. November</td><td>2018 B</td><td>28. Februar</td><td>2019</td></tr>
 <tr><td>Tuvalu</td><td>2. Dezember</td><td>2005 B</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Ukraine\*</td><td>15. Juni</td><td>2017 B</td><td>15. Juni</td><td>2017</td></tr>
-<tr><td>Ungarn</td><td>30. Januar</td><td>2008</td><td>17. November</td><td>2008</td></tr>
+<tr><td>Ungarn</td><td>30. Januar</td><td>2008 B</td><td>17. November</td><td>2008</td></tr>
 <tr><td>Uruguay</td><td>26. März</td><td>2013 B</td><td>26. Juni</td><td>2013</td></tr>
-<tr><td>Vanuatu</td><td>20. August</td><td>2008</td><td>20. November</td><td>2008</td></tr>
+<tr><td>Vanuatu</td><td>20. August</td><td>2008 B</td><td>20. November</td><td>2008</td></tr>
 <tr><td>Vereinigte Staaten<sup>\*</sup></td><td>21. August</td><td>2012</td><td>21. November</td><td>2012</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>7. Juni</td><td>2010 B</td><td>7. September</td><td>2010</td></tr>
 <tr><td>Britische Jungferninseln</td><td>9. September</td><td>2013</td><td>9. September</td><td>2013</td></tr>
@@ -501,4 +507,4 @@ Geltungsbereich am 21. August 2019[^t-3]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland.</td></tr>
 </table>
 
-[^t-3]: [AS 2013 5543](https://fedlex.data.admin.ch/eli/oc/2013/889); [2016 2555](https://fedlex.data.admin.ch/eli/oc/2016/402); [2018 3033](https://fedlex.data.admin.ch/eli/oc/2018/476); [2019 2705](https://fedlex.data.admin.ch/eli/oc/2019/510). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-3]: [AS 2013 5543](https://fedlex.data.admin.ch/eli/oc/2013/889); [2016 2555](https://fedlex.data.admin.ch/eli/oc/2016/402); [2018 3033](https://fedlex.data.admin.ch/eli/oc/2018/476); [2019 2705](https://fedlex.data.admin.ch/eli/oc/2019/510); [2023 178](https://fedlex.data.admin.ch/eli/oc/2023/178). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty.

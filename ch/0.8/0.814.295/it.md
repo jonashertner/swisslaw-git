@@ -3,11 +3,11 @@ sr: "0.814.295"
 title: Convenzione internazionale del 2001 del 5 ottobre 2001 sul controllo dei sistemi antivegetativi nocivi sulle navi (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/889"
 language: it
-version: 2023-01-01
+version: 2023-03-29
 adopted: 2001-10-05
 in_force: 2013-12-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/889/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2013-889-20230101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/889/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/889/20230329/it/xml/fedlex-data-admin-ch-eli-cc-2013-889-20230329-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/889/20230329/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Londra il 5 ottobre 2001 Approvata dall’Assemblea federale il 22 marzo 2013[^t-1] Strumento di adesione depositato dalla Svizzera il 24 settembre 2013 Entrata in vigore per la Svizzera il 24 dicembre 2013
 
-(Stato 1° gennaio 2023)
+(Stato 29 marzo 2023)
 
 [^t-1]: Art. 1 cpv. 1 lett. c del DF del 22 mar. 2013 ([RU 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)).
 
@@ -398,7 +398,7 @@ Allegato 1 a 4[^t-2]
 
 [^t-2]: Gli all. e i loro emendamenti non sono più pubblicati nella RU e nella RS ([RU 2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì vengono aggiornati nelle risoluzioni del comitato competente dell’IMO. I testi in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
-Campo d’applicazione il 21 agosto 2019[^t-3]
+Campo d’applicazione il 29 marzo 2023[^t-3]
 
 <table>
 <tr><th>Stati Parti</th><th>Ratifica Adesione (A) Firmato senza riserva di ratifica (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -412,15 +412,17 @@ Campo d’applicazione il 21 agosto 2019[^t-3]
 <tr><td>Belgio</td><td>15 aprile</td><td>2009</td><td>15 luglio</td><td>2009</td></tr>
 <tr><td>Brasile</td><td>20 febbraio</td><td>2012</td><td>20 maggio</td><td>2012</td></tr>
 <tr><td>Bulgaria</td><td>3 dicembre</td><td>2004 A</td><td>17 settembre</td><td>2008</td></tr>
-<tr><td>Canada</td><td>8 aprile</td><td>2010</td><td>8 luglio</td><td>2010</td></tr>
+<tr><td>Canada</td><td>8 aprile</td><td>2010 A</td><td>8 luglio</td><td>2010</td></tr>
 <tr><td>Cile</td><td>6 ottobre</td><td>2016 A</td><td>6 gennaio</td><td>2017</td></tr>
 <tr><td>Cina</td><td>7 marzo</td><td>2011 A</td><td>7 giugno</td><td>2011</td></tr>
 <tr><td>Hong Kong</td><td>15 febbraio</td><td>2016</td><td>15 febbraio</td><td>2016</td></tr>
 <tr><td>Macao</td><td>7 marzo</td><td>2011</td><td>7 giugno</td><td>2011</td></tr>
 <tr><td>Cipro</td><td>23 dicembre</td><td>2005 A</td><td>17 settembre</td><td>2008</td></tr>
-<tr><td>Congo (Kinshasa)</td><td>19 maggio</td><td>2014</td><td>19 agosto</td><td>2014</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>19 maggio</td><td>2014 A</td><td>19 agosto</td><td>2014</td></tr>
 <tr><td>Cook, Isole</td><td>12 marzo</td><td>2007 A</td><td>17 settembre</td><td>2008</td></tr>
 <tr><td>Corea del Sud</td><td>24 luglio</td><td>2008 A</td><td>24 ottobre</td><td>2008</td></tr>
+<tr><td>Corea (Nord)</td><td>21 agosto</td><td>2020 A</td><td>21 novembre</td><td>2020</td></tr>
+<tr><td>Côte d’Ivoire</td><td>17 marzo</td><td>2023 A</td><td>17 giugno</td><td>2023</td></tr>
 <tr><td>Croazia</td><td>2 dicembre</td><td>2006 A</td><td>17 settembre</td><td>2008</td></tr>
 <tr><td>Danimarca<sup>\*</sup> <sup>a</sup></td><td>19 febbraio</td><td>2003 F</td><td>17 settembre</td><td>2008</td></tr>
 <tr><td>Isole Färöer</td><td>4 giugno</td><td>2010</td><td>4 giugno</td><td>2010</td></tr>
@@ -433,13 +435,14 @@ Campo d’applicazione il 21 agosto 2019[^t-3]
 <tr><td>Francia</td><td>12 marzo</td><td>2007 A</td><td>17 settembre</td><td>2008</td></tr>
 <tr><td>Gabon</td><td>17 aprile</td><td>2019 A</td><td>17 luglio</td><td>2019</td></tr>
 <tr><td>Georgia</td><td>13 settembre</td><td>2018 A</td><td>13 dicembre</td><td>2018</td></tr>
-<tr><td>Germania</td><td>20 agosto</td><td>2008</td><td>20 novembre</td><td>2008</td></tr>
+<tr><td>Germania</td><td>20 agosto</td><td>2008 A</td><td>20 novembre</td><td>2008</td></tr>
 <tr><td>Giappone</td><td>8 luglio</td><td>2003 A</td><td>17 settembre</td><td>2008</td></tr>
-<tr><td>Giordania</td><td>24 marzo</td><td>2010</td><td>24 giugno</td><td>2010</td></tr>
+<tr><td>Giordania</td><td>24 marzo</td><td>2010 A</td><td>24 giugno</td><td>2010</td></tr>
 <tr><td>Grecia</td><td>22 dicembre</td><td>2005 A</td><td>17 settembre</td><td>2008</td></tr>
 <tr><td>Grenada</td><td>26 luglio</td><td>2018 A</td><td>26 ottobre</td><td>2018</td></tr>
+<tr><td>Guinea-Bissau</td><td>12 maggio</td><td>2022 A</td><td>12 agosto</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>20 febbraio</td><td>2019 A</td><td>20 maggio</td><td>2019</td></tr>
-<tr><td>India</td><td>24 aprile</td><td>2015</td><td>27 luglio</td><td>2015</td></tr>
+<tr><td>India</td><td>24 aprile</td><td>2015 A</td><td>27 luglio</td><td>2015</td></tr>
 <tr><td>Indonesia</td><td>11 settembre</td><td>2014 A</td><td>11 dicembre</td><td>2014</td></tr>
 <tr><td>Iran<sup>\*</sup></td><td>6 aprile</td><td>2011 A</td><td>6 luglio</td><td>2011</td></tr>
 <tr><td>Irlanda</td><td>20 ottobre</td><td>2011 A</td><td>20 gennaio</td><td>2012</td></tr>
@@ -452,13 +455,14 @@ Campo d’applicazione il 21 agosto 2019[^t-3]
 <tr><td>Lituania</td><td>29 gennaio</td><td>2007 A</td><td>17 settembre</td><td>2008</td></tr>
 <tr><td>Lussemburgo</td><td>21 novembre</td><td>2005 A</td><td>17 settembre</td><td>2008</td></tr>
 <tr><td>Madagascar</td><td>26 luglio</td><td>2019 A</td><td>26 ottobre</td><td>2019</td></tr>
-<tr><td>Malaysia</td><td>27 settembre</td><td>2010</td><td>27 dicembre</td><td>2010</td></tr>
+<tr><td>Malaysia</td><td>27 settembre</td><td>2010 A</td><td>27 dicembre</td><td>2010</td></tr>
 <tr><td>Malta</td><td>27 marzo</td><td>2009 A</td><td>27 giugno</td><td>2009</td></tr>
 <tr><td>Marocco</td><td>17 aprile</td><td>2010</td><td>14 luglio</td><td>2010</td></tr>
 <tr><td>Marshall, Isole</td><td>9 maggio</td><td>2008 A</td><td>17 settembre</td><td>2008</td></tr>
 <tr><td>Messico</td><td>7 giugno</td><td>2006 A</td><td>17 settembre</td><td>2008</td></tr>
 <tr><td>Mongolia</td><td>28 settembre</td><td>2011 A</td><td>28 dicembre</td><td>2011</td></tr>
 <tr><td>Montenegro</td><td>29 novembre</td><td>2011 A</td><td>29 febbraio</td><td>2012</td></tr>
+<tr><td>Myanmar</td><td>17 agosto</td><td>2022 A</td><td>17 novembre</td><td>2022</td></tr>
 <tr><td>Nigeria</td><td>5 marzo</td><td>2003 A</td><td>17 settembre</td><td>2008</td></tr>
 <tr><td>Niue</td><td>18 maggio</td><td>2012 A</td><td>18 agosto</td><td>2012</td></tr>
 <tr><td>Norvegia</td><td>5 settembre</td><td>2003 A</td><td>17 settembre</td><td>2008</td></tr>
@@ -475,8 +479,10 @@ Campo d’applicazione il 21 agosto 2019[^t-3]
 <tr><td>Man, Isola di</td><td>21 maggio</td><td>2014</td><td>21 maggio</td><td>2014</td></tr>
 <tr><td>Vergini Britanniche, Isole</td><td>9 settembre</td><td>2013</td><td>9 settembre</td><td>2013</td></tr>
 <tr><td>Romania</td><td>16 febbraio</td><td>2005 A</td><td>17 settembre</td><td>2008</td></tr>
-<tr><td>Russia</td><td>19 ottobre</td><td>2012</td><td>19 gennaio</td><td>2012</td></tr>
+<tr><td>Russia</td><td>19 ottobre</td><td>2012 A</td><td>19 gennaio</td><td>2012</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>30 agosto</td><td>2005 A</td><td>17 settembre</td><td>2008</td></tr>
+<tr><td>Santa Lucia</td><td>2 dicembre</td><td>2020 A</td><td>2 marzo</td><td>2021</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>15 agosto</td><td>2022 A</td><td>15 novembre</td><td>2022</td></tr>
 <tr><td>Serbia</td><td>8 luglio</td><td>2010 A</td><td>8 ottobre</td><td>2010</td></tr>
 <tr><td>Sierra Leone</td><td>21 novembre</td><td>2007 A</td><td>17 settembre</td><td>2008</td></tr>
 <tr><td>Singapore</td><td>31 dicembre</td><td>2009 A</td><td>31 marzo</td><td>2010</td></tr>
@@ -489,16 +495,16 @@ Campo d’applicazione il 21 agosto 2019[^t-3]
 <tr><td>Svizzera</td><td>24 settembre</td><td>2013 A</td><td>24 dicembre</td><td>2013</td></tr>
 <tr><td>Togo</td><td>6 febbraio</td><td>2017 A</td><td>6 maggio</td><td>2017</td></tr>
 <tr><td>Tonga</td><td>16 aprile</td><td>2014 A</td><td>16 luglio</td><td>2014</td></tr>
-<tr><td>Trinidad e Tobago</td><td>3 gennaio</td><td>2012</td><td>3 aprile</td><td>2012</td></tr>
+<tr><td>Trinidad e Tobago</td><td>3 gennaio</td><td>2012 A</td><td>3 aprile</td><td>2012</td></tr>
 <tr><td>Tunisia</td><td>5 settembre</td><td>2011 A</td><td>5 dicembre</td><td>2011</td></tr>
 <tr><td>Turchia\*</td><td>30 novembre</td><td>2018 A</td><td>28 febbraio</td><td>2019</td></tr>
 <tr><td>Tuvalu</td><td>2 dicembre</td><td>2005 A</td><td>17 settembre</td><td>2008</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>15 giugno</td><td>2017 A</td><td>15 giugno</td><td>2017</td></tr>
-<tr><td>Ungheria</td><td>30 gennaio</td><td>2008</td><td>17 novembre</td><td>2008</td></tr>
+<tr><td>Ungheria</td><td>30 gennaio</td><td>2008 A</td><td>17 novembre</td><td>2008</td></tr>
 <tr><td>Uruguay</td><td>26 marzo</td><td>2013 A</td><td>26 giugno</td><td>2013</td></tr>
-<tr><td>Vanuatu</td><td>20 agosto</td><td>2008</td><td>20 novembre</td><td>2008</td></tr>
+<tr><td>Vanuatu</td><td>20 agosto</td><td>2008 A</td><td>20 novembre</td><td>2008</td></tr>
 <tr><td>Vietnam</td><td>27 novembre</td><td>2015 A</td><td>27 febbraio</td><td>2015</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazione non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alla Groenlandia.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazione non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alla Groenlandia.</td></tr>
 </table>
 
-[^t-3]: [RU 2013 5543](https://fedlex.data.admin.ch/eli/oc/2013/889); [2016 2555](https://fedlex.data.admin.ch/eli/oc/2016/402); [2018 3033](https://fedlex.data.admin.ch/eli/oc/2018/476); [2019 2705](https://fedlex.data.admin.ch/eli/oc/2019/510). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 2013 5543](https://fedlex.data.admin.ch/eli/oc/2013/889); [2016 2555](https://fedlex.data.admin.ch/eli/oc/2016/402); [2018 3033](https://fedlex.data.admin.ch/eli/oc/2018/476); [2019 2705](https://fedlex.data.admin.ch/eli/oc/2019/510); [2023 178](https://fedlex.data.admin.ch/eli/oc/2023/178). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
