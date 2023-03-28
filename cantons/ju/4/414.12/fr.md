@@ -1,0 +1,418 @@
+---
+canton: JU
+number: "414.12"
+title: "Arrêté portant approbation de l'accord intercantonal sur les contributions aux coûts de formation des hautes écoles universitaires"
+language: fr
+adopted: 2023-03-29
+url: "https://rsju.jura.ch/fr/viewdocument.html?idn=20075&id=39040"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton JU. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Arrêté portant approbation de l'accord intercantonal sur les contributions aux coûts de formation des hautes écoles universitaires
+
+du 29 mars 2023
+
+Le Parlement de la République et Canton du Jura,
+
+vu les articles 78, lettres b et c, et 84, lettre b, de la Constitution cantonale[^t-1],
+
+vu l'article premier, alinéa 1, de la loi du 20 décembre 1978 sur l'approbation des traités, concordats et autres conventions[^t-2],
+
+vu l'article 117a, alinéa 3, de la loi du 1<sup>er</sup> octobre 2008 sur l’enseignement et la formation des niveaux secondaire II et tertiaire et sur la formation continue[^t-3],
+
+arrête :
+
+[^t-1]: RSJU 101
+[^t-2]: RSJU 111.1
+[^t-3]: RSJU 412.11
+
+#### Article premier
+
+L'accord intercantonal sur les contributions aux coûts de formation des hautes écoles universitaires (accord intercantonal universitaire, AIU) du 27 juin 2019 est approuvé.
+
+#### Art. 2
+
+L’arrêté du 9 septembre 1998 portant approbation de l’accord intercantonal universitaire est abrogé.
+
+#### Art. 3
+
+Le présent arrêté est soumis au référendum facultatif.
+
+[^3-1]: 1er janvier 2024
+
+#### Art. 4
+
+Le Gouvernement fixe l’entrée en vigueur[^3-1] du présent arrêté.
+
+Delémont, le 29 mars 2023
+
+AU NOM DU PARLEMENT DE LA REPUBLIQUE ET CANTON DU JURA
+
+La présidente : Amélie Brahier Le secrétaire : Fabien Kohler
+
+## Annexe
+
+## Accord intercantonal sur les contributions aux coûts de formation des hautes écoles universitaires (accord intercantonal universitaire, AIU)
+
+du 27 juin 2019
+
+### SECTION 1 : Dispositions générales
+
+#### Article premier
+
+**But**
+
+<sup>1</sup> L’accord règle l’accès intercantonal aux hautes écoles
+
+universitaires cantonales et aux institutions du domaine universitaire en respect du principe de l’égalité de traitement et fixe la compensation versée par les cantons aux cantons responsables.
+
+<sup>2</sup> Il favorise ainsi l’équilibre des charges entre les cantons et la libre circulation estudiantine et s’inscrit dans la coordination de la politique des hautes écoles en Suisse.
+
+#### Art. 2
+
+**Subsidiarité par rapport aux accords de coresponsabilité et de cofinancement**
+
+Les accords intercantonaux qui règlent la coresponsabilité et le cofinancement d’une ou de plusieurs hautes écoles universitaires et d’institutions du domaine universitaire priment le présent accord, à condition qu’ils n’enfreignent pas les principes prévus à l’article 3.
+
+#### Art. 3
+
+**Principes**
+
+<sup>1</sup> Les cantons débiteurs versent aux cantons responsables des
+
+hautes écoles universitaires des contributions aux coûts de formation de leurs étudiantes et étudiants.
+
+<sup>2</sup> Les cantons responsables des hautes écoles universitaires sont tenus de fournir pour leurs propres étudiantes et étudiants des prestations appréciables en argent au moins équivalentes à celles prévues par le présent accord.
+
+<sup>3</sup> Ils accordent les mêmes droits aux étudiantes et étudiants de tous les cantons membres de l’accord.
+
+### SECTION 2 : Droit aux contributions
+
+#### Art. 4
+
+**Offres d’études donnant droit à des contributions**
+
+<sup>1</sup> Donnent droit à des contributions les offres d’études proposées
+
+par les hautes écoles publiques cantonales qui sont au bénéfice d’une accréditation d’institution et par les institutions publiques cantonales du domaine universitaire qui sont accréditées.
+
+<sup>2</sup> La Conférence des cantons membres de l’accord peut reconnaître le droit à des contributions pour les hautes écoles universitaires et les institutions du domaine universitaire qui sont en cours de procédure d’accréditation. Elle définit les critères déterminants dans des directives. L’article 26 demeure réservé.
+
+<sup>3</sup> Les offres d’études débouchant sur un diplôme qui permet d’accéder à une profession réglementée donnent droit à des contributions si elles respectent les conditions de reconnaissance supplémentaires formulées dans le droit applicable.
+
+<sup>4</sup> Sont considérées comme offres d’études au sens des alinéas 1 à 3 :
+
+- a) les études de niveau bachelor ou master;
+
+- b) les études de niveau doctorat, en tenant compte de l’article 11;
+
+- c) d’autres offres d’études désignées par la Conférence des cantons membres de l’accord.
+
+<sup>5</sup> Les cours préparatoires et les offres de formation continue ne donnent pas droit à des contributions.
+
+#### Art. 5
+
+**Offres d’institutions privées donnant droit à des contributions**
+
+<sup>1</sup> Les offres d’études des hautes écoles qui sont au bénéfice d’une
+
+accréditation d’institution et celles des institutions du domaine universitaire privées accréditées peuvent se voir reconnaître le droit à des contributions par la Conférence des cantons membres de l’accord, à condition que le canton siège :
+
+- a) participe au financement de la haute école privée;
+
+- b) lui fournisse pour ses propres étudiantes et étudiants des prestations appréciables en argent au moins équivalentes à celles prévues par le présent accord;
+
+- c) garantisse qu’elle accorde les mêmes droits aux étudiantes et étudiants de tous les cantons membres de l’accord; et
+
+- d) soit représenté dans l’instance responsable de ladite haute école ou participe sous une autre forme à la conduite stratégique de celle-ci.
+
+<sup>2</sup> L’article 4, alinéas 3 à 5, et l’article 6 s’appliquent également aux institutions privées.
+
+#### Art. 6
+
+**Base de données des filières d’études donnant droit à des contributions**
+
+<sup>1</sup> Les filières d’études donnant droit à des contributions sont
+
+recensées par domaines d’études dans une base de données.
+
+<sup>2</sup> Si les caractéristiques du système de formation ne permettent pas de déterminer à quel domaine d’études appartient une offre ou en cas de controverse, la question est tranchée par la Commission AIU.
+
+#### Art. 7
+
+**Etudiantes et étudiants**
+
+<sup>1</sup> Sont réputées étudiantes et étudiants donnant lieu à des
+
+contributions au titre du présent accord les personnes qui sont immatriculées pour une offre d’études donnant droit à des contributions.
+
+<sup>2</sup> Les étudiantes et étudiants ne capitalisant pas d’unités de cours ne donnent pas lieu à des contributions.
+
+<sup>3</sup> Les effectifs estudiantins sont établis sur la base des statistiques de l’Office fédéral de la statistique (OFS).
+
+### SECTION 3 : Calcul des contributions et obligation de paiement
+
+#### Art. 8
+
+**Assiette des contributions**
+
+<sup>1</sup> Les contributions intercantonales sont fixées pour chaque groupe
+
+de coûts sous la forme d’un montant forfaitaire annuel par étudiant ou étudiante.
+
+<sup>2</sup> Elles sont facturées aux cantons débiteurs sur la base des effectifs estudiantins recensés aux semestres d’automne et de printemps. La Commission AIU décide des modalités de la facturation.
+
+#### Art. 9
+
+**Bases servant à fixer le montant des contributions intercantonales**
+
+<sup>1</sup> Le calcul des contributions intercantonales se base sur le coût
+
+standardisé de chaque domaine d’études. Ce coût s’obtient en prenant en compte :
+
+- a) le solde du coût d’exploitation de l’enseignement après déduction des fonds de tiers alloués à l’enseignement, à 100 %; et
+
+- b) le solde du coût d’exploitation de la recherche à la charge du canton responsable de la haute école universitaire après déduction des fonds de tiers alloués à la recherche, à 85 %.
+
+Ce coût est déterminé sur la base de la statistique financière des hautes écoles de l’Office fédéral de la statistique (OFS). Le coût des infrastructures n’est pas crédité.
+
+<sup>2</sup> Les domaines d’études et leur rattachement aux groupes de coûts sont définis dans l’annexe de l’accord.
+
+<sup>3</sup> En cas de modifications importantes des bases de calcul définies à l’alinéa 1, la Conférence des cantons membres de l’accord est habilitée à changer le groupe de coûts auquel un domaine d’études est rattaché, à créer des groupes de coûts supplémentaires et/ou à subdiviser un groupe de coûts existant. Elle peut en outre plafonner le coût d’exploitation de la recherche pris en compte lorsque cela s’avère justifié.
+
+#### Art. 10
+
+**Hauteur des contributions intercantonales**
+
+<sup>1</sup> Pour chaque groupe de coûts est calculée la moyenne des
+
+coûts standardisés des domaines d’études. De ce coût moyen est déduit un montant correspondant à la moyenne des taxes de cours ainsi qu’aux contributions fédérales effectives ou forfaitaires. Les contributions correspondent à 85 % du montant ainsi obtenu.
+
+<sup>2</sup> La hauteur des contributions intercantonales pour le groupe de coûts III ne dépasse pas le double de la moyenne des coûts de l’enseignement calculés conformément à l’article 9, alinéa 1, lettre a, pour les domaines d’études appartenant à ce groupe. La Conférence des cantons membres de l’accord est habilitée à augmenter la hauteur des contributions pour le groupe de coûts III au-delà du maximum fixé lorsque cela s’avère justifié. L’article 26, alinéa 3, demeure réservé.
+
+<sup>3</sup> La Conférence des cantons membres de l’accord a compétence pour fixer la hauteur et la durée de validité des contributions.
+
+#### Art. 11
+
+**Durée de l’obligation de payer les contributions**
+
+<sup>1</sup> Les contributions intercantonales au sens du présent accord
+
+doivent être versées pour le premier et, le cas échéant, pour un second cursus. Ces cursus peuvent comprendre le cycle de bachelor, le cycle de master et éventuellement le cycle doctoral. Un second cursus ne peut être financé qu’après l’obtention d’un premier titre universitaire du niveau master.
+
+<sup>2</sup> La durée de l’obligation de payer est limitée à 12 semestres pour le premier cursus et à 12 semestres supplémentaires pour le second cursus. Pour les cursus de médecine, l’obligation de payer est prolongée à 16 semestres.
+
+<sup>3</sup> La Conférence des cantons membres de l’accord fixe la durée maximale donnant droit à des contributions pour les offres d’études visées par l’article 4, alinéa 4, lettre c.
+
+#### Art. 12
+
+**Canton débiteur**
+
+<sup>1</sup> Est canton débiteur le canton membre de l’accord dans lequel
+
+l’étudiant ou l’étudiante avait son domicile légal (art. 23 ss CC[^12-1]) au moment de l’obtention du certificat donnant accès aux études universitaires.
+
+<sup>2</sup> En cas de second cursus, le canton débiteur est celui où se trouve le domicile légal de l’étudiant ou de l’étudiante au moment du début de ses secondes études (début du semestre).
+
+[^12-1]: RS 210
+
+#### Art. 13
+
+**Taxes de cours**
+
+Les cantons responsables des hautes écoles universitaires peuvent percevoir des taxes de cours individuelles appropriées. Si la somme desdites taxes et des contributions prévues à l’article 10 dépasse le coût standardisé ayant servi au calcul des contributions pour le groupe de coûts concerné selon l’annexe, le montant de celles-ci est réduit en conséquence.
+
+### SECTION 4 : Accès aux hautes écoles et égalité de traitement
+
+#### Art. 14
+
+**Egalité de traitement lors de l’admission**
+
+Les candidates et candidats aux études ainsi que les étudiantes et étudiants de tous les cantons membres de l’accord bénéficient des mêmes droits d’accès que ceux du ou des canton(s) responsable(s) de la haute école universitaire, y compris en cas de limitations de l’accès aux études.
+
+#### Art. 15
+
+**Traitement des étudiantes et étudiants des cantons non membres de l’accord**
+
+<sup>1</sup> Les étudiantes et étudiants provenant de cantons qui n’ont pas
+
+adhéré au présent accord ne peuvent se prévaloir des mêmes droits que les autres étudiantes et étudiants.
+
+<sup>2</sup> Ils ne sont admis à une filière d’études donnant droit à des contributions selon le présent accord qu’une fois que les étudiantes et les étudiants des cantons membres de l’accord y ont obtenu une place d’études.
+
+<sup>3</sup> Ils doivent s’acquitter, pour les cursus suivis, de contributions d’un montant correspondant au moins à celui des contributions prévues à l’article 10.
+
+### SECTION 5 : Exécution
+
+#### Art. 16
+
+**Conférence des cantons membres de l’accord**
+
+<sup>1</sup> La Conférence des cantons membres de l’accord se compose
+
+des représentantes et représentants des gouvernements des cantons qui ont adhéré à l’accord, à raison d’un conseiller ou d’une conseillère d’Etat par canton.
+
+<sup>2</sup> Ses tâches sont les suivantes :
+
+- a) fixer la hauteur et la durée de validité des contributions intercantonales pour chaque groupe de coûts et définir le montant de la déduction correspondant aux contributions fédérales (art. 10);
+
+- b) définir les domaines d’études et les rattacher à un groupe de coûts (art. 9, al. 2);
+
+- c) changer le groupe de coûts auquel un domaine d’études est rattaché, créer des groupes de coûts supplémentaires et/ou subdiviser un groupe de coûts existant ainsi qu’adapter l’annexe de l’accord en conséquence (art. 9, al. 3);
+
+- d) plafonner le coût d’exploitation de la recherche pris en compte lorsque cela s’avère justifié (art. 9, al. 3);
+
+- e) augmenter la hauteur des contributions pour le groupe de coûts III au-delà du maximum fixé (art. 10, al. 2);
+
+- f) désigner les autres offres d’études assimilées (art. 4, al. 4, lettre c) et fixer leur durée ordinaire (art. 11, al. 3);
+
+- g) réduire le cas échéant les contributions (art. 13);
+
+- h) reconnaître ou non le droit à des contributions pour les offres d’études des hautes écoles en cours de procédure d’accréditation (art. 4, al. 2), pour celles débouchant sur un diplôme qui permet d’accéder à une profession réglementée (art. 4, al. 3) ainsi que pour celles des hautes écoles privées (art. 5);
+
+- i) approuver le budget et les comptes relatifs à l’exécution de l’accord (art. 19);
+
+- j) élire les membres de la Commission AIU ainsi que son président ou sa présidente (art. 17); et
+
+- k) fixer l’année comptable à partir de laquelle les contributions pour le groupe de coûts III sont calculées sur la base des coûts validés.
+
+<sup>3</sup> Les décisions relevant de l’alinéa 2, lettres a à g, ainsi que k, requièrent la majorité des deux tiers des membres de la Conférence dont la moitié au moins des cantons universitaires au sens du concordat du 20 juin 2013 sur les hautes écoles[^16-1]. Les autres décisions se prennent à la majorité simple des membres présents.
+
+[^16-1]: RSJU 414.70
+
+#### Art. 17
+
+**Commission AIU**
+
+<sup>1</sup> En vue de l’exécution du présent accord, la Conférence des
+
+cantons membres de l’accord institue une Commission AIU. Ses membres sont nommés pour une période de quatre ans.
+
+<sup>2</sup> La Commission AIU se compose de huit conseillères et conseillers d’Etat issus de cantons membres de l’accord. Quatre représentent un canton responsable d’une haute école universitaire et quatre, un canton qui ne l’est pas.
+
+<sup>3</sup> Le Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI) et l’Office fédéral de la statistique (OFS) sont représentés à raison d’une personne chacun, qui prend part aux séances avec voix consultative.
+
+<sup>4</sup> Les tâches de la Commission AIU sont notamment les suivantes :
+
+- a) superviser l’exécution de l’accord, et en particulier le secrétariat;
+
+- b) déterminer le groupe de coûts en cas de controverse conformément à l’article 6, alinéa 2;
+
+- c) formuler des propositions à l’attention de la Conférence des cantons membres de l’accord pour les décisions relevant de l’article 16, alinéa 2, lettres a à g et k; et
+
+- d) réglementer les modalités concernant la facturation, le paiement des contributions, les échéances, les jours de référence et la procédure concernant les éventuels intérêts moratoires.
+
+#### Art. 18
+
+**Secrétariat**
+
+<sup>1</sup> Le Secrétariat général de la Conférence suisse des directeurs
+
+cantonaux de l’instruction publique (CDIP) assume les fonctions de secrétariat de l’accord.
+
+<sup>2</sup> Il procède à l’encaissement centralisé des contributions.
+
+#### Art. 19
+
+**Frais liés à l’exécution de l’accord**
+
+Les frais liés à l’exécution du présent accord sont à la charge des cantons qui en sont membres, au prorata de leurs effectifs estudiantins. Ils sont facturés annuellement.
+
+#### Art. 20
+
+**Règlement des litiges**
+
+<sup>1</sup> Le règlement des litiges qui pourraient survenir entre cantons
+
+membres de l’accord dans le cadre de l’application de celui-ci intervient selon la procédure définie dans l’accord-cadre du 24 juin 2005 pour la collaboration intercantonale assortie d’une compensation des charges (ACI)[^20-1].
+
+<sup>2</sup> Les litiges ne pouvant être réglés par cette voie sont tranchés par voie d’action auprès du Tribunal fédéral en application de l’article 120, alinéa 1, lettre b, de la loi du 17 juin 2005 sur le Tribunal fédéral (LTF)[^20-2].
+
+[^20-1]: RSJU 659.1
+[^20-2]: RS 173.110
+
+### SECTION 6 : Dispositions finales
+
+#### Art. 21
+
+**Adhésion**
+
+<sup>1</sup> L’adhésion au présent accord se déclare auprès du Comité de
+
+la Conférence suisse des directeurs cantonaux de l’instruction publique.
+
+<sup>2</sup> En même temps qu’ils déclarent leur adhésion au présent accord, les cantons se retirent de l’accord intercantonal universitaire du 20 février 1997.
+
+#### Art. 22
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le Comité de la Conférence suisse des directeurs cantonaux de
+
+l’instruction publique fait entrer le présent accord en vigueur dès que celui-ci a reçu l’adhésion de 18 cantons.
+
+<sup>2</sup> L’entrée en vigueur de l’accord est communiquée à la Confédération.
+
+#### Art. 23
+
+**Dénonciation**
+
+L’accord peut être dénoncé au 31 décembre de chaque année, par déclaration écrite adressée à la Conférence des cantons membres de l’accord et moyennant un préavis de deux ans.
+
+#### Art. 24
+
+**Persistance des obligations en cas de dénonciation de l’accord**
+
+En cas de dénonciation du présent accord par un canton, ce dernier conserve les obligations qu’il a contractées dans le cadre de l’accord pour les étudiantes et les étudiants se trouvant en formation à la date de son retrait, et ce, jusqu’à la fin de leurs études.
+
+#### Art. 25
+
+**Principauté du Liechtenstein**
+
+La principauté du Liechtenstein peut adhérer au présent accord sur la base de sa propre législation. Elle a alors les mêmes droits et les mêmes obligations que les cantons membres de l’accord.
+
+#### Art. 26
+
+**Dispositions transitoires**
+
+<sup>1</sup> Le droit à des contributions fondé sur l’accord intercantonal
+
+universitaire du 20 février 1997 reste acquis jusqu’à l’octroi de l’accréditation d’institution (art. 4, al. 2, et art. 5, al. 1) conformément à la loi du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles (LEHE)[^26-1] et/ou jusqu’au constat du respect des conditions de reconnaissance supplémentaires conformément à l’article 4, alinéa 3, et à l’article 5, alinéa 2, mais au plus durant les huit ans qui suivent l’entrée en vigueur de la LEHE[^26-1].
+
+<sup>2</sup> L’indemnisation des cantons n’ayant pas ou pas encore adhéré au présent accord s’effectue sur la base de l’accord intercantonal universitaire du 20 février 1997, mais au plus durant les deux ans qui suivent l’entrée en vigueur du présent accord. Une fois ce délai échu, l’article 15 s’applique à tous les cantons non membres de l’accord.
+
+<sup>3</sup> Tant que les coûts validés des études de médecine humaine, dentaire et vétérinaire ne seront pas disponibles, les contributions intercantonales pour le groupe de coûts III s’élèveront au double des contributions pour le groupe de coûts II. La Conférence des cantons membres de l’accord décide à partir de quelle année comptable les contributions pour le groupe de coûts III sont versées sur la base des coûts validés.
+
+[^26-1]: RS 414.20
+
+#### Art. 27
+
+**Calcul des contributions lors du passage de l’AIU 1997 à l’AIU 2019**
+
+<sup>1</sup> Le calcul des contributions cantonales est aménagé comme suit
+
+pendant une période transitoire de trois ans après l’entrée en vigueur de l’AIU 2019 :
+
+- a) multiplication de la différence entre les contributions selon l’AIU 2019 et selon l’AIU 1997 par le facteur 0,25 pour la première année de facturation, par le facteur 0,5 pour la deuxième année de facturation puis par le facteur 0,75 pour la troisième année de facturation et détermination du rectificatif correspondant pour chaque canton;
+
+- b) calcul des contributions effectives par canton sur la base des contributions selon l’AIU 1997 et de l’ajout du rectificatif calculé selon la lettre a.
+
+<sup>2</sup> Après cette phase de transition de trois ans, les contributions cantonales sont calculées uniquement sur la base de l’AIU 2019.
+
+Suivent les signatures
+
+### Annexe à l’accord
+
+### Définition des groupes de coûts et rattachement des domaines
+
+d’études selon l’article 9, alinéa 2, de l’accord
+
+Les groupes de coûts mentionnés à l’article 9, alinéa 2, sont définis de la manière suivante :
+
+Groupe de coûts I : sciences humaines et sociales, économie et droit
+
+Groupe de coûts II : sciences exactes, naturelles et techniques, pharmacie, première et deuxième années d’études de médecine humaine, dentaire et vétérinaire
+
+Groupe de coûts III : médecine humaine, dentaire et vétérinaire à partir de la troisième année d’études
