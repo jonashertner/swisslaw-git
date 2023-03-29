@@ -4,13 +4,13 @@ number: "861.540"
 title: Verordnung über den Schutz von Wohnraum
 short: "Wohnraumschutzverordnung, WRSchV"
 language: de
-version: 2022-05-28
-valid_until: 2023-03-29
-version_adopted: 2022-04-26
+version: 2023-03-30
+valid_until: 2025-10-31
+version_adopted: 2023-03-21
 adopted: 2022-04-26
 in_force: 2022-05-28
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/861.540"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5616/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6639/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Sozialer Wohnungsbau / Erhaltung von Wohnraum
 
 (Wohnraumschutzverordnung, WRSchV)
 
-Vom 26. April 2022 (Stand 28. Mai 2022)
+Vom 26. April 2022 (Stand 30. März 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -187,7 +187,7 @@ beschliesst:
 - b) die Abfassung von Stellungnahmen und den eigenständigen Erlass von Verfügungen;
 - c) die Festlegung, die Grundbuchanmerkung und die Kontrolle von Auflagen gemäss dieser Verordnung für die Bewilligung;
 - d) den Entscheid über die maximalen Nettomietzinsen bei Ersatzneubau zu Gesuchen betreffend Bewilligung bei Abbruch gemäss § 7 WRFG;
-- e) den Entscheid über die maximalen Mietzinsaufschläge sowie das Rückkehrrecht zu Gesuchen betreffend Bewilligung bei Sanierung, Renovation und Umbau gemäss §§ 8a - 8e WRFG;
+- e) den Entscheid über die maximalen Mietzinsaufschläge zu Gesuchen betreffend Bewilligung bei Sanierung, Renovation und Umbau gemäss §§ 8a - 8e WRFG;
 - f) die Kontrolle der Einhaltung der Auflagen gemäss der Bewilligung;
 - g) die Erstattung einer Anzeige bei der zuständigen Strafverfolgungsbehörde bei Verdacht auf Verstösse gegen § 20 WRFG.
 
@@ -243,13 +243,7 @@ beschliesst:
 
 #### § 21
 
-**Rückkehrrecht**
-
-<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller hat im umfassenden Bewilligungsverfahren durch ein von ihr beziehungsweise ihm unterzeichnetes amtliches Formular nachzuweisen, dass das Rückkehrrecht der Mieterschaft gemäss § 8a Abs. 3 lit. a WRFG gewährt wird. Die Gesuchstellerin oder der Gesuchsteller hat der Mieterschaft eine Kopie des unterzeichneten Formulars zuzusenden.
-
-<sup>2</sup> Das Rückkehrrecht der Mieterschaft darf nicht von weiteren Voraussetzungen oder Bedingungen als den im amtlichen Formular aufgeführten abhängig gemacht werden und hat sich bei Sanierung auf denselben Mietwohnraum, bei Umbau auf denselben Mietwohnraum oder eine nach Lage, Grösse, Zimmerzahl und Ausstattung vergleichbaren Mietwohnraum in der umgebauten Liegenschaft zu beziehen. Im Zeitpunkt der Gesuchseingabe auf unbefristete Zeit abgeschlossene Mietverträge dürfen nicht durch auf befristete Zeit abgeschlossene Mietverträge ersetzt werden.
-
-<sup>3</sup> Die Gesuchstellerin oder der Gesuchsteller hat, auf entsprechende Aufforderung der Wohnschutzkommission hin, nachzuweisen, dass der betroffenen Mieterschaft die gemäss Abs. 1 festgehaltene Rückkehr gehörig angeboten beziehungsweise gewährt wurde.
+**…**
 
 #### § 22
 
