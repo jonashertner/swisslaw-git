@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Dezember 2020 über Kredite mit Solidarbürgschaft 
 short: Covid-19-SBüG
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/982"
 language: de
-version: 2023-01-01
+version: 2023-03-31
 adopted: 2020-12-18
 in_force: 2020-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2020-982-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20230331/de/xml/fedlex-data-admin-ch-eli-cc-2020-982-20230331-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230331/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230101/de"
 
 (Covid-19-Solidarbürgschaftsgesetz, Covid-19-SBüG)
 
-vom 18. Dezember 2020 (Stand am 1. Januar 2023)
+vom 18. Dezember 2020 (Stand am 31. März 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -94,7 +94,7 @@ Eine Solidarbürgschaft dauert höchstens acht Jahre:
 
 <sup>3</sup> Bedeutet die fristgerechte Amortisation des Kredits eine erhebliche Härte für die Kreditnehmerin oder den Kreditnehmer, so kann die Kreditgeberin die Frist mit Zustimmung der Bürgschaftsorganisation gestützt auf einen Amortisationsplan angemessen, jedoch höchstens auf zehn Jahre verlängern, wenn dadurch voraussichtlich die finanziellen Risiken für den Bund reduziert werden können. Die Solidarbürgschaft gilt während der verlängerten Dauer weiter.
 
-[^3-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^3-1]: [AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
 
 #### Art. 4
 
@@ -104,13 +104,15 @@ Eine Solidarbürgschaft dauert höchstens acht Jahre:
 
 Der Zinssatz beträgt:
 
-- a. für den Kreditbetrag, besichert durch eine Solidarbürgschaft nach Artikel 3 Covid-19-SBüV[^4-1]: 0,0 Prozent pro Jahr;
-- b. für den Kreditbetrag, besichert durch eine Solidarbürgschaft nach Artikel 4 Covid-19-SBüV: bei Kontokorrentlimiten 0,5 Prozent pro Jahr und bei Vorschüssen mit fester Laufzeit 0,5 Prozent pro Jahr;
+- a.[^4-1] für den Kreditbetrag, besichert durch eine Solidarbürgschaft nach Artikel 3 Covid-19-SBüV[^4-2]: 1,5 Prozent pro Jahr;
+- b.[^4-3] für den Kreditbetrag, besichert durch eine Solidarbürgschaft nach Artikel 4 Covid-19-SBüV: bei Kontokorrentlimiten 2,0 Prozent pro Jahr und bei Vorschüssen mit fester Laufzeit 2,0 Prozent pro Jahr;
 - c. für den Kreditbetrag, der nicht durch eine Solidarbürgschaft nach der Covid-19-SBüV besichert ist: gemäss Kreditvertrag.
 
 <sup>2</sup> Der Bundesrat passt auf Antrag des Eidgenössischen Finanzdepartements (EFD) jährlich per 31. März, erstmals per 31. März 2021, die Zinssätze nach Absatz 1 Buchstaben a und b an die Marktentwicklungen an. Der Zinssatz nach Absatz 1 Buchstabe a beträgt mindestens 0,0 Prozent und derjenige nach Absatz 1 Buchstabe b mindestens 0,5 Prozent. Das EFD hört die kreditgebenden Banken im Voraus an.
 
-[^4-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^4-1]: Fassung gemäss Ziff. I der V vom 29. März 2023 über die Anpassung der Zinssätze, in Kraft seit 31. März 2023 ([AS 2023 169](https://fedlex.data.admin.ch/eli/oc/2023/169)).
+[^4-2]: [AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
+[^4-3]: Fassung gemäss Ziff. I der V vom 29. März 2023 über die Anpassung der Zinssätze, in Kraft seit 31. März 2023 ([AS 2023 169](https://fedlex.data.admin.ch/eli/oc/2023/169)).
 
 ## 3. Abschnitt: Aufgaben der Bürgschaftsorganisationen und Vertrag mit dem Bund
 
@@ -375,7 +377,7 @@ Die Mitglieder des obersten Verwaltungs- oder Leitungsorgans sowie alle mit der 
 
 [^24-1]: Fassung gemäss Art. 30 hiernach, in Kraft seit 1. Jan. 2023.
 [^24-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^24-3]: [AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)[3799](https://fedlex.data.admin.ch/eli/oc/2020/696)
+[^24-3]: [AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
 
 #### Art. 25
 

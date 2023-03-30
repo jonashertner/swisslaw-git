@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 décembre 2020 sur les crédits garantis par un cau
 short: LCaS-COVID-19
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/982"
 language: fr
-version: 2023-01-01
+version: 2023-03-31
 adopted: 2020-12-18
 in_force: 2020-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-982-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20230331/fr/xml/fedlex-data-admin-ch-eli-cc-2020-982-20230331-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230331/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230101/fr"
 
 (Loi sur les cautionnements solidaires liés au COVID-19, LCaS-COVID-19)
 
-du 18 décembre 2020 (État le 1<sup>er</sup> janvier 2023)
+du 18 décembre 2020 (État le 31 mars 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -94,7 +94,7 @@ Un cautionnement solidaire dure au maximum huit ans:
 
 <sup>3</sup> Si l’amortissement du crédit dans le délai imparti a des conséquences très dures pour le preneur de crédit, le donneur de crédit peut, avec l’accord de l’organisation de cautionnement, prolonger le délai de façon appropriée, mais au maximum à dix ans, sur la base d’un plan d’amortissement s’il est probable que les risques financiers de la Confédération pourront ainsi être réduits. Le cautionnement solidaire reste valable pendant la durée de la prolongation.
 
-[^3-1]: [[RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^3-1]: [RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
 
 #### Art. 4
 
@@ -104,13 +104,15 @@ Un cautionnement solidaire dure au maximum huit ans:
 
 Le taux d’intérêt s’élève à:
 
-- a. pour les crédits garantis par un cautionnement solidaire au sens de l’art. 3 OCaS-COVID-19[^4-1]: 0,0 % par an;
-- b. pour les crédits garantis par un cautionnement solidaire au sens de l’art. 4 OCaS-COVID-19: en cas de limite en compte courant, 0,5 % par an et, en cas d’avance à échéance fixe, 0,5 % par an;
+- a.[^4-1] pour les crédits garantis par un cautionnement solidaire au sens de l’art. 3 OCaS-COVID-19[^4-2]: 1,5 % par an;
+- b.[^4-3] pour les crédits garantis par un cautionnement solidaire au sens de l’art. 4 OCaS-COVID-19: en cas de limite en compte courant, 2,0 % par an et, en cas d’avance à échéance fixe, 2,0 % par an;
 - c. pour les parts de crédits qui ne sont pas garanties par un cautionnement solidaire au sens de l’OCaS-COVID-19: selon le contrat de crédit.
 
 <sup>2</sup> Sur proposition du Département fédéral des finances (DFF), le Conseil fédéral adapte chaque année au 31 mars les taux d’intérêt définis à l’al. 1, let. a et b, à l’évolution du marché, la première fois le 31 mars 2021. Le taux d’intérêt défini à l’al. 1, let. a, s’élève au moins à 0,0 % et celui défini à l’al. 1, let. b, au moins à 0,5 %. Le DFF entend au préalable les banques créancières.
 
-[^4-1]: [[RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 29 mars 2023 concernant l’adaptation des taux d’intérêt, en vigueur depuis le 31 mars 2023 ([RO 2023 169](https://fedlex.data.admin.ch/eli/oc/2023/169)).
+[^4-2]: [RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du 29 mars 2023 concernant l’adaptation des taux d’intérêt, en vigueur depuis le 31 mars 2023 ([RO 2023 169](https://fedlex.data.admin.ch/eli/oc/2023/169)).
 
 ## Section 3 Tâches des organisations de cautionnement et convention avec la Confédération
 
@@ -375,7 +377,7 @@ Les membres de l’organe supérieur de direction ou d’administration du prene
 
 [^24-1]: Teneur selon l’art. 30 ci-après, en vigueur depuis le 1<sup>er</sup> janv. 2023.
 [^24-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^24-3]: [RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)[3799](https://fedlex.data.admin.ch/eli/oc/2020/696)
+[^24-3]: [RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
 
 #### Art. 25
 
@@ -473,12 +475,12 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 **Coordinations avec la loi fédérale du 25 septembre 2020 sur la protection des données**
 
-À l’entrée en vigueur de la loi du 25 septembre 2020 sur la protection des données[^29-1], le titre précédant l’art. 49 et l’art. 49*a* de la loi du 3 octobre 2003 sur la banque nationale[^29-2] (art. 28, ch. 3) auront la teneur suivante:
+À l’entrée en vigueur de la loi du 25 septembre 2020 sur la protection des données[^29-subdivu1-1], le titre précédant l’art. 49 et l’art. 49*a* de la loi du 3 octobre 2003 sur la banque nationale[^29-subdivu1-2] (art. 28, ch. 3) auront la teneur suivante:
 
-Titre précédant l’art. 49
+[^29-subdivu1-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [FF 2020 7397](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^29-subdivu1-2]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
 
-[^29-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [FF 2020 7397](https://fedlex.data.admin.ch/eli/fga/2020/1998)
-[^29-2]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+### Titre précédant l’art. 49
 
 ## Section 6 Obligation de garder le secret, traitement de données personnelles et de données concernant des personnes morales, échange d’informations et responsabilité
 

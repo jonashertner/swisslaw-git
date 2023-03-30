@@ -4,11 +4,11 @@ title: "Legge federale del 18 dicembre 2020 concernente i crediti garantiti da u
 short: LFiS-COVID-19
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/982"
 language: it
-version: 2023-01-01
+version: 2023-03-31
 adopted: 2020-12-18
 in_force: 2020-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2020-982-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20230331/it/xml/fedlex-data-admin-ch-eli-cc-2020-982-20230331-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230331/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230101/it"
 
 (Legge sulle fideiussioni solidali COVID-19, LFiS-COVID-19)
 
-del 18 dicembre 2020 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
+del 18 dicembre 2020 (Stato 31 marzo 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -94,7 +94,7 @@ La fideiussione solidale dura al massimo otto anni:
 
 <sup>3</sup> Se l’ammortamento del credito entro il termine prescritto comporta gravi difficoltà per il mutuatario, con il consenso dell’organizzazione che concede fideiussioni il mutuante può prorogare adeguatamente il termine, ma al massimo fino a dieci anni, in base a un piano di ammortamento, se vi è da ritenere che ciò permetta di ridurre i rischi finanziari per la Confederazione. Durante la proroga la fideiussione solidale resta valida.
 
-[^3-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^3-1]: [RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
 
 #### Art. 4
 
@@ -104,13 +104,15 @@ La fideiussione solidale dura al massimo otto anni:
 
 Il tasso d’interesse ammonta:
 
-- a. allo 0,0 per cento annuo, per l’importo di credito garantito da una fideiussione solidale di cui all’articolo 3 OFis-COVID-19[^4-1];
-- b. allo 0,5 per cento annuo in caso di limite sul conto corrente e allo 0,5 per cento annuo in caso di anticipi con scadenza fissa, per l’importo di credito garantito da una fideiussione solidale di cui all’articolo 4 OFis-COVID-19;
+- a.[^4-1] all’1,5 per cento annuo, per l’importo di credito garantito da una fideiussione solidale di cui all’articolo 3 OFis-COVID-19[^4-2];
+- b.[^4-3] all’2,0 per cento annuo in caso di limite sul conto corrente e all’2.0 per cento annuo in caso di anticipi con scadenza fissa, per l’importo di credito garantito da una fideiussione solidale di cui all’articolo 4 OFis-COVID-19;
 - c. al tasso fissato nel contratto di credito, per l’importo di credito non garantito da una fideiussione solidale secondo l’OFis-COVID-19.
 
 <sup>2</sup> Su proposta del Dipartimento federale delle finanze (DFF), a partire dal 2021 il Consiglio federale adegua ogni anno agli sviluppi del mercato, con effetto a decorrere dal 31 marzo, i tassi d’interesse di cui al capoverso 1 lettere a e b. Il tasso d’interesse secondo il capoverso 1 lettera a ammonta ad almeno lo 0,0 per cento e il tasso d’interesse secondo il capoverso 1 lettera b ad almeno lo 0,5 per cento. Il DFF consulta previamente le banche mutuanti.
 
-[^4-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]]
+[^4-1]: Nuovo testo giusta il n. I dell’O del 29 mar. 2023 sull’adeguamento dei tassi d’interesse secondo la legge sulle fideiussioni solidali COVID-19, in vigore daö 31 mar. 2023 ([RU 2023 169](https://fedlex.data.admin.ch/eli/oc/2023/169)).
+[^4-2]: [RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
+[^4-3]: Nuovo testo giusta il n. I dell’O del 29 mar. 2023 sull’adeguamento dei tassi d’interesse secondo la legge sulle fideiussioni solidali COVID-19, in vigore daö 31 mar. 2023 ([RU 2023 169](https://fedlex.data.admin.ch/eli/oc/2023/169)).
 
 ## Sezione 3: Compiti delle organizzazioni che concedono fideiussioni e convenzione con la Confederazione
 
@@ -375,7 +377,7 @@ I membri dell’organo superiore di amministrazione o di direzione nonché tutte
 
 [^24-1]: Testo giusta l’art. 30 qui avanti.
 [^24-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^24-3]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^24-3]: [RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
 
 #### Art. 25
 
