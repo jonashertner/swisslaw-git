@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.211"
 title: "Studienordnung für die Bachelorstudiengänge Ergotherapie, Gesundheitsförderung und Prävention, Hebamme, Pflege sowie Physiotherapie an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2023-04-01
+version: "2023-04-01"
+nachtrag: "120"
+valid_until: 2026-07-01
 adopted: 2019-10-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_211-2019_10_24-2020_04_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_211-2019_10_24-2020_04_01-120.html"
 text: pdf
 ---
 
@@ -61,7 +61,7 @@ Einzelheiten zu den Studiengängen, insbesondere zur Eignungsabklärung, zur Bel
 
 **1**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 23 - 120
 
 ### B. Zulassung zum Studium
 
@@ -167,7 +167,7 @@ Ist das Studium nicht in Assessmentstufe und Hauptstudium gegliedert, ist es bes
 
 **3**
 
-- 1\. 4. 20 - 108 § 16. Wer ein Modul nicht besteht, muss alle Leistungsnachweise des Moduls wiederholen.
+- 1\. 4. 23 - 120 § 16. Wer ein Modul nicht besteht, muss alle Leistungsnachweise des Moduls wiederholen.
 
 #### § 17
 
@@ -195,31 +195,27 @@ Die Wiederholung eines Praxismoduls ist ausgeschlossen, wenn schwerwiegende Grü
 
 Das Bachelordiplom wird erteilt, wenn a. die Assessmentstufe und das Hauptstudium bzw. das Studium bestanden und b. 180 ECTS-Credits erreicht sind.
 
+[^19-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 492; ABl 2022-08-19). In Kraft seit 1. April 2023. 1. 4. 23 - 120 5
+
 #### § 20
 
-**Abschlussnote**
+**Abschlussnote a. Allgemein**
 
-<sup>1</sup> Die Abschlussnote errechnet sich aus sämtlichen promotionsrelevanten Modulen.
+<sup>1</sup> Die Abschlussnote errechnet sich aus den Noten der gemäss Anhang relevanten Module.[^19-1]
 
 <sup>2</sup> Die Modulnoten werden nach der Anzahl der ECTS-Credits eines Moduls gewichtet.
 
-#### § 21
+**b. ECTS-Credits aus Wahlpflichtmodulen**
 
-**Überzählige ECTS-Credits aus Wahlpflichtmodulen**
+§ 21.[^20-1] <sup>1</sup> Es dürfen überzählige Wahlpflichtmodule besucht werden.
 
-<sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
+<sup>2</sup> Über die Anzahl Wahlpflichtmodule hinaus, die für das Bestehen der Modulgruppe notwendig sind, fliessen keine zusätzlichen Wahlpflichtmodule in die Modulgruppennote und in die Abschlussnote ein.
 
-<sup>2</sup> Die Studienleitung regelt,
-
-- a. ob die Belegung von überzähligen Wahlpflichtmodulen möglich ist,
-
-- b. wie die Studierenden bei der Wahl der Module bestimmen, welche Wahlpflichtmodule überzählig sind.
-
-<sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
+<sup>3</sup> Nach welchen Kriterien die überzähligen Wahlpflichtmodule wegfallen, wird im Anhang festgelegt.
 
 **Titel**
 
-§ 22.[^21-1] Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:
+§ 22.[^20-2] Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:
 
 - a. Bachelor of Science ZHAW in Ergotherapie,
 
@@ -231,7 +227,8 @@ Das Bachelordiplom wird erteilt, wenn a. die Assessmentstufe und das Hauptstudiu
 
 - e. Bachelor of Science ZHAW in Physiotherapie.
 
-[^21-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 492; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 4. 20 - 108 5
+[^20-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 492; ABl 2022-08-19). In Kraft seit 1. April 2023. 1. 4. 23 - 120 5
+[^20-2]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 492; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 ### F. Schluss- und Übergangsbestimmungen
 
@@ -249,7 +246,7 @@ Diese Studienordnung ersetzt die Studienordnung für die Bachelorstudiengänge E
 
 <sup>2</sup> Neueintretende in höhere Semester und Studierende, die ihr Studium vor dem Studienjahr 2020/2021 aufgenommen haben und infolge von Verzögerungen in einen anderen Studienjahrgang wechseln, werden für das weitere Studium den Rechtsgrundlagen des neu zugeteilten Studienjahrgangs unterstellt. Die Studienleitung regelt die Anrechnung bereits erbrachter Leistungen.
 
-[^24-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 492; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 4. 20 - 108 5
+[^24-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 492; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 ### Anhang zur Studienordnung für die Bachelorstudiengänge Ergotherapie, Gesundheitsförderung und Prävention, Hebamme, Pflege sowie Physiotherapie an der Zürcher Hochschule für Angewandte Wissenschaften
 
