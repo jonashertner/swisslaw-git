@@ -4,11 +4,11 @@ title: "Ordonnance du 14 mars 2008 sur l'approvisionnement en électricité (OAp
 short: OApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: fr
-version: 2023-02-15
+version: 2023-04-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230215/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230215-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230215/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230215/fr"
 
 (OApEl)
 
-du 14 mars 2008 (État le 15 février 2023)
+du 14 mars 2008 (État le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
@@ -751,14 +751,16 @@ La société nationale du réseau de transport présente un rapport à l’ElCom
 
 <sup>3</sup> Les renforcements de réseau qui sont nécessaires pour les injections d’énergie électrique provenant des installations visées aux art. 15 et 19 LEne[^22-1] font partie des services-système de la société nationale du réseau de transport.[^22-2]
 
-<sup>4</sup> Les indemnités pour les renforcements de réseau visés à l’al. 3 sont soumises à l’approbation de l’ElCom.
+<sup>4</sup> Les indemnités pour les renforcements de réseau visés à l’al. 3 et à l’art. 71*a*, al. 4, LEne sont soumises à l’approbation de l’ElCom.[^22-3]
 
-<sup>5</sup> La société nationale du réseau de transport indemnise le gestionnaire de réseau pour les renforcements visés à l’al. 3 en se fondant sur l’approbation de l’ElCom.
+<sup>5</sup> La société nationale du réseau de transport indemnise le gestionnaire de réseau pour les renforcements visés à l’al. 3 et à l’art. 71*a*, al. 4, LEne en se fondant sur l’approbation de l’ElCom.[^22-4]
 
 <sup>6</sup> Elle fait rapport annuellement à l’ElCom sur les services-système effectivement fournis et sur l’imputation de leurs coûts.
 
 [^22-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 [^22-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^22-3]: Nouvelle teneur selon le ch. III de l’O du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
+[^22-4]: Nouvelle teneur selon le ch. III de l’O du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
 
 #### Art. 23
 

@@ -4,11 +4,11 @@ title: Stromversorgungsverordnung vom 14. März 2008 (StromVV)
 short: StromVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: de
-version: 2023-02-15
+version: 2023-04-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230215/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230215-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230215/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230215/de"
 
 (StromVV)
 
-vom 14. März 2008 (Stand am 15. Februar 2023)
+vom 14. März 2008 (Stand am 1. April 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -753,14 +753,16 @@ Die nationale Netzgesellschaft erstattet der ElCom Bericht über die Handhabung 
 
 <sup>3</sup> Die Netzverstärkungen, die notwendig werden zur Einspeisung von elektrischer Energie aus Anlagen nach den Artikeln 15 und 19 EnG[^22-1], sind Teil der Systemdienstleistungen der nationalen Netzgesellschaft.[^22-2]
 
-<sup>4</sup> Vergütungen für notwendige Netzverstärkungen nach Absatz 3 bedürfen einer Bewilligung der ElCom.
+<sup>4</sup> Vergütungen für notwendige Netzverstärkungen nach Absatz 3 und Artikel 71*a* Absatz 4 EnG bedürfen einer Bewilligung der ElCom.[^22-3]
 
-<sup>5</sup> Die nationale Netzgesellschaft vergütet dem Netzbetreiber gestützt auf die Bewilligung der ElCom die Kosten für die notwendigen Netzverstärkungen nach Absatz 3.
+<sup>5</sup> Die nationale Netzgesellschaft vergütet dem Netzbetreiber gestützt auf die Bewilligung der ElCom die Kosten für die notwendigen Netzverstärkungen nach Absatz 3 und Artikel 71*a* Absatz 4 EnG.[^22-4]
 
 <sup>6</sup> Sie erstattet der ElCom jährlich Bericht über die tatsächliche Erbringung und Anlastung der Kosten der Systemdienstleistungen.
 
 [^22-1]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 [^22-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^22-3]: Fassung gemäss Ziff. III der V vom 17. März 2023, in Kraft seit 1. April 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
+[^22-4]: Fassung gemäss Ziff. III der V vom 17. März 2023, in Kraft seit 1. April 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
 
 #### Art. 23
 

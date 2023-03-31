@@ -4,11 +4,11 @@ title: "Ordinanza del 14 marzo 2008 sull'approvvigionamento elettrico (OAEl)"
 short: OAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: it
-version: 2023-02-15
+version: 2023-04-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230215/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230215-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230215/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230215/it"
 
 (OAEl)
 
-del 14 marzo 2008 (Stato 15 febbraio 2023)
+del 14 marzo 2008 (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -754,14 +754,16 @@ La società nazionale di rete riferisce alla ElCom sull’applicazione della reg
 
 <sup>3</sup> I potenziamenti della rete che si rendono necessari per l’immissione dell’energia elettrica proveniente da impianti conformemente agli articoli 15 e 19 LEne[^22-1] fanno parte delle prestazioni di servizio relative al sistema della società nazionale di rete.[^22-2]
 
-<sup>4</sup> Le rimunerazioni per i potenziamenti necessari della rete di cui al capoverso 3 necessitano dell’approvazione della ElCom.
+<sup>4</sup> Le rimunerazioni per i necessari potenziamenti della rete di cui al capoverso 3 e all’articolo 71*a* capoverso 4 LEne necessitano dell’approvazione della ElCom.[^22-3]
 
-<sup>5</sup> La società nazionale di rete retribuisce al gestore di rete, sulla base dell’approvazione della ElCom, i costi per i necessari potenziamenti della rete di cui al capoverso 3.
+<sup>5</sup> La società nazionale di rete retribuisce al gestore di rete, sulla base dell’approvazione della ElCom, i costi per i necessari potenziamenti della rete di cui al capoverso 3 e all’articolo 71*a* capoverso 4 LEne.[^22-4]
 
 <sup>6</sup> Riferisce annualmente alla ElCom sulla fornitura effettiva e sull’attribuzione dei costi delle prestazioni di servizio relative al sistema.
 
 [^22-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 [^22-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^22-3]: Nuovo testo giusta il n. III dell’O del 17 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
+[^22-4]: Nuovo testo giusta il n. III dell’O del 17 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
 
 #### Art. 23
 
