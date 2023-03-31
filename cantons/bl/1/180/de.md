@@ -4,13 +4,13 @@ number: "180"
 title: Gesetz über die Organisation und die Verwaltung der Gemeinden
 short: Gemeindegesetz
 language: de
-version: 2023-01-01
-valid_until: 2023-03-31
-version_adopted: 2022-06-30
+version: 2023-04-01
+valid_until: 2023-06-30
+version_adopted: 2022-09-15
 adopted: 1970-05-28
 in_force: 1972-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/180"
-pdf: "https://bl.clex.ch/api/de/versions/3454/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3548/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3454/pdf_file"
 
 (Gemeindegesetz)
 
-Vom 28.05.1970 (Stand 01.01.2023)
+Vom 28.05.1970 (Stand 01.04.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -2795,6 +2795,12 @@ beschliesst:[^ingress-2]
 **Unvereinbarkeit für Gemeindeangestellte**
 
 <sup>1</sup> Die Unvereinbarkeitsregelung gemäss § 9 Absatz 1 Satz 1 in der Fassung vom 1. Juni 2017 gilt für Gemeindeangestellte, die am 1. Januar 2016 davon betroffen sind, erst mit Ablauf deren Amtsperiode.
+
+#### § 185b
+
+**Wahl des Führungsmodells der Primarstufe**
+
+<sup>1</sup> Die Gemeindeversammlung beschliesst bis zum 31. Dezember 2023 über das jeweilige Führungsmodell der Primarstufe, sofern ihre Schulen nicht als Kreisschule geführt werden.
 
 #### § 186
 
