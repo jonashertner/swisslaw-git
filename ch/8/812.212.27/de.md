@@ -4,11 +4,11 @@ title: "Verordnung vom 18. August 2004 über die Tierarzneimittel (Tierarzneimit
 short: TAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: de
-version: 2022-07-01
+version: 2023-04-01
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2004-592-20230401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220701/de"
 
 (Tierarzneimittelverordnung, TAMV)
 
-vom 18. August 2004 (Stand am 1. Juli 2022)
+vom 18. August 2004 (Stand am 1. April 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -248,7 +248,16 @@ Die Bewilligung wird erteilt, wenn:
 - b. die Umwidmung eines in der Schweiz zugelassenen Arzneimittels nicht möglich ist; und
 - c. sinngemäss die Anforderungen an die Umwidmung nach Artikel 6 und, bei Arzneimitteln für Nutztiere, nach Artikel 12 eingehalten werden.
 
+<sup>3</sup>
+
+Tierärztinnen und Tierärzte, die über eine Bewilligung des zuständigen Kantons zur Abgabe von Arzneimitteln verfügen, dürfen mit einer Meldung nach Artikel 7 Absätze 2 und 3 Arzneimittel zur Umwidmung für Heimtiere einführen, wenn:
+
+- a. die Arzneimittel in einem Land mit vergleichbarer Heimtierarzneimittelkontrolle zugelassen sind;
+- b. es sich nicht um Arzneimittel nach Artikel 7 Absatz 4 handelt; und
+- c. die Voraussetzungen nach Absatz 2 erfüllt sind.[^7b-2]
+
 [^7b-1]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^7b-2]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 1. April 2023 ([AS 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
 
 #### Art. 7c
 
@@ -302,11 +311,18 @@ Die Einfuhr nicht zugelassener Arzneimittel, die gentechnisch veränderte Organi
 
 <sup>4</sup> Antibiotika dürfen nicht routinemässig verschrieben, abgegeben oder angewendet werden, um mangelhafte Hygiene, unzulängliche Haltungsbedingungen oder Pflege oder unzureichende Betriebsführung auszugleichen.[^8-5]
 
+<sup>5</sup> Arzneimittel mit antimikrobiellen Wirkstoffen nach Ziffer 1 des Anhangs der Durchführungsverordnung (EU) 2022/1255[^8-6] dürfen nicht an Nutztieren angewendet werden. Die Anwendung an Heimtieren ist nur zulässig, wenn dies die letzte Therapiemöglichkeit ist und die Heilungsprognose erfolgversprechend ist.[^8-7]
+
+<sup>6</sup> Wird die Durchführungsverordnung (EU) 2022/1255 geändert, so kann das EDI den Verweis anpassen.[^8-8]
+
 [^8-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^8-2]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 [^8-3]: Fassung gemäss Anhang 6 Ziff. II 5 der Tierschutzverordnung vom 23. April 2008, in Kraft seit 1. Sept. 2008 ([AS 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)).
 [^8-4]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^8-5]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^8-6]: Durchführungsverordnung (EU) 2022/1255 der Kommission vom 19. Juli 2022 zur Bestimmung von antimikrobiellen Wirkstoffen oder von Gruppen antimikrobieller Wirkstoffe, die gemäss der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates der Behandlung bestimmter Infektionen beim Menschen vorbehalten bleiben müssen; Fassung gemäss ABl. L 191 vom 20.7.2022, S. 58.
+[^8-7]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 1. April 2023 ([AS 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
+[^8-8]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 1. April 2023 ([AS 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
 
 #### Art. 8a
 
@@ -951,7 +967,7 @@ Auf Verlangen des BLV haben zur Verfügung zu stellen:
 [^36-5]: [SR 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
 [^36-6]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
-### 3. Abschnitt:**** Massnahmen bei erhöhtem Antibiotikaverbrauch
+### 3. Abschnitt: Massnahmen bei erhöhtem Antibiotikaverbrauch
 
 [^chap5-sec3-1]
 
@@ -1100,7 +1116,7 @@ Wirkstoffe, die nach bisherigem Recht in Liste a oder b von Anhang 2 aufgeführt
 
 <sup>4</sup> Die Artikel 8 Absatz 2 und 11 Absatz 2 Buchstabe c treten am 1. Januar 2006 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 10 Abs. 4)
 
@@ -1158,7 +1174,7 @@ Anhang 1*[^t-1]*
 
 <sup>2</sup> Die Tierärztin oder der Tierarzt muss Kopien dieser Dokumente in der Dokumentation nach Artikel 27 Absatz 2 aufbewahren. Zusätzliche Betriebsbesuche sind ebenfalls dort festzuhalten.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 12–14)
 
@@ -1386,7 +1402,7 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 [^annex3-lvlu1-1]: Die Änderungen können unter [AS 2004 4057](https://fedlex.data.admin.ch/eli/oc/2004/592)konsultiert werden.
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 10*c* Bst. a)
 
@@ -1401,7 +1417,7 @@ Folgende Stoffe und Zubereitungen dürfen nicht an Nutztiere verabreicht werden:
 - c. Zartmacher (Tenderizer).
 - [tab]
 
-Anhang 5*[^t-4]*
+Anhang 5[^t-4]
 
 (Art. 11 Abs. 2 Bst. b)
 

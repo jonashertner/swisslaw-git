@@ -4,11 +4,11 @@ title: "Ordinanza del 18 agosto 2004 sui medicamenti per uso veterinario (Ordina
 short: OMvet
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: it
-version: 2022-07-01
+version: 2023-04-01
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2004-592-20230401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220701/it"
 
 (Ordinanza sui medicamenti veterinari, OMVet)
 
-del 18 agosto 2004 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
+del 18 agosto 2004 (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -248,7 +248,16 @@ L’autorizzazione è rilasciata se:
 - b. non è possibile il cambiamento di destinazione di un medicamento omologato in Svizzera; e
 - c. sono rispettati per analogia i requisiti per il cambiamento di destinazione di cui all’articolo 6 e, per i medicamenti veterinari per animali da reddito, all’articolo 12.
 
+<sup>3</sup>
+
+I veterinari che dispongono di un’autorizzazione alla dispensazione di medicamenti rilasciata dal Cantone competente possono importare medicamenti per il cambiamento di destinazione destinati ad animali da compagnia con una notifica secondo l’articolo 7 capoversi 2 e 3 se:
+
+- a. i medicamenti sono omologati in un Paese con un sistema di controllo equivalente dei medicamenti;
+- b. non si tratta di medicamenti di cui all’articolo 7 capoverso 4; e
+- c. sono soddisfatti i requisiti di cui al capoverso 2.[^7b-2]
+
 [^7b-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^7b-2]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 1° apr. 2023 ([RU 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
 
 #### Art. 7c
 
@@ -302,11 +311,18 @@ L’importazione di medicamenti non omologati che contengono organismi geneticam
 
 <sup>4</sup> Gli antibiotici non possono essere prescritti, dispensati o utilizzati abitudinariamente per compensare carenze di igiene, condizioni di detenzione o di accudimento inadeguate o una gestione aziendale insufficiente.[^8-5]
 
+<sup>5</sup> I medicamenti con sostanze attive antimicrobiche come specificato al numero 1 dell’allegato al regolamento di esecuzione (UE) 2022/1255[^8-6] non possono essere utilizzati per gli animali da reddito. L’uso per gli animali da compagnia è consentito solo come ultima possibilità terapeutica nel caso di una buona prognosi di guarigione.[^8-7]
+
+<sup>6</sup> In caso di modifica del regolamento di esecuzione (UE) 2022/1255, il DFI può adeguare il rimando.[^8-8]
+
 [^8-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^8-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 [^8-3]: Nuovo testo giusta l’all. 6 n. II 5 dell’O del 23 apr. 2008 sulla protezione degli animali, in vigore dal 1° set. 2008 ([RU 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)).
 [^8-4]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^8-5]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^8-6]: Regolamento di esecuzione (UE) 2022/1255 della Commissione del 19 luglio 2022 che designa gli antimicrobici o i gruppi di antimicrobici riservati al trattamento di determinate infezioni nell’uomo, conformemente al regolamento (UE) 2019/6 del Parlamento europeo e del Consiglio, versione pubblicata nella GU L 191 del 20.7.2022, pag. 58.
+[^8-7]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 1° apr. 2023 ([RU 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
+[^8-8]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 1° apr. 2023 ([RU 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
 
 #### Art. 8a
 
@@ -952,7 +968,7 @@ Su richiesta dell’USAV:
 [^36-5]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
 [^36-6]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
-### Sezione 3:**** Misure in caso di un consumo maggiorato di antibiotici
+### Sezione 3: Misure in caso di un consumo maggiorato di antibiotici
 
 [^chap5-sec3-1]
 
@@ -1101,13 +1117,13 @@ Le sostanze attive che figurano negli elenchi a e b dell’allegato 2 secondo il
 
 <sup>4</sup> Gli articoli 8 capoverso 2 e 11 capoverso 2 lettera c entrano in vigore il 1° gennaio 2006.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 10 cpv. 4)
 
 ## Criteri di valutazione, frequenza delle visite e contenuto della convenzione Mvet
 
-[^t-1]: Aggiornato dai n. II delle O dell’11 mar. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)) e del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^t-1]: Aggiornato dal n. II delle O dell’11 mar. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)) e del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 ### 1 Criteri di valutazione
 
@@ -1159,7 +1175,7 @@ Allegato 1*[^t-1]*
 
 <sup>2</sup> Il veterinario deve conservare le copie di questi documenti nella documentazione di cui all’articolo 27 capoverso 2. Vanno pure iscritte ulteriori visite dell’azienda.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 12–14)
 
@@ -1387,7 +1403,7 @@ Le seguenti ordinanze sono modificate come segue:
 
 [^annex3-lvlu1-1]: Le mod. possono essere consultate alla [RU 2004 4057](https://fedlex.data.admin.ch/eli/oc/2004/592).
 
-Allegato 4*[^t-3]*
+Allegato 4[^t-3]
 
 (art. 10*c* lett. a)
 
@@ -1401,7 +1417,7 @@ Le sostanze e i preparati seguenti non possono essere somministrati ad animali d
 - b. sostanze ad azione estrogena, androgena o gestagena, nonché beta-agoniste che favoriscono l’ingrassamento, nella misura in cui non siano accordate eccezioni nell’omologazione di medicamenti ad uso veterinario;
 - c. sostanze che rendono la carne tenera («tenderizer»).
 
-Allegato 5*[^t-4]*
+Allegato 5[^t-4]
 
 (art. 11 cpv. 2 lett. b)
 

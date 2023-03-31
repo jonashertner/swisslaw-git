@@ -4,11 +4,11 @@ title: Ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV)
 short: OMédv
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: fr
-version: 2022-07-01
+version: 2023-04-01
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2004-592-20230401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220701/fr"
 
 (OMédV)
 
-du 18 août 2004 (Etat le 1<sup>er</sup> juillet 2022)
+du 18 août 2004 (État le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
@@ -249,7 +249,16 @@ L’autorisation est délivrée si les conditions suivantes sont réunies:
 - b. il n’est pas possible de reconvertir un médicament autorisé en Suisse;
 - c. les exigences pour la reconversion visées à l’art. 6 et, pour les médicaments destinés aux animaux de rente, celles visées à l’art. 12 sont respectées par analogie.
 
+<sup>3</sup>
+
+Les vétérinaires titulaires d’une autorisation de remise de médicaments délivrée par le canton compétent peuvent, moyennant une déclaration au sens de l’art. 7, al. 2 et 3, importer pour reconversion des médicaments destinés aux animaux de compagnie si les conditions suivantes sont réunies:
+
+- a. ces médicaments sont autorisés dans un pays ayant institué un contrôle équivalent des médicaments;
+- b. il ne s’agit pas de médicaments au sens de l’art. 7, al. 4;
+- c. les conditions visées à l’al. 2 sont remplies.[^7b-2]
+
 [^7b-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^7b-2]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
 
 #### Art. 7c
 
@@ -303,11 +312,18 @@ Il est interdit d’importer des médicaments non autorisés contenant des organ
 
 <sup>4</sup> Les antibiotiques ne doivent pas être prescrits, remis ou utilisés de manière routinière pour compenser des insuffisances en matière d’hygiène, de conditions de détention, de soins ou de gestion de l’exploitation.[^8-5]
 
+<sup>5</sup> Il est interdit d’administrer à des animaux de rente des médicaments contenant les principes actifs antimicrobiens visés au ch. 1 de l’annexe du règlement d’exécution (UE) 2022/1255[^8-6]. L’administration à des animaux de compagnie est autorisée seulement s’il s’agit de la dernière possibilité de traitement et si le pronostic de guérison est prometteur.[^8-7]
+
+<sup>6</sup> En cas de modification du règlement d’exécution (UE) 2022/1255, le DFI peut adapter le renvoi.[^8-8]
+
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^8-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 [^8-3]: Nouvelle teneur selon l’annexe 6 ch. II 5 de l’O du 23 avr. 2008 sur la protection des animaux, en vigueur depuis le 1<sup>er</sup> sept. 2008 ([RO 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)).
 [^8-4]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^8-5]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^8-6]: Règlement d’exécution (UE) 2022/1255 de la Commission du 19 juillet 2022 désignant des antimicrobiens ou groupes d’antimicrobiens réservés au traitement de certaines infections chez l’homme, conformément au règlement (UE) 2019/6 du Parlement européen et du Conseil, version du JO L 191 du 20.7.2022, p. 58
+[^8-7]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
+[^8-8]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
 
 #### Art. 8a
 
@@ -346,18 +362,17 @@ L’étiquette des médicaments devant être portés au registre doit en plus me
 
 **Remise de médicaments dans les commerces zoologiques ou apicoles**
 
-<sup>1</sup> Toute personne habilitée à détenir et à vendre des animaux vivants dans un commerce zoologique a le droit, en vertu de l’autorisation cantonale qui lui a été accordée conformément à l’art. 30 de la loi du 15 décembre 2000 sur les produits thérapeutiques[^9-1], de remettre des médicaments destinés aux poissons d’ornement, aux oiseaux chanteurs et aux oiseaux d’ornement, aux pigeons voyageurs, aux reptiles, aux amphibiens et aux petits mammifères, si elle a suivi une formation approuvée par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)[^9-2].[^9-3]
+<sup>1</sup> Toute personne habilitée à détenir et à vendre des animaux vivants dans un commerce zoologique a le droit, en vertu de l’autorisation cantonale qui lui a été accordée conformément à l’art. 30 LPTh, de remettre des médicaments destinés aux poissons d’ornement, aux oiseaux chanteurs et aux oiseaux d’ornement, aux pigeons voyageurs, aux reptiles, aux amphibiens et aux petits mammifères, si elle a suivi une formation approuvée par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)[^9-1].[^9-2]
 
 <sup>2</sup> Toute personne qui entend remettre à des apiculteurs des médicaments destinés aux abeilles doit être titulaire d’une autorisation cantonale de commerce de détail. Une telle autorisation peut être délivrée à tout requérant ayant suivi un cours approuvé par l’OSAV et suivant régulièrement une formation continue. L’autorisation habilite également son titulaire à envoyer sans ordonnance à un apiculteur des médicaments destinés à la lutte antiparasitaire chez les abeilles.
 
 <sup>3</sup> Les services d’inspection cantonaux des ruchers sont également habilités à remettre des médicaments destinés aux abeilles.
 
-<sup>4</sup> Swissmedic détermine les médicaments qui peuvent être remis. …[^9-4] .
+<sup>4</sup> Swissmedic détermine les médicaments qui peuvent être remis. …[^9-3] .
 
-[^9-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^9-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^9-3]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 23 nov. 2005 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
-[^9-4]: Phrase abrogée par l’annexe 8 ch. II 4 du l’O du 14 nov. 2018 sur les autorisations dans le domaine des médicaments, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+[^9-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^9-2]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 23 nov. 2005 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
+[^9-3]: Phrase abrogée par l’annexe 8 ch. II 4 du l’O du 14 nov. 2018 sur les autorisations dans le domaine des médicaments, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
 
 ### Section 2 Prescription et remise de médicaments destinés aux animaux de rente
 
@@ -950,7 +965,7 @@ L’OSAV peut demander:
 [^36-5]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
 [^36-6]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
-### Section 3**** Mesures en cas d’augmentation de l’utilisation d’antibiotiques
+### Section 3 Mesures en cas d’augmentation de l’utilisation d’antibiotiques
 
 [^chap5-sec3-1]
 
@@ -1099,7 +1114,7 @@ Les principes actifs qui étaient inscrits dans l’ancien droit aux listes a et
 
 <sup>4</sup> Les art. 8, al. 2, et 11, al. 2, let. c, entrent en vigueur le 1<sup>er</sup> janvier 2006.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 10, al. 4)
 
@@ -1157,7 +1172,7 @@ Annexe 1*[^t-1]*
 
 <sup>2</sup> Le vétérinaire est tenu d’archiver les copies de ces documents dans la documentation visée à l’art. 27, al. 2. Toute autre visite de l’exploitation doit également y être consignée.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 12 à 14)
 
@@ -1169,9 +1184,7 @@ Annexe 2*[^t-2]*
 
 La liste contient des principes actifs qui, dans le respect des domaines d’application et des modes d’administration mentionnés, peuvent être administrés comme médicaments vétérinaires à des animaux de rente sans qu’il soit nécessaire de fixer des délais d’attente.
 
-Les principes actifs figurant dans la présente liste peuvent être utilisés pour la fabrication de médicaments à usage vétérinaire selon l’art. 9, al. 2, let. a à c<sup>bis</sup>, LPTh[^annex2-lvlu1-lvlu1-1], destinés à des animaux de rente.
-
-[^annex2-lvlu1-lvlu1-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+Les principes actifs figurant dans la présente liste peuvent être utilisés pour la fabrication de médicaments à usage vétérinaire selon l’art. 9, al. 2, let. a à c<sup>bis</sup>, LPTh, destinés à des animaux de rente.
 
 ### 1 Domaine d’application
 
@@ -1385,7 +1398,7 @@ Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
 [^annex3-lvlu1-1]: Les mod. peuvent être consultées au [RO 2004 4057](https://fedlex.data.admin.ch/eli/oc/2004/592).
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 (art. 10*c*, let. a)
 
@@ -1399,7 +1412,7 @@ Il est interdit d’administrer aux animaux de rente les substances et les prép
 - b. les substances à action oestrogène, androgène, ou gestagène ainsi que les bêta-agonistes stimulant la performance carnée, à moins que des exceptions n’aient été prévues lors de l’autorisation des médicaments vétérinaires;
 - c. les attendrisseurs (tenderizer).
 
-Annexe 5*[^t-4]*
+Annexe 5[^t-4]
 
 (art. 11, al. 2, let. b)
 
