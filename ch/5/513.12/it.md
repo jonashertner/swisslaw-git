@@ -4,20 +4,20 @@ title: "Ordinanza del 21 maggio 2008 sullo stato maggiore del Consiglio federale
 short: OSMCN
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/351"
 language: it
-version: 2021-01-01
+version: 2023-04-01
 adopted: 2008-05-21
 in_force: 2008-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/351/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2008-351-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/351/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/351/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2008-351-20230401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/351/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sullo Stato maggiore del Consiglio federale Centrale nazionale d’allarme
 
-(OSMCN)**[^t-1]**
+(OSMCN)[^t-1]
 
-del 21 maggio 2008 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 21 maggio 2008 (Stato 1° aprile 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
 
@@ -187,9 +187,9 @@ Per la promozione in funzioni specifiche di stato maggiore di suoi membri sogget
 
 **Controlli militari**[^14-1]
 
-In deroga all’articolo 4 capoverso 2 e all’allegato 1 numero 1.8.98 dell’ordinanza del 16 dicembre 2009[^14-2] sui sistemi d’informazione militari, i dati dei membri dello Stato maggiore concernenti le conoscenze particolari acquisite nella vita civile, come lingue o formazione particolare, possono essere rilevati senza previo consenso delle persone interessate.
+In deroga all’articolo 4 capoverso 2 e all’allegato 1*a* numero 1.10.1 dell’ordinanza del 16 dicembre 2009[^14-2] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS, i dati dei membri dello Stato maggiore concernenti le conoscenze particolari acquisite nella vita civile, come lingue o formazione particolare, possono essere rilevati senza previo consenso delle persone interessate.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
+[^14-1]: Nuovo testo giusta l’all. n. 6 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^14-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 15
@@ -212,7 +212,7 @@ L’ordinanza del 27 novembre 2000[^16-1] sullo Stato maggiore del Consiglio fed
 
 La presente ordinanza entra in vigore il 15 giugno 2008.
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 (art. 7 cpv. 3 e 13)
 

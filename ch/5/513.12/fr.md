@@ -4,20 +4,20 @@ title: "Ordonnance du 21 mai 2008 relative à l'état-major Centrale nationale d
 short: OEMCN
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/351"
 language: fr
-version: 2021-01-01
+version: 2023-04-01
 adopted: 2008-05-21
 in_force: 2008-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/351/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-351-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/351/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/351/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-351-20230401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/351/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance relative à l’état-major Centrale nationale d’alarme du Conseil fédéral
 
-(OEMCN)**[^t-1]**
+(OEMCN)[^t-1]
 
-du 21 mai 2008 (Etat le 1<sup>er</sup> janvier 2021)
+du 21 mai 2008 (État le 1<sup>er</sup> avril 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
 
@@ -187,9 +187,9 @@ Pour obtenir une promotion, les membres de l’état-major astreints au service 
 
 **Contrôles militaires**[^14-1]
 
-En dérogation à l’art. 4, al. 2, et à l’annexe 1, ch. 1.8.98 de l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée[^14-2], les connaissances civiles particulières, comme les langues et les formations spéciales des membres de l’état-major, peuvent être enregistrées sans leur accord.
+En dérogation à l’art. 4, al. 2, et à l’annexe 1*a*, ch. 1.10.1, de l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée et du DDPS[^14-2], les connaissances civiles particulières, comme les langues et les formations spéciales des membres de l’état-major, peuvent être enregistrées sans leur accord.
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
+[^14-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^14-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 15
@@ -212,7 +212,7 @@ L’ordonnance du 27 novembre 2000 relative à l’état-major du Conseil fédé
 
 La présente ordonnance entre en vigueur le 15 juin 2008.
 
-Appendice*[^t-2]*
+Appendice[^t-2]
 
 (art. 7, al. 3, et 13)
 

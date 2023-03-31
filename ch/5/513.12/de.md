@@ -4,20 +4,20 @@ title: Verordnung vom 21. Mai 2008 über den Stab Bundesrat Nationale Alarmzentr
 short: VSBN
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/351"
 language: de
-version: 2021-01-01
+version: 2023-04-01
 adopted: 2008-05-21
 in_force: 2008-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/351/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2008-351-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/351/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/351/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2008-351-20230401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/351/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über den Stab Bundesrat Nationale Alarmzentrale
 
-(VSBN)**[^t-1]**
+(VSBN)[^t-1]
 
-vom 21. Mai 2008 (Stand am 1. Januar 2021)
+vom 21. Mai 2008 (Stand am 1. April 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
 
@@ -60,9 +60,9 @@ Der Stab ist dem Bundesamt für Bevölkerungsschutz (BABS) unterstellt.
 
 Die NAZ:
 
-- a.[^4-1] ...
+- a.[^4-1] …
 - b. trifft die Vorbereitungen für den Einsatz des Stabes;
-- c.[^4-2] ...
+- c.[^4-2] …
 - d. führt die Korpskontrolle des Stabes;
 - e. stellt, sofern eine geeignete Person verfügbar ist, den Kommandanten oder die Kommandantin des Stabes.
 
@@ -187,9 +187,9 @@ Für die Beförderung von militärdienstpflichtigen Stabsangehörigen in stabsei
 
 **Militärisches Kontrollwesen**[^14-1]
 
-Von den Stabsangehörigen können in Abweichung von Artikel 4 Absatz 2 und Anhang 1 Ziffer 1.8.98 der Verordnung vom 16. Dezember 2009[^14-2] über die militärischen Informationssysteme die besonderen zivilen Kenntnisse, wie Sprachen und Spezialausbildung, ohne deren Einwilligung erfasst werden.
+Von den Stabsangehörigen können in Abweichung von Artikel 4 Absatz 2 und Anhang 1*a* Ziffer 1.10.1 der Verordnung vom 16. Dezember 2009[^14-2] über militärische und andere Informationssysteme im VBS die besonderen zivilen Kenntnisse, wie Sprachen und Spezialausbildung, ohne deren Einwilligung erfasst werden.
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7499](https://fedlex.data.admin.ch/eli/oc/2017/813)).
+[^14-1]: Fassung gemäss Anhang Ziff. 6 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^14-2]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 15
@@ -212,7 +212,7 @@ Die Verordnung vom 27. November 2000[^16-1] über den Stab Bundesrat Nationale A
 
 Diese Verordnung tritt am 15. Juni 2008 in Kraft.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 (Art. 7 Abs. 3 und 13)
 
