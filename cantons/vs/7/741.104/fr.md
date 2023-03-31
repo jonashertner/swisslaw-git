@@ -4,20 +4,22 @@ number: "741.104"
 title: "Règlement fixant le tarif des émoluments et des frais en matière d'admission des personnes et des véhicules à la circulation routière"
 short: RTarOAC
 language: fr
-version: 2023-01-01
-valid_until: 2023-03-31
-version_adopted: 2022-12-21
+version: 2023-04-01
+valid_until: 2023-12-31
+version_adopted: 2023-03-22
 adopted: 2021-12-15
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/741.104"
-pdf: "https://lex.vs.ch/api/fr/versions/3141/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3201/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement fixant le tarif des émoluments et des frais en matière d'admission des personnes et des véhicules à la circulation routière
 
-du 15.12.2021 (état 01.01.2023)
+(RTarOAC)
+
+du 15.12.2021 (état 01.04.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -107,8 +109,8 @@ arrête:
 - b) contrôle individuel d'un véhicule non réceptionné ou partiellement réceptionné ou ayant subi une seule transformation ou modification:
   - 1\. voitures automobiles légères dont le poids total est inférieur ou égal à 3,50 t comprenant les véhicules pour le transport de personnes et de choses, les chariots et les machines de travail, les véhicules agricoles — Fr. 120
   - 2\. remorques de transport et de travail dont le poids total est inférieur ou égal à 3,50 t — Fr. 100
-  - 3\. voitures automobiles lourdes dont le poids total est supérieur à 3,50 t mais inférieur ou égal à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail, les véhicules agricoles; autocars dont le poids total est inférieur ou égal à 19,50 t; remorques de transport et de travail dont le poids total est supérieur à 3,50 t — Fr. 200
-  - 4\. voitures automobiles lourdes dont le poids total est supérieur à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail, les véhicules agricoles; autocars dont le poids total est supérieur à 19,50 t — Fr. 240
+  - 3\. voitures automobiles lourdes dont le poids total est supérieur à 3,50 t mais inférieur ou égal à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail; autocars dont le poids total est inférieur ou égal à 19,50 t; remorques de transport et de travail dont le poids total est supérieur à 3,50 t — Fr. 200
+  - 4\. voitures automobiles lourdes dont le poids total est supérieur à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail; autocars dont le poids total est supérieur à 19,50 t; les véhicules agricoles — Fr. 240
   - 5\. motocycles, tricycles et quadricycles à moteur — Fr. 100
 - c) contrôle du dispositif d’attelage:
   - 1\. voitures automobiles légères dont le poids total est inférieur ou égal 3,50 t comprenant les véhicules pour le transport de personnes et de choses, les chariots et les machines de travail, les véhicules agricoles — Fr. 30
@@ -274,15 +276,15 @@ arrête:
 - a) délivrance d'une autorisation de former des apprentis conducteurs de camions — Fr. 60
 - b) frais d'immatriculation, de mutation — Fr. 30
 - c) ristourne pour saisie d'une demande d'immatriculation dans le module internet ad hoc — Fr. 10
-- d) renseignements spéciaux: selon le temps consacré;
+- d) renseignements spéciaux: selon le temps consacré
 - e) photocopies: dès 10 pages, Fr. 1 la page — Fr. max. 30
 - f) photocopies de documents microfilmés: la page — Fr. 5
 - g) attestations, déclarations, certificats — Fr. 20 à Fr. 50
-- h) frais des examens médicaux, des expertises médicales, psychotechniques, psychologiques, psychiatriques: à la charge de l'intéressé et paiement direct à la personne ou à l'institut chargés de l'examen ou de l'expertise;
+- h) frais des examens médicaux, des expertises médicales, psychotechniques, psychologiques, psychiatriques: à la charge de l'intéressé et paiement direct à la personne ou à l'institut chargés de l'examen ou de l'expertise
 - i) contrôle subséquent des entreprises titulaires d'un permis de circulation collectif et de plaques professionnelles — Fr. 150
-- j) assurance RC: selon tarif des compagnies;
-- k) chaque fois que le coût de la prestation doit être déterminé en fonction du temps consacré, le prix de l’heure est de Fr. 120 par personne;
-- l) aux montants facturés en fonction du temps consacré, s’ajoutent les frais de déplacement qui comprennent une indemnité horaire calculée conformément à la lettre d ci-devant et une indemnité de Fr. 0,70 par kilomètre effectif parcouru. Les frais de déplacement ne sont pas perçus pour les examens de conduite ainsi que pour les contrôles des véhicules agricoles effectués à l’extérieur des halles officielles de contrôle;
+- j) assurance RC: selon tarif des compagnies
+- k) chaque fois que le coût de la prestation doit être déterminé en fonction du temps consacré, le prix de l’heure est de Fr. 120 par personne
+- l) aux montants facturés en fonction du temps consacré, s’ajoutent les frais de déplacement qui comprennent une indemnité horaire calculée conformément à la lettre d ci-devant et une indemnité de Fr. 0,70 par kilomètre effectif parcouru. Les frais de déplacement ne sont pas perçus pour les examens de conduite
 - m) formation de base pour l'octroi de la dispense de contrôle individuel précédant la première mise en circulation pour les véhicules automobiles légers réceptionnés — Fr. 150
 - n) émoluments administratifs pour l’expertise agricole des délégataires — Fr. 10
 - o) envoi EXPRESS — Fr. 20 à Fr. 40

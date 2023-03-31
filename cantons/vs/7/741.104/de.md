@@ -1,23 +1,25 @@
 ---
 canton: VS
 number: "741.104"
-title: Reglement über den Tarif der Gebühren und Kosten im Bereich der Zulassung von Personen und Fahrzeugen zum Strassenverkehr
+title: "Reglement über den Tarif der Gebühren und Kosten im Bereich der Zulassung von Personen und Fahrzeugen zum Strassenverkehr *"
 short: RTarVZV
 language: de
-version: 2023-01-01
-valid_until: 2023-03-31
-version_adopted: 2022-12-21
+version: 2023-04-01
+valid_until: 2023-12-31
+version_adopted: 2023-03-22
 adopted: 2021-12-15
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/741.104"
-pdf: "https://lex.vs.ch/api/de/versions/3141/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3201/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über den Tarif der Gebühren und Kosten im Bereich der Zulassung von Personen und Fahrzeugen zum Strassenverkehr
 
-vom 15.12.2021 (Stand 01.01.2023)
+(RTarVZV)
+
+vom 15.12.2021 (Stand 01.04.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -107,8 +109,8 @@ beschliesst:
 - b) individuelle Kontrolle eines nicht oder teilweise abgenommenen Fahrzeugs oder eines Fahrzeugs nach einem einzigen Umbau oder einer einzigen Änderung:
   - 1\. leichte Motorwagen mit einem Gesamtgewicht bis und mit 3,50 t, einschliesslich Fahrzeuge zur Beförderung von Personen und Gütern sowie Arbeitskarren, Arbeitsmaschinen und landwirtschaftliche Fahrzeuge — Fr. 120
   - 2\. Transport- und Arbeitsanhänger mit einem Gesamtgewicht bis und mit 3,50 t — Fr. 100
-  - 3\. schwere Motorwagen mit einem Gesamtgewicht grösser als 3,50 t, aber kleiner oder gleich 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren, Arbeitsmaschinen und landwirtschaftliche Fahrzeuge; Gesellschaftswagen mit einem Gesamtgewicht bis und mit 19,50 t; Transport- und Arbeitsanhänger mit einem Gesamtgewicht grösser als 3,50 t — Fr. 200
-  - 4\. schwere Motorwagen mit einem Gesamtgewicht grösser als 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren, Arbeitsmaschinen und landwirtschaftliche Fahrzeuge; Gesellschaftswagen mit einem Gesamtgewicht grösser als 19,50 t — Fr. 240
+  - 3\. schwere Motorwagen mit einem Gesamtgewicht grösser als 3,50 t, aber kleiner oder gleich 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren, Arbeitsmaschinen; Gesellschaftswagen mit einem Gesamtgewicht bis und mit 19,50 t; Transport- und Arbeitsanhänger mit einem Gesamtgewicht grösser als 3,50 t — Fr. 200
+  - 4\. schwere Motorwagen mit einem Gesamtgewicht grösser als 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren, Arbeitsmaschinen; Gesellschaftswagen mit einem Gesamtgewicht grösser als 19,50 t; landwirtschaftliche Fahrzeuge — Fr. 240
   - 5\. Motorräder, drei- und vierrädrige Kleinmotorfahrzeuge — Fr. 100
 - c) Kontrolle der Anhängervorrichtung:
   - 1\. leichte Motorfahrzeuge deren Gesamtgewicht 3,50 t nicht überschreitet; darunter fallen Fahrzeuge für Personenbeförderung und Warentransport, Arbeitskarren und Arbeitsmaschinen sowie landwirtschaftliche Fahrzeuge — Fr. 30
@@ -274,15 +276,15 @@ beschliesst:
 - a) Erstellen einer Bewilligung zur Ausbildung von Lastwagenchauffeuren — Fr. 60
 - b) Immatrikulations-, Änderungskosten — Fr. 30
 - c) Rückvergütung für die Erfassung einer Anmeldung zur Inverkehrsetzung mit dem dafür vorgesehenen Internet-Modul — Fr. 10
-- d) Besondere Auskünfte: nach Zeitaufwand;
+- d) Besondere Auskünfte: ach Zeitaufwand
 - e) Fotokopien: ab 10 Seiten, Fr. 1 pro Seite — Fr. max. 30
 - f) Fotokopien von Dokumenten auf Mikrofilm: pro Seite — Fr. 5
 - g) Bescheinigungen, Erklärungen, Zeugnisse — Fr. 20 bis 50
-- h) Kosten der ärztlichen Untersuchungen, der ärztlichen, psychotechnischen psychologischen und psychiatrischen Gutachten: zu Lasten der betroffenen Person mit direkter Bezahlung an die oder das mit dem Gutachten betraute Person oder Institut;
+- h) Kosten der ärztlichen Untersuchungen, der ärztlichen, psychotechnischen psychologischen und psychiatrischen Gutachten: zu Lasten der betroffenen Person mit direkter Bezahlung an die oder das mit dem Gutachten betraute Person oder Institut
 - i) Nachkontrolle von Unternehmen, die Inhaber eines kollektiven Fahrzeugausweises und von Händlerschildern sind — Fr. 150
-- j) Haftpflichtversicherung: gemäss Tarif der Versicherungsgesellschaften;
-- k) jedes Mal, wenn die Kosten der Dienstleistung nach Zeitaufwand berechnet werden, kostet die Arbeitsstunde Fr. 120 pro Person;
-- l) zu nach Zeitaufwand berechneten Beträgen kommen die Reisekosten, welche eine nach Buchstabe d berechnete Stundenentschädigung und eine Kilometerentschädigung von Fr. 0,70 pro tatsächlich zurückgelegtem Kilometer umfassen. Die Reisekosten werden nicht erhoben bei Führer-prüfungen und bei Kontrollen von landwirtschaftlichen Fahrzeugen, die ausserhalb der offiziellen Kontrollhallen durchgeführt werden;
+- j) Haftpflichtversicherung: gemäss Tarif der Versicherungsgesellschaften
+- k) jedes Mal, wenn die Kosten der Dienstleistung nach Zeitaufwand berechnet werden, kostet die Arbeitsstunde Fr. 120 pro Person
+- l) zu nach Zeitaufwand berechneten Beträgen kommen die Reisekosten, welche eine nach Buchstabe d berechnete Stundenentschädigung und eine Kilometerentschädigung von Fr. 0,70 pro tatsächlich zurückgelegtem Kilometer umfassen. Die Reisekosten werden nicht erhoben bei Führerprüfungen
 - m) Grundausbildung zur Gewährung der Befreiung der Einzelprüfung vor der erstmaligen Inverkehrsetzung von typengenehmigten leichten Motorwagen — Fr. 150
 - n) Verwaltungsgebühren für technische Kontrollen von landwirtschaftlichen Fahrzeugen durch Delegationsbetriebe — Fr. 10
 - o) Expressversand — Fr. 20 bis 40
