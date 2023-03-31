@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.311"
 title: "Studienordnung für die Bachelorstudiengänge Applied Digital Life Sciences, Biomedizinische Labordiagnostik, Biotechnologie, Chemie, Facility Management, Food Science und Umweltingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2023-01-01"
-nachtrag: "120"
-valid_until: 2023-04-01
+version: "2023-04-01"
+nachtrag: "121"
+valid_until: 2025-01-01
 adopted: 2009-11-12
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_311-2009_11_12-2010_03_01-120.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_311-2009_11_12-2010_03_01-121.html"
 text: pdf
 ---
 
@@ -57,7 +57,7 @@ Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung 
 
 **1**
 
-- 1\. 1. 23 - 119 b.[^1-1] Biotechnologie
+- 1\. 4. 23 - 120 b.[^1-1] Biotechnologie
 
 - Bioprozessentwicklung und Bioengineering,
 
@@ -172,7 +172,7 @@ Die Bachelorarbeit ist eine praxisbezogene Arbeit. Sie wird mit einem schriftlic
 
 **3**
 
-- 1\. 1. 23 - 119 § 12. Für Leistungsnachweise in der Bachelorarbeit kann eine einmalige Nachbesserung erbracht werden, wenn die Gesamtbewertung der Bachelorarbeit zwischen 3,5 und 3,9 liegt. Für eine erfolgreiche Nachbesserung wird die Note 4,0 erteilt.
+- 1\. 4. 23 - 120 § 12. Für Leistungsnachweise in der Bachelorarbeit kann eine einmalige Nachbesserung erbracht werden, wenn die Gesamtbewertung der Bachelorarbeit zwischen 3,5 und 3,9 liegt. Für eine erfolgreiche Nachbesserung wird die Note 4,0 erteilt.
 
 **c. Nachbesserung**
 
@@ -194,29 +194,17 @@ Die Bachelorarbeit ist eine praxisbezogene Arbeit. Sie wird mit einem schriftlic
 
 Ein Modul ist bestanden, wenn a. die Modulnote 4,00 oder die Modulgruppennote, zu welcher das Modul gehört, 4,00 erreicht ist und b. keine Kursnote unter 2,5 liegt und c. alle Kurse, die nicht benotet werden, bestanden sind.
 
-**Überzählige ECTS-Credits15 aus Wahlpflichtmodulen**
-
-§ 14.[^13-1] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
-
-<sup>2</sup> Die Studienleitung regelt,
-
-- a. ob die Belegung von überzähligen Wahlpflichtmodulen möglich ist,
-
-- b. wie die Studierenden bei der Wahl der Module bestimmen, welche Wahlpflichtmodule überzählig sind.
-
-<sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
-
-[^13-1]: Fassung gemäss B vom 22. August 2019 (OS 75, 32; ABl 2019-11-01). In Kraft seit 1. April 2020.
-
-#### § 15
+§ 14.[^13-1]
 
 **Wiederholung von Leistungsnachweisen in Modulen**
 
-Der Termin für die Anmeldungen wird von der Studienleitung bekannt gegeben. Bei der Anmeldung zur Wiederholung eines Moduls entscheidet sich die oder der Studierende für eine der folgenden Varianten:
+§ 15. Der Termin für die Anmeldungen wird von der Studienleitung bekannt gegeben. Bei der Anmeldung zur Wiederholung eines Moduls entscheidet sich die oder der Studierende für eine der folgenden Varianten:
 
 - a. Alle bewerteten Leistungsnachweise werden anlässlich der nächsten regulären Moduldurchführung wiederholt;
 
 - b. nur die zeitlich abgesetzten Prüfungen des Moduls werden anlässlich des nächsten regulären Prüfungstermins wiederholt, die alten Bewertungen der Leistungsnachweise während des Semesters werden für die Notenberechnung übernommen.
+
+[^13-1]: Aufgehoben durch B vom 2. Juni 2022 (OS 77, 497; ABl 2022-08-19). In Kraft seit 1. April 2023.
 
 ### F. Studienabschluss und Bachelordiplom
 
@@ -247,12 +235,18 @@ Der Termin für die Anmeldungen wird von der Studienleitung bekannt gegeben. Bei
 
 Das Studium ist bestanden, wenn aus Pflicht- und Wahlpflichtmodulen des Studienganges gemäss Anhang 180 ECTS-Credits[^hFStudienabschluss-2] erworben oder anerkannt wurden.
 
-**Abschlussnote**
+**Abschlussnote a. Allgemein**
 
-§ 18.[^17-1] Die Abschlussnote setzt sich aus den Noten aller promotionsrelevanten Module zusammen. Die Modulnoten werden nach ECTS-Credits[^17-2] gewichtet.
+§ 18.[^17-1] <sup>1</sup> Die Abschlussnote setzt sich aus den Noten der gemäss Anhang relevanten Module zusammen.
 
-[^17-1]: Fassung gemäss B vom 22. August 2019 (OS 75, 32; ABl 2019-11-01). In Kraft seit 1. April 2020.
-[^17-2]: Fassung gemäss B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+<sup>2</sup> Die Modulnoten werden nach ECTS-Credits gewichtet.
+
+**b. ECTS-Credits aus Wahlpflichtmodulen**
+
+§ 18 a.[^17-2] Alle überzähligen Wahlpflichtmodule fliessen in die allfällige Modulgruppennote und die Abschlussnote ein.
+
+[^17-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 497; ABl 2022-08-19). In Kraft seit 1. April 2023.
+[^17-2]: Eingefügt durch B vom 2. Juni 2022 (OS 77, 497; ABl 2022-08-19). In Kraft seit 1. April 2023.
 
 ### G. Schluss- und Übergangsbestimmungen
 
@@ -264,19 +258,23 @@ Das Studium ist bestanden, wenn aus Pflicht- und Wahlpflichtmodulen des Studieng
 
 <sup>2</sup> Sie ersetzt die Studien- und Prüfungsordnung für Bachelor-Studiengänge der Hochschule Wädenswil vom 1. September 2006.
 
-**5**
-
-- 1\. 1. 23 - 119 § 20. <sup>1</sup> Studierende, die ihr Studium im Herbst 2009 oder früher aufgenommen haben, setzen es nach der Studien- und Prüfungsordnung für Bachelorstudiengänge der Hochschule Wädenswil vom 1. September 2006 fort.
+#### § 20
 
 **Übergangsbestimmungen**
 
+<sup>1</sup> Studierende, die ihr Studium im Herbst 2009 oder früher aufgenommen haben, setzen es nach der Studien- und Prüfungsordnung für Bachelorstudiengänge der Hochschule Wädenswil vom 1. September 2006 fort.
+
+**5**
+
+- 1\. 4. 23 - 120
+
 <sup>2</sup> Studierende im Vollzeitstudium, die bis Ende Frühjahrssemester 2013 und Studierende im Teilzeitstudium, die bis Ende Frühjahrssemester 2016 ihr Studium nicht abgeschlossen haben, werden für das weitere Studium dieser Studienordnung unterstellt. Die Studienleitung regelt die Anrechnung bereits erbrachter Leistungen.
 
-[^19-1]: Eingefügt durch B vom 26. März 2015 (OS 70, 173; ABl 2015-04-24). In Kraft seit 1. August 2015.
+[^20-1]: Eingefügt durch B vom 26. März 2015 (OS 70, 173; ABl 2015-04-24). In Kraft seit 1. August 2015.
 
 ### H. Übergangsbestimmung zur Änderung vom 26. März 2015
 
-[^19-1]
+[^20-1]
 
 **Studiengang Umweltingenieurwesen**
 
@@ -347,11 +345,11 @@ bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **9**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 ## Weitere Fussnoten
 
-- [3] Eingefügt durch B vom 20. März 2014 (OS 69, 276; ABl 2014-04-25). In Kraft seit 1. August 2014. 1. 1. 23 - 119 7
+- [3] Eingefügt durch B vom 20. März 2014 (OS 69, 276; ABl 2014-04-25). In Kraft seit 1. August 2014. 1. 4. 23 - 120 7
 - [4] Fassung gemäss B vom 20. März 2014 (OS 69, 276; ABl 2014-04-25). In Kraft seit 1. August 2014.
 - [6] Fassung gemäss B vom 26. März 2015 (OS 70, 173; ABl 2015-04-24). In Kraft seit 1. August 2015.
 - [17] Fassung gemäss B vom 20. August 2020 (OS 76, 234; ABl 2021-04-30). In Kraft seit 1. September 2021.
