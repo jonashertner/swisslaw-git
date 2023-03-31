@@ -4,13 +4,12 @@ number: "426.221"
 title: Verordnung über die Kommission zur Pflege der Orts- und Landschaftsbilder
 short: OLKV
 language: de
-version: 2020-11-01
-valid_until: 2023-03-31
-version_adopted: 2020-09-02
+version: 2023-04-01
+version_adopted: 2023-03-01
 adopted: 2010-10-27
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/426.221"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1986/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2812/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +18,17 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1986/pdf_file"
 
 (OLKV)
 
-vom 27.10.2010 (Stand 01.11.2020)
+vom 27.10.2010 (Stand 01.04.2023)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 144 Absatz 3 Buchstabe c des Baugesetzes vom 9. Juni 1985 (BauG)[^ingress-1],
+gestützt auf Artikel 10 und Artikel 144 Absatz 3 Buchstabe c des Baugesetzes vom 9. Juni 1985 (BauG)[^ingress-1],
 
-auf Antrag der Justiz-, Gemeinde- und Kirchendirektion,
+auf Antrag der Justiz- Gemeinde- und Kirchendirektion,
 
 beschliesst:
 
-[^ingress-1]: BSG 721.0
+[^ingress-1]: BSG [721.0](https://www.belex.sites.be.ch/data/721.0/de)
 
 ## 1 Aufgaben
 
@@ -63,6 +62,8 @@ beschliesst:
 
 <sup>2</sup> …
 
+<sup>3</sup> Sie wird nicht beigezogen in den Fällen von Artikel 10 Absatz 5 BauG.
+
 #### Art. 3
 
 **Planungs- und Konzessionsverfahren**
@@ -74,6 +75,8 @@ beschliesst:
 - c koordinierte Verfahren ausserordentliche Bauformen enthalten,
 - d sie Infrastrukturanlagen für konzessionierte Tätigkeiten (Strassen- und Wasserbau, Energiegewinnung, oberirdische Übertragungsleitungen, Bahnen usw.) betreffen,
 - e in der Mitwirkung oder in Einsprachen Bedenken oder Einwände zur Ästhetik erhoben wurden, die nicht offensichtlich unbegründet sind.
+
+<sup>2</sup> Die OLK wird im Planerlassverfahren nicht beigezogen in den Fällen von Artikel 10 Absatz 5 BauG.
 
 #### Art. 4
 

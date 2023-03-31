@@ -4,13 +4,12 @@ number: "426.221"
 title: Ordonnance concernant la Commission de protection des sites et du paysage
 short: OCPS
 language: fr
-version: 2020-11-01
-valid_until: 2023-03-31
-version_adopted: 2020-09-02
+version: 2023-04-01
+version_adopted: 2023-03-01
 adopted: 2010-10-27
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/426.221"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1986/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2812/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,18 +18,17 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1986/pdf_file"
 
 (OCPS)
 
-du 27.10.2010 (état au 01.11.2020)
+du 27.10.2010 (état au 01.04.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l’article 144 de la loi du 9 juin 1985 sur les constructions (LC)[^ingress-1], ainsi que les articles 22 et 54 du décret du 22 mars 1994 concernant la procédure d’octroi du permis de construire (DPC)[^ingress-2],
+vu les articles 10 et 144, alinéa 3, lettre c de la loi du 9 juin 1985 sur les constructions (LC)[^ingress-1],
 
 sur proposition de la Direction de la justice, des affaires communales et des affaires ecclésiastiques,
 
 arrête:
 
-[^ingress-1]: RSB 721.0
-[^ingress-2]: RSB 725.1
+[^ingress-1]: RSB [721.0.1](https://www.belex.sites.be.ch/data/721.0.1/fr)
 
 ## 1 Tâches
 
@@ -64,6 +62,8 @@ arrête:
 
 <sup>2</sup> …
 
+<sup>3</sup> Elle n'est pas consultée dans les cas visés à l'article 10, alinéa 5 LC.
+
 #### Art. 3
 
 **Procédures d’aménagement et d’octroi de concession**
@@ -75,6 +75,8 @@ arrête:
 - c lorsque des procédures coordonnées font état de formes de construction inhabituelles;
 - d lorsqu'ils concernent des infrastructures destinées à des activités relevant de la concession (construction de routes, aménagement des eaux, production d’énergie, lignes aériennes de transport de courant, chemins de fer, etc.);
 - e lorsqu’ils ont suscité des réserves ou des objections de nature esthétique qui n’apparaissent pas manifestement injustifiées lors de la procédure de participation ou dans le cadre d’oppositions.
+
+<sup>2</sup> La CPS n'est pas consultée dans la procédure d’édiction des plans dans les cas visés à l'article 10, alinéa 5 LC.
 
 #### Art. 4
 
