@@ -4,11 +4,11 @@ title: "Verordnung vom 28. März 2007 über die Kontrolle des Strassenverkehrs (
 short: SKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/296"
 language: de
-version: 2022-01-01
+version: 2023-04-01
 adopted: 2007-03-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-296-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2007-296-20230401-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20220101/de"
 
 (Strassenverkehrskontrollverordnung, SKV)
 
-vom 28. März 2007 (Stand am 1. Januar 2022)
+vom 28. März 2007 (Stand am 1. April 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -247,7 +247,7 @@ Massgebend ist der tiefere Wert der beiden Messungen. Dieser kann von der betrof
 
 <sup>4</sup> Die Testgeräte müssen die Anforderungen der Messmittelverordnung vom 15. Februar 2006[^11-3] und der entsprechenden Ausführungsvorschriften des Eidgenössischen Justiz- und Polizeidepartements erfüllen.
 
-- [tab] <sup>5</sup> Das ASTRA regelt die Handhabung der Testgeräte.
+<sup>5</sup> Das ASTRA regelt die Handhabung der Testgeräte.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 [^11-2]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
@@ -642,9 +642,11 @@ Die Polizei nimmt den Fahrzeugausweis auf der Stelle ab, wenn:
 
 <sup>1</sup> Die Abnahme des Lernfahrausweises, Führerausweises und Fahrzeugausweises und die Verhinderung der Weiterfahrt sind schriftlich zu bestätigen unter Hinweis auf die gesetzliche Wirkung dieser Massnahmen.
 
-<sup>2</sup> Abgenommene Lernfahrausweise und Führerausweise sind der Entzugsbehörde des Wohnsitzkantons, abgenommene Fahrzeugausweise und Kontrollschilder der Entzugsbehörde des Standortkantons zu übermitteln. In beiden Fällen ist der Polizeirapport beizufügen.
+<sup>2</sup> Abgenommene Lernfahrausweise und Führerausweise sind der Entzugsbehörde des Wohnsitzkantons innert drei Arbeitstagen zu übermitteln. Abgenommene Fahrzeugausweise und Kontrollschilder sind der Entzugsbehörde des Standortkantons innert drei Arbeitstagen zu übermitteln. In beiden Fällen sind eine schriftliche Abnahmebestätigung mit einer Kurzbegründung der Abnahme und der Polizeirapport beizufügen. Liegt der Polizeirapport noch nicht vor, so ist er ohne Verzug nachzureichen.[^33-1]
 
 <sup>3</sup> Entfallen die Gründe, die zur Abnahme eines Ausweises oder zur Verhinderung der Weiterfahrt geführt haben, so sind Ausweis und Kontrollschilder zurückzugeben und das Fahrzeug zur Weiterverwendung freizugeben.
+
+[^33-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. April 2023 ([AS 2022 406](https://fedlex.data.admin.ch/eli/oc/2022/406)).
 
 #### Art. 34
 

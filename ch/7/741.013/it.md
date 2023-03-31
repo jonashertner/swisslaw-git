@@ -4,11 +4,11 @@ title: Ordinanza del 28 marzo 2007 sul controllo della circolazione stradale (OC
 short: OCCS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/296"
 language: it
-version: 2022-01-01
+version: 2023-04-01
 adopted: 2007-03-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-296-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2007-296-20230401-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20220101/it"
 
 (OCCS)
 
-del 28 marzo 2007 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 28 marzo 2007 (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -39,18 +39,18 @@ La presente ordinanza disciplina i controlli della circolazione e i provvediment
 
 **Abbreviazioni e definizioni**
 
-<sup>1</sup> Sono utilizzate le seguenti abbreviazioni:
+<sup>1</sup>
 
-<table>
-<tr><td>a. USTRA:</td><td>Ufficio federale delle strade;</td></tr>
-<tr><td>b. UFT:</td><td>Ufficio federale dei trasporti;</td></tr>
-<tr><td>c. LCStr:</td><td>legge federale del 19 dicembre 1958 sulla circolazione stradale;</td></tr>
-<tr><td>d. ONC:</td><td>ordinanza del 13 novembre 1962[^2-1] sulle norme della circolazione stradale;</td></tr>
-<tr><td>e. OETV:</td><td>ordinanza del 19 giugno 1995[^2-2] concernente le esigenze tecniche per i veicoli stradali;</td></tr>
-<tr><td>f. OAC:</td><td>ordinanza del 27 ottobre 1976[^2-3] sull’ammissione alla circolazione di persone e veicoli;</td></tr>
-<tr><td>g. OLR 1:</td><td>ordinanza del 19 giugno 1995[^2-4] per gli autisti;</td></tr>
-<tr><td>h.[^2-5] OLR 2:</td><td>Ordinanza del 6 maggio 1981[^2-6] sulla durata del lavoro e del riposo dei conducenti professionali di veicoli leggeri per il trasporto di persone e di automobili pesanti.</td></tr>
-</table>
+Sono utilizzate le seguenti abbreviazioni:
+
+- a. USTRA: Ufficio federale delle strade;
+- b. UFT: Ufficio federale dei trasporti;
+- c. LCStr: legge federale del 19 dicembre 1958 sulla circolazione stradale;
+- d. ONC: ordinanza del 13 novembre 1962[^2-1] sulle norme della circolazione tradale;
+- e. OETV: ordinanza del 19 giugno 1995[^2-2] concernente le esigenze tecniche per i veicoli stradali;
+- f. OAC: ordinanza del 27 ottobre 1976[^2-3] sull’ammissione alla circolazione di persone e veicoli;
+- g. OLR 1: ordinanza del 19 giugno 1995[^2-4] per gli autisti;
+- h.[^2-5] OLR 2: Ordinanza del 6 maggio 1981[^2-6] sulla durata del lavoro e del riposo dei conducenti professionali di veicoli leggeri per il trasporto di persone e di automobili pesanti.
 
 <sup>2</sup> Sono veicoli utilitari i trattori a sella e i rimorchi con un peso totale superiore a 3,5 t nonché gli autobus, i furgoncini e gli autocarri.
 
@@ -108,10 +108,10 @@ Può ordinare:[^4-5]
 <sup>7</sup> L’USTRA disciplina, d’intesa con l’UDSC, i particolari dell’esecuzione dei controlli in materia di polizia stradale. Sono fatti salvi accordi più particolareggiati stipulati dai Cantoni con il Dipartimento federale delle finanze conformemente all’articolo 97 della legge del 18 marzo 2005[^4-10] sulle dogane.[^4-11]
 
 [^4-1]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali (RS **17****0.512.1**), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^4-3]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-4]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-5]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 (RU **201****9** 529).
+[^4-5]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-6]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-7]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
 [^4-8]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
@@ -394,13 +394,13 @@ I conducenti al beneficio di privilegi e immunità diplomatici o consolari non p
 
 **Controlli**[^20-1]
 
-Sono effettuati controlli sulla durata del lavoro, della guida e del riposo dei conducenti di veicoli a motore che sottostanno all’OLR 1[^20-2] e all’OLR 2[^20-3].
+<sup>1</sup> Sono effettuati controlli sulla durata del lavoro, della guida e del riposo dei conducenti di veicoli a motore che sottostanno all’OLR 1[^20-2] e all’OLR 2[^20-3].
 
 <sup>2</sup> Nei confronti dei conducenti che sottostanno all’OLR 1, le autorità cantonali provvedono affinché ogni anno siano effettuati controlli durante il 3 per cento almeno dei giorni lavorativi, almeno il 30 per cento dei quali da effettuarsi nel quadro di controlli stradali e almeno il 50 per cento nel quadro di controlli nell’azienda.
 
 [^20-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
 [^20-2]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
-[^20-3]: RS **822****.****222**
+[^20-3]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
 
 #### Art. 21
 
@@ -645,9 +645,11 @@ La polizia sequestra sul posto la licenza di circolazione se:
 
 <sup>1</sup> La polizia deve confermare per scritto il sequestro della licenza per allievo conducente, della licenza di condurre, della licenza di circolazione e il divieto di continuare la corsa indicando le conseguenze giuridiche del provvedimento.
 
-<sup>2</sup> Le licenze per allievo conducente e le licenze di condurre devono essere inviate all’autorità del Cantone di domicilio incaricata delle revoche, le licenze di circolazione e le targhe all’autorità del Cantone di stanza incaricata delle revoche. In entrambi i casi deve essere allegato il rapporto di polizia.
+<sup>2</sup> Le licenze per allievo conducente e le licenze di condurre sequestrate devono essere inviate entro tre giorni lavorativi all’autorità di revoca del Cantone di domicilio. Le licenze di circolazione e le targhe sequestrate devono essere inviate entro tre giorni lavorativi all’autorità di revoca del Cantone di stanza. In entrambi i casi devono essere allegati una conferma scritta e brevemente motivata del sequestro e il rapporto di polizia. Se quest’ultimo non è ancora disponibile, deve essere trasmesso appena possibile.[^33-1]
 
 <sup>3</sup> Se i motivi che hanno originato il sequestro della licenza oppure il divieto di continuare la corsa cessano di esistere, la licenza e le targhe devono essere restituite e il veicolo deve essere riconsegnato per l’ulteriore uso.
+
+[^33-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2022 406](https://fedlex.data.admin.ch/eli/oc/2022/406)).
 
 #### Art. 34
 

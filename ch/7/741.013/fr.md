@@ -4,11 +4,11 @@ title: Ordonnance du 28 mars 2007 sur le contrôle de la circulation routière (
 short: OCCR
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/296"
 language: fr
-version: 2022-01-01
+version: 2023-04-01
 adopted: 2007-03-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-296-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-296-20230401-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20220101/fr"
 
 (OCCR)
 
-du 28 mars 2007 (Etat le 1<sup>er</sup> janvier 2022)
+du 28 mars 2007 (État le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
@@ -39,21 +39,18 @@ La présente ordonnance règle les contrôles de la circulation ainsi que les me
 
 **Abréviations et définitions**
 
-<sup>1</sup> Les abréviations suivantes sont utilisées dans la présente ordonnance:
+<sup>1</sup>
 
-<table>
-<tr><td>a. OFROU:</td><td>Office fédéral des routes;</td></tr>
-<tr><td>b. OFT:</td><td>Office fédéral des transports;</td></tr>
-<tr><td>c. LCR:</td><td>Loi fédérale du 19 décembre 1958 sur la circulation routière;</td></tr>
-<tr><td>d. OCR:</td><td>Ordonnance du 13 novembre 1962 sur les règles de la circulation routière[^2-1];</td></tr>
-<tr><td>e. OETV:</td><td>Ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers[^2-2];</td></tr>
-<tr><td>f. OAC:</td><td>Ordonnance du 27 octobre 1976 réglant l’admission à la circulation routière[^2-3];</td></tr>
-<tr><td>g. OTR 1:</td><td>Ordonnance du 19 juin 1995 sur les chauffeurs[^2-4];</td></tr>
-</table>
+Les abréviations suivantes sont utilisées dans la présente ordonnance:
 
-<table>
-<tr><td>h.[^2-5] OTR 2:</td><td>Ordonnance du 6 mai 1981 sur la durée du travail et du repos des conducteurs professionnels de véhicules légers affectés au transport de personnes et de voitures de tourisme lourdes[^2-6].</td></tr>
-</table>
+- a. OFROU: Office fédéral des routes;
+- b. OFT: Office fédéral des transports;
+- c. LCR: Loi fédérale du 19 décembre 1958 sur la circulation routière;
+- d. OCR: Ordonnance du 13 novembre 1962 sur les règles de la circulation routière[^2-1];
+- e. OETV: Ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers[^2-2];
+- f. OAC: Ordonnance du 27 octobre 1976 réglant l’admission à la circula- tion routière[^2-3];
+- g. OTR 1: Ordonnance du 19 juin 1995 sur les chauffeurs[^2-4];
+- h.[^2-5] OTR 2: Ordonnance du 6 mai 1981 sur la durée du travail et du repos des conducteurs professionnels de véhicules légers affectés au transport de personnes et de voitures de tourisme lourdes[^2-6].
 
 <sup>2</sup> Par véhicules utilitaires, on entend les tracteurs à sellette et les remorques d’un poids total supérieur à 3,5 t ainsi que les autocars, minibus et camions.
 
@@ -72,7 +69,7 @@ La présente ordonnance règle les contrôles de la circulation ainsi que les me
 
 <sup>2</sup> La police agit de manière à aider et à sensibiliser les usagers de la route, empêche les conducteurs de commettre des infractions, dénonce les contrevenants et inflige des amendes d’ordre conformément à la loi fédérale du 24 juin 1970 sur les amendes d’ordre[^3-2].
 
-[^3-1]: RS **510.71****0**
+[^3-1]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
 [^3-2]: [[RO 1972 742](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 ch. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)ch. II; [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)annexe ch. I]. Voir actuellement la L du 18 mars 2016 ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
 
 #### Art. 4
@@ -591,7 +588,7 @@ La police empêche le conducteur de reprendre la route:
 - e. s’il n’observe pas une restriction éventuelle inscrite dans le permis de conduire relative à l’utilisation d’un véhicule adapté à son infirmité ou à sa taille;
 - f. s’il conduit un véhicule automobile autorisé à circuler sans permis de circulation ni plaques de contrôle en vertu de l’art. 72 OAC[^30-4], et qu’un ou plusieurs motifs énumérés à l’art. 32 sont en cause.
 
-[^30-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2016 (RO **2****015** 2585).
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 [^30-2]: Introduite par le ch. I de l’O du 29 nov. 2013 ([RO 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 [^30-3]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^30-4]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
@@ -642,9 +639,11 @@ La police saisit le permis de circulation sur-le-champ:
 
 <sup>1</sup> L’organe de contrôle confirme par écrit la saisie du permis d’élève conducteur, du permis de conduire et du permis de circulation et l’interdiction de reprendre la route, en indiquant les conséquences juridiques de ces mesures.
 
-<sup>2</sup> Les permis d’élève conducteur et de conduire saisis seront transmis à l’autorité du canton de domicile chargée des retraits de permis; les plaques et les permis de circulation saisis, à l’autorité chargée des retraits de permis du canton de stationnement du véhicule. Le rapport de police sera joint dans les deux cas.
+<sup>2</sup> Les permis d’élève conducteur et les permis de conduire saisis seront transmis dans les trois jours ouvrés à l’autorité chargée des retraits de permis du canton de domicile du titulaire. Les permis de circulation et les plaques de contrôle saisis seront remis dans le même délai à l’autorité chargée des retraits de permis du canton de stationnement du véhicule. Une attestation écrite indiquant brièvement le motif de de la saisie et un rapport de police seront joints au dossier dans les deux cas. Si le rapport de police n’est pas encore disponible, il sera fourni sans délai.[^33-1]
 
 <sup>3</sup> Si les motifs qui ont donné lieu à la saisie d’un permis ou à l’interdiction de reprendre la route deviennent sans objet, le permis, les plaques et le véhicule seront restitués immédiatement, avec permission d’en faire usage.
+
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2022 406](https://fedlex.data.admin.ch/eli/oc/2022/406)).
 
 #### Art. 34
 
@@ -769,8 +768,6 @@ Les cantons communiquent à l’OFT:
 ### Section 2 Rapports de l’OFROU
 
 #### Art. 46
-
-<sup>1</sup>
 
 L’OFROU envoie un rapport:
 
