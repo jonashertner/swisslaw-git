@@ -4,13 +4,13 @@ number: "721.0"
 title: Baugesetz
 short: BauG
 language: de
-version: 2023-01-01
-valid_until: 2023-03-31
-version_adopted: 2022-03-09
+version: 2023-04-01
+valid_until: 2026-08-31
+version_adopted: 2022-09-13
 adopted: 1985-06-09
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/721.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2714/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2820/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2714/pdf_file"
 
 (BauG)
 
-vom 09.06.1985 (Stand 01.01.2023)
+vom 09.06.1985 (Stand 01.04.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -228,11 +228,16 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat setzt eine aus Fachleuten zusammengesetzte Kommission zur Pflege der Orts- und Landschaftsbilder (OLK) ein.
 
-<sup>2</sup> Die OLK beurteilt zuhanden der Baubewilligungsbehörde prägende Bauvorhaben aus Sicht des Ortsbilds- und Landschaftsschutzes. Die Interessenabwägung obliegt der Baubewilligungsbehörde.
+<sup>2</sup> Die OLK beurteilt zuhanden der Baubewilligungsbehörde prägende Bauvorhaben aus Sicht des Ortsbild- und Landschaftsschutzes. Die Interessenabwägung obliegt der Baubewilligungsbehörde.
 
 <sup>3</sup> Die OLK berät kantonale Organe und nimmt in Planungs-, Konzessions- und Rechtsmittelverfahren Stellung zu Fragen des Ortsbild- und Landschaftsschutzes.
 
 <sup>4</sup> Sie berät Bauherrschaften und Projektverfasserinnen und -verfasser im Rahmen der Beurteilung von prägenden Bauvorhaben gemäss Absatz 2, wenn sie von diesen beigezogen wird.
+
+<sup>5</sup> Sie wird im Baubewilligungs- und Planerlassverfahren nicht beigezogen, wenn das betreffende Bauvorhaben oder Planungsgeschäft
+
+- a bereits von der Eidgenössischen Natur- und Heimatschutzkommission, der Kantonalen Denkmalpflege oder einer leistungsfähigen örtlichen Fachstelle begutachtet worden ist oder
+- b das Ergebnis eines anerkannten qualitätssichernden Verfahrens ist.
 
 #### Art. 10a
 
@@ -858,6 +863,26 @@ beschliesst:
 
 <sup>3</sup> Fehlt diese Angabe bei vervielfältigten oder weitgehend identischen Beschwerden, räumt die Behörde den Beschwerdeführerinnen und Beschwerdeführern eine Nachfrist zur Verbesserung ein und bezeichnet ein Zustelldomizil für den Fall, dass innert der Nachfrist kein Zustelldomizil angegeben wird.
 
+#### Art. 41a
+
+**Sicherstellung der Parteikosten vor Verwaltungsgericht 1 Verpflichtete Parteien**
+
+<sup>1</sup> Im Beschwerdeverfahren vor dem Verwaltungsgericht kann die beschwerdeführende Partei auf Gesuch der Gegenpartei zur Sicherstellung der Parteikosten verpflichtet werden, wenn sie im Einspracheverfahren unterlegen ist.
+
+<sup>2</sup> Beschwerdeführende Behörden sind von der Sicherstellungspflicht ausgenommen.
+
+#### Art. 41b
+
+**2 Schaden und Finanzielles**
+
+<sup>1</sup> Im Gesuch hat die Gegenpartei einen Schaden glaubhaft zu machen, der aufgrund der Anfechtung vor dem Verwaltungsgericht eingetreten ist oder noch eintreten wird und im Zusammenhang mit dem angefochtenen Bauentscheid steht.
+
+<sup>2</sup> Die Schadenshöhe muss mindestens fünf Prozent der Baukosten betragen und darf 25'000 Franken nicht unterschreiten.
+
+<sup>3</sup> Bezahlt die beschwerdeführende Partei den verlangten Betrag nicht innerhalb von zehn Arbeitstagen und lässt sie auch eine kurze Nachfrist unbenutzt verstreichen, ist auf ihre Beschwerde nicht einzutreten.
+
+<sup>4</sup> Das Recht auf unentgeltliche Rechtspflege bleibt vorbehalten.
+
 #### Art. 42
 
 **Geltung der Baubewilligung**
@@ -1092,11 +1117,23 @@ beschliesst:
 
 <sup>5</sup> Die Gemeinden und die Planungsregionen bzw. Regionalkonferenzen können ein weitergehendes Mitwirkungsverfahren durchführen. Insbesondere können die Gemeindebehörden die Quartierbevölkerung zur Lösung von Fragen der Quartierplanung heranziehen.
 
+#### Art. 58a
+
+**Startgespräch**
+
+<sup>1</sup> Die Gemeinde und die zuständige Stelle der Direktion für Inneres und Justiz führen zu Beginn des Planerlassverfahrens nach diesem Gesetz ein Startgespräch in der Regel innerhalb einer Frist von 30 Arbeitstagen.
+
+<sup>2</sup> Das Startgespräch bezweckt die gegenseitige Information, das Erörtern der wesentlichen rechtlichen Rahmenbedingungen und die frühzeitige Klärung des Ablaufs des Planerlassverfahrens.
+
+<sup>3</sup> Bei offensichtlich unproblematischen Planungen kann die Gemeinde auf die Durchführung des Startgesprächs verzichten.
+
 #### Art. 59
 
 **Vorprüfung**
 
 <sup>1</sup> Die Entwürfe für Richt- und Nutzungspläne (Art. 57) sind der zuständigen Stelle der Direktion für Inneres und Justiz zur Vorprüfung einzureichen.
+
+<sup>1a</sup> Die Gemeinden können die erforderlichen Amts- und Fachberichte selber einholen und mit den zuständigen Stellen bereinigen (Ämterkonsultation), wenn sie dies zu Beginn des Planerlassverfahrens verbindlich erklären und die Dokumentation der Ämterkonsultation sichergestellt ist. Die abschliessende Vorprüfung obliegt in jedem Fall der zuständigen Stelle der Direktion für Inneres und Justiz.
 
 <sup>2</sup> Der Regierungsrat regelt die Zusammenarbeit zwischen den kantonalen Stellen einerseits und den Planungsregionen bzw. Regionalkonferenzen und den Gemeinden andererseits und stellt ein rasches Vorprüfungsverfahren sicher.
 
@@ -1160,7 +1197,7 @@ beschliesst:
 
 <sup>3</sup> Die Direktion für Inneres und Justiz entscheidet kantonal letztinstanzlich über die Genehmigung von Richtplänen.
 
-<sup>4</sup> Die Artikel 35d, 39 Absatz 3, 40a und 41 sind sinngemäss anwendbar.
+<sup>4</sup> Die Artikel 35d, 39 Absatz 3, 40 Absatz 5, 40a und 41 sind sinngemäss anwendbar.
 
 #### Art. 61b
 
@@ -1665,7 +1702,7 @@ beschliesst:
 
 <sup>1</sup> Die Grundordnung hat für jede Zone mit Planungspflicht (Art. 73) den Planungszweck, die Art der Nutzung, deren Mass als Planungswert und die Gestaltungsgrundsätze für Bauten, Anlagen und Aussenräume festzulegen. Der Gemeinderat kann in der Überbauungsordnung baurechtliche Vorschriften, die nicht diese Festlegungen betreffen, abweichend zur Grundordnung festlegen.
 
-<sup>2</sup> Die Grundordnung kann als weitere Vorgabe für die Überbauungsordnung die Durchführung eines Wettbewerbs oder eines nach anerkannten Regeln durchzuführenden wettbewerbsähnlichen Verfahrens verlangen.
+<sup>2</sup> Die Grundordnung kann als weitere Vorgabe für die Überbauungsordnung die Durchführung eines anerkannten qualitätssichernden Verfahrens vorschreiben.
 
 #### Art. 93
 
@@ -1674,7 +1711,7 @@ beschliesst:
 <sup>1</sup> Das Bauen in einer Zone mit Planungspflicht setzt eine rechtskräftige Überbauungsordnung (Art. 88) voraus. Wenn aber die Festlegungen der Grundordnung eingehalten werden, kann die Gemeindebehörde
 
 - a vor dem Erlass der Überbauungsordnung der Bewilligung eines einzelnen Vorhabens zustimmen;
-- b auf den Erlass der Überbauungsordnung verzichten, wenn ein Vorhaben das Ergebnis eines Projektwettbewerbs ist, der nach anerkannten Verfahrensregeln durchgeführt wurde;
+- b auf den Erlass der Überbauungsordnung verzichten, wenn ein Vorhaben das Ergebnis eines anerkannten qualitätssichernden Verfahrens ist;
 - c mit Zustimmung der zuständigen Stelle der Direktion für Inneres und Justiz auf den Erlass der Überbauungsordnung verzichten, wenn ein Gesamtvorhaben das Planungsziel in der ganzen Zone mit Planungspflicht erfüllt.
 
 <sup>2</sup> Wurden Bauten unter Verzicht auf den Erlass der Überbauungsordnung erstellt, sind andere Vorhaben nur noch gestattet, wenn sie den Festlegungen der Grundordnung entsprechen und sich in die bestehenden Bauten einordnen; andernfalls lebt die Planungspflicht wieder auf.
@@ -2576,10 +2613,10 @@ beschliesst:
 - f die besonderen Bauten und Anlagen;
 - g die allgemeinverbindliche Festlegung bau- und planungsrechtlicher Begriffe;
 - h die inhaltliche und technische Gestaltung von Plänen im Sinne dieses Gesetzes und des Richtplans nach Raumplanungsgesetz[^144-1];
-- i die nähere Ordnung des Verfahrens und der Zuständigkeit für Vorschriften und Pläne, insbesondere hinsichtlich ihrer geringfügigen Änderung und der Anpassung des Richtplans nach Raumplanungsgesetz,
-- k die Zonenkonformität von Vorhaben in der Landwirtschaftszone und die möglichen Ausnahmen nach den Artikeln 24 bis 24d RPG,
-- l die Festlegung qualitätssichernder Verfahrensregeln für Projektwettbewerbe nach Artikel 93 Absatz 1 Buchstabe b,
-- m die Einzelheiten zum Baubewilligungsverfahren in elektronischer Form,
+- i die nähere Ordnung des Verfahrens und der Zuständigkeit für Vorschriften und Pläne, insbesondere hinsichtlich ihrer geringfügigen Änderung und der Anpassung des Richtplans nach Raumplanungsgesetz;
+- k die Zonenkonformität von Vorhaben in der Landwirtschaftszone und die möglichen Ausnahmen nach den Artikeln 24 bis 24d RPG;
+- l die Festlegung der anerkannten qualitätssichernden Verfahren;
+- m die Einzelheiten zum Baubewilligungsverfahren in elektronischer Form;
 - n die Einzelheiten zum Planerlassverfahren in elektronischer Form.
 
 <sup>3</sup> Gegenstand besonderer Verordnungen können insbesondere sein

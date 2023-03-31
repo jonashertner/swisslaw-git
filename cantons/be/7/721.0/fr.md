@@ -4,13 +4,13 @@ number: "721.0"
 title: "Loi sur les constructions *"
 short: LC
 language: fr
-version: 2023-01-01
-valid_until: 2023-03-31
-version_adopted: 2022-03-09
+version: 2023-04-01
+valid_until: 2026-08-31
+version_adopted: 2022-09-13
 adopted: 1985-06-09
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/721.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2714/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2820/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2714/pdf_file"
 
 (LC)
 
-du 09.06.1985 (état au 01.01.2023)
+du 09.06.1985 (état au 01.04.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -233,6 +233,11 @@ arrête:
 <sup>3</sup> La CPS conseille les organes cantonaux et prend position sur les questions concernant la protection des sites et du paysage dans le cadre de procédures d’aménagement, d’octroi de concession et de recours.
 
 <sup>4</sup> Elle conseille, à leur demande, les maîtres d’ouvrage et les auteurs de projet dans le cadre de l’évaluation de projets dont la réalisation est susceptible d’avoir un impact considérable sur le site et le paysage au sens de l’alinéa 2.
+
+<sup>5</sup> Elle n’est pas consultée dans les procédures d’octroi du permis de construire ou d’édiction des plans lorsque le projet de construction ou d’aménagement
+
+- a a déjà été examiné par la Commission fédérale pour la protection de la nature et du paysage, le Service cantonal des monuments historiques ou un service spécialisé local compétent ou
+- b est le résultat d’une procédure reconnue visant à garantir la qualité.
 
 #### Art. 10a
 
@@ -857,6 +862,26 @@ arrête:
 
 <sup>3</sup> Si cette indication fait défaut dans des recours individuels multicopiés ou en grande partie identiques, l’autorité impartit aux recourants un délai pour y remédier et désigne le domicile de notification pour le cas où les recourants n’en désignent pas un autre dans le délai.
 
+#### Art. 41a
+
+**Sûretés en garantie des dépens devant le Tribunal administratif 1 Parties assujetties**
+
+<sup>1</sup> En procédure de recours devant le Tribunal administratif, la partie recourante qui avait succombé en procédure d'opposition peut être tenue, sur requête de la partie adverse, de fournir des sûretés en garantie des dépens.
+
+<sup>2</sup> Les autorités recourantes sont dispensées de l’obligation de fournir des sûretés.
+
+#### Art. 41b
+
+**2 Dommage et aspects financiers**
+
+<sup>1</sup> Dans sa requête, la partie adverse doit rendre vraisemblable qu’un dommage est survenu ou surviendra en raison du recours formé devant le Tribunal administratif et qu’il existe un lien entre ce dommage et la décision en matière de construction attaquée.
+
+<sup>2</sup> Le dommage doit se monter à cinq pour cent des coûts de construction et à 25'000 francs au moins.
+
+<sup>3</sup> Si la partie recourante ne paie pas le montant exigé dans les dix jours ouvrés ni ne fait usage du court délai supplémentaire qui lui a été accordé, sa demande sera déclarée irrecevable.
+
+<sup>4</sup> Le droit à l'assistance judiciaire est réservé.
+
 #### Art. 42
 
 **Validité du permis de construire**
@@ -1091,11 +1116,23 @@ arrête:
 
 <sup>5</sup> Les communes et les régions d'aménagement ou les conférences régionales peuvent organiser une procédure de participation plus étendue. Les autorités communales peuvent notamment consulter la population d'un quartier pour résoudre les problèmes relatifs à l'aménagement de ce quartier.
 
+#### Art. 58a
+
+**Entretien initial**
+
+<sup>1</sup> La commune et le service compétent de la Direction de l’intérieur et de la justice mènent un entretien initial au début de la procédure d’édiction des plans selon la présente loi en règle générale dans un délai de 30 jours ouvrés.
+
+<sup>2</sup> L’entretien initial vise à permettre l’échange mutuel d’informations, à délimiter le cadre juridique dans ses grandes lignes et à définir à temps le déroulement de la procédure d’édiction des plans.
+
+<sup>3</sup> La commune peut renoncer à l’entretien initial lorsqu’un aménagement ne recèle manifestement aucun problème.
+
 #### Art. 59
 
 **Examen préalable**
 
 <sup>1</sup> Les projets de plans directeurs et de plans d'affectation (art. 57) sont soumis au service compétent de la Direction de l’intérieur et de la justice pour examen préalable.
+
+<sup>1a</sup> Les communes peuvent requérir elles-mêmes les rapports officiels et les rapports techniques et les mettre au net avec le concours des services compétents (consultation des offices) lorsqu’elles s’y sont engagées de manière contraignante au début de la procédure d’édiction des plans et que la consultation des offices est documentée. L’examen préalable définitif incombe dans tous les cas au service compétent de la Direction de l’intérieur et de la justice.
 
 <sup>2</sup> Le Conseil-exécutif règle la collaboration entre les services cantonaux d'une part, et les régions d'aménagement ou les conférences régionales et les communes d'autre part; il garantit en outre une procédure rapide d'examen préalable.
 
@@ -1159,7 +1196,7 @@ arrête:
 
 <sup>3</sup> La Direction de l’intérieur et de la justice statue en qualité de dernière instance cantonale sur l’approbation de plans directeurs.
 
-<sup>4</sup> Les articles 35d, 39, alinéa 3, 40a et 41 s’appliquent par analogie.
+<sup>4</sup> Les articles 35d, 39, alinéa 3, 40, alinéa 5, 40a et 41 s’appliquent par analogie.
 
 #### Art. 61b
 
@@ -1664,7 +1701,7 @@ arrête:
 
 <sup>1</sup> La réglementation fondamentale fixe pour chaque zone à planification obligatoire (art. 73) les buts de l’aménagement, la nature de l’affectation, le degré de cette dernière servant de valeur de planification ainsi que les principes d’agencement des bâtiments, installations et espaces extérieurs. Le conseil communal peut fixer des prescriptions en matière de construction qui ne concernent pas ces éléments dans le plan de quartier en dérogation à la réglementation fondamentale.
 
-<sup>2</sup> La réglementation fondamentale peut en outre prévoir l’organisation d’un concours ou d’une procédure analogue selon des règles de procédure reconnues pour l’édiction d’un plan de quartier.
+<sup>2</sup> Pour l'édiction d'un plan de quartier, la réglementation fondamentale peut en outre prescrire l’organisation d’une procédure reconnue visant à garantir la qualité.
 
 #### Art. 93
 
@@ -1673,7 +1710,7 @@ arrête:
 <sup>1</sup> La construction dans une zone à planification obligatoire nécessite au préalable un plan de quartier entré en force (art. 88). Cependant, lorsque les éléments de la réglementation fondamentale sont respectés, l'autorité communale peut
 
 - a autoriser un projet individuel avant d'édicter le plan de quartier;
-- b renoncer à édicter le plan de quartier lorsqu'un projet est issu d'un concours organisé conformément à des règles de procédure reconnues;
+- b renoncer à édicter le plan de quartier lorsqu'un projet est issu d'une procédure reconnue visant à garantir la qualité;
 - c renoncer, avec l'accord du service compétent de la Direction de l’intérieur et de la justice, à édicter le plan de quartier, si un projet global est conforme à l'objectif d'aménagement dans l'ensemble de la zone à planification obligatoire.
 
 <sup>2</sup> Si une zone a été bâtie sans que soit édicté un plan de quartier, de nouveaux projets ne sont autorisés que s'ils sont conformes aux éléments de la réglementation fondamentale et qu'ils s'intègrent dans l'ensemble des bâtiments existants; la planification obligatoire est réactivée dans tous les autres cas.
@@ -2575,8 +2612,8 @@ arrête:
 - h la conception matérielle et technique des plans au sens de la présente loi et du plan directeur prévu dans la loi sur l'aménagement du territoire;
 - i la définition précise de la procédure et de la compétence en matière de plans et prescriptions, notamment pour ce qui est de leur modification mineure et de l'adaptation du plan directeur au sens de la loi sur l'aménagement du territoire;
 - k la conformité à l'affectation de la zone de projets prévus en zone agricole et les dérogations possibles au sens des articles 24 à 24d LAT;
-- l la fixation de règles de procédure garantissant la qualité des concours au sens de l’article 93, alinéa 1, lettre b;
-- m le règlement des détails de la procédure d’octroi du permis de construire menée par la voie électronique,
+- l la fixation des procédures reconnues visant à garantir la qualité;
+- m le règlement des détails de la procédure d’octroi du permis de construire menée par la voie électronique;
 - n le règlement des détails de la procédure d'édiction des plans menée par la voie électronique.
 
 <sup>3</sup> Les matières suivantes peuvent faire l'objet d'ordonnances particulières:
