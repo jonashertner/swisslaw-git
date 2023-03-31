@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 14 ottobre 2019 sull'attuazione della compensazion
 short: OCoR-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: it
-version: 2022-04-15
+version: 2023-04-01
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20220415/it/xml/fedlex-data-admin-ch-eli-cc-2019-618-20220415-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20220415/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2019-618-20230401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20220415/it"
 
 (OCoR-DFI)
 
-del 14 ottobre 2019 (Stato 15 aprile 2022) (Stato 15 aprile 2022)
+del 14 ottobre 2019 (Stato 1° aprile 2023)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -88,13 +88,13 @@ Sulla base dei dati delle prestazioni fatturate durante i 14 mesi seguenti l'ini
 
 La presente ordinanza entra in vigore il 1° gennaio 2020.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 1)
 
-## Elenco dei PCG****
+## Elenco dei PCG
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 25 feb. 2022, in vigore dal 15 apr. 2022 ([RU 2022 166](https://fedlex.data.admin.ch/eli/oc/2022/166)).
-[^annexu1-lvlu1-1]: L’elenco dei PCG non è pubblicato nella RU. Può essere consultato all’indirizzo www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Assicuratori e vigilanza &gt; Compensazione dei rischi. Fa stato la versione del 25.02.2022
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 17 feb. 2023, in vigore dal 1° apr. 2023 ([RU 2023 112](https://fedlex.data.admin.ch/eli/oc/2023/112)).
+[^annexu1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/112](https://fedlex.data.admin.ch/eli/oc/2023/112)&gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

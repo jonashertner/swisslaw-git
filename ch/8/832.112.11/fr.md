@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 14 octobre 2019 sur la mise en œuvre de la compens
 short: OCoR-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: fr
-version: 2022-04-15
+version: 2023-04-01
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20220415/fr/xml/fedlex-data-admin-ch-eli-cc-2019-618-20220415-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20220415/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2019-618-20230401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20220415/fr"
 
 (OCoR-DFI)
 
-du 14 octobre 2019 (Etat le 15 avril 2022)
+du 14 octobre 2019 (État le 1<sup>er</sup> avril 2023)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -88,13 +88,13 @@ Un facteur de renchérissement des coûts est déterminé pour chaque canton; ce
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2020.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 1)
 
-## Liste des PCG****
+## Liste des PCG
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 25 fév. 2022, en vigueur depuis le 15 avr. 2022 ([RO 2022 166](https://fedlex.data.admin.ch/eli/oc/2022/166)).
-[^annexu1-lvlu1-1]: La liste des PCG n’est pas publiée au RO. Elle peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Assureurs et surveillance &gt; Compensation des risques. La version applicable est celle du 25 février 2022.
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 17 fév. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 112](https://fedlex.data.admin.ch/eli/oc/2023/112)).
+[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/112](https://fedlex.data.admin.ch/eli/oc/2023/112) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
