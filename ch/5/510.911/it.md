@@ -4,90 +4,160 @@ title: "Ordinanza del 16 dicembre 2009 sui sistemi d'informazione militari e su 
 short: OSIM
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/824"
 language: it
-version: 2022-01-01
+version: 2023-04-01
 adopted: 2009-12-16
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-824-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2009-824-20230401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sui sistemi d’informazione militari
+# Ordinanza sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS
 
-(OSIM)
+(OSIM)[^t-1]
 
-del 16 dicembre 2009 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 16 dicembre 2009 (Stato 1° aprile 2023)
+
+[^t-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 186 della legge federale del 3 ottobre 2008[^ingress-1] sui sistemi d’informazione militari (LSIM); visto l’articolo 150 capoverso 1 della legge militare del 3 febbraio 1995[^ingress-2] (LM); visto l’articolo 75 capoverso 1 della legge federale del 4 ottobre 2002[^ingress-3] sulla protezione della popolazione e sulla protezione civile (LPPC); visto l’articolo 27 capoverso 5 della legge del 24 marzo 2000[^ingress-4] sul personale federale (LPers),[^ingress-5]
+visto l’articolo 186 capoversi 1 e 2 della legge federale del 3 ottobre 2008[^ingress-1] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS (LSIM); visti gli articoli 100 capoverso 4 lettere b e c nonché 150 capoverso 1 della legge militare del 3 febbraio 1995[^ingress-2] (LM); vista la legge federale del 20 dicembre 2019[^ingress-3] sulla protezione della popolazione e sulla protezione civile (LPPC); visto l’articolo 27 capoverso 5 della legge del 24 marzo 2000[^ingress-4] sul personale federale (LPers),[^ingress-5]
 
 ordina:
 
 [^ingress-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-3]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645),[2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7. [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)all. n. I]. Vedi ora la LF del 20 dic. 2019 sulla protezione della popolazione e sulla protezione civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^ingress-3]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
 [^ingress-4]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-5]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^ingress-5]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ## Capitolo 1: Disposizioni generali
 
 #### Art. 1
 
-**Oggetto**
+**Oggetto**[^1-1]
 
-La presente ordinanza disciplina il trattamento di dati personali nei sistemi d’informazione e nell’ambito dell’impiego di mezzi di sorveglianza in seno al Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS), in particolare in seno all’esercito e all’amministrazione militare, da parte di:[^1-1]
+La presente ordinanza disciplina il trattamento di dati personali di persone fisiche e giuridiche (dati) nei sistemi d’informazione e nell’ambito dell’impiego di mezzi di sorveglianza dell’esercito e del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) da parte di:
 
 - a. autorità della Confederazione e dei Cantoni;
-- b. comandanti e organi di comando dell’esercito (comandi militari);
-- c. altri militari;
-- d.[^1-2] terzi che adempiono compiti in relazione con gli affari militari o per il DDPS.
+- b. comandanti e organi di comando dell’esercito (comandi militari) nonché comandanti della protezione civile;
+- c. altri militari e militi della protezione civile;
+- d. terzi che adempiono compiti in relazione con gli affari militari e della protezione civile o per il DDPS.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 2
 
-**Principi del trattamento di dati personali che non sono degni di particolare protezione e rete integrata di sistemi d’informazione[^2-1]**
+**Principi del trattamento di dati e rete integrata di sistemi d’informazione**[^2-1]
 
-- [tab] <sup>1</sup> Le disposizioni della LSIM sono applicabili per analogia anche:
-- a. al trattamento di dati personali che non sono degni di particolare protezione ai sensi della presente ordinanza;
+<sup>1</sup>
+
+Le disposizioni della LSIM sono applicabili per analogia anche:
+
+- a. al trattamento di dati ai sensi della presente ordinanza;
 - b. ai sistemi d’informazione e ai mezzi di sorveglianza disciplinati unicamente nella presente ordinanza.
 
-<sup>2</sup> La rete integrata di sistemi d’informazione di cui all’articolo 4 LSIM comprende anche i sistemi d’informazione disciplinati soltanto nella presente ordinanza. Sia tra i sistemi d’informazione disciplinati nella presente ordinanza sia tra quest’ultimi e i sistemi d’informazione disciplinati nella LSIM è in particolare autorizzato il trasferimento di dati secondo l’articolo 4 capoverso 2 lettera b LSIM, alle condizioni ivi menzionate.[^2-2]
+<sup>2</sup> I dati contenuti nell’archivio centralizzato delle identità secondo l’articolo 13 dell’ordinanza del 19 ottobre 2016[^2-2] sui sistemi di gestione delle identità e sui servizi di elenchi della Confederazione (OIAM) possono essere raccolti attingendo all’archivio centralizzato delle identità per essere trattati nei sistemi d’informazione secondo la LSIM o la presente ordinanza.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-[^2-2]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+<sup>3</sup> La rete integrata di sistemi d’informazione secondo l’articolo 4 LSIM comprende anche i sistemi d’informazione disciplinati soltanto nella presente ordinanza. Sia tra i sistemi d’informazione disciplinati nella presente ordinanza sia tra quest’ultimi e i sistemi d’informazione disciplinati nella LSIM è in particolare autorizzato il trasferimento di dati secondo l’articolo 4 capoverso 2 lettera b LSIM, alle condizioni ivi menzionate.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2-2]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
 
 #### Art. 2a
 
-**Detentori delle collezioni di dati e organi responsabili dei sistemi d’informazione dell’Aggruppamento Difesa**[^2a-1]
+**Organi responsabili dei sistemi d’informazione dell’Aggruppamento Difesa**[^2a-1]
 
 ### (art. 186 cpv. 1 lett. a LSIM)
 
-Per i sistemi d’informazione gestiti, conformemente alle disposizioni della LSIM o della presente ordinanza, dall’Aggruppamento Difesa, il detentore delle collezioni di dati e l’organo federale responsabile della protezione dei dati è di volta in volta l’unità amministrativa indicata nell’allegato 1.
+Per i sistemi d’informazione gestiti, conformemente alle disposizioni della LSIM o della presente ordinanza, dall’Aggruppamento Difesa, l’organo federale responsabile della protezione dei dati è di volta in volta l’unità amministrativa indicata nell’allegato 1.
 
-[^2a-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^2a-1]: Introdotto dal n. I dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+#### Art. 2a<sup>bis</sup>
+
+**Trattamento dei dati da parte di responsabili del trattamento**[^2abis-1]
+
+### (art. 186 cpv. 1 lett. a ed e LSIM)
+
+Prima di affidare il trattamento dei dati a un responsabile del trattamento che non è un’unità amministrativa della Confederazione, l’unità amministrativa della Confederazione responsabile della protezione dei dati conclude con esso un accordo scritto nel quale sono definite almeno le attività legate al trattamento dei dati da affidare e con cui il responsabile del trattamento si impegna a:
+
+- a. effettuare soltanto i trattamenti che l’unità amministrativa della Confederazione che conferisce il mandato avrebbe il diritto di effettuare;
+- b. rispettare le prescrizioni in materia di protezione dei dati in particolare della LSIM e della presente ordinanza;
+- c. trattare i dati esclusivamente in Svizzera qualora non siano adempiute le condizioni previste dal diritto svizzero per la comunicazione dei dati all’estero;
+- d.
+
+  comunicare i dati a terzi che non sono collaboratori del responsabile del trattamento solo se l’unità amministrativa della Confederazione che conferisce il mandato:
+
+  - 1\. ha prestato il suo consenso scritto in precedenza, e
+  - 2\. ha concluso anche con il terzo un accordo scritto recante i contenuti minimi indicati nel presente articolo;
+
+- e. proteggere i dati dall’accesso di persone non autorizzate e dal trattamento indebito adottando provvedimenti tecnici e organizzativi idonei e informare l’unità amministrativa della Confederazione che conferisce il mandato in merito ai provvedimenti adottati;
+- f. comunicare il più rapidamente possibile una violazione della sicurezza dei dati all’unità amministrativa della Confederazione che conferisce il mandato;
+- g. comunicare il più rapidamente possibile una violazione dei suoi obblighi di cui al presente articolo all’unità amministrativa della Confederazione che conferisce il mandato;
+- h. attuare senza indugio le istruzioni fornite dall’unità amministrativa della Confederazione che conferisce il mandato per garantire la sicurezza dei dati e delle informazioni, per rispettare le prescrizioni in materia di protezione dei dati o per quanto riguarda le attività di trattamento dei dati;
+- i. consentire in qualsiasi momento all’unità amministrativa della Confederazione che conferisce il mandato di consultare tutti i dati trattati per suo conto e trasmetterle i dati su sua richiesta nella forma richiesta;
+- j. tenere un registro delle proprie attività di trattamento e stabilire un regolamento sul trattamento;
+- k. verbalizzare i propri trattamenti dei dati conformemente all’articolo 2*c*;
+- l. sottoporre se stesso e i suoi collaboratori che si occupano del trattamento dei dati a un controllo di sicurezza presso gli organi federali competenti al riguardo, qualora l’unità amministrativa della Confederazione che conferisce il mandato lo richieda;
+- m. astenersi dal trattamento dei dati qualora l’unità amministrativa della Confederazione che conferisce il mandato esprima dubbi legati alla sicurezza o lo richieda per altri motivi;
+- n. comunicare i suoi collaboratori che si occupano del trattamento dei dati all’unità amministrativa della Confederazione che conferisce il mandato su richiesta di quest’ultima fornendo nomi e dati di contatto;
+- o. consegnare i dati all’unità amministrativa della Confederazione che conferisce il mandato dopo la conclusione del mandato e successivamente distruggerli nonché confermare per iscritto l’avvenuta distruzione all’unità amministrativa della Confederazione che conferisce il mandato;
+- p. pagare una multa convenzionale determinata dall’unità amministrativa della Confederazione che conferisce il mandato e il cui importo deve essere indicato nell’accordo, se il responsabile del trattamento non rispetta gli impegni contrattuali o le prescrizioni in materia di protezione dei dati.
+
+[^2abis-1]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 2b
 
-**Raggruppamento tecnico dei sistemi d’informazione dell’Aggruppamento Difesa**[^2b-1]
+**Raggruppamento tecnico dei sistemi d’informazione**[^2b-1]
 
 ### (art. 4, 5 e 186 cpv. 2 lett. a LSIM)
 
+[^2b-2]
+
 Più sistemi d’informazione possono essere tecnicamente raggruppati e gestiti per mezzo delle medesime piattaforme, infrastrutture, applicazioni o banche dati tecniche se:
 
-- a. sono gestiti, conformemente alle disposizioni della LSIM o della presente ordinanza, dall’Aggruppamento Difesa o da un’unità amministrativa subordinata all’Aggruppamento Difesa;
-- b. per tutti i sistemi d’informazione interessati, il detentore delle collezioni di dati e l’organo federale responsabile della protezione dei dati è la medesima unità amministrativa;
+- [tab] a. e b.[^2b-3]...
 - c. per ogni singolo sistema d’informazione sono osservate le disposizioni in materia di protezione dei dati di volta in volta applicabili, in particolare le disposizioni in materia di protezione dei dati della LSIM e della presente ordinanza, e il raggruppamento tecnico non comporta un’estensione dell’entità e dello scopo del trattamento dei dati nonché dei diritti d’accesso; e
 - d. per ogni sistema d’informazione interessato, nel corrispondente regolamento sul trattamento dei dati è menzionato che i requisiti di cui alla lettera c sono adempiuti ed è illustrato il modo in cui detti requisiti sono adempiuti.
 
 [^2b-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^2b-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2b-3]: Abrogate dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+#### Art. 2c
+
+[^2c-1]
+
+[^2c-1]: Entra in vigore il 1° set. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+#### Art. 2d
+
+**Controllo, concessione e rifiuto dell’accesso**[^2d-1]
+
+### (art. 2*a* e 186 cpv. 1 lett. b, c ed e LSIM)
+
+<sup>1</sup>
+
+Nei sistemi d’informazione e nelle collezioni ausiliarie di dati gestiti secondo la LSIM o la presente ordinanza, l’unità amministrativa di volta in volta competente può trattare i seguenti dati degli utenti del sistema d’informazione o della collezione ausiliaria di dati per controllare, concedere o rifiutare l’accesso al sistema d’informazione o alla collezione ausiliaria di dati:
+
+- a. le loro identità tecniche, dati e autorizzazioni d’accesso;
+- b. i loro template biometrici e i dati biometrici rilevati in occasione dell’identificazione biometrica, se nel sistema d’informazione o nella collezione ausiliaria di dati sono trattati dati degni di particolare protezione o informazioni classificate SEGRETO o CONFIDENZIALE.
+
+<sup>2</sup>
+
+Questi dati di un utente devono essere distrutti come segue se la LSIM o la presente ordinanza non prevedono un altro periodo di conservazione dei dati nel rispettivo sistema d’informazione:
+
+- a. i dati biometrici rilevati in occasione dell’identificazione biometrica: al più tardi un anno dopo il loro rilevamento;
+- b. tutti gli altri dati: al più tardi un anno dopo il decadere dell’autorizzazione d’accesso dell’utente.
+
+[^2d-1]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ## Capitolo 2: Sistemi d’informazione per la gestione del personale
 
-### Sezione 1: Sistema di gestione del personale dell’esercito e della protezione civile****
+### Sezione 1: Sistema di gestione del personale dell’esercito e della protezione civile
 
 [^chap2-sec1-1]
 
@@ -120,9 +190,9 @@ Fatto salvo il capoverso 3, la Confederazione assume i costi:[^3-1]
 
 ### (art. 14 LSIM)
 
-<sup>1</sup> I dati personali contenuti nel PISA sono indicati nell’allegato 1*a*.
+<sup>1</sup> I dati[^4-2] contenuti nel PISA sono indicati nell’allegato 1*a*.
 
-<sup>2</sup> I dati secondo l’allegato 1*a* numeri 1.8 e 2.7 sono rilevati soltanto previo consenso della persona interessata.
+<sup>2</sup> I dati secondo l’allegato 1*a* numeri 1.10 e 2.7 sono rilevati soltanto previo consenso della persona interessata.[^4-3]
 
 <sup>3</sup> Dal momento della loro attribuzione alla formazione, i militari di formazioni con obblighi permanenti di prontezza comunicano al comandante competente i loro numeri di telefono, i loro indirizzi e-mail e il loro indirizzo di domicilio nonché spontaneamente, entro 14 giorni, i cambiamenti di tali dati.
 
@@ -136,6 +206,8 @@ L’Ufficio federale della protezione della popolazione e i servizi della Confed
 - d. esercitano la funzione di contabile.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^4-2]: Nuova espr. giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-3]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 5
 
@@ -151,14 +223,14 @@ L’Ufficio federale della protezione della popolazione e i servizi della Confed
 
 Relativamente alle persone soggette all’obbligo di leva secondo gli articoli 11 e 27 LM, gli organi competenti per registri degli abitanti o per analoghi registri cantonali di persone comunicano al comandante di circondario competente, all’attenzione dell’Aggruppamento Difesa:[^5-6]
 
-- a.[^5-7] alla fine di ogni anno civile, i cittadini svizzeri che durante l’anno in questione hanno compiuto i 17 anni, con cognome, nome, indirizzo di residenza e numero AVS[^5-8];
+- a.[^5-7] alla fine di ogni anno civile, i cittadini svizzeri che durante l’anno in questione hanno compiuto i 17 anni, con cognome, nome, indirizzo di residenza, data di nascita, luogo d’origine e numero AVS;
 - b. il deposito e il ritiro dei documenti di legittimazione;
 - c. il cambiamento dell’indirizzo di residenza all’interno del Comune;
-- d.[^5-9] l’acquisizione della nazionalità svizzera da parte di uomini in età di essere assoggettati all’obbligo di prestare servizio militare;
+- d.[^5-8] l’acquisizione della nazionalità svizzera da parte di uomini in età di essere assoggettati all’obbligo di prestare servizio militare;
 - e. i cambiamenti di cognome;
 - f. i cambiamenti di cittadinanza;
 - g. il decesso;
-- h.[^5-10] ...
+- h.[^5-9] ...
 
 <sup>4</sup>
 
@@ -169,7 +241,7 @@ Le rappresentanze svizzere all’estero notificano all’Aggruppamento Difesa:
 
 <sup>5</sup> Gli uffici di esecuzione e fallimento notificano senza indugio all’Aggruppamento Difesa i sottufficiali, gli ufficiali e gli ufficiali specialisti che, per leggerezza o contegno fraudolento, sono in stato di fallimento o nei confronti dei quali è effettuato un pignoramento infruttuoso. Essi comunicano all’Aggruppamento Difesa, su richiesta, informazioni sulle procedure di esecuzione e fallimento anteriori e in corso contro persone soggette all’obbligo di prestare servizio militare.
 
-<sup>6</sup> Le autorità inquirenti e i tribunali comunicano all’Aggruppamento Difesa, su richiesta, informazioni sui procedimenti penali pendenti o conclusi contro persone soggette all’obbligo di leva e militari, sempre che le informazioni siano necessarie ai fini della valutazione di una sospensione della chiamata in servizio, di un non reclutamento, di un’esclusione dal servizio militare, di una mutazione o di una chiamata a servizi d’istruzione per un grado superiore oppure ai fini dell’esame dei motivi d’impedimento per la consegna[^5-11] dell’arma personale.[^5-12]
+<sup>6</sup> Le autorità inquirenti e i tribunali comunicano all’Aggruppamento Difesa, su richiesta, informazioni sui procedimenti penali pendenti o conclusi contro persone soggette all’obbligo di leva e militari, sempre che le informazioni siano necessarie ai fini della valutazione di una sospensione della chiamata in servizio, di un non reclutamento, di un’esclusione dal servizio militare, di una mutazione o di una chiamata a servizi d’istruzione per un grado superiore oppure ai fini dell’esame dei motivi d’impedimento per la consegna[^5-10] dell’arma personale.[^5-11]
 
 <sup>7</sup>
 
@@ -196,13 +268,24 @@ Relativamente alle persone soggette all’obbligo di leva e alle persone soggett
 [^5-3]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^5-4]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^5-5]: Nuovo testo giusta l’all. n. 1 dell’O del 17 dic. 2014, in vigore dal 1° gen. 2017 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)).
-[^5-6]: Nuovo testo giusta il n. I 5 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^5-7]: Nuovo testo giusta il n. I 5 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^5-8]: Nuova espr. giusta l’all. n. II 18 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^5-9]: Nuovo testo giusta il n. I 5 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^5-10]: Abrogata dal n. I 5 dell’O del 3 dic. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^5-11]: Nuova espr. giusta il n. I dell’O del 10 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)).
-[^5-12]: Nuovo testo giusta il n. I dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^5-6]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^5-7]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^5-8]: Nuovo testo giusta il n. I 5 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^5-9]: Abrogata dal n. I 5 dell’O del 3 dic. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^5-10]: Nuova espr. giusta il n. I dell’O del 10 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)).
+[^5-11]: Nuovo testo giusta il n. I dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+
+### Sezione 1*a*: Sistema d’informazione Gestione dei servizi
+
+[^chap2-sec1a-1]
+
+[^chap2-sec1a-1]: Introdotta dal n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+#### Art. 5a
+
+### (art. 17*c* LSIM)
+
+I dati contenuti nel sistema d’informazione Gestione dei servizi (GDS) sono indicati nell’allegato 1*b*.
 
 ### Sezione 2: Sistema d’informazione medica dell’esercito
 
@@ -212,7 +295,7 @@ Relativamente alle persone soggette all’obbligo di leva e alle persone soggett
 
 ### (art. 26 LSIM)
 
-I dati personali contenuti nel Sistema d’informazione medica dell’esercito (MEDISA) sono indicati nell’allegato 2.
+I dati contenuti nel Sistema d’informazione medica dell’esercito (MEDISA) sono indicati nell’allegato 2.
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
@@ -220,7 +303,7 @@ I dati personali contenuti nel Sistema d’informazione medica dell’esercito (
 
 **Raccolta dei dati**
 
-L’organo competente per il servizio sanitario dell’esercito raccoglie i dati per il MEDISA presso:
+L’Aggruppamento Difesa raccoglie i dati per il MEDISA presso:[^7-1]
 
 - a. le persone soggette all’obbligo di leva, per il tramite di questionari medici raccolti alle giornate informative; questionari psicologici e psichiatrici distribuiti alla giornata di reclutamento nonché ulteriori interviste e visite eseguite nella medesima occasione; scritti personali nonché documenti medici;
 - b. le persone soggette all’obbligo di prestare servizio militare, le persone soggette all’obbligo di prestare servizio civile e le persone soggette all’obbligo di prestare servizio di protezione civile, per il tramite di scritti personali e documenti medici;
@@ -228,25 +311,24 @@ L’organo competente per il servizio sanitario dell’esercito raccoglie i dati
 - d. i medici di truppa, per il tramite di formulari sanitari;
 - e. i medici impiegati, i medici delle piazze d’armi e i medici specialisti delle piazze d’armi, per il tramite di documenti medici e formulari sanitari;
 - f. i medici civili che hanno in cura persone soggette all’obbligo di leva, persone soggette all’obbligo di prestare servizio militare o persone soggette all’obbligo di prestare servizio civile, per il tramite di documenti medici;
-- g. l’Ufficio federale del servizio civile (CIVI)[^7-1] e i medici di fiducia a cui quest’ultimo si è rivolto;
+- g. l’Ufficio federale del servizio civile (CIVI)[^7-2] e i medici di fiducia a cui quest’ultimo si è rivolto;
 - h. l’assicurazione militare, per il tramite di scritti ufficiali e documenti medici;
 - i. l’Ufficio federale della protezione della popolazione, per il tramite di scritti ufficiali e documenti medici;
-- j. [^7-2] il servizio specializzato per i controlli di sicurezza relativi alle persone in seno al DDPS, a partire dai risultati dei controlli relativi alle condizioni fisiche o psichiche della persona da valutare;
-- k.[^7-3] i servizi e le persone di cui all’articolo 113 capoversi 7 e 8 LM che comunicano segni o indizi seri relativi a motivi d’impedimento per la consegna dell’arma personale o dell’arma in prestito.
+- j. [^7-3] il servizio specializzato per i controlli di sicurezza relativi alle persone in seno al DDPS, a partire dai risultati dei controlli relativi alle condizioni fisiche o psichiche della persona da valutare;
+- k.[^7-4] i servizi e le persone di cui all’articolo 113 capoversi 7 e 8 LM che comunicano segni o indizi seri relativi a motivi d’impedimento per la consegna dell’arma personale o dell’arma in prestito.
 
-[^7-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
-[^7-2]: Introdotta dal n. I dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-[^7-3]: Introdotta dal n. I dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+[^7-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^7-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
+[^7-3]: Introdotta dal n. I dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^7-4]: Introdotta dal n. I dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
 ### Sezione 3: Dati di ulteriori sistemi d’informazione per la gestione del personale
 
 #### Art. 8
 
-**Sistema d’informazione per il reclutamento**
+[^8-1]
 
-### (art. 20 LSIM)
-
-- [tab] I dati personali contenuti nel Sistema d’informazione per il reclutamento (ITR) sono indicati nell’allegato 3.
+[^8-1]: Abrogato dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 9
 
@@ -254,15 +336,13 @@ L’organo competente per il servizio sanitario dell’esercito raccoglie i dati
 
 ### (art. 32 LSIM)
 
-I dati personali contenuti nei Sistemi d’informazione per la registrazione dei pazienti (ISPE) sono indicati nell’allegato 4.
+I dati contenuti nei Sistemi d’informazione per la registrazione dei pazienti (ISPE) sono indicati nell’allegato 4.
 
 #### Art. 10
 
-**Banca dati di documentazione dei casi del Servizio psicopedagogico**
+[^10-1]
 
-### (art. 38 LSIM)
-
-I dati personali contenuti nella Banca dati di documentazione dei casi del Servizio psicopedagogico (Banca dati di documentazione dei casi SPP) sono indicati nell’allegato 5.
+[^10-1]: Abrogato dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 10a
 
@@ -270,25 +350,29 @@ I dati personali contenuti nella Banca dati di documentazione dei casi del Servi
 
 ### (art. 44 LSIM)
 
-I dati personali contenuti nel Sistema d’informazione di medicina aeronautica (MEDIS FA) sono indicati nell’allegato 5*a*.
+I dati contenuti nel Sistema d’informazione di medicina aeronautica (MEDIS FA) sono indicati nell’allegato 5*a*.
 
 [^10a-1]: Introdotto dal n. I dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 #### Art. 11
 
-**Sistema d’informazione per le valutazioni relative al distaccamento d’esplorazione dell’esercito**
+**Sistema d’informazione Personale d’impiego del comando forze speciali**[^11-1]
 
 ### (art. 50 LSIM)
 
-I dati personali contenuti nel Sistema d’informazione per le valutazioni relative al distaccamento d’esplorazione dell’esercito (EAAD) sono indicati nell’allegato 6.
+I dati contenuti nel sistema d’informazione Personale d’impiego del comando forze speciali (SIPI CFS) sono indicati nell’allegato 6.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 12
 
-**Sistema d’informazione del settore sociale**
+**Sistema d’informazione per la consulenza sociale**[^12-1]
 
 ### (art. 56 LSIM)
 
-I dati personali contenuti nel Sistema d’informazione del settore sociale (ISB) sono indicati nell’allegato 7.
+I dati contenuti nel sistema d’informazione per la consulenza sociale (ISB) sono indicati nell’allegato 7.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 13
 
@@ -296,7 +380,7 @@ I dati personali contenuti nel Sistema d’informazione del settore sociale (ISB
 
 ### (art. 62 LSIM)
 
-I dati personali contenuti nel Sistema d’informazione Personale Difesa (IPV) sono indicati nell’allegato 8.
+I dati contenuti nel Sistema d’informazione Personale Difesa (IPV) sono indicati nell’allegato 8.
 
 #### Art. 14
 
@@ -304,7 +388,7 @@ I dati personali contenuti nel Sistema d’informazione Personale Difesa (IPV) s
 
 ### (art. 68 LSIM)
 
-I dati personali contenuti nel Sistema d’informazione per la gestione del personale per impieghi all’estero (PERAUS) sono indicati nell’allegato 9.
+I dati contenuti nel Sistema d’informazione per la gestione del personale per impieghi all’estero (PERAUS) sono indicati nell’allegato 9.
 
 ### Sezione 4: Sistema d’informazione Contatti all’estero
 
@@ -324,7 +408,7 @@ I dati personali contenuti nel Sistema d’informazione per la gestione del pers
 
 **Dati**
 
-I dati personali contenuti nell’OpenRID sono indicati nell’allegato 10.
+I dati contenuti nell’OpenRID sono indicati nell’allegato 10.
 
 #### Art. 17
 
@@ -346,39 +430,13 @@ L’Aggruppamento Difesa rende accessibili mediante procedura di richiamo i dati
 
 I dati dell’OpenRID sono conservati per cinque anni al massimo a decorrere dalla conclusione del contatto all’estero.
 
-### Sezione 5: Sistema d’informazione Sminamento a scopo umanitario
+### Sezione 5: ...
 
-#### Art. 20
+#### Art. 20 a 24
 
-**Scopo e organo responsabile**
+[^2024-1]
 
-<sup>1</sup> Il Sistema d’informazione Sminamento a scopo umanitario (IHMR) serve alla gestione del pool di personale per impieghi di sminamento a scopo umanitario.
-
-<sup>2</sup> L’Aggruppamento Difesa gestisce l’IHMR.
-
-#### Art. 21
-
-**Dati**
-
-I dati personali contenuti nell’IHMR sono indicati nell’allegato 11.
-
-#### Art. 22
-
-**Raccolta dei dati**
-
-L’Aggruppamento Difesa raccoglie i dati per l’IHMR presso i candidati all’ammissione al pool di personale.
-
-#### Art. 23
-
-**Comunicazione dei dati**
-
-L’Aggruppamento Difesa rende accessibili mediante procedura di richiamo i dati dell’IHMR al capo Sminamento a scopo umanitario.
-
-#### Art. 24
-
-**Conservazione dei dati**
-
-I dati dell’IHMR sono conservati sino all’uscita dal pool di personale.
+[^2024-1]: Abrogati dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ### Sezione 6: Sistema d’informazione Impieghi di verifica
 
@@ -394,7 +452,7 @@ I dati dell’IHMR sono conservati sino all’uscita dal pool di personale.
 
 **Dati**
 
-I dati personali contenuti nell’IVE sono indicati nell’allegato 12.
+I dati contenuti nell’IVE sono indicati nell’allegato 12.
 
 #### Art. 27
 
@@ -430,7 +488,7 @@ I dati dell’IVE sono conservati per cinque anni al massimo a decorrere dall’
 
 **Dati**
 
-I dati personali contenuti nell’IPont sono indicati nell’allegato 13.
+I dati contenuti nell’IPont sono indicati nell’allegato 13.
 
 #### Art. 32
 
@@ -454,7 +512,7 @@ I dati dell’IPont sono conservati per dieci anni a decorrere dal rilevamento.
 
 [^34-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-### Sezione 8:**** Sistema d’informazione Amministrazione degli impieghi all’estero
+### Sezione 8: Sistema d’informazione Amministrazione degli impieghi all’estero
 
 [^chap2-sec8-1]
 
@@ -510,7 +568,7 @@ I dati nell’HYDRA sono conservati al più tardi fino al raggiungimento del lim
 
 ## Capitolo 3: Sistemi d’informazione per la condotta
 
-### Sezione 1: Sistemi d’informazione per la condotta secondo la LSIM****
+### Sezione 1: Sistemi d’informazione per la condotta secondo la LSIM
 
 [^chap3-sec1-1]
 
@@ -522,7 +580,7 @@ I dati nell’HYDRA sono conservati al più tardi fino al raggiungimento del lim
 
 ### (art. 74 LSIM)
 
-<sup>1</sup> I dati personali contenuti nel Sistema d’informazione e d’impiego del Servizio sanitario coordinato (SII-SSC) sono indicati nell’allegato 14.
+<sup>1</sup> I dati contenuti nel Sistema d’informazione e d’impiego del Servizio sanitario coordinato (SII-SSC) sono indicati nell’allegato 14.
 
 <sup>2</sup> I dati del SII-SSC sono comunicati ai competenti periti esterni nel quadro della valutazione dell’idoneità nei centri di reclutamento.
 
@@ -530,23 +588,18 @@ I dati nell’HYDRA sono conservati al più tardi fino al raggiungimento del lim
 
 [^36-1]
 
+**Art. 37**[^36-2] Sistema d’informazione per l’amministrazione dei servizi
+
+(art. 86 LSIM)[^36-3]
+
+<sup>1</sup> I dati contenuti nel Sistema d’informazione per l’amministrazione dei servizi (MIL Office) sono indicati nell’allegato 16.
+
+<sup>2</sup> ...[^36-4]
+
 [^36-1]: Abrogato dal n. I dell’O del 26 giu. 2013, con effetto dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
-
-#### Art. 37
-
-**Sistema d’informazione per l’amministrazione dei servizi**[^37-1]
-
-### (art. 86 e 87 lett. a LSIM)
-
-[^37-2]
-
-<sup>1</sup> I dati personali contenuti nel Sistema d’informazione per l’amministrazione dei servizi (MIL Office) sono indicati nell’allegato 16.
-
-<sup>2</sup> La persona interessata può trasmettere i dati ai comandi militari anche tramite un portale elettronico gestito dall’Aggruppamento Difesa.[^37-3]
-
-[^37-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-[^37-2]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
-[^37-3]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+[^36-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^36-3]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^36-4]: Introdotto dal n. I dell’O del 20 mag. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)). Abrogato dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 38
 
@@ -554,7 +607,7 @@ I dati nell’HYDRA sono conservati al più tardi fino al raggiungimento del lim
 
 ### (art. 92 LSIM)
 
-<sup>1</sup> I dati personali contenuti nel Sistema d’informazione per la gestione delle competenze (ISKM) sono indicati nell’allegato 17.[^38-3]
+<sup>1</sup> I dati contenuti nel Sistema d’informazione per la gestione delle competenze (ISKM) sono indicati nell’allegato 17.[^38-3]
 
 <sup>2</sup>
 
@@ -592,7 +645,7 @@ I dati dell’ISKM sono resi accessibili:[^38-6]
 
 ### (art. 104 LSIM)
 
-I dati personali contenuti nel Sistema d’informazione e di condotta delle Forze terrestri (FIS FT) sono indicati nell’allegato 19.
+I dati contenuti nel Sistema d’informazione e di condotta delle Forze terrestri (FIS FT) sono indicati nell’allegato 19.
 
 #### Art. 41
 
@@ -600,7 +653,7 @@ I dati personali contenuti nel Sistema d’informazione e di condotta delle Forz
 
 ### (art. 110 LSIM)
 
-I dati personali contenuti nel Sistema d’informazione e di condotta delle Forze aeree (FIS FA) sono indicati nell’allegato 20.
+I dati contenuti nel Sistema d’informazione e di condotta delle Forze aeree (FIS FA) sono indicati nell’allegato 20.
 
 #### Art. 42
 
@@ -608,7 +661,7 @@ I dati personali contenuti nel Sistema d’informazione e di condotta delle Forz
 
 ### (art. 116 LSIM)
 
-I dati personali contenuti nel Sistema d’informazione per la condotta dei militari (IMESS) sono indicati nell’allegato 21.
+I dati contenuti nel Sistema d’informazione per la condotta dei militari (IMESS) sono indicati nell’allegato 21.
 
 ### Sezione 2: ...
 
@@ -618,61 +671,15 @@ I dati personali contenuti nel Sistema d’informazione per la condotta dei mili
 
 [^4347-1]: Abrogati dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-### Sezione 3: Sistema d’informazione Mandati
+### Sezione 3: ...
 
-#### Art. 48
+#### Art. 48 a 52
 
-**Scopo e organo responsabile**
+[^4852-1]
 
-<sup>1</sup> Il Sistema d’informazione Mandati (AIS) serve alla gestione degli utenti della rete di dati del DDPS e dei rispettivi conti di utente.[^48-1]
+[^4852-1]: Abrogati dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-<sup>1bis</sup> Determinati dati personali dell’AIS che non sono degni di particolare protezione (all. 23 n. 1, 2, 4, 5 e 14) sono trattati in una banca dati ausiliaria dell’AIS allo scopo di comunicarli ai fornitori di prestazioni esterni.[^48-2]
-
-<sup>2</sup> L’Aggruppamento Difesa gestisce l’AIS.[^48-3]
-
-[^48-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
-[^48-2]: Introdotto dal n. I dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
-[^48-3]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-
-#### Art. 49
-
-**Dati**
-
-I dati personali contenuti nell’AIS sono indicati nell’allegato 23.
-
-#### Art. 50
-
-**Raccolta dei dati**
-
-L’Aggruppamento Difesa[^50-1] raccoglie i dati per l’AIS presso il sistema PISA nonché presso gli organi e le persone che impiegano militari.
-
-[^50-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
-
-#### Art. 51
-
-**Comunicazione dei dati**
-
-<sup>1</sup>
-
-L’Aggruppamento Difesa rende accessibili:
-
-- a. agli utenti della rete di dati del DDPS: i dati dell’AIS di cui ai numeri 1–27 dell’allegato 23;
-- b. alle persone competenti per la gestione della rete di dati del DDPS: i dati dell’AIS di cui ai numeri 28–32 dell’allegato 23;
-- c. al «Sistema d’informazione e di condotta da Berna (FABIS)»: i dati dell’AIS di cui al numero 1 dell’allegato 33*c*;
-- d. al Sistema d’informazione «Piattaforma militare» (MIL PLATTFORM): i dati dell’AIS di cui al numero 1 dell’allegato 33*d*.[^51-1]
-
-<sup>2</sup> Rende accessibili i dati della banca dati ausiliaria dell’AIS ai fornitori di prestazioni esterni mediante procedura di richiamo.[^51-2]
-
-[^51-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-[^51-2]: Introdotto dal n. I dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
-
-#### Art. 52
-
-**Conservazione dei dati**
-
-I dati dell’AIS sono conservati per dieci anni al massimo a decorrere dall’estinzione del diritto all’utilizzazione.
-
-## Sezione 3*a*:**** Sistema di automazione e di aiuto alla gestione guidato dai processi e dagli eventi
+## Sezione 3*a*: Sistema di automazione e di aiuto alla gestione guidato dai processi e dagli eventi
 
 [^sec3a-1]
 
@@ -686,13 +693,18 @@ I dati dell’AIS sono conservati per dieci anni al massimo a decorrere dall’e
 
 <sup>2</sup> I dati del PEGASUS secondo l’allegato 23*a* numeri 1, 2, 4, 5, 8, 16 e 26 sono trattati in una banca dati ausiliaria del PEGASUS allo scopo di essere comunicati a fornitori di prestazioni esterni.
 
+<sup>2bis</sup> I dati del PEGASUS possono essere scambiati, allo scopo di essere armonizzati, con l’archivio centralizzato delle identità secondo l’articolo 13 OIAM[^52a-1] e i sistemi di gestione delle identità (sistemi IAM) e i servizi di elenchi gestiti in base all’OIAM, per quanto vi possano essere trattati. A tale scopo il PEGASUS può essere integrato nella rete dei sistemi IAM secondo l’articolo 20 OIAM.[^52a-2]
+
 <sup>3</sup> L’Aggruppamento Difesa gestisce il PEGASUS.
+
+[^52a-1]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^52a-2]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 52b
 
 **Dati**
 
-I dati personali contenuti nel PEGASUS sono indicati nell’allegato 23*a*.
+I dati contenuti nel PEGASUS sono indicati nell’allegato 23*a*.
 
 #### Art. 52c
 
@@ -700,12 +712,14 @@ I dati personali contenuti nel PEGASUS sono indicati nell’allegato 23*a*.
 
 I dati nel PEGASUS sono raccolti:
 
-- a. dal Sistema d’informazione strategico della logistica (SISLOG);
+- a.[^52c-1] dal sistema d’informazione Piattaforma di dati Difesa (SI PDD);
 - b. dal sistema PISA;
-- c. dal sistema di gestione delle identità gestito sotto la responsabilità della Segreteria generale del DDPS conformemente all’articolo 5 capoverso 1 lettera c dell’ordinanza del 19 ottobre 2016[^52c-1] sui sistemi di gestione delle identità e sui servizi di elenchi della Confederazione (OIAM);
+- c.[^52c-2] dai sistemi IAM e dai servizi di elenchi gestiti secondo l’OIAM[^52c-3];
 - d. dall’archivio centralizzato delle identità di cui all’articolo 13 OIAM.
 
-[^52c-1]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^52c-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^52c-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^52c-3]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
 
 #### Art. 52d
 
@@ -717,11 +731,18 @@ L’Aggruppamento Difesa rende accessibili i dati del PEGASUS:
 
 - a. agli utenti della rete di dati del DDPS: i dati secondo l’allegato 23*a* numeri 1–28 e 35;
 - b. alle persone competenti per l’amministrazione della rete di dati del DDPS: i dati secondo l’allegato 23*a* numeri 29–37; i dati secondo il numero 36 possono essere utilizzati unicamente a scopi di configurazione e non devono essere visibili tramite le interfacce per utenti;
-- c. al «Sistema d’informazione e di condotta da Berna (FABIS)»: i dati secondo l’allegato 33*c* numero 1;
+- c.[^52d-1] ...
 - d. al Sistema d’informazione «Piattaforma militare» (MIL PLATTFORM): i dati secondo l’allegato 33*d* numero 1;
-- e. alle piattaforme e ai sistemi d’informazione della rete di dati del DDPS per i quali sono amministrati nel PEGASUS gli utenti e le rispettive identità tecniche: i dati necessari per l’accesso a tali piattaforme e sistemi d’informazione.
+- e. alle piattaforme e ai sistemi d’informazione della rete di dati del DDPS per i quali sono amministrati nel PEGASUS gli utenti e le rispettive identità tecniche: i dati necessari per l’accesso a tali piattaforme e sistemi d’informazione;
+- f.[^52d-2] ai sistemi IAM e ai servizi di elenchi gestiti secondo l’OIAM[^52d-3];
+- g.[^52d-4] all’archivio centralizzato delle identità secondo l’articolo 13 OIAM.
 
 <sup>2</sup> Mediante procedura di richiamo, rende accessibili i dati della banca dati ausiliaria del PEGASUS ai fornitori di prestazioni esterni autorizzati.
+
+[^52d-1]: Abrogata dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^52d-2]: Introdotta dal n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^52d-3]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^52d-4]: Introdotta dal n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 52e
 
@@ -731,50 +752,73 @@ L’Aggruppamento Difesa rende accessibili i dati del PEGASUS:
 
 <sup>2</sup> Gli altri dati del PEGASUS sono conservati per dieci anni al massimo a decorrere dall’estinzione del diritto all’utilizzazione.
 
-### Sezione 4: Sistema d’informazione Swiss Defence Public Key Infrastructure
+### Sezione 3*b*: Sistema d’informazione Comunicazione militare
 
-#### Art. 53
+[^sec3a-sec3b-1]
+
+[^sec3a-sec3b-1]: Introdotta dal n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+#### Art. 52f
 
 **Scopo e organo responsabile**
 
-<sup>1</sup>
+<sup>1</sup> Il Sistema d’informazione Comunicazione militare (ComMil) serve all’amministrazione degli utenti di sistemi di comunicazione dell’esercito e dell’amministrazione militare nonché alla comunicazione dei loro dati tramite l’infrastruttura di questi sistemi di comunicazione.
 
-Il Sistema d’informazione Swiss Defence Public Key Infrastructure (SD-PKI) serve alla gestione dei certificati e delle chiavi degli utenti:
+<sup>2</sup> L’Aggruppamento Difesa gestisce il ComMil.
 
-- a. dell’informatica dei sistemi d’arma e dei sistemi di condotta e d’impiego dell’esercito; e
-- b.[^53-1] ...
-
-<sup>2</sup> L’Aggruppamento Difesa gestisce il SD-PKI.
-
-[^53-1]: Vedi art. 78 cpv. 2.
-
-#### Art. 54
+#### Art. 52g
 
 **Dati**
 
-I dati personali contenuti nel SD-PKI sono indicati nell’allegato 24.
+I dati degli utenti di sistemi di comunicazione dell’esercito e dell’amministrazione militare contenuti nel ComMil sono indicati nell’allegato 23*b*.
 
-#### Art. 55
+#### Art. 52h
 
 **Raccolta dei dati**
 
-L’Aggruppamento Difesa raccoglie i dati per il SD-PKI presso il sistema PISA e il sistema AIS.
+L’Aggruppamento Difesa raccoglie i dati per il ComMil:
 
-#### Art. 56
+- a. presso le persone interessate;
+- b. presso gli organi e le persone competenti dell’esercito e dell’amministrazione militare;
+- c.
+
+  dai seguenti sistemi d’informazione:
+
+  - 1\. PISA,
+  - 2\. IPV,
+  - 3\. PEGASUS,
+  - 4\. SI PDD,
+  - 5\. PSN;
+
+- d. dai sistemi IAM e dai servizi di elenchi gestiti secondo l’OIAM[^52h-1];
+- e. dall’archivio centralizzato delle identità secondo l’articolo 13 OIAM.
+
+[^52h-1]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+
+#### Art. 52i
 
 **Comunicazione dei dati**
 
-<sup>1</sup> L’Aggruppamento Difesa rende accessibili mediante procedura di richiamo i dati del SD-PKI agli organi e alle persone competenti per l’autenticazione degli utenti e per il rilascio dei supporti chiave personali.
+L’Aggruppamento Difesa rende accessibili mediante procedura di richiamo i seguenti dati del ComMil:
 
-<sup>2</sup> Gli utenti ricevono un supporto chiave personale contenente il loro cognome, il loro nome e i certificati.
+- a. agli utenti di sistemi di comunicazione dell’esercito e dell’amministrazione militare: i dati secondo l’allegato 23*b* numeri 1–8, 12 e 16–26;
+- b. agli organi e alle persone dell’esercito e dell’amministrazione militare competenti per i sistemi di comunicazione: tutti i dati.
 
-#### Art. 57
+#### Art. 52j
 
 **Conservazione dei dati**
 
-I dati del SD-PKI sono conservati per dieci anni al massimo a decorrere dalla scadenza della validità del certificato.
+Dopo la deregistrazione di un utente di un sistema di comunicazione i dati del ComMil sono conservati al massimo per cinque anni.
 
-### Sezione 5:**** Sistema militare di dosimetria
+### Sezione 4: ...
+
+#### Art. 53 a 57
+
+[^5357-1]
+
+[^5357-1]: Abrogati dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+### Sezione 5: Sistema militare di dosimetria
 
 [^sec3a-sec5-1]
 
@@ -830,7 +874,7 @@ I dati del MDS sono conservati per una durata massima di cinque anni a decorrere
 
 [^57e-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-### Sezione 6:**** Sistemi di geolocalizzazione
+### Sezione 6: Sistemi di geolocalizzazione
 
 [^sec3a-sec6-1]
 
@@ -846,7 +890,7 @@ I dati del MDS sono conservati per una durata massima di cinque anni a decorrere
 
 ## Capitolo 4: Sistemi d’informazione per l’istruzione
 
-### Sezione 1: Sistemi d’informazione per l’istruzione secondo la LSIM****
+### Sezione 1: Sistemi d’informazione per l’istruzione secondo la LSIM
 
 [^chap4-sec1-1]
 
@@ -858,7 +902,7 @@ I dati del MDS sono conservati per una durata massima di cinque anni a decorrere
 
 ### (art. 122 LSIM)
 
-I dati personali contenuti nei Sistemi d’informazione per i simulatori sono indicati nell’allegato 25.
+I dati contenuti nei Sistemi d’informazione per i simulatori sono indicati nell’allegato 25.
 
 #### Art. 59
 
@@ -866,7 +910,7 @@ I dati personali contenuti nei Sistemi d’informazione per i simulatori sono in
 
 ### (art. 128 LSIM)
 
-<sup>1</sup> I dati personali contenuti nel Sistema d’informazione per la gestione dell’istruzione («Learning Management System DDPS»; LMS DDPS) sono indicati nell’allegato 26.
+<sup>1</sup> I dati contenuti nel Sistema d’informazione per la gestione dell’istruzione («Learning Management System DDPS»; LMS DDPS) sono indicati nell’allegato 26.
 
 <sup>2</sup> I dati per l’LMS DDPS possono essere raccolti a partire dall’archivio centralizzato delle identità di cui all’articolo 13 OIAM, nella misura in cui ciò è previsto nell’allegato 26.[^59-2]
 
@@ -879,82 +923,48 @@ I dati personali contenuti nei Sistemi d’informazione per i simulatori sono in
 
 ### (art. 134 LSIM)
 
-I dati personali contenuti nel Sistema d’informazione per i certificati di formazione in materia di buona prassi di fabbricazione (ISGMP) sono indicati nell’allegato 27.
+I dati contenuti nel Sistema d’informazione per i certificati di formazione in materia di buona prassi di fabbricazione (ISGMP) sono indicati nell’allegato 27.
 
 #### Art. 61
 
-**Sistema d’informazione per le autorizzazioni a condurre militari**
+**Sistema d’informazione Circolazione stradale e navigazione dell’esercito**[^61-1]
 
 ### (art. 140 LSIM)
 
-I dati personali contenuti nel Sistema d’informazione per le autorizzazioni a condurre militari (MIFA) sono indicati nell’allegato 28.
+I dati contenuti nel sistema d’informazione Circolazione stradale e navigazione dell’esercito (SI CSNE) sono indicati nell’allegato 28.
+
+[^61-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 61a
 
 **Sistema d’informazione per la formazione e il perfezionamento aeronautici**[^61a-1]
 
+### (art. 143*c* LSIM)
+
+[^61a-2]
+
 I dati contenuti nel Sistema d’informazione per la formazione e il perfezionamento aeronautici (SPHAIR Expert) sono indicati nell’allegato 28*a*.
 
 [^61a-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^61a-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-### Sezione 2: Sistema d’informazione Formazione alla condotta
+#### Art. 61b
 
-#### Art. 62
+**Sistema d’informazione Formazione alla condotta**[^61b-1]
 
-**Scopo e organo responsabile**
+### (art. 143*i* LSIM)
 
-<sup>1</sup> Il Sistema d’informazione Formazione alla condotta (ISFA) serve al controllo della formazione, all’analisi dei risultati della formazione e all’organizzazione degli esami.[^62-1]
+I dati contenuti nel sistema d’informazione Formazione alla condotta (SIFC) sono indicati nell’allegato 29.
 
-<sup>2</sup> L’Aggruppamento Difesa gestisce l’ISFA.
+[^61b-1]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+### Sezione 2: ...
 
-#### Art. 63
+#### Art. 62 a 66
 
-**Dati**
+[^6266-1]
 
-I dati personali contenuti nell’ISFA sono indicati nell’allegato 29.
-
-#### Art. 64
-
-**Raccolta dei dati**
-
-L’Aggruppamento Difesa raccoglie i dati per l’ISFA presso:
-
-- a. le persone interessate;
-- b. i superiori militari delle persone interessate;
-- c. le unità amministrative competenti dell’Aggruppamento Difesa;
-- d. il sistema PISA.
-
-#### Art. 65
-
-**Comunicazione dei dati**
-
-<sup>1</sup>
-
-L’Aggruppamento Difesa rende accessibili mediante procedura di richiamo i dati dell’ISFA agli organi e alle persone:[^65-1]
-
-- a. competenti per l’immissione dei dati nell’ISFA;
-- b.[^65-2] competenti per il coordinamento degli esami per i singoli moduli.
-
-<sup>2</sup>
-
-I dati dell’ISFA sono comunicati:
-
-- a.[^65-3] agli organi civili competenti per il rilascio del certificato attestante l’adempimento con successo dei singoli moduli;
-- b. alle persone registrate nell’ISFA, quale certificato personale di formazione.
-
-[^65-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-[^65-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-[^65-3]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-
-#### Art. 66
-
-**Conservazione dei dati**[^66-1]
-
-I dati dell’ISFA sono conservati per dieci anni al massimo a decorrere dal rilevamento.
-
-[^66-1]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+[^6266-1]: Abrogati dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 66aa 66e
 
@@ -970,7 +980,7 @@ I dati dell’ISFA sono conservati per dieci anni al massimo a decorrere dal ril
 
 ## Capitolo 5: Sistemi d’informazione di sicurezza
 
-### Sezione 1: Sistemi d’informazione di sicurezza secondo la LSIM ****
+### Sezione 1: Sistemi d’informazione di sicurezza secondo la LSIM
 
 [^chap5-sec1-1]
 
@@ -982,16 +992,17 @@ I dati dell’ISFA sono conservati per dieci anni al massimo a decorrere dal ril
 
 ### (art. 146 LSIM)
 
-<sup>1</sup> I dati personali contenuti nel sistema d’informazione per i controlli di sicurezza relativi alle persone (Sistema informatizzato per i controlli di sicurezza relativi alle persone, SIBAD) sono indicati nell’allegato 30.
+<sup>1</sup> I dati contenuti nel sistema d’informazione per i controlli di sicurezza relativi alle persone (Sistema informatizzato per i controlli di sicurezza relativi alle persone, SIBAD) sono indicati nell’allegato 30.
 
 <sup>2</sup>
 
 I dati del sistema SIBAD indicati nel seguito sono comunicati ai sistemi d’informazione seguenti:
 
-- a. al sistema FABIS: i dati secondo l’allegato 33*c* numero 2;
-- b. al sistema MIL PLATTFORM: i dati secondo l’allegato 33*d* numero 2.[^67-1]
+- a.[^67-1] ...
+- b. al sistema MIL PLATTFORM: i dati secondo l’allegato 33*d* numero 2.[^67-2]
 
-[^67-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^67-1]: Abrogata dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^67-2]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 #### Art. 68
 
@@ -999,7 +1010,7 @@ I dati del sistema SIBAD indicati nel seguito sono comunicati ai sistemi d’inf
 
 ### (art. 152 LSIM)
 
-<sup>1</sup> I dati personali contenuti nel Sistema d’informazione per il controllo della sicurezza industriale (ISKO) e raccolti dal sistema SIBAD sono indicati nell’allegato 31 numeri 1–16; i dati aziendali contenuti nell’ISKO sono indicati nell’allegato 31 numeri 17–50.
+<sup>1</sup> I dati contenuti nel Sistema d’informazione per il controllo della sicurezza industriale (ISKO) e raccolti dal sistema SIBAD sono indicati nell’allegato 31 numeri 1–16; i dati aziendali contenuti nell’ISKO sono indicati nell’allegato 31 numeri 17–50.
 
 <sup>2</sup> Unitamente al livello di sicurezza e alla decisione concernente il controllo, possono essere comunicati all’incaricato della tutela del segreto del datore di lavoro i dati necessari per l’identificazione della persona interessata secondo l’allegato 31 numeri 1–10.
 
@@ -1011,7 +1022,7 @@ I dati del sistema SIBAD indicati nel seguito sono comunicati ai sistemi d’inf
 
 ### (art. 158 LSIM)
 
-<sup>1</sup> I dati personali contenuti nel Sistema d’informazione per le richieste di visita (SIBE) sono indicati nell’allegato 32.
+<sup>1</sup> I dati contenuti nel Sistema d’informazione per le richieste di visita (SIBE) sono indicati nell’allegato 32.
 
 <sup>2</sup> Unitamente al livello di sicurezza e alla decisione concernente il controllo, possono essere comunicati alle autorità di sicurezza del Paese oggetto della richiesta di visita competenti per il trattamento delle richieste di visita i dati necessari per l’identificazione della persona interessata secondo l’allegato 32 numeri 1–10.[^69-1]
 
@@ -1023,52 +1034,65 @@ I dati del sistema SIBAD indicati nel seguito sono comunicati ai sistemi d’inf
 
 ### (art. 164 LSIM)
 
-I dati personali contenuti nel Sistema d’informazione per i controlli dell’accesso (ZUKO) sono indicati nell’allegato 33.
+I dati contenuti nel Sistema d’informazione per i controlli dell’accesso (ZUKO) sono indicati nell’allegato 33.
 
 #### Art. 70<sup>bis</sup>
 
-**Sistema di allestimento di giornali e di rapporti per la Sicurezza militare**[^70bis-1]
+**Sistema di allestimento di giornali e rapporti per la polizia militare**[^70bis-1]
 
-### (art. 167*a* LSIM)
+### (art. 167*c* LSIM, art. 100 cpv. 3 lett. a LM)
 
-I dati personali contenuti nel Sistema di allestimento di giornali e di rapporti per la Sicurezza militare (JORASYS) sono indicati nell’allegato 33<sup>bis</sup>.
+<sup>1</sup> I dati contenuti nel sistema di allestimento di giornali e rapporti per la polizia militare (JORASYS) sono indicati nell’allegato 33<sup>bis</sup>.
 
-[^70bis-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+<sup>2</sup> Lo JORASYS contiene anche i dati trattati conformemente all’articolo 100 capoverso 3 lettera a LM.
 
-### Sezione 2:**** Sistema elettronico d’allarme
+[^70bis-1]: Introdotto dal n. I dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-[^chap5-sec2-1]
+#### Art. 70<sup>ter</sup>
+
+**Sistema d’informazione Protezione preventiva dell’esercito**[^70ter-1]
+
+### (art. 167*i* LSIM, art. 100 cpv. 3 lett. a LM)
+
+I dati contenuti nel sistema d’informazione Protezione preventiva dell’esercito (IPSA) sono indicati nell’allegato 33<sup>ter</sup>.
+
+[^70ter-1]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+### Sezione 2: Sistema elettronico di chiamata in servizio
+
+[^chap5-sec2-1][^chap5-sec2-2]
 
 [^chap5-sec2-1]: Introdotta dal n. I dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Nuovo testo giusta il n. I 1 dell’O del 25 gen. 2017 sull’obbligo di prestare servizio militare nel quadro della transizione all’ulteriore sviluppo dell’esercito, in vigore dal 1° lug. 2017 ([RU 2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)).
+[^chap5-sec2-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 70a
 
 **Scopo e organo responsabile**[^70a-1]
 
-<sup>1</sup> Il Sistema elettronico d’allarme (e-Alarm) serve a chiamare in servizio i membri di stati maggiori di crisi e i militari di formazioni con obblighi permanenti di prontezza.
+<sup>1</sup> Il Sistema elettronico di chiamata in servizio (e-chiamata) serve a chiamare in servizio i militari nonché i membri di stati maggiori di crisi.
 
-<sup>2</sup> L’Aggruppamento Difesa gestisce l’e-Alarm.
+<sup>2</sup> L’Aggruppamento Difesa gestisce l’e-chiamata.
 
-[^70a-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^70a-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 70b
 
 **Dati**[^70b-1]
 
-I dati contenuti nell’e-Alarm sono indicati nell’allegato 33*a*.
+I dati contenuti nell’e-chiamata sono indicati nell’allegato 33*a*.
 
-[^70b-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^70b-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 70c
 
-**Raccolta dei dati**
+**Raccolta dei dati**[^70c-1]
 
-Le persone responsabili dell’e-Alarm raccolgono i dati:[^70c-1]
+Gli organi e le persone responsabili dell’e-chiamata raccolgono i dati:
 
-- a. dei membri di stati maggiori di crisi: presso i collaboratori del DDPS interessati;
-- b. dei militari di formazioni con obblighi permanenti di prontezza: dal sistema PISA.
+- a. dei militari: dal sistema PISA;
+- b. dei membri di stati maggiori di crisi: presso i collaboratori del DDPS interessati.
 
-[^70c-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^70c-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 70d
 
@@ -1077,22 +1101,23 @@ Le persone responsabili dell’e-Alarm raccolgono i dati:[^70c-1]
 I dati dell’e-Alarm indicati nel seguito sono comunicati agli organi e alle persone seguenti:[^70d-1]
 
 - a. tutti i dati: alle autorità militari responsabili e ai comandi militari competenti;
-- b. i numeri di telefono e gli indirizzi e-mail necessari per la chiamata in servizio elettronica in caso di allarme: ai terzi incaricati della chiamata in servizio elettronica.
+- b.[^70d-2] i numeri di telefono e gli indirizzi e-mail necessari per la chiamata in servizio elettronica: ai terzi incaricati della chiamata in servizio elettronica.
 
 [^70d-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^70d-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 70e
 
-**Conservazione dei dati**
+**Conservazione dei dati**[^70e-1]
 
-I dati registrati nell’e-Alarm sono conservati al massimo sino:[^70e-1]
+I dati registrati nell’e-chiamata sono conservati al massimo sino:
 
-- a. all’uscita dei membri dal rispettivo stato maggiore di crisi;
-- b. al proscioglimento dei militari di formazioni con obblighi permanenti di prontezza dall’obbligo di prestare servizio militare o sino al loro cambiamento d’incorporazione.
+- a. al proscioglimento dei militari dall’obbligo di prestare servizio militare;
+- b. all’uscita dei membri di stati maggiori di crisi dal rispettivo stato maggiore di crisi.
 
-[^70e-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^70e-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-### Sezione 3:**** Sistema d’annuncio per la sicurezza aerea
+### Sezione 3: Sistema d’annuncio per la sicurezza aerea
 
 [^chap5-sec3-1]
 
@@ -1135,70 +1160,15 @@ Ha accesso ai dati dell’HARAM riferiti a persone esclusivamente la divisione S
 
 I dati riferiti a persone sono anonimizzati dieci anni dopo l’annuncio e conservati a tempo indeterminato.
 
-### Sezione 4:**** Sistema d’informazione e di condotta da Berna
+### Sezione 4: ...
 
-[^chap5-sec4-1]
+#### Art. 70l a 70p
 
-[^chap5-sec4-1]: Introdotta dall’all. n. 1 dell’O del 17 dic. 2014, in vigore dal 1° feb. 2015 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)).
+[^70l70p-1]
 
-#### Art. 70l
+[^70l70p-1]: Introdotti dall’all. n. 1 dell’O del 17 dic. 2014 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)). Abrogati dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-**Scopo e organo responsabile**
-
-<sup>1</sup>
-
-Il sistema FABIS serve alla condotta operativa dell’esercito come sistema d’informazione per la condotta in tutte le situazioni. In esso sono trattati dati per gli scopi seguenti:
-
-- a. identificazione e individuazione biometriche delle persone;
-- b. controllo, concessione, rifiuto e verbalizzazione dell’accesso al sistema FABIS.[^70l-1]
-
-<sup>2</sup> Il sistema FABIS è gestito dall’Aggruppamento Difesa.
-
-[^70l-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-
-#### Art. 70m
-
-**Dati**
-
-I dati contenuti nel sistema FABIS sono indicati nell’allegato 33*c*.
-
-#### Art. 70n
-
-**Raccolta dei dati**[^70n-1]
-
-I dati del sistema FABIS sono raccolti:
-
-- a. presso le persone autorizzate ad accedere al sistema FABIS;
-- b. presso i comandi militari;
-- c. presso le unità amministrative competenti della Confederazione;
-- d.[^70n-2] dal sistema AIS e dal sistema PEGASUS: i dati secondo l’allegato 33*c* numero 1;
-- e. dal sistema SIBAD: i dati secondo l’allegato 33*c* numero 2.
-
-[^70n-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-[^70n-2]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
-
-#### Art. 70o
-
-**Comunicazione dei dati**[^70o-1]
-
-I dati del sistema FABIS sono resi accessibili tramite un gruppo d’utenza chiuso:
-
-- a. ai collaboratori competenti per l’esercizio tecnico del sistema FABIS;
-- b. ai collaboratori competenti per l’amministrazione degli utenti del sistema FABIS, il rilascio delle autorizzazioni d’accesso e il controllo dell’accesso.
-
-[^70o-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-
-#### Art. 70p
-
-**Conservazione dei dati**[^70p-1]
-
-<sup>1</sup> I dati secondo l’allegato 33*c* numeri 1, 2, 4 e 6 sono distrutti un anno dopo il decadere dell’autorizzazione d’accesso della persona interessata.
-
-<sup>2</sup> I dati secondo l’allegato 33*c* numeri 3 e 5 sono distrutti un anno dopo il rilevamento.
-
-[^70p-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-
-### Sezione 5:**** Sistema MIL PLATTFORM
+### Sezione 5: Sistema MIL PLATTFORM
 
 [^chap5-sec5-1]
 
@@ -1232,10 +1202,10 @@ I dati del sistema MIL PLATTFORM sono raccolti:
 - a. presso le persone autorizzate ad accedere al sistema MIL PLATTFORM;
 - b. presso i comandi militari;
 - c. presso le unità amministrative competenti della Confederazione;
-- d.[^70s-1] dal sistema AIS e dal sistema PEGASUS: i dati secondo l’allegato 33*d* numero 1;
+- d.[^70s-1] dal sistema PEGASUS: i dati secondo l’allegato 33*d* numero 1;
 - e. dal sistema SIBAD: i dati secondo l’allegato 33*d* numero 2.
 
-[^70s-1]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+[^70s-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 70t
 
@@ -1256,7 +1226,7 @@ I dati del sistema MIL PLATTFORM sono resi accessibili tramite un gruppo d’ute
 
 ## Capitolo 6: Altri sistemi d’informazione
 
-### Sezione 1: Altri sistemi d’informazione secondo la LSIM****
+### Sezione 1: Altri sistemi d’informazione secondo la LSIM
 
 [^chap6-sec1-1]
 
@@ -1264,19 +1234,23 @@ I dati del sistema MIL PLATTFORM sono resi accessibili tramite un gruppo d’ute
 
 #### Art. 71
 
-**Sistema d’informazione per il Centro danni DDPS**
+**Sistema d’informazione Centro danni DDPS (SCHAMIS)**[^71-1]
 
 ### (art. 170 LSIM)
 
-I dati personali contenuti nel Sistema d’informazione per il Centro danni DDPS (SCHAWE) sono indicati nell’allegato 34.
+I dati contenuti nello SCHAMIS sono indicati nell’allegato 34.
+
+[^71-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 72
 
-**Sistema d’informazione strategico della logistica**
+**Sistema d’informazione Piattaforma di dati Difesa (SI PDD)**[^72-1]
 
 ### (art. 176 LSIM)
 
-I dati personali contenuti nel Sistema d’informazione strategico della logistica (SISLOG) sono indicati nell’allegato 35.
+I dati contenuti nel SI PDD sono indicati nell’allegato 35.
+
+[^72-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 72<sup>bis</sup>
 
@@ -1284,7 +1258,7 @@ I dati personali contenuti nel Sistema d’informazione strategico della logisti
 
 ### (art. 179*c* LSIM)
 
-<sup>1</sup> I dati personali contenuti nel sistema PSN sono indicati nell’allegato 35<sup>bis</sup>.
+<sup>1</sup> I dati contenuti nel sistema PSN sono indicati nell’allegato 35<sup>bis</sup>.
 
 <sup>2</sup> Il sistema PSN è volto anche allo scambio di dati tra i sistemi d’informazione militari e i sistemi d’informazione secondo l’articolo 32*a* LArm.
 
@@ -1301,13 +1275,23 @@ Le unità amministrative dell’Aggruppamento Difesa comunicano i dati del siste
 
 #### Art. 72<sup>te</sup><sup>r</sup>
 
-**Sistema d’informazione Amministrazione della federazione e delle società**[^72ter-1]
+**Sistema d’informazione per il tiro fuori del servizio**[^72ter-1]
 
 ### (art. 179*i* LSIM)
 
-I dati personali contenuti nel Sistema d’informazione Amministrazione della federazione e delle società (AFS) sono indicati nell’allegato 35<sup>ter</sup>.
+I dati contenuti nel sistema d’informazione per il tiro fuori del servizio (TFS) sono indicati nell’allegato 35<sup>ter</sup>.
 
-[^72ter-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^72ter-1]: Introdotto dal n. I dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+#### Art. 72<sup>quater</sup>
+
+**Sistema d’informazione Master Data Management**[^72quater-1]
+
+### (art. 179*o* LSIM)
+
+I dati contenuti nel sistema d’informazione Master Data Management (MDM) sono indicati nell’allegato 35<sup>quater</sup>.
+
+[^72quater-1]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ### Sezione 2: ...
 
@@ -1333,58 +1317,15 @@ I dati personali contenuti nel Sistema d’informazione Amministrazione della fe
 
 [^72g72g-1]: Introdotti dal n. I dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogati dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-### Sezione 4*a*:**** Sistema d’informazione concernente il personale della Farmacia dell’esercito
-
-[^chap6-sec4a-1]
-
-[^chap6-sec4a-1]: Introdotta dal n. I dell’O del 10 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)).
+### Sezione 4*a*: ...
 
 #### Art. 72g<sup>septies</sup>
 
-**Scopo e organo responsabile**
+**a**72***g*<sup>undecies</sup> [^72gsepties-1]**
 
-<sup>1</sup> Il Sistema d’informazione concernente il personale della Farmacia dell’esercito (PSA) serve al trattamento di dati relativi alla gestione del tempo e delle prestazioni del personale civile e militare della Farmacia dell’esercito nonché alla trasmissione di dati personali al PSN.
+[^72gsepties-1]: Introdotti dal n. I dell’O del 10 giu. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Abrogati dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-<sup>2</sup> L’Aggruppamento Difesa gestisce il PSA.
-
-#### Art. 72g<sup>octies</sup>
-
-**Dati**
-
-I dati personali contenuti nel PSA sono indicati nell’allegato 35*c*<sup>bis</sup>.
-
-#### Art. 72g
-
-**<sup>nonies</sup>Raccolta dei dati**
-
-I dati nel PSA sono raccolti:
-
-- a. presso i collaboratori della Farmacia dell’esercito interessati e i loro superiori;
-- b. dal SIGDP;
-- c. presso terzi.
-
-#### Art. 72g<sup>decies</sup>
-
-**Comunicazione dei dati**
-
-<sup>1</sup>
-
-L’Aggruppamento Difesa rende accessibili mediante procedura di richiamo i dati del PSA agli organi e alle persone seguenti:
-
-- a. ai collaboratori dell’Aggruppamento Difesa, per la consultazione e il trattamento dei propri dati;
-- b. agli organi del personale, per il trattamento dei dati dei collaboratori nel rispettivo ambito;
-- c. ai superiori, per la consultazione dei dati dei collaboratori subordinati nonché per il controllo e l’approvazione dei dati trattati da detti collaboratori.
-- [tab] <sup>2</sup> Ai fini dell’adempimento di compiti legali o contrattuali, l’Aggruppamento Difesa comunica:
-- a. tutti i dati personali contenuti nel PSA, a eccezione dei dati relativi alla gestione del tempo e delle prestazioni secondo l’allegato 35*c*<sup>bis</sup> numeri 2.2, 2.3 e 8.3: al PSN, in forma invariata, tramite un’interfaccia;
-- b. i dati relativi alla gestione del tempo secondo l’allegato 35*c*<sup>bis</sup> numeri 2.2 e 8.3: al SIGDP.
-
-#### Art. 72g<sup>undecies</sup>
-
-**Conservazione dei dati**
-
-I dati personali del PSA sono conservati per dieci anni al massimo dalla partenza di un collaboratore.
-
-### Sezione 5:**** Collezioni ausiliarie di dati
+### Sezione 5: Collezioni ausiliarie di dati
 
 [^chap6-sec5-1]
 
@@ -1394,7 +1335,7 @@ I dati personali del PSA sono conservati per dieci anni al massimo dalla partenz
 
 **Scopo e organo responsabile**
 
-Per la gestione di indirizzi, corsi di formazione e risorse le unità amministrative dell’Aggruppamento Difesa e i comandi militari possono trattare, in collezioni ausiliarie di dati necessarie al riguardo, dati personali che non sono degni di particolare protezione, sempre che il trattamento avvenga per scopi interni. Queste collezioni ausiliarie di dati servono all’organizzazione dei processi lavorativi nonché alla pianificazione e alla gestione di scuole, corsi e manifestazioni e non necessitano di basi specifiche.
+Per la gestione di indirizzi, corsi di formazione e risorse le unità amministrative dell’Aggruppamento Difesa e i comandi militari possono trattare, in collezioni ausiliarie di dati necessarie al riguardo, dati che non sono degni di particolare protezione, sempre che il trattamento avvenga per scopi interni. Queste collezioni ausiliarie di dati servono all’organizzazione dei processi lavorativi nonché alla pianificazione e alla gestione di scuole, corsi e manifestazioni e non necessitano di basi specifiche.
 
 #### Art. 72h<sup>bis</sup>
 
@@ -1424,61 +1365,15 @@ I dati delle collezioni ausiliarie di dati possono essere resi accessibili, medi
 
 I dati in collezioni ausiliarie di dati possono essere conservati per due anni al massimo a decorrere dalla conclusione della scuola, del corso o della manifestazione o dalla risoluzione del rapporto con il fornitore e del rapporto di lavoro.
 
-### Sezione 6:**** Sistema d’informazione Materiale storico dell’esercito
+### Sezione 6: ...
 
-[^chap6-sec6-1]
+#### Art. 72i a 72i
 
-[^chap6-sec6-1]: Introdotta dal n. I dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+**<sup>quinquies</sup> [^72i72i-1]**
 
-#### Art. 72i
+[^72i72i-1]: Introdotti dal n. I dell’O del 26 giu. ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogati dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-**Scopo e organo responsabile**
-
-<sup>1</sup>
-
-Il Sistema d’informazione Materiale storico dell’esercito (ISHAM) serve ad amministrare il materiale storico dell’Esercito svizzero definito come bene culturale. Serve all’adempimento dei compiti seguenti:
-
-- a. registrazione del materiale storico dell’Esercito svizzero;
-- b. registrazione di musei, collezionisti e associazioni per la tutela delle tradizioni qualificati;
-- c. controllo della consegna di materiale storico dell’Esercito svizzero a musei, collezionisti e associazioni per la tutela delle tradizioni qualificati;
-- d. controllo regolare delle condizioni di consegna fino alla restituzione del materiale storico dell’Esercito svizzero;
-- e. controllo della presa in consegna di materiale storico dell’Esercito svizzero da parte dell’Ufficio centrale per il materiale storico dell’Esercito svizzero (UCMSE) da musei, collezionisti e associazioni per la tutela delle tradizioni qualificati, fino alla restituzione di detto materiale.
-
-<sup>2</sup> L’Aggruppamento Difesa[^72i-1] gestisce l’ISHAM.
-
-[^72i-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
-
-#### Art. 72i<sup>bis</sup>
-
-**Dati**
-
-I dati contenuti nell’ISHAM sono indicati nell’allegato 35*e*.
-
-#### Art. 72i<sup>ter</sup>
-
-**Raccolta dei dati**[^72iter-1]
-
-L’Aggruppamento Difesa raccoglie i dati personali per l’ISHAM presso i musei, i collezionisti e le associazioni per la tutela delle tradizioni qualificati. Raccoglie i dati relativi al materiale presso la Base logistica dell’esercito (BLEs) e l’Ufficio federale dell’armamento (armasuisse).
-
-[^72iter-1]: Nuovo testo giusta il n. I dell’O del 10 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)).
-
-#### Art. 72i<sup>quater</sup>
-
-**Comunicazione dei dati**
-
-<sup>1</sup> I dati dell’ISHAM sono accessibili esclusivamente ai collaboratori dell’UCMSE.
-
-<sup>2</sup> L’Aggruppamento Difesa comunica i dati dell’ISHAM alle autorità inquirenti penali e alle autorità di perseguimento penale, se ciò è necessario per le indagini.
-
-<sup>3</sup> Esso comunica ad armasuisse i dati di musei, collezionisti e associazioni per la tutela delle tradizioni qualificati previo loro consenso.
-
-#### Art. 72i<sup>quinquies</sup>
-
-**Conservazione dei dati**
-
-I dati riferiti a persone sono conservati per due anni al massimo a decorrere dalla restituzione del materiale storico all’UCMSE.
-
-### Sezione 7:**** Sistema d’informazione concernente il personale delle unità amministrative del DDPS esterne all’Aggruppamento Difesa
+### Sezione 7: Sistema d’informazione concernente il personale delle unità amministrative del DDPS esterne all’Aggruppamento Difesa
 
 [^chap6-sec7-1]
 
@@ -1500,7 +1395,7 @@ Il PSB serve al trattamento di dati relativi alla gestione del tempo e delle pre
 
 **Dati**
 
-I dati personali contenuti nel PSB sono indicati nell’allegato 35*f*.
+I dati contenuti nel PSB sono indicati nell’allegato 35*f*.
 
 #### Art. 72j<sup>quater</sup>
 
@@ -1524,14 +1419,113 @@ Le unità amministrative del DDPS esterne all’Aggruppamento Difesa rendono acc
 - b. agli organi del personale, per il trattamento dei dati dei collaboratori nel rispettivo ambito;
 - c. ai superiori, per la consultazione dei dati dei collaboratori subordinati nonché per il controllo e l’approvazione dei dati trattati da detti collaboratori;
 - d. in caso di trasferimenti del personale all’interno del DDPS, ai nuovi organi del personale e ai nuovi superiori competenti secondo le lettere b e c.
+- [tab] <sup>2</sup> Esse comunicano i dati del PSB:
+- a. al SIGDP;
+- b. al sistema IAM secondo l’articolo 5 capoverso 1 lettera c OIAM[^72jquinquies-1].[^72jquinquies-2]
 
-<sup>2</sup> Esse comunicano i dati del PSB al SIGDP.
+[^72jquinquies-1]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^72jquinquies-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 72j<sup>sexies</sup>
 
 **Conservazione dei dati**
 
-I dati personali dei collaboratori sono conservati per una durata massima di dieci anni a decorrere dalla cessazione del rapporto di lavoro con un’unità amministrativa del DDPS esterna all’Aggruppamento Difesa.
+I dati dei collaboratori sono conservati per una durata massima di dieci anni a decorrere dalla cessazione del rapporto di lavoro con un’unità amministrativa del DDPS esterna all’Aggruppamento Difesa.
+
+### Sezione 8: Sistema d’informazione Pianificazione e appoggio alle attività di volo
+
+[^chap6-sec8-1]
+
+[^chap6-sec8-1]: Introdotta dal n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+#### Art. 72k
+
+**Scopo e organo responsabile**
+
+<sup>1</sup>
+
+Il Sistema d’informazione Pianificazione e appoggio alle attività di volo (PAV) serve per voli delle Forze aeree:
+
+- a. alla pianificazione dei voli nonché alle attività prima del volo e dopo il volo;
+- b.
+
+  al sostegno del personale di volo e di terzi per:
+
+  - 1\. l’esecuzione dei voli,
+  - 2\. la fornitura di prestazioni a favore dei voli e delle persone a bordo o che partecipano alle operazioni di volo;
+
+- c. allo svolgimento di compiti negli ambiti del traffico aereo e della sicurezza di volo;
+- d. alla verbalizzazione dei voli;
+- e. alla liquidazione di pretese di indennizzo e di diritti derivanti da assicurazioni.
+
+<sup>2</sup> L’Aggruppamento Difesa gestisce il PAV.
+
+#### Art. 72k<sup>bis</sup>
+
+**Dati**
+
+I dati contenuti nel PAV relativi a piloti militari e civili, ad altri membri del personale di volo, a passeggeri, a esploratori paracadutisti nonché a terzi che forniscono prestazioni in relazione a un volo o a favore delle persone a bordo o che partecipano alle operazioni di volo sono indicati nell’allegato 35*g*.
+
+#### Art. 72k<sup>ter</sup>
+
+**Raccolta dei dati**
+
+L’Aggruppamento Difesa raccoglie i dati per il PAV:
+
+- a. presso la persona interessata o il suo rappresentante legale;
+- b. presso le persone di referenza indicate dalla persona interessata;
+- c.
+
+  presso gli organi militari e civili nonché le persone interne ed esterne all’amministrazione che:
+
+  - 1\. sono competenti per la pianificazione dei voli, le attività prima del volo e dopo il volo nonché l’esecuzione dei voli delle Forze aeree,
+  - 2\. svolgono compiti negli ambiti del traffico aereo o della sicurezza di volo; o
+  - 3\. sono competenti per la liquidazione di pretese di indennizzo e di diritti derivanti da assicurazioni;
+
+- d. dal FIS FA;
+- e. dall’HARAM;
+- f. da banche dati, sistemi d’informazione e piattaforme elettroniche di terzi impiegati per la pianificazione dei voli, l’appoggio alle attività di volo, il traffico aereo e la sicurezza di volo.
+
+#### Art. 72k<sup>quater</sup>
+
+**Comunicazione dei dati**
+
+<sup>1</sup>
+
+L’Aggruppamento Difesa rende accessibili i dati del PAV agli organi e alle persone seguenti, qualora questi ne abbiano bisogno per l’adempimento dei loro compiti:
+
+- a. ai piloti militari e civili nonché a tutti gli altri membri del personale di volo che effettuano un volo delle Forze aeree;
+- b. agli esploratori paracadutisti presenti a bordo di un volo delle Forze aeree;
+- c.
+
+  agli altri organi militari e civili nonché alle persone interne ed esterne all’amministrazione che:
+
+  - 1\. sono competenti per la pianificazione dei voli, le attività prima del volo e dopo il volo nonché l’esecuzione dei voli delle Forze aeree,
+  - 2\. svolgono compiti negli ambiti del traffico aereo o della sicurezza di volo per voli delle Forze aeree,
+  - 3\. forniscono altre prestazioni legate a un volo delle Forze aeree o a favore delle persone a bordo o che partecipano alle operazioni di un volo delle Forze aeree, o
+  - 4\. sono competenti per la liquidazione di pretese di indennizzo e di diritti derivanti da assicurazioni;
+
+- d. a terzi che gestiscono banche dati, sistemi d’informazione e piattaforme elettroniche che sono impiegati per la pianificazione dei voli, l’appoggio alle attività di volo, il traffico aereo e la sicurezza di volo.
+
+<sup>2</sup>
+
+Attingendo al PAV, ogni anno comunica ai dipartimenti e alla Cancelleria federale riguardo ai voli che sono svolti per questi ultimi in base all’ordinanza del 24 giugno 2009[^72kquater-1] sul Servizio di trasporto aereo della Confederazione:
+
+- a. la data e il luogo dell’atterraggio;
+- b. il modello di aereo impiegato;
+- c. i nomi e i cognomi dei passeggeri che non fanno parte del personale di volo.
+
+[^72kquater-1]: [RS 172.010.331](https://fedlex.data.admin.ch/eli/cc/2009/420)
+
+#### Art. 72k<sup>quinquies</sup>
+
+**Conservazione dei dati**
+
+<sup>1</sup> I dati non relativi al volo del PAV delle persone in servizio di volo e delle persone soggette all’obbligo di prestare servizio militare sono conservati fino a cinque anni a decorrere dal loro proscioglimento dal servizio di volo o dall’obbligo di prestare servizio militare.
+
+<sup>2</sup> I dati delle persone in servizio di volo e delle persone soggette all’obbligo di prestare servizio militare in relazione alla liquidazione di pretese di indennizzo e di diritti derivanti da assicurazioni sono conservati fino a dieci anni a decorrere dal proscioglimento dal servizio di volo o dall’obbligo di prestare servizio militare.
+
+<sup>3</sup> Gli altri dati del PAV sono conservati per due anni dopo l’esecuzione del volo.
 
 ## Capitolo 7: ...
 
@@ -1589,13 +1583,9 @@ La modifica del diritto vigente è disciplinata nell’allegato 36.
 
 #### Art. 77a
 
-**Disposizione transitoria della modifica del 25 gennaio 2017**[^77a-1]
+[^77a-1]
 
-<sup>1</sup> Lo Stato maggiore di condotta dell’esercito informa i militari destinati a essere incorporati in formazioni con obblighi permanenti di prontezza dal 1° gennaio 2018 e i comandanti competenti non appena tale incorporazione è nota.
-
-<sup>2</sup> I militari interessati comunicano al comandante competente i loro numeri di telefono, i loro indirizzi e-mail e il loro indirizzo di domicilio nonché spontaneamente, entro 14 giorni, i cambiamenti di tali dati.
-
-[^77a-1]: Introdotto dall’all. n. 1 dell’O del 17 dic. 2014 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)). Nuovo testo giusta il n. I 1 dell’O del 25 gen. 2017 sull’obbligo di prestare servizio militare nel quadro della transizione all’ulteriore sviluppo dell’esercito, in vigore dal 1° lug. 2017 ([RU 2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)).
+[^77a-1]: Introdotto dall’all. n. 1 dell’O del 17 dic. 2014 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)). Abrogato dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 78
 
@@ -1605,23 +1595,27 @@ La modifica del diritto vigente è disciplinata nell’allegato 36.
 
 <sup>2</sup> L’articolo 53 capoverso 1 lettera b ha effetto sino al 30 giugno 2011 al più tardi.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-2]
 
 (art. 2*a*)
 
-## Detentori delle collezioni di dati e organi responsabili della protezione dei dati per i sistemi d’informazione dell’Aggruppamento Difesa
+## Organi responsabili della protezione dei dati per i sistemi d’informazione dell’Aggruppamento Difesa
 
-[^t-1]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. II cpv. 2 dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nuovo testo giusta il n. III cpv. 2 dell’O 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 <table>
-<tr><th colspan="2">[tab] Sistema d’informazione</th><th>[tab]</th><th>[tab] Disposizioni LSIM/OSIM</th><th>[tab] Detentore della collezione di dati/ organo responsabile della protezione dei dati</th></tr>
+<tr><th colspan="2">Sistema d’informazione</th><th></th><th>Disposizioni LSIM/OSIM</th><th>Organo responsabile della protezione dei dati</th></tr>
 <tr><td>PISA</td><td colspan="2">Sistema di gestione del personale dell’esercito e della protezione civile</td><td>Art. 12–17 LSIM, art. 3–5 OSIM, allegato 1*a* OSIM</td><td>Comando Istruzione (Cdo Istr)</td></tr>
-<tr><td>ITR</td><td colspan="2">Sistema d’informazione per il reclutamento</td><td>Art. 18–23 LSIM, art. 8 OSIM, allegato 3 OSIM</td><td>Cdo Istr</td></tr>
-<tr><td>EAAD</td><td colspan="2">Sistema d’informazione per le valutazioni relative al distaccamento d’esplorazione dell’esercito</td><td>Art. 48–53 LSIM, art. 11 OSIM, allegato 6 OSIM</td><td>Comando Operazioni (Cdo Op)</td></tr>
-<tr><td>IPV</td><td colspan="2">Sistema d’informazione Personale Difesa</td><td>Art. 60–65 LSIM, art. 13 OSIM, allegato 8 OSIM</td><td>Stato maggiore dell’esercito (SM Es)</td></tr>
+<tr><td>GDS</td><td colspan="2">Sistema d’informazione Gestione dei servizi</td><td>Art. 17*a*–17*f* LSIM, art. 5*a* OSIM, allegato 1*b* OSIM</td><td>Stato maggiore dell’esercito (SM Es)</td></tr>
+<tr><td>MEDISA</td><td colspan="2">Sistema d’informazione medica dell’esercito</td><td>Art. 24–29 LSIM, art. 6–7 OSIM, allegato 2 OSIM</td><td>Base logistica dell’esercito (BLEs)</td></tr>
+<tr><td>ISPE</td><td colspan="2">Sistemi d’informazione per la registrazione dei pazienti</td><td>Art. 30–35 LSIM, art. 9 OSIM, allegato 4 OSIM</td><td>BLEs</td></tr>
+<tr><td>MEDIS FA</td><td colspan="2">Sistema d’informazione di medicina aeronautica</td><td>Art. 42–47 LSIM, art. 10*a* OSIM, allegato 5*a* OSIM</td><td>Comando Operazioni (Cdo Op), Istituto di medicina aeronautica</td></tr>
+<tr><td>SIPI CFS</td><td colspan="2">Sistema d’informazione Personale d’impiego del comando forze speciali</td><td>Art. 48–53 LSIM, art. 11 OSIM, allegato 6 OSIM</td><td>Cdo Op</td></tr>
+<tr><td>ISB</td><td colspan="2">Sistema d’informazione per la consulenza sociale</td><td>Art. 54–59 LSIM, art. 12 OSIM, allegato 7 OSIM</td><td>Cdo Istr</td></tr>
+<tr><td>IPV</td><td colspan="2">Sistema d’informazione Personale Difesa</td><td>Art. 60–65 LSIM, art. 13 OSIM, allegato 8 OSIM</td><td>SM Es</td></tr>
 <tr><td>PERAUS</td><td colspan="2">Sistema d’informazione per la gestione del personale per impieghi all’estero</td><td>Art. 66–71 LSIM, art. 14 OSIM, allegato 9 OSIM</td><td>Cdo Op</td></tr>
-<tr><td>OpenRID</td><td colspan="2">Sistema d’informazione Contatti all’estero</td><td>Art. 15–19 OSIM, allegato 10 OSIM</td><td>Cdo Istr</td></tr>
-<tr><td>IHMR</td><td colspan="2">Sistema d’informazione Sminamento a scopo umanitario</td><td>Art. 20–24 OSIM, allegato 11 OSIM</td><td>SM Es</td></tr>
+<tr><td>SII-SSC</td><td colspan="2">Sistema d’informazione e d’impiego del Servizio sanitario coordinato</td><td>Art. 72–77 LSIM, art. 35 OSIM, allegato 14 OSIM</td><td>BLEs</td></tr>
+<tr><td>OpenRID</td><td colspan="2">Sistema d’informazione Contatti all’estero</td><td>Art. 15–19 OSIM, allegato 10 OSIM</td><td>SM Es</td></tr>
 <tr><td>IVE</td><td colspan="2">Sistema d’informazione Impieghi di verifica</td><td>Art. 25–29 OSIM, allegato 12 OSIM</td><td>SM Es</td></tr>
 <tr><td>IPont</td><td colspan="2">Sistema d’informazione Pontonieri</td><td>Art. 30–34 OSIM, allegato 13 OSIM</td><td>Cdo Istr</td></tr>
 <tr><td>HYDRA</td><td colspan="2">Sistema d’informazione Amministrazione degli impieghi all’estero</td><td>Art. 34*a*–34*f* OSIM, allegato 13*a* OSIM</td><td>Cdo Op</td></tr>
@@ -1629,331 +1623,792 @@ Allegato 1*[^t-1]*
 <tr><td>FIS FT</td><td colspan="2">Sistema d’informazione e di condotta delle Forze terrestri</td><td>Art. 102–107 LSIM, art. 40 OSIM, allegato 19 OSIM</td><td>Cdo Op</td></tr>
 <tr><td>FIS FA</td><td colspan="2">Sistema d’informazione e di condotta delle Forze aeree</td><td>Art. 108–113 LSIM, art. 41 OSIM, allegato 20 OSIM</td><td>Cdo Op</td></tr>
 <tr><td>IMESS</td><td colspan="2">Sistema d’informazione per la condotta dei militari</td><td>Art. 114–119 LSIM, art. 42 OSIM, allegato 21 OSIM</td><td>Cdo Op</td></tr>
-<tr><td>AIS</td><td colspan="2">Sistema d’informazione Mandati</td><td>Art. 48–52 OSIM, allegato 23 OSIM</td><td>Base d’aiuto alla condotta dell’esercito (BAC)</td></tr>
-<tr><td>PEGASUS</td><td colspan="2">Sistema di automazione e di aiuto alla gestione guidato dai processi e dagli eventi</td><td>Art. 52*a*–52*e* OSIM, allegato 23*a* OSIM</td><td>BAC</td></tr>
-<tr><td>SD-PKI</td><td colspan="2">Sistema d’informazione Swiss Defence Public Key Infrastructure</td><td>Art. 53–57 OSIM, allegato 24 OSIM</td><td>BAC</td></tr>
+<tr><td>PEGASUS</td><td colspan="2">Sistema di automazione e di aiuto alla gestione guidato dai processi e dagli eventi</td><td>Art. 52*a*–52*e* OSIM, allegato 23*a* OSIM</td><td>SM Es</td></tr>
+<tr><td>ComMil</td><td colspan="2">Sistema d’informazione Comunicazione militare</td><td>Art. 52*f*–52*j* OSIM, allegato 23*b* OSIM</td><td>Cdo Op</td></tr>
 <tr><td>MDS</td><td colspan="2">Sistema militare di dosimetria</td><td>Art. 57*a*–57*e* OSIM, allegato 24*a* OSIM</td><td>Cdo Istr</td></tr>
-<tr><td>–</td><td colspan="2">Sistemi di geolocalizzazione</td><td>Art. 57*f* OSIM</td><td>BAC</td></tr>
+<tr><td>–</td><td colspan="2">Sistemi di geolocalizzazione</td><td>Art. 57*f* OSIM</td><td>SM Es, Cdo Op, Cdo Istr, BLEs e BAC per i rispettivi sistemi di geolocalizzazione che impiegano per adempiere i loro compiti</td></tr>
 <tr><td>–</td><td colspan="2">Sistemi d’informazione per i simulatori</td><td>Art. 120–125 LSIM, art. 58 OSIM, allegato 25 OSIM</td><td>Cdo Istr</td></tr>
-<tr><td>LMS DDPS</td><td colspan="2">Sistema d’informazione per la gestione della formazione («Learning Management System DDPS»)</td><td>Art. 126–131 LSIM, art. 59 OSIM, allegato 26 OSIM</td><td>Cdo Istr</td></tr>
-<tr><td>ISGMP</td><td colspan="2">Sistema d’informazione per i certificati di formazione in materia di buona prassi di fabbricazione</td><td>Art. 132–137 LSIM, art. 60 OSIM, allegato 27 OSIM</td><td>SM Es</td></tr>
-<tr><td>MIFA</td><td colspan="2">Sistema d’informazione per le autorizzazioni a condurre militari</td><td>Art. 138–143 LSIM, art. 61 OSIM, allegato 28 OSIM</td><td>BLEs</td></tr>
-<tr><td>SPHAIR Expert</td><td colspan="2">Sistema d’informazione per la formazione e il perfezionamento aeronautici</td><td>Art. 143*a*–143*f* LSIM, art. 61*a* OSIM, allegato 28*a* OSIM</td><td>Cdo Op</td></tr>
-<tr><td>ISFA</td><td colspan="2">Sistema d’informazione Formazione alla condotta</td><td>Art. 62–66 OSIM, allegato 29 OSIM</td><td>Cdo Istr</td></tr>
-<tr><td>ZUKO</td><td colspan="2">Sistema d’informazione per i controlli dell’accesso</td><td>Art. 162–167 LSIM, art. 70 OSIM, allegato 33 OSIM</td><td>BAC</td></tr>
-<tr><td>JORASYS</td><td colspan="2">Sistema di allestimento di giornali e di rapporti per la Sicurezza militare</td><td>Art. 167*a*–167*f* LSIM, art. 70<sup>bis</sup> OSIM, allegato 33<sup>bis</sup> OSIM</td><td>Cdo Op</td></tr>
-<tr><td>e-Alarm</td><td colspan="2">Sistema elettronico d’allarme</td><td>Art. 70*a*–70*e* OSIM, allegato 33*a* OSIM</td><td>Cdo Op</td></tr>
+<tr><td>LMS DDPS</td><td colspan="2">Sistema d’informazione per la gestione dell’istruzione («Learning Management System DDPS»)</td><td>Art. 126–131 LSIM, art. 59 OSIM, allegato 26 OSIM</td><td>Cdo Istr</td></tr>
+<tr><td>ISGMP</td><td colspan="2">Sistema d’informazione per i certificati di formazione in materia di buona prassi di fabbricazione</td><td>Art. 132–137 LSIM, art. 60 OSIM, allegato 27 OSIM</td><td>BLEs</td></tr>
+<tr><td>SI CSNE</td><td colspan="2">Sistema d’informazione Circolazione stradale e navigazione dell’esercito</td><td>Art. 138–143 LSIM, art. 61 OSIM, allegato 28 OSIM</td><td>BLEs</td></tr>
+<tr><td>SPHAIR-Expert</td><td colspan="2">Sistema d’informazione per la formazione e il perfezionamento aeronautici</td><td>Art. 143*a*–143*f* LSIM, art. 61*a* OSIM, allegato 28*a* OSIM</td><td>Cdo Op</td></tr>
+<tr><td>SIFC</td><td colspan="2">Sistema d’informazione Formazione alla condotta</td><td>Art. 143*g*–143*l* LSIM, art. 61*b* OSIM, allegato 29 OSIM</td><td>Cdo Istr</td></tr>
+<tr><td>ZUKO</td><td colspan="2">Sistema d’informazione per i controlli dell’accesso</td><td>Art. 162–167 LSIM, art. 70 OSIM, allegato 33 OSIM</td><td>SM Es</td></tr>
+<tr><td>JORASYS</td><td colspan="2">Sistema di allestimento di giornali e rapporti per la polizia militare</td><td>Art. 167*a*–167*f* LSIM, art. 70<sup>bis</sup> OSIM, allegato 33<sup>bis</sup> OSIM</td><td>Cdo Op</td></tr>
+<tr><td>IPSA</td><td colspan="2">Sistema d’informazione Protezione preventiva dell’esercito</td><td>art. 167*g*–167*l* LSIM, Art. 70<sup>ter</sup> OSIM, allegato 33<sup>ter</sup> OSIM</td><td>Cdo Op</td></tr>
+<tr><td>e-chiamata</td><td colspan="2">Sistema elettronico di chiamata in servizio</td><td>Art. 70*a*–70*e* OSIM, allegato 33*a* OSIM</td><td>Cdo Op</td></tr>
 <tr><td>HARAM</td><td colspan="2">Sistema elettronico d’annuncio per la sicurezza aerea «Hazard and Risk Analysis Management»</td><td>Art. 70*f*–70*k* OSIM, allegato 33*b* OSIM</td><td>Cdo Op</td></tr>
-<tr><td>FABIS</td><td colspan="2">Sistema d’informazione e di condotta da Berna</td><td>Art. 70*l*–70*p* OSIM, allegato 33*c* OSIM</td><td>Cdo Op</td></tr>
-<tr><td>MIL PLATTFORM</td><td colspan="2">Sistema d’informazione «Piattaforma militare»</td><td>Art. 70*q*–70*u* OSIM, allegato 33*d* OSIM</td><td>Cdo Op</td></tr>
-<tr><td>SISLOG</td><td colspan="2">Sistema d’informazione strategico della logistica</td><td>Art. 174–179 LSIM, art. 72 OSIM, allegato 35 OSIM</td><td>BLEs</td></tr>
+<tr><td>MIL PLATT-FORM</td><td colspan="2">Sistema d’informazione «Piattaforma militare»</td><td>Art. 70*q*–70*u* OSIM, allegato 33*d* OSIM</td><td>Cdo Op</td></tr>
+<tr><td>SI PDD</td><td colspan="2">Sistema d’informazione Piattaforma di dati Difesa</td><td>Art. 174–179 LSIM, art. 72 OSIM, allegato 35 OSIM</td><td>BLEs</td></tr>
 <tr><td>PSN</td><td colspan="2">Sistema d’informazione per la gestione integrata delle risorse</td><td>Art. 179*a*–179*f* LSIM, art. 72<sup>bis</sup> OSIM, allegato 35<sup>bis</sup> OSIM</td><td>SM Es</td></tr>
-<tr><td>AFS</td><td colspan="2">Sistema d’informazione Amministrazione della federazione e delle società</td><td>Art. 179*g*–179*l* LSIM, art. 72<sup>ter</sup> OSIM, allegato 35<sup>ter</sup> OSIM</td><td>Cdo Istr</td></tr>
-<tr><td>PSA</td><td colspan="2">Sistema d’informazione concernente il personale della Farmacia dell’esercito</td><td>Art. 72*g*<sup>septies</sup>–72*g*<sup>undecies</sup> OSIM, allegato 35*c*<sup>bis</sup> OSIM</td><td>SM Es</td></tr>
-<tr><td>ISHAM</td><td colspan="2">Sistema d’informazione Materiale storico dell’esercito</td><td>Art. 72*i*–72*i*<sup>quinquies</sup> OSIM, allegato 35*e* OSIM</td><td>SM Es</td></tr>
+<tr><td>TFS</td><td colspan="2">Sistema d’informazione per il tiro fuori del servizio</td><td>Art. 179*g*–179*l* LSIM, art. 72<sup>ter</sup> OSIM, allegato 35<sup>ter</sup> OSIM</td><td>Cdo Istr</td></tr>
+<tr><td>PAV</td><td colspan="2">Sistema d’informazione Pianificazione e appoggio alle attività di volo</td><td>Art. 72*k*–72*k*<sup>quinquies</sup> OSIM, allegato 35*g* OSIM</td><td>Cdo Op</td></tr>
 </table>
 
-Allegato 1a*[^t-2]*
+Allegato 1a[^t-3]
 
 (art. 4 cpv. 1, 2 e 4)
 
 ## Dati del PISA
 
-[^t-2]: Originario all. 1. Aggiornato dai n. II cpv. 1 delle O del 6 lug. 2011 ([RU 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)), del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467))’ dal n. 1 dell’all. all’O del 17 dic. 2014 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)), dal n. II cpv. 3 dell’O del 10 giu. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)), dal n. I dell’O del 16 nov. 2016 ([RU 2016 4333](https://fedlex.data.admin.ch/eli/oc/2016/717)), dal n. I 1 dell’O del 25 gen. 2017 sull’obbligo di prestare servizio militare nel quadro della transizione all’ulteriore sviluppo dell’esercito ([RU 2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)), dal n. II cpv. 1 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)) e dal n. II cpv. 2 dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+[^t-3]: Originario all. 1. Nuovo testo giusta il n. III cpv. 2 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-### 1. Dati delle persone soggette all’obbligo di leva, delle persone soggette all’obbligo di prestare servizio militare e di civili assistiti dalla truppa o impiegati per un intervento a tempo determinato nell’esercito
+### 1 Dati delle persone soggette all’obbligo di leva, delle persone soggette all’obbligo di prestare servizio militare e di civili assistiti dalla truppa o impiegati per un intervento a tempo determinato nell’esercito
 
-1.1 Dati personali
+### 1.1 Dati personali
 
-- 1\. Numero AVS
-- 2\. Cognome
-- 3\. Nome
-- 4\. Data di nascita (con l’indicazione dell’età attuale)
-- 5\. Sesso
-- 6\. Professione esercitata
-- 7\. Indirizzo di residenza
-- 8\. Comune di domicilio
-- 9\. Comune(i) d’origine
-- 10\. Cantone(i) d’origine
-- 11\. Lingua materna
-- 12\. Data delle modifiche dei dati personali
-- 13\. Naturalizzazione dopo il compimento del ventesimo anno d’età, con l’indicazione della data
-- 13a. Luogo e Paese di nascita
-- [tab] 13b. Statura
-- [tab] 13c. Colore degli occhi e dei capelli
-- [tab] 13d. Fotografia formato passaporto
-- 13e. Numeri di telefono e di telefax
-- 13f. Indirizzo e-mail
-- 13g. Recapito postale
+- 1\.1.1 Numero AVS
+- 1\.1.2 Cognome(i)
+- 1\.1.3 Nome(i)
+- 1\.1.4 Data di nascita (con l’indicazione dell’età attuale)
+- 1\.1.5 Sesso
+- 1\.1.6 Professione esercitata
+- 1\.1.7 Indirizzo di domicilio
+- 1\.1.8 Comune di domicilio
+- 1\.1.9 Comune(i) d’origine
+- 1\.1.10 Cantone(i) d’origine
+- 1\.1.11 Lingua materna
+- 1\.1.12 Data delle modifiche dei dati personali
+- 1\.1.13 Naturalizzazione dopo il compimento del ventesimo anno d’età, con l’indicazione della data
+- 1\.1.14 Fotografia formato passaporto
+- 1\.1.15 Numeri di telefono e di telefax
+- 1\.1.16 Indirizzo e-mail
+- 1\.1.17 Recapito postale
+- 1\.1.18 Identità elettronica (e-ID)
+- 1\.1.19 Statuto di Svizzero all’estero
 
-1.2 Dati di controllo
+### 1.2 Dati di controllo
 
-- 14\. Data della notificazione d’arrivo e di partenza all’autorità militare cantonale competente
-- 15\. Ricerca del luogo di dimora
-- 16\. Comune(i) di domicilio precedente(i)
-- 17\. Congedo per l’estero
-- 18\. Segnalazione nel RIPOL in caso di ignota dimora
-- 19\. Statuto di frontaliere
-- 20\. Dichiarazione di «disperso»
+- 1\.2.1 Data della notificazione d’arrivo e di partenza all’autorità militare cantonale competente
+- 1\.2.2 Ricerca del luogo di dimora
+- 1\.2.3 Comune(i) di domicilio precedente(i)
+- 1\.2.4 Congedo per l’estero
+- 1\.2.5 Segnalazione nel sistema di ricerca informatizzato di polizia (RIPOL) in caso di ignota dimora
+- 1\.2.6 Statuto di frontaliere
+- 1\.2.7 Dichiarazione di «disperso»
 
-1.3 Dati relativi al reclutamento
+### 1.3 Dati relativi al reclutamento
 
-- 21\. Dati per la stesura dell’ordine di marcia per la giornata informativa e per il reclutamento
-- 22\. Data desiderata per il reclutamento
-- 23\. Data del reclutamento
-- 24\. Cantone di reclutamento
-- 25\. Idoneità, con data e indicazione sull’idoneità alla marcia, a portare e a sollevare pesi
-- 25a. Restrizioni in materia di consegna dell’arma per motivi medici (contrassegno «R»)
-- 26\. Esame della vista superato
-- 27\. Valutazione e raccomandazione per una funzione di quadro di livello I
-- 28\. Arma, servizio ausiliario o servizio nonché funzione
-- 29\. Organo incaricato dell’amministrazione
-- 30\. Data della scuola reclute e attribuzione a una scuola reclute
-- 31\. Informazioni concernenti l’assolvimento della giornata informativa
-- 32\. Numero dei giorni di reclutamento prestati
-- 33\. Idoneità al servizio di protezione civile, con data e indicazione della funzione di base nella protezione civile
+- 1\.3.1 Dati per la stesura dell’ordine di marcia per la giornata informativa e per il reclutamento
+- 1\.3.2 Informazioni concernenti l’assolvimento della giornata informativa
+- 1\.3.3 Data desiderata per il reclutamento
+- 1\.3.4
 
-1.4 Incorporazione, grado, funzione e istruzione
+  Dati organizzativi quali:
 
-- 34\. Appartenenza a un’Arma, a un servizio o a un servizio ausiliario nonché allo stato maggiore generale o al Servizio della Croce Rossa, con la data
-- 35\. Formazione d’incorporazione con la data dell’incorporazione
-- 36\. Dati sulla formazione, articolazione con la designazione, testi e numeri, funzioni, gradi, effettivi regolamentari
-- 37\. Dati sull’unità con i codici linguistici, indicazione dell’organo incaricato della tenuta dei controlli, del numero militare di avviamento nonché dei Cantoni competenti per i compiti speciali
-- 38\. Sezione d’incorporazione in seno alla formazione
-- 39\. Grado o funzione d’ufficiale con la data della promozione o della nomina
-- 40\. Dati relativi ai posti, per i sottufficiali superiori e gli ufficiali
-- 41\. Esercizio di una funzione in sostituzione, conferimento di un comando o di una funzione ad interim
-- 42\. Funzione con la data dell’assunzione
-- 43\. Nuova incorporazione e trasferimento, con la data
-- 44\. Istruzione militare speciale
-- 45\. Equipaggiamento speciale, con l’indicazione dell’eventuale numero degli oggetti
-- 46\. Deposito o ritiro dell’equipaggiamento (munizione da tasca compresa), con l’indicazione della data
-- 46a. Consegna, deposito, ritiro ordinario, cautelare e definitivo dell’arma personale nonché cessione in proprietà
-- 46b. Consegna, ritiro ordinario, cautelare e definitivo dell’arma in prestito
-- 46c. Accertamenti e circostanze in relazione con la consegna, il deposito, il ritiro cautelare e il ritiro definitivo dell’arma personale o dell’arma in prestito
-- 46d. Comunicazioni dell’Ufficio centrale Armi secondo l’articolo 32*c* capoverso 4 LArm
-- 47\. Certificati militari d’idoneità o di capacità, con l’anno dell’ottenimento o del rinnovo
-- 48\. Primo conferimento di una distinzione
-- 49\. Valutazione e raccomandazione per una funzione di quadro di livello II–IV e Z
-- 50\. Esame attitudinale e controllo di sicurezza relativo alle persone con decisione, tipo e data dell’esame/del controllo
-- 50a. Esame dell’integrità con raccomandazione (adempiuto/non adempiuto) e data dell’esame dei militari per la funzione di contabile della truppa
-- 51\. Dati destinati all’allestimento della licenza di condurre militare nonché esclusione dall’ottenimento o dal possesso di una licenza di condurre militare
-- 52\. Designazione particolare dei militari che prestano impieghi nel servizio di promovimento della pace
-- 53\. Appartenenza alla categoria dei militari non incorporati in una formazione conformemente all’articolo 6 dell’ordinanza del 29 marzo 2017[^annex1a-lvlu1-lvl1-1] sulle strutture dell’esercito
-- 54\. Stato dell’adempimento del tiro obbligatorio fuori del servizio
-- 55\. Convocazione davanti a una commissione per la visita sanitaria
-- 56\. Decisioni delle commissioni per la visita sanitaria in merito all’idoneità, comprese le restrizioni in materia di consegna dell’arma per motivi medici (contrassegno «R»)
-- 57\. Presentazione di una domanda d’ammissione al servizio militare non armato o al servizio civile, con la data del ricevimento della domanda da parte dell’organo di decisione
-- 58\. Valutazione di un’esclusione dal servizio militare o di una rimozione dal comando o dalla funzione (esclusione in sospeso)
-- 59\. Dati per la preparazione del proscioglimento dall’obbligo di prestare servizio militare
-- 60\. Proscioglimento dall’obbligo di prestare servizio militare o dal Servizio della Croce Rossa
-- 61\. Perdita della cittadinanza svizzera
-- 62\. Decesso nonché annotazioni di servizio e informazioni relative al momento del decesso, quali «decesso durante il SIB», «decesso durante il SPT», «decesso durante l’impiego all’estero» o «decesso fuori del servizio»
+  - a. cicli di reclutamento e cicli d’esercizio
+  - b. caratteristiche per il raggruppamento automatico
+  - c. numeri di gruppo e numeri progressivi
 
-1.5 Servizi
+- 1\.3.5 Autorità o organo incaricato della chiamata (Cantone, formazione d’addestramento, centro di competenza)
+- 1\.3.6 Zona di reclutamento e circondario di reclutamento
+- 1\.3.7 Data del reclutamento, luogo di reclutamento e momento dell’entrata in servizio
+- 1\.3.8. Durata del reclutamento/dell’accertamento
+- 1\.3.9 Numero dei giorni di reclutamento prestati
+- 1\.3.10 Stato del partecipante in relazione con un ciclo d’esercizio (preavviso allestito/aggiornato/concluso, avviso di servizio/chiamata in servizio stampato(a)/spedito(a), chiamato, dispensato, entrato in servizio/non entrato in servizio, proscioglimento regolare/amministrativo alla visita sanitaria d’entrata [VSE])
+- 1\.3.11 Annotazioni di servizio correlate al reclutamento e all’attribuzione nonché codici del controllo dell’obbligo di prestare servizio
+- 1\.3.12 Dati necessari per l’attribuzione e concernenti i contingenti delle scuole e i contingenti cantonali
+- 1\.3.13 Dati statistici costituiti dagli indicatori di un ciclo di reclutamento, all’attenzione dei servizi competenti presso la Confederazione e i Cantoni
 
-- 63\. Dati per la stesura dell’ordine di marcia (affisso di chiamata in servizio militare e indicazioni di dettaglio)
-- 64\. Spostamento o dispensa di/da servizi con l’indicazione del motivo e dell’anno dello spostamento o della dispensa
-- 65\. Mancata entrata in servizio in occasione di servizi, licenziamento nel giorno dell’entrata in servizio o licenziamento anticipato, con l’indicazione del motivo
-- 66\. Servizio d’istruzione non compiuto, con l’indicazione del genere del servizio e del motivo del mancato compimento
-- 67\. Servizi in dettaglio, con l’indicazione di: data, scuola, corso di formazione, corso o esercitazione, genere del servizio, numero dei giorni prestati e computabili nonché motivo per i giorni non computabili, ricupero, servizio anticipato o servizio volontario
-- 68\. Proposta per l’istruzione a un grado superiore o a una nuova funzione, con l’indicazione: del genere, della provenienza e della data della proposta; della data, del genere e del decorso dell’avanzamento (modulo di pianificazione per i quadri subalterni di milizia); della scuola prevista o del corso di formazione previsto nonché della funzione, del grado e dell’incorporazione nel grado superiore
-- 69\. Nota complessiva delle qualificazioni di militari con gradi di truppa nonché di sottufficiali
-- 70\. Numero dei giorni di servizio che la persona soggetta all’obbligo di prestare servizio militare ha già prestato e deve ancora prestare
-- 71\. Programmi di formazione, contingenti, iscrizioni ai corsi, panoramiche dei corsi e liste d’attesa
-- 72\. Pianificazione delle carriere, obiettivi di carriera, possibilità di carriera e profili dei requisiti
+### 1.4
 
-1.6 Statuto secondo la legge militare
+Dati rilevati mediante esami, test e questionari:
 
-- 73\. Esenzione dall’obbligo di prestare servizio militare conformemente agli articoli 4 e 18 LM o proscioglimento dall’esercito conformemente all’articolo 49 capoverso 2 LM; nel caso dell’esenzione dall’obbligo di prestare servizio militare conformemente all’articolo 18 LM, con le indicazioni relative al richiedente (numero, designazione/cognome, dati di contatto)
-- 74\. Assegnazione alla categoria delle persone con doppia cittadinanza non incorporate conformemente all’articolo 5 LM
-- 75\. Attribuzione e assegnazione di persone all’esercito conformemente all’articolo 6 LM
-- 76\. Esenzione dal reclutamento conformemente all’articolo 9 LM
-- 77\. Proroga dell’obbligo di prestare servizio militare conformemente all’articolo 13 LM
-- 77a. Statuto di specialista conformemente agli articoli 13 e 104*a* LM
-- 78\. Ammissione al servizio militare non armato conformemente all’articolo 16 LM
-- 79\. Esenzione dal servizio d’istruzione e dal servizio d’appoggio conformemente all’articolo 17 LM
-- 80\. Esclusione dal servizio militare conformemente agli articoli 21–24 LM
-- 81\. Rimozione dal comando o dalla funzione conformemente all’articolo 24 LM
-- 82\. Inabilità al servizio
-- 83\. Messa a disposizione conformemente all’articolo 61 LM; con le indicazioni relative al richiedente (numero, designazione/cognome, dati di contatto)
-- 84\. Dispensa dal servizio d’appoggio e dal servizio attivo conformemente all’articolo 145 LM, con l’indicazione della data della decisione, del numero del richiedente e dell’attività indispensabile
-- 85\. Ammissione al servizio civile conformemente all’articolo 10 della legge federale del 6 ottobre 1995[^annex1a-lvlu1-lvl1-2] sul servizio civile sostitutivo
-- 86\. Revoca di un’assegnazione alla categoria delle persone con doppia cittadinanza non incorporate o di un’esenzione dall’obbligo di prestare servizio militare
-- 87\. Riammissione all’obbligo di prestare servizio militare
-- 88\. Statuto di membro del personale militare o di giudice oppure di giudice supplente ai sensi della procedura penale militare del 23 marzo 1979[^annex1a-lvlu1-lvl1-3]
-- 89\. Data della motivazione o della modifica dello statuto
-- 89*a*. Incorporazione in gruppi d’impiego in relazione con la valutazione della funzione
+- 1\.4.1
 
-1.7 Pene, pene accessorie e misure penali
+  Stato di salute:
 
-- 90\. Pene disciplinari passate in giudicato per mancanze di disciplina commesse fuori del servizio, con l’indicazione del genere e del motivo della pena disciplinare e della misura della pena
-- 91\. Azioni della giustizia militare (assunzioni delle prove, istruzioni preparatorie)
-- 92\. Condanne passate in giudicato, con l’indicazione della sanzione, della legge violata, del genere della pena, della misura della pena, del genere d’esecuzione e del Cantone incaricato dell’esecuzione
-- 92a. Dati comunicati in merito a procedimenti penali pendenti
-- 92b. Dati relativi a procedimenti penali secondo l’articolo 14 capoverso 1 lettera m LSIM
-- 93\. Esclusione dall’esercito conformemente al Codice penale militare del 13 giugno 1927[^annex1a-lvlu1-lvl1-4]
-- 94\. Degradazione
-- 95\. Inizio e fine dell’esecuzione di una pena
-- 96\. Data della sentenza
-- 97\. Sospensione della chiamata in virtù dell’articolo 34 o 38 dell’ordinanza del 22 novembre 2017[^annex1a-lvlu1-lvl1-5] concernente l’obbligo di prestare servizio militare
-- 97a. Comunicazioni secondo l’articolo 113 capoversi 7 e 8 LM
+  - a. anamnesi, con il risultato (stato, misure del corpo comprese [altezza, peso, indice di massa corporea, circonferenza addominale])
+  - b. elettrocardiogramma (ECG), misurazioni della pressione arteriosa
+  - c. funzione polmonare, compreso il test riuscito per il porto di apparecchi di protezione delle vie respiratorie
+  - d. udito
+  - e. vista, compresi daltonismo, ambliopia, cecità notturna e mezzi visivi ausiliari
+  - f. test d’intelligenza
+  - g. test di comprensione di testi
+  - h. questionario per l’individuazione di malattie psichiche nonché risorse e problemi psichici attuali
+  - i. esami di laboratorio facoltativi (parametri del sangue: ematologia, chimica, infeziologia)
+  - j. vaccinazioni facoltative
 
-1.8 Dati supplementari (rilevati previo consenso della persona interessata)
+- 1\.4.2 Attitudini fisiche: condizione fisica, considerata nelle sue componenti di resistenza, forza, velocità, nonché capacità di coordinazione
+- 1\.4.3 Attitudini intellettuali e personalità: attitudini intellettuali generali, capacità di risolvere problemi, capacità di concentrazione e d’attenzione, flessibilità, scrupolosità e autoconsapevolezza, nonché predisposizione all’azione
+- 1\.4.4 Stato psichico: assenza di disturbi ansiosi, autoconsapevolezza, resistenza allo stress, stabilità emotiva e capacità di socializzare
+- 1\.4.5 Competenza sociale: comportamento e sensibilità nella società, nella comunità e nel gruppo
+- 1\.4.6
 
-- 98\. Conoscenze particolari acquisite nella vita civile (per es. lingue, formazione particolare)
-- [tab] 99. a 101. ...
-- [tab] 101a. Indirizzo di parenti oppure indirizzo in caso d’emergenza, compresi il numero di telefono e il numero di fax nonché l’indirizzo e-mail
-- 102\. Proroga volontaria dell’obbligo di prestare servizio militare
-- 103\. Blocco della comunicazione di dati secondo l’articolo 16 capoverso 4 LSIM
-- 103a. Relazione per i pagamenti
+  Limitazioni della salute, nella misura in cui sono rilevanti ai fini della funzione:
 
-1.9 Controllo delle pratiche e gestione della corrispondenza
+  - a. marciare, portare o sollevare pesi
+  - b. disturbi ai ginocchi/ai piedi
+  - c. problemi alle vie respiratorie
+  - d. problemi alla pelle/allergie
+  - e. claustrofobia
+  - f. idoneità al tiro
+  - g. guida di veicoli a motore militari
 
-- 104\. Controllo delle pratiche, con l’indicazione della data delle singole operazioni e dell’organo che effettua la mutazione
-- 105\. Gestione elettronica di documenti compresa la corrispondenza per il differimento del servizio, per i controlli e le qualificazioni nonché la dichiarazione di consenso allo svolgimento di un controllo di sicurezza relativo alle persone
-- 106\. Dati per la selezione dei quadri e il controllo della procedura per le qualificazioni e le mutazioni nell’esercito
+- 1\.4.7 Idoneità medica
+- 1\.4.8 Idoneità a esercitare determinate funzioni: esami attitudinali specifici per quanto tale idoneità non risulti dal profilo attitudinale secondo i numeri 1.4.1–1.4.6 del presente allegato
+- 1\.4.9 Risultati dell’esame d’idoneità per conducenti
+- 1\.4.10
 
-**1.10 Contributi per la formazione**
+  Potenziale di base per funzioni di quadro: potenziale per un impiego come sottufficiale, sottufficiale superiore o ufficiale nonché dati necessari per il rilevamento del potenziale quali:
 
-- 107\. Domanda di riscossione di contributi per la formazione (comprese le indicazioni relative alla formazione)
-- 108\. Indicazioni relative all’esame e al controllo della domanda (compresi le prove dei costi e i giustificativi del pagamento nonché il diploma conseguito o la conferma di partecipazione al corso)
-- 109\. Decisione sulla domanda di contributo per la formazione
-- 110\. Conto per i contributi per la formazione (avere iniziale, contributi versati, saldo attivo)
+  - a. motivazione alla condotta
+  - b. capacità cognitive
+  - c. competenza personale: motivazione a fornire prestazioni, resistenza allo stress, scrupolosità, autonomia, capacità di persuasione
+  - d. competenza sociale: comportamento sociale, comportamento in situazioni conflittuali, estroversione, compiacenza/maniere concilianti, spirito di gruppo
+  - e. caratteristiche supplementari: integrità, instabilità
+  - f. valutazione dell’esercizio di presentazione
 
-[^annex1a-lvlu1-lvl1-1]: [RS 513.11](https://fedlex.data.admin.ch/eli/cc/2017/218)
-[^annex1a-lvlu1-lvl1-2]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^annex1a-lvlu1-lvl1-3]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
-[^annex1a-lvlu1-lvl1-4]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^annex1a-lvlu1-lvl1-5]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+- 1\.4.11 Interesse personale a determinate attività rilevanti ai fini della funzione e all’esercizio di determinate funzioni militari (comprese indicazioni risultanti dal questionario «Inventario degli interessi»)
+- 1\.4.12 Abitudini sportive attuali e quotidiane e abitudini sportive previste per il futuro
+- 1\.4.13 Conoscenze della grammatica inglese (per il personale previsto per il promovimento della pace)
+- 1\.4.14 Rischio potenziale di abuso dell’arma personale (compreso il risultato e lo stato dell’analisi dei rischi/del controllo di sicurezza relativo alle persone al momento dell’attribuzione)
+- 1\.4.15
 
-### 2. Dati delle persone soggette all’obbligo di prestare servizio di protezione civile nonché di persone che, nella protezione civile, senza aver diritto a un’indennità di perdita di guadagno, sono chiamate a prestare impieghi di durata limitata, impartiscono istruzioni, partecipano a istruzioni o esercitano la funzione di contabile
+  Ulteriori dati forniti dalla persona interessata (per mezzo del «foglio rosa»):
 
-2.1 Dati personali
+  - a. formazione professionale e scolastica
+  - b. formazione preliminare (corsi e conoscenze prima del servizio)
+  - c. conoscenze linguistiche
+  - d. portatore di occhiali o lenti a contatto
+  - e. mancino, occhio di mira sinistro
+  - f. licenza di condurre, desideri personali per quanto concerne la funzione di conducente
+  - g. desideri personali per quanto concerne l’attribuzione
+  - h. desideri personali per quanto concerne il servizio militare, per es. interesse a un avanzamento militare, alla prestazione del servizio militare come militare in ferma continuata o a un servizio non armato
+  - i. data desiderata per l’inizio della scuola reclute
 
-- 1\. Numero AVS\*
-- 2\. Cognome\*
-- 3\. Nome\*
-- 4\. Data di nascita (con l’indicazione dell’età attuale)\*
-- 5\. Sesso\*
-- 6\. Professione esercitata
-- 7\. Indirizzo di domicilio\*
-- 8\. Comune di domicilio\*
-- 9\. Comune(i) d’origine
-- 10\. Cantone(i) d’origine
-- 11\. Cittadinanza (per persone secondo l’art. 15 cpv. 1 lett. e LPPC)
-- 12\. Lingua madre\*
-- 13\. Datore di lavoro e indirizzo\*
+### 1.5 Dati relativi all’attribuzione
 
-2.2 Dati di controllo
+- 1\.5.1
 
-- 14\. Data della notificazione d’arrivo e di partenza all’autorità militare cantonale competente
-- 15\. Accertamento del luogo di dimora
-- 16\. Comune(i) di domicilio precedente(i)
-- 17\. Congedo per l’estero
-- 18\. Segnalazione nel sistema di ricerca informatizzato di polizia (RIPOL) in caso di ignota dimora
-- 19\. Statuto di frontaliere
-- 20\. Dichiarazione di «disperso»
+  Dati relativi all’attribuzione concernenti le persone idonee al servizio militare, comprendenti:
 
-2.3 Dati relativi al reclutamento
+  - a. l’Arma, la funzione, la scuola e la data dell’inizio della scuola in occasione della prima attribuzione
+  - b. ove opportuno, l’Arma e la funzione in occasione della seconda attribuzione
+  - c. i previsti impieghi speciali del militare
 
-- 21\. Data del reclutamento
-- 22\. Giorni di reclutamento prestati
-- 23\. Idoneità per la protezione civile
-- 24\. Funzione di base\*
-- 25\. Punteggio della prova sportiva
-- 26\. Esame della vista superato
-- 27\. Data dell’istruzione di base
+- 1\.5.2
 
-2.4 Incorporazione, grado e funzione
+  Dati relativi all’attribuzione concernenti le persone abili al servizio di protezione civile, comprendenti:
 
-- 28\. Organizzazione di protezione civile/Cantone\*
-- 29\. Unità/formazione\*
-- 30\. Settore specialistico\*
-- 31\. Grado\*
-- 32\. Funzione(i)\*
-- 33\. Livello di funzione\*
-- 34\. Istruzione particolare nella protezione civile
-- 35\. Conferimento di una distinzione
-- 36\. Raccomandazione per una funzione di quadro
-- 37\. Controllo di sicurezza relativo alle persone con decisione, tipo e data del controllo
-- 38\. Statuto (p. es. attivo, riserva, prosciolto)\*
-- 39\. Assunzione volontaria dell’obbligo di prestare servizio di protezione civile\*
-- 40\. Disponibilità (disponibile, disponibile con limitazioni [indicazioni temporali], non disponibile)
-- 41\. Convocazione davanti a una commissione per la visita sanitaria
-- 42\. Decisioni delle commissioni per la visita sanitaria in merito all’idoneità
-- 43\. Proscioglimento dall’obbligo di prestare servizio di protezione civile\*
-- 44\. Decesso
-- 45\. Allarme
-- 46\. Equipaggiamento personale
+  - a. la funzione
+  - b. la durata, il luogo e la data della manifestazione
 
-2.5 Prestazioni di servizio
+### 1.6 Incorporazione, grado, funzione e istruzione
 
-- 47\. Designazione del servizio
-- 48\. Codice, numero (di riferimento) del servizio
-- 49\. Scuola
-- 50\. Tipo di servizio
-- 51\. Base legale della convocazione
-- 52\. Data e ora dell’entrata in servizio
-- 53\. Luogo d’entrata in servizio
-- 54\. Data e ora del licenziamento
-- 55\. Luogo di licenziamento
-- 56\. Differimento del servizio, congedo
-- 57\. Durata del servizio (dal ... al...)
-- 58\. Mutazioni
-- 59\. Giorni di servizio
-- 60\. Giorni di servizio complessivi (tutti i giorni di servizio finora prestati, cronologia delle prestazioni di servizio)
-- 61\. Qualifiche
+- 1\.6.1 Appartenenza a un’Arma, a un servizio o a un servizio ausiliario nonché allo stato maggiore generale o al Servizio della Croce Rossa, con la data
+- 1\.6.2 Formazione d’incorporazione con la data dell’incorporazione
+- 1\.6.3 Dati sulla formazione, articolazione con la designazione, testi e numeri, funzioni, gradi, effettivi regolamentari
+- 1\.6.4 Dati sull’unità con i codici linguistici, indicazione dell’organo incaricato della tenuta dei controlli, del numero militare di avviamento nonché dei Cantoni competenti per i compiti speciali
+- 1\.6.5 Sezione d’incorporazione in seno alla formazione
+- 1\.6.6 Grado o funzione d’ufficiale con la data della promozione o della nomina
+- 1\.6.7 Dati relativi ai posti, per i sottufficiali superiori e gli ufficiali
+- 1\.6.8 Esercizio di una funzione in sostituzione, conferimento di un comando o di una funzione ad interim
+- 1\.6.9 Funzione con la data dell’assunzione della funzione
+- 1\.6.10 Nuova incorporazione e trasferimento, con la data
+- 1\.6.11 Servizi comandati all’estero
+- 1\.6.12 Istruzione militare speciale, comprese le istruzioni assolte e le autorizzazioni conseguite per l’impiego di sistemi militari
+- 1\.6.13 Corsi d’istruzione per ufficiali di professione e sottufficiali di professione
+- 1\.6.14 Equipaggiamento speciale, con l’indicazione dell’eventuale numero degli oggetti
+- 1\.6.15 Deposito o ritiro dell’equipaggiamento (munizione da tasca compresa), con l’indicazione della data
+- 1\.6.16 Consegna, deposito, ritiro ordinario, cautelare e definitivo dell’arma personale nonché cessione in proprietà
+- 1\.6.17 Consegna, ritiro ordinario, cautelare e definitivo dell’arma in prestito
+- 1\.6.18 Accertamenti e circostanze in relazione con la consegna, il deposito, il ritiro cautelare e il ritiro definitivo dell’arma personale o dell’arma in prestito
+- 1\.6.19 Comunicazioni dell’Ufficio centrale secondo l’articolo 32*c* capoverso 4 LArm[^annex1a-lvlu1-lvl1-lvl16-1]
+- 1\.6.20 Certificati militari d’idoneità o di capacità, con l’anno dell’ottenimento o del rinnovo
+- 1\.6.21 Primo conferimento di una distinzione
+- 1\.6.22 Valutazione e raccomandazione per una funzione di quadro di livello II–IV e Z
+- 1\.6.23 Esame attitudinale e controllo di sicurezza relativo alle persone con decisione, tipo e data dell’esame/del controllo
+- 1\.6.24 Esame dell’integrità con raccomandazione (adempiuto/non adempiuto) e data dell’esame dei militari per la funzione di contabile della truppa
+- 1\.6.25 Dati destinati all’allestimento della licenza di condurre militare nonché esclusione dall’ottenimento o dal possesso di una licenza di condurre militare
+- 1\.6.26 Designazione particolare dei militari che prestano impieghi nel servizio di promovimento della pace
+- 1\.6.27 Appartenenza alla categoria dei militari non incorporati in una formazione conformemente all’articolo 6 dell’ordinanza del 29 marzo 2017[^annex1a-lvlu1-lvl1-lvl16-2] sulle strutture dell’esercito
+- 1\.6.28 Stato dell’adempimento del tiro obbligatorio fuori del servizio
+- 1\.6.29 Convocazione davanti a una commissione per la visita sanitaria
+- 1\.6.30 Decisioni delle commissioni per la visita sanitaria in merito all’idoneità, comprese le restrizioni in materia di consegna dell’arma per motivi medici (contrassegno «R»)
+- 1\.6.31 Presentazione di una domanda d’ammissione al servizio militare non armato o al servizio civile, con la data del ricevimento della domanda da parte dell’organo di decisione
+- 1\.6.32 Valutazione di un’esclusione dal servizio militare o di una rimozione dal comando o dalla funzione (esclusione in sospeso)
+- 1\.6.33 Dati per la preparazione del proscioglimento dall’obbligo di prestare servizio militare
+- 1\.6.34 Proscioglimento dall’obbligo di prestare servizio militare o dal Servizio della Croce Rossa
+- 1\.6.35 Perdita della cittadinanza svizzera
+- 1\.6.36 Decesso nonché annotazioni di servizio e informazioni relative al momento del decesso, quali «decesso durante il SIB», «decesso durante il SPT», «decesso durante l’impiego all’estero» o «decesso fuori del servizio»
 
-2.6 Profilo prestazionale
+[^annex1a-lvlu1-lvl1-lvl16-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^annex1a-lvlu1-lvl1-lvl16-2]: [RS 513.11](https://fedlex.data.admin.ch/eli/cc/2017/218)
 
-- 62\. Statura
-- 63\. Idoneità alla marcia, a portare e a sollevare pesi
-- 64\. Portatore/trice di occhiali o lenti a contatto
+### 1.7 Servizi
 
-2.7 Dati supplementari (rilevati previo consenso della persona interessata)
+- 1\.7.1 Dati per la stesura dell’ordine di marcia (affisso di chiamata in servizio militare e indicazioni di dettaglio)
+- 1\.7.2 Spostamento o dispensa di/da servizi con l’indicazione del motivo e dell’anno dello spostamento o della dispensa
+- 1\.7.3 Mancata entrata in servizio in occasione di servizi, licenziamento nel giorno dell’entrata in servizio o licenziamento anticipato, con l’indicazione del motivo
+- 1\.7.4 Servizio d’istruzione non compiuto, con l’indicazione del genere del servizio e del motivo del mancato compimento
+- 1\.7.5 Servizi in dettaglio, con l’indicazione di: data, scuola, corso di formazione, corso o esercitazione, genere del servizio, numero dei giorni prestati e computabili nonché motivo per i giorni non computabili, ricupero, servizio anticipato o servizio volontario
+- 1\.7.6 Proposta per l’istruzione a un grado superiore o a una nuova funzione, con l’indicazione: del genere, della provenienza e della data della proposta; della data, del genere e del decorso dell’avanzamento (modulo di pianificazione per i quadri subalterni di milizia); della scuola prevista o del corso di formazione previsto nonché della funzione, del grado e dell’incorporazione nel grado superiore
+- 1\.7.7 Nota complessiva delle qualificazioni di militari con gradi di truppa nonché di sottufficiali
+- 1\.7.8 Numero dei giorni di servizio che la persona soggetta all’obbligo di prestare servizio militare ha già prestato e deve ancora prestare
+- 1\.7.9 Programmi di formazione, contingenti, iscrizioni ai corsi, panoramiche dei corsi e liste d’attesa
+- 1\.7.10 Pianificazione delle carriere, obiettivi di carriera, possibilità di carriera e profili dei requisiti
 
-- 65\. Numero(i) di telefono\*
-- 66\. Indirizzo(i) e-mail\*
-- 68\. Conoscenze particolari acquisite nella vita civile (p. es. lingue, formazione particolare)
-- 69\. Relazione per i pagamenti\*
-- 70\. Indirizzo postale\*
-- 71\. Indirizzo di parenti o indirizzo per i casi d’emergenza (con numero di telefono e indirizzo e-mail)
+### 1.8 Statuto secondo la legge militare
 
-2.8 Pene
+- 1\.8.1 Esenzione dall’obbligo di prestare servizio militare conformemente agli articoli 4 e 18 LM o proscioglimento dall’esercito conformemente all’articolo 49 capoverso 2 LM; nel caso dell’esenzione dall’obbligo di prestare servizio militare conformemente all’articolo 18 LM, con le indicazioni relative al richiedente (numero, designazione/cognome, dati di contatto)
+- 1\.8.2 Assegnazione alla categoria delle persone con doppia cittadinanza non incorporate conformemente all’articolo 5 LM
+- 1\.8.3 Attribuzione e assegnazione di persone all’esercito conformemente all’articolo 6 LM
+- 1\.8.4 Esenzione dal reclutamento conformemente all’articolo 9 LM
+- 1\.8.5 Proroga dell’obbligo di prestare servizio militare conformemente all’articolo 13 LM
+- 1\.8.6 Statuto di specialista conformemente agli articoli 13 e 104*a* LM
+- 1\.8.7 Ammissione al servizio militare non armato conformemente all’articolo 16 LM
+- 1\.8.8 Esenzione dal servizio d’istruzione e dal servizio d’appoggio conformemente all’articolo 17 LM
+- 1\.8.9 Esclusione dal servizio militare conformemente agli articoli 21–24 LM
+- 1\.8.10 Rimozione dal comando o dalla funzione conformemente all’articolo 24 LM
+- 1\.8.11 Inabilità al servizio
+- 1\.8.12 Messa a disposizione conformemente all’articolo 61 LM; con le indicazioni relative al richiedente (numero, designazione/cognome, dati di contatto)
+- 1\.8.13 Dispensa dal servizio d’appoggio e dal servizio attivo conformemente all’articolo 145 LM, con l’indicazione della data della decisione, del numero del richiedente e dell’attività indispensabile
+- 1\.8.14 Ammissione al servizio civile conformemente all’articolo 10 della legge federale del 6 ottobre 1995[^annex1a-lvlu1-lvl1-lvl18-1] sul servizio civile sostitutivo
+- 1\.8.15 Revoca di un’assegnazione alla categoria delle persone con doppia cittadinanza non incorporate o di un’esenzione dall’obbligo di prestare servizio militare
+- 1\.8.16 Riammissione all’obbligo di prestare servizio militare
+- 1\.8.17 Statuto di membro del personale militare o di giudice oppure di giudice supplente ai sensi della procedura penale militare del 23 marzo 1979[^annex1a-lvlu1-lvl1-lvl18-2]
+- 1\.8.18 Data della motivazione o della modifica dello statuto
+- 1\.8.19 Incorporazione in gruppi d’impiego in relazione con la valutazione della funzione
 
-- 72\. Pene disciplinari passate in giudicato per mancanza di disciplina, con indicazione del genere e del motivo della pena disciplinare e della misura della pena
-- 72*a*. Condanne passate in giudicato, con l’indicazione della sanzione, della legge violata, del genere della pena, della misura della pena, del genere d’esecuzione, del Cantone incaricato dell’esecuzione nonché dell’inizio e della fine dell’esecuzione
-- 73\. Esclusione dalla protezione civile
-- 74\. Degradazione
-- 75\. Sospensione della chiamata
+[^annex1a-lvlu1-lvl1-lvl18-1]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^annex1a-lvlu1-lvl1-lvl18-2]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
-2.9 Varia
+### 1.9 Pene, pene accessorie e misure penali
 
-- 76\. Carta d’identità della protezione civile (incl. foto)
-- 77\. Controlli amministrativi (indicazioni sui processi amministrativi effettuati nel PISA)
-- 78\. Gestione elettronica dei documenti (archivio centrale PISA)
-- 79\. Dati per la selezione dei quadri (pianificazione delle carriere, obiettivi di carriera, possibilità di carriera e profili dei requisiti)
-- 80\. Ruolo di persone che, nella protezione civile, senza aver diritto a un’indennità di perdita di guadagno, sono chiamate a prestare impieghi di durata limitata, impartiscono istruzioni, partecipano a istruzioni o esercitano la funzione di contabile\*
+- 1\.9.1 Pene disciplinari passate in giudicato per mancanze di disciplina commesse fuori del servizio, con l’indicazione del genere e del motivo della pena disciplinare e della misura della pena
+- 1\.9.2 Azioni della giustizia militare (assunzioni delle prove, istruzioni preparatorie)
+- 1\.9.3 Condanne passate in giudicato, con l’indicazione della sanzione, della legge violata, del genere della pena, della misura della pena, del genere d’esecuzione e del Cantone incaricato dell’esecuzione
+- 1\.9.4 Misure privative della libertà
+- 1\.9.5 Decisioni concernenti l’insuccesso del periodo di prova
+- 1\.9.6 Dati comunicati in merito a procedimenti penali pendenti
+- 1\.9.7 Dati relativi a procedimenti penali secondo l’articolo 14 capoverso 1 lettera m LSIM
+- 1\.9.8 Esclusione dall’esercito conformemente al Codice penale militare del 13 giugno 1927[^annex1a-lvlu1-lvl1-lvl19-1]
+- 1\.9.9 Degradazione
+- 1\.9.10 Inizio e fine dell’esecuzione di una pena
+- 1\.9.11 Data della sentenza
+- 1\.9.12 Sospensione della chiamata in virtù dell’articolo 34 o 38 dell’ordinanza del 22 novembre 2017[^annex1a-lvlu1-lvl1-lvl19-2] concernente l’obbligo di prestare servizio militare
+- 1\.9.13 Comunicazioni secondo l’articolo 113 capoversi 7 e 8 LM
 
-\* dati, trattati conformemente all’articolo 4 capoverso 4, di persone che, nella protezione civile, senza aver diritto a un’indennità di perdita di guadagno, sono chiamate a prestare impieghi di durata limitata, impartiscono istruzioni, partecipano a istruzioni o esercitano la funzione di contabile
+[^annex1a-lvlu1-lvl1-lvl19-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^annex1a-lvlu1-lvl1-lvl19-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
 
-Allegato 2*[^t-3]*
+### 1.10 Dati supplementari (rilevati previo consenso della persona interessata)
+
+- 1\.10.1 Conoscenze particolari acquisite nella vita civile (per es. lingue, formazione particolare)
+- 1\.10.2 Indirizzo di parenti o indirizzo in caso d’emergenza, compresi il numero di telefono e il numero di fax nonché l’indirizzo e-mail
+- 1\.10.3 Proroga volontaria dell’obbligo di prestare servizio militare
+- 1\.10.4 Blocco della comunicazione di dati secondo l’articolo 16 capoverso 4 LSIM
+- 1\.10.5 Relazione per i pagamenti
+
+### 1.11 Controllo delle pratiche e gestione della corrispondenza
+
+- 1\.11.1 Controllo delle pratiche, con l’indicazione della data delle singole operazioni e dell’organo che effettua la mutazione
+- 1\.11.2 Gestione elettronica di documenti compresa la corrispondenza per il differimento del servizio, per i controlli e le qualificazioni nonché la dichiarazione di consenso allo svolgimento di un controllo di sicurezza relativo alle persone
+- 1\.11.3 Dati per la selezione dei quadri e il controllo della procedura per le qualificazioni e le mutazioni nell’esercito
+
+### 1.12 Contributi per la formazione
+
+- 1\.12.1 Domanda di riscossione di contributi per la formazione (comprese le indicazioni relative alla formazione)
+- 1\.12.2 Indicazioni relative all’esame e al controllo della domanda (compresi le prove dei costi e i giustificativi del pagamento nonché il diploma conseguito o la conferma di partecipazione al corso)
+- 1\.12.3 Decisione sulla domanda di contributo per la formazione
+- 1\.12.4 Conto per i contributi per la formazione (avere iniziale, contributi versati, saldo attivo)
+
+### 1.13 Ulteriori dati delle persone assistite dal Servizio psicopedagogico dell’esercito (SPP)
+
+A. Dati della persona assistita
+
+- 1\.13.1 Situazione sul mercato del lavoro
+- 1\.13.2 Situazione abitativa sociale
+- 1\.13.3 Situazione durante l’infanzia
+- 1\.13.4 Titolo di studio più elevato
+- 1\.13.5 Funzione militare attuale e servizio
+- 1\.13.6 Cognome, nome, indirizzo, luogo di domicilio, numero di telefono di un genitore / un parente prossimo
+- 1\.13.7 Paese d’origine della madre / del padre
+- 1\.13.8 Dati concernenti lo stato psichico
+- 1\.13.9 Dati concernenti le caratteristiche psichiche rilevati a fini anamnestico-biografici
+- 1\.13.10 Risultati di test psicologici
+- 1\.13.11 Certificati di specialisti civili in psicologia
+- 1\.13.12 Dati sanitari di carattere psicologico o psichiatrico necessari per l’adempimento dei compiti di cui all’articolo 13 LSIM
+- 1\.13.13 Corrispondenza con le persone assistite nonché con gli organi e le persone interessati
+- 1\.13.14 Dati forniti volontariamente dalla persona assistita
+
+B. Rapporto sul caso
+
+- 1\.13.15 Motivo dell’assistenza
+- 1\.13.16 Persona che ha inviato la persona assistita
+- 1\.13.17 Assistito precedentemente da
+- 1\.13.18 Problema secondo la persona che ha inviato
+- 1\.13.19 Problema secondo il militare / la persona assistita
+- 1\.13.20 *Military-related quality of life*
+- 1\.13.21 Impressione durante il colloquio
+- 1\.13.22 Anamnesi
+- 1\.13.23 Valutazione dell’idoneità a prestare servizio
+- 1\.13.24 Problematica dal punto di vista del SPP
+- 1\.13.25 Proposta del SPP
+- 1\.13.26 Destinatario della proposta
+- 1\.13.27 Ulteriore procedura
+- 1\.13.28 Resoconto della procedura
+- 1\.13.29 Motivazione della procedura
+- 1\.13.30 Decisore della procedura
+
+### 2 Dati delle persone soggette all’obbligo di prestare servizio di protezione civile nonché di persone che, nella protezione civile, senza aver diritto a un’indennità di perdita di guadagno, sono chiamate a prestare impieghi di durata limitata, impartiscono istruzioni, partecipano a istruzioni o esercitano la funzione di contabile
+
+### 2.1 Dati personali
+
+- 2\.1.1 Numero AVS\*
+- 2\.1.2 Cognome(i)\*
+- 2\.1.3 Nome(i)\*
+- 2\.1.4 Data di nascita (con l’indicazione dell’età attuale)\*
+- 2\.1.5 Sesso\*
+- 2\.1.6 Professione esercitata
+- 2\.1.7 Indirizzo di domicilio\*
+- 2\.1.8 Comune di domicilio\*
+- 2\.1.9 Comune(i) d’origine
+- 2\.1.10 Cantone(i) d’origine
+- 2\.1.11 Cittadinanza (per persone secondo l’art. 33 cpv. 1 lett. d LPPC[^annex1a-lvlu1-lvl2-lvl21-1])
+- 2\.1.12 Lingua materna\*
+- 2\.1.13 Datore di lavoro con indirizzo\*
+- 2\.1.14 Numero(i) di telefono\*
+- 2\.1.15 Indirizzo(i) e-mail\*
+- 2\.1.16 Recapito postale\*
+- 2\.1.17 e-ID
+
+[^annex1a-lvlu1-lvl2-lvl21-1]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+
+### 2.2 Dati di controllo
+
+- 2\.2.1 Data della notificazione d’arrivo e di partenza all’autorità militare cantonale competente
+- 2\.2.2 Accertamento del luogo di dimora
+- 2\.2.3 Comune(i) di domicilio precedente(i)
+- 2\.2.4 Congedo per l’estero
+- 2\.2.5 Segnalazione nel RIPOL in caso di ignota dimora
+- 2\.2.6 Statuto di frontaliere
+- 2\.2.7 Dichiarazione di «disperso»
+
+### 2.3 Dati relativi al reclutamento
+
+- 2\.3.1 Data del reclutamento
+- 2\.3.2 Giorni di reclutamento prestati
+- 2\.3.3 Idoneità per la protezione civile
+- 2\.3.4 Funzione di base\*
+- 2\.3.5 Punteggio della prova sportiva
+- 2\.3.6 Esame della vista superato
+- 2\.3.7 Data dell’istruzione di base
+
+### 2.4 Incorporazione, grado e funzione
+
+- 2\.4.1 Organizzazione di protezione civile/Cantone\*
+- 2\.4.2 Unità/formazione\*
+- 2\.4.3 Settore specialistico\*
+- 2\.4.4 Grado\*
+- 2\.4.5 Funzione(i)\*
+- 2\.4.6 Livello di funzione\*
+- 2\.4.7 Istruzione particolare nella protezione civile\*
+- 2\.4.8 Conferimento di una distinzione
+- 2\.4.9 Raccomandazione per una funzione di quadro
+- 2\.4.10 Controllo di sicurezza relativo alle persone con decisione, tipo e data del controllo
+- 2\.4.11 Statuto (p. es. attivo, riserva, prosciolto)\*
+- 2\.4.12 Assunzione volontaria dell’obbligo di prestare servizio di protezione civile\*
+- 2\.4.13 Disponibilità (disponibile, disponibile con limitazioni [indicazioni temporali], non disponibile)
+- 2\.4.14 Convocazione davanti a una commissione per la visita sanitaria
+- 2\.4.15 Decisioni delle commissioni per la visita sanitaria in merito all’idoneità
+- 2\.4.16 Proscioglimento dall’obbligo di prestare servizio di protezione civile\*
+- 2\.4.17 Decesso
+- 2\.4.18 Allarme
+- 2\.4.19 Equipaggiamento personale
+
+### 2.5 Servizi
+
+- 2\.5.1 Designazione del servizio
+- 2\.5.2 Codice, numero (di riferimento) del servizio
+- 2\.5.3 Scuola
+- 2\.5.4 Tipo di servizio
+- 2\.5.5 Base legale della convocazione
+- 2\.5.6 Data e ora dell’entrata in servizio
+- 2\.5.7 Luogo d’entrata in servizio
+- 2\.5.8 Data e ora del licenziamento
+- 2\.5.9 Luogo di licenziamento
+- 2\.5.10 Differimento del servizio, congedo
+- 2\.5.11 Durata del servizio (dal ... al ...)
+- 2\.5.12 Mutazioni
+- 2\.5.13 Giorni di servizio
+- 2\.5.14 Giorni di servizio complessivi (tutti i giorni di servizio finora prestati, cronologia dei servizi)
+- 2\.5.15 Qualificazioni
+
+### 2.6 Profilo attitudinale
+
+- 2\.6.1 Statura
+- 2\.6.2 Idoneità alla marcia, a portare e a sollevare pesi
+- 2\.6.3 Portatore di occhiali o lenti a contatto
+
+### 2.7 Dati supplementari (rilevati previo consenso della persona interessata)
+
+- 2\.7.1 Licenze di condurre civile e militare
+- 2\.7.2 Conoscenze particolari acquisite nella vita civile (p. es. lingue, formazione particolare)
+- 2\.7.3 Relazione per i pagamenti\*
+- 2\.7.4 Indirizzo di parenti o indirizzo in caso d’emergenza (con numero di telefono e indirizzo e-mail)
+
+### 2.8 Pene
+
+- 2\.8.1 Pene disciplinari passate in giudicato per mancanza di disciplina, con indicazione del genere e del motivo della pena disciplinare e della misura della pena
+- 2\.8.2 Condanne passate in giudicato, con l’indicazione della sanzione, della legge violata, del genere della pena, della misura della pena, del genere d’esecuzione, del Cantone incaricato dell’esecuzione nonché dell’inizio e della fine dell’esecuzione
+- 2\.8.3 Misure privative della libertà
+- 2\.8.4 Decisioni concernenti l’insuccesso del periodo di prova
+- 2\.8.5 Esclusione dalla protezione civile
+- 2\.8.6 Degradazione
+- 2\.8.7 Sospensione della chiamata
+
+### 2.9 Varia
+
+- 2\.9.1 Carta d’identità della protezione civile (incl. foto)
+- 2\.9.2 Controlli amministrativi (indicazioni sui processi amministrativi effettuati nel PISA)
+- 2\.9.3 Gestione elettronica dei documenti (archivio centrale PISA)
+- 2\.9.4 Dati per la selezione dei quadri (pianificazione delle carriere, obiettivi di carriera, possibilità di carriera e profili dei requisiti)
+- 2\.9.5 Ruolo di persone che, nella protezione civile, senza aver diritto a un’indennità di perdita di guadagno, sono chiamate a prestare impieghi di durata limitata, impartiscono istruzioni, partecipano a istruzioni o esercitano la funzione di contabile\*
+- [tab]
+- \* dati, trattati conformemente all’articolo 4 capoverso 4, di persone che, nella protezione civile, senza aver diritto a un’indennità di perdita di guadagno, sono chiamate a prestare impieghi di durata limitata, impartiscono istruzioni, partecipano a istruzioni o esercitano la funzione di contabile
+
+Allegato 1b[^t-4]
+
+(art. 5*a*)
+
+## Dati del GDS
+
+[^t-4]: Introdotto dal n. III cpv. 1 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+### 1 Dati delle persone soggette all’obbligo di leva, delle persone soggette all’obbligo di prestare servizio militare e di civili assistiti dalla truppa o impiegati per un intervento a tempo determinato nell’esercito
+
+### 1.1 Dati civili
+
+- 1\.1.1 Numero AVS
+- 1\.1.2 Cognome(i)
+- 1\.1.3 Nome(i)
+- 1\.1.4 Sesso
+- 1\.1.5 Data di nascita
+- 1\.1.6 Indirizzo
+- 1\.1.7 Indirizzo di parenti o indirizzo in caso d’emergenza
+- 1\.1.8 Indirizzo e-mail
+- 1\.1.9 Numeri di telefono
+- 1\.1.10 Fotografia formato passaporto
+- 1\.1.11 Professione appresa e professione esercitata (funzione)
+- 1\.1.12 Datore di lavoro con indirizzo e dati di contatto
+- 1\.1.13 Relazione per i pagamenti
+- 1\.1.14 Formazione
+- 1\.1.15 e-ID
+- 1\.1.16 Luogo d’origine
+- 1\.1.17 Cantone d’origine
+- 1\.1.18 Lingua
+
+### 1.2 Dati relativi al reclutamento
+
+- 1\.2.1 Informazioni concernenti l’assolvimento della giornata informativa
+- 1\.2.2 Data desiderata per la giornata informativa
+- 1\.2.3 Data desiderata per il reclutamento
+- 1\.2.4 Data del reclutamento
+- 1\.2.5 Arma del reclutato
+- 1\.2.6 Funzione e seconda funzione (seconda attribuzione) del reclutato
+- 1\.2.7 Anno di reclutamento
+- 1\.2.8 Comandante del reclutamento con firma
+- 1\.2.9 Attribuzione e assegnazione all’esercito conformemente all’articolo 6 LM
+- 1\.2.10 Funzione desiderata
+- 1\.2.11 Data desiderata per l’inizio della scuola reclute
+- 1\.2.12 Dichiarazioni d’impegno
+
+### 1.3 Dati relativi al servizio
+
+- 1\.3.1 Statuto secondo la legge militare e ammissione al servizio civile
+- 1\.3.2 Sospensione della chiamata ed esclusione dall’esercito
+- 1\.3.3 Grado e funzione d’ufficiale con la data della promozione e della nomina
+- 1\.3.4 Formazione d’incorporazione con la data dell’incorporazione
+- 1\.3.5 Funzione con la data dell’assunzione della funzione
+- 1\.3.6 Proroga dell’obbligo di prestare servizio militare conformemente all’articolo 13 LM
+- 1\.3.7 Esame attitudinale, esame dell’integrità e controlli di sicurezza relativi alle persone
+- 1\.3.8 Proposte d’avanzamento e di perfezionamento
+- 1\.3.9 Qualificazioni ricevute nonché valutazioni e raccomandazioni per una funzione di quadro
+- 1\.3.10 Esercizio di una funzione in sostituzione, conferimento di un comando o di una funzione ad interim
+- 1\.3.11 Arma, servizio ausiliario e servizio
+- 1\.3.12 Ammissione al servizio militare non armato conformemente all’articolo 16 LM
+- 1\.3.13 Statuto di specialista conformemente agli articoli 13 e 104*a* LM
+- 1\.3.14 Esenzione dal servizio secondo l’articolo 17 LM e dispensa secondo l’articolo 145 LM
+- 1\.3.15 Messa a disposizione conformemente all’articolo 61 LM
+- 1\.3.16 Anno del proscioglimento
+
+### 1.4 Informazioni generali
+
+- 1\.4.1 Nome, cognome, grado, funzione, incorporazione, indirizzi e dati di contatto dei comandanti responsabili della persona interessata
+- 1\.4.2 Dati di contatto dei servizi della Confederazione e del Cantone competenti per la persona interessata
+- 1\.4.3 Dati sulla mobilitazione
+- 1\.4.4 Richieste e risposte (piattaforma sociale)
+- 1\.4.5 Informazioni su richieste, proposte e iscrizioni
+- 1\.4.6 Informazioni sull’obbligo di prestare servizio militare e sull’assicurazione militare
+- 1\.4.7 Informazioni sui diritti e doveri del militare
+- 1\.4.8 Informazioni sui corsi prima del servizio e fuori del servizio
+- 1\.4.9 Informazioni sui corsi di perfezionamento militari
+
+### 1.5 Dati relativi all’idoneità
+
+- 1\.5.1 Decisioni concernenti l’idoneità
+- 1\.5.2 Profilo attitudinale
+- 1\.5.3 Attribuzione
+- 1\.5.4 Idoneità a esercitare determinate funzioni e funzioni speciali con esigenze più elevate
+- 1\.5.5 Limitazioni della salute, nella misura in cui sono rilevanti ai fini della funzione
+- 1\.5.6 Stato di salute (per es. peso, udito, vista, anamnesi con il risultato, esami di laboratorio facoltativi, gruppo sanguigno)
+- 1\.5.7 Attitudini fisiche
+- 1\.5.8 Attitudini intellettuali e personalità
+- 1\.5.9 Stato psichico e competenza sociale
+- 1\.5.10 Esami attitudinali
+- 1\.5.11 Vaccinazioni effettuate durante il servizio
+- 1\.5.12 Documenti medici presentati
+- 1\.5.13 Decisioni mediche durante il servizio (dispense e limitazioni)
+- 1\.5.14 Informazioni e decisioni delle assicurazioni militari
+
+### 1.6 Dati relativi alla formazione
+
+- 1\.6.1 Conoscenze particolari acquisite nella vita civile (per es. lingue, formazioni particolari)
+- 1\.6.2 Istruzioni assolte durante il servizio, licenze di condurre e brevetti
+- 1\.6.3 Competenze acquisite
+- 1\.6.4 Distinzioni
+- 1\.6.5 Istruzioni militari specifiche
+- 1\.6.6 Risultati di tiro con simulatori
+- 1\.6.7 Risultati di tiro con armi di corpo
+- 1\.6.8 Istruzioni prima del servizio e fuori del servizio
+- 1\.6.9 Risultati di gare e corsi fuori del servizio
+- 1\.6.10 Date e iscrizioni a corsi per istruzioni prima e fuori del servizio
+
+### 1.7 Dati relativi alle prestazioni
+
+- 1\.7.1 Risultati di test prestazionali sportivi e fisici
+- 1\.7.2 Risultati di tiro con fucile d’assalto e pistola
+- 1\.7.3 Dati di tiro
+- 1\.7.4 Invito ad assolvere il tiro obbligatorio
+- 1\.7.5 Adempimento del tiro obbligatorio (incluso foglio di stand)
+- 1\.7.6 Risultati del programma fitness, alimentazione e sport
+
+### 1.8 Servizi attuali e previsti
+
+- 1\.8.1 Totale dei giorni di servizio prestati
+- 1\.8.2 Totale dei giorni di servizio ancora da prestare
+- 1\.8.3 Chiamata in servizio militare, con relativi dettagli
+- 1\.8.4 Notificazioni di servizio
+- 1\.8.5 Informazioni relative all’entrata in servizio e al licenziamento
+- 1\.8.6 Avviso di servizio
+- 1\.8.7 Indirizzo militare
+- 1\.8.8 Informazioni e comunicazioni del comandante attuale e dell’unità attuale
+- 1\.8.9 Servizi assolti
+- 1\.8.10 Servizi registrati
+- 1\.8.11 Ordini di marcia
+- 1\.8.12 Domande di differimento del servizio e servizi differiti
+- 1\.8.13 Domande di congedo e fogli di congedo
+- 1\.8.14 Domande di congedo per l’estero e relative autorizzazioni
+- 1\.8.15 Conteggio dei giorni di servizio alla fine del servizio (approvazione da parte del militare)
+- 1\.8.16 Conferma di ricevimento del soldo
+- 1\.8.17 Richiesta di un’indennità di perdita di guadagno con tutti i dati necessari, quali il datore di lavoro o la situazione professionale nonché relativi al pagamento dell’indennità di perdita di guadagno
+- 1\.8.18 Versamento della tassa d’esenzione dall’obbligo militare
+- 1\.8.19 Domande di servizi volontari e relative autorizzazioni
+- 1\.8.20 Informazioni sul servizio (quali ordini del giorno, pianificazione settimanale, promemoria in caso d’emergenza, controllo dei tempi di riposo, possibilità di viaggiare, dispensa dal servizio d’appoggio e piano dei menu)
+
+### 1.9 Dati relativi al materiale
+
+- 1\.9.1 Equipaggiamento personale
+- 1\.9.2 Consegna, deposito e ritiro ordinario dell’equipaggiamento personale e dell’arma personale
+- 1\.9.3 Informazioni sul ritiro e la riconsegna di materiale, comprese le relative chiamate in servizio
+- 1\.9.4 Consegna, deposito e ritiro di altro materiale
+- 1\.9.5 Risultato dei controlli del materiale
+- 1\.9.6 Sostituzione, scambio o ritiro di materiale
+- 1\.9.7 Quote disponibili per il ritiro di materiale
+- 1\.9.8 Prescrizioni per vestiario su misura
+- 1\.9.9 Annuncio di perdita di materiale (compresa la perdita di armi)
+- 1\.9.10 Taglie delle scarpe e del vestiario
+- 1\.9.11 Numero dello strumento
+- 1\.9.12 Numero dell’arma personale o dell’arma in prestito
+- 1\.9.13 Ispezioni delle armi
+- 1\.9.14 Controllo delle armi
+- 1\.9.15 Informazioni sull’arma
+- 1\.9.16 Buoni
+- 1\.9.17 Informazioni sui punti di ristabilimento e sulla piattaforma online per ordinazioni di materiale
+- 1\.9.18 Armi militari cedute in proprietà
+
+### 1.10 Dati di legittimazione
+
+- 1\.10.1 Documenti di legittimazione, compresi il tipo e il numero di documento
+- 1\.10.2 Tessera d’identità militare
+- 1\.10.3 Dati d’identificazione
+- 1\.10.4 Numero di smartcard e numero della carta SD-PKI
+- 1\.10.5 Notifica di smarrimento di mezzi d’identità
+- 1\.10.6 Biglietto per i trasporti pubblici
+
+### 1.11 Richieste, proposte, iscrizioni e sondaggi
+
+- 1\.11.1 Documenti elettronici, corrispondenza
+- 1\.11.2 Richieste, proposte e iscrizioni inoltrate, compresi gli allegati
+- 1\.11.3 Stato delle richieste, proposte e iscrizioni
+- 1\.11.4 Decisioni sulle richieste, proposte e iscrizioni
+- 1\.11.5 Conto per i contributi per la formazione
+- 1\.11.6 Sondaggi e relativi dati
+- 1\.11.7 Blocco della comunicazione di dati secondo l’articolo 16 capoverso 4 LSIM
+
+### 1.12 Altri dati
+
+- 1\.12.1 Dati forniti o trasmessi volontariamente dalla persona interessata
+
+### 2 Dati delle persone soggette all’obbligo di prestare servizio di protezione civile
+
+### 2.1 Dati civili
+
+- 2\.1.1 Numero AVS
+- 2\.1.2 Cognome(i)
+- 2\.1.3 Nome(i)
+- 2\.1.4 Sesso
+- 2\.1.5 Data di nascita
+- 2\.1.6 Indirizzo
+- 2\.1.7 Indirizzo di parenti o indirizzo per i casi d’emergenza
+- 2\.1.8 Indirizzo e-mail
+- 2\.1.9 Numeri di telefono
+- 2\.1.10 Fotografia formato passaporto
+- 2\.1.11 Professione appresa e professione esercitata (funzione)
+- 2\.1.12 Datore di lavoro con indirizzo e dati di contatto
+- 2\.1.13 Relazione per i pagamenti
+- 2\.1.14 Formazione
+- 2\.1.15 e-ID
+- 2\.1.16 Luogo d’origine
+- 2\.1.17 Cantone d’origine
+- 2\.1.18 Lingua
+
+### 2.2 Dati relativi al reclutamento
+
+- 2\.2.1 Informazioni concernenti l’assolvimento della giornata informativa
+- 2\.2.2 Data desiderata per la giornata informativa
+- 2\.2.3 Data desiderata per il reclutamento
+- 2\.2.4 Data del reclutamento
+- 2\.2.5 Arma del reclutato
+- 2\.2.6 Funzione e seconda funzione (seconda attribuzione) del reclutato
+- 2\.2.7 Anno di reclutamento
+- 2\.2.8 Comandante del reclutamento con firma
+- 2\.2.9 Funzione desiderata
+- 2\.2.10 Dichiarazioni d’impegno
+
+### 2.3 Dati relativi al servizio
+
+- 2\.3.1 Statuto secondo la LPPC
+- 2\.3.2 Sospensione della chiamata ed esclusione dalla protezione civile
+- 2\.3.3 Formazione d’incorporazione con la data dell’incorporazione
+- 2\.3.4 Funzione nella protezione civile con la data dell’assunzione della funzione
+- 2\.3.5 Proroga dell’obbligo di prestare servizio di protezione civile conformemente all’articolo 31 LPPC
+- 2\.3.6 Esame attitudinale, esame dell’integrità e controlli di sicurezza relativi alle persone
+- 2\.3.7 Proposta d’avanzamento e di perfezionamento
+- 2\.3.8 Qualificazioni ricevute nonché valutazioni e raccomandazioni per una funzione di quadro
+- 2\.3.9 Esercizio di una funzione in sostituzione, conferimento di un comando o di una funzione ad interim
+- 2\.3.10 Statuto di specialista conformemente all’articolo 54 LPPC
+- 2\.3.11 Esenzione dal servizio secondo l’articolo 30 LPPC
+- 2\.3.12 Anno del proscioglimento
+
+### 2.4 Informazioni generali
+
+- 2\.4.1 Nome, cognome, grado, funzione, incorporazione, indirizzi e dati di contatto dei comandanti responsabili della persona interessata
+- 2\.4.2 Dati di contatto dei servizi della Confederazione e del Cantone competenti per la persona interessata
+- 2\.4.3 Dati sulla mobilitazione
+- 2\.4.4 Richieste e risposte (piattaforma sociale)
+- 2\.4.5 Informazioni su richieste, proposte e iscrizioni
+- 2\.4.6 Informazioni sull’obbligo di prestare servizio di protezione civile e sull’assicurazione militare
+- 2\.4.7 Informazioni sui diritti e doveri dei militi della protezione civile
+- 2\.4.8 Informazioni sui corsi prima del servizio e fuori del servizio
+- 2\.4.9 Informazioni sui corsi di perfezionamento della protezione civile
+
+### 2.5 Dati relativi all’idoneità
+
+- 2\.5.1 Decisioni concernenti l’idoneità
+- 2\.5.2 Profilo attitudinale
+- 2\.5.3 Attribuzione
+- 2\.5.4 Idoneità a esercitare determinate funzioni e funzioni speciali con esigenze più elevate
+- 2\.5.5 Informazioni e decisioni delle assicurazioni militari
+
+### 2.6 Dati relativi alla formazione
+
+- 2\.6.1 Conoscenze particolari acquisite nella vita civile (per es. lingue, formazioni particolari)
+- 2\.6.2 Istruzioni assolte durante il servizio, licenze di condurre e brevetti
+- 2\.6.3 Competenze acquisite
+- 2\.6.4 Distinzioni
+- 2\.6.5 Istruzioni specifiche della protezione civile
+- 2\.6.6 Istruzioni prima e fuori del servizio
+- 2\.6.7 Risultati di corsi fuori del servizio
+- 2\.6.8 Date e iscrizioni a corsi per istruzioni prima e fuori del servizio
+
+### 2.7 Servizi attuali e previsti
+
+- 2\.7.1 Totale dei giorni di servizio prestati
+- 2\.7.2 Totale dei giorni di servizio ancora da prestare
+- 2\.7.3 Chiamate per un servizio di protezione civile, con relativi dettagli
+- 2\.7.4 Notificazioni di servizio
+- 2\.7.5 Informazioni relative all’entrata in servizio e al licenziamento
+- 2\.7.6 Avviso di servizio
+- 2\.7.7 Indirizzo di protezione civile
+- 2\.7.8 Informazioni e comunicazioni del comandante attuale e dell’unità attuale
+- 2\.7.9 Servizi assolti
+- 2\.7.10 Servizi registrati
+- 2\.7.11 Ordini di marcia
+- 2\.7.12 Domande di differimento del servizio e servizi differiti
+- 2\.7.13 Domande di congedo e fogli di congedo
+- 2\.7.14 Domande di congedo per l’estero e relative autorizzazioni
+- 2\.7.15 Conteggio dei giorni di servizio alla fine del servizio (approvazione da parte del milite della protezione civile)
+- 2\.7.16 Conferma di ricevimento del soldo
+- 2\.7.17 Richiesta di un’indennità di perdita di guadagno con tutti i dati necessari, quali il datore di lavoro o la situazione professionale nonché relativi al pagamento dell’indennità di perdita di guadagno
+- 2\.7.18 Versamento della tassa d’esenzione dall’obbligo militare
+- 2\.7.19 Domande di servizi volontari e relative autorizzazioni
+- 2\.7.20 Informazioni sul servizio (quali ordini del giorno, pianificazione settimanale, promemoria in caso d’emergenza, controllo dei tempi di riposo, possibilità di viaggiare, dispensa dal servizio d’appoggio e piano dei menu)
+
+### 2.8 Dati relativi al materiale
+
+- 2\.8.1 Equipaggiamento personale
+- 2\.8.2 Consegna e ritiro ordinario dell’equipaggiamento personale
+- 2\.8.3 Informazioni sul ritiro e la riconsegna di materiale, comprese le relative chiamate in servizio
+- 2\.8.4 Consegna e ritiro di altro materiale
+- 2\.8.5 Risultato dei controlli del materiale
+- 2\.8.6 Sostituzione, scambio o ritiro di materiale
+- 2\.8.7 Quote disponibili per il ritiro di materiale
+- 2\.8.8 Prescrizioni per vestiario su misura
+- 2\.8.9 Annuncio di perdita di materiale
+- 2\.8.10 Taglie delle scarpe e del vestiario
+- 2\.8.11 Buoni
+- 2\.8.12 Informazioni sui punti di ristabilimento e sulla piattaforma online per ordinazioni di materiale
+
+### 2.9 Dati di legittimazione
+
+- 2\.9.1 Documenti di legittimazione, compresi il tipo e il numero di documento
+- 2\.9.2 Tessera d’identità della protezione civile
+- 2\.9.3 Dati d’identificazione
+- 2\.9.4 Numero della carta d’accesso
+- 2\.9.5 Notifica di smarrimento di mezzi d’identità
+- 2\.9.6 Biglietto per i trasporti pubblici
+
+### 2.10 Richieste, proposte, iscrizioni e sondaggi
+
+- 2\.10.1 Documenti elettronici, corrispondenza
+- 2\.10.2 Richieste, proposte e iscrizioni inoltrate, compresi gli allegati
+- 2\.10.3 Stato delle richieste, proposte e iscrizioni
+- 2\.10.4 Decisioni sulle richieste, proposte e iscrizioni
+- 2\.10.5 Sondaggi e relativi dati
+
+### 2.11 Altri dati
+
+- 2\.11.1 Dati forniti o trasmessi volontariamente dalla persona interessata
+
+Allegato 2[^t-5]
 
 (art. 6)
 
 ## Dati del MEDISA
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggionato dal n. II cpv. 2 dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+[^t-5]: Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggionato dal n. II cpv. 2 dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
 - 1\.
 
-  Dati personali:
+  Dati:
 
   - a. cognome;
   - b. nome;
   - c. indirizzo;
-  - d. numero AVS.
+  - d. numero AVS[^annex2-lvlu1-1].
 
 - 2\.
 
@@ -2056,123 +2511,11 @@ Allegato 2*[^t-3]*
 - 15\. Documenti relativi alle cure (in caso di soggiorno stazionario).
 - 16\. Dati sanitari rilevati dal SPP in relazione con l’accertamento psicologico dell’idoneità a prestare servizio militare.
 
-Allegato 3*[^t-4]*
+[^annex2-lvlu1-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
 
-(art. 8)
+Allegato 3[^t-6]
 
-## Dati dell’ITR
-
-[^t-4]: Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-
-Dati personali:
-
-- 1\. Cognome
-- 2\. Nome
-- 3\. Numero AVS
-- 4\. Data di nascita
-- 5\. Lingua madre
-- 6\. Indirizzo
-- 7\. Professione
-- 8\. Luogo d’origine
-- 9\. Indicazioni per i casi d’emergenza
-
-Dati specifici al reclutamento:
-
-- 10\.
-
-  Dati organizzativi quali:
-
-  - a. cicli di reclutamento e cicli d’esercizio;
-  - b. caratteristiche per il raggruppamento automatico;
-  - c. numeri di gruppo e numeri progressivi.
-
-- 11\. Autorità o organo incaricato della chiamata (Cantone, formazione d’addestramento, centro di competenza).
-- 12\. Zona di reclutamento e circondario di reclutamento.
-- 13\. Data del reclutamento, luogo di reclutamento e momento dell’entrata in servizio.
-- 14\. Durata del reclutamento/dell’accertamento.
-- 15\. Stato del partecipante in relazione con un ciclo d’esercizio (preavviso allestito/aggiornato/concluso, avviso di servizio/chiamata in servizio stampato(a)/spedito(a), chiamato, dispensato, entrato in servizio/non entrato in servizio, proscioglimento regolare/amministrativo alla visita sanitaria d’entrata [VSE]).
-- 16\. Annotazioni di servizio correlate al reclutamento e all’attribuzione nonché codici del controllo dell’obbligo di prestare servizio.
-- 17\. Dati necessari per l’attribuzione e concernenti i contingenti delle scuole e i contingenti cantonali.
-- 18\. Dati statistici costituiti dagli indicatori di un ciclo di reclutamento, all’attenzione dei servizi competenti presso la Confederazione e i Cantoni.
-
-Dati rilevati mediante esami, test e questionari:
-
-- 19\.
-
-  Stato di salute:
-
-  - a. anamnesi, con il risultato (stato, misure del corpo comprese [altezza, peso, indice di massa corporea, circonferenza addominale]);
-  - b. elettrocardiogramma;
-  - c. funzione polmonare, compreso il test riuscito per il porto di apparecchi di protezione delle vie respiratorie;
-  - d. udito;
-  - e. vista, compresi daltonismo, ambliopia, cecità notturna e mezzi visivi ausiliari;
-  - f. test d’intelligenza;
-  - g. test di comprensione di testi;
-  - h. questionario per l’individuazione di malattie psichiche nonché attuali pressioni e risorse psichiche;
-  - i. esami di laboratorio facoltativi (quadro ematologico e vaccinazioni).
-
-- 20\. Attitudini fisiche: condizione fisica, considerata nelle sue componenti di resistenza, forza, velocità, nonché capacità di coordinazione.
-- 21\. Attitudini intellettuali e personalità: attitudini intellettuali generali, capacità di risolvere problemi, capacità di concentrazione e d’attenzione, flessibilità, scrupolosità e autoconsapevolezza, nonché predisposizione all’azione.
-- 22\. Stato psichico: assenza di disturbi ansiosi, autoconsapevolezza, resistenza allo stress, stabilità emotiva e capacità di socializzare.
-- 23\. Competenza sociale: comportamento e sensibilità nella società, nella comunità e nel gruppo.
-- 24\.
-
-  Limitazioni della salute, nella misura in cui sono rilevanti ai fini della funzione:
-
-  - a. marciare, portare o sollevare pesi;
-  - b. disturbi ai ginocchi/ai piedi;
-  - c. problemi alle vie respiratorie;
-  - d. problemi alla pelle/allergie;
-  - e. claustrofobia.
-
-- 25\. Idoneità medica.
-- 26\. Idoneità a esercitare determinate funzioni: esami attitudinali specifici per quanto tale idoneità non risulti dal profilo attitudinale secondo i numeri 19–23 del presente allegato.
-- 27\. Risultati dell’esame d’idoneità per conducenti (test A e B).
-- 28\.
-
-  Potenziale di base per funzioni di quadro: potenziale per un impiego come sottufficiale, sottufficiale superiore o ufficiale nonché dati necessari per il rilevamento del potenziale quali:
-
-  - a. motivazione alla condotta;
-  - b. capacità cognitive;
-  - c. competenza personale: motivazione a fornire prestazioni, resistenza allo stress, scrupolosità, autonomia, capacità di persuasione;
-  - d. competenza sociale: comportamento sociale, comportamento in situazioni conflittuali, estroversione, compiacenza/maniere concilianti, spirito di gruppo;
-  - e. caratteristiche supplementari: integrità, instabilità;
-  - f. valutazione dell’esercizio di presentazione
-
-- 29\. Interesse personale a determinate attività rilevanti ai fini della funzione e all’esercizio di determinate funzioni militari (comprese le indicazioni risultanti dal questionario «Inventario degli interessi»).
-- 30\. Abitudini sportive quotidiane.
-- 31\. Conoscenze della grammatica inglese (per il personale previsto per il promovimento della pace).
-- 32\. Rischio potenziale di abuso dell’arma personale (compreso il risultato e lo stato dell’analisi dei rischi/del controllo di sicurezza relativo alle persone al momento dell’attribuzione).
-- 33\.
-
-  Ulteriori dati forniti dalla persona interessata (per mezzo del «foglio rosa»):
-
-  - a. formazione professionale e scolastica;
-  - b. formazione preliminare (corsi e conoscenze prima del servizio);
-  - c. conoscenze linguistiche;
-  - d. portatore di occhiali o lenti a contatto;
-  - e. mancino, occhio di mira sinistro;
-  - f. licenza di condurre, desideri personali per quanto concerne la funzione di conducente;
-  - g. desideri personali per quanto concerne l’attribuzione;
-  - h. desideri personali per quanto concerne il servizio militare, per es. interesse a un avanzamento militare, alla prestazione del servizio militare come militare in ferma continuata o a un servizio non armato;
-  - i. data desiderata per l’inizio della scuola reclute.
-
-Dati relativi all’attribuzione:
-
-- 34\.
-
-  Dati relativi all’attribuzione concernenti le persone idonee al servizio militare, comprendenti:
-
-  - a. l’Arma, la funzione, la scuola e la data dell’inizio della scuola in occasione della prima attribuzione;
-  - b. ove opportuno, l’Arma e la funzione in occasione della seconda attribuzione;
-  - c. i previsti impieghi speciali del militare.
-
-- 35\.
-
-  Dati relativi all’attribuzione concernenti le persone abili al servizio di protezione civile, comprendenti:
-
-  - a. la funzione;
-  - b. la durata, il luogo e la data della manifestazione.
+[^t-6]: Abrogato dal n. III cpv. 4 dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 Allegato 4
 
@@ -2180,7 +2523,7 @@ Allegato 4
 
 ## Dati degli ISPE
 
-- 1\. Dati personali
+- 1\. Dati
 - 2\. Genere di visita medica
 - 3\. Diagnosi
 - 4\. Decisione concernente il luogo di cura
@@ -2188,39 +2531,17 @@ Allegato 4
 - 6\. Decisioni concernenti dispense
 - 7\. Esami effettuati
 
-Allegato 5
+Allegato 5[^t-7]
 
-(art. 10)
+[^t-7]: Abrogato dal n. III cpv. 4 dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-## Dati della Banca dati di documentazione dei casi SPP
-
-- 1\. Cognome
-- 2\. Nome
-- 3\. Indirizzo
-- 4\. Data di nascita
-- 5\. Numero AVS
-- 6\. Incorporazione
-- 7\. Grado
-- 8\. Funzione
-- 9\. Istruzione nell’esercito
-- 10\. Luogo di lavoro
-- 11\. Formazione
-- 12\. Professione
-- 13\. Famiglia
-- 14\. Dati sanitari di carattere psicologico o psichiatrico
-- 15\. Situazione finanziaria
-- 16\. Conoscenze linguistiche
-- 17\. Risultati di test psicologici
-- 18\. Situazione attuale nella scuola reclute
-- 19\. Scuole
-
-Allegato 5a*[^t-5]*
+Allegato 5a[^t-8]
 
 (art. 10*a*)
 
 ## Dati del MEDIS FA
 
-[^t-5]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-8]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 - 1\. Cognome
 - 2\. Nome
@@ -2239,13 +2560,13 @@ Allegato 5a*[^t-5]*
 - 15\. Indicazioni concernenti misure di medicina e psicologia aeronautiche adottate
 - 16\. Decisioni in merito all’incorporazione nonché in merito all’idoneità al volo e al lancio con il paracadute
 
-Allegato 6*[^t-6]*
+Allegato 6[^t-9]
 
 (art. 11)
 
-## Dati dell’EAAD
+## Dati del SIPI CFS
 
-[^t-6]: Aggiornato dal n. II cpv. 1 dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-9]: Aggiornato dal n. II cpv. 1 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)) e III cpv. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Cognome
 - 2\. Nome
@@ -2265,18 +2586,16 @@ Allegato 6*[^t-6]*
 - 16\. Dati concernenti l’esecuzione e i risultati dei controlli di sicurezza relativi alle persone
 - 17\. Dati di cui agli articoli 27 e 28 della legge del 24 marzo 2000[^annex6-lvlu1-1] sul personale federale
 
-### In
+Complemento in caso d’impiego presso il distaccamento d’esplorazione dell’esercito 10 (DEE 10), il distaccamento speciale della polizia militare o lo stato maggiore del comando forze speciali (CFS):
 
-[^annex6-lvlu1-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-
-via supplementare, in caso di assunzione:
-
-- 18\. Indicazioni concernenti il rapporto di lavoro, segnatamente il contratto di lavoro
+- 18\. Indicazioni concernenti il rapporto di lavoro, segnatamente il contratto di lavoro, compresi eventuali aggiunte come contratti di impiego
 - 19\. Luogo di lavoro
-- 20\. Dati relativi alla prontezza di base per impieghi all’estero (stato di vaccinazione, gruppo sanguigno) e necessari per l’adempimento dei compiti
-- 21\. Dati relativi all’impiego, segnatamente la partecipazione a impieghi all’estero, corsi e servizi comandati all’estero
+- 20\. Dati relativi alla prontezza di base per impieghi (stato di vaccinazione, gruppo sanguigno ecc.) e necessari per l’adempimento dei compiti
+- 21\. Dati relativi all’impiego, segnatamente la partecipazione a impieghi, corsi e servizi comandati all’estero
 - 22\. Dati relativi ai brevetti ottenuti e alle istruzioni assolte, con data, risultato e data di scadenza
 - 23\. Dati per il servizio dei morti e dei dispersi
+
+[^annex6-lvlu1-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 ### Dati rilevati previo consenso della persona interessata
 
@@ -2289,13 +2608,13 @@ via supplementare, in caso di assunzione:
 - 30\. Dati della pianificazione delle carriere e delle successioni
 - 31\. Ulteriori dati forniti volontariamente dalla persona interessata
 
-Allegato 7*[^t-7]*
+Allegato 7[^t-10]
 
 (art. 12)
 
 ## Dati dell’ISB
 
-[^t-7]: Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-10]: Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. III cpv. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Cognome
 - 2\. Nome
@@ -2316,7 +2635,7 @@ Allegato 7*[^t-7]*
 - 17\. Indicazioni sulla formazione e sul diploma di fine tirocinio
 - 18\. Datore di lavoro attuale e precedente
 - 19\. Indicazioni sullo stato civile
-- 20\. Partner/coniuge (cognome, nome)
+- 20\. Cognome e nome del coniuge o del partner
 - 21\. Figli (cognome, nome, data di nascita)
 - 22\. Indicazioni sull’eventuale condivisione di un appartamento
 - 23\. Genitori (cognomi, nomi, attività professionale, indirizzo, stato civile)
@@ -2334,15 +2653,15 @@ Allegato 7*[^t-7]*
 - 35\. Assegno pagabile in contanti emesso (importo, data di emissione)
 - 36\. Ulteriori dati forniti volontariamente dalla persona interessata
 
-Allegato 8*[^t-8]*
+Allegato 8[^t-11]
 
 (art. 13)
 
 ## Dati dell’IPV
 
-[^t-8]: Aggiornato dal n. II cpv. 1 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)) e dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-11]: Aggiornato dal n. II cpv. 1 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)) e dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-- 1\. Dati personali
+- 1\. Dati
 - 2\. Dati concernenti il rapporto di lavoro, il luogo di lavoro, la categoria di personale e la valutazione della funzione
 - 3\. Dati concernenti l’incorporazione, il grado, la funzione, l’istruzione, le qualificazioni e l’equipaggiamento nell’esercito e nella protezione civile
 - 4\. Dati concernenti l’impiego nell’esercito e nella protezione civile
@@ -2356,13 +2675,13 @@ Allegato 8*[^t-8]*
 - 12\. Dati relativi all’organizzazione dell’Aggruppamento Difesa e al piano dei posti in organico
 - 13\. Interessi professionali nonché relativi alla formazione e al perfezionamento
 
-Allegato 9*[^t-9]*
+Allegato 9[^t-12]
 
 (art. 14)
 
 ## Dati del PERAUS
 
-[^t-9]: Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-12]: Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. III cpv. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Risultati del reclutamento per il servizio di promovimento della pace
 - 2\. Incorporazione, grado, funzione, istruzione e qualificazioni nell’esercito e nella protezione civile
@@ -2370,6 +2689,7 @@ Allegato 9*[^t-9]*
 - 4\. Dati medici e psicologici sullo stato di salute
 - 5\. Risultati di esami medico-tecnici e di test medico-psicologici
 - 6\. Altri dati concernenti lo stato di salute fisico o mentale della persona sottoposta all’apprezzamento o in cura
+- 6a. Dati relativi all’idoneità di base per impieghi all’estero (stato di vaccinazione ecc.) e necessari per l’invio
 - 7\. Numero di passaporto
 - 8\. Carriera professionale e militare
 - 9\. Indicazioni concernenti il rapporto di lavoro, segnatamente il contratto di lavoro, la descrizione del posto o decisioni fondate su una valutazione del personale
@@ -2388,16 +2708,21 @@ Allegato 9*[^t-9]*
 - 22\. Numero AVS
 - 23\. Indirizzo di domicilio
 - 24\. Indirizzi per i casi d’emergenza
+- 25\. Ubicazione del libretto di servizio
+- 26\. Appunti
+- 27\. Distintivi di missioni all’estero
+- 28\. Indicazioni concernenti l’assicurazione militare (numero di riferimento dell’assicurazione militare, data di scadenza e durata dell’incapacità al lavoro)
+- 29\. Periodo e contributi alla cassa pensioni
 
 [^annex9-lvlu1-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
-Allegato 10*[^t-10]*
+Allegato 10[^t-13]
 
 (art. 16)
 
 ## Dati dell’OpenRID
 
-[^t-10]: Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-13]: Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 - 1\. Indicazioni sul partecipante al viaggio (grado, cognome, nome, indirizzo, data di nascita, luogo di nascita, luogo d’origine, possibilità di contatto private)
 - 2\. Indirizzo per i casi d’emergenza/persona da contattare in caso d’emergenza
@@ -2416,22 +2741,9 @@ Allegato 10*[^t-10]*
 - 15\. Vestiario (uniforme, abiti civili)
 - 16\. Resoconto di viaggio
 
-Allegato 11
+Allegato 11[^t-14]
 
-(art. 21)
-
-## Dati dell’IHMR
-
-- 1\. Dati tratti dal curriculum vitae e non degni di particolare protezione
-- 2\. Cognome
-- 3\. Nome
-- 4\. Grado
-- 5\. Data di nascita
-- 6\. Incorporazione
-- 7\. Scuola
-- 8\. Conoscenze linguistiche
-- 9\. Perfezionamento civile
-- 10\. Perfezionamento militare
+[^t-14]: Abrogato dal n. III cpv. 4 dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 Allegato 12
 
@@ -2458,7 +2770,7 @@ Allegato 13
 
 ## Dati dell’IPont
 
-- 1\. Dati personali
+- 1\. Dati
 - 2\. Indirizzo
 - 3\. Numero telefonico
 - 4\. Nazionalità e luogo d’origine
@@ -2466,15 +2778,15 @@ Allegato 13
 - 6\. Corso per pontonieri
 - 7\. Indennità
 - 8\. Idoneità al servizio militare (sì/no)
-- 9\. Dati personali, indirizzi, numeri telefonici e numeri AVS degli ispettori per gli esami attitudinali
+- 9\. Dati, indirizzi, numeri telefonici e numeri AVS degli ispettori per gli esami attitudinali
 
-Allegato 13a*[^t-11]*
+Allegato 13a[^t-15]
 
 (art. 34*c*)
 
 ## Dati dell’HYDRA
 
-[^t-11]: Introdotto dal n. II dell’all. 4 all’O del 26 ott. 2011 sulla protezione dei dati personali del personale federale ([RU 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786)). Nuovo testo giusta il n. II cpv. 1 dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-15]: Introdotto dal n. II dell’all. 4 all’O del 26 ott. 2011 sulla protezione dei dati personali del personale federale ([RU 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786)). Nuovo testo giusta il n. II cpv. 1 dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
 - 1\. Cognome
 - 2\. Nome
@@ -2530,19 +2842,19 @@ Allegato 14
 
 [^annex14-lvlu1-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
-Allegato 15*[^t-12]*
+Allegato 15[^t-16]
 
-[^t-12]: Abrogato dal n. II cpv. 2 dell’O del 26 giu. 2013, con effetto dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-16]: Abrogato dal n. II cpv. 2 dell’O del 26 giu. 2013, con effetto dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
-Allegato 16*[^t-13]*
+Allegato 16[^t-17]
 
 (art. 37)
 
 ## Dati del MIL Office
 
-[^t-13]: Aggiornato dal n. II cpv. 1 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)) e dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-17]: Aggiornato dal n. II cpv. 1 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)) e dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-- 1\. Dati personali (cognome, nome, indirizzo, indirizzo per i casi d’emergenza, dati di contatto ecc.)
+- 1\. Dati (cognome, nome, indirizzo, indirizzo per i casi d’emergenza, dati di contatto ecc.)
 - 2\. Incorporazione
 - 3\. Grado
 - 4\. Funzione
@@ -2556,13 +2868,13 @@ Allegato 16*[^t-13]*
 - 12\. Dati sull’amministrazione e l’attribuzione di materiale dell’esercito a livello d’unità
 - [tab]
 
-Allegato 17*[^t-14]*
+Allegato 17[^t-18]
 
 (art. 38 cpv. 1)
 
 ## Dati dell’ISKM
 
-[^t-14]: Nuovo testo giusta il n. II cpv. 2 dell’O del 10 giu. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-18]: Nuovo testo giusta il n. II cpv. 2 dell’O del 10 giu. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 - 1\. Nome e cognome\*
 - 2\. Numero personale\*
@@ -2622,17 +2934,17 @@ Allegato 17*[^t-14]*
 - 53\. Foto formato passaporto digitalizzata
 - \* dati estratti dal SIGDP
 
-Allegato 18*[^t-15]*
+Allegato 18[^t-19]
 
-[^t-15]: Abrogato dal n. II cpv. 2 dell’O del 26 giu. 2013, con effetto dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-19]: Abrogato dal n. II cpv. 2 dell’O del 26 giu. 2013, con effetto dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
-Allegato 19*[^t-16]*
+Allegato 19[^t-20]
 
 (art. 40)
 
 ## Dati del FIS FT
 
-[^t-16]: Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-20]: Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 - 1\. Cognome
 - 2\. Nome
@@ -2649,23 +2961,39 @@ Allegato 19*[^t-16]*
 - 13\. Dati del Sistema d’informazione per la condotta dei militari (IMESS)
 - 14\. Ulteriori dati forniti volontariamente dalla persona interessata
 
-Allegato 20
+Allegato 20[^t-21]
 
 (art. 41)
 
 ## Dati del FIS FA
 
+[^t-21]: Nuovo testo giusta il n. III cpv. 2 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
 - 1\. Cognome
 - 2\. Nome
 - 3\. Indirizzo
-- 4\. Numero AVS
-- 5\. Sesso
-- 6\. Incorporazione
-- 7\. Grado
-- 8\. Funzione
-- 9\. Istruzione
-- 10\. Numero di passaporto
-- 11\. Dati forniti dalla persona interessata
+- 4\. Numero di telefono
+- 5\. Indirizzo e-mail
+- 6\. Numero AVS, numero d’assicurazione sociale all’estero
+- 7\. Numero personale della Confederazione
+- 8\. Numero degli effetti
+- 9\. Sesso
+- 10\. Incorporazione
+- 11\. Grado
+- 12\. Funzione
+- 13\. Istruzione
+- 14\. Numero, data di rilascio e data di scadenza del documento di legittimazione ufficiale (passaporto, carta d’identità ecc.)
+- 15\. Informazioni per l’ingresso e l’uscita transfrontalieri e lo sdoganamento
+- 16\. Informazioni sul volo, tra cui la data, l’ora e il luogo di partenza e di atterraggio, nonché le indicazioni sull’aereo impiegato
+- 17\. Rotta
+- 18\. Luogo di soggiorno, coordinate
+- 19\. Volume degli effetti di volo
+- 20\. Peso corporeo
+- 21\. Dati sanitari rilevanti per l’impiego
+- 22\. Ruolo e compiti assunti nella pianificazione dei voli, nelle attività prima del volo e dopo il volo, nell’esecuzione e nella verbalizzazione di un volo
+- 23\. Prestazioni fornite in relazione a un volo o a favore delle persone a bordo o che partecipano alle operazioni di volo
+- 24\. Prestazioni di cui si usufruisce in veste di persona a bordo o che partecipa alle operazioni di volo
+- 25\. Dati forniti volontariamente dalla persona interessata
 
 Allegato 21
 
@@ -2686,60 +3014,25 @@ Allegato 21
 - 11\. Profili attitudinali
 - 12\. Dati concernenti gli impieghi tattici e relative immagini
 
-Allegato 21a*[^t-17]*
+Allegato 21a[^t-22]
 
-[^t-17]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogato dal n. II cpv. 5 dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-22]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogato dal n. II cpv. 5 dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-Allegato 22*[^t-18]*
+Allegato 22[^t-23]
 
-[^t-18]: Abrogato dal n. II cpv. 2 dell’O del 6 lug. 2011, con effetto dal 1° ago. 2011 ([RU 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)).
+[^t-23]: Abrogato dal n. II cpv. 2 dell’O del 6 lug. 2011, con effetto dal 1° ago. 2011 ([RU 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)).
 
-Allegato 23
+Allegato 23[^t-24]
 
-(art. 49)
+[^t-24]: Abrogato dal n. III cpv. 4 dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-## Dati dell’AIS
-
-- 1\. Cognome
-- 2\. Nome
-- 3\. Iniziali
-- 4\. Indirizzo e-mail
-- 5\. Numero personale
-- 6\. Funzione
-- 7\. Appellativo/titolo
-- 8\. Gruppo di utenti
-- 9\. Tipo di utente
-- 10\. Ufficio
-- 11\. Numeri telefonici
-- 12\. Fax
-- 13\. Pager
-- 14\. Indirizzo
-- 15\. Unità amministrativa, primo livello
-- 16\. Unità amministrativa(e), secondo e terzo livello
-- 17\. Paese
-- 18\. Stato
-- 19\. Statuto di utente
-- 20\. Numero AVS
-- 21\. Risorse (autorizzazioni d’accesso ad archivi di dati e ad applicazioni comuni)
-- 22\. Certificati pubblici
-- 23\. Amministratore
-- 24\. Numeri degli apparecchi personali
-- 25\. Ubicazione di rete
-- 26\. Collocazione dell’elenco personale
-- 27\. Data di nascita
-- 28\. Durata di validità del conto
-- 29\. Data dell’ultimo log in
-- 30\. Numero di log in eseguiti
-- 31\. Data dell’ultima modifica della password
-- 32\. Password
-
-Allegato 23a*[^t-19]*
+Allegato 23a[^t-25]
 
 (art. 52*b*)
 
 ## Dati del PEGASUS
 
-[^t-19]: Introdotto dal n. II cpv. 1 dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+[^t-25]: Introdotto dal n. II cpv. 1 dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
 - 1\. Cognome
 - 2\. Nome
@@ -2781,28 +3074,53 @@ Allegato 23a*[^t-19]*
 
 [^annex23a-lvlu1-1]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
 
-Allegato 24
+Allegato 23b[^t-26]
 
-(art. 54)
+(art. 52*g*)
 
-## Dati del SD-PKI
+## Dati del ComMil
+
+[^t-26]: Introdotto dal n. III cpv. 1 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Cognome
 - 2\. Nome
-- 3\. Indirizzo e-mail
-- 4\. Numero personale
-- 5\. Numero AVS
-- 6\. Indirizzo
-- 7\. Unità amministrativa
-- 8\. Certificati
+- 3\. Indirizzi
+- 4\. Domicilio, luogo di soggiorno, luogo di lavoro, luogo di servizio
+- 5\. Numeri di telefono
+- 6\. Numeri di fax
+- 7\. Indirizzi e-mail
+- 8\. Numeri e indirizzi di contatto nel sistema di comunicazione
+- 9\. Numero del posto in organico
+- 10\. Identificativi personali locali
+- 11\. Numero AVS, numero d’assicurazione sociale all’estero
+- 12\. Datore di lavoro
+- 13\. Numero personale della Confederazione
+- 14\. Numero del documento d’identità
+- 15\. Numero di smartcard
+- 16\. Sesso
+- 17\. Lingua
+- 18\. Incorporazione, unità, formazione
+- 19\. Presta servizio presso
+- 20\. Servizio dal/al
+- 21\. Grado con complemento di grado
+- 22\. Funzione
+- 23\. Supplenza (supplente di, rappresentato da)
+- 24\. Ambiti fondamentali di condotta
+- 25\. Gruppi di utenti
+- 26\. Dati forniti volontariamente dalla persona interessata
+- 27\. Autorizzazioni e ruolo di autorizzazione nel sistema di comunicazione
 
-Allegato 24a*[^t-20]*
+Allegato 24[^t-27]
+
+[^t-27]: Abrogato dal n. III cpv. 4 dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+Allegato 24a[^t-28]
 
 (art. 57*b*)
 
 ## Dati del MDS
 
-[^t-20]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-28]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 - 1\. Cognome
 - 2\. Nome
@@ -2813,13 +3131,13 @@ Allegato 24a*[^t-20]*
 - 7\. Annunci dosimetrici (valori di dose, status del dosimetro)
 - 8\. Valori di allerta e valori limite
 
-Allegato 25*[^t-21]*
+Allegato 25[^t-29]
 
 (art. 58)
 
 ## Dati dei sistemi d’informazione per i simulatori
 
-[^t-21]: Aggiornato dal n. II cpv. 1 dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-29]: Aggiornato dal n. II cpv. 1 dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
 - 1\. Cognome
 - 2\. Nome
@@ -2834,15 +3152,16 @@ Allegato 25*[^t-21]*
 - 11\. Dati concernenti le istruzioni assolte ai simulatori e i relativi risultati
 - 12\. Immagini e filmati
 
-Allegato 26*[^t-22]*
+Allegato 26[^t-30]
 
 (art. 59)
 
 ## Dati del LMS DDPS
 
-[^t-22]: Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. II cpv. 2 dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+[^t-30]: Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. II cpv. 2 dell’O del 20 mag. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)) e dal n. III cpv. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-- 1\. Numero AVS
+- 1\. Numero AVS\*
+- 1a. Numero d’assicurazione sociale all’estero
 - 2\. Numero personale\*
 - 3\. Cognome\*
 - 4\. Nome\*
@@ -2891,29 +3210,60 @@ Allegato 27
 - 7\. Settore d’impiego
 - 8\. Dati concernenti l’assolvimento dell’istruzione e del perfezionamento
 
-Allegato 28
+Allegato 28[^t-31]
 
 (art. 61)
 
-## Dati del MIFA
+## Dati del SI CSNE
+
+[^t-31]: Nuovo testo giusta il n. III cpv. 2 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Cognome
 - 2\. Nome
 - 3\. Indirizzo
-- 4\. Numero AVS
-- 5\. Istruzione
+- 4 Numero AVS
+- 5\. Formazione
 - 6\. Professione
 - 7\. Luogo d’origine
-- 8\. Lingua materna
-- 9\. Categorie di autorizzazione a condurre
+- 8\. Nazionalità
+- 9\. Lingua materna
+- 10\. Data di nascita
+- 11\. Sesso
+- 12\. Categorie delle autorizzazioni a condurre militari per conducenti di veicoli e di natanti e licenze di condurre natanti federali
+- 13\. Categorie delle licenze di condurre civili e le relative condizioni
+- 14\. Categorie d’esami degli esperti militari della circolazione per i conducenti di veicoli e natanti
+- 15\. Istruzioni complementari
+- 16\. Grado
+- 17\. Funzione
+- 18\. Incorporazione
+- 19\. Unità organizzativa
+- 20\. Servizio
+- 21\. Luogo di lavoro
+- 22\. Categoria di personale
+- 23\. Numero d’identificazione personale
+- 24\. Informazione sull’ultima e sulla prossima visita di controllo
+- 25\. Risultati della visita di controllo
+- 26\. Informazioni sui mezzi visivi ausiliari
+- 27\. Informazioni sugli esami attitudinali
+- 28\.
 
-Allegato 28a*[^t-23]*
+  Misure amministrative militari e civili, in particolare:
+
+  - a. tipo di misura
+  - b. motivo
+  - c. durata della revoca
+  - d. organo decisionale
+  - e. organo di registrazione
+
+- 29\. Data di entrata e di uscita Amministrazione federale
+
+Allegato 28a[^t-32]
 
 (art. 61*a*)
 
 ## Dati del sistema SPHAIR Expert
 
-[^t-23]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-32]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 - 1\. Generalità, indirizzo e stato civile
 - 2\. Indirizzo e-mail
@@ -2928,21 +3278,24 @@ Allegato 28a*[^t-23]*
 - 11\. Indicazioni concernenti la taglia del vestiario
 - 12\. Numeri telefonici (privato/cellulare)
 
-Allegato 29*[^t-24]*
+Allegato 29[^t-33]
 
 (art. 63)
 
-## Dati dell’ISFA
+## Dati del SIFC
 
-[^t-24]: Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-33]: Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)) e dal n. III cpv. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Indirizzo militare
+- 1a. Servizi prestati nell’esercito
 - 2\. Inizio del servizio
 - 3\. Fine del servizio
 - 4\. Numero di candidato
 - 5\. Numero AVS
 - 6\. Sesso
 - 7\. Grado
+- 7a. Incorporazione
+- 7b. Funzione
 - 8\. Cognome
 - 9\. Nome
 - 10\. Indirizzo di residenza
@@ -2950,26 +3303,30 @@ Allegato 29*[^t-24]*
 - 12\. Luogo d’origine
 - 13\. Cantone d’origine
 - 14\. Data di nascita
+- 14a. Dati relativi all’istruzione e agli esami
+- 14b. Dati per il controllo dell’istruzione
+- 14c. Risultati dell’istruzione e progressi
 - 15\. Lingua d’esame
-- 16\. Indicazioni concernenti l’esame (data, ora, luogo, esperti)
-- 17\. Prestazioni proprie (data della consegna, formalmente adempiuto/formalmente non adempiuto)
-- 18\. Risultati dell’esame per ogni modulo (fornito/non fornito/candidato assente)
+- 16\. Indicazioni concernenti l’esame (data, ora, luogo, esperto ecc.)
+- 17\. Prestazioni proprie (data della consegna, risultato)
+- 17a. Partecipazione all’esame (ha partecipato/non ha partecipato, motivo dell’assenza)
+- 18\. Risultati dell’esame, risultati per ogni modulo
 
-Allegato 29a*[^t-25]*
+Allegato 29a[^t-34]
 
-[^t-25]: Introdotto dal n. II cpv. 3 dell’O del 6 lug. 2011 ([RU 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Abrogato dal n. II cpv. 5 dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-34]: Introdotto dal n. II cpv. 3 dell’O del 6 lug. 2011 ([RU 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Abrogato dal n. II cpv. 5 dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-Allegato 29b*[^t-26]*
+Allegato 29b[^t-35]
 
-[^t-26]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogato dal n. II cpv. 5 dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-35]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogato dal n. II cpv. 5 dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-Allegato 30*[^t-27]*
+Allegato 30[^t-36]
 
 (art. 67)
 
 ## Dati del sistema SIBAD
 
-[^t-27]: Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-36]: Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 - 1\. Cognome
 - 2\. Nome
@@ -2994,15 +3351,15 @@ Allegato 30*[^t-27]*
 
 [^annex30-lvlu1-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 
-Allegato 31*[^t-28]*
+Allegato 31[^t-37]
 
 (art. 68)
 
 ## Dati dell’ISKO
 
-[^t-28]: Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-37]: Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. III cpv. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-### Dati personali (acquisiti a partire dal sistema SIBAD)
+### Dati delle persone fisiche (acquisiti a partire dal sistema SIBAD)
 
 - 1\. Cognome
 - 2\. Nome
@@ -3089,15 +3446,15 @@ Allegato 32
 - 9\. Numero di passaporto
 - 10\. Decisione concernente il controllo di sicurezza relativo alle persone
 
-Allegato 33*[^t-29]*
+Allegato 33[^t-38]
 
 (art. 70)
 
 ## Dati del sistema ZUKO
 
-[^t-29]: Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-38]: Aggiornato dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-### Dati personali di base
+### Dati di base
 
 - 1\. Cognome
 - 2\. Nome
@@ -3116,7 +3473,7 @@ Allegato 33*[^t-29]*
 - 14a. Firma
 - 14b. Lingua
 
-### Dati personali di base ZUKO
+### Dati di base ZUKO
 
 - 15\. Numero della persona
 - 16\. Numero del documento di legittimazione
@@ -3129,11 +3486,11 @@ Allegato 33*[^t-29]*
 - 22a. Testo per la tessera di legittimazione (compito, autorizzazione)
 - 23\. Amministrazione dei record di dati di base
 
-### Dati personali di base ZUKO concernenti i diritti
+### Dati di base ZUKO concernenti i diritti
 
 - 24\. Diritto d’accesso
 
-### Dati personali di base ZUKO concernenti le autorizzazioni
+### Dati di base ZUKO concernenti le autorizzazioni
 
 - 25\. Autorizzazione d’accesso
 - 26\. Impianto(i) oggetto dell’autorizzazione
@@ -3158,45 +3515,115 @@ Allegato 33*[^t-29]*
 
 - 34\. Dati di log dei sistemi (protocolli di tutte le operazioni, mutazioni, modifiche di stato ecc.)
 
-Allegato 33<sup>bis</sup> *[^t-30]*
+Allegato 33<sup>bis</sup> [^t-39]
 
 (art. 70<sup>bis</sup>)
 
 ## Dati del sistema JORASYS
 
-[^t-30]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-39]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nuovo testo giusta il n. III cpv. 2 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 Dati di persone soggette al diritto penale militare nonché di terzi
 
 - 1\. Cognome, nome
-- 2\. Numero AVS
-- 3\. Data e luogo di nascita
-- 4\. Luogo d’origine
-- 5\. Nazionalità e statuto di dimora
-- 6\. Stato civile
-- 7\. Professione, funzione e datore di lavoro
-- 8\. Rappresentante legale, generalità del rappresentante legale
-- 9\. Tipo di documento d’identità e numero
-- 10\. Generalità di terzi partecipanti al procedimento (persone informate sui fatti)
-- 11\. Targa del veicolo, cognome, nome e indirizzo del detentore del veicolo nonché assicurazione del veicolo
+- 2\. Pseudonimi
+- 3\. Sesso
+- 4\. Numero AVS
+- 5\. Data e luogo di nascita
+- 6\. Indirizzo
+- 7\. Luogo d’origine
+- 8\. Nazionalità e statuto di dimora
+- 9\. Stato civile
+- 10\. Lingua
+- 11\. Professione, funzione e datore di lavoro
+- 12\. Formazione, professione appresa
+- 13\. Etnia, se pertinente al caso
+- 14\. Religione, se pertinente al caso
+- 15\. Orientamento politico e ideologico, se pertinente al caso
+- 16\. Rappresentante legale, generalità del rappresentante legale
+- 17\. Tipo di documento d’identità e numero
+- 18\. Connotati quali segni particolari, statura, colore degli occhi, della pelle e dei capelli
+- 19\. Mezzi di comunicazione e dati sui collegamenti di telecomunicazione
+- 20\. Riprese videofotografiche e registrazioni audio
+- 21\. Generalità di terzi partecipanti al procedimento (persone informate sui fatti)
+- 22\. Dati medici e biometrici, se pertinenti al caso
+- 23\. Pericolo derivante dalla persona
+- 24\. Misure coercitive applicate
+- 25\. Targa del veicolo, cognome, nome e indirizzo del detentore del veicolo nonché assicurazione del veicolo
+- 26\. Elenco degli oggetti collegati al caso
+- 27\. Informazioni e dati necessari per l’adempimento dei compiti secondo l’articolo 100 capoverso 1 LM
 
 Dati supplementari di persone soggette al diritto penale militare
 
-- 12\. Incorporazione, grado e funzione
-- 13\. Servizi prestati nell’esercito
-- 14\. Numero dell’arma e tipo di arma dell’esercito nonché annotazione in merito al ritiro cautelare o definitivo
-- 15\. Sequestro o confisca della licenza di condurre
-- 16\. Analisi dell’alito e del sangue e relativi risultati
-- 17\. Situazione reddituale e patrimoniale
-- 18\. Elenco degli oggetti sequestrati
+- 28\. Incorporazione, grado e funzione
+- 29\. Servizi prestati nell’esercito
+- 30\. Numero dell’arma e tipo di arma dell’esercito nonché annotazione in merito al ritiro cautelare o definitivo
+- 31\. Sequestro o confisca della licenza di condurre
+- 32\. Analisi dell’alito e del sangue e relativi risultati
+- 33\. Situazione reddituale e patrimoniale
+- 34\. Elenco degli oggetti sequestrati
 
-Allegato 33a*[^t-31]*
+Allegato 33<sup>ter</sup>[^t-40]
+
+(art. 70<sup>ter</sup>)
+
+## Dati dell’IPSA
+
+[^t-40]: Introdotto dal n. III cpv. 1 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+- 1\. Cognome
+- 2\. Nome
+- 3\. Pseudonimi
+- 4\. Data di nascita
+- 5\. Luogo di nascita
+- 6\. Luogo d’origine
+- 7\. Nazionalità
+- 8\. Statuto di dimora
+- 9\. Sesso
+- 10\. Stato civile
+- 11\. Luogo d’origine
+- 12\. Numero AVS
+- 13\. Etnia
+- 14\. Religione
+- 15\. Orientamento politico e ideologico
+- 16\. Formazione, professione appresa
+- 17\. Attività professionali
+- 18\. Indirizzo
+- 19\. Documenti, numeri dei documenti
+- 20\. Indicazioni concernenti l’identità, caratteristiche fisiche
+- 21\. Connotati quali segni particolari, statura, colore degli occhi, della pelle e dei capelli
+- 22\. Persone di riferimento, familiari, soci in affari e altri contatti con indicazioni relative alla loro identità e al tipo delle rispettive relazioni
+- 23\. Mezzi di trasporto e numeri delle targhe di controllo, inclusi i dati relativi all’utilizzo e alla posizione
+- 24\. Mezzi di comunicazione e dati sui collegamenti di telecomunicazione, inclusi i dati relativi all’utilizzo e alla posizione
+- 25\. Luogo di soggiorno, informazioni geografiche, coordinate e profilo di spostamento
+- 26\. Riprese videofotografiche e registrazioni audio
+- 27\. Dati medici e biometrici
+- 28\. Dettagli relativi alla possibile minaccia derivante dalla persona o collegata a essa (in particolare evento con descrizione, oggetto con descrizione e numero, legame tra la persona e un evento e/o un oggetto)
+- 29\. Situazione reddituale e patrimoniale
+- 30\. Indicazioni sul conto
+- 31\.
+
+  Dati concernenti l’esercito e la protezione civile:
+
+  - a. Risultati del reclutamento
+  - b. Incorporazione
+  - c. Grado
+  - d. Funzione
+  - e. Istruzione
+  - f. Qualificazioni
+  - g. Servizi
+  - h. Impieghi
+  - i. Equipaggiamento
+
+- 32\. Informazioni e dati secondo l’articolo 167*i* lettera n LSIM
+
+Allegato 33a[^t-41]
 
 (art. 70*b*)
 
-## Dati dell’e-Alarm
+## Dati dell’e-chiamata
 
-[^t-31]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aggiornato dal n. I 1 dell’O del 25 gen. 2017 sull’obbligo di prestare servizio militare nel quadro della transizione all’ulteriore sviluppo dell’esercito ([RU 2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)) e dal n. II cpv. 4 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-41]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aggiornato dal n. I 1 dell’O del 25 gen. 2017 sull’obbligo di prestare servizio militare nel quadro della transizione all’ulteriore sviluppo dell’esercito ([RU 2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)) e dal n. III cpv. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Cognome
 - 2\. Nome
@@ -3206,14 +3633,17 @@ Allegato 33a*[^t-31]*
 - 6\. Numeri di telefono
 - 7\. Indirizzi e-mail
 - 8\. Indirizzo di domicilio
+- 9\. Incorporazione, grado e funzione nell’esercito
+- 10\. Dati sul servizio o sull’impiego al quale si riferisce la chiamata in servizio
+- 11\. Ulteriori dati necessari per la chiamata in servizio
 
-Allegato 33b*[^t-32]*
+Allegato 33b[^t-42]
 
 (art. 70*g*)
 
 ## Dati dell’HARAM
 
-[^t-32]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-42]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
 - 1\. Cognome
 - 2\. Nome
@@ -3224,33 +3654,22 @@ Allegato 33b*[^t-32]*
 - 7\. Tipo di aeromobile e numero
 - 8\. Cognomi, nomi e indirizzi di altre persone e organizzazioni coinvolte
 
-Allegato 33c*[^t-33]*
+Allegato 33c[^t-43]
 
-(art. 70*m*)
-
-## Dati del sistema FABIS
-
-[^t-33]: Introdotto dal n. 1 dell’all. all’O del 17 dic. 2014 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)). Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. II cpv. 2 dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
-
-- 1\. Cognome, nomi, iniziali, numero personale, datore di lavoro, indirizzo aziendale, e-mail aziendale, numero telefonico aziendale e numero AVS della persona autorizzata ad accedere
-- 2\. Livello di controllo, data di rilascio e data di scadenza della dichiarazione di sicurezza rilasciata conformemente all’articolo 22 capoverso 1 lettera a OCSP[^annex33c-lvlu1-1] alla persona autorizzata ad accedere
-- 3\. Dati biometrici della persona rilevati mediante scansione delle vene della mano (scansione delle vene) al momento dell’accesso al sistema FABIS
-- 4\. Template della scansione delle vene della persona autorizzata ad accedere al sistema FABIS
-- 5\. Ora e luogo dell’avvenuto o tentato accesso della persona al sistema FABIS e scansione delle vene rilevata (dati di log)
-- 6\. Dati e autorizzazioni d’accesso
+- [tab]
 - [tab]
 
-[^annex33c-lvlu1-1]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^t-43]: Introdotto dal n. 1 dell’all. all’O del 17 dic. 2014 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)). Abrogato dal n. III cpv. 4 dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-Allegato 33d*[^t-34]*
+Allegato 33d[^t-44]
 
 (art. 70*r*)
 
 ## Dati del sistema MIL PLATTFORM
 
-[^t-34]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. II cpv. 2 dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+[^t-44]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. II cpv. 2 dell’O del 20 mag. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)) e dal n. III cpv. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-- 1\. Cognome, nomi, iniziali, numero personale, datore di lavoro, indirizzo aziendale, e-mail aziendale, numero telefonico aziendale e numero AVS della persona autorizzata ad accedere
+- 1\. Cognome, nomi, iniziali, numero personale, datore di lavoro, indirizzo aziendale, indirizzo privato, e-mail aziendale, numero telefonico aziendale e numero AVS della persona autorizzata ad accedere
 - 2\. Livello di controllo, data di rilascio e data di scadenza della dichiarazione di sicurezza rilasciata conformemente all’articolo 22 capoverso 1 lettera a OCSP[^annex33d-lvlu1-1] alla persona autorizzata ad accedere
 - 3\. Dati biometrici della persona rilevati mediante scansione delle vene della mano (scansione delle vene) al momento dell’accesso al sistema MIL PLATTFORM
 - 4\. Template della scansione delle vene della persona autorizzata ad accedere al sistema MIL PLATTFORM
@@ -3261,13 +3680,13 @@ Allegato 33d*[^t-34]*
 
 [^annex33d-lvlu1-1]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
 
-Allegato 34*[^t-35]*
+Allegato 34[^t-45]
 
 (art. 71)
 
-## Dati del sistema SCHAWE
+## Dati del sistema SCHAMIS
 
-[^t-35]: Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-45]: Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. III cpv. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ### Dati concernenti le parti lese e gli autori dei danni
 
@@ -3282,14 +3701,31 @@ Allegato 34*[^t-35]*
 - 9\. Lingua di corrispondenza
 - 10\. Luogo di lavoro
 - 11\. Esecuzioni
-- 12\. Professione
+- 12\. Professione e funzione
 - 13\. Reddito
 - 14\. Salute
 - 15\. Situazione finanziaria
 - 16\. Patrimonio
 - 17\. Capitale
-- 18\. Assicurazioni
-- 19\. Dati sanitari
+- 18\. Atti e dati di assicurazioni
+- 19\. Dati medici e sanitari
+- 19a. Dati relativi a procedimenti penali, disciplinari e amministrativi militari
+- 19b. Dati relativi a procedimenti penali, disciplinari e amministrativi civili nonché a procedimenti civili
+- 19c. Documenti e rapporti di condotta militari
+- 19d. Dati relativi ai detentori di veicoli
+
+### Dati concernenti terzi
+
+- 19e. Cognome
+- 19f. Nome
+- 19g. Indirizzo
+- 19h. Data di nascita
+- 19i. Sesso
+- 19j. Numero di telefono
+- 19k. Indirizzo e-mail
+- 19l. Lingua di corrispondenza
+- 19m. Luogo di lavoro
+- 19n. Professione e funzione
 
 ### Dati concernenti i danni
 
@@ -3297,11 +3733,13 @@ Allegato 34*[^t-35]*
 - 21\. Indicazioni concernenti l’ammontare dei danni
 - 22\. Accertamenti di periti
 
-Allegato 35
+Allegato 35[^t-46]
 
 (art. 72)
 
-## Dati del SISLOG
+## Dati del SI PDD
+
+[^t-46]: Aggiornato dal n. III cpv. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Numero d’identificazione personale PISA
 - 2\. Cognome
@@ -3325,18 +3763,19 @@ Allegato 35
 - 20\. Numero d’assicurazione sociale all’estero
 - 21\. Ultima scuola
 - 22\. Data dell’ultima entrata in servizio 23. Dati ai sensi degli allegati 1–32: unicamente durante lo scambio di dati conformemente all’articolo 175 lettera c LSIM
+- 23\. Dati dei sistemi d’informazione militari, in particolare quelli figuranti negli allegati della presente ordinanza, unicamente durante lo scambio di dati conformemente all’articolo 175 lettera c LSIM
 
-Allegato 35<sup>bis</sup> *[^t-36]*
+Allegato 35<sup>bis</sup> [^t-47]
 
 (art. 72<sup>bis</sup> cpv. 1)
 
 ## Dati del sistema PSN
 
-[^t-36]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-47]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. III cpv. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-### Dati su persone soggette all’obbligo di leva, militari, ex militari, personale militare e terzi in quanto detentori di un’arma in prestito
+### Dati su persone soggette all’obbligo di leva, militari, ex militari, personale militare e terzi che detengono un’arma in prestito o che detengono oppure ordinano materiale dell’esercito
 
-- **1** **Dati personali**
+- **1** **Dati**
 - 1\.1 Cognome, nome
 - 1\.2 Indirizzo con Cantone di domicilio, domicilio e numero postale d’avviamento
 - **2** **Dati di base**
@@ -3366,6 +3805,16 @@ Allegato 35<sup>bis</sup> *[^t-36]*
 - 3\.15 Cessione al comando di circondario
 - 3\.16 Restituzione alla Base logistica dell’esercito
 - 3\.17 Restituzione al centro logistico dell’esercito
+- **3***a* **Equipaggiamento**
+- 3*a*.1 Valido da / fino a
+- 3*a*.2 Modificato da / il
+- 3a.3 Materiale
+- 3a.4 Numero di serie del materiale serializzato
+- 3a.5 Taglia (taglia del vestiario)
+- 3a.6 Restituzione del materiale
+- 3a.7 Buono di ritiro delle quote
+- 3a.8 Ordinazioni (data(e) dell’ordinazione, articoli ordinati, quantità, taglia del vestiario, data di consegna, indirizzo di consegna, indicazioni concernenti i rinvii effettuati o ancora da effettuare di articoli soggetti all’obbligo di restituzione, impiego dei buoni)
+- 3a.9 Dati relativi ai conti utenti della piattaforma online per ordinazioni di materiale (nome utente, password, validità e durata di validità del conto, data dell’ultima modifica della password, data dell’ultimo login, numero di login, dati tecnici)
 - **4** **Deposito dell’equipaggiamento**
 - 4\.1 Valido da/fino a
 - 4\.2 Modificato da/il
@@ -3452,7 +3901,7 @@ Allegato 35<sup>bis</sup> *[^t-36]*
 - 18\.2 Documenti d’assunzione
 - 18\.3 Sicurezza
 - **19** **Gestione del personale**
-- 19\.1 Dati personali e dati relativi alla famiglia e alle persone di riferimento
+- 19\.1 Dati e dati relativi alla famiglia e alle persone di riferimento
 - 19\.2 Descrizioni del posto
 - 19\.3 Certificati
 - 19\.4 Tempo di lavoro
@@ -3510,114 +3959,127 @@ Allegato 35<sup>bis</sup> *[^t-36]*
 - 27\.4 Oggetti in prestito
 - 27\.5 Altri dati aziendali rilevanti
 
-Allegato 35<sup>ter</sup>*[^t-37]*
+Allegato 35<sup>ter</sup>[^t-48]
 
 (art. 72<sup>ter</sup>)
 
-## Dati dell’AFS
+## Dati del TFS
 
-[^t-37]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-48]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. III cpv. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Cognome, nome
 - 2\. Sesso
 - 3\. Numero AVS
+- 3a. Identificativi personali locali
 - 4\. Data di nascita
 - 5\. Indirizzo
+- 5a. Indirizzi e-mail
+- 5b. Numeri di telefono
 - 6\. Professione
 - 7\. Lingua madre
 - 8\. Comune d’origine
+- 8a. Grado
 - 9\. Complemento al grado (SMG/SCR/a riposo/capp)
 - 10\. Incorporazione
+- 10a. Funzione
 - 11\. Numero del fucile d’assalto o della pistola
 - 12\. Ultimo invito ad assolvere il tiro obbligatorio (lettera)
 - 13\. Annotazione di servizio codificata per l’inidoneità medica o l’inabilità al tiro (contrassegno «R»)
+- 13a. Restrizioni in materia di consegna di armi personali o di armi in prestito
 - 14\. Codice di mutazione (nuova immissione/cancellazione/mutazione)
+- 15\.
 
-Allegato 35a*[^t-38]*
+  Dati amministrativi per la pianificazione, lo svolgimento e il controllo di esercizi di tiro e corsi di tiro, compresi i dati:
 
-[^t-38]: Introdotto dal n. II cpv. 3 dell’O del 6 lug. 2011 ([RU 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Abrogato dal n. II cpv. 3 dell’O del 20 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+  - – sui militari soggetti all’obbligo di tiro e altri tiratori partecipanti a questi esercizi e corsi
+  - – sulle società di tiro riconosciute, sui membri di tali società e sui funzionari per il tiro fuori del servizio coinvolti in questi esercizi e corsi
+  - – sugli impianti di tiro
 
-Allegato 35b e 35c *[^t-39]*
+- 16\. Ordinazione di munizioni e di armi, compresi i dati sulla fornitura e la restituzione
+- 17\. Conteggi di contributi federali e ordinazioni di munizioni destinati alle società di tiro riconosciute, di corsi di tiro per ritardatari e di spese dei funzionari per il tiro fuori del servizio, comprese le necessarie indicazioni sui conti
+- 18\. Appartenenza a una società di tiro riconosciuta, con nome, indirizzo, dati di contatto e identificatore locale di tale società
+- 19\. Dati sull’istruzione al tiro
+- 20\. Risultati di tiro
+- 21\. Dati sull’adempimento del tiro obbligatorio
+- 22\. Ammissione alla partecipazione volontaria agli esercizi federali secondo l’articolo 12 dell’ordinanza del 5 dicembre 2003[^annex35ter-lvlu1-1] sul tiro
+- 23\. Permesso di domicilio nonché altre autorizzazioni e attestazioni necessarie per l’ammissione alla partecipazione volontaria agli esercizi federali secondo l’articolo 12 dell’ordinanza sul tiro
+- 24\. Dati forniti volontariamente dalla persona interessata
 
-[^t-39]: Introdotti dal n. II cpv. 3 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogati dal n. II cpv. 5 dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^annex35ter-lvlu1-1]: [RS 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
 
-Allegato 35c<sup>bis</sup> *[^t-40]*
+Allegato 35<sup>quater</sup> [^t-49]
 
-(art. 72*g*<sup>octies</sup>)
+(art. 72<sup>quater</sup>)
 
-## Dati del PSA
+## Dati del MDM
 
-[^t-40]: Introdotto dal n. II cpv. 1 dell’O del 10 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)).
+[^t-49]: Introdotto dal n. III cpv. 1 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-### Dati dei collaboratori
+### Dati relativi a persone private
 
-### 1 Reclutamento del personale
+- 1\. Numero AVS, numero d’assicurazione sociale all’estero
+- 2\. Cognome
+- 3\. Nome
+- 4\. Data di nascita
+- 5\. Sesso
+- 6\. Professione
+- 7\. Indirizzo di domicilio
+- 8\. Comune di domicilio
+- 9\. Indirizzo postale
+- 10\. Indicazioni sul conto
+- 11\. Lingua di corrispondenza
+- 12\. Blocco quale socio in affari
+- 13\. Numeri di telefono, di cellulare e di fax
+- 14\. Indirizzo e-mail
+- 15\. Nazionalità
+- 16\. Categoria di stranieri
+- 17\. Numero d’identificazione dell’impresa (IDI)
 
-- 1\.1 Dati d’assunzione\* e documenti d’assunzione
+### Dati relativi a imprese
 
-### 2 Gestione del personale
+- 18\. Nome, impresa
+- 19\. Indirizzi
+- 29\. Persona di contatto (cognome, nome, settore, funzione)
+- 21\. Indicazioni sul conto
+- 22\. Lingua di corrispondenza
+- 23\. Blocco quale socio in affari
+- 24\. Numeri di telefono, di cellulare e di fax
+- 25\. Indirizzo e-mail
+- 26\. Numero fiscale
+- 27\. Numero d’identificazione dell’impresa (IDI)
+- 28\. Forma giuridica
+- 29\. Numero d’identificazione del Registro delle imprese e degli stabilimenti (numero RIS)
+- 30\. Categoria secondo la nomenclatura generale delle attività economiche (codice NOGA)
+- 31\. *Data Universal Numbering System* (numero DUNS)
+- 32\. Numero d’identificazione internazionale unico *(Legal Identity Identifier, LEI)*
+- 33\. *National Identify Number*
+- 34\. Ulteriori numeri e codici di incorporazione specifici dell’impresa
+- 35\. Fallimento/validità
 
-- 2\.1 Dati personali e dati relativi alla famiglia e alle persone di riferimento\*
-- 2\.2 Tempo di lavoro, assenze
-- 2\.3 Registrazione delle prestazioni
-- 2\.4 Impiego del personale
-- 2\.5 Autorizzazioni
-- 2\.6 Cariche pubbliche e attività accessorie
+### Dati di base logistici collegati con i soci in affari
 
-### 3 Retribuzione del personale
+- 36\. Dati di base del materiale (in particolare numero del materiale, designazione del materiale, tipo di materiale, dati relativi alle merci e alle sostanze pericolose, dati relativi al fornitore, dati relativi al produttore, dati relativi alla provenienza, dimensioni, dati sull’acquisto / sull’immagazzinamento / sulle disposizioni di manutenzione / sulle direttive per la contrassegnazione, dati relativi alla sicurezza / allo stato / alla configurazione)
+- 37\. Dati sulla struttura dei sistemi (dati relativi alla struttura di base dei sistemi)
 
-- 3\.1 Stipendio/indennità\*
-- 3\.2 Spese\*
-- 3\.3 Premi\*
-- 3\.4 Prestazioni complementari allo stipendio/agevolazioni\*
-- 3\.5 Custodia di bambini complementare alla famiglia\*
+Allegato 35a[^t-50]
 
-### 4 Assicurazioni sociali
+[^t-50]: Introdotto dal n. II cpv. 3 dell’O del 6 lug. 2011 ([RU 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Abrogato dal n. II cpv. 3 dell’O del 20 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
-- 4\.1 Assicurazione per la vecchiaia e per i superstiti/assicurazione invalidità/indennità per perdita di guadagno/assicurazione contro la disoccupazione\*
-- 4\.2 Istituto nazionale svizzero di assicurazione contro gli infortuni/assicurazione contro gli infortuni\*
-- 4\.3 Assegni familiari\*
-- 4\.4 Assicurazione militare\*
+Allegato 35b e 35c [^t-51]
 
-### 5 Sviluppo del personale
+[^t-51]: Introdotti dal n. II cpv. 3 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogati dal n. II cpv. 5 dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-- 5\.1 Formazione e formazione continua
+Allegato 35c<sup>bis</sup> [^t-52]
 
-### 6 Uscita/trasferimento
+[^t-52]: Introdotto dal n. II cpv. 1 dell’O del 10 giu. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Abrogato dal n. III cpv. 4 dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-- 6\.1 Disdetta da parte del datore di lavoro\*
-- 6\.2 Disdetta da parte del collaboratore\*
-- 6\.3 Pensionamento\*
-- 6\.4 Decesso\*
-- 6\.5 Formalità d’uscita
-- 6\.6 Formalità di trasferimento
-
-### 7 Personale militare
-
-- 7\.1 Incorporazione\*/grado\*/equipaggiamento
-- 7\.2 Prepensionamento\*
-- 7\.3 Militare a contratto temporaneo: funzione aziendale\*
-
-### 8 Dati aziendali
-
-- 8\.1 Organizzazione dell’Aggruppamento Difesa/piano dei posti in organico\*
-- 8\.2 Attribuzione organizzativa\*
-- 8\.3 Gestione del tempo e delle prestazioni
-- 8\.4 Oggetti in prestito
-- 8\.5 Altri dati aziendali rilevanti\*
-
-### 9 Altri dati
-
-- 9\.1 Dati forniti volontariamente dalla persona interessata
-- \* dati estratti dal SIGDP
-
-Allegato 35d*[^t-41]*
+Allegato 35d[^t-53]
 
 (art. 72*h*<sup>bis</sup>)
 
 ## Dati delle collezioni ausiliarie di dati
 
-[^t-41]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-53]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
 - 1\. Cognome
 - 2\. Nome
@@ -3643,43 +4105,17 @@ Allegato 35d*[^t-41]*
 - 22\. Inventario, ordinazioni, prenotazioni, prestiti
 - 23\. Descrizione delle risorse (veicoli, materiali, locali, apparecchi)
 
-Allegato 35e*[^t-42]*
+Allegato 35e[^t-54]
 
-(art. 72*i*<sup>bis</sup>)
+[^t-54]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogato dal n. III cpv. 4 dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-## Dati del Sistema d’informazione Materiale storico dell’esercito
-
-[^t-42]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
-
-### Dati di musei, collezionisti e associazioni per la tutela delle tradizioni
-
-- 1\. Cognome, nome
-- 2\. Istituzione, organo responsabile, sede e anno di fondazione
-- 3\. Indirizzo
-- 4\. Telefono, fax, indirizzo e-mail e homepage
-- 5\. Associazione di sostenitori o associazione di simpatizzanti, con i loro statuti
-- 6\. Dati relativi all’attività del museo o alla collezione
-- 7\. Collezione imperniata su militaria
-- 8\. Affiliazione all’Associazione dei musei svizzeri e altre affiliazioni
-- 9\. Cognome, nome, indirizzo, telefono, fax e indirizzo e-mail della persona di contatto
-- 10\. Cognome, nome, indirizzo, telefono, fax e indirizzo e-mail dell’incaricato della sicurezza
-- 11\. Cognome, nome, indirizzo, telefono, fax, indirizzo e-mail e numero di autorizzazione del perito di radioprotezione
-- 12\. Installazioni di sicurezza per la protezione dalla distruzione e dai furti
-
-### Dati relativi a oggetti prestati, donazioni, condizioni e autorizzazioni
-
-- 13\. Genere e tipo di materiale, numero di serie e fabbricante
-- 14\. Contratto concernente gli oggetti prestati o le donazioni
-- 15\. Elenco degli oggetti prestati e delle donazioni
-- 16\. Obblighi, condizioni e autorizzazioni
-
-Allegato 35f *[^t-43]*
+Allegato 35f [^t-55]
 
 (art. 72*j*<sup>ter</sup>)
 
 ## Dati del PSB
 
-[^t-43]: Introdotto dal n. II cpv. 1 dell’O del 10 giu. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-55]: Introdotto dal n. II cpv. 1 dell’O del 10 giu. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. III cpv. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 I seguenti dati del SIGDP conformemente all’allegato 3 dell’ordinanza del 22 novembre 2017[^annex35f-lvlu1-1] sulla protezione dei dati personali del personale federale sono trattati nel PSB e estratti dal SIGDP:
 
@@ -3701,8 +4137,51 @@ I seguenti dati del SIGDP conformemente all’allegato 3 dell’ordinanza del 22
 - – Descrizione verbale
 - – Vacante
 - – Gruppo/cerchia di collaboratori
+- – Assicurazione sociale CH
 
 [^annex35f-lvlu1-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
+
+Allegato 35g[^t-56]
+
+(art. 72*k*<sup>bis</sup>)
+
+## Dati del PAV
+
+[^t-56]: Introdotto dal n. III cpv. 1 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+- 1\. Cognome
+- 2\. Nome
+- 3\. Impresa e forma giuridica
+- 4\. Data di nascita
+- 5\. Indirizzo
+- 6\. Numero di telefono
+- 7\. Indirizzo e-mail
+- 8\. Numero AVS, numero d’assicurazione sociale all’estero
+- 9\. Numero personale della Confederazione
+- 10\. Numero degli effetti
+- 11\. Sesso
+- 12\. Lingua
+- 13\. Incorporazione
+- 14\. Grado
+- 15\. Funzione
+- 16\. Statuto militare
+- 17\. Data di entrata e di uscita
+- 18\. Istruzione
+- 19\. Numero, data di rilascio e data di scadenza del documento di legittimazione ufficiale (passaporto, carta d’identità ecc.)
+- 20\. Numero d’identificazione dell’impresa e ulteriori numeri specifici dell’impresa
+- 21\. Informazioni per l’ingresso e l’uscita transfrontalieri e lo sdoganamento
+- 22\. Informazioni sul volo, tra cui la data, l’ora e il luogo di partenza e di atterraggio, nonché le indicazioni sull’aereo impiegato
+- 23\. Rotta
+- 24\. Luogo di soggiorno, coordinate
+- 25\. Volume degli effetti di volo
+- 26\. Ruolo e compiti assunti nella pianificazione dei voli, nelle attività prima del volo e dopo il volo, nell’esecuzione e nella verbalizzazione di un volo
+- 27\. Prestazioni fornite in relazione a un volo o a favore delle persone a bordo o che partecipano alle operazioni di volo
+- 28\. Prestazioni di cui si usufruisce in veste di persona a bordo o che partecipa alle operazioni di volo
+- 29\. Dati assicurativi, comprese le polizze
+- 30\. Coordinate bancarie
+- 31\. Diritto a pretese di indennizzo e a diritti derivanti da assicurazioni, compresi i dati sul trattamento e il versamento
+- 32\. Categoria di versamento
+- 33\. Dati forniti volontariamente dalla persona interessata, quali ad esempio il peso corporeo
 
 Allegato 36
 
