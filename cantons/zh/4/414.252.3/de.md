@@ -4,11 +4,11 @@ number: "414.252.3"
 title: Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Zürcher Hochschule für Angewandte Wissenschaften (RPO ZHAW)
 short: RPO ZHAW
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2023-04-01
+version: "2023-04-01"
+nachtrag: "120"
+valid_until: 2024-09-25
 adopted: 2008-01-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_252_3-2008_01_29-2008_03_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_252_3-2008_01_29-2008_03_01-120.html"
 text: pdf
 ---
 
@@ -73,7 +73,7 @@ Die Hochschulleitung erlässt Studienordnungen über die Anforderungen für die 
 
 **1**
 
-- 1\. 1. 23 - 119 § 6. <sup>1</sup> Modulkategorien dienen der
+- 1\. 4. 23 - 120 § 6. <sup>1</sup> Modulkategorien dienen der
 
 **d. Modulkategorien**
 
@@ -89,7 +89,7 @@ Die Hochschulleitung erlässt Studienordnungen über die Anforderungen für die 
 
 <sup>1</sup> Es wird unterschieden zwischen Modulen, die a. von allen Studierenden eines Studiengangs im Laufe des Studiums belegt werden müssen (Pflichtmodule),
 
-- b. aus einer vorgegebenen Liste in vorgegebenem Umfang auszuwählen sind (Wahlpflichtmodule), c.[^7-1] frei wählbar und nicht promotionsrelevant sind (Wahlmodule).
+- b. aus einer vorgegebenen Liste in vorgegebenem Umfang auszuwählen sind (Wahlpflichtmodule), c.[^7-1] frei wählbar sind (Wahlmodule).
 
 <sup>2</sup> Die Studienordnungen regeln die Zuordnung der Module zu einem Modultyp und ihre Belegung.
 
@@ -99,7 +99,7 @@ Die Hochschulleitung erlässt Studienordnungen über die Anforderungen für die 
 
 <sup>2</sup> Die Hochschulleitung legt die Rahmenbedingungen des Besuchs der Module fest.
 
-[^7-1]: Fassung gemäss B vom 13. November 2018 (OS 74, 94; ABl 2018-12-07). In Kraft seit 1. Juli 2019.
+[^7-1]: Fassung gemäss B vom 12. Juli 2022 (OS 77, 488; ABl 2022-08-19). In Kraft seit 1. April 2023.
 [^7-2]: Eingefügt durch B vom 8. November 2011 (OS 67, 17; ABl 2011, 3408). In Kraft seit 1. August 2012.
 
 #### § 8
@@ -190,7 +190,7 @@ Die Departementsleitung kann Regelstudienpläne festlegen.
 
 **3**
 
-- 1\. 1. 23 - 119 § 17.[^15-2] <sup>1</sup> Studierende können Antrag auf Dispensierung von einem Modul oder Kurs stellen unter Anrechnung der entsprechenden Leistung. Der Antrag ist hinreichend zu dokumentieren. Die Studienleitung bewilligt den Antrag, wenn die Studierenden
+- 1\. 4. 23 - 120 § 17.[^15-2] <sup>1</sup> Studierende können Antrag auf Dispensierung von einem Modul oder Kurs stellen unter Anrechnung der entsprechenden Leistung. Der Antrag ist hinreichend zu dokumentieren. Die Studienleitung bewilligt den Antrag, wenn die Studierenden
 
 **Anrechnung von Vorkenntnissen, Studienleistungen**
 
@@ -285,7 +285,7 @@ Die Studienleitung ist für Inhalt, Leistungsnachweise und Leistungsbeurteilung 
 
 **5**
 
-- 1\. 1. 23 - 119 § 26. <sup>1</sup> Für nicht prüfungsfrei zugelassene Studienanwärterinnen und -anwärter kann die ZHAW gemäss den Vorgaben des Bundes Aufnahmeprüfungen durchführen.
+- 1\. 4. 23 - 120 § 26. <sup>1</sup> Für nicht prüfungsfrei zugelassene Studienanwärterinnen und -anwärter kann die ZHAW gemäss den Vorgaben des Bundes Aufnahmeprüfungen durchführen.
 
 **b. Aufnahmeprüfungen**
 
@@ -354,20 +354,19 @@ Die ZHAW verleiht den Bachelortitel Studierenden, die a. mindestens 180 Credits 
 
 § 32. Die Studienordnungen regeln die im Masterstudium zu absolvierenden Module.
 
-[^31-1]: Fassung gemäss B vom 8. November 2011 (OS 67, 17; ABl 2011, 3408). In Kraft seit 1. August 2012.
-[^31-2]: Eingefügt durch B vom 13. November 2018 (OS 74, 94; ABl 2018-12-07). In Kraft seit 1. Juli 2019.
-
-#### § 33
-
 **Verleihung des Mastertitels**
 
-<sup>1</sup> Die ZHAW verleiht den Mastertitel den Absolventinnen und Absolventen eines Masterstudiengangs, welche a. die erforderlichen Credits im Masterstudiengang erworben haben,
+§ 33.[^31-3] <sup>1</sup> Ein Masterstudiengang umfasst 90 oder 120 Credits.
+
+<sup>2</sup> Die ZHAW verleiht den Mastertitel den Absolventinnen und Absolventen eines Masterstudiengangs, welche a. mindestens die gemäss Abs. 1 erforderlichen Credits im Masterstudiengang erworben haben,
 
 - b. mindestens einen Drittel der Credits an der ZHAW erworben haben,
 
 - c. die Masterarbeit an der ZHAW abgelegt haben.
 
-<sup>2</sup> Ein Masterstudiengang umfasst 90 bis 120 Credits.
+[^31-1]: Fassung gemäss B vom 8. November 2011 (OS 67, 17; ABl 2011, 3408). In Kraft seit 1. August 2012.
+[^31-2]: Eingefügt durch B vom 13. November 2018 (OS 74, 94; ABl 2018-12-07). In Kraft seit 1. Juli 2019.
+[^31-3]: Fassung gemäss B vom 12. Juli 2022 (OS 77, 488; ABl 2022-08-19). In Kraft seit 1. April 2023.
 
 ### 3. Abschnitt: Prüfungen und andere Leistungsnachweise
 
@@ -401,7 +400,7 @@ Die ZHAW verleiht den Bachelortitel Studierenden, die a. mindestens 180 Credits 
 
 **7**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Leistungsnachweise können in elektronischer Form durchgeführt werden.[^34-1]
 
@@ -521,7 +520,7 @@ Die Studienleitung gibt die für Leistungsnachweise erlaubten Hilfsmittel frühz
 
 **9**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Die Modulbeschreibungen regeln die Gewichtung der Kursnoten innerhalb eines Moduls.
 
@@ -535,7 +534,7 @@ Die Studienleitung gibt die für Leistungsnachweise erlaubten Hilfsmittel frühz
 
 <sup>3</sup> Ist eine Modulgruppe bestanden, gelten alle zur Modulgruppe gehörenden Module als bestanden.
 
-<sup>4</sup> Die Studienordnung regelt die Berücksichtigung überzähliger Wahlpflichtmodule.[^43-2]
+<sup>4</sup> . . .[^43-2]
 
 **Wiederholung von Leistungsnachweisen a. Bestandene Module**
 
@@ -552,7 +551,7 @@ Die Studienleitung gibt die für Leistungsnachweise erlaubten Hilfsmittel frühz
 <sup>3</sup> Die Leistungsnachweise von nicht bestandenen Modulen sind grundsätzlich am nächsten regulären Termin zu wiederholen.
 
 [^43-1]: Aufgehoben durch B vom 8. November 2011 (OS 67, 17; ABl 2011, 3408). In Kraft seit 1. August 2012.
-[^43-2]: Fassung gemäss B vom 13. November 2018 (OS 74, 94; ABl 2018-12-07). In Kraft seit 1. Juli 2019.
+[^43-2]: Aufgehoben durch B vom 12. Juli 2022 (OS 77, 488; ABl 2022-08-19). In Kraft seit 1. April 2023. 1. 4. 23 - 120 15
 [^43-3]: Eingefügt durch B vom 8. November 2011 (OS 67, 17; ABl 2011, 3408). In Kraft seit 1. August 2012.
 [^43-4]: Fassung gemäss B vom 8. November 2011 (OS 67, 17; ABl 2011, 3408). In Kraft seit 1. August 2012.
 
@@ -619,7 +618,7 @@ Die Studienleitung gibt die für Leistungsnachweise erlaubten Hilfsmittel frühz
 
 **11**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 [^51-1]: Fassung gemäss B vom 13. November 2018 (OS 74, 94; ABl 2018-12-07). In Kraft seit 1. Juli 2019.
 
@@ -659,9 +658,16 @@ Die Studienordnungen regeln die Voraussetzungen für das Bestehen der Masterstuf
 
 **Überzählige Module und Credits**
 
-§ 55. Die Studienordnungen legen fest, welche Module bzw. Credits für die Ermittlung der Abschlussnote berücksichtigt werden.
+§ 55.[^54-2] <sup>1</sup> Die Studienordnungen legen fest, ob überzählige Wahlpflichtmodule und Wahlmodule gewählt werden können.
+
+<sup>2</sup> Die Studienordnungen legen fest, nach welchen Kriterien bestimmt wird, welche der überzähligen Wahlpflichtmodule in die allfällige Modulgruppennote und die Abschlussnote einfliessen.
+
+<sup>3</sup> Eine Note eines überzähligen Wahlpflichtmoduls, die in der Modulgruppennote berücksichtigt wird, fliesst auch in die Abschlussnote ein.
+
+<sup>4</sup> Wahlmodule werden für die Abschlussnote nicht berücksichtigt.
 
 [^54-1]: Fassung gemäss B vom 8. November 2011 (OS 67, 17; ABl 2011, 3408). In Kraft seit 1. August 2012.
+[^54-2]: Fassung gemäss B vom 12. Juli 2022 (OS 77, 488; ABl 2022-08-19). In Kraft seit 1. April 2023.
 
 #### § 56
 
@@ -671,13 +677,15 @@ Die Studienordnungen regeln die Voraussetzungen für das Bestehen der Masterstuf
 
 <sup>2</sup> Im Zweifelsfall entscheidet die Studienleitung.
 
+[^56-1]: Fassung gemäss B vom 12. Juli 2022 (OS 77, 488; ABl 2022-08-19). In Kraft seit 1. April 2023.
+
+#### § 57
+
 **ECTS-Einstufungstabelle**
 
-§ 57.[^56-1] <sup>1</sup> Die Häufigkeit der erteilten Noten gemäss § 41 wird zur Vergleichbarkeit der Bewertungen für den Studiengang oder dessen Vertiefungen zusammenfassend dargestellt. Berücksichtigt werden die Modulnoten im Zeitraum von höchstens drei Jahren.
+<sup>1</sup> Die Häufigkeit der erteilten Noten in Pflicht- und Wahlpflichtmodulen gemäss § 41 wird zur Vergleichbarkeit der Bewertungen für den Studiengang oder dessen Vertiefungen zusammenfassend dargestellt. Berücksichtigt werden die Modulnoten im Zeitraum von höchstens drei Jahren.[^56-1]
 
 <sup>2</sup> Die ECTS-Einstufungstabelle wird jährlich erneuert.
-
-[^56-1]: Fassung gemäss B vom 8. November 2011 (OS 67, 17; ABl 2011, 3408). In Kraft seit 1. August 2012.
 
 #### § 58
 
@@ -704,12 +712,13 @@ Die Datenabschrift (Transcript of Records) umfasst alle an der ZHAW besuchten Mo
 <sup>2</sup> Sie wird von der Rektorin oder vom Rektor der ZHAW und einem weiteren Mitglied der Hochschulleitung unterzeichnet.
 
 [^60-1]: Fassung gemäss B vom 8. November 2011 (OS 67, 17; ABl 2011, 3408). In Kraft seit 1. August 2012.
+[^60-2]: Fassung gemäss B vom 12. Juli 2022 (OS 77, 488; ABl 2022-08-19). In Kraft seit 1. April 2023.
 
 #### § 61
 
 **Diplomzeugnis**
 
-<sup>1</sup> Das Diplomzeugnis enthält:[^60-1] a. die im Studiengang besuchten promotionsrelevanten Module mit den erworbenen Credits,
+<sup>1</sup> Das Diplomzeugnis enthält:[^60-1] a.[^60-2] sämtliche im Studiengang besuchten Module mit den erworbenen Credits,
 
 - b. die im Studiengang angerechneten, an einer anderen Hochschule oder in einem anderen Studiengang erbrachten Studienleistungen mit den übernommenen Credits,
 
@@ -725,6 +734,10 @@ Die Datenabschrift (Transcript of Records) umfasst alle an der ZHAW besuchten Mo
 
 Zu jedem Diplom wird ein Diplomzusatz (Diploma Supplement) ausgestellt, der Angaben in standardisierter Form über den Studiengang enthält.
 
+**13**
+
+- 1\. 4. 23 - 120
+
 ### 5. Abschnitt: Rechtsschutz und Übergangsbestimmungen
 
 **Rechtsmitttel**
@@ -733,16 +746,16 @@ Zu jedem Diplom wird ein Diplomzusatz (Diploma Supplement) ausgestellt, der Anga
 
 <sup>2</sup> Leistungsbewertungen werden auf Rechtsverletzungen und Verletzungen von Verfahrensvorschriften überprüft. Die Rüge der Unangemessenheit ist ausgeschlossen.
 
-**13**
+[^h5AbschnittRechts-1]: Fassung gemäss B vom 13. November 2018 (OS 74, 94; ABl 2018-12-07). In Kraft seit 1. Juli 2019.
+[^h5AbschnittRechts-2]: LS 414.10.
+[^h5AbschnittRechts-3]: LS 175.2.
 
-- 1\. 1. 23 - 119 § 64. <sup>1</sup> Diese Rahmenprüfungsordnung tritt am 1. März 2008 in Kraft.
+#### § 64
 
 **Übergangsbestimmung**
+
+<sup>1</sup> Diese Rahmenprüfungsordnung tritt am 1. März 2008 in Kraft.
 
 <sup>2</sup> Sie gilt für die einzelnen Studiengänge ab Inkrafttreten der Studienordnung.
 
 <sup>3</sup> Die Studienordnungen regeln die Übergangsbestimmungen.
-
-[^h5AbschnittRechts-1]: Fassung gemäss B vom 13. November 2018 (OS 74, 94; ABl 2018-12-07). In Kraft seit 1. Juli 2019.
-[^h5AbschnittRechts-2]: LS 414.10.
-[^h5AbschnittRechts-3]: LS 175.2.
