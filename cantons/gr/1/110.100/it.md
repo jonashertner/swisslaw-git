@@ -3,20 +3,20 @@ canton: GR
 number: "110.100"
 title: Costituzione del Cantone dei Grigioni
 language: it
-version: 2021-10-01
-valid_until: 2023-03-31
-version_adopted: 2021-06-13
+version: 2023-04-01
+valid_until: 2023-09-30
+version_adopted: 2022-11-27
 adopted: 2003-09-14
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/110.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3188/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3306/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Costituzione del Cantone dei Grigioni
 
-del 14.09.2003 (stato 01.10.2021)
+del 14.09.2003 (stato 01.04.2023)
 
 Noi, Popolo del Cantone dei Grigioni,
 
@@ -554,7 +554,7 @@ ci diamo la seguente Costituzione:[^ingress-1]
 
 <sup>2</sup> Le e i presidenti prendono parte alle sedute del Gran Consiglio sul preventivo, sul conto annuale e sui rapporti annuali dei tribunali. Essi hanno voto consultivo e possono presentare proposte.
 
-<sup>3</sup> Qualora non sia prescritta la forma di legge, il Tribunale cantonale e il Tribunale amministrativo possono emanare ordinanze nell'ambito dell'amministrazione della giustizia e della vigilanza sulla giustizia, se sono espressamente autorizzati dalla legge a farlo.
+<sup>3</sup> Qualora non sia prescritta la forma di legge, i tribunali possono emanare ordinanze nell'ambito dell'amministrazione della giustizia, se sono espressamente autorizzati dalla legge a farlo.
 
 #### Art. 52
 

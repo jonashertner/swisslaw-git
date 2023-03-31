@@ -3,20 +3,20 @@ canton: GR
 number: "110.100"
 title: Verfassung des Kantons Graubünden
 language: de
-version: 2021-10-01
-valid_until: 2023-03-31
-version_adopted: 2021-06-13
+version: 2023-04-01
+valid_until: 2023-09-30
+version_adopted: 2022-11-27
 adopted: 2003-09-14
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/110.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3188/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3306/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Graubünden
 
-Vom 14.09.2003 (Stand 01.10.2021)
+Vom 14.09.2003 (Stand 01.04.2023)
 
 Wir, das Volk des Kantons Graubünden,
 
@@ -556,7 +556,7 @@ geben uns folgende Verfassung[^ingress-1]:
 
 <sup>2</sup> Die Präsidentinnen und Präsidenten nehmen an den Sitzungen des Grossen Rates zum Budget, zur Rechnung und zu den Jahresberichten der Gerichte teil. Sie haben beratende Stimme und können Anträge stellen.
 
-<sup>3</sup> Soweit nicht die Form des Gesetzes vorgeschrieben ist, können das Kantons- und das Verwaltungsgericht auf dem Gebiet der Justizverwaltung und -aufsicht Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden.
+<sup>3</sup> Soweit nicht die Form des Gesetzes vorgeschrieben ist, können die Gerichte auf dem Gebiet der Justizverwaltung Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden.
 
 #### Art. 52
 

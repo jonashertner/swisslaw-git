@@ -3,20 +3,20 @@ canton: GR
 number: "110.100"
 title: Constituziun dal chantun Grischun
 language: rm
-version: 2021-10-01
-valid_until: 2023-03-31
-version_adopted: 2021-06-13
+version: 2023-04-01
+valid_until: 2023-09-30
+version_adopted: 2022-11-27
 adopted: 2003-09-14
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/110.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3188/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3306/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Constituziun dal chantun Grischun
 
-dals 14-09-2003 (versiun dals 01-10-2021)
+dals 14-09-2003 (versiun dals 01-04-2023)
 
 Nus, il pievel dal chantun Grischun,
 
@@ -554,7 +554,7 @@ ans dain la sequenta constituziun:[^ingress-1]
 
 <sup>2</sup> Las presidentas ed ils presidents prendan part da las sesidas dal cussegl grond davart il preventiv, davart il quint e davart ils rapports annuals da las dretgiras. Ellas ed els han vusch consultativa e pon far propostas.
 
-<sup>3</sup> Uschenavant che la furma da la lescha n'è betg prescritta, pon la dretgira chantunala e la dretgira administrativa relaschar ordinaziuns en il sectur da l'administraziun giudiziala e da la surveglianza da la giustia, sch'ellas vegnan autorisadas explicitamain tras la lescha da far quai.
+<sup>3</sup> Uschenavant che la furma da la lescha n'è betg prescritta, pon las dretgiras relaschar ordinaziuns en il sectur da l'administraziun giudiziala, sch'ellas vegnan autorisadas explicitamain tras la lescha da far quai.
 
 #### Art. 52
 
