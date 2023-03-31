@@ -4,13 +4,13 @@ number: "170.140"
 title: Regolamento organico del Gran Consiglio
 short: ROGC
 language: it
-version: 2019-08-01
-corrected: 2021-06-23
-version_adopted: 2019-08-30
+version: 2023-04-01
+valid_until: 2023-08-31
+version_adopted: 2022-06-14
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2970/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3311/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2970/pdf_file"
 
 (ROGC)
 
-del 08.12.2005 (stato 01.08.2019)
+del 08.12.2005 (stato 01.04.2023)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -169,6 +169,7 @@ decide:
 - s) la designazione di scrutatori speciali per l'organizzazione di elezioni;
 - t) l'organizzazione di particolari eventi del Gran Consiglio;
 - u) la preparazione delle elezioni conformemente all'articolo 57 della legge[^11-1], se la competenza non spetta a una commissione;
+- u<sup>bis</sup>) la determinazione della frazione che dal punto di vista aritmetico può rivendicare un posto di giudice del Tribunale d'appello da pubblicare. Essa comunica questo risultato alla Commissione di giustizia e sicurezza;
 - v) altri affari affidatile dal Gran Consiglio.
 
 [^11-1]: CSC [170.100](https://www.gr-lex.gr.ch/data/170.100/it)
@@ -307,7 +308,7 @@ decide:
 - a) controlla l'intera gestione finanziaria e si occupa del suo sviluppo a lungo termine;
 - b) esamina il preventivo, le domande di credito aggiuntivo e il rapporto annuale;
 - c) esamina nell'ambito dell'alta vigilanza i rapporti di gestione/conti an-nuali di istituzioni indipendenti di diritto pubblico alle quali il Cantone versa importanti sussidi;
-- d) presenta un rapporto aggiuntivo sul piano finanziario;
+- d) presenta un corapporto sul piano finanziario;
 - e) …
 
 <sup>4</sup> La Commissione della gestione può inoltre:
@@ -368,10 +369,11 @@ decide:
 
 <sup>5</sup> Essa decide in merito a ricorsi contro le elezioni dei Consiglieri di Stato.
 
-<sup>6</sup> Essa prepara le elezioni nel Tribunale cantonale e nel Tribunale amministrativo, nonché nell'autorità di conciliazione in materia di parità dei sessi conformemente alla legge sull'organizzazione giudiziaria[^26-2].
+<sup>6</sup> Essa prepara le elezioni nel Tribunale d'appello nonché nel Tribunale della magistratura.
+
+<sup>7</sup> Essa verifica l'adeguatezza della dotazione del Tribunale d'appello nonché dei tribunali regionali e prepara la corrispondente decisione del Gran Consiglio. Se prende in considerazione la possibilità di aumentare il volume di impiego complessivo per i giudici del Tribunale d'appello o per i giudici a titolo principale di uno o più tribunali regionali, richiede un corapporto alla Commissione della gestione.
 
 [^26-1]: CSC [170.100](https://www.gr-lex.gr.ch/data/170.100/it)
-[^26-2]: CSC [173.000](https://www.gr-lex.gr.ch/data/173.000/it)
 
 #### Art. 27
 

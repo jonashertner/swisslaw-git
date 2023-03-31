@@ -4,13 +4,13 @@ number: "170.140"
 title: Geschäftsordnung des Grossen Rates
 short: GGO
 language: de
-version: 2019-08-01
-corrected: 2021-06-23
-version_adopted: 2019-08-30
+version: 2023-04-01
+valid_until: 2023-08-31
+version_adopted: 2022-06-14
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2970/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3311/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2970/pdf_file"
 
 (GGO)
 
-Vom 08.12.2005 (Stand 01.08.2019)
+Vom 08.12.2005 (Stand 01.04.2023)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -169,6 +169,7 @@ beschliesst:
 - s) die Bestellung von besonderen Stimmenzählenden zur Durchführung von Wahlen;
 - t) die Durchführung besonderer Anlässe des Grossen Rates;
 - u) die Vorbereitung der Wahlen gemäss Artikel 57 des Gesetzes[^11-1], soweit nicht eine Kommission zuständig ist;
+- u<sup>bis</sup>) die Ermittlung der Fraktion, die rechnerisch Anspruch auf eine auszuschreibende Richterstelle am Obergericht erheben kann. Sie teilt dieses Ergebnis der Kommission für Justiz und Sicherheit mit;
 - v) weitere Geschäfte, die ihr der Rat zuweist.
 
 [^11-1]: BR [170.100](https://www.gr-lex.gr.ch/data/170.100/de)
@@ -368,10 +369,11 @@ beschliesst:
 
 <sup>5</sup> Sie entscheidet Beschwerden gegen die Regierungsratswahlen.
 
-<sup>6</sup> Sie bereitet die Wahlen in das Kantons- und das Verwaltungsgericht sowie in die Schlichtungsbehörde für Gleichstellungssachen im Sinne des Gerichtsorganisationsgesetzes[^26-2] vor.
+<sup>6</sup> Sie bereitet die Wahlen in das Obergericht sowie in das Justizgericht vor.
+
+<sup>7</sup> Sie überprüft die Angemessenheit der Dotierung des Obergerichts sowie der Regionalgerichte und bereitet den entsprechenden Beschluss des Grossen Rates vor. Zieht sie in Betracht, den Gesamtstellenumfang für die Mitglieder des Obergerichts oder für die hauptamtlichen Mitglieder eines beziehungsweise mehrerer Regionalgerichte zu erhöhen, holt sie bei der Geschäftsprüfungskommission einen Mitbericht ein.
 
 [^26-1]: BR [170.100](https://www.gr-lex.gr.ch/data/170.100/de)
-[^26-2]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
 
 #### Art. 27
 

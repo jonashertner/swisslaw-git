@@ -4,13 +4,13 @@ number: "170.140"
 title: Urden da gestiun dal cussegl grond
 short: UGCG
 language: rm
-version: 2019-08-01
-corrected: 2021-06-23
-version_adopted: 2019-08-30
+version: 2023-04-01
+valid_until: 2023-08-31
+version_adopted: 2022-06-14
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2970/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3311/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2970/pdf_file"
 
 (UGCG)
 
-dals 08-12-2005 (versiun dals 01-08-2019)
+dals 08-12-2005 (versiun dals 01-04-2023)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -171,6 +171,7 @@ concluda:
 - s) convocar dumbravuschs spezials per exequir elecziuns;
 - t) exequir occurrenzas spezialas dal cussegl grond;
 - u) preparar las elecziuns tenor l'artitgel 57 da la lescha[^11-1], nun ch'ina cumissiun saja cumpetenta;
+- u<sup>bis</sup>) eruir la fracziun che po far valair matematicamain il dretg sin ina plazza da derschadra u da derschader a la Dretgira superiura, che sto vegnir publitgada. Ella communitgescha quest resultat a la Cumissiun per giustia e segirezza;
 - v) ulteriuras fatschentas ch'il cussegl grond assegna ad ella.
 
 [^11-1]: DG [170.100](https://www.gr-lex.gr.ch/data/170.100/rm)
@@ -370,10 +371,11 @@ concluda:
 
 <sup>5</sup> Ella decida davart recurs cunter las elecziuns da la regenza.
 
-<sup>6</sup> Ella prepara las elecziuns en la dretgira chantunala ed en la dretgira administrativa sco er en l'autoritad da mediaziun per dumondas d'egualitad en il senn da la lescha davart l'organisaziun giudiziala[^26-2].
+<sup>6</sup> Ella prepara las elecziuns per la Dretgira superiura sco er per la Dretgira da giustia.
+
+<sup>7</sup> Ella controllescha che la dotaziun da la Dretgira superiura sco er da las dretgiras regiunalas saja adequata e prepara il conclus correspundent dal Cussegl grond. Sch'ella tira en consideraziun d'auzar il volumen total da plazzas per las commembras ed ils commembers da la Dretgira superiura u per las commembras ed ils commembers d'ina u da pliras dretgiras regiunalas en uffizi principal, dumonda ella in cunrapport da la Cumissiun da gestiun.
 
 [^26-1]: DG [170.100](https://www.gr-lex.gr.ch/data/170.100/rm)
-[^26-2]: DG [173.000](https://www.gr-lex.gr.ch/data/173.000/rm)
 
 #### Art. 27
 
