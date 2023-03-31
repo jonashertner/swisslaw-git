@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale sur l’assurance-maladie; Négociation des tarifs de la liste des analyses
 document: Projet mis en consultation
 language: fr

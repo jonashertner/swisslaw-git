@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge federale sull’assicurazione malattie: negoziazione delle tariffe dell’elenco delle analisi"
 document: Progetto posto in consultazione
 language: it

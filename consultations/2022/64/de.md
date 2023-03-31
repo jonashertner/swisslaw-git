@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes über die Krankenversicherung; Verhandlung der Tarife der Analysenliste
 document: Vernehmlassungsvorlage
 language: de
