@@ -4,11 +4,11 @@ title: "Ordonnance du 8 mai 1934 sur le contrôle du commerce des métaux préci
 short: OCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: fr
-version: 2023-01-23
+version: 2023-04-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230123-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230401-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230123/fr"
 
 (Ordonnance sur le contrôle des métaux précieux, OCMP)[^t-1]
 
-du 8 mai 1934 (État le 23 janvier 2023)
+du 8 mai 1934 (État le 1<sup>er</sup> avril 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 1993, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -1636,7 +1636,8 @@ Demeurent réservés les accords internationaux suivants:
 - c. Échange de lettres du 30 octobre 1935[^126-4] entre la Suisse et l’Espagne concernant le poinçonnement des métaux précieux;
 - d.[^126-5] Convention du 19 juin 2018[^126-6] entre le Conseil fédéral suisse et le Gouvernement de la République française relative à la reconnaissance réciproque des poinçons officiels apposés sur les ouvrages en métaux précieux et les ouvrages multimétaux;
 - e. Convention du 15 janvier 1970[^126-7] entre la Confédération suisse et la République italienne relative à la reconnaissance réciproque des poinçons apposés sur les ouvrages en métaux précieux;
-- f.[^126-8] Convention du 14 décembre 2011 entre le Conseil fédéral suisse et le Gouvernement de la Fédération de Russie relative à la reconnaissance réciproque des poinçons officiels apposés sur les ouvrages en métaux précieux de l’industrie horlogère[^126-9].
+- f.[^126-8] Convention du 14 décembre 2011 entre le Conseil fédéral suisse et le Gouvernement de la Fédération de Russie relative à la reconnaissance réciproque des poinçons officiels apposés sur les ouvrages en métaux précieux de l’industrie horlogère[^126-9];
+- g.[^126-10] Convention du 29 novembre 2021 entre le Conseil fédéral de la Confédération suisse et le Gouvernement de la République du Kazakhstan relative à la reconnaissance réciproque des poinçons officiels apposés sur les ouvrages en métaux précieux[^126-11].
 
 [^126-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^126-2]: [RS 0.941.31](https://fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013)
@@ -1647,6 +1648,8 @@ Demeurent réservés les accords internationaux suivants:
 [^126-7]: [RS 0.941.345.4](https://fedlex.data.admin.ch/eli/cc/1974/752_753_753)
 [^126-8]: Introduite par le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 2 août 2013 ([RO 2013 2345](https://fedlex.data.admin.ch/eli/oc/2013/494)).
 [^126-9]: [RS 0.941.366.5](https://fedlex.data.admin.ch/eli/cc/2013/499)
+[^126-10]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 166](https://fedlex.data.admin.ch/eli/oc/2023/166)).
+[^126-11]: [RS 0.941.347.0](https://fedlex.data.admin.ch/eli/cc/2023/167)
 
 #### Art. 127
 
@@ -2532,8 +2535,8 @@ Chiffre 1
 (art. 109, al. 1)
 
 <table>
-<tr><td>**Grand poinçon:** Dimensions: Hauteur: 1,6 mm Largeur: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/fr/xml/image/image1.png)</td></tr>
-<tr><td>**Petit poinçon:** Dimensions: Hauteur: 0,8 mm Largeur: 1 mm Les dimensions suivantes sont autorisées pour les petits poinçons apposés par ablation laser: Hauteur: 0,5 mm Largeur: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/fr/xml/image/image1.png)</td></tr>
+<tr><td>**Grand poinçon:** Dimensions: Hauteur: 1,6 mm Largeur: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/fr/xml/image/image1.png)</td></tr>
+<tr><td>**Petit poinçon:** Dimensions: Hauteur: 0,8 mm Largeur: 1 mm Les dimensions suivantes sont autorisées pour les petits poinçons apposés par ablation laser: Hauteur: 0,5 mm Largeur: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/fr/xml/image/image1.png)</td></tr>
 </table>
 
 Note:
@@ -2547,7 +2550,7 @@ Chiffre 2
 (art. 58, al. 3)
 
 <table>
-<tr><td>Dimension: 0,8 mm de côté</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/fr/xml/image/image2.png)</td></tr>
+<tr><td>Dimension: 0,8 mm de côté</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/fr/xml/image/image2.png)</td></tr>
 </table>
 
 Note:
@@ -2583,8 +2586,8 @@ Exemples:
 
 Bureaux fédéraux:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/fr/xml/image/image3.png)
 
 Bureaux cantonaux:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/fr/xml/image/image3.png)

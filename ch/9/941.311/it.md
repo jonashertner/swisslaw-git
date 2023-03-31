@@ -4,11 +4,11 @@ title: "Ordinanza dell'8 maggio 1934 sul controllo del commercio in metalli prez
 short: OCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: it
-version: 2023-01-23
+version: 2023-04-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/it/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230123-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/it/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230123/it"
 
 (Ordinanza sul controllo dei metalli preziosi, OCMP)[^t-1]
 
-dell’8 maggio 1934 (Stato 23 gennaio 2023)
+dell’8 maggio 1934 (Stato 1° aprile 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 17 feb. 1993, in vigore dal 1° apr. 1993 ([RU 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -1639,7 +1639,8 @@ Sono fatti salvi i seguenti trattati internazionali:
 - c. Scambio di lettere del 30 ottobre 1935[^126-4] tra la Svizzera e la Spagna concernente la punzonatura dei metalli preziosi;
 - d.[^126-5] Convenzione del 19 giugno 2018[^126-6] tra il Consiglio federale svizzero e il Governo della Repubblica Francese relativa al riconoscimento reciproco dei marchi ufficiali impressi sui lavori di metalli preziosi e sui lavori plurimetallici;
 - e. Convenzione del 15 gennaio 1970[^126-7] tra la Confederazione Svizzera e la Repubblica italiana relativa al riconoscimento reciproco dei marchi impressi sui lavori in metalli preziosi;
-- f.[^126-8] Convenzione del 14 dicembre 2011[^126-9] tra il Consiglio federale della Confederazione Svizzera e il Governo della Federazione Russa relativa al riconoscimento reciproco dei marchi ufficiali impressi sui lavori di metalli preziosi dell’industria orologiera.
+- f.[^126-8] Convenzione del 14 dicembre 2011[^126-9] tra il Consiglio federale della Confederazione Svizzera e il Governo della Federazione Russa relativa al riconoscimento reciproco dei marchi ufficiali impressi sui lavori di metalli preziosi dell’industria orologiera;
+- g.[^126-10] Convenzione del 29 novembre 2021[^126-11] tra il Consiglio federale della Confederazione Svizzera e il Governo della Repubblica del Kazakstan relativa al riconoscimento reciproco dei marchi ufficiali impressi sui lavori di metalli preziosi.
 
 [^126-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^126-2]: [RS 0.941.31](https://fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013)
@@ -1650,6 +1651,8 @@ Sono fatti salvi i seguenti trattati internazionali:
 [^126-7]: [RS 0.941.345.4](https://fedlex.data.admin.ch/eli/cc/1974/752_753_753)
 [^126-8]: Introdotta dal n. I dell’O del 2 nov. 2011, in vigore dal 2 ago. 2013 ([RU 2013 2345](https://fedlex.data.admin.ch/eli/oc/2013/494)).
 [^126-9]: [RS 0.941.366.5](https://fedlex.data.admin.ch/eli/cc/2013/499)
+[^126-10]: Introdotta dal n. I dell’O del 10 nov. 2021, in vigore dal 1° apr. 2023 ([RU 2023 166](https://fedlex.data.admin.ch/eli/oc/2023/166)).
+[^126-11]: [RS 0.941.347.0](https://fedlex.data.admin.ch/eli/cc/2023/167)
 
 #### Art. 127
 
@@ -2545,8 +2548,8 @@ Numero 1
 (art. 109 cpv. 1)
 
 <table>
-<tr><td>**Marchio grande:** Dimensioni: Altezza: 1,6 mm Larghezza: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/it/xml/image/image1.png)</td></tr>
-<tr><td>**Marchio piccolo:** Dimensioni: Altezza: 0,8 mm Larghezza: 1 mm Per i marchi piccoli apposti con l’ablazione laser sono ammesse anche le seguenti dimensioni: Altezza: 0,5 mm Larghezza: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/it/xml/image/image1.png)</td></tr>
+<tr><td>**Marchio grande:** Dimensioni: Altezza: 1,6 mm Larghezza: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/it/xml/image/image1.png)</td></tr>
+<tr><td>**Marchio piccolo:** Dimensioni: Altezza: 0,8 mm Larghezza: 1 mm Per i marchi piccoli apposti con l’ablazione laser sono ammesse anche le seguenti dimensioni: Altezza: 0,5 mm Larghezza: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/it/xml/image/image1.png)</td></tr>
 </table>
 
 *Nota:*
@@ -2560,7 +2563,7 @@ Numero 2
 (art. 58 cpv. 3)
 
 <table>
-<tr><td>Dimensioni: lato: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/it/xml/image/image2.png)</td></tr>
+<tr><td>Dimensioni: lato: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/it/xml/image/image2.png)</td></tr>
 </table>
 
 Nota:
@@ -2596,8 +2599,8 @@ Esempi:
 
 Uffici federali di controllo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/it/xml/image/image3.png)
 
 Uffici cantonali di controllo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/it/xml/image/image3.png)

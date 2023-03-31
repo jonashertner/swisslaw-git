@@ -4,11 +4,11 @@ title: "Ordinance of 8 May 1934 on the Control of Trade in Precious Metals and A
 short: PMCO
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: en
-version: 2023-01-23
+version: 2023-04-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/en/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230123-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230123/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/en/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230401-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Precious Metals Control Ordinance, PMCO)[^t-1]
 
-of 8 May 1934 (Status as of 23 January 2023)
+of 8 May 1934 (Status as of 1 April 2023)
 
 [^t-1]: Amended by No I of the O of 17 Feb. 1993, in force since 1 April 1993 ([AS 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -1646,7 +1646,8 @@ This provision has effect subject to the following state treaties:
 - c. Exchange of Letters of 30 October 1935[^126-4] between Switzerland and Spain on the hallmarking of precious metals;
 - d.[^126-5] Agreement of 19 June 2018[^126-6] between the Swiss Federal Council and the Government of the Republic of France on the reciprocal recognition of official hallmarks on precious metal and multi-metal articles;
 - d. Agreement of 15 January 1970[^126-7] between the Swiss Confederation and the Republic of Italy on the reciprocal recognition of stamps on precious metal articles;
-- f.[^126-8] Agreement of 14 December 2011[^126-9] between the Swiss Federal Council and the Government of the Russian Federation on the reciprocal recognition of official hallmarks on watch industry products made of precious metals.
+- f.[^126-8] Agreement of 14 December 2011[^126-9] between the Swiss Federal Council and the Government of the Russian Federation on the reciprocal recognition of official hallmarks on watch industry products made of precious metals;
+- g.[^126-10] Agreement of 29 November 2021[^126-11] between the Federal Council of the Swiss Confederation and the Government of the Republic of Kazakhstan on the reciprocal recognition of stamps on precious metal articles.
 
 [^126-1]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^126-2]: [SR 0.941.31](https://fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013)
@@ -1657,6 +1658,8 @@ This provision has effect subject to the following state treaties:
 [^126-7]: [SR 0.941.345.4](https://fedlex.data.admin.ch/eli/cc/1974/752_753_753)
 [^126-8]: Inserted by No I of the O of 2 Nov. 2011, in force since 2 Aug. 2013 ([AS 2013 2345](https://fedlex.data.admin.ch/eli/oc/2013/494)).
 [^126-9]: [SR 0.941.366.5](https://fedlex.data.admin.ch/eli/cc/2013/499)
+[^126-10]: Inserted by No I of the O of 10 Nov. 2021, in force since 1 April 2023 ([AS 2023 166](https://fedlex.data.admin.ch/eli/oc/2023/166)).
+[^126-11]: [SR 0.941.347.0](https://fedlex.data.admin.ch/eli/cc/2023/167)
 
 #### Art. 127
 
@@ -2547,9 +2550,9 @@ Number 1
 (Art. 109 para. 1)
 
 <table>
-<tr><td>Large hallmark: [tab] Dimensions: [tab] Height: 1.6 mm Width: 2 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/en/xml/image/image1.png)</td></tr>
+<tr><td>Large hallmark: [tab] Dimensions: [tab] Height: 1.6 mm Width: 2 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/en/xml/image/image1.png)</td></tr>
 <tr><td colspan="2">Small hallmark:</td><td></td></tr>
-<tr><td>[tab] Dimensions: [tab] Height: 0.8 mm Width: 1 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/en/xml/image/image2.png)</td></tr>
+<tr><td>[tab] Dimensions: [tab] Height: 0.8 mm Width: 1 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/en/xml/image/image2.png)</td></tr>
 </table>
 
 For small hallmarks applied using laser ablation, the following dimensions are also permitted:
@@ -2569,7 +2572,7 @@ Number 2
 (Art. 58 para. 3)
 
 <table>
-<tr><td>Dimensions: Side length: 0.8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/en/xml/image/image3.png)</td></tr>
+<tr><td>Dimensions: Side length: 0.8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/en/xml/image/image3.png)</td></tr>
 </table>
 
 Note:
@@ -2616,8 +2619,8 @@ Examples:
 
 Federal Assay Offices:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/en/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/en/xml/image/image4.png)
 
 Cantonal Assay Offices:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/en/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/en/xml/image/image5.png)

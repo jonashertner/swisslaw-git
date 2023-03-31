@@ -4,11 +4,11 @@ title: "Verordnung vom 8. Mai 1934 über die Kontrolle des Verkehrs mit Edelmeta
 short: EMKV
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: de
-version: 2023-01-23
+version: 2023-04-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/de/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230123-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/de/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230401-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230123/de"
 
 (Edelmetallkontrollverordnung, EMKV)[^t-1]
 
-vom 8. Mai 1934 (Stand am 23. Januar 2023)
+vom 8. Mai 1934 (Stand am 1. April 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 17. Febr. 1993, in Kraft seit 1. April 1993 ([AS 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -1646,7 +1646,8 @@ Vorbehalten bleiben folgende Staatsverträge:
 - c. Briefwechsel vom 30. Oktober 1935[^126-4] zwischen der Schweiz und Spanien betreffend die Punzierung der Edelmetalle;
 - d.[^126-5] Abkommen vom 19. Juni 2018[^126-6] zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die gegenseitige Anerkennung der amtlichen Stempel auf Edelmetall- und Mehrmetallwaren;
 - e. Abkommen vom 15. Januar 1970[^126-7] zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik über die gegenseitige Anerkennung der Stempel auf Edelmetallwaren;
-- f.[^126-8] Abkommen vom 14. Dezember 2011[^126-9] zwischen dem Schweizerischen Bundesrat und der Regierung der Russischen Föderation über die gegenseitige Anerkennung amtlicher Stempel auf Waren der Uhrenbranche aus Edelmetallen.
+- f.[^126-8] Abkommen vom 14. Dezember 2011[^126-9] zwischen dem Schweizerischen Bundesrat und der Regierung der Russischen Föderation über die gegenseitige Anerkennung amtlicher Stempel auf Waren der Uhrenbranche aus Edelmetallen;
+- g.[^126-10] Abkommen vom 29. November 2021[^126-11] zwischen dem Bundesrat der Schweizerischen Eidgenossenschaft und der Regierung der Republik Kasachstan über die gegenseitige Anerkennung amtlicher Stempel auf Edelmetallwaren.
 
 [^126-1]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^126-2]: [SR 0.941.31](https://fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013)
@@ -1657,6 +1658,8 @@ Vorbehalten bleiben folgende Staatsverträge:
 [^126-7]: [SR 0.941.345.4](https://fedlex.data.admin.ch/eli/cc/1974/752_753_753)
 [^126-8]: Eingefügt durch Ziff. I der V vom 2. Nov. 2011, in Kraft seit 2. Aug. 2013 ([AS 2013 2345](https://fedlex.data.admin.ch/eli/oc/2013/494)).
 [^126-9]: [SR 0.941.366.5](https://fedlex.data.admin.ch/eli/cc/2013/499)
+[^126-10]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. April 2023 (AS **20****2****3** 166).
+[^126-11]: [SR 0.941.347.0](https://fedlex.data.admin.ch/eli/cc/2023/167)
 
 #### Art. 127
 
@@ -2545,8 +2548,8 @@ Ziffer 1
 (Art. 109 Abs. 1)
 
 <table>
-<tr><td>**Grosse Punze:** Dimensionen: Höhe: 1,6 mm Breite: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/de/xml/image/image1.png)</td></tr>
-<tr><td>**Kleine Punze:** Dimensionen: Höhe: 0,8 mm Breite: 1 mm Für durch Laserablation angebrachte kleine Punzen sind auch folgende Dimensionen zulässig: Höhe: 0,5 mm Breite: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/de/xml/image/image1.png)</td></tr>
+<tr><td>**Grosse Punze:** Dimensionen: Höhe: 1,6 mm Breite: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/de/xml/image/image1.png)</td></tr>
+<tr><td>**Kleine Punze:** Dimensionen: Höhe: 0,8 mm Breite: 1 mm Für durch Laserablation angebrachte kleine Punzen sind auch folgende Dimensionen zulässig: Höhe: 0,5 mm Breite: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/de/xml/image/image1.png)</td></tr>
 </table>
 
 Anmerkung:
@@ -2560,7 +2563,7 @@ Ziffer 2
 (Art. 58 Abs. 3)
 
 <table>
-<tr><td>Dimensionen: Seitenlänge: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/de/xml/image/image2.png)</td></tr>
+<tr><td>Dimensionen: Seitenlänge: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/de/xml/image/image2.png)</td></tr>
 </table>
 
 Anmerkung:
@@ -2596,8 +2599,8 @@ Beispiele
 
 Eidgenössische Kontrollämter:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/de/xml/image/image3.png)
 
 Kantonale Kontrollämter:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/de/xml/image/image3.png)
