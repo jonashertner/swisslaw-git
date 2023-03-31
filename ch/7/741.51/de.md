@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Oktober 1976 über die Zulassung von Personen und Fah
 short: VZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: de
-version: 2023-01-23
+version: 2023-04-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20230123/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20230123-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20230401/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20230401-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230123/de"
 
 (Verkehrszulassungsverordnung,[^t-1] VZV)
 
-vom 27. Oktober 1976 (Stand am 23. Januar 2023)
+vom 27. Oktober 1976 (Stand am 1. April 2023)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -1292,19 +1292,35 @@ Besteht die betroffene Person die Kontrollfahrt nicht, wird:
 
 **Vorsorglicher Entzug**[^30-1]
 
-Bestehen ernsthafte Zweifel an der Fahreignung einer Person, so kann der Lernfahr- oder der Führerausweis vorsorglich entzogen werden.
+<sup>1</sup> Bestehen ernsthafte Zweifel an der Fahreignung einer Person, so kann die kantonale Behörde den vorsorglichen Entzug des Lernfahr- oder des Führerausweises verfügen.
 
-[^30-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
+<sup>2</sup> Verfügt die kantonale Behörde bei polizeilich abgenommenen und ihr übermittelten Lernfahr- oder Führerausweisen innert 10 Arbeitstagen seit der polizeilichen Abnahme nicht mindestens den vorsorglichen Entzug, so gibt sie der berechtigten Person den Lernfahr- oder den Führerausweis zurück.
+
+[^30-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. April 2023 ([AS 2022 407](https://fedlex.data.admin.ch/eli/oc/2022/407)).
 
 #### Art. 30a
 
-**Meldungen von Privatpersonen über Fahreignungsmängel**[^30a-1]
+**Gesuch auf Neubeurteilung des vorsorglichen Entzugs**[^30a-1]
 
-<sup>1</sup> Meldet eine Privatperson der kantonalen Behörde Zweifel an der Fahreignung einer anderen Person, so kann die kantonale Behörde beim behandelnden Arzt einen Bericht einholen. Auf Wunsch der meldenden Person sichert sie dieser Vertraulichkeit zu. Ihre Identität darf auch im Rahmen von Administrativverfahren nicht preisgegeben werden.
+<sup>1</sup> Eine Person, deren Lernfahr- oder deren Führerausweis vorsorglich entzogen wurde, kann drei Monate nach Eintritt der Rechtskraft der Entzugsverfügung mit schriftlichem Gesuch eine Neubeurteilung von der kantonalen Behörde verlangen.
+
+<sup>2</sup> Zudem kann sie jeweils drei Monate nach Eintritt der Rechtskraft einer Verfügung über die Aufrechterhaltung des vorsorglichen Entzugs mit schriftlichem Gesuch eine Neubeurteilung von der kantonalen Behörde verlangen.
+
+<sup>3</sup> Die kantonale Behörde entscheidet jeweils innert 20 Arbeitstagen nach Eingang des Gesuchs mittels anfechtbarer Verfügung über die Aufrechterhaltung des vorsorglichen Entzugs oder gibt der berechtigten Person den Lernfahr- oder den Führerausweis zurück.
+
+[^30a-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2013 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)). Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. April 2023 ([AS 2022 407](https://fedlex.data.admin.ch/eli/oc/2022/407)).
+
+#### Art. 30b
+
+**Meldungen von Privatpersonen über Fahreignungsmängel**[^30b-1]
+
+<sup>1</sup> Meldet eine Privatperson der kantonalen Behörde Zweifel an der Fahreignung einer anderen Person, so kann die kantonale Behörde beim behandelnden Arzt der gemeldeten Person einen Bericht einholen. Auf Wunsch der meldenden Person und bei ihrem Nachweis eines schutzwürdigen Interesses sichert sie dieser Vertraulichkeit zu. Ihre Identität darf auch im Rahmen von Administrativverfahren nicht preisgegeben werden.
 
 <sup>2</sup> Hat die gemeldete Person keinen behandelnden Arzt oder gibt sie diesen nicht bekannt, so kann die kantonale Behörde nach pflichtgemässem Ermessen eine Untersuchung nach Artikel 28*a* anordnen.
 
-[^30a-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Juli 2014 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
+<sup>3</sup> Allfällige Schadenersatzforderungen der gemeldeten Person gegen die Behörde, namentlich für Kosten von Fahreignungsuntersuchungen, die aufgrund ungerechtfertigter Meldungen angeordnet wurden, richten sich nach dem jeweiligen kantonalen Verantwortlichkeitsrecht.
+
+[^30b-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. April 2023 ([AS 2022 407](https://fedlex.data.admin.ch/eli/oc/2022/407)).
 
 ### 132 Ausweisentzug
 
@@ -1347,14 +1363,19 @@ Die Entzugsbehörde kann:
 
 <sup>5</sup>
 
-In Härtefällen kann unter Einhaltung der gesetzlichen Mindestdauer der Ausweisentzug je Kategorie, Unterkategorie oder Spezialkategorie für eine unterschiedliche Dauer verfügt werden, sofern der Ausweisinhaber namentlich:
+Die kantonale Behörde kann Ausweisinhabern eine Bewilligung für Fahrten während des Lernfahr- oder des Führerausweisentzugs erteilen, sofern diese zu ihrer Berufsausübung notwendig sind. Sie legt die Einzelheiten der bewilligten Fahrten in ihrer Verfügung fest. Voraussetzung ist, dass der Ausweis:
 
-- a. die Widerhandlung, die zum Ausweisentzug führte, mit einem Motorfahrzeug begangen hat, auf dessen Benutzung er beruflich nicht angewiesen ist; und
-- b. als Führer eines Motorfahrzeuges der Kategorie, Unterkategorie oder Spezialkategorie, für welche die Entzugsdauer verkürzt werden soll, unbescholten ist.
+- a. wegen einer leichten Widerhandlung nach Artikel 16*a* SVG entzogen wird;
+- b. nicht auf unbestimmte Zeit oder für immer entzogen wird; und
+- c. in den vorangegangenen fünf Jahren nicht mehr als einmal entzogen worden ist.[^33-4]
+
+<sup>6</sup> In Härtefällen kann die kantonale Behörde unter Einhaltung der gesetzlichen Mindestdauer den Ausweisentzug je Kategorie, Unterkategorie oder Spezialkategorie für eine unterschiedliche Dauer verfügen.[^33-5]
 
 [^33-1]: Fassung gemäss Ziff. I der V vom 28. April 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 [^33-2]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 [^33-3]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
+[^33-4]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. April 2023 ([AS 2022 407](https://fedlex.data.admin.ch/eli/oc/2022/407)).
+[^33-5]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. April 2023 ([AS 2022 407](https://fedlex.data.admin.ch/eli/oc/2022/407)).
 
 #### Art. 34
 
@@ -1449,7 +1470,7 @@ Das Fahrverbot gilt für jene Fahrzeugarten, für die es in der Verfügung angeo
 
 [^37-1]: Fassung gemäss Ziff. I der V vom 28. April 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 
-### 133
+### 133 …
 
 #### Art. 38 und39
 

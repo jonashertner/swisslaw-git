@@ -4,11 +4,11 @@ title: "Ordinanza del 27 ottobre 1976 sull'ammissione alla circolazione di perso
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: it
-version: 2023-01-23
+version: 2023-04-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20230123/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20230123-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20230401/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20230401-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230123/it"
 
 (Ordinanza sull’ammissione alla circolazione, OAC)[^t-1]
 
-del 27 ottobre 1976 (Stato 23 gennaio 2023)
+del 27 ottobre 1976 (Stato 1° aprile 2023)
 
 [^t-1]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -1294,19 +1294,35 @@ Se la persona interessata non supera la corsa di controllo:
 
 **Revoca preventiva**[^30-1]
 
-Se sussistono seri dubbi sull’idoneità alla guida di una persona, la licenza per allievo conducente o la licenza di condurre può essere revocata a titolo preventivo.
+<sup>1</sup> Se sussistono seri dubbi sull’idoneità alla guida di una persona, l’autorità cantonale può decidere la revoca preventiva della licenza per allievo conducente o della licenza di condurre.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
+<sup>2</sup> L’autorità cantonale restituisce all’avente diritto la licenza per allievo conducente o la licenza di condurre sequestrata e trasmessale dalla polizia se non decide almeno la revoca preventiva entro dieci giorni lavorativi dal sequestro.
+
+[^30-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 222, in vigore dal 1° apr. 2023 ([RU 2022 407](https://fedlex.data.admin.ch/eli/oc/2022/407)).
 
 #### Art. 30a
 
-**Notifiche trasmesse da privati in merito a carenze nell’idoneità alla guida**[^30a-1]
+**Domanda di rivalutazione della revoca preventiva**[^30a-1]
 
-<sup>1</sup> Se un privato notifica all’autorità cantonale i propri dubbi in merito all’idoneità alla guida di un’altra persona, l’autorità cantonale può chiedere al medico curante di redigere un rapporto. Se la persona che ha trasmesso la notifica lo desidera, l’autorità cantonale le garantisce la riservatezza dei suoi dati. La sua identità non può essere divulgata neppure nel quadro di un procedimento amministrativo.
+<sup>1</sup> La persona alla quale è stata revocata a titolo preventivo la licenza per allievo conducente o la licenza di condurre può esigere dall’autorità cantonale, mediante domanda scritta, una rivalutazione della decisione di revoca una volta decorsi tre mesi dal passaggio in giudicato.
 
-<sup>2</sup> Se la persona in questione non ha un medico curante o non ne comunica l’identità, l’autorità cantonale può ordinare, in virtù del suo potere di apprezzamento, un esame secondo l’articolo 28*a*.
+<sup>2</sup> Può inoltre esigere dall’autorità cantonale, mediante domanda scritta, una rivalutazione della decisione di conferma della revoca preventiva una volta decorsi tre mesi dal passaggio in giudicato.
 
-[^30a-1]: Introdotto dal n. I dell’O del 29 nov. 2013, in vigore dal 1° lug. 2014 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
+<sup>3</sup> In entrambi i casi, entro 20 giorni lavorativi dal ricevimento della domanda, conferma mediante decisione impugnabile la revoca preventiva della licenza per allievo conducente o della licenza di condurre oppure la restituisce all’avente diritto.
+
+[^30a-1]: Introdotto dal n. I dell’O del 29 nov. 2013 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)). Nuovo testo giusta il n. I dell’O del 22 giu. 222, in vigore dal 1° apr. 2023 ([RU 2022 407](https://fedlex.data.admin.ch/eli/oc/2022/407)).
+
+#### Art. 30b
+
+**Notifiche trasmesse da privati in merito a carenze nell’idoneità alla guida**[^30b-1]
+
+<sup>1</sup> Se un privato notifica all’autorità cantonale i propri dubbi in merito all’idoneità alla guida di un’altra persona, l’autorità cantonale può chiedere al medico curante di quest’ultima di redigere un rapporto. Se il privato che ha trasmesso la notifica lo desidera e dimostra un interesse degno di protezione, l’autorità cantonale garantisce la riservatezza dei suoi dati. La sua identità non può essere divulgata neppure nel quadro di un procedimento amministrativo.
+
+<sup>2</sup> Se la persona in questione non ha un medico curante oppure non ne comunica l’identità, l’autorità cantonale può ordinare, in virtù del suo potere di apprezzamento, un esame di cui all’articolo 28*a*.
+
+<sup>3</sup> Eventuali pretese di risarcimento nei confronti dell’autorità da parte della persona oggetto della notifica, in particolare dei costi per esami di idoneità alla guida ordinati sulla base di notifiche ingiustificate, sono disciplinate dal pertinente diritto cantonale in materia di responsabilità.
+
+[^30b-1]: Introdotto dal n. I dell’O del 22 giu. 222, in vigore dal 1° apr. 2023 ([RU 2022 407](https://fedlex.data.admin.ch/eli/oc/2022/407)).
 
 ### 132 Revoca della licenza di condurre
 
@@ -1349,14 +1365,19 @@ L’autorità di revoca può revocare:
 
 <sup>5</sup>
 
-In casi di rigore, la revoca della licenza per qualsiasi categoria, sottocategoria o categoria speciale può essere decisa per durate differenti, osservando la durata minima stabilita dalla legge, segnatamente se il titolare della licenza:
+L’autorità cantonale può rilasciare al titolare della licenza un’autorizzazione a effettuare corse durante il periodo di revoca della licenza per allievo conducente o della licenza di condurre nella misura necessaria per l’esercizio della propria professione. I dettagli concernenti le corse autorizzate sono fissati nella decisione. L’autorizzazione è concessa a condizione che la licenza:
 
-- a. ha commesso l’infrazione implicante la revoca alla guida di un veicolo a motore che non gli serve per l’esercizio della sua professione; e
-- b. gode di buona reputazione come conducente di un veicolo a motore della categoria, sottocategoria o della categoria speciale per la quale verrebbe ridotta la durata della revoca.
+- a. sia revocata per un’infrazione lieve secondo l’articolo 16*a* LCStr;
+- b. non sia revocata per una durata indeterminata o definitivamente; e
+- c. non sia stata revocata più di una volta nei cinque anni precedenti.[^33-4]
+
+<sup>6</sup> In casi di rigore, l’autorità cantonale può decidere, nel rispetto del limite minimo stabilito dalla legge, una revoca di durata diversa per ciascuna categoria, sottocategoria o categoria speciale.[^33-5]
 
 [^33-1]: Nuovo testo giusta il n. I dell’O del 28 apr. 2004, in vigore dal 1° gen. 2005 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 [^33-2]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 [^33-3]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
+[^33-4]: Nuovo testo giusta il n. I dell’O del 22 giu. 222, in vigore dal 1° apr. 2023 ([RU 2022 407](https://fedlex.data.admin.ch/eli/oc/2022/407)).
+[^33-5]: Introdotto dal n. I dell’O del 22 giu. 222, in vigore dal 1° apr. 2023 ([RU 2022 407](https://fedlex.data.admin.ch/eli/oc/2022/407)).
 
 #### Art. 34
 
@@ -3135,9 +3156,9 @@ Fino al 31 dicembre 2019, le autorità cantonali possono incaricare di effettuar
 
 <sup>2</sup> Chi il 31 dicembre 2019 è titolare di una licenza di condurre in prova deve seguire soltanto un giorno di formazione complementare. L’articolo 27*c* non è applicabile.
 
-<sup>3</sup> A chi ha conseguito prima del 1° gennaio 2021 la licenza di condurre di categoria A limitata a una potenza del motore di 35 kW e un rapporto tra questa e il peso a vuoto non superiore a 0,20 kW/kg, continua ad applicarsi l’articolo 24 capoverso 5 del diritto previgente.
-
 <sup>4</sup> Le persone che hanno ottenuto la licenza per allievo conducente della sottocategoria A1 prima del 1° gennaio 2021 e hanno svolto la formazione pratica di base della durata di otto ore conformemente al diritto previgente sono ammesse all’esame pratico di conducente. Se già titolari di una licenza di condurre della categoria B o della sottocategoria B1, tali persone ottengono la licenza di condurre senza dover superare l’esame pratico di conducente<sup>.</sup>
+
+<sup>5</sup> Alle persone la cui licenza di condurre è limitata alla guida di veicoli provvisti di dispositivi che agevolano il cambio di marcia o a trazione elettrica la limitazione è soppressa, su richiesta, se non vi sono carenze nell’idoneità alla guida.
 
 <sup>5</sup> Alle persone la cui licenza di condurre è limitata alla guida di veicoli provvisti di dispositivi che agevolano il cambio di marcia o a trazione elettrica la limitazione è soppressa, su richiesta, se non vi sono carenze nell’idoneità alla guida.
 

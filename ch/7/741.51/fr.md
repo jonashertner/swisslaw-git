@@ -4,11 +4,11 @@ title: "Ordonnance du 27 octobre 1976 réglant l'admission des personnes et des 
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: fr
-version: 2023-01-23
+version: 2023-04-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20230123-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20230401-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230123/fr"
 
 (Ordonnance réglant l’admission à la circulation routière,[^t-1] OAC)
 
-du 27 octobre 1976 (État le 23 janvier 2023)
+du 27 octobre 1976 (Etat le 1<sup>er</sup> avril 2023)
 
 [^t-1]: Introduit par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -1171,7 +1171,7 @@ La formation complémentaire doit être suivie dans un délai de douze mois à c
 
 **Attestation de participation au cours**[^27d-1]
 
-<sup>1</sup> À l’issue de la formation complémentaire, l’organisateur est tenu de délivrer une attestation de participation aux personnes l’ayant suivie ; pour ce faire, il remplit leformulaire prévu à l’annexe 4*a* et informe l’autorité cantonale par voie électronique.
+<sup>1</sup> À l’issue de la formation complémentaire, l’organisateur est tenu de délivrer une attestation de participation aux personnes l’ayant suivie; pour ce faire, il remplit leformulaire prévu à l’annexe 4*a* et informe l’autorité cantonale par voie électronique.
 
 <sup>2</sup> Tout organisateur de cours qui atteste la participation à la formation complémentaire doit être à même de fournir pendant cinq ans à l’autorité compétente des renseignements concernant les nom et prénom, l’adresse et le numéro du permis de conduire du participant au cours considéré.
 
@@ -1289,21 +1289,37 @@ Si la personne concernée ne réussit pas la course de contrôle:
 
 #### Art. 30
 
-**Retrait du permis à titre préventif**[^30-1]
+**Retrait à titre préventif**[^30-1]
 
-Le permis d’élève conducteur ou le permis de conduire peut être retiré à titre préventif en cas de doutes sérieux quant à l’aptitude à la conduite d’une personne.
+<sup>1</sup> En cas de doutes sérieux quant à l’aptitude à la conduite d’une personne, l’autorité cantonale peut prononcer le retrait de son permis d’élève conducteur ou de son permis de conduire à titre préventif.
 
-[^30-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
+<sup>2</sup> L’autorité cantonale restitue à l’ayant droit le permis d’élève conducteur ou le permis de conduire qui a été saisi par la police si elle n’en prononce pas au moins le retrait à titre préventif dans les dix jours à compter de la saisie.
+
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2022 407](https://fedlex.data.admin.ch/eli/oc/2022/407)).
 
 #### Art. 30a
 
-**Communications de particuliers sur des manques quant à l’aptitude à la conduite**[^30a-1]
+**Demande de réévaluation du retrait du permis à titre préventif**[^30a-1]
 
-<sup>1</sup> Si un particulier communique des doutes sur l’aptitude à la conduite d’une autre personne à l’autorité cantonale, cette dernière peut demander un rapport au médecin traitant. Elle garantit l’anonymat à l’auteur de la communication s’il le demande. L’identité de celui-ci ne pourra pas non plus être divulguée dans le cadre de procédures administratives.
+<sup>1</sup> Toute personne dont le permis d’élève conducteur ou le permis de conduire a été retiré à titre préventif peut, sur demande écrite, exiger de l’autorité cantonale une réévaluation de la décision de retrait trois mois après l’entrée en force de celle-ci.
 
-<sup>2</sup> Si la personne signalée n’a pas de médecin traitant ou qu’elle n’indique pas qui est ce dernier, l’autorité cantonale peut, dans les limites de son pouvoir d’appréciation, ordonner un examen conformément à l’art. 28*a*.
+<sup>2</sup> Elle a également la possibilité, sur demande écrite, d’exiger de l’autorité cantonale une réévaluation du retrait du permis trois mois après l’entrée en force d’une décision concernant le maintien du retrait à titre préventif.
 
-[^30a-1]: Introduit par le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
+<sup>3</sup> L’autorité cantonale se prononce dans les 20 jours ouvrés suivant la réception de la demande sur le maintien du retrait à titre préventif au moyen d’une décision sujette à recours ou restitue le permis d’élève conducteur ou le permis de conduire à l’ayant droit.
+
+[^30a-1]: Introduit par le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)). Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2022 407](https://fedlex.data.admin.ch/eli/oc/2022/407)).
+
+#### Art. 30b
+
+**Communications de particuliers sur des manques quant à l’aptitude à la conduite**[^30b-1]
+
+<sup>1</sup> Si un particulier communique des doutes sur l’aptitude à la conduite d’une autre personne à l’autorité cantonale, cette dernière peut demander un rapport au médecin traitant de la personne signalée. Elle garantit l’anonymat à l’auteur de la communication s’il le demande et qu’il apporte la preuve d’un intérêt digne de protection. Son identité ne pourra pas non plus être divulguée dans le cadre de procédures administratives.
+
+<sup>2</sup> Si la personne signalée n’indique pas qui est son médecin traitant ou qu’elle n’en a pas, l’autorité cantonale peut, dans les limites de son pouvoir d’appréciation, ordonner un examen conformément à l’art. 28*a*.
+
+<sup>3</sup> Les éventuelles demandes d’indemnisation adressées à l’autorité par la personne signalée, notamment en ce qui concerne les coûts occasionnés par les examens d’évaluation de l’aptitude à la conduite ordonnés sur la base de communications injustifiées, sont régies par le droit cantonal applicable en matière de responsabilité.
+
+[^30b-1]: Introduit par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> avril 2023 ([RO 2022 407](https://fedlex.data.admin.ch/eli/oc/2022/407)).
 
 ### 132 Retrait du permis
 
@@ -1346,14 +1362,19 @@ L’autorité compétente pour prononcer le retrait peut:
 
 <sup>5</sup>
 
-Afin d’éviter les conséquences d’une rigueur excessive, le retrait du permis de conduire peut être décidé pour une durée différente selon les catégories, sous-catégories ou catégories spéciales sous réserve d’observer la durée minimale fixée par la loi, si, notamment, le titulaire du permis:
+L’autorité cantonale peut délivrer aux titulaires du permis d’élève conducteur ou du permis de conduire une autorisation leur permettant d’effectuer pendant la période de retrait du permis les trajets nécessaires à l’exercice de leur profession. Elle définit les modalités des trajets autorisés dans sa décision. Cette autorisation est accordée pour autant que les conditions suivantes soient réunies:
 
-- a. a commis l’infraction justifiant le retrait avec un véhicule automobile dont il n’a pas besoin pour exercer sa profession, et
-- b. jouit d’une bonne réputation en tant que conducteur du véhicule de la catégorie, sous-catégorie ou catégorie spéciale pour laquelle il s’agit d’abréger la durée du retrait.
+- a. le permis a été retiré à la suite d’une infraction légère au sens de l’art. 16*a* LCR;
+- b. il n’a pas été retiré pour une durée indéterminée ou de manière définitive;
+- c. il n’a pas été retiré plus d’une fois au cours des cinq années précédentes.[^33-4]
+
+<sup>6</sup> Dans les cas de rigueur, l’autorité cantonale peut décider de retirer le permis pour une durée différente selon les catégories, sous-catégories ou catégories spéciales, sous réserve de la durée minimale fixée par la loi.[^33-5]
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 [^33-2]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 [^33-3]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
+[^33-4]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2022 407](https://fedlex.data.admin.ch/eli/oc/2022/407)).
+[^33-5]: Introduit par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> avril 2023 ([RO 2022 407](https://fedlex.data.admin.ch/eli/oc/2022/407)).
 
 #### Art. 34
 
@@ -2800,7 +2821,7 @@ Le maître d’apprentissage qui n’annonce pas la résiliation du contrat d’
 
 <sup>1.</sup> et 2. …[^145-1]
 
-<sup>3.</sup> Celui aura conduit un cyclomoteur sans le permis de circulation ou la plaque nécessaires,
+<sup>3.</sup> Celui qui aura conduit un cyclomoteur sans le permis de circulation ou la plaque nécessaires,
 
 celui qui aura permis à un tiers d’utiliser un cyclomoteur sans plaque ou sans permis de circulation,
 
@@ -4235,11 +4256,11 @@ Il est exigé de conduire de manière fluide, avec habileté et une bonne percep
 La durée de l’examen et l’itinéraire à parcourir doivent être suffisants pour permettre d’évaluer les aptitudes et les comportements prescrits dans la présente annexe. La durée de l’examen ne devrait être en aucun cas inférieure à:
 
 - – 30 minutes pour la catégorie A et la sous-catégorie A1;
-- – 60 minutes pour les catégories B, BE, DE, les sous-catégories B1, C1, D1, C1E et D1E, la catégorie spéciale F et pour l’autorisation de transporter des personnes à titre professionnel au sens de l’art. 25. La course d’examen destinée à l’obtention du certificat de capacité pour le transport de personnes ou de marchandises au sens de l’art. 14, al. 3, de l’ordonnance du 15 juin 2007 réglant l’admission des chauffeurs[^annex11-lvlu1-lvlIV-1] peut être effectuée directement à la suite;
+- – 60 minutes pour les catégories B, BE, DE, les sous-catégories B1, C1, D1, C1E et D1E, la catégorie spéciale F et pour l’autorisation de transporter des personnes à titre professionnel au sens de l’art. 25. La course d’examen destinée à l’obtention du certificat de capacité pour le transport de personnes ou de marchandises au sens de l’art. 14, al. 3, de l’ordonnance du 15 juin 2007 réglant l’admission des chauffeurs[^annex12-lvlu1-lvlIV-1] peut être effectuée directement à la suite;
 - – 90 minutes pour les catégories C et CE;
 - – 120 minutes pour la catégorie D.
 
-[^annex11-lvlu1-lvlIV-1]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
+[^annex12-lvlu1-lvlIV-1]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
 
 ### V Véhicules servant aux examens
 
