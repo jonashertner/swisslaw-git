@@ -4,7 +4,7 @@ number: "171.01"
 title: LOI du 08.05.2007 sur le Grand Conseil (LGC)
 short: LGC
 language: fr
-version: 2023-01-01
+version: 2023-04-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01?id=f2e96e40-e605-4a11-8df5-73896762e321"
 ---
 
@@ -49,7 +49,7 @@ décrète
 <sup>1</sup> Les élections générales pour le renouvellement du Grand Conseil ont lieu tous les cinq ans, au printemps, conformément à l'article 92 de la Constitution [^3-1] et aux dispositions de la loi sur l'exercice des droits politiques [^3-2] .
 
 [^3-1]: [Constitution fédérale de la Confédération suisse du 18.04.1999, RS 101](https://www.admin.ch/opc/fr/classified-compilation/19995395/index.html)
-[^3-2]: Loi du 16.05.1989 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=44f134d8-94c3-4ae6-8902-ad85c6ff0f81))
+[^3-2]: Loi du 05.10.2021 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
 
 #### Art. 4
 
@@ -234,7 +234,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 <sup>4</sup> Il y a lieu à élection complémentaire selon la loi sur l'exercice des droits politiques [^15-2] .
 
 [^15-1]: [Constitution fédérale de la Confédération suisse du 18.04.1999, RS 101](https://www.admin.ch/opc/fr/classified-compilation/19995395/index.html)
-[^15-2]: Loi du 16.05.1989 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=44f134d8-94c3-4ae6-8902-ad85c6ff0f81))
+[^15-2]: Loi du 05.10.2021 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
 
 ### Section II Indemnisation
 
@@ -337,6 +337,8 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 <sup>2</sup> Il contrôle le fonctionnement du Secrétariat général. Le secrétaire général lui est subordonné, par l'intermédiaire du président du Grand Conseil.
 
 <sup>3</sup> Il vérifie les titres d'éligibilité des députés élus en cours de législature.
+
+<sup>3bis</sup> Il prend toute mesure utile à la prévention, la sensibilisation et la lutte contre le harcèlement sexuel dès lors que sont impliquées des personnes en leur qualité de député, notamment en prévoyant une procédure indépendante du traitement des plaintes.
 
 <sup>4</sup> Il veille à une collaboration étroite avec le Conseil d'Etat, notamment la présidence de celui-ci.
 
