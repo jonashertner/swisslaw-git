@@ -3,20 +3,19 @@ canton: AR
 number: "141.21"
 title: Weisung über Entschädigungen für Mitglieder und Fraktionen des Kantonsrates
 language: de
-version: 2019-08-23
-valid_until: 2023-03-31
-version_adopted: 2019-08-12
+version: 2023-04-01
+version_adopted: 2023-03-13
 adopted: 2019-08-12
 in_force: 2019-08-23
 url: "https://ar.clex.ch/app/de/texts_of_law/141.21"
-pdf: "https://ar.clex.ch/api/de/versions/1272/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1460/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Weisung über Entschädigungen für Mitglieder und Fraktionen des Kantonsrates
 
-vom 12.08.2019 (Stand 23.08.2019)
+vom 12.08.2019 (Stand 01.04.2023)
 
 Das Büro des Kantonsrates von Appenzell Ausserrhoden,
 
@@ -73,7 +72,7 @@ beschliesst:
 - c) eine Traktandenliste vorliegt
 - d) und Protokoll geführt wird.
 
-<sup>2</sup> Rekrutierungsgespräche von Wahlausschüssen berechtigen zum Bezug von Taggeldern.
+<sup>2</sup> Rekrutierungsgespräche von Wahlausschüssen berechtigen zum Bezug von Taggeldern. Für das Studium der Rekrutierungsunterlagen wird gesondert ein ganzes Taggeld ausgerichtet.
 
 <sup>3</sup> Die Teilnahme an Informations- und Weiterbildungsveranstaltungen des Kantonsrates berechtigt zum Bezug von Taggeldern, sofern die Veranstaltungen vom Büro genehmigt wurden.
 
