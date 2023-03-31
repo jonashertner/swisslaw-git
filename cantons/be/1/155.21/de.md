@@ -4,13 +4,13 @@ number: "155.21"
 title: Gesetz über die Verwaltungsrechtspflege
 short: VRPG
 language: de
-version: 2020-11-01
-valid_until: 2023-03-31
-version_adopted: 2020-09-02
+version: 2023-04-01
+valid_until: 2023-07-31
+version_adopted: 2022-09-13
 adopted: 1989-05-23
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/155.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2005/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2815/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2005/pdf_file"
 
 (VRPG)
 
-vom 23.05.1989 (Stand 01.11.2020)
+vom 23.05.1989 (Stand 01.04.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -409,9 +409,9 @@ beschliesst:
 
 #### Art. 33
 
-**Rückweisung zur Verbesserung**
+**Rückweisung zur Verbesserung bzw. zur Übersetzung**
 
-<sup>1</sup> Die Behörde weist unklare, unvollständige, Sitte und Anstand verletzende oder nicht in einer der beiden Landessprachen bzw. nicht in der richtigen Amtssprache verfasste Eingaben zur Verbesserung bzw. Übersetzung zurück.
+<sup>1</sup> Die Behörde weist unklare, weitschweifige, unvollständige, Sitte und Anstand verletzende oder nicht in einer der beiden Landessprachen bzw. nicht in der richtigen Amtssprache verfasste Eingaben zur Verbesserung bzw. Übersetzung zurück.
 
 <sup>2</sup> Sie setzt dazu eine kurze Nachfrist mit dem Hinweis darauf, dass die Eingabe als zurückgezogen gilt, wenn sie nicht innert der Frist wieder eingereicht wird.
 
@@ -651,8 +651,10 @@ beschliesst:
 <sup>1</sup> Ein rechtskräftig erledigtes Verfahren ist auf Gesuch hin oder von Amtes wegen durch die Verwaltungsbehörde wiederaufzunehmen, wenn
 
 - a ein Strafverfahren ergeben hat, dass durch ein Verbrechen oder Vergehen zum Nachteil der Partei auf die Verfügung eingewirkt wurde; ist das Strafverfahren nicht durchführbar, so kann der Beweis anderswie erbracht werden;
-- b die Partei nachträglich erhebliche Tatsachen erfährt oder entscheidende Beweismittel auffindet, die sie im früheren Verfahren nicht anrufen konnte, unter Ausschluss derjenigen, die nach der fraglichen Verfügung entstanden sind;
+- b die Partei oder die Behörde nachträglich erhebliche Tatsachen erfährt oder entscheidende Beweismittel auffindet, die sie im früheren Verfahren nicht anrufen konnte, unter Ausschluss derjenigen, die nach der fraglichen Verfügung entstanden sind;
 - c zwingende öffentliche Interessen es rechtfertigen.
+
+<sup>1a</sup> Zugunsten des Verfügungsadressaten kann die Behörde das Verfahren jederzeit wiederaufnehmen.
 
 <sup>2</sup> Vorbehalten bleibt eine andere gesetzliche Regelung der Wiederaufnahme des Verfahrens und der Änderung der Verfügung.
 
@@ -738,7 +740,7 @@ beschliesst:
 <sup>1</sup> Die in der Sache zuständige Direktion beurteilt Beschwerden gegen Verfügungen im Sinne von Artikel 60 Absatz 1 Buchstabe a
 
 - a von ihr untergeordneten Verwaltungseinheiten (Ämtern, Abteilungen, Dienststellen), sofern nicht die Gesetzgebung ein Rechtsmittel unmittelbar an eine andere Rechtsmittelinstanz vorsieht,
-- b der Regierungsstatthalterinnen oder Regierungsstatthalter, soweit die Gesetzgebung es vorsieht,
+- b der Regierungsstatthalterinnen und Regierungsstatthalter, soweit die Gesetzgebung es vorsieht,
 - c der Behörden im Sinne von Artikel 2 Absatz 1 Buchstabe b, soweit die Gesetzgebung es vorsieht,
 - d anderer kantonaler Behörden im Sinne von Artikel 2 Absatz 1 Buchstabe c, soweit die Gesetzgebung nicht eine andere Rechtsmittelinstanz vorsieht.
 
@@ -746,7 +748,7 @@ beschliesst:
 
 #### Art. 63
 
-**Regierungsstatthalter**
+**Regierungsstatthalterinnen und Regierungsstatthalter**
 
 <sup>1</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter beurteilt Beschwerden gegen
 
@@ -759,11 +761,11 @@ beschliesst:
 
 **Regierungsrat**
 
-<sup>1</sup> Der Regierungsrat beurteilt Beschwerden gegen Verfügungen oder Beschwerdeentscheide seiner Direktionen und der Regierungsstatthalterinnen und Regierungsstatthalter, und, wenn es die Gesetzgebung vorsieht, gegen Verfügungen von Verwaltungseinheiten der Direktionen oder von Gemeinden, sofern nicht
+<sup>1</sup> Der Regierungsrat beurteilt Beschwerden gegen Verfügungen oder Beschwerdeentscheide seiner Direktionen und der Regierungsstatthalterinnen und Regierungsstatthalter und, wenn es die Gesetzgebung vorsieht, gegen Verfügungen von Verwaltungseinheiten der Direktionen oder von Gemeinden, sofern
 
-- a ein Rechtsmittel unmittelbar an eine verwaltungsunabhängige kantonale Justizbehörde offensteht,
-- b das eidgenössische Recht ein Rechtsmittel unmittelbar an den Bundesrat oder an eine eidgenössische Verwaltungsjustizbehörde vorsieht,
-- c die Direktion beziehungsweise die Regierungsstatthalterin oder der Regierungsstatthalter kantonal letztinstanzlich entscheidet.
+- a kein Rechtsmittel unmittelbar an das Verwaltungsgericht oder an eine andere verwaltungsunabhängige kantonale Justizbehörde offensteht,
+- b das eidgenössische Recht kein Rechtsmittel unmittelbar an den Bundesrat oder an eine eidgenössische Verwaltungsjustizbehörde vorsieht,
+- c die Direktion nicht kantonal letztinstanzlich entscheidet.
 
 ### 4.3 Beschwerdeverfahren
 
@@ -1115,7 +1117,7 @@ beschliesst:
 - a …
 - b vermögensrechtliche Streitigkeiten aus öffentlichem Recht zwischen Gemeinden,
 - c vermögensrechtliche Ansprüche Privater aus öffentlichem Recht gegen Gemeinden,
-- d unter Vorbehalt von Artikel 87 Buchstabe b Streitigkeiten aus öffentlich- rechtlichen Verträgen, soweit die zuständige Behörde die Streitigkeit nach dem Gesetz nicht durch Verfügung zu regeln hat,
+- d unter Vorbehalt von Artikel 87 Absatz 1 Buchstabe b Streitigkeiten aus öffentlich-rechtlichen Verträgen, soweit die zuständige Behörde die Streitigkeit nach dem Gesetz nicht durch Verfügung zu regeln hat,
 - e vermögensrechtliche Streitigkeiten zwischen Privaten aus öffentlichem Recht.
 
 #### Art. 89
@@ -1275,19 +1277,24 @@ beschliesst:
 
 <sup>2</sup> Bei aufwendigen Verfahren kann die Verwaltungsjustizbehörde Privaten, die ihren Prozess selber geführt haben, eine angemessene Parteientschädigung und Auslagenersatz zuerkennen.
 
-<sup>3</sup> Verwaltungsbehörden im Sinne von Artikel 2 Absatz 1 Buchstabe a haben im Beschwerdeverfahren keinen Anspruch auf Parteikostenersatz.
+<sup>3</sup> Behörden im Sinne von Artikel 2 Absatz 1 Buchstabe a und, unter Vorbehalt von Absatz 4, Behörden im Sinne von Artikel 2 Absatz 1 Buchstabe c haben im Beschwerdeverfahren keinen Anspruch auf Parteikostenersatz.
 
-<sup>4</sup> Behörden im Sinne von Artikel 2 Absatz 1 Buchstaben b und c haben im Beschwerdeverfahren in der Regel keinen Anspruch auf Parteikostenersatz.
+<sup>4</sup> Behörden im Sinne von Artikel 2 Absatz 1 Buchstaben b und, soweit von diesen mit öffentlich-rechtlichen Aufgaben betraut, Behörden im Sinne von Artikel 2 Absatz 1 Buchstabe c haben im Beschwerdeverfahren Anspruch auf Parteikostenersatz, wenn die tatsächlichen und rechtlichen Verhältnisse es rechtfertigen.
 
 ### 8.3 Kostenvorschuss, Kostensicherstellung, Kostenbefreiung
 
 #### Art. 105
 
-<sup>1</sup> Im Verwaltungsverfahren und im verwaltungsinternen Beschwerdeverfahren besteht grundsätzlich keine Pflicht, die Verfahrenskosten vorzuschiessen. Hat jedoch die gesuchstellende Partei keinen Wohnsitz in der Schweiz oder ist ihre Zahlungsunfähigkeit nachgewiesen, so kann die instruierende Behörde einen angemessenen Kostenvorschuss verlangen.
+<sup>1</sup> Im Verwaltungsverfahren und im verwaltungsinternen Beschwerdeverfahren besteht unter Vorbehalt von Absatz 1a keine Pflicht, die Verfahrenskosten vorzuschiessen.
+
+<sup>1a</sup> Hat die Partei keinen Sitz oder Wohnsitz in der Schweiz oder ist ihre Zahlungsunfähigkeit nachgewiesen, kann die instruierende Behörde einen angemessenen Kostenvorschuss verlangen, wenn
+
+- a das Verwaltungsverfahren auf Gesuch durchgeführt wird: in diesem Verfahren und im anschliessenden verwaltungsinternen Beschwerdeverfahren,
+- b das Verwaltungsverfahren von Amtes wegen durchgeführt wird: im anschliessenden verwaltungsinternen Beschwerdeverfahren.
 
 <sup>2</sup> Im Beschwerdeverfahren vor verwaltungsunabhängigen Verwaltungsjustizbehörden sowie im Klageverfahren hat die beschwerdeführende bzw. klagende oder appellierende Partei einen angemessenen Kostenvorschuss zu leisten. In besonderen Fällen kann die instruierende Behörde von dieser Pflicht entbinden.
 
-<sup>3</sup> Hat die gesuchstellende, klagende, appellierende oder beschwerdeführende Partei keinen Wohnsitz in der Schweiz oder ist ihre Zahlungsunfähigkeit nachgewiesen, so kann sie auf Gesuch der Gegenpartei zur Sicherstellung der Parteikosten verhalten werden.
+<sup>3</sup> Hat die gesuchstellende, klagende, appellierende oder beschwerdeführende Partei keinen Sitz oder Wohnsitz in der Schweiz oder ist ihre Zahlungsunfähigkeit nachgewiesen, so kann sie auf Gesuch der Gegenpartei zur Sicherstellung der Parteikosten verhalten werden.
 
 <sup>4</sup> Bezahlt die Partei nicht fristgemäss den verlangten Betrag und lässt sie auch eine kurze Nachfrist unbenutzt verstreichen, so ist auf ihre Begehren nicht einzutreten.
 
@@ -1315,9 +1322,11 @@ beschliesst:
 
 **2. im Beschwerdeverfahren**
 
-<sup>1</sup> Die Verfahrenskosten werden der unterliegenden Partei auferlegt, es sei denn, das prozessuale Verhalten einer Partei gebiete eine andere Verlegung oder die besonderen Umstände rechtfertigten, keine Verfahrenskosten zu erheben.
+<sup>1</sup> Die Verfahrenskosten werden der unterliegenden Partei auferlegt, es sei denn, das prozessuale Verhalten einer Partei gebietet eine andere Verlegung oder die besonderen Umstände rechtfertigen, keine Verfahrenskosten zu erheben.
 
 <sup>2</sup> Behörden im Sinne von Artikel 2 Absatz 1 Buchstabe a werden keine Verfahrenskosten auferlegt. Anderen Vorinstanzen oder beschwerdeführenden und unterliegenden Behörden werden Verfahrenskosten nur auferlegt, wenn sie in ihren Vermögensinteressen betroffen sind.
+
+<sup>2a</sup> Kostenanteile, die nicht erhoben werden können, dürfen nicht den übrigen unterliegenden Parteien auferlegt werden.
 
 <sup>3</sup> Die unterliegende Partei hat der Gegenpartei die Parteikosten zu ersetzen, sofern nicht deren prozessuales Verhalten oder die besonderen Umstände eine andere Teilung oder die Wettschlagung gebieten oder die Auflage der Parteikosten an das Gemeinwesen als gerechtfertigt erscheint.
 
@@ -1415,6 +1424,8 @@ beschliesst:
 <sup>1</sup> Die Behörde setzt den Pflichtigen eine angemessene Frist zur Erfüllung und droht ihnen für den Versäumnisfall die Zwangsvollstreckung an, wenn dies nicht bereits geschehen ist. Mit dieser Androhung ist der Hinweis auf die Bestrafung nach Artikel 292 des Schweizerischen Strafgesetzbuches[^116-1]im Falle des Ungehorsams zu verbinden.
 
 <sup>2</sup> Zusammen mit der Androhung der Zwangsvollstreckung oder spätestens nach unbenütztem Ablauf der zur Erfüllung gesetzten Frist verfügt die Behörde, wann und wie die Zwangsvollstreckung durchgeführt wird (Vollstreckungsverfügung).
+
+<sup>2a</sup> Falls die Mitteilung des Zeitpunkts der Zwangsvollstreckung die Vollstreckung erschweren könnte, kann darauf verzichtet werden.
 
 <sup>3</sup> Die Vollstreckungsverfügung unterliegt dem gleichen Rechtsmittel wie die Verfügung oder das Urteil in der Sache.
 
@@ -1620,6 +1631,14 @@ beschliesst:
 <sup>1</sup> Der Grosse Rat kann dieser Änderung widersprechende, aber formell noch nicht geänderte Bestimmungen in Gesetzen durch Dekret anpassen.
 
 <sup>2</sup> Der Regierungsrat wird ermächtigt, Änderungen von Gesetzen und Dekreten, welche die Terminologie dieser Gesetzesänderung betreffen, durch Verordnung vorzunehmen.
+
+## T2 Übergangsbestimmung der Änderung vom 13.09.2022
+
+#### Art. T2-1
+
+**Übergangsbestimmung der Änderung zu Artikel 104 Absatz 3 und 4**
+
+<sup>1</sup> Beim Inkrafttreten dieser Änderung hängige Verfahren werden nach bisherigem Recht zu Ende geführt.
 
 Bern, 23. Mai 1989
 

@@ -4,13 +4,13 @@ number: "155.21"
 title: Loi sur la procédure et la juridiction administratives
 short: LPJA
 language: fr
-version: 2020-11-01
-valid_until: 2023-03-31
-version_adopted: 2020-09-02
+version: 2023-04-01
+valid_until: 2023-07-31
+version_adopted: 2022-09-13
 adopted: 1989-05-23
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/155.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2005/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2815/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2005/pdf_file"
 
 (LPJA)
 
-du 23.05.1989 (état au 01.11.2020)
+du 23.05.1989 (état au 01.04.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -135,7 +135,7 @@ arrête:
 - e si elle représente une partie ou a agi dans la même affaire pour une partie;
 - f si, pour d'autres raisons, elle pourrait apparaître comme prévenue en faveur de l'une des parties.
 
-<sup>2</sup> L’autorité de recours compétente au fond statue sur les demandes de récusation ainsi que sur les contestations de récusations. S’il s’agit de la récusation de membres d’un collège, celui-ci statue en l’absence des membres concernés. Si un collaborateur ou une collaboratrice d’une autorité administrative ou d’une autorité de justice administrative est concernée, la décision appartient à son supérieur ou à sa supérieure hiérarchique. La Direction de l’intérieur et de la justice statue dans tous les cas où un préfet est concerné.
+<sup>2</sup> L’autorité de recours compétente au fond statue sur les demandes de récusation ainsi que sur les contestations de récusations. S’il s’agit de la récusation de membres d’un collège, celui-ci statue en l’absence des membres concernés. Si une collaboratrice ou un collaborateur d’une autorité administrative ou d’une autorité de justice administrative est concerné, la décision appartient à sa supérieure ou à son supérieur hiérarchique. La Direction de l’intérieur et de la justice statue dans tous les cas où une préfète ou un préfet est concerné.
 
 <sup>3</sup> Sont réservées les prescriptions spéciales régissant l'organisation du Conseil-exécutif ainsi que les dispositions de la loi sur les communes relatives aux motifs d'incompatibilité et de récusation.
 
@@ -405,9 +405,9 @@ arrête:
 
 #### Art. 33
 
-**Renvoi en vue de corriger l'écrit**
+**Renvoi pour correction ou traduction**
 
-<sup>1</sup> L'autorité renvoie les écrits peu clairs, incomplets, qui contreviennent aux bonnes mœurs ou qui sont inconvenants, ceux qui ne sont pas rédigés dans une des deux langues officielles ou qui le sont dans une langue officielle incorrecte pour qu'ils soient corrigés ou traduits.
+<sup>1</sup> L'autorité renvoie les écrits peu clairs, prolixes, incomplets, qui contreviennent aux bonnes mœurs ou qui sont inconvenants, ainsi que ceux qui ne sont pas rédigés dans une des deux langues officielles ou qui le sont dans une langue officielle incorrecte, pour qu'ils soient corrigés ou traduits.
 
 <sup>2</sup> A cet effet, elle impartit un bref délai supplémentaire en précisant que si l'écrit n'est pas produit à nouveau dans ce délai, il sera tenu pour retiré.
 
@@ -417,7 +417,7 @@ arrête:
 
 **Langue de l'instruction**
 
-<sup>1</sup> Les autorités communales et les préfets instruisent dans la langue officielle de leur arrondissement administratif.
+<sup>1</sup> Les autorités communales ainsi que les préfètes et les préfets instruisent dans la langue officielle de leur arrondissement administratif.
 
 <sup>2</sup> Les autres autorités instruisent dans la langue de l'arrondissement administratif dont relève l'affaire. Au surplus, le choix de la langue de l'instruction est déterminé par la langue officielle utilisée dans l'écrit de la personne qui a introduit la procédure.
 
@@ -647,8 +647,10 @@ arrête:
 <sup>1</sup> L'autorité administrative procède, d'office ou sur demande, à la révision d'une procédure passée en force
 
 - a lorsqu'une procédure pénale a établi que la décision a été influencée par un crime ou un délit au détriment de la partie; si l'action pénale n'est pas possible, la preuve peut être administrée d'une autre manière;
-- b lorsque la partie a connaissance subséquemment de faits importants ou trouve des preuves concluantes qu'elle n'avait pas pu invoquer dans la procédure précédente, les faits et moyens de preuve survenus après le prononcé de la décision en cause n'étant toutefois pas pris en considération;
+- b lorsque la partie ou elle-même a connaissance subséquemment de faits importants ou trouve des preuves concluantes qu'elle n'avait pas pu invoquer dans la procédure précédente, les faits et moyens de preuve survenus après le prononcé de la décision en cause n'étant toutefois pas pris en considération;
 - c lorsque des intérêts publics impérieux le justifient.
+
+<sup>1a</sup> L'autorité peut en tout temps réviser la procédure en faveur du destinataire de la décision.
 
 <sup>2</sup> Une réglementation légale différente de la révision de la procédure et de la modification de la décision est réservée.
 
@@ -734,7 +736,7 @@ arrête:
 <sup>1</sup> La Direction compétente en la matière connaît des recours formés contre des décisions au sens de l’article 60, alinéa 1, lettre a rendues par
 
 - a des organes de l'administration qui lui sont subordonnés (offices, divisions, services), pour autant que la législation ne prévoie pas un moyen de droit permettant de saisir directement une autre instance de recours,
-- b les préfets, dans la mesure où la législation le prévoit,
+- b les préfètes et les préfets, dans la mesure où la législation le prévoit,
 - c les autorités au sens de l'article 2, 1<sup>er</sup> alinéa, lettre b, pour autant que la législation le prévoie,
 - d d'autres autorités cantonales au sens de l'article 2, 1<sup>er</sup> alinéa, lettre c, pour autant que la législation ne prévoie pas d'autre instance de recours.
 
@@ -742,24 +744,24 @@ arrête:
 
 #### Art. 63
 
-**Préfet**
+**Préfète ou préfet**
 
-<sup>1</sup> Le préfet connaît des recours formés contre
+<sup>1</sup> La préfète ou le préfet connaît des recours formés contre
 
 - a les décisions d’autorités au sens de l’article 2, alinéa 1, lettre b et d’autorités communales au sens de l’article 2, alinéa 1, lettre c, à moins que la loi ne prévoie le recours à une autre instance, et
 - b les actes au sens de l’article 60, alinéa 1, lettre b, sauf si la loi prévoit le recours à une autre instance.
 
-<sup>2</sup> La compétence appartient au préfet du siège de l’autorité qui a agi. Les recours formés contre des actes émanant d’organes d’une conférence régionale sont traités par le préfet de l’arrondissement administratif dans lequel cette conférence compte le plus d’habitants.
+<sup>2</sup> La compétence appartient à la préfète ou au préfet du siège de l’autorité qui a agi. Les recours formés contre des actes émanant d’organes d’une conférence régionale sont traités par la préfète ou le préfet de l’arrondissement administratif dans lequel cette conférence compte le plus d’habitants.
 
 #### Art. 64
 
 **Conseil-exécutif**
 
-<sup>1</sup> Le Conseil-exécutif connaît des recours formés contre les décisions et décisions sur recours de ses Directions ainsi que des préfets et, si la législation le prévoit, contre les décisions des organes administratifs des Directions ou des communes, dans la mesure où
+<sup>1</sup> Le Conseil-exécutif connaît des recours formés contre les décisions et décisions sur recours de ses Directions ainsi que des préfètes et des préfets et, si la législation le prévoit, contre les décisions des organes administratifs des Directions ou des communes, dans la mesure où
 
-- a un moyen de droit permettant de saisir directement une autorité cantonale de justice indépendante de l'administration n'est pas ouvert,
+- a aucun moyen de droit permettant de saisir directement le Tribunal administratif ou une autre autorité cantonale de justice indépendante de l'administration n'est ouvert,
 - b le droit fédéral ne prévoit pas de moyen de droit permettant de saisir directement le Conseil fédéral ou une autorité de justice administrative de la Confédération,
-- c la Direction ou le préfet ne statue pas en qualité de dernière instance cantonale.
+- c la Direction ne statue pas en qualité de dernière instance cantonale.
 
 ### 4.3 Procédure de recours
 
@@ -1104,14 +1106,14 @@ arrête:
 
 #### Art. 88
 
-**Préfets**
+**Préfètes et préfets**
 
-<sup>1</sup> Le préfet connaît des actions portant sur
+<sup>1</sup> La préfète ou le préfet connaît des actions portant sur
 
 - a …
 - b des litiges de nature pécuniaire découlant du droit public et opposant des communes;
 - c des prétentions pécuniaires découlant du droit public avancées par des personnes privées contre des communes;
-- d des litiges découlant de contrats de droit public sous réserve de l’article 87, lettre b pour autant que la loi ne confère pas à l’autorité compétente l’obligation de régler le litige par voie de décision;
+- d des litiges découlant de contrats de droit public sous réserve de l’article 87, alinéa 1, lettre b pour autant que la loi ne confère pas à l’autorité compétente l’obligation de régler le litige par voie de décision;
 - e des litiges de nature pécuniaire découlant du droit public et opposant des personnes privées.
 
 #### Art. 89
@@ -1267,23 +1269,28 @@ arrête:
 
 **Dépens**
 
-<sup>1</sup> Les dépens comprennent les frais découlant de la représentation d’une partie par un avocat ou une avocate agissant à titre professionnel. La législation sur les avocats et les avocates s’applique à la détermination du montant du remboursement des dépens.
+<sup>1</sup> Les dépens comprennent les frais découlant de la représentation d’une partie à titre professionnel. La législation sur les avocats et les avocates s’applique à la détermination du montant du remboursement des dépens.
 
 <sup>2</sup> Dans le cas d'une procédure onéreuse, l'autorité de justice administrative peut adjuger aux personnes privées ayant elles-mêmes conduit leur procès une indemnité de partie équitable et le remboursement de leurs débours.
 
-<sup>3</sup> Les autorités administratives au sens de l’article 2, alinéa 1, lettre a n'ont pas droit au remboursement de leurs dépens en procédure de recours.
+<sup>3</sup> Les autorités au sens de l’article 2, alinéa 1, lettre a et, sous réserve de l’alinéa 4, les autorités au sens de l’article 2, alinéa 1, lettre c n'ont pas droit au remboursement de leurs dépens en procédure de recours.
 
-<sup>4</sup> Les autorités au sens de l’article 2, alinéa 1, lettres b et c n’ont en règle générale pas droit au remboursement de leurs dépens en procédure de recours.
+<sup>4</sup> Les autorités au sens de l’article 2, alinéa 1, lettre b et, pour autant qu’elles soient chargées par celles-ci de tâches de droit public, les autorités au sens de l’article 2, alinéa 1, lettre c ont droit au remboursement de leurs dépens en procédure de recours si les circonstances de fait et de droit le justifient.
 
 ### 8.3 Avances de frais, sûretés et libération des frais
 
 #### Art. 105
 
-<sup>1</sup> En procédure administrative ou de recours interne à l’administration, il n'y a en principe pas d'obligation de faire une avance de frais. Cependant, si la partie requérante n'a pas de domicile en Suisse ou que son insolvabilité est établie, l'autorité chargée de l'instruction peut exiger une avance de frais appropriée.
+<sup>1</sup> En procédure administrative ou de recours interne à l’administration, il n'y a pas d'obligation de verser une avance de frais, sous réserve de l'alinéa 1a.
+
+<sup>1a</sup> Si la partie n'a pas de siège ni de domicile en Suisse ou que son insolvabilité est établie, l'autorité chargée de l'instruction peut exiger une avance de frais appropriée dans les cas suivants:
+
+- a en procédure administrative et dans la procédure de recours interne à l’administration subséquente, si la procédure administrative a été engagée sur requête;
+- b dans la procédure de recours interne à l’administration faisant suite à la procédure administrative, si celle-ci a été engagée d'office.
 
 <sup>2</sup> En procédure de recours devant une autorité de justice indépendante de l'administration ainsi qu'en procédure d'action, la partie recourante ou demanderesse ou la partie appelante est tenue de verser une avance de frais appropriée. Dans des cas particuliers, l'autorité chargée de l'instruction peut les délier de cette obligation.
 
-<sup>3</sup> Si la partie requérante, demanderesse, appelante ou recourante n'a pas de domicile en Suisse ou que son insolvabilité est établie, elle peut être tenue, sur requête de la partie adverse, de fournir des sûretés pour les dépens.
+<sup>3</sup> Si la partie requérante, demanderesse, appelante ou recourante n'a pas de siège ni de domicile en Suisse ou que son insolvabilité est établie, elle peut être tenue, sur requête de la partie adverse, de fournir des sûretés en garantie des dépens.
 
 <sup>4</sup> Si la partie ne paie pas le montant exigé dans le délai imparti ni ne fait usage du court délai supplémentaire qui lui a été accordé, sa demande sera déclarée irrecevable.
 
@@ -1314,6 +1321,8 @@ arrête:
 <sup>1</sup> Les frais de procédure sont mis à la charge de la partie qui succombe à moins que le comportement d'une partie au cours de la procédure permette une répartition différente ou qu'il soit justifié par des circonstances particulières de ne pas percevoir de frais.
 
 <sup>2</sup> Il n'est pas mis de frais de procédure à la charge des autorités au sens de l'article 2, 1<sup>er</sup> alinéa, lettre a. Des frais de procédure ne seront mis à la charge d'autres instances précédentes ou d'autres autorités recourantes et succombantes que si elles sont atteintes dans leurs intérêts pécuniaires.
+
+<sup>2a</sup> Les parts des frais qui ne peuvent pas être perçues ne doivent pas être mises à la charge des autres parties qui succombent.
 
 <sup>3</sup> La partie qui succombe doit payer les dépens de la partie adverse, à moins que le comportement de cette dernière au cours de la procédure ou des circonstances particulières justifient une autre répartition ou la compensation des dépens, ou encore qu'ils ne doivent être mis à la charge de la collectivité.
 
@@ -1402,7 +1411,7 @@ arrête:
 
 **Compétence**
 
-<sup>1</sup> L'exécution relève de la compétence du préfet dans la mesure où elle n'est pas assumée par l'autorité qui a statué ou lorsque la législation n'en dispose pas autrement.
+<sup>1</sup> L'exécution relève de la compétence préfectorale dans la mesure où elle n'est pas assumée par l'autorité qui a statué ou lorsque la législation n'en dispose pas autrement.
 
 #### Art. 116
 
@@ -1411,6 +1420,8 @@ arrête:
 <sup>1</sup> Si cela n'a pas encore été fait, l'autorité impartit aux obligés un délai convenable pour s'exécuter en les menaçant d'exécution forcée s'ils n'obtempèrent pas. A cette commination sera jointe l'indication de la peine dont les obligés sont passibles en cas d'insoumission conformément à l'article 292 du Code pénal suisse[^116-1].
 
 <sup>2</sup> Conjointement à la menace d'exécution forcée ou, au plus tard, à l'expiration du délai non utilisé fixé pour l'exécution, l'autorité décide à quel moment et de quelle manière se déroulera l'exécution forcée (décision d'exécution).
+
+<sup>2a</sup> Si la communication du moment de l'exécution forcée est susceptible d'entraver cette dernière, il est possible d'y renoncer.
 
 <sup>3</sup> La décision d'exécution est sujette au même moyen de droit que la décision ou le jugement au fond.
 
@@ -1608,6 +1619,14 @@ arrête:
 <sup>1</sup> Le Grand Conseil peut adapter par voie de décret des dispositions légales contraires à la présente modification qui n'ont pas encore été formellement modifiées.
 
 <sup>2</sup> Le Conseil-exécutif est habilité à apporter par voie d'ordonnance des modifications à des lois et à des décrets ne concernant que la terminologie de la présente modification.
+
+## T2 Disposition transitoire de la modification du 13.09.2022
+
+#### Art. T2-1
+
+**Disposition transitoire de la modification de l’article 104, alinéas 3 et 4**
+
+<sup>1</sup> Les procédures en cours au moment de l'entrée en vigueur de la présente modification sont menées à terme selon l'ancien droit.
 
 Berne, le 23 mai 1989
 
