@@ -4,27 +4,30 @@ number: "210.350"
 title: Notariatsverordnung
 short: NotV
 language: de
-version: 2007-01-01
-corrected: 2014-11-09
-version_adopted: 2006-12-12
+version: 2023-04-01
+valid_until: 2026-12-31
+version_adopted: 2023-04-04
 adopted: 2005-04-26
 in_force: 2005-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/210.350"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/62/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3309/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Notariatsverordnung
 
-Gestützt auf Art. 50 des Notariatsgesetzes[^t-1]
+(NotV)
+
+Vom 26.04.2005 (Stand 01.04.2023)
+
+Gestützt auf Art. 50 des Notariatsgesetzes[^ingress-1]
 
 von der Regierung erlassen am 26. April 2005
 
-I. Notariatsprüfung
+[^ingress-1]: BR [210.300](https://www.gr-lex.gr.ch/data/210.300/de)
 
-[^t-1]: BR 210.300 1.07.2009 1
+## 1. Notariatsprüfung
 
 #### Art. 1
 
@@ -42,6 +45,22 @@ I. Notariatsprüfung
 
 <sup>2</sup> Die mündliche Prüfung dauert mindestens eine Stunde. Sie besteht in der Beantwortung von Fragen zum allgemeinen Notariatsrecht von Bund und Kanton, zum Schweizerischen Zivilgesetzbuch mit verwandten Erlassen und zum Schweizerischen Obligationenrecht mit verwandten Erlassen. Es sind keine Hilfsmittel zugelassen.
 
+#### Art. 2a
+
+**Prüfungsabbruch**
+
+<sup>1</sup> Wer eine Prüfung abbricht, hat dies der Notariatskommission unverzüglich mitzuteilen und ihr die für den Nachweis des wichtigen Grunds erforderlichen Unterlagen vorzulegen.
+
+#### Art. 2b
+
+**Unehrliches Handeln**
+
+<sup>1</sup> Unehrlich handelt, wer die Notariatsprüfung mit nicht zugelassenen oder nicht abgegebenen Hilfsmitteln beziehungsweise mit fremder Hilfe absolviert.
+
+<sup>2</sup> Als Inanspruchnahme eines unzulässigen Hilfsmittels gilt insbesondere das Mitführen von nicht zugelassenen Kommunikations- und Informationsmitteln.
+
+<sup>3</sup> Wird fremde Hilfe in Anspruch genommen oder ein unzulässiges Hilfsmittel verwendet, zieht die Prüfungsaufsicht das unzulässige Hilfsmittel unverzüglich ein, stellt die Beweise für ein unzulässiges Verhalten sicher und informiert die Notariatskommission darüber.
+
 #### Art. 3
 
 **Prüfungsbewertung**
@@ -52,67 +71,91 @@ I. Notariatsprüfung
 
 <sup>3</sup> Für die abschliessende Gesamtbeurteilung sind die Durchschnittsnoten von schriftlicher und mündlicher Prüfung gleichwertig. Die Notariatsprüfung besteht, wer aus beiden Prüfungen eine Durchschnittsnote von mindestens 4 erzielt.
 
-### II. Amtsantritt
+## 1a. Wählbarkeitsvoraussetzungen von Regionalnotarinnen und Regionalnotaren
+
+#### Art. 3a
+
+**Persönliche Eignung**
+
+<sup>1</sup> Regionalnotarinnen und Regionalnotare sind persönlich geeignet, wenn:
+
+- a) sie die Voraussetzungen nach Artikel 16 Absatz 4 des Notariatsgesetzes[^3a-1] erfüllen;
+- b) sie handlungsfähig sind;
+- c) keine strafrechtliche Verurteilung vorliegt wegen Handlungen, die mit der Tätigkeit als Regionalnotarin oder Regionalnotar nicht zu vereinbaren sind, es sei denn, diese Verurteilung erscheine nicht mehr im Strafregisterauszug für Privatpersonen;
+- d) keine Verlustscheine bestehen.
+
+[^3a-1]: BR [210.300](https://www.gr-lex.gr.ch/data/210.300/de)
+
+#### Art. 3b
+
+**Fachliche Eignung**
+
+<sup>1</sup> Regionalnotarinnen und Regionalnotare sind fachlich geeignet, wenn sie über einen anerkannten Abschluss in den Bereichen Recht oder Treuhandwesen verfügen.
+
+<sup>2</sup> In begründeten Ausnahmefällen kann vom Erfordernis eines anerkannten Abschlusses abgewichen werden, wenn eine mehrjährige praktische Tätigkeit im Notariatswesen ausgewiesen ist.
+
+## 2. Amtsantritt
 
 #### Art. 4
 
 **Patentierungsgesuch**
 
-Das Gesuch um Erteilung des Notariatspatentes ist mit folgenden Beilagen dem Präsidenten der Notariatskommission einzureichen:
+<sup>1</sup> Das Gesuch um Erteilung des Notariatspatentes ist mit folgenden Beilagen dem Präsidenten der Notariatskommission einzureichen:
 
 - a) Bündner Fähigkeitsausweis für Notariatspersonen;
-
 - b) Wohnsitzbestätigung einer Bündner Gemeinde;
-
 - c) Auszug aus dem Zentralstrafregister;
-
 - d) Beleg über die Einzahlung der Patentgebühr.
 
 #### Art. 5
 
 **Gebühren**
 
-**Fr. 1 000.–**
+<sup>1</sup> Es werden folgende Gebühren erhoben:
 
-- a) Die Prüfungsgebühr beträgt
-
-- b) Für die Ausfertigung des Fähigkeitsausweises werden erhoben
-
-**Fr. 200.– Fr. 1 000.–**
-
-- c) Die Patentgebühr beträgt
+- a) für die Prüfung — Fr. 1000.–
+- b) für die Ausfertigung des Fähigkeitsausweises — Fr. 200.–
+- c) für das Patent — Fr. 1000.–
 
 #### Art. 6
 
 **Unterschriftsmuster**
 
-Jede Notariatsperson gibt beim Amtsantritt ihre Unterschrift für die Standeskanzlei Graubünden ab. Der Vollzug obliegt der Person, welche die Vereidigung vornimmt.
+<sup>1</sup> Jede Notariatsperson gibt beim Amtsantritt ihre Unterschrift für die Standeskanzlei Graubünden ab. Der Vollzug obliegt der Person, welche die Vereidigung vornimmt.
 
 #### Art. 7
 
-**Stempel und Siegel**
+**Stempel, Siegel und Schweizerisches Register der Urkundspersonen**
 
-<sup>1</sup> Jede Notariatsperson erhält einen Stempel mit ihrem Namen und einen Siegel. Die Kosten gehen zu ihren Lasten.
+<sup>1</sup> Jede Notariatsperson erhält einen Stempel mit ihrem Namen und einen Siegel. Sie kann sich zusätzlich ins Schweizerische Register der Urkundspersonen eintragen lassen. Die Kosten gehen zu ihren Lasten.
 
 <sup>2</sup> Stempel und Siegel werden nach Weisungen der Notariatskommission hergestellt. Die Herstellerin oder der Hersteller ist verpflichtet, sich für Aufträge und Ablieferungen ausschliesslich an die Notariatskommission zu wenden.
+
+<sup>3</sup> Erlischt die Notariatsberechtigung oder wird sie entzogen, zieht die Notariatskommission Stempel und Siegel ein und löscht die Notariatsperson aus dem Schweizerischen Register der Urkundspersonen.
 
 #### Art. 8
 
 **Haftpflichtversicherung**
 
-<sup>1</sup> Die Garantiesumme beträgt für jede Notariatsperson mindestens 5 000 000 Franken pro Schadenereignis.
+<sup>1</sup> Die Garantiesumme beträgt für jede Notariatsperson mindestens 10 000 000 Franken pro Schadenereignis. Für die Notariatspersonen der Grundbuchämter gilt die Garantiesumme pro Grundbuchkreis und Schadenereignis.
 
-<sup>2</sup> Im Rahmen des vom Kanton abgeschlossenen Vertrages können patentierte Notarinnen und Notare, Grundbuchverwalterinnen und Grundbuchverwalter freiwillig eine Versicherung mit höherer Garantiesumme wählen. Die Kreise haben ihre Versicherungsverträge so abzuschliessen, dass auch Kreisnotarinnen und Kreisnotare freiwillig eine höhere Garantiesumme wählen können.
+<sup>2</sup> Im Rahmen des vom Kanton abgeschlossenen Vertrags können die Notariatspersonen eine Versicherung mit höherer Garantiesumme wählen. Eine höhere Garantiesumme ist in jedem Fall zu wählen, wenn das Tätigkeitsfeld der Notariatsperson ein höheres Schadenpotenzial aufweist.
 
-<sup>3</sup> Patentierte Notarinnen und Notare und Grundbuchkreise haben die auf sie entfallenden Kosten für die vom Kanton abgeschlossene Versicherung
+<sup>3</sup> Patentierte Notarinnen und Notare, Regionalnotarinnen und Regionalnotare sowie Grundbuchkreise haben die auf sie entfallenden Kosten für die vom Kanton abgeschlossene Versicherung anteilmässig selber zu tragen. Die jährliche Rechnungsstellung erfolgt durch die Finanzverwaltung.
 
-**2**
+## 2a. Beurkundung
 
-**3**
+#### Art. 8a
 
-1.07.2009 anteilsmässig selber zu tragen. Die jährliche Rechnungstellung erfolgt durch das zuständige Departement. Die Kreise können die Kosten für ihre Versicherungen den Kreisnotarinnen und Kreisnotaren belasten.
+**Beurkundung von Beschlüssen von Versammlungen oder Sitzungen**
 
-### III. Protokollierungen
+<sup>1</sup> Werden zu beurkundende Beschlüsse an Versammlungen oder Sitzungen mit einem oder mehreren Tagungsorten gefasst, ist die Notariatsperson für deren Beurkundung zuständig, wenn sich zumindest ein Tagungsort im Kanton Graubünden befindet. Die Notariatsperson wohnt diesen Versammlungen oder Sitzungen an der Seite der oder des Vorsitzenden an einem der im Kanton Graubünden gelegenen Tagungsorte bei.
+
+<sup>2</sup> Werden zu beurkundende Beschlüsse an Versammlungen oder Sitzungen ohne Tagungsort gefasst, ist die Notariatsperson für deren Beurkundung zuständig, wenn sie sich während den Versammlungen oder Sitzungen im Kanton Graubünden aufhält.
+
+<sup>3</sup> Die Notariatsperson stellt sicher, dass sie die Vorgänge an den Versammlungen oder den Sitzungen sowie die Feststellungen der oder des Vorsitzenden persönlich und ohne Unterbrechung wahrnehmen kann.
+
+## 3. Protokollierungen
 
 #### Art. 9
 
@@ -131,15 +174,10 @@ Jede Notariatsperson gibt beim Amtsantritt ihre Unterschrift für die Standeskan
 <sup>1</sup> Im Protokollbuch A werden sofort alle vorgenommenen Beglaubigungen in chronologischer Reihenfolge eingetragen mit:
 
 - a) fortlaufender Registernummer;
-
 - b) Beglaubigungsdatum (Jahr, Monat und Tag);
-
 - c) Name, Vorname und Wohnsitz des Gesuchstellers;
-
 - d) Gegenstand der Beglaubigung;
-
 - e) bei Unterschriftsbeglaubigung: Name, Vorname und Wohnsitz der betreffenden Person;
-
 - f) Beglaubigungsgebühr.
 
 <sup>2</sup> Das Dokument, welches die Beglaubigungsformel enthält, muss mit Buchzeichen, Jahrgang und Nummer versehen werden.
@@ -151,22 +189,16 @@ Jede Notariatsperson gibt beim Amtsantritt ihre Unterschrift für die Standeskan
 <sup>1</sup> Im Protokollbuch B werden sofort alle vorgenommenen Beurkundungen in chronologischer Reihenfolge eingetragen mit:
 
 - a) fortlaufender Registernummer;
-
 - b) Beurkundungsdatum (Jahr, Monat und Tag);
-
 - c) Name, Vorname und Wohnsitz der Urkundsparteien;
-
 - d) Gegenstand der Beurkundung;
-
 - e) Anzahl der hergestellten Originalurkunden und Nennung deren Empfängerin oder Empfänger, sofern diese Angaben nicht in der Urkunde enthalten sind.
 
 <sup>2</sup> Das Protokollbuch B ist mit einem separaten Namenregister der Urkundsparteien zu ergänzen.
 
 <sup>3</sup> Das Dokument, welches die Beurkundungsformel enthält, muss mit Buchzeichen, Jahrgang und Nummer versehen werden.
 
-1.07.2009
-
-### IV. Aufbewahrungen
+## 4. Aufbewahrungen
 
 #### Art. 12
 
@@ -188,9 +220,9 @@ Jede Notariatsperson gibt beim Amtsantritt ihre Unterschrift für die Standeskan
 
 **Ort und Dauer**
 
-Protokollbücher A und B, Originalurkunden mit ihren Beilagen und Belege sowie Stempel und Siegel sind von der Notariatsperson für unbestimmte Zeit sicher aufzubewahren. Sie fallen unter das Berufsgeheimnis.
+<sup>1</sup> Protokollbücher A und B, Originalurkunden mit ihren Beilagen und Belege sowie Stempel und Siegel sind von der Notariatsperson für unbestimmte Zeit sicher aufzubewahren. Sie fallen unter das Berufsgeheimnis.
 
-### V. Hinterlegung beim Amtsende
+## 5. Hinterlegung beim Amtsende
 
 #### Art. 15
 
@@ -204,23 +236,19 @@ Protokollbücher A und B, Originalurkunden mit ihren Beilagen und Belege sowie S
 
 #### Art. 16
 
-**Kreisnotarinnen und Kreisnotare**
+**Regionalnotarinnen und Regionalnotare**
 
-<sup>1</sup> Die Kreisnotarin, der Kreisnotar oder deren Erben haben alle aufbewahrungspflichtigen Sachen in Anwesenheit der Kreispräsidentin oder des Kreispräsidenten entweder beim Kreisamt zu hinterlegen oder der Nacholgerin oder dem Nachfolger zu übergeben.
+<sup>1</sup> Die Regionalnotarin, der Regionalnotar oder deren Erben haben alle aufbewahrungspflichtigen Sachen in Anwesenheit eines Mitglieds der Notariatskommission entweder bei der betreffenden Region zu hinterlegen oder der Nachfolgerin oder dem Nachfolger zu übergeben.
 
 <sup>2</sup> Artikel 15 Absatz 3 gilt sinngemäss.
-
-**4**
-
-1.07.2009
 
 #### Art. 17
 
 **Grundbuchverwalterinnen und -verwalter**
 
-Alle aufbewahrungspflichtigen Sachen bleiben beim betreffenden Grundbuchamt.
+<sup>1</sup> Alle aufbewahrungspflichtigen Sachen bleiben beim betreffenden Grundbuchamt.
 
-### VI. Änderungen an Urkunden
+## 6. Änderungen an Urkunden
 
 #### Art. 18
 
@@ -242,11 +270,9 @@ Alle aufbewahrungspflichtigen Sachen bleiben beim betreffenden Grundbuchamt.
 
 **Behebung von Mängeln registertechnischer Art**
 
-Fehlen nach vollzogener Beurkundung Angaben, welche nur registertechnischer Art sind, wie die Angabe des Heimatortes oder des Geburtsdatums oder die Bezeichnung des Erwerbstitels, oder erweisen sich solche Angaben als unrichtig, so kann die Notariatsperson von sich aus auf der öffentlichen Urkunde die entsprechenden Ergänzungen oder Korrekturen anbringen und mit Stempel, Unterschrift und Datum der Vornahme bescheinigen.
+<sup>1</sup> Fehlen nach vollzogener Beurkundung Angaben, welche nur registertechnischer Art sind, wie die Angabe des Heimatortes oder des Geburtsdatums oder die Bezeichnung des Erwerbstitels, oder erweisen sich solche Angaben als unrichtig, so kann die Notariatsperson von sich aus auf der öffentlichen Urkunde die entsprechenden Ergänzungen oder Korrekturen anbringen und mit Stempel, Unterschrift und Datum der Vornahme bescheinigen.
 
-### VII. Gebühren und Entschädigungen der Notariats-
-
-kommission
+## 7. Gebühren und Entschädigungen
 
 #### Art. 21
 
@@ -254,19 +280,13 @@ kommission
 
 <sup>1</sup> Die Notariatskommission stellt den Notarinnen und Notaren die Inspektionen nach Aufwand in Rechnung.
 
-<sup>2</sup> Der Aufwand der inspizierenden Person wird mit 150 Franken pro Stunde in Rechnung gestellt.
+<sup>2</sup> Die Inspektionsarbeiten sind nach Zeitaufwand zu einem Stundenansatz von 200 Franken zu entschädigen.
 
-<sup>3</sup> Hinzu kommen allfällige Barauslagen sowie die Spesen der inspizierenden Person.
-
-**5**
-
-1.07.2009
-
-[^21-1]: Einfügung gemäss Art. 18, Ziff. 1 der Verordnung über die Kosten in Verwaltungsverfahren vom 12. Dezember 2006, BR 370.120; am 1. Januar 2007 in Kraft getreten.
+<sup>3</sup> …
 
 #### Art. 21a
 
-**Gebühren für Amtshandlungen und Verfügungen**[^21-1]
+**Gebühren für Amtshandlungen und Verfügungen**
 
 <sup>1</sup> Soweit diese Verordnung keine Gebührenregelung enthält, richten sich die Verfahrenskosten für Amtshandlungen und Verfügungen der Notariatskommission nach den für die kantonalen Verwaltungsbehörden geltenden allgemeinen Bestimmungen.
 
@@ -276,29 +296,23 @@ kommission
 
 **Entschädigung und Spesen**
 
-<sup>1</sup> Die Mitglieder der Notariatskommission erhalten ein Taggeld von 300 Franken. Dauert die Inanspruchnahme einschliesslich Reisezeit weniger als vier Stunden, wird nur das halbe Taggeld ausgerichtet.
+<sup>1</sup> Die Mitglieder der Notariatskommission erhalten ein Taggeld von 500 Franken. Dauert die Inanspruchnahme einschliesslich Reisezeit weniger als vier Stunden, wird nur das halbe Taggeld ausgerichtet.
 
-<sup>2</sup> Die Regierung kann dem Präsidenten der Notariatskommission nach dessen Aufwand eine Präsidialzulage ausrichten.
+<sup>2</sup> Die Regierung kann der Präsidentin oder dem Präsidenten der Notariatskommission eine aufwandabhängige Präsidialzulage ausrichten.
 
-<sup>3</sup> Im Übrigen gelten die Bestimmungen der Verordnung über die nebenamtlichen Mitarbeiter des Kantons Graubünden sinngemäss.
+<sup>2<sup>bis</sup></sup> Die Tätigkeit der Notariatsinspektorin oder des Notariatsinspektors wird zu einem Stundenansatz von 150 Franken entschädigt.
 
-### VIII. Schlussbestimmungen
+<sup>3</sup> Im Übrigen gelten die Bestimmungen der Verordnung für die nebenamtlichen Mitarbeitenden des Kantons Graubünden[^22-1] sinngemäss.
+
+[^22-1]: BR [170.420](https://www.gr-lex.gr.ch/data/170.420/de)
+
+## 8. Schlussbestimmungen
 
 #### Art. 23
 
-**Änderung bisherigen Rechts**
+**Änderung bisherigen Rechts[^23-1]**
 
-<sup>1</sup> Die Verordnung über die Notariatsgebühren vom 5. Dezember 2000 wird wie folgt geändert.
-
-### Ingress
-
-Gestützt auf Artikel 49 des Notariatsgesetzes
-
-#### Art. 1
-
-**Abs. 1**
-
-<sup>1</sup> Die Notariatspersonen gemäss Artikel 1 Absatz 1 des Notariatsgesetzes sind verpflichtet, für ihre Amtsverrichtungen die in dieser Verordnung festgesetzten Gebühren zu beziehen. Sie können ausserdem Ersatz der notwendigen Auslagen und der Mehrwertsteuer, die offen auszuweisen ist, beanspruchen.
+[^23-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
 
 #### Art. 24
 
@@ -308,4 +322,6 @@ Gestützt auf Artikel 49 des Notariatsgesetzes
 
 <sup>2</sup> Auf diesen Zeitpunkt werden die Ausführungsbestimmungen zur Notariatsverordnung vom 3. April 1959 aufgehoben.
 
-[^24-1]: Mit RB vom 26. April 2005 auf den 1. Mai 2005 in Kraft gesetzt 6 1.07.2009
+[^24-1]: Mit RB vom 26. April 2005 auf den 1. Mai 2005 in Kraft gesetzt.
+
+-
