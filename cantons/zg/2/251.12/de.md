@@ -4,13 +4,13 @@ number: "251.12"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister
 short: Verordnung zum EG RHG
 language: de
-version: 2016-03-05
-valid_until: 2023-03-31
-version_adopted: 2016-03-01
+version: 2023-04-01
+valid_until: 2026-02-19
+version_adopted: 2023-03-14
 adopted: 2009-03-03
 in_force: 2009-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/251.12"
-pdf: "https://bgs.zg.ch/api/de/versions/1538/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2419/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,66 +19,62 @@ pdf: "https://bgs.zg.ch/api/de/versions/1538/pdf_file"
 
 (Verordnung zum EG RHG)
 
-Vom 3. März 2009 (Stand 5. März 2016)
+Vom 3. März 2009 (Stand 1. April 2023)
 
 Der Regierungsrat des Kantons Zug,
 
-gestützt auf die §§ 9 Abs. 2 und 12 des Einführungsgesetzes zum Bundesgesetz über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister (Einführungsgesetz Registerharmonisierungsgesetz, EG RHG) vom 30. Oktober 2008[^ingress-1] sowie gestützt auf die §§ 57b Abs. 2 und 57e Abs. 3 des Gesetzes über die Organisation und die Verwaltung der Gemeinden (Gemeindegesetz; GG) vom 4. September 1980[^ingress-2],
+gestützt auf die §§ 13 Abs. 3 Ziff. 3 und 17 des Einführungsgesetzes zum Bundesgesetz über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister (Einführungsgesetz Registerharmonisierungsgesetz, EG RHG) vom 24. September 2020[^ingress-1] sowie gestützt auf die §§ 57b Abs. 2 und 57e Abs. 3 des Gesetzes über die Organisation und die Verwaltung der Gemeinden (Gemeindegesetz; GG) vom 4. September 1980[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: BGS [251.1](https://bgs.zg.ch/data/251.1/de)
 [^ingress-2]: BGS [171.1](https://bgs.zg.ch/data/171.1/de)
 
-## 1. Amtliche Register mit Zentralen Personenkoordinationsnummern (ZPK-Nummern)
+## 1.
 
 #### § 1
 
-**Kantonale Register**
-
-<sup>1</sup> Folgende kantonale amtliche Register führen die ZPK-Nummern:
-
-- a) das Steuerregister;
-- b) das Handelsregister;
-- c) das Grundbuch;
-- d) das Einbürgerungsregister;
-- e) der Debitoren- und Kreditorenstamm (Finanz- und Rechungswesen der Finanzdirektion);
-- f) die Register beim Strassenverkehrsamt;
-- g) die Schulverwaltungsregister des Gewerblich-industriellen Bildungszentrums Zug (GIBZ), des Kaufmännischen Bildungszentrums Zug (KBZ), der Kantonsschule Zug (KSZ), der Kantonsschule Menzingen (KSM) und der Fachmittelschule (FMS);
-- g1) die Berufsbildungsregister des Amtes für Berufsbildung (AFB);
-- h) das Benutzerregister des Amtes für Informatik und Organisation.
+**…**
 
 #### § 2
 
-**Gemeindliche Register**
+**…**
 
-<sup>1</sup> Folgende gemeindliche amtliche Register führen die ZPK-Nummern:
+## 2. Kantonale Personenregister
 
-- a) die Einwohnerkontrollregister;
-- b) die Kreditoren- und Debitorenbuchhaltungen der Einwohnergemeinden;
-- c) die Schulverwaltungsregister der Einwohnergemeinden.
+#### § 2a
 
-## 2. Datenlieferung
+**Datenübermittlung**
+
+<sup>1</sup> In die kantonalen Personenregister übermittelt werden:
+
+- 1\. die Daten aus dem Betriebs- und Unternehmensregister des Bundesamts für Statistik.
 
 #### § 3
 
-**Datenlieferung**
+**Identifikatoren**
 
-<sup>1</sup> Die Direktion des Innern ist zuständig für die Datenlieferung an den Bund im Sinne von Art. 8 Registerharmonisierungsverordnung (RHV)[^3-1].
+<sup>1</sup> Der Abgleich der Daten der angeschlossenen Fachanwendungen mit den Daten der kantonalen Personenregister erfolgt mittels der AHV-Versichertennummer, der Unternehmens-Identifikationsnummer (UID) oder einer eindeutigen Personenidentifikation, welche von einer Fachanwendung mitgeliefert wird.
 
-[^3-1]: SR [431.021](https://db.clex.ch/link/Bund/431.021/de)
+<sup>2</sup> Als Daten gemäss Abs. 1 gelten Personendaten und besonders schützenswerte Personendaten von natürlichen Personen sowie Daten von juristischen Personen und Personengesellschaften.
 
 #### § 4
 
-**Innerkantonaler Datenaustausch**
+**Liste der erteilten Zugriffsberechtigungen**
 
-<sup>1</sup> Der Kanton stellt für den Austausch der Daten zwischen den Registern gemäss § 1 und § 2 die dafür erforderliche Datenaustauschplattform zur Verfügung. Der innerkantonale Datenaustausch hat auf dieser Datenaustauschplattform zu erfolgen.
+<sup>1</sup> Das Amt für Informatik und Organisation führt eine Liste, welche die erteilten Zugriffsberechtigungen auf die kantonalen Personenregister abbildet.
 
-<sup>2</sup> Das Amt für Informatik und Organisation des Kantons Zug koordiniert die technischen Vorbereitungsarbeiten zur Einführung des Datenaustausches über die Datenaustauschplattform und bestimmt die technischen Anforderungen an die Datenlieferung und die Schnittstellen, welche es den für die Führung der Register zuständigen Stellen mitteilt.
+<sup>1a</sup> Die Liste enthält:
 
-<sup>3</sup> Beim innerkantonalen Datenaustausch sind die Bestimmungen der Online-Verordnung[^4-1] einzuhalten.
+- a) den Namen des zugriffsberechtigten Organs;
+- b) die Art des Verfahrens des Datenbezugs bzw. der Datenbekanntgabe;
+- c) die bezogenen bzw. die bekanntgegebenen Personendaten.
 
-[^4-1]: BGS [157.22](https://bgs.zg.ch/data/157.22/de)
+<sup>1b</sup> Die Liste wird an geeigneter Stelle auf der Website des Kantons publiziert.
+
+<sup>2</sup> …
+
+<sup>3</sup> …
 
 ## 3. Meldeverfahren bei der Einwohnerkontrolle
 
@@ -86,9 +82,9 @@ beschliesst:
 
 **Erfüllung der Meldepflicht**
 
-<sup>1</sup> Meldepflichtige können sich persönlich, schriftlich, durch eine zur Vertretung berechtigte Drittperson oder per Internet bei der Einwohnerkontrolle anmelden.
+<sup>1</sup> Meldepflichtige können sich persönlich, durch eine zur Vertretung berechtigte Drittperson oder per Online-Schalter bei der Einwohnerkontrolle anmelden.
 
-<sup>2</sup> Die Anmeldung per Internet darf nur mittels verschlüsselter Übertragung erfolgen.
+<sup>2</sup> Die Anmeldung per Online-Schalter darf nur mittels verschlüsselter Übertragung erfolgen.
 
 #### § 6
 
@@ -104,34 +100,45 @@ beschliesst:
 
 **Allgemeines**
 
-<sup>1</sup> Bei Gleichwertigkeit zweier örtlicher Anknüpfungspunkte gilt derjenige Ort als Niederlassungsgemeinde, an welchem zuerst die Wohnsitznahme erfolgt und der Heimatschein hinterlegt worden ist. Der Ort der späteren Niederlassung gilt als Aufenthaltsgemeinde, wo in der Regel der Heimatausweis zu hinterlegen ist.
+<sup>1</sup> …
+
+#### § 7a
+
+**Einwohnerregister**
+
+<sup>1</sup> Die Gemeinden führen im Einwohnerregister folgende Daten:
+
+- 1\. Personendaten nach den Vorgaben der Zivilstandsverordnung[^7a-1]
+- 2\. Wegzugsadresse
+- 3\. Umzugsadresse
+- 4\. Datum von Änderungen der Heimatorte
+- 5\. Datum von Änderungen der Konfession
+- 6\. Name und Vorname der Ehegattin bzw. des Ehegatten, Name und Vorname der eingetragenen Partnerin bzw. des eingetragenen Partners
+- 7\. Name und Vorname der Mutter und des Vaters zum Zeitpunkt der Geburt
+- 8\. weitere Namen einer Person
+- 9\. Hinterlegung des Heimatausweises mit Ausstellungsdatum und Ausstellungsort
+- 10\. Beziehungsdaten:
+  - 10\.1. Kindesverhältnis
+  - 10\.2. Pflegeverhältnis
+  - 10\.3. Haushalt
+- 11\. Erfüllung der Krankenpflegeversicherungspflicht gemäss Vorgaben des Bundesrechts
+- 12\. Versicherer für die obligatorische Krankenpflegeversicherung zum Zeitpunkt der Anmeldung
+- 13\. kantonale Referenznummer des Amts für Migration
+- 14\. ZEMIS-Nummer
+- 15\. Debitorennummer (NSP)
+- 16\. Gemeinde-ID
+- 17\. Sperrvermerke gemäss Datenschutzgesetz
+- 18\. Telefonnummer und E-Mail-Adresse zum Zeitpunkt der Anmeldung
+
+[^7a-1]: SR 211.112.2
 
 #### § 8
 
-**Empfangsbestätigung**
-
-<sup>1</sup> Die Einwohnerkontrolle bestätigt die bei der Anmeldung erfolgte Hinterlegung des Heimatscheins mit einem Dokument.
-
-<sup>2</sup> Bei einer Abmeldung ist dieses Dokument der Einwohnerkontrolle einzureichen, worauf die Einwohnerkontrolle den Heimatschein zurückzugeben hat.
+**…**
 
 #### § 9
 
-**Bestellung von Heimatscheinen**
-
-<sup>1</sup> Die Einwohnerkontrollen sind in den folgenden Fällen berechtigt, bei den zuständigen Zivilstandsämtern die Heimatscheine zu bestellen:
-
-- a) bei Änderungen des Zivilstands;
-- b) bei Änderungen des Bürgerrechts;
-- c) bei Namensänderungen;
-- d) beim Eintreten der Volljährigkeit;
-- e) bei minderjährigen Kindern von geschiedenen Eltern;
-- f) bei minderjährigen Kindern im Falle der Wiederverheiratung des verwitweten oder geschiedenen Elternteils;
-- g) bei minderjährigen Kindern ab dem Zeitpunkt, ab welchem sie nicht mehr in der Familiengemeinschaft leben;
-- h) bei der verweigerten Hinterlegung des Heimatscheins im Falle einer Anmeldung.
-
-<sup>2</sup> Die Einwohnerkontrollen sind berechtigt, die von den zuständigen Zivilstandsämtern für das Ausstellen der Heimatscheine erhobenen Gebühren bei den betroffenen Personen oder deren gesetzlichen Vertreterinnen oder Vertretern in Rechnung zu stellen. Diese Gebühren richten sich nach dem Kantonsratsbeschluss über die Gebühren in Verwaltungs- und Zivilsachen[^9-1].
-
-[^9-1]: Verwaltungsgebührentarif; BGS [641.1](https://bgs.zg.ch/data/641.1/de)
+**…**
 
 #### § 10
 
@@ -143,9 +150,7 @@ beschliesst:
 
 #### § 11
 
-**Auslandaufenthalt zu Sonderzwecken**
-
-<sup>1</sup> Bei einem Auslandaufenthalt bleibt die Meldung bestehen, wenn der Aufenthalt zu Sonderzwecken erfolgt und zur Niederlassung eine tatsächliche Beziehung besteht, die eine jederzeitige Rückkehr gewährleistet.
+**…**
 
 #### § 12
 
@@ -157,20 +162,18 @@ beschliesst:
 
 **Fahrende**
 
-<sup>1</sup> Fahrende haben sich in der Gemeinde, in der sie über einen festen Standplatz für längere Aufenthalte (mehrere Monate bis ganzjährig) verfügen, zur Niederlassung anzumelden. Den Aufenthalt auf Durchgangsplätzen haben sie in der Regel nicht zu melden.
+<sup>1</sup> Fahrende haben sich in der Gemeinde, in der sie über einen festen Standplatz verfügen, melderechtlich anzumelden, sofern der Aufenthalt länger als drei Monate dauert. Den Aufenthalt auf Durchgangsplätzen haben sie in der Regel nicht zu melden.
 
 #### § 14
 
 **Aufenthalt auf einem Campingplatz**
 
-<sup>1</sup> Die Niederlassung auf einem Campingplatz ist nur möglich, wenn es sich um einen öffentlichen, ganzjährig geöffneten Platz handelt, der über eine entsprechende Infrastruktur verfügt.
+<sup>1</sup> Der melderechtliche Wohnsitz auf einem Campingplatz kann nur begründet werden, wenn es sich um einen öffentlichen, ganzjährig geöffneten Platz handelt, der über eine entsprechende Infrastruktur verfügt.
 
-## 5. Schlussbestimmungen
+## 5.
 
 #### § 15
 
-**Inkrafttreten**
-
-<sup>1</sup> Die Verordnung tritt rückwirkend am 1. Januar 2009 in Kraft.
+**…**
 
 GS 30, 81
