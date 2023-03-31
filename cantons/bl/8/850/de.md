@@ -4,13 +4,13 @@ number: "850"
 title: Gesetz über die Sozial- und die Jugendhilfe
 short: "Sozialhilfegesetz, SHG"
 language: de
-version: 2023-01-01
-valid_until: 2023-03-31
+version: 2023-04-01
+valid_until: 2024-12-31
 version_adopted: 2021-11-04
 adopted: 2001-06-21
 in_force: 2002-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/850"
-pdf: "https://bl.clex.ch/api/de/versions/3428/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3429/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3428/pdf_file"
 
 (Sozialhilfegesetz, SHG)
 
-Vom 21.06.2001 (Stand 01.01.2023)
+Vom 21.06.2001 (Stand 01.04.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -150,6 +150,55 @@ beschliesst:
 
 [^6-1]: [SGS 850.11](https://bl.clex.ch/data/850.11/de/art10)
 
+#### § 6bis
+
+**Zuschüsse**
+
+<sup>1</sup> Zum Zweck der Anreizsetzung erhalten unterstützte Personen folgende pauschale Zuschüsse:
+
+- a. Einkommensfreibetrag für Erwerbstätige;
+- b. Motivationszuschuss;
+- c. Beschäftigungszuschuss;
+- d. Gefälligkeitszuwendungen.
+
+<sup>2</sup> Einkommensfreibetrag für Erwerbstätige
+
+Eine unterstützte Person erhält einen abgestuften Einkommensfreibetrag, sofern sie einer Erwerbstätigkeit nachgeht.
+
+<sup>3</sup> Motivationszuschuss
+
+Eine unterstützte Person erhält den Motivationszuschuss, wenn sie:
+
+- a. ein Förderungsprogramm, einen Sprachförderungskurs oder einen Grundkompetenzkurs besucht und während weniger als 2 Jahren ununterbrochen Sozialhilfe bezogen hat. Nach Ablauf der 2 Jahre kann die Gemeinde während 1 Jahr weiterhin Motivationszuschüsse gewähren.
+- b. eine Berufsbildung absolviert.
+
+<sup>4</sup> Beschäftigungszuschuss
+
+Besucht eine unterstützte Person ein Beschäftigungsprogramm, gewährt ihr die Gemeinde, bei einer ununterbrochenen Bezugsdauer von unter 2 Jahren, einen Beschäftigungszuschuss. Nach Ablauf der 2 Jahre kann die Gemeinde während 1 Jahr weiterhin einen Beschäftigungszuschuss gewähren.
+
+<sup>5</sup> Gefälligkeitszuwendungen
+
+Gefälligkeitszuwendungen von Dritten an unterstützte Personen bei der Teilnahme an einer Integrationsmassnahme gelten als Zuschüsse.
+
+<sup>6</sup> Das Nähere regelt der Regierungsrat.
+
+#### § 6ter
+
+**Langzeitbezug**
+
+<sup>1</sup> Nach einer ununterbrochenen Bezugsdauer von 2 Jahren erhält eine unterstützte Person eine pauschale Minderung des Grundbedarfs. Ausgenommen sind:
+
+- a. Kinder unter 18 Jahren;
+- b. Mütter mit Kindern unter 12 Monaten;
+- c. Personen ab 55 Jahren, die während mindestens 20 Jahren in der Schweiz erwerbstätig waren und während dieser Zeit keine Sozialhilfe bezogen haben; Erziehung- und Betreuungsgutschriften werden der Erwerbstätigkeit angerechnet;
+- d. erwerbstätige Personen;
+- e. Personen in einer Ausbildung;
+- f. Personen, die ein Förderungsprogramm, einen Sprachförderungskurs, einen Grundkompetenzkurs oder ein Beschäftigungsprogramm besuchen;
+- g. Personen mit einer zu mindestens 70 % ärztlich attestierten Arbeitsunfähigkeit;
+- h. andere Personen in begründeten Fällen.
+
+<sup>2</sup> Das Nähere regelt der Regierungsrat.
+
 #### § 6a
 
 **Besitz, Unterhalt und Betrieb eines Motorfahrzeugs**
@@ -168,7 +217,7 @@ beschliesst:
 
 <sup>2</sup> Belehnt oder veräussert die bedürftige Person ihr Vermögen nicht im festgelegten Umfang, wird die Unterstützung entsprechend eingeschränkt.
 
-<sup>3</sup> Der Regierungsrat legt freie Einkünfte sowie freie Vermögensbeträge fest.
+<sup>3</sup> Der Regierungsrat legt die freien Vermögensbeträge fest.
 
 #### § 7a
 
