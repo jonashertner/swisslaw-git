@@ -4,13 +4,12 @@ number: "725.1"
 title: Dekret über das Baubewilligungsverfahren
 short: "Baubewilligungsdekret, BewD"
 language: de
-version: 2023-01-01
-valid_until: 2023-03-31
-version_adopted: 2024-04-29
+version: 2023-04-01
+version_adopted: 2022-09-13
 adopted: 1994-03-22
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/725.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3026/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3027/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3026/pdf_file"
 
 (Baubewilligungsdekret, BewD)
 
-vom 22.03.1994 (Stand 01.01.2023)
+vom 22.03.1994 (Stand 01.04.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -393,10 +392,10 @@ beschliesst:
 <sup>1</sup> Die Baubewilligungsbehörde konsultiert die Kommission zur Pflege der Orts- und Landschaftsbilder (OLK) bei prägenden Bauvorhaben, gegen die ästhetische Bedenken oder Einwände bestehen, die nicht offensichtlich unbegründet sind und die das Ortsbild oder die Landschaft beeinträchtigen können, insbesondere in folgenden Gebieten:
 
 - a in einem Gebiet des Bundesinventars der Landschaften und Naturdenkmäler von nationaler Bedeutung (BLN),
-- b in einem Gebiet des Bundesinventars der schützenswerten Ortsbilder der Schweiz (ISOS) oder
-- c in einem Ortsbild- oder Landschaftsschutzgebiet im Sinn von Artikel 86 des Baugesetzes.
+- b in einem Gebiet des Bundesinventars der schützenswerten Ortsbilder der Schweiz von nationaler Bedeutung (ISOS) oder
+- c in einem Ortsbild- oder Landschaftsschutzgebiet im Sinne von Artikel 86 des Baugesetzes.
 
-<sup>2</sup> Die OLK wird nicht beigezogen, wenn ein Bauvorhaben bereits von der Eidgenössischen Natur- und Heimatschutzkommission, der Kantonalen Denkmalpflege oder einer leistungsfähigen örtlichen Fachstelle begutachtet wurde sowie bei Bauvorhaben, die das Ergebnis eines nach anerkannten Verfahrensregeln durchgeführten Projektwettbewerbs sind.
+<sup>2</sup> Die OLK wird in den Fällen nach Artikel 10 Absatz 5 des Baugesetzes nicht beigezogen.
 
 #### Art. 23
 

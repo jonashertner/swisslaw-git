@@ -4,13 +4,12 @@ number: "725.1"
 title: "Décret concernant la procédure d'octroi du permis de construire"
 short: DPC
 language: fr
-version: 2023-01-01
-valid_until: 2023-03-31
-version_adopted: 2024-04-29
+version: 2023-04-01
+version_adopted: 2022-09-13
 adopted: 1994-03-22
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/725.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3026/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3027/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3026/pdf_file"
 
 (DPC)
 
-du 22.03.1994 (état au 01.01.2023)
+du 22.03.1994 (état au 01.04.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -387,13 +386,13 @@ décrète:
 
 **4. Commission de protection des sites et du paysage**
 
-<sup>1</sup> L’autorité d’octroi du permis de construire consulte la Commission de protection des sites et du paysage (CPS) lorsqu’un projet dont la réalisation est susceptible d’avoir un impact considérable sur le site ou le paysage suscite des réserves ou des objections de nature esthétique n’apparaissant pas manifestement injustifiées ou pourrait porter atteinte au site ou au paysage, en particulier lorsqu’il est prévu dans
+<sup>1</sup> L’autorité d’octroi du permis de construire consulte la Commission de protection des sites et du paysage (CPS) lorsqu’un projet dont la réalisation est susceptible d’avoir un impact considérable sur le site ou le paysage suscite des réserves ou des objections de nature esthétique n’apparaissant pas manifestement injustifiées et pourrait porter atteinte au site ou au paysage, en particulier lorsqu’il est prévu dans
 
 - a un périmètre compris dans l’inventaire fédéral des paysages, sites et monuments naturels d’importance nationale (IFP),
-- b un périmètre compris dans l’inventaire fédéral des sites construits à protéger en Suisse (ISOS) ou
+- b un périmètre compris dans l’inventaire fédéral des sites construits d’importance nationale à protéger en Suisse (ISOS) ou
 - c une zone de protection des sites ou du paysage au sens de l’article 86 LC.
 
-<sup>2</sup> La CPS n’est pas consultée lorsque le projet de construction a déjà été examiné par la Commission fédérale pour la protection de la nature et du paysage, le Service cantonal des monuments historiques ou un service spécialisé local compétent ou quand il est issu d’un concours de projets organisé conformément à des règles de procédure reconnues.
+<sup>2</sup> La CPS n’est pas consultée dans les cas visés à l’article 10, alinéa 5 LC.
 
 #### Art. 23
 
