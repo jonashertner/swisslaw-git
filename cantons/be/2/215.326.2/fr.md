@@ -1,25 +1,24 @@
 ---
 canton: BE
 number: "215.326.2"
-title: "Loi concernant les impôts sur les mutations *"
+title: "Loi concernant l'impôt sur les mutations *"
 short: LIMu
 language: fr
-version: 2022-05-01
-valid_until: 2023-03-31
-version_adopted: 2021-09-16
+version: 2023-04-01
+version_adopted: 2022-09-13
 adopted: 1992-03-18
 in_force: 1992-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.326.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2580/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2818/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Loi concernant les impôts sur les mutations
+# Loi concernant l'impôt sur les mutations
 
 (LIMu)
 
-du 18.03.1992 (état au 01.05.2022)
+du 18.03.1992 (état au 01.04.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -149,7 +148,7 @@ arrête:
 
 <sup>4</sup> Si le sursis est accordé et que les autres conditions exigées sont réunies, le bureau du registre foncier procède à l’inscription dans le grand livre.
 
-<sup>5</sup> L’impôt qui a fait l’objet du sursis est garanti par une hypothèque légale selon l’article 22, alinéa 2.
+<sup>5</sup> L’impôt qui a fait l’objet du sursis est garanti par une hypothèque légale selon l’article 22, alinéa 2. Le bureau du registre foncier inscrit cette dernière au grand livre en même temps que l'acquisition.
 
 <sup>6</sup> Les articles 17 ss s’appliquent à la procédure.
 
@@ -193,6 +192,16 @@ arrête:
 
 <sup>1</sup> L'impôt est taxé par le bureau du registre foncier et la taxation est notifiée par écrit.
 
+#### Art. 16a
+
+**Traitement de données provenant des fichiers centralisés de données personnelles**
+
+<sup>1</sup> Pour exécuter ses tâches au sens de la présente loi, le bureau du registre foncier dispose d'un droit d'accès par procédure d’appel conformément au profil de base selon l’article 4, alinéa 1, lettre d de la loi du 10 mars 2020 sur les fichiers centralisés de données personnelles (LFDP)[^16a-1], données historiques comprises.
+
+<sup>2</sup> Pour apprécier si les conditions d’une exonération fiscale a posteriori au sens de l’article 11a sont remplies, le bureau du registre foncier peut en outre accéder, par une procédure d’appel, aux données relatives en particulier à l’état civil, au lien parents-enfants ainsi qu’au ménage, données historiques comprises.
+
+[^16a-1]: RSB [152.05](https://www.belex.sites.be.ch/data/152.05/fr)
+
 #### Art. 17
 
 **Taxation lors du dépôt de la réquisition d’inscription, sursis en cas d’exonération fiscale faite a posteriori**
@@ -205,17 +214,17 @@ arrête:
 
 **Exonération fiscale a posteriori selon l’article 11a 1. Procédure**
 
-<sup>1</sup> L’acquéreur ou l’acquéreuse doit spontanément prouver au bureau du registre foncier, avant l’expiration du sursis selon l’article 17, alinéa 2, que toutes les conditions d’une exonération fiscale selon l’article 11b sont réunies ou qu’elles le seront à la date de l’expiration du sursis. Il convient de joindre la totalité des moyens de preuve.
+<sup>1</sup> L’acquéreur ou l’acquéreuse doit spontanément prouver au bureau du registre foncier, au plus tard dans les 30 jours suivant l’expiration du sursis selon l’article 17, alinéa 2, que toutes les conditions d’une exonération fiscale a posteriori au sens de l'article 11b sont remplies. Il convient de joindre la totalité des moyens de preuve.
 
 <sup>2</sup> Si les conditions d’une exonération fiscale sont réunies, le bureau du registre foncier approuve la demande d’une exonération fiscale a posteriori, rend une décision à ce sujet et radie l’hypothèque légale prévue à l’article 11a, alinéa 5.
 
-<sup>3</sup> Si le bureau du registre foncier conclut que les conditions d’une exonération fiscale selon l’article 11b ne sont pas réunies, il rejette la demande et révoque le sursis.
+<sup>3</sup> Si le bureau du registre foncier conclut que les conditions d’une exonération fiscale a posteriori selon l’article 11b ne sont pas réunies, il rejette la demande et révoque le sursis.
 
 #### Art. 17b
 
 **2. Perception de l’impôt ayant fait l’objet du sursis**
 
-<sup>1</sup> S’il existe une décision entrée en force selon l’article 17a, alinéa 3 ou que le sursis prévu à l’article 17, alinéa 2 devient caduc du fait de l’expiration du délai, le bureau du registre foncier perçoit l’impôt, intérêt compris, à partir de la date de l’acquisition de l’immeuble. L’article 21 est applicable.
+<sup>1</sup> S’il existe une décision entrée en force selon l’article 17a, alinéa 3, le bureau du registre foncier perçoit l’impôt, intérêt compris, à partir de la date de l’acquisition de l’immeuble. L’article 21 est applicable.
 
 #### Art. 18
 
@@ -273,7 +282,7 @@ arrête:
 
 <sup>1</sup> La Direction de l’intérieur et de la justice accorde, sur requête, la remise ou le sursis au paiement de la totalité ou d’une partie de l’impôt, lorsque le paiement de celui-ci implique une rigueur manifeste pour la personne concernée ou compromet son existence matérielle.
 
-<sup>2</sup> Sur requête, elle accorde le sursis au paiement de l’impôt pour la durée de la procédure d’octroi de la remise.
+<sup>2</sup> Elle accorde le sursis au paiement de l’impôt pour la durée de la procédure d’octroi de la remise.
 
 #### Art. 24
 
@@ -285,13 +294,13 @@ arrête:
 
 **3. Accordé par la Direction de l’économie, de l’énergie et de l’environnement**
 
-<sup>1</sup> En cas de procédure d’octroi d’une remise au sens de l’article 24, la Direction de l’économie, de l’énergie et de l’environnement accorde sur demande le sursis au paiement de l’impôt pour la durée de la procédure.
+<sup>1</sup> En cas de procédure d’octroi d’une remise au sens de l’article 24, la Direction de l’économie, de l’énergie et de l’environnement accorde le sursis au paiement de l’impôt pour la durée de la procédure.
 
 #### Art. 25
 
 **4. Dispositions communes**
 
-<sup>1</sup> La requête de remise ou de sursis doit être déposée au bureau du registre foncier, à l’intention de l’autorité compétente en matière de remise ou d’octroi du sursis, au plus tard 30 jours à compter de l’entrée en force de la taxation fiscale.
+<sup>1</sup> La requête de remise ou de sursis doit être déposée au bureau du registre foncier, à l’intention de l’autorité compétente en matière de remise ou d’octroi du sursis, au plus tard 30 jours à compter de l’entrée en force de la taxation fiscale ou de la décision rendue en application de l'article 17a, alinéa 3.
 
 <sup>2</sup> Il est possible de subordonner la remise ou le sursis à des conditions pouvant être mentionnées au registre foncier.
 
@@ -303,23 +312,25 @@ arrête:
 
 **Procédure**
 
-<sup>1</sup> La procédure est régie par les dispositions de la loi sur la procédure et la juridiction administratives[^26-1] à moins que la présente loi n'en dispose autrement.
+<sup>1</sup> La procédure est régie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^26-1] à moins que la présente loi n'en dispose autrement.
 
 <sup>2</sup> Devant les instances cantonales, la personne assujettie peut se faire représenter par un ou une notaire inscrite au registre des notaires du canton de Berne.
 
-[^26-1]: RSB 155.21
+[^26-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
 
 #### Art. 27
 
 **Voies de droit**
 
-<sup>1</sup> La taxation à laquelle a procédé le bureau du registre foncier peut être frappée d'opposition.
+<sup>1</sup> Les décisions rendues par le bureau du registre foncier en application de la présente loi peuvent être frappées d'opposition.
 
 <sup>2</sup> La décision sur opposition peut faire l'objet d'un recours devant la Direction de l’intérieur et de la justice.
 
 <sup>3</sup> La décision sur recours de la Direction de l’intérieur et de la justice peut faire l'objet d'un recours devant le Tribunal administratif.
 
-<sup>4</sup> La décision de remise ou de sursis rendue par la Direction de l’intérieur et de la justice peut faire l'objet d'un recours devant le Tribunal administratif.
+<sup>4</sup> La décision de remise ou de sursis au sens de l'article 23 peut faire l'objet d'un recours devant le Tribunal administratif.
+
+<sup>5</sup> Les oppositions et les recours contre les décisions relatives au droit de gage n'ont pas d'effet suspensif.
 
 ## 7 Infractions et impôt supplémentaire
 
@@ -329,7 +340,7 @@ arrête:
 
 <sup>2</sup> L'autorité compétente est le bureau du registre foncier.
 
-<sup>3</sup> L'autorité compétente au sens de l'article 228, alinéa 2 LI est la Direction de l'intérieur et de la justice.
+<sup>3</sup> L'autorité compétente au sens de l'article 225, alinéa 2 LI est la Direction de l'intérieur et de la justice.
 
 [^28-1]: RSB [661.11](https://www.belex.sites.be.ch/data/661.11/fr)
 

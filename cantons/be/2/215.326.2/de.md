@@ -1,25 +1,24 @@
 ---
 canton: BE
 number: "215.326.2"
-title: Gesetz betreffend die Handänderungssteuer
-short: HG
+title: Handänderungssteuergesetz
+short: HStG
 language: de
-version: 2022-05-01
-valid_until: 2023-03-31
-version_adopted: 2021-09-16
+version: 2023-04-01
+version_adopted: 2022-09-13
 adopted: 1992-03-18
 in_force: 1992-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.326.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2580/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2818/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz betreffend die Handänderungssteuer
+# Handänderungssteuergesetz
 
-(HG)
+(HStG)
 
-vom 18.03.1992 (Stand 01.05.2022)
+vom 18.03.1992 (Stand 01.04.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -149,7 +148,7 @@ beschliesst:
 
 <sup>4</sup> Wird die Stundung gewährt und liegen die übrigen Voraussetzungen vor, nimmt das Grundbuchamt den Eintrag im Hauptbuch vor.
 
-<sup>5</sup> Für die gestundete Steuer besteht ein gesetzliches Grundpfandrecht gemäss Artikel 22 Absatz 2.
+<sup>5</sup> Für die gestundete Steuer besteht ein gesetzliches Grundpfandrecht gemäss Artikel 22 Absatz 2, das vom Grundbuchamt zusammen mit dem Erwerbsgeschäft im Hauptbuch eingetragen wird.
 
 <sup>6</sup> Für das Verfahren gelten die Artikel 17 ff.
 
@@ -193,6 +192,16 @@ beschliesst:
 
 <sup>1</sup> Die Steuer wird vom Grundbuchamt veranlagt und schriftlich eröffnet.
 
+#### Art. 16a
+
+**Bearbeitung von Daten aus zentralen Personendatensammlungen**
+
+<sup>1</sup> Zur Erfüllung der sich aus diesem Gesetz ergebenden Aufgaben steht dem Grundbuchamt das Basisprofil gemäss Artikel 4 Absatz 1 Buchstabe d des Gesetzes vom 10. März 2020 über die zentralen Personendatensammlungen (Personendatensammlungsgesetz, PDSG)[^16a-1] einschliesslich früherer Daten im Abrufverfahren zu Verfügung.
+
+<sup>2</sup> Zur Beurteilung, ob die Voraussetzungen zur Gewährung der nachträglichen Steuerbefreiung gemäss Artikel 11a erfüllt sind, stehen dem Grundbuchamt zudem insbesondere die Angaben zum Zivilstand, zur Eltern-Kind-Beziehung sowie zum Haushalt einschliesslich früherer Daten im Abrufverfahren zur Verfügung.
+
+[^16a-1]: BSG [152.05](https://www.belex.sites.be.ch/data/152.05/de)
+
 #### Art. 17
 
 **Veranlagung bei Grundbuchanmeldung, Stundung bei nachträglicher Steuerbefreiung**
@@ -205,17 +214,17 @@ beschliesst:
 
 **Nachträgliche Steuerbefreiung gemäss Artikel 11a 1. Verfahren**
 
-<sup>1</sup> Die Erwerberin oder der Erwerber hat gegenüber dem Grundbuchamt vor Ablauf der Stundung gemäss Artikel 17 Absatz 2 unaufgefordert den Nachweis zu erbringen, dass alle Voraussetzungen zur Steuerbefreiung gemäss Artikel 11b erfüllt sind oder zum Zeitpunkt des Ablaufs der Stundung erfüllt sein werden. Es sind sämtliche Beweismittel beizulegen.
+<sup>1</sup> Die Erwerberin oder der Erwerber hat gegenüber dem Grundbuchamt innert 30 Tagen nach Ablauf der Stundung gemäss Artikel 17 Absatz 2 unaufgefordert den Nachweis zu erbringen, dass alle Voraussetzungen zur nachträglichen Steuerbefreiung gemäss Artikel 11b erfüllt sind. Es sind sämtliche Beweismittel beizulegen.
 
 <sup>2</sup> Sind die Voraussetzungen zur Steuerbefreiung erfüllt, heisst das Grundbuchamt das Gesuch um eine nachträgliche Steuerbefreiung gut, verfügt diese und löscht das gesetzliche Grundpfandrecht gemäss Artikel 11a Absatz 5.
 
-<sup>3</sup> Kommt das Grundbuchamt zum Schluss, dass die Voraussetzungen zur Steuerbefreiung gemäss Artikel 11b nicht erfüllt sind, weist es das Gesuch ab und hebt die Stundung auf.
+<sup>3</sup> Kommt das Grundbuchamt zum Schluss, dass die Voraussetzungen zur nachträglichen Steuerbefreiung gemäss Artikel 11b nicht erfüllt sind, weist es das Gesuch ab und hebt die Stundung auf.
 
 #### Art. 17b
 
 **2. Bezug der gestundeten Steuer**
 
-<sup>1</sup> Liegt eine rechtskräftige Verfügung gemäss Artikel 17a Absatz 3 vor oder fällt die Stundung gemäss Artikel 17 Absatz 2 infolge Fristablaufs dahin, bezieht das Grundbuchamt die Steuer samt Zins ab dem Zeitpunkt des Grundstückserwerbs. Artikel 21 findet Anwendung.
+<sup>1</sup> Liegt eine rechtskräftige Verfügung gemäss Artikel 17a Absatz 3 vor, bezieht das Grundbuchamt die Steuer samt Zins ab dem Zeitpunkt des Grundstückserwerbs. Artikel 21 findet Anwendung.
 
 #### Art. 18
 
@@ -273,7 +282,7 @@ beschliesst:
 
 <sup>1</sup> Die Direktion für Inneres und Justiz erlässt oder stundet auf Gesuch hin die Steuer ganz oder teilweise, wenn deren Bezahlung für die betreffende Person eine offenbare Härte bedeutet oder sie in ihrer wirtschaftlichen Existenz gefährdet.
 
-<sup>2</sup> Sie stundet auf Gesuch hin die Steuer für die Dauer des Erlassverfahrens.
+<sup>2</sup> Sie stundet die Steuer für die Dauer des Erlassverfahrens.
 
 #### Art. 24
 
@@ -285,13 +294,13 @@ beschliesst:
 
 **3. Durch die Wirtschafts-, Energie- und Umweltdirektion**
 
-<sup>1</sup> Bei Erlassverfahren gemäss Artikel 24 stundet die Wirtschafts-, Energie- und Umweltdirektion auf Gesuch hin die Steuer für die Dauer des Verfahrens.
+<sup>1</sup> Bei Erlassverfahren gemäss Artikel 24 stundet die Wirtschafts-, Energie- und Umweltdirektion die Steuer für die Dauer des Verfahrens.
 
 #### Art. 25
 
 **4. Gemeinsame Bestimmungen**
 
-<sup>1</sup> Das Erlass- oder Stundungsgesuch ist spätestens innert 30 Tagen seit Eintritt der Rechtskraft der Steuerveranlagung beim Grundbuchamt zuhanden der Stundungs- beziehungsweise Erlassbehörde einzureichen.
+<sup>1</sup> Das Erlass- oder Stundungsgesuch ist spätestens innert 30 Tagen seit Eintritt der Rechtskraft der Steuerveranlagung bzw. der Verfügung gemäss Artikel 17a Absatz 3 beim Grundbuchamt zuhanden der Stundungs- bzw. Erlassbehörde einzureichen.
 
 <sup>2</sup> An den Erlass oder die Stundung können Bedingungen geknüpft und im Grundbuch angemerkt werden.
 
@@ -303,23 +312,25 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Das Verfahren richtet sich nach den Bestimmungen des Gesetzes über die Verwaltungsrechtspflege[^26-1] soweit dieses Gesetz nichts Abweichendes bestimmt.
+<sup>1</sup> Das Verfahren richtet sich nach den Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^26-1], soweit dieses Gesetz nichts Abweichendes bestimmt.
 
 <sup>2</sup> Die Steuerpflichtigen können sich vor den kantonalen Instanzen durch im Notariatsregister des Kantons Bern eingetragene Notarinnen und Notare vertreten lassen.
 
-[^26-1]: BSG 155.21
+[^26-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
 #### Art. 27
 
 **Rechtsweg**
 
-<sup>1</sup> Gegen die Veranlagung durch das Grundbuchamt kann Einsprache erhoben werden.
+<sup>1</sup> Gegen die nach diesem Gesetz erlassenen Verfügungen des Grundbuchamts kann Einsprache erhoben werden.
 
 <sup>2</sup> Gegen die Einspracheverfügung kann bei der Direktion für Inneres und Justiz Beschwerde erhoben werden.
 
 <sup>3</sup> Gegen den Entscheid der Direktion für Inneres und Justiz kann beim Verwaltungsgericht Beschwerde geführt werden.
 
-<sup>4</sup> Gegen die Erlass- oder Stundungsverfügung der Direktion für Inneres und Justiz kann beim Verwaltungsgericht Beschwerde geführt werden.
+<sup>4</sup> Gegen die Erlass- oder Stundungsverfügung gemäss Artikel 23 kann beim Verwaltungsgericht Beschwerde geführt werden.
+
+<sup>5</sup> Einsprachen und Beschwerden gegen Pfandrechtsverfügungen kommt keine aufschiebende Wirkung zu.
 
 ## 7 Widerhandlungen und Nachsteuer
 
@@ -329,7 +340,7 @@ beschliesst:
 
 <sup>2</sup> Zuständige Behörde ist das Grundbuchamt.
 
-<sup>3</sup> Zuständige Behörde im Sinne von Artikel 228 Absatz 2 StG ist die Direktion für Inneres und Justiz.
+<sup>3</sup> Zuständige Behörde im Sinne von Artikel 225 Absatz 2 StG ist die Direktion für Inneres und Justiz.
 
 [^28-1]: BSG [661.11](https://www.belex.sites.be.ch/data/661.11/de)
 
