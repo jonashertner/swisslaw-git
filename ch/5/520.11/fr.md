@@ -4,11 +4,11 @@ title: Ordonnance du 11 novembre 2020 sur la protection civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: fr
-version: 2022-01-01
+version: 2023-04-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20230401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20220101/fr"
 
 (OPCi)
 
-du 11 novembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
+du 11 novembre 2020 (État le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
@@ -216,7 +216,7 @@ Les personnes qui collaborent ou assistent à l’examen médical ou à l’appr
 
 **Traitement des données**
 
-<sup>1</sup> Les données sanitaires au sens de l’art. 26, al. 2 et 3, de la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée (LSIA)[^16-1] qui sont saisies dans le cadre de l’appréciation médicale de l’aptitude au service de protection civile sont traitées dans le Système d’information médicale de l’armée.
+<sup>1</sup> Les données sanitaires au sens de l’art. 26, al. 2 et 3, de la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée et du DDPS (LSIA)[^16-1] qui sont saisies dans le cadre de l’appréciation médicale de l’aptitude au service de protection civile sont traitées dans le Système d’information médicale de l’armée.[^16-2]
 
 <sup>2</sup> Les données sanitaires en rapport avec l’aptitude à faire du service de protection civile sont conservées par les médecins-conseils.
 
@@ -225,6 +225,7 @@ Les personnes qui collaborent ou assistent à l’examen médical ou à l’appr
 <sup>4</sup> Le traitement des données sanitaires est régi par les art. 24 à 29 LSIA.
 
 [^16-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^16-2]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ## Chapitre 3 Obligation de servir dans la protection civile
 
@@ -479,14 +480,15 @@ Les contrôles effectués par la protection civile dans le Système d’informat
 - d. l’émission d’annonces préalables de services et de convocations;
 - e. l’administration de la correspondance;
 - f. la saisie des jours de service de protection civile accomplis;
-- g. l’administration des personnes effectuant du service volontaire et des autres personnes visées à l’art. 4, al. 4, de l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée (OSIAr)[^37-1];
+- g.[^37-1] l’administration des personnes effectuant du service volontaire et des autres personnes visées à l’art. 4, al. 4, de l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée et du DDPS (OSIAr)[^37-2];
 - h. le classement des documents établis ou reçus en lien avec les personnes astreintes, avec les personnes aptes à servir dans la protection civile, avec les personnes effectuant du service de protection civile ou avec un service de protection civile.
 
 <sup>2</sup> Les contrôles relèvent des services cantonaux compétents.
 
 <sup>3</sup> Le maître des données contenues dans le SIPA est le commandement de l’Instruction (art. 2*a* et annexe 1 OSIAr). L’OFPP est le responsable des données pour le domaine de la protection civile.
 
-[^37-1]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^37-1]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^37-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 38
 
@@ -1044,7 +1046,7 @@ L’OFPP approuve le projet si les conditions suivantes sont réunies:
 
 <sup>6</sup> L’OFPP règle les autres exigences spécifiques aux biens culturels.
 
-[^84-1]: La norme SIA 261 peut être obtenue contre paiement auprès de la Société suisse des ingénieurs et des architectes (www.sia.ch&gt; sia.shop &gt; Collection des normes &gt; Architecte &gt; 261).
+[^84-1]: La norme SIA 261 peut être obtenue contre paiement auprès de la Société suisse des ingénieurs et des architectes ([www.sia.ch](http://www.sia.ch) &gt; sia.shop &gt; Collection des normes &gt; Architecte &gt; 261).
 
 #### Art. 85
 
@@ -1417,7 +1419,7 @@ Annexe 1
 <tr><td>Recrue</td><td>4.–</td></tr>
 </table>
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 62 et 112, al. 2)
 
@@ -1489,13 +1491,13 @@ Annexe 2*[^t-1]*
 <tr><td>Chef du service de la logistique</td><td>CS log</td><td>Of log</td><td>CC CS log CC cond bat</td><td colspan="2">OFPP OFPP</td><td>5 à 7 5 à 7</td><td>Aide de commandement à l’échelon du bataillon</td></tr>
 </table>
 
-**7. Légendes**
+**7.** **Légendes**
 
 <table>
 <tr><td>1 Organes de conduite cantonaux 2 Organes de conduite communaux AiC Aide à la conduite Assist Assistance AT Appui technique Bat Bataillon C Chef CC Cours de cadres CCT Cours de cadres technique Cdt Commandant C gr Chef de groupe</td><td>Cond Conduite Cp Compagnie CS Chef de service C sct Chef de section Cuis Cuisine Four Fourrier Infra Infrastructure Log Logistique Mat Matériel NBC Nucléaire, biologique et chimique OC Organe de conduite Of Officier</td><td>PBC Protection des biens culturels Pi Pionnier Rempl Remplaçant San Sanitaire Sct Section Sgtm Sergent-major Sof Sous-officier Spéc Spécialiste Trsp Transports</td></tr>
 </table>
 
-Annexe 3*[^t-2]*
+Annexe 3[^t-2]
 
 (art. 65, al. 2)
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 11. November 2020 über den Zivilschutz (Zivilschutzveror
 short: ZSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: de
-version: 2022-01-01
+version: 2023-04-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-888-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2020-888-20230401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20220101/de"
 
 (Zivilschutzverordnung, ZSV)
 
-vom 11. November 2020 (Stand am 1. Januar 2022)
+vom 11. November 2020 (Stand am 1. April 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -220,7 +220,7 @@ Die an der medizinischen Untersuchung oder Beurteilung beteiligten und anwesende
 
 **Datenbearbeitung**
 
-<sup>1</sup> Daten nach Artikel 26 Absatz 2 und 3 des Bundesgesetzes vom 3. Oktober 2008[^16-1] über die militärischen Informationssysteme (MIG), die aufgrund der medizinischen Beurteilung der Schutzdiensttauglichkeit erfasst werden, werden im Medizinischen Informationssystem der Armee bearbeitet.
+<sup>1</sup> Daten nach Artikel 26 Absätze 2 und 3 des Bundesgesetzes vom 3. Oktober 2008[^16-1] über militärische und andere Informationssysteme im VBS (MIG), die aufgrund der medizinischen Beurteilung der Schutzdiensttauglichkeit erfasst werden, werden im Medizinischen Informationssystem der Armee bearbeitet.[^16-2]
 
 <sup>2</sup> Die sanitätsdienstlichen Daten im Zusammenhang mit der Schutzdienstfähigkeit werden von den Vertrauensärzten und Vertrauensärztinnen aufbewahrt.
 
@@ -229,6 +229,7 @@ Die an der medizinischen Untersuchung oder Beurteilung beteiligten und anwesende
 <sup>4</sup> Die Bearbeitung der sanitätsdienstlichen Daten richtet sich nach den Artikeln 24–29 MIG.
 
 [^16-1]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^16-2]: Fassung gemäss Anhang Ziff. 8 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ## 3. Kapitel: Schutzdienstpflicht
 
@@ -483,14 +484,15 @@ Die Kontrollführung durch den Zivilschutz im Personalinformationssystem der Arm
 - d. Erstellung von Dienstvoranzeigen und Aufgeboten;
 - e. Korrespondenzverwaltung;
 - f. Erfassung der geleisteten Schutzdiensttage;
-- g. Verwaltung von freiwilligen Schutzdienstleistenden sowie der übrigen Personen nach Artikel 4 Absatz 4 der Verordnung vom 16. Dezember 2009[^37-1] über die militärischen Informationssysteme (MIV);
+- g.[^37-1] Verwaltung von freiwilligen Schutzdienstleistenden sowie der übrigen Personen nach Artikel 4 Absatz 4 der Verordnung vom 16. Dezember 2009[^37-2] über militärische und andere Informationssysteme im VBS (MIV);
 - h. Ablage der im Zusammenhang mit Schutzdienstpflichtigen, Schutzdiensttauglichen, Schutzdienstleistenden oder einer Schutzdienstleistung erstellten oder erhaltenen Dokumente.
 
 <sup>2</sup> Die Kontrollführung ist Sache der zuständigen Stellen der Kantone.
 
 <sup>3</sup> Inhaber der im PISA enthaltenen Daten ist das Kommando Ausbildung (Art. 2*a* und Anhang 1 MIV). Das BABS ist Datenherr der im PISA enthaltenen Daten für den Bereich Zivilschutz.
 
-[^37-1]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^37-1]: Fassung gemäss Anhang Ziff. 8 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^37-2]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 38
 
@@ -1421,7 +1423,7 @@ Anhang 1
 <tr><td>Rekrut</td><td>4.–</td></tr>
 </table>
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 62 und 112 Abs. 2)
 
@@ -1493,13 +1495,13 @@ Anhang 2*[^t-1]*
 <tr><td>Chef/in Logistik</td><td>C Log</td><td>Log Of</td><td>KK C Log KK Fhr Bat</td><td>BABS BABS</td><td>5–7 5–7</td><td>Führungsgehilfe/-gehilfin Stufe Bataillon</td></tr>
 </table>
 
-**7. Legende**
+**7.** **Legende**
 
 <table>
 <tr><td>1 Kantonale Führungsorgane 2 Kommunale Führungsorgane ABC atomar, biologisch und chemisch Bat Bataillon Betreu Betreuung C Chef/in Fhr Führung FO Führungsorgan Four Fourier/in FU Führungsunterstützung Fw Feldweibel</td><td>Grfhr Gruppenführer/in Infra Infrastruktur Kdt Kommandant/in KGS Kulturgüterschutz KK Kaderkurs (Kaderausbildung) KKT Kaderkurs Technik (Kaderausbildung) Kp Kompanie Kü Küche Log Logistik Mat Material Of Offizier/in</td><td>Pi Pionier/in San Sanität Spez Spezialist/in Stv Stellvertreter/in TH Technische Hilfe Trsp Transport Uof Unteroffizier/in Z Zug Zfhr Zugführer/in</td></tr>
 </table>
 
-Anhang 3*[^t-2]*
+Anhang 3[^t-2]
 
 (Art. 65 Abs. 2)
 

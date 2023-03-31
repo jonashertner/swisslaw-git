@@ -4,11 +4,11 @@ title: Ordinanza sulla protezione civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: it
-version: 2022-01-01
+version: 2023-04-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20230401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20220101/it"
 
 (OPCi)
 
-dell’11 novembre 2020 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+dell’11 novembre 2020 (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -220,7 +220,7 @@ Le persone che collaborano o che sono presenti alla visita medica o all’apprez
 
 **Trattamento dei dati**
 
-<sup>1</sup> I dati secondo l’articolo 26 capoversi 2 e 3 della legge federale del 3 ottobre 2008[^16-1] sui sistemi d’informazione militari (LSIM) registrati sulla base dell’apprezzamento medico dell’idoneità al servizio di protezione civile sono trattati nel sistema d’informazione medica dell’esercito.
+<sup>1</sup> I dati secondo l’articolo 26 capoversi 2 e 3 della legge federale del 3 ottobre 2008[^16-1] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS (LSIM) registrati sulla base dell’apprezzamento medico dell’idoneità al servizio di protezione civile sono trattati nel sistema d’informazione medica dell’esercito.[^16-2]
 
 <sup>2</sup> I dati sanitari concernenti l’idoneità a prestare servizio di protezione civile sono conservati dai medici di fiducia.
 
@@ -229,6 +229,7 @@ Le persone che collaborano o che sono presenti alla visita medica o all’apprez
 <sup>4</sup> Il trattamento dei dati sanitari è retto dagli articoli 24–29 LSIM.
 
 [^16-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^16-2]: Nuovo testo giusta l’all. n. 8 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ## Capitolo 3: Obbligo di prestare servizio di protezione civile
 
@@ -485,14 +486,15 @@ La tenuta dei controlli da parte della protezione civile nel Sistema di gestione
 - d. l’allestimento di preavvisi di servizio e convocazioni;
 - e. l’amministrazione della corrispondenza;
 - f. la registrazione dei giorni di servizio prestati;
-- g. l’amministrazione dei volontari e di altre persone secondo l’articolo 4 capoverso 4 dell’ordinanza del 16 dicembre 2009[^37-1] sui sistemi d’informazione militari (OSIM);
+- g.[^37-1] l’amministrazione dei volontari e di altre persone secondo l’articolo 4 capoverso 4 dell’ordinanza del 16 dicembre 2009[^37-2] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS (OSIM);
 - h. l’archiviazione dei documenti allestiti o ricevuti in relazione alle persone soggette all’obbligo di prestare servizio, dichiarate abili al servizio o che prestano servizio oppure a una prestazione di servizio.
 
 <sup>2</sup> La tenuta dei controlli è di competenza degli organi cantonali responsabili della protezione civile.
 
 <sup>3</sup> Detentore dei dati contenuti nel PISA è il Comando Istruzione (art. 2*a* e allegato 1 OSIM). L’UFPP ha il dominio sui dati contenuti nel PISA per il settore protezione civile.
 
-[^37-1]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^37-1]: Nuovo testo giusta l’all. n. 8 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^37-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 38
 
@@ -1419,7 +1421,7 @@ Allegato 1
 <tr><td>Recluta</td><td>4.–</td></tr>
 </table>
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 62 e 112 cpv. 2)
 
@@ -1491,13 +1493,13 @@ Allegato 2*[^t-1]*
 <tr><td>Capo logistica</td><td>C log</td><td>uff log</td><td>CQ C log CQ cond bat</td><td>UFPP UFPP</td><td>5–7 5–7</td><td>Aiutante al comando a livello di battaglione</td></tr>
 </table>
 
-**7. Legenda**
+**7.** **Legenda**
 
 <table>
 <tr><td>1 organi di condotta cantonali 2 organi di condotta comunali AiC aiuto alla condotta assist assistenza bat battaglione C capo mat materiale NBC nucleare, biologico e chimico OC organo di condotta pi pioniere PBC protezione dei beni culturali</td><td>cdt comandante C gr capo gruppo cond condotta CQ corso quadri (istruzione dei quadri) CQT corso quadri tecnico (istruzione dei quadri) san sanitario sez sezione sgtm sergente maggiore sost sostituto spec specialista</td><td>cp compagnia C sez capo sezione cuc cucina fur furiere infra infrastruttura log logistica ST supporto tecnico trsp trasporti suff sottufficiale uff ufficiale</td></tr>
 </table>
 
-Allegato 3*[^t-2]*
+Allegato 3[^t-2]
 
 (art. 65 cpv. 2)
 
