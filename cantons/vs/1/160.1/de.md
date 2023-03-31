@@ -2,23 +2,23 @@
 canton: VS
 number: "160.1"
 title: Gesetz über die politischen Rechte
-short: GpolR
+short: kGPR
 language: de
-version: 2017-04-09
-corrected: 2017-07-14
-version_adopted: 2016-03-09
+version: 2023-04-01
+version_adopted: 2022-11-17
 adopted: 2004-05-13
 in_force: 2005-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/160.1"
-pdf: "https://lex.vs.ch/api/de/versions/690/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3202/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die politischen Rechte (GpolR)
+# Gesetz über die politischen Rechte
 
-vom 13. Mai 2004
+(kGPR)
+
+vom 13.05.2004 (Stand 01.04.2023)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -28,9 +28,9 @@ auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Titel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
-### 1. Kapitel: Gemeinsame Bestimmungen
+### 1.1 Gemeinsame Bestimmungen
 
 #### Art. 1
 
@@ -44,7 +44,7 @@ verordnet:
 
 **Gleichheitsgrundsatz**
 
-Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+<sup>1</sup> Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
 
 #### Art. 3
 
@@ -64,9 +64,9 @@ Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Fu
 
 <sup>2</sup> Bei Verfassungsrevisionen entscheidet die absolute Mehrheit der an der Abstimmung teilnehmenden Bürger (Art. 106 KV).
 
-### 2. Kapitel: Teilnahme der Stimmbürger am Urnengang
+### 1.2 Teilnahme der Stimmbürger am Urnengang
 
-### 1. Abschnitt: Stimmberechtigung
+### 1.2.1 Stimmberechtigung
 
 #### Art. 5
 
@@ -88,19 +88,19 @@ Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Fu
 
 **In eidgenössischen Angelegenheiten**
 
-Die Bundesgesetzgebung regelt die Ausübung der politischen Rechte in eidgenössischen Angelegenheiten.
+<sup>1</sup> Die Bundesgesetzgebung regelt die Ausübung der politischen Rechte in eidgenössischen Angelegenheiten.
 
 #### Art. 8
 
 **In kantonalen Angelegenheiten**
 
-Stimmberechtigt in kantonalen Angelegenheiten sind die Stimmbürger, die am Wahl- oder Abstimmungstag seit 30 Tagen im Kanton und seit 5 Tagen in der neuen Gemeinde Wohnsitz haben.
+<sup>1</sup> Stimmberechtigt in kantonalen Angelegenheiten sind die Stimmbürger, die am Wahl- oder Abstimmungstag seit 30 Tagen im Kanton und seit 5 Tagen in der neuen Gemeinde Wohnsitz haben.
 
 #### Art. 9
 
 **In kommunalen Angelegenheiten**
 
-Stimmberechtigt in kommunalen Angelegenheiten sind die Stimmbürger, die am Wahl- oder Abstimmungstag seit 30 Tagen in der Gemeinde Wohnsitz haben.
+<sup>1</sup> Stimmberechtigt in kommunalen Angelegenheiten sind die Stimmbürger, die am Wahl- oder Abstimmungstag seit 30 Tagen in der Gemeinde Wohnsitz haben.
 
 #### Art. 10
 
@@ -118,10 +118,8 @@ Stimmberechtigt in kommunalen Angelegenheiten sind die Stimmbürger, die am Wahl
 
 <sup>1</sup> Politischen Wohnsitz, der nicht dem zivilrechtlichen entspricht, können insbesondere haben:
 
-- a) Bevormundete;
-
+- a) Personen, die unter umfassender Beistandschaft stehen;
 - b) Wochenaufenthalter, namentlich Studenten;
-
 - c) Ehegatten, die sich mit dem Einverständnis des Ehepartners, auf richterliche Anordnung hin oder aufgrund unmittelbarer gesetzlicher Befugnis mit der Absicht dauernden Verbleibens ausserhalb des gemeinsamen Haushaltes aufhalten.
 
 <sup>2</sup> Artikel 10 ist anwendbar.
@@ -141,7 +139,6 @@ Stimmberechtigt in kommunalen Angelegenheiten sind die Stimmbürger, die am Wahl
 <sup>1</sup> In Burgerangelegenheiten sind stimmberechtigt:
 
 - a) die stimmfähigen Burger, die in der Gemeinde, deren Burgerrecht sie besitzen, Wohnsitz haben;
-
 - b) Burger, die ihren Wohnsitz im Kanton haben, welche diese Absicht gegenüber dem Präsidenten der Burgerschaft schriftlich erklärt haben; diese Erklärung bleibt für die gesamte Dauer der laufenden Verwaltungsperiode gültig. Indessen dürfen sich an Wahlen nur die in der Gemeinde wohnhaften Burger beteiligen.
 
 <sup>2</sup> Sie dürfen nur in einer einzigen Burgergemeinde an Wahlen und Abstimmungen teilnehmen.
@@ -150,21 +147,21 @@ Stimmberechtigt in kommunalen Angelegenheiten sind die Stimmbürger, die am Wahl
 
 **Ausschluss von den politischen Rechten**
 
-<sup>1</sup> Von der Ausübung der politischen Rechte ist ausgeschlossen, wer wegen Geisteskrankheit oder Geistesschwäche (Art. 369 ZGB) entmündigt wurde.
+<sup>1</sup> Von der Ausübung der politischen Rechte sind Personen ausgeschlossen, die wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft stehen oder durch eine vorsorgebeauftragte Person vertreten werden.
 
-<sup>2</sup> Die Vormundschaftsbehörden benachrichtigen die Wohnsitzgemeinden über die in Anwendung des Artikels 369 ZGB verfügten Entmündigungen. Die Gemeinde informiert im Bedarfsfall den für die Führung des Stimmregisters der Burgergemeinde verantwortlichen Vorsteher.
+<sup>2</sup> Die Kindes- und Erwachsenenschutzbehörden (KESB) benachrichtigen die Wohnsitzgemeinden über die gemäss Absatz 1 verfügten Massnahmen. Die Gemeinde informiert im Bedarfsfall den für die Führung des Stimmregisters der Burgergemeinde verantwortlichen Vorsteher.
 
 #### Art. 15
 
 **Wählbarkeit**
 
-Unter Vorbehalt anders lautender Verfassungs- oder Gesetzesbestimmungen ist jeder schweizerische Stimmbürger in die öffentlichen Ämter wählbar.
+<sup>1</sup> Unter Vorbehalt anders lautender Verfassungs- oder Gesetzesbestimmungen ist jeder schweizerische Stimmbürger in die öffentlichen Ämter wählbar.
 
-### 2. Abschnitt: Stimmregister
+### 1.2.2 Stimmregister
 
 #### Art. 16
 
-<sup>1</sup> Grundsatz
+**Grundsatz**
 
 <sup>1</sup> In jeder Gemeinde und in jeder Burgerschaft haben die betreffenden Räte durch den Gemeindeschreiber oder einen vom Gemeinderat bezeichneten Vorsteher ein Stimmregister zu führen. Dieses Register ist öffentlich.
 
@@ -172,15 +169,14 @@ Unter Vorbehalt anders lautender Verfassungs- oder Gesetzesbestimmungen ist jede
 
 <sup>3</sup> Es wird in alphabetischer Reihenfolge erstellt und enthält folgende Angaben:
 
-- a) die Namen, Vornamen und den Heimatort jedes Stimmbürgers und dessen Geburtsdatum;
-
+- a) Namen, Vornamen, Adresse, Heimatort und Geburtsdatum jedes Stimmbürgers;
 - b) das Datum der Hinterlegung der Schriften im Sinn von Artikel 10.
 
 <sup>4</sup> Der Staatsrat kann die Schaffung eines kantonalen Stimmregisters beschliessen. Er erlässt auf dem Verordnungsweg die notwendigen Bestimmungen. Er kann insbesondere die Gemeinden verpflichten, bei der Erstellung dieses Registers zusammenzuarbeiten, die Änderungen einzutragen und diese dem Kanton mitzuteilen.
 
 #### Art. 17
 
-<sup>1</sup> Unterstützung durch elektronische Mittel
+**Unterstützung durch elektronische Mittel**
 
 <sup>1</sup> Sofern die Einhaltung der Bestimmungen des vorliegenden Gesetzes gewährleistet ist, dürfen die Gemeinden das Stimmregister mittels elektronischer Datenverarbeitung erstellen.
 
@@ -194,7 +190,7 @@ Unter Vorbehalt anders lautender Verfassungs- oder Gesetzesbestimmungen ist jede
 
 <sup>2</sup> Der Gemeinderat überwacht die Führung des Stimmregisters und kontrolliert es mindestens einmal pro Jahr. Vor jedem Urnengang vergewissert er sich, ob die Eintragungen und Streichungen vorgenommen worden sind.
 
-<sup>3</sup> Die örtlichen politischen Parteien können auf schriftliches Gesuch hin das Stimmregister in Kopie oder auf Datenträger erhalten. Der Gemeinderat kann die Vergütung der Kosten verlangen.
+<sup>3</sup> Die politischen Parteien können auf schriftliches Gesuch hin das Stimmregister in Kopie oder auf Datenträger erhalten. Der Gemeinderat kann die Vergütung der Kosten verlangen.
 
 #### Art. 19
 
@@ -202,7 +198,7 @@ Unter Vorbehalt anders lautender Verfassungs- oder Gesetzesbestimmungen ist jede
 
 <sup>1</sup> Die Einsprachen gegen das Stimmregister müssen begründet beim Gemeinderat erhoben werden.
 
-<sup>2</sup> Sie können jederzeit von jedem Stimmbürger der Gemeinde erhoben werden, gleich ob es einen Bürger betrifft, dessen Eintragung in das Register verweigert oder zugelassen wurde.
+<sup>2</sup> Sie können jederzeit von jedem Stimmbürger der Gemeinde erhoben werden, unabhängig davon, ob es eine Person betrifft, deren Eintragung in das Register verweigert oder zugelassen wurde.
 
 <sup>3</sup> Indessen kann der Stimmbürger in den 30 Tagen, die den periodischen eidgenössischen, kantonalen oder kommunalen Wahlen vorausgehen, gegen die Eintragung oder Streichung anderer Bürger keine Einsprache mehr einreichen. Das gleiche gilt für die einspracheberechtigten politischen Parteien.
 
@@ -228,13 +224,13 @@ Unter Vorbehalt anders lautender Verfassungs- oder Gesetzesbestimmungen ist jede
 
 **Schliessung des Stimmregisters**
 
-Das Stimmregister wird am Vorabend der tatsächlichen Eröffnung des Urnengangs um 17 Uhr unter Vorbehalt von Unterlassungen, Richtigstellungen von offenkundigen Irrtümern oder von hängigen Beschwerden an den Staatsrat als geschlossen erklärt; es werden nur jene Stimmbürger zur Urne zugelassen, die im Stimmregister eingetragen sind.
+<sup>1</sup> Das Stimmregister wird am Freitagabend vor dem Urnengang um 17 Uhr unter Vorbehalt von Unterlassungen, Richtigstellungen von offenkundigen Irrtümern oder von hängigen Beschwerden an den Staatsrat als geschlossen erklärt; es werden nur jene Stimmbürger zur Urne zugelassen, die im Stimmregister eingetragen sind.
 
 #### Art. 23
 
 **Unterlassung oder offenkundiger Irrtum**
 
-Im Falle einer Unterlassung oder eines offenkundigen Irrtums entscheidet das Wahlbüro. Der Entscheid wird im Protokoll angemerkt.
+<sup>1</sup> Im Falle einer Unterlassung oder eines offenkundigen Irrtums entscheidet das Wahlbüro. Der Entscheid wird im Protokoll angemerkt.
 
 #### Art. 24
 
@@ -244,11 +240,13 @@ Im Falle einer Unterlassung oder eines offenkundigen Irrtums entscheidet das Wah
 
 <sup>2</sup> Wird von dieser Möglichkeit Gebrauch gemacht, kann die Stimmabgabe in diesen Gemeinden in der Regel nur durch Vorweisung der Stimmkarte erfolgen.
 
-### 3. Abschnitt: Ausübung des Stimmrechts; Erleichterungen
+<sup>3</sup> Der Gemeinderat kann beschliessen, dass das Rücksendungsblatt als Stimmkarte dient.
+
+### 1.2.3 Ausübung des Stimmrechts - Erleichterungen
 
 #### Art. 25
 
-<sup>1</sup> Grundsatz
+**Grundsatz**
 
 <sup>1</sup> Der Stimmbürger stimmt ab, indem er sich persönlich an die Urnen seines politischen Wohnsitzes begibt oder indem er brieflich oder durch Hinterlegung auf der Gemeinde abstimmt.
 
@@ -258,15 +256,15 @@ Im Falle einer Unterlassung oder eines offenkundigen Irrtums entscheidet das Wah
 
 #### Art. 26
 
-<sup>1</sup> Arten der Stimmabgabe
+**Briefliche Stimmabgabe**
 
 <sup>1</sup> Statt seinen Stimmzettel persönlich in die Urne zu legen, kann der Stimmbürger ab Erhalt des Stimmmaterials stimmen, sei es brieflich oder durch Hinterlegung auf der Gemeinde.
 
-<sup>2</sup> Im Fall der brieflichen Stimmabgabe muss die Sendung über die Post an das Wahlbüro vor Schluss des Urnengangs gelangen. Die Versandkosten gehen zu Lasten des Stimmbürgers.
+<sup>2</sup> Im Fall der brieflichen Stimmabgabe muss die Sendung über die Post spätestens am Freitag vor der Wahl oder der Abstimmung bei der Gemeindeverwaltung eintreffen. Die Versandkosten gehen zulasten des Stimmbürgers.
 
 <sup>3</sup> Wer brieflich abstimmt, kann dies aus irgendeinem Ort in der Schweiz oder des Auslandes machen. Mit Ausnahme der Zustellung an die registrierten Auslandschweizer sind die Gemeinden nicht verpflichtet, das Stimmmaterial an den Aufenthaltsort im Ausland zuzustellen.
 
-<sup>4</sup> Die Gemeinden müssen die Hinterlegung des Übermittlungsumschlags direkt auf der Gemeindekanzlei bis zum Freitag, der dem Urnengang vorausgeht, um 17 Uhr ermöglichen und verfügen dazu über eine Urne, die zuvor in Anwesenheit von mindestens drei Mitgliedern des Auszählungsbüros, welche die politischen Parteien oder Gruppierungen angemessen repräsentieren, versiegelt wurde. Die Zeiten, während denen diese Hinterlegung erfolgen kann, sind den Bürgern mit der Anzeige der Einberufung zur Urversammlung bekannt zu geben.
+<sup>4</sup> Die Gemeinden müssen die Hinterlegung des Übermittlungsumschlags bis zum Freitag vor dem Urnengang direkt auf der Gemeindekanzlei ermöglichen und verfügen dazu über eine Urne, die zuvor in Anwesenheit von mindestens drei Mitgliedern des Auszählungsbüros, welche die politischen Parteien oder Gruppierungen angemessen repräsentieren, versiegelt wurde. Die Zeiten, während derer diese Hinterlegung erfolgen kann, sind den Bürgern mit der Anzeige der Einberufung zur Urversammlung bekannt zu geben.
 
 <sup>5</sup> Der Staatsrat erlässt auf dem Verordnungsweg die Bestimmungen über die Anwendungsmodalitäten der brieflichen Stimmabgabe und der Stimmabgabe durch Hinterlegung auf der Gemeinde.
 
@@ -274,7 +272,7 @@ Im Falle einer Unterlassung oder eines offenkundigen Irrtums entscheidet das Wah
 
 **Stimmabgabe Betagter, Kranker oder Behinderter**
 
-Stimmbürger, die durch Gebrechlichkeiten verhindert sind, die zur Ausübung ihres Stimmrechts erforderlichen Handlungen selbst vorzunehmen, können sich an ihrem Wohnort, Aufenthaltsort oder im Stimmlokal durch eine Person ihrer Wahl verbeiständen lassen. Diese muss das Stimmgeheimnis wahren.
+<sup>1</sup> Stimmbürger, die durch Gebrechlichkeiten verhindert sind, die zur Ausübung ihres Stimmrechts erforderlichen Handlungen selbst vorzunehmen, können sich an ihrem Wohnort, Aufenthaltsort oder im Stimmlokal durch eine Person ihrer Wahl verbeiständen lassen. Diese muss das Stimmgeheimnis wahren.
 
 #### Art. 28
 
@@ -288,11 +286,11 @@ Stimmbürger, die durch Gebrechlichkeiten verhindert sind, die zur Ausübung ihr
 
 **Stimmabgabe mittels Vollmacht**
 
-Die Stimmabgabe mittels Vollmacht ist untersagt.
+<sup>1</sup> Die Stimmabgabe mittels Vollmacht ist untersagt.
 
-### 2. Titel: Urnengang
+## 2 Urnengang
 
-### 1. Kapitel: Organisation des Urnengangs
+### 2.1 Organisation des Urnengangs
 
 #### Art. 30
 
@@ -318,9 +316,9 @@ Die Stimmabgabe mittels Vollmacht ist untersagt.
 
 **Vorzeitige Öffnung der Stimmbüros**
 
-<sup>1</sup> Der Gemeinderat hat die Stimmbüros zwingend auch am Samstag vor dem Abstimmungssonntag zu öffnen.
+<sup>1</sup> Der Gemeinderat kann die Stimmbüros am Samstag vor dem Abstimmungssonntag öffnen.
 
-<sup>2</sup> In den Gemeinden, in denen sektionsweise gestimmt wird, kann die vorzeitige Öffnung vom Samstag auf das Hauptbüro beschränkt werden.
+<sup>2</sup> …
 
 <sup>3</sup> Vorbehalten bleiben die Spezialbestimmungen betreffend die eidgenössischen Abstimmungen und Wahlen.
 
@@ -328,25 +326,25 @@ Die Stimmabgabe mittels Vollmacht ist untersagt.
 
 **Dauer des Urnengangs**
 
-<sup>1</sup> An den Tagen des Urnengangs (Samstag und Sonntag) sind die Abstimmungsbüros während mindestens einer Stunde geöffnet.
+<sup>1</sup> Am Abstimmungssonntag sind die Stimmbüros während mindestens einer Stunde geöffnet.
 
-<sup>2</sup> In Gemeinden mit mehr als 4'000 Stimmbürgern hat die gesamte Öffnungszeit des Hauptbüros mindestens drei Stunden zu betragen.
+<sup>2</sup> In Gemeinden mit mehr als 4'000 Stimmbürgern hat die gesamte Öffnungszeit des Hauptbüros mindestens zwei Stunden zu betragen.
 
 #### Art. 34
 
 **Schluss des Urnengangs**
 
-Am Sonntag wird der Urnengang spätestens um zwölf Uhr geschlossen. In den Gemeinden, in denen sektionsweise abgestimmt wird, kann der Gemeinderat beschliessen, dass die Sektionsbüros früher als das Hauptbüro schliessen.
+<sup>1</sup> Am Sonntag wird der Urnengang spätestens um 12 Uhr geschlossen. In den Gemeinden, in denen sektionsweise abgestimmt wird, kann der Gemeinderat beschliessen, dass die Sektionsbüros früher als das Hauptbüro schliessen.
 
-### 2. Kapitel: Vorbereitung des Urnengangs
+### 2.2 Vorbereitung des Urnengangs
 
-### 1. Abschnitt: Wahlbüros
+### 2.2.1 Wahlbüros
 
 #### Art. 35
 
 **Wahlbüro**
 
-Für jede Wahl und Abstimmung bilden die Gemeinden so viele Wahlbüros wie es organisierte Urnengänge gibt. Der Gemeinderat setzt die Anzahl Mitglieder der Büros nach den Bedürfnissen fest, wobei jedes Büro sich aus mindestens drei Mitgliedern zusammensetzt.
+<sup>1</sup> Für jede Wahl und Abstimmung bilden die Gemeinden so viele Wahlbüros wie es organisierte Urnengänge gibt. Der Gemeinderat setzt die Anzahl Mitglieder der Büros nach den Bedürfnissen fest, wobei jedes Büro sich aus mindestens drei Mitgliedern zusammensetzt.
 
 #### Art. 36
 
@@ -360,7 +358,7 @@ Für jede Wahl und Abstimmung bilden die Gemeinden so viele Wahlbüros wie es or
 
 **Ernennung**
 
-<sup>1</sup> Der Gemeinderat ernennt den Präsidenten, den Sekretär und die Mitglieder der verschiedenen Büros. Die Ernennung erfolgt zu Beginn der Verwaltungsperiode, nach Bedarf vor jedem Urnengang.
+<sup>1</sup> Der Gemeinderat ernennt den Präsidenten, den Sekretär und die Mitglieder der verschiedenen Büros, die im Stimmregister der Gemeinde eingetragen sein müssen. Die Ernennung erfolgt zu Beginn der Verwaltungsperiode, nach Bedarf vor jedem Urnengang.
 
 <sup>2</sup> In seiner Auswahl berücksichtigt er in angemessener Weise in der Gemeinde vertretene politische Parteien oder Gruppierungen. Diese können Kandidaturen vorschlagen, die unter Vorbehalt wichtiger Gründe vom Gemeinderat angenommen werden.
 
@@ -370,25 +368,25 @@ Für jede Wahl und Abstimmung bilden die Gemeinden so viele Wahlbüros wie es or
 
 **Amtspflicht**
 
-Niemand darf sich weigern, als Mitglied eines Wahlbüros zu amten, ausser bei Vorliegen eines wichtigen Grundes (Krankheit, lang andauernde Abwesenheit, usw.). Die Verweigerung, das Nichterscheinen oder eine ungerechtfertigte Verspätung wird mit einer vom Gemeinderat auszusprechenden Busse bis höchstens 500 Franken bestraft.
+<sup>1</sup> Niemand darf sich weigern, als Mitglied eines Wahlbüros zu amten, ausser bei Vorliegen eines wichtigen Grundes (Krankheit, lang andauernde Abwesenheit, usw.). Die Verweigerung, das Nichterscheinen oder eine ungerechtfertigte Verspätung wird mit einer vom Gemeinderat auszusprechenden Busse bis höchstens 500 Franken bestraft.
 
 #### Art. 39
 
 **Entschädigung**
 
-Der Gemeinderat kann eine Entschädigung für die Mitglieder der Büros beschliessen und deren Höhe festsetzen.
+<sup>1</sup> Der Gemeinderat kann eine Entschädigung für die Mitglieder der Büros beschliessen und deren Höhe festsetzen.
 
 #### Art. 40
 
 **Befugnis**
 
-Die Wahlbüros üben die Polizeibefugnisse in den ihnen übertragenen Aufgaben aus.
+<sup>1</sup> Die Wahlbüros üben die Polizeibefugnisse in den ihnen übertragenen Aufgaben aus.
 
 #### Art. 41
 
 **Entscheid**
 
-Jedes Büro fällt seine Entscheide sofort mit der Mehrheit der anwesenden Mitglieder. Der Präsident stimmt mit und fällt bei Stimmengleichheit den Stichentscheid.
+<sup>1</sup> Jedes Büro fällt seine Entscheide sofort mit der Mehrheit der anwesenden Mitglieder. Der Präsident stimmt mit und fällt bei Stimmengleichheit den Stichentscheid.
 
 #### Art. 42
 
@@ -398,7 +396,7 @@ Jedes Büro fällt seine Entscheide sofort mit der Mehrheit der anwesenden Mitgl
 
 <sup>2</sup> Das Protokoll wird vom Präsidenten und Sekretär unterzeichnet.
 
-### 2. Abschnitt: Wahlgebäude
+### 2.2.2 Wahlgebäude
 
 #### Art. 43
 
@@ -418,11 +416,11 @@ Jedes Büro fällt seine Entscheide sofort mit der Mehrheit der anwesenden Mitgl
 
 <sup>2</sup> Die Gemeindebehörde sorgt dafür, dass die Wahlzettel und die amtlichen Stimmzettel sowie die Weisungen auf dem Gebiete der Wahlen und Abstimmungen in den Lokalen zur Verfügung des Wahlbüros stehen; dasselbe gilt für die Formulare der Wahlprotokolle und das notwendige Schreib-, Versiegelungs- und Verpackungsmaterial.
 
-### 3. Abschnitt: Urnen
+### 2.2.3 Urnen
 
 #### Art. 45
 
-<sup>1</sup> Urnen
+**Urnen**
 
 <sup>1</sup> In jedem Wahlbüro und gegebenenfalls in jeder Sektion werden geeignete Urnen zur Verfügung gestellt.
 
@@ -436,11 +434,11 @@ Jedes Büro fällt seine Entscheide sofort mit der Mehrheit der anwesenden Mitgl
 
 **Aufsicht**
 
-Die Urnen müssen ständig beaufsichtigt werden.
+<sup>1</sup> Die Urnen müssen ständig beaufsichtigt werden.
 
-### 3. Kapitel: Information der Stimmbürger vor einem Urnengang
+### 2.3 Information der Stimmbürger vor einem Urnengang
 
-### 1. Abschnitt: Kantonale Abstimmungen
+### 2.3.1 Kantonale Abstimmungen
 
 #### Art. 47
 
@@ -454,31 +452,33 @@ Die Urnen müssen ständig beaufsichtigt werden.
 
 **Stimmzettel und Erläuterungen**
 
-<sup>1</sup> Für alle kantonalen Abstimmungen lässt der Staatsrat amtliche Stimmzettel erstellen sowie eine kurze Erläuterung, die objektiv zu sein hat, und ebenfalls die Argumente der im Grossen Rat vertretenen bedeutenden Minderheiten enthalten muss, sowie im Fall von Referenden die Argumente des oder der Referendumskomitees.
+<sup>1</sup> Für alle kantonalen Abstimmungen lässt der Staatsrat amtliche Stimmzettel erstellen sowie eine kurze Erläuterung, die den Text, über den abgestimmt werden soll, sowie den genauen Wortlaut der auf dem Stimmzettel gestellten Frage enthält.
 
-<sup>2</sup> Bei Volksinitiativen lässt der Staatsrat nötigenfalls die Empfehlungen des Grossen Rates drucken. Diese berücksichtigen ebenfalls die Argumente der Initianten.
+<sup>2</sup> Die Erläuterung hat objektiv zu sein und muss auch die Argumente der im Grossen Rat vertretenen bedeutenden Minderheiten darlegen. Bei Volksinitiativen lässt der Staatsrat nötigenfalls die Empfehlungen oder die Vormeinung des Grossen Rates abdrucken.
+
+<sup>3</sup> Bei Volksinitiativen oder Referenden übermittelt das Komitee dem betreffenden Departement innert der von diesem gesetzten Frist einen kurzen Text mit seinen Argumenten. Der Staatsrat übernimmt diesen in seiner Erläuterung. Er kann nach Anhörung des Komitees ehrverletzende, offensichtlich wahrheitswidrige, das Thema verfehlende oder zu lange Äusserungen ändern oder zurückweisen.
 
 #### Art. 49
 
 **Berichtigung von Tatsachenwidrigkeiten**
 
-Der Staatsrat kann ausnahmsweise und unter Beachtung des Grundsatzes der Verhältnismässigkeit die während einer Abstimmungskampagne vorgebrachten Tatsachenwidrigkeiten berichtigen.
+<sup>1</sup> Der Staatsrat kann ausnahmsweise und unter Beachtung des Grundsatzes der Verhältnismässigkeit die während einer Abstimmungskampagne vorgebrachten Tatsachenwidrigkeiten berichtigen.
 
-### 2. Abschnitt: Kommunale Abstimmungen
+### 2.3.2 Kommunale Abstimmungen
 
 #### Art. 50
 
 **Kommunale Bestimmungen**
 
-Die Gemeinden können mittels eines Organisationsreglements die Fragen der Information der Stimmbürger bei kommunalen Abstimmungen regeln. Andernfalls kann der Gemeinderat die Artikel 48 und 49 des vorliegenden Gesetzes analog anwenden.
+<sup>1</sup> Die Artikel 48 und 49 des vorliegenden Gesetzes sind für kommunale Abstimmungen, die nach dem vorliegenden Gesetz durchgeführt werden, analog anzuwenden.
 
-### 3. Abschnitt: Kantonale Wahlen
+### 2.3.3 Kantonale Wahlen
 
 #### Art. 51
 
 **Erläuterungen**
 
-Vor jeder kantonalen Wahl erstellt der Staatsrat eine kurze Erläuterung.
+<sup>1</sup> Vor jeder kantonalen Wahl erstellt der Staatsrat eine kurze Erläuterung.
 
 #### Art. 52
 
@@ -487,12 +487,19 @@ Vor jeder kantonalen Wahl erstellt der Staatsrat eine kurze Erläuterung.
 <sup>1</sup> Für die kantonalen Wahlen erstellt der Kanton auf seine Kosten die Wahlzettel jeder gültig hinterlegten Liste sowie einen leeren amtlichen Wahlzettel. Die kandidierenden Personen und die Listenunterzeichner müssen jedoch diese Kosten unter Solidarhaft rückvergüten:
 
 - a) beim Majorzsystem, wenn die Stimmen der Person mit der grössten Stimmenzahl auf der Liste nicht fünf Prozent der Gesamtzahl der Stimmenden erreichen;
-
 - b) beim Proporzsystem, wenn die von der Liste erhaltenen Stimmen nicht fünf Prozent der Gesamtzahl der abgegebenen Stimmen erreichen.
 
 <sup>2</sup> Die Listenvertreter können zum Selbstkostenpreis bei der Staatskanzlei zusätzliche gedruckte Wahlzettel beziehen. Die politischen Parteien und Gruppierungen dürfen selbst keine solchen drucken.
 
-### 4. Abschnitt: Kommunale Wahlen
+<sup>3</sup> Die vorliegende Bestimmung gilt nicht für die Ständeratswahl.
+
+### 2.3.4 Kommunale Wahlen
+
+#### Art. 52a
+
+**Erläuterung**
+
+<sup>1</sup> Vor jeder Gesamterneuerungswahl der Gemeindebehörden erstellt der Gemeinderat eine kurze Erläuterung.
 
 #### Art. 53
 
@@ -504,9 +511,9 @@ Vor jeder kantonalen Wahl erstellt der Staatsrat eine kurze Erläuterung.
 
 <sup>3</sup> Die politischen Parteien oder Gruppierungen dürfen keine Wahlzettel drucken.
 
-### 4. Kapitel: Stimmmaterial
+### 2.4 Stimmmaterial
 
-### 1. Abschnitt: Kantonale Wahlen und Abstimmungen
+### 2.4.1 Kantonale Wahlen und Abstimmungen
 
 #### Art. 54
 
@@ -518,57 +525,52 @@ Vor jeder kantonalen Wahl erstellt der Staatsrat eine kurze Erläuterung.
 
 #### Art. 55
 
-<sup>1</sup> Versand an die Stimmbürger
+**Versand an die Stimmbürger**
 
 <sup>1</sup> Vor jeder Wahl oder Abstimmung adressieren die Gemeinden persönlich an jeden Stimmbürger:
 
-- a) einen Stimmzettel oder, im Fall von Wahlen, ein Exemplar jedes gedruckten Wahlzettels sowie einen leeren amtlichen Wahlzettel;
-
+- a) einen Stimmzettel oder im Fall von Wahlen ein Exemplar jedes gedruckten Wahlzettels und einen leeren amtlichen Wahlzettel, oder den einzigen amtlichen Wahlzettel;
 - b) die Erläuterung bei einer Wahl;
-
 - c) die Abstimmungstexte sowie die erläuternde Botschaft des Staatsrats oder die Empfehlungen des Grossen Rates bei einer Abstimmung;
-
 - d) einen Übermittlungsumschlag;
-
 - e) so viele Stimmkuverts wie es organisierte Urnengänge gibt;
-
 - f) gegebenenfalls die Stimmkarte.
 
-<sup>2</sup> Der Stimmbürger, der das Stimmmaterial nicht erhalten hat, kann es auf der Gemeindekanzlei verlangen.
+<sup>2</sup> Der Stimmbürger, der das Stimmmaterial nicht erhalten hat, kann auf der Gemeindekanzlei ein Doppel verlangen. Die Verordnung regelt die Modalitäten.
 
 #### Art. 56
 
-<sup>1</sup> Frist
+**Frist**
 
-<sup>1</sup> Die Gemeinden sorgen dafür, dass alle Stimmbürger spätestens 15 Tage vor der Wahl oder Abstimmung alle Dokumente erhalten. Diese Frist wird für die zweiten Wahlgänge auf fünf Tage herabgesetzt.
+<sup>1</sup> Die Gemeinden sorgen dafür, dass alle Stimmbürger spätestens 15 Tage vor der Wahl oder Abstimmung alle Dokumente erhalten. Diese Frist wird für die zweiten Wahlgänge auf 8 Tage herabgesetzt.
 
-<sup>2</sup> Finden am gleichen Tag eine eidgenössische und eine kantonale Abstimmung statt, erfolgt die Zustellung des Abstimmungsmaterials an die Stimmbürger gleichzeitig gemäss den bundesrechtlichen Fristen.
+<sup>2</sup> Finden am gleichen Tag ein eidgenössischer und ein kantonaler Urnengang statt, erfolgt die Zustellung des Stimmmaterials an die Stimmbürger gleichzeitig gemäss den bundesrechtlichen Fristen.
 
 #### Art. 57
 
 **Sprache**
 
-Jeder Stimmbürger darf verlangen, dass er das Stimmmaterial in einer der beiden offiziellen Landessprachen des Kantons zugestellt erhält.
+<sup>1</sup> Jeder Stimmbürger darf verlangen, dass er das Stimmmaterial in einer der beiden offiziellen Landessprachen des Kantons zugestellt erhält.
 
 #### Art. 58
 
 **Kostenaufteilung**
 
-Die Kosten für die Erstellung und den Druck der Übermittlungsumschläge, der Stimmzettel, der Erläuterungen, der Botschaften sowie deren Verteilung an die Gemeinden gehen zu Lasten des Kantons. Die Kosten der Zustellung an die Stimmbürger gehen zu Lasten der Gemeinden.
+<sup>1</sup> Die Kosten für die Erstellung und den Druck der Übermittlungsumschläge, der Stimmzettel, der Erläuterungen, der Botschaften sowie deren Verteilung an die Gemeinden gehen zu Lasten des Kantons. Die Kosten der Zustellung an die Stimmbürger gehen zu Lasten der Gemeinden.
 
-### 2. Abschnitt: Kommunale Wahlen und Abstimmungen
+### 2.4.2 Kommunale Wahlen und Abstimmungen
 
 #### Art. 59
 
-<sup>1</sup> Kommunale Wahlen und Abstimmungen
+**Kommunale Wahlen und Abstimmungen**
 
 <sup>1</sup> Artikel 55 des vorliegenden Gesetzes gilt für die kommunalen Wahlen und Abstimmungen, die im geheimen Wahlgang gemäss den Artikeln 30 und folgende des vorliegenden Gesetzes stattfinden. Er ist nicht anwendbar auf organisierte Stimmabgaben während dem Ablauf einer Urversammlung oder die dieser unmittelbar nachfolgen.
 
-<sup>2</sup> Die Stimmbürger erhalten die Wahlzettel spätestens 15 Tage vor den Wahlen. Für die Wahlen im zweiten Wahlgang und die Ergänzungswahlen wird diese Frist jedoch auf fünf Tage herabgesetzt.
+<sup>2</sup> Die Stimmbürger erhalten die Wahlzettel spätestens 15 Tage vor dem Urnengang. Artikel 56 Absatz 2 des vorliegenden Gesetzes ist analog anwendbar. Für Wahlen im zweiten Wahlgang und Ergänzungswahlen wird diese Frist jedoch auf fünf Tage herabgesetzt.
 
-### 5. Kapitel: Ablauf des Urnengangs
+### 2.5 Ablauf des Urnengangs
 
-### 1. Abschnitt: Sicherheitsmassnahmen
+### 2.5.1 Sicherheitsmassnahmen
 
 #### Art. 60
 
@@ -590,9 +592,9 @@ Die Kosten für die Erstellung und den Druck der Übermittlungsumschläge, der S
 
 **Kontrolle der Stimmkabinen**
 
-Das Büro vergewissert sich regelmässig, dass sich sämtliche Stimm- und Wahlzettel in ausreichender Anzahl in den Stimmkabinen befinden.
+<sup>1</sup> Das Büro vergewissert sich regelmässig, dass sich sämtliche Stimm- und Wahlzettel in ausreichender Anzahl in den Stimmkabinen befinden.
 
-### 2. Abschnitt: Verfahren der Stimmabgabe
+### 2.5.2 Verfahren der Stimmabgabe
 
 #### Art. 63
 
@@ -605,9 +607,7 @@ Das Büro vergewissert sich regelmässig, dass sich sämtliche Stimm- und Wahlze
 <sup>3</sup> Je nach Art der Stimmabgabe schreibt das Büro:
 
 - a) den Namen jedes Stimmenden in ein Verzeichnis;
-
 - b) sammelt die nicht permanenten Stimmkarten ein;
-
 - c) kontrolliert die Nummer der permanenten Stimmkarte und hält diese schriftlich fest.
 
 <sup>4</sup> Der Staatsrat ist befugt, andere Stimmkontrollen (Magnetkarte usw.) zu gestatten.
@@ -616,7 +616,7 @@ Das Büro vergewissert sich regelmässig, dass sich sämtliche Stimm- und Wahlze
 
 **Fehlende Stimmkarte**
 
-Die im Stimmregister eingetragene Person, die nicht in der Lage ist, ihre Stimmkarte vorzuweisen, kann ihre Identität nachweisen und wird dennoch zur Stimmabgabe zugelassen. Das Büro vergewissert sich, dass die gleiche Person nicht zweimal stimmen kann.
+<sup>1</sup> Die im Stimmregister eingetragene Person, die nicht in der Lage ist, ihre Stimmkarte vorzuweisen, kann ihre Identität nachweisen und wird dennoch zur Stimmabgabe zugelassen. Das Büro vergewissert sich, dass die gleiche Person nicht zweimal stimmen kann.
 
 #### Art. 65
 
@@ -636,9 +636,9 @@ Die im Stimmregister eingetragene Person, die nicht in der Lage ist, ihre Stimmk
 
 <sup>2</sup> Vorbehalten bleiben die Spezialbestimmungen über die elektronische Stimmabgabe.
 
-### 6. Kapitel: Auszählung des Urnengangs
+### 2.6 Auszählung des Urnengangs
 
-### 1. Abschnitt: Auszählbüros
+### 2.6.1 Auszählbüros
 
 #### Art. 67
 
@@ -662,47 +662,49 @@ Die im Stimmregister eingetragene Person, die nicht in der Lage ist, ihre Stimmk
 
 **Auszählung nach Sektionen**
 
-Für die Abstimmungen kann die Auszählung des Urnengangs durch das Sektionsbüro erfolgen. Für die Wahlen kann der Staatsrat ausnahmsweise die Auszählung durch das Sektionsbüro bewilligen.
+<sup>1</sup> Für die Abstimmungen kann die Auszählung des Urnengangs durch das Sektionsbüro erfolgen. Für die Wahlen kann der Staatsrat ausnahmsweise die Auszählung durch das Sektionsbüro bewilligen.
 
 #### Art. 70
 
 **Ernennung**
 
-<sup>1</sup> Der Gemeinderat ernennt den Präsidenten, den Sekretär und die Mitglieder der Auszählbüros. Die Ernennung erfolgt zu Beginn der Verwaltungsperiode, nach Bedarf vor jedem Urnengang.
+<sup>1</sup> Der Gemeinderat ernennt den Präsidenten, den Sekretär und die Mitglieder der Auszählbüros, die im Stimmregister der Gemeinde eingetragen sein müssen. Die Ernennung erfolgt zu Beginn der Verwaltungsperiode, nach Bedarf vor jedem Urnengang.
 
 <sup>2</sup> In seiner Auswahl berücksichtigt er in angemessener Weise in der Gemeinde vertretene politische Parteien oder Gruppierungen. Diese können Vorschläge machen.
 
 <sup>3</sup> Der Rat ersetzt ein verhindertes Mitglied, indem er nach Möglichkeit eine Person ernennt, die der gleichen politischen Partei oder Gruppierung angehört.
 
-<sup>4</sup> Jede politische Partei oder Gruppierung kann einen Vertreter bezeichnen, um den Auszählungshandlungen beizuwohnen. Das Gesuch muss mindestens drei Tage vor Urnenöffnung erfolgen.
+<sup>4</sup> Jede politische Partei oder Gruppierung kann einen Beobachter bezeichnen, um den Auszählungshandlungen beizuwohnen. Das Gesuch muss spätestens bis am Mittwoch vor dem Urnengang gestellt werden.
 
 #### Art. 71
 
 **Amtspflicht, Entschädigung**
 
-Die Artikel 38 und 39 des vorliegenden Gesetzes sind anwendbar.
+<sup>1</sup> Die Artikel 38 und 39 des vorliegenden Gesetzes sind anwendbar.
 
-### 2. Abschnitt: Auszählungshandlungen
+### 2.6.2 Auszählungshandlungen
 
 #### Art. 72
 
-**Zusammenkunft des Büros**
+**Auszählung**
 
-<sup>1</sup> Das Auszählbüro versammelt sich am Tag des Urnengangs unmittelbar nach dessen Schluss im zu diesem Zweck vorgesehenen Lokal. Die Auszählungshandlungen sind nicht öffentlich. Zutritt haben einzig die vom Büro bezeichneten Mitglieder sowie die angemeldeten Parteivertreter.
+<sup>1</sup> Das Auszählbüro versammelt sich am Tag des Urnengangs unmittelbar nach dessen Schluss im zu diesem Zweck vorgesehenen Lokal. Die Auszählungshandlungen sind nicht öffentlich. Zutritt haben einzig die vom Büro bezeichneten Mitglieder sowie die zugelassenen Beobachter.
+
+<sup>1<sup>bis</sup></sup> Bei Abstimmungen dürfen die brieflich versandten und hinterlegten Stimmen am Sonntagmorgen vor Urnenschluss ausgezählt werden. Es müssen alle Massnahmen ergriffen werden, um die Ergebnisse geheim zu halten und jegliche Einflussnahme auf den Urnengang zu verhindern.
 
 <sup>2</sup> Stimmt eine Gemeinde sektionsweise ab und ist die Auszählung zentralisiert, so werden die Urnen unter der Verantwortung des Präsidenten des Sektionsbüros, begleitet von einem Mitglied dieses Büros, in das Auszähllokal transportiert, wo sie entsiegelt werden. Der Inhalt der Urnen aller Wahlbüros wird vermischt bevor die Auszählung begonnen werden kann.
 
-<sup>3</sup> Der Gemeinderat kann die Mitglieder des Auszählbüros vor dem Tage des Urnengangs zu einer Instruktionssitzung einberufen.
+<sup>3</sup> Der Gemeinderat beruft die Mitglieder des Auszählbüros zu Beginn der Verwaltungsperiode und wenn nötig vor jedem Urnengang zu einer Instruktionssitzung ein.
 
 #### Art. 73
 
-<sup>1</sup> Teilauszählung
+**Teilauszählung**
 
-<sup>1</sup> Für alle eidgenössischen, kantonalen und kommunalen Wahlen und Abstimmungen nimmt das Auszählbüro vor der Öffnung der Wahlbüros eine Teilauszählung vor.
+<sup>1</sup> Für alle eidgenössischen, kantonalen und kommunalen Wahlen und Abstimmungen nimmt das Auszählbüro vor der Öffnung der Stimmbüros eine Teilauszählung vor. Mit der Teilauszählung kann ab dem Donnerstag vor dem Urnengang begonnen werden.
 
 <sup>2</sup> Die Verordnung bestimmt die Modalitäten der Teilauszählung, insbesondere die getrennte Zählung der brieflichen Stimmabgaben und der Stimmabgaben durch Hinterlegung auf der Gemeinde.
 
-<sup>3</sup> Die Stimmkuverts dürfen indes nicht vor der tatsächlichen Schliessung des Urnengangs geöffnet werden.
+<sup>3</sup> Die Stimmkuverts dürfen indes nicht geöffnet werden.
 
 #### Art. 74
 
@@ -718,24 +720,20 @@ Die Artikel 38 und 39 des vorliegenden Gesetzes sind anwendbar.
 
 **Reihenfolge im Ablauf der Auszählung**
 
-Soweit es nur ein Auszählbüro gibt, schreitet dieses zuerst zur Auszählung der eidgenössischen Wahlen und Abstimmungen, dann zu den kantonalen und schliesslich zu den kommunalen Wahlen und Abstimmungen.
+<sup>1</sup> Soweit es nur ein Auszählbüro gibt, schreitet dieses zuerst zur Auszählung der eidgenössischen Wahlen und Abstimmungen, dann zu den kantonalen und schliesslich zu den kommunalen Wahlen und Abstimmungen.
 
-### 3. Abschnitt: Ermittlung und Feststellung der Resultate
+### 2.6.3 Ermittlung und Feststellung der Resultate
 
 #### Art. 76
 
 **Bestimmung des Resultats**
 
-Die Resultate der Wahlen und Abstimmungen werden vom Auszählbüro bestimmt. Nach der Öffnung der Urnen schreitet dieses:
+<sup>1</sup> Die Resultate der Wahlen und Abstimmungen werden vom Auszählbüro bestimmt. Nach der Öffnung der Urnen schreitet dieses:
 
 - a) zur Auszählung der sich in der Urne befindenden Stimmkuverts, deren Zahl mit der Zahl der Stimmenden übereinstimmen muss;
-
 - b) zur Ausscheidung der Stimmzettel, die sich nicht in einem Stimmkuvert befinden;
-
 - c) zur Öffnung der Stimmkuverts, zur Feststellung der Anzahl Stimmzettel, zu deren Nummerierung bei Wahlen, wobei die sich doppelt in einem Stimmkuvert befindenden Stimmzettel sofort aneinander zu heften sind;
-
 - d) zur Bestimmung der leeren, ungültigen und gültigen Stimmzettel;
-
 - e) zur Bestimmung der Anzahl ja und nein bei Abstimmungen, der Anzahl Kandidatenstimmen jeder kandidierenden Person, gegebenenfalls der Anzahl der von jeder hinterlegten Listen erzielten Stimmen sowie der Anzahl der leeren Stimmen.
 
 #### Art. 77
@@ -745,42 +743,30 @@ Die Resultate der Wahlen und Abstimmungen werden vom Auszählbüro bestimmt. Nac
 <sup>1</sup> Die Stimmzettel sind ungültig:
 
 - a) wenn sie sich nicht in den amtlichen Stimmkuverts befinden;
-
 - b) wenn sie ehrverletzende Ausdrücke enthalten oder gekennzeichnet sind;
-
 - c) wenn sie anders als handschriftlich ausgefüllt oder verändert sind;
-
 - d) wenn sie handschriftlich, aber nicht auf dem amtlichen Stimmzettel ausgefüllt sind;
-
 - e) wenn das gleiche Stimmkuvert mehrere Stimmzettel beinhaltet, die nicht identisch sind und die gleiche Wahl oder Abstimmung betreffen; sind die Stimmzettel identisch, so wird nur einer von ihnen als gültig erklärt; beinhaltet das Stimmkuvert einen gültigen und einen leeren amtlichen Stimmzettel, so wird letzterer nicht in Betracht gezogen;
-
 - f) wenn sie gedruckt sind und nicht mit einer offiziellen hinterlegten Liste übereinstimmen;
-
-- g) wenn mit Listenbezeichnung oder Listennummer alle offiziell vorgeschlagenen kandidierenden Personen gestrichen sind;
-
+- g) wenn sie mit Listenbezeichnung oder Listennummer keinen Namen eines im Wahlkreis vorgeschlagenen Kandidaten tragen;
 - h) wenn sie nicht erlauben, den Willen des Stimmbürgers klar festzustellen;
-
-- i) wenn sie bei der Wahl eines einzigen Mitglieds einer Behörde mehr als einen Namen enthalten;
-
-- j) wenn sie bei der Majorzwahl mehr gedruckte Namen enthalten als es Mitglieder zu wählen gibt;
-
+- i) wenn sie bei der Wahl eines einzigen Mitglieds einer Behörde mehr als einen Namen enthalten; vorbehalten bleibt die Ständeratswahl (einziger amtlicher Wahlzettel);
+- j) …
 - k) wenn sie nicht für die betreffende Wahl oder Abstimmung bestimmt sind;
-
 - l) wenn sie keinen lesbaren Namen enthalten;
-
 - m) wenn alle Stimmen ungültig sind;
-
-- n) wenn sie sich in nicht den Vorschriften entsprechenden Übermittlungsumschlägen befinden.
+- n) wenn sie sich in nicht den Vorschriften entsprechenden Übermittlungsumschlägen befinden;
+- o) wenn bei der Ständeratswahl auf dem einzigen amtlichen Wahlzettel mehr Kästchen angekreuzt sind, als Personen zu wählen sind.
 
 <sup>2</sup> Die Stimmkuverts, welche keinen Stimmzettel enthalten, werden einem ungültigen Stimmzettel gleichgestellt.
 
-<sup>3</sup> Vorbehalten bleiben die für die elektronische Stimmabgabe eigenen Ungültigkeitsgründe.
+<sup>3</sup> Vorbehalten bleiben die für die briefliche und elektronische Stimmabgabe eigenen Ungültigkeitsgründe.
 
 #### Art. 78
 
 **Leere Stimmzettel**
 
-Leer sind jene Stimmzettel, die keinen Namen einer kandidierenden Person oder keine Antwort auf die gestellte Frage enthalten. Enthält ein Stimmzettel mehr als eine Frage, so werden die unbeantworteten Fragen als leere Stimmen erklärt.
+<sup>1</sup> Leer sind jene Stimmzettel, die keinen Namen einer kandidierenden Person oder kein Kreuz (einziger amtlicher Wahlzettel) oder keine Antwort auf die gestellte Frage enthalten. Enthält ein Stimmzettel mehr als eine Frage, so werden die unbeantworteten Fragen als leere Stimmen erklärt.
 
 #### Art. 79
 
@@ -796,7 +782,7 @@ Leer sind jene Stimmzettel, die keinen Namen einer kandidierenden Person oder ke
 
 <sup>1</sup> Das Auszählbüro übernimmt die Kontrolle und Verantwortung der Hilfsbüros und trifft alle notwendigen Anordnungen für die Sicherstellung der Regelmässigkeit der Auszählung, wobei es nach Bedarf stichprobenweise Prüfungen durchführt. Nur das Hauptbüro beurteilt die Gültigkeit der Stimmzettel und entscheidet zweifelhafte oder strittige Fälle.
 
-<sup>2</sup> Nach Beendigung der Auszählung unterschreiben die Mitglieder der Hilfsbüros die Zählbogen und übermitteln diese zusammen mit den Stimmzetteln an das Hauptbüro, welches ebenfalls die Zählbogen unterschreibt, erstellt das summarische Wahlprotokoll und schreitet zu dessen Zusammenfassung.
+<sup>2</sup> Nach Beendigung der Auszählung unterschreiben die Mitglieder der Hilfsbüros die Zählbogen und übermitteln diese zusammen mit den Stimmzetteln an das Hauptbüro, welches die Zählbogen ebenfalls unterschreibt, das summarische Wahlprotokoll erstellt und zu dessen Zusammenfassung schreitet.
 
 #### Art. 81
 
@@ -810,13 +796,13 @@ Leer sind jene Stimmzettel, die keinen Namen einer kandidierenden Person oder ke
 
 **Weisungen**
 
-Die Auszählungshandlungen der periodischen eidgenössischen, kantonalen und kommunalen Wahlen bilden Gegenstand von speziellen Weisungen, die vom zuständigen Departement erlassen werden.
+<sup>1</sup> Die Auszählungshandlungen der periodischen eidgenössischen, kantonalen und kommunalen Wahlen bilden Gegenstand von speziellen Weisungen, die vom zuständigen Departement erlassen werden.
 
 #### Art. 83
 
 **Protokoll**
 
-Das Wahl- oder Abstimmungsprotokoll ist gemäss den vom zuständigen Departement herausgegebenen Weisungen und Mustern zu erstellen; es wird verlesen und anlässlich der Sitzung von den Mitgliedern des Büros unterzeichnet. Das Protokoll gibt für jeden Urnengang die detaillierten Ergebnisse der Stimmenauszählung und der vorgenommenen Handlungen an.
+<sup>1</sup> Das Wahl- oder Abstimmungsprotokoll ist gemäss den vom zuständigen Departement herausgegebenen Weisungen und Mustern zu erstellen; es wird verlesen und anlässlich der Sitzung von den Mitgliedern des Büros unterzeichnet. Das Protokoll gibt für jeden Urnengang die detaillierten Ergebnisse der Stimmenauszählung und der vorgenommenen Handlungen an.
 
 #### Art. 84
 
@@ -827,14 +813,12 @@ Das Wahl- oder Abstimmungsprotokoll ist gemäss den vom zuständigen Departement
 <sup>2</sup> Im Falle von Stimmengleichheit bei einer Wahl, entscheidet das Los. Die Auslosung erfolgt:
 
 - a) für die Gemeinde- und Burgerwahlen durch den Präsidenten;
-
 - b) für die Grossratswahlen durch den Präfekten;
-
 - c) für die Wahlen des Staatsrats und des Ständerats durch den Grossratspräsidenten.
 
 <sup>3</sup> Die Betroffenen werden hierzu einberufen.
 
-### 4. Abschnitt: Übermittlung, Bekanntgabe und Veröffentlichung der Resultate
+### 2.6.4 Übermittlung, Bekanntgabe und Veröffentlichung der Resultate
 
 #### Art. 85
 
@@ -843,9 +827,7 @@ Das Wahl- oder Abstimmungsprotokoll ist gemäss den vom zuständigen Departement
 <sup>1</sup> Steht das Resultat der Stimmabgabe fest, so lässt der Präsident des Auszählbüros sofort ein Doppel des Protokolls zukommen:
 
 - a) an den Gemeindepräsidenten für die kommunalen Wahlen und Abstimmungen;
-
 - b) an den Präfekten des Bezirks für die Grossratswahlen;
-
 - c) an das zuständige Departement für die eidgenössischen und kantonalen Wahlen und Abstimmungen sowie für die kommunalen Wahlen.
 
 <sup>2</sup> Für die eidgenössischen und kantonalen Wahlen und Abstimmungen sind die Resultate der Staatskanzlei sofort telefonisch oder mit einem andern vom Staatsrat vorgeschriebenen oder erlaubten Mittel bekannt zu geben.
@@ -874,9 +856,9 @@ Das Wahl- oder Abstimmungsprotokoll ist gemäss den vom zuständigen Departement
 
 <sup>2</sup> Für die eidgenössischen und kantonalen Wahlen und Abstimmungen haben die Aufbewahrung, die Übermittlung und die Vernichtung des Stimmmaterials gemäss den Vorschriften des Staatsrates zu erfolgen.
 
-### 3. Titel: Abstimmungen
+## 3 Abstimmungen
 
-### 1. Kapitel: Kantonale Abstimmungen
+### 3.1 Kantonale Abstimmungen
 
 #### Art. 89
 
@@ -892,7 +874,7 @@ Das Wahl- oder Abstimmungsprotokoll ist gemäss den vom zuständigen Departement
 
 **Referendum**
 
-Der Staatsrat unterbreitet die dem Referendum unterliegenden Gegenstände ohne Verzug der Volksabstimmung, spätestens aber ein Jahr nach ihrer Annahme durch den Grossen Rat.
+<sup>1</sup> Der Staatsrat unterbreitet die dem Referendum unterliegenden Gegenstände ohne Verzug der Volksabstimmung, spätestens aber ein Jahr nach ihrer Annahme durch den Grossen Rat.
 
 #### Art. 91
 
@@ -910,11 +892,9 @@ Der Staatsrat unterbreitet die dem Referendum unterliegenden Gegenstände ohne V
 
 <sup>2</sup> Auf dem Stimmzettel stehen drei Fragen:
 
-- 1\. Wollen Sie die Volksinitiative annehmen?
-
-- 2\. Wollen Sie den Gegenentwurf annehmen?
-
-- 3\. Falls die Initiative und der Gegenentwurf das erforderliche Mehr erreichen, soll welcher der beiden Texte in Kraft treten: die Initiative oder der Gegenentwurf?
+- a) Wollen Sie die Volksinitiative annehmen?
+- b) Wollen Sie den Gegenentwurf annehmen?
+- c) Falls die Initiative und der Gegenentwurf das erforderliche Mehr erreichen, soll welcher der beiden Texte in Kraft treten: die Initiative oder der Gegenentwurf?
 
 <sup>3</sup> Für die Beantwortung der dritten Frage ist der Stimmbürger aufgerufen, seine Auswahl zu treffen, indem er auf dem Stimmzettel das entsprechende Feld ankreuzt.
 
@@ -928,9 +908,9 @@ Der Staatsrat unterbreitet die dem Referendum unterliegenden Gegenstände ohne V
 
 **Variantenabstimmung**
 
-Wird eine Verfassungsbestimmung mit einer Variante dem Stimmvolk unterbreitet, findet die Stimmabgabe gemäss dem auf eine Initiative mit Gegenentwurf anwendbaren Verfahren statt.
+<sup>1</sup> Wird eine Verfassungsbestimmung mit einer Variante dem Stimmvolk unterbreitet, findet die Stimmabgabe gemäss dem auf eine Initiative mit Gegenentwurf anwendbaren Verfahren statt.
 
-### 2. Kapitel: Kommunale Abstimmungen
+### 3.2 Kommunale Abstimmungen
 
 #### Art. 94
 
@@ -944,17 +924,17 @@ Wird eine Verfassungsbestimmung mit einer Variante dem Stimmvolk unterbreitet, f
 
 **Initiative und Referendum**
 
-Die zulässigen Initiativen sowie die zustande gekommenen Referendumsbegehren müssen innert der Frist von sechs Monaten seit Inkrafttreten des Zulässigkeitsentscheids beziehungsweise der Feststellung ihres Zustandekommens der Abstimmung unterbreitet werden.
+<sup>1</sup> Die zulässigen Initiativen sowie die zustande gekommenen Referendumsbegehren müssen innert der Frist von sechs Monaten seit Inkrafttreten des Zulässigkeitsentscheids beziehungsweise der Feststellung ihres Zustandekommens der Abstimmung unterbreitet werden.
 
 #### Art. 96
 
 **Stimmabgabe**
 
-Artikel 91 des vorliegenden Gesetzes ist anwendbar.
+<sup>1</sup> Artikel 91 des vorliegenden Gesetzes ist anwendbar.
 
-### 4. Titel: Initiative und Referendum
+## 4 Initiative und Referendum
 
-### 1. Kapitel: Allgemeine Bestimmungen
+### 4.1 Allgemeine Bestimmungen
 
 #### Art. 97
 
@@ -968,21 +948,21 @@ Artikel 91 des vorliegenden Gesetzes ist anwendbar.
 
 **Fristen**
 
-Die Unterschriften, welche eine Initiative oder ein Referendum begleiten, müssen innert den vorgeschriebenen Fristen auf der Staatskanzlei vor 17 Uhr deponiert werden. Deren Hinterlegung auf dem Postweg ist nicht erlaubt.
+<sup>1</sup> Eine Initiative oder ein Referendum mit den entsprechenden Unterschriftenlisten muss innert den vorgeschriebenen Fristen vor 12 Uhr auf der Staatskanzlei hinterlegt werden. Die Einreichung auf dem Postweg ist nicht erlaubt.
 
-### 2. Kapitel: Gemeinsame Bestimmungen zu den Initiativ- und Referendumsrechten
+### 4.2 Gemeinsame Bestimmungen zu den Initiativ- und Referendumsrechten
 
 #### Art. 99
 
 **Recht zur Unterzeichnung**
 
-Jede in kantonalen Angelegenheiten stimmberechtigte Person ist zur Unterzeichnung einer Initiative oder eines Referendumsbegehrens berechtigt.
+<sup>1</sup> Jede in kantonalen Angelegenheiten stimmberechtigte Person ist zur Unterzeichnung einer Initiative oder eines Referendumsbegehrens berechtigt.
 
 #### Art. 100
 
 **Unterschrift**
 
-<sup>1</sup> Der Stimmbürger muss handschriftlich und leserlich Namen, Vornamen, Geburtsjahr und Adresse, sowie seine Unterschrift auf der Unterschriftenliste anbringen.
+<sup>1</sup> Der Stimmbürger muss handschriftlich und leserlich Namen, Vornamen, Geburtsdatum, Adresse sowie Unterschrift anbringen.
 
 <sup>2</sup> Er darf die gleiche Initiative oder das gleiche Referendumsbegehren nur einmal unterschreiben.
 
@@ -992,17 +972,16 @@ Jede in kantonalen Angelegenheiten stimmberechtigte Person ist zur Unterzeichnun
 
 **Unterschriftenliste**
 
-Die Unterschriftenlisten müssen gemeindeweise erstellt werden und folgende Angaben enthalten:
+<sup>1</sup> Die Unterschriftenlisten müssen gemeindeweise erstellt werden und folgende Angaben enthalten:
 
 - a) die politische Gemeinde, in der die Unterzeichner im Stimmregister eingetragen sind;
-
 - b) den Text von Artikel 100 des vorliegenden Gesetzes.
 
 #### Art. 102
 
 **Herunterladen der Unterschriftenliste**
 
-Wer eine von der Staatskanzlei elektronisch zur Verfügung gestellte Liste zur Unterzeichnung herunterlädt, ist dafür verantwortlich, dass sie allen gesetzlichen Formerfordernissen genügt.
+<sup>1</sup> Wer eine von der Staatskanzlei elektronisch zur Verfügung gestellte Liste zur Unterzeichnung herunterlädt, ist dafür verantwortlich, dass sie allen gesetzlichen Formerfordernissen genügt.
 
 #### Art. 103
 
@@ -1025,9 +1004,7 @@ Wer eine von der Staatskanzlei elektronisch zur Verfügung gestellte Liste zur U
 <sup>1</sup> Die Bescheinigung wird verweigert:
 
 - a) wenn der Name des Unterzeichners am Tag, an dem die Unterschriftenliste zur Bescheinigung vorgelegt wird, nicht im Stimmregister steht;
-
 - b) wenn die Unterschrift nicht identifizierbar ist;
-
 - c) wenn die Bedingungen der Artikel 100 und 101 nicht erfüllt sind.
 
 <sup>2</sup> Hat die Person mehrere Male unterschrieben, wird nur eine einzige Unterschrift bescheinigt.
@@ -1043,9 +1020,7 @@ Wer eine von der Staatskanzlei elektronisch zur Verfügung gestellte Liste zur U
 <sup>2</sup> Ungültig sind:
 
 - a) die auf der Unterschriftenliste stehenden Unterschriften, die den Erfordernissen des Artikels 101 nicht entsprechen;
-
 - b) die Unterschriften von Personen, deren Stimmberechtigung nicht bescheinigt wurde oder für welche die Bescheinigung ungültig ist oder zu Unrecht erteilt wurde;
-
 - c) die Unterschriften, die auf Unterschriftenlisten stehen, welche nach Ablauf der Frist eingereicht wurden.
 
 <sup>3</sup> Im Falle offensichtlicher Nachlässigkeit kann der Staatsrat oder das von ihm bezeichnete Departement die Gemeinden auffordern, das Bescheinigungsverfahren zu wiederholen, sofern das Zustandekommen davon abhängt. Das für die Anerkennung der Stimmberechtigung der Unterzeichner massgebende Datum entspricht jenem, an dem die Unterschriftenliste zum ersten Mal zur Bescheinigung eingereicht wurde.
@@ -1056,9 +1031,9 @@ Wer eine von der Staatskanzlei elektronisch zur Verfügung gestellte Liste zur U
 
 **Rechtsmittel**
 
-Der Entscheid des Staatsrates über das Zustandekommen oder das Nichtzustandekommen eines Referendumsbegehrens oder einer Initiative kann innerhalb von 30 Tagen nach seiner Veröffentlichung beim Grossen Rat angefochten werden.
+<sup>1</sup> Der Entscheid des Staatsrates über das Zustandekommen oder das Nichtzustandekommen eines Referendumsbegehrens oder einer Initiative kann innerhalb von 30 Tagen nach seiner Veröffentlichung beim Grossen Rat angefochten werden.
 
-### 3. Kapitel: Initiativrecht
+### 4.3 Initiativrecht
 
 #### Art. 107
 
@@ -1076,21 +1051,18 @@ Der Entscheid des Staatsrates über das Zustandekommen oder das Nichtzustandekom
 
 **Unterschriftenliste**
 
-Nebst den in Artikel 101 des vorliegenden Gesetzes genannten Erfordernissen muss die Unterschriftenliste enthalten:
+<sup>1</sup> Nebst den in Artikel 101 des vorliegenden Gesetzes genannten Erfordernissen muss die Unterschriftenliste enthalten:
 
 - a) den Titel und den Text der Initiative in beiden Sprachen;
-
 - b) den Ablauf der Frist für die Einreichung der Unterschriften;
-
 - c) die Namen, Vornamen und Adressen von mindestens sieben Initianten der Initiative (Initiativkomitee);
-
 - d) eine vorbehaltslose Rückzugsklausel, wonach die Mehrheit der Mitglieder des Initiativkomitees zum Rückzug der Initiative befugt ist.
 
 #### Art. 109
 
 **Bevollmächtigter**
 
-Das Initiativkomitee bezeichnet einen Bevollmächtigten, der in seinem Namen handelt und dem die offiziellen Mitteilungen rechtsgültig zugestellt werden.
+<sup>1</sup> Das Initiativkomitee bezeichnet einen Bevollmächtigten, der in seinem Namen handelt und dem die offiziellen Mitteilungen rechtsgültig zugestellt werden.
 
 #### Art. 110
 
@@ -1110,29 +1082,27 @@ Das Initiativkomitee bezeichnet einen Bevollmächtigten, der in seinem Namen han
 
 <sup>3</sup> Der Staatsrat prüft, ob der Rückzug der Initiative unter ordnungsgemässen Bedingungen erfolgte.
 
-### 4. Kapitel: Referendumsrecht
+### 4.4 Referendumsrecht
 
 #### Art. 112
 
 **Veröffentlichung**
 
-Die dem Referendum unterliegenden Erlasse werden im Amtsblatt, gegebenenfalls mit Erwähnung der Referendumsfrist, veröffentlicht.
+<sup>1</sup> Die dem Referendum unterliegenden Erlasse werden im Amtsblatt, gegebenenfalls mit Erwähnung der Referendumsfrist, veröffentlicht.
 
 #### Art. 113
 
 **Unterschriftenliste**
 
-Nebst den in Artikel 101 des vorliegenden Gesetzes genannten Erfordernissen müssen die Unterschriftenliste enthalten:
+<sup>1</sup> Nebst den in Artikel 101 des vorliegenden Gesetzes genannten Erfordernissen müssen die Unterschriftenliste enthalten:
 
 - a) die Bezeichnung des dem Referendum unterliegenden Erlasses mit Datum, an dem er vom Grossen Rat angenommen wurde;
-
 - b) den Ablauf der Frist für die Einreichung der Unterschriften;
-
 - c) den Hinweis, dass das Referendumsbegehren nicht zurückgezogen werden kann.
 
-### 5. Titel: Staatsrats- und Ständeratswahlen
+## 5 Staatsrats- und Ständeratswahlen
 
-### 1. Kapitel: Wahlsystem
+### 5.1 Wahlsystem
 
 #### Art. 114
 
@@ -1148,7 +1118,7 @@ Nebst den in Artikel 101 des vorliegenden Gesetzes genannten Erfordernissen müs
 
 **Wählbarkeit in den Ständerat**
 
-Wählbar in den Ständerat ist jeder Schweizer Stimmbürger, der seinen Wohnsitz im Kanton hat. Der Verlust der kantonalen Stimmberechtigung hat den Mandatsverlust zur Folge.
+<sup>1</sup> Wählbar in den Ständerat ist jeder Schweizer Stimmbürger, der seinen Wohnsitz im Kanton hat. Der Verlust der kantonalen Stimmberechtigung hat den Mandatsverlust zur Folge.
 
 #### Art. 116
 
@@ -1160,19 +1130,19 @@ Wählbar in den Ständerat ist jeder Schweizer Stimmbürger, der seinen Wohnsitz
 
 <sup>3</sup> Im Übrigen gelten die Bestimmungen des Gesetzes über die Unvereinbarkeiten.
 
-### 2. Kapitel: Erster Wahlgang
+### 5.2 Erster Wahlgang
 
 #### Art. 117
 
 **Listenhinterlegung**
 
-<sup>1</sup> Die politischen Parteien oder Gruppierungen, die Kandidaturen vorschlagen, müssen die Liste mit den Namen der Kandidaturen spätestens am fünften Montag vor der Wahl um 17 Uhr gegen Empfangsbestätigung bei der Staatskanzlei hinterlegen.
+<sup>1</sup> Die politischen Parteien oder Gruppierungen, die Kandidaturen vorschlagen, müssen ihre Kandidatenliste spätestens am achten Montag vor der Wahl um 12 Uhr gegen Empfangsbestätigung bei der Staatskanzlei hinterlegen.
 
 <sup>2</sup> Die Staatskanzlei veröffentlicht die hinterlegten Listen mit den Namen der kandidierenden Personen ohne Verzug im Amtsblatt.
 
 #### Art. 118
 
-<sup>1</sup> Listeninhalt
+**Listeninhalt**
 
 <sup>1</sup> Jede Liste muss von mindestens 100 Stimmbürgern im Namen einer politischen Partei oder Gruppierung unterzeichnet sein. Sie muss einen Vertreter und einen Stellvertreter angeben. Andernfalls gilt der Erstunterzeichner der Liste als ihr Vertreter und der Folgende als Stellvertreter. Die Liste der Listenunterzeichner muss von einer Bescheinigung einer Gemeinde des Kantons über deren Stimmberechtigung begleitet sein.
 
@@ -1180,7 +1150,7 @@ Wählbar in den Ständerat ist jeder Schweizer Stimmbürger, der seinen Wohnsitz
 
 <sup>3</sup> Eine Person darf nur auf einer Liste stehen und darf nach der Hinterlegung der Liste ihre Kandidatur nicht mehr ablehnen.
 
-<sup>4</sup> Der Vertreter der Liste darf diese nach deren Hinterlegung nur dann ändern, wenn eine Person nicht mehr wählbar geworden ist. Auf jeden Fall kann keine Veränderung der Liste nach Ablauf der Hinterlegungsfrist erfolgen (Montag der fünften Woche um 17 Uhr).
+<sup>4</sup> Der Vertreter der Liste darf diese nach deren Hinterlegung nur dann ändern, wenn eine Person nicht mehr wählbar ist. Auf jeden Fall kann nach Ablauf der Hinterlegungsfrist keine Veränderung der Liste mehr erfolgen (Montag der achten Woche um 12 Uhr).
 
 #### Art. 119
 
@@ -1196,31 +1166,50 @@ Wählbar in den Ständerat ist jeder Schweizer Stimmbürger, der seinen Wohnsitz
 
 **Rückzug der Unterschrift**
 
-Eine Unterschrift kann nach der Listenhinterlegung nicht zurückgezogen werden.
+<sup>1</sup> Eine Unterschrift kann nach der Listenhinterlegung nicht zurückgezogen werden.
 
 #### Art. 121
 
 **Einsichtnahme in die Listen**
 
-Die Stimmbürger des Kantons können von den Listen der Kandidaturen und den Namen der Listenunterzeichner auf der Staatskanzlei Kenntnis nehmen.
+<sup>1</sup> Die Stimmbürger des Kantons können von den Listen der Kandidaturen und den Namen der Listenunterzeichner auf der Staatskanzlei Kenntnis nehmen.
 
 #### Art. 122
 
-**Wahlzettel**
+**Wahlzettel für die Staatsratswahl**
 
-<sup>1</sup> Ein Wahlzettel kann nicht mehr Namen enthalten als Personen zu wählen sind.
+<sup>1</sup> Ein Wahlzettel darf nicht mehr Namen enthalten, als Personen zu wählen sind.
 
 <sup>2</sup> Eine politische Partei oder Gruppierung kann auf dem Wahlzettel die Bezeichnung der politischen Partei oder Gruppierung anbringen lassen.
 
 <sup>3</sup> Eine Person darf nicht auf mehr als einem gedruckten Wahlzettel stehen.
 
-<sup>4</sup> Die Kandidaten von zwei oder mehreren hinterlegten Listen können einstimmig übereinkommen, auf ein und demselben Wahlzettel zu stehen. Diese Zustimmung muss der Staatskanzlei spätestens am fünften Montag vor der Wahl bis 18 Uhr schriftlich abgegeben werden.
+<sup>4</sup> …
 
 #### Art. 123
 
-**Druck der Wahlzettel**
+**Druck der Wahlzettel für die Staatsratswahl**
 
-Die Staatskanzlei lässt die Wahlzettel jeder hinterlegten Liste sowie einen leeren amtlichen Wahlzettel drucken. Nur diese gedruckten oder leeren amtlichen Wahlzettel sind gültig.
+<sup>1</sup> Die Staatskanzlei lässt die Wahlzettel jeder hinterlegten Liste sowie einen leeren amtlichen Wahlzettel drucken. Nur diese gedruckten oder leeren amtlichen Wahlzettel sind gültig.
+
+#### Art. 123a
+
+**Einziger amtlicher Wahlzettel für die Ständeratswahl**
+
+<sup>1</sup> Der einzige amtliche Wahlzettel enthält die kandidierenden Personen.
+
+<sup>2</sup> Die kandidierenden Personen werden in folgender Reihenfolge aufgeführt:
+
+- a) bisherige Amtsinhaber in alphabetischer Reihenfolge;
+- b) die anderen kandidierenden Personen in alphabetischer Reihenfolge.
+
+<sup>3</sup> Auf dem einzigen Wahlzettel ist die maximale Anzahl Kandidaten angegeben, denen der Wähler seine Stimme geben kann, indem er das oder die entsprechenden Kästchen ankreuzt.
+
+#### Art. 123b
+
+**Druck des einzigen amtlichen Wahlzettels für die Ständeratswahl**
+
+<sup>1</sup> Die Staatskanzlei lässt den einzigen amtlichen Wahlzettel drucken. Nur diese gedruckten amtlichen Wahlzettel sind gültig.
 
 #### Art. 124
 
@@ -1238,51 +1227,48 @@ Die Staatskanzlei lässt die Wahlzettel jeder hinterlegten Liste sowie einen lee
 
 <sup>1</sup> Wurde im ersten Wahlgang keine Liste hinterlegt, so dürfen die Stimmbürger für jede wählbare Person stimmen.
 
-<sup>2</sup> Die Personen, die das absolute Mehr erreicht haben, müssen ihre Wahl ausdrücklich annehmen. Diese Erklärung muss der Staatskanzlei am Montag nach der Wahl spätestens bis zwölf Uhr gemacht werden. Das Fehlen der Erklärung bedeutet den Verzicht. Wurden nicht alle Sitze bestellt, so findet ein zweiter Wahlgang statt.
+<sup>2</sup> Die Personen, die das absolute Mehr erreicht haben, müssen ihre Wahl ausdrücklich annehmen. Diese Erklärung muss der Staatskanzlei am Montag nach der Wahl spätestens bis 12 Uhr gemacht werden. Das Fehlen der Erklärung bedeutet Verzicht. Wurden nicht alle Sitze besetzt, so findet ein zweiter Wahlgang statt.
 
 #### Art. 126
 
 **Bekanntgabe der Resultate**
 
-Die Resultate des ersten Wahlgangs werden von der Staatskanzlei spätestens am Montag Mittag bekannt gegeben, und danach in der nächsten Nummer des Amtsblatts veröffentlicht.
+<sup>1</sup> Die Resultate des ersten Wahlgangs werden von der Staatskanzlei spätestens am Montag um 12 Uhr bekannt gegeben und danach in der nächsten Ausgabe des Amtsblatts veröffentlicht.
 
-### 3. Kapitel: Zweiter Wahlgang
+### 5.3 Zweiter Wahlgang
 
 #### Art. 127
 
-<sup>1</sup> Stichwahl
+**Stichwahl**
 
 <sup>1</sup> Wenn im ersten Wahlgang nicht alle zu wählenden Kandidaten das absolute Mehr erreicht haben, findet ein zweiter Wahlgang (Stichwahl) statt.
 
-<sup>2</sup> Am zweiten Wahlgang können jene Kandidaten teilnehmen, die im ersten Wahlgang nicht gewählt wurden und mindestens acht Prozent der gültigen Stimmen erhalten haben. Überdies können die Listen, auf denen ein Kandidat figuriert, der mindestens acht Prozent der gültigen Stimmen erhalten hat:
+<sup>2</sup> Am zweiten Wahlgang können jene Kandidaten teilnehmen, die im ersten Wahlgang nicht gewählt wurden und eine Stimmenzahl grösser oder gleich acht Prozent der Gesamtzahl der Stimmenden erhalten haben. Überdies können die Listen, auf denen einer der Kandidaten eine Stimmenzahl grösser oder gleich acht Prozent der Gesamtzahl der Stimmenden erhalten hat:
 
 - a) einen oder mehrere neue Kandidaten enthalten;
-
-- b) die Ersetzung eines oder mehrerer Kandidaten vorsehen.
-
-Kandidaten für die Staatsratswahlen dürfen nur jene Personen sein, die die Wählbarkeitsvoraussetzungen gemäss Artikel 52 der Kantonsverfassung erfüllen (Vertretung der Bezirke und der verfassungsmässigen Regionen).
+- b) die Ersetzung eines oder mehrerer Kandidaten erfahren.
 
 <sup>3</sup> Im zweiten Wahlgang ist einzig das einfache Mehr erforderlich. Bei Stimmengleichheit entscheidet das Los (Art. 84).
 
-<sup>4</sup> Die Stichwahl findet am zweiten Sonntag nach dem ersten Wahlgang statt.
+<sup>4</sup> Die Stichwahl findet am dritten Sonntag nach dem ersten Wahlgang statt.
 
 #### Art. 128
 
-<sup>1</sup> Listenhinterlegung
+**Listenhinterlegung**
 
 <sup>1</sup> Die Listen der Kandidaturen müssen spätestens am Dienstag, welcher auf den ersten Wahlgang folgt, um 17 Uhr bei der Staatskanzlei gegen Empfangsbescheinigung hinterlegt sein. Sie müssen von mindestens 50 Stimmbürgern unterzeichnet und für jeden Listenunterzeichner und Kandidaten von einer Bescheinigung einer Gemeinde über die Stimmberechtigung, sowie von einer von den Kandidaten unterschriebenen Kandidaturannahme-Erklärung begleitet sein. Die kommunale Bescheinigung muss vor der Listenhinterlegung eingeholt werden.
 
 <sup>2</sup> Eine Liste darf nicht mehr Kandidatennamen aufweisen als Mitglieder zu wählen sind. Die Kandidaturen, die nicht von einer Bestätigung einer Gemeinde über die Stimmberechtigung und von der Annahmeerklärung begleitet sind, sowie die nicht wählbaren oder überzähligen Personen werden von der Staatskanzlei von Amtes wegen gestrichen.
 
-<sup>3</sup> Die Kandidaten von zwei oder mehreren Listen können einstimmig übereinkommen, auf ein und demselben Wahlzettel zu stehen. Diese Annahme muss spätestens am Dienstag nach dem ersten Wahlgang um 18 Uhr schriftlich gegenüber der Staatskanzlei erklärt werden.
+<sup>3</sup> …
 
-<sup>4</sup> Im Übrigen sind die Artikel 117 bis 123 anwendbar.
+<sup>4</sup> Im Übrigen sind die Artikel 117 bis 123b anwendbar.
 
 #### Art. 129
 
 **Stille Wahl**
 
-Wenn die Zahl der Kandidaturen für die Stichwahl gleich oder tiefer ist als die Zahl der zu verteilenden Mandate, so werden alle Kandidaten vom Staatsrat ohne Urnengang als gewählt erklärt. Verbleiben noch Mandate zu verteilen, wird die Stichwahl nur für diese letzteren aufrechterhalten und die Stimmbürger können für jede wählbare Person stimmen.
+<sup>1</sup> Wenn die Zahl der Kandidaturen für die Stichwahl gleich oder tiefer ist als die Zahl der zu verteilenden Mandate, so werden alle Kandidaten vom Staatsrat ohne Urnengang als gewählt erklärt. Verbleiben noch Mandate zu verteilen, wird die Stichwahl nur für diese letzteren aufrechterhalten und die Stimmbürger können für jede wählbare Person stimmen.
 
 #### Art. 130
 
@@ -1290,15 +1276,15 @@ Wenn die Zahl der Kandidaturen für die Stichwahl gleich oder tiefer ist als die
 
 <sup>1</sup> Ist im zweiten Wahlgang keine Liste hinterlegt worden, können die Stimmbürger für jede wählbare Person stimmen.
 
-<sup>2</sup> Die mit dem erforderlichen Mehr im zweiten Wahlgang gewählten Personen, müssen ihre Wahl ausdrücklich annehmen. Diese Erklärung hat am Montag nach der Wahl gegenüber der Staatskanzlei zu erfolgen. Das Fehlen einer Erklärung bedeutet den Verzicht.
+<sup>2</sup> Die mit dem erforderlichen Mehr im zweiten Wahlgang gewählten Personen müssen ihre Wahl ausdrücklich annehmen. Diese Erklärung hat am Montag nach der Wahl spätestens bis 12 Uhr bei der Staatskanzlei zu erfolgen. Das Fehlen einer Erklärung bedeutet Verzicht.
 
 <sup>3</sup> Im Falle des Verzichts wird eine Ergänzungswahl nach Massgabe von Artikel 134 durchgeführt.
 
-### 4. Kapitel: Modalitäten der Stimmabgabe
+### 5.4 Modalitäten der Stimmabgabe
 
 #### Art. 131
 
-**Stimmabgabe**
+**Stimmabgabe bei der Staatsratswahl**
 
 <sup>1</sup> Der Stimmbürger übt sein Stimmrecht aus, indem er sich entweder eines gedruckten Wahlzettels, oder eines leeren amtlichen Wahlzettels bedient.
 
@@ -1307,6 +1293,16 @@ Wenn die Zahl der Kandidaturen für die Stichwahl gleich oder tiefer ist als die
 <sup>3</sup> Es ist untersagt, den Namen des gleichen Kandidaten mehr als einmal auf die gleiche Liste zu setzen. Die Wiederholung eines Namens gilt als nicht geschrieben.
 
 <sup>4</sup> Benutzt er den leeren amtlichen Wahlzettel, muss er ihn von Hand ausfüllen.
+
+#### Art. 131a
+
+**Stimmabgabe bei der Ständeratswahl**
+
+<sup>1</sup> Der stimmberechtigte Bürger übt sein Stimmrecht unter Verwendung des einzigen amtlichen Wahlzettels aus.
+
+<sup>2</sup> Der stimmberechtigte Bürger gibt seine Stimmen den kandidierenden Personen, indem er von Hand das Kästchen neben ihrem Namen ankreuzt.
+
+<sup>3</sup> Der einzige amtliche Wahlzettel ist ungültig, wenn er mehr angekreuzte Kästchen aufweist, als Personen zu wählen sind.
 
 #### Art. 132
 
@@ -1318,23 +1314,23 @@ Wenn die Zahl der Kandidaturen für die Stichwahl gleich oder tiefer ist als die
 
 #### Art. 133
 
-**Bereinigung der Stimmen**
+**Bereinigung der Stimmen bei der Staatsratswahl**
 
-<sup>1</sup> Trägt ein Wahlzettel mehr Namen als es zu wählende Personen hat, so streicht das Wahlbüro die Überzähligen, indem es mit den Namen auf der Rückseite des Wahlzettels beginnt. Die Streichung erfolgt von unten nach oben.
+<sup>1</sup> Trägt ein Wahlzettel mehr Namen als es zu wählende Personen gibt, so streicht das Auszählbüro die Überzähligen, indem es mit den Namen auf der Rückseite des Wahlzettels beginnt. Die Streichung erfolgt von unten nach oben.
 
 <sup>2</sup> Enthält der Wahlzettel mehrere parallele Kolonnen, beginnt das Büro mit der Streichung des letzten Namens der Kolonne rechts und fährt in aufsteigender Richtung in dieser Kolonne weiter; falls notwendig, macht das Büro in gleicher Weise weiter für die folgenden Kolonnen und zwar von rechts nach links. Die auf der Seite der senkrechten Kolonnen eingetragenen Namen werden an erster Stelle ebenfalls von rechts beginnend gestrichen.
 
-### 5. Kapitel: Ergänzungswahlen
+### 5.5 Ergänzungswahlen
 
 #### Art. 134
 
 **Ergänzungswahlen**
 
-Der Staatsrat setzt das Datum der Ergänzungswahlen fest. Diese finden entsprechend den Artikeln 114 bis 133 statt. Gibt es jedoch im ersten Wahlgang nur einen einzigen Kandidaten für ein einziges zu vergebendes Mandat, wird dieser Kandidat vom Staatsrat ohne Urnengang für gewählt erklärt.
+<sup>1</sup> Der Staatsrat setzt das Datum der Ergänzungswahlen fest. Diese finden entsprechend den Artikeln 114 bis 133 statt. Gibt es jedoch im ersten Wahlgang nur einen einzigen Kandidaten für ein einziges zu vergebendes Mandat, wird dieser Kandidat vom Staatsrat ohne Urnengang für gewählt erklärt.
 
-### 6. Titel: Grossratswahlen
+## 6 Grossratswahlen
 
-### 1. Kapitel: Verteilung der Sitze unter den Bezirken
+### 6.1 Verteilung der Sitze unter den Bezirken
 
 #### Art. 135
 
@@ -1342,55 +1338,76 @@ Der Staatsrat setzt das Datum der Ergänzungswahlen fest. Diese finden entsprech
 
 <sup>1</sup> Die Verteilung der Sitze unter den Bezirken erfolgt gemäss Artikel 84 der Kantonsverfassung.
 
-<sup>2</sup> Der Staatsrat setzt in einem Beschluss, der im Amtsblatt veröffentlicht wird, die jedem Bezirk und Halbbezirk nach jeder eidgenössischen Volkszählung zugeteilte Anzahl Sitze fest, sobald die Ergebnisse dieser Volkszählung amtlich veröffentlicht sind.
+<sup>2</sup> Der Staatsrat setzt in einem Beschluss, der im Amtsblatt veröffentlicht wird, die jedem Bezirk und Halbbezirk aufgrund der letzten amtlich veröffentlichten Bevölkerungsstatistik zugeteilte Anzahl Sitze fest.
 
-### 2. Kapitel: Wahlsystem
+### 6.2 Wahlsystem
 
 #### Art. 136
 
-**Proporzvertretung**
+**Doppelt-proportionale Zuteilung**
 
-<sup>1</sup> Die Abgeordneten und die Ersatzpersonen werden direkt vom Volk nach dem Proporzsystem gewählt.
+<sup>1</sup> Die Abgeordneten und die Suppleanten werden nach dem System der doppelt-proportionalen Zuteilung direkt vom Volk gewählt.
 
-<sup>2</sup> Die Wahl der Abgeordneten und Ersatzpersonen findet in einer gemeinsamen Wahl statt.
+<sup>2</sup> Die Wahl der Abgeordneten und der Suppleanten erfolgt auf dem gleichen Wahlzettel in getrennten Urnengängen.
 
-<sup>3</sup> Unter Nichtigkeitsstrafe muss die Liste mindestens die Kandidatur eines Abgeordneten und einer Ersatzperson enthalten.
+<sup>3</sup> Unter Nichtigkeitsstrafe muss die Liste mindestens die Kandidatur eines Abgeordneten und eines Suppleanten enthalten.
+
+#### Art. 136a
+
+**Wahlkreise**
+
+<sup>1</sup> Das Kantonsgebiet ist in sechs Wahlkreise unterteilt, um die Verteilung der Sitze entsprechend den politischen Kräften zu gewährleisten.
+
+<sup>2</sup> Die sechs Wahlkreise sind:
+
+- a) der Wahlkreis Brig, unterteilt in drei Unterwahlkreise, die dem Bezirk Goms, dem Halbbezirk Östlich Raron und dem Bezirk Brig entsprechen;
+- b) der Wahlkreis Visp, unterteilt in drei Unterwahlkreise, die dem Bezirk Visp, dem Halbbezirk Westlich Raron und dem Bezirk Leuk entsprechen;
+- c) der Wahlkreis Siders, der aus einem einzigen Unterwahlkreis besteht, der dem Bezirk Siders entspricht;
+- d) der Wahlkreis Sitten, unterteilt in drei Unterwahlkreise, die den Bezirken Sitten, Ering und Gundis entsprechen;
+- e) der Wahlkreis Martinach, unterteilt in zwei Unterwahlkreise, die den Bezirken Martinach und Entremont entsprechen;
+- f) der Wahlkreis Monthey, unterteilt in zwei Unterwahlkreise, die den Bezirken Saint-Maurice und Monthey entsprechen.
 
 #### Art. 137
 
-**Wahlkreis**
+**Unterwahlkreise**
 
-<sup>1</sup> Der Bezirk ist der Wahlkreis für die Grossratswahl.
+<sup>1</sup> Der Bezirk ist der Unterwahlkreis für die Grossratswahl.
 
-<sup>2</sup> Die Halbbezirke Östlich-Raron und Westlich-Raron bilden für sich einen getrennten Wahlkreis, sowohl für die Verteilung der Sitze unter die Bezirke als auch für die Wahl der Mitglieder des Grossen Rates.
+<sup>2</sup> Die Halbbezirke Östlich-Raron und Westlich-Raron bilden je einen getrennten Unterwahlkreis, sowohl für die Verteilung der Sitze unter den Bezirken als auch für die Wahl der Mitglieder des Grossen Rates.
 
 <sup>3</sup> Die Wahl findet in den Gemeinden statt.
 
-### 3. Kapitel: Liste der Kandidaturen
+### 6.3 Kandidatenlisten und Listengruppen
 
 #### Art. 138
 
 **Listenhinterlegung**
 
-<sup>1</sup> In jedem Bezirk müssen die Listen beim Präfekten des Bezirks gegen Empfangsbestätigung spätestens am Montag der fünften Woche vor der Wahl um 18 Uhr hinterlegt sein.
+<sup>1</sup> In jedem Bezirk müssen die Listen spätestens am Montag der achten Woche vor der Wahl um 12 Uhr beim Präfekten des Bezirks gegen Empfangsbestätigung hinterlegt sein.
 
 <sup>2</sup> Der Versand der Listen auf dem Postweg oder mit anderen Mitteln (Fax, elektronisch) ist nicht zulässig.
 
 <sup>3</sup> Jede Liste muss eine Bezeichnung tragen, die sie von den anderen Listen unterscheidet.
 
+#### Art. 138a
+
+**Listengruppen**
+
+<sup>1</sup> Die Listen, welche die gleiche Bezeichnung und die gleiche Ordnungsnummer aufweisen, bilden auf der Ebene des Wahlkreises eine Listengruppe.
+
 #### Art. 139
 
 **Annahme der Kandidaturen**
 
-Jeder Kandidat muss schriftlich erklären, dass er seine Kandidatur annimmt. Fehlt diese Erklärung im Zeitpunkt der Listenhinterlegung, wird sein Name von der Liste gestrichen. Ein Kandidat kann seine Unterschrift nach der Hinterlegung der Liste nicht mehr zurückziehen.
+<sup>1</sup> Jeder Kandidat muss schriftlich erklären, dass er seine Kandidatur annimmt. Fehlt diese Erklärung im Zeitpunkt der Listenhinterlegung, wird sein Name von der Liste gestrichen. Ein Kandidat kann seine Unterschrift nach der Hinterlegung der Liste nicht mehr zurückziehen.
 
 #### Art. 140
 
 **Anzahl und Bezeichnung der Kandidaten**
 
-<sup>1</sup> Die Listen dürfen nicht mehr Kandidaten enthalten als Abgeordnete oder Ersatzpersonen im Bezirk zu wählen sind. Kein Name darf mehr als einmal vorkommen. Überzählige Namen werden gestrichen.
+<sup>1</sup> Die Listen dürfen nicht mehr Kandidaten enthalten als Abgeordnete und Suppleanten im Bezirk zu wählen sind. Kein Name darf mehr als einmal vorkommen. Überzählige Namen werden gestrichen.
 
-<sup>2</sup> Kein Name darf gleichzeitig auf der Liste der Abgeordneten und jener der Ersatzpersonen vorkommen. Ist dies der Fall wird er von der Liste der Ersatzpersonen gestrichen.
+<sup>2</sup> Kein Name darf gleichzeitig auf der Liste der Abgeordneten und jener der Suppleanten vorkommen. Ist dies der Fall wird er von der Liste der Suppleanten gestrichen.
 
 #### Art. 141
 
@@ -1404,9 +1421,9 @@ Jeder Kandidat muss schriftlich erklären, dass er seine Kandidatur annimmt. Feh
 
 #### Art. 142
 
-**Listenunterzeichner, Vertreter**
+**Listenunterzeichner - Vertreter**
 
-<sup>1</sup> Die Liste muss von mindestens zehn Stimmbürgern, die im Bezirk stimmberechtigt sind, unterzeichnet werden.
+<sup>1</sup> Die Liste muss von mindestens zehn Bürgern, die im Bezirk stimmberechtigt sind, unterzeichnet werden. Jeder Listenunterzeichner muss handschriftlich und leserlich Namen, Vornamen, Beruf, Geburtsdatum, Wohnsitz und Unterschrift anbringen.
 
 <sup>2</sup> Die Listenunterzeichner bezeichnen einen Vertreter sowie einen Stellvertreter, der für die Verbindung zu den Behörden besorgt ist. Unterlassen sie dies, gilt der Erstunterzeichner als Vertreter und der Nächstfolgende als dessen Stellvertreter.
 
@@ -1426,19 +1443,19 @@ Jeder Kandidat muss schriftlich erklären, dass er seine Kandidatur annimmt. Feh
 
 **Unterschriftenrückzug**
 
-Ein Stimmbürger kann seine Unterschrift nach der Listenhinterlegung nicht zurückziehen.
+<sup>1</sup> Ein Stimmbürger kann seine Unterschrift nach der Listenhinterlegung nicht zurückziehen.
 
 #### Art. 145
 
 **Listenrückzug**
 
-Eine Liste kann nach ihrer Hinterlegung nicht zurückgezogen werden.
+<sup>1</sup> Eine Liste kann nach ihrer Hinterlegung nicht zurückgezogen werden.
 
 #### Art. 146
 
 **Einsichtnahme in die Listen**
 
-Die Stimmbürger können von den Listen der Kandidaturen und den Namen der Unterzeichner beim Präfekten und nach deren Übermittlung an das zuständige Departement bei diesem Kenntnis nehmen.
+<sup>1</sup> Die Stimmbürger können von den Listen der Kandidaturen und den Namen der Unterzeichner beim Präfekten und nach deren Übermittlung an das zuständige Departement bei diesem Kenntnis nehmen.
 
 #### Art. 147
 
@@ -1450,29 +1467,29 @@ Die Stimmbürger können von den Listen der Kandidaturen und den Namen der Unter
 
 <sup>3</sup> Wird ein Mangel nicht innert der eingeräumten Frist beseitigt, wird die Liste als ungültig erklärt. Betrifft ein Mangel nur eine einzige Kandidatur, wird einzig der Name dieses Kandidaten gestrichen.
 
-<sup>4</sup> Die Entscheide des Präfekten sind spätestens am Freitag der fünften Woche vor der Wahl zu fällen und sofort mitzuteilen. Die Beschwerden gegen diese Entscheide sind innert 24 Stunden beim Staatsrat einzureichen, der spätestens am Mittwoch der vierten Woche vor der Wahl endgültig entscheidet.
+<sup>4</sup> Die Entscheide des Präfekten sind spätestens am Freitag der achten Woche vor der Wahl zu fällen und sofort mitzuteilen. Die Beschwerden gegen diese Entscheide sind innert 24 Stunden beim Staatsrat einzureichen, der spätestens am Mittwoch der siebten Woche vor der Wahl endgültig entscheidet.
 
-<sup>5</sup> Nach dem Donnerstag der vierten Woche vor der Wahl dürfen an den Listen keine Änderung mehr vorgenommen werden.
+<sup>5</sup> Nach dem Donnerstag der siebten Woche vor der Wahl darf an den Listen keine Änderung mehr vorgenommen werden.
 
 #### Art. 148
 
 **Endgültige Listen**
 
-<sup>1</sup> Die endgültig erstellten Listen der Kandidaturen bilden die offiziellen Listen.
+<sup>1</sup> Die endgültig erstellten Kandidatenlisten bilden die offiziellen Listen. Diese Listen werden so früh wie möglich im Amtsblatt publiziert.
 
-<sup>2</sup> Jede Liste wird durch den Präfekten mit einer Ordnungsnummer nach der Reihenfolge ihrer Vorlegung versehen. Die Ordnungsnummer bildet integrierenden Bestandteil der Liste.
+<sup>2</sup> Die Präfekten übermitteln die Listen zum Druck und zur Veröffentlichung im Amtsblatt mit ihrer Bezeichnung an das zuständige Departement.
 
-<sup>3</sup> Die Präfekten übermitteln die Listen an das zuständige Departement zum Druck und zu ihrer Veröffentlichung im Amtsblatt mit ihrer Bezeichnung und ihrer Ordnungsnummer.
+<sup>3</sup> Das zuständige Departement teilt jeder Listengruppe in jedem Wahlkreis eine Ordnungsnummer zu. Diese Ordnungsnummer bildet integrierenden Bestandteil jeder Liste. Die Zuteilung der Ordnungsnummern erfolgt mittels Losziehung zwischen den Listengruppen, die in allen Bezirken des Wahlkreises hinterlegt worden sind. Die anderen Listen oder Listengruppen erhalten eine nachfolgende Ordnungsnummer, nötigenfalls durch Losziehung.
 
-<sup>4</sup> Diese Veröffentlichung erfolgt im Amtsblatt am zweiten Freitag vor dem Urnengang oder spätestens am Mittwoch vor dem Urnengang.
+<sup>4</sup> …
 
 #### Art. 149
 
 **Verbot der Listenverbindung**
 
-Die hinterlegten Listen dürfen nicht verbunden werden.
+<sup>1</sup> Die hinterlegten Listen dürfen nicht verbunden werden.
 
-### 4. Kapitel: Modalitäten der Stimmabgabe
+### 6.4 Modalitäten der Stimmabgabe
 
 #### Art. 150
 
@@ -1484,7 +1501,7 @@ Die hinterlegten Listen dürfen nicht verbunden werden.
 
 <sup>3</sup> Wer einen gedruckten Wahlzettel benutzt, kann Kandidatennamen streichen, Kandidatennamen von anderen Listen eintragen (panaschieren). Er kann auch die Bezeichnung und die Ordnungsnummer der Liste streichen oder diese durch eine andere Bezeichnung oder eine andere Ordnungsnummer ersetzen.
 
-<sup>4</sup> Man kann nur für Kandidaten stimmen, die auf einer im Wahlkreis gültig hinterlegten Liste stehen.
+<sup>4</sup> Man kann nur für Kandidaten stimmen, die auf einer im Unterwahlkreis gültig hinterlegten Liste stehen.
 
 <sup>5</sup> Kumulieren ist nicht zulässig und der Name eines Kandidaten, der mehr als einmal auf dem gleichen Wahlzettel aufgeführt ist, zählt nur als eine Kandidatenstimme.
 
@@ -1494,17 +1511,17 @@ Die hinterlegten Listen dürfen nicht verbunden werden.
 
 **Gültigkeit der Stimmen, Zusatzstimmen und leere Stimmen**
 
-<sup>1</sup> Der Stimmbürger verfügt über so viele Stimmen wie es Abgeordnete und Ersatzpersonen im Bezirk zu wählen gibt.
+<sup>1</sup> Für jede Wahl verfügt der Stimmbürger über so viele Stimmen wie es Abgeordnete und Suppleanten im Bezirk zu wählen gibt.
 
 <sup>2</sup> Enthält ein Wahlzettel weniger Kandidatennamen als zu wählende Mitglieder, gelten die nicht benützten Kandidatenstimmen als so viele Zusatzstimmen für die Liste, deren Bezeichnung oder Ordnungsnummer der Wahlzettel trägt. Trägt der Wahlzettel weder Bezeichnung noch Ordnungsnummer, oder trägt er mehrere Bezeichnungen, werden die nicht benutzten Stimmen als leere Stimmen bezeichnet.
 
 <sup>3</sup> Die Namen, die auf keiner Liste stehen, werden nicht berücksichtigt. Die auf sie entfallenden Stimmen zählen jedoch als Zusatzstimmen, sofern der Wahlzettel die Bezeichnung einer Liste oder eine Ordnungsnummer trägt und mindestens den Namen einer gültig hinterlegten Kandidatur beinhaltet.
 
-<sup>4</sup> Trägt ein Wahlzettel mehr Namen als zu wählende Mitglieder, streicht das Wahlbüro die überzähligen, indem es mit den Namen auf der Rückseite des Wahlzettels beginnt. Die Streichung erfolgt von unten nach oben. Enthält der Wahlzettel mehrere parallele Kolonnen, beginnt das Büro mit der Streichung der letzten Namen der Kolonne rechts und fährt in aufsteigender Richtung in dieser Kolonne weiter; falls notwendig, macht das Büro in gleicher Weise weiter für die folgenden Kolonnen und zwar von rechts nach links. Die auf der Seite der senkrechten Kolonnen eingetragenen Namen werden an erster Stelle ebenfalls von rechts beginnend gestrichen.
+<sup>4</sup> Trägt ein Wahlzettel mehr Namen als zu wählende Mitglieder, streicht das Auszählbüro die Überzähligen, indem es mit den Namen auf der Rückseite des Wahlzettels beginnt. Die Streichung erfolgt von unten nach oben. Enthält der Wahlzettel mehrere parallele Spalten, beginnt das Büro mit der Streichung der letzten Namen der Spalte rechts und fährt in aufsteigender Richtung in dieser Spalte weiter; falls notwendig, macht das Büro in gleicher Weise weiter für die folgenden Spalten und zwar von rechts nach links. Die auf der Seite der senkrechten Spalten eingetragenen Namen werden an erster Stelle ebenfalls von rechts beginnend gestrichen.
 
-<sup>5</sup> Wahlzettel, die eine Listenbezeichnung aber keinen Namen eines im Wahlkreis vorgeschlagenen Kandidaten tragen, sind ungültig.
+<sup>5</sup> Wahlzettel, die eine Listenbezeichnung, aber keinen Namen eines im Unterwahlkreis vorgeschlagenen Kandidaten tragen, sind ungültig.
 
-### 5. Kapitel: Stimmenauszählung und Sitzverteilung
+### 6.5 Stimmenauszählung und Sitzverteilung
 
 #### Art. 152
 
@@ -1512,49 +1529,51 @@ Die hinterlegten Listen dürfen nicht verbunden werden.
 
 <sup>1</sup> Nach Schluss des Urnengangs gibt das Auszählbüro der Staatskanzlei sofort telefonisch oder durch ein anderes vorgeschriebenes oder vom Staatsrat erlaubtes Mittel die Resultate bekannt.
 
-<sup>2</sup> Es übermittelt dem Zentralbüro des Bezirks die Wahlprotokolle und die vom zuständigen Departement bereitgestellten Auszählformulare.
+<sup>2</sup> Es übermittelt dem Zentralbüro die Wahlprotokolle und die vom zuständigen Departement bereitgestellten Auszählformulare.
 
 #### Art. 153
 
-**Zentralbüro des Bezirks**
+**Zentralbüro**
 
-<sup>1</sup> Der Präfekt und die Gemeindepräsidenten bilden das Zentralbüro des Bezirks.
+<sup>1</sup> Das Zentralbüro besteht aus einem Präfekten pro Wahlkreis, dem Staatskanzler, der dem Büro vorsteht, sowie einem Vizekanzler und einem Vertreter des zuständigen Departements.
 
-<sup>2</sup> Das Büro trifft sich spätestens am Vormittag des Montags, der der Wahl folgt und schreitet zum Zusammenzug der Resultate, zur Verteilung der Sitze auf die Listen. Es erstellt getrennt das Wahlprotokoll der Abgeordneten und der Ersatzpersonen seines Bezirks.
+<sup>2</sup> Das Büro trifft sich spätestens am Vormittag des Montags, der auf die Wahl folgt, und schreitet zum Zusammenzug der Resultate sowie zur Verteilung der Sitze auf die Wahlkreise und Unterwahlkreise. Es erstellt das Wahlprotokoll getrennt nach Abgeordneten und nach Suppleanten.
 
 #### Art. 154
 
 **Quorum**
 
-Die Listen, die nicht acht Prozent der Summe der Parteistimmen erreicht haben, sind von der Verteilung ausgeschlossen. Die Stimmen der ausgeschlossenen Listen werden jedoch für die Bestimmung des Quotienten berücksichtigt.
+<sup>1</sup> Die Listengruppe, die in mindestens einem Unterwahlkreis acht Prozent erreicht, nimmt an der Oberzuteilung der Sitze teil. Die Stimmen der ausgeschlossenen Listen werden für die Bestimmung des Zuteilungsquotienten nicht berücksichtigt.
 
 #### Art. 155
 
-**Erste Verteilung**
+**Oberzuteilung nach Wahlkreis**
 
-<sup>1</sup> Die Summe der Parteistimmen wird durch die um eins erhöhte Zahl der zu verteilenden Sitze geteilt. Die so erhaltene Zahl wird auf die nächst höhere ganze Zahl erhöht, die dann den Quotienten bildet.
+<sup>1</sup> Die gesamte Stimmenzahl jeder Liste pro Bezirk wird durch die Zahl der im betreffenden Bezirk zu vergebenden Sitze geteilt und auf die nächsthöhere oder -tiefere ganze Zahl gerundet. Das Ergebnis bestimmt die gewichtete Wählerzahl jeder Liste im entsprechenden Unterwahlkreis.
 
-<sup>2</sup> Jede Liste, die das Quorum erreicht hat, hat Anspruch auf so viele Abgeordnete und Ersatzpersonen, als der Quotient in der Summe der Parteistimmen enthalten ist.
+<sup>2</sup> In jeder Listengruppe werden die gewichteten Wählerzahlen der Listen zusammengezählt. Die Summe wird durch den Zuteilungsquotienten geteilt und auf die nächsthöhere oder -tiefere ganze Zahl gerundet. Das Ergebnis bezeichnet die Anzahl Sitze der betreffenden Listengruppe für den entsprechenden Wahlkreis.
+
+<sup>3</sup> Das zuständige Departement legt die Zuteilungsquotienten so fest, dass alle Sitze in jedem Wahlkreis zugeteilt werden.
+
+<sup>4</sup> In den Wahlkreisen, die bloss aus einem einzigen Unterwahlkreis bestehen, ist diese Zuteilung definitiv.
 
 #### Art. 156
 
-**Weitere Verteilungen**
+**Unterzuteilung nach Unterwahlkreis**
 
-<sup>1</sup> Sind noch nicht alle Mandate verteilt, so werden die verbliebenen einzeln und nacheinander nach folgenden Regeln zugeteilt:
+<sup>1</sup> Die Stimmenzahl jeder Liste wird durch den Unterwahlkreis-Divisor und den Listengruppen-Divisor geteilt und auf die nächsthöhere oder -tiefere ganze Zahl gerundet. Das Ergebnis bezeichnet die Anzahl Sitze jeder Liste in den Bezirken.
 
-- a) die Stimmenzahl jeder Liste wird durch die um eins vergrösserte Anzahl der ihr bereits zugeteilten Sitze geteilt;
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
+- f) …
 
-- b) der nächste Sitz wird derjenigen Liste zugeteilt, die den grössten Quotienten aufweist;
+<sup>2</sup> Das zuständige Departement legt den Unterwahlkreis-Divisor und den Listengruppen-Divisor so fest, dass bei einem Vorgehen nach Absatz 1:
 
-- c) haben mehrere Listen aufgrund des gleichen Quotienten den gleichen Anspruch auf den nächsten Sitz, so erhält jene unter diesen Listen den nächsten Sitz, welche bei der Teilung nach Artikel 155 Absatz 2 den grössten Rest erzielte;
-
-- d) falls noch immer mehrere Listen den gleichen Anspruch haben, geht der Sitz an jene dieser Listen, welche die grösste Parteistimmenzahl aufweist;
-
-- e) haben immer noch mehrere Listen den gleichen Anspruch, so erhält jene dieser Listen den nächsten Sitz, bei welcher der Kandidat die grösste Stimmenzahl aufweist;
-
-- f) falls mehrere solche Kandidaten die gleiche Stimmenzahl aufweisen, entscheidet das Los.
-
-<sup>2</sup> Dieses Vorgehen wird so lange wiederholt, bis alle Sitze zugeteilt sind.
+- a) jeder Bezirk die ihm vom Staatsrat zugewiesene Anzahl Sitze erhält und
+- b) jede Listengruppe die ihr gemäss Oberzuteilung zustehende Anzahl Sitze erhält.
 
 #### Art. 157
 
@@ -1564,15 +1583,15 @@ Die Listen, die nicht acht Prozent der Summe der Parteistimmen erreicht haben, s
 
 <sup>2</sup> Bei Stimmengleichheit entscheidet das Los.
 
-<sup>3</sup> Werden einer Liste mehr Sitze zugeteilt als sie Kandidaten aufführt, so werden die verbleibenden Sitze den Ersatzpersonen in der Reihenfolge der erhaltenen Stimmen zugewiesen, gegebenenfalls durch Losziehung im Falle von Stimmengleichheit.
+<sup>3</sup> Werden einer Abgeordneten-Liste mehr Sitze zugeteilt als sie Kandidaten aufführt, so werden die verbleibenden Sitze in der Reihenfolge der erhaltenen Stimmen den Suppleanten zugewiesen, gegebenenfalls durch Losziehung im Falle von Stimmengleichheit.
 
-<sup>4</sup> Gibt es keine Ersatzpersonen mehr, sind die Listenunterzeichner der betreffenden Liste berechtigt, auf Verlangen des Staatsrates eine Liste der Kandidaturen vorzulegen. Diese muss von der Mehrheit der Unterzeichner genehmigt werden. Dasselbe Verfahren gilt, wenn einer Liste der Ersatzpersonen mehr Sitze zugeteilt werden, als sie Kandidaten enthält.
+<sup>4</sup> Gibt es keine Suppleanten mehr, sind die Listenunterzeichner der betreffenden Liste berechtigt, auf Verlangen des Staatsrates eine Kandidatenliste vorzulegen. Diese muss von der Mehrheit der Unterzeichner genehmigt werden. Dasselbe Verfahren gilt, wenn einer Suppleantenliste mehr Sitze zugeteilt werden, als sie Kandidaten enthält.
 
 <sup>5</sup> Die so ermittelten Personen gelten als in stiller Wahl gewählt.
 
-<sup>6</sup> Machen die Unterzeichner der Kandidatenliste keinen Gebrauch von ihrem Recht, findet eine Ergänzungswahl an einem vom Staatsrat festgelegten Datum statt.
+<sup>6</sup> Machen die Unterzeichner der Kandidatenliste keinen Gebrauch von ihrem Recht, findet im betroffenen Unterwahlkreis an einem vom Staatsrat festgelegten Datum eine Ergänzungswahl statt.
 
-### 6. Kapitel: Besondere Fälle, Vakanz, Rücktritt und Verfassungsrat
+### 6.6 Besondere Fälle, Vakanz, Rücktritt und Verfassungsrat
 
 #### Art. 158
 
@@ -1584,13 +1603,21 @@ Die Listen, die nicht acht Prozent der Summe der Parteistimmen erreicht haben, s
 
 <sup>3</sup> Gewählt sind die Personen, welche die grösste Stimmenzahl erhalten haben (relatives Mehr). Im Falle von Stimmengleichheit entscheidet das Los.
 
+<sup>4</sup> …
+
+<sup>4a</sup> Die Stimmen, die diesen Personen zugeteilt werden, werden in der Berechnung der Stimmen für die Oberzuteilung pro Wahlkreis nicht berücksichtigt.
+
 #### Art. 159
 
 **Hinterlegung einer einzigen Liste**
 
 <sup>1</sup> Liegt nur eine einzige hinterlegte Liste vor, sind alle Kandidaten dieser Liste ohne Urnengang gewählt.
 
-<sup>2</sup> Ist die Zahl der Kandidaten dieser Liste kleiner als die Zahl der zu bestellenden Sitze, findet an dem für den ordentlichen Urnengang vorgesehenen Datum eine Ergänzungswahl nach dem Majorzsystem statt. Gewählt sind die Personen mit der grössten Zahl erhaltener Stimmen (relatives Mehr). Im Falle von Stimmengleichheit entscheidet das Los.
+<sup>2</sup> Ist die Zahl der Kandidaten dieser Liste kleiner als die Zahl der zu besetzenden Sitze, findet an dem für den ordentlichen Urnengang vorgesehenen Datum eine Ergänzungswahl nach dem Majorzsystem ohne Listenhinterlegung statt. Gewählt sind die Personen mit der grössten Zahl erhaltener Stimmen (relatives Mehr). Im Falle von Stimmengleichheit entscheidet das Los.
+
+<sup>3</sup> …
+
+<sup>3a</sup> Die zugeteilten Stimmen und Sitze werden in der Berechnung der Stimmen für die Oberzuteilung pro Wahlkreis nicht berücksichtigt.
 
 #### Art. 160
 
@@ -1600,17 +1627,17 @@ Die Listen, die nicht acht Prozent der Summe der Parteistimmen erreicht haben, s
 
 <sup>2</sup> Der Staatsrat erklärt demnach den ersten Nichtgewählten dieser Liste zum Abgeordneten. Im Falle von Stimmengleichheit entscheidet das Los.
 
-<sup>3</sup> Hat die Liste, welcher dieser Sitz zugeteilt wurde, keine Nichtgewählten, so erklärt der Staatsrat die Ersatzperson in der Reihenfolge der erhaltenen Stimmen zum Abgeordneten.
+<sup>3</sup> Hat die Liste, welcher dieser Sitz zugeteilt wurde, keine Nichtgewählten, so erklärt der Staatsrat den Suppleant in der Reihenfolge der erhaltenen Stimmen zum Abgeordneten.
 
-<sup>4</sup> Im Falle von Tod, Wahlunfähigkeit oder Verzichts des ersten Nichtgewählten oder der Ersatzperson, so wird derjenige der unmittelbar nachfolgt, als gewählt erklärt.
+<sup>4</sup> Im Falle von Tod, Wahlunfähigkeit oder Verzichts des ersten Nichtgewählten oder des Suppleanten, so wird derjenige der unmittelbar nachfolgt, als gewählt erklärt.
 
-<sup>5</sup> Gibt es keine zusätzliche Kandidaten oder Ersatzpersonen, ist Artikel 157 Absätze 4 bis 6 anwendbar. Es findet keine Ersatzwahl statt, wenn die Erneuerung des Grossen Rats innert zwölf Monaten stattfindet. Für die Behebung der Vakanz einer Ersatzperson wird keine Ergänzungswahl organisiert.
+<sup>5</sup> Gibt es keine zusätzliche Kandidaten oder Suppleanten, ist Artikel 157 Absätze 4 bis 6 anwendbar. Es findet keine Ersatzwahl statt, wenn die Erneuerung des Grossen Rats innert zwölf Monaten stattfindet. Für die Behebung der Vakanz eines Suppleanten wird keine Ergänzungswahl organisiert.
 
 #### Art. 161
 
 **Rücktritt**
 
-<sup>1</sup> Die Abgeordneten und Ersatzpersonen, die zurücktreten, müssen hierüber den Staatsrat schriftlich in Kenntnis setzen, der die für deren Ersetzung notwendigen Massnahmen gemäss den vorstehenden Bestimmungen trifft.
+<sup>1</sup> Die Abgeordneten und Suppleanten, die zurücktreten, müssen hierüber den Staatsrat schriftlich in Kenntnis setzen, der die für deren Ersetzung notwendigen Massnahmen gemäss den vorstehenden Bestimmungen trifft.
 
 <sup>2</sup> Der Staatsrat nimmt von Amtes wegen die Ersetzung von Abgeordneten vor, die im Sinn von Artikel 10 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten als Demissionäre gelten.
 
@@ -1626,37 +1653,37 @@ Die Listen, die nicht acht Prozent der Summe der Parteistimmen erreicht haben, s
 
 **Wahl des Verfassungsrats**
 
-Die Bestimmungen über die Grossratswahlen gelten für die Wahl der Mitglieder des Verfassungsrats (Art. 103 KV).
+<sup>1</sup> Die Bestimmungen über die Grossratswahlen gelten für die Wahl der Mitglieder des Verfassungsrats (Art. 103 KV).
 
-### 7. Titel: Gemeindewahlen
+## 7 Gemeindewahlen
 
-### 1. Kapitel: Gemeindebehörden
+### 7.1 Gemeindebehörden
 
-### 1. Abschnitt: Urversammlung
+### 7.1.1 Urversammlung
 
 #### Art. 164
 
-<sup>1</sup> Datum der Gemeindewahlen
+**Datum der Gemeindewahlen**
 
-Der Staatsrat legt auf dem Beschlussweg das Datum der Wahlen der Gemeinde- und Burgerbehörden fest, grundsätzlich auf den zweiten Oktobersonntag.
+<sup>1</sup> Der Staatsrat legt auf dem Beschlussweg das Datum der Wahlen der Gemeinde- und Burgerbehörden fest, grundsätzlich auf den zweiten Oktobersonntag.
 
-#### Art. 164bis
+#### Art. 164a
 
-<sup>1</sup> Grundsatz
+**Grundsatz**
 
-In jeder Gemeinde bildet die Versammlung der Bürger, die im Besitze der politischen Rechte sind, die Urversammlung, deren Befugnisse in der Verfassung und in den Gesetzen festgesetzt sind.
+<sup>1</sup> In jeder Gemeinde bildet die Versammlung der Bürger, die im Besitze der politischen Rechte sind, die Urversammlung, deren Befugnisse in der Verfassung und in den Gesetzen festgesetzt sind.
 
-### 2. Abschnitt: Generalrat
+### 7.1.2 Generalrat
 
 #### Art. 165
 
-<sup>1</sup> Einsetzung, Aufhebung
+**Einsetzung - Aufhebung**
 
 <sup>1</sup> Jede Gemeinde mit einer Bevölkerung von mehr als 700 Einwohnern setzt einen Generalrat ein, sobald die Mehrheit der Urversammlung es beschliesst.
 
 <sup>2</sup> Zu diesem Zweck wird die Urversammlung einberufen, sofern mindestens ein Fünftel der Stimmbürger diese schriftlich verlangen. In Gemeinden mit mehr als 5'000 Einwohnern ist dieses Begehren von zehn Prozent der Stimmbürger zu stellen.
 
-<sup>3</sup> Dieses Begehren ist im Jahr der Erneuerung der Gemeindebehörden, spätestens aber am 1. Mai des Wahljahres, dem Gemeinderat zu unterbreiten. Wird das Begehren als rechtmässig befunden, so ist es spätestens am 30. Juni dem Stimmvolk zu unterbreiten.
+<sup>3</sup> Dieses Begehren ist im Jahr der Erneuerung der Gemeindebehörden, spätestens aber am 1. Mai des Wahljahres, dem Gemeinderat zu unterbreiten. Wird das Begehren als rechtmässig befunden, so ist es spätestens am 30. Juni (Urnenabstimmung) dem Stimmvolk zu unterbreiten.
 
 <sup>4</sup> Die Einberufung des Stimmvolkes erfolgt in üblicher Form durch Veröffentlichung mindestens 20 Tage im Voraus.
 
@@ -1666,11 +1693,11 @@ In jeder Gemeinde bildet die Versammlung der Bürger, die im Besitze der politis
 
 **Organisation**
 
-Der Generalrat bestellt sein Büro, das sich aus dem Präsidenten, dem Vizepräsidenten, einem Sekretär und mindestens zwei Stimmenzählern zusammensetzt, selber.
+<sup>1</sup> Der Generalrat bestellt sein Büro, das sich aus dem Präsidenten, dem Vizepräsidenten, einem Sekretär und mindestens zwei Stimmenzählern zusammensetzt, selber.
 
 #### Art. 167
 
-<sup>1</sup> Wahl
+**Wahl**
 
 <sup>1</sup> Der Generalrat wird für eine Amtszeit von vier Jahren gewählt und tritt das Amt am ersten Tag des auf seine Wahl folgenden Jahres an.
 
@@ -1678,7 +1705,7 @@ Der Generalrat bestellt sein Büro, das sich aus dem Präsidenten, dem Vizepräs
 
 #### Art. 168
 
-**Wählbarkeit, Rücktritt**
+**Wählbarkeit - Rücktritt**
 
 <sup>1</sup> Jeder Schweizer Stimmbürger, der das Stimmrecht auf Gemeindeebene besitzt, ist in das Amt eines Generalrats wählbar.
 
@@ -1688,7 +1715,7 @@ Der Generalrat bestellt sein Büro, das sich aus dem Präsidenten, dem Vizepräs
 
 <sup>4</sup> Der Gemeinderat nimmt die Ersetzungen aller Mitglieder des Generalrats vor, die zurückgetreten oder nicht mehr wählbar sind.
 
-### 3. Abschnitt: Gemeinderat
+### 7.1.3 Gemeinderat
 
 #### Art. 169
 
@@ -1700,13 +1727,13 @@ Der Generalrat bestellt sein Büro, das sich aus dem Präsidenten, dem Vizepräs
 
 #### Art. 170
 
-<sup>1</sup> Änderung der Zahl der Ratsmitglieder
+**Änderung der Zahl der Ratsmitglieder**
 
 <sup>1</sup> Jedes Begehren um Änderung der Zahl der Mitglieder des Gemeinderats kann von mindestens einem Fünftel der Stimmbürger, vom Generalrat oder vom betreffenden Gemeinderat selbst gestellt werden. Das Begehren muss die gewünschte Zahl der Ratsmitglieder nennen.
 
 <sup>2</sup> Das Begehren der Stimmbürger muss im Verlaufe des Jahres, in dem die Erneuerung der Gemeindebehörden stattfindet, spätestens jedoch am 1. Mai des Wahljahres schriftlich beim Gemeindepräsidenten eingereicht werden. Das Begehren der Räte muss innert der gleichen Frist gestellt werden.
 
-<sup>3</sup> Werden die Begehren als rechtmässig befunden, so sind sie bis spätestens am 30. Juni dem Stimmvolk vorzulegen.
+<sup>3</sup> Werden die Begehren als rechtmässig befunden, so sind sie bis spätestens am 30. Juni (Urnenabstimmung) dem Stimmvolk vorzulegen.
 
 <sup>4</sup> Die Einberufung der Stimmberechtigten erfolgt in üblicher Form durch Veröffentlichung mindestens 20 Tage im Voraus.
 
@@ -1720,7 +1747,7 @@ Der Generalrat bestellt sein Büro, das sich aus dem Präsidenten, dem Vizepräs
 
 #### Art. 172
 
-<sup>1</sup> Wahl
+**Wahl**
 
 <sup>1</sup> Der Gemeinderat, der alle vier Jahre gewählt wird, tritt sein Amt am ersten Tag des auf seine Wahl folgenden Jahres an.
 
@@ -1730,59 +1757,59 @@ Der Generalrat bestellt sein Büro, das sich aus dem Präsidenten, dem Vizepräs
 
 **Wählbarkeit**
 
-Jeder Schweizer Stimmbürger ist in das Amt eines Gemeinderats wählbar. Der Wohnsitz im Kanton oder in der Gemeinde ist nicht erforderlich.
+<sup>1</sup> Jeder Schweizer Stimmbürger ist in das Amt eines Gemeinderats wählbar. Der Wohnsitz im Kanton oder in der Gemeinde ist nicht erforderlich.
 
 #### Art. 174
 
-**Amtszwang, Rücktritt**
+**Amtszwang - Rücktritt**
 
 <sup>1</sup> Kein in der Gemeinde wohnhafter Stimmbürger kann sich weigern, während vier Jahren als Gemeinderat zu amten, ausser es liegen wirklich festgestellte berechtigte Gründe für eine Ausnahme vor. Ein Gewählter kann sich nicht auf die Anzahl Amtsjahre berufen, um seinen Rücktritt zu begehren, bevor der Zeitraum, für den er gewählt wurde, abgelaufen ist.
 
 <sup>2</sup> Das zuständige Departement kann jederzeit bei Vorliegen von wichtigen und in gehöriger Form festgestellten Gründen den unterbreiteten Rücktritt annehmen.
 
-### 4. Abschnitt: Präsident und Vizepräsident
+### 7.1.4 Präsident und Vizepräsident
 
 #### Art. 175
 
-<sup>1</sup> Wahl
+**Wahl**
 
 <sup>1</sup> Der Präsident und der Vizepräsident der Gemeinde, die alle vier Jahre gewählt werden, treten ihr Amt am ersten Tag des auf ihre Wahl folgenden Jahres an.
 
 <sup>2</sup> Die Wahl des Präsidenten und des Vizepräsidenten der Gemeinde findet nach dem Majorzsystem mit obligatorischer Listenhinterlegung (Art. 199 bis 205) statt.
 
-<sup>3</sup> Aufgehoben
+<sup>3</sup> …
 
 #### Art. 176
 
 **Wählbarkeit**
 
-Wählbar in das Amt eines Präsidenten und eines Vizepräsidenten der Gemeinde sind die Mitglieder des Gemeinderats.
+<sup>1</sup> Wählbar in das Amt eines Präsidenten und eines Vizepräsidenten der Gemeinde sind die Mitglieder des Gemeinderats.
 
 #### Art. 177
 
-**Amtszwang, Rücktritt**
+**Amtszwang - Rücktritt**
 
-Ein Gemeinderat kann sich nicht weigern, das Amt eines Präsidenten oder eines Vizepräsidenten während vier Jahren zu übernehmen. Im Übrigen ist Artikel 174 des vorliegenden Gesetzes anwendbar.
+<sup>1</sup> Ein Gemeinderat kann sich nicht weigern, das Amt eines Präsidenten oder eines Vizepräsidenten während vier Jahren zu übernehmen. Im Übrigen ist Artikel 174 des vorliegenden Gesetzes anwendbar.
 
-### 5. Abschnitt: Richter und Vizerichter
+### 7.1.5 Richter und Vizerichter
 
 #### Art. 178
 
-<sup>1</sup> Wahl
+**Wahl**
 
 <sup>1</sup> Der Richter und der Vizerichter der Gemeinde, die alle vier Jahre gewählt werden, treten ihr Amt am ersten Tag des auf ihre Wahl folgenden Jahres an.
 
-<sup>2</sup> Die Wahl des Richters und des Vizerichters findet nach dem Majorzsystem statt (Art. 199 bis 205) mit obligatorischer Listenhinterlegung.
+<sup>2</sup> Die Wahl des Richters und des Vizerichters findet nach dem Majorzsystem (Art. 199 bis 205) mit obligatorischer Listenhinterlegung statt.
 
 #### Art. 179
 
 **Wählbarkeit**
 
-Jeder Schweizer Stimmbürger ist in das Amt eines Richters oder eines Vizerichters wählbar. Der Wohnsitz im Kanton, im Kreis oder in der Gemeinde ist nicht erforderlich.
+<sup>1</sup> Jeder Schweizer Stimmbürger ist in das Amt eines Richters oder eines Vizerichters wählbar. Der Wohnsitz im Kanton, im Kreis oder in der Gemeinde ist nicht erforderlich.
 
 #### Art. 180
 
-**Amtszwang, Rücktritt**
+**Amtszwang - Rücktritt**
 
 <sup>1</sup> Niemand ist verpflichtet, das Amt eines Richters oder eines Vizerichters der Gemeinde anzunehmen. Bei Annahme führt der Gewählte sein Amt bis zum Ende seiner Amtszeit aus, ausser bei Krankheit oder Wohnortswechsel.
 
@@ -1792,23 +1819,23 @@ Jeder Schweizer Stimmbürger ist in das Amt eines Richters oder eines Vizerichte
 
 **Bildung von interkommunalen Kreisen**
 
-<sup>1</sup> Zwei oder mehrere Gemeinden können mittels einer von der Gemeindelegislative angenommenen und vom Staatsrat genehmigten Vereinbarung einen interkommunalen Gerichtskreis im Sinne von Artikel 62 der Kantonsverfassung bilden. Der Entscheid der Gemeindelegislative hat spätestens zwei Monate vor den Wahlen zu erfolgen.
+<sup>1</sup> Zwei oder mehrere Gemeinden können mittels einer von der Gemeindelegislative angenommenen und vom Staatsrat genehmigten Vereinbarung einen interkommunalen Gerichtskreis im Sinne von Artikel 62 der Kantonsverfassung bilden. Der Entscheid der Gemeindelegislative hat spätestens am 30. Juni des Wahljahres zu erfolgen.
 
 <sup>2</sup> In diesem Fall bildet der Kreis einen einzigen Wahlkreis für die Wahl eines einzigen Richters und eines einzigen Vizerichters.
 
 <sup>3</sup> Die Wahl findet in jeder Gemeinde statt. Die Vereinbarung regelt die Modalitäten des Zusammenzugs der Wahlresultate und deren Veröffentlichung oder der interkommunalen Auszählung. Im Übrigen sind die Artikel 178 bis 180 anwendbar.
 
-### 2. Kapitel: Burgerbehörden
+### 7.2 Burgerbehörden
 
-### 1. Abschnitt: Burgerversammlung
+### 7.2.1 Burgerversammlung
 
 #### Art. 182
 
 **Grundsatz**
 
-In jeder Burgergemeinde bildet die Versammlung der Burger, die das Stimmrecht gemäss Artikel 13 des vorliegenden Gesetzes innehaben, die Burgerversammlung, deren Befugnisse durch die Verfassung und die Gesetze festgesetzt sind.
+<sup>1</sup> In jeder Burgergemeinde bildet die Versammlung der Burger, die das Stimmrecht gemäss Artikel 13 des vorliegenden Gesetzes innehaben, die Burgerversammlung, deren Befugnisse durch die Verfassung und die Gesetze festgesetzt sind.
 
-### 2. Abschnitt: Burgerrat
+### 7.2.2 Burgerrat
 
 #### Art. 183
 
@@ -1816,15 +1843,15 @@ In jeder Burgergemeinde bildet die Versammlung der Burger, die das Stimmrecht ge
 
 <sup>1</sup> In den Gemeinden mit einem getrennten Burgerrat, setzt sich dieser aus mindestens drei und höchstens neun Mitgliedern zusammen.
 
-<sup>2</sup> Der Zahl der Mitglieder des Burgerrats muss immer ungerade sein.
+<sup>2</sup> Die Zahl der Mitglieder des Burgerrats muss immer ungerade sein.
 
 #### Art. 184
 
-<sup>1</sup> Bildung eines getrennten Burgerrats
+**Bildung eines getrennten Burgerrats**
 
-<sup>1</sup> Im Jahr der Erneuerung der Gemeindebehörden, spätestens aber am 1. Mai des Wahljahres, kann ein Fünftel der in Burgerangelegenheiten stimmberechtigten Bürger (Art. 13 Abs. 1 lit. b) auf der Gemeindekanzlei ein Gesuch hinterlegen, mit dem die Bildung eines getrennten Burgerrats verlangt wird. Das Gesuch muss die gewünschte Zahl der Burgerräte nennen.
+<sup>1</sup> Im Jahr der Erneuerung der Gemeindebehörden, spätestens aber am 1. Mai des Wahljahres, kann ein Fünftel der in Burgerangelegenheiten stimmberechtigten Bürger (Art. 13 Abs. 1 Bst. b) auf der Gemeindekanzlei ein Gesuch hinterlegen, mit dem die Bildung eines getrennten Burgerrats verlangt wird. Das Gesuch muss die gewünschte Zahl der Burgerräte nennen.
 
-<sup>2</sup> Die Abstimmung hat spätestens am 30. Juni desselben Jahres stattzufinden und die Mehrheit der Stimmenden entscheidet, ob sie einen getrennten Rat wählen will.
+<sup>2</sup> Die Abstimmung hat spätestens am 30. Juni desselben Jahres stattzufinden und die Mehrheit der Stimmenden entscheidet, ob sie einen getrennten Rat wählen will (Urnenabstimmung).
 
 <sup>3</sup> Ist die Trennung der beiden Räte einmal beschlossen, so bleibt sie bis zum gegenteiligen Beschluss der stimmberechtigten Burger aufrechterhalten. Das Verfahren gemäss den Absätzen 1 und 2 ist anwendbar.
 
@@ -1832,13 +1859,13 @@ In jeder Burgergemeinde bildet die Versammlung der Burger, die das Stimmrecht ge
 
 #### Art. 185
 
-<sup>1</sup> Änderung der Zahl der Ratsmitglieder
+**Änderung der Zahl der Ratsmitglieder**
 
-<sup>1</sup> Jedes Begehren auf Änderung der Zahl der Mitglieder des Burgerrats kann von einem Fünftel der Bürger, die in Burgerangelegenheiten stimmberechtigt sind (Art. 13 Abs. 1 lit. b) oder vom Burgerrat selber gestellt werden. Das Begehren muss die gewünschte Zahl der Ratsmitglieder nennen.
+<sup>1</sup> Jedes Begehren auf Änderung der Zahl der Mitglieder des Burgerrats kann von einem Fünftel der Burger, die in Burgerangelegenheiten stimmberechtigt sind (Art. 13 Abs. 1 lit. b) oder vom Burgerrat selber gestellt werden. Das Begehren muss die gewünschte Zahl der Ratsmitglieder nennen.
 
-<sup>2</sup> Das Begehren der Bürger muss im Verlauf des Jahres der Erneuerung der Burgerbehörden, spätestens aber am 1. Mai des Wahljahres, schriftlich beim Burgerpräsidenten eingereicht werden. Das Begehren des Rats muss innert derselben Frist erfolgen.
+<sup>2</sup> Das Begehren der Burger muss im Verlauf des Jahres der Erneuerung der Burgerbehörden, spätestens aber am 1. Mai des Wahljahres, schriftlich beim Burgerpräsidenten eingereicht werden. Das Begehren des Rats muss innert derselben Frist erfolgen.
 
-<sup>3</sup> Werden die Begehren als rechtmässig erkannt, so sind sie spätestens am 30. Juni desselben Jahres den Burgern zur Genehmigung vorzulegen.
+<sup>3</sup> Werden die Begehren als rechtmässig erkannt, so sind sie spätestens am 30. Juni desselben Jahres den Burgern zur Genehmigung vorzulegen (Urnenabstimmung).
 
 <sup>4</sup> Die Einberufung der stimmberechtigten Burger erfolgt in der ordentlichen Form durch Veröffentlichung mindestens 20 Tage im Voraus.
 
@@ -1846,11 +1873,11 @@ In jeder Burgergemeinde bildet die Versammlung der Burger, die das Stimmrecht ge
 
 **Modalitäten der Stimmabgabe**
 
-Artikel 171 ist anwendbar.
+<sup>1</sup> Artikel 171 ist anwendbar.
 
 #### Art. 187
 
-<sup>1</sup> Wahl
+**Wahl**
 
 <sup>1</sup> Der Burgerrat, der alle vier Jahre gewählt wird, tritt sein Amt am ersten Tag des auf seine Wahl folgenden Jahres an.
 
@@ -1862,51 +1889,51 @@ Artikel 171 ist anwendbar.
 
 **Wählbarkeit**
 
-Alle Burger, ob in der Burgergemeinde wohnhaft oder nicht, sind in das Amt eines Burgerrats wählbar.
+<sup>1</sup> Alle Burger, ob in der Burgergemeinde wohnhaft oder nicht, sind in das Amt eines Burgerrats wählbar.
 
 #### Art. 189
 
-**Amtszwang, Rücktritt**
+**Amtszwang - Rücktritt**
 
 <sup>1</sup> Kein in der Gemeinde wohnhafter Burger kann sich weigern, während vier Jahren als Burgerrat zu amten, ausser es liegen wirklich festgestellte berechtigte Gründe für eine Ausnahme vor. Der Gewählte kann sich nicht auf die Anzahl der Amtsjahre berufen, um seinen Rücktritt zu begehren, bevor der Zeitraum, für den er gewählt wurde, abgelaufen ist.
 
 <sup>2</sup> Das zuständige Departement kann jederzeit bei Vorliegen von wichtigen und in gehöriger Form festgestellten Gründen den unterbreiteten Rücktritt annehmen.
 
-### 3. Abschnitt: Präsident und Vizepräsident
+### 7.2.3 Präsident und Vizepräsident
 
 #### Art. 190
 
-<sup>1</sup> Wahl
+**Wahl**
 
 <sup>1</sup> Der Präsident und der Vizepräsident der Burgergemeinde, die alle vier Jahre gewählt werden, treten ihr Amt am ersten Tag des auf ihre Wahl folgenden Jahres an.
 
 <sup>2</sup> Die Wahl des Präsidenten und des Vizepräsidenten der Gemeinde findet nach dem Majorzsystem mit obligatorischer Listenhinterlegung (Art. 199 bis 205) statt.
 
-<sup>3</sup> Aufgehoben
+<sup>3</sup> …
 
 #### Art. 191
 
 **Wählbarkeit**
 
-Wählbar in das Amt eines Präsidenten und eines Vizepräsidenten der Burgergemeinde sind die Mitglieder des Burgerrats.
+<sup>1</sup> Wählbar in das Amt eines Präsidenten und eines Vizepräsidenten der Burgergemeinde sind die Mitglieder des Burgerrats.
 
 #### Art. 192
 
-**Amtszwang, Rücktritt**
+**Amtszwang - Rücktritt**
 
-Ein Burgerrat kann sich nicht weigern, das Amt eines Präsidenten oder eines Vizepräsidenten der Burgergemeinde während vier Jahren zu übernehmen. Im Übrigen ist Artikel 189 des vorliegenden Gesetzes anwendbar.
+<sup>1</sup> Ein Burgerrat kann sich nicht weigern, das Amt eines Präsidenten oder eines Vizepräsidenten der Burgergemeinde während vier Jahren zu übernehmen. Im Übrigen ist Artikel 189 des vorliegenden Gesetzes anwendbar.
 
-### 3. Kapitel: Wahlsystem
+### 7.3 Wahlsystem
 
-### 1. Abschnitt: Proporzsystem
+### 7.3.1 Proporzsystem
 
 #### Art. 193
 
 **Verweis**
 
-<sup>1</sup> Die Bestimmungen betreffend die Grossratswahl nach dem Proporzsystem gelten analog für die Wahl des Generalrats und der Gemeinde- und Burgerräte in den Gemeinden, wo diese Wahlen nach dem Proporzsystem erfolgen.
+<sup>1</sup> Die Bestimmungen betreffend die Grossratswahl gelten analog für die Wahl des Generalrats und der Gemeinde- und Burgerräte in den Gemeinden, in denen diese Wahlen nach dem Proporzsystem erfolgen.
 
-<sup>2</sup> Insbesondere gelten die Bestimmungen betreffend die Listenunterzeichner und der Vertreter (Art. 142), die mehrfachen Unterschriften und deren Rückzug (Art. 143 und 144), den Listenrückzug (Art. 145), das Verbot der Listenverbindung (Art. 149), die Stimmabgabe (Art. 150), die Gültigkeit der Stimmen (Art. 151), das Quorum (Art. 154), die Sitzverteilung (Art. 155 und 156), das Fehlen von hinterlegten Listen (Art. 158) und die Hinterlegung einer einzigen Liste (Art. 159).
+<sup>2</sup> Insbesondere gelten die Bestimmungen betreffend die Annahme der Kandidaturen (Art. 139), die Listenunterzeichner und die Vertreter (Art. 142), die mehrfachen Unterschriften und deren Rückzug (Art. 143 und 144), den Listenrückzug (Art. 145), das Verbot der Listenverbindung (Art. 149), die Stimmabgabe (Art. 150), die Gültigkeit der Stimmen (Art. 151), das Fehlen von hinterlegten Listen (Art. 158 Abs. 1 bis 3) und die Hinterlegung einer einzigen Liste (Art. 159 Abs. 1 und 2).
 
 <sup>3</sup> Vorbehalten bleiben die Spezialbestimmungen dieses Kapitels.
 
@@ -1914,9 +1941,9 @@ Ein Burgerrat kann sich nicht weigern, das Amt eines Präsidenten oder eines Viz
 
 **Listenhinterlegung**
 
-<sup>1</sup> Die von den politischen Parteien oder Gruppierungen zusammengestellten Listen, müssen in einem verschlossenen Umschlag spätestens am vierten Montag vor dem betreffenden Urnengang um 18 Uhr gegen Empfangsbestätigung auf der Kanzlei des betreffenden Rats hinterlegt werden. Die Übergabe der Listen auf dem Postweg oder mit anderen Mitteln (Fax, elektronisch) ist nicht zulässig.
+<sup>1</sup> Die von den politischen Parteien oder Gruppierungen zusammengestellten Listen müssen spätestens am siebten Montag vor dem betreffenden Urnengang um 12 Uhr gegen Empfangsbestätigung auf der Kanzlei des betreffenden Rats hinterlegt werden. Die Übergabe der Listen auf dem Postweg oder mit anderen Mitteln (Fax, elektronisch) ist nicht zulässig.
 
-<sup>2</sup> Diese Umschläge werden ungeöffnet spätestens am darauf folgenden Tag dem zu einer Sitzung versammelten Rat übermittelt. Die Listen der Kandidaturen werden sodann öffentlich und können auf der betreffenden Gemeindekanzlei eingesehen werden.
+<sup>2</sup> Diese Umschläge werden spätestens am darauf folgenden Tag dem zu einer Sitzung versammelten Rat übermittelt. Die Listen der Kandidaten und der Listenunterzeichner werden sodann öffentlich und können auf der betreffenden Gemeindekanzlei eingesehen werden.
 
 <sup>3</sup> Die Hinterlegung der Liste ist im Namen der politischen Partei oder Gruppierung in den Gemeinden mit mehr als 1'000 Stimmbürgern von mindestens zehn und in Gemeinden von 1'000 und weniger Stimmbürgern von mindestens fünf in der Gemeinde wohnhaften Stimmbürgern zu unterzeichnen. Liegt keine Angabe vor, so gilt der Erstunterzeichner als Parteivertreter.
 
@@ -1924,9 +1951,7 @@ Ein Burgerrat kann sich nicht weigern, das Amt eines Präsidenten oder eines Viz
 
 #### Art. 195
 
-**Erzwungene Kandidaturen**
-
-Ein Bürger kann nicht gezwungen werden, auf einer Liste aufgeführt zu werden. Auf sein Begehren hin wird er von Amtes wegen von dieser Liste gestrichen.
+**…**
 
 #### Art. 196
 
@@ -1944,7 +1969,7 @@ Ein Bürger kann nicht gezwungen werden, auf einer Liste aufgeführt zu werden. 
 
 <sup>2</sup> Der betreffende Rat prüft jeden Wahlvorschlag, streicht die nicht wählbaren Personen, verlangt nötigenfalls die Vervollständigung der Unterzeichnerliste, lässt die von Amtes wegen ausgeschiedenen Personen ersetzen, lässt die Bezeichnung der Kandidaten ergänzen oder berichtigen oder den Namen der Liste abändern, damit diese nicht mit den Listen anderer politischer Parteien oder Gruppierungen verwechselt werden kann.
 
-<sup>3</sup> Diese Änderungen müssen bis zum vierten Donnerstag vor der Wahl um 18 Uhr vorgenommen werden.
+<sup>3</sup> Diese Änderungen müssen bis zum siebten Donnerstag vor der Wahl um 12 Uhr vorgenommen werden.
 
 <sup>4</sup> Im Falle von Meinungsverschiedenheiten bezüglich des Eigentums an der Benennung oder am Titel der Liste entscheidet der Staatsrat auf Vormeinung des übergeordneten Organs der beteiligten politischen Partei.
 
@@ -1952,15 +1977,58 @@ Ein Bürger kann nicht gezwungen werden, auf einer Liste aufgeführt zu werden. 
 
 **Anschlag**
 
-<sup>1</sup> Der betreffende Ratspräsident lässt die rechtzeitig hinterlegten Listen der Kandidaturen am dritten Montag vor der Wahl im öffentlichen Anschlagkasten anschlagen.
+<sup>1</sup> Der betreffende Ratspräsident lässt die rechtzeitig hinterlegten Kandidatenlisten am sechsten Montag vor der Wahl im öffentlichen Anschlagkasten anschlagen.
 
 <sup>2</sup> Diese Listen müssen oben eine Ordnungsnummer, die der Reihenfolge ihrer Hinterlegung entspricht, tragen.
 
-### 2. Abschnitt: Majorzsystem
+#### Art. 198a
+
+**Quorum**
+
+<sup>1</sup> Die Listen, die nicht acht Prozent der Summe der Parteistimmen erreicht haben, sind von der Verteilung ausgeschlossen. Die Stimmen der ausgeschlossenen Listen werden jedoch für die Bestimmung des Quotienten berücksichtigt.
+
+#### Art. 198b
+
+**Erste Verteilung**
+
+<sup>1</sup> Die Summe der Parteistimmen wird durch die um eins erhöhte Zahl der zu verteilenden Sitze geteilt. Die so erhaltene Zahl wird auf die nächsthöhere ganze Zahl erhöht, die dann den Quotienten bildet.
+
+<sup>2</sup> Jede Liste, die das Quorum erreicht hat, hat Anspruch auf so viele Gewählte als der Quotient in der Summe der Parteistimmen enthalten ist.
+
+#### Art. 198c
+
+**Weitere Verteilungen**
+
+<sup>1</sup> Sind noch nicht alle Sitze verteilt, so werden die verbliebenen einzeln und nacheinander nach folgenden Regeln zugeteilt:
+
+- a) die Stimmenzahl jeder Liste wird durch die um eins vergrösserte Anzahl der ihr bereits zugeteilten Sitze geteilt;
+- b) der nächste Sitz wird derjenigen Liste zugeteilt, die den grössten Quotienten aufweist;
+- c) haben mehrere Listen aufgrund des gleichen Quotienten den gleichen Anspruch auf den nächsten Sitz, so erhält jene unter diesen Listen den nächsten Sitz, welche bei der Teilung nach Artikel 198b Absatz 2 den grössten Rest erzielte;
+- d) falls noch immer mehrere Listen den gleichen Anspruch haben, geht der Sitz an jene dieser Listen, welche die grösste Parteistimmenzahl aufweist;
+- e) haben immer noch mehrere Listen den gleichen Anspruch, so erhält jene dieser Listen den nächsten Sitz, bei welcher der Kandidat die grösste Stimmenzahl aufweist;
+- f) falls mehrere solche Kandidaten die gleiche Stimmenzahl aufweisen, entscheidet das Los.
+
+<sup>2</sup> Dieses Vorgehen wird so lange wiederholt, bis alle Sitze zugeteilt sind.
+
+#### Art. 198d
+
+**Ermittlung der Gewählten**
+
+<sup>1</sup> Von jeder Liste werden bis zur Zahl der erzielten Sitze die Kandidaten als gewählt erklärt, die am meisten Stimmen erhalten haben.
+
+<sup>2</sup> Bei Stimmengleichheit entscheidet das Los.
+
+<sup>3</sup> Werden einer Liste mehr Sitze zugeteilt als sie Kandidaten enthält, so sind die Listenunterzeichner der betreffenden Liste berechtigt, eine Kandidatenliste vorzulegen. Diese muss von der Mehrheit der Unterzeichner genehmigt werden.
+
+<sup>4</sup> Die so ermittelten Personen gelten als in stiller Wahl gewählt.
+
+<sup>5</sup> Machen die Unterzeichner der Kandidatenliste keinen Gebrauch von ihrem Recht, findet eine Ergänzungswahl an einem vom Gemeinderat festgelegten Datum statt.
+
+### 7.3.2 Majorzsystem
 
 #### Art. 199
 
-<sup>1</sup> Berechnung des Mehrs
+**Berechnung des Mehrs**
 
 <sup>1</sup> Für die Wahl der Gemeinde- und Burgerräte, der Präsidenten und Vizepräsidenten wie auch der Richter und Vizerichter nach dem Majorzsystem gilt das absolute Mehr im ersten Wahlgang und das relative Mehr im zweiten Wahlgang.
 
@@ -1972,17 +2040,14 @@ Ein Bürger kann nicht gezwungen werden, auf einer Liste aufgeführt zu werden. 
 
 #### Art. 200
 
-<sup>1,2</sup> Kandidatenlisten
+**Kandidatenlisten**
 
 <sup>1</sup> Die Wahl nach dem Majorzsystem findet mit amtlicher Listenhinterlegung statt. Die Listen dürfen nicht mehr Kandidaten aufweisen als Mitglieder zu wählen sind.
 
-<sup>2</sup> Im ersten Wahlgang müssen die Kandidatenlisten, mit oder ohne Bezeichnung, bei der Gemeindekanzlei spätestens bis zu folgenden Terminen hinterlegt werden:
+<sup>2</sup> Im ersten Wahlgang müssen die Kandidatenlisten, mit oder ohne Bezeichnung, spätestens bis zu folgenden Terminen bei der Gemeindekanzlei hinterlegt werden:
 
-- a) für die Gemeinderats- und Burgerratswahlen, die Wahl des Gemeinderichters- und des Vizerichters: spätestens am vierten Montag vor den Wahlen um 18 Uhr;
-
+- a) für die Gemeinderats- und Burgerratswahlen, die Wahl des Gemeinderichters- und des Vizerichters: spätestens am siebten Montag vor den Wahlen um 12 Uhr;
 - b) für die Präsidenten- und Vizepräsidentenwahlen: am Dienstag, der auf die Gemeinderats- bzw. Burgerratswahlen folgt, spätestens um 12 Uhr.
-
-Die hinterlegten Listen müssen von den Kandidaten vorgängig unterzeichnet sein und spätestens am darauf folgenden Tag im öffentlichen Anschlagkasten publiziert werden.
 
 <sup>3</sup> Im zweiten Wahlgang müssen die vorgängig von den Kandidaten unterzeichneten Kandidatenlisten, mit oder ohne Bezeichnung, spätestens am Dienstag, der dem ersten Wahlgang folgt, um 18 Uhr, auf der Gemeindekanzlei hinterlegt sein. Die hinterlegten Listen müssen spätestens am Tag darauf im öffentlichen Anschlagkasten angeschlagen werden. Neue Kandidaten dürfen vorgeschlagen werden.
 
@@ -2006,13 +2071,13 @@ Die hinterlegten Listen müssen von den Kandidaten vorgängig unterzeichnet sein
 
 **Anzahl Stimmen**
 
-Der Stimmbürger verfügt über so viele Stimmen wie es Sitze zu besetzen hat. Alle an wählbare Personen abgegebenen Stimmen werden berücksichtigt.
+<sup>1</sup> Der Stimmbürger verfügt über so viele Stimmen wie es Sitze zu besetzen hat. Alle an wählbare Personen abgegebenen Stimmen werden berücksichtigt.
 
 #### Art. 203
 
 **Bereinigung der Stimmen**
 
-<sup>1</sup> Trägt ein Wahlzettel mehr Namen als es zu wählende Kandidaten hat, so streicht das Wahlbüro die überzähligen, indem es mit den Namen auf der Rückseite des Wahlzettels beginnt. Die Streichung erfolgt von unten nach oben.
+<sup>1</sup> Trägt ein Wahlzettel mehr Namen als es zu wählende Kandidaten gibt, so streicht das Auszählbüro die Überzähligen, indem es mit den Namen auf der Rückseite des Wahlzettels beginnt. Die Streichung erfolgt von unten nach oben.
 
 <sup>2</sup> Enthält der Wahlzettel mehrere parallele Kolonnen, beginnt das Büro mit der Streichung des letzten Namens der Kolonne rechts und fährt in aufsteigender Richtung in dieser Kolonne weiter; falls notwendig, macht das Büro in gleicher Weise weiter für die folgenden Kolonnen und zwar von rechts nach links. Die auf der Seite der senkrechten Kolonnen eingetragenen Namen werden an erster Stelle ebenfalls von rechts beginnend gestrichen.
 
@@ -2034,11 +2099,11 @@ Der Stimmbürger verfügt über so viele Stimmen wie es Sitze zu besetzen hat. A
 
 <sup>2</sup> Ist die Anzahl Kandidaten kleiner als die Anzahl der zu besetzenden Sitze, so erfolgt eine Ergänzungswahl nach dem Majorzsystem ohne Listenhinterlegung an dem für den ordentlichen Wahlgang vorgesehenen Datum. Gewählt sind die Personen, welche am meisten Stimmen (relatives Mehr) erhalten haben. Im Falle von Stimmengleichheit entscheidet das Los.
 
-### 3. Abschnitt: Wechsel des Wahlsystems
+### 7.3.3 Wechsel des Wahlsystems
 
 #### Art. 206
 
-<sup>1</sup> Begehren auf Einführung des Proporzsystems
+**Wechsel des Systems**
 
 <sup>1</sup> In den Gemeinden mit weniger als 1'500 Einwohnern beziehungsweise wohnsässigen Burgern kann ein Fünftel der Stimmberechtigten einen Wechsel des Wahlsystems verlangen.
 
@@ -2046,13 +2111,9 @@ Der Stimmbürger verfügt über so viele Stimmen wie es Sitze zu besetzen hat. A
 
 #### Art. 207
 
-<sup>1</sup>
-
-Aufgehoben
-
 #### Art. 208
 
-<sup>1</sup> Verfahren
+**Verfahren**
 
 <sup>1</sup> Das Begehren muss in der Form der Petition, die mindestens den Namen eines Vertreters und eines Stellvertreters beinhaltet, im Jahr der Erneuerung der Gemeindebehörden, spätestens aber am 1. Mai des Wahljahres, gegen Empfangsbescheinigung bei der Gemeinde- oder Burgerkanzlei hinterlegt sein.
 
@@ -2060,15 +2121,15 @@ Aufgehoben
 
 <sup>3</sup> Das Begehren wird dem Gemeinde- oder Burgerrat unterbreitet, der beschliesst, ob die vom Gesetz geforderten Voraussetzungen erfüllt werden, und teilt sogleich seinen Beschluss sowohl dem Vertreter der Petition wie auch den Stimmbürgern mittels Anschlag am öffentlichen Anschlagkasten mit.
 
-#### Art. 208bis
+#### Art. 208a
 
-<sup>1</sup> Entscheid
+**Entscheid**
 
 <sup>1</sup> Wird das Begehren um Wechsel des Wahlsystems vom Gemeinderat als rechtmässig befunden, befragt dieser die Stimmbürger (Urnenabstimmung) spätestens am 30. Juni.
 
 <sup>2</sup> Gemäss Artikel 87 der Kantonsverfassung ist der Systemwechsel angenommen, wenn dies die Versammlung mit der Mehrheit der gültigen Stimmzettel beschliesst.
 
-### 4. Kapitel: Besondere Fälle, Vakanz und Rücktritt
+### 7.4 Besondere Fälle, Vakanz und Rücktritt
 
 #### Art. 209
 
@@ -2082,7 +2143,7 @@ Aufgehoben
 
 **Ergänzungswahlen beim Majorzsystem**
 
-<sup>1</sup> Den Ergänzungswahlen beim Majorzsystem geht die obligatorische Hinterlegung der Liste der Kandidaturen bei der Gemeindekanzlei spätestens am zweiten Dienstag, welcher der Wahl vorausgeht, um 18 Uhr, voraus.
+<sup>1</sup> Den Ergänzungswahlen im Majorzsystem geht die obligatorische Hinterlegung der Kandidatenliste bei der Gemeindekanzlei spätestens am dritten Dienstag vor der Wahl um 12 Uhr voraus.
 
 <sup>2</sup> Im Übrigen finden die Bestimmungen über die Wahl im Majorzsystem Anwendung.
 
@@ -2096,11 +2157,9 @@ Aufgehoben
 
 <sup>3</sup> Machen die Unterzeichner keinen Gebrauch von ihrem Recht innert der auferlegten Frist oder falls eine Mehrheit von ihnen sich auf eine Kandidatur nicht einigen kann, so findet eine Ergänzungswahl gemäss Artikel 210 statt.
 
-### 8. Titel: Vorbereitungshandlungen, Beschwerdeverfahren
+## 8 Vorbereitungshandlungen, Beschwerdeverfahren und Strafbestimmungen
 
-und Strafbestimmungen
-
-### 1. Kapitel: Vorbereitungshandlungen
+### 8.1 Vorbereitungshandlungen
 
 #### Art. 212
 
@@ -2114,19 +2173,19 @@ und Strafbestimmungen
 
 **Sicherungsmassnahmen**
 
-Der Staatsrat trifft die von den Umständen gebotenen angemessenen und sichernden Massnahmen, um die festgestellten Unregelmässigkeiten oder Mängel wenn möglich vor Schluss des Urnengangs zu beseitigen.
+<sup>1</sup> Der Staatsrat trifft die von den Umständen gebotenen angemessenen und sichernden Massnahmen, um die festgestellten Unregelmässigkeiten oder Mängel wenn möglich vor Schluss des Urnengangs zu beseitigen.
 
-### 2. Kapitel: Verfahren und Rechtsmittel
+### 8.2 Verfahren und Rechtsmittel
 
 #### Art. 214
 
 **Beschwerdeberechtigung**
 
-Alle Personen, die im Besitz der politischen Rechte sind, und alle körperschaftlich organisierten politischen Parteien sind in dem sie betreffenden Wahlkreis beschwerdeberechtigt.
+<sup>1</sup> Alle Personen, die im Besitz der politischen Rechte sind, und alle körperschaftlich organisierten politischen Parteien sind in dem sie betreffenden Wahlkreis beschwerdeberechtigt.
 
 #### Art. 215
 
-Beschwerde gegen eine kantonale und kommunale Wahl oder Abstimmung
+**Beschwerde gegen eine kantonale und kommunale Wahl oder Abstimmung**
 
 <sup>1</sup> Eine Beschwerde kann eingereicht werden beim Staatsrat gegen die Gesetzmässigkeit einer kommunalen Wahl oder Abstimmung und beim Grossen Rat über die Staatskanzlei gegen die Gesetzmässigkeit einer kantonalen Wahl oder Abstimmung.
 
@@ -2138,7 +2197,7 @@ Beschwerde gegen eine kantonale und kommunale Wahl oder Abstimmung
 
 **Beschwerde an den Staatsrat**
 
-Im Falle von Beschwerden gegen die Gemeinde- oder Burgerwahlen entscheidet der Staatsrat vor dem folgenden 1. Januar, ob die bisherigen oder die neuen Behörden bis zum Fällen des Entscheids amten müssen. Der Entscheid in der Sache hat grundsätzlich innert vier Monaten zu erfolgen.
+<sup>1</sup> Im Falle von Beschwerden gegen die Gemeinde- oder Burgerwahlen entscheidet der Staatsrat vor dem folgenden 1. Januar, ob die bisherigen oder die neuen Behörden bis zum Fällen des Entscheids amten müssen. Der Entscheid in der Sache hat grundsätzlich innert vier Monaten zu erfolgen.
 
 #### Art. 217
 
@@ -2154,77 +2213,99 @@ Im Falle von Beschwerden gegen die Gemeinde- oder Burgerwahlen entscheidet der S
 
 **Verweis**
 
-Unter Vorbehalt der Spezialbestimmungen des vorliegenden Gesetzes sind die kantonalen Bestimmungen über das Verwaltungsverfahren und die Verwaltungsrechtspflege anwendbar.
+<sup>1</sup> Unter Vorbehalt der Spezialbestimmungen des vorliegenden Gesetzes sind die kantonalen Bestimmungen über das Verwaltungsverfahren und die Verwaltungsrechtspflege anwendbar.
 
 #### Art. 219
 
 **Beschwerde in eidgenössischen Angelegenheiten**
 
-Die Beschwerden gegen die eidgenössischen Wahlen und Abstimmungen werden vom Bundesgesetz über die politischen Rechte geregelt.
+<sup>1</sup> Die Beschwerden gegen die eidgenössischen Wahlen und Abstimmungen werden vom Bundesgesetz über die politischen Rechte geregelt.
 
-### 3. Kapitel: Strafbestimmungen
+### 8.3 Strafbestimmungen
 
 #### Art. 220
 
 **Strafbare Handlungen**
 
-Die Vergehen gegen den Volkswillen werden nach Massgabe des Schweizerischen Strafgesetzbuches geahndet (Art. 279 bis 283).
+<sup>1</sup> Die Vergehen gegen den Volkswillen werden nach Massgabe des Schweizerischen Strafgesetzbuches geahndet (Art. 279 bis 283).
 
 #### Art. 221
 
 **Disziplinarische Massnahmen**
 
-<sup>1</sup> Der Staatsrat kann den Mitgliedern der kommunalen Behörden, den kommunalen Beamten und Angestellten sowie den Mitgliedern der Wahlbüros, welche die ihnen vom vorliegenden Gesetz und seinen Ausführungsbestimmungen auferlegten Amtspflichten vorsätzlich oder grobfahrlässig verletzen, eine Busse bis höchstens 5'000 Franken erteilen.
+<sup>1</sup> Der Staatsrat kann den Mitgliedern der kommunalen Behörden, den kommunalen Beamten und Angestellten sowie den Mitgliedern der Wahl- und Auszählbüros, welche die ihnen vom vorliegenden Gesetz und seinen Ausführungsbestimmungen auferlegten Amtspflichten vorsätzlich oder grobfahrlässig verletzen, eine Busse bis höchstens 5'000 Franken auferlegen.
 
 <sup>2</sup> Die administrativen Strafverfahren werden vom Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege sowie von der Strafprozessordnung geregelt.
 
-### 9. Titel: Schluss- und Übergangsbestimmungen
+## 8a Transparenz bei der Finanzierung des politischen Lebens
+
+#### Art. 221a
+
+**Politische Parteien**
+
+<sup>1</sup> Jede politische Partei, die im Grossen Rat vertreten ist, hält zur Verfügung:
+
+- a) ihre Jahresrechnung und die Liste ihrer Spender, vor dem 30. Juni;
+- b) ihre Kampagnenrechnung und die Liste ihrer Spender, innert 180 Tagen nach dem Urnengang.
+
+<sup>2</sup> Jede Liste der Spender muss enthalten:
+
+- a) die Firma der juristischen Personen, die einen Gesamtbetrag von mehr als 5’000 Franken zu Gunsten der Partei gespendet haben, unter Angabe jedes gespendeten Betrags;
+- b) Name und Vorname der natürlichen Personen, die einen Gesamtbetrag von mehr als 5’000 Franken zu Gunsten der Partei gespendet haben, unter Angabe jedes gespendeten Betrags.
+
+<sup>3</sup> Als Spenden im Sinne der vorliegenden Bestimmung gelten Geldzuwendungen und Naturalleistungen. Freiwilligenarbeit wird nicht berücksichtigt.
+
+<sup>4</sup> Spenden, die von Spendern stammen, die nicht identifiziert werden können, sind verboten. Sie müssen zurückbezahlt oder einer juristischen Person, die einen gemeinnützigen Zweck verfolgt, übergeben werden. In diesen Fällen muss ein entsprechender Beleg erstellt werden.
+
+<sup>5</sup> Die Dokumente können während 60 Tagen eingesehen werden.
+
+#### Art. 221b
+
+**Kampagnenkomitees und Organisationen**
+
+<sup>1</sup> Jedes Kampagnenkomitee oder jede Organisation, die massgeblich an Wahl- oder Abstimmungskampagnen auf kantonaler Ebene beteiligt ist, hält innert 180 Tagen nach dem Urnengang seine/ihre Kampagnenrechnung und die Liste seiner/ihrer Spender zur Verfügung.
+
+<sup>2</sup> Artikel 221a Absätze 2 bis 5 gilt sinngemäss.
+
+<sup>3</sup> Leistungen, die von Personal erbracht werden, das vom Kampagnenkomitee oder von der Organisation angestellt wurde, müssen in der Rechnung beziffert werden.
+
+<sup>4</sup> Für Initiativen und Referenden beginnt der Referenzzeitraum mit der Eröffnung der Frist für die Unterschriftensammlung; in den anderen Fällen beruht die Zählung auf den 12 Monaten vor der Abstimmung.
+
+#### Art. 221c
+
+**Kandidaten für kantonale Wahlen**
+
+<sup>1</sup> Jeder Kandidat für die Staatsrats- oder Ständeratswahl hält innert 180 Tagen nach dem Wahlgang die Liste seiner Spender zur Verfügung.
+
+<sup>2</sup> Artikel 221a Absätze 2 bis 5 gilt sinngemäss.
+
+#### Art. 221d
+
+**Zugang zu Informationen**
+
+<sup>1</sup> Die gemäss den Artikeln 221a bis 221c zur Verfügung zu haltenden Informationen müssen innert 10 Tagen jedem Interessierten mitgeteilt werden, der ein schriftliches Gesuch an die in diesen Bestimmungen genannten Personen stellt. Leisten diese Personen dem Gesuch nicht innert nützlicher Frist Folge, kann sich der Interessierte an den Datenschutz- und Öffentlichkeitsbeauftragten wenden, der ein Schlichtungsverfahren gemäss GIDA einleitet.
+
+#### Art. 221e
+
+**Bussen**
+
+<sup>1</sup> Auf Gesuch des Datenschutz- und Öffentlichkeitsbeauftragten hin kann der Staatsrat den in den Artikeln 221a, 221b und 221c genannten Personen oder deren Mitgliedern, die sich weigern, Interessierten die Rechnungen oder die Liste der Spender zuzustellen, oder die falsche oder unvollständige Informationen zustellen, eine Busse bis zu maximal 10’000 Franken auferlegen.
+
+## 9 Schluss- und Übergangsbestimmungen
 
 #### Art. 222
 
 **Änderung geltenden Rechts**
 
-<sup>1</sup> Das Ausführungsgesetz betreffend das Bundesgesetz über die politischen Rechte wird wie folgt geändert:
+<sup>1</sup> Das Ausführungsgesetz betreffend das Bundesgesetz über die politischen Rechte wird geändert.
 
-#### Art. 2
-
-**Briefliche Stimmabgabe**
-
-<sup>1</sup> Anstatt seinen Stimmzettel persönlich in die Urne zu legen, kann der Stimmbürger ab Erhalt des Stimmmaterials brieflich stimmen.
-
-<sup>2</sup> Die Modalitäten der brieflichen Stimmabgabe werden durch die kantonale Gesetzgebung geregelt.
-
-#### Art. 4
-
-**Versand der Stimmzettel und der Abstimmungsvorlagen**
-
-Die Gemeinden lassen jedem Stimmbürger der Gemeinde frühestens vier Wochen vor dem Abstimmungstag, spätestens aber drei Wochen vor diesem Tag, die Dokumente, die es ihm erlauben, sein Stimmrecht gültig auszuüben (ein Stimmzettel; ein Übermittlungsumschlag; ein Stimmkuvert; gegebenenfalls den Stimmausweis) sowie die Abstimmungsvorlagen und die dazugehörigen Erläuterungen zukommen.
-
-#### Art. 5
-
-**Öffnung der Büros**
-
-<sup>1</sup> An den Abstimmungstagen (Samstag und Sonntag) sind die Stimmbüros mindestens während einer Stunde geöffnet.
-
-<sup>2</sup> Am Sonntag ist der Urnengang spätestens um zwölf Uhr zu schliessen.
-
-<sup>3</sup> Die Gesamtöffnungszeit des Hauptbüros beträgt in den Gemeinden mit mehr als 4'000 Stimmbürgern mindestens drei Stunden.
-
-<sup>4</sup> Die Anzeige der Einberufung des Stimmvolks erwähnt die Tage und die Öffnungszeiten der Stimmbüros.
-
-<sup>2</sup> Das Gemeindegesetz wird wie folgt geändert:
-
-#### Art. 52
-
-**Getrennter Burgerrat**
-
-Im Jahre der Erneuerung der Gemeindebehörden, spätestens aber sechs Monate vor dem Datum der Wahlen, kann ein Fünftel der Mitglieder der Burgerversammlung bei der Gemeindekanzlei ein Begehren einreichen, welches die Bildung eines getrennten Burgerrates verlangt. Der Gemeinderat lässt die Stimmliste der Burger erstellen und bereitet gemäss der Gesetzgebung über die Wahlen und Abstimmungen die Abstimmung und die darauf folgenden Wahlen vor.
+<sup>2</sup> Das Gemeindegesetz wird geändert.
 
 #### Art. 223
 
 **Aufhebung geltenden Rechts**
 
-Das Gesetz über die Wahlen und Abstimmungen vom 17. Mai 1972 und die Verordnung zur Festsetzung der Anwendungsmodalitäten der brieflichen Stimmabgabe vom 17. April 1996 sind aufgehoben.
+<sup>1</sup> Das Gesetz über die Wahlen und Abstimmungen vom 17. Mai 1972 und die Verordnung zur Festsetzung der Anwendungsmodalitäten der brieflichen Stimmabgabe vom 17. April 1996 sind aufgehoben.
 
 #### Art. 224
 
@@ -2246,19 +2327,4 @@ Das Gesetz über die Wahlen und Abstimmungen vom 17. Mai 1972 und die Verordnung
 
 <sup>4</sup> Der Staatsrat setzt das Datum des Inkrafttretens fest.
 
-So angenommen in zweiter Lesung im Grossen Rat in Sitten, den 13. Mai 2004.
-
-Der Präsident des Grossen Rates: Patrice Clivaz Der Chef des Parlamentsdienstes: Claude Bumann
-
-Durch die Bundeskanzlei genehmigt am 21. Oktober 2004
-
-Die Änderungen vom 12. Dezember 2007 wurden von der Bundeskanzlei am 20. März 2008 genehmigt
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-Gesetz über die politischen Rechte (GpolR) GS/VS 2004, 74 01.01.2005 vom 13. Mai 2004
-
-## Weitere Fussnoten
-
-- [1] Änderung vom 12. Dezember 2007 Abl. Nr. 51/2007 01.04.2008
-- [2] Änderung vom 8. Mai 2008 Abl. Nr. 20/2008 01.09.2008 Änderung durch das Dekret über den Abl. Nr. 15/2016 08.04.2016 Wahlmodus des Grossen Rates vom 9. März 2016 (SGS/VS 160.101)
+CSW BO/Abl. 29/2004, 52/2004
