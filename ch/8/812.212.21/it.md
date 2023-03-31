@@ -4,11 +4,11 @@ title: Ordinanza del 21 settembre 2018 sui medicamenti (OM)
 short: OM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: it
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230101/it"
 
 (OM)
 
-del 21 settembre 2018 (Stato 1° gennaio 2023)
+del 21 settembre 2018 (Stato 1° aprile 2023) (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -769,11 +769,14 @@ Tale autorizzazione può essere rilasciata, oltre che agli operatori sanitari, a
 - b. igienisti dentali diplomati SSS;
 - c. chiropratici diplomati;
 - d. soccorritori diplomati SSS;
-- e. persone di cui all’articolo 49.
+- e. persone di cui all’articolo 49;
+- f.[^52-1] *Bachelor of Science* SUP in optometria.
 
 <sup>3</sup> Il Cantone stabilisce i medicamenti che possono essere utilizzati dalle persone menzionate nel capoverso 2.
 
 <sup>4</sup> Esso provvede a una vigilanza regolare da parte delle autorità cantonali o di un operatore sanitario idoneo.
+
+[^52-1]: Introdotta dal n. I dell’O del 25 gen. 2023, in vigore dal 1° apr. 2023 ([RU 2023 41](https://fedlex.data.admin.ch/eli/oc/2023/41)).
 
 #### Art. 53
 

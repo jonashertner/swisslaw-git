@@ -4,11 +4,11 @@ title: Ordonnance du 21 septembre 2018 sur les médicaments (OMéd)
 short: OMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: fr
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230101/fr"
 
 (OMéd)
 
-du 21 septembre 2018 (État le 1<sup>er</sup> janvier 2023) janvier 2023)
+du 21 septembre 2018 (État le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
@@ -768,11 +768,14 @@ Outre les personnes exerçant une profession médicale, les personnes des catég
 - b. les titulaires d’un diplôme d’hygiéniste dentaire ES;
 - c. les chiropraticiens diplômés;
 - d. les titulaires d’un diplôme d’ambulancier ES;
-- e. les personnes visées à l’art. 49.
+- e. les personnes visées à l’art. 49;
+- f.[^52-1] les titulaires d’un *Bachelor of science* (HES) d’optométriste.
 
 <sup>3</sup> Le canton précise les médicaments que les personnes visées à l’al. 2 peuvent administrer.
 
 <sup>4</sup> Il veille à ce qu’une surveillance régulière soit assurée par l’autorité cantonale ou une personne appropriée exerçant une profession médicale.
+
+[^52-1]: Introduite par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 41](https://fedlex.data.admin.ch/eli/oc/2023/41)).
 
 #### Art. 53
 
@@ -1320,7 +1323,7 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Mise à jour par le ch. I de l’O du DFI du 7 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 fév. 2020 ([RO 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Mise à jour par le ch. I de l’O du DFI du 7 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)).
 [^annex2-lvlu1-1]: Ce texte n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). ll peut être consulté sur le site Internet de l’OFSP sous: www.bag.admin.ch. La version du 1<sup>er</sup> avril 2020 est applicable.
 
 Annexe 3[^t-3]

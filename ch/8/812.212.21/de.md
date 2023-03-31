@@ -4,11 +4,11 @@ title: "Verordnung vom 21. September 2018 über die Arzneimittel (Arzneimittelve
 short: VAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: de
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230101/de"
 
 (Arzneimittelverordnung, VAM)
 
-vom 21. September 2018 (Stand am 1. Januar 2023)
+vom 21. September 2018 (Stand am 1. April 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -769,11 +769,14 @@ Eine solche Bewilligung kann neben Medizinalpersonen auch Personen folgender Ber
 - b. diplomierten Dentalhygienikerinnen HF und Dentalhygienikern HF;
 - c. diplomierten Chiropraktorinnen und Chiropraktoren;
 - d. diplomierten Rettungssanitäterinnen HF und -sanitätern HF;
-- e. Personen nach Artikel 49.
+- e. Personen nach Artikel 49;
+- f.[^52-1] Bachelor of Science in Optometrie FH.
 
 <sup>3</sup> Der Kanton bestimmt die Arzneimittel, die durch die in Absatz 2 genannten Personen angewendet werden dürfen.
 
 <sup>4</sup> Er sorgt für eine regelmässige Aufsicht durch die kantonale Behörde oder durcheine geeignete Medizinalperson.
+
+[^52-1]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 1. April 2023 ([AS 2023 41](https://fedlex.data.admin.ch/eli/oc/2023/41)).
 
 #### Art. 53
 
