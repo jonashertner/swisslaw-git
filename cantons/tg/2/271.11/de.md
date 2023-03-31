@@ -4,13 +4,13 @@ number: "271.11"
 title: Verordnung des Obergerichts über die Zivil- und Strafrechtspflege
 short: ZSRV
 language: de
-version: 2016-06-01
-valid_until: 2023-03-31
-version_adopted: 2016-04-21
+version: 2023-04-01
+valid_until: 2025-09-30
+version_adopted: 2023-03-21
 adopted: 2010-05-27
 in_force: 2011-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/271.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2092/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2639/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ ZSRV
 
 (ZSRV)
 
-vom 27.05.2010 (Stand 01.06.2016)
+vom 27.05.2010 (Stand 01.04.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -29,7 +29,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Begriffe**
 
-<sup>1</sup> Als Schlichtungsbehörde im Sinn dieser Verordnung gelten die Schlichtungsbehörden in Mietsachen und die Schlichtungsbehörde gemäss Gleichstellungsgesetz[^1-1]. Gerichte sind das Obergericht, das Zwangsmassnahmengericht und die Bezirksgerichte.
+<sup>1</sup> Als Schlichtungsbehörde im Sinn dieser Verordnung gelten die Schlichtungsbehörden in Miet- und Pachtsachen und die Schlichtungsbehörde gemäss Gleichstellungsgesetz[^1-1]. Gerichte sind das Obergericht, das Zwangsmassnahmengericht und die Bezirksgerichte.
 
 [^1-1]: SR [151.1](https://db.clex.ch/link/Bund/151.1/de)
 
@@ -51,7 +51,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>2</sup> Das von den beteiligten Amtspersonen unterzeichnete Protokoll der Amtsübergabe ist der zuständigen Aufsichtsbehörde einzureichen.
 
-<sup>3</sup> Die Amtsübergabe bei den Betreibungsämtern wird durch das Konkursamt und Betreibungsinspektorat geleitet.
+<sup>3</sup> Die Amtsübergabe bei den Betreibungsämtern wird durch das Amt für Betreibungs- und Konkurswesen geleitet.
 
 #### § 3
 
@@ -61,13 +61,11 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>2</sup> Neu gewählte Mitglieder oder Aktuare der Schlichtungsbehörden werden durch deren Präsidium in ihr Amt eingeführt.
 
-<sup>3</sup> Die Einführung neu gewählter Friedensrichterinnen und Friedensrichter sowie neu gewählter Präsidentinnen und Präsidenten von Schlichtungsbehörden in Mietsachen erfolgt gemäss den Anordnungen des Präsidiums des Bezirksgerichts.
+<sup>3</sup> Die Einführung neu gewählter Friedensrichterinnen und Friedensrichter sowie neu gewählter Präsidentinnen und Präsidenten von Schlichtungsbehörden in Miet- und Pachtsachen erfolgt gemäss den Anordnungen des Präsidiums des Bezirksgerichts.
 
-<sup>4</sup> Die Einführung neu gewählter Präsidentinnen und Präsidenten des Zwangsmassnahmengerichts und der Bezirksgerichte sowie der Schlichtungsbehörde gemäss Gleichstellungsgesetz[^3-1] erfolgt gemäss den Anordnungen des Obergerichtspräsidiums.
+<sup>4</sup> Die Einführung neu gewählter Präsidentinnen und Präsidenten des Zwangsmassnahmengerichts und der Bezirksgerichte sowie der Schlichtungsbehörde gemäss Gleichstellungsgesetz erfolgt gemäss den Anordnungen des Obergerichtspräsidiums.
 
-<sup>5</sup> Bei den Betreibungsämtern erfolgt die Einführung gemäss den Anordnungen des Konkursamts und Betreibungsinspektorats.
-
-[^3-1]: SR [151.1](https://db.clex.ch/link/Bund/151.1/de)
+<sup>5</sup> Bei den Betreibungsämtern erfolgt die Einführung gemäss den Anordnungen des Amts für Betreibungs- und Konkurswesen.
 
 #### § 4
 
@@ -75,17 +73,17 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>1</sup> Das Präsidium des Bezirksgerichts prüft jährlich die Amtsführung des Friedensrichteramts seines Bezirks. Es erstattet dem Obergericht jährlich Bericht.
 
-<sup>2</sup> Das Präsidium des Obergerichts prüft jährlich die Amtsführung des Zwangsmassnahmengerichts und der Bezirksgerichte sowie des Konkursamts und Betreibungsinspektorats mindestens im Rahmen einer Visitation und erstattet dem Obergericht Bericht.
+<sup>2</sup> Das Präsidium des Obergerichts prüft jährlich die Amtsführung des Zwangsmassnahmengerichts und der Bezirksgerichte sowie des Amts für Betreibungs- und Konkurswesens mindestens im Rahmen einer Visitation und erstattet dem Obergericht Bericht.
 
-<sup>3</sup> Das Konkursamt und Betreibungsinspektorat prüft jedes Betreibungsamt mindestens alle drei Jahre und erstattet dem Obergericht und dem zuständigen Bezirksgericht sowie dem Departement für Justiz und Sicherheit Bericht.
+<sup>3</sup> Das Amt für Betreibungs- und Konkurswesen prüft jedes Betreibungsamt mindestens alle drei Jahre und erstattet dem Obergericht und dem zuständigen Bezirksgericht sowie dem Departement für Justiz und Sicherheit Bericht.
 
 #### § 5
 
 **Berichte und Statistik**
 
-<sup>1</sup> Die Schlichtungsbehörden in Mietsachen erstatten dem Obergericht und dem Präsidium des Bezirksgerichts halbjährlich einen Bericht über ihre Tätigkeit. Aus dem Bericht müssen die Zahl der Fälle und entsprechend den Vorgaben des zuständigen Bundesamts die Art der Erledigung ersichtlich sein.
+<sup>1</sup> Die Schlichtungsbehörden in Miet- und Pachtsachen erstatten dem Obergericht und dem Präsidium des Bezirksgerichts halbjährlich einen Bericht über ihre Tätigkeit. Aus dem Bericht müssen die Zahl der Fälle und entsprechend den Vorgaben des zuständigen Bundesamts die Art der Erledigung ersichtlich sein.
 
-<sup>2</sup> Das Zwangsmassnahmengericht und die Bezirksgerichte sowie die Schlichtungsbehörde gemäss Gleichstellungsgesetz sowie das Konkursamt und Betreibungsinspektorat sowie die Friedensrichter- und Betreibungsämter liefern dem Obergericht zu Beginn des Jahres die statistischen Zahlen über ihre Tätigkeit im Vorjahr. Die massgebenden statistischen Angaben werden vom Obergerichtspräsidium nach Absprache mit der oder dem Informatikbeauftragten des Obergerichts festgelegt.
+<sup>2</sup> Das Zwangsmassnahmengericht und die Bezirksgerichte, die Schlichtungsbehörde gemäss Gleichstellungsgesetz, das Amt für Betreibungs- und Konkurswesen sowie die Friedensrichter- und Betreibungsämter liefern dem Obergericht zu Beginn des Jahres die statistischen Zahlen über ihre Tätigkeit im Vorjahr. Die massgebenden statistischen Angaben werden vom Obergerichtspräsidium festgelegt.
 
 #### § 6
 
@@ -97,7 +95,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>3</sup> Die Präsidien der Gerichte sorgen für eine geeignete Weiterbildung der nebenamtlichen Mitglieder und der Ersatzmitglieder ihres Gerichts.
 
-<sup>4</sup> Die Präsidien der Bezirksgerichte und des Zwangsmassnahmengerichts ordnen in ihrem Zuständigkeitsbereich obligatorische Weiterbildung an und bewilligen freiwillige Weiterbildung. Bei einem Arbeitsausfall von mehr als fünf Tagen oder bei Kosten von über Fr. 2'000 pro Person und Jahr ist eine Bewilligung des Obergerichtspräsidiums einzuholen.
+<sup>4</sup> Die Präsidien der Bezirksgerichte und des Zwangsmassnahmengerichts ordnen in ihrem Zuständigkeitsbereich obligatorische Weiterbildung an und bewilligen freiwillige Weiterbildung. Bei einem Arbeitsausfall von mehr als fünf Tagen oder bei Kosten von über Fr. 3'000 pro Person und Jahr ist eine Bewilligung des Obergerichtspräsidiums einzuholen.
 
 <sup>5</sup> Das Präsidium des Obergerichts ist zuständig zur Anordnung obligatorischer und zur Bewilligung freiwilliger Weiterbildung bezüglich der Mitarbeiterinnen und Mitarbeiter des Obergerichts.
 
@@ -105,9 +103,9 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Weiterbildung der übrigen Behörden**
 
-<sup>1</sup> Das Präsidium des Bezirksgerichts sorgt für eine geeignete Weiterbildung der Friedensrichterin oder des Friedensrichters sowie der Schlichtungsbehörden in Mietsachen in seinem Bezirk.
+<sup>1</sup> Das Präsidium des Bezirksgerichts sorgt für eine geeignete Weiterbildung der Friedensrichterin oder des Friedensrichters in seinem Bezirk.
 
-<sup>2</sup> Das Obergerichtspräsidium unterstützt den Verband Thurgauer Friedensrichter und Betreibungsbeamter bei der allgemeinen Weiterbildung der Friedensrichter- und Betreibungsämter.
+<sup>2</sup> Das Obergerichtspräsidium führt mindestens einmal jährlich einen Austausch mit den Friedensrichterinnen und Friedensrichtern durch.
 
 #### § 8
 
@@ -115,7 +113,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>1</sup> Die Obergerichtskanzlei führt ein Dolmetscherregister. In dieses Register werden handlungsfähige, gut beleumdete Personen aufgenommen, welche die deutsche Sprache und eine Fremdsprache grundsätzlich in Wort und Schrift beherrschen und Gewähr für eine korrekte und vollständige Übersetzung bieten. Über die Aufnahme in das Register und die allfällige Löschung entscheidet das Obergerichtspräsidium. Das Register ist nicht öffentlich und gibt den eingetragenen Personen keinen Anspruch auf entsprechenden Einsatz.
 
-<sup>2</sup> Das Obergerichtspräsidium kann das Dolmetscherregister im Intranet des Kantons publizieren.
+<sup>2</sup> Das Obergericht regelt die Einzelheiten in einer weiteren Verordnung.
 
 <sup>3</sup> Als Dolmetscher in Zivil- und Strafsachen sind Personen einzusetzen, die im Dolmetscherregister oder in einem entsprechenden Register eines anderen Kantons eingetragen sind. Ist keine solche Person verfügbar, können andere Personen eingesetzt werden, sofern die fachlichen und persönlichen Voraussetzungen als gegeben erscheinen.
 
@@ -127,11 +125,11 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 #### § 9
 
-**Rechtskraftbescheinigungen**
+**Rechtskraftbescheinigungen bei Strafentscheiden**
 
 <sup>1</sup> Die Kanzlei des Zwangsmassnahmengerichts bescheinigt die Rechtskraft bei den Entscheiden, in welchen das Gericht endgültig entschieden hat.
 
-<sup>2</sup> Die Schlichtungsbehörden und Friedensrichterämter bescheinigen die Rechtskraft bei angenommenen Urteilsvorschlägen. In den Fällen von Art. 211 Abs. 3 der Zivilprozessordnung (ZPO)[^9-1] wird die Rechtskraftbescheinigung durch die Bezirksgerichtskanzlei ausgestellt.
+<sup>2</sup> …
 
 <sup>3</sup> Die Obergerichtskanzlei stellt Rechtskraftbescheinigungen für die Entscheide des Obergerichts sowie für erstinstanzliche Entscheide aus, welche der Berufung oder der Beschwerde unterliegen. Vorbehalten bleibt Abs. 4.
 
@@ -143,9 +141,23 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>7</sup> Rechtskraftbescheinigungen mit präzisem Rechtskraftdatum werden nur auf Verlangen und gegen Gebühr ausgestellt.
 
-<sup>8</sup> Teilrechtskraftbescheinigungen gegenüber erstinstanzlichen Entscheiden werden nur vom Obergericht und auf Verlangen ausgestellt. In Ehescheidungsverfahren wird die Teilrechtskraft gegenüber den Parteien und der Vorinstanz von Amtes wegen bescheinigt, sobald die Anträge feststehen.
+<sup>8</sup> …
 
-[^9-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
+#### § 9a
+
+**Vollstreckbarkeitsbescheinigungen bei Zivilentscheiden**
+
+<sup>1</sup> Dasjenige Gericht, das den zu vollstreckenden Entscheid getroffen hat, bescheinigt die Vollstreckbarkeit.
+
+<sup>2</sup> Das Obergericht stellt die Vollstreckbarkeitsbescheinigung aus, wenn ein Entscheid bei ihm angefochten worden ist und es die vorläufige Vollstreckung bewilligt hat.
+
+<sup>3</sup> Das Obergericht bescheinigt in Scheidungsverfahren von Amtes wegen, dass und in welchem Umfang ein Entscheid teilweise vollstreckbar ist, sobald die Anträge feststehen. In den übrigen Verfahren erfolgt diese Bescheinigung nur auf Antrag.
+
+<sup>4</sup> Die Vollstreckbarkeitsbescheinigung ist unter den Voraussetzungen von Art. 336 Abs. 1 der Schweizerischen Zivilprozessordnung (ZPO)[^9a-1] auszustellen. Das bescheinigende Gericht klärt ab, ob diese Voraussetzungen gegeben sind.
+
+<sup>5</sup> Vollstreckbarkeitsbescheinigungen mit präzisem Datum werden nur auf Verlangen und gegen Gebühr ausgestellt.
+
+[^9a-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
 
 #### § 10
 
@@ -169,7 +181,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Unentgeltliche Rechtspflege**
 
-<sup>1</sup> Wird die unentgeltliche Rechtspflege bewilligt, ist im Endentscheid im Hinblick auf die Nachzahlungspflicht eine Verfahrensgebühr festzusetzen.
+<sup>1</sup> Bewilligt das Gericht die unentgeltliche Rechtspflege, setzt es im Endentscheid dennoch die Verfahrenskosten fest.
 
 <sup>2</sup> Entscheide, mit denen zufolge Gewährung der unentgeltlichen Rechtspflege auf Verfahrenskosten verzichtet wird oder Offizialanwaltsentschädigungen zugesprochen werden, sind auszugsweise der zuständigen Stelle der Finanzverwaltung zuzustellen.
 
@@ -203,9 +215,9 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Stundung und Erlass**
 
-<sup>1</sup> In Strafsachen entscheidet die zuständige Staatsanwaltschaft über Stundung, Reduktion und Erlass von Verfahrenskosten.
+<sup>1</sup> …
 
-<sup>2</sup> In Zivilsachen sowie in den Fällen von § 12a Abs. 2 entscheidet der oder die Vorsitzende des Gerichts, das kantonal letztinstanzlich mit der Sache befasst war, über die Stundung und den Erlass der Verfahrenskosten. Der Entscheid wird von der leitenden Gerichtsschreiberin oder vom leitenden Gerichtsschreiber getroffen, soweit der Betrag von Fr. 500 nicht überschritten wird.
+<sup>2</sup> In Zivilsachen sowie in den Fällen von § 12a Abs. 2 entscheidet ein Berufsrichter oder eine Berufsrichterin des Gerichts, das kantonal letztinstanzlich mit der Sache befasst war, über die Stundung und den Erlass der Verfahrenskosten.
 
 <sup>3</sup> Über die Stundung und den Erlass der von ihnen gesprochenen Gebühren entscheiden die Friedensrichterämter und die Schlichtungsbehörden je für ihren Bereich.
 
@@ -233,9 +245,9 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Amtsgeheimnis**
 
-<sup>1</sup> Das Obergericht entscheidet über die Entbindung vom Amtsgeheimnis bei den Mitgliedern und Ersatzmitgliedern sowie den Mitarbeiterinnen und Mitarbeitern des Obergerichts und der Schlichtungsbehörde gemäss Gleichstellungsgesetz, bei den Mitgliedern und Ersatzmitgliedern der Bezirksgerichte, bei den Mitgliedern des Zwangsmassnahmengerichts und bei den Mitarbeiterinnen und Mitarbeitern des Konkursamts und Betreibungsinspektorats.
+<sup>1</sup> Das Obergericht entscheidet über die Entbindung vom Amtsgeheimnis bei den Mitgliedern und Ersatzmitgliedern sowie den Mitarbeiterinnen und Mitarbeitern des Obergerichts und der Schlichtungsbehörde gemäss Gleichstellungsgesetz, bei den Mitgliedern und Ersatzmitgliedern der Bezirksgerichte, bei den Mitgliedern des Zwangsmassnahmengerichts und bei den Mitarbeiterinnen und Mitarbeitern des Amts für Betreibungs- und Konkurswesens.
 
-<sup>2</sup> Für die Entbindung von der Geheimnispflicht ist das Bezirksgericht bei seinen Mitarbeiterinnen und Mitarbeitern sowie bei den Mitgliedern und Ersatzmitgliedern sowie Mitarbeiterinnen und Mitarbeitern der Schlichtungsbehörden in Mietsachen und bei den Friedensrichterinnen und Friedensrichtern sowie den Betreibungsbeamtinnen und Betreibungsbeamten und deren Mitarbeiterinnen und Mitarbeitern zuständig.
+<sup>2</sup> Ein Berufsrichter oder eine Berufsrichterin am Bezirksgericht entscheidet im summarischen Verfahren über die Entbindung vom Amtsgeheimnis bei den Mitarbeiterinnen und Mitarbeitern des Bezirksgerichts, den Mitgliedern und Ersatzmitgliedern sowie Mitarbeiterinnen und Mitarbeitern der Schlichtungsbehörden in Miet- und Pachtsachen, bei den Friedensrichterinnen und Friedensrichtern sowie den Betreibungsbeamtinnen und Betreibungsbeamten und deren Mitarbeiterinnen und Mitarbeitern.
 
 <sup>3</sup> Das Zwangsmassnahmengericht entscheidet über die Entbindung vom Amtsgeheimnis bei seinen Mitarbeiterinnen und Mitarbeitern.
 
@@ -243,15 +255,33 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Subsidiäre Aufsichtsbeschwerde**
 
-<sup>1</sup> Soweit nicht die Beschwerde oder die Berufung offen steht, kann wegen der Verletzung von Amtspflichten durch richterliche Behörden und Beamte bei der Aufsichtsbehörde Aufsichtsbeschwerde geführt werden.
+<sup>1</sup> Soweit nicht die Beschwerde oder die Berufung offensteht, kann wegen der Verletzung von Amtspflichten durch richterliche Behörden und Beamte bei der Aufsichtsbehörde Aufsichtsbeschwerde geführt werden. Die beschwerdeführende Person hat im Verfahren der subsidiären Aufsichtsbeschwerde Parteistellung.
 
-<sup>2</sup> Für die Form, Behandlung und Erledigung der Aufsichtsbeschwerde gelten die Bestimmungen über die Beschwerde gemäss ZPO[^16-1] sinngemäss. Der Sachverhalt ist von Amtes wegen abzuklären.
+<sup>2</sup> Für die Form, Behandlung und Erledigung der Aufsichtsbeschwerde gelten die Bestimmungen über die Beschwerde gemäss ZPO sinngemäss. Der form- und fristgerecht vorgebrachte Sachverhalt ist von Amtes wegen abzuklären.
 
 <sup>3</sup> Richtet sich die Aufsichtsbeschwerde gegen eine bestimmte Handlung, beträgt die Beschwerdefrist zehn Tage. In allen anderen Fällen ist die Aufsichtsbeschwerde so lange zulässig, als ein Rechtsschutzinteresse besteht.
 
 <sup>4</sup> Bei mutwilliger oder leichtfertiger Beschwerdeführung können Kosten auferlegt werden.
 
-[^16-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
+<sup>5</sup> Der Entscheid der Aufsichtsbehörde ist endgültig.
+
+#### § 16a
+
+**Anzeige**
+
+<sup>1</sup> Tatsachen, die im öffentlichen Interesse ein Einschreiten gegen eine Behörde von Amtes wegen erfordern, können Gegenstand einer Anzeige sein.
+
+<sup>2</sup> Eine Anzeige kann von jeder Person und jederzeit bei der Aufsichtsbehörde erhoben werden.
+
+<sup>3</sup> Die anzeigende Person ist am weiteren Verfahren nicht beteiligt. Die Aufsichtsbehörde teilt der anzeigenden Person auf deren Antrag mit, ob ein Verfahren eingeleitet und wie es erledigt wird.
+
+#### § 16b
+
+**Subsidiär anwendbares kantonales Verfahrensrecht**
+
+<sup>1</sup> Wo das Bundesrecht die Regelung des Verfahrens dem kantonalen Recht überlässt, kommen subsidiär die Bestimmungen der ZPO über das summarische Verfahren zur Anwendung, sofern das kantonale Recht nichts anderes vorsieht.
+
+<sup>2</sup> Einem am Verfahren beteiligten Gemeinwesen steht in der Regel keine Entschädigung zu.
 
 ## 2. Organisation der Behörden
 
@@ -265,7 +295,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>2</sup> Das Obergerichtspräsidium kann im Einzelfall eine abweichende Regelung treffen.
 
-<sup>3</sup> Das Obergerichtspräsidium entscheidet über strittige Ausstandsbegehren gegen die Friedensrichterinnen oder Friedensrichter. Es bezeichnet nötigenfalls ein Ersatz-Friedensrichteramt.
+<sup>3</sup> Das Präsidium des Bezirksgerichts entscheidet über strittige Ausstandsbegehren gegen die Friedensrichterinnen oder Friedensrichter. Es bezeichnet nötigenfalls ein Ersatz-Friedensrichteramt. Gegen den Entscheid des Präsidiums des Bezirksgerichts kann Beschwerde nach Art. 319 ff. ZPO beim Obergericht geführt werden.
 
 #### § 17a
 
@@ -293,12 +323,9 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Ausstand**
 
-<sup>1</sup> Für die Mitglieder, die Ersatzmitglieder und die Aktuarin oder den Aktuar der Schlichtungsbehörden gelten die Ausstandsregeln gemäss der ZPO[^20-1].
+<sup>1</sup> Für die Mitglieder, die Ersatzmitglieder und die Aktuarin oder den Aktuar der Schlichtungsbehörden gelten die Ausstandsregeln gemäss der ZPO.
 
-<sup>2</sup> Über strittige Ausstandsbegehren entscheidet das Präsidium des Bezirksgerichts, bei der Schlichtungsbehörde gemäss Gleichstellungsgesetz[^20-2] das Obergerichtspräsidium. Dieses bezeichnet nötigenfalls auch eine Ersatzbehörde.
-
-[^20-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
-[^20-2]: SR [151.1](https://db.clex.ch/link/Bund/151.1/de)
+<sup>2</sup> Über strittige Ausstandsbegehren entscheidet das Präsidium des Bezirksgerichts, bei der Schlichtungsbehörde gemäss Gleichstellungsgesetz das Präsidium des Bezirksgerichts, in dessen Bezirk das Präsidium der Schlichtungsbehörde seinen Sitz hat. Jenes bezeichnet nötigenfalls auch eine Ersatzbehörde. Gegen den Entscheid des Präsidiums des Bezirksgerichts kann Beschwerde nach Art. 319 ff. ZPO beim Obergericht geführt werden.
 
 #### § 21
 
@@ -312,7 +339,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Bekanntgabe der Zusammensetzung**
 
-<sup>1</sup> Die Politischen Gemeinden haben die Zusammensetzung der Schlichtungsbehörden in Mietsachen und die Adresse der Stelle, bei der die Begehren anzubringen sind, sowie die Bezugsstelle für die von der Vermieterschaft zu verwendenden Formulare auf ihrer Webseite im Internet zu publizieren.
+<sup>1</sup> Die Politischen Gemeinden haben die Zusammensetzung der Schlichtungsbehörden in Miet- und Pachtsachen und die Adresse der Stelle, bei der die Begehren anzubringen sind, sowie die Bezugsstelle für die von der Vermieterschaft zu verwendenden Formulare auf ihrer Webseite im Internet zu publizieren.
 
 <sup>2</sup> Die Politische Gemeinde meldet die Zusammensetzung der Schlichtungsbehörde und die Kontaktstelle für die Rechtsberatung sowie entsprechende Veränderungen an das Präsidium des zuständigen Bezirksgerichts und des Obergerichts.
 
@@ -320,7 +347,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Streitige Zusammensetzung**
 
-<sup>1</sup> Über Streitigkeiten betreffend die korrekte paritätische Zusammensetzung der Schlichtungsbehörden in Mietsachen entscheidet das Präsidium des Bezirksgerichts endgültig.
+<sup>1</sup> Über Streitigkeiten betreffend die korrekte paritätische Zusammensetzung der Schlichtungsbehörden in Miet- und Pachtsachen entscheidet das Präsidium des Bezirksgerichts. Gegen den Entscheid des Präsidiums kann Beschwerde nach Art. 319 ff. ZPO beim Obergericht geführt werden.
 
 ### 2.3. Allgemeine Bestimmungen für die Gerichte
 
@@ -342,7 +369,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>1</sup> An den Plenarsitzungen der Gerichte nehmen die Berufsrichterinnen und Berufsrichter sowie die nebenamtlichen Mitglieder und mit beratender Stimme die leitende Gerichtsschreiberin oder der leitende Gerichtsschreiber sowie nach Bedarf auch die übrigen Gerichtsschreiberinnen und Gerichtsschreiber teil.
 
-<sup>2</sup> Im Plenum erfolgt der Erlass der Geschäftsordnung, die Wahl des Vizepräsidiums und die Anstellung der Gerichtsschreiberinnen und Gerichtsschreiber sowie die Behandlung von Verwaltungsgeschäften von besonderer Bedeutung.
+<sup>2</sup> Im Plenum erfolgt der Erlass der Geschäftsordnung, die Wahl des Vizepräsidiums und die Behandlung von Verwaltungsgeschäften von besonderer Bedeutung. Die Anstellung von Gerichtsschreiberinnen und Gerichtsschreibern erfolgt durch die Berufsrichterinnen und Berufsrichter.
 
 <sup>3</sup> Dem Plenum können weitere Verwaltungsgeschäfte vorgelegt werden.
 
@@ -362,11 +389,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 #### § 27
 
-**Leitende Gerichtsschreiberin oder leitender Gerichtsschreiber des Obergerichts und der Bezirksgerichte**
-
-<sup>1</sup> Die leitende Gerichtsschreiberin oder der leitende Gerichtsschreiber führt die Gerichtskanzlei und ist unter der Verantwortung des Präsidiums zuständig für das Rechnungswesen und das Inkasso, das Budget, die Mobiliar- und Materialbeschaffung, das Archiv und die Bibliothek sowie die Sicherheit des Gerichts.
-
-<sup>2</sup> …
+**…**
 
 #### § 28
 
@@ -378,9 +401,9 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Informatik**
 
-<sup>1</sup> Die Bezirksgerichte und das Zwangsmassnahmengericht bestimmen eine Informatikbeauftragte oder einen Informatikbeauftragten, die oder der für die Anwendung der elektronischen Geschäftsverwaltung und die Koordination mit der oder dem Informatikbeauftragten des Obergerichts zuständig ist.
+<sup>1</sup> Die Bezirksgerichte und das Zwangsmassnahmengericht bestimmen eine Informatikbeauftragte oder einen Informatikbeauftragten, die oder der für die Anwendung der elektronischen Geschäftsverwaltung und die Koordination mit dem Obergericht zuständig ist.
 
-<sup>2</sup> Die oder der Informatikbeauftragte des Obergerichts nimmt die Interessen der Gerichte gegenüber der Zentralverwaltung wahr. Sie oder er stellt eine einheitliche Anwendung der elektronischen Geschäftsverwaltung sicher, regelt den Datenaustausch und koordiniert die verschiedenen Abonnements der juristischen Datenbanken. Sie oder er kann in Absprache mit dem Obergerichtspräsidium verbindliche Weisungen über die EDV-Anwendung erlassen, insbesondere über die Gestaltung von Vorladungen und Standardbriefen mit Fristansetzungen sowie von Entscheiden.
+<sup>2</sup> Das Obergericht nimmt die Interessen der Gerichte gegenüber der Zentralverwaltung wahr. Es stellt eine einheitliche Anwendung der elektronischen Geschäftsverwaltung sicher, regelt den Datenaustausch und koordiniert die verschiedenen Abonnements der juristischen Datenbanken. Es kann verbindliche Weisungen über die IT-Anwendung erlassen, insbesondere über die Gestaltung von Vorladungen und Standardbriefen mit Fristansetzungen sowie von Entscheiden.
 
 #### § 30
 
@@ -404,9 +427,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 #### § 31a
 
-**Nebenamtliche Tätigkeiten**
-
-<sup>1</sup> Ist ein Gerichtsmitglied nebenamtlich tätig, hat es seine weitere berufliche oder politische Tätigkeit so auszuüben, dass diese die richterliche Unabhängigkeit nicht beeinträchtigen kann.
+**…**
 
 ### 2.4. Bezirksgerichte
 
@@ -422,11 +443,11 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>4</sup> Nach Möglichkeit ist im selben Verfahren nicht mehr als ein Ersatzmitglied einzusetzen.
 
+<sup>5</sup> Aus der Geschäftsordnung müssen die Kriterien der Spruchkörperbildung ersichtlich sein.
+
 #### § 33
 
-**Einzelgericht in Zivilsachen**
-
-<sup>1</sup> Wo die kantonale Gesetzgebung in Angelegenheiten des Zivilgesetzbuchs und des Obligationenrechts die zuständige Behörde nicht bezeichnet, ist die Einzelrichterin oder der Einzelrichter des Bezirksgerichts zuständig.
+**…**
 
 #### § 34
 
@@ -434,9 +455,9 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>1</sup> Die Bezirksgerichte können bei personellen Engpässen sowie zur Vermeidung von Ausstandsproblemen für eine gewisse Dauer oder für einzelne Verfahren ausserordentliche Gerichtsschreiberinnen oder Gerichtsschreiber anstellen.
 
-<sup>2</sup> Als ausserordentliche Gerichtsschreiberinnen oder Gerichtsschreiber sind vornehmlich erfahrene Praktikantinnen oder Praktikanten einzusetzen.
+<sup>2</sup> …
 
-<sup>3</sup> Der Einsatz einer ausserordentlichen Gerichtsschreiberin oder eines ausserordentlichen Gerichtsschreibers für länger als drei Monate bedarf einer Bewilligung des Obergerichtspräsidiums.
+<sup>3</sup> Über den Einsatz einer ausserordentlichen Gerichtsschreiberin oder eines ausserordentlichen Gerichtsschreibers für die Dauer bis zu drei Monaten entscheidet das Bezirksgericht. Eine längere Anstellungsdauer bedarf einer Bewilligung des Obergerichtspräsidiums.
 
 #### § 35
 
@@ -448,11 +469,19 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Ersatzgerichte**
 
-<sup>1</sup> Das Bezirksgericht Frauenfeld ist in der Regel Ersatzgericht für das Bezirksgericht Münchwilen, das Bezirksgericht Münchwilen für das Bezirksgericht Weinfelden, das Bezirksgericht Weinfelden für das Bezirksgericht Arbon, das Bezirksgericht Arbon für das Bezirksgericht Kreuzlingen und das Bezirksgericht Kreuzlingen für das Bezirksgericht Frauenfeld.
+<sup>1</sup> Ist die Bestellung eines Ersatzgerichts in erster Instanz strittig, so entscheidet ein Berufsrichter oder eine Berufsrichterin darüber im summarischen Verfahren. Es gilt folgende Zuständigkeitsordnung:
 
-<sup>2</sup> Bestehen offenkundig triftige Gründe für den Einsatz des Ersatzgerichts, kann er vom Obergerichtspräsidium bewilligt werden. In den übrigen Fällen entscheidet das Obergericht. Ebenso entscheidet das Obergericht, wenn im Einzelfall auf Antrag einer Partei von der Regelung in Abs. 1 abgewichen werden soll.
+- 1\. Das Bezirksgericht Kreuzlingen entscheidet über ein Ersatzgericht des Bezirksgerichts Münchwilen
+- 2\. Das Bezirksgericht Arbon entscheidet über ein Ersatzgericht des Bezirksgerichts Weinfelden
+- 3\. Das Bezirksgericht Weinfelden entscheidet über ein Ersatzgericht des Bezirksgerichts Frauenfeld
+- 4\. Das Bezirksgericht Frauenfeld entscheidet über ein Ersatzgericht des Bezirksgerichts Kreuzlingen
+- 5\. Das Bezirksgericht Münchwilen entscheidet über ein Ersatzgericht des Bezirksgerichts Arbon
+
+<sup>2</sup> Das Bezirksgericht Frauenfeld ist in der Regel Ersatzgericht für das Bezirksgericht Münchwilen, das Bezirksgericht Münchwilen für das Bezirksgericht Weinfelden, das Bezirksgericht Weinfelden für das Bezirksgericht Arbon, das Bezirksgericht Arbon für das Bezirksgericht Kreuzlingen und das Bezirksgericht Kreuzlingen für das Bezirksgericht Frauenfeld.
 
 <sup>3</sup> Diese Regeln gelten sinngemäss auch, wenn für eine besondere Zusammensetzung ein Mitglied eines Bezirksgerichts als ausserordentliches Ersatzmitglied eines anderen Bezirksgerichts bezeichnet werden muss. Die Reihenfolge des Einsatzes von solchen Ersatzmitgliedern richtet sich nach dem Dienstalter.
+
+<sup>4</sup> Gegen den Entscheid über die Bestellung eines Ersatzgerichts kann Beschwerde nach Art. 319 ff. ZPO an das Obergerichten geführt werden.
 
 ### 2.5. Zwangsmassnahmengericht
 
@@ -488,15 +517,18 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Abteilungen**
 
-<sup>1</sup> Das Obergericht bildet zwei Abteilungen.
+<sup>1</sup> Das Obergericht bildet mehrere Abteilungen.
 
 <sup>2</sup> Die Aufgabenverteilung zwischen den Abteilungen und der Einsatz der Mitglieder und Ersatzmitglieder des Obergerichts wird in der Geschäftsordnung geregelt.
 
 <sup>3</sup> Das Obergerichtspräsidium weist die Fälle gemäss der Geschäftsordnung zu.
 
-<sup>4</sup> Ein Mitglied der für Beschwerden in Strafsachen zuständigen Abteilung ist Einzelgericht in den von der StPO[^40-1] vorgesehenen Fällen.
+<sup>4</sup> Ein Mitglied der für Beschwerden in Strafsachen zuständigen Abteilung ist Einzelgericht in den von der Schweizerischen Strafprozessordnung (StPO)[^40-1] vorgesehenen Fällen.
+
+<sup>5</sup> Ein Mitglied der dafür zuständigen Abteilung des Obergerichts entscheidet als Einzelrichter oder Einzelrichterin über Gesuche um Erlass und Stundung von Verfahrenskosten, Beschwerden gegen Entscheide betreffend Konkurseröffnungen nach vorgängiger Betreibung sowie nach Art. 190 des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG)[^40-2] und definitive Rechtsöffnungen sowie Beschwerden gegen Entscheide betreffend den Rechtsschutz in klaren Fällen.
 
 [^40-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^40-2]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
 
 #### § 41
 
@@ -512,17 +544,11 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>2</sup> Sind alle Mitglieder und Ersatzmitglieder des Obergerichts im Ausstand, führt die amtsälteste Bezirksgerichtspräsidentin oder der amtsälteste Bezirksgerichtspräsident den Vorsitz. Sie oder er kann für das Ersatzobergericht gegebenenfalls eine ausserordentliche Gerichtschreiberin oder einen ausserordentlichen Gerichtschreiber benennen.
 
-### 2.7. Lugano-Übereinkommen
-
-[^42-1]
-
-[^42-1]: SR [0.275.12](https://db.clex.ch/link/Bund/0.275.12/de)
+### 2.7.
 
 #### § 43
 
-**Zuständigkeit**
-
-<sup>1</sup> Vollstreckungsgericht ist die Einzelrichterin oder der Einzelrichter des Bezirksgerichts. Rechtsbehelfe sind beim Obergericht einzureichen.
+**…**
 
 ### 2.8. Rechtshilfe
 
@@ -530,9 +556,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Rechtshilfe in Zivil- und Strafsachen**
 
-<sup>1</sup> Das Obergericht ist Zentralbehörde für die Rechtshilfe in Zivil- und Handelssachen. Zuständig ist das Obergerichtspräsidium.
-
-<sup>2</sup> Die Einzelrichterinnen und Einzelrichter der Bezirksgerichte vollziehen die ihnen vom Obergerichtsgerichtspräsidium überwiesenen Rechtshilfesachen.
+<sup>1–2</sup> …
 
 <sup>3</sup> Die Rechtshilfesachen können unter der Verantwortung des zuständigen Gerichtsmitglieds einer Gerichtsschreiberin oder einem Gerichtsschreiber übertragen werden. Vorbehalten bleiben Rechtshilfeeinvernahmen.
 
@@ -578,9 +602,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Ordnungsbussen**
 
-<sup>1</sup> Für allfällige Ordnungsbussen gilt Art. 128 ZPO[^45d-1].
-
-[^45d-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
+<sup>1</sup> Für allfällige Ordnungsbussen gilt Art. 128 ZPO.
 
 ### 3.2. Schlichtungsbehörden
 
@@ -590,11 +612,9 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>1</sup> Die Schlichtungsbehörde hat über die bei ihr eingehenden Begehren und die Art der Erledigung eine Kontrolle zu führen.
 
-<sup>2</sup> Für die Archivierung der Unterlagen der Schlichtungsbehörde nach Gleichstellungsgesetz[^46-1] gilt § 55 Abs. 2 und Abs. 3 sinngemäss. Die Abgabe von Unterlagen an das Staatsarchiv erfolgt aufgrund der entsprechenden Ablieferungsvereinbarung.
+<sup>2</sup> Für die Archivierung der Unterlagen der Schlichtungsbehörde nach Gleichstellungsgesetz gilt § 55 Abs. 2 und Abs. 3 sinngemäss. Die Abgabe von Unterlagen an das Staatsarchiv erfolgt aufgrund der entsprechenden Ablieferungsvereinbarung.
 
-<sup>3</sup> Die Schlichtungsbehörden in Mietsachen archivieren ihre Kontrollen und Akten im Archiv der Politischen Gemeinde.
-
-[^46-1]: SR [151.1](https://db.clex.ch/link/Bund/151.1/de)
+<sup>3</sup> Die Schlichtungsbehörden in Miet- und Pachtsachen archivieren ihre Kontrollen und Akten im Archiv der Politischen Gemeinde.
 
 #### § 46a
 
@@ -608,21 +628,19 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Verfahrenskosten**
 
-<sup>1</sup> Allfällige Gebühren der Schlichtungsbehörden in Mietsachen für das Entscheidverfahren richten sich sinngemäss nach denjenigen für die Friedensrichterämter gemäss der Verordnung des Grossen Rates über die Gebühren der Strafuntersuchungs- und Gerichtsbehörden[^47-1]. Die Gebühreneinnahmen fallen der Politischen Gemeinde zu.
+<sup>1</sup> Allfällige Gebühren der Schlichtungsbehörden in Miet- und Pachtsachen für das Entscheidverfahren richten sich sinngemäss nach denjenigen für die Friedensrichterämter gemäss der Verordnung des Grossen Rates über die Gebühren der Strafuntersuchungs- und Gerichtsbehörden (VGG)[^47-1]. Die Gebühreneinnahmen fallen der Politischen Gemeinde zu.
 
 [^47-1]: RB [638.1](https://www.rechtsbuch.tg.ch/data/638.1/de)
 
 #### § 47a
 
-**Verfahrensdauer und unentgeltliche Prozess-führung**
+**Verfahrensdauer und unentgeltliche Prozessführung**
 
-<sup>1</sup> § 45a, § 45b, § 45c und § 45d finden für das Schlichtungsverfahren in Mietsachen sinngemäss Anwendung.
+<sup>1</sup> § 45a, § 45b, § 45c und § 45d finden für das Schlichtungsverfahren in Miet- und Pachtsachen sinngemäss Anwendung.
 
 #### § 47b
 
-**Streitigkeiten aus Pacht**
-
-<sup>1</sup> Sämtliche Streitigkeiten betreffend Pachtverhältnisse fallen in die Zuständigkeit der Schlichtungsbehörden in Mietsachen.
+**…**
 
 ### 3.3. Geschäftsführung der Gerichte
 
@@ -644,7 +662,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Gerichtsmanual**
 
-<sup>1</sup> Im Gerichtsmanual werden für die Fünferbesetzung und die Dreierbesetzung sowie das Einzelgericht in chronologischer Reihenfolge die Sitzungen und innerhalb der Sitzungen die Dispositive der ergangenen Urteile, Beschlüsse und Verfügungen unter Angabe der Gerichtsbesetzung, der Parteien und der Fallnummer aufgeführt. Wird das Manual im Rahmen der elektronischen Geschäftsverwaltung geführt, sind die Dispositive der Entscheide auszudrucken und in Bundesordnern zu sammeln.
+<sup>1</sup> Das Gerichtsmanual dient der fortlaufenden Dokumentation der gefällten Entscheide. Das Dispositiv ist in geeigneter Form abzulegen, sodass jederzeit nachvollzogen werden kann, welchen Entscheid das Gericht traf. Nachträgliche Änderungen sind kenntlich zu machen, zu dokumentieren und zu begründen.
 
 #### § 51
 
@@ -686,7 +704,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Gerichtsarchiv**
 
-<sup>1</sup> Jedes Gericht führt ein eigenes Archiv. Beim Obergericht und bei den Bezirksgerichten untersteht das Archiv der leitenden Gerichtsschreiberin oder dem leitenden Gerichtsschreiber, beim Zwangsmassnahmengericht dem Präsidium.
+<sup>1</sup> Jedes Gericht führt ein Archiv.
 
 <sup>2</sup> Das Archiv ist in einem gesonderten, abschliessbaren Raum unterzubringen, der genügende Sicherheit gegen Einbruch, Feuer, Wasser, Staub, Sonneneinstrahlung und Feuchtigkeit sowie gegen Ungeziefer bietet.
 
@@ -712,13 +730,13 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Ordnung im Gerichtsgebäude**
 
-<sup>1</sup> Die oder der Gerichtsvorsitzende sorgt während der Verhandlung dafür, dass die anwesenden Personen vor Angriffen und Beleidigungen geschützt und die Anstandsregeln gewahrt werden.
+<sup>1</sup> Die oder der Vorsitzende sorgt während der Verhandlung dafür, dass die anwesenden Personen vor Angriffen und Beleidigungen geschützt und die Anstandsregeln gewahrt werden.
 
 <sup>2</sup> Für den Sicherheitsdienst kann die Kantonspolizei beigezogen werden.
 
-<sup>3</sup> Je nach Gefährdung kann die oder der Gerichtsvorsitzende eine Personenkontrolle am Eingang und die Durchsuchung von Personen einschliesslich der von ihnen mitgeführten Taschen und anderen Behältnisse nach Waffen oder gefährlichen Gegenständen anordnen. Personen, die sich weigern, sich einer solchen Kontrolle zu unterziehen, kann der Zutritt zum Gerichtsgebäude verwehrt werden.
+<sup>3</sup> Je nach Gefährdung kann die oder der Vorsitzende eine Personenkontrolle am Eingang und die Durchsuchung von Personen einschliesslich der von ihnen mitgeführten Taschen und anderen Behältnisse nach Waffen oder gefährlichen Gegenständen anordnen. Personen, die sich weigern, sich einer solchen Kontrolle zu unterziehen, kann der Zutritt zum Gerichtsgebäude verwehrt werden.
 
-<sup>4</sup> Die oder der Gerichtsvorsitzende entscheidet nach Absprache mit den begleitenden Polizeibeamten darüber, ob und wie Angeklagte in der Verhandlung gefesselt werden.
+<sup>4</sup> Die oder der Vorsitzende entscheidet nach Absprache mit den begleitenden Polizeibeamten darüber, ob und wie Angeklagte in der Verhandlung gefesselt werden.
 
 #### § 58
 
@@ -732,7 +750,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Erlass von dauernden Verkehrsanordnungen**
 
-<sup>1</sup> Zum Erlass von dauernden Verkehrsanordnungen auf öffentlichen Strassen und Plätzen im Sinn von Art. 1 des Strassenverkehrsgesetzes[^59-1] ist das Departement für Bau und Umwelt zuständig, auch wenn sich diese Verkehrsflächen im Privatbesitz befinden. Die Gerichte sind nur für diejenigen Fälle zuständig, in denen eine Anordnung für ein Grundstück zu treffen ist, dessen Verkehrsflächen nicht unter das Strassenverkehrsgesetz fallen.
+<sup>1</sup> Zum Erlass von dauernden Verkehrsanordnungen auf öffentlichen Strassen und Plätzen im Sinn von Art. 1 des Strassenverkehrsgesetzes (SVG)[^59-1] ist das Departement für Bau und Umwelt zuständig, auch wenn sich diese Verkehrsflächen im Privatbesitz befinden. Die Gerichte sind nur für diejenigen Fälle zuständig, in denen eine Anordnung für ein Grundstück zu treffen ist, dessen Verkehrsflächen nicht unter das Strassenverkehrsgesetz fallen.
 
 [^59-1]: SR [741.01](https://db.clex.ch/link/Bund/741.01/de)
 
@@ -774,11 +792,11 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>1</sup> Zur berufsmässigen Vertretung im Zivilprozess sind nur Anwältinnen und Anwälte zugelassen, die nach Anwaltsrecht berechtigt sind, Parteien vor schweizerischen Gerichten zu vertreten. Patentierte Sachwalterinnen und Sachwalter sowie Rechtsagentinnen und Rechtsagenten oder andere gewerbsmässige Vertreterinnen oder Vertreter sind nicht zugelassen.
 
-<sup>2</sup> Ausgenommen bleiben:
+<sup>2</sup> Ausgenommen sind:
 
-- 1\. die Vertretung bei Konkursbegehren der Gläubiger;
-- 2\. die Vertretung in arbeits- und mietrechtlichen Verfahren durch Mitarbeitende einer Arbeitnehmerorganisation oder einer Organisation für Behinderte oder ähnlicher Institutionen mit weitgehend gemeinnütziger Ausrichtung;
-- 3\. die Vertretung durch Liegenschaftenverwaltungen in Mieterausweisungsverfahren.
+- 1\. die Vertretung im Zwangsvollstreckungsverfahren
+- 2\. die Vertretung in arbeits- und mietrechtlichen Verfahren durch Mitarbeitende einer Arbeitnehmerorganisation oder einer Organisation für Behinderte oder ähnlicher Institutionen mit weitgehend gemeinnütziger Ausrichtung
+- 3\. die Vertretung durch Liegenschaftenverwaltungen in Mieterausweisungsverfahren
 
 #### § 63
 
@@ -788,7 +806,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>2</sup> Anwaltspraktikantinnen und Anwaltspraktikanten, die über eine entsprechende Bewilligung der Anwaltskommission verfügen, sind im gerichtlichen Verfahren vertretungsberechtigt, sofern seitens des verantwortlichen Anwalts oder der verantwortlichen Anwältin eine schriftliche Vollmacht mit Substitutionsbefugnis vorliegt.
 
-<sup>3</sup> Praktikantinnen und Praktikanten von Anwältinnen und Anwälten dürfen zur Offizialverteidigung in Strafsachen nicht eingesetzt werden, wenn der angeschuldigten Person eine Freiheitsstrafe oder freiheitsentziehende Massnahme von mehr als drei Jahren droht.
+<sup>3</sup> Praktikantinnen und Praktikanten von Anwältinnen und Anwälten dürfen zur Offizialverteidigung in Strafsachen nicht eingesetzt werden, wenn der beschuldigten Person eine Freiheitsstrafe oder eine freiheitsentziehende Massnahme von mehr als drei Jahren oder eine Landesverweisung droht.
 
 ### 3.4.3. Akten und Verfügungen
 
@@ -810,7 +828,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Verfahrensakten**
 
-<sup>1</sup> Zu den Verfahrensakten gehören alle im Verfahren hergestellten und eingereichten Urkunden, wie Aktenverzeichnisse, Verfahrens- und Verhandlungsprotokolle, Gutachten, Amtsberichte, Vernehmlassungen, prozessleitende Verfügungen, Vorladungen, Empfangsbescheinigungen und ähnliche Belege sowie die getroffenen Entscheide, die von den Parteien eingereichten Eingaben und Rechtsschriften sowie Plädoyernotizen und die von den Parteien eingereichten Beweisurkunden, die ihnen nicht zurückgegeben werden, wie insbesondere Fotokopien, sowie die beigezogenen Akten.
+<sup>1</sup> Zu den Verfahrensakten gehören alle im Verfahren hergestellten und eingereichten Urkunden wie Aktenverzeichnisse, Verfahrens- und Verhandlungsprotokolle, Gutachten, Amtsberichte, Vernehmlassungen, prozessleitende Verfügungen, Vorladungen, Empfangsbescheinigungen und ähnliche Belege sowie die getroffenen Entscheide, die von den Parteien eingereichten Eingaben und Rechtsschriften sowie Plädoyernotizen und die von den Parteien eingereichten Beweisurkunden sowie die beigezogenen Akten.
 
 <sup>2</sup> Nicht zu den Verfahrensakten gehören Entwürfe, Referate, Aktenzirkulationslisten und andere gerichtsinterne Papiere sowie Postbordereaux und ähnliche Unterlagen.
 
@@ -890,19 +908,19 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>1</sup> Plädoyernotizen zuhanden des Protokolls sind dem Gericht und den anderen Parteien abzugeben.
 
-<sup>2</sup> Über Urteilsberatungen wird kein Protokoll geführt. Die oder der Gerichtsvorsitzende kann für gerichtsinterne Zwecke eine zusammenfassende Protokollierung anordnen.
+<sup>2</sup> Über Urteilsberatungen wird kein Protokoll geführt.
 
 <sup>3</sup> Über die mündliche Eröffnung und den wesentlichen Inhalt der allfälligen mündlichen Begründung eines Entscheids ist eine schriftliche Zusammenfassung in das Protokoll aufzunehmen.
 
-<sup>4</sup> Das Ergebnis von Augenscheinen und Tatrekonstruktionen ist nach Ermessen der oder des Gerichtsvorsitzenden soweit möglich durch Beschreibung, Zeichnungen, Pläne, Fotografien und andere Datenträger festzuhalten. Zu protokollieren sind insbesondere die wichtigsten Hinweise der Parteien zu den besichtigten Örtlichkeiten oder Gegenständen.
+<sup>4</sup> Das Ergebnis von Augenscheinen und Tatrekonstruktionen ist nach Ermessen der oder des Vorsitzenden soweit möglich durch Beschreibung, Zeichnungen, Pläne, Fotografien und andere Datenträger festzuhalten. Zu protokollieren sind insbesondere die wichtigsten Hinweise der Parteien zu den besichtigten Örtlichkeiten oder Gegenständen.
 
-<sup>5</sup> Bei Referentenaudienzen und in Verhandlungsabschnitten, die Vergleichsgesprächen dienen, braucht kein Protokoll geführt zu werden. Bei Instruktionsverhandlungen ist zu protokollieren, soweit es um die Ergänzung des Sachverhalts geht.
+<sup>5</sup> In Verhandlungsabschnitten, die Vergleichsgesprächen dienen, wird kein Protokoll geführt. Bei Instruktionsverhandlungen ist zu protokollieren, soweit es um die Ergänzung des Sachverhalts geht.
 
 <sup>6</sup> Bei mündlichen Experteninstruktionen ist stets ein Protokoll zu führen.
 
 <sup>7</sup> Wird ein Beweisverfahren nötig oder wird ein Rechtsmittel ergriffen, ist für die Akten ein maschinengeschriebenes Protokoll der Verhandlungen zu erstellen. Andernfalls ist das handschriftliche Verhandlungsprotokoll in die Akten zu legen.
 
-<sup>8</sup> Allfällige ergänzende Ton- oder Bildaufzeichnungen sind durch die Gerichtskanzlei bis zur Rechtskraft des Entscheids aufzubewahren; anschliessend sind sie zu vernichten.
+<sup>8</sup> Allfällige ergänzende Ton- oder Bildaufzeichnungen werden zu den Akten genommen und mit ihnen in geeigneter Form, in der Regel auf einem elektronischen Speichermedium, aufbewahrt.
 
 ### 3.4.6. Beratung und Entscheid
 
@@ -920,7 +938,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>1</sup> Das Rubrum der Entscheide beginnt mit dem Kantonswappen und der Bezeichnung des Gerichts. Im Rubrum sind ausserdem die Besetzung des Gerichts, Ort und Datum des Entscheids, der Prozessgegenstand und die Parteien sowie deren Vertretung aufzuführen.
 
-<sup>2</sup> Als Angaben über die Parteien sind aufzuführen: Name, Vorname, eventuell Geburtsname sowie Künstler- oder Aliasname, Wohnort und Adresse. In Strafsachen und in Familiensachen ist ausserdem das Geburtsdatum und der Heimatort sowie bei ausländischen Personen die Staatsangehörigkeit anzugeben, in Strafsachen zudem der Beruf.
+<sup>2</sup> Als Angaben über die Parteien sind aufzuführen: Name, Vorname, eventuell Geburtsname sowie Künstler- oder Aliasname, Wohnort und Adresse. In Strafsachen und in Familiensachen ist ausserdem das Geburtsdatum und der Heimatort sowie bei ausländischen Personen die Staatsangehörigkeit anzugeben.
 
 <sup>3</sup> Den Entscheiden in Strafsachen ist eine Kopie der Anklageschrift oder in Einsprachesachen eine Kopie des Strafbefehls beizufügen.
 
@@ -928,7 +946,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>5</sup> In jedem Entscheid ist das Datum der Spedition anzugeben.
 
-<sup>6</sup> Die Entscheide werden von der oder dem Gerichtsvorsitzenden und von der Gerichtsschreiberin oder vom Gerichtsschreiber unterzeichnet. Die Unterzeichnung kann vertretungsweise durch ein anderes Gerichtsmitglied, das an der Entscheidfällung beteiligt war, und durch eine andere Gerichtsschreiberin oder einen anderen Gerichtsschreiber erfolgen. Prozesserledigende einzelrichterliche Entscheide werden vom urteilenden Gerichtsmitglied und, soweit sie an der Beratung des Entscheids teilnahmen, vom Gerichtsschreiber oder von der Gerichtsschreiberin unterzeichnet. Im Verhinderungsfall unterzeichnet das durch die Geschäftsordnung oder durch das urteilende Gerichtsmitglied als Stellvertretung bezeichnete Mitglied des Gerichts.
+<sup>6</sup> Die Entscheide werden von der oder dem Vorsitzenden und von der Gerichtsschreiberin oder vom Gerichtsschreiber unterzeichnet. Die Unterzeichnung kann vertretungsweise oder bei Ausscheidung aus dem Amt durch ein anderes Gerichtsmitglied, das an der Entscheidfällung beteiligt war, und durch eine andere Gerichtsschreiberin oder einen anderen Gerichtsschreiber erfolgen. Prozesserledigende einzelrichterliche Entscheide werden vom urteilenden Gerichtsmitglied und, soweit sie an der Beratung des Entscheids teilnahmen, vom Gerichtsschreiber oder von der Gerichtsschreiberin unterzeichnet. Im Verhinderungsfall unterzeichnet das durch die Geschäftsordnung oder durch das urteilende Gerichtsmitglied als Stellvertretung bezeichnete Mitglied des Gerichts.
 
 <sup>7</sup> Entscheidet eine Behörde endgültig, hat sie im Rechtsmittelvermerk auf die Möglichkeit der Verfassungsbeschwerde hinzuweisen.
 
@@ -936,13 +954,13 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Begründung der Entscheide**
 
-<sup>1</sup> Die Gerichtsschreiberin oder der Gerichtsschreiber verfasst möglichst beförderlich die Entscheide auf der Grundlage des Referats und der Beratung. Die oder der Gerichtsvorsitzende überwacht die Urteilsredaktion und korrigiert den Urteilsentwurf.
+<sup>1</sup> Die Gerichtsschreiberin oder der Gerichtsschreiber verfasst möglichst beförderlich die Entscheide auf der Grundlage des Referats und der Beratung. Die oder der Vorsitzende überwacht die Urteilsredaktion und korrigiert den Urteilsentwurf.
 
 #### § 76
 
 **Zirkularentscheide**
 
-<sup>1</sup> In einfachen Verfahren, bei Justizverwaltungsgeschäften und in dringenden Fällen sowie zur abschliessenden Behandlung in Fällen, in welchen in den wesentlichen Punkten bereits eine mündliche Beratung durchgeführt wurde, sind Entscheide beim Obergericht und bei den Bezirksgerichten auf dem Zirkulationsweg zulässig. In solchen Fällen ist eine mündliche Beratung durchzuführen, sobald ein Mitglied des Gerichts es verlangt.
+<sup>1</sup> In einfachen Verfahren, bei Justizverwaltungsgeschäften und in dringenden Fällen sowie zur abschliessenden Behandlung in Fällen, in denen in den wesentlichen Punkten bereits eine mündliche Beratung durchgeführt worden ist, können das Obergericht und die Bezirksgerichte Entscheide auf dem Zirkulationsweg fällen. Zirkularentscheide sind als solche zu bezeichnen. Eine mündliche Beratung ist durchzuführen, sobald ein Mitglied des Gerichts es verlangt.
 
 #### § 77
 
@@ -958,7 +976,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>5</sup> Die Publikation von Urteilen in Strafsachen kann aus triftigen Gründen in abgekürzter Form erfolgen; Abs. 4 findet sinngemäss Anwendung. In jedem Fall sind die Namen der Opfer zu anonymisieren.
 
-<sup>6</sup> Die Mitteilung rechtskräftiger Strafentscheide an die Strafvollzugsbehörde erfolgt durch die zuständige Staatsanwaltschaft.
+<sup>6</sup> Die Mitteilung von Strafentscheiden an die Strafvollzugsbehörde erfolgt durch das zuständige Gericht.
 
 #### § 78
 
@@ -966,10 +984,9 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>1</sup> Die Gerichtsschreiberinnen und Gerichtsschreiber sorgen für eine ordnungsgemässe Zustellung der Entscheide entsprechend den Bestimmungen des Bundesrechts und der Informationsverordnung des Obergerichts[^78-1].
 
-<sup>2</sup> Die Bezirksgerichte teilen den Friedensrichterämtern und der Schlichtungsbehörde gemäss Gleichstellungsgesetz[^78-2], wenn diese im Verfahren die Vermittlung durchgeführt haben, materielle Entscheide in geeigneter Form mit.
+<sup>2</sup> Die Bezirksgerichte teilen den Friedensrichterämtern und der Schlichtungsbehörde gemäss Gleichstellungsgesetz, wenn diese im Verfahren die Vermittlung durchgeführt haben, materielle Entscheide in geeigneter Form mit.
 
 [^78-1]: RB [271.1](https://www.rechtsbuch.tg.ch/data/271.1/de)
-[^78-2]: SR [151.1](https://db.clex.ch/link/Bund/151.1/de)
 
 ### 3.4.7. Rechtsmittelverfahren
 
@@ -1009,7 +1026,7 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Dauer**
 
-<sup>1</sup> Das Gerichtspraktikum soll in der Regel nicht weniger als sechs Monate und nicht länger als ein Jahr dauern. Ferien und andere Abwesenheiten werden nicht eingerechnet.
+<sup>1</sup> Das Gerichtspraktikum soll in der Regel nicht weniger als sechs Monate und nicht länger als ein Jahr dauern. Bei längeren Abwesenheiten als Folgen von Krankheit, Unfall, unbezahltem Urlaub, Mutterschaft, Militär- oder Zivildienst kann das Gerichtspraktikum verlängert werden.
 
 #### § 84
 
@@ -1073,17 +1090,17 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 **Durchführung der Konkurse**
 
-<sup>1</sup> Die Konkurse werden vom Konkursamt und Betreibungsinspektorat durchgeführt. Dieses führt ein Verzeichnis über sämtliche Konkurse.
+<sup>1</sup> Die Konkurse werden vom Amt für Betreibungs- und Konkurswesen durchgeführt. Dieses führt ein Verzeichnis über sämtliche Konkurse.
 
-<sup>2</sup> Das Konkursamt und Betreibungsinspektorat kann ausnahmsweise zur Besorgung einzelner Arbeiten im Konkursverfahren Betreibungsbeamtinnen oder Betreibungsbeamte sowie Substitutinnen oder Substituten einsetzen. Sie sind in diesem Umfang für das Konkursamt und Betreibungsinspektorat unterschriftsberechtigt.
+<sup>2</sup> Das Amt für Betreibungs- und Konkurswesen kann ausnahmsweise zur Besorgung einzelner Arbeiten im Konkursverfahren Betreibungsbeamtinnen oder Betreibungsbeamte sowie Substitutinnen oder Substituten einsetzen. Sie sind in diesem Umfang für das Amt für Betreibungs- und Konkurswesen unterschriftsberechtigt.
 
 #### § 90
 
-**Weitere Aufgaben des Konkursamts und Betreibungsinspektorats**
+**Weitere Aufgaben des Amts für Betreibungs- und Konkurswesens**
 
-<sup>1</sup> Das Konkursamt und Betreibungsinspektorat ist den Betreibungsämtern bei komplizierten Amtsgeschäften behilflich.
+<sup>1</sup> Das Amt für Betreibungs- und Konkurswesen ist den Betreibungsämtern bei komplizierten Amtsgeschäften behilflich.
 
-<sup>2</sup> Es kann der Aufsichtsbehörde im Betreibungswesen den Erlass allgemeiner Weisungen vorschlagen.
+<sup>2</sup> Es kann der oberen Aufsichtsbehörde im Betreibungswesen den Erlass allgemeiner Weisungen vorschlagen.
 
 <sup>3</sup> Es kann von der Aufsichtsbehörde zur Begutachtung betreibungsrechtlicher Probleme und zur Vernehmlassung bei Beschwerden gegen die Betreibungsämter sowie zur Beratung bei allen mit dem Betreibungswesen zusammenhängenden organisatorischen Fragen beigezogen werden.
 
@@ -1123,20 +1140,8 @@ vom 27.05.2010 (Stand 01.06.2016)
 
 <sup>1</sup> Weisungen, welche das Obergericht zur Sicherung einer einheitlichen Rechtsanwendung im Bereich der Prozessordnungen erlässt, werden auf der Webseite des Obergerichts im Internet publiziert.
 
-#### § 95a
+#### § 95a–97
 
 **…**
-
-#### § 96
-
-**...[^96-1]**
-
-[^96-1]: Aufhebung bisherigen Rechtes, ABl. 2010, Seite 1494 und ABl. 2011, Seite 3000.
-
-#### § 97
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt auf den 1. Januar 2011 in Kraft.
 
 ABl. 24/2010
