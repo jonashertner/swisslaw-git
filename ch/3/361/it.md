@@ -4,11 +4,11 @@ title: "Legge federale del 13 giugno 2008 sui sistemi d'informazione di polizia 
 short: LSIP
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/698"
 language: it
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2008-06-13
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-698-20230101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2008-698-20230401-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20230101/it"
 
 (LSIP)
 
-del 13 giugno 2008 (Stato 1° gennaio 2023)
+del 13 giugno 2008 (Stato 1° aprile 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
