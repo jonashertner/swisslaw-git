@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Bundesgesetzes über die Schweizerischen Bundesbahnen (SBBG): Nachhaltige Finanzierung der SBB"
 document: Vernehmlassungsvorlage
 language: de

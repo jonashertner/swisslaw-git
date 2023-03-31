@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge federale sulle Ferrovie federali svizzere (LFFS): finanziamento duraturo delle FFS"
 document: Progetto posto in consultazione
 language: it
