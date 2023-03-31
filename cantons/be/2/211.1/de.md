@@ -4,13 +4,13 @@ number: "211.1"
 title: Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches
 short: EG ZGB
 language: de
-version: 2023-01-01
-valid_until: 2023-03-31
-version_adopted: 2021-12-08
+version: 2023-04-01
+valid_until: 2025-11-30
+version_adopted: 2022-09-13
 adopted: 1911-05-28
 in_force: 1912-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/211.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2635/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2817/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2635/pdf_file"
 
 (EG ZGB)
 
-vom 28.05.1911 (Stand 01.01.2023)
+vom 28.05.1911 (Stand 01.04.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -110,16 +110,18 @@ beschliesst:
 
 **6 Verfahren und Rechtsmittel**
 
-<sup>1</sup> Das Verfahren der in diesem Gesetz vorgesehenen Fälle und die Ordnung von Rechtsmitteln richtet sich nach den Bestimmungen des Zivilprozessrechtes und der Verwaltungsrechtspflege[^10-1], soweit dieses Gesetz keine besondere Regelung enthält.
+<sup>1</sup> Das Verfahren der in diesem Gesetz vorgesehenen Fälle und die Ordnung von Rechtsmitteln richten sich nach den Bestimmungen des Zivilprozessrechtes und der Verwaltungsrechtspflege, soweit dieses Gesetz keine besondere Regelung enthält.
 
-<sup>2</sup> Das Obergericht beurteilt im Weiterziehungsverfahren als letzte kantonale Instanz Angelegenheiten nach Artikel 72 Absatz 2 Buchstabe b des Bundesgesetzes vom 17. Juni 2005 über das Bundesgericht (Bundesgerichtsgesetz, BGG)[^10-2], soweit das Gesetz sie nicht einer anderen Behörde zuweist.
+<sup>2</sup> Das Obergericht beurteilt im Beschwerdeverfahren als letzte kantonale Instanz Angelegenheiten nach Artikel 72 Absatz 2 Buchstabe b des Bundesgesetzes vom 17. Juni 2005 über das Bundesgericht (Bundesgerichtsgesetz, BGG)[^10-1], soweit das Gesetz sie nicht einer anderen Behörde zuweist.
 
-<sup>3</sup> Das Verfahren vor den Verwaltungs- und Verwaltungsjustizbehörden, die als Vorinstanzen des Obergerichts entscheiden, richtet sich nach den Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG). Die Weiterziehung an das Obergericht ist binnen 30 Tagen zu erheben. Abweichende Vorschriften dieses Gesetzes und der besonderen Gesetzgebung bleiben vorbehalten.
+<sup>2a</sup> Das Verfahren vor dem Obergericht richtet sich nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^10-2], wenn es sich bei der Vorinstanz um eine Verwaltungs- oder Verwaltungsjustizbehörde handelt.
+
+<sup>3</sup> Das Verfahren vor den Verwaltungs- und Verwaltungsjustizbehörden, die als Vorinstanzen des Obergerichts entscheiden, richtet sich nach den Bestimmungen des VRPG. Die Beschwerde an das Obergericht ist binnen 30 Tagen zu erheben. Abweichende Vorschriften dieses Gesetzes und der besonderen Gesetzgebung bleiben vorbehalten.
 
 <sup>4</sup> …
 
-[^10-1]: BSG 155.21
-[^10-2]: SR 173.110
+[^10-1]: SR 173.110
+[^10-2]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
 ## 2 Organisatorische Bestimmungen und kantonales Zivilrecht
 
@@ -185,7 +187,7 @@ beschliesst:
 
 <sup>3</sup> Aufsichtsbehörde in Zivilstandssachen ist die Sicherheitsdirektion.
 
-<sup>4</sup> Beschwerdeentscheide der Sicherheitsdirektion können binnen 30 Tagen an das Obergericht weitergezogen werden.
+<sup>4</sup> Beschwerdeentscheide der Sicherheitsdirektion können binnen 30 Tagen beim Obergericht angefochten werden.
 
 #### Art. 18
 
@@ -244,7 +246,7 @@ beschliesst:
 - a Beschwerde an die Direktion für Inneres und Justiz erheben, wenn die BBSA verfügt hat, und
 - b Einsprache erheben, wenn die Direktion für Inneres und Justiz verfügt hat.
 
-<sup>3</sup> Der Beschwerdeentscheid oder die neue Verfügung kann binnen 30 Tagen an das Obergericht weitergezogen werden.
+<sup>3</sup> Der Beschwerdeentscheid oder die neue Verfügung kann binnen 30 Tagen beim Obergericht angefochten werden.
 
 ### 2.3 Familienrecht
 
@@ -372,7 +374,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsstatthalter ernennt auf den unverbindlichen Vorschlag der Erben zur Durchführung des Inventars einen Massaverwalter, der die Rechte und Pflichten eines Beistandes hat.
 
-<sup>2</sup> Er führt die Aufsicht über die Durchführung des Inventars und entscheidet unter Vorbehalt der Weiterziehung über Beschwerden der Erben.
+<sup>2</sup> Er führt die Aufsicht über die Durchführung des Inventars und entscheidet über Beanstandungen der Erben.
 
 #### Art. 65
 
@@ -470,7 +472,7 @@ beschliesst:
 
 **Rechtsschutz**
 
-<sup>1</sup> Verfügungen und Beschwerdeentscheide der Regierungstatthalterin oder des Regierungsstatthalters betreffend die Aufsicht über Willensvollstreckerinnen und Willensvollstrecker und andere erbrechtliche Vertreterinnen und Vertreter, Massregeln für die Sicherung der Erbschaft sowie das öffentliche Inventar können binnen 30 Tagen an das Obergericht weitergezogen werden.
+<sup>1</sup> Verfügungen und Beschwerdeentscheide der Regierungstatthalterin oder des Regierungsstatthalters betreffend die Aufsicht über Willensvollstreckerinnen und Willensvollstrecker sowie andere erbrechtliche Vertreterinnen und Vertreter, Massregeln für die Sicherung der Erbschaft sowie das öffentliche Inventar können binnen 30 Tagen beim Obergericht angefochten werden.
 
 ### 2.5 Sachenrecht
 
@@ -907,7 +909,7 @@ beschliesst:
 
 <sup>1</sup> Die Direktion für Inneres und Justiz ist die kantonale Aufsichtsbehörde über die Grundbuchämter. Sie übt die Aufsicht über deren administrative, organisatorische und fachliche Führung aus und legt mit ihnen Leistungsvereinbarungen fest.
 
-<sup>2</sup> Beschwerdeentscheide der Direktion für Inneres und Justiz können binnen 30 Tagen an das Obergericht weitergezogen werden.
+<sup>2</sup> Beschwerdeentscheide der Direktion für Inneres und Justiz können binnen 30 Tagen beim Obergericht angefochten werden.
 
 <sup>3</sup> Der Regierungsrat regelt die Aufsicht und Steuerung durch Verordnung.
 
@@ -975,7 +977,7 @@ beschliesst:
 
 <sup>1</sup> Gegen die Einspracheverfügung des Grundbuchamts kann innert 30 Tagen Beschwerde bei der Direktion für Inneres und Justiz erhoben werden.
 
-<sup>2</sup> Beschwerdeentscheide der Direktion für Inneres und Justiz können innert 30 Tagen an das Obergericht weitergezogen werden.
+<sup>2</sup> Beschwerdeentscheide der Direktion für Inneres und Justiz können innert 30 Tagen beim Obergericht angefochten werden.
 
 #### Art. 131b
 

@@ -4,13 +4,13 @@ number: "211.1"
 title: "Loi sur l'introduction du Code civil suisse *"
 short: LiCCS
 language: fr
-version: 2023-01-01
-valid_until: 2023-03-31
-version_adopted: 2021-12-08
+version: 2023-04-01
+valid_until: 2025-11-30
+version_adopted: 2022-09-13
 adopted: 1911-05-28
 in_force: 1912-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/211.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2635/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2817/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2635/pdf_file"
 
 (LiCCS)
 
-du 28.05.1911 (état au 01.01.2023)
+du 28.05.1911 (état au 01.04.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -110,18 +110,18 @@ décrète:
 
 **6 Procédure et recours**
 
-<sup>1</sup> La procédure applicable aux cas prévus dans la présente loi et les voies de droit sont régies par les dispositions de la procédure civile[^10-1] et de la procédure administrative[^10-2], pour autant que la présente loi ne contienne pas de dispositions particulières.
+<sup>1</sup> La procédure applicable aux cas prévus dans la présente loi et les voies de droit sont régies par les dispositions de la procédure civile et de la procédure administrative, pour autant que la présente loi ne contienne pas de dispositions particulières.
 
-<sup>2</sup> La Cour suprême connaît en tant que dernière instance cantonale, en procédure de recours, des affaires au sens de l’article 72, alinéa 2, lettre b de la loi fédérale du 17 juin 2005 sur le Tribunal fédéral (LTF)[^10-3] pour autant que la loi ne les attribue pas à une autre autorité.
+<sup>2</sup> La Cour suprême connaît en tant que dernière instance cantonale, en procédure de recours, des affaires au sens de l’article 72, alinéa 2, lettre b de la loi fédérale du 17 juin 2005 sur le Tribunal fédéral (LTF)[^10-1] pour autant que la loi ne les attribue pas à une autre autorité.
 
-<sup>3</sup> La procédure devant les autorités administratives et les autorités de justice administrative statuant avant la Cour suprême est régie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^10-4]. Le recours devant la Cour suprême doit être formé dans un délai de trente jours. Les dispositions dérogatoires de la présente loi et de la législation spéciale sont réservées.
+<sup>2a</sup> La procédure devant la Cour suprême est régie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^10-2] lorsque l'instance précédente était une autorité administrative ou de justice administrative.
+
+<sup>3</sup> La procédure devant les autorités administratives et les autorités de justice administrative statuant avant la Cour suprême est régie par les dispositions de la LPJA. Le recours devant la Cour suprême doit être formé dans un délai de trente jours. Les dispositions dérogatoires de la présente loi et de la législation spéciale sont réservées.
 
 <sup>4</sup> …
 
-[^10-1]: RSB 271.1
-[^10-2]: RSB 155.21
-[^10-3]: RS 173.110
-[^10-4]: RSB 155.21
+[^10-1]: RS 173.110
+[^10-2]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
 
 ## 2 Dispositions organiques et droit civil cantonal
 
@@ -374,7 +374,7 @@ décrète:
 
 <sup>1</sup> Le préfet nomme, pour l'établissement de l'inventaire, sur la proposition non obligatoire des héritiers, un administrateur, qui a les droits et les devoirs d'un curateur.
 
-<sup>2</sup> Il exerce la surveillance sur les opérations de l'inventaire et vide, sous réserve de recours, les plaintes des héritiers.
+<sup>2</sup> Il exerce la surveillance sur les opérations de l'inventaire et vide les plaintes des héritiers.
 
 #### Art. 65
 
