@@ -4,11 +4,11 @@ title: "Ordinanza sull'energia del 1° novembre 2017 (OEn)"
 short: OEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: it
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230101/it"
 
 (OEn)
 
-del 1° novembre 2017 (Stato 1° gennaio 2023)
+del 1° novembre 2017 (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -141,11 +141,11 @@ I gestori di rete devono notificare ogni trimestre all’organo d’esecuzione l
 
 [^6-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
-## Capitolo 3: Guichet unique, progetti nel settore idroelettrico e piani direttori cantonali, interesse nazionale e costruzioni e impianti non soggetti ad autorizzazione edilizia
+## Capitolo 3: Guichet unique, progetti nel settore idroelettrico e piani direttori cantonali, interesse nazionale, costruzioni e impianti non soggetti ad autorizzazione edilizia nonché grandi impianti fotovoltaici secondo l’articolo 71*a* LEne
 
 [^chap3-1]
 
-[^chap3-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^chap3-1]: Nuovo testo giusta il n. I dell’O del 17 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 143](https://fedlex.data.admin.ch/eli/oc/2023/143)).
 
 ### Sezione 1: Guichet unique
 
@@ -264,6 +264,69 @@ Il committente notifica all’autorità competente gli impianti di prova di cui 
 <sup>3</sup> Terminate le prove, il committente smantella completamente l’impianto e ripristina immediatamente la situazione originaria, fornendone la relativa prova all’autorità.
 
 [^9b-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+
+### Sezione 4: Grandi impianti fotovoltaici di cui all’articolo 71*a* LEne
+
+[^chap3-sec4-1]
+
+[^chap3-sec4-1]: Introdotta dal n. I dell’O del 17 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 143](https://fedlex.data.admin.ch/eli/oc/2023/143)).
+
+#### Art. 9c
+
+**Campo d’applicazione materiale**
+
+I grandi impianti fotovoltaici e le linee di allacciamento di cui all’articolo 71*a* capoverso 1 LEne comprendono anche gli impianti e le installazioni necessari per la realizzazione e l’esercizio di un grande impianto fotovoltaico.
+
+#### Art. 9d
+
+**Campo d’applicazione territoriale**
+
+Le aree di esclusione secondo l’articolo 71*a* capoverso 1 lettera e LEne comprendono anche le superfici per l’avvicendamento delle colture.
+
+#### Art. 9e
+
+**Soglia della produzione complessiva annua supplementare di 2 TWh**
+
+<sup>1</sup> Determinante per il calcolo ai fini della produzione complessiva annua di 2 TWh di cui all’articolo 71*a* capoverso 1 LEne è la produzione annua attesa degli impianti autorizzati con decisioni passate in giudicato.
+
+<sup>2</sup> Le autorizzazioni, che sono state concesse sulla base dell’articolo 71*a* LEne, possono essere utilizzate solo se, nel momento del passaggio in giudicato della decisione, non è stata già raggiunta la produzione complessiva annua di 2 TWh attesa da parte degli impianti autorizzati con decisioni passate in giudicato.
+
+#### Art. 9f
+
+**Consenso del Comune**
+
+Se il diritto cantonale o comunale non stabilisce una competenza diversa, il consenso del Comune deve essere ottenuto con la stessa procedura che è determinante per la promulgazione delle leggi comunali.
+
+#### Art. 9g
+
+**Competenza dei Cantoni**
+
+Se il diritto cantonale non prevede altre competenze, l’autorizzazione cantonale è rilasciata dall’autorità secondo l’articolo 25 capoverso 2 della legge del 22 giugno 1979[^9g-1] sulla pianificazione del territorio.
+
+[^9g-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+
+#### Art. 9h
+
+**Notifiche da parte dei Cantoni e dei servizi federali**
+
+<sup>1</sup>
+
+I Cantoni e i servizi federali notificano immediatamente per iscritto all’UFE:
+
+- a. il deposito pubblico di una domanda;
+- b. la concessione di un’autorizzazione di prima istanza;
+- c. il passaggio in giudicato di un’autorizzazione;
+- d. la messa in esercizio di un impianto o di parti di un impianto;
+- e. il ritiro di una domanda e la rinuncia a un’autorizzazione.
+
+<sup>2</sup>
+
+La notifica deve essere accompagnata dalle seguenti informazioni:
+
+- a. l’ubicazione del grande impianto fotovoltaico;
+- b. la produzione di elettricità annua attesa, la produzione di elettricità attesa nel semestre invernale e la potenza prevista o realizzata del grande impianto fotovoltaico.
+
+<sup>3</sup> L’UFE allestisce un elenco accessibile al pubblico con le informazioni di cui ai capoversi 1 e 2 e lo aggiorna costantemente.
 
 ## Capitolo 4: Immissione di energia di rete e consumo proprio
 
@@ -1341,11 +1404,13 @@ Allegato 1[^t-1]
 
 [^t-1]: Abrogato dal n. II dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
-Allegato 2
+Allegato 2[^t-2]
 
 (art. 23, 24 e 26)
 
 ## Garanzie per la geotermia
+
+[^t-2]: Aggiornato dal n. II dell’O del 17 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 143](https://fedlex.data.admin.ch/eli/oc/2023/143)).
 
 ### 1 Requisiti minimi
 
@@ -1437,7 +1502,7 @@ Allegato 2
 - 3\.4.5 Su richiesta, l’UFE accerta se si è in presenza di un successo, un successo parziale o un insuccesso ed eventualmente stabilisce l’ammontare dell’importo da versare in virtù della garanzia per la geotermia. A tal fine esso si orienta ai criteri raccomandati dal gruppo di esperti e al rapporto sui risultati da questo redatto.
 - 3\.5 Calcolo dell’importo da versare
 - 3\.5.1 In caso di versamento proporzionale l’UFE calcola il relativo importo sulla base di un’analisi del valore attuale netto di tutti gli afflussi e i deflussi di cassa scontati.
-- 3\.5.2 I tassi d’interesse calcolatori del capitale si ottengono moltiplicando il capitale necessario all’esercizio per il tasso d’interesse calcolatorio secondo l’articolo 66 dell’ordinanza del 1° novembre 2017[^annex2-lvlu1-lvl3-1] sulla promozione dell’energia.
+- 3\.5.2 I tassi d’interesse calcolatori del capitale si ottengono moltiplicando il capitale necessario all’esercizio per il tasso d’interesse calcolatorio secondo l’allegato 3 dell’ordinanza del 1° novembre 2017[^annex2-lvlu1-lvl3-1] sulla promozione dell’energia.
 
 [^annex2-lvlu1-lvl3-1]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 
@@ -1526,13 +1591,13 @@ Allegato 4
 - 1\.2 Grande impianto di ricerca del Politecnico federale di Losanna
 - TCV Tokamak (Tokamak à Configuration Variable)
 
-Allegato 5[^t-2]
+Allegato 5[^t-3]
 
 (art. 43 cpv. 1 e 3)
 
 ## Calcolo del plusvalore lordo
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+[^t-3]: Nuovo testo giusta il n. II dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
 
 Per le imprese che soggiacciono alla revisione ordinaria secondo l’articolo 727 capoverso 1 CO[^annex5-lvlu1-1] (art. 43 cpv. 1), il plusvalore lordo si calcola nel modo seguente:
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'énergie (OEne)"
 short: OEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: fr
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230101/fr"
 
 (OEne)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2023)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
@@ -141,11 +141,11 @@ Conformément à l’art. 19, al. 1, LEne, les gestionnaires de réseau doivent 
 
 [^6-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
-## Chapitre 3 Guichet unique, projets d’utilisation des forces hydrauliques et plans directeur cantonaux, intérêt national et exemption de l’autorisation de construire
+## Chapitre 3 Guichet unique, projets d’utilisation des forces hydrauliques et plans directeurs cantonaux, intérêt national, exemption de l’autorisation de construire et grandes installations photovoltaïques visées à l’art. 71*a* LEne
 
 [^chap3-1]
 
-[^chap3-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^chap3-1]: Nouvelle teneur selon le ch. I de l’O du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 143](https://fedlex.data.admin.ch/eli/oc/2023/143)).
 
 ### Section 1 Guichet unique
 
@@ -260,6 +260,69 @@ Le maître d’ouvrage annonce à l’autorité compétente les installations-te
 <sup>3</sup> Au terme des essais, il démantèle complètement l’installation-test et rétablit la situation antérieure. Il fournit la preuve du démantèlement et de la remise en état aux autorités compétentes.
 
 [^9b-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+
+### Section 4 Grandes installations photovoltaïques visées à l’art. 71*a* LEne
+
+[^chap3-sec4-1]
+
+[^chap3-sec4-1]: Introduite par le ch. I de l’O du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 143](https://fedlex.data.admin.ch/eli/oc/2023/143)).
+
+#### Art. 9c
+
+**Champ d’application à raison de la matière**
+
+Les grandes installations photovoltaïques et les lignes de raccordement visées à l’art. 71*a*, al. 1, LEne comprennent également les installations et équipements nécessaires à la réalisation et à l’exploitation d’une grande installation photovoltaïque.
+
+#### Art. 9d
+
+**Champ d’application à raison du lieu**
+
+Les surfaces d’assolement font partie des zones où la mise en place est exclue en vertu de l’art. 71*a*, al. 1, let. e, LEne.
+
+#### Art. 9e
+
+**Seuil de 2 TWh pour la production annuelle supplémentaire totale**
+
+<sup>1</sup> La production annuelle attendue des installations au bénéfice d’une autorisation entrée en force est déterminante pour le calcul de la production annuelle totale de 2 TWh visée à l’art. 71*a*, al. 1, LEne.
+
+<sup>2</sup> Il ne peut être fait usage d’une autorisation octroyée sur la base de l’art. 71*a*, LEne, que si, au moment de l’entrée en force de la décision, la production annuelle totale attendue de 2 TWh pour les installations au bénéfice d’une autorisation entrée en force n’est pas encore atteinte.
+
+#### Art. 9f
+
+**Accord de la commune**
+
+Si le droit cantonal ou communal ne fixe pas d’autres compétences, l’accord de la commune est obtenu selon la procédure qui s’applique pour l’édiction des lois communales.
+
+#### Art. 9g
+
+**Compétence des cantons**
+
+Si le droit cantonal ne prévoit pas d’autres compétences, l’autorisation cantonale est octroyée par l’autorité visée à l’art. 25, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^9g-1].
+
+[^9g-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+
+#### Art. 9h
+
+**Informations à communiquer par les cantons et les services fédéraux**
+
+<sup>1</sup>
+
+Les cantons et les services fédéraux communiquent immédiatement et par écrit à l’OFEN les informations suivantes:
+
+- a. la mise à l’enquête publique d’une demande;
+- b. l’octroi d’une autorisation de première instance;
+- c. l’entrée en force d’une autorisation;
+- d. la mise en service d’une installation ou de parties d’une installation;
+- e. le retrait d’une demande et la renonciation à une autorisation.
+
+<sup>2</sup>
+
+Ils lui communiquent simultanément les informations suivantes:
+
+- a. l’emplacement de la grande installation photovoltaïque;
+- b. la production annuelle d’électricité attendue, la production d’électricité attendue pour le semestre d’hiver et la puissance prévue ou effective de la grande installation photovoltaïque.
+
+<sup>3</sup> L’OFEN tient à jour une liste publique des informations énumérées aux al. 1 et 2.
 
 ## Chapitre 4 Injection d’énergie de réseau et consommation propre
 
@@ -1281,7 +1344,7 @@ Les données personnelles, y compris les données particulièrement sensibles su
 <sup>2</sup> Les comptes annuels doivent être établis conformément aux dispositions du CO[^75-1] relatives à la comptabilité commerciale et à la présentation des comptes ainsi que conformément aux «Recommandations relatives à la présentation des comptes» (Swiss GAAP RPC)[^75-2] de la Fondation pour les recommandations relatives à la présentation des comptes.
 
 [^75-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^75-2]: www.fer.ch
+[^75-2]: [www.fer.ch](http://www.fer.ch)
 
 #### Art. 76
 
@@ -1333,11 +1396,13 @@ Annexe 1[^t-1]
 
 [^t-1]: Abrogée par le ch. II de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
-Annexe 2
+Annexe 2[^t-2]
 
 (art. 23, 24 et 26)
 
 ## Garanties pour la géothermie
+
+[^t-2]: Mise à jour par le ch. II de l’O du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 143](https://fedlex.data.admin.ch/eli/oc/2023/143)).
 
 ### 1 Exigences minimales
 
@@ -1429,7 +1494,7 @@ Annexe 2
 - 3\.4.5 Sur demande, l’OFEN établit si le projet est un succès, une réussite partielle ou un échec et fixe le cas échéant par décision le montant à verser sur la base de la garantie pour la géothermie. Il se fonde pour ce faire sur les critères recommandés par le groupe d’experts et sur le rapport de celui-ci.
 - 3\.5 Calcul du montant versé
 - 3\.5.1 En cas de versement au prorata, l’OFEN calcule le montant du versement à effectuer sur la base d’une évaluation de la valeur actuelle nette de toutes les entrées et sorties de trésorerie escomptées.
-- 3\.5.2 Les intérêts du capital calculés s’obtiennent en multipliant le capital nécessaire à l’exploitation par le taux d’intérêt calculé, conformément à l’art. 66 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’encouragement de la production d’électricité issue d’énergies renouvelables[^annex2-lvlu1-lvl3-1].
+- 3\.5.2 Les intérêts du capital calculés s’obtiennent en multipliant le capital nécessaire à l’exploitation par le taux d’intérêt calculé, conformément à l’annexe 3 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’encouragement de la production d’électricité issue d’énergies renouvelables[^annex2-lvlu1-lvl3-1].
 
 [^annex2-lvlu1-lvl3-1]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 
@@ -1518,13 +1583,13 @@ Annexe 4
 - 1\.2 Grandes installations de recherche de l’École polytechnique fédérale de Lausanne
 - TCV Tokamak (Tokamak à Configuration Variable)
 
-Annexe 5[^t-2]
+Annexe 5[^t-3]
 
 (art. 43, al. 1 et 3)
 
 ## Calcul de la valeur ajoutée brute
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
 
 Dans le cas des entreprises qui répondent aux exigences de la révision ordinaire selon l’art. 727, al. 1, CO[^annex5-lvlu1-1] (art. 43, al. 1), la valeur ajoutée brute est calculée comme suit:
 
