@@ -3,18 +3,18 @@ sr: "814.711.32"
 title: Verordnung des EDI vom 24. März 2021 über die Sachkundenachweise für Behandlungen zu kosmetischen Zwecken mit nichtionisierender Strahlung und Schall
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/207"
 language: de
-version: 2022-10-01
+version: 2023-04-01
 adopted: 2021-03-24
 in_force: 2021-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/207/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2021-207-20221001-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/207/20221001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/207/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2021-207-20230401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/207/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Sachkundenachweise für Behandlungen zu kosmetischen Zwecken mit nichtionisierender Strahlung und Schall
 
-vom 24. März 2021 (Stand am 1. Oktober 2022)
+vom 24. März 2021 (Stand am 1. April 2023)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -74,18 +74,18 @@ Anhang[^t-1]
 
 ## Sachkundenachweise
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Febr. 2022 ([AS 2022 121](https://fedlex.data.admin.ch/eli/oc/2022/121)). Bereinigt gemäss Ziff. I der V des EDI vom 30. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 502](https://fedlex.data.admin.ch/eli/oc/2022/502)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Febr. 2022 ([AS 2022 121](https://fedlex.data.admin.ch/eli/oc/2022/121)). Bereinigt gemäss Ziff. I der V des EDI vom 22. Febr. 2023, in Kraft seit 1. April 2023 ([AS 2023 94](https://fedlex.data.admin.ch/eli/oc/2023/94)).
 
 - 1\. Die nachstehenden Sachkundenachweise berechtigen zur Durchführung der Behandlungen nach Anhang 2 Ziffer 1 V-NISSG:
 
 <table>
 <tr><th>Bezeichnung Sachkundenachweis (SN)</th><th>Zulässige Behandlungen nach Anhang 2 Ziffer 1 V-NISSG</th><th>Prüfungsstellen</th></tr>
-<tr><td>SN Laser-Akupunktur</td><td>Akupunktur mittels Laser</td><td></td></tr>
-<tr><td>SN Haarentfernung mit Laser</td><td>Entfernung von Haaren mit Laser</td><td>– ASEPIB - Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté, Rue des Platanes 53, 1752 Villars-sur-Glâne – AESI Associazione Estetiste della Svizzera Italiana, A. Feradign 11, 6678 Lodano – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Basel – Schweizerische Gesellschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Schweizerischer Laserschutzverband, Leimgrubenweg 9, 4053 Basel – Ästhetik Verband Schweiz (AVS)[^annexu1-lvlu1-1], Freiburgstrasse 19, 3150 Schwarzenburg</td></tr>
-<tr><td>SN Haarentfernung mit hochenergetisch gepulstem nichtkohärenten Licht (IPL)</td><td>Entfernung von Haaren mit hochenergetisch gepulstem nichtkohärentem Licht (IPL)</td><td>– ASEPIB - Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté, Rue des Platanes 53, 1752 Villars-sur-Glâne – AESI Associazione Estetiste della Svizzera Italiana, A. Feradign 11, 6678 Lodano – Schweizerische Gesellschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg</td></tr>
-<tr><td>SN Permanent-Make-up und Tattoo</td><td>Entfernung von Permanent-Make-up und Tätowierungen mittels Laser vorbehältlich Anhang 2 Ziffer 2.2 V‑NISSG</td><td>– ASEPIB - Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté, Rue des Platanes 53, 1752 Villars-sur-Glâne – AESI Associazione Estetiste della Svizzera Italiana, A. Feradign 11, 6678 Lodano – Schweizerische Gesellschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Schweizerischer Laserschutzverband, Leimgrubenweg 9, 4053 Basel</td></tr>
-<tr><td>SN Haut und Pigmentierung</td><td>Behandlung von Akne, Falten, Narben, postinflammatorischer Hyperpigmentierung, Striae sowie Couperose, Blutschwämmchen und Spinnennävi, die kleiner als oder gleich 3 mm sind vorbehältlich Anhang 2 Ziffer 2.2 V-NISSG</td><td>– ASEPIB – Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté, Rue des Platanes 53, 1752 Villars-sur-Glâne – AESI Associazione Estetiste della Svizzera Italiana, A. Feradign 11, 6678 Lodano – Schweizerische Gesellschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Schweizerischer Laserschutzverband, Leimgrubenweg 9, 4053 Basel</td></tr>
-<tr><td>SN Cellulite und Fettpolster</td><td>Behandlung von Cellulite und Fettpolster</td><td>– ASEPIB - Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté, Rue des Platanes 53, 1752 Villars-sur-Glâne – AESI Associazione Estetiste della Svizzera Italiana, A. Feradign 11, 6678 Lodano – Schweizerische Gesellschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Schweizerischer Laserschutzverband, Leimgrubenweg 9, 4053 Basel</td></tr>
+<tr><td>SN Laser-Akupunktur</td><td>Akupunktur mittels Laser</td><td>– Chiway AG, Unterer Graben 1, 8400 Winterthur</td></tr>
+<tr><td>SN Haarentfernung mit Laser</td><td>Entfernung von Haaren mit Laser</td><td>– Association Suisse d'Esthéticiennes Propriétaires d'Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars-sur-Glâne – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Basel – Schweizerische Gesellschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Basel – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse‑West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Burgdorf</td></tr>
+<tr><td>SN Haarentfernung mit hochenergetisch gepulstem nichtkohärenten Licht (IPL)</td><td>Entfernung von Haaren mit hochenergetisch gepulstem nichtkohärentem Licht (IPL)</td><td>– Association Suisse d'Esthéticiennes Propriétaires d'Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars-sur-Glâne – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – Schweizerische Gesellschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse‑West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Burgdorf</td></tr>
+<tr><td>SN Permanent-Make-up und Tattoo</td><td>Entfernung von Permanent-Make-up und Tätowierungen mittels Laser vorbehältlich Anhang 2 Ziffer 2.2 V‑NISSG</td><td>– Association Suisse d'Esthéticiennes Propriétaires d'Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars-sur-Glâne – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Schweizerische Gesellschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Basel</td></tr>
+<tr><td>SN Haut und Pigmentierung</td><td>Behandlung von Akne, Falten, Narben, postinflammatorischer Hyperpigmentierung, Striae sowie Couperose, Blutschwämmchen und Spinnennävi, die kleiner als oder gleich 3 mm sind vorbehältlich Anhang 2 Ziffer 2.2 V-NISSG</td><td>– Association Suisse d'Esthéticiennes Propriétaires d'Instituts de Beauté (ASEPIB ), Rue des Platanes 53, 1752 Villars-sur-Glâne – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Schweizerische Gesellschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Basel – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse‑West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Burgdorf</td></tr>
+<tr><td>SN Cellulite und Fettpolster</td><td>Behandlung von Cellulite und Fettpolster</td><td>– Association Suisse d'Esthéticiennes Propriétaires d'Instituts de Beauté (ASEPIB ), Rue des Platanes 53, 1752 Villars-sur-Glâne – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Schweizerische Gesellschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Basel</td></tr>
 <tr><td>SN Nagelpilz</td><td>Behandlung von Nagelpilz</td><td></td></tr>
 </table>
 
@@ -97,6 +97,3 @@ Anhang[^t-1]
 - e. Name der Prüfungsstelle gemäss Anhang Ziffer 1;
 - f. Daten und Orte der Prüfungen.
 - [tab]
-- [tab]
-
-[^annexu1-lvlu1-1]: Die Bezeichnung der Prüfungsstelle wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
