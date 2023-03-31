@@ -3,17 +3,17 @@ canton: ZH
 number: "414.253.711"
 title: Studienordnung für die Bachelorstudiengänge des Departements Technik und Informatik (School of Engineering) an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2023-01-01"
-nachtrag: "121"
-valid_until: 2023-04-01
+version: "2023-04-01"
+nachtrag: "122"
+valid_until: 2024-08-01
 adopted: 2010-03-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_711-2010_03_25-2010_06_01-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_711-2010_03_25-2010_06_01-122.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Studienordnung für die Bachelorstudiengänge des Departements Technik und Informatik (School of Engineering) an der Zürcher Hochschule für Angewandte Wissenschaften
+# Studienordnung  für die Bachelorstudiengänge des Departements Technik und Informatik (School of Engineering)  an der Zürcher Hochschule für Angewandte Wissenschaften
 
 (vom 25. März 2010)[^t-1]
 
@@ -41,7 +41,7 @@ a.[^1-1] Aviatik b. Data Science c.[^1-2] Elektrotechnik d.[^1-3] Energie- und U
 
 **1**
 
-- 1\. 1. 23 - 119 § 2. Einzelheiten zu den Studiengängen, insbesondere zu den zu belegenden Modulen, werden im Anhang geregelt.
+- 1\. 4. 23 - 120 § 2. Einzelheiten zu den Studiengängen, insbesondere zu den zu belegenden Modulen, werden im Anhang geregelt.
 
 **Anhang**
 
@@ -51,7 +51,7 @@ a.[^1-1] Aviatik b. Data Science c.[^1-2] Elektrotechnik d.[^1-3] Energie- und U
 
 [^1-1]: Fassung gemäss B vom 30. Oktober 2014 (OS 70, 15; ABl 2014-12-19). In Kraft seit 1. April 2015.
 [^1-2]: Fassung gemäss B vom 18. Oktober 2012 (OS 68, 91; ABl 2012-12-21). In Kraft seit 1. September 2013.
-[^1-3]: Eingefügt durch B vom 5. Juli 2012 (OS 67, 494; ABl 2012-09-07). In Kraft seit 1. September 2012. 1. 1. 23 - 119 7
+[^1-3]: Eingefügt durch B vom 5. Juli 2012 (OS 67, 494; ABl 2012-09-07). In Kraft seit 1. September 2012. 1. 4. 23 - 120 7
 [^1-4]: Fassung gemäss B vom 23. August 2018 (OS 74, 33; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
 [^1-5]: Eingefügt durch B vom 1. September 2022 (OS 77, 569; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
 [^1-6]: Fassung gemäss B vom 22. August 2019 (OS 74, 566; ABl 2019-10-11). In Kraft seit 1. Dezember 2019.
@@ -59,13 +59,13 @@ a.[^1-1] Aviatik b. Data Science c.[^1-2] Elektrotechnik d.[^1-3] Energie- und U
 
 #### § 4
 
-**Anrechnung von ECTS-Credits**
+**Anrechnung von ECTS- Credits**
 
 <sup>1</sup> An der ZHAW oder andernorts erworbene ECTS-Credits werden in der Regel während fünf Jahren ab dem Semester ihres Erwerbs angerechnet.
 
 <sup>2</sup> Die Studiengangleitung entscheidet über Ausnahmen.
 
-**Endgültige Abweisung an einer anderen Hochschule**
+**Endgültige  Abweisung an einer anderen Hochschule**
 
 § 4 a.[^4-1] Studierende, die an einer anderen Fachhochschule in einem Studiengang endgültig abgewiesen wurden, werden nicht in den gleichen Studiengang an der School of Engineering aufgenommen.
 
@@ -101,7 +101,7 @@ Die Module der Assessmentstufe werden im Regelstudium im Vollzeitstudium in den 
 
 ### D. Hauptstudium
 
-**Besuch von Modulen des Hauptstudiums**
+**Besuch von  Modulen des Hauptstudiums**
 
 § 8.[^hDHauptstudium-1] Module des Hauptstudiums dürfen erst dann belegt werden, wenn das Assessment bestanden ist. Ausgenommen sind die Module aus der Modulkategorie «Kontextmodule» sowie für Teilzeitstudierende die im Anhang aufgeführten Module.
 
@@ -136,7 +136,7 @@ Mit der Bachelorarbeit kann frühestens nach erfolgreich abgeschlossener Projekt
 
 #### § 13
 
-**Rundung von Kursnoten**
+**Rundung  von Kursnoten**
 
 Die Kursnoten werden auf halbe Noten gerundet.
 
@@ -150,11 +150,11 @@ Das Bachelorstudium ist bestanden, wenn a. alle Pflicht- und die erforderlichen 
 
 **3**
 
-- 1\. 1. 23 - 119 § 15.[^14-1] Die Abschlussnote errechnet sich aus sämtlichen promotionsrelevanten Pflicht- und Wahlpflichtmodulen. Die Module werden nach ECTS-Credits gewichtet.
+- 1\. 4. 23 - 120 § 15.[^14-1] Die Abschlussnote errechnet sich aus den Noten der gemäss Anhang relevanten Pflicht- und Wahlpflichtmodule. Die Module werden nach ECTS-Credits gewichtet.
 
-**Abschlussnote**
+**Abschlussnote a. Allgemein**
 
-**Überzählige ECTS-Credits aus Wahlpflichtmodulen**
+**ECTS-Credits aus Wahlpflichtmodulen20**
 
 § 15 a.[^14-2] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
 
@@ -166,7 +166,7 @@ Das Bachelorstudium ist bestanden, wenn a. alle Pflicht- und die erforderlichen 
 
 <sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
 
-[^14-1]: Fassung gemäss B vom 23. August 2018 (OS 74, 33; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
+[^14-1]: Fassung gemäss B vom 1. September 2022 (OS 77, 569; ABl 2022-10-28). In Kraft seit 1. April 2023.
 [^14-2]: Eingefügt durch B vom 4. Juni 2020 (OS 75, 442; ABl 2020-07-17). In Kraft seit 1. Oktober 2020.
 [^14-3]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 512; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 [^14-4]: Fassung gemäss B vom 30. Oktober 2014 (OS 70, 15; ABl 2014-12-19). In Kraft seit 1. April 2015.
@@ -182,7 +182,7 @@ Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen: Bachelor of
 - e. Informatik, f.[^16-3] Maschinentechnik, g.[^16-4] Medizininformatik, h.[^16-5] Systemtechnik mit Vertiefung in [Robotik und Mechatronik oder Medizintechnik], i.[^16-6] Verkehrssysteme, j.[^16-3] Wirtschaftsingenieurwesen mit Vertiefung in [Wirtschaftsmathematik, Industrial Engineering oder Data & Service Engineering].
 
 [^16-1]: Fassung gemäss B vom 18. Oktober 2012 (OS 68, 91; ABl 2012-12-21). In Kraft seit 1. September 2013.
-[^16-2]: Eingefügt durch B vom 5. Juli 2012 (OS 67, 494; ABl 2012-09-07). In Kraft seit 1. September 2012. 1. 1. 23 - 119 7
+[^16-2]: Eingefügt durch B vom 5. Juli 2012 (OS 67, 494; ABl 2012-09-07). In Kraft seit 1. September 2012. 1. 4. 23 - 120 7
 [^16-3]: Fassung gemäss B vom 23. August 2018 (OS 74, 33; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
 [^16-4]: Eingefügt durch B vom 1. September 2022 (OS 77, 569; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
 [^16-5]: Fassung gemäss B vom 22. August 2019 (OS 74, 566; ABl 2019-10-11). In Kraft seit 1. Dezember 2019.
@@ -198,7 +198,7 @@ Studierende, die ihr Studium vor dem Herbstsemester 2010/ 2011 aufgenommen haben
 
 #### § 18
 
-**Studierende im Assessment (Studien- und Prüfungsordnung 2006)**
+**Studierende im Assessment (Studien- und Prüfungsordnung 2006)**
 
 <sup>1</sup> Studierende im Vollzeitstudium, die im Herbstsemester 2010/2011 das Assessment einmal nicht bestanden haben, wiederholen das Assessment nach dieser Studienordnung.
 
@@ -218,7 +218,7 @@ Studierende, die ihr Studium vor dem Herbstsemester 2010/ 2011 aufgenommen haben
 
 #### § 20
 
-**Studierende im Assessment des Bachelorstudiengangs Verkehrssysteme (Studienordnung für den Bachelorstudiengang Verkehrssysteme vom 4. Juni 2009)**
+**Studierende im Assessment des Bachelorstudiengangs Verkehrssysteme (Studienordnung für den Bachelorstudiengang Verkehrssysteme vom  4. Juni 2009)**
 
 <sup>1</sup> Studierende im Vollzeitstudium Verkehrssysteme, die im Herbstsemester 2010/2011 das Assessment einmal nicht bestanden haben, wiederholen das Assessment nach dieser Studienordnung.
 
@@ -240,13 +240,13 @@ Studierende, die ihr Studium vor dem Herbstsemester 2010/ 2011 aufgenommen haben
 
 #### § 22
 
-**Genehmigung und Inkrafttreten**
+**Genehmigung und  Inkrafttreten**
 
 Diese Studienordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1. Juni 2010 in Kraft. Sie ersetzt die Studien- und Prüfungsordnung für Bachelorstudiengänge der Zürcher Hochschule Winterthur vom 8. Juni 2006 und die Studienordnung für den Bachelorstudiengang Verkehrssysteme an der Zürcher Hochschule für Angewandte Wissenschaften vom 4. Juni 2009.
 
 **5**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 [^22-1]: Eingefügt durch B vom 18. Oktober 2012 (OS 68, 91; ABl 2012-12-21). In Kraft seit 1. September 2013.
 
@@ -267,7 +267,7 @@ Diese Studienordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1.
 
 [^hIÜbergangsbestimmu-2]
 
-**Studiengang Aviatik**
+**Studiengang Aviatik**
 
 § 24.[^hJÜbergangsbestimmu-1] Studierende im Studiengang Aviatik, die im Herbstsemester 2014/2015 das Hauptstudium begonnen oder bereits einen Teil des Hauptstudiums abgelegt haben, schliessen ihr Studium in der von ihnen gewählten Vertiefung mit dem Titel «Bachelor of Science ZFH in Aviatik mit Vertiefung in [Operation & Management oder Technics & Engineering]» ab.
 
@@ -308,11 +308,8 @@ Diese Studienordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1.
 <sup>3</sup> Im Übrigen gilt mit Ausnahme der in den §§ 23–26 festgelegten Regelungen zu den Vertiefungstiteln die Studienordnung gemäss Änderung vom 22. August 2019.
 
 [^hLÜbergangsbestimmu-1]: Eingefügt durch B vom 22. August 2019 (OS 74, 566; ABl 2019-10-11). In Kraft seit 1. Dezember 2019.
-[^hLÜbergangsbestimmu-2]: Fassung gemäss B vom 1. September 2022 (OS 77, 569; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
 
-### Anhang zur Studienordnung für die Bachelorstudiengänge des Departements Technik und Informatik (School of Engineering) an der Zürcher Hochschule für Angewandte Wissenschaften
-
-[^hLÜbergangsbestimmu-2]
+### Anhang<sup>19</sup> zur Studienordnung für die Bachelorstudiengänge des Departements Technik und Informatik (School of Engineering) an der Zürcher Hochschule für Angewandte Wissenschaften
 
 Der Anhang zur Studienordnung für die Bachelorstudiengänge des Departements Technik und Informatik (School of Engineering) an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
@@ -322,7 +319,7 @@ bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **9**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 ## Weitere Fussnoten
 
