@@ -3,20 +3,20 @@ canton: BL
 number: "640"
 title: Bildungsgesetz
 language: de
-version: 2021-08-01
-valid_until: 2023-03-31
-version_adopted: 2020-06-11
+version: 2023-04-01
+valid_until: 2023-09-30
+version_adopted: 2022-09-15
 adopted: 2002-06-06
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640"
-pdf: "https://bl.clex.ch/api/de/versions/3035/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3764/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Bildungsgesetz
 
-Vom 06.06.2002 (Stand 01.08.2021)
+Vom 06.06.2002 (Stand 01.04.2023)
 
 Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
@@ -442,7 +442,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Die Verordnung legt den Beitrag fest, den die Wohngemeinde an die Gemeinde, in der das Kind tagsüber regelmässig betreut wird, zu bezahlen hat.
 
-[^23-1]: GS 2016.076, [SGS 852](https://bl.clex.ch/data/852/de/art2)
+[^23-1]: [SGS 852](https://bl.clex.ch/data/852/de/art2)
 
 ### 2.2 Primarschule
 
@@ -476,7 +476,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Die Verordnung legt den Beitrag fest, den die Wohngemeinde an die Gemeinde, in der das Kind tagsüber regelmässig betreut wird, zu bezahlen hat.
 
-[^26-1]: GS 2016.076, [SGS 852](https://bl.clex.ch/data/852/de/art2)
+[^26-1]: [SGS 852](https://bl.clex.ch/data/852/de/art2)
 
 ### 2.3 Sekundarschule
 
@@ -510,9 +510,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Schulkreise**
 
-<sup>1</sup> Der Landrat legt die Schulkreise und innerhalb dieser die Schulstandorte der Sekundarschule fest[^29-1].
+<sup>1</sup> Der Landrat legt die Schulkreise und innerhalb dieser die Schulstandorte der Sekundarschule fest.[^29-1]
 
-[^29-1]: GS 37.174, [SGS 642.1](https://bl.clex.ch/data/642.1/de)
+[^29-1]: [SGS 642.1](https://bl.clex.ch/data/642.1/de)
 
 #### § 30
 
@@ -1034,7 +1034,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Der Anschluss der Schulen in kantonaler Trägerschaft an die SAL erfolgt auf der Grundlage von Weisungen der Bildungs-, Kultur- und Sportdirektion gegenüber den Schulen.
 
-[^59a-1]: GS 32.1008, [SGS 150](https://bl.clex.ch/data/150/de/art10b)
+[^59a-1]: [SGS 150](https://bl.clex.ch/data/150/de/art10b)
 
 #### § 59b
 
@@ -1060,7 +1060,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 <sup>2</sup> Unter Einhaltung der Vorgaben des Informations- und Datenschutzgesetzes[^59c-2] sowie der Fachweisungen und der jeweiligen Zugriffsberechtigungen können von der bearbeitenden Stelle abrufbare Daten zur Erfüllung des Berufsauftrags auch ausserhalb der SAL auf Medien abgespeichert werden, die durch entsprechende kantonale Benutzungsreglemente freigegeben sind.
 
 [^59c-1]: [SR 831.10](https://db.clex.ch/link/Bund/831.10/de)
-[^59c-2]: GS 37.1165, [SGS 162](https://bl.clex.ch/data/162/de)
+[^59c-2]: [SGS 162](https://bl.clex.ch/data/162/de)
 
 #### § 59d
 
@@ -1076,13 +1076,13 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - d. das Amt für Volksschulen;
 - e. die Dienststelle Gymnasien;
 - f. das Amt für Berufsbildung und Berufsberatung;
-- g. das Statistische Amt.
+- g. das Amt für Daten und Statistik.
 
 <sup>3</sup> Schülerinnen und Schüler haben Zugriff auf die in der SAL vorhandenen eigenen Daten. Erziehungsberechtigten steht der Zugang zur SAL nur über den Account ihrer Kinder zur Verfügung.
 
 <sup>4</sup> Der Regierungsrat legt in der Verordnung die Abfrageberechtigung im Einzelnen fest.
 
-[^59d-1]: GS 37.1165, [SGS 162](https://bl.clex.ch/data/162/de/art9)
+[^59d-1]: [SGS 162](https://bl.clex.ch/data/162/de/art9)
 
 ### 3.2 Qualitätssicherung
 
@@ -1510,7 +1510,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - d. Er legt die Schulkreise und die Schulstandorte der Sekundarschule fest.[^89-1]
 - e. Er legt die Schulorte der vom Kanton geführten Schulen der Sekundarstufe II fest.
 
-[^89-1]: GS 37.0174, [SGS 642.1](https://bl.clex.ch/data/642.1/de)
+[^89-1]: [SGS 642.1](https://bl.clex.ch/data/642.1/de)
 
 ## 5 Disziplinar- und Beschwerdewesen
 
@@ -1619,7 +1619,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>4</sup> Das Nähere regelt die Verordnung.
 
-[^98-1]: GS 36.0854, [SGS 681.22](https://bl.clex.ch/data/681.22/de)
+[^98-1]: [SGS 681.22](https://bl.clex.ch/data/681.22/de)
 
 #### § 99
 
@@ -1727,7 +1727,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Das Gesetz über die Arbeitsverhältnisse der Mitarbeiterinnen und Mitarbeiter des Kantons (Personalgesetz) vom 25. September 1997[^103-1] wird wie folgt geändert: ...[^103-2]
 
-[^103-1]: GS 32.1008, [SGS 150](https://bl.clex.ch/data/150/de)
+[^103-1]: [SGS 150](https://bl.clex.ch/data/150/de)
 [^103-2]: GS 34.666
 
 #### § 104
@@ -1736,7 +1736,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Das Verwaltungsverfahrensgesetz vom 13. Juni 1988[^104-1] wird wie folgt geändert: ...[^104-2]
 
-[^104-1]: GS 29.677, [SGS 175](https://bl.clex.ch/data/175/de)
+[^104-1]: [SGS 175](https://bl.clex.ch/data/175/de)
 [^104-2]: GS 34.666
 
 #### § 105
@@ -1745,7 +1745,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Das Gesetz über die Organisation und die Verwaltung der Gemeinden (Gemeindegesetz) vom 28. Mai 1970[^105-1] wird wie folgt geändert: ...[^105-2]
 
-[^105-1]: GS 24.293, [SGS 180](https://bl.clex.ch/data/180/de)
+[^105-1]: [SGS 180](https://bl.clex.ch/data/180/de)
 [^105-2]: GS 34.666
 
 ### 7.2 Aufhebung bisherigen Rechts
@@ -1761,10 +1761,10 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - c. Gesetz über die Beteiligung an der Universität Basel vom 19. Januar 1976[^106-3];
 - d. Dekret zum Schulgesetz vom 3. Dezember 1979[^106-4].
 
-[^106-1]: GS 27.169, SGS 640
-[^106-2]: GS 29.124, SGS 681
-[^106-3]: GS 26.112, SGS 664
-[^106-4]: GS 27.245, SGS 640.1
+[^106-1]: GS 27.169
+[^106-2]: GS 29.124
+[^106-3]: GS 26.112
+[^106-4]: GS 27.245
 
 ### 7.3 Übergangsbestimmungen
 
@@ -1838,13 +1838,19 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die bisherigen Schulpflegen und Aufsichtskommissionen werden mit Inkrafttreten des Bildungsgesetzes zu Schulräten.
 
-<sup>2</sup> Die Amtsperiode der Schulpflegen, welche am 31. Dezember 2003 ablaufen würde, und die Amtsperiode der Aufsichtskommissionen, welche am 31. März 2004 auslaufen würde, werden bis zum 31. Juli 2004 verlängert. Die nächste Amtsperiode der Schulräte beginnt am 1. August 2004.
+<sup>2</sup> Die nächste 4-jährige Amtsperiode der Schulräte der kantonalen Schulen und der kommunalen Schulen beginnt am 1. August 2024. Sofern sich die Einwohnergemeinde für ein Führungsmodell ohne Schulrat entscheidet, endet die Amtsperiode der Schulräte mit Inkrafttreten des neuen Führungsmodells.
 
 <sup>3</sup> Die bisherigen Sekundarschulpflegen sind nach Inkrafttreten des Bildungsgesetzes als Schulräte für die aus den bisherigen Real- und Sekundarschulen neu gebildeten Sekundarschulen zuständig.
 
 <sup>4</sup> Die gemäss Schulgesetz vom 26. April 1979[^111-1] ausschliesslich für Realschulen zuständigen Schulpflegen werden mit Inkrafttreten des Bildungsgesetzes aufgelöst.
 
 [^111-1]: GS 27.169
+
+#### § 111b
+
+**Schulführung der kommunalen Schulen gemäss Änderung des Bildungsgesetzes vom 15. September 2022 [LRV 2021/568]**
+
+<sup>1</sup> Die Einwohnergemeinden müssen den Entscheid der Gemeindeversammlung über das künftige Führungsmodell der Primarstufe gemäss § 185b Gemeindegesetz bis spätestens am 31. Juli 2025 mit den gegebenenfalls notwendigen Erlassanpassungen umsetzen.
 
 #### § 112
 
