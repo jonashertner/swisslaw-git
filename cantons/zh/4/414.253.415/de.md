@@ -3,17 +3,17 @@ canton: ZH
 number: "414.253.415"
 title: Studienordnung für den Masterstudiengang Language and Communication an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2023-01-01"
-nachtrag: "121"
-valid_until: 2023-04-01
+version: "2023-04-01"
+nachtrag: "122"
+valid_until: 2024-04-01
 adopted: 2009-06-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_415-2009_06_04-2009_08_01-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_415-2009_06_04-2009_08_01-122.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Studienordnung für den Masterstudiengang Angewandte Linguistik an der Zürcher Hochschule für Angewandte Wissenschaften
+# Studienordnung  für den Masterstudiengang Angewandte Linguistik  an der Zürcher Hochschule für Angewandte  Wissenschaften
 
 (vom 4. Juni 2009)[^t-1]
 
@@ -66,7 +66,7 @@ Der Masterstudiengang kann in den folgenden Vertiefungen durchgeführt werden:[^
 
 **1**
 
-- 1\. 1. 23 - 119 § 5. <sup>1</sup> An der ZHAW oder andernorts erworbene Credits werden während fünf Jahren ab dem Semester ihres Erwerbs angerechnet.[^4-1]
+- 1\. 4. 23 - 120 § 5. <sup>1</sup> An der ZHAW oder andernorts erworbene Credits werden während fünf Jahren ab dem Semester ihres Erwerbs angerechnet.[^4-1]
 
 **Anrechnung von Credits**
 
@@ -93,7 +93,7 @@ Der Masterstudiengang kann in den folgenden Vertiefungen durchgeführt werden:[^
 
 #### § 7
 
-**Aufnahmeprüfung fachliche Eignung**
+**Aufnahmeprüfung  fachliche  Eignung**
 
 <sup>1</sup> Die ZHAW führt für sämtliche Bewerberinnen und Bewerber eine Aufnahmeprüfung fachliche Eignung für die gewählte Vertiefung durch. Die Prüfung besteht aus folgenden Teilen:[^hBZulassungzumStu-2] a. Fachübersetzen: Prüfung über translatorische Fähigkeiten und Potenzial für Studium und Beruf;
 
@@ -112,7 +112,7 @@ Der Masterstudiengang kann in den folgenden Vertiefungen durchgeführt werden:[^
 
 #### § 8
 
-**Endgültige Abweisung an einer anderen Hochschule**
+**Endgültige  Abweisung an einer anderen Hochschule**
 
 **Wechsel der Vertiefung**
 
@@ -154,36 +154,46 @@ Wer ein Modul nicht besteht, muss alle nicht bestandenen Leistungsnachweise des 
 - b. 90 Credits erreicht sind.
 
 [^hDStudienabschluss-1]: Fassung gemäss B vom 14. Juni 2018 (OS 73, 372; ABl 2018-07-27). In Kraft seit 1. Januar 2019.
+[^hDStudienabschluss-2]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 567; ABl 2022-10-28). In Kraft seit 1. April 2023.
 
 #### § 13
 
-**Abschlussnote**
+**Abschlussnote a. Allgemein**
 
-<sup>1</sup> Die Abschlussnote setzt sich aus allen Modulnoten zusammen.
+<sup>1</sup> Die Abschlussnote setzt sich aus den gemäss Anhang relevanten Modulnoten zusammen.[^hDStudienabschluss-2]
 
 <sup>2</sup> Die Modulnoten werden nach Credits gewichtet.
 
 **3**
 
-- 1\. 1. 23 - 119 § 14.[^13-1] Der Masterstudiengang wird mit dem Titel «Master of Arts ZHAW in Angewandter Linguistik mit Vertiefung in [gewählte Vertiefung]» abgeschlossen.
+- 1\. 4. 23 - 120 § 13 a.[^13-1] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
+
+**b. Credits aus Wahlpflichtmodulen**
+
+<sup>2</sup> Der Anhang regelt,
+
+- a. ob die Belegung von überzähligen Wahlpflichtmodulen möglich ist,
+
+- b. wie die Studierenden bei der Wahl der Module bestimmen, welche Wahlpflichtmodule überzählig sind.
+
+<sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
 
 **Titel**
 
-[^13-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 505; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
+§ 14.[^13-2] Der Masterstudiengang wird mit dem Titel «Master of Arts ZHAW in Angewandter Linguistik mit Vertiefung in [gewählte Vertiefung]» abgeschlossen.
+
+[^13-1]: Eingefügt durch B vom 7. Juli 2022 (OS 77, 567; ABl 2022-10-28). In Kraft seit 1. April 2023.
+[^13-2]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 505; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 ### E. Schlussbestimmung
 
 #### § 15
 
-**Genehmigung und Inkrafttreten**
+**Genehmigung und  Inkrafttreten**
 
 Diese Studienordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1. August 2009 in Kraft.
 
-[^15-1]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 567; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
-
-### Anhang zur Studienordnung für den Masterstudiengang Angewandte Linguistik an der Zürcher Hochschule für Angewandte Wissenschaften
-
-[^15-1]
+### Anhang<sup>10</sup> zur Studienordnung für den Masterstudiengang  Angewandte Linguistik an der Zürcher Hochschule  für Angewandte Wissenschaften
 
 Der Anhang zur Studienordnung für den Masterstudiengang Angewandte Linguistik an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
@@ -193,7 +203,7 @@ bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 ## Weitere Fussnoten
 
