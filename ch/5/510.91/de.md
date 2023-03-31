@@ -4,29 +4,32 @@ title: Bundesgesetz vom 3. Oktober 2008 über militärische und andere Informati
 short: MIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: de
-version: 2023-01-23
+version: 2023-04-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230123-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230401-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Bundesgesetz über die militärischen Informationssysteme
+# Bundesgesetz über militärische und andere Informationssysteme im VBS
 
-(MIG)
+(MIG)[^t-1]
 
-vom 3. Oktober 2008 (Stand am 23. Januar 2023)
+vom 3. Oktober 2008 (Stand am 1. April 2023)
+
+[^t-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 40 Absatz 2 und 60 Absatz 1 der Bundesverfassung[^ingress-1], nach Einsicht in die Botschaft des Bundesrates vom 7. März 2008[^ingress-2],
+gestützt auf die Artikel 40 Absatz 2, 60 Absatz 1 und 173 Absatz 2 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaft des Bundesrates vom 7. März 2008[^ingress-3],
 
 beschliesst:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)
+[^ingress-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^ingress-3]: [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -36,18 +39,24 @@ beschliesst:
 
 <sup>1</sup>
 
-Dieses Gesetz regelt die Bearbeitung von besonders schützenswerten Personendaten sowie von Persönlichkeitsprofilen (Daten) in Informationssystemen und beim Einsatz von Überwachungsmitteln der Armee und der Militärverwaltung durch:
+Dieses Gesetz regelt die Bearbeitung von Personendaten natürlicher und juristischer Personen (Daten), einschliesslich besonders schützenswerter Personendaten, in Informationssystemen und beim Einsatz von Überwachungsmitteln der Armee und des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS) durch:[^1-1]
 
 - a. Behörden des Bundes und der Kantone;
-- b. Kommandanten und Kommandostellen der Armee (militärische Kommandos);
-- c. die übrigen Angehörigen der Armee;
-- d. Dritte, die Aufgaben im Zusammenhang mit dem Militärwesen erfüllen.
+- b.[^1-2] Kommandantinnen, Kommandanten und Kommandostellen der Armee (militärische Kommandos) sowie Kommandantinnen und Kommandanten des Zivilschutzes;
+- c.[^1-3] weitere Angehörige der Armee und des Zivilschutzes;
+- d.[^1-4] Dritte, die Aufgaben im Zusammenhang mit dem Militär- und Zivilschutzwesen oder für das VBS erfüllen.
 
-<sup>2</sup> Es gilt nicht für den Nachrichtendienst.
+<sup>2</sup> Es gilt nicht für die Datenbearbeitung durch die Nachrichtendienste.[^1-5]
 
-<sup>3</sup> Soweit dieses Gesetz keine besonderen Bestimmungen enthält, ist das Bundesgesetz vom 19. Juni 1992[^1-1] über den Datenschutz anwendbar.
+<sup>3</sup> Soweit dieses Gesetz keine besonderen Bestimmungen enthält, ist das Bundesgesetz vom 19. Juni 1992[^1-6] über den Datenschutz (DSG) anwendbar.[^1-7]
 
-[^1-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^1-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-5]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-6]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^1-7]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 2
 
@@ -55,10 +64,10 @@ Dieses Gesetz regelt die Bearbeitung von besonders schützenswerten Personendate
 
 <sup>1</sup>
 
-Soweit es zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben notwendig ist, dürfen die Stellen und Personen nach Artikel 1 Absatz 1:
+Soweit es zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben notwendig ist, dürfen die Stellen und Personen nach Artikel 1 Absatz 1 beim Betrieb von Informationssystemen oder beim Einsatz von Überwachungsmitteln der Armee und des VBS:[^2-1]
 
-- a. Daten bearbeiten und insbesondere durch ein Abrufverfahren zugänglich machen, soweit es dieses Gesetz oder ein anderes Bundesgesetz ausdrücklich vorsieht;
-- b. die AHV-Nummer[^2-1] nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1946[^2-2] über die Alters- und Hinterlassenenversicherung verwenden;
+- a.[^2-2] …
+- b. die AHV-Nummer[^2-3] nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1946[^2-4] über die Alters- und Hinterlassenenversicherung verwenden;
 - c. Daten in elektronischer Form bekannt geben, sofern ein angemessener Schutz gegen unbefugtes Bearbeiten gewährleistet ist.
 
 <sup>2</sup> Die Stellen und Personen, bei denen Daten beschafft werden dürfen, sind zur unentgeltlichen Bekanntgabe verpflichtet.
@@ -69,8 +78,10 @@ Soweit es zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben notwendi
 
 <sup>5</sup> Bilder, die eindeutig identifizierbare Personen im Militärdienst zeigen, dürfen nur mit deren schriftlicher Einwilligung veröffentlicht werden.
 
-[^2-1]: Ausdruck gemäss Anhang Ziff. 14 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde im ganzen Erlass vorgenommen.
-[^2-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^2-2]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022, mit Wirkung seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^2-3]: Ausdruck gemäss Anhang Ziff. 14 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde im ganzen Erlass vorgenommen.
+[^2-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 2a
 
@@ -94,15 +105,15 @@ Die verantwortlichen Organe nach diesem Gesetz können zur Kontrolle des Zugangs
 
 #### Art. 3
 
-**Betrieb der Informationssysteme**
+[^3-1]
 
-Die Informationssysteme werden als eigenständige Applikationen oder auf der Plattform der Büroautomation von der Führungsunterstützungsbasis der Armee betrieben.
+[^3-1]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022, mit Wirkung seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 4
 
 **Verbund von Informationssystemen**
 
-<sup>1</sup> Die Gruppe Verteidigung und die Gruppe armasuisse betreiben einen Verbund der Informationssysteme nach den Kapiteln 2–6.
+<sup>1</sup> Das VBS und seine Verwaltungseinheiten betreiben gemeinsam einen Verbund der in diesem Gesetz und dessen Ausführungsbestimmungen geregelten Informationssysteme.[^4-1]
 
 <sup>2</sup>
 
@@ -110,6 +121,8 @@ Die Systeme werden so miteinander verbunden, dass die zuständigen Stellen und P
 
 - a. mit einer einzigen Abfrage prüfen können, ob Personen, deren Daten sie zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben benötigen, in den ihnen zugänglichen Informationssystemen des Verbunds verzeichnet sind;
 - b. Daten, die in mehreren Informationssystemen des Verbunds geführt werden dürfen, von einem System ins andere übertragen können.
+
+[^4-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 5
 
@@ -119,11 +132,15 @@ Der Bundesrat kann Informationssysteme zusammenführen, ersetzen oder aufheben, 
 
 #### Art. 6
 
-**Datenbearbeitung im Rahmen der internationalen Zusammenarbeit**
+**Datenbearbeitung im Rahmen der internationalen Zusammenarbeit**[^6-1]
 
-<sup>1</sup> Die zuständigen Behörden und militärischen Kommandos dürfen im Rahmen der Zusammenarbeit mit Behörden und militärischen Kommandos anderer Länder sowie internationalen Organisationen Daten bearbeiten, soweit ein formelles Gesetz oder ein Staatsvertrag, der dem fakultativen Referendum unterstand, dies vorsieht.
+Die zuständigen Behörden und militärischen Kommandos dürfen im Rahmen der Zusammenarbeit mit Behörden und militärischen Kommandos anderer Länder sowie internationalen Organisationen Daten bearbeiten und insbesondere durch Abrufverfahren bekannt geben, wenn dies:
 
-<sup>2</sup> Behörden und militärische Kommandos anderer Länder sowie internationale Organisationen dürfen die Daten nur dann mittels Abrufverfahren einsehen, wenn ein formelles Gesetz oder ein Staatsvertrag, der dem fakultativen Referendum unterstand, dies vorsieht.
+- a. in einem Gesetz im formellen Sinn oder einem Staatsvertrag, der dem fakultativen Referendum unterstand, vorgesehen ist; oder
+- b. in den vom Bundesrat erlassenen Ausführungsbestimmungen zu diesem Gesetz oder in einem vom Bundesrat abgeschlossenen internationalen Abkommen vorgesehen ist und für die Bearbeitung dieser Daten gemäss DSG[^6-2] keine Grundlage in einem Gesetz im formellen Sinn erforderlich ist.
+
+[^6-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^6-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 7
 
@@ -131,17 +148,19 @@ Der Bundesrat kann Informationssysteme zusammenführen, ersetzen oder aufheben, 
 
 <sup>1</sup> Soweit es zur Erfüllung ihrer Kontrollaufgaben erforderlich ist, dürfen die armee- und verwaltungsinternen Kontrollstellen sowie die armee- und verwaltungsinternen Stellen oder Personen, denen die Überprüfung der Einhaltung der Datenschutzvorschriften obliegt, Daten bearbeiten.
 
-<sup>2</sup> Die mit Wartungs-, Unterhalts- oder Programmieraufgaben betrauten Personen dürfen Daten nur bearbeiten, soweit dies zur Erfüllung der Aufgaben unbedingt erforderlich ist und die Datensicherheit gewährleistet ist. Die Daten dürfen dabei nicht verändert werden.
+<sup>2</sup> Die mit Wartungs-, Unterhalts- oder Programmieraufgaben betrauten Personen, einschliesslich beigezogener externer Leistungserbringerinnen und Leistungserbringer, dürfen Daten bearbeiten, soweit dies zur Erfüllung der Aufgaben erforderlich ist und die Datensicherheit gewährleistet ist.[^7-1] Die Daten dürfen dabei nicht verändert werden.
+
+[^7-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 8
 
-**Aufbewahrung, Löschung, Archivierung und Vernichtung der Daten**
+**Aufbewahrung, Archivierung und Vernichtung der Daten**[^8-1]
 
 <sup>1</sup> Die Daten werden nur so lange aufbewahrt, wie es der Bearbeitungszweck erfordert.
 
-<sup>2</sup> Die nicht mehr benötigten Daten werden gelöscht; in einem Informationssystem zwingend miteinander verknüpfte Daten werden als Block gelöscht, sobald die Aufbewahrungsdauer für alle diese Daten abgelaufen ist.
+<sup>2</sup> Nicht mehr benötigte Daten werden dem Bundesarchiv zur Archivierung angeboten und anschliessend vernichtet.
 
-<sup>3</sup> Nicht mehr benötigte Daten werden mit den dazugehörigen Unterlagen dem Bundesarchiv zur Archivierung angeboten. Vom Bundesarchiv als nicht archivwürdig beurteilte Daten und Unterlagen werden vernichtet.
+[^8-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 9
 
@@ -163,16 +182,9 @@ Nicht bearbeitet werden dürfen Daten über:
 
 #### Art. 11
 
-**Einschränkungen der Datenbearbeitung**
+[^11-1]
 
-<sup>1</sup> Daten über die Intimsphäre dürfen nur in Form von Zahlenwerten bekannt gegeben oder durch ein Abrufverfahren zugänglich gemacht werden. Sie werden längstens fünf Jahre aufbewahrt.
-
-<sup>2</sup>
-
-Persönlichkeitsprofile werden längstens aufbewahrt:
-
-- a. bis zur Entlassung aus der Militärdienstpflicht; oder
-- b. während fünf Jahren ab Beendigung der Anstellung bei der Gruppe Verteidigung.
+[^11-1]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022, mit Wirkung seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ## 2. Kapitel: Personalinformationssysteme
 
@@ -201,16 +213,23 @@ Das PISA dient zur Erfüllung folgender Aufgaben:
 - c. Zulassung von Schweizerinnen, Auslandschweizerinnen und Auslandschweizern zum Militärdienst;
 - d. Zuteilung und Zuweisung zur Armee oder zum Zivilschutz;
 - e. Kontrolle über die Erfüllung der Militärdienst- oder Schutzdienstpflicht;
-- f. Verhinderung von Missbräuchen der Erwerbsersatzordnung in der Armee oder im Zivilschutz;
+- f.[^13-2] Durchführung der Erwerbsersatzordnung in der Armee oder im Zivilschutz;
 - g. Kontrolle über den freiwilligen Einsatz in der Armee oder im Zivilschutz;
 - h. Planung, Bewirtschaftung und Kontrolle der personellen Bestände der Armee und des Zivilschutzes;
 - i. Aufgebot, Verschiebung von Ausbildungsdiensten und Dispensation oder Beurlaubung vom Assistenz- und Aktivdienst in der Armee;
 - j. Aufgebot sowie Verschiebung, Beurlaubung und Dispensation von Schutzdiensten im Zivilschutz;
 - k. Verstorbenen- und Vermisstendienst der Armee und des Zivilschutzes;
 - l. Verhinderung des Missbrauchs der persönlichen Waffe;
-- m. Kaderselektion und Kontrolle des Verfahrens für das Qualifikations- und Mutationswesen sowie von Beförderungen und Ernennungen in der Armee und im Zivilschutz.
+- m. Kaderselektion und Kontrolle des Verfahrens für das Qualifikations- und Mutationswesen sowie von Beförderungen und Ernennungen in der Armee und im Zivilschutz;
+- n.[^13-3] Prüfung und Kontrolle der Ausbildungsgutschriften;
+- o.[^13-4] Fallführung im Rahmen der psychologischen Betreuung von Angehörigen der Armee während des Militärdienstes;
+- p.[^13-5] Verwendung seiner Daten in anonymisierter Form zur Beantwortung von Anfragen zu Zahlen betreffend das VBS.
 
 [^13-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^13-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^13-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^13-4]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^13-5]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 14
 
@@ -221,8 +240,23 @@ Das PISA dient zur Erfüllung folgender Aufgaben:
 Das PISA enthält folgende Daten der Stellungspflichtigen, der Militärdienstpflichtigen, des für die Friedensförderung vorgesehenen Personals sowie von Zivilpersonen, die von der Truppe betreut oder für einen befristeten Einsatz der Armee beigezogen werden:
 
 - a. Entscheide über die Tauglichkeit für den Militär- und Schutzdienst, das Leistungsprofil und die Zuteilung;
+- a<sup>bis</sup>.[^14-2]
+
+  die bei der Rekrutierung mittels Untersuchungen, Tests und Befragungen erhobenen und als Grundlage für die Entscheide nach Buchstabe a dienenden Daten über:
+
+  - 1\. den Gesundheitszustand: Anamnese, Elektrokardiogramm, Lungenfunktion, Hör- und Sehvermögen, Intelligenztest, Textverständnistest, Fragebogen zur Erkennung von psychischen Erkrankungen, freiwillige Labor- und Röntgenuntersuchungen,
+  - 2\. die körperliche Leistungsfähigkeit: Kondition mit ihren Komponenten Ausdauer, Kraft, Schnelligkeit sowie koordinative Fähigkeiten,
+  - 3\. die Intelligenz und Persönlichkeit: allgemeine Intelligenz, Problemlösefähigkeit, Konzentrationsfähigkeit und Aufmerksamkeit, Flexibilität, Gewissenhaftigkeit und Selbstbewusstsein sowie Veranlagung zu Handlungen,
+  - 4\. die Psyche: Angstfreiheit, Selbstbewusstsein, Stressresistenz, emotionale Stabilität und Umgänglichkeit,
+  - 5\. die soziale Kompetenz: Verhalten und Sensitivität in der Gesellschaft, der Gemeinschaft und der Gruppe,
+  - 6\. die Eignung zur Ausübung bestimmter Funktionen: funktionsbezogene Eignungsprüfungen, soweit sich die Eignung nicht aus dem Leistungsprofil nach den Ziffern 1–5 ergibt,
+  - 7\. das grundsätzliche Kaderpotenzial: Potenzial zur Verwendung als Unteroffizier, höherer Unteroffizier oder Offizier,
+  - 8\. die persönlichen Interessen betreffend Erfüllung der Militärdienstpflicht,
+  - 9\. das Gefahrenpotenzial betreffend den Missbrauch der persönlichen Waffe;
+
 - b. Daten über das Kaderpotenzial und die Kaderbeurteilung sowie solche des Dienstetats;
 - c. Daten über die Eignung zur Ausübung von bestimmten Funktionen sowie von speziellen Funktionen mit erhöhten Anforderungen, sofern sich die Eignung nicht aus dem Leistungsprofil ergibt;
+- c<sup>bis</sup>.[^14-3] Daten über absolvierte Ausbildungen und erlangte Berechtigungen für die Bedienung von militärischen Systemen;
 - d. Daten über den militärischen Status sowie über die Zulassung zum Zivildienst;
 - e. Daten über Dienstvormerke und Dienstleistungen;
 - f. Kontrolldaten über Nachforschungen bei unbekanntem Aufenthalt;
@@ -232,11 +266,12 @@ Das PISA enthält folgende Daten der Stellungspflichtigen, der Militärdienstpfl
 - j. Daten, die von der betreffenden Person freiwillig gemeldet wurden;
 - k. Daten für den Verstorbenen- und Vermisstendienst;
 - l. Daten über die Abgabe und Rücknahme sowie Entscheide über die Abnahme und den Entzug der persönlichen Waffe sowie der Leihwaffe;
-- m. Daten aus Strafverfahren gegen Angehörige der Armee und Stellungspflichtige sowie Meldungen nach Artikel 113 Absätze 7 und 8 des Militärgesetzes vom 3. Februar 1995[^14-2] (MG), sofern ernstzunehmende Anzeichen oder Hinweise bestehen, dass die betroffene Person sich selbst oder Dritte mit der persönlichen Waffe gefährden könnte.
+- m. Daten aus Strafverfahren gegen Angehörige der Armee und Stellungspflichtige sowie Meldungen nach Artikel 113 Absätze 7 und 8 des Militärgesetzes vom 3. Februar 1995[^14-4] (MG), sofern ernstzunehmende Anzeichen oder Hinweise bestehen, dass die betroffene Person sich selbst oder Dritte mit der persönlichen Waffe gefährden könnte;
+- n.[^14-5] Daten für die Prüfung und Kontrolle von Anträgen auf Auszahlung von Ausbildungsgutschriften.
 
 <sup>2</sup>
 
-Das PISA enthält folgende Daten der Zivildienstpflichtigen:
+Es enthält folgende Daten der Zivildienstpflichtigen:[^14-6]
 
 - a. Entscheide über die Zulassung und die Aufhebung der Zulassung zum Zivildienst;
 - b. Daten, die von der betreffenden Person freiwillig gemeldet wurden.
@@ -258,8 +293,31 @@ Es enthält folgende Daten der Schutzdienstpflichtigen:
 - k. Daten für den Verstorbenen- und Vermisstendienst;
 - l. Kontrolldaten über Nachforschungen bei unbekanntem Aufenthalt.
 
+<sup>4</sup>
+
+Es enthält folgende Daten der vom psychologisch-pädagogischen Dienst der Armee (PPD) betreuten Personen:
+
+- a. Daten über Einteilung, Grad, Funktion und Ausbildung in der Armee;
+- b.
+
+  folgende psychologische Daten:
+
+  - 1\. Daten zum psychischen Zustand,
+  - 2\. anamnestisch-biografisch erhobene Daten zu den psychischen Eigenschaften,
+  - 3\. Resultate psychologischer Tests,
+  - 4\. Zeugnisse von zivilen psychologischen Fachpersonen;
+
+- c. sanitätsdienstliche Daten psychologischer oder psychiatrischer Herkunft, die zur Erfüllung der Aufgaben nach Artikel 13 notwendig sind;
+- d. Korrespondenz mit den betreuten Personen sowie den involvierten Stellen;
+- e. Daten, die von der betreuten Person freiwillig gemeldet wurden.[^14-7]
+
 [^14-1]: Fassung gemäss Ziff. II des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^14-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^14-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-4]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^14-5]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-6]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-7]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 15
 
@@ -267,7 +325,7 @@ Es enthält folgende Daten der Schutzdienstpflichtigen:
 
 <sup>1</sup>
 
-Die Gruppe Verteidigung, die Kreiskommandanten und die für den Zivilschutz zuständigen Stellen von Bund und Kantonen beschaffen die Daten für das PISA bei:[^15-1]
+Die Gruppe Verteidigung, die Kreiskommandantinnen und Kreiskommandanten und die für den Zivilschutz zuständigen Stellen von Bund und Kantonen beschaffen die Daten für das PISA bei:[^15-1]
 
 - a. der betreffenden Person oder ihrer gesetzlichen Vertretung;
 - b.[^15-2] den für die Einwohnerregister nach dem Registerharmonisierungsgesetz vom 23. Juni 2006[^15-3] zuständigen Behörden;
@@ -281,19 +339,30 @@ Die Gruppe Verteidigung, die Kreiskommandanten und die für den Zivilschutz zust
 
 Das PISA kann mit folgenden Informationssystemen von Bund und Kantonen so verbunden werden, dass die zuständigen Stellen und Personen diejenigen Daten, die in beiden Systemen geführt werden dürfen, von einem System ins andere übertragen können:
 
-- a. Veranstaltungsadministratorsystem (Art. 72 Abs. 1<sup>bis</sup> des Bevölkerungs- und Zivilschutzgesetzes vom 4. Oktober 2002[^15-4]);
+- a.[^15-4] Veranstaltungsadministratorsystem (Art. 93 Abs. 2 des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dezember 2019[^15-5]; BZG);
 - b. der Kontroll-, Rechnungsführung und Alarmierung im Zivilschutz dienende Informationssysteme der Kantone; sowie
-- c. Informationssysteme der Gemeinden und kantonalen Militärverwaltungen.[^15-5]
+- c. Informationssysteme der Gemeinden und kantonalen Militärverwaltungen.[^15-6]
 
-<sup>3</sup> Es kann zudem mit dem zentralen Register der laufenden Leistungen der Zentralen Ausgleichsstelle (Art. 71 Abs. 4 Bst. b des Bundesgesetzes vom 20. Dezember 1946[^15-6] über die Alters- und Hinterlassenenversicherung) so verbunden werden, dass die zuständigen Stellen und Personen die Daten, die im Register geführt werden dürfen, vom PISA ins Register übertragen können.[^15-7]
+<sup>3</sup> Es kann zudem mit dem zentralen Register der laufenden Leistungen der Zentralen Ausgleichsstelle (Art. 71 Abs. 4 Bst. b des Bundesgesetzes vom 20. Dezember 1946[^15-7] über die Alters- und Hinterlassenenversicherung) so verbunden werden, dass die zuständigen Stellen und Personen die Daten, die im Register geführt werden dürfen, vom PISA ins Register übertragen können.[^15-8]
 
-[^15-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+<sup>4</sup>
+
+Der PPD beschafft die Daten nach Artikel 14 Absatz 4 bei:
+
+- a. der von ihm betreuten Person;
+- b. den militärischen Vorgesetzten der betreuten Person;
+- c. dem Militärärztlichen Dienst;
+- d. Dritten, soweit die betreute Person dazu ihre Einwilligung gibt.[^15-9]
+
+[^15-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^15-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^15-3]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^15-4]: [[AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)Ziff. II Abs. 1 Bst. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)Anhang Ziff. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)Anhang Ziff. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)Art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)Anhang Ziff. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)Anhang Ziff. 7. [AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)Anhang Ziff. I]. Siehe heute: das BG vom 20. Dezember 2019 ([SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
-[^15-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^15-6]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^15-7]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^15-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^15-5]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^15-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^15-7]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^15-8]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^15-9]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 16
 
@@ -301,72 +370,81 @@ Das PISA kann mit folgenden Informationssystemen von Bund und Kantonen so verbun
 
 <sup>1</sup>
 
-Die Gruppe Verteidigung macht die Daten des PISA folgenden Stellen durch Abrufverfahren zugänglich:[^16-1]
+Die Gruppe Verteidigung macht die Daten des PISA, ausgenommen die Daten nach Artikel 14 Absatz 4, durch Abrufverfahren folgenden Stellen und Personen zugänglich, soweit diese die Daten zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben benötigen:[^16-1]
 
 - a. den Militärbehörden;
 - b. den militärischen Kommandos;
-- b<sup>bis</sup>.[^16-2] den mit der Rekrutierung beauftragten Stellen;
+- b<sup>bis</sup>.[^16-2] den mit der Rekrutierung beauftragten Stellen und Personen;
 - c. den für die Erhebung der Ersatzabgabe zuständigen Stellen des Bundes und der Kantone;
 - d. der Militärjustiz;
 - e. dem Bundesamt für Zivildienst (ZIVI)[^16-3];
 - f.[^16-4] den für den Zivilschutz zuständigen Stellen von Bund und Kantonen;
 - g.[^16-5] den für die Durchführung von Personensicherheitsprüfungen zuständigen Prüfbehörden;
-- h.[^16-6] der Zentralen Ausgleichsstelle zur Verhinderung von Missbräuchen der Erwerbsersatzordnung;
-- i.[^16-7] dem Nachrichtendienst des Bundes zur Feststellung der Identität von Personen, die aufgrund von Erkenntnissen über Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a des Nachrichtendienstgesetzes vom 25. September 2015[^16-8] auch eine Bedrohung für die Sicherheit der Armee darstellen können;
+- h.[^16-6] der Zentralen Ausgleichsstelle zur Durchführung der Erwerbsersatzordnung;
+- i.[^16-7] dem Nachrichtendienst des Bundes zur Feststellung der Identität von Personen, die aufgrund von Erkenntnissen über Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a des Nachrichtendienstgesetzes vom 25. September 2015[^16-8] (NDG) eine Bedrohung für die Sicherheit der Armee darstellen können;
 - j.[^16-9] der Militärversicherung, soweit dies für die Behandlung von Versicherungsfällen notwendig ist.
 
 <sup>1bis</sup> Die Zentrale Ausgleichsstelle kann die Daten nach Absatz 1 Buchstabe h den jeweils zuständigen AHV-Ausgleichskassen bekanntgeben.[^16-10]
 
+<sup>1ter</sup>
+
+Der PPD macht die Daten nach Artikel 14 Absatz 4 durch Abrufverfahren folgenden Stellen und Personen zugänglich:
+
+- a. den für die psychologische Betreuung der Angehörigen der Armee zuständigen Fachkräften des PPD;
+- b. den mit der Rekrutierung beauftragten Stellen, Ärztinnen und Ärzte;
+- c. den für den Militärärztlichen Dienst der Armee zuständigen Stellen.[^16-11]
+
 <sup>2</sup>
 
-Die Gruppe Verteidigung und die für den Zivilschutz zuständigen Stellen von Bund und Kantonen geben aus ihrem Bereich die Daten des PISA folgenden Stellen und Personen bekannt:[^16-11]
+Die Gruppe Verteidigung und die für den Zivilschutz zuständigen Stellen von Bund und Kantonen geben aus ihrem Bereich die Daten des PISA folgenden Stellen und Personen bekannt:[^16-12]
 
 - a.
 
   den Strafuntersuchungs- und Strafverfolgungsbehörden:
 
   - 1\. soweit dies für die Untersuchung notwendig ist und die Schwere oder Eigenart der Straftat die Auskunft rechtfertigt, oder
-  - 2\.[^16-12] sofern während des Militärdienstes oder während des Schutzdienstes eine Straftat begangen wurde, die der zivilen Gerichtsbarkeit unterliegt;
+  - 2\.[^16-13] sofern während des Militärdienstes oder während des Schutzdienstes eine Straftat begangen wurde, die der zivilen Gerichtsbarkeit unterliegt;
 
-- b.[^16-13] …
-- c.[^16-14] dem Bundesamt für Zoll und Grenzsicherheit, soweit dies für den unterstützenden Einsatz von Angehörigen der Armee notwendig ist;
+- b.[^16-14] …
+- c.[^16-15] dem Bundesamt für Zoll und Grenzsicherheit, soweit dies für den unterstützenden Einsatz von Angehörigen der Armee notwendig ist;
 - d. Dritten, soweit dies zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben notwendig ist.
 
 <sup>3</sup>
 
-Die Gruppe Verteidigung gibt folgende Daten des PISA folgenden Stellen und Personen bekannt:[^16-15]
+Die Gruppe Verteidigung gibt folgende Daten des PISA folgenden Stellen und Personen bekannt:[^16-16]
 
 - a. militärischen Vereinigungen und Schiessvereinen: Adressdaten, Grad und Einteilung von Militärdienstpflichtigen zum Zweck der Mitglieder- und Abonnentenwerbung sowie für die ausserdienstlichen Tätigkeiten;
 - b. den Medien: Name, Grad und Einteilung anlässlich von Beförderungen und Ernennungen;
-- c.[^16-16] der für das Strafregister-Informationssystem VOSTRA zuständigen Stelle des Bundes: die für die Erfüllung der Meldepflicht nach Artikel 59 des Strafregistergesetzes vom 17. Juni 2016[^16-17] notwendigen Personalien;
+- c.[^16-17] der für das Strafregister-Informationssystem VOSTRA zuständigen Stelle des Bundes: die für die Erfüllung der Meldepflicht nach Artikel 59 des Strafregistergesetzes vom 17. Juni 2016[^16-18] notwendigen Personalien;
 - d. der für die Kennzeichnung der Uniformen und von persönlichem Material zuständigen Stelle: Name und Vorname sowie für das persönliche Material zusätzlich die AHV-Nummer;
-- e.[^16-18] der Zentralstelle Waffen sowie den zuständigen kantonalen Behörden: den Entscheid über Hinderungsgründe betreffend die Abgabe der persönlichen Waffe sowie den Entscheid über deren Abnahme oder deren Entzug.
+- e.[^16-19] der Zentralstelle Waffen sowie den zuständigen kantonalen Behörden: den Entscheid über Hinderungsgründe betreffend die Abgabe der persönlichen Waffe sowie den Entscheid über deren Abnahme oder deren Entzug.
 
-<sup>3bis</sup> Die Bekanntgabe der Daten nach Absatz 3 Buchstabe e an die Datenbank nach Artikel 32*a* Absatz 1 Buchstabe d des Waffengesetzes vom 20. Juni 1997[^16-19] (WG) erfolgt über das Informationssystem integrierte Ressourcenbewirtschaftung (PSN).[^16-20]
+<sup>3bis</sup> Die Bekanntgabe der Daten nach Absatz 3 Buchstabe e an die Datenbank nach Artikel 32*a* Absatz 1 Buchstabe d des Waffengesetzes vom 20. Juni 1997[^16-20] (WG) erfolgt über das Informationssystem integrierte Ressourcenbewirtschaftung (PSN).[^16-21]
 
-<sup>4</sup> Die Angehörigen der Armee können jederzeit schriftlich bei der Gruppe Verteidigung die Datenbekanntgabe nach Absatz 3 Buchstaben a und b sperren lassen.[^16-21]
+<sup>4</sup> Die Angehörigen der Armee können jederzeit schriftlich bei der Gruppe Verteidigung die Datenbekanntgabe nach Absatz 3 Buchstaben a und b sperren lassen.[^16-22]
 
-[^16-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^16-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^16-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^16-4]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-5]: Eingefügt durch Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^16-6]: Eingefügt durch Ziff. II 1 des BG vom 27. Sept. 2013, in Kraft seit 1. Febr. 2015 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)).
-[^16-7]: Fassung gemäss Anhang Ziff. II 9 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^16-6]: Eingefügt durch Ziff. II 1 des BG vom 27. Sept. 2013 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)). Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^16-7]: Eingefügt durch Anhang Ziff. II 9 des Nachrichtendienstgesetzes vom 25. Sept. 2015 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)). Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^16-8]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^16-9]: Ursprünglich: Bst. i. Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-10]: Eingefügt durch Ziff. II 1 des BG vom 27. Sept. 2013, in Kraft seit 1. Febr. 2015 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)).
-[^16-11]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-11]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^16-12]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-13]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-14]: Fassung gemäss Ziff. I 12 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^16-15]: Fassung gemäss Anhang 2 Ziff. 4 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-13]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-14]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-15]: Fassung gemäss Ziff. I 12 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^16-16]: Fassung gemäss Anhang 2 Ziff. 4 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^16-17]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
-[^16-18]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^16-19]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^16-20]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^16-21]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-17]: Fassung gemäss Anhang 2 Ziff. 4 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-18]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^16-19]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^16-20]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^16-21]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^16-22]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 17
 
@@ -380,7 +458,7 @@ Daten des PISA über Straftaten sowie strafrechtliche Entscheide und Massnahmen 
 - b. ein Entscheid über die Eignung zur Beförderung oder Ernennung nach dem MG erging;
 - c. bei der Personensicherheitsprüfung die Sicherheitserklärung nicht erteilt oder mit Vorbehalten versehen wurde;
 - d. ein Entscheid über das Bestehen von Hinderungsgründen für die Überlassung der persönlichen Waffe erging; oder
-- e.[^17-3] ein Entscheid über den Ausschluss aus dem Zivilschutz nach dem Bevölkerungs- und Zivilschutzgesetz vom 4. Oktober 2002[^17-4] erging.
+- e.[^17-3] ein Entscheid über den Ausschluss aus dem Zivilschutz nach dem BZG[^17-4] erging.
 
 <sup>2</sup> Daten aus der Schiesspflicht ausser Dienst werden von der Eintragung an während fünf Jahren aufbewahrt.
 
@@ -390,15 +468,21 @@ Daten des PISA über Straftaten sowie strafrechtliche Entscheide und Massnahmen 
 
 <sup>4bis</sup> Daten über die Abnahme und den Entzug der persönlichen Waffe sowie der Leihwaffe und über die damit zusammenhängenden Umstände werden nach der Entlassung aus der Militärdienstpflicht während 20 Jahren aufbewahrt.[^17-6]
 
-<sup>5</sup> Die übrigen Daten des PISA werden nach der Entlassung aus der Militärdienst- oder Schutzdienstpflicht während fünf Jahren aufbewahrt.[^17-7]
+<sup>4ter</sup> Die Daten nach Artikel 14 Absatz 1 Buchstabe a<sup>bis</sup>, die zugleich sanitätsdienstliche Daten nach Artikel 26 Absatz 2 sind, werden nach Abschluss der Rekrutierung bis zur Bekanntgabe an das Medizinische Informationssystem der Armee (MEDISA), längstens aber während einer Woche aufbewahrt.[^17-7]
+
+<sup>4quater</sup> Daten nach Artikel 14 Absatz 4 werden nach Abschluss der Betreuung längstens während fünf Jahren aufbewahrt.[^17-8]
+
+<sup>5</sup> Die übrigen Daten des PISA werden nach der Entlassung aus der Militärdienst- oder Schutzdienstpflicht längstens während fünf Jahren aufbewahrt.[^17-9]
 
 [^17-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^17-2]: [<sup>SR</sup> <sup>510.10</sup>](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^17-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^17-4]: [[AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)Ziff. II Abs. 1 Bst. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)Anhang Ziff. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)Anhang Ziff. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)Art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)Anhang Ziff. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)Anhang Ziff. 7. [AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)Anhang Ziff. I]. Siehe heute: das BG vom 20. Dezember 2019 ([SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^17-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^17-4]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
 [^17-5]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^17-6]: Eingefügt durch Ziff. II des BG vom 23. Dez. 2011 ([AS 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544)[6775](https://fedlex.data.admin.ch/eli/oc/2012/818); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)). Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^17-7]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^17-7]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^17-8]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^17-9]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### 1*a*. Abschnitt: Informationssystem Dienstmanager
 
@@ -523,96 +607,23 @@ Sie macht den zuständigen Verwaltungseinheiten des Bundes, der Kantone und der 
 
 Die Daten des DIM werden nach der Entlassung aus der Militärdienst- oder Schutzdienstpflicht beziehungsweise nach der Beendigung der Anstellung, der Betreuung oder des Beizugs während längstens fünf Jahren aufbewahrt.
 
-### 2. Abschnitt: Informationssystem Rekrutierung
+### 2. Abschnitt: …
 
-#### Art. 18
+#### Art. 18–23
 
-**Verantwortliches Organ**
+[^1823-1]
 
-Die Gruppe Verteidigung[^18-1] betreibt das Informationssystem Rekrutierung (ITR).
-
-[^18-1]: Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-
-#### Art. 19
-
-**Zweck**
-
-Das ITR dient der Durchführung der Rekrutierung der Stellungspflichtigen sowie des für die Friedensförderung vorgesehenen Personals.
-
-#### Art. 20
-
-**Daten**
-
-<sup>1</sup>
-
-Das ITR enthält folgende Daten der Stellungspflichtigen und des für die Friedensförderung vorgesehenen Personals:
-
-- a. Entscheide über die Tauglichkeit für den Militär- und Schutzdienst, das Leistungsprofil und die Zuteilung;
-- b. Daten, die von der betreffenden Person freiwillig gemeldet wurden.
-
-<sup>2</sup>
-
-Das ITR enthält zudem die bei der Rekrutierung mittels Untersuchungen, Tests und Befragungen als Grundlage für die Entscheide nach Absatz 1 Buchstabe a erhobenen Daten. Diese betreffen:
-
-- a. den Gesundheitszustand: Anamnese, Elektrokardiogramm, Lungenfunktion, Hör- und Sehvermögen, Intelligenztest, Textverständnistest, Fragebogen zur Erkennung von psychischen Erkrankungen, freiwillige Labor- und Röntgenuntersuchungen;
-- b. die körperliche Leistungsfähigkeit: Kondition mit ihren Komponenten Ausdauer, Kraft, Schnelligkeit sowie koordinative Fähigkeiten;
-- c. die Intelligenz und Persönlichkeit: allgemeine Intelligenz, Problemlösefähigkeit, Konzentrationsfähigkeit und Aufmerksamkeit, Flexibilität, Gewissenhaftigkeit und Selbstbewusstsein sowie Veranlagung zu Handlungen;
-- d. die Psyche: Angstfreiheit, Selbstbewusstsein, Stressresistenz, emotionale Stabilität und Umgänglichkeit;
-- e. die soziale Kompetenz: Verhalten und Sensitivität in der Gesellschaft, der Gemeinschaft und der Gruppe;
-- f. die Eignung zur Ausübung bestimmter Funktionen: funktionsbezogene Eignungsprüfungen, soweit sich die Eignung nicht aus dem Leistungsprofil nach den Buchstaben a–e ergibt;
-- g. das grundsätzliche Kaderpotenzial: Potenzial zur Verwendung als Unteroffizier, höherer Unteroffizier oder Offizier;
-- h. die persönlichen Interessen betreffend Erfüllung der Militärdienstpflicht;
-- i. das Gefahrenpotenzial betreffend Missbrauchs der persönlichen Waffe.
-
-#### Art. 21
-
-**Datenbeschaffung**
-
-Die Gruppe Verteidigung beschafft die Daten für das ITR bei:
-
-- a. der betreffenden Person oder ihrer gesetzlichen Vertretung;
-- b. der Einwohnerkontrolle;
-- c. den Kreiskommandos der Kantone;
-- d. den mit der Rekrutierung beauftragten Stellen und Personen;
-- e. den von der betreffenden Person genannten Referenzpersonen.
-
-#### Art. 22
-
-**Datenbekanntgabe**
-
-<sup>1</sup> Die Gruppe Verteidigung macht die Daten des ITR den mit der Rekrutierung beauftragten Stellen, Ärztinnen und Ärzten durch Abrufverfahren zugänglich.
-
-<sup>2</sup>
-
-Er gibt die Entscheide über die Tauglichkeit für den Militär- und Schutzdienst folgenden Stellen bekannt:
-
-- a. den für die Erhebung der Ersatzabgabe zuständigen Stellen des Bundes und der Kantone;
-- b. von Personen, die militärdiensttauglich erklärt wurden: den für die militärische Kontrollführung und Ausbildung zuständigen Militärbehörden und militärischen Kommandos;
-- c. von Personen, die schutzdiensttauglich erklärt wurden: den für die Kontrollführung und Ausbildung zuständigen Zivilschutzbehörden des Wohnortkantons;
-- d. von Personen, die ein Gesuch um Zulassung zum Zivildienst gestellt haben: dem ZIVI.
-
-<sup>3</sup>
-
-Er gibt das Leistungsprofil und die Zuteilung bekannt:
-
-- a. von Personen, die militärdiensttauglich erklärt wurden: den für die militärische Kontrollführung und Ausbildung zuständigen Militärbehörden und militärischen Kommandos;
-- b. von Personen, die schutzdiensttauglich erklärt wurden: den für die Kontrollführung und Ausbildung zuständigen Zivilschutzbehörden des Wohnortkantons.
-
-<sup>4</sup> Die Resultate der Tests nach Artikel 20 Absatz 2 Buchstaben d und e dürfen nur in Form von Zahlenwerten bekannt gegeben werden. Die Bekanntgabe der übrigen sanitätsdienstlichen Daten richtet sich nach Artikel 28.
-
-#### Art. 23
-
-**Datenaufbewahrung**
-
-Die Daten des ITR werden nach Abschluss der Rekrutierung während einer Woche aufbewahrt.
+[^1823-1]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022, mit Wirkung seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### 3. Abschnitt: Medizinisches Informationssystem der Armee
 
 #### Art. 24
 
-**Verantwortliches Organ**
+**Verantwortliches Organ**[^24-1]
 
-Die für den Sanitätsdienst der Armee zuständige Stelle betreibt das Medizinische Informationssystem der Armee (MEDISA).
+Die Gruppe Verteidigung betreibt das MEDISA.
+
+[^24-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 25
 
@@ -664,7 +675,7 @@ Das MEDISA enthält zudem folgende Daten der Stellungs-, Militärdienst- und Sch
 
 **Datenbeschaffung**[^27-1]
 
-Die Gruppe Verteidigung beschafft die Daten für das MEDISA:
+Die Gruppe Verteidigung beschafft die Daten für das MEDISA:[^27-2]
 
 - a. bei den betreffenden Personen oder ihrer gesetzlichen Vertretung;
 - b. bei den zuständigen Verwaltungseinheiten des Bundes und der Kantone;
@@ -674,6 +685,7 @@ Die Gruppe Verteidigung beschafft die Daten für das MEDISA:
 - f. in Notfällen bei den behandelnden und begutachtenden Ärztinnen, Ärzten und medizinischen Institutionen des zivilen Gesundheitswesens; diese Personen und Institutionen sind im Notfall zur Auskunftserteilung ermächtigt.
 
 [^27-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^27-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 28
 
@@ -681,30 +693,30 @@ Die Gruppe Verteidigung beschafft die Daten für das MEDISA:
 
 <sup>1</sup>
 
-Die für den Sanitätsdienst der Armee zuständige Stelle macht die Daten des MEDISA folgenden Stellen und Personen durch Abrufverfahren zugänglich:[^28-1]
+Die Gruppe Verteidigung macht die Daten des MEDISA durch Abrufverfahren folgenden Stellen und Personen zugänglich:[^28-1]
 
 - a. dem Oberfeldarzt;
 - b. den für die Beurteilung der Diensttauglichkeit und Dienstfähigkeit sowie für die Behandlung zuständigen Ärztinnen und Ärzten und deren Hilfspersonal;
-- c. den für die psychologische Betreuung der Angehörigen der Armee zuständigen Fachkräften des psychologisch-pädagogischen Dienstes (PPD);
+- c.[^28-2] den für die psychologische Betreuung der Angehörigen der Armee zuständigen Fachkräften des PPD;
 - d. den für die Abklärungen des Fliegerärztlichen Instituts zuständigen Ärztinnen und Ärzten und deren Hilfspersonal;
-- e. [^28-2] der Militärversicherung, soweit dies für die Behandlung von Versicherungsfällen notwendig ist.
+- e. [^28-3] der Militärversicherung, soweit dies für die Behandlung von Versicherungsfällen notwendig ist.
 
 <sup>2</sup>
 
 Sie gibt die sanitätsdienstlichen Daten folgenden Stellen und Personen bekannt:
 
-- a.[^28-3] den behandelnden und begutachtenden Ärztinnen, Ärzten und medizinischen Institutionen des zivilen Gesundheitswesens, soweit die betreffende Person hierzu schriftlich ihr Einverständnis erklärt hat oder wenn ein Notfall vorliegt;
+- a.[^28-4] den behandelnden und begutachtenden Ärztinnen, Ärzten und medizinischen Institutionen des zivilen Gesundheitswesens, soweit die betreffende Person hierzu schriftlich ihr Einverständnis erklärt hat oder wenn ein Notfall vorliegt;
 - b. zivilen und militärischen Gerichten sowie Rechtspflegebehörden im Rahmen von Gerichts- und Verwaltungsverfahren, soweit nach dem Verfahrensrecht eine Auskunftspflicht für Ärztinnen und Ärzte besteht;
-- c. den für die Erhebung der Ersatzabgabe zuständigen Behörden des Bundes und der Kantone, soweit dies für die Befreiung von der Ersatzpflicht nach Artikel 4 Absatz 1 Buchstabe b des Bundesgesetzes vom 12. Juni 1959[^28-4] über die Wehrpflichtersatzabgabe notwendig ist;
-- d.[^28-5] …
-- e. den vom Bundesamt für Zivildienst beauftragten Ärztinnen und Ärzten, soweit dies für Untersuchungen und Massnahmen nach Artikel 33 des Zivildienstgesetzes vom 6. Oktober 1995[^28-6] notwendig ist;
-- f.[^28-7] der Zentralstelle Waffen sowie den zuständigen kantonalen Behörden: medizinische Hinderungsgründe betreffend die Abgabe, Rücknahme, Abnahme oder den Entzug der persönlichen Waffe.
+- c. den für die Erhebung der Ersatzabgabe zuständigen Behörden des Bundes und der Kantone, soweit dies für die Befreiung von der Ersatzpflicht nach Artikel 4 Absatz 1 Buchstabe b des Bundesgesetzes vom 12. Juni 1959[^28-5] über die Wehrpflichtersatzabgabe notwendig ist;
+- d.[^28-6] …
+- e. den vom Bundesamt für Zivildienst beauftragten Ärztinnen und Ärzten, soweit dies für Untersuchungen und Massnahmen nach Artikel 33 des Zivildienstgesetzes vom 6. Oktober 1995[^28-7] notwendig ist;
+- f.[^28-8] der Zentralstelle Waffen sowie den zuständigen kantonalen Behörden: medizinische Hinderungsgründe betreffend die Abgabe, Rücknahme, Abnahme oder den Entzug der persönlichen Waffe.
 
-<sup>2bis</sup> Die Bekanntgabe der Daten nach Absatz 2 Buchstabe f an die Datenbank nach Artikel 32*a* Absatz 1 Buchstabe d WG[^28-8] erfolgt über das PSN.[^28-9]
+<sup>2bis</sup> Die Bekanntgabe der Daten nach Absatz 2 Buchstabe f an die Datenbank nach Artikel 32*a* Absatz 1 Buchstabe d WG[^28-9] erfolgt über das PSN.[^28-10]
 
 <sup>3</sup>
 
-Die für den Sanitätsdienst der Armee zuständige Stelle gibt die Entscheide über die Tauglichkeit für den Militär- und Schutzdienst folgenden Stellen bekannt:[^28-10]
+Die Gruppe Verteidigung gibt die Entscheide über die Tauglichkeit für den Militär- und Schutzdienst folgenden Stellen bekannt:[^28-11]
 
 - a. den für die Erhebung der Ersatzabgabe zuständigen Stellen des Bundes und der Kantone;
 - b. den für die Kontrollführung und Ausbildung zuständigen Militärbehörden und militärischen Kommandos;
@@ -717,16 +729,17 @@ Sie gibt dem ZIVI bekannt:
 - a. Entscheide über die Tauglichkeit für den Militär- und Schutzdienst von Personen, die ein Gesuch um Zulassung zum Zivildienst gestellt haben;
 - b. Entscheide betreffend die Arbeitsfähigkeit von zivildienstpflichtigen Personen.
 
-[^28-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^28-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^28-3]: Fassung gemäss Anhang Ziff. 4 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^28-4]: [SR 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
-[^28-5]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^28-6]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^28-7]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^28-8]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^28-9]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^28-10]: Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^28-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^28-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^28-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^28-4]: Fassung gemäss Anhang Ziff. 4 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^28-5]: [SR 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
+[^28-6]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^28-7]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^28-8]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^28-9]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^28-10]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^28-11]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 29
 
@@ -745,9 +758,11 @@ Sie gibt dem ZIVI bekannt:
 
 #### Art. 30
 
-**Verantwortliche Organe**
+**Verantwortliches Organ**[^30-1]
 
-Die für den Sanitätsdienst zuständigen Stellen der Waffenplätze und die Militärspitäler betreiben dezentral je ein Informationssystem Patientenerfassung (ISPE).
+Die Gruppe Verteidigung betreibt dezentral auf den Waffenplätzen und in den Militärspitälern je ein Informationssystem Patientenerfassung (ISPE).
+
+[^30-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 31
 
@@ -776,10 +791,12 @@ Die ISPE enthalten folgende Daten:
 
 **Datenbeschaffung**
 
-Die für die ISPE zuständigen Stellen beschaffen sich die Daten bei:
+Die Gruppe Verteidigung beschafft die Daten für die ISPE bei:[^33-1]
 
 - a. der betreffenden Person;
 - b. den behandelnden Ärztinnen und Ärzten und deren Hilfspersonal.
+
+[^33-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 34
 
@@ -795,93 +812,29 @@ Die für die ISPE zuständigen Stellen beschaffen sich die Daten bei:
 
 Die Daten der ISPE werden nach Abschluss der Schule beziehungsweise nach Entlassung aus dem Militärspital während zwei Jahren aufbewahrt.
 
-### 5. Abschnitt: Falldokumentationsdatenbank Psychologisch-pädagogischer Dienst
+### 5. Abschnitt: …
 
-#### Art. 36
+#### Art. 36–41
 
-**Verantwortliches Organ**
+[^3641-1]
 
-Der PPD der Armee betreibt eine Falldokumentationsdatenbank (FallDok PPD).
-
-#### Art. 37
-
-**Zweck**
-
-Die FallDok PPD dient zur Erfüllung folgender Aufgaben:
-
-- a. Fallführung im Rahmen der psychologischen Betreuung von Angehörigen der Armee während des Militärdienstes;
-- b. Beurteilung der Dienstfähigkeit von Angehörigen der Armee;
-- c. Forschung im militärspezifischen psychologisch-pädagogischen Bereich.
-
-#### Art. 38
-
-**Daten**
-
-<sup>1</sup>
-
-Die FallDok PPD enthält die folgenden Daten:
-
-- a. Daten über Einteilung, Grad, Funktion und Ausbildung in der Armee;
-- b. psychologische Daten;
-- c. die sanitätsdienstlichen Daten psychologischer oder psychiatrischer Herkunft, die für die Erfüllung der Aufgaben nach Artikel 37 notwendig sind;
-- d. Korrespondenz mit den betreuten Personen sowie den involvierten Stellen;
-- e. Daten, die von der betreuten Person freiwillig gemeldet wurden.
-
-<sup>2</sup>
-
-Die psychologischen Daten nach Absatz 1 Buchstabe c umfassen:
-
-- a. Daten zum psychischen Zustand des oder der Angehörigen der Armee;
-- b. die anamnestisch-biografisch erhobenen Daten zu den psychischen Eigenschaften;
-- c. Resultate psychologischer Tests;
-- d. Zeugnisse von zivilen psychologischen Fachpersonen.
-
-#### Art. 39
-
-**Datenbeschaffung**
-
-Der PPD beschafft die erforderlichen Daten für die FallDok PPD bei:
-
-- a. den betreffenden Angehörigen der Armee;
-- b. den militärischen Vorgesetzten;
-- c. dem Militärärztlichen Dienst;
-- d. Dritten, soweit der oder die Angehörige der Armee dazu die Einwilligung gibt.
-
-#### Art. 40
-
-**Datenbekanntgabe**
-
-<sup>1</sup>
-
-Der PPD macht die Daten des FallDok PPD folgenden Stellen und Personen durch Abrufverfahren zugänglich:
-
-- a. den für die psychologische Betreuung der Angehörigen der Armee zuständigen Fachkräften des PPD;
-- b. den mit der Rekrutierung beauftragten Stellen, Ärztinnen und Ärzte;
-- c. den für den Militärärztlichen Dienst der Armee zuständigen Stellen.
-
-<sup>2</sup> Der PPD gibt das Resultat der Beurteilung der Dienstfähigkeit den für die Kontrollführung und Ausbildung zuständigen Militärbehörden und militärischen Kommandos bekannt.
-
-#### Art. 41
-
-**Datenaufbewahrung**
-
-Die Daten der FallDok PPD werden nach Abschluss der Betreuung während fünf Jahren aufbewahrt.
+[^3641-1]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022, mit Wirkung seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### 6. Abschnitt: Informationssystem Flugmedizin
 
 #### Art. 42
 
-**Verantwortliches Organ**
+**Verantwortliches Organ**[^42-1]
 
-Das Fliegerärztliche Institut betreibt das Informationssystem Flugmedizin (MEDIS LW[^42-1]).
+Die Gruppe Verteidigung betreibt das Informationssystem Flugmedizin (MEDIS LW).
 
-[^42-1]: Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^42-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 43
 
 **Zweck**
 
-Das MEDIS LW dient zur Erfüllung folgender Aufgaben:
+Das MEDIS LW[^43-1] dient zur Erfüllung folgender Aufgaben:
 
 - a. Abklärung der Eignung von Kandidatinnen und Kandidaten für die fliegerische Vorschulung sowie von Anwärterinnen und Anwärtern für das fliegende Personal der Armee;
 - b. periodische Überprüfung der medizinischen Flugtauglichkeit von Anwärterinnen und Anwärtern sowie des fliegenden Personals der Armee;
@@ -892,6 +845,8 @@ Das MEDIS LW dient zur Erfüllung folgender Aufgaben:
 - g. Überprüfung der Gesundheit höherer Stabsoffiziere der Luftwaffe und Angehöriger von Spezialistengruppen;
 - h. Abklärung der Eignung von Angehörigen der Armee für die Generalstabsausbildung;
 - i. Abklärung der Eignung von Zivilpersonen für einen Einsatz in der Armee oder für Tätigkeiten in der zivilen Luftfahrt.
+
+[^43-1]: Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 44
 
@@ -915,12 +870,14 @@ Das MEDIS LW enthält folgende Daten:
 
 **Datenbeschaffung**
 
-Das Fliegerärztliche Institut beschafft die Daten für das MEDIS LW bei:
+Die Gruppe Verteidigung beschafft die Daten für das MEDIS LW bei:[^45-1]
 
 - a. der betreffenden Person oder ihrer gesetzlichen Vertretung;
 - b. den zuständigen Verwaltungseinheiten des Bundes und der Kantone;
 - c. den behandelnden und begutachtenden Ärztinnen und Ärzten;
 - d. den von der betreffenden Person genannten Referenzpersonen.
+
+[^45-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 46
 
@@ -928,75 +885,84 @@ Das Fliegerärztliche Institut beschafft die Daten für das MEDIS LW bei:
 
 <sup>1</sup>
 
-Das Fliegerärztliche Institut macht die Daten des MEDIS LW folgenden Personen durch Abrufverfahren zugänglich, soweit diese die Daten zur Wahrnehmung ihrer gesetzlichen Aufgaben benötigen:
+Die Gruppe Verteidigung macht die Daten des MEDIS LW durch Abrufverfahren folgenden Personen zugänglich, soweit diese die Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen:[^46-1]
 
 - a. dem Oberfeldarzt;
 - b. den für die Beurteilung der Diensttauglichkeit und Dienstfähigkeit zuständigen Ärztinnen und Ärzten;
 - c. den für die Behandlung der betreffenden Person zuständigen Ärztinnen und Ärzten;
-- d. dem Hilfspersonal der Personen nach den Buchstaben a–c.[^46-1]
+- d. dem Hilfspersonal der Personen nach den Buchstaben a–c.[^46-2]
 
-<sup>2</sup> Es gewährt in Anwesenheit eines Arztes, einer Ärztin, eines Psychologen oder einer Psychologin des Fliegerärztlichen Instituts den behandelnden und begutachtenden Ärztinnen und Ärzten und denjenigen der Militärversicherung Einsicht in die Daten des MEDIS LW.
+<sup>2</sup> Sie gewährt in Anwesenheit einer Ärztin, eines Arztes, einer Psychologin oder eines Psychologen des Fliegerärztlichen Instituts den behandelnden und begutachtenden Ärztinnen und Ärzten und denjenigen der Militärversicherung Einsicht in die Daten des MEDIS LW.[^46-3]
 
-[^46-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^46-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^46-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^46-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 47
 
-**Datenaufbewahrung**
+**Datenaufbewahrung**[^47-1]
 
-<sup>1</sup> Das Fliegerärztliche Institut bewahrt die medizinischen und psychologischen Daten in einem besonderen Archiv auf.
+<sup>1</sup> Die Daten von Personen im Flugdienst und militärdienstpflichtigen Personen werden nach der Entlassung aus dem Flugdienst oder der Militärdienstpflicht während 40 Jahren aufbewahrt, längstens aber bis die betreffende Person das 80. Lebensjahr vollendet hat. Die Daten der übrigen Personen werden während fünf Jahren aufbewahrt.
 
-<sup>2</sup> Die Daten von Personen im Flugdienst und militärdienstpflichtigen Personen werden nach der Entlassung aus dem Flugdienst oder der Militärdienstpflicht während 40 Jahren aufbewahrt, längstens aber bis die betreffende Person das 80. Lebensjahr vollendet hat. Die Daten der übrigen Personen werden während fünf Jahren aufbewahrt.[^47-1]
+<sup>2</sup> Ist bei Ablauf der Aufbewahrungsdauer nach Absatz 1 eine Person noch in Behandlung oder Betreuung durch das Fliegerärztliche Institut, so werden ihre Daten nach Abschluss der Behandlung oder Betreuung während zehn Jahren aufbewahrt.
 
-[^47-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^47-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
-### 7. Abschnitt: Informationssystem Evaluation Armee-Aufklärungsdetachement
+### 7. Abschnitt: Informationssystem Einsatzpersonal Kommando Spezialkräfte
+
+[^chap2-sec7-1]
+
+[^chap2-sec7-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 48
 
-**Verantwortliches Organ**
+**Verantwortliches Organ**[^48-1]
 
-Die Gruppe Verteidigung[^48-1] betreibt das Informationssystem Evaluation Armee-Aufklärungsdetachement (EAAD).
+Die Gruppe Verteidigung betreibt das Informationssystem Einsatzpersonal Kommando Spezialkräfte (ISEP KSK).
 
-[^48-1]: Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^48-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 49
 
 **Zweck**[^49-1]
 
-Das EAAD dient:
+Das ISEP KSK dient:
 
-- a. der psychologisch-psychiatrischen und medizinischen Evaluation der Anwärterinnen und Anwärter für das Armee-Aufklärungsdetachement;
-- b. der einsatzbezogenen Evaluation der Angehörigen des Armee-Aufklärungsdetachements;
+- a. der psychologisch-psychiatrischen und medizinischen Evaluation der Anwärterinnen und Anwärter für das Armee-Aufklärungsdetachement und das Militärpolizei-Spezialdetachement;
+- b. der einsatzbezogenen Evaluation der Angehörigen des Armee-Aufklärungsdetachements und des Militärpolizei-Spezialdetachements;
 - c. der einsatzbezogenen Evaluation einzelner, zur Einsatzunterstützung eingesetzter Personen des Kommandos Spezialkräfte.
 
-[^49-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^49-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 50
 
 **Daten**[^50-1]
 
-Das EAAD enthält die für die Evaluation und die Beurteilung der Einsatzfähigkeit mittels Untersuchungen, Tests und Befragungen erhobenen Daten zur biostatistischen Einschätzung des Ausfallrisikos im Einsatz beziehungsweise des Durchhaltevermögens.
+Das ISEP KSK enthält die für die Evaluation und die Beurteilung der Einsatzfähigkeit mittels Untersuchungen, Tests und Befragungen erhobenen Daten zur biostatistischen Einschätzung des Ausfallrisikos beziehungsweise des Durchhaltevermögens im Einsatz.
 
-[^50-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^50-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 51
 
 **Datenbeschaffung**
 
-Die Gruppe Verteidigung beschafft die Daten für das EAAD bei:
+Die Gruppe Verteidigung beschafft die Daten für das ISEP KSK bei:[^51-1]
 
 - a. der betreffenden Person;
 - b. Dritten, soweit die betreffende Person dazu ihre Einwilligung gibt.
+
+[^51-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 52
 
 **Datenbekanntgabe**[^52-1]
 
-<sup>1</sup> Die Gruppe Verteidigung macht die Daten des EAAD den mit der Evaluation beauftragten Psychologinnen und Psychologen sowie der Ärztin oder dem Arzt Sonderoperationen durch Abrufverfahren zugänglich.
+<sup>1</sup> Die Gruppe Verteidigung macht die Daten des ISEP KSK den mit der Evaluation beauftragten Psychologinnen und Psychologen sowie der Ärztin oder dem Arzt Sonderoperationen durch Abrufverfahren zugänglich.[^52-2]
 
 <sup>2</sup> Der Evaluationsbericht wird nach Abschluss der Evaluation im MEDIS LW bearbeitet.
 
 [^52-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^52-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 53
 
@@ -1004,46 +970,66 @@ Die Gruppe Verteidigung beschafft die Daten für das EAAD bei:
 
 <sup>1</sup> Daten von abgewiesenen Anwärterinnen und Anwärtern werden bis zum Eintritt der Rechtskraft des Entscheids aufbewahrt.
 
-<sup>2</sup> Daten von Angehörigen des Armee-Aufklärungsdetachements sowie von Personen des Kommandos Spezialkräfte, die zur Einsatzunterstützung eingesetzt werden, werden bis zum Ausscheiden aus dem Detachement beziehungsweise dem Kommando Spezialkräfte aufbewahrt.[^53-1]
+<sup>2</sup> Die Daten der Angehörigen des Armee-Aufklärungsdetachements, der Angehörigen des Militärpolizei-Spezialdetachements sowie derjenigen Personen des Kommandos Spezialkräfte, die zur Einsatzunterstützung eingesetzt werden, werden bis zum Ausscheiden aus dem Detachement beziehungsweise dem Kommando Spezialkräfte aufbewahrt.[^53-1]
 
-[^53-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^53-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
-### 8. Abschnitt: Informationssystem Sozialer Bereich
+### 8. Abschnitt: Informationssystem für die soziale Beratung
+
+[^chap2-sec8-1]
+
+[^chap2-sec8-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 54
 
-**Verantwortliches Organ**
+**Verantwortliches Organ**[^54-1]
 
-Der Sozialdienst der Armee betreibt ein Informationssystem Sozialer Bereich (ISB).
+Die Gruppe Verteidigung betreibt ein Informationssystem für die soziale Beratung (ISB).
+
+[^54-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 55
 
-**Zweck**
+**Zweck**[^55-1]
 
-Das ISB dient der administrativen Unterstützung der sozialen Beratung und Betreuung von Angehörigen der Armee, Militärpatientinnen und Militärpatienten sowie deren Hinterbliebenen.
+Das ISB dient der administrativen Unterstützung der sozialen Beratung und Betreuung von Angehörigen der Armee, Angehörigen des Zivilschutzes, Angehörigen des Rotkreuzdienstes, Personen im Friedensförderungsdienst, Angehörigen der Militärjustiz, Militärpatientinnen und Militärpatienten sowie von Angehörigen und Hinterbliebenen der vorgenannten Personen.
+
+[^55-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 56
 
-**Daten**
+**Daten**[^56-1]
 
-Das ISB enthält Angaben zur geleisteten finanziellen Unterstützung.
+Das ISB enthält Angaben zur geleisteten finanziellen Unterstützung und zur Fallführung, Notizen zur Gesprächsführung sowie persönliche Unterlagen und Dokumente, die für die Beurteilung einer sozialen Beratung und Betreuung notwendig sind.
+
+[^56-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 57
 
-**Datenbeschaffung**
+**Datenbeschaffung**[^57-1]
 
-Der Sozialdienst der Armee beschafft die Daten für das ISB bei:
+Die Gruppe Verteidigung beschafft die Daten für das ISB:
 
-- a. der betreffenden Person oder ihrer gesetzlichen Vertretung;
-- b. den militärischen Kommandos;
-- c. den zuständigen Verwaltungseinheiten des Bundes und der Kantone;
-- d. den von der betreffenden Person genannten Referenzpersonen.
+- a. bei der betreffenden Person oder ihrer gesetzlichen Vertretung;
+- b. bei den militärischen Kommandos;
+- c. bei den zuständigen Verwaltungseinheiten des Bundes und der Kantone;
+- d. bei den von der betreffenden Person genannten Referenzpersonen;
+- e. aus dem PISA.
+
+[^57-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 58
 
-**Datenbekanntgabe**
+**Datenbekanntgabe**[^58-1]
 
-Der Sozialdienst der Armee macht die Daten des ISB seinen Mitarbeitenden durch Abrufverfahren zugänglich.
+Die Gruppe Verteidigung macht die Daten des ISB durch Abrufverfahren folgenden Stellen und Personen zugänglich:
+
+- a. den Mitarbeitenden des Sozialdienstes der Armee;
+- b. den Angehörigen der Armee, die beim Fachstab des Sozialdienstes der Armee eingeteilt sind;
+- c. der Fachstelle Frauen in der Armee und Diversity die Daten zu deren Klientinnen und Klienten;
+- d. der Armeeseelsorge die Daten zu deren Klientinnen und Klienten.
+
+[^58-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 59
 
@@ -1104,7 +1090,9 @@ Die Gruppe Verteidigung beschafft die Daten für das IPV bei:
 - d. den militärischen und zivilen Vorgesetzten der betreffenden Person;
 - e. den von der betreffenden Person genannten Referenzpersonen.
 
-<sup>2</sup> Die Daten nach Artikel 62, die im Personalinformationssystem BV PLUS enthalten sind, werden dem IPV im Abrufverfahren zugänglich gemacht.
+<sup>2</sup> Die Daten nach Artikel 62, die im Informationssystem für das Personaldatenmanagement (IPDM) enthalten sind, werden dem IPV durch Abrufverfahren zugänglich gemacht.[^63-1]
+
+[^63-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 64
 
@@ -1126,7 +1114,9 @@ Die Gruppe Verteidigung macht die Daten des IPV folgenden Stellen und Personen d
 
 <sup>1</sup> Die Daten des IPV werden nach Beendigung der Anstellung bei der Gruppe Verteidigung längstens während fünf Jahren aufbewahrt.
 
-<sup>2</sup> Die Daten von Kandidaten und Kandidatinnen, die nicht angestellt wurden, werden spätestens nach sechs Monaten gelöscht.
+<sup>2</sup> Die Daten von Kandidatinnen und Kandidaten, die nicht angestellt wurden, werden spätestens nach sechs Monaten vernichtet.[^65-1]
+
+[^65-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### 10. Abschnitt: Informationssystem Personalbewirtschaftung Auslandeinsätze
 
@@ -1134,7 +1124,9 @@ Die Gruppe Verteidigung macht die Daten des IPV folgenden Stellen und Personen d
 
 **Verantwortliches Organ**
 
-Die Gruppe Verteidigung betreibt ein Informationssystem Personalmanagement Friedensförderung (PERAUS).
+Die Gruppe Verteidigung[^66-1] betreibt ein Informationssystem Personalmanagement Friedensförderung (PERAUS).
+
+[^66-1]: Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 67
 
@@ -1217,15 +1209,17 @@ Die Daten des PERAUS werden nach dem letzten Einsatz oder, wenn kein Einsatz erf
 
 #### Art. 72
 
-**Verantwortliches Organ**
+**Verantwortliches Organ**[^72-1]
 
-Die für den Koordinierten Sanitätsdienst (KSD) zuständige Stelle der Armee betreibt ein Informations- und Einsatz-System Koordinierter Sanitätsdienst (IES-KSD).
+Die Gruppe Verteidigung betreibt ein Informations- und Einsatz-System Koordinierter Sanitätsdienst (IES-KSD).
+
+[^72-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 73
 
 **Zweck**
 
-Das IES-KSD dient dem oder der Beauftragten des Bundesrates für den KSD sowie den zivilen und militärischen Stellen, die mit der Planung, Vorbereitung und Durchführung von sanitätsdienstlichen Massnahmen beauftragt sind (KSD-Partnern), bei der Bewältigung von sanitätsdienstlich relevanten Ereignissen für folgende Aufgaben:
+Das IES-KSD dient der oder dem Beauftragten des Bundesrates für den Koordinierten Sanitätsdienst (KSD) sowie den zivilen und militärischen Stellen, die mit der Planung, Vorbereitung und Durchführung von sanitätsdienstlichen Massnahmen beauftragt sind (KSD-Partnern), bei der Bewältigung von sanitätsdienstlich relevanten Ereignissen für folgende Aufgaben:[^73-1]
 
 - a. bestmögliche Versorgung der Patientinnen und Patienten in allen Lagen;
 - b. Unterstützung der zivilen und militärischen Einsatzkräfte und Führungsgremien;
@@ -1235,6 +1229,8 @@ Das IES-KSD dient dem oder der Beauftragten des Bundesrates für den KSD sowie d
 - f. Patientenleitsystem und Personenmanagement;
 - g. Zuweisung von Medizinalpersonen;
 - h. Sicherung des Informationsflusses von und zu den KSD-Partnern.
+
+[^73-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 74
 
@@ -1276,7 +1272,7 @@ Das IES-KSD enthält folgende Daten der Patientinnen und Patienten:
 
 **Datenbeschaffung**
 
-Der oder die Beauftragte des Bundesrates für den KSD sowie die KSD-Partner beschaffen die Daten für das IES-KSD bei:
+Die oder der Beauftragte des Bundesrates für den KSD sowie die KSD-Partner beschaffen die Daten für das IES-KSD bei:[^75-1]
 
 - a. den betreffenden Patientinnen und Patienten und deren Begleitpersonen;
 - b. den behandelnden Organisationen und deren Personal;
@@ -1285,6 +1281,8 @@ Der oder die Beauftragte des Bundesrates für den KSD sowie die KSD-Partner besc
 - e. der betreffenden Person oder ihrer gesetzlichen Vertretung;
 - f. dem Register der universitären Medizinalberufe;
 - g. den Vereinigungen und Verbänden des übrigen Medizinalpersonals.
+
+[^75-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 76
 
@@ -1329,13 +1327,16 @@ Die Daten des IES-KSD sind folgenden Stellen und Personen im KSD durch Abrufverf
 
 **Verantwortliches Organ**
 
-Die Gruppe Verteidigung betreibt eine Administration für Dienstleistungen (MIL Office[^84-1]) und stellt es den militärischen Kommandos zur Verfügung.
+Die Gruppe Verteidigung[^84-1] betreibt eine Administration für Dienstleistungen (MIL Office[^84-2]) und stellt es den militärischen Kommandos zur Verfügung.
 
 [^84-1]: Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^84-2]: Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 85
 
 **Zweck**
+
+<sup>1</sup>
 
 Das MIL Office dient der Verwaltung und dem Betrieb in Schulen und Kursen, insbesondere:[^85-1]
 
@@ -1348,12 +1349,15 @@ Das MIL Office dient der Verwaltung und dem Betrieb in Schulen und Kursen, insbe
 - g.[^85-4] dem Absenzen- und Kommandierungsmanagement;
 - h.[^85-5] der Strafkontrolle im Disziplinarstrafwesen nach Artikel 205 des Militär-strafgesetzes vom 13. Juni 1927[^85-6].
 
+<sup>2</sup> Es dient zudem der Durchführung der Erwerbsersatzordnung.[^85-7]
+
 [^85-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^85-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^85-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^85-4]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^85-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^85-6]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^85-7]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 86
 
@@ -1361,18 +1365,23 @@ Das MIL Office dient der Verwaltung und dem Betrieb in Schulen und Kursen, insbe
 
 Das MIL Office enthält folgende Daten:[^86-1]
 
-- a. Daten über Einteilung, Grad, Funktion und Ausbildung;
-- b.[^86-2] Daten des Qualifikations- und Vorschlagswesens;
+- a.[^86-2] Personalien, Adresse und Kontaktangaben;
+- a<sup>bis</sup>.[^86-3] Daten über Einteilung, Grad, Funktion und Ausbildung;
+- b.[^86-4] Daten des Qualifikations- und Vorschlagswesens;
 - c. Daten zu Sold- und Spesenabrechnungen;
 - d. sanitätsdienstliche Befunde über Einschränkungen der Dienstfähigkeit;
 - e. Daten, die von der betreffenden Person freiwillig gemeldet wurden;
-- f.[^86-3] Daten über disziplinarstrafrechtliche Verfahren;
-- g.[^86-4] Daten zu Absenzen und Kommandierungen.
+- f.[^86-5] Daten über disziplinarstrafrechtliche Verfahren;
+- g.[^86-6] Daten zu Absenzen und Kommandierungen;
+- h.[^86-7] Daten für die Verwaltung und Zuweisung von Armeematerial.
 
 [^86-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^86-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^86-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^86-4]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^86-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^86-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^86-4]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^86-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^86-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^86-7]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 87
 
@@ -1380,19 +1389,24 @@ Das MIL Office enthält folgende Daten:[^86-1]
 
 Die militärischen Kommandos beschaffen die Daten für MIL Office:
 
-- a. bei der betreffenden Person;
+- a.[^87-1] bei der betreffenden Person; diese kann die Daten auch freiwillig über ein von der Gruppe Verteidigung betriebenes elektronisches Portal übermitteln;
 - b. bei den militärischen Vorgesetzten der betreffenden Person;
 - c. aus dem PISA.
 
+[^87-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
 #### Art. 88
 
-**Datenbekanntgabe**
+**Datenbekanntgabe**[^88-1]
 
 Die militärischen Kommandos geben die Daten des MIL Office folgenden Stellen und Personen bekannt:
 
 - a. den für die Karriereplanung zuständigen Stellen und Personen;
 - b. den für den Einsatz zuständigen Stellen und Personen;
-- c. den für die militärische Kontrollführung zuständigen Stellen und Personen.
+- c. den für die militärische Kontrollführung zuständigen Stellen und Personen;
+- d. der Zentralen Ausgleichsstelle zur Durchführung der Erwerbsersatzordnung: die Daten nach Artikel 86 Buchstaben a, a<sup>bis</sup>, c und g.
+
+[^88-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 89
 
@@ -1412,9 +1426,9 @@ Die Daten des MIL Office werden während fünf Jahren aufbewahrt; bei Daten übe
 
 **Verantwortliches Organ**[^90-1]
 
-Das Generalsekretariat des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS) betreibt ein Informationssystem Kompetenzmanagement (ISKM) und stellt es den Personalverantwortlichen zur Verfügung.
+Das Generalsekretariat des VBS betreibt ein Informationssystem Kompetenzmanagement (ISKM) und stellt es den Personalverantwortlichen zur Verfügung.
 
-[^90-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^90-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 91
 
@@ -1461,9 +1475,9 @@ Das Generalsekretariat und die Personalverantwortlichen des VBS beschaffen die D
 
 **Datenbekanntgabe**[^94-1]
 
-Das Generalsekretariat des VBS macht die Daten des ISKM den für die Kaderplanung und -entwicklung sowie das Kompetenzmanagement zuständigen Personen des VBS sowie den betroffenen Linienvorgesetzten, Mitarbeiterinnen und Mitarbeitern durch Abrufverfahren zugänglich.
+Das Generalsekretariat des VBS macht die Daten des ISKM den für die Kaderplanung und -entwicklung sowie das Kompetenzmanagement zuständigen Stellen und Personen des VBS, der betreffenden Person und ihren Vorgesetzten durch Abrufverfahren zugänglich.
 
-[^94-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^94-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 95
 
@@ -1493,11 +1507,15 @@ Die Gruppe Verteidigung betreibt ein Führungsinformationssystem Heer (FIS HE).
 
 **Zweck**
 
-Das FIS HE dient der Gruppe Verteidigung und seinen militärischen Kommandos zur Erfüllung folgender Aufgaben:
+Das FIS HE dient der Gruppe Verteidigung und den militärischen Kommandos zur Erfüllung folgender Aufgaben:[^103-1]
 
-- a. Aktionsplanung und Aktionsführung der Stäbe und Verbände des Heeres;
+- a.[^103-2] Aktionsplanung und Lageverfolgung der Stäbe und Verbände des Kommandos Operationen und der Führungsunterstützungsbasis;
 - b. vernetzte Operationsführung;
-- c. Vernetzung von Aufklärungs-, Führungs- und Einsatzmitteln des Heeres.
+- c.[^103-3] Vernetzung von Aufklärungs-, Führungs- und Einsatzmitteln des Kommandos Operationen und der Führungsunterstützungsbasis.
+
+[^103-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^103-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^103-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 104
 
@@ -1552,9 +1570,11 @@ Die Gruppe Verteidigung betreibt ein Führungsinformationssystem Luftwaffe (FIS 
 
 Das FIS LW dient der Luftwaffe und ihren militärischen Kommandos zur Erfüllung folgender Aufgaben:
 
-- a. Aktionsplanung und Aktionsführung der Stäbe und Verbände der Luftwaffe;
+- a.[^109-1] Aktionsplanung und Lageverfolgung der Stäbe und Verbände der Luftwaffe;
 - b. vernetzte Operationsführung;
 - c. Vernetzung von Aufklärungs-, Führungs- und Einsatzmitteln der Luftwaffe.
+
+[^109-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 110
 
@@ -1562,11 +1582,13 @@ Das FIS LW dient der Luftwaffe und ihren militärischen Kommandos zur Erfüllung
 
 Das FIS LW enthält die folgenden Daten der Angehörigen der Armee:
 
-- a. Geschlecht und Religionszugehörigkeit;
+- a.[^110-1] Geschlecht;
 - b. Daten über Einteilung, Grad, Funktion und Ausbildung;
 - c. sanitätsdienstliche Daten, die für den Einsatz relevant sind;
 - d. Passnummer;
 - e. Daten, die von der betreffenden Person freiwillig gemeldet werden.
+
+[^110-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 111
 
@@ -1642,9 +1664,11 @@ Die Gruppe Verteidigung macht die Daten des IMESS folgenden Stellen und Personen
 
 #### Art. 119
 
-**Datenaufbewahrung**
+**Datenaufbewahrung**[^119-1]
 
-Die Daten des IMESS werden nach Beendigung des Einsatzes gelöscht.
+Die Daten des IMESS werden nach Beendigung des Einsatzes vernichtet.
+
+[^119-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ## 4. Kapitel: Ausbildungsinformationssysteme
 
@@ -1658,9 +1682,15 @@ Die Gruppe Verteidigung betreibt Informationssysteme von Simulatoren und stellt 
 
 #### Art. 121
 
-**Zweck**
+**Zweck**[^121-1]
 
-Die Informationssysteme von Simulatoren dienen zur Unterstützung der Ausbildung und Qualifikation von Angehörigen der Armee sowie von Zivilpersonen, die für einen befristeten Einsatz der Armee beigezogen werden.
+Die Informationssysteme von Simulatoren dienen zur Unterstützung der Ausbildung und Qualifikation von:
+
+- a. Angehörigen der Armee;
+- b. Zivilpersonen, die für einen befristeten Einsatz der Armee beigezogen werden;
+- c. Dritten, die an den Simulatoren trainieren.
+
+[^121-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 122
 
@@ -1675,11 +1705,14 @@ Die Informationssysteme von Simulatoren enthalten Daten über:
 
 **Datenbeschaffung**
 
-Die zuständigen Stellen und Personen beschaffen die Daten für die Informationssysteme der Simulatoren bei:
+Die zuständigen Stellen und Personen beschaffen die Daten für die Informationssysteme von Simulatoren bei:[^123-1]
 
 - a. der betreffenden Person;
 - b. den militärischen Kommandos;
-- c. den militärischen Vorgesetzten der betreffenden Person.
+- c.[^123-2] den militärischen oder zivilen Vorgesetzten der betreffenden Person.
+
+[^123-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^123-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 124
 
@@ -1697,7 +1730,10 @@ Die zuständigen Stellen und Personen machen die Daten der Informationssysteme v
 Sie geben die Daten der Informationssysteme von Simulatoren bekannt:
 
 - a. der Truppe in Form von Ranglisten, soweit die Daten für eine Rangierung wesentlich sind;
-- b. den für die Beschaffung und Abgabe von Auszeichnungen zuständigen Stellen und Personen.
+- b. den für die Beschaffung und Abgabe von Auszeichnungen zuständigen Stellen und Personen;
+- c.[^124-1] den an den Simulatoren ausgebildeten Zivilpersonen oder trainierenden Dritten sowie deren vorgesetzten Stellen und Personen.
+
+[^124-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 125
 
@@ -1705,7 +1741,9 @@ Sie geben die Daten der Informationssysteme von Simulatoren bekannt:
 
 <sup>1</sup> Die Daten der Informationssysteme von Simulatoren werden bis zum Abschluss des Ausbildungsdienstes aufbewahrt.
 
-<sup>2</sup> Trainieren Angehörige der Armee regelmässig auf denselben Simulatoren, so können die Daten der Trainings nach deren Abschluss jeweils bis fünf Jahre aufbewahrt werden.
+<sup>2</sup> Trainieren Angehörige der Armee, Zivilpersonen oder Dritte regelmässig auf denselben Simulatoren, so können die Daten der Trainings nach deren Abschluss jeweils während zehn Jahren aufbewahrt werden.[^125-1]
+
+[^125-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### 2. Abschnitt: Informationssystem Ausbildungsmanagement
 
@@ -1796,12 +1834,12 @@ Sie geben die Daten bekannt:
 
 **Datenaufbewahrung**[^131-1]
 
-Die Daten des LMS VBS werden aufbewahrt bis zur:
+Die Daten des LMS VBS werden längstens während zehn Jahren aufbewahrt:
 
-- a. Entlassung der Angehörigen der Armee aus der Militärdienstpflicht;
-- b. Beendigung des Arbeitsverhältnisses der Angestellten des VBS.
+- a. nach Entlassung der Angehörigen der Armee aus der Militärdienstpflicht;
+- b. nach Beendigung des Arbeitsverhältnisses der Angestellten des VBS.
 
-[^131-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^131-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### 3. Abschnitt: Informationssystem Schulungsnachweis Gute Herstellungspraxis
 
@@ -1853,49 +1891,69 @@ Die Gruppe Verteidigung beschafft die Daten für das ISGMP:
 
 Die Daten des ISGMP werden nach der Beendigung des Mitarbeiterverhältnisses während zehn Jahren aufbewahrt.
 
-### 4. Abschnitt: Informationssystem Militärische Fahrberechtigungen
+### 4. Abschnitt: Informationssystem Strassenverkehr und Schifffahrt der Armee
+
+[^chap4-sec4-1]
+
+[^chap4-sec4-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 138
 
-**Verantwortliches Organ**
+**Verantwortliches Organ**[^138-1]
 
-Die Gruppe Verteidigung betreibt das Informationssystem Militärische Fahrberechtigungen (MIFA).
+Die Gruppe Verteidigung betreibt das Informationssystem Strassenverkehr und Schifffahrt der Armee (FA-SVSAA).
+
+[^138-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 139
 
 **Zweck**
 
-Das MIFA dient:
+Das FA-SVSAA dient:[^139-1]
 
-- a. der Erstellung und Verwaltung militärischer Fahrberechtigungen;
+- a.[^139-2] der Erstellung und Verwaltung von militärischen Fahrberechtigungen für Fahrzeug- und Schiffsführerinnen und -führer, von eidgenössischen Schiffsführerausweisen sowie von Ausweisen der militärischen Verkehrsexpertinnen und -experten;
 - b. der Integration der militärischen Fahrberechtigungen in den zivilen Führerausweis;
-- c. der Durchführung von Administrativmassnahmen im Strassenverkehr;
+- c.[^139-3] der Umsetzung von Administrativmassnahmen in Bezug auf militärische Fahrzeug- und Schiffsführerinnen und -führer, Inhaberinnen und Inhaber eidgenössischer Schiffsführerausweise sowie militärische Verkehrsexpertinnen und -experten;
 - d. dem Aufgebot zu vertrauensärztlichen Kontrolluntersuchungen;
-- e. der Kontrolle der Ausbildung der angehenden Fahrer sowie der Armeefahrlehrerinnen und -lehrer und der militärischen Verkehrsexpertinnen und ‑experten;
-- f. der Bewirtschaftung der Bescheinigungen nach dem Europäischen Übereinkommen vom 30. September 1957[^139-1] über die internationale Beförderung gefährlicher Güter auf der Strasse;
+- e.[^139-4] der Kontrolle der Ausbildung der angehenden Fahrerinnen und Fahrer, der Armeefahrlehrerinnen und -lehrer sowie der militärischen Verkehrsexpertinnen und -experten;
+- f.[^139-5] …
 - g. der Erstellung von Auswertungen und Statistiken.
 
-[^139-1]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^139-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^139-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^139-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^139-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^139-5]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022, mit Wirkung seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 140
 
 **Daten**
 
-Das MIFA enthält folgende Daten von angehenden Fahrern, von Fahrberechtigten sowie der Armeefahrlehrerinnen und -lehrer und der militärischen Verkehrsexpertinnen und -experten:
+Das FA-SVSAA enthält folgende Daten von angehenden Fahrerinnen und Fahrern, von Fahrberechtigten, von Armeefahrlehrerinnen und -lehrern sowie von militärischen Verkehrsexpertinnen und -experten:[^140-1]
 
 - a. AHV-Nummer;
-- b. Daten über die Ausbildung und die militärischen Fahrberechtigungen;
-- c. Daten über Administrativmassnahmen und die Ergebnisse der Kontrolluntersuchungen.
+- b.[^140-2] Daten über die Ausbildung, die militärischen Fahrberechtigungen und die Ausweise;
+- c.[^140-3] Daten über die Administrativmassnahmen;
+- d.[^140-4] Daten über die Ergebnisse der letzten Kontrolluntersuchung und das Datum der nächsten Kontrolluntersuchung.
+
+[^140-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^140-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^140-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^140-4]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 141
 
-**Datenbeschaffung**
+**Datenbeschaffung**[^141-1]
 
-Die Gruppe Verteidigung beschafft die Daten für das MIFA:
+Die Gruppe Verteidigung beschafft die Daten für das FA-SVSAA:
 
 - a. aus dem PISA;
-- b. aus dem Fahrberechtigungsregister (FABER) und dem Administrativmassnahmenregister (ADMAS) des Bundesamts für Strassen;
-- c. bei den Personen und Stellen, die mit den Aufgaben nach Artikel 139 betraut sind.
+- b. aus dem Informationssystem Verkehrszulassung (IVZ) des Bundesamts für Strassen;
+- c. aus dem IPV;
+- d. aus dem IPDM;
+- e. bei den Stellen und Personen, die mit den Aufgaben nach Artikel 139 betraut sind.
+
+[^141-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 142
 
@@ -1903,18 +1961,26 @@ Die Gruppe Verteidigung beschafft die Daten für das MIFA:
 
 <sup>1</sup>
 
-Die Gruppe Verteidigung gibt die Daten des MIFA bekannt:
+Die Gruppe Verteidigung gibt die Daten des FA-SVSAA bekannt:
 
-- a. den Personen und Stellen, die mit den Aufgaben nach Artikel 139 betraut sind;
-- b. an das PISA, FABER und ADMAS.
+- a. den Stellen und Personen, die mit den Aufgaben nach Artikel 139 betraut sind;
+- b. an das PISA und das IVZ.[^142-1]
 
 <sup>2</sup> Die Daten können elektronisch übermittelt oder abgerufen werden.
 
+[^142-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
 #### Art. 143
 
-**Datenaufbewahrung**
+**Datenaufbewahrung**[^143-1]
 
-Die Daten des MIFA werden bis zur Entlassung der betreffenden Person aus der Militärdienstpflicht aufbewahrt.
+<sup>1</sup> Die Daten des FA-SVSAA, einschliesslich Daten über militärische Administrativmassnahmen des Strassenverkehrs- und Schifffahrtsamts der Armee, werden nach der Erfassung längstens während 80 Jahren aufbewahrt.
+
+<sup>2</sup> Die Daten über zivile Administrativmassnahmen werden längstens so lange aufbewahrt, wie sie im IVZ enthalten sind.
+
+<sup>3</sup> Die Daten über eine Kontrolluntersuchung werden jeweils nur bis zur nächsten Kontrolluntersuchung aufbewahrt.
+
+[^143-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### 5. Abschnitt: Informationssystem Fliegerische Aus- und Weiterbildung
 
@@ -1956,7 +2022,10 @@ Das SPHAIR-Expert enthält folgende Daten:
 - h. Testresultate mit kommentierten Auswertungsergebnissen;
 - i. Selektionsstatus und -entscheide;
 - j. Befunde aus der sanitätsdienstlichen Befragung von Pilotinnen und Piloten sowie Fallschirmaufklärerinnen und Fallschirmaufklärern;
-- k. Angaben über die Kleidergrösse.
+- k. Angaben über die Kleidergrösse;
+- 1\.[^143c-1] persönliche Interessen hinsichtlich der Anstellung, Ausbildung, Weiterentwicklung sowie Berufs- und Funktionswahl.
+
+[^143c-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 143d
 
@@ -1992,6 +2061,74 @@ Die Gruppe Verteidigung macht die Daten von SPHAIR-Expert folgenden Stellen und 
 
 Die Daten des SPHAIR-Expert werden nach Abschluss des letzten Kurses zur fliegerischen Aus- und Weiterbildung der betroffenen Person längstens während zehn Jahren aufbewahrt.
 
+### 6. Abschnitt: Informationssystem Führungsausbildung
+
+[^chap4-sec6-1]
+
+[^chap4-sec6-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
+#### Art. 143g
+
+**Verantwortliches Organ**
+
+Die Gruppe Verteidigung betreibt das Informationssystem Führungsausbildung (ISFA).
+
+#### Art. 143h
+
+**Zweck**
+
+Das ISFA dient der Ausbildungskontrolle, der Analyse der Ausbildungsresultate und der Prüfungsorganisation.
+
+#### Art. 143i
+
+**Daten**
+
+Das ISFA enthält folgende Daten:
+
+- a. Personalien, Wohnort, Heimatort, Heimatkanton und Adressen;
+- b. Daten über Einteilung, Grad, Funktion und Dienstleistungen in der Armee;
+- c. AHV-Nummer;
+- d. Geschlecht;
+- e. Geburtsdatum;
+- f. ausbildungs- und prüfungsbezogene Daten, Kandidatinnen- oder Kandidatennummer, Prüfungssprache und Prüfungsangaben (Datum, Zeit, Ort, Expertin oder Experte);
+- g. Daten über Eigenleistungen (Einreichdatum, Ergebnis);
+- h. Prüfungsteilnahme und Prüfungsergebnisse.
+
+#### Art. 143j
+
+**Datenbeschaffung**
+
+Die Gruppe Verteidigung beschafft die Daten für das ISFA:
+
+- a. bei der betreffenden Person;
+- b. bei den militärischen Vorgesetzten der betreffenden Person;
+- c. bei den zuständigen Verwaltungseinheiten der Gruppe Verteidigung;
+- d. aus dem PISA.
+
+#### Art. 143k
+
+**Datenbekanntgabe**
+
+<sup>1</sup>
+
+Die Gruppe Verteidigung macht die Daten des ISFA durch Abrufverfahren den Stellen und Personen zugänglich:
+
+- a. die für die Eingabe der Daten in das ISFA zuständig sind;
+- b. die für die Koordination der Prüfungen für die einzelnen Module zuständig sind.
+
+<sup>2</sup>
+
+Die Daten des ISFA werden bekannt gegeben:
+
+- a. der für die Ausstellung des Zertifikats über die erfolgreiche Absolvierung der einzelnen Module zuständigen zivilen Stelle;
+- b. den im ISFA erfassten Personen als persönlicher Ausbildungsnachweis.
+
+#### Art. 143l
+
+**Datenaufbewahrung**
+
+Die Daten des ISFA werden nach der Erfassung längstens während zehn Jahren aufbewahrt.
+
 ## 5. Kapitel: Sicherheitsinformationssysteme
 
 ### 1. Abschnitt: Informationssystem Personensicherheitsprüfung
@@ -2006,9 +2143,15 @@ Die Fachstelle für Personensicherheitsprüfungen im VBS (Fachstelle PSP VBS) be
 
 #### Art. 145
 
-**Zweck**
+**Zweck**[^145-1]
 
-Das SIBAD dient der Durchführung der Personensicherheitsprüfung.
+Das SIBAD dient der Durchführung von:
+
+- a. Personensicherheitsprüfungen;
+- b. Beurteilungen des Gefährdungs- oder Missbrauchspotenzials bezüglich der persönlichen Waffe;
+- c. Zuverlässigkeitskontrollen.
+
+[^145-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 146
 
@@ -2038,18 +2181,23 @@ Die für die Durchführung von Personensicherheitsprüfungen zuständigen Prüfb
 
 <sup>2</sup>
 
-Sie haben durch Abrufverfahren Zugang zu folgenden Registern und Datenbanken im Umfang der entsprechenden Rechtsgrundlagen:[^147-2]
+Sie haben durch Abrufverfahren Zugang zu folgenden Registern und Datenbanken im Rahmen der entsprechenden Rechtsgrundlagen:[^147-2]
 
 - a. nationaler Polizeiindex;
 - b. Strafregister;
-- c. Staatsschutz-Informations-System, unter Vorbehalt von Artikel 20 Absatz 2 des Bundesgesetzes vom 21. März 1997[^147-3] über Massnahmen zur Wahrung der inneren Sicherheit.
+- c.[^147-3] Informationssystem INDEX NDB nach Artikel 51 NDG[^147-4], unter Vorbehalt von Artikel 20 Absatz 2 des Bundesgesetzes vom 21. März 1997[^147-5] über Massnahmen zur Wahrung der inneren Sicherheit;
+- d.[^147-6] Datenbanken der Zentralstelle Waffen nach Artikel 32*a* Absatz 1 WG[^147-7].
 
-<sup>3</sup> Sie können Daten von den Sicherheitsorganen des Bundes oder den entsprechenden kantonalen Behörden anfordern. Diese können die Prüfbehörden ermächtigen, über ein Abrufverfahren direkt auf ihre Register und Datenbanken zuzugreifen.[^147-4]
+<sup>3</sup> Sie können Daten von den Sicherheitsorganen des Bundes oder den entsprechenden kantonalen Behörden anfordern. Diese können die Prüfbehörden ermächtigen, über ein Abrufverfahren direkt auf ihre Register und Datenbanken zuzugreifen.[^147-8]
 
 [^147-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^147-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^147-3]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^147-4]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^147-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^147-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^147-4]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^147-5]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^147-6]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^147-7]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^147-8]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 
 #### Art. 148
 
@@ -2057,7 +2205,7 @@ Sie haben durch Abrufverfahren Zugang zu folgenden Registern und Datenbanken im 
 
 <sup>1</sup>
 
-Die Fachstelle PSP VBS macht die Daten des SIBAD folgenden Stellen durch Abrufverfahren zugänglich:[^148-1]
+Die Fachstelle PSP VBS macht die Daten des SIBAD durch Abrufverfahren folgenden Stellen zugänglich:[^148-1]
 
 - a.[^148-2] den für die Durchführung von Personensicherheitsprüfungen zuständigen Prüfbehörden;
 - b. der für die Industriesicherheit des VBS zuständigen Stelle;
@@ -2067,13 +2215,14 @@ Die Fachstelle PSP VBS macht die Daten des SIBAD folgenden Stellen durch Abrufve
 
   - 1\. des Bundes und der Kantone,
   - 2\. der Betreiber von Kernkraftwerken,
+  - 2<sup>bis</sup>.[^148-3] der nationalen Netzgesellschaft,
   - 3\. Dritter;
 
-- d. den mit Sicherheitsaufgaben beauftragten Stellen des Bundes.
+- d.[^148-4] den mit Sicherheitsaufgaben beauftragten Stellen des Bundes, wenn diese Stellen sich für ihre Tätigkeit auf die Daten der Personensicherheitsprüfungen stützen müssen und die Daten für die betreffende Person nicht nachteilig sind.
 
 <sup>2</sup>
 
-Die Prüfbehörden geben das Resultat der Personensicherheitsprüfung folgenden Stellen und Personen bekannt:[^148-3]
+Die Prüfbehörden geben das Resultat der Personensicherheitsprüfung folgenden Stellen und Personen bekannt:[^148-5]
 
 - a. der betreffenden Person;
 - b. der Stelle, welche die Personensicherheitsprüfung veranlasst hat;
@@ -2082,16 +2231,18 @@ Die Prüfbehörden geben das Resultat der Personensicherheitsprüfung folgenden 
 
 <sup>3</sup>
 
-Die Fachstelle PSP VBS kann Bundesstellen folgende Daten der Personensicherheitsprüfung zur Weiterverwendung in Sicherheitssystemen elektronisch bekannt geben, wenn diese Stellen für ihre Tätigkeit auf den Daten der Personensicherheitsprüfung basieren müssen und die Daten für die betreffende Person nicht nachteilig sind:[^148-4]
+Die Fachstelle PSP VBS kann Bundesstellen folgende Daten der Personensicherheitsprüfung zur Weiterverwendung in Sicherheitssystemen elektronisch bekannt geben, wenn diese Stellen für ihre Tätigkeit auf den Daten der Personensicherheitsprüfung basieren müssen und die Daten für die betreffende Person nicht nachteilig sind:[^148-6]
 
 - a. Personalien;
 - b. Prüfstufe;
 - c. Ergebnis der Personensicherheitsprüfung mit Datum.
 
-[^148-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^148-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^148-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^148-3]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^148-4]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^148-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^148-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^148-5]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^148-6]: Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 
 #### Art. 149
 
@@ -2252,17 +2403,20 @@ Die Daten des ZUKO dürfen nur aufgrund einer schriftlichen Verfügung eines Unt
 
 Die Daten des ZUKO werden nach ihrem letzten Gebrauch während zehn Jahren aufbewahrt.
 
-### 5. Abschnitt: Journal- und Rapportsystem der Militärischen Sicherheit
+### 5. Abschnitt: Journal- und Rapportsystem der Militärpolizei
 
-[^chap5-sec5-1]
+[^chap5-sec5-1][^chap5-sec5-2]
 
 [^chap5-sec5-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^chap5-sec5-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 167a
 
-**Verantwortliches Organ**
+**Verantwortliches Organ**[^167a-1]
 
-Die Gruppe Verteidigung betreibt ein Journal- und Rapportsystem der Militärischen Sicherheit (JORASYS).
+Die Gruppe Verteidigung betreibt ein Journal- und Rapportsystem der Militärpolizei (JORASYS).
+
+[^167a-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 167b
 
@@ -2307,24 +2461,31 @@ Bei Vorfällen im Zusammenhang mit der Armee oder Angehörigen der Armee kann da
 
 #### Art. 167d
 
-**Datenbeschaffung**
+**Datenbeschaffung**[^167d-1]
 
-<sup>1</sup>
+Das Kommando Militärpolizei beschafft die Daten für das JORASYS:
 
-Das Kommando Militärpolizei beschafft die Daten für das JORASYS bei:
+- a. bei der betreffenden Person;
+- b. bei den militärischen Kommandos;
+- c. bei den zuständigen Verwaltungseinheiten von Bund, Kantonen und Gemeinden;
+- d. bei den zivilen und militärischen Straf-, Strafvollzugs- und Verwaltungsrechtspflegebehörden;
+- e.
 
-- a. der betreffenden Person;
-- b. den militärischen Kommandos;
-- c. den zuständigen Verwaltungseinheiten von Bund, Kantonen und Gemeinden;
-- d. den zivilen und militärischen Straf-, Strafvollzugs- und Verwaltungsrechtspflegebehörden.
+  durch Abrufverfahren oder automatisiert über eine Schnittstelle aus:
 
-<sup>2</sup>
+  - 1\. dem nationalen Polizeiindex,
+  - 2\. dem automatisierten Polizeifahndungssystem RIPOL des Bundesamtes für Polizei,
+  - 3\. dem IVZ,
+  - 4\. den Datenbanken der Zentralstelle Waffen nach Artikel 32*a* Absatz 1 WG[^167d-2],
+  - 5\. der Online-Abfrage Waffenregister der Kantone,
+  - 6\. dem PISA,
+  - 7\. dem IPV,
+  - 8\. dem FA-SVSAA,
+  - 9\. dem Informationssystem Datendrehscheibe Verteidigung (DDSV),
+  - 10\. dem PSN.
 
-Es hat durch Abrufverfahren Zugang zum:
-
-- a. nationalen Polizeiindex;
-- b. MIFA;
-- c. Informationssystem integrierte Ressourcenbewirtschaftung (PSN).
+[^167d-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^167d-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 
 #### Art. 167e
 
@@ -2332,29 +2493,129 @@ Es hat durch Abrufverfahren Zugang zum:
 
 <sup>1</sup>
 
-Das Kommando Militärpolizei macht die Daten des JORASYS folgenden Personen durch Abrufverfahren zugänglich:
+Das Kommando Militärpolizei macht die Daten des JORASYS durch Abrufverfahren folgenden Personen zugänglich:
 
 - a. den Mitarbeiterinnen und Mitarbeitern in den Einsatzzentralen des Kommandos Militärpolizei;
-- b. den Mitarbeiterinnen und Mitarbeitern des Kommandos Militärpolizei für die Erfüllung ihrer Aufgabe nach Artikel 100 MG[^167e-1];
-- c. den Personen, die mit der Beurteilung der militärischen Sicherheitslage und dem Eigenschutz der Armee beauftragt sind, für die Erfüllung ihrer Aufgaben nach Artikel 100 MG.
+- b. den Mitarbeiterinnen und Mitarbeitern des Kommandos Militärpolizei für die Erfüllung ihrer Aufgaben nach Artikel 100 MG[^167e-1];
+- c. den Mitarbeiterinnen und Mitarbeitern des Dienstes für präventiven Schutz der Armee (DPSA) für die Erfüllung ihrer Aufgaben nach Artikel 100 MG.[^167e-2]
 
 <sup>2</sup>
 
 Es gibt die Daten des JORASYS in Form schriftlicher Auszüge folgenden Stellen und Personen bekannt:
 
 - a. der Militärjustiz;
-- b. den zuständigen Truppenkommandanten für ihren Bereich;
-- c. der für die Informations- und Objektsicherheit zuständigen Stelle.
+- b.[^167e-3] den zuständigen Truppenkommandantinnen und Truppenkommandanten für ihren Bereich;
+- c.[^167e-4] den für die Informations- und Objektsicherheit zuständigen Stellen.
 
 [^167e-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^167e-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^167e-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^167e-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 167f
 
+**Datenaufbewahrung**[^167f-1]
+
+Die Daten des JORASYS werden nach Abschluss der militärpolizeilichen Tätigkeit zu einem Vorfall während zehn Jahren aufbewahrt.
+
+[^167f-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
+### 6. Abschnitt: Informationssystem Präventiver Schutz der Armee
+
+[^chap5-sec6-1]
+
+[^chap5-sec6-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
+#### Art. 167g
+
+**Verantwortliches Organ**
+
+Die Gruppe Verteidigung betreibt das Informationssystem Präventiver Schutz der Armee (IPSA).
+
+#### Art. 167h
+
+**Zweck**
+
+Das IPSA dient dem DPSA zur Erfüllung der Aufgaben nach Artikel 100 Absatz 1 MG[^167h-1], insbesondere:
+
+- a. zur Beurteilung der militärischen Sicherheitslage;
+- b. zum vorsorglichen Schutz vor Spionage, Sabotage und weiteren rechtswidrigen Handlungen;
+- c. zur Journal- und Einsatzführung.
+
+[^167h-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+
+#### Art. 167i
+
+**Daten**
+
+Das IPSA enthält von Personen, von denen eine mögliche Bedrohung der Armee ausgeht, folgende Daten:
+
+- a. Personalien;
+- b. Zivilstand, Geburts- und Heimatort sowie Beruf und Ausbildung;
+- c. Staatsangehörigkeit, ethnische und religiöse Zugehörigkeit, Aufenthaltsstatus;
+- d. Daten zum Nachweis der Identität, einschliesslich körperlicher Merkmale;
+- e. politische und ideologische Ausrichtung;
+- f. Rekrutierungsergebnisse, Einteilung, Grad, Funktion, Ausbildung, Qualifikationen, Dienstleistungen, Einsätze und Ausrüstung in der Armee und im Zivilschutz;
+- g. Einkommens- und Vermögensverhältnisse;
+- h. medizinische und biometrische Daten;
+- i. Bild-, Film- und Tonaufnahmen;
+- j. Bezugspersonen sowie deren Identität;
+- k. Daten über den Aufenthaltsort der Person, einschliesslich Bewegungsprofilen;
+- l. Daten über die von der Person verwendeten Fortbewegungs- und Kommunikationsmittel, einschliesslich Nutzungs- und Standortdaten sowie Bewegungsprofilen;
+- m. Einzelheiten zu der von einer Person ausgehenden möglichen Bedrohung der Armee;
+- n. weitere Informationen und Daten, die der DPSA für die Erfüllung der Aufgaben nach Artikel 100 Absatz 1 MG[^167i-1] benötigt.
+
+[^167i-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+
+#### Art. 167j
+
+**Datenbeschaffung**
+
+Der DPSA beschafft die Daten für das IPSA:
+
+- a. bei der betreffenden Person;
+- b. bei den militärischen Kommandos;
+- c. bei den in- und ausländischen Nachrichtendiensten;
+- d. bei den Verwaltungseinheiten von Bund, Kantonen und Gemeinden;
+- e. bei den zivilen und militärischen Strafbehörden sowie den Verwaltungsrechtspflegebehörden;
+- f. aus öffentlich zugänglichen Quellen;
+- g.
+
+  durch Abrufverfahren aus dem:
+
+  - 1\. PISA,
+  - 2\. FA-SVSAA,
+  - 3\. JORASYS,
+  - 4\. DDSV,
+  - 5\. PSN.
+
+#### Art. 167k
+
+**Datenbekanntgabe**
+
+<sup>1</sup> Der DPSA macht die Daten des IPSA durch Abrufverfahren seinen Mitarbeiterinnen und Mitarbeitern für die Erfüllung ihrer Aufgaben nach Artikel 100 MG[^167k-1] zugänglich.
+
+<sup>2</sup>
+
+Er gibt die Daten des IPSA in Form schriftlicher Auszüge folgenden Stellen und Personen bekannt, soweit diese die Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen:
+
+- a. den für die Informations- und Objektsicherheit zuständigen Stellen;
+- b. den für die Cyberabwehr zuständigen Stellen;
+- c. der Fachstelle Extremismus in der Armee;
+- d. dem Kommando Militärpolizei;
+- e. der Organisationseinheit Personelles der Armee;
+- f. den zuständigen Truppenkommandantinnen und Truppenkommandanten für ihren Bereich;
+- g. dem Nachrichtendienst des Bundes; vorbehalten bleibt Artikel 5 Absatz 5 NDG[^167k-2];
+- h. dem Bundesamt für Polizei.
+
+[^167k-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^167k-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+
+#### Art. 167l
+
 **Datenaufbewahrung**
 
-<sup>1</sup> Die Daten des JORASYS werden nach der Entlassung aus der Militärdienstpflicht während zehn Jahren aufbewahrt.
-
-<sup>2</sup> Die Daten Dritter werden zehn Jahre nach Abschluss des Verfahrens zum Vorfall gelöscht.
+Die Daten des IPSA werden nach dem Wegfall der von der betreffenden Person ausgehenden möglichen Bedrohung der Armee längstens während fünf Jahren aufbewahrt.
 
 ## 6. Kapitel: Übrige Informationssysteme
 
@@ -2362,38 +2623,69 @@ Es gibt die Daten des JORASYS in Form schriftlicher Auszüge folgenden Stellen u
 
 #### Art. 168
 
-**Verantwortliches Organ**
+**Verantwortliches Organ**[^168-1]
 
-Das Generalsekretariat des VBS betreibt ein Informationssystem Schadenzentrum VBS (SCHAWE).
+Das Generalsekretariat des VBS betreibt ein Informationssystem Schadenzentrum VBS (SCHAMIS).
+
+[^168-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 169
 
 **Zweck**
 
-Das SCHAWE dient:
+Das SCHAMIS dient:[^169-1]
 
-- a. der Erledigung von Schadenersatzansprüchen nach den Artikeln 134–139 MG[^169-1];
+- a. der Erledigung von Schadenersatzansprüchen nach den Artikeln 134–139 MG[^169-2];
 - b. der Regulierung von Schadenfällen mit Beteiligung von Bundesfahrzeugen;
-- c. dem Entscheid über Rückgriffe und Schadensbeteiligungen gegenüber Angestellten des Bundes aus Schadenfällen im Zusammenhang mit Bundesfahrzeugen.
+- c. dem Entscheid über Rückgriffe und Schadensbeteiligungen gegenüber Angestellten des Bundes aus Schadenfällen im Zusammenhang mit Bundesfahrzeugen;
+- d.[^169-3] dem Ausstellen von elektronischen Versicherungsnachweisen für Bundesfahrzeuge;
+- e.[^169-4] der Regulierung von Schadenfällen von Motorfahrzeugen von Ratsmitgliedern nach Artikel 4 Absatz 2 der Verordnung der Bundesversammlung vom vom 18. März 1988[^169-5] zum Parlamentsressourcengesetz.
 
-[^169-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^169-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^169-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^169-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^169-4]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^169-5]: [SR 171.211](https://fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166)
 
 #### Art. 170
 
 **Daten**
 
-Das SCHAWE enthält:
+Das SCHAMIS enthält:[^170-1]
 
-- a. sanitätsdienstliche Daten über die Geschädigten und die Schädigenden;
+- a.[^170-2]
+
+  folgende Daten von Geschädigten und Schädigenden:
+
+  - 1\. Personalien, Adresse, Kontaktangaben und Korrespondenzsprache,
+  - 2\. Sozialversicherungsnummer,
+  - 3\. Angaben zur finanziellen und beruflichen Situation,
+  - 4\. Daten von Versicherungen,
+  - 5\. medizinische und sanitätsdienstliche Daten,
+  - 6\. Daten aus Straf-, Zivil-, Disziplinar- und Verwaltungsverfahren,
+  - 7\. militärische Führungsdaten,
+  - 8\. Fahrzeughalterdaten;
+
+- a<sup>bis</sup>.[^170-3]
+
+  folgende für die Zweckerfüllung nötigen Daten von Dritten:
+
+  - 1\. Personalien, Adresse, Kontaktangaben und Korrespondenzsprache,
+  - 2\. Beruf;
+
 - b. Angaben zum Schadensereignis;
 - c. Angaben zur Schadensbemessung;
 - d. Abklärungen von Sachverständigen.
+
+[^170-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^170-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^170-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 171
 
 **Datenbeschaffung**
 
-Das Generalsekretariat des VBS beschafft die Daten für das SCHAWE bei:
+Das Generalsekretariat des VBS beschafft die Daten für das SCHAMIS bei:[^171-1]
 
 - a. der betreffenden Person oder ihrer gesetzlichen Vertretung;
 - b. den militärischen Kommandos;
@@ -2402,75 +2694,99 @@ Das Generalsekretariat des VBS beschafft die Daten für das SCHAWE bei:
 - e. den zivilen und militärischen Strafbehörden sowie den Verwaltungsrechtspflegebehörden;
 - f. den militärischen und, mit Einwilligung der betreffenden Person, zivilen Vorgesetzten;
 - g. Sachverständigen;
-- h. den von der betreffenden Person genannten Referenzpersonen.
+- h. den von der betreffenden Person genannten Referenzpersonen;
+- i.[^171-2] Versicherungen.
+
+[^171-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^171-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 172
 
-**Datenbekanntgabe**
+**Datenbekanntgabe**[^172-1]
 
-<sup>1</sup> Das Generalsekretariat des VBS macht die Daten des SCHAWE den mit den Aufgaben nach Artikel 169 betrauten Mitarbeiterinnen und Mitarbeitern durch Abrufverfahren zugänglich.
+<sup>1</sup> Das Generalsekretariat des VBS macht die Daten des SCHAMIS den mit den Aufgaben nach Artikel 169 betrauten Mitarbeiterinnen und Mitarbeitern durch Abrufverfahren zugänglich.
 
-<sup>2</sup> Es gibt Dritten, die in seinem Auftrag bei der Erledigung von Schadenfällen und Haftpflichtansprüchen mitwirken, die dafür notwendigen Daten bekannt.
+<sup>2</sup> Es gibt Dritten, die bei der Erledigung von Schadenfällen und Haftpflichtansprüchen mitwirken, die dafür notwendigen Daten bekannt.
+
+[^172-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 173
 
-**Datenaufbewahrung**
+**Datenaufbewahrung**[^173-1]
 
-Die Daten des SCHAWE werden nach dem rechtskräftigen Abschluss des Verfahrens während zehn Jahren aufbewahrt.
+Die Daten des SCHAMIS werden nach dem rechtskräftigen Abschluss des Verfahrens während zehn Jahren aufbewahrt.
 
-### 2. Abschnitt: Strategisches Informationssystem Logistik
+[^173-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
+### 2. Abschnitt: Informationssystem Datendrehscheibe Verteidigung
+
+[^chap6-sec2-1]
+
+[^chap6-sec2-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 174
 
-**Verantwortliches Organ**
+**Verantwortliches Organ**[^174-1]
 
-Die Gruppe Verteidigung betreibt das Strategische Informationssystem Logistik (SISLOG).
+Die Gruppe Verteidigung betreibt das Informationssystem Datendrehscheibe Verteidigung (DDSV).
+
+[^174-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 175
 
 **Zweck**
 
-Das SISLOG dient zur Erfüllung folgender Aufgaben:
+Das DDSV dient zur Erfüllung folgender Aufgaben:[^175-1]
 
 - a. Bereitstellung von logistischen Daten für sämtliche Aufgaben der Armeelogistik;
 - b. Bereitstellung einer Datenbasis für den logistischen Informationsbedarf anderer berechtigter Stellen;
 - c. Austausch von Daten zwischen den militärischen Informationssystemen.
 
+[^175-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
 #### Art. 176
 
 **Daten**
 
-Das SISLOG enthält folgende Daten:
+Das DDSV enthält folgende Daten:[^176-1]
 
 - a. Daten über Einteilung, Grad, Funktion, Ausbildung, Qualifikation und Ausrüstung in der Armee und im Zivilschutz;
 - b. Daten über den Einsatz in der Armee und im Zivilschutz;
-- c. weitere Daten, soweit und solange dies für den Datenaustausch nach Artikel 175 Buchstabe c notwendig ist.
+- c.[^176-2] Daten, die für den Datenaustausch nach Artikel 175 Buchstabe c notwendig sind.
+
+[^176-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^176-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 177
 
-**Datenbeschaffung**
+**Datenbeschaffung**[^177-1]
 
-Die Gruppe Verteidigung beschafft die Daten für das SISLOG bei:
+Die Gruppe Verteidigung beschafft die Daten für das DDSV bei:
 
 - a. den militärischen Kommandos;
 - b. den zuständigen Verwaltungseinheiten des Bundes und der Kantone;
 - c. den anderen militärischen Informationssystemen.
 
+[^177-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
 #### Art. 178
 
-**Datenbekanntgabe**
+**Datenbekanntgabe**[^178-1]
 
-Die Gruppe Verteidigung macht die Daten des SISLOG folgenden Stellen und Personen durch Abrufverfahren zugänglich:
+Die Gruppe Verteidigung macht durch Abrufverfahren die folgenden Daten des DDSV den nachstehenden Stellen und Personen zugänglich:
 
-- a. den militärischen Kommandos;
-- b. den zuständigen Verwaltungseinheiten des Bundes und der Kantone;
-- c. den für den Datenaustausch nach Artikel 175 Buchstabe c zuständigen Stellen und Personen.
+- a. die Daten nach Artikel 176 Buchstaben a und b: den militärischen Kommandos sowie den zuständigen Verwaltungseinheiten des Bundes und der Kantone;
+- b. die Daten nach Artikel 176 Buchstabe c: den für die militärischen Informationssysteme zuständigen Stellen und Personen.
+
+[^178-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179
 
-**Datenaufbewahrung**
+**Datenaufbewahrung**[^179-1]
 
-Die Daten des SISLOG werden längstens während fünf Jahren aufbewahrt.
+Die Daten des DDSV werden längstens während fünf Jahren aufbewahrt.
+
+[^179-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### 3. Abschnitt: Informationssystem integrierte Ressourcenbewirtschaftung
 
@@ -2493,10 +2809,11 @@ Das PSN dient der logistischen, personellen und finanziellen Führung der Armee 
 - a. die Sicherstellung der materiellen Bereitschaft bis zum Zeitpunkt der Rückgabe der persönlichen Ausrüstung der Angehörigen der Armee und des Korpsmaterials der Truppe;
 - b. die Kontrolle der Abgabe von Armeematerial an Dritte sowie die Kontrolle der Rücknahme von Armeematerial von Dritten;
 - c. die Kontrolle der Abgabe, der Rücknahme, der Hinterlegung, der Abnahme und des Entzugs der persönlichen Waffe und der Leihwaffe sowie die Kontrolle der Überlassung zu Eigentum;
-- d. den Austausch von Daten mit der Datenbank nach Artikel 32*a* Absatz 1 Buchstabe d des Waffengesetzes vom 20. Juni 1997[^179b-1] (WG);
+- d.[^179b-1] den Austausch von Daten mit der Datenbank nach Artikel 32*a* Absatz 1 Buchstabe d WG[^179b-2];
 - e. die Verwaltung, Bewirtschaftung und Ablage von Personal- und Abrechnungsdaten des zivilen und des militärischen Personals.
 
-[^179b-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^179b-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^179b-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 
 #### Art. 179c
 
@@ -2524,11 +2841,12 @@ Es enthält folgende Daten von Stellungspflichtigen und Angehörigen der Armee s
 
 <sup>3</sup> Es enthält Kontrolldaten über die Abgabe und Rücknahme von Armeematerial an Dritte sowie deren Personalien.
 
-<sup>4</sup> Es enthält die Daten der Stellenbewerberinnen und Stellenbewerber aus dem Bewerbungsdossier nach Artikel 27*b* und der Angestellten aus dem Personaldossier nach Artikel 27*c* BPG[^179c-3].
+<sup>4</sup> Es enthält die Daten der Stellenbewerberinnen und Stellenbewerber sowie der Angestellten aus den gestützt auf das BPG[^179c-3] und dessen Ausführungsbestimmungen geführten Bewerbungs- und Personaldossiers.[^179c-4]
 
 [^179c-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^179c-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^179c-3]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^179c-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179d
 
@@ -2540,9 +2858,10 @@ Die Verwaltungseinheiten der Gruppe Verteidigung beschaffen die Daten für das P
 - b. Dritten;
 - c. den Stellenbewerberinnen und Stellenbewerbern;
 - d. den Angestellten sowie deren direkten Vorgesetzten;
-- e. den zuständigen Verwaltungseinheiten des Bundes und der Kantone aus den militärischen Informationssystemen, dem Personalinformationssystem der Bundesverwaltung (BV PLUS) und der Datenbank nach Artikel 32*a* Absatz 1 Buchstabe c WG[^179d-1].
+- e.[^179d-1] den zuständigen Verwaltungseinheiten des Bundes und der Kantone aus den militärischen Informationssystemen, dem IPDM und der Datenbank nach Artikel 32*a* Absatz 1 Buchstabe c WG[^179d-2].
 
-[^179d-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^179d-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^179d-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 
 #### Art. 179e
 
@@ -2573,10 +2892,11 @@ Sie geben die Daten des PSN zur Erfüllung ihrer gesetzlichen oder vertraglichen
   - 2\. die Daten des PSN betreffend Entscheide und Hinweise über Hinderungsgründe zur Abgabe der persönlichen Waffe sowie über deren Abnahme oder Entzug zur Bearbeitung in der Datenbank nach Artikel 32*a* Absatz 1 Buchstabe d WG[^179e-1];
 
 - d. berechtigten Personen bei der RUAG für die Ausrüstung;
-- e. den Verwaltungseinheiten der Bundesverwaltung über eine Schnittstelle mit dem BV PLUS;
+- e.[^179e-2] den Verwaltungseinheiten der Bundesverwaltung über eine Schnittstelle mit dem IPDM;
 - f. Dritten, soweit dies zur Erfüllung derer gesetzlichen oder vertraglichen Aufgaben notwendig ist.
 
 [^179e-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^179e-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179f
 
@@ -2590,23 +2910,26 @@ Sie geben die Daten des PSN zur Erfüllung ihrer gesetzlichen oder vertraglichen
 
 <sup>4</sup> Die Daten der Angestellten aus dem Personaldossier werden nach der Beendigung des Arbeitsverhältnisses mit der Gruppe Verteidigung längstens während zehn Jahren aufbewahrt. Ergebnisse von Persönlichkeitstests und Potenzialbeurteilungen werden längstens während fünf Jahren aufbewahrt. Leistungsbeurteilungen sowie Entscheide, die auf einer Beurteilung beruhen, werden während fünf Jahren aufbewahrt, im Falle eines laufenden Rechtsstreits jedoch bis zum Abschluss des Verfahrens.
 
-### 4. Abschnitt: Informationssystem Vereins- und Verbandsadministration
+### 4. Abschnitt: Informationssystem Schiesswesen ausser Dienst
 
-[^chap6-sec4-1]
+[^chap6-sec4-1][^chap6-sec4-2]
 
 [^chap6-sec4-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^chap6-sec4-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179g
 
-**Verantwortliches Organ**
+**Verantwortliches Organ**[^179g-1]
 
-Die Gruppe Verteidigung betreibt das Informationssystem Vereins- und Verbandsadministration (VVAdmin).
+Die Gruppe Verteidigung betreibt das Informationssystem Schiesswesen ausser Dienst (SaD).
+
+[^179g-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179h
 
 **Zweck**
 
-Das VVAdmin dient der Verwaltung und dem Betrieb des Schiesswesens ausser Dienst bei:
+Das SaD dient der Verwaltung und dem Betrieb des Schiesswesens ausser Dienst bei:[^179h-1]
 
 - a. der Planung, Durchführung und Kontrolle von Bundesübungen, Schiessübungen und Schiesskursen;
 - b. der Kontrolle der Schiesspflichterfüllung;
@@ -2616,11 +2939,13 @@ Das VVAdmin dient der Verwaltung und dem Betrieb des Schiesswesens ausser Dienst
 - f. der Abrechnung von Spesen von Funktionärinnen und Funktionären im Schiesswesen ausser Dienst;
 - g. der Verwaltung der Schiessanlagen.
 
+[^179h-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
 #### Art. 179i
 
 **Daten**
 
-Das VVAdmin enthält folgende für die Kontrolle von obligatorischen Schiessen und anderen Schiessen im Interesse der Landesverteidigung benötigten Daten von schiesspflichtigen Angehörigen der Armee, von Funktionärinnen und Funktionären im Schiesswesen ausser Dienst, von anerkannten Schiessvereinen und deren Mitgliedern sowie von Schützinnen und Schützen:
+Das SaD enthält folgende für die Kontrolle von obligatorischen Schiessen und anderen Schiessen im Interesse der Landesverteidigung benötigten Daten von schiesspflichtigen Angehörigen der Armee, von Funktionärinnen und Funktionären im Schiesswesen ausser Dienst, von anerkannten Schiessvereinen und deren Mitgliedern sowie von Schützinnen und Schützen:[^179i-1]
 
 - a. Personalien;
 - b. AHV-Nummer;
@@ -2630,15 +2955,19 @@ Das VVAdmin enthält folgende für die Kontrolle von obligatorischen Schiessen u
 - f. administrative Daten für die Durchführung von Kursen und Ausrichtung von Entschädigungen;
 - g. Daten, die von den betreffenden Personen freiwillig gemeldet wurden.
 
+[^179i-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
 #### Art. 179j
 
 **Datenbeschaffung**
 
-Die Gruppe Verteidigung beschafft die Daten für das VVAdmin bei:
+Die Gruppe Verteidigung beschafft die Daten für das SaD bei:[^179j-1]
 
 - a. den anerkannten Schiessvereinen;
 - b. den Funktionärinnen und Funktionären im Schiesswesen ausser Dienst;
 - c. den Militärbehörden.
+
+[^179j-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179k
 
@@ -2646,20 +2975,23 @@ Die Gruppe Verteidigung beschafft die Daten für das VVAdmin bei:
 
 <sup>1</sup>
 
-Die Gruppe Verteidigung macht die Daten des VVAdmin folgenden Stellen und Personen für die Erfüllung ihrer Aufgaben im Abrufverfahren zugänglich:
+Die Gruppe Verteidigung macht die Daten des SaD durch Abrufverfahren folgenden Stellen und Personen für die Erfüllung ihrer Aufgaben zugänglich:[^179k-1]
 
 - a. den anerkannten Schiessvereinen und -verbänden;
 - b. den Funktionärinnen und Funktionären im Schiesswesen ausser Dienst;
 - c. den Leihwaffenbesitzerinnen und Leihwaffenbesitzern;
 - d. den Militärbehörden.
 
-<sup>2</sup> Sie gibt die für die Abrechnung und die Kontrolle nach Artikel 179*h* notwendigen Daten des VVAdmin der Alters- und Hinterlassenenversicherung, den Steuerverwaltungen und der mit dem Zahlungsverkehr betrauten Stelle bekannt.
+<sup>2</sup> Sie gibt die für die Abrechnung und die Kontrolle nach Artikel 179*h* notwendigen Daten des SaD der Alters- und Hinterlassenenversicherung, den Steuerverwaltungen und der mit dem Zahlungsverkehr betrauten Stelle bekannt.[^179k-2]
+
+[^179k-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^179k-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179l
 
 **Datenaufbewahrung**
 
-<sup>1</sup> Die Daten des VVAdmin werden während fünf Jahren nach dem letzten Eintrag aufbewahrt.
+<sup>1</sup> Die Daten des SaD werden während fünf Jahren nach dem letzten Eintrag aufbewahrt.[^179l-1]
 
 <sup>2</sup>
 
@@ -2669,6 +3001,79 @@ Sie werden nach folgenden Ereignissen längstens während zwei Jahren aufbewahrt
 - b. Aufgabe der Tätigkeit als Funktionärin oder Funktionär im Schiesswesen ausser Dienst;
 - c. Rückgabe der Leihwaffe;
 - d. Tod.
+
+[^179l-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
+### 5. Abschnitt: Informationssystem Master-Data-Management
+
+[^chap6-sec5-1]
+
+[^chap6-sec5-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
+#### Art. 179m
+
+**Verantwortliches Organ**
+
+Das Generalsekretariat des VBS betreibt das Informationssystem Master-Data-Management (MDM).
+
+#### Art. 179n
+
+**Zweck**
+
+Das MDM dient der Verwaltung und Bereitstellung von Daten bestehender und künftig möglicher Geschäftspartnerinnen und Geschäftspartner für die Geschäftsprozesse des VBS in den Bereichen Finanzen, Beschaffung, Logistik, Immobilien und Personal.
+
+#### Art. 179o
+
+**Daten**
+
+Das MDM enthält die folgenden Daten bestehender und künftig möglicher Geschäftspartnerinnen und Geschäftspartner:
+
+- a. Namens- und Firmendaten;
+- b. Adressdaten;
+- c. Kontoverbindung;
+- d. Kontaktangaben;
+- e. Geschlecht;
+- f. Nationalität;
+- g. Korrespondenzsprache;
+- h. Ausländerkategorie;
+- i. Beruf;
+- j. Geburtsdatum;
+- k. Sozialversicherungsnummer;
+- l. Rechtsform;
+- m. Unternehmensidentifikationsnummer (UID), Steuernummer sowie weitere, unternehmensspezifische Nummern und Einteilungscodes;
+- n. Konkursangaben;
+- o. Status als Geschäftspartnerin oder Geschäftspartner;
+- p. mit der Geschäftspartnerin oder dem Geschäftspartner verknüpfte logistische Stammdaten wie Materialstammdaten und Systemstrukturdaten.
+
+#### Art. 179p
+
+**Datenbeschaffung**
+
+Das Generalsekretariat des VBS beschafft die Daten für das MDM:
+
+- a. bei den bestehenden und künftig möglichen Geschäftspartnerinnen und Geschäftspartnern;
+- b. bei den Verwaltungseinheiten des Bundes, der Kantone und der Gemeinden;
+- c. aus dem für das Master-Data-Management ausserhalb des VBS betriebenen Informationssystem des Bundes über eine Schnittstelle;
+- d. bei in- und ausländischen Materiallieferantinnen und -lieferanten sowie -herstellerinnen und -herstellern.
+
+#### Art. 179q
+
+**Datenbekanntgabe**
+
+Das Generalsekretariat des VBS macht die Daten des MDM durch Abrufverfahren den für die Geschäftsprozesse des VBS in den Bereichen Finanzen, Beschaffung, Logistik, Immobilien und Personal zuständigen Stellen und Personen zugänglich.
+
+#### Art. 179r
+
+**Datenaufbewahrung**
+
+<sup>1</sup>
+
+Die Daten des MDM werden nach Beendigung der Geschäftsbeziehung zu einer Geschäftspartnerin oder einem Geschäftspartner wie folgt aufbewahrt:
+
+- a. die Daten nach Artikel 179*o* Buchstaben a–o: während zehn Jahren;
+- b. die Daten nach Artikel 179*o* Buchstabe p: während fünfzig Jahren.
+
+<sup>2</sup> Steht fest, dass eine Person nicht Geschäftspartnerin oder Geschäftspartner wird, werden ihre Daten während zwei Jahren aufbewahrt.
 
 ## 7. Kapitel: Überwachungsmittel
 
@@ -2686,13 +3091,19 @@ Die Armee und die Militärverwaltung betreiben mobile und fest installierte, bod
 
 Die Überwachungsmittel dienen zur Erfüllung folgender Aufgaben:
 
-- a. Gewährleistung der Sicherheit von Angehörigen, Einrichtungen und Material der Armee im Bereich der Truppe oder militärischer Objekte;
+- a.[^181-1]
+
+  Gewährleistung der Sicherheit von Angehörigen, Einrichtungen und Material der Armee im Bereich:
+
+  - 1\. der Truppe,
+  - 2\. militärisch genutzter Objekte der Armee, der Militärverwaltung oder von Dritten;
+
 - b. Erfüllung des Auftrags bei Einsätzen im Friedensförderungs-, Assistenz- und Aktivdienst, im Rahmen der Beschlüsse der zuständigen Behörden;
 - c. Ausbildung im Hinblick auf die Aufgaben nach den Buchstaben a und b.
 
 <sup>2</sup>
 
-Die Armee kann den zivilen Behörden auf Gesuch hin luftgestützte Überwachungsmittel mit dem nötigen Personal zur Verfügung stellen:
+Die Armee kann mit ihren Überwachungsmitteln und dem nötigen Personal den zivilen Behörden auf Gesuch hin luftgestützte Überwachungsleistungen erbringen:[^181-2]
 
 - a.
 
@@ -2707,6 +3118,9 @@ Die Armee kann den zivilen Behörden auf Gesuch hin luftgestützte Überwachungs
 <sup>3</sup> Einsätze nach Absatz 2, die von besonderer politischer Tragweite sind, bedürfen der vorgängigen Genehmigung des VBS.
 
 <sup>4</sup> Das VBS informiert die Sicherheitspolitischen Kommissionen beider Räte jährlich über die Einsätze nach Absatz 2.
+
+[^181-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^181-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 182
 
@@ -2763,6 +3177,11 @@ Er regelt die Einzelheiten:
 
 - a. des Verbunds der Informationssysteme;
 - b. des Einsatzes von Überwachungsmitteln, insbesondere legt er fest, welche Überwachungsmittel zulässig sind und in welchen Fällen sie verdeckt eingesetzt werden dürfen.
+
+<sup>3</sup> Er kann im Rahmen der Aussen- und Sicherheitspolitik internationale Abkommen über die grenzüberschreitende Bearbeitung von Personendaten, deren Bearbeitung nach DSG[^186-1] keine Grundlage in einem Gesetz im formellen Sinn erfordert, abschliessen.[^186-2]
+
+[^186-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^186-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 187
 

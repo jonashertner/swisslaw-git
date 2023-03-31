@@ -4,31 +4,33 @@ title: Loi fédérale du 3 octobre 2008 sur les systèmes d’information de l�
 short: LSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: fr
-version: 2023-01-23
+version: 2023-04-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230123-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230401-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les systèmes d’information de l’armée<sup></sup>
+# Loi fédérale sur les systèmes d’information de l’armée et du DDPS<sup></sup>
 
-(LSIA)[^t-1]
+(LSIA)[^t-2][^t-1]
 
-du 3 octobre 2008 (État le 23 janvier 2023)
+du 3 octobre 2008 (État le 1<sup>er</sup> avril 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 40, al. 2, et 60, al. 1, de la Constitution[^ingress-1], vu le message du Conseil fédéral du 7 mars 2008[^ingress-2],
+vu les art. 40, al. 2, 60, al. 1, et 173, al. 2, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 7 mars 2008[^ingress-3],
 
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)
+[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^ingress-3]: [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)
 
 ## Chapitre 1 Dispositions générales
 
@@ -38,18 +40,24 @@ arrête:
 
 <sup>1</sup>
 
-La présente loi règle le traitement des données sensibles et des profils de la personnalité (données) dans les systèmes d’information et lors de l’engagement de moyens de surveillance de l’armée et de l’administration militaire par:
+La présente loi règle le traitement de données personnelles concernant des personnes physiques et morales (données), données sensibles comprises, dans les systèmes d’information et lors de l’engagement de moyens de surveillance de l’armée et du Département fédéral de la défense, de la protection de la population et des sports (DDPS) par:[^1-1]
 
 - a. les autorités fédérales et cantonales;
-- b. les commandants et les organes de commandement de l’armée (commandements militaires);
-- c. les autres militaires;
-- d. les tiers accomplissant des tâches liées au domaine militaire.
+- b.[^1-2] les commandants et les organes de commandement de l’armée (commandements militaires) et les commandants de la protection civile;
+- c.[^1-3] d’autres militaires et membres de la protection civile;
+- d.[^1-4] les tiers accomplissant des tâches liées à l’armée ou à la protection civile ou pour le DDPS.
 
-<sup>2</sup> Elle ne s’applique pas au service de renseignements.
+<sup>2</sup> Elle ne s’applique pas au traitement des données par les services de renseignement.[^1-5]
 
-<sup>3</sup> Dans la mesure où la présente loi ne contient pas de dispositions spécifiques, la loi fédérale du 19 juin 1992 sur la protection des données[^1-1] est applicable.
+<sup>3</sup> Dans la mesure où la présente loi ne contient pas de dispositions spécifiques, la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^1-6] est applicable.[^1-7]
 
-[^1-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^1-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-4]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-5]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^1-6]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^1-7]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 2
 
@@ -57,10 +65,10 @@ La présente loi règle le traitement des données sensibles et des profils de l
 
 <sup>1</sup>
 
-Les services et personnes visés à l’art. 1, al. 1, peuvent, pour accomplir leurs tâches légales ou contractuelles:
+Lors de l’exploitation de systèmes d’information ou de l’engagement de moyens de surveillance de l’armée et du DDPS, les services et personnes visés à l’art. 1, al. 1, peuvent, pour accomplir leurs tâches légales ou contractuelles:[^2-1]
 
-- a. traiter des données, et en particulier les rendre accessibles en ligne, dans la mesure où la présente loi ou une autre loi fédérale le prévoit expressément;
-- b. utiliser le numéro AVS[^2-1] prévu dans la loi fédérale du 20 décembre 1946 sur l’assurance vieillesse et survivants[^2-2];
+- a.[^2-2] …
+- b. utiliser le numéro AVS[^2-3] prévu dans la loi fédérale du 20 décembre 1946 sur l’assurance vieillesse et survivants[^2-4];
 - c. communiquer sous forme électronique les données, pour autant qu’un niveau de protection adéquat contre tout traitement non autorisé soit assuré.
 
 <sup>2</sup> Les services et personnes auprès desquels les données peuvent être collectées sont tenus de les communiquer gratuitement.
@@ -71,8 +79,10 @@ Les services et personnes visés à l’art. 1, al. 1, peuvent, pour accomplir l
 
 <sup>5</sup> Les images qui montrent des personnes en service militaire clairement identifiables ne peuvent être publiées qu’avec leur consentement écrit.
 
-[^2-1]: Nouvelle expression selon l’annexe ch. 14 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il a été tenu compte de cette mod. dans tout le texte.
-[^2-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^2-2]: Abrogée par le ch. I de la LF du 17 juin 2022, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^2-3]: Nouvelle expression selon l’annexe ch. 14 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 2a
 
@@ -96,15 +106,15 @@ Les organes responsables en vertu de la présente loi peuvent traiter, à des fi
 
 #### Art. 3
 
-**Exploitation des systèmes d’information**
+[^3-1]
 
-Les systèmes d’information sont exploités en tant qu’applications autonomes ou sur la plateforme bureautique de la Base d’aide au commandement de l’armée.
+[^3-1]: Abrogé par le ch. I de la LF du 17 juin 2022, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 4
 
 **Mise en réseau de systèmes d’information**
 
-<sup>1</sup> Les systèmes d’information sont exploités en réseau par les Groupements Défense et armasuisse, conformément aux chap. 2 à 6.
+<sup>1</sup> Les systèmes d’information réglés par la présente loi et ses dispositions d’exécution sont exploités en réseau par le DDPS et ses unités administratives.[^4-1]
 
 <sup>2</sup>
 
@@ -112,6 +122,8 @@ Ils sont mis en réseau de manière que les services et personnes compétents pu
 
 - a. vérifier, en une seule opération de recherche, si les personnes dont ils ont besoin des données pour accomplir leurs tâches légales ou contractuelles figurent dans les systèmes d’information auxquels ils ont accès;
 - b. transférer d’un système à un autre les données dont l’enregistrement est autorisé dans plusieurs systèmes d’information.
+
+[^4-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 5
 
@@ -121,11 +133,15 @@ Le Conseil fédéral peut regrouper, remplacer ou supprimer des systèmes d’in
 
 #### Art. 6
 
-**Traitement des données dans le cadre de la coopération internationale**
+**Traitement des données dans le cadre de la coopération internationale**[^6-1]
 
-<sup>1</sup> Les autorités compétentes et les commandements militaires peuvent traiter des données dans le cadre de la coopération avec les autorités et les commandements militaires d’autres pays, ainsi qu’avec les organisations internationales, si une loi ou un traité international sujet au référendum le prévoit.
+Les autorités compétentes et les commandements militaires peuvent, dans le cadre de la coopération avec les autorités et commandements militaires d’autres pays ainsi qu’avec les organisations internationales, traiter des données et notamment les rendre accessibles en ligne:
 
-<sup>2</sup> Les autorités et les commandements militaires d’autres pays, ainsi que les organisations internationales, ne sont en droit de consulter en ligne les données que si une loi ou un traité international sujet au référendum le prévoit.
+- a. lorsqu’une loi au sens formel ou un traité international sujet au référendum le prévoit;
+- b. lorsque des dispositions d’exécution édictées par le Conseil fédéral pour la présente loi ou un accord international conclu par le Conseil fédéral le prévoient et que la LPD[^6-2] ne soumet pas le traitement de ces données à l’existence d’une base dans une loi au sens formel.
+
+[^6-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^6-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 7
 
@@ -133,19 +149,20 @@ Le Conseil fédéral peut regrouper, remplacer ou supprimer des systèmes d’in
 
 <sup>1</sup> Les services de contrôle internes à l’armée ou à l’administration, ainsi que les services et personnes[^7-1] internes à l’armée ou à l’administration chargés de vérifier l’application des dispositions sur la protection des données, peuvent traiter des données pour accomplir leurs tâches de contrôle.
 
-<sup>2</sup> Les personnes chargées de la maintenance, de la gestion et de la programmation ne peuvent traiter des données que si elles sont absolument nécessaires à l’accomplissement de leurs tâches et que la sécurité des données est garantie. Il ne doit en résulter aucune modification des données.
+<sup>2</sup> Les personnes chargées de la maintenance, de la gestion et de la programmation, y compris les fournisseurs externes de prestations, ne peuvent traiter des données que si elles sont nécessaires à l’accomplissement de leurs tâches et que la sécurité des données est garantie.[^7-2] Il ne doit en résulter aucune modification des données.
 
 [^7-1]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Il a été tenu compte de cette mod. dans tout le texte.
+[^7-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 8
 
-**Conservation, effacement, archivage et destruction des données**
+**Conservation, archivage et destruction des données**[^8-1]
 
 <sup>1</sup> Les données sont conservées tant qu’elles sont nécessaires.
 
-<sup>2</sup> Les données qui ne sont plus nécessaires sont effacées; les données interdépendantes enregistrées dans un système d’information sont effacées en bloc dès que la durée de conservation de toutes les données concernées est échue.
+<sup>2</sup> Les données qui ne sont plus nécessaires sont proposées aux Archives fédérales avant d’être détruites.
 
-<sup>3</sup> Les données visées à l’al. 2 sont proposées aux Archives fédérales avec les documents qui s’y rattachent. Les données et les documents que les Archives fédérales jugent sans valeur archivistique sont détruits.
+[^8-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 9
 
@@ -167,18 +184,9 @@ Il est interdit de traiter les données sur:
 
 #### Art. 11
 
-**Données dont le traitement est restreint**
+[^11-1]
 
-<sup>1</sup> Les données sur la sphère intime ne peuvent être communiquées ou rendues accessibles en ligne que sous la forme de chiffres. Elles sont conservées cinq ans au plus.
-
-<sup>2</sup>
-
-Les profils de la personnalité ne peuvent être conservés au-delà de:
-
-- a. la libération de l’obligation de servir dans l’armée[^11-1];
-- b. un délai de cinq ans à compter de la fin de l’engagement auprès du Groupement Défense.
-
-[^11-1]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Il a été tenu compte de cette mod. aux art. mentionnés dans ce RO.
+[^11-1]: Abrogé par le ch. I de la LF du 17 juin 2022, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ## Chapitre 2 Systèmes d’information sur le personnel
 
@@ -207,16 +215,23 @@ Le SIPA sert à l’accomplissement des tâches suivantes:
 - c. admettre les Suissesses ainsi que les Suisses et Suissesses de l’étranger au service militaire;
 - d. procéder à l’affectation et à l’attribution à l’armée ou à la protection civile;
 - e. vérifier l’accomplissement de l’obligation de servir dans l’armée ou dans la protection civile;
-- f. empêcher le recours abusif au régime des allocations pour perte de gain à l’armée ou à la protection civile;
+- f.[^13-2] exécuter le régime des allocations pour perte de gain à l’armée et à la protection civile;
 - g. vérifier l’engagement volontaire dans l’armée ou dans la protection civile;
 - h. planifier, gérer et contrôler les effectifs de l’armée et de la protection civile;
 - i. convoquer la troupe, déplacer les services d’instruction et octroyer les dispenses ou les mises en congé du service d’appui ou du service actif à l’armée;
 - j. convoquer la troupe, déplacer les services d’instruction et octroyer les dispenses ou les mises en congé du service de protection civile;
 - k. gérer le service des militaires et des personnes astreintes à la protection civile décédés ou disparus;
 - l. empêcher une utilisation abusive de l’arme personnelle;
-- m. sélectionner les cadres, contrôler la procédure régissant les qualifications et les mutations et contrôler les promotions et les nominations à l’armée et à la protection civile.
+- m. sélectionner les cadres, contrôler la procédure régissant les qualifications et les mutations et contrôler les promotions et les nominations à l’armée et à la protection civile;
+- n.[^13-3] examiner et contrôler les indemnités de formation;
+- o.[^13-4] gérer les cas relevant du suivi psychologique des militaires pendant leur service;
+- p.[^13-5] répondre aux questions sur les chiffres du DDPS au moyen de données anonymisées.
 
 [^13-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^13-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^13-3]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^13-4]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^13-5]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 14
 
@@ -227,8 +242,23 @@ Le SIPA sert à l’accomplissement des tâches suivantes:
 Le SIPA contient les données ci-après sur les conscrits, les personnes astreintes au service militaire, le personnel pour la promotion de la paix et les civils qui sont pris en charge par la troupe ou qui participent à un engagement de l’armée de durée déterminée:
 
 - a. les décisions portant sur l’aptitude au service militaire ou au service de protection civile, le profil de prestations et l’affectation;
+- a<sup>bis</sup>.[^14-2]
+
+  les données collectées lors des examens, tests et questionnaires du recrutement et fondant les décisions visées à la let. a concernant:
+
+  - 1\. l’état de santé: anamnèse, électrocardiogramme, fonction pulmonaire, ouïe, vue, test d’intelligence, test de compréhension d’un texte, questionnaire en vue du dépistage de troubles psychiques et, sur une base volontaire, analyses de laboratoire et radiographies,
+  - 2\. l’aptitude physique: condition physique, à savoir endurance, force, rapidité et coordination,
+  - 3\. l’intelligence et la personnalité: intelligence générale, capacité à résoudre des problèmes, capacité de concentration et attention, souplesse, rigueur, assurance et sens de l’initiative,
+  - 4\. le psychisme: courage, assurance, résistance au stress, stabilité émotionnelle et sociabilité,
+  - 5\. les compétences sociales: adaptabilité et comportement au sein de la société, de la communauté et du groupe,
+  - 6\. l’aptitude à exercer certaines fonctions: examens spécifiques permettant de révéler des aptitudes qui ne ressortent pas du profil de prestations visé aux ch. 1 à 5,
+  - 7\. le potentiel de cadre: aptitude à exercer la fonction de sous-officier, sous-officier supérieur ou officier,
+  - 8\. l’intérêt de la personne concernée à accomplir ses obligations militaires,
+  - 9\. le risque d’utiliser abusivement l’arme personnelle;
+
 - b. les données sur le potentiel à exercer une fonction de cadre et sur l’appréciation en vue d’une fonction de cadre ainsi que les données sur l’état de service;
 - c. les données sur l’aptitude à exercer certaines fonctions ou des fonctions spéciales aux exigences supérieures si l’aptitude ne ressort pas du profil de prestations;
+- c<sup>bis</sup>.[^14-3] les données sur les instructions suivies et les autorisations obtenues pour l’utilisation de systèmes militaires;
 - d. les données sur le statut militaire et sur l’admission au service civil;
 - e. les données sur les notifications de service et les prestations;
 - f. les données de contrôle relatives aux recherches sur le lieu de séjour;
@@ -238,11 +268,12 @@ Le SIPA contient les données ci-après sur les conscrits, les personnes astrein
 - j. les données fournies volontairement par la personne concernée;
 - k. les données destinées au service responsable des militaires décédés ou disparus;
 - l. les données sur la remise et la reprise des armes personnelles et des armes en prêt ainsi que les décisions relatives à leur reprise préventive et à leur retrait;
-- m. les données sur les procédures pénales menées contre des militaires ou des conscrits et les annonces visées à l’art. 113, al. 7 et 8, de la loi du 3 février 1995 sur l’armée (LAAM)[^14-2] si des signes ou des indices sérieux laissent présumer que la personne concernée pourrait utiliser son arme personnelle de manière dangereuse, pour elle-même ou pour un tiers.
+- m. les données sur les procédures pénales menées contre des militaires ou des conscrits et les annonces visées à l’art. 113, al. 7 et 8, de la loi du 3 février 1995 sur l’armée (LAAM)[^14-4] si des signes ou des indices sérieux laissent présumer que la personne concernée pourrait utiliser son arme personnelle de manière dangereuse, pour elle-même ou pour un tiers;
+- n.[^14-5] les données nécessaires à l’examen et au contrôle des demandes de versement d’indemnités de formation.
 
 <sup>2</sup>
 
-Le SIPA contient les données ci-après sur les personnes astreintes au service civil:
+Il contient les données ci-après sur les personnes astreintes au service civil:[^14-6]
 
 - a. les décisions sur l’admission et l’annulation de l’admission au service civil;
 - b. les données fournies volontairement par la personne concernée.
@@ -264,8 +295,31 @@ Il contient les données ci-après sur les personnes astreintes au service de pr
 - k. les données destinées au service des personnes astreintes au service de protection civile décédées ou disparues;
 - l. les données de contrôle relatives aux recherches sur le lieu de séjour.
 
+<sup>4</sup>
+
+Il contient les données ci-après sur les personnes prises en charge par le Service psychopédagogique de l’armée (SPP):
+
+- a. l’incorporation, le grade, la fonction et l’instruction suivie dans l’armée;
+- b.
+
+  les données psychologiques suivantes:
+
+  - 1\. l’état psychique,
+  - 2\. l’anamnèse biographique sur les caractéristiques psychiques,
+  - 3\. les résultats des tests psychologiques,
+  - 4\. les certificats de spécialistes civils en psychologie;
+
+- c. les données sanitaires de nature psychologique ou psychiatrique nécessaires à l’accomplissement des tâches visées à l’art. 13;
+- d. la correspondance échangée avec les personnes prises en charge, ainsi qu’avec les services concernés;
+- e. les données fournies volontairement par les personnes prises en charge.[^14-7]
+
 [^14-1]: Nouvelle teneur selon le ch. II de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^14-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^14-2]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-3]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-4]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^14-5]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-6]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^14-7]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 15
 
@@ -287,19 +341,30 @@ Le Groupement Défense, les commandants d’arrondissement ainsi que les service
 
 Le SIPA peut être mis en réseau avec les systèmes d’information fédéraux et cantonaux suivants de manière que les services et personnes compétents puissent transférer d’un système à un autre les données dont l’enregistrement est autorisé dans les deux systèmes:
 
-- a. les systèmes de gestion des cours (art. 72, al. 1<sup>bis</sup>, de la loi fédérale du 4 octobre 2002 sur la protection de la population et sur la protection civile[^15-4]);
+- a.[^15-4] les systèmes de gestion des cours (art. 93, al. 2, de la loi fédérale du 20 décembre 2019 sur la protection de la population et sur la protection civile, LPPCi[^15-5]);
 - b. les systèmes d’information cantonaux utilisés pour les contrôles, la comptabilité et l’alarme dans le cadre de la protection civile;
-- c. les systèmes d’information des communes et des administrations militaires cantonales.[^15-5]
+- c. les systèmes d’information des communes et des administrations militaires cantonales.[^15-6]
 
-<sup>3</sup> Le SIPA peut également être mis en réseau avec le registre central des prestations en cours (art. 71, al. 4, let. b, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^15-6]) de manière que les services et personnes compétents puissent transférer du SIPA à ce registre des données dont l’enregistrement est autorisé dans le registre.[^15-7]
+<sup>3</sup> Le SIPA peut également être mis en réseau avec le registre central des prestations en cours (art. 71, al. 4, let. b, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^15-7]) de manière que les services et personnes compétents puissent transférer du SIPA à ce registre des données dont l’enregistrement est autorisé dans le registre.[^15-8]
+
+<sup>4</sup>
+
+Le SPP collecte les données visées à l’art. 14, al. 4, auprès des services et personnes suivants:
+
+- a. la personne prise en charge;
+- b. ses supérieurs militaires;
+- c. le Service médico-militaire;
+- d. des tiers, pour autant que la personne prise en charge y ait consenti.[^15-9]
 
 [^15-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^15-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^15-3]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^15-4]: [[RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)ch. I al. 1 let. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)annexe ch. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)annexe ch. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2012 335](https://fedlex.data.admin.ch/eli/oc/2012/20); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)annexe ch. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)annexe ch. 7. [RO 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)annexe ch. I]. Voir actuellement la LF du 20 déc. 2019 ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
-[^15-5]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^15-6]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^15-7]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^15-4]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^15-5]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^15-6]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^15-7]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^15-8]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^15-9]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 16
 
@@ -307,72 +372,81 @@ Le SIPA peut être mis en réseau avec les systèmes d’information fédéraux 
 
 <sup>1</sup>
 
-Le Groupement Défense donne accès en ligne aux données du SIPA aux services suivants:[^16-1]
+Le Groupement Défense donne accès en ligne aux données du SIPA, à l’exception des données visées à l’art. 14, al. 4, aux services et personnes ci-après, lorsque ces données sont nécessaires à l’accomplissement de leurs tâches légales ou contractuelles:[^16-1]
 
 - a. les autorités militaires;
 - b. les commandements militaires;
-- b<sup>bis</sup>.[^16-2] les services chargés du recrutement;
+- b<sup>bis</sup>.[^16-2] les services et personnes chargés du recrutement;
 - c. les services fédéraux et cantonaux chargés de la perception de la taxe d’exemption de l’obligation de servir;
 - d. la justice militaire;
 - e. l’Office fédéral du service civil (CIVI)[^16-3];
 - f.[^16-4] les services fédéraux et les services cantonaux chargés de la protection civile;
 - g.[^16-5] les autorités chargées d’effectuer les contrôles de sécurité relatifs à des personnes;
-- h.[^16-6] la Centrale de compensation, pour empêcher les abus en matière de régime des allocations pour perte de gain;
-- i.[^16-7] le Service de renseignement de la Confédération, en vue d’identifier les personnes qui, sur la base de renseignements sur les menaces pour la sûreté intérieure ou extérieure au sens de l’art. 6, al. 1, let*.* a, de la loi fédérale du 25 septembre 2015 sur le renseignement[^16-8] pourraient également représenter une menace pour la sécurité de l’armée;
+- h.[^16-6] la Centrale de compensation pour l’exécution du régime des allocations pour perte de gain;
+- i.[^16-7] le Service de renseignement de la Confédération, en vue d’identifier les personnes qui, sur la base de renseignements sur les menaces pour la sûreté intérieure ou extérieure au sens de l’art. 6, al. 1, let. a, de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^16-8] pourraient représenter une menace pour la sécurité de l’armée;
 - j.[^16-9] l’assurance militaire, lorsque ces données sont nécessaires au traitement des cas d’assurance.
 
 <sup>1bis</sup> La Centrale de compensation peut communiquer les données visées à l’al. 1, let. h, aux caisses de compensation de l’AVS compétentes.[^16-10]
 
+<sup>1ter</sup>
+
+Le SPP donne accès en ligne aux données visées à l’art. 14, al. 4, aux services et personnes suivants:
+
+- a. les spécialistes du SPP responsables de la prise en charge psychologique des militaires;
+- b. les services et médecins chargés du recrutement;
+- c. les services responsables du Service médico-militaire de l’armée.[^16-11]
+
 <sup>2</sup>
 
-Le Groupement Défense ainsi que les services fédéraux et cantonaux chargés de la protection civile communiquent les données du SIPA relevant de leur domaine aux services et personnes suivants:[^16-11]
+Le Groupement Défense ainsi que les services fédéraux et cantonaux chargés de la protection civile communiquent les données du SIPA relevant de leur domaine aux services et personnes suivants:[^16-12]
 
 - a.
 
   les autorités d’instruction ou de poursuite pénales, dans les cas suivants:
 
   - 1\. ces données sont nécessaires à l’instruction et la gravité ou le caractère du délit en justifient la communication,
-  - 2\.[^16-12] une infraction soumise à la juridiction civile a été commise durant le service militaire ou le service de protection civile;
+  - 2\.[^16-13] une infraction soumise à la juridiction civile a été commise durant le service militaire ou le service de protection civile;
 
-- b.[^16-13] …
-- c.[^16-14] l’Office fédéral de la douane et de la sécurité des frontières, lorsque ces données sont nécessaires à l’engagement de militaires dans des missions de soutien;
+- b.[^16-14] …
+- c.[^16-15] l’Office fédéral de la douane et de la sécurité des frontières, lorsque ces données sont nécessaires à l’engagement de militaires dans des missions de soutien;
 - d. des tiers, lorsque ces données sont nécessaires à l’accomplissement de leurs tâches légales ou contractuelles.
 
 <sup>3</sup>
 
-Le Groupement Défense communique les données ci-après aux services et personnes suivants:[^16-15]
+Le Groupement Défense communique les données ci-après aux services et personnes suivants:[^16-16]
 
 - a. les associations militaires et les sociétés de tir: l’adresse, le grade et l’incorporation des personnes astreintes au service militaire, pour le recrutement de membres ou la souscription d’abonnements, ainsi que pour les activités hors du service;
 - b. les médias: le nom, le grade et l’incorporation en cas de promotion ou de nomination;
-- c.[^16-16] le service fédéral qui gère le casier judiciaire informatique VOSTRA: l’identité des personnes devant être annoncées aux termes de l’art. 59 de la loi du 17 juin 2016 sur le casier judiciaire[^16-17];
+- c.[^16-17] le service fédéral qui gère le casier judiciaire informatique VOSTRA: l’identité des personnes devant être annoncées aux termes de l’art. 59 de la loi du 17 juin 2016 sur le casier judiciaire[^16-18];
 - d. le service compétent chargé du marquage des uniformes et du matériel personnel: le nom et le prénom, ainsi que, pour le matériel personnel, le numéro AVS;
-- e.[^16-18] l’Office central des armes et les autorités cantonales compétentes: la décision attestant l’existence de motifs qui s’opposent à la remise d’une arme personnelle ou justifient sa reprise préventive ou son retrait.
+- e.[^16-19] l’Office central des armes et les autorités cantonales compétentes: la décision attestant l’existence de motifs qui s’opposent à la remise d’une arme personnelle ou justifient sa reprise préventive ou son retrait.
 
-<sup>3bis</sup> La communication des données visées à l’al. 3, let. e, à la banque de données visée à l’art. 32*a*, al. 1, let. d, de la loi du 20 juin 1997 sur les armes (LArm)[^16-19] est effectuée par le Système d’information pour la gestion intégrée des ressources (PSN).[^16-20]
+<sup>3bis</sup> La communication des données visées à l’al. 3, let. e, à la banque de données visée à l’art. 32*a*, al. 1, let. d, de la loi du 20 juin 1997 sur les armes (LArm)[^16-20] est effectuée par le Système d’information pour la gestion intégrée des ressources (PSN).[^16-21]
 
-<sup>4</sup> Les militaires peuvent faire interdire en tout temps la communication des données visées à l’al. 3, let. a et b, en déposant une déclaration écrite auprès du Groupement Défense.[^16-21]
+<sup>4</sup> Les militaires peuvent faire interdire en tout temps la communication des données visées à l’al. 3, let. a et b, en déposant une déclaration écrite auprès du Groupement Défense.[^16-22]
 
-[^16-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-2]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^16-2]: Introduit par le ch. I de la LF du 18 mars 2016 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^16-3]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
 [^16-4]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-5]: Introduite par l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^16-6]: Introduite par le ch. II 1 de la LF du 27 sept. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2015 ([RO 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1875](https://fedlex.data.admin.ch/eli/fga/2013/365)).
-[^16-7]: Nouvelle teneur selon l’annexe ch. II 9 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^16-6]: Introduite par le ch. II 1 de la LF du 27 sept. 2013 ([RO 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1875](https://fedlex.data.admin.ch/eli/fga/2013/365)). Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^16-7]: Introduite par l’annexe ch. II 9 de la LF du 25 sept. 2015 sur le renseignement ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)). Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^16-8]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^16-9]: Anciennement let. i. Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-10]: Introduit par le ch. II 1 de la LF du 27 sept. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2015 ([RO 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1875](https://fedlex.data.admin.ch/eli/fga/2013/365)).
-[^16-11]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-11]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^16-12]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-13]: Abrogée par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-14]: Nouvelle teneur selon le ch. I 12 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^16-15]: Nouvelle teneur selon l’annexe 2 ch. 4 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-13]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-14]: Abrogée par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-15]: Nouvelle teneur selon le ch. I 12 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^16-16]: Nouvelle teneur selon l’annexe 2 ch. 4 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^16-17]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
-[^16-18]: Introduite par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^16-19]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^16-20]: Introduit par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^16-21]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-17]: Nouvelle teneur selon l’annexe 2 ch. 4 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-18]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^16-19]: Introduite par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^16-20]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^16-21]: Introduit par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^16-22]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 17
 
@@ -386,7 +460,7 @@ Les données du SIPA relatives à des infractions, des décisions ou des mesures
 - b. une décision relative à l’aptitude à la promotion ou à la nomination au sens de la LAAM;
 - c. le refus de délivrer la déclaration de sécurité lors d’un contrôle de sécurité relatif aux personnes ou la délivrance d’une déclaration assortie d’une réserve;
 - d. une décision attestant l’existence de motifs qui empêchent la remise de l’arme personnelle;
-- e.[^17-3] une décision d’exclusion de la protection civile prise en vertu de la loi fédérale du 4 octobre 2002 sur la protection de la population et sur la protection civile[^17-4].
+- e.[^17-3] une décision d’exclusion de la protection civile prise en vertu de la LPPCi[^17-4].
 
 <sup>2</sup> Les données relatives aux tirs obligatoires hors du service sont conservées cinq ans à compter de leur enregistrement.
 
@@ -396,14 +470,20 @@ Les données du SIPA relatives à des infractions, des décisions ou des mesures
 
 <sup>4bis</sup> Les données relatives à la reprise préventive et au retrait de l’arme personnelle ou de l’arme en prêt et aux circonstances qui ont conduit à cette décision sont conservées 20 ans à compter de la libération des obligations militaires.[^17-5]
 
-<sup>5</sup> Les autres données du SIPA sont conservées durant cinq ans à compter de la libération de l’obligation de servir dans l’armée ou dans la protection civile.[^17-6]
+<sup>4ter</sup> Les données visées à l’art. 14, al. 1, let. a<sup>bis</sup>, qui sont également des données sanitaires visées à l’art. 26, al. 2, sont conservées jusqu’à leur communication au Système d’information médicale de l’armée (MEDISA), mais une semaine au plus à compter de la fin du recrutement.[^17-6]
+
+<sup>4quater</sup> Les données visées à l’art. 14, al. 4, sont conservées cinq ans au plus à compter de la fin de la prise en charge.[^17-7]
+
+<sup>5</sup> Les autres données du SIPA sont conservées cinq ans au plus à compter de la libération de l’obligation de servir dans l’armée ou dans la protection civile.[^17-8]
 
 [^17-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^17-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^17-3]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^17-4]: [[RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)ch. I al. 1 let. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)annexe ch. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)annexe ch. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2012 335](https://fedlex.data.admin.ch/eli/oc/2012/20); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)annexe ch. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)annexe ch. 7. [RO 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)annexe ch. I]. Voir actuellement la LF du 20 déc. 2019 ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^17-3]: Introduite par le ch. I de la LF du 18 mars 2016 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^17-4]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
 [^17-5]: Introduit par le ch. II de la LF du 23 déc. 2011 ([RO 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544)[6775](https://fedlex.data.admin.ch/eli/oc/2012/818); [FF 2011 4217](https://fedlex.data.admin.ch/eli/fga/2011/715)). Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^17-6]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^17-6]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^17-7]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^17-8]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### Section 1*a* Système d’information pour la gestion de données de service
 
@@ -528,98 +608,23 @@ Il donne accès en ligne ou par transmission électronique aux données ci-aprè
 
 Les données du SIGEDOS sont conservées pendant cinq ans au plus à compter de la libération de l’obligation de servir dans l’armée ou dans la protection civile, de la fin des rapports de travail, de la prise en charge ou de l’engagement.
 
-### Section 2 Système d’information sur le recrutement
+### Section 2 …
 
-#### Art. 18
+#### Art. 18 à 23
 
-**Organe responsable**
+[^1823-1]
 
-Le Groupement Défense[^18-1] exploite le Système d’information sur le recrutement (SIR).
-
-[^18-1]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Il a été tenu compte de cette mod. aux art. mentionnés dans ce RO.
-
-#### Art. 19
-
-**But**
-
-Le SIR sert au recrutement des conscrits et du personnel pour la promotion de la paix.
-
-#### Art. 20
-
-**Données**
-
-<sup>1</sup>
-
-Le SIR contient les données ci-après sur les conscrits et le personnel pour la promotion de la paix:
-
-- a. les décisions portant sur l’aptitude au service militaire ou au service de protection civile, le profil de prestations et l’affectation;
-- b. les données fournies volontairement par la personne concernée.
-
-<sup>2</sup>
-
-Il contient les données recueillies lors des examens, tests et questionnaires du recrutement et fondant les décisions visées à l’al. 1, let. a. Ces données concernent:
-
-- a. l’état de santé: anamnèse, électrocardiogramme, fonction pulmonaire, ouïe et vue, test d’intelligence, test de compréhension d’un texte écrit, questionnaire en vue du dépistage de troubles psychiques, analyses de laboratoire et radiographies volontaires;
-- b. l’aptitude physique: condition physique, à savoir endurance, force, rapidité et coordination;
-- c. l’intelligence et la personnalité: intelligence générale, capacité à résoudre des problèmes, capacité de concentration et attention, souplesse, rigueur, assurance et sens de l’initiative;
-- d. le psychisme: courage, assurance, résistance au stress, stabilité émotionnelle et sociabilité;
-- e. les compétences sociales: adaptabilité et comportement au sein de la société, de la communauté et du groupe;
-- f. l’aptitude à exercer certaines fonctions: examens spécifiques permettant de révéler des aptitudes qui ne ressortent pas du profil de prestations général visé aux let. a à e;
-- g. le potentiel de cadre: aptitude à exercer la fonction de sous-officier, de sous-officier supérieur ou d’officier;
-- h. l’intérêt de la personne concernée à accomplir son obligation de servir dans l’armée;
-- i. le risque d’utiliser abusivement l’arme personnelle.
-
-#### Art. 21
-
-**Collecte des données**
-
-Le Groupement Défense collecte les données destinées à être versées au SIR auprès des services et personnes suivants:
-
-- a. la personne concernée ou ses représentants légaux;
-- b. le contrôle des habitants;
-- c. les commandements d’arrondissement des cantons;
-- d. les services et personnes chargés du recrutement;
-- e. les personnes de référence désignées par la personne concernée.
-
-#### Art. 22
-
-**Communication des données**
-
-<sup>1</sup> Le Groupement Défense donne accès en ligne aux données du SIR aux services et aux médecins chargés du recrutement.
-
-<sup>2</sup>
-
-Il communique les décisions relatives à l’aptitude au service militaire ou au service de protection civile aux services suivants:
-
-- a. les services fédéraux et cantonaux chargés de la perception de la taxe d’exemption de l’obligation de servir;
-- b. les autorités et commandements militaires chargés des contrôles militaires et de l’instruction, pour les personnes qui ont été déclarées aptes au service militaire;
-- c. les autorités de la protection civile des cantons de domicile chargées des contrôles et de l’instruction, pour les personnes qui ont été déclarées aptes au service de protection civile;
-- d. le CIVI, pour les personnes ayant déposé une demande d’admission au service civil.
-
-<sup>3</sup>
-
-Il communique le profil de prestations et l’affectation aux services suivants:
-
-- a. les autorités et commandements militaires chargés des contrôles militaires et de l’instruction, pour les personnes qui ont été déclarées aptes au service militaire;
-- b les autorités de la protection civile des cantons de domicile chargées des contrôles et de l’instruction, pour les personnes qui ont été déclarées aptes au service de protection civile.
-
-<sup>4</sup> Les résultats des tests visés à l’art. 20, al. 2, let. d et e, ne peuvent être communiqués que sous forme de chiffres. La communication des autres données relatives au Service sanitaire est régie par l’art. 28.
-
-#### Art. 23
-
-**Conservation des données**
-
-Les données du SIR sont conservées une semaine à compter de la fin du recrutement.
+[^1823-1]: Abrogés par le ch. I de la LF du 17 juin 2022, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### Section 3 Système d’information médicale de l’armée
 
 #### Art. 24
 
-**Organe responsable**
+**Organe responsable**[^24-1]
 
-Le service responsable du service sanitaire de l’armée exploite le Système d’information médicale de l’armée (MEDISA[^24-1]).
+Le Groupement Défense exploite le MEDISA.
 
-[^24-1]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Il a été tenu compte de cette mod. dans tout le texte.
+[^24-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 25
 
@@ -673,7 +678,7 @@ Le MEDISA contient les données ci-après des conscrits et des personnes astrein
 
 **Collecte des données**
 
-Le Groupement Défense collecte les données destinées au MEDISA auprès des personnes et services suivants:[^27-1]
+Le Groupement Défense collecte les données destinées à être versées au MEDISA auprès des services et personnes suivants:[^27-1]
 
 - a. la personne concernée ou ses représentants légaux;
 - b. les services fédéraux et cantonaux compétents;
@@ -682,7 +687,7 @@ Le Groupement Défense collecte les données destinées au MEDISA auprès des pe
 - e. les personnes de référence désignées par la personne concernée;
 - f.[^27-2] en cas d’urgence, les médecins et établissements médicaux civils chargés du traitement de patients ou d’expertises médicales; dans un tel cas, ils sont habilités à donner des renseignements.
 
-[^27-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^27-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^27-2]: Introduite par l’annexe ch. 4 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 28
@@ -691,30 +696,30 @@ Le Groupement Défense collecte les données destinées au MEDISA auprès des pe
 
 <sup>1</sup>
 
-Le service responsable du service sanitaire de l’armée donne accès en ligne aux données du MEDISA aux services et personnes suivantes:[^28-1]
+Le Groupement Défense donne accès en ligne aux données du MEDISA aux services et personnes suivants:[^28-1]
 
 - a. le médecin en chef de l’armée;
 - b. les médecins responsables de l’examen de l’aptitude au service et de l’aptitude à faire du service ainsi que des traitements médicaux, de même que leur personnel auxiliaire;
-- c. les collaborateurs du Service psycho-pédagogique (SPP) responsables de la prise en charge psychologique des militaires;
+- c.[^28-2] les spécialistes du SPP responsables de la prise en charge psychologique des militaires;
 - d. les médecins chargés des examens de l’Institut de médecine aéronautique et leur personnel auxiliaire;
-- e.[^28-2] l’assurance militaire, lorsque ces données sont nécessaires au traitement des cas d’assurance.
+- e.[^28-3] l’assurance militaire, lorsque ces données sont nécessaires au traitement des cas d’assurance.
 
 <sup>2</sup>
 
 Il communique les données sanitaires aux services et personnes suivants:
 
-- a.[^28-3] les médecins et établissements médicaux civils chargés du traitement de patients ou d’expertises médicales, pour autant que la personne concernée y ait consenti par écrit ou qu’il s’agisse d’une urgence;
+- a.[^28-4] les médecins et établissements médicaux civils chargés du traitement de patients ou d’expertises médicales, pour autant que la personne concernée y ait consenti par écrit ou qu’il s’agisse d’une urgence;
 - b. les tribunaux civils et militaires et les autorités de recours agissant dans le cadre de procédures judiciaires ou administratives, pour autant que la procédure prévoie que les médecins ont l’obligation de donner des renseignements;
-- c. les autorités fédérales et cantonales chargées de la perception de la taxe d’exemption, lorsque ces données sont nécessaires à l’exonération de la taxe prévue à l’art. 4, al. 1, let. b, de la loi fédérale du 12 juin 1959 sur la taxe d’exemption de l’obligation de servir[^28-4];
-- d.[^28-5] …
-- e. les médecins mandatés par le CIVI, lorsque ces données sont nécessaires aux examens et mesures prévus à l’art. 33 de la loi fédérale du 6 octobre 1995 sur le service civil[^28-6];
-- f.[^28-7] l’Office central des armes et les autorités cantonales compétentes: les raisons médicales empêchant la remise d’une arme personnelle ou justifiant sa reprise, sa reprise préventive ou son retrait.
+- c. les autorités fédérales et cantonales chargées de la perception de la taxe d’exemption, lorsque ces données sont nécessaires à l’exonération de la taxe prévue à l’art. 4, al. 1, let. b, de la loi fédérale du 12 juin 1959 sur la taxe d’exemption de l’obligation de servir[^28-5];
+- d.[^28-6] …
+- e. les médecins mandatés par le CIVI, lorsque ces données sont nécessaires aux examens et mesures prévus à l’art. 33 de la loi fédérale du 6 octobre 1995 sur le service civil[^28-7];
+- f.[^28-8] l’Office central des armes et les autorités cantonales compétentes: les raisons médicales empêchant la remise d’une arme personnelle ou justifiant sa reprise, sa reprise préventive ou son retrait.
 
-<sup>2bis</sup> La communication des données visées à l’al. 2, let. f, à la banque de données visée à l’art. 32*a*, al. 1, let. d, LArm[^28-8] est effectuée par le PSN.[^28-9]
+<sup>2bis</sup> La communication des données visées à l’al. 2, let. f, à la banque de données visée à l’art. 32*a*, al. 1, let. d, LArm[^28-9] est effectuée par le PSN.[^28-10]
 
 <sup>3</sup>
 
-Le service responsable du service sanitaire de l’armée communique aux services et autorités ci-après les décisions concernant l’aptitude au service militaire ou au service de protection civile:[^28-10]
+Le Groupement Défense communique aux services et autorités ci-après les décisions concernant l’aptitude au service militaire ou au service de protection civile:[^28-11]
 
 - a. les services fédéraux et cantonaux chargés de la perception de la taxe d’exemption de l’obligation de servir;
 - b. les autorités et commandements militaires chargés des contrôles militaires et de l’instruction;
@@ -727,16 +732,17 @@ Il communique au CIVI:
 - a. les décisions concernant l’aptitude au service militaire ou au service de protection civile des personnes ayant déposé une demande d’admission au service civil;
 - b. les décisions concernant l’aptitude au travail des personnes astreintes au service civil.
 
-[^28-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^28-2]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^28-3]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^28-4]: [RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
-[^28-5]: Abrogée par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^28-6]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^28-7]: Introduite par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^28-8]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^28-9]: Introduit par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^28-10]: Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^28-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^28-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^28-3]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^28-4]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^28-5]: [RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
+[^28-6]: Abrogée par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^28-7]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^28-8]: Introduite par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^28-9]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^28-10]: Introduit par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^28-11]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 29
 
@@ -755,9 +761,11 @@ Il communique au CIVI:
 
 #### Art. 30
 
-**Organes responsables**
+**Organe responsable**[^30-1]
 
-Les services des places d’armes responsables du service sanitaire de l’armée ainsi que les hôpitaux militaires exploitent chacun de manière décentralisée un système d’information sur leurs patients (Système d’information sur les patients, SIPAT).
+Le Groupement Défense exploite de manière décentralisée, sur chaque place d’armes et dans chaque hôpital militaire, un système d’information sur les patients (SIPAT).
+
+[^30-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 31
 
@@ -786,10 +794,12 @@ Les SIPAT contiennent les données suivantes:
 
 **Collecte des données**
 
-Les services responsables des SIPAT collectent les données auprès des personnes suivantes:
+Le Groupement Défense collecte les données destinées à être versées aux SIPAT auprès des personnes suivantes:[^33-1]
 
 - a. la personne concernée;
 - b. les médecins traitants et leur personnel auxiliaire.
+
+[^33-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 34
 
@@ -805,89 +815,23 @@ Les services responsables des SIPAT collectent les données auprès des personne
 
 Les données des SIPAT sont conservées deux ans à compter de l’accomplissement de l’école concernée ou à compter de la sortie de l’hôpital militaire.
 
-### Section 5 Banque de données cliniques du Service psycho-pédagogique
+### Section 5 …
 
-#### Art. 36
+#### Art. 36 à 41
 
-**Organe responsable**
+[^3641-1]
 
-Le SPP de l'armée exploite une banque de données cliniques.
-
-#### Art. 37
-
-**But**
-
-La banque de données SPP sert à l’accomplissement des tâches suivantes:[^37-1]
-
-- a. gérer les cas de prise en charge psychologique des militaires durant leur service;
-- b. apprécier l’aptitude des militaires à faire du service;
-- c. mener des recherches dans le domaine psycho-pédagogique militaire.
-
-[^37-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-
-#### Art. 38
-
-**Données**
-
-<sup>1</sup>
-
-La banque de données SPP contient les données suivantes:
-
-- a. l’incorporation, le grade, la fonction et l’instruction dans l’armée;
-- b. les données psychologiques;
-- c. les données sanitaires de nature psychologique ou psychiatrique nécessaires à l’accomplissement des tâches visées à l’art. 37;
-- d. la correspondance échangée avec les personnes prises en charge, ainsi qu’avec les services concernés;
-- e. les données fournies volontairement par la personne concernée.
-
-<sup>2</sup>
-
-Les données psychologiques visées à l’al. 1, let. c, sont:
-
-- a. l’état psychique du militaire;
-- b. l’anamnèse biographique relative aux caractéristiques psychiques;
-- c. les résultats des tests psychologiques;
-- d. les certificats de spécialistes en psychologie civils.
-
-#### Art. 39
-
-**Collecte des données**
-
-Le SPP collecte les données destinées à être versées à la banque de données SPP auprès des services et personnes suivants:
-
-- a. les militaires concernés;
-- b. les supérieurs militaires;
-- c. le Service médico-militaire;
-- d. des tiers, pour autant que le militaire y ait consenti.
-
-#### Art. 40
-
-**Communication des données**
-
-<sup>1</sup>
-
-Le SPP donne accès en ligne aux données de la banque SPP aux services et personnes suivants:
-
-- a. les collaborateurs du SPP responsables de la prise en charge psychologique des militaires;
-- b. les services et médecins chargés du recrutement;
-- c. les services responsables du Service médico-militaire de l’armée.
-
-<sup>2</sup> Le SPP transmet le résultat de l’appréciation de l’aptitude à faire du service aux autorités militaires et aux commandements militaires chargés des contrôles et de l’instruction.
-
-#### Art. 41
-
-**Conservation des données**
-
-Les données de la banque SPP sont conservées cinq ans à compter de la fin de la prise en charge.
+[^3641-1]: Abrogés par le ch. I de la LF du 17 juin 2022, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### Section 6 Système d’information de médecine aéronautique
 
 #### Art. 42
 
-**Organe responsable**
+**Organe responsable**[^42-1]
 
-L’Institut de médecine aéronautique (IMA) exploite le Système d’information de médecine aéronautique (MEDIS FA[^42-1]).
+Le Groupement Défense exploite le Système d’information de médecine aéronautique (MEDIS FA).
 
-[^42-1]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Il a été tenu compte de cette mod. dans tout le texte.
+[^42-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 43
 
@@ -911,7 +855,7 @@ MEDIS FA sert à l’accomplissement des tâches suivantes:[^43-1]
 
 **Données**
 
-Le MEDIS FA contient les données suivantes:
+Le MEDIS FA[^44-1] contient les données suivantes:
 
 - a. l’incorporation, le grade, la fonction et l’instruction dans l’armée;
 - b.
@@ -925,16 +869,20 @@ Le MEDIS FA contient les données suivantes:
 
 - c. les données fournies volontairement par la personne concernée.
 
+[^44-1]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Il a été tenu compte de cette mod. dans tout le texte.
+
 #### Art. 45
 
 **Collecte des données**
 
-L’IMA collecte les données destinées à être versées au MEDIS FA auprès des services et personnes suivants:
+Le Groupement Défense collecte les données destinées à être versées au MEDIS FA auprès des services et personnes suivants:[^45-1]
 
 - a. la personne concernée ou ses représentants légaux;
 - b. les services fédéraux et cantonaux compétents;
 - c. les médecins traitants ou experts;
 - d. les personnes de référence désignées par la personne concernée.
+
+[^45-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 46
 
@@ -942,75 +890,84 @@ L’IMA collecte les données destinées à être versées au MEDIS FA auprès d
 
 <sup>1</sup>
 
-L’IMA donne accès en ligne aux données du MEDIS FA aux personnes ci-après, lorsque ces données sont nécessaires à l’accomplissement de leurs tâches légales:
+Le Groupement Défense donne accès en ligne aux données du MEDIS FA aux personnes ci-après, lorsque ces données sont nécessaires à l’accomplissement de leurs tâches légales:[^46-1]
 
 - a. le médecin en chef de l’armée;
 - b. les médecins responsables de l’appréciation de l’aptitude au service et de l’aptitude à faire du service;
 - c. les médecins responsables du traitement de la personne concernée;
-- d. le personnel auxiliaire des personnes visées aux let. a à c.[^46-1]
+- d. le personnel auxiliaire des personnes visées aux let. a à c.[^46-2]
 
-<sup>2</sup> L’IMA autorise les médecins traitants ou experts ainsi que les médecins de l’assurance militaire à consulter les données du MEDIS FA en présence de médecins ou de psychologues de l’institut.
+<sup>2</sup> Il autorise les médecins traitants ou experts ainsi que les médecins de l’assurance militaire à consulter les données du MEDIS FA en présence de médecins ou de psychologues de l’Institut de médecine aéronautique.[^46-3]
 
-[^46-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^46-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^46-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^46-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 47
 
-**Conservation des données**
+**Conservation des données**[^47-1]
 
-<sup>1</sup> L’IMA conserve les données médicales et les données psychologiques dans des archives distinctes de celles des autres données.
+<sup>1</sup> Les données des personnes en service de vol ou astreintes au service militaire sont conservées durant 40 ans à compter de la libération du service concerné, mais au plus tard jusqu’à ce que la personne concernée atteigne l’âge de 80 ans. Les données des autres personnes sont conservées durant cinq ans.
 
-<sup>2</sup> Les données des personnes en service de vol ou astreintes au service militaire sont conservées durant 40 ans à compter de la libération du service concerné, mais au plus tard jusqu’à ce que la personne concernée atteigne l’âge de 80 ans. Les données des autres personnes sont conservées durant cinq ans.[^47-1]
+<sup>2</sup> Si une personne est encore traitée ou prise en charge par l’Institut de médecine aéronautique après la durée de conservation visée à l’al. 1, ses données sont conservées dix ans après le traitement ou la prise en charge.
 
-[^47-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^47-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
-### Section 7 Système d’information sur l’évaluation du détachement de reconnaissance de l’armée
+### Section 7 Système d’information sur le personnel d’intervention du commandement des Forces spéciales
+
+[^chap2-sec7-1]
+
+[^chap2-sec7-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 48
 
-**Organe responsable**
+**Organe responsable**[^48-1]
 
-Le Groupement Défense[^48-1] exploite le Système d’information sur l’évaluation du détachement de reconnaissance de l’armée (EDRA).
+Le Groupement Défense exploite le Système d’information sur le personnel d’intervention du commandement des Forces spéciales (SIPI CFS).
 
-[^48-1]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Il a été tenu compte de cette mod. aux art. mentionnés dans ce RO.
+[^48-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 49
 
 **But**[^49-1]
 
-L’EDRA sert à l’accomplissement des tâches suivantes:
+Le SIPI CFS sert à l’accomplissement des tâches suivantes:
 
-- a. évaluer, sur les plans psychologique, psychiatrique et médical, les candidats au détachement de reconnaissance de l’armée;
-- b. évaluer l’aptitude à l’engagement des militaires du détachement de reconnaissance de l’armée;
-- c. évaluer l’aptitude à l’engagement des personnes du commandement des forces spéciales qui doivent appuyer les engagements.
+- a. évaluer, sur les plans psychologique, psychiatrique et médical, les candidats au détachement de reconnaissance de l’armée ou au détachement spécial de la police militaire;
+- b. évaluer l’aptitude à l’engagement des militaires du détachement de reconnaissance de l’armée et du détachement spécial de la police militaire;
+- c. évaluer l’aptitude à l’engagement des personnes du commandement des Forces spéciales qui doivent appuyer les engagements.
 
-[^49-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^49-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 50
 
 **Données**[^50-1]
 
-L’EDRA contient les données nécessaires à l’évaluation et à l’appréciation de l’aptitude à l’engagement qui ont été recueillies au moyen d’examens, de tests et de questionnaires en vue de l’appréciation, sous l’angle biostatistique, de l’endurance et du risque de défaillance au cours d’un engagement.
+Le SIPI CFS contient les données nécessaires à l’évaluation et à l’appréciation de l’aptitude à l’engagement qui ont été collectées au moyen d’examens, de tests et de questionnaires en vue de l’appréciation, sous l’angle biostatistique, de l’endurance et du risque de défaillance au cours d’un engagement.
 
-[^50-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^50-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 51
 
 **Collecte des données**
 
-Le Groupement Défense collecte les données destinées à être versées à l’EDRA auprès des personnes suivantes:
+Le Groupement Défense collecte les données destinées à être versées au SIPI CFS auprès des personnes suivantes:[^51-1]
 
 - a. la personne concernée;
 - b. des tiers, pour autant que la personne concernée y ait consenti.
+
+[^51-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 52
 
 **Communication des données**[^52-1]
 
-<sup>1</sup> Le Groupement Défense donne accès en ligne aux données de l’EDRA aux psychologues chargés de l’évaluation et au médecin des opérations spéciales.
+<sup>1</sup> Le Groupement Défense donne accès en ligne aux données du SIPI CFS aux psychologues chargés de l’évaluation et au médecin des opérations spéciales.[^52-2]
 
 <sup>2</sup> Le rapport d’évaluation est versé au MEDIS FA pour traitement au terme de l’évaluation.
 
 [^52-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^52-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 53
 
@@ -1018,46 +975,66 @@ Le Groupement Défense collecte les données destinées à être versées à l�
 
 <sup>1</sup> Les données des candidats refusés sont conservées jusqu’à l’entrée en force de la décision.
 
-<sup>2</sup> Les données des militaires du détachement de reconnaissance de l’armée et des personnes du commandement des forces spéciales qui appuient les engagements sont conservées jusqu’à ce qu’ils quittent le détachement de reconnaissance de l’armée ou le commandement des forces spéciales.[^53-1]
+<sup>2</sup> Les données des militaires du détachement de reconnaissance de l’armée et du détachement spécial de la police militaire ainsi que des personnes du commandement des Forces spéciales qui appuient les engagements sont conservées jusqu’à ce qu’ils quittent leur détachement ou leur commandement.[^53-1]
 
-[^53-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^53-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
-### Section 8 Système d’information pour le domaine social
+### Section 8 Système d’information pour l’assistance sociale
+
+[^chap2-sec8-1]
+
+[^chap2-sec8-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 54
 
-**Organe responsable**
+**Organe responsable**[^54-1]
 
-Le Service social de l’armée exploite le Système d’information pour le domaine social (SISOC).
+Le Groupement Défense exploite le Système d’information pour l’assistance sociale (SISOC).
+
+[^54-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 55
 
-**But**
+**But**[^55-1]
 
-Le SISOC contribue à la gestion administrative des activités de conseil et de prise en charge sociale des militaires, des patients militaires et des survivants de militaires décédés.
+Le SISOC sert à la gestion administrative des activités de conseil et de prise en charge sociales des militaires, des membres de la protection civile, du personnel du Service de la Croix-Rouge, des personnes engagées dans le service de promotion de la paix, des membres de la justice militaire, des patients militaires ainsi que de leurs parents et survivants.
+
+[^55-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 56
 
-**Données**
+**Données**[^56-1]
 
-Le SISOC contient des données relatives au soutien financier apporté.
+Le SISOC contient des données relatives au soutien financier apporté et à la gestion des cas, des notes sur les entretiens et des documents personnels nécessaires à l’évaluation des prestations de conseil et de prise en charge.
+
+[^56-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 57
 
-**Collecte des données**
+**Collecte des données**[^57-1]
 
-Le Service social de l’armée collecte les données destinées à être versées au SISOC auprès des services et personnes suivants:
+Le Groupement Défense collecte les données destinées à être versées au SISOC auprès:
 
-- a. la personne concernée ou ses représentants légaux;
-- b. les commandements militaires;
-- c. les services fédéraux et cantonaux compétents;
-- d. les personnes de référence désignées par la personne concernée.
+- a. de la personne concernée ou ses représentants légaux;
+- b. des commandements militaires;
+- c. des unités administratives compétentes de la Confédération et des cantons;
+- d. des personnes de référence désignées par la personne concernée;
+- e. du SIPA.
+
+[^57-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 58
 
-**Communication des données**
+**Communication des données**[^58-1]
 
-Le Service social de l’armée donne accès en ligne aux données du SISOC à ses collaborateurs.
+Le Groupement Défense donne accès en ligne aux données du SISOC aux services et personnes suivants:
+
+- a. le personnel du Service social de l’armée;
+- b. les militaires incorporés à l’état-major spécialisé du Service social de l’armée;
+- c. le service spécialisé Femmes dans l’armée et diversité, pour les données concernant ses bénéficiaires;
+- d. l’Aumônerie de l’armée, pour les données concernant ses bénéficiaires.
+
+[^58-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 59
 
@@ -1120,7 +1097,9 @@ Le Groupement Défense collecte les données destinées à être versées au SIP
 - d. les supérieurs militaires ou civils;
 - e. les personnes de référence désignées par la personne concernée.
 
-<sup>2</sup> Les données visées à l’art. 62 qui sont contenues dans le Système d’information sur le personnel de la Confédération (BV PLUS) peuvent être consultées en ligne par l’intermédiaire du SIP DEF.
+<sup>2</sup> Les données visées à l’art. 62 qui sont contenues dans le Système d’information pour la gestion des données du personnel (IGDP) peuvent être consultées en ligne par l’intermédiaire du SIP DEF.[^63-1]
+
+[^63-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 64
 
@@ -1142,7 +1121,9 @@ Le Groupement Défense donne accès en ligne aux données du SIP DEF aux service
 
 <sup>1</sup> Les données du SIP DEF sont conservées cinq ans au plus à compter de la fin des rapports de travail avec le Groupement Défense.
 
-<sup>2</sup> Les données des candidats qui n’ont pas été engagés sont effacées après six mois au plus.
+<sup>2</sup> Les données des candidats qui n’ont pas été engagés sont détruites après six mois au plus.[^65-1]
+
+[^65-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### Section 10 Système d’information sur le personnel à l’étranger
 
@@ -1150,7 +1131,9 @@ Le Groupement Défense donne accès en ligne aux données du SIP DEF aux service
 
 **Organe responsable**
 
-Le Groupement Défense exploite le Système d’information pour la gestion du personnel de promotion de la paix à l’étranger (PERETR).
+Le Groupement Défense[^66-1] exploite le Système d’information pour la gestion du personnel de promotion de la paix à l’étranger (PERETR).
+
+[^66-1]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Il a été tenu compte de cette mod. aux art. mentionnés dans ce RO.
 
 #### Art. 67
 
@@ -1233,15 +1216,17 @@ Les données du PERETR sont conservées cinq ans au plus à compter du dernier e
 
 #### Art. 72
 
-**Organe responsable**
+**Organe responsable**[^72-1]
 
-Le service de l’armée responsable du service sanitaire coordonné (SSC) exploite le Système d’information et de conduite pour le service sanitaire coordonné (SIC SSC).
+Le Groupement Défense exploite le Système d’information et de conduite pour le service sanitaire coordonné (SIC SSC).
+
+[^72-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 73
 
 **But**
 
-Le SIC SSC sert au mandataire du Conseil fédéral pour le SSC, ainsi qu’aux services civils et militaires chargés de planifier, de préparer et de prendre les mesures sanitaires nécessaires (partenaires du SSC) à accomplir les tâches ci-après afin de maîtriser les événements sanitaires:
+Le SIC SSC sert au mandataire du Conseil fédéral pour le service sanitaire coordonné (SSC), ainsi qu’aux services civils et militaires chargés de planifier, de préparer et de prendre les mesures sanitaires nécessaires (partenaires du SSC), à accomplir les tâches ci-après afin de maîtriser les événements sanitaires:[^73-1]
 
 - a. assurer la meilleure prise en charge possible des patients dans toutes les situations;
 - b. appuyer les forces d’engagement et les organes de conduite civils ou militaires;
@@ -1251,6 +1236,8 @@ Le SIC SSC sert au mandataire du Conseil fédéral pour le SSC, ainsi qu’aux s
 - f. acheminer les patients et gérer les personnes;
 - g. attribuer le personnel médical;
 - h. assurer l’information avec les partenaires du SSC.
+
+[^73-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 74
 
@@ -1345,13 +1332,16 @@ Les données du SIC SSC sont accessibles en ligne aux services et personnes ci-a
 
 **Organe responsable**
 
-Le Groupement Défense exploite le Système d’information pour l’administration des prestations (MIL Office[^84-1]) et le met à la disposition des commandements militaires.
+Le Groupement Défense[^84-1] exploite le Système d’information pour l’administration des prestations (MIL Office[^84-2]) et le met à la disposition des commandements militaires.
 
-[^84-1]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Il a été tenu compte de cette mod. dans tout le texte.
+[^84-1]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Il a été tenu compte de cette mod. aux art. mentionnés dans ce RO.
+[^84-2]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 85
 
 **But**
+
+<sup>1</sup>
 
 Le MIL Office sert à l’administration et à l’exploitation des écoles et des cours, notamment à l’accomplissement des tâches suivantes:[^85-1]
 
@@ -1364,12 +1354,15 @@ Le MIL Office sert à l’administration et à l’exploitation des écoles et d
 - g.[^85-4] gérer les absences et les services commandés;
 - h.[^85-5] tenir le registre des sanctions disciplinaires visé à l’art. 205 du code pénal militaire du 13 juin 1927[^85-6].
 
+<sup>2</sup> Il sert aussi à l’exécution du régime des allocations pour perte de gain.[^85-7]
+
 [^85-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^85-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^85-3]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^85-4]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^85-5]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^85-6]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^85-7]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 86
 
@@ -1377,18 +1370,23 @@ Le MIL Office sert à l’administration et à l’exploitation des écoles et d
 
 Le MIL Office contient les données suivantes:[^86-1]
 
-- a. l’incorporation, le grade, la fonction et l’instruction;
-- b.[^86-2] les données sur les qualifications et les propositions;
+- a.[^86-2] l’identité, l’adresse et les coordonnées;
+- a<sup>bis</sup>.[^86-3] l’incorporation, le grade, la fonction et l’instruction;
+- b.[^86-4] les données sur les qualifications et les propositions;
 - c. la comptabilisation des soldes et des frais;
 - d. les documents sanitaires relatifs à une limitation de l’aptitude à faire du service;
 - e. les données fournies volontairement par la personne concernée;
-- f.[^86-3] les données sur les procédures relevant du droit pénal disciplinaire;
-- g.[^86-4] les données sur les absences et les services commandés.
+- f.[^86-5] les données sur les procédures relevant du droit pénal disciplinaire;
+- g.[^86-6] les données sur les absences et les services commandés;
+- h.[^86-7] les données nécessaires à l’administration et à l’attribution du matériel de l’armée.
 
 [^86-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^86-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^86-3]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^86-4]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^86-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^86-3]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^86-4]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^86-5]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^86-6]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^86-7]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 87
 
@@ -1396,19 +1394,24 @@ Le MIL Office contient les données suivantes:[^86-1]
 
 Les commandements militaires collectent les données destinées à être versées au MIL Office auprès des services et personnes suivantes:
 
-- a. la personne concernée;
+- a.[^87-1] la personne concernée, qui peut aussi transmettre les données par un portail électronique du Groupement Défense;
 - b. les supérieurs militaires de la personne concernée;
 - c. le SIPA.
 
+[^87-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
 #### Art. 88
 
-**Communication des données**
+**Communication des données**[^88-1]
 
-Les commandements militaires communiquent les données du MIL Office aux services et personnes responsables des tâches suivantes:
+Les commandements militaires communiquent les données du MIL Office aux services et personnes suivants:
 
-- a. la planification des carrières;
-- b. l’engagement;
-- c. l’exécution des contrôles militaires.
+- a. les responsables de la planification des carrières;
+- b. les responsables de l’engagement;
+- c. les responsables des contrôles militaires;
+- d. la Centrale de compensation, pour l’exécution du régime des allocations pour perte de gain: les données visées à l’art. 86, let. a, a<sup>bis</sup>, c et g.
+
+[^88-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 89
 
@@ -1428,9 +1431,9 @@ Les données du MIL Office sont conservées durant cinq ans; pour les données d
 
 **Organe responsable**[^90-1]
 
-Le Secrétariat général du Département fédéral de la défense, de la protection de la population et des sports (DDPS) exploite le Système d’information pour la gestion des compétences (SIGC) et le met à la disposition des responsables du personnel.
+Le Secrétariat général du DDPS exploite le Système d’information pour la gestion des compétences (SIGC) et le met à la disposition des responsables du personnel.
 
-[^90-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^90-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 91
 
@@ -1477,9 +1480,9 @@ Le Secrétariat général et les responsables du personnel du DDPS collectent le
 
 **Communication des données**[^94-1]
 
-Le Secrétariat général du DDPS donne accès en ligne aux données du SIGC aux personnes du DDPS chargées de la planification et du développement des cadres et de la gestion des compétences ainsi qu’aux responsables hiérarchiques et collaborateurs concernés.
+Le Secrétariat général du DDPS donne accès en ligne aux données du SIGC aux services et personnes du DDPS chargés de la planification et du développement des cadres et de la gestion des compétences, ainsi qu’à la personne concernée et à ses supérieurs.
 
-[^94-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^94-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 95
 
@@ -1509,11 +1512,15 @@ Le Groupement Défense exploite le Système d’information et de conduite des F
 
 **But**
 
-Le SIC FT est à la disposition du Groupement défense et de son commandement militaire pour l’exécution des tâches suivantes:
+Le SIC FT sert au Groupement Défense et aux commandements militaires à:[^103-1]
 
-- a. planifier et conduire l’action des états-majors et des formations des Forces terrestres;
+- a.[^103-2] assurer la planification de l’action et le suivi de la situation des états-majors et formations du commandement des Opérations et de la Base d’aide au commandement;
 - b. conduire les opérations en réseau;
-- c. mettre en réseau les moyens d’exploration, de conduite et d’engagement des Forces terrestres.
+- c.[^103-3] mettre en réseau les moyens d’exploration, de conduite et d’engagement du commandement des Opérations et de la Base d’aide au commandement.
+
+[^103-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^103-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^103-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 104
 
@@ -1568,9 +1575,11 @@ Le Groupement Défense exploite le Système d’information et de conduite des F
 
 Le SIC FA sert aux Forces aériennes et à leurs commandements militaires à:
 
-- a. planifier et conduire l’action des états-majors et des formations des Forces aériennes;
+- a.[^109-1] assurer la planification de l’action et le suivi de la situation des états-majors et des formations des Forces aériennes;
 - b. conduire les opérations en réseau;
 - c. mettre en réseau les moyens d’exploration, de conduite et d’engagement des Forces aériennes.
+
+[^109-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 110
 
@@ -1578,11 +1587,13 @@ Le SIC FA sert aux Forces aériennes et à leurs commandements militaires à:
 
 Le SIC FA contient les données ci-après sur les militaires:
 
-- a. le sexe et la confession;
+- a.[^110-1] le sexe;
 - b. l’incorporation, le grade, la fonction et l’instruction;
 - c. les données sanitaires pertinentes pour l’engagement;
 - d. le numéro du passeport;
 - e. les données fournies volontairement par la personne concernée.
+
+[^110-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 111
 
@@ -1658,9 +1669,11 @@ Le Groupement Défense donne accès en ligne aux données du SICS aux services e
 
 #### Art. 119
 
-**Conservation des données**
+**Conservation des données**[^119-1]
 
-Les données du SICS sont effacées une fois l’engagement terminé.
+Les données du SICS sont détruites une fois l’engagement terminé.
+
+[^119-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ## Chapitre 4 Systèmes d’information pour l’instruction
 
@@ -1674,9 +1687,15 @@ Le Groupement Défense exploite des systèmes d’information pour les simulateu
 
 #### Art. 121
 
-**But**
+**But**[^121-1]
 
-Les SISIM contribuent à gérer l’instruction et la qualification des militaires et des civils qui participent à un engagement de l’armée de durée déterminée.
+Les SISIM servent à gérer l’instruction et la qualification:
+
+- a. des militaires;
+- b. des civils qui participent à un engagement de l’armée de durée déterminée;
+- c. des tiers qui s’entraînent sur les simulateurs.
+
+[^121-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 122
 
@@ -1695,7 +1714,9 @@ Les services et personnes compétents collectent les données destinées à êtr
 
 - a. la personne concernée;
 - b. les commandements militaires;
-- c. les supérieurs militaires de la personne concernée.
+- c.[^123-1] les supérieurs militaires ou civils de la personne concernée.
+
+[^123-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 124
 
@@ -1713,7 +1734,10 @@ Les services et personnes compétents donnent accès en ligne aux données des S
 Ils communiquent les données aux services et personnes suivants:
 
 - a. la troupe, sous la forme de classements, pour autant qu’elles soient indispensables à l’établissement du classement;
-- b. les services et personnes chargés de l’acquisition et de la remise de distinctions.
+- b. les services et personnes chargés de l’acquisition et de la remise de distinctions;
+- c.[^124-1] les civils instruits sur les simulateurs et les tiers qui s’y exercent ainsi que les services et personnes qui leur sont supérieurs.
+
+[^124-1]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 125
 
@@ -1721,7 +1745,9 @@ Ils communiquent les données aux services et personnes suivants:
 
 <sup>1</sup> Les données des SISIM sont conservées jusqu’à la fin du service d’instruction.
 
-<sup>2</sup> Si des militaires s’exercent de manière régulière sur les mêmes simulateurs, les données de leurs entraînements peuvent être conservées cinq ans.
+<sup>2</sup> Si des militaires, des civils ou des tiers s’exercent régulièrement sur les mêmes simulateurs, les données de leurs entraînements peuvent être conservées dix ans.[^125-1]
+
+[^125-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### Section 2 Système d’information pour la gestion de l’instruction
 
@@ -1812,12 +1838,12 @@ Elles communiquent les données aux services et personnes suivants:
 
 **Conservation des données**[^131-1]
 
-Les données du LMS DDPS sont conservées:
+Les données du LMS DDPS sont conservées dix ans au plus:
 
-- a. jusqu’à la libération de l’obligation de servir dans l’armée, pour les militaires;
-- b. jusqu’à la fin des rapports de travail, pour les employés du DDPS.
+- a. après la libération de l’obligation de servir dans l’armée, pour les militaires;
+- b. après la fin des rapports de travail, pour les employés du DDPS.
 
-[^131-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^131-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### Section 3 Système d’information de la Pharmacie de l’armée sur la formation
 
@@ -1873,49 +1899,69 @@ Le Groupement Défense collecte les données destinées à être versées au SI 
 
 Les données du SI PharmA sont conservées dix ans à compter de la fin des rapports de travail.
 
-### Section 4 Système d’information sur les autorisations de conduire militaires
+### Section 4 Système d’information sur la circulation routière et la navigation de l’armée
+
+[^chap4-sec4-1]
+
+[^chap4-sec4-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 138
 
-**Organe responsable**
+**Organe responsable**[^138-1]
 
-Le Groupement Défense exploite le Système d’information sur les autorisations de conduire militaires (SIAC).
+Le Groupement Défense exploite le Système d’information sur la circulation routière et la navigation de l’armée (SI OCRNA).
+
+[^138-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 139
 
 **But**
 
-Le SIAC poursuit les buts suivants:
+Le SI OCRNA sert à:[^139-1]
 
-- a. établir et administrer les autorisations de conduire militaires;
+- a.[^139-2] établir et administrer les autorisations de conduire militaires des conducteurs de véhicules et de bateaux, les permis de conduire fédéraux de conducteurs de bateaux et les permis d’expert militaire de la circulation;
 - b. intégrer ces autorisations dans le permis de conduire civil;
-- c. exécuter les mesures administratives en matière de circulation routière;
+- c.[^139-3] exécuter les mesures administratives visant les conducteurs militaires de véhicules et de bateaux, les détenteurs de permis fédéraux de conducteurs de bateaux et les experts militaires de la circulation;
 - d. convoquer les conducteurs à des examens de contrôle auprès d’un médecin-conseil;
-- e. contrôler l’instruction des élèves conducteurs, des moniteurs de conduite et des experts militaires de la circulation;
-- f. gérer les certificats de formation des conducteurs conformément à l’Accord européen du 30 septembre 1957 relatif au transport international de marchandises dangereuses par route[^139-1];
+- e.[^139-4] contrôler l’instruction des élèves conducteurs, des moniteurs de conduite de l’armée et des experts militaires de la circulation;
+- f.[^139-5] …
 - g. établir des évaluations et des statistiques.
 
-[^139-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^139-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^139-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^139-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^139-4]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^139-5]: Abrogée par le ch. I de la LF du 17 juin 2022, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 140
 
 **Données**
 
-Le SIAC contient les données ci-après sur les élèves conducteurs et les personnes autorisées à conduire ainsi que sur les moniteurs de conduite de l’armée et les experts militaires de la circulation:
+Le SI OCRNA contient les données ci-après sur les élèves conducteurs et les personnes autorisées à conduire, les moniteurs de conduite de l’armée et les experts militaires de la circulation:[^140-1]
 
 - a. le numéro AVS;
-- b. l’instruction suivie et les autorisations de conduire militaires délivrées;
-- c. les mesures administratives et les résultats des examens de contrôle.
+- b.[^140-2] l’instruction suivie, les autorisations de conduire militaires et les permis;
+- c.[^140-3] les mesures administratives;
+- d.[^140-4] les résultats du dernier examen de contrôle et la date du prochain examen.
+
+[^140-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^140-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^140-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^140-4]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 141
 
-**Collecte des données**
+**Collecte des données**[^141-1]
 
-Le Groupement Défense collecte les données destinées à être versées au SIAC auprès des services et personnes suivants:
+Le Groupement Défense collecte les données destinées à être versées au SI OCRNA auprès:
 
-- a. le SIPA;
-- b. le registre des autorisations de conduire (RAC) et le registre des mesures administratives (MESADM) de l’Office fédéral des routes;
-- c. les services et les personnes chargés des tâches visées à l’art. 139.
+- a. du SIPA;
+- b. du Système d’information sur l’admission à la circulation (SIAC) de l’Office fédéral des routes;
+- c. du SIP DEF;
+- d. de l’IGDP;
+- e. des services et personnes chargés des tâches visées à l’art. 139.
+
+[^141-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 142
 
@@ -1923,18 +1969,26 @@ Le Groupement Défense collecte les données destinées à être versées au SIA
 
 <sup>1</sup>
 
-Le Groupement Défense communique les données du SIAC aux services et personnes suivants:
+Le Groupement Défense communique les données du SI OCRNA auprès:
 
-- a. les services et personnes chargés des tâches visées à l’art. 139;
-- b. le SIPA, le RAC et le MESADM.
+- a. des services et personnes chargés des tâches visées à l’art. 139;
+- b. du SIPA et du SIAC.[^142-1]
 
 <sup>2</sup> Les données peuvent être communiquées ou consultées en ligne.
 
+[^142-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
 #### Art. 143
 
-**Conservation des données**
+**Conservation des données**[^143-1]
 
-Les données du SIAC sont conservées jusqu’à la libération de l’obligation de servir dans l’armée de la personne concernée.
+<sup>1</sup> Les données du SI OCRNA sont conservées 80 ans au plus après leur enregistrement, notamment celles qui portent sur les mesures administratives prononcées par l’Office de la circulation routière et de la navigation de l’armée.
+
+<sup>2</sup> Les données sur les mesures administratives civiles ne peuvent pas être conservées plus longtemps que dans le SIAC.
+
+<sup>3</sup> Les données relatives à un examen de contrôle ne sont conservées que jusqu’à l’examen suivant.
+
+[^143-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### Section 5 Système d’information pour l’instruction et le perfectionnement aéronautiques
 
@@ -1976,7 +2030,10 @@ Le SPHAIR-Expert contient les données suivantes des personnes intéressées, du
 - h. les résultats des tests et leur analyse;
 - i. le statut et les décisions relatifs à la sélection;
 - j. les résultats du questionnaire du service sanitaire destiné aux pilotes et aux éclaireurs parachutistes;
-- k. la taille des habits.
+- k. la taille des habits;
+- l.[^143c-1] l’intérêt personnel porté à l’embauche, à la formation (instruction), au perfectionnement, ainsi qu’au choix du métier et de la fonction.
+
+[^143c-1]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 143d
 
@@ -2012,6 +2069,74 @@ Le Groupement Défense donne accès en ligne aux données du SPHAIR-Expert aux s
 
 Les données du SPHAIR-Expert sont conservées durant dix ans au plus à compter de la fin du dernier cours d’instruction et de perfectionnement aéronautiques de la personne concernée.
 
+### Section 6 Système d’information pour l’instruction de conduite
+
+[^chap4-sec6-1]
+
+[^chap4-sec6-1]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
+#### Art. 143g
+
+**Organe responsable**
+
+Le Groupement Défense exploite le Système d’information pour l’instruction de conduite (SIIC).
+
+#### Art. 143h
+
+**But**
+
+Le SIIC sert à contrôler l’instruction, à analyser ses résultats et à organiser les examens.
+
+#### Art. 143i
+
+**Données**
+
+Le SIIC contient les données suivantes:
+
+- a. l’identité, le domicile, le lieu d’origine, le canton d’origine et les adresses;
+- b. l’incorporation, le grade, la fonction et les services accomplis dans l’armée;
+- c. le numéro AVS;
+- d. le sexe;
+- e. la date de naissance;
+- f. la formation et les examens, le numéro de candidat, la langue d’examen et les indications relatives à l’examen (date, heure, lieu, nom de l’expert);
+- g. les prestations personnelles (date de présentation, résultats);
+- h. la participation aux examens et les résultats obtenus.
+
+#### Art. 143j
+
+**Collecte des données**
+
+Le Groupement Défense collecte les données destinées à être versées au SIIC auprès:
+
+- a. de la personne concernée;
+- b. des supérieurs militaires de la personne concernée;
+- c. des unités administratives compétentes du Groupement Défense;
+- d. du SIPA.
+
+#### Art. 143k
+
+**Communication des données**
+
+<sup>1</sup>
+
+Le Groupement Défense donne accès en ligne aux données du SIIC aux services et personnes responsables:
+
+- a. de la saisie des données dans le SIIC;
+- b. de la coordination des examens pour les divers modules.
+
+<sup>2</sup>
+
+Il communique les données du SIIC:
+
+- a. à l’organe civil responsable de l’établissement du certificat attestant la réussite d’un module donné;
+- b. aux personnes enregistrées dans le SIIC, à titre de preuve de l’instruction suivie.
+
+#### Art. 143l
+
+**Conservation des données**
+
+Les données du SIIC sont conservées dix ans au plus après leur saisie.
+
 ## Chapitre 5 Systèmes d’information sur la sécurité
 
 ### Section 1 Système d’information sur le contrôle de sécurité relatif aux personnes
@@ -2026,9 +2151,15 @@ Le service spécialisé chargé des contrôles de sécurité relatifs aux person
 
 #### Art. 145
 
-**But**
+**But**[^145-1]
 
-Le SICSP contribue à l’exécution des contrôles de sécurité relatifs aux personnes.
+Le SICSP sert à l’exécution:
+
+- a. des contrôles de sécurité relatifs aux personnes;
+- b. des évaluations du potentiel d’abus ou de dangerosité en ce qui concerne l’arme personnelle;
+- c. des contrôles de fiabilité.
+
+[^145-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 146
 
@@ -2058,18 +2189,23 @@ Les autorités chargées d’effectuer les contrôles de sécurité relatifs à 
 
 <sup>2</sup>
 
-Elles ont accès en ligne aux registres et banques de données ci-après, dans les limites prévues par les dispositions correspondantes:[^147-2]
+Elles ont accès en ligne aux registres et banques de données ci-après, dans le cadre prévu par les dispositions correspondantes:[^147-2]
 
 - a. l’index national de police;
 - b. le casier judiciaire;
-- c. le système de traitement des données relatives à la protection de l’État, sous réserve de l’art. 20, al. 2, de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^147-3].
+- c.[^147-3] le système d’information INDEX SRC visé à l’art. 51 LRens[^147-4], sous réserve de l’art. 20, al. 2, de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^147-5];
+- d.[^147-6] les banques de données de l’Office central des armes visées à l’art. 32*a*, al. 1, LArm[^147-7].
 
-<sup>3</sup> Elles peuvent demander aux organes de sûreté fédéraux ou aux autorités cantonales concernées de leur communiquer des données auxquelles elles n’ont pas accès. Ceux-ci peuvent les autoriser à accéder en ligne à leurs registres et banques de données.[^147-4]
+<sup>3</sup> Elles peuvent demander aux organes de sûreté fédéraux ou aux autorités cantonales concernées de leur communiquer des données auxquelles elles n’ont pas accès. Ceux-ci peuvent les autoriser à accéder en ligne à leurs registres et banques de données.[^147-8]
 
 [^147-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^147-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^147-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^147-4]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^147-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^147-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^147-4]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^147-5]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^147-6]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^147-7]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^147-8]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 
 #### Art. 148
 
@@ -2077,7 +2213,7 @@ Elles ont accès en ligne aux registres et banques de données ci-après, dans l
 
 <sup>1</sup>
 
-Le CSP DDPS donne accès en ligne aux données du SICSP aux autorités et services suivants:[^148-1]
+Le CSP DDPS donne accès en ligne aux données du SICSP aux services suivants:[^148-1]
 
 - a.[^148-2] les autorités chargées d’effectuer les contrôles de sécurité relatifs à des personnes;
 - b. le service responsable de la sécurité industrielle du DDPS;
@@ -2087,13 +2223,14 @@ Le CSP DDPS donne accès en ligne aux données du SICSP aux autorités et servic
 
   - 1\. à la Confédération et dans les cantons,
   - 2\. auprès des exploitants de centrales nucléaires,
+  - 2<sup>bis</sup>.[^148-3] à la Société nationale du réseau de transport,
   - 3\. auprès de tiers;
 
-- d. les services fédéraux responsables des tâches relatives à la sécurité.
+- d.[^148-4] les services fédéraux responsables des tâches relatives à la sécurité, lorsque ceux-ci doivent se fonder sur les données concernant les contrôles de sécurité relatifs aux personnes pour exercer leur activité et si les données ne sont pas préjudiciables à la personne concernée.
 
 <sup>2</sup>
 
-Les autorités chargées d’effectuer les contrôles de sécurité relatifs à des personnes communiquent le résultat des contrôles de sécurité aux services et personnes suivants:[^148-3]
+Les autorités chargées d’effectuer les contrôles de sécurité relatifs à des personnes communiquent le résultat des contrôles de sécurité aux services et personnes suivants:[^148-5]
 
 - a. la personne concernée;
 - b. le service qui a requis le contrôle;
@@ -2102,16 +2239,18 @@ Les autorités chargées d’effectuer les contrôles de sécurité relatifs à 
 
 <sup>3</sup>
 
-Aux fins d’une utilisation ultérieure dans des systèmes de sécurité, le CSP DDPS peut communiquer par voie électronique les données ci-après aux services fédéraux devant recourir aux données du contrôle de sécurité pour leurs activités, pour autant que la communication de ces données ne soit pas contraire aux intérêts de la personne concernée:[^148-4]
+Aux fins d’une utilisation ultérieure dans des systèmes de sécurité, le CSP DDPS peut communiquer par voie électronique les données ci-après aux services fédéraux devant recourir aux données du contrôle de sécurité pour leurs activités, pour autant que la communication de ces données ne soit pas contraire aux intérêts de la personne concernée:[^148-6]
 
 - a. l’identité;
 - b. le niveau de contrôle;
 - c. le résultat et la date du contrôle.
 
-[^148-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^148-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^148-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^148-3]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^148-4]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^148-3]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^148-4]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^148-5]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^148-6]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 
 #### Art. 149
 
@@ -2274,17 +2413,20 @@ Les données du SICA ne peuvent être communiquées qu’à la justice militaire
 
 Les données du SICA sont conservées dix ans à compter de leur dernière utilisation.
 
-### Section 5 Système de journal et de rapport de la Sécurité militaire
+### Section 5 Système de journal et de rapport de la Police militaire
 
-[^chap5-sec5-1]
+[^chap5-sec5-1][^chap5-sec5-2]
 
 [^chap5-sec5-1]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^chap5-sec5-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 167a
 
-**Organe responsable**
+**Organe responsable**[^167a-1]
 
-Le Groupement Défense exploite le Système de journal et de rapport de la Sécurité militaire (JORASYS).
+Le Groupement Défense exploite le Système de journal et de rapport de la Police militaire (JORASYS).
+
+[^167a-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 167b
 
@@ -2292,12 +2434,14 @@ Le Groupement Défense exploite le Système de journal et de rapport de la Sécu
 
 Le JORASYS sert à l’accomplissement des tâches visées à l’art. 100, al. 1, LAAM[^167b-1], notamment:
 
-- a. tenir le journal des centrales d’engagement du commandement de la police militaire;
-- b. établir les rapports sur les tâches de police judiciaire et de police de sûreté des formations professionnelles du commandement de la police militaire;
+- a.[^167b-2] tenir le journal des centrales d’engagement du commandement de la Police militaire;
+- b.[^167b-3] établir les rapports sur les tâches de police judiciaire et de police de sûreté des formations professionnelles du commandement de la Police militaire;
 - c. apprécier la situation militaire sur le plan de la sécurité;
 - d. assurer l’autoprotection de l’armée.
 
 [^167b-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^167b-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^167b-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 167c
 
@@ -2329,24 +2473,31 @@ Il peut aussi contenir les données suivantes relatives à des tiers qui ont ét
 
 #### Art. 167d
 
-**Collecte des données**
+**Collecte des données**[^167d-1]
 
-<sup>1</sup>
-
-Le commandement de la police militaire collecte les données destinées à être versées au JORASYS auprès des services et personnes suivants:
+Le commandement de la Police militaire collecte les données destinées à être versées au JORASYS à partir des systèmes et auprès des services et personnes suivants:
 
 - a. la personne concernée;
 - b. les commandements militaires;
 - c. les unités administratives compétentes de la Confédération, des cantons et des communes;
-- d. les autorités pénales civiles ou militaires, les autorités d’exécution des peines et les autorités chargées du contentieux administratif.
+- d. les autorités pénales, les autorités d’exécution des peines et les autorités chargées du contentieux administratif, qu’elles soient civiles ou militaires;
+- e.
 
-<sup>2</sup>
+  par accès en ligne ou automatiquement par une interface:
 
-Il a accès en ligne:
+  - 1\. l’index national de police,
+  - 2\. le système de recherches informatisées de police RIPOL de l’Office fédéral de la police,
+  - 3\. le SIAC,
+  - 4\. les banques de données visées à l’art 32*a*, al. 1, LArm[^167d-2],
+  - 5\. la consultation en ligne des registres d’armes cantonaux,
+  - 6\. le SIPA,
+  - 7\. le SIP DEF,
+  - 8\. le SI OCRNA,
+  - 9\. le Système d’information concernant l’interface des données de la défense (SI IDD),
+  - 10\. le PSN.
 
-- a. à l’index national de police;
-- b. au SIAC;
-- c. au Système d’information pour la gestion intégrée des ressources (PSN).
+[^167d-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^167d-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 
 #### Art. 167e
 
@@ -2354,11 +2505,11 @@ Il a accès en ligne:
 
 <sup>1</sup>
 
-Le commandement de la police militaire donne accès en ligne aux données du JORASYS aux personnes suivantes:
+Le commandement de la Police militaire donne accès en ligne aux données du JORASYS aux personnes suivantes:
 
-- a. le personnel des centrales d’engagement du commandement de la police militaire;
-- b. le personnel du commandement de la police militaire, pour l’accomplissement des tâches visées à l’art. 100 LAAM[^167e-1];
-- c. les personnes chargées d’évaluer la situation militaire sur le plan de la sécurité et d’assurer l’autoprotection de l’armée, pour l’accomplissement des tâches visées à l’art. 100 LAAM.
+- a. le personnel des centrales d’engagement du commandement de la Police militaire;
+- b. le personnel du commandement de la Police militaire pour l’accomplissement des tâches visées à l’art. 100 LAAM[^167e-1];
+- c. le personnel du Service de protection préventive de l’armée (SPPA) pour l’accomplissement des tâches visées à l’art. 100 LAAM.[^167e-2]
 
 <sup>2</sup>
 
@@ -2366,56 +2517,190 @@ Il communique des extraits des données du JORASYS, sous forme écrite, aux serv
 
 - a. la justice militaire;
 - b. les commandants de troupe compétents, pour leur domaine;
-- c. l’organe responsable de la sécurité des informations et des objets.
+- c.[^167e-3] les services chargés de la sécurité des informations et des objets.
 
 [^167e-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^167e-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^167e-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 167f
 
-**Conservation des données**
+**Conservation des données**[^167f-1]
 
-<sup>1</sup> Les données du JORASYS sont conservées durant dix ans à compter de la libération de l’obligation de servir dans l’armée.
+Les données du JORASYS sont conservées dix ans après la fin des activités de la Police militaire relatives à un incident.
 
-<sup>2</sup> Les données relatives à des tiers sont effacées dix ans après la fin de la procédure relative à l’incident.
+[^167f-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
-## Chapitre 6 Autres systèmes d’information
+### Section 6 Système d’information sur la protection préventive de l’armée
 
-### Section 1 Système d’information du service des sinistres du DDPS
+[^chap5-sec6-1]
 
-#### Art. 168
+[^chap5-sec6-1]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
+#### Art. 167g
 
 **Organe responsable**
 
-Le Secrétariat général du DDPS exploite le Système d’information du service des sinistres du DDPS (SI SIN).
+Le Groupement Défense exploite le Système d’information sur la protection préventive de l’armée (SIPPA).
+
+#### Art. 167h
+
+**But**
+
+Le SIPPA sert au SPPA à accomplir les tâches visées à l’art. 100, al. 1, LAAM[^167h-1], notamment:
+
+- a. apprécier la situation militaire en matière de sécurité;
+- b. prendre des mesures préventives de protection contre l’espionnage, le sabotage et d’autres activités illicites;
+- c. tenir son journal et diriger son engagement.
+
+[^167h-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+
+#### Art. 167i
+
+**Données**
+
+Le SIPPA contient les données ci-après sur les personnes liées à une menace potentielle de l’armée:
+
+- a. l’identité;
+- b. l’état civil, le lieu de naissance, le lieu d’origine, la profession et la formation;
+- c. la nationalité, l’appartenance ethnique, la confession, le statut de résident;
+- d. les preuves de l’identité, y compris les caractéristiques physiques;
+- e. l’orientation politique et idéologique;
+- f. les résultats du recrutement, l’incorporation, le grade, la fonction, l’instruction suivie, les qualifications, les états de service, les engagements et l’équipement à l’armée ou à la protection civile;
+- g. les revenus et la fortune;
+- h. les données médicales et biométriques;
+- i. les images et les enregistrements vidéo et audio;
+- j. les personnes de référence et leur identité;
+- k. le lieu de séjour de la personne, y compris les profils de déplacement;
+- l. les moyens de locomotion et de communication, y compris leur utilisation, leur positionnement et les profils de déplacement;
+- m. les détails sur la menace potentielle que représente la personne pour l’armée;
+- n. d’autres informations et données dont le SPPA a besoin pour accomplir les tâches visées à l’art. 100, al. 1, LAAM[^167i-1].
+
+[^167i-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+
+#### Art. 167j
+
+**Collecte des données**
+
+Le SPPA collecte les données destinées à être versées au SIPPA:
+
+- a. auprès de la personne concernée;
+- b. auprès des commandements militaires;
+- c. auprès des services de renseignement suisses et étrangers;
+- d. auprès des unités administratives de la Confédération, des cantons et des communes;
+- e. auprès des autorités pénales civiles et militaires et des autorités chargées du contentieux administratif;
+- f. en consultant des sources publiques;
+- g.
+
+  par accès en ligne aux systèmes d’information suivants:
+
+  - 1\. le SIPA,
+  - 2\. le SI OCRNA,
+  - 3\. le JORASYS,
+  - 4\. le SI IDD,
+  - 5\. le PSN.
+
+#### Art. 167k
+
+**Communication des données**
+
+<sup>1</sup> Le SPPA donne à son personnel un accès en ligne aux données du SIPPA pour l’accomplissement des tâches visées à l’art. 100 LAAM[^167k-1].
+
+<sup>2</sup>
+
+Il communique des extraits de données du SIPPA, sous forme écrite, aux services et personnes ci-après, lorsque ces données sont nécessaires à l’accomplissement de leurs tâches légales:
+
+- a. les services chargés de la sécurité des informations et des objets;
+- b. les services chargés de la cyberdéfense;
+- c. le service spécialisé Extrémisme dans l’armée;
+- d. le commandement de la Police militaire;
+- e. le Personnel de l’armée;
+- f. les commandants de troupe pour leur domaine de compétence;
+- g. le Service de renseignement de la Confédération, sous réserve de l’art. 5, al. 5, LRens[^167k-2];
+- h. l’Office fédéral de la police.
+
+[^167k-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^167k-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+
+#### Art. 167l
+
+**Conservation des données**
+
+Les données du SIPPA sont conservées cinq ans au plus à compter du moment où la personne concernée n’est plus liée à une menace potentielle de l’armée.
+
+## Chapitre 6 Autres systèmes d’information
+
+### Section 1 Système d’information du Centre de dommages du DDPS
+
+[^chap6-sec1-1]
+
+[^chap6-sec1-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
+#### Art. 168
+
+**Organe responsable**[^168-1]
+
+Le Secrétariat général du DDPS exploite le Système d’information du Centre de dommages du DDPS (SCHAMIS).
+
+[^168-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 169
 
 **But**
 
-Le SI SIN poursuit les buts suivants:
+Le SCHAMIS sert à:[^169-1]
 
-- a. régler les actions en dommages et intérêts conformément aux art. 134 à 139 LAAM[^169-1];
+- a. régler les actions en dommages et intérêts conformément aux art. 134 à 139 LAAM[^169-2];
 - b. régler les sinistres impliquant des véhicules de la Confédération;
-- c. statuer sur les recours et les participations aux frais demandés au personnel de la Confédération en cas de sinistre impliquant des véhicules de la Confédération.
+- c. statuer sur les recours et les participations aux frais demandés au personnel de la Confédération en cas de sinistre impliquant des véhicules de la Confédération;
+- d.[^169-3] établir des attestations d’assurance électroniques pour les véhicules de la Confédération;
+- e.[^169-4] régler les sinistres impliquant les véhicules à moteur des députés, conformément à l’art. 4, al. 2, de l’ordonnance de l’Assemblée fédérale du 18 mars 1988 relative à la loi sur les moyens alloués aux parlementaires[^169-5].
 
-[^169-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^169-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^169-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^169-3]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^169-4]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^169-5]: [RS 171.211](https://fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166)
 
 #### Art. 170
 
 **Données**
 
-Le SI SIN contient les données suivantes:
+Le SCHAMIS contient:[^170-1]
 
-- a. les données sanitaires relatives aux lésés et aux auteurs du dommage;
+- a.[^170-2]
+
+  les données suivantes relatives aux lésés et aux auteurs du dommage:
+
+  - 1\. l’identité, l’adresse, les coordonnées et la langue de correspondance,
+  - 2\. le numéro d’assurance sociale,
+  - 3\. la situation financière et professionnelle,
+  - 4\. les données des assurances,
+  - 5\. les données médicales et sanitaires,
+  - 6\. les données des procédures pénales, civiles, disciplinaires et administratives,
+  - 7\. les données concernant la gestion militaire,
+  - 8\. les données des détenteurs de véhicules;
+
+- a<sup>bis</sup>.[^170-3]
+
+  les données suivantes relatives à des tiers, nécessaires pour atteindre le but visé:
+
+  - 1\. l’identité, l’adresse, les coordonnées et la langue de correspondance,
+  - 2\. la profession;
+
 - b. la description des cas;
 - c. les données nécessaires au calcul du dommage;
 - d. les résultats des investigations des experts.
+
+[^170-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^170-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^170-3]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 171
 
 **Collecte des données**
 
-Le Secrétariat général du DDPS collecte les données destinées à être versées au SI SIN auprès des services et personnes suivantes:
+Le Secrétariat général du DDPS collecte les données destinées à être versées au SCHAMIS auprès des services et personnes suivants:[^171-1]
 
 - a. la personne concernée ou ses représentants légaux;
 - b. les commandements militaires;
@@ -2424,77 +2709,99 @@ Le Secrétariat général du DDPS collecte les données destinées à être vers
 - e. les autorités pénales civiles ou militaires et les autorités chargées du contentieux administratif;
 - f. les supérieurs militaires de la personne concernée et, si celle-ci y a consenti, ses supérieurs civils;
 - g. les experts;
-- h. les personnes de référence désignées par la personne concernée.
+- h. les personnes de référence désignées par la personne concernée;
+- i.[^171-2] les assurances.
+
+[^171-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^171-2]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 172
 
-**Communication des données**
+**Communication des données**[^172-1]
 
-<sup>1</sup> Le Secrétariat général du DDPS donne accès en ligne aux données du SI SIN au personnel chargé des tâches visées à l’art. 169.
+<sup>1</sup> Le Secrétariat général du DDPS donne accès en ligne aux données du SCHAMIS au personnel chargé des tâches visées à l’art. 169.
 
-<sup>2</sup> Il communique les données nécessaires pour régler les sinistres et les actions en responsabilité civile aux tiers qu’il a mandatés.
+<sup>2</sup> Il communique aux tiers collaborant à la procédure les données nécessaires pour régler les sinistres et les actions en responsabilité civile.
+
+[^172-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 173
 
-**Conservation des données**
+**Conservation des données**[^173-1]
 
-Les données du SI SIN sont conservées dix ans à compter de la décision qui clôt la procédure.
+Les données du SCHAMIS sont conservées dix ans à compter de la décision qui clôt la procédure.
 
-### Section 2 Système d’information stratégique de la logistique
+[^173-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
+### Section 2 Système d’information concernant l’interface des données de la défense
+
+[^chap6-sec2-1]
+
+[^chap6-sec2-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 174
 
-**Organe responsable**
+**Organe responsable**[^174-1]
 
-Le Groupement Défense exploite le Système d’information stratégique de la logistique (SISLOG).
+Le Groupement Défense exploite le Système d’information concernant l’interface des données de la défense (SI IDD).
+
+[^174-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 175
 
 **But**
 
-Le SISLOG sert à l’accomplissement des tâches suivantes:[^175-1]
+Le SI IDD sert à l’accomplissement des tâches suivantes:[^175-1]
 
 - a. établir les données logistiques pour toutes les tâches de la logistique de l’armée;
 - b. établir une base de données pour les besoins en informations logistiques des autres services autorisés;
 - c. échanger des données entre les systèmes d’information de l’armée.
 
-[^175-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^175-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 176
 
 **Données**
 
-Le SISLOG contient les données suivantes:
+Le SI IDD contient les données suivantes:[^176-1]
 
 - a. l’incorporation, le grade, la fonction, l’instruction, la qualification et l’équipement dans l’armée et dans la protection civile;
 - b. les données sur l’engagement dans l’armée et dans la protection civile;
-- c. les autres données nécessaires à l’échange de données visé à l’art. 175, let. c.
+- c.[^176-2] les données nécessaires à l’échange de données selon l’art. 175, let. c.
+
+[^176-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^176-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 177
 
-**Collecte des données**
+**Collecte de données**[^177-1]
 
-Le Groupement Défense collecte les données destinées à être versées au SISLOG auprès des services et personnes suivants:
+Le Groupement Défense collecte les données destinées à être versées au SI IDD auprès:
 
-- a. les commandements militaires;
-- b. les services fédéraux et cantonaux compétents;
-- c. les autres systèmes d’information de l’armée.
+- a. des commandements militaires;
+- b. des services fédéraux et cantonaux compétents;
+- c. des autres systèmes d’information de l’armée.
+
+[^177-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 178
 
-**Communication des données**
+**Communication des données**[^178-1]
 
-Le Groupement Défensep donne accès en ligne aux données du SISLOG aux services et personnes suivants:
+Le Groupement Défense donne accès en ligne aux données du SI IDD aux services et personnes suivants:
 
-- a. les commandements militaires;
-- b. les services fédéraux et cantonaux compétents;
-- c. les services et personnes chargés de l’échange de données visé à l’art. 175, let. c.
+- a. les commandements militaires et les unités administratives compétentes de la Confédération et des cantons, pour les données visées à l’art. 176, let. a et b;
+- b. les services et personnes responsables des systèmes d’information de l’armée, pour les données visées à l’art. 176, let. c.
+
+[^178-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179
 
-**Conservation des données**
+**Conservation des données**[^179-1]
 
-Les données du SISLOG sont conservées cinq ans au plus.
+Les données du SI IDD sont conservées cinq ans au plus.
+
+[^179-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 ### Section 3 Système d’information pour la gestion intégrée des ressources
 
@@ -2549,11 +2856,12 @@ Il contient les données ci-après sur les conscrits et les militaires ainsi que
 
 <sup>3</sup> Il contient les données de contrôle relatives à la remise et à la reprise de matériel de l’armée à des tiers ainsi que l’identité de ces derniers.
 
-<sup>4</sup> Il contient les données sur les candidats qui figurent dans le dossier de candidature visé à l’art. 27*b* LPers[^179c-3] et les données sur les employés qui figurent dans le dossier du personnel visé à l’art. 27*c* LPers.
+<sup>4</sup> Il contient les données sur les candidats et sur les employés qui figurent respectivement dans le dossier de candidature et dans le dossier du personnel gérés selon la LPers[^179c-3] et ses dispositions d’exécution.[^179c-4]
 
 [^179c-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^179c-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^179c-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^179c-4]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179d
 
@@ -2565,9 +2873,9 @@ Les unités administratives du Groupement Défense collectent les données desti
 - b. les tiers;
 - c. les candidats;
 - d. les employés et leurs supérieurs hiérarchiques directs;
-- e.[^179d-1] les unités administratives compétentes de la Confédération et des cantons, à partir des systèmes d’information de l’armée, du Système d’information concernant le personnel de l’administration fédérale (BV PLUS) et du fichier visé à l’art. 32*a*, al. 1, let. c, LArm[^179d-2].
+- e.[^179d-1] les unités administratives compétentes de la Confédération et des cantons, à partir des systèmes d’information de l’armée, de l’IGDP et de la banque de données visée à l’art. 32*a*, al. 1, let. c, LArm[^179d-2].
 
-[^179d-1]: Nouvelle teneur selon le ch. II de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^179d-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^179d-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 
 #### Art. 179e
@@ -2599,12 +2907,13 @@ Elles communiquent les données du PSN aux services et personnes ci-après pour 
   - 2\.[^179e-2] les données du PSN concernant les décisions et les informations sur des motifs empêchant la remise de l’arme personnelle ainsi que sur sa reprise préventive ou son retrait, en vue de leur traitement dans la banque de données visée à l’art. 32*a*, al. 1, let. d, LArm[^179e-3].
 
 - d. le personnel de l’entreprise RUAG habilité à traiter les affaires d’équipement;
-- e. les unités administratives de la Confédération, par une interface avec le système BV PLUS;
+- e.[^179e-4] les unités administratives de la Confédération, par une interface avec l’IGDP;
 - f. les tiers, lorsque les données concernées sont nécessaires à l’accomplissement de leurs tâches légales ou contractuelles.
 
 [^179e-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^179e-2]: Nouvelle teneur selon le ch. II de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^179e-3]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^179e-4]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179f
 
@@ -2618,23 +2927,26 @@ Elles communiquent les données du PSN aux services et personnes ci-après pour 
 
 <sup>4</sup> Les données relatives aux employés qui sont contenues dans le dossier personnel sont conservées durant dix ans au plus à compter de la fin des rapports de travail qui les liaient au Groupement Défense. Les résultats des tests de personnalité et des évaluations du potentiel sont conservés durant cinq ans au plus. Les évaluations des prestations et les décisions fondées sur une appréciation sont conservées durant cinq ans, mais au plus tard jusqu’à la fin de la procédure si un litige est en cours.
 
-### Section 4 Système d’information de l’administration des fédérations et des sociétés de tir
+### Section 4 Système d’information du tir hors du service
 
-[^chap6-sec4-1]
+[^chap6-sec4-1][^chap6-sec4-2]
 
 [^chap6-sec4-1]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^chap6-sec4-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179g
 
-**Organe responsable**
+**Organe responsable**[^179g-1]
 
-Le Groupement Défense exploite le Système d’information de l’administration des fédérations et des sociétés de tir (AFS).
+Le Groupement Défense exploite le Système d’information du tir hors du service (SaD).
+
+[^179g-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179h
 
 **But**
 
-L’AFS sert à l’administration et à l’exploitation des affaires relatives au tir hors du service dans les domaines suivants:
+Le SaD sert à l’administration et à l’exploitation des affaires relatives au tir hors du service dans les domaines suivants:[^179h-1]
 
 - a. la planification, la réalisation et le contrôle des exercices fédéraux ainsi que des exercices de tir et des cours de tir;
 - b. le contrôle de l’accomplissement du tir obligatoire;
@@ -2644,11 +2956,13 @@ L’AFS sert à l’administration et à l’exploitation des affaires relatives
 - f. l’imputation des frais des commissaires dans le cadre du tir hors du service;
 - g. la gestion des installations de tir.
 
+[^179h-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
 #### Art. 179i
 
 **Données**
 
-L’AFS contient les données ci-après sur les militaires astreints au tir, les commissaires du tir hors du service, les sociétés de tir reconnues, leurs membres et les tireurs pour assurer le contrôle des tirs obligatoires et des autres tirs au profit de la défense nationale:
+Le SaD contient les données ci-après sur les militaires astreints au tir, les commissaires du tir hors du service, les sociétés de tir reconnues, leurs membres et les tireurs pour assurer le contrôle des tirs obligatoires et des autres tirs au profit de la défense nationale:[^179i-1]
 
 - a. l’identité;
 - b. le numéro AVS;
@@ -2658,15 +2972,19 @@ L’AFS contient les données ci-après sur les militaires astreints au tir, les
 - f. les données administratives nécessaires à la réalisation des cours et au versement des indemnités;
 - g. les données fournies volontairement par les personnes concernées.
 
+[^179i-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
 #### Art. 179j
 
 **Collecte des données**
 
-Le Groupement Défense collecte les données destinées à être versées à l’AFS auprès des services et personnes suivants:
+Le Groupement Défense collecte les données destinées à être versées au SaD auprès des services et personnes suivants:[^179j-1]
 
 - a. les sociétés de tir reconnues;
 - b. les commissaires du tir hors du service;
 - c. les autorités militaires.
+
+[^179j-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179k
 
@@ -2674,20 +2992,23 @@ Le Groupement Défense collecte les données destinées à être versées à l�
 
 <sup>1</sup>
 
-Le Groupement Défense donne accès en ligne aux données de l’AFS aux services et personnes suivants pour l’accomplissement de leurs tâches:
+Le Groupement Défense donne accès en ligne aux données du SaD aux services et personnes ci-après pour l’accomplissement de leurs tâches:[^179k-1]
 
 - a. les fédérations et sociétés de tir reconnues;
 - b. les commissaires du tir hors du service;
 - c. les personnes détenant une arme en prêt;
 - d. les autorités militaires.
 
-<sup>2</sup> Il communique à l’assurance-vieillesse et survivants, aux administrations fiscales et au service chargé des opérations de paiement les données de l’AFS qui sont nécessaires au décompte et à l’imputation visés à l’art. 179*h*.
+<sup>2</sup> Il communique à l’assurance-vieillesse et survivants, aux administrations fiscales et au service chargé des opérations de paiement les données du SaD qui sont nécessaires au décompte et à l’imputation visés à l’art. 179*h*.[^179k-2]
+
+[^179k-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^179k-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179l
 
 **Conservation des données**
 
-<sup>1</sup> Les données de l’AFS sont conservées durant cinq ans à compter de la dernière inscription sur la personne concernée.
+<sup>1</sup> Les données du SaD sont conservées cinq ans à compter de la dernière inscription sur la personne concernée.[^179l-1]
 
 <sup>2</sup>
 
@@ -2697,6 +3018,79 @@ Elles sont conservées durant deux ans au plus à compter des événements suiva
 - b. arrêt de l’activité de commissaire du tir hors du service;
 - c. restitution de l’arme en prêt;
 - d. décès.
+
+[^179l-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
+### Section 5 Système d’information *Master Data Management*
+
+[^chap6-sec5-1]
+
+[^chap6-sec5-1]: Introduite par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+
+#### Art. 179m
+
+**Organe responsable**
+
+Le Secrétariat général du DDPS exploite le Système d’information *Master Data* *Management* (MDM).
+
+#### Art. 179n
+
+**But**
+
+Le MDM sert à administrer et à établir des données concernant les partenaires actuels ou potentiels impliqués dans les processus d’affaires du DDPS relatifs aux domaines finances, acquisition, logistique, immobilier et personnel.
+
+#### Art. 179o
+
+**Données**
+
+Le MDM contient les données ci-après concernant les partenaires actuels ou potentiels:
+
+- a. le nom ou la raison de commerce;
+- b. l’adresse;
+- c. les coordonnées bancaires;
+- d. les coordonnées;
+- e. le sexe;
+- f. la nationalité;
+- g. la langue de correspondance;
+- h. la catégorie d’étranger;
+- i. la profession;
+- j. la date de naissance;
+- k. le numéro d’assurance sociale;
+- l. la forme juridique;
+- m. le numéro d’identification de l’entreprise (IDE), le numéro fiscal et d’autres numéros et codes d’enregistrement spécifiques aux entreprises;
+- n. les données concernant une faillite;
+- o. le statut du partenariat;
+- p. les données de base logistiques, comme les données de base sur le matériel et les données sur la structure des systèmes, en lien avec le partenaire.
+
+#### Art. 179p
+
+**Collecte des données**
+
+Le Secrétariat général du DDPS collecte les données destinées à être versées au MDM:
+
+- a. auprès des partenaires actuels ou potentiels;
+- b. auprès des unités administratives de la Confédération, des cantons et des communes;
+- c. à partir du système d’information de la Confédération exploité en dehors du DDPS au profit du *Master Data Management*, par une interface;
+- d. auprès des fournisseurs et des fabricants de matériel suisses et étrangers.
+
+#### Art. 179q
+
+**Communication des données**
+
+Le Secrétariat général du DDPS donne accès en ligne aux données du MDM aux services et personnes chargés des processus d’affaires du DDPS relatifs aux domaines finances, acquisition, logistique, immobilier et personnel.
+
+#### Art. 179r
+
+**Conservation des données**
+
+<sup>1</sup>
+
+Les données du MDM sont conservées après la fin des rapports d’affaires avec un partenaire pendant:
+
+- a. 10 ans, pour les données visées à l’art. 179*o*, let. a à o;
+- b. 50 ans, pour les données visées à l’art. 179*o*, let. p.
+
+<sup>2</sup> S’il est établi qu’une personne n’est pas un partenaire, ses données sont conservées deux ans.
 
 ## Chapitre 7 Moyens de surveillance
 
@@ -2714,13 +3108,19 @@ L’armée et l’administration militaire exploitent des appareils et des insta
 
 Les moyens de surveillance contribuent à l’exécution des tâches suivantes:
 
-- a. garantir la sécurité des militaires ainsi que des installations et du matériel de l’armée, dans le domaine de la troupe et des objets militaires;
+- a.[^181-1]
+
+  garantir la sécurité des militaires ainsi que des installations et du matériel de l’armée dans le domaine:
+
+  - 1\. de la troupe,
+  - 2\. des objets de l’armée, de l’administration militaire ou de tiers utilisés à des fins militaires;
+
 - b. exécuter la mission assignée dans le cadre d’engagements en service de promotion de la paix, en service d’appui et en service actif, dans les limites des décisions des autorités compétentes;
 - c. assurer l’instruction des personnes chargées d’exécuter les tâches visées aux let. a et b.
 
 <sup>2</sup>
 
-L’armée peut mettre à la disposition des autorités civiles qui en font la demande des moyens de surveillance avec appui aérien, ainsi que le personnel nécessaire dans les cas suivants:
+L’armée peut fournir aux autorités civiles qui en font la demande des prestations de surveillance avec appui aérien en engageant ses moyens de surveillance et le personnel nécessaire dans les cas suivants:[^181-2]
 
 - a.
 
@@ -2735,6 +3135,9 @@ L’armée peut mettre à la disposition des autorités civiles qui en font la d
 <sup>3</sup> Les engagements visés à l’al. 2 qui ont une portée politique particulière requièrent l’approbation préalable du DDPS.
 
 <sup>4</sup> Le DDPS informe chaque année les Commissions de la politique de sécurité des deux conseils des engagements visés à l’al. 2.
+
+[^181-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^181-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 182
 
@@ -2791,6 +3194,11 @@ Il fixe les modalités:
 
 - a. de mise en réseau des systèmes d’information;
 - b. de l’engagement des moyens de surveillance, notamment les moyens de surveillance autorisés et les cas relevant de la collecte secrète de données.
+
+<sup>3</sup> Il peut, dans le cadre des affaires étrangères et de la politique de sécurité, conclure des accords internationaux sur le traitement transfrontalier de données personnelles dont le traitement ne requiert pas une base dans une loi au sens formel conformément à la LPD[^186-1].[^186-2]
+
+[^186-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^186-2]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 187
 
