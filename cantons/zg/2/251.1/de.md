@@ -4,13 +4,12 @@ number: "251.1"
 title: Einführungsgesetz zum Bundesgesetz über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister
 short: EG RHG
 language: de
-version: 2009-01-01
-valid_until: 2023-03-31
-version_adopted: 2008-10-30
+version: 2023-04-01
+version_adopted: 2020-09-24
 adopted: 2020-09-24
 in_force: 2023-04-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/251.1"
-pdf: "https://bgs.zg.ch/api/de/versions/1526/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2418/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1526/pdf_file"
 
 (EG RHG)
 
-Vom 30. Oktober 2008 (Stand 1. Januar 2009)
+Vom 24. September 2020 (Stand 1. April 2023)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -35,141 +34,243 @@ beschliesst:
 
 #### § 1
 
-**Geltungsbereich**
+**Gegenstand**
 
-<sup>1</sup> Das Gesetz regelt den Datenaustausch zwischen dem Kanton und den Einwohnergemeinden sowie zwischen den Einwohnergemeinden untereinander über die kantonalen Informatik- und Kommunikationsmittel.
+<sup>1</sup> Dieses Gesetz vollzieht das Registerharmonisierungsgesetz[^1-1] und regelt den Aufbau, die Organisation und den Betrieb der kantonalen Personenregister und der gemeindlichen Einwohnerregister.
 
-<sup>2</sup> Der Geltungsbereich dieses Gesetzes bestimmt sich im Übrigen nach dem Registerharmonisierungsgesetz.
+[^1-1]: SR [431.02](https://db.clex.ch/link/Bund/431.02/de)
 
-## 2. Einwohnerregister
+## 2. Kantonale Personenregister
 
 #### § 2
+
+**Zweck**
+
+<sup>1</sup> Die kantonalen Personenregister bezwecken
+
+- 1\. die Vereinfachung des Datenaustauschs innerhalb der kantonalen Verwaltung, zwischen den Gemeinden und dem Kanton sowie zwischen den Gemeinden untereinander;
+- 2\. die Vereinfachung des Datenaustauschs mit dem Bund;
+- 3\. die Bereitstellung der Grundlagen für die statistischen Aufgaben des Bundes, des Kantons und der Gemeinden.
+
+#### § 3
+
+**Voraussetzungen für das Führen von Personendaten in den Personenregistern**
+
+<sup>1</sup> Personendaten dürfen nur dann in den Personenregistern geführt werden, wenn eine gesetzliche Grundlage dafür besteht; besonders schützenswerte Personendaten nur dann, wenn ein formelles Gesetz dies ausdrücklich vorsieht.
+
+#### § 4
+
+**Inhalt der kantonalen Personenregister**
+
+<sup>1</sup> In den kantonalen Personenregistern werden geführt:
+
+- 1\. Personendaten und besonders schützenswerte Personendaten von natürlichen Personen, die Aufenthalt oder Niederlassung im Kanton Zug haben oder hatten; und
+- 2\. Daten von juristischen Personen und Personengesellschaften.
+
+#### § 5
+
+**Datenübermittlung**
+
+<sup>1</sup> In die kantonalen Personenregister werden übermittelt:
+
+- 1\. Personendaten und besonders schützenswerte Personendaten aus den Einwohnerregistern gemäss § 13 Abs. 3;
+- 2\. Personendaten, besonders schützenswerte Personendaten und andere Daten aus weiteren durch Gesetz oder Verordnung bestimmten amtlichen Personenregistern.
+
+<sup>2</sup> Die Organe des Kantons und der Gemeinden sind verpflichtet, die erforderlichen Personendaten, besonders schützenswerten Personendaten und anderen Daten unentgeltlich zur Verfügung zu stellen.
+
+<sup>3</sup> Für die Datenübermittlung werden nur Kommunikationsmittel verwendet, die einen angemessenen Schutz vor unbefugter Kenntnisnahme oder Veränderung der Daten während des Übermittlungsvorgangs gewährleisten.
+
+#### § 6
+
+**Datenbezug**
+
+<sup>1</sup> Kantonale und gemeindliche Organe dürfen Personendaten, besonders schützenswerte Personendaten und andere Daten aus den kantonalen Personenregistern beziehen, sofern der Datenbezug gesetzlich vorgesehen oder gemäss der Verordnung über das Bewilligungsverfahren für den elektronischen Datenaustausch[^6-1] bewilligt worden ist.
+
+<sup>2</sup> Überdies dürfen sie nur diejenigen Daten aus den kantonalen Personenregistern beziehen, die für die Erfüllung ihrer gesetzlichen Aufgaben erforderlich sind.
+
+<sup>3</sup> Die datenliefernden Organe des Kantons und der Gemeinden dürfen alle von ihnen gelieferten Daten beziehen. Die für das Einwohnerregister zuständigen Stellen dürfen zusätzlich die von den anderen für das Einwohnerregister zuständigen Stellen gelieferten Personendaten und besonders schützenswerten Personendaten beziehen.
+
+[^6-1]: BGS 157.22
+
+#### § 7
+
+**Datenbekanntgabe**
+
+<sup>1</sup> Kantonale und gemeindliche Organe können Bundesorganen Personendaten, besonders schützenswerte Personendaten und andere Daten aus den kantonalen Personenregistern bekannt geben, soweit sie hierzu gesetzlich verpflichtet oder ermächtigt sind.
+
+#### § 8
+
+**Verfahren für Datenbezug und -bekanntgabe**
+
+<sup>1</sup> Datenbezug und -bekanntgabe können erfolgen:
+
+- 1\. über einen elektronischen Zugriff im Abrufverfahren durch
+  - 1\.1. Einzelabfragen über eine Benutzungsoberfläche;
+  - 1\.2. Dienste, die einen direkten Datenabgleich mit einer Fachanwendung ermöglichen;
+  - 1\.3. periodisches und automatisiertes Zurverfügungstellen von Auszügen.
+- 2\. durch die Bekanntgabe von Auszügen im Einzelfall im Auftrag des datenlieferenden Organs.
+
+<sup>2</sup> Für den Datenbezug müssen sich einzelne Benutzerinnen und Benutzer oder Fachanwendungen mittels eines dem Schutzbedarf entsprechenden Verfahrens authentisieren.
+
+## 3. Datenschutz
+
+#### § 9
+
+**Auskunfts- und Einsichtsrecht**
+
+<sup>1</sup> Das Recht der betroffenen Personen, Auskunft über Personendaten und besonders schützenswerte Personendaten der kantonalen Personenregister zu verlangen und in sie Einsicht zu nehmen, richtet sich nach dem Datenschutzgesetz[^9-1].
+
+[^9-1]: BGS [157.1](https://bgs.zg.ch/data/157.1/de)
+
+#### § 10
+
+**Datensperre und Auskünfte an Private**
+
+<sup>1</sup> Sperrvermerke gemäss Datenschutzgesetz[^10-1] gelten auch für die in den kantonalen Personenregistern geführten Personendaten und besonders schützenswerten Personendaten.
+
+<sup>2</sup> Einzelauskünfte und Sammelauskünfte aus den kantonalen Personenregistern an Private sind unzulässig. Im Übrigen gelten die Bestimmungen des Datenschutzgesetzes[^10-2].
+
+[^10-1]: BGS [157.1](https://bgs.zg.ch/data/157.1/de)
+[^10-2]: BGS [157.1](https://bgs.zg.ch/data/157.1/de)
+
+#### § 11
+
+**Datenlöschung in den kantonalen Personenregistern**
+
+<sup>1</sup> Personendaten und besonders schützenswerte Personendaten von Personen, die im Kanton keine Niederlassung und keinen Aufenthalt mehr haben, werden zehn Jahre nach der letzten Änderung gelöscht.
+
+#### § 12
+
+**Auflösung der kantonalen Personenregister**
+
+<sup>1</sup> Werden die kantonalen Personenregister aufgelöst, sind die darin enthaltenen Datenbestände zu löschen.
+
+## 4. Einwohnerregister
+
+#### § 13
 
 **Elektronische Registerführung**
 
 <sup>1</sup> Die Einwohnergemeinden führen das Einwohnerregister elektronisch.
 
-<sup>2</sup> Der Kanton trägt 60 Prozent, die Gemeinden zusammen 40 Prozent der kantonalen Kosten für die elektronischen Hilfsmittel.
+<sup>2</sup> Der Kanton trägt 60 Prozent, die Einwohnergemeinden zusammen 40 Prozent der Kosten für die notwendigen Informatikmittel und Informatikdienste.
 
-<sup>3</sup> Der Eintrag umfasst die Daten nach den Vorgaben des Registerharmonisierungsgesetzes sowie folgende zusätzliche Daten der natürlichen Person:
+<sup>3</sup> In den Einwohnerregistern werden geführt:
 
-- a) die Zentrale Personenkoordinationsnummer (ZPK);
-- b) allfällige Vormundschaft mit den Angaben zur verantwortlichen Behörde;
-- c) Wegzugsadresse;
-- d) Umzugsadresse;
-- e) Datum von allfälligen Änderungen der Heimatorte;
-- f) Datum von allfälligen Änderungen der Konfession;
-- g) Datum von allfälligen Änderungen des Zivilstandes sowie des Ehe- oder Partnerschaftsstatus.
+- 1\. Daten nach den Vorgaben des Registerharmonisierungsgesetzes[^13-1];
+- 2\. Angaben betreffend Vormundschaft, Beistandschaft oder Vorsorgeauftrag sowie Angaben zur Feuerwehrpflicht;
+- 3\. Daten gemäss der Verordnung zum Einführungsgesetz zum Bundesgesetz über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister[^13-2].
 
-#### § 3
+[^13-1]: SR [431.02](https://db.clex.ch/link/Bund/431.02/de)
+[^13-2]: BGS [251.12](https://bgs.zg.ch/data/251.12/de)
+
+#### § 14
 
 **Bestimmung und Nachführung von Wohnungsidentifikatoren**
 
-<sup>1</sup> Die industriellen Werke und andere registerführende Stellen stellen die Daten gemäss Art. 8 Abs. 2 des Registerharmonisierungsgesetzes unentgeltlich zur Verfügung.
+<sup>1</sup> Die Einwohnergemeinden führen die eidgenössischen Wohnungsidentifikatoren (EWID) in ihren Einwohnerregistern, damit Personen den Wohnungen zugeordnet werden können.
 
-#### § 4
+<sup>2</sup> Die EWID der Einwohnergemeinden werden im eidgenössischen Gebäude- und Wohnungsregister (GWR) geführt.
 
-**Wohnungsnummern**
+<sup>3</sup> Die industriellen Werke und andere registerführende Stellen stellen die Daten gemäss Art. 8 Abs. 2 des Registerharmonisierungsgesetzes[^14-1] unentgeltlich zur Verfügung.
 
-<sup>1</sup> Die Einwohnergemeinden führen die Wohnungsnummern in ihren Einwohnerregistern, damit Personen den Wohnungen zugeordnet werden können.
+[^14-1]: SR [431.02](https://db.clex.ch/link/Bund/431.02/de)
 
-<sup>2</sup> Die Wohnungsnummern der Einwohnergemeinden werden im eidgenössischen Gebäude- und Wohnungsregister (GWR) geführt.
-
-#### § 5
+#### § 15
 
 **Physische Wohnungsnummer**
 
-<sup>1</sup> Die Einwohnergemeinden können die physischen Wohnungsnummern vorschreiben und werden ermächtigt, den Eigentümerinnen und Eigentümern die physische Wohnungsnummerierung kostendeckend abzugeben.
+<sup>1</sup> Die Einwohnergemeinden können die physischen Wohnungsnummern vorschreiben und werden ermächtigt, den Eigentümerinnen und Eigentümern die physischen Wohnungsnummern kostendeckend abzugeben.
 
 <sup>2</sup> Die Einwohnergemeinden können mit Dritten zusammenarbeiten.
 
-<sup>3</sup> Soweit erforderlich ist für die Vergabe der physischen Wohnungsnummern der Zugang zum Gebäude zu gewährleisten.
+<sup>3</sup> Soweit erforderlich, ist für die Vergabe der physischen Wohnungsnummern der Zugang zum Gebäude zu gewährleisten.
 
-#### § 6
+## 5. AHV-Versichertennummer
 
-**Zuständige Stelle**
-
-<sup>1</sup> Die Direktion des Innern[^6-1] ist die zuständige Stelle für die Koordination, Durchführung und Qualitätskontrolle der Harmonisierung der Register und der kantonalen Informatik- und Kommunikationsmittel.
-
-[^6-1]: Gemäss RRB vom 18. Juni 2013 obliegt diese Zuständigkeit seit 1. Januar 2014 beim Amt für Raumplanung.
-
-#### § 7
-
-**Zentrale Datenführung**
-
-<sup>1</sup> Die Einwohnergemeinden geben in elektronischer Form die Daten des Einwohnerregisters sowie die Mutationen dieser Daten auf den kantonalen Informatik- und Kommunikationsmitteln ein.
-
-## 3. AHV-Versichertennummer
-
-#### § 8
+#### § 16
 
 **AHV-Versichertennummer**
 
 <sup>1</sup> Die Stellen und Institutionen, die mit dem Vollzug von kantonalem Recht betraut sind, dürfen zu diesem Zweck die AHV-Versichertennummer systematisch verwenden, wenn die Bedingungen des Bundesrechts erfüllt sind.
 
-## 4. Aufgaben des Kantons
+## 6. Zuständigkeiten
 
-#### § 9
+#### § 17
 
-**Kantonale Informatik- und Kommunikationsmittel**
+**Regierungsrat**
 
-<sup>1</sup> Das Amt für Informatik und Organisation betreibt die kantonalen Informatik- und Kommunikationsmittel zum Zweck der Zentralen Personenkoordination (ZPK), auf der die Daten der natürlichen Personen gespeichert und den berechtigten Amtsstellen für die sichere Datenübermittlung zur Verfügung gestellt werden.
+<sup>1</sup> Der Regierungsrat bezeichnet
 
-<sup>2</sup> Die kantonalen Informatik- und Kommunikationsmittel für die natürlichen Personen dienen
+- 1\. die weiteren amtlichen Personenregister gemäss § 5 Abs. 1 Ziff. 2 und die von diesen zu liefernden Daten;
+- 2\. die Personenidentifikatoren, mit denen die datenbeziehenden Organe die Personendaten und besonders schützenswerten Personendaten der natürlichen Personen in ihren Datensammlungen mit den entsprechenden Daten aus den kantonalen Personenregistern abgleichen können;
+- 3\. die Identifikatoren, mit denen die datenbeziehenden Organe die Daten der juristischen Personen und Personengesellschaften in ihren Datensammlungen mit den entsprechenden Daten aus den kantonalen Personenregistern abgleichen können.
 
-- a) den berechtigten kantonalen und kommunalen Behörden als zentrale Adress- und Kontaktdatei im Abruf- oder Meldeverfahren sowie statistischen Zwecken;
-- b) bei einem Wegzug aus einer Gemeinde dazu, der betreffenden Gemeinde Meldung über den bevorstehenden Zuzug zu erstatten;
-- c) den Einwohnergemeinden als Grundlage für Datenlieferungen, soweit sie hierzu ermächtigt oder verpflichtet sind.
+<sup>2</sup> Er erlässt Bestimmungen über das Meldeverfahren bei der für das Einwohnerregister zuständigen Stelle.
 
-<sup>3</sup> Die Einwohnergemeinden haben die Datenhoheit über ihre auf den kantonalen Informatik- und Kommunikationsmitteln aufbewahrten Daten. Sie stellen ihre Daten den kantonalen Informatik- und Kommunikationsmitteln unentgeltlich zur Verfügung.
+#### § 18
 
-<sup>4</sup> Das Amt für Informatik und Organisation verwaltet und koordiniert den Zugriff zu diesen Daten und stellt die kantonalen Informatik- und Kommunikationsmittel zur Verfügung.
+**Zuständige Direktion[^18-1]**
 
-<sup>5</sup> Der Regierungsrat bezeichnet die amtlichen Register, welche die ZPK-Nummern führen.
+<sup>1</sup> Die zuständige Direktion ist verantwortlich für die Koordination, Durchführung und Qualitätskontrolle der Harmonisierung der Einwohnerregister.
 
-#### § 10
+<sup>2</sup> Sie koordiniert die Datenlieferungen an den Bund.
 
-**Datenabgleich**
+[^18-1]: Gesundheitsdirektion
 
-<sup>1</sup> Das Amt für Informatik und Organisation gleicht die Daten der natürlichen Personen auf den kantonalen Informatik- und Kommunikationsmitteln zum Zweck der Qualitätssicherung regelmässig mit den Daten auf der Einwohnerkontrolle ab.
+#### § 19
 
-<sup>2</sup> Es erstattet den Einwohnergemeinden schriftlich oder elektronisch Meldung, falls Unterschiede in den Einträgen bestehen, damit die Einwohnergemeinden Unstimmigkeiten in ihren amtlichen Registern bereinigen können.
+**Informatikkonferenz Kanton-Gemeinden (IKG)**
 
-## 5. Weitere Bestimmungen
+<sup>1</sup> Die IKG ist verantwortlich für
 
-#### § 11
+- 1\. die Verabschiedung der Anforderungen an den Datenschutz und die Datensicherheit, welche die kantonalen Personenregister in Bezug auf die Personendaten aus den Einwohnerregistern erfüllen müssen;
+- 2\. die Verabschiedung der Regeln zur Prüfung der Personendatenlieferungen aus den Einwohnerregistern;
+- 3\. die Genehmigung des Verfahrens zur Löschung der aus den Einwohnerregistern gelieferten Personendaten;
+- 4\. die Genehmigung des Verfahrens zur Gewährleistung der Rechte der betroffenen Personen;
+- 5\. die Genehmigung des Verfahrens zur Berücksichtigung von Datensperren;
+- 6\. die Genehmigung von bedarfsgerechten Abrufverfahren;
+- 7\. die Stellungnahme zu Gesuchen um Zugriff auf Personendaten und besonders schützenswerte Personendaten der kantonalen Personenregister.
 
-**Datensperre**
+#### § 20
 
-<sup>1</sup> Sperrvermerke in der Einwohnerkontrolle nach § 9 des Datenschutzgesetzes[^11-1] gelten in gleicher Weise auch für die kantonalen Informatik- und Kommunikationsmittel.
+**Zuständiges Amt[^20-1]**
 
-<sup>2</sup> Einzelauskünfte und systematisch geordnete Datenbekanntgaben aus den kantonalen Informatik- und Kommunikationsmittel an Private sind unzulässig. Im Übrigen gelten die Bestimmungen des Datenschutzgesetzes.
+<sup>1</sup> Das zuständige Amt ist verantwortlich für
 
-[^11-1]: BGS [157.1](https://bgs.zg.ch/data/157.1/de)
+- 1\. den Betrieb der kantonalen Personenregister und die Sicherheit der für den Betrieb notwendigen Informatikmittel;
+- 2\. die Erarbeitung der von den kantonalen Personenregistern zu erfüllenden Anforderungen an den Datenschutz und die Datensicherheit nach Rücksprache mit der kantonalen Datenschutzstelle;
+- 3\. die Gewährleistung der Sicherheit der Daten, die in den kantonalen Personenregistern bearbeitet werden;
+- 4\. die Festlegung der technischen Anforderungen an die Datenlieferungen und die Schnittstellen nach Rücksprache mit der kantonalen Datenschutzstelle;
+- 5\. die Koordination und Verwaltung der Zugriffe auf Daten der kantonalen Personenregister;
+- 6\. die Qualitätskontrolle und die Meldung von Unstimmigkeiten zuhanden der datenliefernden Organe.
 
-#### § 12
+<sup>2</sup> Es erstellt periodisch einen Bericht über den Betrieb der kantonalen Personenregister zuhanden der IKG und der zuständigen Direktion.
 
-**Ausführungsbestimmungen**
+[^20-1]: Amt für Informatik und Organisation (AIO)
 
-<sup>1</sup> Der Regierungsrat erlässt Bestimmungen zum Vollzug dieses Gesetzes, insbesondere über
+## 7. Übergangs- und Schlussbestimmungen
 
-- a) die technischen Anforderungen an die Datenlieferung und die Schnittstellen;
-- b) das Meldeverfahren.
+#### § 21
 
-## 6. Übergangs- und Schlussbestimmungen
+**Übergangsbestimmung**
 
-#### § 13
+<sup>1</sup> Die folgenden kantonalen Register können bis zur Ablösung der jeweiligen IT-Anwendungen die ZPK-Nummer weiterführen:
 
-**Änderung bisherigen Rechts[^13-1]**
+- 1\. das Steuerregister;
+- 2\. das Handelsregister;
+- 3\. das Grundbuch;
+- 4\. das Einbürgerungsregister;
+- 5\. der Debitoren- und Kreditorenstamm (Finanz- und Rechnungswesen der Finanzdirektion);
+- 6\. die Register beim Strassenverkehrsamt;
+- 7\. die Schulverwaltungsregister der kantonalen Schulen, welche die ZPK-Nummer führen;
+- 8\. die Berufsbildungsregister des Amts für Berufsbildung;
+- 9\. das Benutzerregister des Amts für Informatik und Organisation.
 
-[^13-1]: GS 22, 95; die Änderungen sind im GG publiziert (BGS [171.1](https://bgs.zg.ch/data/171.1/de))
+<sup>2</sup> Die folgenden gemeindlichen Register können bis zur Ablösung der jeweiligen IT-Anwendungen die ZPK-Nummer weiterführen:
 
-#### § 14
+- 1\. die Einwohnerregister;
+- 2\. die Kreditoren- und Debitorenbuchhaltungen der Einwohnergemeinden;
+- 3\. die Schulverwaltungsregister der Einwohnergemeinden.
 
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz unterliegt dem fakultativen Referendum gemäss § 34 Kantonsverfassung. Es tritt nach unbenutztem Ablauf der Referendumsfrist oder nach Annahme in der Volksabstimmung an einem vom Regierungsrat festgelegten Termin in Kraft[^14-1].
-
-[^14-1]: Inkrafttreten am 1. Jan. 2009
-
-GS 30, 31
+GS 2023/013
