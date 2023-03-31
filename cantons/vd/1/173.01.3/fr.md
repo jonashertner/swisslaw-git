@@ -4,7 +4,7 @@ number: "173.01.3"
 title: "RÈGLEMENT du 13.11.2007 d'administration de l'ordre judiciaire (RAOJ)"
 short: RAOJ
 language: fr
-version: 2018-05-01
+version: 2023-04-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01.3?id=9c134424-7fd2-40f0-a13d-61a69f560f01"
 ---
 
@@ -36,7 +36,7 @@ arrête
 <sup>2</sup> Ces organes sont :
 
 - a. la Cour plénière ;
-- b. l'autorité de surveillance ;
+- b. ...
 - c. la Cour administrative ;
 - d. le président du Tribunal cantonal et le vice-président ;
 - e. le secrétaire général ;
@@ -80,27 +80,26 @@ arrête
 
 *a) Nominations au début de la législature*
 
-<sup>1</sup> Dans le mois de janvier de la première année de chaque législature, la Cour plénière nomme pour cinq ans les magistrats judiciaires professionnels énumérés à l'article 17 LOJV[^4-1] , sur préavis de la Cour administrative.
+<sup>1</sup> Dans le mois de janvier de la troisième année suivant celle du renouvellement du Grand Conseil, la Cour plénière nomme pour cinq ans les magistrats judiciaires professionnels énumérés à l'article 17 LOJV, à l'exception des juges cantonaux, sur préavis de la Cour administrative (art. 24 al. 1 LOJV).
 
 [^3-1]: Modif. 11 du 21.03.2023: Modification Al. 1; entrée en vigueur au 01.04.2023
-[^4-1]: Loi du 12.12.1979 d'organisation judiciaire ([BLV 173.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01?id=7d019c5e-73a0-4d1f-aec6-f5ae04647e72))
 
 #### Art. 5
 
-**b) Nominations en cours de législature [^4-2]**
+**Nominations en cours de législature [^4-1]**
 
-<sup>1</sup> En cas de vacance au cours des cinq ans, la Cour plénière procède à la nomination des magistrats indiqués à l'article précédent, pour la fin de la période, sur préavis de la Cour administrative.
+<sup>1</sup> En cas de vacance au cours des cinq ans, la Cour plénière procède à la nomination des magistrats indiqués à l'article précédent, pour la fin de la période, sur préavis de la Cour administrative (art. 24 al. 2 LOJV).
 
 <sup>2</sup> Elle nomme des magistrats ad hoc lorsque la durée du mandat excède la compétence de la Cour administrative (art. 63 LOJV[^5-1] et 22, al. 2 ci-après).
 
-[^4-2]: Modif. 11 du 21.03.2023: Modification tArt; entrée en vigueur au 01.04.2023; Modification Al. 1; entrée en vigueur au 01.04.2023
+[^4-1]: Modif. 11 du 21.03.2023: Modification tArt; entrée en vigueur au 01.04.2023; Modification Al. 1; entrée en vigueur au 01.04.2023
 [^5-1]: Loi du 12.12.1979 d'organisation judiciaire ([BLV 173.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01?id=7d019c5e-73a0-4d1f-aec6-f5ae04647e72))
 
 #### Art. 5a
 
 **Chambre des avocats [^5-2]**
 
-<sup>1</sup> Dans le mois de janvier de la première année de chaque législature, la Cour plénière nomme pour cinq ans les membres et membres suppléants de la Chambre des avocats, sur préavis de la Cour administrative.
+<sup>1</sup> Dans le mois de janvier de la troisième année suivant celle du renouvellement du Grand Conseil, la Cour plénière nomme pour cinq ans les membres et membres suppléants de la Chambre des avocats, sur préavis de la Cour administrative.
 
 <sup>2</sup> En cas de vacance au cours des cinq ans, la Cour procède à une nomination pour la fin de la période selon les mêmes modalités.
 
@@ -130,31 +129,29 @@ arrête
 
 [^8-1]: Modif. 11 du 21.03.2023: Abrogation ; entrée en vigueur au 01.04.2023
 
-### Section III Autorité de surveillance
+### Section III ...
 
 [^8-1]
 
 #### Art. 9
 
-**Compétences [^sectionSectionIII-1]**
+**... [^sectionSectionIII-1]**
 
-<sup>1</sup> L'autorité de surveillance est compétente en matière disciplinaire et de renvoi pour justes motifs en ce qui concerne les magistrats (art. 31b, al. 1 LOJV[^9-1] ).
+<sup>1</sup> ...
 
-<sup>2</sup> Elle intervient d'office ou sur dénonciation.
+<sup>2</sup> ...
 
 <sup>3</sup> …
 
 [^sectionSectionIII-1]: Modif. 1 du 02.12.2008: Modification Al. 3; entrée en vigueur au 01.01.2009 · Modif. 5 du 20.11.2012: Abrogation Al. 3; entrée en vigueur au 01.01.2013 · Modif. 11 du 21.03.2023: Abrogation tArt; entrée en vigueur au 01.04.2023; Abrogation Al. 1-2; entrée en vigueur au 01.04.2023
-[^9-1]: Loi du 12.12.1979 d'organisation judiciaire ([BLV 173.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01?id=7d019c5e-73a0-4d1f-aec6-f5ae04647e72))
 
 #### Art. 10
 
-**Organisation et procédure [^9-2]**
+**... [^9-1]**
 
-<sup>1</sup> L'organisation de l'autorité de surveillance ainsi que les procédures qui régissent son fonctionnement sont définies par la loi (art. 31 à 45 LOJV[^10-1] ).
+...
 
-[^9-2]: Modif. 11 du 21.03.2023: Abrogation tArt; entrée en vigueur au 01.04.2023; Abrogation Al. 1; entrée en vigueur au 01.04.2023
-[^10-1]: Loi du 12.12.1979 d'organisation judiciaire ([BLV 173.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01?id=7d019c5e-73a0-4d1f-aec6-f5ae04647e72))
+[^9-1]: Modif. 11 du 21.03.2023: Abrogation tArt; entrée en vigueur au 01.04.2023; Abrogation Al. 1; entrée en vigueur au 01.04.2023
 
 ### Section IV Cour administrative
 
@@ -253,26 +250,25 @@ arrête
 
 **Nominations [^20-1]**
 
-*a) Au début de la législature*
+*a) au début de la législature*
 
-<sup>1</sup> Dans le mois de janvier de la première année de chaque législature, la Cour administrative nomme pour cinq ans :
+<sup>1</sup> Dans le mois de janvier de la troisième année suivant celle du renouvellement du Grand Conseil, la Cour administrative nomme pour cinq ans :
 
-- a. les magistrats judiciaires, à l'exception des magistrats professionnels énumérés à l'article 17 LOJV[^21-1] ;
-- b. les experts du Tribunal des baux (art. 4, al. 1, litt. c LJB[^21-2] ) ;
+- a. les magistrats judiciaires, à l'exception des magistrats professionnels énumérés à l'article 17 LOJV (art. 24 al. 1 LOJV).
+- b. les experts du Tribunal des baux (art. 4, al. 1, litt. c LJB[^21-1] ) ;
 - c. ...
-- d. les membres et suppléants de la Chambre des agents d'affaires brevetés, sur préavis de l'Association des agents d'affaires brevetés (art. 54 LPAg[^21-3] ) ;
+- d. les membres et suppléants de la Chambre des agents d'affaires brevetés, sur préavis de l'Association des agents d'affaires brevetés (art. 54 LPAg[^21-2] ) ;
 - e. les membres de la Chambre patrimoniale cantonale (art. 96f, al. 3 LOJV).
 
 [^20-1]: Modif. 2 du 07.12.2010: Modification Al. 1; entrée en vigueur au 01.01.2011 · Modif. 8 du 08.12.2015: Modification Al. 1 d; entrée en vigueur au 01.01.2016; Abrogation Al. 1 c; entrée en vigueur au 01.01.2016 · Modif. 11 du 21.03.2023: Modification tArt; entrée en vigueur au 01.04.2023; Modification Al. 1; entrée en vigueur au 01.04.2023; Modification Al. 1, a; entrée en vigueur au 01.04.2023
-[^21-1]: Loi du 12.12.1979 d'organisation judiciaire ([BLV 173.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01?id=7d019c5e-73a0-4d1f-aec6-f5ae04647e72))
-[^21-2]: Loi du 16.12.2009 sur la juridiction en matière de bail ([BLV 173.655](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.655?id=8369a114-8c7e-4fdb-8ff7-fac85f0d7d68))
-[^21-3]: Loi du 20.05.1957 sur la profession d'agent d'affaires breveté ([BLV 179.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/179.11?id=7eb2252b-e93f-49e7-979f-bef7420cf38d))
+[^21-1]: Loi du 16.12.2009 sur la juridiction en matière de bail ([BLV 173.655](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.655?id=8369a114-8c7e-4fdb-8ff7-fac85f0d7d68))
+[^21-2]: Loi du 20.05.1957 sur la profession d'agent d'affaires breveté ([BLV 179.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/179.11?id=7eb2252b-e93f-49e7-979f-bef7420cf38d))
 
 #### Art. 22
 
-**b) En cours de législature [^21-4]**
+**En cours de législature [^21-3]**
 
-<sup>1</sup> En cas de vacance au cours des cinq ans, la Cour administrative procède aux nominations nécessaires.
+<sup>1</sup> En cas de vacance au cours des cinq ans, la Cour administrative procède aux nominations nécessaires (art. 24 al. 2 LOJV).
 
 <sup>2</sup> Elle nomme des magistrats ad hoc pour une durée de six mois au plus lorsque les circonstances le justifient (art. 63 LOJV[^22-1] ).
 
@@ -280,7 +276,7 @@ arrête
 
 <sup>4</sup> Elle nomme, pour deux ans renouvelables, les membres de la Commission de liaison (art. 12a, al. 2 RMCA[^22-3] ).
 
-[^21-4]: Modif. 8 du 08.12.2015: Introduction Al. 3; entrée en vigueur au 01.01.2016 · Modif. 10 du 01.05.2018: Introduction Al. 4; entrée en vigueur au 01.05.2018 · Modif. 11 du 21.03.2023: Modification tArt; entrée en vigueur au 01.04.2023; Modification Al. 1; entrée en vigueur au 01.04.2023
+[^21-3]: Modif. 8 du 08.12.2015: Introduction Al. 3; entrée en vigueur au 01.01.2016 · Modif. 10 du 01.05.2018: Introduction Al. 4; entrée en vigueur au 01.05.2018 · Modif. 11 du 21.03.2023: Modification tArt; entrée en vigueur au 01.04.2023; Modification Al. 1; entrée en vigueur au 01.04.2023
 [^22-1]: Loi du 12.12.1979 d'organisation judiciaire ([BLV 173.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01?id=7d019c5e-73a0-4d1f-aec6-f5ae04647e72))
 [^22-2]: Loi du 24.09.2002 sur la profession d'avocat ( [BLV 177.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/177.11?id=c376d796-48c5-499e-bb81-549558afdb63))
 [^22-3]: Règlement du 22.06.2010 sur les médiateurs civils agréés ([BLV 211.01.4](https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.01.4?id=890e27d0-9a1c-4282-ae21-e245383c8480))
@@ -295,7 +291,7 @@ arrête
 
 **d) Collaborateurs [^23-1]**
 
-<sup>1</sup> La Cour administrative est l'autorité d'engagement du secrétaire général adjoint, du chargé de communication, des préposés aux poursuites et faillites et du préposé au registre du commerce.
+<sup>1</sup> La Cour administrative est l'autorité d'engagement du secrétaire général adjoint, du responsable de communication, des préposés aux poursuites et faillites et du préposé au registre du commerce.
 
 <sup>2</sup> Hormis le Tribunal cantonal et le Tribunal neutre, la Cour administrative désigne pour chaque autorité judiciaire (art. 2 LOJV[^24-1] ) un chef d'office parmi les magistrats professionnels qui la composent.
 
@@ -310,7 +306,7 @@ arrête
 
 <sup>1</sup> La Cour administrative rappelle à l'ordre les magistrats judiciaires (art. 31, al. 2 LOJV[^25-1] ).
 
-<sup>2</sup> Elle peut soumettre un cas particulier à l'autorité de surveillance.
+<sup>2</sup> Elle peut soumettre un cas particulier au Conseil de la magistrature.
 
 [^24-2]: Modif. 11 du 21.03.2023: Modification Al. 2; entrée en vigueur au 01.04.2023
 [^25-1]: Loi du 12.12.1979 d'organisation judiciaire ([BLV 173.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01?id=7d019c5e-73a0-4d1f-aec6-f5ae04647e72))
@@ -342,9 +338,9 @@ arrête
 
 #### Art. 29
 
-**Description de postes [^28-1]**
+**Cahier des charges [^28-1]**
 
-<sup>1</sup> La Cour administrative adopte les descriptions de postes du secrétaire général, de ses adjoints, des chefs d'office et de leurs remplaçants, ainsi que des premiers greffiers.
+<sup>1</sup> La Cour administrative adopte les cahiers des charges du secrétaire général, du secrétaire général adjoint, du responsable de communication ainsi que des chefs d'office.
 
 [^28-1]: Modif. 11 du 21.03.2023: Modification tArt; entrée en vigueur au 01.04.2023; Modification Al. 1; entrée en vigueur au 01.04.2023
 
@@ -403,21 +399,18 @@ arrête
 
 **Examens professionnels [^34-2]**
 
-<sup>1</sup> La Cour administrative nomme, sur proposition des présidents des commissions concernées, les membres des commissions d'examens pour l'obtention du brevet d'agent d'affaires breveté (art. 16 LPAg[^35-1] ) et de préposé aux poursuites et faillites (art. 10 LVLP[^35-2] ), ainsi que les membres chargés de l'examen d'aptitude pour les représentants professionnels autorisés conformément à l'article 27, alinéa 2 LP[^35-3] (art. 5 RRPLP ).
+<sup>1</sup> La Cour administrative nomme, sur proposition des présidents des commissions concernées, les membres des commissions d'examens pour l'obtention du brevet d'agent d'affaires breveté (art. 16 LPAg ) et de préposé aux poursuites et faillites (art. 10 LVLP).
 
-<sup>2</sup> En fonction du nombre prévisible de candidats et de sessions d'examens, elle nomme pour deux ans les personnes susceptibles de fonctionner dans la commission d'examens d'avocat (art. 33, al. 1 LPAv[^35-4] ).
+<sup>2</sup> En fonction du nombre prévisible de candidats et de sessions d'examens, elle nomme pour deux ans les personnes susceptibles de fonctionner dans la commission d'examens d'avocat (art. 33, al. 1 LPAv[^35-1] ).
 
-<sup>3</sup> Au vu du rapport de la commission d'examens, elle accorde ou refuse les brevets ou l'autorisation mentionnés à l'alinéa 1 (art. 35, al. 1 LPAv, art. 15 LPAg, art. 6 RRPLP).
+<sup>3</sup> Au vu du rapport de la commission d'examens, elle accorde ou refuse les brevets mentionnés à l'alinéa 1 (art. 35, al. 1 LPAv, art. 15 LPAg).
 
 [^34-2]: Modif. 8 du 08.12.2015: Modification Al. 1,2; entrée en vigueur au 01.01.2016; Introduction Al. 3; entrée en vigueur au 01.01.2016 · Modif. 11 du 21.03.2023: Modification Al. 1,3; entrée en vigueur au 01.04.2023
-[^35-1]: Loi du 20.05.1957 sur la profession d'agent d'affaires breveté ([BLV 179.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/179.11?id=7eb2252b-e93f-49e7-979f-bef7420cf38d))
-[^35-2]: Loi du 18.05.1955 d'application dans le Canton de Vaud de la loi fédérale du 11.04.1889 sur la poursuite pour dettes et la faillite ([BLV 280.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/280.05?id=1a1aecbf-aadc-4d0a-b52a-8e2e505ccad4))
-[^35-3]: [Loi fédérale du 11.04.1889 sur la poursuite pour dettes et la faillite, RS 281.1](https://www.admin.ch/opc/fr/classified-compilation/18890002/index.html)
-[^35-4]: Loi du 24.09.2002 sur la profession d'avocat ( [BLV 177.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/177.11?id=c376d796-48c5-499e-bb81-549558afdb63))
+[^35-1]: Loi du 24.09.2002 sur la profession d'avocat ( [BLV 177.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/177.11?id=c376d796-48c5-499e-bb81-549558afdb63))
 
 #### Art. 36
 
-**Avocats et agents d'affaires brevetés [^35-5]**
+**Avocats et agents d'affaires brevetés [^35-2]**
 
 <sup>1</sup> La Cour administrative :
 
@@ -431,7 +424,7 @@ arrête
 - h. fixe les indemnités allouées aux membres de la Chambre des avocats et de la Chambre du stage (art. 18 LPAv) ;
 - i. ...
 
-[^35-5]: Modif. 5 du 20.11.2012: Modification Al. 1 a,d,e,g,h; entrée en vigueur au 01.01.2013; Abrogation Al. 1 f,i; entrée en vigueur au 01.01.2013 · Modif. 8 du 08.12.2015: Modification Al. 1 a-c,h; entrée en vigueur au 01.01.2016; Abrogation Al. 1 d; entrée en vigueur au 01.01.2016 · Modif. 9 du 07.11.2017: Modification Al. 1a, 1b, 1c, 1g, 1h, t; entrée en vigueur au 01.01.2018; Abrogation Al. 1e; entrée en vigueur au 01.01.2018
+[^35-2]: Modif. 5 du 20.11.2012: Modification Al. 1 a,d,e,g,h; entrée en vigueur au 01.01.2013; Abrogation Al. 1 f,i; entrée en vigueur au 01.01.2013 · Modif. 8 du 08.12.2015: Modification Al. 1 a-c,h; entrée en vigueur au 01.01.2016; Abrogation Al. 1 d; entrée en vigueur au 01.01.2016 · Modif. 9 du 07.11.2017: Modification Al. 1a, 1b, 1c, 1g, 1h, t; entrée en vigueur au 01.01.2018; Abrogation Al. 1e; entrée en vigueur au 01.01.2018
 [^36-1]: Loi du 24.09.2002 sur la profession d'avocat ( [BLV 177.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/177.11?id=c376d796-48c5-499e-bb81-549558afdb63))
 [^36-2]: [Code pénal suisse du 21.12.1937, RS 311.0](https://www.admin.ch/opc/fr/classified-compilation/19370083/index.html)
 
@@ -490,7 +483,7 @@ arrête
 
 **En général [^sectionSectionVII-1]**
 
-<sup>1</sup> Le secrétaire général assume la direction administrative de l'ordre judiciaire. Il est assisté par des adjoints.
+<sup>1</sup> Le secrétaire général assume la direction administrative de l'ordre judiciaire. Il est assisté par un secrétaire général adjoint.
 
 <sup>2</sup> Dans ses domaines de compétence, il exerce les fonctions de chef de service, en particulier au sens de la loi du 12 novembre 2001 sur le personnel de l'Etat de Vaud[^41-1] et de ses dispositions d'application[^41-2] .
 
@@ -578,17 +571,17 @@ arrête
 
 <sup>1</sup> Le secrétaire général adopte les décisions d'organisation des offices judiciaires.
 
-<sup>2</sup> Il organise le secrétariat général et détermine les attributions qu'il délègue à chacun de ses adjoints.
+<sup>2</sup> Il organise le secrétariat général et détermine les attributions qu'il délègue au secrétaire général adjoint et aux autres collaborateurs du Secrétariat général.
 
 [^50-1]: Modif. 11 du 21.03.2023: Modification Al. 2; entrée en vigueur au 01.04.2023
 
 #### Art. 52
 
-**b) Description et niveau des postes [^51-1]**
+**Cahier des charges et niveau des postes [^51-1]**
 
-<sup>1</sup> Le secrétaire général établit les descriptions de postes de ses adjoints, des chefs d'office et de leurs remplaçants ainsi que des premiers greffiers. Il les soumet à la Cour administrative.
+<sup>1</sup> Le secrétaire général établit les cahiers des charges du secrétaire général adjoint, du responsable de communication et des chefs d'office. Il les soumet à la Cour administrative.
 
-<sup>2</sup> Il adopte les descriptions de postes des autres collaborateurs du Secrétariat général.
+<sup>2</sup> Il adopte les cahiers des charges des autres collaborateurs du Secrétariat général.
 
 [^51-1]: Modif. 11 du 21.03.2023: Modification tArt; entrée en vigueur au 01.04.2023; Modification Al. 1-2; entrée en vigueur au 01.04.2023
 
@@ -667,7 +660,7 @@ arrête
 - b. des magistrats et collaborateurs de l'ordre judiciaire, ainsi que des experts du Tribunal des baux ;
 - c. des avocats, des avocats-conseils et des stagiaires ;
 - d. des agents d'affaires brevetés ;
-- e. des porteurs du certificat de capacité pour l'exercice de la profession d'agent d'affaires breveté ;
+- e. ...
 - f. des stagiaires d'un agent d'affaires breveté.
 
 <sup>2</sup> Il tient à jour les registres prescrits par la loi sur la profession d'avocat [^61-1] et la loi sur la profession d'agent d'affaires breveté [^61-2] .
@@ -739,9 +732,9 @@ arrête
 
 #### Art. 67
 
-**b) Description des postes [^66-1]**
+**b) Cahier des charges [^66-1]**
 
-<sup>1</sup> Le chef d'office établit et tient à jour les descriptions de poste de chacun de ses collaborateurs.
+<sup>1</sup> Le chef d'office établit et tient à jour les cahiers des charges de chacun de ses collaborateurs
 
 [^66-1]: Modif. 11 du 21.03.2023: Modification tArt; entrée en vigueur au 01.04.2023; Modification Al. 1; entrée en vigueur au 01.04.2023
 
@@ -950,12 +943,11 @@ arrête
 
 <sup>1</sup> Le magistrat qui doit prendre sa retraite ou résigner sa charge pour raison d'âge reste en charge jusqu'à la fin du mois au cours duquel il atteint l'âge prévu par la loi.
 
-<sup>2</sup> L'application de l'article 48, alinéa 3 LOJV[^91-1] est réservée.
+<sup>2</sup> ...
 
 <sup>3</sup> Dans la mesure où le magistrat résigne sa charge avant d'y être tenu par la loi, il prévient la Cour administrative de la date pour laquelle il y renonce moyennant un préavis de six mois.
 
 [^90-1]: Modif. 11 du 21.03.2023: Abrogation Al. 2; entrée en vigueur au 01.04.2023
-[^91-1]: Loi du 12.12.1979 d'organisation judiciaire ([BLV 173.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01?id=7d019c5e-73a0-4d1f-aec6-f5ae04647e72))
 
 ## Chapitre IV Règles diverses
 
@@ -989,12 +981,11 @@ arrête
 
 #### Art. 95
 
-**Enquête disciplinaire (art. 14, al. 2 LP) [^94-1]**
+**... [^94-1]**
 
-<sup>1</sup> La procédure disciplinaire dirigée contre un collaborateur d'un office des poursuites et faillites est régie par analogie par les articles 33 à 45 LOJV[^95-1] .
+...
 
 [^94-1]: Modif. 11 du 21.03.2023: Abrogation tArt; entrée en vigueur au 01.04.2023; Abrogation Al. 1; entrée en vigueur au 01.04.2023
-[^95-1]: Loi du 12.12.1979 d'organisation judiciaire ([BLV 173.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01?id=7d019c5e-73a0-4d1f-aec6-f5ae04647e72))
 
 #### Art. 96
 
