@@ -3,24 +3,24 @@ canton: LU
 number: "275"
 title: Verordnung über die Staatsanwaltschaft
 language: de
-version: 2021-01-01
-valid_until: 2023-03-31
-version_adopted: 2020-12-09
+version: 2023-04-01
+valid_until: 2024-12-31
+version_adopted: 2023-02-28
 adopted: 2010-12-14
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/275"
-pdf: "https://srl.lu.ch/api/de/versions/3687/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4063/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Staatsanwaltschaft
 
-vom 14.12.2010 (Stand 01.01.2021)
+vom 14.12.2010 (Stand 01.04.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 64 Absatz 3, 70 Absatz 3, 74 Absatz 3, 78 Absatz 2 und 87 Absatz 4 des Justizgesetzes vom 10. Mai 2010[^ingress-1], auf Artikel 367 Absatz 5 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937[^ingress-2], auf Artikel 14 Absatz 2 der Verordnung über das Strafregister (Vostra-Verordnung) vom 29. September 2006[^ingress-3], auf Artikel 22 der Verordnung über die Bearbeitung biometrischer erkennungsdienstlicher Daten vom 6. Dezember 2013[^ingress-4] und auf Artikel 12 der DNA-Profil-Verordnung vom 3. Dezember 2004[^ingress-5],
+gestützt auf die §§ 64 Absatz 3, 70 Absatz 3, 74 Absatz 3, 78 Absatz 2 und 87 Absatz 4 des Justizgesetzes vom 10. Mai 2010[^ingress-1], auf Artikel 367 Absatz 5 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937[^ingress-2], auf Artikel 22 der Verordnung über die Bearbeitung biometrischer erkennungsdienstlicher Daten vom 6. Dezember 2013[^ingress-3] und auf Artikel 12 der DNA-Profil-Verordnung vom 3. Dezember 2004[^ingress-4],
 
 auf Antrag des Justiz- und Sicherheitsdepartementes,
 
@@ -28,9 +28,8 @@ beschliesst:
 
 [^ingress-1]: SRL Nr. [260](https://srl.lu.ch/data/260/de)
 [^ingress-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
-[^ingress-3]: SR [331](https://db.clex.ch/link/Bund/331/de)
-[^ingress-4]: SR [361.3](https://db.clex.ch/link/Bund/361.3/de)
-[^ingress-5]: SR [363.1](https://db.clex.ch/link/Bund/363.1/de)
+[^ingress-3]: SR [361.3](https://db.clex.ch/link/Bund/361.3/de)
+[^ingress-4]: SR [363.1](https://db.clex.ch/link/Bund/363.1/de)
 
 ## 1 Gliederung und Leitung
 
@@ -165,13 +164,13 @@ beschliesst:
 
 **Strafregisterdaten**
 
-<sup>1</sup> Die Berechtigung von Behörden zur Eintragung, zur Abfrage und zur Entfernung von Daten aus dem automatisierten Strafregister sowie zum Einholen von Registerauszügen richtet sich nach der eidgenössischen Verordnung über das Strafregister (Vostra-Verordnung) vom 29. September 2006[^12-1].
+<sup>1</sup> Die Berechtigung von Behörden zur Eintragung, zur Abfrage und zur Entfernung von Daten aus dem automatisierten Strafregister sowie zum Einholen von Registerauszügen richtet sich nach dem Bundesgesetz über das Strafregister-Informationssystem VOSTRA (Strafregistergesetz) vom 17. Juni 2016[^12-1].
 
 <sup>2</sup> Die Staatsanwaltschaft ist die kantonale Koordinationsstelle und steht hierin unter der Aufsicht des Justiz- und Sicherheitsdepartementes.
 
-<sup>3</sup> Die kantonale Koordinationsstelle erfüllt die Aufgaben nach Artikel 14 der Vostra-Verordnung für alle kantonalen Behörden und unterstützt die am Strafregister angeschlossenen kantonalen Behörden bei der Handhabung des Registers.
+<sup>3</sup> Die kantonale Koordinationsstelle erfüllt die Aufgaben nach Artikel 4 des Strafregistergesetzes für alle kantonalen Behörden und unterstützt die am Strafregister angeschlossenen kantonalen Behörden bei der Handhabung des Registers.
 
-[^12-1]: SR [331](https://db.clex.ch/link/Bund/331/de). Auf diese Verordnung wird im Folgenden nicht mehr hingewiesen.
+[^12-1]: SR [330](https://db.clex.ch/link/Bund/330/de)
 
 #### § 12a
 
