@@ -3,17 +3,16 @@ canton: ZH
 number: "414.253.611"
 title: Studienordnung für den Bachelorstudiengang Soziale Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2023-04-01
+version: "2023-04-01"
+nachtrag: "120"
 adopted: 2010-11-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_611-2010_11_08-2011_08_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_611-2010_11_08-2011_08_01-120.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Studienordnung für den Bachelorstudiengang Soziale Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften
+# Studienordnung für den Bachelorstudiengang Soziale Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften
 
 (vom 8. November 2010)[^t-1],[^t-2]
 
@@ -75,7 +74,7 @@ Wer ein Modul nicht besteht, muss die nicht bestandenen Leistungsnachweise des M
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Die Einzelheiten zur Aufnahmeprüfung werden im Anhang geregelt.
 
@@ -91,7 +90,7 @@ Wer ein Modul nicht besteht, muss die nicht bestandenen Leistungsnachweise des M
 
 <sup>3</sup> Die Studienleitung ist für die Eignungsabklärung zuständig und entscheidet über die Zulassung zum Studium.
 
-**Endgültige Abweisung an einer anderen Hochschule**
+**Endgültige  Abweisung an einer anderen Hochschule**
 
 § 7 a.[^7-1] Studienanwärterinnen und Studienanwärter, die an einer anderen Hochschule im Fachbereich Soziale Arbeit endgültig abgewiesen wurden, werden nicht zugelassen.
 
@@ -107,7 +106,7 @@ Die Praxisausbildung findet in einer vom Departement Soziale Arbeit anerkannten 
 
 #### § 9
 
-**Studierende in der Praxisausbildung**
+**Studierende in der Praxisausbildung**
 
 <sup>1</sup> Die Studierenden absolvieren die Praxisausbildung als Mitarbeiterin oder Mitarbeiter in Ausbildung oder als Praktikantin oder Praktikant.
 
@@ -164,19 +163,27 @@ Die Praxisausbildung findet in einer vom Departement Soziale Arbeit anerkannten 
 
 Das Bachelordiplom wird erteilt, wenn die gemäss Anhang erforderlichen Module bestanden sind.
 
+[^14-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 508; ABl 2022-08-19). In Kraft seit 1. April 2023.
+
 #### § 15
 
-**Abschlussnote**
+**Abschlussnote a. allgemein**
 
-<sup>1</sup> Die Abschlussnote errechnet sich aus sämtlichen promotionsrelevanten Modulnoten.
+<sup>1</sup> Die Abschlussnote errechnet sich aus den Noten der gemäss Anhang relevanten Module.[^14-1]
 
 <sup>2</sup> Die Modulnoten werden grundsätzlich nach der Anzahl Credits eines Moduls gewichtet.
 
+<sup>3</sup> Die Praxismodule und das Bachelormodul können besonders gewichtet werden. Die Gewichtung wird im Anhang festgehalten.
+
 **3**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120 § 15 a.[^15-1] <sup>1</sup> Es können überzählige Wahlpflichtmodule belegt werden, sofern dies im Anhang vorgesehen ist.
 
-<sup>3</sup> Die Praxismodule und das Bachelormodul können besonders gewichtet werden. Die Gewichtung wird im Anhang festgehalten.
+**b. Credits aus Wahlpflichtmodulen**
+
+<sup>2</sup> Alle überzähligen Wahlpflichtmodule fliessen in die allfällige Modulgruppennote und in die Abschlussnote ein.
+
+[^15-1]: Eingefügt durch B vom 2. Juni 2022 (OS 77, 508; ABl 2022-08-19). In Kraft seit 1. April 2023.
 
 ### F. Schlussbestimmung
 
@@ -196,11 +203,7 @@ Diese Studienordnung ersetzt das Reglement betreffend den Bachelorstudiengang in
 
 <sup>2</sup> Die Studienleitung regelt die Anrechnung bereits erbrachter Leistungen durch individuelle Transferregelungen.
 
-[^17-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 508; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
-
-### Anhang zur Studienordnung für den Bachelorstudiengang Soziale Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften
-
-[^17-1]
+### Anhang<sup>7</sup> zur Studienordnung für den Bachelorstudiengang Soziale Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften
 
 Der Anhang zur Studienordnung für den Bachelorstudiengang Soziale Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
@@ -210,4 +213,4 @@ bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
