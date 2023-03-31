@@ -3,20 +3,20 @@ canton: BE
 number: "439.34"
 title: Grossratsbeschluss betreffend den Abschluss der Vereinbarung zwischen dem Kanton Bern und der Interkantonalen Hochschule für Heilpädagogik Zürich (HfH)
 language: de
-version: 2015-01-01
-valid_until: 2023-03-31
-version_adopted: 2004-04-21
+version: 2023-04-01
+valid_until: 2026-02-28
+version_adopted: 2023-02-15
 adopted: 2025-06-10
 in_force: 2026-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.34"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/493/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2821/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Grossratsbeschluss betreffend den Abschluss der Vereinbarung zwischen dem Kanton Bern und der Interkantonalen Hochschule für Heilpädagogik Zürich (HfH)
 
-vom 21.04.2004 (Stand 01.01.2015)
+vom 21.04.2004 (Stand 01.04.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -32,6 +32,8 @@ beschliesst:
 #### Art. 1
 
 <sup>1</sup> Die unter der BSG-Nummer 439.34-1 veröffentlichte Vereinbarung vom 22. September 2003/ 3. November 2003 zwischen dem Kanton Bern und der Interkantonalen Hochschule für Heilpädagogik Zürich (HfH) wird genehmigt.
+
+<sup>2</sup> Die Änderung vom 15. Februar 2023 / 4. März 2023 der Vereinbarung wird genehmigt.
 
 #### Art. 2
 
