@@ -3,28 +3,30 @@ canton: GL
 number: VIII E/21/6
 title: Verordnung über die Erteilung von Betriebsbewilligungen für stationäre Einrichtungen und deren Haftung
 language: de
-version: 2023-01-01
-valid_until: 2023-03-31
-version_adopted: 2022-11-29
+version: 2023-04-01
+version_adopted: 2023-03-14
 adopted: 2002-05-07
 in_force: 2002-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-E.21.6"
-pdf: "https://gesetze.gl.ch/api/de/versions/2383/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2414/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Erteilung von Betriebsbewilligungen für stationäre Einrichtungen und deren Haftung
 
-Vom 07.05.2002 (Stand 01.01.2023)
+Vom 07.05.2002 (Stand 01.04.2023)
 
 Der Regierungsrat,
 
-gestützt auf Artikel 39d Absatz 2 und Artikel 44 Absatz 2 des Gesetzes über die öffentliche Sozialhilfe (Sozialhilfegesetz)[^ingress-1] und die Bundesgesetzgebung über die Krankenversicherung, die Invalidenversicherung und die Aufnahme von Pflegekindern,
+gestützt auf Artikel 39d Absatz 2 und Artikel 44 Absatz 2 des Sozialhilfegesetzes (SHG)[^ingress-1], das Bundesgesetz über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG)[^ingress-2], das Bundesgesetz über die Krankenversicherung (KVG)[^ingress-3] und die Pflegekinderverordnung (PAVO)[^ingress-4],
 
-verordnet:
+erlässt:
 
 [^ingress-1]: GS [VIII E/21/3](https://gesetze.gl.ch/data/VIII-E.21.3/de)
+[^ingress-2]: SR 831.26
+[^ingress-3]: SR 832.10
+[^ingress-4]: SR 211.222.338
 
 ## 1. Betriebsbewilligungen
 
@@ -34,7 +36,19 @@ verordnet:
 
 <sup>1</sup> …
 
-<sup>2</sup> Die Voraussetzungen für die Erteilung von Betriebsbewilligungen, namentlich für Behinderten- sowie Kinderheime werden vom zuständigen Departement in Richtlinien festgelegt.
+<sup>2</sup> Die Erteilung einer Betriebsbewilligung an stationäre Einrichtungen nach Artikel 43 SHG setzt voraus, dass die Einrichtung:
+
+- a. über das erforderliche und geeignete Fachpersonal auf operativer und strategischer Ebene verfügt;
+- b. über eine zweckentsprechende Infrastruktur verfügt, welche dem Richtraumprogramm für Bauten der Invalidenversicherung des Bundesamtes für Sozialversicherungen und des Bundesamtes für Bauten und Logistik Rechnung trägt;
+- c. eine zweckentsprechende pharmazeutische Versorgung gewährleistet;
+- d. eine beratende Ärztin oder einen beratenden Arzt bezeichnet hat;
+- e. einen internen Beschwerdeweg sowie eine Ombudsstelle für Bewohnende, Angehörige und Mitarbeitende bezeichnet hat;
+- f. eine Qualitätssicherung betreibt und die Qualitätsrichtlinien der Konferenz der kantonalen Sozialdirektorinnen und Sozialdirektoren Ost und Zürich sowie des Kantons erfüllt.
+
+<sup>3</sup> Zusätzlich zu den Voraussetzungen nach Absatz 2 gelten:
+
+- a. für Einrichtungen im Behindertenbereich die Anerkennungsvoraussetzungen nach Artikel 5 IFEG;
+- b. für Einrichtungen für Kinder und Jugendliche die Voraussetzungen nach Artikel 14 ff. PAVO.
 
 #### Art. 2
 
@@ -44,11 +58,11 @@ verordnet:
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Departement für Volkswirtschaft und Inneres (Departement) erteilt und entzieht die Betriebsbewilligung und übt die Aufsicht aus.
+<sup>1</sup> Das Departement erteilt und entzieht die Betriebsbewilligung und übt die Aufsicht aus.
 
-<sup>2</sup> Die Bewilligung kann mit Auflagen und Weisungen verbunden werden. Das Departement erlässt hierüber Richtlinien.
+<sup>2</sup> Die Bewilligung kann mit Auflagen und Weisungen verbunden werden.
 
-<sup>3</sup> Es beauftragt die Hauptabteilung Soziales mit der Durchführung periodischer Aufsichtsbesuche. Diese erstattet dem Departement darüber schriftlich Bericht.
+<sup>3</sup> Die Hauptabteilung Soziales führt periodisch Aufsichtsbesuche durch und erstattet dem Departement darüber schriftlich Bericht.
 
 #### Art. 4
 
@@ -58,25 +72,25 @@ verordnet:
 
 #### Art. 5
 
-**Gesuch um Erteilung einer Bewilligung**
+**Bewilligungsgesuch**
 
 <sup>1</sup> Gesuche sind rechtzeitig, mindestens drei Monate vor der geplanten Eröffnung, der zuständigen Stelle einzureichen.
 
 <sup>2</sup> Dem Gesuch sind folgende Unterlagen beizulegen:
 
-- a. Angaben über die Trägerschaft, insbesondere Personen, Statuten, gegebenenfalls Handelsregisterauszug,
-- b. Konzept/Leitbild,
-- c. Angaben über die Klienten und Klientinnen (Pflege- / Betreuungsbedürftigkeit),
-- d. Angaben über die Heimleitung (Ausweise über die fachliche Qualifikation in Form von Diplomen, eidg. Fachausweisen usw. sowie ein Auszug aus dem Zentralstrafregister),
-- e. Angaben über die Ausbildung der Mitarbeitenden, die in der Pflege / Betreuung tätig sind,
-- f. Anzahl Plätze,
-- g. Stellenplan / Personalschlüssel,
-- h. Taxordnung,
-- i. Revisionsstelle,
-- j. Angaben über die ärztliche Versorgung,
-- k. Pläne (Situation, Grundriss, Querschnitt),
-- l. Aufenthaltsvereinbarung,
-- m. Personalreglement,
+- a. Angaben über die Trägerschaft, insbesondere Personen, Statuten, gegebenenfalls Handelsregisterauszug;
+- b. Leitbild und Betriebskonzept, insbesondere ein Notfall- und Katastrophen-, Pflege- und Betreuungs- sowie Hygienekonzept;
+- c. Angaben über die Klientinnen und Klienten (Pflege- / Betreuungsbedürftigkeit);
+- d. Angaben über die Leitungspersonen (Ausweise über die fachliche Qualifikation in Form von Diplomen, eidg. Fachausweisen usw. sowie ein Auszug aus dem Zentralstrafregister);
+- e. Angaben über die Ausbildung der Mitarbeitenden, die in der Pflege / Betreuung tätig sind;
+- f. Angaben über die Anzahl Plätze;
+- g. Stellenplan / Personalschlüssel;
+- h. Taxordnung;
+- i. Revisionsstellenbericht;
+- j. Angaben über die ärztliche Versorgung;
+- k. Pläne (Situation, Grundriss, Querschnitt);
+- l. Aufenthaltsvereinbarung;
+- m. Personalreglement;
 - n. Nachweis einer Ombudsstelle.
 
 #### Art. 6
@@ -85,9 +99,9 @@ verordnet:
 
 <sup>1</sup> Die Einrichtung darf erst eröffnet werden, wenn die Bewilligung vorliegt. Die zuständige Behörde entscheidet innert zweier Monate.
 
-<sup>2</sup> Die Bewilligung wird dem verantwortlichen Leiter / der verantwortlichen Leiterin der Einrichtung erteilt und der Trägerschaft angezeigt.
+<sup>2</sup> Die Bewilligung wird der Trägerschaft erteilt, sofern übergeordnetes Recht nichts anderes vorsieht.
 
-<sup>3</sup> Wechselt der verantwortliche Leiter / die verantwortliche Leiterin, so ist eine neue Bewilligung einzuholen.
+<sup>3</sup> Ein Wechsel in der operativen und strategischen Leitung ist der Aufsichtsbehörde frühzeitig mitzuteilen. Er hat eine Überprüfung der Bewilligungsvoraussetzungen zur Folge.
 
 #### Art. 7
 
@@ -113,11 +127,17 @@ verordnet:
 
 [^8a-1]: GS [II F/2](https://gesetze.gl.ch/data/II-F.2/de)
 
+## 3. Schluss- und Übergangsbestimmungen
+
 #### Art. 9
 
-**Übergangsbestimmungen**
+**…**
 
-<sup>1</sup> Bereits in Kraft stehende Betriebsbewilligungen gelten bis zum nächsten Wechsel der Leitung als erteilt.
+#### Art. 9a
+
+**Übergangsbestimmung zu den Änderungen vom 14. März 2023**
+
+<sup>1</sup> Bereits in Kraft stehende Betriebsbewilligungen gelten als erteilt.
 
 #### Art. 10
 
