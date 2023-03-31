@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Förderung der Produktion von 
 short: EnFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: de
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20230401-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230101/de"
 
 (Energieförderungsverordnung, EnFV)
 
-vom 1. November 2017 (Stand am 1. Januar 2023)
+vom 1. November 2017 (Stand am 1. April 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -355,14 +355,29 @@ Bezieht eine Anlage mehr Elektrizität aus dem Netz, als sie einspeist, so stell
 
 #### Art. 26
 
-**Bewirtschaftungsentgelt**
+**Bewirtschaftungsentgelt**[^26-1]
 
-Produzenten in der Direktvermarktung erhalten von der Vollzugsstelle pro kWh vierteljährlich ein Bewirtschaftungsentgelt in der Höhe von:
+<sup>1</sup> Produzenten in der Direktvermarktung erhalten von der Vollzugsstelle pro kWh eingespeiste Elektrizität vierteljährlich ein Bewirtschaftungsentgelt, das sich aus einem fixen Anteil für die Vermarktungskosten und einem variablen Anteil für die Ausgleichsenergiekosten zusammensetzt.
 
-- a. 0,55 Rappen bei Photovoltaik- und Windenergieanlagen;
-- b. 0,28 Rappen bei Wasserkraftanlagen;
-- c. 0,16 Rappen bei KVA;
-- d. 0,28 Rappen bei den übrigen Biomasseanlagen.
+<sup>2</sup> Die Höhe des fixen Anteils für die Vermarktungskosten beträgt für alle Technologien 0,11 Rp./kWh.
+
+<sup>3</sup>
+
+Der variable Anteil für die Ausgleichsenergiekosten berechnet sich als Produkt aus:
+
+- a. dem Verhältnis des Durchschnitts der Ausgleichsenergiepreise für einen Monat zum Durchschnitt der Ausgleichsenergiepreise der Jahre 2013–2015; und
+- b. dem Basisbetrag nach Absatz 4.
+
+<sup>4</sup>
+
+Der Basisbetrag entspricht:
+
+- a. bei Photovoltaik- und Windenergieanlagen: 0,44 Rp./kWh;
+- b. bei Wasserkraftanlagen: 0,17 Rp./kWh;
+- c. bei KVA: 0,05 Rp./kWh;
+- d. bei den übrigen Biomasseanlagen: 0,17 Rp./kWh.
+
+[^26-1]: Fassung gemäss Ziff. I der V vom 24. Mai 2023, in Kraft seit 1. April 2023 ([AS 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
 
 #### Art. 27
 
@@ -554,6 +569,14 @@ Die Erweiterung oder Erneuerung einer Anlage ist erheblich, wenn die Leistung de
 <sup>5</sup> Erfüllt eine Anlage die Voraussetzungen gemäss Artikel 38 Absatz 1<sup>quater</sup>, so wird zusätzlich zum Ansatz, der im Gebot angegeben wurde, der Höhenbonus gewährt.
 
 [^38a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+#### Art. 38b
+
+**Grundsatz für die Festsetzung der Einmalvergütung für Anlagen nach Artikel 71*a* EnG**[^38b-1]
+
+Die Einmalvergütung für Anlagen nach Artikel 71*a* Absatz 2 EnG entspricht den ungedeckten Kosten, maximal aber 60 Prozent der anrechenbaren Investitionskosten.
+
+[^38b-1]: Eingefügt durch Ziff. I der V vom 17. März 2023, in Kraft seit 1. April 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
 
 ### 2. Abschnitt: Reihenfolge der Berücksichtigung und Warteliste
 
@@ -767,6 +790,141 @@ Zu den Auktionen für die Einmalvergütung publiziert die Vollzugsstelle folgend
 - k. den durchschnittlichen, mengengewichteten Zuschlagswert in Franken pro kW;
 - l. den niedrigsten Gebotswert, für den ein Zuschlag erteilt wurde, in Franken pro kW;
 - m. den höchsten Gebotswert, für den ein Zuschlag erteilt wurde, in Franken pro kW.
+
+### 6. Abschnitt: Gesuchsverfahren für Anlagen nach Artikel 71*a* EnG
+
+[^chap4-sec6-1]
+
+[^chap4-sec6-1]: Eingefügt durch Ziff. I der V vom 17. März 2023, in Kraft seit 1. April 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
+
+#### Art. 46i
+
+**Gesuch**
+
+<sup>1</sup> Das Gesuch um Einmalvergütung für Anlagen nach Artikel 71*a* EnG ist beim BFE einzureichen.
+
+<sup>2</sup> Es kann erst gestellt werden, wenn eine rechtskräftige Baubewilligung für das Projekt vorliegt.
+
+<sup>3</sup> Es hat sämtliche Angaben und Unterlagen nach Anhang 2.1 Ziffer 5.1 sowie eine Wirtschaftlichkeitsrechnung zu enthalten.
+
+<sup>4</sup> Die Wirtschaftlichkeitsrechnung ist anhand der Vorgaben für die Berechnung der ungedeckten Kosten in Anhang 4 zu erstellen.
+
+#### Art. 46j
+
+**Zusicherung dem Grundsatz nach**
+
+Sind die Anspruchsvoraussetzungen nach Artikel 71*a* Absatz 2 EnG voraussichtlich erfüllt und stehen genügend Mittel zur Verfügung, so sichert das BFE die Einmalvergütung mit einer Verfügung dem Grundsatz nach zu und:
+
+- a. berechnet die voraussichtliche Höhe der Einmalvergütung zum Zeitpunkt der Zusicherung; sie entspricht den zu erwartenden ungedeckten Kosten;
+- b. setzt den Höchstbetrag, den die Einmalvergütung nicht überschreiten darf fest; er entspricht 60 Prozent der voraussichtlichen anrechenbaren Investitionskosten;
+- c. setzt gestützt auf die Buchstaben a und b den Zahlungsplan nach Artikel 46*q* fest.
+
+#### Art. 46k
+
+**Teilweise Einspeisung von Elektrizität und Inbetriebnahmefrist**
+
+<sup>1</sup> Bis zum 31. Dezember 2025 muss die Anlage mindestens zehn Prozent der erwarteten Produktion der gesamten geplanten Anlage oder 10 GWh Elektrizität pro Jahr ins Stromnetz einspeisen.
+
+<sup>2</sup> Die vollständige Inbetriebnahme muss bis zum 31. Dezember 2030 erfolgen.
+
+<sup>3</sup> Wird bis zum 31. Dezember 2030 nur ein Teil der ursprünglich geplanten Anlage in Betrieb genommen, so wird die Einmalvergütung anteilsmässig für den bis dahin in Betrieb genommenen Teil berechnet und gewährt, sofern dieser Teil für sich die Anspruchsvoraussetzungen nach Artikel 71*a* Absatz 2 EnG erfüllt.
+
+#### Art. 46l
+
+**Inbetriebnahmemeldung**
+
+<sup>1</sup> Nach der Inbetriebnahme ist dem BFE eine Inbetriebnahmemeldung einzureichen.
+
+<sup>2</sup> Wird bis zum 31. Dezember 2030 nur ein Teil der ursprünglich geplanten Anlage in Betrieb genommen, so ist eine Inbetriebnahmemeldung nur für diesen Teil einzureichen.
+
+<sup>3</sup> Die Inbetriebnahmemeldung muss die Angaben und Unterlagen nach Anhang 2.1 Ziffer 5.2 enthalten.
+
+#### Art. 46m
+
+**Bauabschlussmeldung**
+
+<sup>1</sup> Spätestens ein Jahr nach der Inbetriebnahme ist dem BFE eine Bauabschlussmeldung einzureichen.
+
+<sup>2</sup>
+
+Diese muss folgende Angaben und Unterlagen enthalten:
+
+- a. eine detaillierte Baukostenabrechnung;
+- b. eine Auflistung der anrechenbaren und der nicht anrechenbaren Investitionskosten.
+
+<sup>3</sup> Wird bis zum 31. Dezember 2030 nur ein Teil der ursprünglich geplanten Anlage in Betrieb genommen, so ist die Bauabschlussmeldung für diesen Teil der Anlage bis zum 31. Dezember 2031 einzureichen.
+
+#### Art. 46n
+
+**Erstrecken der Frist zur Einreichung der Bauabschlussmeldung**
+
+Das BFE kann die Frist für das Einreichen der Bauabschlussmeldung auf Gesuch des Antragstellers erstrecken, wenn:
+
+- a. die Frist aus Gründen, für die der Antragsteller nicht einzustehen hat, nicht eingehalten werden kann; und
+- b. das Gesuch vor Ablauf der Frist eingereicht wird.
+
+#### Art. 46o
+
+**Meldung der Nettoproduktion und der Winterproduktion**
+
+<sup>1</sup> Nach dem dritten vollen Betriebsjahr ist dem BFE die jährliche Nettoproduktion der Anlage seit der vollständigen Inbetriebnahme sowie die Stromproduktion im Winterhalbjahr (1. Oktober–31. März) pro kW installierte Leistung zu melden.
+
+<sup>2</sup> Die Angaben zur Nettoproduktion weisen den Eigenverbrauch und die Überschussproduktion separat aus.
+
+<sup>3</sup> Wird bis zum 31. Dezember 2030 nur ein Teil der ursprünglich geplanten Anlage in Betrieb genommen, so beziehen sich die zu meldenden Angaben nur auf diesen Anlagenteil.
+
+#### Art. 46p
+
+**Definitive Festsetzung der Einmalvergütung**
+
+<sup>1</sup>
+
+Sind die Anspruchsvoraussetzungen nach Artikel 71*a* Absatz 2 EnG zum Zeitpunkt der Meldung der Nettoproduktion noch erfüllt, so setzt das BFE die Einmalvergütung auf den tiefsten Betrag der folgenden Werte definitiv fest:
+
+- a. Höhe der definitiven ungedeckten Kosten (Abs. 2);
+- b. 60 Prozent der voraussichtlichen anrechenbaren Investitionskosten (Art. 46*j* Bst. b); oder
+- c. 60 Prozent der definitiven anrechenbaren Investitionskosten.
+
+<sup>2</sup> Die definitiven ungedeckten Kosten werden aufgrund der definitiven anrechenbaren Investitionskosten und der gemeldeten durchschnittlichen jährlichen Nettoproduktion gestützt auf den kalkulatorischen Zinssatz und das Preisszenario, die zum Zeitpunkt der Zusicherung dem Grundsatz nach gegolten haben, berechnet.
+
+#### Art. 46q
+
+**Gestaffelte Auszahlung der Einmalvergütung**
+
+<sup>1</sup> Die Einmalvergütung nach Artikel 71*a* Absatz 4 EnG kann in mehreren Tranchen ausbezahlt werden.
+
+<sup>2</sup> Das BFE setzt den Zeitpunkt für die Auszahlung der einzelnen Tranchen und die Höhe der pro Tranche auszuzahlenden Beträge einzelfallweise in der Zusicherung nach Artikel 46*j* fest (Zahlungsplan).
+
+<sup>3</sup> Die letzte Tranche darf erst nach der definitiven Festsetzung der Einmalvergütung ausbezahlt werden. Bis dahin dürfen maximal 80 Prozent der in der Zusicherung nach Artikel 46*j* berechneten voraussichtlichen Höhe der Einmalvergütung ausbezahlt werden.
+
+### 7. Abschnitt: Bemessungskriterien
+
+[^chap4-sec7-1]
+
+[^chap4-sec7-1]: Eingefügt durch Ziff. I der V vom 17. März 2023, in Kraft seit 1. April 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
+
+#### Art. 46r
+
+**Anrechenbare Investitionskosten**
+
+Anrechenbar sind die Investitionskosten nach Artikel 61 Absätze 1–3.
+
+#### Art. 46s
+
+**Nicht anrechenbare Kosten**
+
+Nicht anrechenbar sind insbesondere Kosten:
+
+- a. für den Erwerb von Grundeigentum;
+- b. für Verfahren und die anwaltliche Vertretung im Zusammenhang mit Einsprachen und Beschwerden.
+
+#### Art. 46t
+
+**Berechnung der ungedeckten Kosten**
+
+<sup>1</sup> Die ungedeckten Kosten berechnen sich nach Anhang 4.
+
+<sup>2</sup> Das BFE stellt die nötigen Grundlagen und Formulare für die Berechnung der ungedeckten Kosten zur Verfügung.
 
 ## 5. Kapitel: Investitionsbeitrag für Wasserkraftanlagen
 
@@ -1850,9 +2008,22 @@ Zu den Betriebskostenbeiträgen publiziert es folgende Angaben:
 
 <sup>6</sup> Bei Anlagen von weniger als 30 kW erfolgt die Publikation zu den Betriebskostenbeiträgen nach Absatz 5 anonymisiert.[^98-3]
 
+<sup>7</sup>
+
+Zu den Einmalvergütungen für Anlagen nach Artikel 71*a* EnG publiziert das BFE pro Anlage:
+
+- a. den Namen oder die Firma des Betreibers sowie den Standort der Anlage;
+- b. die Anlagenleistung;
+- c. das Inbetriebnahmedatum;
+- d. die bei Gesuchseinreichung erwartete jährliche Stromproduktion und die erwartete Stromproduktion im Winterhalbjahr;
+- e. die zum Zeitpunkt der definitiven Festsetzung der Einmalvergütung effektiv gemessene durchschnittliche jährliche Stromproduktion und die Stromproduktion im Winterhalbjahr;
+- f. die Höhe der definitiven Einmalvergütung;
+- g. den Förderanteil im Verhältnis zu den anrechenbaren Investitionskosten.[^98-4]
+
 [^98-1]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
 [^98-2]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 [^98-3]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^98-4]: Eingefügt durch Ziff. I der V vom 17. März 2023, in Kraft seit 1. April 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
 
 #### Art. 99
 
@@ -2028,7 +2199,7 @@ Anhang 1.1[^t-1]
 - 2\.4.1 Beträgt der Anteil des nach dem Stand der Technik realisierten Wasserbaus, einschliesslich der Druckleitungen, weniger als 20 Prozent der gesamten Investitionskosten des Projekts, so entfällt der Anspruch auf den Wasserbau-Bonus. Beträgt er mehr als 50 Prozent, so besteht Anspruch auf den vollen Bonus. Zwischen 20 Prozent und 50 Prozent wird er gemäss der unten stehenden Grafik linear interpoliert. Massnahmen nach Artikel 83*a* GSchG[^annex11-lvlu1-lvl2-1] oder nach Artikel 10 BGF[^annex11-lvlu1-lvl2-2] sind für den Bonus nicht anrechenbar.
 - 2\.4.2 Dotierkraftwerke haben keinen Anspruch auf den Wasserbau-Bonus. Nebennutzungsanlagen mit einer Leistung von mehr als 100 kW haben nur bis zur äquivalenten Leistung von 100 kW Anspruch auf den Wasserbau-Bonus.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230401/de/xml/image/image1.png)
 
 - 2\.4.3 Der Satz für den Wasserbau-Bonus beträgt ab 1. Januar 2013 je Leistungsklasse:
 
@@ -2386,7 +2557,7 @@ Anhang 1.4[^t-4]
 
 - 3\.1 Geothermieanlagen müssen spätestens ab Beginn des dritten vollen Kalenderjahres nach der Inbetriebnahme einen minimalen Gesamtnutzungsgrad respektive Elektrizitätsnutzungsgrad gemäss folgendem Diagramm aufweisen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230401/de/xml/image/image2.png)
 
 - 3\.2 Die für die Bestimmung des Gesamtnutzungsgrads relevante Beurteilungsperiode ist das ganze Kalenderjahr; der Gesamtnutzungsgrad bezieht sich auf die jährliche Energie am Bohrlochkopf mit:
 - Nutzungsgrad Wärme = genutzte Wärme dividiert durch Energie am Bohrlochkopf
@@ -2511,7 +2682,7 @@ Anhang 1.5[^t-5]
 - 2\.2.2 Die Beurteilungsperiode für die energetischen Mindestanforderungen ist das ganze Kalenderjahr.
 - 2\.2.3 Dampfprozesse, insbesondere Organic-Rankine-Cycle, Dampfturbinen und Dampfmotoren müssen einen minimalen Gesamtenergienutzungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230401/de/xml/image/image3.png)
 
 - Für die Berechnung des Gesamtnutzungsgrades wird der untere Heizwert H<sub>u</sub> des eingesetzten Brennstoffs verwendet.
 - Berechnung:
@@ -2524,7 +2695,7 @@ Anhang 1.5[^t-5]
   - a. elektrischer Wirkungsgrad:
   - Das WKK-Modul muss einen minimalen elektrischen Wirkungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230401/de/xml/image/image4.png)
 
 - b.
 
@@ -2688,11 +2859,11 @@ Anhang 1.5[^t-5]
 
 Anhang 2.1[^t-6]
 
-(Art. 7, 38, 41–43, 45 und 46*d*)
+(Art. 7, 38, 41–43, 45, 46*d,* 46*i* und 46*l*)
 
 ## Einmalvergütung für Photovoltaikanlagen
 
-[^t-6]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), Ziff. II der V vom 24. Nov. 2021 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)) und Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-6]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), Ziff. II der V vom 24. Nov. 2021 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), Ziff. II Abs. 1 der V vom 23. Nov. 2022 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) und Ziff. II der V vom 17. März 2023, in Kraft seit 1. April 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
 
 ### 1 Anlagendefinition
 
@@ -2820,6 +2991,56 @@ Anhang 2.1[^t-6]
   - c. allfällige Änderungen gegenüber den im Gesuch gemachten Angaben;
   - d. Beglaubigung der Anlagedaten gemäss Artikel 2 Absatz 2 HKSV;
   - e. für integrierte Anlagen, die bis zum 31. Dezember 2012 in Betrieb genommen wurden: Fotos, die den Solarstromgenerator während des Baus und nach der Fertigstellung zeigen und aus denen ersichtlich wird, dass eine integrierte Anlage nach Artikel 6 vorliegt.
+
+### 5 Gesuch und Inbetriebnahmemeldung für Anlagen nach Artikel 71*a* EnG
+
+- 5\.1
+
+  Das Gesuch für Anlagen nach Artikel 71*a* EnG hat mindestens folgende Angaben und Unterlagen zu enthalten:
+
+  - a. Angaben zur Anlage, insbesondere den Namen der berechtigten Person und den Standort der Anlage;
+  - b. einen Projektbeschrieb, der aufzeigt, dass sämtliche Voraussetzungen für die Ausrichtung einer Einmalvergütung erfüllt werden;
+  - c. die rechtskräftige Baubewilligung;
+  - d. eine detaillierte Auflistung der Investitionskosten, aufgeteilt in anrechenbare und nicht anrechenbare Kosten;
+  - e. eine Berechnung der ungedeckten Kosten;
+  - f. einen Grundbuchauszug oder ein gleichwertiges Dokument, das eine eindeutige Identifizierung des Grundstücks und der Grundeigentümerinnen und Grundeigentümer zulässt;
+  - g. die geplante Anlagenleistung;
+  - h. das geplante Inbetriebnahmedatum;
+  - i. die erwartete jährliche Stromproduktion, berechnet nach den Vorgaben des BFE;
+  - j. die erwartete Stromproduktion im Winterhalbjahr (1. Oktober–31. März) pro kW installierte Leistung, berechnet nach den Vorgaben des BFE;
+  - k. der geplante Inhalt der wissenschaftlichen Begleitung;
+  - l. die Produzentenkategorie.
+
+- 5\.2 Inbetriebnahmemeldung
+-
+
+  Die Inbetriebnahmemeldung hat mindestens folgende Angaben und Unterlagen zu enthalten:
+
+  - a. das Inbetriebnahmedatum;
+  - b. das Abnahmeprotokoll mit detaillierter Beschreibung oder einen Sicherheitsnachweis nach Artikel 37 NIV inklusive Mess- und Prüfprotokolle;
+  - c. allfällige Änderungen gegenüber den im Gesuch gemachten Angaben;
+  - d. die Beglaubigung der Anlagedaten nach Artikel 2 Absatz 2 HKSV.
+
+### 6 Nutzungsdauertabelle für Anlagen nach Artikel 71*a* EnG
+
+Für die Berechnung der ungedeckten Kosten bei Anlagen nach Artikel 71*a* EnG wird von der folgenden Nutzungsdauer der einzelnen Anlagenbestandteile ausgegangen:
+
+<table>
+<tr><th>Anlagenbestandteil</th><th>Jahre</th></tr>
+<tr><td>Fundamente und Verankerungen</td><td>80</td></tr>
+<tr><td>Metallstahlbau, Montagesysteme, Unterkonstruktion</td><td>50</td></tr>
+<tr><td>Photovoltaikmodule</td><td>30</td></tr>
+<tr><td>Wechselrichter</td><td>15</td></tr>
+<tr><td>Generatoren, Transformatoren</td><td>40</td></tr>
+<tr><td>Kraftwerksleittechnik</td><td>15</td></tr>
+<tr><td>Elektroinstallationen</td><td>30</td></tr>
+<tr><td>Hochspannungsausrüstung, Schaltanlagen</td><td>30</td></tr>
+<tr><td>Hoch- und Mittelspannungsleitungen</td><td>50</td></tr>
+<tr><td>Bauten für Transportwege und Erschliessung (Strassen, Brücken, Stützmauern, etc.)</td><td>60</td></tr>
+<tr><td>Betriebsgebäude</td><td>40</td></tr>
+</table>
+
+- [tab]
 
 Anhang 2.2[^t-7]
 
@@ -3295,7 +3516,7 @@ Anhang 3[^t-12]
 
 [^annex3-lvlu1-lvl1-1]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
-### [1*a*](https://www.fedlex.admin.ch/eli/cc/2017/766/de) [Abweichung von Ziffer 1.1 Anhang 1 StromVV](https://www.fedlex.admin.ch/eli/cc/2017/766/de)
+### 1*a* Abweichung von Ziffer 1.1 Anhang 1 StromVV
 
 - Der Eigenkapitalkostensatz und der Fremdkapitalkostensatz werden je mit 50 Prozent gewichtet.
 
@@ -3347,11 +3568,11 @@ Anhang 3[^t-12]
 
 Anhang 4[^t-13]
 
-(Art. 63, 83, 87*m*, 87*z*<sup>ter</sup>)
+(Art. 46*t*, 63, 83, 87*m*, 87*z*<sup>ter</sup>)
 
 ## Berechnung der ungedeckten Kosten
 
-[^t-13]: Eingefügt durch Ziff. II Abs. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-13]: Eingefügt durch Ziff. II Abs. 3 der V vom 23. Nov. 2022 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Bereinigt gemäss Ziff. II der V vom 17. März 2023, in Kraft seit 1. April 2023 ([AS 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
 
 ### 1 Allgemeine Berechnungsgrundlagen
 
@@ -3385,6 +3606,23 @@ Anhang 4[^t-13]
 - 2\.2 Benötigt eine Wasserkraftanlage eine Konzession, so sind die anrechenbaren Geldabflüsse in Abweichung von Ziffer 1.2.2 über die verbleibende Konzessionsdauer zu berücksichtigen.
 - 2\.3 Die anzurechnenden Geldzuflüsse berechnen sich gestützt auf ein wirtschaftlich optimiertes stündliches Profil oder gestützt auf Standardproduktionsprofile für die Nettoproduktion über die verbleibende Konzessionsdauer.
 - 2\.4 Investitionen werden über ihre Nutzungsdauer linear abgeschrieben, und allfällige Restwerte werden am Ende der Konzessionsdauer als Geldzuflüsse berücksichtigt.
+
+### 3 Berechnung bei Photovoltaikanlagen nach Artikel 71*a* EnG
+
+- 3\.1
+
+  Bei Anlagen nach Artikel 71*a* EnG setzen sich die anrechenbaren Geldabflüsse zusammen aus:
+
+  - a. den anrechenbaren Investitionskosten;
+  - b. den Kosten für den Anlagenbetrieb und den Unterhalt sowie den übrigen Betriebskosten von jährlich maximal 1 Prozent der anrechenbaren Investitionskosten;
+  - c. den Ersatzinvestitionen;
+  - d. maximal 1 Prozent der anrechenbaren Investitionskosten, höchstens aber 200 000 Franken, für eine wissenschaftliche Begleitung, deren Erkenntnisse in geeigneter Form frei zugänglich publiziert werden;
+  - e. Rückstellungen für den Rückbau im Umfang von maximal 15 Prozent der anrechenbaren Investitionskosten.
+
+- 3\.2 Als anzurechnende Geldzuflüsse gelten sämtliche Geldzuflüsse, die aufgrund der Investition erzielt werden können, sowie die Einsparungen aufgrund von Eigenverbrauch. Für die Berechnung der Geldzuflüsse wird die Degradation der Photovoltaikmodule mit einem Faktor von 0,5 Prozent pro Jahr berücksichtigt.
+- 3\.3 Die anrechenbaren Geldabflüsse und die anzurechnenden Geldzuflüsse sind bis zum Ende der Nutzungsdauer der zuletzt in Betrieb genommenen Photovoltaikmodule zu berücksichtigen.
+- 3\.4 Investitionen werden über ihre Nutzungsdauer linear abgeschrieben, und allfällige Restwerte werden am Ende der Nutzungsdauer der zuletzt in Betrieb genommenen Photovoltaikmodule als Geldzuflüsse berücksichtigt.
+- [tab]
 
 Anhang 5[^t-14]
 
