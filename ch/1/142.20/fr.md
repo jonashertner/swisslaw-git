@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
 short: LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: fr
-version: 2022-12-17
+version: 2023-04-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221217/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221217-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221217/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230401-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221217/fr"
 
 (LEI)[^t-2][^t-1]
 
-du 16 décembre 2005 (État le 17 décembre 2022)
+du 16 décembre 2005 (État le 1<sup>er</sup> avril 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -2608,17 +2608,23 @@ Les autorités suivantes peuvent consulter en ligne les données de l’EES:
 
 <sup>4</sup>
 
-Les autorités suivantes peuvent demander au point d’accès central visé à l’al. 5 l’obtention des données de l’EES dans le but de prévenir et de déceler les infractions terroristes ou d’autres infractions pénales graves, ainsi que d’enquêter en la matière:
+Les autorités suivantes peuvent demander des données de l’EES au point d’accès central visé à l’al. 6 dans le but de prévenir et de détecter les infractions terroristes ou d’autres infractions pénales graves, et d’enquêter en la matière:[^103c-3]
 
 - a. fedpol;
 - b. le SRC;
 - c. le Ministère public de la Confédération;
 - d. les autorités cantonales de police et de poursuite pénale, de même que les autorités de police des villes de Zurich, Winterthour, Lausanne, Chiasso et Lugano.
 
-<sup>5</sup> La centrale d’engagement de fedpol est le point d’accès central au sens de l’art. 29, par. 3, du règlement (UE) 2017/2226.
+<sup>5</sup> Dans la mesure où le SRC traite des données qui lui sont transmises suite à une demande déposée conformément à l’al. 4, la loi du 28 septembre 2018 sur la protection des données Schengen[^103c-4] est applicable.[^103c-5]
+
+<sup>6</sup> La centrale d’engagement de fedpol est le point d’accès central au sens de l’art. 29, par. 3, du règlement (UE) 2017/2226.[^103c-6]
 
 [^103c-1]: Introduit par l’annexe de l’AF du 21 juin 2019 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases juridiques en vue de la création et de l’utilisation du système d’entrée et de sortie (EES) (règlements [UE] 2017/2226 et 2017/2225), en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 [^103c-2]: Cf. note de bas de page relative à l’art. 103*b*, al. 1.
+[^103c-3]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-4]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^103c-5]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-6]: Introduit par le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 103d
 
@@ -2896,14 +2902,16 @@ Les autorités suivantes ont accès en ligne aux données du C-VIS:
 
 <sup>3</sup>
 
-Les autorités suivantes peuvent demander au point d’accès central visé à l’al. 4 certaines données du C-VIS au sens de la décision 2008/633/JAI[^109a-8] dans le but de prévenir et de détecter les infractions terroristes ou d’autres infractions pénales graves, et d’investiguer en la matière:
+Les autorités suivantes peuvent, en vertu de la décision 2008/633/JAI[^109a-8], demander des données du C-VIS au point d’accès central visé à l’al. 5 dans le but de prévenir et de détecter les infractions terroristes ou d’autres infractions pénales graves, et d’enquêter en la matière:[^109a-9]
 
 - a. fedpol;
 - b. le SRC;
 - c. le Ministère public de la Confédération;
 - d. les autorités cantonales de police et de poursuite pénale, de même que les autorités de police des villes de Zurich, de Winterthour, de Lausanne, de Chiasso et de Lugano.
 
-<sup>4</sup> La centrale d’engagement de fedpol constitue le point d’accès central au sens de l’art. 3, al. 3, de la décision 2008/633/JAI.
+<sup>4</sup> Dans la mesure où le SRC traite des données qui lui sont transmises suite à une demande déposée conformément à l’al. 3, la loi du 28 septembre 2018 sur la protection des données Schengen[^109a-10] est applicable.[^109a-11]
+
+<sup>5</sup> La centrale d’engagement de fedpol est le point d’accès central au sens de l’art. 3, par. 3, de la décision 2008/633/JAI.[^109a-12]
 
 [^109a-1]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS, en vigueur depuis le 11 oct. 2011 ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109a-2]: Règlement (CE) n<sup>o</sup> 767/2008 du Parlement européen et du Conseil du 9 juillet 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (R VIS), JO L 218 du 13.8.2008, p. 60; modifié en dernier lieu par le règlement (UE) 2017/2226, JO L 327 du 9.12.2017, p. 20.
@@ -2912,7 +2920,11 @@ Les autorités suivantes peuvent demander au point d’accès central visé à l
 [^109a-5]: Nouvelle teneur selon l’annexe ch. I 1 de l’AF du 26 sept. 2014 (reprise du R [UE] n<sup>o</sup> 604/2013 établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande de protection internationale), en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2587](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 [^109a-6]: Cf. note de bas de page relative à l’art. 64*a*, al. 1.
 [^109a-7]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^109a-8]: D 2008/633/JAI du Conseil du 23 juin 2008 concernant l’accès en consultation au système d’information sur les visas (VIS) par les autorités désignées des États membres et par l’Office européen de police (Europol) aux fins de la prévention et de la détection des infractions terroristes et des autres infractions pénales graves, ainsi qu’aux fins des enquêtes en la matière (décision du Conseil); JO L 218 du 13.8.2008, p. 129.
+[^109a-8]: Décision 2008/633/JAI du Conseil du 23 juin 2008 concernant l’accès en consultation au système d’information sur les visas (VIS) par les autorités désignées des États membres et par l’Office européen de police (Europol) aux fins de la prévention et de la détection des infractions terroristes et des autres infractions pénales graves, ainsi qu’aux fins des enquêtes en la matière; version du JO L 218 du 13.8.2008, p. 129.
+[^109a-9]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-10]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^109a-11]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-12]: Introduit par le ch. I de la LF du 25 sept. 2020 (Assujettissement du Service de renseignement de la Confédération à la loi sur la protection des données Schengen), en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 109b
 

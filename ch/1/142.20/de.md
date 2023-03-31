@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2022-12-17
+version: 2023-04-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221217/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221217-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221217/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230401-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221217/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 17. Dezember 2022)
+vom 16. Dezember 2005 (Stand am 1. April 2023)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -2601,17 +2601,23 @@ Folgende Behörden können die Daten des EES online abfragen:
 
 <sup>4</sup>
 
-Folgende Behörden können zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten bei der zentralen Zugangsstelle nach Absatz 5 Daten des EES beantragen:
+Folgende Behörden können zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten bei der zentralen Zugangsstelle nach Absatz 6 Daten des EES beantragen:[^103c-3]
 
 - a. das fedpol;
 - b. der NDB;
 - c. die Bundesanwaltschaft;
 - d. die kantonalen Polizei- und Strafverfolgungsbehörden und die Polizeibehörden der Städte Zürich, Winterthur, Lausanne, Chiasso und Lugano.
 
-<sup>5</sup> Zentrale Zugangsstelle nach Artikel 29 Absatz 3 der Verordnung (EU) 2017/2226 ist die Einsatzzentrale des fedpol.
+<sup>5</sup> Soweit der NDB die aufgrund einer Anfrage nach Absatz 4 übermittelten Daten bearbeitet, findet das Schengen-Datenschutzgesetz vom 28. September 2018[^103c-4] Anwendung.[^103c-5]
+
+<sup>6</sup> Zentrale Zugangsstelle im Sinn von Artikel 29 Absatz 3 der Verordnung (EU) 2017/2226 ist die Einsatzzentrale des fedpol.[^103c-6]
 
 [^103c-1]: Eingefügt durch Anhang des BB vom 21. Juni 2019 (Übernahme der Rechtsgrundlagen zur Errichtung und Nutzung des Einreise- und Ausreisesystems [EES], Verordnungen [EU] 2017/2226 und 2017/2225), in Kraft seit 1. Mai 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 [^103c-2]: Siehe Fussnote zu Art. 103*b* Abs. 1.
+[^103c-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), in Kraft seit 1. April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-4]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^103c-5]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), in Kraft seit 1. April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-6]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), in Kraft seit 1. April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 103d
 
@@ -2742,7 +2748,7 @@ Das SEM führt ein Passagier-Informationssystem (API-System) zur:
 
 <sup>5</sup>
 
-Die Daten nach Artikel 104 Absatz 3 sowie die Ergebnisse der Abgleiche nach Absatz 4 dürfen nach Ankunft des betreffenden Fluges nur zur Durchführung eines straf-, asyl- oder ausländerrechtlichen Verfahrens genutzt werden. Sie sind zu löschen:
+Die Daten nach Artikel 104 Absatz 3 sowie die Ergebnisse der Abgleiche nach Absatz 4 dürfen nach Ankunft des betreffenden Fluges nur zur Durchführung eines straf‑, asyl- oder ausländerrechtlichen Verfahrens genutzt werden. Sie sind zu löschen:
 
 - a. wenn feststeht, dass kein solches Verfahren durchgeführt wird, spätestens aber zwei Jahre nach dem Datum des betreffenden Flugs;
 - b. am Tag, nachdem die Verfügung in einem solchen Verfahren rechtskräftig geworden ist.
@@ -2890,14 +2896,16 @@ Folgende Behörden können die Daten des C-VIS online abfragen:
 
 <sup>3</sup>
 
-Folgende Behörden können im Sinn des Beschlusses 2008/633/JI[^109a-8] zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten bei der zentralen Zugangsstelle nach Absatz 4 bestimmte Daten des C-VIS beantragen:
+Folgende Behörden können im Sinn des Beschlusses 2008/633/JI[^109a-8] zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten bei der zentralen Zugangsstelle nach Absatz 5 Daten des C-VIS beantragen:[^109a-9]
 
 - a. das fedpol;
 - b. der NDB;
 - c. die Bundesanwaltschaft;
 - d. die kantonalen Polizei- und Strafverfolgungsbehörden und die Polizeibehörden der Städte Zürich, Winterthur, Lausanne, Chiasso und Lugano.
 
-<sup>4</sup> Zentrale Zugangsstelle im Sinn von Artikel 3 Absatz 3 des Beschlusses 2008/633/JI ist die Einsatzzentrale des fedpol.
+<sup>4</sup> Soweit der NDB die aufgrund einer Anfrage nach Absatz 3 übermittelten Daten bearbeitet, findet das Schengen-Datenschutzgesetz vom 28. September 2018[^109a-10] Anwendung.[^109a-11]
+
+<sup>5</sup> Zentrale Zugangsstelle im Sinn von Artikel 3 Absatz 3 des Beschlusses 2008/633/JI ist die Einsatzzentrale des fedpol.[^109a-12]
 
 [^109a-1]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung und des Beschlusses über das Visa-Informationssystem (VIS), in Kraft seit 11. Okt. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109a-2]: Verordnung (EG) Nr. 767/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über das Visa-Informationssystem (VIS) und den Datenaustausch zwischen den Mitgliedstaaten über Visa für einen kurzfristigen Aufenthalt (VIS-Verordnung), ABl. L 218 vom 13.8.2008, S. 60; zuletzt geändert durch Verordnung (EU) 2017/2226, ABl. L 327 vom 9.12.2017, S. 20.
@@ -2906,7 +2914,11 @@ Folgende Behörden können im Sinn des Beschlusses 2008/633/JI[^109a-8] zur Verh
 [^109a-5]: Fassung gemäss Anhang Ziff. I 1 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 [^109a-6]: Siehe Fussnote zu Art. 64*a* Abs. 1.
 [^109a-7]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. April 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^109a-8]: Beschluss 2008/633/JI des Rates vom 23. Juni 2008 über den Zugang der benannten Behörden der Mitgliedstaaten und von Europol zum Visa-Informationssystem (VIS) für Datenabfragen zum Zwecke der Verhütung, Aufdeckung und Ermittlung terroristischer und sonstiger schwerwiegender Straftaten, ABl. L 218 vom 13.8.2008, S. 129.
+[^109a-8]: Beschluss 2008/633/JI des Rates vom 23. Juni 2008 über den Zugang der benannten Behörden der Mitgliedstaaten und von Europol zum Visa-Informationssystem (VIS) für Datenabfragen zum Zwecke der Verhütung, Aufdeckung und Ermittlung terroristischer und sonstiger schwerwiegender Straftaten, Fassung gemäss ABl. L 218 vom 13.8.2008, S. 129.
+[^109a-9]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), in Kraft seit 1. April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-10]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^109a-11]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), in Kraft seit 1. April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-12]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020 (Unterstellung des Nachrichtendienstes des Bundes unter das Schengen-Datenschutzgesetz), in Kraft seit 1. April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 109b
 

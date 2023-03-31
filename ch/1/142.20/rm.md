@@ -4,11 +4,11 @@ title: Lescha federala dals 16 da december 2005 davart las persunas estras (LEst
 short: LEst
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: rm
-version: 2022-12-17
+version: 2023-04-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221217/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221217-rm-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221217/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230401/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230401-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230401/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEI)[^t-1]
 
-dals 16 da december 2005 (versiun dals 17 da december 2022)
+dals 16 da december 2005 (versiun dal 1. d’avrigl 2023)
 
 [^t-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -2603,17 +2603,23 @@ Las suandantas autoritads han il dretg da consultar online las datas dal EES:
 
 <sup>4</sup>
 
-Las suandantas autoritads pon dumandar il post d’access central tenor l’alinea 5 da survegnir datas dal EES per prevegnir, per scuvrir u per eruir malfatgs terroristics u auters grevs malfatgs:
+Las suandantas autoritads pon dumandar il post d’access central tenor l’alinea 6 da survegnir datas dal EES per prevegnir, per scuvrir u per eruir malfatgs terroristics u auters grevs malfatgs:[^103c-3]
 
 - a. il fedpol;
 - b. il SIC;
 - c. la Procura publica federala;
 - d. las autoritads chantunalas da polizia e da persecuziun penala sco er las autoritads da polizia da las citads Turitg, Winterthur, Losanna, Chiasso e Lugano.
 
-<sup>5</sup> La centrala operativa dal fedpol è il post d’access central tenor l’artitgel 29 alinea 3 da l’Ordinaziun (UE) 2017/2226.
+<sup>5</sup> Sch’il SIC elavura datas transmessas sin basa d’ina dumonda tenor l’alinea 4, vegn applitgada la Lescha dals 28 da settember 2018[^103c-4] davart la protecziun da las datas da Schengen.[^103c-5]
+
+<sup>6</sup> La centrala operativa dal fedpol è il post d’access central en il senn da l’artitgel 29 alinea 3 da l’Ordinaziun (UE) 2017/2226.[^103c-6]
 
 [^103c-1]: Integrà tras l’agiunta dal COF dals 21 da zer. 2019 (surpigliada da las basas giuridicas per installar e per utilisar il sistem d’entrada e da sortida [EES], ordinaziuns [UE] 2017/2226 e 2017/2225), en vigur dapi il 1. da matg 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 [^103c-2]: Guardar annotaziun da l’art. 103*b* al. 1.
+[^103c-3]: Versiun tenor la cifra I da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), en vigur dapi il 1. d’avrigl 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-4]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^103c-5]: Versiun tenor la cifra I da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), en vigur dapi il 1. d’avrigl 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-6]: Integrà tras la cifra I da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), en vigur dapi il 1. d’avrigl 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 103d
 
@@ -2892,14 +2898,16 @@ Las suandantas autoritads han il dretg da consultar online las datas dal C-VIS:
 
 <sup>3</sup>
 
-Las autoritads suandantas han il dretg, tenor la decisiun 2008/633/JI[^109a-8] per impedir, scuvrir ed investigar delicts terroristics ed auters grevs delicts, da pretender tschertas datas or dal C-VIS tenor l’alinea 4 tar l’autoritad centrala:
+En il senn da la decisiun 2008/633/JI[^109a-8] pon las suandantas autoritads dumandar il post d’access central tenor l’alinea 5 da survegnir datas dal C-VIS per prevegnir, per scuvrir u per eruir malfatgs terroristics u auters grevs malfatgs:[^109a-9]
 
 - a. il fedpol;
 - b. il Servetsch d’infurmaziun da la Confederaziun;
 - c. la Procura publica federala;
 - d. las autoritads chantunalas da polizia e da persecuziun penala sco er las autoritads da polizia da las citads Turitg, Winterthur, Losanna, Chiasso e Lugano.
 
-<sup>4</sup> L’autoritad centrala è en il senn da l’artitgel 3 alinea 3 da la decisiun 2008/633/JI la centrala dal fedpol.
+<sup>4</sup> Sch’il SIC elavura datas transmessas sin basa d’ina dumonda tenor l’alinea 3, vegn applitgada la Lescha dals 28 da settember 2018[^109a-10] davart la protecziun da las datas da Schengen.[^109a-11]
+
+<sup>5</sup> La centrala operativa dal fedpol è il post d’access central en il senn da l’artitgel 3 alinea 3 da la decisiun 2008/633/JI.[^109a-12]
 
 [^109a-1]: Integrà tras l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da l’ordinaziun e dal conclus davart il sistem d’infurmaziun per ils visums (VIS), en vigur dapi ils 11 d’oct. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109a-2]: Ordinaziun (CE) nr. 767/2008 dal Parlament europeic e dal Cussegl dals 9 da fan. 2008 davart il sistem d’infurmaziun per ils visums (VIS) ed il barat da datas tranter ils stadis commembers davart ils visums per ina dimora da curta durada (Ordinaziun VIS), ABl. L 218 dals 13 d’avust 2008, p. 60; midà l’ultima giada tras l’Ordinaziun (UE) 2017/2226, ABl. L 327 dals 9 da dec. 2017, p. 20.
@@ -2908,7 +2916,11 @@ Las autoritads suandantas han il dretg, tenor la decisiun 2008/633/JI[^109a-8] p
 [^109a-5]: Versiun tenor la cifra I 1 da l’agiunta dal COF dals 26 da sett. 2014 (surpigliada da l’Ordinaziun [UE] nr. 604/2013 davart la fixaziun dals criteris e dals mecanissems per determinar il stadi commember ch’è cumpetent per examinar ina dumonda da protecziun internaziunala), en vigur dapi il 1. da fan. 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 [^109a-6]: Guardar annotaziun da l’art. 64*a* al. 1.
 [^109a-7]: Versiun tenor la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), en vigur dapi il 1. d’avr. 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^109a-8]: Decisiun 2008/633/JI dal Cussegl dals 23 da zer. 2008 davart l’access da las autoritads numnadas dals stadis commembers e dad Europol al sistem d’infurmaziun per ils visums (VIS) per la tschertga da datas cun la finamira dad impedir, scuvrir ed investigar delicts terroristics ed auters grevs delicts, ABl. L 218 dals 13 d’avust 2008, p. 129.
+[^109a-8]: Decisiun 2008/633/JI dal Cussegl dals 23 da zer. 2008 davart l’access da las autoritads numnadas dals stadis commembers e dad Europol al sistem d’infurmaziun per ils visums (VIS) per la tschertga da datas cun la finamira d’impedir, scuvrir ed investigar delicts terroristics ed auters grevs delicts, versiun tenor ABl. L 218 dals 13 d’avust 2008, p. 129.
+[^109a-9]: Versiun tenor la cifra I da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), en vigur dapi il 1. d’avrigl 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-10]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^109a-11]: Versiun tenor la cifra I da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), en vigur dapi il 1. d’avrigl 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-12]: Integrà tras la cifra I da la LF dals 25 da sett. 2020 (subordinaziun dal Servetsch d’infurmaziun da la Confederaziun a la Lescha davart la protecziun da las datas da Schengen), en vigur dapi il 1. d’avrigl 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 109b
 

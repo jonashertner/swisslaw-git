@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2022-12-17
+version: 2023-04-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221217/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221217-en-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221217/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230401/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230401-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foreign Nationals and Integration Act, FNIA)[^t-1]
 
-of 16 December 2005 (Status as of 17 December 2022)
+of 16 December 2005 (Status as of 1 April 2023)
 
 [^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -2599,17 +2599,23 @@ The following authorities may consult the data in the EES online:
 
 <sup>4</sup>
 
-The following authorities may request EES data from the central access point under paragraph 5 in order to prevent, detect or investigate terrorist or other serious offences:
+The following authorities may request EES data from the central access point under paragraph 6 in order to prevent, detect or investigate terrorist or other serious offences:[^103c-3]
 
 - a. fedpol;
 - b. the FIS;
 - c. the Office of the Attorney General of Switzerland;
 - d. the cantonal police and prosecution authorities and the police authorities of the cities of Zurich, Winterthur, Lausanne, Chiasso and Lugano.
 
-<sup>5</sup> The central access point under Article 29 paragraph 3 of Regulation (EU) 2017/2226 is the fedpol Operations Centre
+<sup>5</sup> If the FIS processes data transmitted on the basis of a request in accordance with paragraph 4, the Schengen Data Protection Act of 28 september 2018[^103c-4] applies.[^103c-5]
+
+<sup>6</sup> The central access point under Article 29 paragraph 3 of Regulation (EU) 2017/2226 is the fedpol Operations Centre.[^103c-6]
 
 [^103c-1]: Inserted by the Annex to the FD of 21 June 2019 (Adoption of the Legislation for Establishing and Using an Entry and Exit System [EES], Regulations [EU] 2017/2226 and 2017/2225), in force since 1 May 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
 [^103c-2]: See footnote to Art. 103*b* para. 1.
+[^103c-3]: Amended by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-4]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^103c-5]: Amended by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^103c-6]: Inserted by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 103d
 
@@ -2888,14 +2894,16 @@ The following authorities may consult C-VIS data online:
 
 <sup>3</sup>
 
-The following authorities may request specific C-VIS data from the central access point under paragraph 4 in application of Decision 2008/633/JI[^109a-8] in order to prevent detect or investigate terrorist offences or other serious criminal offences:
+The following authorities may request specific C-VIS data from the central access point under paragraph 5 in application of Decision 2008/633/JI[^109a-8] in order to prevent detect or investigate terrorist offences or other serious criminal offences:[^109a-9]
 
 - a. fedpol;
 - b. FIS;
 - c. the Office of the Attorney General of Switzerland;
 - d. the cantonal police and prosecution authorities and the police authorities of the cities of Zurich, Winterthur, Lausanne, Chiasso and Lugano.
 
-<sup>4</sup> The central access point in accordance with Article 3 paragraph 3 of Decision 2008/633/JI is the fedpol operations centre.
+<sup>4</sup> If the FIS processes data transmitted on the basis of a request in accordance with paragraph 3, the Schengen Data Protection Act. pf 28 September 2028[^109a-10] applies.[^109a-11]
+
+<sup>5</sup> The central access point in accordance with Article 3 paragraph 3 of Decision 2008/633/JI is the fedpol operations centre.[^109a-12]
 
 [^109a-1]: Inserted by Art. 2 No 1 of the FD of 11 Dec. 2009 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of the Regulation and Decision concerning the Visa Information System (VIS), in force since 11 Oct. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109a-2]: Regulation (EC) No 767/2008 of the European Parliament and of the Council of 9 July 2008 concerning the Visa Information System (VIS) and the exchange of data between Member States on short-stay visas (VIS Regulation), OJ. L 218 of 13.8.2008, p. 60; last amended by Regulation (EU) 2017/2226, OJ L 327 of 9.12.2017, p. 20.
@@ -2905,6 +2913,10 @@ The following authorities may request specific C-VIS data from the central acces
 [^109a-6]: See footnote to Art. 64*a* para. 1.
 [^109a-7]: Amended by No I of the FA of 14 Dec. 2018 (Procedural Arrangements and Information Systems), in force since 1 April 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^109a-8]: Council Decision 2008/633/JI of 23 June 2008 concerning access for consultation of the Visa Information System (VIS) by designated authorities of Member States and by Europol for the purposes of the prevention, detection and investigation of terrorist offences and of other serious criminal offences, OJ. L 218 of 13.8.2008, p. 129.
+[^109a-9]: Amended by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-10]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^109a-11]: Amended by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
+[^109a-12]: Inserted by No I of the FA of 25 Sept. 2020 (Application of the Schengen Data Protection Act to the Federal Intelligence Service), in force since 1 April 2023 ([AS 2023 147](https://fedlex.data.admin.ch/eli/oc/2023/147); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 
 #### Art. 109b
 
