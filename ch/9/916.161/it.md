@@ -4,11 +4,11 @@ title: "Ordinanza del 12 maggio 2010 concernente l'immissione sul mercato di pro
 short: OPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: it
-version: 2023-01-18
+version: 2023-04-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20230118/it/xml/fedlex-data-admin-ch-eli-cc-2010-340-20230118-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230118/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2010-340-20230401-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230118/it"
 
 (Ordinanza sui prodotti fitosanitari, OPF)
 
-del 12 maggio 2010 (Stato 18 gennaio 2023)
+del 12 maggio 2010 (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1451,7 +1451,13 @@ L’etichetta deve essere redatta in almeno una lingua ufficiale del luogo di fo
 
 <sup>3</sup> Possono essere impiegate soltanto attrezzature che consentono un uso dei prodotti fitosanitari mirato e conforme.
 
+<sup>4</sup> Gli apparecchi a presa di forza o semoventi utilizzati per la protezione dei vegetali, dotati di un serbatoio di oltre 400 litri, devono essere equipaggiati con un serbatoio d’acqua per il lavaggio e con un sistema automatico di pulizia interna. La pulizia di pompa, filtro, condotte e ugelli deve avvenire sulla superficie trattata.[^61-2]
+
+<sup>5</sup> Gli apparecchi a presa di forza o semoventi utilizzati per la protezione dei vegetali devono essere controllati almeno una volta ogni tre anni civili da un servizio riconosciuto dal Cantone per quanto concerne i requisiti di cui ai capoversi 3 e 4. I difetti riscontrati devono essere eliminati entro un termine adeguato stabilito dal Cantone.[^61-3]
+
 [^61-1]: Nuovo testo giusta il n. I dell’O del 23 mag. 2012, in vigore dal 1° dic. 2012 ([RU 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)).
+[^61-2]: Introdotto dal n. II dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^61-3]: Introdotto dal n. II dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 #### Art. 62
 
@@ -2338,7 +2344,7 @@ Allegato 1[^t-1]
 <table>
 <tr><th>Nome comune, numero d’identificazione</th><th>Descrizione</th><th>Organismo</th><th>Funzione/Condizioni specifiche e limitazioni</th></tr>
 <tr><td>Adalia bipunctata</td><td>Coleottero predatore</td><td>Insetti</td><td>insetticida</td></tr>
-<tr><td>[tab] Amblyseius andersoni</td><td>Acaro predatore</td><td>Acari</td><td>insetticida, acaricida</td></tr>
+<tr><td>Amblyseius andersoni</td><td>Acaro predatore</td><td>Acari</td><td>insetticida, acaricida</td></tr>
 <tr><td>Amblyseius barkeri (mackenziei)</td><td>Acaro predatore</td><td>Acari</td><td>insetticida</td></tr>
 <tr><td>Amblyseius californicus</td><td>Acaro predatore</td><td>Acari</td><td>insetticida</td></tr>
 <tr><td>Amblyseius degenerans</td><td>Acaro predatore</td><td>Acari</td><td>insetticida</td></tr>

@@ -4,11 +4,11 @@ title: "Verordnung vom 12. Mai 2010 über das Inverkehrbringen von Pflanzenschut
 short: PSMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: de
-version: 2023-01-18
+version: 2023-04-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20230118/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20230118-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230118/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20230401-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230118/de"
 
 (Pflanzenschutzmittelverordnung, PSMV)
 
-vom 12. Mai 2010 (Stand am 18. Januar 2023)
+vom 12. Mai 2010 (Stand am 1. April 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1456,7 +1456,13 @@ Die Kennzeichnung muss in mindestens einer Amtssprache des Abgabeortes erfolgen.
 
 <sup>3</sup> Es dürfen nur Geräte eingesetzt werden, die eine fachgerechte und gezielte Verwendung der Pflanzenschutzmittel ermöglichen.
 
+<sup>4</sup> Für den Pflanzenschutz eingesetzte zapfwellenangetriebene oder selbstfahrende Geräte mit einem Behälter von mehr als 400 Liter Inhalt müssen mit einem Spülwassertank und mit einer automatischen Spritzeninnenreinigung ausgerüstet sein. Die Spülung von Pumpe, Filter, Leitungen und Düsen muss auf der behandelten Fläche erfolgen.[^61-2]
+
+<sup>5</sup> Die für den Pflanzenschutz eingesetzten zapfwellenangetriebenen oder selbstfahrenden Geräte müssen mindestens alle drei Kalenderjahre von einer vom Kanton anerkannten Stelle im Hinblick auf die Anforderungen nach den Absätzen 3 und 4 geprüft werden. Festgestellte Mängel müssen innerhalb einer vom Kanton gesetzten Frist behoben werden.[^61-3]
+
 [^61-1]: Fassung gemäss Ziff. I der V vom 23. Mai 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)).
+[^61-2]: Eingefügt durch Anhang der V vom 23. Febr. 2022, in Kraft seit 1. April 2023 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^61-3]: Eingefügt durch Anhang der V vom 23. Febr. 2022, in Kraft seit 1. April 2023 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 #### Art. 62
 
@@ -3084,7 +3090,7 @@ Bei der Bewertung des Verbleibs und der Verteilung des Pflanzenschutzmittels in 
 
 ### 9BI-2.5.1.1Verbleib und Verteilung im Boden
 
-<sup>1</sup> Die Beurteilungsstellen bewerten, ob das Pflanzenschutzmittel unter den vorgeschlagenen Anwendungsbedingungen bis in den Boden gelangen kann. Besteht diese Möglichkeit, so bewerten sie die Abbaugeschwindigkeit und den Abbauweg, die Mobilität im Boden sowie die Veränderung der Gesamtkonzentration des Wirkstoffs (gebundene und nicht gebundene Rückstände [^annex9-partI-lvlu2-lvld4e204-lvlu27-1]) und der Metaboliten, Abbau- und Reaktionsprodukte, die bei Verwendung des Pflanzenschutzmittels unter den vorgeschlagenen Anwendungsbedingungen im Boden der vorgesehenen Anwendungsregion zu erwarten sind.
+<sup>1</sup> Die Beurteilungsstellen bewerten, ob das Pflanzenschutzmittel unter den vorgeschlagenen Anwendungsbedingungen bis in den Boden gelangen kann. Besteht diese Möglichkeit, so bewerten sie die Abbaugeschwindigkeit und den Abbauweg, die Mobilität im Boden sowie die Veränderung der Gesamtkonzentration des Wirkstoffs (gebundene und nicht gebundene Rückstände[^annex9-partI-lvlu2-lvld4e204-lvlu27-1]) und der Metaboliten, Abbau- und Reaktionsprodukte, die bei Verwendung des Pflanzenschutzmittels unter den vorgeschlagenen Anwendungsbedingungen im Boden der vorgesehenen Anwendungsregion zu erwarten sind.
 
 <sup>2</sup> Bei dieser Bewertung werden folgende Informationen berücksichtigt:
 

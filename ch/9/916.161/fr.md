@@ -4,11 +4,11 @@ title: "Ordonnance du 12 mai 2010 sur la mise en circulation des produits phytos
 short: OPPh
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: fr
-version: 2023-01-18
+version: 2023-04-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20230118/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20230118-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230118/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20230401-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230118/fr"
 
 (Ordonnance sur les produits phytosanitaires, OPPh)
 
-du 12 mai 2010 (État le 18 janvier 2023)
+du 12 mai 2010 (État le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1454,7 +1454,13 @@ L’étiquetage doit être formulé dans au moins une langue officielle du lieu 
 
 <sup>3</sup> Pour l’application, seuls peuvent être utilisés des équipements qui permettent un usage ciblé et conforme à la bonne pratique des produits phytosanitaires.
 
+<sup>4</sup> Les pulvérisateurs à prise de force ou autotractés d’une contenance de plus de 400 litres doivent être équipés d’un réservoir d’eau claire pour le nettoyage aux champs de la pompe, des filtres, des conduites et des buses ainsi que d’un système automatique de nettoyage interne des pulvérisateurs. Le rinçage de la pompe, des filtres, des conduites et des buses doit être effectué sur la surface traitée.[^61-2]
+
+<sup>5</sup> Les pulvérisateurs à prise de force ou autotractés utilisés pour la protection phytosanitaire doivent être testés au moins toutes les trois années civiles par un service agréé conformément aux exigences fixées aux al. 3 et 4. Les manquements observés doivent être éliminés dans un délai fixé par le canton.[^61-3]
+
 [^61-1]: Nouvelle teneur selon le ch. I de l’O du 23 mai 2012, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)).
+[^61-2]: Introduit par l’annexe de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^61-3]: Introduit par l’annexe de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 #### Art. 62
 
