@@ -4,13 +4,13 @@ number: "152.05"
 title: Gesetz über die zentralen Personendatensammlungen
 short: "Personendatensammlungsgesetz, PDSG"
 language: de
-version: 2023-01-01
-valid_until: 2023-03-31
-version_adopted: 2022-06-15
+version: 2023-04-01
+valid_until: 2024-12-31
+version_adopted: 2022-09-13
 adopted: 2020-03-10
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.05"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2719/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3055/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2719/pdf_file"
 
 (Personendatensammlungsgesetz, PDSG)
 
-vom 10.03.2020 (Stand 01.01.2023)
+vom 10.03.2020 (Stand 01.04.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -215,7 +215,7 @@ beschliesst:
 
 **Elektronische Registerführung**
 
-<sup>1</sup> Der Kanton betreibt eine zentrale Personendatensammlung zur Erfüllung der Aufgaben gemäss dem RHG sowie dem Gesetz vom 12. September 1985 über Niederlassung und Aufenthalt der Schweizer (GNA)[^18-1].
+<sup>1</sup> Der Kanton betreibt eine zentrale Personendatensammlung zur Erfüllung der Aufgaben gemäss dem RHG sowie dem Gesetz vom 12. September 1985 über Niederlassung und Aufenthalt der Schweizer (NAG)[^18-1].
 
 <sup>2</sup> Die zentrale Personendatensammlung enthält insbesondere auch diese besonders schützenswerten Personendaten:
 
@@ -335,7 +335,7 @@ beschliesst:
 <tr><td>10.</td><td>Bundesgesetz über die Unfallversicherung (UVG; SR 832.20)</td><td>d, f</td></tr>
 <tr><td>II.</td><td>Gesetze Kanton Bern</td><td></td></tr>
 <tr><td>1.</td><td>Gesetz über das Kantons- und Gemeindebürgerrecht (Kantonales Bürgerrechtsgesetz, KBüG; BSG 121.1)</td><td>c, d, e, f</td></tr>
-<tr><td>2.</td><td>Gesetz über Niederlassung und Aufenthalt der Schweizer (GNA; BSG122.11)</td><td>a, c, d, e, f</td></tr>
+<tr><td>2.</td><td>Gesetz über Niederlassung und Aufenthalt der Schweizer (NAG; BSG122.11)</td><td>a, c, d, e, f</td></tr>
 <tr><td>3.</td><td>Gesetz über die politischen Rechte (PRG; BSG 141.1)</td><td>f</td></tr>
 <tr><td>4.</td><td>Gesetz über die Regierungsstatthalterinnen und Regierungsstatthalter (RStG; BSG 152.321)</td><td>d, e, f</td></tr>
 <tr><td>5.</td><td>Personalgesetz (PG; BSG 153.01)</td><td>a, b, d, f</td></tr>
@@ -343,7 +343,7 @@ beschliesst:
 <tr><td>7.</td><td>Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB; BSG 211.1)</td><td>d, e, f</td></tr>
 <tr><td>8.</td><td>Gesetz über den Kindes- und Erwachsenenschutz (KESG; BSG 213.316)</td><td>b, d, e, f</td></tr>
 <tr><td>9.</td><td>Einführungsgesetz zum Bundesgesetz vom 16. Dezember 1983 über den Erwerb von Grundstücken durch Personen im Ausland (EG BewG; BSG 215.126.1)</td><td>d, e, f</td></tr>
-<tr><td>10.</td><td>Gesetz betreffend die Handänderungssteuer (HG; BSG 215.326.2)</td><td>f</td></tr>
+<tr><td>10.</td><td>...</td><td>...</td></tr>
 <tr><td>11.</td><td>Kantonales Geoinformationsgesetz (KGeolG; BSG 215.341)</td><td>f</td></tr>
 <tr><td>12.</td><td>Einführungsgesetz zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung (EG ZSJ; BSG 271.1)</td><td>a, c, d, e, f</td></tr>
 <tr><td>13.</td><td>Gesetz über den Justizvollzug (Justizvollzugsgesetz, JVG; BSG 341.1)</td><td>c, d, e, f</td></tr>

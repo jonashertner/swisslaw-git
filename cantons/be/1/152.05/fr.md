@@ -4,13 +4,13 @@ number: "152.05"
 title: Loi sur les fichiers centralisés de données personnelles
 short: LFDP
 language: fr
-version: 2023-01-01
-valid_until: 2023-03-31
-version_adopted: 2022-06-15
+version: 2023-04-01
+valid_until: 2024-12-31
+version_adopted: 2022-09-13
 adopted: 2020-03-10
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.05"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2719/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3055/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2719/pdf_file"
 
 (LFDP)
 
-du 10.03.2020 (état au 01.01.2023)
+du 10.03.2020 (état au 01.04.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -343,7 +343,7 @@ arrête:
 <tr><td>7.</td><td>Loi sur l'introduction du Code civil suisse (LiCCS; RSB 211.1)</td><td>d, e, f</td></tr>
 <tr><td>8.</td><td>Loi sur la protection de l’enfant et de l’adulte (LPEA; RSB 213.316)</td><td>b, d, e, f</td></tr>
 <tr><td>9.</td><td>Loi portant introduction à la loi fédérale du 16 décembre 1983 sur l'acquisition d'immeubles par des personnes à l'étranger (Li LFAIE; RSB 215.126.1)</td><td>d, e, f</td></tr>
-<tr><td>10.</td><td>Loi concernant les impôts sur les mutations (LIMu; RSB 215.326.2)</td><td>f</td></tr>
+<tr><td>10.</td><td>...</td><td>...</td></tr>
 <tr><td>11.</td><td>Loi cantonale sur la géoinformation (LCGéo; RSB 215.341)</td><td>f</td></tr>
 <tr><td>12.</td><td>Loi portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs (LiCPM; RSB 271.1)</td><td>a, c, d, e, f</td></tr>
 <tr><td>13.</td><td>Loi sur l'exécution judiciaire (LEJ; RSB 341.1)</td><td>c, d, e, f</td></tr>
