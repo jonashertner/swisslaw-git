@@ -4,13 +4,13 @@ number: "211.24"
 title: Verordnung des Obergerichts zum Kindes- und Erwachsenenschutz
 short: "Kindes- und Erwachsenenschutzverordnung, KESV"
 language: de
-version: 2021-01-01
-valid_until: 2023-03-31
-version_adopted: 2021-01-01
+version: 2023-04-01
+valid_until: 2023-06-16
+version_adopted: 2023-03-21
 adopted: 2012-10-22
 in_force: 2013-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/211.24"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2075/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2647/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ KESV
 
 (Kindes- und Erwachsenenschutzverordnung, KESV)
 
-vom 22.10.2012 (Stand 01.01.2021)
+vom 22.10.2012 (Stand 01.04.2023)
 
 ## 1. Organisation der Kindes- und Erwachsenenschutzbehörden
 
@@ -31,11 +31,11 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Der gesamte Beschäftigungsgrad der Präsidien und Mitglieder der Kindes- und Erwachsenenschutzbehörde beträgt:
 
-- 1\. für den Bezirk Arbon — 440 %;
-- 2\. für den Bezirk Frauenfeld — 540 %;
-- 3\. für den Bezirk Kreuzlingen — 370 %;
-- 4\. für den Bezirk Münchwilen — 350 %;
-- 5\. für den Bezirk Weinfelden — 410 %.
+- 1\. für den Bezirk Arbon — 440 %
+- 2\. für den Bezirk Frauenfeld — 550 %
+- 3\. für den Bezirk Kreuzlingen — 370 %
+- 4\. für den Bezirk Münchwilen — 350 %
+- 5\. für den Bezirk Weinfelden — 410 %
 
 #### § 2
 
@@ -43,11 +43,17 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Der gesamte Beschäftigungsgrad der Fachsekretariate der Kindes- und Erwachsenenschutzbehörde beträgt:
 
-- 1\. für den Bezirk Arbon — 600 %;
-- 2\. für den Bezirk Frauenfeld — 690 %;
-- 3\. für den Bezirk Kreuzlingen — 490 %;
-- 4\. für den Bezirk Münchwilen — 480 %;
-- 5\. für den Bezirk Weinfelden — 740 %.
+- 1\. für den Bezirk Arbon — 600 %
+- 2\. für den Bezirk Frauenfeld — 680 %
+- 3\. für den Bezirk Kreuzlingen — 490 %
+- 4\. für den Bezirk Münchwilen — 480 %
+- 5\. für den Bezirk Weinfelden — 740 %
+
+#### § 2a
+
+**Umwandlung von Pensen**
+
+<sup>1</sup> Das Obergericht kann auf Antrag einer Kindes- und Erwachsenenschutzbehörde bei Bedarf deren Gesamtpensum gemäss § 1 und § 2 in beschränktem Umfang neu verteilen, sofern es die Verhältnisse zulassen. Für die Umwandlung von Pensen der Behördenmitglieder zu Pensen des Fachsekretariats gilt ein Faktor von 1.5.
 
 #### § 3
 
@@ -83,7 +89,7 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Präsidium, Mitglieder und Mitarbeitende der Kindes- und Erwachsenenschutzbehörden haben jedes Jahr mindestens eine Weiterbildungsveranstaltung zu besuchen.
 
-<sup>2</sup> Das Präsidium der Behörde ordnet in seinem Zuständigkeitsbereich obligatorische Weiterbildung an und bewilligt freiwillige Weiterbildung und Supervision. Bei einem Ausfall von mehr als acht Arbeitstagen oder bei Kosten von über Fr. 3'000 pro Person und Jahr ist vorgängig eine Bewilligung des Obergerichtspräsidiums einzuholen.
+<sup>2</sup> Das Präsidium der Behörde ordnet in seinem Zuständigkeitsbereich obligatorische Weiterbildung an und bewilligt freiwillige Weiterbildung und Supervision. Bei einem Ausfall von mehr als fünf Arbeitstagen oder bei Kosten von über Fr. 3'000 pro Person und Jahr ist vorgängig eine Bewilligung des Obergerichtspräsidiums einzuholen.
 
 #### § 7
 
@@ -95,13 +101,13 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 **Jahreskonferenz**
 
-<sup>1</sup> Das Obergerichtspräsidium führt jedes Jahr mit den Präsidien der Kindes- und Erwachsenenschutzbehörden ein Treffen zur Behandlung aktueller Fragen durch. Dabei können zur Vereinheitlichung der Rechtsanwendung Richtlinien erlassen werden; diese bedürfen der Genehmigung durch das Obergericht.
+<sup>1</sup> Das Obergerichtspräsidium führt jedes Jahr mit den Präsidien der Kindes- und Erwachsenenschutzbehörden mindestens ein Treffen zur Behandlung aktueller Fragen durch. Dabei können zur Vereinheitlichung der Rechtsanwendung Richtlinien erlassen werden; diese bedürfen der Genehmigung durch das Obergericht.
 
 #### § 9
 
 **Jahresbericht und Statistik**
 
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörden erstatten zuhanden des Obergerichts zu Beginn des Jahres die statistischen Zahlen über ihre Tätigkeit im Vorjahr. Grundsätzlich sind die statistischen Vorgaben der Konferenz für Kindes- und Erwachsenenschutz (KOKES) massgebend. Das Obergerichtspräsidium kann nach Absprache mit der oder dem Informatikbeauftragten des Obergerichts weitere Vorgaben festlegen.
+<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörden erstatten zuhanden des Obergerichts zu Beginn des Jahres die statistischen Zahlen über ihre Tätigkeit im Vorjahr. Grundsätzlich sind die statistischen Vorgaben der Konferenz für Kindes- und Erwachsenenschutz (KOKES) massgebend. Das Obergerichtspräsidium kann nach Rücksprache mit den Präsidien der Kindes- und Erwachsenenschutzbehörden weitere Vorgaben festlegen.
 
 <sup>2</sup> Die Behörden liefern ausserdem der KOKES die von dieser verlangten statistischen Angaben.
 
@@ -153,13 +159,13 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 #### § 13
 
-**Behördemitglieder**
+**Behördenmitglieder**
 
-<sup>1</sup> Die Mitglieder der Kindes- und Erwachsenenschutzbehörde üben ihre Tätigkeit in der Regel hauptberuflich aus. Sie müssen mindestens mit einem Pensum von 50% tätig sein; der Beschäftigungsgrad des Präsidiums muss mindestens 80% betragen.
+<sup>1</sup> Die Mitglieder der Kindes- und Erwachsenenschutzbehörde üben ihre Tätigkeit in der Regel hauptberuflich aus. Sie müssen mindestens mit einem Pensum von 50 % tätig sein; der Beschäftigungsgrad des Präsidiums muss mindestens 80 % betragen.
 
 <sup>2</sup> Alle Mitglieder der Kindes- und Erwachsenenschutzbehörde sind entsprechend ihrem Pensum möglichst gleichmässig einzusetzen.
 
-<sup>3</sup> Liegt das gesamte von den Behördenmitgliedern einer Kindes- und Erwachsenenschutzbehörde festgelegte Pensum zu tief, um die Aufgabenerfüllung der Behörde zu gewährleisten, kann sie dem Obergericht eine Umwandlung von Pensen beantragen. Das Obergericht kann mit einem Faktor von 1,5 in beschränktem Umfang der Umwandlung von Pensen der Behördenmitglieder in Pensen des Fachsekretariats zustimmen, sofern es die Verhältnisse zulassen. Andernfalls ordnet das Obergericht Neuwahlen an.
+<sup>3</sup> …
 
 #### § 14
 
@@ -169,13 +175,19 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>2</sup> Das Präsidium bestimmt, wer unter seiner Verantwortung für das Rechnungswesen und das Inkasso, das Budget, die Mobiliar- und Materialbeschaffung sowie das Archiv zuständig ist.
 
-<sup>3</sup> Die Behörde legt in ihrer Geschäftsordnung fest, inwieweit die Mitarbeiterinnen und Mitarbeiter des Fachsekretariats im Rahmen ihrer Aufgaben berechtigt sind, im Namen der Behörde zu handeln.
+<sup>3</sup> Das Präsidium legt fest, inwieweit die Mitarbeiterinnen und Mitarbeiter des Fachsekretariats im Rahmen ihrer Aufgaben berechtigt sind, im Namen der Behörde zu handeln.
 
 #### § 14a
 
 **Ausserordentliche Ersatzmitglieder**
 
 <sup>1</sup> Kann aufgrund von Krankheit, Unfall, Schwangerschaft oder Ortsabwesenheit die notwendige Besetzung nicht erreicht werden, kann das Obergerichtspräsidium die Behörde für eine befristete Zeit durch ein Mitglied oder mehrere Mitglieder einer anderen Kindes- und Erwachsenenschutzbehörde ergänzen.
+
+#### § 14b
+
+**Ausserordentliche Mitarbeiter im Fachsekretariat**
+
+<sup>1</sup> Über den befristeten Einsatz von Mitarbeiterinnen und Mitarbeitern bis zu drei Monaten entscheidet die Behörde. Eine längere Anstellungsdauer von mehr als drei Monaten bedarf einer Bewilligung des Obergerichtspräsidiums.
 
 #### § 15
 
@@ -195,7 +207,7 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 **Erfahrungsaustausch**
 
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde sorgt für einen regelmässigen Erfahrungsaustausch mit den Berufsbeistandschaften sowie den Vertreterinnen und Vertretern der Politischen Gemeinden des Bezirks. Sie führt dazu jedes Jahr ein Treffen durch.
+<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde sorgt für einen regelmässigen Erfahrungsaustausch mit den Berufsbeistandschaften sowie den Vertreterinnen und Vertretern der Politischen Gemeinden des Bezirks.
 
 #### § 17
 
@@ -203,7 +215,7 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Als wesentlicher Nebenerwerb gilt bei vollzeitbeschäftigten Mitgliedern der Kindes- und Erwachsenenschutzbehörde jede Tätigkeit, mit welcher mehr als ein Zehntel der beim Kanton bezogenen Jahresbesoldung angestrebt oder erzielt wird.
 
-<sup>2</sup> Bei teilzeitbeschäftigten Mitgliedern darf der maximale Beschäftigungsgrad aller Anstellungen und Engagements 110% nicht übersteigen. Darüber hinausgehende Beschäftigungen können vom Obergericht mit einer zeitlichen Beschränkung bewilligt werden.
+<sup>2</sup> Bei teilzeitbeschäftigten Mitgliedern darf der maximale Beschäftigungsgrad aller Anstellungen und Engagements 110 % nicht übersteigen. Darüber hinausgehende Beschäftigungen können vom Obergericht mit einer zeitlichen Beschränkung bewilligt werden.
 
 <sup>3</sup> Blosse Sitzungsgelder für die Tätigkeit bei Behörden, öffentlich-rechtlichen Körperschaften oder Anstalten sowie gemeinnützigen Organisationen werden nicht eingerechnet. Dasselbe gilt für eine befristete Tätigkeit als Sachverständige oder in Expertenkommissionen.
 
@@ -217,9 +229,9 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 **Interessenkollision**
 
-<sup>1</sup> Das Amt als Mitglied einer Kindes- und Erwachsenenschutzbehörde oder die Tätigkeit als Mitarbeiterin oder Mitarbeiter der Behörde ist unvereinbar mit dem Amt als Mitglied des Gemeinderates oder der Schulbehörde einer im Bezirk liegenden Gemeinde, mit der Tätigkeit als Beiständin oder Beistand und als Vormundin oder Vormund sowie mit der berufsmässigen Vertretung von Personen vor den Kindes- und Erwachsenenschutzbehörden sowie vor der Beschwerdeinstanz. Vorbehalten bleiben private kindes- und erwachsenenschutzrechtliche Mandate aus familiären Gründen und private Mandate ausserhalb des Kantons.
+<sup>1</sup> Das Amt als Mitglied einer Kindes- und Erwachsenenschutzbehörde oder die Tätigkeit als Mitarbeiterin oder Mitarbeiter der Behörde ist unvereinbar mit dem Amt als Mitglied des Gemeinderates oder der Schulbehörde einer im Bezirk liegenden Gemeinde, mit der Tätigkeit als Beiständin oder Beistand und als Vormundin oder Vormund sowie mit der berufsmässigen Vertretung von Personen in familienrechtlichen Angelegenheiten vor den Kindes- und Erwachsenenschutzbehörden sowie vor der Beschwerdeinstanz. Vorbehalten bleiben private kindes- und erwachsenenschutzrechtliche Mandate und Vorsorgebeauftragungen aus familiären Gründen und private Mandate ausserhalb des Kantons.
 
-<sup>2</sup> Nebenbeschäftigungen beruflicher oder politischer Art sind so auszuüben, dass die richterliche Unabhängigkeit der Behörde nicht beeinträchtigt werden kann.
+<sup>2</sup> Nebenamtliche Tätigkeiten und Nebenbeschäftigungen von Richterinnen und Richtern dürfen die richterliche Unabhängigkeit nicht beeinträchtigen.
 
 #### § 19
 
@@ -232,6 +244,8 @@ vom 22.10.2012 (Stand 01.01.2021)
 <sup>3</sup> Über strittige Ausstandsbegehren gegen einzelne Mitglieder oder gegen Mitarbeiterinnen oder Mitarbeiter entscheidet die Behörde.
 
 <sup>4</sup> Muss die Gesamtheit oder müssen so viele Mitglieder der Kindes- und Erwachsenenschutzbehörde den Ausstand wahren, dass eine genügende Besetzung nicht möglich ist, kann das Obergerichtspräsidium die Behörde durch ein Mitglied oder mehrere Mitglieder einer anderen Kindes- und Erwachsenenschutzbehörde ergänzen. Das Obergerichtspräsidium kann stattdessen auch die stellvertretende Behörde gemäss § 3 als zuständig erklären.
+
+<sup>5</sup> Entscheide des Obergerichtspräsidiums sind mit Beschwerde nach Art. 319 ff. ZPO bei der 2. Abteilung des Obergerichts anfechtbar.
 
 [^19-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
 
@@ -269,11 +283,11 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 **Informatik**
 
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde bestimmt eine Informatikbeauftragte oder einen Informatikbeauftragten, die oder der für die Anwendung der elektronischen Geschäftsverwaltung und die Koordination mit der oder dem Informatikbeauftragten des Obergerichts zuständig ist.
+<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde bestimmt eine Informatikbeauftragte oder einen Informatikbeauftragten, die oder der für die Anwendung der elektronischen Geschäftsverwaltung und die Koordination mit dem Präsidium des Obergerichts zuständig ist.
 
 <sup>2</sup> Die Behörden können eine gemeinsame Beauftragte oder einen gemeinsamen Beauftragten bestimmen.
 
-<sup>3</sup> Die oder der Informatikbeauftragte des Obergerichts stellt eine einheitliche Anwendung der elektronischen Geschäftsverwaltung sicher und regelt den Datenaustausch. Sie oder er kann in Absprache mit dem Obergerichtspräsidium verbindliche Weisungen über die EDV-Anwendung erlassen, insbesondere über die Gestaltung von Standardbriefen mit Fristansetzungen und von Entscheiden.
+<sup>3</sup> Das Obergerichtspräsidium stellt eine einheitliche Anwendung der elektronischen Geschäftsverwaltung sicher und regelt den Datenaustausch. Es kann verbindliche Weisungen über die IT-Anwendung erlassen, insbesondere über die Gestaltung von Standardbriefen mit Fristansetzungen und von Entscheiden.
 
 #### § 25
 
@@ -281,9 +295,11 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Die Kindes- und Erwachsenenschutzbehörden stellen mit einem Pikettdienst sicher, dass innerhalb des Kantons stets ein Behördenmitglied erreichbar ist. Die Behörden liefern dem Obergerichtspräsidium zu Beginn des Jahres eine Kopie des letztjährigen Pikettjournals ab.
 
-<sup>2</sup> Bei Dringlichkeit sind ausserhalb der üblichen Geschäftszeiten alle Mitglieder der Behörde berechtigt, vorsorgliche Massnahmen oder superprovisorische Anordnungen zu treffen. Das Präsidium und gegebenenfalls die Verfahrensleitung sind darüber umgehend zu orientieren.
+<sup>2</sup> Vorsorgliche Massnahmen, mit denen die Handlungsfähigkeit eingeschränkt wird oder die persönliche Freiheiten schwerwiegend beeinträchtigen, werden von der Kollegialbehörde angeordnet.
 
-<sup>3</sup> Wird vom Präsidium oder einem Mitglied der Behörde eine vorsorgliche Massnahme verfügt, welche nicht in die einzelrichterliche Zuständigkeit fällt und die eine wesentliche Einschränkung der Rechtsstellung der betroffenen Person bewirkt, hat darüber innert fünf Tagen nach der Verfügung ein Entscheid der Behörde zu ergehen.
+<sup>3</sup> Müssen Massnahmen gemäss Abs. 2 ausserhalb der üblichen Geschäftszeiten sofort ohne Anhörung der am Verfahren beteiligten Personen getroffen werden (Art. 445 Abs. 2 ZGB), können sie von allen Mitgliedern der Behörden angeordnet werden. Die Kollegialbehörde entscheidet innert fünf Werktagen.
+
+<sup>4</sup> Ausserhalb der Geschäftszeiten können vorsorgliche Massnahmen, die nicht unter Abs. 2 aber in den Kompetenzbereich der Behörde fallen, von allen Mitgliedern der Behörde angeordnet werden. Wer eine solche Massnahme anordnet, orientiert umgehend das Präsidium oder die Verfahrensleitung.
 
 #### § 26
 
@@ -323,21 +339,22 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>2</sup> Insbesondere finden sinngemässe Anwendung die Bestimmungen über:
 
-- 1\. die Mitteilung der Besetzung der Behörde (§ 71 ZSRV);
-- 2\. prozessleitende Verfügungen (§ 68 ZSRV);
-- 3\. die berufsmässige Vertretung (§ 62 Abs. 1 und Abs. 2 Ziff. 2 ZSRV);
-- 4\. die Zulassung von Anwaltspraktikantinnen und Anwaltspraktikanten (§ 63 Abs. 2 ZSRV);
-- 5\. die Verfahrensakten (§ 65 ZSRV);
-- 6\. die Einreichung und Rückgabe von Akten durch Verfahrensbeteiligte (Art. 180 ZPO und § 64 ZSRV);
-- 7\. die Entschädigung von Zeuginnen und Zeugen (§ 60 ZSRV);
-- 8\. die Entschädigung von Sachverständigen (Art. 184 Abs. 3 ZPO und § 61 ZSRV);
-- 9\. den Einsatz von Dolmetscherinnen und Dolmetschern (§ 8 Abs. 3 ZSRV);
-- 10\. die Verfahrensdisziplin und die Sitzungspolizei (Art. 128 ZPO und § 57 ZSRV);
-- 11\. die Aufsichtsbeschwerde (§ 16 ZSRV);
-- 12\. die Protokolle (§ 72 ZSRV);
-- 13\. die Kanzleigebühren (§ 14 ZSRV);
-- 14\. die Entscheide oberer Instanzen (§ 81 ZSRV);
-- 15\. die Aktenüberweisung an die Rechtsmittelinstanz (§ 79 Abs. 1 und Abs. 3 ZSRV).
+- 1\. die Mitteilung der Besetzung der Behörde (§ 71 ZSRV)
+- 2\. prozessleitende Verfügungen (§ 68 ZSRV)
+- 3\. die berufsmässige Vertretung (§ 62 Abs. 1 und Abs. 2 Ziff. 2 ZSRV)
+- 4\. die Zulassung von Anwaltspraktikantinnen und Anwaltspraktikanten (§ 63 Abs. 2 ZSRV)
+- 5\. die Verfahrensakten (§ 65 ZSRV)
+- 6\. die Einreichung und Rückgabe von Akten durch Verfahrensbeteiligte (Art. 180 ZPO und § 64 ZSRV)
+- 7\. die Entschädigung von Zeuginnen und Zeugen (§ 60 ZSRV)
+- 8\. die Entschädigung von Sachverständigen (Art. 184 Abs. 3 ZPO und § 61 ZSRV)
+- 9\. den Einsatz von Dolmetscherinnen und Dolmetschern (§ 8 Abs. 3 ZSRV)
+- 9a. die Vollstreckbarkeitserklärung (§ 9a ZSRV)
+- 10\. die Verfahrensdisziplin und die Sitzungspolizei (Art. 128 ZPO und § 57 ZSRV)
+- 11\. die Aufsichtsbeschwerde und Anzeige (§ 16 f. ZSRV)
+- 12\. die Protokolle (§ 72 ZSRV)
+- 13\. die Kanzleigebühren (§ 14 ZSRV)
+- 14\. die Entscheide oberer Instanzen (§ 81 ZSRV)
+- 15\. die Aktenüberweisung an die Rechtsmittelinstanz (§ 79 Abs. 1 und Abs. 3 ZSRV)
 
 [^29-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 [^29-2]: RB [210.1](https://www.rechtsbuch.tg.ch/data/210.1/de)
@@ -355,7 +372,7 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 **Kostenvorschüsse**
 
-<sup>1</sup> Im Verfahren vor der Kindes- und Erwachsenenschutzbehörde und vor der Beschwerdeinstanz werden in der Regel keine Kostenvorschüsse verlangt. Vorbehalten bleiben insbesondere Fälle, in welchen das Verfahren offensichtlich mutwillig oder leichtfertig veranlasst wurde. Der Kostenvorschuss ist in bar zu leisten.
+<sup>1</sup> Im Verfahren vor der Kindes- und Erwachsenenschutzbehörde und vor der Beschwerdeinstanz werden in der Regel keine Kostenvorschüsse verlangt. Vorbehalten bleiben insbesondere Fälle, in welchen das Verfahren offensichtlich mutwillig oder leichtfertig veranlasst wurde.
 
 <sup>2</sup> Im Übrigen darf den Verfahrensbeteiligten keine Sicherheitsleistung auferlegt werden.
 
@@ -375,11 +392,11 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 #### § 34
 
-**Unentgeltliche Rechtspflege**
+**Unentgeltliche Rechtspflege im Verfahren vor der Kindes- und Erwachsenenschutzbehörde**
 
 <sup>1</sup> Wird die unentgeltliche Rechtspflege bewilligt, ist im Endentscheid im Hinblick auf die Nachzahlungspflicht gegebenenfalls eine Verfahrensgebühr festzusetzen.
 
-<sup>2</sup> Entscheide, mit denen zufolge Gewährung der unentgeltlichen Rechtspflege auf Verfahrenskosten verzichtet wird oder Offizialanwaltsentschädigungen zugesprochen werden, sind auszugsweise der zuständigen Stelle der Finanzverwaltung zuzustellen.
+<sup>2</sup> Entscheide, mit denen zufolge Gewährung der unentgeltlichen Rechtspflege auf Verfahrenskosten verzichtet wird oder Offizialanwaltsentschädigungen zugesprochen werden, sind im Dispositiv der zuständigen Stelle der Finanzverwaltung zuzustellen.
 
 #### § 35
 
@@ -391,7 +408,7 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 **Information von Gerichten und anderen Behörden**
 
-<sup>1</sup> Soweit keine besonderen Vorschriften bestehen, richtet sich die Auskunftserteilung und die Gewährung der Einsicht in Entscheide und Akten gegenüber Gerichten und Verwaltungsbehörden sinngemäss nach § 25 ff. der Verordnung des Obergerichts über die Information in Zivil- und Strafgerichtsverfahren und die Akteneinsicht durch Dritte (Informationsverordnung)[^36-1].
+<sup>1</sup> Soweit keine besonderen Vorschriften bestehen, richtet sich die Auskunftserteilung und die Gewährung der Einsicht in Entscheide und Akten gegenüber Gerichten und Verwaltungsbehörden sinngemäss nach § 24 ff. der Verordnung des Obergerichts über die Information in Zivil- und Strafgerichtsverfahren und die Akteneinsicht durch Dritte (Informationsverordnung)[^36-1].
 
 [^36-1]: RB [271.31](https://www.rechtsbuch.tg.ch/data/271.31/de)
 
@@ -415,7 +432,16 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 **Verfahrensleitung**
 
-<sup>1</sup> Die Verfahrensleitung leitet und instruiert das Verfahren, erlässt bei Dringlichkeit vorsorgliche Massnahmen oder superprovisorische Anordnungen, entscheidet über die Gewährung der unentgeltlichen Rechtspflege sowie die Vertretung der betroffenen Partei im Verfahren und erlässt Abschreibungs- und Nichteintretensentscheide. Sie entscheidet über die Anordnung oder den Entzug der aufschiebenden Wirkung nach Art. 450c und Art. 450e ZGB, erstattet die Vernehmlassung im Sinn von Art. 450d Abs. 1 ZGB und erlässt Vollstreckungsverfügungen gemäss Art. 450g ZGB.
+<sup>1</sup> Die Verfahrensleitung leitet und instruiert das Verfahren. Sie entscheidet über:
+
+- 1\. vorsorgliche Massnahmen, sofern Dringlichkeit besteht und diese nicht gemäss § 25 Abs. 2 dieser Verordnung in die Zuständigkeit der Kollegialbehörde fallen
+- 2\. superprovisorische Anordnungen
+- 3\. Gewährung der unentgeltlichen Rechtspflege
+- 4\. Vertretung der betroffenen Partei im Verfahren
+- 5\. Abschreibungen im Sinne von § 9 ZSRG
+- 6\. Anordnung oder den Entzug der aufschiebenden Wirkung nach Art. 450c und Art. 450e ZGB
+- 7\. Vernehmlassung im Sinn von Art. 450d Abs. 1 ZGB an die Beschwerdeinstanz
+- 8\. Vollstreckungen gemäss Art. 450g ZGB
 
 #### § 39
 
@@ -427,42 +453,48 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>3</sup> Wird der Spruchkörper im Verlauf des Verfahrens geändert, kann die betroffene Person eine erneute Anhörung verlangen. Die Unterlagen über die früher vorgenommenen Verfahrenshandlungen verbleiben bei den Akten.
 
+<sup>4</sup> Massgebend ist im Spruchkörper das Mehr der Behördenmitglieder. Stimmenthaltung ist nicht zulässig.
+
 #### § 39a
 
 **Einzelrichterzuständigkeit**
 
 <sup>1</sup> Das Präsidium oder ein von diesem oder von der Geschäftsordnung bezeichnetes Mitglied der Kindes- und Erwachsenenschutzbehörde ist für folgende Aufgaben und Entscheide zuständig:
 
-- 1\. Antragstellung betreffend Neuregelung der elterlichen Sorge (Art. 134 Abs. 1 ZGB);
-- 2\. Neuregelung der elterlichen Sorge und Obhut bei Einigkeit der Eltern oder wenn ein Elternteil verstorben ist, sowie Genehmigung entsprechender Unterhaltsverträge (Art. 134 Abs. 3 und Art. 297 Abs. 2 ZGB);
-- 3\. Neuregelung des persönlichen Verkehrs oder der Betreuungsanteile in nichtstreitigen Fällen ohne Neubeurteilung der elterlichen Sorge oder des Unterhalts (Art. 134 Abs. 4, Art. 179 Abs. 1 und Art. 298d ZGB);
-- 4\. Genehmigung von Unterhaltsverträgen sowie der Nichtabänderbarkeit von Unterhaltsbeiträgen (Art. 287 Abs. 1 und Abs. 2 ZGB);
-- 5\. Übertragung der elterlichen Sorge auf den anderen Elternteil oder auf beide Elternteile bei Vorliegen eines gemeinsamen Antrags (Art. 298 Abs. 3 sowie Art. 298a Abs. 1 ZGB);
-- 6\. Ernennung einer Vormundin oder eines Vormunds auf Anordnung des Gerichts (Art. 298 Abs. 3 ZGB);
-- 7\. Anordnung einer Beistandschaft für das Kind (Art. 306 Abs. 2 ZGB) und Anordnung einer Beistandschaft bei der Feststellung der Vaterschaft und zur Wahrung des Unterhaltsanspruchs (Art. 308 Abs. 2 ZGB);
-- 8\. Massnahmen zum Schutz und Bewilligung zur Anzehrung des Kindesvermögens sowie Anhalten von Dritten zur periodischen Rechnungstellung und Berichterstattung (Art. 318 Abs. 3, Art. 320 Abs. 2 und Art. 322 Abs. 2 ZGB) sowie Genehmigung des Inventars über das Kindesvermögen nach dem Tod eines Elternteils (Art. 318 Abs. 2 ZGB);
-- 9\. Anordnung der Hinterlegung und der Sicherheitsleistung (Art. 324 Abs. 2 ZGB);
-- 10\. Anordnung von Vorkehrungen (Art. 333 Abs. 3 ZGB);
-- 11\. Überprüfung, Auslegung und Ergänzung des Vorsorgeauftrags einschliesslich Einweisung der beauftragten Person in ihre Pflichten (Art. 363 und Art. 364 ZGB) sowie Festlegung der Entschädigung beim Vorsorgeauftrag (Art. 366 Abs. 1 ZGB);
-- 12\. Zustimmung zu Rechtshandlungen des Ehegatten beziehungsweise der eingetragenen Partnerin oder des eingetragenen Partners im Rahmen der ausserordentlichen Vermögensverwaltung (Art. 374 Abs. 3 ZGB);
-- 13\. Prüfung der Voraussetzungen zur Vertretungsbefugnis des Ehegatten beziehungsweise der eingetragenen Partnerin oder des eingetragenen Partners und Ausstellung einer Urkunde über die Vertretungsbefugnis (Art. 376 Abs. 1 ZGB);
-- 14\. Errichtung einer Vertretungsbeistandschaft oder Bestimmung der vertretungsberechtigten Person bei medizinischen Massnahmen (Art. 381 und Art. 382 Abs. 3 ZGB);
-- 15\. Ernennung der Beiständin oder des Beistands (Art. 400 bis Art. 403 ZGB) sowie deren Entlassung aus dem Amt (Art. 422 und Art. 423 ZGB);
-- 16\. Festlegung der Mandatsentschädigung (Art. 404 Abs. 2 ZGB);
-- 17\. Feststellung der Beendigung einer Massnahme aus gesetzlichen Gründen;
-- 18\. Aufnahme und Anordnung eines öffentlichen Inventars (Art. 405 Abs. 2 und Abs. 3, ZGB) und Antrag auf Aufnahme eines Erbschaftsinventars (Art. 553 Abs. 1 Ziff. 3 ZGB);
-- 19\. Entbindung von der Pflicht zur Ablage des Schlussberichts und der Schlussrechnung (Art. 425 Abs. 1 Satz 2 ZGB);
-- 20\. Übertragung der bestehenden Massnahme an die Behörde des neuen Wohnsitzes sowie Übernahme einer bestehenden Massnahme von der Behörde des bisherigen Wohnsitzes (Art. 442 und Art. 444 ZGB);
-- 21\. Erteilung der Zustimmung bei zustimmungsbedürftigen Geschäften (Art. 416 und Art. 417 ZGB);
-- 22\. Entscheid über Zuständigkeitsfragen (Art. 444 ZGB);
-- 23\. Entscheid über die Akteneinsicht (Art. 449b ZGB);
-- 24\. Vollstreckung von Entscheiden (Art. 450g Abs. 1 ZGB) sowie Amts- und Rechtshilfemassnahmen;
-- 25\. Erteilung von Auskunft über das Vorliegen und die Wirkungen einer Massnahme (Art. 451 Abs. 2 ZGB);
-- 26\. Mitteilung an Schuldnerinnen und Schuldner (Art. 452 Abs. 2 ZGB);
-- 27\. Antrag auf Verschollenerklärung (Art. 550 ZGB);
-- 28\. Anordnung der Vertretungsbeistandschaft für das ungeborene Kind zur Wahrung erbrechtlicher Ansprüche (Art. 544 Abs. 1<sup>bis</sup> ZGB);
-- 29\. Ausstellung einer Bescheinigung über die Berechtigung zum Handeln und die übertragenen Befugnisse (Art. 40 Abs. 3 des Haager Übereinkommens über die Zuständigkeit, das anzuwendende Recht, die Anerkennung, Vollstreckung und Zusammenarbeit auf dem Gebiet der elterlichen Verantwortung und der Massnahmen zum Schutz von Kindern [Haager Kindesschutzübereinkommen, HKsÜ][^39a-1] sowie Art. 38 Abs. 3 des Haager Übereinkommens über den internationalen Schutz von Erwachsenen [Haager Erwachsenenschutzübereinkommen, HEsÜ][^39a-2]);
-- 30\. Regelung über die Anrechnung der Erziehungsgutschriften (Art. 52f<sup>bis</sup> der Verordnung über die Alters- und Hinterlassenenversicherung[^39a-3]).
+- 1\. Antragstellung betreffend Neuregelung der elterlichen Sorge (Art. 134 Abs. 1 ZGB)
+- 2\. Neuregelung der elterlichen Sorge und Obhut bei Einigkeit der Eltern oder wenn ein Elternteil verstorben ist, sowie Genehmigung entsprechender Unterhaltsverträge (Art. 134 Abs. 3 und Art. 297 Abs. 2 ZGB)
+- 3\. Neuregelung des persönlichen Verkehrs oder der Betreuungsanteile in nichtstreitigen Fällen ohne Neubeurteilung der elterlichen Sorge oder des Unterhalts (Art. 134 Abs. 4, Art. 179 Abs. 1 und Art. 298d ZGB)
+- 4\. Genehmigung von Unterhaltsverträgen sowie der Nichtabänderbarkeit von Unterhaltsbeiträgen (Art. 287 Abs. 1 und Abs. 2 ZGB)
+- 5\. Übertragung der elterlichen Sorge auf den anderen Elternteil oder auf beide Elternteile bei Vorliegen eines gemeinsamen Antrags (Art. 298a Abs. 1 ZGB)
+- 6\. Ernennung einer Vormundin oder eines Vormunds auf Anordnung des Gerichts (Art. 298 Abs. 3 ZGB)
+- 7\. Anordnung einer Beistandschaft für das Kind (Art. 306 Abs. 2 ZGB) und Anordnung einer Beistandschaft bei der Feststellung der Vaterschaft und zur Wahrung des Unterhaltsanspruchs (Art. 308 Abs. 2 ZGB)
+- 7a. Vollzug der gerichtlich angeordneten Kindesschutzmassnahmen (Art. 315a Abs. 1 ZGB)
+- 8\. Massnahmen zum Schutz und Bewilligung zur Anzehrung des Kindesvermögens sowie Anhalten von Dritten zur periodischen Rechnungstellung und Berichterstattung (Art. 318 Abs. 3, Art. 320 Abs. 2 und Art. 322 Abs. 2 ZGB) sowie Kenntnisnahme und Genehmigung des Inventars über das Kindesvermögen nach dem Tod eines Elternteils (Art. 318 Abs. 2 ZGB)
+- 9\. Anordnung der Hinterlegung und der Sicherheitsleistung (Art. 324 Abs. 2 ZGB)
+- 10\. Anordnung von Vorkehrungen (Art. 333 Abs. 3 ZGB)
+- 11\. Überprüfung, Auslegung und Ergänzung des Vorsorgeauftrags einschliesslich Einweisung der beauftragten Person in ihre Pflichten (Art. 363 und Art. 364 ZGB), Festlegung der Entschädigung beim Vorsorgeauftrag (Art. 366 Abs. 1 ZGB) sowie die Prüfung der Kündigung eines Vorsorgeauftrags (Art. 367 Abs. 1 ZGB)
+- 12\. Zustimmung zu Rechtshandlungen des Ehegatten beziehungsweise der eingetragenen Partnerin oder des eingetragenen Partners im Rahmen der ausserordentlichen Vermögensverwaltung (Art. 374 Abs. 3 ZGB)
+- 13\. Prüfung der Voraussetzungen zur Vertretungsbefugnis des Ehegatten beziehungsweise der eingetragenen Partnerin oder des eingetragenen Partners und Ausstellung einer Urkunde über die Vertretungsbefugnis (Art. 376 Abs. 1 ZGB)
+- 14\. Errichtung einer Vertretungsbeistandschaft oder Bestimmung der vertretungsberechtigten Person bei medizinischen Massnahmen (Art. 381 und Art. 382 Abs. 3 ZGB)
+- 14a. Erteilung der Zustimmung zum Betreten der Wohnräume und Öffnen der Post (Art. 391 Abs. 3 ZGB);
+- 15\. Ernennung der Beiständin oder des Beistands (Art. 400 bis Art. 403 ZGB) sowie deren Entlassung aus dem Amt (Art. 422 und Art. 423 ZGB)
+- 16\. Festlegung der Mandatsentschädigung (Art. 404 Abs. 2 ZGB)
+- 17\. Feststellung der Beendigung einer Massnahme aus gesetzlichen Gründen
+- 18\. Anordnung eines öffentlichen Inventars (Art. 405 Abs. 2 und Abs. 3 ZGB) und Antrag auf Aufnahme eines Erbschaftsinventars (Art. 553 Abs. 1 Ziff. 3 ZGB)
+- 18a. Rechnungsführung (Art. 415 Abs. 1 und Art. 425 Abs. 2 ZGB);
+- 19\. Entbindung von der Pflicht zur Ablage des Schlussberichts und der Schlussrechnung (Art. 425 Abs. 1 Satz 2 ZGB)
+- 20\. Übertragung der bestehenden Massnahme an die Behörde des neuen Wohnsitzes sowie Übernahme einer bestehenden Massnahme von der Behörde des bisherigen Wohnsitzes (Art. 442 und Art. 444 ZGB)
+- 21\. Erteilung der Zustimmung bei zustimmungsbedürftigen Geschäften (Art. 416 und Art. 417 ZGB)
+- 22\. Entscheid über Zuständigkeitsfragen (Art. 444 ZGB)
+- 23\. Entscheid über die Akteneinsicht (Art. 449b ZGB)
+- 24\. Vollstreckung von Entscheiden (Art. 450g Abs. 1 ZGB) sowie Amts- und Rechtshilfemassnahmen
+- 25\. Erteilung von Auskunft über das Vorliegen und die Wirkungen einer Massnahme (Art. 451 Abs. 2 ZGB)
+- 26\. Mitteilung an Schuldnerinnen und Schuldner (Art. 452 Abs. 2 ZGB)
+- 27\. Antrag auf Verschollenerklärung (Art. 550 ZGB)
+- 28\. Anordnung der Vertretungsbeistandschaft für das ungeborene Kind zur Wahrung erbrechtlicher Ansprüche (Art. 544 Abs. 1<sup>bis</sup> ZGB)
+- 29\. Ausstellung einer Bescheinigung über die Berechtigung zum Handeln und die übertragenen Befugnisse (Art. 40 Abs. 3 des Haager Übereinkommens über die Zuständigkeit, das anzuwendende Recht, die Anerkennung, Vollstreckung und Zusammenarbeit auf dem Gebiet der elterlichen Verantwortung und der Massnahmen zum Schutz von Kindern [Haager Kindesschutzübereinkommen, HKsÜ][^39a-1] sowie Art. 38 Abs. 3 des Haager Übereinkommens über den internationalen Schutz von Erwachsenen [Haager Erwachsenenschutzübereinkommen, HEsÜ][^39a-2])
+- 30\. Regelung über die Anrechnung der Erziehungsgutschriften (Art. 52f<sup>bis</sup> der Verordnung über die Alters- und Hinterlassenenversicherung[^39a-3])
+- 31\. Antrag zur Anordnung einer Kindesvertretung im Scheidungs- oder Trennungsprozess (Art. 299 Abs. 2 lit. b ZPO)
 
 [^39a-1]: SR [0.211.231.011](https://db.clex.ch/link/Bund/0.211.231.011/de)
 [^39a-2]: SR [0.211.232.1](https://db.clex.ch/link/Bund/0.211.232.1/de)
@@ -486,10 +518,10 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>2</sup> Verweigern Verfahrensbeteiligte die Mitwirkung, kann gestützt auf Art. 167 ZPO eine zwangsweise Durchsetzung der Mitwirkungspflicht erfolgen. Zulässig sind insbesondere:
 
-- 1\. die persönliche Vorführung;
-- 2\. die Untersuchung durch eine Ärztin oder einen Arzt;
-- 3\. die Herausgabe oder Sicherstellung von Dokumenten, Gegenständen und Vermögenswerten;
-- 4\. die Auferlegung der zusätzlich entstehenden Kosten.
+- 1\. die persönliche Vorführung
+- 2\. die Untersuchung durch eine Ärztin oder einen Arzt
+- 3\. die Herausgabe oder Sicherstellung von Dokumenten, Gegenständen und Vermögenswerten
+- 4\. die Auferlegung der zusätzlich entstehenden Kosten
 
 <sup>3</sup> Verweigern Dritte die Mitwirkung, ist nach Art. 167 ZPO vorzugehen.
 
@@ -525,7 +557,9 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 **Abklärung des Sachverhalts**
 
-<sup>1</sup> Grundsätzlich ist die Kindes- und Erwachsenenschutzbehörde für die Abklärung des Sachverhalts zuständig. In geeigneten Fällen kann sie diese ganz oder teilweise an die zuständige Berufsbeistandschaft oder an die Sozialen Dienste der Politischen Gemeinde delegieren. Ausnahmsweise können auch andere Stellen oder Drittpersonen damit beauftragt werden.
+<sup>1</sup> Die Behörde oder ein von ihr beauftragtes Behördenmitglied ermittelt den Sachverhalt von Amtes wegen und erhebt die Beweise durch Befragung von Beteiligten, Zeugen, Auskunftspersonen, durch den Beizug von Urkunden, Amtsberichten oder Gutachten von Sachverständigen, durch Augenschein oder auf andere geeignete Weise.
+
+<sup>2</sup> In geeigneten Fällen kann sie für die Abklärungen die zuständige Berufsbeistandschaft, die Sozialen Dienste der Politischen Gemeinden oder ausnahmsweise Dritte beiziehen.
 
 #### § 46
 
@@ -561,9 +595,9 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 **Amtshilfe und Zusammenarbeit**
 
-<sup>1</sup> Bei Differenzen im Zusammenhang mit Art. 448 Abs. 4 ZGB vermittelt das Obergerichtspräsidium.
+<sup>1</sup> …
 
-<sup>2</sup> Kommt keine Einigung zustande, hat die Kindes- und Erwachsenenschutzbehörde bei Verwaltungsstellen deren Aufsichtsbehörde anzurufen. Im Bereich der Zivil- und Strafrechtspflege entscheidet das Obergericht.
+<sup>2</sup> Bei Verweigerung der Amtshilfe gemäss Art. 448 Abs. 4 ZGB hat die Kindes- und Erwachsenenschutzbehörde bei Verwaltungsstellen deren Aufsichtsbehörde anzurufen. Im Bereich der Zivil- und Strafrechtspflege entscheidet das Obergericht.
 
 <sup>3</sup> Bei Problemen im Bereich von Art. 317 ZGB vermittelt das Obergerichtspräsidium; über Kompetenzkonflikte entscheidet das Obergericht.
 
@@ -583,7 +617,7 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Die Kindes- und Erwachsenenschutzbehörden arbeiten im Rahmen des Bundesrechts mit den Polizeiorganen zusammen.
 
-<sup>2</sup> Die Kindes- und Erwachsenenschutzbehörden oder die mit dem Vollzug von Massnahmen beauftragte Person können zur Vollstreckung von Anordnungen beim Polizeikommando die Unterstützung der Polizeiorgane anfordern, namentlich zur Vorführung von betroffenen Personen oder zu deren Überführung in eine Einrichtung.
+<sup>2</sup> Die Kindes- und Erwachsenenschutzbehörden oder die mit dem Vollzug von Massnahmen beauftragte Person können beim Polizeikommando die Unterstützung der Polizeiorgane anfordern, namentlich zur Zustellung von Vorladungen und Entscheiden, zur Überführung von Personen in eine Einrichtung, zur Durchsetzung von Zwangsmassnahmen und Ersatzvornahmen, zur Urteilsvollstreckung sowie zur Durchsetzung von Beweisanordnungen, vorsorglichen oder superprovisorischen Massnahmen.
 
 <sup>3</sup> Wenn Massnahmen des Erwachsenenschutzes angezeigt erscheinen, meldet das Polizeikommando der zuständigen Kindes- und Erwachsenenschutzbehörde, wenn eine Person in Gewahrsam genommen wurde, oder wenn ihr gegenüber eine Wegweisung oder Fernhaltung verfügt wurde.
 
@@ -615,9 +649,9 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>2</sup> In der Regel führt die Behörde eine mündliche Verhandlung durch,
 
-- 1\. wenn es um eine fürsorgerische Unterbringung oder um weitgehende ambulante Massnahmen oder Massnahmen zur Nachbetreuung geht;
-- 2\. wenn im Erwachsenenschutz eine Beistandschaft mit einer erheblichen Beschränkung der Handlungsfähigkeit gegen den Willen der betroffenen Person vorgesehen ist;
-- 3\. wenn ein Entzug der elterlichen Obhut oder der elterlichen Sorge von Amtes wegen vorgesehen ist;
+- 1\. wenn es um eine fürsorgerische Unterbringung oder um weitgehende ambulante Massnahmen oder Massnahmen zur Nachbetreuung geht,
+- 2\. wenn im Erwachsenenschutz eine Beistandschaft mit einer erheblichen Beschränkung der Handlungsfähigkeit gegen den Willen der betroffenen Person vorgesehen ist,
+- 3\. wenn ein Entzug des Aufenthaltsbestimmungsrechts oder der elterlichen Sorge von Amtes wegen vorgesehen ist oder
 - 4\. wenn zwischen den Eltern Kinderbelange strittig sind.
 
 <sup>3</sup> Die Verfahrensleitung der Behörde kann ausnahmsweise eine mündliche Verhandlung ohne Teilnahme der betroffenen Person anordnen, sofern an ihrer Stelle eine Vertreterin oder ein Vertreter teilnimmt.
@@ -636,7 +670,7 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>2</sup> Soweit notwendig sind neben der betroffenen Person auch die Angehörigen oder der betroffenen Person nahe stehende Personen und gegebenenfalls ihre Vertrauensperson anzuhören.
 
-<sup>3</sup> Im Verfahren bezüglich Massnahmen zum Schutz des Kindes ist das Kind persönlich anzuhören, soweit nicht sein Alter oder andere triftige Gründe dagegen sprechen.
+<sup>3</sup> …
 
 <sup>4</sup> Bei Behörden und Stellen, die sich mit der betroffenen Person befasst haben, wird in der Regel ein schriftlicher Bericht eingeholt.
 
@@ -700,13 +734,15 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>6</sup> Die Entscheide der Behörde werden von der Verfahrensleitung und vom Aktuariat unterzeichnet. Die Unterzeichnung kann vertretungsweise durch ein anderes Mitglied der Behörde, das an der Entscheidfällung beteiligt war, und durch das stellvertretende Aktuariat erfolgen. Prozesserledigende einzelrichterliche Entscheide werden vom urteilenden Behördenmitglied und, soweit es an der Beratung des Entscheids teilnahm, vom Aktuariat unterzeichnet. Im Verhinderungsfall unterzeichnet das durch die Geschäftsordnung oder durch das urteilende Behördenmitglied als Stellvertretung bezeichnete Mitglied der Behörde.
 
-<sup>7</sup> Entscheide, die in einzelrichterlicher Zuständigkeit ergehen, sowie Entscheide der Verfahrensleitung werden vom zuständigen Mitglied unterzeichnet.
+<sup>7</sup> Prozessleitende Entscheide der Verfahrensleitung werden vom zuständigen Mitglied unterzeichnet.
+
+<sup>8</sup> Entscheide, mit denen innerhalb derselben Berufsbeistandschaft nur die Person der Beiständin oder des Beistands geändert wird, können in Briefform ergehen, in welchem die bisherigen Anordnungen gemäss ursprünglichem Entscheid bestätigt werden. Der Brief enthält eine Rechtmittelbelehrung.
 
 #### § 60
 
 **Eröffnung und Publikation der Entscheide**
 
-<sup>1</sup> Die Entscheide der Kindes- und Erwachsenenschutzbehörde werden den am Verfahren Beteiligten in schriftlicher Ausfertigung zugestellt.
+<sup>1</sup> Die Entscheide der Kindes- und Erwachsenenschutzbehörde werden den am Verfahren Beteiligten in schriftlicher Ausfertigung eingeschrieben zugestellt.
 
 <sup>2</sup> Führt die Behörde eine mündliche Verhandlung durch, kann sie den Entscheid zunächst mündlich eröffnen.
 
@@ -722,16 +758,16 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>2</sup> Mitteilungen an Amtsstellen und an Drittpersonen können auf dem Korrespondenzweg oder mit Formular erfolgen, insbesondere in den Fällen von Art. 413 Abs. 3 und Art. 452 Abs. 2 ZGB sowie an:
 
-- 1\. das Betreibungsamt gemäss Art. 68c und Art. 68d des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG)[^61-1];
-- 2\. das Grundbuchamt gemäss Art. 395 Abs. 4 ZGB;
-- 3\. die Banken und andere Institute gemäss Art. 395 Abs. 3 ZGB;
-- 4\. das Zivilstandsamt gemäss Art. 449c ZGB und Art. 42 Abs. 1 lit. c der Zivilstandsverordnung[^61-2];
-- 5\. das kantonale Migrationsamt gemäss Art. 82 Abs. 2 der Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE)[^61-3];
-- 6\. die Kantonale Ausweisstelle gemäss Art. 13 Abs. 1 lit. c des Bundesgesetzes über die Ausweise für Schweizer Staatsangehörige (AwG)[^61-4];
-- 7\. den zuständigen konsularischen Posten gemäss Art. 37 lit. b des Wiener Übereinkommens über die konsularischen Beziehungen[^61-5];
-- 8\. die Zentrale Ausgleichskasse gemäss Art. 18c der Verordnung über die Familienzulagen (FamZV)[^61-6];
-- 9\. die Sozialen Dienste der Politischen Gemeinde, in welcher die betroffene Person ihren Wohnsitz oder Aufenthalt hat, soweit es um die Anordnung und Aufhebung von Massnahmen oder um den Verzicht auf Massnahmen geht;
-- 10\. die zuständige Schulbehörde, wenn durch den Entscheid schulpflichtige Kinder betroffen sind und diese Behörde vom Entscheid Kenntnis haben muss.
+- 1\. das Betreibungsamt gemäss Art. 68c und Art. 68d des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG)[^61-1]
+- 2\. das Grundbuchamt gemäss Art. 395 Abs. 4 ZGB
+- 3\. die Banken und andere Institute gemäss Art. 395 Abs. 3 ZGB
+- 4\. das Zivilstandsamt gemäss Art. 449c ZGB und Art. 42 Abs. 1 lit. c der Zivilstandsverordnung[^61-2]
+- 5\. das kantonale Migrationsamt gemäss Art. 82 Abs. 2 der Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE)[^61-3]
+- 6\. die Kantonale Ausweisstelle gemäss Art. 13 Abs. 1 lit. c des Bundesgesetzes über die Ausweise für Schweizer Staatsangehörige (AwG)[^61-4]
+- 7\. den zuständigen konsularischen Posten gemäss Art. 37 lit. b des Wiener Übereinkommens über die konsularischen Beziehungen[^61-5]
+- 8\. die Zentrale Ausgleichskasse gemäss Art. 18c der Verordnung über die Familienzulagen (FamZV)[^61-6]
+- 9\. die Sozialen Dienste der Politischen Gemeinde, in welcher die betroffene Person ihren Wohnsitz oder Aufenthalt hat, soweit es um die Anordnung und Aufhebung von Massnahmen oder um den Verzicht auf Massnahmen geht
+- 10\. die zuständige Schulbehörde, wenn durch den Entscheid schulpflichtige Kinder betroffen sind und diese Behörde vom Entscheid Kenntnis haben muss
 - 11\.–12. …
 
 <sup>3</sup> Einem Kind, welches das 14. Altersjahr vollendet hat, ist der Entscheid zuzustellen, wenn damit Kinderbelange geregelt werden. Kindern unter 14 Jahren können Entscheide über Kinderbelange zugestellt werden, sofern die Behörde dies als notwendig erachtet.
@@ -741,7 +777,7 @@ vom 22.10.2012 (Stand 01.01.2021)
 [^61-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
 [^61-2]: SR [211.112.2](https://db.clex.ch/link/Bund/211.112.2/de)
 [^61-3]: SR [142.201](https://db.clex.ch/link/Bund/142.201/de)
-[^61-4]: SR [143.1](https://db.clex.ch/link/Bund/143.1/de)
+[^61-4]: SRB[143.1](https://db.clex.ch/link/Bund/143.1/de)
 [^61-5]: SR [0.191.02](https://db.clex.ch/link/Bund/0.191.02/de)
 [^61-6]: SR [836.21](https://db.clex.ch/link/Bund/836.21/de)
 
@@ -751,10 +787,10 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde meldet dem Einwohneramt der Politischen Gemeinde, in welcher die betroffene Person ihren aktuellen oder zuletzt bekannten Hauptwohnsitz hat:
 
-- 1\. die Anordnung, Übertragung, Übernahme, Änderung oder Aufhebung von umfassenden Beistandschaften sowie von anderen Beistandschaften unter Angabe der Art der Beistandschaft sowie mit einem ausdrücklichem Vermerk, wenn durch die Massnahme die Handlungsfähigkeit der betroffenen Person eingeschränkt wird;
-- 2\. die Feststellung oder den Verlust der Wirksamkeit des Vorsorgeauftrags für eine dauernd urteilsunfähige Person;
-- 3\. die Anordnung, Übertragung, Übernahme, Änderung oder Aufhebung einer Vormundschaft über eine minderjährige Person;
-- 4\. andere Entscheide, welche einen Einfluss auf den Wohnsitz einer Person haben, insbesondere im Zusammenhang mit der Obhut über minderjährige Personen.
+- 1\. die Anordnung, Übertragung, Übernahme, Änderung oder Aufhebung von umfassenden Beistandschaften sowie von anderen Beistandschaften unter Angabe der Art der Beistandschaft sowie mit einem ausdrücklichem Vermerk, wenn durch die Massnahme die Handlungsfähigkeit der betroffenen Person eingeschränkt wird
+- 2\. die Feststellung oder den Verlust der Wirksamkeit des Vorsorgeauftrags für eine dauernd urteilsunfähige Person
+- 3\. die Anordnung, Übertragung, Übernahme, Änderung oder Aufhebung einer Vormundschaft über eine minderjährige Person
+- 4\. andere Entscheide, welche einen Einfluss auf den Wohnsitz einer Person haben, insbesondere im Zusammenhang mit dem Aufenthaltsbestimmungsrecht über minderjährige Personen
 
 <sup>2</sup> In diesen Fällen teilt die Behörde dem Einwohneramt gleichzeitig die Kontaktadresse der zuständigen Mandatsträgerin oder des zuständigen Mandatsträgers sowie gegebenenfalls des Aufenthaltsorts der betroffenen Partei, wie etwa Erziehungs-, Versorgungs-, Heil- oder Strafanstalt oder Pflegefamilie, sowie den Wechsel dieser Adressen mit.
 
@@ -778,11 +814,11 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>3</sup> Soweit die betroffene Person das Verfahren nicht mutwillig oder leichtfertig veranlasst oder dessen Durchführung in vorwerfbarer Weise erschwert hat, werden keine Verfahrenskosten erhoben:
 
-- 1\. in Verfahren betreffend fürsorgerische Unterbringung;
-- 2\. in Verfahren nach Art. 419 ZGB;
-- 3\. bei Aufsichtsbeschwerden;
-- 4\. gegenüber Minderjährigen;
-- 5\. in Verfahren betreffend die Sterilisation.
+- 1\. in Verfahren betreffend fürsorgerische Unterbringung
+- 2\. in Verfahren nach Art. 419 ZGB
+- 3\. bei Aufsichtsbeschwerden
+- 4\. gegenüber Minderjährigen
+- 5\. in Verfahren betreffend die Sterilisation
 
 <sup>4</sup> In Verfahren betreffend fürsorgerische Unterbringung und betreffend Sterilisation können die Barauslagen der Behörde, insbesondere die Kosten für Gutachten und Fachberichte, der betroffenen Partei auferlegt werden, wenn sie sich in günstigen wirtschaftlichen Verhältnissen befindet.
 
@@ -794,15 +830,15 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Das Inkasso der Verfahrenskosten ist Sache der Kindes- und Erwachsenenschutzbehörde.
 
-<sup>2</sup> Über Stundung, Reduktion und Erlass der Verfahrenskosten entscheidet die Behörde, bis zu einem Betrag von Fr. 500 deren Präsidium.
+<sup>2</sup> Über Stundung, Reduktion und Erlass der Verfahrenskosten entscheidet die Verfahrensleitung.
 
 <sup>3</sup> Bei einem Weiterzug von Entscheiden regelt die Beschwerdeinstanz in ihrem Entscheid, welche Kosten durch welche Instanz bezogen werden.
 
 #### § 65
 
-**Parteikosten und Parteientschädigungen**
+**Parteikosten und Parteientschädigungen im Verfahren vor der Kindes- und Erwachsenenschutzbehörde**
 
-<sup>1</sup> Im Verfahren vor der Kindes- und Erwachsenenschutzbehörde besteht kein Anspruch auf Parteikostenersatz oder Entschädigung. Die Behörde kann indessen, wenn sie von einer Massnahme absieht oder besondere Umstände vorliegen, ausnahmsweise eine angemessene Entschädigung zusprechen, wenn eine anwaltliche Vertretung besteht und diese sachlich geboten war, oder wenn in einem aufwändigen Verfahren eine betroffene Person sich selber vertritt oder sich durch jemanden vertreten lässt, der nicht Anwältin oder Anwalt ist.
+<sup>1</sup> Im Verfahren vor der Kindes- und Erwachsenenschutzbehörde besteht kein Anspruch auf Parteientschädigung. Eine solche kann ausnahmsweise zugesprochen werden, wenn sich dies bei komplizierter Sachlage oder schwierigen Rechtsfragen rechtfertigt.
 
 <sup>2</sup> Minderjährigen werden keine Parteikosten auferlegt.
 
@@ -816,9 +852,7 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 #### § 67
 
-**Rechtskraftbescheinigungen**
-
-<sup>1</sup> Die Obergerichtskanzlei stellt Rechtskraftbescheinigungen für die Entscheide der Kindes- und Erwachsenenschutzbehörde aus. Vorbehalten bleibt § 9 Abs. 4 ZSRV.
+**…**
 
 #### § 68
 
@@ -858,11 +892,11 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 #### § 71
 
-**Beschränkte Öffentlichkeit**
+**Öffentlichkeit**
 
-<sup>1</sup> Das Verfahren vor der Beschwerdeinstanz ist nicht öffentlich. Auf Antrag eines Verfahrensbeteiligten kann die Beschwerdeinstanz die Durchführung einer öffentlichen Verhandlung anordnen, sofern nicht überwiegende Interessen entgegenstehen.
+<sup>1</sup> Das Verfahren vor der Beschwerdeinstanz ist nicht öffentlich.
 
-<sup>2</sup> Die Urteilsberatung ist nicht öffentlich.
+<sup>2</sup> …
 
 #### § 72
 
@@ -880,13 +914,19 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 **Vorsorgliche Massnahmen**
 
-<sup>1</sup> Vorsorgliche Massnahmen und superprovisorische Anordnungen können während des Beschwerdeverfahrens von der Verfahrensleitung der Beschwerdeinstanz oder von der Kindes- und Erwachsenenschutzbehörde getroffen werden.
+<sup>1</sup> Vorsorgliche Massnahmen und superprovisorische Anordnungen können während des Beschwerdeverfahrens von der Verfahrensleitung der Beschwerdeinstanz oder von der Kindes- und Erwachsenenschutzbehörde getroffen werden. Ausgenommen sind vorsorgliche Massnahmen, welche die Handlungsfähigkeit der betroffenen Person einschränken oder auf andere Weise ihre persönliche Freiheit schwerwiegend beeinträchtigen, sofern es sich nicht um dringende vorsorgliche Massnahmen im Sinne von Art. 445 Abs. 2 ZGB handelt.
 
 #### § 74
 
 **Schlechterstellung**
 
 <sup>1</sup> Nimmt die Beschwerdeinstanz einen Entscheid in Aussicht, der eine Schlechterstellung der beschwerdeführenden Person zur Folge haben kann, macht sie die am Verfahren Beteiligten vorgängig darauf aufmerksam und ermöglicht ihnen eine entsprechende Stellungnahme.
+
+#### § 74a
+
+**Mitteilungen**
+
+<sup>1</sup> Die Entscheide werden den Parteien und der Vorinstanz sowie allenfalls weiteren Behörden zugestellt. Die Vorinstanz sorgt wo nötig für die Information der Beiständin oder des Beistands.
 
 #### § 75
 
@@ -908,6 +948,8 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>4</sup> Minderjährigen werden weder Verfahrenskosten noch Parteientschädigungen auferlegt, sofern sie sich nicht in günstigen Verhältnissen befinden.
 
+<sup>5</sup> Dem Gemeinwesen wird in der Regel keine Parteientschädigung zugesprochen.
+
 #### § 77
 
 **Aktenrückgabe und Archivierung**
@@ -915,6 +957,24 @@ vom 22.10.2012 (Stand 01.01.2021)
 <sup>1</sup> Die Beschwerdeinstanz gibt nach Ablauf der Rechtsmittelfrist zuzüglich 14 Tagen die erstinstanzlichen Verfahrensakten an die Vorinstanz zurück. Die Rückgabe kann aus triftigen Gründen früher erfolgen, insbesondere bei Rückweisungen an die Vorinstanz oder wenn die Akten dringend benötigt werden.
 
 <sup>2</sup> Die Beschwerdeinstanz archiviert die Rechtsmittelakten in den vor ihr geführten Verfahren.
+
+### 2.4 Schadenfälle
+
+#### § 77a
+
+**Verfahren**
+
+<sup>1</sup> Ansprüche aus Art. 454 Abs. 1 bis Abs. 3 ZGB sind im Klageverfahren nach § 64 ff. des Gesetzes über die Verwaltungsrechtspflege (VRG)[^77a-1] beim Verwaltungsgericht geltend zu machen. Es ist durch die Kindes- und Erwachsenenschutzbehörde kein Entscheid zu erlassen und das Beschwerdeverfahren steht nicht zur Verfügung.
+
+[^77a-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
+
+#### § 77b
+
+**Regress**
+
+<sup>1</sup> Ob Regress auf die fehlbare Beistandsperson nach Art. 454 Abs. 4 ZGB und § 9 des Verantwortlichkeitsgesetzes[^77b-1] genommen wird, entscheidet der Kanton.
+
+[^77b-1]: RB [170.3](https://www.rechtsbuch.tg.ch/data/170.3/de)
 
 ## 3. Beistandschaften
 
@@ -926,11 +986,11 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>2</sup> Personen, die als Berufsbeiständin oder Berufsbeistand tätig sind, haben in der Regel über einen anerkannten Abschluss in den Bereichen Soziale Arbeit, Recht, Psychologie, Pädagogik oder über einen Nachdiplomkurs für vormundschaftliche Mandatsführung, je verbunden mit entsprechender Berufspraxis und Weiterbildung, sowie über Grundkenntnisse in Administration und Buchhaltung zu verfügen.
 
-<sup>3</sup> Hinsichtlich des Beizugs von Privatbeiständinnen und Privatbeiständen können die fachlichen Anforderungen reduziert werden, doch hat eine entsprechende Unterstützung solcher Personen durch die Berufsbeistandschaft zu erfolgen.
+<sup>3</sup> Hinsichtlich des Beizugs von Privatbeiständinnen und Privatbeiständen können die fachlichen Anforderungen angepasst werden. Die Berufsbeistandschaften stehen den privaten Beistandspersonen zur Seite. Sie haben namentlich die Gründe und den Inhalt des Entscheids sowie ihre Aufgaben zu erklären und sie über ihre Pflichten im Rahmen der Zuständigkeit sowie über die Entlöhnung zu unterrichten. Sie informieren die private Beistandsperson zudem regelmässig über Weiterbildungen, rechtliche Neuerungen und Themen von allgemeinem Interesse. Sie können ferner mit ihnen im Voraus Einzelgespräche oder Erfahrungsaustausche vereinbaren.
 
 <sup>4</sup> Die Kindes- und Erwachsenenschutzbehörde kann die Vorlage von Belegen verlangen. Stellt sie fest, dass die Berufsbeistandschaft in quantitativer oder qualitativer Hinsicht ungenügend besetzt ist, meldet sie den Missstand der Trägerschaft der Berufsbeistandschaft und erstattet, wenn nicht innert nützlicher Frist Abhilfe geschaffen wird, dem Obergericht einen entsprechenden Bericht.
 
-<sup>5</sup> Die Berufsbeistandschaften sorgen in Absprache mit der Behörde für eine regelmässige Weiterbildung der Beiständinnen und Beistände, weisen die Behörde auf hilfsbedürftige Personen hin und unterstützen die Behörde gegebenenfalls bei Abklärungen.
+<sup>5</sup> …
 
 #### § 79
 
@@ -952,7 +1012,7 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 **Pflicht zur Übernahme einer Beistandschaft**
 
-<sup>1</sup> Als wichtiger Grund im Sinn von Art. 400 Abs. 2 ZGB gilt namentlich das Amt als Mitglied einer vom Volk oder vom Grossen Rat gewählten Behörde.
+<sup>1</sup> …
 
 <sup>2</sup> Lehnt eine Beiständin oder ein Beistand die Wahl ab oder wird die Ernennung angefochten, ist das Mandat weiterzuführen, bis die Kindes- und Erwachsenenschutzbehörde oder gegebenenfalls die Beschwerdeinstanz entschieden hat.
 
@@ -992,13 +1052,13 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Der Rechenschaftsbericht hat unter Beilage der massgeblichen Akten (allfällige Berichte von Einrichtungen oder Heimen, Gutachten oder Arztberichte) zu enthalten:
 
-- 1\. Personalien der betroffenen Person (Name, Geburtsdatum, Adresse) sowie Bezeichnung der Person der Beiständin oder des Beistands;
-- 2\. Angaben zur Beistandschaft (Daten der Errichtung oder Änderung der Massnahme; Datum der Ernennung der Beiständin oder des Beistands);
-- 3\. Art der Massnahme mit der Zusammenfassung des Schwächezustands, des Schutzbedarfs und des behördlichen Auftrags;
-- 4\. persönliche Verhältnisse (je nach Auftrag: Wohnsituation oder Unterbringungsort; Gesundheitszustand und allenfalls Behandlungsplan; finanzielle Verhältnisse, wie Einkommen, Vermögen, Schulden; Versicherungen; Schule oder Beruf beziehungsweise Tagesstruktur; Lebensziele und Lebensgestaltung; besondere Vorkommnisse in der Berichtsperiode);
-- 5\. Tätigkeit und Arbeitsweise der Beiständin oder des Beistands in der Berichtsperiode (Art und Gestaltung der persönlichen Betreuung und Unterstützung; Kontakte zur betroffenen Person, zu Bezugspersonen und zu Institutionen; Erledigung von konkreten behördlichen Aufträgen), erreichter und künftiger Handlungsbedarf, künftige Ziele;
-- 6\. Begründung für Beibehaltung, Aufhebung oder Änderung der Massnahme, verbunden mit einem konkreten Antrag;
-- 7\. Angaben zu Entschädigung und Spesen, allenfalls Stundenaufwand.
+- 1\. Personalien der betroffenen Person (Name, Geburtsdatum, Adresse) sowie Bezeichnung der Person der Beiständin oder des Beistands
+- 2\. Angaben zur Beistandschaft (Daten der Errichtung oder Änderung der Massnahme; Datum der Ernennung der Beiständin oder des Beistands)
+- 3\. Art der Massnahme mit der Zusammenfassung des Schwächezustands, des Schutzbedarfs und des behördlichen Auftrags
+- 4\. persönliche Verhältnisse (je nach Auftrag: Wohnsituation oder Unterbringungsort; Gesundheitszustand und allenfalls Behandlungsplan; finanzielle Verhältnisse, wie Einkommen, Vermögen, Schulden; Versicherungen; Schule oder Beruf beziehungsweise Tagesstruktur; Lebensziele und Lebensgestaltung; besondere Vorkommnisse in der Berichtsperiode)
+- 5\. Tätigkeit und Arbeitsweise der Beiständin oder des Beistands in der Berichtsperiode (Art und Gestaltung der persönlichen Betreuung und Unterstützung; Kontakte zur betroffenen Person, zu Bezugspersonen und zu Institutionen; Erledigung von konkreten behördlichen Aufträgen), erreichter und künftiger Handlungsbedarf, künftige Ziele
+- 6\. Begründung für Beibehaltung, Aufhebung oder Änderung der Massnahme, verbunden mit einem konkreten Antrag
+- 7\. Angaben zu Entschädigung und Spesen, allenfalls Stundenaufwand
 
 #### § 85
 
@@ -1006,11 +1066,11 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Die Rechnung hat zu enthalten:
 
-- 1\. Personalien der betroffenen Person;
-- 2\. Rechnung mit Einnahmen und Ausgaben;
-- 3\. die Vermögensrechnung mit dem gesamten Bestand an Aktiven und Passiven am Ende der Rechnungsperiode, einschliesslich Vergleich mit dem Anfangsinventar oder der Vorperiode;
+- 1\. Personalien der betroffenen Person
+- 2\. Rechnung mit Einnahmen und Ausgaben
+- 3\. die Vermögensrechnung mit dem gesamten Bestand an Aktiven und Passiven am Ende der Rechnungsperiode, einschliesslich Vergleich mit dem Anfangsinventar oder der Vorperiode
 - 4\. fortlaufende und nummerierte Sammlung der Belege über Einnahmen und Ausgaben, gegebenenfalls Quittungen über Barbeträge; Sammlung der Depot- und Kontoauszüge. Fehlende Belege sind durch Hilfsbelege zu ersetzen, mit Angaben über die Art der Einnahme oder Ausgabe, den Betrag, Ort und Datum, Unterschrift, allenfalls den Grund, weshalb der offizielle Beleg fehlt.
-- 5\. Nachweise zu Rechnung und Bilanz mit Originalbelegen und zugehöriger Korrespondenz.
+- 5\. Nachweise zu Rechnung und Bilanz mit Originalbelegen und zugehöriger Korrespondenz
 
 <sup>2</sup> Soweit nicht ein Berufsbeistand eingesetzt wird, entscheidet die Kindes- und Erwachsenenschutzbehörde, ob die Rechnung in der Form der doppelten Buchhaltung oder als einfache Kassenrechnung zu führen ist. Die Behörde legt nötigenfalls den Kontenplan beziehungsweise die Rubriken der Kassenrechnung fest. Die Behörde kann in der Rechnung bezüglich der Auslagen zugunsten der verbeiständeten Person gegebenenfalls Pauschalierungen zulassen.
 
@@ -1026,7 +1086,7 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>3</sup> Sie prüft Bericht und Rechnung, insbesondere hinsichtlich Vollständigkeit und Korrektheit sowie hinsichtlich der Vorgaben des Bundes über die Anlage und Aufbewahrung von Vermögen, und entscheidet in der Regel innert vier Monaten über die Genehmigung. Die Revision der Rechnung kann sich auf Stichproben beschränken.
 
-<sup>4</sup> Der Bericht und die Rechnung werden den Akten beigefügt. Der Beiständin oder dem Beistand sind Bericht und Rechnung samt Genehmigungsvermerk in einer Kopie auszuhändigen.
+<sup>4</sup> Der Bericht und die Rechnung werden den Akten beigefügt.
 
 <sup>5</sup> Wird die Rechnung innert einer Nachfrist nicht eingereicht oder weist sie erhebliche Mängel auf, kann die Behörde die Rechnung durch einen Dritten erstellen lassen. Die entstehenden Kosten können der Beiständin oder dem Beistand auferlegt werden; dieser oder diesem steht das Beschwerderecht zu.
 
@@ -1038,19 +1098,11 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Bericht und Rechnung sind von der Beiständin oder vom Beistand unter Angabe von Datum und Ort zu unterzeichnen.
 
-<sup>2</sup> Bericht und Rechnung sind mit der betroffenen Person zu besprechen und von ihr als "Eingesehen und mit der Beiständin oder dem Beistand besprochen" zu unterzeichnen. Ist ein solcher Einbezug der betroffenen Person in die Berichterstattung beziehungsweise Rechnungslegung nicht möglich oder nicht sinnvoll, ist ein entsprechender Vermerk mit Angabe der Gründe anzufügen.
+<sup>2</sup> Bericht und Rechnung sind mit der betroffenen Person zu besprechen und von ihr als «Eingesehen und mit der Beiständin oder dem Beistand besprochen» zu unterzeichnen. Ist ein solcher Einbezug der betroffenen Person in die Berichterstattung beziehungsweise Rechnungslegung nicht möglich oder nicht sinnvoll, ist ein entsprechender Vermerk mit Angabe der Gründe anzufügen.
 
 #### § 87
 
-**Versteigerung**
-
-<sup>1</sup> Der Verkauf von Gegenständen oder Rechten mit einem geschätzten Wert von über Fr. 10'000 sowie der Verkauf von Grundstücken erfolgt durch öffentliche Versteigerung, sofern die Kindes- und Erwachsenenschutzbehörde nicht einen freihändigen Verkauf bewilligt.
-
-<sup>2</sup> Die öffentliche Versteigerung erfolgt nach den Grundsätzen von § 79 ff. EG ZGB.
-
-<sup>3</sup> Vor dem Verkauf ist die Schätzung eines Experten einzuholen, wenn bei Gegenständen die Schätzung gemäss Eingangsinventar als nicht mehr zutreffend erscheint, oder wenn ein Grundstück einen Wert von offensichtlich über Fr. 50'000 aufweist.
-
-<sup>4</sup> Vor der Versteigerung sind Ort, Tag und Stunde der Versteigerung im Amtsblatt zu publizieren. Die Publikation hat zweimal zu erfolgen, wenn ein Grundstück versteigert wird.
+**…**
 
 #### § 88
 
@@ -1064,11 +1116,11 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>4</sup> Erfordert die Beistandschaft den Einsatz einer privaten Fachperson, kann diese nach den üblichen Ansätzen oder Berufstarifen entschädigt werden.
 
-<sup>5</sup> Spesen und Auslagen, wie insbesondere Fahrspesen für Besuche bei der betroffenen Person im Rahmen der persönlichen Fürsorge, sind zusätzlich zu ersetzen; die entsprechenden Kosten sind soweit möglich zu belegen. Massgebend für die Spesenansätze sind die Bestimmungen der Verordnung des Regierungsrates über die Rechtsstellung des Staatspersonals[^88-1]. Bei geringem Spesenaufwand können pauschale Spesen von Fr. 100 bis Fr. 400 pro Jahr zugesprochen werden.
+<sup>5</sup> Spesen und Auslagen, wie insbesondere Fahrspesen für Besuche bei der betroffenen Person im Rahmen der persönlichen Fürsorge, sind zusätzlich zu ersetzen; die entsprechenden Kosten sind soweit möglich zu belegen. Massgebend für die Spesenansätze sind die Bestimmungen der Verordnung des Regierungsrates über die Rechtsstellung des Staatspersonals (RSV)[^88-1]. Bei geringem Spesenaufwand können pauschale Spesen von Fr. 100 bis Fr. 400 pro Jahr zugesprochen werden.
 
 <sup>6</sup> Wird die Tätigkeit als Beiständin oder Beistand in Erfüllung einer sittlichen Pflicht geleistet, kann die Entschädigung auf Spesen und Auslagen beschränkt werden.
 
-<sup>7</sup> Bei privaten Beiständinnen und Beiständen rechnet die Behörde gegebenenfalls die Sozialversicherungsbeiträge ab.
+<sup>7</sup> Bei privaten Beiständinnen und Beiständen rechnet die Berufsbeistandschaft gegebenenfalls die Sozialversicherungsbeiträge ab.
 
 [^88-1]: RB [177.112](https://www.rechtsbuch.tg.ch/data/177.112/de)
 
@@ -1095,6 +1147,8 @@ vom 22.10.2012 (Stand 01.01.2021)
 **Information der Behörde und der Einrichtung**
 
 <sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde und die Einrichtung zur fürsorgerischen Unterbringung informieren sich gegenseitig über die getroffenen Entscheide und über weitere relevante Tatsachen; die Behörde sorgt gegebenenfalls für die notwendige Information der Beiständin oder des Beistands.
+
+<sup>2</sup> Die Einrichtung meldet der Behörde unverzüglich die Aufnahme und Entlassung von ärztlich untergebrachten Minderjährigen.
 
 #### § 92
 
@@ -1124,7 +1178,7 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 **Örtliche Zuständigkeit**
 
-<sup>1</sup> In den Fällen von Art. 439 Abs. 1 Ziff. 2 bis Ziff. 4 ZGB richtet sich die Zuständigkeit innerkantonal nach dem Wohnsitz der betroffenen Person.
+<sup>1</sup> In den Fällen von Art. 439 Abs. 1 Ziff. 2 bis Ziff. 4 ZGB richtet sich die Zuständigkeit innerkantonal nach dem Wohnsitz der betroffenen Person. Interkantonal ist für die Beurteilung von Beschwerden gegen ärztlich angeordnete fürsorgerische Unterbringungen das Gericht am Ort, wo die Unterbringung angeordnet wurde, zuständig.
 
 #### § 95
 
@@ -1134,9 +1188,9 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 **Verlegung in eine andere Einrichtung**
 
-<sup>1</sup> Für die Verlegung einer untergebrachten Person in eine andere Einrichtung ist kein neues Einweisungsverfahren erforderlich.
+<sup>1</sup> Für die Verlegung einer untergebrachten Person von einer offenen in eine geschlossene Einrichtung ist die Kindes- und Erwachsenenschutzbehörde zuständig. Sie kann auf eine erneute Einholung eines Gutachtens verzichten.
 
-<sup>2</sup> Die Zuständigkeit für den Verlegungsentscheid richtet sich nach der Zuständigkeit für die Entlassung aus der Einrichtung. Der Kindes- und Erwachsenenschutzbehörde ist die Verlegung mitzuteilen, wenn die Unterbringung auf einem Entscheid der Behörde beruht.
+<sup>2</sup> …
 
 #### § 97
 
@@ -1168,12 +1222,11 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 <sup>2</sup> Die betroffene Person kann für die Dauer der ambulanten Massnahmen oder der Nachbetreuung in sinngemässer Anwendung von Art. 432 ZGB eine Person ihres Vertrauens beiziehen. Der beigezogenen Person steht für ihre Tätigkeit keine Entschädigung zu.
 
-<sup>3</sup> Werden Massnahmen nicht befolgt, kann die Behörde gestützt auf Art. 128 ZPO[^99-1] Ordnungsbussen verhängen, nach Art. 292 des Strafgesetzbuchs (StGB)[^99-2] vorgehen oder nach vorgängiger Androhung die zwangsweise Vollstreckung anordnen.
+<sup>3</sup> Werden Massnahmen nicht befolgt, kann die Behörde gestützt auf Art. 128 ZPO Ordnungsbussen verhängen, nach Art. 292 des Strafgesetzbuchs (StGB)[^99-1] vorgehen oder nach vorgängiger Androhung die zwangsweise Vollstreckung anordnen.
 
 <sup>4</sup> Die Anordnung von ambulanten Massnahmen oder von Massnahmen zur Nachbetreuung ist in der Regel auf die Dauer von zwei Jahren zu beschränken; sie kann jeweils für höchstens zwei Jahre verlängert werden.
 
-[^99-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
-[^99-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^99-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### § 100
 
@@ -1193,13 +1246,15 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 **Fremdplatzierungen**
 
-<sup>1</sup> Wird bei einem Entzug der elterlichen Obhut eine minderjährige Person fremdplatziert, ist für sie in der Regel eine Beistandschaft zu bestellen.
+<sup>1</sup> Wird bei einem Entzug des elterlichen Aufenthaltsbestimmungsrechts eine minderjährige Person fremdplatziert, ist für sie in der Regel eine Beistandschaft zu bestellen.
+
+<sup>2</sup> Wird eine minderjährige Person fremdplatziert und soll ausnahmsweise eine externe Organisation zur Unterstützung beigezogen werden, ist dies im Entscheid näher zu begründen.
 
 #### § 102
 
 **Kosten**
 
-<sup>1</sup> Die Kosten der Vormundschaft und von Kindesschutzmassnahmen werden in der Regel den Eltern auferlegt.
+<sup>1</sup> Die Kosten der Vormundschaft und von Kindesschutzmassnahmen gehören zum Unterhalt des Kindes und werden im Entscheid der Kindes- und Erwachsenenschutzbehörde in der Regel den Eltern auferlegt.
 
 ## 5a. Besondere Bestimmungen für das Sterilisationsverfahren
 
@@ -1233,8 +1288,6 @@ vom 22.10.2012 (Stand 01.01.2021)
 
 #### § 105
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt auf den 1. Januar 2013 in Kraft.
+**…**
 
 45/2012
