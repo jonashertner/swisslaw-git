@@ -4,11 +4,11 @@ title: Verordnung vom 4. März 2011 über die Personensicherheitsprüfungen (PSP
 short: PSPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/155"
 language: de
-version: 2023-01-23
+version: 2023-04-01
 adopted: 2011-03-04
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2011-155-20230123-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2011-155-20230401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230123/de"
 
 (PSPV)
 
-vom 4. März 2011 (Stand am 23. Januar 2023)
+vom 4. März 2011 (Stand am 1. April 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -138,11 +138,12 @@ Angestellte der Kantone werden auf Antrag der zuständigen kantonalen Behörde e
 
 **Vorabklärung**
 
-<sup>1</sup> Stellt die ersuchende Stelle im Informationssystem Personensicherheitsprüfungen (SIBAD) nach den Artikeln 144–149 des Bundesgesetzes vom 3. Oktober 2008[^8-1] über die militärischen Informationssysteme fest, dass die zu prüfende Person innerhalb von fünf Jahren vor der Vorabklärung bereits einer Personensicherheitsprüfung unterzogen wurde, so kann sie auf die Personensicherheitsprüfung verzichten.
+<sup>1</sup> Stellt die ersuchende Stelle im Informationssystem Personensicherheitsprüfung (SIBAD) nach den Artikeln 144–149 des Bundesgesetzes vom 3. Oktober 2008[^8-1] über militärische und andere Informationssysteme im VBS fest, dass die zu prüfende Person innerhalb von fünf Jahren vor der Vorabklärung bereits einer Personensicherheitsprüfung unterzogen wurde, so kann sie auf die Personensicherheitsprüfung verzichten.[^8-2]
 
 <sup>2</sup> Wurde die zu prüfende Person innerhalb von fünf Jahren vor der Vorabklärung keiner Personensicherheitsprüfung oder einer Personensicherheitsprüfung nach einer tieferen Prüfstufe unterzogen, so leitet die ersuchende Stelle die Personensicherheitsprüfung ein.
 
 [^8-1]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^8-2]: Fassung gemäss Anhang Ziff. 1 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 9
 

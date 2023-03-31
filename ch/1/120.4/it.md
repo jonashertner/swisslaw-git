@@ -4,11 +4,11 @@ title: Ordinanza del 4 marzo 2011 sui controlli di sicurezza relativi alle perso
 short: OCSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/155"
 language: it
-version: 2023-01-23
+version: 2023-04-01
 adopted: 2011-03-04
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2011-155-20230123-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2011-155-20230401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230123/it"
 
 (OCSP)
 
-del 4 marzo 2011 (Stato 23 gennaio 2023)
+del 4 marzo 2011 (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -138,11 +138,12 @@ Su richiesta dell’autorità cantonale competente, gli impiegati dei Cantoni so
 
 **Verifica preliminare**
 
-<sup>1</sup> L’autorità richiedente può rinunciare al controllo di sicurezza se constata nel Sistema informatizzato per i controlli di sicurezza relativi alle persone (SIBAD) di cui agli articoli 144–149 della legge federale del 3 ottobre 2008[^8-1] sui sistemi d’informazione militari che la persona da controllare è già stata sottoposta a un controllo di sicurezza nel corso dei cinque anni precedenti la verifica preliminare.
+<sup>1</sup> L’autorità richiedente può rinunciare al controllo di sicurezza se constata nel Sistema informatizzato per i controlli di sicurezza relativi alle persone (SIBAD) di cui agli articoli 144–149 della legge federale del 3 ottobre 2008[^8-1] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS che la persona da controllare è già stata sottoposta a un controllo di sicurezza nel corso dei cinque anni precedenti la verifica preliminare.[^8-2]
 
 <sup>2</sup> L’autorità richiedente avvia un controllo di sicurezza relativo alle persone se nel corso degli ultimi cinque anni precedenti la verifica preliminare la persona da controllare non è stata sottoposta a un controllo di sicurezza o è stata sottoposta a un controllo di sicurezza di livello inferiore.
 
 [^8-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^8-2]: Nuovo testo giusta l’all. n. 1 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 9
 

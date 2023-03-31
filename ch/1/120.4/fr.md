@@ -4,11 +4,11 @@ title: Ordonnance du 4 mars 2011 sur les contrôles de sécurité relatifs aux p
 short: OCSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/155"
 language: fr
-version: 2023-01-23
+version: 2023-04-01
 adopted: 2011-03-04
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2011-155-20230123-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2011-155-20230401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230123/fr"
 
 (OCSP)
 
-du 4 mars 2011 (État le 23 janvier 2023)
+du 4 mars 2011 (État le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
@@ -138,11 +138,12 @@ Sur demande de l’autorité cantonale compétente, tout membre d’une administ
 
 **Vérification préalable**
 
-<sup>1</sup> L’autorité requérante peut renoncer au contrôle si elle constate, en consultant le système d’information du contrôle de sécurité relatif aux personnes (SICSP) visé par les art. 144 à 149 de la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée[^8-1], que la personne à contrôler a déjà fait l’objet d’un contrôle de sécurité au cours des cinq dernières années.
+<sup>1</sup> L’autorité requérante peut renoncer au contrôle si elle constate, en consultant le système d’information du contrôle de sécurité relatif aux personnes (SICSP) visé par les art. 144 à 149 de la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée et du DDPS[^8-1], que la personne à contrôler a déjà fait l’objet d’un contrôle de sécurité au cours des cinq dernières années.[^8-2]
 
 <sup>2</sup> L’autorité requérante entame la procédure de contrôle s’il apparaît que la personne à contrôler n’a pas fait l’objet d’un contrôle de sécurité ou qu’elle en a subi un de moindre degré au cours des cinq dernières années.
 
 [^8-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^8-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 9
 
