@@ -4,13 +4,13 @@ number: "126.3"
 title: Gesamtarbeitsvertrag
 short: GAV
 language: de
-version: 2023-01-01
-valid_until: 2023-03-31
-version_adopted: 2023-01-31
+version: 2023-04-01
+valid_until: 2023-07-31
+version_adopted: 2023-03-28
 adopted: 2004-10-25
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.3"
-pdf: "https://bgs.so.ch/api/de/versions/5304/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5316/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gesamtarbeitsvertrag (GAV)
 
-vom 25. Oktober 2004 (Stand 1. Januar 2023)
+vom 25. Oktober 2004 (Stand 1. April 2023)
 
 zwischen dem Kanton Solothurn vertreten durch den Regierungsrat
 
@@ -1204,13 +1204,13 @@ Die jährliche Sollarbeitszeit wird vom Personalamt für jedes Jahr berechnet.
 
 <sup>3</sup> Bei der Planung sind die Interessen der Mitarbeitenden soweit betrieblich möglich zu berücksichtigen.
 
-[^82-1]: § 83 Fassung vom 8. Juni 2010.
+[^82-1]: § 83 Fassung vom 28. März 2023.
 
 #### § 83
 
 **Arbeitnehmende ohne Dienstplan**[^82-1]
 
-Für Arbeitnehmende ohne Dienstplan gilt die Zeit von 06.30 bis 19.30 Uhr von Montag bis Freitag als Gleitzeit. Blockzeiten sind in der Regel nicht vorgesehen. Angeordnete dienstliche Tätigkeiten vor 06.30 bzw. nach 19.30 Uhr gelten als Arbeitszeit.
+Für Arbeitnehmende ohne Dienstplan gilt die Zeit von 06.00 bis 22.00 Uhr von Montag bis Freitag als Gleitzeit. Blockzeiten sind in der Regel nicht vorgesehen.
 
 #### § 84
 
@@ -1224,9 +1224,11 @@ Für Arbeitnehmende ohne Dienstplan gilt die Zeit von 06.30 bis 19.30 Uhr von Mo
 
 **Arbeitsweg**
 
-<sup>1</sup> Der Arbeitsweg zählt nicht zur Arbeitszeit, ausser bei Einsätzen aus Bereitschaftsdiensten.
+<sup>1</sup> Der Arbeitsweg zählt grundsätzlich nicht zur Arbeitszeit. Davon ausgenommen sind Einsätze aus Bereitschaftsdiensten. Weitere Ausnahmen wie beispielsweise Arbeiten im öffentlichen Verkehr regelt das Personalamt beziehungsweise der Personaldienst des Spitals.[^85-1]
 
 <sup>2</sup> Verlangt der Arbeitgeber, dass die Arbeit an mehreren Arbeitsorten geleistet wird, wird der Weg als Arbeitszeit angerechnet. Der Weg ist nicht anzurechnen, wenn auf Wunsch des oder der Arbeitnehmenden mehrere Arbeitsorte bewilligt werden.
+
+[^85-1]: § 85 Absatz 1 Fassung vom 28. März 2023.
 
 #### § 86
 
@@ -6992,7 +6994,9 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 - 24\. Oktober 2022 am 1. November 2022;
 
-- 31\. Januar 2023 am 1. Januar 2023.
+- 31\. Januar 2023 am 1. Januar 2023;
+
+- 28\. März 2023 am 1. April 2023.
 
 ## Weitere Fussnoten
 
