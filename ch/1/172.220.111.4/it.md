@@ -4,11 +4,11 @@ title: Ordinanza del 22 novembre 2017 sulla protezione dei dati personali del pe
 short: OPDPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: it
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230101/it"
 
 (OPDPers)
 
-del 22 novembre 2017 (Stato 1° gennaio 2023)
+del 22 novembre 2017 (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -48,7 +48,7 @@ La presente ordinanza disciplina il trattamento dei dati personali dei candidati
 
 <sup>2</sup> I capitoli 4 e 6 della presente ordinanza sono applicabili inoltre alle persone che hanno stipulato un mandato o sono state assunte mediante un contratto di fornitura di personale a prestito con l’Amministrazione federale nonché ai consoli onorari.[^1-5]
 
-<sup>3</sup> La presente ordinanza non è applicabile nei casi in cui la legge federale del 3 ottobre 2008[^1-6] sui sistemi d’informazione militari e l’ordinanza del 16 dicembre 2009[^1-7] sui sistemi d’informazione militari dispongono altrimenti sul trattamento dei dati personali di candidati o di impiegati ed ex impiegati del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS).
+<sup>3</sup> La presente ordinanza non è applicabile nei casi in cui la legge federale del 3 ottobre 2008[^1-6] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS (LSIM) e l’ordinanza del 16 dicembre 2009[^1-7] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS (OSIM) dispongono altrimenti sul trattamento dei dati personali di candidati o di impiegati ed ex impiegati del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS).[^1-8]
 
 [^1-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 [^1-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -57,6 +57,7 @@ La presente ordinanza disciplina il trattamento dei dati personali dei candidati
 [^1-5]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 [^1-6]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 [^1-7]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^1-8]: Nuovo testo giusta l’all. n. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 2
 
@@ -500,8 +501,8 @@ Il sistema d’informazione per il controllo della gestione del personale contie
 I dati per la rilevazione delle presenze del personale vengono inoltre ripresi:
 
 - a. dai sistemi d’informazione per l’esecuzione dei processi di supporto alle finanze e alla logistica conformemente agli articoli 42–47 dell’ordinanza del 5 aprile 2006[^40-2] sulle finanze della Confederazione;
-- b. dal sistema d’informazione per la gestione integrata delle risorse conformemente agli articoli 179*a*–179*f* della legge federale del 3 ottobre 2008[^40-3] sui sistemi d’informazione militari;
-- c. dal sistema d’informazione concernente il personale della Farmacia dell’esercito conformemente agli articoli 72*g*<sup>septies</sup>–72*g*<sup>undecies</sup> dell’ordinanza del 16 dicembre 2009[^40-4] sui sistemi d’informazione militari (OSIM);
+- b.[^40-3] dal sistema d’informazione per la gestione integrata delle risorse conformemente agli articoli 179*a*–179*f* LSIM
+- c.[^40-4] ...
 - d. dal sistema d’informazione concernente il personale delle unità amministrative del DDPS esterne all’Aggruppamento Difesa conformemente agli articoli 72*j*–72*j*<sup>sexies</sup> OSIM;
 - e. dal sistema d’informazione «Perizoll» conformemente all’allegato 7 dell’ordinanza del 23 agosto 2017[^40-5] sul trattamento dei dati personali nell’Ufficio federale della dogana e della sicurezza dei confini[^40-6].
 
@@ -509,8 +510,8 @@ I dati per la rilevazione delle presenze del personale vengono inoltre ripresi:
 
 [^40-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 [^40-2]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
-[^40-3]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^40-4]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^40-3]: Nuovo testo giusta l’all. n. 3 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^40-4]: Abrogata dall’all. n. 3 dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^40-5]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
 [^40-6]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
@@ -836,6 +837,7 @@ Allegato 2[^t-2]
 - 4\.1 AVS / AI / IPG / AD
 - 4\.2 INSAI / assicurazione contro gli infortuni
 - 4\.3 Assegni familiari
+
 - 4\.4 Publica
 - 4\.5 Assicurazione militare
 
@@ -915,6 +917,7 @@ Allegato 3[^t-3]
 - 1 Gestione del personale
 - 2 Controllo della gestione
 - 3 Approvazione
+
 - 4 Supporto della gestione
 - 5 Gestione tecnica
 
@@ -1151,6 +1154,7 @@ Allegato 4[^t-4]
 - A Intera Amministrazione federale
 - B Proprio settore contabile
 - C Controllo della gestione dei costi del personale nel proprio settore contabile
+
 - D Dati propri
 - E Dati di collaboratori subordinati
 

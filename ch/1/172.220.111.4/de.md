@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über den Schutz von Personendaten des B
 short: BPDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: de
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230101/de"
 
 (BPDV)
 
-vom 22. November 2017 (Stand am 1. Januar 2023)
+vom 22. November 2017 (Stand am 1. April 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -48,7 +48,7 @@ Diese Verordnung regelt die Bearbeitung der Personendaten von Bewerberinnen und 
 
 <sup>2</sup> Das 4. und das 6. Kapitel dieser Verordnung gelten zusätzlich für Personen, die mit der Bundesverwaltung in einem Auftragsverhältnis oder in einem Personalverleihverhältnis stehen, sowie für Honorarkonsulinnen und Honorarkonsule.[^1-5]
 
-<sup>3</sup> Diese Verordnung gilt nicht, soweit das Bundesgesetz vom 3. Oktober 2008[^1-6] über die militärischen Informationssysteme und die Verordnung vom 16. Dezember 2009[^1-7] über die militärischen Informationssysteme Regelungen enthalten über die Bearbeitung der Personendaten von Bewerberinnen und Bewerbern oder von Angestellten und ehemaligen Angestellten des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS).
+<sup>3</sup> Diese Verordnung gilt nicht, soweit das Bundesgesetz vom 3. Oktober 2008[^1-6] über militärische und andere Informationssysteme im VBS (MIG) und die Verordnung vom 16. Dezember 2009[^1-7] über militärische und andere Informationssysteme im VBS (MIV) Regelungen enthalten über die Bearbeitung der Personendaten von Bewerberinnen und Bewerbern oder von Angestellten und ehemaligen Angestellten des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS).[^1-8]
 
 [^1-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 [^1-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -57,6 +57,7 @@ Diese Verordnung regelt die Bearbeitung der Personendaten von Bewerberinnen und 
 [^1-5]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 [^1-6]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 [^1-7]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^1-8]: Fassung gemäss Anhang Ziff. 3 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 2
 
@@ -504,8 +505,8 @@ Das Informationssystem Personalcontrolling enthält folgende Kategorien besonder
 Die Daten für die Personalzeitwirtschaft im Informationssystem Personalcontrolling werden zusätzlich übernommen aus:
 
 - a. den Informationssystemen für die Abwicklung der Supportprozesse Finanzen und Logistik nach den Artikeln 42–47 der Finanzhaushaltverordnung vom 5. April 2006[^40-2];
-- b. dem Informationssystem integrierte Ressourcenbewirtschaftung nach den Artikeln 179*a*–179*f* des Bundesgesetzes vom 3. Oktober 2008[^40-3] über die militärischen Informationssysteme;
-- c. dem Informationssystem über das Personal der Armeeapotheke nach den Artikeln 72*g*<sup>septies</sup>–72*g*<sup>undecies</sup> der Verordnung vom 16. Dezember 2009[^40-4] über die militärischen Informationssysteme (MIV);
+- b.[^40-3] dem Informationssystem integrierte Ressourcenbewirtschaftung nach den Artikeln 179*a*–179*f* MIG;
+- c.[^40-4] …
 - d. dem Informationssystem über das Personal der Verwaltungseinheiten des VBS ausserhalb der Gruppe Verteidigung nach den Artikeln 72*j*–72*j*<sup>sexies</sup> MIV;
 - e. dem Informationssystem Perizoll nach Anhang 7 der Verordnung vom 23. August 2017[^40-5] über die Bearbeitung von Personendaten im Bundesamt für Zoll und Grenzsicherheit[^40-6].
 
@@ -513,8 +514,8 @@ Die Daten für die Personalzeitwirtschaft im Informationssystem Personalcontroll
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 [^40-2]: [SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
-[^40-3]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^40-4]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^40-3]: Fassung gemäss Anhang Ziff. 3 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^40-4]: Aufgehoben durch Anhang Ziff. 3 der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^40-5]: [SR 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
 [^40-6]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 

@@ -4,11 +4,11 @@ title: Ordonnance du 22 novembre 2017 concernant la protection des données pers
 short: OPDC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: fr
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230101/fr"
 
 (OPDC)
 
-du 22 novembre 2017 (État le 1<sup>er</sup> janvier 2023)
+du 22 novembre 2017 (État le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
@@ -48,7 +48,7 @@ La présente ordonnance règle le traitement des données personnelles des candi
 
 <sup>2</sup> Les chapitres 4 et 6 de la présente ordonnance s’appliquent en outre aux personnes liées à l’administration fédérale par un mandat ou un contrat de location de services et aux consuls honoraires.[^1-5]
 
-<sup>3</sup> La présente ordonnance ne s’applique pas si la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée[^1-6] et l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée[^1-7] contiennent des dispositions concernant le traitement des données personnelles de candidats ou d’employés et d’anciens employés du Département fédéral de la défense, de la protection de la population et des sports (DDPS).
+<sup>3</sup> La présente ordonnance ne s’applique pas si la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée et du DDPS (LSIA)[^1-6] et l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée et du DDPS (OSIAr)[^1-7] contiennent des dispositions concernant le traitement des données personnelles de candidats ou d’employés et d’anciens employés du Département fédéral de la défense, de la protection de la population et des sports (DDPS).[^1-8]
 
 [^1-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 [^1-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -57,6 +57,7 @@ La présente ordonnance règle le traitement des données personnelles des candi
 [^1-5]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 [^1-6]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 [^1-7]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^1-8]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 2
 
@@ -504,8 +505,8 @@ Le système d’information pour le contrôle de gestion du personnel contient l
 Les données relatives à la gestion du temps dans le système d’information pour le contrôle de gestion du personnel sont reprises également des systèmes suivants:
 
 - a. systèmes d’information nécessaires aux processus de soutien dans les domaines des finances et de la logistique de l’administration fédérale, visés aux art. 42 à 47 de l’ordonnance du 5 avril 2006 sur les finances de la Confédération[^40-2];
-- b. système d’information pour la gestion intégrée des ressources, visé aux art. 179*a* à 179*f* de la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée[^40-3];
-- c. système d’information sur le personnel de la Pharmacie de l’armée, visé aux art. 72*g*<sup>septies</sup> à 72*g*<sup>undecies</sup> de l’ordonnance du 16 décembre 2009 sur le système d’information de l’armée (OSIAr)[^40-4];
+- b.[^40-3] système d’information pour la gestion intégrée des ressources, visé aux art. 179*a* à 179*f* LSIA;
+- c.[^40-4] ...
 - d. système d’information sur le personnel des unités administratives du DDPS hors du Groupement Défense, visé aux art. 72*j* à 72*j*<sup>sexies</sup> OSIAr;
 - e. système d’information « Perizoll », visé à l’annexe 7 de l’ordonnance du 23 août 2017 sur le traitement des données dans l’Office fédéral de la douane et de la sécurité des frontières[^40-5] [^40-6].
 
@@ -513,8 +514,8 @@ Les données relatives à la gestion du temps dans le système d’information p
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 [^40-2]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
-[^40-3]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^40-4]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^40-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^40-4]: Abrogée par l’annexe ch. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^40-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^40-6]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
 
@@ -1372,5 +1373,5 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 …[^annex8-lvlu1-2]
 
-[^annex8-lvlu1-1]: [[RO 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786), [2013 1617](https://fedlex.data.admin.ch/eli/oc/2013/378)[2209](https://fedlex.data.admin.ch/eli/oc/2013/467)ch. III, [2015 4095](https://fedlex.data.admin.ch/eli/oc/2015/687)]
+[^annex8-lvlu1-1]: [[RO 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786); [2013 1617](https://fedlex.data.admin.ch/eli/oc/2013/378), [2209](https://fedlex.data.admin.ch/eli/oc/2013/467)ch. III; [2015 4095](https://fedlex.data.admin.ch/eli/oc/2015/687)]
 [^annex8-lvlu1-2]: Les mod. peuvent être consultées au [RO 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793).
