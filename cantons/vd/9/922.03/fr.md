@@ -4,7 +4,7 @@ number: "922.03"
 title: LOI du 28.02.1989 sur la faune (LFaune)
 short: LFaune
 language: fr
-version: 2023-01-01
+version: 2023-04-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03?id=66977325-2744-458f-ae38-0dc01792207b"
 ---
 
@@ -97,6 +97,26 @@ décrète
 [^5-1]: Modif. 3 du 07.11.2006: Introduction Al. 3; entrée en vigueur au 01.01.2007
 [^6-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 [^6-2]: Loi du 28.02.1989 sur la faune ([BLV 922.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03?id=66977325-2744-458f-ae38-0dc01792207b)) et règlement d'exécution du 07.07.2004 de la loi du 28.02.1989 sur la faune ([BLV 922.03.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03.1?id=21dd947f-7594-4427-8826-31b464078f96))
+
+#### Art. 6a
+
+**Etude, recherche et connaissance de la faune [^6-3]**
+
+<sup>1</sup> Dans un but d'étude, de recherche et de connaissance de la faune, y compris ses biotopes et ses maladies, le service peut prendre les mesures utiles pour notamment observer, recenser et suivre l'évolution des espèces.
+
+<sup>2</sup> A cette fin, il peut utiliser notamment des appareils de prise de vues et des pièges-photographiques.
+
+<sup>3</sup> Le service veille à ce que, dans la mesure du possible, aucune donnée personnelle au sens de la loi sur protection des données ne soit traitée.
+
+<sup>4</sup> Si des données personnelles devaient, dans le cadre des tâches prévues au présent article, être potentiellement ou fortuitement traitées, le service est autorisé à procéder au traitement dans la mesure nécessaire. Les dispositions sur la protection des données s'appliquent, en particulier celles relatives au devoir d'informer.
+
+<sup>5</sup> En cas de traitement de données personnelles, le service procède à leur effacement, au besoin par floutage ou tout autre procédé d'anonymisation, dans les 7 jours dès leur visionnage.
+
+<sup>6</sup> Le Conseil d'Etat fixe les dispositions d'exécution, notamment les droits d'accès et les mesures de sécurité techniques et organisationnelles destinées à empêcher le traitement de données par un tiers non-autorisé.
+
+<sup>7</sup> L'utilisation de pièges photographiques est soumise à l'autorisation du service.
+
+[^6-3]: Modif. 9 du 20.12.2022: Introduction Art. 6a; entrée en vigueur au 01.04.2023
 
 ## Chapitre II Conservation de la faune
 
