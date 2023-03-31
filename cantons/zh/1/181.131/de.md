@@ -3,11 +3,11 @@ canton: ZH
 number: "181.131"
 title: Vollzugsverordnung zur Finanzverordnung
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2023-04-01
+version: "2023-04-01"
+nachtrag: "120"
+valid_until: 2026-03-01
 adopted: 2010-10-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_131-2010_10_06-2011_01_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_131-2010_10_06-2011_01_01-120.html"
 text: pdf
 ---
 
@@ -62,7 +62,7 @@ Kirchgemeinden und Landeskirche unterstehen für ihr Verwaltungs- und Finanzverm
 
 **1**
 
-- 1\. 1. 22 - 115 § 5.[^4-5] <sup>1</sup> Für die Berechnung des mittelfristigen Rechnungsausgleichs werden die Ergebnisse der Jahresrechnungen der letzten drei Rechnungsjahre, das budgetierte Ergebnis des laufenden Jahres sowie die Ergebnisse der folgenden drei Jahre gemäss Finanzplan berücksichtigt.
+- 1\. 4. 23 - 120 § 5.[^4-5] <sup>1</sup> Für die Berechnung des mittelfristigen Rechnungsausgleichs werden die Ergebnisse der Jahresrechnungen der letzten drei Rechnungsjahre, das budgetierte Ergebnis des laufenden Jahres sowie die Ergebnisse der folgenden drei Jahre gemäss Finanzplan berücksichtigt.
 
 **Haushaltsgleichgewicht (§§ 6 Abs. 1 und 31 Abs. 1 FiVO)**
 
@@ -165,7 +165,7 @@ Der Jahresbericht der Kirchgemeinde stellt insbesondere dar:
 
 **3**
 
-- 1\. 1. 22 - 115 § 13.[^11-3] Der Kirchenrat beauftragt den Koordinationsausschuss Finanzen mit der Überprüfung der Prozentsätze gemäss § 27 Abs. 2 und 3 FiVO, sobald er eine wesentliche Veränderung der Berechnungsgrundlagen feststellt.
+- 1\. 4. 23 - 120 § 13.[^11-3] Der Kirchenrat beauftragt den Koordinationsausschuss Finanzen mit der Überprüfung der Prozentsätze gemäss § 27 Abs. 2 und 3 FiVO, sobald er eine wesentliche Veränderung der Berechnungsgrundlagen feststellt.
 
 **Negative Zweckbindung (§ 27 Abs. 4 FiVO)**
 
@@ -244,7 +244,7 @@ Der Jahresbericht der Kirchgemeinde stellt insbesondere dar:
 
 **5**
 
-- 1\. 1. 22 - 115 § 18.[^17-3] Die Kirchgemeinden bilden für die Beiträge an die Zentralkasse und an den Finanzausgleich Rückstellungen.
+- 1\. 4. 23 - 120 § 18.[^17-3] Die Kirchgemeinden bilden für die Beiträge an die Zentralkasse und an den Finanzausgleich Rückstellungen.
 
 **Rückstellungen für Beiträge**
 
@@ -252,7 +252,7 @@ Der Jahresbericht der Kirchgemeinde stellt insbesondere dar:
 
 § 19.[^17-3] Die Aktivierungsgrenze für Vermögenswerte des Verwaltungsvermögens beträgt Fr. 50 000.
 
-[^17-1]: Eingefügt durch B des Kirchenrates vom 22. September 2021 (OS 76, 466; ABl 2021-09-24. In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 21
+[^17-1]: Eingefügt durch B des Kirchenrates vom 22. September 2021 (OS 76, 466; ABl 2021-09-24). In Kraft seit 1. Januar 2022.
 [^17-2]: LS 131.1.
 [^17-3]: Fassung gemäss B des Kirchenrates vom 4. Oktober 2017 (OS 72, 592; ABl 2017-10-13). In Kraft seit 1. Januar 2018.
 
@@ -353,7 +353,7 @@ Haben die Stimmberechtigten oder die Kirchensynode zum Zeitpunkt der Budgetierun
 
 **7**
 
-- 1\. 1. 22 - 115 § 29. <sup>1</sup> Die Kreditüberschreitung erhöht den Budgetkredit nicht.
+- 1\. 4. 23 - 120 § 29. <sup>1</sup> Die Kreditüberschreitung erhöht den Budgetkredit nicht.
 
 **Kreditüberschreitung (§ 51 FiVO)**
 
@@ -454,7 +454,7 @@ b.[^34-1] vor der Beschlussfassung anfallende Aufwendungen von Investitionsbeitr
 
 **9**
 
-- 1\. 1. 22 - 115 § 35. <sup>1</sup> Leasing ohne Kaufabsicht (operatives Leasing) wird als wiederkehrende, Leasing mit Kaufabsicht (Finanzierungsleasing) als einmalige Ausgabe behandelt.
+- 1\. 4. 23 - 120 § 35. <sup>1</sup> Leasing ohne Kaufabsicht (operatives Leasing) wird als wiederkehrende, Leasing mit Kaufabsicht (Finanzierungsleasing) als einmalige Ausgabe behandelt.
 
 **Leasing**
 
@@ -564,7 +564,7 @@ Der Kirchenrat beschliesst über die Annahme von Erbschaften und von Zuwendungen
 
 **11**
 
-- 1\. 1. 22 - 115 § 54. Der Kirchenrat erlässt Richtlinien betreffend die Anlage des Finanzvermögens der Landeskirche.
+- 1\. 4. 23 - 120 § 54. Der Kirchenrat erlässt Richtlinien betreffend die Anlage des Finanzvermögens der Landeskirche.
 
 **Anlagerichtlinien**
 
@@ -673,18 +673,19 @@ Kirchgemeinden, die Leistungen aus dem Finanzausgleich[^63-1] beantragen, legen 
 
 **13**
 
-- 1\. 1. 22 - 115 § 75. <sup>1</sup> Teilzahlungen von Beiträgen der Landeskirche werden im Rahmen von § 86 a Abs. 1 und 2 FiVO auf Gesuch hin nach Massgabe der bewilligten Kredite ausgerichtet.[^hABeiträgederLand-2]
+- 1\. 4. 23 - 120 § 75. <sup>1</sup> Teilzahlungen von Beiträgen der Landeskirche werden im Rahmen von § 86 a Abs. 1 und 2 FiVO auf Gesuch hin nach Massgabe der bewilligten Kredite ausgerichtet.[^hABeiträgederLand-2]
 
 **Teilzahlung (§ 86 a Abs. 3 FiVO)**
 
 <sup>2</sup> Jährlich können höchstens zwei Teilzahlungen geleistet werden.
 
-<sup>3</sup> Teilzahlungen unter Fr. 10 000 werden nicht ausgerichtet.
+<sup>3</sup> . . .[^hABeiträgederLand-3]
 
 §§ 76–78.[^hABeiträgederLand-1]
 
 [^hABeiträgederLand-1]: Aufgehoben durch B des Kirchenrates vom 4. Oktober 2017 (OS 72, 592; ABl 2017-10-13). In Kraft seit 1. Januar 2018.
 [^hABeiträgederLand-2]: Fassung gemäss B des Kirchenrates vom 4. Oktober 2017 (OS 72, 592; ABl 2017-10-13). In Kraft seit 1. Januar 2018.
+[^hABeiträgederLand-3]: Aufgehoben durch B des Kirchenrates vom 1. Februar 2023 (OS 78, 125; ABl 2023-02-03). In Kraft seit 1. April 2023. 1. 4. 23 - 120 21
 
 ### B. Beiträge an Gemeindezusammenschlüsse
 
@@ -748,7 +749,7 @@ Kirchgemeinden, die Leistungen aus dem Finanzausgleich[^63-1] beantragen, legen 
 
 **15**
 
-- 1\. 1. 22 - 115 § 83 a.[^hBBeiträgeanGemei-3] Ein Entschuldungsbeitrag gemäss § 88 b Abs. 1 FiVO kann einer zusammengeschlossenen Kirchgemeinde für jede beteiligte Kirchgemeinde ausgerichtet werden,
+- 1\. 4. 23 - 120 § 83 a.[^hBBeiträgeanGemei-3] Ein Entschuldungsbeitrag gemäss § 88 b Abs. 1 FiVO kann einer zusammengeschlossenen Kirchgemeinde für jede beteiligte Kirchgemeinde ausgerichtet werden,
 
 **Entschuldungsbeiträge (§ 88 b FiVO) a. Voraussetzungen**
 
@@ -823,7 +824,7 @@ Kirchgemeinden, die Leistungen aus dem Finanzausgleich[^63-1] beantragen, legen 
 
 **17**
 
-- 1\. 1. 22 - 115 § 83 g.[^h8AbschnittLiegen-1] <sup>1</sup> Bei Renovationen, Um- und Neubauten von kirchlichen Liegenschaften ist ein solider, einfacher und zweckmässiger Ausbau- und Installationsstandard zu wählen.
+- 1\. 4. 23 - 120 § 83 g.[^h8AbschnittLiegen-1] <sup>1</sup> Bei Renovationen, Um- und Neubauten von kirchlichen Liegenschaften ist ein solider, einfacher und zweckmässiger Ausbau- und Installationsstandard zu wählen.
 
 **Ausbaustandard**
 
@@ -922,7 +923,7 @@ IV. Das Verwaltungsvermögen wird nicht neu bewertet.
 
 **19**
 
-- 1\. 1. 22 - 115 V. Auf im Zeitpunkt des Inkrafttretens der Teilrevision der Vollzugsverordnung zur Finanzverordnung vom 4. Oktober 2017 laufende Abschreibungen bleiben §§ 19 Abs. 4 und 48 der Vollzugsverordnung zur Finanzverordnung in der Fassung vom 19. Januar 2010 anwendbar.
+- 1\. 4. 23 - 120 V. Auf im Zeitpunkt des Inkrafttretens der Teilrevision der Vollzugsverordnung zur Finanzverordnung vom 4. Oktober 2017 laufende Abschreibungen bleiben §§ 19 Abs. 4 und 48 der Vollzugsverordnung zur Finanzverordnung in der Fassung vom 19. Januar 2010 anwendbar.
 
 VI. Der Anspruch von Kirchgemeinden auf im Zeitpunkt des Inkrafttretens der Teilrevision der Finanzverordnung vom 2. Mai 2017 vom Kirchenrat zugesicherte Baubeiträge bleibt bestehen. §§ 79–81 und 83 der Vollzugsverordnung zur Finanzverordnung in der Fassung vom 19. Januar 2010 bleiben auf solche Baubeiträge anwendbar.
 
