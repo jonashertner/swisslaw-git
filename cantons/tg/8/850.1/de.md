@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "850.1"
-title: Gesetz über die öffentliche Sozialhilfe
-short: "Sozialhilfegesetz, SHG"
+title: Sozialhilfegesetz
+short: SHG
 language: de
-version: 2022-07-01
-valid_until: 2023-03-31
-version_adopted: 2022-01-12
+version: 2023-04-01
+valid_until: 2026-12-31
+version_adopted: 2022-12-21
 adopted: 1984-03-29
 in_force: 1986-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/850.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2534/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2643/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die öffentliche Sozialhilfe
+# Sozialhilfegesetz
 
 SHG
 
-(Sozialhilfegesetz, SHG)
+(SHG)
 
-vom 29.03.1984 (Stand 01.07.2022)
+vom 29.03.1984 (Stand 01.04.2023)
 
 ## 1. Zweck und Organisation
 
@@ -33,7 +33,7 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 <sup>2</sup> Sie helfen mit, familienrechtliche Unterhaltsansprüche zu vollstrecken.
 
-<sup>3</sup> Für die fürsorgerische Betreuung von Personen, die der Asylgesetzgebung unterstehen, kann der Regierungsrat in Absprache mit den Gemeinden besondere Vorschriften erlassen.
+<sup>3</sup> Für die sozialhilferechtliche Betreuung von Personen, die der Asylgesetzgebung unterstehen, kann der Regierungsrat in Absprache mit den Gemeinden besondere Vorschriften erlassen.
 
 #### § 2
 
@@ -55,27 +55,27 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 **Zuständigkeit**
 
-<sup>1</sup> Zuständig ist die Wohnsitzgemeinde des Hilfsbedürftigen. Die Gemeinde des Aufenthaltsortes ist zuständig, solange die Wohnsitzgemeinde nicht feststeht oder wenn jemand unaufschiebbar der Hilfe bedarf.
+<sup>1</sup> Zuständig ist die Wohnsitzgemeinde der hilfsbedürftigen Person. Die Gemeinde des Aufenthaltsorts ist zuständig, solange die Wohnsitzgemeinde nicht feststeht oder wenn jemand unaufschiebbar der Hilfe bedarf.
 
 <sup>2</sup> Wohnsitz und Aufenthalt bestimmen sich nach den Vorschriften des Bundes über die Zuständigkeit für die Unterstützung Bedürftiger (ZUG)[^4-1].
 
-<sup>3</sup> Kantonale Amtsstelle gemäss dem Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger ist das Fürsorgeamt.
+<sup>3</sup> Kantonale Amtsstelle gemäss dem Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger ist das Sozialamt des Kantons Thurgau.
 
 [^4-1]: SR [851.1](https://db.clex.ch/link/Bund/851.1/de)
 
 #### § 5
 
-**Fürsorgebehörde**
+**Sozialhilfebehörde**
 
-<sup>1</sup> Die Gemeinde wählt die Fürsorgebehörde, deren Präsidenten sowie einen oder mehrere Fürsorger. Sie kann ihre Wahlbefugnisse dem Gemeinderat oder der erweiterten Behörde übertragen.
+<sup>1</sup> Die Gemeinde wählt die Sozialhilfebehörde, deren Präsidentin oder Präsidenten sowie mindestens eine Sozialhilfebetreuerin oder einen Sozialhilfebetreuer. Die Gemeinde kann ihre Wahlbefugnisse für die Sozialhilfebehörde und deren Präsidentin oder Präsidenten dem Gemeinderat und für die Sozialhilfebetreuerin oder den -betreuer der Sozialhilfebehörde übertragen.
 
-<sup>2</sup> Mehrere Gemeinden können einen gemeinsamen Fürsorger ernennen.
+<sup>2</sup> Mehrere Gemeinden können eine gemeinsame Sozialhilfebetreuerin oder einen gemeinsamen Sozialhilfebetreuer ernennen.
 
 #### § 6
 
 **Aufsicht**
 
-<sup>1</sup> Das zuständige Departement beaufsichtigt die für die Sozialhilfe zuständigen Behörden.
+<sup>1</sup> Das zuständige Departement beaufsichtigt die Sozialhilfebehörden.
 
 <sup>2</sup> Der Regierungsrat beaufsichtigt die gesamte öffentliche Sozialhilfe.
 
@@ -105,7 +105,7 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 <sup>1</sup> Errichtung und Betrieb von Betreuungs- und Pflegeangeboten, in denen bis zu vier volljährigen Personen gegen Entgelt Unterkunft, Verpflegung, Betreuung oder weitere Dienstleistungen gewährt werden, bedürfen einer Bewilligung der Politischen Gemeinde und unterstehen deren Aufsicht. Der Regierungsrat regelt die Ausnahmen für Angehörige und enge Bezugspersonen.
 
-<sup>2</sup> Gegen Entscheide der Politischen Gemeinde kann innert 20 Tagen beim Departement für Finanzen und Soziales Rekurs erhoben werden.
+<sup>2</sup> …
 
 #### § 6d
 
@@ -121,13 +121,13 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 **Beratung, Betreuung**
 
-<sup>1</sup> Die Behörde hat die Selbständigkeit des Hilfsbedürftigen durch Beratung und Betreuung zu erhalten und zu fördern.
+<sup>1</sup> Die Behörde hat die Selbständigkeit der hilfsbedürftigen Person durch Beratung und Betreuung zu erhalten und zu fördern.
 
 #### § 8
 
 **Unterstützung**
 
-<sup>1</sup> Verfügt jemand nicht über hinreichende Mittel zur Bestreitung des Lebensunterhaltes für sich und seine Angehörigen mit gleichem Wohnsitz, sorgt die Gemeinde für die notwendige Unterstützung, sofern vom Hilfsbedürftigen nicht verlangt werden kann, sich die Mittel durch eigene Arbeit zu beschaffen, und keine andere Hilfe möglich ist.
+<sup>1</sup> Verfügt jemand nicht über hinreichende Mittel zur Bestreitung des Lebensunterhalts für sich und seine Angehörigen mit gleichem Wohnsitz, sorgt die Gemeinde für die notwendige Unterstützung, sofern von der hilfsbedürftigen Person nicht verlangt werden kann, sich die Mittel durch eigene Arbeit zu beschaffen, und keine andere Hilfe möglich ist.
 
 #### § 8a
 
@@ -139,7 +139,7 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 **Pflicht zur Arbeitsaufnahme**
 
-<sup>1</sup> Hilfsbedürftige können zur Aufnahme einer zumutbaren Arbeit auf dem freien Markt oder im Rahmen eines Beschäftigungsprogrammes verpflichtet werden. Bei Weigerung wird die Unterstützung gekürzt oder eingestellt.
+<sup>1</sup> Hilfsbedürftige Personen können zur Aufnahme einer zumutbaren Arbeit auf dem freien Markt oder im Rahmen eines Beschäftigungsprogramms verpflichtet werden. Bei Weigerung wird die Unterstützung gekürzt oder eingestellt.
 
 ## 2a. Observationen
 
@@ -147,7 +147,7 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 **Zweck und Voraussetzungen**
 
-<sup>1</sup> Die Fürsorgebehörde kann die Observation einer Person veranlassen, die Leistungen nach diesem Gesetz bezieht oder beantragt, und dabei Bild- und Tonaufzeichnungen machen lassen, um die Bedürftigkeit im Grundsatz oder das Ausmass der Bedürftigkeit abzuklären.
+<sup>1</sup> Die Sozialhilfebehörde kann die Observation einer Person veranlassen, die Leistungen nach diesem Gesetz bezieht oder beantragt, und dabei Bild- und Tonaufzeichnungen machen lassen, um die Bedürftigkeit im Grundsatz oder das Ausmass der Bedürftigkeit abzuklären.
 
 <sup>2</sup> Eine Observation ist zulässig, wenn
 
@@ -160,7 +160,7 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 **Modalitäten**
 
-<sup>1</sup> Vor der Durchführung einer Observation legt die Fürsorgebehörde schriftlich den Auftrag für die observierende Person fest. Dieser enthält Angaben über:
+<sup>1</sup> Vor der Durchführung einer Observation legt die Sozialhilfebehörde schriftlich den Auftrag für die observierende Person fest. Dieser enthält Angaben über:
 
 - 1\. die erforderlichen Personendaten der zu observierenden und der observierenden Person
 - 2\. eine Beschreibung der konkreten Anhaltspunkte und die diese begründenden Tatsachen
@@ -168,11 +168,11 @@ vom 29.03.1984 (Stand 01.07.2022)
 - 4\. eine klare Umschreibung der erforderlichen Abklärungen
 - 5\. die Dauer der Observation und die Anzahl Observationstage, wobei eine Observation an höchstens 30 Tagen innerhalb von sechs Monaten ab dem ersten Observationstag stattfinden darf. Dieser Zeitraum kann um bis zu sechs Monate verlängert werden, wenn hinreichende Gründe bestehen.
 
-<sup>2</sup> Erweist sich ein Auftrag während der Durchführung als sachlich zu eng gefasst, so ist der ursprüngliche Auftrag vorgängig zu weiteren Observationen durch die Fürsorgebehörde schriftlich zu erweitern.
+<sup>2</sup> Erweist sich ein Auftrag während der Durchführung als sachlich zu eng gefasst, ist der ursprüngliche Auftrag vorgängig zu weiteren Observationen durch die Sozialhilfebehörde schriftlich zu erweitern.
 
-<sup>3</sup> Die observierende Person erstattet der Fürsorgebehörde Bericht und übergibt ihr das Observationsmaterial vollständig. Sie darf vom Observationsmaterial keine Kopien aufbewahren und die gesammelten Informationen ausschliesslich im Rahmen ihres Auftrags verwenden. Sie untersteht dem Amtsgeheimnis und dem Gesetz über den Datenschutz (TG DSG)[^8d-1].
+<sup>3</sup> Die observierende Person erstattet der Sozialhilfebehörde Bericht und übergibt ihr das Observationsmaterial vollständig. Sie darf vom Observationsmaterial keine Kopien aufbewahren und die gesammelten Informationen ausschliesslich im Rahmen ihres Auftrags verwenden. Sie untersteht dem Amtsgeheimnis und dem Gesetz über den Datenschutz (TG DSG)[^8d-1].
 
-<sup>4</sup> Die Fürsorgebehörde kann zur Durchführung von Observationen Leistungsvereinbarungen abschliessen.
+<sup>4</sup> Die Sozialhilfebehörde kann zur Durchführung von Observationen Leistungsvereinbarungen abschliessen.
 
 [^8d-1]: RB [170.7](https://www.rechtsbuch.tg.ch/data/170.7/de)
 
@@ -180,22 +180,22 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 **Aktenführung und Einsichtsrecht**
 
-<sup>1</sup> Bestätigen sich die Anhaltspunkte, die zu einer Observation geführt haben, macht die Fürsorgebehörde der observierten Person schriftlich Mitteilung über den Grund, die Art und die Dauer der Observation und weist auf das Einsichtsrecht hin, bevor sie einen Entscheid betreffend die Unterstützung erlässt. Die observierte Person kann innert dreissig Tagen Stellung nehmen.
+<sup>1</sup> Bestätigen sich die Anhaltspunkte, die zu einer Observation geführt haben, macht die Sozialhilfebehörde der observierten Person schriftlich Mitteilung über den Grund, die Art und die Dauer der Observation und weist auf das Einsichtsrecht hin, bevor sie einen Entscheid betreffend die Unterstützung erlässt. Die observierte Person kann innert 30 Tagen Stellung nehmen.
 
-<sup>2</sup> Bestätigen sich die Anhaltspunkte, die zu einer Observation geführt haben, nicht, so
+<sup>2</sup> Bestätigen sich die Anhaltspunkte, die zu einer Observation geführt haben, nicht,
 
-- 1\. erlässt die Fürsorgebehörde einen Entscheid über den Grund, die Art und die Dauer der erfolgten Observation und weist die observierte Person auf das Einsichtsrecht hin,
-- 2\. vernichtet die Fürsorgebehörde nach Rechtskraft des Entscheids das Observationsmaterial, sofern die observierte Person nicht schriftlich beantragt, dass das Observationsmaterial vollständig in den Akten verbleibt.
+- 1\. erlässt die Sozialhilfebehörde einen Entscheid über den Grund, die Art und die Dauer der erfolgten Observation und weist die observierte Person auf das Einsichtsrecht hin,
+- 2\. vernichtet die Sozialhilfebehörde nach Rechtskraft des Entscheids das Observationsmaterial, sofern die observierte Person nicht schriftlich beantragt, dass das Observationsmaterial vollständig in den Akten verbleibt.
 
-<sup>3</sup> Die Fürsorgebehörde kann das Material einer Observation verwenden, die von einer anderen Fürsorgebehörde angeordnet wurde, wenn bei der Observation die Voraussetzungen nach diesem Gesetz erfüllt waren.
+<sup>3</sup> Die Sozialhilfebehörde kann das Material einer Observation verwenden, die von einer anderen Sozialhilfebehörde angeordnet wurde, wenn bei der Observation die Voraussetzungen nach diesem Gesetz erfüllt waren.
 
-<sup>4</sup> Zieht eine observierte Person während einer laufenden Observation aus einer Gemeinde weg, endet die Observation von Gesetzes wegen. In begründeten Fällen hat die Fürsorgebehörde das Recht, die Fürsorgebehörde der neuen Wohnsitzgemeinde innerhalb von 30 Tagen über diese Observation zu informieren.
+<sup>4</sup> Zieht eine observierte Person während einer laufenden Observation aus einer Gemeinde weg, endet die Observation von Gesetzes wegen. In begründeten Fällen hat die Sozialhilfebehörde das Recht, die Sozialhilfebehörde der neuen Wohnsitzgemeinde innerhalb von 30 Tagen über diese Observation zu informieren.
 
 #### § 8f
 
 **Berichterstattung**
 
-<sup>1</sup> Die Fürsorgebehörde erstattet dem Departement für Finanzen und Soziales auf Verlangen Bericht über:
+<sup>1</sup> Die Sozialhilfebehörde erstattet dem Departement für Finanzen und Soziales auf Verlangen Bericht über:
 
 - 1\. Anzahl Observationen
 - 2\. Ergebnisse der Observationen
@@ -212,7 +212,7 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 **…**
 
-### 2.2.2. Inkassohilfe und Bevorschussung
+### 2.2.2.
 
 #### § 13–16
 
@@ -224,7 +224,7 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 **Herkunft der Mittel**
 
-<sup>1</sup> Die Gemeinden bestreiten die Kosten für Leistungen an Hilfsbedürftige insbesondere aus:
+<sup>1</sup> Die Gemeinden bestreiten die Kosten für Leistungen an hilfsbedürftige Personen insbesondere aus:
 
 - 1\. familienrechtlichen Unterhalts- oder Unterstützungsbeiträgen
 - 2\. Rückerstattungen
@@ -236,7 +236,7 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 **Verwandtenunterstützung**
 
-<sup>1</sup> Die Gemeinde prüft, ob nach den Bestimmungen des Schweizerischen Zivilgesetzbuches (ZGB)[^18-1] Verwandte zur Unterstützung des Hilfsbedürftigen verpflichtet sind. Sie hat Unterstützungspflichtige zur Hilfe aufzufordern und zwischen ihnen und dem Hilfsbedürftigen zu vermitteln. Nötigenfalls ist die Verwandtenunterstützung bei den zuständigen Behörden geltend zu machen.
+<sup>1</sup> Die Gemeinde prüft, ob nach den Bestimmungen des Schweizerischen Zivilgesetzbuchs (ZGB)[^18-1] Verwandte zur Unterstützung der hilfsbedürftigen Person verpflichtet sind. Sie hat Unterstützungspflichtige zur Hilfe aufzufordern und zwischen ihnen und der hilfsbedürftigen Person zu vermitteln. Nötigenfalls ist die Verwandtenunterstützung bei den zuständigen Behörden geltend zu machen.
 
 <sup>2</sup> Für uneinbringliche Vorschüsse auf Unterhaltsbeiträge ist der Rückgriff auf Verwandte ausgeschlossen.
 
@@ -248,9 +248,9 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 <sup>1</sup> Zu Unrecht bezogene Leistungen sind samt Zins zurückzuerstatten.
 
-<sup>2</sup> Wer nach dem vollendeten 18. Altersjahr Unterstützungsbeiträge bezogen hat, ist zur Rückerstattung verpflichtet, soweit dies zumutbar ist. Erben haften bis zur Höhe ihrer Erbschaft.
+<sup>2</sup> Wer nach dem vollendeten 18. Altersjahr Unterstützungsbeiträge bezogen hat, ist zur Rückerstattung verpflichtet, soweit dies zumutbar ist. Erben und Erbinnen haften bis zur Höhe ihrer Erbschaft.
 
-<sup>3</sup> Wer Vorschüsse bezogen hat, ist zur Rückerstattung verpflichtet, soweit der Schuldner die vorgeschossenen Unterhaltsbeiträge bezahlt hat oder soweit er diesen beerbt.
+<sup>3</sup> Wer Vorschüsse bezogen hat, ist zur Rückerstattung verpflichtet, soweit der Schuldner oder die Schuldnerin die vorgeschossenen Unterhaltsbeiträge bezahlt hat oder soweit er oder sie diesen oder diese beerbt.
 
 <sup>4</sup> Rückerstattungsansprüche verjähren fünf Jahre seit Kenntnis, in jedem Fall aber 15 Jahre seit der letzten Leistung. Bei Haftung aus Erbschaft beträgt die Frist 20 Jahre.
 
@@ -260,7 +260,7 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 **Rückerstattung von Bevorschussungen**
 
-<sup>1</sup> Bevorschusst die Fürsorgebehörde Versicherungsleistungen oder vermögensrechtliche Forderungen gegenüber Dritten, gehen die betreffenden Ansprüche der Sozialhilfebedürftigen im Umfang der geleisteten Zahlungen mit allen Rechten auf die Fürsorgebehörde über. Diese kann verlangen, dass ihr diese Leistungen direkt ausbezahlt werden.
+<sup>1</sup> Bevorschusst die Sozialhilfebehörde Versicherungsleistungen oder vermögensrechtliche Forderungen gegenüber Dritten, gehen die betreffenden Ansprüche der hilfsbedürftigen Person im Umfang der geleisteten Zahlungen mit allen Rechten auf die Sozialhilfebehörde über. Diese kann verlangen, dass ihr diese Leistungen direkt ausbezahlt werden.
 
 #### § 19b
 
@@ -286,7 +286,7 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 <sup>1</sup> Der Kanton kann im Rahmen der Finanzkompetenzen Beiträge leisten, insbesondere an:
 
-- 1\. Erwerb, Bau oder Betrieb von Einrichtungen für Hilfsbedürftige
+- 1\. Erwerb, Bau oder Betrieb von Einrichtungen für hilfsbedürftige Personen
 - 2\. anerkannte Hilfswerke, soweit diese der Verhinderung oder Linderung sozialer Not dienen
 - 3\. Ausbildung von Fachpersonal
 
@@ -296,12 +296,12 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 <sup>1</sup> Der Kanton gewährt den Gemeinden ab Eingang ihres Kostengutsprachegesuchs Beiträge an den stationären Aufenthalt von:
 
-- 1\. Hilfsbedürftigen, deren Aufenthalt aus Mitteln der öffentlichen Sozialhilfe finanziert wird
-- 2\. nicht versicherten Ausländern ohne festen Wohnsitz in der Schweiz, die infolge Krankheit oder Unfall einer unaufschiebbaren Behandlung bedürfen, sofern eine Kostengutsprache des Kantons eingeholt worden ist
+- 1\. hilfsbedürftigen Personen, deren Aufenthalt aus Mitteln der öffentlichen Sozialhilfe finanziert wird
+- 2\. nicht versicherten ausländischen Personen ohne festen Wohnsitz in der Schweiz, die infolge Krankheit oder Unfall einer unaufschiebbaren Behandlung bedürfen, sofern eine Kostengutsprache des Kantons eingeholt worden ist
 
-<sup>2</sup> Der Regierungsrat regelt die näheren Voraussetzungen für die Beiträge. Die Höhe der Beiträge entspricht den anerkannten Aufenthaltskosten, soweit diese nach Abzug von eigenen Mitteln des Hilfsbedürftigen und Leistungen Dritter den Grundbetrag übersteigen. Übersteigt der Kantonsbeitrag ebenfalls die Höhe des Grundbetrages, tragen Gemeinde und Kanton die darüber hinausgehenden Kosten je zur Hälfte.
+<sup>2</sup> Der Regierungsrat regelt die näheren Voraussetzungen für die Beiträge. Die Höhe der Beiträge entspricht den anerkannten Aufenthaltskosten, soweit diese nach Abzug von eigenen Mitteln der hilfsbedürftigen Person und Leistungen Dritter den Grundbetrag übersteigen. Übersteigt der Kantonsbeitrag ebenfalls die Höhe des Grundbetrags, tragen Gemeinde und Kanton die darüber hinausgehenden Kosten je zur Hälfte.
 
-<sup>3</sup> Der Grundbetrag entspricht den Heimkosten, die beim Maximum von einfacher AHV-Rente und Ergänzungsleistungen für Heimbewohner gedeckt werden.
+<sup>3</sup> Der Grundbetrag entspricht den Heimkosten, die beim Maximum von einfacher AHV-Rente und Ergänzungsleistungen für Heimbewohnerinnen und Heimbewohner gedeckt werden.
 
 #### § 21b
 
@@ -313,11 +313,21 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 [^21b-1]: Jetzt Interkantonale Vereinbarung für soziale Einrichtungen IVSE (RB [850.6](https://www.rechtsbuch.tg.ch/data/850.6/de))
 
+#### § 21c
+
+**Budgetberatung, Schuldenberatung, Schuldensanierung und Sozialberatung im Alter**
+
+<sup>1</sup> Der Kanton kann Leistungsvereinbarungen für die Budgetberatung, Schuldenberatung, Schuldensanierung und Sozialberatung im Alter für die Einwohnerinnen und Einwohner abschliessen.
+
+<sup>2</sup> Kanton und Gemeinden tragen die aus diesen Leistungsvereinbarungen entstehenden Kosten hälftig.
+
+<sup>3</sup> Die Aufteilung der Kosten auf die Gemeinden erfolgt im Verhältnis der von ihren Einwohnerinnen und Einwohnern beanspruchten Leistungen zur Hälfte der Gesamtkosten.
+
 #### § 22
 
 **Öffentliche Sammlungen, Betteln**
 
-<sup>1</sup> Öffentliche Sammlungen für gemeinnützige oder wohltätige Zwecke bedürfen einer Bewilligung des zuständigen Departementes des Regierungsrates. Beschränkt sich die Sammlung auf das Gebiet einer Gemeinde, genügt die Bewilligung des Gemeindepräsidenten.
+<sup>1</sup> Öffentliche Sammlungen für gemeinnützige oder wohltätige Zwecke bedürfen einer Bewilligung des zuständigen Departements. Beschränkt sich die Sammlung auf das Gebiet einer Gemeinde, genügt die Bewilligung der Gemeindepräsidentin oder des Gemeindepräsidenten.
 
 <sup>2</sup> Betteln ist verboten.
 
@@ -327,43 +337,37 @@ vom 29.03.1984 (Stand 01.07.2022)
 
 #### § 23
 
-**Schweigepflicht**
-
-<sup>1</sup> Wer Aufgaben der öffentlichen Sozialhilfe wahrnimmt, ist zur Verschwiegenheit verpflichtet.
+**…**
 
 #### § 24
 
 **Beginn und Durchführung der Hilfe**
 
-<sup>1</sup> Die Fürsorgebehörde leistet die in diesem Gesetz vorgesehene Hilfe, sobald sie Kenntnis von drohender oder bestehender sozialer Not erhält. Sie benachrichtigt die Kindes- und Erwachsenenschutzbehörde, wenn für den Hilfsbedürftigen oder seine Angehörigen Anordnungen des Kindes- und Erwachsenenschutzes notwendig werden.
+<sup>1</sup> Die Sozialhilfebehörde leistet die in diesem Gesetz vorgesehene Hilfe, sobald sie Kenntnis von drohender oder bestehender sozialer Not erhält. Sie benachrichtigt die Kindes- und Erwachsenenschutzbehörde, wenn für die hilfsbedürftige Person oder ihre Angehörigen Anordnungen des Kindes- und Erwachsenenschutzes notwendig werden.
 
-<sup>2</sup> Bedarf jemand unaufschiebbar der Hilfe, kann der Fürsorger in Absprache mit dem Präsidenten der Fürsorgekommission die notwendigen Massnahmen bis zum Entscheid der Behörde treffen.
+<sup>2</sup> Bedarf jemand unaufschiebbar der Hilfe, kann die Sozialhilfebetreuerin oder der Sozialhilfebetreuer in Absprache mit der Präsidentin oder dem Präsidenten der Sozialhilfebehörde die notwendigen Massnahmen bis zum Entscheid der Behörde treffen.
 
-<sup>3</sup> Die Hilfe erfolgt in Zusammenarbeit mit dem Hilfsbedürftigen. Seine berechtigten Interessen sowie diejenigen der Angehörigen sind zu berücksichtigen.
+<sup>3</sup> Die Hilfe erfolgt in Zusammenarbeit mit der hilfsbedürftigen Person. Ihre berechtigten Interessen sowie diejenigen der Angehörigen sind zu berücksichtigen.
 
 #### § 25
 
-**Pflichten des Hilfsbedürftigen**
+**Pflichten der hilfsbedürftigen Person**
 
-<sup>1</sup> Der Hilfsbedürftige hat über seine Verhältnisse wahrheitsgetreu Auskunft zu geben und die erforderliche Akteneinsicht zu gestatten.
+<sup>1</sup> Die hilfsbedürftige Person hat über ihre Verhältnisse wahrheitsgetreu Auskunft zu geben und die erforderliche Akteneinsicht zu gestatten.
 
-<sup>2</sup> Finanzielle Hilfe kann davon abhängig gemacht werden, dass der Hilfsbedürftige vermögensrechtliche Ansprüche, die nicht von Gesetzes wegen übergehen, an die Gemeinde abtritt.
+<sup>2</sup> Finanzielle Hilfe kann davon abhängig gemacht werden, dass die hilfsbedürftige Person vermögensrechtliche Ansprüche, die nicht von Gesetzes wegen übergehen, an die Gemeinde abtritt.
 
-<sup>3</sup> Hilfsbedürftigen, die Anordnungen der Behörden nicht befolgen oder deren Hilfe missbrauchen, wird die Unterstützung nach Verwarnung gekürzt oder eingestellt.
+<sup>3</sup> Hilfsbedürftige Personen, die Anordnungen der Behörden nicht befolgen oder deren Hilfe missbrauchen, wird die Unterstützung nach Verwarnung gekürzt oder eingestellt.
 
 #### § 26
 
 **Rechtsmittel**
 
-<sup>1</sup> Gegen Entscheide der für die Sozialhilfe zuständigen Behörden kann innert 20 Tagen beim Departement Rekurs erhoben werden.
+<sup>1</sup> Gegen Entscheide der Sozialhilfebehörde kann innert 30 Tagen beim Departement für Finanzen und Soziales Rekurs erhoben werden.
 
-## 5. Übergangs- und Schlussbestimmungen
+## 5.
 
-#### § 27
-
-<sup>1</sup> Beiträge nach § 21a werden auch ausgerichtet, wenn der stationäre Aufenthalt vor dem Inkrafttreten dieses Gesetzes angetreten worden ist und andauert.
-
-#### § 28
+#### § 27–28
 
 **…**
 
