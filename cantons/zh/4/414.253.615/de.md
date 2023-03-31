@@ -3,17 +3,16 @@ canton: ZH
 number: "414.253.615"
 title: Studienordnung für den Masterstudiengang in Sozialer Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2023-04-01
+version: "2023-04-01"
+nachtrag: "120"
 adopted: 2018-08-23
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_615-2018_08_23-2019_08_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_615-2018_08_23-2019_08_01-120.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Studienordnung für den Masterstudiengang in Sozialer Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften
+# Studienordnung für den Masterstudiengang in Sozialer Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften
 
 (vom 23. August 2018)[^t-1],[^t-2]
 
@@ -59,13 +58,13 @@ Das Studium gliedert sich in Grundlagen- und Profilbildungsmodule. Die Details s
 
 #### § 5
 
-**Anrechnung von ECTS-Credits**
+**Anrechnung von ECTS- Credits**
 
 An der ZHAW oder andernorts erworbene ECTS-Credits werden während sechs Jahren ab dem Semester ihres Erwerbs angerechnet. Die Studiengangleitung entscheidet über begründete Ausnahmen.
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 ### B. Zulassung zum Studium
 
@@ -119,15 +118,21 @@ An der ZHAW oder andernorts erworbene ECTS-Credits werden während sechs Jahren 
 
 <sup>2</sup> Eine Nachprüfung von unbegründet versäumten Leistungsnachweisen ist ausgeschlossen.
 
-#### § 10
-
 **Expertinnen und Experten**
 
-<sup>1</sup> Masterarbeiten und deren Verteidigung sowie mündliche Modulschlussprüfungen finden unter Beizug von Expertinnen oder Experten statt.
+§ 10.[^9-1] <sup>1</sup> Masterarbeiten und deren Verteidigung sowie mündliche Modulschlussprüfungen finden unter Beizug von Expertinnen oder Experten statt.
 
-<sup>2</sup> Die Benotung erfolgt einvernehmlich mit den prüfenden Dozierenden. Kommt keine Einigung zustande, steht der Stichentscheid der oder dem prüfenden Dozierenden zu.
+<sup>2</sup> Für die Benotung der Masterarbeit werden zwei separate Gutachten mit Note erstellt. Die Abschlussnote für die Masterarbeit setzt sich aus dem Durchschnitt der Noten der beiden Gutachten zusammen. Ein Drittgutachten, mit dem abschliessend die Note festgelegt wird, wird in den folgenden Fällen erstellt:
 
-<sup>3</sup> Die Studiengangleitung ernennt die Expertinnen und Experten.
+- a. die Gutachten weichen um mehr als 1,0 Notenpunkte voneinander ab oder
+
+- b. sowohl die Bewertung mindestens eines Gutachtens als auch der Durchschnitt der beiden Gutachten liegt unter der Note 4,0.
+
+<sup>3</sup> Die Benotung der Verteidigung der Masterarbeit und der mündlichen Modulschlussprüfungen erfolgt einvernehmlich mit den prüfenden Dozierenden. Kommt keine Einigung zustande, steht der Stichentscheid der oder dem prüfenden Dozierenden zu.
+
+<sup>4</sup> Die Studiengangleitung ernennt die Expertinnen und Experten.
+
+[^9-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 510; ABl 2022-08-19). In Kraft seit 1. April 2023. 1. 4. 23 - 120 5
 
 #### § 11
 
@@ -143,6 +148,10 @@ Mit der Masterarbeit kann begonnen werden, wenn die Voraussetzungen gemäss Anha
 
 <sup>2</sup> Die Noten der bestandenen Leistungsnachweise werden für die Beurteilung des Moduls übernommen.
 
+**3**
+
+- 1\. 4. 23 - 120
+
 ### D. Studienabschluss und Masterdiplom
 
 #### § 13
@@ -155,19 +164,26 @@ Der Mastertitel wird vergeben, wenn die Masterarbeit bestanden ist und insgesamt
 
 - b. 60 ECTS-Credits in Profilbildungsmodulen.
 
-**3**
+[^13-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 510; ABl 2022-08-19). In Kraft seit 1. April 2023. 1. 4. 23 - 120 5
 
-- 1\. 1. 23 - 119 § 14. <sup>1</sup> Die Abschlussnote setzt sich aus allen promotionsrelevanten Modulnoten zusammen.
+#### § 14
 
-**Abschlussnote**
+**Abschlussnote a. allgemein**
+
+<sup>1</sup> Die Abschlussnote setzt sich aus den Noten der gemäss Anhang relevanten Module zusammen.[^13-1]
 
 <sup>2</sup> Die Modulnoten werden nach ECTS-Credits gewichtet.
 
+**b. ECTS-Credits aus Wahlpflichtmodulen**
+
+§ 14 a.[^14-1] Werden mehr Wahlpflichtmodule als nötig belegt, gelten als überzählige Wahlpflichtmodule diejenigen mit der tiefsten Bewertung. Diese fliessen nicht in die Abschlussnote ein.
+
 **Titel**
 
-§ 15.[^13-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Sozialer Arbeit mit Vertiefung in Transitionen und Interventionen» abgeschlossen.
+§ 15.[^14-2] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Sozialer Arbeit mit Vertiefung in Transitionen und Interventionen» abgeschlossen.
 
-[^13-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 510; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
+[^14-1]: Eingefügt durch B vom 2. Juni 2022 (OS 77, 510; ABl 2022-08-19). In Kraft seit 1. April 2023.
+[^14-2]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 510; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 ### E. Schlussbestimmungen
 
@@ -193,11 +209,7 @@ Studierende, die ihr Studium vor dem Frühlingssemester 2016 begonnen haben, sch
 
 Studierende, die ihr Studium bis Ende Frühlingssemester 2019 nicht abgeschlossen haben, werden in die Studienordnung vom 23. August 2018 überführt.
 
-[^18-1]: Eingefügt durch B vom 2. Juni 2022 (OS 77, 510; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
-
-### Anhang zur Studienordnung für den Masterstudiengang in Sozialer Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften
-
-[^18-1]
+### Anhang<sup>4</sup> zur Studienordnung für den Masterstudiengang in Sozialer Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften
 
 Der Anhang zur Studienordnung für den Masterstudiengang in Sozialer Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
@@ -205,6 +217,6 @@ Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrass
 
 bezogen oder unter www.zhaw.ch eingesehen werden.
 
-**5**
+## Weitere Fussnoten
 
-- 1\. 1. 23 - 119
+- [4] Eingefügt durch B vom 2. Juni 2022 (OS 77, 510; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
