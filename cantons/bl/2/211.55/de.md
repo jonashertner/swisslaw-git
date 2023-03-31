@@ -3,20 +3,20 @@ canton: BL
 number: "211.55"
 title: Verordnung über die Gebühren für die Nachführungsarbeiten in der amtlichen Vermessung
 language: de
-version: 2022-02-01
-valid_until: 2023-03-31
-version_adopted: 2022-01-18
+version: 2023-04-01
+valid_until: 2024-02-15
+version_adopted: 2023-03-28
 adopted: 1997-11-25
 in_force: 1997-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/211.55"
-pdf: "https://bl.clex.ch/api/de/versions/3205/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3569/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gebühren für die Nachführungsarbeiten in der amtlichen Vermessung
 
-Vom 25.11.1997 (Stand 01.02.2022)
+Vom 25.11.1997 (Stand 01.04.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -61,20 +61,7 @@ beschliesst:
   - 2\. Gebäude: CHF 16.– pro geänderter Gebäudeadresse;
   - 3\. Liegenschaftsbeschreibung: unabhängig von der Anzahl der Änderungen in einer Mutation einmalig: CHF 70.90.
 
-<sup>2</sup> Materialkosten inklusive Administration und Lagerungskosten liegen im Anhang 1 auf.
-
-- a. …
-- b. …
-- c. …
-- d. …
-- e. …
-- f. …
-- g. …
-- h. …
-- i. …
-- k. …
-- l. …
-- m. …
+<sup>2</sup> Materialkosten inklusive Administration und Lagerungskosten sind in Anhang 1 aufgeführt.
 
 <sup>3</sup> Aus dem HO33-Unterkapitel 334, Datenbewirtschaftung, finden Anwendung:
 
