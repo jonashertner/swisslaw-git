@@ -3,17 +3,16 @@ canton: ZH
 number: "414.253.345"
 title: Studienordnung für den Masterstudiengang in Preneurship for Regenerative Food Systems an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2023-04-01
+version: "2023-04-01"
+nachtrag: "120"
 adopted: 2021-03-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_345-2021_03_04-2021_09_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_345-2021_03_04-2021_09_01-120.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Studienordnung für den Masterstudiengang in Preneurship for Regenerative Food Systems an der Zürcher Hochschule für Angewandte Wissenschaften
+# Studienordnung für den Masterstudiengang in Preneurship  for Regenerative Food Systems an der  Zürcher Hochschule für Angewandte Wissenschaften
 
 (vom 4. März 2021)[^t-1],[^t-2]
 
@@ -53,7 +52,7 @@ Einzelheiten zum Studiengang, insbesondere zu Modulen, Modulgruppen, Modultypen 
 
 #### § 4
 
-**Anrechnung von ECTS-Credits**
+**Anrechnung von ECTS- Credits**
 
 <sup>1</sup> An der ZHAW oder andernorts erworbene ECTS-Credits werden während fünf Jahren ab dem Semester ihres Erwerbs angerechnet.
 
@@ -69,7 +68,7 @@ Einzelheiten zum Studiengang, insbesondere zu Modulen, Modulgruppen, Modultypen 
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Die Studienanwärterinnen und -anwärter müssen ausserdem ein Standortgespräch absolvieren.
 
@@ -87,7 +86,7 @@ Einzelheiten zum Studiengang, insbesondere zu Modulen, Modulgruppen, Modultypen 
 
 <sup>3</sup> Den Bewerberinnen und Bewerbern, die eine Eignungsabklärung durchlaufen müssen, wird bei positivem Aufnahmeentscheid während der nächsten zwei Jahre ein Studienplatz zur Verfügung gestellt. Nach Ablauf dieser Frist ist das gesamte Zulassungsverfahren erneut zu durchlaufen.
 
-[^5-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 502; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 5
+[^5-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 502; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 #### § 7
 
@@ -97,7 +96,7 @@ Einzelheiten zum Studiengang, insbesondere zu Modulen, Modulgruppen, Modultypen 
 
 <sup>2</sup> Bei fachfremden Abschlüssen gemäss § 6 Abs. 1 lit. b kann Arbeitserfahrung im Bereich Agro Food von höchstens zwölf Monaten verlangt werden. Die Studiengangleitung entscheidet über den Umfang.[^7-1]
 
-[^7-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 502; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 5
+[^7-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 502; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 ### C. Module
 
@@ -149,19 +148,19 @@ Für einzelne Leistungsnachweise können Nachprüfungen angeboten werden, wenn e
 
 <sup>5</sup> Für Leistungsnachweise in der Master Thesis kann eine Nachbesserung erbracht werden, wenn die Gesamtbeurteilung zwischen 3,50 und 3,99 liegt. Für eine erfolgreiche Nachbesserung wird die Note 4,00 erteilt. Wurde die Master Thesis mit der Note 3,49 oder tiefer bewertet oder wird die nachgebesserte Master Thesis erneut als ungenügend beurteilt, muss sie wiederholt werden.
 
-**3**
-
-- 1\. 1. 23 - 119 § 13. <sup>1</sup> Wer ein Modul nicht besteht, muss die nicht bestandenen Leistungsnachweise des Moduls wiederholen.
+#### § 13
 
 **e. Wiederholung**
 
+<sup>1</sup> Wer ein Modul nicht besteht, muss die nicht bestandenen Leistungsnachweise des Moduls wiederholen.
+
 <sup>2</sup> Die Bewertungen der bestandenen Leistungsnachweise werden für die Beurteilung des Moduls übernommen.
 
-#### § 14
+**3**
+
+- 1\. 4. 23 - 120 § 14. Bei Modulen, die von anderen Studiengängen durchgeführt werden, gilt für Nachbesserungen und Nachprüfungen, für Expertinnen und Experten sowie für Wiederholungen von nicht bestandenen Modulen die Regelung dieser Studiengänge.
 
 **Modulangebot durchgeführt von anderen Studiengängen**
-
-Bei Modulen, die von anderen Studiengängen durchgeführt werden, gilt für Nachbesserungen und Nachprüfungen, für Expertinnen und Experten sowie für Wiederholungen von nicht bestandenen Modulen die Regelung dieser Studiengänge.
 
 ### E. Studienabschluss und Masterdiplom
 
@@ -177,7 +176,7 @@ Das Masterstudium ist erfolgreich abgeschlossen, wenn a. die gemäss Anhang zu b
 
 #### § 16
 
-**Abschlussnote**
+**Abschlussnote a. allgemein5**
 
 <sup>1</sup> Die Abschlussnote errechnet sich aus den Noten der Module der Modulkategorien «Agro Food Project» und «Master Thesis».
 
@@ -187,19 +186,13 @@ Das Masterstudium ist erfolgreich abgeschlossen, wenn a. die gemäss Anhang zu b
 
 - b. 50% Master Thesis.
 
-#### § 17
+**b. ECTS-Credits aus Wahlpflichtmodulen**
 
-**Überzählige ECTS-Credits aus Wahlpflichtmodulen**
+§ 17.[^16-1] <sup>1</sup> Es können überzählige Wahlpflichtmodule belegt werden, sofern dies im Anhang vorgesehen ist.
 
-<sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
+<sup>2</sup> Alle überzähligen Wahlpflichtmodule fliessen in die allfällige Modulgruppennote und die Abschlussnote ein, soweit dies gemäss § 16 vorgesehen ist.
 
-<sup>2</sup> Die Studiengangleitung regelt,
-
-- a. ob die Belegung von überzähligen Wahlpflichtmodulen möglich ist,
-
-- b. wie die Studierenden bei der Wahl der Module bestimmen, welche Wahlpflichtmodule überzählig sind.
-
-<sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
+[^16-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 502; ABl 2022-08-19). In Kraft seit 1. April 2023.
 
 #### § 18
 
@@ -207,18 +200,26 @@ Das Masterstudium ist erfolgreich abgeschlossen, wenn a. die gemäss Anhang zu b
 
 <sup>1</sup> Die Studierenden erhalten einen Bericht, der ihre Leistungen und ihre Entwicklung während des Studiums aufzeigt.
 
+<sup>2</sup> Der Bericht wird von der Studiengangleitung bewilligt.
+
 **Titel**
 
-<sup>2</sup> Der Bericht wird von der Studiengangleitung bewilligt. § 19.[^18-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Preneurship for Regenerative Food Systems» abgeschlossen.
+§ 19.[^18-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Preneurship for Regenerative Food Systems» abgeschlossen.
 
-[^18-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 502; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 5
+[^18-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 502; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
-### Anhang zur Studienordnung für den Masterstudiengang in Preneurship for Regenerative Food Systems an der Zürcher Hochschule für Angewandte Wissenschaften
-
-[^18-1]
+### Anhang<sup>4</sup> zur Studienordnung für den Masterstudiengang in Preneurship for Regenerative Food Systems an der Zürcher Hochschule für Angewandte Wissenschaften
 
 Der Anhang zur Studienordnung für den Masterstudiengang in Preneurship for Regenerative Food Systems an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
 Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter www.zhaw.ch eingesehen werden.
+
+**5**
+
+- 1\. 4. 23 - 120
+
+## Weitere Fussnoten
+
+- [5] Eingefügt durch B vom 2. Juni 2022 (OS 77, 502; ABl 2022-08-19). In Kraft seit 1. April 2023.
