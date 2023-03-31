@@ -4,11 +4,11 @@ title: "Ordinanza del 29 aprile 2015 concernente la lotta contro le malattie tra
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: it
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230101/it"
 
 (Ordinanza sulle epidemie, OEp)
 
-del 29 aprile 2015 (Stato 1° gennaio 2023)
+del 29 aprile 2015 (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1412,13 +1412,14 @@ Il sistema d’informazione si compone:
 - a. del sistema «dichiarazioni»;
 - b. del modulo «gestione dei contatti».
 
-<sup>2</sup> Il modulo «gestione dei contatti» è integrato come modulo a sé stante nel Sistema d’informazione e d’impiego del Servizio sanitario coordinato di cui all’articolo 35 dell’ordinanza del 16 dicembre 2009[^90-1] sui sistemi d’informazione militari.
+<sup>2</sup> Il modulo «gestione dei contatti» è integrato come modulo a sé stante nel Sistema d’informazione e d’impiego del Servizio sanitario coordinato di cui all’articolo 35 dell’ordinanza del 16 dicembre 2009[^90-1] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS.[^90-2]
 
 <sup>3</sup> Il sistema «dichiarazioni» contiene i dati sulle osservazioni soggette all’obbligo di dichiarazione.
 
 <sup>4</sup> Il modulo «gestione dei contatti» contiene i dati di persone che sono malate, sospette malate, contagiate o sospette contagiate o che espellono agenti patogeni; contiene inoltre i dati delle persone con cui sono venute a contatto.
 
 [^90-1]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^90-2]: Nuovo testo giusta l’all. n. 9 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 91
 

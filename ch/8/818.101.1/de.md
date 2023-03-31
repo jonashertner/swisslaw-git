@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230101/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 1. Januar 2023)
+vom 29. April 2015 (Stand am 1. April 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1413,13 +1413,14 @@ Das Informationssystem besteht aus:
 - a. dem System «Meldungen»;
 - b. dem Modul «Kontaktmanagement».
 
-<sup>2</sup> Das Modul Kontaktmanagement ist als selbstständiges Modul in das Informations- und Einsatzsystem des Koordinierten Sanitätsdienstes nach Artikel 35 der Verordnung vom 16. Dezember 2009[^90-1] über die militärischen Informationssysteme integriert.
+<sup>2</sup> Das Modul Kontaktmanagement ist als selbstständiges Modul in das Informations- und Einsatzsystem des Koordinierten Sanitätsdienstes nach Artikel 35 der Verordnung vom 16. Dezember 2009[^90-1] über militärische und andere Informationssysteme im VBS integriert.[^90-2]
 
 <sup>3</sup> Das System «Meldungen» enthält die Daten zu den meldepflichtigen Beobachtungen.
 
 <sup>4</sup> Das Modul «Kontaktmanagement» enthält die Daten von Personen, die krank, krankheitsverdächtig, angesteckt oder ansteckungsverdächtig sind oder die Krankheitserreger ausscheiden; es enthält zudem die Daten von Personen, mit denen die betroffene Person Kontakt hatte.
 
 [^90-1]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^90-2]: Fassung gemäss Anhang Ziff. 9 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 91
 

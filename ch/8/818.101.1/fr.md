@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230101/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (État le 1<sup>er</sup> janvier 2023)
+du 29 avril 2015 (État le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1419,13 +1419,14 @@ Le système d’information se compose:
 - a. du système «déclarations»;
 - b. du module «gestion des contacts».
 
-<sup>2</sup> Le module «gestion des contacts» est un module autonome intégré dans le système d’information et de conduite du Service sanitaire coordonné visé à l’art. 35 de l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée[^90-1].
+<sup>2</sup> Le module «gestion des contacts» est un module autonome intégré dans le système d’information et de conduite du Service sanitaire coordonné visé à l’art. 35 de l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée et du DDPS[^90-1].[^90-2]
 
 <sup>3</sup> Le système «déclarations» contient les données relatives aux observations soumises à déclaration.
 
 <sup>4</sup> Le module «gestion des contacts» contient les données relatives aux personnes malades, présumées malades, infectées, présumées infectées ou qui excrètent des agents pathogènes ainsi que celles de personnes ayant été en contact avec elles.
 
 [^90-1]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^90-2]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 91
 
