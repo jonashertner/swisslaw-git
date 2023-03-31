@@ -4,7 +4,7 @@ number: "173.31.1"
 title: RÈGLEMENT du 13.11.2007 organique du Tribunal cantonal (ROTC)
 short: ROTC
 language: fr
-version: 2020-03-01
+version: 2023-04-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.31.1?id=8b4fb417-034b-443a-adf5-89df04fa5a04"
 ---
 
@@ -62,13 +62,13 @@ arrête
 
 #### Art. 3
 
-**b) En cours de législature [^2-5]**
+**En cours de législature [^2-5]**
 
 <sup>1</sup> Lors de l'une des dernières séances de chaque année, la Cour plénière, statuant pour l'année suivante :
 
 - a. élit le président et le vice-président du Tribunal cantonal, le troisième membre de la Cour administrative et le suppléant ;
 - b. constitue ses cours et sections ;
-- c. désigne les membres de l'autorité de surveillance ;
+- c. ...
 - d. désigne hors la Cour administrative:
 - - un juge délégué à la Chambre patrimoniale cantonale, aux tribunaux d'arrondissement et au Tribunal des baux ;
 - - un juge délégué au Tribunal des mineurs et au Tribunal des mesures de contrainte et juge d'application des peines ;
@@ -80,7 +80,7 @@ arrête
 
 <sup>3</sup> Lorsqu'un juge quittant sa charge est remplacé en cours d'année, la Cour plénière décide des mutations éventuelles et de l'affectation du nouveau juge.
 
-[^2-5]: Modif. 5 du 07.12.2010: Modification Al. 1; entrée en vigueur au 01.01.2011 · Modif. 8 du 08.12.2015: Modification Al. t,2; entrée en vigueur au 01.01.2016; Introduction Al. 3; entrée en vigueur au 01.01.2016 · Modif. 13 du 21.03.2023: Modification tArt; entrée en vigueur au 01.04.2023; Abrogation Al. 1, c; entrée en vigueur au 01.04.2023; Introduction Art. 4a; entrée en vigueur au 01.04.2023; Introduction Art. 66a; entrée en vigueur au 01.04.2023
+[^2-5]: Modif. 5 du 07.12.2010: Modification Al. 1; entrée en vigueur au 01.01.2011 · Modif. 8 du 08.12.2015: Modification Al. t,2; entrée en vigueur au 01.01.2016; Introduction Al. 3; entrée en vigueur au 01.01.2016 · Modif. 13 du 21.03.2023: Modification tArt; entrée en vigueur au 01.04.2023; Abrogation Al. 1, c; entrée en vigueur au 01.04.2023
 [^3-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
 
 #### Art. 4
@@ -90,6 +90,14 @@ arrête
 <sup>1</sup> Le président et le vice-président du Tribunal cantonal sont élus, parmi les juges à plein temps, sur une base volontaire, indépendamment de l'ancienneté. Ils sont rééligibles (art. 70 LOJV[^4-1] ).
 
 [^4-1]: Loi du 12.12.1979 d'organisation judiciaire ([BLV 173.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01?id=7d019c5e-73a0-4d1f-aec6-f5ae04647e72))
+
+#### Art. 4a
+
+**Membres et membres suppléants juges cantonaux du Conseil de la magistrature (art. 5 al. 1 let. a, 7 et 11 LCM) [^4-2]**
+
+<sup>1</sup> La Cour plénière désigne après mise au concours auprès des juges cantonaux, les membres ordinaires et les membres suppléants proposés par le Tribunal cantonal pour l'élection au Conseil de la magistrature.
+
+[^4-2]: Modif. 13 du 21.03.2023: Introduction Art. 4a; entrée en vigueur au 01.04.2023
 
 ### Section II Cour administrative
 
@@ -582,9 +590,9 @@ arrête
 
 <sup>1</sup> Toute cour ou section qui, à l'occasion d'une affaire qui lui est soumise, constate un manquement d'un magistrat ou collaborateur judiciaire, adresse une observation à l'intéressé, après avoir recueilli, le cas échéant, les renseignements nécessaires. Une copie de la lettre d'observation est remise, respectivement, à la Cour administrative ou au secrétaire général.
 
-<sup>2</sup> S'il lui paraît qu'une procédure disciplinaire se justifie, la cour ou la section en informe la Cour administrative, laquelle se saisit du cas, respectivement le transmet à l'autorité de surveillance ou au secrétaire général.
+<sup>2</sup> S'il lui paraît qu'une procédure disciplinaire se justifie, la cour ou la section en informe la Cour administrative, laquelle se saisit du cas, respectivement le transmet au Conseil de la magistrature ou au secrétaire général.
 
-[^48-2]: Modif. 13 du 21.03.2023: Introduction Art. 4a; entrée en vigueur au 01.04.2023; Modification Al. 2; entrée en vigueur au 01.04.2023; Introduction Art. 66a; entrée en vigueur au 01.04.2023
+[^48-2]: Modif. 13 du 21.03.2023: Modification Al. 2; entrée en vigueur au 01.04.2023
 
 #### Art. 50
 
@@ -644,9 +652,9 @@ arrête
 
 **[^60-1]**
 
-<sup>1</sup> Le procès-verbal est tenu par le secrétaire général ou l'un de ses adjoints.
+<sup>1</sup> Le procès-verbal est tenu par le secrétaire général ou le secrétaire général adjoint.
 
-[^60-1]: Modif. 13 du 21.03.2023: Introduction Art. 4a; entrée en vigueur au 01.04.2023; Modification Al. 1; entrée en vigueur au 01.04.2023; Introduction Art. 66a; entrée en vigueur au 01.04.2023
+[^60-1]: Modif. 13 du 21.03.2023: Modification Al. 1; entrée en vigueur au 01.04.2023
 
 #### Art. 62
 
@@ -674,14 +682,24 @@ arrête
 
 **Mode de nomination [^65-1]**
 
-<sup>1</sup> Les nominations ont lieu au scrutin secret et à la majorité absolue des suffrages.
+<sup>1</sup> Les nominations ont lieu à bulletin secret et à la majorité absolue des suffrages.
 
 <sup>2</sup> Pour déterminer la majorité absolue, les bulletins blancs sont comptés.
 
 <sup>3</sup> Si, après deux tours de scrutin, il n'y a pas de majorité absolue, la Cour plénière surseoit à la nomination et procède selon l'article 25, alinéa 2 LOJV[^66-1] .
 
-[^65-1]: Modif. 13 du 21.03.2023: Introduction Art. 4a; entrée en vigueur au 01.04.2023; Modification Al. 1; entrée en vigueur au 01.04.2023; Introduction Art. 66a; entrée en vigueur au 01.04.2023
+[^65-1]: Modif. 13 du 21.03.2023: Modification Al. 1; entrée en vigueur au 01.04.2023
 [^66-1]: Loi du 12.12.1979 d'organisation judiciaire ([BLV 173.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01?id=7d019c5e-73a0-4d1f-aec6-f5ae04647e72))
+
+#### Art. 66a
+
+**Mode de désignation et d'élection [^66-2]**
+
+<sup>1</sup> Les désignations et élections ont lieu à bulletin secret.
+
+<sup>2</sup> Le mode de scrutin est individuel et majoritaire à deux tours, soit majorité absolue au premier tour et majorité relative au deuxième tour. L'article 66 alinéa 2 du présent règlement est applicable pour le surplus.
+
+[^66-2]: Modif. 13 du 21.03.2023: Introduction tArt; entrée en vigueur au 01.04.2023; Introduction Al. 1-2; entrée en vigueur au 01.04.2023; Introduction Art. 66a; entrée en vigueur au 01.04.2023
 
 ### Section IV Cours et sections
 
