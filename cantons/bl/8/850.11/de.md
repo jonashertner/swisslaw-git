@@ -4,13 +4,13 @@ number: "850.11"
 title: Sozialhilfeverordnung
 short: SHV
 language: de
-version: 2023-01-01
-valid_until: 2023-03-31
+version: 2023-04-01
+valid_until: 2023-12-31
 version_adopted: 2022-11-29
 adopted: 2001-09-25
 in_force: 2002-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/850.11"
-pdf: "https://bl.clex.ch/api/de/versions/3458/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3460/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3458/pdf_file"
 
 (SHV)
 
-Vom 25.09.2001 (Stand 01.01.2023)
+Vom 25.09.2001 (Stand 01.04.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -239,28 +239,61 @@ beschliesst:
 
 - a. bei Wegzug aus der Gemeinde ein Zehrgeld für 1 Monat in der Höhe von § 9 sowie die angemessenen Wohnungskosten der Zuzugsgemeinde für 1 Monat.
 
+#### § 15a
+
+**Zuschüsse (§ 6<sup>bis</sup> [SHG](https://bl.clex.ch/data/850/de/art6bis))**
+
+<sup>1</sup> Als Einkommensfreibetrag nach § 6<sup>bis</sup> Abs. 2 SHG gilt ein die Selbständigkeit und Selbsthilfe erhaltender und fördernder Anteil am Erwerbseinkommen, jedoch pro Monat mindestens CHF 100.– und höchstens CHF 400.– pro Person.
+
+<sup>2</sup> Die Höhe des Motivationszuschusses nach § 6<sup>bis</sup> Abs. 3 SHG beträgt CHF 100.– pro Person pro Monat.
+
+<sup>3</sup> Die Höhe des Beschäftigungszuschusses nach § 6<sup>bis</sup> Abs. 4 SHG beträgt CHF 80.– pro Person pro Monat.
+
+<sup>4</sup> Die Höhe der Gefälligkeitszuwendungen von Dritten nach § 6<sup>bis</sup> Abs. 5 SHG beträgt höchstens CHF 50.– pro Person pro Monat.
+
+<sup>5</sup> Personen, die Anrecht auf einen Motivationszuschuss nach § 6<sup>bis</sup> Abs. 3 Bst. a SHG haben, erhalten diesen rückwirkend nach erfolgreichem Abschluss der Massnahme ausbezahlt.
+
+#### § 15b
+
+**Langzeitbezug (§ 6<sup>ter</sup> [SHG](https://bl.clex.ch/data/850/de/art6ter))**
+
+<sup>1</sup> Die Höhe der Minderung nach § 6<sup>ter</sup> Abs. 1 SHG beträgt CHF 40.– pro Person pro Monat.
+
+<sup>2</sup> Nach Wegfallen des Ausnahmegrunds wird keine neue 2-Jahres-Frist ausgelöst bei:
+
+- a. Müttern mit Kindern unter 12 Monaten;
+- b. erwerbstätigen Personen;
+- c. Personen in Ausbildung;
+- d. Personen, die ein Förderungsprogramm, einen Sprachförderungskurs, einen Grundkompetenzkurs oder ein Beschäftigungsprogramm besuchen;
+- e. Personen mit einer zu mindestens 70 % ärztlich attestierten Arbeitsunfähigkeit;
+- f. andere Personen in begründeten Ausnahmefällen.
+
+<sup>3</sup> Bei Kindern wird die Frist im Sinne einer Bezugsdauer von 2 Jahren mit dem Erreichen des 18. Lebensjahrs ausgelöst.
+
 #### § 16
 
-**Freie Einkünfte und freie Vermögensbeträge (§ 7 Abs. 3 [SHG](https://bl.clex.ch/data/850/de/art7))**
+**Freie Vermögensbeträge (§ 7 Abs. 3 [SHG](https://bl.clex.ch/data/850/de/art7))**
 
-<sup>1</sup> Als freie Einkünfte gelten:
-
-- a. ein die Selbständigkeit und Selbsthilfe erhaltender und fördernder Anteil am Erwerbseinkommen, jedoch pro Monat mindestens CHF 100.– und höchstens CHF 400.– pro Person oder CHF 700.– pro Haushalt;
-- b. zusätzlich CHF 3'000.– pro Jahr bei Erwerbseinkommen, das Personen ohne eigenen Haushalt bis zum 20. Altersjahr neben der Ausbildung verdienen;
-- c. ein angemessenes Mass von Genugtuungssummen und Integritätsentschädigungen;
-- d. Gefälligkeitszuwendungen bei der Teilnahme an einem Förderungsprogramm oder bei der Ausübung einer Beschäftigung.
+<sup>1</sup> …
 
 <sup>2</sup> Die freien Vermögensbeträge betragen für:
 
-- a. 1 unterstützte Person: CHF 2'200.–;
-- b. 2 unterstützte Personen: CHF 3'400.–;
-- c. 3 unterstützte Personen: CHF 4'200.–;
-- d. 4 unterstützte Personen: CHF 4'700.–;
-- e. 5 und mehr unterstützte Personen: CHF 5'300.–.
+- a. 1 unterstützte Person — CHF 2'200.–;
+- b. 2 unterstützte Personen — CHF 3'400.–;
+- c. 3 unterstützte Personen — CHF 4'200.–;
+- d. 4 unterstützte Personen — CHF 4'700.–;
+- e. 5 und mehr unterstützte Personen — CHF 5'300.–.
+
+<sup>2<sup>bis</sup></sup> Die freien Vermögensbeträge für Personen ab 55 Jahren betragen für:
+
+- a. eine Einzelperson — CHF 25'000.–;
+- b. ein Ehepaar oder eine eingetragene Partnerschaft — CHF 50'000.–.
 
 <sup>3</sup> …
 
 <sup>4</sup> Der Vermögensfreibetrag wird nur einmal pro Unterstützungsperiode, in der Regel bei Unterstützungsbeginn, gewährt.
+
+<sup>5</sup> Als freie Vermögensbeträge gelten unabhängig von Abs. 2–4 ein angemessenes Mass von Genugtuungssummen und Integritätsentschädigungen.
 
 #### § 17
 
