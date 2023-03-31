@@ -4,11 +4,11 @@ title: "Ordonnance du 25 mai 2011 relative à l'addiction aux stupéfiants et au
 short: OAStup
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/364"
 language: fr
-version: 2022-01-01
+version: 2023-04-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/364/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-364-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/364/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2011-364-20230401-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20220101/fr"
 
 (Ordonnance relative à l’addiction aux stupéfiants, OAStup)
 
-du 25 mai 2011 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 mai 2011 (État le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
-vu les art. 3*b*, al. 2, 3*d*, al. 5, 3*e*, al. 2 et 3, 3*f*, al. 3, 29, al. 4, 29*c*, al. 1 et 2, et 30, al. 1 et 2, de la loi du 3 octobre 1951 sur les stupéfiants (LStup)[^ingress-1],
+vu les art. 3*e*, al. 2 et 3, 18*d*, al. 3, 29*c*, al. 1 et 2, et 30, al. 1 et 2, de la loi du 3 octobre 1951 sur les stupéfiants (LStup)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -40,9 +41,9 @@ La présente ordonnance régit:
 - c. les mesures visant à réduire les risques chez les personnes présentant des troubles liés à l’addiction et à leur apporter une aide à la survie;
 - d. les autorisations exceptionnelles visées à l’art. 8, al. 5, 6 et 8, LStup et les contrôles y afférents;
 - e. la promotion de la recherche, la formation, le perfectionnement, la formation continue et l’assurance qualité dans le domaine des addictions;
-- f.[^1-1] la commission d’experts.
+- f.[^1-1] …
 
-[^1-1]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^1-1]: Abrogée par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 2
 
@@ -51,16 +52,18 @@ La présente ordonnance régit:
 Au sens de la présente ordonnance, on entend par:
 
 - a. *dépendance ou addiction:* ensemble de phénomènes physiologiques, cognitifs et comportementaux qui peuvent se développer après la consommation répétée de substances psychoactives;
-- b. *traitement avec prescription de stupéfiants ou de produits de subst**i**tution:* remplacement, sur prescription médicale, d’un stupéfiant consommé sans autorisation par une préparation remise dans le cadre d’un traitement médical et psychosocial;
-- c. *diacétylmorphine:* dérivé pharmaceutique de la morphine fabriqué légalement en pharmacie pour le traitement médical des personnes dépendantes à un opiacé;
+- b. *traitement avec prescription de stupéfiants ou de produits de substitution:* remplacement, sur prescription médicale, d’un stupéfiant consommé sans autorisation par une préparation remise dans le cadre d’un traitement médical et psychosocial;
+- c.[^2-1] *diacétylmorphine*: dérivé pharmaceutique de la morphine fabriqué légalement pour le traitement médical des personnes dépendantes à un opiacé;
 - d. *traitement avec prescription de diacétylmorphine:* thérapie destinée aux personnes gravement dépendantes à l’héroïne, recourant à la diacétylmorphine dans le cadre d’un traitement médical et psychosocial;
 - e. *bonnes pratiques de laboratoire:* système d’assurance qualité comprenant l’organisation du déroulement des études, les conditions générales dans lesquelles ces études sont planifiées, réalisées et contrôlées, l’enregistrement et la diffusion de ces études ainsi que l’archivage de leurs enregistrements;
 - f. *substance psychoactive:* substance qui agit sur le psychisme de l’être humain;
-- g. *personne gravement dépendante à l’héroïne:* personne remplissant les critères de ce diagnostic selon la Classification internationale des maladies de l’Organisation mondiale de la santé (OMS), *International Statistical Class**i**fication of Diseases and Related Health Problems*, ICD-10 F11.2, version 2007, publiée en janvier 2008[^2-1];
-- h. *santé:* état de bien-être physique, psychique et social complet selon la définition de l’OMS[^2-2].
+- g.[^2-2] *personne gravement dépendante à l’héroïne:* personne remplissant les critères de ce diagnostic selon la Classification internationale des maladies de l’Organisation mondiale de la santé (OMS), *Classification Internationale des Maladies*, CIM-11, version 01/2023, publiée en janvier 2023[^2-3];
+- h. *santé:* état de bien-être physique, psychique et social complet selon la définition de l’OMS[^2-4].
 
-[^2-1]: Le texte de cette classification peut être obtenu gratuitement auprès de l’Office fédéral de la santé publique, division Programmes nationaux de prévention, 3003 Berne, et consulté sur Internet à l’adresse http://apps.who.int/classifications/apps/icd/icd10online/.
-[^2-2]: La définition de l’OMS peut être obtenue gratuitement auprès de l’Office fédéral de la santé publique, division Programmes nationaux de prévention, 3003 Berne, et consultée sur Internet à l’adresse http://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf.
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^2-3]: Le texte de cette classification peut être obtenu gratuitement auprès de l’Office fédéral de la santé publique, division Programmes nationaux de prévention, 3003 Berne, et consulté sur Internet à l’adresse suivante: [https://icd.who.int/browse11/l-m/fr](https://icd.who.int/browse11/l-m/fr)
+[^2-4]: La définition de l’OMS peut être obtenue gratuitement auprès de l’Office fédéral de la santé publique, division Programmes nationaux de prévention, 3003 Berne, et consultée sur Internet à l’adresse [http://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf](http://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf).
 
 ## Chapitre 2 Prévention
 
@@ -197,32 +200,33 @@ Le médecin responsable pose l’indication. Il doit au préalable procéder à 
 
 #### Art. 13
 
-**Administration, remise et prise de diacétylmorphine**
+**Administration, remise et prise de diacétylmorphine**[^13-1]
 
-<sup>1</sup> En principe, l’administration et la prise de diacétylmorphine dans le cadre de la thérapie doivent avoir lieu à l’intérieur de l’institution visée à l’art. 16, sous contrôle visuel d’un membre de l’équipe chargée du traitement.
+<sup>1</sup> En principe, l’administration et la prise de diacétylmorphine dans le cadre de la thérapie doivent avoir lieu à l’intérieur d’une institution titulaire d’une autorisation visée à l’art. 16, al. 1, sous contrôle visuel d’un membre de l’équipe chargée du traitement.
 
-<sup>2</sup> Le médecin responsable ou une personne mandatée par ses soins peut aussi administrer la diacétylmorphine à domicile, sous contrôle visuel.[^13-1]
+<sup>2</sup> Le médecin responsable ou une personne mandatée par ses soins peut aussi administrer la diacétylmorphine à domicile ou dans une institution externe appropriée selon l’art. 14*a* ou la remettre dans un de ces lieux en doses quotidiennes étiquetées au nom du patient.
 
 <sup>3</sup>
 
-Un patient considéré comme particulièrement vulnérable en raison de l’épidémie de COVID-19 peut se voir remettre jusqu’à quatre doses quotidiennes dans l’institution, ou celles-ci peuvent lui être administrées à domicile par le médecin responsable ou une personne mandatée par ses soins, si les conditions suivantes sont remplies:
+Un patient peut se voir remettre jusqu’à sept doses quotidiennes par le médecin responsable ou une personne mandatée par ses soins, si les conditions suivantes sont remplies:
 
 - a. le patient a suivi un traitement avec prescription de diacétylmorphine pendant au moins six mois sans interruption;
 - b. le patient présente un état sanitaire et social suffisamment stabilisé;
-- c. les deux dernières analyses d’urine n’ont pas mis en évidence de stupéfiants hormis la diacétylmorphine;
-- d. on estime que le risque d’abus est très faible.[^13-2]
+- c. on estime que le risque d’abus est très faible.
 
-<sup>4</sup> Chez les patients présentant des facteurs de risque accrus comme des comorbidités, le médecin traitant peut augmenter à sept le nombre de doses quotidiennes remises ou administrées visées à l’al. 3 et réduire le délai fixé à l’al. 3, let. a.[^13-3]
+<sup>4</sup> Sur demande motivée du médecin responsable, l’OFSP peut réduire le délai fixé à l’al. 3, let. a, lorsqu’il est difficile pour le patient de se rendre régulièrement dans l’institution titulaire d’une autorisation visée à l’art. 16, al. 1, notamment en cas de comorbidité ou d’activité professionnelle.
 
-<sup>5</sup> En cas de remise ou d’administration visée aux al. 3 et 4, le médecin responsable ou la personne mandatée par ses soins contacte au moins deux fois par semaine le patient pour contrôler si celui-ci prend les doses quotidiennes conformément à la prescription. En cas de doute, il renonce aux possibilités visées aux al. 2 à 4.[^13-4]
+<sup>5</sup>
 
-<sup>6</sup> Les institutions chargées des traitements avec prescription de diacétylmorphine présentent chaque trimestre à l’OFSP un rapport sur les remises et les administrations visées aux al. 3 et 4, la première fois le 15 janvier 2021.[^13-5]
+Exceptionnellement, sur demande motivée du médecin responsable, l’OFSP peut autoriser un patient à se voir remettre jusqu’à un mois de doses quotidiennes:
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O du 25 sept. 2020, en vigueur du 28 sept. 2020 au 31 mars 2023 ([RO 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
-[^13-2]: Nouvelle teneur selon le ch. I de l’O du 25 sept. 2020, en vigueur du 28 sept. 2020 au 31 mars 2023 ([RO 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
-[^13-3]: Nouvelle teneur selon le ch. I de l’O du 25 sept. 2020, en vigueur du 28 sept. 2020 au 31 mars 2023 ([RO 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
-[^13-4]: Introduit par le ch. I de l’O du 25 sept. 2020, en vigueur du 28 sept. 2020 au 31 mars 2023 ([RO 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
-[^13-5]: Introduit par le ch. I de l’O du 25 sept. 2020, en vigueur du 28 sept. 2020 au 31 mars 2023 ([RO 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
+- a. si les conditions visées à l’al. 3, let. a et c, sont remplies;
+- b. si l’état du patient est particulièrement bien stabilisé, et
+- c. s’il doit se déplacer pendant une certaine période pour des raisons personnelles ou professionnelles.
+
+<sup>6</sup> En cas de remise visée aux al. 3 à 5, le médecin responsable ou une personne mandatée par ses soins contacte au moins deux fois par semaine le patient pour contrôler si celui-ci prend les doses quotidiennes conformément à la prescription. En cas de doute, il renonce aux possibilités visées aux al. 3 à 5.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 14
 
@@ -230,15 +234,48 @@ Un patient considéré comme particulièrement vulnérable en raison de l’épi
 
 <sup>1</sup>
 
-Sont habilitées à dispenser un traitement avec prescription de diacétylmorphine les institutions:
+Sont des institutions de traitement avec prescription de diacétylmorphine (institutions de traitement) les institutions habilitées à administrer et remettre ce stupéfiant, qui:
 
-- a. qui assurent un traitement et une prise en charge interdisciplinaires;
-- b. qui concentrent les compétences médicales et autres qui sont requises;
-- c. qui disposent d’un effectif suffisant de personnel soignant et de personnel de prise en charge;
-- d. dont les locaux possèdent une infrastructure appropriée; et
-- e. qui peuvent assurer la sécurité et la qualité des opérations liées à la diacétylmorphine.
+- a. sont titulaires d’une autorisation visée à l’art. 16, al. 1;
+- b. assurent un traitement et une prise en charge interdisciplinaires;
+- c. concentrent les compétences médicales et autres qui sont requises;
+- d. disposent d’un effectif suffisant de personnel soignant et de personnel de prise en charge;
+- e. disposent de locaux à l’infrastructure appropriée, et
+- f. peuvent assurer la sécurité et la qualité des opérations liées à la diacétylmorphine.[^14-1]
 
 <sup>2</sup> Les autorités responsables des institutions de traitement avec prescription de diacétylmorphine peuvent être des cantons, des communes ou des organisations privées.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+
+#### Art. 14a
+
+**Institution externe appropriée**[^14a-1]
+
+<sup>1</sup>
+
+L’institution de traitement peut déléguer l’administration et la remise de diacétylmorphine à une institution externe appropriée si cette dernière:
+
+- a. reçu des informations et des instructions adéquates de la part de l’institution de traitement;
+- b. dispose d’un personnel qui a été suffisamment formé, et
+- c. dispose des locaux et des infrastructures appropriées.
+
+<sup>2</sup> Pour chaque patient, l’institution de traitement fait une annonce à l’OFSP et aux autorités cantonales compétentes dans les plus brefs délais en cas d’administration ou de remise de diacétylmorphine en doses quotidiennes étiquetées au nom du patient dans une institution externe appropriée mandatée.
+
+<sup>3</sup>
+
+L’OFSP prévoit des charges et conditions adaptées dans l’autorisation délivrée à l’institution de traitement, notamment:
+
+- a. si les conditions visées à l’al. 1 ne sont pas entièrement remplies;
+- b. si le bon suivi thérapeutique du patient n’est pas assuré.
+
+<sup>4</sup>
+
+L’OFSP refuse la délégation, notamment:
+
+- a. si les conditions visées à l’al. 1 ne sont pas remplies;
+- b. si le bon suivi thérapeutique du patient ne peut pas être assuré.
+
+[^14a-1]: Introduit par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 15
 
@@ -246,7 +283,7 @@ Sont habilitées à dispenser un traitement avec prescription de diacétylmorphi
 
 <sup>1</sup>
 
-Le personnel soignant d’une institution dispensant des traitements avec prescription de diacétylmorphine doit être composé au moins:
+Le personnel soignant d’une institution de traitement doit être composé au moins:[^15-1]
 
 - a. d’un médecin habilité à prescrire de la diacétylmorphine et responsable de la direction médicale;
 - b. d’une personne qualifiée responsable de la prise en charge psychosociale; et
@@ -256,24 +293,31 @@ Le personnel soignant d’une institution dispensant des traitements avec prescr
 
 <sup>3</sup> Une personne qualifiée peut assumer la responsabilité de deux secteurs de prise en charge si elle possède la formation nécessaire et si elle dispose des capacités de prise en charge suffisantes.
 
-<sup>4</sup> Dans des cas exceptionnels justifiés, lorsque la coordination de la prise en charge interdisciplinaire le permet, certains secteurs du traitement et de la prise en charge peuvent être délégués à des personnes ou institutions extérieures qualifiées. La prescription de diacétylmorphine ne peut pas être déléguée.
+<sup>4</sup> …[^15-2]
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^15-2]: Abrogé par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 16
 
 **Autorisation délivrée à l’institution**
 
-<sup>1</sup> Toute institution souhaitant dispenser des traitements avec prescription de diacétylmorphine doit obtenir une autorisation de l’OFSP.
+<sup>1</sup> Toute institution de traitement doit être titulaire d’une autorisation de l’OFSP.[^16-1]
 
 <sup>2</sup>
 
 L’OFSP délivre l’autorisation:
 
 - a. si l’institution a obtenu l’autorisation cantonale visée à l’art. 3*e*, al. 1, LStup;
-- b. si les conditions pour dispenser un traitement avec prescription de diacétylmorphine et les exigences imposées au personnel soignant et à l’institution qui figurent dans la présente ordonnance sont remplies.
+- b. si les conditions pour prescrire un traitement avec diacétylmorphine et les exigences imposées au personnel soignant et à l’institution qui figurent dans la présente ordonnance sont remplies.[^16-2]
 
-<sup>3</sup> Exceptionnellement, une autorisation peut être délivrée à une institution non spécialisée si c’est le seul moyen de permettre au patient de poursuivre le traitement avec prescription de diacétylmorphine. L’autorisation délivrée est valable uniquement pour la durée du séjour du patient.
+<sup>3</sup> …[^16-3]
 
 <sup>4</sup> L’autorisation est valable cinq ans au plus. Elle peut être renouvelée sur demande.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^16-3]: Abrogé par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 17
 
@@ -287,9 +331,11 @@ L’OFSP délivre l’autorisation:
 
 **Autorisation délivrée au médecin**
 
-<sup>1</sup> L’OFSP octroie à tout médecin habilité à prescrire des stupéfiants l’autorisation de se procurer, d’utiliser et de remettre de la diacétylmorphine dans le cadre d’un traitement avec prescription de diacétylmorphine (autorisation délivrée au médecin) s’il justifie d’une expérience dans le traitement de personnes gravement dépendantes à l’héroïne.
+<sup>1</sup> L’OFSP octroie à tout médecin habilité à prescrire des stupéfiants destinés au traitement des personnes dépendantes l’autorisation de se procurer, d’administrer et de remettre de la diacétylmorphine dans le cadre d’un traitement avec prescription de ce stupéfiant (autorisation délivrée au médecin) s’il justifie d’une expérience suffisante dans le domaine des addictions.[^18-1]
 
 <sup>2</sup> L’autorisation est valable cinq ans au plus. Elle peut être renouvelée sur demande.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 19
 
@@ -318,11 +364,17 @@ L’OFSP octroie à tout patient l’autorisation de suivre un traitement avec p
 - a. s’il remplit les critères d’admission fixés à l’art. 10;
 - b. si la direction médicale a présenté la demande d’admission à un traitement avec prescription de diacétylmorphine et d’octroi d’une autorisation au patient au sens de l’al. 2;
 - c. si l’autorité cantonale compétente au sens de l’art. 3*e*, al. 1, LStup ne s’y oppose pas, et
-- d. si le traitement avec prescription de diacétylmorphine est dispensé dans une institution titulaire d’une autorisation visée à l’art. 16.
+- d.[^21-1] si le traitement avec prescription de diacétylmorphine est prescrit dans une institution titulaire d’une autorisation visée à l’art. 16, al. 1.
 
 <sup>2</sup> La demande d’octroi au patient de l’autorisation de suivre un traitement avec prescription de diacétylmorphine doit contenir les indications énumérées à l’art. 9.
 
-<sup>3</sup> L’autorisation est valable deux ans au plus. Elle peut être renouvelée sur demande, pour autant que les conditions de son octroi soient remplies.
+<sup>3</sup> En cas d’autorisation d’une remise selon l’art. 13, al. 5, ou d’annonce de délégation à une institution externe appropriée selon l’art. 14*a*, al. 2, l’OFSP peut adapter l’autorisation délivrée au patient et prévoir des charges et conditions adaptées.[^21-2]
+
+<sup>4</sup> L’autorisation est valable cinq ans au plus. Elle peut être renouvelée sur demande, pour autant que les conditions de son octroi soient remplies.[^21-3]
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^21-3]: Introduit par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 22
 
@@ -347,9 +399,11 @@ L’OFSP peut retirer au patient l’autorisation de suivre un traitement avec p
 
 #### Art. 24
 
-**Information**
+**Information**[^24-1]
 
-L’OFSP publie annuellement un rapport sur la mise en œuvre, le déroulement et l’évolution du traitement avec prescription de diacétylmorphine.
+L’OFSP publie tous les deux ans un rapport sur la mise en œuvre, le déroulement et l’évolution du traitement avec prescription de diacétylmorphine.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 25
 
@@ -413,7 +467,7 @@ Les indications suivantes doivent obligatoirement être fournies:
 - c.[^28-1] pour l’autorisation visée à l’al.1, let. c, la preuve du respect des règles des bonnes pratiques de fabrication énoncées à l’annexe 1 de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments[^28-2] et des dispositions applicables aux essais cliniques figurant dans la loi du 15 décembre 2000 sur les produits thérapeutiques[^28-3] et dans l’ordonnance du 20 septembre 2013 sur les essais cliniques[^28-4];
 - d. pour l’autorisation visée à l’al. 1, let. d et e, une déclaration écrite du patient par laquelle celui-ci consent à l’application.
 
-[^28-1]: Nouvelle teneur selon le ch. II 2 de l’annexe 8 à l’O du 14 nov. 2018 sur les autorisations dans le domaine des médicaments, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+[^28-1]: Nouvelle teneur selon l’annexe 8 ch. II 2 de l’O du 14 nov. 2018 sur les autorisations dans le domaine des médicaments, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
 [^28-2]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
 [^28-3]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^28-4]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
@@ -456,42 +510,25 @@ L’OFSP élabore notamment avec les autorités et les organisations spécialis�
 
 <sup>2</sup> Les services fédéraux et les services cantonaux fournissent sur demande à l’observatoire national les informations et les données statistiques dont il a besoin.
 
-## Chapitre 7 Commission d’experts, émoluments et protection des données****
+## Chapitre 7 Émoluments et protection des données
 
 [^chap7-1]
 
-[^chap7-1]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^chap7-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
-### Section 1 Commission d’experts****
-
-[^chap7-sec1-1]
-
-[^chap7-sec1-1]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+### Section 1 …
 
 #### Art. 34
 
-**Tâches**
+[^34-1]
 
-<sup>1</sup>
-
-La commission d’experts a les tâches et compétences suivantes:[^34-1]
-
-- a. elle conseille le Conseil fédéral et l’administration fédérale sur les questions de fond concernant la politique en matière d’addiction et la problématique de l’addiction;
-- b. elle observe et analyse les évolutions nationales et internationales dans le domaine des addictions;
-- c. elle élabore des plans et des idées d’avenir pour une politique suisse en matière d’addiction;
-- d. elle présente régulièrement des rapports d’activité.
-
-<sup>2</sup> Elle est indépendante dans l’accomplissement de ses tâches.
-
-<sup>3</sup> Elle peut se renseigner auprès des services fédéraux concernés sur les informations existantes.
-
-[^34-1]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^34-1]: Abrogé par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 35 à 37
 
 [^3537-1]
 
-[^3537-1]: Abrogés par le ch. 4 de l’annexe à l’O du 14 déc. 2018, avec effet au 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^3537-1]: Abrogés par l’annexe ch. 4 de l’O du 14 déc. 2018, avec effet au 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 
 ### Section 2 Émoluments
 
@@ -540,13 +577,15 @@ Sont exonérées des émoluments:
 
 **Traitement des données personnelles**
 
-Les collaborateurs de l’OFSP, des autorités cantonales et des institutions qui sont compétents pour contrôler le respect des conditions et le déroulement du traitement des personnes dépendantes à des stupéfiants dans le cadre de l’art. 3*f* LStup traitent les données personnelles suivantes:
+Les collaborateurs de l’OFSP, des autorités cantonales et des institutions qui sont compétents pour contrôler le respect des conditions et le déroulement du traitement des personnes dépendantes à des stupéfiants dans le cadre de l’art. 18*e*, LStup traitent les données personnelles suivantes:[^41-1]
 
 - a. le nom et le prénom;
 - b. l’adresse et le numéro de téléphone;
 - c. le sexe et la date de naissance;
 - d. le pays de domicile et la nationalité, le canton de domicile et le lieu de domicile;
 - e. les données sur la santé.
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 42
 
@@ -589,7 +628,7 @@ Les ordonnances suivantes sont abrogées:
 - 1\. l’ordonnance du 8 mars 1999 sur la prescription médicale d’héroïne[^46-1];
 - 2\. l’ordonnance du 23 octobre 1978 fixant les émoluments que perçoit le Laboratoire des stupéfiants du Service fédéral de l’hygiène publique[^46-2].
 
-[^46-1]: [[RO 1999 1313](https://fedlex.data.admin.ch/eli/oc/1999/180), [2009 2641](https://fedlex.data.admin.ch/eli/oc/2009/353)]
+[^46-1]: [[RO 1999 1313](https://fedlex.data.admin.ch/eli/oc/1999/180); [2009 2641](https://fedlex.data.admin.ch/eli/oc/2009/353)]
 [^46-2]: [[RO 1978 1622](https://fedlex.data.admin.ch/eli/oc/1978/1622_1622_1622)]
 
 #### Art. 47

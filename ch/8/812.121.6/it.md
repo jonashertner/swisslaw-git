@@ -4,11 +4,11 @@ title: "Ordinanza del 25 maggio 2011 sulla dipendenza da stupefacenti e sulle al
 short: ODStup
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/364"
 language: it
-version: 2022-01-01
+version: 2023-04-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/364/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-364-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/364/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2011-364-20230401-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20220101/it"
 
 (Ordinanza sulla dipendenza da stupefacenti, ODStup)
 
-del 25 maggio 2011 (Stato 1° gennaio 2022)
+del 25 maggio 2011 (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 3*b* capoverso 2, 3*d* capoverso 5, 3*e* capoversi 2 e 3, 3*f* capoverso 3, 29 capoverso 4, 29*c* capoversi 1 e 2 e 30 capoversi 1 e 2 della legge del 3 ottobre 1951[^ingress-1] sugli stupefacenti (LStup),
+visti gli articoli 3*e* capoversi 2 e 3, 18*d* capoverso 3, 29*c* capoversi 1 e 2 e 30 capoversi 1 e 2 della legge del 3 ottobre 1951[^ingress-1] sugli stupefacenti (LStup),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -40,9 +41,9 @@ La presente ordinanza disciplina:
 - c. le misure di riduzione dei danni e di aiuto alla sopravvivenza per le persone affette da turbe legate alla dipendenza;
 - d. le autorizzazioni eccezionali previste nell’articolo 8 capoversi 5, 6 e 8 LStup e i relativi controlli;
 - e. la promozione della ricerca, la formazione, il perfezionamento e la formazione continua, nonché la garanzia della qualità nel settore delle dipendenze;
-- f.[^1-1] la Commissione peritale.
+- f.[^1-1] ...
 
-[^1-1]: Nuovo testo giusta l’all. n. 4 dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^1-1]: Abrogata dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 2
 
@@ -52,15 +53,17 @@ Ai sensi della presente ordinanza si intende per:
 
 - a. *dipendenza:* complesso di fenomeni fisiologici, cognitivi e comportamentali che possono insorgere in seguito al ripetuto consumo di sostanze psicoattive;
 - b. *cure basate sulla prescrizione di stupefacenti o cure sostitutive:* sostituzione, su prescrizione medica, di uno stupefacente consumato senza autorizzazione con un preparato dispensato nell’ambito di una cura medica e psicosociale;
-- c. *diacetilmorfina:* derivato della morfina prodotto legalmente in ambito farmaceutico e destinato alla cura medica di persone dipendenti da oppiacei;
+- c.[^2-1] *diacetilmorfina:* derivato farmacologico della morfina prodotto legalmente e destinato alla cura medica di persone dipendenti da oppiacei;
 - d. *cura basata sulla prescrizione di diacetilmorfina*: terapia destinata alle persone gravemente dipendenti da eroina che prevede la somministrazione di diacetilmorfina nell’ambito di una cura medica e psicosociale;
 - e. *buona prassi di laboratorio:* sistema di garanzia della qualità che comprende l’organizzazione dello svolgimento degli studi, le condizioni quadro in cui essi sono programmati, eseguiti e controllati, la loro registrazione e i pertinenti rapporti nonché l’archiviazione delle registrazioni;
 - f. *sostanza psicoattiva:* una sostanza che ha un’influenza sulla psiche umana;
-- g. *persona gravemente dipendente da eroina:* una persona che soddisfa la definizione diagnostica secondo la Classificazione internazionale delle malattie dell’Organizzazione mondiale della sanità (OMS), International Statistical Classification of Diseases and Related Health Problems, ICD-10 F11.2 nella versione del 2007 pubblicata nel gennaio 2008[^2-1];
-- h. *salute:* stato di completo benessere fisiologico, mentale e sociale, conformemente alla definizione dell’OMS[^2-2].
+- g.[^2-2] *persona gravemente dipendente da eroina:* una persona che soddisfa la definizione diagnostica secondo la Classificazione internazionale delle malattie dell’Organizzazione mondiale della sanità (OMS), *International Statistical Classification of Diseases and Related Health Problems*, ICD-11 nella versione 01/2023 pubblicata nel gennaio 2023[^2-3];
+- h. *salute:* stato di completo benessere fisiologico, mentale e sociale, conformemente alla definizione dell’OMS[^2-4].
 
-[^2-1]: Il testo della classificazione è disponibile gratuitamente presso l’Ufficio federale della sanità pubblica, Divisione programmi nazionali di prevenzione, 3003 Berna e può essere consultato all’indirizzo Internet http://apps.who.int/classifications/apps/icd/icd10online/.
-[^2-2]: La definizione dell’OMS è disponibile gratuitamente presso l’Ufficio federale della sanità pubblica, Divisione programmi nazionali di prevenzione, 3003 Berna e può essere consultata all’indirizzo Internet http://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf/.
+[^2-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^2-3]: Il testo della classificazione è disponibile gratuitamente presso l’Ufficio federale della sanità pubblica, divisione Programmi nazionali di prevenzione, 3003 Berna e può essere consultato all’indirizzo Internet https://icd.who.int/browse11/l-m/en.
+[^2-4]: La definizione dell’OMS è disponibile gratuitamente presso l’Ufficio federale della sanità pubblica, Divisione programmi nazionali di prevenzione, 3003 Berna e può essere consultata all’indirizzo Internet http://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf/.
 
 ## Capitolo 2: Prevenzione
 
@@ -197,32 +200,33 @@ Il medico responsabile stabilisce l’indicazione. In precedenza deve compiere u
 
 #### Art. 13
 
-**Somministrazione, consegna e assunzione di diacetilmorfina**
+**Somministrazione, consegna e assunzione di diacetilmorfina**[^13-1]
 
-<sup>1</sup> La diacetilmorfina deve essere somministrata e assunta nell’ambito della terapia, in linea di massima all’interno di un’istituzione secondo l’articolo 16 e sotto il controllo a vista di un membro del team di cura.
+<sup>1</sup> La diacetilmorfina deve essere somministrata e assunta nell’ambito della terapia, in linea di massima all’interno di un’istituzione titolare di un’autorizzazione secondo l’articolo 16 capoverso 1 e sotto il controllo a vista di un membro del team di cura.
 
-<sup>2</sup> Il medico competente o una persona da esso incaricata può somministrare la diacetilmorfina anche a casa sotto il suo controllo a vista.[^13-1]
+<sup>2</sup> Il medico competente o una persona da esso incaricata può somministrare la diacetilmorfina anche a casa o presso un’istituzione esterna appropriata secondo l’articolo 14*a* oppure consegnarla in uno di questi luoghi in dosi giornaliere etichettate specificamente a nome del paziente.
 
 <sup>3</sup>
 
-A un paziente considerato particolarmente a rischio a causa dell’epidemia di COVID-19 possono essere consegnate nell’istituzione o dispensate a casa dal medico competente o da una persona da esso incaricata fino a quattro dosi giornaliere, se sono adempite le seguenti condizioni:
+A un paziente possono essere consegnate dal medico competente o da una persona da esso incaricata fino a sette dosi giornaliere, se sono adempite le seguenti condizioni:
 
 - a. il paziente ha seguito una cura basata sulla prescrizione di diacetilmorfina ininterrottamente per almeno sei mesi;
-- b. la salute e la situazione sociale del paziente sono sufficientemente stabiliz­zate;
-- c. gli ultimi due prelievi di urina non hanno rilevato la presenza di stupefacenti eccetto la diacetilmorfina;
-- d. il pericolo di abuso è valutato come molto esiguo.[^13-2]
+- b. la salute e la situazione sociale del paziente sono sufficientemente stabilizzate;
+- c. il pericolo di abuso è valutato come molto esiguo.
 
-<sup>4</sup> Ai pazienti che presentano fattori di rischio elevati quali la comorbilità, il medico curante può aumentare fino a sette il numero di dosi giornaliere consegnate o dispensate di cui al capoverso 3 e ridurre il periodo stabilito di cui al capoverso 3 lettera a.[^13-3]
+<sup>4</sup> Su richiesta motivata del medico competente, l’UFSP può ridurre il periodo stabilito di cui al capoverso 3 lettera a se per il paziente è difficile recarsi regolarmente presso l’istituzione titolare dell’autorizzazione secondo l’articolo 16 capoverso 1, segnatamente in caso di comorbilità o di attività professionale.
 
-<sup>5</sup> In caso di consegna o dispensazione di cui ai capoversi 3 e 4, il medico competente o la persona da esso incaricata prende contatto almeno due volte alla settimana con il paziente per verificare se quest’ultimo assume le dosi conformemente alla prescrizione. In caso di dubbio rinuncia alle possibilità di cui ai capoversi 2–4. [^13-4]
+<sup>5</sup>
 
-<sup>6</sup> Le istituzioni per le cure basate sulla prescrizione di diacetilmorfina presentano ogni trimestre all’UFSP un rapporto sulla consegna e sulla dispensazione di cui ai capoversi 3 e 4, la prima volta il 15 gennaio 2021.[^13-5]
+In casi eccezionali, su richiesta motivata del medico competente, l’UFSP può autorizzare la consegna a un paziente di dosi giornaliere fino a un mese se:
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 25 set. 2020, in vigore dal 28 set. 2020 al 31 mar. 2023 ([RU 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
-[^13-2]: Nuovo testo giusta il n. I dell’O del 25 set. 2020, in vigore dal 28 set. 2020 al 31 mar. 2023 ([RU 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
-[^13-3]: Nuovo testo giusta il n. I dell’O del 25 set. 2020, in vigore dal 28 set. 2020 al 31 mar. 2023 ([RU 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
-[^13-4]: Introdotto dal n. I dell’O del 25 set. 2020, in vigore dal 28 set. 2020 al 31 mar. 2023 ([RU 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
-[^13-5]: Introdotto dal n. I dell’O del 25 set. 2020, in vigore dal 28 set. 2020 al 31 mar. 2023 ([RU 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
+- a. sono adempite le condizioni secondo il capoverso 3 lettere a e c;
+- b. il paziente è particolarmente ben stabilizzato; e
+- c. il paziente deve partire per un determinato periodo per motivi personali o professionali.
+
+<sup>6</sup> In caso di consegna di cui ai capoversi 3–5, il medico competente o la persona da esso incaricata prende contatto almeno due volte alla settimana con il paziente per verificare se quest’ultimo assume le dosi conformemente alla prescrizione. In caso di dubbio rinuncia alle agevolazioni di cui ai capoversi 3–5.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 14
 
@@ -230,15 +234,48 @@ A un paziente considerato particolarmente a rischio a causa dell’epidemia di C
 
 <sup>1</sup>
 
-Possono dispensare cure basate sulla prescrizione di diacetilmorfina le istituzioni che:
+Le istituzioni per cure basate sulla prescrizione di diacetilmorfina (istituzioni di cura) sono istituzioni autorizzate a somministrare e consegnare la diacetilmorfina che:
 
-- a. garantiscono una cura e un’assistenza interdisciplinari;
-- b. riuniscono le competenze specifiche del personale medico e di altri specialisti;
-- c. dispongono di sufficiente personale di cura e di assistenza;
-- d. dispongono di locali dotati dell’infrastruttura appropriata; e
-- e. sono in grado di garantire la sicurezza e la qualità nell’impiego della diacetilmorfina.
+- a. dispongono di un’autorizzazione secondo l’articolo 16 capoverso 1;
+- b. garantiscono una cura e un’assistenza interdisciplinari;
+- c. riuniscono le competenze specifiche del personale medico e di altri specialisti;
+- d. dispongono di sufficiente personale di cura e di assistenza;
+- e. hanno locali dotati dell’infrastruttura appropriata; e
+- f. sono in grado di garantire la sicurezza e la qualità nell’impiego della diacetilmorfina.[^14-1]
 
 <sup>2</sup> Cantoni, Comuni o organizzazioni private possono essere responsabili delle istituzioni che dispensano cure basate sulla prescrizione di diacetilmorfina.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+
+#### Art. 14a
+
+**Istituzione esterna appropriata**[^14a-1]
+
+<sup>1</sup>
+
+L’istituzione di cura può delegare la somministrazione e la consegna di diacetilmorfina a un’istituzione esterna appropriata se quest’ultima:
+
+- a. ha ricevuto informazioni e istruzioni adeguate da parte dell’istituzione di cura;
+- b. dispone di personale sufficientemente formato; e
+- c. dispone di locali e infrastrutture appropriate.
+
+<sup>2</sup> Se un’istituzione esterna appropriata è incaricata della somministrazione o della consegna di diacetilmorfina in dosi giornaliere etichettate specificamente a nome del paziente, l’istituzione di cura presenta immediatamente un annuncio per ciascun paziente all’UFSP o alle autorità cantonali competenti.
+
+<sup>3</sup>
+
+Nell’autorizzazione rilasciata all’istituzione di cura, l’UFSP prevede oneri e condizioni adattati, segnatamente se:
+
+- a. le condizioni di cui al capoverso 1 non sono interamente adempite;
+- b. l’adeguato accompagnamento terapeutico del paziente non è garantito.
+
+<sup>4</sup>
+
+L’UFSP rifiuta la delega segnatamente se:
+
+- a. le condizioni di cui al capoverso 1 non sono adempite;
+- b. l’adeguato accompagnamento terapeutico del paziente non può essere garantito.
+
+[^14a-1]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 15
 
@@ -246,7 +283,7 @@ Possono dispensare cure basate sulla prescrizione di diacetilmorfina le istituzi
 
 <sup>1</sup>
 
-Il personale di cura di un’istituzione che dispensa cure basate sulla prescrizione di diacetilmorfina deve comprendere almeno:
+Il personale di cura di un’istituzione di cura deve comprendere almeno:[^15-1]
 
 - a. un medico autorizzato a prescrivere la diacetilmorfina e responsabile della direzione medica;
 - b. uno specialista responsabile dell’assistenza psicosociale; e
@@ -256,24 +293,31 @@ Il personale di cura di un’istituzione che dispensa cure basate sulla prescriz
 
 <sup>3</sup> Uno specialista può essere responsabile di due settori di assistenza se possiede la formazione necessaria e le sue capacità di assistenza lo consentono.
 
-<sup>4</sup> Se il coordinamento interdisciplinare dell’assistenza lo permette, in casi eccezionali motivati è possibile delegare a persone o a istituzioni esterne qualificate la responsabilità di singoli settori di cura e di assistenza. La prescrizione di diacetilmorfina non può essere delegata.
+<sup>4</sup> ...[^15-2]
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^15-2]: Abrogato dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 16
 
 **Autorizzazione dell’istituzione**
 
-<sup>1</sup> Ogni istituzione che intende dispensare cure basate sulla prescrizione di diacetilmorfina deve ottenere un’autorizzazione dell’UFSP.
+<sup>1</sup> Ogni istituzione di cura deve disporre di un’autorizzazione dell’UFSP.[^16-1]
 
 <sup>2</sup>
 
-L’UFSP rilascia l’autorizzazione se:
+L’autorizzazione è rilasciata se:
 
 - a. è stata rilasciata l’autorizzazione cantonale di cui all’articolo 3*e* capoverso 1 LStup;
-- b. sono adempite le condizioni per dispensare cure basate sulla prescrizione di diacetilmorfina, nonché i requisiti riguardanti il personale di cura e l’istituzione stabiliti dalla presente ordinanza.
+- b. sono adempite le condizioni per prescrivere una cura a base di diacetilmorfina nonché i requisiti riguardanti il personale di cura e l’istituzione stabiliti dalla presente ordinanza.[^16-2]
 
-<sup>3</sup> In casi eccezionali è possibile rilasciare un’autorizzazione a un’istituzione non specializzata se è il solo mezzo per permettere a un paziente di proseguire la cura basata sulla prescrizione di diacetilmorfina. L’autorizzazione è limitata alla durata del soggiorno del paziente nell’istituzione.
+<sup>3</sup> ...[^16-3]
 
 <sup>4</sup> L’autorizzazione è valida al massimo cinque anni. Può essere rinnovata su richiesta.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^16-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^16-3]: Abrogato dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 17
 
@@ -287,9 +331,11 @@ L’UFSP rilascia l’autorizzazione se:
 
 **Autorizzazione del medico**
 
-<sup>1</sup> L’UFSP rilascia ai medici autorizzati a prescrivere stupefacenti un’autorizzazione per l’acquisizione, l’impiego e la dispensazione di diacetilmorfina nell’ambito di una cura basata sulla prescrizione di questa sostanza (autorizzazione del medico) se dispongono di esperienza nella cura di persone gravemente dipendenti da eroina.
+<sup>1</sup> L’UFSP rilascia ai medici autorizzati a prescrivere stupefacenti destinati alla cura di persone affette da dipendenza un’autorizzazione per l’acquisizione, la somministrazione e la consegna di diacetilmorfina nell’ambito di una cura basata sulla prescrizione di questa sostanza (autorizzazione del medico) se essi dispongono di sufficiente esperienza nel settore delle dipendenze.[^18-1]
 
 <sup>2</sup> L’autorizzazione è valida al massimo cinque anni. Può essere rinnovata su richiesta.
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 19
 
@@ -318,11 +364,15 @@ L’UFSP rilascia a un paziente un’autorizzazione per seguire una cura basata 
 - a. sono adempiti i criteri di ammissione di cui all’articolo 10;
 - b. la direzione medica ha presentato la domanda di ammissione a una cura basata sulla prescrizione di diacetilmorfina e di rilascio di un’autorizzazione del paziente conformemente al capoverso 2;
 - c. l’autorità cantonale competente secondo l’articolo 3*e* capoverso 1 LStup non ha sollevato obiezioni; e
-- d. la cura basata sulla prescrizione di diacetilmorfina è eseguita in un’istituzione che dispone dell’autorizzazione secondo l’articolo 16.
+- d.[^21-1] la cura basata sulla prescrizione di diacetilmorfina è prescritta presso un’istituzione titolare di un’autorizzazione secondo l’articolo 16 capoverso 1.
 
-<sup>2</sup> La domanda di rilascio al paziente dell’autorizzazione per seguire una cura basata sulla prescrizione di diacetilmorfina deve contenere i dati menzionati nell’articolo 9.
+<sup>3</sup> In caso di autorizzazione di una consegna secondo l’articolo 13 capoverso 5 o di annuncio di delega a un’istituzione esterna appropriata secondo l’articolo 14*a* capoverso 2, l’UFSP può adeguare l’autorizzazione del paziente e prevedere oneri e condizioni adattati.[^21-2]
 
-<sup>3</sup> L’autorizzazione è valida al massimo due anni. Può essere rinnovata su richiesta se i presupposti per il rilascio sono adempiti.
+<sup>4</sup> L’autorizzazione è valida al massimo cinque anni. Può essere rinnovata su richiesta se i presupposti per il rilascio sono adempiti.[^21-3]
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^21-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^21-3]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 22
 
@@ -347,9 +397,11 @@ L’UFSP può revocare al paziente l’autorizzazione a seguire la cura basata s
 
 #### Art. 24
 
-**Informazione**
+**Informazione**[^24-1]
 
-L’UFSP pubblica ogni anno un rapporto sull’esecuzione, lo svolgimento e l’evoluzione delle cure basate sulla prescrizione di diacetilmorfina.
+L’UFSP pubblica ogni due anni un rapporto sull’esecuzione, l’andamento e l’evoluzione delle cure basate sulla prescrizione di diacetilmorfina.
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 25
 
@@ -456,36 +508,19 @@ L’UFSP elabora raccomandazioni sulla garanzia della qualità negli ambiti dell
 
 <sup>2</sup> I servizi federali e i servizi cantonali forniscono su richiesta all’Osservatorio nazionale le informazioni e i dati statistici che gli occorrono.
 
-## Capitolo 7: Commissione peritale, emolumenti e protezione dei dati****
+## Capitolo 7: Emolumenti e protezione dei dati
 
 [^chap7-1]
 
-[^chap7-1]: Nuovo testo giusta l’all. n. 4 dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^chap7-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
-### Sezione 1: Commissione peritale****
-
-[^chap7-sec1-1]
-
-[^chap7-sec1-1]: Nuovo testo giusta l’all. n. 4 dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+### Sezione 1: ...
 
 #### Art. 34
 
-**Compiti**
+[^34-1]
 
-<sup>1</sup>
-
-La Commissione peritale ha i compiti e le competenze seguenti:[^34-1]
-
-- a. funge da consulente del Consiglio federale e dell’Amministrazione federale su questioni fondamentali della politica in materia di dipendenze e della problematica della dipendenza;
-- b. osserva e analizza gli sviluppi nazionali e internazionali nell’ambito delle dipendenze;
-- c. elabora piani e idee per il futuro della politica svizzera in materia di dipendenze;
-- d. riferisce regolarmente sulle proprie attività.
-
-<sup>2</sup> Adempie i suoi compiti in maniera indipendente.
-
-<sup>3</sup> Può ottenere le informazioni disponibili presso i servizi federali interessati.
-
-[^34-1]: Nuovo testo giusta l’all. n. 4 dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^34-1]: Abrogato dal n. I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 35 a 37
 
@@ -540,13 +575,15 @@ Sono esenti da emolumenti:
 
 **Trattamento di dati personali**
 
-I collaboratori dell’UFSP, delle autorità cantonali e delle istituzioni, i quali nell’ambito dell’articolo 3*f* LStup sono competenti per verificare le condizioni e l’andamento delle cure di persone dipendenti da stupefacenti, trattano i seguenti dati personali:
+I collaboratori dell’UFSP, delle autorità cantonali e delle istituzioni, i quali nell’ambito dell’articolo 18*e* LStup sono competenti per verificare le condizioni e l’andamento delle cure di persone dipendenti da stupefacenti, trattano i seguenti dati personali:[^41-1]
 
 - a. il cognome e il nome;
 - b. l’indirizzo e il numero di telefono;
 - c. il sesso e la data di nascita;
 - d. lo Stato di domicilio e la cittadinanza, il Cantone di domicilio e il luogo di domicilio;
 - e. i dati sanitari.
+
+[^41-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore il 1° apr. 2023 ([RU 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 42
 
@@ -589,7 +626,7 @@ Le seguenti ordinanze sono abrogate:
 - 1\. ordinanza dell’8 marzo 1999[^46-1] concernente la prescrizione medica di eroina;
 - 2\. ordinanza del 23 ottobre 1978[^46-2] che fissa gli emolumenti del Laboratorio degli stupefacenti del Servizio federale dell’igiene pubblica.
 
-[^46-1]: [[RU 1999 1313](https://fedlex.data.admin.ch/eli/oc/1999/180), [2009 2641](https://fedlex.data.admin.ch/eli/oc/2009/353)]
+[^46-1]: [[RU 1999 1313](https://fedlex.data.admin.ch/eli/oc/1999/180); [2009 2641](https://fedlex.data.admin.ch/eli/oc/2009/353)]
 [^46-2]: [[RU 1978 1622](https://fedlex.data.admin.ch/eli/oc/1978/1622_1622_1622)]
 
 #### Art. 47

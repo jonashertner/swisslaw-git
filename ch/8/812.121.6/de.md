@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Mai 2011 über Betäubungsmittelsucht und andere such
 short: BetmSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/364"
 language: de
-version: 2022-01-01
+version: 2023-04-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/364/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-364-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/364/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2011-364-20230401-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/364/20220101/de"
 
 (Betäubungsmittelsuchtverordnung, BetmSV)
 
-vom 25. Mai 2011 (Stand am 1. Januar 2022)
+vom 25. Mai 2011 (Stand am 1. April 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 3*b* Absatz 2*,* 3*d* Absatz 5, 3*e* Absätze 2 und 3, 3*f* Absatz 3, 29 Absatz 4, 29*c* Absätze 1 und 2 und 30 Absätze 1 und 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^ingress-1] (BetmG),
+gestützt auf die Artikel 3*e* Absätze 2 und 3, 18*d* Absatz 3, 29*c* Absätze 1 und 2 und 30 Absätze 1 und 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^ingress-1] (BetmG),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 (AS **20****23** 138).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -40,9 +41,9 @@ Diese Verordnung regelt:
 - c. Massnahmen zur Schadenminderung und zur Überlebenshilfe für Personen mit suchtbedingten Störungen;
 - d. die Ausnahmebewilligungen nach Artikel 8 Absätze 5, 6 und 8 BetmG und die entsprechenden Kontrollen;
 - e. die Forschungsförderung, die Aus-, Weiter- und Fortbildung sowie die Qualitätssicherung im Suchtbereich;
-- f.[^1-1] die Fachkommission.
+- f.[^1-1] …
 
-[^1-1]: Fassung gemäss Anhang Ziff. 4 der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^1-1]: Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 2
 
@@ -51,16 +52,17 @@ Diese Verordnung regelt:
 In dieser Verordnung bedeuten:
 
 - a. *Abhängigkeit beziehungsweise Sucht:* Gruppe körperlicher und kognitiver Phänomene und von Verhaltensphänomen, die sich nach wiederholtem Konsum psychoaktiver Substanzen entwickeln können;
-- b. *betäubungsmittelgestützte beziehungsweise substitutionsgestützte Behan**d**lung:* ärztlich verordneter Ersatz eines unbefugt konsumierten Betäubungsmittels durch ein Präparat im Rahmen einer ärztlichen und psychosozialen Behandlung;
+- b. *betäubungsmittelgestützte beziehungsweise substitutionsgestützte Behandlung:* ärztlich verordneter Ersatz eines unbefugt konsumierten Betäubungsmittels durch ein Präparat im Rahmen einer ärztlichen und psychosozialen Behandlung;
 - c. *Diacetylmorphin:* pharmazeutisch legal hergestelltes Morphinderivat für die medizinische Behandlung opiatabhängiger Personen;
 - d. *diacetylmorphingestützte Behandlung:* Therapie für schwer heroinabhängige Personen mit Diacetylmorphin im Rahmen einer ärztlichen und psychosozialen Behandlung;
 - e. *gute Laborpraxis:* Qualitätssystem, das den organisatorischen Ablauf von Prüfungen, die Rahmenbedingungen, unter denen diese geplant, durchgeführt und überwacht werden, sowie die Aufzeichnungen dieser Prüfungen, die Berichterstattung darüber und die Archivierung der Aufzeichnungen umfasst;
 - f. *psychoaktive Substanz:* ein die Psyche des Menschen beeinflussender Stoff;
-- g. *schwer heroinabhängig:* als schwer heroinabhängig gilt, wer die Diagnosedefinition nach der Internationalen Klassifikation der Krankheiten der Weltgesundheitsorganisation (WHO), International Statistical Classification of Diseases and Related Health Problems, ICD-10 F11.2 in der Version 2007, publiziert im Januar 2008, erfüllt[^2-1];
-- h. *Gesundheit:* Zustand des vollständigen körperlichen, geistigen und sozialen Wohlergehens im Sinne der WHO[^2-2].
+- g.[^2-1] *schwer heroinabhängig:* als schwer heroinabhängig gilt, wer die Diagnosedefinition nach der Internationalen Klassifikation der Krankheiten der Weltgesundheitsorganisation (WHO), International Statistical Classification of Diseases and Related Health Problems, ICD-11 in der Version 01/2023, publiziert im Januar 2023, erfüllt[^2-2];
+- h. *Gesundheit:* Zustand des vollständigen körperlichen, geistigen und sozialen Wohlergehens im Sinne der WHO[^2-3].
 
-[^2-1]: Der Text dieser Klassifikation kann beim Bundesamt für Gesundheit, Abteilung Nationale Präventionsprogramme, 3003 Bern kostenlos bezogen und unter der Internetadresse http://apps.who.int/classifications/apps/icd/icd10online/ eingesehen werden.
-[^2-2]: Die Definition der WHO kann beim Bundesamt für Gesundheit, Abteilung Nationale Präventionsprogramme, 3003 Bern kostenlos bezogen und unter der Internetadresse http://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf/ eingesehen werden.
+[^2-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^2-2]: Der Text dieser Klassifikation kann beim Bundesamt für Gesundheit, Abteilung Nationale Präventionsprogramme, 3003 Bern kostenlos bezogen und unter der Internetadresse [https://icd.who.int/browse11/l-m/en](https://icd.who.int/browse11/l-m/en) eingesehen werden.
+[^2-3]: Die Definition der WHO kann beim Bundesamt für Gesundheit, Abteilung Nationale Präventionsprogramme, 3003 Bern kostenlos bezogen und unter der Internetadresse http://apps.who.int/gb/bd/PDF/bd47/EN/constitution-en.pdf/ eingesehen werden.
 
 ## 2. Kapitel: Prävention
 
@@ -197,32 +199,33 @@ Die verantwortliche Ärztin oder der verantwortliche Arzt stellt die Indikation.
 
 #### Art. 13
 
-**Verabreichung, Mitgabe und Einnahme von Diacetylmorphin**
+**Verabreichung, Mitgabe und Einnahme von Diacetylmorphin**[^13-1]
 
-<sup>1</sup> Das Diacetylmorphin muss im Rahmen der Therapie grundsätzlich innerhalb einer Institution nach Artikel 16 unter Sichtkontrolle eines Mitglieds des Behandlungsteams verabreicht und eingenommen werden.
+<sup>1</sup> Das Diacetylmorphin muss im Rahmen der Therapie grundsätzlich innerhalb einer Institution mit einer Bewilligung nach Artikel 16 Absatz 1 unter Sichtkontrolle eines Mitglieds des Behandlungsteams verabreicht und eingenommen werden.
 
-<sup>2</sup> Die zuständige Ärztin oder der zuständige Arzt oder eine von ihr oder ihm beauftragte Person kann das Diacetylmorphin auch zu Hause unter Sichtkontrolle verabreichen.[^13-1]
+<sup>2</sup> Die zuständige Ärztin oder der zuständige Arzt oder eine von ihr oder ihm beauftragte Person kann das Diacetylmorphin auch zu Hause oder in einer geeigneten externen Institution nach Artikel 14*a* verabreichen oder in patientenspezifischen beschrifteten Tagesdosen dorthin mitgeben.
 
 <sup>3</sup>
 
-Einer Patientin oder einem Patienten, die oder der aufgrund der Covid-19-Epidemie als besonders gefährdet gilt, können bis zu vier Tagesdosen in der Institution mitgegeben oder von der zuständigen Ärztin oder dem zuständigen Arzt oder einer von ihr oder ihm beauftragten Person bei der Patientin oder dem Patienten zu Hause abgegeben werden, wenn die folgenden Bedingungen erfüllt sind:
+Einer Patientin oder einem Patienten können von der zuständigen Ärztin oder dem zuständigen Arzt oder einer von ihr oder ihm beauftragten Person bis zu sieben Tagesdosen mitgegeben werden, wenn die folgenden Bedingungen erfüllt sind:
 
 - a. Die Patientin oder der Patient war für mindestens 6 Monate ununterbrochen in einer diacetylmorphingestützten Behandlung.
 - b. Die Patientin oder der Patient ist gesundheitlich und sozial genügend stabilisiert.
-- c. Die beiden letzten Urinproben wiesen ausser dem Diacetylmorphin keine Betäubungsmittel auf.
-- d. Die Missbrauchsgefahr wird als sehr gering eingeschätzt.[^13-2]
+- c. Die Missbrauchsgefahr wird als sehr gering eingeschätzt.
 
-<sup>4</sup> Bei Patientinnen und Patienten mit erhöhten Risikofaktoren wie Komorbidität kann die behandelnde Ärztin oder der behandelnde Arzt die Mitgabe oder Abgabe von Tagesdosen nach Absatz 3 auf bis zu sieben Tagesdosen erhöhen und die Frist nach Absatz 3 Buchstabe a herabsetzen.[^13-3]
+<sup>4</sup> Auf begründetes Gesuch der zuständigen Ärztin oder des zuständigen Arztes hin kann das BAG die Frist nach Absatz 3 Buchstabe a herabsetzen, wenn es für die Patientin oder den Patienten schwierig ist, sich regelmässig in die Institution mit einer Bewilligung nach Artikel 16 Absatz 1 zu begeben, namentlich bei Komorbidität oder Berufstätigkeit.
 
-<sup>5</sup> Bei einer Mit- oder Abgabe nach den Absätzen 3 und 4 nimmt die zuständige Ärztin oder der zuständige Arzt oder eine von ihr oder ihm beauftragte Person mindestens zweimal pro Woche mit der Patientin oder dem Patienten Kontakt auf, um zu überprüfen, ob diese oder dieser die Tagesdosen verschreibungskonform einnimmt. Im Zweifelsfall verzichtet sie oder er auf die Möglichkeiten nach den Absätzen 2–4.[^13-4]
+<sup>5</sup>
 
-<sup>6</sup> Die Institutionen für diacetylmorphingestützte Behandlungen erstatten dem BAG vierteljährlich Bericht über die Mit- und Abgabe nach den Absätzen 3 und 4, erstmals per 15. Januar 2021.[^13-5]
+Ausnahmsweise, auf begründetes Gesuch der zuständigen Ärztin oder des zuständigen Arztes hin, kann das BAG bewilligen, dass einer Patientin oder einem Patienten Tagesdosen für bis zu einen Monat mitgegeben werden, wenn:
 
-[^13-1]: Fassung gemäss Ziff. I der V vom 25. Sept. 2020, in Kraft vom 28. Sept. 2020 bis zum 31. März 2023 ([AS 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
-[^13-2]: Fassung gemäss Ziff. I der V vom 25. Sept. 2020, in Kraft vom 28. Sept. 2020 bis zum 31. März 2023 ([AS 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
-[^13-3]: Fassung gemäss Ziff. I der V vom 25. Sept. 2020, in Kraft vom 28. Sept. 2020 bis zum 31. März 2023 ([AS 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
-[^13-4]: Eingefügt durch Ziff. I der V vom 25. Sept. 2020, in Kraft vom 28. Sept. 2020 bis zum 31. März 2023 ([AS 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
-[^13-5]: Eingefügt durch Ziff. I der V vom 25. Sept. 2020, in Kraft vom 28. Sept. 2020 bis zum 31. März 2023 ([AS 2020 3829](https://fedlex.data.admin.ch/eli/oc/2020/709); [2021 808](https://fedlex.data.admin.ch/eli/oc/2021/808)).
+- a. die Bedingungen nach Absatz 3 Buchstaben a und c erfüllt sind;
+- b. die Patientin oder der Patient besonders gut stabilisiert ist; und
+- c. die Patientin oder der Patient aus persönlichen oder beruflichen Gründen für einen bestimmten Zeitraum verreisen muss.
+
+<sup>6</sup> Bei einer Mitgabe nach den Absätzen 3–5 nimmt die zuständige Ärztin oder der zuständige Arzt oder eine von ihr oder ihm beauftragte Person mindestens zweimal pro Woche mit der Patientin oder dem Patienten Kontakt auf, um zu überprüfen, ob diese oder dieser die Tagesdosen verschreibungskonform einnimmt. Im Zweifelsfall verzichtet sie oder er auf die Erleichterungen nach den Absätzen 3–5.
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 14
 
@@ -230,15 +233,48 @@ Einer Patientin oder einem Patienten, die oder der aufgrund der Covid-19-Epidemi
 
 <sup>1</sup>
 
-Zur diacetylmorphingestützten Behandlung berechtigt sind Institutionen, die:
+Institutionen für diacetylmorphingestützte Behandlungen (behandelnde Institutionen) sind zur Verabreichung und Mitgabe von Diacetylmorphin berechtigte Institutionen, die:
 
-- a. eine interdisziplinäre Behandlung und Betreuung gewährleisten;
-- b. fachliche Kompetenz von Medizinal- und anderen Fachpersonen vereinen;
-- c. über ausreichendes Behandlungs- und Betreuungspersonal verfügen;
-- d. Räumlichkeiten mit geeigneter Infrastruktur haben; und
-- e. die Sicherheit und die Qualität beim Umgang mit Diacetylmorphin gewährleisten können.
+- a. über eine Bewilligung nach Artikel 16 Absatz 1 verfügen;
+- b. eine interdisziplinäre Behandlung und Betreuung gewährleisten;
+- c. fachliche Kompetenz von Medizinal- und anderen Fachpersonen vereinen;
+- d. über ausreichendes Behandlungs- und Betreuungspersonal verfügen;
+- e. Räumlichkeiten mit geeigneter Infrastruktur haben; und
+- f. die Sicherheit und die Qualität beim Umgang mit Diacetylmorphin gewährleisten können.[^14-1]
 
 <sup>2</sup> Träger der Institutionen für diacetylmorphingestützte Behandlungen können Kantone, Gemeinden oder private Organisationen sein.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+
+#### Art. 14a
+
+**Geeignete externe Institution**[^14a-1]
+
+<sup>1</sup>
+
+Die behandelnde Institution kann die Verabreichung und Mitgabe von Diacetylmorphin an eine geeignete externe Institution delegieren, wenn diese:
+
+- a. von der behandelnden Institution angemessen informiert und angeleitet wurde;
+- b. über Personal verfügt, das ausreichend ausgebildet wurde; und
+- c. über Räumlichkeiten und geeignete Infrastrukturen verfügt.
+
+<sup>2</sup> Die behandelnde Institution erstattet dem BAG und den zuständigen kantonalen Behörden für jede Patientin und jeden Patienten unverzüglich Meldung, wenn eine geeignete externe Institution mit der Verabreichung oder der Mitgabe des Diacetylmorphins in patientenspezifischen beschrifteten Tagesdosen beauftragt wird.
+
+<sup>3</sup>
+
+Das BAG sieht in der Bewilligung, die der behandelnden Institution erteilt wird, angepasste Auflagen und Bedingungen vor, namentlich wenn:
+
+- a. die Bedingungen nach Absatz 1 nicht vollständig erfüllt sind;
+- b. die angemessene therapeutische Begleitung der Patientin oder des Patienten nicht gewährleistet ist.
+
+<sup>4</sup>
+
+Das BAG lehnt die Delegation ab, namentlich wenn:
+
+- a. die Bedingungen nach Absatz 1 nicht erfüllt sind;
+- b. die angemessene therapeutische Begleitung der Patientin oder des Patienten nicht gewährleistet werden kann.
+
+[^14a-1]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 15
 
@@ -246,7 +282,7 @@ Zur diacetylmorphingestützten Behandlung berechtigt sind Institutionen, die:
 
 <sup>1</sup>
 
-Das Behandlungspersonal einer Institution, die diacetylmorphingestützte Behandlungen durchführt, muss mindestens bestehen aus:
+Das Behandlungspersonal einer behandelnden Institution muss mindestens bestehen aus:[^15-1]
 
 - a. einer Ärztin oder einem Arzt, die oder der verschreibungsberechtigt und für die medizinische Leitung verantwortlich ist;
 - b. einer für die psychosoziale Betreuung verantwortlichen Fachperson; und
@@ -256,24 +292,31 @@ Das Behandlungspersonal einer Institution, die diacetylmorphingestützte Behandl
 
 <sup>3</sup> Eine Fachperson kann zwei Betreuungsbereiche übernehmen, sofern sie dazu ausgebildet ist und ihre Betreuungskapazität dies zulässt.
 
-<sup>4</sup> Wenn die koordinierte interdisziplinäre Betreuung es erlaubt, können in begründeten Ausnahmefällen einzelne Behandlungs- und Betreuungsbereiche an externe qualifizierte Personen oder Institutionen delegiert werden. Nicht delegiert werden kann die Verschreibung von Diacetylmorphin.
+<sup>4</sup> …[^15-2]
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^15-2]: Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 16
 
 **Institutionsbewilligung**
 
-<sup>1</sup> Jede Institution, die diacetylmorphingestützte Behandlungen durchführen will, bedarf einer Bewilligung des BAG.
+<sup>1</sup> Jede behandelnde Institution bedarf einer Bewilligung des BAG.[^16-1]
 
 <sup>2</sup>
 
-Die Bewilligung wird vom BAG erteilt, wenn:
+Die Bewilligung wird erteilt, wenn:
 
 - a. die kantonale Bewilligung nach Artikel 3*e* Absatz 1 BetmG erteilt wurde;
-- b. die Voraussetzungen zur diacetylmorphingestützten Behandlung sowie die Anforderungen an das Behandlungspersonal und die Institution im Sinne der Verordnung erfüllt sind.
+- b. die Voraussetzungen zur Verschreibung einer diacetylmorphingestützten Behandlung sowie die Anforderungen an das Behandlungspersonal und die Institution im Sinne der Verordnung erfüllt sind.[^16-2]
 
-<sup>3</sup> Ausnahmsweise kann einer nicht spezialisierten Institution eine Bewilligung erteilt werden, wenn nur auf diese Weise die diacetylmorphingestützte Behandlung einer Patientin oder eines Patienten weitergeführt werden kann. Die Bewilligung wird auf die Aufenthaltsdauer der Patientin oder des Patienten befristet.
+<sup>3</sup> …[^16-3]
 
 <sup>4</sup> Die Bewilligung ist höchstens fünf Jahre gültig. Sie kann auf Gesuch hin erneuert werden.
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^16-3]: Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 17
 
@@ -287,9 +330,11 @@ Die Bewilligung wird vom BAG erteilt, wenn:
 
 **Arztbewilligung**
 
-<sup>1</sup> Das BAG erteilt Ärztinnen und Ärzten, die zur Verschreibung von Betäubungsmitteln berechtigt sind, eine Bewilligung zum Bezug, zur Verwendung und zur Abgabe von Diacetylmorphin im Rahmen einer diacetylmorphingestützten Behandlung (Arztbewilligung), wenn sie über Erfahrung in der Behandlung von schwer heroinabhängigen Personen verfügen.
+<sup>1</sup> Das BAG erteilt Ärztinnen und Ärzten, die zur Verschreibung von Betäubungsmitteln zur Behandlung abhängiger Personen berechtigt sind, eine Bewilligung zum Bezug, zur Verabreichung und zur Mitgabe von Diacetylmorphin im Rahmen einer diacetylmorphingestützten Behandlung (Arztbewilligung), wenn sie über genügend Erfahrung im Suchtbereich verfügen.[^18-1]
 
 <sup>2</sup> Die Bewilligung ist höchstens fünf Jahre gültig. Sie kann auf Gesuch hin erneuert werden.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 19
 
@@ -318,11 +363,17 @@ Das BAG erteilt einer Patientin oder einem Patienten eine Bewilligung zur diacet
 - a. die Aufnahmekriterien gemäss Artikel 10 erfüllt sind;
 - b. die medizinische Leitung das Gesuch zur Aufnahme in die diacetylmorphingestützte Behandlung und zur Erteilung einer Patientenbewilligung nach Absatz 2 beantragt;
 - c. die nach Artikel 3*e* Absatz 1 BetmG zuständige kantonale Behörde keine Einwände vorbringt; und
-- d. die diacetylmorphingestützte Behandlung in einer Institution mit einer Bewilligung nach Artikel 16 durchgeführt wird.
+- d.[^21-1] die diacetylmorphingestützte Behandlung in einer Institution mit einer Bewilligung nach Artikel 16 Absatz 1 verschrieben wird.
 
 <sup>2</sup> Gesuche um Erteilung einer Patientenbewilligung für die diacetylmorphingestützte Behandlung müssen die Angaben nach Artikel 9 enthalten.
 
-<sup>3</sup> Die Bewilligung gilt höchstens zwei Jahre. Sie kann auf Gesuch hin erneuert werden, sofern die Bewilligungsvoraussetzungen weiterhin erfüllt sind.
+<sup>3</sup> Bei einer Bewilligung einer Mitgabe gemäss Artikel 13 Absatz 5 oder einer Meldung einer Delegation an eine geeignete externe Institution gemäss Artikel 14*a* Absatz 2 kann das BAG die Patientenbewilligung anpassen und angepasste Auflagen und Bedingungen vorsehen.[^21-2]
+
+<sup>4</sup> Die Bewilligung gilt höchstens fünf Jahre. Sie kann auf Gesuch hin erneuert werden, sofern die Bewilligungsvoraussetzungen weiterhin erfüllt sind.[^21-3]
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^21-2]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
+[^21-3]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 22
 
@@ -347,9 +398,11 @@ Das BAG kann der Patientin oder dem Patienten die Bewilligung für die diacetylm
 
 #### Art. 24
 
-**Information**
+**Information**[^24-1]
 
-Das BAG veröffentlich jährlich einen Bericht über die Durchführung und den Verlauf sowie die Entwicklung der diacetylmorphingestützten Behandlung.
+Das BAG veröffentlicht alle zwei Jahre einen Bericht über die Durchführung und den Verlauf sowie die Entwicklung der diacetylmorphingestützten Behandlung.
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 25
 
@@ -456,36 +509,19 @@ Das BAG erarbeitet namentlich mit Behörden und Fachorganisationen Empfehlungen 
 
 <sup>2</sup> Die Bundesstellen und die kantonalen Stellen liefern der nationalen Beobachtungsstelle auf Anfrage die für sie nötigen Informationen und statistischen Daten.
 
-## 7. Kapitel: Fachkommission, Gebühren und Datenschutz****
+## 7. Kapitel: Gebühren und Datenschutz
 
 [^chap7-1]
 
-[^chap7-1]: Fassung gemäss Anhang Ziff. 4 der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^chap7-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
-### 1. Abschnitt: Fachkommission****
-
-[^chap7-sec1-1]
-
-[^chap7-sec1-1]: Fassung gemäss Anhang Ziff. 4 der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+### 1. Abschnitt: …
 
 #### Art. 34
 
-**Aufgaben**
+[^34-1]
 
-<sup>1</sup>
-
-Die Fachkommission hat folgende Aufgaben und Kompetenzen:[^34-1]
-
-- a. Sie berät den Bundesrat und die Bundesverwaltung in grundsätzlichen Fragen der Suchtpolitik und der Suchtproblematik.
-- b. Sie beobachtet und analysiert die nationalen und internationalen Entwicklungen im Suchtbereich.
-- c. Sie erarbeitet Visionen und zukunftsorientierte Ideen für eine schweizerische Suchtpolitik.
-- d. Sie berichtet regelmässig über ihre Aktivitäten.
-
-<sup>2</sup> Sie ist bei der Erfüllung ihrer Aufgaben unabhängig.
-
-<sup>3</sup> Sie kann Auskünfte über vorhandene Informationen bei den entsprechenden Bundesstellen einholen.
-
-[^34-1]: Fassung gemäss Anhang Ziff. 4 der V vom 14. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^34-1]: Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 35–37
 
@@ -540,13 +576,15 @@ Keine Gebühren werden erhoben für:
 
 **Bearbeitung von Personendaten**
 
-Mitarbeiterinnen und Mitarbeiter des BAG, der kantonalen Behörden und der Institutionen, die im Rahmen von Artikel 3*f* BetmG für die Überprüfung der Voraussetzungen und des Verlaufs der Behandlung von betäubungsmittelabhängigen Personen zuständig sind, bearbeiten folgende Personendaten:
+Mitarbeiterinnen und Mitarbeiter des BAG, der kantonalen Behörden und der Institutionen, die im Rahmen von Artikel 18*e* BetmG für die Überprüfung der Voraussetzungen und des Verlaufs der Behandlung von betäubungsmittelabhängigen Personen zuständig sind, bearbeiten folgende Personendaten:[^41-1]
 
 - a. Name und Vorname;
 - b. Adresse und Telefonnummer;
 - c. Geschlecht und Geburtsdatum;
 - d. Wohnsitzland und Nationalität, Wohnkanton und Wohnort;
 - e. Gesundheitsdaten.
+
+[^41-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 138](https://fedlex.data.admin.ch/eli/oc/2023/138)).
 
 #### Art. 42
 
