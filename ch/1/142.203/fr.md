@@ -4,11 +4,11 @@ title: "Ordonnance du 22 mai 2002 sur la libre circulation des personnes entre l
 short: OLCP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/261"
 language: fr
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2002-05-22
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-261-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2002-261-20230401-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20230101/fr"
 
 (Ordonnance sur la libre circulation des personnes, OLCP)[^t-1]
 
-du 22 mai 2002 (État le 1<sup>er</sup> janvier 2023)
+du 22 mai 2002 (État le 1<sup>er</sup> avril 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. III 1 de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
@@ -105,7 +105,7 @@ arrête:
 
 **Autorisation de séjour de courte durée, de séjour et frontalière UE/AELE**
 
-### (art. 6, 7, 12, 13, 20 et 24 de l’annexe I de l’ac. sur la libre circulation des personnes et art. 6, 7, 11, 12, 19 et 23 de l’app. 1 de l’annexe K de la Conv. instituant l’AELE)
+### (art. 6, 7, 12, 13, 20 et 24 de l’annexe I de l’Ac. sur la libre circulation des personnes et art. 6, 7, 11, 12, 19 et 23 de l’app. 1 de l’annexe K de la Conv. instituant l’AELE)
 
 [^4-1]
 
@@ -165,7 +165,7 @@ Les membres de la famille d’un ressortissant de l’UE ou de l’AELE et les p
 
 **Assurance de l’autorisation**[^8-1]
 
-### (art. 1, par. 1, et 27, par. 2, de l’annexe I en relation avec l’art. 10, par. 4*d*, de l’ac. sur la libre circulation des personnes)
+### (art. 1, par. 1, et 27, par. 2, de l’annexe I en relation avec l’art. 10, par. 4*d*, de l’Ac. sur la libre circulation des personnes)
 
 Pour entrer en Suisse en vue d’y exercer une activité lucrative soumise à autorisation UE/AELE, les ressortissants de la Croatie peuvent demander une assurance de l’autorisation (art. 5 OASA[^8-2]).
 
@@ -214,7 +214,7 @@ Pour entrer en Suisse en vue d’y exercer une activité lucrative soumise à au
 
 **Imputation sur les nombres maximums**[^10-1]
 
-### (art. 10 de l’ac. sur la libre circulation des personnes)
+### (art. 10 de l’Ac. sur la libre circulation des personnes)
 
 Il n’y a pas imputation sur les nombres maximums fixés conformément à l’accord sur la libre circulation des personnes pour les ressortissants de la Croatie:
 
@@ -235,7 +235,7 @@ Le Secrétariat d’État aux migrations (SEM) répartit pour les ressortissants
 
 **Exceptions aux nombres maximums**[^12-1]
 
-### (art. 10, par. 4*d*, de l’ac. sur la libre circulation des personnes)
+### (art. 10, par. 4*d*, de l’Ac. sur la libre circulation des personnes)
 
 <sup>1</sup> Les exceptions prévues dans la LEI et dans l’OASA[^12-2] s’appliquent par analogie aux nombres maximums fixés pour les ressortissants de la Croatie.
 
@@ -511,14 +511,14 @@ Le nouveau droit s’applique aux procédures pendantes au moment de l’entrée
 
 **Réglementation transitoire**[^38-1]
 
-### (art. 10 de l’ac. sur la libre circulation des personnes et 26 à 34 de l’annexe I de l’ac. sur la libre circulation des personnes)
+### (art. 10 de l’Ac. sur la libre circulation des personnes et 26 à 34 de l’annexe I de l’Ac. sur la libre circulation des personnes)
 
-En application de l’art. 10, par. 4*d*, 1<sup>re</sup> et 2<sup>e</sup> phrases, de l’accord sur la libre circulation des personnes, les nombres annuels maximums de nouvelles autorisations délivrées aux travailleurs (salariés et indépendants) de la Croatie sont provisoirement fixés comme suit:
+En application de l’art. 10, par. 4*d*, 1<sup>re</sup> et 2<sup>e</sup> phrases, de l’accord sur la libre circulation des personnes, les nombres annuels maximums de nouvelles autorisations délivrées aux travailleurs (salariés et indépendants) de la Croatie sont fixés comme suit:
 
-- a. 1007 autorisations de séjour de courte durée UE/AELE
-- b. 1150 autorisations de séjour UE/AELE.
+- a. 1053 autorisations de séjour de courte durée UE/AELE;
+- b. 1204 autorisations de séjour UE/AELE.
 
-[^38-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
+[^38-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 123](https://fedlex.data.admin.ch/eli/oc/2023/123)).
 
 ## Section 17 Entrée en vigueur
 

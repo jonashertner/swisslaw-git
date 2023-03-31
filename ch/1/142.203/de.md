@@ -4,11 +4,11 @@ title: "Verordnung vom 22. Mai 2002 über den freien Personenverkehr zwischen de
 short: VFP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/261"
 language: de
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2002-05-22
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2002-261-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2002-261-20230401-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20230101/de"
 
 (Verordnung über den freien Personenverkehr, VFP)[^t-1]
 
-vom 22. Mai 2002 (Stand am 1. Januar 2023)
+vom 22. Mai 2002 (Stand am 1. April 2023)
 
 [^t-1]: Fassung gemäss Ziff. III 1 der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
@@ -105,9 +105,9 @@ verordnet:
 
 **Kurzaufenthaltsbewilligung EU/EFTA, Aufenthaltsbewilligung EU/EFTA und Grenzgängerbewilligung EU/EFTA**
 
-### (Art. 6, 7, 12, 13, 20 und 24 Anhang I Freizügigkeitsabkommen und
+### (Art. 6, 7, 12, 13, 20 und 24 Anhang I Freizügigkeitsabkommen und Art. 6, 7, 11, 12, 19 und 23 Anhang K Anlage 1 EFTA-Übereinkommen)
 
-Art. 6, 7, 11, 12, 19 und 23 Anhang K Anlage 1 EFTA-Übereinkommen)[^4-1]
+[^4-1]
 
 <sup>1</sup> EU- und EFTA-Angehörigen wird nach den Bestimmungen des Freizügigkeitsabkommens oder des EFTA-Übereinkommens eine Kurzaufenthaltsbewilligung EU/ EFTA, eine Aufenthaltsbewilligung EU/EFTA oder eine Grenzgängerbewilligung EU/EFTA erteilt.
 
@@ -513,12 +513,12 @@ Für Verfahren, die bei Inkrafttreten dieser Verordnung hängig sind, gilt das n
 
 ### (Art. 10 und Anhang I Art. 26–34 Freizügigkeitsabkommen)
 
-In Anwendung von Artikel 10 Absatz 4*d* erster und zweiter Satz des Freizügigkeitsabkommens werden die jährlichen Höchstzahlen der neuen Bewilligungen für Arbeitnehmerinnen und Arbeitnehmer sowie Selbstständige aus Kroatien provisorisch wie folgt festgesetzt:
+In Anwendung von Artikel 10 Absatz 4*d* erster und zweiter Satz des Freizügigkeitsabkommens werden die jährlichen Höchstzahlen der neuen Bewilligungen für Arbeitnehmerinnen und Arbeitnehmer sowie Selbstständige aus Kroatien wie folgt festgesetzt:
 
-- a. 1007 Kurzaufenthaltsbewilligungen EU/EFTA;
-- b. 1150 Aufenthaltsbewilligungen EU/EFTA.
+- a. 1053 Kurzaufenthaltsbewilligungen EU/EFTA;
+- b. 1204 Aufenthaltsbewilligungen EU/EFTA.
 
-[^38-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
+[^38-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 123](https://fedlex.data.admin.ch/eli/oc/2023/123)).
 
 ## 17. Abschnitt: Inkrafttreten
 

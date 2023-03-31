@@ -4,11 +4,11 @@ title: "Ordinanza del 22 maggio 2002 concernente la libera circolazione delle pe
 short: OLCP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/261"
 language: it
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2002-05-22
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2002-261-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2002-261-20230401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20230101/it"
 
 (Ordinanza sulla libera circolazione delle persone, OLCP)[^t-1]
 
-del 22 maggio 2002 (Stato 1° gennaio 2023)
+del 22 maggio 2002 (Stato 1° aprile 2023)
 
 [^t-1]: Nuovo testo giusta il n. III 1 dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
@@ -123,7 +123,7 @@ ordina:
 [^4-2]: Nuova espr. giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^4-3]: Nuovo testo giusta il n. I dell’O del 30 apr. 2014, in vigore dal 1° giu. 2014 ([RU 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
 [^4-4]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
-[^4-5]: Introdotto dal n. I dell’O del 2 mag. 2007 ([RU 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)). Abrogato dal n. I dell’O del 3 dic. 2021, con vigore effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^4-5]: Introdotto dal n. I dell’O del 2 mag. 2007 ([RU 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)). Abrogato dal n. I dell’O del 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 [^4-6]: Introdotto dal n. I dell’O del 18 feb. 2004 ([RU 2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)). Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 5
@@ -272,7 +272,7 @@ Le persone che forniscono un servizio transfrontaliero nel contesto di un accord
 <sup>2</sup> ...[^14-2]
 
 [^14-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2005, in vigore dal 1° apr. 2006 ([RU 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)).
-[^14-2]: Abrogato dal n. I dell’O del 3 dic. 2021, con vigore effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^14-2]: Abrogato dal n. I dell’O del 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 15
 
@@ -347,7 +347,7 @@ Se non sono adempite le condizioni per l’ammissione in vista di un soggiorno s
 
 [^21-1]
 
-[^21-1]: Abrogato dal n. I dell’O del 3 dic. 2021, con vigore effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^21-1]: Abrogato dal n. I dell’O del 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 ## Sezione 8: Diritto di rimanere in Svizzera
 
@@ -404,7 +404,7 @@ I permessi giusta la presente ordinanza sono rilasciati dalle autorità cantonal
 
 [^27-1]
 
-[^27-1]: Abrogato dal n. I dell’O del 3 dic. 2021, con vigore effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^27-1]: Abrogato dal n. I dell’O del 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 28
 
@@ -514,12 +514,12 @@ Per le procedure pendenti al momento dell’entrata in vigore della presente ord
 
 ### (art. 10 dell’Acc. sulla libera circolazione delle persone e art. 26–34 all. I dell’Acc. sulla libera circolazione delle persone)
 
-In applicazione dell’articolo 10 paragrafo 4*d* primo e secondo periodo dell’Accordo sulla libera circolazione delle persone, i contingenti annuali massimi di nuovi permessi rilasciati ai lavoratori (salariati e indipendenti) della Croazia sono fissati provvisoriamente come segue:
+In applicazione dell’articolo 10 paragrafo 4*d* primo e secondo periodo dell’Accordo sulla libera circolazione delle persone, i contingenti annuali massimi di nuovi permessi rilasciati ai lavoratori (salariati e indipendenti) della Croazia sono fissati come segue:
 
-- a. 1007 permessi di soggiorno di breve durata UE/AELS;
-- b. 1150 permessi di dimora UE/AELS.
+- a. 1053 permessi di soggiorno di breve durata UE/AELS;
+- b. 1204 permessi di dimora UE/AELS.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
+[^38-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 123](https://fedlex.data.admin.ch/eli/oc/2023/123)).
 
 ## Sezione 17: Entrata in vigore
 
