@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 3. Februar 1995 über die Armee und die Militärverwalt
 short: MG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: de
-version: 2023-01-01
+version: 2023-04-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20230401/de/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20230401-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230101/de"
 
 (Militärgesetz, MG)
 
-vom 3. Februar 1995 (Stand am 1. Januar 2023)
+vom 3. Februar 1995 (Stand am 1. April 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -2664,11 +2664,11 @@ Für die Erfüllung wichtiger Aufgaben in den zivilen Bereichen des Sicherheitsv
 
 #### Art. 146
 
-**Militärische Informationssysteme[^146-1]**
+**Militärische Informationssysteme**[^146-1]
 
-Die Bearbeitung von besonders schützenswerten Personendaten sowie von Persönlichkeitsprofilen in Informationssystemen und beim Einsatz von Überwachungsmitteln der Armee und der Militärverwaltung wird im Bundesgesetz vom 3. Oktober 2008[^146-2] über die militärischen Informationssysteme geregelt.
+Die Bearbeitung von Personendaten in Informationssystemen und beim Einsatz von Überwachungsmitteln der Armee und der Militärverwaltung wird im Bundesgesetz vom 3. Oktober 2008[^146-2] über militärische und andere Informationssysteme im VBS geregelt.
 
-[^146-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^146-1]: Fassung gemäss Ziff. II 1 des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^146-2]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 
 #### Art. 146a

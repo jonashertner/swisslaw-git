@@ -4,11 +4,11 @@ title: "Loi fédérale du 3 février 1995 sur l'armée et l'administration milit
 short: LAAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: fr
-version: 2023-01-01
+version: 2023-04-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20230401-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230101/fr"
 
 (Loi sur l’armée, LAAM)[^t-1]
 
-du 3 février 1995 (État le 1<sup>er</sup> janvier 2023)
+du 3 février 1995 (État le 1<sup>er</sup> avril 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
@@ -431,8 +431,8 @@ Peuvent déposer par écrit une demande motivée en vue d’une nouvelle appréc
 [^20-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^20-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 [^20-3]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^20-4]: Correct: Commandement de l’instruction.
-[^20-5]: Correct: Commandement de l’instruction.
+[^20-4]: Correct: Commandement de l'Instruction.
+[^20-5]: Correct: Commandement de l'Instruction.
 [^20-6]: Nouvelle teneur de la 2<sup>e</sup> et 3<sup>e</sup> phrases selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^20-7]: Anciennement 1<sup>bis</sup>. Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
@@ -533,8 +533,8 @@ Pour statuer, il peut:
 
 [^23-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^23-2]: Nouvelle expression selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
-[^23-3]: Correct: Commandement de l’instruction.
-[^23-4]: Correct: Commandement de l’instruction.
+[^23-3]: Correct: Commandement de l'Instruction.
+[^23-4]: Correct: Commandement de l'Instruction.
 
 #### Art. 24
 
@@ -608,7 +608,7 @@ Ils communiquent spontanément au commandement des Opérations[^27-5] les donné
 [^27-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^27-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^27-4]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^27-5]: Correct: Commandement de l’instruction.
+[^27-5]: Correct: Commandement de l'Instruction.
 [^27-6]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 ## Titre troisième Droits et devoirs des militaires
@@ -2665,11 +2665,11 @@ Les personnes astreintes au service militaire peuvent être dispensées du servi
 
 #### Art. 146
 
-**Systèmes d’information de l’armée[^146-1]**
+**Systèmes d’information de l’armée**[^146-1]
 
-Le traitement des données sensibles et des profils de la personnalité dans les systèmes d’information et lors de l’engagement de moyens de surveillance de l’armée et de l’administration militaire est réglé par la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée[^146-2].
+Le traitement des données personnelles dans les systèmes d’information et lors de l’engagement de moyens de surveillance de l’armée et de l’administration militaire est réglé par la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée et du DDPS[^146-2].
 
-[^146-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^146-1]: Nouvelle teneur selon le ch. II 1 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^146-2]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 
 #### Art. 146a

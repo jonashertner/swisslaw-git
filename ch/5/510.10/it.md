@@ -4,11 +4,11 @@ title: "Legge federale del 3 febbraio 1995 sull'esercito e sull'amministrazione 
 short: LM
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: it
-version: 2023-01-01
+version: 2023-04-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20230401/it/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20230401-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20230101/it"
 
 (Legge militare, LM)
 
-del 3 febbraio 1995 (Stato 1° gennaio 2023)
+del 3 febbraio 1995 (Stato 1° aprile 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -2675,11 +2675,11 @@ Per l’adempimento di compiti importanti nei settori civili della Rete integrat
 
 #### Art. 146
 
-**Sistemi d’informazione militari[^146-1]**
+**Sistemi d’informazione militari**[^146-1]
 
-Il trattamento di dati personali degni di particolare protezione e di profili della personalità in sistemi d’informazione e nell’ambito dell’impiego di mezzi di sorveglianza dell’esercito e dell’amministrazione militare è disciplinato nella legge federale del 3 ottobre 2008[^146-2] sui sistemi d’informazione militari.
+Il trattamento di dati personali nei sistemi d’informazione e nell’ambito dell’impiego di mezzi di sorveglianza dell’esercito e dell’amministrazione militare è disciplinato nella legge federale del 3 ottobre 2008[^146-2] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS.
 
-[^146-1]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^146-1]: Nuovo testo giusta il n. II 1 della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^146-2]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 
 #### Art. 146a
