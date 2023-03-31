@@ -3,104 +3,87 @@ canton: VS
 number: "814.101"
 title: "Arrêté concernant l'application de l'ordonnance fédérale sur la protection contre les accidents majeurs"
 language: fr
-version: 2014-01-01
-corrected: 2017-10-06
-version_adopted: 2013-12-18
+version: 2023-04-01
+version_adopted: 2023-03-01
 adopted: 2023-03-01
 in_force: 2023-04-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/814.101"
-pdf: "https://lex.vs.ch/api/fr/versions/222/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3185/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté concernant l'application de l'ordonnance fédérale sur la protection contre les accidents majeurs
 
-du 2 juin 1993
+du 01.03.2023 (état 01.04.2023)
 
 Le Conseil d'Etat du canton du Valais
 
-vu l'article 23, alinéa 1, de l'ordonnance fédérale du 27 février 1991 sur la protection contre les accidents majeurs (OPAM);
+vu l'article 23 alinéa 1 de l'ordonnance fédérale sur la protection contre les accidents majeurs du 27 février 1991 (OPAM);
 
-vu les articles 10 et 42 du décret du 21 juin 1990 concernant l'application de la législation fédérale sur la protection de l'environnement (DALPE);
+vu les articles 16, 17 et 57 de la loi sur la protection de l'environnement du 18 novembre 2010 (LcPE);
 
-sur la proposition des départements concernés,
+vu la loi sur la protection de la population et la gestion des situations particulières et extraordinaires du 15 février 2013 (LPPEx);
+
+sur la proposition du département en charge des affaires sociales et du département en charge de l'économie,
 
 arrête:
 
-#### Article premier
+#### Art. 1
 
-Les autorités d'exécution des dispositions fédérales sur la protection contre les accidents majeurs sont:
+<sup>1</sup> Les autorités d'exécution des dispositions fédérales sur la protection contre les accidents majeurs sont:
 
-- 1\. le Département de l'économie publique;
-
-- 2\. le Service de la protection des travailleurs et des relations du travail;
-
-- 3\. la Commission sur la protection contre les accidents majeurs (COPAM);
-
-- 4\. l'organe de conduite cantonal (OCC).<sup>2</sup>
+- a) le département en charge des affaires sociales (ci-après: le département);
+- b) le Service de protection des travailleurs et des relations du travail au sens de l'article 25 alinéa 1 lettre a de la loi cantonale sur le travail (ci-après: le service);
+- c) la Commission sur la protection contre les accidents majeurs (COPAM);
+- d) l'organe de conduite cantonal (OCC).
 
 #### Art. 2
 
-<sup>1</sup> Le Département de l'économie publique est l'autorité d'exécution prévue à l'article 8 OPAM.
+<sup>1</sup> Le département est l'autorité d'exécution prévue à l'article 8 OPAM.
 
-<sup>2</sup> Il statue sur préavis du Service de la protection des travailleurs et de la COPAM.
+<sup>2</sup> Il statue sur préavis du service et de la COPAM.
 
 #### Art. 3
 
-<sup>1</sup> Le Service de la protection des travailleurs est l'autorité d'exécution de l'article premier alinéa 3, des articles 5, 6, 9, 10, 11, 16 et 25 OPAM.
+<sup>1</sup> Le service est l'autorité d'exécution des articles 1 alinéa 3, 5, 6, 11, 11a, et 16 OPAM.
 
 <sup>2</sup> Il exécute toutes les tâches qui ne sont pas expressément confiées à un autre organe.
 
 #### Art. 4
 
-<sup>1</sup>
+<sup>1</sup> La COPAM est composée de personnes représentant les services en charge de la protection de l'environnement, de la protection des travailleurs, de la consommation et des affaires vétérinaires, de la sécurité civile et militaire, de la police cantonale, des dangers naturels, de l'organisation cantonale valaisanne des secours ainsi que d'experts externes à l'administration. Le Conseil d'Etat nomme les membres et les suppléants de la commission pour une période de 4 ans. Ils sont rééligibles.
 
-<sup>1</sup> La COPAM est composée de personnes représentant les services de la protection de l'environnement, de la protection des travailleurs, du laboratoire cantonal, du feu et de la protection civile, de la police cantonale et de l'administration militaire ainsi que de deux experts externes à l'administration et leur suppléant. Le Conseil d'Etat nomme les membres et les suppléants de la commission pour une période de quatre ans. Ils sont rééligibles.
+<sup>2</sup> Parmi les 3 représentants du service, l'un assume la présidence; ce service en assure aussi le secrétariat.
 
-<sup>2</sup> Le Service de la protection des travailleurs a deux représentants dont l'un assume la présidence; ce service en assure aussi le secrétariat.
+<sup>3</sup> La commission est chargée:
 
-<sup>3</sup> La commission est chargée - d'exécuter les tâches prévues aux articles 7 et 15 OPAM;
-
-- de veiller à ce que les tâches découlant de l'OPAM soient exécutées de manière coordonnée par les services de l'Etat;
-
-- de s'assurer que les services représentés en son sein prennent en compte les exigences de l'OPAM.
+- a) d'exécuter les tâches prévues aux articles 7 et 15 OPAM;
+- b) de veiller à ce que les tâches découlant de l'OPAM soient exécutées de manière coordonnée par les services de l'Etat;
+- c) de s'assurer que les services représentés en son sein prennent en compte les exigences de l'OPAM.
 
 #### Art. 5
 
-<sup>1</sup> L'organisme cantonal d'alerte et d'alarme exerce les tâches prévues aux articles 12 et 13 OPAM.[^5-1]
+<sup>1</sup> L'organisme cantonal d'alerte et d'alarme exerce les tâches prévues aux articles 12 et 13 OPAM.
 
-<sup>2</sup> Les organes de conduite assurent la coordination générale, l'intervention et les mesures d'urgence au sens de la loi sur la protection de la population et la gestion des situations particulières et extraordinaires du 15 février 2013.[^5-1]
+<sup>2</sup> En situations particulières et extraordinaires, les autorités cantonales et communales compétentes, par leurs organes de conduite respectifs, assurent la coordination générale, l'intervention et les mesures d'urgence au sens de la LPPEx.
 
-[^5-1]: Modification du 18 décembre 2013 BO No 9/2013, BO 01.01.14 (Ordonnance sur la protection de la population No 52/2013 et la gestion des situations particulières et extraordinaires du 18 décembre 2013, art. 53)
+<sup>3</sup> La stratégie d’engagement est décrite dans le concept cantonal d’intervention en cas d’événement chimique, biologique ou nucléaire (COPAC).
+
+<sup>4</sup> Selon l'annexe 1 au présent arrêté, la comABC-VS règle les compétences et exercices périodiques des entreprises conformément aux article 3 et 14 OPAM et à son annexe 2.2.
 
 #### Art. 6
 
-<sup>1</sup> Les mesures d'application de l'OPAM sont coordonnées si possible avec la procédure d'autorisation de construire (art. 33 ss du décret du 31 janvier 1992) d'approbation d'homologation des plans d'affectation spéciaux, d'octroi de concession ou autres procédures contenues dans l'annexe au règlement d'application de l'OEIE.
+<sup>1</sup> Les mesures d'application de l'OPAM sont coordonnées si possible avec la procédure d'autorisation de construire (selon la loi sur les constructions), d'approbation d'homologation des plans d'affectation spéciaux, d'octroi de concession ou autres procédures contenues dans l'annexe au règlement d'application de l'OEIE.
 
-<sup>2</sup> A défaut, les autorités désignées aux chiffres 1, 2 et 3 de l'article premier statuent en la forme de la décision sujette à réclamation (art. 34a à 34f LPJA).
+<sup>2</sup> A défaut, les autorités désignées à l'article 1 du présent arrêté statuent en la forme de la décision sujette à réclamation (art. 34a à 34f LPJA).
 
 <sup>3</sup> La décision sur réclamation peut faire l'objet d'un recours auprès du Conseil d'Etat.
 
-<sup>4</sup> La loi sur la procédure et la juridiction administratives est pour le surplus applicable.
+<sup>4</sup> La LPJA est pour le surplus applicable.
 
 #### Art. 7
 
-Toutes les décisions ou prestations requises par des tiers donnent lieu à paiement des frais, débours et émoluments prévus par le décret du 17 novembre 1977 ainsi qu'au remboursement des dépenses encourues pour l'exécution de tâches par l'intermédiaire de privés.
+<sup>1</sup> Toutes les décisions ou prestations requises par des tiers donnent lieu à paiement des frais, débours et émoluments prévus par la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives (LTar).
 
-#### Art. 8
-
-Le présent arrêté sera soumis à l'approbation du Département fédéral de l'intérieur[^8-1] et entrera en vigueur au moment de sa publication au Bulletin officiel.
-
-Ainsi arrêté en Conseil d'Etat, à Sion, le 2 juin 1993.
-
-Le président du Conseil d'Etat: Raymond Deferr Le chancelier d'Etat: Henri v. Roten Approuvé (art. 1 à 5) le 24 septembre 1993.
-
-**Entrée en**
-
-[^8-1]: modification du 31 août 2005: n.t: art. 4 BO No 36, 2005 9.9.2005 a.: abrogé; n.: nouveau; n.t.: nouvelle teneur
-
-### Intitulé et modifications Publication
-
-vigueur A concernant l'application de l'ordonnance RO/VS 1993, fédérale sur la protection contre les accidents majeurs du 2 juin 1993
+RCV RO/AGS 2023-026
