@@ -3,11 +3,11 @@ canton: ZH
 number: "182.41"
 title: Anstellungsordnung der Römisch-katholischen Körperschaft des Kantons Zürich
 language: de
-version: "2021-03-01"
-nachtrag: "112"
-valid_until: 2023-04-01
+version: "2023-04-01"
+nachtrag: "120"
+valid_until: 2023-08-01
 adopted: 2007-03-22
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_41-2007_03_22-2008_01_01-112.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_41-2007_03_22-2008_01_01-120.html"
 text: pdf
 ---
 
@@ -43,7 +43,7 @@ Die staatskirchenrechtlichen und innerkirchlichen Organe entscheiden und handeln
 
 **1**
 
-- 1\. 4. 21 - 112
+- 1\. 4. 23 - 120
 
 - 1\. Allgemeine Bestimmungen
 
@@ -129,7 +129,7 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 **3**
 
-- 1\. 4. 21 - 112 § 9. Übt eine Angestellte bzw. ein Angestellter mehr als eine Funktion aus, so ist für jede Funktion eine separate Anstellungsverfügung zu erlassen.
+- 1\. 4. 23 - 120 § 9. Übt eine Angestellte bzw. ein Angestellter mehr als eine Funktion aus, so ist für jede Funktion eine separate Anstellungsverfügung zu erlassen.
 
 **Mehrere Funktionen**
 
@@ -175,21 +175,23 @@ Angestellte können unter Wahrung einer angemessenen Frist an einen anderen Arbe
 
 **Beendigungsgründe**
 
-<sup>1</sup> Das Arbeitsverhältnis endet durch:
+<sup>1</sup> Das Arbeitsverhältnis endet durch:<sup>13</sup> a. Kündigung,
 
-- a. Kündigung,
+- b. fristlose Auflösung aus wichtigen Gründen gemäss § 18,
 
-- b. Ablauf einer befristeten Anstellung,
+- c. Beendigung im gegenseitigen Einvernehmen gemäss § 19,
 
-- c. Auflösung in gegenseitigem Einvernehmen,
+- d. Beendigung infolge Invalidität gemäss § 20,
 
-- d. Auflösung aus wichtigen Gründen (fristlose Kündigung),
+- e. vorzeitiger Altersrücktritt gemäss § 20 a,
 
-- e. vorzeitigen Altersrücktritt,
+- f. Erreichen der Altersgrenze gemäss § 20 b Abs. 1 und 3,
 
-- f. Beginn der Rentenberechtigung AHV/IV,
+- g. Verzicht auf Wiederwahl oder Nichtwiederwahl bei Ablauf der Amtsdauer gemäss § 20 c,
 
-- g. Tod.
+- h. Ablauf einer befristeten Anstellung gemäss § 21,
+
+- i. Tod.
 
 <sup>2</sup> Der sachlich begründete Entzug der kirchlichen Ernennung oder der Missio canonica hat, sofern diese für die Anstellung erforderlich sind und vor dem Entzug eine Anhörung durch den Bischof oder seinen Personalverantwortlichen stattfand (rechtliches Gehör), zwingend die Kündigung des Arbeitsverhältnisses zur Folge.
 
@@ -231,15 +233,11 @@ Angestellte können unter Wahrung einer angemessenen Frist an einen anderen Arbe
 
 <sup>2</sup> Eine fortgesetzte Kündigungsfrist verlängert sich bis zum nächstfolgenden Monatsende.
 
-#### § 18
-
-**Fristlose Auflösung aus wichtigen Gründen**
-
-<sup>1</sup> Das Arbeitsverhältnis kann aus wichtigen Gründen beidseitig ohne Einhaltung von Fristen jederzeit aufgelöst werden. Die Auflösung erfolgt schriftlich und mit Begründung.
-
 **5**
 
-- 1\. 4. 21 - 112
+- 1\. 4. 23 - 120 § 18. <sup>1</sup> Das Arbeitsverhältnis kann aus wichtigen Gründen beidseitig ohne Einhaltung von Fristen jederzeit aufgelöst werden. Die Auflösung erfolgt schriftlich und mit Begründung.
+
+**Fristlose Auflösung aus wichtigen Gründen**
 
 <sup>2</sup> Als wichtiger Grund gilt jeder Umstand, bei dessen Vorhandensein nach Treu und Glauben die Fortsetzung des Arbeitsverhältnisses nicht zumutbar ist.
 
@@ -253,13 +251,29 @@ Angestellte können unter Wahrung einer angemessenen Frist an einen anderen Arbe
 
 Das Arbeitsverhältnis kann mit schriftlicher Vereinbarung im gegenseitigen Einvernehmen abweichend von den Bestimmungen dieser Anstellungsordnung beendet werden.
 
-#### § 20
+**Beendigung infolge Invalidität**
 
-**Beendigung altershalber oder infolge Invalidität**
+§ 20.<sup>13</sup> Der Synodalrat regelt das Verfahren bei Beendigung des Arbeitsverhältnisses infolge Invalidität.
 
-<sup>1</sup> Das Arbeitsverhältnis endet grundsätzlich auf Ende des Monats, in welchem die Angestellten das ordentliche AHV-Alter erreichen, ohne Kündigung. Werden Angestellte ausnahmsweise weiterbeschäftigt, müssen eine neue Verfügung und ein neues Pflichtenheft erstellt werden.
+**Vorzeitiger Altersrücktritt**
 
-<sup>2</sup> Der Synodalrat regelt das Verfahren bei Auflösung des Arbeitsverhältnisses wegen Invalidität.
+§ 20 a.<sup>12</sup> <sup>1</sup> Angestellte können gemäss den Bestimmungen des Reglements der Pensionskasse einen vorzeitigen Altersrücktritt erklären. Damit verbundene vorsorgerechtliche Leistungen richten sich nach dem Reglement der Vorsorgeeinrichtung.
+
+<sup>2</sup> Der vorzeitige Altersrücktritt ist unter Einhaltung der Kündigungsfristen und der Kündigungstermine zu erklären.
+
+**Erreichen der Altersgrenze**
+
+§ 20 b.<sup>12</sup> <sup>1</sup> Das Arbeitsverhältnis endet unter Vorbehalt von Abs. 3 und § 20 c grundsätzlich am Ende des Monats, in dem die Angestellten das 65. Altersjahr vollenden, ohne Kündigung.
+
+<sup>2</sup> Werden Angestellte ausnahmsweise weiterbeschäftigt, sind eine neue, befristete Anstellungsverfügung und ein neues Pflichtenheft zu erstellen.
+
+<sup>3</sup> Das Arbeitsverhältnis eines Priesters endet am Ende des Monats, in dem er das 70. Altersjahr vollendet, ohne Kündigung. Wird er weiterbeschäftigt, müssen eine neue, befristete Anstellungsverfügung und ein neues Pflichtenheft erstellt werden.
+
+**Verzicht auf Wiederwahl oder Nichtwiederwahl bei Ablauf der Amtsdauer**
+
+§ 20 c.<sup>12</sup> <sup>1</sup> Das Arbeitsverhältnis der auf Amtsdauer gewählten Pfarrer und Pfarreibeauftragten endet mit dem Tag des Ablaufs der Amtsdauer (30. Juni) ohne Kündigung.
+
+<sup>2</sup> Werden sie für eine weitere Amtsdauer gewählt, ist eine neue Anstellungsverfügung zu erstellen.
 
 #### § 21
 
@@ -315,13 +329,13 @@ Der Jahreslohn wird nachschüssig in 13 gleichen Teilen ausbezahlt, 12 davon mon
 
 - 3\. Dem Minimum der Besoldungsklassen sind zwei Anlaufstufen von je 1,75% des Minimums vorangestellt.
 
-#### § 27
+**7**
 
-**Umschreibung der Richtpositionen und Einreihungsplan**
-
-Der Synodalrat umschreibt, soweit erforderlich, die Richtpositionen und die Voraussetzungen für die Zuordnung einer Stelle. Er reiht jede Stelle gemäss Einreihungsplan und Richtpositionen entsprechend ihren Anforderungen und Belastungen in nur eine Lohnklasse ein.
+- 1\. 4. 23 - 120 § 27. Der Synodalrat umschreibt, soweit erforderlich, die Richtpositionen und die Voraussetzungen für die Zuordnung einer Stelle. Er reiht jede Stelle gemäss Einreihungsplan und Richtpositionen entsprechend ihren Anforderungen und Belastungen in nur eine Lohnklasse ein.
 
 #### § 28
+
+**Umschreibung der Richtpositionen und Einreihungsplan**
 
 **Stellenplan**
 
@@ -347,13 +361,13 @@ Der Synodalrat umschreibt, soweit erforderlich, die Richtpositionen und die Vora
 
 <sup>2</sup> Die Anstellungsinstanz kann Stundenlöhne festlegen, in denen Entschädigungen für Urlaub, Ferien oder Freitage und Ruhetage eingerechnet sind und separat ausgewiesen werden.
 
-**7**
-
-- 1\. 4. 21 - 112 § 31. Der Synodalrat regelt den Ersatz dienstlicher Auslagen.
-
-#### § 32
+#### § 31
 
 **Ersatz von Auslagen**
+
+Der Synodalrat regelt den Ersatz dienstlicher Auslagen.
+
+#### § 32
 
 **Teuerungsausgleich**
 
@@ -421,11 +435,11 @@ Die Anstellungsinstanz kann besondere Leistungen mit einer einmaligen Zulage ode
 
 Die Angestellten haben sich rechtmässig zu verhalten, die Anliegen der Menschen in ihrem Tätigkeitsbereich ernst zu nehmen, die ihnen übertragenen Aufgaben persönlich, sorgfältig, gewissenhaft und wirtschaftlich auszuführen und die Interessen der Arbeitgeberin bzw. des Arbeitgebers in guten Treuen zu wahren.
 
-#### § 40
+**9**
+
+- 1\. 4. 23 - 120 § 40. <sup>1</sup> Die Angestellten haben in allen Angelegenheiten sowohl der Pfarrei als auch der Kirchgemeinde oder der Institution, in deren Dienst sie stehen, die gebotene Verschwiegenheit zu beachten. Die im Interesse der Zusammenarbeit notwendigen gegenseitigen Informationen sind innerhalb des Arbeitsteams und allenfalls gegenüber Vorgesetzten und umgekehrt gestattet.
 
 **Verschwiegenheitspflicht**
-
-<sup>1</sup> Die Angestellten haben in allen Angelegenheiten sowohl der Pfarrei als auch der Kirchgemeinde oder der Institution, in deren Dienst sie stehen, die gebotene Verschwiegenheit zu beachten. Die im Interesse der Zusammenarbeit notwendigen gegenseitigen Informationen sind innerhalb des Arbeitsteams und allenfalls gegenüber Vorgesetzten und umgekehrt gestattet.
 
 <sup>2</sup> Diese Verpflichtung bleibt nach Beendigung des Arbeitsverhältnisses bestehen.
 
@@ -437,11 +451,9 @@ Die Angestellten haben sich rechtmässig zu verhalten, die Anliegen der Menschen
 
 <sup>3</sup> Das Gremium entbindet die Seelsorgerin oder den Seelsorger auf deren oder dessen Gesuch hin vom Seelsorgegeheimnis, wenn ein überwiegendes Interesse an der Offenlegung besteht. Ein überwiegendes Interesse an der Offenlegung besteht insbesondere, wenn die ernsthafte Gefahr besteht, dass die anvertrauende Person sich selbst oder Dritte gefährdet oder eine Straftat begeht, mit der sie jemanden körperlich, seelisch oder materiell schwer schädigt.
 
-**9**
-
-- 1\. 4. 21 - 112 § 40 b.<sup>11</sup> <sup>1</sup> Angestellte dürfen keine Geschenke oder andere Vergünstigungen, die im Zusammenhang mit ihrer dienstlichen Stellung stehen oder stehen könnten, für sich oder andere annehmen oder sich versprechen lassen.
-
 **Geschenkannahmeverbot**
+
+§ 40 b.<sup>11</sup> <sup>1</sup> Angestellte dürfen keine Geschenke oder andere Vergünstigungen, die im Zusammenhang mit ihrer dienstlichen Stellung stehen oder stehen könnten, für sich oder andere annehmen oder sich versprechen lassen.
 
 <sup>2</sup> Ausgenommen sind Spenden zugunsten von kirchlichen Institutionen im In- und Ausland sowie Höflichkeitsgeschenke von geringem Wert.
 
@@ -513,13 +525,13 @@ ab dem Kalenderjahr, in dem sie das 60. Altersjahr vollenden:
 
 <sup>3</sup> Er regelt die Kürzung des Ferienanspruches bei Abwesenheiten infolge Krankheit, Unfall, Urlaub, Militär- und Zivilschutzdienst oder aus anderen Gründen.
 
-#### § 48
+**11**
 
-**Urlaub**
-
-Der Synodalrat regelt die Gewährung von bezahltem und unbezahltem Urlaub.
+- 1\. 4. 23 - 120 § 48. Der Synodalrat regelt die Gewährung von bezahltem und unbezahltem Urlaub.
 
 #### § 49
+
+**Urlaub**
 
 **Mutterschaftsurlaub**
 
@@ -535,11 +547,11 @@ Der Synodalrat regelt die Gewährung von bezahltem und unbezahltem Urlaub.
 
 <sup>2</sup> Der bezahlte Urlaub bei der Geburt eines eigenen Kindes wird der Dauer des Vaterschaftsurlaubs angerechnet.
 
-**11**
-
-- 1\. 4. 21 - 112 § 51. <sup>1</sup> Für die Besoldung der Angestellten, die Militär-, Schutz- oder Zivildienst leisten, gilt während ihrer Dienstzeit folgende Regelung:
+#### § 51
 
 **Abwesenheit wegen Militär-, Schutz- und Zivildienst**
+
+<sup>1</sup> Für die Besoldung der Angestellten, die Militär-, Schutz- oder Zivildienst leisten, gilt während ihrer Dienstzeit folgende Regelung:
 
 Bei Wiederholungs- und Ergänzungskursen, einschliesslich vorangehender Kadervorkurse, besteht ein Anspruch auf die volle Besoldung, bei Rekrutenschule oder anderen obligatorischen Instruktionskursen auf 100%, sofern der bzw. die Angestellte verheiratet ist oder sonst eine Unterstützungspflicht erfüllt, und auf 75%, wenn er bzw. sie ledig ist.
 
@@ -583,11 +595,13 @@ Bei Wiederholungs- und Ergänzungskursen, einschliesslich vorangehender Kadervor
 
 <sup>2</sup> Beim Entscheid ist den Umständen des einzelnen Falles, wie Versicherungsleistungen und Anzahl der Dienstjahre, angemessen Rechnung zu tragen. Taggelder der obligatorischen Unfallversicherung werden angerechnet.
 
-**Krankentaggeldversicherung**
+**13**
 
-§ 55.<sup>8</sup> Die Arbeitgeberin oder der Arbeitgeber kann eine für alle Angestellten obligatorische Taggeldversicherung abschliessen. Diese löst nach Ablauf der im Versicherungsvertrag vereinbarten Karenzfrist die Lohnfortzahlung nach §§ 53 und 54 ab. Der Anspruch auf Versicherungsleistungen richtet sich nach den jeweils anwendbaren Versicherungsbedingungen. Die Prämien werden von der Arbeitgeberin oder dem Arbeitgeber und von den Angestellten zu gleichen Teilen getragen.
+- 1\. 4. 23 - 120 § 55.<sup>8</sup> Die Arbeitgeberin oder der Arbeitgeber kann eine für alle Angestellten obligatorische Taggeldversicherung abschliessen. Diese löst nach Ablauf der im Versicherungsvertrag vereinbarten Karenzfrist die Lohnfortzahlung nach §§ 53 und 54 ab. Der Anspruch auf Versicherungsleistungen richtet sich nach den jeweils anwendbaren Versicherungsbedingungen. Die Prämien werden von der Arbeitgeberin oder dem Arbeitgeber und von den Angestellten zu gleichen Teilen getragen.
 
 #### § 56
+
+**Krankentaggeldversicherung**
 
 **Einschränkung der Lohnfortzahlung**
 
@@ -601,13 +615,13 @@ Bei Wiederholungs- und Ergänzungskursen, einschliesslich vorangehender Kadervor
 
 Wer aus gesundheitlichen Gründen an der Arbeit verhindert ist, hat dies der vorgesetzten Stelle unverzüglich zu melden. Die Arbeitgeberin kann die Einreichung eines ärztlichen Zeugnisses verlangen. Spätestens nach drei Arbeitstagen Absenz ist ein ärztliches Zeugnis beizubringen.
 
-**13**
-
-- 1\. 4. 21 - 112 § 58. Die Mitarbeiterinnen und Mitarbeiter werden nach Massgabe der entsprechenden Reglemente in die Pensionskasse für Angestellte der römisch-katholischen Kirchgemeinden des Kantons Zürich aufgenommen.
-
-#### § 59
+#### § 58
 
 **Pensionskasse**
+
+Die Mitarbeiterinnen und Mitarbeiter werden nach Massgabe der entsprechenden Reglemente in die Pensionskasse für Angestellte der römisch-katholischen Kirchgemeinden des Kantons Zürich aufgenommen.
+
+#### § 59
 
 **Besoldungszahlung im Todesfall**
 
@@ -655,7 +669,7 @@ Streitigkeiten aus privatrechtlichen Arbeitsverhältnissen entscheidet das Zivil
 
 **Rechtsmittel**
 
-§ 65.<sup>8</sup> Soweit diese Anstellungsordnung nichts Abweichendes regelt, richtet sich das Verfahren des Weiterzugs von personalrechtlichen Entscheiden durch das Personal nach dem Verwaltungsrechtspflegegesetz<sup>2</sup>.
+§ 65.[^64-1] Soweit diese Anstellungsordnung nichts Abweichendes regelt, richtet sich das Verfahren des Weiterzugs von personalrechtlichen Entscheiden durch das Personal nach dem Verwaltungsrechtspflegegesetz[^64-2].
 
 - 8\. Übergangs- und Schlussbestimmungen
 
@@ -665,49 +679,30 @@ Streitigkeiten aus privatrechtlichen Arbeitsverhältnissen entscheidet das Zivil
 
 <sup>2</sup> Für Arbeitsverhältnisse, die beim Inkrafttreten des Personalgesetzes bereits gekündigt, aber noch nicht aufgelöst sind, gilt bisheriges Recht.
 
+[^64-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 454; ABl 2019-05-03). In Kraft seit 1. September 2019.
+[^64-2]: LS 175.2.
+
 #### § 67
 
 **Verbindlichkeit der Anstellungsordnung für alle Kirchgemeinden**
 
 Für diejenigen Kirchgemeinden, welche die Anstellungsordnung bisher noch nicht verbindlich erklärt haben, tritt die Verbindlichkeit dann ein, wenn die entsprechende gesetzliche Grundlage in Kraft tritt.
 
-#### § 68
+**15**
+
+- 1\. 4. 23 - 120 § 68. <sup>1</sup> Die in § 27 dieser Anstellungsordnung dem Synodalrat zuerkannte Kompetenz zum Erlass des Einreihungsplanes kann zur Neueinreihung von bestimmten Funktionen führen. Die erstmalige Überführung dieser Funktionen in die neuen Lohnklassen erfolgt mit dem Inkrafttreten des Einreihungsplanes. Die jeweiligen Erfahrungs- oder Leistungsstufen werden unter Vorbehalt von Abs. 2 unverändert übernommen.
 
 **Erstmalige Überführung in neue Lohnklassen**
-
-<sup>1</sup> Die in § 27 dieser Anstellungsordnung dem Synodalrat zuerkannte Kompetenz zum Erlass des Einreihungsplanes kann zur Neueinreihung von bestimmten Funktionen führen. Die erstmalige Überführung dieser Funktionen in die neuen Lohnklassen erfolgt mit dem Inkrafttreten des Einreihungsplanes. Die jeweiligen Erfahrungs- oder Leistungsstufen werden unter Vorbehalt von Abs. 2 unverändert übernommen.
 
 <sup>2</sup> Angestellte, die aufgrund der Lage auf dem Arbeitsmarkt bei der Anstellung in die nach den nun aufgehobenen Bestimmungen richtige Lohnklasse, nicht aber in die gemäss den Einreihungsrichtlinien empfohlene Lohnstufe eingereiht wurden, können bei unveränderter Lohnhöhe zurückgestuft werden.
 
 <sup>3</sup> Im Jahr der Überführung in die neue Lohnklasse wird kein Stufenanstieg gewährt.
 
-**15**
-
-- 1\. 4. 21 - 112 § 69. Diese Anstellungsordnung ersetzt jene vom 23. Mai 1996. Sie tritt am 1. Januar 2008 in Kraft.
+#### § 69
 
 **Inkrafttreten**
 
-<sup>1</sup> OS 69, 76.
-
-<sup>2</sup> LS 175.2.
-
-<sup>3</sup> LS 182.22.
-
-<sup>4</sup> SR 220.
-
-<sup>5</sup> SR 832.20.
-
-<sup>6</sup> Fassung gemäss B vom 7. Dezember 2017 (OS 73, 163; ABl 2018-01-05). In Kraft seit 1. Januar 2019.
-
-<sup>7</sup> Eingefügt durch B vom 11. April 2019 (OS 74, 454; ABl 2019-05-03). In Kraft seit 1. September 2019.
-
-<sup>8</sup> Fassung gemäss B vom 11. April 2019 (OS 74, 454; ABl 2019-05-03). In Kraft seit 1. September 2019.
-
-<sup>9</sup> Eingefügt durch B vom 7. November 2019 (OS 75, 102; ABl 2019-11-22). In Kraft seit 1. Januar 2020.
-
-<sup>10</sup> Eingefügt durch B vom 5. November 2020 (OS 76, 31; ABl 2020-11-20). In Kraft seit 1. März 2021.
-
-<sup>11</sup> Nummerierung gemäss B vom 5. November 2020 (OS 76, 31; ABl 2020-11- 20). In Kraft seit 1. März 2021.
+Diese Anstellungsordnung ersetzt jene vom 23. Mai 1996. Sie tritt am 1. Januar 2008 in Kraft.
 
 ### Anhang
 
@@ -723,4 +718,19 @@ Besoldungsklasse Minimum (AS 1) 1. Maximum (ES 16) 2. Maximum (LS 12)
 
 **17**
 
-- 1\. 4. 21 - 112
+- 1\. 4. 23 - 120
+
+## Weitere Fussnoten
+
+- [1] OS 69, 76.
+- [3] LS 182.22.
+- [4] SR 220.
+- [5] SR 832.20.
+- [6] Fassung gemäss B vom 7. Dezember 2017 (OS 73, 163; ABl 2018-01-05). In Kraft seit 1. Januar 2019.
+- [7] Eingefügt durch B vom 11. April 2019 (OS 74, 454; ABl 2019-05-03). In Kraft seit 1. September 2019.
+- [9] Eingefügt durch B vom 7. November 2019 (OS 75, 102; ABl 2019-11-22). In Kraft seit 1. Januar 2020.
+- [10] Eingefügt durch B vom 5. November 2020 (OS 76, 31; ABl 2020-11-20). In Kraft seit 1. März 2021.
+- [11] Nummerierung gemäss B vom 5. November 2020 (OS 76, 31; ABl 2020-11-
+- [20] . In Kraft seit 1. März 2021.
+- [12] Eingefügt durch B vom 1. Dezember 2022 (OS 78, 126; ABl 2022-12-16). In Kraft seit 1. April 2023.
+- [13] Fassung gemäss B vom 1. Dezember 2022 (OS 78, 126; ABl 2022-12-16). In Kraft seit 1. April 2023.
