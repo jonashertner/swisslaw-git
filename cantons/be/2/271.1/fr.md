@@ -4,13 +4,13 @@ number: "271.1"
 title: "Loi portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs"
 short: LiCPM
 language: fr
-version: 2022-01-01
-valid_until: 2023-03-31
-version_adopted: 2020-12-03
+version: 2023-04-01
+valid_until: 2023-12-31
+version_adopted: 2022-09-13
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/271.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2413/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2835/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2413/pdf_file"
 
 (LiCPM)
 
-du 11.06.2009 (état au 01.01.2022)
+du 11.06.2009 (état au 01.04.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -198,7 +198,7 @@ arrête:
 
 - a obligation de fournir des sûretés en garantie des dépens (art. 99 CPC);
 - b administration des preuves à futur une fois que la procédure principale est pendante (art. 158 CPC);
-- c toutes les affaires auxquelles s'applique la procédure sommaire conformément aux articles 248 ss CPC une fois que la procédure principale edst pendante;
+- c toutes les affaires auxquelles s'applique la procédure sommaire conformément aux articles 248 ss CPC une fois que la procédure principale est pendante;
 - d non-respect de l'obligation de fournir des avances ou des sûretés (art. 101, al. 3 CPC).
 
 <sup>4</sup> En cas de litige commercial, la compétence de juge instructeur ou de juge instructrice au sens de l'alinéa 3 appartient au président ou à la présidente du Tribunal de commerce ou à un membre juriste désigné par ses soins.
@@ -297,6 +297,12 @@ arrête:
 **Frais**
 
 <sup>1</sup> Le Grand Conseil fixe les frais en matière civile par voie de décret (art. 96 CPC).
+
+#### Art. 21a
+
+**Projets pilotes (art. 401 CPC)**
+
+<sup>1</sup> Le Conseil-exécutif peut édicter par voie d'ordonnance des dispositions relatives aux projets pilotes menés en application de l'article 401 CPC.
 
 ## 3 Procédure pénale
 

@@ -4,13 +4,13 @@ number: "271.1"
 title: "Einführungsgesetz zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung"
 short: EG ZSJ
 language: de
-version: 2022-01-01
-valid_until: 2023-03-31
-version_adopted: 2020-12-03
+version: 2023-04-01
+valid_until: 2023-12-31
+version_adopted: 2022-09-13
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/271.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2413/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2835/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2413/pdf_file"
 
 (EG ZSJ)
 
-vom 11.06.2009 (Stand 01.01.2022)
+vom 11.06.2009 (Stand 01.04.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -300,6 +300,12 @@ beschliesst:
 **Prozesskosten**
 
 <sup>1</sup> Der Grosse Rat legt die Prozesskosten für die Zivilgerichte durch Dekret fest (Art. 96 ZPO).
+
+#### Art. 21a
+
+**Pilotprojekte (Art. 401 ZPO)**
+
+<sup>1</sup> Der Regierungsrat kann Bestimmungen über die Durchführung von Pilotprojekten nach Artikel 401 ZPO durch Verordnung erlassen.
 
 ## 3 Strafprozess
 
