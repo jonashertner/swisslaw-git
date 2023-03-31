@@ -3,17 +3,17 @@ canton: ZH
 number: "414.253.411"
 title: "Studienordnung für die Bachelorstudiengänge Kommunikation und Medien, Mehrsprachige Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2023-01-01"
-nachtrag: "121"
-valid_until: 2023-04-01
+version: "2023-04-01"
+nachtrag: "122"
+valid_until: 2023-08-01
 adopted: 2009-06-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_411-2009_06_04-2009_08_01-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_411-2009_06_04-2009_08_01-122.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Studienordnung für die Bachelorstudiengänge Kommunikation, Mehrsprachige Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften
+# Studienordnung für die Bachelorstudiengänge Kommunikation,  Mehrsprachige Kommunikation und Sprachliche  Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften
 
 (vom 4. Juni 2009)[^t-2][^t-1]
 
@@ -43,7 +43,7 @@ Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung 
 
 Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Studienrichtungen, zu den zu absolvierenden Modulen und zur Gewichtung der Modulnoten, werden in einem Anhang geregelt.
 
-**Studiengänge und Vertiefungen**
+**Studiengänge und  Vertiefungen**
 
 § 3.[^2-1] <sup>1</sup> Die ZHAW bietet am Departement Angewandte Linguistik die Bachelorstudiengänge Kommunikation, Mehrsprachige Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an.
 
@@ -65,7 +65,7 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Studienricht
 
 **1**
 
-- 1\. 1. 23 - 119 §§ 4 und 5.[^2-2]
+- 1\. 4. 23 - 120 §§ 4 und 5.[^2-2]
 
 **Studienform**
 
@@ -86,7 +86,7 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Studienricht
 
 ### B. Zulassung zum Studium
 
-**Aufnahmeprüfung fachliche Eignung**
+**Aufnahmeprüfung fachliche  Eignung**
 
 § 8.[^hBZulassungzumStu-1] <sup>1</sup> Für die Zulassung zum Bachelorstudium ist eine Aufnahmeprüfung fachliche Eignung zu bestehen.
 
@@ -108,7 +108,7 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Studienricht
 
 § 10.[^hCAufbaudesStudiu-1] Die Studiengänge sind in eine Assessmentstufe und ein Hauptstudium gegliedert. Die Details zum Umfang der Assessmentstufe und des Hauptstudiums sind im Anhang zur Studienordnung geregelt.
 
-**Bestehen Assessmentstufe**
+**Bestehen  Assessmentstufe**
 
 § 11.[^hCAufbaudesStudiu-1] Die Assessmentstufe ist bestanden, wenn a. die im Anhang vorgeschriebenen Module bzw. Modulgruppen der Assessmentstufe bestanden sind,
 
@@ -161,42 +161,41 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Studienricht
 
 Das Bachelordiplom wird erteilt, wenn a. die Assessmentstufe und das Hauptstudium bestanden sind und b.[^hE141Studienabs-1] 180 ECTS-Credits erreicht sind.
 
-[^16-1]: Fassung gemäss B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019. 1. 1. 23 - 119 5
+[^16-1]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. April 2023.
 
 #### § 17
 
-**Abschlussnote**
+**Abschlussnote a. Allgemein**
 
-<sup>1</sup> Die Abschlussnote setzt sich aus den Noten der promotionsrelevanten Module im Assessment und im Hauptstudium zusammen.[^16-1]
+<sup>1</sup> Die Abschlussnote setzt sich aus den Noten der gemäss Anhang relevanten Module im Assessment und im Hauptstudium zusammen.[^16-1]
 
 <sup>2</sup> Die Modulnoten werden nach Credits gewichtet.
 
-**Überzählige Credits aus Wahlpflichtmodulen**
+**b. Credits aus Wahlpflichtmodulen**
 
 § 17 a.[^17-1] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
 
-<sup>2</sup> Die Studiengangleitung regelt,
-
-- a. ob die Belegung von überzähligen Wahlpflichtmodulen möglich ist,
+<sup>2</sup> Der Anhang regelt:[^17-2] a. ob die Belegung von überzähligen Wahlpflichtmodulen möglich ist,
 
 - b. wie die Studierenden bei der Wahl der Module bestimmen, welche Wahlpflichtmodule überzählig sind.
 
 <sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
 
 [^17-1]: Eingefügt durch B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
-[^17-2]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
+[^17-2]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. April 2023.
+[^17-3]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
 
 #### § 18
 
 **Titel**
 
-Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:[^17-2] a. Bachelor of Arts ZHAW in Kommunikation mit Vertiefung in [gewählte Vertiefungsrichtung],
-
-- b. Bachelor of Arts ZHAW in Mehrsprachiger Kommunikation mit Vertiefung in [gewählte Vertiefungsrichtung],
+Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:[^17-3] a. Bachelor of Arts ZHAW in Kommunikation mit Vertiefung in [gewählte Vertiefungsrichtung],
 
 **3**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
+
+- b. Bachelor of Arts ZHAW in Mehrsprachiger Kommunikation mit Vertiefung in [gewählte Vertiefungsrichtung],
 
 - c. Bachelor of Arts ZHAW in Sprachlicher Integration – Deutsch als Fremd- und Zweitsprache.
 
@@ -208,7 +207,7 @@ Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:[^17-2] a. B
 
 #### § 19
 
-**Genehmigung und Inkrafttreten**
+**Genehmigung und  Inkrafttreten**
 
 <sup>1</sup> Diese Studienordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1. August 2009 in Kraft.
 
@@ -257,7 +256,7 @@ Studierende, die ihr Bachelorstudium vor dem Herbstsemester 2009/2010 aufgenomme
 
 § 23.[^hHÜbergangsbestimmu-1] Studierende, die vor dem Herbstsemester 2021/2022 mit dem Hauptstudium begonnen haben, schliessen mit den Vertiefungstiteln gemäss der vor der Änderung vom 24. September 2020 geltenden Regelung ab. Im Übrigen unterstehen sie der Studienordnung gemäss der nach der Änderung vom 24. September 2020 geltenden Regelung.
 
-**Studiengänge Kommunikation und Sprachliche Integration**
+**Studiengänge Kommunikation und Sprach- liche Integration**
 
 § 24.[^hHÜbergangsbestimmu-1] Studierende, die ihr Studium vor dem Herbstsemester 2021/ 2022 begonnen haben, werden der Studienordnung gemäss der nach der Änderung vom 24. September 2020 geltenden Regelung unterstellt.
 
@@ -273,11 +272,8 @@ Studierende, die ihr Bachelorstudium vor dem Herbstsemester 2009/2010 aufgenomme
 § 25.[^hIÜbergangsbestimmu-1] Studierende, die vor dem Herbstsemester 2023/2024 mit dem Studium im Studiengang Angewandte Sprachen begonnen haben, schliessen mit dem Titel Bachelor of Arts ZHAW in Angewandten Sprachen mit Vertiefung in [gewählte Vertiefungsrichtung] ab.
 
 [^hIÜbergangsbestimmu-1]: Eingefügt durch B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
-[^hIÜbergangsbestimmu-2]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
 
-### Anhang zur Studienordnung für die Bachelorstudiengänge Kommunikation, Mehrsprachige Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften
-
-[^hIÜbergangsbestimmu-2]
+### Anhang<sup>15</sup> zur Studienordnung für die Bachelorstudiengänge Kommunikation, Mehrsprachige Kommunikation und Sprachliche Integration – Deutsch als Fremd-  und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften
 
 Der Anhang zur Studienordnung für die Bachelorstudiengänge Kommunikation, Mehrsprachige Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
@@ -287,10 +283,11 @@ bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **7**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 ## Weitere Fussnoten
 
 - [4] Eingefügt durch B vom 20. März 2014 (OS 69, 285; ABl 2014-04-25). In Kraft seit 1. August 2014.
 - [6] Fassung gemäss B vom 30. Oktober 2014 (OS 70, 13; ABl 2014-12-19). In Kraft seit 1. April 2015.
+- [8] Fassung gemäss B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019. 1. 4. 23 - 120 5
 - [13] Fassung gemäss B vom 2. Juni 2022 (OS 77, 504; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
