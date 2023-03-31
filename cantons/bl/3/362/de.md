@@ -4,13 +4,12 @@ number: "362"
 title: Einführungsgesetz zum Bundesgesetz über die Krankenversicherung
 short: EG KVG
 language: de
-version: 2020-01-01
-valid_until: 2023-03-31
-version_adopted: 2019-10-31
+version: 2023-04-01
+version_adopted: 2023-03-16
 adopted: 1996-03-25
 in_force: 1996-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/362"
-pdf: "https://bl.clex.ch/api/de/versions/2533/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4310/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2533/pdf_file"
 
 (EG KVG)
 
-Vom 25.03.1996 (Stand 01.01.2020)
+Vom 25.03.1996 (Stand 01.04.2023)
 
 Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
@@ -31,19 +30,19 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Gesetz regelt die Einführung des Bundesgesetzes vom 18. März 1994[^1-1] über die Krankenversicherung (KVG) und der sich darauf stützenden Bundeserlasse.
+<sup>1</sup> Dieses Gesetz regelt die Einführung des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994[^1-1] und der sich darauf stützenden Bundeserlasse.
 
 <sup>2</sup> ...
 
-[^1-1]: SR 832.10
+[^1-1]: [SR 832.10](https://db.clex.ch/link/Bund/832.10/de)
 
 #### § 2
 
 **Vollzug durch Dritte**
 
-<sup>1</sup> Der Regierungsrat kann Dritte, zum Beispiel die Versicherer und/oder die Ausgleichskasse Basel-Landschaft, mit dem Vollzug von Abschnitt D dieses Gesetzes betrauen.
+<sup>1</sup> Der Regierungsrat kann Dritte, zum Beispiel die Versicherer und/oder die Ausgleichskasse Basel-Landschaft, mit dem Vollzug von Abschnitt 4 dieses Gesetzes betrauen.
 
-<sup>2</sup> Die Übertragung des Vollzugs an die Ausgleichskasse Basel-Landschaft bedarf der Genehmigung des Bundesamtes für Sozialversicherung.
+<sup>2</sup> Die Übertragung des Vollzugs an die Ausgleichskasse Basel-Landschaft bedarf der Genehmigung des Bundesamts für Sozialversicherung.
 
 ## 2 Versicherungsobligatorium Krankenpflegeversicherung
 
@@ -73,7 +72,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Krankenversicherer melden der zuständigen Behörde unverzüglich und unaufgefordert diejenigen Versicherten, die wegen ausstehender Prämien oder Kostenbeteiligungen in der obligatorischen Krankenpflegeversicherung betrieben werden. Die Meldung umfasst die im Bundesrecht vorgesehenen Daten.
 
-<sup>2</sup> Die Behörde informiert das kantonale Sozialamt über den Eingang der Meldung nach Absatz 1. Sie kann diesem die gemeldeten Daten weitergeben. Das kantonale Sozialamt informiert die kommunale Sozialhilfebehörde.
+<sup>2</sup> Die Behörde informiert das kantonale Sozialamt über den Eingang der Meldung nach Abs. 1. Sie kann diesem die gemeldeten Daten weitergeben. Das kantonale Sozialamt informiert die kommunale Sozialhilfebehörde.
 
 <sup>3</sup> Die Sozialhilfebehörde berät die ihr gemeldeten Versicherten und unterstützt sie bei Bedürftigkeit gemäss der Sozialhilfegesetzgebung.
 
@@ -127,7 +126,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Für anspruchsberechtigte Kinder werden mindestens 80 % und für anspruchsberechtigte junge Erwachsene bis 25 Jahre mindestens 50 % der entsprechenden kantonalen Jahresrichtprämie ausgerichtet.
 
-[^8-1]: SR 836.2
+[^8-1]: [SR 836.2](https://db.clex.ch/link/Bund/836.2/de)
 
 #### § 8a
 
@@ -140,38 +139,38 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>2</sup> Der Regierungsrat legt fest:
 
-- a. die Jahresrichtprämien für jede bundesrechtliche Prämienkategorie, wobei diejenige für Erwachsene mindestens 20% unter dem kantonalen Prämiendurchschnitt für die obligatorische Krankenpflegeversicherung liegt;
-- b. die Untergrenzen des massgebenden Jahreseinkommens für günstige, wirtschaftliche Verhältnisse von Eltern junger Erwachsener, wobei diese mindestens um den Faktor 2,75 grösser sind als die anspruchsabschliessenden Obergrenzen des massgebenden Jahreinkommens der jeweiligen Berechnungseinheiten.
+- a. die Jahresrichtprämien für jede bundesrechtliche Prämienkategorie, wobei diejenige für Erwachsene mindestens 20 % unter dem kantonalen Prämiendurchschnitt für die obligatorische Krankenpflegeversicherung liegt;
+- b. die Untergrenzen des massgebenden Jahreseinkommens für günstige, wirtschaftliche Verhältnisse von Eltern junger Erwachsener, wobei diese mindestens um den Faktor 2,75 grösser sind als die anspruchsabschliessenden Obergrenzen des massgebenden Jahreseinkommens der jeweiligen Berechnungseinheiten.
 
 #### § 9
 
 **Massgebendes Jahreseinkommen**
 
-<sup>1</sup> Das massgebende Jahreseinkommen entspricht dem Zwischentotal der steuerbaren Einkünfte (ohne Einkünfte aus Liegenschaften) vermehrt um
+<sup>1</sup> Das massgebende Jahreseinkommen entspricht dem Zwischentotal der steuerbaren Einkünfte (ohne Einkünfte aus Liegenschaften) vermehrt um:
 
-- a. das Nettoeinkommen aus nicht selbst bewohnten Liegenschaften,
-- b. 20 Prozent des steuerbaren Vermögens, sowie vermindert um
-- c. geleistete Unterhaltsbeiträge, für die bei der Staatsteuer ein Abzug gewährt wird,
-- d. 5'000 Franken für jedes Kind, für welches bei der Staatssteuer ein Kinderabzug gewährt wird.
+- a. das Nettoeinkommen aus nicht selbst bewohnten Liegenschaften;
+- b. 20 % des steuerbaren Vermögens, sowie vermindert um
+- c. geleistete Unterhaltsbeiträge, für die bei der Staatsteuer ein Abzug gewährt wird;
+- d. CHF 5'000 für jedes Kind, für welches bei der Staatssteuer ein Kinderabzug gewährt wird.
 
-<sup>2</sup> Das Nettoeinkommen aus nicht selbst bewohnten Liegenschaften gemäss Absatz 1 Buchstabe a entspricht den steuerbaren Einkünften aus diesen Liegenschaften abzüglich dem Pauschalabzug für Liegenschaftsunterhaltskosten.
+<sup>2</sup> Das Nettoeinkommen aus nicht selbst bewohnten Liegenschaften gemäss Abs. 1 Bst. a entspricht den steuerbaren Einkünften aus diesen Liegenschaften abzüglich dem Pauschalabzug für Liegenschaftsunterhaltskosten.
 
 <sup>3</sup> Massgebend ist die rechtskräftige Steuerveranlagung für das Vor-Vorjahr.
 
-<sup>4</sup> Die Personen, die durch die Steuerveranlagung gemäss Absatz 3 als Steuersubjekte erfasst sind, werden zur Berechnung der Prämienverbilligung zusammengefasst (Berechnungseinheit).
+<sup>4</sup> Die Personen, die durch die Steuerveranlagung gemäss Abs. 3 als Steuersubjekte erfasst sind, werden zur Berechnung der Prämienverbilligung zusammengefasst (Berechnungseinheit).
 
-<sup>5</sup> Für Personen, die keine Steuerveranlagung gemäss Absatz 3 haben
+<sup>5</sup> Für Personen, die keine Steuerveranlagung gemäss Abs. 3 haben:
 
-- a. und die die Volljährigkeit erreichen, richten sich das massgebende Jahreseinkommen und die Berechnungseinheit nach den Verhältnissen des Vorjahres,
+- a. und die die Volljährigkeit erreichen, richten sich das massgebende Jahreseinkommen und die Berechnungseinheit nach den Verhältnissen des Vorjahres;
 - b. bestimmt in den übrigen Fällen der Regierungsrat das massgebende Jahreseinkommen und die Berechnungseinheit.
 
 #### § 9a
 
 **Veränderte Verhältnisse**
 
-<sup>1</sup> Hat sich im Vorjahr gegenüber der Steuerveranlagung gemäss § 9 Absatz 3 das massgebende Jahreseinkommen um mehr als 20% oder die personelle Zusammensetzung der Berechnungseinheit verändert, wird die Prämienverbilligung auf Gesuch hin entsprechend angepasst.
+<sup>1</sup> Hat sich im Vorjahr gegenüber der Steuerveranlagung gemäss § 9 Abs. 3 das massgebende Jahreseinkommen um mehr als 20 % oder die personelle Zusammensetzung der Berechnungseinheit verändert, wird die Prämienverbilligung auf Gesuch hin entsprechend angepasst.
 
-<sup>2</sup> Wirkt sich das Gesuch auf die Prämienverbilligung einer anderen Person aus, ist deren Prämienverbilligung von Amtes wegen und unter Wahrung deren Verfahrensrechte anzupassen.
+<sup>2</sup> Wirkt sich das Gesuch auf die Prämienverbilligung einer anderen Person aus, ist deren Prämienverbilligung von Amts wegen und unter Wahrung deren Verfahrensrechte anzupassen.
 
 #### § 9b
 
@@ -179,9 +178,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Der Anspruch auf Prämienverbilligung beginnt und endet mit dem Kalenderjahr.
 
-<sup>2</sup> Er endet während des Kalenderjahres
+<sup>2</sup> Er endet während des Kalenderjahres:
 
-- a. bei Wegzug ins Ausland,
+- a. bei Wegzug ins Ausland;
 - b. bei Tod einer Person, die eine Berechnungseinheit gebildet hat.
 
 #### § 9c
@@ -190,7 +189,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Gesuche um Prämienverbilligung sind bis Ende des Anspruchsjahres einzureichen, ansonsten der Anspruch verwirkt.
 
-<sup>2</sup> Antragsformulare für Prämienverbilligung, die von Amtes wegen oder auf Gesuch hin zugestellt worden sind, sind innerhalb eines Jahres seit Zustellung einzureichen, ansonsten der Anspruch verwirkt.
+<sup>2</sup> Antragsformulare für Prämienverbilligung, die von Amts wegen oder auf Gesuch hin zugestellt worden sind, sind innerhalb 1 Jahres seit Zustellung einzureichen, ansonsten der Anspruch verwirkt.
 
 #### § 10
 
@@ -236,7 +235,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Die Ausgleichskasse meldet einem im Kanton Basel-Landschaft tätigen Krankenversicherer auf Anfrage den gesamten Verfügungsbestand der bei diesem Krankenversicherer nach KVG versicherten Personen für den Abgleich der Datenbestände.
 
-[^12b-1]: SR 832.102.2
+[^12b-1]: [SR 832.102.2](https://db.clex.ch/link/Bund/832.102.2/de)
 
 #### § 12c
 
@@ -250,11 +249,11 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Rückerstattungen**
 
-<sup>1</sup> Zu Unrecht ausgerichtete Leistungen sind zurückzuerstatten. Das Verfahren richtet sich nach den Bestimmungen des Bundesgesetzes vom 6. Oktober 2000[^13-1] über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG).
+<sup>1</sup> Zu Unrecht ausgerichtete Leistungen sind zurückzuerstatten. Das Verfahren richtet sich nach den Bestimmungen des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) vom 6. Oktober 2000[^13-1].
 
 <sup>2</sup> Kleinbeträge werden nicht zurückerstattet. Der Regierungsrat legt die Grenze fest.
 
-[^13-1]: SR 830.1
+[^13-1]: [SR 830.1](https://db.clex.ch/link/Bund/830.1/de)
 
 #### § 13a
 
@@ -282,22 +281,24 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Finanzierung von Pflegeleistungen durch die Gemeinde**
 
-<sup>1</sup> Bei Pflegeleistungen nach der Krankenversicherungsgesetzgebung, ausgenommen bei Leistungen der Akut- und Übergangspflege, übernimmt die Niederlassungsgemeinde die Differenz zwischen den anrechenbaren Kosten der Pflegeleistungen und dem Beitrag der obligatorischen Krankenversicherung abzüglich des Anteils der versicherten Person.
+<sup>1</sup> Bei Pflegeleistungen nach der Krankenversicherungsgesetzgebung, ausgenommen bei Leistungen der Akut- und Übergangspflege, übernimmt die Gemeinde die Differenz zwischen den anrechenbaren Kosten der Pflegeleistungen und dem Beitrag der obligatorischen Krankenversicherung abzüglich des Anteils der versicherten Person.
+
+<sup>1<sup>bis</sup></sup> Zuständig ist unter Vorbehalt von § 32 des Altersbetreuungs- und Pflegegesetzes[^15a-1]:
+
+- a. bei ambulanten Pflegeleistungen die Gemeinde, in welcher die versicherte Person ihren Wohnsitz hat;
+- b. bei stationären Pflegeleistungen die Gemeinde, in welcher die versicherte Person vor dem Heimeintritt ihren Wohnsitz hatte.
 
 <sup>2</sup> Die Beiträge der Gemeinde werden an den Leistungserbringer ausgerichtet und können pauschaliert werden.
 
+[^15a-1]: [SGS 941](https://bl.clex.ch/data/941/de/art32)
+
 #### § 15b
 
-**Finanzierte Leistungen**
+**Finanzierung von Pflegeleistungen durch den Kanton**
 
-<sup>1</sup> Die Beiträge der Gemeinde nach § 15a erstrecken sich auf ambulante und stationäre Pflegeleistungen, welche zur Deckung des Bedarfs der Bevölkerung erforderlich sind.
+<sup>1</sup> …
 
-<sup>2</sup> Die Gemeinde finanziert die Pflegeleistungen von:
-
-- a. Spitex-Organisationen mit Betriebsbewilligung und Pflegefachpersonen mit Bewilligung zur selbständigen Berufsausübung des Kantons;
-- a.<sup>bis</sup> Spitex-Organisationen und Pflegefachpersonen mit Bewilligung eines anderen Kantons, wenn sich die versicherte Person vorübergehend dort aufhält;
-- b. Pflegeheimen und Spitälern, die auf der Pflegeheimliste des Kantons aufgeführt sind;
-- c. anderen Pflegeheimen und Spitälern, jedoch höchstens mit demjenigen Betrag, den die Gemeinde bei einem Aufenthalt in einem Pflegeheim oder Spital, welches auf der Pflegeheimliste des Kantons aufgeführt ist, ausrichten würde.
+<sup>2</sup> …
 
 <sup>3</sup> Bei Personen, die in Heimen leben, welche über eine Anerkennung nach dem Behindertenhilfegesetz verfügen, werden die Beiträge nach § 15a durch den Kanton übernommen.
 
@@ -313,24 +314,48 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 #### § 15c
 
-**Anrechenbare Normkosten der Pflegeleistungen**
+**Anrechenbare Kosten von ambulanten Pflegeleistungen**
 
-<sup>1</sup> Der Regierungsrat legt periodisch, mindestens alle 4 Jahre, nach Anhörung der Gemeinden und der Leistungserbringer die anrechenbaren Normkosten der Pflegeleistungen pro Leistungskategorie kantonsweit einheitlich fest.
+<sup>1</sup> Der Regierungsrat legt periodisch, mindestens alle 4 Jahre, nach Anhörung der Gemeinden und der Leistungserbringer die anrechenbaren Kosten für ambulante Pflegeleistungen pro Leistungskategorie kantonsweit einheitlich fest (Normkosten).
 
-<sup>2</sup> Die anrechenbaren Normkosten decken die Kosten der Pflegeleistungen, an welche die obligatorische Krankenpflegeversicherung nach der Bundesgesetzgebung einen Beitrag leistet, unter Berücksichtigung einer wirksamen, zweckmässigen und wirtschaftlichen Leistungserbringung.
+<sup>2</sup> Die Normkosten decken die Kosten der ambulanten Pflegeleistungen nach der Krankenversicherungsgesetzgebung unter Berücksichtigung einer wirksamen, zweckmässigen und wirtschaftlichen Leistungserbringung.
 
-<sup>3</sup> Die zuständige Direktion kann zum Zweck der Ermittlung der anrechenbaren Normkosten bei den Leistungserbringern Daten erheben und Betriebsvergleiche durchführen.
+<sup>3</sup> Die zuständige Direktion kann zum Zweck der Ermittlung der Normkosten bei den Leistungserbringern Daten erheben und Betriebsvergleiche durchführen.
+
+#### § 15cbis
+
+**Anrechenbare Kosten von stationären Pflegeleistungen**
+
+<sup>1</sup> Die Versorgungsregionen gemäss Altersbetreuungs- und Pflegegesetz legen periodisch, mindestens alle 2 Jahre, nach Anhörung der Leistungserbringer die anrechenbaren Kosten der Pflegeleistungen für diejenigen stationären Pflegeeinrichtungen fest, mit denen sie eine Leistungsvereinbarung abgeschlossen haben.
+
+<sup>2</sup> Für die Festlegung der anrechenbaren Kosten von Leistungserbringern, welche mit mehreren Versorgungsregionen eine Leistungsvereinbarung abgeschlossen haben, ist diejenige Versorgungsregion zuständig, in welcher der Leistungserbringer seinen Betriebsstandort hat.
+
+<sup>3</sup> Die anrechenbaren Kosten decken die Kosten der stationären Pflegeleistungen nach der Krankenversicherungsgesetzgebung unter Berücksichtigung einer wirksamen, zweckmässigen und wirtschaftlichen Leistungserbringung.
+
+<sup>4</sup> Zum Zweck der Ermittlung der anrechenbaren Kosten stellt der Kanton den Versorgungsregionen jeweils die Daten zur Verfügung, die er gestützt auf §§ 13 und 14 des Altersbetreuungs- und Pflegegesetzes[^15cbis-1] erhoben hat.
+
+<sup>5</sup> Eine Neufestlegung der anrechenbaren Kosten erfolgt mindestens 3 Monate im Voraus auf den Beginn eines Kalenderjahres.
+
+[^15cbis-1]: [SGS 941](https://bl.clex.ch/data/941/de/art13)
+
+#### § 15cter
+
+**Finanzierung von Pflegeleistungen in ausserkantonalen Pflegeheimen**
+
+<sup>1</sup> Bei einem Aufenthalt in einem ausserkantonalen Pflegeheim leistet die Gemeinde einen Beitrag gemäss § 15a nach der Regelung des Standortkantons des Pflegeheims, jedoch höchstens zu demjenigen Betrag, den sie bei einem Aufenthalt im Pflegeheim mit den höchsten anrechenbaren Kosten im Kanton übernehmen würde.
+
+<sup>2</sup> Sofern die Gemeinde der versicherten Person zum Zeitpunkt des Heimeintritts keinen Pflegeheimplatz im Kanton zur Verfügung stellen kann, leistet sie einen Beitrag gemäss § 15a nach der Regelung des Standortkantons des Pflegeheims.
 
 #### § 15d
 
 **Kostenanteil der versicherten Person**
 
-<sup>1</sup> Der Kostenanteil der versicherten Person entspricht
+<sup>1</sup> Der Kostenanteil der versicherten Person entspricht:
 
 - a. bei stationären Pflegeleistungen dem höchsten Anteil nach der Bundesgesetzgebung;
 - b. bei ambulanten Pflegeleistungen der Hälfte des höchsten Anteils nach der Bundesgesetzgebung.
 
-<sup>2</sup> Der Kostenanteil der versicherten Person darf im Einzelfall die anrechenbaren Normkosten abzüglich des Beitrags der obligatorischen Krankenpflegeversicherung nicht übersteigen.
+<sup>2</sup> Der Kostenanteil der versicherten Person darf im Einzelfall die anrechenbaren Kosten abzüglich des Beitrags der obligatorischen Krankenpflegeversicherung nicht übersteigen.
 
 <sup>3</sup> Bei Kindern bis zum vollendeten 18. Altersjahr wird kein Kostenanteil erhoben.
 
@@ -340,7 +365,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Leistungen der Akut- und Übergangspflege erfolgen im Anschluss an einen Akutspitalaufenthalt während längstens 2 Wochen unter folgenden Voraussetzungen:
 
-- a. medizinische Notwendigkeit begründet durch einen vorübergehend erhöhten Pflegebedarf;
+- a. medizinische Notwendigkeit, begründet durch einen vorübergehend erhöhten Pflegebedarf;
 - b. keine Notwendigkeit eines Aufenthalts in einer Rehabilitationsklinik oder einer geriatrischen Abteilung eines Spitals;
 - c. Überweisung durch einen Spitalarzt mit einem Zeugnis, aus dem der Pflegebedarf und die erforderlichen Pflegemassnahmen hervorgehen.
 
@@ -386,12 +411,18 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Für Forderungen der Versicherer, für welche gemäss Übergangsbestimmung zur Änderung des Bundesgesetzes über die Krankenversicherung vom 19. März 2010 der Leistungsaufschub bestehen bleibt, gilt § 6b während 6 Monaten ab dem Inkrafttreten weiter, sofern die sozialhilferechtliche Unterstützung im Jahr 2011 entstanden ist.
 
+#### § 17c
+
+**Übergangsbestimmung betreffend Mehrkosten in der Pflege infolge der Covid-19-Epidemie**
+
+<sup>1</sup> Bei der erstmaligen Festlegung der anrechenbaren Kosten der Pflegeleistungen gemäss § 15c<sup>bis</sup> berücksichtigen die Versorgungsregionen die Mehrkosten, die den einzelnen stationären Pflegeeinrichtungen in den Jahren 2020 und 2021 infolge der Covid-19-Epidemie entstanden sind. Diese Mehrkosten werden in Form eines zeitlich befristeten Zuschlags zu den anrechenbaren Kosten abgegolten.
+
 #### § 18
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz tritt am 1. Januar 1996 in Kraft. Es untersteht der nachträglichen Volksabstimmung innert 6 Monaten gemäss § 63 Absatz 4 der Kantonsverfassung vom 17. Mai 1984[^18-1].
+<sup>1</sup> Dieses Gesetz tritt am 1. Januar 1996 in Kraft. Es untersteht der nachträglichen Volksabstimmung innert 6 Monaten gemäss § 63 Abs. 4 der Kantonsverfassung vom 17. Mai 1984[^18-1].
 
-[^18-1]: GS 29.276, SGS 100
+[^18-1]: [SGS 100](https://bl.clex.ch/data/100/de/art63)
 
 GS 32.474
