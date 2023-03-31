@@ -4,11 +4,11 @@ title: "Ordinanza del DFF del 4 aprile 2007 sulle agevolazioni doganali per le m
 short: OADo
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/252"
 language: it
-version: 2023-02-01
+version: 2023-04-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2007-252-20230201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20230201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2007-252-20230401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20230201/it"
 
 (Ordinanza sulle agevolazioni doganali, OADo)
 
-del 4 aprile 2007 (Stato 1° febbraio 2023)
+del 4 aprile 2007 (Stato 1° aprile 2023)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -426,7 +426,7 @@ Allegato 1[^t-1]
 
 ## Agevolazioni doganali in base allo scopo d’impiego
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFF del 16 mar. 2016 ([RU 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Aggiornato dal n. I delle O del DFF del 12 ago. 2016 ([RU 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), del 28 ott. 2016 ([RU 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), del 28 ott. 2016 ([RU 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), dell’O della DGD dell’11 nov. 2016 ([RU 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), delle O del DFF dell’11 ago. 2017 ([RU 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), del 1° nov. 2017 ([RU 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), delle O della DGD del 4 dic. 2018 ([RU 2018 4947](https://fedlex.data.admin.ch/eli/oc/2018/778)), del 22 set. 2020 ([RU 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), dal n. I dell’O del DFF del 17 nov. 2020 ([RU 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), dal n. I e II dell’O del DFF dell’8 set. 202 ([RU 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)), dal n. I dell’O del DFF del 15 nov. 2021 ([RU 2021 737](https://fedlex.data.admin.ch/eli/oc/2021/737)), dal n. I delle O dell’UDSC dell’8 mar. 2022 ([RU 2022 157](https://fedlex.data.admin.ch/eli/oc/2022/157)), del 22 mar. 2022 ([RU 2022 189](https://fedlex.data.admin.ch/eli/oc/2022/189)), del 21 apr. 2022 ([RU 2022 252](https://fedlex.data.admin.ch/eli/oc/2022/252)), e del 20 gen. 2023, in vigore dal 1° feb. 2023 ([RU 2023 30](https://fedlex.data.admin.ch/eli/oc/2023/30)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFF del 16 mar. 2016 ([RU 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Aggiornato dal n. I delle O del DFF del 12 ago. 2016 ([RU 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), del 28 ott. 2016 ([RU 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), del 28 ott. 2016 ([RU 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), dell’O della DGD dell’11 nov. 2016 ([RU 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), delle O del DFF dell’11 ago. 2017 ([RU 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), del 1° nov. 2017 ([RU 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), dell’O della DGD del 22 set. 2020 ([RU 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), dal n. I dell’O del DFF del 17 nov. 2020 ([RU 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), dal n. I e II dell’O del DFF dell’8 set. 2021 ([RU 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)), dal n. I dell’O del DFF del 15 nov. 2021 ([RU 2021 737](https://fedlex.data.admin.ch/eli/oc/2021/737)), dal n. I delle O dell’UDSC dell’8 mar. 2022 ([RU 2022 157](https://fedlex.data.admin.ch/eli/oc/2022/157)), del 22 mar. 2022 ([RU 2022 189](https://fedlex.data.admin.ch/eli/oc/2022/189)), del 21 apr. 2022 ([RU 2022 252](https://fedlex.data.admin.ch/eli/oc/2022/252)), del 20 mar. 2023 ([RU 2023 142](https://fedlex.data.admin.ch/eli/oc/2023/142)) e del 22 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 149](https://fedlex.data.admin.ch/eli/oc/2023/149)).
 
 <table>
 <tr><th>Voce di tariffa</th><th>Designazione della merce</th><th>Impiego</th><th>Dazio di favore Fr. / 100 kg peso lordo</th></tr>
@@ -470,10 +470,10 @@ Allegato 1[^t-1]
 <tr><td>1008. 10 29</td><td>Grano saraceno</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>esente</td></tr>
 <tr><td>1008. 29 29</td><td>Miglio</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>esente</td></tr>
 <tr><td>1008. 30 20</td><td>Scagliola</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>esente</td></tr>
-<tr><td>1008. 40 29</td><td>Fonio (*Digitaria spp.*)</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>1.—</td></tr>
-<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>1.—</td></tr>
-<tr><td>1008. 60 39</td><td>Triticale</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>1.50</td></tr>
-<tr><td>1008. 90 27</td><td>Altri cereali</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>1.—</td></tr>
+<tr><td>1008. 40 29</td><td>Fonio (*Digitaria spp.*)</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>2.00</td></tr>
+<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>2.00</td></tr>
+<tr><td>1008. 60 39</td><td>Triticale</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>2.50</td></tr>
+<tr><td>1008. 90 27</td><td>Altri cereali</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>2.00</td></tr>
 <tr><td>1102. 20 10</td><td>Farina di granturco</td><td>per l’alimentazione umana, senza residui per il foraggiamento</td><td>20.—</td></tr>
 <tr><td>1102. 90 51</td><td>Farina di riso</td><td>per l’alimentazione umana, senza residui per il foraggiamento</td><td>20.—</td></tr>
 <tr><td>1102. 90 61</td><td>Farine di altri cereali</td><td>per l’alimentazione umana, senza residui per il foraggiamento</td><td>20.—</td></tr>
@@ -501,7 +501,7 @@ Allegato 1[^t-1]
 <tr><td>1104. 29 18</td><td>Altri cereali lavorati di frumento (grano), di segala, di frumento segalato o di triticale, mondati o perlati</td><td>per usi tecnici</td><td>40.—</td></tr>
 <tr><td>1104. 29 22</td><td>Altri cereali lavorati, di miglio</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>––.50</td></tr>
 <tr><td>1104. 29 22</td><td>Altri cereali lavorati di miglio</td><td>per l’alimentazione umana, senza residui per il foraggiamento</td><td>10.—</td></tr>
-<tr><td>1104. 29 32</td><td>Altri cereali lavorati, di orzo</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>5.40</td></tr>
+<tr><td>1104. 29 32</td><td>Altri cereali lavorati, di orzo</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>6.60</td></tr>
 <tr><td>1104. 29 32</td><td>Altri cereali lavorati di orzo</td><td>per l’alimentazione umana, senza residui per il foraggiamento</td><td>10.—</td></tr>
 <tr><td>1104. 29 99</td><td>Altri cereali lavorati di altri cereali</td><td>per l’alimentazione umana, senza residui per il foraggiamento</td><td>10.—</td></tr>
 <tr><td>1104. 30 89</td><td>Germi di frumento</td><td>per la sgrassatura parziale, per l’alimentazione umana</td><td>28.80</td></tr>
@@ -581,8 +581,8 @@ Allegato 1[^t-1]
 <tr><td>1602. 50 98</td><td>Carne di manzo, cotta e congelata, in cubi di una lunghezza laterale di circa 2 cm o macinata</td><td>per la fabbricazione di prodotti della voce di tariffa 2103.9000</td><td>––.10</td></tr>
 <tr><td>1701. 12 00 13 00 14 00 99 99</td><td>Zucchero cristallizzato, allo stato solido, non lavorato, senza aggiunta di aromatizzanti o di coloranti</td><td>per la fabbricazione di mannite, sorbite, dei loro esteri e di acido gluconico</td><td>esente</td></tr>
 <tr><td>1701. 12 00 13 00 14 00</td><td>Zuccheri greggi, allo stato solido, non lavorati, senza aggiunta di aromatizzanti o di coloranti</td><td>per la raffinazione</td><td>esente</td></tr>
-<tr><td>1702. 30 29 30 38</td><td>Glucosio, allo stato solido, chimicamente puro o no</td><td>per usi tecnici</td><td>—.80</td></tr>
-<tr><td>1702. 30 48</td><td>Sciroppo di glucosio</td><td>utilizzato come sostanza nutritiva per i batteri nell’ambito della fabbricazione di prodotti farmaceutici</td><td>—.10</td></tr>
+<tr><td>1702. 30 29 30 38</td><td>Glucosio, allo stato solido, chimicamente puro o no</td><td>per usi tecnici</td><td>1.10</td></tr>
+<tr><td>1702. 30 48</td><td>Sciroppo di glucosio</td><td>utilizzato come sostanza nutritiva per i batteri nell’ambito della fabbricazione di prodotti farmaceutici</td><td>—.20</td></tr>
 <tr><td>1904. 90 90</td><td>Grani di cereali, frantumati e preparati Osservazione: Aliquota di dazio per le merci provenienti dall’Unione europea (UE) e dall’Associazione europea di libero scambio (AELS) (O del 18 giu. 2008[^annex1-lvlu1-1] sul libero scambio 1) e di altri partner di libero scambio (O del 27 giu. 1995[^annex1-lvlu1-2] sul libero scambio 2): fr. 4.80.</td><td>per la fabbricazione di corn flakes e prodotti simili</td><td>6.––</td></tr>
 <tr><td>2001. 10 10</td><td>Cetriolini, in recipienti eccedenti 10 kg</td><td>per l’ulteriore lavorazione industriale</td><td>3.––</td></tr>
 <tr><td>2001. 90 91</td><td>Cetriolini, in recipienti eccedenti 50 kg</td><td>per l’ulteriore lavorazione industriale</td><td>3.—</td></tr>
