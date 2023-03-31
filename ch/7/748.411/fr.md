@@ -4,11 +4,11 @@ title: Ordonnance du 17 août 2005 sur le transport aérien (OTrA)
 short: OTrA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/556"
 language: fr
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2005-08-17
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-556-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2005-556-20230401-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230101/fr"
 
 (OTrA)
 
-du 17 août 2005 (État le 1<sup>er</sup> janvier 2023)
+du 17 août 2005 (État le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
@@ -366,9 +366,27 @@ La prorogation de la durée de validité des qualifications est subordonnée aux
 
 #### Art. 16d
 
-[^16d-1]
+**Obligation de déclaration et contrôle de la déclaration**[^16d-1]
 
-[^16d-1]: Entre en vigueur ultérieurement ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+<sup>1</sup> Les entreprises ayant leur siège ou un établissement en Suisse et dont le nom apparaît comme expéditeur sur le document de transport de marchandises dangereuses établi conformément à la partie 5, chapitre 4, des instructions techniques relatives à l’Annexe 18 OACI, doivent produire une déclaration.
+
+<sup>2</sup>
+
+La déclaration doit être adressée à l’OFAC par une personne de l’entreprise autorisée à signer; elle comporte les informations suivantes:
+
+- a. données relatives à l’entreprise;
+- b. numéro d’identification des entreprises (IDE) conformément au registre IDE de l’Office fédéral de la statistique;
+- c. coordonnées;
+- d. données concernant les classes de danger des marchandises transportées;
+- e. attestation de conformité avec les dispositions légales;
+- f. déclaration de consentement concernant le traitement et l’utilisation des données;
+- g. coordonnées de la personne autorisée à signer.
+
+<sup>3</sup> Les entreprises qui sont soumises à l’obligation de déclaration sont tenues de tenir à jour les informations visées à l’al. 2.
+
+<sup>4</sup> L’OFAC invite régulièrement les entreprises qui lui ont adressé une déclaration à confirmer les données communiquées. Faute de confirmation, la validité de la déclaration expire automatiquement au terme du délai communiqué par l’OFAC.
+
+[^16d-1]: Introduit par le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 16e
 

@@ -4,11 +4,11 @@ title: Verordnung vom 17. August 2005 über den Lufttransport (LTrV)
 short: LTrV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/556"
 language: de
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2005-08-17
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2005-556-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2005-556-20230401-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230101/de"
 
 (Lufttransportverordnung, LTrV)[^t-1]
 
-vom 17. August 2005 (Stand am 1. Januar 2023)
+vom 17. August 2005 (Stand am 1. April 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
@@ -377,9 +377,27 @@ Die Qualifikationen sind für die folgende Dauer gültig:
 
 #### Art. 16d
 
-[^16d-1]
+**Deklarationspflicht und Deklarationskontrolle**[^16d-1]
 
-[^16d-1]: Tritt zu einem späteren Zeitpunkt in Kraft ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+<sup>1</sup> Für Unternehmen mit Sitz oder Niederlassung in der Schweiz, welche auf dem Gefahrgut-Transportdokument gemäss Part 5, Chapter 4 der TI zum ICAO-Anhang 18 als Versender aufgeführt werden, muss eine Deklaration vorliegen.
+
+<sup>2</sup>
+
+Die Deklaration ist durch eine zeichnungsberechtigte Person des Unternehmens beim BAZL einzureichen; sie beinhaltet folgende Informationen:
+
+- a. Angaben zum Betrieb;
+- b. Unternehmens-Identifikationsnummer (UID-Nummer) gemäss dem UID-Register des Bundesamtes für Statistik;
+- c. Kontaktinformationen;
+- d. Angaben zu den zu transportierenden Gefahrgutklassen;
+- e. Konformitätsbestätigung über das Einhalten der gesetzlichen Bestimmungen;
+- f. Einverständniserklärung betreffend Verarbeitung und Nutzung der Daten; sowie
+- g. Angaben zur zeichnungsberechtigten Person.
+
+<sup>3</sup> Deklarationspflichtige Unternehmen sind verpflichtet, die Informationen gemäss Artikel 16*d* Absatz 2 aktuell zu halten.
+
+<sup>4</sup> Das BAZL fordert Unternehmen, die eine Deklaration eingereicht haben, regelmässig auf, die übermittelten Daten zu bestätigen. Wird diese Bestätigung unterlassen, so verfällt die Gültigkeit der Deklaration nach einer vom BAZL mitgeteilten Frist automatisch.
+
+[^16d-1]: Eingefügt durch Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. April 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 16e
 

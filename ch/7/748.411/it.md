@@ -4,11 +4,11 @@ title: Ordinanza del 17 agosto 2005 sul trasporto aereo (OTrA)
 short: OTrA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/556"
 language: it
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2005-08-17
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2005-556-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2005-556-20230401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230101/it"
 
 (OTrA)
 
-del 17 agosto 2005 (Stato 1° gennaio 2023)
+del 17 agosto 2005 (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -366,9 +366,27 @@ Per una prorog della validità delle qualifiche devono essere soddisfatte le seg
 
 #### Art. 16d
 
-[^16d-1]
+**Obbligo di dichiarazione e controllo della dichiarazione**[^16d-1]
 
-[^16d-1]: Entra in vigore vigore in un secondo tempo.
+<sup>1</sup> Le imprese con sede o filiale in Svizzera indicate come mittenti nella documentazione di trasporto delle merci pericolose di cui alla Part 5, Chapter 4 delle T.I. dell’Annesso 18 ICAO devono disporre di una dichiarazione.
+
+<sup>2</sup>
+
+La dichiarazione deve essere presentata all’UFAC da una persona dell’impresa con diritto di firma e deve contenere le seguenti informazioni:
+
+- a. dati dell’impresa;
+- b. numero di identificazione dell’impresa (numero IDI), come riportato nel registro IDI dell’Ufficio federale di statistica;
+- c. contatti;
+- d. informazioni sulle classi di merci pericolose da trasportare;
+- e. dichiarazione di conformità ai requisiti di legge;
+- f. consenso al trattamento e all’utilizzo dei dati; e
+- g. dati sulla persona con diritto di firma.
+
+<sup>3</sup> Le imprese soggette all’obbligo di dichiarazione sono tenute ad aggiornare le informazioni di cui all’articolo 16*d* capoverso 2.
+
+<sup>4</sup> L’UFAC invita regolarmente le imprese che hanno presentato una dichiarazione a confermare i dati forniti. In mancanza di conferma, la validità della dichiarazione decade automaticamente entro un periodo di tempo comunicato dall’UFAC.
+
+[^16d-1]: Introdotto dal n. I dell’O del 12 ott. 2022, in vigore dal 1° apr. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622))
 
 #### Art. 16e
 
