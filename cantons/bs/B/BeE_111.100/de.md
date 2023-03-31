@@ -3,13 +3,12 @@ canton: BS
 number: BeE 111.100
 title: Gemeindeordnung der Einwohnergemeinde Bettingen
 language: de
-version: 2017-05-01
-valid_until: 2023-03-31
-version_adopted: 2016-04-26
+version: 2023-04-01
+version_adopted: 2022-12-13
 adopted: 2016-04-26
 in_force: 2017-05-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20111.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3943/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5843/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3943/pdf_file"
 
 Gemeindeordnung | Bettingen: Einwohnergemeinde
 
-Vom 26. April 2016 (Stand 1. Mai 2017)
+Vom 26. April 2016 (Stand 1. April 2023)
 
 Die Gemeindeversammlung der Einwohnergemeinde Bettingen,
 
@@ -370,17 +369,21 @@ beschliesst folgende Gemeindeordnung:
 
 #### § 34
 
-**Rechnungsprüfungskommission**
+**Geschäfts- und Rechnungsprüfungskommission**
 
-<sup>1</sup> Die Gemeindeversammlung wählt die Mitglieder der Rechnungsprüfungskommission, bestehend aus drei Mitgliedern und zwei Ersatzmitgliedern. Jedes zweite Jahr scheidet das amtsälteste Mitglied aus, das erste Ersatzmitglied rückt nach und ein neues Ersatzmitglied wird gewählt.
+<sup>1</sup> Die Geschäfts- und Rechnungsprüfungskommission setzt sich ordentlicherweise aus fünf, mindestens aber aus drei Mitgliedern zusammen. Die Gemeindeversammlung wählt jedes Jahr ein Mitglied für eine Amtsdauer von fünf Jahren. Jedes Jahr steht der Sitz desjenigen Mitglieds zur Wahl, dessen fünfjährige Amtsdauer abläuft. Bei Ersatzwahlen unter der Amtsdauer tritt das neu gewählte Mitglied in die Amtsdauer des ausscheidenden Mitglieds ein. Wiederwahl ist möglich. Sofern in einem Jahr kein Mitglied gewählt werden kann, ist die Wahl möglichst bald nachzuholen, wobei die Amtsdauer für dieses nachgewählte Kommissionsmitglied ab dem Zeitpunkt gerechnet wird, an dem sein Sitz freigeworden ist.
 
-<sup>2</sup> Personen, die zu den Mitgliedern des Gemeinderates oder zur Gemeindeverwalterin oder zum Gemeindeverwalter in einem in § 21 Abs. 2 dieser Ordnung bezeichneten Verwandtschaftsverhältnis stehen, sind in die Rechnungsprüfungskommission nicht wählbar. Im Übrigen gelten die Bestimmungen über die Unvereinbarkeiten.
+<sup>2</sup> Bei der Wahl der Geschäfts- und Rechnungsprüfungskommission ist möglichst darauf zu achten, dass unter anderem auch Mitglieder mit relevanten Kenntnissen, namentlich aus den Bereichen Recht, Finanz- und Rechnungswesen, Wirtschaftsinformatik, gewählt werden.
 
-<sup>3</sup> Die Rechnungsprüfungskommission prüft das Budget und das gesamte Rechnungswesen der Einwohnergemeinde. Über das Prüfungsergebnis erstattet sie einen schriftlichen Bericht und unterbreitet der Gemeindeversammlung zugleich ihre Anträge. Die Gemeindeversammlung kann überdies der Rechnungsprüfungskommission Einzelgeschäfte finanzieller Natur zur Vorberatung überweisen.
+<sup>3</sup> Personen, die Mitglieder des Gemeinderates sind oder vor weniger als acht Jahren aus dem Gemeinderat ausgeschieden sind oder die zu den Mitgliedern des Gemeinderates oder zur Gemeindeverwalterin oder zum Gemeindeverwalter in einem in § 21 Abs. 2 dieser Ordnung bezeichneten Verwandtschaftsverhältnis stehen, können der Geschäfts- und Rechnungsprüfungskommission nicht angehören. Im Übrigen gelten die Bestimmungen über die Unvereinbarkeiten.
 
-<sup>4</sup> Die Rechnungsprüfungskommission kann sämtliche das Rechnungswesen der Einwohnergemeinde betreffende Daten einsehen. Sie kann auch jederzeit und unangemeldet deren Kassenstand überprüfen.
+<sup>4</sup> Die Geschäfts- und Rechnungsprüfungskommission ist zuständig für die Prüfung:
 
-<sup>5</sup> Die Gemeindebehörden sowie das Gemeindepersonal sind verpflichtet, der Rechnungsprüfungskommission jede sich auf das Rechnungswesen beziehende Auskunft zu erteilen.
+- a) der Anträge für die Stimmberechtigten, insbesondere Budget, Jahresrechnung, Verpflichtungskredite, Verwaltungsbericht;
+- b) der Geschäftsführung des Gemeinderats und der Gemeindeverwaltung;
+- c) der Tätigkeit der vom Gemeinderat gewählten Kommissionen.
+
+<sup>5</sup> Die einzelnen Aufgaben und die Organisation der Geschäfts- und Rechnungsprüfungskommission werden in der Ordnung für die Geschäfts- und Rechnungsprüfungskommission (GRPK) vom 13. Dezember 2022 festgelegt.
 
 #### § 35
 
@@ -452,7 +455,7 @@ beschliesst folgende Gemeindeordnung:
 
 **Vorlage des Budgets**
 
-<sup>1</sup> Der Gemeinderat erstellt jährlich ein ausgewogenes, den finanziellen Verhältnissen angepasstes Budget für das kommende Rechnungsjahr. Das Budget ist von der Rechnungsprüfungskommission zu prüfen. Danach ist es vom Gemeinderat vor Jahresende der Gemeindeversammlung zur Genehmigung vorzulegen.
+<sup>1</sup> Der Gemeinderat erstellt jährlich ein ausgewogenes, den finanziellen Verhältnissen angepasstes Budget für das kommende Rechnungsjahr, das vor Jahresende der Gemeindeversammlung zur Genehmigung vorzulegen ist.
 
 #### § 44
 
@@ -489,11 +492,11 @@ beschliesst folgende Gemeindeordnung:
 
 **Jahresrechnung**
 
-<sup>1</sup> Der Gemeinderat erstellt die Jahresrechnung nach den Grundsätzen des Harmonisierten Rechnungsmodells (HRM) und in Anlehnung an die internationalen Standards der Rechnungslegung.
+<sup>1</sup> Der Gemeinderat erstellt die Jahresrechnung nach den Grundsätzen des Harmonisierten Rechnungsmodells 2 (HRM2) und in Anlehnung an die internationalen Standards der öffentlichen Rechnungslegung.
 
 <sup>2</sup> Das Rechnungsjahr entspricht dem Kalenderjahr.
 
-<sup>3</sup> Nach der Prüfung durch Gemeinderat und Rechnungsprüfungskommission ist die Jahresrechnung innerhalb von vier Monaten nach Ablauf des Rechnungsjahres der Gemeindeversammlung zur Genehmigung vorzulegen.
+<sup>3</sup> Der Gemeinderat legt die Jahresrechnung innerhalb von vier Monaten nach Ablauf des Rechnungsjahres der Gemeindeversammlung zur Genehmigung vor.
 
 <sup>4</sup> Auf Antrag der Rechnungsprüfungskommission oder der zuständigen Bereichsleiterin bzw. des zuständigen Bereichsleiters kann der Gemeinderat eine externe Revisionsstelle einsetzen.
 
@@ -509,7 +512,13 @@ beschliesst folgende Gemeindeordnung:
 
 <sup>4</sup> Vorbehalten bleiben besondere Bestimmungen in den kommunalen Ordnungen und Reglementen.
 
-## VIII. Schlussbestimmungen
+## VIII. Übergangs- und Schlussbestimmungen
+
+#### § 49
+
+**Übergangsbestimmungen zur Revision von § 34 vom 13. Dezember 2022**
+
+<sup>1</sup> Die Amtsdauer der amtierenden Mitglieder der Rechnungsprüfungskommission inklusive der Ersatzmitglieder wird so angepasst, dass eine gestaffelte Amtsdauer der Mitglieder resultiert. Dazu beschliesst die Gemeindeversammlung die jeweilige Amtsdauer der amtierenden Mitglieder der Rechnungsprüfungskommission unter Berücksichtigung ihrer bisherigen Amtsdauer anlässlich der erstmaligen Wahl der Geschäfts- und Rechnungsprüfungskommission.
 
 Vorstehende Gemeindeordnung ist zu publizieren. Sie wird am 1. Mai 2017 wirksam. Vorbehalten bleibt die Genehmigung durch den Regierungsrat.[^footer-1] Mit Wirksamwerden der vorstehenden Gemeindeordnung ist die Gemeindeordnung der Einwohnergemeinde Bettingen vom 12. November 1985 aufgehoben.
 
