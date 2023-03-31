@@ -4,11 +4,11 @@ title: "Ordonnance du 2 juillet 2008 sur les armes, les accessoires d'armes et l
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: fr
-version: 2023-01-23
+version: 2023-04-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230123-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230123/fr"
 
 (Ordonnance sur les armes, OArm)
 
-du 2 juillet 2008 (État le 23 janvier 2023)
+du 2 juillet 2008 (État le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
@@ -460,13 +460,13 @@ Pour apporter la démonstration, la personne concernée doit remettre le formula
 
 ### (art. 5, al. 6, 28*c* et 28*d* LArm)
 
-<sup>1</sup> La démonstration de l’appartenance à une société de tir peut notamment être apportée sous la forme d’une confirmation de la société, d’un extrait du Système d’information de l’administration des fédérations et des sociétés de tir du Département fédéral de la défense, de la protection de la population et des sports (art. 179*g* à 179*l* de la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée[^13f-1]) ou d’une licence d’une fédération sportive suisse de tir.
+<sup>1</sup> La démonstration de l’appartenance à une société de tir peut notamment être apportée sous la forme d’une confirmation de la société ou d’une licence d’une fédération sportive suisse de tir.[^13f-1]
 
 <sup>2</sup> La démonstration de l’exercice régulier du tir sportif doit être apportée au moyen du formulaire prévu à cet effet; les tirs effectués, ainsi que le lieu et la date où ils se sont déroulés, doivent être consignés sur ce formulaire et visés par la personne responsable sur place ou par une autre personne responsable.
 
 <sup>3</sup> Les tirs effectués consignés dans le livret de performances militaire ou dans le livret de tir peuvent être démontrés au moyen de la copie de ces documents.
 
-[^13f-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^13f-1]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ### Section 4 Autorisations exceptionnelles pour les collectionneurs et les musées
 

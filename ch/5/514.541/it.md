@@ -4,11 +4,11 @@ title: "Ordinanza del 2 luglio 2008 sulle armi, gli accessori di armi e le muniz
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: it
-version: 2023-01-23
+version: 2023-04-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230123-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230123/it"
 
 (Ordinanza sulle armi, OArm)
 
-del 2 luglio 2008 (Stato 23 gennaio 2023)
+del 2 luglio 2008 (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -460,13 +460,13 @@ Per fornire la prova, la persona interessata deve inviare alla competente autori
 
 ### (art. 5 cpv. 6, 28*c* e 28*d* LArm)
 
-<sup>1</sup> La prova dell’appartenenza a una società di tiro può essere fornita segnatamente mediante una conferma della società, un estratto del sistema d’informazione Amministrazione della federazione e delle società del Dipartimento federale della difesa, della protezione della popolazione e dello sport (art. 179*g*–179*l* della LF del 3 ott. 2008[^13f-1] sui sistemi d’informazione militari) o una licenza di una federazione sportiva svizzera di tiro.
+<sup>1</sup> La prova dell’appartenenza a una società di tiro può essere fornita segnatamente mediante una conferma della società o una licenza di una federazione sportiva svizzera di tiro.[^13f-1]
 
 <sup>2</sup> La prova della pratica regolare del tiro sportivo deve essere fornita utilizzando l’apposito modulo; su di esso i singoli esercizi di tiro eseguiti devono essere indicati con relativi luogo e data e devono essere vidimati dalla persona responsabile in loco o da un’altra persona competente.
 
 <sup>3</sup> Gli esercizi di tiro eseguiti che risultano iscritti nel libretto delle prestazioni militari o nel libretto di tiro possono essere comprovati mediante copia di tali documenti.
 
-[^13f-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^13f-1]: Nuovo testo giusta l’all. n. 7 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ### Sezione 4: Autorizzazioni eccezionali per collezionisti e musei
 

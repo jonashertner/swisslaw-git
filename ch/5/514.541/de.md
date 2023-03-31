@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Juli 2008 über Waffen, Waffenzubehör und Munition (W
 short: WV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: de
-version: 2023-01-23
+version: 2023-04-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230123-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230123/de"
 
 (Waffenverordnung, WV)
 
-vom 2. Juli 2008 (Stand am 23. Januar 2023)
+vom 2. Juli 2008 (Stand am 1. April 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -460,13 +460,13 @@ Um den Nachweis zu erbringen, muss die betreffende Person der zuständigen kanto
 
 ### (Art. 5 Abs. 6, 28*c* und 28*d* WG)
 
-<sup>1</sup> Der Nachweis der Mitgliedschaft in einem Schiessverein kann namentlich mit einer Bestätigung des Vereins, mit einem Auszug aus der Vereins- und Verbandsadministration des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (Art. 179*g*–179*l* des BG vom 3. Okt. 2008[^13f-1] über die militärischen Informationssysteme) oder mit einer Lizenz eines schweizerischen Schiesssportverbands erbracht werden.
+<sup>1</sup> Der Nachweis der Mitgliedschaft in einem Schiessverein kann namentlich mit einer Bestätigung des Vereins oder mit einer Lizenz eines schweizerischen Schiesssportverbands erbracht werden.[^13f-1]
 
 <sup>2</sup> Der Nachweis des regelmässigen sportlichen Schiessens ist mit dem dafür vorgesehenen Formular zu erbringen; auf diesem sind die einzelnen absolvierten Schiessen mit Ort und Datum anzugeben und von der vor Ort verantwortlichen oder einer anderen zuständigen Person zu visieren.
 
 <sup>3</sup> Absolvierte Schiessen, die aus dem militärischen Leistungsausweis oder dem Schiessbüchlein hervorgehen, können mittels Kopie dieser Dokumente nachgewiesen werden.
 
-[^13f-1]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^13f-1]: Fassung gemäss Anhang Ziff. 7 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ### 4. Abschnitt: Ausnahmebewilligungen für Sammler und Sammlerinnen sowie Museen
 
