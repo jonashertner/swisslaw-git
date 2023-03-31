@@ -3,11 +3,11 @@ sr: "510.620.2"
 title: Verordnung des VBS vom 3. April 2020 über die Gebühren des Bundesamtes für Landestopografie (GebV-swisstopo)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/38"
 language: de
-version: 2021-03-01
+version: 2023-04-01
 adopted: 2020-04-03
 in_force: 2021-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/38/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2021-38-20210301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/38/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/38/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2021-38-20230401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/38/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/38/20210301/de"
 
 (GebV-swisstopo)
 
-vom 3. April 2020 (Stand am 1. März 2021)
+vom 3. April 2020 (Stand am 1. April 2023)
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS),
 
@@ -58,7 +58,7 @@ Das Bundesamt für Landestopografie kann für bestimmte amtliche Leistungen oder
 
 Die Verordnung des VBS vom 20. November 2009[^4-1] über die Gebühren des Bundesamtes für Landestopografie wird aufgehoben.
 
-[^4-1]: [[AS 2009 6195](https://fedlex.data.admin.ch/eli/oc/2009/760), [2016 3031](https://fedlex.data.admin.ch/eli/oc/2016/513), [2017 5905](https://fedlex.data.admin.ch/eli/oc/2017/644)]
+[^4-1]: [[AS 2009 6195](https://fedlex.data.admin.ch/eli/oc/2009/760); [2016 3031](https://fedlex.data.admin.ch/eli/oc/2016/513); [2017 5905](https://fedlex.data.admin.ch/eli/oc/2017/644)]
 
 #### Art. 5
 
@@ -66,11 +66,13 @@ Die Verordnung des VBS vom 20. November 2009[^4-1] über die Gebühren des Bunde
 
 Diese Verordnung tritt am 1. März 2021 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
 (Art. 2)
 
 ## Ansätze für die Berechnung der Gebühren
+
+[^t-1]: Bereinigt gemäss Ziff. I der V des VBS vom 1. März 2023, in Kraft seit 1. April 2023 ([AS 2023 141](https://fedlex.data.admin.ch/eli/oc/2023/141)).
 
 ### 1 Gebühr für übermässige Nutzung
 
@@ -123,15 +125,14 @@ Für analoge Produkte werden auf der Gebühr nach den Ziffern 3.1 und 3.2 folgen
 
 ### 4.1 Positionierungsdienst
 
-<sup>1</sup> Die Gebühr für den Positionierungsdienst Swiss Positioning Service nach Artikel 3 Absatz 3 der Verordnung des VBS vom 5. Juni 2008[^annexu1-lvlu1-lvl4-lvl41-1] über die Landesvermessung beträgt:
+<sup>1</sup> Die Jahresgebühr für den Positionierungsdienst Swiss Positioning Service nach Artikel 3 Absatz 3 der Verordnung des VBS vom 5. Juni 2008[^annexu1-lvlu1-lvl4-lvl41-1] über die Landesvermessung beträgt:
 
 - a. 0,5 Franken pro Minute bei Einzelabfragen, oder
-- b. 2000 Franken pro Jahr.
+- b. 1500 Franken für eine Lizenz;
+- c. sofern mehrere Lizenzen vom gleichen Verkäufer, sei es das Bundesamt für Landestopografie oder ein Wiederverkäufer, bezogen werden: 600 Franken für die zweite und dritte Lizenz sowie 200 Franken für jede weitere Lizenz;
+- d. für staatlich anerkannte Bildungseinrichtungen: 150 Franken pro Lizenz.
 
-<sup>2</sup> Auf der Jahresgebühr werden folgende Rabatte gewährt:
-
-- a. beim Bezug für den Wiederverkauf: 20–80 Prozent;
-- b. bei Endkundinnen und Endkunden mit Mehrfachlizenzen: Multiplikation mit √n, wobei n die Anzahl Lizenzen für die gleiche natürliche Person oder den gleichen Betrieb ist.
+<sup>2</sup> Beim Bezug für den Wiederverkauf wird auf der Jahresgebühr ein Rabatt von 20–80 Prozent gewährt.
 
 [^annexu1-lvlu1-lvl4-lvl41-1]: [SR 510.626.1](https://fedlex.data.admin.ch/eli/cc/2008/395)
 

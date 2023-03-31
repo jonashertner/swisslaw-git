@@ -3,11 +3,11 @@ sr: "510.620.2"
 title: Ordinanza del DDPS del 3 aprile 2020 sugli emolumenti dell’Ufficio federale di topografia (OEm-swisstopo)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/38"
 language: it
-version: 2021-03-01
+version: 2023-04-01
 adopted: 2020-04-03
 in_force: 2021-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/38/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2021-38-20210301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/38/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/38/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2021-38-20230401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/38/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/38/20210301/it"
 
 (OEm-swisstopo)
 
-del 3 aprile 2020 (Stato 1° marzo 2021)
+del 3 aprile 2020 (Stato 1° aprile 2023)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
 
@@ -66,11 +66,13 @@ L’ordinanza del DDPS del 20 novembre 2009[^4-1] sugli emolumenti dell’Uffici
 
 La presente ordinanza entra in vigore il 1° marzo 2021.
 
-Allegato
+Allegato[^t-1]
 
 (art. 2)
 
 ## Aliquote per il calcolo degli emolumenti
+
+[^t-1]: Aggiornato dal n. I dell’O del DDPS del 1° mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 141](https://fedlex.data.admin.ch/eli/oc/2023/141)).
 
 ### 1 Emolumento per l’utilizzazione eccessiva
 
@@ -123,15 +125,14 @@ Per quanto riguarda i prodotti analogici, sugli emolumenti secondo i numeri 3.1 
 
 ### 4.1 Swiss positioning service (swipos)
 
-<sup>1</sup> L’emolumento per il Swiss positioning service (swipos) secondo l’articolo 3 capoverso 3 dell’ordinanza del DDPS del 5 giugno 2008[^annexu1-lvlu1-lvl4-lvl41-1] sulla misurazione nazionale ammonta a:
+<sup>1</sup> L’emolumento annuo per il servizio di posizionamento Swiss Positioning Service secondo l’articolo 3 capoverso 3 dell’ordinanza del DDPS del 5 giugno 2008[^annexu1-lvlu1-lvl4-lvl41-1] sulla misurazione nazionale ammonta a:
 
 - a. 0,5 franchi al minuto per consultazioni singole (pay per use); o
-- b. 2000 franchi l’anno (flat rate).
+- b. 1500 franchi per una licenza;
+- c. in caso di acquisizione di più licenze presso lo stesso venditore, che si tratti dell’Ufficio federale di topografia o di un rivenditore: 600 franchi per la seconda e terza licenza e 200 franchi per ogni licenza supplementare;
+- d. per gli istituti d’insegnamento riconosciuti dallo Stato: 150 franchi per ogni licenza.
 
-<sup>2</sup> Sull’emolumento secondo il capoverso 1 lettera b sono concessi i seguenti sconti:
-
-- a. in caso di acquisizione per la rivendita: 20–80 per cento;
-- b. nel caso di clienti finali con licenze multiple: moltiplicazione per √n, dove n equivale al numero di licenze per la medesima persona fisica o la medesima azienda.
+<sup>2</sup> In caso di acquisizione per la rivendita, sull’emolumento annuo è concesso uno sconto del 20–80 per cento.
 
 [^annexu1-lvlu1-lvl4-lvl41-1]: [RS 510.626.1](https://fedlex.data.admin.ch/eli/cc/2008/395)
 

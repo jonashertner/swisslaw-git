@@ -3,11 +3,11 @@ sr: "510.620.2"
 title: Ordonnance du DDPS du 3 avril 2020 sur les émoluments de l’Office fédéral de topographie (OEmol-swisstopo)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/38"
 language: fr
-version: 2021-03-01
+version: 2023-04-01
 adopted: 2020-04-03
 in_force: 2021-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/38/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2021-38-20210301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/38/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/38/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2021-38-20230401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/38/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/38/20210301/fr"
 
 (OEmol-swisstopo)
 
-du 3 avril 2020 (Etat le 1<sup>er</sup> mars 2021)
+du 3 avril 2020 (État le 1<sup>er</sup> avril 2023)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS),
 
@@ -64,13 +64,15 @@ L’ordonnance du DDPS du 20 novembre 2009 sur les émoluments de l’Office fé
 
 **Entrée en vigueur**
 
-## La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 2021.
+La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 2021.
 
-Annexe
+Annexe[^t-1]
 
 (art. 2)
 
 ## Prix unitaires pour le calcul des émoluments
+
+[^t-1]: Mise à jour par le ch. I de l’O du DDPS du 1<sup>er</sup> mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 141](https://fedlex.data.admin.ch/eli/oc/2023/141)).
 
 ### 1 Émolument dû pour une utilisation excessive
 
@@ -123,15 +125,14 @@ Les rabais suivants sont consentis sur l’émolument dû pour des produits anal
 
 ### 4.1 Service de positionnement
 
-<sup>1</sup> L’émolument dû pour le service de positionnement Swiss Positioning Service selon l’art. 3, al. 3, de l’ordonnance du DDPS du 5 juin 2008 sur la mensuration nationale[^annexu1-lvlu1-lvl4-lvl41-1] s’élève:
+<sup>1</sup> L’émolument annuel dû pour le service de positionnement Swiss Positioning Service selon l’art. 3, al. 3, de l’ordonnance du DDPS du 5 juin 2008 sur la mensuration nationale[^annexu1-lvlu1-lvl4-lvl41-1] s’élève:
 
 - a. à 0,5 franc par minute pour des requêtes isolées, ou
-- b. à 2000 francs par an.
+- b. à 1500 francs pour une licence;
+- c. dans la mesure où plusieurs licences sont acquises auprès du même vendeur, qu’il s’agisse de l’Office fédéral de topographie ou d’un revendeur: à 600 francs pour la deuxième et la troisième licence et à 200 francs pour chaque licence supplémentaire;
+- d. pour les établissements d’enseignement reconnus par l’État: à 150 francs par licence.
 
-<sup>2</sup> Les rabais suivants sont consentis sur l’émolument annuel:
-
-- a. pour l’acquisition en vue d’une revente: de 20 à 80 %;
-- b. pour les clients finaux disposant de plusieurs licences: multiplication par √n, où n est le nombre de licences détenues par une même personne physique ou morale (entreprise).
+<sup>2</sup> Lors de l’acquisition pour la revente, un rabais de 20 à 80 % est accordé sur l’émolument annuel.
 
 [^annexu1-lvlu1-lvl4-lvl41-1]: [RS 510.626.1](https://fedlex.data.admin.ch/eli/cc/2008/395)
 
