@@ -3,20 +3,20 @@ canton: SG
 number: "381.181"
 title: Regierungsbeschluss über die Pflegeheimliste
 language: de
-version: 2022-10-01
-valid_until: 2023-03-31
-version_adopted: 2022-09-13
+version: 2023-04-01
+valid_until: 2023-06-30
+version_adopted: 2023-03-21
 adopted: 2011-12-20
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/381.181"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3406/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3491/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsbeschluss über die Pflegeheimliste
 
-vom 20.12.2011 (Stand 01.10.2022)
+vom 20.12.2011 (Stand 01.04.2023)
 
 Die Regierung des Kantons St.Gallen
 
