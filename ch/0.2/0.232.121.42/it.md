@@ -3,11 +3,11 @@ sr: "0.232.121.42"
 title: "Regolamento d'esecuzione del 30 settembre 2003 relativo all’Accordo dell’Aja concernente la registrazione internazionale dei disegni e modelli industriali (con tariffe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: it
-version: 2022-11-18
+version: 2023-04-01
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20221118/it/xml/fedlex-data-admin-ch-eli-cc-2006-236-20221118-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20221118/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2006-236-20230401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottato dall’Assemblea dell’Unione dell’Aja il 30 settembre 2003 Entrato in vigore il 1° aprile 2004
 
-(Stato 18 novembre 2022)
+(Stato 1° aprile 2023)
 
 [^t-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 30 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2014 547](https://fedlex.data.admin.ch/eli/oc/2014/110)).
 
@@ -277,8 +277,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
   - ii) per le parti contraenti il cui Ufficio procede a un esame materiale che non è un esame della novità: livello due;
   - iii) per le parti contraenti il cui Ufficio procede a un esame materiale, ivi incluso un esame d’ufficio della novità o un esame della novità in caso di opposizione da parte di terzi: livello tre.
 
-- c)
-  - i) Ogni parte contraente abilitata dalla propria legislazione ad applicare i livelli due o tre di cui alla lettera b) può notificare il fatto al Direttore generale mediante una dichiarazione. Nella dichiarazione, una parte contraente può altresì precisare che opta per l’applicazione del livello due, anche se la propria legislazione la abilita ad applicare il livello tre.
+- c) i) Ogni parte contraente abilitata dalla propria legislazione ad applicare i livelli due o tre di cui alla lettera b) può notificare il fatto al Direttore generale mediante una dichiarazione. Nella dichiarazione, una parte contraente può altresì precisare che opta per l’applicazione del livello due, anche se la propria legislazione la abilita ad applicare il livello tre.
   - ii) Ogni dichiarazione di cui al punto i) ha effetto dopo tre mesi dalla data in cui è pervenuta al Direttore generale o a partire da qualsiasi data posteriore indicatavi. Può altresì essere ritirata in qualsiasi momento mediante una notifica indirizzata al Direttore generale; in tal caso, il ritiro ha effetto dopo un mese dalla data in cui la notifica perviene al Direttore generale o a qualsiasi data posteriore indicata nella notifica. In assenza di una tale dichiarazione oppure se la dichiarazione è stata ritirata, il livello uno è considerato applicabile all’emolumento di designazione standard per la parte contraente in questione.[^chap2-lvlu6-1]
 
 \2) [*Momento del pagamento degli emolumenti*] Fatto salvo il capoverso 3), gli emolumenti di cui al capoverso 1) vanno pagati al momento del deposito della domanda internazionale, tranne l’emolumento di pubblicazione che può essere pagato successivamente conformemente alla regola 16.3) a), nel caso in cui la domanda internazionale contiene una richiesta di differimento della pubblicazione.
@@ -290,7 +289,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 - c) La seconda rata dell’emolumento di designazione individuale può essere pagata, a scelta del titolare, sia direttamente all’Ufficio interessato, sia per il tramite dell’Ufficio internazionale. Nel primo caso, l’Ufficio interessato notifica il fatto all’Ufficio internazionale, e l’Ufficio internazionale iscrive la notifica nel registro internazionale. Nel secondo caso, l’Ufficio internazionale iscrive la notifica nel registro internazionale e notifica il fatto all’Ufficio interessato.
 - d) Se la seconda rata dell’emolumento di designazione individuale non è pagata entro il termine applicabile, l’Ufficio interessato notifica il fatto all’Ufficio internazionale e chiede all’Ufficio internazionale di cancellare, nel registro internazionale, l’iscrizione della registrazione internazionale nei confronti della parte contraente interessata. L’Ufficio internazionale dà seguito alla richiesta e notifica il fatto al titolare.
 
-[^chap2-lvlu6-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 3 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
+[^chap2-lvlu6-1]: Nuovo testo giusta la cifra I della Dec. dell’Assemblea dell’Unione dell’Aja del 3 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
 
 ### **Regola 13**Domanda internazionale depositata per il tramite di un Ufficio
 
@@ -307,7 +306,10 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 ### **Regola 14**Esame dell’Ufficio internazionale
 
-\1) [*Termine per correggere le irregolarità*] Se, al momento della ricezione, l’Ufficio internazionale constata che la domanda internazionale non soddisfa le condizioni necessarie, invita il depositario a correggere le irregolarità entro un termine di tre mesi a partire dalla data dell’invito da parte dell’Ufficio internazionale.
+\1) [*Termine per correggere le irregolarità*]
+
+- a) Se, al momento della ricezione, l’Ufficio internazionale constata che la domanda internazionale non soddisfa le condizioni necessarie, invita il depositario a correggere le irregolarità entro un termine di tre mesi a partire dalla data dell’invito da parte dell’Ufficio internazionale.
+- b) In deroga alla lettera a), se l’importo degli emolumenti riscossi al momento della ricezione della domanda internazionale è inferiore all’importo corrispondente all’emolumento di base per un disegno o modello, l’Ufficio internazionale può innanzitutto invitare il depositario a pagare almeno l’importo corrispondente all’emolumento di base per un disegno o modello entro un termine di due mesi a partire dalla data dell’invito da parte dell’Ufficio internazionale.[^chap2-lvlu8-1]
 
 \2) [*Irregolarità comportanti il rinvio della data di deposito della domanda internazionale*] Se, alla data in cui perviene all’Ufficio internazionale, la domanda internazionale presenta un’irregolarità tale da comportare il rinvio della data di deposito della domanda internazionale, la data di deposito è la data in cui l’Ufficio internazionale riceve la correzione di tale irregolarità. Le irregolarità che sono tali da comportare il rinvio della data di deposito della domanda internazionale sono le seguenti:
 
@@ -320,11 +322,12 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
   - ii) indicazioni che permettono di stabilire l’identità del depositario,
   - iii) indicazioni sufficienti per permettere di prendere contatto con il depositario o con il suo eventuale rappresentante,
   - iv) una raffigurazione o, conformemente all’articolo 5.1)iii) dell’Atto del 1999, un campione di ciascun disegno o modello industriale oggetto della domanda internazionale,
-  - v) la designazione di almeno una parte contraente.[^chap2-lvlu8-1]
+  - v) la designazione di almeno una parte contraente.[^chap2-lvlu8-2]
 
 \3) [*Domanda internazionale considerata abbandonata; Rimborso degli emolumenti*] Se un’irregolarità diversa da quelle oggetto dell’articolo 8.2) b) dell’Atto del 1999 non è corretta entro il termine di cui al capoverso 1) la domanda internazionale è considerata ritirata e l’Ufficio internazionale rimborsa gli emolumenti pagati per tale domanda, previa deduzione di un importo corrispondente all’emolumento di base.
 
-[^chap2-lvlu8-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+[^chap2-lvlu8-1]: Nuovo testo giusta la cifra II della Dec. dell’Assemblea dell’Unione dell’Aja dell’11 ott. 2016, in vigore dal 1° apr. 2023 ([RU 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
+[^chap2-lvlu8-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
 
 ### **Regola 15**Iscrizione del disegno o modello industriale nel registro internazionale
 
@@ -516,30 +519,37 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 \1) [*Presentazione della domanda*]
 
-- a)
+- a)[^chap4-lvlu1-1]
 
   La domanda d’iscrizione di una modifica deve essere presentata all’Ufficio internazionale sul modulo ufficiale appropriato, se tale domanda concerne:
 
   - i) un cambiamento del titolare della registrazione internazionale per tutti o per una parte dei disegni o modelli industriali oggetto della registrazione internazionale;
   - ii) un cambiamento del nome o dell’indirizzo del titolare;
   - iii) una rinuncia alla registrazione internazionale nei confronti di una, di più o della totalità delle parti contraenti designate;
-  - iv) una limitazione, nei confronti di una, di più o della totalità delle parti contraenti designate, riguardante tutti o una parte dei disegni o modelli industriali oggetto della registrazione internazionale.
+  - iv) una limitazione, nei confronti di una, di più o della totalità delle parti contraenti designate, riguardante tutti o una parte dei disegni o modelli industriali oggetto della registrazione internazionale;
+  - [tab] v) un cambiamento del nome o dell’indirizzo del rappresentante.
 
-- b)[^chap4-lvlu1-1]
+- b)[^chap4-lvlu1-2]
 
   La domanda deve essere presentata e firmata dal titolare; una domanda d’iscrizione del cambiamento del titolare può tuttavia essere presentata dal nuovo proprietario, a condizione che sia:
 
   - i) firmata dal titolare; o
   - ii) firmata dal nuovo proprietario e accompagnata da un documento che dimostri che il nuovo proprietario risulta essere l’avente causa del titolare.
 
-\2) [*Contenuto della domanda*] La domanda d’iscrizione di una modifica deve contenere o indicare, oltre alla modifica richiesta:
+\2) [*Contenuto della domanda*]
 
-- i)[^chap4-lvlu1-2] il numero della registrazione internazionale in questione;
-- ii)[^chap4-lvlu1-3] il nome del titolare, tranne se la modifica riguarda il nome e l’indirizzo del rappresentante;
-- iii)[^chap4-lvlu1-4] in caso di cambiamento del titolare della registrazione internazionale, il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, nonché l’indirizzo di posta elettronica del nuovo proprietario della registrazione internazionale;
-- iv) in caso di cambiamento del titolare della registrazione internazionale, la o le parti contraenti nei confronti delle quali il nuovo proprietario adempie le condizioni per essere il titolare di una registrazione internazionale;
-- v) in caso di cambiamento del titolare della registrazione internazionale che non concerne tutti i disegni o modelli industriali e tutte le parti contraenti, i numeri dei disegni o modelli industriali e le parti contraenti designate interessate dal cambiamento del titolare; e
-- vi) l’importo degli emolumenti pagati e il modo di pagamento oppure le istruzioni atte a permettere il prelievo di tale importo dal conto aperto presso l’Ufficio internazionale, nonché l’identità dell’autore del pagamento o delle istruzioni.
+- a)
+
+  La domanda d’iscrizione di una modifica deve contenere o indicare, oltre alla modifica richiesta:
+
+  - i) il numero della registrazione internazionale in questione;
+  - ii) il nome del titolare o il nome del rappresentante se la modifica riguarda il nome e l’indirizzo del rappresentante;
+  - iii) in caso di cambiamento del titolare della registrazione internazionale, il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, nonché l’indirizzo di posta elettronica del nuovo proprietario della registrazione internazionale;
+  - iv) in caso di cambiamento del titolare della registrazione internazionale, la o le parti contraenti nei confronti delle quali il nuovo proprietario adempie le condizioni per essere il titolare di una registrazione internazionale;
+  - v) in caso di cambiamento del titolare della registrazione internazionale che non concerne tutti i disegni o modelli industriali e tutte le parti contraenti, i numeri dei disegni o modelli industriali e le parti contraenti designate interessate dal cambiamento del titolare; e
+  - vi) l’importo degli emolumenti pagati e il modo di pagamento oppure le istruzioni atte a permettere il prelievo di tale importo dal conto aperto presso l’Ufficio internazionale, nonché l’identità dell’autore del pagamento o delle istruzioni.
+
+- b) La domanda d’iscrizione di un cambiamento del titolare della registrazione internazionale può essere accompagnata da una comunicazione di costituzione di un rappresentante per il nuovo titolare. Sempreché siano adempiute le condizioni enunciate alla regola 3.2)b) e c), la data a partire dalla quale la costituzione di un rappresentante ha effetto è la data di iscrizione del cambiamento del titolare conformemente al capoverso 6)b). In tal caso, l’iscrizione del cambiamento del titolare nel registro internazionale indica la costituzione di un rappresentante.[^chap4-lvlu1-3]
 
 \3) [*Domanda irricevibile*] Un cambiamento di titolare di una registrazione internazionale non può essere iscritto nei confronti di una parte contraente designata se tale parte contraente non è vincolata da un Atto a cui la parte contraente, o una delle parti contraenti, indicata giusta il capoverso 2) iv) è vincolata.
 
@@ -551,17 +561,16 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 - a) Se la domanda è regolare, l’Ufficio internazionale iscrive senza tardare la modifica nel registro internazionale e ne informa il titolare. Trattandosi dell’iscrizione di un cambiamento del titolare, l’Ufficio internazionale informa sia il nuovo titolare che il titolare precedente.
 - b) La modifica va iscritta alla data in cui la domanda che adempie le condizioni richieste perviene all’Ufficio internazionale. Tuttavia, se la domanda indica che la modifica deve essere iscritta dopo un’altra modifica o dopo il rinnovo della registrazione internazionale, l’Ufficio internazionale acconsente a tale richiesta.
-- c)[^chap4-lvlu1-5] Se un cambiamento di titolare è iscritto a seguito di una domanda presentata dal nuovo proprietario in virtù del capoverso 1) b) ii) e se il precedente titolare si oppone a tale cambiamento rivolgendosi per scritto all’Ufficio internazionale, il cambiamento è considerato non iscritto. L’Ufficio internazionale lo notifica alle due parti.
+- c)[^chap4-lvlu1-4] Se un cambiamento di titolare è iscritto a seguito di una domanda presentata dal nuovo proprietario in virtù del capoverso 1) b) ii) e se il precedente titolare si oppone a tale cambiamento rivolgendosi per scritto all’Ufficio internazionale, il cambiamento è considerato non iscritto. L’Ufficio internazionale lo notifica alle due parti.
 
 \7) [*Iscrizione di un cambiamento parziale del titolare*] La cessione o qualsiasi altra trasmissione della registrazione internazionale per una parte soltanto dei disegni o modelli industriali o soltanto per alcune parti contraenti designate è iscritta nel registro internazionale sotto il numero della registrazione internazionale da cui la parte è stata ceduta o trasmessa; la parte ceduta o trasmessa è cancellata sotto il numero di detta registrazione internazionale ed è oggetto di una registrazione internazionale separata. Tale registrazione internazionale separata porta il numero della registrazione internazionale da cui la parte è stata ceduta o trasmessa, accompagnato da una lettera maiuscola.
 
 \8) [*Iscrizione della fusione di registrazioni internazionali*] Se, in seguito a un cambiamento parziale del titolare, la medesima persona diventa titolare di più registrazioni internazionali, su domanda di tale persona tali registrazioni sono fuse e i capoversi 1)–6) sono applicabili *mutatis mutandi*s. La registrazione internazionale risultante dalla fusione porta il numero della registrazione internazionale da cui la parte è stata ceduta o trasmessa, accompagnato, all’occorrenza, da una lettera maiuscola.
 
-[^chap4-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja dell’8 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Correzione del 18 nov. 2022 ([RU 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
-[^chap4-lvlu1-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
-[^chap4-lvlu1-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
-[^chap4-lvlu1-4]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
-[^chap4-lvlu1-5]: Introdotta dalla Dec. dell’Assemblea dell’Unione dell’Aja dell’8 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Correzione del 18 nov. 2022 ([RU 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
+[^chap4-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 22 lug. 2022, in vigore dal 1° apr. 2023 ([RU 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
+[^chap4-lvlu1-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja dell’8 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Correzione del 18 nov. 2022 ([RU 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
+[^chap4-lvlu1-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 22 lug. 2022, in vigore dal 1° apr. 2023 ([RU 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
+[^chap4-lvlu1-4]: Introdotta dalla Dec. dell’Assemblea dell’Unione dell’Aja dell’8 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Correzione del 18 nov. 2022 ([RU 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 
 ### **Regola 21**<sup>bis</sup> Dichiarazione secondo cui un cambiamento di titolare è senza effetti
 
@@ -650,12 +659,13 @@ Sei mesi prima della scadenza di un periodo di cinque anni, l’Ufficio internaz
 
 [^chap6-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
 
-\1) *Informazioni concernenti le registrazioni internazionali*] L’Ufficio internazionale pubblica nel bollettino i dati pertinenti relativi:
+\1) [*Informazioni concernenti le registrazioni internazionali*] L’Ufficio internazionale pubblica nel bollettino i dati pertinenti relativi:
 
 - i) alle registrazioni internazionali, conformemente alla regola 17;
 - ii) ai rifiuti, indicando se il riesame o il ricorso è possibile, ma senza pubblicare i motivi del rifiuto, e alle altre comunicazioni iscritte in virtù delle regole 18.5) e 18<sup>bis</sup>.3);
 - iii) alle invalidazioni iscritte in virtù della regola 20.2);
-- iv) ai cambiamenti del titolare e alle fusioni, alla modifica del nome o dell’indirizzo del titolare, alle rinunce e alle limitazioni iscritti in virtù della regola 21;
+- iv) ai cambiamenti iscritti in virtù della regola 21;
+- [tab] iv<sup>bis</sup>) alle costituzioni di rappresentanti iscritte in virtù della regola 3.3)a), tranne se sono pubblicate in virtù dei capoversi i) o iv), e alle loro cancellazioni fatte salve le cancellazioni d’ufficio in virtù della regola 3.5)a);
 - v) alle rettifiche effettuate in virtù della regola 22;
 - vi) ai rinnovi iscritti in virtù della regola 25.1);
 - vii) alle registrazioni internazionali che non sono state rinnovate;
@@ -664,11 +674,11 @@ Sei mesi prima della scadenza di un periodo di cinque anni, l’Ufficio internaz
 
 \2) [*Informazioni concernenti le dichiarazioni; altre informazioni*] L’Ufficio internazionale pubblica sul sito Internet dell’Organizzazione ogni dichiarazione fatta da una parte contraente in virtù dell’Atto del 1999, dell’Atto del 1960 o del presente regolamento d’esecuzione nonché l’elenco dei giorni dell’anno civile in corso e di quello successivo, in cui è previsto che l’Ufficio internazionale non sarà aperto al pubblico.[^chap6-lvlu1-3]
 
-\3) [*Modalità di pubblicazione del Bollettino*] Il Bollettino è pubblicato sul sito Internet dell’Organizzazione. La pubblicazione di ogni numero del Bollettino sostituisce l’invio del Bollettino di cui agli articoli 10.3)b) e 16.4) dell’Atto del 1999 e all’articolo 6.3)b) dell’Atto del 1960, e ai fini dell’articolo 8.2) dell’Atto del 1960, si ritiene che il Bollettino perviene ad ognuno degli Uffici interessati il giorno della sua pubblicazione sul sito Internet dell’Organizzazione.[^chap6-lvlu1-4]
+\3) [*Modalità di pubblicazione del Bollettino*] Il Bollettino è pubblicato sul sito Internet dell’Organizzazione. La pubblicazione di ogni numero del Bollettino sostituisce l’invio del Bollettino di cui agli articoli 10.3)b), 16.4) e 17.5) dell’Atto del 1999 e all’articolo 6.3)b) dell’Atto del 1960, e ai fini dell’articolo 8.2) dell’Atto del 1960, si ritiene che il Bollettino perviene ad ognuno degli Uffici interessati il giorno della sua pubblicazione sul sito Internet dell’Organizzazione.[^chap6-lvlu1-4]
 
-[^chap6-lvlu1-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
+[^chap6-lvlu1-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 22 lug. 2022, in vigore dal 1° apr. 2023 ([RU 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
 [^chap6-lvlu1-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
-[^chap6-lvlu1-4]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap6-lvlu1-4]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 22 lug. 2022, in vigore dal 1° apr. 2023 ([RU 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
 
 ## Capitolo 7: Emolumenti
 
@@ -825,7 +835,7 @@ Tariffe[^t-2]
 
 ## I. Domande internazionali
 
-[^t-2]: Aggiornate dalle Dec. dell’Assemblea dell’Unione dell’Aja del 30 set. 2008 ([RU 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)), del 1° ott. 2009 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)) e del 30 set. 2014, in vigore dal 1° gen. 2015 ([RU 2015 3715](https://fedlex.data.admin.ch/eli/oc/2015/621)).
+[^t-2]: Aggiornate dalla cifra I della Dec. dell’Assemblea dell’Unione dell’Aja del 30 set. 2008 ( [[RU 2011 963](https://www.fedlex.admin.ch/eli/oc/2011/145/it)](https://fedlex.data.admin.ch/eli/oc/2011/145)), del 1° ott. 2009 ( [[RU 2011 969](https://www.fedlex.admin.ch/eli/oc/2011/146/it)](https://fedlex.data.admin.ch/eli/oc/2011/146)) e del 30 set. 2014, in vigore dal 1° gen. 2015 ( [[RU 2015 3715](https://www.fedlex.admin.ch/eli/oc/2015/621/it)](https://fedlex.data.admin.ch/eli/oc/2015/621)).
 
 <table>
 <tr><th></th><th>Franchi svizzeri</th></tr>

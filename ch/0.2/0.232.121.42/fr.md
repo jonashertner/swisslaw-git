@@ -3,11 +3,11 @@ sr: "0.232.121.42"
 title: "Règlement d'exécution du 30 septembre 2003 de l’Acte de Genève (1999) de l’Arrangement de La Haye concernant l’enregistrement international des dessins et modèles industriels (avec barème)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: fr
-version: 2022-11-18
+version: 2023-04-01
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20221118/fr/xml/fedlex-data-admin-ch-eli-cc-2006-236-20221118-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20221118/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2006-236-20230401-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Adopté par l’Assemblée de l’Union de La Haye le 30 septembre 2003
 
 Entré en vigueur le 1<sup>er</sup> avril 2004
 
-(État le 18 novembre 2022)
+(État le 1<sup>er</sup> avril 2023)
 
 [^t-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 30 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2014 547](https://fedlex.data.admin.ch/eli/oc/2014/110)).
 
@@ -296,7 +296,8 @@ Les communications adressées au Bureau international doivent être effectuées 
   - ii) pour les parties contractantes dont l’Office effectue un examen quant au fond qui n’est pas un examen de nouveauté: niveau deux;
   - iii) pour les parties contractantes dont l’Office effectue un examen quant au fond, y compris un examen d’office quant à la nouveauté ou un examen de nouveauté à la suite d’une opposition formée par des tiers: niveau trois.
 
-- c) i) Toute partie contractante dont la législation l’habilite à appliquer les niveaux deux ou trois visés au sous-alinéa b) peut, dans une déclaration, notifier ce fait au Directeur général. Une partie contractante peut aussi préciser, dans sa déclaration, qu’elle opte pour l’application du niveau deux, même si sa législation l’habilite à appliquer le niveau trois.
+- c)
+  - i) Toute partie contractante dont la législation l’habilite à appliquer les niveaux deux ou trois visés au sous-alinéa b) peut, dans une déclaration, notifier ce fait au Directeur général. Une partie contractante peut aussi préciser, dans sa déclaration, qu’elle opte pour l’application du niveau deux, même si sa législation l’habilite à appliquer le niveau trois.
   - ii) Toute déclaration visée au point i) prend effet trois mois après sa réception par le Directeur général ou à toute date ultérieure indiquée dans la déclaration. Elle peut aussi être retirée en tout temps par notification adressée au Directeur général; dans ce cas, le retrait prend effet un mois après sa réception par le Directeur général ou à toute date ultérieure indiquée dans la notification. En l’absence d’une telle déclaration ou lorsque la déclaration a été retirée, le niveau un est réputé être le niveau applicable à la taxe de désignation standard pour ladite partie contractante.[^12-1]
 
 - a) La déclaration visée à l’art. 7.2) de l’Acte de 1999 ou à la règle 36.1) peut également préciser que la taxe de désignation individuelle due pour la Partie contractante concernée comprend deux parties, la première devant être payée au moment du dépôt de la demande internationale et la seconde à une date ultérieure qui est fixée conformément à la législation de la Partie contractante concernée.
@@ -325,9 +326,12 @@ Les communications adressées au Bureau international doivent être effectuées 
 
 **Examen par le Bureau international**
 
-\1) [*Délai pour corriger les irrégularités*] Si le Bureau international constate que la demande internationale ne remplit pas, au moment de sa réception par le Bureau international, les conditions requises, il invite le déposant à la régulariser dans un délai de trois mois à compter de la date de l’invitation adressée par le Bureau international.
+\1) [*Délai pour corriger les irrégularités*]
 
 \3) [*Demande internationale réputée abandonnée; remboursement des taxes*] Lorsqu’une irrégularité, autre qu’une irrégularité visée à l’art. 8.2) b) de l’Acte de 1999, n’est pas corrigée dans le délai visé à l’al. 1), la demande internationale est réputée abandonnée et le Bureau international rembourse les taxes payées pour cette demande, après déduction d’un montant correspondant à la taxe de base.
+
+- a) Si le Bureau international constate que la demande internationale ne remplit pas, au moment de sa réception par le Bureau international, les conditions requises, il invite le déposant à la régulariser dans un délai de trois mois à compter de la date de l’invitation adressée par le Bureau international.
+- b) Nonobstant le sous-alinéa a), si le montant des taxes perçues au moment de la réception de la demande internationale est inférieur au montant correspondant à la taxe de base pour un dessin ou modèle, le Bureau international peut en premier lieu inviter le déposant à payer au moins le montant correspondant à la taxe de base pour un dessin ou modèle dans un délai de deux mois à compter de la date de l’invitation adressée par le Bureau international.[^14-1]
 
 \2) [*Irrégularités entraînant le report de la date de dépôt de la demande internatio**nale*] Lorsque, à la date à laquelle elle est reçue par le Bureau international, la demande internationale comporte une irrégularité qui est prescrite comme une irrégularité entraînant le report de la date de dépôt de la demande internationale, la date de dépôt est la date à laquelle la correction de cette irrégularité est reçue par le Bureau international. Les irrégularités qui sont prescrites comme des irrégularités entraînant le report de la date de dépôt de la demande internationale sont les suivantes:
 
@@ -340,9 +344,10 @@ Les communications adressées au Bureau international doivent être effectuées 
   - ii) des indications permettant d’établir l’identité du déposant,
   - iii) des indications suffisantes pour permettre d’entrer en relations avec le déposant ou son mandataire éventuel,
   - iv) une reproduction ou, conformément à l’art. 5.1)iii) de l’Acte de 1999, un spécimen de chaque dessin ou modèle industriel faisant l’objet de la demande internationale,
-  - v) la désignation d’au moins une Partie contractante.[^14-1]
+  - v) la désignation d’au moins une Partie contractante.[^14-2]
 
-[^14-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 1<sup>er</sup> oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+[^14-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
+[^14-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 1<sup>er</sup> oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
 
 #### Règle 15
 
@@ -545,6 +550,8 @@ le Bureau international inscrit toutefois le refus au registre international et 
 
 \1) [*Présentation de la demande*]
 
+\2) [*Contenu de la demande*]
+
 \3) [*Demande irrecevable*] Un changement de titulaire d’un enregistrement international ne peut être inscrit à l’égard d’une Partie contractante désignée lorsque cette Partie contractante n’est pas liée par un Acte auquel la Partie contractante, ou l’une des Parties contractantes, indiquée selon l’al. 2) iv) est liée.
 
 \4) [*Demande irrégulière*] Lorsque la demande d’inscription ne remplit pas les conditions requises, le Bureau international notifie ce fait au titulaire et, si la demande a été présentée par une personne qui prétend être le nouveau propriétaire, à cette personne.
@@ -557,40 +564,44 @@ le Bureau international inscrit toutefois le refus au registre international et 
 
 \8) [*Inscription de la fusion d’enregistrements internationaux*] Lorsque la même personne devient titulaire de plusieurs enregistrements internationaux issus d’un changement partiel de titulaire, ces enregistrements sont fusionnés à la demande de ladite personne et les al. 1) à 6) s’appliquent *mutatis mutandis*. L’enregistrement international issu de la fusion porte le numéro, accompagné, le cas échéant, d’une lettre majuscule, de l’enregistrement international dont une partie a été cédée ou transmise.
 
-- a)
+- a)[^21-1]
 
   Une demande d’inscription doit être présentée au Bureau international sur le formulaire officiel approprié lorsque cette demande se rapporte à:
 
   - i) un changement de titulaire de l’enregistrement international pour tout ou partie des dessins ou modèles industriels qui font l’objet de l’enregistrement international;
   - ii) un changement de nom ou d’adresse du titulaire;
-  - iii) une renonciation à l’enregistrement international à l’égard d’une, de plusieurs ou de la totalité des Parties contractantes désignées;
-  - iv) une limitation, à l’égard d’une, de plusieurs ou de la totalité des Parties contractantes désignées, portant sur une partie des dessins ou modèles industriels qui font l’objet de l’enregistrement international.
+  - iii) une renonciation à l’enregistrement international à l’égard d’une, de plusieurs ou de la totalité des parties contractantes désignées;
+  - iv) une limitation, à l’égard d’une, de plusieurs ou de la totalité des parties contractantes désignées, portant sur une partie des dessins ou modèles industriels qui font l’objet de l’enregistrement international;
+  - v) un changement de nom ou d’adresse du mandataire.
 
-- b)[^21-1]
+- b)[^21-2]
 
   La demande doit être présentée par le titulaire et signée par celui-ci; toutefois, une demande d’inscription de changement de titulaire peut être présentée par le nouveau propriétaire, à condition qu’elle soit:
 
   - i) signée par le titulaire, ou
   - ii) signée par le nouveau propriétaire et accompagnée d’un document apportant la preuve que le nouveau propriétaire semble être l’ayant cause du titulaire.
 
-\2) [*Contenu de la demande*] La demande d’inscription d’une modification doit contenir ou indiquer, en sus de la modification demandée:
+- a)
 
-- i)[^21-2] le numéro de l’enregistrement international concerné;
-- ii)[^21-3] le nom du titulaire, sauf lorsque la modification porte sur le nom ou l’adresse du mandataire;
-- iii)[^21-4] en cas de changement de titulaire de l’enregistrement international, le nom et l’adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique, du nouveau propriétaire de l’enregistrement international;
-- iv) en cas de changement de titulaire de l’enregistrement international, la ou les Parties contractantes à l’égard desquelles le nouveau propriétaire remplit les conditions pour être le titulaire d’un enregistrement international;
-- v) en cas de changement de titulaire de l’enregistrement international qui ne concerne pas tous les dessins ou modèles industriels et toutes les Parties contractantes, les numéros des dessins ou modèles industriels et les Parties contractantes désignées concernés par le changement de titulaire, et
-- vi) le montant des taxes payées et le mode de paiement, ou l’instruction de prélever le montant requis des taxes sur un compte ouvert auprès du Bureau international, ainsi que l’identité de l’auteur du paiement ou des instructions.
+  La demande d’inscription d’une modification doit contenir ou indiquer, en sus de la modification demandée:
+
+  - i) le numéro de l’enregistrement international concerné;
+  - ii) le nom du titulaire, ou le nom du mandataire lorsque la modification porte sur le nom ou l’adresse du mandataire;
+  - iii) en cas de changement de titulaire de l’enregistrement international, le nom et l’adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique du nouveau propriétaire de l’enregistrement international;
+  - iv) en cas de changement de titulaire de l’enregistrement international, la ou les parties contractantes à l’égard desquelles le nouveau propriétaire remplit les conditions pour être le titulaire d’un enregistrement international;
+  - v) en cas de changement de titulaire de l’enregistrement international qui ne concerne pas tous les dessins ou modèles industriels et toutes les parties contractantes, les numéros des dessins ou modèles industriels et les parties contractantes désignées concernés par le changement de titulaire, et
+  - vi) le montant des taxes payées et le mode de paiement, ou l’instruction de prélever le montant requis des taxes sur un compte ouvert auprès du Bureau international, ainsi que l’identité de l’auteur du paiement ou des instructions.
+
+- b) La demande d’inscription d’un changement de titulaire de l’enregistrement international peut être accompagnée d’une communication visant à constituer un mandataire pour le nouveau titulaire. Pour autant que les conditions énoncées à la règle 3.2)b) et c) soient remplies, la date de prise d’effet de cette constitution de mandataire est la date d’inscription du changement de titulaire conformément à l’al. 6)b). Dans ce cas, l’inscription du changement de titulaire au registre international indique cette constitution de mandataire.[^21-3]
 
 - a) Pour autant que la demande soit régulière, le Bureau international inscrit à bref délai la modification au registre international et en informe le titulaire. S’agissant de l’inscription d’un changement de titulaire, le Bureau international informe à la fois le nouveau titulaire et le titulaire antérieur.
 - b) La modification doit être inscrite à la date de la réception par le Bureau international de la demande remplissant les conditions requises. Toutefois, lorsque la demande indique que la modification doit être inscrite après une autre modification, ou après le renouvellement de l’enregistrement international, le Bureau international donne suite à cette demande.
-- c)[^21-5] Lorsqu’un changement de titulaire est inscrit à la suite d’une requête présentée par le nouveau propriétaire conformément à l’alinéa 1)b)ii) et que le précédent titulaire s’oppose à ce changement par écrit en s’adressant au Bureau international, le changement est considéré comme n’ayant pas été inscrit. Le Bureau international en avise les deux parties en conséquence.
+- c)[^21-4] Lorsqu’un changement de titulaire est inscrit à la suite d’une requête présentée par le nouveau propriétaire conformément à l’alinéa 1)b)ii) et que le précédent titulaire s’oppose à ce changement par écrit en s’adressant au Bureau international, le changement est considéré comme n’ayant pas été inscrit. Le Bureau international en avise les deux parties en conséquence.
 
-[^21-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
-[^21-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
-[^21-3]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
-[^21-4]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
-[^21-5]: Introduite par la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
+[^21-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
+[^21-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
+[^21-3]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
+[^21-4]: Introduite par la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 
 #### Règle 21<sup>bis</sup>
 
@@ -684,24 +695,25 @@ Six mois avant l’expiration d’une période de cinq ans, le Bureau internatio
 
 \2) [*Informations concernant les déclarations; autres informations*] Le Bureau international publie sur le site Internet de l’Organisation toute déclaration faite par une Partie contractante en vertu de l’Acte de 1999, de l’Acte de 1960 ou du présent règlement d’exécution ainsi que la liste des jours où il est prévu que le Bureau international ne sera pas ouvert au public pendant l’année civile en cours et l’année suivante.[^26-2]
 
-\3) [*Mode de publication du bulletin*] Le bulletin est publié sur le site Internet de l’Organisation. La publication de chaque numéro du bulletin est réputée remplacer l’envoi du bulletin visé aux art. 10.3)b) et 16.4) de l’Acte de 1999 et à l’art. 6.3)b) de l’Acte de 1960, et, aux fins de l’art. 8.2) de l’Acte de 1960, chaque numéro du bulletin est réputé être reçu par chaque Office concerné à la date de sa publication sur le site Internet de l’Organisation.[^26-3]
+\3) [*Mode de publication du bulletin*] Le bulletin est publié sur le site Internet de l’Organisation. La publication de chaque numéro du bulletin est réputée remplacer l’envoi du bulletin visé aux art. 10.3)b), 16.4) et 17.5) de l’Acte de 1999 et à l’art. 6.3)b) de l’Acte de 1960, et, aux fins de l’art. 8.2) de l’Acte de 1960, chaque numéro du bulletin est réputé être reçu par chaque Office concerné à la date de sa publication sur le site Internet de l’Organisation.[^26-3]
 
 \1) [*Informations concernant les enregistrements internationaux*] Le Bureau international publie dans le bulletin les données pertinentes relatives:
 
 - i) aux enregistrements internationaux, conformément à la règle 17;
-- ii) aux refus, en indiquant s’il y a une possibilité de réexamen ou de recours, mais sans publier les motifs de refus, et aux autres communications inscrites en vertu des règles 18.5) et 18<sup>bis</sup>*.*3);
+- ii) aux refus, en indiquant s’il y a une possibilité de réexamen ou de recours, mais sans publier les motifs de refus, et aux autres communications inscrites en vertu des règles 18.5) et 18<sup>bis</sup>.3);
 - iii) aux invalidations inscrites en vertu de la règle 20.2);
-- iv) aux changements de titulaire et fusions, modifications du nom ou de l’adresse du titulaire, renonciations et limitations inscrits en vertu de la règle 21;
+- iv) aux changements inscrits en vertu de la règle 21;
+- iv<sup>bis</sup>) aux constitutions de mandataires inscrites en vertu de la règle 3.3)a), sauf si elles sont publiées en vertu des al. i) ou iv), et leurs radiations autres que les radiations d’office en vertu de la règle 3.5)a);
 - v) aux rectifications effectuées en vertu de la règle 22;
 - vi) aux renouvellements inscrits en vertu de la règle 25.1);
 - vii) aux enregistrements internationaux qui n’ont pas été renouvelés;
 - viii) aux radiations inscrites en vertu de la règle 12.3)d);
-- xi) aux déclarations selon lesquelles un changement de titulaire est sans effet et au retrait de telles déclarations inscrites en vertu de la règle 21<sup>bis</sup>.[^26-4]
+- ix) aux déclarations selon lesquelles un changement de titulaire est sans effet, et au retrait de telles déclarations, inscrits en vertu de la règle 21<sup>bis</sup>.[^26-4]
 
 [^26-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 5 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
 [^26-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 5 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
-[^26-3]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 5 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
-[^26-4]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 2 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
+[^26-3]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
+[^26-4]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 140](https://fedlex.data.admin.ch/eli/oc/2023/140)).
 
 ## Chapitre 7 Taxes
 
@@ -715,14 +727,14 @@ Six mois avant l’expiration d’une période de cinq ans, le Bureau internatio
 
 \3) [*Modes de paiement*] Les taxes sont payées au Bureau international conformément aux instructions administratives.
 
-\4) [*Indications accompagnant le paiement*] Lors du paiement d’une taxe au Bureau international, il y a lieu d’indiquer,
-
 \5) [*Date du paiement*]
 
 \6) [*Modification du montant des taxes*]
 
 - a) Sous réserve du sous‑al. b) et de la règle 12.3 c), les taxes sont payées directement au Bureau international.
 - b) Lorsque la demande internationale est déposée par l’intermédiaire de l’Office de la Partie contractante du déposant, les taxes qui doivent être payées en relation avec cette demande peuvent l’être par l’intermédiaire de cet Office si celui‑ci accepte de les percevoir et de les transférer et que le déposant ou le titulaire le souhaite. Tout Office qui accepte de percevoir et de transférer lesdites taxes notifie ce fait au Directeur général.
+
+\4) [*Indications accompagnant le paiement*] Lors du paiement d’une taxe au Bureau international, il y a lieu d’indiquer:
 
 - i) avant l’enregistrement international, le nom du déposant, le dessin ou modèle industriel concerné et l’objet du paiement;
 - ii) après l’enregistrement international, le nom du titulaire, le numéro de l’enregistrement international concerné et l’objet du paiement.
