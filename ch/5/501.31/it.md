@@ -4,11 +4,11 @@ title: Ordinanza del 27 aprile 2005 sul servizio sanitario coordinato (OSSC)
 short: OSSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/345"
 language: it
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2005-04-27
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/345/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2005-345-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/345/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/345/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2005-345-20230401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/345/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/345/20230101/it"
 
 (OSSC)
 
-del 27 aprile 2005 (Stato 1° gennaio 2023)
+del 27 aprile 2005 (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -87,21 +87,22 @@ L’UFPP in relazione al SSC ha seguenti compiti:[^4-2]
 
 **Elaborazione dei dati**[^6-1]
 
-L’UFPP[^6-2] elabora dati personali per il SCC secondo l’articolo 35 dell’ordinanza del 16 dicembre 2009[^6-3] sui sistemi d’informazione militari.
+L’UFPP elabora dati personali per il SCC secondo l’articolo 35 dell’ordinanza del 16 dicembre 2009[^6-2] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS.
 
-[^6-1]: Nuovo testo giusta il n. I 3 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^6-2]: Nuova espr. giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^6-3]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^6-1]: Nuovo testo giusta l’all. n. 4 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^6-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 7
 
 **Istituzioni interessate**
 
-A livello federale l’UFPP è appoggiato dalle istituzioni seguenti:
+A livello federale l’UFPP[^7-1] è appoggiato dalle istituzioni seguenti:
 
 - a. la Conferenza direttiva SSC;
 - b. l’OCSAN;
 - c. i gruppi specialistici.
+
+[^7-1]: Nuova espr. giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 8
 

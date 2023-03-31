@@ -4,11 +4,11 @@ title: Ordonnance du 27 avril 2005 sur le Service sanitaire coordonné (OSSC)
 short: OSSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/345"
 language: fr
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2005-04-27
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/345/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-345-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/345/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/345/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2005-345-20230401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/345/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/345/20230101/fr"
 
 (OSSC)
 
-du 27 avril 2005 (État le 1<sup>er</sup> janvier 2023)
+du 27 avril 2005 (État le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
@@ -87,21 +87,22 @@ L’OFPP est chargé des tâches suivantes en lien avec le SSC:[^4-2]
 
 **Traitement de données**[^6-1]
 
-L’OFPP[^6-2] traite les données personnelles pour le SSC conformément à l’art. 35 de l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée[^6-3].
+L’OFPP traite pour le SSC les données personnelles visées à l’art. 35 de l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée et du DDPS[^6-2].
 
-[^6-1]: Nouvelle teneur selon le ch. I 3 de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^6-2]: Nouvelle expression selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)). Il a été tenu compte de cette mod. dans tout le texte.
-[^6-3]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^6-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^6-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 7
 
 **Institutions concernées**
 
-À l’échelon de la Confédération, l’OFPP est appuyé par les institutions suivantes:
+À l’échelon de la Confédération, l’OFPP[^7-1] est appuyé par les institutions suivantes:
 
 - a. la conférence de direction du SSC;
 - b. l’OSANC;
 - c. des groupes techniques.
+
+[^7-1]: Nouvelle expression selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 8
 

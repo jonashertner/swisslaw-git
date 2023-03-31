@@ -4,11 +4,11 @@ title: Verordnung vom 27. April 2005 über den Koordinierten Sanitätsdienst (VK
 short: VKSD
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/345"
 language: de
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2005-04-27
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/345/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2005-345-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/345/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/345/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2005-345-20230401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/345/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/345/20230101/de"
 
 (VKSD)
 
-vom 27. April 2005 (Stand am 1. Januar 2023)
+vom 27. April 2005 (Stand am 1. April 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -87,21 +87,22 @@ Das BABS hat in Bezug auf den KSD folgende Aufgaben:[^4-2]
 
 **Bearbeitung von Daten**[^6-1]
 
-Das BABS[^6-2] bearbeitet Personendaten für den KSD nach Artikel 35 der Verordnung vom 16. Dezember 2009[^6-3] über die militärischen Informationssysteme.
+Das BABS bearbeitet für den KSD Personendaten nach Artikel 35 der Verordnung vom 16. Dezember 2009[^6-2] über militärische und andere Informationssysteme im VBS.
 
-[^6-1]: Fassung gemäss Ziff. I 3 der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^6-2]: Ausdruck gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)). Die Anpassung wurde im ganzen Erlass berücksichtigt.
-[^6-3]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^6-1]: Fassung gemäss Anhang Ziff. 4 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^6-2]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 7
 
 **Beteiligte Institutionen**
 
-Das BABS wird auf Stufe Bund durch folgende Institutionen unterstützt:
+Das BABS[^7-1] wird auf Stufe Bund durch folgende Institutionen unterstützt:
 
 - a. Leitungskonferenz KSD;
 - b. SANKO;
 - c. Fachgruppen.
+
+[^7-1]: Ausdruck gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)). Die Anpassung wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 8
 
