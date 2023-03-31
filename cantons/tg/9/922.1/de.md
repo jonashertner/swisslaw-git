@@ -4,13 +4,12 @@ number: "922.1"
 title: Gesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel
 short: JG
 language: de
-version: 2018-04-01
-valid_until: 2023-03-31
-version_adopted: 2017-05-17
+version: 2023-04-01
+version_adopted: 2022-11-23
 adopted: 1992-05-13
 in_force: 1993-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/922.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2312/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2635/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ JG
 
 (JG)
 
-vom 13.05.1992 (Stand 01.04.2018)
+vom 13.05.1992 (Stand 01.04.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -149,10 +148,10 @@ vom 13.05.1992 (Stand 01.04.2018)
 
 <sup>1</sup> Die Pacht eines Jagdreviers erlischt:
 
-- 1\. mit Ablauf der Pachtdauer;
-- 2\. bei Nichtbezahlung des Pachtzinses;
-- 3\. wenn die Mindestzahl der Pächter während mehr als sechs Monaten unterschritten wird;
-- 4\. wenn ein ordnungsgemässer Jagdbetrieb oder die erforderliche Hege nicht gewährleistet sind.
+- 1\. mit Ablauf der Pachtdauer
+- 2\. bei Nichtbezahlung des Pachtzinses
+- 3\. wenn die Mindestzahl der Pächter während mehr als sechs Monaten unterschritten wird
+- 4\. wenn ein ordnungsgemässer Jagdbetrieb oder die erforderliche Hege nicht gewährleistet sind
 
 <sup>2</sup> In den Fällen gemäss Ziff. 2 bis Ziff. 4 ist die Jagdgesellschaft vorgängig zu mahnen.
 
@@ -168,6 +167,22 @@ vom 13.05.1992 (Stand 01.04.2018)
 
 [^14-1]: SR [922.0](https://db.clex.ch/link/Bund/922.0/de)
 [^14-2]: SR [922.01](https://db.clex.ch/link/Bund/922.01/de)
+
+#### § 14a
+
+**Schiesswesen, Aus- und Weiterbildung**
+
+<sup>1</sup> Der Kanton fördert das jagdliche Schiesswesen.
+
+<sup>2</sup> Er regelt die Aus- und Weiterbildung der Jäger und der Organe der Jagdpolizei.
+
+#### § 14b
+
+**Jagdschiessstand**
+
+<sup>1</sup> Der Kanton erstellt und betreibt die Infrastruktur für die Sicherstellung der jagdlichen Schiessausbildung und Weiterbildung, für die Abnahme von Jagdprüfungen sowie für das Erbringen der periodischen Treffsicherheitsnachweise.
+
+<sup>2</sup> Er kann den Betrieb an Dritte auslagern und entsprechende Leistungsvereinbarungen abschliessen.
 
 #### § 15
 
@@ -190,8 +205,8 @@ vom 13.05.1992 (Stand 01.04.2018)
 
 <sup>1</sup> Ohne Prüfung sind jagdberechtigt:
 
-- 1\. Personen, welche beim Inkrafttreten dieses Gesetzes Pächter oder Jagdaufseher eines thurgauischen Reviers sind;
-- 2\. kantonale und ausserkantonale Jägerprüfungskandidaten in der Zeit zwischen bestandener Schiessprüfung und Prüfungsende an höchstens fünf Tagen pro Jahr;
+- 1\. Personen, die beim Inkrafttreten dieses Gesetzes Pächter oder Jagdaufseher eines thurgauischen Reviers sind
+- 2\. kantonale und ausserkantonale Jägerprüfungskandidaten in der Zeit zwischen bestandener Schiessprüfung und Prüfungsende an höchstens fünf Tagen pro Jahr
 - 3\. Jagdgäste, die in einem anderen Kanton oder im Ausland jagdberechtigt sind, jedoch keine anerkannte Jägerprüfung bestanden haben, an höchstens fünf Tagen pro Jahr.
 
 #### § 17
@@ -244,11 +259,11 @@ vom 13.05.1992 (Stand 01.04.2018)
 
 <sup>2</sup> Ohne Bewilligung des Besitzers ist die Jagd untersagt:
 
-- 1\. in Wohn- und Wirtschaftsgebäuden und deren nächster Umgebung;
-- 2\. in Baumschulen und eingefriedeten Obstanlagen;
-- 3\. in Weinbergen bis nach der Weinlese;
-- 4\. in Park- und Gartenanlagen;
-- 5\. auf allseitig eingefriedeten Grundstücken ausserhalb des Waldes.
+- 1\. in Wohn- und Wirtschaftsgebäuden und deren nächster Umgebung
+- 2\. in Baumschulen und eingefriedeten Obstanlagen
+- 3\. in Weinbergen bis nach der Weinlese
+- 4\. in Park- und Gartenanlagen
+- 5\. auf allseitig eingefriedeten Grundstücken ausserhalb des Waldes
 
 <sup>3</sup> Vor der Errichtung von Ansitzbauten sind die Grundbesitzer zu orientieren.
 
@@ -296,7 +311,7 @@ vom 13.05.1992 (Stand 01.04.2018)
 
 <sup>2</sup> Werden Hunde bei der Verfolgung von Wild oder verwilderte Katzen im Wald angetroffen, können sie durch Organe der Jagdpolizei oder durch Mitglieder der Jagdgesellschaft abgeschossen werden.
 
-<sup>3</sup> Nicht in Gebrauch stehende Zäune in Wald und Flur, die für Wildtiere eine Verletzungsgefahr darstellen, sind durch den Eigentümer zu entfernen. Kommt der Eigentümer dieser Verpflichtung nicht nach, setzt ihm die für die Jagd zuständige Fachstelle eine angemessene Frist zur Entfernung der Zäune an und droht ihm die Ersatzvornahme im Sinne von § 86 des Gesetzes über die Verwaltungsrechtspflege[^26-1] an.
+<sup>3</sup> Nicht in Gebrauch stehende Zäune in Wald und Flur, die für Wildtiere eine Verletzungsgefahr darstellen, sind durch den Eigentümer zu entfernen. Kommt der Eigentümer dieser Verpflichtung nicht nach, setzt ihm die für die Jagd zuständige Fachstelle eine angemessene Frist zur Entfernung der Zäune an und droht ihm die Ersatzvornahme im Sinne von § 86 des Gesetzes über die Verwaltungsrechtspflege (VRG)[^26-1] an.
 
 <sup>4</sup> Revierpächter und Jagdaufseher sind verpflichtet, verletzte oder kranke Tiere während des ganzen Jahres zu erlegen.
 
@@ -304,11 +319,11 @@ vom 13.05.1992 (Stand 01.04.2018)
 
 #### § 27
 
-**Information, Ausbildung**
+**Information**
 
 <sup>1</sup> Der Regierungsrat kann Massnahmen treffen, durch welche die Bevölkerung über die Lebensweise der wildlebenden Tiere, deren Bedürfnisse und deren Schutz orientiert wird.
 
-<sup>2</sup> Er regelt die Aus- und Weiterbildung der Jäger und der Organe der Jagdpolizei.
+<sup>2</sup> …
 
 #### § 28
 
@@ -378,13 +393,11 @@ vom 13.05.1992 (Stand 01.04.2018)
 
 **Haftung des Kantons**
 
-<sup>1</sup> Der Kanton haftet für Schäden an Wald, landwirtschaftlichen Kulturen, Nutztieren oder Infrastrukturanlagen, die durch geschützte Tiere gemäss Art. 13 Abs. 4 JSG[^34-1] oder durch Hirsche, Wildschweine, Dachse, Krähen oder durch kantonal geschützte Tierarten verursacht werden.
+<sup>1</sup> Der Kanton haftet für Schäden an Wald, landwirtschaftlichen Kulturen oder Nutztieren, die durch geschützte Tiere gemäss Art. 13 Abs. 4 JSG, durch Hirsche, Wildschweine, Dachse, Krähen oder durch kantonal geschützte Tierarten verursacht werden. Die Haftung gilt auch für Schäden an Infrastrukturanlagen, die durch Biber verursacht werden.
 
 <sup>2</sup> An den Aufwendungen für die von Hirschen, Wildschweinen oder Dachsen verursachten Schäden hat sich die Jagdgesellschaft in der Regel mit 15 Prozent zu beteiligen.
 
 <sup>3</sup> Der Kanton kann sich an der Deckung von Schäden, die von anderen geschützten Tieren verursacht werden, beteiligen.
-
-[^34-1]: SR [922.0](https://db.clex.ch/link/Bund/922.0/de)
 
 #### § 34a
 
@@ -408,10 +421,10 @@ vom 13.05.1992 (Stand 01.04.2018)
 
 <sup>1</sup> Die Jagdpolizei wird ausgeübt durch:
 
-- 1\. die Jagdaufseher;
-- 2\. die Revierförster und die kantonalen Fischereiaufseher;
-- 3\. die Kantonspolizei;
-- 4\. die Aufseher der eidgenössischen Wildtierschutzgebiete.
+- 1\. die Jagdaufseher
+- 2\. die Revierförster und die kantonalen Fischereiaufseher
+- 3\. die Kantonspolizei
+- 4\. die Aufseher der eidgenössischen Wildtierschutzgebiete
 
 <sup>2</sup> In jedem Revier ist durch die Jagdgesellschaft mindestens ein Jagdaufseher zu bezeichnen, der selber Pächter sein kann. Dieser muss im Revier oder in dessen Nähe wohnen. Die Ernennung bedarf der Genehmigung durch die für die Jagd zuständige Fachstelle.
 
@@ -447,22 +460,10 @@ vom 13.05.1992 (Stand 01.04.2018)
 
 <sup>2</sup> …
 
-<sup>3</sup> Strafurteile und Einstellungsverfügungen, die in Anwendung dieses Gesetzes oder des JSG[^38-1] ergehen, sind der für die Jagd zuständigen Fachstelle mitzuteilen.
+<sup>3</sup> Strafurteile und Einstellungsverfügungen, die in Anwendung dieses Gesetzes oder des JSG ergehen, sind der für die Jagd zuständigen Fachstelle mitzuteilen.
 
-[^38-1]: SR [922.0](https://db.clex.ch/link/Bund/922.0/de)
+#### § 39–40
 
-#### § 39
-
-**...[^39-1]**
-
-[^39-1]: Aufhebung bisherigen Rechtes, ABl. 1992, Seite 923.
-
-#### § 40
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt auf einen vom Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^40-1].
-
-[^40-1]: § 14 Abs. 2, § 20, § 25, § 26 und § 31 vom Bund genehmigt am 13. August 1992, in Kraft gesetzt auf den 1. Januar 1993.
+**…**
 
 ABl. 20/1992; ABl. 38/1992
