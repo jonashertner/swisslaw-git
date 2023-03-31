@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2016 sur l'approvisionnement économique du pa
 short: LAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: fr
-version: 2022-10-01
+version: 2023-04-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-308-20221001-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20221001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230401-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20221001/fr"
 
 (Loi sur l’approvisionnement du pays, LAP)
 
-du 17 juin 2016 (État le 1<sup>er</sup> octobre 2022)
+du 17 juin 2016 (État le 1<sup>er</sup> avril 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -795,8 +795,8 @@ Le Conseil fédéral peut suspendre les dispositions suivantes:
 - 4\.[^annex1-lvlu1-8] l’art. 16, al. 1, de la loi du 24 juin 1902 sur les installations électriques[^annex1-lvlu1-9];
 - 5\.[^annex1-lvlu1-10] les art. 7 et 8 de la loi du 13 mars 1964 sur le travail[^annex1-lvlu1-11];
 - 6\.[^annex1-lvlu1-12] l’art. 2, al. 1, de la loi du 4 octobre 1963 sur les installations de transport par conduites[^annex1-lvlu1-13].
-- 7\.[^annex1-lvlu1-14] les art. 31, al. 2, et 33 de la loi fédérale du 24 janvier 1991 sur la protection des eaux[^annex1-lvlu1-15];
-- 8\.[^annex1-lvlu1-16] l’art. 9, al. 1, let. a et b, de la loi fédérale du 21 juin 1991 sur la pêche[^annex1-lvlu1-17].
+- 7\.[^annex1-lvlu1-14] …
+- 8\.[^annex1-lvlu1-15] …
 
 [^annex1-lvlu1-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^annex1-lvlu1-2]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
@@ -811,10 +811,8 @@ Le Conseil fédéral peut suspendre les dispositions suivantes:
 [^annex1-lvlu1-11]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 [^annex1-lvlu1-12]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
 [^annex1-lvlu1-13]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^annex1-lvlu1-14]: Introduit par le ch. I de l’O du 30 sept. 2022, en vigueur du 1<sup>er</sup> oct. 2022 au 30 avr. 2023 ([RO 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)).
-[^annex1-lvlu1-15]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^annex1-lvlu1-16]: Introduit par le ch. I de l’O du 30 sept. 2022, en vigueur du 1<sup>er</sup> oct. 2022 au 30 avr. 2023 ([RO 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)).
-[^annex1-lvlu1-17]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^annex1-lvlu1-14]: Introduit par le ch. I de l’O du 30 sept. 2022 ([RO 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Abrogé par le ch. I de l’O du 17 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
+[^annex1-lvlu1-15]: Introduit par le ch. I de l’O du 30 sept. 2022 ([RO 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Abrogé par le ch. I de l’O du 17 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
 
 Annexe 2
 

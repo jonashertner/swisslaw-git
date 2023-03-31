@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2016 sull'approvvigionamento economico del 
 short: LAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: it
-version: 2022-10-01
+version: 2023-04-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2017-308-20221001-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20221001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230401-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20221001/it"
 
 (Legge sull’approvvigionamento del Paese, LAP)
 
-del 17 giugno 2016 (Stato 1° ottobre 2022)
+del 17 giugno 2016 (Stato 1° aprile 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -791,12 +791,12 @@ Il Consiglio federale può dichiarare temporaneamente inapplicabili le seguenti 
 - 1\. l’articolo 2 capoverso 2 della legge federale del 19 dicembre 1958[^annex1-lvlu1-1] sulla circolazione stradale;
 - 2\.[^annex1-lvlu1-2] gli articoli 2, 8 capoverso 2 e 22 della legge del 22 giugno 1979[^annex1-lvlu1-3] sulla pianificazione del territorio;
 - 3\.[^annex1-lvlu1-4] l’articolo 10*a* della legge del 7 ottobre 1983[^annex1-lvlu1-5] sulla protezione dell’ambiente;
-- 3<sup>bis</sup>.[^annex1-lvlu1-6] l’articolo 15*e* della legge del 24 giugno 1902[^annex1-lvlu1-7] sugli impianti elettrici;
-- 4\.[^annex1-lvlu1-8] l’articolo 16 capoverso 1 della legge del 24 giugno 1902[^annex1-lvlu1-9] sugli impianti elettrici;
-- 5\.[^annex1-lvlu1-10] gli articoli 7 e 8 della legge del 13 marzo 1964[^annex1-lvlu1-11] sul lavoro;
-- 6\.[^annex1-lvlu1-12] l’articolo 2 capoverso 1 della legge del 4 ottobre 1963[^annex1-lvlu1-13] sugli impianti di trasporto in condotta;
-- 7\.[^annex1-lvlu1-14] gli articoli 31 capoverso 2 e 33 della legge federale del 24 gennaio 1991[^annex1-lvlu1-15] sulla protezione delle acque;
-- 8\.[^annex1-lvlu1-16] l’articolo 9 capoverso 1 lettere a e b della legge federale del 21 giugno 1991[^annex1-lvlu1-17] sulla pesca.
+- 3<sup>bis</sup>.[^annex1-lvlu1-6] l’articolo 15e della legge del 24 giugno 1902[2](https://www.fedlex.admin.ch/eli/oc/2022/545/it) sugli impianti elettrici;
+- 4\.[^annex1-lvlu1-7] l’articolo 16 capoverso 1 della legge del 24 giugno 1902[^annex1-lvlu1-8] sugli impianti elettrici;
+- 5\.[^annex1-lvlu1-9] gli articoli 7 e 8 della legge del 13 marzo 1964[^annex1-lvlu1-10] sul lavoro;
+- 6\.[^annex1-lvlu1-11] l’articolo 2 capoverso 1 della legge del 4 ottobre 1963[^annex1-lvlu1-12] sugli impianti di trasporto in condotta;
+- 7\.[^annex1-lvlu1-13] ...
+- 8\.[^annex1-lvlu1-14] ...
 
 [^annex1-lvlu1-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^annex1-lvlu1-2]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
@@ -804,17 +804,14 @@ Il Consiglio federale può dichiarare temporaneamente inapplicabili le seguenti 
 [^annex1-lvlu1-4]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
 [^annex1-lvlu1-5]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^annex1-lvlu1-6]: Introdotto dal n. I dell’O del 30 set. 2022, in vigore dal 1° ott. 2022 al 30 apr. 2023 ([RU 2022 545](https://fedlex.data.admin.ch/eli/oc/2022/545)).
-[^annex1-lvlu1-7]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^annex1-lvlu1-8]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
-[^annex1-lvlu1-9]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^annex1-lvlu1-10]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
-[^annex1-lvlu1-11]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^annex1-lvlu1-12]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
-[^annex1-lvlu1-13]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^annex1-lvlu1-14]: Introdotto dal n. I dell’O del 30 set. 2022, in vigore dal 1° ott. 2022 al 30 apr. 2023 ([RU 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)).
-[^annex1-lvlu1-15]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^annex1-lvlu1-16]: Introdotto dal n. I dell’O del 30 set. 2022, in vigore dal 1° ott. 2022 al 30 apr. 2023 ([RU 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)).
-[^annex1-lvlu1-17]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^annex1-lvlu1-7]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
+[^annex1-lvlu1-8]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^annex1-lvlu1-9]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
+[^annex1-lvlu1-10]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^annex1-lvlu1-11]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
+[^annex1-lvlu1-12]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^annex1-lvlu1-13]: Introdotto dal n. I dell’O del 30 set. 2022 ([RU 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Abrogato dal n. I dell’O del 17 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
+[^annex1-lvlu1-14]: Introdotto dal n. I dell’O del 30 set. 2022 ([RU 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Abrogato dal n. I dell’O del 17 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
 
 Allegato 2
 
@@ -834,5 +831,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 [^annex2-lvlu1-lvlu1-1]
 
-[^annex2-lvlu1-1]: [[RU 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 24, [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018)[1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 1, [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 48, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 18, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)I 15]
+[^annex2-lvlu1-1]: [[RU 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)I 15]
 [^annex2-lvlu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308).
