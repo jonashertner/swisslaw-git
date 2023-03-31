@@ -4,159 +4,98 @@ number: "310.200"
 title: Ordinanza sugli avvocati
 short: OAvv
 language: it
-version: 2013-01-01
-corrected: 2014-12-12
-version_adopted: 2012-09-11
+version: 2023-04-01
+valid_until: 2023-12-31
+version_adopted: 2023-04-04
 adopted: 2023-04-04
 in_force: 2023-04-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/310.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1486/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3310/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Ordinanza sugli avvocati
 
-emanata dal Governo il 20 giugno 2006
+(OAvv)
 
-visto l'art. 19 della legge sugli avvocati[^t-1]
+del 04.04.2023 (stato 01.04.2023)
 
-I. Esame
+emanata dal Governo il 4 aprile 2023
 
-[^t-1]: CSC 310.100
+visti l'art. 18 e l'art. 19 della legge sugli avvocati[^ingress-1] nonché l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-2]
+
+[^ingress-1]: CSC [310.100](https://www.gr-lex.gr.ch/data/310.100/it)
+[^ingress-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
 
 #### Art. 1
 
-**Pubblicazione**
+**Oggetto**
 
-<sup>1</sup> Di regola la Commissione di vigilanza organizza gli esami di avvocatura due volte all'anno. L'esame viene annunciato dalla Commissione di vigilanza nel Foglio ufficiale cantonale.
+<sup>1</sup> La presente ordinanza disciplina l'esecuzione della legge sugli avvocati[^1-1] nella misura in cui non trovi applicazione l'ordinanza sull'esame di avvocatura[^1-2].
 
-<sup>2</sup> La domanda di ammissione all'esame di avvocatura deve essere inoltrata alla Commissione di vigilanza entro il termine annunciato, allegando le comprove richieste.
+[^1-1]: CSC [310.100](https://www.gr-lex.gr.ch/data/310.100/it)
+[^1-2]: CSC [310.210](https://www.gr-lex.gr.ch/data/310.210/it)
 
 #### Art. 2
 
-**Svolgimento**
+**Commissione di vigilanza 1. Composizione**
 
-<sup>1</sup> Viene prima sostenuto l'esame scritto. Esso dura dieci ore. La Commissione di vigilanza rende noti i mezzi ausiliari ammessi.
+<sup>1</sup> Il presidente della Commissione di vigilanza decide in merito:
 
-<sup>2</sup> L'esame orale dura almeno un'ora e mezza. Non sono ammessi mezzi ausiliari.
+- a) al conferimento dell'autorizzazione al praticantato;
+- b) all'ammissione all'esame di avvocatura;
+- c) all'iscrizione nel registro cantonale degli avvocati.
+
+<sup>2</sup> Negli altri casi la Commissione di vigilanza decide nella composizione di cinque membri, nella misura in cui la legge sulla giustizia amministrativa[^2-1] non preveda nulla di diverso.
+
+<sup>3</sup> Se un membro della Commissione di vigilanza non può partecipare a una decisione o è in stato di ricusa, il presidente convoca un sostituto.
+
+[^2-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
 
 #### Art. 3
 
-**Valutazione**
+**2. Decisione**
 
-<sup>1</sup> L'esame viene valutato con voti da 1 a 6. Il voto 6 rappresenta la valutazione più alta, il voto 1 la valutazione più bassa. Il voto 4 è sufficiente.
+<sup>1</sup> Di norma la Commissione di vigilanza decide dopo una consultazione. Per deliberare validamente la Commissione di vigilanza deve essere al completo. Vale la maggioranza semplice dei voti.
 
-<sup>2</sup> Viene ammesso all'esame orale soltanto chi ha ottenuto almeno il voto 3,5 nell'esame scritto.
+<sup>2</sup> La Commissione di vigilanza può decidere per circolazione degli atti, se tutti i membri sono d'accordo e se nessun membro richiede una consultazione.
 
-<sup>3</sup> Per la valutazione globale finale i voti medi dell'esame scritto e di quello orale hanno lo stesso peso. Se la media tra i due esami è almeno 4, l'esame di avvocatura è superato.
-
-<sup>4</sup> Se l'esame globale non è stato superato, esso deve essere ripetuto integralmente.
+<sup>3</sup> L'attuario prende parte al procedimento in conformità alle istruzioni impartite dal presidente. Egli ha voto consultivo nel processo decisionale.
 
 #### Art. 4
 
-**Rilascio del certificato di capacità**
+**Registro degli avvocati ed elenco pubblico**
 
-<sup>1</sup>[^4-1]La Commissione di vigilanza rilascia il certificato di capacità sotto forma di un diploma e di una decisione.
-
-<sup>2</sup> La Commissione di vigilanza tiene un registro sui certificati di capacità rilasciati in seguito al superamento dell'esame cantonale.
-
-[^4-1]: Testo giusta DG dell'11 settembre 2012; entrato in vigore il 1° gennaio 2013 1.1.2013 1
-
-### II. Pubblicazioni
+<sup>1</sup> Le iscrizioni nel registro cantonale degli avvocati e nell'elenco pubblico, nonché la relativa cancellazione vengono pubblicate nel Foglio ufficiale cantonale.
 
 #### Art. 5
 
-**Certificato di capacità**
+**Indennità dei membri della Commissione di vigilanza**
 
-Il rilascio del certificato di capacità viene pubblicato nel Foglio ufficiale cantonale.
+<sup>1</sup> I membri della Commissione di vigilanza ricevono una diaria di 500 franchi. Se l'intervento, compreso il tempo di trasferta, dura meno di quattro ore, viene versata soltanto metà della diaria.
+
+<sup>2</sup> L'articolo 17 dell'ordinanza per i collaboratori a titolo accessorio del Cantone dei Grigioni[^5-1] non si applica ai membri della Commissione di vigilanza. Le restanti disposizioni dell'ordinanza per i collaboratori a titolo accessorio del Cantone dei Grigioni sono applicabili, nella misura in cui la legge sugli avvocati e la presente ordinanza non prevedano nulla di diverso.
+
+[^5-1]: CSC [170.420](https://www.gr-lex.gr.ch/data/170.420/it)
 
 #### Art. 6
 
-**Registro degli avvocati ed elenco pubblico**
-
-<sup>1</sup> L'iscrizione nel registro cantonale degli avvocati e nell'elenco pubblico, nonché la relativa cancellazione vengono pubblicate nel Foglio ufficiale cantonale.
-
-<sup>2</sup> Il registro cantonale degli avvocati viene pubblicato nell'Annuario cantonale.
-
-### III. Misure disciplinari
-
-#### Art. 7
-
-**Registro delle misure disciplinari**
-
-<sup>1</sup> La Commissione di vigilanza tiene un registro delle misure disciplinari.
-
-<sup>2</sup> Le autorità giudiziarie e amministrative notificano alla Commissione di vigilanza le misure disciplinari proncunciate sulla base delle competenze in materia di polizia procedurale o delle udienze.
-
-### IV. Indennità e tasse
-
-#### Art. 8
-
-**Indennità della Commissione di vigilanza**
-
-<sup>1</sup>[^8-1]I membri della Commissione di vigilanza ricevono una diaria di 500 franchi. Se l'intervento, compreso il tempo di trasferta, dura meno di quattro ore, viene versata soltanto metà della diaria.
-
-<sup>2</sup> Per il resto si applicano per analogia le disposizioni dell'ordinanza per i dipendenti in servizio parziale del Cantone dei Grigioni[^8-2].
-
-[^8-1]: Testo giusta DG del 21 dicembre 2010; entrato in vigore il 1° gennaio 2011
-[^8-2]: CSC 170.420
-
-#### Art. 9
-
 **Tasse**
 
-<sup>1</sup>[^9-1]Vengono riscosse le tasse seguenti:
+<sup>1</sup> I richiedenti devono versare le seguenti tasse:
 
-- a) per l'esame secondo l'articolo 9 della legge sugli avvocati fr. 900.–
+- a) per l'iscrizione nel registro cantonale degli avvocati: — fr. 200.–
+- b) per il conferimento di un'autorizzazione al praticantato e la relativa proroga: — fr. 100.–
+- c) per un'attestazione disciplinare: — fr. 50.–
 
-**fr. 900.– fr. 650.–**
+<sup>2</sup> Non vengono riscosse tasse:
 
-- b) per l'esame attitudinale secondo l'articolo 31 LLCA[^9-2]
+- a) per cancellazioni dal registro cantonale degli avvocati e dall'elenco pubblico nonché per la relativa pubblicazione;
+- b) per mutazioni nel registro cantonale degli avvocati e nell'elenco pubblico.
 
-- c) per il colloquio secondo l'articolo 32 LLCA
+<sup>3</sup> Le tasse per altri atti ufficiali e decisioni della Commissione di vigilanza si conformano alle disposizioni generali vigenti per le autorità amministrative cantonali. L'importo massimo delle tasse si conforma alla legge sugli avvocati[^6-1].
 
-- d) per la compilazione del certificato di capacità e la pubblicazione del rilascio
+[^6-1]: CSC [310.100](https://www.gr-lex.gr.ch/data/310.100/it)
 
-**fr. 100.–**
-
-- e)
-
-- f) per le iscrizioni, le cancellazioni, le mutazioni nel registro o negli elenchi pubblici, nonché le loro pubblicazioni
-
-**fr. 200.–**
-
-- g)
-
-- h)
-
-- i)
-
-**fr. 100.– fr. 50.–**
-
-- k) per il certificato di praticantato
-
-- l) per un'attestazione disciplinare
-
-<sup>2</sup>[^9-3]Se secondo l'articolo 3 capoverso 2 dell'ordinanza sugli avvocati un candidato non è ammesso all'esame orale, vengono rimborsati 300 franchi.
-
-<sup>3</sup>[^9-4]Le spese di procedura per altri atti ufficiali e decisioni della Commissione di vigilanza si conformano alle disposizioni generali vigenti per le autorità amministrative cantonali. L'importo massimo delle tasse si conforma alla legge sugli avvocati.
-
-[^9-1]: Testo e abrogazioni delle lettere e, g - i giusta DG del 21 dicembre 2010; entrati in vigore il 1° gennaio 2011 2 1.1.2013
-[^9-2]: RS 935.61
-[^9-3]: Testo giusta DG del 21 dicembre 2010; entrato in vigore il 1° gennaio 2011
-[^9-4]: Introduzione giusta art. 18 n. 2 dell'ordinanza sulle spese nelle procedure amministrative del 12 dic. 2006; entrata in vigore il 1° gen. 2007
-
-### V. Disposizione finale
-
-#### Art. 10
-
-**Entrata in vigore, abrogazione del diritto previgente**
-
-<sup>1</sup> La presente ordinanza è posta in vigore[^10-1] dal Governo.
-
-<sup>2</sup> A questa data viene abrogata l'ordinanza sulle tasse per l'avvocatura del 24 settembre 1991[^10-2].
-
-[^10-1]: Posta in vigore il 1° lug. 2006 con DG del 20 giu. 2006.
-[^10-2]: AGS 1991, 2532 1.1.2013 3
+2023-010
