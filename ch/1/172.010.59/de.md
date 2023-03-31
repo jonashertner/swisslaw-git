@@ -4,11 +4,11 @@ title: Verordnung vom 19. Oktober 2016 über Identitätsverwaltungs-Systeme und 
 short: IAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: de
-version: 2022-06-01
+version: 2023-04-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2016-610-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2016-610-20230401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220601/de"
 
 (IAMV)
 
-vom 19. Oktober 2016 (Stand am 1. Juni 2022)
+vom 19. Oktober 2016 (Stand am 1. April 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf das Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997[^ingress-1] (RVOG), auf Artikel 27 Absätze 5 und 6 des Bundespersonalgesetzes vom 24. März 2000[^ingress-2] und auf die Artikel 2*a* Absatz 2 und 186 des Bundesgesetzes vom 3. Oktober 2008[^ingress-3] über die militärischen Informationssysteme (MIG),[^ingress-4]
+gestützt auf das Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997[^ingress-1] (RVOG), auf Artikel 27 Absätze 5 und 6 des Bundespersonalgesetzes vom 24. März 2000[^ingress-2] und auf die Artikel 2*a* Absatz 2 und 186 Absätze 1 und 2 des Bundesgesetzes vom 3. Oktober 2008[^ingress-3] über militärische und andere Informationssysteme im VBS (MIG),[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-3]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^ingress-4]: Fassung gemäss Ziff. I der V vom 14. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)).
+[^ingress-4]: Fassung gemäss Anhang Ziff. 2 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -424,7 +424,7 @@ Die Verordnung vom 6. Dezember 2013[^30-1] über die vom BIT betriebenen Verzeic
 
 Diese Verordnung tritt am 1. Januar 2017 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 11 Abs. 1 und 4 sowie 13 Abs. 1 und 2)
 

@@ -4,11 +4,11 @@ title: Ordinanza del 19 ottobre 2016 sui sistemi di gestione delle identità e s
 short: OIAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: it
-version: 2022-06-01
+version: 2023-04-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2016-610-20220601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2016-610-20230401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220601/it"
 
 (OIAM)
 
-del 19 ottobre 2016 (Stato 1° giugno 2022)
+del 19 ottobre 2016 (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
-vista la legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione (LOGA); visto l’articolo 27 capoversi 5 e 6 della legge del 24 marzo 2000[^ingress-2] sul personale federale; visti gli articoli 2*a* capoverso 2 e 186 della legge federale del 3 ottobre 2008[^ingress-3] sui sistemi d’informazione militari (LSIM),[^ingress-4]
+vista la legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione (LOGA); visto l’articolo 27 capoversi 5 e 6 della legge del 24 marzo 2000[^ingress-2] sul personale federale; visti gli articoli 2*a* capoverso 2 e 186 capoversi 1 e 2 della legge federale del 3 ottobre 2008[^ingress-3] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS (LSIM),[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-3]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 14 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)).
+[^ingress-4]: Nuovo testo giusta l’all. n. 2 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -424,7 +424,7 @@ L’ordinanza del 6 dicembre 2013[^30-1] sui servizi di elenchi della Confederaz
 
 La presente ordinanza entra in vigore il 1° gennaio 2017.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 11 cpv. 1 e 4 nonché 13 cpv. 1 e 2)
 

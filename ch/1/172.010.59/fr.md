@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 2016 sur les systèmes de gestion des données 
 short: OIAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: fr
-version: 2022-06-01
+version: 2023-04-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2016-610-20220601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-610-20230401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220601/fr"
 
 (OIAM)
 
-du 19 octobre 2016 (Etat le 1<sup>er</sup> juin 2022)
+du 19 octobre 2016 (État le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
-vu la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^ingress-1], vu l’art. 27, al. 5 et 6, de la loi du 24 mars 2000 sur le personnel de la Confédération[^ingress-2], vu les art. 2*a*, al. 2, et 186 de la loi fédérale du 3 octobre 2008 sur les systèmes d’informations de l’armée (LSIA)[^ingress-3],[^ingress-4]
+vu la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^ingress-1], vu l’art. 27, al. 5 et 6, de la loi du 24 mars 2000 sur le personnel de la Confédération[^ingress-2], vu les art. 2*a*, al. 2, et 186, al. 1 et 2, de la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée et du DDPS (LSIA)[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-3]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)).
+[^ingress-4]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ## Section 1 Dispositions générales
 
@@ -424,7 +424,7 @@ L’ordonnance du 6 décembre 2013 sur les services d’annuaires de la Conféd�
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2017
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 11, al. 1 et 4, et 13, al. 1 et 2)
 
@@ -483,6 +483,6 @@ Remarque préliminaire: pour la signification des astérisques (\*), voir l’ar
 <tr><td>1. Degré de contrôle</td><td></td><td>x</td><td></td></tr>
 <tr><td>2. Date de la prochaine répétition du contrôle</td><td></td><td>x</td><td></td></tr>
 <tr><td>[tab] g. Données qui ne peuvent être traitées que dans le système IAM exploité par la Base d’aide au commandement de l’armée suisse (art. 5, al. 1, let. c)</td><td></td><td></td><td></td></tr>
-<tr><td>1. ...</td><td></td><td></td><td></td></tr>
+<tr><td>1. …</td><td></td><td></td><td></td></tr>
 <tr><td>2. Caractéristiques biométriques personnelles particulières: scan de l’iris, scan des veines, empreinte digitale, empreinte de la main, caractéristiques de la forme du visage et profil de la voix (art. 2*a* LSIA)</td><td></td><td>x</td><td></td></tr>
 </table>
