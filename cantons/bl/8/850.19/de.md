@@ -4,13 +4,13 @@ number: "850.19"
 title: Kantonale Asylverordnung
 short: kAV
 language: de
-version: 2023-01-01
-valid_until: 2023-03-31
+version: 2023-04-01
+valid_until: 2023-12-31
 version_adopted: 2022-11-29
 adopted: 2007-10-16
 in_force: 2008-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/850.19"
-pdf: "https://bl.clex.ch/api/de/versions/3459/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3461/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3459/pdf_file"
 
 (kAV)
 
-Vom 16.10.2007 (Stand 01.01.2023)
+Vom 16.10.2007 (Stand 01.04.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -123,13 +123,7 @@ beschliesst:
 
 #### § 7
 
-**Anrechnung von Einkünften und Vermögen**
-
-<sup>1</sup> Zur Festlegung der Unterstützung von Personen gemäss § 1 werden alle Einkünfte sowie alle Vermögen angerechnet. Vorbehalten bleibt Abs. 2.
-
-<sup>2</sup> Bei Personen gemäss § 1 Bst. a, b und c werden Erwerbseinkünfte von CHF 400.– pro Person und Monat oder von CHF 700.– pro Haushalt und Monat anteilsmässig nicht angerechnet (freie Einkünfte). Der Anteil richtet sich nach dem Beschäftigungsgrad.
-
-<sup>3</sup> Gefälligkeitszuwendungen bei der Teilnahme an einem Förderungprogramm oder für die Ausübung einer Beschäftigung werden nicht an das Einkommen angerechnet.
+**…**
 
 #### § 8
 
@@ -241,6 +235,20 @@ beschliesst:
 <sup>5</sup> Das Amt leitet den Bericht der zahnärztlichen Person sowie gegebenenfalls des Vertrauenszahnarztes an die Sozialhilfebehörde zum Entscheid über das Gesuch weiter.
 
 [^15-1]: [SGS 850.11](https://bl.clex.ch/data/850.11/de/art14)
+
+#### § 15a
+
+**Zuschüsse und Abzüge (§ 6<sup>bis</sup> und 6<sup>ter</sup> SHG)**
+
+<sup>1</sup> Personen gemäss § 1 Bst. d und e haben keinen Anspruch auf Einkommensfreibeträge.
+
+<sup>2</sup> Personen gemäss § 1 erhalten keine pauschale Minderung.
+
+#### § 15b
+
+**Freie Vermögensbeträge (§ 7 Abs. 3 SHG)**
+
+<sup>1</sup> Unterstützte Personen gemäss § 1 haben keinen Anspruch auf freie Vermögensbeträge.
 
 #### § 16
 
