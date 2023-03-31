@@ -4,13 +4,13 @@ number: "210.300"
 title: "Legge sul notariato *"
 short: LNot
 language: it
-version: 2017-01-01
-corrected: 2017-09-05
-version_adopted: 2016-02-02
+version: 2023-04-01
+valid_until: 2024-12-31
+version_adopted: 2022-06-14
 adopted: 2004-10-18
 in_force: 2005-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/210.300"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2701/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3315/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2701/pdf_file"
 
 (LNot)
 
-del 18.10.2004 (stato 01.01.2017)
+del 18.10.2004 (stato 01.04.2023)
 
 Il Gran Consiglio del Cantone dei Grigioni,
 
@@ -101,7 +101,8 @@ decide:
 - e) l'evasione di ricorsi contro decisioni in materia di tasse delle notaie e dei notai;
 - f) l'evasione di denunce e ricorsi contro notaie e notai;
 - g) l'apertura e lo svolgimento di inchieste disciplinari, nonché l'adozione di misure disciplinari;
-- h) la comunicazione di raccomandazioni e il rilascio d'informazioni su questioni di diritto notarile di importanza generale.
+- h) la comunicazione di raccomandazioni e il rilascio d'informazioni su questioni di diritto notarile di importanza generale;
+- i) l'evasione dei compiti concernenti la legalizzazione elettronica e la documentazione pubblica elettronica che non sono stati attribuiti a nessun'altra autorità.
 
 <sup>3</sup> La Commissione notarile presenta annualmente rapporto all'attenzione del Gran Consiglio.
 
@@ -142,9 +143,13 @@ decide:
 
 **Procedura, rimedi giuridici**
 
-<sup>1</sup> Se la presente legge non prevede disposizioni particolari, si applica per analogia la legge sulla giustizia amministrativa.
+<sup>1</sup> Se la presente legge non prevede disposizioni particolari, per tutti i procedimenti dinanzi alla Commissione notarile si applica la legge sulla giustizia amministrativa[^9-1].
 
 <sup>2</sup> Le decisioni della Commissione notarile, salvo quelle ai sensi dell'articolo 10 capoverso 2, possono essere impugnate mediante ricorso al Tribunale amministrativo.
+
+<sup>3</sup> La Commissione notarile può emanare decisioni in merito all'esame di notaio nel dispositivo. Le persone interessate possono richiedere per iscritto una decisione motivata alla Commissione notarile entro dieci giorni dalla comunicazione. L'articolo 48 della legge sulla giustizia amministrativa fa stato per analogia.
+
+[^9-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
 
 ## 2. Notaie e notai con patente
 
@@ -157,6 +162,10 @@ decide:
 <sup>2</sup> L'esame si compone di una parte scritta e di una parte orale. Esso viene tenuto e valutato da tre membri della Commissione notarile che devono essere in possesso del certificato di capacità per notaie e notai.
 
 <sup>3</sup> Chi per la terza volta non supera l'esame, non può più essere ammesso ad un ulteriore esame.
+
+<sup>4</sup> Una volta iniziati, gli esami possono essere interrotti soltanto per motivi importanti. Se un esame viene interrotto senza un motivo sufficiente, viene considerato come non superato.
+
+<sup>5</sup> Se durante l'esame una persona agisce in modo disonesto, la Commissione notarile può dichiarare l'esame come non superato.
 
 #### Art. 11
 
@@ -351,13 +360,15 @@ decide:
 
 #### Art. 26
 
-**Disposizioni comuni**
+**Forma di legalizzazione**
 
 <sup>1</sup> La formula di legalizzazione deve essere apposta sul documento a cui essa serve. La notaia o il notaio può allestire anche un allegato e unirlo adeguatamente al relativo documento.
 
 <sup>2</sup> La notaia o il notaio aggiunge ad ogni formula di legalizzazione il luogo, la data, la sua firma ed il suo timbro.
 
 <sup>3</sup> La formula di legalizzazione è ammessa in una lingua qualsiasi che la notaia o il notaio padroneggia a sufficienza.
+
+<sup>4</sup> Il notaio può procedere a legalizzazioni elettroniche secondo le direttive del diritto federale.
 
 #### Art. 27
 
@@ -413,34 +424,36 @@ decide:
 
 #### Art. 33
 
-**Lettura e sottoscrizione, unitarietà dell'atto**
+**Documentazione pubblica di dichiarazioni di volontà 1. Unitarietà dell'atto, lettura e sottoscrizione**
 
-<sup>1</sup> Le parti comparenti devono leggere l'atto pubblico da sole o ascoltarne la lettura da parte della notaia o del notaio, quindi approvarlo esplicitamente e in seguito sottoscriverlo di proprio pugno con il proprio nome.
+<sup>1</sup> Durante la documentazione pubblica di dichiarazioni di volontà tutte le persone partecipanti devono essere presenti. La procedura deve essere condotta senza sostanziali interruzioni.
 
-<sup>2</sup> Durante la documentazione pubblica tutte le persone partecipanti devono essere presenti e la procedura deve essere condotta senza sostanziali interruzioni.
+<sup>2</sup> Le persone partecipanti devono leggere l'atto pubblico da sole o farselo leggere dalla notaia o dal notaio, quindi approvarlo esplicitamente e in seguito sottoscriverlo di proprio pugno.
 
 <sup>3</sup> Restano riservate particolari forme di documentazione pubblica secondo il diritto federale e secondo altre disposizioni della presente legge.
 
 #### Art. 34
 
-**Documentazione pubblica di dichiarazioni di volontà**
+**2. Formula di documentazione pubblica**
 
-<sup>1</sup> La documentazione pubblica consiste nella conferma formale da parte della notaia o del notaio, alla fine dell'atto pubblico, che questo è stato portato a conoscenza delle parti, che contiene la volontà delle parti comunicata al notaio o alla notaia e che è stato sottoscritto da esse.
+<sup>1</sup> La formula di documentazione pubblica consiste nella conferma formale da parte della notaia o del notaio, alla fine dell'atto pubblico, che questo è stato portato a conoscenza delle parti, che contiene la volontà delle parti comunicata alla notaia o al notaio e che è stato sottoscritto da esse. La notaia o il notaio aggiunge a questa conferma il luogo, la data, la sua firma e il suo timbro.
 
-<sup>2</sup> La notaia o il notaio aggiunge ad ogni formula di documentazione pubblica il luogo, la data, la sua firma ed il suo timbro.
+<sup>2</sup> …
 
 #### Art. 35
 
-**Documentazione pubblica di deliberazioni**
+**Documentazione di fatti 1. Documentazione pubblica di decisioni di assemblee o sedute**
 
-<sup>1</sup> La notaia o il notaio deve partecipare all'assemblea o alla seduta e redigere un verbale quale atto pubblico.
+<sup>1</sup> La notaia o il notaio procede alla documentazione pubblica di decisioni di assemblee o sedute redigendo un verbale quale atto pubblico. La notaia o il notaio deve partecipare alle assemblee o alle sedute documentate pubblicamente.
 
-<sup>2</sup> Il verbale deve contenere almeno:
+<sup>1<sup>bis</sup></sup> La notaia o il notaio può documentare pubblicamente le decisioni di assemblee o sedute prese per iscritto o per via elettronica, se la sua partecipazione è garantita e se il diritto federale ammette questa forma di adozione delle decisioni.
 
-- a) l'indicazione del luogo e la data dell'assemblea o della seduta;
-- b) la nomina della o del presidente, di chi stende il verbale, nonché delle scrutatrici o degli scrutatori;
-- c) le osservazioni della o del presidente sulla convocazione, sulla presenza e sul quorum, nonché eventuali opposizioni allo svolgimento;
-- d) tutte le decisioni prese e tutti i risultati delle votazioni, nella misura in cui necessitino di una documentazione pubblica.
+<sup>2</sup> Il verbale deve contenere almeno le indicazioni necessarie secondo il diritto federale nonché gli accertamenti della o del presidente concernenti la convocazione, la partecipazione e il numero legale nonché eventuali obiezioni allo svolgimento.
+
+- a) …
+- b) …
+- c) …
+- d) …
 
 <sup>3</sup> La notaia o il notaio aggiunge a questo verbale il luogo, la data, la sua firma ed il suo timbro.
 
@@ -448,7 +461,7 @@ decide:
 
 #### Art. 36
 
-**Altre documentazioni pubbliche**
+**2. Altre documentazioni di fatti**
 
 <sup>1</sup> La notaia o il notaio deve indicare, quale atto pubblico, la procedura o lo stato da documentare pubblicamente nel modo più preciso possibile in un verbale.
 
@@ -635,6 +648,6 @@ decide:
 
 <sup>3</sup> Alle procedure in sospeso dinanzi alla Commissione notarile deve essere applicato il nuovo diritto. Fanno eccezione le procedure disciplinari, se il vecchio diritto risulta più favorevole per gli interessati.
 
-[^52-1]: Il termine di referendum è scaduto inutilizzato il 26 gen. 2005. Posta in vigore con DG del 1° feb. 2005 con effetto retroattivo al 1° gen. 2005.
+[^52-1]: Il termine di referendum è scaduto inutilizzato il 26 gen. 2005. Posta in vigore il 1° mag. 2005 con DG del 26 apr. 2005.
 
 -

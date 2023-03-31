@@ -4,13 +4,13 @@ number: "210.300"
 title: "Lescha davart il notariat *"
 short: LNot
 language: rm
-version: 2017-01-01
-corrected: 2017-09-05
-version_adopted: 2016-02-02
+version: 2023-04-01
+valid_until: 2024-12-31
+version_adopted: 2022-06-14
 adopted: 2004-10-18
 in_force: 2005-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/210.300"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2701/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3315/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2701/pdf_file"
 
 (LNot)
 
-dals 18-10-2004 (versiun dals 01-01-2017)
+dals 18-10-2004 (versiun dals 01-04-2023)
 
 Il cussegl grond dal chantun Grischun,
 
@@ -101,7 +101,8 @@ concluda:
 - e) tractar recurs cunter las disposiziuns da taxas da las persunas da notariat;
 - f) tractar accusaziuns e recurs cunter las persunas da notariat;
 - g) avrir e realisar inquisiziuns disciplinaras sco er ordinar mesiras disciplinaras;
-- h) communitgar recumandaziuns e dar scleriments davart fatgs dal dretg notarial ch'èn d'impurtanza generala.
+- h) communitgar recumandaziuns e dar scleriments davart fatgs dal dretg notarial ch'èn d'impurtanza generala;
+- i) liquidar las incumbensas che pertutgan la legalisaziun electronica e la documentaziun electronica e che n'èn betg vegnidas attribuidas ad in'autra autoritad.
 
 <sup>3</sup> La cumissiun da notariat rapporta annualmain al cussegl grond.
 
@@ -144,9 +145,11 @@ concluda:
 
 **Procedura, meds legals**
 
-<sup>1</sup> Uschenavant che questa lescha na cuntegna naginas disposiziuns spezialas, vala la lescha davart la giurisdicziun administrativa[^9-1] confurm al senn.
+<sup>1</sup> Uschenavant che questa lescha na cuntegna naginas disposiziuns spezialas, vala la Lescha davart la giurisdicziun administrativa[^9-1] per tut las proceduras davant la Cumissiun da notariat.
 
 <sup>2</sup> Cunter decisiuns da la cumissiun da notariat, cun excepziun da quellas tenor l'artitgel 10 alinea 2, po vegnir fatg recurs tar la dretgira administrativa.
+
+<sup>3</sup> La Cumissiun da notariat po decretar decisiuns davart l'examen da notariat en il dispositiv. Entaifer 10 dis dapi la communicaziun pon las persunas pertutgadas pretender en scrit ina decisiun motivada tar la Cumissiun da notariat. L'artitgel 48 da la Lescha davart la giurisdicziun administrativa vala confurm al senn.
 
 [^9-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
 
@@ -161,6 +164,10 @@ concluda:
 <sup>2</sup> L'examen consista d'ina part en scrit e d'ina part a bucca. El vegn realisà e giuditgà da trais commembras u commembers da la cumissiun da notariat che ston posseder l'attest da qualificaziun per persunas da notariat.
 
 <sup>3</sup> Tgi che na reussescha la terza giada betg l'examen, na po betg pli vegnir admess ad in ulteriur examen.
+
+<sup>4</sup> Suenter il cumenzament pon ils examens vegnir interruts mo per motivs impurtants. Sch'in examen vegn interrut senza motiv suffizient, vala el sco betg reussì.
+
+<sup>5</sup> Sch'ina persuna engiona durant l'examen, po la Cumissiun da notariat declerar che l'examen na saja betg reussì.
 
 #### Art. 11
 
@@ -357,13 +364,15 @@ concluda:
 
 #### Art. 26
 
-**Disposiziuns communablas**
+**Furma da la legalisaziun**
 
 <sup>1</sup> La furmla da legalisaziun sto vegnir fixada sin quel document, al qual ella serva. La persuna da notariat po er elavurar in fegl agiuntà e colliar quel en moda adequata cun il document respectiv.
 
 <sup>2</sup> A mintga furmla da legalisaziun agiunta la persuna da notariat l'indicaziun dal lieu, la data, sia suttascripziun e ses bul.
 
 <sup>3</sup> La furmla da legalisaziun è permessa en mintga lingua che la persuna da notariat sa suffizientamain.
+
+<sup>4</sup> La persuna da notariat po emetter legalisaziuns electronicas tenor las prescripziuns dal dretg federal.
 
 #### Art. 27
 
@@ -419,34 +428,36 @@ concluda:
 
 #### Art. 33
 
-**Leger e suttascriver, unitad da l'act**
+**Documentaziun da decleraziuns da voluntad 1. unitad da l'act, leger e suttascriver**
 
-<sup>1</sup> Las partidas che cumparan ston ubain leger sezzas il document public ubain al laschar preleger da la persuna da notariat, alura approvar explicitamain e suenter suttascriver cun agen maun cun lur num.
+<sup>1</sup> Durant la documentaziun da decleraziuns da voluntad ston tut las persunas participadas esser preschentas. La procedura sto vegnir exequida senza interrupziuns essenzialas.
 
-<sup>2</sup> Durant la documentaziun ston tut las persunas participadas esser preschentas e la procedura sto vegnir exequida senza interrupziuns essenzialas.
+<sup>2</sup> Las persunas participadas ston ubain leger sezzas il document public ubain al laschar preleger da la persuna da notariat, alura al approvar explicitamain e suenter al suttascriver cun agen maun cun lur num.
 
 <sup>3</sup> Resalvadas restan furmlas da documentaziun spezialas tenor il dretg federal e tenor autras disposiziuns da questa lescha.
 
 #### Art. 34
 
-**Documentaziun da decleraziuns da voluntad**
+**2. furmla da documentaziun**
 
-<sup>1</sup> La documentaziun succeda uschia che la persuna da notariat attesta formalmain a la fin dal document public che quel saja vegnì fatg enconuschent a las partidas, che quel cuntegnia lur voluntad e che quella saja vegnida communitgada a la persuna da notariat, sco er ch'il document public saja vegnì suttascrit da las partidas.
+<sup>1</sup> La furmla da documentaziun prevesa che la persuna da notariat attesta formalmain a la fin dal document public che quel saja vegnì rendì enconuschent a las partidas, che quel cuntegnia lur voluntad e che quella saja vegnida communitgada a la persuna da notariat, sco er ch'il document public saja vegnì suttascrit da las partidas. A questa conferma agiuntescha la persuna da notariat l'indicaziun dal lieu, la data, sia suttascripziun e ses bul.
 
-<sup>2</sup> A questa furmla da documentaziun agiunta la persuna da notariat l'indicaziun dal lieu, la data, sia suttascripziun e ses bul.
+<sup>2</sup> …
 
 #### Art. 35
 
-**Documentaziun da conclus**
+**Documentaziun da fatgs 1. documentaziun da conclus da radunanzas u da sesidas**
 
-<sup>1</sup> La persuna da notariat sto esser preschenta a la radunanza u a la sesida e sto manar in protocol sco document public.
+<sup>1</sup> La persuna da notariat documentescha ils conclus da radunanzas u da sesidas cun scriver in protocol sco document public. Ella sto esser preschenta a las radunanzas u a las sesidas che vegnan documentadas.
 
-<sup>2</sup> Il protocol sto almain cuntegnair:
+<sup>1<sup>bis</sup></sup> Conclus da radunanzas u da sesidas, che vegnan prendids per correspundenza u cun agid da meds electronics, pon vegnir documentads da la persuna da notariat, sche sia participaziun è garantida e sch'il dretg federal permetta questa furma da deliberaziun.
 
-- a) l'indicaziun dal lieu e da la data da la radunanza u da la sesida;
-- b) la nominaziun da la parsura u dal parsura, da la protocollista u dal protocollist e da las dumbravuschs u dals dumbravuschs;
-- c) las constataziuns da la parsura u dal parsura davart la convocaziun, davart la preschientscha e davart la cumpetenza da decider sco er davart eventualas objecziuns cunter la realisaziun;
-- d) tut ils conclus prendids e tut ils resultats da las votaziuns, uschenavant ch'igl è necessari da documentar quels.
+<sup>2</sup> Il protocol sto cuntegnair almain las indicaziuns che vegnan pretendidas dal dretg federal e plinavant las constataziuns da la parsura u dal parsura davart la convocaziun, davart la participaziun e davart l'abilitad da decider sco er eventualas objecziuns cunter la realisaziun.
+
+- a) …
+- b) …
+- c) …
+- d) …
 
 <sup>3</sup> A quest protocol agiunta la persuna da notariat l'indicaziun dal lieu, la data, sia suttascripziun e ses bul.
 
@@ -454,7 +465,7 @@ concluda:
 
 #### Art. 36
 
-**Autras documentaziuns da fatgs**
+**2. documentaziun d'auters fatgs**
 
 <sup>1</sup> La persuna da notariat ha da constatar uschè exactamain sco pussaivel la situaziun u l'andament che sto vegnir documentà en in protocol sco document public.
 
@@ -642,6 +653,6 @@ concluda:
 
 <sup>3</sup> Per proceduras pendentas davant la cumissiun da notariat sto vegnir applitgà il dretg nov. Exceptadas da quai èn proceduras disciplinaras, uschenavant ch'il dretg vegl è pli favuraivel per las persunas pertutgadas.
 
-[^52-1]: Il termin da referendum è scadì ils 26 da schaner 2005. Entaifer quest termin n'èn vegnids inoltrads nagins referendums. Messa en vigur retroactivamain cun CR dal 1. da favrer 2005 per il 1. da schaner 2005.
+[^52-1]: Il termin da referendum è scadì ils 26 da schaner 2005. Entaifer quest termin n'èn vegnids inoltrads nagins referendums. Messa en vigur cun CR dals 26 d'avrigl 2005 per il 1. da matg 2005.
 
 -

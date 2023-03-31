@@ -4,13 +4,13 @@ number: "210.300"
 title: Notariatsgesetz
 short: NotG
 language: de
-version: 2017-01-01
-corrected: 2017-09-05
-version_adopted: 2016-02-02
+version: 2023-04-01
+valid_until: 2024-12-31
+version_adopted: 2022-06-14
 adopted: 2004-10-18
 in_force: 2005-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/210.300"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2701/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3315/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2701/pdf_file"
 
 (NotG)
 
-Vom 18.10.2004 (Stand 01.01.2017)
+Vom 18.10.2004 (Stand 01.04.2023)
 
 Der Grosse Rat des Kantons Graubünden,
 
@@ -101,7 +101,8 @@ beschliesst:
 - e) die Behandlung von Beschwerden gegen Gebührenverfügungen der Notariatspersonen;
 - f) die Behandlung von Anzeigen und Beschwerden gegen Notariatspersonen;
 - g) die Eröffnung und Durchführung von Disziplinaruntersuchungen sowie die Anordnung von Disziplinarmassnahmen;
-- h) die Mitteilung von Empfehlungen und die Erteilung von Auskünften über notariatsrechtliche Belange von allgemeiner Bedeutung.
+- h) die Mitteilung von Empfehlungen und die Erteilung von Auskünften über notariatsrechtliche Belange von allgemeiner Bedeutung;
+- i) die Erledigung der Aufgaben betreffend die elektronische Beglaubigung und die elektronische Beurkundung, die keiner anderen Behörde zugewiesen wurden.
 
 <sup>3</sup> Die Notariatskommission erstattet dem Grossen Rat jährlich Bericht.
 
@@ -142,9 +143,13 @@ beschliesst:
 
 **Verfahren, Rechtsmittel**
 
-<sup>1</sup> Soweit dieses Gesetz keine besonderen Bestimmungen enthält, gilt das Verwaltungsrechtspflegegesetz sinngemäss.
+<sup>1</sup> Soweit dieses Gesetz keine besonderen Bestimmungen enthält, gilt für alle Verfahren vor der Notariatskommission das Gesetz über die Verwaltungsrechtspflege[^9-1].
 
 <sup>2</sup> Entscheide der Notariatskommission, ausser diejenigen gemäss Artikel 10 Absatz 2, können mit Beschwerde an das Verwaltungsgericht weitergezogen werden.
+
+<sup>3</sup> Die Notariatskommission kann Entscheide über die Notariatsprüfung im Dispositiv erlassen. Die betroffenen Personen können bei der Notariatskommission innert zehn Tagen seit der Mitteilung schriftlich einen begründeten Entscheid verlangen. Artikel 48 des Gesetzes über die Verwaltungsrechtspflege gilt sinngemäss.
+
+[^9-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
 
 ## 2. Patentierte Notarinnen und Notare
 
@@ -157,6 +162,10 @@ beschliesst:
 <sup>2</sup> Die Prüfung besteht aus einem schriftlichen und einem mündlichen Teil. Sie wird von drei Mitgliedern der Notariatskommission, die über den Fähigkeitsausweis für Notariatspersonen verfügen müssen, durchgeführt und beurteilt.
 
 <sup>3</sup> Wer die Prüfung zum dritten Mal nicht besteht, kann nicht mehr zu einer weiteren Prüfung zugelassen werden.
+
+<sup>4</sup> Nach dem Beginn können Prüfungen nur aus wichtigem Grund abgebrochen werden. Wird eine Prüfung ohne ausreichenden Grund abgebrochen, gilt sie als nicht bestanden.
+
+<sup>5</sup> Handelt eine Person bei der Prüfung unehrlich, kann die Notariatskommission die Prüfung für nicht bestanden erklären.
 
 #### Art. 11
 
@@ -351,13 +360,15 @@ beschliesst:
 
 #### Art. 26
 
-**Gemeinsame Bestimmungen**
+**Form der Beglaubigung**
 
 <sup>1</sup> Die Beglaubigungsformel ist auf demjenigen Dokument anzubringen, welchem sie dient. Die Notariatsperson kann auch ein Beiblatt erstellen und dieses mit dem betreffenden Dokument auf geeignete Weise verbinden.
 
 <sup>2</sup> Die Notariatsperson setzt jeder Beglaubigungsformel Ortsangabe, Datum, ihre Unterschrift und ihre Stempel bei.
 
 <sup>3</sup> Die Beglaubigungsformel ist in jeder Sprache zulässig, welche die Notariatsperson ausreichend beherrscht.
+
+<sup>4</sup> Die Notariatsperson kann nach den Vorgaben des Bundesrechts elektronische Beglaubigungen erstellen.
 
 #### Art. 27
 
@@ -413,34 +424,36 @@ beschliesst:
 
 #### Art. 33
 
-**Lesen und Unterzeichnen, Einheit des Aktes**
+**Beurkundung von Willenserklärungen 1. Einheit des Aktes, Lesen und Unterzeichnen**
 
-<sup>1</sup> Die erscheinenden Parteien müssen die öffentliche Urkunde entweder selber lesen oder von der Notariatsperson vorgelesen erhalten, hierauf ausdrücklich genehmigen und dann eigenhändig mit ihrem Namen unterzeichnen.
+<sup>1</sup> Während der Beurkundung von Willenserklärungen müssen alle mitwirkenden Personen anwesend sein. Das Verfahren ist ohne wesentliche Unterbrechung durchzuführen.
 
-<sup>2</sup> Während der Beurkundung müssen alle mitwirkenden Personen anwesend sein, und das Verfahren ist ohne wesentliche Unterbrechung durchzuführen.
+<sup>2</sup> Die mitwirkenden Personen müssen die öffentliche Urkunde entweder selber lesen oder sich von der Notariatsperson vorlesen lassen, hierauf ausdrücklich genehmigen und dann eigenhändig unterzeichnen.
 
 <sup>3</sup> Vorbehalten bleiben besondere Beurkundungsformen nach Bundesrecht und nach anderen Bestimmungen dieses Gesetzes.
 
 #### Art. 34
 
-**Beurkundung von Willenserklärungen**
+**2. Beurkundungsformel**
 
-<sup>1</sup> Die Beurkundung besteht darin, dass die Notariatsperson am Schluss der öffentlichen Urkunde förmlich bestätigt, diese sei den Parteien zur Kenntnis gebracht worden, enthalte den der Notariatsperson mitgeteilten Willen der Parteien und sei von diesen unterzeichnet worden.
+<sup>1</sup> Die Beurkundungsformel besteht darin, dass die Notariatsperson am Schluss der öffentlichen Urkunde förmlich bestätigt, diese sei den Parteien zur Kenntnis gebracht worden, enthalte den der Notariatsperson mitgeteilten Willen der Parteien und sei von diesen unterzeichnet worden. Die Notariatsperson setzt dieser Bestätigung die Ortsangabe, das Datum, ihre Unterschrift und ihren Stempel bei.
 
-<sup>2</sup> Die Notariatsperson setzt dieser Beurkundungsformel Ortsangabe, Datum, ihre Unterschrift und ihren Stempel bei.
+<sup>2</sup> …
 
 #### Art. 35
 
-**Beurkundung von Beschlüssen**
+**Sachbeurkundung 1. Beurkundung von Beschlüssen von Versammlungen oder Sitzungen**
 
-<sup>1</sup> Die Notariatsperson hat an der Versammlung oder an der Sitzung teilzunehmen und ein Protokoll als öffentliche Urkunde zu erstellen.
+<sup>1</sup> Die Notariatsperson beurkundet Beschlüsse von Versammlungen oder Sitzungen, indem sie ein Protokoll als öffentliche Urkunde erstellt. Sie hat an den beurkundeten Versammlungen oder Sitzungen teilzunehmen.
 
-<sup>2</sup> Das Protokoll muss mindestens enthalten:
+<sup>1<sup>bis</sup></sup> Auf schriftlichem Weg oder unter Verwendung elektronischer Mittel gefasste Beschlüsse von Versammlungen oder Sitzungen kann die Notariatsperson beurkunden, wenn ihre Teilnahme sichergestellt ist und das Bundesrecht diese Form der Beschlussfassung zulässt.
 
-- a) die Angabe von Ort und Datum der Versammlung- oder Sitzung;
-- b) die Bestellung der oder des Vorsitzenden, der Protokollführerin oder des Protokollführers und der Stimmzählerinnen oder Stimmenzähler;
-- c) die Feststellungen der oder des Vorsitzenden über Einberufung, Präsenz und Beschlussfähigkeit sowie allfällige Einwendungen gegen die Durchführung;
-- d) alle gefassten Beschlüsse und erzielten Abstimmungsergebnisse, soweit sie beurkundungsbedürftig sind.
+<sup>2</sup> Das Protokoll muss mindestens die von Bundesrechts wegen erforderlichen Angaben sowie die Feststellungen der oder des Vorsitzenden über Einberufung, Teilnahme und Beschlussfähigkeit sowie allfällige Einwendungen gegen die Durchführung enthalten.
+
+- a) …
+- b) …
+- c) …
+- d) …
 
 <sup>3</sup> Die Notariatsperson setzt diesem Protokoll Ortsangabe, Datum, ihre Unterschrift und ihren Stempel bei.
 
@@ -448,7 +461,7 @@ beschliesst:
 
 #### Art. 36
 
-**Andere Sachbeurkundungen**
+**2. Andere Sachbeurkundungen**
 
 <sup>1</sup> Die Notariatsperson hat den zu beurkundenden Vorgang oder Zustand möglichst genau in einem Protokoll als öffentliche Urkunde festzustellen.
 
@@ -635,6 +648,6 @@ beschliesst:
 
 <sup>3</sup> Auf hängige Verfahren vor der Notariatskommission ist neues Recht anzuwenden. Davon ausgenommen sind Disziplinarverfahren, soweit das alte Recht für die Betroffenen günstiger ist.
 
-[^52-1]: Die Referendumsfrist am 26. Januar 2005 unbenutzt abgelaufen. Mit RB vom 1. Februar 2005 rückwirkend auf den 1. Januar 2005 in Kraft gesetzt.
+[^52-1]: Die Referendumsfrist ist am 26. Januar 2005 unbenutzt abgelaufen. Mit RB vom 26. April 2005 auf den 1. Mai 2005 in Kraft gesetzt.
 
 -
