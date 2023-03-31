@@ -3,11 +3,11 @@ canton: ZH
 number: "101"
 title: Verfassung des Kantons Zürich
 language: de
-version: "2022-11-01"
-nachtrag: "119"
-valid_until: 2023-04-01
+version: "2023-04-01"
+nachtrag: "121"
+valid_until: 2024-07-01
 adopted: 2005-02-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-101-2005_02_27-2006_01_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-101-2005_02_27-2006_01_01-121.html"
 text: pdf
 ---
 
@@ -70,7 +70,7 @@ Der Kanton arbeitet mit den Gemeinden, den anderen Kantonen, dem Bund und, in se
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 #### Art. 5
 
@@ -202,7 +202,7 @@ ziele des Kantons und der Gemeinden.
 
 **3**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Kanton und Gemeinden setzen sich im Weiteren dafür ein, dass a. Eltern vor und nach der Geburt eines Kindes nicht in eine Notlage geraten;
 
@@ -302,7 +302,7 @@ ausgearbeiteter Entwurf eingereicht werden. Die Initiative auf Totalrevision der
 
 **5**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 #### Art. 26
 
@@ -414,7 +414,7 @@ breitet:
 
 **7**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Die Volksabstimmung muss innert 60 Tagen nach der amtlichen Veröffentlichung des Kantonsratsbeschlusses schriftlich verlangt werden. Beim Kantonsratsreferendum beträgt die Frist 14 Tage ab Beschluss des Rates.
 
@@ -530,7 +530,7 @@ Jahre.
 
 **9**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 #### Art. 42
 
@@ -692,7 +692,7 @@ staatlichen Tätigkeit Stellung. Er äussert sich insbesondere zu den Schwerpunk
 
 **11**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Der Zustimmung der Mehrheit aller Mitglieder bedürfen:
 
@@ -840,7 +840,7 @@ die Staatsrechnung.
 
 **13**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Er beschliesst im Rahmen des Budgets über:
 
@@ -968,7 +968,7 @@ gen sind, gewährleistet das Gesetz die wirksame Überprüfung durch eine Rekurs
 
 **15**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 #### Art. 78
 
@@ -1090,7 +1090,7 @@ sieht insbesondere ein Initiativrecht, ein Referendumsrecht und ein Anfragerecht
 
 **17**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Die Stimmberechtigten entscheiden an der Urne über:
 
@@ -1214,7 +1214,7 @@ Kanton in Bezirke eingeteilt. Das Gesetz bezeichnet ihre Gebiete.
 
 **19**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 #### Art. 97
 
@@ -1288,7 +1288,7 @@ Menschen und der Umwelt vor schädlichen oder lästigen Einwirkungen.
 
 <sup>3</sup> Kanton und Gemeinden können die Anwendung nachhaltiger Technologien fördern.
 
-[^102-1]: Eingefügt durch Änderung vom 25. Oktober 2021 (OS 77, 457; ABl 2021-04-30). In Kraft seit 1. November 2022. 1. 1. 23 - 119 29
+[^102-1]: Eingefügt durch Änderung vom 25. Oktober 2021 (OS 77, 457; ABl 2021-04-30). In Kraft seit 1. November 2022. Vom Bund gewährleistet durch Bundesbeschluss vom 6. März 2023 (BBl 2023, 724).
 
 #### Art. 102 a
 
@@ -1338,7 +1338,7 @@ schaftliche und umweltgerechte Ordnung des gesamten Verkehrs und für ein leistu
 
 **21**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Sie sorgen für den Schutz vor Hochwasser und anderen Naturgefahren. Sie fördern die Renaturierung der Gewässer.
 
@@ -1353,6 +1353,18 @@ eine ausreichende, umweltschonende, wirtschaftliche und sichere Energieversorgun
 <sup>2</sup> Er schafft Anreize für die Nutzung einheimischer und erneuerbarer Energie und für den rationellen Energieverbrauch.
 
 <sup>3</sup> Er sorgt für eine sichere und wirtschaftliche Elektrizitätsversorgung.
+
+[^106-1]: Eingefügt durch Änderung vom 31. Januar 2022 (OS 78, 123; ABl 2020-12-24). In Kraft seit 1. April 2023. Vom Bund gewährleistet durch Bundesbeschluss vom 20. September 2023 (BBl 2023, 2331). 1. 4. 23 - 120 29
+
+#### Art. 106 a
+
+**Stoffkreisläufe**[^106-1]
+
+<sup>1</sup> Kanton und Gemeinden schaffen günstige Rahmen-
+
+bedingungen für einen schonenden Umgang mit Rohstoffen, Materialien und Gütern sowie für die Schliessung von Stoffkreisläufen.
+
+<sup>2</sup> Sie treffen Massnahmen zur Vermeidung von Abfällen sowie zur Wiederverwendung und stofflichen Verwertung von Materialien und Gütern.
 
 #### Art. 107
 
@@ -1480,6 +1492,10 @@ Kanton und Gemeinden fördern die Kultur und die Kunst.
 
 Kanton und Gemeinden fördern den Sport.
 
+**23**
+
+- 1\. 4. 23 - 120
+
 ### 9. Kapitel: Finanzen
 
 #### Art. 122
@@ -1489,10 +1505,6 @@ Kanton und Gemeinden fördern den Sport.
 <sup>1</sup> Kanton und Gemeinden sorgen für einen gesunden
 
 Finanzhaushalt.
-
-**23**
-
-- 1\. 1. 23 - 119
 
 <sup>2</sup> Kanton, Gemeinden und andere Organisationen des öffentlichen Rechts führen ihren Finanzhaushalt nach den Grundsätzen der Gesetzmässigkeit, der Sparsamkeit und der Wirtschaftlichkeit.
 
@@ -1604,6 +1616,10 @@ Kantons und erstattet darüber dem Regierungsrat und dem Kantonsrat Bericht.
 
 <sup>4</sup> Die Finanzhaushalte der Gemeinden und der anderen Organisationen des öffentlichen Rechts werden durch unabhängige und fachkundige Organe geprüft.
 
+**25**
+
+- 1\. 4. 23 - 120
+
 ### 10. Kapitel: Kirchen und weitere Religionsgemeinschaften
 
 #### Art. 130
@@ -1619,10 +1635,6 @@ ten des öffentlichen Rechts:
 - b. die römisch-katholische Körperschaft und ihre Kirchgemeinden;
 
 - c. die christkatholische Kirchgemeinde.
-
-**25**
-
-- 1\. 1. 23 - 119
 
 <sup>2</sup> Die evangelisch-reformierte Landeskirche, die römisch-katholische Körperschaft und die christkatholische Kirchgemeinde sind im Rahmen des kantonalen Rechts autonom. Sie regeln:
 
@@ -1732,6 +1744,10 @@ treten dieser Verfassung die Vorkehrungen, um a. die Grundrechte gemäss den Art
 
 initiative bereits eingereicht worden, so richten sich die Fristen für die Durchführung der Volksabstimmung nach bisherigem Recht.
 
+**27**
+
+- 1\. 4. 23 - 120
+
 <sup>2</sup> Läuft beim Inkrafttreten die Sammelfrist für eine Volksinitiative, so gelten für sie die Bestimmungen dieser Verfassung.
 
 #### Art. 140
@@ -1741,10 +1757,6 @@ initiative bereits eingereicht worden, so richten sich die Fristen für die Durc
 <sup>1</sup> Hat der Kantonsrat vor Inkrafttreten dieser Verfas-
 
 sung eine Vorlage beschlossen, so gilt für das Referendum das bisherige Recht.
-
-**27**
-
-- 1\. 1. 23 - 119
 
 <sup>2</sup> Solange eine Gemeinde im Sinne von Art. 33 Abs. 4 Satz 1 das Organ, das ein Gemeindereferendum unterstützen kann, noch nicht bezeichnet hat, ist die Gemeindeversammlung oder das Gemeindeparlament zuständig.
 
