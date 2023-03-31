@@ -4,13 +4,12 @@ number: "724.1"
 title: Koordinationsgesetz
 short: KoG
 language: de
-version: 2009-09-01
-valid_until: 2023-03-31
-version_adopted: 2009-09-01
+version: 2023-04-01
+version_adopted: 2022-09-13
 adopted: 1994-03-21
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/724.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/392/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2810/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/392/pdf_file"
 
 (KoG)
 
-vom 21.03.1994 (Stand 01.09.2009)
+vom 21.03.1994 (Stand 01.04.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -123,9 +122,11 @@ beschliesst:
 
 **Koordination im Nutzungsplanverfahren**
 
-<sup>1</sup> Wird im Nutzungsplanverfahren eine Vorprüfung durchgeführt, obliegen der vorprüfenden Behörde die in den Artikeln 6 und 8 genannten Aufgaben mit Ausnahme der Behandlung der Einsprachen.
+<sup>1</sup> Wird im Nutzungsplanverfahren eine Vorprüfung durchgeführt, obliegen der vorprüfenden Behörde die in den Artikeln 6 und 8 genannten Aufgaben mit Ausnahme der Behandlung der Einsprachen. Vorbehalten bleibt Artikel 59 Absatz 1a des Baugesetzes vom 9. Juni 1985 (BauG)[^7-1].
 
 <sup>2</sup> Bedarf der Nutzungsplan einer Genehmigung, obliegt der Gesamtentscheid der Genehmigungsbehörde.
+
+[^7-1]: BSG [721.0](https://www.belex.sites.be.ch/data/721.0/de)
 
 #### Art. 8
 

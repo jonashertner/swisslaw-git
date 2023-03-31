@@ -4,13 +4,12 @@ number: "724.1"
 title: Loi de coordination
 short: LCoord
 language: fr
-version: 2009-09-01
-valid_until: 2023-03-31
-version_adopted: 2009-09-01
+version: 2023-04-01
+version_adopted: 2022-09-13
 adopted: 1994-03-21
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/724.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/392/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2810/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/392/pdf_file"
 
 (LCoord)
 
-du 21.03.1994 (état au 01.09.2009)
+du 21.03.1994 (état au 01.04.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -123,9 +122,11 @@ arrête:
 
 **Coordination dans le cadre de la procédure relative au plan d'affectation**
 
-<sup>1</sup> Si un examen préalable est effectué dans le cadre de la procédure relative au plan d'affectation, il incombe à l'autorité chargée de cette dernière d'exécuter les tâches mentionnées aux articles 6 et 8, exception faite du traitement des oppositions.
+<sup>1</sup> Si un examen préalable est effectué dans le cadre de la procédure relative au plan d'affectation, il incombe à l'autorité chargée de cette dernière d'exécuter les tâches mentionnées aux articles 6 et 8, exception faite du traitement des oppositions. L'article 59, alinéa 1a de la loi du 9 juin 1985 (LC)[^7-1] est réservé.
 
 <sup>2</sup> Si le plan d'affectation doit être approuvé, la décision globale incombe à l'autorité appelée à donner l'approbation.
+
+[^7-1]: RSB [721.0](https://www.belex.sites.be.ch/data/721.0/fr)
 
 #### Art. 8
 
