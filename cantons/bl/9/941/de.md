@@ -4,13 +4,12 @@ number: "941"
 title: Altersbetreuungs- und Pflegegesetz
 short: APG
 language: de
-version: 2018-01-01
-valid_until: 2023-03-31
-version_adopted: 2017-11-16
+version: 2023-04-01
+version_adopted: 2023-03-16
 adopted: 2017-11-16
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/941"
-pdf: "https://bl.clex.ch/api/de/versions/2126/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3601/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2126/pdf_file"
 
 (APG)
 
-Vom 16.11.2017 (Stand 01.01.2018)
+Vom 16.11.2017 (Stand 01.04.2023)
 
 Der Landrat,
 
@@ -289,6 +288,7 @@ beschliesst:[^ingress-2]
 
 - a. Art, Umfang und Abgeltung der Leistungen;
 - b. die Genehmigung der Tarife, welche den Bezügerinnen und Bezügern der Leistungen verrechnet werden;
+- b<sup>bis</sup>. allfällige Taxzuschläge für besondere Angebote wie Demenzbetreuung oder Palliative Care;
 - c. die Qualitätsanforderungen und Qualitätskontrollstellen;
 - d. die Mitwirkung, die Information und die Aufsicht der Gemeinden und Versorgungsregionen;
 - e. die Sanktionen bei Nichteinhaltung der Leistungsvereinbarung.
@@ -385,7 +385,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Der Aufenthalt in Angeboten für betreutes Wohnen ändert die Zuständigkeit für die Ausrichtungen von Beiträgen an Pflegeleistungen, Zusatzbeiträgen gemäss Ergänzungsleistungsgesetz zur AHV und IV[^32-1] sowie von Gemeindebeiträgen nach § 40 nicht.
 
-<sup>2</sup> Diese Regelung gilt während 5 Jahren ab Niederlassung in der Gemeinde, in welcher sich das Angebot für betreutes Wohnen befindet. Nach Ablauf dieser Frist ist die Niederlassungsgemeinde zuständig.
+<sup>2</sup> Diese Regelung gilt während 5 Jahren ab Wohnsitznahme in der Gemeinde, in welcher sich das Angebot für betreutes Wohnen befindet. Nach Ablauf dieser Frist ist die Wohngemeinde zuständig.
 
 [^32-1]: GS 25.130, SGS [833](https://bl.clex.ch/data/833/de)
 
@@ -460,7 +460,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die Gemeinde richtet Bewohnerinnen und Bewohnern, deren Einkommen und Barvermögen unter Berücksichtigung allfälliger Ergänzungsleistungen sowie allfälliger Zusatzbeiträge gemäss Ergänzungsleistungsgesetz zur AHV und IV[^40-1] nicht ausreicht, rückzahlbare Beiträge zur Deckung der Heimkosten aus.
 
-<sup>2</sup> Zuständig ist die Gemeinde, in welcher die Bewohnerin oder der Bewohner vor dem Heimeintritt sowie gegebenenfalls vor Eintritt in ein Angebot für betreutes Wohnen Niederlassung gehabt hat.
+<sup>2</sup> Zuständig ist die Gemeinde, in welcher die Bewohnerin oder der Bewohner vor dem Heimeintritt ihren oder seinen Wohnsitz gehabt hat. Vorbehalten bleibt § 32.
 
 <sup>3</sup> Gemeindebeiträge sind gegenüber Ergänzungsleistungen und Zusatzbeiträgen subsidiär.
 
