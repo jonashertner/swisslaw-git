@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über die Aufsicht und Transparenz in den Energiegrosshandelsmärkten (GATE)
 document: Vernehmlassungsvorlage
 language: de

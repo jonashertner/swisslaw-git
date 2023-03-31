@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sulla vigilanza e la trasparenza nei mercati dell’energia all’ingrosso (LVTE)
 document: Progetto posto in consultazione
 language: it

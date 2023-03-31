@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur la surveillance et la transparence des marchés de gros de l’énergie (LSTE)
 document: Projet mis en consultation
 language: fr
