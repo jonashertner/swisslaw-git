@@ -4,11 +4,11 @@ title: "Ordinanza del 24 novembre 2004 concernente l'apprezzamento medico dell'i
 short: OAMM
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/748"
 language: it
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2004-11-24
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/748/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2004-748-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/748/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2004-748-20230401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20230101/it"
 
 (OAMM)[^t-1]
 
-del 24 novembre 2004 (Stato 1° gennaio 2023)
+del 24 novembre 2004 (Stato 1° aprile 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
 
@@ -145,7 +145,7 @@ Se non sono in grado di prendere una decisione definitiva fondandosi sull’esit
 
 [^sec4-1]
 
-[^sec4-1]: Nuovo testo giusta il n. 4 dell’all. 36 dell’O del 16 dic. 2009 sui sistemi d’informazione militari, in vigore dal 1° gen. 2010 ([RU 2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)).
+[^sec4-1]: Nuovo testo giusta l’all. 36 n. 4 dell’O del 16 dic. 2009 sui sistemi d’informazione militari, in vigore dal 1° gen. 2010 ([RU 2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)).
 
 #### Art. 10
 
@@ -165,16 +165,16 @@ Tutte le constatazioni fatte in occasione dell’apprezzamento medico dell’ido
 
 **Elaborazione di dati**[^12-1]
 
-La Sanità militare della BLEs elabora i dati personali secondo gli articoli 6 e 7 dell’ordinanza del 16 dicembre 2009[^12-2] sui sistemi d’informazione militari.
+La Sanità militare della BLEs elabora i dati personali secondo gli articoli 6 e 7 dell’ordinanza del 16 dicembre 2009[^12-2] sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS.
 
-[^12-1]: Nuovo testo giusta il n. I 7 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^12-1]: Nuovo testo giusta l’all. n. 5 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^12-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 13
 
 [^13-1]
 
-[^13-1]: Abrogato dal n. 4 dell’all. 36 dell’O del 16 dic. 2009 sui sistemi d’informazione militari, con effetto dal 1° gen. 2010 ([RU 2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)).
+[^13-1]: Abrogato dall’all. 36 n. 4 dell’O del 16 dic. 2009 sui sistemi d’informazione militari, con effetto dal 1° gen. 2010 ([RU 2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)).
 
 ## Sezione 5: Rimedi giuridici
 
@@ -285,7 +285,7 @@ Le decisioni delle CVS in merito all’idoneità al servizio militare hanno il t
 
 Allegato 2[^t-3]
 
-[^t-3]: Abrogato dal n. 4 dell’all. 36 dell’O del 16 dic. 2009 sui sistemi d’informazione militari, con effetto dal 1° gen. 2010 ([RU 2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)).
+[^t-3]: Abrogato dall’all. 36 n. 4 dell’O del 16 dic. 2009 sui sistemi d’informazione militari, con effetto dal 1° gen. 2010 ([RU 2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)).
 
 Allegato 3
 

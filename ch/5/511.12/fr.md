@@ -4,11 +4,11 @@ title: "Ordonnance du 24 novembre 2004 concernant l'appréciation médicale de l
 short: OAMAS
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/748"
 language: fr
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2004-11-24
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/748/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-748-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/748/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2004-748-20230401-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20230101/fr"
 
 (OAMAS)[^t-1]
 
-du 24 novembre 2004 (État le 1<sup>er</sup> janvier 2023)
+du 24 novembre 2004 (État le 1<sup>er</sup> avril 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
 
@@ -169,9 +169,9 @@ Toutes les constatations faites durant l’appréciation médicale de l’aptitu
 
 **Traitement des données**[^12-1]
 
-Les Affaires sanitaires de la BLA traitent les données personnelles selon les art. 6 et 7 de l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée[^12-2].
+Les Affaires sanitaires de la BLA traitent les données personnelles selon les art. 6 et 7 de l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée et du DDPS[^12-2].
 
-[^12-1]: Nouvelle teneur selon le ch. I 7 de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^12-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^12-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 13
@@ -232,7 +232,7 @@ Annexe 1[^t-2]
 
 ## Décisions des CVS concernant l’aptitude au service militaire
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 22 nov. 2017 ([RO 2017 7397](https://fedlex.data.admin.ch/eli/oc/2017/808)). Erratum du 9 oct. 2018 ([RO 2018 3341](https://fedlex.data.admin.ch/eli/oc/2018/540)). Mise à jour par l’annexe 7 ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 22 nov. 2017 ([RO 2017 7397](https://fedlex.data.admin.ch/eli/oc/2017/808)). Mise à jour par l’erratum du 9 oct. 2018 ([RO 2018 3341](https://fedlex.data.admin.ch/eli/oc/2018/540)) et l’annexe 7 ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 Les décisions des CVS concernant l’aptitude au service militaire ont la teneur et les effets suivants:
 

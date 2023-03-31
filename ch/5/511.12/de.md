@@ -4,11 +4,11 @@ title: Verordnung vom 24. November 2004 über die medizinische Beurteilung der M
 short: VMBM
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/748"
 language: de
-version: 2023-01-01
+version: 2023-04-01
 adopted: 2004-11-24
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/748/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2004-748-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/748/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2004-748-20230401-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20230101/de"
 
 (VMBM)[^t-1]
 
-vom 24. November 2004 (Stand am 1. Januar 2023)
+vom 24. November 2004 (Stand am 1. April 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
 
@@ -165,9 +165,9 @@ Alle Wahrnehmungen anlässlich der medizinischen Beurteilung der Militärdienstt
 
 **Bearbeitung von Daten**[^12-1]
 
-Die Sanität der LBA bearbeitet die Personendaten nach den Artikeln 6 und 7 der Verordnung vom 16. Dezember 2009[^12-2] über die militärischen Informationssysteme.
+Die Sanität der LBA bearbeitet die Personendaten nach den Artikeln 6 und 7 der Verordnung vom 16. Dezember 2009[^12-2] über militärische und andere Informationssysteme im VBS.
 
-[^12-1]: Fassung gemäss Ziff. I 7 der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^12-1]: Fassung gemäss Anhang Ziff. 5 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^12-2]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 13
@@ -271,8 +271,7 @@ Die Entscheide der UC betreffend die Militärdiensttauglichkeit lauten wie folgt
 ### 4. Entscheid der Spezial UC
 
 - *«Militärdiensttauglich nur für besondere Funktionen, mit Auflagen, schiessuntauglich»:*
-
-Die beurteilte Person müsste grundsätzlich aus medizinischen Gründen militär- und schutzdienstuntauglich erklärt werden. Falls sie ersatzpflichtig ist oder sich der Armee freiwillig als zugeteilte oder zugewiesene Person zur Verfügung stellen will und ihren Dienstwillen ausdrücklich schriftlich bekundet hat, kann sie von einer speziell gebildeten UC als Betriebssoldat oder Betriebssoldatin in eine Formation Ausbildung und Support Betriebssoldat und Betriebssoldatin (Betriebsdetachement) eingeteilt werden. Die Anforderungen des Dienstes müssen auf die zivile Tätigkeit sowie die körperlichen und geistigen Fähigkeiten der betroffenen Person abgestimmt werden. Der vorsitzende Arzt oder die vorsitzende Ärztin der UC kann verbindliche Auflagen für die Dienstausübung machen. Als Auflagen immer zu prüfen sind folgende Punkte: Sportaktivitäten und die Notwendigkeit zu Hause zu übernachten. Die betroffene Person erhält keine persönliche Waffe bzw. muss diese abgeben.
+- Die beurteilte Person müsste grundsätzlich aus medizinischen Gründen militär- und schutzdienstuntauglich erklärt werden. Falls sie ersatzpflichtig ist oder sich der Armee freiwillig als zugeteilte oder zugewiesene Person zur Verfügung stellen will und ihren Dienstwillen ausdrücklich schriftlich bekundet hat, kann sie von einer speziell gebildeten UC als Betriebssoldat oder Betriebssoldatin in eine Formation Ausbildung und Support Betriebssoldat und Betriebssoldatin (Betriebsdetachement) eingeteilt werden. Die Anforderungen des Dienstes müssen auf die zivile Tätigkeit sowie die körperlichen und geistigen Fähigkeiten der betroffenen Person abgestimmt werden. Der vorsitzende Arzt oder die vorsitzende Ärztin der UC kann verbindliche Auflagen für die Dienstausübung machen. Als Auflagen immer zu prüfen sind folgende Punkte: Sportaktivitäten und die Notwendigkeit zu Hause zu übernachten. Die betroffene Person erhält keine persönliche Waffe bzw. muss diese abgeben.
 
 ### 5. Kombinationsentscheide
 
