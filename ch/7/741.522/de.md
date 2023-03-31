@@ -4,11 +4,11 @@ title: "Verordnung vom 28. September 2007 über die Zulassung von Fahrlehrern un
 short: FV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/704"
 language: de
-version: 2016-11-22
+version: 2023-04-01
 adopted: 2007-09-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/704/20161122/de/xml/fedlex-data-admin-ch-eli-cc-2007-704-20161122-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/704/20161122/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/704/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2007-704-20230401-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/704/20230401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/704/20161122/de"
 
 (Fahrlehrerverordnung, FV)
 
-vom 28. September 2007 (Stand am 22. November 2016)
+vom 28. September 2007 (Stand am 1. April 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -43,7 +43,7 @@ In dieser Verordnung werden folgende Begriffe verwendet:
 
 - a. *Fahrlehrer und Fahrlehrerinnen:* Inhaber und Inhaberinnen einer Fahrlehrerbewilligung;
 - b. *Fahrschule:* Betrieb, dessen Hauptzweck die Erteilung von Fahrunterricht durch eine oder mehrere Personen ist;
-- c. *selbstständig erwerbende Fahrlehrer und Fahrlehreri**n**nen:* Fahrlehrer und Fahrlehrerinnen, die in keinerlei Anstellungs- oder Unterstellungsverhältnis stehen;
+- c. *selbstständig erwerbende Fahrlehrer und Fahrlehrerinnen:* Fahrlehrer und Fahrlehrerinnen, die in keinerlei Anstellungs- oder Unterstellungsverhältnis stehen;
 - d. *Arbeitszeit:* Zeit, während der sich ein angestellter Fahrlehrer oder eine angestellte Fahrlehrerin zur Verfügung des Arbeitgebers halten muss; sie umfasst auch die blosse Präsenzzeit und die Arbeitspausen von weniger als einer Viertelstunde; zur Arbeitszeit zählt ferner die Dauer jeder Erwerbstätigkeit bei einem andern Arbeitgeber sowie die Dauer einer selbstständigen Erwerbstätigkeit.
 - e. *Fahrunterricht:* theoretische und praktische Ausbildung von Fahrschülern und Fahrschülerinnen im Hinblick auf den Erwerb eines Führerausweises oder der Bewilligung zum berufsmässigen Personentransport nach Artikel 25 der Verkehrszulassungsverordnung vom 27. Oktober 1976[^2-1] (VZV) einschliesslich Unterricht mit Hilfe von Fahrsimulatoren;
 - f.[^2-2] *Ausbildungspraktikum:* die in den Modulen B7, A7 und C7 von Anhang 1 beschriebene Ausbildung von Fahrschülern und Fahrschülerinnen durch angehende Fahrlehrer und Fahrlehrerinnen unter Aufsicht der anerkannten Modulanbieter.
@@ -358,9 +358,12 @@ Die Fahrlehrerbewilligung ist für eine unbefristete Dauer zu entziehen, wenn:
 
 #### Art. 28
 
-**Wirkung des Führerausweisentzugs**
+**Wirkung des Führerausweisentzugs**[^28-1]
 
-Wird dem Fahrlehrer oder der Fahrlehrerin der Führerausweis entzogen, so darf er oder sie während der Entzugsdauer weder praktischen Fahrunterricht erteilen noch Ausbildungspraktikanten und -praktikantinnen begleiten.
+Wird dem Fahrlehrer oder der Fahrlehrerin der Führerausweis entzogen, so darf er oder sie während der Entzugsdauer weder praktischen Fahrunterricht erteilen noch Ausbildungspraktikanten und -praktikantinnen begleiten, ausser er oder sie verfügt über eine entsprechende Bewilligung der kantonalen Behörde nach Artikel 33 Absatz 5 VZV[^28-2].
+
+[^28-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. April 2023 ([AS 2022 408](https://fedlex.data.admin.ch/eli/oc/2022/408)).
+[^28-2]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 #### Art. 29
 
@@ -415,7 +418,7 @@ Mit Busse bestraft wird, wer:
 
 <sup>2</sup> Anhang 2 dieser Verordnung gilt bis zum 31. Dezember 2009.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 5)
 
@@ -453,6 +456,6 @@ Anhang 1*[^t-1]*
 <tr><td>Modul C8</td><td>Prüfung: Zusammen- fassen der erworbenen Teilqualifikationen in eine umfassende Fahrlehrer-/Fahrlehrerinnen-Kompetenz</td><td>Die Fahrlehrer und Fahrlehrerinnen sind fähig, Fahrschüler und Fahrschülerinnen so auszubilden, dass sich diese mit schweren Motorwagen und deren Anhängern regelkonform, sicher, partnerschaftlich, umweltbewusst und verantwortungsvoll im Strassenverkehr bewegen.</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 [^t-2]: Gültig bis zum 31. Dez. 2009 (siehe Art. 32 Abs. 2 hiervor).

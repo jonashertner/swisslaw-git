@@ -4,11 +4,11 @@ title: "Ordonnance du 28 septembre 2007 sur l'admission des moniteurs de conduit
 short: OMCo
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/704"
 language: fr
-version: 2016-11-22
+version: 2023-04-01
 adopted: 2007-09-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/704/20161122/fr/xml/fedlex-data-admin-ch-eli-cc-2007-704-20161122-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/704/20161122/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/704/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-704-20230401-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/704/20230401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/704/20161122/fr"
 
 (Ordonnance sur les moniteurs de conduite, OMCo)
 
-du 28 septembre 2007 (Etat le 22 novembre 2016)
+du 28 septembre 2007 (Etat le 1<sup>er</sup> avril 2023)
 
 Le Conseil fédéral suisse,
 
@@ -358,9 +358,12 @@ L’autorisation d’enseigner la conduite doit être retirée pour une durée i
 
 #### Art. 28
 
-**Effets du retrait du permis de conduire**
+**Effets du retrait du permis de conduire**[^28-1]
 
-Le moniteur de conduite qui s’est vu retirer le permis de conduire n’a pas le droit de dispenser de cours de conduite pratique ou d’accompagner des stagiaires en formation pendant la durée du retrait.
+Le moniteur de conduite qui s’est vu retirer le permis de conduire n’a pas le droit de dispenser de cours de conduite pratique ou d’accompagner des stagiaires en formation pendant la durée du retrait, sauf s’il dispose d’une autorisation en ce sens octroyée par l’autorité cantonale conformément à l’art. 33, al. 5, OAC[^28-2].
+
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2022 408](https://fedlex.data.admin.ch/eli/oc/2022/408)).
+[^28-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 #### Art. 29
 
@@ -415,7 +418,7 @@ Est puni de l’amende quiconque:
 
 <sup>2</sup> L’annexe 2 de la présente ordonnance est applicable jusqu’au 31 décembre 2009.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 5)
 
@@ -453,6 +456,6 @@ Annexe 1*[^t-1]*
 <tr><td>Module C8</td><td>Examen: compétence de moniteur de conduite acquise à partir des éléments de qualification obtenus</td><td>Les moniteurs de conduite de camion sont en mesure de former des élèves conducteurs de sorte qu’ils soient capables de rouler avec des voitures automobiles lourdes et leurs remorques dans le trafic conformément aux règles de la circulation, de manière sûre, courtoise, responsable et respectueuse de l’environnement.</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 [^t-2]: Applicable jusqu’au 31 déc. 2009 (voir art. 32 al. 2 ci-devant).

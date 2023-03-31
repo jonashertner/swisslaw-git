@@ -4,11 +4,11 @@ title: "Ordinanza del 28 settembre 2007 che disciplina l'esercizio della profess
 short: OMaeC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/704"
 language: it
-version: 2016-11-22
+version: 2023-04-01
 adopted: 2007-09-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/704/20161122/it/xml/fedlex-data-admin-ch-eli-cc-2007-704-20161122-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/704/20161122/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/704/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2007-704-20230401-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/704/20230401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/704/20161122/it"
 
 (Ordinanza sui maestri conducenti, OMaeC)
 
-del 28 settembre 2007 (Stato 22 novembre 2016)
+del 28 settembre 2007 (Stato 1° aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -358,9 +358,12 @@ L’abilitazione a maestro conducente è revocata per un periodo indeterminato s
 
 #### Art. 28
 
-**Conseguenze della revoca della licenza di condurre**
+**Conseguenze della revoca della licenza di condurre**[^28-1]
 
-Il maestro conducente cui è stata revocata la licenza di condurre non può, per il periodo della revoca, né tenere lezioni pratiche di guida né seguire praticanti in formazione.
+Il maestro conducente cui è stata revocata la licenza di condurre non può, per il periodo della revoca, tenere lezioni pratiche di guida né seguire praticanti in formazione, salvo che disponga di un’autorizzazione corrispondente dell’autorità cantonale secondo l’articolo 33 capoverso 5 OAC[^28-2].
+
+[^28-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2022 408](https://fedlex.data.admin.ch/eli/oc/2022/408)).
+[^28-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 #### Art. 29
 
@@ -415,7 +418,7 @@ Il maestro conducente cui è stata revocata la licenza di condurre non può, per
 
 <sup>2</sup> L’allegato 2 della presente ordinanza rimane in vigore fino al 31 dicembre 2009.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 5)
 
@@ -453,6 +456,6 @@ Allegato 1*[^t-1]*
 <tr><td>Modulo C8</td><td>Esame: Integrazione delle competenze parziali acquisite in una competenza complessiva quale maestro conducente</td><td>I maestri conducenti sono in grado di formare allievi conducenti in modo tale che questi saranno in grado di muoversi nel traffico con il loro autoveicolo pesante munito di rimorchio nel rispetto delle norme della circolazione e degli altri utenti stradali, in maniera sicura, responsabile e cosciente dell’impatto sull’ambiente.</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 [^t-2]: In vigore fino al 31 dic. 2009 (vedi l’art. 32 cpv. 2).
