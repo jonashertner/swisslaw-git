@@ -4,13 +4,13 @@ number: "721.1"
 title: Ordonnance sur les constructions
 short: OC
 language: fr
-version: 2023-01-01
-valid_until: 2023-03-31
-version_adopted: 2022-11-16
+version: 2023-04-01
+valid_until: 2024-02-29
+version_adopted: 2023-03-01
 adopted: 1985-03-06
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/721.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2716/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2811/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2716/pdf_file"
 
 (OC)
 
-du 06.03.1985 (état au 01.01.2023)
+du 06.03.1985 (état au 01.04.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -1460,6 +1460,38 @@ arrête:
 
 **…**
 
+#### Art. 99a
+
+**Procédures reconnues visant à garantir la qualité**
+
+<sup>1</sup> Sont réputés procédures reconnues visant à garantir la qualité au sens des articles 10, alinéa 5 et 92, alinéa 2 de la loi sur les constructions
+
+- a les concours selon le règlement SIA 142/2009,
+- b les mandats d’étude parallèles selon le règlement SIA 143/2009,
+- c les procédures d’atelier et d’expertise selon l’alinéa 2.
+
+<sup>2</sup> Les procédures d’atelier et d’expertise doivent se fonder sur le règlement SIA 143/2009 ainsi que sur la ligne directrice pour le règlement SIA 143 sur les planifications test (2018) et remplir en particulier les conditions suivantes:
+
+- a application régulière de la procédure d’adjudication et d’attribution du mandat selon les qualifications requises préalablement définies,
+- b sélection d’un collège d’expertes et d’experts composé d’une représentation adéquate de l’organe mandant et de la commune ainsi que d’une majorité de spécialistes dont les qualifications sont confirmées dans les domaines déterminants concernant l’attribution du mandat et dont l’impartialité est garantie pour la plupart,
+- c preuve de l’expertise des participantes et participants à la procédure d’aménagement conformément aux exigences liées à l’attribution du mandat,
+- d existence du programme nécessaire à l’attribution du mandat portant sur le mandat et sur la procédure,
+- e preuve de l’étude de plusieurs variantes (sélection de trois participantes ou participants au moins ou traitement de trois propositions au moins),
+- f établissement d'une documentation claire et complète du déroulement de la procédure et des résultats visés,
+- g mandat écrit pour la suite des opérations.
+
+<sup>3</sup> Sont réputés procédures reconnues visant à garantir la qualité au sens de l’article 93, alinéa 1, lettre b de la loi sur les constructions les concours selon le règlement SIA 142/2009, à l’exclusion des concours d’idées.
+
+<sup>4</sup> À l’occasion du déroulement des procédures reconnues visant à garantir la qualité prévus aux alinéas 1 à 3, l’organe mandant peut décider librement des indemnités, de la poursuite des mandats et des prix.
+
+#### Art. 99b
+
+**Service spécialisé local performant**
+
+<sup>1</sup> Est considéré comme service spécialisé local performant, compétent pour se prononcer sur les aspects liés à la protection des sites et du paysage d’un projet de construction ou d’aménagement (art. 10, al. 5, lit. a LC), tout ensemble d’au moins trois personnes pour la plupart indépendantes et expérimentées dans les domaines notamment de l’architecture, de l’architecture paysagère et de l’aménagement du territoire.
+
+<sup>2</sup> Plusieurs communes peuvent désigner un même service spécialisé local performant selon l’alinéa 1.
+
 #### Art. 100
 
 **Projets de construction liés à l'affectation de la zone au sens de l'article 86, 3<sup>e</sup> alinéa LC; définition et importance**
@@ -1650,6 +1682,8 @@ arrête:
 
 <sup>1</sup> Les projets de plan directeur de la commune, accompagnés des rapports techniques ainsi que du rapport sur l'information et la participation de la population, doivent être remis à l’Office des affaires communales et de l’organisation du territoire; celui-ci informe la commune de l'existence et de la nature des éléments faisant éventuellement obstacle à l'approbation.
 
+<sup>1a</sup> Les communes menant elles-mêmes la consultation des offices transmettent à l’Office des affaires communales et de l’organisation du territoire le rapport qui en découle ainsi que les rapports techniques et les rapports officiels accompagnés des documents au sens de l’alinéa 1 pour l’examen préalable.
+
 <sup>2</sup> Une fois la décision rendue par l'organe communal compétent, le conseil communal remet le plan directeur et le rapport technique à l'Office des affaires communales et de l'organisation du territoire pour approbation.
 
 #### Art. 113
@@ -1694,6 +1728,8 @@ arrête:
 
 <sup>1</sup> Les règlements de construction, les plans de zone et les plans de quartier, accompagnés des explications requises ou des rapports techniques ainsi que du rapport sur l’information et la participation de la population, doivent être remis à l’Office des affaires communales et de l’organisation du territoire. Un avis est transmis à la préfecture.
 
+<sup>1a</sup> Les communes menant elles-mêmes la consultation des offices transmettent à l’Office des affaires communales et de l’organisation du territoire le rapport qui en découle ainsi que les rapports techniques et les rapports officiels accompagnés des documents au sens de l’alinéa 1 pour l’examen préalable.
+
 <sup>2</sup> Pour les bâtiments et installations de nature particulière (art. 19 et 20 LC) et pour les plans de quartier pour les zones à planification obligatoire (art. 72, 3<sup>e</sup> al. et 92 ss. LC), des indications doivent en général être également données sur l'équipement technique et, le cas échéant, sur l'ombragement et l'utilisation.
 
 <sup>3</sup> L'Office des affaires communales et de l'organisation du territoire peut renoncer à certains documents ou en exiger d'autres (p. ex. maquettes ou montages-photo) et prescrire la pose de profils.
@@ -1702,7 +1738,7 @@ arrête:
 
 - a si les projets sont conformes aux prescriptions en vigueur (examen de la légalité);
 - b si l'intérêt public aux mesures d'aménagement que fait valoir la commune justifie les atteintes à la propriété;
-- c si les projets sont propres à atteindre le but visé par la commune (examen de l'opportunité).
+- c …
 
 <sup>5</sup> L'organe communal compétent ne peut être invité à prendre sa décision sur les plans et prescriptions qu'après la clôture de la procédure d'examen préalable.
 
@@ -1764,7 +1800,9 @@ arrête:
 
 <sup>2</sup> Il dépose publiquement, dans les communes de la région concernée, les projets de plans de quartier cantonaux mis au point à l'issue de la procédure de participation et mène les pourparlers sur les oppositions.
 
-<sup>3</sup> La Direction de l’intérieur et de la justice statue en matière de plan de quartier. Dans sa décision, elle traite les oppositions non vidées.
+<sup>3</sup> La Direction de l’intérieur et de la justice statue en matière de plan de quartier cantonal. Dans sa décision, elle traite les oppositions non vidées.
+
+<sup>3a</sup> Elle fait paraître le moment de l’entrée en vigueur du plan de quartier cantonal dans la Feuille officielle cantonale et dans les organes de publication officiels des communes concernées.
 
 <sup>4–5</sup> …
 
@@ -1808,17 +1846,17 @@ arrête:
 
 **Renonciation à un plan de quartier**
 
-<sup>1</sup> Le Conseil-exécutif fixe par voie d’arrêté des règles de procédure garantissant la haute qualité du résultat des concours de projets.
+<sup>1</sup> …
 
-<sup>2</sup> Le programme du concours mentionnera l'intention de renoncer à l'édiction du plan de quartier. Il indiquera les paramètres contraignants en matière de droit et d'aménagement du territoire.
+<sup>2</sup> Le programme de la procédure reconnue visant à garantir la qualité mentionne l'intention de renoncer à l'édiction du plan de quartier. Il indique les conditions-cadres contraignantes en matière de droit et d'aménagement du territoire.
 
-<sup>3</sup> Avant la publication du concours, il sera soumis à l'approbation du conseil communal ou de l'autorité désignée par la commune. En l'approuvant, l'autorité communale déclare renoncer provisoirement à l'édiction du plan de quartier, sous réserve du 4<sup>e</sup> alinéa.
+<sup>3</sup> Avant la publication concernant la procédure reconnue visant à garantir la qualité, il est soumis à l'approbation du conseil communal ou de l'autorité désignée par la commune. En l'approuvant, l'autorité communale déclare renoncer provisoirement à l'édiction du plan de quartier, sous réserve de l’alinéa 4.
 
 <sup>4</sup> Dans la publication de la demande de permis de construire, il y a lieu d'indiquer l'intention de renoncer à l'édiction d'un plan de quartier.
 
 <sup>5</sup> Dans le cadre de la procédure d'octroi du permis de construire, l'autorité communale au sens de l'alinéa 3 statue, en connaissance des oppositions, sur la renonciation définitive à l'édiction du plan de quartier.
 
-<sup>6</sup> Elle ne peut exiger un plan de quartier, en dérogation à la renonciation provisoire au sens du 1<sup>er</sup> alinéa, que si le résultat du concours est contraire aux conditions-cadres légales, à des dispositions de droit supérieur ou aux intérêts prépondérants de voisins, ou si le projet de construction n'est pas conforme au résultat du concours.
+<sup>6</sup> Elle ne peut exiger un plan de quartier, en dérogation à la renonciation provisoire selon l’alinéa 3, que si le résultat de la procédure reconnue visant à garantir la qualité est contraire aux conditions-cadres légales, au droit supérieur ou aux intérêts prépondérants du voisinage, ou si le projet de construction n'est pas conforme au résultat de cette procédure.
 
 <sup>7</sup> La décision relative à la renonciation définitive est notifiée en même temps que celle qui concerne le permis de construire et peut être attaquée conjointement avec cette dernière par voie de recours.
 

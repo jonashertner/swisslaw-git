@@ -4,13 +4,13 @@ number: "721.1"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2023-01-01
-valid_until: 2023-03-31
-version_adopted: 2022-11-16
+version: 2023-04-01
+valid_until: 2024-02-29
+version_adopted: 2023-03-01
 adopted: 1985-03-06
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/721.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2716/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2811/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2716/pdf_file"
 
 (BauV)
 
-vom 06.03.1985 (Stand 01.01.2023)
+vom 06.03.1985 (Stand 01.04.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -1485,6 +1485,38 @@ beschliesst:
 
 **…**
 
+#### Art. 99a
+
+**Anerkannte qualitätssichernde Verfahren**
+
+<sup>1</sup> Als anerkannte qualitätssichernde Verfahren im Sinne von Artikel 10 Absatz 5 und Artikel 92 Absatz 2 des Baugesetzes gelten:
+
+- a Wettbewerbe nach der Ordnung SIA 142/2009,
+- b Studienaufträge nach der Ordnung SIA 143/2009,
+- c Workshop- und Gutachterverfahren nach Absatz 2.
+
+<sup>2</sup> Workshop- und Gutachterverfahren müssen sich an der Ordnung SIA 143/2009 und der Wegleitung SIA 143 "Testplanungen" (2018) orientieren und insbesondere folgende Voraussetzungen erfüllen:
+
+- a Ordnungsgemässe Durchführung des Vergabeverfahrens und der Auftragserteilung nach vorgängiger Festlegung der erforderlichen Qualifikation,
+- b Zusammensetzung des Beurteilungsgremiums aus einer angemessenen Vertretung der auftraggebenden Stelle und der Standortgemeinde sowie einer Mehrheit von ausgewiesenen, mehrheitlich unabhängigen Fachleuten der für die Aufgabenstellung massgeblichen Fachgebiete,
+- c Nachweis der für die Aufgabenstellung erforderlichen Fachkenntnisse bei den Planungsteilnehmerinnen und Planungsteilnehmern,
+- d Vorliegen des für die Aufgabenstellung erforderlichen Aufgaben- und Verfahrensprogramms,
+- e Nachweis des Variantenstudiums (Auswahl von mindestens drei Planungsteilnehmerinnen und Planungsteilnehmern oder Erarbeiten von mindestens drei Lösungsvorschlägen),
+- f Erstellung einer vollständigen und nachvollziehbaren Dokumentation des Verfahrensablaufs und der erzielten Ergebnisse sowie
+- g schriftlicher Auftrag zum weiteren Vorgehen.
+
+<sup>3</sup> Als anerkannte qualitätssichernde Verfahren im Sinne von Artikel 93 Absatz 1 Buchstabe b des Baugesetzes gelten Wettbewerbe nach der Ordnung SIA 142/2009, mit Ausnahme von Ideenwettbewerben.
+
+<sup>4</sup> Bei der Durchführung von qualitätssichernden Verfahren nach den Absätzen 1 bis 3 kann die auftraggebende Stelle frei über Entschädigungen, Folgeaufträge und Preisgelder entscheiden.
+
+#### Art. 99b
+
+**Leistungsfähige örtliche Fachstelle**
+
+<sup>1</sup> Als leistungsfähige örtliche Fachstelle zur Begutachtung von Bauvorhaben und Planungsgeschäften aus Sicht des Ortsbild- und Landschaftsschutzes (Art. 10 Abs. 5 Bst. a BauG) gilt ein mehrheitlich aus unabhängigen, in Gestaltungsfragen ausgewiesenen Fachleuten zusammengesetztes Gremium aus mindestens drei Personen. Anerkannt sind insbesondere Fachleute aus den Disziplinen Architektur, Landschaftsarchitektur und Raumplanung.
+
+<sup>2</sup> Mehrere Gemeinden können eine gemeinsame leistungsfähige örtliche Fachstelle gemäss Absatz 1 bezeichnen.
+
 #### Art. 100
 
 **Standortgebundene Bauvorhaben nach Artikel 86 Absatz 3 BauG; Begriff und Bedeutung**
@@ -1688,6 +1720,8 @@ beschliesst:
 
 <sup>1</sup> Die Richtplanentwürfe der Gemeinde sind mit den technischen Berichten sowie dem Bericht über die Information und die Mitwirkung der Bevölkerung dem Amt für Gemeinden und Raumordnung einzureichen; dieses teilt der Gemeinde mit, ob und welche Einwände allenfalls einer Genehmigung entgegenstehen.
 
+<sup>1a</sup> Die Gemeinden, welche die Ämterkonsultation selbst durchführen, reichen den dazu erstellten Bericht zusammen mit den eingeholten Fach- und Amtsberichten sowie den Unterlagen nach Absatz 1 dem Amt für Gemeinden und Raumordnung zur Vorprüfung ein.
+
 <sup>2</sup> Nach Beschlussfassung durch das zuständige Gemeindeorgan reicht der Gemeinderat den Richtplan mit technischem Bericht dem Amt für Gemeinden und Raumordnung zur Genehmigung ein.
 
 #### Art. 113
@@ -1734,6 +1768,8 @@ beschliesst:
 
 <sup>1</sup> Baureglemente, Zonenpläne und Überbauungsordnungen sind mit den notwendigen Erläuterungen oder technischen Berichten sowie dem Bericht über die Information und die Mitwirkung der Bevölkerung dem Amt für Gemeinden und Raumordnung einzureichen. Eine Meldung der Überweisung geht an das Regierungsstatthalteramt.
 
+<sup>1a</sup> Die Gemeinden, welche die Ämterkonsultation selbst durchführen, reichen den dazu erstellten Bericht zusammen mit den eingeholten Fach- und Amtsberichten sowie den Unterlagen nach Absatz 1 dem Amt für Gemeinden und Raumordnung zur Vorprüfung ein.
+
 <sup>2</sup> Bei besonderen Bauten und Anlagen (Art. 19 und 20 BauG) und bei Überbauungsordnungen für Zonen mit Planungspflicht (Art. 92 ff. BauG) sind in der Regel auch über die Erschliessung Angaben zu machen, gegebenenfalls auch über die Beschattungsverhältnisse und die Ausnützung.
 
 <sup>3</sup> Das Amt für Gemeinden und Raumordnung kann auf einzelne Unterlagen verzichten oder weitere verlangen (z. B. Modelle oder Photomontagen) und die Profilierung vorschreiben.
@@ -1742,7 +1778,7 @@ beschliesst:
 
 - a ob die Entwürfe den geltenden Vorschriften entsprechen (Rechtmässigkeitsprüfung);
 - b ob das von der Gemeinde geltend gemachte öffentliche Interesse an den Planungsmassnahmen die Eingriffe in das Eigentum rechtfertigt;
-- c ob die Entwürfe geeignet sind, den von der Gemeinde angestrebten Zweck zu erreichen (Zweckmässigkeitsprüfung).
+- c …
 
 <sup>5</sup> Das zuständige Gemeindeorgan darf zur Beschlussfassung über Vorschriften und Pläne erst eingeladen werden, nachdem das Vorprüfungsverfahren abgeschlossen ist.
 
@@ -1804,7 +1840,9 @@ beschliesst:
 
 <sup>2</sup> Es legt die aufgrund des Mitwirkungsverfahrens bereinigten Entwürfe für kantonale Überbauungsordnungen in den Gemeinden des berührten Gebietes öffentlich auf und führt die Einspracheverhandlungen durch.
 
-<sup>3</sup> Die Direktion für Inneres und Justiz beschliesst die Überbauungsordnung. In ihrem Beschluss setzt sie sich mit den unerledigten Einsprachen auseinander.
+<sup>3</sup> Die Direktion für Inneres und Justiz beschliesst die kantonale Überbauungsordnung. In ihrem Beschluss setzt sie sich mit den unerledigten Einsprachen auseinander.
+
+<sup>3a</sup> Sie macht den Zeitpunkt des Inkrafttretens der kantonalen Überbauungsordnung im kantonalen Amtsblatt und in den amtlichen Publikationsorganen der betroffenen Gemeinden bekannt.
 
 <sup>4–5</sup> …
 
@@ -1848,17 +1886,17 @@ beschliesst:
 
 **Verzicht auf Überbauungsordnung**
 
-<sup>1</sup> Der Regierungsrat legt die Verfahrensregeln, welche eine hohe Qualität der Ergebnisse des Projektwettbewerbes sichern, durch Beschluss fest.
+<sup>1</sup> …
 
-<sup>2</sup> Im Wettbewerbsprogramm ist auf die Absicht, auf den Erlass der Überbauungsordnung zu verzichten, hinzuweisen. Zudem hat das Wettbewerbsprogramm die zwingenden rechtlichen und planerischen Randbedingungen zu enthalten.
+<sup>2</sup> Im Programm für das anerkannte qualitätssichernde Verfahren ist auf die Absicht hinzuweisen, auf den Erlass der Überbauungsordnung zu verzichten. Zudem hat das Programm für das anerkannte qualitätssichernde Verfahren die zwingenden rechtlichen und planerischen Rahmenbedingungen zu enthalten.
 
-<sup>3</sup> Das Wettbewerbsprogramm ist vor der Ausschreibung des Wettbewerbs dem Gemeinderat oder der von der Gemeinde bezeichneten Behörde zur Genehmigung vorzulegen. Mit der Genehmigung erklärt die Gemeindebehörde unter Vorbehalt von Absatz 4 den vorläufigen Verzicht auf den Erlass der Überbauungsordnung.
+<sup>3</sup> Es ist vor der Ausschreibung des betreffenden anerkannten qualitätssichernden Verfahrens dem Gemeinderat oder der von der Gemeinde bezeichneten Behörde zur Genehmigung vorzulegen. Mit der Genehmigung erklärt die Gemeindebehörde unter Vorbehalt von Absatz 4 den vorläufigen Verzicht auf den Erlass der Überbauungsordnung.
 
 <sup>4</sup> In der Bekanntmachung des Baugesuchs ist darauf hinzuweisen, dass auf den Erlass einer Überbauungsordnung verzichtet werden soll.
 
 <sup>5</sup> Die Gemeindebehörde gemäss Absatz 3 entscheidet im Baubewilligungsverfahren in Kenntnis der Einsprachen über den definitiven Verzicht auf die Überbauungsordnung.
 
-<sup>6</sup> Sie kann nur dann in Abweichung vom vorläufigen Verzicht nach Absatz 1 eine Überbauungsordnung verlangen, wenn das Wettbewerbsergebnis die gesetzten Rahmenbedingungen, übergeordnetes Recht oder wesentliche Interessen von Nachbarn verletzt, oder wenn das Bauprojekt dem Wettbewerbsergebnis nicht entspricht.
+<sup>6</sup> Sie kann nur dann in Abweichung vom vorläufigen Verzicht gemäss Absatz 3 eine Überbauungsordnung verlangen, wenn das Ergebnis des anerkannten qualitätssichernden Verfahrens die gesetzten Rahmenbedingungen, übergeordnetes Recht oder wesentliche Interessen von Nachbarinnen und Nachbarn verletzt, oder wenn das Bauprojekt dem Ergebnis des anerkannten qualitätssichernden Verfahrens nicht entspricht.
 
 <sup>7</sup> Der Entscheid über den definitiven Verzicht wird mit dem Bauentscheid eröffnet und ist mit diesem zusammen mit Baubeschwerde anfechtbar.
 
