@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: fr
-version: 2022-04-01
+version: 2023-04-03
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220401-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20230403/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20230403-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20230403/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220401/fr"
 
 (OAO)
 
-du 16 janvier 2019 (Etat le 1<sup>er</sup> avril 2022)
+du 16 janvier 2019 (État le 3 avril 2023)
 
 Le Conseil fédéral suisse,
 
@@ -76,15 +76,15 @@ Il est permis d’épuiser le stock de quittances et de formules concernant le d
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2020.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1, let. a)
 
 ## Liste des amendes 1
 
-[^t-1]: Mise à jour par le ch. I des O du 20 mai 2020 ([RO 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)) et du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)).
+[^t-1]: Mise à jour par le ch. I des O du 20 mai 2020 ([RO 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)) et du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)).
 
-### Contraventions à la loi du 19 décembre 1958 sur la circulation routière (LCR)****
+### Contraventions à la loi du 19 décembre 1958 sur la circulation routière (LCR)
 
 [^annex1-lvlu1-lvlu1-1]
 
@@ -591,13 +591,13 @@ Annexe 1*[^t-1]*
 [^annex1-lvlu1-lvlu1-10]: O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425))
 [^annex1-lvlu1-lvlu1-11]: Le texte des prescriptions «Allgemeine Vorschriften und Vorschriften für gefährliche Stoffe und Gegenstände» peut être consulté sous www.astra.admin.ch &gt; Public professionnel &gt; Véhicules et marchandises dangereuses &gt; Marchandises dangereuses &gt; Droit international
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 1, let. b)
 
 ## Liste des amendes 2
 
-[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)) et du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe ch. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II de l’O du 19 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), le ch. III de l’O du 16 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)) et l’annexe ch. 1 de l’O COVID-19 situation particulière du 16 fév. 2022, en vigueur depuis le 17 fév. 2022, le ch. 16002 en vigueur jusqu’au 31 mars 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
+[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)) et du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe ch. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II de l’O du 19 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), le ch. III de l’O du 16 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)), l’annexe ch. 1 de l’O COVID-19 situation particulière du 16 fév. 2022, en vigueur depuis le 17 fév. 2022, le ch. 16002 en vigueur jusqu’au 31 mars 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)) et l’erratum du 3 avr. 2023 ([RO 2023 176](https://fedlex.data.admin.ch/eli/oc/2023/176)).
 
 ### Contraventions à d’autres actes normatifs
 
@@ -605,7 +605,7 @@ Annexe 2*[^t-2]*
 <tr><th></th><th>Fr.</th></tr>
 <tr><td>I**.** **Loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)**[^annex2-lvlu1-lvlu1-1]</td><td></td></tr>
 <tr><td>1001. Ne pas collaborer à l’obtention de documents de voyage (art. 120, al. 1, let. e, LEI)</td><td>100</td></tr>
-<tr><td>**II.** **Loi du** **26 juin 1998 sur l’asile (LAsi)**[^annex2-lvlu1-lvlu1-2]</td><td></td></tr>
+<tr><td>**II.** **Loi du 26 juin 1998 sur l’asile (LAsi)**[^annex2-lvlu1-lvlu1-2]</td><td></td></tr>
 <tr><td>2001. Violer l’obligation d’informer en refusant de donner un renseignement (art. 116, let. a, LAsi)</td><td>200</td></tr>
 <tr><td>**III.** **Loi fédérale du 19 décembre 1986 contre la concurrence déloyale (LCD)**[^annex2-lvlu1-lvlu1-3]</td><td></td></tr>
 <tr><td>3001. Violer l’obligation d’indiquer les prix ou le prix unitaire (art. 24, al. 1, let. a, et al. 2, LCD)</td><td>200</td></tr>
@@ -683,7 +683,7 @@ Annexe 2*[^t-2]*
 <tr><td>[tab] 1. par équipement</td><td>[tab] 20</td></tr>
 <tr><td>[tab] 2. par engin de sauvetage</td><td>[tab] 50</td></tr>
 <tr><td>7408. Emmener un nombre de personnes supérieur à celui mentionné dans le permis de navigation (art. 46 LNI, art. 7, al. 1 et 3, ONI, art. 1.05, al. 3, RNC)</td><td>60</td></tr>
-<tr><td>7409. Ne pas observer les signaux d’interdiction A1 à A6 et A10 de l’annexe 4 ONI ou A.1 à A.3 et A.7 à A.12 de l’annexe B RNC (art. 40, al. 1, LNI, art. 36, al. 1, ONI, art. 5.01, al. 1, RNC)</td><td>100</td></tr>
+<tr><td>7409. Ne pas observer les signaux d’interdiction A1 à A6 et A10 à A13 de l’annexe 4 ONI ou A.1 à A.3 et A.7 à A.12 de l’annexe B RNC (art. 40, al. 1, LNI, art. 36, al. 1, ONI, art. 5.01, al. 1, RNC)</td><td>100</td></tr>
 <tr><td>7410. Dépasser de 15 km/h au plus la vitesse maximale signalisée ou la vitesse maximale autorisée sur le lac de Constance (art. 40, al. 1, LNI, art. 36, al. 1, ONI, art. 5.01 et 6.02 RNC)</td><td>100</td></tr>
 <tr><td>7411. Dépasser de 15 km/h au plus la vitesse maximale autorisée par le canton (art. 3, al. 2, et 40 LNI)</td><td>100</td></tr>
 <tr><td>5. Baignade et plongée</td><td></td></tr>
@@ -727,7 +727,7 @@ Annexe 2*[^t-2]*
 <tr><td>14003. Ne pas porter sur soi l’autorisation de pratiquer le commerce itinérant dans l’exercice de cette activité (art. 14, al. 1, let. f, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>20</td></tr>
 <tr><td>**XV.** **…**</td><td></td></tr>
 <tr><td>**XVI.** **…**</td><td>[tab]</td></tr>
-<tr><td>[tab] **XVII.**[^annex2-lvlu1-lvlu1-25]**Loi du 28 septembre 2012 sur les épidémies (LEp) , en relation avec l’ordonnance COVID-19 du 23 juin** **2021 transport international de voyageurs**</td><td>[tab]</td></tr>
+<tr><td>[tab] **XVII.**[^annex2-lvlu1-lvlu1-25] **Loi du 28 septembre 2012 sur les épidémies (LEp) , en relation avec l’ordonnance COVID-19 du 23 juin 2021 transport international de voyageurs**</td><td>[tab]</td></tr>
 <tr><td>17001. Ne pas fournir la preuve d’un résultat négatif à une analyse de biologie moléculaire pour le SARS-CoV-2 ou à un test rapide SARS-CoV-2 avec application par un professionnel lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp, en relation avec l’art. 8, al. 1, de l’ordonnance COVID-19 transport international de voyageurs)</td><td>200</td></tr>
 <tr><td>17002. Fournir des coordonnées incomplètes ou erronées lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp et 3, al. 1, de l’ordonnance COVID-19 transport international de voyageurs)</td><td>100</td></tr>
 </table>
