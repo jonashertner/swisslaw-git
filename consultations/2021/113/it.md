@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sulla deduzione fiscale delle spese professionali delle persone esercitanti un’attività lucrativa dipendente
 document: Progetto posto in consultazione
 language: it

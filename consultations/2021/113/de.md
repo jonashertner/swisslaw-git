@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über den steuerlichen Abzug der Berufskosten von unselbstständig Erwerbstätigen
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur la déduction fiscale des frais professionnels des personnes exerçant une activité lucrative dépendante
 document: Projet mis en consultation
 language: fr
