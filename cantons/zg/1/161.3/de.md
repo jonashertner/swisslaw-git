@@ -4,13 +4,12 @@ number: "161.3"
 title: Verordnung über die Staatsanwaltschaft
 short: VO STA
 language: de
-version: 2019-04-13
-valid_until: 2023-04-06
-version_adopted: 2019-03-27
+version: 2023-04-07
+version_adopted: 2023-03-29
 adopted: 2007-11-20
 in_force: 2008-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/161.3"
-pdf: "https://bgs.zg.ch/api/de/versions/1966/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2423/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1966/pdf_file"
 
 (VO STA)
 
-Vom 20. November 2007 (Stand 13. April 2019)
+Vom 20. November 2007 (Stand 7. April 2023)
 
 Das Obergericht des Kantons Zug,
 
@@ -138,7 +137,7 @@ beschliesst:
 - f) kontrolliert die Qualität bei Erledigungsentscheiden inkl. Anklageschriften;
 - g) genehmigt die Einstellungs- und Nichtanhandnahmeverfügungen bei Übertretungen.
 
-<sup>3</sup> Die Leitenden Staatsanwältinnen bzw. Staatsanwälte vertreten sich gegenseitig.
+<sup>3</sup> Die Leitenden Staatsanwältinnen bzw. Staatsanwälte vertreten sich gegenseitig. Die Amtsleitung kann eine Staatsanwältin bzw. einen Staatsanwalt als dauerhafte abteilungsinterne Stellvertretung bestimmen. Diese ist bei Abwesenheit der Leitenden Staatsanwältin bzw. des Leitenden Staatsanwalts der betreffenden Abteilung für die Fallzuteilung (Abs. 2 Bst. d) und die Genehmigung von Einstellungs- und Nichtanhandnahmeverfügungen bei Übertretungen (Abs. 2 Bst. g) zuständig.
 
 #### § 7
 
@@ -222,7 +221,7 @@ beschliesst:
 
 **Inkrafttreten und Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2008 in Kraft.
+<sup>1</sup> …
 
 <sup>2</sup> Mit dem Inkrafttreten dieser Verordnung wird die Verordnung über das Einzelrichteramt in Strafsachen, die Staatsanwaltschaft, das Untersuchungsrichteramt und die Jugendanwaltschaft vom 11. Mai 1999[^14-1] aufgehoben.
 
