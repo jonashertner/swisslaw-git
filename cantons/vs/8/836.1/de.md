@@ -5,12 +5,12 @@ title: Ausführungsgesetz zum Bundesgesetz über die Familienzulagen
 short: AGFamZG
 language: de
 version: 2023-01-01
-corrected: 2022-12-19
+corrected: 2023-04-14
 version_adopted: 2020-03-13
 adopted: 2008-09-11
 in_force: 2009-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/836.1"
-pdf: "https://lex.vs.ch/api/de/versions/3108/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3109/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -326,7 +326,7 @@ verordnet:[^ingress-1]
 
 <sup>7</sup> Der Beitrag an den Familienfonds wird zusätzlich zu den Beiträgen von Absatz 2 erhoben.
 
-<sup>8</sup> Die Kassen sind befugt, bei den Arbeitgebern zusätzlich den Ausbildungsbeitrag für den kantonalen Berufsbildungsfonds zu erheben.
+<sup>8</sup> Die Kassen sind befugt, bei den Arbeitgebern und den Arbeitnehmern zusätzlich den Ausbildungsbeitrag für den Kantonalen Berufsbildungsfonds zu erheben.
 
 <sup>9</sup> Die Familienzulagekassen können zugunsten ihrer Berufsverbände weitere Beiträge erheben.
 
