@@ -4,13 +4,13 @@ number: "153.3"
 title: Delegationsverordnung
 short: DelV
 language: de
-version: 2021-10-23
-valid_until: 2023-04-13
-version_adopted: 2021-10-19
+version: 2023-04-14
+valid_until: 2023-06-30
+version_adopted: 2023-04-11
 adopted: 2017-11-28
 in_force: 2018-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.3"
-pdf: "https://bgs.zg.ch/api/de/versions/2265/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2424/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2265/pdf_file"
 
 (DelV)
 
-Vom 28. November 2017 (Stand 23. Oktober 2021)
+Vom 28. November 2017 (Stand 14. April 2023)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -82,22 +82,22 @@ beschliesst:
 
 <sup>3</sup> Sistierungsverfügungen sind nur delegiert, sofern die Parteien die Sistierung einvernehmlich beantragen oder ihr zugestimmt haben (§ 6 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-8]).
 
-<sup>4</sup> Die zuständige Direktion kann in folgenden Fällen über Einsprachen gemäss § 38 des Planungs- und Baugesetzes (PBG) vom 26. November 1998[^3-9], Verwaltungsbeschwerden, Stimmrechtsbeschwerden, Rechtsverweigerungs- und Aufsichtsbeschwerden, die an den Regierungsrat gerichtet sind, entscheiden (§ 6 Abs. 1 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-10]):
+<sup>4</sup> Die zuständige Direktion kann in folgenden Fällen über Einsprachen, Verwaltungsbeschwerden, Stimmrechtsbeschwerden, Rechtsverweigerungs- und Aufsichtsbeschwerden, die an den Regierungsrat gerichtet sind, entscheiden (§ 6 Abs. 1 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-9]):
 
 - 1\. Der Regierungsrat ist offensichtlich nicht zuständig.
-- 2\. Die Beschwerdeführerin oder der Beschwerdeführer ist offensichtlich nicht zur Beschwerde legitimiert.
+- 2\. Die Einsprechenden oder die Beschwerdeführenden sind offensichtlich nicht zur Beschwerde legitimiert.
 - 3\. Die Frist wurde offensichtlich nicht eingehalten.
-- 4\. Die Beschwerde wird vollumfänglich zurückgezogen.
+- 4\. Die Einsprache oder Beschwerde wird vollumfänglich zurückgezogen.
 - 5\. Die angefochtene Verfügung wird in Wiedererwägung gezogen und vollumfänglich aufgehoben.
 - 6\. Die Verfügung wird durch Vergleich im angefochtenen Teil aufgehoben oder wird gegenstandslos.
 - 7\. Der verlangte Kostenvorschuss oder die für die unentgeltliche Rechtspflege notwendigen Formulare oder Unterlagen werden innert der angesetzten Frist weder geleistet noch eingereicht.
-- 8\. Die Form der Beschwerdeschrift ist offensichtlich mangelhaft und die verlangte Verbesserung erfolgte nicht innert der angesetzten Frist.
+- 8\. Die Form der Einsprache- oder Beschwerdeschrift ist offensichtlich mangelhaft und die verlangte Verbesserung erfolgte nicht innert der angesetzten Frist.
 - 9\. Bei einer Rechtsverweigerungs- oder Rechtsverzögerungsbeschwerde ist der fehlende Entscheid von der Vorinstanz inzwischen vollständig erlassen worden.
-- 10\. Die Beschwerde erweist sich aus anderen Gründen offensichtlich als gegenstandslos.
+- 10\. Die Einsprache oder Beschwerde erweist sich aus anderen Gründen offensichtlich als gegenstandslos.
 
-<sup>5</sup> In Fällen von Abs. 4 entscheidet die zuständige Direktion im Entscheid ausserdem über Verfahrenskosten, die Parteientschädigung sowie die Bezifferung der finanziellen Entschädigung an den unentgeltlichen Rechtsbeistand. Soweit noch kein Zwischenentscheid über die Gewährung der unentgeltlichen Rechtspflege sowie des unentgeltlichen Rechtsbeistandes ergangen ist, wird darüber im Abschreibungsentscheid entschieden (§ 6 Abs. 1 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-11]).
+<sup>5</sup> In Fällen von Abs. 4 entscheidet die zuständige Direktion im Entscheid ausserdem über Verfahrenskosten, die Parteientschädigung sowie die Bezifferung der finanziellen Entschädigung an den unentgeltlichen Rechtsbeistand. Soweit noch kein Zwischenentscheid über die Gewährung der unentgeltlichen Rechtspflege sowie des unentgeltlichen Rechtsbeistandes ergangen ist, wird darüber im Abschreibungsentscheid entschieden (§ 6 Abs. 1 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-10]).
 
-<sup>6</sup> Wird gegen einen Entscheid des Regierungsrats ein Rechtsmittel ergriffen, vertritt die instruierende Direktion den Regierungsrat als Vorinstanz im Rechtsmittelverfahren.
+<sup>6</sup> Wird gegen einen Entscheid des Regierungsrats ein Rechtsmittel ergriffen, vertritt die instruierende Direktion oder die instruierende Staatskanzlei den Regierungsrat als Vorinstanz im Rechtsmittelverfahren.
 
 <sup>7</sup> Die Staatskanzlei nimmt die gegen den Kanton zugestellten Zahlungsbefehle entgegen. Sie ist zur Erhebung des Rechtsvorschlags berechtigt und verpflichtet. Der Regierungsrat regelt die Zuständigkeiten und Abläufe in einem Beschluss.
 
@@ -111,9 +111,8 @@ beschliesst:
 [^3-6]: BGS [153.1](https://bgs.zg.ch/data/153.1/de)
 [^3-7]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
 [^3-8]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
-[^3-9]: BGS [721.11](https://bgs.zg.ch/data/721.11/de)
+[^3-9]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
 [^3-10]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
-[^3-11]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
 
 #### § 4
 
@@ -136,7 +135,7 @@ beschliesst:
 - 13\. Genehmigung von gemeindlichen Einbürgerungsreglementen, sofern diese vorbehaltlos erfolgen können (§ 15 Abs. 2 des Gesetzes betreffend Erwerb und Verlust des Gemeinde- und des Kantonsbürgerrechts (Bürgerrechtsgesetz) vom 3. September 1992[^4-15]);
 - 14\. Entscheid über den Antrag zur Sperrung der Veröffentlichung von Personenangaben im Internet und Vollzug der Sperrung gemäss § 149a Abs. 2 des Gesetzes betreffend die Einführung des Schweizerischen Zivilgesetzbuches für den Kanton Zug (EG ZGB) vom 17. August 1911[^4-16];
 - 15\. Ausrichtung von Bundesbeiträgen, die dem Kanton im Rahmen einer Programmvereinbarung mit dem Bund an die Restaurierung von Denkmälern sowie an archäologische Grabungen und Bauuntersuchungen zur Verfügung gestellt werden. Diese Zuständigkeit betrifft Denkmäler sowie alle archäologischen Grabungen und Bauuntersuchungen, bei denen der mutmassliche Bundesbeitrag an die Restaurierung den Betrag von Fr. 200'000.– nicht übersteigen wird (§ 10 Abs. 2 des Gesetzes über Denkmalpflege, Archäologie und Kulturgüterschutz (Denkmalschutzgesetz) vom 26. April 1990[^4-17]);
-- 16\. Ausrichtung von Beiträgen aus einer Programmvereinbarung mit dem Bund betreffend Umsetzung der spezifischen Integrationsförderung im Kanton (KIP); Art. 55 Abs. 1 des Bundesgesetzes über die Ausländerinnen und Ausländer (Ausländergesetz, AuG) vom 16. Dezember 2005[^4-18] sowie Art. 17a Abs. 5 der Verordnung über die Integration von Ausländerinnen und Ausländern (VIntA) vom 24. Oktober 2007[^4-19]. Davon ausgenommen sind die Themenbereiche «Zugang Arbeitsmarkt für Frauen» sowie «Angebot IBA 20+»;
+- 16\. Ausrichtung von Beiträgen aus einer Programmvereinbarung mit dem Bund betreffend Umsetzung der spezifischen Integrationsförderung im Kanton (KIP); Art. 53 und Art. 58 und die Integrationdes Bundesgesetzes über die Ausländerinnen und Ausländer (Ausländer und Integrationsgesetz, AIG) vom 16. Dezember 2005[^4-18] sowie Art. 14 der Verordnung über die Integration von Ausländerinnen und Ausländern (VIntA) vom 15. August 2018[^4-19]. Davon ausgenommen sind die Themenbereiche «Zugang Arbeitsmarkt für Frauen» sowie «Angebot IBA 20+»;
 - 17\. Ernennung der Grundbuchverwalterin oder des Grundbuchverwalters (§ 6 Abs. 1 des Gesetzes über die öffentliche Beurkundung und die Beglaubigung in Zivilsachen (Beurkundungsgesetz; BeurkG) vom 3. Juni 1946[^4-20]; § 2 Abs. 1 der Verordnung über die Bereinigung der dinglichen Rechte und die Anlage des Grundbuches vom 29. Juni 1940[^4-21]);
 - 18\. Genehmigung und Unterzeichnung von Programmvereinbarungen mit dem Bund für Verbundaufgaben im Bereich des Katasterwesens.
 
