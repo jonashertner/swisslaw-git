@@ -1,20 +1,21 @@
 ---
 canton: VS
 number: "172.51"
-title: Gesetz über die Pensionskasse des Kantons Wallis (PKWAL)
+title: Gesetz über die Pensionskasse das Kantons Wallis (PKWAL)
 short: GPKWAL
 language: de
 version: 2020-01-01
+corrected: 2023-04-14
 version_adopted: 2018-12-14
 adopted: 2018-12-14
 in_force: 2020-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.51"
-pdf: "https://lex.vs.ch/api/de/versions/3206/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2586/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Pensionskasse des Kantons Wallis (PKWAL)
+# Gesetz über die Pensionskasse das Kantons Wallis (PKWAL)
 
 (GPKWAL)
 

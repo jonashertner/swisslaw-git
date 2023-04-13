@@ -5,11 +5,12 @@ title: Loi régissant la Caisse de prévoyance du Canton du Valais (CPVAL)
 short: LCPVAL
 language: fr
 version: 2020-01-01
+corrected: 2023-04-14
 version_adopted: 2018-12-14
 adopted: 2018-12-14
 in_force: 2020-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.51"
-pdf: "https://lex.vs.ch/api/fr/versions/3206/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2586/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
