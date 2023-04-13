@@ -5,12 +5,12 @@ title: Gesetz betreffend den Tarif der Kosten und Entschädigungen vor Gerichts-
 short: GTar
 language: de
 version: 2023-01-01
-valid_until: 2024-12-31
+corrected: 2023-04-14
 version_adopted: 2021-11-18
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.8"
-pdf: "https://lex.vs.ch/api/de/versions/3205/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3025/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.

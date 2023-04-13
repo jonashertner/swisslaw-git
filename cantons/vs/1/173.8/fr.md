@@ -5,12 +5,12 @@ title: Loi fixant le tarif des frais et dépens devant les autorités judiciaire
 short: LTar
 language: fr
 version: 2023-01-01
-valid_until: 2024-12-31
+corrected: 2023-04-14
 version_adopted: 2021-11-18
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.8"
-pdf: "https://lex.vs.ch/api/fr/versions/3205/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3025/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -370,10 +370,10 @@ ordonne:
 
 **Procédures devant le juge de commune**
 
-<sup>1</sup> Devant le juge de commune, les honoraires sont fixés comme il suit:
+<sup>1</sup> 1 Devant le juge de commune, les honoraires sont fixés comme il suit:
 
 - a) pour la proposition de jugement de 60 à 250 francs;
-- b) pour la procédure de décision de 250 à 900 francs.
+- b) pour la procédure de décision de 250à 900 francs.
 
 <sup>2</sup> Pour la procédure de révision, d'interprétation et de rectification, les honoraires oscillent entre 250 et 900 francs.
 
