@@ -4,13 +4,12 @@ number: "800.10"
 title: Gesetz über die Krankenanstalten und -institutionen
 short: GKAI
 language: de
-version: 2017-01-01
-valid_until: 2023-04-14
-version_adopted: 2016-02-17
+version: 2023-04-15
+version_adopted: 2022-11-17
 adopted: 2014-03-13
 in_force: 2015-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/800.10"
-pdf: "https://lex.vs.ch/api/de/versions/2055/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3203/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2055/pdf_file"
 
 (GKAI)
 
-vom 13.03.2014 (Stand 01.01.2017)
+vom 13.03.2014 (Stand 15.04.2023)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -625,6 +624,26 @@ verordnet:[^ingress-1]
 
 <sup>3</sup> Der Staatsrat präzisiert in einer Verordnung sowohl die Modalitäten für die Berechnung der Gewinnbeteiligung als auch die Modalitäten für die Ausübung des Vorkaufsrechts.
 
+## 2a Hospize für Palliative Care
+
+#### Art. 45a
+
+**Definition**
+
+<sup>1</sup> Hospize für Palliative Care sind selbstständige Einrichtungen oder Abteilungen von Gesundheitseinrichtungen, die eine spezialisierte Palliativbetreuung anbieten.
+
+<sup>2</sup> Die in der kantonalen Planung anerkannten Hospize für Palliative Care sind auf der kantonalen Liste der Pflegeheime aufgeführt.
+
+#### Art. 45b
+
+**Finanzierung**
+
+<sup>1</sup> Die anerkannten Kosten der Hospize für Palliative Care werden durch den Kanton und die Krankenversicherer finanziert.
+
+<sup>2</sup> Der Anteil der öffentlichen Hand wird auf der Grundlage einer Tagespauschale finanziert, die vom Staatsrat beschlossen wird. Die Investitionskosten sind in der Pauschale enthalten.
+
+<sup>3</sup> Die Hospize für Palliative Care stellen den Leistungsempfängern eine Beteiligung in Rechnung, die ausschliesslich dem Beitrag an den Kosten eines Spitalaufenthalts im Sinne des KVG entspricht.
+
 ## 3 Kontrollen und Sanktionen
 
 #### Art. 46
@@ -672,5 +691,11 @@ verordnet:[^ingress-1]
 <sup>1</sup> Dieser Rechtserlass untersteht dem fakultativen Referendum.
 
 <sup>2</sup> Der Staatsrat legt das Inkrafttreten fest.
+
+## T1 Übergangsbestimmung der Änderung vom 17. November 2022
+
+#### Art. T1-1
+
+<sup>1</sup> Das Kapitel 2a und seine Artikel 45a und 45b werden bis zum Inkrafttreten spezifischer bundesrechtlicher Bestimmungen angewendet.
 
 CSW BO/Abl. 15/2014, 39/2014

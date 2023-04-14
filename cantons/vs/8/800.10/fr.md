@@ -4,13 +4,12 @@ number: "800.10"
 title: Loi sur les établissements et institutions sanitaires
 short: LEIS
 language: fr
-version: 2017-01-01
-valid_until: 2023-04-14
-version_adopted: 2016-02-17
+version: 2023-04-15
+version_adopted: 2022-11-17
 adopted: 2014-03-13
 in_force: 2015-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/800.10"
-pdf: "https://lex.vs.ch/api/fr/versions/2055/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3203/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2055/pdf_file"
 
 (LEIS)
 
-du 13.03.2014 (état 01.01.2017)
+du 13.03.2014 (état 15.04.2023)
 
 Le Grand Conseil du canton du Valais
 
@@ -625,6 +624,26 @@ ordonne:[^ingress-1]
 
 <sup>3</sup> Le Conseil d'Etat précise dans une ordonnance les modalités de calcul de la participation au bénéfice ainsi que les modalités d'exercice du droit de préemption.
 
+## 2a Hospices de soins palliatifs
+
+#### Art. 45a
+
+**Définition**
+
+<sup>1</sup> Les hospices de soins palliatifs sont des établissements indépendants ou des unités d’établissements sanitaires offrant une prise en charge palliative spécialisée.
+
+<sup>2</sup> Les hospices de soins palliatifs reconnus dans la planification cantonale figurent sur la liste cantonale des EMS.
+
+#### Art. 45b
+
+**Financement**
+
+<sup>1</sup> Les coûts reconnus des hospices de soins palliatifs sont financés par le canton et les assureurs-maladie.
+
+<sup>2</sup> La part des pouvoirs publics est financée sur la base d’un forfait journalier arrêté par le Conseil d’Etat. Les charges d'investissement sont comprises dans le forfait.
+
+<sup>3</sup> Les hospices de soins palliatifs facturent aux bénéficiaires une participation qui correspond uniquement à la contribution aux frais de séjour hospitalier au sens de la LAMal.
+
 ## 3 Contrôles et sanctions
 
 #### Art. 46
@@ -672,5 +691,11 @@ ordonne:[^ingress-1]
 <sup>1</sup> Cet acte législatif est soumis au référendum facultatif.
 
 <sup>2</sup> Le Conseil d'Etat fixe l'entrée en vigueur.
+
+## T1 Disposition transitoire de la modification du 17 novembre 2022
+
+#### Art. T1-1
+
+<sup>1</sup> Le chapitre 2a et ses articles 45a et 45b sont appliqués jusqu’à l’entrée en vigueur de dispositions fédérales spécifiques.
 
 RCV BO/Abl. 15/2014, 39/2014
