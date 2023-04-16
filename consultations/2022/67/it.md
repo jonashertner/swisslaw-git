@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Legge federale sui compiti, sull’organizzazione e sul finanziamento dell’Agenzia svizzera per la promozione degli scambi e della mobilità (Legge Movetia)"
 document: Progetto posto in consultazione
 language: it

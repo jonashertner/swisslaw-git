@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Loi fédérale sur les tâches, l’organisation et le financement de l’Agence suisse pour la promotion des échanges et de la mobilité (Loi sur Movetia)"
 document: Projet mis en consultation
 language: fr

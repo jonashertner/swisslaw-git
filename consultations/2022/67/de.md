@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Bundesgesetz über Aufgaben, Organisation und Finanzierung der Schweizerischen Agentur für die Förderung von Austausch und Mobilität (Movetiagesetz)"
 document: Vernehmlassungsvorlage
 language: de
