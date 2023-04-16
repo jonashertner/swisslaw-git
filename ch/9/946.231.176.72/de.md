@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2023-03-29
+version: 2023-04-17
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230329/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230329-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230329/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230417/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230417-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230417/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 29. März 2023)
+vom 4. März 2022 (Stand am 17. April 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1670,9 +1670,9 @@ Anhang 1[^t-1]
 
 Anhang 2[^t-2]
 
-(Art. 35 Abs. 4)
+(Art. 6 Abs. 3 Bst. a, 35 Abs. 4)
 
-## Endempfänger nach Art. 35 Abs. 4
+## Endempfänger nach Art. 6 Abs. 3 Bst. a, 35 Abs. 4
 
 [^annex2-lvlu1-1]
 
@@ -2705,7 +2705,7 @@ Anhang 20[^t-16]
 
 ## Wirtschaftlich bedeutende Güter
 
-[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Fassung gemäss Ziff. II Abs. 3 der V vom 23. Nov. 2022 ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 29. März 2023, in Kraft seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Fassung gemäss Ziff. II Abs. 3 der V vom 23. Nov. 2022 ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 29. März 2023, in Kraft seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)) und gemäss Berichtigung vom 17. April 2023 ([AS 2023 185](https://fedlex.data.admin.ch/eli/oc/2023/185)).
 
 ### 1. Güter, die vor dem 23. November 2022 in den Anhang aufgenommen wurden
 
@@ -2753,7 +2753,6 @@ Anhang 20[^t-16]
 
 <table>
 <tr><th></th><th>Zolltarifnummer</th><th colspan="2">Bezeichnung</th></tr>
-<tr><td></td><td>9403</td><td colspan="2">Andere Möbel und Teile davon</td></tr>
 <tr><td></td><td>2402</td><td colspan="2">Zigarren (einschliesslich Stumpen), Zigarillos und Zigaretten, aus Tabak oder Tabakersatzstoffen</td></tr>
 <tr><td></td><td>2811</td><td colspan="2">Andere anorganische Säuren und andere anorganische Sauerstoffverbindungen der Nichtmetalle (ausgenommen Chlorwasserstoff [Salzsäure], Chlorschwefelsäure, Schwefelsäure, Oleum, Salpetersäure, Sulfonitersäuren, Diphosphorpentaoxid, Phosphorsäure, Polyphosphorsäuren, Boroxide und Borsäuren)</td></tr>
 <tr><td></td><td>2818</td><td colspan="2">Künstlicher Korund, auch chemisch nicht einheitlich Aluminiumoxid; Aluminiumhydroxid</td></tr>

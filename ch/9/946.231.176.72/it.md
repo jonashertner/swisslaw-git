@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2023-03-29
+version: 2023-04-17
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230329/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230329-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230329/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230417/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230417-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230417/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 29 marzo 2023)
+del 4 marzo 2022 (Stato 17 aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1670,9 +1670,9 @@ Allegato 1[^t-1]
 
 Allegato 2[^t-2]
 
-(art. 35 cpv. 4)
+(art. 6 cpv. 3 lett. a, 35 cpv. 4)
 
-## Destinatari finali secondo l’articolo 35 capoverso 4
+## Destinatari finali secondo gli articoli 6 capoverso 3 lettera a e 35 capoverso 4
 
 [^annex2-lvlu1-1]
 
@@ -2704,7 +2704,7 @@ Allegato 20[^t-16]
 
 ## Beni economicamente importanti
 
-[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). ). Nuovo testo giusta il n. II cpv. 3 dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Aggiornato dal n. II cpv. 2 dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). ). Nuovo testo giusta il n. II cpv. 3 dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Aggiornato dal n. II cpv. 2 dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)) e dalla correzione del 17 apr. 2023, concerne soltanto il testo tedesco ([RU 2023 185](https://fedlex.data.admin.ch/eli/oc/2023/185)).
 
 ### 1. Beni che sono stati inseriti nell’allegato prima del 23 novembre 2022
 
