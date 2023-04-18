@@ -3,11 +3,11 @@ sr: "0.108"
 title: Übereinkommen vom 18. Dezember 1979 zur Beseitigung jeder Form von Diskriminierung der Frau
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/239"
 language: de
-version: 2020-04-28
+version: 2023-04-19
 adopted: 1979-12-18
 in_force: 1997-04-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/239/20200428/de/xml/fedlex-data-admin-ch-eli-cc-1999-239-20200428-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/239/20200428/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/239/20230419/de/xml/fedlex-data-admin-ch-eli-cc-1999-239-20230419-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/239/20230419/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1999** 1579; BBl **1995** IV 901
 
 Abgeschlossen am 18. Dezember 1979 Von der Bundesversammlung genehmigt am 4. Oktober 1996[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 27. März 1997 In Kraft getreten für die Schweiz am 26. April 1997
 
-(Stand am 28. April 2020)
+(Stand am 19. April 2023)
 
 [^t-1]: [AS 1999 1577](https://fedlex.data.admin.ch/eli/oc/1999/238)
 
@@ -58,8 +58,8 @@ entschlossen, die in der Erklärung über die Beseitigung der Diskriminierung de
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.103.1](https://fedlex.data.admin.ch/eli/cc/1993/725_725_725)/**.2**
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/19)/**.2**
 
 ## Teil I
 
@@ -69,7 +69,7 @@ In diesem Übereinkommen bezeichnet der Ausdruck «Diskriminierung der Frau» je
 
 #### Art. 2
 
-Die Vertragsstaaten verurteilen jede Form von Diskriminierung der Frau; sie kommen überein, mit allen geeigneten Mitteln unverzüglich eine Politik zur Beseitigung der Diskriminierung der Frau zu verfolgen, und verpflichten sich zu diesem Zweck,
+Die Vertragsstaaten verurteilen jede Form von Diskriminierung der Frau; sie kommen überein, mit allen geeigneten Mitteln unverzüglich eine Politik zur Beseitigung der Diskriminierung der Frau zu verfolgen, und verpflichten sich zu diesem Zweck:
 
 - a) den Grundsatz der Gleichberechtigung von Mann und Frau in ihre Staatsverfassung oder in andere geeignete Rechtsvorschriften aufzunehmen, sofern sie dies noch nicht getan haben, und durch gesetzgeberische und sonstige Massnahmen für die tatsächliche Verwirklichung dieses Grundsatzes zu sorgen;
 - b) durch geeignete gesetzgeberische und sonstige Massnahmen, gegebenenfalls auch Sanktionen, jede Diskriminierung der Frau zu verbieten;
@@ -91,7 +91,7 @@ Die Vertragsstaaten treffen auf allen Gebieten, insbesondere auf politischem, so
 
 #### Art. 5
 
-Die Vertragsstaaten treffen alle geeigneten Massnahmen,
+Die Vertragsstaaten treffen alle geeigneten Massnahmen:
 
 - a) um einen Wandel in den sozialen und kulturellen Verhaltensmustern von Mann und Frau zu bewirken, um so zur Beseitigung von Vorurteilen sowie von herkömmlichen und allen sonstigen auf der Vorstellung von der Unterlegenheit oder Überlegenheit des einen oder anderen Geschlechts oder der stereotypen Rollenverteilung von Mann und Frau beruhenden Praktiken zu gelangen;
 - b) um sicherzustellen, dass die Erziehung in der Familie zu einem richtigen Verständnis der Mutterschaft als einer sozialen Aufgabe und zur Anerkennung der gemeinsamen Verantwortung von Mann und Frau für die Erziehung und Entwicklung ihrer Kinder beiträgt, wobei davon ausgegangen wird, dass das Interesse der Kinder in allen Fällen vorrangig zu berücksichtigen ist.
@@ -104,7 +104,7 @@ Die Vertragsstaaten treffen alle geeigneten Massnahmen einschliesslich gesetzgeb
 
 #### Art. 7
 
-Die Vertragsstaaten treffen alle geeigneten Massnahmen zur Beseitigung der Diskriminierung der Frau im politischen und öffentlichen Leben ihres Landes und gewährleisten insbesondere allen Frauen in gleicher Weise wie den Männern
+Die Vertragsstaaten treffen alle geeigneten Massnahmen zur Beseitigung der Diskriminierung der Frau im politischen und öffentlichen Leben ihres Landes und gewährleisten insbesondere allen Frauen in gleicher Weise wie den Männern:
 
 - a) das Stimmrecht bei allen Wahlen und Volksabstimmungen sowie das passive Wahlrecht für alle öffentlich gewählten Gremien;
 - b) das Recht auf Mitwirkung an der Ausarbeitung der Regierungspolitik und deren Durchführung sowie auf Bekleidung öffentlicher Ämter und auf Wahr-nehmung aller öffentlichen Aufgaben auf allen Ebenen staatlicher Tätigkeit;
@@ -137,7 +137,9 @@ Die Vertragsstaaten treffen alle geeigneten Massnahmen zur Beseitigung der Diskr
 
 #### Art. 11
 
-<sup>(1)</sup> Die Vertragsstaaten treffen alle geeigneten Massnahmen zur Beseitigung der Diskriminierung der Frau im Berufsleben, um ihr auf der Grundlage der Gleichberechtigung von Mann und Frau gleiche Rechte zu gewährleisten, insbesondere
+<sup>(1)</sup>
+
+Die Vertragsstaaten treffen alle geeigneten Massnahmen zur Beseitigung der Diskriminierung der Frau im Berufsleben, um ihr auf der Grundlage der Gleichberechtigung von Mann und Frau gleiche Rechte zu gewährleisten, insbesondere:
 
 - a) das Recht auf Arbeit als unveräusserliches Recht jedes Menschen;
 - b) das Recht auf dieselben Arbeitsmöglichkeiten einschliesslich der Anwendung derselben Auswahlkriterien bei der Einstellung;
@@ -146,7 +148,9 @@ Die Vertragsstaaten treffen alle geeigneten Massnahmen zur Beseitigung der Diskr
 - e) das Recht auf soziale Sicherheit, insbesondere auf Leistungen bei Eintritt in den Ruhestand, bei Arbeitslosigkeit, Krankheit, Invalidität und im Alter oder bei sonstiger Arbeitsunfähigkeit sowie das Recht auf bezahlten Urlaub;
 - f) das Recht auf Schutz der Gesundheit und auf Sicherheit am Arbeitsplatz, einschliesslich des Schutzes der Fortpflanzungsfähigkeit.
 
-<sup>(2)</sup> Um eine Diskriminierung der Frau wegen Eheschliessung oder Mutterschaft zu verhindern und ihr ein wirksames Recht auf Arbeit zu gewährleisten, treffen die Vertragsstaaten geeignete Massnahmen
+<sup>(2)</sup>
+
+Um eine Diskriminierung der Frau wegen Eheschliessung oder Mutterschaft zu verhindern und ihr ein wirksames Recht auf Arbeit zu gewährleisten, treffen die Vertragsstaaten geeignete Massnahmen:
 
 - a) zum – mit der Androhung von Sanktionen verbundenen – Verbot der Entlassung wegen Schwangerschaft oder Mutterschaftsurlaubs sowie der Diskriminierung aufgrund des Zivilstands bei Entlassungen;
 - b) zur Einführung des bezahlten oder mit vergleichbaren sozialen Vorteilen verbundenen Mutterschaftsurlaubs ohne Verlust des bisherigen Arbeitsplatzes, des Dienstalters oder sozialer Zulagen;
@@ -163,7 +167,7 @@ Die Vertragsstaaten treffen alle geeigneten Massnahmen zur Beseitigung der Diskr
 
 #### Art. 13
 
-Die Vertragsstaaten treffen alle geeigneten Massnahmen zur Beseitigung der Diskriminierung der Frau in anderen Bereichen des wirtschaftlichen und sozialen Lebens, um der Frau nach dem Gleichheitsgrundsatz die gleichen Rechte wie dem Mann zu gewährleisten, insbesondere
+Die Vertragsstaaten treffen alle geeigneten Massnahmen zur Beseitigung der Diskriminierung der Frau in anderen Bereichen des wirtschaftlichen und sozialen Lebens, um der Frau nach dem Gleichheitsgrundsatz die gleichen Rechte wie dem Mann zu gewährleisten, insbesondere:
 
 - a) das Recht auf Familienbeihilfen;
 - b) das Recht, Bankdarlehen, Hypotheken und andere Finanzkredite aufzunehmen;
@@ -173,7 +177,9 @@ Die Vertragsstaaten treffen alle geeigneten Massnahmen zur Beseitigung der Diskr
 
 <sup>(1)</sup> Die Vertragsstaaten berücksichtigen die besonderen Probleme der Frauen auf dem Lande und die wichtige Rolle dieser Frauen für das wirtschaftliche Überleben ihrer Familien, einschliesslich ihrer Arbeit in nichtmonetären Wirtschaftsbereichen, und treffen alle geeigneten Massnahmen, um dafür zu sorgen, dass die Bestimmungen dieses Übereinkommens auch auf Frauen in ländlichen Gebieten Anwendung finden.
 
-<sup>(2)</sup> Die Vertragsstaaten treffen alle geeigneten Massnahmen zur Beseitigung der Diskriminierung der Frau in ländlichen Gebieten, um dafür zu sorgen, dass sie gleichberechtigt mit dem Mann an der ländlichen Entwicklung und an den sich daraus ergebenden Vorteilen teilhaben kann, und gewährleisten ihr insbesondere das Recht auf
+<sup>(2)</sup>
+
+Die Vertragsstaaten treffen alle geeigneten Massnahmen zur Beseitigung der Diskriminierung der Frau in ländlichen Gebieten, um dafür zu sorgen, dass sie gleichberechtigt mit dem Mann an der ländlichen Entwicklung und an den sich daraus ergebenden Vorteilen teilhaben kann, und gewährleisten ihr insbesondere das Recht auf:
 
 - a) Mitwirkung – auf allen Ebenen – an der Aufstellung und Durchführung von Entwicklungsplänen;
 - b) Zugang zu angemessenen Gesundheitsdiensten, einschliesslich Aufklärungs- und Beratungsdiensten und sonstigen Einrichtungen auf dem Gebiet der Familienplanung;
@@ -237,9 +243,11 @@ Die Vertragsstaaten treffen alle geeigneten Massnahmen zur Beseitigung der Diskr
 
 #### Art. 18
 
-<sup>(1)</sup> Die Vertragsstaaten verpflichten sich, dem Generalsekretär der Vereinten Nationen zur Beratung durch den Ausschuss einen Bericht über die zur Durchführung dieses Übereinkommens getroffenen Gesetzgebungs‑, Gerichts‑, Verwaltungs- und sonstigen Massnahmen und die diesbezüglichen Fortschritte vorzulegen, und zwar
+<sup>(1)</sup>
 
-- a) innerhalb eines Jahres nach Inkrafttreten des Übereinkommens für den betreffenden Staat und
+Die Vertragsstaaten verpflichten sich, dem Generalsekretär der Vereinten Nationen zur Beratung durch den Ausschuss einen Bericht über die zur Durchführung dieses Übereinkommens getroffenen Gesetzgebungs‑, Gerichts‑, Verwaltungs- und sonstigen Massnahmen und die diesbezüglichen Fortschritte vorzulegen, und zwar:
+
+- a) innerhalb eines Jahres nach Inkrafttreten des Übereinkommens für den betreffenden Staat; und
 - b) danach mindestens alle vier Jahre und so oft es der Ausschuss verlangt.
 
 <sup>(2)</sup> In den Berichten kann auf Faktoren und Schwierigkeiten hingewiesen werden, die das Ausmass der Erfüllung der in diesem Übereinkommen vorgesehenen Verpflichtungen beeinflussen.
@@ -270,9 +278,9 @@ Die Sonderorganisationen haben das Recht, bei Beratung der Durchführung derjeni
 
 #### Art. 23
 
-Dieses Übereinkommen lässt zur Herbeiführung der Gleichberechtigung von Mann und Frau besser geeignete Bestimmungen unberührt, die enthalten sind
+Dieses Übereinkommen lässt zur Herbeiführung der Gleichberechtigung von Mann und Frau besser geeignete Bestimmungen unberührt, die enthalten sind:
 
-- a) in den Rechtsvorschriften eines Vertragsstaats oder
+- a) in den Rechtsvorschriften eines Vertragsstaats; oder
 - b) in sonstigen für diesen Staat geltenden internationalen Übereinkommen, Verträgen oder Abkommen.
 
 #### Art. 24
@@ -323,7 +331,7 @@ Dieses Übereinkommen, dessen arabischer, chinesischer, englischer, französisch
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen in New York am 18. Dezember 1979. (Es folgen die Unterschriften)
 
-Geltungsbereich am 28. April 2020**[^t-2]**
+Geltungsbereich am 19. April 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -520,9 +528,11 @@ Geltungsbereich am 28. April 2020**[^t-2]**
 <tr><td>Vereinigte Arabische Emirate\*</td><td>6. Oktober</td><td>2004 B</td><td>5. November</td><td>2004</td></tr>
 <tr><td>Vereinigtes Königreich\* \*\*</td><td>7. April</td><td>1986</td><td>7. Mai</td><td>1986</td></tr>
 <tr><td>Anguilla\*</td><td>16. März</td><td>2016</td><td>16. März</td><td>2016</td></tr>
+<tr><td>Bermudas\*</td><td>16. März</td><td>2017</td><td>16. März</td><td>2017</td></tr>
 <tr><td>Britische Jungferninseln\*</td><td>7. April</td><td>1986</td><td>7. Mai</td><td>1986</td></tr>
 <tr><td>Falklandinseln\*</td><td>7. April</td><td>1986</td><td>7. Mai</td><td>1986</td></tr>
 <tr><td>Insel Man\*</td><td>7. April</td><td>1986</td><td>7. Mai</td><td>1986</td></tr>
+<tr><td>Jersey\*</td><td>16. Februar</td><td>2021</td><td>16. Februar</td><td>2021</td></tr>
 <tr><td>Kaimaninseln\*</td><td>16. März</td><td>2016</td><td>16. März</td><td>2016</td></tr>
 <tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>16. März</td><td>2017</td><td>16. März</td><td>2017</td></tr>
 <tr><td>Südgeorgien und Südliche Sandwichinseln\*</td><td>7. April</td><td>1986</td><td>7. Mai</td><td>1986</td></tr>
@@ -530,30 +540,27 @@ Geltungsbereich am 28. April 2020**[^t-2]**
 <tr><td>Vietnam\*</td><td>17. Februar</td><td>1982</td><td>19. März</td><td>1982</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>21. Juni</td><td>1991 B</td><td>21. Juli</td><td>1991</td></tr>
 <tr><td>Zypern</td><td>23. Juli</td><td>1985 B</td><td>22. August</td><td>1985</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Bis zum 30. Juni 1997 war das Übereink. aufgrund einer Ausdehnungserklärung Grossbritanniens in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Aufgrund der chinesisch-britischen Erklärung vom 19. Dez. 1984 bleiben diejenigen Abk., welche vor der Rückgabe an die Volksrepublik China in Hongkong anwendbar waren, auch in der SAR anwendbar.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Vom 27. April 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 19. Okt. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen[: http://treaties.un.org](https://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Bis zum 30. Juni 1997 war das Übereink. aufgrund einer Ausdehnungserklärung Grossbritanniens in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Aufgrund der chinesisch-britischen Erklärung vom 19. Dez. 1984 bleiben diejenigen Abk., welche vor der Rückgabe an die Volksrepublik China in Hongkong anwendbar waren, auch in der SAR anwendbar. <sup>b</sup> Vom 27. April 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 19. Okt. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar. <sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
 ## Vorbehalte
 
-[^t-2]: [AS 1999 1579](https://fedlex.data.admin.ch/eli/oc/1999/239), [2004 2739](https://fedlex.data.admin.ch/eli/oc/2004/330)[3651](https://fedlex.data.admin.ch/eli/oc/2004/497), [2006 1145](https://fedlex.data.admin.ch/eli/oc/2006/203), [2007 1169](https://fedlex.data.admin.ch/eli/oc/2007/190), [2008 649](https://fedlex.data.admin.ch/eli/oc/2008/155), [2012 1489](https://fedlex.data.admin.ch/eli/oc/2012/202), [2013 4341](https://fedlex.data.admin.ch/eli/oc/2013/770), [2016 2275](https://fedlex.data.admin.ch/eli/oc/2016/365), [2020 1563](https://fedlex.data.admin.ch/eli/oc/2020/312). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1999 1579](https://fedlex.data.admin.ch/eli/oc/1999/239); [2004 2739](https://fedlex.data.admin.ch/eli/oc/2004/330), [3651](https://fedlex.data.admin.ch/eli/oc/2004/497); [2006 1145](https://fedlex.data.admin.ch/eli/oc/2006/203); [2007 1169](https://fedlex.data.admin.ch/eli/oc/2007/190); [2008 649](https://fedlex.data.admin.ch/eli/oc/2008/155); [2012 1489](https://fedlex.data.admin.ch/eli/oc/2012/202); [2016 2275](https://fedlex.data.admin.ch/eli/oc/2016/365); [2020 1563](https://fedlex.data.admin.ch/eli/oc/2020/312); [2023 201](https://fedlex.data.admin.ch/eli/oc/2023/201). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20)
 
-Schweiz**[^scopeu1-lvlu1-1]**
+Schweiz[^scopeu1-lvlu1-1]
 
-a. Vorbehalt zu Artikel 7 Buchstabe b:*[^scopeu1-lvlu1-2]*
+a. Vorbehalt zu Artikel 7 Buchstabe b:[^scopeu1-lvlu1-2]
 
-...
+…
 
-b. Vorbehalt zu Artikel 16 Absatz 1 Buchstabe g:*[^scopeu1-lvlu1-3]*
+b. Vorbehalt zu Artikel 16 Absatz 1 Buchstabe g:[^scopeu1-lvlu1-3]
 
-...
+…
 
 c. Vorbehalt zu Artikel 15 Absatz 2 und zu Artikel 16 Absatz 1 Buchstabe h:
 
 Die Anwendung der Bestimmungen erfolgt unter Vorbehalt gewisser Übergangsbestimmungen des Ehegüterrechts (Art. 9*e* und 10 SchlT ZGB).
 
-[^scopeu1-lvlu1-1]: Art. 1 Abs. 1 des BB vom 4. Okt. 1996 ([AS 1999 1577](https://fedlex.data.admin.ch/eli/oc/1999/238))
+[^scopeu1-lvlu1-1]: Art. 1 Abs. 1 des BB vom 4. Okt. 1996 ([AS 1999 1577](https://fedlex.data.admin.ch/eli/oc/1999/238)).
 [^scopeu1-lvlu1-2]: [AS 2004 3651](https://fedlex.data.admin.ch/eli/oc/2004/497)
 [^scopeu1-lvlu1-3]: [AS 2013 4341](https://fedlex.data.admin.ch/eli/oc/2013/770)

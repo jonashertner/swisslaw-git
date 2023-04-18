@@ -3,11 +3,11 @@ sr: "0.108"
 title: "Convention du 18 décembre 1979 sur l'élimination de toutes les formes de discrimination à l'égard des femmes"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/239"
 language: fr
-version: 2020-04-28
+version: 2023-04-19
 adopted: 1979-12-18
 in_force: 1997-04-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/239/20200428/fr/xml/fedlex-data-admin-ch-eli-cc-1999-239-20200428-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/239/20200428/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/239/20230419/fr/xml/fedlex-data-admin-ch-eli-cc-1999-239-20230419-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/239/20230419/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **1999** 1579; FF **1995** IV 869
 
 Texte original
 
-Conclue le 18 décembre 1979
+Conclue le 18 décembre 1979 Approuvée par l’Assemblée fédérale le 4 octobre 1996[^t-1] Instrument de ratification déposé par la Suisse le 27 mars 1997 Entrée en vigueur pour la Suisse le 26 avril 1997
 
-Approuvée par l’Assemblée fédérale le 4 octobre 1996[^t-1]
-
-Instrument de ratification déposé par la Suisse le 27 mars 1997
-
-Entrée en vigueur pour la Suisse le 26 avril 1997
-
-(Etat le 28 avril 2020)
+(État le 19 avril 2023)
 
 [^t-1]: [RO 1999 1577](https://fedlex.data.admin.ch/eli/oc/1999/238)
 
@@ -64,8 +58,8 @@ résolus à mettre en œuvre les principes énoncés dans la Déclaration sur l�
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.103.1](https://fedlex.data.admin.ch/eli/cc/1993/725_725_725)/**.2**
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/19)/**.2**
 
 ## Première partie
 
@@ -337,7 +331,7 @@ La présente Convention, dont les textes en anglais, arabe, chinois, espagnol, f
 
 *En foi de quoi,* les soussignés, à ce dûment habilités, ont signé la présente Convention. Fait à New York le 18 décembre 1979. (Suivent les signatures)
 
-Champ d’application le 28 avril 2020**[^t-2]**
+Champ d’application le 19 avril 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -498,12 +492,14 @@ Champ d’application le 28 avril 2020**[^t-2]**
 <tr><td>Roumanie\*\*</td><td>7 janvier</td><td>1982</td><td>6 février</td><td>1982</td></tr>
 <tr><td>Royaume-Uni\* \*\*</td><td>7 avril</td><td>1986</td><td>7 mai</td><td>1986</td></tr>
 <tr><td>Anguilla\*</td><td>16 mars</td><td>2016</td><td>16 mars</td><td>2016</td></tr>
+<tr><td>Bermudes\*</td><td>16 mars</td><td>2017</td><td>16 mars</td><td>2017</td></tr>
 <tr><td>Géorgie du Sud et Îles Sandwich du Sud\*</td><td>7 avril</td><td>1986</td><td>7 mai</td><td>1986</td></tr>
 <tr><td>Îles Cayman\*</td><td>16 mars</td><td>2016</td><td>16 mars</td><td>2016</td></tr>
 <tr><td>Île de Man\*</td><td>7 avril</td><td>1986</td><td>7 mai</td><td>1986</td></tr>
-<tr><td>Îles Falkland<sup>\*</sup></td><td>7 avril</td><td>1986</td><td>7 mai</td><td>1986</td></tr>
+<tr><td>Îles Falkland\*</td><td>7 avril</td><td>1986</td><td>7 mai</td><td>1986</td></tr>
 <tr><td>Îles Turques et Caïques\*</td><td>7 avril</td><td>1986</td><td>7 mai</td><td>1986</td></tr>
 <tr><td>Îles Vierges britanniques\*</td><td>7 avril</td><td>1986</td><td>7 mai</td><td>1986</td></tr>
+<tr><td>Jersey\*</td><td>16 février</td><td>2021</td><td>16 février</td><td>2021</td></tr>
 <tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>16 mars</td><td>2017</td><td>16 mars</td><td>2017</td></tr>
 <tr><td>Russie</td><td>23 janvier</td><td>1981</td><td>3 septembre</td><td>1981</td></tr>
 <tr><td>Rwanda</td><td>2 mars</td><td>1981</td><td>3 septembre</td><td>1981</td></tr>
@@ -544,20 +540,20 @@ Champ d’application le 28 avril 2020**[^t-2]**
 <tr><td>Yémen\*</td><td>30 mai</td><td>1984 A</td><td>29 juin</td><td>1984</td></tr>
 <tr><td>Zambie</td><td>21 juin</td><td>1985</td><td>21 juillet</td><td>1985</td></tr>
 <tr><td>Zimbabwe</td><td>13 mai</td><td>1991 A</td><td>12 juin</td><td>1991</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Jusqu’au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration sino-britannique du 19 déc. 1984, les accords qui étaient applicables à Hong Kong avant sa rétrocession à la République populaire de Chine demeurent applicables à la RAS. <sup>b</sup> Du 27 avril 1999 au 19 déc. 1999, la convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 19 oct. 1999, la convention est également applicable à la RAS Macao à partir du 20 déc. 1999. <sup>c</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Jusqu’au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration sino-britannique du 19 déc. 1984, les accords qui étaient applicables à Hong Kong avant sa rétrocession à la République populaire de Chine demeurent applicables à la RAS. <sup>b</sup> Du 27 avril 1999 au 19 déc. 1999, la convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 19 oct. 1999, la convention est également applicable à la RAS Macao à partir du 20 déc. 1999. <sup>c</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 1999 1579](https://fedlex.data.admin.ch/eli/oc/1999/239), [2004 2739](https://fedlex.data.admin.ch/eli/oc/2004/330)[3651](https://fedlex.data.admin.ch/eli/oc/2004/497), [2006 1145](https://fedlex.data.admin.ch/eli/oc/2006/203), [2007 1169](https://fedlex.data.admin.ch/eli/oc/2007/190), [2008 649](https://fedlex.data.admin.ch/eli/oc/2008/155), [2012 1489](https://fedlex.data.admin.ch/eli/oc/2012/202), [2013 4341](https://fedlex.data.admin.ch/eli/oc/2013/770), [2016 2275](https://fedlex.data.admin.ch/eli/oc/2016/365), [2020 1563](https://fedlex.data.admin.ch/eli/oc/2020/312). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+## Réserves
 
-Réserves
+[^t-2]: [RO 1999 1579](https://fedlex.data.admin.ch/eli/oc/1999/239); [2004 2739](https://fedlex.data.admin.ch/eli/oc/2004/330), [3651](https://fedlex.data.admin.ch/eli/oc/2004/497); [2006 1145](https://fedlex.data.admin.ch/eli/oc/2006/203); [2007 1169](https://fedlex.data.admin.ch/eli/oc/2007/190); [2008 649](https://fedlex.data.admin.ch/eli/oc/2008/155); [2012 1489](https://fedlex.data.admin.ch/eli/oc/2012/202); [2016 2275](https://fedlex.data.admin.ch/eli/oc/2016/365); [2020 1563](https://fedlex.data.admin.ch/eli/oc/2020/312); [2023 201](https://fedlex.data.admin.ch/eli/oc/2023/201). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
-Suisse**[^t-3]**
+Suisse[^scopeu1-lvlu1-1]
 
-Réserve portant sur l’art. 7, let. b*[^t-4]*
+Réserve portant sur l’art. 7, let. b[^scopeu1-lvlu1-2]
 
 …
 
-Réserve portant sur l’art. 16, par. 1, let. g*[^t-5]*
+Réserve portant sur l’art. 16, par. 1, let. g[^scopeu1-lvlu1-3]
 
 …
 
@@ -565,6 +561,6 @@ Réserve portant sur l’art. 15, par. 2, et sur l’art. 16, par. 1, let. h
 
 Ces dispositions sont appliquées sous réserve de diverses dispositions transitoires du régime matrimonial (art. 9*e* et 10, tit. fin., CC).
 
-[^t-3]: Art. 1 al. 1 de l’AF du 4 oct. 1996 ([RO 1999 1577](https://fedlex.data.admin.ch/eli/oc/1999/238)).
-[^t-4]: [RO 2004 3651](https://fedlex.data.admin.ch/eli/oc/2004/497)
-[^t-5]: [RO 2013 4341](https://fedlex.data.admin.ch/eli/oc/2013/770)
+[^scopeu1-lvlu1-1]: Art. 1 al. 1 de l’AF du 4 oct. 1996 ([RO 1999 1577](https://fedlex.data.admin.ch/eli/oc/1999/238)).
+[^scopeu1-lvlu1-2]: [RO 2004 3651](https://fedlex.data.admin.ch/eli/oc/2004/497)
+[^scopeu1-lvlu1-3]: [RO 2013 4341](https://fedlex.data.admin.ch/eli/oc/2013/770)
