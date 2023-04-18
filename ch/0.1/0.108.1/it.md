@@ -3,11 +3,11 @@ sr: "0.108.1"
 title: "Protocollo facoltativo del 6 ottobre 1999 alla Convenzione sull'eliminazione di ogni forma di discriminazione nei confronti della donna"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/44"
 language: it
-version: 2019-10-18
+version: 2023-04-19
 adopted: 1999-10-06
 in_force: 2008-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/44/20191018/it/xml/fedlex-data-admin-ch-eli-cc-2009-44-20191018-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/44/20191018/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/44/20230419/it/xml/fedlex-data-admin-ch-eli-cc-2009-44-20230419-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/44/20230419/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2009** 265; FF **2006** 8961
 
 Traduzione
 
-Concluso a New York il 6 ottobre 1999
+Concluso a New York il 6 ottobre 1999 Approvato dall’Assemblea federale il 20 marzo 2008[^t-1] Ratificato con strumenti depositati dalla Svizzera il 29 settembre 2008 Entrato in vigore per la Svizzera il 29 dicembre 2008
 
-Approvato dall’Assemblea federale il 20 marzo 2008[^t-1]
-
-Ratificato con strumenti depositati dalla Svizzera il 29 settembre 2008
-
-Entrato in vigore per la Svizzera il 29 dicembre 2008
-
-(Stato 18 ottobre 2019)
+(Stato 19 aprile 2023)
 
 [^t-1]: [RU 2009 263](https://fedlex.data.admin.ch/eli/oc/2009/43)
 
@@ -44,8 +38,8 @@ ribadendo la loro determinazione a garantire il pieno e paritario esercizio da p
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.108](https://fedlex.data.admin.ch/eli/cc/1999/239)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.108](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/34)
 
 #### Art. 1
 
@@ -187,7 +181,7 @@ Il Segretario generale dell’Organizzazione delle Nazioni Unite informa tutti g
 
 (Seguono le firme)
 
-Campo d’applicazione il 18 ottobre 2019**[^t-2]**
+Campo d’applicazione il 19 aprile 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -217,8 +211,9 @@ Campo d’applicazione il 18 ottobre 2019**[^t-2]**
 <tr><td>Capo Verde</td><td>10 ottobre</td><td>2011 A</td><td>10 gennaio</td><td>2012</td></tr>
 <tr><td>Ceca, Repubblica</td><td>26 febbraio</td><td>2001</td><td>26 maggio</td><td>2001</td></tr>
 <tr><td>Centrafricana, Repubblica</td><td>11 ottobre</td><td>2016 A</td><td>11 gennaio</td><td>2017</td></tr>
+<tr><td>Cile\*</td><td>12 marzo</td><td>2020</td><td>12 giugno</td><td>2020</td></tr>
 <tr><td>Cipro</td><td>26 aprile</td><td>2002</td><td>26 luglio</td><td>2002</td></tr>
-<tr><td>Colombia<sup>\*</sup></td><td>23 gennaio</td><td>2007</td><td>23 aprile</td><td>2007</td></tr>
+<tr><td>Colombia</td><td>23 gennaio</td><td>2007</td><td>23 aprile</td><td>2007</td></tr>
 <tr><td>Corea (Sud)</td><td>18 ottobre</td><td>2006 A</td><td>18 gennaio</td><td>2007</td></tr>
 <tr><td>Costa d’Avorio</td><td>20 gennaio</td><td>2012 A</td><td>20 aprile</td><td>2012</td></tr>
 <tr><td>Costa Rica</td><td>20 settembre</td><td>2001</td><td>20 dicembre</td><td>2001</td></tr>
@@ -253,6 +248,7 @@ Campo d’applicazione il 18 ottobre 2019**[^t-2]**
 <tr><td>Mali</td><td>5 dicembre</td><td>2000 A</td><td>5 marzo</td><td>2001</td></tr>
 <tr><td>Malta</td><td>14 marzo</td><td>2019 A</td><td>14 giugno</td><td>2019</td></tr>
 <tr><td>Marshall, Isole</td><td>29 gennaio</td><td>2019 A</td><td>29 aprile</td><td>2019</td></tr>
+<tr><td>Marocco</td><td>22 aprile</td><td>2022 A</td><td>22 luglio</td><td>2022</td></tr>
 <tr><td>Maurizio</td><td>31 ottobre</td><td>2008</td><td>31 gennaio</td><td>2009</td></tr>
 <tr><td>Messico</td><td>15 marzo</td><td>2002</td><td>15 giugno</td><td>2002</td></tr>
 <tr><td>Moldova</td><td>28 febbraio</td><td>2006 A</td><td>28 maggio</td><td>2006</td></tr>
@@ -310,9 +306,7 @@ Campo d’applicazione il 18 ottobre 2019**[^t-2]**
 <tr><td>Uruguay</td><td>26 luglio</td><td>2001</td><td>26 ottobre</td><td>2001</td></tr>
 <tr><td>Vanuatu</td><td>17 maggio</td><td>2007 A</td><td>17 agosto</td><td>2007</td></tr>
 <tr><td>Venezuela</td><td>13 maggio</td><td>2002</td><td>13 agosto</td><td>2002</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Il Prot. non si applica a Tokelau.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Al Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non si applica a Tokelau. <sup>b</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2009 265](https://fedlex.data.admin.ch/eli/oc/2009/44)[5373](https://fedlex.data.admin.ch/eli/oc/2009/641), [2011 2963](https://fedlex.data.admin.ch/eli/oc/2011/383), [2015 1119](https://fedlex.data.admin.ch/eli/oc/2015/223), [2017 111](https://fedlex.data.admin.ch/eli/oc/2017/31)e [2019 3281](https://fedlex.data.admin.ch/eli/oc/2019/599). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2009 265](https://fedlex.data.admin.ch/eli/oc/2009/44), [5373](https://fedlex.data.admin.ch/eli/oc/2009/641); [2011 2963](https://fedlex.data.admin.ch/eli/oc/2011/383); [2015 1119](https://fedlex.data.admin.ch/eli/oc/2015/223); [2017 111](https://fedlex.data.admin.ch/eli/oc/2017/31); [2019 3281](https://fedlex.data.admin.ch/eli/oc/2019/599); [2023 202](https://fedlex.data.admin.ch/eli/oc/2023/202). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20).

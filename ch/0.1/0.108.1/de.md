@@ -3,11 +3,11 @@ sr: "0.108.1"
 title: Fakultativprotokoll vom 6. Oktober 1999 zum Übereinkommen zur Beseitigung jeder Form von Diskriminierung der Frau
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/44"
 language: de
-version: 2019-10-18
+version: 2023-04-19
 adopted: 1999-10-06
 in_force: 2008-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/44/20191018/de/xml/fedlex-data-admin-ch-eli-cc-2009-44-20191018-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/44/20191018/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/44/20230419/de/xml/fedlex-data-admin-ch-eli-cc-2009-44-20230419-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/44/20230419/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,11 +18,9 @@ AS **2009** 265; BBl **2006** 9787
 
 Übersetzung
 
-Abgeschlossen in New York am 6. Oktober 1999
+Abgeschlossen in New York am 6. Oktober 1999 Von der Bundesversammlung genehmigt am 20. März 2008[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 29. September 2008 In Kraft getreten für die Schweiz am 29. Dezember 2008
 
-Von der Bundesversammlung genehmigt am 20. März 2008[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 29. September 2008 In Kraft getreten für die Schweiz am 29. Dezember 2008
-
-(Stand am 18. Oktober 2019)
+(Stand am 19. April 2023)
 
 [^t-1]: [AS 2009 263](https://fedlex.data.admin.ch/eli/oc/2009/43)
 
@@ -40,8 +38,8 @@ in erneuter Bekräftigung ihrer Entschlossenheit, die volle Gleichberechtigung d
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.108](https://fedlex.data.admin.ch/eli/cc/1999/239)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.108](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/34)
 
 #### Art. 1
 
@@ -59,7 +57,9 @@ Mitteilungen sind schriftlich abzufassen und dürfen nicht anonym sein. Der Auss
 
 <sup>1.</sup> Der Ausschuss prüft eine Mitteilung nur, wenn er sich vergewissert hat, dass alle zur Verfügung stehenden innerstaatlichen Rechtsbehelfe erschöpft worden sind, sofern nicht das Verfahren bei der Anwendung solcher Rechtsbehelfe unangemessen lange dauert oder keine wirksame Abhilfe erwarten lässt.
 
-<sup>2.</sup> Der Ausschuss erklärt eine Mitteilung für unzulässig, wenn
+<sup>2.</sup>
+
+Der Ausschuss erklärt eine Mitteilung für unzulässig, wenn:
 
 - a) dieselbe Sache bereits vom Ausschuss untersucht worden ist oder in einem anderen internationalen Untersuchungs- oder Streitregelungsverfahren geprüft worden ist oder geprüft wird;
 - b) sie unvereinbar mit den Bestimmungen des Übereinkommens ist;
@@ -105,7 +105,7 @@ Mitteilungen sind schriftlich abzufassen und dürfen nicht anonym sein. Der Auss
 
 #### Art. 9
 
-1 Der Ausschuss kann den betreffenden Vertragsstaat auffordern, in seinen Bericht nach Artikel 18 des Übereinkommens Einzelheiten über Massnahmen aufzunehmen, die als Reaktion auf eine nach Artikel 8 dieses Protokolls durchgeführte Untersuchung getroffen wurden.
+<sup>1.</sup> Der Ausschuss kann den betreffenden Vertragsstaat auffordern, in seinen Bericht nach Artikel 18 des Übereinkommens Einzelheiten über Massnahmen aufzunehmen, die als Reaktion auf eine nach Artikel 8 dieses Protokolls durchgeführte Untersuchung getroffen wurden.
 
 <sup>2.</sup> Sofern erforderlich, kann der Ausschuss nach Ablauf des in Artikel 8 Absatz 4 genannten Zeitraums von sechs Monaten den betreffenden Vertragsstaat auffordern, ihn über die als Reaktion auf eine solche Untersuchung getroffenen Massnahmen zu unterrichten.
 
@@ -181,7 +181,7 @@ Der Generalsekretär der Vereinten Nationen unterrichtet alle Staaten von:
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 18. Oktober 2019**[^t-2]**
+Geltungsbereich am 19. April 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -205,6 +205,7 @@ Geltungsbereich am 18. Oktober 2019**[^t-2]**
 <tr><td>Brasilien</td><td>28. Juni</td><td>2002</td><td>28. September</td><td>2002</td></tr>
 <tr><td>Bulgarien</td><td>20. September</td><td>2006</td><td>20. Dezember</td><td>2006</td></tr>
 <tr><td>Burkina Faso</td><td>10. Oktober</td><td>2005</td><td>10. Januar</td><td>2006</td></tr>
+<tr><td>Chile\*</td><td>12. März</td><td>2020</td><td>12. Juni</td><td>2020</td></tr>
 <tr><td>Cook-Inseln</td><td>27. November</td><td>2007 B</td><td>27. Februar</td><td>2008</td></tr>
 <tr><td>Costa Rica</td><td>20. September</td><td>2001</td><td>20. Dezember</td><td>2001</td></tr>
 <tr><td>Côte d’Ivoire</td><td>20. Januar</td><td>2012 B</td><td>20. April</td><td>2012</td></tr>
@@ -229,7 +230,7 @@ Geltungsbereich am 18. Oktober 2019**[^t-2]**
 <tr><td>Kap Verde</td><td>10. Oktober</td><td>2011 B</td><td>10. Januar</td><td>2012</td></tr>
 <tr><td>Kasachstan</td><td>24. August</td><td>2001</td><td>24. November</td><td>2001</td></tr>
 <tr><td>Kirgisistan</td><td>22. Juli</td><td>2002 B</td><td>20. Oktober</td><td>2002</td></tr>
-<tr><td>Kolumbien\*</td><td>23. Januar</td><td>2007</td><td>23. April</td><td>2007</td></tr>
+<tr><td>Kolumbien</td><td>23. Januar</td><td>2007</td><td>23. April</td><td>2007</td></tr>
 <tr><td>Korea (Süd-)</td><td>18. Oktober</td><td>2006 B</td><td>18. Januar</td><td>2007</td></tr>
 <tr><td>Kroatien</td><td>7. März</td><td>2001</td><td>7. Juni</td><td>2001</td></tr>
 <tr><td>Lesotho</td><td>24. September</td><td>2004</td><td>24. Dezember</td><td>2004</td></tr>
@@ -240,6 +241,7 @@ Geltungsbereich am 18. Oktober 2019**[^t-2]**
 <tr><td>Malediven</td><td>13. März</td><td>2006 B</td><td>13. Juni</td><td>2006</td></tr>
 <tr><td>Mali</td><td>5. Dezember</td><td>2000 B</td><td>5. März</td><td>2001</td></tr>
 <tr><td>Malta</td><td>14. März</td><td>2019 B</td><td>14. Juni</td><td>2019</td></tr>
+<tr><td>Marokko</td><td>22. April</td><td>2022 B</td><td>22. Juli</td><td>2022</td></tr>
 <tr><td>Marshallinseln</td><td>29. Januar</td><td>2019 B</td><td>29. April</td><td>2019</td></tr>
 <tr><td>Mauritius</td><td>31. Oktober</td><td>2008</td><td>31. Januar</td><td>2009</td></tr>
 <tr><td>Mexiko</td><td>15. März</td><td>2002</td><td>15. Juni</td><td>2002</td></tr>
@@ -304,7 +306,7 @@ Geltungsbereich am 18. Oktober 2019**[^t-2]**
 <tr><td>Insel Man</td><td>17. Dezember</td><td>2004</td><td>17. März</td><td>2005</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>11. Oktober</td><td>2016 B</td><td>11. Januar</td><td>2017</td></tr>
 <tr><td>Zypern</td><td>26. April</td><td>2002</td><td>26. Juli</td><td>2002</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Protokoll ist nicht auf Tokelau anwendbar. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [https://treaties.un.org](https://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll ist nicht auf Tokelau anwendbar. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2009 265](https://fedlex.data.admin.ch/eli/oc/2009/44)[5373](https://fedlex.data.admin.ch/eli/oc/2009/641), [2011 2963](https://fedlex.data.admin.ch/eli/oc/2011/383), [2015 1119](https://fedlex.data.admin.ch/eli/oc/2015/223), [2017 111](https://fedlex.data.admin.ch/eli/oc/2017/31), [2019 3281](https://fedlex.data.admin.ch/eli/oc/2019/599). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2009 265](https://fedlex.data.admin.ch/eli/oc/2009/44), [5373](https://fedlex.data.admin.ch/eli/oc/2009/641); [2011 2963](https://fedlex.data.admin.ch/eli/oc/2011/383); [2015 1119](https://fedlex.data.admin.ch/eli/oc/2015/223); [2017 111](https://fedlex.data.admin.ch/eli/oc/2017/31); [2019 3281](https://fedlex.data.admin.ch/eli/oc/2019/599); [2023 202](https://fedlex.data.admin.ch/eli/oc/2023/202). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).

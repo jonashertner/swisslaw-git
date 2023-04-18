@@ -3,11 +3,11 @@ sr: "0.108.1"
 title: "Protocole facultatif du 6 octobre 1999 se rapportant à la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/44"
 language: fr
-version: 2019-10-18
+version: 2023-04-19
 adopted: 1999-10-06
 in_force: 2008-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/44/20191018/fr/xml/fedlex-data-admin-ch-eli-cc-2009-44-20191018-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/44/20191018/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/44/20230419/fr/xml/fedlex-data-admin-ch-eli-cc-2009-44-20230419-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/44/20230419/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2009** 265; FF **2006** 9253
 
 Texte original
 
-Conclu à New York le 6 octobre 1999
+Conclu à New York le 6 octobre 1999 Approuvé par l’Assemblée fédérale le 20 mars 2008[^t-1] Instrument de ratification déposé par la Suisse le 29 septembre 2008 Entré en vigueur pour la Suisse le 29 décembre 2008
 
-Approuvé par l’Assemblée fédérale le 20 mars 2008[^t-1]
-
-Instrument de ratification déposé par la Suisse le 29 septembre 2008
-
-Entré en vigueur pour la Suisse le 29 décembre 2008
-
-(Etat le 18 octobre 2019)
+(État le 19 avril 2023)
 
 [^t-1]: [RO 2009 263](https://fedlex.data.admin.ch/eli/oc/2009/43)
 
@@ -44,8 +38,8 @@ réaffirmant qu’ils sont résolus à assurer le plein exercice par les femmes,
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.108](https://fedlex.data.admin.ch/eli/cc/1999/239)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.108](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/34)
 
 #### Art. 1
 
@@ -187,7 +181,7 @@ Le Secrétaire général de l’Organisation des Nations Unies informe tous les 
 
 (Suivent les signatures)
 
-Champ d’application le 18 octobre 2019**[^t-2]**
+Champ d’application le 19 avril 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -217,8 +211,9 @@ Champ d’application le 18 octobre 2019**[^t-2]**
 <tr><td>Cameroun</td><td>7 janvier</td><td>2005 A</td><td>7 avril</td><td>2005</td></tr>
 <tr><td>Canada</td><td>18 octobre</td><td>2002 A</td><td>18 janvier</td><td>2003</td></tr>
 <tr><td>Cap-Vert</td><td>10 octobre</td><td>2011 A</td><td>10 janvier</td><td>2012</td></tr>
+<tr><td>Chili\*</td><td>12 mars</td><td>2020</td><td>12 juin</td><td>2020</td></tr>
 <tr><td>Chypre</td><td>26 avril</td><td>2002</td><td>26 juillet</td><td>2002</td></tr>
-<tr><td>Colombie\*</td><td>23 janvier</td><td>2007</td><td>23 avril</td><td>2007</td></tr>
+<tr><td>Colombie</td><td>23 janvier</td><td>2007</td><td>23 avril</td><td>2007</td></tr>
 <tr><td>Corée (Sud)</td><td>18 octobre</td><td>2006 A</td><td>18 janvier</td><td>2007</td></tr>
 <tr><td>Costa Rica</td><td>20 septembre</td><td>2001</td><td>20 décembre</td><td>2001</td></tr>
 <tr><td>Côte d’Ivoire</td><td>20 janvier</td><td>2012 A</td><td>20 avril</td><td>2012</td></tr>
@@ -253,6 +248,7 @@ Champ d’application le 18 octobre 2019**[^t-2]**
 <tr><td>Maldives</td><td>13 mars</td><td>2006 A</td><td>13 juin</td><td>2006</td></tr>
 <tr><td>Mali</td><td>5 décembre</td><td>2000 A</td><td>5 mars</td><td>2001</td></tr>
 <tr><td>Malte</td><td>14 mars</td><td>2019 A</td><td>14 juin</td><td>2019</td></tr>
+<tr><td>Maroc</td><td>22 avril</td><td>2022 A</td><td>22 juillet</td><td>2022</td></tr>
 <tr><td>Maurice</td><td>31 octobre</td><td>2008</td><td>31 janvier</td><td>2009</td></tr>
 <tr><td>Mexique</td><td>15 mars</td><td>2002</td><td>15 juin</td><td>2002</td></tr>
 <tr><td>Moldova</td><td>28 février</td><td>2006 A</td><td>28 mai</td><td>2006</td></tr>
@@ -270,10 +266,10 @@ Champ d’application le 18 octobre 2019**[^t-2]**
 <tr><td>Panama</td><td>9 mai</td><td>2001</td><td>9 août</td><td>2001</td></tr>
 <tr><td>Paraguay</td><td>14 mai</td><td>2001</td><td>14 août</td><td>2001</td></tr>
 <tr><td>Pays-Bas <sup>b</sup></td><td>22 mai</td><td>2002</td><td>22 août</td><td>2002</td></tr>
-<tr><td>[tab] Aruba</td><td>22 mai</td><td>2002</td><td>22 août</td><td>2002</td></tr>
-<tr><td>[tab] Curaçao</td><td>22 mai</td><td>2002</td><td>22 août</td><td>2002</td></tr>
+<tr><td>Aruba</td><td>22 mai</td><td>2002</td><td>22 août</td><td>2002</td></tr>
+<tr><td>Curaçao</td><td>22 mai</td><td>2002</td><td>22 août</td><td>2002</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>22 mai</td><td>2002</td><td>22 août</td><td>2002</td></tr>
-<tr><td>[tab] Sint Maarten</td><td>22 mai</td><td>2002</td><td>22 août</td><td>2002</td></tr>
+<tr><td>Sint Maarten</td><td>22 mai</td><td>2002</td><td>22 août</td><td>2002</td></tr>
 <tr><td>Pérou</td><td>9 avril</td><td>2001</td><td>9 juillet</td><td>2001</td></tr>
 <tr><td>Philippines</td><td>12 novembre</td><td>2003</td><td>12 février</td><td>2004</td></tr>
 <tr><td>Pologne</td><td>22 décembre</td><td>2003 A</td><td>22 mars</td><td>2004</td></tr>
@@ -283,8 +279,8 @@ Champ d’application le 18 octobre 2019**[^t-2]**
 <tr><td>République tchèque</td><td>26 février</td><td>2001</td><td>26 mai</td><td>2001</td></tr>
 <tr><td>Roumanie</td><td>25 août</td><td>2003</td><td>25 novembre</td><td>2003</td></tr>
 <tr><td>Royaume-Uni</td><td>17 décembre</td><td>2004 A</td><td>17 mars</td><td>2005</td></tr>
-<tr><td>[tab] Île de Man</td><td>17 décembre</td><td>2004</td><td>17 mars</td><td>2005</td></tr>
-<tr><td>[tab] Îles Falkland</td><td>17 décembre</td><td>2004</td><td>17 mars</td><td>2005</td></tr>
+<tr><td>Île de Man</td><td>17 décembre</td><td>2004</td><td>17 mars</td><td>2005</td></tr>
+<tr><td>Îles Falkland</td><td>17 décembre</td><td>2004</td><td>17 mars</td><td>2005</td></tr>
 <tr><td>Russie</td><td>28 juillet</td><td>2004</td><td>28 octobre</td><td>2004</td></tr>
 <tr><td>Rwanda</td><td>15 décembre</td><td>2008 A</td><td>15 mars</td><td>2009</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>20 janvier</td><td>2006 A</td><td>20 avril</td><td>2006</td></tr>
@@ -310,7 +306,7 @@ Champ d’application le 18 octobre 2019**[^t-2]**
 <tr><td>Uruguay</td><td>26 juillet</td><td>2001</td><td>26 octobre</td><td>2001</td></tr>
 <tr><td>Vanuatu</td><td>17 mai</td><td>2007 A</td><td>17 août</td><td>2007</td></tr>
 <tr><td>Venezuela</td><td>13 mai</td><td>2002</td><td>13 août</td><td>2002</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique pas aux Tokélaou. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique pas aux Tokélaou. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2009 265](https://fedlex.data.admin.ch/eli/oc/2009/44)[5373](https://fedlex.data.admin.ch/eli/oc/2009/641), [2011 2963](https://fedlex.data.admin.ch/eli/oc/2011/383), [2015 1119](https://fedlex.data.admin.ch/eli/oc/2015/223), [2017 111](https://fedlex.data.admin.ch/eli/oc/2017/31), [2019 3281](https://fedlex.data.admin.ch/eli/oc/2019/599). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2009 265](https://fedlex.data.admin.ch/eli/oc/2009/44), [5373](https://fedlex.data.admin.ch/eli/oc/2009/641); [2011 2963](https://fedlex.data.admin.ch/eli/oc/2011/383); [2015 1119](https://fedlex.data.admin.ch/eli/oc/2015/223); [2017 111](https://fedlex.data.admin.ch/eli/oc/2017/31); [2019 3281](https://fedlex.data.admin.ch/eli/oc/2019/599); [2023 202](https://fedlex.data.admin.ch/eli/oc/2023/202). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
