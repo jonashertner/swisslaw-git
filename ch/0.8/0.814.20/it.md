@@ -3,11 +3,11 @@ sr: "0.814.20"
 title: "Convenzione del 17 marzo 1992 sulla protezione e l'utilizzazione dei corsi d'acqua transfrontalieri e dei laghi internazionali (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/835_835_835"
 language: it
-version: 2020-07-06
+version: 2023-04-20
 adopted: 1992-03-17
 in_force: 1996-10-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/835_835_835/20200706/it/xml/fedlex-data-admin-ch-eli-cc-1997-835_835_835-20200706-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/835_835_835/20200706/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/835_835_835/20230420/it/xml/fedlex-data-admin-ch-eli-cc-1997-835_835_835-20230420-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/835_835_835/20230420/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Helsinki 17 marzo 1992 Approvata dall’Assemblea federale il 2 giugno 1994[^t-1] Ratificata dalla Svizzera con strumento depositato il 23 maggio 1995 Entrata in vigore per la Svizzera il 6 ottobre 1996
 
-(Stato 6 luglio 2020)
+(Stato 20 aprile 2023)
 
 [^t-1]: [RU 1997 834](https://fedlex.data.admin.ch/eli/oc/1997/834_834_834)
 
@@ -508,26 +508,30 @@ Annesso IV
 
 \18. Ogni controversia tra le Parti riguardo all’interpretazione o all’esecuzione del lodo arbitrale può essere sottoposta da una delle Parti al Tribunale arbitrale che ha reso la sentenza oppure, se quest’ultimo non può esserne investito, ad un altro Tribunale costituito a tal fine nella stessa maniera del primo.
 
-Campo d’applicazione il 6 luglio 2020**[^t-2]**
+Campo d’applicazione il 20 aprile 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania <sup>a</sup></td><td>5 gennaio</td><td>1994</td><td>6 ottobre</td><td>1996</td></tr>
-<tr><td>Austria<sup>\* a</sup></td><td>25 luglio</td><td>1996</td><td>23 ottobre</td><td>1996</td></tr>
+<tr><td>Austria<sup>\*</sup> <sup>a</sup></td><td>25 luglio</td><td>1996</td><td>23 ottobre</td><td>1996</td></tr>
 <tr><td>Azerbaigian <sup>a</sup></td><td>3 agosto</td><td>2000 A</td><td>1° novembre</td><td>2000</td></tr>
-<tr><td>Belarus</td><td>29 maggio</td><td>2003 A</td><td>27 agosto</td><td>2003</td></tr>
+<tr><td>Belarus <sup>a</sup></td><td>29 maggio</td><td>2003 A</td><td>27 agosto</td><td>2003</td></tr>
 <tr><td>Belgio <sup>a</sup></td><td>8 novembre</td><td>2000</td><td>6 febbraio</td><td>2001</td></tr>
 <tr><td>Bosnia e Erzegovina <sup>a</sup></td><td>3 dicembre</td><td>2009 A</td><td>3 marzo</td><td>2010</td></tr>
 <tr><td>Bulgaria <sup>a</sup></td><td>28 ottobre</td><td>2003</td><td>27 gennaio</td><td>2004</td></tr>
+<tr><td>Camerun <sup>a</sup></td><td>1° novembre</td><td>2022 A</td><td>30 gennaio</td><td>2023</td></tr>
 <tr><td>Ceca, Repubblica <sup>a</sup></td><td>12 giugno</td><td>2000 A</td><td>10 settembre</td><td>2000</td></tr>
-<tr><td>Ciad</td><td>22 febbraio</td><td>2018 A</td><td>23 maggio</td><td>2018</td></tr>
+<tr><td>Ciad <sup>a</sup></td><td>22 febbraio</td><td>2018 A</td><td>23 maggio</td><td>2018</td></tr>
 <tr><td>Croazia <sup>a</sup></td><td>8 luglio</td><td>1996 A</td><td>6 ottobre</td><td>1996</td></tr>
-<tr><td>Danimarca<sup>\*</sup> <sup>a</sup> <sup>b</sup></td><td>28 maggio</td><td>1997</td><td>26 agosto</td><td>1997</td></tr>
+<tr><td>Danimarca<sup>\*</sup> <sup>a</sup></td><td>28 maggio</td><td>1997</td><td>26 agosto</td><td>1997</td></tr>
 <tr><td>Estonia <sup>a</sup></td><td>16 giugno</td><td>1995</td><td>6 ottobre</td><td>1996</td></tr>
 <tr><td>Finlandia <sup>a</sup></td><td>21 febbraio</td><td>1996</td><td>6 ottobre</td><td>1996</td></tr>
 <tr><td>Francia<sup>\*</sup> <sup>a</sup></td><td>30 giugno</td><td>1998</td><td>28 settembre</td><td>1998</td></tr>
 <tr><td>Germania<sup>\*</sup> <sup>a</sup></td><td>30 gennaio</td><td>1995</td><td>6 ottobre</td><td>1996</td></tr>
-<tr><td>Grecia</td><td>6 settembre</td><td>1996</td><td>5 dicembre</td><td>1996</td></tr>
+<tr><td>Ghana <sup>a</sup></td><td>22 giugno</td><td>2020 A</td><td>20 settembre</td><td>2020</td></tr>
+<tr><td>Grecia <sup>a</sup></td><td>6 settembre</td><td>1996</td><td>5 dicembre</td><td>1996</td></tr>
+<tr><td>Guinea-Bissau <sup>a</sup></td><td>14 giugno</td><td>2021 A</td><td>12 settembre</td><td>2021</td></tr>
+<tr><td>Iraq <sup>a</sup></td><td>24 marzo</td><td>2023 A</td><td>22 giugno</td><td>2023</td></tr>
 <tr><td>Italia <sup>a</sup></td><td>23 maggio</td><td>1996</td><td>6 ottobre</td><td>1996</td></tr>
 <tr><td>Kazakstan <sup>a</sup></td><td>11 gennaio</td><td>2001 A</td><td>11 aprile</td><td>2001</td></tr>
 <tr><td>Lettonia <sup>a</sup></td><td>10 dicembre</td><td>1996</td><td>10 marzo</td><td>1997</td></tr>
@@ -537,28 +541,29 @@ Campo d’applicazione il 6 luglio 2020**[^t-2]**
 <tr><td>Macedonia del Nord <sup>a</sup></td><td>28 luglio</td><td>2015 A</td><td>26 ottobre</td><td>2015</td></tr>
 <tr><td>Moldova <sup>a</sup></td><td>4 gennaio</td><td>1994 A</td><td>6 ottobre</td><td>1996</td></tr>
 <tr><td>Montenegro <sup>a</sup></td><td>23 giugno</td><td>2014 A</td><td>21 settembre</td><td>2014</td></tr>
+<tr><td>Nigeria <sup>a</sup></td><td>22 marzo</td><td>2023 A</td><td>20 giugno</td><td>2023</td></tr>
 <tr><td>Norvegia <sup>a</sup></td><td>1° aprile</td><td>1993</td><td>6 ottobre</td><td>1996</td></tr>
-<tr><td>Paesi Bassi<sup>\*a c</sup></td><td>14 marzo</td><td>1995</td><td>6 ottobre</td><td>1996</td></tr>
+<tr><td>Paesi Bassi<sup>\*</sup> <sup>a</sup> <sup>b</sup></td><td>14 marzo</td><td>1995</td><td>6 ottobre</td><td>1996</td></tr>
 <tr><td>Polonia <sup>a</sup></td><td>15 marzo</td><td>2000</td><td>13 giugno</td><td>2000</td></tr>
 <tr><td>Portogallo <sup>a</sup></td><td>9 dicembre</td><td>1994</td><td>6 ottobre</td><td>1996</td></tr>
 <tr><td>Romania <sup>a</sup></td><td>31 maggio</td><td>1995</td><td>6 ottobre</td><td>1996</td></tr>
-<tr><td>Russia</td><td>2 novembre</td><td>1993</td><td>6 ottobre</td><td>1996</td></tr>
-<tr><td>Senegal</td><td>31 agosto</td><td>2018 A</td><td>29 novembre</td><td>2018</td></tr>
-<tr><td>Serbia <sup>a</sup></td><td>27 agosto</td><td>2010 A</td><td>25 novembre</td><td>2010</td></tr>
-<tr><td>Slovacchia</td><td>7 luglio</td><td>1999 A</td><td>5 ottobre</td><td>1999</td></tr>
+<tr><td>Russia <sup>a</sup></td><td>2 novembre</td><td>1993</td><td>6 ottobre</td><td>1996</td></tr>
+<tr><td>Senegal <sup>a</sup></td><td>31 agosto</td><td>2018 A</td><td>29 novembre</td><td>2018</td></tr>
+<tr><td>Serbia<sup>\*</sup> <sup>a</sup></td><td>27 agosto</td><td>2010 A</td><td>25 novembre</td><td>2010</td></tr>
+<tr><td>Slovacchia <sup>a</sup></td><td>7 luglio</td><td>1999 A</td><td>5 ottobre</td><td>1999</td></tr>
 <tr><td>Slovenia <sup>a</sup></td><td>13 aprile</td><td>1999 A</td><td>12 luglio</td><td>1999</td></tr>
 <tr><td>Spagna<sup>\*</sup> <sup>a</sup></td><td>16 febbraio</td><td>2000</td><td>16 maggio</td><td>2000</td></tr>
 <tr><td>Svezia <sup>a</sup></td><td>5 agosto</td><td>1993</td><td>6 ottobre</td><td>1996</td></tr>
-<tr><td>Svizzera<sup>a</sup></td><td>23 maggio</td><td>1995</td><td>6 ottobre</td><td>1996</td></tr>
+<tr><td>Svizzera <sup>a</sup></td><td>23 maggio</td><td>1995</td><td>6 ottobre</td><td>1996</td></tr>
+<tr><td>Togo <sup>a</sup></td><td>28 settembre</td><td>2021 A</td><td>27 dicembre</td><td>2021</td></tr>
 <tr><td>Turkmenistan</td><td>29 agosto</td><td>2012 A</td><td>27 novembre</td><td>2012</td></tr>
 <tr><td>Ucraina <sup>a</sup></td><td>8 ottobre</td><td>1999 A</td><td>6 gennaio</td><td>2000</td></tr>
 <tr><td>Ungheria <sup>a</sup></td><td>2 settembre</td><td>1994</td><td>6 ottobre</td><td>1996</td></tr>
-<tr><td>Unione europea</td><td>14 settembre</td><td>1995</td><td>6 ottobre</td><td>1996</td></tr>
+<tr><td>Unione europea (UE) <sup>a</sup></td><td>14 settembre</td><td>1995</td><td>6 ottobre</td><td>1996</td></tr>
 <tr><td>Uzbekistan <sup>a</sup></td><td>4 settembre</td><td>2007 A</td><td>3 dicembre</td><td>2007</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Questo Stato partecipante ha accettato la dec. III/1 del 28 nov. 2003 (emendamento agli art. 25 e 26).</td></tr>
-<tr><td colspan="5"><sup>b</sup> L’emendamento non vale né per le isole Faeröer né per la Groenlandia.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Al Regno in Europa.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 1997 835](https://fedlex.data.admin.ch/eli/oc/1997/835_835_835), [2004 4007](https://fedlex.data.admin.ch/eli/oc/2004/582), [2010 3613](https://fedlex.data.admin.ch/eli/oc/2010/521), [2013 283](https://fedlex.data.admin.ch/eli/oc/2013/42)[377](https://fedlex.data.admin.ch/eli/oc/2013/62), [2016 377](https://fedlex.data.admin.ch/eli/oc/2016/54), [2020 3431](https://fedlex.data.admin.ch/eli/oc/2020/586). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1997 835](https://fedlex.data.admin.ch/eli/oc/1997/835_835_835); [2004 4007](https://fedlex.data.admin.ch/eli/oc/2004/582); [2010 3613](https://fedlex.data.admin.ch/eli/oc/2010/521); [2013 283](https://fedlex.data.admin.ch/eli/oc/2013/42), [377](https://fedlex.data.admin.ch/eli/oc/2013/62); [2016 377](https://fedlex.data.admin.ch/eli/oc/2016/54); [2020 3431](https://fedlex.data.admin.ch/eli/oc/2020/586); [2023 194](https://fedlex.data.admin.ch/eli/oc/2023/194). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).

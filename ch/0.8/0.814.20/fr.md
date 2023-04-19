@@ -3,11 +3,11 @@ sr: "0.814.20"
 title: "Convention du 17 mars 1992 sur la protection et l'utilisation des cours d'eau transfrontières et des lacs internationaux (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/835_835_835"
 language: fr
-version: 2020-07-06
+version: 2023-04-20
 adopted: 1992-03-17
 in_force: 1996-10-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/835_835_835/20200706/fr/xml/fedlex-data-admin-ch-eli-cc-1997-835_835_835-20200706-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/835_835_835/20200706/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/835_835_835/20230420/fr/xml/fedlex-data-admin-ch-eli-cc-1997-835_835_835-20230420-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/835_835_835/20230420/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 23 mai 1995
 
 Entrée en vigueur pour la Suisse le 6 octobre 1996
 
-(Etat le 6 juillet 2020)
+(État le 20 avril 2023)
 
 [^t-1]: [RO 1997 834](https://fedlex.data.admin.ch/eli/oc/1997/834_834_834)
 
@@ -311,7 +311,7 @@ Lors de leurs réunions, les Parties suivent l’application de la présente Con
 Le Secrétaire exécutif de la Commission économique pour l’Europe exerce les fonctions de secrétariat suivantes:
 
 - a) il convoque et prépare les réunions des Parties;
-- b) il transmet aux Parties les rapports et autres renseignements reçus en application des dispositions de la présente Convention; et
+- b) il transmet aux Parties les rapports et autres renseignements reçus en application des dispositions de la présente Convention, et
 - c) il s’acquitte des autres fonctions que les Parties peuvent lui assigner.
 
 #### Art. 20
@@ -487,7 +487,7 @@ Annexe IV
 
 \9. Les Parties au différend facilitent la tâche du tribunal arbitral et, en particulier, par tous les moyens à leur disposition:
 
-- a) lui fournissent tous les documents, facilités et renseignements pertinents; et
+- a) lui fournissent tous les documents, facilités et renseignements pertinents, et
 - b) lui permettent, si cela est nécessaire, de citer et d’entendre des témoins ou des experts.
 
 \10. Les Parties et les arbitres protègent le secret de tout renseignement qu’ils reçoivent à titre confidentiel pendant la procédure d’arbitrage.
@@ -508,7 +508,7 @@ Annexe IV
 
 \18. Tout différend entre les Parties au sujet de l’interprétation ou de l’exécution de la sentence peut être soumis par l’une des Parties au tribunal arbitral qui a rendu ladite sentence ou, si ce dernier ne peut en être saisi, à un autre tribunal constitué à cet effet de la même manière que le premier.
 
-Champ d’application le 6 juillet 2020**[^t-2]**
+Champ d’application le 20 avril 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -516,18 +516,22 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Allemagne\* <sup>a</sup></td><td>30 janvier</td><td>1995</td><td>6 octobre</td><td>1996</td></tr>
 <tr><td>Autriche\* <sup>a</sup></td><td>25 juillet</td><td>1996</td><td>23 octobre</td><td>1996</td></tr>
 <tr><td>Azerbaïdjan <sup>a</sup></td><td>3 août</td><td>2000 A</td><td>1<sup>er</sup> novembre</td><td>2000</td></tr>
-<tr><td>Bélarus</td><td>29 mai</td><td>2003 A</td><td>27 août</td><td>2003</td></tr>
+<tr><td>Bélarus <sup>a</sup></td><td>29 mai</td><td>2003 A</td><td>27 août</td><td>2003</td></tr>
 <tr><td>Belgique <sup>a</sup></td><td>8 novembre</td><td>2000</td><td>6 février</td><td>2001</td></tr>
 <tr><td>Bosnie et Herzégovine <sup>a</sup></td><td>3 décembre</td><td>2009 A</td><td>3 mars</td><td>2010</td></tr>
 <tr><td>Bulgarie <sup>a</sup></td><td>28 octobre</td><td>2003</td><td>27 janvier</td><td>2004</td></tr>
+<tr><td>Cameroun <sup>a</sup></td><td>1<sup>er</sup> novembre</td><td>2022 A</td><td>30 janvier</td><td>2023</td></tr>
 <tr><td>Croatie <sup>a</sup></td><td>8 juillet</td><td>1996 A</td><td>6 octobre</td><td>1996</td></tr>
-<tr><td>Danemark\* <sup>a c</sup></td><td>28 mai</td><td>1997</td><td>26 août</td><td>1997</td></tr>
+<tr><td>Danemark\* <sup>a</sup></td><td>28 mai</td><td>1997</td><td>26 août</td><td>1997</td></tr>
 <tr><td>Espagne\* <sup>a</sup></td><td>16 février</td><td>2000</td><td>16 mai</td><td>2000</td></tr>
 <tr><td>Estonie <sup>a</sup></td><td>16 juin</td><td>1995</td><td>6 octobre</td><td>1996</td></tr>
 <tr><td>Finlande <sup>a</sup></td><td>21 février</td><td>1996</td><td>6 octobre</td><td>1996</td></tr>
 <tr><td>France\* <sup>a</sup></td><td>30 juin</td><td>1998</td><td>28 septembre</td><td>1998</td></tr>
-<tr><td>Grèce</td><td>6 septembre</td><td>1996</td><td>5 décembre</td><td>1996</td></tr>
+<tr><td>Ghana <sup>a</sup></td><td>22 juin</td><td>2020 A</td><td>20 septembre</td><td>2020</td></tr>
+<tr><td>Grèce <sup>a</sup></td><td>6 septembre</td><td>1996</td><td>5 décembre</td><td>1996</td></tr>
+<tr><td>Guinée-Bissau <sup>a</sup></td><td>14 juin</td><td>2021 A</td><td>12 septembre</td><td>2021</td></tr>
 <tr><td>Hongrie <sup>a</sup></td><td>2 septembre</td><td>1994</td><td>6 octobre</td><td>1996</td></tr>
+<tr><td>Iraq <sup>a</sup></td><td>24 mars</td><td>2023 A</td><td>22 juin</td><td>2023</td></tr>
 <tr><td>Italie <sup>a</sup></td><td>23 mai</td><td>1996</td><td>6 octobre</td><td>1996</td></tr>
 <tr><td>Kazakhstan <sup>a</sup></td><td>11 janvier</td><td>2001 A</td><td>11 avril</td><td>2001</td></tr>
 <tr><td>Lettonie <sup>a</sup></td><td>10 décembre</td><td>1996</td><td>10 mars</td><td>1997</td></tr>
@@ -537,6 +541,7 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Macédoine du Nord <sup>a</sup></td><td>28 juillet</td><td>2015 A</td><td>26 octobre</td><td>2015</td></tr>
 <tr><td>Moldova <sup>a</sup></td><td>4 janvier</td><td>1994 A</td><td>6 octobre</td><td>1996</td></tr>
 <tr><td>Monténégro <sup>a</sup></td><td>23 juin</td><td>2014 A</td><td>21 septembre</td><td>2014</td></tr>
+<tr><td>Nigéria <sup>a</sup></td><td>22 mars</td><td>2023 A</td><td>20 juin</td><td>2023</td></tr>
 <tr><td>Norvège <sup>a</sup></td><td>1<sup>er</sup> avril</td><td>1993</td><td>6 octobre</td><td>1996</td></tr>
 <tr><td>Ouzbékistan <sup>a</sup></td><td>4 septembre</td><td>2007 A</td><td>3 décembre</td><td>2007</td></tr>
 <tr><td>Pays-Bas\* <sup>a b</sup></td><td>14 mars</td><td>1995</td><td>6 octobre</td><td>1996</td></tr>
@@ -544,21 +549,19 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Portugal <sup>a</sup></td><td>9 décembre</td><td>1994</td><td>6 octobre</td><td>1996</td></tr>
 <tr><td>République tchèque <sup>a</sup></td><td>12 juin</td><td>2000 A</td><td>10 septembre</td><td>2000</td></tr>
 <tr><td>Roumanie <sup>a</sup></td><td>31 mai</td><td>1995</td><td>6 octobre</td><td>1996</td></tr>
-<tr><td>Russie</td><td>2 novembre</td><td>1993</td><td>6 octobre</td><td>1996</td></tr>
-<tr><td>Sénégal</td><td>31 août</td><td>2018 A</td><td>29 novembre</td><td>2018</td></tr>
-<tr><td>Serbie <sup>a</sup></td><td>27 août</td><td>2010 A</td><td>25 novembre</td><td>2010</td></tr>
-<tr><td>Slovaquie</td><td>7 juillet</td><td>1999 A</td><td>5 octobre</td><td>1999</td></tr>
+<tr><td>Russie <sup>a</sup></td><td>2 novembre</td><td>1993</td><td>6 octobre</td><td>1996</td></tr>
+<tr><td>Sénégal <sup>a</sup></td><td>31 août</td><td>2018 A</td><td>29 novembre</td><td>2018</td></tr>
+<tr><td>Serbie\* <sup>a</sup></td><td>27 août</td><td>2010 A</td><td>25 novembre</td><td>2010</td></tr>
+<tr><td>Slovaquie <sup>a</sup></td><td>7 juillet</td><td>1999 A</td><td>5 octobre</td><td>1999</td></tr>
 <tr><td>Slovénie <sup>a</sup></td><td>13 avril</td><td>1999 A</td><td>12 juillet</td><td>1999</td></tr>
 <tr><td>Suède <sup>a</sup></td><td>5 août</td><td>1993</td><td>6 octobre</td><td>1996</td></tr>
 <tr><td>Suisse <sup>a</sup></td><td>23 mai</td><td>1995</td><td>6 octobre</td><td>1996</td></tr>
-<tr><td>Tchad</td><td>22 février</td><td>2018 A</td><td>23 mai</td><td>2018</td></tr>
+<tr><td>Tchad <sup>a</sup></td><td>22 février</td><td>2018 A</td><td>23 mai</td><td>2018</td></tr>
+<tr><td>Togo <sup>a</sup></td><td>28 septembre</td><td>2021 A</td><td>27 décembre</td><td>2021</td></tr>
 <tr><td>Turkménistan</td><td>29 août</td><td>2012 A</td><td>27 novembre</td><td>2012</td></tr>
 <tr><td>Ukraine <sup>a</sup></td><td>8 octobre</td><td>1999 A</td><td>6 janvier</td><td>2000</td></tr>
-<tr><td>Union européenne (UE)</td><td>14 septembre</td><td>1995</td><td>6 octobre</td><td>1996</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l'adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Cet État partie a accepté la décision III/1 du 28 novembre 2003 (amendements aux art. 25 et 26 de la convention).</td></tr>
-<tr><td colspan="5"><sup>b</sup> Pour le Royaume en Europe</td></tr>
-<tr><td colspan="5"><sup>c</sup> La mod. n’est pas applicable aux Iles Féroé et Groenland</td></tr>
+<tr><td>Union européenne (UE) <sup>a</sup></td><td>14 septembre</td><td>1995</td><td>6 octobre</td><td>1996</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État partie a accepté la décision III/1 du 28 novembre 2003 (amendements aux art. 25 et 26 de la convention). <sup>b</sup> Pour le Royaume en Europe</td></tr>
 </table>
 
-[^t-2]: RO **1997** 855 et **2004** 4007, **2010** 3613, **2013** 283 377, **2016** 377, **2020** 3431. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1997 835](https://fedlex.data.admin.ch/eli/oc/1997/835_835_835); [2004 4007](https://fedlex.data.admin.ch/eli/oc/2004/582); [2010 3613](https://fedlex.data.admin.ch/eli/oc/2010/521); [2013 283](https://fedlex.data.admin.ch/eli/oc/2013/42), [377](https://fedlex.data.admin.ch/eli/oc/2013/62); [2016 377](https://fedlex.data.admin.ch/eli/oc/2016/54); [2020 3431](https://fedlex.data.admin.ch/eli/oc/2020/586); [2023 194](https://fedlex.data.admin.ch/eli/oc/2023/194). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

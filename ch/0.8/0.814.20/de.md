@@ -3,11 +3,11 @@ sr: "0.814.20"
 title: Übereinkommen vom 17. März 1992 zum Schutz und zur Nutzung grenzüberschreitender Wasserläufe und internationaler Seen (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/835_835_835"
 language: de
-version: 2020-07-06
+version: 2023-04-20
 adopted: 1992-03-17
 in_force: 1996-10-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/835_835_835/20200706/de/xml/fedlex-data-admin-ch-eli-cc-1997-835_835_835-20200706-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/835_835_835/20200706/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/835_835_835/20230420/de/xml/fedlex-data-admin-ch-eli-cc-1997-835_835_835-20230420-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/835_835_835/20230420/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1997** 835; BBl **1994** I 261
 
 Abgeschlossen in Helsinki am 17. März 1992 Von der Bundesversammlung genehmigt am 2. Juni 1994[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 23. Mai 1995 In Kraft getreten für die Schweiz am 6. Oktober 1996
 
-(Stand am 6. Juli 2020)
+(Stand am 20. April 2023)
 
 [^t-1]: [AS 1997 834](https://fedlex.data.admin.ch/eli/oc/1997/834_834_834)
 
@@ -38,11 +38,11 @@ in lobender Anerkennung der bereits von den ECE-Regierungen unternommenen Anstre
 
 unter Hinweis auf die diesbezüglichen Bestimmungen und Grundsätze der Erklärung der Konferenz von Stockholm über die menschliche Umwelt, der Schlussakte der Konferenz über Sicherheit und Zusammenarbeit in Europa (KSZE), der Schlussdokumente des Treffens der Vertreter der KSZE-Teilnehmerstaaten in Madrid und Wien sowie der regionalen Strategie für Umweltschutz und rationelle Nutzung der natürlichen Ressourcen in den ECE-Mitgliedsländern für den Zeitraum bis zum Jahr 2000 und darüber hinaus,
 
-eingedenk der Rolle der Wirtschaftskommission der Vereinten Nationen für Europa bei der Förderung der internationalen Zusammenarbeit zur Vermeidung, Kontrolle und Verringerung der grenzüberschreitenden Wasserverschmutzung sowie zur dauerhaften Nutzung von grenzüberschreitenden Gewässern und in diesem Zusammenhang unter Hinweis auf die ECE-Erklärung zum Verfahren für die Vermeidung und Kontrolle der Gewässerverschmutzung, einschliesslich der grenzüberschreitenden Verschmutzung, die ECE-Erklärung zum Verfahren für eine rationelle Verwendung von Wasser, die ECE-Grundsätze in bezug auf die Zusammenarbeit auf dem Gebiet grenzüberschreitender Gewässer, die ECE-Charta zur Grundwasserbewirtschaftung und den Verhaltenskodex bei unfallbedingter Verschmutzung grenzüberschreitender Binnengewässer,
+eingedenk der Rolle der Wirtschaftskommission der Vereinten Nationen für Europa bei der Förderung der internationalen Zusammenarbeit zur Vermeidung, Kontrolle und Verringerung der grenzüberschreitenden Wasserverschmutzung sowie zur dauerhaften Nutzung von grenzüberschreitenden Gewässern und in diesem Zusammenhang unter Hinweis auf die ECE-Erklärung zum Verfahren für die Vermeidung und Kontrolle der Gewässerverschmutzung, einschliesslich der grenzüberschreitenden Verschmutzung, die ECE-Erklärung zum Verfahren für eine rationelle Verwendung von Wasser, die ECE-Grundsätze in Bezug auf die Zusammenarbeit auf dem Gebiet grenzüberschreitender Gewässer, die ECE-Charta zur Grundwasserbewirtschaftung und den Verhaltenskodex bei unfallbedingter Verschmutzung grenzüberschreitender Binnengewässer,
 
 unter Bezugnahme auf die von der Wirtschaftskommission für Europa während ihrer 42. und 44. Tagung gefassten Beschlüsse I (42) und I (44) sowie auf das Ergebnis des KSZE-Treffens zum Schutz der Umwelt (Sofia, Bulgarien, 16. Oktober bis 3. November 1989),
 
-unter Betonung der Tatsache, dass die Zusammenarbeit zwischen den Mitgliedsländern in bezug auf den Schutz und die Nutzung grenzüberschreitender Gewässer in erster Linie durch Abkommen zwischen den an dasselbe Gewässer angrenzenden Ländern erfolgen soll, insbesondere in den Fällen, in denen solche Abkommen bisher noch nicht abgeschlossen werden konnten –
+unter Betonung der Tatsache, dass die Zusammenarbeit zwischen den Mitgliedsländern in Bezug auf den Schutz und die Nutzung grenzüberschreitender Gewässer in erster Linie durch Abkommen zwischen den an dasselbe Gewässer angrenzenden Ländern erfolgen soll, insbesondere in den Fällen, in denen solche Abkommen bisher noch nicht abgeschlossen werden konnten –
 
 sind wie folgt übereingekommen:
 
@@ -165,14 +165,14 @@ Die Bestimmungen dieses Übereinkommens wirken sich nicht auf die Rechte oder di
 
 **Bilaterale und multilaterale Zusammenarbeit**
 
-<sup>1.</sup> Die Anrainerstaaten gehen auf der Grundlage der Gleichberechtigung und Gegenseitigkeit bilaterale oder multilaterale Abkommen oder andere Vereinbarungen ein, soweit diese noch nicht bestehen, oder passen, soweit notwendig, bereits vorhandene Abkommen oder Vereinbarungen dahingehend an, dass Widersprüche zu den Grundprinzipien dieses Übereinkommens ausgeräumt werden, um so ihre gegenseitigen Beziehungen und ihr Verhalten in bezug auf die Vermeidung, Kontrolle und Verringerung grenzüberschreitender Beeinträchtigungen festzulegen. Die Anrainerstaaten legen das Einzugsgebiet oder Teile dieses Einzugsgebietes, in welchem die Zusammenarbeit stattfinden soll, fest. Diese Abkommen oder Vereinbarungen umfassen die diesbezüglichen und durch dieses Übereinkommen abgedeckten Themen sowie alle weiteren Bereiche, in welchen die Anrainerstaaten eine Zusammenarbeit für notwendig halten.
+<sup>1.</sup> Die Anrainerstaaten gehen auf der Grundlage der Gleichberechtigung und Gegenseitigkeit bilaterale oder multilaterale Abkommen oder andere Vereinbarungen ein, soweit diese noch nicht bestehen, oder passen, soweit notwendig, bereits vorhandene Abkommen oder Vereinbarungen dahingehend an, dass Widersprüche zu den Grundprinzipien dieses Übereinkommens ausgeräumt werden, um so ihre gegenseitigen Beziehungen und ihr Verhalten in Bezug auf die Vermeidung, Kontrolle und Verringerung grenzüberschreitender Beeinträchtigungen festzulegen. Die Anrainerstaaten legen das Einzugsgebiet oder Teile dieses Einzugsgebietes, in welchem die Zusammenarbeit stattfinden soll, fest. Diese Abkommen oder Vereinbarungen umfassen die diesbezüglichen und durch dieses Übereinkommen abgedeckten Themen sowie alle weiteren Bereiche, in welchen die Anrainerstaaten eine Zusammenarbeit für notwendig halten.
 
 <sup>2.</sup>
 
 Die in Absatz 1 dieses Artikels erwähnten Abkommen und Vereinbarungen sehen die Einrichtung gemeinsamer Gremien vor. Die Aufgabe dieser gemeinsamen Gremien umfasst unter anderem und unbeschadet diesbezüglich bereits vorhandener Abkommen oder Vereinbarungen folgende Teilaufgaben:
 
 - a) Sammlung, Zusammenstellung und Auswertung von Daten, um so die vermutlich zu grenzüberschreitenden Beeinträchtigungen führenden Verschmutzungsquellen feststellen zu können;
-- b) Ausarbeitung gemeinsamer Überwachungsprogramme in bezug auf die Wasserqualität und Wassermenge;
+- b) Ausarbeitung gemeinsamer Überwachungsprogramme in Bezug auf die Wasserqualität und Wassermenge;
 - c) Erstellung von Verzeichnissen und Austausch von Informationen über Verschmutzungsquellen nach Absatz 2 Buchstabe a) dieses Artikels;
 - d) Ausarbeitung von Emissionsgrenzwerten für Abwasser und die Bewertung der Effektivität der Kontrollprogramme;
 - e) Ausarbeitung gemeinsamer Wasserqualitätsziele und -kriterien mit Bezug auf die Bestimmungen des Artikels 3 Absatz 3 dieses Übereinkommens und Vorschlag diesbezüglicher Massnahmen zur Aufrechterhaltung und gegebenenfalls Verbesserung der vorhandenen Wasserqualität;
@@ -180,7 +180,7 @@ Die in Absatz 1 dieses Artikels erwähnten Abkommen und Vereinbarungen sehen die
 - g) Einsetzung von Alarm- und Warnverfahren;
 - h) Erfüllung der Funktion eines Forums für den Austausch von Informationen über gegenwärtige und geplante Nutzungen von Wasser und Einrichtungen, durch welche wahrscheinlich grenzüberschreitende Beeinträchtigungen verursacht werden;
 - i) Förderung der Zusammenarbeit und des Austausches von Informationen über die beste verfügbare Technologie nach Artikel 13 dieses Übereinkommens sowie Unterstützung der Zusammenarbeit in wissenschaftlichen Forschungsprogrammen;
-- j) Teilnahme an der Durchführung von Umweltverträglichkeitsprüfungen in bezug auf grenzüberschreitende Gewässer gemäss den entsprechenden internationalen Bestimmungen.
+- j) Teilnahme an der Durchführung von Umweltverträglichkeitsprüfungen in Bezug auf grenzüberschreitende Gewässer gemäss den entsprechenden internationalen Bestimmungen.
 
 <sup>3.</sup> Wenn ein Küstenstaat, der Vertragspartei dieses Übereinkommens ist, direkt und beträchtlich von grenzüberschreitenden Beeinträchtigungen betroffen ist, so können die Anrainerstaaten diesen Küstenstaat nach allgemeiner Zustimmung dazu auffordern, sich in angemessener Weise an den Aktivitäten multilateraler, von den Vertragsparteien, die Anrainerstaaten an solchen grenzüberschreitenden Gewässern sind, eingerichteter gemeinsamer Gremien zu beteiligen.
 
@@ -277,7 +277,7 @@ Die Anrainerstaaten stellen sicher, dass Informationen über die Beschaffenheit 
 
 <sup>2.</sup> Auf ihren Tagungen überprüfen die Vertragsparteien laufend die Umsetzung dieses Übereinkommens und aus diesem Grund
 
-- a) überprüfen sie die Verfahren und methodischen Ansätze der Vertragsparteien zum Schutz und zur Nutzung grenzüberschreitender Gewässer in bezug auf die weitere Verbesserung des Schutzes und der Nutzung der grenzüberschreitenden Gewässer;
+- a) überprüfen sie die Verfahren und methodischen Ansätze der Vertragsparteien zum Schutz und zur Nutzung grenzüberschreitender Gewässer in Bezug auf die weitere Verbesserung des Schutzes und der Nutzung der grenzüberschreitenden Gewässer;
 - b) tauschen sie Informationen aus über die im Zusammenhang mit dem Abschluss und der Umsetzung bilateraler und multilateraler Abkommen oder anderer Vereinbarungen zum Schutz und zur Nutzung grenzüberschreitender Gewässer, bezüglich deren eine oder mehrere Vertragsparteien Anrainerstaaten sind, gesammelte Erfahrung;
 - c) erbitten sie gegebenenfalls die Dienste der diesbezüglichen ECE-Gremien sowie anderer zuständiger internationaler Gremien und fachlicher Ausschüsse bei allen Aspekten im Zusammenhang mit der Erfüllung des Zwecks dieses Übereinkommens;
 - d) beraten sie auf ihrer ersten Tagung über Verfahrensregeln für ihre Tagungen und nehmen diese an;
@@ -328,7 +328,7 @@ Die Anhänge zu diesem Übereinkommen bilden einen Bestandteil dieses Übereinko
 
 <sup>2.</sup>
 
-Bei Unterzeichnung, Ratifikation, Annahme, Genehmigung oder Beitritt zu diesem Übereinkommen oder zu jedem späteren Zeitpunkt kann eine Vertragspartei dem Depositar schriftlich erklären, dass sie für eine nicht nach Absatz 1 dieses Artikels beigelegte Streitigkeit eine oder beide der folgenden Möglichkeiten der Streitschlichtung als verpflichtend in bezug auf jede andere Vertragspartei ansieht, welche dieselbe Verpflichtung eingeht:
+Bei Unterzeichnung, Ratifikation, Annahme, Genehmigung oder Beitritt zu diesem Übereinkommen oder zu jedem späteren Zeitpunkt kann eine Vertragspartei dem Depositar schriftlich erklären, dass sie für eine nicht nach Absatz 1 dieses Artikels beigelegte Streitigkeit eine oder beide der folgenden Möglichkeiten der Streitschlichtung als verpflichtend in Bezug auf jede andere Vertragspartei ansieht, welche dieselbe Verpflichtung eingeht:
 
 - a) Verweisung der Streitigkeit an den Internationalen Gerichtshof;
 - b) Schiedsverfahren entsprechend dem in Anhang IV festgelegten Verfahren.
@@ -361,7 +361,7 @@ In der Beitrittsurkunde erklärt der betreffende Staat, dass sein Beitritt zum �
 
 4.[^25-2] Jede in Artikel 23 genannte Organisation, die Vertragspartei dieses Übereinkommens wird, ohne dass einer ihrer Mitgliedstaaten Vertragspartei ist, unterliegt allen Verpflichtungen aus diesem Übereinkommen. In den Fällen, in denen ein oder mehrere Mitgliedstaaten dieser Organisation Vertragsparteien dieses Übereinkommens sind, entscheiden die Organisation und ihre Mitgliedstaaten über ihre jeweilige Verantwortlichkeit für die Erfüllung ihrer Verpflichtungen aus diesem Übereinkommen. In solchen Fällen sind die Organisation und die Mitgliedstaaten nicht dazu berechtigt, ihre Rechte nach diesem Übereinkommen gleichzeitig auszuüben.
 
-5.[^25-3] In ihren Ratifizierungs-, Annahme-, Genehmigungs- oder Beitrittsurkunden geben die in Artikel 23 genannten Organisationen zur regionalen Wirtschaftsintegration den Umfang ihrer Zuständigkeit in bezug auf Angelegenheiten an, die durch dieses Übereinkommen geregelt werden. Diese Organisationen informieren den Depositar auch über jede wesentliche Veränderung im Umfang ihrer Zuständigkeit.
+5.[^25-3] In ihren Ratifizierungs-, Annahme-, Genehmigungs- oder Beitrittsurkunden geben die in Artikel 23 genannten Organisationen zur regionalen Wirtschaftsintegration den Umfang ihrer Zuständigkeit in Bezug auf Angelegenheiten an, die durch dieses Übereinkommen geregelt werden. Diese Organisationen informieren den Depositar auch über jede wesentliche Veränderung im Umfang ihrer Zuständigkeit.
 
 [^25-1]: Eingefügt durch Beschluss III/1 vom 28. Nov. 2003, in Kraft seit 6. Febr. 2013 ([AS 2013 377](https://fedlex.data.admin.ch/eli/oc/2013/62)).
 [^25-2]: Ursprünglich Abs. 3
@@ -397,7 +397,7 @@ Anhang I
 
 ## Definition des Begriffs «Beste verfügbare Technologie»
 
-\1. Unter dem Begriff «beste verfügbare Technologie» ist der neueste Stand in der Entwicklung von Verfahren, Einrichtungen oder Betriebsmethoden zu verstehen, welche die praktische Eignung einer bestimmten Massnahme zur Begrenzung von Ableitungen, Emissionen und Abfall anzeigen. Bei der Prüfung der Frage, ob miteinander in Zusammenhang stehende Verfahren, Einrichtungen und Betriebsmethoden die beste verfügbare Technologie im allgemeinen oder in speziellen Fällen darstellen, sollten insbesondere folgende Punkte berücksichtigt werden:
+\1. Unter dem Begriff «beste verfügbare Technologie» ist der neueste Stand in der Entwicklung von Verfahren, Einrichtungen oder Betriebsmethoden zu verstehen, welche die praktische Eignung einer bestimmten Massnahme zur Begrenzung von Ableitungen, Emissionen und Abfall anzeigen. Bei der Prüfung der Frage, ob miteinander in Zusammenhang stehende Verfahren, Einrichtungen und Betriebsmethoden die beste verfügbare Technologie im Allgemeinen oder in speziellen Fällen darstellen, sollten insbesondere folgende Punkte berücksichtigt werden:
 
 - a) vergleichbare Verfahren, Einrichtungen oder Betriebsmethoden, die in jüngster Zeit erfolgreich getestet wurden;
 - b) technische Fortschritte und Erneuerungen in den wissenschaftlichen Erkenntnissen und im wissenschaftlichen Verständnis;
@@ -448,7 +448,7 @@ Bei den Qualitätszielen und -kriterien für Gewässer ist bzw. sind
 - a) das Ziel der Erhaltung und gegebenenfalls Verbesserung der vorhandenen Wasserqualität zu berücksichtigen;
 - b) auf die Verringerung der durchschnittlichen Schadstoffbelastung (insbesondere durch gefährliche Stoffe) während eines bestimmten Zeitraums bis zu einem bestimmten Grad abzuzielen;
 - c) die spezifischen Wasserqualitätsbedingungen (Rohwasser für Trinkzwecke, Bewässerung usw.) zu berücksichtigen;
-- d) die spezifischen Bedingungen in bezug auf empfindliche und besonders geschützte Gewässer und deren Umgebung, z. B. Seen und Grundwasservorräte, zu berücksichtigen;
+- d) die spezifischen Bedingungen in Bezug auf empfindliche und besonders geschützte Gewässer und deren Umgebung, z. B. Seen und Grundwasservorräte, zu berücksichtigen;
 - e) die Anwendung ökologischer Klassifizierungsmethoden und chemischer Verzeichnisse für die mittel- und langfristige Prüfung der Erhaltung und Verbesserung der Wasserqualität als Grundlage heranzuziehen;
 - f) das Mass, bis zu welchem die Ziele erreicht werden, und die zusätzlichen Schutzmassnahmen auf der Grundlage von Emissionsgrenzwerten, die im Einzelfall notwendig sind, zu berücksichtigen.
 
@@ -497,54 +497,60 @@ indem sie alle ihnen zur Verfügung stehenden Mittel nutzen.
 
 \18. Jede sich zwischen den Vertragsparteien aufgrund der Auslegung oder der Ausführung des Schiedsspruchs ergebende Streitigkeit kann von jeder Partei dem Schiedsgericht, welches den Schiedsspruch aussprach, vorgelegt werden oder kann, wenn dieses Schiedsgericht nicht zur Verfügung steht, einem für diesen Zweck in derselben Art und Weise eingesetzten Gericht vorgelegt werden.
 
-Geltungsbereich am 6. Juli 2020**[^t-2]**
+Geltungsbereich am 20. April 2023[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th colspan="2"></th><th colspan="2">Inkrafttreten</th><th></th></tr>
-<tr><td>Albanien <sup>a</sup></td><td colspan="2">5. Januar</td><td colspan="2">1994</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Aserbaidschan <sup>a</sup></td><td colspan="2">3. August</td><td colspan="2">2000 B</td><td colspan="2">1. November</td><td>2000</td></tr>
-<tr><td>Belarus</td><td colspan="2">29. Mai</td><td colspan="2">2003 B</td><td colspan="2">27. August</td><td>2003</td></tr>
-<tr><td>Belgien <sup>a</sup></td><td colspan="2">8. November</td><td colspan="2">2000</td><td colspan="2">6. Februar</td><td>2001</td></tr>
-<tr><td>Bosnien und Herzegowina <sup>a</sup></td><td colspan="2">3. Dezember</td><td colspan="2">2009 B</td><td colspan="2">3. März</td><td>2010</td></tr>
-<tr><td>Bulgarien <sup>a</sup></td><td colspan="2">28. Oktober</td><td colspan="2">2003</td><td colspan="2">27. Januar</td><td>2004</td></tr>
-<tr><td>Dänemark\* <sup>a</sup> <sup>b</sup></td><td colspan="2">28. Mai</td><td colspan="2">1997</td><td colspan="2">26. August</td><td>1997</td></tr>
-<tr><td>Deutschland\* <sup>a</sup></td><td colspan="2">30. Januar</td><td colspan="2">1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Estland <sup>a</sup></td><td colspan="2">16. Juni</td><td colspan="2">1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Europäische Union</td><td colspan="2">14. September</td><td colspan="2">1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Finnland <sup>a</sup></td><td colspan="2">21. Februar</td><td colspan="2">1996</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Frankreich\* <sup>a</sup></td><td colspan="2">30. Juni</td><td colspan="2">1998</td><td colspan="2">28. September</td><td>1998</td></tr>
-<tr><td>Griechenland</td><td colspan="2">6. September</td><td colspan="2">1996</td><td colspan="2">5. Dezember</td><td>1996</td></tr>
-<tr><td>Italien <sup>a</sup></td><td colspan="2">23. Mai</td><td colspan="2">1996</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Kasachstan <sup>a</sup></td><td colspan="2">11. Januar</td><td colspan="2">2001 B</td><td colspan="2">11. April</td><td>2001</td></tr>
-<tr><td>Kroatien <sup>a</sup></td><td colspan="2">8. Juli</td><td colspan="2">1996 B</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Lettland <sup>a</sup></td><td colspan="2">10. Dezember</td><td colspan="2">1996</td><td colspan="2">10. März</td><td>1997</td></tr>
-<tr><td>Liechtenstein\* <sup>a</sup></td><td colspan="2">19. November</td><td colspan="2">1997 B</td><td colspan="2">17. Februar</td><td>1998</td></tr>
-<tr><td>Litauen\* <sup>a</sup></td><td colspan="2">28. April</td><td colspan="2">2000</td><td colspan="2">27. Juli</td><td>2000</td></tr>
-<tr><td>Luxemburg <sup>a</sup></td><td colspan="2">7. Juni</td><td colspan="2">1994</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Moldau <sup>a</sup></td><td colspan="2">4. Januar</td><td colspan="2">1994 B</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Montenegro <sup>a</sup></td><td colspan="2">23. Juni</td><td colspan="2">2014 B</td><td colspan="2">21. September</td><td>2014</td></tr>
-<tr><td>Niederlande\* <sup>a</sup> <sup>c</sup></td><td colspan="2">14. März</td><td colspan="2">1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Nordmazedonien <sup>a</sup></td><td colspan="2">28. Juli</td><td colspan="2">2015 B</td><td colspan="2">26. Oktober</td><td>2015</td></tr>
-<tr><td>Norwegen <sup>a</sup></td><td colspan="2">1. April</td><td colspan="2">1993</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Österreich\* <sup>a</sup></td><td colspan="2">25. Juli</td><td colspan="2">1996</td><td colspan="2">23. Oktober</td><td>1996</td></tr>
-<tr><td>Polen <sup>a</sup></td><td colspan="2">15. März</td><td colspan="2">2000</td><td colspan="2">13. Juni</td><td>2000</td></tr>
-<tr><td>Portugal <sup>a</sup></td><td colspan="2">9. Dezember</td><td colspan="2">1994</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Rumänien <sup>a</sup></td><td colspan="2">31. Mai</td><td colspan="2">1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Russland</td><td colspan="2">2. November</td><td colspan="2">1993</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Schweden <sup>a</sup></td><td colspan="2">5. August</td><td colspan="2">1993</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Schweiz <sup>a</sup></td><td colspan="2">23. Mai</td><td colspan="2">1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td colspan="2">Senegal</td><td colspan="2">31. August</td><td colspan="2">2018 B</td><td>29. November</td><td>2018</td></tr>
-<tr><td>Serbien <sup>a</sup></td><td colspan="2">27. August</td><td colspan="2">2010 B</td><td colspan="2">25. November</td><td>2010</td></tr>
-<tr><td>Slowakei</td><td colspan="2">7. Juli</td><td colspan="2">1999 B</td><td colspan="2">5. Oktober</td><td>1999</td></tr>
-<tr><td>Slowenien <sup>a</sup></td><td colspan="2">13. April</td><td colspan="2">1999 B</td><td colspan="2">12. Juli</td><td>1999</td></tr>
-<tr><td>Spanien\* <sup>a</sup></td><td colspan="2">16. Februar</td><td colspan="2">2000</td><td colspan="2">16. Mai</td><td>2000</td></tr>
-<tr><td colspan="2">Tschad</td><td colspan="2">22. Februar</td><td colspan="2">2018 B</td><td>23. Mai</td><td>2018</td></tr>
-<tr><td>Tschechische Republik <sup>a</sup></td><td colspan="2">12. Juni</td><td colspan="2">2000 B</td><td colspan="2">10. September</td><td>2000</td></tr>
-<tr><td>Turkmenistan</td><td colspan="2">29. August</td><td colspan="2">2012 B</td><td colspan="2">27. November</td><td>2012</td></tr>
-<tr><td>Ukraine <sup>a</sup></td><td colspan="2">8. Oktober</td><td colspan="2">1999 B</td><td colspan="2">6. Januar</td><td>2000</td></tr>
-<tr><td>Ungarn <sup>a</sup></td><td colspan="2">2. September</td><td colspan="2">1994</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
-<tr><td>Usbekistan <sup>a</sup></td><td colspan="2">4. September</td><td colspan="2">2007 B</td><td colspan="2">3. Dezember</td><td>2007</td></tr>
-<tr><td colspan="8">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Dieser Vertragsstaat hat den Beschluss III/1 vom 28. November 2003 angenommen (Änderung der Artikel 25 und 26 des Übereinkommens). <sup>b</sup> Die Änderung gilt nicht für die Färöer und Grönland. <sup>c</sup> Für das Königreich in Europa.</td></tr>
+<tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th></th><th colspan="2">Inkrafttreten</th><th></th></tr>
+<tr><td>Albanien <sup>a</sup></td><td colspan="2">5. Januar</td><td>1994</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Aserbaidschan <sup>a</sup></td><td colspan="2">3. August</td><td>2000 B</td><td colspan="2">1. November</td><td>2000</td></tr>
+<tr><td>Belarus <sup>a</sup></td><td colspan="2">29. Mai</td><td>2003 B</td><td colspan="2">27. August</td><td>2003</td></tr>
+<tr><td>Belgien <sup>a</sup></td><td colspan="2">8. November</td><td>2000</td><td colspan="2">6. Februar</td><td>2001</td></tr>
+<tr><td>Bosnien und Herzegowina <sup>a</sup></td><td colspan="2">3. Dezember</td><td>2009 B</td><td colspan="2">3. März</td><td>2010</td></tr>
+<tr><td>Bulgarien <sup>a</sup></td><td colspan="2">28. Oktober</td><td>2003</td><td colspan="2">27. Januar</td><td>2004</td></tr>
+<tr><td>Dänemark\* <sup>a</sup></td><td colspan="2">28. Mai</td><td>1997</td><td colspan="2">26. August</td><td>1997</td></tr>
+<tr><td>Deutschland\* <sup>a</sup></td><td colspan="2">30. Januar</td><td>1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Estland <sup>a</sup></td><td colspan="2">16. Juni</td><td>1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Europäische Union (EU)<sup>a</sup></td><td colspan="2">14. September</td><td>1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Finnland <sup>a</sup></td><td colspan="2">21. Februar</td><td>1996</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Frankreich\* <sup>a</sup></td><td colspan="2">30. Juni</td><td>1998</td><td colspan="2">28. September</td><td>1998</td></tr>
+<tr><td>Ghana <sup>a</sup></td><td colspan="2">22. Juni</td><td>2020 B</td><td colspan="2">20. September</td><td>2020</td></tr>
+<tr><td>Griechenland <sup>a</sup></td><td colspan="2">6. September</td><td>1996</td><td colspan="2">5. Dezember</td><td>1996</td></tr>
+<tr><td>Guinea-Bissau <sup>a</sup></td><td colspan="2">14. Juni</td><td>2021 B</td><td colspan="2">12. September</td><td>2021</td></tr>
+<tr><td>Italien <sup>a</sup></td><td colspan="2">23. Mai</td><td>1996</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Irak <sup>a</sup></td><td colspan="2">24. März</td><td>2023 B</td><td colspan="2">22. Juni</td><td>2023</td></tr>
+<tr><td>Kamerun <sup>a</sup></td><td colspan="2">1. November</td><td>2022 B</td><td colspan="2">30. Januar</td><td>2023</td></tr>
+<tr><td>Kasachstan <sup>a</sup></td><td colspan="2">11. Januar</td><td>2001 B</td><td colspan="2">11. April</td><td>2001</td></tr>
+<tr><td>Kroatien <sup>a</sup></td><td colspan="2">8. Juli</td><td>1996 B</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Lettland <sup>a</sup></td><td colspan="2">10. Dezember</td><td>1996</td><td colspan="2">10. März</td><td>1997</td></tr>
+<tr><td>Liechtenstein\* <sup>a</sup></td><td colspan="2">19. November</td><td>1997 B</td><td colspan="2">17. Februar</td><td>1998</td></tr>
+<tr><td>Litauen\* <sup>a</sup></td><td colspan="2">28. April</td><td>2000</td><td colspan="2">27. Juli</td><td>2000</td></tr>
+<tr><td>Luxemburg <sup>a</sup></td><td colspan="2">7. Juni</td><td>1994</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Moldau <sup>a</sup></td><td colspan="2">4. Januar</td><td>1994 B</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Montenegro <sup>a</sup></td><td colspan="2">23. Juni</td><td>2014 B</td><td colspan="2">21. September</td><td>2014</td></tr>
+<tr><td>Niederlande\* <sup>a b</sup></td><td colspan="2">14. März</td><td>1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Nigeria <sup>a</sup></td><td>22. März</td><td colspan="3">2023 B</td><td>20. Juni</td><td>2023</td></tr>
+<tr><td>Nordmazedonien <sup>a</sup></td><td colspan="2">28. Juli</td><td>2015 B</td><td colspan="2">26. Oktober</td><td>2015</td></tr>
+<tr><td>Norwegen <sup>a</sup></td><td colspan="2">1. April</td><td>1993</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Österreich\* <sup>a</sup></td><td colspan="2">25. Juli</td><td>1996</td><td colspan="2">23. Oktober</td><td>1996</td></tr>
+<tr><td>Polen <sup>a</sup></td><td colspan="2">15. März</td><td>2000</td><td colspan="2">13. Juni</td><td>2000</td></tr>
+<tr><td>Portugal <sup>a</sup></td><td colspan="2">9. Dezember</td><td>1994</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Rumänien <sup>a</sup></td><td colspan="2">31. Mai</td><td>1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Russland <sup>a</sup></td><td>2. November</td><td colspan="3">1993</td><td>6. Oktober</td><td>1996</td></tr>
+<tr><td>Schweden <sup>a</sup></td><td colspan="2">5. August</td><td>1993</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Schweiz <sup>a</sup></td><td colspan="2">23. Mai</td><td>1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Senegal <sup>a</sup></td><td colspan="2">31. August</td><td>2018 B</td><td colspan="2">29. November</td><td>2018</td></tr>
+<tr><td>Serbien\* <sup>a</sup></td><td colspan="2">27. August</td><td>2010 B</td><td colspan="2">25. November</td><td>2010</td></tr>
+<tr><td>Slowakei <sup>a</sup></td><td colspan="2">7. Juli</td><td>1999 B</td><td colspan="2">5. Oktober</td><td>1999</td></tr>
+<tr><td>Slowenien <sup>a</sup></td><td colspan="2">13. April</td><td>1999 B</td><td colspan="2">12. Juli</td><td>1999</td></tr>
+<tr><td>Spanien\* <sup>a</sup></td><td colspan="2">16. Februar</td><td>2000</td><td colspan="2">16. Mai</td><td>2000</td></tr>
+<tr><td>Togo <sup>a</sup></td><td>28. September</td><td colspan="3">2021 B</td><td>27. Dezember</td><td>2021</td></tr>
+<tr><td>Tschad <sup>a</sup></td><td>22. Februar</td><td colspan="3">2018 B</td><td>23. Mai</td><td>2018</td></tr>
+<tr><td>Tschechische Republik <sup>a</sup></td><td colspan="2">12. Juni</td><td>2000 B</td><td colspan="2">10. September</td><td>2000</td></tr>
+<tr><td>Turkmenistan</td><td colspan="2">29. August</td><td>2012 B</td><td colspan="2">27. November</td><td>2012</td></tr>
+<tr><td>Ukraine <sup>a</sup></td><td colspan="2">8. Oktober</td><td>1999 B</td><td colspan="2">6. Januar</td><td>2000</td></tr>
+<tr><td>Ungarn <sup>a</sup></td><td colspan="2">2. September</td><td>1994</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
+<tr><td>Usbekistan <sup>a</sup></td><td colspan="2">4. September</td><td>2007 B</td><td colspan="2">3. Dezember</td><td>2007</td></tr>
+<tr><td colspan="7">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Dieser Vertragsstaat hat den Beschluss III/1 vom 28. November 2003 angenommen (Änderung der Artikel 25 und 26 des Übereinkommens). <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 1997 835](https://fedlex.data.admin.ch/eli/oc/1997/835_835_835), [2004 4007](https://fedlex.data.admin.ch/eli/oc/2004/582), [2010 3613](https://fedlex.data.admin.ch/eli/oc/2010/521), [2013 283](https://fedlex.data.admin.ch/eli/oc/2013/42)[377](https://fedlex.data.admin.ch/eli/oc/2013/62), [2016 377](https://fedlex.data.admin.ch/eli/oc/2016/54), [2020 3431](https://fedlex.data.admin.ch/eli/oc/2020/586). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1997 835](https://fedlex.data.admin.ch/eli/oc/1997/835_835_835); [2004 4007](https://fedlex.data.admin.ch/eli/oc/2004/582); [2010 3613](https://fedlex.data.admin.ch/eli/oc/2010/521); [2013 283](https://fedlex.data.admin.ch/eli/oc/2013/42), [377](https://fedlex.data.admin.ch/eli/oc/2013/62); [2016 377](https://fedlex.data.admin.ch/eli/oc/2016/54); [2020 3431](https://fedlex.data.admin.ch/eli/oc/2020/586); [2023 194](https://fedlex.data.admin.ch/eli/oc/2023/194). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform: des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
