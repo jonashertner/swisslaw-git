@@ -3,11 +3,11 @@ sr: "0.107.1"
 title: Protocollo facoltativo del 25 maggio 2000 alla Convenzione sui diritti del fanciullo relativo alla partecipazione di fanciulli a conflitti armati
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/542"
 language: it
-version: 2020-11-13
+version: 2023-04-20
 adopted: 2000-05-25
 in_force: 2002-07-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/542/20201113/it/xml/fedlex-data-admin-ch-eli-cc-2002-542-20201113-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/542/20201113/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/542/20230420/it/xml/fedlex-data-admin-ch-eli-cc-2002-542-20230420-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/542/20230420/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2002** 3579; FF **2001** 5595
 
 Traduzione
 
-Concluso a New York il 25 maggio 2000
+Concluso a New York il 25 maggio 2000 Approvato dall’Assemblea federale il 12 giugno 2002[^t-1] Ratificato con strumenti di ratifica depositati dalla Svizzera il 26 giugno 2002 Entrato in vigore per la Svizzera il 26 luglio 2002
 
-Approvato dall’Assemblea federale il 12 giugno 2002[^t-1]
-
-Ratificato con strumenti di ratifica depositati dalla Svizzera il 26 giugno 2002
-
-Entrato in vigore per la Svizzera il 26 luglio 2002
-
-(Stato 13 novembre 2020)
+(Stato 20 aprile 2023)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 12 giu. 2002 ([RU 2002 3578](https://fedlex.data.admin.ch/eli/oc/2002/541)).
 
@@ -70,10 +64,10 @@ incoraggiando la partecipazione della comunità e, in particolare, dei fanciulli
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
-[^ingress-2]: [RS 0.312.1](https://fedlex.data.admin.ch/eli/cc/2002/586)
-[^ingress-3]: [RS 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
-[^ingress-4]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
+[^ingress-2]: [RS 0.312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1326)
+[^ingress-3]: [RS 0.822.728.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3657)
+[^ingress-4]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 1
 
@@ -172,7 +166,7 @@ Nessuna disposizione del presente Protocollo sarà interpretata nel senso di imp
 
 (Seguono le firme)
 
-Campo d’applicazione il 13 novembre 2020**[^t-2]**
+Campo d’applicazione il 20 aprile 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -235,6 +229,7 @@ Campo d’applicazione il 13 novembre 2020**[^t-2]**
 <tr><td>Estonia<sup>\*</sup></td><td>12 febbraio</td><td>2014</td><td>12 marzo</td><td>2014</td></tr>
 <tr><td>Eswatini</td><td>24 settembre</td><td>2012 A</td><td>24 ottobre</td><td>2012</td></tr>
 <tr><td>Etiopia<sup>\*</sup></td><td>14 maggio</td><td>2014</td><td>14 giugno</td><td>2014</td></tr>
+<tr><td>Figi<sup>\*</sup></td><td>29 marzo</td><td>2021</td><td>29 aprile</td><td>2021</td></tr>
 <tr><td>Filippine<sup>\*</sup></td><td>26 agosto</td><td>2003</td><td>26 settembre</td><td>2003</td></tr>
 <tr><td>Finlandia<sup>\*</sup> <sup>\*\*</sup></td><td>10 aprile</td><td>2002</td><td>10 maggio</td><td>2002</td></tr>
 <tr><td>Francia<sup>\*</sup></td><td>5 febbraio</td><td>2003</td><td>5 marzo</td><td>2003</td></tr>
@@ -259,6 +254,7 @@ Campo d’applicazione il 13 novembre 2020**[^t-2]**
 <tr><td>Iraq<sup>\*</sup></td><td>24 giugno</td><td>2008 A</td><td>24 luglio</td><td>2008</td></tr>
 <tr><td>Irlanda<sup>\*</sup></td><td>18 novembre</td><td>2002</td><td>18 dicembre</td><td>2002</td></tr>
 <tr><td>Islanda<sup>\*</sup></td><td>1° ottobre</td><td>2001</td><td>12 febbraio</td><td>2002</td></tr>
+<tr><td>Isole Salomone<sup>\*</sup></td><td>20 gennaio</td><td>2023</td><td>20 febbraio</td><td>2023</td></tr>
 <tr><td>Israele<sup>\*</sup></td><td>18 luglio</td><td>2005</td><td>18 agosto</td><td>2005</td></tr>
 <tr><td>Italia<sup>\*</sup></td><td>9 maggio</td><td>2002</td><td>9 giugno</td><td>2002</td></tr>
 <tr><td>Kazakistan<sup>\*</sup></td><td>10 aprile</td><td>2003</td><td>10 maggio</td><td>2003</td></tr>
@@ -309,6 +305,7 @@ Campo d’applicazione il 13 novembre 2020**[^t-2]**
 <tr><td>Qatar<sup>\*</sup></td><td>25 luglio</td><td>2002 A</td><td>25 agosto</td><td>2002</td></tr>
 <tr><td>Regno Unito<sup>\*</sup> <sup>\*\*</sup></td><td>24 giugno</td><td>2003</td><td>24 luglio</td><td>2003</td></tr>
 <tr><td>Alderney</td><td>4 novembre</td><td>2020</td><td>4 novembre</td><td>2020</td></tr>
+<tr><td>Isola di Man</td><td>14 aprile</td><td>2023</td><td>14 aprile</td><td>2023</td></tr>
 <tr><td>Jersey</td><td>29 aprile</td><td>2014</td><td>29 aprile</td><td>2014</td></tr>
 <tr><td>Romania<sup>\*\*</sup></td><td>10 novembre</td><td>2001</td><td>12 febbraio</td><td>2002</td></tr>
 <tr><td>Ruanda<sup>\*</sup></td><td>23 aprile</td><td>2002 A</td><td>23 maggio</td><td>2002</td></tr>
@@ -332,6 +329,7 @@ Campo d’applicazione il 13 novembre 2020**[^t-2]**
 <tr><td>Sudafrica<sup>\*</sup></td><td>24 settembre</td><td>2009</td><td>24 ottobre</td><td>2009</td></tr>
 <tr><td>Sudan del Sud<sup>\*</sup></td><td>27 settembre</td><td>2018 A</td><td>27 ottobre</td><td>2018</td></tr>
 <tr><td>Sudan<sup>\*</sup></td><td>26 luglio</td><td>2005</td><td>26 agosto</td><td>2005</td></tr>
+<tr><td>Suriname<sup>\*</sup></td><td>16 novembre</td><td>2021</td><td>16 dicembre</td><td>2021</td></tr>
 <tr><td>Svezia<sup>\*</sup> <sup>\*\*</sup></td><td>20 febbraio</td><td>2003</td><td>20 marzo</td><td>2003</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>26 giugno</td><td>2002</td><td>26 luglio</td><td>2002</td></tr>
 <tr><td>Tagikistan<sup>\*</sup></td><td>5 agosto</td><td>2002 A</td><td>5 settembre</td><td>2002</td></tr>
@@ -352,12 +350,10 @@ Campo d’applicazione il 13 novembre 2020**[^t-2]**
 <tr><td>Vietnam<sup>\*</sup></td><td>20 dicembre</td><td>2001</td><td>12 febbraio</td><td>2002</td></tr>
 <tr><td>Yemen<sup>\*</sup></td><td>2 marzo</td><td>2007 A</td><td>2 aprile</td><td>2007</td></tr>
 <tr><td>Zimbabwe<sup>\*</sup></td><td>22 maggio</td><td>2013 A</td><td>22 giugno</td><td>2013</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU, eccetto le riserve e le dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La firma é effettuata per il Regno del Belgio. Questa impegna pure la comunità francese, fiamminga e germanofona.</td></tr>
-<tr><td colspan="5"><sup>b</sup> La presente accettazione non s’applicherà a Tokelau che a far data dal momento in cui il Governo neozelandese a tal proposito avrà depositato una dichiarazione presso il depositario.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La firma é effettuata per il Regno del Belgio. Questa impegna pure la comunità francese, fiamminga e germanofona. <sup>b</sup> La presente accettazione non s’applicherà a Tokelau che a far data dal momento in cui il Governo neozelandese a tal proposito avrà depositato una dichiarazione presso il depositario.</td></tr>
 </table>
 
-[^t-2]: [RU 2002 3579](https://fedlex.data.admin.ch/eli/oc/2002/542), [2003 2494](https://fedlex.data.admin.ch/eli/oc/2003/375), [2004 3879](https://fedlex.data.admin.ch/eli/oc/2004/538), [2005 3561](https://fedlex.data.admin.ch/eli/oc/2005/512), [2006 593](https://fedlex.data.admin.ch/eli/oc/2006/84),[2007 419](https://fedlex.data.admin.ch/eli/oc/2007/84)[4669](https://fedlex.data.admin.ch/eli/oc/2007/660), [2008 4045](https://fedlex.data.admin.ch/eli/oc/2008/553), [2009 1291](https://fedlex.data.admin.ch/eli/oc/2009/207), [2010 4523](https://fedlex.data.admin.ch/eli/oc/2010/641), [2012 405](https://fedlex.data.admin.ch/eli/oc/2012/42)[6031](https://fedlex.data.admin.ch/eli/oc/2012/708), [2014 1313](https://fedlex.data.admin.ch/eli/oc/2014/276),[2015 4197](https://fedlex.data.admin.ch/eli/oc/2015/702), [2017 31](https://fedlex.data.admin.ch/eli/oc/2017/10), [2020 1561](https://fedlex.data.admin.ch/eli/oc/2020/311)[4829](https://fedlex.data.admin.ch/eli/oc/2020/868). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2002 3579](https://fedlex.data.admin.ch/eli/oc/2002/542); [2003 2494](https://fedlex.data.admin.ch/eli/oc/2003/375); [2004 3879](https://fedlex.data.admin.ch/eli/oc/2004/538); [2005 3561](https://fedlex.data.admin.ch/eli/oc/2005/512); [2006 593](https://fedlex.data.admin.ch/eli/oc/2006/84); [2007 419](https://fedlex.data.admin.ch/eli/oc/2007/84), [4669](https://fedlex.data.admin.ch/eli/oc/2007/660); [2008 4045](https://fedlex.data.admin.ch/eli/oc/2008/553); [2009 1291](https://fedlex.data.admin.ch/eli/oc/2009/207); [2010 4523](https://fedlex.data.admin.ch/eli/oc/2010/641); [2012 405](https://fedlex.data.admin.ch/eli/oc/2012/42), [6031](https://fedlex.data.admin.ch/eli/oc/2012/708); [2014 1313](https://fedlex.data.admin.ch/eli/oc/2014/276); [2015 4197](https://fedlex.data.admin.ch/eli/oc/2015/702); [2017 31](https://fedlex.data.admin.ch/eli/oc/2017/10); [2020 1561](https://fedlex.data.admin.ch/eli/oc/2020/311), [4829](https://fedlex.data.admin.ch/eli/oc/2020/868); [2023 199](https://fedlex.data.admin.ch/eli/oc/2023/199). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente https:/www.fedlex.admin.ch/it/treaty
 
 Riserve e dichiarazioni
 

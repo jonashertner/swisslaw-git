@@ -3,11 +3,11 @@ sr: "0.107.1"
 title: "Protocole facultatif du 25 mai 2000 à la Convention relative aux droits de l'enfant, concernant l'implication d'enfants dans les conflits armés"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/542"
 language: fr
-version: 2020-11-13
+version: 2023-04-20
 adopted: 2000-05-25
 in_force: 2002-07-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/542/20201113/fr/xml/fedlex-data-admin-ch-eli-cc-2002-542-20201113-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/542/20201113/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/542/20230420/fr/xml/fedlex-data-admin-ch-eli-cc-2002-542-20230420-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/542/20230420/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2002** 3579; FF **2001** 5977
 
 Texte original
 
-Conclu à New York le 25 mai 2000
+Conclu à New York le 25 mai 2000 Approuvé par l’Assemblée fédérale le 12 juin 2002[^t-1] Instrument de ratification déposé par la Suisse le 26 juin 2002 Entré en vigueur pour la Suisse le 26 juillet 2002
 
-Approuvé par l’Assemblée fédérale le 12 juin 2002[^t-1]
-
-Instrument de ratification déposé par la Suisse le 26 juin 2002
-
-Entré en vigueur pour la Suisse le 26 juillet 2002
-
-(Etat le 13 novembre 2020)
+(État le 20 avril 2023)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 12 juin 2002 ([RO 2002 3578](https://fedlex.data.admin.ch/eli/oc/2002/541))
 
@@ -70,10 +64,10 @@ encourageant la participation des communautés et, en particulier, des enfants e
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
-[^ingress-2]: [RS 0.312.1](https://fedlex.data.admin.ch/eli/cc/2002/586)
-[^ingress-3]: [RS 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
-[^ingress-4]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
+[^ingress-2]: [RS 0.312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1326)
+[^ingress-3]: [RS 0.822.728.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3657)
+[^ingress-4]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 1
 
@@ -172,7 +166,7 @@ Aucune disposition du présent Protocole ne peut être interprétée comme empê
 
 (Suivent les signatures)
 
-Champ d’application le 13 novembre 2020**[^t-2]**
+Champ d’application le 20 avril 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -236,6 +230,7 @@ Champ d’application le 13 novembre 2020**[^t-2]**
 <tr><td>Eswatini\*</td><td>24 septembre</td><td>2012 A</td><td>24 octobre</td><td>2012</td></tr>
 <tr><td>États-Unis\*</td><td>23 décembre</td><td>2002</td><td>23 janvier</td><td>2003</td></tr>
 <tr><td>Éthiopie<sup>\*</sup></td><td>14 mai</td><td>2014</td><td>14 juin</td><td>2014</td></tr>
+<tr><td>Fidji<sup>\*</sup></td><td>29 mars</td><td>2021</td><td>29 avril</td><td>2021</td></tr>
 <tr><td>Finlande\* \*\*</td><td>10 avril</td><td>2002</td><td>10 mai</td><td>2002</td></tr>
 <tr><td>France\*</td><td>5 février</td><td>2003</td><td>5 mars</td><td>2003</td></tr>
 <tr><td>Gabon\*</td><td>21 septembre</td><td>2010</td><td>21 octobre</td><td>2010</td></tr>
@@ -250,6 +245,7 @@ Champ d’application le 13 novembre 2020**[^t-2]**
 <tr><td>Guyana\*</td><td>11 août</td><td>2010 A</td><td>11 septembre</td><td>2010</td></tr>
 <tr><td>Honduras\*</td><td>14 août</td><td>2002 A</td><td>14 septembre</td><td>2002</td></tr>
 <tr><td>Hongrie\* \*\*</td><td>24 février</td><td>2010</td><td>24 mars</td><td>2010</td></tr>
+<tr><td>Îles Salomon\*</td><td>20 janvier</td><td>2023</td><td>20 février</td><td>2023</td></tr>
 <tr><td>Inde\*</td><td>30 novembre</td><td>2005</td><td>30 décembre</td><td>2005</td></tr>
 <tr><td>Indonésie\*</td><td>24 septembre</td><td>2012</td><td>24 octobre</td><td>2012</td></tr>
 <tr><td>Iraq\*</td><td>24 juin</td><td>2008 A</td><td>24 juillet</td><td>2008</td></tr>
@@ -316,6 +312,7 @@ Champ d’application le 13 novembre 2020**[^t-2]**
 <tr><td>Royaume-Uni\* \*\*</td><td>24 juin</td><td>2003</td><td>24 juillet</td><td>2003</td></tr>
 <tr><td>Aurigny</td><td>4 novembre</td><td>2020</td><td>4 novembre</td><td>2020</td></tr>
 <tr><td>Guernesey</td><td>4 novembre</td><td>2020</td><td>4 novembre</td><td>2020</td></tr>
+<tr><td>Île de Man</td><td>14 avril</td><td>2023</td><td>14 avril</td><td>2023</td></tr>
 <tr><td>Jersey</td><td>29 avril</td><td>2014</td><td>29 avril</td><td>2014</td></tr>
 <tr><td>Russie\*</td><td>24 septembre</td><td>2008</td><td>24 octobre</td><td>2008</td></tr>
 <tr><td>Rwanda\*</td><td>23 avril</td><td>2002 A</td><td>23 mai</td><td>2002</td></tr>
@@ -332,10 +329,11 @@ Champ d’application le 13 novembre 2020**[^t-2]**
 <tr><td>Slovaquie\*</td><td>7 juillet</td><td>2006</td><td>7 août</td><td>2006</td></tr>
 <tr><td>Slovénie\*</td><td>23 septembre</td><td>2004</td><td>23 octobre</td><td>2004</td></tr>
 <tr><td>Soudan\*</td><td>26 juillet</td><td>2005</td><td>26 août</td><td>2005</td></tr>
-<tr><td>Soudan du Sud<sup>\*</sup></td><td>27 septembre</td><td>2018</td><td>27 octobre</td><td>2018</td></tr>
+<tr><td>Soudan du Sud<sup>\*</sup></td><td>27 septembre</td><td>2018 A</td><td>27 octobre</td><td>2018</td></tr>
 <tr><td>Sri Lanka\*</td><td>8 septembre</td><td>2000</td><td>12 février</td><td>2002</td></tr>
 <tr><td>Suède\* \*\*</td><td>20 février</td><td>2003</td><td>20 mars</td><td>2003</td></tr>
 <tr><td>Suisse\*</td><td>26 juin</td><td>2002</td><td>26 juillet</td><td>2002</td></tr>
+<tr><td>Suriname<sup>\*</sup></td><td>16 novembre</td><td>2021</td><td>16 décembre</td><td>2021</td></tr>
 <tr><td>Syrie\*</td><td>17 octobre</td><td>2003 A</td><td>17 novembre</td><td>2003</td></tr>
 <tr><td>Tadjikistan\*</td><td>5 août</td><td>2002 A</td><td>5 septembre</td><td>2002</td></tr>
 <tr><td>Tanzanie\*</td><td>11 novembre</td><td>2004 A</td><td>11 décembre</td><td>2004</td></tr>
@@ -353,10 +351,10 @@ Champ d’application le 13 novembre 2020**[^t-2]**
 <tr><td>Vietnam\*</td><td>20 décembre</td><td>2001</td><td>12 février</td><td>2002</td></tr>
 <tr><td>Yémen\*</td><td>2 mars</td><td>2007 A</td><td>2 avril</td><td>2007</td></tr>
 <tr><td>Zimbabwe<sup>\*</sup></td><td>22 mai</td><td>2013 A</td><td>22 juin</td><td>2013</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cette signature est effectuée pour le Royaume de Belgique; elle engage également la Communauté française, la Communauté flamande et la Communauté germanophone. <sup>b</sup> La présente acceptation ne s’appliquera aux Tokélaou que lorsque le Gouvernement néo‑zélandais aura déposé une déclaration à ce sujet auprès du dépositaire.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org/) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cette signature est effectuée pour le Royaume de Belgique; elle engage également la Communauté française, la Communauté flamande et la Communauté germanophone. <sup>b</sup> La présente acceptation ne s’appliquera aux Tokélaou que lorsque le Gouvernement néo‑zélandais aura déposé une déclaration à ce sujet auprès du dépositaire.</td></tr>
 </table>
 
-[^t-2]: RO **2002** 3585, [2003 2494](https://fedlex.data.admin.ch/eli/oc/2003/375), [2004 3879](https://fedlex.data.admin.ch/eli/oc/2004/538), [2005 3561](https://fedlex.data.admin.ch/eli/oc/2005/512), [2006 593](https://fedlex.data.admin.ch/eli/oc/2006/84), [2007 419](https://fedlex.data.admin.ch/eli/oc/2007/84)[4669](https://fedlex.data.admin.ch/eli/oc/2007/660), [2008 4045](https://fedlex.data.admin.ch/eli/oc/2008/553), [2009 1291](https://fedlex.data.admin.ch/eli/oc/2009/207), [2010 4523](https://fedlex.data.admin.ch/eli/oc/2010/641), [2012 405](https://fedlex.data.admin.ch/eli/oc/2012/42)[6031](https://fedlex.data.admin.ch/eli/oc/2012/708), [2014 1313](https://fedlex.data.admin.ch/eli/oc/2014/276), [2015 4197](https://fedlex.data.admin.ch/eli/oc/2015/702), [2017 31](https://fedlex.data.admin.ch/eli/oc/2017/10), [2020 1561](https://fedlex.data.admin.ch/eli/oc/2020/311)[4829](https://fedlex.data.admin.ch/eli/oc/2020/868). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2002 3579](https://fedlex.data.admin.ch/eli/oc/2002/542); [2003 2494](https://fedlex.data.admin.ch/eli/oc/2003/375); [2004 3879](https://fedlex.data.admin.ch/eli/oc/2004/538); [2005 3561](https://fedlex.data.admin.ch/eli/oc/2005/512); [2006 593](https://fedlex.data.admin.ch/eli/oc/2006/84); [2007 419](https://fedlex.data.admin.ch/eli/oc/2007/84), [4669](https://fedlex.data.admin.ch/eli/oc/2007/660); [2008 4045](https://fedlex.data.admin.ch/eli/oc/2008/553); [2009 1291](https://fedlex.data.admin.ch/eli/oc/2009/207); [2010 4523](https://fedlex.data.admin.ch/eli/oc/2010/641); [2012 405](https://fedlex.data.admin.ch/eli/oc/2012/42), [6031](https://fedlex.data.admin.ch/eli/oc/2012/708); [2014 1313](https://fedlex.data.admin.ch/eli/oc/2014/276); [2015 4197](https://fedlex.data.admin.ch/eli/oc/2015/702); [2017 31](https://fedlex.data.admin.ch/eli/oc/2017/10); [2020 1561](https://fedlex.data.admin.ch/eli/oc/2020/311), [4829](https://fedlex.data.admin.ch/eli/oc/2020/868); [2023 199](https://fedlex.data.admin.ch/eli/oc/2023/199). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20)
 
 Réserves et déclarations
 

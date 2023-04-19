@@ -3,11 +3,11 @@ sr: "0.107.1"
 title: Fakultativprotokoll vom 25. Mai 2000 zum Übereinkommen über die Rechte des Kindes betreffend die Beteiligung von Kindern an bewaffneten Konflikten
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/542"
 language: de
-version: 2020-11-13
+version: 2023-04-20
 adopted: 2000-05-25
 in_force: 2002-07-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/542/20201113/de/xml/fedlex-data-admin-ch-eli-cc-2002-542-20201113-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/542/20201113/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/542/20230420/de/xml/fedlex-data-admin-ch-eli-cc-2002-542-20230420-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/542/20230420/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2002** 3579; BBl **2001** 6309
 
 Abgeschlossen in New York am 25. Mai 2000 Von der Bundesversammlung genehmigt am 12. Juni 2002[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 26. Juni 2002 In Kraft getreten für die Schweiz am 26. Juli 2002
 
-(Stand am 13. November 2020)
+(Stand am 20. April 2023)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 12. Juni 2002 ([AS 2002 3578](https://fedlex.data.admin.ch/eli/oc/2002/541))
 
@@ -64,10 +64,10 @@ dazu anregend, dass die Gemeinschaft, insbesondere Kinder und kindliche Opfer, a
 
 haben Folgendes vereinbart:
 
-[^ingress-1]: [SR 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
-[^ingress-2]: [SR 0.312.1](https://fedlex.data.admin.ch/eli/cc/2002/586)
-[^ingress-3]: [SR 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
-[^ingress-4]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [SR 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
+[^ingress-2]: [SR 0.312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1326)
+[^ingress-3]: [SR 0.822.728.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3657)
+[^ingress-4]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 1
 
@@ -83,7 +83,9 @@ Die Vertragsstaaten stellen sicher, dass Personen, die das 18. Lebensjahr noch n
 
 <sup>2.</sup> Jeder Vertragsstaat hinterlegt bei der Ratifikation dieses Protokolls oder dem Beitritt dazu eine verbindliche Erklärung, in der das Mindestalter festgelegt ist, ab dem er die Einziehung von Freiwilligen zu seinen nationalen Streitkräften gestattet, sowie eine Beschreibung der von ihm getroffenen Schutzmassnahmen, mit denen er sicherstellt, dass eine solche Einziehung nicht gewaltsam oder zwangsweise erfolgt.
 
-<sup>3.</sup> Vertragsstaaten, welche die Einziehung von Freiwilligen unter 18 Jahren zu ihren nationalen Streitkräften gestatten, treffen Schutzmassnahmen, durch die mindestens gewährleistet wird, dass
+<sup>3.</sup>
+
+Vertragsstaaten, welche die Einziehung von Freiwilligen unter 18 Jahren zu ihren nationalen Streitkräften gestatten, treffen Schutzmassnahmen, durch die mindestens gewährleistet wird, dass:
 
 - a) die Einziehung tatsächlich freiwillig erfolgt;
 - b) die Einziehung mit der in Kenntnis der Sachlage abgegebenen Zustimmung der Eltern oder des Vormunds der Person erfolgt;
@@ -166,7 +168,7 @@ Dieses Protokoll ist nicht so auszulegen, als schlösse es Bestimmungen im Recht
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 13. November 2020**[^t-2]**
+Geltungsbereich am 20. April 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -215,6 +217,7 @@ Geltungsbereich am 13. November 2020**[^t-2]**
 <tr><td>Eritrea\*</td><td>16. Februar</td><td>2005 B</td><td>16. März</td><td>2005</td></tr>
 <tr><td>Estland<sup>\*</sup></td><td>12. Februar</td><td>2014</td><td>12. März</td><td>2014</td></tr>
 <tr><td>Eswatini\*</td><td>24. September</td><td>2012 B</td><td>24. Oktober</td><td>2012</td></tr>
+<tr><td>Fidschi<sup>\*</sup></td><td>29. März</td><td>2021</td><td>29. April</td><td>2021</td></tr>
 <tr><td>Finnland\* \*\*</td><td>10. April</td><td>2002</td><td>10. Mai</td><td>2002</td></tr>
 <tr><td>Frankreich\*</td><td>5. Februar</td><td>2003</td><td>5. März</td><td>2003</td></tr>
 <tr><td>Gabun\*</td><td>21. September</td><td>2010</td><td>21. Oktober</td><td>2010</td></tr>
@@ -301,6 +304,7 @@ Geltungsbereich am 13. November 2020**[^t-2]**
 <tr><td>Ruanda\*</td><td>23. April</td><td>2002 B</td><td>23. Mai</td><td>2002</td></tr>
 <tr><td>Rumänien\*\*</td><td>10. November</td><td>2001</td><td>12. Februar</td><td>2002</td></tr>
 <tr><td>Russland\*</td><td>24. September</td><td>2008</td><td>24. Oktober</td><td>2008</td></tr>
+<tr><td>Salomoninseln<sup>\*</sup></td><td>20. Januar</td><td>2023</td><td>20. Februar</td><td>2023</td></tr>
 <tr><td>Samoa\*</td><td>17. Mai</td><td>2016 B</td><td>17. Juni</td><td>2016</td></tr>
 <tr><td>San Marino<sup>\*</sup></td><td>26. September</td><td>2011</td><td>26. Oktober</td><td>2011</td></tr>
 <tr><td>Saudi-Arabien<sup>\*</sup></td><td>10. Juni</td><td>2011 B</td><td>10. Juli</td><td>2011</td></tr>
@@ -321,6 +325,7 @@ Geltungsbereich am 13. November 2020**[^t-2]**
 <tr><td>Sudan\*</td><td>26. Juli</td><td>2005</td><td>26. August</td><td>2005</td></tr>
 <tr><td>Südafrika\*</td><td>24. September</td><td>2009</td><td>24. Oktober</td><td>2009</td></tr>
 <tr><td>Südsudan<sup>\*</sup></td><td>27. September</td><td>2018 B</td><td>27. Oktober</td><td>2018</td></tr>
+<tr><td>Suriname\*</td><td>16. November</td><td>2021</td><td>16. Dezember</td><td>2021</td></tr>
 <tr><td>Syrien\*</td><td>17. Oktober</td><td>2003 B</td><td>17. November</td><td>2003</td></tr>
 <tr><td>Tadschikistan\*</td><td>5. August</td><td>2002 B</td><td>5. September</td><td>2002</td></tr>
 <tr><td>Tansania\*</td><td>11. November</td><td>2004 B</td><td>11. Dezember</td><td>2004</td></tr>
@@ -343,20 +348,19 @@ Geltungsbereich am 13. November 2020**[^t-2]**
 <tr><td>Vereinigtes Königreich\* \*\*</td><td>24. Juni</td><td>2003</td><td>24. Juli</td><td>2003</td></tr>
 <tr><td>Alderney</td><td>4. November</td><td>2020</td><td>4. November</td><td>2020</td></tr>
 <tr><td>Guernsey</td><td>4. November</td><td>2020</td><td>4. November</td><td>2020</td></tr>
+<tr><td>Insel Man</td><td>14. April</td><td>2023</td><td>14. April</td><td>2023</td></tr>
 <tr><td>Jersey</td><td>29. April</td><td>2014</td><td>29. April</td><td>2014</td></tr>
 <tr><td>Vietnam\*</td><td>20. Dezember</td><td>2001</td><td>12. Februar</td><td>2002</td></tr>
 <tr><td>Zentralafrikanische Republik<sup>\*</sup></td><td>21. September</td><td>2017</td><td>21. Oktober</td><td>2017</td></tr>
 <tr><td>Zypern\* \*\*</td><td>2. Juli</td><td>2010</td><td>2. August</td><td>2010</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Diese Unterzeichnung wird für das Königreich Belgien vorgenommen; sie bindet gleichermassen die französischsprachige, die flämischsprachige und die deutschsprachige Gemeinschaft.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Für Tokelau wird diese Annahme erst dann gelten, wenn die neuseeländische Regierung beim Depositar eine diesbezügliche Erklärung hinterlegt hat.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Diese Unterzeichnung wird für das Königreich Belgien vorgenommen; sie bindet gleichermassen die französischsprachige, die flämischsprachige und die deutschsprachige Gemeinschaft. <sup>b</sup> Für Tokelau wird diese Annahme erst dann gelten, wenn die neuseeländische Regierung beim Depositar eine diesbezügliche Erklärung hinterlegt hat.</td></tr>
 </table>
 
-[^t-2]: **2002** 3579, **2003** 2494, **2004** 3879, **2005** 3561, **2006** 593, **2007** 419 4669, **2008** 4045, **2009** 1291, **2010** 4523, **2012** 405 6031, **2014** 1313, **2015** 4197, **2017** 31, **2020** 1561 4829. Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA ([www.eda.admin.ch/vertraege](http://www.eda.admin.ch/vertraege)).
+[^t-2]: [AS 2002 3579](https://fedlex.data.admin.ch/eli/oc/2002/542); [2003 2494](https://fedlex.data.admin.ch/eli/oc/2003/375); [2004 3879](https://fedlex.data.admin.ch/eli/oc/2004/538); [2005 3561](https://fedlex.data.admin.ch/eli/oc/2005/512); [2006 593](https://fedlex.data.admin.ch/eli/oc/2006/84); [2007 419](https://fedlex.data.admin.ch/eli/oc/2007/84), [4669](https://fedlex.data.admin.ch/eli/oc/2007/660); [2008 4045](https://fedlex.data.admin.ch/eli/oc/2008/553); [2009 1291](https://fedlex.data.admin.ch/eli/oc/2009/207); [2010 4523](https://fedlex.data.admin.ch/eli/oc/2010/641); [2012 405](https://fedlex.data.admin.ch/eli/oc/2012/42), [6031](https://fedlex.data.admin.ch/eli/oc/2012/708); [2014 1313](https://fedlex.data.admin.ch/eli/oc/2014/276); [2015 4197](https://fedlex.data.admin.ch/eli/oc/2015/702); [2017 31](https://fedlex.data.admin.ch/eli/oc/2017/10); [2020 1561](https://fedlex.data.admin.ch/eli/oc/2020/311), [4829](https://fedlex.data.admin.ch/eli/oc/2020/868); [2023 199](https://fedlex.data.admin.ch/eli/oc/2023/199). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20)
 
 Vorbehalte und Erklärungen
 
-Schweiz**[^t-3]**
+Schweiz[^t-3]
 
 Die schweizerische Regierung erklärt in Übereinstimmung mit Art. 3 Abs. 2 des Fakultativprotokolls, dass das Mindestalter für die Rekrutierung von Freiwilligen in ihre nationalen Streitkräfte 18 Jahre beträgt. Die schweizerische Rechtsordnung sieht dieses Alter vor.
 
