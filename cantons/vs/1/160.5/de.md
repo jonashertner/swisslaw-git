@@ -5,12 +5,12 @@ title: Gesetz über die Unvereinbarkeiten
 short: GU
 language: de
 version: 2023-01-01
-valid_until: 2023-06-30
+corrected: 2023-04-20
 version_adopted: 2020-12-17
 adopted: 1998-02-11
 in_force: 1998-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/160.5"
-pdf: "https://lex.vs.ch/api/de/versions/3209/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3131/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -116,15 +116,6 @@ verordnet:
 - e) die Mitglieder einer Gemeindebehörde;
 - f) die vollamtlichen Vertreter der Staatsanwaltschaft.
 
-#### Art. 9a
-
-**Kindes- und Erwachsenenschutzbehörde**
-
-<sup>1</sup> Mit Ausnahme der Mitglieder der Ur- und Burgerversammlungen können nicht Mitglieder oder Stellvertreter der Kindes- und Erwachsenenschutzbehörde oder Schreiber der Behörde sein:
-
-- a) die Mitglieder der Legislativ-, Exekutiv-, Verwaltungs- und Gerichtsbehörden auf Gemeinde-, Burger-, Kantons- und Bundesebene;
-- b) die Beamten und Angestellten der Einwohner- und Burgergemeinden.
-
 ### 2.2 Unvereinbarkeiten aufgrund der Unterordnung eines Amtes unter ein anderes Amt
 
 #### Art. 10
@@ -143,7 +134,7 @@ verordnet:
 
 #### Art. 12
 
-<sup>1</sup> Die Ehegatten, Verwandte in gerader und in der Seitenlinie bis zum dritten Grad sowie die Verschwägerten bis zum zweiten Grad können nicht gleichzeitig Mitglieder des Staatsrates, des gleichen Gerichts, Mitglieder oder Stellvertreter der gleichen Kindes- und Erwachsenenschutzbehörde sein.
+<sup>1</sup> Die Ehegatten, Verwandten in gerader und in der Seitenlinie bis zum dritten Grad sowie die Verschwägerten bis zum zweiten Grad können nicht gleichzeitig Mitglieder des Staatsrates oder des gleichen Gerichtes sein.
 
 <sup>2</sup> Sie können auch nicht gleichzeitig administrative oder richterliche Ämter besetzen, deren eines dem anderen unmittelbar untergeordnet ist.
 

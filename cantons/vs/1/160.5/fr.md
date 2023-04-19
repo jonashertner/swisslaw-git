@@ -5,12 +5,12 @@ title: Loi sur les incompatibilités
 short: LI
 language: fr
 version: 2023-01-01
-valid_until: 2023-06-30
+corrected: 2023-04-20
 version_adopted: 2020-12-17
 adopted: 1998-02-11
 in_force: 1998-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/160.5"
-pdf: "https://lex.vs.ch/api/fr/versions/3209/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3131/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -116,15 +116,6 @@ ordonne:
 - e) les membres d'une autorité municipale;
 - f) les représentants à plein temps du ministère public.
 
-#### Art. 9a
-
-**Autorité de protection de l'enfant et de l'adulte**
-
-<sup>1</sup> A l'exception des membres des assemblées primaires et bourgeoisiales, ne peuvent être membres ou suppléants de l'autorité de protection de l'enfant et de l'adulte ou greffiers de l'autorité:
-
-- a) les membres des autorités législatives, exécutives, administratives et judiciaires communales, bourgeoisiales, cantonales et fédérales;
-- b) les fonctionnaires et employés des communes municipales et bourgeoisiales.
-
 ### 2.2 Incompatibilités tenant à la subordination d'une fonction à une autre fonction
 
 #### Art. 10
@@ -143,7 +134,7 @@ ordonne:
 
 #### Art. 12
 
-<sup>1</sup> Les conjoints, les parents en ligne directe et collatérale jusqu'au troisième degré, les alliés en ligne directe et collatérale jusqu'au deuxième degré ne peuvent pas être simultanément membres du Conseil d'Etat, d'un même tribunal, membres ou suppléants d'une même autorité de protection de l'enfant et de l'adulte.
+<sup>1</sup> Les conjoints, les parents en ligne directe et collatérale jusqu'au troisième degré, les alliés en ligne directe et collatérale jusqu'au deuxième degré ne peuvent pas être simultanément membres du Conseil d'Etat ou d'un même tribunal.
 
 <sup>2</sup> Ils ne peuvent pas non plus occuper en même temps des fonctions administratives ou judiciaires dont l'une est immédiatement subordonnée à l'autre.
 
