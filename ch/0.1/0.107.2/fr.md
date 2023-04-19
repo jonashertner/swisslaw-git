@@ -3,11 +3,11 @@ sr: "0.107.2"
 title: "Protocole facultatif du 25 mai 2000 à la Convention relative aux droits de l'enfant, concernant la vente d'enfants, la prostitution des enfants et la pornographie mettant en scène des enfants"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/824"
 language: fr
-version: 2020-11-13
+version: 2023-04-20
 adopted: 2000-05-25
 in_force: 2006-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/824/20201113/fr/xml/fedlex-data-admin-ch-eli-cc-2006-824-20201113-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/824/20201113/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/824/20230420/fr/xml/fedlex-data-admin-ch-eli-cc-2006-824-20230420-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/824/20230420/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2006** 5441; FF **2005** 2639
 
 Texte original
 
-Conclu à New York le 25 mai 2000
+Conclu à New York le 25 mai 2000 Approuvé par l’Assemblée fédérale le 24 mars 2006[^t-1] Instrument de ratification déposé par la Suisse le 19 septembre 2006 Entré en vigueur pour la Suisse le 19 octobre 2006
 
-Approuvé par l’Assemblée fédérale le 24 mars 2006[^t-1]
-
-Instrument de ratification déposé par la Suisse le 19 septembre 2006
-
-Entré en vigueur pour la Suisse le 19 octobre 2006
-
-(Etat le 13 novembre 2020)
+(État le 20 avril 2023)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 24 mars 2006 ([RO 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823))
 
@@ -42,9 +36,7 @@ profondément préoccupés par la pratique répandue et persistante du tourisme 
 
 conscients qu’un certain nombre de groupes particulièrement vulnérables, notamment les fillettes, sont davantage exposés au risque d’exploitation sexuelle, et que l’on recense un nombre anormalement élevé de fillettes parmi les victimes de l’exploitation sexuelle,
 
-préoccupés par l’offre croissante de matériels pornographiques mettant en scène des enfants sur l’Internet et autres nouveaux supports technologiques, et rappelant que, dans ses conclusions, la Conférence internationale sur la lutte contre la pornographie impliquant des enfants sur l’Internet, tenue à Vienne en 1999, a notamment demandé
-
-la criminalisation dans le monde entier de la production, la distribution, l’exportation, l’importation, la transmission, la possession intentionnelle et la publicité de matériels pornographiques impliquant des enfants, et soulignant l’importance d’une coopération et d’un partenariat plus étroits entre les pouvoirs publics et les professionnels de l’Internet,
+préoccupés par l’offre croissante de matériels pornographiques mettant en scène des enfants sur l’Internet et autres nouveaux supports technologiques, et rappelant que, dans ses conclusions, la Conférence internationale sur la lutte contre la pornographie impliquant des enfants sur l’Internet, tenue à Vienne en 1999, a notamment demandé la criminalisation dans le monde entier de la production, la distribution, l’exportation, l’importation, la transmission, la possession intentionnelle et la publicité de matériels pornographiques impliquant des enfants, et soulignant l’importance d’une coopération et d’un partenariat plus étroits entre les pouvoirs publics et les professionnels de l’Internet,
 
 convaincus que l’élimination de la vente d’enfants, de la prostitution des enfants et de la pornographie mettant en scène des enfants sera facilitée par l’adoption d’une approche globale tenant compte des facteurs qui contribuent à ces phénomènes, notamment le sous-développement, la pauvreté, les disparités économiques, l’inéquité des structures socioéconomiques, les dysfonctionnements familiaux, le manque d’éducation, l’exode rural, la discrimination fondée sur le sexe, le comportement sexuel irresponsable des adultes, les pratiques traditionnelles préjudiciables, les conflits armés et la traite des enfants,
 
@@ -60,11 +52,11 @@ tenant dûment compte de l’importance des traditions et des valeurs culturelle
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
-[^ingress-2]: [RS 0.211.221.311](https://fedlex.data.admin.ch/eli/cc/2003/99)
-[^ingress-3]: [RS 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
+[^ingress-1]: [RS 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
+[^ingress-2]: [RS 0.211.221.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/849)
+[^ingress-3]: [RS 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
 [^ingress-4]: Non publiée au RO.
-[^ingress-5]: [RS 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
+[^ingress-5]: [RS 0.822.728.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3657)
 
 #### Art. 1
 
@@ -251,7 +243,7 @@ Aucune des dispositions du présent Protocole ne porte atteinte aux dispositions
 
 (Suivent les signatures)
 
-Champ d’application le 13 novembre 2020**[^t-2]**
+Champ d’application le 20 avril 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaraion de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -315,6 +307,7 @@ Champ d’application le 13 novembre 2020**[^t-2]**
 <tr><td>Eswatini</td><td>24 septembre</td><td>2012 A</td><td>24 octobre</td><td>2012</td></tr>
 <tr><td>États-Unis\*</td><td>23 décembre</td><td>2002</td><td>23 janvier</td><td>2003</td></tr>
 <tr><td>Éthiopie</td><td>25 mars</td><td>2014 A</td><td>25 avril</td><td>2014</td></tr>
+<tr><td>Fidji</td><td>9 mars</td><td>2021</td><td>9 avril</td><td>2021</td></tr>
 <tr><td>Finlande</td><td>1<sup>er</sup> juin</td><td>2012</td><td>1<sup>er</sup> juillet</td><td>2012</td></tr>
 <tr><td>France\*\*</td><td>5 février</td><td>2003</td><td>5 mars</td><td>2003</td></tr>
 <tr><td>Gabon</td><td>1<sup>er</sup> octobre</td><td>2007</td><td>1<sup>er</sup> novembre</td><td>2007</td></tr>
@@ -331,6 +324,7 @@ Champ d’application le 13 novembre 2020**[^t-2]**
 <tr><td>Honduras</td><td>8 mai</td><td>2002 A</td><td>8 juin</td><td>2002</td></tr>
 <tr><td>Hongrie\*\*</td><td>24 février</td><td>2010</td><td>24 mars</td><td>2010</td></tr>
 <tr><td>Îles Marshall</td><td>29 janvier</td><td>2019 A</td><td>28 février</td><td>2019</td></tr>
+<tr><td>Îles Salomon</td><td>5 mai</td><td>2022</td><td>5 juin</td><td>2022</td></tr>
 <tr><td>Inde</td><td>16 août</td><td>2005</td><td>16 septembre</td><td>2005</td></tr>
 <tr><td>Indonésie</td><td>24 septembre</td><td>2012</td><td>24 octobre</td><td>2012</td></tr>
 <tr><td>Iran</td><td>26 septembre</td><td>2007 A</td><td>26 octobre</td><td>2007</td></tr>
@@ -387,6 +381,7 @@ Champ d’application le 13 novembre 2020**[^t-2]**
 <tr><td>Paraguay</td><td>18 août</td><td>2003</td><td>18 septembre</td><td>2003</td></tr>
 <tr><td>Pays-Bas <sup>e</sup></td><td>23 août</td><td>2005</td><td>23 septembre</td><td>2005</td></tr>
 <tr><td>Aruba</td><td>17 octobre</td><td>2006</td><td>17 octobre</td><td>2006</td></tr>
+<tr><td>Curaçao</td><td>20 septembre</td><td>2022</td><td>20 septembre</td><td>2022</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>10 octobre</td><td>2010</td><td>10 octobre</td><td>2010</td></tr>
 <tr><td>Pérou</td><td>8 mai</td><td>2002</td><td>8 juin</td><td>2002</td></tr>
 <tr><td>Philippines</td><td>28 mai</td><td>2002</td><td>28 juin</td><td>2002</td></tr>
@@ -400,6 +395,7 @@ Champ d’application le 13 novembre 2020**[^t-2]**
 <tr><td>Royaume-Uni\*\*</td><td>20 février</td><td>2009</td><td>20 mars</td><td>2009</td></tr>
 <tr><td>Aurigny</td><td>4 novembre</td><td>2020</td><td>4 novembre</td><td>2020</td></tr>
 <tr><td>Guernesey</td><td>4 novembre</td><td>2020</td><td>4 novembre</td><td>2020</td></tr>
+<tr><td>Île de Man</td><td>14 avril</td><td>2023</td><td>14 avril</td><td>2023</td></tr>
 <tr><td>Jersey</td><td>29 avril</td><td>2014</td><td>29 avril</td><td>2014</td></tr>
 <tr><td>Russie</td><td>24 septembre</td><td>2013</td><td>24 octobre</td><td>2013</td></tr>
 <tr><td>Rwanda</td><td>14 mars</td><td>2002 A</td><td>14 avril</td><td>2002</td></tr>
@@ -437,7 +433,7 @@ Champ d’application le 13 novembre 2020**[^t-2]**
 <tr><td>Vietnam</td><td>20 décembre</td><td>2001</td><td>18 janvier</td><td>2002</td></tr>
 <tr><td>Yémen</td><td>15 décembre</td><td>2004 A</td><td>15 janvier</td><td>2005</td></tr>
 <tr><td>Zimbabwe</td><td>14 février</td><td>2012 A</td><td>14 mars</td><td>2012</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume de Belgique. <sup>b</sup> Le Protocole ne s’applique pas à la Région administrative spéciale (RAS) de Hong Kong. <sup>c</sup> Le Protocole s’applique aux îles Féroé et au Groenland. <sup>d</sup> Le Protocole ne s'applique pas au Tokélaou. <sup>e</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org/) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume de Belgique. <sup>b</sup> Le Protocole ne s’applique pas à la Région administrative spéciale (RAS) de Hong Kong. <sup>c</sup> Le Protocole s’applique aux Îles Féroé et au Groenland. <sup>d</sup> Le Protocole ne s’applique pas au Tokélaou. <sup>e</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2006 5441](https://fedlex.data.admin.ch/eli/oc/2006/824), [2007 1325](https://fedlex.data.admin.ch/eli/oc/2007/214), [2008 615](https://fedlex.data.admin.ch/eli/oc/2008/138), [2009 57](https://fedlex.data.admin.ch/eli/oc/2009/7)[7099](https://fedlex.data.admin.ch/eli/oc/2009/857), [2011 511](https://fedlex.data.admin.ch/eli/oc/2011/74), [2012 1487](https://fedlex.data.admin.ch/eli/oc/2012/201)[6033](https://fedlex.data.admin.ch/eli/oc/2012/709), [2014 289](https://fedlex.data.admin.ch/eli/oc/2014/46), [2016 1183](https://fedlex.data.admin.ch/eli/oc/2016/223), [2017 31](https://fedlex.data.admin.ch/eli/oc/2017/10), [2018 1779](https://fedlex.data.admin.ch/eli/oc/2018/264), [2020 4831](https://fedlex.data.admin.ch/eli/oc/2020/869). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2006 5441](https://fedlex.data.admin.ch/eli/oc/2006/824); [2007 1325](https://fedlex.data.admin.ch/eli/oc/2007/214); [2008 615](https://fedlex.data.admin.ch/eli/oc/2008/138); [2009 57](https://fedlex.data.admin.ch/eli/oc/2009/7), [7099](https://fedlex.data.admin.ch/eli/oc/2009/857); [2011 511](https://fedlex.data.admin.ch/eli/oc/2011/74); [2012 1487](https://fedlex.data.admin.ch/eli/oc/2012/201), [6033](https://fedlex.data.admin.ch/eli/oc/2012/709); [2014 289](https://fedlex.data.admin.ch/eli/oc/2014/46); [2016 1183](https://fedlex.data.admin.ch/eli/oc/2016/223); [2018 1779](https://fedlex.data.admin.ch/eli/oc/2018/264); [2020 4831](https://fedlex.data.admin.ch/eli/oc/2020/869); [2023 200](https://fedlex.data.admin.ch/eli/oc/2023/200). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).

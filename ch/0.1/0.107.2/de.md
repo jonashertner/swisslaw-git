@@ -3,11 +3,11 @@ sr: "0.107.2"
 title: "Fakultativprotokoll vom 25. Mai 2000 zum Übereinkommen über die Rechte des Kindes betreffend den Verkauf von Kindern, die Kinderprostitution und die Kinderpornografie"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/824"
 language: de
-version: 2020-11-13
+version: 2023-04-20
 adopted: 2000-05-25
 in_force: 2006-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/824/20201113/de/xml/fedlex-data-admin-ch-eli-cc-2006-824-20201113-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/824/20201113/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/824/20230420/de/xml/fedlex-data-admin-ch-eli-cc-2006-824-20230420-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/824/20230420/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,9 +20,9 @@ AS **2006** 5441; BBl **2005** 2807
 
 Abgeschlossen in New York am 25. Mai 2000 Von der Bundesversammlung genehmigt am 24. März 2006[^t-1] Ratifikationsurkunde von der Schweiz hinterlegt am 19. September 2006 In Kraft getreten für die Schweiz am 19. Oktober 2006
 
-(Stand am 13. November 2020)
+(Stand am 20. April 2023)
 
-[^t-1]: Art. 1 Abs. 1 des BB vom 24. März 2006 ([AS 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823))
+[^t-1]: Art. 1 Abs. 1 des BB vom 24. März 2006 ([AS 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823)).
 
 Die Vertragsstaaten dieses Protokolls,
 
@@ -52,11 +52,11 @@ unter gebührender Beachtung der Bedeutung der Traditionen und kulturellen Werte
 
 haben Folgendes vereinbart:
 
-[^ingress-1]: [SR 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
-[^ingress-2]: [SR 0.211.221.311](https://fedlex.data.admin.ch/eli/cc/2003/99)
-[^ingress-3]: [SR 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
+[^ingress-1]: [SR 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
+[^ingress-2]: [SR 0.211.221.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/849)
+[^ingress-3]: [SR 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
 [^ingress-4]: In der AS nicht publiziert.
-[^ingress-5]: [SR 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
+[^ingress-5]: [SR 0.822.728.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3657)
 
 #### Art. 1
 
@@ -245,7 +245,7 @@ Dieses Protokoll lässt zur Verwirklichung der Rechte des Kindes besser geeignet
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 13. November 2020**[^t-2]**
+Geltungsbereich am 20. April 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -293,6 +293,7 @@ Geltungsbereich am 13. November 2020**[^t-2]**
 <tr><td>Eritrea</td><td>16. Februar</td><td>2005 B</td><td>16. März</td><td>2005</td></tr>
 <tr><td>Estland</td><td>3. August</td><td>2004</td><td>3. September</td><td>2004</td></tr>
 <tr><td>Eswatini</td><td>24. September</td><td>2012 B</td><td>24. Oktober</td><td>2012</td></tr>
+<tr><td>Fidschi</td><td>9. März</td><td>2021</td><td>9. April</td><td>2021</td></tr>
 <tr><td>Finnland</td><td>1. Juni</td><td>2012</td><td>1. Juli</td><td>2012</td></tr>
 <tr><td>Frankreich\*\*</td><td>5. Februar</td><td>2003</td><td>5. März</td><td>2003</td></tr>
 <tr><td>Gabun</td><td>1. Oktober</td><td>2007</td><td>1. November</td><td>2007</td></tr>
@@ -366,6 +367,7 @@ Geltungsbereich am 13. November 2020**[^t-2]**
 <tr><td>Nicaragua</td><td>2. Dezember</td><td>2004 B</td><td>2. Januar</td><td>2005</td></tr>
 <tr><td>Niederlande <sup>e</sup></td><td>23. August</td><td>2005</td><td>23. September</td><td>2005</td></tr>
 <tr><td>Aruba</td><td>17. Oktober</td><td>2006</td><td>17. Oktober</td><td>2006</td></tr>
+<tr><td>Curaçao</td><td>20. September</td><td>2022</td><td>20. September</td><td>2022</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>10. Oktober</td><td>2010</td><td>10. Oktober</td><td>2010</td></tr>
 <tr><td>Niger</td><td>26. Oktober</td><td>2004</td><td>26. November</td><td>2004</td></tr>
 <tr><td>Nigeria</td><td>27. September</td><td>2010</td><td>27. Oktober</td><td>2010</td></tr>
@@ -384,6 +386,7 @@ Geltungsbereich am 13. November 2020**[^t-2]**
 <tr><td>Ruanda</td><td>14. März</td><td>2002 B</td><td>14. April</td><td>2002</td></tr>
 <tr><td>Rumänien</td><td>18. Oktober</td><td>2001</td><td>18. Januar</td><td>2002</td></tr>
 <tr><td>Russland</td><td>24. September</td><td>2013</td><td>24. Oktober</td><td>2013</td></tr>
+<tr><td>Salomoninseln</td><td>5. Mai</td><td>2022</td><td>5. Juni</td><td>2022</td></tr>
 <tr><td>Samoa</td><td>29. April</td><td>2016 B</td><td>29. Mai</td><td>2016</td></tr>
 <tr><td>San Marino</td><td>26. September</td><td>2011</td><td>26. Oktober</td><td>2011</td></tr>
 <tr><td>Saudi-Arabien</td><td>18. August</td><td>2010 B</td><td>18. September</td><td>2010</td></tr>
@@ -426,17 +429,13 @@ Geltungsbereich am 13. November 2020**[^t-2]**
 <tr><td>Vereinigtes Königreich\*\*</td><td>20. Februar</td><td>2009</td><td>20. März</td><td>2009</td></tr>
 <tr><td>Alderney</td><td>4. November</td><td>2020</td><td>4. November</td><td>2020</td></tr>
 <tr><td>Guernsey</td><td>4. November</td><td>2020</td><td>4. November</td><td>2020</td></tr>
+<tr><td>Insel Man</td><td>14. April</td><td>2023</td><td>14. April</td><td>2023</td></tr>
 <tr><td>Jersey</td><td>29. April</td><td>2014</td><td>29. April</td><td>2014</td></tr>
 <tr><td>Vereinigte Staaten\*</td><td>23. Dezember</td><td>2002</td><td>23. Januar</td><td>2003</td></tr>
 <tr><td>Vietnam</td><td>20. Dezember</td><td>2001</td><td>18. Januar</td><td>2002</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>24. Oktober</td><td>2012</td><td>24. November</td><td>2012</td></tr>
 <tr><td>Zypern\*\*</td><td>6. April</td><td>2006</td><td>6. Mai</td><td>2006</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Für das Königreich Belgien.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Das Protokoll gilt nicht für die Besondere Verwaltungsregion (SAR) Hongkong.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Das Fakultativprotokoll gilt für die Färöer und Grönland.</td></tr>
-<tr><td colspan="5"><sup>d</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
-<tr><td colspan="5"><sup>e</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich Belgien. <sup>b</sup> Das Protokoll gilt nicht für die Besondere Verwaltungsregion (SAR) Hongkong. <sup>c</sup> Das Fakultativprotokoll gilt für die Färöer und Grönland. <sup>d</sup> Das Protokoll gilt nicht für Tokelau. <sup>e</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2006 5441](https://fedlex.data.admin.ch/eli/oc/2006/824), [2007 1325](https://fedlex.data.admin.ch/eli/oc/2007/214), [2008 615](https://fedlex.data.admin.ch/eli/oc/2008/138), [2009 57](https://fedlex.data.admin.ch/eli/oc/2009/7)[7099](https://fedlex.data.admin.ch/eli/oc/2009/857), [2011 511](https://fedlex.data.admin.ch/eli/oc/2011/74), [2012 1487](https://fedlex.data.admin.ch/eli/oc/2012/201)[6033](https://fedlex.data.admin.ch/eli/oc/2012/709), [2014 289](https://fedlex.data.admin.ch/eli/oc/2014/46), [2016 1183](https://fedlex.data.admin.ch/eli/oc/2016/223), [2017 31](https://fedlex.data.admin.ch/eli/oc/2017/10), [2018 1779](https://fedlex.data.admin.ch/eli/oc/2018/264), [2020 4831](https://fedlex.data.admin.ch/eli/oc/2020/869). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2006 5441](https://fedlex.data.admin.ch/eli/oc/2006/824); [2007 1325](https://fedlex.data.admin.ch/eli/oc/2007/214); [2008 615](https://fedlex.data.admin.ch/eli/oc/2008/138); [2009 57](https://fedlex.data.admin.ch/eli/oc/2009/7), [7099](https://fedlex.data.admin.ch/eli/oc/2009/857); [2011 511](https://fedlex.data.admin.ch/eli/oc/2011/74); [2012 1487](https://fedlex.data.admin.ch/eli/oc/2012/201), [6033](https://fedlex.data.admin.ch/eli/oc/2012/709); [2014 289](https://fedlex.data.admin.ch/eli/oc/2014/46); [2016 1183](https://fedlex.data.admin.ch/eli/oc/2016/223); [2018 1779](https://fedlex.data.admin.ch/eli/oc/2018/264); [2020 4831](https://fedlex.data.admin.ch/eli/oc/2020/869); [2023 200](https://fedlex.data.admin.ch/eli/oc/2023/200). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
