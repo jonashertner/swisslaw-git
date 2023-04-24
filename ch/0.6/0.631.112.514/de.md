@@ -3,11 +3,11 @@ sr: "0.631.112.514"
 title: Vertrag vom 29. März 1923 zwischen der Schweiz und Liechtenstein über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet (mit Schlussprotokoll und Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/39/551_565_576"
 language: de
-version: 2022-10-18
+version: 2023-04-25
 adopted: 1923-03-29
 in_force: 1924-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20221018/de/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20221018-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20221018/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20230425/de/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20230425-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20230425/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 29. März 1923 Von der Bundesversammlung genehmigt am 21. Dezember 1923[^t-1] Ratifikationsurkunden ausgetauscht am 28. Dezember 1923 In Kraft getreten am 1. Januar 1924
 
-(Stand am 18. Oktober 2022) (Stand am 18. Oktober 2022)
+(Stand am 25. April 2023)
 
 [^t-1]: AS **39** 550
 
@@ -393,4 +393,4 @@ Anlagen[^t-4]
 <tr><td>**Anlage II**</td><td>– Liste der Staatsverträge, die im Fürstentum Liechtenstein anwendbar sind.</td></tr>
 </table>
 
-[^t-4]: Es wird mitgeteilt, dass die Anlagen I und II seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich, letztmals auf den 18. Oktober 2022 (Stand: 30. Juni 2022), bereinigt worden sind. Diese Anlagen werden in der AS nicht publiziert ([AS 2021 303](https://fedlex.data.admin.ch/eli/oc/2021/303), [711](https://fedlex.data.admin.ch/eli/oc/2021/711); [2022 210](https://fedlex.data.admin.ch/eli/oc/2022/210), [626](https://fedlex.data.admin.ch/eli/oc/2022/626)). Separatdrucke der halbjährlich bereinigten Anlagen können bezogen werden beim Eidgenössischen Departement für auswärtige Angelegenheiten, Direktion für Völkerrecht, 3003 Bern, oder auf der Internetseite www.gesetze.li &gt; LR-Nr. 170.551.631 konsultiert werden.
+[^t-4]: Es wird mitgeteilt, dass die Anlagen I und II seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich, letztmals auf den 25. April 2023 (Stand: 31. Dezember 2022), bereinigt worden sind. Diese Anlagen werden in der AS nicht publiziert ([AS 2021 303](https://fedlex.data.admin.ch/eli/oc/2021/303), [711](https://fedlex.data.admin.ch/eli/oc/2021/711); [2022 210](https://fedlex.data.admin.ch/eli/oc/2022/210), [626](https://fedlex.data.admin.ch/eli/oc/2022/626); [2023 223](https://fedlex.data.admin.ch/eli/oc/2023/223)). Separatdrucke der halbjährlich bereinigten Anlagen können bezogen werden beim Eidgenössischen Departement für auswärtige Angelegenheiten, Direktion für Völkerrecht, 3003 Bern, oder auf der Internetseite www.gesetze.li &gt; LR-Nr. 170.551.631 konsultiert werden.
