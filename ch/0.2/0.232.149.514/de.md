@@ -3,11 +3,11 @@ sr: "0.232.149.514"
 title: Vertrag vom 22. Dezember 1978 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein über den Schutz der Erfindungspatente (Patentschutzvertrag) (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1980/284_285_285"
 language: de
-version: 2022-10-18
+version: 2023-04-25
 adopted: 1978-12-22
 in_force: 1980-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20221018/de/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20221018-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20221018/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20230425/de/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20230425-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20230425/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Originaltext
 
 Abgeschlossen am 22. Dezember 1978 Von der Bundesversammlung genehmigt am 4. Dezember 1979[^t-1] Ratifikationsurkunden ausgetauscht am 24. Januar 1980 In Kraft getreten am 1. April 1980
 
-(Stand am 18. Oktober 2022)
+(Stand am 25. April 2023)
 
 [^t-1]: [AS 1980 283](https://fedlex.data.admin.ch/eli/oc/1980/283_284_284)
 
@@ -254,4 +254,4 @@ Anlagen[^t-2]
 <tr><td>Anlage II</td><td>– Liste der Staatsverträge, die im Fürstentum Liechtenstein anwendbar sind.</td></tr>
 </table>
 
-[^t-2]: Die Anlagen I und II sind seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich, letztmals auf den 18. Oktober 2022 (Stand: 30. Juni 2022), bereinigt worden. Diese Anlagen werden in der AS nicht publiziert ([AS 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307), [710](https://fedlex.data.admin.ch/eli/oc/2021/710); [2022 209](https://fedlex.data.admin.ch/eli/oc/2022/209), [625](https://fedlex.data.admin.ch/eli/oc/2022/625)). Separatdrucke der bereinigten Anlagen können bezogen werden beim Eidgenössischen Departement für auswärtige Angelegenheiten, Direktion für Völkerrecht, 3003 Bern, oder auf der Internetseite www.gesetze.li &gt; LR-Nr. 170.551.232 konsultiert werden.
+[^t-2]: Die Anlagen I und II seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich, letztmals auf den 25. April 2023 (Stand: 31. Dezember 2022), bereinigt worden. Diese Anlagen werden in der AS nicht publiziert ([AS 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307), [710](https://fedlex.data.admin.ch/eli/oc/2021/710); [2022 209](https://fedlex.data.admin.ch/eli/oc/2022/209), [625](https://fedlex.data.admin.ch/eli/oc/2022/625); [2023 222](https://fedlex.data.admin.ch/eli/oc/2023/222)). Separatdrucke der bereinigten Anlagen können bezogen werden beim Eidgenössischen Departement für auswärtige Angelegenheiten, Direktion für Völkerrecht, 3003 Bern, oder auf der Internetseite www.gesetze.li &gt; LR-Nr. 170.551.232 konsultiert werden.
