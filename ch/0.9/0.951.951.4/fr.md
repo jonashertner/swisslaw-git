@@ -3,11 +3,11 @@ sr: "0.951.951.4"
 title: Accord monétaire du 19 juin 1980 entre la Confédération suisse et la Principauté de Liechtenstein (avec annexe et échange de lettres)
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715"
 language: fr
-version: 2022-10-18
+version: 2023-04-25
 adopted: 1980-06-19
 in_force: 1981-11-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715/20221018/fr/xml/fedlex-data-admin-ch-eli-cc-1981-1715_1715_1715-20221018-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/1715_1715_1715/20221018/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715/20230425/fr/xml/fedlex-data-admin-ch-eli-cc-1981-1715_1715_1715-20230425-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/1715_1715_1715/20230425/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instruments de ratification échangés le 26 octobre 1981
 
 Entré en vigueur le 25 novembre 1981
 
-(État le 18 octobre 2022)
+(État le 25 avril 2023)
 
 [^t-1]: [RO 1981 1714](https://fedlex.data.admin.ch/eli/oc/1981/1714_1714_1714)
 
@@ -227,4 +227,4 @@ Annexe[^t-2]
 <tr><td>Annexe I</td><td>– Liste des lois et autres prescriptions fédérales applicables dans la Principauté de Liechtenstein</td></tr>
 </table>
 
-[^t-2]: L’annexe I a été mise à jour régulièrement dès le 3 novembre 1998 deux fois par an dès le 21 juin 2005 et pour la dernière fois le 18 octobre 2022 (état au 30 juin 2022). Cette annexe n’est plus publiée dans le RO ([RO 2020 4565](https://fedlex.data.admin.ch/eli/oc/2020/808);[2021 647](https://fedlex.data.admin.ch/eli/oc/2021/647), [713](https://fedlex.data.admin.ch/eli/oc/2021/713); [2022 212](https://fedlex.data.admin.ch/eli/oc/2022/212), [629](https://fedlex.data.admin.ch/eli/oc/2022/629)). Des tirés à part des annexes mises à jour peuvent être obtenus auprès du Département fédéral des affaires étrangères, Direction du droit international public, 3003 Berne ou consultés sur le site Internet www.gesetze.li &gt; LR-Nr. 170.551.95.
+[^t-2]: L’annexe I a été mise à jour régulièrement dès le 3 novembre 1998 deux fois par an dès le 21 juin 2005 et pour la dernière fois le 25 avril 2023 (état au 31 décembre 2022). Cette annexe n’est plus publiée dans le RO ([RO 2020 4565](https://fedlex.data.admin.ch/eli/oc/2020/808);[2021 647](https://fedlex.data.admin.ch/eli/oc/2021/647), [713](https://fedlex.data.admin.ch/eli/oc/2021/713); [2022 212](https://fedlex.data.admin.ch/eli/oc/2022/212), [629](https://fedlex.data.admin.ch/eli/oc/2022/629); [2023 229](https://fedlex.data.admin.ch/eli/oc/2023/229)). Des tirés à part des annexes mises à jour peuvent être obtenus auprès du Département fédéral des affaires étrangères, Direction du droit international public, 3003 Berne ou consultés sur le site Internet www.gesetze.li &gt; LR-Nr. 170.551.95.
