@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2023-04-20
+version: 2023-04-27
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230420/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230420-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230420/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230427/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230427-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230427/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 20. April 2023)
+vom 4. März 2022 (Stand am 27. April 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1238,6 +1238,16 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 [^28e-12]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^28e-13]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^28e-14]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+
+#### Art. 28f
+
+**Verbot betreffend die Einflussnahme in kritischen Infrastrukturen**[^28f-1]
+
+<sup>1</sup> Es ist verboten, russischen Staatsangehörigen und in der Russischen Föderation ansässigen natürlichen Personen zu ermöglichen, eine Funktion in den Leitungsgremien der Eigentümer oder Betreiber von kritischen Infrastrukturen auszuüben.
+
+<sup>2</sup> Das Verbot nach Absatz 1 gilt nicht für die Ausübung einer Funktion nach Absatz 1 durch Personen, die ausschliesslich oder auch Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats oder Staatsangehörige des Vereinigten Königreichs sind.
+
+[^28f-1]: Eingefügt durch Ziff. I der V vom 29. März 2023, in Kraft seit 27. April 2023 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 
 ## 4. Abschnitt: Weitere Beschränkungen
 

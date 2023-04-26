@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2023-04-20
+version: 2023-04-27
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230420/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230420-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230420/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230427/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230427-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230427/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 20 aprile 2023)
+del 4 marzo 2022 (Stato 27 aprile 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1238,6 +1238,16 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 [^28e-12]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^28e-13]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^28e-14]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+
+#### Art. 28f
+
+**Divieto di condizionare infrastrutture critiche**[^28f-1]
+
+<sup>1</sup> È vietato far esercitare a cittadini russi e a persone fisiche residenti in Russia funzioni negli organi direttivi dei proprietari o degli operatori di infrastrutture critiche.
+
+<sup>2</sup> Il divieto di cui al capoverso 1 non si applica all’esercizio delle funzioni di cui al capoverso 1 da parte di persone che hanno la cittadinanza esclusiva o condivisa della Svizzera, di uno Stato membro dello SEE o del Regno Unito.
+
+[^28f-1]: Introdotto dal n. I dell’O del 29 mar. 2023, in vigore dal 27 apr. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 
 ## Sezione 4: Ulteriori restrizioni
 
