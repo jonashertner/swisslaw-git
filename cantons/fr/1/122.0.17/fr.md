@@ -4,13 +4,13 @@ number: "122.0.17"
 title: "Ordonnance sur la gestion des séances du Conseil d'Etat"
 short: OGSCE
 language: fr
-version: 2022-02-01
-valid_until: 2023-04-30
-version_adopted: 2022-01-31
+version: 2023-05-01
+valid_until: 2024-03-31
+version_adopted: 2023-04-04
 adopted: 2014-04-08
 in_force: 2014-04-08
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.17"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7119/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7756/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Conseil d'Etat, gestion des séances – O
 
 (OGSCE)
 
-du 08.04.2014 (version entrée en vigueur le 01.02.2022)
+du 08.04.2014 (version entrée en vigueur le 01.05.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -57,27 +57,33 @@ Arrête:
 
 <sup>3</sup> Le calendrier des séances de l'année est arrêté par le Conseil d'Etat et tenu à jour par la Chancellerie d'Etat.
 
-<sup>4</sup> En outre, le Conseil d'Etat se réunit en séance extraordinaire chaque fois qu'un de ses membres le demande. La procédure en cas de situations particulières (art. 24 LOCEA) demeure également réservée.
+<sup>4</sup> En outre, le Conseil d'Etat se réunit en séance extraordinaire chaque fois qu'un de ses membres le demande. La procédure en cas de situations particulières (art. 34 LOCEA) demeure également réservée.
 
 #### Art. 2
 
 **Séances ordinaires**
 
-<sup>1</sup> Les séances se tiennent d'ordinaire à la Chancellerie d'Etat, de 8 à 12 heures et de 13 h 30 à 15 heures. En principe, les membres du Conseil d'Etat partagent le repas de midi, à leur propre charge.
+<sup>1</sup> Les séances ordinaires se tiennent en principe de 8 à 12 heures et de 13 h 30 à 15 heures. Toutefois:
 
-<sup>2</sup> Au besoin, la présidence peut décider d'avancer le début de la séance d'une demi-heure ou d'une heure.
+- a) la présidence peut au besoin décider d'avancer le début de la séance d'une demi-heure ou d'une heure;
+- b) les membres du Conseil d'Etat s'abstiennent de fixer d'autres séances ou rendez-vous avant 16 heures, de manière à pouvoir absorber un éventuel dépassement d'horaire.
 
-<sup>3</sup> Les membres du Conseil s'abstiennent de fixer d'autres séances ou rendez-vous avant 16 heures, de manière à pouvoir absorber un éventuel dépassement d'horaire.
+<sup>2</sup> Les séances ont lieu en principe en présentiel à la Chancellerie d'Etat et les membres du Conseil d'Etat partagent d'ordinaire le repas de midi à leur propre charge, sous réserve des règles qui suivent:
+
+- a) les séances peuvent exceptionnellement se tenir hors les murs, en principe sans intervenants et intervenantes extérieurs;
+- b) si nécessaire, les séances peuvent se dérouler par visioconférence ou exceptionnellement de manière mixte.
+
+<sup>3</sup> Des présentations peuvent avoir lieu durant ces séances. Elles doivent être planifiées en collaboration avec la Chancellerie d'Etat, avec l'accord préalable du Conseil d'Etat. Les affaires ordinaires ont toutefois la priorité.
 
 #### Art. 3
 
 **Séances de réserve**
 
-<sup>1</sup> Les séances de réserve servent à la présentation et à la discussion d'affaires particulières, si nécessaire en présence d'intervenants extérieurs.
+<sup>1</sup> Les séances de réserve servent à la présentation et à la discussion d'affaires particulières, si nécessaire en présence d'intervenants et intervenantes extérieurs.
 
 <sup>2</sup> Après avoir été présentées lors d'une séance de réserve, les affaires soumises pour décision sont réinscrites par la Direction concernée en vue de discussion et décision lors d'une séance ordinaire du Conseil d'Etat.
 
-<sup>3</sup> Le Conseil d'Etat peut aussi utiliser les séances de réserve comme séance de relevée ou pour débattre d'affaires qui lui sont présentées pour discussion (art. 37).
+<sup>3</sup> …
 
 <sup>4</sup> Les Directions proposent en séance ordinaire les affaires qu'elles souhaiteraient voir traiter lors de ces séances.
 
@@ -85,13 +91,13 @@ Arrête:
 
 **Séances consacrées aux finances de l'Etat**
 
-<sup>1</sup> Les séances consacrées aux finances de l'Etat ont en principe lieu dans les locaux de la Direction des finances, en présence du trésorier ou de la trésorière d'Etat et d'autres personnes de l'Administration des finances et/ou du Service du personnel et d'organisation.
+<sup>1</sup> Les séances consacrées aux finances de l'Etat ont lieu en présence du trésorier ou de la trésorière d'Etat et au besoin d'autres personnes de l'Administration des finances et/ou du Service du personnel et d'organisation.
 
 #### Art. 5
 
 **Journées de réflexion**
 
-<sup>1</sup> Le Conseil d'Etat consacre au moins deux journées de séances à la discussion de thèmes particuliers (journées au blanc et journées au vert). L'ordre du jour de ces séances est arrêté en séance ordinaire.
+<sup>1</sup> Le Conseil d'Etat consacre au moins trois journées de séances à la discussion de thèmes particuliers (journées au blanc, au vert et d'automne). L'ordre du jour de ces séances est arrêté en séance ordinaire.
 
 <sup>2</sup> Ces journées peuvent être combinées avec une partie récréative.
 
@@ -103,11 +109,13 @@ Arrête:
 
 **Principes**
 
-<sup>1</sup> Le Conseil d'Etat désigne la présidence et les membres des délégations.
+<sup>1</sup> Le Conseil d'Etat désigne la présidence et les membres des délégations chargées, à titre permanent ou temporaire, de l'examen ou du suivi d'affaires de grande importance et de lui soumettre des propositions. Elles sont composées au plus de trois de ses membres.
 
 <sup>2</sup> Les délégations informent régulièrement le Conseil d'Etat de l'avancement de leurs dossiers, soit par la remise de procès-verbaux, soit par des informations orales ou écrites lors des séances.
 
-<sup>3</sup> Le secrétariat de la délégation est tenu par la Direction de son président ou de sa présidente.
+<sup>3</sup> Le secrétariat de la délégation est tenu par la Direction de son président ou de sa présidente. Il veille à assurer l'information continue des autres membres du Conseil d'Etat.
+
+<sup>4</sup> Un procès-verbal est tenu concernant les positions arrêtées, avec au besoin, un développement succinct.
 
 #### Art. 7
 
@@ -143,7 +151,7 @@ Arrête:
 <sup>2</sup> Sont notamment traités directement dans cette application:
 
 - a) l'annonce des affaires par les Directions ainsi que la remise des propositions et de la documentation qui les accompagnent;
-- b) l'établissement de l'ordre du jour des séances;
+- b) l'établissement de l'ordre du jour des séances (bordereau);
 - c) la mise à disposition de l'ordre du jour et des documents qui s'y rapportent.
 
 <sup>3</sup> Les propositions et la documentation sont liées aux affaires traitées et restent disponibles dans l'application.
@@ -176,7 +184,7 @@ Arrête:
 
 <sup>1</sup> L'annonce d'une affaire à traiter en séance ainsi que la remise de la documentation y relative se font au plus tard le jeudi précédant la séance, jusqu'à 11 heures.
 
-<sup>2</sup> Le même jour, à 15 heures au plus tard, l'ordre du jour et tous les documents de séance sont disponibles dans l'application informatique. Hormis la remise de documents volumineux reliés, l'éventuelle impression complémentaire de documents incombe aux Directions.
+<sup>2</sup> En principe, le même jour, à 15 heures au plus tard, l'ordre du jour et tous les documents de séance sont disponibles dans l'application informatique.
 
 <sup>3</sup> Les délais sont avancés d'un jour si la séance du Conseil d'Etat a lieu le lundi.
 
@@ -188,11 +196,11 @@ Arrête:
 
 <sup>1</sup> Les projets de réponse aux consultations fédérales sont soumis au Conseil d'Etat en principe quinze jours avant l'échéance de la consultation, sauf exception motivée. Ils sont accompagnés de la documentation fournie par l'organe consultant ou du lien électronique vers l'adresse Internet où cette documentation peut être consultée.
 
-<sup>2</sup> Les dossiers relatifs au traitement des recours ou d'autres dossiers qu'il n'est pas possible ou souhaitable de numériser peuvent être mis en circulation hors séance du Conseil d'Etat. La mise en circulation et le contrôle sont faits par les huissiers d'Etat.
+<sup>2</sup> …
 
-<sup>3</sup> Les documents relatifs à des affaires confidentielles peuvent être distribués ou mis en circulation en séance.
+<sup>3</sup> Les documents relatifs à des affaires confidentielles ou secrètes sont accessibles de manière sécurisée.
 
-<sup>4</sup> La présentation en séance des objets des chapitres «Agenda» (art. 30s.) et «Informations» (art. 39) ainsi que la circulation de la mappe (art. 17) sont réservées.
+<sup>4</sup> La présentation en séance des objets des chapitres «Agenda» (art. 30s.) et «Informations» (art. 39) sont réservées.
 
 #### Art. 15
 
@@ -206,7 +214,7 @@ Arrête:
 
 **Affaires urgentes**
 
-<sup>1</sup> Les Directions peuvent annoncer jusqu'au lundi à 11 heures (ou, en cas de séance le lundi, jusqu'au vendredi à 11 heures) leurs affaires urgentes en joignant la documentation y relative et en justifiant l'urgence par écrit.
+<sup>1</sup> Les Directions peuvent annoncer jusqu'au lundi à 11 heures (ou, en cas de séance le lundi, jusqu'au vendredi à 11 heures) leurs affaires urgentes en joignant la documentation y relative et en justifiant l'urgence.
 
 <sup>2</sup> Le même jour, à 13 heures au plus tard, les documents et l'ordre du jour complété sont disponibles dans le système de gestion informatisée des séances.
 
@@ -214,11 +222,7 @@ Arrête:
 
 #### Art. 17
 
-**Mappe de circulation**
-
-<sup>1</sup> Un porte-document (mappe de circulation) est mis en circulation durant les séances. Il contient notamment des informations générales, qui ne méritent pas d'être inscrites comme affaires à l'ordre du jour, des lettres de remerciement, des copies de correspondances importantes ou politiquement sensibles adressées au Conseil d'Etat, etc.
-
-<sup>2</sup> Chaque membre du Conseil peut utiliser la mappe de circulation pour faire circuler des documents auprès de ses collègues. Il peut également demander des photocopies des documents mis en circulation.
+**…**
 
 ## 3 Déroulement de la séance (art. 15 à 17, 22, 25ss, 29, 32 et 35ss LOCEA)
 
@@ -230,11 +234,11 @@ Arrête:
 
 <sup>2</sup> S'il y a plusieurs demandes d'intervention, la parole est donnée dans l'ordre protocolaire, la présidence donnant en principe son avis en dernier.
 
-<sup>3</sup> Les membres du Conseil interviennent lorsque la présidence leur donne la parole. Ils s'expriment depuis leur place, en restant assis et en s'adressant en principe au collège.
+<sup>3</sup> Les membres du Conseil d'Etat interviennent lorsque la présidence leur donne la parole. Ils s'expriment depuis leur place, en restant assis et en s'adressant en principe au collège.
 
-<sup>4</sup> Lorsqu'ils s'adressent à un autre membre du Conseil ou le citent, ils utilisent la troisième personne et son titre, à savoir: «Monsieur le Président» ou «Madame la Présidente», «Monsieur le Directeur de …» ou «Madame la Directrice de …». Les prénom et nom ne sont pas utilisés.
+<sup>4</sup> Lorsqu'ils s'adressent à un autre membre du Conseil d'Etat ou le citent, ils utilisent la troisième personne et son titre, à savoir: «Monsieur le Président» ou «Madame la Présidente», «Monsieur le Directeur de …» ou «Madame la Directrice de …». Les prénom et nom ne sont pas utilisés.
 
-<sup>5</sup> Les membres du Conseil accordent toute leur attention à la discussion; les discussions bilatérales sont bannies et la communication avec l'extérieur, en particulier par le biais des courriels et des SMS, est limitée au strict minimum.
+<sup>5</sup> Les membres du Conseil d'Etat accordent toute leur attention à la discussion; les discussions bilatérales sont bannies et la communication avec l'extérieur, en particulier par le biais des courriels et des SMS, est limitée au strict minimum.
 
 #### Art. 19
 
@@ -244,13 +248,15 @@ Arrête:
 
 <sup>2</sup> Si la discussion n'amène aucun consensus, la décision peut être soit reportée pour complètement du dossier, soit prise par vote.
 
-<sup>3</sup> Le vote a lieu à main levée (art. 37 al. 2 LOCEA). Chaque membre du Conseil est tenu de voter, sauf s'il se récuse; l'abstention n'est pas autorisée (art. 37 al. 3 LOCEA).
+<sup>3</sup> Le vote a lieu à main levée (art. 37 al. 2 LOCEA). Chaque membre du Conseil d'Etat est tenu de voter, sauf s'il se récuse; l'abstention n'est pas autorisée (art. 37 al. 3 LOCEA).
 
 <sup>4</sup> Le vote n'a pas lieu en présence de personnes externes.
 
-<sup>5</sup> Pour les votes relatifs aux nominations et aux engagements de personnes, un membre du Conseil peut demander le vote au bulletin secret (art. 38 let. a LOCEA).
+<sup>4a</sup> Les cas de récusation sont réglés conformément à l'article 15 LOCEA.
 
-<sup>6</sup> En cas d'égalité, la présidence départage (art. 37 al. 4 LOCEA). Toutefois, lors d'élections ou d'engagements, le vote du ou de la chef-fe de la Direction concernée départage et, à défaut de Direction concernée, le sort décide (art. 38 let. b LOCEA).
+<sup>5</sup> Pour les votes relatifs aux nominations et aux engagements de personnes, un membre du Conseil d'Etat peut demander le vote au bulletin secret (art. 38 al. 1 let. a LOCEA).
+
+<sup>6</sup> En cas d'égalité, la présidence départage (art. 37 al. 4 LOCEA). Toutefois, lors d'élections ou d'engagements, le vote du ou de la chef-fe de la Direction concernée départage et, à défaut de la Direction concernée, le sort décide (art. 38 al. 1 let. b LOCEA).
 
 <sup>7</sup> Le résultat détaillé du vote est tenu secret.
 
@@ -262,7 +268,7 @@ Arrête:
 
 <sup>2</sup> Une décision prend la forme d'un arrêté lorsque la législation ou les circonstances le requièrent, notamment si elle est communiquée à des personnes externes à l'administration; le projet d'arrêté est en principe préparé par la Direction concernée et joint à la documentation fournie pour la séance.
 
-<sup>3</sup> Le chancelier ou la chancelière d'Etat est habilité-e à signer seul-e les arrêtés et autres décisions pris en séance (art. 20 al. 3 LOCEA). La signature du procès-verbal vaut signature de chaque arrêté et de chaque décision adoptée selon ledit procès-verbal.
+<sup>3</sup> Le chancelier ou la chancelière d'Etat certifie seul-e la conformité des arrêtés et autres décisions pris en séance (art. 20 al. 3 LOCEA).
 
 #### Art. 21
 
@@ -276,15 +282,15 @@ Arrête:
 
 <sup>4</sup> Le procès-verbal existe en deux versions: l'une avec les résultats des votes et l'autre sans cette mention.
 
-<sup>5</sup> Après son approbation par le Conseil d'Etat, le procès-verbal est signé par le chancelier ou la chancelière d'Etat.
+<sup>5</sup> Le procès-verbal est approuvé par le Conseil d'Etat en principe lors de la séance suivante.
 
 #### Art. 22
 
 **Procès-verbal (art. 41 LOCEA) – Diffusion**
 
-<sup>1</sup> L'exemplaire du procès-verbal avec les votes est mis en circulation au cours de la séance suivante et adopté à la fin de celle-là. Il est conservé uniquement à la Chancellerie d'Etat.
+<sup>1</sup> L'exemplaire du procès-verbal avec les votes est conservé uniquement à la Chancellerie d'Etat.
 
-<sup>2</sup> L'exemplaire sans les résultats des votes est envoyé par voie électronique à la personne désignée dans chaque Direction pour la distribution interne des extraits.
+<sup>2</sup> L'exemplaire sans les résultats des votes est transmis aux personnes désignées dans chaque Direction pour la distribution interne des extraits.
 
 <sup>3</sup> Dans l'application informatique, les extraits des procès-verbaux (sans mention des votes) sont liés aux affaires traitées. Les Directions peuvent y avoir accès en lecture une fois le procès-verbal terminé.
 
@@ -304,7 +310,7 @@ Arrête:
 
 **Communication des décisions**
 
-<sup>1</sup> Sauf décision contraire du Conseil d'Etat, la Chancellerie d'Etat pourvoit à l'expédition des décisions et de la correspondance du Conseil d'Etat et de sa présidence.
+<sup>1</sup> Sauf décision contraire du Conseil d'Etat, la Chancellerie d'Etat pourvoit à la communication des décisions et de la correspondance du Conseil d'Etat et de sa présidence.
 
 #### Art. 25
 
@@ -314,17 +320,11 @@ Arrête:
 
 <sup>2</sup> La communication de dossiers issus de décisions du Conseil d'Etat porte l'en-tête de ce dernier.
 
-<sup>3</sup> Le planning roulant des conférences de presse est validé tacitement chaque semaine par le Conseil. Les membres du Gouvernement complètent la liste qui figure dans la mappe de circulation.
+<sup>3</sup> …
 
 #### Art. 26
 
-**Information du public (art. 8s. LOCEA) – Ordonnances du Conseil d'Etat**
-
-<sup>1</sup> Si des considérants ne suffisent pas pour que des non-initiés comprennent les enjeux d'une ordonnance, la Direction établit un communiqué de presse.
-
-<sup>2</sup> Si le rapport explicatif fait office de communication aux médias, ce document est établi dans les deux langues, sous réserve des exceptions prévues à l'article 3 OInf.
-
-<sup>3</sup> A la demande de la Direction compétente, le rapport explicatif est publié sur le site Internet des publications officielles.
+**…**
 
 #### Art. 27
 
@@ -334,7 +334,7 @@ Arrête:
 
 <sup>2</sup> La Chancellerie d'Etat est responsable de la conservation et de l'archivage des ordres du jour, des procès-verbaux des séances et des arrêtés ainsi que de la correspondance de la présidence.
 
-<sup>3</sup> La conservation et l'archivage se font sous forme imprimée.
+<sup>3</sup> La conservation et l'archivage se font conformément à la législation sur l'archivage.
 
 #### Art. 28
 
@@ -352,6 +352,7 @@ Arrête:
 
 <sup>1</sup> L'ordre du jour comprend les chapitres suivants:
 
+- – Dossiers spéciaux
 - 1\. Agenda
 - 2\. Affaires du Grand Conseil
 - 3\. Affaires courantes
@@ -362,7 +363,13 @@ Arrête:
 - 5\. Affaires urgentes
 - 6\. Adoption du procès-verbal.
 
-<sup>2</sup> L'ordre du jour indique, sous la rubrique «SPÉCIAL», des événements particuliers qui sont prévus au cours ou à l'issue de la séance (p. ex. la présentation d'un objet, la réception d'un ambassadeur ou d'autres invités, des assermentations, etc.). Les événements figurant sous cette rubrique sont en général fixés à l'avance.
+<sup>2</sup> Le libellé des affaires inscrites à l'ordre du jour fait l'objet d'une directive interne de la Chancellerie d'Etat.
+
+#### Art. 29a
+
+**Chapitre «Dossiers spéciaux»**
+
+<sup>1</sup> Le chapitre «Dossiers spéciaux» contient les affaires qui, au regard de l'actualité cantonale, fédérale ou mondiale, revêtent un caractère particulièrement important, sensible et répétitif.
 
 #### Art. 30
 
@@ -406,9 +413,7 @@ Arrête:
 
 #### Art. 35
 
-**Chapitre «Autres affaires» – Libellé**
-
-<sup>1</sup> Le libellé des affaires inscrites dans le chapitre «Autres affaires» doit préciser si elles sont soumises au Conseil d'Etat pour décision, pour discussion ou pour prise de connaissance.
+**…**
 
 #### Art. 36
 
@@ -430,25 +435,31 @@ Arrête:
 
 <sup>1</sup> Les affaires soumises pour discussion doivent permettre au Conseil d'Etat de prendre position sur les suites à donner à un dossier et d'émettre des avis de principe sur les solutions à envisager. Elles font l'objet d'une note explicative, qui présente des variantes et/ou des questions et qui peut également comprendre la solution proposée par la Direction.
 
-<sup>2</sup> Lorsque la Direction entend faire participer un-e ou des spécialistes à la discussion, elle requiert préalablement l'autorisation du Conseil d'Etat.
+<sup>2</sup> Lorsque la Direction entend faire participer un ou une ou des spécialistes à la discussion, elle requiert préalablement l'autorisation du Conseil d'Etat.
 
 <sup>3</sup> Ce type d'affaires peut également être traité lors des séances spéciales.
 
 #### Art. 38
 
-**Chapitre «Autres affaires» – Affaires soumises pour prise de connaissance**
+**Chapitre «Autres affaires» – Affaires soumises pour information**
 
-<sup>1</sup> Les affaires soumises pour prise de connaissance portent sur des objets d'une certaine importance, qui méritent des explications. Elles sont en principe accompagnées d'une note explicative ou de documents.
+<sup>1</sup> Les affaires soumises pour information portent sur des objets d'une certaine importance, qui méritent des explications. Elles sont en principe accompagnées d'une note explicative ou de documents.
 
 #### Art. 39
 
 **Chapitre «Informations»**
 
-<sup>1</sup> Le chapitre «Informations» est réservé à l'échange d'informations. La discussion n'est ouverte que brièvement pour des questions de clarification.
+<sup>1</sup> Le chapitre «Informations» est réservé à l'échange d'informations. La discussion n'est ouverte que brièvement pour des questions de clarification. Les échanges d'information sur les relations extérieures, les informations des délégations, les informations diverses et la mappe font notamment l'objet de points à l'ordre du jour de ce chapitre.
 
-<sup>2</sup> Les affaires ne sont pas annoncées préalablement ou alors seulement en début de séance. Une documentation peut être remise en cours de séance.
+<sup>2</sup> En principe, le procès-verbal n'indique aucun détail au sujet des affaires qui y sont traitées.
 
-<sup>3</sup> En principe, le procès-verbal n'indique aucun détail au sujet des affaires qui y sont traitées.
+<sup>3</sup> Les échanges d'information sur les relations extérieures permettent de communiquer des informations concernant notamment les conférences intercantonales. Elles ne sont pas annoncées préalablement ou en début de séance uniquement et ne font en principe l'objet d'aucune documentation.
+
+<sup>4</sup> Les informations des délégations permettent de communiquer des renseignements sur les affaires en cours ou le contenu des séances des délégations du Conseil d'Etat. Elles ne sont pas annoncées préalablement ou en début de séance uniquement, et ne font en principe l'objet d'aucune documentation.
+
+<sup>5</sup> Les informations diverses servent à communiquer des informations de moindre importance, qui ne font en principe l'objet d'aucune documentation. Elles ne sont pas annoncées préalablement ou en début de séance uniquement.
+
+<sup>6</sup> La mappe est une compilation de documentations relatives à des informations générales ne méritant pas d'être inscrites comme affaires distinctes à l'ordre du jour. Il peut s'agir notamment de statistiques, de cartes de vœux, d'organisation des voitures d'Etat, de planning roulant des conférences de presse, des lettres de remerciement ou de copies de correspondances importantes ou politiquement sensibles adressées au Conseil d'Etat.
 
 #### Art. 40
 

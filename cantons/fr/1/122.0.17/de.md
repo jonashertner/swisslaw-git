@@ -4,13 +4,13 @@ number: "122.0.17"
 title: Verordnung über die Staatsratssitzungen
 short: SRSVV
 language: de
-version: 2022-02-01
-valid_until: 2023-04-30
-version_adopted: 2022-01-31
+version: 2023-05-01
+valid_until: 2024-03-31
+version_adopted: 2023-04-04
 adopted: 2014-04-08
 in_force: 2014-04-08
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.17"
-pdf: "https://bdlf.fr.ch/api/de/versions/7119/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7756/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Staatsratssitzungen – V
 
 (SRSVV)
 
-vom 08.04.2014 (Fassung in Kraft getreten am 01.02.2022)
+vom 08.04.2014 (Fassung in Kraft getreten am 01.05.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -57,17 +57,23 @@ beschliesst:
 
 <sup>3</sup> Der Sitzungskalender wird vom Staatsrat verabschiedet und von der Staatskanzlei aktualisiert.
 
-<sup>4</sup> Der Staatsrat tritt ausserdem zu einer ausserordentlichen Sitzung zusammen, wenn ein Mitglied dies verlangt. Das Verfahren bei besonderen Lagen (Art. 24 SVOG) bleibt ebenfalls vorbehalten.
+<sup>4</sup> Der Staatsrat tritt ausserdem zu einer ausserordentlichen Sitzung zusammen, wenn ein Mitglied dies verlangt. Das Verfahren bei besonderen Lagen (Art. 34 SVOG) bleibt ebenfalls vorbehalten.
 
 #### Art. 2
 
 **Ordentliche Sitzungen**
 
-<sup>1</sup> Die ordentlichen Sitzungen finden in der Staatskanzlei von 8 bis 12 Uhr und von 13.30 bis 15 Uhr statt. Grundsätzlich nehmen die Mitglieder des Staatsrats ein gemeinsames Mittagessen auf ihre eigenen Kosten ein.
+<sup>1</sup> Ordentliche Sitzungen finden im Prinzip von 8.00 bis 12.00 Uhr und von 13.30 bis 15.00 Uhr statt. Allerdings:
 
-<sup>2</sup> Bei Bedarf kann die Präsidentin oder der Präsident die Sitzung um eine halbe oder eine ganze Stunde vorverlegen.
+- a) Die Präsidentin oder der Präsident kann den Beginn der Sitzung bei Bedarf um eine halbe oder eine ganze Stunde vorverlegen.
+- b) Die Staatsratsmitglieder planen keine anderen Termine oder Sitzungen vor 16 Uhr ein, damit eventuelle Zeitüberschreitungen in der Sitzung aufgefangen werden können.
 
-<sup>3</sup> Die Staatsratsmitglieder planen keine anderen Termine oder Sitzungen vor 16 Uhr ein, damit eventuelle Zeitüberschreitungen in der Sitzung aufgefangen werden können.
+<sup>2</sup> Die Sitzungen finden grundsätzlich als Präsenzsitzungen in der Staatskanzlei statt, und die Staatsratsmitglieder nehmen in der Regel das Mittagessen auf eigene Kosten gemeinsam ein; folgende Bestimmungen bleiben vorbehalten:
+
+- a) Die Sitzungen können ausnahmsweise auch auswärts stattfinden, grundsätzlich ohne Externe.
+- b) Wenn nötig, können die Sitzungen per Videokonferenz oder in Ausnahmefällen auch gemischt stattfinden.
+
+<sup>3</sup> Während dieser Sitzungen können Präsentationen stattfinden. Sie müssen in Zusammenarbeit mit der Staatskanzlei geplant werden und bedürfen der vorherigen Zustimmung des Staatsrats. Die ordentlichen Geschäfte haben jedoch Vorrang.
 
 #### Art. 3
 
@@ -77,7 +83,7 @@ beschliesst:
 
 <sup>2</sup> Nachdem ein Geschäft in einer Reservesitzung vorgestellt wurde, wird es von der betreffenden Direktion erneut für eine ordentliche Sitzung eingeschrieben, in der darüber diskutiert und beschlossen wird.
 
-<sup>3</sup> Der Staatsrat kann die Reservesitzungen ebenfalls für Nachträge oder Verhandlungen zu Geschäften nutzen, die ihm zur Diskussion unterbreitet wurden (Art. 37).
+<sup>3</sup> …
 
 <sup>4</sup> Die Direktionen schlagen die Geschäfte, die sie in den Reservesitzungen behandeln möchten, in den ordentlichen Sitzungen vor.
 
@@ -85,13 +91,13 @@ beschliesst:
 
 **Sitzungen für die Staatsfinanzen**
 
-<sup>1</sup> Die Sitzungen für die Staatsfinanzen finden in der Regel in den Räumen der Finanzdirektion statt; dabei sind der Staatsschatzverwalter oder die Staatsschatzverwalterin und weitere Personen aus der Finanzverwaltung und/oder dem Amt für Personal und Organisation anwesend.
+<sup>1</sup> Bei den Sitzungen für die Staatsfinanzen sind die Staatsschatzverwalterin oder der Staatsschatzverwalter und bei Bedarf andere Personen aus der Finanzverwaltung und/oder dem Amt für Personal und Organisation anwesend.
 
 #### Art. 5
 
 **Klausurtage**
 
-<sup>1</sup> Der Staatsrat reserviert mindestens zwei Sitzungstage für spezielle Themen (die sog. «journées au blanc» und «journées au vert»). Die Traktanden für diese Sitzungstage werden in den ordentlichen Sitzungen verabschiedet.
+<sup>1</sup> Der Staatsrat reserviert mindestens drei Sitzungstage für spezielle Themen (Winter-, Sommer- und Herbstklausurtagungen). Die Traktanden für diese Sitzungstage werden in den ordentlichen Sitzungen verabschiedet.
 
 <sup>2</sup> Diese Sitzungstage können mit einem unterhaltenden Teil verbunden werden.
 
@@ -103,11 +109,13 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Der Staatsrat bestimmt die Präsidentin oder den Präsidenten und die Mitglieder der Delegation.
+<sup>1</sup> Der Staatsrat bestimmt die Präsidentin oder den Präsidenten und die Mitglieder der Delegationen, die ständig oder vorübergehend beauftragt werden, Angelegenheiten von besonderer Wichtigkeit zu prüfen und zu verfolgen und ihm Vorschläge zu unterbreiten. Ihnen gehören höchstens drei seiner Mitglieder an.
 
 <sup>2</sup> Die Delegationen informieren den Staatsrat entweder durch die Abgabe von Protokollen oder durch mündliche oder schriftliche Auskünfte während der Sitzungen regelmässig über den Stand ihrer Arbeiten.
 
-<sup>3</sup> Das Sekretariat wird von der Direktion der Delegationspräsidentin oder des Delegationspräsidenten geführt.
+<sup>3</sup> Das Sekretariat wird von der Direktion der Delegationspräsidentin oder des Delegationspräsidenten geführt. Es sorgt für die kontinuierliche Information der übrigen Mitglieder des Staatsrats.
+
+<sup>4</sup> Es wird ein Protokoll über die vereinbarten Standpunkte geführt, gegebenenfalls mit einer kurzen Begründung.
 
 #### Art. 7
 
@@ -176,7 +184,7 @@ beschliesst:
 
 <sup>1</sup> Ein Geschäft, das in der Sitzung behandelt werden soll, muss bis spätestens 11 Uhr am Donnerstag vor der Sitzung angemeldet werden; bis zu diesem Zeitpunkt muss auch die dazugehörige Dokumentation abgegeben werden.
 
-<sup>2</sup> Am selben Tag um spätestens 15 Uhr stehen die Traktandenliste und die Dokumente in der elektronischen Anwendung zur Verfügung. Abgesehen von umfangreichen Dokumenten, die als Ausdruck zur Verfügung gestellt werden, müssen die Dokumente bei Bedarf in den Direktionen selbst ausgedruckt werden.
+<sup>2</sup> Grundsätzlich stehen am selben Tag um spätestens 15 Uhr die Traktandenliste und alle Dokumente in der elektronischen Anwendung zur Verfügung.
 
 <sup>3</sup> Wenn die Sitzung am Montag stattfindet, werden die Fristen um einen Tag vorverlegt.
 
@@ -188,11 +196,11 @@ beschliesst:
 
 <sup>1</sup> Die Entwürfe von Antworten auf Vernehmlassungen des Bundes werden dem Staatsrat grundsätzlich 14 Tage vor dem Schluss der Vernehmlassung unterbreitet; begründete Ausnahmen bleiben vorbehalten. Den Entwürfen liegen die Unterlagen bei, die vom Organ, das für die Vernehmlassung zuständig ist, geliefert werden, oder es wird der Link zur Internet-Adresse angegeben, unter der diese Unterlagen abgerufen werden können.
 
-<sup>2</sup> Unterlagen zur Behandlung einer Beschwerde und weitere Unterlagen, die nicht digitalisiert werden können oder sollen, können ausserhalb der Sitzung des Staatsrats in Umlauf gegeben werden. Die Staatsweibel geben die Unterlagen in Umlauf und kontrollieren sie.
+<sup>2</sup> …
 
-<sup>3</sup> Unterlagen zu vertraulichen Angelegenheiten können in der Sitzung verteilt oder in Umlauf gegeben werden.
+<sup>3</sup> Dokumente, die sich auf vertrauliche oder geheime Angelegenheiten beziehen, sind auf gesicherte Weise zugänglich.
 
-<sup>4</sup> Die Vorstellung von Gegenständen aus den Kapiteln «Agenda» (Art. 30 f.) und «Informationen» (Art. 39) und der Umlauf der Mappe (Art. 17) bleiben vorbehalten.
+<sup>4</sup> Die Vorstellung von Gegenständen aus den Kapiteln «Agenda» (Art. 30 f.) und «Informationen» (Art. 39) bleibt vorbehalten.
 
 #### Art. 15
 
@@ -206,7 +214,7 @@ beschliesst:
 
 **Dringende Geschäfte**
 
-<sup>1</sup> Die Direktionen können bis Montag um 11 Uhr (oder, wenn die Sitzung am Montag stattfindet, bis Freitag um 11 Uhr) ihre dringenden Geschäfte ankündigen; sie müssen die dazugehörige Dokumentation beilegen und die Dringlichkeit schriftlich begründen.
+<sup>1</sup> Die Direktionen können bis Montag um 11 Uhr (oder, wenn die Sitzung am Montag stattfindet, bis Freitag um 11 Uhr) ihre dringenden Geschäfte ankündigen; sie müssen die dazugehörige Dokumentation beilegen und die Dringlichkeit begründen.
 
 <sup>2</sup> Gleichentags spätestens um 13 Uhr stehen die Unterlagen und die vollständige Traktandenliste im System zur elektronischen Geschäftsverwaltung der Sitzungen zur Verfügung.
 
@@ -214,11 +222,7 @@ beschliesst:
 
 #### Art. 17
 
-**Umlaufmappe**
-
-<sup>1</sup> Während der Sitzungen wird eine Mappe mit allgemeinen Informationen in Umlauf gegeben, die nicht als Geschäfte in die Traktandenliste aufgenommen werden müssen. Das können Dankesbriefe, Kopien von wichtigen oder politisch heiklen Schreiben an den Staatsrat sein usw.
-
-<sup>2</sup> Jedes Mitglied des Staatsrats kann die Umlaufmappe verwenden, um Unterlagen bei seinen Kollegen herumgehen zu lassen. Fotokopien von Unterlagen, die in Umlauf gegeben wurden, können ebenfalls verlangt werden.
+**…**
 
 ## 3 Ablauf der Sitzungen (Art. 15–17, 22, 25 ff., 29, 32 und 35 ff. SVOG)
 
@@ -230,11 +234,11 @@ beschliesst:
 
 <sup>2</sup> Wenn mehrere Mitglieder das Wort verlangen, wird es in der protokollarischen Reihenfolge erteilt; das Präsidium gibt seine Meinung grundsätzlich am Schluss bekannt.
 
-<sup>3</sup> Die Ratsmitglieder ergreifen das Wort, wenn es ihnen vom Präsidium gegeben wird. Sie reden von ihrem Platz aus, bleiben sitzen und richten sich grundsätzlich an das Kollegium.
+<sup>3</sup> Die Staatsratsmitglieder ergreifen das Wort, wenn es ihnen vom Präsidium gegeben wird. Sie reden von ihrem Platz aus, bleiben sitzen und richten sich grundsätzlich an das Kollegium.
 
-<sup>4</sup> Wenn sie sich an ein anderes Ratsmitglied richten oder dieses zitieren, verwenden sie die 3. Person und den Titel: «Herr Präsident» oder «Frau Präsidentin», «Herr Direktor für ...» oder «Frau Direktorin für ...». Vornamen und Namen werden nicht genannt.
+<sup>4</sup> Wenn sie sich an ein anderes Staatsratsmitglied richten oder dieses zitieren, verwenden sie die 3. Person und den Titel: «Frau Präsidentin» oder «Herr Präsident», «Frau Direktorin für ...» oder «Herr Direktor für ...». Vornamen und Namen werden nicht genannt.
 
-<sup>5</sup> Die Ratsmitglieder verfolgen die Diskussion aufmerksam; Diskussionen zu zweit gehören nicht ins Kollegium, und die Kommunikation nach aussen, namentlich über E-Mail und SMS, wird auf das absolut Nötigste beschränkt.
+<sup>5</sup> Die Staatsratsmitglieder verfolgen die Diskussion aufmerksam; Diskussionen zu zweit gehören nicht ins Kollegium, und die Kommunikation nach aussen, namentlich über E-Mail und SMS, wird auf das absolut Notwendige beschränkt.
 
 #### Art. 19
 
@@ -244,13 +248,15 @@ beschliesst:
 
 <sup>2</sup> Führt die Diskussion zu keinem Konsens, so kann der Entscheid zur Vervollständigung der Unterlagen vertagt oder mit Abstimmung gefällt werden.
 
-<sup>3</sup> Es wird mit Handaufheben abgestimmt (Art. 37 Abs. 2 SVOG). Jedes Ratsmitglied muss abstimmen, ausser wenn es in den Ausstand tritt; Stimmenthaltung ist nicht gestattet (Art. 37 Abs. 3 SVOG).
+<sup>3</sup> Es wird mit Handaufheben abgestimmt (Art. 37 Abs. 2 SVOG). Jedes Staatsratsmitglied muss abstimmen, ausser wenn es in den Ausstand tritt; Stimmenthaltung ist nicht gestattet (Art. 37 Abs. 3 SVOG).
 
 <sup>4</sup> Bei der Abstimmung sind keine Personen von aussen anwesend.
 
-<sup>5</sup> Bei Abstimmungen über Ernennung oder Anstellung von Personen kann ein Ratsmitglied eine geheime Abstimmung verlangen (Art. 38 Bst. a SVOG).
+<sup>4a</sup> Die Fälle von Ausstand werden gemäss Artikel 15 SVOG geregelt.
 
-<sup>6</sup> Bei Stimmengleichheit hat das Präsidium den Stichentscheid (Art. 37 Abs. 4 SVOG). Bei Stimmengleichheit im Fall einer Ernennung oder Anstellung hat die Vorsteherin oder der Vorsteher der federführenden Direktion den Stichentscheid; ist keine Direktion federführend, so entscheidet das Los (Art. 38 Bst. b SVOG).
+<sup>5</sup> Bei Abstimmungen über Ernennung oder Anstellung von Personen kann ein Staatsratsmitglied eine geheime Abstimmung verlangen (Art. 38 Abs. 1 Bst. a SVOG).
+
+<sup>6</sup> Bei Stimmengleichheit hat das Präsidium den Stichentscheid (Art. 37 Abs. 4 SVOG). Bei Stimmengleichheit im Fall einer Ernennung oder Anstellung hat die Vorsteherin oder der Vorsteher der federführenden Direktion den Stichentscheid; ist keine Direktion federführend, so entscheidet das Los (Art. 38 Abs. 1 Bst. b SVOG).
 
 <sup>7</sup> Das genaue Abstimmungsergebnis wird geheim gehalten.
 
@@ -262,7 +268,7 @@ beschliesst:
 
 <sup>2</sup> Ein Entscheid hat die Form eines Beschlusses, wenn es aufgrund der Gesetzgebung oder der Umstände nötig ist, namentlich wenn er Personen ausserhalb der Verwaltung mitgeteilt wird; der Beschlussentwurf wird grundsätzlich von der federführenden Direktion vorbereitet und der Dokumentation für die Sitzung beigelegt.
 
-<sup>3</sup> Die Staatskanzlerin oder der Staatskanzler ist ermächtigt, die Beschlüsse und weitere Entscheide, die in der Sitzung getroffen wurden, allein zu unterzeichnen (Art. 20 Abs. 3 SVOG). Die Unterzeichnung des Protokolls gilt als Unterzeichnung aller Beschlüsse und Entscheide, die gemäss diesem Protokoll verabschiedet wurden.
+<sup>3</sup> Die Staatskanzlerin oder der Staatskanzler allein beglaubigt die Beschlüsse und weitere Entscheide, die in der Sitzung getroffen wurden (Art. 20 Abs. 3 SVOG).
 
 #### Art. 21
 
@@ -276,15 +282,15 @@ beschliesst:
 
 <sup>4</sup> Es gibt zwei Versionen des Protokolls: eine mit den Abstimmungsergebnissen und eine ohne.
 
-<sup>5</sup> Nach der Genehmigung durch den Staatsrat wird das Protokoll von der Staatskanzlerin oder vom Staatskanzler unterzeichnet.
+<sup>5</sup> Das Protokoll wird vom Staatsrat in der Regel in der folgenden Sitzung genehmigt.
 
 #### Art. 22
 
 **Protokoll (Art. 41 SVOG) – Verbreitung**
 
-<sup>1</sup> Das Exemplar des Protokolls mit den Abstimmungen wird an der kommenden Sitzung herumgegeben und am Ende dieser Sitzung gutgeheissen. Es wird nur in der Staatskanzlei aufbewahrt.
+<sup>1</sup> Das Exemplar des Protokolls mit den Abstimmungen wird nur bei der Staatskanzlei aufbewahrt.
 
-<sup>2</sup> Das Exemplar ohne Abstimmungsergebnisse wird auf elektronischem Weg an die bezeichnete Person in jeder Direktion geschickt, damit diese Auszüge intern verbreiten kann.
+<sup>2</sup> Das Exemplar ohne Abstimmungsergebnisse wird an die Personen weitergeleitet, die in jeder Direktion für die interne Verteilung der Auszüge bezeichnet werden.
 
 <sup>3</sup> In der Informatikanwendung werden die Protokollauszüge (ohne Erwähnung der Abstimmungen) in den behandelten Geschäften gespeichert. Die Direktionen können darauf zugreifen, sobald das Protokoll fertiggestellt ist.
 
@@ -304,7 +310,7 @@ beschliesst:
 
 **Mitteilung der Entscheide**
 
-<sup>1</sup> Ohne anderslautenden Entscheid des Staatsrats sorgt die Staatskanzlei für die Ausfertigung der Entscheide und die Korrespondenz des Staatsrats und des Präsidiums.
+<sup>1</sup> Ohne anderslautenden Entscheid des Staatsrats sorgt die Staatskanzlei für die Mitteilung der Entscheide und die Korrespondenz des Staatsrats und des Präsidiums.
 
 #### Art. 25
 
@@ -314,17 +320,11 @@ beschliesst:
 
 <sup>2</sup> Die Bekanntgabe von Dossiers aus den Geschäften des Staatsrats trägt dessen Briefkopf.
 
-<sup>3</sup> Die rollende Planung der Medienkonferenzen wird jede Woche stillschweigend vom Rat genehmigt. Die Mitglieder der Regierung vervollständigen die Liste, die in der Umlaufmappe liegt.
+<sup>3</sup> …
 
 #### Art. 26
 
-**Information der Öffentlichkeit (Art. 8 f. SVOG) – Verordnungen des Staatsrats**
-
-<sup>1</sup> Wenn Erwägungen nicht genügen, damit Nichteingeweihte die Tragweite einer Verordnung verstehen, erstellt die Direktion eine Medienmitteilung.
-
-<sup>2</sup> Wenn der erläuternde Bericht als Kommunikation an die Medien dient, wird dieses Dokument in beiden Sprachen verfasst; Ausnahmen nach Artikel 3 InfoV bleiben vorbehalten.
-
-<sup>3</sup> Auf Verlangen der zuständigen Direktion wird der erläuternde Bericht auf der Website der amtlichen Veröffentlichungen aufgeschaltet.
+**…**
 
 #### Art. 27
 
@@ -334,7 +334,7 @@ beschliesst:
 
 <sup>2</sup> Die Staatskanzlei ist für die Aufbewahrung und Archivierung der Traktandenlisten, der Protokolle der Sitzungen und der Beschlüsse sowie der Korrespondenz des Präsidiums verantwortlich.
 
-<sup>3</sup> Alle Dokumente werden in gedruckter Form aufbewahrt und archiviert.
+<sup>3</sup> Die Aufbewahrung und Archivierung erfolgt gemäss der Gesetzgebung über die Archivierung.
 
 #### Art. 28
 
@@ -352,6 +352,7 @@ beschliesst:
 
 <sup>1</sup> Die Traktandenliste enthält folgende Kapitel:
 
+- – Spezielle Dossiers
 - 1\. Agenda
 - 2\. Geschäfte des Grossen Rates
 - 3\. Laufende Geschäfte
@@ -362,7 +363,13 @@ beschliesst:
 - 5\. Dringende Geschäfte
 - 6\. Genehmigung des Protokolls.
 
-<sup>2</sup> In der Traktandenliste werden unter der Rubrik «SPÉCIAL» besondere Ereignisse angegeben, die während oder nach der Sitzung geplant sind (zum Beispiel Vorstellung eines Gegenstands, Empfang eines Botschafters, Vereidigungen usw.). Die Ereignisse unter dieser Rubrik werden im Allgemeinen zum Voraus festgelegt.
+<sup>2</sup> Der Wortlaut der Geschäfte auf der Traktandenliste wird in einer internen Richtlinie der Staatskanzlei geregelt.
+
+#### Art. 29a
+
+**Kapitel «Spezielle Dossiers»**
+
+<sup>1</sup> Das Kapitel «Spezielle Dossiers» enthält Geschäfte, die angesichts des aktuellen Geschehens im Kanton, in der Schweiz oder auf der Welt von besonders wichtiger, sensibler und wiederkehrender Natur sind.
 
 #### Art. 30
 
@@ -406,9 +413,7 @@ beschliesst:
 
 #### Art. 35
 
-**Kapitel «Weitere Geschäfte» – Wortlaut**
-
-<sup>1</sup> Der Wortlaut der Geschäfte, die im Kapitel «Weitere Geschäfte» eingetragen werden, muss darauf hinweisen, ob sie dem Staatsrat zum Entscheid, zur Diskussion oder zur Kenntnisnahme unterbreitet werden.
+**…**
 
 #### Art. 36
 
@@ -430,25 +435,31 @@ beschliesst:
 
 <sup>1</sup> Die Geschäfte, die zur Diskussion unterbreitet werden, müssen es dem Staatsrat ermöglichen, sich dazu zu äussern, wie ein Dossier weiterzubearbeiten ist und welche Lösungen in Frage kommen. Dazu gibt es eine erläuternde Notiz, in der Varianten und Fragen vorgestellt werden und die auch die von der Direktion vorgeschlagene Lösung beinhalten kann.
 
-<sup>2</sup> Will die Direktion eine Spezialistin oder einen Spezialisten zur Diskussion beiziehen, so holt sie vorher die Ermächtigung des Staatsrats ein.
+<sup>2</sup> Will die Direktion Spezialistinnen oder Spezialisten zur Diskussion beiziehen, so holt sie vorher die Ermächtigung des Staatsrats ein.
 
 <sup>3</sup> Diese Art Geschäfte kann auch an Sondersitzungen behandelt werden.
 
 #### Art. 38
 
-**Kapitel «Weitere Geschäfte» – Geschäfte, die zur Kenntnisnahme unterbreitet werden**
+**Kapitel «Weitere Geschäfte» – Geschäfte, die zur Information unterbreitet werden**
 
-<sup>1</sup> Geschäfte, die zur Kenntnisnahme unterbreitet werden, beinhalten Gegenstände von gewisser Bedeutung, die Erläuterungen verdienen. Zu ihnen gibt es grundsätzlich eine erläuternde Notiz oder Unterlagen.
+<sup>1</sup> Geschäfte, die zur Information unterbreitet werden, beinhalten Gegenstände von gewisser Bedeutung, die Erläuterungen verdienen. Zu ihnen gibt es grundsätzlich eine erläuternde Notiz oder Unterlagen.
 
 #### Art. 39
 
 **Kapitel «Informationen»**
 
-<sup>1</sup> Das Kapitel «Informationen» ist dem Austausch von Informationen vorbehalten. Die Diskussion wird nur kurz für Fragen zur Klärung eröffnet.
+<sup>1</sup> Das Kapitel «Informationen» ist dem Austausch von Informationen vorbehalten. Die Diskussion wird nur kurz für Fragen zur Klärung eröffnet. Der Informationsaustausch über Aussenbeziehungen, Informationen der Delegationen, verschiedene Informationen und die Mappe gehören zu den Punkten auf der Traktandenliste zu diesem Kapitel.
 
-<sup>2</sup> Die Geschäfte werden nicht im Voraus angekündigt und wenn, dann erst zu Beginn der Sitzung. Im Verlauf der Sitzung kann eine Dokumentation abgegeben werden.
+<sup>2</sup> Grundsätzlich wird im Protokoll keine Einzelheit zu den Geschäften, die unter diesem Kapitel behandelt werden, angegeben.
 
-<sup>3</sup> Grundsätzlich wird im Protokoll keine Einzelheit zu den Geschäften, die unter diesem Kapitel behandelt werden, angegeben.
+<sup>3</sup> Beim Informationsaustausch zu den Aussenbeziehungen werden namentlich Informationen zu interkantonalen Konferenzen weitergegeben. Sie werden nicht vorab oder nur zum Sitzungsbeginn angekündigt und bilden in der Regel nicht Gegenstand einer Dokumentation.
+
+<sup>4</sup> Die Informationen der Delegationen ermöglichen es, Auskünfte über die laufenden Geschäfte oder den Inhalt der Sitzungen der Staatsratsdelegationen zu erteilen. Sie werden nicht vorab oder nur zu Beginn der Sitzung angekündigt und sind in der Regel nicht Gegenstand einer Dokumentation.
+
+<sup>5</sup> Die diversen Informationen dienen zur Mitteilung von Informationen von geringerer Bedeutung, die in der Regel nicht Gegenstand einer Dokumentation sind. Sie werden nicht vorab oder nur zum Sitzungsbeginn angekündigt.
+
+<sup>6</sup> Die Mappe ist eine Zusammenstellung von Dokumentationen zu allgemeinen Informationen, die es nicht wert sind, als eigene Geschäfte auf die Traktandenliste gesetzt zu werden. Dazu können namentlich Statistiken, Glückwunschkarten, die Organisation von Staatswagen, die rollende Planung der Medienkonferenzen, Dankesschreiben oder Kopien von wichtigen oder politisch sensiblen Schreiben an den Staatsrat gehören.
 
 #### Art. 40
 
