@@ -4,21 +4,22 @@ number: "850.4"
 title: Jugendgesetz
 short: JG
 language: de
-version: 2014-10-01
-corrected: 2017-10-11
-version_adopted: 2014-06-13
+version: 2023-05-01
+valid_until: 2025-09-30
+version_adopted: 2022-12-15
 adopted: 2000-05-11
 in_force: 2001-06-01
 url: "https://lex.vs.ch/app/de/texts_of_law/850.4"
-pdf: "https://lex.vs.ch/api/de/versions/155/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3217/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Jugendgesetz
 
-vom 11. Mai 2000
+(JG)
+
+vom 11.05.2000 (Stand 01.05.2023)
 
 Der Grosse Rat des Kantons Wallis,
 
@@ -40,7 +41,7 @@ auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Kapitel: Allgemeines
+## 1 Allgemeines
 
 #### Art. 1
 
@@ -66,25 +67,20 @@ verordnet:
 
 **Ziele**
 
-Dieses Gesetz bezweckt:
+<sup>1</sup> Dieses Gesetz bezweckt:
 
 - a) die Förderung von Rahmenbedingungen, die zu einer harmonischen Entwicklung der Kinder und der jungen Menschen beitragen;
-
 - b) die Unterstützung der für die Jugend vorteilhaften und/oder der von ihr erarbeiteten Projekte;
-
 - c) die Unterstützung verschiedener Jugendorganisationen und solcher, die sich um die Jugend kümmern, insbesondere der sozio-kulturellen Vereine und Sportvereine und der Elternvereinigungen;
-
 - d) die Prävention von Situationen und Risikofaktoren, welche Kinder und junge Menschen gefährden sowie die Unterstützung von gesundheitsförderndem Verhalten;
-
 - e) den Schutz gefährdeter Kinder inner- und ausserhalb der Familie;
-
 - f) das Angebot von spezialisierten Leistungen insbesondere für Kinder, Eltern und Lehrpersonen.
 
 #### Art. 4
 
 **Gleichstellung von Mann und Frau**
 
-Jede im vorliegenden Gesetz benutzte Bezeichnung einer Person, eines Status, einer Funktion oder eines Berufes wird für Frau und Mann im gleichen Sinne verwendet.
+<sup>1</sup> Jede im vorliegenden Gesetz benutzte Bezeichnung einer Person, eines Status, einer Funktion oder eines Berufes wird für Frau und Mann im gleichen Sinne verwendet.
 
 #### Art. 5
 
@@ -94,26 +90,24 @@ Jede im vorliegenden Gesetz benutzte Bezeichnung einer Person, eines Status, ein
 
 <sup>2</sup> Er kann mittels Verordnung die verschiedenen in den Aufgabenbereich des öffentlichen Dienstes fallenden Aufgaben einer zuständigen Dienststelle oder anderen öffentlichen oder privaten Organisationen übertragen.
 
-<sup>3</sup> Das gemäss Verordnung als zuständig bezeichnete Departement (nachfolgend Departement) übt alle Aufgaben aus, die aufgrund dieses Gesetzes nicht ausdrücklich einer anderen Behörde übertragen wurden.
+<sup>3</sup> Das gemäss Verordnung als zuständig bezeichnete Departement (nachfolgend: Departement) übt alle Aufgaben aus, die aufgrund dieses Gesetzes nicht ausdrücklich einer anderen Behörde übertragen wurden.
 
-### 2. Kapitel: Förderung
+## 2 Förderung
 
 #### Art. 6
 
 **Aufgaben des Staatsrates**
 
-Der Staatsrat trifft in Zusammenarbeit mit den anderen öffentlichen Körperschaften und privaten Organisationen die notwendigen Massnahmen für eine Jugendpolitik, die den Bedürfnissen der Jugend Rechnung trägt.
+<sup>1</sup> Der Staatsrat trifft in Zusammenarbeit mit den anderen öffentlichen Körperschaften und privaten Organisationen die notwendigen Massnahmen für eine Jugendpolitik, die den Bedürfnissen der Jugend Rechnung trägt.
 
 #### Art. 7
 
 **Jugendförderung**
 
-Jugendförderung bedeutet:
+<sup>1</sup> Jugendförderung bedeutet:
 
 - a) die Bezeichnung der Bedürfnisse der Jugend, die Bestimmung von konkreten Zielen und das Bereitstellen von geeigneten Mitteln zur Förderung der Jugendpolitik;
-
 - b) das Unterstützen von ausserschulischen Aktivitäten unter Förderung der Verantwortung, der Sozialisierung, der Autonomie und des Wohlbefindens;
-
 - c) die Förderung des Dialogs zwischen der Jugend und den öffentlichen Gemeinschaften.
 
 #### Art. 8
@@ -122,7 +116,7 @@ Jugendförderung bedeutet:
 
 <sup>1</sup> Es wird eine Jugendkommission eingesetzt.
 
-<sup>2</sup> Sie bezweckt, der Jugend die Möglichkeit zu bieten, ihre Bestrebungen und Anliegen darzulegen, Vorschläge zu unterbreiten und / oder sich an gewissen Projekten zu beteiligen.
+<sup>2</sup> Sie bezweckt, der Jugend die Möglichkeit zu bieten, ihre Bestrebungen und Anliegen darzulegen, Vorschläge zu unterbreiten und/oder sich an gewissen Projekten zu beteiligen.
 
 <sup>3</sup> Sie setzt sich aus mindestens sieben Mitgliedern zusammen, die in diesen Aufgabenbereichen tätig sind und vom Staatsrat für eine Dauer von zwei Jahren gewählt werden. Sie sind wiederwählbar.
 
@@ -130,41 +124,53 @@ Jugendförderung bedeutet:
 
 #### Art. 9
 
-<sup>5</sup> Kantonales Jugendobservatorium
+**Kantonales Jugendobservatorium**
 
 <sup>1</sup> Es wird ein kantonales Jugendobservatorium eingerichtet.
 
 <sup>2</sup> Das kantonale Jugendobservatorium nimmt folgende Aufgaben wahr:
 
 - a) es nimmt insbesondere durch die Jugendkommission Kenntnis von den Bestrebungen, den Anliegen und den Bedürfnissen der jungen Menschen in unserem Kanton;
-
 - b) es erstellt eine Übersicht über die Lebensbedingungen der Jugendlichen im Wallis;
-
 - c) es ermöglicht die Verbesserung der transversalen Zusammenarbeit auf dem Gebiet der Jugendpolitik und fördert die Vernetzung der Fachleute;
-
 - d) es verstärkt die Kompetenzen der lokalen Akteure;
-
 - e) es prüft die allgemeinen Fragen um die Unterstützung von Kindern; es stellt die Verbindung zwischen den öffentlichen Diensten und den privaten oder halbprivaten Einrichtungen, die in diesem Aufgabenbereich tätig sind, sicher;
-
 - f) es ermöglicht die Ausarbeitung von Empfehlungen zuhanden des Departementsvorstehers und des Staatsrates;
-
 - g) es schlägt Forschungsprojekte zuhanden der betroffenen Dienste vor;
-
 - h) es bestimmt Themen für kantonale Präventionskampagnen;
-
 - i) es erprobt innovative Vorhaben im Zusammenhang mit Jugendfragen auf kantonaler und kommunaler Ebene.
 
 <sup>3</sup> Das kantonale Jugendobservatorium setzt sich aus allen bedeutenden Akteuren im Jugendbereich sowie aus Vertretern der Jugendkommission und Jugendlichen zusammen.
 
 <sup>4</sup> Der Staatsrat legt auf dem Reglementsweg die Zusammensetzung, die Befugnisse und die Tätigkeit des kantonalen Jugendobservatoriums fest.
 
-### 3. Kapitel: Unterstützung
+<sup>5</sup> …
+
+#### Art. 9a
+
+**Jugendparlament**
+
+<sup>1</sup> Es wird ein Jugendparlament (nachfolgend: das Parlament) eingerichtet.
+
+<sup>2</sup> Das Parlament ist verwaltungstechnisch dem Departement zugeordnet, das ihm die für seine Arbeit erforderlichen Mittel zur Verfügung stellt.
+
+<sup>3</sup> Das Ziel des Parlaments ist es, die Jugend gegenüber den politischen und administrativen Behörden zu vertreten und diese für die Belange der Kinder und Jugendlichen zu sensibilisieren.
+
+<sup>4</sup> Das Parlament tauscht sich durch seine Vertreter über die Anliegen der Kinder und Jugendlichen mit der Jugendkommission, dem kantonalen Jugendobservatorium und dem Grossen Rat aus.
+
+<sup>5</sup> Das Parlament setzt sich aus jungen Mitgliedern zusammen, welche die verschiedenen Berufs-, Studierenden- und Schulkreise, die verschiedenen Regionen des Kantons und die beiden Sprachgemeinschaften repräsentieren.
+
+<sup>6</sup> Das Parlament ist parteipolitisch unabhängig.
+
+<sup>7</sup> Der Staatsrat legt auf dem Reglementsweg die Zusammensetzung, die Befugnisse und die Funktionsweise dieses Parlaments fest.
+
+## 3 Unterstützung
 
 #### Art. 10
 
 **Aufgaben des Departements**
 
-Das Departement trifft die erforderlichen Massnahmen, um die Koordination der Tätigkeiten der verschiedenen Jugendorganisationen oder Organisationen, die sich um die Jugend kümmern, zu fördern und zu unterstützen. Zu diesem Zweck verfügt es über einen entsprechenden Budgetbetrag.
+<sup>1</sup> Das Departement trifft die erforderlichen Massnahmen, um die Koordination der Tätigkeiten der verschiedenen Jugendorganisationen oder Organisationen, die sich um die Jugend kümmern, zu fördern und zu unterstützen. Zu diesem Zweck verfügt es über einen entsprechenden Budgetbetrag.
 
 #### Art. 11
 
@@ -173,9 +179,7 @@ Das Departement trifft die erforderlichen Massnahmen, um die Koordination der T�
 <sup>1</sup> Unter Unterstützung von Organisationen versteht man:
 
 - a) die Förderung der Tätigkeit der verschiedenen Jugendorganisationen, sowie derjenigen Organisationen, die sich um die Jugend kümmern;
-
 - b) die Förderung der Koordination der verschiedenen Organisationen;
-
 - c) eine Unterstützung, insbesondere finanzieller Art, bei gewissen Projekten.
 
 <sup>2</sup> Der Staatsrat legt mittels Verordnung die Kriterien zur Bewilligung und Verwendung der gesprochenen Beträge fest.
@@ -195,34 +199,22 @@ Das Departement trifft die erforderlichen Massnahmen, um die Koordination der T�
 <sup>1</sup> Das Departement ergreift geeignete Massnahmen, um eine wirksame Zusammenarbeit zwischen den verschiedenen Organisationen und Behörden, die sich für die Jugend einsetzen, zu gewährleisten, namentlich zwischen:
 
 - a) den kommunalen und kantonalen Verwaltungsbehörden;
-
 - b) den Schulbehörden und der Lehrerschaft;
-
 - c) den Vereinen für Kinderhilfe;
-
 - d) den Jugendorganisationen;
-
 - e) den sozio-kulturellen Vereinen, den Sportvereinen und den Elternvereinen;
-
 - f) den Studien- und Berufsberatungsstellen;
-
 - g) den Sozialmedizinischen Regionalzentren;
-
-- h) den Kindes- und Erwachsenenschutzbehörden und den Berufsbeistandschaften;[^13-1]
-
+- h) den Kindes- und Erwachsenenschutzbehörden und den Berufsbeistandschaften;
 - i) den Gerichtsbehörden;
-
 - j) den Gesundheitsfachleuten;
-
 - k) den übrigen spezialisierten privaten und öffentlichen Diensten.
 
 <sup>2</sup> Das Departement sorgt für die Einhaltung des Subsidiaritätsprinzips; zu diesem Zweck kann es die Unterstützung privater Organisationen anfordern.
 
 <sup>3</sup> Vorbehalten bleiben die bundesrechtlichen und kantonalen Sonderbestimmungen.
 
-[^13-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
-
-### 4. Kapitel: Prävention
+## 4 Prävention
 
 #### Art. 14
 
@@ -231,9 +223,7 @@ Das Departement trifft die erforderlichen Massnahmen, um die Koordination der T�
 <sup>1</sup> Das Departement bestimmt und fördert:
 
 - a) Präventionsprogramme und -massnahmen, welche die Fähigkeiten der Kinder und der jungen Menschen stärken, schwierige Lebenssituationen zu meistern;
-
 - b) Massnahmen, die geeignet sind, Risikofaktoren, welche die körperliche und seelische Entwicklung von Kindern und jungen Menschen gefährden, in ihren Anfängen zu erkennen und zu vermindern;
-
 - c) Massnahmen und Programme zur Sensibilisierung und/oder Ausbildung von Personen, die sich mit Kindern und jungen Menschen beschäftigen.
 
 <sup>2</sup> Es unterstützt Programme zur Verhütung der verschiedenen Formen der Gewalt, von Tabak-, Alkohol- und anderen Suchtmittelabhängigkeiten, im Besonderen Hilfs- und Unterstützungsmassnahmen für Kinder.
@@ -246,9 +236,9 @@ Das Departement trifft die erforderlichen Massnahmen, um die Koordination der T�
 
 **Information**
 
-Das Departement informiert die Bevölkerung über die privaten und öffentlichen Organisationen und deren Angebote im Bereich der Entwicklungsförderung von Kindern sowie in den Bereichen der spezialisierten Leistungen für Kinder mit besonderen Bedürfnissen.
+<sup>1</sup> Das Departement informiert die Bevölkerung über die privaten und öffentlichen Organisationen und deren Angebote im Bereich der Entwicklungsförderung von Kindern sowie in den Bereichen der spezialisierten Leistungen für Kinder mit besonderen Bedürfnissen.
 
-### 5. Kapitel: Schutz
+## 5 Schutz
 
 #### Art. 16
 
@@ -258,11 +248,9 @@ Das Departement informiert die Bevölkerung über die privaten und öffentlichen
 
 <sup>2</sup> Diese Massnahmen sollen den Gefahren, die das Kindswohl bedrohen, vorbeugen, sie vermindern oder beseitigen.
 
-<sup>3</sup> Sie werden entweder im Einverständnis mit den Eltern oder im Rahmen einer gerichtlichen Vollstreckung oder durch die Kindes- und Erwachsenenschutzbehörde entschieden.[^16-1]
+<sup>3</sup> Sie werden entweder im Einverständnis mit den Eltern oder im Rahmen einer gerichtlichen Vollstreckung oder durch die Kindes- und Erwachsenenschutzbehörde entschieden.
 
 <sup>4</sup> Die Durchführung dieser verschiedenen Aufgaben wird vom zuständigen Amt wahrgenommen.
-
-[^16-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
 
 #### Art. 17
 
@@ -272,111 +260,90 @@ Das Departement informiert die Bevölkerung über die privaten und öffentlichen
 
 <sup>2</sup> Zu diesem Zweck plant es verschiedene zu treffende Massnahmen und kann, falls erforderlich, Studien über besondere Fragestellungen veranlassen.
 
-### 1. Abschnitt: Kinder- und Jugendschutzmassnahmen
+### 5.1 Kinder- und Jugendschutzmassnahmen
 
 #### Art. 18
 
 **Aufgaben des zuständigen Amtes**
 
-Das zuständige Amt führt seinen Auftrag aus mittels:
+<sup>1</sup> Das zuständige Amt führt seinen Auftrag aus mittels:
 
 - a) präventiver Tätigkeiten;
-
 - b) Kinder- und Jugendschutzmassnahmen;
-
 - c) Abklärungen;
-
 - d) Gutachten;
-
 - e) Überwachung der Platzierungen;
-
 - f) Beratung der Eltern, der Kinder und der jungen Menschen und gegebenenfalls der gesetzlichen Vertreter.
-
-[^18-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
 
 #### Art. 19
 
-**Zusammenarbeit mit der Kindes- und Erwachsenenschutzbehörde[^18-1]**
+**Zusammenarbeit mit der Kindes- und Erwachsenenschutzbehörde**
 
-<sup>1</sup> Das zuständige Amt arbeitet mit der Kindes- und Erwachsenenschutzbehörde zusammen und kann beauftragt werden:[^19-1] a) die Lebensbedingungen eines Kindes zu überprüfen und eine Sozialabklärung vorzunehmen;
+<sup>1</sup> Das zuständige Amt arbeitet mit der Kindes- und Erwachsenenschutzbehörde zusammen und kann beauftragt werden:
 
-- b) den Kindes- und Erwachsenenschutzbehörden jene Fälle zu melden, die deren Einschreiten erfordern;[^19-1]
-
+- a) die Lebensbedingungen eines Kindes zu überprüfen und eine Sozialabklärung vorzunehmen;
+- b) den Kindes- und Erwachsenenschutzbehörden jene Fälle zu melden, die deren Einschreiten erfordern;
 - c) die Befragung des Kindes vorzunehmen.
 
 <sup>2</sup> Vorbehalten bleiben die bundesrechtlichen und kantonalen Sonderbestimmungen.
 
-[^19-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
-
 #### Art. 20
 
-<sup>2</sup> Zusammenarbeit mit den gerichtlichen Behörden
+**Zusammenarbeit mit den gerichtlichen Behörden**
 
-Bei der Anwendung der besonderen Bestimmungen betreffend Kinder, arbeitet die zuständige Amtsstelle mit den Gerichten zusammen. Sie kann angehalten werden:
+<sup>1</sup> Bei der Anwendung der besonderen Bestimmungen betreffend Kinder, arbeitet die zuständige Amtsstelle mit den Gerichten zusammen. Sie kann angehalten werden:
 
 - a) bei Anwendung der Strafbestimmungen des Bundesgesetzes über das Jugendstrafrecht mit dem Jugendgericht zusammenzuarbeiten;
-
 - b) im Rahmen von Eheschutzmassnahmen bei Trennung oder Scheidung die erzieherische Fähigkeit der Eltern abzuklären und Vorschläge über die Zuteilung der elterlichen Sorge, die Obhut und die Beibehaltung des persönlichen Verkehrs zu unterbreiten;
-
 - c) im Rahmen eines gerichtlichen Verfahrens Befragungen von Kindern vorzunehmen.
 
 #### Art. 21
 
-<sup>3</sup> Erziehungsaufsicht und Erziehungsbeistand
+**Erziehungsaufsicht und Erziehungsbeistand**
 
-<sup>1</sup> Die Erteilung von Mandaten für Erziehungsaufsicht (Art. 307 Abs. 3 ZGB) und Erziehungsbeistandschaft (Art. 308 Abs. 1 und 2 ZGB) fällt in den Zuständigkeitsbereich der Kindes- und Erwachsenenschutzbehörde der Wohnsitzgemeinde des Kindes.[^21-1]
+<sup>1</sup> Die Erteilung von Mandaten für Erziehungsaufsicht (Art. 307 Abs. 3 ZGB) und Erziehungsbeistandschaft (Art. 308 Abs. 1 und 2 ZGB) fällt in den Zuständigkeitsbereich der Kindes- und Erwachsenenschutzbehörde der Wohnsitzgemeinde des Kindes.
 
-<sup>2</sup> Die von der Gerichts- oder der Kindes- und Erwachsenenschutzbehörde angeordneten Massnahmen wie Erziehungsaufsicht (Art. 307 Abs. 3 ZGB) und Erziehungsbeistandschaft (Art. 308 Abs. 1 und 2 ZGB) müssen im Prinzip vom zuständigen Amt ausgeführt werden.[^21-1]
+<sup>2</sup> Die von der Gerichts- oder der Kindes- und Erwachsenenschutzbehörde angeordneten Massnahmen wie Erziehungsaufsicht (Art. 307 Abs. 3 ZGB) und Erziehungsbeistandschaft (Art. 308 Abs. 1 und 2 ZGB) müssen im Prinzip vom zuständigen Amt ausgeführt werden.
 
 <sup>3</sup> Das zuständige Amt bezeichnet hierfür einen seiner Mitarbeiter.
 
-<sup>4</sup> Die Beteiligung der Gemeinden wird jährlich anhand der Anzahl während des Jahres ergriffener Massnahmen bestimmt.[^21-1]
+<sup>4</sup> Die Beteiligung der Gemeinden wird jährlich anhand der Anzahl während des Jahres ergriffener Massnahmen bestimmt.
 
-<sup>5</sup> Die Fakturierungsmodalitäten, der in Rechnung gestellte Betrag und die Beteiligung der Eltern werden in einer Verordnung des Staatsrates festgelegt.[^21-1]
-
-[^21-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
+<sup>5</sup> Die Fakturierungsmodalitäten, der in Rechnung gestellte Betrag und die Beteiligung der Eltern werden in einer Verordnung des Staatsrates festgelegt.
 
 #### Art. 22
 
 **Obhutsmandat**
 
-<sup>1</sup> Wenn die Gerichts- oder die Kindes- und Erwachsenenschutzbehörde die Obhut über ein Kind entzieht (Art. 310 ZGB), kann dem zuständigen Amt ein sogenanntes Obhutsmandat übertragen werden.[^22-1]
+<sup>1</sup> Wenn die Gerichts- oder die Kindes- und Erwachsenenschutzbehörde die Obhut über ein Kind entzieht (Art. 310 ZGB), kann dem zuständigen Amt ein sogenanntes Obhutsmandat übertragen werden.
 
 <sup>2</sup> Das Amt bezeichnet hierfür einen seiner Mitarbeiter und sorgt für die Unterbringung des Kindes in einer Familie oder in einer sozialpädagogischen Institution.
-
-[^22-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
 
 #### Art. 23
 
 **Dringliche Massnahmen**
 
-<sup>1</sup> Wenn Gefahr droht, kann das zuständige Amt das Kind unverzüglich an einem anderen Ort unterbringen oder gegen seine Unterbringung einschreiten. Es sorgt sodann innert fünf Tagen für das Einschreiten der Kindes- und Erwachsenenschutzbehörde.[^23-1]
+<sup>1</sup> Wenn Gefahr droht, kann das zuständige Amt das Kind unverzüglich an einem anderen Ort unterbringen oder gegen seine Unterbringung einschreiten. Es sorgt sodann innert fünf Tagen für das Einschreiten der Kindes- und Erwachsenenschutzbehörde.
 
 <sup>2</sup> In diesen Fällen ist das Einverständnis der Inhaber der elterlichen Sorge nicht erforderlich.
-
-[^23-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
 
 #### Art. 24
 
 **Vertretungsbeistand**
 
-<sup>1</sup> Die Gerichts- oder die Kindes- und Erwachsenenschutzbehörde kann in einer dringenden Angelegenheit oder für bestimmte Aufgaben das zuständige Amt damit beauftragen, das Kind mittels eines Vertretungsbeistandes zu vertreten, wenn die gesetzlichen Vertreter verhindert sind oder ein Interessenkonflikt vorliegt.[^24-1]
+<sup>1</sup> Die Gerichts- oder die Kindes- und Erwachsenenschutzbehörde kann in einer dringenden Angelegenheit oder für bestimmte Aufgaben das zuständige Amt damit beauftragen, das Kind mittels eines Vertretungsbeistandes zu vertreten, wenn die gesetzlichen Vertreter verhindert sind oder ein Interessenkonflikt vorliegt.
 
 <sup>2</sup> Das zuständige Amt bezeichnet hierfür einen seiner Mitarbeiter.
-
-[^24-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
 
 #### Art. 25
 
 **Delegation**
 
-<sup>1</sup> Das zuständige Amt kann die in den Artikeln 21 und 24 vorgesehenen Massnahmen an private oder öffentliche Dienste, insbesondere an eine Organisation, die ambulante sozialpädagogische Leistungen erbringt, oder an einen Dritten unter Mitwirkung der Kindes- und Erwachsenenschutzbehörde delegieren.[^25-1]
+<sup>1</sup> Das zuständige Amt kann die in den Artikeln 21 und 24 vorgesehenen Massnahmen an private oder öffentliche Dienste, insbesondere an eine Organisation, die ambulante sozialpädagogische Leistungen erbringt, oder an einen Dritten unter Mitwirkung der Kindes- und Erwachsenenschutzbehörde delegieren.
 
 <sup>2</sup> Die Bewilligung, ambulante sozialpädagogische Leistungen durch Private zu erbringen, wird vom Staatsrat erteilt, der die Voraussetzungen in einer Verordnung festhält.
 
 <sup>3</sup> Das zuständige Amt arbeitet direkt mit der Dienststelle oder dem mit dieser Aufgabe betreuten privaten Leistungserbringer zusammen.
-
-[^25-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
 
 #### Art. 26
 
@@ -392,15 +359,15 @@ Bei der Anwendung der besonderen Bestimmungen betreffend Kinder, arbeitet die zu
 
 **Organisation**
 
-Das zuständige Amt besteht aus regionalen Beratungsstellen. Die Organisation wird durch den Staatsrat festgelegt.
+<sup>1</sup> Das zuständige Amt besteht aus regionalen Beratungsstellen. Die Organisation wird durch den Staatsrat festgelegt.
 
-### 2. Abschnitt: Platzierungen
+### 5.2 Platzierungen
 
 #### Art. 28
 
 **Zuständigkeit**
 
-Das Departement ist für die Bewilligungserteilung und die Aufsicht betreffend die familienexterne Platzierung von Kindern, gemäss der entsprechenden Bundesgesetzgebung, zuständig.
+<sup>1</sup> Das Departement ist für die Bewilligungserteilung und die Aufsicht betreffend die familienexterne Platzierung von Kindern, gemäss der entsprechenden Bundesgesetzgebung, zuständig.
 
 #### Art. 29
 
@@ -410,7 +377,7 @@ Das Departement ist für die Bewilligungserteilung und die Aufsicht betreffend d
 
 <sup>2</sup> Im übrigen wacht es darüber, dass die obenerwähnten Einrichtungen über ausgebildetes Personal verfügen.
 
-- a) Tagesplatzierungen von Kindern
+### 5.2.1 Tagesplatzierungen von Kindern
 
 #### Art. 30
 
@@ -426,7 +393,7 @@ Das Departement ist für die Bewilligungserteilung und die Aufsicht betreffend d
 
 **Bewilligung und Aufsicht**
 
-Eine Verordnung des Staatsrates regelt die Fragen in Zusammenhang mit der Bewilligung und mit der Aufsicht von Kindern in Tagesstätten und bei Tagesmüttern.
+<sup>1</sup> Eine Verordnung des Staatsrates regelt die Fragen in Zusammenhang mit der Bewilligung und mit der Aufsicht von Kindern in Tagesstätten und bei Tagesmüttern.
 
 #### Art. 32
 
@@ -440,9 +407,9 @@ Eine Verordnung des Staatsrates regelt die Fragen in Zusammenhang mit der Bewill
 
 #### Art. 33
 
-<sup>3</sup> Beteiligung des Kantons
+**Beteiligung des Kantons**
 
-<sup>1</sup> Der Kanton beteiligt sich an den Kosten der bewilligten Tagesbetreuungseinrichtungen mit erweiterten Öffnungszeiten auf der Grundlage eines Leistungsvertrags, welcher 30 Prozent der anerkannten Löhne und Kosten der Erziehungsmaterialien ausmacht.
+<sup>1</sup> Der Kanton beteiligt sich an den Kosten der bewilligten Tagesbetreuungseinrichtungen mit erweiterten Öffnungszeiten auf der Grundlage eines Leistungsvertrags, welcher zwischen 30 und 35 Prozent der anerkannten Löhne und Kosten der Erziehungsmaterialien ausmacht.
 
 <sup>2</sup> Der Kanton beteiligt sich am anerkannten Erziehungsmaterial auf der Grundlage eines Pauschalbetrags pro Kind.
 
@@ -452,11 +419,11 @@ Eine Verordnung des Staatsrates regelt die Fragen in Zusammenhang mit der Bewill
 
 <sup>5</sup> Eine Weisung des Departements legt die Bedingungen für die Bewilligung zur Eröffnung von Tageseinrichtungen sowie für die Schaffung eines Netzes von Tagesmüttern fest.
 
-- b) Platzierung mit Unterbringung bei Pflegeeltern
+### 5.2.2 Platzierung mit Unterbringung bei Pflegeeltern
 
 #### Art. 34
 
-<sup>5</sup> Bewilligung und Aufsicht
+**Bewilligung und Aufsicht**
 
 <sup>1</sup> Wer ein Kind bei sich aufnimmt, benötigt eine Bewilligung der zuständigen Behörde sowie für jedes aufzunehmende Kind eine auf den Namen des Kindes ausgestellte Bewilligung, wenn das Kind für mehr als einen Monat gegen Entgelt oder für mehr als drei Monate unentgeltlich aufgenommen wird.
 
@@ -467,7 +434,6 @@ Eine Verordnung des Staatsrates regelt die Fragen in Zusammenhang mit der Bewill
 <sup>4</sup> Die Bewilligungspflicht besteht auch, wenn das Kind:
 
 - a) durch eine Behörde platziert wird;
-
 - b) das Wochenende bei seinen Eltern verbringt.
 
 <sup>5</sup> Die Bedingungen für die Erteilung der Bewilligung, die Aufsicht über die platzierten Kinder und die Kontrolle der Unterbringung sind in einer Verordnung des Staatsrates geregelt.
@@ -476,11 +442,9 @@ Eine Verordnung des Staatsrates regelt die Fragen in Zusammenhang mit der Bewill
 
 **Ausnahme von einer Bewilligung**
 
-<sup>1</sup> Für die Betreuung und Platzierung von Kindern im Rahmen von Schüleraustauschprogrammen, Au-pair-Einsätzen und vergleichbaren Aufenthalten ausserhalb des Elternhauses, die nicht behördlich angeordnet werden, muss keine Bewilligung eingeholt werden.[^35-1]
+<sup>1</sup> Für die Betreuung und Platzierung von Kindern im Rahmen von Schüleraustauschprogrammen, Au-pair-Einsätzen und vergleichbaren Aufenthalten ausserhalb des Elternhauses, die nicht behördlich angeordnet werden, muss keine Bewilligung eingeholt werden.
 
 <sup>2</sup> Die Platzierung kann jedoch untersagt werden, falls das Kindeswohl es erfordert.
-
-[^35-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
 
 #### Art. 36
 
@@ -490,11 +454,11 @@ Eine Verordnung des Staatsrates regelt die Fragen in Zusammenhang mit der Bewill
 
 <sup>2</sup> Der Staatsrat erlässt eine Verordnung über die Aufteilung der Platzierungskosten von Kindern bei Pflegeeltern.
 
-- c) Adoption
+### 5.2.3 Adoption
 
 #### Art. 37
 
-<sup>5</sup> Bewilligung und Aufsicht
+**Bewilligung und Aufsicht**
 
 <sup>1</sup> Das Departement informiert und unterstützt die Personen, die ein Kind adoptieren möchten, und bietet Vorbereitungs- und Informationssitzungen an, um die zukünftigen Eltern auf die Adoption vorzubereiten.
 
@@ -506,9 +470,9 @@ Eine Verordnung des Staatsrates regelt die Fragen in Zusammenhang mit der Bewill
 
 **Zuständige Zentralbehörde**
 
-Das Departement übt gemäss dem Haager Übereinkommen vom 29. Mai 1993 die Funktion der kantonalen Zentralbehörde aus.
+<sup>1</sup> Das Departement übt gemäss dem Haager Übereinkommen vom 29. Mai 1993 die Funktion der kantonalen Zentralbehörde aus.
 
-- d) Ferienkolonien, Ferienlager, Heime und Internate, die keine sozialpädagogischen Leistungen erbringen
+### 5.2.4 Ferienkolonien, Ferienlager, Heime und Internate, die keine sozialpädagogischen Leistungen erbringen
 
 #### Art. 39
 
@@ -524,7 +488,7 @@ Das Departement übt gemäss dem Haager Übereinkommen vom 29. Mai 1993 die Funk
 
 **Kinderheime und Internate**
 
-Internate und Heime, die Kinder während kurzer oder längerer Zeit aufnehmen und keine sozialpädagogischen Leistungen erbringen, unterliegen der Bewilligungspflicht und der Aufsicht des Departementes.
+<sup>1</sup> Internate und Heime, die Kinder während kurzer oder längerer Zeit aufnehmen und keine sozialpädagogischen Leistungen erbringen, unterliegen der Bewilligungspflicht und der Aufsicht des Departementes.
 
 #### Art. 41
 
@@ -538,9 +502,9 @@ Internate und Heime, die Kinder während kurzer oder längerer Zeit aufnehmen un
 
 **Ausnahme von einer Bewilligung**
 
-Die kantonalen, kommunalen oder privaten Institute von öffentlichem Interesse, die einer spezifischen durch die Schul-, Gesundheits- oder Sozialgesetzgebung festgelegten Aufsicht unterstehen, sind nicht bewilligungspflichtig.
+<sup>1</sup> Die kantonalen, kommunalen oder privaten Institute von öffentlichem Interesse, die einer spezifischen durch die Schul-, Gesundheits- oder Sozialgesetzgebung festgelegten Aufsicht unterstehen, sind nicht bewilligungspflichtig.
 
-- e) Platzierungen in sozialpädagogischen Einrichtungen
+### 5.2.5 Platzierungen in sozialpädagogischen Einrichtungen
 
 #### Art. 43
 
@@ -556,7 +520,7 @@ Die kantonalen, kommunalen oder privaten Institute von öffentlichem Interesse, 
 
 **Sonderschulen**
 
-Die vom Bundesamt für Sozialversicherung anerkannten Sonderschulen unterstehen der in der entsprechenden Gesetzgebung vorgesehenen Bewilligungspflicht.
+<sup>1</sup> Die vom Bundesamt für Sozialversicherung anerkannten Sonderschulen unterstehen der in der entsprechenden Gesetzgebung vorgesehenen Bewilligungspflicht.
 
 #### Art. 45
 
@@ -568,7 +532,7 @@ Die vom Bundesamt für Sozialversicherung anerkannten Sonderschulen unterstehen 
 
 #### Art. 46
 
-<sup>3</sup> Platzierungskosten
+**Platzierungskosten**
 
 <sup>1</sup> Die Platzierungskosten, die dem Pensionspreis und den persönlichen finanziellen Mitteln entsprechen, werden in erster Linie von den Eltern und subsidiär von den zuständigen Körperschaften gemäss der kantonalen Gesetzgebung über die Eingliederung und die Sozialhilfe getragen. Der Betrag entspricht dem Beitrag der Eltern und wird in einem Beschluss des Staatsrates festgelegt.
 
@@ -578,9 +542,7 @@ Die vom Bundesamt für Sozialversicherung anerkannten Sonderschulen unterstehen 
 
 #### Art. 47
 
-<sup>3</sup> Planung, Betriebskosten und Investitionen der spezialiserten
-
-Institutionen
+**Planung, Betriebskosten und Investitionen der spezialiserten Institutionen**
 
 <sup>1</sup> Das Departement fördert, plant, koordiniert und unterstützt finanziell den Betrieb der sozialpädagogischen Einrichtungen gemäss der entsprechenden Bundesgesetzgebung.
 
@@ -588,9 +550,9 @@ Institutionen
 
 <sup>3</sup> Die Bestimmungen zur Beteiligung des Kantons an den Betriebs- und Investitionskosten von sonderpädagogischen Einrichtungen werden mittels Verordnung des Staatsrates geregelt.
 
-#### Art. 47bis
+#### Art. 47a
 
-<sup>4</sup> Freiheitsbeschränkende Massnahmen für Minderjährige
+**Freiheitsbeschränkende Massnahmen für Minderjährige**
 
 <sup>1</sup> Jedem Minderjährigen, der vorsätzlich einer Vorschrift, die das Zusammenleben in der Einrichtung regelt, oder einer Anordnung der einweisenden Behörde oder der Heimleitung sowie des Personals der Einrichtung zuwiderhandelt, können disziplinarische Sanktionen auferlegt werden.
 
@@ -598,17 +560,17 @@ Institutionen
 
 <sup>3</sup> Die Anordnung und Ausführung von freiheitsbeschränkenden Massnahmen während der jugendstrafrechtlichen oder kindesschutzrechtlichen Einweisungen in sozialpädagogischen Einrichtungen im Sinne von Artikel 43 werden mittels Verordnung des Staatsrates geregelt.
 
-#### Art. 47ter
+#### Art. 47b
 
-<sup>4</sup> Geschlossene Zimmer
+**Geschlossene Zimmer**
 
 <sup>1</sup> Das Departement ist für die Bewilligung von geschlossenen Zimmern in sozialpädagogischen Einrichtungen für Minderjährige zuständig.
 
 <sup>2</sup> Die Modalitäten für die Schaffung von geschlossenen Zimmern sowie die Modalitäten für die Platzierung in solchen Räumlichkeiten werden mittels Verordnung des Staatsrates geregelt.
 
-#### Art. 47quater
+#### Art. 47c
 
-<sup>4</sup> Beschwerde
+**Beschwerde**
 
 <sup>1</sup> Gegen Verfügungen über freiheitsbeschränkende Massnahmen kann die betroffene Person, ihr gesetzlicher Vertreter oder eine ihr nahestehende volljährige Person innert drei Tagen nach Eröffnung des Entscheids beim Departement schriftlich Beschwerde einreichen.
 
@@ -618,13 +580,13 @@ Institutionen
 
 <sup>4</sup> Die Bestimmungen des Einführungsgesetzes zum Bundesgesetz über das Jugendstrafrecht bleiben vorbehalten.
 
-### 6. Kapitel: Spezialisierte Leistungen
+## 6 Spezialisierte Leistungen
 
 #### Art. 48
 
-<sup>2</sup> Aufgaben des Departements
+**Aufgaben des Departements**
 
-<sup>1</sup> Wenn die psychosoziale Entwicklung eines Kindes gestört oder gefährdet ist, bietet das Departement ambulante spezialisierte Leistungen in Form von Erziehungsberatung, Schulpsychologie, Kinder- und Jugendpsychologie, Logopädie oder Psychomotorik an. Es kann im Rahmen seiner Finanzkompetenzen für gewisse Aufgaben Leistungsverträge mit privaten, halbprivaten oder öffentlichen Organisationen oder Leistungsanbietern abschliessen.[^48-1]
+<sup>1</sup> Wenn die psychosoziale Entwicklung eines Kindes gestört oder gefährdet ist, bietet das Departement ambulante spezialisierte Leistungen in Form von Erziehungsberatung, Schulpsychologie, Kinder- und Jugendpsychologie, Logopädie oder Psychomotorik an. Es kann im Rahmen seiner Finanzkompetenzen für gewisse Aufgaben Leistungsverträge mit privaten, halbprivaten oder öffentlichen Organisationen oder Leistungsanbietern abschliessen.
 
 <sup>2</sup> Wenn die frühkindliche Entwicklung durch eine Behinderung beeinträchtigt ist oder die Gefahr dazu besteht, bietet das Departement heilpädagogische Leistungen im Rahmen der Frühberatung an. Es kann im Rahmen seiner Finanzkompetenzen für gewisse Aufgaben Leistungsverträge mit privaten, halbprivaten oder öffentlichen Organisationen abschliessen.
 
@@ -636,17 +598,13 @@ Institutionen
 
 <sup>6</sup> Der Vollzug dieser Aufgaben wird den zuständigen Dienststellen übertragen.
 
-[^48-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
-
-### 1. Abschnitt: Erziehungsberatung, Schulpsychologie, Kinder- und Jugendpsychologie, Logopädie
-
-und Psychomotorik
+### 6.1 Erziehungsberatung, Schulpsychologie, Kinder- und Jugendpsychologie, Logopädie und Psychomotorik
 
 #### Art. 49
 
 **Aufgabe der zuständigen Dienste**
 
-<sup>1</sup> Das zuständige Amt befasst sich mit Erziehungsberatung, Schulpsychologie, Kinder- und Jugendpsychologie, Logopädie und Psychomotorik.[^49-1]
+<sup>1</sup> Das zuständige Amt befasst sich mit Erziehungsberatung, Schulpsychologie, Kinder- und Jugendpsychologie, Logopädie und Psychomotorik.
 
 <sup>2</sup> Sein Auftrag beinhaltet Prävention, Abklärungen, Behandlungen und das Erstellen von Gutachten.
 
@@ -655,32 +613,24 @@ und Psychomotorik
 <sup>4</sup> Er erbringt zudem Leistungen:
 
 - a) für die Eltern und Elternvereinigungen;
-
 - b) für die Schulbehörden und die Lehrerschaft, sowohl auf kommunaler als auch auf kantonaler Ebene;
-
 - c) für die Gesundheitsfachleute;
-
-- d) für die Gerichts- und die Kindes- und Erwachsenenschutzbehörde;[^49-1]
-
+- d) für die Gerichts- und die Kindes- und Erwachsenenschutzbehörde;
 - e) für private oder öffentliche spezialisierte Organisationen, Einrichtungen und Dienste.
 
-<sup>5</sup> Das Departement schliesst einen Leistungsvertrag mit dem Spital Wallis ab, um die Zusammenarbeit und die Leistungen auf dem Gebiet der Kinder- und Jugendpsychiatrie nach Absprache mit dem zuständigen Amt zu definieren.[^49-1]
-
-[^49-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
+<sup>5</sup> Das Departement schliesst einen Leistungsvertrag mit dem Spital Wallis ab, um die Zusammenarbeit und die Leistungen auf dem Gebiet der Kinder- und Jugendpsychiatrie nach Absprache mit dem zuständigen Amt zu definieren.
 
 #### Art. 50
 
 **Organisation**
 
-<sup>1</sup> Das zuständige Amt umfasst Regionalstellen.[^50-1]
+<sup>1</sup> Das zuständige Amt umfasst Regionalstellen.
 
 <sup>2</sup> Die stationäre Kinder- und Jugendpsychiatrie untersteht dem für das Gesundheitswesen zuständigen Departement in Zusammenarbeit mit dem für die Anwendung des vorliegenden Gesetzes betrauten Departementes.
 
 <sup>3</sup> Die Organisation wird durch den Staatsrat festgelegt.
 
-[^50-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
-
-### 2. Abschnitt: Heilpädagogische Frühberatung
+### 6.2 Heilpädagogische Frühberatung
 
 #### Art. 51
 
@@ -690,39 +640,35 @@ und Psychomotorik
 
 <sup>2</sup> Darunter versteht man Massnahmen, die in der Regel zu Hause erfolgen, und für Kinder erbracht werden, deren Entwicklung aufgrund einer Behinderung eingeschränkt oder gefährdet ist.
 
-<sup>3</sup> Diese Massnahmen können von Geburt bis spätestens zwei Jahre nach Einschulung erfolgen. Sie umfassen ebenfalls die Beratung und Unterstützung der Eltern sowie anderer Personen, denen das Kind anvertraut wird.[^51-1]
-
-[^51-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
+<sup>3</sup> Diese Massnahmen können von Geburt bis spätestens zwei Jahre nach Einschulung erfolgen. Sie umfassen ebenfalls die Beratung und Unterstützung der Eltern sowie anderer Personen, denen das Kind anvertraut wird.
 
 #### Art. 52
 
-<sup>2</sup> Organisation
+**Organisation**
 
-Der Staatsrat legt die Organisation der heilpädagogischen Frühberatung im Kanton auf dem Verordnungswege fest.
+<sup>1</sup> Der Staatsrat legt die Organisation der heilpädagogischen Frühberatung im Kanton auf dem Verordnungswege fest.
 
-### 7. Kapitel: Verschiedene Bestimmungen
+## 7 Verschiedene Bestimmungen
 
 #### Art. 53
 
-<sup>5</sup> Melderecht
+**Melderecht**
 
-Jeder hat das Recht, eine ihm bekannte Situation, die das Wohlergehen eines Kindes gefährdet, der Kindes- und Erwachsenenschutzbehörde oder dem Departement zu melden.
+<sup>1</sup> Jeder hat das Recht, eine ihm bekannte Situation, die das Wohlergehen eines Kindes gefährdet, der Kindes- und Erwachsenenschutzbehörde oder dem Departement zu melden.
 
 #### Art. 54
 
 **Meldepflicht**
 
-<sup>1</sup> Jede Person, die in Ausübung ihres Berufs, aufgrund eines Auftrags oder einer Funktion in Verbindung mit Kindern, sei es hauptberuflich, nebenberuflich oder aushilfsweise, Kenntnis von einer Situation hat, welche die Entwicklung eines Kindes gefährdet, und nicht selber Abhilfe schaffen kann, muss ihren Vorgesetzten oder fehlendenfalls die Kindes- und Erwachsenenschutzbehörde benachrichtigen.[^54-1]
+<sup>1</sup> Jede Person, die in Ausübung ihres Berufs, aufgrund eines Auftrags oder einer Funktion in Verbindung mit Kindern, sei es hauptberuflich, nebenberuflich oder aushilfsweise, Kenntnis von einer Situation hat, welche die Entwicklung eines Kindes gefährdet, und nicht selber Abhilfe schaffen kann, muss ihren Vorgesetzten oder fehlendenfalls die Kindes- und Erwachsenenschutzbehörde benachrichtigen.
 
 <sup>2</sup> Falls eine Meldung beim Vorgesetzten erfolgt, ist dieser gehalten, unverzüglich zu handeln, insbesondere um die Gefahrensituation zu beenden, um alle notwendigen Massnahmen im Interesse des Kindes zu treffen und um Beweise zu sichern.
 
-<sup>3</sup> Strafbare Handlungen, die von Amtes wegen geahndet werden, sind der Staatsanwaltschaft anzuzeigen. Besteht Zweifel darüber, ob dieser Schritt erforderlich ist, kann das Departement konsultiert werden.[^54-1]
+<sup>3</sup> Strafbare Handlungen, die von Amtes wegen geahndet werden, sind der Staatsanwaltschaft anzuzeigen. Besteht Zweifel darüber, ob dieser Schritt erforderlich ist, kann das Departement konsultiert werden.
 
 <sup>4</sup> Die Person, die den Fall angezeigt hat, wird über den Verlauf des Verfahrens angemessen informiert.
 
 <sup>5</sup> Vorbehalten bleiben die bundesrechtlichen oder kantonalrechtlichen Sonderbestimmungen.
-
-[^54-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
 
 #### Art. 55
 
@@ -744,35 +690,27 @@ Jeder hat das Recht, eine ihm bekannte Situation, die das Wohlergehen eines Kind
 
 #### Art. 57
 
-**und anderen**
-
-Kommission zum Schutz der Kinder im Zusammenhang mit kinematographischen Vorstellungen Medienerzeugnissen
+**Kommission zum Schutz der Kinder im Zusammenhang mit kinematographischen Vorstellungen und anderen Medienerzeugnissen**
 
 <sup>1</sup> Es wird eine Kommission zum Schutz der Kinder im Zusammenhang mit kinematographischen Vorstellungen und anderen Medienerzeugnissen, die in der Öffentlichkeit stattfinden, geschaffen. Diese hat insbesondere den Auftrag:
 
 - a) die Verbreitung von Filmen und anderen Medienerzeugnissen zu regeln, sofern diese durch ihren gewalttätigen oder pornographischen Charakter oder durch die Darstellung von menschenunwürdigem Benehmen die Gefühle und Meinungen der Kinder verletzen können;
-
 - b) das Zulassungsalter von Kindern zu kinematographischen Vorstellungen und anderen Medienerzeugnissen festzulegen;
-
 - c) die Koordination mit den Verfügungen anderer Kantone.
 
 <sup>2</sup> Der Staatsrat hält in einem Reglement die Befugnisse und die Funktionsweise dieser Kommission sowie die Durchführung der Kontrollen fest.
 
-[^57-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
-
 #### Art. 58
 
-**Mitwirkung der Behörden und Informationsaustausch[^57-1]**
+**Mitwirkung der Behörden und Informationsaustausch**
 
 <sup>1</sup> Das zuständige Amt kann im Rahmen der Ausübung seiner Aufgaben, und wenn das Kindeswohl ernsthaft bedroht ist, die Unterstützung der Polizei anfordern.
 
-<sup>2</sup> Das Gericht, die Strafverfolgungsbehörden, die kantonalen und kommunalen Verwaltungsdienste, die öffentlichen und privaten Einrichtungen, die im medizinischen oder sozialen Bereich tätigen Personen, die Schulbehörden sowie die Mitarbeiter der privaten und halbprivaten Institutionen, die sich um Kinder kümmern, sind gehalten, ihm auf Anfrage alle nötigen Daten und Informationen zukommen zu lassen, wenn der Kindesschutz dies erfordert. Ist das Kindeswohl gefährdet, sind diese Instanzen ebenfalls zur Mitarbeit gehalten.[^58-1]
+<sup>2</sup> Das Gericht, die Strafverfolgungsbehörden, die kantonalen und kommunalen Verwaltungsdienste, die öffentlichen und privaten Einrichtungen, die im medizinischen oder sozialen Bereich tätigen Personen, die Schulbehörden sowie die Mitarbeiter der privaten und halbprivaten Institutionen, die sich um Kinder kümmern, sind gehalten, ihm auf Anfrage alle nötigen Daten und Informationen zukommen zu lassen, wenn der Kindesschutz dies erfordert. Ist das Kindeswohl gefährdet, sind diese Instanzen ebenfalls zur Mitarbeit gehalten.
 
-<sup>3</sup> Während der Strafverfolgung, bei der Kinder involviert sind oder das Kindeswohl gefährdet ist, können die Strafverfolgungsbehörden, wenn diese feststellen, dass andere Massnahmen notwendig sind, das Departement oder die zuständigen kantonalen und kommunalen Dienste über die Strafverfolgung und die getroffenen Massnahmen informieren. Wenn es das Kindeswohl erfordert, können die Verantwortlichen der Strafverfolgung zulassen, dass das Amt für Kindesschutz an der Kindsbefragung anwesend ist.[^58-1]
+<sup>3</sup> Während der Strafverfolgung, bei der Kinder involviert sind oder das Kindeswohl gefährdet ist, können die Strafverfolgungsbehörden, wenn diese feststellen, dass andere Massnahmen notwendig sind, das Departement oder die zuständigen kantonalen und kommunalen Dienste über die Strafverfolgung und die getroffenen Massnahmen informieren. Wenn es das Kindeswohl erfordert, können die Verantwortlichen der Strafverfolgung zulassen, dass das Amt für Kindesschutz an der Kindsbefragung anwesend ist.
 
-<sup>4</sup> Wenn es das Kindeswohl erfordert, kann die zuständige Dienststelle dem Gericht, der Staatsanwaltschaft, der Kindes- und Erwachsenenschutzbehörde sowie dem Kommandanten der Kantonspolizei nützliche Informationen, die in ihren Kompetenzbereich fallen, übermitteln, ohne dass sie durch den Staatsrat vom Amtsgeheimnis entbunden werden muss.[^58-1]
-
-[^58-1]: Änderung vom 13. Juni 2014 Abl. Nr. 27/2014; 1.10.2014 Abl. Nr. 44/2014
+<sup>4</sup> Wenn es das Kindeswohl erfordert, kann die zuständige Dienststelle dem Gericht, der Staatsanwaltschaft, der Kindes- und Erwachsenenschutzbehörde sowie dem Kommandanten der Kantonspolizei nützliche Informationen, die in ihren Kompetenzbereich fallen, übermitteln, ohne dass sie durch den Staatsrat vom Amtsgeheimnis entbunden werden muss.
 
 #### Art. 59
 
@@ -782,19 +720,19 @@ Kommission zum Schutz der Kinder im Zusammenhang mit kinematographischen Vorstel
 
 <sup>2</sup> Die Sanktionen werden vom zuständigen Departement ausgesprochen. Die Bestimmungen über das Verwaltungsstrafverfahren sind anwendbar.
 
-<sup>3</sup> Vorbehalten bleiben die Bestimmungen von Artikel 48, Absatz 5, des vorliegenden Gesetzes.
+<sup>3</sup> Vorbehalten bleiben die Bestimmungen von Artikel 48 Absatz 5 des vorliegenden Gesetzes.
 
 #### Art. 60
 
 **Gebühren**
 
-Das Departement kann für seine Leistungen Gebühren verlangen. Der Staatsrat legt in einem Beschluss die Beträge fest.
+<sup>1</sup> Das Departement kann für seine Leistungen Gebühren verlangen. Der Staatsrat legt in einem Beschluss die Beträge fest.
 
-### 8. Kapitel: Schlussbestimmungen
+## 8 Schlussbestimmungen
 
 #### Art. 61
 
-<sup>2,3</sup> Übergangsbestimmungen
+**Übergangsbestimmungen**
 
 <sup>1</sup> Die im Zeitpunkt der Inkrafttretung des vorliegenden Gesetzes hängigen Verfahren werden nach neuem Recht weitergeführt.
 
@@ -806,16 +744,15 @@ Das Departement kann für seine Leistungen Gebühren verlangen. Der Staatsrat le
 
 **Vollstreckungsbestimmungen**
 
-Der Staatsrat erlässt alle notwendigen Bestimmungen, um eine einheitliche Anwendung des vorliegenden Gesetzes zu gewährleisten.
+<sup>1</sup> Der Staatsrat erlässt alle notwendigen Bestimmungen, um eine einheitliche Anwendung des vorliegenden Gesetzes zu gewährleisten.
 
 #### Art. 63
 
 **Aufhebung und Änderung von Gesetzen**
 
-Alle im Widerspruch zum vorliegenden Gesetz stehenden Bestimmungen sind aufgehoben, namentlich:
+<sup>1</sup> Alle im Widerspruch zum vorliegenden Gesetz stehenden Bestimmungen sind aufgehoben, namentlich:
 
 - a) das Gesetz über den Schutz der Minderjährigen vom 14. Mai 1971;
-
 - b) das Gesetz betreffend die Festsetzung des Staatsbeitrages an die Platzierungskosten der Minderjährigen und die Subventionen von spezialisierten Institutionen vom 8. Februar 1973;
 
 #### Art. 64
@@ -826,19 +763,4 @@ Alle im Widerspruch zum vorliegenden Gesetz stehenden Bestimmungen sind aufgehob
 
 <sup>2</sup> Der Staatsrat legt das Datum des Inkrafttretens dieses Gesetzes fest.
 
-So angenommen in zweiter Lesung im Grossen Rate, zu Sitten, den 11. Mai 2000.
-
-Der Präsident des Grossen Rates: Yves-Gérard Rebord Die Schriftführer: Hans-Peter Constantin, Madeleine Mayor
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**1.06.2001**
-
-GS/VS 2001, 1
-
-## Weitere Fussnoten
-
-- [1] Fassung gemäss Art. 32 Ziff. 3 des GS/VS 2006, 48 und 1.01.2007 Einführungsgesetzes zum Bundesgesetz über 327 das Jugendstrafrecht (EGJStG) vom 14.09.2006
-- [2] Fassung gemäss Ziff II/15 des Gesetzes über GS/VS 2010, 148 1.01.2011 die Umsetzung der Neugestaltung des und 441 Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden vom 16.06.2010
-- [3] Fassung gemäss Ziff. II/22 des Gesetzes über Abl. Nr. 38/2011 1.01.2012 die zweite Etappe der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden vom 15.09.2011
-- [4] Änderung vom 15.03.2012 Abl. Nr. 14/2012; 1.01.2013 Abl. Nr. 7/2013
+CSW BO/Abl. 25/2000, 20/2001
