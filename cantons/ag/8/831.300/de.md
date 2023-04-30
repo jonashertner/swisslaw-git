@@ -4,13 +4,13 @@ number: "831.300"
 title: "Gesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung im Kanton Aargau"
 short: "Ergänzungsleistungsgesetz Aargau, ELG-AG"
 language: de
-version: 2017-01-01
-valid_until: 2023-04-30
-version_adopted: 2016-09-13
+version: 2023-05-01
+valid_until: 2025-11-30
+version_adopted: 2022-09-06
 adopted: 2007-06-26
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/831.300"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2306/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3291/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2306/pdf_file"
 
 (Ergänzungsleistungsgesetz Aargau, ELG-AG)
 
-Vom 26.06.2007 (Stand 01.01.2017)
+Vom 26.06.2007 (Stand 01.05.2023)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -95,6 +95,14 @@ beschliesst:
 
 <sup>2</sup> Die kantonale Ausgleichskasse entscheidet über das Gesuch.
 
+#### § 7a
+
+**Zugriff auf Sozialversicherungs- und Steuerdaten**
+
+<sup>1</sup> Soweit dies für die Berechnung und Überprüfung des Anspruchs auf Ergänzungsleistungen erforderlich ist, hat die SVA Aargau ab EL-Antragsstellung direkten Zugriff auf die notwendigen Sozialversicherungsdaten der anderen Sozialversicherungsbereiche der SVA Aargau sowie auf die Steuerdaten der EL-Versicherten und jener Personen, die aufgrund der gesetzlichen Vorgaben in die entsprechende EL-Berechnung miteinbezogen werden. Als eindeutiges Identifikationsmerkmal gilt die AHV-Versichertennummer.
+
+<sup>2</sup> Zwischen der SVA Aargau, Bereich Ergänzungsleistungen, und dem kantonalen Steueramt beziehungsweise anderen Sozialversicherungsbereichen der SVA Aargau können die für die Aufgabenerfüllung notwendigen Daten automatisiert gemeldet oder abgerufen werden.
+
 #### § 8
 
 **Publikation und Inkrafttreten**
@@ -107,7 +115,7 @@ Präsident des Grossen Rats
 
 Schöni
 
-Protokollführer
+Protokollführerin
 
 i.V. Ommerli
 
