@@ -3,13 +3,13 @@ canton: TG
 number: "414.28"
 title: Geschäftsreglement der Pädagogischen Hochschule Thurgau
 language: de
-version: 2020-03-14
-valid_until: 2023-04-30
-version_adopted: 2020-02-24
+version: 2023-05-01
+valid_until: 2025-06-13
+version_adopted: 2023-03-27
 adopted: 2004-08-16
 in_force: 2004-09-25
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/414.28"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2135/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2650/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2135/pdf_file"
 
 Geschäftsreglement PHTG
 
-vom 16.08.2004 (Stand 14.03.2020)
+vom 16.08.2004 (Stand 01.05.2023)
 
 Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf § 13 Abs. 1 Ziff. 2 des Gesetzes über die tertiäre Bildung (Tertiärbildungsgesetz)[^ingress-1].
 
@@ -44,12 +44,12 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Die Pädagogische Hochschule gliedert sich in folgende Führungsbereiche:
 
-- 1\. Rektorat als umspannender Bereich;
-- 2\. Prorektorat Lehre;
-- 3\. Prorektorat Weiterbildung und Dienstleistungen;
-- 4\. Prorektorat Forschung und Wissensmanagement;
-- 5\. Prorektorat Akademisches Personal;
-- 6\. Verwaltungsdirektion.
+- 1\. Rektorat als umspannender Bereich
+- 2\. Prorektorat Ausbildung
+- 3\. Prorektorat Weiterbildung und Dienstleistungen
+- 4\. Prorektorat Forschung und Wissensmanagement
+- 5\. Prorektorat Fachbereiche
+- 6\. Verwaltungsdirektion
 
 <sup>2</sup> Jedes Mitglied der Hochschulleitung steht einem Führungsbereich vor. Die Führungsbereiche sind hinsichtlich Inhalt und Verfahren zu koordinieren.
 
@@ -61,14 +61,14 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Der Rektor oder die Rektorin führt die PHTG und ist namentlich verantwortlich für:
 
-- 1\. die Weiterentwicklung der Hochschule;
-- 2\. die Zusammenarbeit mit dem Hochschulrat;
-- 3\. die Personalpolitik;
-- 4\. die finanzielle Führung;
-- 5\. das Qualitätsentwicklungskonzept;
-- 6\. die Koordination der Führungsbereiche;
-- 7\. die Information und Kommunikation nach innen und aussen;
-- 8\. die Vertretung der Pädagogischen Hochschule.
+- 1\. die Weiterentwicklung der Hochschule
+- 2\. die Zusammenarbeit mit dem Hochschulrat
+- 3\. die Personalpolitik
+- 4\. die finanzielle Führung
+- 5\. das Qualitätsentwicklungskonzept
+- 6\. die Koordination der Führungsbereiche
+- 7\. die Information und Kommunikation nach innen und aussen
+- 8\. die Vertretung der Pädagogischen Hochschule
 
 <sup>2</sup> Der Rektor oder die Rektorin bestimmt aus dem Kreis der Hochschulleitung eine Stellvertretung. Eine Stellvertretung kann auch für einzelne Geschäfte bestimmt werden.
 
@@ -76,12 +76,12 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Mitglieder der Hochschulleitung**
 
-<sup>1</sup> Die Mitglieder der Hochschulleitung leiten ihren Führungsbereich; sie sind namentlich verantwortlich für
+<sup>1</sup> Die Mitglieder der Hochschulleitung leiten ihren Führungsbereich und sind namentlich verantwortlich für:
 
-- 1\. die konzeptionelle Ausrichtung, Entwicklung und Umsetzung der Angebote und Leistungen;
-- 2\. die Personalplanung und -entwicklung;
-- 3\. das Qualitätsmanagement;
-- 4\. die Planung und den Einsatz der Mittel.
+- 1\. die konzeptionelle Ausrichtung, Entwicklung und Umsetzung der Angebote und Leistungen
+- 2\. die Personalplanung und -entwicklung
+- 3\. das Qualitätsmanagement
+- 4\. die Planung und den Einsatz der Mittel
 
 <sup>2</sup> Die Hochschulleitung bestimmt die Stellvertretungen.
 
