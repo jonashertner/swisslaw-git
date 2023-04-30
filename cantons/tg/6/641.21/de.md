@@ -1,25 +1,27 @@
 ---
 canton: TG
 number: "641.21"
-title: Verordnung des Regierungsrates über das Halten von Hunden
+title: Hundeverordnung
 short: HundeV
 language: de
-version: 2017-01-01
-valid_until: 2023-04-30
-version_adopted: 2016-12-20
+version: 2023-05-01
+valid_until: 2025-04-30
+version_adopted: 2023-04-25
 adopted: 1984-10-16
 in_force: 1985-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/641.21"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2189/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2744/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über das Halten von Hunden
+# Hundeverordnung
 
-RRV Halten von Hunden
+HundeV
 
-vom 16.10.1984 (Stand 01.01.2017)
+(HundeV)
+
+vom 16.10.1984 (Stand 01.05.2023)
 
 ## 1. Hundekontrolle und Hundehaltung
 
@@ -35,7 +37,7 @@ vom 16.10.1984 (Stand 01.01.2017)
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Departement für Inneres und Volkswirtschaft ist im Sinne des Gesetzes[^1a-1] das zuständige Departement.
+<sup>1</sup> Das Departement für Inneres und Volkswirtschaft ist im Sinne des Gesetzes über das Halten von Hunden (HundeG)[^1a-1] das zuständige Departement.
 
 [^1a-1]: RB [641.2](https://www.rechtsbuch.tg.ch/data/641.2/de)
 
@@ -43,7 +45,7 @@ vom 16.10.1984 (Stand 01.01.2017)
 
 **Kennzeichnung und Registrierung**
 
-<sup>1</sup> Melde- und Registrierungsstelle im Sinne von § 9 Abs. 1 des Gesetzes ist die Hundedatenbank AMICUS der Identitas AG.
+<sup>1</sup> Melde- und Registrierungsstelle im Sinne von § 9 Abs. 1 HundeG ist die Hundedatenbank AMICUS der Identitas AG.
 
 <sup>2</sup> Die Rahmenbedingungen werden in einem Vertrag mit dem Departement geregelt.
 
@@ -65,7 +67,7 @@ vom 16.10.1984 (Stand 01.01.2017)
 
 **Meldungen bei Hundebissvorfällen**
 
-<sup>1</sup> Meldestelle im Sinne von § 7b des Gesetzes ist das Veterinäramt, welches die Meldungen zu statistischen Zwecken erfasst und an die zuständige Gemeinde oder das Veterinäramt des zuständigen Kantons zur Bearbeitung weiterleitet.
+<sup>1</sup> Meldestelle im Sinne von § 7b HundeG ist das Veterinäramt, welches die Meldungen zu statistischen Zwecken erfasst und an die zuständige Gemeinde oder das Veterinäramt des zuständigen Kantons zur Bearbeitung weiterleitet.
 
 <sup>2</sup> Als erhebliche Verletzung eines Menschen oder eines Tieres gilt insbesondere jede Hundebissverletzung, die ärztlich beziehungsweise tierärztlich versorgt werden muss.
 
@@ -124,15 +126,15 @@ vom 16.10.1984 (Stand 01.01.2017)
 
 <sup>1</sup> Mit dem Bewilligungsgesuch hat die gesuchstellende Person insbesondere folgende aktuelle Unterlagen einzureichen:
 
-- 1\. Handlungsfähigkeitszeugnis;
-- 2\. Wohnsitzbestätigung;
-- 3\. Auszug aus dem Schweizerischen Zentralstrafregister;
-- 4\. Nachweispapiere über die Herkunft des Hundes;
-- 5\. Nachweispapiere über Kenntnisse im Hundewesen;
-- 6\. Police der Haftpflichtversicherung gemäss § 1a des Gesetzes;
-- 7\. Passfoto.
+- 1\. Handlungsfähigkeitszeugnis
+- 2\. Wohnsitzbestätigung
+- 3\. Auszug aus dem Schweizerischen Zentralstrafregister
+- 4\. Nachweispapiere über die Herkunft des Hundes
+- 5\. Nachweispapiere über Kenntnisse im Hundewesen
+- 6\. Police der Haftpflichtversicherung gemäss § 1a HundeG
+- 7\. Passfoto
 
-<sup>2</sup> Das Veterinäramt kann weitere Unterlagen zur Überprüfung der Bewilligungsvoraussetzungen gemäss § 3b des Gesetzes anfordern.
+<sup>2</sup> Das Veterinäramt kann weitere Unterlagen zur Überprüfung der Bewilligungsvoraussetzungen gemäss § 3b HundeG anfordern.
 
 <sup>3</sup> Es ist berechtigt, amtliche Erkundigungen bei der Polizei und anderen Behörden einzuholen.
 
@@ -146,10 +148,10 @@ vom 16.10.1984 (Stand 01.01.2017)
 
 <sup>1</sup> Im Falle der Bewilligungserteilung erhält die gesuchstellende Person einen Ausweis mit folgenden Angaben:
 
-- 1\. Name, Vorname, Geburtsdatum, Wohnort und Passfoto der gesuchstellenden Person;
-- 2\. Name, Geschlecht, Geburtsdatum, Rasse oder Rassetyp, Fellfarbe und Mikrochip-Nummer des bewilligten Hundes;
-- 3\. Ausstellungsort, -datum und -behörde;
-- 4\. Gültigkeitsdauer (befristet oder unbefristet bis auf Widerruf).
+- 1\. Name, Vorname, Geburtsdatum, Wohnort und Passfoto der gesuchstellenden Person
+- 2\. Name, Geschlecht, Geburtsdatum, Rasse oder Rassetyp, Fellfarbe und Mikrochip-Nummer des bewilligten Hundes
+- 3\. Ausstellungsort, -datum und -behörde
+- 4\. Gültigkeitsdauer (befristet oder unbefristet bis auf Widerruf)
 
 <sup>2</sup> Wird der bewilligungspflichtige Hund ausgeführt, ist der Bewilligungsausweis mitzuführen und bei einer Kontrolle vorzuweisen.
 
@@ -173,7 +175,7 @@ vom 16.10.1984 (Stand 01.01.2017)
 
 **Hundezüchter und Hundehändler**
 
-<sup>1</sup> Als Hundezüchter oder Hundehändler im Sinne des § 10 Abs. 2 des Gesetzes[^8-1] ist anerkannt,
+<sup>1</sup> Als Hundezüchter oder Hundehändler im Sinne von § 10 Abs. 2 HundeG ist anerkannt,
 
 - 1\. wer die gewerbsmässige Zucht von Hunden betreibt,
 - 2\. wer gewerbsmässig mit Hunden Handel betreibt und im Besitze der kantonalen tierschutzrechtlichen Bewilligung ist und
@@ -181,21 +183,19 @@ vom 16.10.1984 (Stand 01.01.2017)
 
 <sup>2</sup> Die Voraussetzungen sind durch die Hundesteuerbezugsstelle zu prüfen.
 
-[^8-1]: RB [641.2](https://www.rechtsbuch.tg.ch/data/641.2/de)
-
 #### § 9
 
 **Steuerbefreiung**
 
 <sup>1</sup> Für die Befreiung von der Hundesteuer ist erforderlich:
 
-- 1\. für Diensthunde der Armee eine Bestätigung der militärischen Stelle;
-- 2\. für Diensthunde der Polizei eine Bescheinigung des Polizeikommandos;
-- 3\. für Diensthunde des Grenzwachtkorps eine Bescheinigung des Grenzwachtkommandos;
-- 4\. für Sanitätshunde der Nachweis über eine in der Stufe III mit Ausbildungskennzeichen (AKZ) absolvierte Prüfung in der Klasse Sanitätshund gemäss Leistungsheft der Schweizerischen Kynologischen Gesellschaft;
-- 5\. für Katastrophen- und Flächensuchhunde ein Ausweis über die Einsatzfähigkeit vom Schweizerischen Verein für Katastrophenhunde (SVKA);
-- 6\. für Lawinenhunde eine Bescheinigung des Schweizerischen Alpen-Clubs oder der Nachweis über eine in der Stufe III mit Ausbildungskennzeichen (AKZ) absolvierte Prüfung in der Klasse Lawinenhunde gemäss Leistungsheft der Schweizerischen Kynologischen Gesellschaft;
-- 7\. für Blindenhunde die Funktion als Blindenführhund.
+- 1\. für Diensthunde der Armee eine Bestätigung der militärischen Stelle
+- 2\. für Diensthunde der Polizei eine Bescheinigung des Polizeikommandos
+- 3\. für Diensthunde des Grenzwachtkorps eine Bescheinigung des Grenzwachtkommandos
+- 4\. für Sanitätshunde der Nachweis über eine in der Stufe III mit Ausbildungskennzeichen (AKZ) absolvierte Prüfung in der Klasse Sanitätshund gemäss Leistungsheft der Schweizerischen Kynologischen Gesellschaft
+- 5\. für Katastrophen- und Flächensuchhunde ein Ausweis über die Einsatzfähigkeit vom Schweizerischen Verein für Katastrophenhunde (SVKA)
+- 6\. für Lawinenhunde eine Bescheinigung des Schweizerischen Alpen-Clubs oder der Nachweis über eine in der Stufe III mit Ausbildungskennzeichen (AKZ) absolvierte Prüfung in der Klasse Lawinenhunde gemäss Leistungsheft der Schweizerischen Kynologischen Gesellschaft
+- 7\. für Blindenhunde die Funktion als Blindenführhund
 
 <sup>2</sup> Für den Entscheid über die Steuerbefreiung ist die Hundesteuerbezugsstelle zuständig.
 
@@ -205,9 +205,9 @@ vom 16.10.1984 (Stand 01.01.2017)
 
 <sup>1</sup> Keine Hundesteuer ist zu entrichten:
 
-- 1\. bei Wohnsitzwechsel des Hundehalters, sofern die Steuer des laufenden Jahres bereits in einer anderen Gemeinde des Kantons oder in einem anderen Kanton entrichtet wurde;
-- 2\. für Hunde, die sich weniger als drei Monate im Kanton aufhalten;
-- 3\. für Hunde, welche als Ersatz für einen bereits versteuerten Hund angeschafft werden.
+- 1\. bei Wohnsitzwechsel des Hundehalters, sofern die Steuer des laufenden Jahres bereits in einer anderen Gemeinde des Kantons oder in einem anderen Kanton entrichtet wurde
+- 2\. für Hunde, die sich weniger als drei Monate im Kanton aufhalten
+- 3\. für Hunde, welche als Ersatz für einen bereits versteuerten Hund angeschafft werden
 
 #### § 11
 
@@ -229,19 +229,18 @@ vom 16.10.1984 (Stand 01.01.2017)
 
 <sup>1</sup> Übertretungen folgender Vorschriften der Gesetzgebung über das Halten von Hunden werden mit Ordnungsbussen bestraft:
 
-- 1\. unbeaufsichtigtes Herumstreunenlassen des Hundes in Wäldern und an Waldrändern sowie zur Nachtzeit im Freien (§ 2 Abs. 2 Ziff. 2 des Gesetzes) mit Fr. 200;
-- 2\. nicht korrekte Beseitigung von Hundekot auf Trottoirs und Fusswegen sowie in Park-, Schul-, Spiel- oder Sportanlagen, Gärten, Futterwiesen und Gemüsefeldern (§ 2 Abs. 2 Ziff. 3 des Gesetzes) mit Fr. 150;
-- 3\. unangeleintes Mitführen des Hundes in Park-, Schul-, Spiel- oder Sportanlagen sowie an verkehrsreichen Strassen (§ 3 Abs. 1 des Gesetzes) mit Fr. 50;
-- 4\. Mitführen des Hundes in Kirchen, Friedhöfen, Spital- oder Badeanlagen (§ 3 Abs. 2 des Gesetzes) mit Fr. 100;
-- 5\. Verstoss gegen Anleingebote oder Betretverbote der Gemeinde (§ 3 Abs. 3 des Gesetzes) mit Fr. 100;
-- 6\. Nichtmitführen oder Nichtvorweisen des Bewilligungsausweises (§ 7d) mit Fr. 50.
+- 1\. unbeaufsichtigtes Herumstreunenlassen des Hundes in Wäldern und an Waldrändern sowie zur Nachtzeit im Freien (§ 2 Abs. 2 Ziff. 2 HundeG) mit Fr. 200
+- 2\. nicht korrekte Beseitigung von Hundekot auf Trottoirs und Fusswegen sowie in Park-, Schul-, Spiel- oder Sportanlagen, Gärten, Futterwiesen und Gemüsefeldern (§ 2 Abs. 2 Ziff. 3 HundeG) mit Fr. 150
+- 3\. unangeleintes Mitführen des Hundes in Park-, Schul-, Spiel- oder Sportanlagen sowie an verkehrsreichen Strassen (§ 3 Abs. 1 HundeG) mit Fr. 50
+- 4\. Mitführen des Hundes in Kirchen, Friedhöfen, Spital- oder Badeanlagen (§ 3 Abs. 2 HundeG) mit Fr. 100
+- 4a. unangeleintes Mitführen des Hundes im Wald und am Waldrand im Zeitraum vom 1. April bis 31. Juli (§ 3 Abs. 2<sup>bis</sup> HundeG) mit Fr. 100
+- 5\. Verstoss gegen Anleingebote oder Betretverbote der Gemeinde (§ 3 Abs. 3 HundeG) mit Fr. 100
+- 6\. Nichtmitführen oder Nichtvorweisen des Bewilligungsausweises (§ 7d) mit Fr. 50
 
-## 3. Schlussbestimmung
+## 3.
 
 #### § 14
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 1985 in Kraft.
+**…**
 
 keine Angabe
