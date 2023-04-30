@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 29 septembre 1995 sur les prestations dans l'assura
 short: OPAS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: fr
-version: 2023-03-01
+version: 2023-05-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20230301/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20230301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20230301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20230501/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20230501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20230501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20230301/fr"
 
 (Ordonnance sur les prestations de l’assurance des soins, OPAS)[^t-1]
 
-du 29 septembre 1995 (État le 1<sup>er</sup> mars 2023)
+du 29 septembre 1995 (État le 1<sup>er</sup> mai 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -1491,15 +1491,17 @@ Lors de la comparaison avec les prix pratiqués à l’étranger, les marges sui
 
 <sup>2</sup>
 
-Lors de la comparaison avec les prix pratiqués à l’étranger, les rabais suivants imposés aux fabricants conformément à l’art. 65*b*, al. 4, sont déduits du prix de fabrique pratiqué en Allemagne:
+Lors de la comparaison avec les prix pratiqués à l’étranger, les rabais suivants imposés aux fabricants conformément à l’art. 65*b*, al. 4, OAMal sont déduits du prix de fabrique pratiqué en Allemagne:[^34b-2]
 
-- a. pour les préparations originales: 7 %, déduction faite de la TVA;
-- b. pour les génériques et les préparations originales dont le brevet a expiré: 16 %, déduction faite de la TVA.[^34b-2]
+- a.[^34b-3] pour les préparations originales: 12 %, déduction faite de la TVA;
+- b. pour les génériques et les préparations originales dont le brevet a expiré: 16 %, déduction faite de la TVA.[^34b-4]
 
 <sup>3</sup> Si le titulaire de l’autorisation peut prouver que les montants visés aux al. 1 ou 2 diffèrent du montant effectif de la marge ou du rabais, les montants effectifs sont déduits.
 
 [^34b-1]: Introduit par le ch. I de l’O du DFI du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
-[^34b-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^34b-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 avr. 2023, en vigueur depuis le 1<sup>er</sup> mai 2023 ([RO 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)).
+[^34b-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 avr. 2023, en vigueur depuis le 1<sup>er</sup> mai 2023 ([RO 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^34b-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
 
 #### Art. 34c
 
@@ -2098,6 +2100,14 @@ Les assureurs appliquent la réglementation prévue à l’art. 38*a* d’ici au
 
 L’assurance prend en charge les coûts pour les prestations de psychothérapie déléguée pendant six mois au plus à compter de l’entrée en vigueur de la modification du 23 juin 2021.
 
+## Disposition transitoire relative à la modification du 19 avril 2023
+
+[^u15-1]
+
+[^u15-1]: [RO 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)
+
+L’art. 34*b*, al. 2, let. a, est également applicable aux procédures pendantes auprès de l’OFSP à l’entrée en vigueur de la modification du 19 avril 2023.
+
 Annexe 1[^t-2]
 
 (art. 1)
@@ -2150,5 +2160,5 @@ Annexe 4[^t-6]
 
 [^annex4-lvlu1-1]
 
-[^t-6]: Mise à jour par le ch. II al. 2 de l’O du DFI du 2 juin 2005 ([RO 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470)), le ch. II al. 4 de l’O du DFI du 7 fév. 2020 ([RO 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), le ch. II al. 5 de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
-[^annex4-lvlu1-1]: Cette annexe n’est pas publiée au RO. La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Médicaments.
+[^t-6]: Mise à jour par le ch. II al. 2 de l’O du DFI du 2 juin 2005 ([RO 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470)), le ch. II al. 4 de l’O du DFI du 7 fév. 2020 ([RO 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), le ch. II al. 5 de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)) et le ch. II de l’O du DFI du 19 avr. 2023, en vigueur depuis le 1<sup>er</sup> mai 2023 ([RO 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)).
+[^annex4-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/195](https://fedlex.data.admin.ch/eli/oc/2023/195) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.

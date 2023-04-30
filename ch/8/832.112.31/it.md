@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicuraz
 short: OPre
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: it
-version: 2023-03-01
+version: 2023-05-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20230301/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20230301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20230301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20230501/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20230501-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20230501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20230301/it"
 
 (Ordinanza sulle prestazioni, OPre)[^t-1]
 
-del 29 settembre 1995 (Stato 1° marzo 2023)
+del 29 settembre 1995 (Stato 1° maggio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -1485,13 +1485,15 @@ Per il confronto con i prezzi praticati all’estero dal prezzo di costo per le 
 
 Per il confronto con i prezzi praticati all’estero, dal prezzo di fabbrica per la consegna praticato in Germania sono detratti i seguenti sconti dei fabbricanti secondo l’articolo 65*b* capoverso 4 OAMal:
 
-- a. sui preparati originali, il 7 per cento, dedotta l’imposta sulla cifra d’affari;
-- b. sui generici e sui preparati originali la cui protezione del brevetto è scaduta, il 16 per cento, dedotta l’imposta sulla cifra d’affari.[^34b-2]
+- a.[^34b-2] sui preparati originali, il 12 per cento, dedotta l’imposta sul valore aggiunto;
+- b.[^34b-3] sui generici e sui preparati originali la cui protezione del brevetto è scaduta, il 16 per cento, dedotta l’imposta sul valore aggiunto.[^34b-4]
 
 <sup>3</sup> Se il titolare dell’omologazione è in grado di dimostrare che il margine effettivo dei grossisti diverge dal margine di cui al capoverso 1 o lo sconto effettivo dei fabbricanti diverge dallo sconto di cui al capoverso 2, si detrae il margine effettivo dei grossisti o lo sconto effettivo dei fabbricanti.
 
 [^34b-1]: Introdotto dal n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
-[^34b-2]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^34b-2]: Nuovo testo giusta il n. I dellʼO del DFI del 19 apr. 2023, in vigore dal 1° mag. 2023 ([RU 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)). Vedi anche le disp. trans. di detta mod. alla fine del testo.
+[^34b-3]: Nuovo testo giusta il n. I dellʼO del DFI del 19 apr. 2023, in vigore dal 1° mag. 2023 ([RU 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)).
+[^34b-4]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
 
 #### Art. 34c
 
@@ -2091,6 +2093,14 @@ Gli assicuratori applicano il disciplinamento dell’aliquota percentuale previs
 
 L’assicurazione assume i costi delle prestazioni di psicoterapia delegata fino a un massimo di sei mesi dall’entrata in vigore della modifica del 23 giugno 2021.
 
+## Disposizione transitoria della modifica del 19 aprile 2023
+
+[^u15-1]
+
+[^u15-1]: [RU 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)
+
+L’articolo 34*b* capoverso 2 lettera a si applica anche alle procedure che al momento dell’entrata in vigore della modifica del 19 aprile 2023 sono pendenti presso l’UFSP.
+
 Allegato 1[^t-2]
 
 (art. 1)
@@ -2143,5 +2153,5 @@ Allegato 4[^t-6]
 
 [^annex4-lvlu1-1]
 
-[^t-6]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 2 giu. 2005 ([RU 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470)), dal n. II cpv. 4 dell’O del DFI del 7 feb. 2020 ([RU 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), dal n. II cpv. 5 dell’O del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
-[^annex4-lvlu1-1]: Lʼelenco può essere consultata all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Medicamenti &gt; Elenco dei medicamenti con tariffa (EMT)
+[^t-6]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 2 giu. 2005 ([RU 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470)), dal n. II cpv. 4 dell’O del DFI del 7 feb. 2020 ([RU 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), dal n. II cpv. 5 dell’O del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)) e dal n. II dell’O del DFI del 19 apr. 2023, in vigore dal 1° mag. 2023 ([RU 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)).
+[^annex4-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/195](https://fedlex.data.admin.ch/eli/oc/2023/195) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
