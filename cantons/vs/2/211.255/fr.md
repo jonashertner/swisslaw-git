@@ -4,13 +4,13 @@ number: "211.255"
 title: "Règlement fixant les frais perçus par les autorités de protection de l'enfant et de l'adulte"
 short: ReFA
 language: fr
-version: 2023-01-01
-valid_until: 2023-04-30
-version_adopted: 2022-09-28
+version: 2023-05-01
+valid_until: 2023-12-31
+version_adopted: 2023-04-26
 adopted: 2022-09-28
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.255"
-pdf: "https://lex.vs.ch/api/fr/versions/3074/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3212/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3074/pdf_file"
 
 (ReFA)
 
-du 28.09.2022 (état 01.01.2023)
+du 28.09.2022 (état 01.05.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -124,7 +124,7 @@ ordonne:
 
 <sup>1</sup> Un émolument est perçu:
 
-- a) 50 francs, pour l'établissement d'un duplicata ou d'une attestation;
+- a) 20 francs, pour l'établissement d'un duplicata ou d'une attestation;
 - b) 50 centimes la page, pour des photocopies.
 
 RCV RO/AGS 2022-072

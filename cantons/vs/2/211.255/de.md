@@ -4,13 +4,13 @@ number: "211.255"
 title: Reglement über die Festsetzung der Kosten der Kindes- und Erwachsenenschutzbehörden
 short: ReKK
 language: de
-version: 2023-01-01
-valid_until: 2023-04-30
-version_adopted: 2022-09-28
+version: 2023-05-01
+valid_until: 2023-12-31
+version_adopted: 2023-04-26
 adopted: 2022-09-28
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.255"
-pdf: "https://lex.vs.ch/api/de/versions/3074/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3212/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3074/pdf_file"
 
 (ReKK)
 
-vom 28.09.2022 (Stand 01.01.2023)
+vom 28.09.2022 (Stand 01.05.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -124,7 +124,7 @@ verordnet:
 
 <sup>1</sup> Als Gebühr wird verrechnet:
 
-- a) 50 Franken für die Ausstellung eines Duplikats oder einer Bescheinigung;
+- a) 20 Franken für die Ausstellung eines Duplikats oder einer Bescheinigung;
 - b) 50 Rappen pro Seite für Fotokopien.
 
 CSW RO/AGS 2022-072
