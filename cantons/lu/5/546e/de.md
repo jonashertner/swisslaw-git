@@ -1,22 +1,22 @@
 ---
 canton: LU
 number: 546e
-title: Studien- und Prüfungsordnung für den Bachelor in Gesundheitswissenschaften des Departements Gesundheitswissenschaften und Medizin der Universität Luzern
+title: Studien- und Prüfungsordnung für den Bachelor of Science in Gesundheitswissenschaften der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern
 language: de
-version: 2021-08-01
-valid_until: 2023-04-30
-version_adopted: 2020-07-06
+version: 2023-05-01
+valid_until: 2024-01-31
+version_adopted: 2023-04-05
 adopted: 2020-07-06
 in_force: 2021-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/546e"
-pdf: "https://srl.lu.ch/api/de/versions/3782/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4073/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Studien- und Prüfungsordnung für den Bachelor in Gesundheitswissenschaften des Departements Gesundheitswissenschaften und Medizin der Universität Luzern
+# Studien- und Prüfungsordnung für den Bachelor of Science in Gesundheitswissenschaften der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern
 
-vom 06.07.2020 (Stand 01.08.2021)
+vom 06.07.2020 (Stand 01.05.2023)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -34,44 +34,44 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement regelt die Zulassung zu den Angeboten, die Organisation und die Voraussetzungen zur Titelverleihung des Bachelorstudiums in Gesundheitswissenschaften am Departement Gesundheitswissenschaften und Medizin (nachfolgend Departement).
+<sup>1</sup> Dieses Reglement regelt die Zulassung zu den Angeboten, die Organisation und die Voraussetzungen zur Titelverleihung des Bachelorstudiums in Gesundheitswissenschaften an der Fakultät für Gesundheitswissenschaften und Medizin (nachfolgend Fakultät).
 
-<sup>2</sup> Es legt die Grundsätze des Bachelorstudiums sowie der dazu gehörigen Leistungskontrollen fest und gilt für alle Studierenden, die im Rahmen des Studiengangs am Departement studieren.
+<sup>2</sup> Es legt die Grundsätze des Bachelorstudiums sowie der dazu gehörigen Leistungskontrollen fest und gilt für alle Studierenden, die im Rahmen des Studiengangs an der Fakultät studieren.
 
 <sup>3</sup> Das Reglement gilt ebenfalls für:
 
-- a. Studierende anderer Fakultäten, Universitäten und Hochschulen, die am Departement freie Studienleistungen im Rahmen des Bachelorstudiengangs beziehen,
-- b. Mobilitätsstudierende, die am Departement ECTS-Punkte erwerben.
+- a. Studierende anderer Fakultäten, Universitäten und Hochschulen, die an der Fakultät freie Studienleistungen im Rahmen des Bachelorstudiengangs beziehen,
+- b. Mobilitätsstudierende, die an der Fakultät ECTS-Punkte erwerben.
 
 <sup>4</sup> Vorbehalten bleiben Kooperationsvereinbarungen mit anderen Universitäten und Hochschulen und entsprechende gemeinsame Reglemente sowie allgemeine Abkommen.
 
-<sup>5</sup> Einzelheiten können in einer Wegleitung geregelt werden.
+<sup>5</sup> …
 
 #### § 2
 
 **Regelstudiendauer und Studienbeginn**
 
-<sup>1</sup> Der Bachelorstudiengang BSc (Bachelor of Science) Gesundheitswissenschaften umfasst 180 ECTS und hat eine Regelstudiendauer von sechs Semestern.
+<sup>1</sup> Der Bachelorstudiengang Bachelor of Science (BSc) Gesundheitswissenschaften umfasst 180 ECTS-Punkte und hat eine Regelstudiendauer von sechs Semestern.
 
 <sup>2</sup> Ein Teilzeitstudium ist möglich. Die Studiendauer verlängert sich entsprechend.
 
-<sup>3</sup> Der Bachelorstudiengang BSc Gesundheitswissenschaften beginnt jeweils einmal im Jahr zum Herbstsemester. Ein Studienbeginn zum Frühjahrssemester ist in begründeten Fällen möglich.
+<sup>3</sup> Der Bachelorstudiengang BSc Gesundheitswissenschaften beginnt jeweils einmal im Jahr zum Herbstsemester. Ein Studienbeginn zum Frühjahrssemester ist möglich.
 
 #### § 3
 
 **Verliehener Grad**
 
-<sup>1</sup> Absolventinnen und Absolventen des Bachelorstudiengangs BSc Gesundheitswissenschaften des Departements wird der Grad «Bachelor of Science in Gesundheitswissenschaften der Universität Luzern» (Englisch: BSc in Health Sciences of the University of Lucerne) verliehen.
+<sup>1</sup> Absolventinnen und Absolventen des Bachelorstudiengangs BSc Gesundheitswissenschaften der Fakultät wird der Grad «Bachelor of Science in Gesundheitswissenschaften der Universität Luzern» (Englisch: BSc in Health Sciences of the University of Lucerne) verliehen.
 
 #### § 4
 
 **Musterstudienplan, Lehrorganisation und Lehrformen**
 
-<sup>1</sup> Zur Orientierung der Studierenden und zur Erleichterung ihrer Studienplanung stellt das Departement Musterstudienpläne zur Verfügung.
+<sup>1</sup> Zur Orientierung der Studierenden und zur Erleichterung ihrer Studienplanung stellt die Fakultät Musterstudienpläne zur Verfügung.
 
-<sup>2</sup> Das Departement organisiert das Lehrangebot im Rahmen seiner Kapazitäten so, dass die im Musterstudienplan aufgeführten Lehrveranstaltungen regelmässig und, soweit es sich um Pflichtlehrveranstaltungen handelt, für das Vollzeitstudium kollisionsfrei angeboten werden.
+<sup>2</sup> Die Fakultät organisiert das Lehrangebot im Rahmen seiner Kapazitäten so, dass die im Musterstudienplan aufgeführten Lehrveranstaltungen regelmässig und, soweit es sich um Pflichtlehrveranstaltungen handelt, für das Vollzeitstudium kollisionsfrei angeboten werden.
 
-<sup>3</sup> Das Departement sorgt dafür, dass
+<sup>3</sup> Die Fakultät sorgt dafür, dass
 
 - a. die Dozentinnen und Dozenten Lehrkonzepte einsetzen, welche dem jeweiligen Stand der Hochschuldidaktik entsprechen,
 - b. sich die Dozentinnen und Dozenten im Bereich der Hochschuldidaktik und -pädagogik weiterbilden.
@@ -80,45 +80,45 @@ beschliesst:
 
 **Qualitätssicherung**
 
-<sup>1</sup> Die Qualität des Studiengangs und die Qualität der einzelnen Lehrveranstaltungen und Studieninhalte werden regelmässig und gemäss den Vorgaben der Universität überprüft. Zusätzliche Qualitätssicherungsmassnahmen können durch die Departementsleitung angeordnet werden.
+<sup>1</sup> Die Qualität des Studiengangs und die Qualität der einzelnen Lehrveranstaltungen und Studieninhalte werden regelmässig und gemäss den Vorgaben der Universität überprüft. Zusätzliche Qualitätssicherungsmassnahmen können durch die Fakultätsleitung angeordnet werden.
 
 ## 2 Organe und Zuständigkeiten
 
 #### § 6
 
-**Departementsvorsteherin oder Departementsvorsteher**
+**Dekanin oder Dekan**
 
-<sup>1</sup> Die Departementsvorsteherin oder der Departementsvorsteher ist für den Studienbetrieb verantwortlich und entscheidet im Regelungsbereich dieser Studien- und Prüfungsordnung über alle Angelegenheiten, soweit nicht ein anderes Organ für zuständig erklärt wird.
+<sup>1</sup> Die Dekanin oder der Dekan ist für den Studienbetrieb verantwortlich und entscheidet im Regelungsbereich dieser Studien- und Prüfungsordnung über alle Angelegenheiten, soweit nicht ein anderes Organ für zuständig erklärt wird.
 
 #### § 7
 
-**Departementsversammlung**
+**Fakultätsversammlung**
 
-<sup>1</sup> Die Departementsversammlung erlässt die Wegleitung zu dieser Studien- und Prüfungsordnung.
+<sup>1</sup> Die Fakultätsversammlung erlässt die Wegleitung zu dieser Studien- und Prüfungsordnung.
 
 #### § 8
 
 **Akademische Direktorin oder akademischer Direktor**
 
-<sup>1</sup> Die Departementsversammlung setzt eine hauptamtliche Professorin oder einen hauptamtlichen Professor als akademische Direktorin oder als akademischen Direktor ein, welche oder welcher die akademische Leitung des Studiengangs innehat, und umschreibt die Aufgaben und Verantwortlichkeiten.
+<sup>1</sup> Die Fakultätsversammlung setzt eine Professorin oder einen Professor als akademische Direktorin oder als akademischen Direktor ein, welche oder welcher die akademische Leitung des Studiengangs innehat, und umschreibt die Aufgaben und Verantwortlichkeiten.
 
 #### § 9
 
 **Studien- und Prüfungsausschuss**
 
-<sup>1</sup> Die Departementsversammlung kann einzelne Aufgaben dem Studien- und Prüfungsausschuss (StuPA) übertragen.
+<sup>1</sup> Die Fakultätsversammlung kann einzelne Aufgaben dem Studien- und Prüfungsausschuss (StuPA) übertragen.
 
 <sup>2</sup> Dem StuPA obliegt insbesondere die Organisation und Durchführung von Prüfungen und die Entscheidung in Zulassungsfragen.
 
 <sup>3</sup> Er legt die Prüfungsmodalitäten der Aufnahmeprüfung für Personen ohne anerkannte Hochschulzulassung fest.
 
-<sup>4</sup> Der StuPA kann einzelne Aufgaben an die Departementsadministration delegieren.
+<sup>4</sup> Der StuPA kann einzelne Aufgaben an das Studiendekanat delegieren.
 
 #### § 10
 
-**Studienadministration**
+**Studiendekanat**
 
-<sup>1</sup> Die Leiterin oder der Leiter des Studienzentrums ist für die operative Umsetzung dieser Ordnung und der Wegleitung verantwortlich.
+<sup>1</sup> Die Leiterin oder der Leiter des Studiendekanats ist für die operative Umsetzung dieser Ordnung und der Wegleitung verantwortlich.
 
 ## 3 Zulassungs- und Studienvoraussetzungen
 
@@ -126,9 +126,11 @@ beschliesst:
 
 **Allgemeines**
 
-<sup>1</sup> Für die Zulassung zum Bachelorstudiengang BSc Gesundheitswissenschaften gelten die Bedingungen gemäss Universitätsstatut und die darauf gestützten Zulassungsrichtlinien der Universität Luzern.
+<sup>1</sup> Für die Zulassung zum Bachelorstudiengang BSc Gesundheitswissenschaften gelten die Bedingungen gemäss Universitätsstatut[^11-1] und die darauf gestützten Zulassungsrichtlinien der Universität Luzern.
 
 <sup>2</sup> Zum Bachelorstudiengang BSc Gesundheitswissenschaften wird nicht zugelassen, wer in derselben Studienrichtung an einer anderen Hochschule des In- oder Auslandes wegen ungenügender Leistungen endgültig abgewiesen worden ist.
+
+[^11-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 ## 4 Studienstruktur
 
@@ -138,9 +140,9 @@ beschliesst:
 
 <sup>1</sup> Das Bachelorstudium besteht aus fünf Modulen sowie einer Bachelorarbeit.
 
-<sup>2</sup> Aufbau, Module, Lehrveranstaltungen, Credits sowie spezifische Sprach- und Prüfungsanforderungen sind in der Wegleitung geregelt.
+<sup>2</sup> Aufbau, Module, Lehrveranstaltungen, ECTS-Punkte sowie spezifische Sprach- und Prüfungsanforderungen sind in der Wegleitung geregelt.
 
-<sup>3</sup> Die Wahl weiterer, im Studienplan nicht vorgesehener und für den Abschluss nicht anrechenbarer Lehrveranstaltungen ist zulässig. Diese werden im Diplomzusatz (Diploma Supplement) ausgewiesen.
+<sup>3</sup> Die Wahl weiterer, im Studienplan nicht vorgesehener und für den Abschluss nicht anrechenbarer Lehrveranstaltungen ist zulässig. Diese werden im Leistungsnachweis ausgewiesen.
 
 #### § 13
 
@@ -152,7 +154,7 @@ beschliesst:
 
 **Detailregelungen**
 
-<sup>1</sup> Das Anmeldeverfahren, die Abläufe und die detaillierten Anforderungen sind in der Wegleitung geregelt.
+<sup>1</sup> Anmeldeverfahren, Abläufe und detaillierte Anforderungen sind in der Wegleitung geregelt.
 
 #### § 15
 
@@ -166,23 +168,23 @@ beschliesst:
 
 <sup>4</sup> Die Bewilligung für eine Verlängerung der Studienzeit wird höchstens für zwei Semester erteilt. Danach ist gegebenenfalls ein neues Verlängerungsgesuch für höchstens zwei Semester zu stellen.
 
-## 5 Studienleistungen, Credits und Prüfungen
+## 5 Studienleistungen, ECTS-Punkte und Prüfungen
 
 #### § 16
 
-**Berechnung der Studienleistungen in Credits**
+**Berechnung der Studienleistungen in ECTS-Punkten**
 
-<sup>1</sup> Das Departement berechnet die Studienleistungen in Credits gemäss dem «European Credit Transfer and Accumulation System» (ECTS).
+<sup>1</sup> Die Fakultät berechnet die Studienleistungen in ECTS-Punkten gemäss dem «European Credit Transfer and Accumulation System» (ECTS).
 
-<sup>2</sup> Der Bachelorstudiengang BSc Gesundheitswissenschaften beruht auf Studienleistungen von durchschnittlich 30 Credits für jedes Semester (bei Vollzeitstudium).
+<sup>2</sup> Der Bachelorstudiengang BSc Gesundheitswissenschaften beruht auf Studienleistungen von durchschnittlich 30 ECTS-Punkten für jedes Semester (bei Vollzeitstudium).
 
-<sup>3</sup> Einem Credit entspricht ein durchschnittliches studentisches Arbeitspensum von 25 bis 30 Stunden.
+<sup>3</sup> Einem ECTS-Punkt entspricht ein durchschnittliches studentisches Arbeitspensum von 25 bis 30 Stunden.
 
 #### § 17
 
-**Erwerb von Credits**
+**Erwerb von ECTS-Punkten**
 
-<sup>1</sup> Credits werden aufgrund erfolgreich erbrachter Leistungsnachweise erworben, insbesondere durch
+<sup>1</sup> ECTS-Punkte werden aufgrund erfolgreich erbrachter Leistungsnachweise erworben, insbesondere durch
 
 - a. schriftliche oder mündliche Prüfungen,
 - b. schriftliche Arbeiten,
@@ -204,7 +206,7 @@ beschliesst:
 
 <sup>1</sup> Studierende erhalten für alle erbrachten Studienleistungen einen Leistungsnachweis.
 
-<sup>2</sup> Leistungsnachweise enthalten den Titel der Lehrveranstaltung, die Anzahl der Credits sowie die Wertung. Unbenotete Leistungsnachweise werden mit bestanden oder nicht bestanden gewertet.
+<sup>2</sup> Leistungsnachweise enthalten den Titel der Lehrveranstaltung, die Anzahl der ECTS-Punkte sowie die Wertung. Unbenotete Leistungsnachweise werden mit bestanden oder nicht bestanden gewertet.
 
 #### § 20
 
@@ -212,7 +214,7 @@ beschliesst:
 
 <sup>1</sup> Prüfungen und schriftliche Arbeiten werden mit Noten von 6 bis 1 in ganzen oder halben Noten bewertet. Einzelne Pflichtfächer sowie Wahlfächer können ausnahmsweise auch unbenotete, das heisst mit «bestanden» beziehungsweise «nicht bestanden» bewertete Studienleistungen umfassen.
 
-<sup>2</sup> Eine Note unter 4,0 ist eine ungenügende Note.
+<sup>2</sup> Eine Note unter 4 ist eine ungenügende Note.
 
 <sup>3</sup> Den einzelnen Noten entsprechen die folgenden Wertungen:
 
@@ -220,12 +222,13 @@ beschliesst:
 - 5,5 sehr gut
 - 5 gut
 - 4,5 befriedigend
+- 4 genügend
 - 3,5 mangelhaft
 - 3 schlecht
 - 2,5 schlecht bis sehr schlecht
 - 2 sehr schlecht
 - 1,5 sehr schlecht bis unbrauchbar
-- 1 unbrauchbar beziehungsweise unlauteres Prüfungsverhalten
+- 1 unbrauchbar beziehungsweise unlauteres Prüfungsverhalten.
 
 #### § 21
 
@@ -237,7 +240,7 @@ beschliesst:
 
 <sup>3</sup> Die Anrechnung von Studienleistungen im Rahmen von Studierendenmobilität erfolgt mittels Learning Agreement.
 
-<sup>4</sup> Im Bachelorstudium können extern erbrachte Leistungen im Umfang von insgesamt maximal 60 Credits angerechnet werden.
+<sup>4</sup> Im Bachelorstudium können extern erbrachte Leistungen im Umfang von insgesamt maximal 60 ECTS-Punkten angerechnet werden.
 
 <sup>5</sup> Leistungen, die bereits für einen Studienabschluss angerechnet worden sind, können nicht für einen weiteren Studienabschluss angerechnet werden.
 
@@ -249,9 +252,9 @@ beschliesst:
 
 <sup>1</sup> Während des Studiums können Studierende maximal zwei Semester an einer anderen universitären Hochschule absolvieren.
 
-<sup>2</sup> Das Departement fördert die Mobilität durch den Abschluss von Vereinbarungen mit Universitäten und Hochschulen des In- und Auslandes.
+<sup>2</sup> Die Fakultät fördert die Mobilität durch den Abschluss von Vereinbarungen mit Universitäten und Hochschulen des In- und Auslandes.
 
-<sup>3</sup> Eine Anrechnung der extern erworbenen Credits an den Studiengang ist gemäss § 21 möglich.
+<sup>3</sup> Eine Anrechnung der extern erworbenen ECTS-Punkte an den Studiengang ist gemäss § 21 möglich.
 
 #### § 23
 
@@ -313,13 +316,13 @@ beschliesst:
 
 **Prüfungseinsicht**
 
-<sup>1</sup> Den Studierenden steht das Recht auf Einsicht in die Prüfungsunterlagen zu. Details sind im Merkblatt «Prüfungseinsicht» beschrieben.
+<sup>1</sup> Den Studierenden steht das Recht auf Einsicht in die Prüfungsunterlagen zu. Details sind in der Wegleitung beschrieben.
 
 #### § 31
 
 **Studienausschluss**
 
-<sup>1</sup> Die Credits aller nicht bestandenen Studienleistungen (Fehlversuche) werden summiert, ausgenommen ist ein Fehlversuch bei der Bachelorarbeit. Erreicht die Gesamtsumme aller nicht bestandenen Studienleistungen das Äquivalent von 40 Credits, wird die Studentin oder der Student vom Studium endgültig ausgeschlossen. Der Ausschluss wird vom Departement verfügt.
+<sup>1</sup> Die ECTS-Punkte aller nicht bestandenen Studienleistungen (Fehlversuche) werden summiert, ausgenommen ist ein Fehlversuch bei der Bachelorarbeit. Erreicht die Gesamtsumme aller nicht bestandenen Studienleistungen das Äquivalent von 40 ECTS-Punkten, wird die oder der Studierende vom Studium endgültig ausgeschlossen. Der Ausschluss wird von der Fakultät verfügt.
 
 <sup>2</sup> Ebenfalls vom Studium ausgeschlossen wird, wer die Bachelorarbeit auch im zweiten Versuch nicht bestanden hat.
 
@@ -340,7 +343,7 @@ beschliesst:
 - c. die Ruhe im Raum absichtlich zu stören,
 - d. weiterzuschreiben, nachdem durch die Prüfungsaufsicht das Ende der Prüfungszeit erklärt hat.
 
-<sup>2</sup> Unkorrektheiten haben das Nichtbestehen der Prüfung und die Vergabe der Note 1 zur Folge. Vorbehalten bleiben Sanktionen der Universität gemäss § 36 des Universitätsstatuts[^32-1].
+<sup>2</sup> Unkorrektheiten haben das Nichtbestehen der Prüfung und die Vergabe der Note 1 zur Folge. Vorbehalten bleiben Sanktionen der Universität nach den Bestimmungen des Universitätsstatuts[^32-1].
 
 [^32-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
@@ -354,7 +357,7 @@ beschliesst:
 
 <sup>3</sup> Wird die Täuschung erst nach Beendigung des Studiums bekannt, kann der verliehene Grad entzogen werden.
 
-<sup>4</sup> Die Durchsetzung des Plagiatsverbots orientiert sich am Merkblatt «Plagiate. Prävention und Massnahmen» der universitären Lehrkommission vom 5. Juni 2008.
+<sup>4</sup> …
 
 ## 6 Bachelorarbeit und Studienabschluss
 
@@ -362,25 +365,25 @@ beschliesst:
 
 **Voraussetzungen**
 
-<sup>1</sup> Voraussetzung für die Zulassung zur Bachelorarbeit ist die erfolgreiche Absolvierung des ersten Studienjahres (60 Credits) sowie der Erwerb von mindestens 48 Credits im zweiten Studienjahr sowie ein gewichteter Gesamtnotenschnitt von mindestens 4,0.
+<sup>1</sup> Voraussetzung für die Zulassung zur Bachelorarbeit ist die erfolgreiche Absolvierung des ersten Studienjahres (60 ECTS-Punkte) sowie der Erwerb von mindestens 48 ECTS-Punkten im zweiten Studienjahr.
 
 <sup>2</sup> Die Bachelorarbeit muss eine wissenschaftliche Fragestellung aus dem Gebiet der Gesundheitswissenschaften zum Gegenstand haben.
 
 <sup>3</sup> Die Bachelorarbeit ist innerhalb einer Frist von drei Monaten am Studienzentrum einzureichen.
 
-<sup>4</sup> Der Abgabetermin der Bachelorarbeit wird vom Departement kommuniziert. Details werden im Merkblatt zur Bachelorarbeit geregelt.
+<sup>4</sup> Der Abgabetermin der Bachelorarbeit wird von der Fakultät kommuniziert. Details werden in der Wegleitung geregelt.
 
 #### § 35
 
 **Leitung, Begutachtung und Betreuung der Bachelorarbeit**
 
-<sup>1</sup> Das Thema der Bachelorarbeit wird von einer Professorin oder einem Professor oder von einer oder einem Lehrbeauftragten des Departements mit Promotion im Einvernehmen mit der Kandidatin oder dem Kandidaten gestellt. Mit der Ausgabe des Themas übernimmt die jeweilige Professorin resp. der jeweilige Professor oder die resp. der jeweilige Lehrbeauftragte auch die Leitung und Begutachtung der Bachelorarbeit. Zur Betreuung der Bachelorarbeit können Lehrbeauftragte mit einem Masterabschluss einer Universität oder Hochschule vorgesehen werden.
+<sup>1</sup> Das Thema der Bachelorarbeit wird von einer Professorin oder einem Professor oder von einer oder einem Lehrbeauftragten der Fakultät mit Promotion im Einvernehmen mit der Kandidatin oder dem Kandidaten gestellt. Mit der Ausgabe des Themas übernimmt die jeweilige Professorin resp. der jeweilige Professor oder die resp. der jeweilige Lehrbeauftragte auch die Leitung und Begutachtung der Bachelorarbeit. Zur Betreuung der Bachelorarbeit können Lehrbeauftragte mit einem Masterabschluss einer Universität oder Hochschule vorgesehen werden.
 
 #### § 36
 
 **Bestehen, Nichtbestehen und Wiederholen der Bachelorarbeit**
 
-<sup>1</sup> Zum Bestehen der Bachelorarbeit muss mindestens die Note 4,0 erzielt werden. Bestandene Bachelorarbeiten können nicht wiederholt werden.
+<sup>1</sup> Zum Bestehen der Bachelorarbeit muss mindestens die Note 4 erzielt werden. Bestandene Bachelorarbeiten können nicht wiederholt werden.
 
 <sup>2</sup> Eine als ungenügend beurteilte Bachelorarbeit kann innerhalb einer Frist von vier Wochen nach Notenbekanntgabe überarbeitet und erneut eingereicht werden. Wird auch die überarbeitete Fassung als ungenügend bewertet, gilt die Bachelorarbeit als nicht bestanden.
 
@@ -390,9 +393,9 @@ beschliesst:
 
 **Studienabschluss und Zusammensetzung der Gesamtnote**
 
-<sup>1</sup> Ein Bachelorstudium schliesst ab, wer alle Studienleistungen gemäss gültiger Wegleitung zum Studienaufbau bestanden und mit einer Gesamtnote von mindestens 4,0 abgeschlossen hat.
+<sup>1</sup> Ein Bachelorstudium schliesst ab, wer alle Studienleistungen gemäss Wegleitung zum Studienaufbau bestanden hat.
 
-<sup>2</sup> Die Abschlussnote des Bachelorstudiums wird als nach ECTS-Credits gewichteter Durchschnitt aller benoteten Studienleistungen berechnet. Die Berechnung des Notenschnitts erfolgt exakt, das Ergebnis wird auf zwei Nachkommastellen gerundet.
+<sup>2</sup> Die Abschlussnote des Bachelorstudiums wird als nach ECTS-Punkten gewichteter Durchschnitt aller bestandenen und benoteten Studienleistungen berechnet. Die Berechnung des Notenschnitts erfolgt exakt, das Ergebnis wird auf zwei Nachkommastellen gerundet.
 
 <sup>3</sup> Sind extern erbrachte Studienleistungen anzurechnen, legt der StuPA die Zusammensetzung der Gesamtnote fest.
 
@@ -412,19 +415,17 @@ beschliesst:
 
 **Diplom und Diplomzusatz**
 
-<sup>1</sup> Das Diplom bestätigt den erfolgreichen Abschluss des Bachelorstudiengangs BSc Gesundheitswissenschaften. Es enthält die Bezeichnung des Studiengangs, den erworbenen Grad, den Titel der Bachelorarbeit, die Gesamtnote und das verliehene Prädikat.
+<sup>1</sup> Das Diplom bestätigt den erfolgreichen Abschluss des Bachelorstudiengangs BSc Gesundheitswissenschaften. Es enthält die Bezeichnung des Studiengangs, den erworbenen Grad, die Gesamtnote und das verliehene Prädikat.
 
-<sup>2</sup> Das Diplom wird von der Departementsvorsteherin oder dem Departementsvorsteher unterzeichnet. Die Namen der Diplomierten werden veröffentlicht.
+<sup>2</sup> Das Diplom wird von der Dekanin oder dem Dekan unterzeichnet. Die Namen der Diplomierten werden veröffentlicht.
 
-<sup>3</sup> Mit dem Diplom erhält die Absolventin oder der Absolvent einen Diplomzusatz (Diploma Supplement) ausgestellt. Dieser enthält detaillierte Angaben zum absolvierten Studium und zu erzielten Einzelbewertungen aller Studienleistungen.
+<sup>3</sup> Mit dem Diplom erhält die Absolventin oder der Absolvent einen Diplomzusatz (Diploma Supplement) und einen Leistungsnachweis ausgestellt. Der Diplomzusatz enthält detaillierte Angaben zum absolvierten Studium, der Leistungsnachweis zu erzielten Einzelbewertungen aller Studienleistungen.
 
 ## 7 Schlussbestimmungen
 
 #### § 40
 
-**Wegleitung**
-
-<sup>1</sup> Die Departementsversammlung formuliert eine Wegleitung.
+**…**
 
 #### § 41
 
@@ -432,7 +433,7 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für Studien, Prüfungen, Diplome, Abschlusszeugnisse und Zertifikate richten sich nach der Schulgeldverordnung[^41-1].
 
-[^41-1]: SRL Nr. [44](https://srl.lu.ch/data/44/de)
+[^41-1]: SRL Nr. [544](https://srl.lu.ch/data/544/de)
 
 #### § 42
 
