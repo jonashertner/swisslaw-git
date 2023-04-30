@@ -4,11 +4,11 @@ number: "715.1"
 title: Verordnung über den Vollzug der Chemikaliengesetzgebung (VVChem)
 short: VVChem
 language: de
-version: "2016-11-01"
-nachtrag: "95"
-valid_until: 2023-05-01
+version: "2023-05-01"
+nachtrag: "121"
+valid_until: 2024-01-01
 adopted: 2007-06-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-715_1-2007_06_06-2007_07_01-095.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-715_1-2007_06_06-2007_07_01-121.html"
 text: pdf
 ---
 
@@ -24,7 +24,7 @@ gestützt auf Art. 32 des Chemikaliengesetzes vom 15. Dezember 2000 (ChemG)[^t-3
 
 beschliesst:
 
-[^t-1]: Fassung gemäss RRB vom 13. Juli 2016 (OS 71, 429; ABl 2016-07-22). In Kraft seit 1. November 2016. 1. 1. 17 - 95 5
+[^t-1]: Fassung gemäss RRB vom 13. Juli 2016 (OS 71, 429; ABl 2016-07-22). In Kraft seit 1. November 2016.
 [^t-2]: OS 62, 169. Begründung siehe ABl 2007, 1022.
 [^t-3]: SR 813.1.
 [^t-4]: SR 814.20.
@@ -57,7 +57,7 @@ beschliesst:
 [^2-1]: SR 814.81.
 [^2-2]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 619; ABl 2011, 2320). In Kraft seit 1. November 2011.
 [^2-3]: SR 813.1.
-[^2-4]: Fassung gemäss RRB vom 13. Juli 2016 (OS 71, 429; ABl 2016-07-22). In Kraft seit 1. November 2016. 1. 1. 17 - 95 5
+[^2-4]: Fassung gemäss RRB vom 13. Juli 2016 (OS 71, 429; ABl 2016-07-22). In Kraft seit 1. November 2016.
 
 #### § 3
 
@@ -67,7 +67,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 17 - 95
+- 1\. 7. 23 - 121
 
 <sup>2</sup> Die Betriebe melden der Fachstelle die Chemikalien-Ansprechperson gemäss Art. 25 Abs. 2 ChemG[^3-1].
 
@@ -141,36 +141,23 @@ beschliesst:
 
 **3**
 
-- 1\. 1. 17 - 95 § 8. <sup>1</sup> Die Vollzugshandlungen sind gebührenpflichtig. Die Höhe der Gebühr richtet sich nach der Gebührenordnung für die Verwaltungsbehörden[^3-9].
+- 1\. 7. 23 - 121 § 8. <sup>1</sup> Die Vollzugshandlungen sind gebührenpflichtig. Die Höhe der Gebühr richtet sich nach der Gebührenordnung für die Verwaltungsbehörden[^3-9].
 
 **Gebühren**
 
 <sup>2</sup> Nicht gebührenpflichtig sind:
 
-- a. Kontrollen und Untersuchungen, die zu keinen Beanstandungen führen,
+a.[^3-10] Kontrollen und Untersuchungen, die zu keinen oder nur geringfügigen Beanstandungen führen,
 
 - b. Auskünfte und Beratungen, die unter den allgemeinen Informations- und Beratungsauftrag fallen, sofern sie nicht mit einem besonderen Aufwand verbunden sind.
 
 <sup>3</sup> Für Kontrollen und Untersuchungen des Kantonalen Labors finden die Tarife der Verfügung über die Gebühren des Kantonalen Labors analog Anwendung.[^3-2]
 
-<sup>4</sup> Die Gebührenordnung zum Vollzug des Umweltrechts[^3-10], das Reglement der Volkswirtschaftsdirektion vom 1. September 1992 betreffend Gebührentarif für Arbeitsinspektion und Umweltschutz in Industrie und Gewerbe sowie Art. 29 Abs. 4 und 5 DüV[^3-7] bleiben vorbehalten.
-
-[^3-1]: SR 813.1.
-[^3-2]: Fassung gemäss RRB vom 13. Juli 2016 (OS 71, 429; ABl 2016-07-22). In Kraft seit 1. November 2016. 1. 1. 17 - 95 5
-[^3-3]: SR 813.11.
-[^3-4]: SR 813.12.
-[^3-5]: SR 814.81.
-[^3-6]: SR 916.161.
-[^3-7]: SR 916.171.
-[^3-8]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 619; ABl 2011, 2320). In Kraft seit 1. November 2011.
-[^3-9]: LS 682.
-[^3-10]: LS 710.2.
-
-#### § 9
+<sup>4</sup> Die Gebührenverordnung zum Vollzug des Umweltrechts vom 3. November 1993 sowie Art. 29 Abs. 4 und 5 DüV[^3-7] bleiben vorbehalten.[^3-10]
 
 **Datenaustausch**
 
-<sup>1</sup> Die für den Vollzug der Chemikaliengesetzgebung zuständigen Behörden sorgen für die gegenseitige Bekanntgabe von Daten, soweit dies für die Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Sie können zu diesem Zweck automatisierte Abrufverfahren einrichten.
+§ 9. <sup>1</sup> Die für den Vollzug der Chemikaliengesetzgebung zuständigen Behörden sorgen für die gegenseitige Bekanntgabe von Daten, soweit dies für die Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Sie können zu diesem Zweck automatisierte Abrufverfahren einrichten.
 
 <sup>2</sup> Die Bekanntgabe von vertraulichen Daten über die Zusammensetzung von Chemikalien ist nur statthaft, wenn diese a. durch eine Strafverfolgungsbehörde verlangt wird,
 
@@ -178,13 +165,24 @@ beschliesst:
 
 - c. der Abwehr einer unmittelbar drohenden Gefahr für Leib und Leben oder Gesundheit des Menschen oder für die Umwelt dient.
 
+[^3-1]: SR 813.1.
+[^3-2]: Fassung gemäss RRB vom 13. Juli 2016 (OS 71, 429; ABl 2016-07-22). In Kraft seit 1. November 2016.
+[^3-3]: SR 813.11.
+[^3-4]: SR 813.12.
+[^3-5]: SR 814.81.
+[^3-6]: SR 916.161.
+[^3-7]: SR 916.171.
+[^3-8]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 619; ABl 2011, 2320). In Kraft seit 1. November 2011.
+[^3-9]: LS 682.
+[^3-10]: Fassung gemäss RRB vom 8. Februar 2023 (OS 78, 138; ABl 2023-02-17). In Kraft seit 1. Mai 2023. 1. 7. 23 - 121 5
+
 #### § 10
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Juli 2007 in Kraft.
 
-[^10-1]: Fassung gemäss RRB vom 13. Juli 2016 (OS 71, 429; ABl 2016-07-22). In Kraft seit 1. November 2016. 1. 1. 17 - 95 5
+[^10-1]: Fassung gemäss RRB vom 13. Juli 2016 (OS 71, 429; ABl 2016-07-22). In Kraft seit 1. November 2016.
 
 ### Anhang
 
@@ -216,13 +214,17 @@ Kontrolle der Information über Batterien und Akkumulatoren an Verkaufsstellen (
 
 - a. Kontrolle der Verwendung von Holzschutzmitteln und Lagerung von behandeltem Holz in Grundwasser-Schutzzonen (AWEL),
 
-- b. Kontrolle der Rücknahme- und Rückgabeverpflichtungen, mit Ausnahme der Marktkontrolle (AWEL).
+- b. Kontrolle der Rücknahme- und Rückgabeverpflichtungen,
+
+mit Ausnahme der Marktkontrolle (AWEL).
 
 2.3 Pflanzenschutzmittel (Anhang 2.5 ChemRRV[^h1KantonalesLabor-1]:
 
 - a. Festlegung von Verwendungseinschränkungen in den Zuströmbereichen Zu und Zo (AWEL),
 
-- b. Kontrolle der Rücknahme- und Rückgabeverpflichtungen, mit Ausnahme der Marktkontrolle (AWEL),
+- b. Kontrolle der Rücknahme- und Rückgabeverpflichtungen,
+
+mit Ausnahme der Marktkontrolle (AWEL),
 
 - c. Ausnahmebewilligungen für die Verwendung von Pflanzenschutzmitteln im Wald (ALN).
 
@@ -252,13 +254,23 @@ Kontrolle der Beigabe von Brennstoffzusätzen (AWEL).
 
 Überwachung der Verwendung in geschlossenen Systemen (AWEL).
 
+2.9[^h1KantonalesLabor-2] Kältemittel (Anhang 2.10 ChemRRV[^h1KantonalesLabor-1]:
+
+- a. Kontrolle der Entsorgungsbetriebe (AWEL),
+
+- b. Überwachung der Vorschriften über Dichtigkeitskontrolle,
+
+Meldepflichten und Wartungsheft (AWEL).
+
 **7**
 
-- 1\. 1. 17 - 95
+- 1\. 7. 23 - 121
 
 [^h1KantonalesLabor-1]: SR 814.81.
+[^h1KantonalesLabor-2]: Eingefügt durch RRB vom 8. Februar 2023 (OS 78, 138; ABl 2023-02-17). In Kraft seit 1. Mai 2023.
 
 ## Weitere Fussnoten
 
+- [4] LS 710.2.
 - [5] LS 817.11.
 - [10] SR 814.01.
