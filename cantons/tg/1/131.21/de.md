@@ -1,24 +1,23 @@
 ---
 canton: TG
 number: "131.21"
-title: Verordnung des Regierungsrates über das Rechnungswesen der Gemeinden
+title: Verordnung über das Rechnungswesen der Gemeinden
 language: de
-version: 2013-06-01
-valid_until: 2023-04-30
-version_adopted: 2013-04-23
+version: 2023-05-01
+version_adopted: 2023-04-25
 adopted: 2013-04-23
 in_force: 2013-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/131.21"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2009/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2654/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über das Rechnungswesen der Gemeinden
+# Verordnung über das Rechnungswesen der Gemeinden
 
-RRV Rechnungswesen der Gemeinden
+Rechnungswesen der Gemeinden
 
-vom 23.04.2013 (Stand 01.06.2013)
+vom 23.04.2013 (Stand 01.05.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -92,10 +91,10 @@ vom 23.04.2013 (Stand 01.06.2013)
 
 <sup>3</sup> Es gelten folgende Aktivierungsgrenzen:
 
-- 1\. Gemeinden bis 1 000 Einwohner — Fr. 25'000
-- 2\. über 1 000 bis 5 000 Einwohner — Fr. 50'000
-- 3\. über 5 000 bis 10 000 Einwohner — Fr. 75'000
-- 4\. über 10 000 Einwohner — Fr. 100'000
+- 1\. Gemeinden bis 1'000 Einwohner — Fr. 25'000
+- 2\. über 1'000 bis 5'000 Einwohner — Fr. 50'000
+- 3\. über 5'000 bis 10'000 Einwohner — Fr. 75'000
+- 4\. über 10'000 Einwohner — Fr. 100'000
 
 <sup>4</sup> Die Aktivierungsgrenze von Fr. 100'000 ist zwingend. Die Aufteilung nach Abs. 3 gilt als Empfehlung für die Festlegung durch die Gemeinde.
 
@@ -107,14 +106,14 @@ vom 23.04.2013 (Stand 01.06.2013)
 
 <sup>1</sup> Die Steuerkraft entspricht dem Steuerertrag zu 100 % und wird aufgrund folgender Faktoren ermittelt:
 
-- 1\. laufende Steuertabelle der natürlichen und juristischen Personen, der ergänzenden Vermögenssteuern, der Kapitalabfindungssteuern sowie der Quellensteuern;
-- 2\. Nachtragstabelle der natürlichen und juristischen Personen;
-- 3\. Abschreibungstabelle der natürlichen und juristischen Personen sowie der pauschalen Steueranrechnung.
+- 1\. laufende Steuertabelle der natürlichen und juristischen Personen, der ergänzenden Vermögenssteuern, der Kapitalabfindungssteuern sowie der Quellensteuern
+- 2\. Nachtragstabelle der natürlichen und juristischen Personen
+- 3\. Abschreibungstabelle der natürlichen und juristischen Personen sowie der pauschalen Steueranrechnung
 
 <sup>2</sup> Nicht in die Berechnung einbezogen werden:
 
-- 1\. Ausgleichs-, Verzugs- und Rückerstattungszinsen;
-- 2\. Abschreibungen von Zinsen.
+- 1\. Ausgleichs-, Verzugs- und Rückerstattungszinsen
+- 2\. Abschreibungen von Zinsen
 
 ## 2. Haushaltsteuerung
 
@@ -138,12 +137,12 @@ vom 23.04.2013 (Stand 01.06.2013)
 
 <sup>1</sup> Der Finanzplan enthält mindestens:
 
-- 1\. die Rahmenbedingungen;
-- 2\. einen Überblick über Aufwand und Ertrag der Erfolgsrechnung;
-- 3\. eine Übersicht über die Investitionen;
-- 4\. den voraussichtlichen Finanzbedarf;
-- 5\. eine Übersicht über die Entwicklung des Vermögens und der Schulden;
-- 6\. die Entwicklung der Finanzkennzahlen bezüglich Verschuldung, Eigenkapital und Selbstfinanzierung.
+- 1\. die Rahmenbedingungen
+- 2\. einen Überblick über Aufwand und Ertrag der Erfolgsrechnung
+- 3\. eine Übersicht über die Investitionen
+- 4\. den voraussichtlichen Finanzbedarf
+- 5\. eine Übersicht über die Entwicklung des Vermögens und der Schulden
+- 6\. die Entwicklung der Finanzkennzahlen bezüglich Verschuldung, Eigenkapital und Selbstfinanzierung
 
 #### § 13
 
@@ -165,8 +164,8 @@ vom 23.04.2013 (Stand 01.06.2013)
 
 <sup>1</sup> Das Budget enthält:
 
-- 1\. zu bewilligende Aufwände und erwartete Erträge in der Erfolgsrechnung;
-- 2\. zu bewilligende Ausgaben und erwartete Einnahmen in der Investitionsrechnung.
+- 1\. zu bewilligende Aufwände und erwartete Erträge in der Erfolgsrechnung
+- 2\. zu bewilligende Ausgaben und erwartete Einnahmen in der Investitionsrechnung
 
 <sup>2</sup> Mit dem Budget sind die Stimmberechtigten über die Finanzierung und die wesentlichen Veränderungen gegenüber dem Budget des laufenden Jahres und der Rechnung des Vorjahres zu informieren.
 
@@ -206,7 +205,7 @@ vom 23.04.2013 (Stand 01.06.2013)
 
 <sup>1</sup> Der Erneuerungsfonds gilt als zweckgebundenes Eigenkapital und dient zur langfristigen Vorfinanzierung von Erneuerungs- und Sanierungskosten von Bauten und Anlagen, die nicht oder nur teilweise über Steuern finanziert werden.
 
-<sup>2</sup> Schulgemeinden speisen diesen Fonds insbesondere aus der Differenz zwischen beitragsrechtlich anerkannten und verwendeten Baufolgekosten für Schulbauten. Die Einlagen erfolgen unabhängig vom Rechnungsergebnis.
+<sup>2</sup> Schulgemeinden speisen diesen Fonds aus der Differenz zwischen beitragsrechtlich anerkannten und verwendeten Baufolgekosten für Schulbauten. Die Einlagen erfolgen unabhängig vom Rechnungsergebnis.
 
 <sup>3</sup> Erneuerungsfonds werden nicht verzinst.
 
@@ -216,11 +215,11 @@ vom 23.04.2013 (Stand 01.06.2013)
 
 <sup>1</sup> Die Bildung von Reserven für noch nicht beschlossene Vorhaben (Vorfinanzierungen) kann budgetiert oder mit dem Rechnungsabschluss vorgenommen werden. Sie benötigen einen Beschluss der formell zuständigen Instanz. Sie werden als ausserordentlicher Aufwand ausgewiesen.
 
-<sup>2</sup> Vorfinanzierungen können nur gebildet werden, wenn die vorgeschriebenen Mindestabschreibungen gedeckt sind und kein Bilanzfehlbetrag vorhanden ist oder dadurch entsteht.
+<sup>2</sup> Vorfinanzierungen können für Investitionsausgaben gebildet werden, wenn kein Bilanzfehlbetrag vorhanden ist oder dadurch entsteht.
 
 <sup>3</sup> Die Bildung von Vorfinanzierungen zu Lasten des bestehenden Eigenkapitals ist nicht zulässig.
 
-<sup>4</sup> Unter Vorbehalt anderer rechtlicher Regelung ist die Vorfinanzierung aufzulösen, sobald feststeht, dass das Investitionsvorhaben nicht ausgeführt wird, spätestens jedoch fünf Jahre nach ihrer erstmaligen Bildung.
+<sup>4</sup> Eine Vorfinanzierung ist aufzulösen, sobald feststeht, dass das Investitionsvorhaben nicht ausgeführt wird.
 
 <sup>5</sup> Die aus allgemeinen Steuermitteln geäufneten Vorfinanzierungen sind nicht zu verzinsen.
 
@@ -240,9 +239,11 @@ vom 23.04.2013 (Stand 01.06.2013)
 
 **Haushaltsgleichgewicht**
 
-<sup>1</sup> Das kumulierte Ergebnis der Erfolgsrechnung muss innert acht Jahren ausgeglichen sein.
+<sup>1</sup> Das kumulierte Ergebnis der Erfolgsrechnung muss innert acht Jahren einen Ertragsüberschuss ausweisen oder ausgeglichen sein. Massgebend für die Bemessung sind die letzten fünf Jahresrechnungen sowie das budgetierte Ergebnis des aktuellen Jahres. Ein Aufwandüberschuss muss im folgenden Budget und dem ersten Planjahr ausgeglichen werden.
 
 <sup>2</sup> Weist die Bilanz einen Bilanzfehlbetrag aus, ist dieser jährlich um mindestens 20 Prozent des Restbuchwertes abzutragen; die entsprechenden Beträge sind im Budget zu berücksichtigen.
+
+<sup>3</sup> Gemeinden können von der Ausgleichsregelung gemäss Abs. 1 abweichen, solange der Nettoverschuldungsquotient unter 100 % liegt.
 
 #### § 23
 
@@ -250,19 +251,21 @@ vom 23.04.2013 (Stand 01.06.2013)
 
 <sup>1</sup> Die Finanzlage wird anhand folgender Finanzkennzahlen aufgezeigt:
 
-- 1\. Nettoverschuldungsanteil;
-- 2\. Selbstfinanzierungsgrad;
-- 3\. Zinsbelastungsanteil;
-- 4\. Nettoschuld in Franken je Einwohnerin oder Einwohner;
-- 5\. Selbstfinanzierungsanteil;
-- 6\. Kapitaldienstanteil;
-- 7\. Bruttoverschuldungsanteil;
-- 8\. Investitionsanteil;
-- 9\. Bilanzsituation (Eigenkapital beziehungsweise Bilanzüberschuss in Steuerprozent);
-- 10\. Eigenkapitaldeckungsgrad;
-- 11\. Steuerkraft pro Einwohnerin oder Einwohner.
+- 1\. Nettoverschuldungsanteil
+- 2\. Selbstfinanzierungsgrad
+- 3\. Zinsbelastungsanteil
+- 4\. Nettoschuld in Franken je Einwohnerin oder Einwohner
+- 5\. Selbstfinanzierungsanteil
+- 6\. Kapitaldienstanteil
+- 7\. Bruttoverschuldungsanteil
+- 8\. Investitionsanteil
+- 9\. Bilanzsituation (Bilanzüberschussquotient)
+- 10\. …
+- 11\. Steuerkraft pro Einwohnerin oder Einwohner
 
 <sup>2</sup> Die Kennzahlen können gesamtschweizerischen Entwicklungen und Empfehlungen angepasst werden.
+
+<sup>3</sup> Körperschaftsspezifische Abweichungen werden im Handbuch geregelt.
 
 ## 3. Kreditrecht
 
@@ -284,9 +287,11 @@ vom 23.04.2013 (Stand 01.06.2013)
 
 **Verpflichtungskredit**
 
-<sup>1</sup> Objektkredite sind in der Form des Verpflichtungskredits besonders zu beschliessen. Sie erstrecken sich in der Regel über mehr als ein Kalenderjahr.
+<sup>1</sup> Objektkredite und Rahmenkredite sind in der Form des Verpflichtungskredits besonders zu beschliessen. Sie erstrecken sich in der Regel über mehr als ein Kalenderjahr.
 
 <sup>2</sup> Der Objektkredit gibt die Ermächtigung, für ein Einzelvorhaben bis zum bewilligten Betrag Verpflichtungen einzugehen.
+
+<sup>3</sup> Der Rahmenkredit gibt die Ermächtigung, für mehrere in einem Programm zusammengefasste Einzelvorhaben bis zum bewilligten Betrag Verpflichtungen einzugehen.
 
 #### § 26
 
@@ -311,6 +316,8 @@ vom 23.04.2013 (Stand 01.06.2013)
 **Verpflichtungskreditkontrolle**
 
 <sup>1</sup> Über die aktuellen Verpflichtungskredite ist laufend Kontrolle zu führen.
+
+<sup>2</sup> Die im Rahmenkredit enthaltenen Einzelvorhaben müssen benannt werden.
 
 #### § 30
 
@@ -382,13 +389,13 @@ vom 23.04.2013 (Stand 01.06.2013)
 
 <sup>1</sup> Die Jahresrechnung enthält die folgenden Elemente:
 
-- 1\. Bilanz;
-- 2\. Erfolgsrechnung;
-- 3\. Investitionsrechnung;
-- 4\. Geldflussrechnung;
-- 5\. Anhang.
+- 1\. Bilanz
+- 2\. Erfolgsrechnung
+- 3\. Investitionsrechnung
+- 4\. Geldflussrechnung
+- 5\. Anhang
 
-<sup>2</sup> Im Anhang sind insbesondere der Eigenkapital-Nachweis, der Rückstellungsspiegel, der Beteiligungs- und Gewährleistungsspiegel, der Anlagespiegel, die Grundsätze der Rechnungslegung und zusätzliche Angaben, die für die finanzielle Beurteilung von Bedeutung sind, aufzuführen.
+<sup>2</sup> Im Anhang sind insbesondere der Eigenkapitalnachweis, der Rückstellungsspiegel, der Beteiligungs- und Gewährleistungsspiegel, der Anlagespiegel, Angaben zu Vorfinanzierungen, die Grundsätze der Rechnungslegung und zusätzliche Angaben, die für die finanzielle Beurteilung von Bedeutung sind, aufzuführen.
 
 <sup>3</sup> Der Kontenrahmen gemäss Handbuch ist verbindlich. Er orientiert sich am von der interkantonalen Koordinationsgruppe HRM2 erarbeiteten und vom Rechnungslegungsgremium gutgeheissenen Kontenrahmen. Ver- und Entsorgungsbetriebe und andere Organisationen des öffentlichen Rechts können im Rahmen der massgeblichen fachtechnischen Empfehlungen andere Kontenpläne verwenden.
 
@@ -480,7 +487,7 @@ vom 23.04.2013 (Stand 01.06.2013)
 
 <sup>1</sup> Anlagen im Verwaltungsvermögen werden zu Anschaffungs- beziehungsweise Herstellkosten bilanziert.
 
-<sup>2</sup> Anlagen des Verwaltungsvermögens, die durch Nutzung einem Wertverzehr unterliegen, werden ordentlich je Anlagekategorie nach der angenommenen Nutzungsdauer abgeschrieben; es sind nur lineare Abschreibungen zulässig. Es ist eine Anlagenbuchhaltung zu führen. Das Handbuch regelt das Nähere. Die zu verwendenden Anlagenkategorien werden im Anhang aufgeführt.
+<sup>2</sup> Anlagen des Verwaltungsvermögens, die durch Nutzung einem Wertverzehr unterliegen, werden ordentlich je Anlagekategorie nach der angenommenen Nutzungsdauer abgeschrieben; es sind nur lineare Abschreibungen zulässig. Es ist eine Anlagenbuchhaltung zu führen. Das Handbuch regelt das Nähere. Die zu verwendenden Anlagenkategorien werden im Anhang aufgeführt. In sachlich begründeten Einzelfällen kann die Gemeinde eine abweichende, verkürzte Nutzungsdauer anwenden.
 
 <sup>3</sup> Zusätzliche Abschreibungen sind zulässig; diese sind an durch die Exekutive zu bestimmende Regeln zu binden. Sie müssen als ausserordentlicher Aufwand gebucht werden. Bei negativem Rechnungsabschluss sind keine zusätzlichen Abschreibungen möglich.
 
@@ -538,14 +545,14 @@ vom 23.04.2013 (Stand 01.06.2013)
 
 <sup>1</sup> Die Exekutive ist insbesondere zuständig für:
 
-- 1\. grundsätzliche Vorgaben über die Anlage des Finanzvermögens; vorbehalten bleiben abweichende verfassungsmässige oder gesetzliche Bestimmungen;
-- 2\. die Beschaffung der Mittel;
-- 3\. die Zweckänderung von Verwaltungsvermögen, sofern diese keine Ausgabe zur Folge hat;
-- 4\. die Umwandlung von nicht mehr benötigtem Verwaltungsvermögen in Finanzvermögen;
-- 5\. den Entwurf des Budgets, der Nachtrags- und Zusatzkredite sowie der Jahresrechnung und des Rechnungsabschlusses zuhanden der Legislative;
-- 6\. die Erstellung des Finanzplans;
-- 7\. die Bewilligung von Kreditüberschreitungen gemäss § 34;
-- 8\. den Erlass von Eigentümerstrategien bei den massgebenden Beteiligungen oder bei den von der Gemeinde beherrschten Institutionen.
+- 1\. grundsätzliche Vorgaben über die Anlage des Finanzvermögens; vorbehalten bleiben abweichende verfassungsmässige oder gesetzliche Bestimmungen
+- 2\. die Beschaffung der Mittel
+- 3\. die Zweckänderung von Verwaltungsvermögen, sofern diese keine Ausgabe zur Folge hat
+- 4\. die Umwandlung von nicht mehr benötigtem Verwaltungsvermögen in Finanzvermögen
+- 5\. den Entwurf des Budgets, der Nachtrags- und Zusatzkredite sowie der Jahresrechnung und des Rechnungsabschlusses zuhanden der Legislative
+- 6\. die Erstellung des Finanzplans
+- 7\. die Bewilligung von Kreditüberschreitungen gemäss § 34
+- 8\. den Erlass von Eigentümerstrategien bei den massgebenden Beteiligungen oder bei den von der Gemeinde beherrschten Institutionen
 
 ## 6. Haushaltskontrolle
 
@@ -567,13 +574,14 @@ vom 23.04.2013 (Stand 01.06.2013)
 
 <sup>1</sup> Zur Prüfung gehören insbesondere:
 
-- 1\. die Einhaltung des Budgets und der Finanzkompetenzen;
-- 2\. die Einhaltung des Kontenplans und der Nummerierung nach Sachgruppen und funktionaler Gliederung sowie der Bilanz;
-- 3\. die Belegordnung;
-- 4\. die rechnerische Richtigkeit der Belege und der Jahresrechnung;
-- 5\. der Bestand und die Vollständigkeit der Aktiven und Passiven;
-- 6\. die Ordnungsmässigkeit der Bewertung;
-- 7\. die Wirtschaftlichkeit der Aufgabenerfüllung.
+- 1\. die Einhaltung des Budgets und der Finanzkompetenzen
+- 2\. die Einhaltung des Kontenplans und der Nummerierung nach Sachgruppen und funktionaler Gliederung sowie der Bilanz
+- 3\. die Belegordnung
+- 4\. die rechnerische Richtigkeit der Belege und der Jahresrechnung
+- 5\. der Bestand und die Vollständigkeit der Aktiven und Passiven
+- 6\. die Ordnungsmässigkeit der Bewertung
+- 7\. die Wirtschaftlichkeit der Aufgabenerfüllung
+- 8\. die Existenz und Umsetzung des internen Kontrollsystems gemäss § 54
 
 <sup>2</sup> Die Rechnungsprüfungskommission der Politischen Gemeinde hat zusätzlich die Steuerbezugsstelle hinsichtlich Aufteilung und Ablieferung der Steuern zu überprüfen. Sie hat Einsichtsrecht in den Revisionsbericht des Steuerrevisorates der kantonalen Steuerverwaltung.
 
@@ -597,10 +605,10 @@ vom 23.04.2013 (Stand 01.06.2013)
 
 <sup>1</sup> Es gelten als letzte Termine:
 
-- 1\. Gemeindeabstimmungen über das Budget und die Festsetzung des Steuerfusses: Ende Dezember;
-- 2\. Bereitstellung der Jahresrechnung für die Rechnungsprüfungskommission: Ende März;
-- 3\. Genehmigung der Jahresrechnung durch die Gemeinde: Ende Juni;
-- 4\. Bereitstellung der genehmigten Rechnung zu Handen kantonaler Stellen oder Bundesstellen: Ende Juli.
+- 1\. Gemeindeabstimmungen über das Budget und die Festsetzung des Steuerfusses: Ende Dezember
+- 2\. Bereitstellung der Jahresrechnung für die Rechnungsprüfungskommission: Ende März
+- 3\. Genehmigung der Jahresrechnung durch die Gemeinde: Ende Juni
+- 4\. Bereitstellung der genehmigten Rechnung zu Handen kantonaler Stellen oder Bundesstellen: Ende Juli
 
 <sup>2</sup> Letzter Termin für die Gemeindeabstimmung für Gemeinden, welche nur eine Gemeindeversammlung zur Genehmigung der Jahresrechnung und Budget mit Festsetzung des Steuerfusses durchführen, ist Ende März. In diesem Fall dürfen bis zur Budgetgenehmigung nur gebundene Ausgaben getätigt werden.
 
@@ -618,26 +626,22 @@ vom 23.04.2013 (Stand 01.06.2013)
 
 <sup>3</sup> Die Neubewertungsreserve darf während fünf Jahren nach Einführung von HRM2 nicht verändert werden. Ausgenommen sind Entnahmen zur Deckung von Verlusten aus der periodischen Neubewertung oder aus der Veräusserung des Finanzvermögens.
 
-<sup>4</sup> Ab dem sechsten Jahr nach Einführung von HRM2 wird die Neubewertungsreserve innerhalb von fünf Jahren zu Gunsten des Bilanzüberschusses aufgelöst.
+<sup>4</sup> Ab dem sechsten Jahr nach Einführung von HRM2 wird die Neubewertungsreserve innerhalb von fünf Jahren zu Gunsten des Bilanzüberschusses oder einer Vorfinanzierung aufgelöst.
 
-<sup>5</sup> Das bisherige Verwaltungsvermögen wird nicht neu bewertet. Es wird in der Regel über zehn Jahre linear abgeschrieben. Entstehen zu hohe Belastungen aus grossen Investitionen der letzten Jahre, können diese aufgrund ihrer Restnutzungsdauer abgeschrieben werden. Schulbauten können generell gemäss Restnutzungsdauer abgeschrieben werden.
+<sup>5</sup> Das bisherige Verwaltungsvermögen wird nicht neu bewertet. Eine freiwillige Neubewertung gemäss Fachempfehlung Nr. 19 der Kantonalen Finanzdirektorinnen- und Finanzdirektorenkonferenz in der Fassung vom 25. Januar 2008[^63-1] ist in gebührenfinanzierten Bereichen möglich. Das nicht neu bewertete bisherige Verwaltungsvermögen wird in der Regel über zehn Jahre linear abgeschrieben. Entstehen zu hohe Belastungen aus grossen Investitionen der letzten Jahre, können diese aufgrund ihrer Restnutzungsdauer abgeschrieben werden. Schulbauten können generell gemäss Restnutzungsdauer abgeschrieben werden.
 
 <sup>6</sup> Liegt der Restwert unter der Aktivierungsgrenze, so kann dieser direkt abgeschrieben werden.
 
-#### § 64
+[^63-1]: Abrufbar unter: https://www.srs-cspcp.ch/sites/default/files/pages/fe\_19\_0.pdf.
 
-**Übergangsregelung**
+#### § 64–65
 
-<sup>1</sup> Diese Verordnung ist ab dem Umstellungsjahr auf HRM2 anwendbar.
+**…**
 
-<sup>2</sup> Die Bestimmungen der Verordnung des Regierungsrates über das Rechnungswesen der Gemeinden vom 16. Mai 2000 sind mit der Umstellung auf die Rechnungslegung nach HRM2 für die betroffene Gemeinde nicht mehr anwendbar.
+#### § 66
 
-<sup>3</sup> Die Umstellung auf die Rechnungslegung nach HRM2 erfolgt spätestens auf den 1. Januar 2018. Mit Abschluss der Umstellung wird die Verordnung des Regierungsrates über das Rechnungswesen der Gemeinden vom 16. Mai 2000 per 31. Dezember 2017 aufgehoben.
+**Übergangsbestimmung**
 
-#### § 65
-
-**Inkraftsetzung**
-
-<sup>1</sup> Diese Verordnung tritt auf den 1. Juni 2013 in Kraft.
+<sup>1</sup> Ein ausgeglichenes Ergebnis der kumulierten Erfolgsrechnung gemäss § 22 Abs. 1 muss spätestens mit Budget 2029 sowie Finanzplan 2030 erreicht werden, sofern nicht die Voraussetzungen gemäss § 22 Abs. 2 erfüllt sind.
 
 17/2013
