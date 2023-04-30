@@ -3,18 +3,18 @@ sr: "531.82"
 title: Ordonnance du 18 mai 2022 sur la garantie des capacités de livraison en cas de pénurie grave de gaz naturel
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/310"
 language: fr
-version: 2022-05-23
+version: 2023-05-01
 adopted: 2022-05-18
 in_force: 2022-05-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20220523/fr/xml/fedlex-data-admin-ch-eli-cc-2022-310-20220523-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20220523/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20230501/fr/xml/fedlex-data-admin-ch-eli-cc-2022-310-20230501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20230501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la garantie des capacités de livraison en cas de pénurie grave de gaz naturel
 
-du 18 mai 2022 (Etat le 23 mai 2022)
+du 18 mai 2022 (État le 1<sup>er</sup> mai 2023)
 
 Le Conseil fédéral suisse,
 
@@ -32,11 +32,11 @@ La présente ordonnance vise à ce que des préparatifs soient effectués en vue
 
 #### Art. 2
 
-**Obligation de garantir l’approvisionnement**
+**Obligation de garantir l’approvisionnement**[^2-1]
 
 <sup>1</sup>
 
-En cas de pénurie grave, les gestionnaires régionaux de réseaux de gaz naturel suivants sont tenus de prendre des mesures adéquates pour garantir un approvisionnement suffisant de la Suisse en gaz naturel d’octobre 2022 à avril 2023:
+Les gestionnaires régionaux de réseaux de gaz naturel suivants sont tenus de prendre les mesures adéquates pour garantir un approvisionnement suffisant de la Suisse en gaz naturel d’octobre 2023 à avril 2024 au cas où surviendrait une pénurie grave:
 
 - a. Aziende Industriali di Lugano SA;
 - b. Erdgas Ostschweiz AG;
@@ -44,9 +44,9 @@ En cas de pénurie grave, les gestionnaires régionaux de réseaux de gaz nature
 - d. Gasverbund Mittelland AG;
 - e. Gaznat SA.
 
-<sup>2</sup> Ils doivent garantir, qu’à partir du 1<sup>er</sup> novembre 2022, un volume de gaz naturel correspondant à au moins 15 % de la consommation annuelle moyenne de gaz naturel de la Suisse est stocké en qualité marchande dans des installations de stockage et disponible.
+<sup>2</sup> Ils doivent faire en sorte qu’à partir du 1<sup>er</sup> novembre 2023, un volume de gaz naturel correspondant à au moins 15 % de la consommation annuelle moyenne de gaz naturel de la Suisse soit stocké en qualité marchande dans des installations de stockage et disponible.
 
-<sup>3</sup> Ils doivent en outre garantir qu’ils disposent à partir du 1<sup>er</sup> novembre 2022 d’options assurant l’obtention de volumes supplémentaires de gaz naturel totalisant 20 % de la consommation moyenne de gaz naturel de la Suisse durant les mois d’octobre à avril.
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2023, en vigueur depuis le 1<sup>er</sup> mai 2023 ([RO 2023 52](https://fedlex.data.admin.ch/eli/oc/2023/52)).
 
 #### Art. 3
 
@@ -85,3 +85,7 @@ Sur demande, les gestionnaires régionaux de réseaux de gaz naturel visés à l
 <sup>1</sup> La présente ordonnance entre en vigueur le 23 mai 2022.
 
 <sup>2</sup> Elle a effet jusqu’au 30 septembre 2023.
+
+<sup>3</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 30 septembre 2024.[^7-1]
+
+[^7-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> fév. 2023, en vigueur depuis le 1<sup>e</sup><sup>r</sup> mai 2023 ([RO 2023 52](https://fedlex.data.admin.ch/eli/oc/2023/52)).

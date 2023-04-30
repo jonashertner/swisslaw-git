@@ -3,18 +3,18 @@ sr: "531.82"
 title: Ordinanza del 18 maggio 2022 sulla garanzia delle capacità di fornitura di gas naturale in situazioni di grave penuria
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/310"
 language: it
-version: 2022-05-23
+version: 2023-05-01
 adopted: 2022-05-18
 in_force: 2022-05-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20220523/it/xml/fedlex-data-admin-ch-eli-cc-2022-310-20220523-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20220523/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20230501/it/xml/fedlex-data-admin-ch-eli-cc-2022-310-20230501-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20230501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla garanzia delle capacità di fornitura di gas naturale in situazioni di grave penuria
 
-del 18 maggio 2022 (Stato 23 maggio 2022)
+del 18 maggio 2022 (Stato 1° maggio 2023)
 
 Il Consiglio federale,
 
@@ -32,11 +32,11 @@ La presente ordinanza si prefigge di garantire nel miglior modo possibile l’ap
 
 #### Art. 2
 
-**Obbligo di garanzia**
+**Obbligo di garanzia**[^2-1]
 
 <sup>1</sup>
 
-I seguenti gestori regionali della rete del gas sono tenuti ad adottare misure adeguate per garantire alla Svizzera, in situazioni di grave penuria, un approvvigionamento sufficiente di gas naturale da ottobre 2022 ad aprile 2023:
+I seguenti gestori regionali della rete del gas sono tenuti ad adottare misure adeguate per garantire alla Svizzera, in situazioni di grave penuria, un approvvigionamento sufficiente di gas naturale da ottobre 2023 ad aprile 2024:
 
 - a. Aziende Industriali di Lugano SA;
 - b. Erdgas Ostschweiz AG;
@@ -44,9 +44,9 @@ I seguenti gestori regionali della rete del gas sono tenuti ad adottare misure a
 - d. Gasverbund Mittelland AG;
 - e. Gaznat SA.
 
-<sup>2</sup> Devono garantire che dal 1° novembre 2022 sia stoccato in appositi impianti un volume di gas naturale pari ad almeno il 15 per cento del consumo medio annuo svizzero nella qualità usuale commerciale e che questo volume sia disponibile.
+<sup>2</sup> Devono garantire che dal 1° novembre 2023 sia stoccato in appositi impianti un volume di gas naturale pari ad almeno il 15 per cento del consumo medio annuo svizzero nella qualità usuale commerciale e che questo volume sia disponibile.
 
-<sup>3</sup> Devono inoltre garantire di disporre dal 1° novembre 2022 di opzioni che li autorizzano ad acquistare quantitativi supplementari di gas naturale pari complessivamente al 20 per cento del consumo medio svizzero nel periodo da ottobre ad aprile.
+[^2-1]: Nuovo testo giusta il n. I dell’O del 1° feb. 2023, in vigore dal 1° mag. 2023 ([RU 2023 52](https://fedlex.data.admin.ch/eli/oc/2023/52)).
 
 #### Art. 3
 
@@ -85,3 +85,7 @@ I gestori regionali della rete del gas di cui all’articolo 2 capoverso 1 sono 
 <sup>1</sup> La presente ordinanza entra in vigore il 23 maggio 2022.
 
 <sup>2</sup> Ha effetto sino al 30 settembre 2023.
+
+<sup>3</sup> La durata di validità della presente ordinanza è prorogata sino al 30 settembre 2024.[^7-1]
+
+[^7-1]: Introdotto dal n. I dell’O del 1° feb. 2023, in vigore dal 1° mag. 2023 ([RU 2023 52](https://fedlex.data.admin.ch/eli/oc/2023/52)).
