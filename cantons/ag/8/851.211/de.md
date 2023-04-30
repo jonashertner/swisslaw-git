@@ -4,13 +4,13 @@ number: "851.211"
 title: Sozialhilfe- und Präventionsverordnung
 short: SPV
 language: de
-version: 2023-01-01
-valid_until: 2023-04-30
-version_adopted: 2022-05-18
+version: 2023-05-01
+valid_until: 2023-12-31
+version_adopted: 2023-02-15
 adopted: 2002-08-28
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3289/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3308/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3289/pdf_file"
 
 (SPV)
 
-Vom 28.08.2002 (Stand 01.01.2023)
+Vom 28.08.2002 (Stand 01.05.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -58,7 +58,7 @@ beschliesst:
 
 **SKOS-Richtlinien**
 
-<sup>1</sup> Für die Sozialhilfe sind die von der Schweizerischen Konferenz für Sozialhilfe erlassenen Richtlinien (SKOS-Richtlinien) in der ab 1. Januar 2022 geltenden Fassung gemäss Anhang verbindlich. Vorbehalten bleiben die in dieser Verordnung sowie im SPG beziehungsweise dessen Ausführungserlassen enthaltenen Ausnahmen.
+<sup>1</sup> Für die Sozialhilfe sind die von der Schweizerischen Konferenz für Sozialhilfe erlassenen Richtlinien (SKOS-Richtlinien) in der ab 1. Januar 2023 geltenden Fassung gemäss Anhang verbindlich. Vorbehalten bleiben die in dieser Verordnung sowie im SPG beziehungsweise dessen Ausführungserlassen enthaltenen Ausnahmen.
 
 ## 2. Sozialhilfe
 
