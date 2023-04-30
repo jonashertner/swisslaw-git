@@ -4,11 +4,11 @@ number: "172.11"
 title: Verordnung über die Organisation des Regierungsrates und der kantonalen Verwaltung (VOG RR)
 short: VOG RR
 language: de
-version: "2022-07-01"
-nachtrag: "117"
-valid_until: 2023-05-01
+version: "2023-05-01"
+nachtrag: "121"
+valid_until: 2023-09-01
 adopted: 2007-07-18
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_11-2007_07_18-2007_09_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_11-2007_07_18-2007_09_01-121.html"
 text: pdf
 ---
 
@@ -65,7 +65,7 @@ beschliesst:
 
 **1**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 <sup>2</sup> Der Legislaturbericht zeigt auf:
 
@@ -153,7 +153,7 @@ beschliesst:
 
 **3**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 <sup>3</sup> Die Staatskanzlei stellt Antrag. Sie stützt sich hierfür auf die jährliche Berichterstattung der Direktionen und stellt Querbezüge her.
 
@@ -231,7 +231,7 @@ Die Direktionen bereiten die Planungen ihrer Politikbereiche vor.
 
 **5**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 ### B. Aussenbeziehungen
 
@@ -323,7 +323,7 @@ Stellungnahmen des Regierungsrates, die eines seiner Mitglieder in der Plenarver
 
 **7**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 ### C. Information und Kommunikation
 
@@ -429,7 +429,7 @@ Der Regierungsrat verhandelt an seinen Sitzungen folgende Geschäftsarten:
 
 **9**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 <sup>3</sup> Verlangt ein Mitglied des Regierungsrates oder die Staatsschreiberin oder der Staatsschreiber zu einem Geschäft eine Diskussion, wird es zurückgestellt und für die nächste Sitzung als Besonderes Geschäft traktandiert.
 
@@ -515,7 +515,7 @@ Der Regierungsrat verhandelt an seinen Sitzungen folgende Geschäftsarten:
 
 **11**
 
-- 1\. 7. 22 - 117 § 39. <sup>1</sup> Sollen andere Direktionen oder die Staatskanzlei an der Meinungsbildung oder Entscheidfindung beteiligt werden oder wird ein Vernehmlassungsverfahren durchgeführt, lädt die Direktion oder die Staatskanzlei alle andern Direktionen und die Staatskanzlei zum Mitbericht ein.
+- 1\. 7. 23 - 121 § 39. <sup>1</sup> Sollen andere Direktionen oder die Staatskanzlei an der Meinungsbildung oder Entscheidfindung beteiligt werden oder wird ein Vernehmlassungsverfahren durchgeführt, lädt die Direktion oder die Staatskanzlei alle andern Direktionen und die Staatskanzlei zum Mitbericht ein.
 
 **Mitberichte und Besondere Stellungnahmen**
 
@@ -605,7 +605,7 @@ Der Regierungsrat verhandelt an seinen Sitzungen folgende Geschäftsarten:
 
 **13**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 ### F.<sup>36</sup> Protokoll und Ausfertigung
 
@@ -684,7 +684,7 @@ Ist die Staatsschreiberin oder der Staatsschreiber und die Stellvertreterin oder
 
 **15**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 ### 4. Abschnitt: Kommissionen und Vertretungen des Regierungsrates
 
@@ -777,7 +777,7 @@ Die Direktionen des Regierungsrates sind:
 
 **17**
 
-- 1\. 7. 22 - 117 § 62. <sup>1</sup> Die Direktionen gewährleisten in ihrem Generalsekretariat Ansprechstellen für folgende Themen und Querschnittaufgaben:
+- 1\. 7. 23 - 121 § 62. <sup>1</sup> Die Direktionen gewährleisten in ihrem Generalsekretariat Ansprechstellen für folgende Themen und Querschnittaufgaben:
 
 **Zentrale Aufgaben**
 
@@ -869,7 +869,7 @@ Das Generalsekretariat führt eine Geschäftskontrolle über die Direktionsgesch
 
 **19**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 <sup>3</sup> Sie kann Themen bearbeiten, die alle Direktionen betreffen, und dem Regierungsrat hierzu Bericht erstatten.
 
@@ -961,7 +961,7 @@ Das Generalsekretariat führt eine Geschäftskontrolle über die Direktionsgesch
 
 **21**
 
-- 1\. 7. 22 - 117 § 76.<sup>43,</sup> <sup>58</sup> Die HRK unterstützt den Regierungsrat und die Finanzdirektion bei der Erfüllung ihrer Aufgaben im Personalwesen, insbesondere durch:
+- 1\. 7. 23 - 121 § 76.<sup>43,</sup> <sup>58</sup> Die HRK unterstützt den Regierungsrat und die Finanzdirektion bei der Erfüllung ihrer Aufgaben im Personalwesen, insbesondere durch:
 
 **b. Aufgaben**
 
@@ -1087,9 +1087,11 @@ Diese Verordnung tritt am 1. September 2007 in Kraft.
 
 <sup>63</sup> Fassung gemäss RRB vom 27. April 2022 (OS 77, 259; ABl 2022-05-06). In Kraft seit 1. Juli 2022.
 
+<sup>64</sup> Fassung gemäss RRB vom 1. Februar 2023 (OS 78, 135; ABl 2023-02-10). In Kraft seit 1. Mai 2023.
+
 **25**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 ### Anhang 1: Zuständigkeitsbereiche der Direktionen
 
@@ -1136,25 +1138,19 @@ Diese Verordnung tritt am 1. September 2007 in Kraft.
 
 - 17\. Datenschutz
 
-- 18\. Staatsrechtliche Massnahmen im Bereich der nationalen und internationalen Aussenbeziehungen
+- 18\. Staatsrechtliche Massnahmen im Bereich der nationalen und internationalen Aussenbeziehungen 19.<sup>64</sup> Verfassungsrecht, Gerichtsorganisation, Zivilrecht einschliesslich Kindes- und
 
-- 19\. Verfassungsrecht, Gerichtsorganisation, Zivil- und Strafrecht, Zivil-, Straf- und Verwaltungsverfahrensrecht, Schuldbetreibungsrecht und Konkursrecht, je unter Vorbehalt der Zuständigkeit anderer Direktionen
+### Erwachsenenschutzrecht, Strafrecht, Zivil-, Straf- und Verwaltungsverfahrens-
 
-- 20\. Politische Rechte
+recht, Schuldbetreibungsrecht und Konkursrecht, je unter Vorbehalt der Zuständigkeit anderer Direktionen 20. Politische Rechte 21. Enteignungsrecht 22. Rechtsetzungstechnik 23. Übertretungsstrafrecht und Aufsicht über die Statthalterämter
 
-- 21\. Enteignungsrecht
-
-- 22\. Rechtsetzungstechnik
-
-- 23\. Übertretungsstrafrecht und Aufsicht über die Statthalterämter
-
-[^hADirektionderJus-1]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
-[^hADirektionderJus-2]: Fassung gemäss RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. August 2011.
-[^hADirektionderJus-3]: Fassung gemäss RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. Januar 2012.
+[^hErwachsenenschutzrec-1]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
+[^hErwachsenenschutzrec-2]: Fassung gemäss RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. August 2011.
+[^hErwachsenenschutzrec-3]: Fassung gemäss RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. Januar 2012.
 
 ### B. Sicherheitsdirektion,,
 
-[^hADirektionderJus-1][^hADirektionderJus-2][^hADirektionderJus-3]
+[^hErwachsenenschutzrec-1][^hErwachsenenschutzrec-2][^hErwachsenenschutzrec-3]
 
 - 1\. Polizei (Kriminal-, Sicherheits-, Verkehrs-, Regional-, Flughafenpolizei)
 
@@ -1212,7 +1208,7 @@ Diese Verordnung tritt am 1. September 2007 in Kraft.
 
 **27**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 [^hCFinanzdirektions-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
 
@@ -1308,7 +1304,7 @@ stelle
 
 **29**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 - 4\. Aufsicht über die Lehrbetriebe
 
@@ -1368,7 +1364,7 @@ stelle
 
 **31**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 [^hBeiträge-1]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
 
@@ -1422,7 +1418,7 @@ stelle
 
 **33**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 - 5\. Gesundheitsdirektion[^h1DirektionderJus-5],[^h1DirektionderJus-7] 5.1 Verwaltungseinheiten mit Amtsstruktur<sup>32,</sup> <sup>60</sup>
 
@@ -1465,7 +1461,7 @@ stelle
 [^h1DirektionderJus-1]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
 [^h1DirektionderJus-2]: Eingefügt durch RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. Januar 2012.
 [^h1DirektionderJus-3]: Fassung gemäss RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. Januar 2012.
-[^h1DirektionderJus-4]: Eingefügt durch RRB vom 2. Mai 2012 (OS 67, 491; ABl 2012, 1012). In Kraft seit 1. Januar 2013. 1. 7. 22 - 117 23
+[^h1DirektionderJus-4]: Eingefügt durch RRB vom 2. Mai 2012 (OS 67, 491; ABl 2012, 1012). In Kraft seit 1. Januar 2013. 1. 7. 23 - 121 23
 [^h1DirektionderJus-5]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
 [^h1DirektionderJus-6]: Eingefügt durch RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
 [^h1DirektionderJus-7]: Fassung gemäss RRB vom 13. Juli 2011 (OS 66, 576; ABl 2011, 2065). In Kraft seit 1. Juli 2011.
@@ -1482,15 +1478,13 @@ Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen
 
 [^hAnhang3Selbststän-1]
 
-1.1 Gemeindeamt a. Bürgerrechtswesen, soweit der Kanton zuständig ist,
+1.1 Gemeindeamt<sup>64</sup> a. Bürgerrechtswesen, soweit der Kanton zuständig ist,
 
-- b. Erteilung der Ermächtigung an Banken zur Entgegennahme von Mündelvermögen gemäss § 1 der Verordnung über die Aufbewahrung von Mündelvermögen bei Banken vom 16. Dezember 1911,
+- b. Namensänderungen gemäss Art. 30 ZGB,
 
-- c. Namensänderungen gemäss Art. 30 ZGB,
+- c. Anordnungen gegenüber Gemeinden gestützt auf das Finanzausgleichsgesetz,
 
-- d. Anordnungen gegenüber Gemeinden gestützt auf das Finanzausgleichsgesetz,
-
-- e. Aufsichtsrechtliche Anordnungen und Massnahmen gegenüber den Gemeinden, f.<sup>37</sup> Unterstützung von Änderungen im Bestand von Gemeinden gemäss §§ 155–159 des Gemeindegesetzes, g.<sup>40</sup> Meldewesen und Einwohnerregister, soweit der Kanton zuständig ist.
+- d. Aufsichtsrechtliche Anordnungen und Massnahmen gegenüber den Gemeinden, e.<sup>37</sup> Unterstützung von Änderungen im Bestand von Gemeinden gemäss §§ 155–159 des Gemeindegesetzes, f.<sup>40</sup> Meldewesen und Einwohnerregister, soweit der Kanton zuständig ist.
 
 1.2 Handelsregisteramt Ordnungsbussen gemäss Art. 943 OR. 1.3 Oberjugendanwaltschaft<sup>49</sup> a. Festlegung des Zutrittsalters zu öffentlichen Filmvorführungen gemäss § 6 Abs. 1 des Gesetzes über den Jugendschutz bei öffentlichen Filmvorführungen und Trägermedien vom 26. November 2018 (JFTG),
 
@@ -1500,7 +1494,7 @@ Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen
 
 **35**
 
-- 1\. 7. 22 - 117 Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen
+- 1\. 7. 23 - 121 Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen
 
 [^h1DirektionderJus_2-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
 
@@ -1562,7 +1556,7 @@ länder.
 
 **37**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 [^3_2-1]: LS 412.100.
 [^3_2-2]: LS 413.21.
