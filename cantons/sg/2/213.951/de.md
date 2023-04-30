@@ -3,20 +3,20 @@ canton: SG
 number: "213.951"
 title: Verordnung über die Anerkennung und Finanzierung von privaten Sonderschulen (Sonderschulverordnung)
 language: de
-version: 2021-10-01
-valid_until: 2023-04-30
-version_adopted: 2021-06-29
+version: 2023-05-01
+valid_until: 2025-07-31
+version_adopted: 2023-03-28
 adopted: 2015-02-03
 in_force: 2015-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/213.951"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3226/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3482/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Anerkennung und Finanzierung von privaten Sonderschulen (Sonderschulverordnung)
 
-vom 03.02.2015 (Stand 01.10.2021)
+vom 03.02.2015 (Stand 01.05.2023)
 
 Die Regierung des Kantons St.Gallen erlässt
 
@@ -239,6 +239,22 @@ als Verordnung:[^ingress-2]
 <sup>2</sup> Die Abgeltung erfolgt durch leistungsabhängige Pauschalen.
 
 <sup>3</sup> Das Amt für Volksschule legt die Höhe der Beiträge der Unterhaltspflichtigen für Verpflegung sowie Betreuung und Pflege fest.
+
+#### Art. 20a
+
+**Bereitstellung von zusätzlichen Sonderschulplätzen**
+
+<sup>1</sup> Erfordert die Nachfrage die Bereitstellung von zusätzlichen Sonderschulplätzen, kann der Kanton der Sonderschule zusätzlich zu den Pauschalen nach Art. [22](https://www.gesetzessammlung.sg.ch/data/213.951/de/art22) dieses Erlasses einmalig die zur Gewährleistung eines ausreichenden Grundschulunterrichts pädagogisch und betrieblich nötigen Anschaffungen vergüten.
+
+<sup>2</sup> Ein Beitrag des Kantons an die Anschaffungen nach Abs. 1 dieser Bestimmung setzt voraus, dass der Betriebsfonds der Sonderschule in der Bilanz der letzten Jahresrechnung zehn Prozent des kumulierten Betrags aus den Pauschalen Schule, Wohnen und Transport des vorangegangenen Kalenderjahres unterschreitet.
+
+<sup>3</sup> Das Bildungsdepartement legt auf Antrag der Sonderschule den Beitrag des Kantons fest. Er beträgt höchstens 1,5 Prozent des kumulierten Betrags aus den Pauschalen Schule, Wohnen und Transport des vorangegangenen Kalenderjahres.
+
+<sup>4</sup> Der Antrag der Sonderschule enthält insbesondere folgende Angaben:
+
+- a) Grobkonzept für die Kapazitätserweiterung;
+- b) Bezeichnung der pädagogisch und betrieblich nötigen Anschaffungen;
+- c) Kostenvoranschlag für die geplanten Anschaffungen.
 
 #### Art. 21
 
