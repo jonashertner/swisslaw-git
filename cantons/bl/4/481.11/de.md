@@ -3,28 +3,28 @@ canton: BL
 number: "481.11"
 title: Verordnung zum Strassenverkehrsgesetz Basel-Landschaft
 language: de
-version: 2019-05-01
-valid_until: 2023-04-30
-version_adopted: 2019-03-26
+version: 2023-05-01
+version_adopted: 2023-03-14
 adopted: 2012-08-14
 in_force: 2012-09-01
 url: "https://bl.clex.ch/app/de/texts_of_law/481.11"
-pdf: "https://bl.clex.ch/api/de/versions/2543/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3574/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Strassenverkehrsgesetz Basel-Landschaft
 
-Vom 14.08.2012 (Stand 01.05.2019)
+Vom 14.08.2012 (Stand 01.05.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft vom 28. September 2017[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: GS 29.276, [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 140](https://bl.clex.ch/data/140/de)
 
 #### § 1
 
@@ -57,19 +57,38 @@ beschliesst:
   - 2\. für Ausnahmefahrzeuge und Ausnahmetransporte;
   - 3\. für Fahrten während des Sonntags- und Nachtfahrverbots;
   - 4\. für die gewerbliche Verwendung landwirtschaftlicher Fahrzeuge sowie die Verwendung landwirtschaftlicher Fahrzeuge bei Umzügen und dergleichen;
+  - 5\. für Fahrzeuge zum Personentransport, die ausschliesslich im regionalen fahrplanmässigen Verkehr konzessionierter Transportunternehmungen eingesetzt werden[^2-3];
 - m. die Meldung der Strassenverkehrsunfälle an die zuständige Bundesstelle;
 - n. die Aufsicht über die Signalisation auf Kantons- und Gemeindestrassen.
 
-<sup>2</sup> Die Polizei Basel-Landschaft ist ausserdem zuständig für:
+<sup>2</sup> Die Polizei Basel-Landschaft ist weiter zuständig für:
 
-- a. die Erteilung der Bewilligung zum zeitlich beschränkten Abstellen von Motorfahrzeugen und Anhängern ohne Kontrollschilder auf öffentlichen Strassen und Parkplätzen (§ 7 SVG BL[^2-3]);
-- b. die Erteilung der Bewilligung zum regelmässigen Parkieren von schweren Motorwagen und Anhängern über Nacht sowie an Sonn- und Feiertagen auf Kantonsstrassen ausserhalb von besonders gekennzeichneten Parkplätzen (§ 8 SVG BL);
-- c. die Entfernung von vorschriftswidrig parkierten oder den Verkehr behindernden oder gefährdenden Fahrzeugen (§ 10 SVG BL);
-- d. die Erteilung der Bewilligung betreffend Parkierungserleichterungen für Personen und Organisationen, die beruflich die medizinische Versorgung von Patientinnen und Patienten in deren Haushalt sicherstellen (§ 11 SVG BL).
+- a. die Erteilung der Bewilligung zum zeitlich beschränkten Abstellen von Motorfahrzeugen und Anhängern ohne Kontrollschilder auf öffentlichen Strassen und Parkplätzen (§ 7 SVG BL[^2-4]);
+- b. die Erteilung der Bewilligung zum regelmässigen Parkieren von schweren Motorwagen und Anhängern über Nacht sowie an Sonn- und Feiertagen auf Kantonsstrassen ausserhalb von besonders gekennzeichneten Parkplätzen (§ 8 SVG BL[^2-5]);
+- c. die Entfernung von vorschriftswidrig parkierten oder den Verkehr behindernden oder gefährdenden Fahrzeugen (§ 10 SVG BL[^2-6]);
+- d. die Erteilung der Bewilligung betreffend Parkierungserleichterungen für Personen und Organisationen, die beruflich die medizinische Versorgung von Patientinnen und Patienten in deren Haushalt sicherstellen (§ 11 SVG BL[^2-7]).
+
+<sup>3</sup> Die Polizei Basel-Landschaft ist, nach Zustimmung des Tiefbaumts, ausserdem zuständig für (§ 3 Abs. 1 SVG BL[^2-8] in Verbindung mit § 20 Abs. 4 RVOG BL[^2-9]):
+
+- a. alle Verkehrsanordnungen und Verkehrsbeschränkungen auf Kantonsstrassen, nach Anhören der Gemeinde bei Massnahmen innerhalb von Ortschaften;
+- b. abweichende Höchstgeschwindigkeiten auf Gemeindestrassen, nach Anhören der Gemeinde;
+- c. den Standort von Ortschaftstafeln, nach Anhören der Gemeinde;
+- d. die Anbringung von Markierungen und Signalen sowie Anordnungen im Zusammenhang mit Baustellen von einer Dauer bis 6 Monate, auf Kantonsstrassen, die nicht verfügt und nicht veröffentlicht werden müssen[^2-10], sowie den Entscheid über dagegen erhobene Einsprachen[^2-11].
+
+<sup>4</sup> Die Polizei Basel-Landschaft ist ferner zuständig, auf öffentlichen Verkehrsflächen in privatem Eigentum nach Anhören der Eigentümerschaft Verkehrsanordnungen und Verkehrsbeschränkungen zu verfügen[^2-12].
 
 [^2-1]: [SR 741.31](https://db.clex.ch/link/Bund/741.31/de), Art. 33
 [^2-2]: [SR 741.01](https://db.clex.ch/link/Bund/741.01/de)
-[^2-3]: GS 37.1009, [SGS 481](https://bl.clex.ch/data/481/de/art7)
+[^2-3]: [SR 741.11](https://db.clex.ch/link/Bund/741.11/de), Art. 76
+[^2-4]: GS 37.1009, [SGS 481](https://bl.clex.ch/data/481/de/art7)
+[^2-5]: [SGS 481](https://bl.clex.ch/data/481/de/art8)
+[^2-6]: [SGS 481](https://bl.clex.ch/data/481/de/art10)
+[^2-7]: [SGS 481](https://bl.clex.ch/data/481/de/art11)
+[^2-8]: [SGS 481](https://bl.clex.ch/data/481/de/art3)
+[^2-9]: [SGS 140](https://bl.clex.ch/data/140/de/art20)
+[^2-10]: [SR 741.21](https://db.clex.ch/link/Bund/741.21/de), Art. 107 Abs. 3
+[^2-11]: [SR 741.21](https://db.clex.ch/link/Bund/741.21/de), Art. 106 Abs. 1 Bst. b
+[^2-12]: [SR 741.21](https://db.clex.ch/link/Bund/741.21/de), Art. 113 Abs. 1 und 2
 
 #### § 3
 
@@ -87,17 +106,18 @@ beschliesst:
 - h. die Erteilung der Bewilligung:
   - 1\. zur Ausübung des Fahrlehrerberufs,
   - 2\. zur Ausrüstung von Fahrzeugen mit Gelblicht, Blaulicht und Wechselklanghorn,
-  - 3\. betreffend Parkierungserleichterungen für gehbehinderte Personen sowie für Personen oder Organisationen, die sie regelmässig transportieren (§ 11 SVG BL);
+  - 3\. betreffend Parkierungserleichterungen für gehbehinderte Personen sowie für Personen oder Organisationen, die sie regelmässig transportieren (§ 11 SVG BL[^3-1]);
 - i. die Bewilligung von Weiterausbildungskursen für Inhaberinnen und Inhaber eines Führerausweises auf Probe sowie die Aufsicht über die Durchführung der Weiterausbildung;
 - k. die Zulassung zur Ausbildung beim Verkehrssicherheitsrat als Moderatorin oder Moderator für Weiterausbildungskurse für Inhaberinnen und Inhaber eines Führerausweises auf Probe sowie die Bewilligung der Tätigkeit als Moderatorin oder Moderator;
-- l. die Durchführung des Versicherungskündigungsverfahrens[^3-1];
-- m. die Überwachung der Einhaltung der periodischen Fahrzeugprüfungspflicht[^3-2];
+- l. die Durchführung des Versicherungskündigungsverfahrens[^3-2];
+- m. die Überwachung der Einhaltung der periodischen Fahrzeugprüfungspflicht[^3-3];
 - n. die Abgabe und den Einzug von Kontrollschildern;
-- o. die Erhebung der kantonalen Motorfahrzeugsteuer sowie der Schwerverkehrsabgabe des Bundes gemäss Schwerverkehrsabgabeverordnung[^3-3].
+- o. die Erhebung der kantonalen Motorfahrzeugsteuer sowie der Schwerverkehrsabgabe des Bundes gemäss Schwerverkehrsabgabeverordnung[^3-4].
 
-[^3-1]: [SR 741.31](https://db.clex.ch/link/Bund/741.31/de), Art. 7
-[^3-2]: [SR 741.41](https://db.clex.ch/link/Bund/741.41/de), Art. 33
-[^3-3]: [SR 641.811](https://db.clex.ch/link/Bund/641.811/de)
+[^3-1]: [SGS 481](https://bl.clex.ch/data/481/de/art11)
+[^3-2]: [SR 741.31](https://db.clex.ch/link/Bund/741.31/de), Art. 7
+[^3-3]: [SR 741.41](https://db.clex.ch/link/Bund/741.41/de), Art. 33
+[^3-4]: [SR 641.811](https://db.clex.ch/link/Bund/641.811/de)
 
 #### § 4
 
