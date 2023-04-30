@@ -1,22 +1,21 @@
 ---
 canton: LU
 number: 546c
-title: Studien- und Prüfungsordnung für den Joint Degree Masterstudiengang in Humanmedizin «Joint Medical Master» am Departement Gesundheitswissenschaften und Medizin der Universität Luzern und an der Medizinischen Fakultät der Universität Zürich
+title: Studien- und Prüfungsordnung für den Joint Degree Masterstudiengang in Humanmedizin «Joint Medical Master» an der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern und an der Medizinischen Fakultät der Universität Zürich
 language: de
-version: 2020-02-01
-valid_until: 2023-04-30
-version_adopted: 2019-12-13
+version: 2023-05-01
+version_adopted: 2023-04-05
 adopted: 2019-12-13
 in_force: 2020-02-01
 url: "https://srl.lu.ch/app/de/texts_of_law/546c"
-pdf: "https://srl.lu.ch/api/de/versions/3551/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4069/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Studien- und Prüfungsordnung für den Joint Degree Masterstudiengang in Humanmedizin «Joint Medical Master» am Departement Gesundheitswissenschaften und Medizin der Universität Luzern und an der Medizinischen Fakultät der Universität Zürich
+# Studien- und Prüfungsordnung für den Joint Degree Masterstudiengang in Humanmedizin «Joint Medical Master» an der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern und an der Medizinischen Fakultät der Universität Zürich
 
-vom 13.12.2019 (Stand 01.02.2020)
+vom 13.12.2019 (Stand 01.05.2023)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -34,21 +33,23 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Die vorliegende Studien- und Prüfungsordnung (nachfolgend: StuPo) regelt den Joint Degree Masterstudiengang in Humanmedizin «Joint Medical Master» (nachfolgend: JMM) der Universitäten Luzern und Zürich am Departement Gesundheitswissenschaften und Medizin der Universität Luzern (nachfolgend: Departement).
+<sup>1</sup> Die vorliegende Studien- und Prüfungsordnung (nachfolgend: StuPo) regelt den Joint Degree Masterstudiengang in Humanmedizin «Joint Medical Master» (nachfolgend: JMM) der Universitäten Luzern und Zürich an der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern (nachfolgend: Fakultät).
 
-<sup>2</sup> Für Module, Lehrveranstaltungen und Prüfungen an der Universität Zürich (nachfolgend: UZH) gelten die dortigen Bestimmungen.
+<sup>2</sup> Für Module, Lehrveranstaltungen und Prüfungen an der Universität Zürich gelten die dortigen Bestimmungen.
 
 #### § 2
 
 **Studienangebot, Studienbeginn und Regelstudiendauer**
 
-<sup>1</sup> Das Departement und die Medizinische Fakultät der UZH bieten den Masterstudiengang JMM der Universitäten Luzern und Zürich an. Dieser vermittelt den Studierenden vertiefte fachliche Kenntnisse und Kompetenzen für die fachärztliche Weiterbildung.
+<sup>1</sup> Die Fakultät für Gesundheitswissenschaften und Medizin und die Medizinische Fakultät der Universität Zürich bieten den Masterstudiengang JMM der Universitäten Luzern und Zürich an. Dieser vermittelt den Studierenden vertiefte fachliche Kenntnisse und Kompetenzen für die fachärztliche Weiterbildung.
 
 <sup>2</sup> Der Masterstudiengang beginnt jeweils einmal im Jahr zum Herbstsemester.
 
-<sup>3</sup> Der JMM umfasst 180 ECTS-Credits und hat eine Regelstudiendauer von 6 Semestern.
+<sup>3</sup> Der JMM umfasst 180 ECTS-Punkte und hat eine Regelstudiendauer von 6 Semestern.
 
 <sup>4</sup> Der Masterstudiengang ist grundsätzlich als Vollzeitstudium ausgestaltet.
+
+<sup>5</sup> Die Fakultätsversammlung der Fakultät für Gesundheitswissenschaften und Medizin erlässt die Wegleitung zur Studien- und Prüfungsordnung.
 
 #### § 3
 
@@ -60,12 +61,12 @@ beschliesst:
 
 **Qualitätssicherung**
 
-<sup>1</sup> Das Departement sorgt dafür, dass
+<sup>1</sup> Die Fakultät sorgt dafür, dass
 
 - a. die Dozierenden Lehrformen einsetzen, welche dem jeweiligen Stand der Hochschuldidaktik entsprechen, und
 - b. sich die Dozierenden im Bereich der Hochschuldidaktik weiterbilden.
 
-<sup>2</sup> Die Qualität des Studiengangs und der einzelnen Lehrveranstaltungen und Studieninhalte werden regelmässig überprüft. Zusätzliche Qualitätssicherungsmassnahmen können durch die Departementsleitung angeordnet werden.
+<sup>2</sup> Die Qualität des Studiengangs und der einzelnen Lehrveranstaltungen und Studieninhalte werden regelmässig überprüft. Zusätzliche Qualitätssicherungsmassnahmen können durch die Fakultätsleitung angeordnet werden.
 
 #### § 5
 
@@ -107,7 +108,7 @@ beschliesst:
 
 <sup>3</sup> Zur Orientierung der Studierenden und Erleichterung der Studienplanung steht ein Modulkatalog für das Regelcurriculum in der Wegleitung zur StuPo des JMM zur Verfügung.
 
-<sup>4</sup> Die Buchung der Module erfolgt über das Studienzentrum des Departements.
+<sup>4</sup> Die Buchung der Module erfolgt über das Studiendekanat der Fakultät.
 
 #### § 9
 
@@ -124,19 +125,19 @@ beschliesst:
 
 #### § 10
 
-**Berechnung der Studienleistungen in ECTS-Credits**
+**ECTS-Punkte**
 
-<sup>1</sup> Das Departement berechnet Studienleistungen in ECTS-Credits nach dem «European Credit Transfer and Accumulation System».
+<sup>1</sup> Die Fakultät berechnet Studienleistungen in ECTS-Punkten nach dem «European Credit Transfer and Accumulation System».
 
-<sup>2</sup> Der JMM beruht auf Studienleistungen von durchschnittlich 30 ECTS-Credits für jedes Semester.
+<sup>2</sup> Der JMM beruht auf Studienleistungen von durchschnittlich 30 ECTS-Punkten für jedes Semester.
 
-<sup>3</sup> Einem ECTS-Credit entspricht ein durchschnittliches studentisches Arbeitspensum von 25 bis 30 Stunden.
+<sup>3</sup> Einem ECTS-Punkt entspricht ein durchschnittliches studentisches Arbeitspensum von 25 bis 30 Stunden.
 
 #### § 11
 
-**Erwerb und Zuteilung von ECTS-Credits**
+**Erwerb und Zuteilung von ECTS-Punkten**
 
-<sup>1</sup> ECTS-Credits werden aufgrund erfolgreich erbrachter Studienleistungen erworben, insbesondere durch
+<sup>1</sup> ECTS-Punkte werden aufgrund erfolgreich erbrachter Studienleistungen erworben, insbesondere durch
 
 - a. schriftliche, mündliche und praktische Prüfungen,
 - b. schriftliche Arbeiten,
@@ -150,7 +151,7 @@ beschliesst:
 - j. problemorientiertes Lernen (POL),
 - k. arbeitsplatzbasierte Assessments.
 
-<sup>2</sup> Die Zuteilung von ECTS-Credits auf die einzelnen Module (inklusive Masterarbeit) ist in der Wegleitung des Studiengangs festgehalten.
+<sup>2</sup> Die Zuteilung von ECTS-Punkten auf die einzelnen Module (inklusive Masterarbeit) ist in der Wegleitung des Studiengangs festgehalten.
 
 #### § 12
 
@@ -166,7 +167,7 @@ beschliesst:
 
 <sup>1</sup> Studierende erhalten für alle erbrachten Studienleistungen einen Leistungsnachweis.
 
-<sup>2</sup> Leistungsnachweise enthalten den Titel der Lehrveranstaltung oder die Bezeichnung der Studienleistung, die Anzahl der ECTS-Credits und das Ergebnis (Note bzw. Wertung).
+<sup>2</sup> Leistungsnachweise enthalten den Titel der Lehrveranstaltung oder die Bezeichnung der Studienleistung, die Anzahl der ECTS-Punkte und das Ergebnis (Note bzw. Wertung).
 
 #### § 14
 
@@ -212,11 +213,11 @@ beschliesst:
 
 **Anerkennung und Anrechnung**
 
-<sup>1</sup> Die Anerkennung ist der Ausweis erbrachter Studienleistungen im Leistungsausweis (Transcript of Records) und erfolgt von einer im Rahmen dieses Studienprogramms an der UniLU oder an der UZH erbrachten Studienleistung automatisch.
+<sup>1</sup> Die Anerkennung ist der Ausweis erbrachter Studienleistungen im Leistungsausweis (Transcript of Records) und erfolgt von einer im Rahmen dieses Studienprogramms an der Universität Luzern oder an der Universität Zürich erbrachten Studienleistung automatisch.
 
-<sup>2</sup> Die Anrechnung ist die Zuordnung anerkannter Studienleistungen und erfolgt für Studienleistungen, die an der UniLU oder an der UZH im Rahmen dieses Studienprogramms erbracht worden sind, automatisch.
+<sup>2</sup> Die Anrechnung ist die Zuordnung anerkannter Studienleistungen und erfolgt für Studienleistungen, die an der Universität Luzern oder an der Universität Zürich im Rahmen dieses Studienprogramms erbracht worden sind, automatisch.
 
-<sup>3</sup> An anderen Medizinischen Fakultäten erworbene ECTS-Credits können anerkannt oder angerechnet werden, wenn sie äquivalent und grundsätzlich innerhalb von vollständig abgeschlossenen Studienjahren (in der Regel 60 ECTS-Credits) erworben worden sind. Entsprechende Gesuche sind mit Unterlagen im Original oder als beglaubigte Kopie an das Studienzentrum einzureichen.
+<sup>3</sup> An anderen medizinischen Fakultäten erworbene ECTS-Punkte können anerkannt oder angerechnet werden, wenn sie äquivalent und grundsätzlich innerhalb von vollständig abgeschlossenen Studienjahren (in der Regel 60 ECTS-Punkte) erworben worden sind. Entsprechende Gesuche sind mit Unterlagen im Original oder als beglaubigte Kopie beim Studiendekanat einzureichen.
 
 <sup>4</sup> Der Studien- und Prüfungsausschuss entscheidet über die Anrechnung und Anerkennung von auswärts erbrachten Studienleistungen.
 
@@ -228,7 +229,7 @@ beschliesst:
 
 <sup>1</sup> Der Nachteilsausgleich soll Studierenden mit Behinderungen und/oder chronischen Krankheiten ermöglichen, das Studium unter angepassten Bedingungen und Prüfungen bzw. Studienleistungen chancengleich zu absolvieren[^17-1].
 
-<sup>2</sup> Der Antrag auf Gewährung eines Nachteilsausgleichs hat schriftlich und dokumentiert an den Studien- und Prüfungsausschuss des Departements zu erfolgen. Dieser kann unter Angabe triftiger Gründe semesterweise nachteilsausgleichende Massnahmen gewähren.
+<sup>2</sup> Der Antrag auf Gewährung eines Nachteilsausgleichs hat schriftlich und dokumentiert an den Studien- und Prüfungsausschuss der Fakultät zu erfolgen. Dieser kann unter Angabe triftiger Gründe semesterweise nachteilsausgleichende Massnahmen gewähren.
 
 <sup>3</sup> Die Gewährung rückwirkender Massnahmen ist ausgeschlossen.
 
@@ -238,21 +239,21 @@ beschliesst:
 
 **Studienausschluss**
 
-<sup>1</sup> Wird die Wiederholung eines Leistungsnachweises nach Massgabe von § 15 nicht bestanden oder verfallen ECTS-Credits für Module nach § 16, so ist die erforderliche Leistung endgültig nicht erbracht und es erfolgt ein endgültiger Ausschluss vom Studiengang.
+<sup>1</sup> Wird die Wiederholung eines Leistungsnachweises nach Massgabe von § 15 nicht bestanden oder verfallen ECTS-Punkte für Module nach § 16, so ist die erforderliche Leistung endgültig nicht erbracht und es erfolgt ein endgültiger Ausschluss vom Studiengang.
 
-<sup>2</sup> Der Ausschluss wird von der Departementsvorsteherin bzw. dem Departementsvorsteher verfügt.
+<sup>2</sup> Der Ausschluss wird von der Dekanin bzw. dem Dekan verfügt.
 
 #### § 19
 
-**Unkorrektes Verhalten bei Prüfungen und anderen Leistungskontrollen**
+**Unkorrektes Verhalten bei Prüfungen**
 
-<sup>1</sup> Es ist unzulässig,
+<sup>1</sup> Es ist unzulässig, während einer Prüfung
 
 - a. andere als die zugelassenen Hilfsmittel mitzuführen oder zu verwenden,
 - b. mit anderen Personen Informationen auszutauschen oder sie bei der Abfassung der Prüfung zu unterstützen,
 - c. in schriftlichen Prüfungen weiterzuschreiben, nachdem die Prüfungsaufsicht das Ende der Prüfungszeit erklärt hat,
-- d. jedwelche andere Täuschungsversuche zu unternehmen,
-- e. die Ruhe während Prüfungen zu stören.
+- d. jedwede andere Täuschungsversuche zu unternehmen,
+- e. die Ruhe im Prüfungsraum zu stören.
 
 <sup>2</sup> Des Weiteren gelten als unkorrekt:
 
@@ -269,7 +270,7 @@ beschliesst:
 
 <sup>1</sup> Studentische Arbeiten können zum Zweck der Überprüfung auf Plagiate unter Einsatz entsprechender Software überprüft werden. Dafür können geeignete Dienstleister beauftragt werden.
 
-<sup>2</sup> Wird eine Studienleistung nicht in allen Teilen selbständig erbracht, oder werden verwendete kreative Leistungen Dritter nicht oder nicht ausreichend kenntlich gemacht, wird sie als nicht bestanden und mit der Note 1 bewertet. Vorbehalten bleiben Sanktionen der Universität und die Strafverfolgung. Bei Geringfügigkeit kann sie eine Verbesserung zulassen.
+<sup>2</sup> Wird eine Studienleistung nicht in allen Teilen selbständig erbracht oder werden verwendete kreative Leistungen Dritter nicht oder nicht ausreichend kenntlich gemacht, wird sie als nicht bestanden und mit der Note 1 bewertet.
 
 <sup>3</sup> Bei wiederholter Unkorrektheit oder schwerer Zuwiderhandlung wird die Kandidatin oder der Kandidat vom JMM endgültig ausgeschlossen.
 
@@ -285,15 +286,15 @@ beschliesst:
 
 <sup>2</sup> Die Masterarbeit ist grundsätzlich in deutscher oder englischer Sprache abzufassen.
 
-<sup>3</sup> Der Arbeitsumfang beträgt mindestens 450 Stunden, dies entspricht 15 ECTS-Credits. Die Masterarbeit wird benotet.
+<sup>3</sup> Der Arbeitsumfang beträgt mindestens 450 Stunden, dies entspricht 15 ECTS-Punkten. Die Masterarbeit wird benotet.
 
-<sup>4</sup> Detaillierte Informationen sind in der Wegleitung sowie in den dazugehörenden Richtlinien erläutert.
+<sup>4</sup> Detaillierte Informationen sind in der Wegleitung sowie in der zugehörigen Richtlinie erläutert.
 
 #### § 22
 
 **Leitung und Betreuung**
 
-<sup>1</sup> Die Leitung der Masterarbeit erfolgt durch die projektverantwortliche Person der jeweiligen Institution. Es sind Professorinnen und Professoren, Titularprofessorinnen und Titularprofessoren, Privatdozierende und klinische Dozierende, welche in einem Dienstverhältnis an der Universität Luzern oder bei einer ihrer Partnerinstitutionen (nach § 9) stehen. Die Leiterin bzw. der Leiter sorgt dafür, dass die Umsetzung der Masterarbeit nach den entsprechenden Richtlinien durchgeführt werden kann.
+<sup>1</sup> Die Leitung der Masterarbeit erfolgt durch die projektverantwortliche Person der jeweiligen Institution. Es sind Professorinnen und Professoren, Titularprofessorinnen und Titularprofessoren, Privatdozierende und klinische Dozierende, welche in einem Dienstverhältnis an der Universität Luzern oder bei einer ihrer Partnerinstitutionen (nach § 9) stehen. Die Leiterin bzw. der Leiter sorgt dafür, dass die Umsetzung der Masterarbeit nach der zugehörigen Richtlinie durchgeführt werden kann.
 
 <sup>2</sup> Darüber hinaus besteht die Möglichkeit, dass forschungsinteressierte Personen, welche über eine akademische Qualifikation gemäss Absatz 1 verfügen, über die Partnerinstitutionen hinaus Themenvorschläge unterbreiten und die Leitung einer Masterarbeit beantragen können. Anträge für neue Masterarbeitsleiterinnen bzw. -leiter werden durch die Koordinationskommission der Universitäten Luzern und Zürich «sur dossier» beurteilt.
 
@@ -303,13 +304,13 @@ beschliesst:
 
 **Bewertung**
 
-<sup>1</sup> Die Leiterin bzw. der Leiter und die Betreuerin bzw. der Betreuer bewerten die Masterarbeit gemeinsam und legen einen Notenvorschlag fest. Sie bestätigen, dass die Masterarbeit entsprechend dieser StuPo und den Richtlinien verfasst und die fachlichen Kriterien erfüllt sind.
+<sup>1</sup> Die Leiterin bzw. der Leiter und die Betreuerin bzw. der Betreuer bewerten die Masterarbeit gemeinsam und legen einen Notenvorschlag fest. Sie bestätigen, dass die Masterarbeit entsprechend dieser StuPo und der zugehörigen Richtlinie verfasst und die fachlichen Kriterien erfüllt sind.
 
 #### § 24
 
 **Beurteilung**
 
-<sup>1</sup> Zur Beurteilung der Masterarbeit setzt die Medizinische Fakultät der UZH eine gemeinsame Masterarbeitskommission ein.
+<sup>1</sup> Zur Beurteilung der Masterarbeit setzt die Medizinische Fakultät der Universität Zürich eine gemeinsame Masterarbeitskommission ein.
 
 <sup>2</sup> Diese entscheidet über die von der Leitenden bzw. dem Leitenden sowie der Betreuerin bzw. dem Betreuer vorgeschlagene Note der Masterarbeit und kann dazu eine unabhängige Begutachtung in Auftrag geben.
 
@@ -331,17 +332,17 @@ beschliesst:
 
 <sup>1</sup> Im Wahlstudienjahr (WSJ) werden besonders die praktischen ärztlichen Fertigkeiten und Fähigkeiten erlernt und vertieft. Die Studierenden üben eine ganztägige, praktische Tätigkeit als Unterassistentin bzw. Unterassistent in Spitälern, Arztpraxen, Instituten und sonstigen Einrichtungen des Gesundheitswesens unter Aufsicht von für die Ausbildung verantwortlichen Ärztinnen und Ärzten und Berücksichtigung der allgemeinen Ausbildungsziele aus.
 
-<sup>2</sup> Das WSJ ist in Übereinstimmung mit dieser StuPo, der Wegleitung sowie den Richtlinien zum WSJ zu absolvieren und in einem Logbuch zu dokumentieren.
+<sup>2</sup> Das WSJ ist in Übereinstimmung mit dieser StuPo, der Wegleitung sowie der zugehörigen Richtlinie zum WSJ zu absolvieren und in einem Logbuch zu dokumentieren.
 
 <sup>3</sup> Weitere Informationen zum WSJ werden in geeigneter Weise publiziert.
 
-## 7 Studienabschluss
+## 7 Studienabschluss und Urkunden
 
 #### § 27
 
 **Studienabschluss**
 
-<sup>1</sup> Ein Studiengang ist erfolgreich beendet, wenn unter Einhaltung der vorgenannten Bedingungen sowie der Wegleitung insgesamt 180 ECTS-Credits erworben worden sind.
+<sup>1</sup> Ein Studiengang ist erfolgreich beendet, wenn unter Einhaltung der vorgenannten Bedingungen sowie der Wegleitung insgesamt 180 ECTS-Punkte erworben worden sind.
 
 <sup>2</sup> Wenn eine Kandidatin oder ein Kandidat die für den Masterabschluss erforderlichen Studienleistungen erbracht hat, reicht sie oder er einen Antrag auf Studienabschluss beim zuständigen Organ der Universität Luzern ein. Dieser Antrag umfasst folgende Schriftstücke:
 
@@ -355,7 +356,7 @@ beschliesst:
 
 <sup>1</sup> Die Absolventinnen und Absolventen erhalten die folgenden Abschlussdokumente: eine Diplomurkunde, ein Abschlusszeugnis (Academic Record) und ein Diplomzusatz (Diploma Supplement).
 
-<sup>2</sup> Die Diplomurkunde bestätigt den erfolgreichen Abschluss des M Med UniLU UZH. Sie enthält die Bezeichnung des Studiengangs und den verliehenen Grad und, soweit vorhanden, die Fachnoten. Sie wird mit dem Logo der UniLU und der UZH sowie dem Stempel der UniLU als Leading House versehen und von den Universitätsleitungen der Universitäten Zürich und Luzern, der Dekanin bzw. dem Dekan der Medizinischen Fakultät der UZH und von der Departementsvorsteherin bzw. vom Departementsvorsteher Gesundheitswissenschaften und Medizin der UniLU unterzeichnet.
+<sup>2</sup> Die Diplomurkunde bestätigt den erfolgreichen Abschluss des M Med UniLU UZH. Sie enthält die Bezeichnung des Studiengangs und den verliehenen Grad und, soweit vorhanden, die Fachnoten. Sie wird mit dem Logo der Universität Luzern und der Universität Zürich sowie dem Stempel der Universität Luzern als Leading House versehen und von den Universitätsleitungen der Universitäten Zürich und Luzern, der Dekanin bzw. dem Dekan der Medizinischen Fakultät der Universität Zürich und von der Dekanin bzw. dem Dekan der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern unterzeichnet.
 
 <sup>3</sup> Im Abschlusszeugnis werden alle an den Studienabschluss angerechneten sowie die anerkannten, aber nicht an den Studienabschluss angerechneten Studienleistungen mit der jeweiligen Bewertung ausgewiesen; ferner werden die Note und der Titel der Masterarbeit aufgeführt. Der Ausstellungsort wird entsprechend gekennzeichnet.
 
@@ -377,13 +378,13 @@ beschliesst:
 
 **Härtefälle**
 
-<sup>1</sup> Zur Vermeidung von Härtefällen kann die Departementsvorsteherin oder der Departementsvorsteher auf schriftliches Gesuch hin ausnahmsweise von einzelnen Bestimmungen dieser Ordnung abweichen.
+<sup>1</sup> Zur Vermeidung von Härtefällen kann die Dekanin oder der Dekan auf schriftliches Gesuch hin ausnahmsweise von einzelnen Bestimmungen dieser Ordnung abweichen.
 
 #### § 31
 
 **Rechtsmittel**
 
-<sup>1</sup> Gegen Entscheide in Zusammenhang mit dieser StuPo kann nach den Bestimmungen des Universitätsgesetzes[^31-1] und des Gesetzes über die Verwaltungsrechtspflege[^31-2] beim Bildungsdepartement Verwaltungsbeschwerde geführt werden.
+<sup>1</sup> Gegen Entscheide in Zusammenhang mit dieser StuPo kann nach den Bestimmungen des Universitätsgesetzes[^31-1] und des Gesetzes über die Verwaltungsrechtspflege[^31-2] beim Bildungs- und Kulturdepartement Verwaltungsbeschwerde geführt werden.
 
 <sup>2</sup> Die Beschwerdefrist beträgt 30 Tage.
 
