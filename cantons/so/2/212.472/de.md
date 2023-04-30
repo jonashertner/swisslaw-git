@@ -3,20 +3,20 @@ canton: SO
 number: "212.472"
 title: Verordnung über die Führung des Grundbuches
 language: de
-version: 2016-09-01
-valid_until: 2023-04-30
-version_adopted: 2016-05-09
+version: 2023-05-01
+valid_until: 2025-12-31
+version_adopted: 2023-01-23
 adopted: 1995-09-26
 in_force: 1996-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/212.472"
-pdf: "https://bgs.so.ch/api/de/versions/4555/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5328/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Führung des Grundbuches
 
-Vom 26.09.1995 (Stand 01.09.2016)
+Vom 26.09.1995 (Stand 01.05.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -253,19 +253,33 @@ beschliesst:
 
 **…**
 
+#### § 26bis
+
+**Elektronischer Zugang und Sperrrecht (Art. 27 GBV)**
+
+<sup>1</sup> Aus den ohne Interessennachweis einsehbaren rechtswirksamen Daten des Hauptbuches gemäss Artikel 26 Absatz 1 Buchstabe a GBV sind elektronisch öffentlich zugänglich:
+
+- a) die Bezeichnung des Grundstücks und die Grundstücksbeschreibung;
+- b) der Eigentümer:
+  - 1\. bei natürlichen Personen: der Name und die Vornamen;
+  - 2\. bei juristischen Personen sowie bei Kollektiv- und bei Kommanditgesellschaften: die Firma oder der Name;
+- c) die Eigentumsform und das Erwerbsdatum.
+
+<sup>2</sup> Der elektronische Abruf der Daten darf nur grundstücksbezogen erfolgen. Serienabfragen sind unzulässig.
+
+<sup>3</sup> Der elektronische Zugang auf Daten im Sinne dieser Bestimmung ist auf Antrag eines Eigentümers zu sperren.
+
 #### § 27
 
-**Zugriff im Abrufverfahren, Datenbezug, Meldewesen, Entzug Berechtigung (Art. 28, 29 und 30 GBV)**
+**Datenbezug, erweiterter elektronischer Zugang, Entzug der Zugriffsberechtigung, Meldewesen (Art. 20, 28, 29 und 30 GBV)**
 
-<sup>1</sup> Das Finanzdepartement bewilligt den Zugriff auf die Daten des informatisierten Grundbuchs im elektronischen Abrufverfahren. Das Finanzdepartement schliesst mit den Zugriffberechtigten eine Vereinbarung nach Art. 29 der Grundbuchverordnung des Bundesrates vom 23. September 2011 (GBV)[^27-1] ab.
+<sup>1</sup> Das Grundbuchamt darf die Daten der Grundstücksbeschreibung sowie die Adressen der Personen, denen Rechte an Grundstücken zustehen, auf dem Weg der elektronischen Übermittlung beziehen (Art. 20 Abs. 3 GBV).
 
-<sup>2</sup> Das Grundbuchamt darf die Daten der Grundstücksbeschreibung sowie die Adressen der Personen, denen Rechte an Grundstücken zustehen, auf dem Weg der elektronischen Übermittlung beziehen (Art. 20 Abs. 3 GBV).
+<sup>2</sup> Das Finanzdepartement bewilligt den erweiterten Zugriff auf die Daten des informatisierten Grundbuchs im elektronischen Abrufverfahren. Das Finanzdepartement schliesst mit den Zugriffsberechtigten eine Vereinbarung nach Artikel 29 GBV ab.
 
-<sup>3</sup> Meldungen des Grundbuchverwalters nach § 15 dürfen elektronisch übermittelt werden.
+<sup>3</sup> Werden die bezogenen Daten missbräuchlich verwendet, so entzieht das Finanzdepartement die Zugriffsberechtigung mittels beschwerdefähiger Verfügung (Art. 30 Abs. 3 GBV).
 
-<sup>4</sup> Werden die bezogenen Daten missbräuchlich verwendet, so entzieht das Finanzdepartement die Zugriffsberechtigung mittels beschwerdefähiger Verfügung (Art. 30 Abs. 3 GBV).
-
-[^27-1]: SR [211.432.1](https://db.clex.ch/link/Bund/211.432.1/de).
+<sup>4</sup> Meldungen des Grundbuchverwalters nach § 15 dürfen elektronisch übermittelt werden.
 
 #### § 28
 
