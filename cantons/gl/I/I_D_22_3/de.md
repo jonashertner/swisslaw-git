@@ -4,13 +4,13 @@ number: I D/22/3
 title: Verordnung über die politischen Rechte
 short: VPR
 language: de
-version: 2018-01-01
-valid_until: 2023-04-30
-version_adopted: 2017-11-21
+version: 2023-05-01
+valid_until: 2025-12-31
+version_adopted: 2023-04-25
 adopted: 2017-11-21
 in_force: 2018-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/I-D.22.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/1974/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2421/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1974/pdf_file"
 
 (VPR)
 
-Vom 21.11.2017 (Stand 01.01.2018)
+Vom 21.11.2017 (Stand 01.05.2023)
 
 Der Regierungsrat,
 
@@ -220,12 +220,23 @@ erlässt:
 
 **Zeitpunkt**
 
-<sup>1</sup> Für erste Wahlgänge können interessierte Personen ihre Kandidatur bis spätestens am achten Montag vor dem Abstimmungstag melden:
+<sup>1</sup> Für erste Wahlgänge können interessierte Personen ihre Kandidatur bis spätestens am siebten Montag vor dem Abstimmungstag melden:
 
 - a. bei der Staatskanzlei für die Wahl des Regierungsrates, des Nationalrates und der Ständeräte;
 - b. bei der Gemeindekanzlei bei Gemeindewahlen nach Artikel 30 Absatz 1 Buchstaben b–e des Gesetzes über die politischen Rechte[^16-1].
 
-<sup>2</sup> Die Mitteilung hat Namen, Vornamen, Geschlecht, Geburtsdatum, Heimatort, Beruf und Wohnort zu enthalten. Das angestrebte Amt ist eindeutig zu bezeichnen.
+<sup>2</sup> Die Mitteilung hat zu enthalten:
+
+- a. amtliche Namen und Vornamen;
+- b. Namen und Vornamen, unter denen die Person politisch oder im Alltag bekannt ist;
+- c. Geschlecht;
+- d. Geburtsdatum;
+- e. Wohnadresse einschliesslich Postleitzahl;
+- f. Heimatorte einschliesslich Kantonszugehörigkeit;
+- g. Zugehörigkeit zu einer Partei bzw. einer politischen Gruppierung;
+- h. Beruf;
+- i. eindeutige Bezeichnung des angestrebten Amtes;
+- j. Zusatz «bisher», wenn die Person das Amt innehat.
 
 <sup>3</sup> Die Kandidatur ist durch Unterschrift zu bestätigen.
 
@@ -610,8 +621,6 @@ erlässt:
 
 #### Art. 46
 
-**Anwendung freiwilliges Anmeldeverfahren**
-
-<sup>1</sup> Die Bestimmungen über das freiwillige Anmeldeverfahren bei Wahlen im Mehrheitswahlverfahren (Art. 16 und 17) kommen nur zur Anwendung, wenn der elektronische Stimmkanal für die entsprechende Wahl zum Einsatz gelangt.
+**…**
 
 SBE 2017 26
