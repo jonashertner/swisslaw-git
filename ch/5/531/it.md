@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2016 sull'approvvigionamento economico del 
 short: LAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: it
-version: 2023-04-01
+version: 2023-05-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230401-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230501/it/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230501-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230401/it"
 
 (Legge sull’approvvigionamento del Paese, LAP)
 
-del 17 giugno 2016 (Stato 1° aprile 2023)
+del 17 giugno 2016 (Stato 1° maggio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -791,7 +791,7 @@ Il Consiglio federale può dichiarare temporaneamente inapplicabili le seguenti 
 - 1\. l’articolo 2 capoverso 2 della legge federale del 19 dicembre 1958[^annex1-lvlu1-1] sulla circolazione stradale;
 - 2\.[^annex1-lvlu1-2] gli articoli 2, 8 capoverso 2 e 22 della legge del 22 giugno 1979[^annex1-lvlu1-3] sulla pianificazione del territorio;
 - 3\.[^annex1-lvlu1-4] l’articolo 10*a* della legge del 7 ottobre 1983[^annex1-lvlu1-5] sulla protezione dell’ambiente;
-- 3<sup>bis</sup>.[^annex1-lvlu1-6] l’articolo 15e della legge del 24 giugno 1902[2](https://www.fedlex.admin.ch/eli/oc/2022/545/it) sugli impianti elettrici;
+- 3<sup>bis</sup>.[^annex1-lvlu1-6] ...
 - 4\.[^annex1-lvlu1-7] l’articolo 16 capoverso 1 della legge del 24 giugno 1902[^annex1-lvlu1-8] sugli impianti elettrici;
 - 5\.[^annex1-lvlu1-9] gli articoli 7 e 8 della legge del 13 marzo 1964[^annex1-lvlu1-10] sul lavoro;
 - 6\.[^annex1-lvlu1-11] l’articolo 2 capoverso 1 della legge del 4 ottobre 1963[^annex1-lvlu1-12] sugli impianti di trasporto in condotta;
