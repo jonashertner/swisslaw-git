@@ -4,10 +4,10 @@ number: "415.418"
 title: Habilitationsordnung der Rechtswissenschaftlichen Fakultät der Universität Zürich (HabilO RWF)
 short: HabilO RWF
 language: de
-nachtrag: "112"
-valid_until: 2023-05-01
+version: "2023-05-01"
+nachtrag: "121"
 adopted: 2020-12-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_418-2020_12_02-2021_04_01-112.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_418-2020_12_02-2021_04_01-121.html"
 text: pdf
 ---
 
@@ -55,7 +55,7 @@ Die Grundlagen für die Habilitation bilden eine schriftliche und eine mündlich
 
 **1**
 
-- 1\. 4. 21 - 112
+- 1\. 7. 23 - 121
 
 <sup>4</sup> Werden mehrere wissenschaftliche Abhandlungen als schriftliche Habilitationsleistung eingereicht, gelten folgende Anforderungen:
 
@@ -109,21 +109,23 @@ Die Grundlagen für die Habilitation bilden eine schriftliche und eine mündlich
 
 #### § 7
 
-**Mündliche Habilitationsleistung**
+**Ernennung**
 
 <sup>1</sup> Vor der Abnahme der schriftlichen Habilitationsleistung fordert die Dekanin oder der Dekan die Habilitandin oder den Habilitanden auf, drei Themenvorschläge für einen wissenschaftlichen Vortrag einzureichen. Keines der Themen darf aus dem engeren Gebiet der schriftliche Habilitationsleistung stammen.
 
-<sup>2</sup> Die Fakultätsversammlung wählt aus diesen Vorschlägen ein Thema aus und lädt die Habilitandin oder den Habilitanden zu einem Vortrag ein. Der Habilitandin oder dem Habilitanden wird die Themenwahl zehn Tage vor dem Vortrag mitgeteilt. Die Fakultätsversammlung kann die eingereichten Themenvorschläge auch zurückweisen und neue Themenvorschläge einfordern.
+<sup>2</sup> Die Fakultätsversammlung wählt aus diesen Vorschlägen ein Thema aus und lädt die Habilitandin oder den Habilitanden zu einem Vortrag ein. Der Habilitandin oder dem Habilitanden wird die Themenwahl 20 Tage vor dem Vortrag mitgeteilt. Die Fakultätsversammlung kann die eingereichten Themenvorschläge auch zurückweisen und neue einfordern.[^7-1]
 
 <sup>3</sup> Die Habilitandin oder der Habilitand hält vor der Fakultätsversammlung einen Vortrag von 20 Minuten Dauer und beantwortet anschliessend Fragen aus dem Auditorium.
 
 **3**
 
-- 1\. 4. 21 - 112
+- 1\. 7. 23 - 121
 
 <sup>4</sup> Die Habilitandin oder der Habilitand hat dadurch den Nachweis wissenschaftlicher Kompetenz sowie der Befähigung zur Vermittlung eines wissenschaftlichen Gegenstandes in didaktisch-methodisch fundierter Weise zu erbringen.
 
 <sup>5</sup> Wird die mündliche Habilitationsleistung als ungenügend beurteilt, erhält die Habilitandin oder der Habilitand im Rahmen des laufenden Habilitationsverfahrens einmal Gelegenheit zur Wiederholung. Dabei müssen drei neue Themenvorschläge eingereicht werden. Vom zweiten Vortrag und vom anschliessenden Kolloquium wird eine Tonaufzeichnung erstellt.
+
+[^7-1]: Fassung gemäss B vom 7. Dezember 2022 (OS 78, 131; ABl 2023-02-03). In Kraft seit 1. Mai 2023.
 
 #### § 8
 
