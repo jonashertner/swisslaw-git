@@ -3,20 +3,20 @@ canton: GR
 number: "840.110"
 title: Ordinanza relativa alla legge sulla protezione antincendio
 language: it
-version: 2013-01-01
-corrected: 2014-12-17
-version_adopted: 2012-12-18
+version: 2023-05-01
+valid_until: 2025-08-31
+version_adopted: 2023-04-04
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/840.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2390/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3301/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Ordinanza relativa alla legge sulla protezione antincendio
 
-del 26.10.2010 (stato 01.01.2013)
+del 26.10.2010 (stato 01.05.2023)
 
 emanata dal Governo il 26 ottobre 2010
 
@@ -32,7 +32,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Prescrizioni di protezione antincendio**
 
-<sup>1</sup> Quali prescrizioni vincolanti per la protezione antincendio preventiva valgono le prescrizioni di protezione antincendio dell'Associazione degli istituti cantonali di assicurazione antincendio, le direttive e le linee guida di organizzazioni del settore dichiarate vincolanti dalla stessa, nonché i promemoria emanati dall'Assicurazione fabbricati conformemente all'appendice 1.
+<sup>1</sup> Quali prescrizioni vincolanti per la protezione antincendio preventiva valgono le prescrizioni di protezione antincendio dell'Associazione degli istituti cantonali di assicurazione antincendio conformemente alla versione attuale dell'appendice 1.
 
 #### Art. 2
 
@@ -40,14 +40,15 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Sono considerati edifici e impianti senza particolare pericolo:
 
-- a) edifici abitativi massicci fino al limite degli edifici alti;
-- b) edifici abitativi realizzati con costruzione di tipo combustibile con un massimo di tre piani;
+- a) edifici abitativi massicci della categoria altezza ridotta e media;
+- b) edifici abitativi realizzati con costruzione di tipo combustibile della categoria altezza ridotta;
 - c) autorimesse per veicoli a motore con una superficie del piano fino a 600 m²;
 - d) edifici rurali e aziende agricole con un volume fino a 3000 m³;
 - e) piccole aziende artigianali che non sono a rischio di incendio o di esplosione;
-- f) esercizi pubblici con un'occupazione massima di 100 persone;
-- g) edifici annessi (ad es. casette da giardino, ripari per biciclette, stalle per piccoli animali, piccoli depositi).
-- h) dispositivi tecnici di protezione antincendio e impianti tecnici dell'edificio per edifici e impianti secondo le lettere a-g.
+- f) esercizi pubblici e locali di vendita situati al pianterreno con un'occupazione massima di 100 persone;
+- g) edifici con dimensioni ridotte;
+- h) edifici annessi (ad es. casette da giardino, ripari per biciclette, stalle per piccoli animali, piccoli depositi);
+- i) dispositivi tecnici di protezione antincendio e impianti tecnici dell'edificio per edifici e impianti secondo le lettere a-h.
 
 #### Art. 3
 
@@ -58,17 +59,17 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - a) edifici e impianti non elencati nell'articolo 2;
 - b) edifici e impianti che divergono dalle misure standard della Norma di protezione antincendio e delle prescrizioni di protezione antincendio dell'Associazione degli istituti cantonali di assicurazione antincendio.
 
-### 1.2. Permesso di protezione antincendio
+### 1.2. Permesso di polizia del fuoco
 
 #### Art. 4
 
 **Manifestazioni con particolare pericolo**
 
-<sup>1</sup> Sono manifestazioni con particolare pericolo per persone, animali, oggetti e per l'ambiente in particolare:
+<sup>1</sup> Sono manifestazioni con particolare pericolo per persone, animali e oggetti in particolare:
 
 - a) eventi con una concentrazione di persone che supera l'occupazione dei locali determinante per le vie di fuga necessarie;
 - b) eventi con attività incompatibili con le vie di fuga dei locali;
-- c) eventi all'aperto a partire da 500 persone e in costruzioni provvisorie a partire da 200 persone.
+- c) eventi all'aperto a partire da 1000 persone e in tende o costruzioni provvisorie a partire da 300 persone.
 
 #### Art. 5
 
@@ -95,7 +96,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Trasferimento dell'attività di protezione antincendio**
 
-<sup>1</sup> Per l'indennizzo dell'Assicurazione fabbricati per prestazioni fornite su incarico dei comuni valgono le aliquote di compensazione del Cantone per prestazioni a favore di terzi.
+<sup>1</sup> Prestazioni fornite dall'Assicurazione fabbricati su incarico del comune vengono fatturate al comune secondo le aliquote di compensazione del Cantone per prestazioni a favore di terzi.
 
 ### 1.3. Controlli della protezione antincendio
 
@@ -132,29 +133,32 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Vanno controllati ogni due anni:
 
-- a) gli edifici a rischio d'incendio e di esplosione;
-- b) le attività di alloggio quali ospedali, case di riposo e di cura che ospitano dieci o più persone non autosufficienti;
-- c) negozi e grandi magazzini con una superficie globale di vendita superiore a 1200 m²;
-- d) costruzioni e impianti con locali a grande concentrazione di persone, in particolare sale multiuso, palestre e padiglioni espositivi, edifici scolastici con sale multiuso, stazioni ferroviarie, teatri, cinema, ristoranti ed edifici simili dotati di spazi in cui possono trattenersi più di 100 persone;
-- e) esercizi artigianali e industriali.
+- a) gli edifici a rischio d'incendio e di esplosione.
+- b) …
+- c) …
+- d) …
+- e) …
 
 <sup>2</sup> Vanno controllati ogni cinque anni:
 
-- a) le attività di alloggio quali alberghi, pensioni e colonie di vacanza che ospitano quindici o più persone autosufficienti;
-- b) le attività di alloggio isolate;
-- c) edifici alti il cui ultimo piano si trova a oltre 22 m sopra il terreno limitrofo riservato ai pompieri, o con un'altezza di gronda superiore a 25 m.
-- d) edifici rurali e aziende agricole con un volume superiore a 3000 m³;
-- e) locali di vendita con una superficie di vendita di meno di 1200 m², nella misura in cui il numero massimo di persone sia superiore a 100;
-- f) autorimesse per veicoli a motore con una superficie del piano superiore a 600 m²;
-- g) piccole aziende artigianali che non sono a rischio di incendio o di esplosione;
-- h) esercizi pubblici fino a un massimo di 100 persone.
+- a) le attività di alloggio che ospitano costantemente o temporaneamente 20 o più persone;
+- b) …
+- c) …
+- d) grattacieli con un'altezza complessiva superiore ai 30 m;
+- e) edifici rurali e aziende agricole con un volume superiore a 3000 m³;
+- f) negozi con una superficie complessiva, collegata come compartimenti tagliafuoco, superiore a 1200 m²;
+- g) locali di vendita con una superficie di vendita superiore a 600 m², fino a 1200 m²;
+- h) locali a grande concentrazione di persone in cui possono trattenersi più di 300 persone, in particolare sale multiuso, palestre e padiglioni espositivi, sale, teatri, cinema, ristoranti e luoghi di riunione simili;
+- i) parcheggi con una superficie del piano superiore a 600 m²;
+- k) esercizi artigianali e industriali;
+- l) edifici scolastici, scuole dell'infanzia, strutture di custodia collettiva diurna.
 
 <sup>3</sup> Vanno controllati ogni dieci anni:
 
-- a) edifici abitativi con impianti di combustione individuali;
-- b) autosili e autorimesse per veicoli a motore con una superficie del piano fino a 600 m²;
-- c) edifici amministrativi
-- d) locali di vendita con una superficie di vendita inferiore ai 1200 m², qualora il numero di persone non sia superiore a 100;
+- a) autorimesse per veicoli a motore con una superficie del piano da 150 m² a 600 m²;
+- b) edifici amministrativi;
+- c) locali di vendita con una superficie di vendita da 100 m² a 600 m²;
+- d) locali con concentrazione di persone ridotta in cui possono trattenersi da 50 a 300 persone, in particolare sale multiuso, palestre e padiglioni espositivi, sale, teatri, cinema, ristoranti.
 
 <sup>4</sup> L'autorità di controllo competente può prolungare l'intervallo del controllo periodico per edifici e impianti con una valutazione positiva dei rischi di polizia del fuoco o con uno stato impeccabile di protezione antincendio, mentre può abbreviarlo per edifici e impianti con una valutazione negativa dei rischi o in uno stato di protezione antincendio lacunoso.
 
@@ -180,7 +184,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>3</sup> Con la tariffa secondo dispendio di tempo vengono retribuiti i costi di pulizia relative all'oggetto, compresi l'uso di apparecchi, attrezzi e macchine, la consulenza, l'amministrazione, nonché gli eventuali costi per la notifica di lacune di protezione antincendio.
 
-<sup>4</sup> Il tempo massimo fatturabile è disciplinato nell'appendice 3. I tempi previsti corrispondono al dispendio medio di tempo necessario in caso di sporcizia normale.
+<sup>4</sup> Il tempo massimo fatturabile e l'aliquota d'indennizzo sono disciplinati nell'appendice 3. I tempi previsti corrispondono al dispendio medio di tempo necessario in caso di sporcizia normale.
 
 ## 2. Settore dei pompieri
 
@@ -197,7 +201,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - c) la realizzazione e l'esercizio di un centro di formazione per pompieri;
 - d) la garanzia della prontezza d'allarme continua dei pompieri tramite un sistema di allarme delle squadre che copre tutto il territorio;
 - e) la pianificazione concettuale dell'organizzazione del settore dei pompieri e il coordinamento nella realizzazione a livello comunale;
-- f) la stipulazione, su incarico del Cantone, di contratti per centri di soccorso con gli enti responsabili dei corpi pompieri dei centri di soccorso;
+- f) la stipulazione di accordi di prestazioni con i gestori delle infrastrutture nonché con gli enti responsabili dei corpi pompieri dei centri di soccorso;
 - g) l'acquisizione comune di apparecchi e mezzi.
 
 <sup>2</sup> Al momento di emanare direttive all'indirizzo dei pompieri e in caso di formazione e perfezionamento, essa considera le direttive della Conferenza dei direttori cantonali competente.
@@ -235,17 +239,17 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Pianificazione preventiva dell'intervento**
 
-<sup>1</sup> I comuni devono valutare i pericoli d'incendio, ambientali e naturali nella loro zona d'intervento e devono allestire dei piani d'intervento relativi ai rischi. Per rischi elevati vanno allestiti piani d'intervento speciali. I piani d'intervento vanno esercitati.
+<sup>1</sup> I comuni devono valutare i pericoli d'incendio, ambientali e naturali nella loro zona d'intervento e devono allestire dei piani d'intervento dei corpi pompieri corrispondenti ai rischi. Per rischi elevati vanno allestiti piani d'intervento speciali. I piani d'intervento vanno esercitati.
 
 #### Art. 17
 
 **Organizzazione sul luogo del sinistro**
 
-<sup>1</sup> Sul luogo del sinistro il capo intervento dei pompieri è competente per il settore dei pompieri. In caso d'interventi che richiedono conoscenze speciali, egli può ricorrere a degli esperti. Il capo intervento dei pompieri fa parte della direzione generale dell'intervento.
+<sup>1</sup> Sul luogo del sinistro la direzione d'intervento dei pompieri è competente per il settore dei pompieri. In caso d'interventi che richiedono conoscenze speciali, essa può ricorrere a degli esperti. La direzione d'intervento dei pompieri fa parte della direzione generale dell'intervento.
 
-<sup>2</sup> Egli delega la responsabilità del luogo del sinistro alla polizia dopo la conclusione dell'intervento dei pompieri.
+<sup>2</sup> Essa delega la responsabilità del luogo del sinistro alla polizia dopo la conclusione dell'intervento dei pompieri.
 
-<sup>3</sup> Il capo intervento dei pompieri può predisporre lo sgombero del luogo del sinistro se ciò è necessario per il completo spegnimento dell'incendio o per l'eliminazione di pericoli per persone e animali, per l'ambiente o per valori materiali. Ulteriori lavori di sgombero vanno concordati con l'Assicurazione fabbricati e la polizia.
+<sup>3</sup> La direzione d'intervento dei pompieri può predisporre lo sgombero del luogo del sinistro se ciò è necessario per il completo spegnimento dell'incendio o per l'eliminazione di pericoli per persone e animali, per l'ambiente o per valori materiali. Ulteriori lavori di sgombero vanno concordati con l'Assicurazione fabbricati e la polizia.
 
 #### Art. 18
 
@@ -267,7 +271,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Oneri**
 
-<sup>1</sup> I beneficiari dei contributi o i loro successori legittimi devono provvedere affinché impianti, attrezzature, veicoli, apparecchi ed edifici
+<sup>1</sup> I beneficiari dei contributi o i loro successori legittimi devono provvedere affinché impianti, attrezzature, veicoli, apparecchi ed edifici:
 
 - a) abbiano una manutenzione ineccepibile;
 - b) siano in permanente stato operativo;
@@ -291,13 +295,13 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Misure di protezione antincendio aventi diritto a contributi**
 
-<sup>1</sup> Sono considerate misure di protezione antincendio aventi diritto a contributi le acquisizioni e il montaggio di impianti di rilevazione d'incendio, sprinkler e parafulmini riconosciuti dall'Associazione degli istituti cantonali di assicurazione antincendio.
+<sup>1</sup> Sono considerate misure di protezione antincendio aventi diritto a contributi le acquisizioni e il montaggio di impianti di rilevazione d'incendio e di impianti sprinkler nonché di sistemi parafulmine che soddisfano le prescrizioni di protezione antincendio.
 
 <sup>2</sup> I contributi vengono versati solo per edifici che sottostanno all'obbligo di assicurazione.
 
 <sup>3</sup> Non vengono versati contributi:
 
-- a) per impianti prescritti dalla polizia del fuoco o realizzati in sostituzione di altre misure antincendio.
+- a) per impianti previsti dalle prescrizioni di protezione antincendio o realizzati in sostituzione di altre misure antincendio;
 - b) per impianti necessari all'esercizio o che servono al controllo e alla protezione di infrastrutture tecniche.
 
 #### Art. 24
@@ -318,16 +322,20 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 - a) corpi pompieri comunali
   - 1\. contributo di base magazzini dei corpi pompieri: 15%, altri investimenti: 20%
-  - 2\. contributo supplementare a seconda del gruppo di capacità finanziaria: 0 – 10%
+  - 2\. …
 - b) corpi pompieri intercomunali
   - 1\. contributo di base magazzini dei corpi pompieri : 15%, altri investimenti: 20%
-  - 2\. contributo supplementare a seconda del gruppo di capacità finanziaria: 0 – 10%
-  - 3\. supplemento per la corporazione: 2,5 – 7,5%. Il supplemento per la corporazione viene adeguato all'opportunità dell'investimento per l'incremento della prontezza di intervento. Il contributo a nuovi corpi pompieri intercomunali può essere aumentato per al massimo tre anni in misura del 20% - 50%.
+  - 2\. …
+  - 3\. supplemento per la corporazione: 2,5 – 7,5%. Il supplemento per la corporazione viene adeguato all'opportunità dell'investimento per l'incremento della prontezza di intervento. Il contributo a nuovi corpi pompieri intercomunali può essere aumentato per al massimo tre anni fino al 20%.
 - c) corpi pompieri aziendali
   - 1\. magazzini dei corpi pompieri: 15%
   - 2\. altri investimenti: 20%
+- d) acquisizioni aggregate effettuate dall'Assicurazione fabbricati
+  - 1\. se i corpi pompieri partecipano ad acquisizioni aggregate effettuate dall'Assicurazione fabbricati, il contributo complessivo può essere aumentato al massimo al 50%.
 
-<sup>2</sup> Il contributo supplementare ai corpi pompieri viene garantito esclusivamente ai comuni con possibilità finanziarie medie o ridotte.
+<sup>1<sup>bis</sup></sup> Le altre acquisizioni necessarie per l'esercizio che non sono indicate nell'elenco degli investimenti necessari per l'esercizio definito dall'Assicurazione fabbricati vengono indennizzate con un importo forfetario definito dall'Assicurazione fabbricati su base annua.
+
+<sup>2</sup> …
 
 <sup>3</sup> I corpi pompieri di comuni che si sono aggregati sono considerati corpi pompieri intercomunali durante i tre anni successivi all'aggregazione.
 
@@ -359,7 +367,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Possono essere concessi contributi se per quanto riguarda quantità e pressione, l'approvvigionamento dell'acqua di spegnimento risulta sufficiente alle necessità dei corpi pompieri e degli impianti antincendio negli edifici.
 
-<sup>2</sup> Per impianti della rete di distribuzione d'acqua con i necessari idranti a colonna vengono concessi contributi a partire da un diametro nominale di 100 millimetri. Dai 100 ai 200 millimetri viene prestato l'intero contributo, oltre i 200 millimetri il contributo viene prestato in proporzione del rapporto tra l'utilizzo di acqua di spegnimento e di acqua industriale dell'approvvigionamento d'acqua.
+<sup>2</sup> Per impianti della rete di distribuzione d'acqua con i necessari idranti a colonna vengono concessi contributi a partire da un diametro interno di 100 millimetri. A partire da un diametro interno di 100 millimetri fino a un diametro interno di 200 millimetri viene versato l'intero contributo, oltre un diametro interno di 200 millimetri il contributo viene prestato in proporzione al rapporto tra l'utilizzo di acqua di spegnimento e di acqua industriale dell'approvvigionamento d'acqua.
 
 <sup>3</sup> Per le zone di conservazione, per edifici permanentemente abitati fuori della zona edificabile e per edifici agricoli, i requisiti posti alla struttura di approvvigionamento di acqua di spegnimento vanno stabiliti in modo tale che le spese risultanti siano ragionevoli per i comuni e per i proprietari degli edifici interessati.
 
@@ -371,18 +379,23 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Contributi all'approvvigionamento dell'acqua di spegnimento**
 
-<sup>1</sup> L'Assicurazione fabbricati versa i seguenti contributi alle spese computabili per la costruzione di impianti d'approvvigionamento dell'acqua di spegnimento:
+<sup>1</sup> L'Assicurazione fabbricati versa i seguenti contributi alle spese computabili per la costruzione e alle spese di esercizio di impianti d'approvvigionamento dell'acqua di spegnimento:
 
-- a) investimenti iniziali
+- a) nuovi investimenti
   - 1\. contributo di base: 15%
-  - 2\. contributo supplementare a seconda del gruppo di capacità finanziaria: 0 – 10%
-- b) investimenti di rinnovo
+  - 2\. …
+- b) investimenti sostitutivi
   - 1\. contributo di base: 10%
-  - 2\. contributo supplementare a seconda del gruppo di capacità finanziaria: 0 – 10%
+  - 2\. …
+- c) contributi d'esercizio
+  - 1\. contributo di base: 2500 franchi;
+  - 2\. contributo supplementare: 4 franchi per ogni milione della somma di assicurazione degli edifici.
 
-<sup>2</sup> Il contributo supplementare viene garantito esclusivamente ai comuni con possibilità finanziarie medie o ridotte.
+<sup>2</sup> …
 
-<sup>3</sup> Per zone con uno scarso sviluppo edile e per costruzioni fuori delle zone edificabili, ad eccezione di edifici rurali e aziende agricole con oltre 3000 m³ di spazio trasformato, i contributi non possono superare il due percento del valore d'assicurazione dell'edificio.
+<sup>3</sup> Per zone con uno scarso sviluppo edile e per costruzioni fuori delle zone edificabili, ad eccezione di edifici rurali e aziende agricole con oltre 3 000 m³ di spazio trasformato, i contributi agli investimenti non possono superare il due per cento del valore d'assicurazione dell'edificio.
+
+<sup>4</sup> L'Assicurazione fabbricati verifica periodicamente ogni cinque anni se l'approvvigionamento dell'acqua di spegnimento soddisfa i presupposti conformemente all'articolo 41 capoverso 3 della legge. In caso di difetti accertati il diritto a contributi viene meno fino alla loro eliminazione, tuttavia almeno per l'anno di contribuzione interessato.
 
 ## 4. Disposizioni finali
 

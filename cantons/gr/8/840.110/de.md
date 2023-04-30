@@ -3,20 +3,20 @@ canton: GR
 number: "840.110"
 title: Verordnung zum Brandschutzgesetz
 language: de
-version: 2013-01-01
-corrected: 2014-12-17
-version_adopted: 2012-12-18
+version: 2023-05-01
+valid_until: 2025-08-31
+version_adopted: 2023-04-04
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/840.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2390/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3301/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Brandschutzgesetz
 
-Vom 26.10.2010 (Stand 01.01.2013)
+Vom 26.10.2010 (Stand 01.05.2023)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -32,7 +32,7 @@ von der Regierung erlassen am 26. Oktober 2010
 
 **Brandschutzvorschriften**
 
-<sup>1</sup> Als verbindliche Vorschriften für den vorbeugenden Brandschutz gelten die Brandschutzvorschriften der Vereinigung Kantonaler Feuerversicherungen, die von ihr für verbindlich erklärten Richtlinien und Leitsätze von Fachorganisationen sowie die von der Gebäudeversicherung erlassenen Weisungen gemäss Anhang 1 in der jeweils aktuellen Fassung.
+<sup>1</sup> Als verbindliche Vorschriften für den vorbeugenden Brandschutz gelten die Brandschutzvorschriften der Vereinigung Kantonaler Feuerversicherungen gemäss Anhang 1 in der jeweils aktuellen Fassung.
 
 #### Art. 2
 
@@ -40,14 +40,15 @@ von der Regierung erlassen am 26. Oktober 2010
 
 <sup>1</sup> Als Gebäude und Anlagen ohne besondere Gefährdung gelten:
 
-- a) Wohnbauten in massiver Bauart bis zur Hochhausgrenze;
-- b) Wohnbauten brennbarer Bauart mit nicht mehr als drei Geschossen;
+- a) Wohnbauten in massiver Bauart der Kategorie geringer und mittlerer Höhe;
+- b) Wohnbauten brennbarer Bauart der Kategorie geringer Höhe;
 - c) Einstellräume für Motorfahrzeuge mit einer Grundfläche bis 600 m²;
 - d) Landwirtschaftliche Ökonomie- und Betriebsbauten mit einem Rauminhalt bis 3000 m³;
 - e) Kleingewerbebetriebe, welche nicht feuer- oder explosionsgefährlich sind;
-- f) Gastwirtschaftsbetriebe mit einer Belegung bis maximal 100 Personen;
-- g) Nebenbauten (z.B. Gartenhäuser, Velounterstände, Kleintierställe, Kleinlager);
-- h) technische Brandschutzeinrichtungen und haustechnische Anlagen für die Gebäude und Anlagen gemäss Litera a bis g.
+- f) ebenerdige Gastwirtschaftsbetriebe und Verkaufsräume mit einer Belegung bis maximal 100 Personen;
+- g) Gebäude mit geringen Abmessungen;
+- h) Nebenbauten (z.B. Gartenhäuser, Velounterstände, Kleintierställe, Kleinlager);
+- i) technische Brandschutzeinrichtungen und haustechnische Anlagen für die Gebäude und Anlagen gemäss Litera a bis h.
 
 #### Art. 3
 
@@ -58,17 +59,17 @@ von der Regierung erlassen am 26. Oktober 2010
 - a) Gebäude und Anlagen, die nicht in Artikel 2 aufgeführt sind;
 - b) Gebäude und Anlagen, die von den Standardmassnahmen der Brandschutznorm und den Brandschutzrichtlinien der Vereinigung Kantonaler Feuerversicherungen abweichen.
 
-### 1.2. Brandschutzbewilligung
+### 1.2. Feuerpolizeiliche Bewilligung
 
 #### Art. 4
 
 **Veranstaltungen mit besonderer Gefährdung**
 
-<sup>1</sup> Veranstaltungen mit besonderer Gefährdung für Personen, Tiere, Sachen und die Umwelt sind insbesondere:
+<sup>1</sup> Veranstaltungen mit besonderer Gefährdung für Personen, Tiere und Sachen sind insbesondere:
 
 - a) Anlässe mit einer Personenbelegung, welche die für die Festlegung der erforderlichen Fluchtwege massgebende Personenbelegung der Räume übersteigt;
 - b) Anlässe mit Aktivitäten, welche nicht auf die Fluchtwege der Räume abgestimmt sind;
-- c) Anlässe im Freien ab 500 Personen und in Fahrnisbauten ab 200 Personen.
+- c) Anlässe im Freien ab 1000 Personen und in Zelten oder Fahrnisbauten ab 300 Personen.
 
 #### Art. 5
 
@@ -95,7 +96,7 @@ von der Regierung erlassen am 26. Oktober 2010
 
 **Übertragung Brandschutztätigkeit**
 
-<sup>1</sup> Für die Entschädigung der Gebäudeversicherung für Leistungen, welche im Auftrag der Gemeinde erbracht werden, gelten die Verrechnungsansätze des Kantons für Dienstleistungen an Dritte.
+<sup>1</sup> Leistungen, welche die Gebäudeversicherung im Auftrag der Gemeinde erbringt, werden der Gemeinde gemäss den Verrechnungsansätzen des Kantons für Dienstleistungen an Dritte in Rechnung gestellt.
 
 ### 1.3. Brandschutzkontrollen
 
@@ -132,29 +133,32 @@ von der Regierung erlassen am 26. Oktober 2010
 
 <sup>1</sup> Alle zwei Jahre sind zu kontrollieren:
 
-- a) Gebäude, welche feuer- und explosionsgefährdet sind;
-- b) Beherbergungsbetriebe wie Spitäler, Alters- und Pflegeheime, in denen zehn oder mehr Personen aufgenommen werden, die auf fremde Hilfe angewiesen sind;
-- c) Verkaufsgeschäfte mit einer gesamten Verkaufsfläche von mehr als 1200 m²;
-- d) Bauten und Anlagen mit Räumen mit grosser Personenbelegung, insbesondere Mehrzweck-, Sport- und Ausstellungshallen, Schulbauten mit Sälen, Bahnhofgebäude, Theater, Kinos, Restaurants und ähnliche Gebäuden mit Räumen, in denen sich mehr als 100 Personen aufhalten können;
-- e) Gewerbe- und Industriebetriebe.
+- a) Gebäude, welche feuer- und explosionsgefährdet sind.
+- b) …
+- c) …
+- d) …
+- e) …
 
 <sup>2</sup> Alle fünf Jahre sind zu kontrollieren:
 
-- a) Beherbergungsbetriebe wie Hotels, Pensionen und Ferienheime, in denen 15 oder mehr Personen aufgenommen werden, die nicht auf fremde Hilfe angewiesen sind;
-- b) abgelegene Beherbergungsbetriebe;
-- c) Hochhäuser, deren oberstes Geschoss mehr als 22 m über dem der Feuerwehr dienenden angrenzenden Terrain liegt beziehungsweise mehr als 25 m Traufhöhe aufweist;
-- d) Landwirtschaftliche Ökonomie- und Betriebsbauten mit einem Rauminhalt von mehr als 3000 m³;
-- e) Verkaufsräume mit einer Verkaufsfläche von weniger als 1200 m², sofern die maximale Personenanzahl 100 Personen übersteigt;
-- f) Einstellräume für Motorfahrzeuge mit einer Grundfläche von mehr als 600 m²;
-- g) Kleingewerbebetriebe, welche nicht feuer- oder explosionsgefährlich sind;
-- h) Gastwirtschaftsbetriebe bis maximal 100 Personen.
+- a) Beherbergungsbetriebe, in denen dauernd oder vorübergehend 20 oder mehr Personen aufgenommen werden;
+- b) …
+- c) …
+- d) Hochhäuser mit mehr als 30 m Gesamthöhe;
+- e) landwirtschaftliche Ökonomie- und Betriebsbauten mit einem Rauminhalt von mehr als 3000 m³;
+- f) Verkaufsgeschäfte mit einer gesamten brandabschnittsmässig zusammenhängenden Fläche von mehr als 1200 m²;
+- g) Verkaufsräume mit einer Verkaufsfläche von mehr als 600 bis 1200 m²;
+- h) Räume mit grosser Personenbelegung, in denen sich mehr als 300 Personen aufhalten können, insbesondere Mehrzweck-, Sport-, und Ausstellungshallen, Säle, Theater, Kinos, Restaurants und ähnliche Versammlungsstätten;
+- i) Parkings mit einer Grundfläche von mehr als 600 m²;
+- k) Gewerbe- und Industriebetriebe;
+- l) Schulbauten, Kindergärten, Kindertagesstätten.
 
 <sup>3</sup> Alle zehn Jahre sind zu kontrollieren:
 
-- a) Wohngebäude mit Einzelfeuerungen;
-- b) Parkhäuser und Einstellräume für Motorfahrzeuge mit einer Grundfläche bis 600 m²;
-- c) Büro- und Verwaltungsgebäude;
-- d) Verkaufsräume mit einer Verkaufsfläche von weniger als 1200 m², sofern die maximale Personenzahl 100 Personen nicht übersteigt.
+- a) Einstellräume für Motorfahrzeuge mit einer Grundfläche von 150 bis 600 m²;
+- b) Büro- und Verwaltungsgebäude;
+- c) Verkaufsräume mit einer Verkaufsfläche von 100 bis 600 m²;
+- d) Räume mit geringer Personenbelegung, in denen sich 50 bis 300 Personen aufhalten können, insbesondere Mehrzweck-, Sport- und Ausstellungshallen, Säle, Theater, Kinos, Restaurants.
 
 <sup>4</sup> Die zuständige Kontrollbehörde kann den Zeitabstand der periodischen Kontrolle für Gebäude und Anlagen mit einer günstigen feuerpolizeilichen Risikobeurteilung beziehungsweise brandschutztechnisch einwandfreier Ordnung erhöhen und für Gebäude und Anlagen mit einer ungünstigen Risikobeurteilung beziehungsweise mit mangelhafter brandschutztechnischer Ordnung verkleinern.
 
@@ -180,7 +184,7 @@ von der Regierung erlassen am 26. Oktober 2010
 
 <sup>3</sup> Mit der Aufwandentschädigung werden die objektbezogenen Reinigungskosten einschliesslich Benutzung von Geräten, Werkzeugen und Maschinen, die Beratung, die Administration sowie die allfälligen Aufwendungen für die Meldung von Brandschutzmängeln abgegolten.
 
-<sup>4</sup> Der maximal verrechenbare Aufwand wird in Anhang 3 geregelt. Die Zeitaufwandvorgaben entsprechen dem durchschnittlichen Aufwand bei einem normalen Verschmutzungsgrad.
+<sup>4</sup> Der maximal verrechenbare Zeitaufwand und der Entschädigungssatz werden in Anhang 3 geregelt. Die Zeitaufwandvorgaben entsprechen dem durchschnittlichen Aufwand bei einem normalen Verschmutzungsgrad.
 
 ## 2. Feuerwehrwesen
 
@@ -197,7 +201,7 @@ von der Regierung erlassen am 26. Oktober 2010
 - c) die Errichtung und den Betrieb eines Feuerwehrausbildungszentrums;
 - d) die Sicherstellung der dauernden Alarmbereitschaft der Feuerwehren mittels flächendeckendem Mannschaftsalarmierungssystem;
 - e) die konzeptionelle Planung der Organisation des Feuerwehrwesens und die Koordination bei der Umsetzung auf kommunaler Ebene;
-- f) den Abschluss von Stützpunktverträgen mit den Trägern der Stützpunktfeuerwehren im Auftrag des Kantons;
+- f) den Abschluss von Leistungsvereinbarungen mit den Infrastrukturbetreiberinnen und Infrastrukturbetreibern sowie mit den Trägern der Stützpunktfeuerwehren;
 - g) die gemeinsame Beschaffung von Geräten und Mitteln.
 
 <sup>2</sup> Sie berücksichtigt beim Erlass von Vorgaben an die Feuerwehren und bei der Aus- und Weiterbildung die von der zuständigen kantonalen Direktorenkonferenz beschlossenen Richtlinien.
@@ -235,17 +239,17 @@ von der Regierung erlassen am 26. Oktober 2010
 
 **Vorsorgliche Einsatzplanung**
 
-<sup>1</sup> Die Gemeinden haben die Feuer-, Umwelt- und Elementargefahren in ihrem Einsatzgebiet zu beurteilen und den Risiken entsprechende Einsatzpläne zu erstellen. Für hohe Risiken sind spezielle Einsatzpläne zu erstellen. Die Einsatzpläne sind zu beüben.
+<sup>1</sup> Die Gemeinden haben die Feuer-, Umwelt- und Elementargefahren in ihrem Einsatzgebiet zu beurteilen und den Risiken entsprechende Einsatzpläne der Feuerwehren zu erstellen. Für hohe Risiken sind spezielle Einsatzpläne zu erstellen. Die Einsatzpläne sind zu beüben.
 
 #### Art. 17
 
 **Schadenplatzorganisation**
 
-<sup>1</sup> Der Einsatzleiter Feuerwehr ist auf dem Schadenplatz für den Bereich Feuerwehr zuständig. Er kann bei Einsätzen, welche spezielle Fachkenntnisse erfordern, Sachverständige anfordern. Der Einsatzleiter Feuerwehr ist Teil der Gesamteinsatzleitung.
+<sup>1</sup> Die Einsatzleitung Feuerwehr ist auf dem Schadenplatz für den Bereich Feuerwehr zuständig. Sie kann bei Einsätzen, welche spezielle Fachkenntnisse erfordern, Sachverständige anfordern. Die Einsatzleitung Feuerwehr ist Teil der Gesamteinsatzleitung.
 
-<sup>2</sup> Nach Abschluss des Feuerwehreinsatzes übergibt er die Verantwortung über den Schadenplatz im Bereich Feuerwehr der Polizei.
+<sup>2</sup> Nach Abschluss des Feuerwehreinsatzes übergibt sie die Verantwortung über den Schadenplatz im Bereich Feuerwehr der Polizei.
 
-<sup>3</sup> Der Einsatzleiter Feuerwehr kann die Räumung des Schadenplatzes veranlassen, soweit dies für das vollständige Löschen des Feuers oder für die Beseitigung von Gefahren für Menschen, Tiere, Umwelt oder Sachwerte notwendig ist. Weitergehende Aufräumarbeiten sind mit der Gebäudeversicherung und der Polizei abzusprechen.
+<sup>3</sup> Die Einsatzleitung Feuerwehr kann die Räumung des Schadenplatzes veranlassen, soweit dies für das vollständige Löschen des Feuers oder für die Beseitigung von Gefahren für Menschen, Tiere, Umwelt oder Sachwerte notwendig ist. Weitergehende Aufräumarbeiten sind mit der Gebäudeversicherung und der Polizei abzusprechen.
 
 #### Art. 18
 
@@ -267,7 +271,7 @@ von der Regierung erlassen am 26. Oktober 2010
 
 **Auflagen**
 
-<sup>1</sup> Die Beitragsempfänger oder dessen Rechtsnachfolger haben die Anlagen, Einrichtungen, Fahrzeuge, Geräte und Gebäude
+<sup>1</sup> Die Beitragsempfänger oder deren Rechtsnachfolger haben die Anlagen, Einrichtungen, Fahrzeuge, Geräte und Gebäude:
 
 - a) einwandfrei zu unterhalten;
 - b) dauernd betriebsbereit zu halten;
@@ -291,13 +295,13 @@ von der Regierung erlassen am 26. Oktober 2010
 
 **Beitragsberechtigte Massnahmen**
 
-<sup>1</sup> Beitragsberechtigte Brandschutzmassnahmen sind die Anschaffung und Montage von Brandmelde-, Sprinkler- und Blitzschutzanlagen, die von Vereinigung Kantonaler Feuerversicherungen anerkannt sind.
+<sup>1</sup> Beitragsberechtigte Brandschutzmassnahmen sind die Anschaffung und Montage von Brandmelde- und Sprinkleranlagen sowie Blitzschutzsystemen, die den Brandschutzvorschriften entsprechen.
 
 <sup>2</sup> Beiträge werden nur für Gebäude ausgerichtet, die dem Versicherungsobligatorium unterstehen.
 
 <sup>3</sup> Keine Beiträge ausgerichtet werden:
 
-- a) für Anlagen, die feuerpolizeilich vorgeschrieben sind oder als Ersatz für eine andere Brandschutzmassnahme errichtet werden;
+- a) für Anlagen, die in den Brandschutzvorschriften vorgeschrieben sind oder als Ersatz für eine andere Brandschutzmassnahme errichtet werden;
 - b) für Anlagen, die betriebsnotwendig sind oder der Überwachung und dem Schutz von technischen Einrichtungen dienen.
 
 #### Art. 24
@@ -318,16 +322,20 @@ von der Regierung erlassen am 26. Oktober 2010
 
 - a) Gemeindefeuerwehren
   - 1\. Grundbeitrag Feuerwehrmagazine: 15 Prozent; Übrige Investitionen: 20 Prozent
-  - 2\. Zusatzbeitrag nach finanzieller Leistungsfähigkeit: 0 – 10 Prozent
+  - 2\. …
 - b) Interkommunale Feuerwehren
   - 1\. Grundbeitrag Feuerwehrmagazine: 15 Prozent; Übrige Investitionen: 20 Prozent
-  - 2\. Zusatzbeitrag nach finanzieller Leistungsfähigkeit: 0 – 10 Prozent
-  - 3\. Verbandszuschlag: 2.5 – 7.5 Prozent. Der Verbandszuschlag wird nach Zweckmässigkeit der Investitionen für die Erhöhung der Einsatzbereitschaft abgestuft. Der Beitrag kann an neu gegründete interkommunale Feuerwehren während maximal drei Jahren um bis zu 20 Prozent auf höchstens 50 Prozent erhöht werden.
+  - 2\. …
+  - 3\. Verbandszuschlag: 2,5 – 7,5 Prozent. Der Verbandszuschlag wird nach Zweckmässigkeit der Investitionen für die Erhöhung der Einsatzbereitschaft abgestuft. Der Beitrag kann an neu gegründete interkommunale Feuerwehren während maximal drei Jahren um bis zu 20 Prozent erhöht werden.
 - c) Betriebsfeuerwehren
   - 1\. Feuerwehrmagazine: 15 Prozent
   - 2\. Übrige Investitionen: 20 Prozent
+- d) Sammelbeschaffungen durch die Gebäudeversicherung
+  - 1\. Beteiligen sich die Feuerwehren an Sammelbeschaffungen der Gebäudeversicherung, kann der Gesamtbeitrag auf höchstens 50 Prozent erhöht werden.
 
-<sup>2</sup> Der Zusatzbeitrag an die Feuerwehren wird ausschliesslich Gemeinden mit durchschnittlicher oder schwacher finanzieller Leistungsfähigkeit gewährt.
+<sup>1<sup>bis</sup></sup> Die übrigen betriebsnotwendigen Anschaffungen, die nicht in der von der Gebäudeversicherung definierten Liste der betriebstechnisch notwendigen Investitionen aufgeführt sind, werden mit einer von der Gebäudeversicherung festgelegten jährlichen Pauschale abgegolten.
+
+<sup>2</sup> …
 
 <sup>3</sup> Feuerwehren von fusionierten Gemeinden gelten während drei Jahren nach der Fusion als interkommunale Feuerwehren.
 
@@ -359,7 +367,7 @@ von der Regierung erlassen am 26. Oktober 2010
 
 <sup>1</sup> Löschwasserversorgungen sind beitragsberechtigt, wenn sie bezüglich Menge und Druck dem Bedarf der Feuerwehr und der Löschanlagen in Gebäuden genügen.
 
-<sup>2</sup> Für Wasserverteilnetzanlagen mit den notwendigen Überflurhydranten werden Beiträge ab Nennweite 100 Millimeter gewährt. Ab Nennweite 100 Millimeter bis Nennweite 200 Millimeter wird der volle Beitrag geleistet, ab Nennweite 200 Millimeter wird der Beitrag anteilig im Verhältnis von Löschwasser- zu Brauchwassernutzung der Wasserversorgung geleistet.
+<sup>2</sup> Für Wasserverteilnetzanlagen mit den notwendigen Überflurhydranten werden Beiträge ab einem Innendurchmesser von100 Millimeter gewährt. Ab einem Innendurchmesser von 100 Millimeter bis zu einem Innendurchmesser von 200 Millimeter wird der volle Beitrag geleistet, ab einem Innendurchmesser von 200 Millimeter wird der Beitrag anteilig im Verhältnis von Löschwasser- zu Brauchwassernutzung der Wasserversorgung geleistet.
 
 <sup>3</sup> Die Anforderungen an die Ausgestaltung der Löschwasserversorgung sind in Erhaltungszonen, für ständig bewohnte Gebäude ausserhalb des Baugebietes und für Landwirtschaftgebäude so festzulegen, dass die daraus entstehenden Kosten den Gemeinden beziehungsweise den betroffenen Gebäudeeigentümern zugemutet werden können.
 
@@ -371,18 +379,23 @@ von der Regierung erlassen am 26. Oktober 2010
 
 **Beiträge**
 
-<sup>1</sup> Die Gebäudeversicherung leistet an die anrechenbaren Erstellungskosten von Löschwasserversorgungsanlagen folgende Beiträge:
+<sup>1</sup> Die Gebäudeversicherung leistet an die anrechenbaren Erstellungskosten und an die Betriebskosten von Löschwasserversorgungsanlagen folgende Beiträge:
 
-- a) Erstinvestitionen
+- a) Neuinvestitionen
   - 1\. Grundbeitrag: 15 Prozent
-  - 2\. Zusatzbeitrag nach finanzieller Leistungsfähigkeit: 0 – 10 Prozent
-- b) Erneuerungsinvestitionen
+  - 2\. …
+- b) Ersatzinvestitionen
   - 1\. Grundbeitrag: 10 Prozent
-  - 2\. Zusatzbeitrag nach finanzieller Leistungsfähigkeit: 0 – 10 Prozent
+  - 2\. …
+- c) Betriebsbeiträge
+  - 1\. Grundbeitrag: 2500 Franken;
+  - 2\. Zusatzbeitrag: 4 Franken pro Million Versicherungssumme der Gebäude.
 
-<sup>2</sup> Der Zusatzbeitrag wird ausschliesslich Gemeinden mit durchschnittlicher oder schwacher finanzieller Leistungsfähigkeit gewährt.
+<sup>2</sup> …
 
-<sup>3</sup> Für Gebiete mit geringer baulicher Entwicklung und für Bauten ausserhalb der Baugebiete, ausgenommen landwirtschaftliche Ökonomie- und Betriebsbauten mit mehr als 3000 m³ umbautem Raum, dürfen die Beiträge zwei Prozent der Gebäudeversicherungswerte nicht übersteigen.
+<sup>3</sup> Für Gebiete mit geringer baulicher Entwicklung und für Bauten ausserhalb der Baugebiete, ausgenommen landwirtschaftliche Ökonomie- und Betriebsbauten mit mehr als 3000 m³ umbautem Raum, dürfen die Investitionsbeiträge zwei Prozent der Gebäudeversicherungswerte nicht übersteigen.
+
+<sup>4</sup> Die Gebäudeversicherung prüft periodisch alle fünf Jahre, ob die Löschwasserversorgungen die Voraussetzungen nach Artikel 41 Absatz 3 des Gesetzes erfüllen. Bei festgestellten Mängel entfällt die Beitragsberechtigung bis zur Behebung der Mängel, mindestens aber für das betreffende Beitragsjahr.
 
 ## 4. Schlussbestimmungen
 

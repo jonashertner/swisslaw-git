@@ -3,20 +3,20 @@ canton: GR
 number: "840.110"
 title: Ordinaziun tar la lescha davart la protecziun cunter incendis
 language: rm
-version: 2013-01-01
-corrected: 2014-12-17
-version_adopted: 2012-12-18
+version: 2023-05-01
+valid_until: 2025-08-31
+version_adopted: 2023-04-04
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/840.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2390/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3301/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordinaziun tar la lescha davart la protecziun cunter incendis
 
-dals 26-10-2010 (versiun dals 01-01-2013)
+dals 26-10-2010 (versiun dals 01-05-2023)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1],
 
@@ -26,13 +26,13 @@ relaschada da la regenza ils 26 d'october 2010
 
 ## 1. Protecziun preventiva cunter incendis
 
-### 1.1. Disposiziuns generals
+### 1.1. Disposiziuns generalas
 
 #### Art. 1
 
 **Prescripziuns da la protecziun cunter incendis**
 
-<sup>1</sup> Sco prescripziuns liantas per la protecziun preventiva cunter incendis valan las prescripziuns per la protecziun cunter incendis da l'uniun da las assicuranzas chantunalas cunter fieu, las directivas e las maximas d'organisaziuns spezialisadas che questa uniun ha declerà sco liantas sco er la versiun actuala da las directivas relaschadas da l'assicuranza d'edifizis tenor l'agiunta 1.
+<sup>1</sup> Sco prescripziuns liantas per la protecziun preventiva cunter incendis valan las prescripziuns per la protecziun cunter incendis da l'uniun da las assicuranzas chantunalas cunter fieu tenor l'agiunta 1 mintgamai en la versiun actuala.
 
 #### Art. 2
 
@@ -40,14 +40,15 @@ relaschada da la regenza ils 26 d'october 2010
 
 <sup>1</sup> Sco edifizis e stabiliments senza periclitaziun speziala valan:
 
-- a) edifizis d'abitar construids en moda massiva fin al cunfin cun ina chasa auta;
-- b) edifizis d'abitar construids en moda inflammabla cun betg dapli che trais plauns;
+- a) edifizis d'abitar construids en moda massiva da la categoria d'autezza bassa e media;
+- b) edifizis d'abitar construids en moda inflammabla da la categoria d'autezza bassa;
 - c) remisas per vehichels a motor cun ina surfatscha da fin 600 m²;
 - d) edifizis agriculs d'economia e da manaschi cun ina capacitad da fin 3000 m³;
 - e) manaschis pitschens senza privel da fieu e d'explosiun;
-- f) manaschis da restauraziun cun in'occupaziun da fin maximalmain 100 persunas;
-- g) edifizis accessorics (p.ex. pavigliuns, sustas da velos, stallas per animals pitschens, pitschens magasins);
-- h) installaziuns tecnicas per la protecziun cunter incendis ed indrizs da la tecnica da chasa per ils edifizis e per ils stabiliments tenor las literas a fin g.
+- f) manaschis da restauraziun e locals da vendita al plaunterren cun in'occupaziun da fin maximalmain 100 persunas;
+- g) edifizis cun dimensiuns minimalas;
+- h) edifizis accessorics (p.ex. pavigliuns, sustas da velos, stallas per animals pitschens, magasins pitschens);
+- i) installaziuns tecnicas per la protecziun cunter incendis ed indrizs da la tecnica da chasa per ils edifizis e per ils stabiliments tenor las literas a fin h.
 
 #### Art. 3
 
@@ -58,17 +59,17 @@ relaschada da la regenza ils 26 d'october 2010
 - a) edifizis e stabiliments, che na vegnan betg menziunads en l'artitgel 2;
 - b) edifizis e stabiliments che divergeschan da las mesiras da standard che vegnan prescrittas da la norma e da las directivas da la protecziun cunter incendis, edidas da l'uniun da las assicuranzas chantunalas cunter fieu.
 
-### 1.2. Permissiun da la protecziun cunter incendis
+### 1.2. Permissiun da la polizia da fieu
 
 #### Art. 4
 
 **Occurrenzas cun periclitaziun speziala**
 
-<sup>1</sup> Occurrenzas che pericliteschan spezialmain persunas, animals, chaussas u l'ambient èn:
+<sup>1</sup> Occurrenzas che pericliteschan spezialmain persunas, animals e chaussas èn:
 
 - a) occurrenzas cun in dumber da persunas che surpassa il dumber da persunas ch'è decisiv per determinar las sortidas d'urgenza necessarias dals locals;
 - b) occurrenzas cun activitads che n'èn betg accordadas cun las sortidas d'urgenza dals locals;
-- c) occurrenzas al liber a partir da 500 persunas ed occurrenzas en construcziuns moviblas a partir da 200 persunas.
+- c) occurrenzas al liber a partir da 1000 persunas ed occurrenzas en tendas u en construcziuns moviblas a partir da 300 persunas.
 
 #### Art. 5
 
@@ -95,7 +96,7 @@ relaschada da la regenza ils 26 d'october 2010
 
 **Delegar l'activitad da la protecziun cunter incendis**
 
-<sup>1</sup> Per indemnisar l'assicuranza d'edifizis per prestaziuns ch'èn vegnidas furnidas per incarica da la vischnanca valan las tariffas da cumpensaziun dal chantun per servetschs a terzas persunas.
+<sup>1</sup> Prestaziuns che l'assicuranza d'edifizis furnescha per incarica da la vischnanca vegnan messas a quint a la vischnanca tenor las tariffas da scuntrada dal chantun per servetschs a terzas persunas.
 
 ### 1.3. Controllas da la protecziun cunter incendis
 
@@ -132,29 +133,32 @@ relaschada da la regenza ils 26 d'october 2010
 
 <sup>1</sup> Mintga 2 onns ston vegnir controllads:
 
-- a) edifizis cun privel da fieu e d'explosiun;
-- b) manaschis d'alloschament sco ospitals, chasas da persunas attempadas e da tgira, en las qualas vegnan recepidas 10 u dapli persunas ch'èn dependentas d'agid ester;
-- c) fatschentas da vendita cun ina surfatscha da vendita totala da passa 1200 m²;
-- d) edifizis e stabiliments cun locals cun ina gronda occupaziun da persunas, en spezial hallas polivalentas, hallas da sport e hallas d'exposiziun, chasas da scola cun salas, edifizis da staziun, teaters, kinos, restaurants ed edifizis sumegliants cun locals, en ils quals pon sa trategnair passa 100 persunas;
-- e) manaschis industrials e da mastergn.
+- a) edifizis cun privel da fieu e d'explosiun.
+- b) …
+- c) …
+- d) …
+- e) …
 
 <sup>2</sup> Mintga 5 onns ston vegnir controllads:
 
-- a) manaschis d'alloschament sco hotels, pensiuns e chasas da vacanzas, en las qualas vegnan recepidas 15 u dapli persunas che n'èn betg dependentas d'agid ester;
-- b) manaschis d'alloschament perifers;
-- c) chasas autas, da las qualas il plaun sisum è passa 22 m sur il terren cunfinant che serva als pumpiers respectivamain chasas autas che han in'autezza da la pensla da passa 25 m;
-- d) edifizis agriculs d'economia e da manaschi cun ina capacitad da passa 3000 m³;
-- e) locals da vendita cun ina surfatscha da vendita da main che 1200 m², sch'il dumber da persunas maximal surpassa 100 persunas;
-- f) remisas per vehichels a motor cun ina surfatscha da passa 600 m²;
-- g) manaschis pitschens senza privel da fieu e d'explosiun;
-- h) manaschis da restauraziun fin maximalmain 100 persunas.
+- a) manaschis d'alloschament, en ils quals vegnan recepidas per in tschert temp u per adina 20 u dapli persunas;
+- b) …
+- c) …
+- d) chasas autas cun in'autezza totala da passa 30 m;
+- e) edifizis agriculs d'economia e da manaschi cun in volumen da passa 3000 m³;
+- f) fatschentas da vendita cun ina surfatscha totala da secturs d'incendi colliads in cun l'auter da passa 1200 m²;
+- g) locals da vendita cun ina surfatscha da vendita da passa 600 fin 1200 m²;
+- h) locals cun ina gronda occupaziun da persunas, en ils quals pon sa trategnair passa 300 persunas, en spezial hallas polivalentas, hallas da sport e hallas d'exposiziun, salas, teaters, kinos, restaurants e lieus da reuniun sumegliants;
+- i) chasas da parcar cun ina surfatscha da passa 600 m²;
+- k) manaschis industrials e da mastergn;
+- l) chasas da scola, scolinas e canortas d'uffants.
 
 <sup>3</sup> Mintga 10 onns ston vegnir controllads:
 
-- a) edifizis d'abitar cun stgaudaments individuals;
-- b) chasas da parcar e remisas per vehichels a motor cun ina surfatscha da fin 600 m²;
-- c) edifizis da biro e d'administraziun;
-- d) locals da vendita cun ina surfatscha da vendita da main che 1200 m², sch'il dumber da persunas maximal na surpassa betg 100 persunas.
+- a) remisas per vehichels a motor cun ina surfatscha da 150 fin 600 m²;
+- b) edifizis da biro e d'administraziun;
+- c) locals da vendita cun ina surfatscha da vendita da 100 fin 600 m²;
+- d) locals cun ina pitschna occupaziun da persunas, en ils quals pon sa trategnair 50 fin 300 persunas, en spezial hallas polivalentas, hallas da sport e hallas d'exposiziun, salas, teaters, kinos e restaurants.
 
 <sup>4</sup> L'autoritad da controlla cumpetenta po augmentar l'interval da la controlla periodica per edifizis e per stabiliments cun in giudicament favuraivel dals ristgs da la polizia da fieu u cun in urden irreproschabel areguard la tecnica da protecziun cunter incendis e diminuir l'interval da controlla per edifizis e per stabiliments cun in giudicament disfavuraivel dals ristgs u cun in urden manglus areguard la tecnica da protecziun cunter incendis.
 
@@ -180,7 +184,7 @@ relaschada da la regenza ils 26 d'october 2010
 
 <sup>3</sup> Cun l'indemnisaziun da las expensas vegnan indemnisads ils custs da nettegiament che sa refereschan a l'object inclusiv il diever d'apparats, d'iseglia e da maschinas, la cussegliaziun, l'administraziun sco er eventuals custs per annunziar mancanzas areguard la protecziun cunter incendis.
 
-<sup>4</sup> Ils custs per las expensas maximalmain imputablas vegnan reglads en l'agiunta 3. Las prescripziuns per il temp impundì correspundan a la media dal temp impundì en cas d'in grad da polluziun normal.
+<sup>4</sup> Il temp impundì maximalmain imputabel e la tariffa d'indemnisaziun vegnan reglads en l'agiunta 3. Las prescripziuns per il temp impundì correspundan a la media dal temp impundì en cas d'in grad da polluziun normal.
 
 ## 2. Fatgs da pumpiers
 
@@ -197,7 +201,7 @@ relaschada da la regenza ils 26 d'october 2010
 - c) endrizzar e manar in center da trenament per ils pumpiers;
 - d) garantir la prontezza d'alarm permanenta dals corps da pumpiers cun agid d'in sistem d'alarm per las equipas da pumpiers da l'entir chantun;
 - e) planisar il concept da l'organisaziun dals pumpiers e surpigliar la coordinaziun per realisar quest concept sin plaun communal;
-- f) far – per incarica dal chantun – ils contracts per las basas da pumpiers cun las instituziuns ch'èn responsablas per ils corps da pumpiers da basa;
+- f) far cunvegnas da prestaziun cun las gestiunarias ed ils gestiunaris da las infrastructuras sco er cun las instituziuns ch'èn responsablas per ils corps da pumpiers da basa;
 - g) acquistar communablamain apparats e meds.
 
 <sup>2</sup> Cun relaschar prescripziuns per ils corps da pumpiers e cun dar la scolaziun e la furmaziun supplementara resguarda l'assicuranza d'edifizis las directivas concludidas da la conferenza da las directuras e dals directurs chantunals cumpetents.
@@ -235,17 +239,17 @@ relaschada da la regenza ils 26 d'october 2010
 
 **Plan d'acziun preventiv**
 
-<sup>1</sup> Las vischnancas ston giuditgar ils privels da fieu sco er ils privels ecologics ed elementars en lur territori d'acziun e far plans d'acziun che correspundan als ristgs. Per ristgs gronds ston vegnir fatgs plans d'acziun spezials. Ils plans d'acziun ston vegnir exercitads.
+<sup>1</sup> Las vischnancas ston giuditgar ils privels da fieu sco er ils privels ecologics ed elementars en lur territori d'acziun e far plans d'acziun per ils pumpiers, che correspundan als ristgs. Per ristgs gronds ston vegnir fatgs plans d'acziun spezials. Ils plans d'acziun ston vegnir exercitads.
 
 #### Art. 17
 
 **Organisaziun al lieu da donn**
 
-<sup>1</sup> Al lieu da donn è la manadra u il manader da l'acziun dals pumpiers cumpetent per il sectur dals pumpiers. En cas d'acziuns che pretendan enconuschientschas spezialas, po ella u el dumandar expertas u experts. La manadra u il manader da l'acziun dals pumpiers è ina part da la direcziun generala da l'acziun.
+<sup>1</sup> Al lieu da donn è la direcziun da l'acziun dals pumpiers cumpetenta per il sectur dals pumpiers. En cas d'acziuns che pretendan enconuschientschas spezialas, po ella dumandar expertas u experts. La direcziun da l'acziun dals pumpiers è ina part da la direcziun generala da l'acziun.
 
-<sup>2</sup> A la fin da l'acziun da pumpiers surdat ella u el la responsabladad per il lieu da donn en il sectur dals pumpiers a la polizia.
+<sup>2</sup> A la fin da l'acziun da pumpiers surdat ella la responsabladad per il lieu da donn en il sectur dals pumpiers a la polizia.
 
-<sup>3</sup> La manadra u il manader da l'acziun dals pumpiers po procurar per la rumida dal lieu da donn, sche quai è necessari per stizzar cumplettamain il fieu u per allontanar privels per umans, per animals, per l'ambient u per valurs materialas. Ulteriuras lavurs da rumida ston vegnir coordinadas cun l'assicuranza d'edifizis e cun la polizia.
+<sup>3</sup> La direcziun da l'acziun dals pumpiers po procurar per la rumida dal lieu da donn, sche quai è necessari per stizzar cumplettamain il fieu u per allontanar privels per umans, per animals, per l'ambient u per valurs materialas. Ulteriuras lavurs da rumida ston vegnir coordinadas cun l'assicuranza d'edifizis e cun la polizia.
 
 #### Art. 18
 
@@ -291,13 +295,13 @@ relaschada da la regenza ils 26 d'october 2010
 
 **Mesiras subvenziunablas**
 
-<sup>1</sup> Mesiras da protecziun cunter incendis subvenziunablas èn la cumpra e la montascha da detecturs d'incendis, d'indrizs da stizzar fieu e d'indrizs parachametg ch'èn renconuschids da l'uniun da las assicuranzas chantunalas cunter fieu.
+<sup>1</sup> Mesiras da protecziun cunter incendis subvenziunablas èn la cumpra e la montascha da detecturs d'incendis, d'indrizs da stizzar fieu sco er da sistems da parachametg che correspundan a las prescripziuns per la protecziun cunter incendis.
 
 <sup>2</sup> Contribuziuns vegnan pajadas mo per edifizis che suttastattan a l'obligatori d'assicuranza.
 
 <sup>3</sup> Naginas contribuziuns na vegnan pajadas:
 
-- a) per indrizs ch'èn prescrits da la polizia da fieu u che vegnan construids per remplazzar in'autra mesira da protecziun cunter incendis;
+- a) per indrizs ch'èn prescrits en las prescripziuns per la protecziun cunter incendis u che vegnan construids per remplazzar in'autra mesira da protecziun cunter incendis;
 - b) per indrizs ch'èn necessaris per il manaschi u che servan a survegliar u a proteger installaziuns tecnicas.
 
 #### Art. 24
@@ -318,16 +322,20 @@ relaschada da la regenza ils 26 d'october 2010
 
 - a) Corps communals da pumpiers
   - 1\. contribuziun da basa: magasins da pumpiers: 15 pertschient; ulteriuras investiziuns: 20 pertschient
-  - 2\. contribuziun supplementara tenor la capacitad finanziala: 0 – 10 pertschient
+  - 2\. …
 - b) Corps intercommunals da pumpiers
   - 1\. contribuziun da basa magasins da pumpiers: 15 pertschient; ulteriuras investiziuns: 20 pertschient
-  - 2\. contribuziun supplementara tenor la capacitad finanziala: 0 – 10 pertschient
-  - 3\. supplement da corporaziun: 2,5 – 7,5 pertschient. Il supplement da corporaziun vegn graduà tenor la funcziunalitad da las investiziuns per augmentar la prontezza a l'acziun. La contribuziun po vegnir augmentada per corps intercommunals da pumpiers ch'èn vegnids fundads da nov durant maximalmain 3 onns per fin 20 pertschient a maximalmain 50 pertschient.
+  - 2\. …
+  - 3\. supplement da corporaziun: 2,5 – 7,5 pertschient. Il supplement da corporaziun vegn graduà tenor la funcziunalitad da las investiziuns per augmentar la prontezza a l'acziun. La contribuziun po vegnir augmentada per corps intercommunals da pumpiers ch'èn vegnids fundads da nov durant maximalmain 3 onns per fin 20 pertschient.
 - c) Corps da pumpiers da manaschi
   - 1\. magasins da pumpiers: 15 pertschient
   - 2\. ulteriuras investiziuns: 20 pertschient
+- d) Acquisiziuns collectivas tras l'assicuranza d'edifizis
+  - 1\. Sch'ils pumpiers sa participeschan ad acquisiziuns collectivas da l'assicuranza d'edifizis, po la contribuziun totala vegnir augmentada a maximalmain 50 pertschient.
 
-<sup>2</sup> La contribuziun supplementara als corps da pumpiers vegn concedida mo a vischnancas cun ina capacitad finanziala media u debla.
+<sup>1<sup>bis</sup></sup> Las ulteriuras acquisiziuns ch'èn necessarias per il manaschi, ma che na figureschan betg sin la glista da l'assicuranza d'edifizis davart las investiziuns necessarias che resultan dal manaschi tecnic, vegnan indemnisadas cun ina pauschala annuala che vegn fixada da l'assicuranza d'edifizis.
+
+<sup>2</sup> …
 
 <sup>3</sup> Corps da pumpiers da vischnancas fusiunadas valan durant 3 onns suenter la fusiun sco corps da pumpiers intercommunals.
 
@@ -359,7 +367,7 @@ relaschada da la regenza ils 26 d'october 2010
 
 <sup>1</sup> Ils provediments cun aua da stizzar fieu han il dretg da survegnir contribuziuns sch'els correspundan – areguard la quantitad ed areguard la pressiun – al basegn dals pumpiers e dals indrizs da stizzar fieu en ils edifizis.
 
-<sup>2</sup> Per indrizs da rait che servan a la distribuziun d'aua cun agid d'idrants sur terra vegnan concedidas contribuziuns, sch'ils bischens dals idrants han in diameter d'almain 100 millimeters. En cas d'in diameter dal bischen da 100 millimeters fin 200 millimeters vegn pajada l'entira contribuziun. Sch'il bischen ha in diameter da passa 200 millimeters vegn la contribuziun pajada proporziunalmain en relaziun tranter il diever d'aua da stizzar fieu ed il diever d'aua da baiver dal provediment d'aua.
+<sup>2</sup> Per indrizs da rait che servan a la distribuziun d'aua cun agid d'idrants sur terra vegnan concedidas contribuziuns, sch'ils bischens dals idrants han in diameter intern d'almain 100 millimeters. En cas d'in diameter intern dal bischen da 100 millimeters fin 200 millimeters vegn pajada l'entira contribuziun, e sch'il bischen ha in diameter intern da 200 millimeters u dapli vegn la contribuziun pajada proporziunalmain en relaziun dal diever da l'aua da stizzar fieu cun il diever da l'aua da baiver dal provediment d'aua.
 
 <sup>3</sup> Las pretensiuns envers la concepziun dal provediment cun aua da stizzar fieu ston vegnir fixadas en zonas da mantegniment, per edifizis abitads permanentamain ordaifer il territori da construcziun e per edifizis agriculs uschia, ch'ils custs che resultan da quai èn supportabels per las vischnancas respectivamain per las proprietarias e per ils proprietaris dals edifizis pertutgads.
 
@@ -371,18 +379,23 @@ relaschada da la regenza ils 26 d'october 2010
 
 **Contribuziuns**
 
-<sup>1</sup> Per ils custs da construcziun imputabels d'indrizs dal provediment cun aua da stizzar fieu paja l'assicuranza d'edifizis las suandantas contribuziuns:
+<sup>1</sup> Per ils custs da construcziun imputabels e per ils custs da gestiun d'indrizs dal provediment cun aua da stizzar fieu paja l'assicuranza d'edifizis las suandantas contribuziuns:
 
-- a) emprimas investiziuns
+- a) investiziuns novas
   - 1\. contribuziun da basa: 15 pertschient
-  - 2\. contribuziun supplementara tenor la capacitad finanziala: 0 – 10 pertschient
-- b) investiziuns da renovaziun
+  - 2\. …
+- b) investiziuns substitutivas
   - 1\. contribuziun da basa: 10 pertschient
-  - 2\. contribuziun supplementara tenor la capacitad finanziala: 0 – 10 pertschient
+  - 2\. …
+- c) contribuziuns da gestiun
+  - 1\. contribuziun da basa: 2500 francs;
+  - 2\. contribuziun supplementara: 4 francs per mintga milliun da la summa d'assicuranza dals edifizis.
 
-<sup>2</sup> La contribuziun supplementara vegn concedida mo a vischnancas cun ina capacitad finanziala media u debla.
+<sup>2</sup> …
 
-<sup>3</sup> Per territoris cun in pitschen svilup architectonic e per edifizis ordaifer ils territoris da construcziun, cun excepziun dals edifizis agriculs d'economia e da manaschi cun in volumen construì da passa 3000 m³, na dastgan las contribuziuns betg surpassar 2 pertschient da las valurs d'assicuranza dals edifizis.
+<sup>3</sup> Per territoris cun in pitschen svilup architectonic e per edifizis ordaifer ils territoris da construcziun, cun excepziun dals edifizis agriculs d'economia e da manaschi cun in volumen construì da passa 3000 m³, na dastgan las contribuziuns d'investiziun betg surpassar 2 pertschient da las valurs d'assicuranza dals edifizis.
+
+<sup>4</sup> L'assicuranza d'edifizis controllescha periodicamain mintga 5 onns, sch'il provediment cun aua da stizzar fieu ademplescha las premissas tenor l'artitgel 41 alinea 3 da la lescha. Sch'i vegnan constatadas mancanzas, scroda il dretg da survegnir contribuziuns fin che las mancanzas èn eliminadas, però almain per l'onn da contribuziun respectiv.
 
 ## 4. Disposiziuns finalas
 
