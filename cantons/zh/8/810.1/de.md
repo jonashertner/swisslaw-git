@@ -4,11 +4,11 @@ number: "810.1"
 title: Gesundheitsgesetz (GesG)
 short: GesG
 language: de
-version: "2022-11-01"
-nachtrag: "119"
-valid_until: 2023-05-01
+version: "2023-05-01"
+nachtrag: "121"
+valid_until: 2023-07-01
 adopted: 2007-04-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-810_1-2007_04_02-2008_07_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-810_1-2007_04_02-2008_07_01-121.html"
 text: pdf
 ---
 
@@ -16,16 +16,13 @@ text: pdf
 
 # Gesundheitsgesetz (GesG)
 
-(vom 2. April 2007)[^t-1]
+(vom 2. April 2007)<sup>1</sup>
 
 Der Kantonsrat,
 
-nach Einsichtnahme in die Anträge des Regierungsrates vom 26. Januar 2005[^t-2] und der Kommission für soziale Sicherheit und Gesundheit vom 16. Januar 2007,
+nach Einsichtnahme in die Anträge des Regierungsrates vom 26. Januar 2005<sup>2</sup> und der Kommission für soziale Sicherheit und Gesundheit vom 16. Januar 2007,
 
 beschliesst:
-
-[^t-1]: OS 63, 204. Inkrafttreten: 1. Juli 2008 (OS 63, 224).
-[^t-2]: ABl 2005, 121.
 
 ### 1. Teil: Einleitung
 
@@ -61,7 +58,7 @@ Direktion im Sinne dieses Gesetzes ist die für das Gesundheitswesen zuständige
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 23 - 121
 
 - d. Verrichtungen zur Veränderung der Empfängnis- und Zeugungsfähigkeit vornimmt,
 
@@ -157,7 +154,7 @@ Direktion im Sinne dieses Gesetzes ist die für das Gesundheitswesen zuständige
 
 **3**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 23 - 121
 
 <sup>5</sup> Die §§ 5–8 und 10–21 sowie die für die jeweilige Berufskategorie anwendbaren allgemeinen und besonderen Bestimmungen gelten sinngemäss.
 
@@ -235,7 +232,7 @@ Die Bekanntmachung der Berufstätigkeit und Werbung müssen sachlich sein und d�
 
 **5**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 23 - 121
 
 ### C. Notfalldienst<sup>23</sup>
 
@@ -251,7 +248,7 @@ Die Bekanntmachung der Berufstätigkeit und Werbung müssen sachlich sein und d�
 
 - a. Bezirksärztinnen und -ärzte,
 
-- b. Legalinspektorinnen und -inspektoren gemäss Art. 253 Abs. 1 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007[^hCNotfalldienstsup-1],
+- b. Legalinspektorinnen und -inspektoren gemäss Art. 253 Abs. 1 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007<sup>6</sup>,
 
 - c. andere Berufsangehörige, wenn sie in einer stationären oder ambulanten Institution mit 24-Stunden-Notfallversorgung und Versorgungsaufträgen des Kantons oder von Gemeinden tätig sind und
 
@@ -321,9 +318,9 @@ Die Bekanntmachung der Berufstätigkeit und Werbung müssen sachlich sein und d�
 
 **7**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 23 - 121
 
-<sup>2</sup> Entscheide der Standesorganisation und Entscheide von Dritten gemäss § 17 b sind mit Rekurs bei der Direktion anfechtbar. Entscheidet die Gemeinde, richtet sich der Rechtsmittelweg nach dem Verwaltungsrechtspflegegesetz vom 24. Mai 1959[^hCNotfalldienstsup-2].
+<sup>2</sup> Entscheide der Standesorganisation und Entscheide von Dritten gemäss § 17 b sind mit Rekurs bei der Direktion anfechtbar. Entscheidet die Gemeinde, richtet sich der Rechtsmittelweg nach dem Verwaltungsrechtspflegegesetz vom 24. Mai 1959<sup>3</sup>.
 
 **Triagestelle**
 
@@ -342,9 +339,6 @@ Die Bekanntmachung der Berufstätigkeit und Werbung müssen sachlich sein und d�
 <sup>4</sup> Die Gemeinden tragen 50% der dem Kanton gemäss Abs. 1–3 entstehenden Kosten. Die Direktion berechnet den Anteil der Gemeinden nach der Einwohnerzahl.
 
 <sup>5</sup> Die Triagestelle veröffentlicht ihren Jahresbericht. Sie weist darin die Anzahl der Anrufe auf die Notfallrufnummer aus.
-
-[^hCNotfalldienstsup-1]: SR 312.0.
-[^hCNotfalldienstsup-2]: LS 175.2.
 
 ### D.<sup>24</sup> Besondere Aufgaben
 
@@ -374,13 +368,11 @@ Die Direktion beaufsichtigt Personen, die Tätigkeiten nach § 3 ausüben.
 
 **Schulen für nichtärztliches Gesundheitspersonal**
 
-§ 20 a.<sup>14</sup> <sup>1</sup> An Schulen, die nichtärztliches Gesundheitspersonal ausbilden, können Staatsbeiträge nach Massgabe des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung vom 14. Januar 2008[^20-1] ausgerichtet werden. Sie können von der für das Bildungswesen zuständigen Direktion des Regierungsrates mit zusätzlichen Subventionen unterstützt werden, sofern sie eine ausreichende Ausbildung gewährleisten und einem Bedürfnis des Kantons dienen.
+§ 20 a.<sup>14</sup> <sup>1</sup> An Schulen, die nichtärztliches Gesundheitspersonal ausbilden, können Staatsbeiträge nach Massgabe des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung vom 14. Januar 2008<sup>4</sup> ausgerichtet werden. Sie können von der für das Bildungswesen zuständigen Direktion des Regierungsrates mit zusätzlichen Subventionen unterstützt werden, sofern sie eine ausreichende Ausbildung gewährleisten und einem Bedürfnis des Kantons dienen.
 
 <sup>2</sup> Zusätzliche Subventionen können unter den gleichen Voraussetzungen auch an Schulen ausgerichtet werden, die eine Vorschulung für einen Fachberuf dieser Art anbieten.
 
 <sup>3</sup> Der Regierungsrat kann die Voraussetzungen zur Gewährung zusätzlicher Subventionen konkretisieren und entscheidet über deren Art und Höhe. Sie werden unter der Bedingung gewährt, dass die Schulen den zürcherischen Spitälern und Pflegeheimen in angemessenem Umfang Personal zur Verfügung stellen.
-
-[^20-1]: LS 413.31.
 
 #### § 21
 
@@ -398,7 +390,7 @@ Der Kanton kann, soweit notwendig, den praktischen Teil der Grundausbildung sowi
 
 **9**
 
-- 1\. 1. 23 - 119 § 22 a.<sup>27</sup> <sup>1</sup> Erfüllt eine Institution ihre Aus- und Weiterbildungspflicht nicht, kürzt die Direktion allfällige Staatsbeiträge oder erhebt eine Ersatzabgabe. In begründeten Fällen kann sie darauf verzichten.
+- 1\. 7. 23 - 121 § 22 a.<sup>27</sup> <sup>1</sup> Erfüllt eine Institution ihre Aus- und Weiterbildungspflicht nicht, kürzt die Direktion allfällige Staatsbeiträge oder erhebt eine Ersatzabgabe. In begründeten Fällen kann sie darauf verzichten.
 
 **b. Ersatzabgaben**
 
@@ -426,13 +418,11 @@ Die Direktion sorgt für die regelmässige Information der Bevölkerung über de
 
 ### 2. Abschnitt: Die bewilligungspflichtigen Berufe im Einzelnen
 
-[^h2AbschnittDiebe-1]: SR 811.11.
-
 #### § 25
 
 **Medizinalberufe nach Bundesrecht**
 
-<sup>1</sup> Die Bewilligung der selbstständigen Ausübung von universitären Medizinalberufen gemäss Art. 2 des Bundesgesetzes vom 23. Juni 2006 über die universitären Medizinalberufe[^h2AbschnittDiebe-1] und des Psychotherapieberufes gemäss Bundesgesetz vom 18. März 2011 über die Psychologieberufe<sup>11</sup> richtet sich nach Bundesrecht. Gleiches gilt für die Berufspflichten.<sup>22</sup>
+<sup>1</sup> Die Bewilligung der selbstständigen Ausübung von universitären Medizinalberufen gemäss Art. 2 des Bundesgesetzes vom 23. Juni 2006 über die universitären Medizinalberufe<sup>7</sup> und des Psychotherapieberufes gemäss Bundesgesetz vom 18. März 2011 über die Psychologieberufe<sup>11</sup> richtet sich nach Bundesrecht. Gleiches gilt für die Berufspflichten.<sup>22</sup>
 
 <sup>2</sup> Ohne Bewilligung zur selbstständigen Berufsausübung berechtigt sind die Professorinnen und Professoren der Universität Zürich mit einem Lehrauftrag für klinische Fächer im Rahmen ihrer Anstellung.
 
@@ -472,7 +462,7 @@ Die Bewilligung zur selbstständigen zahnprothetischen Tätigkeit setzt in fachl
 
 **11**
 
-- 1\. 1. 23 - 119 § 32. <sup>1</sup> Die Bewilligung berechtigt die Inhaberin oder den Inhaber, selbstständig abnehmbaren Zahnersatz (Total- und Teilprothesen) herzustellen und die dazu erforderlichen Zahnreinigungen, Abdrücke und Einpassungen vorzunehmen.
+- 1\. 7. 23 - 121 § 32. <sup>1</sup> Die Bewilligung berechtigt die Inhaberin oder den Inhaber, selbstständig abnehmbaren Zahnersatz (Total- und Teilprothesen) herzustellen und die dazu erforderlichen Zahnreinigungen, Abdrücke und Einpassungen vorzunehmen.
 
 **b. Tätigkeitsbereich**
 
@@ -556,19 +546,17 @@ des Gesundheitswesens
 
 **13**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 23 - 121
 
 <sup>2</sup> Spitäler oder Geburtshäuser mit kantonalem Leistungsauftrag nehmen Personen auf, die einer stationären Behandlung bedürfen. Die Direktion kann ihnen nach Voranzeige Patientinnen und Patienten zuweisen, die andernorts nicht untergebracht werden können oder deren Zustand eine Verlegung als geboten erscheinen lässt.<sup>15</sup>
 
 <sup>3</sup> Über die Pflichtleistungen nach Massgabe der Sozialversicherungsgesetzgebung des Bundes hinaus besteht kein Recht auf Inanspruchnahme von medizinischen Leistungen. Bei Nichtpflichtleistungen gilt die Beistandspflicht der Institutionen solange und im Umfang, als es nach den Umständen zumutbar ist. Der Regierungsrat kann in einer Verordnung den kantonalen Spitälern die Vornahme von solchen Nichtpflichtleistungen untersagen, deren Kosten die durchschnittlichen Untersuchungs-, Diagnose-, Therapie- und Pflegekosten in einem für das Gemeinwesen untragbaren Ausmass übersteigen. Die Spitäler der hochspezialisierten Versorgung und die Universität werden angehört.
 
-[^38-1]: LS 813.13.
-
 #### § 39
 
 **Patientendokumentation**
 
-In den Institutionen des Gesundheitswesens werden Patientendokumentationen gemäss § 13 geführt. Für Institutionen im Geltungsbereich des Patientinnen- und Patientengesetzes[^38-1] gelten die entsprechenden Vorschriften jenes Gesetzes.
+In den Institutionen des Gesundheitswesens werden Patientendokumentationen gemäss § 13 geführt. Für Institutionen im Geltungsbereich des Patientinnen- und Patientengesetzes<sup>5</sup> gelten die entsprechenden Vorschriften jenes Gesetzes.
 
 #### § 40
 
@@ -640,7 +628,7 @@ Der Regierungsrat erlässt die Vorschriften zum Vollzug der Bundesgesetzgebung �
 
 **15**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 23 - 121
 
 - c. Hinweise auf Anlässe zur Verkaufsförderung für Bier, Wein sowie andere Getränke, die weniger als 15 Prozent vergorenen Alkohol enthalten,
 
@@ -700,6 +688,18 @@ Die Direktion und die Gemeinden können gemeinnützige Institutionen bis zu 100 
 
 <sup>3</sup> Sie können hierüber Verordnungen erlassen. Erweist sich zur Bekämpfung bestimmter überregionaler Gefahren eine einheitliche Regelung für notwendig, kann der Regierungsrat sie treffen.
 
+**Arzneimittel, Medizinprodukte und weiteres Material**
+
+§ 53 a.<sup>30</sup> <sup>1</sup> Der Kanton stellt im Fall einer Epidemie oder eines anderen aussergewöhnlichen Ereignisses die Versorgung der Institutionen des Gesundheitswesens und der selbstständig tätigen Medizinalpersonen und Gesundheitsfachpersonen mit Arzneimitteln, Medizinprodukten und weiterem für die Gesundheitsversorgung erforderlichem Material sicher.
+
+<sup>2</sup> Er kann die Institutionen des Gesundheitswesens und die selbstständig tätigen Medizinalpersonen und Gesundheitsfachpersonen verpflichten, auf eigene Kosten angemessene Vorsorgeleistungen im Sinne von Abs. 1 zu erbringen. Die Direktion überwacht die Einhaltung der Vorgaben. Die Verordnung regelt die Einzelheiten.
+
+<sup>3</sup> Verpflichtet der Kanton Institutionen des Gesundheitswesens und selbstständig tätige Medizinalpersonen und Gesundheitsfachpersonen zu weitergehenden Vorsorgeleistungen, übernimmt er 100% der ungedeckten Kosten.
+
+**17**
+
+- 1\. 7. 23 - 121
+
 ### 2. Abschnitt: Bekämpfung übertragbarer Krankheiten<sup>25</sup>
 
 **Allgemeines**
@@ -716,11 +716,9 @@ Die Direktion und die Gemeinden können gemeinnützige Institutionen bis zu 100 
 
 <sup>2</sup> Die Gemeinden wirken bei der Verhütung und Bekämpfung übertragbarer Krankheiten mit.
 
-**17**
-
-- 1\. 1. 23 - 119 § 54 b.<sup>25</sup> <sup>1</sup> Schulen, an denen die Schulpflicht erfüllt werden kann, und Institutionen, die Personen mit einem erhöhten Ansteckungs- oder Übertragungsrisiko ausbilden, betreuen oder beschäftigen, erfüllen folgende Pflichten:
-
 **Massnahmen in Institutionen**
+
+§ 54 b.<sup>25</sup> <sup>1</sup> Schulen, an denen die Schulpflicht erfüllt werden kann, und Institutionen, die Personen mit einem erhöhten Ansteckungs- oder Übertragungsrisiko ausbilden, betreuen oder beschäftigen, erfüllen folgende Pflichten:
 
 - a. Sie treffen Massnahmen zur Verhütung übertragbarer Krankheiten. Der Regierungsrat legt diese Massnahmen fest. Die Direktion kann Weisungen erteilen.
 
@@ -776,11 +774,11 @@ Die Direktion und die Gemeinden können gemeinnützige Institutionen bis zu 100 
 
 <sup>3</sup> An Bestattungen ausserhalb der Wohngemeinde leistet die Wohngemeinde eine vom Regierungsrat festzusetzende Vergütung.
 
-#### § 57
+**19**
+
+- 1\. 7. 23 - 121 § 57. Die Gemeinden stellen auf den Friedhöfen genügend Grabplätze für Erd- und Urnenbestattungen zur Verfügung.
 
 **Grabanspruch**
-
-Die Gemeinden stellen auf den Friedhöfen genügend Grabplätze für Erd- und Urnenbestattungen zur Verfügung.
 
 ### 7. Teil: Schlussbestimmungen
 
@@ -799,10 +797,6 @@ Die Gemeinden stellen auf den Friedhöfen genügend Grabplätze für Erd- und Ur
 - a. Aufgaben, welche die Gesundheitsgesetzgebung den Gemeinden oder den Bezirksbehörden überträgt,
 
 - b. besondere Vorschriften über die Berufsbildung im Bereich des Gesundheitswesens und die Gesundheitspflege an den Schulen.
-
-**19**
-
-- 1\. 1. 23 - 119
 
 <sup>2</sup> Die Direktion ist befugt:
 
@@ -854,6 +848,10 @@ Die Gemeinden stellen auf den Friedhöfen genügend Grabplätze für Erd- und Ur
 
 - h. eine Institution gemäss § 35 betreibt, ohne über eine Betriebsbewilligung zu verfügen. Ist die Betreiberin eine juristische Person, machen sich diejenigen natürlichen Personen strafbar, in deren Verantwortung die Pflicht zum Einholen der Bewilligung fällt,
 
+**21**
+
+- 1\. 7. 23 - 121
+
 - i. für Alkohol, Tabak und andere Suchtmittel mit vergleichbarem Gefährdungspotenzial auf öffentlichem Grund sowie in öffentlichen Gebäuden gemäss § 48 Abs. 2 verbotene Werbung betreibt,
 
 - j. für Alkohol, Tabak und andere Suchtmittel mit vergleichbarem Gefährdungspotenzial an Orten und Veranstaltungen gemäss § 48 Abs. 3 Werbung betreibt,
@@ -863,10 +861,6 @@ Die Gemeinden stellen auf den Friedhöfen genügend Grabplätze für Erd- und Ur
 - l. Alkohol an Personen unter 16 Jahren beziehungsweise gebrannte Wasser an Personen unter 18 Jahren kostenlos abgibt, ohne dass ihm die elterliche Sorge zusteht.
 
 m.<sup>25</sup> eine gestützt auf § 54 Abs. 2 obligatorisch erklärte Impfung verweigert, n.<sup>25</sup> Melde- oder Mitwirkungspflichten nach § 54 b Abs. 1 oder § 54 d verletzt.
-
-**21**
-
-- 1\. 1. 23 - 119
 
 <sup>2</sup> Wer gewerbsmässig oder gewinnsüchtig handelt, wird mit Busse bis Fr. 500 000 bestraft.
 
@@ -904,13 +898,11 @@ Tabakautomaten, die der Regelung von § 48 Abs. 5 widersprechen, sind spätesten
 
 Bis zur Schaffung eidgenössisch anerkannter Diplome der Komplementärmedizin kann der Regierungsrat die Bewilligungspflicht nach diesem Gesetz auf Personen ausdehnen, die unter einem von ihm anerkannten, von einem gesamtschweizerischen Berufsverband ausgestellten Diplom mit Qualifikation für Homöopathie, Traditionelle Chinesische Medizin (TCM), Phytotherapie oder Osteopathie tätig werden.
 
-[^65-1]: SR 811.11.
-
 #### § 66
 
 **Medizinalberufe nach Bundesrecht a. Im Allgemeinen**
 
-Bis zum Inkrafttreten des Bundesgesetzes über die universitären Medizinalberufe (MedBG)[^65-1] gelten an Stelle von § 25 dieses Gesetzes die nachstehenden Zulassungsregeln.
+Bis zum Inkrafttreten des Bundesgesetzes über die universitären Medizinalberufe (MedBG)<sup>7</sup> gelten an Stelle von § 25 dieses Gesetzes die nachstehenden Zulassungsregeln.
 
 #### § 67
 
@@ -934,6 +926,10 @@ Bis zum Inkrafttreten des Bundesgesetzes über die universitären Medizinalberuf
 
 <sup>1</sup> Die Bewilligung zur selbstständigen zahnärztlichen Tätigkeit setzt in fachlicher Hinsicht voraus, dass die Gesuchstellerin oder der Gesuchsteller über ein eidgenössisches oder eidgenössisch anerkanntes ausländisches Zahnarztdiplom verfügt.
 
+**23**
+
+- 1\. 7. 23 - 121
+
 <sup>2</sup> Zur selbstständigen zahnärztlichen Tätigkeit sind ohne Bewilligung berechtigt:
 
 - 1\. Professorinnen und Professoren der Universität Zürich mit einem Lehrauftrag für klinische Zahnmedizin im Rahmen ihrer Anstellung,
@@ -949,10 +945,6 @@ Bis zum Inkrafttreten des Bundesgesetzes über die universitären Medizinalberuf
 <sup>2</sup> Zur selbstständigen tierärztlichen Tätigkeit sind ohne Bewilligung berechtigt:
 
 - 1\. Professorinnen und Professoren der Universität Zürich mit einem Lehrauftrag für klinische Fächer im Rahmen ihrer Anstellung,
-
-**23**
-
-- 1\. 1. 23 - 119
 
 - 2\. im Grenzgebiet zu anderen Kantonen und zum Ausland praxisberechtigte Tierärztinnen und Tierärzte mit eidgenössischem oder eidgenössisch anerkanntem ausländischem Diplom für die gelegentliche Berufstätigkeit, die sie von ihrem Praxisstandort aus im Grenzgebiet des Kantons Zürich ausüben.
 
@@ -977,6 +969,20 @@ Die Bewilligung zur selbstständigen chiropraktorischen Tätigkeit setzt in fach
 ### Übergangsbestimmung zur Änderung vom 21. März 2022 (OS 77, 527)
 
 Die erste öffentliche Ausschreibung gemäss § 17 h ist so vorzunehmen, dass die beauftragte Triagestelle per 1. Januar 2027 ihren Betrieb aufnehmen kann.
+
+<sup>1</sup> OS 63, 204. Inkrafttreten: 1. Juli 2008 (OS 63, 224).
+
+<sup>2</sup> ABl 2005, 121.
+
+<sup>3</sup> LS 175.2.
+
+<sup>4</sup> LS 413.31.
+
+<sup>5</sup> LS 813.13.
+
+<sup>6</sup> SR 312.0.
+
+<sup>7</sup> SR 811.11
 
 <sup>8</sup> SR 812.21.
 
@@ -1008,6 +1014,10 @@ Die erste öffentliche Ausschreibung gemäss § 17 h ist so vorzunehmen, dass di
 
 <sup>22</sup> Fassung gemäss G vom 24. November 2014 (OS 70, 259; ABl 2014-03-14). In Kraft seit 1. September 2015.
 
+**25**
+
+- 1\. 7. 23 - 121
+
 <sup>23</sup> Eingefügt durch G vom 19. Dezember 2017 (OS 73, 1; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
 
 <sup>24</sup> Fassung gemäss G vom 19. Dezember 2017 (OS 73, 1; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
@@ -1022,6 +1032,4 @@ Die erste öffentliche Ausschreibung gemäss § 17 h ist so vorzunehmen, dass di
 
 <sup>29</sup> Fassung gemäss G vom 21. März 2022 (OS 77, 527; ABl 2021-11-26). In Kraft seit 1. November 2022.
 
-**25**
-
-- 1\. 1. 23 - 119
+<sup>30</sup> Eingefügt durch Gesetz über die Verselbstständigung der Kantonsapotheke Zürich vom 7. November 2022 (OS 78, 140; ABl 2018-07-20). In Kraft seit 1. Mai 2023.
