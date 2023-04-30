@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2023-02-01
+version: 2023-05-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20230201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20230501/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20230501-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230201/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 1° febbraio 2023)
+del 4 giugno 2021 (Stato 1° maggio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1014,7 +1014,7 @@ Allegato 5[^t-6]
 
 ## Elenco dei certificati esteri riconosciuti
 
-[^t-6]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II delle O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi) ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), del 27 apr. 2022 (Certificati di guarigione dalla COVID-19 compatibili con l’UE basati su test antigenici rapidi) ([RU 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)), del 10 giu. 2022 ([RU 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)), dal n. I delle O del DFI del 12 ago. 2022 ([RU 2022 446](https://fedlex.data.admin.ch/eli/oc/2022/446)) e dell’11 nov. 2022, in vigore dal 1° dic. 2022 ([RU 2022 678](https://fedlex.data.admin.ch/eli/oc/2022/678)).
+[^t-6]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II delle O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi) ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), del 27 apr. 2022 (Certificati di guarigione dalla COVID-19 compatibili con l’UE basati su test antigenici rapidi) ([RU 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)), del 10 giu. 2022 ([RU 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)), dal n. I delle O del DFI dell’11 nov. 2022 ([RU 2022 678](https://fedlex.data.admin.ch/eli/oc/2022/678)) e del 23 mar. 2023, in vigore dal 1° mag. 2023 ([RU 2023 177](https://fedlex.data.admin.ch/eli/oc/2023/177)).
 
 ### 1 Certificati riconosciuti emessi da uno Stato membro dell’UE o dell’AELS
 
@@ -1038,11 +1038,13 @@ Allegato 5[^t-6]
   - – Albania
   - – Andorra
   - – Armenia
+  - – Azerbaigian
   - – Bahrein
   - – Benin
   - – Capo Verde
   - – El Salvador
   - – Georgia
+  - – Hong Kong
   - – Isole Färöer
   - – Israele
   - – Kosovo

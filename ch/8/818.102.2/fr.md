@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2023-02-01
+version: 2023-05-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20230201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20230501/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20230501-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230201/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (État le 1<sup>er</sup> février 2023)
+du 4 juin 2021 (État le 1<sup>er</sup> mai 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1014,7 +1014,7 @@ Annexe 5[^t-6]
 
 ## Liste des certificats étrangers reconnus
 
-[^t-6]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II des O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques) ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), du 27 avr. 2022 (Certificats de guérison COVID-19 compatibles avec l’UE fondés sur des tests rapides antigéniques) ([RO 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)), du 10 juin 2022 ([RO 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)), le ch. I des O du DFI du 12 août 2022 ([RO 2022 446](https://fedlex.data.admin.ch/eli/oc/2022/446)) et du 11 nov. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 678](https://fedlex.data.admin.ch/eli/oc/2022/678)).
+[^t-6]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II des O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques) ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), du 27 avr. 2022 (Certificats de guérison COVID-19 compatibles avec l’UE fondés sur des tests rapides antigéniques) ([RO 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)), du 10 juin 2022 ([RO 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)), le ch. I des O du DFI du 11 nov. 2022 ([RO 2022 678](https://fedlex.data.admin.ch/eli/oc/2022/678)) et du 23 mars 2023, en vigueur depuis le 1<sup>er</sup> mai 2023 ([RO 2023 177](https://fedlex.data.admin.ch/eli/oc/2023/177)).
 
 ### 1 Certificats reconnus établis par un État membre de l’UE ou de l’AELE
 
@@ -1038,11 +1038,13 @@ Annexe 5[^t-6]
   - – Albanie
   - – Andorre
   - – Arménie
+  - – Azerbaïdjan
   - – Bahreïn
   - – Bénin
   - – Cabo Verde
   - – El Salvador
   - – Géorgie
+  - – Hong Kong
   - – Îles Féroé
   - – Israël
   - – Kosovo

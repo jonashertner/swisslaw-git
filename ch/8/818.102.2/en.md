@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2023-02-01
+version: 2023-05-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20230201/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20230201-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20230501/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20230501-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230501/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 1 February 2023)
+of 4 June 2021 (Status as of 1 May 2023)
 
 The Swiss Federal Council,
 
@@ -1015,7 +1015,7 @@ Annex 5[^t-6]
 
 ## List of recognised foreign certificates
 
-[^t-6]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), of 27 April 2022 (EU Compatible COVID-19 Recovery Certificates for Rapid Antigen Tests) ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)), of 10 June 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)), No I of the FDHA O of 12 Aug. 2022 ([AS 2022 446](https://fedlex.data.admin.ch/eli/oc/2022/446)) and of 11 Nov. 2022 in force since 1 Dec. 2022 ([AS 2022 678](https://fedlex.data.admin.ch/eli/oc/2022/678)).
+[^t-6]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), of 27 April 2022 (EU Compatible COVID-19 Recovery Certificates for Rapid Antigen Tests) ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)), of 10 June 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)), No I of the FDHA of 11 Nov. 2022 ([AS 2022 678](https://fedlex.data.admin.ch/eli/oc/2022/678)) and of 23 March 2023, in force since 1 May 2023 ([AS 2023 177](https://fedlex.data.admin.ch/eli/oc/2023/177)).
 
 ### 1 Recognised certificates issued by an EU member state or an EFTA state
 
@@ -1037,6 +1037,7 @@ Annex 5[^t-6]
 - – Albania
 - – Andorra
 - – Armenia
+- – Azerbaijan
 - – Bahrain
 - – Benin
 - – Cape Verde
@@ -1044,6 +1045,7 @@ Annex 5[^t-6]
 - – Faroe Islands
 - – Georgia
 - – Holy See (Vatican)
+- – Hong Kong
 - – Israel
 - – Kosovo
 - – Morocco
