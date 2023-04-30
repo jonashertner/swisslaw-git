@@ -1,44 +1,40 @@
 ---
 canton: VS
 number: "740.100"
-title: Reglement betreffend die Erteilung von kantonalen Bewilligungen für die Personenbeförderung
+title: Reglement über die Erteilung von kantonalen Bewilligungen für die Personenbeförderung
 short: REPB
 language: de
-version: 1999-06-01
-corrected: 2017-10-06
-version_adopted: 1999-05-12
+version: 2023-05-01
+version_adopted: 2023-04-26
 adopted: 2023-04-26
 in_force: 2023-05-01
 url: "https://lex.vs.ch/app/de/texts_of_law/740.100"
-pdf: "https://lex.vs.ch/api/de/versions/282/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3211/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement betreffend die Erteilung von kantonalen Bewilligungen für die Personenbeförderung (REPB)
+# Reglement über die Erteilung von kantonalen Bewilligungen für die Personenbeförderung
 
-vom 12. Mai 1999
+(REPB)
+
+vom 26.04.2023 (Stand 01.05.2023)
 
 Der Staatsrat des Kantons Wallis
 
-**Zulassung als**
+eingesehen das Bundesgesetz über die Personenbeförderung vom 20. März 2009 (Personenbeförderungsgesetz, PBG) und dessen Verordnung vom 4. November 2009 (VPB);
 
-eingesehen die Artikel 3 und 21 des Bundesgesetzes vom 18. Juni 1993 über die Personenbeförderung und die Strassentransportunternehmung (Personbeförderungsgesetz, PBG);
+eingesehen Artikel 20 des Bundesgesetzes über die Trolleybusunternehmungen vom 29. März 1950 (Trolleybus-Gesetz, TrG) und Artikel 7 des Bundesgesetzes über die Binnenschifffahrt vom 3. Oktober 1975 (BSG);
 
-eingesehen Artikel 20 des Bundesgesetzes vom 29. März 1950 über die Trolleybusunternehmungen und Artikel 7 des Bundesgesetzes vom 3. Oktober 1975 über die Binnenschiffahrt;
+eingesehen Artikel 57 Absatz 1 der Kantonsverfassung;
 
-eingesehen die Verordnung über die Personenbeförderungskonzession (VPK) vom 25. November 1998;
+eingesehen das Gesetz über den öffentlichen Verkehr und den Alltagslangsamverkehr vom 15. Septembre 2022 (GöVALV);
 
-eingesehen Artikel 57, Absatz 1 der Kantonsverfassung;
+auf Antrag des für die Mobilität zuständigen Departements,
 
-eingesehen das Gesetz vom 28. September 1998 über den öffentlichen Verkehr (GöV);
+verordnet:
 
-auf Antrag des Departements für Verkehr, Bau und Umwelt,
-
-beschliesst:
-
-### 1. Abschnitt: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -46,143 +42,78 @@ beschliesst:
 
 <sup>1</sup> Dieses Reglement regelt die Erteilung von kantonalen Bewilligungen für die regelmässige und gewerbsmässige Personenbeförderung mittels Eisenbahnen und anderen spurgeführten Verkehrsmitteln, Trolleybussen, Automobilen und Schiffen.
 
-<sup>2</sup> Es bestimmt die zur Vollziehung der VPK erforderlichen praktischen Modalitäten, bezeichnet die zuständigen Instanzen und legt das Verfahren fest.
+<sup>2</sup> Es bestimmt die für den Vollzug der Bundesgesetzgebung über die Personenbeförderung erforderlichen praktischen Modalitäten, bezeichnet die zuständigen Instanzen und legt das Verfahren fest.
 
 #### Art. 2
 
-**Grundsatz**
+**Grundsätze**
 
-<sup>1</sup> Das Recht, Reisende regelmässig und gewerbsmässig zu befördern, kann durch Konzessionen oder Bewilligungen an natürliche und juristische Personen verliehen werden.
+<sup>1</sup> Gemäss Bundesgesetzgebung kann das Recht, Reisende regelmässig und gewerbsmässig zu befördern, durch Konzessionen oder Bewilligungen an natürliche und juristische Personen verliehen werden. Die Konzessionserteilung fällt in den Zuständigkeitsbereich des Bundes.
 
-<sup>2</sup> Die Konzession oder Bewilligung lautet auf eine oder mehrere Linien. Als Linie gelten alle durchgehenden Fahrten von Kursen mit gleichem Anfangs- und Endpunkt.
+<sup>2</sup> Das Personenbeförderungsregal unterliegt der Bundesgesetzgebung über die Personenbeförderung, in der auch die Ausnahmen festgelegt sind.
 
-<sup>3</sup> Für die regelmässige und gewerbsmässige Personenbeförderung innerhalb eines bestimmten Gebietes können Gebietskonzessionen und -bewilligungen erteilt werden.
+<sup>3</sup> Die Beförderungsbewilligung lautet auf eine oder mehrere Linien. Als Linie gelten alle durchgehenden Fahrten von Kursen mit gleichem Anfangs- und Endpunkt.
+
+<sup>4</sup> Für die regelmässige und gewerbsmässige Personenbeförderung innerhalb eines bestimmten Gebietes können Gebietsbewilligungen erteilt werden.
 
 #### Art. 3
 
-**Sonderformen des Linienverkehrs**
-
-Als Sonderformen des Linienverkehrs gelten die regelmässige Beförderung bestimmter Gruppen von Fahrgästen unter Ausschluss anderer Fahrgäste. Darunter fallen:
-
-- a) Schülertransporte: Transporte von Schülerinnen und Schülern sowie Studierenden zwischen Wohnort und Lehranstalt;
-
-- b) Arbeitnehmertransporte: Transporte von Arbeitnehmerinnen und Arbeitnehmern zwischen Wohnort und Arbeitsort;
-
-- c) Werkverkehr: Fahrten, die eine natürliche oder juristische Person als Nebentätigkeit ohne Erwerbszweck mit eigenen Fahrzeugen und eigenem Personal durchführt;
-
-- d) Fahrten im Rahmen eines Hilfsbetriebes: Fahrten, die von einem Nichttransportbetrieb oder auf dessen Rechnung oder Veranlassung für die Kundschaft, die Belegschaft, Mitglieder oder für Besucher durchgeführt werden;
-
-- e) Mitfahrerverkehr: Fahrten, bei denen der Führer oder die Führerin eines Fahrzeuges oder Schiffes regelmässig und gegen Entgelt Personen auf bestimmten Strecken mitführt;
-
-- f) Behindertentransporte;
-
-- g) die Beförderung von Angehörigen der Armee;
-
-- h) Einwegfahrt: die regelmässige Beförderung einer im Voraus gebildeten Reisegruppe in einer Richtung auf einer bestimmten Strecke;
-
-- i) Pendelfahrten mit Unterbringung: Fahrten des touristischen Verkehrs, mit denen im Voraus gebildete Reisegruppen an einem gemeinsamen Reiseziel abgesetzt und von dort mit einer späteren Fahrt der gleichen Unternehmung an den gemeinsamen Ausgangspunkt zurückgeführt werden, sofern für mindestens 4/5 der Fahrgäste neben der Beförderungsleistung im Rahmen eines Angebotspaketes die Unterbringung am Zielort während mindestens zwei Nächten vorgesehen ist.
-
-#### Art. 4
-
-**Konzessionspflicht**
-
-<sup>1</sup> Eine Konzession ist erforderlich für den Linienverkehr, die Sonderformen des Linienverkehrs und die linienverkehrsähnlichen Fahrten, die weder bewilligungspflichtig noch vom Personenbeförderungsregal ausgenommen sind.
-
-<sup>2</sup> Die Konzessionserteilung fällt in den Zuständigkeitsbereich des Bundes.
-
-#### Art. 5
-
 **Bewilligungspflicht**
 
-<sup>1</sup> Für die regelmässige und gewerbsmässige Personenbeförderung im ausschliesslich grenzüberschreitenden Verkehr ist eine eidgenössische Bewilligung erforderlich.
+<sup>1</sup> Für die regelmässige und gewerbsmässige Personenbeförderung im grenzüberschreitenden Verkehr ist eine eidgenössische Bewilligung erforderlich.
 
-<sup>2</sup> Eine kantonale Bewilligung ist im nationalen Verkehr erforderlich für:
+<sup>2</sup> Die Bundesgesetzgebung über die Personenbeförderung legt fest, in welchen Fällen eine kantonale Bewilligung für die Personenbeförderung erforderlich ist, und definiert die allgemeinen Bedingungen für ihre Erteilung, ihren Entzug oder ihre Erneuerung.
 
-- a) Fahrten, die innerhalb eines Jahres während höchstens acht aufeinander folgenden Wochen angeboten werden;
+<sup>3</sup> Eine kantonale Bewilligung ist namentlich erforderlich für:
 
-- b) Bedarfsverkehr mit Strassenfahrzeugen, wenn die Fahrten keine Erschliessungsfunktion haben;
+- a) Schülertransporte: Transporte von Schülerinnen und Schülern sowie Studierenden zwischen Wohnort und Lehranstalt;
+- b) Arbeitnehmertransporte: Transporte von Arbeitnehmerinnen und Arbeitnehmern zwischen Wohnort und Arbeitsort;
+- c) Werkverkehr: Fahrten, die eine natürliche oder juristische Person als Nebentätigkeit ohne Erwerbszweck mit eigenen Fahrzeugen und eigenem Personal durchführt;
+- d) Fahrten im Rahmen eines Hilfsbetriebes: Fahrten, die von einem Nichttransportbetrieb oder auf dessen Rechnung oder Veranlassung für die Kundschaft, die Belegschaft, Mitglieder oder für Besucher durchgeführt werden;
+- e) Mitfahrerverkehr: Fahrten, bei denen der Führer oder die Führerin eines Fahrzeuges oder Schiffes regelmässig und gegen Entgelt Personen auf bestimmten Strecken mitführt;
+- f) Einwegfahrten: die regelmässige Beförderung einer im Voraus gebildeten Reisegruppe in einer Richtung auf einer bestimmten Strecke;
+- g) linienverkehrsähnliche Fahrten, wenn die Fahrten keine Erschliessungsfunktion haben;
+- h) Fahrten, die innerhalb eines Jahres während mehr als 14 aufeinanderfolgenden Tagen regelmässig und fahrplanmässig angeboten werden.
 
-- c) linienverkehrsähnliche Fahrten, wenn die Fahrten keine Erschliessungsfunktion haben;
+## 2 Kantonale Bewilligungen
 
-- d) Schülertransporte;
-
-- e) Arbeitnehmertransporte;
-
-- f) Werkverkehr;
-
-- g) Fahrten im Rahmen eines Hilfsbetriebes;
-
-- h) Einwegfahrten;
-
-- i) Pendelfahrten mit Unterbringung.
-
-#### Art. 6
-
-**Ausnahmen**
-
-<sup>1</sup> Vom Personenbeförderungsregal sind ausgenommen:
-
-- a) Behindertentransporte;
-
-- b) die Beförderung von Angehörigen der Armee;
-
-- c) der Mitfahrerverkehr, wenn die öffentlichen Transportunternehmungen keine oder keine genügenden Verkehrsverbindungen anbieten;
-
-- d) der Gelegenheitsverkehr;
-
-- e) die Personenbeförderung mit Fahrzeugen und Schiffen ohne motorischen Antrieb.
-
-<sup>2</sup> Im ausschliesslich grenzüberschreitenden Verkehr sind zudem von der Personenbeförderungsregal ausgenommen:
-
-- a) die Sonderformen des Linienverkehrs;
-
-- b) Fahrten mit weniger als neun Fahrgästen.
-
-<sup>3</sup> Die Absätze 1 und 2 gelten nicht für Fahrten, welche bestehenden Fahrten oder Fahrtenketten des Linienverkehrs vergleichbar und auf deren Benutzer ausgerichtet sind.
-
-### 2. Abschnitt: Kantonale Bewilligungen
-
-#### Art. 7
+#### Art. 4
 
 **Erteilung und Erneuerung**
 
 <sup>1</sup> Eine Bewilligung wird erteilt oder erneuert, wenn:
 
 - a) kein bestehendes Angebot des öffentlichen Verkehrs in seinem Bestand gefährdet wird;
-
 - b) kein von der öffentlichen Hand durch Betriebs- oder Investitionsbeiträge mitfinanziertes Verkehrsangebot wesentlich konkurrenziert wird;
+- c) keine wesentlichen Interessen der Raumplanung oder des Umweltschutzes entgegenstehen;
+- d) die Einhaltung der einschlägigen Bestimmungen gewährleistet ist;
+- e) die von der Bundesgesetzgebung vorgegebenen allgemeinen Bedingungen für die Erteilung erfüllt sind.
 
-- c) keine wesentlichen Interessen der Raumplanung und des Umweltschutzes entgegenstehen;
+<sup>2</sup> Für Fahrten, die Kantonsgrenzen überschreiten, ist die Bewilligung durch den Kanton zu erteilen, in dessen Hoheitsgebiet sich der Ausgangspunkt befindet. Die betroffenen Kantone sind anzuhören. In Streitfällen entscheidet das Bundesamt für Verkehr (BAV).
 
-- d) die Einhaltung der einschlägigen Bestimmungen gewährleistet ist.
+#### Art. 5
 
-<sup>2</sup> Für Fahrten, die Kantonsgrenzen überschreiten, ist die Bewilligung durch den Kanton zu erteilen, in dessen Hoheitsgebiet sich der Ausgangspunkt befindet. Die betroffenen Kantone sind anzuhören. In Streitfällen entscheidet das Bundesamt.
+**Bewilligungsinhaber**
 
-#### Art. 8
+<sup>1</sup> Die kantonale Bewilligung wird auf den Namen des Gesuchstellers ausgestellt.
 
-**Bewilligungsinhaberin**
+<sup>2</sup> Für Schülertransporte wird sie einer Gemeinde, einem Schulzentrum oder einem (Transport) unternehmen erteilt.
 
-<sup>1</sup> Die kantonale Bewilligung wird auf den Namen der Gesuchstellerin ausgestellt.
-
-<sup>2</sup> Sie wird in der Regel bei Schülertransporten, einer Gemeinde, einem Schulzentrum oder einer Transportunternehmung erteilt.
-
-<sup>3</sup> Die Bewilligungsinhaberin kann den Verkehrsdienst jedoch im Einverständnis mit dem Kanton durch eine andere Unternehmung oder einen Dritten durchführen lassen.
+<sup>3</sup> Der Bewilligungsinhaber kann den Verkehrsdienst jedoch im Einverständnis mit dem Kanton durch ein anderes Unternehmen oder einen Dritten durchführen lassen.
 
 <sup>4</sup> Der Inhaber einer kantonalen Bewilligung ist verpflichtet:
 
-- a) über seinen Verkehrsdienst Auskünfte zu erteilen;
+- a) über seinen Verkehrsdienst Auskunft zu erteilen;
+- b) den Betriebsvertrag vorzulegen, welcher den auf eine Drittperson übertragenen Fahrbetrieb regelt;
+- c) unverzüglich jeden Unfall mit Verletzten oder Toten zu melden.
 
-- b) den Betriebsvertrag zuzustellen, welcher die Ausführung der Kurse regelt, die einem Dritten übergeben werden;
-
-- c) unverzüglich jeden Unfall zu melden, welcher Körperverletzungen oder Tote zur Folge hat.
-
-#### Art. 9
+#### Art. 6
 
 **Gültigkeitsdauer**
 
-Eine kantonale Bewilligung wird für höchstens zehn Jahre erteilt.
+<sup>1</sup> Eine kantonale Bewilligung wird für höchstens 10 Jahre erteilt.
 
-#### Art. 10
+#### Art. 7
 
 **Übertragung, Änderung und Verzicht**
 
@@ -190,73 +121,76 @@ Eine kantonale Bewilligung wird für höchstens zehn Jahre erteilt.
 
 <sup>2</sup> Der Inhaber kann jederzeit auf die Bewilligung verzichten unter der Bedingung, dass er den Kanton darüber in Kenntnis setzt.
 
-#### Art. 11
+#### Art. 8
 
-**Widerruf**
+**Entzug**
 
-Die Bewilligung kann widerrufen werden, wenn:
+<sup>1</sup> Die Bewilligung kann ohne Anspruch auf Entschädigung ganz oder teilweise entzogen werden, wenn:
 
-- a) die Bewilligungsvoraussetzungen weggefallen sind;
+- a) ihre Voraussetzungen weggefallen sind;
+- b) Vorschriften oder Auflagen schwer oder wiederholt verletzt worden sind.
 
-- b) Vorschriften oder Auflagen schwer oder wiederholt verletzt werden.
+<sup>2</sup> Die kantonale Bewilligung kann widerrufen werden, wenn wesentliche öffentliche Interessen dies rechtfertigen. Das Unternehmen wird nicht entschädigt.
 
-### 3. Abschnitt: Verfahren
+## 3 Verfahren
 
-#### Art. 12
+#### Art. 9
 
 **Zuständigkeit**
 
-<sup>1</sup> Das mit dem öffentlichen Verkehr betraute Departement (Departement) erteilt, erneuert, überträgt, ändert und widerruft die kantonalen Bewilligungen.
+<sup>1</sup> Die für Mobilität zuständige Dienststelle erteilt, erneuert, überträgt, ändert und entzieht die kantonalen Bewilligungen.
 
-<sup>2</sup> Die Dienststelle für Verkehrsfragen führt die Anhörung durch, gewährleistet die Koordination innerhalb der Verwaltung und bereitet die Stellungnahmen in den Anhörungen des Bundes vor.
+<sup>2</sup> Unter der Oberaufsicht des Staatsrates ist das für den öffentlichen Verkehr zuständige Departement die Aufsichtsbehörde für die Erteilung von kantonalen Bewilligungen nach diesem Reglement.
 
-#### Art. 13
+<sup>3</sup> Die für Mobilität zuständige Dienststelle führt die Anhörung durch, gewährleistet die Koordination innerhalb der Verwaltung und bereitet die Stellungnahmen in den Anhörungen des Bundes vor.
+
+#### Art. 10
 
 **Gesuche**
 
-<sup>1</sup> Gesuche um Erteilung, Erneuerung, Übertragung oder Änderung der kantonalen Bewilligungen sind in fünffacher Ausfertigung der Dienststelle für Verkehrsfragen spätestens drei Monate vor dem Zeitpunkt, auf welchen die Fahrten aufgenommen werden sollen, einzureichen.
+<sup>1</sup> Gesuche um Erteilung, Erneuerung, Übertragung oder Änderung der kantonalen Bewilligungen sind der für Mobilität zuständigen Dienststelle spätestens 3 Monate vor dem Zeitpunkt, auf den die Fahrten aufgenommen werden sollen, einzureichen.
 
-<sup>2</sup> Die Gesuche haben im Allgemeinen zu enthalten:
+<sup>2</sup> Die Gesuche haben mindestens zu enthalten:
 
-- a) Namen, Vornamen und Wohnadresse oder Firma, Sitz und Adresse der Gesuchstellerin oder des Gesuchstellers;
-
+- a) Namen, Vornamen und Adresse des Gesuchstellers bzw. Namen, Sitz und Adresse seiner Firma;
 - b) die vorgesehenen Fahrstrecken mit Bezeichnung der Haltestellen und Angabe der Entfernungen;
-
 - c) Angaben, ob die Linie ganzjährig oder nur während einer bestimmten Zeitspanne des Jahres geführt wird;
-
-- d) die Bezeichnung der zum Einsatz vorgesehenen Kursfahrzeuge (Marke, Typ, Jahrgang, Platzzahl);
-
+- d) die Bezeichnung der zum Einsatz vorgesehenen Kursfahrzeuge (Marke, Typ, Baujahr, Platzzahl);
 - e) den Zeitpunkt der vorgesehenen Betriebsaufnahme;
-
 - f) die gewünschte Dauer der kantonalen Bewilligung;
-
-- g) eine topographische Originalkarte im Massstab 1:25'000, auf der Strecke und Haltestellen eingezeichnet sind;
-
+- g) eine Original-Landeskarte im Massstab 1:25'000 oder in einem für das Verkehrsgebiet geeigneten Massstab, auf welcher die Strecken und Haltestellen eingezeichnet sind;
 - h) den Fahrplan und den Tarif;
-
 - i) eine Planrechnung mit der Angabe, wer allfällige Fehlbeträge deckt.
 
-#### Art. 14
+<sup>3</sup> Bei einer Erneuerung, Übertragung oder Änderung kann die für Mobilität zuständige Dienststelle auf einzelne der in Absatz 2 aufgeführten Angaben verzichten.
 
-**Vernehmlassungsverfahren**
+#### Art. 11
 
-Vor der Erteilung einer kantonalen Bewilligung hört die Dienststelle für Verkehrsfragen die betroffenen kantonalen Dienststellen, die Regionen und Gemeindebehörden sowie die öffentlichen Transportunternehmungen an. Dasselbe Verfahren gilt bei Übertragung, Änderung, Erneuerung und Widerruf der kantonalen Bewilligung.
+**Anhörungsverfahren**
 
-#### Art. 15
+<sup>1</sup> Vor der Erteilung einer kantonalen Bewilligung hört die für Mobilität zuständige Dienststelle die betroffenen kantonalen Dienststellen, die Regionen und Gemeindebehörden sowie die betroffenen Unternehmen des öffentlichen Verkehrs an. Dasselbe Verfahren gilt bei Übertragung, Änderung, Erneuerung und Entzug der kantonalen Bewilligung.
 
-**Öffentlichkeit des Verzeichnisses**
+#### Art. 12
 
-<sup>1</sup> Die Dienststelle für Verkehrsfragen führt ein öffentliches Verzeichnis der kantonalen Bewilligungen.
+**Beschwerde**
+
+<sup>1</sup> Gegen nach diesem Reglement getroffene Entscheide der Dienststelle kann nach den Regeln des kantonalen Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) Beschwerde erhoben werden.
+
+#### Art. 13
+
+**Bewilligungsverzeichnis**
+
+<sup>1</sup> Die für Mobilität zuständige Dienststelle führt ein öffentliches Verzeichnis der kantonalen Bewilligungen.
 
 <sup>2</sup> Das Verzeichnis enthält die Namen und Adressen der Bewilligungsinhaber und präzisiert den Wortlaut und die Dauer der jeweiligen Bewilligung.
 
-#### Art. 16
+#### Art. 14
 
-**Technische Vorschriften**
+**Fahrzeuge, Schiffe und Fahrer**
 
-Die technischen Vorschriften und die für die Kontrolle zuständigen Stellen richten sich nach der einschlägigen eidgenössischen und kantonalen Gesetzgebung.
+<sup>1</sup> Fahrzeuge, Schiffe und Fahrer müssen die Anforderungen der Gesetzgebung über den Strassenverkehr oder die Binnenschifffahrt erfüllen.
 
-#### Art. 17
+#### Art. 15
 
 **Instandhaltung der Fahrzeuge**
 
@@ -266,48 +200,25 @@ Die technischen Vorschriften und die für die Kontrolle zuständigen Stellen ric
 
 <sup>3</sup> Die Fahrzeuge, die mit einer kantonalen Bewilligung fahren, müssen durch eine besondere Haftpflichtversicherung für gewerbsmässige Transporte gedeckt sein.
 
-### 4. Abschnitt: Übergangs- und Schlussbestimmungen
+## 4 Gebühren und Übergangsbestimmungen
 
-#### Art. 18
+#### Art. 16
 
 **Gebühren**
 
 <sup>1</sup> Das Departement erhebt folgende Gebühren für:
 
-**Fr. 750.- Fr. 500.- Fr. 750.- Fr. 350.- Fr. 350.-**
+- a) Bewilligungserteilung — Fr. 750
+- b) Bewilligungserneuerung — Fr. 500
+- c) Bewilligungsänderung wegen Streckenerweiterung — Fr. 750
+- d) Bewilligungsänderung in anderen Fällen als Buchstabe c — Fr. 350
+- e) Bewilligungsübertragung — Fr. 350
+- f) Bewilligungserteilung für Ersatzbetriebe, die lediglich einen Teil des Angebotes betreffen — Fr. 350
 
-- a) Bewilligungserteilung
-
-- b) Bewilligungserneuerung
-
-- c) Bewilligungsänderung wegen Streckenerweiterung
-
-- d) Bewilligungsänderung in anderen Fällen als Buchstabe c)
-
-- e) Bewilligungsübertragung
-
-**Fr. 350.-**
-
-- f) Bewilligungserteilung für Ersatzbetriebe, die lediglich einen Teil des Angebotes betreffen
-
-<sup>2</sup> Für Schülertransporte, die gänzlich vom Kanton finanziert werden, werden keine Gebühren erhoben.
-
-#### Art. 19
+#### Art. 17
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Bestehende Automobilkonzessionen II bleiben bis zu Erneuerung in Kraft. Beantragt die Konzessionsinhaberin, sie zu ändern oder zu übertragen, so werden sie durch Konzessionen oder Bewilligungen nach neuem Recht ersetzt.
+<sup>1</sup> Die bestehenden Bewilligungen bleiben gültig. Sie können von den Kantonen entzogen werden, wenn ihre Voraussetzungen weggefallen sind. Beantragt der Bewilligungsinhaber, sie zu ändern oder zu übertragen, so werden sie durch kantonale Bewilligungen nach neuem Recht ersetzt.
 
-<sup>2</sup> Bestehende Schifffahrtsbewilligungen bleiben in Kraft. Sie können von den Kantonen widerrufen werden, wenn die Bewilligungsvoraussetzungen nicht mehr erfüllt sind. Beantragt die Bewilligungsinhaberin, sie zu ändern oder zu übertragen, so werden sie durch kantonale Bewilligungen nach neuem Recht ersetzt.
-
-<sup>3</sup> Die übrigen bestehenden Bewilligungen bleiben in Kraft.
-
-#### Art. 20
-
-**Aufhebung und Inkrafttreten**
-
-Dieses Reglement hebt das Reglement vom 11. Dezember 1996 betreffend die Erteilung von kantonalen Bewilligungen für Automobilkonzessionen (RAKV) auf; es wird im Amtsblatt veröffentlicht, um am 1. Juni 1999 in Kraft zu treten.
-
-So beschlossen im Staatsrat zu Sitten, den 12. Mai 1999.
-
-Der Präsident des Staatsrates: Jean-Jacques Rey-Bellet Der Staatskanzler: Henri v. Roten
+CSW RO/AGS 2023-048
