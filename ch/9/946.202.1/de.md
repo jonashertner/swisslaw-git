@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Juni 2016 über die Kontrolle zivil und militärisch v
 short: GKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: de
-version: 2022-01-01
+version: 2023-05-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20230501/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20230501-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20230501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20220101/de"
 
 (Güterkontrollverordnung, GKV)
 
-vom 3. Juni 2016 (Stand am 1. Januar 2022)
+vom 3. Juni 2016 (Stand am 1. Mai 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -393,13 +393,18 @@ Die Änderung anderer Erlasse wird in Anhang 8 geregelt.
 
 Diese Verordnung tritt am 1. Juli 2016 in Kraft.
 
-Anhänge 1 und 2*[^t-1]*
+Anhänge 1 und 2[^t-1]
 
 (Art. 2 Abs. 2 und 3 Abs. 1 und 2)
 
-[^t-1]: Der Text der Anhänge 1 und 2 wird weder in der AS noch in der SR publiziert ([AS 2021 191](https://fedlex.data.admin.ch/eli/oc/2021/191)). Er kann beim SECO, Ressort Exportkontrollen/Industrieprodukte, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte (Dual-Use) und besondere militärische Güter (Licensing) &gt; Rechtliche Grundlagen und Güterlisten (Anhänge) eingesehen werden.
+## Liste der Güter mit doppeltem Verwendungszweck
 
-Anhang 3*[^t-2]*
+[^annexu1-lvlu1-1]
+
+[^t-1]: Fassungen gemäss Ziff. I der V des WBF vom 15. März 2023, in Kraft seit 1. Mai 2023 ([AS 2023 139](https://fedlex.data.admin.ch/eli/oc/2023/139)).
+[^annexu1-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/139](https://fedlex.data.admin.ch/eli/oc/2023/139) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+
+Anhang 3[^t-2]
 
 (Art. 3 Abs. 1)
 
@@ -573,6 +578,6 @@ Anhang 8
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex8-lvlu1-1]
+…[^annex8-lvlu1-1]
 
 [^annex8-lvlu1-1]: Die Änderungen können unter [AS 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)konsultiert werden.

@@ -4,11 +4,11 @@ title: "Ordonnance du 3 juin 2016 sur le contrôle des biens utilisables à des 
 short: OCB
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: fr
-version: 2022-01-01
+version: 2023-05-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-352-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20230501/fr/xml/fedlex-data-admin-ch-eli-cc-2016-352-20230501-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20230501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20220101/fr"
 
 (Ordonnance sur le contrôle des biens, OCB)
 
-du 3 juin 2016 (Etat le 1<sup>er</sup> janvier 2022)
+du 3 juin 2016 (État le 1<sup>er</sup> mai 2023)
 
 Le Conseil fédéral suisse,
 
@@ -393,13 +393,18 @@ La modification d’autres actes est réglée à l’annexe 8.
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2016.
 
-Annexes 1 et 2*[^t-1]*
+Annexes 1 et 2[^t-1]
 
 (art. 2, al. 2, et 3, al. 1 et 2)
 
-[^t-1]: Le texte de ces annexes n’est pas publié au RO (**2021** 191). Il peut être commandé au Secrétariat d’État à l’économie (SECO), secteur contrôles à l’exportation/produits industriels, Holzikofenweg 36, 3003 Berne ou consulté sur Internet à l’adresse www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels (dual-use) et biens militaires spécifiques (Licensing) &gt; Bases légales et listes des biens (annexes).
+## Liste des biens à double usage
 
-Annexe 3*[^t-2]*
+[^annexu1-lvlu1-1]
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 15 mars 2023, en vigueur depuis le 1<sup>er</sup> mai 2023 ([RO 2023 139](https://fedlex.data.admin.ch/eli/oc/2023/139)).
+[^annexu1-lvlu1-1]: Le contenu des présentes annexes est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/139](https://fedlex.data.admin.ch/eli/oc/2023/139) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+
+Annexe 3[^t-2]
 
 (art. 3, al. 1)
 
@@ -573,6 +578,6 @@ Annexe 8
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annex8-lvlu1-1]
+…[^annex8-lvlu1-1]
 
 [^annex8-lvlu1-1]: Les mod. peuvent être consultées au [RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352).

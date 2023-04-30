@@ -4,11 +4,11 @@ title: "Ordinanza del 3 giugno 2016 sul controllo dei beni utilizzabili a fini c
 short: OBDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: it
-version: 2022-01-01
+version: 2023-05-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20230501/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20230501-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20230501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20220101/it"
 
 (Ordinanza sul controllo dei beni a duplice impiego, OBDI)
 
-del 3 giugno 2016 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 3 giugno 2016 (Stato 1° maggio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -393,13 +393,18 @@ La modifica di altri atti normativi è disciplinata nell’allegato 8.
 
 La presente ordinanza entra in vigore il 1° luglio 2016.
 
-Allegati 1 e 2*[^t-1]*
+Allegati 1 e 2[^t-1]
 
 (art. 2 cpv. 2 e 3 cpv. 1 e 2)
 
-[^t-1]: I testi degli all. non sono pubblicati nella RU ([RU 2021 191](https://fedlex.data.admin.ch/eli/oc/2021/191)). Possono essere ordinati presso la SECO, settore Controlli all’esportazione/Prodotti industriali, Holzikofenweg 36, 3003 Berna, oppure consultato sul sito www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali (dual-use) e beni militari speciali (Licensing) &gt; Legge e elenchi dei beni (Allegati)
+## Elenco dei prodotti a duplice uso
 
-Allegato 3*[^t-2]*
+[^annexu1-lvlu1-1]
+
+[^t-1]: Nuovo testo giusta il n.I dell’O del DEFR del 15 mar. 2023, in vigore dal 1° mag. 2023 ([RU 2023 139](https://fedlex.data.admin.ch/eli/oc/2023/139)).
+[^annexu1-lvlu1-1]: Il contenuto di presenti allegati è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/139](https://fedlex.data.admin.ch/eli/oc/2023/139) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando
+
+Allegato 3[^t-2]
 
 (art. 3 cpv. 1)
 

@@ -4,11 +4,11 @@ title: "Ordinance of 3 June 2016 on the Export, Import and Transit of Dual Use G
 short: GCO
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: en
-version: 2022-01-01
+version: 2023-05-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20230501/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20230501-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20230501/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Goods Control Ordinance, GCO)
 
-of 3 June 2016 (Status as of 1 January 2022)
+of 3 June 2016 (Status as of 1 May 2023)
 
 The Swiss Federal Council,
 
@@ -395,13 +395,18 @@ The amendment of legislation is regulated in Annex 8.
 
 This Ordinance comes into force on 1 July 2016.
 
-Annexes 1 and 2*[^t-1]*
+Annexes 1 and 2[^t-1]
 
-(Art. 2 para. 2 and 3 para. 1 and 2)
+(Art. 2 para. 2 and 3 paras 1 and 2)
 
-[^t-1]: Annexes 1 and 2 are not published in the AS ([AS 2021 191](https://fedlex.data.admin.ch/eli/oc/2021/191)). They may be ordered from the State Secretariat for Economic Affairs, Export Controls Division/Industrial products, Holzikofenweg 36, 3003 Bern or consulted under unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte (Dual-Use) und besondere militärische Güter (Licensing) &gt; Rechtliche Grundlagen und Güterlisten (Anhänge)
+## List of Dual-Use Goods
 
-Annex 3*[^t-2]*
+[^annexu1-lvlu1-1]
+
+[^t-1]: Amended by No I of the EAER O of 15 March 2023, in force since 1 May 2023 ([AS 2023 139](https://fedlex.data.admin.ch/eli/oc/2023/139)).
+[^annexu1-lvlu1-1]: The content of these annexes is published in the AS and the SR by reference only. It may be obtained under: [https://fedlex.data.admin.ch/eli/oc/2023/139](https://fedlex.data.admin.ch/eli/oc/2023/139) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis
+
+Annex 3[^t-2]
 
 (Art. 3 para. 1)
 
@@ -575,6 +580,6 @@ Annex 8
 
 The legislation below is amended as follows:
 
-...**[^annex8-lvlu1-1]**
+...[^annex8-lvlu1-1]
 
 [^annex8-lvlu1-1]: The amendments may be consulted under [AS 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352).
