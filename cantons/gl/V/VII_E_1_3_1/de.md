@@ -4,13 +4,13 @@ number: VII E/1/3/1
 title: Verordnung über den Vollzug der Verordnung über den Energiefonds
 short: "Energiefondsvollzugsverordnung, VV Enf"
 language: de
-version: 2022-04-01
-valid_until: 2023-04-30
-version_adopted: 2022-03-22
+version: 2023-05-01
+valid_until: 2024-12-31
+version_adopted: 2023-04-04
 adopted: 2018-03-06
 in_force: 2018-04-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-E.1.3.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2293/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2420/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2293/pdf_file"
 
 (Energiefondsvollzugsverordnung, VV Enf)
 
-Vom 06.03.2018 (Stand 01.04.2022)
+Vom 06.03.2018 (Stand 01.05.2023)
 
 Der Regierungsrat,
 
@@ -55,11 +55,19 @@ erlässt:
 
 <sup>4</sup> Die detaillierten Förderbedingungen sind den spezifischen Gesuchsformularen zu entnehmen. Die modulspezifischen Bestimmungen des durch die Konferenz der kantonalen Energiedirektoren am 21. August 2015 verabschiedeten harmonisierten Fördermodells (HFM 2015) sind verbindlich.
 
+<sup>5</sup> Für einzelne Förderbereiche (z.B. Fotovoltaik) kann in begründeten Fällen ein vereinfachtes, einstufiges Verfahren gewählt werden.
+
 #### Art. 4
 
 **Anrechenbare Kosten**
 
 <sup>1</sup> Es werden maximal 50 Prozent der ausgewiesenen Investitionskosten vergütet.
+
+#### Art. 4a
+
+**Finanzkompetenz**
+
+<sup>1</sup> Über die Gewährung von Finanzhilfen entscheidet bis 50 000 Franken das zuständige Departement, über höhere Beiträge beschliesst der Regierungsrat.
 
 #### Art. 5
 
@@ -76,6 +84,8 @@ erlässt:
 **Sanierung von Einzelbauteilen**
 
 <sup>1</sup> Für Teilsanierungen von Altbauten werden pauschale Förderbeiträge pro Quadratmeter sanierter Fläche gewährt.
+
+<sup>2</sup> Für nach dem 1. März 2023 neu eingereichte Gesuche werden die Förderbeiträge zeitlich befristet erhöht. Die Erhöhung gilt für Massnahmen, die bis zum 31. Dezember 2027 vollständig umgesetzt sind.
 
 #### Art. 7
 
@@ -107,25 +117,29 @@ erlässt:
 
 **Ersatz von Heizöl-, Erdgas- oder Elektroheizungen**
 
-<sup>1</sup> Für den Ersatz von Heizöl-, Erdgas- oder Elektroheizungen durch Holzfeuerungen, Luft/Wasser-, Sole/Wasser- oder Wasser/Wasser-Wärmepumpen wird ein Förderbeitrag gewährt.
+<sup>1</sup> Für den Ersatz von dezentralen ​Elektrospeichern durch Wärmepumpen, Holzfeuerungen oder Anschluss an ein Fernwärmenetz wird ein Förderbeitrag gewährt.
 
-<sup>2</sup> Beim Ersatz von Elektro-Einzelspeicher durch Wärmepumpen, Holzzentralheizungen oder Anschluss an ein Fernwärmenetz wird an den Einbau des hydraulischen Systems ein Förderbeitrag gewährt.
+<sup>2</sup> Beim Ersatz von dezentralen Elektro-Einzelspeichern durch Wärmepumpen, Holzzentralheizungen oder Anschluss an ein Fernwärmenetz wird an den Einbau des Wärmeverteilsystems ein Förderbeitrag gewährt.
+
+<sup>3</sup> Für den Ersatz von Heizöl-, Erdgas- oder zentralen Elektroheizungen im Nicht-Wohnbereich durch Wärmepumpen, Holzfeuerungen oder Anschluss an ein Fernwärmenetz wird ein Förderbeitrag gewährt.
+
+<sup>4</sup> Für den Ersatz von Heizöl-, Erdgas- oder zentralen Elektroheizungen in Gebäuden mit überwiegender Wohnnutzung durch Wärmepumpen, Holzfeuerungen oder Anschluss an ein Fernwärmenetz wird ein Förderbeitrag gewährt. Der Fördersatz wird ab dem 1. Januar 2028 reduziert. Massgeblich ist der Zeitpunkt der Eingabe des Baugesuchs.
 
 #### Art. 12
 
-**Automatische Holzfeuerungen**
-
-<sup>1</sup> Für automatische Holzfeuerungen ohne Wärmenetz mit über 70 Kilowatt Feuerungswärmeleistung wird ein Förderbeitrag gewährt.
-
-<sup>2</sup> Für automatische Holzfeuerungen mit Wärmenetz mit einer Feuerungswärmeleistung zwischen 70 und 300 Kilowatt wird ein Förderbeitrag gewährt.
-
-<sup>3</sup> Für automatische Holzfeuerungen mit Wärmenetz mit über 300 Kilowatt Feuerungswärmeleistung wird ein Förderbeitrag gemäss Artikel 15 gewährt.
+**…**
 
 #### Art. 13
 
 **Thermische Solarnutzung**
 
 <sup>1</sup> Für Anlagen zur thermischen Nutzung der Sonnenenergie wird ein Förderbeitrag gewährt.
+
+#### Art. 13a
+
+**Fotovoltaikanlagen**
+
+<sup>1</sup> Für Fotovoltaikanlagen mit einem erhöhten Winterstromanteil wird ein Förderbeitrag gewährt (Neigungswinkelbonus).
 
 #### Art. 14
 
@@ -170,7 +184,7 @@ erlässt:
 
 <sup>4</sup> Ein Förderbeitrag wird gewährt für:
 
-- a. die Impulsberatung Heizungsersatz;
+- a. …
 - b. die Beratung «makeheatsimple».
 
 #### Art. 18
@@ -183,7 +197,7 @@ erlässt:
 
 **Energieeffizienz Gebäudetechnik**
 
-<sup>1</sup> Für Massnahmen im Bereich der Gebäudeautomatik (GA) und dem technischen Gebäudemanagement (TGM) nach der SIA-Norm 386.110 (EN 15232) wird ein Beitrag gewährt.
+<sup>1</sup> Für Massnahmen im Bereich der Gebäudeautomatik (GA) und dem technischen Gebäudemanagement (TGM) nach der SIA-Norm 386.110 (EN 15232) in Industrie, Gewerbe, Bürobauten und Verkaufslokalen wird ein Beitrag gewährt.
 
 <sup>2</sup> Der Beitrag wird pro Quadratmeter Energiebezugsfläche in den in der Norm bezeichneten sieben Gewerken festgelegt und gilt pro Gewerk.
 
