@@ -4,13 +4,12 @@ number: BeE 730.500
 title: Reglement betreffend die Verwendung des Ertrages aus Mehrwertabgaben
 short: Fondsreglement Mehrwertabgabe
 language: de
-version: 2006-04-25
-valid_until: 2023-04-30
-version_adopted: 2006-04-11
+version: 2023-05-01
+version_adopted: 2023-03-27
 adopted: 2006-04-11
 in_force: 2006-04-25
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20730.500"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2515/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5875/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Mehrwertabgabe: Fondreglement | Bettingen: Einwohnergemeinde
 
 (Fondsreglement Mehrwertabgabe)
 
-Vom 11. April 2006 (Stand 25. April 2006)
+Vom 11. April 2006 (Stand 1. Mai 2023)
 
 Der Gemeinderat Bettingen,
 
@@ -41,9 +40,10 @@ erlässt folgendes Reglement:
 
 <sup>1</sup> Die Mittel dieses Fonds werden für folgende Zielsetzungen verwendet:
 
-– Öffentliche Bauten im kulturellen Interesse
-
-– Gestaltung des öffentlichen Raumes
+- a) Öffentliche Bauten im kulturellen Interesse;
+- b) Gestaltung des öffentlichen Raumes;
+- c) Klimaschutzmassnahmen im öffentlichen Raum;
+- d) Förderung der Biodiversität.
 
 ## B. Fondsvermögen
 
