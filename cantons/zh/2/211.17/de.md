@@ -4,10 +4,11 @@ number: "211.17"
 title: Sprachdienstleistungsverordnung (SDV)
 short: SDV
 language: de
-nachtrag: "105"
-valid_until: 2023-05-01
+version: "2023-05-01"
+nachtrag: "121"
+valid_until: 2024-06-01
 adopted: 2018-12-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-211_17-2018_12_19-2019_07_01-105.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-211_17-2018_12_19-2019_07_01-121.html"
 text: pdf
 ---
 
@@ -15,17 +16,13 @@ text: pdf
 
 # Sprachdienstleistungsverordnung (SDV)
 
-(vom 19. Dezember 2018 / 7. Januar 2019)[^t-1],[^t-2]
+(vom 19. Dezember 2018 / 7. Januar 2019)<sup>1,</sup> <sup>2</sup>
 
 Der Regierungsrat und der Plenarausschuss der obersten kantonalen Gerichte,
 
-gestützt auf § 73 Abs. 2 des Gesetzes über die Gerichts- und Behördenorganisation im Zivil- und Strafprozess vom 10. Mai 2010[^t-3],
+gestützt auf § 73 Abs. 2 des Gesetzes über die Gerichts- und Behördenorganisation im Zivil- und Strafprozess vom 10. Mai 2010<sup>4</sup>,
 
 beschliessen:
-
-[^t-1]: OS 74, 176; Begründung siehe ABl 2019-02-01.
-[^t-2]: Inkrafttreten: 1. Juli 2019.
-[^t-3]: LS 211.1.
 
 ### A. Allgemeines
 
@@ -65,7 +62,7 @@ beschliessen:
 
 **1**
 
-- 1\. 7. 19 - 105
+- 1\. 7. 23 - 121
 
 <sup>2</sup> Das Obergericht wählt die Mitglieder nach Abs. 1 lit. a und b. Der Regierungsrat wählt die übrigen Mitglieder. Die Wahl erfolgt auf eine Amtsdauer von vier Jahren.
 
@@ -155,7 +152,7 @@ Die antragstellende Person muss a. die Amtssprache und die Arbeitssprache in Wor
 
 **3**
 
-- 1\. 7. 19 - 105
+- 1\. 7. 23 - 121
 
 - c. Sprachdienstleistungen, für die sie um Akkreditierung ersucht, fachgerecht erbringen können,
 
@@ -269,7 +266,7 @@ Das Verzeichnis enthält folgende Angaben zur akkreditierten Person:
 
 **5**
 
-- 1\. 7. 19 - 105
+- 1\. 7. 23 - 121
 
 <sup>2</sup> Im Einzelfall kann Einsicht gewährt werden:
 
@@ -293,23 +290,19 @@ Folgende Entscheide werden den betroffenen Personen schriftlich mitgeteilt:
 
 - c. endgültiger Entzug der Akkreditierung.
 
-[^18-1]: LS 175.2.
-
 #### § 19
 
 **Rechtsschutz**
 
-Entscheide der Fachgruppe, ihrer Ausschüsse oder ihrer Mitglieder können mit Rekurs nach §§ 19 ff. des Verwaltungsrechtspflegegesetzes[^18-1] bei der Verwaltungskommission des Obergerichts angefochten werden.
+Entscheide der Fachgruppe, ihrer Ausschüsse oder ihrer Mitglieder können mit Rekurs nach §§ 19 ff. des Verwaltungsrechtspflegegesetzes<sup>3</sup> bei der Verwaltungskommission des Obergerichts angefochten werden.
 
 ### D. Aufträge für Sprachdienstleistungen
-
-[^hDAufträgefürSpra-1]: SR 220.
 
 #### § 20
 
 **Rechtsnatur**
 
-<sup>1</sup> Aufträge für Sprachdienstleistungen werden durch Vertrag begründet und unterstehen dem öffentlichen Recht. Soweit diese Verordnung keine abweichenden Bestimmungen enthält, richtet sich das Auftragsverhältnis sinngemäss nach den Bestimmungen des Obligationenrechts[^hDAufträgefürSpra-1] über den einfachen Auftrag.
+<sup>1</sup> Aufträge für Sprachdienstleistungen werden durch Vertrag begründet und unterstehen dem öffentlichen Recht. Soweit diese Verordnung keine abweichenden Bestimmungen enthält, richtet sich das Auftragsverhältnis sinngemäss nach den Bestimmungen des Obligationenrechts<sup>5</sup> über den einfachen Auftrag.
 
 <sup>2</sup> Personen, die im Auftrag von Gerichts- und Verwaltungsbehörden Sprachdienstleistungen erbringen, gelten für diese Tätigkeit als Unselbstständigerwerbende. Der Nachweis, dass sie von der zuständigen Ausgleichskasse dafür als Selbstständigerwerbende anerkannt worden sind, bleibt vorbehalten.
 
@@ -321,11 +314,9 @@ Entscheide der Fachgruppe, ihrer Ausschüsse oder ihrer Mitglieder können mit R
 
 <sup>2</sup> Sie erfüllt den Auftrag persönlich. Sie darf nur mit vorgängiger Zustimmung der auftraggebenden Behörde Hilfspersonen beiziehen oder den Auftrag Dritten übertragen.
 
-<sup>3</sup> Sie dolmetscht und übersetzt wahrheitsgemäss (Art. 307 StGB[^21-1], wahrt das Amtsgeheimnis (Art. 320 StGB[^21-1] und tätigt die notwendigen Vorkehrungen zum Schutz von personenbezogenen Daten, insbesondere im Bereich der Datensicherung, Datenaufbewahrung und Datenübermittlung.
+<sup>3</sup> Sie dolmetscht und übersetzt wahrheitsgemäss (Art. 307 StGB<sup>6</sup>), wahrt das Amtsgeheimnis (Art. 320 StGB<sup>6</sup>) und tätigt die notwendigen Vorkehrungen zum Schutz von personenbezogenen Daten, insbesondere im Bereich der Datensicherung, Datenaufbewahrung und Datenübermittlung.
 
 <sup>4</sup> Sie informiert die auftraggebende Behörde umgehend, wenn Umstände vorliegen, die den Anschein einer Befangenheit erwecken können.
-
-[^21-1]: SR 311.0. 1. 7. 19 - 105 9
 
 #### § 22
 
@@ -355,7 +346,7 @@ Die auftraggebende Behörde a. geht bei der Auswahl, der Instruktion und der Üb
 
 **7**
 
-- 1\. 7. 19 - 105 § 24. <sup>1</sup> Die Entschädigung für Übersetzen richtet sich nach dem Umfang des Zieltexts und dem Schwierigkeitsgrad. In besonderen Fällen bemisst sich die Entschädigung nach dem Umfang des Ausgangstexts.
+- 1\. 7. 23 - 121 § 24. <sup>1</sup> Die Entschädigung für Übersetzen richtet sich nach dem Umfang des Zieltexts und dem Schwierigkeitsgrad. In besonderen Fällen bemisst sich die Entschädigung nach dem Umfang des Ausgangstexts.
 
 **b. Übersetzen**
 
@@ -397,19 +388,19 @@ Die Entschädigung für besondere Sprachdienstleistungen, insbesondere länger d
 
 ### E. Übergangsbestimmung
 
-#### § 28
-
-<sup>1</sup> Personen, die im Zeitpunkt des Inkrafttretens dieser Verordnung gestützt auf die Dolmetscherverordnung vom 26./27. November 2003 im Dolmetscherverzeichnis eingetragen sind, gelten im bisherigen Umfang wie folgt als akkreditiert:
+§ 28.[^hEÜbergangsbestimmu-1] <sup>1</sup> Personen, die im Zeitpunkt des Inkrafttretens dieser Verordnung gestützt auf die Dolmetscherverordnung vom 26./27. November 2003 im Dolmetscherverzeichnis eingetragen sind, gelten im bisherigen Umfang wie folgt als akkreditiert:
 
 - a. für Dolmetschen,
 
 - b. für Übersetzen während längstens drei Jahren,
 
-- c. für Sprachmittlung während längstens vier Jahren.
+- c. für Sprachmittlung während längstens fünf Jahren.
 
 <sup>2</sup> Die Akkreditierung für Übersetzen und für Sprachmittlung richtet sich bis zum Erlass von Richtlinien für diese Akkreditierungsverfahren nach den Richtlinien für das Akkreditierungsverfahren für Dolmetschen. Die Akkreditierung besteht ab Inkrafttreten dieser Verordnung a. für Übersetzen während längstens drei Jahren,
 
-- b. für Sprachmittlung während längstens vier Jahren.
+- b. für Sprachmittlung während längstens fünf Jahren.
+
+[^hEÜbergangsbestimmu-1]: Fassung gemäss Änderung vom 1./6. Februar 2023 (OS 78, 137; ABl 2023-02-
 
 ### Anhang: Entschädigungstarif
 
@@ -432,3 +423,13 @@ Die Entschädigung für besondere Sprachdienstleistungen, insbesondere länger d
 **pauschal Fr. 40 pro Einsatztag**
 
 - 4\. Wegpauschalen 4.1 für Dolmetschen pro Einsatz 4.2 für Sprachmittlung im Bereich der Kommunikationsüberwachung
+
+## Weitere Fussnoten
+
+- [1] OS 74, 176; Begründung siehe ABl 2019-02-01.
+- [2] Inkrafttreten: 1. Juli 2019.
+- [3] LS 175.2.
+- [4] LS 211.1.
+- [5] SR 220.
+- [6] SR 311.0.
+- [10] . In Kraft seit 1. Mai 2023. 1. 7. 23 - 121 9
