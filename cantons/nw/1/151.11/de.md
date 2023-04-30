@@ -4,33 +4,32 @@ number: "151.11"
 title: Reglement über die Geschäftsordnung des Landrates
 short: "Landratsreglement, LRR"
 language: de
-version: 2018-03-15
-corrected: 2021-12-01
-version_adopted: 2018-02-28
+version: 2023-05-01
+valid_until: 2024-01-31
+version_adopted: 2023-03-29
 adopted: 1998-09-16
 in_force: 1998-10-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/151.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/26/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1137/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die Geschäftsordnung des Landrates (Landratsreglement, LRR)
+# Reglement über die Geschäftsordnung des Landrates
 
-vom 16. September 1998[^t-2][^t-1]
+(Landratsreglement, LRR)
+
+vom 16.09.1998 (Stand 01.05.2023)
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 Abs. 3 der Kantonsverfassung sowie in Ausführung von Art. 60 des Gesetzes vom 4. Februar 1998 über die Organisation und das Verfahren des Landrates (Landratsgesetz)[^t-3],
+gestützt auf Art. 60 Abs. 3 der Kantonsverfassung sowie in Ausführung von Art. 60 des Gesetzes vom 4. Februar 1998 über die Organisation und das Verfahren des Landrates (Landratsgesetz)[^ingress-1],
 
 beschliesst:
 
-[^t-1]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
-[^t-2]: A 1998, 1731
-[^t-3]: NG 151.1
+[^ingress-1]: NG 151.1
 
-### I. ALLGEMEINE BESTIMMUNGEN
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
@@ -40,11 +39,9 @@ beschliesst:
 
 <sup>2</sup> Das Landratsbüro wacht über die Einhaltung der Offenlegungspflichten.
 
-[^1-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1475; in Kraft seit 1. Juli 2004
-
 #### § 1a
 
-**Verzeichnis der hängigen Geschäfte[^1-1]**
+**Verzeichnis der hängigen Geschäfte**
 
 <sup>1</sup> Das Landratssekretariat führt ein Verzeichnis der beim Landrat hängigen Sachgeschäfte.
 
@@ -52,29 +49,27 @@ beschliesst:
 
 #### § 2
 
-**Inpflichtnahme**
-
-### 1. zu Beginn der Amtsdauer
+**Inpflichtnahme 1. zu Beginn der Amtsdauer**
 
 <sup>1</sup> Das älteste Landratsmitglied nimmt den erstmals gewählten Landratsmitgliedern den Amtseid oder das Handgelübde ab.
 
-<sup>2</sup> Das Verfahren richtet sich nach der Gesetzgebung über Amtseid und Handgelübde[^h1zuBeginnderAmt-1].
+<sup>2</sup> Das Verfahren richtet sich nach der Gesetzgebung über Amtseid und Handgelübde[^2-1].
 
 <sup>3</sup> Wer den Amtseid oder das Handgelübde verweigert, darf an den Verhandlungen nicht teilnehmen.
 
-[^h1zuBeginnderAmt-1]: NG 161.12
+[^2-1]: NG 161.12
 
 #### § 3
 
 **2. während der Amtsdauer**
 
-Mitglieder, die bei der Inpflichtnahme zu Beginn der Amtsdauer abwesend sind oder während der Amtsdauer neu in den Landrat eintreten, werden zu Beginn der ersten Landratssitzung, an welcher sie teilnehmen, durch das Landratspräsidium in Pflicht genommen.
+<sup>1</sup> Mitglieder, die bei der Inpflichtnahme zu Beginn der Amtsdauer abwesend sind oder während der Amtsdauer neu in den Landrat eintreten, werden zu Beginn der ersten Landratssitzung, an welcher sie teilnehmen, durch das Landratspräsidium in Pflicht genommen.
 
 #### § 4
 
 **Teilnahmepflicht**
 
-Die Landratsmitglieder sind verpflichtet, an den Sitzungen des Landrates und der Kommissionen, denen sie angehören, teilzunehmen.
+<sup>1</sup> Die Landratsmitglieder sind verpflichtet, an den Sitzungen des Landrates und der Kommissionen, denen sie angehören, teilzunehmen.
 
 #### § 5
 
@@ -91,9 +86,7 @@ Die Landratsmitglieder sind verpflichtet, an den Sitzungen des Landrates und der
 <sup>1</sup> Das Landratspräsidium ermahnt Ratsmitglieder mündlich oder schriftlich zur Ordnung, die:
 
 - 1\. Vorschriften der Landratsgesetzgebung missachten;
-
 - 2\. durch ihre Äusserungen oder ihr Verhalten die Würde des Rates, einzelner Mitglieder, anderer Behörden oder von Mitbürgerinnen beziehungsweise Mitbürgern verletzen;
-
 - 3\. aus ihrem Amt für sich oder für andere einen privaten Vorteil zu erlangen suchen.
 
 <sup>2</sup> Das Landratspräsidium kann einem Mitglied des Landrates im Wiederholungsfall oder bei schwerem Verstoss eine Rüge erteilen.
@@ -106,15 +99,13 @@ Die Landratsmitglieder sind verpflichtet, an den Sitzungen des Landrates und der
 
 <sup>2</sup> Die vom Landrat ausgehenden weiteren Akten werden in der Regel nur vom Landratssekretariat unterzeichnet.
 
-### II. ORGANISATION UND BEFUGNISSE
+## 2 Organisation und Befugnisse
 
-### A. Landratsbüro und Landratspräsidium
-
-[^hALandratsbüround-1]: Fassung gemäss Landratsbeschluss vom 28. März 2012, A 2012, 527; in Kraft seit 1. Juli 2012
+### 2.1 Landratsbüro und Landratspräsidium
 
 #### § 8
 
-**Wahl des Landratsbüros[^hALandratsbüround-1]**
+**Wahl des Landratsbüros**
 
 <sup>1</sup> In der konstituierenden Sitzung erfolgt die Wahl des Landratsbüros im Anschluss an die Inpflichtnahme.
 
@@ -124,26 +115,20 @@ Die Landratsmitglieder sind verpflichtet, an den Sitzungen des Landrates und der
 
 #### § 9
 
-**Landratspräsidium**
+**Landratspräsidium 1. Aufgaben und Befugnisse**
 
-### 1. Aufgaben und Befugnisse
-
-Das Landratspräsidium hat neben den Hauptaufgaben gemäss Art. 17 des Landratsgesetzes[^h1AufgabenundBefu-1] insbesondere die folgenden Aufgaben und Befugnisse:
+<sup>1</sup> Das Landratspräsidium hat neben den Hauptaufgaben gemäss Art. 17 des Landratsgesetzes[^9-1] insbesondere die folgenden Aufgaben und Befugnisse:
 
 - 1\. Einberufung von Medienkonferenzen;
-
 - 2\. Überwachung der Befolgung der Vorschriften der Landratsgesetzgebung;
-
 - 3\. Überwachung der Einhaltung der Tagesordnung;
-
 - 4\. Überwachung der beförderlichen Behandlung der Geschäfte, insbesondere auch jener, die an den Regierungsrat oder an eine Kommission überwiesen worden sind.
 
-[^h1AufgabenundBefu-1]: NG 151.1
-[^h1AufgabenundBefu-2]: Fassung gemäss Landratsbeschluss vom 28. März 2012, A 2012, 527; in Kraft seit 1. Juli 2012
+[^9-1]: NG 151.1
 
 #### § 10
 
-**2. Stellvertretung[^h1AufgabenundBefu-2]**
+**2. Stellvertretung**
 
 <sup>1</sup> Ist das Landratspräsidium verhindert, wird es durch das erste Vizepräsidium und bei dessen Verhinderung durch das zweite Vizepräsidium vertreten.
 
@@ -155,21 +140,17 @@ Das Landratspräsidium hat neben den Hauptaufgaben gemäss Art. 17 des Landratsg
 
 <sup>1</sup> Die Stimmenzählenden ermitteln das Ergebnis der Abstimmungen und Wahlen; das Präsidium gibt das Gesamtergebnis bekannt.
 
-<sup>2</sup> Als Stimmenzählende amtieren die Mitglieder des Landratsbüros, die diesem nicht als Präsidium oder Vizepräsidium angehören.[^11-1]
+<sup>2</sup> Als Stimmenzählende amtieren die Mitglieder des Landratsbüros, die diesem nicht als Präsidium oder Vizepräsidium angehören.
 
-<sup>3</sup> Das Landratspräsidium bezeichnet aus deren Mitte zwei Stimmenzählende für die Dauer eines Jahres sowie den Ersatz bei Verhinderung oder Ausstand einer Stimmenzählerin oder eines Stimmenzählers.[^11-1]
+<sup>3</sup> Das Landratspräsidium bezeichnet aus deren Mitte zwei Stimmenzählende für die Dauer eines Jahres sowie den Ersatz bei Verhinderung oder Ausstand einer Stimmenzählerin oder eines Stimmenzählers.
 
-[^11-1]: Fassung gemäss Landratsbeschluss vom 28. März 2012, A 2012, 527; in Kraft seit 1. Juli 2012
-
-### B. Mitglieder des Landrates
+### 2.2 Mitglieder des Landrates
 
 #### § 12
 
-**Informationsrechte**
+**Informationsrechte 1. Anspruch auf Unterlagen**
 
-### 1. Anspruch auf Unterlagen
-
-Die Mitglieder des Landrates haben unentgeltlich Anspruch auf die Geschäftsunterlagen sowie die kantonalen Veröffentlichungen, soweit sie zur Ausübung des Amtes erforderlich sind.
+<sup>1</sup> Die Mitglieder des Landrates haben unentgeltlich Anspruch auf die Geschäftsunterlagen sowie die kantonalen Veröffentlichungen, soweit sie zur Ausübung des Amtes erforderlich sind.
 
 #### § 13
 
@@ -178,11 +159,8 @@ Die Mitglieder des Landrates haben unentgeltlich Anspruch auf die Geschäftsunte
 <sup>1</sup> Jedes Ratsmitglied kann Einsicht nehmen in:
 
 - 1\. Akten, auf welche die Beratungsunterlagen Bezug nehmen;
-
 - 2\. Akten, die bei der Vorbereitung von Rechtsetzungs- und Finanzvorlagen in der kantonalen Verwaltung erstellt worden oder bei dieser eingegangen sind;
-
 - 3\. Gutachten, statistische Erhebungen und verwaltungsinterne Untersuchungen über generelle Fragen des Vollzugs in einem bestimmten Aufgabenbereich;
-
 - 4\. generelle Weisungen über den Vollzug bestimmter Erlasse.
 
 <sup>2</sup> Die Mitglieder des Landrates und des Regierungsrates sind berechtigt, Protokolle und Akten der landrätlichen Kommissionen einzusehen, soweit diese Vorlagen des Landrates betreffen.
@@ -198,22 +176,19 @@ Die Mitglieder des Landrates haben unentgeltlich Anspruch auf die Geschäftsunte
 <sup>1</sup> Jedes Ratsmitglied kann:
 
 - 1\. beim Landratssekretariat, der Staatskanzlei und den Direktionen Informationen und einfache Rechtsauskünfte einholen, wenn die Auskünfte der Klärung im Zusammenhang mit einem Antrag oder einem parlamentarischen Vorstoss dienen;
-
 - 2\. bei den zuständigen Amtsvorsteherinnen beziehungsweise Amtsvorstehern mündliche oder schriftliche Sachauskünfte über die Verwaltungstätigkeit einholen.
 
 <sup>2</sup> Über Sachverhalte, die dem Amtsgeheimnis unterstehen, werden keine Auskünfte erteilt; bestehen Meinungsverschiedenheiten, entscheidet die zuständige Direktionsvorsteherin beziehungsweise der zuständige Direktionsvorsteher.
 
-[^14-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1475; in Kraft seit 1. Juli 2004
-
 #### § 15
 
-**Kontaktnahme mit Mitarbeiterinnen und Mitarbeitern[^14-1]**
+**Kontaktnahme mit Mitarbeiterinnen und Mitarbeitern**
 
 <sup>1</sup> Der Landrat und seine Kommissionen fordern Dienste und Auskünfte von Mitarbeiterinnen und Mitarbeitern durch Vermittlung der zuständigen Direktion an.
 
 <sup>2</sup> Die ständigen Kommissionen können sich bei ihrer Kontrolltätigkeit unmittelbar an Mitarbeiterinnen und Mitarbeiter wenden, teilen die Kontaktnahme aber der zuständigen Direktion mit.
 
-### C. Staatskanzlei und Landratssekretariat
+### 2.3 Staatskanzlei und Landratssekretariat
 
 #### § 16
 
@@ -221,58 +196,48 @@ Die Mitglieder des Landrates haben unentgeltlich Anspruch auf die Geschäftsunte
 
 <sup>1</sup> Die Staatskanzlei organisiert und koordiniert den Geschäftsverkehr zwischen dem Regierungsrat und dem Landrat.
 
-<sup>2</sup> Die Landschreiberin beziehungsweise der Landschreiber nimmt in der Regel an den Sitzungen des Landratsbüros mit beratender Stimme teil.
+Die Landschreiberin beziehungsweise der Landschreiber nimmt in der Regel an den Sitzungen des Landratsbüros mit beratender Stimme teil.
 
 #### § 17
 
-**Landratssekretariat**
+**Landratssekretariat 1. Aufgaben und Befugnisse**
 
-### 1. Aufgaben und Befugnisse
-
-<sup>1</sup> Das Landratssekretariat hat neben den Hauptaufgaben gemäss Art. 27 des Landratsgesetzes[^h1AufgabenundBefu_2-1] insbesondere die folgenden Aufgaben und Befugnisse:
+<sup>1</sup> Das Landratssekretariat hat neben den Hauptaufgaben gemäss Art. 27 des Landratsgesetzes[^17-1] insbesondere die folgenden Aufgaben und Befugnisse:
 
 - 1\. Führung der Sekretariatsarbeiten und der Korrespondenz des Landrates;
-
 - 2\. Protokollführung des Landrates;
-
 - 3\. Information der Öffentlichkeit in Zusammenarbeit mit dem Landratspräsidium und den Kommissionspräsidien von vorberatenden landrätlichen Kommissionen;
-
 - 4\. Bedienung des Landrates mit den Beratungsunterlagen;
-
 - 5\. Erteilung von Rechtsauskünften an Kommissionen des Landrates;
-
 - 6\. Erteilung von Sach- und einfachen Rechtsauskünften an die Landratsmitglieder oder die Weiterleitung von Anfragen an die zuständige Direktion;
-
 - 7\. Vermittlung von Unterlagen, die der Dokumentation dienen;
-
-8.[^h1AufgabenundBefu_2-2] Sicherstellung der Sekretariatsarbeiten für das Landratsbüro sowie für die ständigen und nichtständigen Kommissionen; die Landratssekretärin oder der Landratssekretär bezeichnet die zuständige Mitarbeiterin oder den zuständigen Mitarbeiter.
+- 8\. Sicherstellung der Sekretariatsarbeiten für das Landratsbüro sowie für die ständigen und nichtständigen Kommissionen; die Landratssekretärin oder der Landratssekretär bezeichnet die zuständige Mitarbeiterin oder den zuständigen Mitarbeiter.
 
 <sup>2</sup> Landrat und Landratspräsidium können dem Landratssekretariat weitere Aufgaben übertragen.
 
-[^h1AufgabenundBefu_2-1]: NG 151.1
-[^h1AufgabenundBefu_2-2]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
+[^17-1]: NG 151.1
 
 #### § 18
 
 **2. Administration**
 
-Für die Administration des Landratssekretariats steht der Landratssekretärin beziehungsweise dem Landratssekretär innerhalb der Staatskanzlei das erforderliche Personal zur Verfügung.
+<sup>1</sup> Für die Administration des Landratssekretariats steht der Landratssekretärin beziehungsweise dem Landratssekretär innerhalb der Staatskanzlei das erforderliche Personal zur Verfügung.
 
 #### § 19
 
 **Weibeldienst**
 
-Die Staatskanzlei organisiert den Weibeldienst für den Landrat.
+<sup>1</sup> Die Staatskanzlei organisiert den Weibeldienst für den Landrat.
 
-### III. VERFAHREN
+## 3 Verfahren
 
-### A. Allgemeine Bestimmungen
+### 3.1 Allgemeine Bestimmungen
 
 #### § 20
 
 **Sitzungstag**
 
-Der Sitzungstag wird durch das Landratspräsidium festgesetzt.
+<sup>1</sup> Der Sitzungstag wird durch das Landratspräsidium festgesetzt.
 
 #### § 21
 
@@ -283,38 +248,33 @@ Der Sitzungstag wird durch das Landratspräsidium festgesetzt.
 <sup>2</sup> In dringenden Fällen kann:
 
 - 1\. auf die Veröffentlichung im Amtsblatt verzichtet werden;
-
 - 2\. die Zustellung an die Mitglieder des Landrates und des Regierungsrates kurzfristig erfolgen.
 
 #### § 22
 
 **Anwesenheitskontrolle**
 
-Zu Beginn der Sitzung wird durch Namensaufruf die Zahl der anwesenden Mitglieder festgestellt.
+<sup>1</sup> Zu Beginn der Sitzung wird durch Namensaufruf die Zahl der anwesenden Mitglieder festgestellt.
 
 #### § 23
 
-**Öffentlichkeit**
+**Öffentlichkeit 1. Grundsatz**
 
-### 1. Grundsatz
+<sup>1</sup> Die Verhandlungen des Landrates sind im Rahmen von Art. 31 und 32 des Landratsgesetzes[^23-1] öffentlich.
 
-Die Verhandlungen des Landrates sind im Rahmen von Art. 31 und 32 des Landratsgesetzes[^h1Grundsatz-1] öffentlich.
-
-[^h1Grundsatz-1]: NG 151.1
+[^23-1]: NG 151.1
 
 #### § 24
 
 **2. Ausnahmen**
 
-Über den Antrag auf Aufhebung der Öffentlichkeit wird unter Ausschluss von Vertreterinnen und Vertretern der Medien sowie von Zuhörerinnen und Zuhörern beraten und abgestimmt.
+<sup>1</sup> Über den Antrag auf Aufhebung der Öffentlichkeit wird unter Ausschluss von Vertreterinnen und Vertretern der Medien sowie von Zuhörerinnen und Zuhörern beraten und abgestimmt.
 
 #### § 25
 
-**Zuhörerinnen und Zuhörer**
+**Zuhörerinnen und Zuhörer 1. Zulassung**
 
-### 1. Zulassung
-
-Zuhörerinnen und Zuhörer werden zugelassen, soweit ihnen ein besonderer Platz zugewiesen werden kann.
+<sup>1</sup> Zuhörerinnen und Zuhörer werden zugelassen, soweit ihnen ein besonderer Platz zugewiesen werden kann.
 
 #### § 26
 
@@ -326,11 +286,11 @@ Zuhörerinnen und Zuhörer werden zugelassen, soweit ihnen ein besonderer Platz 
 
 #### § 27
 
-**3. Medienvertreterinnen und -vertreter**
+**3. Medienvertreterinnen und ‑vertreter**
 
-<sup>1</sup> Medienvertreterinnen und -vertreter erhalten nach Möglichkeit besondere Plätze angewiesen.
+<sup>1</sup> Medienvertreterinnen und ‑vertreter erhalten nach Möglichkeit besondere Plätze angewiesen.
 
-<sup>2</sup> Medienvertreterinnen und -vertreter, die regelmässig über die Landratsverhandlungen berichten, erhalten die für die Mitglieder des Landrates bestimmten Beratungsunterlagen mit Ausnahme der Vorlagen, die unter Ausschluss der Öffentlichkeit behandelt werden.
+<sup>2</sup> Medienvertreterinnen und ‑vertreter, die regelmässig über die Landratsverhandlungen berichten, erhalten die für die Mitglieder des Landrates bestimmten Beratungsunterlagen mit Ausnahme der Vorlagen, die unter Ausschluss der Öffentlichkeit behandelt werden.
 
 #### § 28
 
@@ -342,21 +302,19 @@ Zuhörerinnen und Zuhörer werden zugelassen, soweit ihnen ein besonderer Platz 
 
 <sup>3</sup> Verweigert das Landratssekretariat die Herausgabe von Akten, entscheidet das Landratsbüro endgültig.
 
-### B. Eingaben
+### 3.2 Eingaben
 
 #### § 29
 
-**Begnadigungsgesuche**
+**Begnadigungsgesuche 1. Begutachtung**
 
-### 1. Begutachtung
-
-<sup>1</sup> Die Justizkommission prüft bei Begnadigungsgesuchen gemäss Art. 48 und 49 des Landratsgesetzes[^h1Begutachtung-1], ob der Landrat zu ihrer Behandlung zuständig ist und ob Gründe für eine Begnadigung vorhanden sind; was dem Gericht bei der Urteilsausfällung bekannt gewesen ist, kann nicht als Grund zur Begnadigung geltend gemacht werden.
+<sup>1</sup> Die Justizkommission prüft bei Begnadigungsgesuchen gemäss Art. 48 und 49 des Landratsgesetzes[^29-1], ob der Landrat zu ihrer Behandlung zuständig ist und ob Gründe für eine Begnadigung vorhanden sind; was dem Gericht bei der Urteilsausfällung bekannt gewesen ist, kann nicht als Grund zur Begnadigung geltend gemacht werden.
 
 <sup>2</sup> Der Antrag der Justizkommission gilt als Hauptantrag.
 
 <sup>3</sup> Die Justizkommission kann vor dem Landrat Bericht und Antrag mündlich ergänzen.
 
-[^h1Begutachtung-1]: NG 151.1
+[^29-1]: NG 151.1
 
 #### § 30
 
@@ -372,7 +330,7 @@ Zuhörerinnen und Zuhörer werden zugelassen, soweit ihnen ein besonderer Platz 
 
 **3. Mitteilung**
 
-Entscheide des Landrates über Begnadigungsgesuche werden der Gesuchstellerin beziehungsweise dem Gesuchsteller in der Form eines Protokollauszuges mitgeteilt.
+<sup>1</sup> Entscheide des Landrates über Begnadigungsgesuche werden der Gesuchstellerin beziehungsweise dem Gesuchsteller in der Form eines Protokollauszuges mitgeteilt.
 
 #### § 32
 
@@ -390,14 +348,11 @@ Entscheide des Landrates über Begnadigungsgesuche werden der Gesuchstellerin be
 
 #### § 33
 
-**Petitionen**
+**Petitionen 1. Vorberatung**
 
-### 1. Vorberatung
-
-Die Justizkommission prüft die in der Petition vorgebrachten Gründe auf ihre Stichhaltigkeit und kann:
+<sup>1</sup> Die Justizkommission prüft die in der Petition vorgebrachten Gründe auf ihre Stichhaltigkeit und kann:
 
 - 1\. dem Landrat schriftlich Bericht erstatten und Antrag stellen;
-
 - 2\. die Petition zur direkten Erledigung an den Regierungsrat überweisen, sofern gleichlautende Petitionen auch in andern Kantonen eingereicht worden sind.
 
 #### § 34
@@ -410,13 +365,13 @@ Die Justizkommission prüft die in der Petition vorgebrachten Gründe auf ihre S
 
 <sup>3</sup> Der Beschluss wird der Urheberin beziehungsweise dem Urheber der Petition mit Protokollauszug mitgeteilt.
 
-### C. Konstituierende Sitzung
+### 3.3 Konstituierende Sitzung
 
 #### § 35
 
 **Einberufung**
 
-Das Landratssekretariat beruft den Landrat nach dessen Neuwahl zur konstituierenden Sitzung ein.
+<sup>1</sup> Das Landratssekretariat beruft den Landrat nach dessen Neuwahl zur konstituierenden Sitzung ein.
 
 #### § 36
 
@@ -424,13 +379,11 @@ Das Landratssekretariat beruft den Landrat nach dessen Neuwahl zur konstituieren
 
 <sup>1</sup> Das älteste Landratsmitglied eröffnet die Sitzung und leitet sie bis nach der Wahl des Landratspräsidiums.
 
-<sup>2</sup> Es bezeichnet zwei Stimmenzählende für die Dauer der konstituierenden Sitzung.[^36-1]
+<sup>2</sup> Es bezeichnet zwei Stimmenzählende für die Dauer der konstituierenden Sitzung.
 
-[^36-1]: Fassung gemäss Landratsbeschluss vom 28. März 2012, A 2012, 527; in Kraft seit 1. Juli 2012
+### 3.4 Beratungen
 
-### D. Beratungen
-
-### 1. Allgemeine Regeln
+### 3.4.1 Allgemeine Regeln
 
 #### § 37
 
@@ -464,17 +417,15 @@ Das Landratssekretariat beruft den Landrat nach dessen Neuwahl zur konstituieren
 
 #### § 40
 
-**Diskussion**
-
-### 1. Zulassung
+**Diskussion 1. Zulassung**
 
 <sup>1</sup> Wer sprechen will, hat sich beim Landratspräsidium zu melden.
 
 <sup>2</sup> Die Vertreterin beziehungsweise der Vertreter des Antrages hat das Recht, zuerst zu sprechen.
 
-<sup>3</sup> Das Wort wird aufgrund der Anmeldungen erteilt; Sprecherinnen und Sprecher der Kommission und der Fraktionen haben jedoch den Vorrang.
+Das Wort wird aufgrund der Anmeldungen erteilt; Sprecherinnen und Sprecher der Kommission und der Fraktionen haben jedoch den Vorrang.
 
-<sup>4</sup> Zwischenrufe sind gestattet.
+<sup>3</sup> Zwischenrufe sind gestattet.
 
 #### § 41
 
@@ -492,11 +443,9 @@ Das Landratssekretariat beruft den Landrat nach dessen Neuwahl zur konstituieren
 
 <sup>1</sup> Anträge, die sich auf die Vertagung, die Rückweisung einer Einzelbestimmung oder des gesamten Geschäftes, die Verschiebung der Behandlung eines Geschäftes, die Form der Beratung und Beschlussfassung oder die übrige Handhabung der Vorschriften beziehen, sind Ordnungsanträge.
 
-<sup>2</sup> Ist ein Ordnungsantrag gestellt, wird die Beratung über den Hauptgegenstand unterbrochen. Es können weitere Ordnungsanträge gestellt werden. Erst nach Diskussion und Beschlussfassung über die Ordnungsanträge wird die Beratung über den Hauptgegenstand wieder aufgenommen.[^42-1]
+<sup>2</sup> Ist ein Ordnungsantrag gestellt, wird die Beratung über den Hauptgegenstand unterbrochen. Es können weitere Ordnungsanträge gestellt werden. Erst nach Diskussion und Beschlussfassung über die Ordnungsanträge wird die Beratung über den Hauptgegenstand wieder aufgenommen.
 
-<sup>3</sup> Das Abstimmungsverfahren bei mehreren Ordnungsanträgen erfolgt sinngemäss nach § 67.[^42-1]
-
-[^42-1]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
+<sup>3</sup> Das Abstimmungsverfahren bei mehreren Ordnungsanträgen erfolgt sinngemäss nach § 67.
 
 #### § 43
 
@@ -506,17 +455,15 @@ Das Landratssekretariat beruft den Landrat nach dessen Neuwahl zur konstituieren
 
 <sup>2</sup> Wird Abbruch der Diskussion beantragt und beschlossen, wird die Diskussion sofort abgebrochen; nach Abbruch der Diskussion dürfen Anträge noch gestellt, jedoch nicht mehr begründet werden.
 
-[^43-1]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
-
 #### § 43a
 
-**Ablauf[^43-1]**
+**Ablauf**
 
 <sup>1</sup> Das Landratspräsidium bestimmt im Rahmen der Gesetzgebung den Ablauf der Landratssitzung und der Beratung der Vorlagen.
 
 <sup>2</sup> Der Landrat entscheidet auf Antrag über Einwände gegen den vorgesehenen Ablauf.
 
-- 2\. Vorlagen
+### 3.4.2 Vorlagen
 
 #### § 44
 
@@ -527,11 +474,10 @@ Das Landratssekretariat beruft den Landrat nach dessen Neuwahl zur konstituieren
 <sup>2</sup> Geschäfte sind beim Landratsbüro einzureichen.
 
 [^44-1]: NG 151.1
-[^44-2]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1475; in Kraft seit 1. Juli 2004
 
 #### § 45
 
-**Vorberatende Kommission[^44-2]**
+**Vorberatende Kommission**
 
 <sup>1</sup> Berührt ein Geschäft den Zuständigkeitsbereich mehrerer ständiger Kommissionen, bestimmt das Landratsbüro, welche Kommission das Geschäft vorrangig zu beraten hat. Dieser Entscheid ist in der Regel im Zeitpunkt der Eröffnung des Vernehmlassungsverfahrens beziehungsweise im Zeitpunkt der Verabschiedung der Vorlage zuhanden des Landrates zu treffen.
 
@@ -543,7 +489,7 @@ Das Landratssekretariat beruft den Landrat nach dessen Neuwahl zur konstituieren
 
 **Hauptantrag**
 
-Grundlage der Ratsverhandlung und damit den Hauptantrag bildet die Fassung der Antragstellerin beziehungsweise des Antragstellers gemäss § 44; der Landrat kann eine andere Fassung als Grundlage der Ratsverhandlung bezeichnen.
+<sup>1</sup> Grundlage der Ratsverhandlung und damit den Hauptantrag bildet die Fassung der Antragstellerin beziehungsweise des Antragstellers gemäss § 44; der Landrat kann eine andere Fassung als Grundlage der Ratsverhandlung bezeichnen.
 
 #### § 47
 
@@ -571,7 +517,7 @@ Grundlage der Ratsverhandlung und damit den Hauptantrag bildet die Fassung der A
 
 **Aufträge**
 
-Bei der Beratung einer Vorlage können der vorberatenden Kommission, dem Landratsbüro oder dem Regierungsrat Aufträge erteilt werden.
+<sup>1</sup> Bei der Beratung einer Vorlage können der vorberatenden Kommission, dem Landratsbüro oder dem Regierungsrat Aufträge erteilt werden.
 
 #### § 50
 
@@ -583,28 +529,23 @@ Bei der Beratung einer Vorlage können der vorberatenden Kommission, dem Landrat
 
 <sup>3</sup> Rückkommen wird mit mindestens 15 Stimmen beschlossen.
 
-[^50-1]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
-
 #### § 51
 
-**Erledigung[^50-1]**
+**Erledigung**
 
-Eine Vorlage wird durch Beratung und Beschlussfassung, durch Kenntnisnahme oder durch Nichteintreten erledigt.
+<sup>1</sup> Eine Vorlage wird durch Beratung und Beschlussfassung, durch Kenntnisnahme oder durch Nichteintreten erledigt.
 
 #### § 52
 
-**Zweimalige Beratung**
+**Zweimalige Beratung 1. erste Lesung**
 
-### 1. erste Lesung
+<sup>1</sup> Verfassungsvorlagen und Gesetze werden gemäss Art. 35 des Landratsgesetzes[^52-1] in zwei Lesungen beraten, sofern der Landrat nichts anderes beschliesst.
 
-<sup>1</sup> Verfassungsvorlagen und Gesetze werden gemäss Art. 35 des Landratsgesetzes[^h1ersteLesung-1] in zwei Lesungen beraten, sofern der Landrat nichts anderes beschliesst.
-
-<sup>2</sup> Bei den übrigen Geschäften kann der Landrat nach Abschluss der ersten Beratung beschliessen, eine zweite Beratung durchzuführen.[^h1ersteLesung-2]
+<sup>2</sup> Bei den übrigen Geschäften kann der Landrat nach Abschluss der ersten Beratung beschliessen, eine zweite Beratung durchzuführen.
 
 <sup>3</sup> Zwischen der ersten und der zweiten Beratung ist eine Frist von mindestens 14 Tagen einzuhalten.
 
-[^h1ersteLesung-1]: NG 151.1
-[^h1ersteLesung-2]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
+[^52-1]: NG 151.1
 
 #### § 53
 
@@ -616,9 +557,7 @@ Eine Vorlage wird durch Beratung und Beschlussfassung, durch Kenntnisnahme oder 
 
 #### § 54
 
-**Beratung einzelner Geschäfte**
-
-### 1. Staatsvoranschlag, Staatsrechnung
+**Beratung einzelner Geschäfte 1. Staatsvoranschlag, Staatsrechnung**
 
 <sup>1</sup> Staatsvoranschlag und Staatsrechnung werden nach der institutionellen Gliederung beraten.
 
@@ -626,9 +565,7 @@ Eine Vorlage wird durch Beratung und Beschlussfassung, durch Kenntnisnahme oder 
 
 #### § 55
 
-**2. Genehmigung von Erlassen oder Beschlüssen ande-**
-
-rer Instanzen
+**2. Genehmigung von Erlassen oder Beschlüssen anderer Instanzen**
 
 <sup>1</sup> Bedarf ein von einer andern Instanz beschlossener Erlass oder ein Beschluss lediglich der Genehmigung durch den Landrat, ist zu Beginn der Einzelberatung der Beratungsgegenstand artikel-, paragrafen-, ziffern- oder abschnittsweise zu erörtern.
 
@@ -644,42 +581,34 @@ rer Instanzen
 
 #### § 56a
 
-**4. Legislaturprogramm, Jahreszielplanung, Finanz-**
-
-plan, Rechenschaftsbericht; Anmerkung[^56a-1]
+**4. Legislaturprogramm, Jahreszielplanung, Finanzplan, Rechenschaftsbericht; Anmerkung**
 
 <sup>1</sup> Das Legislaturprogramm, die Jahreszielplanung, der Finanzplan und die Rechenschaftsberichte werden abschnittsweise beraten.
 
 <sup>2</sup> Die vorberatende Kommission und einzelne Ratsmitglieder können in der Form einer Anmerkung Anträge stellen. Die Anmerkung ist spätestens zu Beginn der Sitzung beim Präsidium schriftlich zu hinterlegen.
 
-<sup>3</sup> Über Anmerkungen beschliesst der Landrat vor der Schlussabstimmung. Wird die Vorlage zur Kenntnis genommen, beschliesst er nach Abschluss der Beratung der Vorlage über die Anmerkungen.[^56a-2]
-
-[^56a-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1475; in Kraft seit 1. Juli 2004
-[^56a-2]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
+<sup>3</sup> Über Anmerkungen beschliesst der Landrat vor der Schlussabstimmung. Wird die Vorlage zur Kenntnis genommen, beschliesst er nach Abschluss der Beratung der Vorlage über die Anmerkungen.
 
 #### § 57
 
 **Schlussabstimmung**
 
-Die Schlussabstimmung findet in der Regel unmittelbar nach dem Abschluss der Beratung einer Vorlage statt.
-
-[^57-1]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
+<sup>1</sup> Die Schlussabstimmung findet in der Regel unmittelbar nach dem Abschluss der Beratung einer Vorlage statt.
 
 #### § 58
 
-**Kenntnisnahme[^57-1]**
+**Kenntnisnahme**
 
 <sup>1</sup> Wird eine Vorlage durch Kenntnisnahme erledigt, findet keine Schlussabstimmung statt.
 
 <sup>2</sup> Der Landrat nimmt insbesondere Kenntnis:
 
 - 1\. vom Legislaturprogramm und der Jahreszielplanung;
-
 - 2\. von Berichten des Regierungsrates, die dieser dem Landrat aufgrund eines parlamentarischen Vorstosses erstattet.
 
-### E. Beschlussfassung
+### 3.5 Beschlussfassung
 
-### 1. Allgemeine Bestimmungen
+### 3.5.1 Allgemeine Bestimmungen
 
 #### § 59
 
@@ -695,26 +624,17 @@ Die Schlussabstimmung findet in der Regel unmittelbar nach dem Abschluss der Ber
 
 <sup>1</sup> Die Beschlussfassung erfolgt in der Regel durch Handerheben; erhält ein Antrag ohne Zweifel die verlangte Mehrheit, kann die Zählung unterbleiben, sofern es sich nicht um eine Schlussabstimmung handelt.
 
-<sup>2</sup> Die Beschlussfassung durch Namensaufruf erfolgt bei allen Schlussabstimmungen über Vorlagen, die zuhanden einer obligatorischen Volksabstimmung verabschiedet werden, sowie bei weiteren Sachgeschäften, wenn der Landrat dies beschliesst. Ordnet der Landrat gemäss Art. 52a der Kantonsverfassung die Volksabstimmung an, ist die Schlussabstimmung unter Namensaufruf zu wiederholen.[^60-1]
+<sup>2</sup> Die Beschlussfassung durch Namensaufruf erfolgt bei allen Schlussabstimmungen über Vorlagen, die zuhanden einer obligatorischen Volksabstimmung verabschiedet werden, sowie bei weiteren Sachgeschäften, wenn der Landrat dies beschliesst. Ordnet der Landrat gemäss Art. 52a der Kantonsverfassung die Volksabstimmung an, ist die Schlussabstimmung unter Namensaufruf zu wiederholen.
 
 <sup>3</sup> Das Landratspräsidium stimmt bei der offenen Beschlussfassung nicht mit; bei Stimmengleichheit gibt es den Stichentscheid.
 
-[^60-1]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
-
 #### § 61
 
-**Geheime Beschlussfassung**
+**Geheime Beschlussfassung 1. Durchführung**
 
-[^61-1]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
-
-### 1. Durchführung
-
-[^61-1]
-
-Eine geheime Beschlussfassung ist durchzuführen:
+<sup>1</sup> Eine geheime Beschlussfassung ist durchzuführen:
 
 - 1\. bei Begnadigungsgesuchen (§ 30 Abs. 1 und 3);
-
 - 2\. bei der Schlussabstimmung über Einbürgerungsgesuche, sofern eine Abstimmung aufgrund eines begründeten Antrags auf Ablehnung erfolgt.
 
 #### § 62
@@ -726,11 +646,8 @@ Eine geheime Beschlussfassung ist durchzuführen:
 <sup>2</sup> Als ungültig zu erklären sind Stimmzettel:
 
 - 1\. die unleserlich sind;
-
 - 2\. die den Willen des stimmenden Landratsmitgliedes nicht klar zum Ausdruck bringen;
-
 - 3\. die eine nicht wählbare Person nennen oder nicht auf einen in die Abstimmung genommenen Antrag Bezug nehmen;
-
 - 4\. die mehr Namen enthalten als Mandate zu vergeben sind.
 
 <sup>3</sup> Das absolute Mehr wird auf Grund der eingesammelten gültigen Stimmzettel, unter Einschluss der leeren, festgestellt.
@@ -739,20 +656,15 @@ Eine geheime Beschlussfassung ist durchzuführen:
 
 #### § 63
 
-**Entscheid**
+**Entscheid 1. durch qualifiziertes Mehr**
 
-### 1. durch qualifiziertes Mehr
+<sup>1</sup> Die Zustimmung von zwei Dritteln der anwesenden, stimmberechtigten Ratsmitglieder ist erforderlich für das Zustandekommen eines gültigen Beschlusses über:
 
-Die Zustimmung von zwei Dritteln der anwesenden, stimmberechtigten Ratsmitglieder ist erforderlich für das Zustandekommen eines gültigen Beschlusses über:
-
-- 1\. …[^h1durchqualifizier-1]
-
+- 1\. …
 - 2\. Ausgaben gemäss Art. 52a Abs. 1 Ziffer 2 der Kantonsverfassung;
+- 3\. Ausgaben gemäss Art. 14 Abs. 2 Ziffer 8 des Landratsgesetzes[^63-1], soweit für deren Beschlussfassung dem Landrat durch die Kantonsverfassung oder durch besondere Gesetze Vollmacht erteilt ist.
 
-- 3\. Ausgaben gemäss Art. 14 Abs. 2 Ziffer 8 des Landratsgesetzes[^h1durchqualifizier-2], soweit für deren Beschlussfassung dem Landrat durch die Kantonsverfassung oder durch besondere Gesetze Vollmacht erteilt ist.
-
-[^h1durchqualifizier-1]: Fassung gemäss Landratsbeschluss vom 28. Februar 2018, A 2018, 432; in Kraft seit 15. März 2018
-[^h1durchqualifizier-2]: NG 151.1
+[^63-1]: NG 151.1
 
 #### § 64
 
@@ -761,11 +673,8 @@ Die Zustimmung von zwei Dritteln der anwesenden, stimmberechtigten Ratsmitgliede
 <sup>1</sup> Das absolute Mehr der anwesenden Ratsmitglieder ist für das Zustandekommen eines gültigen Beschlusses erforderlich:
 
 - 1\. bei Schlussabstimmungen;
-
 - 2\. bei Wahlen;
-
 - 3\. bei Abbruch der Diskussion (§ 43 Abs. 2);
-
 - 4\. bei der Eintretensfrage auf Begnadigungsgesuche (§ 30 Abs. 1).
 
 <sup>2</sup> Wird das absolute Mehr auch nach der zweiten Abstimmung nicht erreicht, gilt in der dritten Abstimmung das einfache Mehr.
@@ -773,17 +682,16 @@ Die Zustimmung von zwei Dritteln der anwesenden, stimmberechtigten Ratsmitgliede
 <sup>3</sup> Werden für eine Wahl drei oder mehr Wahlvorschläge gemacht, richtet sich das Verfahren nach Art. 15 Abs. 2 des Behördengesetzes[^64-1].
 
 [^64-1]: NG 161.1
-[^64-2]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
 
 #### § 65
 
-**3. durch einfaches Mehr[^64-2]**
+**3. durch einfaches Mehr**
 
-In allen übrigen Fällen ist das einfache Mehr für das Zustandekommen eines gültigen Beschlusses hinreichend; vorbehalten bleiben Art. 34 des Landratsgesetzes[^65-1] sowie § 50 Abs. 3 und § 101 Abs. 1.
+<sup>1</sup> In allen übrigen Fällen ist das einfache Mehr für das Zustandekommen eines gültigen Beschlusses hinreichend; vorbehalten bleiben Art. 34 des Landratsgesetzes[^65-1] sowie § 50 Abs. 3 und § 101 Abs. 1.
 
 [^65-1]: NG 151.1
 
-### 2. Abstimmungen
+### 3.5.2 Abstimmungen
 
 #### § 66
 
@@ -811,9 +719,9 @@ In allen übrigen Fällen ist das einfache Mehr für das Zustandekommen eines g�
 
 **Stimmabgabe**
 
-Wenn über die Genehmigung von Geschäftsberichten und Jahresrechnungen sowie die Entlastung von Organen selbständiger Anstalten abgestimmt wird, dürfen Ratsmitglieder, die einem Verwaltungsorgan der betreffenden kantonalen Anstalt angehören, sich an der Abstimmung nicht beteiligen.
+<sup>1</sup> Wenn über die Genehmigung von Geschäftsberichten und Jahresrechnungen sowie die Entlastung von Organen selbständiger Anstalten abgestimmt wird, dürfen Ratsmitglieder, die einem Verwaltungsorgan der betreffenden kantonalen Anstalt angehören, sich an der Abstimmung nicht beteiligen.
 
-- 3\. Wahlen
+### 3.5.3 Wahlen
 
 #### § 69
 
@@ -822,14 +730,11 @@ Wenn über die Genehmigung von Geschäftsberichten und Jahresrechnungen sowie di
 <sup>1</sup> Bei Wahlgeschäften sind folgende Anträge zulässig:
 
 - 1\. auf Wahl einer bestimmten Person oder auf Wahl namentlich erwähnter Personen;
-
 - 2\. auf Nichtwahl einer Person, ohne Nennung einer anderen Person.
 
-<sup>2</sup> Der Ordnungsantrag auf Wahl unter Namensaufruf ist ausgeschlossen.[^69-1]
+<sup>2</sup> Der Ordnungsantrag auf Wahl unter Namensaufruf ist ausgeschlossen.
 
-<sup>3</sup> Bei der Wahl von Mitarbeiterinnen und Mitarbeitern hat das Landratsbüro dem Landrat die Namen aller Kandidatinnen und Kandidaten bekannt zu geben, die nach vorgenommener Prüfung die Wahlfähigkeit besitzen; es kann die Wahl einer bestimmten Person beantragen oder die Auswahl unter den wahlfähigen Personen dem Landrat überlassen.[^69-1]
-
-[^69-1]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
+<sup>3</sup> Bei der Wahl von Mitarbeiterinnen und Mitarbeitern hat das Landratsbüro dem Landrat die Namen aller Kandidatinnen und Kandidaten bekannt zu geben, die nach vorgenommener Prüfung die Wahlfähigkeit besitzen; es kann die Wahl einer bestimmten Person beantragen oder die Auswahl unter den wahlfähigen Personen dem Landrat überlassen.
 
 #### § 70
 
@@ -845,33 +750,23 @@ Wenn über die Genehmigung von Geschäftsberichten und Jahresrechnungen sowie di
 
 <sup>1</sup> Der Landrat wählt für die durch ihn zu bestimmenden Behörden und Kommissionen die Mitglieder, das Präsidium und das Sekretariat; vorbehalten bleiben abweichende Bestimmungen der Gesetzgebung über die Wahl des Präsidiums oder des Sekretariats.
 
-<sup>2</sup> Bei Erneuerungswahlen sind die Vorgeschlagenen nach ihrem Wahlalter und bei gleichem Wahlalter in alphabetischer Reihenfolge zur Wahl zu bringen; die Neuwahl für den Ersatz ausgeschiedener Mitglieder ist anschliessend vorzunehmen.[^71-1]
+<sup>2</sup> Bei Erneuerungswahlen sind die Vorgeschlagenen nach ihrem Wahlalter und bei gleichem Wahlalter in alphabetischer Reihenfolge zur Wahl zu bringen; die Neuwahl für den Ersatz ausgeschiedener Mitglieder ist anschliessend vorzunehmen.
 
-<sup>3</sup> Werden nicht mehr Personen vorgeschlagen als Mitglieder zu wählen sind, können die Wahl oder nur die Erneuerungswahlen gemeinsam vorgenommen werden.[^71-1]
+<sup>3</sup> Werden nicht mehr Personen vorgeschlagen als Mitglieder zu wählen sind, können die Wahl oder nur die Erneuerungswahlen gemeinsam vorgenommen werden.
 
 <sup>4</sup> An Wahlen von Kommissionen und Verwaltungsbehörden von selbständigen kantonalen Anstalten können auch Ratsmitglieder teilnehmen, die in Vorschlag gebracht sind.
 
-[^71-1]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
-
 #### § 72
 
-**Geheime Wahlen**
-
-[^72-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1475; in Kraft seit 1. Juli 2004
-
-### 1. Bestätigungswahl
-
-[^72-1]
+**Geheime Wahlen 1. Bestätigungswahl**
 
 <sup>1</sup> Wird bei einer Erneuerungswahl die geheime Abstimmung beschlossen, sind zunächst sämtliche zu bestätigende Mitglieder gemeinsam zur Wahl zu bringen.
 
 <sup>2</sup> Es findet lediglich ein Wahlgang statt. Gewählt ist, wer das absolute Mehr erreicht.
 
-[^h1Bestätigungswahl-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1475; in Kraft seit 1. Juli 2004
-
 #### § 72a
 
-**2. Neuwahl[^h1Bestätigungswahl-1]**
+**2. Neuwahl**
 
 <sup>1</sup> Wird bei einer Neuwahl die geheime Abstimmung beschlossen, sind sämtliche neu zu wählenden Mitglieder gemeinsam zur Wahl zu bringen. Ist eine Kandidatin oder ein Kandidat in offener oder geheimer Abstimmung gemäss § 72 nicht gewählt worden, kann diese Person zur Neuwahl vorgeschlagen werden.
 
@@ -881,7 +776,7 @@ Wenn über die Genehmigung von Geschäftsberichten und Jahresrechnungen sowie di
 
 <sup>4</sup> Erreichen mehrere Personen auch nach einem zusätzlichen Wahlgang die gleiche Stimmenzahl, entscheidet das Los.
 
-### F. Protokoll
+### 3.6 Protokoll
 
 #### § 73
 
@@ -890,19 +785,12 @@ Wenn über die Genehmigung von Geschäftsberichten und Jahresrechnungen sowie di
 <sup>1</sup> Das Protokoll des Landrates hat zu enthalten:
 
 - 1\. die Namen der Verhandlungsleitung, der Protokollführung, der beigezogenen Personen gemäss Art. 36 Abs. 2 und 3 des Landratsgesetzes[^73-1] sowie der abwesenden Mitglieder des Landrates und Regierungsrates;
-
 - 2\. die Angabe von Ort, Datum und Dauer der Sitzung;
-
 - 3\. die Gegenstände der Verhandlungen, die Namen der Sprecherinnen und Sprecher mit dem wesentlichen Inhalt ihrer Ausführungen sowie den Wortlaut der gestellten Anträge;
-
 - 4\. die Entscheide des Rates über die Anträge;
-
 - 5\. die Ergebnisse von Wahlen und Schlussabstimmungen;
-
 - 6\. die Anzahl der Stimmen, so oft bei der Beschlussfassung die Zählung vorgenommen wird; bei Abstimmungen mit Namensaufruf müssen die Namen jener, die für Annahme oder Verwerfung stimmten oder sich der Stimme enthielten, aus dem Protokoll ersichtlich sein;
-
 - 7\. die Handhabung der Ausstandspflicht;
-
 - 8\. die Disziplinarmassnahmen.
 
 <sup>2</sup> Parlamentarische Initiativen sind im Protokoll jener Landratssitzung festzuhalten, in welcher das Landratspräsidium abklärt, ob sie vorläufig von mindestens 20 Ratsmitgliedern unterstützt werden.
@@ -915,7 +803,7 @@ Wenn über die Genehmigung von Geschäftsberichten und Jahresrechnungen sowie di
 
 **Genehmigung**
 
-Das Protokoll ist durch den Landrat zu genehmigen.
+<sup>1</sup> Das Protokoll ist durch den Landrat zu genehmigen.
 
 #### § 75
 
@@ -925,15 +813,15 @@ Das Protokoll ist durch den Landrat zu genehmigen.
 
 <sup>2</sup> Nach der Genehmigung des Protokolls wird die Aufnahme gelöscht.
 
-### G. Kommissionen
+### 3.7 Kommissionen
 
-### 1. Allgemeine Bestimmungen
+### 3.7.1 Allgemeine Bestimmungen
 
 #### § 76
 
 **Geltungsbereich**
 
-Die Vorschriften dieses Reglements über Kommissionen gelten sinngemäss auch für die Verwaltungsbehörden der selbständigen kantonalen Anstalten, soweit diese keine eigenen Geschäftsreglemente erlassen.
+<sup>1</sup> Die Vorschriften dieses Reglements über Kommissionen gelten sinngemäss auch für die Verwaltungsbehörden der selbständigen kantonalen Anstalten, soweit diese keine eigenen Geschäftsreglemente erlassen.
 
 #### § 77
 
@@ -941,9 +829,7 @@ Die Vorschriften dieses Reglements über Kommissionen gelten sinngemäss auch f�
 
 <sup>1</sup> Bei der Wahl von Kommissionen achtet der Landrat auf die Wahrung des Allgemeininteresses und vermeidet eine einseitige Vertretung von Sonderinteressen.
 
-<sup>2</sup> Die Fraktionen haben Anspruch auf eine angemessene Vertretung in den Kommissionen.[^77-1]
-
-[^77-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1475; in Kraft seit 1. Juli 2004
+<sup>2</sup> Die Fraktionen haben Anspruch auf eine angemessene Vertretung in den Kommissionen.
 
 #### § 78
 
@@ -951,9 +837,7 @@ Die Vorschriften dieses Reglements über Kommissionen gelten sinngemäss auch f�
 
 <sup>1</sup> Die Kommissionen können eine Vizepräsidentin oder einen Vizepräsidenten bezeichnen.
 
-<sup>2</sup> Jede Kommission kann sich in Ausschüsse gliedern und diesen besondere Aufträge erteilen; die Beschlussfassung bleibt aber in allen Fällen der Gesamtkommission vorbehalten.[^78-1]
-
-[^78-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1475; in Kraft seit 1. Juli 2004
+<sup>2</sup> Jede Kommission kann sich in Ausschüsse gliedern und diesen besondere Aufträge erteilen; die Beschlussfassung bleibt aber in allen Fällen der Gesamtkommission vorbehalten.
 
 #### § 79
 
@@ -981,9 +865,7 @@ Die Vorschriften dieses Reglements über Kommissionen gelten sinngemäss auch f�
 
 <sup>1</sup> Die zuständige Direktion beschafft den Kommissionen des Landrates die verlangten Unterlagen und Auskünfte.
 
-<sup>2</sup> Die Kontaktnahme mit Mitarbeiterinnen und Mitarbeitern richtet sich nach § 15.[^81-1]
-
-[^81-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1475; in Kraft seit 1. Juli 2004
+<sup>2</sup> Die Kontaktnahme mit Mitarbeiterinnen und Mitarbeitern richtet sich nach § 15.
 
 #### § 82
 
@@ -992,20 +874,13 @@ Die Vorschriften dieses Reglements über Kommissionen gelten sinngemäss auch f�
 <sup>1</sup> Das Kommissionssekretariat hat insbesondere folgende Aufgaben:
 
 - 1\. Unterstützung des Kommissionspräsidiums bei der Planung, Vorbereitung und Führung der Kommissionstätigkeit;
-
 - 2\. Besorgung der organisatorischen und administrativen Mitteilungen an die Kommissionsmitglieder;
-
 - 3\. Führung des Protokolls;
-
 - 4\. Übermittlung der erforderlichen Angaben, Mitteilungen, Unterlagen und Anträge an das Landratssekretariat;
-
 - 5\. Redaktion allfälliger Medieninformationen;
-
 - 6\. Unterstützung der Kommissionsmitglieder.
 
-<sup>2</sup> Die Beratungsunterlagen müssen spätestens fünf Arbeitstage vor der Sitzung den Kommissionsmitgliedern zugestellt sein.[^82-1]
-
-[^82-1]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
+<sup>2</sup> Die Beratungsunterlagen müssen spätestens fünf Arbeitstage vor der Sitzung den Kommissionsmitgliedern zugestellt sein.
 
 #### § 83
 
@@ -1043,13 +918,13 @@ Die Vorschriften dieses Reglements über Kommissionen gelten sinngemäss auch f�
 
 <sup>2</sup> Medienkonferenzen werden in der Regel vom Kommissionspräsidium geleitet; die Kommission bestimmt im Übrigen ihre Vertretung an der Medienkonferenz.
 
-### 2. Verfahrensregeln
+### 3.7.2 Verfahrensregeln
 
 #### § 87
 
 **Allgemein**
 
-Das Verfahren in den Kommissionen richtet sich sinngemäss nach den Bestimmungen, die für die Verhandlungen im Landrat gelten.
+<sup>1</sup> Das Verfahren in den Kommissionen richtet sich sinngemäss nach den Bestimmungen, die für die Verhandlungen im Landrat gelten.
 
 #### § 88
 
@@ -1074,7 +949,6 @@ Das Verfahren in den Kommissionen richtet sich sinngemäss nach den Bestimmungen
 <sup>1</sup> Eine Kommission kann auf Antrag des Präsidiums oder aufgrund eines Kommissionsbeschlusses einen Zirkulationsbeschluss fassen, wenn:
 
 - 1\. eine Sitzung nicht mehr rechtzeitig durchgeführt werden kann;
-
 - 2\. ausschliesslich nebensächliche Punkte zu bereinigen oder bereinigte Fassungen gutzuheissen und zuhanden der zuständigen Behörde zu verabschieden sind.
 
 <sup>2</sup> Der Antrag für einen Zirkulationsbeschluss wird den Kommissionsmitgliedern zugestellt; er gilt als angenommen, wenn kein Mitglied binnen der angesetzten Frist Einsprache erhebt und die Einberufung einer Sitzung verlangt.
@@ -1090,18 +964,13 @@ Das Verfahren in den Kommissionen richtet sich sinngemäss nach den Bestimmungen
 <sup>3</sup> Die Anträge können insbesondere lauten auf:
 
 - 1\. Eintreten oder Nichteintreten;
-
 - 2\. Gutheissung, teilweise Gutheissung oder Ablehnung;
-
 - 3\. Rückweisung;
-
 - 4\. Verzicht auf eine weitere Bearbeitung des Auftrages, beziehungsweise Abschreibung des parlamentarischen Vorstosses.
 
 #### § 92
 
-**Berichterstattung**
-
-### 1. schriftliche
+**Berichterstattung 1. schriftliche**
 
 <sup>1</sup> Die Kommissionen begleiten ihre Anträge an den Landrat mit einem schriftlichen Bericht, soweit es sich nicht um eine einfach überblickbare Angelegenheit handelt.
 
@@ -1110,58 +979,42 @@ Das Verfahren in den Kommissionen richtet sich sinngemäss nach den Bestimmungen
 <sup>3</sup> Der Bericht der infolge einer Parlamentarischen Initiative eingesetzten Kommission enthält insbesondere Aussagen:
 
 - 1\. über die Ausgangslage und die Zielsetzungen;
-
 - 2\. bei Gesetzgebungsvorlagen über die Verfassungsmässigkeit und die wesentlichen Neuerungen gegenüber dem bisherigen Recht;
-
 - 3\. über die personellen und finanziellen Auswirkungen;
-
 - 4\. über die Auswirkungen auf den Vollzug und die Gemeinden.
 
 #### § 93
 
 **2. mündliche**
 
-Die Kommission kann den schriftlichen Bericht im Landrat mündlich ergänzen beziehungsweise, soweit kein schriftlicher Bericht vorgelegt wird, den Bericht vom Präsidium oder einem Mitglied mündlich erstatten lassen.
-
-[^93-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1475; in Kraft seit 1. Juli 2004
+<sup>1</sup> Die Kommission kann den schriftlichen Bericht im Landrat mündlich ergänzen beziehungsweise, soweit kein schriftlicher Bericht vorgelegt wird, den Bericht vom Präsidium oder einem Mitglied mündlich erstatten lassen.
 
 #### § 93a
 
-**Vorbereitung von Richterwahlen[^93-1]**
+**Vorbereitung von Richterwahlen**
 
-Das Landratsbüro unterbreitet nach Konsultation der Justizkommission dem Landrat einen Wahlvorschlag betreffend Richterwahlen.
+<sup>1</sup> Das Landratsbüro unterbreitet nach Konsultation der Justizkommission dem Landrat einen Wahlvorschlag betreffend Richterwahlen.
 
-[^93a-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1475; in Kraft seit 1. Juli 2004
-
-### 3. Parlamentarische Aufsichtskommissionen
-
-[^93a-1]
-
-[^h3Parlamentarische-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1475; in Kraft seit 1. Juli 2004
+### 3.7.3 Parlamentarische Aufsichtskommissionen
 
 #### § 94
 
-**..[^h3Parlamentarische-1]**
-
-[^94-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1475; in Kraft seit 1. Juli 2004
+**…**
 
 #### § 95
 
-**Kontrollen und Prüfungen[^94-1]**
+**Kontrollen und Prüfungen**
 
 <sup>1</sup> Die Aufsichtskommission, die Justizkommission und die Finanzkommission nehmen die erforderlichen Kontrollen und Prüfungen vor; die Finanzkontrolle steht ihnen als Ausführungsorgan zur Verfügung.
 
 <sup>2</sup> Diese Kommissionen können:
 
 - 1\. im Rahmen des dafür im Voranschlag enthaltenen Kredites aussenstehende Fachleute gezielt mit einzelnen Kontrollaufgaben betrauen;
-
 - 2\. für die Prüfung der Jahresrechnungen der selbstständigen kantonalen Anstalten zu deren Lasten Revisionsgesellschaften beiziehen.
-
-[^95-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1475; in Kraft seit 1. Juli 2004
 
 #### § 96
 
-**Inspektionen[^95-1]**
+**Inspektionen**
 
 <sup>1</sup> Die Aufsichtskommission, die Justizkommission und die Finanzkommission können Inspektionen durchführen; in der Regel ist eine Inspektion vorgängig der zuständigen Direktion beziehungsweise dem zuständigen Gericht anzukündigen.
 
@@ -1169,17 +1022,15 @@ Das Landratsbüro unterbreitet nach Konsultation der Justizkommission dem Landra
 
 <sup>3</sup> Sie prüft durch Nachkontrollen, ob die festgestellten Mängel behoben und ihre Empfehlungen verwirklicht worden sind.
 
-[^96-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1475; in Kraft seit 1. Juli 2004
-
 #### § 97
 
-**Berichterstattung an den Landrat; direkte Erledigung[^96-1]**
+**Berichterstattung an den Landrat; direkte Erledigung**
 
 <sup>1</sup> Die Aufsichtskommission, die Justizkommission und die Finanzkommission haben dem Landrat über die Ergebnisse ihrer Prüfungen Bericht zu erstatten und allenfalls Antrag zu stellen.
 
 <sup>2</sup> Wo es gegeben erscheint, können sie allfällige Beanstandungen, Anregungen und Anträge der betreffenden Stelle direkt zur Kenntnis bringen.
 
-- 4\. Parlamentarische Untersuchungskommission
+### 3.7.4 Parlamentarische Untersuchungskommission
 
 #### § 98
 
@@ -1187,7 +1038,7 @@ Das Landratsbüro unterbreitet nach Konsultation der Justizkommission dem Landra
 
 <sup>1</sup> Die Einsetzung einer Parlamentarischen Untersuchungskommission richtet sich nach Art. 25 des Landratsgesetzes[^98-1].
 
-<sup>2</sup> Die Einsetzung einer Untersuchungskommission hindert die Durchführung von Verfahren betreffend die disziplinarische, vermögensrechtliche oder strafrechtliche Verantwortlichkeit oder interne Verfahren gemäss Art. 18-21 des Personalgesetzes[^98-2] nicht.
+<sup>2</sup> Die Einsetzung einer Untersuchungskommission hindert die Durchführung von Verfahren betreffend die disziplinarische, vermögensrechtliche oder strafrechtliche Verantwortlichkeit oder interne Verfahren gemäss Art. 18–21 des Personalgesetzes[^98-2] nicht.
 
 [^98-1]: NG 151.1
 [^98-2]: NG 165.1
@@ -1196,7 +1047,7 @@ Das Landratsbüro unterbreitet nach Konsultation der Justizkommission dem Landra
 
 **Untersuchungsverfahren**
 
-<sup>1</sup> Das Untersuchungsverfahren richtet sich nach Art. 42-47 des Landratsgesetzes[^99-1].
+<sup>1</sup> Das Untersuchungsverfahren richtet sich nach Art. 42–47 des Landratsgesetzes[^99-1].
 
 <sup>2</sup> Für die Einvernahme von Zeuginnen und Zeugen, die Aussagepflicht, das Recht zur Zeugnisverweigerung und die Beweiserhebung gelten sinngemäss die einschlägigen Bestimmungen der Gesetzgebung über die Verwaltungsrechtspflege[^99-2]. Geht aus dem Auftrag oder aus der Entwicklung der Ermittlung eindeutig hervor, dass sich eine Untersuchung ganz oder vorwiegend gegen eine bestimmte Person richtet, darf diese nur als Auskunftsperson befragt werden. Vor jeder Befragung ist festzustellen, ob sich die befragte Person als Auskunftsperson, als Zeugin beziehungsweise Zeuge oder als Sachverständige beziehungsweise Sachverständiger zu äussern hat.
 
@@ -1207,15 +1058,13 @@ Das Landratsbüro unterbreitet nach Konsultation der Justizkommission dem Landra
 [^99-1]: NG 151.1
 [^99-2]: NG 265.1
 
-### IV. PARLAMENTARISCHE VORSTÖSSE
+## 4 Parlamentarische Vorstösse
 
-### A. Formen
+### 4.1 Formen
 
 #### § 100
 
-**Parlamentarische Initiative**
-
-### 1. Gegenstand
+**Parlamentarische Initiative 1. Gegenstand**
 
 <sup>1</sup> Mit der Parlamentarischen Initiative kann in der Form des ausgearbeiteten Entwurfes oder der allgemeinen Anregung der Erlass, die Änderung, die Ergänzung oder die Aufhebung von Verfassungs-, Gesetzesbestimmungen oder dieses Reglements beantragt werden.
 
@@ -1243,7 +1092,7 @@ Das Landratsbüro unterbreitet nach Konsultation der Justizkommission dem Landra
 
 **4. Stellungnahme des Regierungsrates**
 
-Der Regierungsrat kann dem Landrat binnen sechs Monaten eine Stellungnahme abgeben.
+<sup>1</sup> Der Regierungsrat kann dem Landrat binnen sechs Monaten eine Stellungnahme abgeben.
 
 #### § 104
 
@@ -1252,40 +1101,29 @@ Der Regierungsrat kann dem Landrat binnen sechs Monaten eine Stellungnahme abgeb
 <sup>1</sup> Mit einer Motion wird der Regierungsrat beauftragt:
 
 - 1\. eine Änderung der Kantonsverfassung einzuleiten;
-
 - 2\. den Erlass, die Aufhebung oder die Änderung eines Gesetzes einzuleiten;
-
 - 3\. eine Verfügung oder einen Beschluss vorzubereiten, soweit der Landrat hierfür zuständig ist.
 
 <sup>2</sup> Unzulässig sind Motionen über:
 
 - 1\. die Zulässigkeit eines Antrages zuhanden einer Volksabstimmung;
-
 - 2\. die Kürzung oder Streichung eines beschlossenen Voranschlagskredites oder den Voranschlag als Ganzes;
-
 - 3\. die genehmigte Staatsrechnung;
-
 - 4\. Wahlen;
-
 - 5\. die Erteilung des Kantonsbürgerrechts;
-
 - 6\. Begnadigungen;
-
 - 7\. Beschwerden und Petitionen;
-
 - 8\. Vernehmlassungen des Regierungsrates;
-
 - 9\. Personalangelegenheiten, die einzelne Personen betreffen;
-
 - 10\. Verfahrensbeschlüsse.
 
 #### § 105
 
 **Einfaches Auskunftsbegehren**
 
-Ist ein Einfaches Auskunftsbegehren spätestens zehn Tage vor einer Landratssitzung beim Landratssekretariat hinterlegt, muss es am Ende der nächstfolgenden Landratssitzung beantwortet werden; andernfalls wird es an der übernächsten Landratssitzung beantwortet.
+<sup>1</sup> Ist ein Einfaches Auskunftsbegehren spätestens zehn Tage vor einer Landratssitzung beim Landratssekretariat hinterlegt, muss es am Ende der nächstfolgenden Landratssitzung beantwortet werden; andernfalls wird es an der übernächsten Landratssitzung beantwortet.
 
-### B. Verfahren
+### 4.2 Verfahren
 
 #### § 106
 
@@ -1297,11 +1135,9 @@ Ist ein Einfaches Auskunftsbegehren spätestens zehn Tage vor einer Landratssitz
 
 <sup>3</sup> Vorstösse können von der Urheberin beziehungsweise vom Urheber jederzeit ohne Zustimmung der Mitunterzeichnenden schriftlich ganz oder teilweise zurückgezogen werden.
 
-[^106-1]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
-
 #### § 107
 
-**Dringlichkeit[^106-1]**
+**Dringlichkeit**
 
 <sup>1</sup> Der Landrat kann auf Antrag die Behandlung einer Motion, eines Postulats oder einer Interpellation dringlich erklären.
 
@@ -1309,9 +1145,7 @@ Ist ein Einfaches Auskunftsbegehren spätestens zehn Tage vor einer Landratssitz
 
 #### § 108
 
-**Behandlung**
-
-### 1. Vorbereitung
+**Behandlung 1. Vorbereitung**
 
 <sup>1</sup> Motionen, Postulate und Interpellationen werden auf die Tagesordnung des Landrates gesetzt, wenn der Regierungsrat seine Stellungnahme dazu schriftlich abgegeben hat.
 
@@ -1331,13 +1165,11 @@ Ist ein Einfaches Auskunftsbegehren spätestens zehn Tage vor einer Landratssitz
 
 <sup>1</sup> Jedes Ratsmitglied kann sich zu Motionen und Postulaten äussern, wobei neben der unveränderten Gutheissung, auch die Änderung, Ergänzung, Umwandlung sowie Ablehnung beantragt werden kann. Ist eine Motion oder ein Postulat inhaltlich teilbar, kann der Rat über die einzelnen Punkte getrennt beraten und abstimmen.
 
-<sup>2</sup> Bei Interpellationen findet eine Diskussion statt.[^110-1]
+<sup>2</sup> Bei Interpellationen findet eine Diskussion statt.
 
 <sup>3</sup> Kleine Anfragen werden im Rat nicht behandelt. Sie sind vom Regierungsrat innerhalb von zwei Monaten seit ihrer Überweisung schriftlich zu beantworten, wobei Anfrage und Antwort allen Mitgliedern des Landrates zugestellt werden; zu Beginn der nächstfolgenden Landratssitzung stellt das Landratspräsidium die erfolgte Zustellung von Anfrage und Antwort fest.
 
 <sup>4</sup> Einfache Auskunftsbegehren werden vom Regierungsrat mündlich beantwortet; eine Diskussion und eine Beschlussfassung finden nicht statt.
-
-[^110-1]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
 
 #### § 111
 
@@ -1351,39 +1183,59 @@ Ist ein Einfaches Auskunftsbegehren spätestens zehn Tage vor einer Landratssitz
 
 **5. Weiterbehandlung**
 
-<sup>1</sup> Der Regierungsrat erfüllt gutgeheissene Motionen und Postulate.
+<sup>1</sup> Der Regierungsrat erfüllt gutgeheissene Motionen und Postulate innert zwei Jahren.
 
-<sup>2</sup> Er erfüllt ein Postulat, indem er in einem separaten Bericht, im Rechenschaftsbericht oder im Rahmen einer Vorlage Bericht erstattet. Separate Berichte kann das Landratsbüro einer Kommission zur Prüfung zuweisen oder sie selbst prüfen.
+<sup>2</sup> Er erfüllt ein Postulat, indem er in einem separaten Bericht, in einem der zwei auf die Gutheissung folgenden Rechenschaftsberichte oder im Rahmen einer Vorlage Bericht erstattet. Separate Berichte kann das Landratsbüro einer Kommission zur Prüfung zuweisen oder sie selbst prüfen.
 
 <sup>3</sup> Der Regierungsrat erstattet in einem besonderen Abschnitt des Rechenschaftsberichtes dem Landrat jährlich Bericht über die noch nicht abgeschriebenen Motionen und Postulate.
 
+#### § 112a
+
+**5a. Fristverlängerung, Fristversäumnis**
+
+<sup>1</sup> Der Regierungsrat kann bis sechs Monate vor Ablauf der Frist deren Verlängerung um längstens ein Jahr beantragen. Lehnt der Landrat den Antrag ab, steht dem Regierungsrat eine Behandlungsfrist von längstens sechs Monaten nach der Ablehnung zu.
+
+<sup>2</sup> Die Aufsichtskommission prüft die Stichhaltigkeit der Gründe für die Fristverlängerung oder die Gründe für das Fristversäumnis.
+
+<sup>3</sup> Sie stellt dem Landrat Antrag auf Fristverlängerung. Bei Motionen kann sie auch die Überweisung an eine Fachkommission oder die Abschreibung beantragen.
+
+#### § 112b
+
+**5b. Erfüllung durch Fachkommission**
+
+<sup>1</sup> Die Fachkommission kann sich zur Erfüllung einer Motion unmittelbar an Mitarbeiterinnen und Mitarbeiter der Verwaltung wenden und diesen Aufträge erteilen. Sie teilt dies der zuständigen Direktion mit. Sie kann auch externe Fachpersonen beauftragen.
+
+<sup>2</sup> Sie unterbreitet dem Landrat eine Vorlage oder stellt Antrag auf Abschreibung der Motion.
+
 #### § 113
 
-**6. Abschreibung**
-
-- a) vor der Behandlung im Landrat
+**6. Abschreibung a) vor der Behandlung im Landrat**
 
 <sup>1</sup> Motionen, Postulate und Interpellationen werden abgeschrieben, wenn ihre Urheberin beziehungsweise ihr Urheber aus dem Landrat ausscheidet und sie nicht von einem Landratsmitglied bis zur nächstfolgenden Landratssitzung übernommen werden; die Übernahme erfolgt in der Form einer schriftlichen Erklärung zuhanden des Landratsbüros.
 
 <sup>2</sup> Motionen und Postulate sind auf Antrag des Regierungsrates oder des Landratsbüros abzuschreiben, wenn sie in der Zwischenzeit erfüllt worden sind.
 
-#### § 114 b
+#### § 114
 
-**) von gutgeheissenen Vorstössen**
+**b) von gutgeheissenen Vorstössen**
 
 <sup>1</sup> Der Regierungsrat oder eine landrätliche Kommission können im Rahmen einer Vorlage die Abschreibung von erfüllten Vorstössen beantragen; der Regierungsrat kann die Abschreibung auch im Rahmen des Rechenschaftsberichtes beantragen.
 
-<sup>2</sup> Für Motionen und Postulate, die vor mehr als drei Jahren gutgeheissen wurden, aber noch nicht erfüllt sind, stellt der Regierungsrat in einem besonderen Abschnitt des Rechenschaftsberichtes den begründeten Antrag auf Abschreibung oder Aufrechterhaltung.
+<sup>2</sup> Für Postulate, die vor mehr als drei Jahren gutgeheissen wurden, aber noch nicht erfüllt sind, stellt der Regierungsrat in einem besonderen Abschnitt des Rechenschaftsberichtes den begründeten Antrag auf Abschreibung oder Aufrechterhaltung.
 
-<sup>3</sup> Das Landratsbüro wacht über die beförderliche Erledigung der vor mehr als drei Jahren gutgeheissenen Motionen und Postulate.
+<sup>3</sup> Die Aufsichtskommission wacht über die beförderliche Erledigung der vor mehr als drei Jahren gutgeheissenen Motionen und Postulate.
 
-### V. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
-
-[^hVÜBERGANGSUNDSC-1]: Fassung gemäss Landratsbeschluss vom 30. Januar 2013, A 2013, 197; in Kraft seit 1. März 2013
+## 5 Übergangs- und Schlussbestimmungen
 
 #### § 115
 
-**…[^hVÜBERGANGSUNDSC-1]**
+**…**
+
+#### § 115a
+
+**Übergangsbestimmung zur Änderung vom ...**
+
+<sup>1</sup> Für Motionen und Postulate, die zum Zeitpunkt des Inkrafttretens dieser Änderung gutgeheissen sind, gelten die bisherigen Bestimmungen.
 
 #### § 116
 
@@ -1395,7 +1247,4 @@ Ist ein Einfaches Auskunftsbegehren spätestens zehn Tage vor einer Landratssitz
 
 <sup>3</sup> Alle mit ihm im Widerspruch stehenden Bestimmungen sind aufgehoben.
 
-## Weitere Fussnoten
-
-- [7] Fassung gemäss Landratsbeschluss vom 22. Mai 2002, A 2002, 821; in Kraft seit 1. September 2002
-- [10] Fassung gemäss Landratsbeschluss vom 21. November 2012, A 2012, 1792; in Kraft seit 1. März 2013
+A 1998, 1731
