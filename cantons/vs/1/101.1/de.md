@@ -4,25 +4,25 @@ number: "101.1"
 title: Verfassung des Kantons Wallis
 short: KV
 language: de
-version: 2008-04-01
-corrected: 2017-08-31
-version_adopted: 2007-06-14
+version: 2023-05-01
+version_adopted: 2020-10-15
 adopted: 1907-03-08
 in_force: 1907-06-02
 url: "https://lex.vs.ch/app/de/texts_of_law/101.1"
-pdf: "https://lex.vs.ch/api/de/versions/708/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3213/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Wallis
 
-vom 8. März 1907
+(KV)
+
+vom 08.03.1907 (Stand 01.05.2023)
 
 Im Namen Gottes des Allmächtigen!
 
-### 1. Titel: Allgemeine Grundsätze
+## 1 Allgemeine Grundsätze
 
 #### Art. 1
 
@@ -31,8 +31,6 @@ Im Namen Gottes des Allmächtigen!
 <sup>2</sup> Die Souveränität beruht im Volke und wird unmittelbar durch die Aktivbürger und mittelbar von den durch die Verfassung eingesetzten Behörden ausgeübt.
 
 #### Art. 2
-
-<sup>10,15</sup>
 
 <sup>1</sup> Die Glaubens- und Gewissensfreiheit und die freie Ausübung gottesdienstlicher Handlungen sind gewährleistet.
 
@@ -46,13 +44,13 @@ Im Namen Gottes des Allmächtigen!
 
 #### Art. 3
 
-**\***
+**[^3-1]**
 
 <sup>1</sup> Alle Bürger sind vor dem Gesetze gleich.
 
 <sup>2</sup> Es gibt im Wallis kein Vorrecht des Ortes, der Geburt, der Personen oder Familien.
 
-\*Anmerkung: «In der Verfassung gilt jede Bezeichnung einer Person, eines Statuts oder einer Funktion in gleicher Weise für Mann oder Frau.»16
+[^3-1]: In der Verfassung gilt jede Bezeichnung einer Person, eines Statuts oder einer Funktion in gleicher Weise für Mann oder Frau.
 
 #### Art. 4
 
@@ -64,7 +62,7 @@ Im Namen Gottes des Allmächtigen!
 
 #### Art. 5
 
-Niemand darf seinem ordentlichen Richter entzogen werden.
+<sup>1</sup> Niemand darf seinem ordentlichen Richter entzogen werden.
 
 #### Art. 6
 
@@ -76,15 +74,15 @@ Niemand darf seinem ordentlichen Richter entzogen werden.
 
 #### Art. 7
 
-Kein Grundstück kann mit einem unloskäuflichen Bodenzins belastet werden.
+<sup>1</sup> Kein Grundstück kann mit einem unloskäuflichen Bodenzins belastet werden.
 
 #### Art. 8
 
-Die Freiheit der Meinungsäusserung in Wort und Schrift sowie die Freiheit der Presse sind gesichert. Das Gesetz bestraft den Missbrauch derselben.
+<sup>1</sup> Die Freiheit der Meinungsäusserung in Wort und Schrift sowie die Freiheit der Presse sind gesichert. Das Gesetz bestraft den Missbrauch derselben.
 
 #### Art. 9
 
-Das Petitionsrecht ist gewährleistet. Die Ausübung desselben wird vom Gesetz bestimmt.
+<sup>1</sup> Das Petitionsrecht ist gewährleistet. Die Ausübung desselben wird vom Gesetz bestimmt.
 
 #### Art. 10
 
@@ -112,9 +110,7 @@ Das Petitionsrecht ist gewährleistet. Die Ausübung desselben wird vom Gesetz b
 
 <sup>3</sup> Die Lehrfreiheit ist, unter Vorbehalt der Gesetzesbestimmungen betreffend die Primarschule, gewährleistet.
 
-#### Art. 13bis
-
-<sup>19</sup>
+#### Art. 13a
 
 <sup>1</sup> Der Staat muss der Familie, als Basisgemeinschaft der Gesellschaft, den für die Entfaltung jedes ihrer Mitglieder notwendigen Schutz sowie Unterstützung gewähren.
 
@@ -122,17 +118,21 @@ Das Petitionsrecht ist gewährleistet. Die Ausübung desselben wird vom Gesetz b
 
 #### Art. 14
 
-Der Staat erlässt Vorschriften betreffend Arbeiterschutz und Sicherung der Arbeiterfreiheit.
+<sup>1</sup> Der Staat erlässt Vorschriften betreffend Arbeiterschutz und Sicherung der Arbeiterfreiheit.
+
+#### Art. 14a
+
+<sup>1</sup> Der Staat erlässt Vorschriften zum Schutz vor Grossraubtieren und zur Beschränkung und Regulierung des Bestands. Die Förderung des Grossraubtierbestandes ist verboten.[^14a-1]
+
+[^14a-1]: Die Bundesgarantie wurde durch Bundesbeschluss vom 6. März 2023 gewährt (BBl 2023 724). [https://www.fedlex.admin.ch/eli/fga/2023/724/de](https://www.fedlex.admin.ch/eli/fga/2023/724/de) [https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20220079](https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20220079)
 
 #### Art. 15
 
-Der Staat fördert und unterstützt nach Massgabe der ihm zu Gebote stehenden finanziellen Mittel:
+<sup>1</sup> Der Staat fördert und unterstützt nach Massgabe der ihm zu Gebote stehenden finanziellen Mittel:
 
-- 1\. die Landwirtschaft, die Industrie, den Handel und im Allgemeinen alle den Kanton interessierenden Zweige der Staatswirtschaft;
-
-- 2\. den beruflichen Unterricht für Landwirtschaft, Handel, Industrie und Gewerbe;
-
-- 3\. die Viehzucht, die Milchwirtschaft, den Rebbau, den Obstbau, die Alp-wirtschaft, die Bodenverbesserungen, die Forstwirtschaft und das landwirtschaftliche und berufliche Genossenschaftswesen.
+- a) die Landwirtschaft, die Industrie, den Handel und im Allgemeinen alle den Kanton interessierenden Zweige der Staatswirtschaft;
+- b) den beruflichen Unterricht für Landwirtschaft, Handel, Industrie und Gewerbe;
+- c) die Viehzucht, die Milchwirtschaft, den Rebbau, den Obstbau, die Alp-wirtschaft, die Bodenverbesserungen, die Forstwirtschaft und das landwirtschaftliche und berufliche Genossenschaftswesen.
 
 #### Art. 16
 
@@ -148,7 +148,7 @@ Der Staat fördert und unterstützt nach Massgabe der ihm zu Gebote stehenden fi
 
 #### Art. 18
 
-Der Staat gründet oder unterstützt durch Beiträge Erziehungsanstalten für verwahrloste Kinder sowie andere Wohltätigkeitsanstalten.
+<sup>1</sup> Der Staat gründet oder unterstützt durch Beiträge Erziehungsanstalten für verwahrloste Kinder sowie andere Wohltätigkeitsanstalten.
 
 #### Art. 19
 
@@ -158,11 +158,9 @@ Der Staat gründet oder unterstützt durch Beiträge Erziehungsanstalten für ve
 
 #### Art. 20
 
-Die finanzielle Beteiligung des Staates in den von den Artikeln 15, 16, 17, 18 und 19 vorgesehenen Fällen wird durch Spezialgesetz bestimmt werden.
+<sup>1</sup> Die finanzielle Beteiligung des Staates in den von den Artikeln 15, 16, 17, 18 und 19 vorgesehenen Fällen wird durch Spezialgesetz bestimmt werden.
 
 #### Art. 21
-
-<sup>12</sup>
 
 <sup>1</sup> Der Staat, die Gemeinden und die mit Rechtspersönlichkeit ausgestatteten Gemeindeverbände des öffentlichen Rechts haften gegenüber Dritten für die Handlungen ihrer Agenten.
 
@@ -172,31 +170,23 @@ Die finanzielle Beteiligung des Staates in den von den Artikeln 15, 16, 17, 18 u
 
 #### Art. 22
 
-Die Abberufung oder Absetzung eines öffentlichen Beamten oder Angestellten kann nur nach seiner Einvernahme oder Vorladung und auf Grund eines motivierten Beschlusses derjenigen Behörde erfolgen, die ihn ernannt hat.
+<sup>1</sup> Die Abberufung oder Absetzung eines öffentlichen Beamten oder Angestellten kann nur nach seiner Einvernahme oder Vorladung und auf Grund eines motivierten Beschlusses derjenigen Behörde erfolgen, die ihn ernannt hat.
 
 #### Art. 23
 
-Die Staatsausgaben werden bestritten:
+<sup>1</sup> Die Staatsausgaben werden bestritten:
 
 - a) aus den Einkünften des Staatsvermögens;
-
 - b) aus dem Ertrag der Hoheitsrechte;
-
 - c) aus den Fiskalgebühren und den verschiedenen Einkünften;
-
 - d) aus den Bundes-Entschädigungen, Beiträgen und Verteilungen;
-
 - e) aus den Steuern.
 
 #### Art. 24
 
-<sup>3</sup>
-
-Die Staats- und Gemeindesteuern werden durch die Gesetzgebung festgesetzt unter Wahrung der Grundsätze der Progression und eines gewissen Existenzminimums.
+<sup>1</sup> Die Staats- und Gemeindesteuern werden durch die Gesetzgebung festgesetzt unter Wahrung der Grundsätze der Progression und eines gewissen Existenzminimums.
 
 #### Art. 25
-
-<sup>21</sup>
 
 <sup>1</sup> Der Voranschlag des Staates muss einen Ertragsüberschuss und einen Finanzierungsüberschuss ausweisen, die für eine harmonische Entwicklung des Kantons notwendigen Investitionen und Investitionsbeteiligungen Dritter sicherstellen sowie die Tilgung eines allfälligen Bilanzfehlbetrages und der Schuld gewährleisten.
 
@@ -208,7 +198,7 @@ Die Staats- und Gemeindesteuern werden durch die Gesetzgebung festgesetzt unter 
 
 <sup>5</sup> Die Gesetzgebung regelt die Anwendung der in diesem Artikel aufgestellten Grundsätze. Sie kann Ausnahmen vorsehen aufgrund der wirtschaftlichen Konjunktur oder im Falle von Naturkatastrophen oder anderen ausserordentlichen Ereignissen.
 
-### 2. Titel: Einteilung des Kantons
+## 2 Einteilung des Kantons
 
 #### Art. 26
 
@@ -226,101 +216,89 @@ Die Staats- und Gemeindesteuern werden durch die Gesetzgebung festgesetzt unter 
 
 <sup>2</sup> Wenn wichtige Umstände es erfordern, können diese Behörden anderswo tagen.
 
-<sup>3</sup> Das Dekret vom 1. Dezember 1882 bestimmt die Leistungen des Hauptortes.
+<sup>3</sup> Das Gesetz vom 1. Dezember 1882 bestimmt die Leistungen des Hauptortes.
 
 <sup>4</sup> Bei Errichtung von kantonalen Anstalten soll billige Rücksicht auf die verschiedenen Landesteile genommen werden.
 
 <sup>5</sup> Die Gemeinde, welche als Sitz einer kantonalen Anstalt bezeichnet wird, kann zu gewissen Leistungen oder Beiträgen gehalten werden.
 
-### 3. Titel: Politischer Stand der Bürger
+## 3 Politischer Stand der Bürger
 
 #### Art. 28
 
-<sup>24</sup>
-
 <sup>1</sup> Walliser sind:
 
-- 1\. die einer Gemeinde des Kantons auf Grund der Geburt angehörenden Bürger;
+- a) die einer Gemeinde des Kantons auf Grund der Geburt angehörenden Bürger;
+- b) diejenigen, welchen die Einbürgerung gemäss der kantonalen Gesetzgebung gewährt worden ist.
 
-- 2\. diejenigen, welchen die Einbürgerung gemäss der kantonalen Gesetzgebung gewährt worden ist.
+<sup>2</sup> …
 
-Absätze 2 bis 4 aufgehoben
+<sup>3</sup> …
+
+<sup>4</sup> …
 
 #### Art. 29
 
-<sup>24</sup>
+<sup>1</sup> Jeder Kantonsbürger kann unter den vom Gesetz festgelegten Bedingungen in anderen Einwohnergemeinden das Bürgerrecht erwerben.
 
-Jeder Kantonsbürger kann unter den vom Gesetz festgelegten Bedingungen in anderen Einwohnergemeinden das Bürgerrecht erwerben.
-
-### 4. Titel: Ausübung der Volksrechte
+## 4 Ausübung der Volksrechte
 
 #### Art. 30
 
-<sup>16</sup>
-
 <sup>1</sup> Nebst ihren Befugnissen bei Wahlen und Abstimmungen sowie beim obligatorischen Verfassungsreferendum besitzen die Bürger das Initiativ- und das fakultative Referendumsrecht.
+
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
 
 <sup>2</sup> Das Gesetz regelt die Ausübung dieser Rechte sowie das Verfahren der Vernehmlassung und der Information der Bürger.
 
-### 1. Kapitel: Referendumsrecht
+### 4.1 Referendumsrecht
 
 #### Art. 31
 
-<sup>16</sup>
-
 <sup>1</sup> Dreitausend Stimmberechtigte können innert neunzig Tagen ab deren Veröffentlichung im Amtsblatt verlangen, dass der Volksabstimmung unterbreitet werden:
 
-- 1\. die Gesetze und Dekrete;
-
-- 2\. die Konkordate, Verträge und Vereinbarungen, die Rechtsnormen enthalten;
-
-- 3\. die Beschlüsse des Grossen Rates, welche eine ausserordentliche Ausgabe zur Folge haben, die als einmalige 0,75% oder als wiederkehrende Ausgabe 0,25% der Bruttogesamtausgaben der Verwaltungs- und Investitionsrechnung des letzten Verwaltungsjahres übersteigt.
+- a) die Gesetze und Dekrete;
+- b) die Konkordate, Verträge und Vereinbarungen, die Rechtsnormen enthalten;
+- c) die Beschlüsse des Grossen Rates, welche eine ausserordentliche Ausgabe zur Folge haben, die als einmalige 0.75 Prozent oder als wiederkehrende Ausgabe 0.25 Prozent der Bruttogesamtausgaben der Verwaltungs- und Investitionsrechnung des letzten Verwaltungsjahres übersteigt.
 
 <sup>2</sup> Das Referendum kann auch von der Mehrheit des Grossen Rates verlangt werden.
 
 <sup>3</sup> Nicht der Volksabstimmung unterliegen:
 
-- 1\. die Ausführungsgesetze (Art. 42 Abs. 2);
-
-- 2\. die ordentlichen Ausgaben und die übrigen Beschlüsse.
+- a) die Ausführungsgesetze (Art. 42 Abs. 2);
+- b) die ordentlichen Ausgaben und die übrigen Beschlüsse.
 
 <sup>4</sup> Der Grosse Rat stellt die Ungültigkeit von Referenden fest, welche die von Verfassung und Gesetz gestellten Bedingungen nicht erfüllen.
 
 #### Art. 32
 
-<sup>16</sup>
-
 <sup>1</sup> Die Gesetze, Verträge, Konkordate, Vereinbarungen oder Beschlüsse, die dem Referendum unterstellt sind, dürfen weder vor Ablauf der Referendumsfrist noch, gegebenenfalls, vor der Volksabstimmung in Kraft gesetzt werden.
 
 <sup>2</sup> Die Dekrete werden sofort in Kraft gesetzt. Falls dreitausend Stimmberechtigte oder die Mehrheit des Grossen Rates es verlangen, sind sie im folgenden Jahr dem Volk zur Abstimmung zu unterbreiten. Werden sie nicht genehmigt, verlieren sie ihre Gültigkeit und können nicht mehr erneuert werden.
 
-### 2. Kapitel: Initiativrecht
+### 4.2 Initiativrecht
 
 #### Art. 33
 
-<sup>16</sup>
-
 <sup>1</sup> Viertausend Stimmberechtigte können die Ausarbeitung, die Annahme, die Abänderung oder die Aufhebung eines dem Referendum unterliegenden Gesetzes, Dekretes oder anderen Beschlusses verlangen, mit Ausnahme der Gesetze, Dekrete und Beschlüsse, über die das Volk seit weniger als vier Jahren abgestimmt hat, der bereits ausgeführten Beschlüsse und der Dekrete mit einer Gültigkeit unter einem Jahr.
 
-<sup>2</sup> Mit Ausnahme der in den Artikeln 34, Absatz 2 und 35, Absatz 1 genannten Fälle ist jede Volksinitiative innert drei Jahren nach deren Einreichung dem Volk zur Abstimmung zu unterbreiten. Diese Frist kann durch einen Beschluss des Grossen Rates höchstens um ein Jahr verlängert werden.
+<sup>2</sup> Mit Ausnahme der in den Artikeln 34 Absatz 2 und 35 Absatz 1 genannten Fälle ist jede Volksinitiative innert drei Jahren nach deren Einreichung dem Volk zur Abstimmung zu unterbreiten. Diese Frist kann durch einen Beschluss des Grossen Rates höchstens um ein Jahr verlängert werden.
 
 <sup>3</sup> Der Grosse Rat stellt die Ungültigkeit einer Initiative fest, die:
 
-- 1\. dem Bundesrecht oder der Kantonsverfassung widerspricht;
-
-- 2\. mehr als eine Materie beinhaltet;
-
-- 3\. die Einheit der Form nicht beachtet;
-
-- 4\. nicht ausführbar ist;
-
-- 5\. nicht in den Bereich eines der Initiative unterliegenden Erlasses fällt.
+- a) dem Bundesrecht oder der Kantonsverfassung widerspricht;
+- b) mehr als eine Materie beinhaltet;
+- c) die Einheit der Form nicht beachtet;
+- d) nicht ausführbar ist;
+- e) nicht in den Bereich eines der Initiative unterliegenden Erlasses fällt.
 
 <sup>4</sup> Wenn ein Initiativbegehren neue Staatsausgaben oder die Aufhebung bestehender Einnahmen zur Folge hat, welche das finanzielle Gleichgewicht gefährden, so wird der Grosse Rat die Initiative ergänzen, indem er neue Einnahmequellen, den Abbau staatlicher Aufgaben oder andere Sparmassnahmen vorschlägt.
 
 #### Art. 34
-
-<sup>16</sup>
 
 <sup>1</sup> Die Initiative kann, sofern sie nicht auf einen Beschluss abzielt, in der Form des ausgearbeiteten Entwurfes eingereicht werden.
 
@@ -331,14 +309,10 @@ Jeder Kantonsbürger kann unter den vom Gesetz festgelegten Bedingungen in ander
 <sup>4</sup> Nimmt der Grosse Rat einen Gegenentwurf an, werden die Stimmberechtigten eingeladen, sich auf dem gleichen Stimmzettel über folgende drei Fragen auszusprechen:
 
 - a) Wollen Sie die Volksinitiative annehmen?
-
 - b) Wollen Sie den Gegenentwurf annehmen?
-
 - c) Falls beide Vorlagen die Mehrheit der gültig Stimmenden erhalten, soll die Initiative oder der Gegenentwurf in Kraft treten?
 
 #### Art. 35
-
-<sup>16</sup>
 
 <sup>1</sup> Der Initiative in Form der allgemeinen Anregung wird vom Grossen Rat Folge gegeben, indem er entscheidet, ob die von ihm angenommenen oder abgeänderten Bestimmungen in die Verfassung oder in einen Gesetzes- oder Verwaltungserlass aufzunehmen sind; wird die Initiative in einem Gesetz oder einem Verwaltungserlass verwirklicht, unterliegt sie nur dann der Volksabstimmung, wenn dreitausend Stimmberechtigte oder die Mehrheit des Grossen Rates es verlangen.
 
@@ -350,25 +324,21 @@ Jeder Kantonsbürger kann unter den vom Gesetz festgelegten Bedingungen in ander
 
 <sup>5</sup> Bei der Ausarbeitung der von der Initiative in Form der allgemeinen Anregung verlangten Bestimmungen hat der Grosse Rat den Absichten der Initianten zu entsprechen.
 
-### 5. Titel: Öffentliche Gewalt
+## 5 Öffentliche Gewalt
 
 #### Art. 36
 
-Die öffentlichen Gewalten sind:
+<sup>1</sup> Die öffentlichen Gewalten sind:
 
-Die gesetzgebende Gewalt;
+- a) die gesetzgebende Gewalt;
+- b) die vollziehende und verwaltende Gewalt;
+- c) die richterliche Gewalt.
 
-Die vollziehende und verwaltende Gewalt;
+### 5.1 Gesetzgebende Gewalt
 
-Die richterliche Gewalt.
-
-### 1. Kapitel: Gesetzgebende Gewalt
-
-### A. Befugnisse
+### 5.1.1 Befugnisse
 
 #### Art. 37
-
-<sup>16</sup>
 
 <sup>1</sup> Unter Vorbehalt der dem Volk eingeräumten Rechte wird die gesetzgebende Gewalt vom Grossen Rat ausgeübt.
 
@@ -376,25 +346,19 @@ Die richterliche Gewalt.
 
 #### Art. 38
 
-<sup>16</sup>
-
 <sup>1</sup> Der Grosse Rat arbeitet die Verfassungsbestimmungen, die Gesetze und die Dekrete aus. Vorbehalten bleiben die Artikel 31 bis 35 und 100 bis 106.
 
 <sup>2</sup> Unter Vorbehalt der Befugnisse des Volkes und Staatsrates genehmigt er die Verträge, Konkordate und Konventionen.
 
-<sup>3</sup> Er übt die Rechte aus, die den Kantonen in den Artikeln 86, 89, 89bis und 93 der Bundesverfassung vorbehalten sind und beantwortet die Vernehmlassungen des Bundes über atomare Einrichtungen.
+<sup>3</sup> Er übt die Rechte aus, die den Kantonen in den Artikeln 86, 89, 89<sup>bis</sup> und 93 der Bundesverfassung vorbehalten sind und beantwortet die Vernehmlassungen des Bundes über atomare Einrichtungen.
 
 #### Art. 39
 
-<sup>16</sup>
-
 <sup>1</sup> Der Grosse Rat entscheidet über die Gültigkeit der Wahl seiner Mitglieder.
 
-<sup>2</sup> Er wählt das Kantonsgericht, dessen Präsidenten und Vizepräsidenten sowie die Staatsanwaltschaft.
+<sup>2</sup> Er wählt das Kantonsgericht, dessen Präsidenten und Vizepräsidenten sowie die Mitglieder des Büros des Staatsanwaltschaft.
 
 #### Art. 40
-
-<sup>16</sup>
 
 <sup>1</sup> Der Grosse Rat hat die Oberaufsicht über die Geschäftsführung des Staatsrates, der autonomen Körperschaften und Anstalten des öffentlichen Rechts, der Gerichtsbehörden sowie über die Vertreter des Staates in den Gesellschaften, an denen der Kanton eine Mehrheitsbeteiligung besitzt. Er prüft die Geschäftsführung und berät über deren Genehmigung.
 
@@ -404,23 +368,15 @@ Die richterliche Gewalt.
 
 #### Art. 41
 
-<sup>16</sup>
+<sup>1</sup> Der Grosse Rat hat namentlich folgende Befugnisse:
 
-Der Grosse Rat hat namentlich folgende Befugnisse:
-
-- 1\. Er beschliesst den Voranschlag und genehmigt die Rechnung, die veröffentlicht werden.
-
-- 2\. Er beteiligt sich im Rahmen des Gesetzes an der Planung.
-
-- 3\. Er beschliesst die ausserordentlichen Ausgaben, bewilligt die Konzessionen und erteilt die Ermächtigung zu Liegenschaftstransaktionen, zur Aufnahme von Darlehen sowie zu Bürgschaften und anderen analogen Garantien unter Vorbehalt der in der Verfassung oder im Gesetz vorgesehenen Ausnahmen.
-
-- 4\. Er setzt die Gehälter der Magistraten, Beamten und Angestellten des Staates fest unter Vorbehalt der im Gesetz vorgesehenen Ausnahmen.
-
-- 5\. Er übt das Begnadigungsrecht aus.
+- a) er beschliesst den Voranschlag und genehmigt die Rechnung, die veröffentlicht werden.
+- b) er beteiligt sich im Rahmen des Gesetzes an der Planung.
+- c) er beschliesst die ausserordentlichen Ausgaben, bewilligt die Konzessionen und erteilt die Ermächtigung zu Liegenschaftstransaktionen, zur Aufnahme von Darlehen sowie zu Bürgschaften und anderen analogen Garantien unter Vorbehalt der in der Verfassung oder im Gesetz vorgesehenen Ausnahmen.
+- d) er setzt die Gehälter der Magistraten, Beamten und Angestellten des Staates fest unter Vorbehalt der im Gesetz vorgesehenen Ausnahmen.
+- e) er übt das Begnadigungsrecht aus.
 
 #### Art. 42
-
-<sup>16</sup>
 
 <sup>1</sup> Der Grosse Rat erlässt die Rechtsnormen in Form des Gesetzes, das grundsätzlich für eine unbegrenzte Dauer in Kraft gesetzt wird. Er kann indessen auch eine Inkraftsetzung mit begrenzter Dauer vorsehen.
 
@@ -430,11 +386,9 @@ Der Grosse Rat hat namentlich folgende Befugnisse:
 
 <sup>4</sup> Der Grosse Rat behandelt alle übrigen Geschäfte in Form von Beschlüssen.
 
-### B. Organisation
+### 5.1.2 Organisation
 
 #### Art. 43
-
-<sup>16</sup>
 
 <sup>1</sup> Das Gesetz legt die Grundzüge der Organisation des Grossen Rates sowie seiner Beziehungen zum Staatsrat und zu den Gerichtsbehörden fest. Im übrigen organisiert sich der Grosse Rat selbst.
 
@@ -442,33 +396,37 @@ Der Grosse Rat hat namentlich folgende Befugnisse:
 
 #### Art. 44
 
-<sup>16,20</sup>
-
 <sup>1</sup> Der Grosse Rat versammelt sich von Rechts wegen:
 
-- 1\. zur konstituierenden Session am vierten Montag nach seiner Gesamterneuerung;
-
-- 2\. zu den ordentlichen Sessionen gemäss den im Gesetz festgelegten Terminen.
+- a) zur konstituierenden Session am siebten Montag nach seiner Gesamterneuerung;
+- b) zu den ordentlichen Sessionen gemäss den im Gesetz festgelegten Terminen.
+- c) …
+- d) …
+- e) …
+- f) …
+- g) …
+- h) …
+- i) …
+- j) …
+- k) …
+- l) …
+- m) …
+- n) …
+- o) …
 
 <sup>2</sup> Der Grosse Rat versammelt sich zu ausserordentlichen Sessionen:
 
-- 1\. wenn er es selber beschliesst;
-
-- 2\. auf Einladung des Staatsrates;
-
-- 3\. auf Begehren von zwanzig Abgeordneten unter Angabe der zu behandelnden Gegenstände.
+- a) wenn er es selber beschliesst;
+- b) auf Einladung des Staatsrates;
+- c) auf Begehren von zwanzig Abgeordneten unter Angabe der zu behandelnden Gegenstände.
 
 #### Art. 45
-
-<sup>16,20</sup>
 
 <sup>1</sup> Der Grosse Rat wählt für die Dauer eines Jahres einen Präsidenten und zwei Vizepräsidenten.
 
 <sup>2</sup> Der Grosse Rat verfügt über einen unabhängigen Parlamentsdienst.
 
 #### Art. 46
-
-<sup>16</sup>
 
 <sup>1</sup> Der Grosse Rat bezeichnet die ständigen und nicht ständigen Kommissionen, welche seine Beratungen vorbereiten. Diese Befugnis kann an das Büro delegiert werden.
 
@@ -478,15 +436,11 @@ Der Grosse Rat hat namentlich folgende Befugnisse:
 
 #### Art. 47
 
-<sup>16</sup>
-
 <sup>1</sup> Der Grosse Rat kann nur in Anwesenheit der absoluten Mehrheit seiner Mitglieder gültig beraten.
 
 <sup>2</sup> Er fasst seine Beschlüsse mit der absoluten Mehrheit.
 
 #### Art. 48
-
-<sup>16</sup>
 
 <sup>1</sup> Die Sitzungen des Grossen Rates sind öffentlich.
 
@@ -494,19 +448,15 @@ Der Grosse Rat hat namentlich folgende Befugnisse:
 
 #### Art. 49
 
-<sup>16,20</sup>
-
 <sup>1</sup> Gesetzes- und Dekretsentwürfe werden in zwei Lesungen durchberaten.
 
 <sup>2</sup> Die Beschlüsse bilden Gegenstand einer einzigen Lesung.
 
 <sup>3</sup> Der Grosse Rat kann in allen Fällen eine einzige oder eine zusätzliche Lesung beschliessen.
 
-### C. Rechte der Abgeordneten
+### 5.1.3 Rechte der Abgeordneten
 
 #### Art. 50
-
-<sup>16</sup>
 
 <sup>1</sup> Die Abgeordneten üben ihr Mandat frei aus.
 
@@ -516,19 +466,15 @@ Der Grosse Rat hat namentlich folgende Befugnisse:
 
 #### Art. 51
 
-<sup>16</sup>
-
 <sup>1</sup> Jedem Mitglied des Grossen Rates steht das Recht auf Einreichung einer Initiative, einer Motion, eines Postulates, einer Interpellation, einer Resolution und einer einfachen Anfrage zu.
 
 <sup>2</sup> Das Gesetz umschreibt inhaltlich diese Rechte und regelt ihre Ausübung.
 
-### 2. Kapitel: Vollziehende Gewalt
+### 5.2 Vollziehende Gewalt
 
-### A. Wahl
+### 5.2.1 Wahl
 
 #### Art. 52
-
-<sup>3,18</sup>
 
 <sup>1</sup> Die Vollziehungs- und Verwaltungsgewalt ist einem aus fünf Mitgliedern gebildeten Staatsrate anvertraut.
 
@@ -538,9 +484,9 @@ Der Grosse Rat hat namentlich folgende Befugnisse:
 
 <sup>4</sup> Die Mitglieder des Staatsrates werden am gleichen Tage wie die Mitglieder des Grossen Rates direkt vom Volke gewählt und treten ihr Amt am darauffolgenden ersten Mai an. Ihre Wahl erfolgt nach dem Mehrheitssystem. Der Staatsrat konstituiert sich alljährlich selbst. Der ausscheidende Präsident ist nicht unmittelbar wieder wählbar.
 
-<sup>5</sup> Die frei gewordene Stelle eines Staatsrates ist nach 60 Tagen wieder zu besetzen, insofern die Gesamterneuerung nicht innert vier Monaten erfolgt.
+<sup>5</sup> Die frei gewordene Stelle eines Staatsrates ist nach sechzig Tagen wieder zu besetzen, insofern die Gesamterneuerung nicht innert vier Monaten erfolgt.
 
-<sup>6</sup> Die Wahl der Mitglieder des Staatsrates findet mittels des gleichen Listenskrutiniums statt. Werden die Wahlverhandlungen am bestimmten Tage nicht vollendet, so sind dieselben am darauffolgenden zweiten Sonntag wieder aufzunehmen. In diesem Falle wird das Ergebnis des ersten Wahlganges und die Wiederaufnahme der Wahlverhandlungen unverzüglich bekannt gegeben.
+<sup>6</sup> Die Wahl der Mitglieder des Staatsrates findet mittels des gleichen Listen- skrutiniums statt. Werden die Wahlverhandlungen am bestimmten Tage nicht vollendet, so sind dieselben am darauffolgenden dritten Sonntag wieder aufzunehmen. In diesem Falle wird das Ergebnis des ersten Wahlganges und die Wiederaufnahme der Wahlverhandlungen unverzüglich bekannt gegeben.
 
 <sup>7</sup> Hat sich im ersten Wahlgange die absolute Mehrheit nicht auf soviele Personen vereinigt, als zu wählen sind, so findet ein zweiter Wahlgang statt. In diesem zweiten Wahlgang gelten diejenigen als gewählt, welche die meisten Stimmen und wäre es auch nicht die absolute Mehrheit derselben, erhalten haben. Wenn jedoch im zweiten Wahlgang die Zahl der zu besetzenden Sitze jener der vorgeschlagenen Kandidaten entspricht, werden diese ohne Urnengang als gewählt erklärt. Die stille Wahl findet ebenfalls auf den ersten Wahlgang bei Ersatzwahlen Anwendung, sofern nur ein einziger Kandidat auftritt und nur ein Sitz wieder zu besetzen ist.
 
@@ -550,11 +496,9 @@ Der Grosse Rat hat namentlich folgende Befugnisse:
 
 <sup>10</sup> Bei Stimmengleichheit entscheidet das Los.
 
-### B. Organisation und Befugnisse
+### 5.2.2 Organisation und Befugnisse
 
 #### Art. 53
-
-<sup>16</sup>
 
 <sup>1</sup> Der Staatsrat übt die vollziehende und verwaltende Gewalt aus und besitzt jede Befugnis, die ihm durch Verfassung oder Gesetz erteilt wird.
 
@@ -568,45 +512,30 @@ Der Grosse Rat hat namentlich folgende Befugnisse:
 
 #### Art. 54
 
-<sup>16</sup>
+<sup>1</sup> In seinen Beziehungen zum Grossen Rat verfügt der Staatsrat namentlich über folgende Befugnisse:
 
-In seinen Beziehungen zum Grossen Rat verfügt der Staatsrat namentlich über folgende Befugnisse:
-
-- 1\. Er legt die Verfassungs-, Gesetzes-, Dekrets- und Beschlussentwürfe vor.
-
-- 2\. Er erstattet Bericht über die Volksinitiativen, die Initiativen, Motionen, Postulate und Resolutionen der Abgeordneten und antwortet auf ihre Interpellationen und Anfragen.
-
-- 3\. Er unterbreitet dem Grossen Rat den Entwurf des Voranschlages, die Staatsrechnung und den Verwaltungsbericht.
-
-- 4\. Er kann dem Grossen Rat Vorschläge unterbreiten.
-
-- 5\. Er unterbreitet dem Grossen Rat die Konkordats-, Vertrags- und Vereinbarungsentwürfe, die Rechtsnormen enthalten oder die in seine Zuständigkeit fallende Ausgaben zur Folge haben.
+- a) er legt die Verfassungs-, Gesetzes-, Dekrets- und Beschlussentwürfe vor;
+- b) er erstattet Bericht über die Volksinitiativen, die Initiativen, Motionen, Postulate und Resolutionen der Abgeordneten und antwortet auf ihre Interpellationen und Anfragen;
+- c) er unterbreitet dem Grossen Rat den Entwurf des Voranschlages, die Staatsrechnung und den Verwaltungsbericht;
+- d) er kann dem Grossen Rat Vorschläge unterbreiten;
+- e) er unterbreitet dem Grossen Rat die Konkordats-, Vertrags- und Vereinbarungsentwürfe, die Rechtsnormen enthalten oder die in seine Zuständigkeit fallende Ausgaben zur Folge haben.
 
 #### Art. 55
 
-<sup>16</sup>
+<sup>1</sup> Der Staatsrat übt namentlich folgende Verwaltungsbefugnisse aus:
 
-Der Staatsrat übt namentlich folgende Verwaltungsbefugnisse aus:
-
-- 1\. Er ernennt das Staatspersonal unter Vorbehalt der im Gesetz vorgesehenen Ausnahmen.
-
-- 2\. Er überwacht die ihm unterstellten Behörden sowie die öffentlich-rechtlichen Körperschaften und Anstalten.
-
-- 3\. Er vertritt den Staat, schliesst die Verträge, Konkordate und Vereinbarungen öffentlichen Rechts ab und antwortet auf die vom Kanton verlangten Vernehmlassungen.
-
-- 4\. Er leitet die Verwaltung, plant und koordiniert ihre Tätigkeiten.
+- a) er ernennt das Staatspersonal unter Vorbehalt der im Gesetz vorgesehenen Ausnahmen;
+- b) er überwacht die ihm unterstellten Behörden sowie die öffentlich-rechtlichen Körperschaften und Anstalten;
+- c) er vertritt den Staat, schliesst die Verträge, Konkordate und Vereinbarungen öffentlichen Rechts ab und antwortet auf die vom Kanton verlangten Vernehmlassungen;
+- d) er leitet die Verwaltung, plant und koordiniert ihre Tätigkeiten.
 
 #### Art. 56
 
-<sup>16</sup>
-
 <sup>1</sup> Der Staatsrat gewährleistet die öffentliche Ordnung und verfügt zu diesem Zweck über die Polizei und die kantonalen Truppen.
 
-<sup>2</sup> Er übt im Falle grosser und unmittelbar bevorstehender Gefahr die ausserordentliche Gewalt aus und benachrichtigt unverzüglich den Grossen Rat über die Massnahmen, die er trifft.
+<sup>2</sup> Er übt im Falle grosser und unmittelbar bevorstehender Gefahr die ausser- ordentliche Gewalt aus und benachrichtigt unverzüglich den Grossen Rat über die Massnahmen, die er trifft.
 
 #### Art. 57
-
-<sup>16</sup>
 
 <sup>1</sup> Der Staatsrat erlässt in Reglementsform die zur Anwendung kantonaler Gesetze und Dekrete notwendigen Bestimmungen.
 
@@ -616,35 +545,29 @@ Der Staatsrat übt namentlich folgende Verwaltungsbefugnisse aus:
 
 #### Art. 58
 
-<sup>16</sup>
-
 <sup>1</sup> Der Staatsrat veröffentlicht die Rechtsnormen und setzt sie in Kraft, es sei denn, der Grosse Rat beschliesst darüber selber und sorgt für ihre Anwendung.
 
 <sup>2</sup> Er setzt die direkt anwendbaren Verfassungsbestimmungen unmittelbar nach ihrer Genehmigung durch die Bundesversammlung in Kraft.
 
 #### Art. 59
 
-<sup>16</sup>
-
 <sup>1</sup> Die Regierung hat in jedem Bezirk einen Regierungsstatthalter und einen Stellvertreter desselben.
 
 <sup>2</sup> Die Befugnisse des Regierungsstatthalters sind durch das Gesetz bestimmt.
 
-### 3. Kapitel: Richterliche Gewalt
+### 5.3 Richterliche Gewalt
 
 #### Art. 60
 
-<sup>17</sup>
-
 <sup>1</sup> Die richterliche Gewalt ist unabhängig.
 
-<sup>2</sup> Aufgehoben.
+<sup>2</sup> …
 
-<sup>3</sup> Aufgehoben.
+<sup>3</sup> …
 
 #### Art. 61
 
-Das Kantonsgericht erstattet alljährlich dem Grossen Rate durch das Organ des Staatsrates Bericht über alle Zweige der Justizverwaltung.
+<sup>1</sup> Das Kantonsgericht erstattet alljährlich dem Grossen Rate durch das Organ des Staatsrates Bericht über alle Zweige der Justizverwaltung.
 
 #### Art. 62
 
@@ -666,7 +589,7 @@ Das Kantonsgericht erstattet alljährlich dem Grossen Rate durch das Organ des S
 
 #### Art. 64
 
-Der Gesetzgebung bleibt es vorbehalten, ein Handelsgericht und ein oder mehrere gewerbliche Schiedsgerichte einzuführen.
+<sup>1</sup> Der Gesetzgebung bleibt es vorbehalten, ein Handelsgericht und ein oder mehrere gewerbliche Schiedsgerichte einzuführen.
 
 #### Art. 65
 
@@ -674,9 +597,26 @@ Der Gesetzgebung bleibt es vorbehalten, ein Handelsgericht und ein oder mehrere 
 
 <sup>2</sup> Diese Gerichte werden durch eigene Gesetze organisiert.
 
-### 6. Titel: Bezirks- und Gemeindeverwaltung
+#### Art. 65a
 
-### 1. Kapitel: Bezirksrat
+<sup>1</sup> Der Justizrat ist eine unabhängige Justizaufsichtsbehörde.
+
+<sup>2</sup> Er übt über die kantonalen Gerichtsbehörden und die Magistraten der Staatsanwaltschaft die administrative und disziplinarische Aufsicht aus. Die ausschliessliche Kompetenz des Grossen Rates, die von ihm gewählten Magistraten aus wichtigen Gründen ihres Amtes zu entheben, bleibt vorbehalten.
+
+<sup>3</sup> Er ist der Oberaufsicht des Grossen Rates unterstellt.
+
+<sup>4</sup> Der Grosse Rat wählt die Mitglieder des Justizrates, die nicht vom Gesetz bestimmt werden.
+
+<sup>5</sup> Ausserdem legt das Gesetz Folgendes fest:
+
+- a) die Zusammensetzung, die Ernennungsweise und die Organisation des Justizrates;
+- b) den Rechtsmittelweg gegen die Entscheide des Justizrates;
+- c) die Beziehungen zwischen dem Justizrat und dem Grossen Rat, dem Kantonsgericht und der Staatsanwaltschaft;
+- d) die Mitarbeit des Justizrates bei den richterlichen Wahlen.
+
+## 6 Bezirks- und Gemeindeverwaltung
+
+### 6.1 Bezirksrat
 
 #### Art. 66
 
@@ -700,21 +640,17 @@ Der Gesetzgebung bleibt es vorbehalten, ein Handelsgericht und ein oder mehrere 
 
 #### Art. 68
 
-Das Gesetz bestimmt die Organisation und die weiteren Amtsbefugnisse dieses Rates.
+<sup>1</sup> Das Gesetz bestimmt die Organisation und die weiteren Amtsbefugnisse dieses Rates.
 
-### 2. Kapitel: Gemeindeordnung
+### 6.2 Gemeindeordnung
 
-### A. Allgemeine Bestimmungen
+### 6.2.1 Allgemeine Bestimmungen
 
 #### Art. 69
 
-<sup>11</sup>
-
-Die Gemeinden ordnen innerhalb der Schranken der Verfassung und der Gesetze ihre Angelegenheiten selbständig. Sie sind für die Aufgaben zuständig, die örtlicher Natur sind und jene, die sie allein oder zusammen mit anderen Gemeinden lösen können.
+<sup>1</sup> Die Gemeinden ordnen innerhalb der Schranken der Verfassung und der Gesetze ihre Angelegenheiten selbständig. Sie sind für die Aufgaben zuständig, die örtlicher Natur sind und jene, die sie allein oder zusammen mit anderen Gemeinden lösen können.
 
 #### Art. 70
-
-<sup>11</sup>
 
 <sup>1</sup> Die Gemeinden üben ihre Tätigkeit so aus, dass sie mit dem Gemeinwohl und dem Interesse der übrigen Gemeinwesen vereinbar ist.
 
@@ -724,29 +660,22 @@ Die Gemeinden ordnen innerhalb der Schranken der Verfassung und der Gesetze ihre
 
 #### Art. 71
 
-<sup>11</sup>
-
 <sup>1</sup> Die Gemeinden können sich zur gemeinsamen Lösung öffentlicher Aufgaben zusammenschliessen. Sie bilden zu diesem Zwecke öffentlich-rechtliche mit Rechtspersönlichkeit ausgestattete Verbände. Die Gemeinden können auch auf jede andere Art zusammenarbeiten. Die Grundsätze bezüglich dieser Zusammenarbeit, sowie der Gründung und der Tätigkeit dieser Gemeindeverbände werden durch das Gesetz bestimmt.
 
 <sup>2</sup> Der Staatsrat kann unter gewissen vom Gesetz zu bezeichneten Bedingungen Gemeinden zwingen, zusammenzuarbeiten oder sich zu öffentlich-rechtlichen Verbänden zusammenzuschliessen.
 
 #### Art. 72
 
-<sup>11</sup>
-
 <sup>1</sup> In jeder Gemeinde bestehen folgende Organe:
 
-- 1\. eine Versammlung der in der Gemeinde stimmberechtigten Bürger;
-
-- 2\. ein Gemeinderat, der von der Gemeindeversammlung gewählt wird.
+- a) eine Versammlung der in der Gemeinde stimmberechtigten Bürger;
+- b) ein Gemeinderat, der von der Gemeindeversammlung gewählt wird.
 
 <sup>2</sup> Die Gemeindeversammlung wählt aus der Mitte der Gemeinderäte einen Präsidenten und einen Vize-Präsidenten.
 
 <sup>3</sup> Im weiteren bestimmt das Gesetz die Grundsätze der Gemeindeorganisation.
 
 #### Art. 73
-
-<sup>11</sup>
 
 <sup>1</sup> Die Gemeindeversammlung kann, sofern die Gemeinde über 700 Einwohner zählt, einen Generalrat wählen, dessen Organisation und Befugnisse vom Gesetz bestimmt werden.
 
@@ -756,15 +685,11 @@ Die Gemeinden ordnen innerhalb der Schranken der Verfassung und der Gesetze ihre
 
 #### Art. 74
 
-<sup>11</sup>
-
 <sup>1</sup> Die Gemeinden sind berechtigt, das Initiativrecht einzuführen. In den Gemeinden, die dieses Recht besitzen, können die Bürger an den Gemeinderat Initiativbegehren stellen in Form einer allgemeinen Anregung über den Erlass oder die Abänderung von Reglementen, die in die Zuständigkeit der Gemeindeversammlung fallen.
 
 <sup>2</sup> Das Gesetz regelt die Einführung und die Ausübung dieses Rechtes.
 
 #### Art. 75
-
-<sup>11,22</sup>
 
 <sup>1</sup> Die Gemeinden sind innerhalb der Schranken des Artikels 69 der Aufsicht des Staatsrates unterstellt. Das Gesetz bestimmt die Art und Weise dieser Aufsicht, insbesondere was die Verwaltung betrifft. Sofern die Verfassung und die Gesetze nicht ausdrücklich etwas gegenteiliges vorsehen, beschränkt sich die Überprüfungsbefugnis des Staatsrates auf die Gesetzmässigkeit.
 
@@ -776,21 +701,15 @@ Die Gemeinden ordnen innerhalb der Schranken der Verfassung und der Gesetze ihre
 
 #### Art. 76
 
-<sup>11,15</sup>
+<sup>1</sup> Als Gemeinden gelten:
 
-Als Gemeinden gelten:
+- a) die Einwohnergemeinden;
+- b) die Burgergemeinden.
+- c) …
 
-- 1\. die Einwohnergemeinden;
-
-- 2\. die Burgergemeinden.
-
-- 3\. Aufgehoben.
-
-### B. Einwohnergemeinden
+### 6.2.2 Einwohnergemeinden
 
 #### Art. 77
-
-<sup>11</sup>
 
 <sup>1</sup> Die Einwohnergemeinde besteht aus den auf dem Gemeindegebiet wohnsässigen Personen.
 
@@ -798,21 +717,16 @@ Als Gemeinden gelten:
 
 #### Art. 78
 
-<sup>11,22</sup>
-
 <sup>1</sup> Die Urversammlung setzt sich zusammen aus den in der Gemeinde stimmberechtigten Einwohnern.
 
-<sup>2</sup> Sie wählt einen Gemeinderat von 3 bis 15 Mitgliedern, den Präsidenten und Vize-Präsidenten und gegebenenfalls den Generalrat.
+<sup>2</sup> Sie wählt einen Gemeinderat von drei bis fünfzehn Mitgliedern, den Präsidenten und Vize-Präsidenten und gegebenenfalls den Generalrat.
 
 <sup>3</sup> In den Gemeinden ohne Generalrat entscheidet die Urversammlung insbesondere über:
 
-- 1\. die Gemeindereglemente, ausser in den durch das Gesetz bestimmten Ausnahmen;
-
-- 2\. die wichtigen Vorhaben betreffend Verkauf, Gewährung von beschränkten dinglichen Rechten, Tausch, Verpachtung, Veräusserung von Vermögenswerten, Gewährung von Darlehen, Kreditaufnahmen, Leistung von Bürgschaften, Erteilung und Übertragung von Wasserkraftkonzessionen;
-
-- 3\. die neuen nicht gebundenen Ausgaben, deren Höhe durch das Gesetz festzulegen ist;
-
-- 4\. den Voranschlag und die Rechnung.
+- a) die Gemeindereglemente, ausser in den durch das Gesetz bestimmten Ausnahmen;
+- b) die wichtigen Vorhaben betreffend Verkauf, Gewährung von beschränkten dinglichen Rechten, Tausch, Verpachtung, Veräusserung von Vermögenswerten, Gewährung von Darlehen, Kreditaufnahmen, Leistung von Bürgschaften, Erteilung und Übertragung von Wasserkraftkonzessionen;
+- c) die neuen nicht gebundenen Ausgaben, deren Höhe durch das Gesetz festzulegen ist;
+- d) den Voranschlag und die Rechnung.
 
 <sup>4</sup> In den Gemeinden mit Generalrat tritt dieser an die Stelle der Urversammlung und übt mindestens deren Rechte aus, ausgenommen in Wahlange-legenheiten.
 
@@ -820,35 +734,24 @@ Als Gemeinden gelten:
 
 #### Art. 79
 
-<sup>11,22</sup>
+<sup>1.</sup> Dem Gemeinderat obliegen folgende Aufgaben:
 
-<sup>1</sup> Dem Gemeinderat obliegen folgende Aufgaben:
-
-- 1\. er besorgt die allgemeine Verwaltung der Gemeinde;
-
-- 2\. er entwirft die Gemeindereglemente und sorgt für deren Anwendung;
-
-- 3\. er sorgt für die Vollziehung der kantonalen Gesetzgebung;
-
-- 4\. er ernennt die Angestellten;
-
-- 5\. er erstellt den Entwurf des Voranschlages;
-
-- 6\. er erstellt die Rechnung.
+- a) er besorgt die allgemeine Verwaltung der Gemeinde;
+- b) er entwirft die Gemeindereglemente und sorgt für deren Anwendung;
+- c) er sorgt für die Vollziehung der kantonalen Gesetzgebung;
+- d) er ernennt die Angestellten;
+- e) er erstellt den Entwurf des Voranschlages;
+- f) er erstellt die Rechnung.
 
 <sup>2</sup> In den Gemeinden ohne Burgerrat, übt der Gemeinderat dessen Funktion aus.
 
-### C. Burgergemeinden
+### 6.2.3 Burgergemeinden
 
 #### Art. 80
 
-<sup>11</sup>
-
-Die Burgergemeinde ist eine Körperschaft des öffentlichen Rechtes und hat als solche die ihr von der Gesetzgebung übertragenen Aufgaben im öffentlichen Interesse zu erfüllen.
+<sup>1</sup> Die Burgergemeinde ist eine Körperschaft des öffentlichen Rechtes und hat als solche die ihr von der Gesetzgebung übertragenen Aufgaben im öffentlichen Interesse zu erfüllen.
 
 #### Art. 81
-
-<sup>11</sup>
 
 <sup>1</sup> Die Burgerversammlung besteht aus den Burgern, welche im Gebiet der Burgergemeinde ihren Wohnsitz haben. Die Gesetzgebung kann die Ausübung bestimmter Rechte auf die im Kanton wohnsässigen Burger ausdehnen.
 
@@ -856,33 +759,27 @@ Die Burgergemeinde ist eine Körperschaft des öffentlichen Rechtes und hat als 
 
 #### Art. 82
 
-<sup>11</sup>
-
 <sup>1</sup> Die Burgerversammlung ist berechtigt, die Bildung eines getrennten Burgerrates zu verlangen. Dieses Begehren muss gemäss den gesetzlichen Vorschriften am Ende einer Verwaltungsperiode gestellt werden.
 
 <sup>2</sup> Der Burgerrat besteht aus mindestens drei und höchstens neun Mitgliedern.
 
-### D. Die Kirchgemeinden
+### 6.2.4
 
 #### Art. 83
 
-<sup>15</sup>
+**…**
 
-Aufgehoben.
-
-### 7. Titel: Wahlmodus, Bedingungen der Wahlfähigkeit Dauer
-
-der öffentlichen Ämter
+## 7 Wahlmodus - Bedingungen der Wahlfähigkeit - Dauer der öffentlichen Ämter
 
 #### Art. 84
-
-<sup>1,2,5,13</sup>
 
 <sup>1</sup> Der Grosse Rat setzt sich aus 130, unter die Bezirke zu verteilenden Abgeordneten und ebenso vielen Ersatzmännern zusammen, die direkt vom Volke gewählt werden.
 
 <sup>2</sup> Der Bezirk Raron, der sich aus zwei Halb-Bezirken mit eigenen Organen und Befugnissen zusammensetzt, bildet zwei Wahlkreise.
 
-<sup>3</sup> Die Sitze werden wie folgt unter die Bezirke und Halb-Bezirke verteilt: Die Gesamtzahl der schweizerischen Wohnbevölkerung wird durch 130 geteilt. Der so erhaltene Quotient wird auf die nächsthöhere Zahl aufgerundet und bildet dann die Verteilungszahl. Jeder Bezirk oder Halb-Bezirk erhält sovielmal einen Abgeordneten und einen Ersatzmann zugeteilt, als die Verteilungszahl in der Zahl seiner schweizerischen Wohnbevölkerung enthalten ist. Werden durch diese Verteilung nicht alle Sitze ermittelt, so fallen die verbliebenen Sitze den Bezirken und Halb-Bezirken zu, welche die grössten Zahlenresten aufweisen.
+<sup>3</sup> Die Sitze werden wie folgt unter die Bezirke und Halb-Bezirke verteilt:
+
+Die Gesamtzahl der schweizerischen Wohnbevölkerung wird durch 130 geteilt. Der so erhaltene Quotient wird auf die nächsthöhere Zahl aufgerundet und bildet dann die Verteilungszahl. Jeder Bezirk oder Halb-Bezirk erhält sovielmal einen Abgeordneten und einen Ersatzmann zugeteilt, als die Verteilungszahl in der Zahl seiner schweizerischen Wohnbevölkerung enthalten ist. Werden durch diese Verteilung nicht alle Sitze ermittelt, so fallen die verbliebenen Sitze den Bezirken und Halb-Bezirken zu, welche die grössten Zahlenresten aufweisen.
 
 <sup>4</sup> Der Staatsrat setzt nach jeder Volkszählung die jedem Bezirk und Halb-Bezirk zuzuteilende Anzahl Sitze fest.
 
@@ -890,19 +787,21 @@ der öffentlichen Ämter
 
 <sup>6</sup> Die Wahlen erfolgen bezirks- und halbbezirksweise und zwar nach dem Proportional-Wahlverfahren. Die Anwendungsart dieses Grundsatzes ist durch das Gesetz bestimmt.
 
+<sup>7</sup> …
+
+<sup>8</sup> …
+
 #### Art. 85
 
 <sup>1</sup> Der Grosse Rat, der Staatsrat, die Gerichtsbeamten, die Gemeinderäte und die Burgerräte sind für eine Amtsdauer von vier Jahren gewählt.
 
 <sup>2</sup> Der Präsident und der Vize-Präsident des Staatsrates sind alljährlich einer Neuwahl unterworfen. Der Präsident kann nicht unmittelbar wieder gewählt werden.
 
-#### Art. 85bis
+#### Art. 85a
 
-<sup>3,4,18</sup>
+<sup>1</sup> Die Abgeordneten auf den Ständerat werden bei der ordentlichen Gesamt- erneuerung des Nationalrates direkt vom Volke gewählt. Diese Wahlen erfolgen im ganzen Kanton als einziger Wahlkreis nach dem Mehrheitssystem.
 
-<sup>1</sup> Die Abgeordneten auf den Ständerat werden bei der ordentlichen Gesamterneuerung des Nationalrates direkt vom Volke gewählt. Diese Wahlen erfolgen im ganzen Kanton als einziger Wahlkreis nach dem Mehrheitssystem.
-
-<sup>2</sup> Die Wahl des Ständerates findet mittels des gleichen Listenskrutiniums statt. Werden die Wahlen am bestimmten Tag nicht vollendet, so sind dieselben am darauffolgenden zweiten Sonntag wieder aufzunehmen. In diesem Falle wird das Ergebnis des ersten Wahlganges und die Wiederaufnahme der Wahlverhandlungen unverzüglich bekannt gegeben.
+<sup>2</sup> Die Wahl des Ständerates findet mittels des gleichen Listenskrutiniums statt. Werden die Wahlen am bestimmten Tag nicht vollendet, so sind dieselben am darauffolgenden dritten Sonntag wieder aufzunehmen. In diesem Falle wird das Ergebnis des ersten Wahlganges und die Wiederaufnahme der Wahlverhandlungen unverzüglich bekannt gegeben.
 
 <sup>3</sup> Hat sich im ersten Wahlgang die absolute Mehrheit nicht auf soviele Abgeordnete vereinigt, als zu wählen sind, so findet ein zweiter Wahlgang statt. In diesem zweiten Wahlgang gelten diejenigen als gewählt, welche die meisten Stimmen, und wäre es auch nicht die absolute Mehrheit derselben, erhalten haben. Wenn jedoch im zweiten Wahlgang die Zahl der zu wählenden Abgeordneten jener der vorgeschlagenen Kandidaten entspricht, werden diese ohne Urnengang als gewählt erklärt. Die stille Wahl findet ebenfalls auf den ersten Wahlgang bei Ersatzwahlen Anwendung, sofern nur ein einziger Kandidat auftritt und nur ein Sitz wieder zu besetzen ist.
 
@@ -918,8 +817,6 @@ der öffentlichen Ämter
 
 #### Art. 87
 
-<sup>6,23</sup>
-
 <sup>1</sup> Die Mitglieder des Generalrates werden vom Wahlvolk nach dem Proporzsystem gewählt.
 
 <sup>2</sup> Die Mitglieder des Gemeinde- und Burgerrates werden vom Wahlvolk nach dem Proporzsystem gewählt. In den Burgergemeinden und in den Einwohnergemeinden mit weniger als der im Gesetz festgelegten Einwohnerzahl kann das Wahlvolk mit der Mehrheit seiner Mitglieder unter den im Gesetz bestimmten Voraussetzungen einen Wechsel des Wahlsystems beschliessen. Das Majorzsystem wird in den Burgergemeinden und in den Einwohnergemeinden, welche dieses System im Zeitpunkt des Inkrafttretens der vorliegenden Reform kennen, beibehalten.
@@ -930,35 +827,26 @@ der öffentlichen Ämter
 
 #### Art. 88
 
-<sup>7,14</sup>
-
 <sup>1</sup> Die Bürger und Bürgerinnen üben ihre politischen Rechte mit der Erfüllung des achtzehnten Altersjahres aus.
 
 <sup>2</sup> Alle Stimmfähigen sind in die öffentlichen Ämter wählbar.
 
 #### Art. 89
 
-<sup>11,15,17</sup>
-
-<sup>1</sup> Aufgehoben.
+<sup>1</sup> …
 
 <sup>2</sup> Jeder Bürger kann nur in einer Einwohner- und Burgergemeinde das Stimmrecht ausüben.
 
 #### Art. 90
 
-<sup>17</sup>
-
 <sup>1</sup> Das Gesetz regelt die Unvereinbarkeiten.
 
 <sup>2</sup> Es sucht namentlich zu verhindern, dass:
 
-- 1\. ein Bürger gleichzeitig Funktionen von mehreren öffentlichen Gewalten ausübt;
-
-- 2\. die gleiche Person zwei einander untergeordneten Organen angehört;
-
-- 3\. die Mitglieder derselben Familie in der gleichen Behörde sitzen;
-
-- 4\. der Bürger, der eine öffentliche Beamtung inne hat, noch andere Tätigkeiten ausübt, die sich bei der Erfüllung seiner Funktion nachteilig auswirken könnten.
+- a) ein Bürger gleichzeitig Funktionen von mehreren öffentlichen Gewalten ausübt;
+- b) die gleiche Person zwei einander untergeordneten Organen angehört;
+- c) die Mitglieder derselben Familie in der gleichen Behörde sitzen;
+- d) der Bürger, der eine öffentliche Beamtung inne hat, noch andere Tätigkeiten ausübt, die sich bei der Erfüllung seiner Funktion nachteilig auswirken könnten.
 
 <sup>3</sup> Unter Vorbehalt gesetzlicher Ausnahmen gelten die Unvereinbarkeiten auch für die Ersatzmänner und die Substituten.
 
@@ -968,25 +856,43 @@ der öffentlichen Ämter
 
 #### Art. 91
 
-<sup>17</sup>
-
-Aufgehoben.
+**…**
 
 #### Art. 92
 
-Die Fälle des Ausschlusses vom Stimm- und Wahlrecht sind durch die Kantons- und Bundesgesetzgebung bestimmt.
+<sup>1</sup> Die Fälle des Ausschlusses vom Stimm- und Wahlrecht sind durch die Kantons- und Bundesgesetzgebung bestimmt.
 
-#### Art. 93 bis
+#### Art. 93
 
-**99 <sup>17</sup>**
+**…**
 
-Aufgehoben.
+#### Art. 94
 
-### 8. Titel: Revision der Verfassung
+**…**
+
+#### Art. 95
+
+**…**
+
+#### Art. 96
+
+**…**
+
+#### Art. 97
+
+**…**
+
+#### Art. 98
+
+**…**
+
+#### Art. 99
+
+**…**
+
+## 8 Revision der Verfassung
 
 #### Art. 100
-
-<sup>16</sup>
 
 <sup>1</sup> Sechstausend Stimmberechtigte können die Total- oder Teilrevision der Verfassung verlangen.
 
@@ -994,19 +900,13 @@ Aufgehoben.
 
 <sup>3</sup> Der Grosse Rat stellt die Ungültigkeit einer Initiative fest, die:
 
-- 1\. dem Bundesrecht widerspricht;
-
-- 2\. mehr als eine Materie beinhaltet;
-
-- 3\. die Einheit der Form nicht beachtet;
-
-- 4\. nicht in den Bereich der Verfassung fällt;
-
-- 5\. nicht ausführbar ist.
+- a) dem Bundesrecht widerspricht;
+- b) mehr als eine Materie beinhaltet;
+- c) die Einheit der Form nicht beachtet;
+- d) nicht in den Bereich der Verfassung fällt;
+- e) nicht ausführbar ist.
 
 #### Art. 101
-
-<sup>16</sup>
 
 <sup>1</sup> Die Initiative in Form der allgemeinen Anregung wird mit einer Stellungnahme des Grossen Rates dem Volk zur Abstimmung unterbreitet.
 
@@ -1020,8 +920,6 @@ Aufgehoben.
 
 #### Art. 102
 
-<sup>16</sup>
-
 <sup>1</sup> Die Teilrevision der Verfassung kann in Form eines ausgearbeiteten Entwurfes verlangt werden.
 
 <sup>2</sup> Der Grosse Rat kann die Ablehnung oder die Annahme empfehlen oder einen Gegenentwurf ausarbeiten.
@@ -1031,9 +929,7 @@ Aufgehoben.
 <sup>4</sup> Nimmt der Grosse Rat einen Gegenentwurf an, werden die Stimmberechtigten eingeladen, sich auf dem gleichen Stimmzettel über folgende drei Fragen auszusprechen:
 
 - a) Wollen Sie die Volksinitiative annehmen?
-
 - b) Wollen Sie den Gegenentwurf annehmen?
-
 - c) Falls beide Vorlagen die absolute Mehrheit der Stimmenden erhalten, soll die Initiative oder der Gegenentwurf in Kraft treten?
 
 #### Art. 103
@@ -1046,8 +942,6 @@ Aufgehoben.
 
 #### Art. 104
 
-<sup>16</sup>
-
 <sup>1</sup> Der Grosse Rat kann auch von sich aus eine Verfassungsrevision durchführen.
 
 <sup>2</sup> Die Abänderungen bilden zuerst Gegenstand einer Lesung über die Zweckmässigkeit, gefolgt von zwei Lesungen über den Text, und zwar in ordentlichen Sessionen.
@@ -1056,11 +950,11 @@ Aufgehoben.
 
 #### Art. 105
 
-Die durch den Grossen Rat oder durch einen Verfassungsrat revidierte Verfassung wird dem Volke zur Annahme oder Verwerfung unterbreitet.
+<sup>1</sup> Die durch den Grossen Rat oder durch einen Verfassungsrat revidierte Verfassung wird dem Volke zur Annahme oder Verwerfung unterbreitet.
 
 #### Art. 106
 
-Bei den in Vollziehung der Artikel 102 und 105 angeordneten Abstimmungen entscheidet die absolute Mehrheit der an der Abstimmung teilnehmenden Bürger.
+<sup>1</sup> Bei den in Vollziehung der Artikel 102 und 105 angeordneten Abstimmungen entscheidet die absolute Mehrheit der an der Abstimmung teilnehmenden Bürger.
 
 #### Art. 107
 
@@ -1068,11 +962,9 @@ Bei den in Vollziehung der Artikel 102 und 105 angeordneten Abstimmungen entsche
 
 <sup>2</sup> Die das Begehren unterstützenden Unterschriften werden gemeindeweise abgegeben und die Stimmberechtigung der Unterzeichner muss durch den Gemeindepräsidenten bescheinigt werden. Dieser hat sich auch von der Echtheit der ihm verdächtig scheinenden Unterschriften zu versichern.
 
-### 9. Titel: Übergangsbestimmungen
+## 9 Übergangsbestimmungen
 
 #### Art. 108
-
-<sup>16</sup>
 
 <sup>1</sup> Die vom Grossen Rat vor dem Datum der Inkraftsetzung der neuen Verfassungsbestimmungen angenommenen Erlasse unterliegen gemäss dem bisherigen Artikel 30 der Kantonsverfassung dem obligatorischen Referendum.
 
@@ -1082,93 +974,6 @@ Bei den in Vollziehung der Artikel 102 und 105 angeordneten Abstimmungen entsche
 
 #### Art. 109
 
-<sup>17</sup>
+<sup>1</sup> Die bisherigen Artikel 49, 50, 55, 56, 57, 60 Absätze 2 und 3, 89 Absatz 1, 91, 93 bis 99 bleiben bis zur Annahme des vom neuen Artikel 90 Absatz 1 vorgesehenen Gesetzes in Kraft. Bis zu diesem Datum ist der Grosse Rat jedoch befugt, die Reihenfolge und die Numerierung der Artikel soweit als notwendig zu ändern.
 
-Die bisherigen Artikel 49, 50, 55, 56, 57, 60 Absätze 2 und 3, 89 Absatz 1, 91, 93 bis 99 bleiben bis zur Annahme des vom neuen Artikel 90 Absatz 1 vorgesehenen Gesetzes in Kraft. Bis zu diesem Datum ist der Grosse Rat jedoch befugt, die Reihenfolge und die Numerierung der Artikel soweit als notwendig zu ändern.
-
-Der 1. Vize-Präsident des Grossen Rates: Moritz von Werra Die Schriftführer: Ig. Mengis, Cyr. Joris
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**2.6.1907**
-
-Kantonsverfassung vom 8. März 1907 GS/VS 1907, 173
-
-<sup>1</sup> Änderung vom 23. Juni 1912: n.W.: Art. 84 GS/VS 1912, 125 25.10.1912
-
-**13.3.1920**
-
-<sup>2</sup> Änderung vom 25. Januar 1920: n.W.: Art. GS/VS 1920, 413 84
-
-**7.1.1921**
-
-<sup>3</sup> Änderung vom 26. Dezember 1920: a. : Art. GS/VS 1920, 110 90; n.: Art. 85bis, n.W.: Art. 24, 30, 43, 44, 52
-
-**6.7.1934**
-
-<sup>4</sup> Änderung vom 11. März 1934: n.W.: Art. GS/VS 1934, 76 85bis
-
-**23.1.1953**
-
-<sup>5</sup> Änderung vom 21. Dezember 1952: n.W.: GS/VS 1952, 242 Art. 84
-
-<sup>6</sup> Änderung vom 14. September 1969: n.W.: GS/VS 1969, 61 28.10.1970 Art. 87
-
-**1.11.1970**
-
-<sup>7</sup> Änderung vom 12. April 1970: n.W.: Art. 88, GS/VS 1970, 18 91
-
-**8.7.1973**
-
-<sup>8</sup> Änderung vom 24. September 1972: n.W.: GS/VS 1972, 136 Art. 31, 101
-
-<sup>9</sup> Änderung vom 23. September 1973: n.W.: GS/VS 1973, 60 14.10.1973 Art. 30, Ziff. 4
-
-**1.8.1993 1.1.1981**
-
-<sup>10</sup> Änderung vom 17. März 1974: n.W.: Art. 2 GS/VS 1974, 1
-
-<sup>11</sup> Änderung 28. September 1975: n.W.: Art. GS/VS 1981, 228 69-83, 89
-
-**1.1.1977**
-
-<sup>12</sup> Änderung vom 26. September 1976: n.W.: GS/VS 1976, 105 Art. 21
-
-**1.1.1987 16.8.1991 1.8.1993**
-
-<sup>13</sup> Änderung vom 9.Juni 1985: n.W.: Art. 84 GS/VS 1985, 1
-
-<sup>14</sup> Änderung vom 2. Juni 1991: n.W.: Art. 88 GS/VS 1991, 1
-
-<sup>15</sup> Änderung vom 10. Juni 1990: a.: Art. 83; n. GS/VS 1990, 1 W.: 2, 76, 89
-
-**1.6.1994**
-
-<sup>16</sup> Änderung vom 24. Oktober 1993: n.W.: Art. GS/VS 1994, 1 30-35, 37-51, 53-59, 100-102, 104, 108
-
-**1.7.1998**
-
-<sup>17</sup> Änderung vom 24. Oktober 1993: n.W.: Art. GS/VS 1998,1 90, 109; a.: Art. 49, 50, 55, 56, 57, 60 Abs. 2 und 3, 89 Abs. 1, 91, 93 bis 99
-
-**1.2.1997**
-
-<sup>18</sup> Änderung vom 21. Januar 1996: n.W.: Art. GS/VS 1997, 1 52, 85bis
-
-**1.1.2001 1.5.2002**
-
-<sup>19</sup> Änderung vom 13. Juni 1999: n.: Art. 13bis GS/VS 2000, 1
-
-<sup>20</sup> Änderung vom 24. September 2000: n.W.: GS/VS 2002, 1 Art. 44, 45, 49
-
-**1.1.2005**
-
-<sup>21</sup> Änderung vom 16. November 2001: n.W.: GS/VS 2004, 1 Art. 25
-
-**1.2.2006**
-
-<sup>22</sup> Änderung vom 13. Mai 2004: n.W.: Art. 75, GS/VS 2006, 1 78, 79
-
-## Weitere Fussnoten
-
-- [23] Änderung vom 14. Juni 2007: n.W.: Art. 87 Abl. Nr. 34/2007 1.4.2008
-- [24] Änderung vom 14. Dezember 2006: n.W. Abl. Nr. 3/2007 1.1.2008 Art. 28, 29 a.: aufgehoben; n.: neu; n.W.: neuer Wortlaut
+CSW RO/AGS 1907 f 215, 249 | d 173, 206
