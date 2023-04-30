@@ -3,11 +3,11 @@ sr: "916.511"
 title: "Ordinanza dell'UFAG del 16 febbraio 2016 concernente gli elenchi dei Paesi in virtù dell'ordinanza sulle dichiarazioni agricole (Elenchi dei Paesi ODAgr)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/116"
 language: it
-version: 2021-07-01
+version: 2023-05-01
 adopted: 2016-02-16
 in_force: 2016-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/116/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2016-116-20210701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/116/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/116/20230501/it/xml/fedlex-data-admin-ch-eli-cc-2016-116-20230501-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/116/20230501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/116/20210701/it"
 
 (Elenchi dei Paesi ODAgr)
 
-del 16 febbraio 2016 (Stato 1° luglio 2021)
+del 16 febbraio 2016 (Stato 1° maggio 2023)
 
 L’Ufficio federale dell’agricoltura (UFAG),
 
@@ -67,13 +67,13 @@ L’ordinanza dell’UFAG del 2 dicembre 2003[^5-1] concernente i Paesi esentati
 
 La presente ordinanza entra in vigore il 1° marzo 2016.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 2)
 
 ## Elenco dei Paesi per la carne
 
-[^t-1]: Aggiornato dai n. I delle O dell’UFAG del 12 lug. 2016 ([RU 2016 2699](https://fedlex.data.admin.ch/eli/oc/2016/432)) e del 21 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 369](https://fedlex.data.admin.ch/eli/oc/2021/369)).
+[^t-1]: Aggiornato dal n. I delle O dell’UFAG del 12 lug. 2016 ([RU 2016 2699](https://fedlex.data.admin.ch/eli/oc/2016/432)), del 21 giu. 2021 ([RU 2021 369](https://fedlex.data.admin.ch/eli/oc/2021/369)) e del 3 apr. 2023, in vigore dal 1° mag. 2023 ([RU 2023 196](https://fedlex.data.admin.ch/eli/oc/2023/196)).
 
 <table>
 <tr><th>Paese</th><th>Categoria di animali</th><th>Divieto equivalente per</th></tr>
@@ -95,6 +95,7 @@ Allegato 1*[^t-1]*
 <tr><td>[tab]</td><td>Equini, suini, pollame domestico</td><td>Sostanze ormonali</td></tr>
 <tr><td>15. Zimbabwe</td><td>Bovini, equini, ovini, caprini, suini, pollame domestico, coniglio domestico, selvaggina da allevamento biungulata</td><td>Sostanze ormonali</td></tr>
 <tr><td>[tab] 16. USA</td><td>Bovini, equini, ovini, caprini, suini, pollame domestico, coniglio domestico, selvaggina da allevamento biungulata di produzione biologica</td><td>Sostanze ormonali e non ormonali nella produzione biologica</td></tr>
+<tr><td>17. Bosnia e Erzegovina</td><td>Bovini, equini, ovini, caprini, suini, pollame domestico, coniglio domestico, selvaggina da allevamento biungulata</td><td>Sostanze ormonali e non ormonali</td></tr>
 </table>
 
 Allegato 2
