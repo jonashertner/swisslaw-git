@@ -3,13 +3,12 @@ canton: BS
 number: "257.140"
 title: Verordnung über das Informatiksystem der Staatsanwaltschaft
 language: de
-version: 2017-02-01
-valid_until: 2023-04-30
-version_adopted: 2016-12-13
+version: 2023-05-01
+version_adopted: 2023-04-25
 adopted: 2010-11-02
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/257.140"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4009/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5903/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4009/pdf_file"
 
 Informatiksystem der Staatsanwaltschaft: Verordnung | Strafprozess / Rechtshilfe / Opferhilfe
 
-Vom 2. November 2010 (Stand 1. Februar 2017)
+Vom 2. November 2010 (Stand 1. Mai 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -195,13 +194,22 @@ beschliesst:
 
 #### § 13
 
-**Personen mit laufenden Verfahren und nach rechtskräftigem Abschluss von Verfahren**
+**Personen nach rechtskräftigem Abschluss von Verfahren**
 
 <sup>1</sup> …
 
-<sup>2</sup> Für Personen mit laufenden Verfahren entspricht die Löschfrist der Verfolgungsverjährungsfrist des Deliktes.
+<sup>2</sup> …
 
-<sup>3</sup> Nach rechtskräftigem Abschluss des Verfahrens durch Nichtanhandnahme, Einstellung oder Freispruch entspricht die Löschfrist der Verfolgungsverjährungsfrist. Bei rechtskräftiger Verurteilung gilt die Vollstreckungsverjährungsfrist der ausgesprochenen Strafe als Löschfrist.
+<sup>3</sup> Nach rechtskräftigem Abschluss des Verfahrens gelten folgende Löschfristen:
+
+- a) Bei Nichtanhandnahmen und Einstellungen ohne Kostentragungspflicht: Die Löschfrist entspricht der Verfolgungsverjährungsfrist, beträgt mindestens aber 5 Jahre ab Datum des Entscheids.
+- b) Bei Nichtanhandnahmen und Einstellungen mit Kostentragungspflicht: Die Löschfrist entspricht der Verfolgungsverjährungsfrist, beträgt mindestens aber 10 Jahre ab Datum des Entscheids.
+- c) Bei Strafbefehlen, die in das Strafregister-Informationssystem VOSTRA eingetragen werden: 15 Jahre ab Datum des Entscheids.
+- d) Bei anderen Strafbefehlen: 10 Jahre ab Datum des Entscheids.
+- e) Bei verurteilenden Entscheiden des Gerichts mit einer Freiheitsstrafe von mindestens einem und weniger als fünf Jahren als Sanktion: 20 Jahre ab Datum des Entscheids.
+- f) Bei verurteilenden Entscheiden des Gerichts mit einer Freiheitsstrafe von mindestens fünf Jahren als Sanktion: 25 Jahre ab Datum des Entscheids.
+- g) Bei anderen verurteilenden Entscheiden des Gerichts: 15 Jahre ab Datum des Entscheids.
+- h) Bei vollständigen Freisprüchen des Gerichts: 5 Jahre ab Datum des Entscheids.
 
 <sup>4</sup> Bei Eröffnung eines neuen Verfahrens innerhalb der Löschfrist eines alten Verfahrens gegen dieselbe Person, verlängern sich die Löschfristen des alten Verfahrens automatisch bis zum rechtskräftigen Abschluss des neuen Verfahrens.
 
