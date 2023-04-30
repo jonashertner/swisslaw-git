@@ -4,13 +4,13 @@ number: "142.121"
 title: Verordnung zum Regierungs- und Verwaltungsorganisationsgesetz
 short: "Organisationsverordnung, OrV"
 language: de
-version: 2022-01-01
-valid_until: 2023-04-30
-version_adopted: 2021-12-21
+version: 2023-05-01
+valid_until: 2023-06-30
+version_adopted: 2023-05-02
 adopted: 2005-05-31
 in_force: 2005-06-01
 url: "https://ar.clex.ch/app/de/texts_of_law/142.121"
-pdf: "https://ar.clex.ch/api/de/versions/1392/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1465/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1392/pdf_file"
 
 (Organisationsverordnung, OrV)
 
-vom 31.05.2005 (Stand 01.01.2022)
+vom 31.05.2005 (Stand 01.05.2023)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
