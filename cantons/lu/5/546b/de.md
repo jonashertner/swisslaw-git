@@ -1,22 +1,22 @@
 ---
 canton: LU
 number: 546b
-title: Studien- und Prüfungsordnung für den Masterstudiengang «Master of Science in Health Sciences» des Departements für Gesundheitswissenschaften und Medizin der Universität Luzern
+title: Studien- und Prüfungsordnung für den Master of Science in Health Sciences der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern
 language: de
-version: 2019-08-01
-valid_until: 2023-04-30
-version_adopted: 2019-06-26
+version: 2023-05-01
+valid_until: 2024-01-31
+version_adopted: 2023-04-05
 adopted: 2023-10-19
 in_force: 2024-02-01
 url: "https://srl.lu.ch/app/de/texts_of_law/546b"
-pdf: "https://srl.lu.ch/api/de/versions/3432/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4068/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Studien- und Prüfungsordnung für den Masterstudiengang «Master of Science in Health Sciences» des Departements für Gesundheitswissenschaften und Medizin der Universität Luzern
+# Studien- und Prüfungsordnung für den Master of Science in Health Sciences der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern
 
-vom 26.06.2019 (Stand 01.08.2019)
+vom 26.06.2019 (Stand 01.05.2023)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -34,11 +34,11 @@ beschliesst:
 
 **Studienangebot, Studienbeginn und Regelstudiendauer**
 
-<sup>1</sup> Das Departement für Gesundheitswissenschaften und Medizin der Universität Luzern (nachfolgend Departement) bietet den Masterstudiengang «Master of Science in Health Sciences» (nachfolgend MSc Health) an.
+<sup>1</sup> Die Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern (nachfolgend Fakultät) bietet den Masterstudiengang «Master of Science in Health Sciences» (nachfolgend MSc Health) an.
 
-<sup>2</sup> Der Masterstudiengang beginnt jeweils einmal im Jahr zum Herbstsemester.
+<sup>2</sup> Der Masterstudiengang beginnt in der Regel einmal im Jahr zum Herbstsemester. In Ausnahmefällen (z.B. bei Auflagen) kann das Studium im Frühjahrssemester begonnen werden.
 
-<sup>3</sup> Der MSc Health umfasst 120 Credits und hat eine Regelstudiendauer von vier Semestern.
+<sup>3</sup> Der MSc Health umfasst 120 ECTS-Punkte und hat eine Regelstudiendauer von vier Semestern.
 
 <sup>4</sup> Ein Teilzeitstudium ist möglich. Die Studiendauer verlängert sich entsprechend.
 
@@ -52,11 +52,11 @@ beschliesst:
 
 **Musterstudienplan, Lehrorganisation und Lehrformen**
 
-<sup>1</sup> Zur Orientierung der Studierenden und zur Erleichterung ihrer Studienplanung erstellt das Departement einen Musterstudienplan für das Vollzeitstudium und berät in der Planung von Teilzeitstudien.
+<sup>1</sup> Zur Orientierung der Studierenden und zur Erleichterung ihrer Studienplanung erstellt die Fakultät einen Musterstudienplan für das Vollzeitstudium und berät in der Planung von Teilzeitstudien.
 
-<sup>2</sup> Das Departement organisiert das Lehrangebot nach Möglichkeit so, dass die im Musterstudienplan aufgeführten Veranstaltungen regelmässig und, soweit Pflichtveranstaltungen, für das Vollzeitstudium kollisionsfrei angeboten werden.
+<sup>2</sup> Die Fakultät organisiert das Lehrangebot nach Möglichkeit so, dass die im Musterstudienplan aufgeführten Veranstaltungen regelmässig und, soweit Pflichtveranstaltungen, für das Vollzeitstudium kollisionsfrei angeboten werden.
 
-<sup>3</sup> Das Departement sorgt dafür, dass
+<sup>3</sup> Die Fakultät sorgt dafür, dass
 
 - a. die Dozierenden Lehrformen einsetzen, welche dem jeweiligen Stand der Hochschuldidaktik entsprechen, und
 - b. sich die Dozierenden im Bereich der Hochschuldidaktik und -pädagogik weiterbilden.
@@ -65,21 +65,21 @@ beschliesst:
 
 **Qualitätssicherung**
 
-<sup>1</sup> Die Qualität des Studiengangs und die Qualität der einzelnen Lehrveranstaltungen und Studieninhalte werden regelmässig und gemäss den Vorgaben der Universität überprüft. Zusätzliche Qualitätssicherungsmassnahmen können durch die Departementsleitung angeordnet werden
+<sup>1</sup> Die Qualität des Studiengangs und die Qualität der einzelnen Lehrveranstaltungen und Studieninhalte werden regelmässig und gemäss den Vorgaben der Universität überprüft. Zusätzliche Qualitätssicherungsmassnahmen können durch die Fakultätsleitung angeordnet werden
 
 ## 2 Organe
 
 #### § 5
 
-**Departementsvorsteherin oder Departementsvorsteher**
+**Dekanin oder Dekan**
 
-<sup>1</sup> Die Departementsvorsteherin oder der Departementsvorsteher ist für den Studienbetrieb verantwortlich und entscheidet im Regelungsbereich dieser Studien- und Prüfungsordnung über alle Angelegenheiten, soweit nicht ein anderes Organ für zuständig erklärt wird.
+<sup>1</sup> Die Dekanin oder der Dekan ist für den Studienbetrieb verantwortlich und entscheidet im Regelungsbereich dieser Studien- und Prüfungsordnung über alle Angelegenheiten, soweit nicht ein anderes Organ für zuständig erklärt wird.
 
 #### § 6
 
-**Departementsversammlung**
+**Fakultätsversammlung**
 
-<sup>1</sup> Die Departementsversammlung erlässt die Wegleitungen zur Studien- und Prüfungsordnung.
+<sup>1</sup> Die Fakultätsversammlung erlässt die Wegleitungen zur Studien- und Prüfungsordnung.
 
 #### § 7
 
@@ -87,9 +87,9 @@ beschliesst:
 
 <sup>1</sup> Dem Studien- und Prüfungsausschuss obliegt die Organisation und Durchführung von Prüfungen und die Entscheidung in Zulassungsfragen, vorbehaltlich der Genehmigung durch die Zulassungsstelle der Universität.
 
-<sup>2</sup> Dem Studien- und Prüfungsausschuss obliegt die Auswahl und Zuweisung finanziell geförderter Praktikumsplätze, vorbehaltlich der Genehmigung der Departementsleitung.
+<sup>2</sup> Dem Studien- und Prüfungsausschuss obliegt die Auswahl und Zuweisung finanziell geförderter Praktikumsplätze, vorbehältlich der Genehmigung der Fakultätsleitung.
 
-<sup>3</sup> Der Studien- und Prüfungsausschuss kann einzelne Aufgaben an die Departementsadministration delegieren.
+<sup>3</sup> Der Studien- und Prüfungsausschuss kann einzelne Aufgaben an das Studiendekanat delegieren.
 
 ## 3 Zulassungs- und Studienvoraussetzungen
 
@@ -138,28 +138,28 @@ beschliesst:
 
 <sup>1</sup> Die Studiensprache ist Englisch. Veranstaltungen im Vertiefungsstudium, insbesondere diejenigen in Kooperation mit anderen Studiengängen, können in der jeweiligen Studiensprache abgehalten werden.
 
-## 5 Studienleistungen, Credits und Prüfungen
+## 5 Studienleistungen, ECTS-Punkte und Prüfungen
 
 #### § 12
 
-**Berechnung der Studienleistungen in Credits**
+**Berechnung der Studienleistungen in ECTS-Punkten**
 
-<sup>1</sup> Das Departement berechnet Studienleistungen in Credits gemäss den «European Credit Transfer and Accumulation System».
+<sup>1</sup> Die Fakultät berechnet Studienleistungen in ECTS-Punkten gemäss dem «European Credit Transfer and Accumulation System».
 
-<sup>2</sup> Der MSc Health beruht auf Studienleistungen von durchschnittlich 30 Credits für jedes Semester (bei Vollzeitstudium).
+<sup>2</sup> Der MSc Health beruht auf Studienleistungen von durchschnittlich 30 ECTS-Punkten für jedes Semester (bei Vollzeitstudium).
 
-<sup>3</sup> Einem Credit entspricht ein durchschnittliches studentisches Arbeitspensum von 25 bis 30 Stunden.
+<sup>3</sup> Einem ECTS-Punkt entspricht ein durchschnittliches studentisches Arbeitspensum von 25 bis 30 Stunden.
 
 #### § 13
 
-**Erwerb und Zuteilung von Credits**
+**Erwerb und Zuteilung von ECTS-Punkten**
 
-<sup>1</sup> Credits werden aufgrund erfolgreich erbrachter Studienleistungen erworben, insbesondere durch
+<sup>1</sup> ECTS-Punkte werden aufgrund erfolgreich erbrachter Studienleistungen erworben, insbesondere durch
 
 - a. schriftliche oder mündliche Prüfungen oder
 - b. schriftliche Arbeiten.
 
-<sup>2</sup> Die Zuteilung von Credits auf die einzelnen Module (inklusive Masterarbeit und mündliche Masterprüfung) ist in der Wegleitung des Studiengangs festgehalten.
+<sup>2</sup> Die Zuteilung von ECTS-Punkten auf die einzelnen Module (inklusive Masterarbeit und mündliche Masterprüfung) ist in der Wegleitung des Studiengangs festgehalten.
 
 #### § 14
 
@@ -167,7 +167,7 @@ beschliesst:
 
 <sup>1</sup> Studierende erhalten für alle erbrachten Studienleistungen einen Leistungsnachweis.
 
-<sup>2</sup> Leistungsnachweise enthalten den Titel der Lehrveranstaltung oder die Bezeichnung der Studienleistung, die Anzahl der Credits und das Ergebnis (Note bzw. Wertung oder Prädikat).
+<sup>2</sup> Leistungsnachweise enthalten den Titel der Lehrveranstaltung oder die Bezeichnung der Studienleistung, die Anzahl der ECTS-Punkte und das Ergebnis (Note bzw. Wertung oder Prädikat).
 
 #### § 15
 
@@ -209,7 +209,7 @@ beschliesst:
 
 <sup>1</sup> Prüfungssessionen finden zweimal jährlich, in der Regel nach Abschluss der Lehrveranstaltungen statt.
 
-<sup>2</sup> Prüfungsart, Prüfungstermin und Prüfungsdauer werden von den Dozierenden festgelegt und jeweils über die Kommunikationsplattform des Departements und im Vorlesungsverzeichnis bekanntgegeben.
+<sup>2</sup> Prüfungsart, Prüfungstermin und Prüfungsdauer werden von den Dozierenden festgelegt und jeweils über die Kommunikationsplattform der Fakultät und im Vorlesungsverzeichnis bekanntgegeben.
 
 #### § 18
 
@@ -253,7 +253,7 @@ beschliesst:
 
 **Zulassung zu Lehrveranstaltungen**
 
-<sup>1</sup> Die Zulassung zu Lehrveranstaltungen kann an den erfolgreichen Abschluss anderer Lehrveranstaltungen oder an zusätzliche Voraussetzungen gekoppelt sein. Details werden über die Kommunikationsplattform des Departements und im Vorlesungsverzeichnis bekanntgegeben.
+<sup>1</sup> Die Zulassung zu Lehrveranstaltungen kann an den erfolgreichen Abschluss anderer Lehrveranstaltungen oder an zusätzliche Voraussetzungen gekoppelt sein. Details werden über die Kommunikationsplattform der Fakultät und im Vorlesungsverzeichnis bekanntgegeben.
 
 #### § 23
 
@@ -273,11 +273,11 @@ beschliesst:
 
 **Studienausschluss**
 
-<sup>1</sup> Die Credits aller nicht bestandenen Studienleistungen (Fehlversuche) werden summiert, ausgenommen ist ein Fehlversuch bei der Masterarbeit, ein Fehlversuch in der mündlichen Masterprüfung sowie allfällige Fehlversuche in Auflagenkursen. Erreicht die Gesamtsumme aller nicht bestandenen Studienleistungen das Äquivalent von 30 Credits wird die Kandidatin oder der Kandidat vom Studium des MSc Health endgültig ausgeschlossen.
+<sup>1</sup> Die ECTS-Punkte aller nicht bestandenen Studienleistungen (Fehlversuche) werden summiert, ausgenommen ist ein Fehlversuch bei der Masterarbeit, ein Fehlversuch in der mündlichen Masterprüfung sowie allfällige Fehlversuche in Auflagenkursen. Erreicht die Gesamtsumme aller nicht bestandenen Studienleistungen das Äquivalent von 30 ECTS-Punkten wird die Kandidatin oder der Kandidat vom Studium des MSc Health endgültig ausgeschlossen.
 
 <sup>2</sup> Vom Studium des MSc Health auch ausgeschlossen wird, wer das Masterverfahren endgültig nicht bestanden hat.
 
-<sup>3</sup> Der Ausschluss wird vom Departement verfügt.
+<sup>3</sup> Der Ausschluss wird von der Fakultät verfügt.
 
 #### § 26
 
@@ -328,11 +328,11 @@ beschliesst:
 
 **Gutachterinnen und Gutachter**
 
-<sup>1</sup> Eine Masterarbeit wird von einer Erstgutachterin bzw. einem Erstgutachter und einer Zweitgutachterin bzw. einem Zweitgutachter beurteilt. Als Erstgutachterin bzw. Erstgutachter kommen Professorinnen und Professoren sowie Dozentinnen und Dozenten des Departements mit Habilitation in Frage. Als Zweitgutachterin bzw. Zweitgutachter kommen auch Dozentinnen und Dozenten des Departements mit Promotion in Frage.
+<sup>1</sup> Eine Masterarbeit wird von einer Erstgutachterin bzw. einem Erstgutachter und einer Zweitgutachterin bzw. einem Zweitgutachter beurteilt. Als Erstgutachterin bzw. Erstgutachter kommen Professorinnen und Professoren sowie Dozentinnen und Dozenten der Fakultät mit Habilitation in Frage. Als Zweitgutachterin bzw. Zweitgutachter kommen auch Dozentinnen und Dozenten der Fakultät mit Promotion in Frage.
 
-<sup>2</sup> Andere Dozentinnen und Dozenten können auf begründeten Antrag generell durch die Departementsversammlung oder im Einzelfall durch den Studien- und Prüfungsausschuss zur Übernahme von Gutachten ermächtigt werden.
+<sup>2</sup> Andere Dozentinnen und Dozenten können auf begründeten Antrag generell durch die Fakultätsversammlung oder im Einzelfall durch den Studien- und Prüfungsausschuss zur Übernahme von Gutachten ermächtigt werden.
 
-<sup>3</sup> Sollten die Bewertungen des Erst- und Zweitgutachtens nicht übereinstimmen, stellt der Studien- und Prüfungsausschuss die Note der Masterarbeit durch Errechnung des arithmetischen Mittels der Noten der Gutachten fest. Weichen Erst- und Zweitgutachten um mehr als eine Note voneinander ab, so ist ein Drittgutachten von einer Professorin bzw. von einem Professor oder einer Dozentin bzw. eines Dozenten des Departements mit Habilitation einzuholen. In diesem Fall zählt das arithmetische Mittel aller drei Gutachten zur Feststellung der Note der Masterarbeit.
+<sup>3</sup> Sollten die Bewertungen des Erst- und Zweitgutachtens nicht übereinstimmen, stellt der Studien- und Prüfungsausschuss die Note der Masterarbeit durch Errechnung des arithmetischen Mittels der Noten der Gutachten fest. Weichen Erst- und Zweitgutachten um mehr als eine Note voneinander ab, so ist ein Drittgutachten von einer Professorin bzw. von einem Professor oder einer Dozentin bzw. einem Dozenten der Fakultät mit Habilitation einzuholen. In diesem Fall zählt das arithmetische Mittel aller drei Gutachten zur Feststellung der Note der Masterarbeit.
 
 #### § 30
 
@@ -352,7 +352,7 @@ beschliesst:
 
 <sup>1</sup> Den MSc Health schliesst ab, wer alle Studienleistungen gemäss geltender Wegleitung des Studiengangs bestanden und eine Gesamtnote von mindestens 4 erreicht hat.
 
-<sup>2</sup> Die Gesamtnote des Masterabschlusses wird als nach Credits gewichteter Durchschnitt aller benoteten Studienleistungen berechnet. Die Berechnung des Notenschnitts erfolgt exakt, das Ergebnis wird auf zwei Nachkommastellen gerundet.
+<sup>2</sup> Die Gesamtnote des Masterabschlusses wird als nach ECTS-Punkten gewichteter Durchschnitt aller bestandenen und benoteten Studienleistungen berechnet. Die Berechnung des Notenschnitts erfolgt exakt, das Ergebnis wird auf zwei Nachkommastellen gerundet.
 
 #### § 32
 
@@ -374,7 +374,7 @@ beschliesst:
 
 <sup>2</sup> Mit dem Diplom erhält die Absolventin oder der Absolvent einen Diplomzusatz ausgestellt. Dieser enthält detaillierte Angaben zum absolvierten Studium und zu den erzielten Einzelbewertungen aller Studienleistungen.
 
-<sup>3</sup> Das Diplom wird von der Departementsvorsteherin oder dem Departementsvorsteher unterzeichnet.
+<sup>3</sup> Das Diplom wird von der Dekanin oder dem Dekan unterzeichnet.
 
 ## 7 Schlussbestimmungen
 
@@ -390,13 +390,13 @@ beschliesst:
 
 **Härtefälle**
 
-<sup>1</sup> Zur Vermeidung von Härtefällen kann die Departementsvorsteherin oder der Departementsvorsteher auf schriftliches Gesuch hin ausnahmsweise von einzelnen Bestimmungen dieser Ordnung abweichen.
+<sup>1</sup> Zur Vermeidung von Härtefällen kann die Dekanin oder der Dekan auf schriftliches Gesuch hin ausnahmsweise von einzelnen Bestimmungen dieser Ordnung abweichen.
 
 #### § 36
 
 **Rechtsmittel**
 
-<sup>1</sup> Gegen Entscheide in Zusammenhang mit dieser Studien- und Prüfungsordnung kann nach den Bestimmungen des Universitätsgesetzes[^36-1] und des Gesetzes über die Verwaltungsrechtspflege[^36-2] beim Bildungsdepartement Verwaltungsbeschwerde geführt werden.
+<sup>1</sup> Gegen Entscheide in Zusammenhang mit dieser Studien- und Prüfungsordnung kann nach den Bestimmungen des Universitätsgesetzes[^36-1] und des Gesetzes über die Verwaltungsrechtspflege[^36-2] beim zuständigen Departement Verwaltungsbeschwerde geführt werden.
 
 <sup>2</sup> Die Beschwerdefrist beträgt 30 Tage.
 
@@ -405,10 +405,6 @@ beschliesst:
 
 #### § 37
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Die Studien- und Prüfungsordnung für den Masterstudiengang «Master of Arts (MA) in Health Sciences» der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern vom 29. Juni 2016[^37-1] wird aufgehoben. Die genauen Fristen und Auslaufbestimmungen sind in einem Merkblatt des Departements geregelt.
-
-[^37-1]: SRL Nr. [542n](https://srl.lu.ch/data/542n/de)
+**…**
 
 G 2019-032
