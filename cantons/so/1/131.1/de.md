@@ -4,13 +4,13 @@ number: "131.1"
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2023-01-01
-valid_until: 2023-04-30
-version_adopted: 2022-06-28
+version: 2023-05-01
+valid_until: 2023-12-31
+version_adopted: 2023-03-12
 adopted: 1992-02-16
 in_force: 1992-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.1"
-pdf: "https://bgs.so.ch/api/de/versions/5261/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5317/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5261/pdf_file"
 
 (GG)
 
-Vom 16.02.1992 (Stand 01.01.2023)
+Vom 16.02.1992 (Stand 01.05.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -1972,9 +1972,13 @@ beschliesst:
 
 **I<sup>bis</sup> Staatsbeitrag**
 
-<sup>1</sup> An Gemeindezusammenschlüsse unter Einwohnergemeinden können vom Kanton Beiträge von 100 Franken pro Einwohner und Einwohnerin, jedoch mindestens 50'000 Franken und höchstens 500'000 Franken ausgerichtet werden.
+<sup>1</sup> An Gemeindezusammenschlüsse unter Einwohnergemeinden entrichtet der Kanton pro beteiligte Einwohnergemeinde folgende Beiträge:
 
-<sup>2</sup> Auf dem gleichen Gemeindegebiet ist die Ausrichtung des Beitrags nur einmalig möglich.
+- a) für die ersten 10'000 Einwohner und Einwohnerinnen 100 Franken pro Kopf;
+- b) für weitere Einwohner und Einwohnerinnen 50 Franken pro Kopf;
+- c) mindestens jedoch 100'000 Franken.
+
+<sup>2</sup> Wird ein gleiches Gemeindegebiet innerhalb von 5 Jahren ein weiteres Mal fusioniert, so kann für dieses der in Absatz 1 genannte Beitrag gekürzt werden.
 
 <sup>3</sup> Strukturell schwache Einwohnergemeinden, im Sinne der Gesetzgebung über den Finanz- und Lastenausgleich der Einwohnergemeinden[^190bis-1], erhalten bei Gemeindezusammenschlüssen mit Einwohnergemeinden einen zusätzlichen Förderbeitrag. Der Förderbeitrag setzt sich aus zusätzlichen 100 Franken pro Einwohner multipliziert mit dem Betrag des negativen Strukturstärkeindexes zusammen.
 
