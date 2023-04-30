@@ -4,13 +4,13 @@ number: "162.621"
 title: Règlement d’organisation du Tribunal administratif
 short: ROr TA
 language: fr
-version: 2018-01-01
-valid_until: 2023-04-30
-version_adopted: 2016-10-27
+version: 2023-05-01
+valid_until: 2023-12-31
+version_adopted: 2023-03-09
 adopted: 2010-09-22
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.621"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1269/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2829/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1269/pdf_file"
 
 (ROr TA)
 
-du 22.09.2010 (état au 01.01.2018)
+du 22.09.2010 (état au 01.05.2023)
 
 Le Tribunal administratif du canton de Berne,
 
@@ -269,6 +269,8 @@ arrête:
 <sup>1</sup> La Cour des assurances sociales et la Cour de droit administratif, ainsi que la Cour des affaires de langue française connaissent des litiges qui leur sont attribués et accomplissent d’autres tâches.
 
 <sup>2</sup> …
+
+<sup>2a</sup> En plus des litiges qui lui sont attribués par la LOJM, la Cour des assurances sociales connaît des litiges dans le domaine du droit de l'aide sociale.
 
 <sup>3</sup> Dans la mesure où l’organisation n’est pas prescrite par la LOJM et par le présent règlement, les cours s’organisent elles-mêmes.[^18-1]
 

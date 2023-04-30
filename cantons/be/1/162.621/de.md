@@ -4,13 +4,13 @@ number: "162.621"
 title: Organisationsreglement des Verwaltungsgerichts
 short: OrR VG
 language: de
-version: 2018-01-01
-valid_until: 2023-04-30
-version_adopted: 2016-10-27
+version: 2023-05-01
+valid_until: 2023-12-31
+version_adopted: 2023-03-09
 adopted: 2010-09-22
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.621"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1269/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2829/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1269/pdf_file"
 
 (OrR VG)
 
-vom 22.09.2010 (Stand 01.01.2018)
+vom 22.09.2010 (Stand 01.05.2023)
 
 Das Verwaltungsgericht des Kantons Bern,
 
@@ -269,6 +269,8 @@ beschliesst:
 <sup>1</sup> Die sozialversicherungsrechtliche und die verwaltungsrechtliche Abteilung sowie die Abteilung für französischsprachige Geschäfte des Verwaltungsgerichts beurteilen die ihnen zugewiesenen Streitigkeiten und erfüllen weitere Aufgaben.
 
 <sup>2</sup> …
+
+<sup>2a</sup> Die sozialversicherungsrechtliche Abteilung beurteilt neben den ihr durch das GSOG zugewiesenen Streitigkeiten auch jene aus dem Gebiet des Sozialhilferechts.
 
 <sup>3</sup> Die Abteilungen organisieren sich selbst, soweit die Organisation nicht durch das GSOG und durch dieses Reglement vorgegeben ist.[^18-1]
 
