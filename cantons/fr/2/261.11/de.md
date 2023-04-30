@@ -4,13 +4,13 @@ number: "261.11"
 title: Reglement zur Ausführung des Gesetzes vom 20. September 1967 über das Notariat
 short: NR
 language: de
-version: 2022-02-01
-valid_until: 2023-04-30
-version_adopted: 2022-02-25
+version: 2023-05-01
+valid_until: 2025-09-30
+version_adopted: 2023-02-28
 adopted: 1986-10-07
 in_force: 1986-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/261.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7273/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7746/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Notariat – R
 
 (NR)
 
-vom 07.10.1986 (Fassung in Kraft getreten am 01.02.2022)
+vom 07.10.1986 (Fassung in Kraft getreten am 01.05.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -50,6 +50,16 @@ beschliesst:
 - e) eine Wohnsitzbestätigung.
 
 <sup>2</sup> Er muss ausserdem angeben, an welchem Ort er sein Büro zu eröffnen gedenkt; ferner hat er nachzuweisen, dass er eine Haftpflichtversicherung gemäss Artikel 6 abgeschlossen hat und dass er um seine Aufnahme in den Freiburgischen Notariatsverband ersucht hat.
+
+#### Art. 1a
+
+**Handelsgesellschaft (Art. 6 Abs. 1 Bst. e und 7 NG)**
+
+<sup>1</sup> Ein Notar kann sein Büro mit Bewilligung der Kommission als Handelsgesellschaft führen.
+
+<sup>2</sup> Die Kommission stellt sicher, dass die strukturelle Unabhängigkeit des Notars garantiert ist.
+
+<sup>3</sup> Die Kommission regelt das Bewilligungsverfahren nach Absatz 1 in einer Richtlinie und legt die Anforderungen für die Erfüllung der Bedingung nach Absatz 2 fest.
 
 #### Art. 2
 

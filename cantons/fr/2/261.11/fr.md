@@ -4,13 +4,13 @@ number: "261.11"
 title: "Règlement d'exécution de la loi du 20 septembre 1967 sur le notariat"
 short: RN
 language: fr
-version: 2022-02-01
-valid_until: 2023-04-30
-version_adopted: 2022-02-25
+version: 2023-05-01
+valid_until: 2025-09-30
+version_adopted: 2023-02-28
 adopted: 1986-10-07
 in_force: 1986-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/261.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7273/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7746/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Notariat – R
 
 (RN)
 
-du 07.10.1986 (version entrée en vigueur le 01.02.2022)
+du 07.10.1986 (version entrée en vigueur le 01.05.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -50,6 +50,16 @@ Arrête:
 - e) une attestation de domicile.
 
 <sup>2</sup> Il doit en outre indiquer le lieu où il ouvrira son étude ainsi que prouver qu'il s'est assuré en responsabilité civile conformément à l'article 6 et qu'il a demandé son admission à l'Association fribourgeoise des notaires.
+
+#### Art. 1a
+
+**Société commerciale (art. 6 al. 1 let. e et 7 LN)**
+
+<sup>1</sup> Le notaire peut exploiter son étude sous forme de société commerciale, sur autorisation de la Commission.
+
+<sup>2</sup> La Commission s'assure que l'indépendance structurelle du notaire soit garantie.
+
+<sup>3</sup> La Commission règle par directives la procédure d'autorisation prévue à l'alinéa 1 et précise les exigences pour que la condition fixée à l'alinéa 2 soit remplie.
 
 #### Art. 2
 
