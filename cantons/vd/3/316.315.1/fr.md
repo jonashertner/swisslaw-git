@@ -4,7 +4,7 @@ number: "316.315.1"
 title: "ARRÊTÉ du 25.05.2022 relatif aux aides individuelles allouées aux détenteurs d'animaux de rente exerçant leur activité dans les zones touchées par la présence de grands carnivores (AAIGC)"
 short: AAIGC
 language: fr
-version: 2022-06-01
+version: 2023-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/316.315.1?id=ef5533d9-3931-45a2-b2e7-ac161f11fb54"
 ---
 
@@ -40,8 +40,9 @@ arrête
 - a. la main-d'œuvre nécessaire à l'installation et à l'entretien de parcs de protection des troupeaux ;
 - b. la rémunération du personnel engagé pour la surveillance nocturne des troupeaux ;
 - c. la détention et l'utilisation de chiens de protection des troupeaux officiels.
+- d. la main-d'oeuvre nécessaire pour rentrer le bétail la nuit.
 
-[^t-1]: Modif. 1 du 26.04.2023: Introduction Al. 2, d; entrée en vigueur au 01.05.2023; Introduction Art. 4, Al. 1, d; entrée en vigueur au 01.05.2023 · Modif. 2 du 01.05.2024: Abrogation Al. 2, b; entrée en vigueur au 01.05.2024
+[^t-1]: Modif. 1 du 26.04.2023: Introduction Al. 2, d; entrée en vigueur au 01.05.2023 · Modif. 2 du 01.05.2024: Abrogation Al. 2, b; entrée en vigueur au 01.05.2024
 [^1-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 2
@@ -66,13 +67,14 @@ arrête
 
 <sup>1</sup> Le montant annuel de l'aide, éventuel soutien financier de la Confédération compris, est au maximum de :
 
-- a. 800 francs par PN sur les surfaces d'estivage et 150 francs par UGB pour les parcs de protection des troupeaux, le total ne pouvant excéder 9'000 francs ;
+- a. 800 francs par PN sur les surfaces d'estivage et 150 francs par UGB sur les autres surfaces pour les parcs de protection des troupeaux, le total ne pouvant excéder 9'000 francs;
 - b. 150 francs par PN sur les surfaces d'estivage pour la surveillance nocturne des troupeaux, le total ne pouvant excéder 6'000 francs ;
 - c. 1'400 francs par PN sur les surfaces d'estivage et 800 francs par UGB sur les autres surfaces pour les chiens de protection des troupeaux, le total ne pouvant excéder 4'000 francs. Le nombre maximum de chiens est fixé à 3 par exploitation.
+- d. 200 francs par bovin sur les surfaces d'estivage pour rentrer le bétail la nuit, le total ne pouvant excéder 6'000 francs.
 
 <sup>2</sup> Si le plafond budgétaire est atteint, le montant de l'aide est réduit en proportion.
 
-[^3-1]: Modif. 1 du 26.04.2023: Introduction Art. 1, Al. 2, d; entrée en vigueur au 01.05.2023; Modification Al. 1, a; entrée en vigueur au 01.05.2023; Introduction Al. 1, d; entrée en vigueur au 01.05.2023 · Modif. 2 du 01.05.2024: Abrogation Al. 1, b; entrée en vigueur au 01.05.2024; Modification Al. 1, d; entrée en vigueur au 01.05.2024
+[^3-1]: Modif. 1 du 26.04.2023: Modification Al. 1, a; entrée en vigueur au 01.05.2023; Introduction Al. 1, d; entrée en vigueur au 01.05.2023 · Modif. 2 du 01.05.2024: Abrogation Al. 1, b; entrée en vigueur au 01.05.2024; Modification Al. 1, d; entrée en vigueur au 01.05.2024
 
 #### Art. 5
 
