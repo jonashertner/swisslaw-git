@@ -3,20 +3,20 @@ canton: GL
 number: VII D/11/6
 title: Verordnung über den kantonalen Lawinenwarndienst
 language: de
-version: 2014-09-01
-valid_until: 2023-04-30
-version_adopted: 2014-04-22
+version: 2023-05-01
+valid_until: 2025-06-30
+version_adopted: 2023-04-04
 adopted: 2005-03-29
 in_force: 2005-03-29
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-D.11.6"
-pdf: "https://gesetze.gl.ch/api/de/versions/1711/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2419/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den kantonalen Lawinenwarndienst
 
-Vom 29.03.2005 (Stand 01.09.2014)
+Vom 29.03.2005 (Stand 01.05.2023)
 
 (Erlassen vom Regierungsrat am 29. März 2005)
 
@@ -90,6 +90,16 @@ Vom 29.03.2005 (Stand 01.09.2014)
 <sup>3</sup> Die Lawinendienstkommission hat alljährlich vor Wintereinbruch zu einer Sitzung zusammenzutreten, um den Warndienst des kommenden Winters zu überprüfen, allfällige besondere Vorkommnisse zu besprechen und Direktiven für den Regieablauf festzulegen.
 
 <sup>4</sup> Sofern es besondere Umstände erfordern, kann der Präsident die Lawinendienstkommission zu weiteren Sitzungen einberufen.
+
+#### Art. 6a
+
+**Entschädigung verwaltungsexterner Kommissionsmitglieder**
+
+<sup>1</sup> Die zeitliche Bereitschaft und Grundlagenarbeiten werden jährlich mit einer Pauschale von 1500 Franken entschädigt.
+
+<sup>2</sup> Einsätze gemäss Aufgebot des Leiters der Lawinenzentrale werden mit 70 Franken pro Stunde entschädigt. Die Einsätze werden in geeigneter Weise rapportiert.
+
+<sup>3</sup> Ganztägige Weiterbildungen werden zeitlich mit maximal 8 Stunden 24 Minuten angerechnet.
 
 #### Art. 7
 
