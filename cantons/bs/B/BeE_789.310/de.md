@@ -4,13 +4,12 @@ number: BeE 789.310
 title: Reglement zur Ordnung über den Natur- und Landschaftsschutz und die Förderung der Biodiversität und Landschaftsqualität
 short: "Förderung der Biodiversität: Reglement"
 language: de
-version: 2021-02-01
-valid_until: 2023-04-30
-version_adopted: 2020-12-07
+version: 2023-05-01
+version_adopted: 2023-06-19
 adopted: 2006-11-21
 in_force: 2007-01-07
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20789.310"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5079/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5947/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Beiträge für ökologische Ausgleichsflächen: Reglement | Bettingen: Einwohner
 
 (Förderung der Biodiversität: Reglement)
 
-Vom 21. November 2006 (Stand 1. Februar 2021)
+Vom 21. November 2006 (Stand 1. Mai 2023)
 
 Der Gemeinderat Bettingen,
 
@@ -68,27 +67,30 @@ beschliesst:
 - b) artenreiche Ackerschonstreifen, Bunt- und Rotationsbrachen;
 - c) Spezialstandorte wie Feucht-, Nass- und Trockenbiotope, Kleinbiotope, Rebflora;
 - d) Hecken aus einheimischen und standortgerechten Sträuchern und Bäumen;
-- e) einheimische und standortgerechte Einzelbäume;
-- f) Hochstammobstbäume;
-- g) abgestorbene Altbäume (Hochstammobst- und einheimische Einzelbäume).
+- e) einheimische, standortgerechte Einzelbäume mit hohem Biodiversitätsindex;
+- f) Hochstammobstbäume und Jungbäume;
+- g) abgestorbene Altbäume (Hochstammobst- und einheimische Einzelbäume);
+- h) Offene Ackerflächen mit Vollverzicht auf Pestizide.
 
 #### § 4
 
 **Beitragsgesuche**
 
-<sup>1</sup> Gesuche um Gewährung von Beiträgen sind bei der Gemeindeverwaltung auf den dafür bestimmten Formularen einzureichen. Der späteste Einreichungstermin ist der 2. Mai.
+<sup>1</sup> Gesuche um Gewährung von Beiträgen sind bei der Gemeindeverwaltung auf den dafür bestimmten Formularen einzureichen. Der späteste Einreichungstermin ist der 2. Mai des betreffenden Beitragsjahres.
 
-<sup>2</sup> Den Gesuchen, die bei der Gemeindeverwaltung eingereicht werden, sind allfällige weitere bei Bund oder Kanton gemachte Gesuche um Beitragszahlungen beizulegen.
+<sup>2</sup> Den Gesuchen sind alle notwendigen Unterlagen beizulegen und der Gemeindeverwaltung diejenigen Auskünfte zu erteilen, die für die Beurteilung des Beitragsgesuchs notwendig sind.
 
 #### § 5
 
 **Prüfung der Beitragsberechtigung**
 
-<sup>1</sup> Die Gemeindeverwaltung ist verantwortlich für die administrative Kontrolle der Beitragsgesuche gemäss § 15 der Ordnung über den Natur- und Landschaftsschutz und die Förderung der Biodiversität und Landschaftsqualität. Für die biologische Beurteilung kann eine externe Fachperson beauftragt werden. Die zuständige Bereichsleiterin oder der zuständige Bereichsleiter im Gemeinderat entscheidet bis Ende September über die Ausrichtung der Beiträge.
+<sup>1</sup> Die Gemeindeverwaltung ist verantwortlich für die administrative Kontrolle der Beitragsgesuche gemäss § 15 der Ordnung über den Natur- und Landschaftsschutz und die Förderung der Biodiversität und Landschaftsqualität. Für die biologische Beurteilung kann eine externe Fachperson beauftragt werden.
+
+<sup>2</sup> Das bereichsleitende Gemeinderatsmitglied entscheidet bis Ende November über die Ausrichtung der Beiträge. Das Gemeinderatsmitglied kann für die Gesuche eine Empfehlung der kommunalen Naturschutzkommission einholen.
 
 #### § 6
 
-**Beiträge an extensiv genutzte Wiesen, wenig intensiv genutzte Wiesen, extensiv genutzte Weiden, Ackerschonstreifen, Bunt- und Rotationsbrachen, Hecken sowie Spezialstandorte**
+**Beiträge an extensiv genutzte Wiesen, wenig intensiv genutzte Wiesen, Ackerschonstreifen, Bunt- und Rotationsbrachen, Hecken, pestizidfreies Ackerland sowie Spezialstandorte**
 
 <sup>1</sup> An die Abgeltung des Minderertrages und der Pflegekosten können folgende Zuschläge zu den Abgeltungsbeiträgen gemäss der kantonalen Verordnung über die Förderung der Biodiversität und Landschaftsqualität im Landwirtschaftsgebiet vom 24. März 2015 entrichtet werden.
 
@@ -96,10 +98,11 @@ beschliesst:
 
 - a) extensiv genutzte Wiesen — bis CHF 10
 - b) wenig intensiv genutzte Wiesen — bis CHF 6
-- c) extensiv genutzte Weiden — bis CHF 3
+- c) …
 - d) Ackerschonstreifen, Bunt- und Rotationsbrachen — bis CHF 20
 - e) Hecken auf Ackerland oder Wiesland (bestockte Fläche) — bis CHF 20
 - f) Spezialstandorte — nach Pflegeaufwand und Minderertrag
+- g) freiwilliger Vollverzicht auf Pestizide auf der offenen Ackerfläche — bis CHF 4
 
 <sup>3</sup> Durch periodisches Monitoring wird von einer Fachperson überprüft, in welchem Umfang die Kriterien für eine Auszahlung erfüllt sind.
 
@@ -115,11 +118,11 @@ beschliesst:
 
 #### § 8
 
-**Beiträge an einheimische und standortgerechte Einzelbäume**
+**Beiträge an einheimische, standortgerechte Einzelbäume**
 
-<sup>1</sup> Für einheimische und standortgerechte Einzelbäume (wie z.B. Nussbäume, Eichen, Linden) von ökologischem Wert auf Wiesland, Weideland oder Ackerland können Beiträge entrichtet werden, wenn die Bodenfläche der Bäume wie eine extensive Wiese oder Weide genutzt wird. Die Bodenfläche um den Stamm entspricht in der Regel der doppelten Kronenfläche, beträgt jedoch pro Baum maximal 2 Aren im Baumumfeld, bei Jungbäumen minimal 1 Are. Der Abstand der Einzelbäume beträgt im Minimum 10 Meter.
+<sup>1</sup> Für einheimische, standortgerechte Einzelbäume mit hohem Biodiversitätsindex (wie z.B. Nussbäume, Eichen, Linden, Feldahorn, Salweiden) von ökologischem Wert auf Wiesen, Weide- oder Ackerland können Beiträge entrichtet werden, wenn die Bodenfläche der Bäume wie eine extensive Wiese oder Weide genutzt wird. Die Bodenfläche um den Stamm entspricht in der Regel der doppelten Kronenfläche, beträgt jedoch pro Baum maximal 2 Aren im Baumumfeld, bei Jungbäumen minimal 1 Are. Der Abstand der Einzelbäume beträgt im Minimum 10 Meter.
 
-<sup>2</sup> Pro Einzelbaum auf Acker-, Wies- oder Weideland werden jährlich CHF 20 ausgerichtet. Dies gilt auch für abgestorbene Altbäume.
+<sup>2</sup> Pro Einzelbaum auf Wiesen, Weide- oder Ackerland werden jährlich CHF 40 ausgerichtet.
 
 <sup>3</sup> An die Neuanlage von Einzelbäumen auf Wiesland, Weideland oder Ackerland kann ein einmaliger Beitrag von CHF 100 pro Baum ausgerichtet werden.
 
@@ -127,15 +130,27 @@ beschliesst:
 
 #### § 9
 
-**Beiträge an Hochstammobstbäume**
+**Beiträge an Hochstammobstbäume und Jungbäume**
 
-<sup>1</sup> An die Pflege von bewirtschafteten Hochstammobstbäumen mit einer Stammhöhe von mindestens 1,6 Metern, welche ausserhalb der rechtskräftigen Bauzonen stehen, können folgende Zuschläge zu den Abgeltungsbeiträgen gemäss der kantonalen Verordnung über die Förderung der Biodiversität und Landschaftsqualität im Landwirtschaftsgebiet ausgerichtet werden.
+<sup>1</sup> An die Pflege von bewirtschafteten Hochstammobstbäumen mit einer Stammhöhe von mindestens 1,6 Metern, welche ausserhalb der rechtskräftigen Bauzonen stehen, können Zuschläge zu den Abgeltungsbeiträgen gemäss der kantonalen Verordnung über die Förderung der Biodiversität und Landschaftsqualität im Landwirtschaftsgebiet ausgerichtet werden. Abgestorbene Altbäume (Totholz) sind beitragsberechtigt, sofern sie einen Brusthöhendurchmesser von mindestens 20 Zentimeter haben, als Baum erkennbar sind und nicht von Feuerbrand befallen sind.
 
-<sup>2</sup> Für Obstbäume beträgt der Beitrag pro Baum und Jahr CHF 40. Dies gilt auch für abgestorbene Altbäume. Die oder der Bewirtschaftende des Bodens stellt in der Regel Antrag auf Erstattung dieses Beitrags. Erfolgt die Bewirtschaftung des Baumes und die Unternutzung durch zwei verschiedene Bewirtschaftende, so hat jede Partei im Prinzip Anrecht auf die Hälfte des Beitrags. Der oder die Bewirtschaftende des Baumes kann in diesem Fall bei der oder dem Bewirtschaftenden des Bodens die Beitragshälfte für die Obernutzung zurückfordern.
+<sup>2</sup> Abgeltungsbeiträge können von der Person geltend gemacht werden, die den Boden bewirtschaftet und über die notwendige Erfahrung und Qualifikation verfügt. Beitragsberechtigt sind insbesondere Landwirtinnen und Landwirte, ausgebildete Gärtnerinnen und Gärtner und Privatpersonen, welche einen von der Gemeinde anerkannten Baumschnittkurs besucht haben oder einen vergleichbaren Erfahrungsnachweis erbringen können. Ein Erfahrungs- oder Qualifikationsnachweis ist drei Jahre nach Inkrafttreten dieser Änderung Voraussetzung, um Abgeltungsbeiträge geltend machen zu können.
+
+<sup>2<sup>bis</sup></sup> Erfolgt die Bewirtschaftung des Baumes und die Unternutzung durch zwei verschiedene Bewirtschaftende, so hat jede Partei im Prinzip Anrecht auf die Hälfte des Beitrags. Die bewirtschaftende Partei des Baumes kann in diesem Fall bei der bewirtschaftenden Partei des Bodens die Beitragshälfte für die Obernutzung zurückfordern.
+
+<sup>2<sup>ter</sup></sup> Pro Baum und Jahr werden folgende Abgeltungsbeiträge ausgerichtet:
+
+- a) für Kirsch-, Zwetschgen-, Mirabellen, Reineclaude-, Pflaumen-, Apfel-, Birnen-, Quitten- und Nussbäume sowie Edelkastanien: — CHF 40;
+- b) für abgestorbene Altbäume (Totholz), wobei pro Bewirtschaftenden maximal 10 % der Beiträge für Totholz ausgerichtet wird: — CHF 40.
 
 <sup>3</sup> Junge Hochstammobstbäume, die auf Bettinger Gebiet gepflanzt werden, können zum Preis von CHF 20 bei der Gemeindegärtnerei Riehen bezogen werden.
 
 <sup>4</sup> Nach vorhergehender Absprache zwischen Gemeindeverwaltung und der Grundstückeigentümerin oder dem -eigentümer resp. der Pächterin oder dem Pächter kann auch der Kaufpreis geeigneter Jungbäume teilweise übernommen werden, welche bei externen Anbietenden bezogen werden. Der Beitrag der Gemeinde beträgt abzüglich des Selbstbehaltes von CHF 20 maximal CHF 60 gegen Vorlage der Kaufquittung.
+
+<sup>5</sup> Die Gemeinde übernimmt die Kosten für Ersatzpflanzungen von Hochstammobstbäumen ausserhalb des Siedlungsgebiets sowie deren sachgerechte Pflege durch qualifizierte Landwirtinnen und Landwirte oder Gärtnerinnen und Gärtner während der ersten fünf Jahre ab Pflanzung ganz oder teilweise. Ersatzpflanzungen von Totholz werden nicht entschädigt. Die Maximalbeiträge pro Baum betragen:
+
+- a) Pflanzkosten: — CHF 100;
+- b) Pflegekosten: — CHF 80 pro Jahr.
 
 #### § 9a
 
@@ -143,7 +158,15 @@ beschliesst:
 
 <sup>1</sup> Für Weiden, die ohne Mähnutzung geweidet werden, können Abgeltungsbeiträge ausgerichtet werden. Alle zwei bis drei Jahre ist ein Säuberungsschnitt erlaubt. Für Standweiden und intensiv genutzte Koppelweiden werden keine Abgeltungsbeiträge ausgerichtet.
 
-<sup>2</sup> Pro Are Weide und Jahr werden CHF 2 ausgerichtet.
+<sup>2</sup> Pro Are und Jahr werden folgende Beiträge ausgerichtet: extensiv genutzte Weiden: CHF 5.
+
+#### § 9b
+
+**Graslandbasierte Milch- und Fleischproduktion**
+
+<sup>1</sup> Bettinger Betriebe werden mit Zuschlägen auf die Beiträge an die graslandbasierte Milch- und Fleischproduktion gefördert. Vom Betrieb bewirtschaftete Grünfläche (Dauergrünland und Kunstwiese) ausserhalb des Gemeindegebiets sowie auf angestammten Flächen im Ausland sind ebenfalls beitragsberechtigt.
+
+<sup>2</sup> Der Zuschlag für graslandbasierte Milch- und Fleischproduktion beträgt pro Hektar und Jahr: CHF 40.
 
 #### § 10
 
@@ -172,7 +195,5 @@ beschliesst:
 <sup>1</sup> Dieses Reglement ist zu publizieren; es wird per 1. Januar 2007 wirksam.[^13-1] Auf den gleichen Zeitpunkt wird das Reglement zur Ordnung über Beiträge für ökologische Ausgleichsflächen vom 22. September 1992 aufgehoben.
 
 [^13-1]: Publiziert am 20. 1. 2007.
-
-Diese Änderung wird publiziert. Sie wird per 1. Juli 2014 wirksam.
 
 KB 20.01.2007
