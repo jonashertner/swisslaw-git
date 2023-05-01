@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 05.04.2023 de mise en vigueur
+title: ARRÊTÉ du 26.04.2023 de mise en vigueur
 language: fr
-version: 2023-04-14
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=871b901c-79cd-4623-811d-2fe6499825bd"
+version: 2023-05-02
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=d176deae-1273-447e-abd8-b1f0f3a8b839"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 5 avril 2023
+du 26 avril 2023
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,4 +21,7 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Le décret du décret du 17 janvier 2023 accordant au Conseil d'Etat un crédit d'investissement de CHF 4'500'000.- pour financer les mesures d'impulsion du Plan climat vaudois dans le domaine d'action « Milieux et ressources naturelles » : Renforcer la qualité paysagère et naturelle dans l'espace bâti, (BLV 814.00), publié dans la "Feuille des avis officiels du Canton de Vaud" du 31 janvier 2023, entre en vigueur avec effet au 15 avril 2023.
+<sup>1</sup> Les décrets ci-après du 31 janvier 2023, publiés dans la "Feuille des avis officiels du Canton de Vaud" du 14 février 2023, entrent en vigueur le 1er mai 2023 :
+
+- 1\. décret du 31 janvier 2023 accordant au Conseil d'Etat un crédit d'investissement de CHF 21'000'000.- pour financer les travaux de réhabilitation du tronçon En Favrins sur la RC 706 B-P, sur le territoire des communes d'Ormont-Dessous et Ormont-Dessus (BLV 725.20) ;
+- 2\. décret du 31 janvier 2023 accordant au Conseil d'Etat un crédit d'ouvrage de CHF 4'000'000.- pour financer les travaux de réhabilitation de la route cantonale 26-C-P entre Vich et Begnins sur le territoire de la commune de Begnins (BLV 725.20).
