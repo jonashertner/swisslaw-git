@@ -3,11 +3,11 @@ sr: "0.672.915.61"
 title: "Convenzione del 12 giugno 2006 tra la Confederazione Svizzera e la Repubblica di Armenia per evitare le doppie imposizioni in materia d'imposte sul reddito e sul patrimonio (con Prot.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/56"
 language: it
-version: 2007-11-07
+version: 2023-05-02
 adopted: 2006-06-12
 in_force: 2007-11-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/56/20071107/it/xml/fedlex-data-admin-ch-eli-cc-2008-56-20071107-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/56/20071107/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/56/20230502/it/xml/fedlex-data-admin-ch-eli-cc-2008-56-20230502-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/56/20230502/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,26 +16,33 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/56/20071107/it"
 
 RU **2008** 167; FF **2006** 7015
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa il 12 giugno 2006 Approvata dall'Assemblea federale il 7 marzo 2007[^t-2] Entrata in vigore mediante scambio di note il 7 novembre 2007
+Conclusa il 12 giugno 2006 Approvata dall'Assemblea federale il 7 marzo 2007[^t-1] Entrata in vigore mediante scambio di note il 7 novembre 2007
 
-(Stato 7 novembre 2007)
+(Stato 2 maggio 2023)
 
-[^t-1]: Il testo originale tedesco è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
-[^t-2]: [RU 2008 165](https://fedlex.data.admin.ch/eli/oc/2008/55)
+[^t-1]: [RU 2008 165](https://fedlex.data.admin.ch/eli/oc/2008/55)
 
-Il Consiglio federale svizzero e il Governo della Repubblica di Armenia,
+La Confederazione Svizzera e il Governo della Repubblica di Armenia,
 
-desiderosi di incrementare e consolidare la collaborazione economica, scientifica e tecnica e a questo scopo di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio nonché di promuovere la collaborazione economica tra i due Paesi,
+desiderosi di incrementare e consolidare la collaborazione economica, scientifica e tecnica e a questo scopo di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio,
 
-hanno convenuto quanto segue:
+nell’intento di eliminare la doppia imposizione in materia di imposte sul reddito e sul patrimonio, senza creare opportunità di non imposizione o di ridotta imposizione attraverso l’evasione o l’elusione fiscale (incluse le strategie di abuso dei trattati fiscali [«treaty-shopping»] finalizzate a ottenere i benefici previsti dalla presente Convenzione a beneficio indiretto di residenti in Stati o Giurisdizioni terzi),
+
+*hanno convenuto quanto segue:*[^ingress-1]
+
+[^ingress-1]: Nuovo testo giusta l’art. 1 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
 
 #### Art. 1
 
 **Persone considerate**
 
-La presente Convenzione si applica alle persone che sono residenti di uno o di entrambi gli Stati contraenti.
+<sup>1.</sup> La presente Convenzione si applica alle persone che sono residenti di uno o di entrambi gli Stati contraenti.
+
+<sup>2.</sup> Ai fini della presente Convenzione, i redditi derivanti da, o mediante, un ente, uno strumento o un accordo ritenuto in tutto o in parte come fiscalmente trasparente ai sensi della legislazione fiscale di uno degli Stati contraenti, sono considerati come redditi di un residente di uno Stato contraente, ma soltanto nella misura in cui questi redditi sono trattati, ai fini dell’imposizione da parte di tale Stato contraente, come i redditi di un residente di tale Stato contraente. In nessun caso le disposizioni del presente paragrafo possono essere interpretate nel senso di limitare il diritto di uno Stato contraente di assoggettare a imposizione i residenti di tale Stato contraente.[^1-1]
+
+[^1-1]: Introdotto dall’art. 2 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
 
 #### Art. 2
 
@@ -54,7 +61,7 @@ La presente Convenzione si applica alle persone che sono residenti di uno o di e
   - (i) l’imposta sull’utile,
   - (ii) l’imposta sul reddito,
   - (iii) l’imposta sul patrimonio,
-  - (iv) l’imposta fondiaria,
+  - (iv)[^2-1] ...
   - [tab] (qui di seguito indicate quali «imposta armena»);
 
 - b) in Svizzera:
@@ -66,6 +73,8 @@ La presente Convenzione si applica alle persone che sono residenti di uno o di e
 
 <sup>4.</sup> La Convenzione si applica anche alle imposte di natura identica o analoga istituite dopo la firma della Convenzione in aggiunta o in sostituzione delle imposte attuali. Le autorità competenti degli Stati contraenti si comunicano le modifiche importanti apportate alle loro rispettive legislazioni fiscali.
 
+[^2-1]: Abrogato dall’art. 3 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, con effetto dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+
 #### Art. 3
 
 **Definizioni generali**
@@ -73,27 +82,43 @@ La presente Convenzione si applica alle persone che sono residenti di uno o di e
 <sup>1.</sup> Ai sensi della presente Convenzione, salvo che il contesto non richieda una diversa interpretazione,
 
 - a) le espressioni «uno Stato contraente» e «l’altro Stato contraente» designano, secondo il contesto, l’Armenia o la Svizzera;
-- b) il termine «Armenia» designa la Repubblica di Armenia;
-- c) il termine «Svizzera» designa la Confederazione Svizzera;
+- b)[^3-1] il termine «Armenia» designa la Repubblica di Armenia e, in senso geografico, il territorio della Repubblica di Armenia, compresi gli spazi terrestri e marini, il sottosuolo e lo spazio aereo, in cui la Repubblica di Armenia esercita i propri diritti sovrani, in accordo con il diritto internazionale e il suo diritto interno;
+- c)[^3-2] il termine «Svizzera» designa il territorio della Confederazione Svizzera in accordo con il diritto internazionale e il suo diritto interno;
 - d) le espressioni «impresa di uno Stato contraente» e «impresa dell’altro Stato contraente» designano rispettivamente un’impresa esercitata da un residente di uno Stato contraente o un’impresa esercitata da un residente dell’altro Stato contraente;
 - e) il termine «persona» comprende le persone fisiche, le società e tutte le altre associazioni di persone;
 - f) il termine «società» designa qualsiasi persona giuridica o qualsiasi ente che è considerato persona giuridica ai fini dell’imposizione;
 - g) per «traffico internazionale» s’intende qualsiasi attività di trasporto effettuata per mezzo di una nave, di un aeromobile o di un veicolo stradale da parte di un’impresa in uno Stato contraente, ad eccezione del caso in cui la nave, l’aeromobile o il veicolo stradale sia utilizzato esclusivamente tra località situate nell’altro Stato contraente;
-- h)
+- h)[^3-3]
 
   l’espressione «autorità competente» designa:
 
-  - (i) in Armenia, il Ministero delle finanze e dell’economia o il suo rappresentante autorizzato, il capo del Servizio fiscale statale o il suo rappresentante autorizzato,
-  - (ii) per quanto concerne la Svizzera, il direttore dell’Amministrazione federale delle contribuzioni o il suo rappresentante autorizzato;
+  - (i) in Armenia, il ministro delle finanze e il capo del Comitato statale delle entrate o i suoi rappresentanti autorizzati,
+  - (ii) in Svizzera, il capo del Dipartimento federale delle finanze o il suo rappresentante autorizzato;
 
 - i)
 
   il termine «cittadini» designa:
 
   - (i) tutte le persone fisiche che hanno la cittadinanza di uno Stato contraente,
-  - (ii) tutte le persone giuridiche, le società di persone, le altre associazioni o altri enti giuridici costituiti conformemente alla legislazione in vigore in uno Stato contraente.
+  - (ii) tutte le persone giuridiche, le società di persone, le altre associazioni o altri enti giuridici costituiti conformemente alla legislazione in vigore in uno Stato contraente;
+
+- j)[^3-4] il termine «attività commerciale o industriale» comprende anche l’esercizio di una libera professione o di qualsiasi altra attività indipendente di carattere analogo;
+- k)[^3-5] il termine «impresa» si applica all’esercizio di qualsiasi attività commerciale o industriale;
+- l)[^3-6]
+
+  l’espressione «istituto di previdenza» di uno Stato designa un istituto o una struttura fondata in uno Stato contraente che, conformemente alla legislazione fiscale di questo Stato, è considerata come persona distinta e che:
+
+  - (i) è costituita e gestita esclusivamente ai fini dell’amministrazione o del versamento di prestazioni di previdenza o prestazioni analoghe a favore di persone fisiche e che è regolamentata come tale da questo Stato o da una sua suddivisione politica, o
+  - (ii) è costituita e gestita esclusivamente o quasi esclusivamente per l’investimento di averi per conto di istituti o strutture secondo il numero (i).
 
 <sup>2.</sup> Per l’applicazione della Convenzione da parte di uno Stato contraente, salvo che il contesto non richieda una diversa interpretazione, le espressioni non diversamente definite hanno il significato che ad esse è attribuito nel momento in cui la Convenzione è applicata conformemente alla legislazione di detto Stato relativa alle imposte oggetto della Convenzione, ritenuto che il senso attribuito a queste espressioni dalla legislazione fiscale applicabile in questo Stato prevale sul senso loro attribuito da un’altra legislazione di detto Stato.
+
+[^3-1]: Nuovo testo giusta l’art. 4 par. 1 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+[^3-2]: Nuovo testo giusta l’art. 4 par. 2 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+[^3-3]: Nuovo testo giusta l’art. 4 par. 3 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+[^3-4]: Introdotta dall’art. 4 par. 4 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+[^3-5]: Introdotta dall’art. 4 par. 5 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+[^3-6]: Introdotta dall’art. 4 par. 6 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
 
 #### Art. 4
 
@@ -130,7 +155,7 @@ L’espressione «stabile organizzazione» comprende in particolare:
 - f) una miniera, un pozzo di petrolio o di gas, una cava o un altro luogo di sfruttamento di risorse naturali;
 - g) un deposito in relazione a una persona che mette a disposizione di terzi le relative installazioni.
 
-<sup>3.</sup> Un cantiere di costruzione o una catena di montaggio o un’attività di sorveglianza connessa costituiscono una stabile organizzazione solo quando la loro durata oltrepassa i sei mesi.
+<sup>3.</sup> Un cantiere di costruzione o una catena di montaggio o un’attività di sorveglianza connessa costituiscono una stabile organizzazione solo quando la sua durata oltrepassa i nove mesi.[^5-1]
 
 <sup>4.</sup>
 
@@ -150,6 +175,8 @@ Nonostante le precedenti disposizioni del presente articolo non si considera che
 
 <sup>7.</sup> Il fatto che una società residente di uno Stato contraente controlli o sia controllata da una società residente dell’altro Stato contraente ovvero svolga la sua attività in quest’altro Stato (sia per mezzo di una stabile organizzazione che in altro modo) non costituisce di per sé motivo sufficiente per far considerare una qualsiasi delle dette società una stabile organizzazione dell’altra.
 
+[^5-1]: Nuovo testo giusta l’art. 5 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+
 #### Art. 6
 
 **Redditi immobiliari**
@@ -160,7 +187,9 @@ Nonostante le precedenti disposizioni del presente articolo non si considera che
 
 <sup>3.</sup> Le disposizioni del paragrafo 1 si applicano ai redditi derivanti dall’utilizzazione diretta, dalla locazione o dall’affitto nonché da ogni altra forma di utilizzazione di beni immobili.
 
-<sup>4.</sup> Le disposizioni dei paragrafi 1 e 3 si applicano anche ai redditi derivanti da beni immobili di un’impresa nonché ai redditi dei beni immobili utilizzati per l’esercizio di una professione indipendente.
+<sup>4.</sup> Le disposizioni dei paragrafi 1 e 3 si applicano anche ai redditi derivanti da beni immobili di un’impresa.[^6-1]
+
+[^6-1]: Nuovo testo giusta l’art. 6 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
 
 #### Art. 7
 
@@ -178,7 +207,12 @@ Nonostante le precedenti disposizioni del presente articolo non si considera che
 
 <sup>6.</sup> Ai fini dell’applicazione dei paragrafi precedenti, gli utili da attribuire alla stabile organizzazione sono determinati annualmente con lo stesso metodo, salvo che non esistano validi e sufficienti motivi per procedere diversamente.
 
-<sup>7.</sup> Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non sono pregiudicate da quelle del presente articolo.
+<sup>7.</sup> Uno Stato contraente non può eseguire una rettifica degli utili attribuibili a una stabile organizzazione di un’impresa di uno Stato contraente decorsi cinque anni dalla fine dell’anno fiscale in cui gli utili sarebbero stati attribuibili alla stabile organizzazione. Il presente paragrafo non si applica in caso di frode od omissione intenzionale.[^7-1]
+
+<sup>8.</sup> Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non sono pregiudicate da quelle del presente articolo.[^7-2]
+
+[^7-1]: Introdotto dall’art. 7 par. 2 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+[^7-2]: Originario par. 7.
 
 #### Art. 8
 
@@ -199,9 +233,11 @@ e, nell’uno e nell’altro caso, le due imprese, nelle loro relazioni commerci
 - a) un’impresa di uno Stato contraente partecipa, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa dell’altro Stato contraente; o
 - b) le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa di uno Stato contraente e di un’impresa dell’altro Stato contraente;
 
-<sup>2.</sup> Quando utili in base ai quali un’impresa di uno Stato contraente è stata imposta in questo Stato sono inclusi anche negli utili di un’impresa dell’altro Stato contraente e tassati in conseguenza, e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa dell’altro Stato contraente se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, le autorità competenti degli Stati contraenti possono consultarsi reciprocamente in vista di raggiungere un accordo sugli adeguamenti da apportare agli utili nei due Stati contraenti.
+<sup>2.</sup> Quando uno Stato contraente include negli utili di un’impresa di questo Stato, e tassa di conseguenza, utili sui quali un’impresa dell’altro Stato contraente è stata tassata in questo altro Stato e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa del primo Stato se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, l’altro Stato procede a una rettifica appropriata dell’ammontare d’imposta prelevato su questi utili. Per determinare la rettifica occorre tener conto delle altre disposizioni della presente Convenzione; se necessario, le autorità competenti degli Stati contraenti si consultano.[^9-1]
 
 <sup>3.</sup> Uno Stato contraente non rettificherà gli utili di un’impresa nei casi previsti dal paragrafo 1 dopo lo spirare dei termini previsti dalla sua legislazione nazionale e, in ogni caso, non dopo lo spirare di cinque anni a partire dalla fine dell’anno in cui gli utili oggetto di tale rettifica sarebbero stati conseguiti da un’impresa di questo Stato. Il presente paragrafo non si applica in caso di frode od omissione intenzionale.
+
+[^9-1]: Nuovo testo giusta l’art. 8 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
 
 #### Art. 10
 
@@ -209,20 +245,28 @@ e, nell’uno e nell’altro caso, le due imprese, nelle loro relazioni commerci
 
 <sup>1.</sup> I dividendi pagati da una società residente di uno Stato contraente a un residente dell’altro Stato contraente sono imponibili in detto altro Stato.
 
-<sup>2.</sup> Le autorità competenti degli Stati contraenti regolano di comune accordo le modalità d’applicazione di dette limitazioni.
+<sup>2.</sup>
 
-Le disposizioni del presente paragrafo non riguardano l’imposizione della società per gli utili con i quali sono pagati i dividendi.
+Tuttavia, tali dividendi sono anche imponibili nello Stato contraente di cui la società che paga i dividendi è residente e in conformità della legislazione di detto Stato, ma, se il beneficiario effettivo dei dividendi è un residente dell’altro Stato contraente, l’imposta così applicata non può eccedere:
 
-Tuttavia, tali dividendi sono anche imponibili nello Stato contraente di cui la società che paga i dividendi è residente e in conformità alla legislazione di detto Stato, ma, se il beneficiario effettivo dei dividendi è un residente dell’altro Stato contraente, l’imposta così applicata non può eccedere:
+- a) lo 0 per cento dell’ammontare lordo dei dividendi, se il beneficiario effettivo è una società che detiene direttamente almeno il 50 per cento del capitale della società che paga i dividendi per un periodo di 365 giorni comprendente il giorno del pagamento dei dividendi (per calcolare questo periodo non si terrà conto di alcun cambiamento di proprietà che risulterebbe direttamente da una fusione, una scissione o una trasformazione della società che detiene le quote o paga i dividendi) e al momento del pagamento dei dividendi ha investito oltre due milioni (2 000 000) di franchi svizzeri o l’equivalente in un’altra valuta nel capitale della società che paga i dividendi;
+- b) lo 0 per cento dell’ammontare lordo dei dividendi, se il beneficiario effettivo è un istituto di previdenza o la banca centrale dell’altro Stato contraente;
+- c) il 5 per cento dell’ammontare lordo dei dividendi, se il beneficiario effettivo è una società che detiene direttamente almeno il 10 per cento del capitale della società che paga i dividendi per un periodo di 365 giorni comprendente il giorno del pagamento dei dividendi (per calcolare questo periodo non si terrà conto di alcun cambiamento di proprietà che risulterebbe direttamente da una fusione, una scissione o una trasformazione della società che detiene le quote o paga i dividendi) e al momento del pagamento dei dividendi ha investito oltre centomila (100 000) franchi svizzeri o l’equivalente in un’altra valuta nel capitale della società che paga i dividendi;
+- d) il 15 per cento dell’ammontare lordo dei dividendi, in tutti gli altri casi.[^10-1]
 
-- a) il 5 per cento dell’ammontare lordo dei dividendi se il beneficiario effettivo è una società (diversa da una società di persone) che detiene direttamente almeno il 25 per cento del capitale della società che paga i dividendi e al momento delle scadenza dei dividendi la partecipazione supera i duecento mila (200 000) franchi svizzeri o l’equivalente in un’altra valuta;
-- b) il 15 per cento dell’ammontare lordo dei dividendi, in tutti gli altri casi.
+<sup>3.</sup> Le disposizioni del paragrafo 2 non riguardano l’imposizione della società per gli utili con i quali sono pagati i dividendi. Le autorità competenti degli Stati contraenti regolano di comune accordo le modalità d’applicazione di dette limitazioni.[^10-2]
 
-<sup>3.</sup> Ai fini del presente articolo il termine «dividendi» designa i redditi derivanti da azioni o da altre quote di partecipazione agli utili – ad eccezione dei crediti – nonché i redditi di altre quote sociali assoggettati al medesimo regime fiscale dei redditi delle azioni secondo la legislazione dello Stato di cui è residente la società distributrice.
+<sup>4.</sup> Ai fini del presente articolo il termine «dividendi» designa i redditi derivanti da azioni o da altre quote di partecipazione agli utili – ad eccezione dei crediti – nonché i redditi di altre quote sociali assoggettati al medesimo regime fiscale dei redditi delle azioni secondo la legislazione dello Stato di cui è residente la società distributrice.[^10-3]
 
-<sup>4.</sup> Le disposizioni dei paragrafi 1 e 2 non si applicano nel caso in cui il beneficiario effettivo dei dividendi, residente di uno Stato contraente, eserciti, nell’altro Stato contraente di cui la società che paga i dividendi è residente, sia un’attività commerciale o industriale per mezzo di una stabile organizzazione ivi situata, sia una professione indipendente mediante una base fissa ivi situata, e la partecipazione generatrice dei dividendi si ricolleghi effettivamente a detta stabile organizzazione o base fissa. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 (Utili delle imprese) o dell’articolo 14 (Professioni indipendenti).
+<sup>5.</sup> Le disposizioni dei paragrafi 1 e 2 non si applicano nel caso in cui il beneficiario effettivo dei dividendi, residente di uno Stato contraente, eserciti, nell’altro Stato contraente di cui la società che paga i dividendi è residente, un’attività commerciale o industriale per mezzo di una stabile organizzazione ivi situata e la partecipazione generatrice dei dividendi si ricolleghi effettivamente a detta stabile organizzazione. In tale ipotesi, si applicano le disposizioni dell’articolo 7 (Utili delle imprese).[^10-4]
 
-<sup>5.</sup> Qualora una società residente di uno Stato contraente ricavi utili o redditi dall’altro Stato contraente, detto altro Stato non può applicare alcuna imposta sui dividendi pagati dalla società, salvo che tali dividendi siano pagati a un residente di detto altro Stato o che la partecipazione generatrice dei dividendi si ricolleghi effettivamente a una stabile organizzazione o a una base fissa situata in detto altro Stato, né prelevare alcuna imposta, a titolo di imposizione degli utili non distribuiti, sugli utili non distribuiti della società, anche se i dividendi pagati o gli utili non distribuiti costituiscano in tutto o in parte utili o redditi realizzati in detto altro Stato.
+<sup>6.</sup> Qualora una società residente di uno Stato contraente ricavi utili o redditi dall’altro Stato contraente, detto altro Stato non può applicare alcuna imposta sui dividendi pagati dalla società, salvo che tali dividendi siano pagati a un residente di detto altro Stato o che la partecipazione generatrice dei dividendi si ricolleghi effettivamente a una stabile organizzazione situata in detto altro Stato, né prelevare alcuna imposta, a titolo di imposizione degli utili non distribuiti, sugli utili non distribuiti della società, anche se i dividendi pagati o gli utili non distribuiti sono costituiti in tutto o in parte da utili o redditi realizzati in detto altro Stato.[^10-5]
+
+[^10-1]: Nuovo testo giusta l’art. 9 par. 1 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+[^10-2]: Introdotto dall’art. 9 par. 1 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+[^10-3]: Originario par. 3.
+[^10-4]: Originario par. 4. Nuovo testo giusta l’art. 9 par. 3 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+[^10-5]: Originario par. 5. Nuovo testo giusta l’art. 9 par. 4 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
 
 #### Art. 11
 
@@ -236,16 +280,21 @@ Tuttavia, tali dividendi sono anche imponibili nello Stato contraente di cui la 
 
 Nonostante il paragrafo 2, gli interessi provenienti da uno Stato contraente e pagati a un residente dell’altro Stato contraente che ne è il beneficiario effettivo, sono imponibili soltanto in detto altro Stato, se gli interessi sono pagati:
 
-- a) in relazione alla vendita a credito di un equipaggiamento industriale, commerciale o scientifico; o
-- b) su un mutuo di qualunque natura concesso da un istituto bancario.
+- a) in relazione alla vendita a credito di un equipaggiamento industriale, commerciale o scientifico;
+- b) su un mutuo di qualunque natura concesso da un istituto bancario; o
+- c)[^11-1] al Governo dell’altro Stato, alle sue suddivisioni politiche o ai suoi enti locali o alla sua banca centrale.
 
 <sup>4.</sup> Ai fini della presente Convenzione il termine «interessi» designa i redditi provenienti da crediti di ogni natura, corredati o no di diritti di pegno o di una clausola di partecipazione agli utili del debitore, e segnatamente i redditi provenienti da prestiti pubblici e obbligazioni di prestiti, compresi i premi e altri frutti relativi a detti titoli. Le penali per pagamento tardivo non sono considerate interessi ai sensi della presente Convenzione.
 
-<sup>5.</sup> Le disposizioni dei paragrafi 1, 2 e 3 non si applicano nel caso in cui il beneficiario degli interessi, residente di uno Stato contraente, eserciti nell’altro Stato contraente dal quale provengono gli interessi, sia un’attività industriale o commerciale per mezzo di una stabile organizzazione ivi situata, sia una professione indipendente mediante una base fissa ivi situata, e il credito generatore degli interessi si ricolleghi effettivamente a detta stabile organizzazione o base fissa. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 (Utili delle imprese) o dell’articolo 14 (Professioni indipendenti).
+<sup>5.</sup> Le disposizioni dei paragrafi 1, 2 e 3 non si applicano nel caso in cui il beneficiario degli interessi, residente di uno Stato contraente, eserciti nell’altro Stato contraente dal quale provengono gli interessi, un’attività industriale o commerciale per mezzo di una stabile organizzazione ivi situata e il credito generatore degli interessi si ricolleghi effettivamente a detta stabile organizzazione. In tale ipotesi, si applicano le disposizioni dell’articolo 7 (Utili delle imprese).[^11-2]
 
-<sup>6.</sup> Gli interessi si considerano provenire da uno Stato contraente anche quando il debitore è una persona residente di detto Stato. Tuttavia, quando il debitore degli interessi, sia esso residente o no di uno Stato contraente, ha in uno Stato contraente una stabile organizzazione o una base fissa per la quale è stato contratto il debito sul quale sono pagati gli interessi e questi sono a carico della stabile organizzazione o della base fissa, gli interessi si considerano provenienti dallo Stato contraente in cui è situata la stabile organizzazione o la base fissa.
+<sup>6.</sup> Gli interessi si considerano provenire da uno Stato contraente anche quando il debitore è una persona residente di detto Stato. Tuttavia, quando il debitore degli interessi, sia esso residente o no di uno Stato contraente, ha in uno Stato contraente una stabile organizzazione per la quale è stato contratto il debito sul quale sono pagati gli interessi e questi sono a carico della stabile organizzazione, gli interessi si considerano provenienti dallo Stato contraente in cui è situata la stabile organizzazione.[^11-3]
 
 <sup>7.</sup> Se, in conseguenza di particolari relazioni esistenti tra debitore e beneficiario effettivo o tra ciascuno di essi e terze persone, l’ammontare degli interessi pagati, tenuto conto del credito per il quale sono pagati, eccede quello che sarebbe stato convenuto tra debitore e beneficiario effettivo in assenza di simili relazioni, le disposizioni del presente articolo si applicano soltanto a quest’ultimo ammontare. In tal caso, la parte eccedente dei pagamenti è imponibile in conformità alla legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione.
+
+[^11-1]: Introdotta dall’art. 10 par. 1 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+[^11-2]: Nuovo testo giusta l’art. 10 par. 2 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+[^11-3]: Nuovo testo giusta l’art. 10 par. 3 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
 
 #### Art. 12
 
@@ -257,11 +306,14 @@ Nonostante il paragrafo 2, gli interessi provenienti da uno Stato contraente e p
 
 <sup>3.</sup> Ai fini del presente articolo il termine «canoni» designa i compensi di qualsiasi natura pagati per l’uso o la concessione in uso di un diritto d’autore su un’opera letteraria, artistica o scientifica, comprese le pellicole cinematografiche e le pellicole o le registrazioni per emissioni radiofoniche e televisive, di brevetti, marchi di fabbrica o di commercio, disegni o modelli, progetti, formule o processi segreti oppure per informazioni concernenti esperienze di carattere industriale, commerciale o scientifico.
 
-<sup>4.</sup> Le disposizioni dei paragrafi 1 e 2 non si applicano nel caso in cui il beneficiario effettivo dei canoni, residente di uno Stato contraente, eserciti, nell’altro Stato contraente dal quale provengono i canoni, un’attività commerciale o industriale per mezzo di una stabile organizzazione ivi situata oppure una professione indipendente per mezzo di una base fissa ivi situata, e i diritti o i beni generatori dei canoni si ricolleghino effettivamente a detta stabile organizzazione o base fissa. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 (Utili delle imprese) o dell’articolo 14 (Professioni indipendenti).
+<sup>4.</sup> Le disposizioni dei paragrafi 1 e 2 non si applicano nel caso in cui il beneficiario effettivo dei canoni, residente di uno Stato contraente, eserciti, nell’altro Stato contraente dal quale provengono i canoni, un’attività commerciale o industriale per mezzo di una stabile organizzazione ivi situata, e i diritti o i beni generatori dei canoni si ricolleghino effettivamente a detta stabile organizzazione. In un simile caso, si applicano le disposizioni dell’articolo 7 (Utili delle imprese).[^12-1]
 
-<sup>5.</sup> I canoni si considerano provenienti da uno Stato contraente anche quando il debitore è una persona residente di detto Stato. Tuttavia, quando il debitore dei canoni, sia esso un residente o no di uno Stato contraente, ha in uno Stato contraente una stabile organizzazione o una base fissa per le quali è stato contratto l’obbligo di pagamento dei canoni e tali canoni sono a carico della stabile organizzazione o della base fissa, i canoni stessi si considerano provenienti dallo Stato contraente in cui è situata la stabile organizzazione o la base fissa.
+<sup>5.</sup> I canoni si considerano provenienti da uno Stato contraente anche quando il debitore è una persona residente di detto Stato. Tuttavia, quando il debitore dei canoni, sia esso un residente o no di uno Stato contraente, ha in uno Stato contraente una stabile organizzazione per la quale è stato contratto l’obbligo di pagamento dei canoni e tali canoni sono a carico della stabile organizzazione, i canoni stessi si considerano provenienti dallo Stato contraente in cui è situata la stabile organizzazione.[^12-2]
 
 <sup>6.</sup> Se, in conseguenza di particolari relazioni esistenti tra debitore e beneficiario o tra ciascuno di essi e terze persone, l’ammontare dei canoni pagati, tenuto conto del credito per il quale sono pagati, eccede quello che sarebbe stato convenuto tra debitore e beneficiario effettivo in assenza di simili relazioni, le disposizioni del presente articolo si applicano soltanto a quest’ultimo ammontare. In tal caso, la parte eccedente dei pagamenti è imponibile in conformità alla legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione.
+
+[^12-1]: Nuovo testo giusta l’art. 11 par. 1 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+[^12-2]: Nuovo testo giusta l’art. 11 par. 2 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
 
 #### Art. 13
 
@@ -269,7 +321,7 @@ Nonostante il paragrafo 2, gli interessi provenienti da uno Stato contraente e p
 
 <sup>1.</sup> Gli utili che un residente di uno Stato contraente trae dall’alienazione di beni immobili secondo la definizione di cui all’articolo 6 (Redditi immobiliari) e situati nell’altro Stato contraente sono imponibili in quest’ultimo Stato.
 
-<sup>2.</sup> Gli utili derivanti dall’alienazione di beni mobili facenti parte dell’attivo di una stabile organizzazione che un’impresa di uno Stato contraente ha nell’altro Stato contraente, ovvero di beni mobili appartenenti a una base fissa di cui dispone un residente di uno Stato contraente nell’altro Stato contraente per l’esercizio di una professione indipendente, compresi gli utili derivanti dall’alienazione di detta stabile organizzazione (da sola o in uno con l’intera impresa) o di detta base fissa, sono imponibili in detto altro Stato.
+<sup>2.</sup> Gli utili derivanti dall’alienazione di beni mobili facenti parte dell’attivo di una stabile organizzazione che un’impresa di uno Stato contraente ha nell’altro Stato contraente, compresi gli utili derivanti dall’alienazione di detta stabile organizzazione (da sola o con l’intera impresa), sono imponibili in detto altro Stato.[^13-1]
 
 <sup>3.</sup> Gli utili di un’impresa residente di uno Stato contraente derivanti dall’alienazione di navi, aeromobili o veicoli stradali impiegati nel traffico internazionale e dall’alienazione di beni mobili adibiti al loro esercizio sono imponibili soltanto in questo Stato contraente.
 
@@ -277,17 +329,17 @@ Nonostante il paragrafo 2, gli interessi provenienti da uno Stato contraente e p
 
 <sup>5.</sup> Gli utili derivanti dall’alienazione di ogni altro bene diverso da quelli indicati ai paragrafi 1, 2, 3 e 4 sono imponibili soltanto nello Stato contraente di cui l’alienante è residente.
 
+[^13-1]: Nuovo testo giusta l’art. 12 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+
 #### Art. 14
 
-**Professioni indipendenti**
+[^14-1]
 
-<sup>1.</sup> I redditi che un residente di uno Stato contraente trae dall’esercizio di una libera professione o di altre attività di carattere indipendente sono imponibili soltanto in detto Stato, salvo che egli non disponga abitualmente di una base fissa nell’altro Stato contraente per l’esercizio della propria attività. Ove disponga di una tale base fissa, i redditi sono imponibili nell’altro Stato, ma unicamente nella misura in cui essi sono imputabili a detta base fissa.
-
-<sup>2.</sup> L’espressione «libera professione» comprende, in particolare, le attività indipendenti di carattere scientifico, letterario, artistico, educativo o pedagogico, nonché le attività indipendenti di medici, avvocati, ingegneri, architetti, dentisti e periti contabili.
+[^14-1]: Abrogato dall’art. 13 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, con effetto dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
 
 #### Art. 15
 
-**Lavoro subordinato**
+**Redditi da lavoro subordinato[^15-1]**
 
 <sup>1.</sup> Fatte salve le disposizioni degli articoli 16 (Compensi e gettoni di presenza), 18 (Pensioni) e 19 (Funzioni pubbliche), le retribuzioni e le altre rimunerazioni analoghe che un residente di uno Stato contraente riceve in corrispettivo di un lavoro subordinato sono imponibili soltanto in detto Stato contraente, salvo che l’attività non sia svolta nell’altro Stato contraente. Se l’attività è quivi svolta, le rimunerazioni percepite a tale titolo sono imponibili in questo altro Stato.
 
@@ -301,6 +353,8 @@ Nonostante le disposizioni del paragrafo 1, le rimunerazioni che un residente di
 
 <sup>3.</sup> Nonostante le precedenti disposizioni del presente articolo, le rimunerazioni percepite in corrispettivo di un lavoro subordinato svolto a bordo di navi, aeromobili o veicoli stradali impiegati nel traffico internazionale da un’impresa di uno Stato contraente, sono imponibili in questo Stato contraente.
 
+[^15-1]: Nuovo testo giusta l’art. 14 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+
 #### Art. 16
 
 **Compensi e gettoni di presenza**
@@ -311,11 +365,14 @@ Le partecipazioni agli utili, i gettoni di presenza e le altre rimunerazioni ana
 
 **Artisti e sportivi**
 
-<sup>1.</sup> Nonostante le disposizioni degli articoli 14 (Professioni indipendenti) e 15 (Lavoro subordinato), i redditi che un residente di uno Stato contraente trae dalle sue prestazioni personali esercitate nell’altro Stato contraente in qualità di artista, come artista di teatro, del cinema, della radio o della televisione, o in qualità di musicista nonché di sportivo sono imponibili in detto altro Stato.
+<sup>1.</sup> Nonostante le disposizioni dell’articolo 15 (Redditi da lavoro subordinato), i redditi che un residente di uno Stato contraente trae dalle sue prestazioni personali esercitate nell’altro Stato contraente in qualità di artista, come artista di teatro, del cinema, della radio o della televisione, o in qualità di musicista nonché di sportivo sono imponibili in detto altro Stato.[^17-1]
 
-<sup>2.</sup> Quando il reddito proveniente da prestazioni personali esercitate da un artista o da uno sportivo in tale qualità è attribuito a una persona diversa dall’artista o dallo sportivo medesimo, detto reddito può essere tassato, nonostante le disposizioni degli articoli 7 (Utili delle imprese), 14 (Professioni indipendenti) e 15 (Lavoro subordinato), nello Stato contraente in cui dette prestazioni sono svolte. Le disposizioni del presente paragrafo non si applicano qualora sia dimostrato che né l’artista o lo sportivo né persone a lui associate partecipino direttamente agli utili di quest’altra persona.
+<sup>2.</sup> Quando il reddito proveniente da prestazioni personali esercitate da un artista o da uno sportivo in tale qualità è attribuito a una persona diversa dall’artista o dallo sportivo medesimo, detto reddito può essere tassato, nonostante le disposizioni degli articoli 7 (Utili delle imprese) e 15 (Redditi da lavoro subordinato), nello Stato contraente in cui dette prestazioni sono svolte. Le disposizioni del presente paragrafo non si applicano qualora sia dimostrato che né l’artista o lo sportivo né persone a lui associate partecipino direttamente agli utili di quest’altra persona.[^17-2]
 
 <sup>3.</sup> Le disposizioni dei paragrafi 1 e 2 non si applicano ai redditi provenienti da attività esercitate da artisti e sportivi se questi redditi derivano in misura notevole, direttamente o indirettamente, da fondi pubblici dell’altro Stato contraente o di una delle sue suddivisioni politiche o di enti locali.
+
+[^17-1]: Nuovo testo giusta l’art. 15 par. 2 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+[^17-2]: Nuovo testo giusta l’art. 15 par. 3 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
 
 #### Art. 18
 
@@ -351,7 +408,9 @@ Fatte salve le disposizioni del paragrafo 2 dell’articolo 19 (Funzioni pubblic
 
 <sup>1.</sup> Gli elementi di reddito di un residente di uno Stato contraente, di qualsiasi provenienza, che non sono stati trattati negli articoli precedenti della presente Convenzione sono imponibili soltanto in tale Stato. La presente disposizione non vale per le vincite alle lotterie.
 
-<sup>2.</sup> Le disposizioni del paragrafo 1 non si applicano ai redditi diversi da quelli provenienti da beni immobili ai sensi del paragrafo 2 dell’articolo 6 (Redditi immobiliari), nel caso in cui il beneficiario di tali redditi, residente di uno Stato contraente, eserciti nell’altro Stato contraente sia un’attività industriale o commerciale per mezzo di una stabile organizzazione ivi situata, sia una professione indipendente mediante una base fissa ivi situata, cui si ricollega effettivamente il diritto o il bene generatore dei redditi. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 (Utili delle imprese) o dell’articolo 14 (Professioni indipendenti).
+<sup>2.</sup> Le disposizioni del paragrafo 1 non si applicano ai redditi diversi da quelli provenienti da beni immobili ai sensi del paragrafo 2 dell’articolo 6, nel caso in cui il beneficiario di tali redditi, residente di uno Stato contraente, eserciti nell’altro Stato contraente un’attività commerciale o industriale per mezzo di una stabile organizzazione ivi situata e i diritti o i beni generatori dei redditi si ricolleghino effettivamente a detta stabile organizzazione. In un simile caso, si applicano le disposizioni dell’articolo 7 (Utili delle imprese).[^21-1]
+
+[^21-1]: Nuovo testo giusta l’art. 16 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
 
 #### Art. 22
 
@@ -359,11 +418,13 @@ Fatte salve le disposizioni del paragrafo 2 dell’articolo 19 (Funzioni pubblic
 
 <sup>1.</sup> Il patrimonio costituito da beni immobili ai sensi dell’articolo 6 (Redditi immobiliari), posseduto da un residente di uno Stato contraente e situato nell’altro Stato contraente è imponibile in detto altro Stato.
 
-<sup>2.</sup> Il patrimonio costituito da beni mobili che fanno parte dell’attivo di una stabile organizzazione che un’impresa di uno Stato contraente possiede nell’altro Stato contraente o da beni mobili appartenenti a una base fissa di cui un residente di uno Stato contraente dispone nell’altro Stato contraente per l’esercizio di una professione indipendente è imponibile in detto altro Stato.
+<sup>2.</sup> Il patrimonio costituito da beni mobili che fanno parte dell’attivo di una stabile organizzazione che un’impresa di uno Stato contraente possiede nell’altro Stato contraente è imponibile in detto altro Stato.[^22-1]
 
 <sup>3.</sup> Il patrimonio costituito da navi, aeromobili e veicoli stradali impiegati nel traffico internazionale da una persona residente di uno Stato contraente, e da beni mobili adibiti al loro esercizio, è imponibile soltanto in detto Stato contraente.
 
 <sup>4.</sup> Ogni altro elemento del patrimonio di un residente di uno Stato contraente è imponibile soltanto in detto Stato.
+
+[^22-1]: Nuovo testo giusta l’art. 17 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
 
 #### Art. 23
 
@@ -395,6 +456,9 @@ Per quanto concerne la Svizzera, la doppia imposizione è evitata nel modo segue
 
 - La Svizzera determina il tipo di sgravio applicabile e regola in debito modo la procedura conformemente alle prescrizioni sull’applicazione delle convenzioni internazionali stipulate dalla Confederazione Svizzera per evitare le doppie imposizioni.
 - c) Qualora una società residente di Svizzera riceva dividendi da una società residente dell’Armenia, fruisce, per quanto concerne la riscossione dell’imposta svizzera inerente a detti dividendi, dei medesimi vantaggi di cui beneficerebbe se la società che paga i dividendi fosse residente di Svizzera.
+- d)[^23-1] Le disposizioni della lettera a del paragrafo 2 non si applicano ai redditi di un residente della Svizzera se l’Armenia applica le disposizioni della presente Convenzione per esentare questi redditi o questo patrimonio dall’imposta oppure applica a questi redditi le disposizioni di cui al paragrafo 2 dell’articolo 10 (Dividendi), al paragrafo 2 dell’articolo 11 (Interessi) o al paragrafo 2 dell’articolo 12 (Canoni).
+
+[^23-1]: Introdotta dall’art. 18 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
 
 #### Art. 24
 
@@ -416,19 +480,35 @@ Per quanto concerne la Svizzera, la doppia imposizione è evitata nel modo segue
 
 <sup>1.</sup> Quando ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportano o comporteranno per lei un’imposizione non conforme alla presente Convenzione, una persona può, indipendentemente dai mezzi giuridici previsti dalla legislazione nazionale di tali Stati contraenti, sottoporre il suo caso all’autorità competente dello Stato contraente di cui è residente o, se il suo caso ricade nell’ambito di applicazione dell’articolo 24 paragrafo 1 (Non discriminazione), a quella dello Stato contraente di cui possiede la cittadinanza. Il caso deve essere sottoposto entro i tre anni che seguono la prima notificazione della misura che comporta un’imposizione non conforme alle disposizioni della presente Convenzione.
 
-<sup>2.</sup> L’autorità competente, se il reclamo le appare fondato e se essa non è in grado di giungere a una soluzione soddisfacente, si adopera per regolare il caso in via di amichevole composizione con l’autorità competente dell’altro Stato contraente, al fine di evitare un’imposizione non conforme alla Convenzione.
+<sup>2.</sup> Se il reclamo le appare fondato e non è in grado di giungere a una soluzione soddisfacente, l’autorità competente si adopera per regolare il caso in via di amichevole composizione con l’autorità competente dell’altro Stato contraente, al fine di evitare un’imposizione non conforme alla presente Convenzione. L’accordo deve essere attuato nonostante i termini previsti dalla legislazione nazionale degli Stati contraenti, ma al più tardi dieci anni dopo la fine dell’anno fiscale considerato.[^25-1]
 
 <sup>3.</sup> Le autorità competenti degli Stati contraenti si adoperano per risolvere in via di amichevole composizione le difficoltà o i dubbi inerenti all’interpretazione o all’applicazione della Convenzione. Esse potranno altresì consultarsi al fine di eliminare la doppia imposizione nei casi non previsti dalla Convenzione.
 
 <sup>4.</sup> Le autorità competenti degli Stati contraenti possono conferire direttamente fra loro per giungere a un accordo ai sensi dei paragrafi precedenti e procedere anche a un colloquio nell’ambito di una commissione comune composta da dette autorità o da loro rappresentanti.
 
+[^25-1]: Nuovo testo giusta l’art. 19 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+
 #### Art. 26
 
-**Scambio di informazioni**
+**Scambio di informazioni**[^26-1]
 
-<sup>1.</sup> Le autorità competenti degli Stati contraenti si scambiano le informazioni (che le legislazioni fiscali degli Stati contraenti permettono di ottenere nel quadro della normale prassi amministrativa) necessarie per l’applicazione delle disposizioni della presente Convenzione. Le informazioni così scambiate devono essere tenute segrete e potranno essere rivelate soltanto alle persone incaricate dell’accertamento o della riscossione delle imposte considerate dalla presente Convenzione. Non potranno essere scambiate informazioni suscettibili di rivelare segreti commerciali o d’affari, bancari, industriali o professionali oppure metodi commerciali.
+<sup>1.</sup> Le autorità competenti degli Stati contraenti si scambiano le informazioni verosimilmente rilevanti per l’esecuzione della presente Convenzione oppure per l’applicazione o l’esecuzione della legislazione nazionale relativa alle imposte considerate dalla Convenzione, nella misura in cui l’imposizione prevista da tale legislazione non sia contraria alla Convenzione. Lo scambio di informazioni non è limitato dagli articoli 1 (Persone considerate) e 2 (Imposte considerate).
 
-<sup>2.</sup> Le disposizioni del presente articolo non potranno in nessun caso essere interpretate nel senso di imporre a uno Stato contraente l’obbligo di adottare misure amministrative in deroga alla regolamentazione o alla prassi amministrativa di uno o dell’altro Stato contraente, ovvero contrarie alla sua sovranità, alla sua sicurezza o all’ordine pubblico oppure di fornire informazioni che non possano essere ottenute in base alla sua legislazione o a quella dello Stato contraente che le chiede.
+<sup>2.</sup> Le informazioni ottenute in virtù del paragrafo 1 da uno Stato contraente sono tenute segrete allo stesso modo di quelle ottenute in applicazione della legislazione di questo Stato e sono accessibili soltanto alle persone o autorità (compresi i tribunali e gli organi amministrativi) incaricate dell’accertamento o della riscossione delle imposte di cui al paragrafo 1, dell’esecuzione o del perseguimento penale relativi a tali imposte oppure della decisione in merito ai ricorsi concernenti tali imposte. Dette persone o autorità possono utilizzare le informazioni unicamente per questi fini. Possono rivelarle nell’ambito di una procedura giudiziaria pubblica o in una decisione giudiziaria. Nonostante le disposizioni precedenti, uno Stato contraente può utilizzare le informazioni ricevute per altri fini, se ciò è previsto dalla legislazione di entrambi gli Stati e se l’autorità competente dello Stato richiesto ne ha approvato l’impiego.
+
+<sup>3.</sup>
+
+Le disposizioni dei paragrafi 1 e 2 non possono essere interpretate nel senso che facciano obbligo a uno Stato contraente di:
+
+- a) eseguire misure amministrative in deroga alla sua legislazione e alla sua prassi amministrativa o a quelle dell’altro Stato contraente;
+- b) fornire informazioni che non possono essere ottenute in virtù della sua legislazione o nell’ambito della sua normale prassi amministrativa oppure di quelle dell’altro Stato contraente;
+- c) fornire informazioni che potrebbero rivelare segreti commerciali o d’affari, industriali o professionali oppure metodi commerciali o informazioni la cui comunicazione sarebbe contraria all’ordine pubblico.
+
+<sup>4.</sup> Qualora, ai sensi del presente articolo, uno Stato contraente chieda informazioni, l’altro Stato contraente usa i poteri a sua disposizione al fine di ottenere le informazioni richieste, anche se queste informazioni non gli sono utili per fini fiscali propri. L’obbligo di cui al periodo precedente è soggetto alle limitazioni previste nel paragrafo 3, salvo nel caso in cui a causa di tali limitazioni uno Stato contraente potrebbe rifiutare di fornire informazioni solo perché tali informazioni non rivestono alcun interesse nazionale.
+
+<sup>5.</sup> In nessun caso le disposizioni del paragrafo 3 possono essere interpretate nel senso che permettono a uno Stato contraente di rifiutare di comunicare informazioni unicamente perché queste sono detenute da una banca, un altro istituto finanziario, un mandatario o una persona operante come agente o fiduciario oppure perché dette informazioni si rifanno ai diritti di proprietà di una persona.
+
+[^26-1]: Nuovo testo giusta l’art. 20 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
 
 #### Art. 27
 
@@ -444,6 +524,14 @@ Nonostante le disposizioni dell’articolo 4 (Residenza), ogni persona fisica ch
 - b) abbia, nello Stato accreditante, i medesimi obblighi dei residenti di questo Stato quanto all’imposta sul reddito o sul patrimonio complessivi.
 
 <sup>3.</sup> La presente Convenzione non si applica alle organizzazioni internazionali, ai loro organi o ai loro funzionari, né ai membri di una missione diplomatica, di una rappresentanza consolare o di una delegazione permanente di uno Stato terzo, che soggiornano sul territorio di uno Stato contraente e non sono trattati in materia d’imposta sul reddito o sul patrimonio come residenti dell’uno o dell’altro Stato contraente.
+
+#### Art. 27a
+
+**Diritto ai benefici**[^27a-1]
+
+Nonostante le altre disposizioni della presente Convenzione, un beneficio ai sensi della presente Convenzione non è concesso in relazione a un elemento di reddito o di patrimonio, se è ragionevole concludere, tenuto conto di tutti i fatti e di tutte le circostanze pertinenti, che l’ottenimento di tale beneficio era uno degli scopi principali di qualsiasi accordo, strumento o transazione che ha portato direttamente o indirettamente a tale beneficio, a meno che venga stabilito che la concessione di tale beneficio in dette circostanze sarebbe conforme all’oggetto e allo scopo delle pertinenti disposizioni della presente Convenzione.
+
+[^27a-1]: Introdotto dall’art. 21 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
 
 #### Art. 28
 
@@ -467,15 +555,21 @@ La presente Convenzione rimarrà in vigore sino alla denuncia da parte di uno de
 - a) alle imposte prelevate alla fonte sui redditi pagati o accreditati il, o dopo il, 1° gennaio dell’anno civile successivo a quello nel corso del quale è stata notificata la denuncia;
 - b) alle rimanenti imposte per i periodi fiscali che iniziano il, o dopo il, 1° gennaio dell’anno civile successivo a quello nel corso del quale è stata notificata la denuncia.
 
-*In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto in duplice esemplare a Erevan, il 12 giugno 2006, nelle lingue tedesca, armena e inglese, tutti i testi facenti egualmente fede. In caso di divergenza d’interpretazione fra il testo tedesco e armeno prevarrà il testo inglese. Per il Consiglio federale svizzero: Per il Governo della Repubblica di Armenia: Micheline Calmy-Rey Vardan Oskanian
+*In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto in duplice esemplare a Erevan, il 12 giugno 2006, nelle lingue tedesca, armena e inglese, tutti i testi facenti egualmente fede. In caso di divergenza d’interpretazione fra il testo tedesco e armeno prevarrà il testo inglese. Per il Consiglio federale svizzero: Micheline Calmy-Rey Per il Governo della Repubblica di Armenia: Vardan Oskanian
 
-Protocollo
+Protocollo[^t-2]
 
 La Confederazione Svizzera e la Repubblica di Armenia
 
 all’atto della firma, il 12 giugno 2006 a Erevan, della Convenzione tra i due Stati per evitare le doppie imposizioni in materia d’imposte sul reddito e sul patrimonio, hanno convenuto le seguenti disposizioni che formano parte integrante della Convenzione.
 
-\1. Ad art. 7
+\1. Ad art. 1
+
+- a) Nonostante le altre disposizioni della presente Convenzione, un investimento collettivo di capitale costituito in uno Stato contraente, che percepisce redditi dall’altro Stato contraente, è considerato ai fini dell’applicazione della Convenzione a tali redditi come persona fisica residente dello Stato contraente in cui è costituito l’investimento collettivo di capitale e come beneficiario effettivo dei redditi che percepisce (a condizione che, se una persona fisica residente del primo Stato contraente avesse percepito i redditi nelle medesime circostanze, sarebbe stata considerata come beneficiaria effettiva di tali redditi), ma unicamente nella misura in cui le quote dell’investimento collettivo di capitale sono detenute da residenti dello Stato contraente in cui l’investimento collettivo di capitale è costituito.
+- b) Ai sensi del presente paragrafo, l’espressione «investimento collettivo di capitale» designa nel caso dell’Armenia un investimento collettivo di capitale secondo la legge del 22 dicembre 2010 sui fondi di investimento applicabile nella Repubblica di Armenia e nel caso della Svizzera un fondo contrattuale di investimento di cui all’articolo 25 e una società di investimento a capitale variabile di cui all’articolo 36 della legge del 23 giugno 2006[^t-3] sugli investimenti collettivi (LICol), nonché qualsiasi altro fondo di investimento, struttura o ente costituiti in uno o nell’altro Stato contraente che le autorità competenti degli Stati contraenti hanno convenuto di considerare come investimento collettivo di capitale ai sensi del presente paragrafo.
+- c) Nonostante le altre disposizioni della presente Convenzione, una società in accomandita per investimenti collettivi di capitale di cui all’articolo 98 LICol che percepisce redditi provenienti dall’Armenia non è considerata come residente della Svizzera, ma può richiedere per i soci residenti sgravi fiscali, esenzioni fiscali e altri benefici, previsti dalla presente Convenzione, che sarebbero stati concessi a tali soci se avessero percepito tali redditi direttamente. La società può presentare detta richiesta unicamente se il socio non ha egli stesso inoltrato una richiesta di sgravio per i suoi redditi percepiti dalla società in accomandita.
+
+\2. Ad art. 7
 
 Con riferimento ai paragrafi 1 e 2 dell’articolo 7 (Utili delle imprese), resta inteso che, qualora un’impresa di uno Stato contraente venda merci o eserciti un’altra attività nell’altro Stato contraente per mezzo di una stabile organizzazione ivi situata, gli utili di detta stabile organizzazione non sono determinati sulla base dell’importo complessivo ricevuto dall’impresa, bensì unicamente sulla base dei proventi complessivi attribuibili all’attività effettiva della stabile organizzazione per queste vendite o per queste operazioni.
 
@@ -483,13 +577,45 @@ Nei casi di contratti di vigilanza, di fornitura, di montaggio o di costruzione 
 
 Gli utili afferenti alla parte del contratto eseguita dalla sede principale dell’impresa sono imponibili soltanto nello Stato di cui questa impresa è residente.
 
-\2. Ad art. 18 e 19
+\3. Ad art. 18 e 19
 
 Resta inteso che il termine «pensioni» di cui agli articoli 18 (Pensioni) e 19 (Funzioni pubbliche) non comprende soltanto pagamenti periodici, ma anche prestazioni forfettarie.
+
+\4. Ad art. 26
+
+- a) Resta inteso che lo Stato richiedente presenta una domanda di scambio di informazioni solo dopo aver esaurito le fonti d’informazione usuali secondo la sua procedura fiscale interna.
+- b)
+
+  Resta inteso che nella domanda di assistenza amministrativa ai sensi dell’articolo 26 (Scambio di informazioni) le autorità fiscali dello Stato richiedente forniscono le seguenti informazioni alle autorità fiscali dello Stato richiesto:
+
+  - (i) l’identità della persona oggetto della verifica o dell’inchiesta;
+  - (ii) il periodo oggetto della domanda;
+  - (iii) una descrizione delle informazioni richieste, nonché indicazioni sulla forma nella quale lo Stato richiedente desidera ricevere tali informazioni dallo Stato richiesto;
+  - (iv) lo scopo fiscale per cui le informazioni sono state richieste;
+  - (v) se sono noti, il nome e l’indirizzo del detentore presunto delle informazioni richieste.
+
+- c) Resta inteso che il riferimento alle informazioni «verosimilmente rilevanti» ha lo scopo di garantire uno scambio di informazioni in ambito fiscale il più ampio possibile, senza tuttavia consentire agli Stati contraenti di intraprendere una ricerca generalizzata e indiscriminata di informazioni («fishing expedition») o di domandare informazioni la cui rilevanza in merito agli affari fiscali di un determinato contribuente non è verosimile. Sebbene la lettera b contenga importanti requisiti procedurali volti a impedire le «fishing expedition», i numeri i–v della lettera b devono essere interpretati in modo da non ostacolare uno scambio effettivo di informazioni.
+- d) Resta inteso che, sulla base dell’articolo 26 (Scambio di informazioni), gli Stati contraenti non sono tenuti a procedere a uno scambio di informazioni spontaneo o automatico.
+- e) Resta inteso che nel caso di uno scambio di informazioni si applicano le norme di procedura amministrativa relative ai diritti del contribuente in vigore nello Stato richiesto. Resta inoltre inteso che queste norme servono a garantire al contribuente una procedura regolare e non mirano a ostacolare o ritardare indebitamente lo scambio di informazioni.»
 
 Fatto in duplice esemplare a Erevan, il 12 giugno 2006, nelle lingue tedesca, armena e inglese, tutti i testi facenti ugualmente fede. In caso di divergenza d’interpretazione fra il testo tedesco e armeno prevale il testo inglese.
 
 <table>
-<tr><td>Per il Consiglio federale svizzero:</td><td>Per il Governo della Repubblica di Armenia:</td></tr>
-<tr><td>Micheline Calmy-Rey</td><td>Vardan Oskanian</td></tr>
+<tr><td>Per il Consiglio federale svizzero: Micheline Calmy-Rey</td><td>Per il Governo della Repubblica di Armenia: Vardan Oskanian</td></tr>
 </table>
+
+## Art. 23 par. 2 e 3 del Prot. del 12 nov. 2021
+
+[^annexu1-lvlu2-1]
+
+[^t-2]: Aggiornato dall’art. 22 del Prot. del 12 nov. 2021, approvato dall’AF il 16 dic. 2022, in vigore dal 2 mag. 2023 ([RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)).
+[^t-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^annexu1-lvlu2-1]: [RU 2023 241](https://fedlex.data.admin.ch/eli/oc/2023/241), [240](https://fedlex.data.admin.ch/eli/oc/2023/240); [FF 2022 1205](https://fedlex.data.admin.ch/eli/fga/2022/1205)
+
+\2. Il presente Protocollo entra in vigore alla data della ricezione della seconda notifica e le sue disposizioni si applicano:
+
+- a) con riferimento alle imposte ritenute alla fonte, ai redditi pagati o accreditati il 1° gennaio dell’anno civile successivo all’entrata in vigore del presente Protocollo, o dopo tale data;
+- b) con riferimento alle altre imposte, agli anni fiscali che iniziano il 1° gennaio dell’anno civile successivo all’entrata in vigore del presente Protocollo, o dopo tale data;
+- c) con riferimento all’articolo 20 e al paragrafo 3 dell’articolo 22, alle informazioni relative agli anni fiscali o agli esercizi commerciali che iniziano il 1° gennaio dell’anno civile successivo all’entrata in vigore del presente Protocollo, o dopo tale data.
+
+\3. Nonostante le disposizioni del paragrafo 2, le modifiche previste agli articoli 7 e 19 del presente Protocollo si applicano dalla data dell’entrata in vigore del presente Protocollo senza tenere conto del periodo fiscale considerato.
