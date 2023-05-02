@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione della legge federale sulla cartella informatizzata del paziente: finanziamento transitorio e consenso (incl. diritto esecutivo)"
 document: Progetto posto in consultazione-2
 language: it

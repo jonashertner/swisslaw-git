@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revision des Bundesgesetzes über das elektronische Patientendossier: Übergangsfinanzierung und Einwilligung (inkl. Ausführungsrecht)"
 document: Vernehmlassungsvorlage
 language: de

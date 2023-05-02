@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision de la loi fédérale sur le dossier électronique du patient: financement transitoire et consentement (y c. dispositions d’exécution)"
 document: Projet mis en consultation-2
 language: fr
