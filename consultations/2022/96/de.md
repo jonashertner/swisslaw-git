@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Landwirtschaftliches Verordnungspaket 2023
 document: Vernehmlassungsvorlage
 language: de
