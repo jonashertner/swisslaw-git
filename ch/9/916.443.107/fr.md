@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Ordonnance de l’OSAV du 6 août 2021 instituant des mesures contre la propagation de la peste porcine africaine par les échanges d’importation, de transit et d’exportation avec les États membres de l’Union européenne, l’Islande et la Norvège"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: fr
-version: 2023-03-08
+version: 2023-05-03
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20230308/fr/xml/fedlex-data-admin-ch-eli-cc-2021-474-20230308-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20230308/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20230503/fr/xml/fedlex-data-admin-ch-eli-cc-2021-474-20230503-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20230503/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures contre la propagation de la peste porcine africaine par les échanges d’importation, de transit et d’exportation avec les États membres de l’Union européenne, l’Islande et la Norvège
 
-du 6 août 2021 (État le 8 mars 2023)
+du 6 août 2021 (État le 3 mai 2023)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -59,13 +59,13 @@ Elle règle l’importation en provenance des États membres de l’Union europ�
 
 Il est interdit d’importer les animaux et produits animaux visés à l’art. 1, al. 2, en provenance des zones ci-après des États membres concernés:
 
-- a.[^2-1] zones réglementées dans le règlement d’exécution (UE) 2021/605[^2-2];
+- a.[^2-1] zones réglementées dans le règlement d’exécution (UE) 2023/594[^2-2];
 - b. zones infectées et zones réglementées définies sur la base du règlement délégué (UE) 2020/687[^2-3].
 
 <sup>2</sup> Il est interdit d’importer des sangliers vivants en provenance de l’entier du territoire des États membres de l’UE, de Norvège et d’Islande.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 6 mars 2023, en vigueur depuis le 8 mars 2023 ([RO 2023 114](https://fedlex.data.admin.ch/eli/oc/2023/114)).
-[^2-2]: Règlement d’exécution (UE) 2021/605 de la Commission du 7 avril 2021 établissant des mesures spéciales de lutte contre la peste porcine africaine, JO L 129 du 15.4.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2023/373, JO L 51 du 20.2.2023, p. 40.
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 1<sup>er</sup> mai 2023, en vigueur depuis le 3 mai 2023 ([RO 2023 212](https://fedlex.data.admin.ch/eli/oc/2023/212)).
+[^2-2]: Règlement d’exécution (UE) 2023/594 de la Commission du 16 mars 2023 établissant des mesures spéciales de lutte contre la peste porcine africaine et abrogeant le règlement d’exécution (UE) 2021/605 JO L 79 du 17.3.2023, p. 65; modifié en dernier lieu par le règlement d’exécution (UE) 2023/835, JO L 105 du 20.4.2023, p. 9.
 [^2-3]: Règlement délégué (UE) 2020/687 de la Commission du 17 décembre 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles relatives à la prévention de certaines maladies répertoriées et à la lutte contre celles-ci, JO L 174 du 3.6.2020, p. 64; modifié par le règlement délégué (UE) 2021/1140, JO L 247 du 13.7.2021, p. 50.
 
 #### Art. 3
@@ -76,36 +76,39 @@ Les États membres concernés sont définis dans l’annexe. L’annexe contient
 
 #### Art. 4
 
-**Importation en provenance des zones réglementées dans le règlement d’exécution (UE) 2021/605[^4-1]**
+**Importation en provenance des zones réglementées dans le règlement d*’*exécution (UE) 2023/594**[^4-1]
 
-En dérogation à l’art. 2, al. 1, let. a, l’importation d’animaux et de produits animaux en provenance des zones réglementées dans le règlement d’exécution (UE) 2021/605 est admise aux conditions suivantes:
+En dérogation à l’art. 2, al. 1, let. a, l’importation d’animaux et de produits animaux en provenance des zones réglementées dans le règlement d’exécution (UE) 2023/594[^4-2] est admise aux conditions suivantes:
 
-- a. les conditions prévues dans le règlement d’exécution (UE) 2021/605 applicables à l’exportation à destination des États membres qui ne sont pas touchés par la peste porcine africaine sont remplies;
+- a. les conditions prévues dans le règlement d’exécution (UE) 2023/594 applicables à l’exportation à destination des États membres qui ne sont pas touchés par la peste porcine africaine sont remplies;
 - b. l’autorité compétente de l’État membre concerné a autorisé l’exportation.
 
-[^4-1]: Voir note de bas de page relative à l’art. 2, al. 1, let. a.
+[^4-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 1<sup>er</sup> mai 2023, en vigueur depuis le 3 mai 2023 ([RO 2023 212](https://fedlex.data.admin.ch/eli/oc/2023/212)).
+[^4-2]: Voir note de bas de page relative à l’art. 2, al. 1, let. a.
 
 #### Art. 5
 
 **Importation en provenance de zones infectées selon le règlement délégué (UE) 2020/687**[^5-1]
 
-En dérogation à l’art. 2, al. 1, let. b, l’importation de produits animaux en provenance des zones infectées situées hors des zones réglementées dans le règlement d’exécution (UE) 2021/605[^5-2] est admise si ces produits peuvent quitter la zone infectée à des fins d’échanges intra-communautaires selon:
+En dérogation à l’art. 2, al. 1, let. b, l’importation de produits animaux en provenance des zones infectées situées hors des zones réglementées dans le règlement d’exécution (UE) 2023/594[^5-2] est admise si ces produits peuvent quitter la zone infectée à des fins d’échanges intra-communautaires selon:[^5-3]
 
-- a. le règlement délégué (UE) 2020/687[^5-3], et
+- a. le règlement délégué (UE) 2020/687[^5-4], et
 - b. les actes législatifs de l’UE visés à l’annexe ch. 2.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 14 janv. 2022, en vigueur depuis le 15 janv. 2022 ([RO 2022 9](https://fedlex.data.admin.ch/eli/oc/2022/9)).
 [^5-2]: Voir note de bas de page relative à l’art. 2, al. 1, let. a.
-[^5-3]: Voir note de bas de page relative à l’art. 2, al. 1, let. b.
+[^5-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 1<sup>er</sup> mai 2023, en vigueur depuis le 3 mai 2023 ([RO 2023 212](https://fedlex.data.admin.ch/eli/oc/2023/212)).
+[^5-4]: Voir note de bas de page relative à l’art. 2, al. 1, let. b.
 
 #### Art. 6
 
-**Importation en provenance de zones réglementées selon le règlement (UE) 2020/687[^6-1]**
+**Importation en provenance de zones réglementées selon le règlement délégué (UE) 2020/687**[^6-1]
 
-En dérogation à l’art. 2, al. 1, let. b, l’importation de produits animaux en provenance de zones réglementées situées hors des zones réglementées dans le règlement d’exécution (UE) 2021/605[^6-2] est admise si le règlement délégué (UE) 2020/687 prévoit que ces produits peuvent quitter la zone réglementée à des fins d’échanges intra-communautaires.
+En dérogation à l’art. 2, al. 1, let. b, l’importation de produits animaux en provenance de zones réglementées situées hors des zones réglementées dans le règlement d’exécution (UE) 2023/594[^6-2] est admise si le règlement délégué (UE) 2020/687[^6-3] prévoit que ces produits peuvent quitter la zone réglementée à des fins d’échanges intra-communautaires.
 
-[^6-1]: Voir note de bas de page relative à l’art. 2, al. 1, let. b.
+[^6-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 1<sup>er</sup> mai 2023, en vigueur depuis le 3 mai 2023 ([RO 2023 212](https://fedlex.data.admin.ch/eli/oc/2023/212)).
 [^6-2]: Voir note de bas de page relative à l’art. 2, al. 1, let. a.
+[^6-3]: Voir note de bas de page relative à l’art. 2, al. 1, let. b.
 
 #### Art. 7
 
@@ -135,15 +138,15 @@ Annexe[^t-1]
 
 ## États membres et zones concernés
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 13 oct. 2022 ([RO 2022 584](https://fedlex.data.admin.ch/eli/oc/2022/584)). Mise à jour par le ch. II de l’O de l’OSAV du 6 mars 2023, en vigueur depuis le 8 mars 2023 ([RO 2023 114](https://fedlex.data.admin.ch/eli/oc/2023/114)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 13 oct. 2022 ([RO 2022 584](https://fedlex.data.admin.ch/eli/oc/2022/584)). Mise à jour par le ch. II de l’O de l’OSAV du 1<sup>er</sup> mai 2023, en vigueur depuis le 3 mai 2023 ([RO 2023 212](https://fedlex.data.admin.ch/eli/oc/2023/212)).
 
-### 1 Zones réglementées conformément au règlement d’exécution (UE) 2021/605
+### 1 Zones réglementées conformément au règlement d’exécution (UE) 2023/594
 
 Les États membres de l’UE et les zones réglementées visées à l’art. 2, al. 1, let. a, sont inscrits dans le règlement d’exécution suivant:
 
 <table>
 <tr><th>Acte de l’UE</th><th>Titre et date de publication de l’acte et dates de publication des actes modificateurs</th></tr>
-<tr><td>Règlement d’exécution (UE) 2021/605</td><td>Règlement d’exécution (UE) 2021/605 de la Commission du 7 avril 2021 établissant des mesures spéciales de lutte contre la peste porcine africaine, JO L 129 du 15.4.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2023/373, JO L 51 du 20.2.2023, p. 40</td></tr>
+<tr><td>Règlement d’exécution (UE) 2023/594</td><td>Règlement d’exécution (UE) 2023/594 de la Commission du 16 mars 2023 établissant des mesures spéciales de lutte contre la peste porcine africaine et abrogeant le règlement d’exécution (UE) 2021/605, JO L 79 du 17.3.2023, p. 65; modifié en dernier lieu par le règlement d’exécution (UE) 2023/835, JO L 105 du 20.4.2023, p. 9</td></tr>
 </table>
 
 L’annexe I du règlement d’exécution précité classe certaines zones des États membres concernés dans les trois parties ci-après en fonction du risque d’introduction du virus de la peste porcine africaine:
@@ -154,7 +157,7 @@ L’annexe I du règlement d’exécution précité classe certaines zones des �
 
 ### États membres dont certaines zones sont réglementées dans la partie I
 
-Des zones réglementées dans la partie I de l’annexe I du règlement d’exécution (UE) 2021/605 ont été délimitées dans les États membres de l’UE suivants:
+Des zones réglementées dans la partie I de l’annexe I du règlement d’exécution (UE) 2023/594 ont été délimitées dans les États membres de l’UE suivants:
 
 Allemagne
 
@@ -178,15 +181,13 @@ Tchéquie
 
 ### États membres dont certaines zones sont réglementées dans la partie II
 
-Des zones réglementées dans la partie II de l’annexe I du règlement d’exécution (UE) 2021/605 ont été délimitées dans les États membres de l’UE suivants:
+Des zones réglementées dans la partie II de l’annexe I du règlement d’exécution (UE) 2023/594 ont été délimitées dans les États membres de l’UE suivants:
 
 Allemagne
 
 Bulgarie
 
 Estonie
-
-Grèce
 
 Hongrie
 
@@ -204,7 +205,7 @@ Tchéquie
 
 ### États membres dont certaines zones sont réglementées dans la partie III
 
-Des zones réglementées dans la partie III de l’annexe I du règlement d’exécution (UE) 2021/605 ont été délimitées dans les États membres de l’UE suivants:
+Des zones réglementées dans la partie III de l’annexe I du règlement d’exécution (UE) 2023/594 ont été délimitées dans les États membres de l’UE suivants:
 
 Bulgarie
 
