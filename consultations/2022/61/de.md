@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Bevölkerungs- und Zivilschutzgesetzes, des Zivildienstgesetzes und des Militärgesetzes"
 document: Vernehmlassungsvorlage
 language: de

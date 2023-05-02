@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge federale sulla protezione della popolazione e sulla protezione civile, la legge sul servizio civile e la legge militare"
 document: Progetto posto in consultazione
 language: it
