@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sull’asilo (LAsi) (Sicurezza ed esercizio nei centri della Confederazione)
 document: Progetto posto in consultazione
 language: it

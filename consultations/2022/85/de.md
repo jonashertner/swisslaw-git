@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Asylgesetzes (AsylG) (Sicherheit und Betrieb in den Zentren des Bundes)
 document: Vernehmlassungsvorlage
 language: de

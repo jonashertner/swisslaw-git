@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur l’asile (LAsi) (sécurité et exploitation des centres de la Confédération)
 document: Projet mis en consultation
 language: fr
