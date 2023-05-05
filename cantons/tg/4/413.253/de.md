@@ -4,13 +4,13 @@ number: "413.253"
 title: Verordnung über die Ausbildung an den Fachmittelschulen der thurgauischen Kantonsschulen
 short: RRV FMS
 language: de
-version: 2023-02-01
-valid_until: 2023-05-05
-version_adopted: 2022-05-24
+version: 2023-05-06
+valid_until: 2025-07-31
+version_adopted: 2023-05-02
 adopted: 2005-01-25
 in_force: 2005-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.253"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2922/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2923/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ RRV FMS
 
 (RRV FMS)
 
-vom 25.01.2005 (Stand 01.02.2023)
+vom 25.01.2005 (Stand 06.05.2023)
 
 ## 1. Unterricht
 
@@ -41,7 +41,7 @@ vom 25.01.2005 (Stand 01.02.2023)
 
 <sup>2<sup>bis</sup></sup> Das gewählte Berufsfeld kann nur bis Ende des ersten Ausbildungsjahres gewechselt werden. In begründeten Fällen kann die Schulleitung Ausnahmen bewilligen.
 
-<sup>3</sup> Ein viertes Ausbildungsjahr führt in den Berufsfeldern Gesundheit, Pädagogik, Soziale Arbeit, Kommunikation und Information sowie Naturwissenschaften zur Fachmatura. In begründeten Fällen kann ein zeitlicher Unterbruch von höchstens drei Jahren nach Erhalt des Fachmittelschulausweises akzeptiert werden.
+<sup>3</sup> Ein viertes Ausbildungsjahr führt in den Berufsfeldern Gesundheit/Naturwissenschaften, Pädagogik, Soziale Arbeit sowie Kommunikation und Information zur Fachmatura. In begründeten Fällen kann ein zeitlicher Unterbruch von höchstens drei Jahren nach Erhalt des Fachmittelschulausweises akzeptiert werden.
 
 #### § 2
 
@@ -321,7 +321,7 @@ vom 25.01.2005 (Stand 01.02.2023)
 
 <sup>1</sup> Wer die Prüfung bestanden hat, erhält den Fachmittelschulausweis, der von der Vorsteherin oder dem Vorsteher des Departements für Erziehung und Kultur und der Rektorin oder dem Rektor unterzeichnet wird. Er enthält die Fachmittelschulausweisnoten sowie das Thema der selbstständigen Arbeit FMS.
 
-## 4. Erwerb der Fachmatura Gesundheit
+## 4. Erwerb der Fachmatura Gesundheit/Naturwissenschaften
 
 #### § 25
 
@@ -329,23 +329,29 @@ vom 25.01.2005 (Stand 01.02.2023)
 
 <sup>1</sup> Nach Erwerb des Fachmittelschulausweises Gesundheit/Naturwissenschaften sind folgende Leistungen zu erbringen:
 
-- 1\. Einführungskurs am Bildungszentrum für Gesundheit und Soziales von fünf Wochen sowie Vertiefungstage. Der Einführungskurs umfasst mindestens 20 Kurstage zu acht Stunden
-- 2\. Praktikum in einer Institution des Gesundheitswesens von mindestens 24 Wochen
+- 1\. Einführungskurs im Umfang von mindestens vier Wochen in der Fachrichtung Gesundheit oder Naturwissenschaften
+- 2\. Nachweis von mindestens 24 Wochen Praktikum in der gleichen Fachrichtung in einer Institution des Gesundheitswesens oder der Naturwissenschaften
 - 3\. Abfassen und Präsentieren einer Fachmaturaarbeit mit Bezug zum Praktikum
 
 #### § 26
 
 **Einführungskurs**
 
-<sup>1</sup> Der Einführungskurs am Bildungszentrum für Gesundheit und Soziales wird mit einer schriftlichen Prüfung abgeschlossen und mit einer Note bewertet.
+<sup>1</sup> Der Einführungskurs Gesundheit wird am Bildungszentrum für Gesundheit und Soziales absolviert, mit einer schriftlichen Prüfung abgeschlossen und mit «bestanden» oder «nicht bestanden» bewertet.
 
-<sup>2</sup> Bei einer ungenügenden Note ist die Prüfung zu wiederholen.
+<sup>2</sup> Der Einführungskurs Naturwissenschaften ist gemäss Vorgaben der Schulleitung zu absolvieren. Dieser wird mit «bestanden» oder «nicht bestanden» bewertet.
 
-<sup>3</sup> Wer die Wiederholungsprüfung nicht bestanden hat, kann Einführungskurs und Prüfung einmal im Folgejahr wiederholen.
+<sup>3</sup> Bei der Bewertung «nicht bestanden» kann bei der Fachrichtung Gesundheit die Prüfung und bei der Fachrichtung Naturwissenschaften der Einführungskurs einmal wiederholt werden.
 
 #### § 26a–26f
 
 **…**
+
+#### § 26g
+
+**Qualitätssicherung Praktikum**
+
+<sup>1</sup> Das Amt erlässt eine Richtlinie zur Sicherstellung der Qualität der Praktika im Bereich Naturwissenschaften.
 
 #### § 27
 
@@ -367,7 +373,7 @@ vom 25.01.2005 (Stand 01.02.2023)
 
 **Bestehen der Fachmatura**
 
-<sup>1</sup> Das Fachmaturazeugnis Gesundheit wird abgegeben, wenn der Einführungskurs mit einer genügenden Note abgeschlossen worden ist, das Praktikum bestanden und die Fachmaturaarbeit mit einer genügenden Note bewertet wurde.
+<sup>1</sup> Das Fachmaturazeugnis Gesundheit/Naturwissenschaften wird abgegeben, wenn der Einführungskurs sowie das Praktikum mit «bestanden» und die Fachmaturaarbeit mit einer genügenden Note bewertet wurde.
 
 #### § 30
 
@@ -375,7 +381,7 @@ vom 25.01.2005 (Stand 01.02.2023)
 
 <sup>1</sup> Wenn die Fachmaturaarbeit oder das Praktikum ungenügend bewertet wurden, sind sowohl die Fachmaturaarbeit als auch das Praktikum zu wiederholen.
 
-<sup>2</sup> Eine Wiederholung ist einmal möglich. Der Einführungskurs und die Vertiefungstage am Bildungszentrum für Gesundheit und Soziales können freiwillig wiederholt werden, sofern die Prüfungsnote genügend war. Bei ungenügender Note ist der erneute Besuch des gesamten Einführungskurses und der Vertiefungstage obligatorisch.
+<sup>2</sup> Eine Wiederholung ist einmal möglich. Der Einführungskurs kann freiwillig wiederholt werden, wenn er mit «bestanden» bewertet wurde.
 
 #### § 31
 
@@ -383,9 +389,9 @@ vom 25.01.2005 (Stand 01.02.2023)
 
 <sup>1</sup> Das Fachmaturazeugnis enthält die Angabe des Berufsfeldes, die Bestätigung über das erfolgreiche Absolvieren des Praktikums sowie das Thema und die Beurteilung der Fachmaturaarbeit.
 
-<sup>2</sup> Zusätzlich wird die Note der Prüfung über den Einführungskurs am Bildungszentrum für Gesundheit ausgewiesen, im Falle einer Wiederholung der Prüfung die Note der zweiten Prüfung.
+<sup>2</sup> …
 
-<sup>3</sup> Das Fachmaturazeugnis wird von der Vorsteherin oder dem Vorsteher des Departementes sowie von der Rektorin oder vom Rektor unterzeichnet.
+<sup>3</sup> Das Fachmaturazeugnis wird von der Chefin oder vom Chef des Departements sowie von der Rektorin oder vom Rektor unterzeichnet.
 
 ## 4a. Erwerb der Fachmatura Pädagogik
 
@@ -621,61 +627,11 @@ vom 25.01.2005 (Stand 01.02.2023)
 
 <sup>2</sup> Das Fachmaturazeugnis wird von der Vorsteherin oder dem Vorsteher des Departements sowie von der Rektorin oder vom Rektor unterzeichnet.
 
-## 6a. Erwerb der Fachmatura Naturwissenschaften
+## 6a.
 
-#### § 45a
+#### § 45a–45g
 
-**Vorausgesetzte Leistungen**
-
-<sup>1</sup> Nach Erwerb des Fachmittelschulausweises Gesundheit/Naturwissenschaften sind folgende Leistungen zu erbringen:
-
-- 1\. Nachweis von mindestens 24 Wochen Praktikum im Berufsfeld Naturwissenschaften
-- 2\. Absolvieren eines berufsfeldspezifischen Kurses gemäss Vorgaben der Schulleitung
-- 3\. Abfassen und Präsentieren einer Fachmaturaarbeit mit Bezug zum Praktikum
-
-#### § 45b
-
-**Qualitätssicherung Praktikum**
-
-<sup>1</sup> Das Amt erlässt eine Richtlinie zur Sicherstellung der Qualität der Praktika.
-
-#### § 45c
-
-**Bewertung der Fachmaturaarbeit**
-
-<sup>1</sup> Die Fachmaturaarbeit mit Bezug zum Praktikum wird von der betreuenden Lehrperson unter Beizug einer Expertin oder eines Experten bewertet.
-
-<sup>2</sup> Die Expertin oder der Experte ist in der Regel die Betreuungsperson des Praktikumsbetriebs.
-
-<sup>3</sup> Die Note für die Fachmaturaarbeit setzt sich aus einer Note für die schriftliche Arbeit und einer Note für die Präsentation zusammen. Erstere wird zu 2/3, letztere zu 1/3 gewichtet.
-
-#### § 45d
-
-**Bestehen des Praktikums**
-
-<sup>1</sup> Der Praktikumsbetrieb entscheidet über das Bestehen oder Nichtbestehen des Praktikums. Das Nichtbestehen muss schriftlich begründet werden.
-
-#### § 45e
-
-**Bestehen der Fachmatura**
-
-<sup>1</sup> Das Fachmaturazeugnis Naturwissenschaften wird abgegeben, wenn das Praktikum und der berufsfeldspezifische Kurs bestanden und die Bewertung der Fachmaturaarbeit genügend ist.
-
-#### § 45f
-
-**Wiederholung der Fachmatura**
-
-<sup>1</sup> Wenn die Fachmaturaarbeit ungenügend bewertet oder das Praktikum nicht bestanden wurde, sind sowohl die Fachmaturaarbeit als auch das Praktikum zu wiederholen.
-
-<sup>2</sup> Eine Wiederholung ist einmal möglich.
-
-#### § 45g
-
-**Fachmaturazeugnis**
-
-<sup>1</sup> Das Fachmaturazeugnis enthält die Angabe des Berufsfeldes, die Bestätigung über das erfolgreiche Absolvieren des Praktikums sowie das Thema und die Beurteilung der Fachmaturaarbeit.
-
-<sup>2</sup> Das Fachmaturazeugnis wird von der Vorsteherin oder dem Vorsteher des Departementes sowie von der Rektorin oder dem Rektor unterzeichnet.
+**…**
 
 ## 7. Übergangs- und Schlussbestimmungen
 
@@ -685,7 +641,7 @@ vom 25.01.2005 (Stand 01.02.2023)
 
 <sup>1</sup> Die Änderungen von § 1, § 2, § 3, § 3a, § 4, § 14, § 15, § 19, § 25, § 31a und § 38 gelten für die ab Schuljahr 2020/21 ins erste Semester der Fachmittelschule eintretenden Schülerinnen und Schüler. Ab Schuljahr 2024/25 gelten sie für alle Schülerinnen und Schüler.
 
-<sup>2</sup> Die Fachmatura Naturwissenschaften (Kapitel 6a, § 45a bis § 45g) wird per Schuljahr 2020/21 eingeführt. Der Fachmittelschulausweis Gesundheit/Pädagogik berechtigt zum Eintritt in die Fachmatura Naturwissenschaften.
+<sup>2</sup> Die Fachmatura Gesundheit/Naturwissenschaften (Abschnitt 4) wird per Schuljahr 2020/21 eingeführt. Der altrechtliche Fachmittelschulausweis Gesundheit/Pädagogik berechtigt zum Eintritt in die Fachmatura Gesundheit/Naturwissenschaften.
 
 <sup>3</sup> Die Prüfung für den Fachmittelschulausweis wird letztmals im Sommer 2022 gemäss der Verordnung des Regierungsrates über die Ausbildung an den Fachmittelschulen der Thurgauischen Kantonsschulen vom 25. Januar 2005 in der Fassung vom 3. Mai 2016 durchgeführt.
 
