@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur le registre du commerce et de l’ordonnance sur le casier judiciaire informatique VOSTRA
 document: Projet mis en consultation
 language: fr

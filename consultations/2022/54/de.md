@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Handelsregisterverordnung und der Verordnung über das Strafregister-Informationssystem VOSTRA
 document: Vernehmlassungsvorlage
 language: de

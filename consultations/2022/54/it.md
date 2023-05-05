@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sul registro di commercio e dell’ordinanza sul casellario giudiziale informatizzato VOSTRA
 document: Progetto posto in consultazione
 language: it
