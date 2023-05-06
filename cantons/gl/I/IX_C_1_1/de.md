@@ -4,13 +4,12 @@ number: IX C/1/1
 title: Gesetz zur Entwicklung des Tourismus
 short: "Tourismusentwicklungsgesetz, TEG"
 language: de
-version: 2023-02-01
-valid_until: 2023-05-06
-version_adopted: 2022-05-01
+version: 2023-05-07
+version_adopted: 2023-05-07
 adopted: 2007-05-06
 in_force: 2008-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-C.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2404/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2424/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2404/pdf_file"
 
 (Tourismusentwicklungsgesetz, TEG)
 
-Vom 06.05.2007 (Stand 01.02.2023)
+Vom 06.05.2007 (Stand 07.05.2023)
 
 (Erlassen von der Landsgemeinde am 6. Mai 2007)
 
@@ -62,6 +61,53 @@ Vom 06.05.2007 (Stand 01.02.2023)
 - f. die Aus- und Weiterbildung,
 - g. die Förderung der Zusammenarbeit,
 - h. Institutionen.
+
+## 1a. Förderung einer Tourismusorganisation
+
+#### Art. 2a
+
+**Beitrag**
+
+<sup>1</sup> Zur Erreichung der Wirkungsziele kann der Kanton an eine Tourismusorganisation im Kanton Glarus einen jährlichen Beitrag ausrichten.
+
+<sup>2</sup> Der Beitrag setzt sich zusammen aus Beiträgen des Kantons und der Gemeinden.
+
+#### Art. 2b
+
+**Voraussetzungen**
+
+<sup>1</sup> Der Regierungsrat kann auf Gesuch hin Beiträge ausrichten, sofern die Tourismusorganisation:
+
+- a. ein auf mindestens vier Jahre ausgerichtetes Konzept zur Erreichung der Wirkungsziele dieses Gesetzes einreicht;
+- b. die erforderlichen professionellen Strukturen und fachlichen Fähigkeiten für die effiziente Umsetzung des Konzepts aufweist;
+- c. sich mit eigenerwirtschafteten Mitteln angemessen an der Umsetzung des Konzepts beteiligen kann; und
+- d. einen wesentlichen Anteil der touristischen Leistungsträger vertritt.
+
+<sup>2</sup> Es besteht kein Rechtsanspruch auf die Ausrichtung eines Beitrages.
+
+#### Art. 2c
+
+**Leistungsvereinbarungen**
+
+<sup>1</sup> Der Regierungsrat schliesst mit der Tourismusorganisation eine jeweils auf längstens vier Jahre befristete Leistungsvereinbarung ab.
+
+<sup>2</sup> Die Leistungsvereinbarung stellt die effiziente Umsetzung des Konzepts zur Erreichung der Wirkungsziele sowie die zweckbestimmte Mittelverwendung sicher.
+
+<sup>3</sup> Die Leistungsvereinbarung regelt insbesondere:
+
+- a. die Modalitäten der Ausrichtung der Beiträge;
+- b. das Berichtswesen;
+- c. das Controlling.
+
+<sup>4</sup> Die Leistungsvereinbarung ist in geeigneter Weise zu publizieren.
+
+#### Art. 2d
+
+**Zuständigkeit und Verfahren**
+
+<sup>1</sup> Die Gelegenheit zur Einreichung von Beitragsgesuchen ist in geeigneter Weise zu publizieren.
+
+<sup>2</sup> Der Regierungsrat regelt das weitere Verfahren und die Zuständigkeiten.
 
 ## 2. Allgemeine Bestimmungen zu Finanzhilfen
 
@@ -154,25 +200,23 @@ Vom 06.05.2007 (Stand 01.02.2023)
 
 #### Art. 10
 
-<sup>1</sup> Die Beiträge werden aus dem Tourismusfonds erbracht.
+**Zweck und Einlagen**
 
-<sup>2</sup> Der Tourismusfonds wird als Spezialfinanzierung gemäss der Gesetzgebung über den Finanzhaushalt[^10-1] geführt und von der Staatskasse verwaltet.
+<sup>1</sup> Der Tourismusfonds dient der Finanzierung der Finanzhilfen nach diesem Gesetz.
+
+<sup>2</sup> Er wird als Spezialfinanzierung gemäss der Gesetzgebung über den Finanzhaushalt geführt und von der Staatskasse verwaltet.
 
 <sup>3</sup> Der Landrat kann jeweils bis zu vier Millionen Franken für vier Jahre in den Tourismusfonds einlegen.
-
-[^10-1]: GS [VI A](https://gesetze.gl.ch/data/VI-A/de)
 
 ## 4. Marktbearbeitung
 
 #### Art. 11
 
-<sup>1</sup> Die Gemeinden finanzieren die Marktbearbeitung selber.
+**Finanzierung**
 
-<sup>2</sup> Der Kanton kann die Marktbearbeitung mit Projektbeiträgen unterstützen, wenn
+<sup>1</sup> Die Gemeinden und der Kanton finanzieren die Marktbearbeitung.
 
-- a. für den ganzen Kanton innovative neue Angebote geschaffen werden,
-- b. eine Tourismusregion vollständig neu positioniert wird,
-- c. gesamtkantonale oder kantonsübergreifende Kooperationen im Marketing realisiert werden.
+<sup>2</sup> …
 
 ## 5. Kurtaxe und Tourismusförderungsabgabe
 
