@@ -4,13 +4,13 @@ number: "143.120"
 title: Reglement zur Dienstordnung der Volkswirtschafts- und Gesundheitsdirektion
 short: RDO VGD
 language: de
-version: 2021-03-01
-valid_until: 2023-05-07
-version_adopted: 2021-02-26
+version: 2023-05-08
+valid_until: 2025-04-14
+version_adopted: 2023-04-24
 adopted: 2019-03-01
 in_force: 2019-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/143.120"
-pdf: "https://bl.clex.ch/api/de/versions/2920/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4461/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2920/pdf_file"
 
 (RDO VGD)
 
-Vom 01.03.2019 (Stand 01.03.2021)
+Vom 01.03.2019 (Stand 08.05.2023)
 
 Der Vorsteher der Volkswirtschafts- und Gesundheitsdirektion des Kantons Basel-Landschaft,
 
@@ -63,7 +63,9 @@ beschliesst:
 
 <sup>4</sup> Die Dienststellenleiterin oder der Dienststellenleiter unterzeichnet die Arbeitsverträge aller sonstigen Mitarbeiterinnen und Mitarbeiter sowie die sie betreffenden personalrechtlichen Verfügungen und Vereinbarungen kollektiv mit dem HR-Business-Partner.
 
-<sup>5</sup> Die Abteilungsleiterinnen oder Abteilungsleiter unterzeichnen die Arbeitszeugnisse der übrigen Mitarbeitenden kollektiv mit dem HR-Business-Partner.
+<sup>5</sup> Vorbehältlich Abs. 6 unterzeichnen die Abteilungsleiterinnen oder Abteilungsleiter die Arbeitszeugnisse der übrigen Mitarbeitenden kollektiv mit dem HR-Business-Partner.
+
+<sup>6</sup> Die Leiterinnen und Leiter der Regionalen Arbeitsvermittlungszentren (RAV) unterzeichnen die Arbeitszeugnisse der RAV-Mitarbeitenden kollektiv mit dem HR-Business-Partner.
 
 ## 3
 
