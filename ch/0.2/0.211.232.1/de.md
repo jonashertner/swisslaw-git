@@ -3,11 +3,11 @@ sr: "0.211.232.1"
 title: Übereinkommen vom 13. Januar 2000 über den internationalen Schutz von Erwachsenen
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/381"
 language: de
-version: 2020-09-04
+version: 2023-05-09
 adopted: 2000-01-13
 in_force: 2009-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/381/20200904/de/xml/fedlex-data-admin-ch-eli-cc-2009-381-20200904-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/381/20200904/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/381/20230509/de/xml/fedlex-data-admin-ch-eli-cc-2009-381-20230509-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/381/20230509/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 27. März 2009
 
 In Kraft getreten für die Schweiz am 1. Juli 2009
 
-(Stand am 4. September 2020)
+(Stand am 9. Mai 2023)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 21. Dez. 2007 ([AS 2009 3077](https://fedlex.data.admin.ch/eli/oc/2009/379)).
 
@@ -479,7 +479,7 @@ Der Depositar notifiziert den Mitgliedstaaten der Haager Konferenz für Internat
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen in Den Haag am 13. Januar 2000 in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv der Regierung des Königreichs der Niederlande hinterlegt und von der jedem Staat, der am 2. Oktober 1999 Mitglied der Haager Konferenz für Internationales Privatrecht war, auf diplomatischem Weg eine beglaubigte Abschrift übermittelt wird. (Es folgen die Unterschriften)
 
-Zentrale Behörden der Schweiz**[^t-2]**
+Zentrale Behörden der Schweiz[^t-2]
 
 ## Zentrale Behörde des Bundes
 
@@ -503,15 +503,18 @@ Email: kindesschutz@bj.admin.ch
 
 www.bj.admin.ch/ &gt; Gesellschaft &gt; Internationaler Erwachsenenschutz &gt; Kontakt &gt; Ansprechpartner für Fragen und Auskünfte im internationalen Erwachsenenschutz sind die kantonalen Zentralbehörden
 
-Geltungsbereich am 4. September 2020**[^t-3]**
+Geltungsbereich am 9. Mai 2023[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Belgien\*</td><td>30. September</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Deutschland\*</td><td>3. April</td><td>2007</td><td>1. Januar</td><td>2009</td></tr>
 <tr><td>Estland<sup>\*</sup></td><td>13. Dezember</td><td>2010 B</td><td>1. November</td><td>2011</td></tr>
 <tr><td>Finnland</td><td>19. November</td><td>2010</td><td>1. März</td><td>2011</td></tr>
 <tr><td>Frankreich\*</td><td>18. September</td><td>2008</td><td>1. Januar</td><td>2009</td></tr>
-<tr><td>Lettland\*</td><td>24. November</td><td>2017</td><td>1. März</td><td>2018</td></tr>
+<tr><td>Griechenland\*</td><td>28. Juli</td><td>2022</td><td>1. November</td><td>2022</td></tr>
+<tr><td>Lettland</td><td>24. November</td><td>2017</td><td>1. März</td><td>2018</td></tr>
+<tr><td>Malta\*</td><td>8. März</td><td>2023</td><td>1. Juli</td><td>2023</td></tr>
 <tr><td>Monaco</td><td>4. März</td><td>2016</td><td>1. Juli</td><td>2016</td></tr>
 <tr><td>Österreich<sup>\*</sup></td><td>9. Oktober</td><td>2013</td><td>1. Februar</td><td>2014</td></tr>
 <tr><td>Portugal</td><td>14. März</td><td>2018</td><td>1. Juli</td><td>2018</td></tr>
@@ -519,7 +522,7 @@ Geltungsbereich am 4. September 2020**[^t-3]**
 <tr><td>Tschechische Republik<sup>\*</sup></td><td>18. April</td><td>2012</td><td>1. August</td><td>2012</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>5. November</td><td>2003</td><td>1. Januar</td><td>2009</td></tr>
 <tr><td>Zypern</td><td>4. Juli</td><td>2018</td><td>1. November</td><td>2018</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Haager Konferenz: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Niederländischen Regierung: www.overheid.nl &gt; English &gt; Treaty Database &gt; Convention on the international protection of adults eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-3]: [AS 2009 3107](https://fedlex.data.admin.ch/eli/oc/2009/381), [2012 1555](https://fedlex.data.admin.ch/eli/oc/2012/217), [2014 1157](https://fedlex.data.admin.ch/eli/oc/2014/247), [2017 5237](https://fedlex.data.admin.ch/eli/oc/2017/579)und [2020 3803](https://fedlex.data.admin.ch/eli/oc/2020/698). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 2009 3107](https://fedlex.data.admin.ch/eli/oc/2009/381); [2012 1555](https://fedlex.data.admin.ch/eli/oc/2012/217); [2014 1157](https://fedlex.data.admin.ch/eli/oc/2014/247); [2017 5237](https://fedlex.data.admin.ch/eli/oc/2017/579); [2020 3803](https://fedlex.data.admin.ch/eli/oc/2020/698); [2023 228](https://fedlex.data.admin.ch/eli/oc/2023/228). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty.

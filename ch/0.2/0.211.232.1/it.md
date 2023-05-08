@@ -3,11 +3,11 @@ sr: "0.211.232.1"
 title: Convenzione del 13 gennaio 2000 sulla protezione internazionale degli adulti
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/381"
 language: it
-version: 2020-09-04
+version: 2023-05-09
 adopted: 2000-01-13
 in_force: 2009-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/381/20200904/it/xml/fedlex-data-admin-ch-eli-cc-2009-381-20200904-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/381/20200904/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/381/20230509/it/xml/fedlex-data-admin-ch-eli-cc-2009-381-20230509-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/381/20230509/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2009** 3107; FF **2007** 2369
 
 Traduzione
 
-Conclusa all’Aia il 13 gennaio 2000
+Conclusa all’Aia il 13 gennaio 2000 Approvata dall’Assemblea federale il 21 dicembre 2007[^t-1] Ratificata dalla Svizzera con strumento depositato il 27 marzo 2009 Entrata in vigore per la Svizzera il 1° luglio 2009
 
-Approvata dall’Assemblea federale il 21 dicembre 2007[^t-1]
-
-Ratificata dalla Svizzera con strumento depositato il 27 marzo 2009
-
-Entrata in vigore per la Svizzera il 1° luglio 2009
-
-(Stato 4 settembre 2020)
+(Stato 9 maggio 2023)
 
 [^t-1]: Art. 1 cpv. 1 lett. b del DF del 21 dic. 2007 ([RU 2009 3077](https://fedlex.data.admin.ch/eli/oc/2009/379)).
 
@@ -473,7 +467,7 @@ Il depositario notificherà agli Stati membri della Conferenza dell’Aia di dir
 
 *In fede di che,* i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto all’Aia, il 13 gennaio 2000, in francese e in inglese, entrambi i testi facenti ugualmente fede, in una sola copia, che sarà depositata negli archivi del Governo del Regno dei Paesi Bassi e di cui una copia autenticata sarà consegnata, per via diplomatica, a ciascuno degli Stati membri della Conferenza dell’Aia di diritto internazionale privato il 2 ottobre 1999. (Seguono le firme)
 
-Autorità centrali della Svizzera**[^t-2]**
+Autorità centrali della Svizzera[^t-2]
 
 ## Autorità centrale federale
 
@@ -497,23 +491,26 @@ Email: kindesschutz@bj.admin.ch
 
 www.bj.admin.ch &gt; Società &gt; Protezione internazionale degli adulti &gt; Per informazione e domande in materia di protezione internazionale degli adulti siete pregati di rivolgervi alle autorità centrali cantonali
 
-Campo d’applicazione il 4 settembre 2020**[^t-3]**
+Campo d’applicazione il 9 maggio 2023[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Austria\*</td><td>9 ottobre</td><td>2013</td><td>1° febbraio</td><td>2014</td></tr>
+<tr><td>Belgio\*</td><td>30 settembre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Ceca, Repubblica\*</td><td>18 aprile</td><td>2012</td><td>1° agosto</td><td>2012</td></tr>
 <tr><td>Cipro</td><td>4 luglio</td><td>2018</td><td>1° novembre</td><td>2018</td></tr>
 <tr><td>Estonia\*</td><td>13 dicembre</td><td>2010 A</td><td>1° novembre</td><td>2011</td></tr>
 <tr><td>Finlandia</td><td>19 novembre</td><td>2010</td><td>1° marzo</td><td>2011</td></tr>
 <tr><td>Francia\*</td><td>18 settembre</td><td>2008</td><td>1° gennaio</td><td>2009</td></tr>
 <tr><td>Germania\*</td><td>3 aprile</td><td>2007</td><td>1° gennaio</td><td>2009</td></tr>
-<tr><td>Lettonia<sup>\*</sup></td><td>24 novembre</td><td>2017</td><td>1° marzo</td><td>2018</td></tr>
+<tr><td>Grecia\*</td><td>28 luglio</td><td>2022</td><td>1° novembre</td><td>2022</td></tr>
+<tr><td>Lettonia</td><td>24 novembre</td><td>2017</td><td>1° marzo</td><td>2018</td></tr>
+<tr><td>Malta\*</td><td>8 marzo</td><td>2023</td><td>1° luglio</td><td>2023</td></tr>
 <tr><td>Monaco</td><td>4 marzo</td><td>2016</td><td>1° luglio</td><td>2016</td></tr>
 <tr><td>Portogallo</td><td>14 marzo</td><td>2018</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Regno Unito\*</td><td>5 novembre</td><td>2003</td><td>1° gennaio</td><td>2009</td></tr>
 <tr><td>Svizzera</td><td>27 marzo</td><td>2009</td><td>1° gennaio</td><td>2009</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet della Conferenza dell’Aja: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere consultati sul sito Internet del Governo Paesi Bassi: [www.overheid.nl](https://www.overheid.nl/) &gt; English &gt; Treaty Database, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-3]: [RU 2009 3107](https://fedlex.data.admin.ch/eli/oc/2009/381), [2012 1555](https://fedlex.data.admin.ch/eli/oc/2012/217), [2014 1157](https://fedlex.data.admin.ch/eli/oc/2014/247), [2017 5237](https://fedlex.data.admin.ch/eli/oc/2017/579)e [2020 3803](https://fedlex.data.admin.ch/eli/oc/2020/698). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 2009 3107](https://fedlex.data.admin.ch/eli/oc/2009/381); [2012 1555](https://fedlex.data.admin.ch/eli/oc/2012/217); [2014 1157](https://fedlex.data.admin.ch/eli/oc/2014/247); [2017 5237](https://fedlex.data.admin.ch/eli/oc/2017/579); [2020 3803](https://fedlex.data.admin.ch/eli/oc/2020/698); [2023 228](https://fedlex.data.admin.ch/eli/oc/2023/228). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty

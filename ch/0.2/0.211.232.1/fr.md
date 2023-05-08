@@ -3,11 +3,11 @@ sr: "0.211.232.1"
 title: Convention du 13 janvier 2000 sur la protection internationale des adultes
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/381"
 language: fr
-version: 2020-09-04
+version: 2023-05-09
 adopted: 2000-01-13
 in_force: 2009-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/381/20200904/fr/xml/fedlex-data-admin-ch-eli-cc-2009-381-20200904-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/381/20200904/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/381/20230509/fr/xml/fedlex-data-admin-ch-eli-cc-2009-381-20230509-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/381/20230509/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 27 mars 2009
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juillet 2009
 
-(Etat le 4 septembre 2020)
+(État le 9 mai 2023)
 
 [^t-1]: Art. 1 al. 1 let. b de l'AF du 21 déc. 2007 ([RO 2009 3077](https://fedlex.data.admin.ch/eli/oc/2009/379)).
 
@@ -473,7 +473,7 @@ Le dépositaire notifiera aux États membres de la Conférence de La Haye de dro
 
 *En foi de quoi,* les soussignés, dûment autorisés, ont signé la présente Convention. Fait à La Haye, le 13 janvier 2000, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire, qui sera déposé dans les archives du Gouvernement du Royaume des Pays-Bas et dont une copie certifiée conforme sera remise, par la voie diplomatique, à chacun des États membres de la Conférence de La Haye de droit international privé le 2 octobre 1999. (Suivent les signatures)
 
-Autorités centrales suisses**[^t-2]**
+Autorités centrales suisses[^t-2]
 
 ## Autorité centrale fédérale
 
@@ -497,23 +497,26 @@ Courriel: kindesschutz@bj.admin.ch
 
 www.bj.admin.ch &gt; Société &gt; Protection internationale des adultes &gt; Cotnact &gt; Pour toutes questions et informations sur la protection des adultes, veuillez contacter les autorités cantonales
 
-Champ d’application le 4 septembre 2020**[^t-3]**
+Champ d’application le 9 mai 2023[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th>Ratification Adhésion (A)</th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne\*</td><td>3 avril</td><td>2007</td><td>1<sup>er</sup> janvier</td><td>2009</td></tr>
 <tr><td>Autriche<sup>\*</sup></td><td>9 octobre</td><td>2013</td><td>1<sup>er</sup> février</td><td>2014</td></tr>
+<tr><td>Belgique\*</td><td>30 septembre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Chypre</td><td>4 juillet</td><td>2018</td><td>1<sup>er</sup> novembre</td><td>2018</td></tr>
 <tr><td>Estonie<sup>\*</sup></td><td>13 décembre</td><td>2010 A</td><td>1<sup>er</sup> novembre</td><td>2011</td></tr>
 <tr><td>Finlande</td><td>19 novembre</td><td>2010</td><td>1<sup>er</sup> mars</td><td>2011</td></tr>
 <tr><td>France\*</td><td>18 septembre</td><td>2008</td><td>1<sup>er</sup> janvier</td><td>2009</td></tr>
-<tr><td>Lettonie\*</td><td>24 novembre</td><td>2017</td><td>1<sup>er</sup> mars</td><td>2018</td></tr>
+<tr><td>Grèce\*</td><td>28 juillet</td><td>2022</td><td>1<sup>er</sup> novembre</td><td>2022</td></tr>
+<tr><td>Lettonie</td><td>24 novembre</td><td>2017</td><td>1<sup>er</sup> mars</td><td>2018</td></tr>
+<tr><td>Malte\*</td><td>8 mars</td><td>2023</td><td>1<sup>er</sup> juillet</td><td>2023</td></tr>
 <tr><td>Monaco</td><td>4 mars</td><td>2016</td><td>1<sup>er</sup> juillet</td><td>2016</td></tr>
 <tr><td>Portugal</td><td>14 mars</td><td>2018</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>République tchèque<sup>\*</sup></td><td>18 avril</td><td>2012</td><td>1<sup>er</sup> août</td><td>2012</td></tr>
 <tr><td>Royaume-Uni\*</td><td>5 novembre</td><td>2003</td><td>1<sup>er</sup> janvier</td><td>2009</td></tr>
 <tr><td>Suisse</td><td>27 mars</td><td>2009</td><td>1<sup>er</sup> juillet</td><td>2009</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de la Conférence de La Haye: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement des Pays-Bas: [www.overheid.nl](https://www.overheid.nl/) &gt; English &gt; Treaty Database, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-3]: [RO 2009 3107](https://fedlex.data.admin.ch/eli/oc/2009/381), [2012 1555](https://fedlex.data.admin.ch/eli/oc/2012/217), [2014 1157](https://fedlex.data.admin.ch/eli/oc/2014/247), [2017 5237](https://fedlex.data.admin.ch/eli/oc/2017/579), [2020 3803](https://fedlex.data.admin.ch/eli/oc/2020/698). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 2009 3107](https://fedlex.data.admin.ch/eli/oc/2009/381); [2012 1555](https://fedlex.data.admin.ch/eli/oc/2012/217); [2014 1157](https://fedlex.data.admin.ch/eli/oc/2014/247); [2017 5237](https://fedlex.data.admin.ch/eli/oc/2017/579); [2020 3803](https://fedlex.data.admin.ch/eli/oc/2020/698); [2023 228](https://fedlex.data.admin.ch/eli/oc/2023/228). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
