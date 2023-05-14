@@ -4,11 +4,11 @@ title: Verordnung des BAFU vom 29. November 2017 über phytosanitäre Massnahmen
 short: VpM-BAFU
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/825"
 language: de
-version: 2022-01-01
+version: 2023-05-15
 adopted: 2017-11-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-825-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20230515/de/xml/fedlex-data-admin-ch-eli-cc-2017-825-20230515-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20230515/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20220101/de"
 
 (VpM-BAFU)
 
-vom 29. November 2017 (Stand am 1. Januar 2022)
+vom 29. November 2017 (Stand am 15. Mai 2023)
 
 Das Bundesamt für Umwelt (BAFU),
 
@@ -74,13 +74,13 @@ Die besonderen Massnahmen, die bei erhöhtem phytosanitärem Risiko gegen die Ei
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1)
 
 ## Entsprechung von Ausdrücken und anwendbares Recht
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Bereinigt gemäss Ziff. II Abs. 1 der V des BAFU vom 17. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Bereinigt gemäss Ziff. II Abs. 1 der V des BAFU vom 17. Nov. 2020 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) und Ziff. I der V des BAFU vom 6. April 2023, in Kraft seit 15. Mai 2023 (AS **202****3** 183).
 
 ### 1 Entsprechung von Ausdrücken
 
@@ -97,7 +97,7 @@ Soweit die Anhänge 2–4 nichts anderes bestimmen, entsprechen sich die nachste
 <tr><td>Befallszone</td><td>Befallsherd</td></tr>
 <tr><td>Ausrottung</td><td>Tilgung</td></tr>
 <tr><td>Kahlschlagzone</td><td>Fokuszone</td></tr>
-<tr><td>b. Französische Ausdrücke</td><td>[tab]</td></tr>
+<tr><td>b. Französische Ausdrücke</td><td></td></tr>
 <tr><td>[tab] Union européenne / Union</td><td>Suisse</td></tr>
 <tr><td>[tab] Commission européenne / Commission</td><td>Service phytosanitaire fédéral (SPF)</td></tr>
 <tr><td>[tab] États membres</td><td>Cantons</td></tr>
@@ -137,11 +137,17 @@ Wird in dieser Verordnung auf EU-Rechtsakte verwiesen, die ihrerseits auf andere
 <tr><td>Anh. V</td><td>Anh. 4 PGesV-WBF-UVEK</td></tr>
 <tr><td>Anh. VI</td><td>[tab] Anh. 5 PGesV-WBF-UVEK</td></tr>
 <tr><td>Anh. VII</td><td>[tab] Anh. 6 und 7 PGesV-WBF-UVEK</td></tr>
+<tr><td>Durchführungsverordnung (EU) 2022/2095 der Kommission vom 28. Oktober 2022 zur Einführung von Maßnahmen zum Schutz der Union gegen die Einschleppung, Etablierung und Ausbreitung von *Anoplophora chinensis* (Forster) und zur Aufhebung des Beschlusses 2012/138/EU, ABl. L 281 vom 31.10.2022, S. 53.</td><td></td></tr>
+<tr><td>Art. 4 Abs. 1</td><td>Art. 20 PGesV</td></tr>
+<tr><td>Art. 5 Abs. 5</td><td>Art. 13 und 15 PGesV</td></tr>
+<tr><td>Art. 10 Abs. 1</td><td>Art. 39, 40, 60–64 und 75–88 PGesV</td></tr>
+<tr><td>Anh. I Teil A</td><td>Art. 8 Abs. 4 PGesV</td></tr>
+<tr><td>Anh. I Teil B</td><td>Art. 8 Abs. 4 PGesV</td></tr>
 </table>
 
 [^annex1-lvlu1-lvl2-1]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 2)
 
@@ -176,7 +182,7 @@ Die Ausnahme vom Einfuhrverbot gilt während den in Artikel 3 der Durchführungs
 
 Wo gemäss der Durchführungsverordnung (EU) 2020/1217 die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
 
-Anhang 2a*[^t-3]*
+Anhang 2a[^t-3]
 
 (Art. 2*a*)
 
@@ -231,7 +237,7 @@ Für die Einfuhr von Eschenholz (*Fraxinus* L.) nach Anhang 7 Ziffer 87 PGesV-WB
 
 Die Voraussetzungen nach Ziffer 2.1 gelten während des in Artikel 3 der Durchführungsverordnung (EU) 2020/1002 genannten Zeitraums als gleichwertig.
 
-Anhang 3*[^t-4]*
+Anhang 3[^t-4]
 
 (Art. 3)
 
@@ -255,13 +261,13 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von *Phytophthora ramorum* We
 
 ### 2 …
 
-Anhang 4*[^t-5]*
+Anhang 4[^t-5]
 
 (Art. 4)
 
 ## Besondere Massnahmen gegen die Einschleppung und Ausbreitung von Schadorganismen nach Anhang 1 PGesV‑WBF-UVEK bei erhöhtem phytosanitärem Risiko
 
-[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Bereinigt gemäss Ziff. II Abs. 1 der V des BAFU vom 17. Nov. 2020 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) und Ziff. II der V des BAFU vom 30. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
+[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Bereinigt gemäss Ziff. II Abs. 1 der V des BAFU vom 17. Nov. 2020 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)), Ziff. II der V des BAFU vom 30. Nov. 2021 ([AS 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)) und Ziff. I der V des BAFU vom 6. April 2023, in Kraft seit 15. Mai 2023 ([AS 2023 183](https://fedlex.data.admin.ch/eli/oc/2023/183)).
 
 ### 1 Waren mit Holzverpackungsmaterial aus Drittländern
 
@@ -353,16 +359,16 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von Quarantäneorganismen nac
 
 ### 2.1 Massnahmen gegen die Einschleppung und Ausbreitung
 
-Zum Schutz gegen die Einschleppung und Ausbreitung von *Anoplophora chinensis* (Forster) gelten bei erhöhtem phytosanitärem Risiko die Artikel 1–8 des Durchführungsbeschlusses 2012/138/EU[^annex4-lvlu1-lvl2-lvl21-1] und die darin genannten Anhänge I und II sowie der darin genannte Internationale Standard für Pflanzenschutzmassnahmen Nr. 5 der Ernährungs- und Landwirtschaftsorganisation der UNO (FAO) (ISPM Nr. 5)[^annex4-lvlu1-lvl2-lvl21-2].
+Zum Schutz gegen die Einschleppung und Ausbreitung von *Anoplophora chinensis* (Forster) gelten bei erhöhtem phytosanitärem Risiko die Artikel 1–14 der Durchführungsverordnung (EU) 2022/2095[^annex4-lvlu1-lvl2-lvl21-1] sowie die darin genannten Anhänge I und II und die darin genannten Internationalen Standards für Pflanzenschutzmassnahmen (ISPM) Nrn. 5, 9, 14 und 31 der Ernährungs- und Landwirtschaftsorganisation der UNO (FAO)[^annex4-lvlu1-lvl2-lvl21-2].
 
-[^annex4-lvlu1-lvl2-lvl21-1]: Durchführungsbeschluss 2012/138/EU der Kommission vom 1. März 2012 über Dringlichkeitsmassnahmen zum Schutz der Union gegen die Einschleppung und Ausbreitung von *Anoplophora chinensis* (Forster), ABl. L 64 vom 3.3.2012; zuletzt geändert durch Durchführungsbeschluss 2014/356/EU, ABl. L 175 vom 14.6.2014, S. 38.
-[^annex4-lvlu1-lvl2-lvl21-2]: Der ISPM Nr. 5 «Glossary of Phytosanitary Terms» (Ausgabe vom 29.05.2017) kann kostenlos abgerufen werden unter www.ippc.int &gt; Core Activities &gt; Standards & Implementation &gt; Standard Setting &gt; Adopted Standards.
+[^annex4-lvlu1-lvl2-lvl21-1]: Durchführungsverordnung (EU) 2022/2095 der Kommission vom 28. Oktober 2022 zur Einführung von Massnahmen zum Schutz der Union gegen die Einschleppung, Etablierung und Ausbreitung von *Anoplophora chinensis* (Forster) und zur Aufhebung des Beschlusses 2012/138/EU, Fassung gemäss ABl. L 281 vom 31.10.2022, S. 53.
+[^annex4-lvlu1-lvl2-lvl21-2]: Die ISPM Nr. 5 «Glossary of phytosanitary terms» (Ausgabe vom 6.2.2023), Nr. 9 «Guidelines for pest eradication programmes» (Ausgabe vom 13.7.2021), Nr. 14 «The use of integrated measures in a systems approach for pest risk management» (Ausgabe vom 13.7.2021) und Nr. 31 «Methodologies for sampling of consignmenets» (Ausgabe vom 13.7.2021) können kostenlos abgerufen werden unter www.ippc.int &gt; Standards.
 
 ### 2.2 Besondere Bestimmungen
 
-- 2\.2.1 Spezifizierte Pflanzen, die in der EU die Anforderungen an die Verbringung innerhalb der EU gemäss dem Durchführungsbeschluss 2012/138/EU erfüllen, dürfen auch in die Schweiz eingeführt werden.
-- 2\.2.2 Anstelle der Fristen nach den Artikeln 5–7 des Durchführungsbeschlusses 2012/138/EU gelten die vom EPSD festgelegten Fristen. Dieser gibt die Fristen den Kantonen in geeigneter Form bekannt.
-- 2\.2.3 Wo gemäss den Artikeln 3, 5 Absatz 2, 6 Absatz 2, 7 Absatz 1 und 8 des Durchführungsbeschlusses 2012/138/EU die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
+- 2\.2.1 Spezifizierte Pflanzen, die in der EU die Anforderungen an die Verbringung innerhalb der EU gemäss Artikel 10 der Durchführungsverordnung (EU) 2022/2095 erfüllen, dürfen auch in die Schweiz eingeführt werden.
+- 2\.2.2 Anstelle der Fristen nach den Artikeln 4 und 13 der Durchführungsverordnung (EU) 2022/2095 gelten die vom EPSD festgelegten Fristen. Dieser gibt die Fristen den Kantonen in geeigneter Form bekannt.
+- 2\.2.3 Wo gemäss den Artikeln 4, 9 Absatz 2 und 14 der Durchführungsverordnung (EU) 2022/2095 die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
 
 ### 3 *Bursaphelenchus xylophilus* (Steiner et Buhrer) Nickle et al.
 
@@ -400,24 +406,24 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von *Anoplophora glabripennis
 
 <table>
 <tr><th>HS-Code/Zolltarifnummer</th><th>Warenbezeichnung</th></tr>
-<tr><td>4401.1200</td><td>Brennholz aus anderem als Nadelholz, in Form von Rundlingen, Scheiten, Zweigen, Reisigbündeln oder ähnlichen Formen</td></tr>
-<tr><td>4401.2200</td><td>Holz von anderen als Nadelbäumen, in Form von Plättchen oder Schnitzeln</td></tr>
-<tr><td>ex 4401.4000</td><td>Holzabfälle und Holzausschuss (ausser Sägespänen), nicht zu Pellets, Briketts, Scheiten oder ähnlichen Formen zusammengepresst</td></tr>
-<tr><td>ex 4403.1290</td><td>Rohholz, mit Farbe, Beize, Kreosot oder anderen Konservierungsmitteln behandelt, auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
-<tr><td>4403.9300</td><td>Buchenholz (*Fagus* spp.), mit einer grössten Querschnittdimension von 15 cm oder mehr, auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
-<tr><td>4403.9400</td><td>Anderes Buchenholz (*Fagus* spp.), auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
-<tr><td>4403.9500</td><td>Birkenholz (*Betula* spp.), mit einer grössten Querschnittdimension von 15 cm oder mehr, auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
-<tr><td>4403.9600</td><td>Anderes Birkenholz (*Betula* spp.), auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
-<tr><td>4403.9700</td><td>Pappelholz (*Populus* spp.), auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
-<tr><td>ex 4403.9900</td><td>Anderes Rohholz als Nadelholz oder tropische Hölzer, (ausgenommen Buche (*Fagus* spp.), Pappel (*Populus* spp.) oder Birke (*Betula* spp.)) auch entrindet, vom Splint befreit oder zwei- oder vierseitig grob zugerichtet</td></tr>
-<tr><td>ex 4404.2000</td><td>Von anderen als Nadelbäumen stammende Holzpfähle, gespalten; Pfähle und Pflöcke aus Holz, gespitzt, nicht in der Längsrichtung gesägt</td></tr>
+<tr><td>4401.1200</td><td>Brennholz, in Form von Rundlingen, Scheiten, Zweigen, Reisigbündeln oder ähnlichen Formen, aus anderem als Nadelholz</td></tr>
+<tr><td>4401.2200</td><td>Holz, in Form von Plättchen oder Schnitzeln, aus anderem als Nadelholz</td></tr>
+<tr><td>ex 4401.4900</td><td>Holzabfälle und Holzausschuss, nicht agglomeriert</td></tr>
+<tr><td>ex 4403.12</td><td>Rohholz, mit Farbe, Beize, Kreosot oder anderen Konservierungsmitteln behandelt, auch entrindet, entsplintet oder zwei- oder vierseitig behauen, anderes als Nadelholz oder als tropische Hölzer</td></tr>
+<tr><td>4403.9300</td><td>Buchenholz (*Fagus* spp.), roh, mit einer kleinsten Querschnittdimension von 15 cm oder mehr, auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
+<tr><td>4403.9400</td><td>Anderes Buchenholz (*Fagus* spp.), roh, auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
+<tr><td>4403.9500</td><td>Birkenholz (*Betula* spp.), roh, mit einer kleinsten Querschnittdimension von 15 cm oder mehr, auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
+<tr><td>4403.9600</td><td>Anderes Birkenholz (*Betula* spp.), roh, auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
+<tr><td>4403.9700</td><td>Pappelholz (*Populus* spp.), roh, auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
+<tr><td>ex 4403.9900</td><td>Rohholz, auch entrindet, entsplintet oder zwei- oder vierseitig behauen, anderes als Nadelholz oder als tropische Hölzer (ausgenommen Buche [*Fagus* spp.], Pappel [*Populus* spp.] oder Birke [*Betula* spp.])</td></tr>
+<tr><td>ex 4404.2000</td><td>Holzpfähle, gespalten, Pfähle und Pflöcke, gespitzt, nicht in der Längsrichtung gesägt, aus anderem als Nadelholz</td></tr>
 <tr><td>4406</td><td>Bahnschwellen aus Holz</td></tr>
-<tr><td>4407.9200</td><td>Buchenholz (*Fagus* spp.) in der Längsrichtung gesägt oder gesäumt, gemessert oder geschält, auch gehobelt, geschliffen oder durch verleimen zusammengesetzt, mit einer Dicke von mehr als 6 mm</td></tr>
-<tr><td>4407.93</td><td>Ahornholz (*Acer* spp.), in der Längsrichtung gesägt oder gesäumt, gemessert oder geschält, auch gehobelt, geschliffen oder durch verleimen zusammengesetzt, mit einer Dicke von mehr als 6 mm</td></tr>
-<tr><td>4407.95</td><td>Eschenholz (*Fraxinus* spp.), in der Längsrichtung gesägt oder gesäumt, gemessert oder geschält, auch gehobelt, geschliffen oder durch verleimen zusammengesetzt, mit einer Dicke von mehr als 6 mm</td></tr>
-<tr><td>4407.96</td><td>Birkenholz (*Betula* spp.), in der Längsrichtung gesägt oder gesäumt, gemessert oder geschält, auch gehobelt, geschliffen oder durch verleimen zusammengesetzt, mit einer Dicke von mehr als 6 mm</td></tr>
-<tr><td>4407.97</td><td>Pappelholz (*Populus* spp.), in der Längsrichtung gesägt oder gesäumt, gemessert oder geschält, auch gehobelt, geschliffen oder durch verleimen zusammengesetzt, mit einer Dicke von mehr als 6 mm</td></tr>
-<tr><td>ex 4407 99</td><td>Holz, anderes als Nadelholz, (ausgenommen Buche (*Fagus* spp.), Ahorn (*Acer* spp.), Esche (*Fraxinus* spp.), Birke (*Betula* spp.) oder Pappelholz (*Populus* spp.)), in der Längsrichtung gesägt oder gesäumt, gemessert oder geschält, auch gehobelt, geschliffen oder durch verleimen zusammengesetzt, mit einer Dicke von mehr als 6 mm</td></tr>
+<tr><td>4407.92</td><td>Buchenholz (*Fagus* spp.), in der Längsrichtung gesägt oder gesäumt, gemessert oder geschält, auch gehobelt, geschliffen oder durch Verleimen zusammengesetzt, mit einer Dicke von mehr als 6 mm</td></tr>
+<tr><td>4407.93</td><td>Ahornholz (*Acer* spp.), in der Längsrichtung gesägt oder gesäumt, gemessert oder geschält, auch gehobelt, geschliffen oder durch Verleimen zusammengesetzt, mit einer Dicke von mehr als 6 mm</td></tr>
+<tr><td>4407.95</td><td>Eschenholz (*Fraxinus* spp.), in der Längsrichtung gesägt oder gesäumt, gemessert oder geschält, auch gehobelt, geschliffen oder durch Verleimen zusammengesetzt, mit einer Dicke von mehr als 6 mm</td></tr>
+<tr><td>4407.96</td><td>Birkenholz (*Betula* spp.), in der Längsrichtung gesägt oder gesäumt, gemessert oder geschält, auch gehobelt, geschliffen oder durch Verleimen zusammengesetzt, mit einer Dicke von mehr als 6 mm</td></tr>
+<tr><td>4407.97</td><td>Pappelholz (*Populus* spp.), in der Längsrichtung gesägt oder gesäumt, gemessert oder geschält, auch gehobelt, geschliffen oder durch Verleimen zusammengesetzt, mit einer Dicke von mehr als 6 mm</td></tr>
+<tr><td>ex 4407.99</td><td>Holz, in der Längsrichtung gesägt oder gesäumt, gemessert oder geschält, auch gehobelt, geschliffen oder durch Verleimen zusammengesetzt, mit einer Dicke von mehr als 6 mm, anderes als Nadelholz (ausgenommen Buche [*Fagus* spp.], Ahorn [*Acer* spp.], Esche [*Fraxinus* spp.], Birke [*Betula* spp.] oder Pappel [*Populus* spp.])</td></tr>
 <tr><td>9406.1000</td><td>Vorgefertigte Gebäude aus Holz</td></tr>
 </table>
 
