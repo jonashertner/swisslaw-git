@@ -3,11 +3,11 @@ sr: "0.201"
 title: Statut vom 31. Oktober 1951 der Haager Konferenz für internationales Privatrecht
 eli: "https://fedlex.data.admin.ch/eli/cc/1957/477_476_495"
 language: de
-version: 2020-05-05
+version: 2023-05-17
 adopted: 1951-10-31
 in_force: 1957-05-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/477_476_495/20200505/de/xml/fedlex-data-admin-ch-eli-cc-1957-477_476_495-20200505-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1957/477_476_495/20200505/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/477_476_495/20230517/de/xml/fedlex-data-admin-ch-eli-cc-1957-477_476_495-20230517-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1957/477_476_495/20230517/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen in Den Haag am 31. Oktober 1951[^t-1] Von der Bundesversammlung ge
 
 Bereinigt in Den Haag durch die Zwanzigste Tagung der Haager Konferenz am 30. Juni 2005[^t-3] Gemäss Art. 12 von den Vertragstaaten angenommen am 30. September 2006 Schweizerische Annahmeurkunde hinterlegt am 29. März 2006 In Kraft getreten am 1. Januar 2007
 
-(Stand am 5. Mai 2020)
+(Stand am 17. Mai 2023)
 
 [^t-1]: Das in der AS angegebene Datum des 1. März 1954 ist nicht richtig.
 [^t-2]: Art. 2 Abs. 1 des BB vom 5. März 1957 ([AS 1957 465](https://fedlex.data.admin.ch/eli/oc/1957/465_465_483)).
@@ -172,16 +172,16 @@ Um die Durchführung dieser Satzung sicherzustellen, wird sie durch Geschäftsor
 
 Der französische und der englische Wortlaut dieser Satzung in der am 1. Januar 2007 geänderten Fassung ist gleichermassen verbindlich.
 
-Schweiz – innerstaatliches Organ**[^t-4]**
+Schweiz – innerstaatliches Organ[^t-4]
 
 Bundesamt für Justiz (BJ) Bundesrain 20 3003 Bern Schweiz Tel.: +41 (58) 463 8864 fax: +41 (58) 462 7864 e-mail: ipr@bj.admin.ch
 
 [^t-4]: [AS 2014 479](https://fedlex.data.admin.ch/eli/oc/2014/86)
 
-Geltungsbereich am 5. Mai 2020**[^t-5]**
+Geltungsbereich am 17. Mai 2023[^t-5]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Ägypten</td><td>24. April</td><td>1961</td><td>24. April</td><td>1961</td></tr>
 <tr><td>Albanien</td><td>4. Juni</td><td>2002</td><td>4. Juni</td><td>2002</td></tr>
 <tr><td>Andorra</td><td>11. Juni</td><td>2015</td><td>11. Juni</td><td>2015</td></tr>
@@ -203,12 +203,14 @@ Geltungsbereich am 5. Mai 2020**[^t-5]**
 <tr><td>Deutschland</td><td>14. Dezember</td><td>1955</td><td>14. Dezember</td><td>1955</td></tr>
 <tr><td>Dominikanische Republik</td><td>4. März</td><td>2020</td><td>4. März</td><td>2020</td></tr>
 <tr><td>Ecuador</td><td>2. November</td><td>2007</td><td>2. November</td><td>2007</td></tr>
+<tr><td>El Salvador</td><td>2. März</td><td>2022</td><td>2. März</td><td>2022</td></tr>
 <tr><td>Estland</td><td>13. Mai</td><td>1998</td><td>13. Mai</td><td>1998</td></tr>
 <tr><td>Europäische Union\*</td><td>3. April</td><td>2007</td><td>3. April</td><td>2007</td></tr>
 <tr><td>Finnland</td><td>2. Dezember</td><td>1955</td><td>2. Dezember</td><td>1955</td></tr>
 <tr><td>Frankreich</td><td>20. April</td><td>1964</td><td>20. April</td><td>1964</td></tr>
 <tr><td>Georgien</td><td>28. Mai</td><td>2001</td><td>28. Mai</td><td>2001</td></tr>
 <tr><td>Griechenland</td><td>26. August</td><td>1955</td><td>26. August</td><td>1955</td></tr>
+<tr><td>Honduras</td><td>9. September</td><td>2021</td><td>9. September</td><td>2021</td></tr>
 <tr><td>Indien</td><td>13. März</td><td>2008</td><td>13. März</td><td>2008</td></tr>
 <tr><td>Irland</td><td>26. August</td><td>1955</td><td>26. August</td><td>1955</td></tr>
 <tr><td>Island</td><td>14. November</td><td>2003</td><td>14. November</td><td>2003</td></tr>
@@ -230,8 +232,11 @@ Geltungsbereich am 5. Mai 2020**[^t-5]**
 <tr><td>Mexiko</td><td>18. März</td><td>1986</td><td>18. März</td><td>1986</td></tr>
 <tr><td>Moldau</td><td>16. März</td><td>2016</td><td>16. März</td><td>2016</td></tr>
 <tr><td>Monaco</td><td>8. August</td><td>1996</td><td>8. August</td><td>1996</td></tr>
+<tr><td>Mongolei</td><td>1. Juli</td><td>2021</td><td>1. Juli</td><td>2021</td></tr>
 <tr><td>Montenegro</td><td>1. März</td><td>2007 N</td><td>3. Juni</td><td>2006</td></tr>
+<tr><td>Namibia</td><td>19. Januar</td><td>2021</td><td>19. Januar</td><td>2021</td></tr>
 <tr><td>Neuseeland <sup>a</sup></td><td>5. Februar</td><td>2002</td><td>5. Februar</td><td>2002</td></tr>
+<tr><td>Nicaragua</td><td>21. Oktober</td><td>2020</td><td>21. Oktober</td><td>2020</td></tr>
 <tr><td>Niederlande</td><td>25. September</td><td>1954</td><td>15. Juli</td><td>1955</td></tr>
 <tr><td>Aruba</td><td>25. September</td><td>1954</td><td>15. Juli</td><td>1955</td></tr>
 <tr><td>Curaçao</td><td>25. September</td><td>1954</td><td>15. Juli</td><td>1955</td></tr>
@@ -247,7 +252,7 @@ Geltungsbereich am 5. Mai 2020**[^t-5]**
 <tr><td>Polen</td><td>29. Mai</td><td>1984</td><td>29. Mai</td><td>1984</td></tr>
 <tr><td>Portugal</td><td>8. Dezember</td><td>1953</td><td>15. Juli</td><td>1955</td></tr>
 <tr><td>Rumänien</td><td>10. April</td><td>1991</td><td>10. April</td><td>1991</td></tr>
-<tr><td>Russland</td><td>6. Dezember</td><td>2001 B</td><td>6. Dezember</td><td>2001</td></tr>
+<tr><td>Russland</td><td>6. Dezember</td><td>2001</td><td>6. Dezember</td><td>2001</td></tr>
 <tr><td>Sambia</td><td>17. Mai</td><td>2013</td><td>17. Mai</td><td>2013</td></tr>
 <tr><td>Saudi-Arabien</td><td>19. Oktober</td><td>2016</td><td>19. Oktober</td><td>2016</td></tr>
 <tr><td>Schweden</td><td>9. Dezember</td><td>1953</td><td>15. Juli</td><td>1955</td></tr>
@@ -260,6 +265,7 @@ Geltungsbereich am 5. Mai 2020**[^t-5]**
 <tr><td>Sri Lanka</td><td>27. September</td><td>2001</td><td>27. September</td><td>2001</td></tr>
 <tr><td>Südafrika</td><td>14. Februar</td><td>2002</td><td>14. Februar</td><td>2002</td></tr>
 <tr><td>Suriname</td><td>7. Oktober</td><td>1977</td><td>7. Oktober</td><td>1977</td></tr>
+<tr><td>Thailand</td><td>3. März</td><td>2021</td><td>3. März</td><td>2021</td></tr>
 <tr><td>Tschechische Republik</td><td>1. April</td><td>1993 N</td><td>28. Januar</td><td>1993</td></tr>
 <tr><td>Tunesien</td><td>4. November</td><td>2014</td><td>4. November</td><td>2014</td></tr>
 <tr><td>Türkei</td><td>26. August</td><td>1955</td><td>26. August</td><td>1955</td></tr>
@@ -272,8 +278,8 @@ Geltungsbereich am 5. Mai 2020**[^t-5]**
 <tr><td>Vereinigtes Königreich</td><td>3. Januar</td><td>1955</td><td>15. Juli</td><td>1955</td></tr>
 <tr><td>Vietnam</td><td>10. April</td><td>2013</td><td>10. April</td><td>2013</td></tr>
 <tr><td>Zypern</td><td>8. Oktober</td><td>1984</td><td>8. Oktober</td><td>1984</td></tr>
-<tr><td colspan="5">\* [tab] Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Haager Konferenz: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* [tab] Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Niederländischen Regierung: www.overheid.nl &gt; English &gt; Treaty Database &gt; 007234 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Statut gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-5]: [AS 1972 1624](https://fedlex.data.admin.ch/eli/oc/1972/1624_1654_1828), [1978 548](https://fedlex.data.admin.ch/eli/oc/1978/548_548_548), [1984 199](https://fedlex.data.admin.ch/eli/oc/1984/199_199_199), [1985 24](https://fedlex.data.admin.ch/eli/oc/1985/24_24_24), [1987 427](https://fedlex.data.admin.ch/eli/oc/1987/427_427_427), [1990 602](https://fedlex.data.admin.ch/eli/oc/1990/602_602_602), [1994 1154](https://fedlex.data.admin.ch/eli/oc/1994/1154_1154_1154), [2003 4083](https://fedlex.data.admin.ch/eli/oc/2003/606), [2006 3257](https://fedlex.data.admin.ch/eli/oc/2006/496), [2009 2649](https://fedlex.data.admin.ch/eli/oc/2009/357), [2011 3293](https://fedlex.data.admin.ch/eli/oc/2011/435), [2014 479](https://fedlex.data.admin.ch/eli/oc/2014/86), [2015 4283](https://fedlex.data.admin.ch/eli/oc/2015/721)und [2020 1663](https://fedlex.data.admin.ch/eli/oc/2020/336). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-5]: [AS 1957 477](https://fedlex.data.admin.ch/eli/oc/1957/477_476_495); [1972 1624](https://fedlex.data.admin.ch/eli/oc/1972/1624_1654_1828); [1978 548](https://fedlex.data.admin.ch/eli/oc/1978/548_548_548); [1984 199](https://fedlex.data.admin.ch/eli/oc/1984/199_199_199); [1985 24](https://fedlex.data.admin.ch/eli/oc/1985/24_24_24); [1987 427](https://fedlex.data.admin.ch/eli/oc/1987/427_427_427); [1990 602](https://fedlex.data.admin.ch/eli/oc/1990/602_602_602); [1994 1154](https://fedlex.data.admin.ch/eli/oc/1994/1154_1154_1154); [2003 4083](https://fedlex.data.admin.ch/eli/oc/2003/606); [2006 3257](https://fedlex.data.admin.ch/eli/oc/2006/496); [2009 2649](https://fedlex.data.admin.ch/eli/oc/2009/357); [2011 3293](https://fedlex.data.admin.ch/eli/oc/2011/435); [2014 479](https://fedlex.data.admin.ch/eli/oc/2014/86); [2015 4283](https://fedlex.data.admin.ch/eli/oc/2015/721); [2020 1663](https://fedlex.data.admin.ch/eli/oc/2020/336); [2023 242](https://fedlex.data.admin.ch/eli/oc/2023/242). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)

@@ -3,11 +3,11 @@ sr: "0.201"
 title: "Statuto del 31 ottobre 1951 della Conferenza dell'Aia di diritto internazionale privato"
 eli: "https://fedlex.data.admin.ch/eli/cc/1957/477_476_495"
 language: it
-version: 2020-05-05
+version: 2023-05-17
 adopted: 1951-10-31
 in_force: 1957-05-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/477_476_495/20200505/it/xml/fedlex-data-admin-ch-eli-cc-1957-477_476_495-20200505-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1957/477_476_495/20200505/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/477_476_495/20230517/it/xml/fedlex-data-admin-ch-eli-cc-1957-477_476_495-20230517-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1957/477_476_495/20230517/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,23 +18,11 @@ RU **1957** 495; FF **1956** II 285 ediz. ted. 289 ediz. franc.
 
 Traduzione
 
-Conchiuso all’Aia il 31 ottobre 1951[^t-1]
+Conchiuso all’Aia il 31 ottobre 1951[^t-1] Approvato dall’Assemblea federale il 5 marzo 1957[^t-2] Istrumento d’approvazione depositato dalla Svizzera il 6 maggio 1957 Entrato in vigore per la Svizzera il 6 maggio 1957
 
-Approvato dall’Assemblea federale il 5 marzo 1957[^t-2]
+Emendato della Ventesima sessione della Conferenza all’Aia il 30 giugno 2005[^t-3] Approvato dagli Stati membri secondo l’articolo 12 il 30 settembre 2006 Strumenti depositati dalla Svizzera il 29 marzo 2006 Entrato in vigore 1° gennaio 2007
 
-Istrumento d’approvazione depositato dalla Svizzera il 6 maggio 1957
-
-Entrato in vigore per la Svizzera il 6 maggio 1957
-
-Emendato della Ventesima sessione della Conferenza all’Aia il 30 giugno 2005[^t-3]
-
-Approvato dagli Stati membri secondo l’articolo 12 il 30 settembre 2006
-
-Strumenti depositati dalla Svizzera il 29 marzo 2006
-
-Entrato in vigore 1° gennaio 2007
-
-(Stato 5 maggio 2020)
+(Stato 17 maggio 2023)
 
 [^t-1]: Nella RU: erroneamente, 1° mar. 1954.
 [^t-2]: Art. 2 cpv. 1 del DF del 5 mar. 1957 ([RU 1957 483](https://fedlex.data.admin.ch/eli/oc/1957/465_465_483)).
@@ -184,16 +172,16 @@ Le disposizioni del presente Statuto saranno completate da Regolamenti diretti a
 
 I testi in lingua francese e inglese del presente Statuto, modificato il primo gennaio 2007, fanno ugualmente fede.
 
-Svizzera – Organo nazionale**[^t-4]**
+Svizzera – Organo nazionale[^t-4]
 
 Ufficio federale di giustizia (UFG) Bundesrain 20 3003 Berna Svizzera Tel.: +41 (58) 463 8864 fax: +41 (58) 462 7864 e-mail: ipr@bj.admin.ch
 
 [^t-4]: [RU 2014 479](https://fedlex.data.admin.ch/eli/oc/2014/86)
 
-Campo d’applicazione il 5 maggio 2020**[^t-5]**
+Campo d’applicazione il 17 maggio 2023[^t-5]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>4 giugno</td><td>2002</td><td>4 giugno</td><td>2002</td></tr>
 <tr><td>Andorra</td><td>11 giugno</td><td>2015</td><td>11 giugno</td><td>2015</td></tr>
 <tr><td>Arabia Saudita</td><td>19 ottobre</td><td>2016</td><td>19 ottobre</td><td>2016</td></tr>
@@ -221,6 +209,7 @@ Campo d’applicazione il 5 maggio 2020**[^t-5]**
 <tr><td>Dominicana, Repubblica</td><td>4 marzo</td><td>2020</td><td>4 marzo</td><td>2020</td></tr>
 <tr><td>Ecuador</td><td>2 novembre</td><td>2007</td><td>2 novembre</td><td>2007</td></tr>
 <tr><td>Egitto</td><td>24 aprile</td><td>1961</td><td>24 aprile</td><td>1961</td></tr>
+<tr><td>El Salvador</td><td>2 marzo</td><td>2022</td><td>2 marzo</td><td>2022</td></tr>
 <tr><td>Estonia</td><td>13 maggio</td><td>1998</td><td>13 maggio</td><td>1998</td></tr>
 <tr><td>Filippine</td><td>14 luglio</td><td>2010</td><td>14 luglio</td><td>2010</td></tr>
 <tr><td>Finlandia</td><td>2 dicembre</td><td>1955</td><td>2 dicembre</td><td>1955</td></tr>
@@ -230,6 +219,7 @@ Campo d’applicazione il 5 maggio 2020**[^t-5]**
 <tr><td>Giappone</td><td>27 giugno</td><td>1957</td><td>27 giugno</td><td>1957</td></tr>
 <tr><td>Giordania</td><td>13 giugno</td><td>2001</td><td>13 giugno</td><td>2001</td></tr>
 <tr><td>Grecia</td><td>26 agosto</td><td>1955</td><td>26 agosto</td><td>1955</td></tr>
+<tr><td>Honduras</td><td>9 settembre</td><td>2021</td><td>9 settembre</td><td>2021</td></tr>
 <tr><td>India</td><td>13 marzo</td><td>2008</td><td>13 marzo</td><td>2008</td></tr>
 <tr><td>Irlanda</td><td>26 agosto</td><td>1955</td><td>26 agosto</td><td>1955</td></tr>
 <tr><td>Islanda</td><td>14 novembre</td><td>2003</td><td>14 novembre</td><td>2003</td></tr>
@@ -262,11 +252,14 @@ Campo d’applicazione il 5 maggio 2020**[^t-5]**
 <tr><td>Portogallo</td><td>8 dicembre</td><td>1953</td><td>15 luglio</td><td>1955</td></tr>
 <tr><td>Regno Unito</td><td>3 gennaio</td><td>1955</td><td>15 luglio</td><td>1955</td></tr>
 <tr><td>Romania</td><td>10 aprile</td><td>1991</td><td>10 aprile</td><td>1991</td></tr>
-<tr><td>Russia</td><td>6 dicembre</td><td>2001 A</td><td>6 dicembre</td><td>2001</td></tr>
+<tr><td>Russia</td><td>6 dicembre</td><td>2001</td><td>6 dicembre</td><td>2001</td></tr>
 <tr><td>Serbia</td><td>1° giugno</td><td>2001 S</td><td>26 aprile</td><td>2001</td></tr>
 <tr><td>Singapore</td><td>9 aprile</td><td>2014</td><td>9 aprile</td><td>2014</td></tr>
 <tr><td>Slovacchia</td><td>1° giugno</td><td>1993 S</td><td>26 aprile</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>15 novembre</td><td>1992 S</td><td>18 giugno</td><td>1992</td></tr>
+<tr><td>Mongolia</td><td>1° luglio</td><td>2021</td><td>1° luglio</td><td>2021</td></tr>
+<tr><td>Namibia</td><td>19 gennaio</td><td>2021</td><td>19 gennaio</td><td>2021</td></tr>
+<tr><td>Nicaragua</td><td>21 ottobre</td><td>2020</td><td>21 ottobre</td><td>2020</td></tr>
 <tr><td>Spagna</td><td>8 dicembre</td><td>1953</td><td>15 luglio</td><td>1955</td></tr>
 <tr><td>Sri Lanka</td><td>27 settembre</td><td>2001</td><td>27 settembre</td><td>2001</td></tr>
 <tr><td>Stati Uniti</td><td>15 ottobre</td><td>1964</td><td>15 ottobre</td><td>1964</td></tr>
@@ -274,6 +267,7 @@ Campo d’applicazione il 5 maggio 2020**[^t-5]**
 <tr><td>Suriname</td><td>7 ottobre</td><td>1977</td><td>7 ottobre</td><td>1977</td></tr>
 <tr><td>Svezia</td><td>9 dicembre</td><td>1953</td><td>15 luglio</td><td>1955</td></tr>
 <tr><td>Svizzera</td><td>6 maggio</td><td>1957</td><td>6 maggio</td><td>1957</td></tr>
+<tr><td>Thailandia</td><td>3 marzo</td><td>2021</td><td>3 marzo</td><td>2021</td></tr>
 <tr><td>Tunisia</td><td>4 novembre</td><td>2014</td><td>4 novembre</td><td>2014</td></tr>
 <tr><td>Turchia</td><td>26 agosto</td><td>1955</td><td>26 agosto</td><td>1955</td></tr>
 <tr><td>Ucraina</td><td>3 dicembre</td><td>2003</td><td>3 dicembre</td><td>2003</td></tr>
@@ -284,8 +278,8 @@ Campo d’applicazione il 5 maggio 2020**[^t-5]**
 <tr><td>Venezuela</td><td>25 luglio</td><td>1979</td><td>25 luglio</td><td>1979</td></tr>
 <tr><td>Vietnam</td><td>10 aprile</td><td>2013</td><td>10 aprile</td><td>2013</td></tr>
 <tr><td>Zambia</td><td>17 maggio</td><td>2013</td><td>17 maggio</td><td>2013</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet della Conferenza dell’Aja: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. I testi in inglese possono essere consultati sul sito Internet del Governo Paesi Bassi: [www.overheid.nl](http://www.overheid.nl) &gt; English &gt; Treaty Database, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Lo statuto non vale per Tokelau.</td></tr>
 </table>
 
-[^t-5]: [RU 1972 1828](https://fedlex.data.admin.ch/eli/oc/1972/1624_1654_1828), [1978 548](https://fedlex.data.admin.ch/eli/oc/1978/548_548_548), [1984 199](https://fedlex.data.admin.ch/eli/oc/1984/199_199_199), [1985 24](https://fedlex.data.admin.ch/eli/oc/1985/24_24_24), [1987 427](https://fedlex.data.admin.ch/eli/oc/1987/427_427_427), [1990 602](https://fedlex.data.admin.ch/eli/oc/1990/602_602_602), [1994 1154](https://fedlex.data.admin.ch/eli/oc/1994/1154_1154_1154), [2003 4083](https://fedlex.data.admin.ch/eli/oc/2003/606), [2006 3257](https://fedlex.data.admin.ch/eli/oc/2006/496), [2009 2649](https://fedlex.data.admin.ch/eli/oc/2009/357), [2011 3293](https://fedlex.data.admin.ch/eli/oc/2011/435), [2014 479](https://fedlex.data.admin.ch/eli/oc/2014/86), [2015 4283](https://fedlex.data.admin.ch/eli/oc/2015/721)e [2020 1663](https://fedlex.data.admin.ch/eli/oc/2020/336). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-5]: [RU 1957 495](https://fedlex.data.admin.ch/eli/oc/1957/477_476_495); [1972 1828](https://fedlex.data.admin.ch/eli/oc/1972/1624_1654_1828); [1978 548](https://fedlex.data.admin.ch/eli/oc/1978/548_548_548); [1984 199](https://fedlex.data.admin.ch/eli/oc/1984/199_199_199); [1985 24](https://fedlex.data.admin.ch/eli/oc/1985/24_24_24); [1987 427](https://fedlex.data.admin.ch/eli/oc/1987/427_427_427); [1990 602](https://fedlex.data.admin.ch/eli/oc/1990/602_602_602); [1994 1154](https://fedlex.data.admin.ch/eli/oc/1994/1154_1154_1154); [2003 4083](https://fedlex.data.admin.ch/eli/oc/2003/606); [2006 3257](https://fedlex.data.admin.ch/eli/oc/2006/496); [2009 2649](https://fedlex.data.admin.ch/eli/oc/2009/357); [2011 3293](https://fedlex.data.admin.ch/eli/oc/2011/435); [2014 479](https://fedlex.data.admin.ch/eli/oc/2014/86); [2015 4283](https://fedlex.data.admin.ch/eli/oc/2015/721); [2020 1663](https://fedlex.data.admin.ch/eli/oc/2020/336); [2023 242](https://fedlex.data.admin.ch/eli/oc/2023/242). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://[www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

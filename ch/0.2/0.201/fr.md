@@ -3,11 +3,11 @@ sr: "0.201"
 title: Statut du 31 octobre 1951 de la Conférence de La Haye de droit international privé
 eli: "https://fedlex.data.admin.ch/eli/cc/1957/477_476_495"
 language: fr
-version: 2020-05-05
+version: 2023-05-17
 adopted: 1951-10-31
 in_force: 1957-05-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/477_476_495/20200505/fr/xml/fedlex-data-admin-ch-eli-cc-1957-477_476_495-20200505-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1957/477_476_495/20200505/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/477_476_495/20230517/fr/xml/fedlex-data-admin-ch-eli-cc-1957-477_476_495-20230517-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1957/477_476_495/20230517/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -34,7 +34,7 @@ Instrument d’acceptation déposé par la Suisse le 29 mars 2006
 
 Entré en vigueur le 1<sup>er</sup> janvier 2007
 
-(Etat le 5 mai 2020)
+(État le 17 mai 2023)
 
 [^t-1]: La date du 1<sup>er</sup> mars 1954 indiquée au RO est erronée.
 [^t-2]: Art. 2 al. 1 de l’AF du 5 mars 1957 ([RO 1957 465](https://fedlex.data.admin.ch/eli/oc/1957/465_465_483))
@@ -184,27 +184,15 @@ Les dispositions du présent Statut seront complétées par des Règlements, en 
 
 Les textes français et anglais du Statut, tel qu’amendé le premier janvier 2007, font également foi.
 
-## Suisse – Organe national****
+Suisse – Organe national[^t-4]
 
-[^lvlu17-1]
+Office fédéral de la Justice (OFJ) Bundesrain 20 3003 Berne Suisse Tel.: +41 (58) 463 8864
 
-[^lvlu17-1]: [RO 2014 479](https://fedlex.data.admin.ch/eli/oc/2014/86)
+fax: +41 (58) 462 7864 e-mail: ipr@bj.admin.ch
 
-Office fédéral de la Justice (OFJ)
+[^t-4]: [RO 2014 479](https://fedlex.data.admin.ch/eli/oc/2014/86)
 
-Bundesrain 20
-
-3003 Berne
-
-Suisse
-
-Tel.: +41 (58) 463 8864
-
-fax: +41 (58) 462 7864
-
-e-mail: ipr@bj.admin.ch
-
-Champ d’application le 5 mai 2020**[^t-4]**
+Champ d’application le 17 mai 2023[^t-5]
 
 <table>
 <tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -234,6 +222,7 @@ Champ d’application le 5 mai 2020**[^t-4]**
 <tr><td>Croatie</td><td>1<sup>er</sup> octobre</td><td>1995 S</td><td>12 juin</td><td>1995</td></tr>
 <tr><td>Danemark</td><td>26 février</td><td>1954</td><td>15 juillet</td><td>1955</td></tr>
 <tr><td>Égypte</td><td>24 avril</td><td>1961</td><td>24 avril</td><td>1961</td></tr>
+<tr><td>El Salvador</td><td>2 mars</td><td>2022</td><td>2 mars</td><td>2022</td></tr>
 <tr><td>Équateur</td><td>2 novembre</td><td>2007</td><td>2 novembre</td><td>2007</td></tr>
 <tr><td>Espagne</td><td>8 décembre</td><td>1953</td><td>15 juillet</td><td>1955</td></tr>
 <tr><td>Estonie</td><td>13 mai</td><td>1998</td><td>13 mai</td><td>1998</td></tr>
@@ -242,6 +231,7 @@ Champ d’application le 5 mai 2020**[^t-4]**
 <tr><td>France</td><td>20 avril</td><td>1964</td><td>20 avril</td><td>1964</td></tr>
 <tr><td>Géorgie</td><td>28 mai</td><td>2001</td><td>28 mai</td><td>2001</td></tr>
 <tr><td>Grèce</td><td>26 août</td><td>1955</td><td>26 août</td><td>1955</td></tr>
+<tr><td>Honduras</td><td>9 septembre</td><td>2021</td><td>9 septembre</td><td>2021</td></tr>
 <tr><td>Hongrie</td><td>6 janvier</td><td>1987</td><td>6 janvier</td><td>1987</td></tr>
 <tr><td>Inde</td><td>13 mars</td><td>2008</td><td>13 mars</td><td>2008</td></tr>
 <tr><td>Irlande</td><td>26 août</td><td>1955</td><td>26 août</td><td>1955</td></tr>
@@ -262,7 +252,10 @@ Champ d’application le 5 mai 2020**[^t-4]**
 <tr><td>Mexique</td><td>18 mars</td><td>1986</td><td>18 mars</td><td>1986</td></tr>
 <tr><td>Moldova</td><td>16 mars</td><td>2016</td><td>16 mars</td><td>2016</td></tr>
 <tr><td>Monaco</td><td>8 août</td><td>1996</td><td>8 août</td><td>1996</td></tr>
+<tr><td>Mongolie</td><td>1<sup>er</sup> juillet</td><td>2021</td><td>1<sup>er</sup> juillet</td><td>2021</td></tr>
 <tr><td>Monténégro</td><td>1<sup>er</sup> mars</td><td>2007 S</td><td>3 juin</td><td>2006</td></tr>
+<tr><td>Namibie</td><td>19 janvier</td><td>2021</td><td>19 janvier</td><td>2021</td></tr>
+<tr><td>Nicaragua</td><td>21 octobre</td><td>2020</td><td>21 octobre</td><td>2020</td></tr>
 <tr><td>Norvège</td><td>15 juillet</td><td>1955</td><td>15 juillet</td><td>1955</td></tr>
 <tr><td>Nouvelle-Zélande <sup>a</sup></td><td>5 février</td><td>2002</td><td>5 février</td><td>2002</td></tr>
 <tr><td>Ouzbékistan</td><td>4 mars</td><td>2020</td><td>4 mars</td><td>2020</td></tr>
@@ -281,7 +274,7 @@ Champ d’application le 5 mai 2020**[^t-4]**
 <tr><td>République tchèque</td><td>1<sup>er</sup> avril</td><td>1993 S</td><td>28 janvier</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>10 avril</td><td>1991</td><td>10 avril</td><td>1991</td></tr>
 <tr><td>Royaume-Uni</td><td>3 janvier</td><td>1955</td><td>15 juillet</td><td>1955</td></tr>
-<tr><td>Russie</td><td>6 décembre</td><td>2001 A</td><td>6 décembre</td><td>2001</td></tr>
+<tr><td>Russie</td><td>6 décembre</td><td>2001</td><td>6 décembre</td><td>2001</td></tr>
 <tr><td>Serbie</td><td>1<sup>er</sup> juin</td><td>2001 S</td><td>26 avril</td><td>2001</td></tr>
 <tr><td>Singapour</td><td>9 avril</td><td>2014</td><td>9 avril</td><td>2014</td></tr>
 <tr><td>Slovaquie</td><td>1<sup>er</sup> juin</td><td>1993 S</td><td>26 avril</td><td>1993</td></tr>
@@ -290,6 +283,7 @@ Champ d’application le 5 mai 2020**[^t-4]**
 <tr><td>Suède</td><td>9 décembre</td><td>1953</td><td>15 juillet</td><td>1955</td></tr>
 <tr><td>Suisse</td><td>6 mai</td><td>1957</td><td>6 mai</td><td>1957</td></tr>
 <tr><td>Suriname</td><td>7 octobre</td><td>1977</td><td>7 octobre</td><td>1977</td></tr>
+<tr><td>Thaïlande</td><td>3 mars</td><td>2021</td><td>3 mars</td><td>2021</td></tr>
 <tr><td>Tunisie</td><td>4 novembre</td><td>2014</td><td>4 novembre</td><td>2014</td></tr>
 <tr><td>Turquie</td><td>26 août</td><td>1955</td><td>26 août</td><td>1955</td></tr>
 <tr><td>Ukraine</td><td>3 décembre</td><td>2003</td><td>3 décembre</td><td>2003</td></tr>
@@ -298,7 +292,7 @@ Champ d’application le 5 mai 2020**[^t-4]**
 <tr><td>Venezuela</td><td>25 juillet</td><td>1979</td><td>25 juillet</td><td>1979</td></tr>
 <tr><td>Vietnam</td><td>10 avril</td><td>2013</td><td>10 avril</td><td>2013</td></tr>
 <tr><td>Zambie</td><td>17 mai</td><td>2013</td><td>17 mai</td><td>2013</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de la Conférence de La Haye: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le statut ne s’applique pas au Tokélaou.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement des Pays-Bas: [www.overheid.nl](https://www.overheid.nl/) &gt; English &gt; Treaty Database, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le statut ne s’applique pas au Tokélaou.</td></tr>
 </table>
 
-[^t-4]: [RO 1972 1654](https://fedlex.data.admin.ch/eli/oc/1972/1624_1654_1828), [1978 548](https://fedlex.data.admin.ch/eli/oc/1978/548_548_548), [1984 199](https://fedlex.data.admin.ch/eli/oc/1984/199_199_199),[1985 24](https://fedlex.data.admin.ch/eli/oc/1985/24_24_24), [1987 427](https://fedlex.data.admin.ch/eli/oc/1987/427_427_427), [1990 602](https://fedlex.data.admin.ch/eli/oc/1990/602_602_602), [1994 1154](https://fedlex.data.admin.ch/eli/oc/1994/1154_1154_1154),[2003 4083](https://fedlex.data.admin.ch/eli/oc/2003/606), [2006 3257](https://fedlex.data.admin.ch/eli/oc/2006/496), [2009 2649](https://fedlex.data.admin.ch/eli/oc/2009/357), [2011 3293](https://fedlex.data.admin.ch/eli/oc/2011/435), [2014 479](https://fedlex.data.admin.ch/eli/oc/2014/86), [2015 4283](https://fedlex.data.admin.ch/eli/oc/2015/721), [2020 1663](https://fedlex.data.admin.ch/eli/oc/2020/336). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-5]: [RO 1957 476](https://fedlex.data.admin.ch/eli/oc/1957/477_476_495); [1972 1654](https://fedlex.data.admin.ch/eli/oc/1972/1624_1654_1828); [1978 548](https://fedlex.data.admin.ch/eli/oc/1978/548_548_548); [1984 199](https://fedlex.data.admin.ch/eli/oc/1984/199_199_199); [1985 24](https://fedlex.data.admin.ch/eli/oc/1985/24_24_24); [1987 427](https://fedlex.data.admin.ch/eli/oc/1987/427_427_427); [1990 602](https://fedlex.data.admin.ch/eli/oc/1990/602_602_602); [1994 1154](https://fedlex.data.admin.ch/eli/oc/1994/1154_1154_1154); [2003 4083](https://fedlex.data.admin.ch/eli/oc/2003/606); [2006 3257](https://fedlex.data.admin.ch/eli/oc/2006/496); [2009 2649](https://fedlex.data.admin.ch/eli/oc/2009/357); [2011 3293](https://fedlex.data.admin.ch/eli/oc/2011/435); [2014 479](https://fedlex.data.admin.ch/eli/oc/2014/86); [2015 4283](https://fedlex.data.admin.ch/eli/oc/2015/721); [2020 1663](https://fedlex.data.admin.ch/eli/oc/2020/336); [2023 242](https://fedlex.data.admin.ch/eli/oc/2023/242). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
