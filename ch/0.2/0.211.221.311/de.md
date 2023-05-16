@@ -3,11 +3,11 @@ sr: "0.211.221.311"
 title: Übereinkommen vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der Internationalen Adoption (mit Verzeichnis)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/99"
 language: de
-version: 2020-09-03
+version: 2023-05-17
 adopted: 1993-05-29
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/99/20200903/de/xml/fedlex-data-admin-ch-eli-cc-2003-99-20200903-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/99/20200903/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/99/20230517/de/xml/fedlex-data-admin-ch-eli-cc-2003-99-20230517-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/99/20230517/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 24. September 2002
 
 In Kraft getreten für die Schweiz am 1. Januar 2003
 
-(Stand am 3. September 2020)
+(Stand am 17. Mai 2023)
 
 [^t-1]: [AS 2003 414](https://fedlex.data.admin.ch/eli/oc/2003/98)
 
@@ -386,7 +386,7 @@ Der Depositar notifiziert den Mitgliedstaaten der Haager Konferenz für Internat
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen in Den Haag am 29. Mai 1993, in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv der Regierung des Königreichs der Niederlande hinterlegt und von der jedem Staat, der zur Zeit der siebzehnten Tagung der Haager Konferenz für Internationales Privatrecht Mitglied der Konferenz war, sowie jedem anderen Staat, der an dieser Tagung teilgenommen hat, auf diplomatischem Weg eine beglaubigte Abschrift übermittelt wird. (Es folgen die Unterschriften)
 
-Verzeichnis der zentralen und der zuständigen Behörden, welche die ihnen gemäss Artikel 6 und 23 des Übereinkommens über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der Internationalen Adoption übertragenen Aufgaben wahrnehmen**[^t-2]**
+Verzeichnis der zentralen und der zuständigen Behörden, welche die ihnen gemäss Artikel 6 und 23 des Übereinkommens über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der Internationalen Adoption übertragenen Aufgaben wahrnehmen[^t-2]
 
 Schweiz
 
@@ -394,12 +394,12 @@ Zentrale eidgenössische Behörde
 
 Bundesamt für Justiz Fachbereich Internationales Privatrecht Bundesrain 20 3003 Bern Schweiz Telefon +41 (58) 463 8864 Telefax +41 (58) 462 7864 E-Mail: kindesschutz@bj.admin.ch
 
-Zuständige kantonale Behörden*[^t-3]*
+Zuständige kantonale Behörden[^t-3]
 
 [^t-2]: Die Übersicht über die zentralen und die zuständigen Behörden wird in der AS nicht veröffentlicht. Die französische und englische Übersicht kann auf der Internetseite der Haager Konferenz: www.hcch.net/index\_fr.php?act=conventions.authorities&cid=69 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden (siehe [AS 2014 883](https://fedlex.data.admin.ch/eli/oc/2014/189)).
-[^t-3]: Die Übersicht über die Zuständige kantonale Behörde kann auf der Internetseite des Bundesamt für Justiz: https://www.bj.admin.ch/dam/data/bj/gesellschaft/adoption/zentralbehoerden.pdf eingesehen.
+[^t-3]: Die Übersicht über die Zuständige kantonale Behörde kann eingesehen werden auf der Internetseite des Bundesamt für Justiz: [www.bj.admin.ch/](http://www.bj.admin.ch/) &gt; Gesellschaft &gt; Internationale Adoptionen.
 
-Geltungsbereich am 3. September 2020**[^t-4]**
+Geltungsbereich am 17. Mai 2023[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -413,12 +413,15 @@ Geltungsbereich am 3. September 2020**[^t-4]**
 <tr><td>Belize</td><td>20. Dezember</td><td>2005 B</td><td>1. April</td><td>2006</td></tr>
 <tr><td>Benin</td><td>28. Juni</td><td>2018</td><td>1. Oktober</td><td>2018</td></tr>
 <tr><td>Bolivien\*</td><td>12. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Botsuana</td><td>14. November</td><td>2022 B</td><td>1. März</td><td>2023</td></tr>
 <tr><td>Brasilien\*</td><td>10. März</td><td>1999</td><td>1. Juli</td><td>1999</td></tr>
 <tr><td>Bulgarien\*</td><td>15. Mai</td><td>2002</td><td>1. September</td><td>2002</td></tr>
 <tr><td>Burkina Faso\*</td><td>11. Januar</td><td>1996</td><td>1. Mai</td><td>1996</td></tr>
 <tr><td>Burundi</td><td>15. Oktober</td><td>1998 B</td><td>1. Februar</td><td>1999</td></tr>
 <tr><td>Chile</td><td>13. Juli</td><td>1999</td><td>1. November</td><td>1999</td></tr>
 <tr><td>China\*</td><td>16. September</td><td>2005</td><td>1. Januar</td><td>2006</td></tr>
+<tr><td>Hongkong</td><td>1. Januar</td><td>2006</td><td>1. Januar</td><td>2006</td></tr>
+<tr><td>Macau</td><td>1. Januar</td><td>2006</td><td>1. Januar</td><td>2006</td></tr>
 <tr><td>Costa Rica</td><td>30. Oktober</td><td>1995</td><td>1. Februar</td><td>1996</td></tr>
 <tr><td>Côte d’Ivoire</td><td>11. Juni</td><td>2015 B</td><td>1. Oktober</td><td>2015</td></tr>
 <tr><td>Dänemark\*</td><td>2. Juli</td><td>1997</td><td>1. November</td><td>1997</td></tr>
@@ -474,16 +477,17 @@ Geltungsbereich am 3. September 2020**[^t-4]**
 <tr><td>Neuseeland</td><td>18. September</td><td>1998 B</td><td>1. Januar</td><td>1999</td></tr>
 <tr><td>Niederlande</td><td>26. Juni</td><td>1998</td><td>1. Oktober</td><td>1998</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>18. Oktober</td><td>2010</td><td>1. Februar</td><td>2011</td></tr>
+<tr><td>Niger <sup>f</sup></td><td>24. Mai</td><td>2021 B</td><td>1. September</td><td>2021</td></tr>
 <tr><td>Nordmazedonien</td><td>23. Dezember</td><td>2008 B</td><td>1. April</td><td>2009</td></tr>
 <tr><td>Norwegen\*</td><td>25. September</td><td>1997</td><td>1. Januar</td><td>1998</td></tr>
 <tr><td>Österreich\*</td><td>19. Mai</td><td>1999</td><td>1. September</td><td>1999</td></tr>
 <tr><td>Panama\*</td><td>29. September</td><td>1999</td><td>1. Januar</td><td>2000</td></tr>
 <tr><td>Paraguay</td><td>13. Mai</td><td>1998 B</td><td>1. September</td><td>1998</td></tr>
-<tr><td>Peru\*</td><td>14. September</td><td>1995</td><td>1. Januar</td><td>1996</td></tr>
+<tr><td>Peru</td><td>14. September</td><td>1995</td><td>1. Januar</td><td>1996</td></tr>
 <tr><td>Philippinen</td><td>2. Juli</td><td>1996</td><td>1. November</td><td>1996</td></tr>
 <tr><td>Polen\*</td><td>12. Juni</td><td>1995</td><td>1. Oktober</td><td>1995</td></tr>
 <tr><td>Portugal\*</td><td>19. März</td><td>2004</td><td>1. Juli</td><td>2004</td></tr>
-<tr><td>Ruanda <sup>f</sup></td><td>28. März</td><td>2012 B</td><td>1. Juli</td><td>2012</td></tr>
+<tr><td>Ruanda <sup>g</sup></td><td>28. März</td><td>2012 B</td><td>1. Juli</td><td>2012</td></tr>
 <tr><td>Rumänien</td><td>28. Dezember</td><td>1994</td><td>1. Mai</td><td>1995</td></tr>
 <tr><td>Sambia</td><td>11. Juni</td><td>2015 B</td><td>1. Oktober</td><td>2015</td></tr>
 <tr><td>San Marino</td><td>6. Oktober</td><td>2004 B</td><td>1. Februar</td><td>2005</td></tr>
@@ -495,7 +499,8 @@ Geltungsbereich am 3. September 2020**[^t-4]**
 <tr><td>Slowakei</td><td>6. Juni</td><td>2001</td><td>1. Oktober</td><td>2001</td></tr>
 <tr><td>Slowenien</td><td>24. Januar</td><td>2002</td><td>1. Mai</td><td>2002</td></tr>
 <tr><td>Spanien\*</td><td>11. Juli</td><td>1995</td><td>1. November</td><td>1995</td></tr>
-<tr><td>Sri Lanka\*</td><td>23. Januar</td><td>1995</td><td>1. Mai</td><td>1995</td></tr>
+<tr><td>Sri Lanka</td><td>23. Januar</td><td>1995</td><td>1. Mai</td><td>1995</td></tr>
+<tr><td>St. Kitts und Nevis</td><td>26. Oktober</td><td>2020 B</td><td>1. Februar</td><td>2021</td></tr>
 <tr><td>Südafrika</td><td>21. August</td><td>2003 B</td><td>1. Dezember</td><td>2003</td></tr>
 <tr><td>Thailand</td><td>29. April</td><td>2004</td><td>1. August</td><td>2004</td></tr>
 <tr><td>Togo</td><td>12. Oktober</td><td>2009 B</td><td>1. Februar</td><td>2010</td></tr>
@@ -508,19 +513,20 @@ Geltungsbereich am 3. September 2020**[^t-4]**
 <tr><td>Vereinigtes Königreich\*</td><td>27. Februar</td><td>2003</td><td>1. Juni</td><td>2003</td></tr>
 <tr><td>Insel Man</td><td>1. Juli</td><td>2003</td><td>1. November</td><td>2003</td></tr>
 <tr><td>Vietnam</td><td>1. November</td><td>2011</td><td>1. Februar</td><td>2012</td></tr>
-<tr><td>Zypern\*</td><td>20. Februar</td><td>1995</td><td>1. Juni</td><td>1995</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Haager Konferenz: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td>Zypern</td><td>20. Februar</td><td>1995</td><td>1. Juni</td><td>1995</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Niederländischen Regierung: www.overheid.nl &gt; English &gt; Treaty Database &gt; 005234 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Der Beitritt Ghanas wurde durch Zypern und Spanien nicht angenommen.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Der Beitritt Guatemalas wurde durch Kanada, Deutschland, die Niederlande, Spanien und das Vereinigte Königreich nicht angenommen.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Der Beitritt Guineas wurde durch Deutschland nicht angenommen.</td></tr>
 <tr><td colspan="5"><sup>d</sup> Der Beitritt Kambodschas wurde durch Deutschland, die Niederlande und das Vereinigte Königreich nicht angenommen.</td></tr>
 <tr><td colspan="5"><sup>e</sup> Der Beitritt Lesothos wurde durch Deutschland nicht angenommen.</td></tr>
-<tr><td colspan="5"><sup>f</sup> Der Beitritt Ruandas wurde durch Deutschland nicht angenommen.</td></tr>
+<tr><td colspan="5"><sup>f</sup> Der Beitritt Nigers wurde von Deutschland, Griechenland und den Niederlanden nicht angenommen.</td></tr>
+<tr><td colspan="5"><sup>g</sup> Der Beitritt Ruandas wurde durch Deutschland nicht angenommen.</td></tr>
 </table>
 
 ## Erklärungen
 
-[^t-4]: [AS 2003 415](https://fedlex.data.admin.ch/eli/oc/2003/99), [2006 1655](https://fedlex.data.admin.ch/eli/oc/2006/257), [2008 1635](https://fedlex.data.admin.ch/eli/oc/2008/235), [2010 937](https://fedlex.data.admin.ch/eli/oc/2010/146), [2011 3297](https://fedlex.data.admin.ch/eli/oc/2011/437), [2013 3561](https://fedlex.data.admin.ch/eli/oc/2013/671), [2014 883](https://fedlex.data.admin.ch/eli/oc/2014/189), [2018 21](https://fedlex.data.admin.ch/eli/oc/2018/9), [2020 3771](https://fedlex.data.admin.ch/eli/oc/2020/684). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-4]: [AS 2003 415](https://fedlex.data.admin.ch/eli/oc/2003/99); [2006 1655](https://fedlex.data.admin.ch/eli/oc/2006/257); [2008 1635](https://fedlex.data.admin.ch/eli/oc/2008/235); [2010 937](https://fedlex.data.admin.ch/eli/oc/2010/146); [2011 3297](https://fedlex.data.admin.ch/eli/oc/2011/437); [2013 3561](https://fedlex.data.admin.ch/eli/oc/2013/671); [2014 883](https://fedlex.data.admin.ch/eli/oc/2014/189); [2018 21](https://fedlex.data.admin.ch/eli/oc/2018/9); [2020 3771](https://fedlex.data.admin.ch/eli/oc/2020/684); [2023 243](https://fedlex.data.admin.ch/eli/oc/2023/243). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
 
 Schweiz
 

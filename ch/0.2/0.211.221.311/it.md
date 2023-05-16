@@ -3,11 +3,11 @@ sr: "0.211.221.311"
 title: Convenzione del 29 maggio 1993 sulla protezione dei minori e sulla cooperazione in materia di adozione internazionale (Elenco)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/99"
 language: it
-version: 2020-09-03
+version: 2023-05-17
 adopted: 1993-05-29
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/99/20200903/it/xml/fedlex-data-admin-ch-eli-cc-2003-99-20200903-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/99/20200903/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/99/20230517/it/xml/fedlex-data-admin-ch-eli-cc-2003-99-20230517-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/99/20230517/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2003** 415; FF **1999** 4799
 
 Traduzione
 
-Conclusa all’Aia il 29 maggio 1993
+Conclusa all’Aia il 29 maggio 1993 Approvata dall’Assemblea federale il 22 giugno 2001[^t-1] Ratificata dalla Svizzera con strumento depositato il 24 settembre 2002 Entrata in vigore per la Svizzera il 1° gennaio 2003
 
-Approvata dall’Assemblea federale il 22 giugno 2001[^t-1]
-
-Ratificata dalla Svizzera con strumento depositato il 24 settembre 2002
-
-Entrata in vigore per la Svizzera il 1° gennaio 2003
-
-(Stato 3 settembre 2020)
+(Stato 17 maggio 2023)
 
 [^t-1]: [RU 2003 414](https://fedlex.data.admin.ch/eli/oc/2003/98)
 
@@ -397,7 +391,7 @@ Il depositario notifica agli Stati membri della Conferenza dell’Aia di diritto
 
 *In fede di che,* i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto all’Aia, il 29 maggio 1993, in francese e in inglese, entrambi i testi facenti ugualmente fede, in un solo esemplare, che sarà depositato negli archivi del Governo del Regno dei Paesi Bassi e di cui una copia certificata conforme sarà trasmessa, per via diplomatica, a ciascuno Stato membro della Conferenza dell’Aia di diritto internazionale privato all’epoca della diciassettesima Sessione, ed a ciascuno degli altri Stati che hanno partecipato a tale Sessione. (Seguono le firme)
 
-Elenco delle Autorità Centrali e delle autorità competenti incaricate di svolgere le mansioni previste dagli articoli 6 e 23 della Convenzione sulla protezione dei minori e sulla cooperazione in materia di adozione internazionale**[^t-2]**
+Elenco delle Autorità Centrali e delle autorità competenti incaricate di svolgere le mansioni previste dagli articoli 6 e 23 della Convenzione sulla protezione dei minori e sulla cooperazione in materia di adozione internazionale[^t-2]
 
 **Svizzera**
 
@@ -419,12 +413,12 @@ Telefax +41 (58) 462 7864
 
 e-mail: kindesschutz@bj.admin.ch
 
-Autorità centrali cantonali*[^t-3]*
+Autorità centrali cantonali[^t-3]
 
-[^t-2]: L’elenco delle Autorità centrali e delle autorità competenti estere non è pubblicato nella Raccolta ufficiale Gli elenchi in francese e in inglese possono essere consultati sul sito Internet della Conferenza dell’Aja: www.hcch.net/index\_fr.php?act=conventions.authorities&cid=69 oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna ([RU 2014 883](https://fedlex.data.admin.ch/eli/oc/2014/189)).
-[^t-3]: L’elenco delle Autorità centrali cantonali puo essere consultato sul sito Internet dell’Ufficio federale di giustizia: https://www.bj.admin.ch/dam/data/bj/gesellschaft/adoption/zentralbehoerden.pdf
+[^t-2]: L’elenco delle Autorità centrali e delle autorità competenti estere non è pubblicato nella Raccolta ufficiale Gli elenchi in francese e in inglese possono essere consul-tati sul sito Internet della Conferenza dell’Aja: [www.hcch.net/index\_fr.php?act=conventions.authorities&cid=69](http://www.hcch.net/index_fr.php?act=conventions.authorities&cid=69) oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati in-ternazionali, 3003 Berna (RU 2014 883).
+[^t-3]: L’elenco delle Autorità centrali cantonali puo essere consultato sul sito Internet dell’Ufficio federale di giustizia: [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Società &gt; Adozione internazionale
 
-Campo d’applicazione il 3 settembre 2020**[^t-4]**
+Campo d’applicazione il 17 maggio 2023[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -439,6 +433,7 @@ Campo d’applicazione il 3 settembre 2020**[^t-4]**
 <tr><td>Belize</td><td>20 dicembre</td><td>2005 A</td><td>1° aprile</td><td>2006</td></tr>
 <tr><td>Benin</td><td>28 giugno</td><td>2018</td><td>1° ottobre</td><td>2018</td></tr>
 <tr><td>Bolivia<sup>\*</sup></td><td>12 marzo</td><td>2002</td><td>1° luglio</td><td>2002</td></tr>
+<tr><td>Botswana</td><td>14 novembre</td><td>2022 A</td><td>1° marzo</td><td>2023</td></tr>
 <tr><td>Brasile<sup>\*</sup></td><td>10 marzo</td><td>1999</td><td>1° luglio</td><td>1999</td></tr>
 <tr><td>Bulgaria<sup>\*</sup></td><td>15 maggio</td><td>2002</td><td>1° settembre</td><td>2002</td></tr>
 <tr><td>Burkina Faso<sup>\*</sup></td><td>11 gennaio</td><td>1996</td><td>1° maggio</td><td>1996</td></tr>
@@ -449,7 +444,9 @@ Campo d’applicazione il 3 settembre 2020**[^t-4]**
 <tr><td>Ceca, Repubblica</td><td>11 febbraio</td><td>2000</td><td>1° giugno</td><td>2000</td></tr>
 <tr><td>Cile</td><td>13 luglio</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
 <tr><td>Cina<sup>\*</sup></td><td>16 settembre</td><td>2005</td><td>1° gennaio</td><td>2006</td></tr>
-<tr><td>Cipro<sup>\*</sup></td><td>20 febbraio</td><td>1995</td><td>1° giugno</td><td>1995</td></tr>
+<tr><td>Hong Kong</td><td>1° gennaio</td><td>2006</td><td>1° gennaio</td><td>2006</td></tr>
+<tr><td>Macao</td><td>1° gennaio</td><td>2006</td><td>1° gennaio</td><td>2006</td></tr>
+<tr><td>Cipro</td><td>20 febbraio</td><td>1995</td><td>1° giugno</td><td>1995</td></tr>
 <tr><td>Colombia<sup>\*</sup></td><td>13 luglio</td><td>1998</td><td>1° novembre</td><td>1998</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>11 dicembre</td><td>2019 A</td><td>1° aprile</td><td>2020</td></tr>
 <tr><td>Costa d’Avorio</td><td>11 giugno</td><td>2015 A</td><td>1° ottobre</td><td>2015</td></tr>
@@ -501,19 +498,21 @@ Campo d’applicazione il 3 settembre 2020**[^t-4]**
 <tr><td>Mongolia</td><td>25 aprile</td><td>2000 A</td><td>1° agosto</td><td>2000</td></tr>
 <tr><td>Montenegro<sup>\*</sup></td><td>9 marzo</td><td>2012 A</td><td>1° luglio</td><td>2012</td></tr>
 <tr><td>Namibia<sup>\*</sup></td><td>21 settembre</td><td>2015 A</td><td>1° gennaio</td><td>2016</td></tr>
+<tr><td>Niger <sup>f</sup></td><td>24 maggio</td><td>2021 A</td><td>1° settembre</td><td>2021</td></tr>
 <tr><td>Norvegia<sup>\*</sup></td><td>25 settembre</td><td>1997</td><td>1° gennaio</td><td>1998</td></tr>
 <tr><td>Nuova Zelanda</td><td>18 settembre</td><td>1998 A</td><td>1° gennaio</td><td>1999</td></tr>
 <tr><td>Paesi Bassi</td><td>26 giugno</td><td>1998</td><td>1° ottobre</td><td>1998</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>18 ottobre</td><td>2010</td><td>1° febbraio</td><td>2011</td></tr>
 <tr><td>Panama<sup>\*</sup></td><td>29 settembre</td><td>1999</td><td>1° gennaio</td><td>2000</td></tr>
 <tr><td>Paraguay</td><td>13 maggio</td><td>1998 A</td><td>1° settembre</td><td>1998</td></tr>
-<tr><td>Perù<sup>\*</sup></td><td>14 settembre</td><td>1995</td><td>1° gennaio</td><td>1996</td></tr>
+<tr><td>Perù</td><td>14 settembre</td><td>1995</td><td>1° gennaio</td><td>1996</td></tr>
 <tr><td>Polonia<sup>\*</sup></td><td>12 giugno</td><td>1995</td><td>1° ottobre</td><td>1995</td></tr>
 <tr><td>Portogallo<sup>\*</sup></td><td>19 marzo</td><td>2004</td><td>1° luglio</td><td>2004</td></tr>
 <tr><td>Regno Unito<sup>\*</sup></td><td>27 febbraio</td><td>2003</td><td>1° giugno</td><td>2003</td></tr>
 <tr><td>Man, Isola di</td><td>1° luglio</td><td>2003</td><td>1° novembre</td><td>2003</td></tr>
 <tr><td>Romania</td><td>28 dicembre</td><td>1994</td><td>1° maggio</td><td>1995</td></tr>
-<tr><td>Ruanda <sup>f</sup></td><td>28 marzo</td><td>2012 A</td><td>1° luglio</td><td>2012</td></tr>
+<tr><td>Ruanda <sup>g</sup></td><td>28 marzo</td><td>2012 A</td><td>1° luglio</td><td>2012</td></tr>
+<tr><td>Saint Kitts e Nevis</td><td>26 ottobre</td><td>2020 A</td><td>1° febbraio</td><td>2021</td></tr>
 <tr><td>San Marino</td><td>6 ottobre</td><td>2004 A</td><td>1° febbraio</td><td>2005</td></tr>
 <tr><td>Seicelle</td><td>26 giugno</td><td>2008 A</td><td>1° ottobre</td><td>2008</td></tr>
 <tr><td>Senegal</td><td>24 agosto</td><td>2011 A</td><td>1° dicembre</td><td>2011</td></tr>
@@ -521,7 +520,7 @@ Campo d’applicazione il 3 settembre 2020**[^t-4]**
 <tr><td>Slovacchia</td><td>6 giugno</td><td>2001</td><td>1° ottobre</td><td>2001</td></tr>
 <tr><td>Slovenia</td><td>24 gennaio</td><td>2002</td><td>1° maggio</td><td>2002</td></tr>
 <tr><td>Spagna<sup>\*</sup></td><td>11 luglio</td><td>1995</td><td>1° novembre</td><td>1995</td></tr>
-<tr><td>Sri Lanka<sup>\*</sup></td><td>23 gennaio</td><td>1995</td><td>1° maggio</td><td>1995</td></tr>
+<tr><td>Sri Lanka</td><td>23 gennaio</td><td>1995</td><td>1° maggio</td><td>1995</td></tr>
 <tr><td>Stati Uniti<sup>\*</sup></td><td>12 dicembre</td><td>2007</td><td>1° aprile</td><td>2008</td></tr>
 <tr><td>Sudafrica</td><td>21 agosto</td><td>2003 A</td><td>1° dicembre</td><td>2003</td></tr>
 <tr><td>Svezia<sup>\*</sup></td><td>28 maggio</td><td>1997</td><td>1° settembre</td><td>1997</td></tr>
@@ -534,20 +533,21 @@ Campo d’applicazione il 3 settembre 2020**[^t-4]**
 <tr><td>Venezuela<sup>\*</sup></td><td>10 gennaio</td><td>1997</td><td>1° maggio</td><td>1997</td></tr>
 <tr><td>Vietnam</td><td>1° novembre</td><td>2011</td><td>1° febbraio</td><td>2012</td></tr>
 <tr><td>Zambia</td><td>11 giugno</td><td>2015 A</td><td>1° ottobre</td><td>2015</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazione non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5">a L’adesione della Cambogia non è stata accettata dalla Germania, dai Paesi Bassi e dal Regno Unito.</td></tr>
-<tr><td colspan="5">b L’adesione del Ghana non è stata accettata da Cipro e dalla Spagna.</td></tr>
-<tr><td colspan="5">c L’adesione del Guatemala non è stata accettata dal Canada, dalla Germania, dai Paesi Bassi, dal Regno Unito e dalla Spagna.</td></tr>
-<tr><td colspan="5">d L’adesione della Guinea non è stata accettata dalla Germania.</td></tr>
-<tr><td colspan="5">e L’adesione della Lesotho non è stata accettata dalla Germania.</td></tr>
-<tr><td colspan="5"><sup>f</sup> L’adesione della Ruanda non è stata accettata dalla Germania.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazione non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi in inglese possono essere consultati sul sito Internet del Governo Paesi Bassi: [www.overheid.nl](https://www.overheid.nl/) &gt; English &gt; Treaty Database, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>a</sup> L’adesione della Cambogia non è stata accettata dalla Germania, dai Paesi Bassi e dal Regno Unito.</td></tr>
+<tr><td colspan="5"><sup>b</sup> L’adesione del Ghana non è stata accettata da Cipro e dalla Spagna.</td></tr>
+<tr><td colspan="5"><sup>c</sup> L’adesione del Guatemala non è stata accettata dal Canada, dalla Germania, dai Paesi Bassi, dal Regno Unito e dalla Spagna.</td></tr>
+<tr><td colspan="5"><sup>d</sup> L’adesione della Guinea non è stata accettata dalla Germania.</td></tr>
+<tr><td colspan="5"><sup>e</sup> L’adesione della Lesotho non è stata accettata dalla Germania.</td></tr>
+<tr><td colspan="5"><sup>f</sup> L’adesione del Niger non è accettata da Germania, Grecia e Paesi Bassi.</td></tr>
+<tr><td colspan="5"><sup>g</sup> L’adesione della Ruanda non è stata accettata dalla Germania.</td></tr>
 </table>
 
-[^t-4]: [RU 2003 415](https://fedlex.data.admin.ch/eli/oc/2003/99), [2006 1655](https://fedlex.data.admin.ch/eli/oc/2006/257), [2008 1635](https://fedlex.data.admin.ch/eli/oc/2008/235), [2010 937](https://fedlex.data.admin.ch/eli/oc/2010/146), [2011 3297](https://fedlex.data.admin.ch/eli/oc/2011/437), [2013 3561](https://fedlex.data.admin.ch/eli/oc/2013/671), [2014 883](https://fedlex.data.admin.ch/eli/oc/2014/189), [2018 21](https://fedlex.data.admin.ch/eli/oc/2018/9)e [2020 3771](https://fedlex.data.admin.ch/eli/oc/2020/684). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-4]: [RU 2003 415](https://fedlex.data.admin.ch/eli/oc/2003/99); [2006 1655](https://fedlex.data.admin.ch/eli/oc/2006/257); [2008 1635](https://fedlex.data.admin.ch/eli/oc/2008/235); [2010 937](https://fedlex.data.admin.ch/eli/oc/2010/146); [2011 3297](https://fedlex.data.admin.ch/eli/oc/2011/437); [2013 3561](https://fedlex.data.admin.ch/eli/oc/2013/671); [2014 883](https://fedlex.data.admin.ch/eli/oc/2014/189); [2018 21](https://fedlex.data.admin.ch/eli/oc/2018/9); [2020 3771](https://fedlex.data.admin.ch/eli/oc/2020/684); [2023 243](https://fedlex.data.admin.ch/eli/oc/2023/243). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty)
 
 Dichiarazioni
 
-Svizzera
+**Svizzera**
 
 Articolo 22
 
