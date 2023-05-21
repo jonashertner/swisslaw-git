@@ -3,20 +3,19 @@ canton: SG
 number: "577.311"
 title: Geschäftsreglement «RhySearch»
 language: de
-version: 2016-03-22
-valid_until: 2023-05-21
-version_adopted: 2016-02-15
+version: 2023-05-22
+version_adopted: 2023-05-22
 adopted: 2016-02-15
 in_force: 2016-03-22
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/577.311"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2741/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3521/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsreglement «RhySearch»
 
-vom 15.02.2016 (Stand 22.03.2016)
+vom 15.02.2016 (Stand 22.05.2023)
 
 [^ingress-1]
 
@@ -239,6 +238,31 @@ vom 15.02.2016 (Stand 22.03.2016)
 
 <sup>1</sup> Die Entschädigung der Geschäftsleitung wird vom Verwaltungsrat festgelegt. Die Vereinbarung einer Erfolgsbeteiligung ist im Rahmen der budgetierten Gesamtlohnsumme zulässig. Es dürfen keine Abgangsentschädigungen vereinbart werden.
 
+## 4a. Beiräte
+
+#### Ziff. 4a.1
+
+**Industriebeirat**
+
+<sup>1</sup> Der Industriebeirat[^Ziff4a1-1] setzt sich aus Vertreterinnen und Vertretern von Industrieverbänden zusammen und ist als Verein nach [Art. 60](https://db.clex.ch/link/Bund/210/de) ff. des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907[^Ziff4a1-2] organisiert.
+
+[^Ziff4a1-1]: [Art. 11](https://www.gesetzessammlung.sg.ch/data/577.31/de/art11) Abs. 1 Bst. k Vereinbarung über das Forschungs- und Innovationszentrum Rheintal, sGS [577.31](https://www.gesetzessammlung.sg.ch/data/577.31/de).
+[^Ziff4a1-2]: SR [210](https://db.clex.ch/link/Bund/210/de).
+
+#### Ziff. 4a.2
+
+**Wissenschaftlicher Beirat**
+
+<sup>1</sup> Der Verwaltungsrat von «RhySearch» kann einen wissenschaftlichen Beirat einsetzen. Darin sind mehrere Fachgebiete von «RhySearch» vertreten. Je Fachgebiet gehören höchstens drei ausgewiesene Fachleute dem wissenschaftlichen Beirat an.
+
+<sup>2</sup> Der wissenschaftliche Beirat stellt die Früherkennung von wissenschaftlich-technologischen Trends sicher und dient der Geschäftsleitung und dem Verwaltungsrat als Sounding Board in wissenschaftlich-technologischen Fragestellungen.
+
+<sup>3</sup> Die Mitglieder des wissenschaftlichen Beirats sind Ansprechpersonen für spezielle technologische Fragestellungen und können Doktorierende betreuen, die bei «RhySearch» ihre Dissertation erarbeiten. Die Vermittlung von Forschungsprojekten, insbesondere solche, die eine Mitarbeit von «RhySearch» in grösseren Projektverbunden ermöglichen, ist ausdrücklich erwünscht.
+
+<sup>4</sup> Der wissenschaftliche Beirat tagt wenigstens einmal jährlich. Die Mitglieder des wissenschaftlichen Beirats stehen für bilaterale Besprechungen mit den Fachgebietsvertreterinnen und -vertretern zur Verfügung.
+
+<sup>5</sup> Die Mitglieder des wissenschaftlichen Beirats werden für ihre Spesen entschädigt. Ein Honorar wird ausnahmsweise nach vorheriger Vereinbarung bezahlt. Der Verwaltungsrat regelt die Einzelheiten.
+
 ## 5. Kooperationspartner
 
 #### Ziff. 5
@@ -285,7 +309,7 @@ vom 15.02.2016 (Stand 22.03.2016)
 
 **Ausstand**
 
-<sup>1</sup> Alle Organe von «RhySearch» und deren Mitglieder legen allfällige Interessenkonflikte umgehend dem Verwaltungsrat offen. Insbesondere sind Geschäfte, die sie selbst oder nahestehende natürliche oder juristische Personen betreffen, zu melden. Der Verwaltungsrat entscheidet, ob ein Ausstandsgrund nach Art. 7 des Gesetzes über die Verwaltungsrechtspflege (sGS 951.1) gegeben ist.
+<sup>1</sup> Alle Organe und Beiräte von «RhySearch» sowie deren Mitglieder legen allfällige Interessenkonflikte umgehend dem Verwaltungsrat offen. Insbesondere sind Geschäfte, die sie selbst oder nahestehende natürliche oder juristische Personen betreffen, zu melden. Der Verwaltungsrat entscheidet, ob ein Ausstandsgrund nach Art. 7 des Gesetzes über die Verwaltungsrechtspflege (sGS 951.1) gegeben ist.
 
 <sup>2</sup> Im Falle eines Ausstandgrundes darf der oder die Betroffene weder bei der Beschlussfassung anwesend sein, noch sich vorgängig zum Geschäft äussern können.
 
