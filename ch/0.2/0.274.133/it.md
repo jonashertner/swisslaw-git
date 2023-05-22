@@ -3,11 +3,11 @@ sr: "0.274.133"
 title: "Convenzione del 25 ottobre 1980 volta a facilitare l'accesso internazionale alla giustizia (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2835_2835_2835"
 language: it
-version: 2019-07-02
+version: 2023-05-23
 adopted: 1980-10-25
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2835_2835_2835/20190702/it/xml/fedlex-data-admin-ch-eli-cc-1994-2835_2835_2835-20190702-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2835_2835_2835/20190702/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2835_2835_2835/20230523/it/xml/fedlex-data-admin-ch-eli-cc-1994-2835_2835_2835-20230523-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2835_2835_2835/20230523/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa all’Aja il 25 ottobre 1980 Approvata dall’Assemblea federale il 9 giugno 1994[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 28 ottobre 1994 Entrata in vigore per la Svizzera il 1° gennaio 1995
 
-(Stato 2 luglio 2019)
+(Stato 23 maggio 2023)
 
 [^t-1]: Art. 3 cpv. 1 del DF del 9 giu. 1994 ([RU 1994 2807](https://fedlex.data.admin.ch/eli/oc/1994/2807_2807_2807)).
 
@@ -401,7 +401,7 @@ II. Situazione finanziaria
 <tr><td>[tab] 30.</td><td>Firma del richiedente</td></tr>
 </table>
 
-Campo d’applicazione il 2 luglio 2019**[^t-2]**
+Campo d’applicazione il 23 maggio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -417,30 +417,30 @@ Campo d’applicazione il 2 luglio 2019**[^t-2]**
 <tr><td>Estonia<sup>\*</sup></td><td>2 febbraio</td><td>1996 A</td><td>1° maggio</td><td>1996</td></tr>
 <tr><td>Finlandia<sup>\*</sup></td><td>13 giugno</td><td>1988</td><td>1° settembre</td><td>1988</td></tr>
 <tr><td>Francia<sup>\*</sup></td><td>22 dicembre</td><td>1982</td><td>1° maggio</td><td>1988</td></tr>
-<tr><td>Kazakistan</td><td>29 gennaio</td><td>2014 A</td><td>1° aprile</td><td>2015</td></tr>
+<tr><td>Kazakistan</td><td>29 gennaio</td><td>2015 A</td><td>1° aprile</td><td>2015</td></tr>
 <tr><td>Lettonia<sup>\*</sup></td><td>20 dicembre</td><td>1999 A</td><td>1° marzo</td><td>2000</td></tr>
 <tr><td>Lituania<sup>\*</sup></td><td>4 agosto</td><td>2000 A</td><td>1° novembre</td><td>2000</td></tr>
 <tr><td>Lussemburgo<sup>\*</sup></td><td>6 febbraio</td><td>2003</td><td>1° maggio</td><td>2003</td></tr>
-<tr><td>Macedonia del Nord<sup>\*</sup></td><td>23 settembre</td><td>1993 S</td><td>8 settembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord<sup>\*</sup></td><td>20 settembre</td><td>1993 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Malta<sup>\*</sup></td><td>24 febbraio</td><td>2011 A</td><td>1° maggio</td><td>2011</td></tr>
 <tr><td>Montenegro<sup>\*</sup></td><td>1° marzo</td><td>2007 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Paesi Bassi<sup>\*</sup></td><td>2 marzo</td><td>1992</td><td>1° giugno</td><td>1992</td></tr>
 <tr><td>Polonia<sup>\*</sup></td><td>10 agosto</td><td>1992 A</td><td>1° dicembre</td><td>1992</td></tr>
 <tr><td>Romania<sup>\*</sup></td><td>21 agosto</td><td>2003 A</td><td>1° novembre</td><td>2003</td></tr>
-<tr><td>Serbia<sup>\*</sup></td><td>26 aprile</td><td>2001 S</td><td>1° ottobre</td><td>1988</td></tr>
+<tr><td>Serbia<sup>\*</sup></td><td>19 aprile</td><td>2001 S</td><td>27 aprile</td><td>1992</td></tr>
 <tr><td>Slovacchia<sup>\*</sup></td><td>11 marzo</td><td>2003</td><td>1° giugno</td><td>2003</td></tr>
 <tr><td>Slovenia<sup>\*</sup></td><td>8 giugno</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
 <tr><td>Spagna<sup>\*</sup></td><td>8 febbraio</td><td>1988</td><td>1° maggio</td><td>1988</td></tr>
 <tr><td>Svezia<sup>\*</sup></td><td>15 gennaio</td><td>1987</td><td>1° maggio</td><td>1988</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>28 ottobre</td><td>1994</td><td>1° gennaio</td><td>1995</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet della Conferenza dell’Aja: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi in inglese possono essere consultati sul sito Internet del Ministero degli Affari Esteri del Regno dei Paesi Bassi:[www.overheid.nl &gt; English &gt; Treaty Database &gt; 000691](https://treatydatabase.overheid.nl/en/Treaty/Details/000691.html)oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1995 962](https://fedlex.data.admin.ch/eli/oc/1995/962_962_962), [2002 2822](https://fedlex.data.admin.ch/eli/oc/2002/415), [2005 1143](https://fedlex.data.admin.ch/eli/oc/2005/151), [2009 3641](https://fedlex.data.admin.ch/eli/oc/2009/456), [2015 1289](https://fedlex.data.admin.ch/eli/oc/2015/265)e [2019 2239](https://fedlex.data.admin.ch/eli/oc/2019/417). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1994 2835](https://fedlex.data.admin.ch/eli/oc/1994/2835_2835_2835); [1995 962](https://fedlex.data.admin.ch/eli/oc/1995/962_962_962); [2002 2822](https://fedlex.data.admin.ch/eli/oc/2002/415); [2005 1143](https://fedlex.data.admin.ch/eli/oc/2005/151); [2009 3641](https://fedlex.data.admin.ch/eli/oc/2009/456); [2015 1289](https://fedlex.data.admin.ch/eli/oc/2015/265); [2019 2239](https://fedlex.data.admin.ch/eli/oc/2019/417); [2023 256](https://fedlex.data.admin.ch/eli/oc/2023/256). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
 
 Riserve e dichiarazioni
 
-## Svizzera****
+## Svizzera
 
 [^declu2-lvlu1-1]
 
@@ -468,7 +468,7 @@ Conformemente agli articoli 28 e 29, la Svizzera dichiara, in merito agli artico
 
 Conformemente all’articolo 29, la Svizzera dichiara che, in merito agli articoli 17 paragrafo 1, 24 e 25, la domanda d’exequatur della condanna al pagamento delle spese e degli esborsi e i suoi allegati devono essere redatti nella lingua dell’autorità richiesta, vale a dire in lingua tedesca, francese o italiana o accompagnate da una traduzione in una di queste lingue, in funzione della regione della Svizzera nella quale la domanda deve essere eseguita (cfr. lista delle autorità svizzere qui appresso).
 
-## Elenco delle autorità svizzere****
+## Elenco delle autorità svizzere
 
 [^declu2-lvlu2-1]
 

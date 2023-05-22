@@ -3,11 +3,11 @@ sr: "0.274.133"
 title: "Convention du 25 octobre 1980 tendant à faciliter l'accès international à la justice (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2835_2835_2835"
 language: fr
-version: 2019-07-02
+version: 2023-05-23
 adopted: 1980-10-25
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2835_2835_2835/20190702/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2835_2835_2835-20190702-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2835_2835_2835/20190702/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2835_2835_2835/20230523/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2835_2835_2835-20230523-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2835_2835_2835/20230523/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 28 octobre 1994
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1995
 
-(Etat le 2 juillet 2019)
+(État le 23 mai 2023)
 
 [^t-1]: Art. 3 al. 1 de l’AF du 9 juin 1994 ([RO 1994 2807](https://fedlex.data.admin.ch/eli/oc/1994/2807_2807_2807))
 
@@ -144,11 +144,11 @@ Les États fédéraux et les États dans lesquels plusieurs systèmes de droit s
 
 Les demandes sont transmises sans intervention d’aucune autre autorité. Cependant, chaque État contractant à la faculté d’utiliser aux mêmes fins la voie diplomatique.
 
-A moins que l’État requis n’ait déclaré s’y opposer, les dispositions qui précèdent ne font pas obstacle à ce que la demande d’exequatur soit présentée directement par le créancier.
+À moins que l’État requis n’ait déclaré s’y opposer, les dispositions qui précèdent ne font pas obstacle à ce que la demande d’exequatur soit présentée directement par le créancier.
 
 #### Art. 17
 
-L’autorité compétente de l’État requis statue sur les demandes d’exequatur sans entendre les parties. Elle se borne à vérifier que les pièces ont été produites. A la requête du demandeur, elle évalue le montant des frais d’attestation, de traduction et de certification, qui sont assimilés aux frais et dépens du procès. Aucune légalisation ou formalité analogue ne peut être imposée.
+L’autorité compétente de l’État requis statue sur les demandes d’exequatur sans entendre les parties. Elle se borne à vérifier que les pièces ont été produites. À la requête du demandeur, elle évalue le montant des frais d’attestation, de traduction et de certification, qui sont assimilés aux frais et dépens du procès. Aucune légalisation ou formalité analogue ne peut être imposée.
 
 Les parties n’ont d’autres recours contre la décision rendue par l’autorité compétente que ceux qui leur sont ouverts par la législation de l’État requis.
 
@@ -407,7 +407,7 @@ II. Situation financière
 <tr><td>[tab] 30</td><td>(signature de l’intéressé(e))</td></tr>
 </table>
 
-Champ d’application de la convention le 2 juillet 2019**[^t-2]**
+Champ d’application de la convention le 23 mai 2023[^t-2]
 
 <table>
 <tr><th colspan="2">États parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>
@@ -439,10 +439,10 @@ Champ d’application de la convention le 2 juillet 2019**[^t-2]**
 <tr><td colspan="2">Slovénie\*</td><td colspan="2">8 juin</td><td colspan="2">1992 S</td><td>25 juin</td><td>1991</td></tr>
 <tr><td colspan="2">Suède\*</td><td colspan="2">15 janvier</td><td colspan="2">1987</td><td>1<sup>er</sup> mai</td><td>1988</td></tr>
 <tr><td colspan="2">Suisse\*</td><td colspan="2">28 octobre</td><td colspan="2">1994</td><td>1<sup>er</sup> janvier</td><td>1995</td></tr>
-<tr><td colspan="8">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de la Conférence de La Haye: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="8">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement des Pays-Bas: [www.overheid.nl](https://www.overheid.nl/) &gt; English &gt; Treaty Database, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1995 962](https://fedlex.data.admin.ch/eli/oc/1995/962_962_962), [2002 2822](https://fedlex.data.admin.ch/eli/oc/2002/415), [2005 1143](https://fedlex.data.admin.ch/eli/oc/2005/151), [2009 3641](https://fedlex.data.admin.ch/eli/oc/2009/456), [2015 1289](https://fedlex.data.admin.ch/eli/oc/2015/265), [2019 2239](https://fedlex.data.admin.ch/eli/oc/2019/417). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1994 2835](https://fedlex.data.admin.ch/eli/oc/1994/2835_2835_2835); [1995 962](https://fedlex.data.admin.ch/eli/oc/1995/962_962_962); [2002 2822](https://fedlex.data.admin.ch/eli/oc/2002/415); [2005 1143](https://fedlex.data.admin.ch/eli/oc/2005/151); [2009 3641](https://fedlex.data.admin.ch/eli/oc/2009/456); [2015 1289](https://fedlex.data.admin.ch/eli/oc/2015/265); [2019 2239](https://fedlex.data.admin.ch/eli/oc/2019/417); [2023 256](https://fedlex.data.admin.ch/eli/oc/2023/256). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
@@ -474,7 +474,7 @@ Conformément aux art. 28 et 29, la Suisse déclare, s’agissant des art. 7, 24
 
 Conformément à l’art. 29, la Suisse déclare que, s’agissant des art. 17, al. 1, 24 et 25, la demande d’exequatur de la condamnation aux frais et dépens et ses annexes doivent être rédigées dans la langue de l’autorité requise, c’est-à-dire en langue allemande, française ou italienne, ou accompagnées d’une traduction dans l’une de ces langues, en fonction de la région de Suisse dans laquelle la demande doit être exécutée (cf. Liste des autorités suisses ci-après).
 
-## Liste des autorités suisses****
+## Liste des autorités suisses
 
 [^declu2-lvlu2-1]
 

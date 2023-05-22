@@ -3,11 +3,11 @@ sr: "0.274.133"
 title: Übereinkommen vom 25. Oktober 1980 über den internationalen Zugang zur Rechtspflege (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2835_2835_2835"
 language: de
-version: 2019-07-02
+version: 2023-05-23
 adopted: 1980-10-25
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2835_2835_2835/20190702/de/xml/fedlex-data-admin-ch-eli-cc-1994-2835_2835_2835-20190702-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2835_2835_2835/20190702/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2835_2835_2835/20230523/de/xml/fedlex-data-admin-ch-eli-cc-1994-2835_2835_2835-20230523-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2835_2835_2835/20230523/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1994** 2835, **1995** 962; BBl **1993** III 1261
 
 Abgeschlossen in Den Haag am 25. Oktober 1980 Von der Bundesversammlung genehmigt am 9. Juni 1994[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 28. Oktober 1994 Inkrafttreten für die Schweiz am 1. Januar 1995
 
-(Stand am 2. Juli 2019)
+(Stand am 23. Mai 2023)
 
 [^t-1]: Art. 3 Abs. 1 des BB vom 9. Juni 1994 ([AS 1994 2807](https://fedlex.data.admin.ch/eli/oc/1994/2807_2807_2807)).
 
@@ -317,7 +317,7 @@ Allfällige Bemerkungen, die sich auf den Antrag und die Erklärung beziehen:
 Sonstige Bemerkungen
 
 <table>
-<tr><td></td><td>Ausgefertigt in ..................................... , am...................</td></tr>
+<tr><td></td><td>Ausgefertigt in ………………………………. , am……………….</td></tr>
 <tr><td></td><td>Unterschrift und/oder Stempel</td></tr>
 </table>
 
@@ -330,18 +330,20 @@ Formular zu dem Übereinkommen
 - 1\. Name und Adresse des Antragstellers
 - 2\. Gericht, bei dem das Verfahren anhängig ist oder anhängig gemacht werden soll (falls bekannt)
 - 3. a) Gegenstand (Gegenstände) des Rechtsstreits; gegebenenfalls Höhe des Streitwertes
-  - b) Aufzählung allfälliger Beweisurkunden für das bereits eingeleitete oder in Aussicht genommene Verfahren[^annexu1-lvlu1-1]
-  - c) Name und Adresse der Gegenpartei<sup>5</sup>
+  - b) Aufzählung allfälliger Beweisurkunden für das bereits eingeleitete oder in Aussicht genommene Verfahren<sup>1</sup>
+  - c) Name und Adresse der Gegenpartei<sup>1</sup>
 
-- 4\. Alle das Verfahren betreffenden Fristen oder Termine, die für den Antragsteller rechtliche Folgen haben und eine besonders dringliche Bearbeitung des Antrags geboten erscheinen lassen<sup>5</sup>
-- 5\. Jede weitere zweckdienliche Auskunft<sup>5</sup>
+- 4\. Alle das Verfahren betreffenden Fristen oder Termine, die für den Antragsteller rechtliche Folgen haben und eine besonders dringliche Bearbeitung des Antrags geboten erscheinen lassen<sup>1</sup>
+- 5\. Jede weitere zweckdienliche Auskunft<sup>1</sup>
 
 <table>
-<tr><td>[tab] 6.</td><td>Ausgefüllt in ....................................................................... , am ...................</td></tr>
+<tr><td>[tab] 6.</td><td>Ausgefüllt in …………………………………………………………….. , am ……………….</td></tr>
 <tr><td>[tab] 7.</td><td>Unterschrift des Antragstellers</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: Unzutreffendes streichen
+<table>
+<tr><td><sup>1</sup></td><td>Unzutreffendes streichen</td></tr>
+</table>
 
 Anhang zu dem Antrag auf unentgeltliche Rechtspflege
 
@@ -401,7 +403,7 @@ II. Finanzielle Lage
 <tr><td>[tab] 30.</td><td>Unterschrift des Antragstellers</td></tr>
 </table>
 
-Geltungsbereich am 2. Juli 2019**[^t-2]**
+Geltungsbereich am 23. Mai 2023[^t-2]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th colspan="4">Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -414,7 +416,7 @@ Geltungsbereich am 2. Juli 2019**[^t-2]**
 <tr><td colspan="2">Estland\*</td><td colspan="2">2. Februar</td><td colspan="2">1996 B</td><td>1. Mai</td><td colspan="2">1996</td></tr>
 <tr><td colspan="2">Finnland\*</td><td colspan="2">13. Juni</td><td colspan="2">1988</td><td>1. September</td><td colspan="2">1988</td></tr>
 <tr><td colspan="2">Frankreich\*</td><td colspan="2">22. Dezember</td><td colspan="2">1982</td><td>1. Mai</td><td colspan="2">1988</td></tr>
-<tr><td>Kasachstan</td><td colspan="4">29. Januar</td><td>2014 B</td><td colspan="2">1. April</td><td>2015</td></tr>
+<tr><td>Kasachstan</td><td colspan="4">29. Januar</td><td>2015 B</td><td colspan="2">1. April</td><td>2015</td></tr>
 <tr><td colspan="2">Kroatien\*</td><td colspan="2">23. April</td><td colspan="2">1993 N</td><td>8. Oktober</td><td colspan="2">1991</td></tr>
 <tr><td colspan="2">Lettland\*</td><td colspan="2">20. Dezember</td><td colspan="2">1999 B</td><td>1. März</td><td colspan="2">2000</td></tr>
 <tr><td colspan="2">Litauen\*</td><td colspan="2">4. August</td><td colspan="2">2000 B</td><td>1. November</td><td colspan="2">2000</td></tr>
@@ -422,25 +424,25 @@ Geltungsbereich am 2. Juli 2019**[^t-2]**
 <tr><td colspan="3">Malta\*</td><td colspan="2">24. Februar</td><td>2011 B</td><td>1. Mai</td><td colspan="2">2011</td></tr>
 <tr><td colspan="2">Montenegro\*</td><td colspan="2">1. März</td><td colspan="2">2007 N</td><td>3. Juni</td><td colspan="2">2006</td></tr>
 <tr><td colspan="2">Niederlande\*</td><td colspan="2">2. März</td><td colspan="2">1992</td><td>1. Juni</td><td colspan="2">1992</td></tr>
-<tr><td colspan="2">Nordmazedonien\*</td><td colspan="2">23. September</td><td colspan="2">1993 N</td><td>8. September</td><td colspan="2">1991</td></tr>
+<tr><td colspan="2">Nordmazedonien\*</td><td colspan="2">20. September</td><td colspan="2">1993 N</td><td>17. November</td><td colspan="2">1991</td></tr>
 <tr><td colspan="2">Polen\*</td><td colspan="2">10. August</td><td colspan="2">1992 B</td><td>1. November</td><td colspan="2">1992</td></tr>
 <tr><td colspan="2">Rumänien\*</td><td colspan="2">21. August</td><td colspan="2">2003 B</td><td>1. November</td><td colspan="2">2003</td></tr>
 <tr><td colspan="2">Schweden\*</td><td colspan="2">15. Januar</td><td colspan="2">1987</td><td>1. Mai</td><td colspan="2">1988</td></tr>
 <tr><td colspan="2">Schweiz\*</td><td colspan="2">28. Oktober</td><td colspan="2">1994</td><td>1. Januar</td><td colspan="2">1995</td></tr>
-<tr><td colspan="2">Serbien\*</td><td colspan="2">26. April</td><td colspan="2">2001 N</td><td>27. April</td><td colspan="2">1992</td></tr>
+<tr><td colspan="2">Serbien\*</td><td colspan="2">19. April</td><td colspan="2">2001 N</td><td>27. April</td><td colspan="2">1992</td></tr>
 <tr><td colspan="2">Slowakei\*</td><td colspan="2">11. März</td><td colspan="2">2003</td><td>1. Juni</td><td colspan="2">2003</td></tr>
 <tr><td colspan="2">Slowenien\*</td><td colspan="2">8. Juni</td><td colspan="2">1992 N</td><td>25. Juni</td><td colspan="2">1991</td></tr>
 <tr><td colspan="2">Spanien\*</td><td colspan="2">8. Februar</td><td colspan="2">1988</td><td>1. Mai</td><td colspan="2">1988</td></tr>
 <tr><td colspan="2">Tschechische Republik\*</td><td colspan="2">3. April</td><td colspan="2">2001</td><td>1. Juli</td><td colspan="2">2001</td></tr>
 <tr><td colspan="2">Zypern\*</td><td colspan="2">27. Juli</td><td colspan="2">2000 B</td><td>1. Oktober</td><td colspan="2">2000</td></tr>
-<tr><td colspan="9">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme derjenigen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Haager Konferenz: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="9">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme derjenigen der Schweiz. Die englischen Texte können auf der Internetseite der Niederländischen Regierung: [www.overheid.nl](http://www.overheid.nl) &gt; English &gt; Treaty Database &gt; 000691 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1995 962](https://fedlex.data.admin.ch/eli/oc/1995/962_962_962), [2002 2822](https://fedlex.data.admin.ch/eli/oc/2002/415), [2005 1143](https://fedlex.data.admin.ch/eli/oc/2005/151), [2009 3641](https://fedlex.data.admin.ch/eli/oc/2009/456), [2015 1289](https://fedlex.data.admin.ch/eli/oc/2015/265), [2019 2339](https://fedlex.data.admin.ch/eli/oc/2019/438). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1994 2835](https://fedlex.data.admin.ch/eli/oc/1994/2835_2835_2835); [1995 962](https://fedlex.data.admin.ch/eli/oc/1995/962_962_962); [2002 2822](https://fedlex.data.admin.ch/eli/oc/2002/415); [2005 1143](https://fedlex.data.admin.ch/eli/oc/2005/151); [2009 3641](https://fedlex.data.admin.ch/eli/oc/2009/456); [2015 1289](https://fedlex.data.admin.ch/eli/oc/2015/265); [2019 2239](https://fedlex.data.admin.ch/eli/oc/2019/417); [2023 256](https://fedlex.data.admin.ch/eli/oc/2023/256). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
-## Schweiz****
+## Schweiz
 
 [^declu2-lvlu1-1]
 
@@ -468,7 +470,7 @@ Gemäss Artikel 28 und 29 erklärt die Schweiz zu den Artikeln 7, 24 und 25, das
 
 Gemäss Artikel 29 erklärt die Schweiz zu den Artikeln 17 Absatz 1, 24 und 25, dass Gesuche um Vollstreckbarerklärung von Kostenentscheiden und deren Beilagen in der Sprache der ersuchten Behörde, d. h. auf deutsch, französisch oder italienisch abgefasst oder mit einer Übersetzung in eine dieser Sprachen versehen sein müssen, je nachdem in welchem Teil der Schweiz das Gesuch zu erledigen ist (s. nachstehende Liste der schweizerischen Behörden).
 
-## Liste der schweizerischen Behörden****
+## Liste der schweizerischen Behörden
 
 [^declu2-lvlu2-1]
 
