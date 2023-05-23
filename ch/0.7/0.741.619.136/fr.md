@@ -3,28 +3,32 @@ sr: "0.741.619.136"
 title: "Accord du 17 décembre 1953 entre le Département fédéral des postes et des chemins de fer et le ministre des transports de la République fédérale d'Allemagne sur le transport professionnel de personnes et de choses par route (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1954/434_449_333"
 language: fr
-version: 1954-02-01
+version: 2023-05-24
 adopted: 1953-12-17
 in_force: 1954-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/434_449_333/19540201/fr/xml/fedlex-data-admin-ch-eli-cc-1954-434_449_333-19540201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1954/434_449_333/19540201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/434_449_333/20230524/fr/xml/fedlex-data-admin-ch-eli-cc-1954-434_449_333-20230524-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1954/434_449_333/20230524/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Accord entre le Département fédéral des postes et des chemins de fer et le ministre des transports de la République fédérale d’Allemagne sur le transport professionnel de personnes et de choses par route
 
-RO **1954** 449
+RO **1954** 449[^t-1]
 
-Traduction*[^t-1]*
+Traduction
 
 Conclu le 17 décembre 1953 Entré en vigueur le 11, février 1954
 
-[^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
+(État le 24 mai 2023)
 
-Le Département fédéral des postes et des chemins de fer, d une part, et le ministre des transports de la République fédérale d’Allemagne, d’autre part,
+[^t-1]: Actuellement: Département fédéral de l’environnement, des transports, de l’énergie et de la communication.
+
+Le Département fédéral des postes et des chemins de fer[^ingress-1], d une part, et le ministre des transports de la République fédérale d’Allemagne, d’autre part,
 
 sont convenus de ce qui suit au sujet de l’exécution de transports professionnels de personnes et de choses par route:
+
+[^ingress-1]: Actuellement: Département fédéral de l’environnement, des transports, de l’énergie et de la communication.
 
 ## I. Transports de personnes
 
@@ -34,12 +38,12 @@ sont convenus de ce qui suit au sujet de l’exécution de transports profession
 
 <sup>(1)</sup>
 
-Les entreprises de transports occasionnels par autocars qui ont leur siège dans l’un des deux Etats contractants n’ont pas besoin d’une autorisation spéciale pour effectuer des courses d’excursion et de location sur le territoire de l’autre Etat contractant si les conditions suivantes, prévues par l’accord sur «la liberté de la route», sont remplies:
+Les entreprises de transports occasionnels par autocars qui ont leur siège dans l’un des deux États contractants n’ont pas besoin d’une autorisation spéciale pour effectuer des courses d’excursion et de location sur le territoire de l’autre État contractant si les conditions suivantes, prévues par l’accord sur «la liberté de la route», sont remplies:
 
 - a) Les mêmes personnes sont transportées par le même véhicule au cours d’un voyage circulaire commençant et devant se terminer dans le pays d’immatriculation du véhicule.
-- b) Les mêmes personnes sont transportées par le même véhicule au cours d’un voyage partant d’un port maritime ou d’un aéroport du pays d’immatriculation du véhicule et devant se terminer à un autre port ou aéroport de l’autre Etat contractant, sous réserve toutefois que le véhicule revienne à vide au point de départ.
+- b) Les mêmes personnes sont transportées par le même véhicule au cours d’un voyage partant d’un port maritime ou d’un aéroport du pays d’immatriculation du véhicule et devant se terminer à un autre port ou aéroport de l’autre État contractant, sous réserve toutefois que le véhicule revienne à vide au point de départ.
 
-<sup>(2)</sup> Les transporteurs ne sont tenus d’avoir avec eux qu’un permis de leur pays de résidence qui les autorise à traverser la frontière pour circuler dans l’autre Etat contractant. Ce permis n’est délivré aux transporteurs suisses que s’ils présentent personnellement toutes garanties et assurent la sécurité et la capacité de leur exploitation et aux transporteurs allemands que s’ils sont déjà au bénéfice de l’autorisation prévue par la législation allemande.
+<sup>(2)</sup> Les transporteurs ne sont tenus d’avoir avec eux qu’un permis de leur pays de résidence qui les autorise à traverser la frontière pour circuler dans l’autre État contractant. Ce permis n’est délivré aux transporteurs suisses que s’ils présentent personnellement toutes garanties et assurent la sécurité et la capacité de leur exploitation et aux transporteurs allemands que s’ils sont déjà au bénéfice de l’autorisation prévue par la législation allemande.
 
 <sup>(3)</sup> La durée de validité du permis ne doit pas dépasser la fin de l’année civile.
 
@@ -49,41 +53,61 @@ Les entreprises de transports occasionnels par autocars qui ont leur siège dans
 
 **Autres transports occasionnels par autocars**
 
-<sup>(1)</sup> Tout autre transport occasionnel (touristique) effectué par un autocar qui ne répond pas aux prescriptions du § 1 est soumis à l’autorisation de l’autre Etat contractant.
+<sup>(1)</sup> Tout autre transport occasionnel (touristique) effectué par un autocar qui ne répond pas aux prescriptions du § 1 est soumis à l’autorisation de l’autre État contractant.
 
 <sup>(2)</sup> La demande d’autorisation doit être adressée par l’entrepreneur en double exemplaire (modèle à l’annexe 1) à l’autorité compétente de son pays. L’autorisation ne peut être accordée qu’avec l’assentiment du pays de résidence.
 
 #### § 3
 
-**Transports occasionnels par voitures de tourisme (taxis et voitures de remise)**
+**Transports occasionnels par voiture de tourisme[^3-1]**
 
-<sup>(1)</sup> Les restrictions prévues au § 1, 1er alinéa, lettres a et b, ne sont pas applicables aux transports par voitures de tourisme (taxis et voitures de remise). Les transports par taxis et par voitures de remise ne sont toutefois autorisés que si le transporteur est en possession du permis de son pays de résidence, tel qu’il est prévu au § 1, al. 2, et s’il s’abstient de prendre de nouveaux passagers dans l’autre Etat contractant.
+<sup>(1)</sup> Les restrictions prévues au § 1, al. 1, let a et b, ne s’appliquent pas aux transports effectués par des véhicules automobiles qui, d’après leur type de construction et leur équipement, sont aptes et destinés à transporter jusqu’à neuf personnes, y compris le conducteur. Les transports occasionnels par voiture de tourisme ne sont toutefois autorisés que si le transporteur est en possession d’un permis conforme aux lois intérieures et prescriptions de son pays de résidence, et s’il s’abstient de prendre de nouveaux passagers dans l’autre État contractant.[^3-2]
 
-<sup>(2)</sup> L’interdiction de prendre de nouveaux passagers dans l’autre Etat contractant ne s’applique pas aux transporteurs dont l’entreprise est établie dans une zone de 10 km. des deux côtés de la frontière, s’il s’agit de courses commandées à effectuer dans un rayon de 5 km. au plus d’un côté et de l’autre de la frontière et si les voyageurs ne sont pas déposés dans l’autre Etat contractant.
+<sup>(2)</sup> L’interdiction de prendre de nouveaux passagers dans l’autre État contractant ne s’applique pas aux transporteurs dont l’entreprise est établie dans une zone de 10 km. des deux côtés de la frontière, s’il s’agit de courses commandées à effectuer dans un rayon de 5 km. au plus d’un côté et de l’autre de la frontière et si les voyageurs ne sont pas déposés dans l’autre État contractant.
+
+[^3-1]: Nouvelle teneur selon l’art. 1 ch. 1 de l’Ac. du 24 mai 2023, en vigueur depuis le 24 mai 2023 ([RO 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
+[^3-2]: Nouvelle teneur selon l’art. 1 ch. 2 de l’Ac. du 24 mai 2023, en vigueur depuis le 24 mai 2023 ([RO 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 #### § 4
 
 **Trafic international de ligne (à l’exception du trafic de transit)**
 
-<sup>(1)</sup> Pour le trafic international de ligne, les transporteurs ont besoin de la concession requise par les dispositions légales de chacun des deux Etats contractants et délivrée par les autorités compétentes.
+<sup>(1)</sup> Pour le trafic international de ligne, les transporteurs ont besoin de la concession requise par les dispositions légales de chacun des deux États contractants et délivrée par les autorités compétentes.
 
 <sup>(2)</sup> La concession n’est délivrée que si les parties contractantes sont d’accord sur la nécessité et l’opportunité d’une ligne et sous réserve de réciprocité. Il est procédé de même pour la suppression d’une ligne existante.
 
-<sup>(3)</sup> Les demandes d’établissement d’un service de ligne doivent être présentées, pour le tronçon situé dans l’autre Etat, à l’autorité compétente du pays de résidence du requérant; elles sont transmises immédiatement à l’autre Etat contractant, avec un préavis de l’autorité qui, dans le pays de résidence, est l’autorité suprême en matière de transports.
+<sup>(3)</sup> Les demandes d’établissement d’un service de ligne doivent être présentées, pour le tronçon situé dans l’autre État, à l’autorité compétente du pays de résidence du requérant; elles sont transmises immédiatement à l’autre État contractant, avec un préavis de l’autorité qui, dans le pays de résidence, est l’autorité suprême en matière de transports.
+
+#### § 4a
+
+**Transport intérieur en trafic international de ligne par autocars et autobus**[^4a-1]
+
+<sup>(1)</sup> En trafic international de ligne par autocars et autobus (véhicules automoteurs qui, d’après leur type de construction et leur équipement, sont destinés à transporter plus de neuf personnes, y compris le conducteur), le transport entre deux localités situées sur le territoire d’une partie contractante, effectué par une entreprise établie dans la Confédération suisse ou dans l’Union européenne, n’est autorisé que dans les conditions prévues à l’al. 2, dans les zones frontalières qui y sont désignées.
+
+<sup>(2)</sup>
+
+Le trafic international de ligne par autocars et autobus visé à l’al. 1 n’est autorisé qu’en zone frontalière:
+
+- a) sur le territoire de la Confédération suisse, dans les cantons d’Argovie, de Bâle-Ville, de Bâle-Campagne, de Schaffhouse, de Thurgovie et de Zurich;
+- b) sur le territoire de la République fédérale d’Allemagne, dans les arrondissements Bodenseekreis, Constance, Lindau, Lörrach, Ravensburg, Schwarzwald-Baar-Kreis et Waldshut.
+
+<sup>(3)</sup> Les autorités compétentes des parties contractantes déterminent d’un commun accord les zones à l’intérieur desquelles le trafic international de ligne par autocars ou par autobus est autorisé dans chacune des zones frontalières visées à l’al. 2. Elles veillent au respect du principe de réciprocité et de l’égalité de traitement en matière d’accès au marché des entreprises de transport établies dans la Confédération suisse et dans l’Union européenne, de manière à éviter toute distorsion de concurrence.
+
+[^4a-1]: Introduit par l’art. 2 de l’Ac. du 24 mai 2023, en vigueur depuis le 24 mai 2023 ([RO 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 #### § 5
 
 **Trafic de ligne en transit**
 
-<sup>(1)</sup> Sont considérés comme trafic de ligne en transit, au sens du présent accord, les transports partant de l’un des deux Etats pour traverser l’autre à destination d’un troisième Etat sans que des passagers soient pris ou déposés dans l’Etat traversé.
+<sup>(1)</sup> Sont considérés comme trafic de ligne en transit, au sens du présent accord, les transports partant de l’un des deux États pour traverser l’autre à destination d’un troisième État sans que des passagers soient pris ou déposés dans l’État traversé.
 
 <sup>(2)</sup> La législation nationale du pays traversé est applicable à l’octroi d’autorisations pour un tel trafic de ligne en transit. Les demandes doivent être présentées à l’autorité compétente du pays de résidence du requérant; elles sont transmises immédiatement à l’autre partie contractante, avec un préavis de l’autorité qui, dans le pays de résidence, est l’autorité suprême en matière de transports.
 
 #### § 6
 
-**Application aux chemins de fer et à la poste**
+[^6-1]
 
-Les dispositions du présent accord sont aussi applicables, de part et d’autre, aux administrations des chemins de fer et des postes, sans préjudice des dispositions légales particulières en vigueur dans les Etats contractants.
+[^6-1]: Abrogé par l’art. 3 de l’Ac. du 24 mai 2023, avec effet au 24 mai 2023 ([RO 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 ## II. Transports de marchandises
 
@@ -91,7 +115,7 @@ Les dispositions du présent accord sont aussi applicables, de part et d’autre
 
 **Transports internationaux de marchandises en transit et autres**
 
-Les entreprises de transport qui ont leur siège dans l’un des deux Etats contractants ont besoin d’un permis de leur pays de résidence si elles effectuent, conformément à l’accord sur la «liberté de la route», des transports internationaux de marchandises en transit et autres.
+Les entreprises de transport qui ont leur siège dans l’un des deux États contractants ont besoin d’un permis de leur pays de résidence si elles effectuent, conformément à l’accord sur la «liberté de la route», des transports internationaux de marchandises en transit et autres.
 
 #### § 8
 
@@ -103,17 +127,17 @@ Le permis n’est délivré à des transporteurs suisses que s’ils présentent
 
 **Nombre et genre des permis**
 
-<sup>(1)</sup> Pour chaque camion automobile, il y a lieu d’établir un permis spécial. Ces permis ne doivent pas dépasser un certain contingent, qui est fixé pour chaque Etat contractant à 250. Les remorques n’ont pas besoin de permis.
+<sup>(1)</sup> Pour chaque camion automobile, il y a lieu d’établir un permis spécial. Ces permis ne doivent pas dépasser un certain contingent, qui est fixé pour chaque État contractant à 250. Les remorques n’ont pas besoin de permis.
 
 <sup>(2)</sup>
 
-Les deux Etats contractants sont libres d’établir ces permis:
+Les deux États contractants sont libres d’établir ces permis:
 
-- a) A titre permanent (valables au plus jusqu’à la fin de l’année civile);
+- a) À titre permanent (valables au plus jusqu’à la fin de l’année civile);
 - b) Pour une durée limitée (pour plusieurs voyages au cours d’un laps de temps limité pendant l’année civile en cours);
 - c) Pour un seul voyage.
 
-<sup>(3)</sup> Le nombre des permis valables au même moment ne doit, dans chaque Etat contractant, pas excéder 250. Un autre nombre peut être convenu en tout temps, selon les besoins.
+<sup>(3)</sup> Le nombre des permis valables au même moment ne doit, dans chaque État contractant, pas excéder 250. Un autre nombre peut être convenu en tout temps, selon les besoins.
 
 #### § 10
 
@@ -127,23 +151,21 @@ Un permis n’est pas nécessaire pour:
 
 #### § 11
 
-**Autorités compétentes**
+[^11-1]
 
-Les permis sont établis en Suisse par le département fédéral des postes et des chemins de fer[^11-1] et dans la République fédérale d’Allemagne par les autorités suprêmes en matière de transports dans les différents Etats (Länder). Les permis établis par la Suisse et par la République fédérale d’Allemagne doivent avoir autant que possible le même texte, suivant le modèle reproduit à l’annexe 2.
-
-[^11-1]: Actuellement «Département fédéral des transports, des communications et de l’énergie».
+[^11-1]: Abrogé par l’art. 3 de l’Ac. du 24 mai 2023, avec effet au 24 mai 2023 ([RO 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 #### § 12
 
 **Tarifs de transports de marchandises**
 
-Lors de la délivrance des permis, les entrepreneurs doivent s’engager à respecter les tarifs de transports de marchandises applicables dans les Etats contractants.
+Lors de la délivrance des permis, les entrepreneurs doivent s’engager à respecter les tarifs de transports de marchandises applicables dans les États contractants.
 
 #### § 13
 
 **Interdiction des transports en régime intérieur**
 
-Il est interdit aux transporteurs d’un pays de prendre en charge dans l’autre Etat contractant des marchandises destinées à y être déchargées.
+Il est interdit aux transporteurs d’un pays de prendre en charge dans l’autre État contractant des marchandises destinées à y être déchargées.
 
 #### § 14
 
@@ -159,17 +181,35 @@ Le présent accord ne s’applique pas aux transports par camions automobiles au
 
 Les transporteurs sont tenus de respecter les législations respectives en matière de police, de circulation routière et de douane.
 
+#### § 15a
+
+**Autorités compétentes**[^15a-1]
+
+Les autorités compétentes pour la mise en œuvre du présent Accord sont:
+
+dans la Confédération suisse:
+
+le Département fédéral de l’environnement, des transports, de l’énergie et de la communication
+
+en République fédérale d’Allemagne:
+
+les autorités suprêmes en matière de transports dans les différents États (Länder) pour le domaine du transport routier de personnes ainsi que le Ministère fédéral du Numérique et des Transports pour le domaine du transport routier de marchandises.
+
+[^15a-1]: Introduit par l’art. 4 de l’Ac. du 24 mai 2023, en vigueur depuis le 24 mai 2023 ([RO 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
+
 #### § 16
 
-**Retrait du permis**
+**Surveillance**[^16-1]
 
-Le permis peut être retiré en tout temps, notamment à la suite de contraventions aux obligations du présent accord ou des prescriptions visées par le § 15.
+Les autorités compétentes des parties contractantes veillent, sur leur territoire respectif, à ce que les entreprises de transport respectent les dispositions du présent Accord.
+
+[^16-1]: Nouvelle teneur selon l’art. 5 de l’Ac. du 24 mai 2023, en vigueur depuis le 24 mai 2023 ([RO 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 #### § 17
 
-**Application à Berlin**
+[^17-1]
 
-Le présent accord est également valable pour le territoire de Berlin, si, dans un délai de 3 mois à partir de sa mise en vigueur, le ministre des transports de la République fédérale d’Allemagne ne remet pas au département fédéral des postes et des chemins de fer une déclaration contraire.
+[^17-1]: Abrogé par l’art. 3 de l’Ac. du 24 mai 2023, avec effet au 24 mai 2023 ([RO 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 #### § 18
 
@@ -180,8 +220,7 @@ Le présent accord entre en vigueur le le’ février 1954. Il est valable jusqu
 Bonn, le 17 décembre 1953.
 
 <table>
-<tr><td>Pour le Département fédéral des postes et des chemins de fer, sous réserve de l’approbation du chef du Département</td><td>Pour le ministre des transports de la République fédérale d’Allemagne, sous réserve de son approbation</td></tr>
-<tr><td>Joseph Haenni</td><td>Arthur Pukall</td></tr>
+<tr><td>Pour le Département fédéral des postes et des chemins de fer, sous réserve de l’approbation du chef du Département Joseph Haenni</td><td>Pour le ministre des transports de la République fédérale d’Allemagne, sous réserve de son approbation Arthur Pukall</td></tr>
 </table>
 
 Annexe 1
@@ -207,7 +246,7 @@ course qui, pour les raisons suivantes
 ne répond pas aux conditions de l’art. 1<sup>er</sup> de l’accord, à savoir
 
 - a. Que les mêmes personnes sont transportées par le même véhicule au cours d’un voyage circulaire commençant et devant se terminer dans le pays d’immatriculation du véhicule;
-- b. Que les mêmes personnes sont transportées par le même véhicule au cours d’un voyage partant d’un port maritime ou d’un aéroport du pays d’immatriculation du véhicule et devant se terminer à un autre port ou aéroport de l’autre Etat contractant, sous réserve toutefois que le véhicule revienne à vide au point de départ.
+- b. Que les mêmes personnes sont transportées par le même véhicule au cours d’un voyage partant d’un port maritime ou d’un aéroport du pays d’immatriculation du véhicule et devant se terminer à un autre port ou aéroport de l’autre État contractant, sous réserve toutefois que le véhicule revienne à vide au point de départ.
 
 , le 19
 
@@ -236,7 +275,7 @@ Valable du 195 au 195
 
 Conditions spéciales:
 
-- 1\. Le permis n’est valable que pour le détenteur susmentionné et ne peut être transféré. Il ne donne droit qu’au transport de choses à destination de et en transit par l’Etat contractant. Il est interdit au transporteur de prendre en charge dans l’autre Etat contractant des marchandises destinées à y être déchargées.
+- 1\. Le permis n’est valable que pour le détenteur susmentionné et ne peut être transféré. Il ne donne droit qu’au transport de choses à destination de et en transit par l’État contractant. Il est interdit au transporteur de prendre en charge dans l’autre État contractant des marchandises destinées à y être déchargées.
 - 2\. Le permis doit accompagner les transports pour lesquels il est valable. Le porteur doit le présenter de lui‑même à chaque passage de la frontière et, en outre, aux autorités compétentes, sur leur demande.
 - 3\. Le détenteur du permis est tenu d’obéir aux législations respectives en matière de police, de circulation routière et de douane, et de se conformer aux prescriptions tarifaires.
 - 4\. Pour les transports en transit, seules les routes internationales réservées à cet effet peuvent être utilisées.

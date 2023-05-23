@@ -3,18 +3,18 @@ sr: "0.741.619.136"
 title: Vereinbarung vom 17. Dezember 1953 zwischen dem Eidgenössischen Post- und Eisenbahndepartement und dem Bundesminister für Verkehr der Bundesrepublik Deutschland über den gewerblichen Strassenpersonen- und -güterverkehr (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1954/434_449_333"
 language: de
-version: 1954-02-01
+version: 2023-05-24
 adopted: 1953-12-17
 in_force: 1954-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/434_449_333/19540201/de/xml/fedlex-data-admin-ch-eli-cc-1954-434_449_333-19540201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1954/434_449_333/19540201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/434_449_333/20230524/de/xml/fedlex-data-admin-ch-eli-cc-1954-434_449_333-20230524-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1954/434_449_333/20230524/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Vereinbarung zwischen dem Eidgenössischen Post‑ und Eisenbahndepartement und dem Bundesminister für Verkehr der Bundesrepublik Deutschland über den gewerblichen Strassenpersonen‑ und ‑güterverkehr
 
-AS **1954** 434
+AS **1954** 434[^t-1]
 
 Originaltext
 
@@ -22,9 +22,15 @@ Abgeschlossen am 17. Dezember 1953
 
 In Kraft getreten am 1. Februar 1954
 
-Zwischen dem Eidgenössischen Post‑ und Eisenbahndepartement einerseits und dem Bundesminister für Verkehr der Bundesrepublik Deutschland anderseits
+(Stand am 24. Mai 2023)
+
+[^t-1]: Heute: Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation.
+
+Zwischen dem Eidgenössischen Post‑ und Eisenbahndepartement[^ingress-1] einerseits und dem Bundesminister für Verkehr der Bundesrepublik Deutschland anderseits
 
 wird über die Durchführung des gewerblichen Strassenpersonen‑ und ‑güterverkehrs folgendes vereinbart:
+
+[^ingress-1]: Heute: Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation.
 
 ## I. Personenverkehr
 
@@ -55,11 +61,14 @@ Unternehmer des Gelegenheitsverkehrs (Ausflugswagen‑ und Mietwagenverkehr), di
 
 #### § 3
 
-**Gelegenheitsverkehr mit Personenkraftwagen (Droschken und Mietwagen)**
+**Gelegenheitsverkehr mit Personenkraftwagen[^3-1]**
 
-<sup>(1)</sup> Auf die Beförderungen mit Personenkraftwagen (Droschken und Mietwagen) finden die Beschränkungen des § 1 Absatz 1 Buchstaben a) und b) keine Anwendung. Jedoch ist die Beförderung mit Droschken und Mietwagen nur gestattet, wenn der Unternehmer im Besitze eines Ausweises nach § 1 Absatz 2 seines Heimatstaates ist und eine Aufnahme von neuen Fahrgästen im anderen Vertragsstaat unterbleibt.
+<sup>(1)</sup> Auf die Beförderungen mit Kraftfahrzeugen, die nach ihrer Bauart und Ausstattung geeignet und dazu bestimmt sind, bis zu neun Personen einschliesslich des Fahrers zu befördern, finden die Beschränkungen des § 1 Absatz 1 Buchstaben a) und b) keine Anwendung. Jedoch ist die Beförderung mit Personenkraftwagen im Gelegenheitsverkehr nur gestattet, wenn der Unternehmer im Besitz eines Ausweises nach innerstaatlichen Gesetzen und Vorschriften seines Heimatstaates ist und eine Aufnahme von neuen Fahrgästen im anderen Vertragsstaat unterbleibt.[^3-2]
 
 <sup>(2)</sup> Das Verbot der Aufnahme von neuen Fahrgästen im anderen Vertragsstaat gilt nicht für Unternehmer, die ihren Betriebssitz innerhalb einer Zone von 10 Kilometern beiderseits der Grenze haben, wenn die Fahrten auf Bestellung und nur in einem Bereich von nicht mehr als 5 Kilometern diesseits und jenseits der Grenze durchgeführt und die Fahrgäste nicht im anderen Vertragsstaat abgesetzt werden.
+
+[^3-1]: Fassung gemäss Art. 1 Ziff. 1 der Vereinb. vom 24. Mai 2023, in Kraft seit 24. Mai 2023 ([AS 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
+[^3-2]: Fassung gemäss Art. 1 Ziff. 2 der Vereinb. vom 24. Mai 2023, in Kraft seit 24. Mai 2023 ([AS 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 #### § 4
 
@@ -71,6 +80,23 @@ Unternehmer des Gelegenheitsverkehrs (Ausflugswagen‑ und Mietwagenverkehr), di
 
 <sup>(3)</sup> Anträge auf Einrichtung eines Linienverkehrs für die Teilstrecke in dem anderen Staate sind bei der zuständigen Behörde des Heimatstaates einzureichen; die Anträge sind alsdann mit einer Stellungnahme der obersten Verkehrsbehörde des Heimatstaates dem anderen Vertragsschliessenden unmittelbar zu übersenden.
 
+#### § 4a
+
+**Binnenverkehr im grenzüberschreitenden Linienverkehr mit Kraftomnibussen**[^4a-1]
+
+<sup>(1)</sup> Im grenzüberschreitenden Linienverkehr mit Kraftomnibussen (Kraftfahrzeuge, die nach ihrer Bauart und Ausstattung dazu bestimmt sind, mehr als neun Personen, einschliesslich des Fahrers, zu befördern) ist eine Beförderung zwischen zwei Orten, die im Staatsgebiet einer Vertragspartei liegen und von einem in der Schweizerischen Eidgenossenschaft oder in der Europäischen Union niedergelassenen Unternehmer durchgeführt wird, nur nach Massgabe von Absatz 2 in den dort bezeichneten Grenzgebieten zulässig.
+
+<sup>(2)</sup>
+
+Die Beförderung im grenzüberschreitenden Linienverkehr mit Kraftomnibussen gemäss Absatz 1 ist nur zulässig im Grenzgebiet:
+
+- a) in der Schweizerischen Eidgenossenschaft in den Kantonen Aargau, Basel-Stadt, Basel-Landschaft, Schaffhausen, Thurgau und Zürich;
+- b) in der Bundesrepublik Deutschland in den Landkreisen Bodenseekreis, Konstanz, Lindau, Lörrach, Ravensburg, Schwarzwald-Baar-Kreis und Waldshut.
+
+<sup>(3)</sup> Die zuständigen Behörden der Vertragsparteien legen im gegenseitigen Einvernehmen die Gebiete fest, innerhalb derer die Beförderung im grenzüberschreitenden Linienverkehr mit Kraftomnibussen im jeweiligen Grenzgebiet gemäss Absatz 2 zulässig sind. Sie stellen die Einhaltung des Grundsatzes der Gegenseitigkeit und der Gleichbehandlung der in der Schweizerischen Eidgenossenschaft und in der Europäischen Union niedergelassenen Verkehrsunternehmer beim Marktzugang sicher, so dass keine Wettbewerbsverzerrungen entstehen.
+
+[^4a-1]: Eingefügt durch Art. 2 der Vereinb. vom 24. Mai 2023, in Kraft seit 24. Mai 2023 ([AS 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
+
 #### § 5
 
 **Transitlinienverkehr**
@@ -81,9 +107,9 @@ Unternehmer des Gelegenheitsverkehrs (Ausflugswagen‑ und Mietwagenverkehr), di
 
 #### § 6
 
-**Anwendung auf Bahn und Post**
+[^6-1]
 
-Die vorstehenden Bestimmungen gelten unbeschadet der in den Vertragsstaaten geltenden besonderen gesetzlichen Bestimmungen auch für die beiderseitigen Bahn‑ und Postverwaltungen.
+[^6-1]: Aufgehoben durch Art. 3 der Vereinb. vom 24. Mai 2023, in Kraft seit 24. Mai 2023 ([AS 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 ## II. G Güterverkehr
 
@@ -125,11 +151,9 @@ Eines Ausweises bedürfen nicht:
 
 #### § 11
 
-**Zuständige Behörden**
+[^11-1]
 
-Die Ausweise werden in der Schweiz durch das Eidgenössische Post‑ und Eisenbahndepartement[^11-1] und in der Bundesrepublik Deutschland durch die obersten Verkehrsbehörden der Länder ausgestellt. Die Ausweise sollen von der Schweiz und der Bundesrepublik Deutschland möglichst mit dem gleichen Wortlaut nach dem Muster der Anlage 2 ausgestellt werden.
-
-[^11-1]: Heute: Eidgenössisches Verkehrs‑ und Energiewirtschaftsdepartement
+[^11-1]: Aufgehoben durch Art. 3 der Vereinb. vom 24. Mai 2023, in Kraft seit 24. Mai 2023 ([AS 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 #### § 12
 
@@ -157,17 +181,35 @@ Unberührt von der Vereinbarung bleiben die Fahrten mit Lastkraftfahrzeugen, die
 
 Die Unternehmer sind verpflichtet, die Bestimmungen des im Vertragsstaat geltenden Verkehrs‑, Kraftfahrzeug‑ und Zollrechts einzuhalten.
 
+#### § 15a
+
+**Zuständige Behörden**[^15a-1]
+
+Zuständige Behörden für die Durchführung dieser Vereinbarung sind:
+
+in der Schweizerischen Eidgenossenschaft:
+
+das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation
+
+in der Bundesrepublik Deutschland:
+
+die obersten Verkehrsbehörden der Länder für den Bereich Strassenpersonenverkehr sowie das Bundesministerium für Digitales und Verkehr für den Bereich Strassengüterverkehr.
+
+[^15a-1]: Eingefügt durch Art. 4 der Vereinb. vom 24. Mai 2023, in Kraft seit 24. Mai 2023 ([AS 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
+
 #### § 16
 
-**Entzug der Ausweise**
+**Überwachung**[^16-1]
 
-Der Ausweis kann jederzeit, insbesondere bei Verstössen gegen die Pflichten aus dieser Vereinbarung sowie gegen die in § 15 genannten Bestimmungen, entzogen werden.
+Die zuständigen Behörden der Vertragsparteien wachen im jeweiligen Staatsgebiet darüber, dass die Bestimmungen dieser Vereinbarung von den Verkehrsunternehmern eingehalten werden.
+
+[^16-1]: Fassung gemäss Art. 5 der Vereinb. vom 24. Mai 2023, in Kraft seit 24. Mai 2023 ([AS 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 #### § 17
 
-**Anwendung auf Berlin**
+[^17-1]
 
-Die Vereinbarung gilt auch für das Land Berlin, sofern nicht der Bundesminister für Verkehr gegenüber dem Eidgenössischen Post‑ und Eisenbahndepartement innerhalb von drei Monaten nach Inkrafttreten der Vereinbarung eine gegenteilige Erklärung abgibt.
+[^17-1]: Aufgehoben durch Art. 3 der Vereinb. vom 24. Mai 2023, in Kraft seit 24. Mai 2023 ([AS 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 #### § 18
 
@@ -178,8 +220,7 @@ Die Vereinbarung tritt am 1. Februar 1954 in Kraft. Sie gilt bis zum 31. Dezembe
 Bonn, den 17. Dezember 1953.
 
 <table>
-<tr><td>Für die schweizerische Delegation unter Vorbehalt der Zustimmung des Vorstehers des Eidgenössischen Post‑ und Eisenbahndepartements:</td><td>Für die deutsche Delegation unter Vorbehalt der Zustimmung des Bundesministers für Verkehr:</td></tr>
-<tr><td>Joseph Haenni</td><td>Arthur Pukall</td></tr>
+<tr><td>Für die schweizerische Delegation unter Vorbehalt der Zustimmung des Vorstehers des Eidgenössischen Post‑ und Eisenbahndepartements: Joseph Haenni</td><td>Für die deutsche Delegation unter Vorbehalt der Zustimmung des Bundesministers für Verkehr: Arthur Pukall</td></tr>
 </table>
 
 Anlage 1
@@ -200,7 +241,7 @@ am (Datum) <sup>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_</s
 
 eine Ausflugs‑/Mietwagenfahrt nach
 
-ausführen zu können, die den Bedingungen des § 1 der vorgenannten Vereinbarung, nämlich dass
+ausführen zu können, die den Bedingungen des § 1 der vorgenannten Vereinbarung, nämlich dass:
 
 - a) die gleichen Personen im gleichen Kraftfahrzeug während der ganzen Reise, die in dem Lande, in welchem das Fahrzeug immatrikuliert (amtlich zugelassen) ist, beginnen und endigen muss, befördert werden, oder
 - b) die gleichen Personen im gleichen Kraftfahrzeug befördert werden und die Reise in einem See‑ oder Lufthafen des Landes, in dem das Fahrzeug immatrikuliert (amtlich zugelassen) ist, beginnt und in einem anderen derartigen Hafen in dem anderen Lande endigt und das Kraftfahrzeug leer zum Abfahrtsort zurückkehrt,

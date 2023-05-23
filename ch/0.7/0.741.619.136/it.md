@@ -3,28 +3,32 @@ sr: "0.741.619.136"
 title: Accordo del 17 dicembre 1953 tra il Dipartimento federale delle poste e delle ferrovie e il Ministro dei trasporti della Repubblica federale di Germania concernente il trasporto professionale di persone e di cose con autoveicoli (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1954/434_449_333"
 language: it
-version: 1954-02-01
+version: 2023-05-24
 adopted: 1953-12-17
 in_force: 1954-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/434_449_333/19540201/it/xml/fedlex-data-admin-ch-eli-cc-1954-434_449_333-19540201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1954/434_449_333/19540201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/434_449_333/20230524/it/xml/fedlex-data-admin-ch-eli-cc-1954-434_449_333-20230524-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1954/434_449_333/20230524/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo tra il Dipartimento federale delle poste e delle ferrovie e il Ministro dei trasporti della Repubblica federale di Germania concernente il trasporto professionale di persone e di cose con autoveicoli
 
-RU **1954** 333
+RU **1954** 333[^t-1]
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiuso il 17 dicembre 1953 Data dell’entrata in vigore: 1° febbraio 1954
+Conchiuso il 17 dicembre 1953 Data dell’entrata in vigore 1° febbraio 1954
 
-[^t-1]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+(Stato 24 maggio 2023)
 
-Il Dipartimento federale delle poste e delle ferrovie da una parte, e il Ministro dei trasporti della Repubblica federale di Germania dall’altra,
+[^t-1]: Ora: Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni.
+
+Il Dipartimento federale delle poste e delle ferrovie[^ingress-1] da una parte, e il Ministro dei trasporti della Repubblica federale di Germania dall’altra,
 
 hanno convenuto quanto segue circa i trasporti professionali di persone e di cose con autoveicoli:
+
+[^ingress-1]: Ora: Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni.
 
 ## I. Trasporti di persone
 
@@ -55,11 +59,14 @@ Le imprese che si occupano del trasporto occasionale con torpedoni e che hanno l
 
 #### § 3
 
-**Trasporti occasionali eseguiti con vetture da turismo (tassì e vetture da rimessa)**
+**Trasporti occasionali con vetture da turismo[^3-1]**
 
-<sup>(1)</sup> Le limitazioni previste nel § 1, primo capoverso, lettere a e b, non sono applicabili ai trasporti eseguiti con vetture da turismo (tassì e vetture da rimessa). 1 trasporti con tassì e con vetture da rimessa sono tuttavia autorizzati solo se il vettore è in possesso del permesso del suo Paese di residenza, previsto nel § 1, secondo capoverso, e se egli si astiene dal caricare nuovi viaggiatori nell’altro Stato contraente.
+<sup>(1)</sup> Le limitazioni previste nel § 1, primo capoverso, lettere a e b, non sono applicabili ai trasporti eseguiti con veicoli atti e destinati, per costruzione e attrezzatura, a trasportare fino a nove persone, conducente compreso. I trasporti occasionali con vetture da turismo sono tuttavia autorizzati solo se il vettore è in possesso di un permesso a norma delle leggi e prescrizioni nazionali del suo Paese di residenza e se si astiene dal caricare nuovi viaggiatori nell’altro Stato contraente.[^3-2]
 
 <sup>(2)</sup> Il divieto di caricare nuovi viaggiatori nell’altro Stato contraente non si applica ai vettori residenti in una zona di 10 km dalle due parti del confine, sempreché si tratti di trasporti ordinati e da eseguire entro un raggio massimo di 5 km dall’una o dall’altra parte del confine, e i viaggiatori non siano depositati nell’altro Stato contraente.
+
+[^3-1]: Nuovo testo giusta l’art. 1 n. 1 dell’Acc. del 24 mag. 2023, in vigore dal 24 mag. 2023 ([RU 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
+[^3-2]: Nuovo testo giusta l’art. 1 n. 2 dell’Acc. del 24 mag. 2023, in vigore dal 24 mag. 2023 ([RU 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 #### § 4
 
@@ -71,6 +78,23 @@ Le imprese che si occupano del trasporto occasionale con torpedoni e che hanno l
 
 <sup>(3)</sup> Le domande concernenti l’istituzione di un servizio internazionale di linea devono essere presentate, per il percorso situato nell’altro Stato, all’autorità competente del Paese di residenza del richiedente; esse sono trasmesse immediatamente all’altro Stato contraente, con il parere dell’autorità superiore in materia di trasporti del Paese di residenza.
 
+#### § 4a
+
+**Trasporti interni nei servizi internazionali di linea con torpedoni**[^4a-1]
+
+<sup>(1)</sup> Nei servizi internazionali di linea con torpedoni (veicoli destinati, per costruzione e attrezzatura, a trasportare oltre nove persone, conducente compreso), un trasporto fra due punti situati nel territorio di una stessa Parte contraente, effettuato da un vettore stabilito nella Confederazione Svizzera o nell’Unione europea, è autorizzato solo a norma del secondo capoverso nelle zone di frontiera ivi designate.
+
+<sup>(2)</sup>
+
+Il trasporto nei servizi internazionali di linea con torpedoni secondo il primo capoverso è autorizzato solo nelle zone di frontiera:
+
+- a) nella Confederazione Svizzera: nei Cantoni di Argovia, Basilea Città, Basilea Campagna, Sciaffusa, Turgovia e Zurigo;
+- b) nella Repubblica federale di Germania: nei circondari Bodenseekreis, Costanza, Lindau, Lörrach, Ravensburg, Schwarzwald-Baar-Kreis e Waldshut.
+
+<sup>(3)</sup> Le autorità competenti delle Parti contraenti fissano di comune accordo i perimetri, nella rispettiva zona di frontiera di cui al secondo capoverso, all’interno dei quali è autorizzato il trasporto nei servizi internazionali di linea con torpedoni. Esse assicurano il rispetto dei principi di reciprocità e di parità di trattamento dei trasportatori stabiliti nella Confederazione Svizzera e nell’Unione europea per l’accesso al mercato, al fine di evitare distorsioni della concorrenza.
+
+[^4a-1]: Introdotto dall’art. 2 dell’Acc. del 24 mag. 2023, in vigore dal 24 mag. 2023 ([RU 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
+
 #### § 5
 
 **Servizi di linea in transito**
@@ -81,9 +105,9 @@ Le imprese che si occupano del trasporto occasionale con torpedoni e che hanno l
 
 #### § 6
 
-**Applicazione alle ferrovie e alla posta**
+[^6-1]
 
-Le disposizioni del presente Accordo sono parimente applicabili agli autoveicoli delle amministrazioni ferroviarie e postali di ambedue gli Stati contraenti; sono riservate le speciali disposizioni legali in vigore nei due Stati.
+[^6-1]: Abrogato dall’art. 3 dell’Acc. del 24 mag. 2023, con effetto dal 24 mag. 2023 ([RU 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 ## II. Trasporti di merci
 
@@ -127,9 +151,9 @@ Il permesso non è necessario nei seguenti casi:
 
 #### § 11
 
-**Autorità competenti**
+[^11-1]
 
-I permessi sono rilasciati, nella Svizzera, dal Dipartimento federale delle poste e delle ferrovie1) e, nella Repubblica federale di Germania, dalle autorità superiori in materia di trasporti nei diversi Stati (Länder). Il testo dei permessi dei due Paesi corrisponderà, per quanto possibile, a quello del modulo previsto nell’Allegato 2.
+[^11-1]: Abrogato dall’art. 3 dell’Acc. del 24 mag. 2023, con effetto dal 24 mag. 2023 ([RU 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 #### § 12
 
@@ -157,19 +181,35 @@ Il presente Accordo non è applicabile ai trasporti eseguiti con autocarri autor
 
 I vettori sono tenuti a osservare le prescrizioni in materia di polizia, di circolazione stradale e di dogana in vigore nello Stato contraente.
 
+#### § 15a
+
+**Autorità competenti**[^15a-1]
+
+Le autorità competenti designate per l’esecuzione del presente Accordo sono:
+
+*nella Confederazione Svizzera*:
+
+il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni;
+
+nella Repubblica federale di Germania:
+
+le autorità superiori in materia di trasporti nei diversi Stati (Länder) per il settore del trasporto di persone con autoveicoli e il Ministero federale per il digitale e i trasporti per il settore del trasporto di merci con autoveicoli.
+
+[^15a-1]: Introdotto dall’art. 3 dell’Acc. del 24 mag. 2023, in vigore dal 24 mag. 2023 ([RU 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
+
 #### § 16
 
-**Ritiro del permesso**
+**Vigilanza**[^16-1]
 
-Il permesso può essere ritirato in ogni tempo, segnatamente in seguito a infrazioni agli obblighi del presente Accordo o alle prescrizioni del § 15.
+Le autorità competenti delle Parti contraenti vigilano nel rispettivo territorio affinché i trasportatori rispettino le disposizioni del presente Accordo.
+
+[^16-1]: Nuovo testo giusta l’art. 5 dell’Acc. del 24 mag. 2023, in vigore dal 24 mag. 2023 ([RU 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 #### § 17
 
-**Applicazione al territorio di Berlino**
+[^17-1]
 
-Il presente Accordo è parimente applicabile per il territorio di Berlino se, entro il termine di 3 mesi dalla sua entrata in vigore, il Ministro dei trasporti della Repubblica federale di Germania non trasmette comunicazione contraria al Dipartimento federale delle poste e delle ferrovie[^17-1].
-
-[^17-1]: Ora: Dipartimento federale dei trasporti delle comunicazioni e delle energie.
+[^17-1]: Abrogato dall’art. 3 dell’Acc. del 24 mag. 2023, con effetto dal 24 mag. 2023 ([RU 2023 272](https://fedlex.data.admin.ch/eli/oc/2023/272)).
 
 #### § 18
 
@@ -180,8 +220,7 @@ Il presente Accordo entra in vigore il I’ febbraio 1954 e sarà applicabile fi
 Bonn, 17 dicembre 1953
 
 <table>
-<tr><td>Per il Dipartimento federale delle poste e delle ferrovie, riservata l’approvazione del Capo del Dipartimento</td><td>Per il Ministro dei trasporti della Repubblica federale di Germania, riservata la sua approvazione</td></tr>
-<tr><td>Joseph Haenni</td><td>Arthur Pukall</td></tr>
+<tr><td>Per il Dipartimento federale delle poste e delle ferrovie, riservata l’approvazione del Capo del Dipartimento Joseph Haenni</td><td>Per il Ministro dei trasporti della Repubblica federale di Germania, riservata la sua approvazione Arthur Pukall</td></tr>
 </table>
 
 Allegato 1
