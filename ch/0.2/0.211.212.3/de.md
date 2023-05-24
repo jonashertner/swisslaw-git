@@ -3,11 +3,11 @@ sr: "0.211.212.3"
 title: Übereinkommen vom 1. Juni 1970 über die Anerkennung von Ehescheidungen und Ehetrennungen
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/1546_1546_1546"
 language: de
-version: 2013-10-18
+version: 2023-05-25
 adopted: 1970-06-01
 in_force: 1976-07-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1546_1546_1546/20131018/de/xml/fedlex-data-admin-ch-eli-cc-1976-1546_1546_1546-20131018-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/1546_1546_1546/20131018/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1546_1546_1546/20230525/de/xml/fedlex-data-admin-ch-eli-cc-1976-1546_1546_1546-20230525-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/1546_1546_1546/20230525/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/1546_1546_1546/20131018/de"
 
 AS **1976** 1546; BBl **1975** II 1369
 
-Übersetzung*[^t-1]*
+Übersetzung[^t-1]
 
 Abgeschlossen in Den Haag am 1. Juni 1970
 
@@ -26,9 +26,9 @@ Schweizerische Ratifikationsurkunde hinterlegt am 18. Mai 1976
 
 In Kraft getreten für die Schweiz am 17. Juli 1976
 
-(Stand am 18. Oktober 2013)
+(Stand am 25. Mai 2023)
 
-[^t-1]: Mit Deutschland und Österreich im Jahre 1994 neue abgestimmte Übersetzung, welche von der Publikation in der [AS 1976 1546](https://fedlex.data.admin.ch/eli/oc/1976/1546_1546_1546)abweicht. Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
+[^t-1]: Mit Deutschland und Österreich im Jahre 1994 neue abgestimmte Übersetzung, welche von der Publikation in der [AS 1976 1546](https://fedlex.data.admin.ch/eli/oc/1976/1546_1546_1546)abweicht.
 [^t-2]: [AS 1976 1544](https://fedlex.data.admin.ch/eli/oc/1976/1544_1544_1544)
 
 Die Unterzeichnerstaaten dieses Übereinkommens,
@@ -264,48 +264,48 @@ Das Ministerium für Auswärtige Angelegenheiten der Niederlande notifiziert den
 
 [^t-3]: Für die Schweizerische Eidgenossenschaft: «in französischer und englischer Sprache».
 
-Geltungsbereich am 18. Oktober 2013**[^t-4]**
+Geltungsbereich am 25. Mai 2023[^t-4]
 
 <table>
-<tr><th colspan="3">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="2"></th><th>Inkrafttreten</th><th colspan="3"></th></tr>
-<tr><td colspan="3">Ägypten</td><td colspan="2">21. April</td><td colspan="2">1980</td><td>20. Juni</td><td colspan="3">1980</td></tr>
-<tr><td colspan="3">Albanien<sup>\*</sup> <sup>a</sup></td><td colspan="2">7. März</td><td colspan="2">2013 B</td><td>12. Oktober</td><td colspan="2">2013</td></tr>
-<tr><td colspan="3">Australien\* <sup>a</sup></td><td colspan="2">24. September</td><td colspan="2">1985 B</td><td>13. April</td><td colspan="3">1986</td></tr>
-<tr><td colspan="3">China</td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="3"></td></tr>
-<tr><td colspan="3">Hongkong<sup>b</sup></td><td colspan="2">16. Juni</td><td colspan="2">1997</td><td>1. Juli</td><td colspan="3">1997</td></tr>
-<tr><td colspan="3">Dänemark\*</td><td colspan="2">25. Juni</td><td colspan="2">1975</td><td>24. August</td><td colspan="3">1975</td></tr>
-<tr><td colspan="3">Estland<sup>a</sup></td><td colspan="2">7. November</td><td colspan="2">2002 B</td><td>29. März</td><td colspan="3">2008</td></tr>
-<tr><td colspan="3">Finnland</td><td colspan="2">16. Juni</td><td colspan="2">1977</td><td>15. August</td><td colspan="3">1977</td></tr>
-<tr><td colspan="3">Italien\*</td><td colspan="2">19. Februar</td><td colspan="2">1986</td><td>20. April</td><td colspan="3">1986</td></tr>
-<tr><td colspan="3">Luxemburg\*</td><td colspan="2">13. Februar</td><td colspan="2">1991</td><td>14. April</td><td colspan="3">1991</td></tr>
-<tr><td colspan="3">Moldau\* <sup>a</sup></td><td colspan="2">10. Oktober</td><td colspan="2">2011 B</td><td>9. September</td><td colspan="2">2013</td></tr>
-<tr><td colspan="3">Niederlande\*</td><td colspan="2">23. Juni</td><td colspan="2">1981</td><td>22. August</td><td colspan="3">1981</td></tr>
-<tr><td colspan="3">Aruba<sup>a</sup></td><td colspan="2">28. Mai</td><td colspan="2">1986 B</td><td>29. März</td><td colspan="3">2008</td></tr>
-<tr><td colspan="3">Norwegen</td><td colspan="2">15. August</td><td colspan="2">1978</td><td>14. Oktober</td><td colspan="3">1978</td></tr>
-<tr><td colspan="3">Polen\* <sup>a</sup></td><td colspan="2">25. April</td><td colspan="2">1996 B</td><td>29. März</td><td colspan="3">2008</td></tr>
-<tr><td colspan="3">Portugal</td><td colspan="2">10. Mai</td><td colspan="2">1985</td><td>9. Juli</td><td colspan="3">1985</td></tr>
-<tr><td colspan="3">Schweden</td><td colspan="2">25. Juni</td><td colspan="2">1975</td><td>24. August</td><td colspan="3">1975</td></tr>
-<tr><td colspan="3">Schweiz\*</td><td colspan="2">18. Mai</td><td colspan="2">1976</td><td>17. Juli</td><td colspan="3">1976</td></tr>
-<tr><td colspan="3">Slowakei\*</td><td colspan="2">26. April</td><td colspan="2">1993 N</td><td>1. Januar</td><td colspan="3">1993</td></tr>
-<tr><td colspan="3">Tschechische Republik\*</td><td colspan="2">28. Januar</td><td colspan="2">1993 N</td><td>1. Januar</td><td colspan="3">1993</td></tr>
-<tr><td colspan="3">Vereinigtes Königreich\*</td><td colspan="2">21. Mai</td><td colspan="2">1974</td><td>24. August</td><td colspan="3">1975</td></tr>
-<tr><td colspan="3">Bermudas\* <sup>a</sup></td><td colspan="2">20. August</td><td colspan="2">1982 B</td><td>11. Februar</td><td colspan="3">1983</td></tr>
-<tr><td colspan="3">Gibraltar\* <sup>a</sup></td><td colspan="2">5. April</td><td colspan="2">1977 B</td><td>4. Juni</td><td colspan="3">1977</td></tr>
-<tr><td colspan="3">Guernsey\* <sup>a</sup></td><td colspan="2">3. März</td><td colspan="2">1978 B</td><td>2. Mai</td><td colspan="3">1978</td></tr>
-<tr><td colspan="3">Insel Man\* <sup>a</sup></td><td colspan="2">3. März</td><td colspan="2">1978 B</td><td>2. Mai</td><td colspan="3">1978</td></tr>
-<tr><td colspan="3">Jersey\* <sup>a</sup></td><td colspan="2">3. März</td><td colspan="2">1978 B</td><td>2. Mai</td><td colspan="3">1978</td></tr>
-<tr><td colspan="3">Zypern\* <sup>a</sup></td><td colspan="2">13. Januar</td><td colspan="2">1983 B</td><td>14. November</td><td colspan="3">1983</td></tr>
-<tr><td>\*</td><td colspan="9">Vorbehalte und Erklärungen.</td></tr>
-<tr><td></td><td colspan="9">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Haager Konferenz: http://hcch.e-vision.nl/index\_fr.php eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="10">Der Beitritt unterliegt dem Annahmeverfahren. Das Datum des Inkrafttretens ist jenes zwischen der Schweiz und diesem Vertragsstaat, bzw. Hoheitsgebiet.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="10">Vom 4. Juni 1977 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 3. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
+<tr><td>Ägypten</td><td>21. April</td><td>1980</td><td>20. Juni</td><td colspan="2">1980</td></tr>
+<tr><td>Albanien<sup>\*</sup> <sup>a</sup></td><td>7. März</td><td>2013 B</td><td>12. Oktober</td><td>2013</td></tr>
+<tr><td>Australien\* <sup>a</sup></td><td>24. September</td><td>1985 B</td><td>13. April</td><td colspan="2">1986</td></tr>
+<tr><td>China</td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>Hongkong <sup>b</sup></td><td>16. Juni</td><td>1997</td><td>1. Juli</td><td colspan="2">1997</td></tr>
+<tr><td>Dänemark\*</td><td>25. Juni</td><td>1975</td><td>24. August</td><td colspan="2">1975</td></tr>
+<tr><td>Estland<sup>a</sup></td><td>7. November</td><td>2002 B</td><td>29. März</td><td colspan="2">2008</td></tr>
+<tr><td>Finnland</td><td>16. Juni</td><td>1977</td><td>15. August</td><td colspan="2">1977</td></tr>
+<tr><td>Italien\*</td><td>19. Februar</td><td>1986</td><td>20. April</td><td colspan="2">1986</td></tr>
+<tr><td>Luxemburg\*</td><td>13. Februar</td><td>1991</td><td>14. April</td><td colspan="2">1991</td></tr>
+<tr><td>Moldau\* <sup>a</sup></td><td>10. Oktober</td><td>2011 B</td><td>9. September</td><td>2013</td></tr>
+<tr><td>Niederlande\*</td><td>23. Juni</td><td>1981</td><td>22. August</td><td colspan="2">1981</td></tr>
+<tr><td>Aruba <sup>a</sup></td><td>28. Mai</td><td>1986 B</td><td>29. März</td><td colspan="2">2008</td></tr>
+<tr><td>Norwegen</td><td>15. August</td><td>1978</td><td>14. Oktober</td><td colspan="2">1978</td></tr>
+<tr><td>Polen\* <sup>a</sup></td><td>25. April</td><td>1996 B</td><td>29. März</td><td colspan="2">2008</td></tr>
+<tr><td>Portugal</td><td>10. Mai</td><td>1985</td><td>9. Juli</td><td colspan="2">1985</td></tr>
+<tr><td>Schweden</td><td>25. Juni</td><td>1975</td><td>24. August</td><td colspan="2">1975</td></tr>
+<tr><td>Schweiz\*</td><td>18. Mai</td><td>1976</td><td>17. Juli</td><td colspan="2">1976</td></tr>
+<tr><td>Slowakei\*</td><td>26. April</td><td>1993 N</td><td>1. Januar</td><td colspan="2">1993</td></tr>
+<tr><td>Tschechische Republik\*</td><td>28. Januar</td><td>1993 N</td><td>1. Januar</td><td colspan="2">1993</td></tr>
+<tr><td>Vereinigtes Königreich\*</td><td>21. Mai</td><td>1974</td><td>24. August</td><td colspan="2">1975</td></tr>
+<tr><td>Bermudas\* <sup>a</sup></td><td>13. Dezember</td><td>1982 B</td><td>11. Februar</td><td colspan="2">1983</td></tr>
+<tr><td>Gibraltar\* <sup>a</sup></td><td>5. April</td><td>1977 B</td><td>4. Juni</td><td colspan="2">1977</td></tr>
+<tr><td>Guernsey\* <sup>a</sup></td><td>3. März</td><td>1978 B</td><td>2. Mai</td><td colspan="2">1978</td></tr>
+<tr><td>Insel Man\* <sup>a</sup></td><td>3. März</td><td>1978 B</td><td>2. Mai</td><td colspan="2">1978</td></tr>
+<tr><td>Jersey\* <sup>a</sup></td><td>3. März</td><td>1978 B</td><td>2. Mai</td><td colspan="2">1978</td></tr>
+<tr><td>Zypern\* <sup>a</sup></td><td>13. Januar</td><td>1983 B</td><td>14. November</td><td colspan="2">1983</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Niederländischen Regierung: www.overheid.nl &gt; English &gt; Treaty Database &gt; 002929 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="6"><sup>a</sup> Der Beitritt unterliegt dem Annahmeverfahren. Das Datum des Inkrafttretens ist jenes zwischen der Schweiz und diesem Vertragsstaat, bzw. Hoheitsgebiet.</td></tr>
+<tr><td colspan="6"><sup>b</sup> Vom 4. Juni 1977 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 3. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 </table>
 
-[^t-4]: [AS 2005 999](https://fedlex.data.admin.ch/eli/oc/2005/115), [2011 2229](https://fedlex.data.admin.ch/eli/oc/2011/300), [2013 2711](https://fedlex.data.admin.ch/eli/oc/2013/554)und [3559](https://fedlex.data.admin.ch/eli/oc/2013/670). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-4]: [AS 1976 1546](https://fedlex.data.admin.ch/eli/oc/1976/1546_1546_1546); [2005 999](https://fedlex.data.admin.ch/eli/oc/2005/115); [2011 2229](https://fedlex.data.admin.ch/eli/oc/2011/300); [2013 2711](https://fedlex.data.admin.ch/eli/oc/2013/554), [3559](https://fedlex.data.admin.ch/eli/oc/2013/670); [2023 258](https://fedlex.data.admin.ch/eli/oc/2023/258). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty
 
 Vorbehalte und Erklärungen
 
-Schweiz**[^t-5]**
+Schweiz[^t-5]
 
 Die Schweiz macht von der in Artikel 24 Absatz 2 des Übereinkommens vorgesehenen Vorbehaltsmöglichkeit Gebrauch und behält sich das Recht vor, das Übereinkommen nicht auf eine Ehescheidung oder Ehetrennung anzuwenden, die vor dem Inkrafttreten des Übereinkommens für die Schweiz erwirkt worden ist.
 

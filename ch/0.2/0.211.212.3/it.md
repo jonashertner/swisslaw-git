@@ -3,11 +3,11 @@ sr: "0.211.212.3"
 title: "Convenzione del 1<sup>o</sup> giugno 1970 sul riconoscimento dei divorzi e delle separazioni"
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/1546_1546_1546"
 language: it
-version: 2013-10-18
+version: 2023-05-25
 adopted: 1970-06-01
 in_force: 1976-07-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1546_1546_1546/20131018/it/xml/fedlex-data-admin-ch-eli-cc-1976-1546_1546_1546-20131018-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/1546_1546_1546/20131018/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1546_1546_1546/20230525/it/xml/fedlex-data-admin-ch-eli-cc-1976-1546_1546_1546-20230525-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/1546_1546_1546/20230525/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,20 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/1546_1546_1546/20131018/it"
 
 RU **1976** 1546; FF **1975** II 1341
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiusa all’Aia il 1° giugno 1970
+Conchiusa all’Aia il 1° giugno 1970 Approvata dall’Assemblea federale il 4 marzo 1976[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 18 maggio 1976 Entrata in vigore per la Svizzera il 17 luglio 1976
 
-Approvata dall’Assemblea federale il 4 marzo 1976[^t-2]
+(Stato 25 maggio 2023)
 
-Istrumento di ratificazione depositato dalla Svizzera il 18 maggio 1976
-
-Entrata in vigore per la Svizzera il 17 luglio 1976
-
-(Stato 18 ottobre 2013)
-
-[^t-1]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: [RU 1976 1544](https://fedlex.data.admin.ch/eli/oc/1976/1544_1544_1544)
+[^t-1]: [RU 1976 1544](https://fedlex.data.admin.ch/eli/oc/1976/1544_1544_1544)
 
 Gli Stati firmatari della presente Convenzione,
 
@@ -259,47 +252,46 @@ Il Ministero degli Affari Esteri dei Paesi Bassi notifica agli Stati previsti ne
 
 *In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto all’Aia, il primo giugno 1970, in francese e in inglese, i due testi facenti parimente fede, in un solo esemplare che sarà depositato negli archivi del Governo dei Paesi Bassi e di cui copia certificata conforme sarà consegnata, per via diplomatica, a ciascuno Stato rappresentato nell’Undicesima sessione della Conferenza dell’Aia di diritto internazionale privato. (Seguono le firme)
 
-Campo d’applicazione il 18 ottobre 2013**[^t-3]**
+Campo d’applicazione il 25 maggio 2023[^t-2]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Albania<sup>\*</sup> <sup>a</sup></td><td>7 marzo</td><td>2013 A</td><td>12 ottobre</td><td>2013</td></tr>
-<tr><td colspan="2">Australia<sup>\*</sup> <sup>a</sup></td><td>24 settembre</td><td>1985 A</td><td>13 aprile</td><td>1986</td></tr>
-<tr><td colspan="2">Ceca, Repubblica<sup>\*</sup></td><td>28 gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Cina</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">Hong Kong<sup>b</sup></td><td>16 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
-<tr><td colspan="2">Cipro<sup>\*</sup> <sup>a</sup></td><td>13 gennaio</td><td>1983 A</td><td>14 novembre</td><td>1983</td></tr>
-<tr><td colspan="2">Danimarc<sup>a\*</sup></td><td>25 giugno</td><td>1975</td><td>24 agosto</td><td>1975</td></tr>
-<tr><td colspan="2">Egitto</td><td>21 aprile</td><td>1980</td><td>20 giugno</td><td>1980</td></tr>
-<tr><td colspan="2">Estonia<sup>a</sup></td><td>7 novembre</td><td>2002 A</td><td>29 marzo</td><td>2008</td></tr>
-<tr><td colspan="2">Finlandia</td><td>16 giugno</td><td>1977</td><td>15 agosto</td><td>1977</td></tr>
-<tr><td colspan="2">Italia<sup>\*</sup></td><td>19 febbraio</td><td>1986</td><td>20 aprile</td><td>1986</td></tr>
-<tr><td colspan="2">Lussemburgo<sup>\*</sup></td><td>13 febbraio</td><td>1991</td><td>14 aprile</td><td>1991</td></tr>
-<tr><td colspan="2">Moldova<sup>\*</sup> <sup>a</sup></td><td>10 ottobre</td><td>2011 A</td><td>9 settembre</td><td>2013</td></tr>
-<tr><td colspan="2">Norvegia</td><td>15 agosto</td><td>1978</td><td>14 ottobre</td><td>1978</td></tr>
-<tr><td colspan="2">Paesi Bassi<sup>\*</sup></td><td>23 giugno</td><td>1981</td><td>22 agosto</td><td>1981</td></tr>
-<tr><td colspan="2">Aruba<sup>a</sup></td><td>28 maggio</td><td>1986 A</td><td>29 marzo</td><td>2008</td></tr>
-<tr><td colspan="2">Polonia<sup>\*</sup> <sup>a</sup></td><td>25 aprile</td><td>1996 A</td><td>29 marzo</td><td>2008</td></tr>
-<tr><td colspan="2">Portogallo</td><td>10 maggio</td><td>1985</td><td>9 luglio</td><td>1985</td></tr>
-<tr><td colspan="2">Regno Unito<sup>\*</sup></td><td>21 maggio</td><td>1974</td><td>24 agosto</td><td>1975</td></tr>
-<tr><td colspan="2">Bermuda<sup>\*</sup> <sup>a</sup></td><td>20 agosto</td><td>1982 A</td><td>11 febbraio</td><td>1983</td></tr>
-<tr><td colspan="2">Gibilterra<sup>\*</sup> <sup>a</sup></td><td>5 aprile</td><td>1977 A</td><td>4 giugno</td><td>1977</td></tr>
-<tr><td colspan="2">Guernesey<sup>\*</sup> <sup>a</sup></td><td>3 marzo</td><td>1978 A</td><td>2 maggio</td><td>1978</td></tr>
-<tr><td colspan="2">Isola di Man<sup>\*</sup> <sup>a</sup></td><td>3 marzo</td><td>1978 A</td><td>2 maggio</td><td>1978</td></tr>
-<tr><td colspan="2">Jersey<sup>\*</sup> <sup>a</sup></td><td>3 marzo</td><td>1978 A</td><td>2 maggio</td><td>1978</td></tr>
-<tr><td colspan="2">Slovacchia<sup>\*</sup></td><td>26 aprile</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Svezia</td><td>25 giugno</td><td>1975</td><td>24 agosto</td><td>1975</td></tr>
-<tr><td colspan="2">Svizzera<sup>\*</sup></td><td>18 maggio</td><td>1976</td><td>17 luglio</td><td>1976</td></tr>
-<tr><td>\*</td><td colspan="5">Riserve e dichiarazioni.</td></tr>
-<tr><td></td><td colspan="5">Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet della Conferenza dell’Aja: http://hcch.e-vision.nl/index\_fr.php oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">L’adesione è soggetta alla procedura di accettazione. La data dell’entrata in vigore è quella tra la Svizzera e questo Stato partecipante o territorio.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">Dal 4 giu. 1977 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 3 giu. 1997 la Conv. è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Albania<sup>\*</sup> <sup>a</sup></td><td>7 marzo</td><td>2013 A</td><td>12 ottobre</td><td>2013</td></tr>
+<tr><td>Australia<sup>\*</sup> <sup>a</sup></td><td>24 settembre</td><td>1985 A</td><td>13 aprile</td><td>1986</td></tr>
+<tr><td>Ceca, Repubblica<sup>\*</sup></td><td>28 gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Hong Kong <sup>b</sup></td><td>16 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>Cipro<sup>\*</sup> <sup>a</sup></td><td>13 gennaio</td><td>1983 A</td><td>14 novembre</td><td>1983</td></tr>
+<tr><td>Danimarca<sup>\*</sup> <sup>a</sup></td><td>25 giugno</td><td>1975</td><td>24 agosto</td><td>1975</td></tr>
+<tr><td>Egitto</td><td>21 aprile</td><td>1980</td><td>20 giugno</td><td>1980</td></tr>
+<tr><td>Estonia <sup>a</sup></td><td>7 novembre</td><td>2002 A</td><td>29 marzo</td><td>2008</td></tr>
+<tr><td>Finlandia</td><td>16 giugno</td><td>1977</td><td>15 agosto</td><td>1977</td></tr>
+<tr><td>Italia<sup>\*</sup></td><td>19 febbraio</td><td>1986</td><td>20 aprile</td><td>1986</td></tr>
+<tr><td>Lussemburgo<sup>\*</sup></td><td>13 febbraio</td><td>1991</td><td>14 aprile</td><td>1991</td></tr>
+<tr><td>Moldova<sup>\*</sup> <sup>a</sup></td><td>10 ottobre</td><td>2011 A</td><td>9 settembre</td><td>2013</td></tr>
+<tr><td>Norvegia</td><td>15 agosto</td><td>1978</td><td>14 ottobre</td><td>1978</td></tr>
+<tr><td>Paesi Bassi<sup>\*</sup></td><td>23 giugno</td><td>1981</td><td>22 agosto</td><td>1981</td></tr>
+<tr><td>Aruba <sup>a</sup></td><td>28 maggio</td><td>1986 A</td><td>29 marzo</td><td>2008</td></tr>
+<tr><td>Polonia<sup>\*</sup> <sup>a</sup></td><td>25 aprile</td><td>1996 A</td><td>29 marzo</td><td>2008</td></tr>
+<tr><td>Portogallo</td><td>10 maggio</td><td>1985</td><td>9 luglio</td><td>1985</td></tr>
+<tr><td>Regno Unito<sup>\*</sup></td><td>21 maggio</td><td>1974</td><td>24 agosto</td><td>1975</td></tr>
+<tr><td>Bermuda<sup>\*</sup> <sup>a</sup></td><td>13 dicembre</td><td>1982 A</td><td>11 febbraio</td><td>1983</td></tr>
+<tr><td>Gibilterra<sup>\*</sup> <sup>a</sup></td><td>5 aprile</td><td>1977 A</td><td>4 giugno</td><td>1977</td></tr>
+<tr><td>Guernesey<sup>\*</sup> <sup>a</sup></td><td>3 marzo</td><td>1978 A</td><td>2 maggio</td><td>1978</td></tr>
+<tr><td>Isola di Man<sup>\*</sup> <sup>a</sup></td><td>3 marzo</td><td>1978 A</td><td>2 maggio</td><td>1978</td></tr>
+<tr><td>Jersey<sup>\*</sup> <sup>a</sup></td><td>3 marzo</td><td>1978 A</td><td>2 maggio</td><td>1978</td></tr>
+<tr><td>Slovacchia<sup>\*</sup></td><td>26 aprile</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Svezia</td><td>25 giugno</td><td>1975</td><td>24 agosto</td><td>1975</td></tr>
+<tr><td>Svizzera<sup>\*</sup></td><td>18 maggio</td><td>1976</td><td>17 luglio</td><td>1976</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Sviz-zera. I testi, in inglese, possono essere consultati sul sito Internet del Ministero degli Affari Esteri del Regno dei Paesi Bassi: [https://treatydatabase.overheid.nl/en/Treaty/Details/002929](https://treatydatabase.overheid.nl/en/Treaty/Details/002929) oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazio-nali, 3003 Berna. <sup>a</sup> L’adesione è soggetta alla procedura di accettazione. La data dell’entrata in vigore è quella tra la Svizzera e questo Stato partecipante o territorio. <sup>b</sup> Dal 4 giu. 1977 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 3 giu. 1997 la Conv. è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong.</td></tr>
 </table>
 
-[^t-3]: [RU 2005 999](https://fedlex.data.admin.ch/eli/oc/2005/115), [2011 2229](https://fedlex.data.admin.ch/eli/oc/2011/300), [2013 2711](https://fedlex.data.admin.ch/eli/oc/2013/554)e [3559](https://fedlex.data.admin.ch/eli/oc/2013/670). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1976 1546](https://fedlex.data.admin.ch/eli/oc/1976/1546_1546_1546); [2005 999](https://fedlex.data.admin.ch/eli/oc/2005/115); [2011 2229](https://fedlex.data.admin.ch/eli/oc/2011/300); [2013 2711](https://fedlex.data.admin.ch/eli/oc/2013/554), [3559](https://fedlex.data.admin.ch/eli/oc/2013/670); [2023 258](https://fedlex.data.admin.ch/eli/oc/2023/258). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
 
 Riserva
 
-Svizzera
+Svizzera[^t-3]
 
 Conformemente all’articolo 24 capoverso 2 della Convenzione, la Svizzera si riserva il diritto di non applicare la Convenzione a un divorzio o a una separazione acquisiti prima che la Convenzione sia entrata in vigore per la Svizzera.
+
+[^t-3]: Art. 1 cpv. 1 del DF del 4 mar. 1976 ([RU 1976 1544](https://fedlex.data.admin.ch/eli/oc/1976/1544_1544_1544)).
