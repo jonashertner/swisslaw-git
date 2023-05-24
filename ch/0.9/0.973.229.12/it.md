@@ -3,11 +3,11 @@ sr: "0.973.229.12"
 title: Accordo quadro del 18 ottobre 2022 tra il Consiglio federale svizzero e il Governo della Repubblica di Croazia concernente l’attuazione del secondo contributo svizzero ad alcuni Stati membri dell’Unione europea per la riduzione delle disparità economiche e sociali nell’Unione europea
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/789"
 language: it
-version: 2022-10-18
+version: 2023-05-25
 adopted: 2022-10-18
 in_force: 2022-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/789/20221018/it/xml/fedlex-data-admin-ch-eli-cc-2022-789-20221018-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/789/20221018/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/789/20230525/it/xml/fedlex-data-admin-ch-eli-cc-2022-789-20230525-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/789/20230525/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,9 +18,11 @@ RU **2022** 789
 
 Traduzione
 
-Concluso il 18 ottobre 2022 Applicato provvisoriamente dal 18 ottobre 2022
+Concluso il 18 ottobre 2022 Applicato provvisoriamente dal 18 ottobre 2022 Entrata in vigore il 25 maggio 2023[^t-1]
 
-(Stato 18 ottobre 2022)
+(Stato 25 maggio 2023)
+
+[^t-1]: Mediante scambio di note dei 7 dicembre 2022 / 25 maggio 2023 ([RU 2023 270](https://fedlex.data.admin.ch/eli/oc/2023/270)).
 
 Il Consiglio federale svizzero (in seguito denominato «Svizzera») e il Governo della Repubblica di Croazia (in seguito denominato «Croazia»),
 

@@ -3,11 +3,11 @@ sr: "0.973.229.12"
 title: Accord-cadre du 18 octobre 2022 entre le Conseil fédéral suisse et le Gouvernement de la République de Croatie sur la mise en œuvre de la deuxième contribution de la Suisse en faveur de certains États membres de l’Union européenne visant à réduire les disparités économiques et sociales au sein de l’Union européenne
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/789"
 language: fr
-version: 2022-10-18
+version: 2023-05-25
 adopted: 2022-10-18
 in_force: 2022-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/789/20221018/fr/xml/fedlex-data-admin-ch-eli-cc-2022-789-20221018-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/789/20221018/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/789/20230525/fr/xml/fedlex-data-admin-ch-eli-cc-2022-789-20230525-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/789/20230525/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,9 +18,11 @@ RO **2022** 789
 
 Traduction
 
-Conclu le 18 octobre 2022 Appliqué provisoirement dès le 18 octobre 2022
+Conclu le 18 octobre 2022 Appliqué provisoirement dès le 18 octobre 2022 Entré en vigueur le 25 mai 2023[^t-1]
 
-(État le 18 octobre 2022)
+(État le 25 mai 2023)
+
+[^t-1]: Échange de notes des 7 déc. 2022 et 25 mai 2023 ([RO 2023 270](https://fedlex.data.admin.ch/eli/oc/2023/270)).
 
 Le Conseil fédéral suisse (ci-après dénommé la «Suisse») et le Gouvernement de la République de Croatie (ci-après dénommé «la Croatie»),
 

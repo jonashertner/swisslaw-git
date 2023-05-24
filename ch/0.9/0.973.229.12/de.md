@@ -3,11 +3,11 @@ sr: "0.973.229.12"
 title: Rahmenabkommen vom 18. Oktober 2022 zwischen dem Schweizerischen Bundesrat und der Regierung der Republik Kroatien über die Umsetzung des zweiten Schweizer Beitrags an ausgewählte Mitgliedstaaten der Europäischen Union zur Verringerung der wirtschaftlichen und sozialen Ungleichheiten in der Europäischen Union
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/789"
 language: de
-version: 2022-10-18
+version: 2023-05-25
 adopted: 2022-10-18
 in_force: 2022-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/789/20221018/de/xml/fedlex-data-admin-ch-eli-cc-2022-789-20221018-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/789/20221018/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/789/20230525/de/xml/fedlex-data-admin-ch-eli-cc-2022-789-20230525-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/789/20230525/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,9 +18,11 @@ AS **2022** 789
 
 Übersetzung
 
-Abgeschlossen am 18. Oktober 2022 Vorläufig angewendet ab dem 18. Oktober 2022
+Abgeschlossen am 18. Oktober 2022 Vorläufig angewendet ab dem 18. Oktober 2022 In Kraft getreten am 25. Mai 2023[^t-1]
 
-(Stand am 18. Oktober 2022)
+(Stand am 25. Mai 2023)
+
+[^t-1]: Notenaustausch vom 7. Dez. 2022 und 25. Mai 2023 ([AS 2023 270](https://fedlex.data.admin.ch/eli/oc/2023/270)).
 
 Der Schweizerische Bundesrat (nachfolgend als «Schweiz» bezeichnet) und Die Regierung der Republik Kroatien (nachfolgend als «Kroatien» bezeichnet),
 
