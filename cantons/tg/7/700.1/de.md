@@ -4,13 +4,13 @@ number: "700.1"
 title: Verordnung zum Planungs- und Baugesetz und zur Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe
 short: PBV
 language: de
-version: 2022-10-08
-valid_until: 2023-05-26
-version_adopted: 2022-10-04
+version: 2023-05-27
+valid_until: 2024-02-09
+version_adopted: 2023-05-16
 adopted: 2012-09-18
 in_force: 2013-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/700.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2584/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2661/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ PBV
 
 (PBV)
 
-vom 18.09.2012 (Stand 08.10.2022)
+vom 18.09.2012 (Stand 27.05.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -627,13 +627,15 @@ vom 18.09.2012 (Stand 08.10.2022)
 
 **Koordination**
 
-<sup>1</sup> Bedarf die Realisierung einer Baute oder einer Anlage neben der Baubewilligung weiterer Bewilligungen oder Stellungnahmen kantonaler Behörden, hat die Gemeindebehörde das Baugesuch spätestens mit Beginn der öffentlichen Auflage dem Amt für Raumplanung (Baugesuchszentrale) einzureichen. Einsprachen sind den massgeblichen kantonalen Fachstellen zur Stellungnahme zu unterbreiten.
+<sup>1</sup> Bedarf die Realisierung einer Baute oder einer Anlage neben der Baubewilligung weiterer Bewilligungen oder Stellungnahmen kantonaler Behörden, hat die Gemeindebehörde das Baugesuch spätestens mit Beginn der öffentlichen Auflage dem Generalsekretariat des Departements für Bau und Umwelt einzureichen.
 
-<sup>2</sup> Das Amt für Raumplanung koordiniert die kantonalen Stellungnahmen oder Entscheide und übermittelt diese der Gemeinde.
+<sup>1<sup>bis</sup></sup> Gehen Einsprachen ein und betreffen die Rügen Bereiche, die durch die kantonalen Fachstellen zu beurteilen sind, sind diese den massgeblichen Fachstellen zur Stellungnahme zu unterbreiten. Die Gemeindebehörde reicht die Einsprachen nach Ablauf der öffentlichen Auflage dem Generalsekretariat des Departements für Bau und Umwelt ein.
 
-<sup>3</sup> Die Gemeindebehörde entscheidet über das Baugesuch nach Vorliegen aller erforderlichen Stellungnahmen oder Entscheide.
+<sup>2</sup> Das Generalsekretariat des Departements für Bau und Umwelt koordiniert die kantonalen Stellungnahmen oder Entscheide und übermittelt diese der Gemeindebehörde.
 
-<sup>4</sup> Sie eröffnet dem Gesuchsteller den Entscheid über die Baubewilligung zusammen mit den weiteren erforderlichen Entscheiden und Stellungnahmen.
+<sup>3</sup> Die Gemeindebehörde entscheidet über das Baugesuch und die Einsprachen nach Vorliegen aller erforderlichen Stellungnahmen oder Entscheide.
+
+<sup>4</sup> Sie eröffnet den Parteien den Entscheid über die Baubewilligung und die Einspracheentscheide zusammen mit den weiteren erforderlichen Entscheiden und Stellungnahmen.
 
 #### § 53
 
@@ -641,9 +643,9 @@ vom 18.09.2012 (Stand 08.10.2022)
 
 <sup>1</sup> Die Auflage von Gesuchen für Bauvorhaben ausserhalb der Bauzone, mit Ausnahme geringfügiger Um- oder Anbauten ohne Auswirkungen auf die Umgebung und die Nutzungsordnung, ist rechtzeitig im kantonalen Amtsblatt zu publizieren.
 
-<sup>2</sup> Allfällige Einsprachen gegen solche Vorhaben sind dem Amt für Raumplanung sowie den weiteren betroffenen kantonalen Stellen zur Kenntnis zu bringen.
+<sup>2</sup> …
 
-<sup>3</sup> Das Amt für Raumplanung entscheidet bei allen Bauvorhaben ausserhalb der Bauzone, ob sie zonenkonform sind oder ob eine Ausnahmebewilligung nach Art. 24 ff. RPG erteilt werden kann.
+<sup>3</sup> Das Amt für Raumentwicklung entscheidet bei allen Bauvorhaben ausserhalb der Bauzone, ob sie zonenkonform sind oder ob eine Ausnahmebewilligung nach Art. 24 ff. RPG erteilt werden kann.
 
 #### § 53a
 
