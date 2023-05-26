@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 19.456 n Pa. Iv. Schneeberger. Leistungen zur Prävention sind im heutigen Umfeld eine wichtige Aufgabe von Wohlfahrtsfonds mit Ermessensleistungen
 document: Vernehmlassungsvorlage
 language: de

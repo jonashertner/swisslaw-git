@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 19.456 n Iv. pa. Schneeberger. Les prestations versées à des fins de prévention sont une tâche importante des fondations patronales de bienfaisance
 document: Projet mis en consultation
 language: fr

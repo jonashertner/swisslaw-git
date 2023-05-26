@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 19.456 n Iv. pa. Schneeberger. Le prestazioni destinate alla prevenzione costituiscono attualmente un compito importante dei fondi di previdenza con prestazioni discrezionali
 document: Progetto posto in consultazione
 language: it
