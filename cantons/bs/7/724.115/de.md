@@ -4,13 +4,13 @@ number: "724.115"
 title: Ausführungsbestimmungen zur Verordnung zum Gesetz über die Nutzung des öffentlichen Raumes
 short: ANöRV
 language: de
-version: 2021-01-01
-valid_until: 2023-05-28
-version_adopted: 2020-06-23
+version: 2023-05-29
+valid_until: 2024-06-09
+version_adopted: 2023-05-19
 adopted: 2018-12-04
 in_force: 2018-12-20
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/724.115"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5063/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6065/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Nutzung öffentlicher Raum: Ausführungsbestimmungen | Öffentlicher Raum
 
 (ANöRV)
 
-Vom 4. Dezember 2018 (Stand 1. Januar 2021)
+Vom 4. Dezember 2018 (Stand 29. Mai 2023)
 
 Das Bau- und Verkehrsdepartement des Kantons Basel-Stadt,
 
@@ -182,7 +182,7 @@ beschliesst:
 - b) Unterhaltsarbeiten an Fassaden, Fenstern, Türen und Dächern sowie wärmetechnische Dachsanierungen an im Denkmalverzeichnis eingetragenen Bauten;
 - c) liegende Dachflächenfenster (max. 10% der entsprechenden Dachfläche);
 - d) Solaranlagen auf Dächern im öffentlichen Raum, auch von im Denkmalverzeichnis inventarisierten Objekten, wenn sie die Dachfläche im rechten Winkel um höchstens 20 cm überragen, von vorne und von oben gesehen nicht über die Dachfläche hinausragen, reflexionsarm ausgeführt werden und als kompakte Fläche zusammenhängen;
-- e) kleine Bauinstallationen bis 10 m² und bis maximal 10 Tage Installationszeit;
+- e) kleine Bauinstallationen bis 10 m² und bis maximal 20 Tage Installationszeit;[^7-1]
 - f) Weihnachtsbeleuchtungen mittels Überspannung einer Strasse, Weihnachtsbäume in baubewilligten bestehenden Bodenhülsen und an öffentlichen Beleuchtungseinrichtungen;
 - g) private Apéros;
 - h) Informationsstände nach § 49 Abs. 1 NöRV;
@@ -197,6 +197,8 @@ beschliesst:
 <sup>4</sup> Eine Meldung an das Tiefbauamt hat folgende Angaben zu enthalten:
 
 - a) Meldeformular mit Orts-, Datum- und Zweckangabe. Das Tiefbauamt kann die Einreichung weiterer Unterlagen verlangen.
+
+[^7-1]: unter Verweis auf die [Erläuterungen des Tiefbauamtes](https://www.tiefbauamt.bs.ch/dam/jcr:57896136-eed9-4a49-9936-d910be9f74a8/Erl%C3%A4uterungen%20revAN%C3%B6RV_final.pdf)
 
 #### § 8
 
@@ -284,7 +286,7 @@ beschliesst:
 
 <sup>1</sup> Für Gesuche sowie Meldungen sind die vom Tiefbauamt entsprechend zur Verfügung gestellten Formulare zu verwenden. Die Formulare können im Internet[^16-1] eingesehen und elektronisch eingereicht werden.
 
-[^16-1]: www.tiefbauamt.bs.ch
+[^16-1]: [Formulare des Tiefbauamtes](https://www.tiefbauamt.bs.ch/oeffentlicher-raum/nutzung-des-oeffentlichen-raumes/formulare.html)
 
 #### § 17
 
@@ -372,7 +374,7 @@ beschliesst:
 
 <sup>1</sup> Im ordentlichen Bewilligungsverfahren wird mit dem Prüfverfahren ein Einspracheverfahren durchgeführt. Das Einspracheverfahren wird durch die Publikation von Bau- und Nutzungsgesuchen im Kantonsblatt sowie im Internet[^22-1] eingeleitet. Massgeblich für den Inhalt des Gesuches und den Fristenlauf ist die Publikation im Kantonsblatt.
 
-[^22-1]: www.tiefbauamt.bs.ch
+[^22-1]: [Internetportal Kantonsblatt des Kantons Basel Stadt](https://kantonsblatt.ch/#!/gazette)
 
 #### § 23
 
@@ -525,11 +527,13 @@ beschliesst:
 
 **Emissionen**
 
-<sup>1</sup> Grundsätzlich ist jegliche Art von Beschallung untersagt. Dies gilt auch für die indirekte Beschallung aus offenen Fenstern oder Türen. § 32 des Übertretungsstrafgesetzes vom 15. Juni 1978 ist anwendbar.
+<sup>1</sup> Grundsätzlich ist jegliche Art von Beschallung untersagt. Dies gilt auch für die indirekte Beschallung aus offenen Fenstern oder Türen. Für Beschallungen an Ruhetagen oder von 22.00 Uhr bis 07.00 Uhr ist § 5 Abs. 1 lit. b des Übertretungsstrafgesetzes vom 13. Dezember 2019 anwendbar.[^39-1]
 
 <sup>2</sup> Das Tiefbauamt kann Ausnahmen vorsehen, insbesondere bei Geschäftseröffnung oder Jubiläen.
 
 <sup>3</sup> Bei bedeutenden, medialen Grossveranstaltungen kann das Tiefbauamt eine generelle Erleichterung gewähren. Diese wird allen Betreibenden über die Medien bekannt gemacht.
+
+[^39-1]: unter Verweis auf die [Erläuterungen des Tiefbauamtes](https://www.tiefbauamt.bs.ch/dam/jcr:57896136-eed9-4a49-9936-d910be9f74a8/Erl%C3%A4uterungen%20revAN%C3%B6RV_final.pdf)
 
 #### § 40
 
@@ -574,9 +578,11 @@ beschliesst:
 
 <sup>1</sup> Pro Standort wird ein Verkaufsstand zugelassen. Es ist nicht möglich, dass eine Betreiberin oder ein Betreiber an einem Tag mehrere Standorte bespielt.
 
-<sup>2</sup> Die Fläche darf, an der Aussenkante des Wetterschutzes gemessen, in der Regel 10 m² betragen. Die effektiven Masse richten sich nach den örtlichen Begebenheiten und werden mit der Bewilligung verfügt. Der Stand funktioniert autark und ohne Anschlüsse.
+<sup>2</sup> Die Fläche darf, an der Aussenkante des Wetterschutzes gemessen, in der Regel 10 m² betragen. Die effektiven Masse richten sich nach den örtlichen Begebenheiten und werden mit der Bewilligung verfügt. Der Stand funktioniert grundsätzlich autark und ohne Anschlüsse.[^44-1]
 
 <sup>3</sup> Dazugehöriges Mobiliar im Sinne von § 39 Abs. 2 NöRV sind insbesondere Menütafeln und Sonnenschirme.
+
+[^44-1]: unter Verweis auf die [Erläuterungen des Tiefbauamtes](https://www.tiefbauamt.bs.ch/dam/jcr:57896136-eed9-4a49-9936-d910be9f74a8/Erl%C3%A4uterungen%20revAN%C3%B6RV_final.pdf)
 
 #### § 45
 
@@ -754,11 +760,15 @@ beschliesst:
 
 **Begriffe**
 
-<sup>1</sup> Als kleine Bauinstallationen gelten mobile Einrichtungen mit einer genutzten Fläche bis zu 10 m² und einer Installationszeit von weniger als 10 Tagen. Sie können insbesondere Schuttmulden, Bautoiletten, Gerüste und einzelne Container beinhalten.
+<sup>1</sup> Als kleine Bauinstallationen gelten mobile Einrichtungen mit einer genutzten Fläche bis zu 10 m² und einer Installationszeit von weniger als 20 Tagen. Sie können insbesondere Schuttmulden, Bautoiletten, Gerüste und einzelne Container beinhalten.[^58-1]
 
-<sup>2</sup> Als Bauinstallationen gelten mobile Einrichtungen mit einer genutzten Fläche von mehr als 10 m² und/oder einer Installationszeit von mehr als 10 Tagen, soweit diese keine Kranböcke oder doppelstöckige Container beinhalten oder werkhofähnlich sind.
+<sup>2</sup> Als Bauinstallationen gelten mobile Einrichtungen mit einer genutzten Fläche von mehr als 10 m² und/oder einer Installationszeit von mehr als 20 Tagen, soweit diese keine Kranböcke oder doppelstöckige Container beinhalten oder werkhofähnlich sind.[^58-2]
 
-<sup>3</sup> Als Bauplatzinstallationen gelten feste oder werkhofähnliche Einrichtungen mit einer genutzten Fläche von mehr als 10 m² und einer Installationszeit von mehr als 10 Tagen, die insbesondere Kranböcke, Fundamente, doppelstöckige Container oder grosse Materiallager beinhalten können. Bauplatzinstallationen können gleichzeitig mehrere Bauinstallationen umfassen.
+<sup>3</sup> Als Bauplatzinstallationen gelten feste oder werkhofähnliche Einrichtungen mit einer genutzten Fläche von mehr als 10 m² und einer Installationszeit von mehr als 20 Tagen, die insbesondere Kranböcke, Fundamente, doppelstöckige Container oder grosse Materiallager beinhalten können. Bauplatzinstallationen können gleichzeitig mehrere Bauinstallationen umfassen.[^58-3]
+
+[^58-1]: unter Verweis auf die [Erläuterungen des Tiefbauamtes](https://www.tiefbauamt.bs.ch/dam/jcr:57896136-eed9-4a49-9936-d910be9f74a8/Erl%C3%A4uterungen%20revAN%C3%B6RV_final.pdf)
+[^58-2]: unter Verweis auf die [Erläuterungen des Tiefbauamtes](https://www.tiefbauamt.bs.ch/dam/jcr:57896136-eed9-4a49-9936-d910be9f74a8/Erl%C3%A4uterungen%20revAN%C3%B6RV_final.pdf)
+[^58-3]: unter Verweis auf die [Erläuterungen des Tiefbauamtes](https://www.tiefbauamt.bs.ch/dam/jcr:57896136-eed9-4a49-9936-d910be9f74a8/Erl%C3%A4uterungen%20revAN%C3%B6RV_final.pdf)
 
 #### § 59
 
