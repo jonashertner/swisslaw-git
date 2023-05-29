@@ -3,11 +3,11 @@ sr: "0.747.363.321"
 title: Convention du 20 octobre 1972 sur le règlement international de 1972 pour prévenir les abordages en mer (avec règlement et annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084"
 language: fr
-version: 2020-08-18
+version: 2023-05-30
 adopted: 1972-10-20
 in_force: 1977-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084/20200818/fr/xml/fedlex-data-admin-ch-eli-cc-1977-1084_1084_1084-20200818-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1084_1084_1084/20200818/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084/20230530/fr/xml/fedlex-data-admin-ch-eli-cc-1977-1084_1084_1084-20230530-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1084_1084_1084/20230530/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Londres le 20 octobre 1972 Approuvée par l’Assemblée fédérale le 24 septembre 1975[^t-1] Instrument de ratification déposé par la Suisse le 30 décembre 1975 Entrée en vigueur pour la Suisse le 15 juillet 1977
 
-(État le 18 août 2020)
+(État le 30 mai 2023)
 
 [^t-1]: Art. 1 let. a de l’AF du 24 sept. 1975 ([RO 1977 1074](https://fedlex.data.admin.ch/eli/oc/1977/1074_1074_1074))
 
@@ -847,7 +847,7 @@ k)[^annexIII-partD-35-10] Un bateau-pilote en service de pilotage peut, outre le
 
 [^annexIII-partD-35-1]: Introduit par les Am. du 19 nov. 1981, en vigueur depuis le 1<sup>er</sup> juin 1983 ([RO 1983 876](https://fedlex.data.admin.ch/eli/oc/1983/876_876_876)).
 [^annexIII-partD-35-2]: Introduit par les Am. du 19 nov. 1981, en vigueur depuis le 1<sup>er</sup> juin 1983 ([RO 1983 876](https://fedlex.data.admin.ch/eli/oc/1983/876_876_876)).
-[^annexIII-partD-35-3]: Anciennement lettre d).
+[^annexIII-partD-35-3]: Anciennement lettre d). Erratum du 30 mai 2023, ne concerne que le texte allemand ([RO 2023 257](https://fedlex.data.admin.ch/eli/oc/2023/257)).
 [^annexIII-partD-35-4]: Anciennement lettre e).
 [^annexIII-partD-35-5]: Anciennement lettre f).
 [^annexIII-partD-35-6]: Anciennement lettre g).

@@ -3,11 +3,11 @@ sr: "0.747.363.321"
 title: Übereinkommen vom 20. Oktober 1972 über die internationalen Regeln zur Verhütung von Zusammenstössen auf See von 1972 (mit Seestrassenordnung und Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084"
 language: de
-version: 2020-08-18
+version: 2023-05-30
 adopted: 1972-10-20
 in_force: 1977-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084/20200818/de/xml/fedlex-data-admin-ch-eli-cc-1977-1084_1084_1084-20200818-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1084_1084_1084/20200818/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084/20230530/de/xml/fedlex-data-admin-ch-eli-cc-1977-1084_1084_1084-20230530-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1084_1084_1084/20230530/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1977** 1084; BBl **1975** I 929
 
 Abgeschlossen in London am 20. Oktober 1972 Von der Bundesversammlung genehmigt am 24. September 1975[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 30. Dezember 1975 In Kraft getreten für die Schweiz am 15. Juli 1977
 
-(Stand am 18. August 2020)
+(Stand am 30. Mai 2023)
 
 [^t-1]: Art. 1 Bst. A des BB vom 24. Sept. 1975 (**AS 1977** 1074)
 
@@ -765,7 +765,7 @@ c) Ein manövrierunfähiges Fahrzeug, ein manövrierbehindertes Fahrzeug, ein du
 
 d)[^annexu1-annexIII-partD-lvlu4-1] Ein fischendes Fahrzeug vor Anker und ein manövrierbehindertes Fahrzeug, das bei der Ausführung seiner Arbeiten vor Anker liegt, müssen an Stelle der unter Buchstabe g) vorgeschriebenen Signale das unter Buchstabe c) vorgeschriebene Signal geben.
 
-e)[^annexu1-annexIII-partD-lvlu4-2] Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppzugs muss mindestens alle 2 Minuten vier aufeinanderfolgende Töne – lang, kurz, kurz, kurz – geben. Dieses Signal muss möglichst unmittelbar nach dem Signal des schleppenden Fahrzeugs gegeben werden.
+e)[^annexu1-annexIII-partD-lvlu4-2] Ein geschlepptes Fahrzeug oder, wenn mehr als ein Fahrzeug geschleppt wird, das letzte Fahrzeug des Schleppzugs muss, sofern es bemannt ist, mindestens alle zwei Minuten vier aufeinanderfolgende Töne – lang, kurz, kurz, kurz – geben. Dieses Signal muss möglichst unmittelbar nach dem Signal des schleppenden Fahrzeugs gegeben werden.
 
 f)[^annexu1-annexIII-partD-lvlu4-3] Wenn ein schiebendes und ein davor geschobenes Fahrzeug starr miteinander zu einer zusammengesetzten Einheit verbunden sind, gelten sie als ein Maschinenfahrzeug und müssen die in den Buchstaben a) oder b) dieser Regel vorgeschriebenen Signale geben.
 
@@ -780,7 +780,7 @@ j)[^annexu1-annexIII-partD-lvlu4-8] Ein Fahrzeug von weniger als 12 m Länge bra
 k)[^annexu1-annexIII-partD-lvlu4-9] Ein Lotsenfahrzeug im Lotsendienst darf zusätzlich zu den in den Buchstaben a), b) oder g)[^annexu1-annexIII-partD-lvlu4-10] dieser Regel vorgeschriebenen Signalen ein Erkennungssignal von vier kurzen Tönen geben.
 
 [^annexu1-annexIII-partD-lvlu4-1]: Eingefügt am 19. Nov. 1981, in Kraft für die Schweiz seit 1. Juni 1983 ([AS 1983 876](https://fedlex.data.admin.ch/eli/oc/1983/876_876_876)).
-[^annexu1-annexIII-partD-lvlu4-2]: Ursprünglich Bst. d.
+[^annexu1-annexIII-partD-lvlu4-2]: Ursprünglich Bst. d. Berichtigung vom 30. Mai 2023 ([AS 2023 257](https://fedlex.data.admin.ch/eli/oc/2023/257)).
 [^annexu1-annexIII-partD-lvlu4-3]: Ursprünglich Bst. e.
 [^annexu1-annexIII-partD-lvlu4-4]: Ursprünglich Bst. f.
 [^annexu1-annexIII-partD-lvlu4-5]: Ursprünglich Bst. g.
@@ -1370,7 +1370,7 @@ Geltungsbereich am 18. August 2020[^t-6]
 <tr><td>Zypern</td><td>4. November</td><td>1980 B</td><td>4. November</td><td colspan="2">1980</td></tr>
 <tr><td colspan="6">\* Vorbehalte und Erklärungen.</td></tr>
 <tr><td colspan="6">\*\* Einwendungen.</td></tr>
-<tr><td colspan="6">Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (IMO): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="6">Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (IMO): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="6"><sup>a</sup> Vom 15. Juli 1977 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 5. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 <tr><td colspan="6"><sup>b</sup> Vom 22. März 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 11. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
 <tr><td colspan="6"><sup>c</sup> Der im Jahre 1977 zwischen den Vereinigten Staaten von Amerika und Panama vereinbarte schrittweise Rückgabeprozess der Kanalzone an Panama wurde am 31. Dez. 1999 abgeschlossen. Ab diesem Datum übt Panama die vollständige Hoheitsgewalt über die Kanalzone und den Kanal aus.</td></tr>

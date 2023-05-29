@@ -3,11 +3,11 @@ sr: "0.747.363.321"
 title: Convenzione del 20 ottobre 1972 sul regolamento internazionale del 1972 per prevenire gli abbordi in mare (con R e All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084"
 language: it
-version: 2020-08-18
+version: 2023-05-30
 adopted: 1972-10-20
 in_force: 1977-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084/20200818/it/xml/fedlex-data-admin-ch-eli-cc-1977-1084_1084_1084-20200818-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1084_1084_1084/20200818/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084/20230530/it/xml/fedlex-data-admin-ch-eli-cc-1977-1084_1084_1084-20230530-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1084_1084_1084/20230530/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Londra il 20 ottobre 1972 Approvata dall’Assemblea federale il 24 settembre 1975[^t-1] Ratificata dalla Svizzera con strumento depositato il 30 dicembre 1975 Entrata in vigore per la Svizzera il 15 luglio 1977
 
-(Stato 18 agosto 2020)
+(Stato 30 maggio 2023)
 
 [^t-1]: Art. 1 lett. a del DF del 24 set. 1975 ([RU 1977 1074](https://fedlex.data.admin.ch/eli/oc/1977/1074_1074_1074)).
 
@@ -778,7 +778,7 @@ j)[^annexu1-partD-lvlu4-8] La nave pilota in servizio di pilotaggio può, oltre 
 k)[^annexu1-partD-lvlu4-10] La nave pilota in servizio di pilotaggio può, oltre ai segnali prescritti ai paragrafi a), b) o g)[^annexu1-partD-lvlu4-11] della presente regola, emettere un segnale d’identificazione consistente in quattro suoni brevi.
 
 [^annexu1-partD-lvlu4-1]: Introdotto dall’emendamento del 19 nov. 1981, in vigore per la Svizzera dal 1° giu. 1983 ([RU 1983 876](https://fedlex.data.admin.ch/eli/oc/1983/876_876_876)).
-[^annexu1-partD-lvlu4-2]: Originaria lett. d.
+[^annexu1-partD-lvlu4-2]: Originaria lett. d. La correzione del 30 mag. 2023 concerne soltanto il testo tedesco ([RU 2023 257](https://fedlex.data.admin.ch/eli/oc/2023/257)).
 [^annexu1-partD-lvlu4-3]: Originaria lett. e.
 [^annexu1-partD-lvlu4-4]: Originaria lett. f.
 [^annexu1-partD-lvlu4-5]: Originaria lett. g.
