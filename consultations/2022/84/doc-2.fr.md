@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification des ordonnances d’exécution (OASA, OERE, OA 2) relatives à la loi fédérale sur les étrangers et l’intégration et à la loi sur l’asile (modification du statut de l’admission à titre provisoire)"
 document: Projet mis en consultation-1
 language: fr

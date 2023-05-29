@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica delle ordinanze esecutive (OASA, OEAE; OAsi 2) relative alla legge federale sugli stranieri e la loro integrazione e alla legge sull’asilo (adeguamenti dello statuto dell’ammissione provvisoria)"
 document: Progetto posto in consultazione-1
 language: it

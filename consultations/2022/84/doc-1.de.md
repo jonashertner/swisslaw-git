@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Ausführungsverordnungen (VZAE, VVWAL, AsylV 2) zum Ausländer- und Integrationsgesetz und zum Asylgesetz (Anpassungen des Status der vorläufigen Aufnahme)"
 document: Vernehmlassungsvorlage-3
 language: de
