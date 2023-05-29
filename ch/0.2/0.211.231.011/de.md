@@ -4,11 +4,11 @@ title: "Übereinkommen vom 19. Oktober 1996 über die Zuständigkeit, das anzuwe
 short: HKsÜ
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/380"
 language: de
-version: 2020-09-03
+version: 2023-05-30
 adopted: 1996-10-19
 in_force: 2009-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/380/20200903/de/xml/fedlex-data-admin-ch-eli-cc-2009-380-20200903-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/380/20200903/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/380/20230530/de/xml/fedlex-data-admin-ch-eli-cc-2009-380-20230530-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/380/20230530/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,13 +17,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/380/20200903/de"
 
 AS **2009** 3085; BBl **2007** 2595
 
-Übersetzung*[^t-1]*
+Übersetzung[^t-1]
 
 (Haager Kindesschutzübereinkommen, HKsÜ)
 
 Abgeschlossen in Den Haag am 19. Oktober 1996 Von der Bundesversammlung genehmigt am 21. Dezember 2007[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 27. März 2009 In Kraft getreten für die Schweiz am 1. Juli 2009
 
-(Stand am 3. September 2020)
+(Stand am 30. Mai 2023)
 
 [^t-1]: Gemeinsame deutsche Übersetzung nach dem Ergebnis der Übersetzungskonferenz in Bern vom 10. bis 14. Februar 1997.
 [^t-2]: Art. 1 Abs. 1 Bst. a des BB vom 21. Dez. 2007 ([AS 2009 3077](https://fedlex.data.admin.ch/eli/oc/2009/379)).
@@ -551,7 +551,7 @@ Der Depositar notifiziert den Mitgliedstaaten der Haager Konferenz für Internat
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen in Den Haag am 19. Oktober 1996 in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv der Regierung des Königreichs der Niederlande hinterlegt und von der jedem Staat, der zur Zeit der Achtzehnten Tagung der Haager Konferenz für Internationales Privatrecht Mitglied der Konferenz war, auf diplomatischem Weg eine beglaubigte Abschrift übermittelt wird. (Es folgen die Unterschriften)
 
-Zentrale Behörden der Schweiz**[^t-3]**
+Zentrale Behörden der Schweiz[^t-3]
 
 ## Zentrale Behörde des Bundes
 
@@ -575,15 +575,17 @@ Email: kindesschutz@bj.admin.ch
 
 www.bj.admin.ch/ &gt; Gesellschaft &gt; Internationaler Kindesschutz &gt; Weitere Infos &gt; Dokumente &gt; Adressliste der Zentralen Behörden in der Schweiz
 
-Geltungsbereich am 3. September 2020**[^t-4]**
+Geltungsbereich am 30. Mai 2023[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien\*</td><td>18. Mai</td><td>2006 B</td><td>1. April</td><td>2007</td></tr>
 <tr><td>Armenien\*</td><td>1. März</td><td>2007 B</td><td>1. Mai</td><td>2008</td></tr>
 <tr><td>Australien</td><td>29. April</td><td>2003</td><td>1. August</td><td>2003</td></tr>
+<tr><td>Barbados</td><td>11. Juli</td><td>2019 B</td><td>1. Mai</td><td>2020</td></tr>
 <tr><td>Belgien<sup>\*</sup></td><td>28. Mai</td><td>2014</td><td>1. September</td><td>2014</td></tr>
 <tr><td>Bulgarien\*</td><td>8. März</td><td>2006 B</td><td>1. Februar</td><td>2007</td></tr>
+<tr><td>Costa Rica</td><td>29. Oktober</td><td>2020 B</td><td>1. August</td><td>2021</td></tr>
 <tr><td>Dänemark<sup>\*</sup></td><td>30. Juni</td><td>2011</td><td>1. Oktober</td><td>2011</td></tr>
 <tr><td>Grönland</td><td>22. April</td><td>2016</td><td>1. Juli</td><td>2016</td></tr>
 <tr><td>Deutschland\*</td><td>17. September</td><td>2010</td><td>1. Januar</td><td>2011</td></tr>
@@ -599,8 +601,9 @@ Geltungsbereich am 3. September 2020**[^t-4]**
 <tr><td>Honduras</td><td>16. Oktober</td><td>2017 B</td><td>1. August</td><td>2018</td></tr>
 <tr><td>Irland\*</td><td>30. September</td><td>2010</td><td>1. Januar</td><td>2011</td></tr>
 <tr><td>Italien<sup>\*</sup></td><td>30. September</td><td>2015</td><td>1. Januar</td><td>2016</td></tr>
+<tr><td>Kap Verde</td><td>4. Oktober</td><td>2022 B</td><td>1. August</td><td>2023</td></tr>
 <tr><td>Kroatien\*</td><td>4. September</td><td>2009</td><td>1. Januar</td><td>2010</td></tr>
-<tr><td>Kuba<sup>\*</sup></td><td>2. Februar</td><td>2017 B</td><td>1. Dezember</td><td>2017</td></tr>
+<tr><td>Kuba\*</td><td>20. Februar</td><td>2017 B</td><td>1. Dezember</td><td>2017</td></tr>
 <tr><td>Lesotho</td><td>18. Juni</td><td>2012 B</td><td>1. Juni</td><td>2013</td></tr>
 <tr><td>Lettland\*</td><td>12. Dezember</td><td>2002</td><td>1. April</td><td>2003</td></tr>
 <tr><td>Litauen\*</td><td>29. Oktober</td><td>2003 B</td><td>1. September</td><td>2004</td></tr>
@@ -609,7 +612,7 @@ Geltungsbereich am 3. September 2020**[^t-4]**
 <tr><td>Marokko</td><td>22. August</td><td>2002</td><td>1. Dezember</td><td>2002</td></tr>
 <tr><td>Monaco</td><td>14. Mai</td><td>1997</td><td>1. Januar</td><td>2002</td></tr>
 <tr><td>Montenegro</td><td>14. Februar</td><td>2012 B</td><td>1. Januar</td><td>2013</td></tr>
-<tr><td>Nicaragua</td><td>5. Februar</td><td>2019 B</td><td>1. Dezember</td><td>2019</td></tr>
+<tr><td>Nicaragua\*</td><td>27. Februar</td><td>2019 B</td><td>1. Dezember</td><td>2019</td></tr>
 <tr><td>Niederlande\*</td><td>31. Januar</td><td>2011</td><td>1. Mai</td><td>2011</td></tr>
 <tr><td>Curaçao</td><td>31. Januar</td><td>2011</td><td>1. Mai</td><td>2011</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>31. Januar</td><td>2011</td><td>1. Mai</td><td>2011</td></tr>
@@ -634,10 +637,10 @@ Geltungsbereich am 3. September 2020**[^t-4]**
 <tr><td>Vereinigtes Königreich<sup>\*</sup></td><td>27. Juli</td><td>2012</td><td>1. November</td><td>2012</td></tr>
 <tr><td>Gibraltar</td><td>27. Juli</td><td>2012</td><td>1. November</td><td>2012</td></tr>
 <tr><td>Zypern\*</td><td>21. Juli</td><td>2010</td><td>1. November</td><td>2010</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Haager Konferenz: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Niederländischen Regierung: www.overheid.nl &gt; English &gt; Treaty Database &gt; 007396 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-4]: [AS 2009 3085](https://fedlex.data.admin.ch/eli/oc/2009/380), [2011 2965](https://fedlex.data.admin.ch/eli/oc/2011/384), [2014 543](https://fedlex.data.admin.ch/eli/oc/2014/108), [2015 4285](https://fedlex.data.admin.ch/eli/oc/2015/722), **2017** 5236, [2020 3775](https://fedlex.data.admin.ch/eli/oc/2020/686). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-4]: [AS 2009 3085](https://fedlex.data.admin.ch/eli/oc/2009/380); [2011 2965](https://fedlex.data.admin.ch/eli/oc/2011/384); [2014 543](https://fedlex.data.admin.ch/eli/oc/2014/108); [2015 4285](https://fedlex.data.admin.ch/eli/oc/2015/722); [2017 5235](https://fedlex.data.admin.ch/eli/oc/2017/578); [2020 3775](https://fedlex.data.admin.ch/eli/oc/2020/686); [2023 265](https://fedlex.data.admin.ch/eli/oc/2023/265). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

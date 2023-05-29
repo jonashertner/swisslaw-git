@@ -3,11 +3,11 @@ sr: "0.211.231.011"
 title: "Convenzione del 19 ottobre 1996 concernente la competenza, la legge applicabile, il riconoscimento, l'esecuzione e la cooperazione in materia di responsabilità genitoriale e di misure di protezione dei minori (Convenzione dell'Aia sulla protezione dei minori)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/380"
 language: it
-version: 2020-09-03
+version: 2023-05-30
 adopted: 1996-10-19
 in_force: 2009-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/380/20200903/it/xml/fedlex-data-admin-ch-eli-cc-2009-380-20200903-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/380/20200903/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/380/20230530/it/xml/fedlex-data-admin-ch-eli-cc-2009-380-20230530-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/380/20230530/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -28,7 +28,7 @@ Ratificata dalla Svizzera con strumento depositato il 27 marzo 2009
 
 Entrata in vigore per la Svizzera il 1° luglio 2009
 
-(Stato 3 settembre 2020)
+(Stato 30 maggio 2023)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 21 dic. 2007 ([RU 2009 3077](https://fedlex.data.admin.ch/eli/oc/2009/379)).
 
@@ -538,7 +538,7 @@ Il depositario notificherà agli Stati membri della Conferenza dell’Aia di dir
 
 *In fede di che,* i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto all’Aia, il 19 ottobre 1996, in francese e in inglese, entrambi i testi facenti ugualmente fede, in una sola copia, che sarà depositata negli archivi del Governo del Regno dei Paesi Bassi e di cui una copia autenticata sarà consegnata, per via diplomatica, a ciascuno degli Stati membri della Conferenza dell’Aia di diritto internazionale privato in occasione della Diciottesima sessione. (Seguono le firme)
 
-Autorità centrali della Svizzera**[^t-2]**
+Autorità centrali della Svizzera[^t-2]
 
 ## Autorità centrale federale
 
@@ -562,7 +562,7 @@ Email: kindesschutz@bj.admin.ch
 
 www.bj.admin.ch &gt; Società &gt; Protezione internazionale dei minori &gt; Info complementari &gt; Documenti &gt; Lista di indirizzi delle Autorità centrali della Svizzera
 
-Campo d’applicazione il 3 settembre 2020**[^t-3]**
+Campo d’applicazione il 30 maggio 2023[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -570,12 +570,15 @@ Campo d’applicazione il 3 settembre 2020**[^t-3]**
 <tr><td>Armenia\*</td><td>1° marzo</td><td>2007 A</td><td>1° maggio</td><td>2008</td></tr>
 <tr><td>Australia</td><td>29 aprile</td><td>2003</td><td>1° agosto</td><td>2003</td></tr>
 <tr><td>Austria\*</td><td>22 dicembre</td><td>2010</td><td>1° aprile</td><td>2011</td></tr>
+<tr><td>Barbados</td><td>11 luglio</td><td>2019 A</td><td>1° maggio</td><td>2020</td></tr>
 <tr><td>Belgio<sup>\*</sup></td><td>28 maggio</td><td>2014</td><td>1° settembre</td><td>2014</td></tr>
 <tr><td>Bulgaria\*</td><td>8 marzo</td><td>2006 A</td><td>1° febbraio</td><td>2007</td></tr>
+<tr><td>Capo Verde</td><td>4 ottobre</td><td>2022 A</td><td>1° agosto</td><td>2023</td></tr>
 <tr><td>Ceca, Repubblica\*</td><td>13 marzo</td><td>2000</td><td>1° gennaio</td><td>2002</td></tr>
 <tr><td>Cipro\*</td><td>21 luglio</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
+<tr><td>Costa Rica</td><td>29 ottobre</td><td>2020 A</td><td>1° agosto</td><td>2021</td></tr>
 <tr><td>Croazia\*</td><td>4 settembre</td><td>2009</td><td>1° gennaio</td><td>2010</td></tr>
-<tr><td>Cuba<sup>\*</sup></td><td>2 febbraio</td><td>2017 A</td><td>1° dicembre</td><td>2017</td></tr>
+<tr><td>Cuba\*</td><td>20 febbraio</td><td>2017 A</td><td>1° dicembre</td><td>2017</td></tr>
 <tr><td>Danimarca<sup>\*</sup></td><td>30 giugno</td><td>2011</td><td>1° ottobre</td><td>2011</td></tr>
 <tr><td>Groenlandia</td><td>22 aprile</td><td>2016</td><td>1° luglio</td><td>2016</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>14 dicembre</td><td>2009 A</td><td>1° ottobre</td><td>2010</td></tr>
@@ -599,7 +602,7 @@ Campo d’applicazione il 3 settembre 2020**[^t-3]**
 <tr><td>Marocco</td><td>22 agosto</td><td>2002</td><td>1° dicembre</td><td>2002</td></tr>
 <tr><td>Monaco</td><td>14 maggio</td><td>1997</td><td>1° gennaio</td><td>2002</td></tr>
 <tr><td>Montenegro</td><td>14 febbraio</td><td>2012 A</td><td>1° gennaio</td><td>2013</td></tr>
-<tr><td>Nicaragua</td><td>5 febbraio</td><td>2019 A</td><td>1° dicembre</td><td>2019</td></tr>
+<tr><td>Nicaragua\*</td><td>27 febbraio</td><td>2019 A</td><td>1° dicembre</td><td>2019</td></tr>
 <tr><td>Norvegia<sup>\*</sup></td><td>30 marzo</td><td>2016</td><td>1° luglio</td><td>2016</td></tr>
 <tr><td>Paesi Bassi\*</td><td>31 gennaio</td><td>2011</td><td>1° maggio</td><td>2011</td></tr>
 <tr><td>Curaçao</td><td>31 gennaio</td><td>2011</td><td>1° maggio</td><td>2011</td></tr>
@@ -621,10 +624,10 @@ Campo d’applicazione il 3 settembre 2020**[^t-3]**
 <tr><td>Ucraina\*</td><td>3 aprile</td><td>2007 A</td><td>1° febbraio</td><td>2008</td></tr>
 <tr><td>Ungheria\*</td><td>13 gennaio</td><td>2006</td><td>1° maggio</td><td>2006</td></tr>
 <tr><td>Uruguay</td><td>17 novembre</td><td>2009</td><td>1° marzo</td><td>2010</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi in inglese possono essere consultati sul sito Internet del Ministero degli Affari Esteri del Regno dei Paesi Bassi: [https://treatydatabase.overheid.nl &gt; English &gt; Treaty Database](https://treatydatabase.overheid.nl/en/Treaty/Details/007396.html) oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna..</td></tr>
 </table>
 
-[^t-3]: [RU 2009 3085](https://fedlex.data.admin.ch/eli/oc/2009/380), [2011 2965](https://fedlex.data.admin.ch/eli/oc/2011/384), [2014 543](https://fedlex.data.admin.ch/eli/oc/2014/108), [2015 4285](https://fedlex.data.admin.ch/eli/oc/2015/722), **2017** 5236 e [2020 3775](https://fedlex.data.admin.ch/eli/oc/2020/686). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (http://www.dfae.admin.ch/trattati).
+[^t-3]: [RU 2009 3085](https://fedlex.data.admin.ch/eli/oc/2009/380); [2011 2965](https://fedlex.data.admin.ch/eli/oc/2011/384); [2014 543](https://fedlex.data.admin.ch/eli/oc/2014/108); [2015 4285](https://fedlex.data.admin.ch/eli/oc/2015/722); [2017 5235](https://fedlex.data.admin.ch/eli/oc/2017/578); [2020 3775](https://fedlex.data.admin.ch/eli/oc/2020/686); [2023 265](https://fedlex.data.admin.ch/eli/oc/2023/265). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 Riserve e dichiarazioni
 
