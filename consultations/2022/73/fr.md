@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur le financement de la surveillance de la correspondance par poste et télécommunication (OF-SCPT)
 document: Projet mis en consultation
 language: fr

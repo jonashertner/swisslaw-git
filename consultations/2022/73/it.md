@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sul finanziamento della sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (OF-SCPT)
 document: Progetto posto in consultazione
 language: it

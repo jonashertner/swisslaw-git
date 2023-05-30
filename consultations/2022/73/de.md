@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Finanzierung der Überwachung des Post- und Fernmeldeverkehrs (FV-ÜPF)
 document: Vernehmlassungsvorlage
 language: de
