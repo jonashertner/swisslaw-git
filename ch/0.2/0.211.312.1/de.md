@@ -3,11 +3,11 @@ sr: "0.211.312.1"
 title: Übereinkommen vom 5. Oktober 1961 über das auf die Form letztwilliger Verfügungen anzuwendende Recht
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/1370_1366_1366"
 language: de
-version: 2017-10-03
+version: 2023-05-31
 adopted: 1961-10-05
 in_force: 1971-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1370_1366_1366/20171003/de/xml/fedlex-data-admin-ch-eli-cc-1971-1370_1366_1366-20171003-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/1370_1366_1366/20171003/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1370_1366_1366/20230531/de/xml/fedlex-data-admin-ch-eli-cc-1971-1370_1366_1366-20230531-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/1370_1366_1366/20230531/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 18. August 1971
 
 In Kraft getreten für die Schweiz am 17. Oktober 1971
 
-(Stand am 3. Oktober 2017)
+(Stand am 31. Mai 2023)
 
 [^t-1]: [AS 1971 1369](https://fedlex.data.admin.ch/eli/oc/1971/1369_1365_1365)
 
@@ -168,7 +168,7 @@ Das Ministerium für Auswärtige Angelegenheiten der Niederlande notifiziert den
 
 *Zu Urkund dessen* haben die gehörig bevollmächtigten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen in Den Haag, am 5. Oktober 1961, in englischer und französischer Sprache, wobei im Falle von Abweichungen der französische Wortlaut massgebend ist, in einer einzigen Ausfertigung, die im Archiv der Regierung der Niederlande hinterlegt und von der jedem bei der Neunten Tagung der Haager Konferenz für internationales Privatrecht vertretenen Staat eine beglaubigte Abschrift auf diplomatischem Weg übermittelt wird. (Es folgen die Unterschriften)
 
-Geltungsbereich am 3. Oktober 2017**[^t-2]**
+Geltungsbereich am 31. Mai 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -185,7 +185,7 @@ Geltungsbereich am 3. Oktober 2017**[^t-2]**
 <tr><td>Botsuana\*</td><td>18. November</td><td>1968 B</td><td>17. Januar</td><td>1969</td></tr>
 <tr><td>Brunei</td><td>10. Mai</td><td>1988 B</td><td>9. Juli</td><td>1988</td></tr>
 <tr><td>China</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Hongkong<sup>a</sup></td><td>16. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
+<tr><td>Hongkong <sup>a</sup></td><td>16. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td>Dänemark</td><td>21. Juli</td><td>1976</td><td>19. September</td><td>1976</td></tr>
 <tr><td>Deutschland</td><td>2. November</td><td>1965</td><td>1. Januar</td><td>1966</td></tr>
 <tr><td>Estland\*</td><td>13. Mai</td><td>1998 B</td><td>12. Juli</td><td>1998</td></tr>
@@ -207,7 +207,7 @@ Geltungsbereich am 3. Oktober 2017**[^t-2]**
 <tr><td>Montenegro</td><td>1. März</td><td>2007 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Niederlande\*</td><td>2. Juni</td><td>1982</td><td>1. August</td><td>1982</td></tr>
 <tr><td>Aruba</td><td>1. Januar</td><td>1986</td><td>2. März</td><td>1986</td></tr>
-<tr><td>Mazedonien</td><td>23. September</td><td>1993 N</td><td>8. September</td><td>1991</td></tr>
+<tr><td>Nordmazedonien</td><td>23. September</td><td>1993 N</td><td>8. September</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>2. November</td><td>1972</td><td>1. Januar</td><td>1973</td></tr>
 <tr><td>Österreich\*</td><td>28. Oktober</td><td>1963</td><td>5. Januar</td><td>1964</td></tr>
 <tr><td>Polen\*</td><td>3. September</td><td>1969 B</td><td>2. November</td><td>1969</td></tr>
@@ -217,29 +217,29 @@ Geltungsbereich am 3. Oktober 2017**[^t-2]**
 <tr><td>Slowenien</td><td>8. Juni</td><td>1992 N</td><td>25. Juni</td><td>1991</td></tr>
 <tr><td>Spanien</td><td>11. April</td><td>1988</td><td>10. Juni</td><td>1988</td></tr>
 <tr><td>Südafrika\*</td><td>5. Oktober</td><td>1970 B</td><td>4. Dezember</td><td>1970</td></tr>
-<tr><td>Tonga\*</td><td>10. August</td><td>1978 N</td><td>14. Februar</td><td>1965</td></tr>
+<tr><td>Tonga\*</td><td>10. August</td><td>1978 N</td><td>4. Juni</td><td>1970</td></tr>
 <tr><td>Türkei\*</td><td>23. August</td><td>1983 B</td><td>22. Oktober</td><td>1983</td></tr>
 <tr><td>Ukraine\*</td><td>15. März</td><td>2011 B</td><td>14. Mai</td><td>2011</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>6. November</td><td>1963</td><td>5. Januar</td><td>1964</td></tr>
-<tr><td>Anguilla<sup>\*</sup></td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
-<tr><td>Bermudas<sup>\*</sup></td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
-<tr><td>Britische Jungferninseln<sup>\*</sup></td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
-<tr><td>Falklandinseln<sup>\*</sup></td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
-<tr><td>Gibraltar<sup>\*</sup></td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
-<tr><td>Insel Man<sup>\*</sup></td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
-<tr><td>Kaimaninseln<sup>\*</sup></td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
-<tr><td>Montserrat<sup>\*</sup></td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
-<tr><td>St. Helena<sup>\*</sup></td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
-<tr><td>Turks- und Caicosinseln<sup>\*</sup></td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Haager Konferenz: http://hcch.e-vision.nl/index\_fr.php eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden</td></tr>
+<tr><td>Anguilla\*</td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
+<tr><td>Bermudas\*</td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
+<tr><td>Britische Jungferninseln\*</td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
+<tr><td>Falklandinseln\*</td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
+<tr><td>Gibraltar\*</td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
+<tr><td>Insel Man\*</td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
+<tr><td>Kaimaninseln\*</td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
+<tr><td>Montserrat\*</td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
+<tr><td>St. Helena\*</td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
+<tr><td>Turks- und Caicosinseln\*</td><td>16. Dezember</td><td>1964</td><td>14. Februar</td><td>1965</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Niederländischen Regierung: www.overheid.nl &gt; English &gt; Treaty Database &gt; 009050 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Vom 23. August 1968 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des VereinigtenKönigreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 16. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 </table>
 
 ## Vorbehalte und Erklärungen
 
-[^t-2]: [AS 1971 1370](https://fedlex.data.admin.ch/eli/oc/1971/1370_1366_1366), [1976 1944](https://fedlex.data.admin.ch/eli/oc/1976/1944_1944_1944), [1978 803](https://fedlex.data.admin.ch/eli/oc/1978/803_803_803),[1979 1014](https://fedlex.data.admin.ch/eli/oc/1979/1014_1014_1014), [1982 1359](https://fedlex.data.admin.ch/eli/oc/1982/1359_1359_1359), [1983 1434](https://fedlex.data.admin.ch/eli/oc/1983/1434_1434_1434), [1985 1374](https://fedlex.data.admin.ch/eli/oc/1985/1374_1374_1374), [1987 497](https://fedlex.data.admin.ch/eli/oc/1987/497_497_497), [1988 2025](https://fedlex.data.admin.ch/eli/oc/1988/2025_2025_2025), [1994 1795](https://fedlex.data.admin.ch/eli/oc/1994/1795_1795_1795), [2005 4939](https://fedlex.data.admin.ch/eli/oc/2005/668), [2009 3149](https://fedlex.data.admin.ch/eli/oc/2009/391), [2014 545](https://fedlex.data.admin.ch/eli/oc/2014/109), 2017 5239. Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1971 1370](https://fedlex.data.admin.ch/eli/oc/1971/1370_1366_1366); [1976 1944](https://fedlex.data.admin.ch/eli/oc/1976/1944_1944_1944); [1978 803](https://fedlex.data.admin.ch/eli/oc/1978/803_803_803); [1979 1014](https://fedlex.data.admin.ch/eli/oc/1979/1014_1014_1014); [1982 1359](https://fedlex.data.admin.ch/eli/oc/1982/1359_1359_1359); [1983 1434](https://fedlex.data.admin.ch/eli/oc/1983/1434_1434_1434); [1985 1374](https://fedlex.data.admin.ch/eli/oc/1985/1374_1374_1374); [1987 497](https://fedlex.data.admin.ch/eli/oc/1987/497_497_497); [1988 2025](https://fedlex.data.admin.ch/eli/oc/1988/2025_2025_2025); [1994 1795](https://fedlex.data.admin.ch/eli/oc/1994/1795_1795_1795); [2005 4939](https://fedlex.data.admin.ch/eli/oc/2005/668); [2009 3149](https://fedlex.data.admin.ch/eli/oc/2009/391); [2014 545](https://fedlex.data.admin.ch/eli/oc/2014/109); [2017 5239](https://fedlex.data.admin.ch/eli/oc/2017/580); [2023 269](https://fedlex.data.admin.ch/eli/oc/2023/269). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
-Schweiz**[^scopeu1-lvlu1-1]**
+Schweiz[^scopeu1-lvlu1-1]
 
 Anlässlich der Ratifikation des Übereinkommens hat die Schweiz den Vorbehalt gemäss Artikel 10 geltend gemacht. Sie wird infolge dessen letztwillige Verfügungen nicht anerkennen, die einer ihrer Staatsangehörigen, der keine andere Staatsangehörigkeit besass, ausgenommen den Fall aussergewöhnlicher Umstände, in mündlicher Form errichtet hat.
 

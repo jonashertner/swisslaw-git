@@ -3,11 +3,11 @@ sr: "0.211.312.1"
 title: Convenzione del 5 ottobre 1961 sui conflitti di leggi relativi alla forma delle disposizioni testamentarie
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/1370_1366_1366"
 language: it
-version: 2017-10-03
+version: 2023-05-31
 adopted: 1961-10-05
 in_force: 1971-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1370_1366_1366/20171003/it/xml/fedlex-data-admin-ch-eli-cc-1971-1370_1366_1366-20171003-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/1370_1366_1366/20171003/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1370_1366_1366/20230531/it/xml/fedlex-data-admin-ch-eli-cc-1971-1370_1366_1366-20230531-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/1370_1366_1366/20230531/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1971** 1366; FF **1970** II 897
 
 Traduzione
 
-Conchiusa all’Aia il 5 ottobre 1961
+Conchiusa all’Aia il 5 ottobre 1961 Approvata dall’Assemblea federale l’8 giugno 1971[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 18 agosto 1971 Entrata in vigore per la Svizzera il 17 ottobre 1971
 
-Approvata dall’Assemblea federale l’8 giugno 1971[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 18 agosto 1971
-
-Entrata in vigore per la Svizzera il 17 ottobre 1971
-
-(Stato 3 ottobre 2017) (Stato 3 ottobre 2017)
+(Stato 31 maggio 2023)
 
 [^t-1]: [RU 1971 1365](https://fedlex.data.admin.ch/eli/oc/1971/1369_1365_1365)
 
@@ -168,7 +162,7 @@ Il Ministero degli Affari Esteri dei Paesi Bassi notificherà agli Stati designa
 
 *In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto all’Aia, il 5 ottobre 1961, nelle lingue francese e inglese, il testo francese facendo fede in caso di divergenza fra i testi, in un solo esemplare, che sarà depositato nell’archivio del Governo dei Paesi Bassi e del quale sarà consegnata per via diplomatica una copia, certificata conforme, a ogni Stato rappresentato alla Nona sessione della Conferenza dell’Aia di diritto internazionale privato. (Seguono le firme)
 
-Campo d’applicazione il 3 ottobre 2017**[^t-2]**
+Campo d’applicazione il 31 maggio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -190,6 +184,7 @@ Campo d’applicazione il 3 ottobre 2017**[^t-2]**
 <tr><td>Croazia</td><td>23 aprile</td><td>1993 S</td><td>8 ottobre</td><td>1991</td></tr>
 <tr><td>Danimarca</td><td>21 luglio</td><td>1976</td><td>19 settembre</td><td>1976</td></tr>
 <tr><td>Estonia<sup>\*</sup></td><td>13 maggio</td><td>1998 A</td><td>12 luglio</td><td>1998</td></tr>
+<tr><td>Eswatini<sup>\*</sup></td><td>23 novembre</td><td>1970 A</td><td>22 gennaio</td><td>1971</td></tr>
 <tr><td>Figi<sup>\*</sup></td><td>19 luglio</td><td>1971 S</td><td>10 ottobre</td><td>1970</td></tr>
 <tr><td>Finlandia</td><td>24 giugno</td><td>1976</td><td>23 agosto</td><td>1976</td></tr>
 <tr><td>Francia<sup>\*</sup></td><td>20 settembre</td><td>1967</td><td>19 novembre</td><td>1967</td></tr>
@@ -202,7 +197,7 @@ Campo d’applicazione il 3 ottobre 2017**[^t-2]**
 <tr><td>Israele</td><td>11 novembre</td><td>1977 A</td><td>10 gennaio</td><td>1978</td></tr>
 <tr><td>Lesotho</td><td>1° giugno</td><td>1977 S</td><td>4 ottobre</td><td>1966</td></tr>
 <tr><td>Lussemburgo<sup>\*</sup></td><td>7 dicembre</td><td>1978</td><td>5 febbraio</td><td>1979</td></tr>
-<tr><td>Macedonia</td><td>23 settembre</td><td>1993 S</td><td>8 settembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>23 settembre</td><td>1993 S</td><td>8 settembre</td><td>1991</td></tr>
 <tr><td>Maurizio</td><td>24 agosto</td><td>1970 S</td><td>12 marzo</td><td>1968</td></tr>
 <tr><td>Moldova<sup>\*</sup></td><td>11 agosto</td><td>2011 A</td><td>10 ottobre</td><td>2011</td></tr>
 <tr><td>Montenegro</td><td>1° marzo</td><td>2007 S</td><td>3 giugno</td><td>2006</td></tr>
@@ -228,18 +223,17 @@ Campo d’applicazione il 3 ottobre 2017**[^t-2]**
 <tr><td>Svezia</td><td>9 luglio</td><td>1976</td><td>7 settembre</td><td>1976</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>15 marzo</td><td>2011 A</td><td>14 maggio</td><td>2011</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>18 agosto</td><td>1971</td><td>10 ottobre</td><td>1971</td></tr>
-<tr><td>Swaziland<sup>\*</sup></td><td>23 novembre</td><td>1970 A</td><td>22 gennaio</td><td>1971</td></tr>
-<tr><td>Tonga<sup>\*</sup></td><td>10 agosto</td><td>1978 S</td><td>14 febbraio</td><td>1965</td></tr>
+<tr><td>Tonga<sup>\*</sup></td><td>10 agosto</td><td>1978 S</td><td>4 giugno</td><td>1970</td></tr>
 <tr><td>Turchia<sup>\*</sup></td><td>23 agosto</td><td>1983 A</td><td>22 ottobre</td><td>1983</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet della Conferenza dell’Aja www.hcch.net/fr/instruments/conventions oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in inglese, può essere consultato sul sito Internet del Ministero degli Affari Esteri del Regno dei Paesi Bassi: www.overheid.nl &gt; English &gt; Treaty Database &gt; 009050 oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione dei Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dal 23 ago. 1968 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 16 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 </table>
 
-[^t-2]: [RU 1971 1366](https://fedlex.data.admin.ch/eli/oc/1971/1370_1366_1366), [1976 1944](https://fedlex.data.admin.ch/eli/oc/1976/1944_1944_1944), [1978 803](https://fedlex.data.admin.ch/eli/oc/1978/803_803_803), [1979 1014](https://fedlex.data.admin.ch/eli/oc/1979/1014_1014_1014), [1982 1359](https://fedlex.data.admin.ch/eli/oc/1982/1359_1359_1359), [1983 1434](https://fedlex.data.admin.ch/eli/oc/1983/1434_1434_1434), [1985 1374](https://fedlex.data.admin.ch/eli/oc/1985/1374_1374_1374), [1987 497](https://fedlex.data.admin.ch/eli/oc/1987/497_497_497), [1988 2025](https://fedlex.data.admin.ch/eli/oc/1988/2025_2025_2025), [1994 1795](https://fedlex.data.admin.ch/eli/oc/1994/1795_1795_1795), [2005 4939](https://fedlex.data.admin.ch/eli/oc/2005/668), [2009 3149](https://fedlex.data.admin.ch/eli/oc/2009/391), [2014 545](https://fedlex.data.admin.ch/eli/oc/2014/109)e [2017 5239](https://fedlex.data.admin.ch/eli/oc/2017/580). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1971 1366](https://fedlex.data.admin.ch/eli/oc/1971/1370_1366_1366); [1976 1944](https://fedlex.data.admin.ch/eli/oc/1976/1944_1944_1944); [1978 803](https://fedlex.data.admin.ch/eli/oc/1978/803_803_803); [1979 1014](https://fedlex.data.admin.ch/eli/oc/1979/1014_1014_1014); [1982 1359](https://fedlex.data.admin.ch/eli/oc/1982/1359_1359_1359); [1983 1434](https://fedlex.data.admin.ch/eli/oc/1983/1434_1434_1434); [1985 1374](https://fedlex.data.admin.ch/eli/oc/1985/1374_1374_1374); [1987 497](https://fedlex.data.admin.ch/eli/oc/1987/497_497_497); [1988 2025](https://fedlex.data.admin.ch/eli/oc/1988/2025_2025_2025); [1994 1795](https://fedlex.data.admin.ch/eli/oc/1994/1795_1795_1795); [2005 4939](https://fedlex.data.admin.ch/eli/oc/2005/668); [2009 3149](https://fedlex.data.admin.ch/eli/oc/2009/391); [2014 545](https://fedlex.data.admin.ch/eli/oc/2014/109); [2017 5239](https://fedlex.data.admin.ch/eli/oc/2017/580); [2023 269](https://fedlex.data.admin.ch/eli/oc/2023/269). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20)
 
 Riserve e dichiarazioni
 
-Svizzera**[^t-3]**
+Svizzera[^t-3]
 
 Al momento della ratificazione, la Svizzera ha fatto uso della riserva prevista nell’articolo 10. Pertanto, essa non riconoscerà le disposizioni testamentarie fatte, salvo in circostanze straordinarie, nella forma orale da un suo cittadino non avente alcuna altra cittadinanza.
 
