@@ -3,18 +3,18 @@ sr: "946.206"
 title: "Ordinanza del 7 agosto 1990 che istituisce misure economiche nei confronti della Repubblica dell'Iraq"
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316"
 language: it
-version: 2022-01-01
+version: 2023-06-01
 adopted: 1990-08-07
 in_force: 1990-08-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1990-1316_1316_1316-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/1316_1316_1316/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316/20230601/it/xml/fedlex-data-admin-ch-eli-cc-1990-1316_1316_1316-20230601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1316_1316_1316/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce misure economiche nei confronti della Repubblica dell’Iraq
 
-del 7 agosto 1990 (Stato 1° gennaio 2022)[^t-1]
+del 7 agosto 1990 (Stato 1° giugno 2023)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 1991, in vigore dal 12 mar. 2091 ([RU 1991 784](https://fedlex.data.admin.ch/eli/oc/1991/784_784_784)).
 
@@ -31,14 +31,15 @@ ordina:
 
 **Beni d’armamento**[^1-1]
 
-<sup>1</sup> Sono vietate la fornitura, la vendita e l’attività di mediazione di beni d’armamento a destinatari nella Repubblica dell’Iraq, fatti salvi il Governo iracheno e la forza multinazionale ai sensi della Risoluzione 1546 (2004) del Consiglio di sicurezza.[^1-2]
+<sup>1</sup> Sono vietate la fornitura, la vendita e l’attività di mediazione di beni d’armamento a destinatari nella Repubblica dell’Iraq, fatti salvi il Governo iracheno e la forza multinazionale ai sensi della risoluzione 1546 (2004)[^1-2] del Consiglio di sicurezza delle Nazioni Unite.[^1-3]
 
-<sup>2</sup> Il capoverso 1 si applica in quanto non siano applicabili la legge del 13 dicembre 1996[^1-3] sul materiale bellico e la legge del 13 dicembre 1996[^1-4] sul controllo dei beni a duplice impiego come pure le relative ordinanze d’esecuzione.
+<sup>2</sup> Il capoverso 1 si applica in quanto non siano applicabili la legge del 13 dicembre 1996[^1-4] sul materiale bellico e la legge del 13 dicembre 1996[^1-5] sul controllo dei beni a duplice impiego come pure le relative ordinanze d’esecuzione.
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 25 giu. 2003 ([RU 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 3 nov. 2004, in vigore dal 10 nov. 2004 ([RU 2004 4553](https://fedlex.data.admin.ch/eli/oc/2004/692)).
-[^1-3]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^1-4]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^1-2]: La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^1-3]: Nuovo testo giusta il n. I 2 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^1-4]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-5]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
 
 #### Art. 1a
 
@@ -217,5 +218,5 @@ Allegato[^t-2]
 
 \2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annexu1-lvlu1-2].
 
-[^annexu1-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; 1518 Sanctions Committee (Iraq) &gt; Sanctions List Materials.
-[^annexu1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
+[^annexu1-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: [www.un.org/en/sc/](http://www.un.org/en/sc/) &gt; Subsidiary Organs &gt; Sanctions &gt; 1518 Sanctions Committee (Iraq) &gt; Sanctions List Materials.
+[^annexu1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.

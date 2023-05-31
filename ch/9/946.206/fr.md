@@ -3,18 +3,18 @@ sr: "946.206"
 title: "Ordonnance du 7 août 1990 instituant des mesures économiques envers la République d'Irak"
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316"
 language: fr
-version: 2022-01-01
+version: 2023-06-01
 adopted: 1990-08-07
 in_force: 1990-08-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1990-1316_1316_1316-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/1316_1316_1316/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-1990-1316_1316_1316-20230601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1316_1316_1316/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures économiques envers la République d’Irak
 
-du 7 août 1990 (État le 1<sup>er</sup> janvier 2022)[^t-1]
+du 7 août 1990 (État le 1<sup>er</sup> juin 2023)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 1991, en vigueur depuis le 12 mars 1991 ([RO 1991 784](https://fedlex.data.admin.ch/eli/oc/1991/784_784_784)).
 
@@ -31,14 +31,15 @@ arrête:
 
 **Interdiction de fournir des biens d’équipement militaires**[^1-1]
 
-<sup>1</sup> Sont interdits la fourniture, la vente et le courtage de biens d’armement à tous les destinataires en Irak à l’exception du gouvernement de l’Irak ou de la force multinationale au sens de la résolution 1546 (2004) du Conseil de sécurité.[^1-2]
+<sup>1</sup> Sont interdits la fourniture, la vente et le courtage de biens d’armement à tous les destinataires en Irak à l’exception du gouvernement de l’Irak ou de la force multinationale au sens de la résolution 1546 (2004)[^1-2] du Conseil de sécurité des Nations Unies.[^1-3]
 
-<sup>2</sup> L’al. 1 ne s’applique que dans la mesure où la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^1-3] et la loi du 13 décembre 1996 sur le contrôle des biens[^1-4] ainsi que leurs ordonnances d’application ne sont pas applicables.
+<sup>2</sup> L’al. 1 ne s’applique que dans la mesure où la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^1-4] et la loi du 13 décembre 1996 sur le contrôle des biens[^1-5] ainsi que leurs ordonnances d’application ne sont pas applicables.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 25 juin 2003 ([RO 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
-[^1-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2004, en vigueur depuis le 10 nov. 2004 ([RO 2004 4553](https://fedlex.data.admin.ch/eli/oc/2004/692)).
-[^1-3]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^1-4]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^1-2]: La résolution peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^1-3]: Nouvelle teneur selon le ch. I 2 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^1-4]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-5]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
 
 #### Art. 1a
 
@@ -119,7 +120,7 @@ Sur instruction du SECO, les autorités compétentes prennent les mesures néces
 
 **Prétentions en garantie**[^3-1]
 
-Il est interdit de satisfaire des prétentions en garantie à l’égard des personnes visées par les let. a à c lorsque ces prétentions se fondent sur un contrat ou une affaire dont l’exécution a été rendue directement ou indirectement impossible en raison des mesures décrétées par le Conseil de sécurité des Nations Unies dans le cadre de la Résolution 661 (1990) et des résolutions consécutives y relatives :
+Il est interdit de satisfaire des prétentions en garantie à l’égard des personnes visées par les let. a à c lorsque ces prétentions se fondent sur un contrat ou une affaire dont l’exécution a été rendue directement ou indirectement impossible en raison des mesures décrétées par le Conseil de sécurité des Nations Unies dans le cadre de la Résolution 661 (1990) et des résolutions consécutives y relatives:
 
 - a. le gouvernement irakien;
 - b. les personnes physiques ou morales en Irak;
@@ -137,7 +138,7 @@ Il est interdit de satisfaire des prétentions en garantie à l’égard des per
 
 **Immunité**[^4a-1]
 
-Ne peuvent faire l’objet d’un séquestre ou d’une saisie :
+Ne peuvent faire l’objet d’un séquestre ou d’une saisie:
 
 - a. le pétrole et les produits pétroliers irakiens exportés hors d’Irak aussi longtemps qu’ils sont en propriété irakienne;
 - b. les connaissements et autres documents ainsi que les paiements en rapport avec des exportations au sens de la let. a;
@@ -217,5 +218,5 @@ Annexe[^t-2]
 
 \2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annexu1-lvlu1-2].
 
-[^annexu1-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1518 (Iraq) &gt; Matériaux relatifs à la liste de sanctions.
-[^annexu1-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annexu1-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: [www.un.org/fr/sc](http://www.un.org/fr/sc) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1518 (Iraq) &gt; Matériaux relatifs à la liste de sanctions.
+[^annexu1-lvlu1-2]: La banque de données SESAM est librement accessible Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.

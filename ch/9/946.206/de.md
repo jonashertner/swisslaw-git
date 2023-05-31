@@ -3,18 +3,18 @@ sr: "946.206"
 title: Verordnung vom 7. August 1990 über Wirtschaftsmassnahmen gegenüber der Republik Irak
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316"
 language: de
-version: 2022-01-01
+version: 2023-06-01
 adopted: 1990-08-07
 in_force: 1990-08-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1990-1316_1316_1316-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/1316_1316_1316/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1316_1316_1316/20230601/de/xml/fedlex-data-admin-ch-eli-cc-1990-1316_1316_1316-20230601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1316_1316_1316/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Wirtschaftsmassnahmen gegenüber der Republik Irak
 
-vom 7. August 1990 (Stand am 1. Januar 2022)[^t-1]
+vom 7. August 1990 (Stand am 1. Juni 2023)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 11. März 1991, in Kraft seit 12. März 1991 ([AS 1991 784](https://fedlex.data.admin.ch/eli/oc/1991/784_784_784)).
 
@@ -31,14 +31,15 @@ verordnet:
 
 **Rüstungsgüter**[^1-1]
 
-<sup>1</sup> Die Lieferung, der Verkauf und die Vermittlung von Rüstungsgütern an Empfänger in der Republik Irak, ausgenommen die irakische Regierung und die multilateralen Truppen, im Sinne von Res. 1546 (2004) des UNO-Sicherheitsrates, sind verboten.[^1-2]
+<sup>1</sup> Die Lieferung, der Verkauf und die Vermittlung von Rüstungsgütern an Empfänger in der Republik Irak, ausgenommen die irakische Regierung und die multilateralen Truppen, im Sinne der Resolution 1546 (2004)[^1-2] des Sicherheitsrats der Vereinten Nationen, sind verboten.[^1-3]
 
-<sup>2</sup> Absatz 1 gilt, soweit nicht das Kriegsmaterialgesetz vom 13. Dezember 1996[^1-3] und das Güterkontrollgesetz vom 13. Dezember 1996[^1-4] sowie deren Ausführungsverordnungen anwendbar sind.
+<sup>2</sup> Absatz 1 gilt, soweit nicht das Kriegsmaterialgesetz vom 13. Dezember 1996[^1-4] und das Güterkontrollgesetz vom 13. Dezember 1996[^1-5] sowie deren Ausführungsverordnungen anwendbar sind.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 25. Juni 2003 ([AS 2003 1887](https://fedlex.data.admin.ch/eli/oc/2003/283)).
-[^1-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2004, in Kraft seit 10. Nov. 2004 ([AS 2004 4553](https://fedlex.data.admin.ch/eli/oc/2004/692)).
-[^1-3]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^1-4]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^1-2]: Die Resolution ist auf Französisch und Englisch abrufbar unter [https://www.un.org/securitycouncil/fr](https://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^1-3]: Fassung gemäss Ziff. I 2 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^1-4]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-5]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
 
 #### Art. 1a
 
@@ -216,5 +217,5 @@ Anhang[^t-2]
 
 \2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; 1518 Sanctions Committee (Iraq) &gt; Sanctions List Materials.
-[^annexu1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
+[^annexu1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: [https://www.un.org/securitycouncil/](https://www.un.org/securitycouncil/)&gt; Subsidiary Organs &gt; Sanctions &gt; 1518 Sanctions Committee (Iraq) &gt; Sanctions List Materials.
+[^annexu1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: [https://www.seco.admin.ch/seco/de/home.html](https://www.seco.admin.ch/seco/de/home.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
