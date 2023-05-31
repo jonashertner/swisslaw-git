@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: "Ordonnance du 12 août 2015 instituant des mesures à l'encontre de la République du Soudan du Sud"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: fr
-version: 2023-01-24
+version: 2023-06-01
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20230124/fr/xml/fedlex-data-admin-ch-eli-cc-2015-532-20230124-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20230124/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2015-532-20230601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République du Soudan du Sud
 
-du 12 août 2015 (État le 24 janvier 2023)
+du 12 août 2015 (État le 1<sup>er</sup> juin 2023)
 
 Le Conseil fédéral suisse,
 
@@ -81,17 +81,30 @@ Sont gelés les avoirs et les ressources économiques appartenant à ou sous con
 
 <sup>3</sup>
 
-Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées, afin:
+L’interdiction prévue à l’al. 2 ne s’applique pas à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes par:
+
+- a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
+- b. des organisations internationales;
+- c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
+- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
+- e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d, lorsqu’ils agissent en cette qualité;
+- f. tous les autres acteurs tels que déterminés par le comité compétent du Conseil de sécurité des Nations Unies.[^2-2]
+
+<sup>4</sup>
+
+Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
 
 - a. de prévenir des cas de rigueur;
 - b. d’honorer des contrats existants;
-- c. d’honorer des créances en application d’une mesure ou d’une décision judiciaire, administrative ou arbitrale existante;
-- d. de sauvegarder les intérêts de la Suisse.
+- c. d’honorer des créances en application d’une mesure ou d’une décision judiciaire, administrative ou arbitrale existante, ou
+- d. de sauvegarder les intérêts de la Suisse.[^2-3]
 
-<sup>4</sup> Le SECO délivre les autorisations au sens de l’al. 3, après avoir consulté les services compétents du DFAE et du Département fédéral des finances, et, le cas échéant, après notification au comité compétent du Conseil de sécurité des Nations Unies et en conformité avec les décisions dudit comité et les résolutions pertinentes de l’ONU.[^2-2]
+<sup>5</sup> Il accorde les dérogations prévues à l’al. 4 après consultation des services compétents du DFAE et du Département fédéral des finances, et, le cas échéant, après notification au comité compétent du Conseil de sécurité des Nations Unies et en conformité avec les décisions dudit comité et les résolutions pertinentes des Nations Unies.[^2-4]
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18 heures ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
-[^2-2]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18 heures ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^2-2]: Nouvelle teneur selon le ch. I 13 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-3]: Nouvelle teneur selon le ch. I 13 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-4]: Introduit par le ch. I 13 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 3
 
@@ -211,7 +224,7 @@ Remarque
 - 2\. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex1-lvlu1-3].
 
 [^annex1-lvlu1-2]: Les listes peuvent être consultées sur Internet, à l’adresse suivante: [www.un.org/fr/sc](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité du Conseil concernant la République du Soudan du Sud &gt; Matériaux relatifs à la liste de sanctions.
-[^annex1-lvlu1-3]: La banque de données SESAM est librement accessible sur Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée des listes peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annex1-lvlu1-3]: La banque de données SESAM est librement accessible sur Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée des listes peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
 Annexe 2[^t-2]
 

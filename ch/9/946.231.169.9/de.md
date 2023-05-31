@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: Verordnung vom 12. August 2015 über Massnahmen gegenüber der Republik Südsudan
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: de
-version: 2023-01-24
+version: 2023-06-01
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20230124/de/xml/fedlex-data-admin-ch-eli-cc-2015-532-20230124-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20230124/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2015-532-20230601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Republik Südsudan
 
-vom 12. August 2015 (Stand am 24. Januar 2023)
+vom 12. August 2015 (Stand am 1. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -81,17 +81,30 @@ Gesperrt sind Gelder und wirtschaftliche Ressourcen im Eigentum oder unter direk
 
 <sup>3</sup>
 
-Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
+Das Verbot nach Absatz 2 gilt nicht für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+
+- a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
+- b. internationale Organisationen;
+- c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
+- d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
+- e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d genannten Organisationen, soweit sie in dieser Eigenschaft handeln;
+- f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.[^2-2]
+
+<sup>4</sup>
+
+Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
 
 - a. Vermeidung von Härtefällen;
 - b. Erfüllung bestehender Verträge;
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden gerichtlichen, administrativen oder schiedsgerichtlichen Massnahme oder Entscheidung sind;
-- d. Wahrung schweizerischer Interessen.
+- d. Wahrung schweizerischer Interessen.[^2-3]
 
-<sup>4</sup> Das SECO erteilt Bewilligungen nach Absatz 3 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements sowie, soweit anwendbar, nach Meldung an das zuständige Komitee des Sicherheitsrats der Vereinten Nationen und in Übereinstimmung mit den Beschlüssen dieses Komitees und den massgeblichen UNO-Resolutionen.[^2-2]
+<sup>5</sup> Es bewilligt Ausnahmen nach Absatz 4 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements sowie, falls anwendbar, nach Meldung an das zuständige Komitee des Sicherheitsrats der Vereinten Nationen und in Übereinstimmung mit den Beschlüssen dieses Komitees und den massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen.[^2-4]
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 28. März 2018, in Kraft seit 28. März 2018 um 18 Uhr ([AS 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
-[^2-2]: Fassung gemäss Ziff. I der V vom 28. März 2018, in Kraft seit 28. März 2018 um 18 Uhr ([AS 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^2-2]: Fassung gemäss Ziff. I 13 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-3]: Fassung gemäss Ziff. I 13 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-4]: Eingefügt durch Ziff. I 13 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 3
 
@@ -211,8 +224,8 @@ Anmerkung
 - 2\. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex1-lvlu1-3]
 - [tab]
 
-[^annex1-lvlu1-2]: Die Listen sind im Internet unter folgender Adresse abrufbar: [www.un.org/en/sc/](https://www.un.org/sc/suborg/en/sanctions/2206/materials) &gt; Subsidiary Organs &gt; Sanctions &gt; South Sudan Sanctions Committee &gt; Sanctions List Materials.
-[^annex1-lvlu1-3]: Die Datenbank SESAM ist im Internet frei zugänglich unter: [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
+[^annex1-lvlu1-2]: Die Listen sind im Internet unter folgender Adresse abrufbar: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions concernant le Soudan du Sud &gt; Matériaux relatifs à la liste de sanctions.
+[^annex1-lvlu1-3]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
 
 Anhang 2[^t-2]
 
