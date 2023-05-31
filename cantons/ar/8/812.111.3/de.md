@@ -3,20 +3,19 @@ canton: AR
 number: "812.111.3"
 title: Verordnung über die Entschädigung der Mitglieder des Verwaltungsrates des Spitalverbundes Appenzell Ausserrhoden
 language: de
-version: 2014-01-01
-valid_until: 2023-05-31
-version_adopted: 2013-11-26
+version: 2023-06-01
+version_adopted: 2023-05-16
 adopted: 2013-11-26
 in_force: 2014-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/812.111.3"
-pdf: "https://ar.clex.ch/api/de/versions/837/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1468/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Entschädigung der Mitglieder des Verwaltungsrates des Spitalverbundes Appenzell Ausserrhoden
 
-vom 26.11.2013 (Stand 01.01.2014)
+vom 26.11.2013 (Stand 01.06.2023)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -50,35 +49,34 @@ verordnet:
 
 <sup>2</sup> Die jährliche Entschädigung beträgt:
 
-- a) für die Präsidentin oder den Präsidenten — Fr. 35'000.–
-- b) für die Vizepräsidentin oder den Vizepräsidenten — Fr. 30'000.–
-- c) für die übrigen Mitglieder — Fr. 14'000.–
+- a) für die Präsidentin oder den Präsidenten — Fr. 45'000.–
+- b) für die Vizepräsidentin oder den Vizepräsidenten — Fr. 24'000.–
+- c) für die übrigen Mitglieder — Fr. 18'000.–
 
-<sup>3</sup> Mitglieder des Verwaltungsrates, ausgenommen Präsidentin oder Präsident sowie Vizepräsidentin oder Vizepräsident, erhalten als Vorsitzende eines Ausschusses zusätzlich Fr. 2'000.–.
+<sup>3</sup> Für den Vorsitz in einem ständigen Ausschuss des Verwaltungsrates wird zusätzlich eine Entschädigung von Fr. 8'000.– pro Jahr ausgerichtet.
 
 <sup>4</sup> Die Entschädigungen nach Abs. 2 und Abs. 3 werden bei unterjähriger Ausübung des Amtes pro rata temporis ausgerichtet.
 
+<sup>5</sup> Wird eine Funktion über längere Zeit durch ein stellvertretendes Mitglied ausgeübt, kann ihm der Verwaltungsrat für die entsprechende Zeit eine Funktionszulage zusprechen. Diese beträgt maximal Fr. 21'000 pro Jahr.
+
 #### Art. 3
 
-**Sitzungsgelder a) Sitzungen**
+**Sitzungsgelder**
 
 <sup>1</sup> Der SVAR richtet den Mitgliedern des Verwaltungsrates des SVAR für die Teilnahme an Sitzungen des Verwaltungsrates und seiner Ausschüsse folgende Sitzungsgelder aus:
 
 - a) ganzer Tag — Fr. 1'000.–
 - b) halber Tag — Fr. 500.–
 
+<sup>2</sup> Dieselben Ansätze kommen zur Anwendung, wenn der Verwaltungsrat in corpore oder mit einer Delegation an Sitzungen oder Veranstaltungen teilnimmt, die auf Veranlassung des Kantons durchgeführt werden.
+
+<sup>3</sup> Bei mehreren Sitzungen pro Tag wird maximal der Ansatz für einen ganzen Tag ausgerichtet.
+
+<sup>4</sup> Die Ansätze gelten unabhängig davon, ob die Sitzung vor Ort oder als Telefon- oder Videokonferenz durchgeführt wird.
+
 #### Art. 4
 
-**b) Telefonkonferenzen**
-
-<sup>1</sup> Die Mitglieder des Verwaltungsrates des SVAR erhalten für die Teilnahme an Telefonkonferenzen des Verwaltungsrates und seiner Ausschüsse ein Sitzungsgeld von Fr. 500.–, sofern:
-
-- a) wenigstens drei Mitglieder beteiligt sind,
-- b) die Konferenz länger als eine Stunde dauert,
-- c) eine Traktandenliste vorliegt und
-- d) Protokoll geführt wird.
-
-<sup>2</sup> Es werden je Tag höchstens Sitzungsgelder für zwei Telefonkonferenzen oder für eine Telefonkonferenz und eine halbtägige Sitzung nach Art. 3 dieser Verordnung ausgerichtet.
+**…**
 
 #### Art. 5
 
