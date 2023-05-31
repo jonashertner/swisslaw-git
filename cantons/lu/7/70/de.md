@@ -3,20 +3,20 @@ canton: LU
 number: "70"
 title: Kantonsratsbeschluss über die Entschädigung der Mitglieder und der Fraktionen des Kantonsrates
 language: de
-version: 2009-07-01
-valid_until: 2023-05-31
-version_adopted: 2009-05-25
+version: 2023-06-01
+valid_until: 2025-12-31
+version_adopted: 2023-03-20
 adopted: 2025-09-08
 in_force: 2026-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/70"
-pdf: "https://srl.lu.ch/api/de/versions/2261/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4083/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsbeschluss über die Entschädigung der Mitglieder und der Fraktionen des Kantonsrates
 
-vom 25.05.2009 (Stand 01.07.2009)
+vom 25.05.2009 (Stand 01.06.2023)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -62,6 +62,12 @@ beschliesst:
 **Fraktionsentschädigung**
 
 <sup>1</sup> Jede Fraktion erhält jährlich einen Grundbeitrag von 15 000 Franken sowie einen Zusatzbeitrag von 1000 Franken pro Mitglied. Ratsmitglieder, die keiner Fraktion angehören, erhalten einen jährlichen Beitrag von 1000 Franken.
+
+#### § 4a
+
+**Betreuungsbeiträge**
+
+<sup>1</sup> Den Mitgliedern des Kantonsrates kann auf Antrag entsprechend den Voraussetzungen für die Angestellten des Kantons ein Beitrag an die Kosten der Kinderbetreuung ihrer vorschulpflichtigen Kinder zugesprochen werden. Dabei entspricht das Kantonsratsmandat einem Pensum von 20 Prozent.
 
 #### § 5
 
