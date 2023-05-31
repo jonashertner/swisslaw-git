@@ -3,18 +3,18 @@ sr: "946.231.12"
 title: Verordnung vom 22. Juni 2005 über Massnahmen gegenüber der Demokratischen Republik Kongo
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/442"
 language: de
-version: 2022-12-20
+version: 2023-06-01
 adopted: 2005-06-22
 in_force: 2005-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20221220/de/xml/fedlex-data-admin-ch-eli-cc-2005-442-20221220-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20221220/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2005-442-20230601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Demokratischen Republik Kongo
 
-vom 22. Juni 2005 (Stand am 20. Dezember 2022)
+vom 22. Juni 2005 (Stand am 1. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -59,16 +59,31 @@ Von den Verboten der Absätze 1 und 2 sind ausgenommen:
 
 <sup>3</sup>
 
-In Ausnahmefällen kann das SECO nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements sowie, soweit anwendbar, nach Meldung an das zuständige Komitee des UNO-Sicherheitsrats und in Übereinstimmung mit den Beschlüssen dieses Komitees und den massgeblichen UNO-Resolutionen, Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen bewilligen zur:
+Das Verbot nach Absatz 2 gilt nicht für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+
+- a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
+- b. internationale Organisationen;
+- c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
+- d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
+- e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d genannten Organisationen, soweit sie in dieser Eigenschaft handeln;
+- f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.[^2-2]
+
+<sup>4</sup>
+
+Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
 
 - a. Vermeidung von Härtefällen;
 - b. Erfüllung bestehender Verträge;
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind;
 - d. Deckung humanitärer Bedürfnisse;
-- e. Wahrung schweizerischer Interessen.[^2-2]
+- e. Wahrung schweizerischer Interessen.[^2-3]
+
+<sup>5</sup> Es bewilligt Ausnahmen nach Absatz 4 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements sowie, falls anwendbar, nach Meldung an das zuständige Komitee des Sicherheitsrats der Vereinten Nationen und in Übereinstimmung mit den Beschlüssen dieses Komitees und den massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen.[^2-4]
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 21. Febr. 2018, in Kraft seit 21. Febr. 2018 ([AS 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)).
-[^2-2]: Fassung gemäss Ziff. I der V vom 21. Febr. 2018, in Kraft seit 21. Febr. 2018 ([AS 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)).
+[^2-2]: Fassung gemäss Ziff. I 4 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-3]: Eingefügt durch Ziff. I 4 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-4]: Eingefügt durch Ziff. I 4 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 3
 
@@ -89,7 +104,7 @@ In dieser Verordnung bedeuten:
 
 <sup>1</sup> Die Einreise in die Schweiz oder die Durchreise durch die Schweiz ist den in den Anhängen 1 und 2 aufgeführten natürlichen Personen verboten.
 
-<sup>2</sup> Das Staatssekretariat für Migration kann in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrats Ausnahmen für natürliche Personen nach Anhang 1 gewähren.
+<sup>2</sup> Das Staatssekretariat für Migration kann in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen[^4-2] Ausnahmen für natürliche Personen nach Anhang 1 gewähren.
 
 <sup>3</sup>
 
@@ -100,6 +115,7 @@ Es kann für natürliche Personen nach Anhang 2 Ausnahmen gewähren:
 - c. zur Wahrung schweizerischer Interessen.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 21. Febr. 2018, in Kraft seit 21. Febr. 2018 ([AS 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)).
+[^4-2]: Ausdruck gemäss Ziff. I 4 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Diese Änd. wurde im ganzen Text vorgenommen.
 
 ## 2. Abschnitt: Vollzug und Strafbestimmungen
 
@@ -107,7 +123,7 @@ Es kann für natürliche Personen nach Anhang 2 Ausnahmen gewähren:
 
 **Kontrolle und Vollzug**
 
-<sup>1</sup> Das SECO überwacht den Vollzug der Zwangsmassnahmen nach den Artikeln 1 und 2. Entsprechend der Resolution 1807 (2008) meldet es dem zuständigen Komitee des UNO-Sicherheitsrates vorgängig die Lieferung von Gütern und die Erbringung von Dienstleistungen nach Artikel 1 Absatz 3 Buchstaben b und c.[^5-1]
+<sup>1</sup> Das SECO überwacht den Vollzug der Zwangsmassnahmen nach den Artikeln 1 und 2. Entsprechend der Resolution 1807 (2008) meldet es dem zuständigen Komitee des Sicherheitsrats der Vereinten Nationen vorgängig die Lieferung von Gütern und die Erbringung von Dienstleistungen nach Artikel 1 Absatz 3 Buchstaben b und c.[^5-1]
 
 <sup>2</sup> Das Staatssekretariat für Migration[^5-2] überwacht den Vollzug des Ein- und Durchreiseverbots nach Artikel 4.
 

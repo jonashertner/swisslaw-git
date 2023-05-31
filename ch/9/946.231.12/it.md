@@ -3,18 +3,18 @@ sr: "946.231.12"
 title: Ordinanza del 22 giugno 2005 che istituisce provvedimenti nei confronti della Repubblica democratica del Congo
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/442"
 language: it
-version: 2022-12-20
+version: 2023-06-01
 adopted: 2005-06-22
 in_force: 2005-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20221220/it/xml/fedlex-data-admin-ch-eli-cc-2005-442-20221220-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20221220/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2005-442-20230601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica democratica del Congo
 
-del 22 giugno 2005 (Stato 20 dicembre 2022)
+del 22 giugno 2005 (Stato 1° giugno 2023)
 
 Il Consiglio federale svizzero,
 
@@ -63,16 +63,31 @@ Sono esclusi dai divieti elencati nei capoversi 1 e 2:
 
 <sup>3</sup>
 
-D’intesa con gli uffici competenti del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze, nonché, se del caso, previa notificazione al competente Comitato del Consiglio di sicurezza dell’ONU e, se applicabili, in conformità delle decisioni di tale Comitato e delle pertinenti risoluzioni dell’ONU, la SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione delle risorse economiche bloccate per:
+Il divieto di cui al capoverso 2 non si applica alla fornitura di aiuti umanitari e al sostegno di altre attività volte a soddisfare i bisogni umani fondamentali da parte di:
+
+- a. Organizzazione delle Nazioni Unite, anche per il tramite dei suoi programmi, fondi e altri enti e organismi, nonché sue agenzie specializzate e organizzazioni collegate;
+- b. organizzazioni internazionali;
+- c. organizzazioni umanitarie aventi status di osservatore presso l’Assemblea generale delle Nazioni Unite e membri di tali organizzazioni;
+- d. organizzazioni non governative finanziate a livello bilaterale o multilaterale che partecipano ai piani di risposta umanitaria delle Nazioni Unite, ai piani di risposta per i rifugiati, ad altri appelli delle Nazioni Unite o a strutture umanitarie coordinate dall’Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA);
+- e. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a−d nella misura in cui agiscono in tale veste;
+- f. ogni altro soggetto designato dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^2-2]
+
+<sup>4</sup>
+
+La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione di risorse economiche bloccate se servono a:
 
 - a. prevenire casi di rigore;
 - b. rispettare contratti esistenti;
-- c. rispettare crediti oggetto di una sentenza giudiziaria, amministrativa o arbitrale;
+- c. onorare crediti oggetto di una sentenza giudiziaria, amministrativa o arbitrale;
 - d. soddisfare bisogni umanitari;
-- e. tutelare interessi svizzeri.[^2-2]
+- e. tutelare interessi svizzeri.[^2-3]
+
+<sup>5</sup> La SECO autorizza le deroghe di cui al capoverso 4 d’intesa con gli uffici competenti del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze nonché, se del caso, previa notifica al comitato competente del Consiglio di sicurezza delle Nazioni Unite e in conformità alle decisioni di tale comitato e alle pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite.[^2-4]
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 21 feb. 2018, in vigore dal 21 feb. 2018 ([RU 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 21 feb. 2018, in vigore dal 21 feb. 2018 ([RU 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)).
+[^2-2]: Nuovo testo giusta il n. I 4 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-3]: Introdotto dal n. I 4 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-4]: Introdotto dal n. I 4 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 3
 
@@ -93,7 +108,7 @@ Nella presente ordinanza si intende per:
 
 <sup>1</sup> L’entrata in Svizzera o il transito attraverso la Svizzera sono vietati alle persone fisiche elencate negli allegati 1 e 2.
 
-<sup>2</sup> La Segreteria di Stato della migrazione può concedere deroghe alle persone fisiche di cui all’allegato 1 in conformità delle decisioni del competente Comitato del Consiglio di sicurezza dell’ONU.
+<sup>2</sup> La Segreteria di Stato della migrazione può concedere deroghe alle persone fisiche di cui all’allegato 1 in conformità delle decisioni del competente Comitato del Consiglio di sicurezza delle Nazioni Unite[^4-2].
 
 <sup>3</sup>
 
@@ -104,6 +119,7 @@ Essa può concedere deroghe alle persone fisiche di cui all’allegato 2:
 - c. se la tutela di interessi svizzeri lo esige.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 21 feb. 2018, in vigore dal 21 feb. 2018 ([RU 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)).
+[^4-2]: Nuova espressione giusta il n. I 4 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ## Sezione 2: Esecuzione e disposizioni penali
 
@@ -111,7 +127,7 @@ Essa può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 **Controllo ed esecuzione**
 
-<sup>1</sup> La SECO sorveglia l’esecuzione delle misure coercitive di cui agli articoli 1 e 2. Conformemente alla risoluzione 1807 (2008) essa notifica in via preliminare al Comitato competente del Consiglio di sicurezza dell’ONU la fornitura di beni e servizi di cui all’articolo 1 capoverso 3 lettere b e c.[^5-1]
+<sup>1</sup> La SECO sorveglia l’esecuzione delle misure coercitive di cui agli articoli 1 e 2. Conformemente alla risoluzione 1807 (2008) essa notifica in via preliminare al Comitato competente del Consiglio di sicurezza delle Nazioni Unite la fornitura di beni e servizi di cui all’articolo 1 capoverso 3 lettere b e c.[^5-1]
 
 <sup>2</sup> La Segreteria di Stato della migrazione[^5-2] sorveglia l’esecuzione del divieto di entrata e di transito di cui all’articolo 4.
 
@@ -187,5 +203,5 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introdotto dal n. I dell’O del 21 feb. 2018 ([RU 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Aggiornato dai n. I delle O del DEFR del 23 apr. 2018 ([RU 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), del 17 gen. 2019 ([RU 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), del 19 dic. 2019 ([RU 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), del 21 dic. 2020 ([RU 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)), del 22 dic. 2021 ([RU 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)), del 19 set. 2022 ([RU 2022 512](https://fedlex.data.admin.ch/eli/oc/2022/512)) e del 19 dic. 2022, in vigore dal 20 dic. 2022 alle ore 18.00 ([RU 2022 831](https://fedlex.data.admin.ch/eli/oc/2022/831)).
+[^t-2]: Introdotto dal n. I dell’O del 21 feb. 2018 ([RU 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Aggiornato dal n. I delle O del DEFR del 23 apr. 2018 ([RU 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), del 17 gen. 2019 ([RU 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), del 19 dic. 2019 ([RU 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), del 21 dic. 2020 ([RU 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)), del 22 dic. 2021 ([RU 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)), del 19 set. 2022 ([RU 2022 512](https://fedlex.data.admin.ch/eli/oc/2022/512)) e del 19 dic. 2022, in vigore dal 20 dic. 2022 alle ore 18.00 ([RU 2022 831](https://fedlex.data.admin.ch/eli/oc/2022/831)).
 [^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/831](https://fedlex.data.admin.ch/eli/oc/2022/831) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
