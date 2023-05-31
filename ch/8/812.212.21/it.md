@@ -4,11 +4,11 @@ title: Ordinanza del 21 settembre 2018 sui medicamenti (OM)
 short: OM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: it
-version: 2023-04-01
+version: 2023-06-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230401/it"
 
 (OM)
 
-del 21 settembre 2018 (Stato 1° aprile 2023) (Stato 1° aprile 2023)
+del 21 settembre 2018 (Stato 1° giugno 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1324,8 +1324,8 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del DFI del 28 feb. 2020 ([RU 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Aggiornato dal n. I dell’O del DFI del 7 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)).
-[^annex2-lvlu1-1]: Il testo non è pubblicato nella RU (art. 5 della L del 18 giu. 2004 sulle pubblicazioni ufficiali; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Può essere consultato sul sito Internet dell’UFSP all’indirizzo: www.bag.admin.ch &gt; Medicina & ricerca &gt; Medicamenti e dispositivi medici &gt; Dispensazione di medicamenti semplificata.
+[^t-2]: Nuovo testo giusta il n. I dell’O del DFI del 28 feb. 2020 ([RU 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Aggiornato dai n. I delle O del DFI del 7 giu. 2021 ([RU 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)) e del 28 apr. 2023, in vigore dal 1° giu. 2023 (RU **202****3** 230).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/230](https://fedlex.data.admin.ch/eli/oc/2023/230) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-3]
 

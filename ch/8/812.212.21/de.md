@@ -4,11 +4,11 @@ title: "Verordnung vom 21. September 2018 über die Arzneimittel (Arzneimittelve
 short: VAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: de
-version: 2023-04-01
+version: 2023-06-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230401/de"
 
 (Arzneimittelverordnung, VAM)
 
-vom 21. September 2018 (Stand am 1. April 2023)
+vom 21. September 2018 (Stand am 1. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1324,8 +1324,8 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Bereinigt gemäss Ziff. I der V des EDI vom 7. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)).
-[^annex2-lvlu1-1]: Der Text dieses Anhangs wird in der AS und in der SR nicht publiziert (Art. 5 des Publikationsgesetzes vom 18. Juni 2004; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann abgerufen werden unter www.bag.admin.ch &gt; Medizin & Forschung &gt; Medikamente & Medizinprodukte &gt; Erleichterte Abgabe von Arzneimitteln.
+[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Bereinigt gemäss Ziff. I der V des EDI vom 7. Juni 2021 ([AS 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)) und vom 28. April 2023, in Kraft seit 1. Juni 2023 (AS **202****3** 230).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/230](https://fedlex.data.admin.ch/eli/oc/2023/230) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils.
 
 Anhang 3[^t-3]
 
