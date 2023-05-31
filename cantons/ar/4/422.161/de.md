@@ -3,20 +3,19 @@ canton: AR
 number: "422.161"
 title: Verordnung über die Verwaltung der Stiftung Pro Appenzell
 language: de
-version: 2015-06-01
-valid_until: 2023-05-31
-version_adopted: 2015-05-19
+version: 2023-06-01
+version_adopted: 2023-05-09
 adopted: 1963-06-01
 in_force: 1963-06-05
 url: "https://ar.clex.ch/app/de/texts_of_law/422.161"
-pdf: "https://ar.clex.ch/api/de/versions/908/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1467/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Verwaltung der Stiftung Pro Appenzell
 
-vom 01.06.1963 (Stand 01.06.2015)
+vom 01.06.1963 (Stand 01.06.2023)
 
 Der Regierungsrat des Kantons Appenzell A.Rh.,
 
@@ -28,13 +27,13 @@ verordnet:
 
 #### Art. 1
 
-<sup>1</sup> Der Präsident des Stiftungsrates wird vom Regierungsrat ernannt. Im Übrigen konstituiert sich der Stiftungsrat selbst, indem er den Vizepräsidenten und den Aktuar bezeichnet.
+<sup>1</sup> Die Präsidentin oder der Präsident des Stiftungsrates wird vom Regierungsrat ernannt. Im Übrigen konstituiert sich der Stiftungsrat selbst, indem er die Vizepräsidentin oder den Vizepräsidenten und die Aktuarin oder den Aktuar bezeichnet.
 
 #### Art. 2
 
 <sup>1</sup> Der Stiftungsrat ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist.
 
-<sup>2</sup> Er fasst seine Beschlüsse mit dem absoluten Mehr der abgegebenen Stimmen. Der Präsident stimmt mit; bei Stimmengleichheit zählt seine Stimme doppelt.
+<sup>2</sup> Er fasst seine Beschlüsse mit dem absoluten Mehr der abgegebenen Stimmen. Die Präsidentin oder der Präsident stimmt mit; bei Stimmengleichheit zählt die Stimme der Präsidentin oder des Präsidenten doppelt.
 
 <sup>3</sup> Für das Zustandekommen von Zirkulationsbeschlüssen ist die Zustimmung aller Stiftungsräte erforderlich.
 
@@ -52,13 +51,15 @@ verordnet:
 
 #### Art. 5
 
-<sup>1</sup> Der Präsident des Stiftungsrates führt die rechtsverbindliche Unterschrift für die Stiftung kollektiv zu zweit mit einem andern Mitglied des Stiftungsrates oder dem Aktuar.
+<sup>1</sup> Die Präsidentin oder der Präsident des Stiftungsrates führt die rechtsverbindliche Unterschrift für die Stiftung kollektiv zu zweit mit einem anderen Mitglied des Stiftungsrates oder der Aktuarin resp. dem Aktuar.
 
 #### Art. 6
 
-<sup>1</sup> Die Landesbuchhaltung verwaltet unentgeltlich das bewegliche Vermögen der Stiftung und führt die Stiftungsrechnung.
+<sup>1</sup> Das Amt für Finanzen verwaltet das bewegliche Vermögen der Stiftung und führt die Stiftungsrechnung.
 
 <sup>2</sup> Für die Anlage des beweglichen Vermögens ist das Departement Finanzen zuständig.
+
+<sup>3</sup> Der Verwaltungsaufwand ist angemessen zu entschädigen.
 
 #### Art. 7
 
@@ -70,11 +71,11 @@ verordnet:
 
 #### Art. 9
 
-<sup>1</sup> Den Mitgliedern des Stiftungsrates wird ein Taggeld von Fr. 250.- für eine ganztägige Sitzung oder von Fr. 125.- für eine halbtägige Sitzung ausgerichtet. Die Spesen richten sich nach dem Reglement über die Entschädigung von Inkonvenienzen, Spesen, Pikettdienst und ausserordentliche Arbeitszeit.[^9-1]
+<sup>1</sup> Den Mitgliedern des Stiftungsrates wird ein Taggeld von Fr. 300.- für eine ganztägige Sitzung oder von Fr. 150.- für eine halbtägige Sitzung ausgerichtet. Die Präsidentin oder der Präsident und die Aktuarin oder der Aktuar sind berechtigt zum Bezug des doppelten Sitzungsgeldes.
 
 <sup>2</sup> …
 
-<sup>3</sup> Die Präsidentin oder der Präsident und die Aktuarin oder der Aktuar des Stiftungsrates erhalten neben den Taggeldern und den Spesen im Sinne einer Grundentschädigung eine Zulage von Fr. 500.- pro Jahr.
+<sup>3</sup> Die Spesen richten sich nach dem Reglement über die Entschädigung von Inkonvenienzen, Spesen, Pikettdienst und ausserordentliche Arbeitszeit.[^9-1]
 
 [^9-1]: bGS 142.211.1
 
