@@ -3,28 +3,28 @@ sr: "946.231.169.4"
 title: Ordinanza del 13 maggio 2009 che istituisce provvedimenti nei confronti della Somalia
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/295"
 language: it
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2009-05-13
 in_force: 2009-05-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/295/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-295-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/295/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/295/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2009-295-20230601-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/295/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Somalia
 
-del 13 maggio 2009 (Stato 1° gennaio 2022)
+del 13 maggio 2009 (Stato 1° giugno 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (LEmb); in esecuzione delle risoluzioni 733 (1992), 1356 (2001), 1425 (2002), 1744 (2007), 1772 (2007), 1844 (2008), 1846 (2008), 1851 (2008), 1863 (2009), 2036 (2012), 2060 (2012) e 2093 (2013)[^ingress-2] del Consiglio di sicurezza delle Nazioni Unite,[^ingress-3]
+visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (LEmb); in esecuzione delle risoluzioni 733 (1992), 1356 (2001), 1425 (2002), 1744 (2007), 1772 (2007), 1844 (2008), 1846 (2008), 1851 (2008), 1863 (2009), 2036 (2012), 2060 (2012), 2093 (2013) e 2664 (2022)[^ingress-2] del Consiglio di sicurezza delle Nazioni Unite,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: I testi delle risoluzioni del Consiglio di sicurezza delle Nazioni Unite sono consultabili al seguente indirizzo Internet: www.un.org &gt; Security Council &gt; Documents &gt; Resolutions.
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 22 mag. 2013, in vigore dal 23 mag. 2013 ([RU 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
+[^ingress-2]: Le risoluzioni sono consultabili in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Nuovo testo giusta il n. I 12 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## Sezione 1: Misure coercitive
 
@@ -50,20 +50,21 @@ Sono esclusi dai divieti elencati nei capoversi 1 e 2:
 
 <sup>5</sup>
 
-La Segreteria di Stato dell’economia (SECO) può, d’intesa con i competenti uffici del Dipartimento federale degli affari esteri (DFAE) e in conformità alle decisioni del competente Comitato del Consiglio di sicurezza dell’ONU, autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 per:
+La Segreteria di Stato dell’economia (SECO) può, d’intesa con i competenti uffici del Dipartimento federale degli affari esteri (DFAE) e in conformità alle decisioni del competente Comitato del Consiglio di sicurezza delle Nazioni Unite[^1-5], autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 per:
 
 - a. equipaggiamento militare non letale destinato esclusivamente a scopi umanitari o di protezione;
 - b. beni e assistenza tecnica messi a disposizione da Stati e destinati esclusivamente a contribuire allo sviluppo di istituzioni nel settore della sicurezza, conformemente al processo politico menzionato nei paragrafi 1–5 della risoluzione 1772 (2007);
 - c. assistenza tecnica messa a disposizione da Stati e organizzazioni interessate, tra cui l’Organizzazione Marittima Internazionale (IMO), per migliorare la sicurezza delle coste e della navigazione marittima al largo della Somalia e degli Stati confinanti, conformemente al paragrafo 5 della risoluzione 1846 (2008).
 
-<sup>6</sup> Sono fatte salve le disposizioni della legge del 13 dicembre 1996[^1-5] sul controllo dei beni a duplice impiego e della legge del 13 dicembre 1996[^1-6] sul materiale bellico.
+<sup>6</sup> Sono fatte salve le disposizioni della legge del 13 dicembre 1996[^1-6] sul controllo dei beni a duplice impiego e della legge del 13 dicembre 1996[^1-7] sul materiale bellico.
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 22 mag. 2013, in vigore dal 23 mag. 2013 ([RU 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
 [^1-2]: Nuovo testo giusta il n. I dell’O del 22 mag. 2013, in vigore dal 23 mag. 2013 ([RU 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
 [^1-3]: Introdotta dal n. I dell’O del 22 mag. 2013, in vigore dal 23 mag. 2013 ([RU 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
 [^1-4]: Introdotta dal n. I dell’O del 22 mag. 2013, in vigore dal 23 mag. 2013 ([RU 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
-[^1-5]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^1-6]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-5]: Nuova espressione giusta il n. I 12 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^1-6]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^1-7]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 
 #### Art. 1a
 
@@ -88,9 +89,22 @@ Per quanto concerne il carbone di legna di cui all’allegato 3, sono vietati:
 
 <sup>2</sup> È vietato trasferire averi alle persone fisiche, alle imprese e alle organizzazioni che sottostanno al blocco, oppure mettere a loro disposizione in altro modo, direttamente o indirettamente, averi e risorse economiche.
 
-<sup>3</sup> D’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze, nonché previa notificazione al competente Comitato del Consiglio di sicurezza dell’ONU o conformemente alle decisioni di questo Comitato, la SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati, nonché la liberazione delle risorse economiche bloccate.
+<sup>3</sup>
+
+Il divieto di cui al capoverso 2 non si applica alla fornitura di aiuti umanitari e al sostegno di altre attività volte a soddisfare i bisogni umani fondamentali da parte di:
+
+- a. Organizzazione delle Nazioni Unite, anche per il tramite dei suoi programmi, fondi e altri enti e organismi, nonché sue agenzie specializzate e organizzazioni collegate;
+- b. organizzazioni internazionali;
+- c. organizzazioni umanitarie aventi status di osservatore presso l’Assemblea generale delle Nazioni Unite e membri di tali organizzazioni;
+- d. organizzazioni non governative finanziate a livello bilaterale o multilaterale che partecipano ai piani di risposta umanitaria delle Nazioni Unite, ai piani di risposta per i rifugiati, ad altri appelli delle Nazioni Unite o a strutture umanitarie coordinate dall’Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA);
+- e. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a–d nella misura in cui agiscono in tale veste;
+- f. ogni altro soggetto designato dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^2-2]
+
+<sup>4</sup> D’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze, nonché previa notifica al comitato competente del Consiglio di sicurezza delle Nazioni Unite e in conformità alle decisioni di tale comitato, la SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione di risorse economiche bloccate.[^2-3]
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 22 mag. 2013, in vigore dal 23 mag. 2013 ([RU 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
+[^2-2]: Nuovo testo giusta il n. I 12 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-3]: Introdotto dal n. I 12 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 3
 
@@ -189,7 +203,7 @@ Allegato 1[^t-1]
 
 \2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annex1-lvlu1-2].
 
-[^annex1-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Somalia and Eritrea Sanctions Committee &gt; Sanctions List Materials.
+[^annex1-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: [www.un.org/en/sc/](http://www.un.org/en/sc/) &gt; Subsidiary Organs &gt; Sanctions &gt; Somalia and Eritrea Sanctions Committee &gt; Sanctions List Materials.
 [^annex1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet:
 
 Allegato 2[^t-2]

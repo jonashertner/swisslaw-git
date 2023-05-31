@@ -3,28 +3,28 @@ sr: "946.231.169.4"
 title: Verordnung vom 13. Mai 2009 über Massnahmen gegenüber Somalia
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/295"
 language: de
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2009-05-13
 in_force: 2009-05-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/295/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-295-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/295/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/295/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2009-295-20230601-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/295/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Somalia
 
-vom 13. Mai 2009 (Stand am 1. Januar 2022)
+vom 13. Mai 2009 (Stand am 1. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG), in Ausführung der Resolutionen 733 (1992), 1356 (2001), 1425 (2002), 1744 (2007), 1772 (2007), 1844 (2008), 1846 (2008), 1851 (2008), 1863 (2009), 2036 (2012), 2060 (2012) und 2093 (2013)[^ingress-2] des Sicherheitsrats der Vereinten Nationen,[^ingress-3]
+gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG), in Ausführung der Resolutionen 733 (1992), 1356 (2001), 1425 (2002), 1744 (2007), 1772 (2007), 1844 (2008), 1846 (2008), 1851 (2008), 1863 (2009), 2036 (2012), 2060 (2012), 2093 (2013) und 2664 (2022)[^ingress-2] des Sicherheitsrats der Vereinten Nationen,[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: Die Texte der Resolutionen des Sicherheitsrats der Vereinten Nationen können im Internet unter folgender Adresse abgerufen werden: www.un.org &gt; Security Council &gt; Documents &gt; Resolutions
-[^ingress-3]: Fassung gemäss Ziff. I der V vom 22. Mai 2013, in Kraft seit vom 23. Mai 2013 ([AS 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
+[^ingress-2]: Die Resolutionen sind auf Französisch und Englisch abrufbar unter [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Fassung gemäss Ziff. I 12 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## 1. Abschnitt: Zwangsmassnahmen
 
@@ -50,20 +50,21 @@ Von den Verboten der Absätze 1 und 2 sind ausgenommen:
 
 <sup>5</sup>
 
-Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrates Ausnahmen von den Verboten der Absätze 1 und 2 bewilligen:
+Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen[^1-5] Ausnahmen von den Verboten der Absätze 1 und 2 bewilligen:
 
 - a. für nichtletales militärisches Gerät, das ausschliesslich für humanitäre oder Schutzzwecke bestimmt ist;
 - b. für Güter und technische Hilfe, die von Staaten bereitgestellt werden und die ausschliesslich als Beitrag zum Aufbau der Institutionen des Sicherheitssektors bestimmt sind, in Übereinstimmung mit dem in den Paragrafen 1–5 der Resolution 1772 (2007) genannten politischen Prozess;
 - c. für von Staaten und interessierten Organisationen wie der Internationalen Seeschifffahrtsorganisation (IMO) bereitgestellte technische Hilfe zur Verbesserung der Sicherheit der Küste und der Seeschifffahrt vor Somalia und seinen Nachbarstaaten gemäss Paragraf 5 der Resolution 1846 (2008).
 
-<sup>6</sup> Vorbehalten bleiben die Bestimmungen des Güterkontrollgesetzes vom 13. Dezember 1996[^1-5] und des Kriegsmaterialgesetzes vom 13. Dezember 1996[^1-6].
+<sup>6</sup> Vorbehalten bleiben die Bestimmungen des Güterkontrollgesetzes vom 13. Dezember 1996[^1-6] und des Kriegsmaterialgesetzes vom 13. Dezember 1996[^1-7].
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 22. Mai 2013, in Kraft seit vom 23. Mai 2013 ([AS 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
 [^1-2]: Fassung gemäss Ziff. I der V vom 22. Mai 2013, in Kraft seit vom 23. Mai 2013 ([AS 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
 [^1-3]: Eingefügt durch Ziff. I der V vom 22. Mai 2013, in Kraft seit vom 23. Mai 2013 ([AS 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
 [^1-4]: Eingefügt durch Ziff. I der V vom 22. Mai 2013, in Kraft seit vom 23. Mai 2013 ([AS 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
-[^1-5]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^1-6]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-5]: Ausdruck gemäss Ziff. I 12 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Diese Änderung wurde im ganzen Text vorgenommen.
+[^1-6]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^1-7]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 
 #### Art. 1a
 
@@ -88,9 +89,22 @@ Es ist verboten, Holzkohle nach Anhang 3:
 
 <sup>2</sup> Es ist verboten, den von der Sperrung betroffenen natürlichen Personen, Unternehmen und Organisationen Gelder zu überweisen oder Gelder und wirtschaftliche Ressourcen sonstwie direkt oder indirekt zur Verfügung zu stellen.
 
-<sup>3</sup> Ausnahmsweise kann das SECO nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements sowie nach Meldung an das zuständige Komitee des UNO-Sicherheitsrates oder in Übereinstimmung mit den Beschlüssen dieses Komitees Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen bewilligen.
+<sup>3</sup>
+
+Das Verbot nach Absatz 2 gilt nicht für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+
+- a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
+- b. internationale Organisationen;
+- c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
+- d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
+- e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d genannten Organisationen, soweit sie in dieser Eigenschaft handeln;
+- f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.[^2-2]
+
+<sup>4</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements sowie nach Meldung an das zuständige Komitee des Sicherheitsrats der Vereinten Nationen und in Übereinstimmung mit den Beschlüssen dieses Komitees Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen.[^2-3]
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 22. Mai 2013, in Kraft seit vom 23. Mai 2013 ([AS 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
+[^2-2]: Fassung gemäss Ziff. I 12 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-3]: Eingefügt durch Ziff. I 12 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 3
 
@@ -111,7 +125,7 @@ In dieser Verordnung bedeuten:
 
 <sup>1</sup> Die Einreise in die Schweiz oder die Durchreise durch die Schweiz ist den in Anhang 1 aufgeführten natürlichen Personen verboten.[^4-1]
 
-<sup>2</sup> Das Staatssekretariat für Migration (SEM)[^4-2] kann in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrates Ausnahmen gewähren.
+<sup>2</sup> Das Staatssekretariat für Migration (SEM)[^4-2] kann in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen Ausnahmen gewähren.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 22. Mai 2013, in Kraft seit vom 23. Mai 2013 ([AS 2013 1545](https://fedlex.data.admin.ch/eli/oc/2013/359)).
 [^4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 anepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
@@ -189,7 +203,7 @@ Anhang 1[^t-1]
 
 \2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex1-lvlu1-2]
 
-[^annex1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Somalia and Eritrea Sanctions Committee &gt; Sanctions List Materials.
+[^annex1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions 751 ( Al-Shabaab) &gt; Sanctions List Materials.
 [^annex1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
 
 Anhang 2[^t-2]
