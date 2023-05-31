@@ -4,13 +4,13 @@ number: "115.1"
 title: "Loi sur l'exercice des droits politiques"
 short: LEDP
 language: fr
-version: 2023-01-01
-valid_until: 2023-05-31
-version_adopted: 2022-10-13
+version: 2023-06-01
+valid_until: 2023-12-31
+version_adopted: 2023-05-17
 adopted: 2001-04-06
 in_force: 2001-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/115.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7655/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7769/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Droits politiques – L
 
 (LEDP)
 
-du 06.04.2001 (version entrée en vigueur le 01.01.2023)
+du 06.04.2001 (version entrée en vigueur le 01.06.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -72,7 +72,7 @@ Décrète:
 - a) les Suisses et Suissesses domiciliés dans la commune;
 - b) les étrangers et étrangères domiciliés dans la commune qui sont domiciliés dans le canton depuis au moins cinq ans et au bénéfice d'une autorisation d'établissement (permis C).
 
-<sup>2</sup> La commune procède à l'enregistrement dans le registre électoral. En cas de doute sur la qualité de citoyenneté active, l'étranger ou l'étrangère, dont la qualité est en question, est tenu-e de collaborer à l'établissement des faits justifiant l'octroi de cette qualité.
+<sup>2</sup> La commune procède à l'enregistrement dans le registre électoral. Dans ce but, l'Etat lui fournit régulièrement, sous forme électronique ou imprimée, la liste détaillée des personnes étrangères domiciliées dans la commune susceptibles de remplir les conditions de l'alinéa 1 let. b. En cas de doute sur la qualité de citoyenneté active, la personne étrangère concernée est tenue de collaborer avec la commune à l'établissement des faits justifiant l'octroi de cette qualité.
 
 <sup>3</sup> …
 
@@ -100,7 +100,7 @@ Décrète:
 
 <sup>3</sup> Si la personne qui change de domicile politique n'est pas inscrite au registre électoral de son nouveau domicile, elle exerce son droit de vote à son ancien domicile politique.
 
-### 1.2 Registre électoral et bureau électoral communal
+### 1.2 Registre et bureau électoral communal
 
 ### 1.2.1 Registre électoral
 
@@ -108,9 +108,9 @@ Décrète:
 
 **Tenue du registre**
 
-<sup>1</sup> Chaque commune tient un registre électoral dans lequel sont inscrites toutes les personnes jouissant de l'exercice des droits politiques.
+<sup>1</sup> Chaque commune tient un registre électoral dans lequel sont inscrites toutes les personnes jouissant de l'exercice des droits politiques aux fins d'accomplir les tâches qui lui incombent en vertu de la présente loi et de son règlement d'exécution.
 
-<sup>1<sup>bis</sup></sup> Le registre électoral des Suisses et Suissesses de l'étranger est harmonisé dans tout le canton. Le règlement d'exécution fixe les modalités de sa tenue.
+<sup>1<sup>bis</sup></sup> Le règlement d'exécution fixe les modalités de la tenue des registres électoraux et mentionne les données traitées.
 
 <sup>2</sup> L'inscription au registre électoral en vue d'un scrutin peut être effectuée jusqu'au cinquième jour précédant le jour fixé pour le scrutin.
 
@@ -146,11 +146,13 @@ Décrète:
 
 <sup>1</sup> Au plus tard lors de l'envoi du matériel de vote ou du matériel électoral, le conseil communal nomme un bureau électoral composé de personnes exerçant leurs droits politiques dans la commune. Il peut désigner des suppléants ou suppléantes.
 
-<sup>2</sup> Le conseil communal tient compte équitablement des partis ou groupes politiques représentés dans la commune. Ceux-ci peuvent faire des propositions, dans les délais fixés par le règlement d'exécution.
+<sup>2</sup> Le conseil communal tient compte équitablement des partis ou groupes politiques représentés dans la commune. Ceux-ci peuvent faire des propositions dans les délais fixés par le règlement d'exécution de la présente loi.
 
 <sup>3</sup> Le bureau électoral se constitue dans les plus brefs délais et désigne son président ou sa présidente.
 
-<sup>4</sup> Le conseil communal peut en plus désigner des scrutateurs ou scrutatrices qui, sous la responsabilité du bureau électoral, participent aux opérations du scrutin.
+<sup>4</sup> Pour les scrutins communaux et intercommunaux, les personnes de nationalité étrangère titulaires de la citoyenneté active peuvent être nommées aux fonctions mentionnées aux alinéas 1 et 3.
+
+<sup>5</sup> Le conseil communal peut désigner, parmi les personnes capables de discernement domiciliées dans la commune, des scrutateurs ou scrutatrices qui, sous la responsabilité du bureau électoral, participent aux opérations du scrutin.
 
 #### Art. 8
 
@@ -164,7 +166,7 @@ Décrète:
 - b) les membres du Conseil d'Etat;
 - c) les député-e-s ainsi que les membres du Secrétariat du Grand Conseil;
 - d) le chancelier ou la chancelière d'Etat et le vice-chancelier ou la vice-chancelière d'Etat;
-- e) les préfets;
+- e) les préfets et préfètes;
 - f) les magistrats et magistrates permanents des autorités judiciaires;
 - g) le personnel de la Chancellerie d'Etat, des préfectures et du service compétent en matière de droits politiques[^8-1];
 - h) les Suisses et Suissesses de l'étranger.
@@ -180,6 +182,18 @@ Décrète:
 <sup>1</sup> Lors des élections cantonales ou communales, une personne candidate ne peut être ni membre du bureau électoral ni scrutateur ou scrutatrice.
 
 <sup>2</sup> De même, les parents en ligne directe d'une personne candidate ainsi que son conjoint, ou sa conjointe, ou la personne avec laquelle elle est liée par un partenariat enregistré ne peuvent être ni membres du bureau électoral, ni scrutateurs ou scrutatrices.
+
+### 1.2a Registre électoral cantonal
+
+#### Art. 9a
+
+<sup>1</sup> Il est tenu un registre électoral cantonal répertoriant toutes les personnes ayant la citoyenneté active communale ou cantonale dans le canton de Fribourg, y compris les Suisses et Suissesses de l'étranger. Les données qu'il contient proviennent des registres électoraux communaux.
+
+<sup>2</sup> La Chancellerie d'Etat et les communes ont accès au registre électoral cantonal dans la mesure nécessaire à l'exécution des tâches qui leur incombent en vertu de la présente loi et de son règlement d'exécution.
+
+<sup>3</sup> Le règlement d'exécution fixe les mesures techniques et organisationnelles propres à assurer la sécurité des données traitées.
+
+<sup>4</sup> Pour le surplus, l'article 4 al. 1<sup>bis</sup> à 4 et les articles 5 et 6 sont applicables.
 
 ### 1.3 Scrutin
 
@@ -204,9 +218,9 @@ Décrète:
 
 **Surveillance**
 
-<sup>1</sup> Le préfet assure, dans son district et le ou les cercles électoraux qui le composent, le déroulement régulier de tous les scrutins fédéraux, cantonaux et communaux. Il pourvoit à l'application uniforme des dispositions légales.
+<sup>1</sup> Le préfet ou la préfète assure, dans son district et le ou les cercles électoraux qui le composent, le déroulement régulier de tous les scrutins fédéraux, cantonaux et communaux. Il ou elle pourvoit à l'application uniforme des dispositions légales.
 
-<sup>2</sup> En cas d'application, par analogie, de la présente loi aux votations organisées dans les associations de communes recouvrant plusieurs districts, le préfet du siège de l'association est compétent.
+<sup>2</sup> En cas d'application, par analogie, de la présente loi aux votations organisées dans les associations de communes recouvrant plusieurs districts, le préfet ou la préfète du siège de l'association est compétent‑e.
 
 #### Art. 12
 
@@ -225,6 +239,39 @@ Décrète:
 <sup>3</sup> En matière fédérale et cantonale, les personnes ayant l'exercice des droits politiques ont le droit d'obtenir le matériel de vote dans la langue officielle de leur choix. Il en va de même en matière communale, dans les communes où une pratique bilingue est généralisée.
 
 <sup>4</sup> Le bureau électoral veille à ce que du matériel de vote soit à la disposition des électeurs et électrices lors du scrutin.
+
+#### Art. 12a
+
+**Brochure explicative**
+
+<sup>1</sup> Pour les votations cantonales, le Conseil d'Etat édite une brochure explicative qui est jointe au matériel de vote et qui contient:
+
+- a) la question soumise au vote;
+- b) des explications succinctes et objectives sur l'objet du vote, comprenant notamment les avis principalement exprimés à son sujet lors de la procédure parlementaire;
+- c) le résultat du vote du Grand Conseil relatif à l'objet soumis au vote;
+- d) l'avis et la recommandation de vote du Conseil d'Etat et du Grand Conseil.
+
+<sup>2</sup> Dans le cas d'une initiative ou d'un referendum facultatif, le comité remet au Conseil d'Etat un texte présentant ses arguments. Ce texte est traité équitablement par rapport à l'avis des autorités. Le Conseil d'Etat peut modifier ou refuser des propos portant atteinte à l'honneur, manifestement contraires à la vérité ou trop longs.
+
+<sup>3</sup> Le contenu et la présentation de la brochure explicative ne doivent pas s'apparenter à ceux d'une brochure publicitaire. Elle ne doit en outre contenir aucune annonce publicitaire.
+
+<sup>4</sup> Le contenu de la brochure explicative doit être rédigé de manière simple et privilégier un langage compréhensible et accessible à toute citoyenne et tout citoyen.
+
+<sup>5</sup> Le présent article s'applique par analogie aux votations communales soumises aux urnes. Cas échéant, il appartient à l'organe exécutif de la commune concernée d'établir la brochure.
+
+#### Art. 12b
+
+**Information des citoyens et citoyennes actifs**
+
+<sup>1</sup> Le Conseil d'Etat informe les citoyens et citoyennes actifs de façon suivie sur les objets soumis à la votation cantonale en expliquant la position des autorités cantonales.
+
+<sup>2</sup> Le Conseil d'Etat peut prendre position sur des objets de votation communale si l'issue du scrutin revêt un intérêt particulier pour le canton.
+
+<sup>3</sup> Chacune de ses interventions doit respecter les principes de l'objectivité, de la transparence et de la proportionnalité.
+
+<sup>4</sup> Les alinéa 1 et 3 s'appliquent par analogie aux votations communales soumises aux urnes. Cas échéant, il appartient à l'organe exécutif de la commune concernée d'informer.
+
+<sup>5</sup> Les autorités exécutives d'une commune peuvent prendre position sur l'objet d'une votation cantonale si son résultat revêt pour la commune concernée un intérêt direct et particulier qui dépasse de loin l'intérêt qu'il revêt pour les autres communes.
 
 #### Art. 13
 
@@ -278,7 +325,7 @@ Décrète:
 
 #### Art. 18
 
-**Vote anticipé**
+**Vote anticipé – Principe**
 
 <sup>1</sup> Dès réception du matériel de vote, toute personne peut exercer son droit de vote de manière anticipée, par correspondance ou par dépôt.
 
@@ -289,17 +336,45 @@ Décrète:
 <sup>3</sup> L'enveloppe-réponse fermée, contenant le certificat de capacité civique et l'enveloppe de vote dans laquelle se trouve uniquement le bulletin de vote ou la liste électorale, doit être:
 
 - a) soit postée de manière à parvenir au bureau électoral avant la clôture du scrutin. Les frais de port sont en principe à la charge de la personne votant. Les enveloppes non ou insuffisamment affranchies sont refusées;
-- b) soit déposée auprès du secrétariat communal ou à l'endroit fixé par le conseil communal, au plus tard jusqu'au dimanche, une heure avant l'ouverture du local de vote.
+- b) soit déposée auprès du secrétariat communal ou à l'endroit fixé par le conseil communal, au plus tard le dimanche avant l'ouverture du local de vote.
 
 <sup>4</sup> Toute récolte organisée des enveloppes-réponses est interdite (art. 282<sup>bis</sup> du code pénal suisse).
 
-<sup>5</sup> L'enregistrement des enveloppes-réponses est effectué dès leur réception au secrétariat communal.
+<sup>5</sup> …
+
+#### Art. 18a
+
+**Vote anticipé – Enregistrement des votes**
+
+<sup>1</sup> Les enveloppes-réponses peuvent être ouvertes dès leur réception au secrétariat communal, aux fins d'enregistrement et de vérification de la citoyenneté active des votants et votantes.
+
+<sup>2</sup> Aussitôt la citoyenneté active des votantes et votants et la présence de leur signature confirmées, les enveloppes de vote sont déposées sans être ouvertes dans l'urne correspondante.
+
+<sup>3</sup> Les opérations citées aux alinéas précédents ne peuvent être exécutées que par des employé-e-s communaux. Le Conseil communal peut décider qu'elles ont lieu en présence d'une délégation du bureau électoral.
 
 #### Art. 19
 
 **Vote à domicile**
 
 <sup>1</sup> Les personnes incapables d'accomplir les actes nécessaires à l'exercice du droit de vote peuvent voter à domicile, en présence d'une délégation du bureau électoral.
+
+#### Art. 19a
+
+**Vote électronique**
+
+<sup>1</sup> Le vote peut être exercé de manière électronique aux conditions suivantes:
+
+- a) les exigences juridiques, techniques et organisationnelles fixées dans la législation fédérale en matière de vote électronique et en matière de protection des données sont respectées;
+- b) des mesures appropriées sont prises pour assurer la sécurité du vote, la fiabilité du résultat, le secret du suffrage, l'absence d'influence extérieure et le respect de l'intégrité numérique;
+- c) le système utilisé a reçu l'agrément de la Confédération.
+
+<sup>2</sup> Pour les scrutins fédéraux, le recours au vote électronique est subordonné à l'obtention d'une autorisation générale du Conseil fédéral aussi longtemps que le droit fédéral l'exige.
+
+<sup>3</sup> Le vote électronique est introduit de manière progressive dans les limites fixées par le droit fédéral. Le Conseil d'Etat décide pour quels scrutins le vote électronique est ouvert et fixe en accord avec les communes concernées le périmètre sur lequel il peut être exercé.
+
+<sup>4</sup> Le Conseil d'Etat informe les électeurs et les électrices de manière appropriée sur l'organisation, le fonctionnement et le déroulement du vote électronique. Il peut déléguer cette tâche à un organe subordonné.
+
+<sup>5</sup> Le Conseil d'Etat peut fixer les conditions techniques et organisationnelles par voie règlementaire.
 
 #### Art. 20
 
@@ -317,7 +392,7 @@ Décrète:
 
 <sup>2</sup> Dans les communes ayant plusieurs locaux de vote, le dépouillement s'effectue au lieu où siège le président ou la présidente du bureau électoral ou dans chacun des locaux de vote, sous la responsabilité d'un membre du bureau électoral désigné à cet effet.
 
-<sup>3</sup> Le préfet peut ordonner toutes les mesures nécessaires à la sécurité du dépouillement.
+<sup>3</sup> Le préfet ou la préfète peut ordonner toutes les mesures nécessaires à la sécurité du dépouillement.
 
 #### Art. 22
 
@@ -413,6 +488,58 @@ Décrète:
 - e) un nom répété, dans les cas où le cumul est interdit;
 - f) des noms en sus du nombre de sièges à pourvoir.
 
+#### Art. 25a
+
+**Recomptage – Ecart égal ou inférieur à 0,3 %**
+
+<sup>1</sup> L'autorité compétente pour la proclamation ou la constatation des résultats ordonne le recomptage des suffrages si l'écart entre les résultats relatifs au même objet est égal ou inférieur à 0,3 % des voix valablement exprimées.
+
+<sup>2</sup> Les suffrages sont également recomptés lorsque l'écart entre les voix valablement exprimées en faveur d'une initiative et celles exprimées en faveur du contre-projet est égal ou inférieur à 0,3 %.
+
+<sup>3</sup> Le résultat d'une élection selon le mode de scrutin majoritaire est recompté lorsque la différence entre le nombre de suffrages obtenus par une personne élue et celui d'une personne non élue est inférieure ou égale à 0,3 % des voix recueillies par la personne élue.
+
+<sup>4</sup> Le recomptage au sens des alinéas 1 à 3 est ordonné par:
+
+- a) le bureau électoral pour l'élection du conseil communal selon le système majoritaire;
+- b) le conseil communal en cas de votation communale;
+- c) le Conseil d'Etat s'agissant:
+  - 1\. de l'élection des préfets et des préfètes;
+  - 2\. de l'élection du Conseil d'Etat lui-même;
+  - 3\. de l'élection du Conseil des Etats;
+  - 4\. des votations cantonales.
+
+<sup>5</sup> Les alinéas qui précèdent ne sont pas applicables:
+
+- a) aux élections communales et cantonales selon le mode de scrutin proportionnel;
+- b) aux votations organisées par les associations de communes, conformément aux articles 123c et 123f de la loi sur les communes;
+- c) aux élections au Conseil national et aux votations fédérales.
+
+#### Art. 25b
+
+**Recomptage – Indices concrets d'irrégularité et résultat serré**
+
+<sup>1</sup> Hormis les cas mentionnés à l'article 25a, les suffrages sont recomptés si:
+
+- a) il existe des indices concrets d'irrégularité dans l'organisation ou la tenue du scrutin et
+- b) le résultat est serré.
+
+<sup>2</sup> Le recomptage au sens de l'alinéa 1 est ordonné par:
+
+- a) le préfet ou la préfète s'agissant:
+  - 1\. des élections communales selon le mode de scrutin proportionnel et majoritaire;
+  - 2\. des votations communales.
+- b) le Conseil d'Etat s'agissant des votations cantonales et des élections selon le mode de scrutin proportionnel et majoritaire.
+
+<sup>3</sup> Dans le cas d'élection selon le mode de scrutin proportionnel, le recomptage peut être ordonné pour toute la circonscription concernée ou une partie de celle-ci seulement.
+
+#### Art. 25c
+
+**Recomptage – Opérations et résultats**
+
+<sup>1</sup> Le recomptage est effectué par le bureau électoral des communes concernées, quelle que soit l'autorité qui l'ordonne.
+
+<sup>2</sup> Si le recomptage aboutit une nouvelle fois à un résultat révélant une différence inférieure ou égale à 0,3 % (art. 25a) ou à un résultat serré (art. 25b), un second recomptage est exclu. Le cas échéant, le résultat du recomptage fait foi.
+
 #### Art. 26
 
 **Procès-verbal**
@@ -427,23 +554,23 @@ Décrète:
 
 **Communication des résultats – Scrutins fédéraux et cantonaux**
 
-<sup>1</sup> Lors de chaque scrutin fédéral ou cantonal, les bulletins de vote ou les listes électorales sont groupés en un paquet cacheté, qui est transmis immédiatement au préfet par le bureau électoral avec un exemplaire du procès-verbal.
+<sup>1</sup> Lors de chaque scrutin fédéral ou cantonal, un exemplaire du procès-verbal est transmis immédiatement au préfet ou à la préfète par le bureau électoral.
 
-<sup>2</sup> Le préfet communique immédiatement à la Chancellerie d'Etat le tableau récapitulatif des résultats de son district et les procès-verbaux.
+<sup>2</sup> Le préfet ou la préfète communique immédiatement à la Chancellerie d'Etat le tableau récapitulatif des résultats de son district et les procès-verbaux.
 
 <sup>2<sup>bis</sup></sup> La Chancellerie d'Etat communique immédiatement au Conseil d'Etat les résultats des scrutins.
 
 <sup>3</sup> Le Conseil d'Etat communique immédiatement à la Chancellerie fédérale les résultats des scrutins fédéraux, conformément aux dispositions du droit fédéral.
 
-<sup>4</sup> Le Conseil d'Etat transmet au Grand Conseil, avec les actes y relatifs, les résultats des élections au Conseil des Etats, au Grand Conseil, au Conseil d'Etat ainsi qu'à la fonction de préfet.
+<sup>4</sup> Le Conseil d'Etat transmet au Grand Conseil, avec les actes y relatifs, les résultats des élections au Conseil des Etats, au Grand Conseil, au Conseil d'Etat ainsi qu'à la fonction de préfet ou préfète.
 
 #### Art. 28
 
 **Communication des résultats – Scrutins communaux**
 
-<sup>1</sup> Lors de chaque scrutin communal, le bureau électoral communique immédiatement un exemplaire du procès-verbal au préfet et affiche aussitôt les résultats du scrutin au pilier public.
+<sup>1</sup> Lors de chaque scrutin communal, le bureau électoral communique immédiatement un exemplaire du procès-verbal au préfet ou à la préfète et affiche aussitôt les résultats du scrutin au pilier public.
 
-<sup>2</sup> Lors du renouvellement intégral des autorités communales, le préfet assure la communication des résultats de l'ensemble des communes de son district.
+<sup>2</sup> Lors du renouvellement intégral des autorités communales, le préfet ou la préfète assure la communication des résultats de l'ensemble des communes de son district.
 
 #### Art. 29
 
@@ -523,13 +650,13 @@ Décrète:
 <sup>2</sup> Sont compétents pour demander la correction d'une liste électorale:
 
 - a) la Chancellerie d'Etat, dans le cas des élections fédérales et des élections au Conseil des Etats et au Conseil d'Etat;
-- b) la préfecture, dans le cas des élections au Grand Conseil et à la fonction de préfet;
+- b) la préfecture, dans le cas des élections au Grand Conseil et à la fonction de préfet ou préfète;
 - c) le secrétariat communal, dans le cas des élections communales.
 
 <sup>3</sup> En cas de contestation sur la dénomination d'une liste, sont compétents pour statuer:
 
 - a) le Conseil d'Etat, dans le cas des élections fédérales et cantonales;
-- b) le préfet, dans le cas des élections communales.
+- b) le préfet ou la préfète, dans le cas des élections communales.
 
 <sup>4</sup> Dans le cas des élections cantonales ou communales, la décision est susceptible de recours conformément aux articles 150 et suivants.
 
@@ -539,7 +666,7 @@ Décrète:
 
 <sup>1</sup> Lors des élections cantonales, l'Etat organise l'impression des listes électorales et en assume les frais.
 
-<sup>2</sup> Les signataires des listes déposées peuvent obtenir au prix coûtant, auprès de la Chancellerie d'Etat, des listes électorales supplémentaires.
+<sup>2</sup> …
 
 <sup>3</sup> Lors des élections communales, le conseil communal décide:
 
@@ -613,7 +740,7 @@ Décrète:
 <sup>1</sup> Le Conseil d'Etat, par un arrêté publié dans la Feuille officielle, convoque le corps électoral pour:
 
 - a) les élections au Conseil des Etats;
-- b) les élections au Grand Conseil, au Conseil d'Etat et à la fonction de préfet;
+- b) les élections au Grand Conseil, au Conseil d'Etat et à la fonction de préfet ou de préfète;
 - c) les élections communales générales.
 
 <sup>2</sup> Le corps électoral est convoqué au plus tard le lundi de la huitième semaine précédant le jour des élections.
@@ -628,7 +755,7 @@ Décrète:
 
 **Date des élections**
 
-<sup>1</sup> Les élections en vue du renouvellement intégral du Grand Conseil, du Conseil d'Etat et des préfets ont lieu tous les cinq ans, au quatrième trimestre, à la date fixée par le Conseil d'Etat.
+<sup>1</sup> Les élections en vue du renouvellement intégral du Grand Conseil, du Conseil d'Etat et des préfets et préfètes ont lieu tous les cinq ans, au quatrième trimestre, à la date fixée par le Conseil d'Etat.
 
 <sup>2</sup> Les élections en vue du renouvellement intégral des conseils communaux et des conseils généraux ont lieu tous les cinq ans, au premier trimestre, à la date fixée par le Conseil d'Etat. Les dispositions légales particulières en matière de fusions de communes demeurent réservées.
 
@@ -636,7 +763,7 @@ Décrète:
 
 **Eligibilité**
 
-<sup>1</sup> Toute personne jouissant de l'exercice des droits politiques en matière cantonale est éligible au Conseil des Etats, au Conseil d'Etat et à la fonction de préfet, si elle est domiciliée dans le canton. Toutefois, une personne ayant siégé au Conseil d'Etat durant trois législatures complètes n'y est plus éligible.
+<sup>1</sup> Toute personne jouissant de l'exercice des droits politiques en matière cantonale est éligible au Conseil des Etats, au Conseil d'Etat et à la fonction de préfet ou préfète, si elle est domiciliée dans le canton. Toutefois, une personne ayant siégé au Conseil d'Etat durant trois législatures complètes n'y est plus éligible.
 
 <sup>2</sup> Toute personne jouissant de l'exercice des droits politiques n'est éligible au Grand Conseil que dans le cercle où elle a son domicile. Toutefois, les personnes élues et les viennent-ensuite qui changent de cercle électoral en cours de législature peuvent conserver leur siège ou être proclamées élues au Grand Conseil jusqu'à la fin de la législature.
 
@@ -650,7 +777,7 @@ Décrète:
 
 - a) les membres du Conseil d'Etat;
 - b) le secrétaire général ou la secrétaire générale et les autres membres du Secrétariat du Grand Conseil;
-- c) les préfets;
+- c) les préfets et préfètes;
 - d) les juges professionnels ainsi que les greffiers et greffières;
 - e) les collaborateurs et collaboratrices de l'Etat engagés par le Conseil d'Etat ou l'une de ses Directions, lorsqu'ils participent à l'exercice du Pouvoir exécutif ou lorsqu'ils sont fortement impliqués dans la préparation des éléments sur lesquels le Grand Conseil se fonde pour prendre des décisions.
 
@@ -698,14 +825,14 @@ Décrète:
 <sup>6</sup> Les listes de signataires peuvent être consultées, jusqu'à la clôture du scrutin:
 
 - a) auprès de la Chancellerie d'Etat, dans le cas des élections au Conseil d'Etat et au Conseil des Etats;
-- b) auprès de la préfecture, dans le cas des élections au Grand Conseil et à la fonction de préfet;
+- b) auprès de la préfecture, dans le cas des élections au Grand Conseil et à la fonction de préfet ou de préfète;
 - c) auprès du secrétariat communal, dans le cas des élections communales.
 
 #### Art. 52a
 
 **Signataires des listes électorales – Exception a) Conditions**
 
-<sup>1</sup> Pour les élections au Conseil des Etats, au Grand Conseil, au Conseil d'Etat et à la fonction de préfet, l'obligation mentionnée à l'article 52 ne s'applique pas à un parti politique qui était enregistré dans les règles au registre des partis politiques à la fin de l'année précédant l'élection.
+<sup>1</sup> Pour les élections au Conseil des Etats, au Grand Conseil, au Conseil d'Etat et à la fonction de préfet ou préfète, l'obligation mentionnée à l'article 52 ne s'applique pas à un parti politique qui était enregistré dans les règles au registre des partis politiques à la fin de l'année précédant l'élection.
 
 <sup>2</sup> Le parti qui remplit les conditions prévues à l'alinéa précédent doit uniquement déposer les signatures valables de toutes les personnes candidates, de la personne mandataire chargée des relations avec les autorités et de son suppléant ou de sa suppléante.
 
@@ -756,7 +883,7 @@ Décrète:
 
 <sup>1</sup> Pour les élections se déroulant selon le mode de scrutin proportionnel, si une personne est portée candidate sur plus d'une liste, son nom est immédiatement éliminé de toutes les listes.
 
-<sup>2</sup> Pour l'élection au Grand Conseil, si les listes sont déposées dans le même cercle, le nom est éliminé par le préfet; si elles le sont dans des cercles différents, le nom est éliminé par la Chancellerie d'Etat.
+<sup>2</sup> Pour l'élection au Grand Conseil, si les listes sont déposées dans le même cercle, le nom est éliminé par le préfet ou la préfète; si elles le sont dans des cercles différents, le nom est éliminé par la Chancellerie d'Etat.
 
 <sup>3</sup> Pour les élections communales, le nom est éliminé par le secrétariat communal.
 
@@ -767,12 +894,12 @@ Décrète:
 <sup>1</sup> Les candidatures des personnes inéligibles ou en surnombre sont éliminées des listes électorales par:
 
 - a) la Chancellerie d'Etat, dans le cas des élections au Conseil d'Etat et au Conseil des Etats;
-- b) la préfecture, dans le cas des élections au Grand Conseil et à la fonction de préfet;
+- b) la préfecture, dans le cas des élections au Grand Conseil et à la fonction de préfet ou préfète;
 - c) le secrétariat communal, dans le cas des élections communales.
 
 <sup>2</sup> Les personnes concernées par une élimination des listes électorales et les mandataires des signataires sont immédiatement informés.
 
-<sup>3</sup> Toute contestation est soumise sans délai au Conseil d'Etat, dans le cas des élections cantonales, ou au préfet, dans le cas des élections communales. L'autorité notifie sa décision aux personnes concernées et aux mandataires des signataires.
+<sup>3</sup> Toute contestation est soumise sans délai au Conseil d'Etat, dans le cas des élections cantonales, ou au préfet ou à la préfète, dans le cas des élections communales. L'autorité notifie sa décision aux personnes concernées et aux mandataires des signataires.
 
 <sup>4</sup> La décision est susceptible de recours conformément aux articles 150 et suivants.
 
@@ -783,7 +910,7 @@ Décrète:
 <sup>1</sup> Le cas échéant, seuls les signataires peuvent remplacer les candidatures éliminées et rectifier ou compléter leur désignation sur l'invitation de:
 
 - a) la Chancellerie d'Etat, dans le cas des élections au Conseil d'Etat et au Conseil des Etats;
-- b) la préfecture, dans le cas des élections au Grand Conseil et à la fonction de préfet;
+- b) la préfecture, dans le cas des élections au Grand Conseil et à la fonction de préfet ou préfète;
 - c) le secrétariat communal, dans le cas des élections communales.
 
 <sup>2</sup> Les indications relatives aux personnes remplaçant celles dont la candidature a été éliminée et les indications relatives à la rectification des listes électorales sont communiquées à l'organe compétent au plus tard le lundi de la cinquième semaine précédant le jour de l'élection, jusqu'à 12 heures. Toutefois, pour l'élection des député-e-s au Conseil des Etats, la date limite est le lundi de la septième semaine précédant le jour de l'élection.
@@ -812,11 +939,11 @@ Décrète:
 
 **Bureau électoral du cercle**
 
-<sup>1</sup> Lors des élections des membres du Grand Conseil et des préfets, chaque préfet nomme pour le ou les cercles qui composent son district, au plus tard dix jours avant l'élection, un bureau électoral.
+<sup>1</sup> Lors des élections des membres du Grand Conseil et des préfets ou préfètes, chaque préfet ou préfète nomme pour le ou les cercles qui composent son district, au plus tard dix jours avant l'élection, un bureau électoral.
 
 <sup>2</sup> Il fixe, en fonction des besoins, le nombre des membres du bureau et de leurs suppléants ou suppléantes et les désigne parmi les personnes exerçant leurs droits politiques dans le cercle. Il désigne en outre le ou la secrétaire.
 
-<sup>2<sup>bis</sup></sup> Pour l'élection au Grand Conseil, les préfets de la Glâne et de la Veveyse nomment conjointement, parmi les membres des deux bureaux électoraux de leurs cercles, une délégation chargée de la répartition des sièges dans le groupe de cercles électoraux (art. 75a à 75d), sous la surveillance des deux préfets. Ceux-ci se coordonnent en outre en vue de procéder à un éventuel tirage au sort.
+<sup>2<sup>bis</sup></sup> Pour l'élection au Grand Conseil, les préfets ou préfètes de la Glâne et de la Veveyse nomment conjointement, parmi les membres des deux bureaux électoraux de leurs cercles, une délégation chargée de la répartition des sièges dans le groupe de cercles électoraux (art. 75a à 75d), sous la surveillance des deux préfets ou préfètes. Ceux-ci se coordonnent en outre en vue de procéder à un éventuel tirage au sort.
 
 <sup>3</sup> Pour le surplus, les règles relatives au bureau électoral communal sont applicables par analogie.
 
@@ -824,7 +951,7 @@ Décrète:
 
 **Validation des élections et publication des résultats**
 
-<sup>1</sup> Le Grand Conseil, sur message du Conseil d'Etat, valide les élections des membres du Grand Conseil et du Conseil d'Etat ainsi que des préfets.
+<sup>1</sup> Le Grand Conseil, sur message du Conseil d'Etat, valide les élections des membres du Grand Conseil et du Conseil d'Etat ainsi que des préfets ou préfètes.
 
 <sup>2</sup> Les élections communales ne font pas l'objet d'une procédure de validation.
 
@@ -1092,11 +1219,11 @@ Décrète:
 
 <sup>2</sup> Les personnes non élues de chaque liste (viennent-ensuite) sont inscrites au procès-verbal dans l'ordre du nombre de suffrages obtenus.
 
-<sup>3</sup> En cas d'égalité de suffrages entre plusieurs personnes candidates sur une même liste et à moins que l'une d'elles ne cède son rang, il est procédé à un tirage au sort en présence des personnes intéressées. La personne écartée par le sort ou qui a cédé son rang garde son rang dans la liste des viennent-ensuite.
+<sup>3</sup> En cas d'égalité de suffrages entre plusieurs personnes candidates sur une même liste et à moins que l'une d'elles ne cède son rang, il est procédé à un tirage au sort. La personne écartée par le sort ou qui a cédé son rang garde son rang dans la liste des viennent-ensuite.
 
 <sup>4</sup> Est compétent pour procéder à la proclamation des personnes élues ou au tirage au sort:
 
-- a) le préfet, dans le cas de l'élection au Grand Conseil;
+- a) le préfet ou la préfète, dans le cas de l'élection au Grand Conseil;
 - b) le bureau électoral, dans le cas des élections au conseil communal et au conseil général.
 
 <sup>5</sup> Lorsqu'une liste obtient plus de sièges qu'elle ne contient de personnes candidates, les sièges non attribués font l'objet d'une élection complémentaire.
@@ -1109,7 +1236,7 @@ Décrète:
 
 <sup>1</sup> En cas de vacance d'un siège en cours de législature, la personne en tête des viennent-ensuite de la liste concernée est proclamée élue:
 
-- a) par le préfet, dans le cas de l'élection au Grand Conseil;
+- a) par le préfet ou la préfète, dans le cas de l'élection au Grand Conseil;
 - b) par le conseil communal, dans le cas des élections au conseil communal et au conseil général.
 
 <sup>2</sup> Elle peut décliner son élection dans les trois jours à compter de la proclamation; dans ce cas, le siège est attribué à la personne suivante. Lors d'une vacance ultérieure, son nom est à nouveau pris en considération, sauf si la vacance précédente a déjà donné lieu à une élection complémentaire.
@@ -1142,14 +1269,14 @@ Décrète:
 
 <sup>1</sup> Lors d'une élection complémentaire, si le nombre des personnes candidates de toutes les listes déposées est égal ou inférieur à celui des sièges à pourvoir, les personnes candidates sont proclamées élues, sans scrutin:
 
-- a) par le préfet, dans le cas de l'élection au Grand Conseil;
+- a) par le préfet ou la préfète, dans le cas de l'élection au Grand Conseil;
 - b) par le conseil communal, dans le cas des élections au conseil communal et au conseil général.
 
 <sup>2</sup> Si tous les sièges sont pourvus, l'arrêté de convocation du corps électoral pour le cercle ou la commune concernés est rapporté par l'autorité compétente.
 
-<sup>3</sup> Si, après la proclamation des personnes élues tacitement, il reste des sièges vacants, la convocation du corps électoral du cercle ou de la commune concernés est maintenue, et le scrutin a lieu selon les règles de l'élection sans dépôt de listes.
+<sup>3</sup> Si, après la proclamation des personnes élues sans scrutin, il reste des sièges vacants, la convocation du corps électoral du cercle ou de la commune concernés est maintenue, et le scrutin a lieu selon les règles de l'élection ouverte.
 
-### 3.3.2.6 Election sans dépôt de listes
+### 3.3.2.6 Election ouverte
 
 #### Art. 81
 
@@ -1161,7 +1288,7 @@ Décrète:
 
 <sup>3</sup> Est compétent pour informer les personnes de l'obtention de suffrages et enregistrer leur détermination:
 
-- a) le préfet, dans le cas de l'élection au Grand Conseil;
+- a) le préfet ou la préfète, dans le cas de l'élection au Grand Conseil;
 - b) le secrétariat communal, dans le cas des élections au conseil communal et au conseil général.
 
 <sup>4</sup> Le bureau électoral raye des listes le nom des personnes qui refusent l'élection ainsi que celui des personnes inéligibles.
@@ -1174,11 +1301,11 @@ Décrète:
 
 <sup>2</sup> Les personnes non élues sont inscrites au procès-verbal dans l'ordre du nombre de suffrages obtenus.
 
-<sup>3</sup> En cas d'égalité de suffrages entre plusieurs personnes et à moins que l'une d'elles ne cède son rang, il est procédé à un tirage au sort en présence des personnes intéressées.
+<sup>3</sup> En cas d'égalité de suffrages entre plusieurs personnes et à moins que l'une d'elles ne cède son rang, il est procédé à un tirage au sort.
 
 <sup>4</sup> Est compétent pour procéder à la proclamation des personnes élues ou au tirage au sort:
 
-- a) le préfet, dans le cas de l'élection au Grand Conseil;
+- a) le préfet ou la préfète, dans le cas de l'élection au Grand Conseil;
 - b) le bureau électoral, dans le cas des élections au conseil communal et au conseil général.
 
 <sup>5</sup> S'il reste des sièges non attribués, ceux-ci font l'objet d'une élection complémentaire.
@@ -1191,7 +1318,7 @@ Décrète:
 
 **Champ d'application**
 
-<sup>1</sup> L'élection des député-e-s au Conseil des Etats, des membres du Conseil d'Etat et des préfets a lieu selon le mode de scrutin majoritaire, conformément aux dispositions de la présente loi.
+<sup>1</sup> L'élection des député-e-s au Conseil des Etats, des membres du Conseil d'Etat et des préfets ou préfètes a lieu selon le mode de scrutin majoritaire, conformément aux dispositions de la présente loi.
 
 <sup>2</sup> L'élection des membres du conseil communal a lieu selon le mode de scrutin majoritaire, à moins qu'une demande d'application du mode de scrutin proportionnel ne soit déposée.
 
@@ -1204,7 +1331,7 @@ Décrète:
 <sup>2</sup> Les listes doivent être déposées:
 
 - a) à la Chancellerie d'Etat, dans le cas des élections au Conseil des Etats et au Conseil d'Etat;
-- b) à la préfecture, dans le cas de l'élection à la fonction de préfet;
+- b) à la préfecture, dans le cas de l'élection à la fonction de préfet ou préfète;
 - c) au secrétariat communal, dans le cas de l'élection au conseil communal.
 
 #### Art. 85
@@ -1213,7 +1340,7 @@ Décrète:
 
 <sup>1</sup> Dans le cas des élections au Conseil des Etats et au Conseil d'Etat, chaque liste doit être signée personnellement par au moins cinquante personnes habiles à voter en matière cantonale. L'article 52a est réservé.
 
-<sup>2</sup> Dans le cas de l'élection à la fonction de préfet, chaque liste doit être signée personnellement par au moins cinquante personnes inscrites dans le registre électoral d'une commune du district en cause et habiles à voter en matière cantonale. L'article 52a est réservé.
+<sup>2</sup> Dans le cas de l'élection à la fonction de préfet ou préfète, chaque liste doit être signée personnellement par au moins cinquante personnes inscrites dans le registre électoral d'une commune du district en cause et habiles à voter en matière cantonale. L'article 52a est réservé.
 
 <sup>3</sup> Dans le cas de l'élection au conseil communal, chaque liste doit être signée par des personnes domiciliées dans la commune en cause et ayant l'exercice des droits politiques, au moins au nombre de:
 
@@ -1260,7 +1387,7 @@ Décrète:
 
 <sup>2</sup> Si le premier tour de scrutin donne la majorité absolue à plus de personnes qu'il n'y a de sièges à pourvoir, celles qui ont obtenu le plus de suffrages sont élues, à concurrence du nombre de sièges disponibles.
 
-<sup>3</sup> En cas d'égalité de suffrages, le chancelier ou la chancelière d'Etat ou, dans le cas de l'élection au conseil communal, le préfet procède à un tirage au sort en présence des personnes intéressées.
+<sup>3</sup> En cas d'égalité de suffrages, le chancelier ou la chancelière d'Etat ou, dans le cas de l'élection au conseil communal, le préfet ou la préfète procède à un tirage au sort en présence des personnes intéressées.
 
 #### Art. 90
 
@@ -1281,7 +1408,7 @@ Décrète:
 <sup>1</sup> Les personnes prenant rang pour le second tour de scrutin peuvent se retirer. Elles doivent en informer, au plus tard le mercredi de la troisième semaine précédant le jour de l'élection, jusqu'à 12 heures:
 
 - a) la Chancellerie d'Etat, dans le cas des élections au Conseil des Etats et au Conseil d'Etat;
-- b) la préfecture, dans le cas de l'élection à la fonction de préfet;
+- b) la préfecture, dans le cas de l'élection à la fonction de préfet ou préfète;
 - c) le secrétariat communal, dans le cas de l'élection au conseil communal.
 
 <sup>2</sup> Les signataires de la liste sur laquelle ces personnes figuraient peuvent, au plus tard le vendredi de la troisième semaine précédant le jour de l'élection, jusqu'à 12 heures, présenter des candidatures de remplacement. Les personnes qui ont signé la liste déposée pour le premier tour mais dont la signature ne peut plus être obtenue peuvent être remplacées.
@@ -1296,7 +1423,7 @@ Décrète:
 
 <sup>1</sup> Au second tour de scrutin, sont élues les personnes qui ont obtenu le plus de suffrages (majorité relative).
 
-<sup>2</sup> En cas d'égalité de suffrages, le chancelier ou la chancelière d'Etat ou, dans le cas de l'élection au conseil communal, le préfet procède à un tirage au sort en présence des personnes intéressées.
+<sup>2</sup> En cas d'égalité de suffrages, le chancelier ou la chancelière d'Etat ou, dans le cas de l'élection au conseil communal, le préfet ou la préfète procède à un tirage au sort en présence des personnes intéressées.
 
 #### Art. 93
 
@@ -1316,9 +1443,9 @@ Décrète:
 
 <sup>1</sup> Le Conseil d'Etat procède à la proclamation des personnes élues au Conseil d'Etat, et le Grand Conseil procède à leur assermentation.
 
-<sup>2</sup> Le Conseil d'Etat procède à la proclamation et à l'assermentation des personnes élues à la fonction de préfet.
+<sup>2</sup> Le Conseil d'Etat procède à la proclamation et à l'assermentation des personnes élues à la fonction de préfet ou préfète.
 
-<sup>3</sup> Le bureau électoral procède à la proclamation des personnes élues au conseil communal, et le préfet procède à leur assermentation.
+<sup>3</sup> Le bureau électoral procède à la proclamation des personnes élues au conseil communal, et le préfet ou la préfète procède à leur assermentation.
 
 <sup>4</sup> L'autorité de proclamation veille à informer les personnes candidates.
 
@@ -1332,7 +1459,7 @@ Décrète:
 
 <sup>1</sup> Au premier tour de scrutin, il n'y a pas d'élection tacite.
 
-<sup>2</sup> Si le nombre des personnes candidates de toutes les listes déposées est égal ou inférieur à celui des sièges à pourvoir, il est procédé à une élection qui a lieu selon les règles de l'élection sans dépôt de listes.
+<sup>2</sup> Si le nombre des personnes candidates de toutes les listes déposées est égal ou inférieur à celui des sièges à pourvoir, il est procédé à une élection qui a lieu selon les règles de l'élection ouverte.
 
 <sup>3</sup> Les listes déposées restent valables. Elles sont imprimées et distribuées selon les règles ordinaires.
 
@@ -1342,7 +1469,7 @@ Décrète:
 
 <sup>1</sup> Au second tour de scrutin, si le nombre des personnes candidates est égal ou inférieur à celui des sièges qui restent à pourvoir, toutes les personnes candidates sont proclamées élues, sans scrutin.
 
-<sup>2</sup> S'il reste des sièges à pourvoir, la convocation du corps électoral est maintenue, mais pour un second tour de scrutin qui a lieu selon les règles de l'élection sans dépôt de listes.
+<sup>2</sup> S'il reste des sièges à pourvoir, la convocation du corps électoral est maintenue, mais pour un second tour de scrutin qui a lieu selon les règles de l'élection ouverte.
 
 #### Art. 97
 
@@ -1352,9 +1479,9 @@ Décrète:
 
 <sup>2</sup> Si tous les sièges sont pourvus, l'arrêté de convocation du corps électoral pour le cercle ou la commune concernés est rapporté par l'autorité compétente.
 
-<sup>3</sup> Si, après la proclamation des personnes élues tacitement, il reste des sièges vacants, la convocation du corps électoral du cercle ou de la commune concernés est maintenue, et le scrutin a lieu selon les règles de l'élection sans dépôt de listes.
+<sup>3</sup> Si, après la proclamation des personnes élues sans scrutin, il reste des sièges vacants, la convocation du corps électoral du cercle ou de la commune concernés est maintenue, et le scrutin a lieu selon les règles de l'élection ouverte.
 
-### 3.3.3.3 Election sans dépôt de listes
+### 3.3.3.3 Election ouverte
 
 #### Art. 98
 
@@ -1370,17 +1497,17 @@ Décrète:
 
 <sup>2</sup> Les personnes qui ont atteint la majorité absolue en sont immédiatement informées par:
 
-- a) la Chancellerie d'Etat, dans le cas des élections au Conseil des Etats, au Conseil d'Etat et à la fonction de préfet;
+- a) la Chancellerie d'Etat, dans le cas des élections au Conseil des Etats, au Conseil d'Etat et à la fonction de préfet ou préfète;
 - b) le bureau électoral, dans le cas de l'élection au conseil communal.
 
 <sup>3</sup> Les personnes ayant obtenu la majorité absolue doivent indiquer, jusqu'au mercredi suivant le jour du scrutin, à 12 heures au plus tard, si elles acceptent leur élection. Tout défaut de réponse est considéré comme un refus de l'élection.
 
 <sup>4</sup> Le bureau électoral raye des listes le nom des personnes qui refusent l'élection ainsi que celui des personnes inéligibles.
 
-<sup>5</sup> S'il y a plus de personnes ayant obtenu la majorité absolue et acceptant leur élection qu'il n'y a de personnes à élire, celles qui ont obtenu le moins de suffrages ne sont pas prises en considération, jusqu'à concurrence du nombre de sièges à pourvoir. En cas d'égalité de suffrages, il est procédé à un tirage au sort en présence des personnes intéressées:
+<sup>5</sup> S'il y a plus de personnes ayant obtenu la majorité absolue et acceptant leur élection qu'il n'y a de personnes à élire, celles qui ont obtenu le moins de suffrages ne sont pas prises en considération, jusqu'à concurrence du nombre de sièges à pourvoir. En cas d'égalité de suffrages, il est procédé à un tirage au sort:
 
-- a) par le chancelier ou la chancelière d'Etat, dans le cas des élections au Conseil des Etats, au Conseil d'Etat et à la fonction de préfet;
-- b) par le préfet, dans le cas de l'élection au conseil communal.
+- a) par le chancelier ou la chancelière d'Etat, dans le cas des élections au Conseil des Etats, au Conseil d'Etat et à la fonction de préfet ou préfète;
+- b) par le préfet ou la préfète, dans le cas de l'élection au conseil communal.
 
 #### Art. 100
 
@@ -1391,14 +1518,14 @@ Décrète:
 <sup>2</sup> Peuvent participer au second tour de scrutin les personnes non élues au premier tour, à concurrence du double des sièges qui restent à pourvoir. Sur requête de l'autorité, elles doivent confirmer, au plus tard le vendredi de la troisième semaine précédant le jour de l'élection, jusqu'à 12 heures, leur participation au second tour de scrutin:
 
 - a) à la Chancellerie d'Etat, dans le cas des élections au Conseil des Etats et au Conseil d'Etat;
-- b) à la préfecture, dans le cas de l'élection à la fonction de préfet;
+- b) à la préfecture, dans le cas de l'élection à la fonction de préfet ou préfète;
 - c) au secrétariat communal, dans le cas de l'élection au conseil communal.
 
 <sup>3</sup> Si les personnes pouvant participer au second tour de scrutin refusent leur candidature, celles qui ont obtenu moins de suffrages peuvent les remplacer, dans l'ordre des suffrages obtenus.
 
 <sup>4</sup> Si le nombre des personnes candidates pour le second tour de scrutin est égal ou inférieur à celui des sièges qui restent à pourvoir, toutes les personnes candidates sont proclamées élues, sans scrutin.
 
-<sup>5</sup> S'il reste des sièges à pourvoir, la convocation du corps électoral est maintenue pour un second tour de scrutin qui a lieu sans dépôt de listes.
+<sup>5</sup> S'il reste des sièges à pourvoir, la convocation du corps électoral est maintenue pour un second tour de scrutin qui a lieu selon les règles de l'élection ouverte.
 
 #### Art. 101
 
@@ -1406,7 +1533,7 @@ Décrète:
 
 <sup>1</sup> Au second tour de scrutin, sont proclamées élues les personnes qui ont obtenu le plus de suffrages (majorité relative).
 
-<sup>2</sup> En cas d'égalité de suffrages, le chancelier ou la chancelière d'Etat ou, dans le cas de l'élection au conseil communal, le préfet procède à un tirage au sort en présence des personnes intéressées.
+<sup>2</sup> En cas d'égalité de suffrages, le chancelier ou la chancelière d'Etat ou, dans le cas de l'élection au conseil communal, le préfet ou la préfète procède à un tirage au sort.
 
 ## 4 Exercice des droits populaires
 
@@ -1615,6 +1742,8 @@ Décrète:
 <sup>2</sup> Le délai dans lequel la votation populaire doit avoir lieu peut être prolongé d'une année par le Grand Conseil, sur rapport motivé du Conseil d'Etat.
 
 <sup>3</sup> Le Grand Conseil et le Conseil d'Etat peuvent émettre des recommandations de vote.
+
+<sup>4</sup> L'acte par lequel le Grand Conseil statue sur la validité d'une initiative indique les voies de droit ouvertes à son encontre.
 
 #### Art. 118
 
@@ -1827,6 +1956,8 @@ Décrète:
 
 <sup>3</sup> La Chancellerie d'Etat publie dans la Feuille officielle le résultat du dénombrement des signatures valables et la constatation de l'aboutissement ou non de la demande de referendum.
 
+<sup>4</sup> La ou les personnes désignées par les signataires ou, à défaut, les cinq premiers signataires de la demande de referendum constituent le comité référendaire.
+
 #### Art. 136
 
 **Referendum parlementaire financier facultatif – Votation populaire et conséquences du vote**
@@ -1835,7 +1966,7 @@ Décrète:
 
 <sup>2</sup> La votation doit avoir lieu au plus tard dans le délai de cent huitante jours dès la publication dans la Feuille officielle de la constatation de l'aboutissement de la demande de referendum.
 
-<sup>3</sup> Pour le surplus, les articles 134 et 136h sont applicables.
+<sup>3</sup> Pour le surplus, l'article 136h est applicable.
 
 ### 4.3.3 Motion populaire
 
@@ -1928,7 +2059,7 @@ Décrète:
 
 <sup>3</sup> Dès réception de la demande d'initiative, le conseil communal procède au contrôle préliminaire du titre et du texte de l'initiative ainsi que des listes de signatures.
 
-<sup>4</sup> Au besoin, l'initiative est corrigée, en collaboration avec le comité d'initiative. En cas de désaccord, le préfet statue.
+<sup>4</sup> Au besoin, l'initiative est corrigée, en collaboration avec le comité d'initiative. En cas de désaccord, le préfet ou la préfète statue.
 
 #### Art. 139
 
@@ -1986,6 +2117,34 @@ Décrète:
 
 <sup>3</sup> Le conseil communal publie le résultat de la votation dans la Feuille officielle.
 
+### 4a Calcul des délais
+
+#### Art. 144a
+
+**Computation et observation des délais**
+
+<sup>1</sup> Les délais fixés en jours par la présente loi commencent à courir le lendemain du jour de leur communication ou de l'événement qui les déclenche.
+
+<sup>2</sup> L'échéance du délai est reportée au premier jour utile qui suit lorsqu'elle tombe sur:
+
+- a) un samedi ou un dimanche;
+- b) le 1<sup>er</sup> (Nouvel-An) et le 2 janvier;
+- c) le Vendredi-Saint;
+- d) le lundi de Pâques;
+- e) le 1<sup>er</sup> mai;
+- f) l'Ascension;
+- g) le lundi de Pentecôte;
+- h) la Fête-Dieu (le 2<sup>e</sup> jeudi après Pentecôte);
+- i) le 1<sup>er</sup> août (Fête nationale);
+- j) le 15 août (Assomption);
+- k) le 1<sup>er</sup> novembre (Toussaint);
+- l) le 8 décembre (Immaculée conception);
+- m) les 24, 25 et 26 décembre.
+
+<sup>3</sup> Il n'y a pas de période de suspension des délais.
+
+<sup>4</sup> La présente disposition ne s'applique pas aux voies de droit prévues par la présente loi et le code de procédure et de juridiction administrative.
+
 ## 5 Voies de droit et dispositions pénales
 
 ### 5.1 Voies de droit
@@ -2024,7 +2183,7 @@ Décrète:
 
 **Réclamation contre le registre électoral – Recours**
 
-<sup>1</sup> Les personnes intéressées peuvent recourir auprès du préfet contre la décision sur réclamation. Les dispositions fédérales régissant les recours concernant le registre des électeurs et électrices en matière fédérale sont réservées.
+<sup>1</sup> Les personnes intéressées peuvent recourir auprès du préfet ou de la préfète contre la décision sur réclamation. Les dispositions fédérales régissant les recours concernant le registre des électeurs et électrices en matière fédérale sont réservées.
 
 <sup>2</sup> Pour le reste, la procédure de recours est régie par le code de procédure et de juridiction administrative.
 
@@ -2036,7 +2195,7 @@ Décrète:
 
 <sup>2</sup> Est compétent pour statuer:
 
-- a) le préfet, dans le cas de la contestation contre un bureau électoral communal;
+- a) le préfet ou la préfète, dans le cas de la contestation contre un bureau électoral communal;
 - b) le Conseil d'Etat, dans le cas de la contestation contre un bureau électoral de cercle.
 
 <sup>3</sup> La contestation doit être faite dans le délai de cinq jours dès la nomination du bureau électoral. Il n'y a pas de féries.
@@ -2071,7 +2230,7 @@ Décrète:
 
 <sup>2</sup> …
 
-<sup>3</sup> Sont des actes préparatoires toutes les opérations et les mesures d'organisation effectuées par les autorités avant le scrutin.
+<sup>3</sup> …
 
 #### Art. 151
 
@@ -2081,13 +2240,21 @@ Décrète:
 
 #### Art. 152
 
-**Règles de procédure – Qualité pour recourir**
+**Règles de procédure – Qualité pour recourir et délai de recours**
 
 <sup>1</sup> Toute personne ayant l'exercice des droits politiques ainsi que tout parti ou groupe d'électeurs et électrices organisé corporativement a qualité pour recourir.
 
 <sup>2</sup> Le recours doit être interjeté dans le délai de dix jours dès la publication des résultats dans la Feuille officielle ou, dans le cas des votations et élections communales, dès l'affichage des résultats au pilier public.
 
-<sup>3</sup> Le recours contre les actes préparatoires, y compris la dénomination d'une liste (art. 37) ou son toilettage (art. 56), doit être interjeté dans le délai de cinq jours dès la connaissance du motif de recours, mais au plus tard dans le délai de dix jours dès la publication ou l'affichage des résultats du scrutin. Il n'y a pas de féries judiciaires.
+<sup>3</sup> …
+
+#### Art. 152a
+
+**Recours contre les actes préparatoires**
+
+<sup>1</sup> Un recours contre les actes préparatoires peut être interjeté dans le délai de cinq jours dès la connaissance des motifs du recours, mais au plus tard dans le délai de dix jours dès la publication ou l'affichage des résultats du scrutin. Il n'y a pas de féries judiciaires.
+
+<sup>2</sup> Sont des actes préparatoires toutes les opérations et les mesures d'organisation effectuées par les autorités avant le scrutin, y compris la dénomination d'une liste (art. 37) ou son toilettage (art. 56).
 
 #### Art. 153
 

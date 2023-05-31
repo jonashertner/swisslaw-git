@@ -4,13 +4,13 @@ number: "115.1"
 title: Gesetz über die Ausübung der politischen Rechte
 short: PRG
 language: de
-version: 2023-01-01
-valid_until: 2023-05-31
-version_adopted: 2022-10-13
+version: 2023-06-01
+valid_until: 2023-12-31
+version_adopted: 2023-05-17
 adopted: 2001-04-06
 in_force: 2001-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/115.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7655/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7769/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Politische Rechte – G
 
 (PRG)
 
-vom 06.04.2001 (Fassung in Kraft getreten am 01.01.2023)
+vom 06.04.2001 (Fassung in Kraft getreten am 01.06.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -72,7 +72,7 @@ beschliesst:
 - a) Schweizerinnen und Schweizer in ihrer Wohnsitzgemeinde;
 - b) niederlassungsberechtigte Ausländerinnen und Ausländer in ihrer Wohnsitzgemeinde, wenn sie seit mindestens fünf Jahren im Kanton Wohnsitz haben (C-Ausweis).
 
-<sup>2</sup> Die Wohnsitzgemeinde nimmt die Eintragung ins Stimmregister vor. Bestehen Zweifel über die Stimmberechtigung, so müssen die betreffenden Ausländerinnen und Ausländer bei der Feststellung des Sachverhalts, der ihre Eintragung rechtfertigen würde, mitwirken.
+<sup>2</sup> Die Wohnsitzgemeinde nimmt die Eintragung ins Stimmregister vor. Zu diesem Zweck stellt ihr der Staat regelmässig in elektronischer oder gedruckter Form eine detaillierte Liste der in der Gemeinde wohnhaften ausländischen Personen zur Verfügung, die möglicherweise die Bedingungen von Absatz 1 Bst. b erfüllen. Bestehen Zweifel an der Stimmberechtigung, so muss die betreffende ausländische Person mit der Gemeinde bei der Feststellung des Sachverhalts, der ihre Eintragung rechtfertigen würde, zusammenarbeiten.
 
 <sup>3</sup> …
 
@@ -108,9 +108,9 @@ beschliesst:
 
 **Führung des Registers**
 
-<sup>1</sup> Jede Gemeinde führt ein Stimmregister, in dem alle stimmberechtigten Personen aufgeführt sind.
+<sup>1</sup> Für die Erfüllung der Aufgaben nach diesem Gesetz und seinem Ausführungsreglement führt jede Gemeinde ein Stimmregister, in dem alle stimmberechtigten Personen aufgeführt sind.
 
-<sup>1<sup>bis</sup></sup> Das Stimmregister für Auslandschweizerinnen und Auslandschweizer wird im ganzen Kanton harmonisiert. Das Ausführungsreglement bestimmt die Registerführung im Einzelnen.
+<sup>1<sup>bis</sup></sup> Das Ausführungsreglement bestimmt die Führung der Stimmregister im Einzelnen und erwähnt die bearbeiteten Daten.
 
 <sup>2</sup> Vor einem Urnengang können Eintragungen in das Stimmregister bis zum 5. Tag vor dem Wahl- oder Abstimmungstag vorgenommen werden.
 
@@ -146,11 +146,13 @@ beschliesst:
 
 <sup>1</sup> Spätestens beim Versand des Stimm- oder Wahlmaterials bestellt der Gemeinderat ein Wahlbüro, das sich aus Personen zusammensetzt, die in der Gemeinde stimmberechtigt sind. Er kann Ersatzmitglieder bezeichnen.
 
-<sup>2</sup> Der Gemeinderat trägt den in der Gemeinde vertretenen Parteien und Wählergruppen angemessen Rechnung. Diese können innerhalb der im Ausführungsreglement festgesetzten Fristen Vorschläge unterbreiten.
+<sup>2</sup> Der Gemeinderat trägt den in der Gemeinde vertretenen Parteien und Wählergruppen angemessen Rechnung. Diese können innerhalb der im Ausführungsreglement zu diesem Gesetz festgesetzten Fristen Vorschläge unterbreiten.
 
 <sup>3</sup> Das Wahlbüro konstituiert sich so rasch wie möglich und bezeichnet seine Präsidentin oder seinen Präsidenten.
 
-<sup>4</sup> Der Gemeinderat kann zudem Stimmenzählerinnen und -zähler bezeichnen, die unter der Verantwortung des Wahlbüros an den Abstimmungsvorgängen mitwirken.
+<sup>4</sup> Stimm- und wahlberechtigte Personen mit ausländischer Staatsangehörigkeit können bei kommunalen und interkommunalen Urnengängen für die Funktionen nach den Absätzen 1 und 3 ernannt werden.
+
+<sup>5</sup> Der Gemeinderat kann unter den urteilsfähigen Personen mit Wohnsitz in der Gemeinde Stimmenzählerinnen und -zähler bezeichnen, die unter der Verantwortung des Wahlbüros an den Abstimmungsvorgängen mitwirken.
 
 #### Art. 8
 
@@ -164,7 +166,7 @@ beschliesst:
 - b) die Mitglieder des Staatsrates;
 - c) die Mitglieder des Grossen Rates und die Mitglieder des Sekretariats des Grossen Rates;
 - d) die Staatskanzlerin oder der Staatskanzler und die Vizekanzlerin oder der Vizekanzler;
-- e) die Oberamtmänner;
+- e) die Oberamtfrauen und Oberamtmänner;
 - f) die vollamtlichen Magistratinnen und Magistraten der Gerichtsbehörden;
 - g) das Personal der Staatskanzlei, der Oberämter und des für die politischen Rechte zuständigen Amts[^8-1];
 - h) die Auslandschweizerinnen und Auslandschweizer.
@@ -180,6 +182,18 @@ beschliesst:
 <sup>1</sup> Bei kantonalen und kommunalen Wahlen darf eine Kandidatin oder ein Kandidat weder Mitglied des Wahlbüros noch Stimmenzählerin oder -zähler sein.
 
 <sup>2</sup> Verwandte in gerader Linie sowie der Ehegatte oder die Ehegattin einer Kandidatin oder eines Kandidaten oder die Person, mit der die Kandidatin oder der Kandidat in eingetragener Partnerschaft lebt, dürfen ebenfalls weder Mitglied des Wahlbüros noch Stimmenzählerin oder -zähler sein.
+
+### 1.2a Kantonales Stimmregister
+
+#### Art. 9a
+
+<sup>1</sup> Es wird ein kantonales Stimmregister geführt, in dem alle im Kanton Freiburg auf kantonaler oder kommunaler Ebene stimm- und wahlberechtigten Personen, einschliesslich der Auslandschweizerinnen und Auslandschweizer, verzeichnet sind. Die darin enthaltenen Daten stammen aus den kommunalen Stimmregistern.
+
+<sup>2</sup> Die Staatskanzlei und die Gemeinden haben Zugang zum kantonalen Stimmregister, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz und seinem Ausführungsreglement notwendig ist.
+
+<sup>3</sup> Das Ausführungsreglement bestimmt die organisatorischen und technischen Massnahmen zur Gewährleistung der Sicherheit der bearbeiteten Daten.
+
+<sup>4</sup> Im Übrigen gelten Artikel 4 Abs. 1<sup>bis</sup>–4 sowie die Artikel 5 und 6.
 
 ### 1.3 Urnengang
 
@@ -204,9 +218,9 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Der Oberamtmann gewährleistet in seinem Bezirk und im Wahlkreis oder in den Wahlkreisen, aus denen dieser besteht, den ordnungsgemässen Ablauf aller eidgenössischen, kantonalen und kommunalen Urnengänge. Er sorgt für die einheitliche Anwendung der Gesetzesbestimmungen.
+<sup>1</sup> Die Oberamtfrau oder der Oberamtmann gewährleistet in seinem Bezirk und im Wahlkreis oder in den Wahlkreisen, aus denen dieser besteht, den ordnungsgemässen Ablauf aller eidgenössischen, kantonalen und kommunalen Urnengänge. Sie oder er sorgt für die einheitliche Anwendung der Gesetzesbestimmungen.
 
-<sup>2</sup> Ist dieses Gesetz auf Abstimmungen in Gemeindeverbänden, die sich über mehrere Bezirke erstrecken, sinngemäss anwendbar, so ist der Oberamtmann des Sitzes des Verbandes zuständig.
+<sup>2</sup> Ist dieses Gesetz auf Abstimmungen in Gemeindeverbänden, die sich über mehrere Bezirke erstrecken, sinngemäss anwendbar, so ist die Oberamtfrau oder der Oberamtmann des Sitzes des Verbandes zuständig.
 
 #### Art. 12
 
@@ -225,6 +239,39 @@ beschliesst:
 <sup>3</sup> Bei eidgenössischen und kantonalen Urnengängen hat jede stimmberechtigte Person das Recht, das Material in der Amtssprache ihrer Wahl zu erhalten. Dies gilt in Gemeinden, in denen die Zweisprachigkeit allgemein praktiziert wird, auch für kommunale Urnengänge.
 
 <sup>4</sup> Das Wahlbüro sorgt dafür, dass das Stimmmaterial den Stimmberechtigten beim Urnengang zur Verfügung steht.
+
+#### Art. 12a
+
+**Abstimmungsbroschüre**
+
+<sup>1</sup> Der Staatsrat gibt für die kantonalen Abstimmungen eine Abstimmungsbroschüre heraus, die dem Stimmmaterial beigelegt wird und die Folgendes enthält:
+
+- a) die Abstimmungsfrage;
+- b) kurze und sachliche Erläuterungen zur Abstimmungsvorlage, die namentlich die wichtigsten im parlamentarischen Entscheidungsprozess dazu vertretenen Positionen wiedergeben;
+- c) das Ergebnis der Abstimmung des Grossen Rates über die Abstimmungsvorlage;
+- d) die Stellungnahme und die Abstimmungsempfehlung des Staatsrats und des Grossen Rates.
+
+<sup>2</sup> Für Initiativen oder fakultative Referenden übermittelt das Komitee dem Staatsrat einen Text mit seinen Argumenten. Dieser Text wird gleich behandelt wie die Stellungnahme der Behörden. Der Staatsrat kann Äusserungen abändern oder verweigern, welche die Ehre verletzen, nachweislich der Wahrheit widersprechen oder zu lang sind.
+
+<sup>3</sup> Inhalt und Gestaltung der Abstimmungsbroschüre dürfen nicht an eine Werbebroschüre erinnern. Sie darf zudem keine Werbeanzeigen enthalten.
+
+<sup>4</sup> Der Inhalt der Abstimmungsbroschüre muss einfach und vorzugsweise in einer Sprache, die für alle Bürgerinnen und Bürger verständlich und zugänglich ist, abgefasst sein.
+
+<sup>5</sup> Dieser Artikel gilt sinngemäss für Gemeindeabstimmungen an der Urne. Gegebenenfalls ist es Aufgabe des Exekutivorgans der betreffenden Gemeinde, die Broschüre zu erstellen.
+
+#### Art. 12b
+
+**Information der Stimmberechtigten**
+
+<sup>1</sup> Der Staatsrat informiert die Stimmberechtigten fortlaufend über die kantonalen Abstimmungsvorlagen, indem er die Haltung der kantonalen Behörden erklärt.
+
+<sup>2</sup> Der Staatsrat kann zu kommunalen Abstimmungsvorlagen Stellung nehmen, wenn das Ergebnis des Urnengangs für den Kanton von besonderem Interesse ist.
+
+<sup>3</sup> Jede seiner Interventionen muss die Grundsätze der Sachlichkeit, der Transparenz und der Verhältnismässigkeit beachten.
+
+<sup>4</sup> Die Absätze 1 und 3 gelten sinngemäss für Gemeindeabstimmungen an der Urne. Gegebenenfalls ist es Aufgabe des Exekutivorgans der betreffenden Gemeinde, zu informieren.
+
+<sup>5</sup> Die Exekutivbehörden einer Gemeinde können zu einer kantonalen Abstimmungsvorlage Stellung nehmen, wenn das Ergebnis des Urnengangs für die betreffende Gemeinde von direktem und besonderem Interesse ist und das Interesse der anderen Gemeinden bei weitem übersteigt.
 
 #### Art. 13
 
@@ -278,7 +325,7 @@ beschliesst:
 
 #### Art. 18
 
-**Vorzeitige Stimmabgabe**
+**Vorzeitige Stimmabgabe – Grundsatz**
 
 <sup>1</sup> Jede stimmberechtigte Person kann ihr Stimmrecht brieflich oder durch Abgabe bei der Gemeinde vorzeitig ausüben, sobald sie das Stimmmaterial erhalten hat.
 
@@ -289,17 +336,45 @@ beschliesst:
 <sup>3</sup> Das verschlossene Antwortcouvert mit dem Stimmrechtsausweis und dem Stimmcouvert, das lediglich den Stimmzettel oder die Wahlliste enthält, muss:
 
 - a) entweder rechtzeitig der Post übergeben werden, so dass es vor der Schliessung des Urnengangs beim Wahlbüro eintrifft; die Portokosten gehen grundsätzlich zu Lasten der stimmberechtigten Person; nicht oder ungenügend frankierte Couverts werden zurückgewiesen;
-- b) oder bis spätestens eine Stunde vor der Öffnung des Stimmlokals am Sonntag bei der Gemeindeschreiberei oder an einem vom Gemeinderat bezeichneten Ort abgegeben werden.
+- b) oder bis spätestens vor der Öffnung des Stimmlokals am Sonntag bei der Gemeindeschreiberei oder an einem vom Gemeinderat bezeichneten Ort abgegeben werden.
 
 <sup>4</sup> Jedes organisierte Sammeln der Antwortcouverts ist verboten (Art. 282<sup>bis</sup> des Schweizerischen Strafgesetzbuchs).
 
-<sup>5</sup> Die Antwortcouverts werden nach ihrem Eingang bei der Gemeindeschreiberei erfasst.
+<sup>5</sup> …
+
+#### Art. 18a
+
+**Vorzeitige Stimmabgabe – Erfassung der Stimmen**
+
+<sup>1</sup> Die Antwortcouverts können ab ihrem Erhalt bei der Gemeindeschreiberei geöffnet werden, um sie zu erfassen und die Stimmberechtigung der Stimmenden zu überprüfen.
+
+<sup>2</sup> Sobald die Stimmberechtigung der Stimmenden und das Vorhandensein ihrer Unterschrift bestätigt sind, werden die Stimmcouverts ungeöffnet in die entsprechende Urne gelegt.
+
+<sup>3</sup> Die in den vorangehenden Absätzen genannten Vorgänge dürfen nur von Gemeindeangestellten durchgeführt werden. Der Gemeinderat kann beschliessen, dass sie in Anwesenheit einer Delegation des Wahlbüros erfolgen.
 
 #### Art. 19
 
 **Stimmabgabe daheim**
 
 <sup>1</sup> Personen, die an den für die Ausübung des Stimmrechts notwendigen Handlungen verhindert sind, können in Anwesenheit einer Delegation des Wahlbüros daheim stimmen.
+
+#### Art. 19a
+
+**Elektronische Stimmabgabe (E-Voting)**
+
+<sup>1</sup> Die Stimmabgabe kann unter folgenden Bedingungen elektronisch ausgeübt werden:
+
+- a) Die rechtlichen, technischen und organisatorischen Anforderungen der Bundesgesetzgebung über die elektronischer Stimmabgabe und den Datenschutz werden eingehalten.
+- b) Es werden geeignete Massnahmen ergriffen, um die Sicherheit der Abstimmung, die Zuverlässigkeit des Ergebnisses und das Stimmgeheimnis sicherzustellen, die externe Einflussnahme zu verhindern und die digitale Integrität zu wahren.
+- c) Das verwendete System wurde vom Bund zugelassen.
+
+<sup>2</sup> Für eidgenössische Urnengänge braucht es für die Verwendung der elektronischen Stimmabgabe eine Grundbewilligung durch den Bundesrat, solange dies laut Bundesrecht erforderlich ist.
+
+<sup>3</sup> Die elektronische Stimmabgabe wird schrittweise in den vom Bundesrecht vorgegebenen Grenzen eingeführt. Der Staatsrat entscheidet, für welche Urnengänge die elektronische Stimmabgabe möglich ist, und legt in Abstimmung mit den betroffenen Gemeinden den Perimeter fest, in dem elektronisch abgestimmt werden kann.
+
+<sup>4</sup> Der Staatsrat informiert die Stimmberechtigten in geeigneter Weise über die Organisation, die Funktionsweise und den Ablauf der elektronischen Stimmabgabe. Er kann diese Aufgabe einer untergeordneten Behörde übertragen.
+
+<sup>5</sup> Der Staatsrat kann die technischen und organisatorischen Bedingungen in einem Reglement festlegen.
 
 #### Art. 20
 
@@ -317,7 +392,7 @@ beschliesst:
 
 <sup>2</sup> In Gemeinden mit mehreren Wahllokalen erfolgt die Auszählung am Sitz der Präsidentin oder des Präsidenten des Wahlbüros oder in den einzelnen Wahllokalen unter der Leitung eines zu diesem Zweck bezeichneten Mitglieds des Wahlbüros.
 
-<sup>3</sup> Der Oberamtmann kann alle erforderlichen Massnahmen anordnen, um die Sicherheit der Auszählung zu gewährleisten.
+<sup>3</sup> Die Oberamtfrau oder der Oberamtmann kann alle erforderlichen Massnahmen anordnen, um die Sicherheit der Auszählung zu gewährleisten.
 
 #### Art. 22
 
@@ -413,6 +488,58 @@ beschliesst:
 - e) wenn ein Name wiederholt wird, soweit das Kumulieren verboten ist;
 - f) soweit ihre Zahl die Zahl der zu besetzenden Sitze übersteigt.
 
+#### Art. 25a
+
+**Nachzählung – Stimmenunterschied von 0,3 % oder weniger**
+
+<sup>1</sup> Die für die Proklamation oder die Feststellung der Ergebnisse zuständige Behörde ordnet die Nachzählung der Stimmen an, wenn der Unterschied zwischen den Ja- und den Nein-Stimmen zu einem Abstimmungsgegenstand 0,3 % oder weniger der gültig abgegebenen Stimmen beträgt.
+
+<sup>2</sup> Die Stimmen werden ebenfalls nachgezählt, wenn der Unterschied zwischen den gültig abgegebenen Stimmen für eine Initiative und jenen für den Gegenvorschlag 0,3 % oder weniger beträgt.
+
+<sup>3</sup> Das Wahlergebnis nach dem Majorzsystem wird nachgezählt, wenn zwischen einer gewählten Person und einer nicht gewählten Person der Stimmenunterschied 0,3 % oder weniger der Stimmen beträgt, die für die gewählte Person abgegeben wurden.
+
+<sup>4</sup> Die Nachzählung im Sinne von Absatz 1–3 wird angeordnet durch:
+
+- a) das Wahlbüro bei der Wahl des Gemeinderats nach dem Majorzsystem;
+- b) den Gemeinderat bei einer Gemeindeabstimmung;
+- c) den Staatsrat bei:
+  - 1\. der Wahl der Oberamtfrauen und Oberamtmänner;
+  - 2\. der Staatsratswahl;
+  - 3\. der Ständeratswahl;
+  - 4\. kantonalen Abstimmungen.
+
+<sup>5</sup> Die vorangehenden Absätze gelten nicht für:
+
+- a) Gemeinde- und kantonale Wahlen nach dem Proporzsystem;
+- b) Abstimmungen, die gemäss Artikel 123c und 123f des Gesetzes über die Gemeinden von Gemeindeverbänden organisiert werden;
+- c) Nationalratswahlen und eidgenössische Abstimmungen.
+
+#### Art. 25b
+
+**Nachzählung – konkrete Anzeichen von Unregelmässigkeiten und knappes Ergebnis**
+
+<sup>1</sup> Abgesehen von den Fällen nach Artikel 25a werden die Stimmen nachgezählt, wenn:
+
+- a) konkrete Anzeichen von Unregelmässigkeiten in der Organisation oder Durchführung des Urnengangs bestehen und
+- b) das Ergebnis knapp ist.
+
+<sup>2</sup> Die Nachzählung im Sinne von Absatz 1 wird angeordnet durch:
+
+- a) die Oberamtfrau oder den Oberamtmann bei:
+  - 1\. Gemeindewahlen nach dem Proporz- und dem Majorzsystem;
+  - 2\. kommunalen Abstimmungen.
+- b) den Staatsrat bei kantonalen Abstimmungen und Wahlen nach dem Proporz- und dem Majorzsystem.
+
+<sup>3</sup> Bei Wahlen nach dem Proporzsystem kann die Nachzählung für den gesamten betroffenen Wahlkreis oder nur für einen Teil davon angeordnet werden.
+
+#### Art. 25c
+
+**Nachzählung – Vorgehen und Ergebnisse**
+
+<sup>1</sup> Die Nachzählung wird von den Wahlbüros der betroffenen Gemeinden durchgeführt, unabhängig von der Behörde, die diese anordnet.
+
+<sup>2</sup> Wenn die Nachzählung erneut zu einem Ergebnis führt, das einen Stimmenunterschied von 0,3 % oder weniger aufweist (Art. 25a) oder knapp ist (Art. 25b), ist eine zweite Nachzählung ausgeschlossen. Es gilt das Ergebnis der Nachzählung.
+
 #### Art. 26
 
 **Protokoll**
@@ -427,23 +554,23 @@ beschliesst:
 
 **Übermittlung der Ergebnisse – Eidgenössische und kantonale Urnengänge**
 
-<sup>1</sup> Bei eidgenössischen und kantonalen Urnengängen werden die Stimmzettel oder Wahllisten in ein versiegeltes Paket zusammengefasst und vom Wahlbüro zusammen mit einem Exemplar des Protokolls unverzüglich dem Oberamtmann zugestellt.
+<sup>1</sup> Bei eidgenössischen und kantonalen Urnengängen stellt das Wahlbüro der Oberamtfrau oder dem Oberamtmann unverzüglich ein Exemplar des Protokolls zu.
 
-<sup>2</sup> Der Oberamtmann übermittelt der Staatskanzlei unverzüglich die zusammenfassende Tabelle der Ergebnisse seines Bezirks und die Protokolle.
+<sup>2</sup> Die Oberamtfrau oder der Oberamtmann übermittelt der Staatskanzlei unverzüglich die zusammenfassende Tabelle der Ergebnisse seines Bezirks und die Protokolle.
 
 <sup>2<sup>bis</sup></sup> Die Staatskanzlei übermittelt dem Staatsrat unverzüglich die Ergebnisse der Urnengänge.
 
 <sup>3</sup> Der Staatsrat übermittelt der Bundeskanzlei unverzüglich die Ergebnisse des eidgenössischen Urnengangs gemäss den einschlägigen Bundesbestimmungen.
 
-<sup>4</sup> Der Staatsrat übermittelt dem Grossen Rat, zusammen mit den entsprechenden Akten, die Ergebnisse der Wahlen in den Ständerat, den Grossen Rat, den Staatsrat und das Amt des Oberamtmanns.
+<sup>4</sup> Der Staatsrat übermittelt dem Grossen Rat, zusammen mit den entsprechenden Akten, die Ergebnisse der Wahlen in den Ständerat, den Grossen Rat, den Staatsrat und das Amt der Oberamtfrau oder des Oberamtmanns.
 
 #### Art. 28
 
 **Übermittlung der Ergebnisse – Kommunale Urnengänge**
 
-<sup>1</sup> Bei kommunalen Urnengängen übermittelt das Wahlbüro unverzüglich ein Exemplar des Protokolls an den Oberamtmann und schlägt das Ergebnis des Urnengangs sogleich öffentlich an.
+<sup>1</sup> Bei kommunalen Urnengängen übermittelt das Wahlbüro unverzüglich ein Exemplar des Protokolls an die Oberamtfrau oder an den Oberamtmann und schlägt das Ergebnis des Urnengangs sogleich öffentlich an.
 
-<sup>2</sup> Bei Gesamterneuerungswahlen der Gemeindebehörden stellt der Oberamtmann die Übermittlung der Ergebnisse aller Gemeinden seines Bezirks sicher.
+<sup>2</sup> Bei Gesamterneuerungswahlen der Gemeindebehörden stellt die Oberamtfrau oder der Oberamtmann die Übermittlung der Ergebnisse aller Gemeinden seines Bezirks sicher.
 
 #### Art. 29
 
@@ -523,13 +650,13 @@ beschliesst:
 <sup>2</sup> Die Berichtigung einer Wahlliste kann verlangen:
 
 - a) die Staatskanzlei bei eidgenössischen Wahlen und bei den Ständerats- und Staatsratswahlen;
-- b) das Oberamt bei den Grossratswahlen und bei der Wahl des Oberamtmanns;
+- b) das Oberamt bei den Grossratswahlen und bei der Wahl der Oberamtfrau oder des Oberamtmanns;
 - c) die Gemeindeschreiberei bei den Gemeindewahlen.
 
 <sup>3</sup> Ist die Bezeichnung einer Liste streitig, so entscheidet:
 
 - a) der Staatsrat bei den eidgenössischen und kantonalen Wahlen;
-- b) der Oberamtmann bei den Gemeindewahlen.
+- b) die Oberamtfrau oder der Oberamtmann bei den Gemeindewahlen.
 
 <sup>4</sup> Bei kantonalen und Gemeindewahlen kann gegen den Entscheid gemäss den Artikeln 150 ff. Beschwerde geführt werden.
 
@@ -539,7 +666,7 @@ beschliesst:
 
 <sup>1</sup> Bei den kantonalen Wahlen organisiert der Staat den Druck der Wahllisten und übernimmt die Druckkosten.
 
-<sup>2</sup> Die Unterzeichnerinnen und Unterzeichner der eingereichten Listen können bei der Staatskanzlei zum Selbstkostenpreis weitere Wahllisten anfordern.
+<sup>2</sup> …
 
 <sup>3</sup> Bei den Gemeindewahlen entscheidet der Gemeinderat, ob die Gemeinde:
 
@@ -613,7 +740,7 @@ beschliesst:
 <sup>1</sup> Der Staatsrat beruft die Stimmberechtigten mit einem im Amtsblatt veröffentlichten Beschluss ein für:
 
 - a) die Ständeratswahlen;
-- b) die Grossrats- und die Staatsratswahlen sowie für die Wahl der Oberamtmänner;
+- b) die Grossrats- und die Staatsratswahlen sowie für die Wahl der Oberamtfrauen und Oberamtmänner;
 - c) die Gesamterneuerungswahlen in den Gemeinden.
 
 <sup>2</sup> Die Stimmberechtigten werden spätestens am Montag der achten Woche vor den Wahlen einberufen.
@@ -628,7 +755,7 @@ beschliesst:
 
 **Zeitpunkt der Wahlen**
 
-<sup>1</sup> Die Gesamterneuerungswahlen des Grossen Rates, des Staatsrates und der Oberamtmänner finden alle fünf Jahre an dem vom Staatsrat festgesetzten Datum im vierten Quartal statt.
+<sup>1</sup> Die Gesamterneuerungswahlen des Grossen Rates, des Staatsrates und der Oberamtfrauen und Oberamtmänner finden alle fünf Jahre an dem vom Staatsrat festgesetzten Datum im vierten Quartal statt.
 
 <sup>2</sup> Die Gesamterneuerungswahlen der Gemeinderäte und Generalräte finden alle fünf Jahre an dem vom Staatsrat festgesetzten Datum im ersten Quartal statt. Die besonderen gesetzlichen Bestimmungen im Bereich der Gemeindezusammenschlüsse bleiben vorbehalten.
 
@@ -636,7 +763,7 @@ beschliesst:
 
 **Wählbarkeit**
 
-<sup>1</sup> Jede in kantonalen Angelegenheiten stimmberechtigte Person ist in den Ständerat, in den Staatsrat und zum Oberamtmann wählbar, sofern sie im Kanton Wohnsitz hat. Wer während drei ganzen Legislaturperioden dem Staatsrat angehört hat, ist jedoch nicht wieder wählbar.
+<sup>1</sup> Jede in kantonalen Angelegenheiten stimmberechtigte Person ist in den Ständerat, in den Staatsrat und zur Oberamtfrau oder zum Oberamtmann wählbar, sofern sie im Kanton Wohnsitz hat. Wer während drei ganzen Legislaturperioden dem Staatsrat angehört hat, ist jedoch nicht wieder wählbar.
 
 <sup>2</sup> Jede stimmberechtigte Person ist in dem Kreis, in dem sie ihren politischen Wohnsitz hat, in den Grossen Rat wählbar. Gewählte Personen und Ersatzpersonen, die während der Legislaturperiode ihren Wahlkreis wechseln, können für den Rest der Legislaturperiode ihren Sitz im Grossen Rat behalten bzw. für gewählt erklärt werden.
 
@@ -650,7 +777,7 @@ beschliesst:
 
 - a) die Mitglieder des Staatsrates;
 - b) die Generalsekretärin oder der Generalsekretär und die übrigen Mitglieder des Sekretariats des Grossen Rates;
-- c) die Oberamtmänner;
+- c) die Oberamtfrauen und Oberamtmänner;
 - d) die Berufsrichterinnen und -richter sowie die Gerichtsschreiberinnen und -schreiber;
 - e) die vom Staatsrat oder einer seiner Direktionen angestellten Mitarbeiterinnen und Mitarbeiter des Staates, die an der Ausübung der vollziehenden Gewalt teilhaben oder in bedeutendem Ausmass an der Erarbeitung von Entscheidungsgrundlagen für den Grossen Rat beteiligt sind.
 
@@ -698,14 +825,14 @@ beschliesst:
 <sup>6</sup> Die Listen der Unterzeichnerinnen und Unterzeichner können bis zur Schliessung des Urnengangs eingesehen werden:
 
 - a) bei der Staatskanzlei, bei Wahlen in den Staatsrat und in den Ständerat;
-- b) beim Oberamt, bei Wahlen in den Grossen Rat und in das Amt des Oberamtmanns;
+- b) beim Oberamt, bei Wahlen in den Grossen Rat und in das Amt der Oberamtfrau oder des Oberamtmanns;
 - c) bei der Gemeindeschreiberei, bei kommunalen Wahlen.
 
 #### Art. 52a
 
 **Unterzeichnung der Wahllisten – Ausnahme a) Bedingungen**
 
-<sup>1</sup> Bei Wahlen in den Ständerat, den Grossen Rat, den Staatsrat und in das Amt des Oberamtmanns gilt die in Artikel 52 erwähnte Pflicht nicht für eine politische Partei, die am Ende des den Wahlen vorangegangenen Jahres ordnungsgemäss im Parteienregister registriert war.
+<sup>1</sup> Bei Wahlen in den Ständerat, den Grossen Rat, den Staatsrat und in das Amt der Oberamtfrau oder des Oberamtmanns gilt die in Artikel 52 erwähnte Pflicht nicht für eine politische Partei, die am Ende des den Wahlen vorangegangenen Jahres ordnungsgemäss im Parteienregister registriert war.
 
 <sup>2</sup> Erfüllt eine Partei die Bedingungen nach Absatz 1, so muss sie lediglich die rechtsgültigen Unterschriften aller Kandidatinnen und Kandidaten, der bevollmächtigten Person, die mit dem Verkehr mit den Behörden beauftragt ist, sowie ihrer Stellvertreterin oder ihres Stellvertreters einreichen.
 
@@ -756,7 +883,7 @@ beschliesst:
 
 <sup>1</sup> Bei Wahlen nach dem Proporzsystem wird der auf mehreren Listen aufgeführte Name einer Person unverzüglich auf sämtlichen Listen gestrichen.
 
-<sup>2</sup> Werden die Listen für die Grossratswahlen im gleichen Kreis eingereicht, so wird der Name vom Oberamtmann gestrichen; werden sie in verschiedenen Kreisen eingereicht, so wird der Name von der Staatskanzlei gestrichen.
+<sup>2</sup> Werden die Listen für die Grossratswahlen im gleichen Kreis eingereicht, so wird der Name von der Oberamtfrau oder vom Oberamtmann gestrichen; werden sie in verschiedenen Kreisen eingereicht, so wird der Name von der Staatskanzlei gestrichen.
 
 <sup>3</sup> Bei Gemeindewahlen wird der Name von der Gemeindeschreiberei gestrichen.
 
@@ -767,12 +894,12 @@ beschliesst:
 <sup>1</sup> Nicht wählbare oder überzählige Personen werden von den Wahllisten gestrichen:
 
 - a) von der Staatskanzlei bei den Staatsrats- und Ständeratswahlen;
-- b) vom Oberamt bei den Grossratswahlen und der Wahl der Oberamtmänner;
+- b) vom Oberamt bei den Grossratswahlen und der Wahl der Oberamtfrauen oder Oberamtmänner;
 - c) von der Gemeindeschreiberei bei den Gemeindewahlen.
 
 <sup>2</sup> Die gestrichenen Personen und die Bevollmächtigten der Unterzeichnerinnen und Unterzeichner werden unverzüglich benachrichtigt.
 
-<sup>3</sup> Sämtliche Streitigkeiten werden bei kantonalen Wahlen unverzüglich dem Staatsrat, bei Gemeindewahlen unverzüglich dem Oberamtmann unterbreitet. Die Behörde eröffnet ihren Entscheid den betroffenen Personen und den Bevollmächtigten der Unterzeichnerinnen und Unterzeichner.
+<sup>3</sup> Sämtliche Streitigkeiten werden bei kantonalen Wahlen unverzüglich dem Staatsrat, bei Gemeindewahlen unverzüglich der Oberamtfrau oder dem Oberamtmann unterbreitet. Die Behörde eröffnet ihren Entscheid den betroffenen Personen und den Bevollmächtigten der Unterzeichnerinnen und Unterzeichner.
 
 <sup>4</sup> Gegen den Entscheid kann gemäss den Artikeln 150 ff. Beschwerde geführt werden.
 
@@ -783,7 +910,7 @@ beschliesst:
 <sup>1</sup> Nur die Unterzeichnerinnen und Unterzeichner können die gestrichenen Personen ersetzen und ihre Bezeichnung berichtigen oder ergänzen, und zwar auf Ersuchen:
 
 - a) der Staatskanzlei bei den Staatsrats- und Ständeratswahlen;
-- b) des Oberamts bei den Grossratswahlen und der Wahl der Oberamtmänner;
+- b) des Oberamts bei den Grossratswahlen und der Wahl der Oberamtfrauen oder Oberamtmänner;
 - c) der Gemeindeschreiberei bei den Gemeindewahlen.
 
 <sup>2</sup> Die Angaben zu den Personen, welche die gestrichenen Kandidatinnen und Kandidaten ersetzen, und die Angaben zur Bereinigung der Wahllisten werden dem zuständigen Organ bis spätestens am Montag der fünften Woche vor der Wahl um 12 Uhr mitgeteilt. Bei den Ständeratswahlen endet die Frist jedoch am Montag der siebten Woche vor der Wahl.
@@ -812,11 +939,11 @@ beschliesst:
 
 **Kreiswahlbüro**
 
-<sup>1</sup> Für die Grossratswahlen und die Wahl der Oberamtmänner bestellt der Oberamtmann für den oder die Kreise, aus denen sein Bezirk besteht, spätestens zehn Tage vor der Wahl ein Wahlbüro.
+<sup>1</sup> Für die Grossratswahlen und die Wahl der Oberamtfrauen oder Oberamtmänner bestellt die Oberamtfrau oder der Oberamtmann für den oder die Kreise, aus denen ihr oder sein Bezirk besteht, spätestens zehn Tage vor der Wahl ein Wahlbüro.
 
 <sup>2</sup> Er bestimmt die Zahl der Mitglieder des Wahlbüros und ihrer Ersatzleute je nach Bedarf und bezeichnet sie unter den im Wahlkreis stimmberechtigten Personen. Er bezeichnet zudem die Sekretärin oder den Sekretär.
 
-<sup>2<sup>bis</sup></sup> Für die Grossratswahlen ernennen die Oberamtmänner des Glane- und des Vivisbachbezirks gemeinsam eine Delegation aus den Mitgliedern der beiden Wahlbüros ihrer Kreise, die mit der Sitzverteilung im Wahlkreisverbund (Art. 75a–75d) unter der Aufsicht der beiden Oberamtmänner beauftragt ist. Diese stimmen sich zudem für einen allfälligen Losentscheid untereinander ab.
+<sup>2<sup>bis</sup></sup> Für die Grossratswahlen ernennen die Oberamtfrauen oder Oberamtmänner des Glane- und des Vivisbachbezirks gemeinsam eine Delegation aus den Mitgliedern der beiden Wahlbüros ihrer Kreise, die mit der Sitzverteilung im Wahlkreisverbund (Art. 75a–75d) unter der Aufsicht der beiden Oberamtfrauen oder Oberamtmänner beauftragt ist. Diese stimmen sich zudem für einen allfälligen Losentscheid untereinander ab.
 
 <sup>3</sup> Im Übrigen gelten die Bestimmungen über das Wahlbüro der Gemeinde sinngemäss.
 
@@ -824,7 +951,7 @@ beschliesst:
 
 **Erwahrung der Wahlen und Veröffentlichung der Ergebnisse**
 
-<sup>1</sup> Der Grosse Rat stellt das Ergebnis der Grossrats- und der Staatsratswahlen sowie der Wahl der Oberamtmänner gestützt auf die Botschaft des Staatsrates verbindlich fest (Erwahrung).
+<sup>1</sup> Der Grosse Rat stellt das Ergebnis der Grossrats- und der Staatsratswahlen sowie der Wahl der Oberamtfrauen oder Oberamtmänner gestützt auf die Botschaft des Staatsrates verbindlich fest (Erwahrung).
 
 <sup>2</sup> Bei Gemeindewahlen erfolgt keine Erwahrung.
 
@@ -1092,11 +1219,11 @@ beschliesst:
 
 <sup>2</sup> Die nicht gewählten Personen jeder Liste (Ersatzleute) werden in der Reihenfolge ihrer Stimmenzahl in das Protokoll eingetragen.
 
-<sup>3</sup> Haben mehrere Kandidatinnen oder Kandidaten dieselbe Stimmenzahl erzielt und verzichtet niemand auf die Annahme der Wahl, so entscheidet das Los in Anwesenheit der Betroffenen. Wer durch das Los ausscheidet oder wer verzichtet, behält seinen Platz im Verzeichnis der Ersatzleute.
+<sup>3</sup> Haben mehrere Kandidatinnen oder Kandidaten einer Liste dieselbe Stimmenzahl erzielt und verzichtet niemand auf die Annahme der Wahl, so entscheidet das Los. Wer durch das Los ausscheidet oder wer verzichtet, behält seinen Platz im Verzeichnis der Ersatzleute.
 
 <sup>4</sup> Zuständig für die Proklamation der Gewählten und den Losentscheid ist:
 
-- a) der Oberamtmann bei den Grossratswahlen;
+- a) die Oberamtfrau oder der Oberamtmann bei den Grossratswahlen;
 - b) das Wahlbüro bei den Generalrats- und Gemeinderatswahlen.
 
 <sup>5</sup> Erzielt eine Liste mehr Sitze, als sie Kandidatinnen und Kandidaten enthält, so wird für die verbleibenden Sitze eine Ergänzungswahl durchgeführt.
@@ -1109,7 +1236,7 @@ beschliesst:
 
 <sup>1</sup> Wird im Laufe der Legislaturperiode ein Sitz frei, so wird die erste Ersatzperson der betreffenden Liste für gewählt erklärt:
 
-- a) vom Oberamtmann bei Grossratswahlen;
+- a) von der Oberamtfrau oder vom Oberamtmann bei Grossratswahlen;
 - b) vom Gemeinderat bei Generalrats- und Gemeinderatswahlen.
 
 <sup>2</sup> Nach der Proklamation hat die erste Ersatzperson 3 Tage Zeit, um auf die Wahl zu verzichten. Bei einer späteren Vakanz wird ihr Name wieder berücksichtigt, ausser die vorangegangene Vakanz habe bereits Anlass zu einer Ergänzungswahl gegeben.
@@ -1142,14 +1269,14 @@ beschliesst:
 
 <sup>1</sup> Ist die Zahl der Kandidatinnen und Kandidaten aller eingereichten Listen bei einer Ergänzungswahl gleich gross oder kleiner als die Zahl der zu besetzenden Sitze, so werden die Kandidatinnen und Kandidaten ohne Urnengang für gewählt erklärt:
 
-- a) vom Oberamtmann bei den Grossratswahlen;
+- a) von der Oberamtfrau oder vom Oberamtmann bei den Grossratswahlen;
 - b) vom Gemeinderat bei den Generalrats- und Gemeinderatswahlen.
 
 <sup>2</sup> Sind alle Sitze vergeben, so wird der Beschluss zur Einberufung der Stimmberechtigten des betreffenden Kreises oder der betreffenden Gemeinde von der zuständigen Behörde aufgehoben.
 
-<sup>3</sup> Verbleiben nach der Proklamation der in stiller Wahl gewählten Personen noch freie Sitze, so wird die Einberufung der Stimmberechtigten des betreffenden Kreises oder der betreffenden Gemeinde aufrechterhalten, und der Urnengang findet gemäss den Bestimmungen über die Wahl ohne Einreichung von Listen statt.
+<sup>3</sup> Verbleiben nach der Proklamation der ohne Urnengang gewählten Personen noch freie Sitze, so wird die Einberufung der Stimmberechtigten des betreffenden Kreises oder der betreffenden Gemeinde aufrechterhalten, und der Urnengang findet gemäss den Bestimmungen über die offene Wahl statt.
 
-### 3.3.2.6 Wahl ohne Einreichung von Listen
+### 3.3.2.6 Offene Wahl
 
 #### Art. 81
 
@@ -1161,7 +1288,7 @@ beschliesst:
 
 <sup>3</sup> Zuständig, um die Betroffenen über die erzielten Stimmen zu informieren und ihre Erklärungen entgegenzunehmen, ist:
 
-- a) der Oberamtmann bei den Grossratswahlen;
+- a) die Oberamtfrau oder der Oberamtmann bei den Grossratswahlen;
 - b) die Gemeindeschreiberei bei den Generalrats- und Gemeinderatswahlen.
 
 <sup>4</sup> Die Personen, welche die Wahl ablehnen, und die nicht wählbaren Personen werden vom Wahlbüro gestrichen.
@@ -1174,11 +1301,11 @@ beschliesst:
 
 <sup>2</sup> Die nicht gewählten Personen werden in der Reihenfolge ihrer Stimmenzahl in das Protokoll eingetragen.
 
-<sup>3</sup> Haben mehrere Personen dieselbe Stimmenzahl erzielt und verzichtet niemand auf die Annahme der Wahl, so entscheidet das Los in Anwesenheit der Betroffenen.
+<sup>3</sup> Haben mehrere Personen dieselbe Stimmenzahl erzielt und verzichtet niemand auf die Annahme der Wahl, so entscheidet das Los.
 
 <sup>4</sup> Zuständig für die Proklamation der Gewählten und den Losentscheid ist:
 
-- a) der Oberamtmann bei den Grossratswahlen;
+- a) die Oberamtfrau oder der Oberamtmann bei den Grossratswahlen;
 - b) das Wahlbüro bei den Generalrats- und Gemeinderatswahlen.
 
 <sup>5</sup> Verbleiben noch freie Sitze, so wird eine Ergänzungswahl durchgeführt.
@@ -1191,7 +1318,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Ständerats- und Staatsratswahlen sowie die Wahl der Oberamtmänner erfolgen nach dem Majorzsystem gemäss den Bestimmungen dieses Gesetzes.
+<sup>1</sup> Die Ständerats- und Staatsratswahlen sowie die Wahl der Oberamtfrauen oder Oberamtmänner erfolgen nach dem Majorzsystem gemäss den Bestimmungen dieses Gesetzes.
 
 <sup>2</sup> Die Gemeinderatswahlen erfolgen nach dem Majorzsystem, sofern kein Gesuch um Durchführung nach dem Proporzsystem eingereicht wurde.
 
@@ -1204,7 +1331,7 @@ beschliesst:
 <sup>2</sup> Die Listen müssen eingereicht werden:
 
 - a) bei der Staatskanzlei für die Ständerats- und Staatsratswahlen;
-- b) beim Oberamt für die Wahl des Oberamtmanns;
+- b) beim Oberamt für die Wahl der Oberamtfrau oder des Oberamtmanns;
 - c) bei der Gemeindeschreiberei für die Gemeinderatswahlen.
 
 #### Art. 85
@@ -1213,7 +1340,7 @@ beschliesst:
 
 <sup>1</sup> Für die Ständerats- und Staatsratswahlen muss jede Liste von mindestens 50 in kantonalen Angelegenheiten stimmberechtigten Personen eigenhändig unterzeichnet sein. Artikel 52a bleibt vorbehalten.
 
-<sup>2</sup> Für die Wahl der Oberamtmänner muss jede Liste von mindestens 50 im Stimmregister einer Gemeinde des entsprechenden Bezirks eingetragenen und in kantonalen Angelegenheiten stimmberechtigten Personen eigenhändig unterzeichnet sein. Artikel 52a bleibt vorbehalten.
+<sup>2</sup> Für die Wahl der Oberamtfrauen oder Oberamtmänner muss jede Liste von mindestens 50 im Stimmregister einer Gemeinde des entsprechenden Bezirks eingetragenen und in kantonalen Angelegenheiten stimmberechtigten Personen eigenhändig unterzeichnet sein. Artikel 52a bleibt vorbehalten.
 
 <sup>3</sup> Für die Gemeinderatswahlen muss jede Liste mindestens von der folgenden Zahl von Stimmberechtigten mit Wohnsitz in der betreffenden Gemeinde eigenhändig unterzeichnet sein:
 
@@ -1260,7 +1387,7 @@ beschliesst:
 
 <sup>2</sup> Haben im ersten Wahlgang mehr Kandidatinnen und Kandidaten das absolute Mehr erreicht, als Sitze zu besetzen sind, so sind nach Massgabe der zu besetzenden Sitze die Personen mit den meisten Stimmen gewählt.
 
-<sup>3</sup> Bei Stimmengleichheit entscheidet das Los, das in Anwesenheit der Betroffenen von der Staatskanzlerin oder dem Staatskanzler, bei Gemeinderatswahlen vom Oberamtmann gezogen wird.
+<sup>3</sup> Bei Stimmengleichheit entscheidet das Los, das in Anwesenheit der Betroffenen von der Staatskanzlerin oder dem Staatskanzler, bei Gemeinderatswahlen von der Oberamtfrau oder vom Oberamtmann gezogen wird.
 
 #### Art. 90
 
@@ -1281,7 +1408,7 @@ beschliesst:
 <sup>1</sup> Die zum zweiten Wahlgang zugelassenen Personen können ihre Kandidatur zurückziehen. Sie müssen dies bis spätestens am Mittwoch der dritten Woche vor der Wahl um 12 Uhr mitteilen:
 
 - a) der Staatskanzlei bei den Ständerats- und Staatsratswahlen;
-- b) dem Oberamt bei der Wahl des Oberamtmanns;
+- b) dem Oberamt bei der Wahl der Oberamtfrau oder des Oberamtmanns;
 - c) der Gemeindeschreiberei bei den Gemeinderatswahlen.
 
 <sup>2</sup> Die Unterzeichnerinnen und Unterzeichner der Liste, auf der die verzichtende Person figurierte, können bis spätestens am Freitag der dritten Woche vor dem Wahltag um 12 Uhr einen Ersatz vorschlagen. Die Unterzeichnerinnen und Unterzeichner der für den ersten Wahlgang eingereichten Liste, deren Unterschrift nicht mehr eingeholt werden kann, können ersetzt werden.
@@ -1296,7 +1423,7 @@ beschliesst:
 
 <sup>1</sup> Im zweiten Wahlgang ist gewählt, wer am meisten Stimmen erzielt hat (relatives Mehr).
 
-<sup>2</sup> Bei Stimmengleichheit entscheidet das Los, das in Anwesenheit der Betroffenen von der Staatskanzlerin oder dem Staatskanzler, bei Gemeinderatswahlen vom Oberamtmann gezogen wird.
+<sup>2</sup> Bei Stimmengleichheit entscheidet das Los, das in Anwesenheit der Betroffenen von der Staatskanzlerin oder dem Staatskanzler, bei Gemeinderatswahlen von der Oberamtfrau oder vom Oberamtmann gezogen wird.
 
 #### Art. 93
 
@@ -1316,9 +1443,9 @@ beschliesst:
 
 <sup>1</sup> Die in den Staatsrat gewählten Personen werden vom Staatsrat für gewählt erklärt und vom Grossen Rat vereidigt.
 
-<sup>2</sup> Der Staatsrat erklärt die zum Oberamtmann gewählten Personen für gewählt und vereidigt sie.
+<sup>2</sup> Der Staatsrat erklärt die zu der Oberamtfrau oder zum Oberamtmann gewählten Personen für gewählt und vereidigt sie.
 
-<sup>3</sup> Die in den Gemeinderat gewählten Personen werden vom Wahlbüro für gewählt erklärt und vom Oberamtmann vereidigt.
+<sup>3</sup> Die in den Gemeinderat gewählten Personen werden vom Wahlbüro für gewählt erklärt und von der Oberamtfrau oder vom Oberamtmann vereidigt.
 
 <sup>4</sup> Die für die Proklamation zuständige Behörde sorgt dafür, dass die Kandidatinnen und Kandidaten informiert werden.
 
@@ -1332,7 +1459,7 @@ beschliesst:
 
 <sup>1</sup> Im ersten Wahlgang findet keine stille Wahl statt.
 
-<sup>2</sup> Ist die Zahl der Kandidatinnen und Kandidaten aller eingereichten Listen gleich gross oder kleiner als die Zahl der zu besetzenden Sitze, so wird eine Wahl gemäss den Bestimmungen über die Wahl ohne Einreichung von Listen durchgeführt.
+<sup>2</sup> Ist die Zahl der Kandidatinnen und Kandidaten aller eingereichten Listen gleich gross oder kleiner als die Zahl der zu besetzenden Sitze, so wird eine Wahl gemäss den Bestimmungen über die offene Wahl durchgeführt.
 
 <sup>3</sup> Die eingereichten Listen bleiben gültig. Sie werden gemäss den ordentlichen Bestimmungen gedruckt und verteilt.
 
@@ -1342,7 +1469,7 @@ beschliesst:
 
 <sup>1</sup> Ist die Zahl der Kandidatinnen und Kandidaten im zweiten Wahlgang gleich gross oder kleiner als die Zahl der verbleibenden Sitze, so werden alle Kandidatinnen und Kandidaten ohne Urnengang für gewählt erklärt.
 
-<sup>2</sup> Verbleiben noch freie Sitze, so wird die Einberufung der Stimmberechtigten aufrechterhalten, jedoch für einen zweiten Wahlgang, der gemäss den Bestimmungen über die Wahl ohne Einreichung von Listen stattfindet.
+<sup>2</sup> Verbleiben noch freie Sitze, so wird die Einberufung der Stimmberechtigten aufrechterhalten, jedoch für einen zweiten Wahlgang, der gemäss den Bestimmungen über die offene Wahl stattfindet.
 
 #### Art. 97
 
@@ -1352,9 +1479,9 @@ beschliesst:
 
 <sup>2</sup> Sind alle Sitze vergeben, so wird der Beschluss zur Einberufung der Stimmberechtigten des betreffenden Kreises oder der betreffenden Gemeinde von der zuständigen Behörde aufgehoben.
 
-<sup>3</sup> Verbleiben nach der Proklamation der in stiller Wahl gewählten Personen noch freie Sitze, so wird die Einberufung der Stimmberechtigten des betreffenden Kreises oder der betreffenden Gemeinde aufrechterhalten, und der Urnengang findet gemäss den Bestimmungen über die Wahl ohne Einreichung von Listen statt.
+<sup>3</sup> Verbleiben nach der Proklamation der ohne Urnengang gewählten Personen noch freie Sitze, so wird die Einberufung der Stimmberechtigten des betreffenden Kreises oder der betreffenden Gemeinde aufrechterhalten, und der Urnengang findet gemäss den Bestimmungen über die offene Wahl statt.
 
-### 3.3.3.3 Wahl ohne Einreichung von Listen
+### 3.3.3.3 Offene Wahl
 
 #### Art. 98
 
@@ -1370,17 +1497,17 @@ beschliesst:
 
 <sup>2</sup> Die Personen, die das absolute Mehr erreicht haben, werden unverzüglich informiert:
 
-- a) von der Staatskanzlei bei den Ständerats- und Staatsratswahlen sowie der Wahl des Oberamtmanns;
+- a) von der Staatskanzlei bei den Ständerats- und Staatsratswahlen sowie der Wahl der Oberamtfrau oder des Oberamtmanns;
 - b) vom Wahlbüro bei den Gemeinderatswahlen.
 
 <sup>3</sup> Die Personen, die das absolute Mehr erreicht haben, müssen bis spätestens an dem auf den Urnengang folgenden Mittwoch um 12 Uhr erklären, ob sie die Wahl annehmen. Bleibt die Erklärung aus, so gilt die Wahl als abgelehnt.
 
 <sup>4</sup> Das Wahlbüro streicht die Namen der Personen, die die Wahl ablehnen, und der nicht wählbaren Personen.
 
-<sup>5</sup> Wenn mehr Personen das absolute Mehr erreicht haben und die Wahl annehmen, als Personen zu wählen sind, so werden nach Massgabe der zu besetzenden Sitze diejenigen Personen mit den wenigsten Stimmen nicht berücksichtigt. Bei Stimmengleichheit entscheidet das Los, das in Anwesenheit der Betroffenen gezogen wird:
+<sup>5</sup> Wenn mehr Personen das absolute Mehr erreicht haben und die Wahl annehmen, als Personen zu wählen sind, so werden nach Massgabe der zu besetzenden Sitze diejenigen Personen mit den wenigsten Stimmen nicht berücksichtigt. Bei Stimmengleichheit entscheidet das Los, das von folgenden Personen gezogen wird:
 
-- a) von der Staatskanzlerin oder vom Staatskanzler bei den Ständerats- und Staatsratswahlen sowie bei der Wahl der Oberamtmänner;
-- b) vom Oberamtmann bei den Gemeinderatswahlen.
+- a) von der Staatskanzlerin oder vom Staatskanzler bei den Ständerats- und Staatsratswahlen sowie bei der Wahl der Oberamtfrauen oder Oberamtmänner;
+- b) von der Oberamtfrau oder vom Oberamtmann bei den Gemeinderatswahlen.
 
 #### Art. 100
 
@@ -1391,14 +1518,14 @@ beschliesst:
 <sup>2</sup> Am zweiten Wahlgang können die im ersten Wahlgang nicht gewählten Personen teilnehmen, wobei ihre Zahl die doppelte Zahl der noch zu besetzenden Sitze nicht überschreiten darf. Auf Antrag der Behörde müssen sie ihre Teilnahme am zweiten Wahlgang bis spätestens am Freitag der dritten Woche vor dem Wahltag um 12 Uhr bestätigen:
 
 - a) bei der Staatskanzlei für die Ständerats- und Staatsratswahlen;
-- b) beim Oberamt für die Wahl des Oberamtmanns;
+- b) beim Oberamt für die Wahl der Oberamtfrau oder des Oberamtmanns;
 - c) bei der Gemeindeschreiberei für die Gemeinderatswahlen.
 
 <sup>3</sup> Ziehen sich die Personen, die zum zweiten Wahlgang zugelassen sind, zurück, so können die Personen, die weniger Stimmen erzielt haben, nach Massgabe der erreichten Stimmenzahl an ihre Stelle treten.
 
 <sup>4</sup> Ist die Zahl der Kandidatinnen und Kandidaten im zweiten Wahlgang gleich gross oder kleiner als die Zahl der verbleibenden Sitze, so werden alle Kandidatinnen und Kandidaten ohne Urnengang für gewählt erklärt.
 
-<sup>5</sup> Verbleiben noch freie Sitze, so wird die Einberufung der Stimmberechtigten für einen zweiten Wahlgang aufrechterhalten, der ohne Einreichung von Listen stattfindet.
+<sup>5</sup> Verbleiben noch freie Sitze, so wird die Einberufung der Stimmberechtigten für einen zweiten Wahlgang aufrechterhalten, der gemäss den Bestimmungen über die offene Wahl stattfindet.
 
 #### Art. 101
 
@@ -1406,7 +1533,7 @@ beschliesst:
 
 <sup>1</sup> Im zweiten Wahlgang wird für gewählt erklärt, wer am meisten Stimmen erzielt hat (relatives Mehr).
 
-<sup>2</sup> Bei Stimmengleichheit entscheidet das Los, das in Anwesenheit der Betroffenen von der Staatskanzlerin oder vom Staatskanzler, bei Gemeinderatswahlen vom Oberamtmann gezogen wird.
+<sup>2</sup> Bei Stimmengleichheit entscheidet das Los, das von der Staatskanzlerin oder dem Staatskanzler, bei Gemeinderatswahlen von der Oberamtfrau oder vom Oberamtmann gezogen wird.
 
 ## 4 Ausübung der Volksrechte
 
@@ -1615,6 +1742,8 @@ beschliesst:
 <sup>2</sup> Der Grosse Rat kann die Frist, innert der die Volksabstimmung durchgeführt werden muss, auf den begründeten Bericht des Staatsrates um ein Jahr verlängern.
 
 <sup>3</sup> Der Grosse Rat und der Staatsrat können Abstimmungsempfehlungen abgeben.
+
+<sup>4</sup> Der Erlass, mit dem der Grosse Rat über die Gültigkeit einer Initiative befindet, enthält eine Rechtsmittelbelehrung.
 
 #### Art. 118
 
@@ -1827,6 +1956,8 @@ beschliesst:
 
 <sup>3</sup> Die Staatskanzlei veröffentlicht das Ergebnis der Auszählung der gültigen Stimmen und die Feststellung über das Zustandekommen oder Scheitern des Referendumsbegehrens im Amtsblatt.
 
+<sup>4</sup> Die von den Unterzeichnerinnen und Unterzeichnern bezeichnete Person oder bezeichneten Personen oder andernfalls die fünf ersten Unterzeichnerinnen und Unterzeichner des Referendumsbegehrens stellen das Referendumskomitee.
+
 #### Art. 136
 
 **Fakultatives parlamentarisches Finanzreferendum – Volksabstimmung und Konsequenzen der Abstimmung**
@@ -1835,7 +1966,7 @@ beschliesst:
 
 <sup>2</sup> Die Volksabstimmung muss innert 180 Tagen seit der Veröffentlichung der Feststellung über das Zustandekommen des Referendumsbegehrens im Amtsblatt stattfinden.
 
-<sup>3</sup> Im Übrigen gelten die Artikel 134 und 136h.
+<sup>3</sup> Im Übrigen gilt Artikel 136h.
 
 ### 4.3.3 Volksmotion
 
@@ -1928,7 +2059,7 @@ beschliesst:
 
 <sup>3</sup> Nach dem Eingang des Initiativbegehrens nimmt der Gemeinderat die Vorprüfung des Titels und des Texts der Initiative sowie der Unterschriftenbogen vor.
 
-<sup>4</sup> Wenn nötig wird die Initiative in Zusammenarbeit mit dem Initiativkomitee berichtigt. Bei Uneinigkeit entscheidet der Oberamtmann.
+<sup>4</sup> Wenn nötig wird die Initiative in Zusammenarbeit mit dem Initiativkomitee berichtigt. Bei Uneinigkeit entscheidet die Oberamtfrau oder der Oberamtmann.
 
 #### Art. 139
 
@@ -1986,6 +2117,34 @@ beschliesst:
 
 <sup>3</sup> Der Gemeinderat veröffentlicht das Abstimmungsergebnis im Amtsblatt.
 
+### 4a Berechnung der Fristen
+
+#### Art. 144a
+
+**Berechnung und Einhaltung der Fristen**
+
+<sup>1</sup> Die in diesem Gesetz nach Tagen festgelegten Fristen beginnen am Tag nach ihrer Mitteilung oder nach dem Ereignis, das sie auslöst, zu laufen.
+
+<sup>2</sup> Das Ende der Frist wird auf den nächstfolgenden Werktag verschoben, wenn es auf einen der folgenden Tage fällt:
+
+- a) einen Samstag oder Sonntag;
+- b) den 1. (Neujahr) oder 2. Januar;
+- c) Karfreitag;
+- d) Ostermontag;
+- e) den 1. Mai;
+- f) Auffahrt;
+- g) Pfingstmontag;
+- h) Fronleichnam (2. Donnerstag nach Pfingsten);
+- i) den 1. August (Nationalfeiertag);
+- j) den 15. August (Mariä Himmelfahrt);
+- k) den 1. November (Allerheiligen);
+- l) den 8. Dezember (Mariä Empfängnis);
+- m) den 24., 25. oder 26. Dezember.
+
+<sup>3</sup> Es gibt keinen Fristenstillstand.
+
+<sup>4</sup> Diese Bestimmung gilt nicht für die in diesem Gesetz und im Gesetz über die Verwaltungsrechtspflege vorgesehenen Rechtsmittel.
+
 ## 5 Rechtsmittel und Strafbestimmungen
 
 ### 5.1 Rechtsmittel
@@ -2024,7 +2183,7 @@ beschliesst:
 
 **Einsprache gegen das Stimmregister – Beschwerde**
 
-<sup>1</sup> Die betroffenen Personen können den Einspracheentscheid mit Beschwerde an den Oberamtmann anfechten. Die Bundesbestimmungen über die Beschwerden in Bezug auf das eidgenössische Stimmregister bleiben vorbehalten.
+<sup>1</sup> Die betroffenen Personen können den Einspracheentscheid mit Beschwerde an die Oberamtfrau oder den Oberamtmann anfechten. Die Bundesbestimmungen über die Beschwerden in Bezug auf das eidgenössische Stimmregister bleiben vorbehalten.
 
 <sup>2</sup> Im Übrigen richtet sich das Beschwerdeverfahren nach dem Gesetz über die Verwaltungsrechtspflege.
 
@@ -2036,7 +2195,7 @@ beschliesst:
 
 <sup>2</sup> Zum Entscheid ist befugt:
 
-- a) der Oberamtmann bei Streitigkeiten im Zusammenhang mit dem Wahlbüro einer Gemeinde;
+- a) die Oberamtfrau oder der Oberamtmann bei Streitigkeiten im Zusammenhang mit dem Wahlbüro einer Gemeinde;
 - b) der Staatsrat bei Streitigkeiten im Zusammenhang mit dem Wahlbüro eines Kreises.
 
 <sup>3</sup> Die Streitigkeit muss innert fünf Tagen seit der Ernennung des Wahlbüros anhängig gemacht werden. Es gibt keinen Fristenstillstand.
@@ -2071,7 +2230,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Vorbereitungshandlungen sind alle Verfahrensschritte und organisatorischen Massnahmen der Behörden vor dem Urnengang.
+<sup>3</sup> …
 
 #### Art. 151
 
@@ -2087,7 +2246,15 @@ beschliesst:
 
 <sup>2</sup> Die Beschwerde muss innert zehn Tagen seit der Veröffentlichung der Ergebnisse im Amtsblatt oder, bei kommunalen Abstimmungen und Wahlen, seit dem öffentlichen Anschlag der Ergebnisse eingelegt werden.
 
-<sup>3</sup> Die Beschwerde gegen Vorbereitungshandlungen, einschliesslich der Bezeichnung einer Wahlliste (Art. 37) und ihrer Bereinigung (Art. 56), muss innert fünf Tagen ab Kenntnis des Beschwerdegrundes, jedoch spätestens innert zehn Tagen seit der Veröffentlichung oder dem öffentlichen Anschlag der Ergebnisse des Urnengangs eingelegt werden. Es gibt keinen Fristenstillstand.
+<sup>3</sup> …
+
+#### Art. 152a
+
+**Beschwerde gegen Vorbereitungshandlungen**
+
+<sup>1</sup> Eine Beschwerde gegen Vorbereitungshandlungen kann innert fünf Tagen ab Kenntnis der Beschwerdegründe, jedoch spätestens innert zehn Tagen seit der Veröffentlichung oder dem öffentlichen Anschlag der Ergebnisse des Urnengangs eingelegt werden. Es gibt keinen Fristenstillstand.
+
+<sup>2</sup> Vorbereitungshandlungen sind alle Verfahrensschritte und organisatorischen Massnahmen der Behörden vor dem Urnengang, einschliesslich der Bezeichnung einer Wahlliste (Art. 37) und ihrer Bereinigung (Art. 56).
 
 #### Art. 153
 
