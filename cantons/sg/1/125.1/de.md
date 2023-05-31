@@ -4,13 +4,13 @@ number: "125.1"
 title: Gesetz über Referendum und Initiative
 short: RIG
 language: de
-version: 2019-01-01
-valid_until: 2023-05-31
-version_adopted: 2018-08-14
+version: 2023-06-01
+valid_until: 2025-12-31
+version_adopted: 2022-11-15
 adopted: 1967-11-27
 in_force: 1968-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/125.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2463/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3471/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2463/pdf_file"
 
 (RIG)
 
-vom 27.11.1967 (Stand 01.01.2019)
+vom 27.11.1967 (Stand 01.06.2023)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -48,32 +48,31 @@ als Gesetz:[^ingress-5]
 - a) in kantonalen Angelegenheiten;
 - b) in eidgenössischen Angelegenheiten, soweit das Bundesrecht kantonales Recht vorbehält.[^1-1]
 
-<sup>2</sup> Referendum und Initiative in den Gemeinden und in den öffentlich-rechtlichen Korporationen richten sich nach dem Gemeindegesetz.[^1-2]
+<sup>2</sup> …
 
-<sup>3</sup> Für die als öffentlich-rechtliche Körperschaft anerkannten Religionsgemeinschaften gelten die von ihnen erlassenen Vorschriften.[^1-3]
+<sup>3</sup> …
 
 [^1-1]: Art. 83 BG über die politischen Rechte vom 17. Dezember 1976, SR [161.1](https://db.clex.ch/link/Bund/161.1/de); eidgV über die politischen Rechte vom 24. Mai 1978, SR [161.11](https://db.clex.ch/link/Bund/161.11/de).
-[^1-2]: Art. [36](https://www.gesetzessammlung.sg.ch/data/151.2/de/art36) ff., [90](https://www.gesetzessammlung.sg.ch/data/151.2/de/art90), [109](https://www.gesetzessammlung.sg.ch/data/151.2/de/art109) ff. und [121](https://www.gesetzessammlung.sg.ch/data/151.2/de/art121) ff. GG, sGS [151.2](https://www.gesetzessammlung.sg.ch/data/151.2/de).
-[^1-3]: Art. [12](https://www.gesetzessammlung.sg.ch/data/173.5/de/art12) ff. VKK, sGS [173.5](https://www.gesetzessammlung.sg.ch/data/173.5/de); Art. [42](https://www.gesetzessammlung.sg.ch/data/175.1/de/art42) ff. VERK, sGS [175.1](https://www.gesetzessammlung.sg.ch/data/175.1/de).
 
 #### Art. 1bis
 
 **Erläuternder Bericht zu Abstimmungsvorlagen a) Grundsatz**
 
-<sup>1</sup> Der Kantonsrat gibt Verfassungsvorlagen, Gesetzen, Kantonsratsbeschlüssen und Stellungnahmen zu Initiativbegehren für die Volksabstimmung in der Regel einen erläuternden Bericht bei.
+<sup>1</sup> Der Kantonsrat gibt Verfassungsvorlagen, Gesetzen, Kantonsratsbeschlüssen und Stellungnahmen zu Initiativbegehren für die Volksabstimmung in der Regel einen erläuternden Bericht bei. Er beachtet dabei die Grundsätze der Vollständigkeit, der Sachlichkeit, der Transparenz und der Verhältnismässigkeit.
 
 <sup>2</sup> Der erläuternde Bericht enthält:
 
 - a) eine Zusammenfassung des Inhalts der Vorlage und deren wesentliche Folgen;
-- b) eine Stellungnahme des Kantonsrates;
-- c) eine kurze Wiedergabe der Gegenargumente:
-  - 1\. von wesentlichen Minderheiten aus der Mitte des Kantonsrates;
-  - 2\. in der Begründung von Referendumsbegehren, soweit sie auf den Bogen oder Karten aufgedruckt ist.
+- a<sup>bis</sup>) eine Darlegung der wichtigsten im parlamentarischen Entscheidungsprozess vertretenen Positionen;
+- b) eine Abstimmungsempfehlung des Kantonsrates;
+- c) eine kurze und sachliche Stellungnahme zum Initiativ- oder Referendumsbegehren nach Art. 1<sup>ter</sup> dieses Gesetzes;
+  - 1\. …
+  - 2\. …
+- d) eine Kurzfassung des erläuternden Berichts in einfacher Sprache.
 
-<sup>3</sup> Der Kantonsrat kann den Erlass des erläuternden Berichtes dem Präsidium[^1bis-1] oder einer Kommission aus seiner Mitte[^1bis-2] übertragen.
+<sup>3</sup> Der Kantonsrat kann den Erlass des erläuternden Berichts dem Präsidium oder einer Kommission aus seiner Mitte übertragen.
 
-[^1bis-1]: Art. [3](https://www.gesetzessammlung.sg.ch/data/131.11/de/art3) ff. GRR, sGS [131.11](https://www.gesetzessammlung.sg.ch/data/131.11/de).
-[^1bis-2]: Art. [12](https://www.gesetzessammlung.sg.ch/data/131.11/de/art12) ff. GRR, sGS [131.11](https://www.gesetzessammlung.sg.ch/data/131.11/de).
+<sup>4</sup> Die Staatskanzlei kann die Inhalte des erläuternden Berichts zusätzlich in anderer geeigneter Form veröffentlichen.
 
 #### Art. 1ter
 
@@ -81,9 +80,9 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Das Initiativ- oder das Referendumskomitee kann für den erläuternden Bericht eine kurze und sachliche Stellungnahme verfassen. Besteht kein Referendumskomitee, treten die das Referendumsbegehren einreichenden Personen an seine Stelle.
 
-<sup>2</sup> Die Staatskanzlei setzt dem Initiativ- oder dem Referendumskomitee eine nicht erstreckbare Frist zur Einreichung der Stellungnahme an. Verstreicht die Frist ungenützt, wird im erläuternden Bericht die auf den Unterschriftenbogen und -karten enthaltene Begründung berücksichtigt. Fehlt diese, entfällt eine Stellungnahme des Komitees.
+<sup>2</sup> Die Staatskanzlei setzt dem Initiativ- oder dem Referendumskomitee eine nicht erstreckbare Frist zur Einreichung der Stellungnahme an. Verstreicht die Frist ungenützt, wird im erläuternden Bericht die auf den Unterschriftenlisten enthaltene Begründung berücksichtigt. Fehlt diese, entfällt eine Stellungnahme des Komitees.
 
-<sup>3</sup> Das für den Erlass des erläuternden Berichtes zuständige Organ kann Vorschriften über den Umfang erlassen und unsachliche Ausführungen bereinigen.
+<sup>3</sup> Das für den Erlass des erläuternden Berichts zuständige Organ kann Vorschriften über den Umfang der Stellungnahme erlassen und ehrverletzende, wahrheitswidrige oder zu lange Äusserungen ändern, zurückweisen oder durch eine eigene Stellungnahme ergänzen. Übernimmt das zuständige Organ die Stellungnahme nicht oder nur teilweise, teilt es dies dem Initiativ- oder dem Referendumskomitee unter Angabe der Gründe schriftlich mit.
 
 #### Art. 2
 
@@ -98,6 +97,12 @@ als Gesetz:[^ingress-5]
 **Unentgeltlichkeit**
 
 <sup>1</sup> Für Amtshandlungen aufgrund dieses Gesetzes dürfen keine Kosten erhoben werden.
+
+#### Art. 3bis
+
+**Staatskanzlei**
+
+<sup>1</sup> Die Staatskanzlei vollzieht dieses Gesetz, soweit der Kanton zuständig ist und dieses Gesetz nichts anderes bestimmt.
 
 ## ZWEITER TEIL: REFERENDUM IN KANTONALEN ANGELEGENHEITEN
 
@@ -178,11 +183,20 @@ als Gesetz:[^ingress-5]
 
 **Referendumsklausel**
 
-<sup>1</sup> Die Unterstellung unter das Referendum oder der Beschluss, dass ein Erlass wegen Dringlichkeit nach Art. 68 der Kantonsverfassung vom 10. Juni 2001[^12-1] dem Referendum später untersteht, ist im Erlass festzuhalten.
+<sup>1</sup> Die Unterstellung unter das Referendum ist im Erlass festzuhalten.
 
-<sup>2</sup> In Verfassungsvorlagen muss die Unterstellung unter das Referendum nicht festgehalten werden, in Gesetzen nur, wenn das obligatorische Finanzreferendum Anwendung findet.
+<sup>2</sup> …
 
-[^12-1]: sGS [111.1](https://www.gesetzessammlung.sg.ch/data/111.1/de).
+#### Art. 12bis
+
+**Anordnung der Volksabstimmung**
+
+<sup>1</sup> Die Regierung ordnet die Volksabstimmung auf den nächstmöglichen Abstimmungstermin an nach:
+
+- a) der Verabschiedung von Gesetzen oder Beschlüssen des Kantonsrates, die dem obligatorischen Referendum unterstehen;
+- b) der Veröffentlichung im Amtsblatt des Zustandekommens von Referendumsbegehren nach Art. 27 dieses Gesetzes.
+
+<sup>2</sup> Sie kann die Volksabstimmung im Einzelfall im Einvernehmen mit dem Präsidium des Kantonsrates auf den übernächstmöglichen Abstimmungstermin anordnen.
 
 ### B. Obligatorisches Referendum
 
@@ -226,7 +240,7 @@ als Gesetz:[^ingress-5]
 
 **Veröffentlichung der Referendumsvorlage**
 
-<sup>1</sup> Die Regierung hat den Erlass als Referendumsvorlage im kantonalen Amtsblatt zu veröffentlichen, wenn nicht bereits das Referendum aus der Mitte des Kantonsrates ergriffen worden ist.
+<sup>1</sup> Die Parlamentsdienste haben den Erlass als Referendumsvorlage in der Regel innert 14 Tagen nach der Verabschiedung durch den Kantonsrat im kantonalen Amtsblatt zu veröffentlichen, wenn nicht bereits das Referendum aus der Mitte des Kantonsrates ergriffen worden ist.
 
 #### Art. 18
 
@@ -250,9 +264,9 @@ als Gesetz:[^ingress-5]
 
 #### Art. 20
 
-**Unterschriftenbogen und -karten**
+**Unterschriftenlisten**
 
-<sup>1</sup> Das Referendumsbegehren ist auf Bogen oder Karten zu stellen, die folgende Angaben enthalten:
+<sup>1</sup> Das Referendumsbegehren ist auf Unterschriftenlisten zu stellen, die folgende Angaben enthalten:
 
 - a) den Namen der politischen Gemeinde, in der die Unterzeichner stimmberechtigt[^20-1] sind;
 - b) das Begehren auf Volksabstimmung; der Erlass, gegen den sich das Begehren richtet, ist mit der Überschrift und dem Datum der Schlussabstimmung im Kantonsrat zu nennen;
@@ -267,9 +281,9 @@ als Gesetz:[^ingress-5]
 
 **Unterschriften a) Anforderungen**
 
-<sup>1</sup> Die Stimmberechtigten, die ein Referendumsbegehren stellen, müssen ihre Namen selber, handschriftlich und leserlich auf den Bogen oder die Karte setzen sowie zusätzlich ihre eigenhändige Unterschrift beifügen.
+<sup>1</sup> Die Stimmberechtigten, die ein Referendumsbegehren stellen, müssen ihre Namen und Vornamen selber, handschriftlich und leserlich auf die Unterschriftenliste setzen sowie zusätzlich ihre eigenhändige Unterschrift beifügen.
 
-<sup>2</sup> Der Unterzeichner muss alle Angaben machen, die nötig sind, um erkennen zu lassen, wer unterschrieben hat.
+<sup>2</sup> Der Unterzeichner muss alle Angaben machen, die nötig sind, um erkennen zu lassen, wer unterschrieben hat, wie Geburtsdatum und Adresse.
 
 <sup>3</sup> Für Namen und Vornamen dürfen keine Wiederholungszeichen verwendet werden.
 
@@ -279,31 +293,29 @@ als Gesetz:[^ingress-5]
 
 **b) Einschränkungen**
 
-<sup>1</sup> Vor Beginn der Referendumsfrist dürfen keine Bogen und Karten unterschrieben werden.
+<sup>1</sup> Vor Beginn der Referendumsfrist dürfen keine Unterschriftenlisten unterschrieben werden.
 
 <sup>2</sup> Die Stimmberechtigten dürfen das gleiche Referendumsbegehren nur einmal unterschreiben.
 
-<sup>3</sup> Sie dürfen nur auf Bogen oder Karten unterzeichnen, die den Namen ihrer Gemeinde tragen.
+<sup>3</sup> Sie dürfen nur auf Unterschriftenlisten unterzeichnen, die den Namen ihrer Gemeinde tragen.
 
 #### Art. 23
 
 **Stimmrechtsbescheinigung a) im allgemeinen**
 
-<sup>1</sup> Die Bogen und Karten sind während der Referendumsfrist dem Stimmregisterführer[^23-1] der auf dem Bogen oder der Karte bezeichneten politischen Gemeinde einzureichen.
+<sup>1</sup> Die Unterschriftenlisten sind während der Referendumsfrist dem Stimmregisterführer der auf der Unterschriftenliste bezeichneten politischen Gemeinde laufend einzureichen.
 
-<sup>2</sup> Der Stimmregisterführer bescheinigt auf dem Bogen oder auf der Karte das Stimmrecht der Unterzeichner, die am Tag, an dem der Bogen oder die Karte zur Bescheinigung eingereicht wurden, im Stimmregister eingetragen sind, und gibt Bogen und Karten so rasch als möglich zurück.
+<sup>2</sup> Der Stimmregisterführer bescheinigt auf der Unterschriftenliste das Stimmrecht der Unterzeichner, die am Tag, an dem die Unterschriftenliste zur Bescheinigung eingereicht wurde, im Stimmregister eingetragen sind, und gibt die Unterschriftenlisten so rasch als möglich zurück.
 
 <sup>3</sup> Die Stimmrechtsbescheinigung muss die Zahl der Unterzeichner, deren Stimmrecht bescheinigt wird, angeben, das Datum und die eigenhändige Unterschrift des Stimmregisterführers aufweisen und dessen amtliche Eigenschaft kennzeichnen.
-
-[^23-1]: Art. [5](https://www.gesetzessammlung.sg.ch/data/125.3/de/art5) UAG, sGS [125.3](https://www.gesetzessammlung.sg.ch/data/125.3/de); Art. [118](https://www.gesetzessammlung.sg.ch/data/151.2/de/art118) GG, sGS [151.2](https://www.gesetzessammlung.sg.ch/data/151.2/de).
 
 #### Art. 24
 
 **b) Verweigerung**
 
-<sup>1</sup> Das Stimmrecht darf nur bescheinigt werden, wenn der Bogen oder die Karte und die Unterschriften die Voraussetzungen von Art. 20 bis 22 dieses Gesetzes erfüllen.
+<sup>1</sup> Das Stimmrecht darf nur bescheinigt werden, wenn die Unterschriftenliste und die Unterschriften die Voraussetzungen von Art. 20 bis 22 dieses Gesetzes erfüllen.
 
-<sup>2</sup> Der Stimmregisterführer hat die Verweigerung von Stimmrechtsbescheinigungen auf dem Bogen oder auf der Karte in Stichworten zu begründen.
+<sup>2</sup> Der Stimmregisterführer hat die Verweigerung von Stimmrechtsbescheinigungen auf der Unterschriftenliste in Stichworten zu begründen.
 
 <sup>3</sup> Wenn Stimmrechtsbescheinigungen verweigert worden sind, hat der Stimmregisterführer bei der Rückgabe darauf aufmerksam zu machen.
 
@@ -311,47 +323,43 @@ als Gesetz:[^ingress-5]
 
 **Einreichung des Begehrens**
 
-<sup>1</sup> Die Bogen und Karten mit dem Referendumsbegehren sind innert der Referendumsfrist dem zuständigen Departement[^25-1], einzureichen.[^25-2]
+<sup>1</sup> Die Unterschriftenlisten mit dem Referendumsbegehren sind innert der Referendumsfrist der Staatskanzlei einzureichen.
 
-<sup>2</sup> Das zuständige Departement[^25-3] vermerkt den Zeitpunkt der Einreichung sowie die Namen der Personen, welche die Bogen und Karten übergeben. Es bestätigt schriftlich die Einreichung des Begehrens.
+<sup>2</sup> Die Staatskanzlei vermerkt den Zeitpunkt der Einreichung sowie die Namen der Personen, welche die Unterschriftenlisten übergeben. Sie bestätigt schriftlich die Einreichung des Begehrens.
 
-[^25-1]: Departement für Inneres und Militär; Art. [22](https://www.gesetzessammlung.sg.ch/data/141.3/de/art22) lit. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
-[^25-2]: Art. [47](https://www.gesetzessammlung.sg.ch/data/111.1/de/art47.) Abs. 1 KV, sGS [111.1](https://www.gesetzessammlung.sg.ch/data/111.1/de); Art. 18 dieses G.
-[^25-3]: Departement für Inneres und Militär; Art. [22](https://www.gesetzessammlung.sg.ch/data/141.3/de/art22) lit. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+<sup>3</sup> Ein eingereichtes Referendumsbegehren kann nicht zurückgezogen werden.
 
 #### Art. 26
 
 **Behebung von Mängeln**
 
-<sup>1</sup> Das zuständige Departement[^26-1] lässt Mängel, die im Zusammenhang mit der Stimmrechtsbescheinigung stehen und nicht den Unterzeichnern zur Last gelegt werden können, vom Stimmregisterführer der Gemeinde beheben.
+<sup>1</sup> Die Staatskanzlei überprüft die Stimmrechtsbescheinigungen auf den eingereichten Unterschriftenlisten mittels Stichproben.
+
+<sup>1<sup>bis</sup></sup> Die Staatskanzlei lässt Mängel, die im Zusammenhang mit der Stimmrechtsbescheinigung stehen und nicht den Unterzeichnern zur Last gelegt werden können, vom Stimmregisterführer der Gemeinde beheben.
 
 <sup>2</sup> Die Mängel können auch nach Ablauf der Referendumsfrist behoben werden.
-
-[^26-1]: Departement für Inneres und Militär; Art. [22](https://www.gesetzessammlung.sg.ch/data/141.3/de/art22) lit. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 27
 
 **Feststellung des Zustandekommens**
 
-<sup>1</sup> Nach Ablauf der Referendumsfrist stellt das zuständige Departement fest, ob das Referendumsbegehren zustande gekommen ist.
+<sup>1</sup> Nach Ablauf der Referendumsfrist stellt die Staatskanzlei fest, ob das Referendumsbegehren zustande gekommen ist.
 
 <sup>2</sup> Als ungültig werden ausgeschieden:
 
 - a) die Unterschriften von Unterzeichnern, deren Stimmrecht nicht oder zu Unrecht bescheinigt worden ist;
-- b) die Unterschriften auf Bogen und Karten, die nach Ablauf der Referendumsfrist eingereicht worden sind.
+- b) die Unterschriften auf Unterschriftenlisten, die nach Ablauf der Referendumsfrist eingereicht worden sind.
 
-<sup>3</sup> Das zuständige Departement veröffentlicht im kantonalen Amtsblatt das Ergebnis der Prüfung und die Zahl der gültigen und der ungültigen Unterschriften, aufgeteilt nach politischen Gemeinden und Wahlkreisen.
+<sup>3</sup> Die Staatskanzlei veröffentlicht im kantonalen Amtsblatt innert eines Monats seit der Einreichung das Ergebnis der Prüfung und die Zahl der gültigen Unterschriften, aufgeteilt nach politischen Gemeinden und Wahlkreisen.
 
 #### Art. 27bis
 
-**Löschung von Kontrollzeichen sowie Vernichtung von Unterschriftenbogen und -karten**
+**Löschung von Kontrollzeichen sowie Vernichtung von Unterschriftenlisten**
 
 <sup>1</sup> Innert eines Monats nach Rechtsgültigkeit des Beschlusses über das Zustandekommen des Referendumsbegehrens:
 
 - a) löscht der Stimmregisterführer Kontrollzeichen, die im Stimmregister angebracht oder auf andere Weise vermerkt worden sind;
-- b) vernichtet das zuständige Departement[^27bis-1] die Unterschriftenbogen und -karten.
-
-[^27bis-1]: Departement für Inneres und Militär; Art. [22](https://www.gesetzessammlung.sg.ch/data/141.3/de/art22) lit. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+- b) vernichtet die Staatskanzlei die Unterschriftenlisten.
 
 ### D. Rechtsgültigkeit referendumspflichtiger Erlasse
 
@@ -433,12 +441,12 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Das Initiativkomitee legt der Regierung den Wortlaut des Initiativbegehrens samt allfälliger Begründung und die Mitgliederliste schriftlich vor.
 
-<sup>2</sup> Die Regierung entscheidet innert vier Monaten über die Zulässigkeit des Initiativbegehrens. Sie kann diese von Bedingungen abhängig machen.
+<sup>2</sup> Die Regierung entscheidet innert drei Monaten über die Zulässigkeit des Initiativbegehrens. Sie kann diese von Bedingungen abhängig machen.
 
 <sup>3</sup> Das Initiativbegehren ist zulässig, wenn:
 
 - a) es rechtmässig ist;
-- b) die Voraussetzungen nach Art. 34 und 35 dieses Gesetzes erfüllt sind;
+- b) die Voraussetzungen nach Art. 34 und 35 dieses Gesetzes erfüllt sind.
 
 ### 3. Unterschriftensammlung
 
@@ -446,7 +454,7 @@ als Gesetz:[^ingress-5]
 
 **Anmeldung**
 
-<sup>1</sup> Das Initiativkomitee meldet das zulässige Initiativbegehren schriftlich beim zuständigen Departement an.
+<sup>1</sup> Das Initiativkomitee meldet das zulässige Initiativbegehren schriftlich bei der Staatskanzlei an.
 
 <sup>2</sup> Die Anmeldung erfolgt innert eines Monats seit Rechtskraft des Entscheides über die Zulässigkeit.
 
@@ -454,26 +462,24 @@ als Gesetz:[^ingress-5]
 
 **Veröffentlichung**
 
-<sup>1</sup> Das zuständige Departement[^38-1] veröffentlicht unverzüglich den Wortlaut des Initiativbegehrens samt Rückzugsermächtigung im kantonalen Amtsblatt. Es bezeichnet den Tag, an dem die Frist zur Einreichung abläuft.
+<sup>1</sup> Die Staatskanzlei veröffentlicht in der Regel innert 14 Tagen nach der Anmeldung den Wortlaut des Initiativbegehrens samt Rückzugsermächtigung im kantonalen Amtsblatt. Sie bezeichnet den Tag, an dem die Frist zur Einreichung abläuft.
 
 <sup>2</sup> Die Veröffentlichung unterbleibt, wenn:
 
 - a) vom zugelassenen Wortlaut abgewichen wird. Vorbehalten bleiben Änderungen aufgrund des Entscheides über die Zulässigkeit;
 - b) die im Entscheid über die Zulässigkeit festgelegten Bedingungen nicht erfüllt sind.
 
-[^38-1]: Departement für Inneres und Militär; Art. [22](https://www.gesetzessammlung.sg.ch/data/141.3/de/art22) lit. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
-
 #### Art. 39
 
-**Unterschriftenbogen und -karten**
+**Unterschriftenlisten**
 
-<sup>1</sup> Das Initiativbegehren ist auf Bogen oder Karten zu stellen, die folgende Angaben enthalten:
+<sup>1</sup> Das Initiativbegehren ist auf Unterschriftenlisten zu stellen, die folgende Angaben enthalten:
 
 - a) den Namen der politischen Gemeinde, in der die Unterzeichner stimmberechtigt sind;
 - b) den Wortlaut des Begehrens;
 - c) Namen und Adressen der Mitglieder des Initiativkomitees;
 - d) den Hinweis, dass das Initiativkomitee ermächtigt ist, das Initiativbegehren vorbehaltlos und gesamthaft mit einfacher Mehrheit seiner Mitglieder, die zum Zeitpunkt des Rückzugs in kantonalen Angelegenheiten stimmberechtigt sind, zurückzuziehen;
-- e) den Hinweis, dass sich strafbar macht, wer das Ergebnis einer Unterschriftensammlung für ein Initiativbegehren fälscht (Art. 282 des Strafgesetzbuches[^39-1]) oder wer bei der Unterschriftensammlung besticht oder sich bestechen lässt (Art. 281 des Strafgesetzbuches)[^39-2]
+- e) den Hinweis, dass sich strafbar macht, wer das Ergebnis einer Unterschriftensammlung für ein Initiativbegehren fälscht (Art. 282 des Strafgesetzbuches[^39-1]) oder wer bei der Unterschriftensammlung besticht oder sich bestechen lässt (Art. 281 des Strafgesetzbuches[^39-2]);
 - f) eine allfällige Begründung.
 
 [^39-1]: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937, SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
@@ -485,17 +491,17 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Die Unterschriftensammlung richtet sich nach Art. 21 und 22 dieses Gesetzes.
 
-<sup>2</sup> Das Initiativkomitee sorgt dafür, dass Unterschriftenbogen und -karten vor Einreichung des Initiativbegehrens dem Stimmregisterführer der auf dem Bogen oder der Karte verzeichneten politischen Gemeinde übergeben werden.
+<sup>2</sup> Das Initiativkomitee sorgt dafür, dass die Unterschriftenlisten vor Einreichung des Initiativbegehrens dem Stimmregisterführer der auf der Unterschriftenliste verzeichneten politischen Gemeinde laufend übergeben werden.
 
-<sup>3</sup> Der Stimmregisterführer nimmt die Stimmrechtsbescheinigung in sachgemässer Anwendung von Art. 23 und 24 dieses Gesetzes vor. Er verweigert sie, wenn der Bogen oder die Karte das Initiativbegehren abweichend von dem im kantonalen Amtsblatt veröffentlichten Wortlaut wiedergibt oder die Rückzugsermächtigung nicht oder unvollständig enthält.
+<sup>3</sup> Der Stimmregisterführer nimmt die Stimmrechtsbescheinigung in sachgemässer Anwendung von Art. 23 und 24 dieses Gesetzes vor. Er verweigert sie, wenn die Unterschriftenliste das Initiativbegehren abweichend von dem im kantonalen Amtsblatt veröffentlichten Wortlaut wiedergibt oder die Rückzugsermächtigung nicht oder unvollständig enthält.
 
 #### Art. 41
 
 **Einreichung**
 
-<sup>1</sup> Das Initiativkomitee reicht das Initiativbegehren innert fünf Monaten seit Veröffentlichung dem zuständigen Departement ein.
+<sup>1</sup> Das Initiativkomitee reicht das Initiativbegehren innert fünf Monaten seit Veröffentlichung der Staatskanzlei ein.
 
-<sup>2</sup> Das zuständige Departement vermerkt den Zeitpunkt der Einreichung und die Namen der Personen, welche die Unterschriftenbogen und -karten übergeben. Es bestätigt schriftlich die Einreichung des Initiativbegehrens.
+<sup>2</sup> Die Staatskanzlei vermerkt den Zeitpunkt der Einreichung und die Namen der Personen, welche die Unterschriftenlisten übergeben. Sie bestätigt schriftlich die Einreichung des Initiativbegehrens.
 
 ### 4. Zustandekommen
 
@@ -503,11 +509,9 @@ als Gesetz:[^ingress-5]
 
 **Entscheid**
 
-<sup>1</sup> Das zuständige Departement[^42-1] entscheidet innert eines Monats seit Ablauf der Einreichungsfrist über das Zustandekommen des Initiativbegehrens.
+<sup>1</sup> Die Staatskanzlei entscheidet innert eines Monats seit der Einreichung über das Zustandekommen des Initiativbegehrens.
 
 <sup>2</sup> Das Initiativbegehren ist zustande gekommen, wenn es mit der erforderlichen Anzahl gültiger Unterschriften fristgerecht eingereicht wurde. Die Bestimmungen von Art. 26 und 27 dieses Gesetzes werden sachgemäss angewendet.
-
-[^42-1]: Departement für Inneres und Militär; Art. [22](https://www.gesetzessammlung.sg.ch/data/141.3/de/art22) lit. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 ### 5. Behandlung durch den Kantonsrat
 
@@ -515,30 +519,30 @@ als Gesetz:[^ingress-5]
 
 **Überweisung**
 
-<sup>1</sup> Die Regierung unterbreitet dem Kantonsrat innert sechs Monaten seit Rechtsgültigkeit des Beschlusses über das Zustandekommen Bericht und Antrag zum Inhalt des Initiativbegehrens.
+<sup>1</sup> Die Regierung unterbreitet dem Kantonsrat innert vier Monaten seit Rechtsgültigkeit des Beschlusses über das Zustandekommen Bericht und Antrag zum Inhalt des Initiativbegehrens.
 
 #### Art. 44
 
 **Stellungnahme zum Begehren**
 
-<sup>1</sup> Der Kantonsrat beschliesst, ob er dem Begehren zustimmt, ob er es ablehnt oder ob er auf eine Stellungnahme verzichten will.
+<sup>1</sup> Der Kantonsrat beschliesst innert sechs Monaten nach der Überweisung durch die Regierung, ob er dem Begehren zustimmt, ob er es ablehnt oder ob er auf eine Stellungnahme verzichten will.
 
-<sup>2</sup> Beschliesst der Kantonsrat, zu einem Initiativbegehren nicht Stellung zu nehmen, ordnet die Regierung ohne weiteres die Volksabstimmung an.
+<sup>2</sup> Beschliesst der Kantonsrat, zu einem Initiativbegehren nicht Stellung zu nehmen, ordnet die Regierung die Volksabstimmung auf den nächstmöglichen Abstimmungstermin an.
 
-<sup>3</sup> Die Regierung ordnet auch dann ohne weiteres die Volksabstimmung an, wenn der Kantonsrat innert elf Monaten nach Rechtsgültigkeit des Beschlusses über das Zustandekommen keinen Beschluss über seine Stellungnahme zum Begehren gefasst hat.
+<sup>3</sup> Die Regierung ordnet auch dann die Volksabstimmung auf den nächstmöglichen Abstimmungstermin an, wenn der Kantonsrat innert sechs Monaten nach der Überweisung durch die Regierung keinen Beschluss über seine Stellungnahme zum Begehren gefasst hat.
+
+<sup>4</sup> Die Regierung kann die Volksabstimmung nach Abs. 2 und 3 dieser Bestimmung im Einzelfall im Einvernehmen mit dem Präsidium des Kantonsrates auf den übernächstmöglichen Abstimmungstermin anordnen.
 
 #### Art. 45
 
-**Löschung von Kontrollzeichen sowie Vernichtung von Unterschriftenbogen und -karten**
+**Löschung von Kontrollzeichen sowie Vernichtung von Unterschriftenlisten**
 
 <sup>1</sup> Innert eines Monats nach Beschluss des Kantonsrates über seine Stellungnahme zum Initiativbegehren:
 
 - a) löscht der Stimmregisterführer Kontrollzeichen, die im Stimmregister angebracht oder auf andere Weise vermerkt wurden;
-- b) vernichtet das zuständige Departement[^45-1] die Unterschriftenbogen und -karten.
+- b) vernichtet die Staatskanzlei die Unterschriftenlisten.
 
 <sup>2</sup> …
-
-[^45-1]: Departement für Inneres und Militär; Art. [22](https://www.gesetzessammlung.sg.ch/data/141.3/de/art22) lit. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 46
 
@@ -554,13 +558,15 @@ als Gesetz:[^ingress-5]
 
 **Ablehnung a) im allgemeinen**
 
-<sup>1</sup> Lehnt der Kantonsrat ein Initiativbegehren ab, so hat er gleichzeitig zu beschliessen, ob er dem Volk einen Gegenvorschlag[^48-1] unterbreiten will.
+<sup>1</sup> Lehnt der Kantonsrat ein Initiativbegehren ab, hat er gleichzeitig zu beschliessen, ob er dem Volk einen Gegenvorschlag[^48-1] unterbreiten will.
 
-<sup>2</sup> Lehnt der Kantonsrat das Initiativbegehren ohne Gegenvorschlag ab, so hat die Regierung ohne weiteres die Volksabstimmung anzuordnen.
+<sup>2</sup> Lehnt der Kantonsrat das Initiativbegehren ohne Gegenvorschlag ab, hat die Regierung die Volksabstimmung auf den nächstmöglichen Abstimmungstermin anzuordnen.
 
-<sup>3</sup> Die Regierung hat auch dann ohne weiteres die Volksabstimmung über das Initiativbegehren anzuordnen, wenn der Kantonsrat innert einem Jahr nach seiner Stellungnahme einen in Aussicht genommenen Gegenvorschlag nicht ausgearbeitet hat. Der Kantonsrat kann diese Frist um höchstens ein Jahr verlängern, wenn es sich als unmöglich erweist, den Gegenvorschlag fristgemäss aufzustellen.
+<sup>3</sup> Die Regierung hat auch dann die Volksabstimmung über das Initiativbegehren auf den nächstmöglichen Abstimmungstermin anzuordnen, wenn der Kantonsrat innert einem Jahr nach seiner Stellungnahme einen in Aussicht genommenen Gegenvorschlag nicht ausgearbeitet hat. Der Kantonsrat kann die Frist von einem Jahr zur Beschlussfassung über den Gegenvorschlag um höchstens ein Jahr verlängern, wenn es sich als unmöglich erweist, den Gegenvorschlag fristgemäss aufzustellen.
 
-[^48-1]: Art. [46](https://www.gesetzessammlung.sg.ch/data/111.1/de/art46.)KV, sGS [111.1](https://www.gesetzessammlung.sg.ch/data/111.1/de).
+<sup>4</sup> Die Regierung kann die Volksabstimmung nach Abs. 2 und 3 dieser Bestimmung im Einzelfall im Einvernehmen mit dem Präsidium des Kantonsrates auf den übernächstmöglichen Abstimmungstermin anordnen.
+
+[^48-1]: Art. [46](https://www.gesetzessammlung.sg.ch/data/111.1/de/art46.) KV, sGS [111.1](https://www.gesetzessammlung.sg.ch/data/111.1/de).
 
 #### Art. 49
 
@@ -582,9 +588,7 @@ als Gesetz:[^ingress-5]
 - b) mit Ja oder Nein die Frage, ob sie den Gegenvorschlag dem geltenden Recht vorziehen;
 - c) durch Ankreuzen die Stichfrage, ob sie das Initiativbegehren oder den Gegenvorschlag vorziehen, wenn beide Vorlagen eine Ja-Mehrheit erhalten.
 
-<sup>2</sup> Das zuständige Departement[^50-1] weist auf den Stimmzetteln darauf hin, wie gültig gestimmt wird.
-
-[^50-1]: Departement für Inneres und Militär; Art. [22](https://www.gesetzessammlung.sg.ch/data/141.3/de/art22) lit. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+<sup>2</sup> Die Staatskanzlei weist auf den Stimmzetteln darauf hin, wie gültig gestimmt wird.
 
 #### Art. 51
 
@@ -617,6 +621,8 @@ als Gesetz:[^ingress-5]
 
 <sup>2</sup> Der Kantonsrat kann diese Frist angemessen verlängern, wenn es sich als unmöglich erweist, die Vorlage innert eines Jahres abschliessend zu behandeln.
 
+<sup>3</sup> Lehnt der Kantonsrat den Erlass in der Schlussabstimmung ab, ordnet die Regierung die Volksabstimmung über den Entwurf, welcher der Schlussabstimmung zugrunde lag, auf den nächstmöglichen Abstimmungstermin an. Sie kann die Volksabstimmung im Einzelfall im Einvernehmen mit dem Präsidium des Kantonsrates auf den übernächstmöglichen Abstimmungstermin anordnen.
+
 #### Art. 53ter
 
 **b) Ablehnung**
@@ -629,15 +635,15 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Der Kantonsrat kann den Gegenvorschlag in Form einer allgemeinen Anregung oder eines ausformulierten Entwurfs beschliessen.
 
-<sup>2</sup> Beschliesst der Kantonsrat innert eines Jahres den Gegenvorschlag nicht, ordnet die Regierung ohne weiteres die Volksabstimmung über die Einheitsinitiative an.
+<sup>2</sup> Beschliesst der Kantonsrat innert eines Jahres den Gegenvorschlag nicht, ordnet die Regierung die Volksabstimmung über die Einheitsinitiative auf den nächstmöglichen Abstimmungstermin an.
 
-<sup>3</sup> Der Kantonsrat kann diese Frist um höchstens ein Jahr verlängern, wenn es sich als unmöglich erweist, den Gegenvorschlag fristgemäss zu beschliessen.
+<sup>3</sup> Der Kantonsrat kann die Frist von einem Jahr zur Beschlussfassung über den Gegenvorschlag um höchstens ein Jahr verlängern, wenn es sich als unmöglich erweist, den Gegenvorschlag fristgemäss zu beschliessen. Die Regierung kann die Volksabstimmung im Einzelfall im Einvernehmen mit dem Präsidium des Kantonsrates auf den übernächstmöglichen Abstimmungstermin anordnen.
 
 #### Art. 53quinquies
 
 **2. ohne Gegenvorschlag**
 
-<sup>1</sup> Lehnt der Kantonsrat die Einheitsinitiative ohne Gegenvorschlag ab, ordnet die Regierung ohne weiteres die Volksabstimmung an.
+<sup>1</sup> Lehnt der Kantonsrat die Einheitsinitiative ohne Gegenvorschlag ab, ordnet die Regierung die Volksabstimmung auf den nächstmöglichen Abstimmungstermin an. Sie kann die Volksabstimmung im Einzelfall im Einvernehmen mit dem Präsidium des Kantonsrates auf den übernächstmöglichen Abstimmungstermin anordnen.
 
 #### Art. 53sexies
 
@@ -646,6 +652,8 @@ als Gesetz:[^ingress-5]
 <sup>1</sup> Stimmt das Volk einer Einheitsinitiative oder einem Gegenvorschlag in Form der allgemeinen Anregung zu, verabschiedet der Kantonsrat innert eines Jahres nach der Volksabstimmung einen dem Begehren entsprechenden Erlass.
 
 <sup>2</sup> Der Kantonsrat kann diese Frist angemessen verlängern, wenn es sich als unmöglich erweist, die Vorlage innert eines Jahres abschliessend zu behandeln.
+
+<sup>3</sup> Lehnt der Kantonsrat den Erlass in der Schlussabstimmung ab, ordnet die Regierung die Volksabstimmung über den Entwurf, welcher der Schlussabstimmung zugrunde lag, auf den nächstmöglichen Abstimmungstermin an. Sie kann die Volksabstimmung im Einzelfall im Einvernehmen mit dem Präsidium des Kantonsrates auf den übernächstmöglichen Abstimmungstermin anordnen.
 
 #### Art. 53septies
 
@@ -673,7 +681,7 @@ als Gesetz:[^ingress-5]
 
 <sup>2</sup> Ein teilweiser oder bedingter Rückzug oder eine Änderung des Wortlautes des Begehrens ist unzulässig.
 
-<sup>3</sup> Die eingereichten Bogen und Karten werden nicht zurückgegeben.
+<sup>3</sup> Die eingereichten Unterschriftenlisten werden nicht zurückgegeben.
 
 #### Art. 56
 
@@ -689,7 +697,7 @@ als Gesetz:[^ingress-5]
 
 **c) Verfahren**
 
-<sup>1</sup> Die Erklärung des Rückzugs eines Initiativbegehrens ist dem zuständigen Departement schriftlich einzureichen. Dieses stellt fest, ob das Initiativbegehren gültig zurückgezogen worden ist.
+<sup>1</sup> Die Erklärung des Rückzugs eines Initiativbegehrens ist der Staatskanzlei schriftlich einzureichen. Diese stellt fest, ob das Initiativbegehren gültig zurückgezogen worden ist.
 
 #### Art. 58
 
