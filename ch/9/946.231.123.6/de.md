@@ -3,28 +3,28 @@ sr: "946.231.123.6"
 title: Verordnung vom 14. März 2014 über Massnahmen gegenüber der Zentralafrikanischen Republik
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/150"
 language: de
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2014-03-14
 in_force: 2014-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/150/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-150-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/150/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/150/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2014-150-20230601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/150/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Zentralafrikanischen Republik
 
-vom 14. März 2014 (Stand am 1. Januar 2022)
+vom 14. März 2014 (Stand am 1. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG), in Ausführung der Resolutionen 2127 (2013), 2134 (2014), 2196 (2015), 2262 (2016), 2339 (2017) und 2399 (2018)[^ingress-2] des Sicherheitsrats der Vereinten Nationen,[^ingress-3]
+gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG), in Ausführung der Resolutionen 2127 (2013), 2134 (2014), 2196 (2015), 2262 (2016), 2339 (2017), 2399 (2018) und 2664 (2022)[^ingress-2] des Sicherheitsrats der Vereinten Nationen,[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: Die Texte der Resolutionen des UNO-Sicherheitsrats können im Internet unter folgender Adresse abgerufen werden: www.un.org/fr/sc/ &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant la République centrafricaine &gt; Résolutions.
-[^ingress-3]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 14. Dez. 2018 ([AS 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
+[^ingress-2]: Die Resolutionen sind auf Französisch und Englisch abrufbar unter [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Fassung gemäss Ziff. I 5 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## 1. Abschnitt: Zwangsmassnahmen
 
@@ -47,32 +47,34 @@ Ausgenommen von den Verboten nach den Absätzen 1 und 2 ist der Verkauf, die Lie
   - 1\. der Mission der Organisation der Vereinten Nationen (Minusca),
   - 2\. den französischen Truppen, welche die Minusca unterstützen,
   - 3\. den Ausbildungsmissionen der Europäischen Union in der Zentralafrikanischen Republik,
-  - 4\. den Truppen anderer Mitgliedstaaten der Vereinten Nationen, sofern die Bereitstellung der Hilfe nach Absatz 4 Buchstabe a dem zuständigen Komitee des Sicherheitsrats der Vereinten Nationen (UNO-Sicherheitsrat) im Voraus gemeldet wurde;
+  - 4\.[^1-1] den Truppen anderer Mitgliedstaaten der Vereinten Nationen, sofern die Bereitstellung der Hilfe nach Absatz 4 Buchstabe a dem zuständigen Komitee des Sicherheitsrats der Vereinten Nationen im Voraus gemeldet wurde;
 
-- b. von Schutzkleidung, einschliesslich kugelsicherer Westen und Helmen, die zur persönlichen Verwendung durch Personal der Vereinten Nationen oder des Bundes, Medienvertreterinnen und -vertreter oder humanitäres Personal vorübergehend nach der Zentralafrikanischen Republik exportiert wird.[^1-1]
+- b. von Schutzkleidung, einschliesslich kugelsicherer Westen und Helmen, die zur persönlichen Verwendung durch Personal der Vereinten Nationen oder des Bundes, Medienvertreterinnen und -vertreter oder humanitäres Personal vorübergehend nach der Zentralafrikanischen Republik exportiert wird.[^1-2]
 
 <sup>4</sup>
 
-Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und nach Mitteilung an das zuständige Komitee des UNO-Sicherheitsrats Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für den Verkauf, die Lieferung, die Ausfuhr oder die Durchfuhr:
+Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und nach Mitteilung an das zuständige Komitee des Sicherheitsrats der Vereinten Nationen[^1-3] Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für den Verkauf, die Lieferung, die Ausfuhr oder die Durchfuhr:
 
 - a. von nichtletalem Gerät und die Bereitstellung von Hilfe, einschliesslich operativer und nichtoperativer Ausbildung der Sicherheitskräfte der Zentralafrikanischen Republik und der zivilen Strafverfolgungsbehörden des Staates, zu dem ausschliesslichen Zweck, in Zusammenarbeit mit der Minusca, die Reform des Sicherheitssektors zu unterstützen oder dazu verwendet zu werden;
-- b. von Kleinwaffen und anderer damit zusammenhängender Ausrüstung, die ausschliesslich zur Verwendung durch internationale Patrouillen bestimmt sind, die im trinationalen Schutzgebiet am Sangha-Fluss für Sicherheit sorgen, indem sie Wilderei, Elfenbein- und Waffenschmuggel und andere Aktivitäten bekämpfen, die gegen das innerstaatliche Recht der Zentralafrikanischen Republik oder gegen ihre völkerrechtlichen Verpflichtungen verstossen.[^1-2]
+- b. von Kleinwaffen und anderer damit zusammenhängender Ausrüstung, die ausschliesslich zur Verwendung durch internationale Patrouillen bestimmt sind, die im trinationalen Schutzgebiet am Sangha-Fluss für Sicherheit sorgen, indem sie Wilderei, Elfenbein- und Waffenschmuggel und andere Aktivitäten bekämpfen, die gegen das innerstaatliche Recht der Zentralafrikanischen Republik oder gegen ihre völkerrechtlichen Verpflichtungen verstossen.[^1-4]
 
 <sup>4bis</sup>
 
-Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrats Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für:
+Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für:
 
 - a. den Verkauf, die Lieferung, die Ausfuhr oder die Durchfuhr von nichtletalem militärischem Gerät, das ausschliesslich für humanitäre Zwecke oder Schutzzwecke bestimmt ist, sowie damit zusammenhängende technische Hilfe und Ausbildung;
 - b. den Verkauf, die Lieferung, die Ausfuhr oder die Durchfuhr von Rüstungsgütern und sonstigem damit zusammenhängendem letalem Gerät an die Sicherheitskräfte der Zentralafrikanischen Republik, einschliesslich der zivilen Strafverfolgungsbehörden des Landes, zu dem ausschliesslichen Zweck, die Reform des Sicherheitssektors in der Zentralafrikanischen Republik zu unterstützen oder dazu verwendet zu werden;
-- c. sonstige Verkäufe oder Lieferungen von Rüstungsgütern und anderer damit zusammenhängender Ausrüstung oder die Bereitstellung von Hilfe und Personal.[^1-3]
+- c. sonstige Verkäufe oder Lieferungen von Rüstungsgütern und anderer damit zusammenhängender Ausrüstung oder die Bereitstellung von Hilfe und Personal.[^1-5]
 
-<sup>5</sup> Vorbehalten bleiben die Bestimmungen des Güterkontrollgesetzes vom 13. Dezember 1996[^1-4] und des Kriegsmaterialgesetzes vom 13. Dezember 1996[^1-5].
+<sup>5</sup> Vorbehalten bleiben die Bestimmungen des Güterkontrollgesetzes vom 13. Dezember 1996[^1-6] und des Kriegsmaterialgesetzes vom 13. Dezember 1996[^1-7].
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 14. Dez. 2018 ([AS 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
+[^1-1]: Fassung gemäss Ziff. I 5 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 [^1-2]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 14. Dez. 2018 ([AS 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
-[^1-3]: Eingefügt durch Ziff. I der V vom 30. Nov. 2018, in Kraft seit 14. Dez. 2018 ([AS 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
-[^1-4]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^1-5]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-3]: Ausdruck gemäss Ziff. I 5 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Diese Änd. wurde im ganzen Erlass vorgenommen.
+[^1-4]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 14. Dez. 2018 ([AS 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
+[^1-5]: Eingefügt durch Ziff. I der V vom 30. Nov. 2018, in Kraft seit 14. Dez. 2018 ([AS 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
+[^1-6]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^1-7]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 
 #### Art. 2
 
@@ -90,14 +92,29 @@ Gesperrt sind Gelder und wirtschaftliche Ressourcen im Eigentum oder unter direk
 
 <sup>3</sup>
 
-Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
+Das Verbot nach Absatz 2 gilt nicht für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+
+- a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
+- b. internationale Organisationen;
+- c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
+- d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
+- e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d genannten Organisationen, soweit sie in dieser Eigenschaft handeln;
+- f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.[^2-1]
+
+<sup>4</sup>
+
+Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
 
 - a. Vermeidung von Härtefällen;
 - b. Erfüllung bestehender Verträge;
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind;
-- d. Wahrung schweizerischer Interessen.
+- d. Wahrung schweizerischer Interessen.[^2-2]
 
-<sup>4</sup> Das SECO bewilligt Ausnahmen nach Absatz 3 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements sowie gemäss den massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen.
+<sup>5</sup> Es bewilligt Ausnahmen nach Absatz 4 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements und in Übereinstimmung mit den massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen.[^2-3]
+
+[^2-1]: Fassung gemäss Ziff. I 5 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-2]: Fassung gemäss Ziff. I 5 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-3]: Eingefügt durch Ziff. I 5 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 3
 

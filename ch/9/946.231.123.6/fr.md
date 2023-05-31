@@ -3,28 +3,28 @@ sr: "946.231.123.6"
 title: "Ordonnance du 14 mars 2014 instituant des mesures à l'encontre de la République centrafricaine"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/150"
 language: fr
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2014-03-14
 in_force: 2014-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/150/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-150-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/150/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/150/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2014-150-20230601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/150/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République centrafricaine
 
-du 14 mars 2014 (État le 1<sup>er</sup> janvier 2022)
+du 14 mars 2014 (État le 1<sup>er</sup> juin 2023)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], en exécution des résolutions 2127 (2013), 2134 (2014), 2196 (2015), 2262 (2016), 2339 (2017) et 2399 (2018)[^ingress-2] du Conseil de sécurité des Nations Unies,[^ingress-3]
+vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], en exécution des résolutions 2127 (2013), 2134 (2014), 2196 (2015), 2262 (2016), 2339 (2017), 2399 (2018) et 2664 (2022)[^ingress-2] du Conseil de sécurité des Nations Unies,[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: Les textes des résolutions du Conseil de sécurité des Nations Unies sont accessibles en ligne à l’adresse: [www.un.org/fr/sc](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant la République centrafricaine &gt; Résolutions.
-[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 14 déc. 2018 ([RO 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
+[^ingress-2]: Les textes des résolutions du Conseil de sécurité des Nations Unies peuvent être consultés à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Nouvelle teneur selon le ch. I 5 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## Section 1 Mesures de coercition
 
@@ -47,32 +47,34 @@ Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas à la vente, à 
   - 1\. la Mission de l’Organisation des Nations Unies (MINUSCA),
   - 2\. les forces françaises qui soutiennent la MINUSCA,
   - 3\. les missions de formation de l’Union européenne en République centrafricaine,
-  - 4\. les forces d’autres États membres des Nations Unies, pour autant que l’assistance prévue à l’al. 4, let. a, ait été préalablement notifiée au comité compétent du Conseil de sécurité des Nations Unies (Conseil de sécurité de l’ONU);
+  - 4\.[^1-1] les forces d’autres États membres des Nations Unies, pour autant que l’assistance prévue à l’al. 4, let. a, ait été préalablement notifiée au comité compétent du Conseil de sécurité des Nations Unies;
 
-- b. de vêtements de protection, dont les gilets et casques pare-balles, temporairement exportés en République centrafricaine par le personnel des Nations Unies ou de la Confédération, les représentants des médias ou les agents humanitaires, pour leur usage personnel.[^1-1]
+- b. de vêtements de protection, dont les gilets et casques pare-balles, temporairement exportés en République centrafricaine par le personnel des Nations Unies ou de la Confédération, les représentants des médias ou les agents humanitaires, pour leur usage personnel.[^1-2]
 
 <sup>4</sup>
 
-Le Secrétariat d’État à l’économie (SECO) peut, après consultation des services compétents du Département fédéral des affaires étrangères (DFAE) et notification préalable au comité compétent du Conseil de sécurité de l’ONU, autoriser des exceptions aux interdictions prévues aux al. 1 et 2 pour la vente, la fourniture, l’exportation ou le transit:
+Le Secrétariat d’État à l’économie (SECO) peut, après consultation des services compétents du Département fédéral des affaires étrangères (DFAE) et notification préalable au comité compétent du Conseil de sécurité des Nations Unies[^1-3], autoriser des exceptions aux interdictions prévues aux al. 1 et 2 pour la vente, la fourniture, l’exportation ou le transit:
 
 - a. de matériel non létal et la fourniture d’une assistance, y compris les activités de formation opérationnelle et non opérationnelle dispensée aux forces de sécurité de la République centrafricaine et aux autorités civiles de poursuite pénale, exclusivement destinés à soutenir le processus de réforme du secteur de la sécurité, ou à être utilisés dans le cadre de celui-ci, en collaboration avec la MINUSCA;
-- b. d’armes légères et d’autre matériel connexe exclusivement destinés à être utilisés dans le cadre de patrouilles internationales assurant la sécurité dans l’aire protégée du Trinational de la Sangha afin de lutter contre le braconnage, la contrebande d’ivoire et d’armes et toutes autres activités contraires au droit interne de la République centrafricaine ou au droit international.[^1-2]
+- b. d’armes légères et d’autre matériel connexe exclusivement destinés à être utilisés dans le cadre de patrouilles internationales assurant la sécurité dans l’aire protégée du Trinational de la Sangha afin de lutter contre le braconnage, la contrebande d’ivoire et d’armes et toutes autres activités contraires au droit interne de la République centrafricaine ou au droit international.[^1-4]
 
 <sup>4bis</sup>
 
-Le SECO peut, après consultation des services compétents du DFAE et en conformité avec les décisions du comité compétent du Conseil de sécurité de l’ONU, autoriser des exceptions aux interdictions prévues aux al. 1 et 2 pour:
+Le SECO peut, après consultation des services compétents du DFAE et en conformité avec les décisions du comité compétent du Conseil de sécurité des Nations Unies, autoriser des exceptions aux interdictions prévues aux al. 1 et 2 pour:
 
 - a. la vente, la fourniture, l’exportation ou le transit de matériel militaire non létal destiné exclusivement à un usage humanitaire ou de protection et pour l’assistance et la formation techniques connexes;
 - b. la vente, la fourniture, l’exportation ou le transit de biens d’équipement militaires et d’autre matériel létal connexe destinés aux forces de sécurité centrafricaines, dont les autorités civiles de poursuite pénale, et devant être utilisés exclusivement aux fins de la réforme du secteur de la sécurité ou de l’appui à celle-ci;
-- c. d’autres ventes ou livraisons de biens d’équipement militaires et d’autre matériel connexe ou la fourniture d’une assistance ou de personnel.[^1-3]
+- c. d’autres ventes ou livraisons de biens d’équipement militaires et d’autre matériel connexe ou la fourniture d’une assistance ou de personnel.[^1-5]
 
-<sup>5</sup> Les dispositions de la loi du 13 décembre 1996 sur le contrôle des biens[^1-4] et de la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^1-5] sont réservées.
+<sup>5</sup> Les dispositions de la loi du 13 décembre 1996 sur le contrôle des biens[^1-6] et de la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^1-7] sont réservées.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 14 déc. 2018 ([RO 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
+[^1-1]: Nouvelle teneur selon le ch. I 5 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 14 déc. 2018 ([RO 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
-[^1-3]: Introduit par le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 14 déc. 2018 ([RO 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
-[^1-4]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^1-5]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-3]: Nouvelle expression selon le ch. I 5 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-4]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 14 déc. 2018 ([RO 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
+[^1-5]: Introduit par le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 14 déc. 2018 ([RO 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
+[^1-6]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^1-7]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 
 #### Art. 2
 
@@ -90,14 +92,29 @@ Sont gelés les avoirs et les ressources économiques appartenant à ou sous con
 
 <sup>3</sup>
 
-Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées, afin:
+L’interdiction prévue à l’al. 2 ne s’applique pas à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes par:
+
+- a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
+- b. des organisations internationales;
+- c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
+- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
+- e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d, lorsqu’ils agissent en cette qualité;
+- f. tous les autres acteurs tels que déterminés par le comité compétent du Conseil de sécurité des Nations Unies.[^2-1]
+
+<sup>4</sup>
+
+Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
 
 - a. de prévenir des cas de rigueur;
 - b. d’honorer des contrats existants;
-- c. d’honorer des créances en application d’une décision judiciaire, administrative ou arbitrale existente, ou
-- d. de sauvegarder les intérêts de la Suisse.
+- c. d’honorer des créances en application d’une décision judiciaire, administrative ou arbitrale existante, ou
+- d. de sauvegarder les intérêts de la Suisse.[^2-2]
 
-<sup>4</sup> Le SECO autorise les dérogations visées à l’al. 3, après avoir consulté les offices compétents du DFAE et du Département fédéral des finances, et conformément aux résolutions pertinentes du Conseil de sécurité de l’ONU.
+<sup>5</sup> Il accorde les dérogations prévues à l’al. 4 après consultation des offices compétents du DFAE et du Département fédéral des finances et en conformité avec les résolutions pertinentes du Conseil de sécurité des Nations Unies.[^2-3]
+
+[^2-1]: Nouvelle teneur selon le ch. I 5 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-2]: Nouvelle teneur selon le ch. I 5 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-3]: Introduit par le ch. I 5 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 3
 

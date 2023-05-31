@@ -3,28 +3,28 @@ sr: "946.231.123.6"
 title: Ordinanza del 14 marzo 2014 che istituisce provvedimenti nei confronti della Repubblica Centrafricana
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/150"
 language: it
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2014-03-14
 in_force: 2014-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/150/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-150-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/150/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/150/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2014-150-20230601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/150/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Centrafricana
 
-del 14 marzo 2014 (Stato 1° gennaio 2022)
+del 14 marzo 2014 (Stato 1° giugno 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (LEmb), in esecuzione delle risoluzioni 2127 (2013), 2134 (2014), 2196 (2015), 2262 (2016), 2339 (2017) e 2399 (2018)[^ingress-2] del Consiglio di sicurezza delle Nazioni Unite (Consiglio di sicurezza dell’ONU),[^ingress-3]
+visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (LEmb); in esecuzione delle risoluzioni 2127 (2013), 2134 (2014), 2196 (2015), 2262 (2016), 2339 (2017), 2399 (2018) e 2664 (2022)[^ingress-2] del Consiglio di sicurezza delle Nazioni Unite,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: I testi delle risoluzioni del Consiglio di sicurezza dell’ONU possono essere consultati sul sito www.un.org/fr/sc/ &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant la République centrafricaine &gt; Résolutions.
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 14 dic. 2018 ([RU 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
+[^ingress-2]: Le risoluzioni sono consultabili in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Nuovo testo giusta il n. I 5 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## Sezione 1: Misure coercitive
 
@@ -47,32 +47,34 @@ Sono esclusi dai divieti di cui ai capoversi 1 e 2 la vendita, la fornitura, l�
   - 1\. la missione dell’Organizzazione delle Nazioni Unite (Minusca),
   - 2\. le forze francesi che sostengono la Minusca,
   - 3\. le missioni di formazione dell’Unione europea nella Repubblica Centrafricana,
-  - 4\. le forze di altri Paesi membri delle Nazioni Unite, purché l’assistenza fornita di cui al capoverso 4 lettera a sia stata preannunciata al comitato competente del Consiglio di sicurezza dell’ONU;
+  - 4\.[^1-1] le forze di altri Paesi membri delle Nazioni Unite, purché l’assistenza fornita di cui al capoverso 4 lettera a sia stata preannunciata al comitato competente del Consiglio di sicurezza delle Nazioni Unite;
 
-- b. di indumenti di protezione, inclusi i giubbotti e i caschi antiproiettile esportati temporaneamente nella Repubblica Centrafricana e destinati all’uso individuale da parte del personale delle Nazioni Unite o della Confederazione, dei rappresentanti dei media e del personale umanitario.[^1-1]
+- b. di indumenti di protezione, inclusi i giubbotti e i caschi antiproiettile esportati temporaneamente nella Repubblica Centrafricana e destinati all’uso individuale da parte del personale delle Nazioni Unite o della Confederazione, dei rappresentanti dei media e del personale umanitario.[^1-2]
 
 <sup>4</sup>
 
-La Segreteria di Stato dell’economia (SECO), d’intesa con gli uffici competenti del Dipartimento federale degli affari esteri (DFAE) e dopo aver informato il comitato competente del Consiglio di sicurezza dell’ONU, può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 per la vendita, la fornitura, l’esportazione e il transito:
+La Segreteria di Stato dell’economia (SECO), d’intesa con gli uffici competenti del Dipartimento federale degli affari esteri (DFAE) e dopo aver informato il comitato competente del Consiglio di sicurezza delle Nazioni Unite[^1-3], può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 per la vendita, la fornitura, l’esportazione e il transito:
 
 - a. di materiale non letale e la fornitura di assistenza, inclusa la formazione operativa e non operativa delle forze di sicurezza della Repubblica Centrafricana e delle autorità civili preposte al perseguimento penale, destinati esclusivamente a sostenere, in collaborazione con la Minusca, la riforma del settore della sicurezza o a essere utilizzati a tale scopo;
-- b. di armi leggere e altro materiale connesso destinati unicamente all’uso nelle pattuglie internazionali che garantiscono la sicurezza nella zona protetta trinazionale del fiume Sangha per impedire il bracconaggio, il contrabbando di avorio o di armi e qualsiasi attività contraria al diritto interno della Repubblica Centrafricana o al diritto internazionale.[^1-2]
+- b. di armi leggere e altro materiale connesso destinati unicamente all’uso nelle pattuglie internazionali che garantiscono la sicurezza nella zona protetta trinazionale del fiume Sangha per impedire il bracconaggio, il contrabbando di avorio o di armi e qualsiasi attività contraria al diritto interno della Repubblica Centrafricana o al diritto internazionale.[^1-4]
 
 <sup>4bis</sup>
 
-La SECO, d’intesa con gli uffici competenti del DFAE e in conformità alle decisioni del comitato competente del Consiglio di sicurezza dell’ONU, può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 per:
+La SECO, d’intesa con gli uffici competenti del DFAE e in conformità alle decisioni del comitato competente del Consiglio di sicurezza delle Nazioni Unite, può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 per:
 
 - a. la vendita, la fornitura, l’esportazione e il transito di materiale militare non letale destinato esclusivamente a scopi umanitari o di protezione, nonché delle relative attività di assistenza tecnica e formazione;
 - b. la vendita, la fornitura, l’esportazione e il transito di armi nonché di ogni altro materiale letale connesso, alle forze di sicurezza della Repubblica Centrafricana, comprese le autorità civili preposte al perseguimento penale, destinati esclusivamente a sostenere la riforma del settore della sicurezza o a essere utilizzati a tale scopo;
-- c. qualsiasi vendita o fornitura di armi o di materiale connesso o la fornitura di assistenza o di personale.[^1-3]
+- c. qualsiasi vendita o fornitura di armi o di materiale connesso o la fornitura di assistenza o di personale.[^1-5]
 
-<sup>5</sup> Sono fatte salve le disposizioni della legge del 13 dicembre 1996[^1-4] sul controllo dei beni a duplice impiego e della legge del 13 dicembre 1996[^1-5] sul materiale bellico.
+<sup>5</sup> Sono fatte salve le disposizioni della legge del 13 dicembre 1996[^1-6] sul controllo dei beni a duplice impiego e della legge del 13 dicembre 1996[^1-7] sul materiale bellico.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 14 dic. 2018 ([RU 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
+[^1-1]: Nuovo testo giusta il n. I 5 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 [^1-2]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 14 dic. 2018 ([RU 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
-[^1-3]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 14 dic. 2018 ([RU 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
-[^1-4]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^1-5]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-3]: Nuova espressione giusta il n. I 5 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^1-4]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 14 dic. 2018 ([RU 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
+[^1-5]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 14 dic. 2018 ([RU 2018 4553](https://fedlex.data.admin.ch/eli/oc/2018/709)).
+[^1-6]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^1-7]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 
 #### Art. 2
 
@@ -90,14 +92,29 @@ Sono bloccati gli averi e le risorse economiche di proprietà o sotto il control
 
 <sup>3</sup>
 
-La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati, nonché la liberazione delle risorse economiche bloccate per:
+Il divieto di cui al capoverso 2 non si applica alla fornitura di aiuti umanitari e al sostegno di altre attività volte a soddisfare i bisogni umani fondamentali da parte di:
+
+- a. Organizzazione delle Nazioni Unite, anche per il tramite dei suoi programmi, fondi e altri enti e organismi, nonché sue agenzie specializzate e organizzazioni collegate;
+- b. organizzazioni internazionali;
+- c. organizzazioni umanitarie aventi status di osservatore presso l’Assemblea generale delle Nazioni Unite e membri di tali organizzazioni;
+- d. organizzazioni non governative finanziate a livello bilaterale o multilaterale che partecipano ai piani di risposta umanitaria delle Nazioni Unite, ai piani di risposta per i rifugiati, ad altri appelli delle Nazioni Unite o a strutture umanitarie coordinate dall’Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA);
+- e. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a−d nella misura in cui agiscono in tale veste;
+- f. ogni altro soggetto designato dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^2-1]
+
+<sup>4</sup>
+
+La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione di risorse economiche bloccate se servono a:
 
 - a. prevenire casi di rigore;
 - b. rispettare contratti esistenti;
-- c. rispettare crediti oggetto di una sentenza giudiziaria, amministrativa o arbitrale esistente; o
-- d. tutelare interessi svizzeri.
+- c. onorare crediti oggetto di una sentenza giudiziaria, amministrativa o arbitrale;
+- d. tutelare interessi svizzeri.[^2-2]
 
-<sup>4</sup> La SECO autorizza le deroghe di cui al capoverso 3 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze e conformemente alle pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite.
+<sup>5</sup> La SECO autorizza le deroghe di cui al capoverso 4 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze e in conformità alle pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite.[^2-3]
+
+[^2-1]: Nuovo testo giusta il n. I 5 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-2]: Nuovo testo giusta il n. I 5 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-3]: Introdotto dal n. I 5 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 3
 
@@ -190,5 +207,5 @@ Allegato[^t-1]
 
 \2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annexu1-lvlu1-2].
 
-[^annexu1-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; The Central African Republic Sanctions Committee &gt; Sanctions List Materials.
+[^annexu1-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: [www.un.org/en/sc](http://www.un.org/en/sc) &gt; Subsidiary Organs &gt; Sanctions &gt; The Central African Republic Sanctions Committee &gt; Sanctions List Materials.
 [^annexu1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
