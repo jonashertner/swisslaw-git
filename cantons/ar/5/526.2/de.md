@@ -4,13 +4,12 @@ number: "526.2"
 title: "Gesetz über Jagd, Wild- und Vogelschutz"
 short: Jagdgesetz
 language: de
-version: 2016-09-30
-valid_until: 2023-05-31
-version_adopted: 2016-09-27
+version: 2023-06-01
+version_adopted: 2022-10-31
 adopted: 2003-02-17
 in_force: 2003-05-01
 url: "https://ar.clex.ch/app/de/texts_of_law/526.2"
-pdf: "https://ar.clex.ch/api/de/versions/1125/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1455/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1125/pdf_file"
 
 (Jagdgesetz)
 
-vom 17.02.2003 (Stand 30.09.2016)
+vom 17.02.2003 (Stand 01.06.2023)
 
 Der Kantonsrat des Kantons Appenzell A.Rh.,
 
@@ -72,7 +71,7 @@ beschliesst:
 
 **Jagdkommission**
 
-<sup>1</sup> Der Regierungsrat setzt eine Jagdkommission ein, die unter der Leitung der Vorsteherin oder des Vorstehers des zuständigen Departements steht. Die Kommission hat höchstens neun Mitglieder, darunter von Amtes wegen die Vorsteherin oder den Vorsteher der Jagdverwaltung. Die Bestellung der übrigen Mitglieder erfolgt unter angemessener Berücksichtigung der betroffenen Interessenkreise, insbesondere von Jagd, Wild, Wald, Landwirtschaft und Naturschutz.
+<sup>1</sup> Der Regierungsrat bestellt eine Jagdkommission und bestimmt deren Vorsitz. Die Vorsteherin oder der Vorsteher der Jagdverwaltung hat von Amtes wegen Einsitz. Die Bestellung der übrigen Mitglieder erfolgt unter angemessener Berücksichtigung der betroffenen Interessenkreise, insbesondere von Jagd, Wild, Wald, Landwirtschaft und Naturschutz.
 
 <sup>2</sup> Die Jagdkommission berät die amtlichen Stellen in jagdlichen Belangen. Sie erarbeitet namentlich die jährlichen Jagdvorschriften zuhanden des Regierungsrates und nimmt zu geplanten Änderungen von Gesetz und Verordnungen Stellung. Sie stützt sich dabei auch auf ökologische und wildbiologische Erkenntnisse.
 
@@ -80,7 +79,7 @@ beschliesst:
 
 **Jagdprüfungskommission**
 
-<sup>1</sup> Der Regierungsrat wählt eine Jagdprüfungskommission von fünf Mitgliedern und bestimmt deren Vorsitz. Die Vorsteherin oder der Vorsteher der Jagdverwaltung ist von Amtes wegen Mitglied der Kommission.
+<sup>1</sup> Der Regierungsrat bestellt eine Jagdprüfungskommission und bestimmt deren Vorsitz.
 
 <sup>2</sup> Die Jagdprüfungskommission führt die Jagdprüfung zur Erlangung des kantonalen Fähigkeitsausweises durch.
 
@@ -90,7 +89,7 @@ beschliesst:
 
 **Wildschadenkommission**
 
-<sup>1</sup> Der Regierungsrat wählt eine Wildschadenkommission von drei Mitgliedern. Die Leiterin oder der Leiter des Amtes für Raum und Wald führt von Amtes wegen den Vorsitz der Kommission. Bei der Bestellung der übrigen Mitglieder ist den Interessen der Landwirtschaft und den Interessen der Jägerinnen und Jäger Rechnung zu tragen.
+<sup>1</sup> Der Regierungsrat bestellt eine Wildschadenkommission von drei Mitgliedern und bestimmt deren Vorsitz. Bei der Wahl der Mitglieder ist den Interessen des Waldschutzes, der Landwirtschaft und der Jagd Rechnung zu tragen.
 
 <sup>2</sup> Die Kommission befindet über die Entschädigung für Wildschaden. Bis zu einem Streitwert von Fr. 1000.– entscheidet die Kommission abschliessend.
 
