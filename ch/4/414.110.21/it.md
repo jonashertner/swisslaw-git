@@ -4,11 +4,11 @@ title: Ordinanza del 1° ottobre 2021 sulla Commissione di ricorso dei PF (OCRPF
 short: OCRPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/604"
 language: it
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2021-10-01
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-604-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2021-604-20230601-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20220101/it"
 
 (OCRPF)
 
-del 1° ottobre 2021 (Stato 1° gennaio 2022)
+del 1° ottobre 2021 (Stato 1° giugno 2023)
 
 Il Consiglio federale svizzero,
 
@@ -47,16 +47,15 @@ La Commissione si compone:
 - b. del vicepresidente;
 - c. di altri cinque membri.
 
-<sup>2</sup> ...[^2-1]
+<sup>2</sup> Il presidente, il vicepresidente e uno degli altri cinque membri non possono far parte del settore dei PF.
 
-<sup>3</sup> Il Consiglio federale provvede a una composizione equilibrata della Commissione. Gli articoli 8*c* e 8*c*<sup>bis</sup> dell’ordinanza del 25 novembre 1998[^2-2] sull’organizzazione del Governo e dell’Amministrazione (OLOGA) si applicano per analogia.
+<sup>3</sup> Il Consiglio federale provvede a una composizione equilibrata della Commissione. Gli articoli 8*c* e 8*c*<sup>bis</sup> dell’ordinanza del 25 novembre 1998[^2-1] sull’organizzazione del Governo e dell’Amministrazione (OLOGA) si applicano per analogia.
 
 <sup>4</sup> Il Consiglio dei PF pubblica sul proprio sito internet un elenco dei membri nominati.
 
 <sup>5</sup> La Commissione ha sede a Berna.
 
-[^2-1]: In vigore dal 1° giu. 2023 (art. 25 cpv. 2).
-[^2-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^2-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 #### Art. 3
 
@@ -72,11 +71,9 @@ La Commissione si compone:
 
 **Eleggibilità**
 
-<sup>1</sup> ...[^4-1]
+<sup>1</sup> Può essere nominato membro della Commissione chiunque non abbia più di 65 anni.
 
 <sup>2</sup> Il presidente, il vicepresidente e almeno un altro membro della Commissione devono avere conoscenze approfondite di diritto.
-
-[^4-1]: In vigore dal 1° giu. 2023 (art. 25 cpv. 2).
 
 #### Art. 5
 

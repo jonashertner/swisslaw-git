@@ -4,11 +4,11 @@ title: Verordnung vom 1. Oktober 2021 über die ETH-Beschwerdekommission (VETHBK
 short: VETHBK
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/604"
 language: de
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2021-10-01
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-604-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2021-604-20230601-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20220101/de"
 
 (VETHBK)
 
-vom 1. Oktober 2021 (Stand am 1. Januar 2022)
+vom 1. Oktober 2021 (Stand am 1. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -47,16 +47,15 @@ Die Kommission setzt sich zusammen aus:
 - b. der Vizepräsidentin oder dem Vizepräsidenten;
 - c. fünf weiteren Mitgliedern.
 
-<sup>2</sup> ...[^2-1]
+<sup>2</sup> Die Präsidentin oder der Präsident, die Vizepräsidentin oder der Vizepräsident sowie eines der fünf weiteren Mitglieder dürfen nicht dem ETH-Bereich angehören.
 
-<sup>3</sup> Der Bundesrat sorgt für eine ausgewogene personelle Zusammensetzung. Artikel 8*c* und 8*c*<sup>bis</sup> der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^2-2] sind sinngemäss anwendbar.
+<sup>3</sup> Der Bundesrat sorgt für eine ausgewogene personelle Zusammensetzung. Artikel 8*c* und 8*c*<sup>bis</sup> der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^2-1] sind sinngemäss anwendbar.
 
 <sup>4</sup> Der ETH-Rat publiziert eine Liste der gewählten Mitglieder auf seiner Internetseite.
 
 <sup>5</sup> Die Kommission hat ihren Sitz in Bern.
 
-[^2-1]: In Kraft seit 1. Juni 2023 (Art. 25 Abs. 2).
-[^2-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^2-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 #### Art. 3
 
@@ -72,11 +71,9 @@ Die Kommission setzt sich zusammen aus:
 
 **Wählbarkeit**
 
-<sup>1</sup> ...[^4-1]
+<sup>1</sup> Als Mitglied der Kommission wählbar ist, wer nicht älter ist als 65.
 
 <sup>2</sup> Die Präsidentin oder der Präsident, die Vizepräsidentin oder der Vizepräsident sowie mindestens ein weiteres Mitglied der Kommission müssen rechtskundig sein.
-
-[^4-1]: In Kraft seit 1. Juni 2023 (Art. 25 Abs. 2).
 
 #### Art. 5
 

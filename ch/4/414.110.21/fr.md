@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> octobre 2021 sur la Commission de recours i
 short: OCREPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/604"
 language: fr
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2021-10-01
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-604-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/604/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2021-604-20230601-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/604/20220101/fr"
 
 (OCREPF)
 
-Du 1<sup>er</sup> octobre 2021 (Etat le 1<sup>er</sup> janvier 2022)
+du 1<sup>er</sup> octobre 2021 (Etat le 1<sup>er</sup> juin 2023)
 
 Le Conseil fédéral suisse,
 
@@ -47,16 +47,15 @@ La commission comprend:
 - b. un vice-président;
 - c. cinq autres membres.
 
-<sup>2</sup> ...[^2-1]
+<sup>2</sup> Le président, le vice-président et un des cinq autres membres ne peuvent faire partie du domaine des EPF.
 
-<sup>3</sup> Le Conseil fédéral veille à ce que la commission soit composée de manière équilibrée. Les art. 8*c* et 8*c*<sup>bis</sup> de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration (OLOGA)[^2-2] sont applicables par analogie.
+<sup>3</sup> Le Conseil fédéral veille à ce que la commission soit composée de manière équilibrée. Les art. 8*c* et 8*c*<sup>bis</sup> de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration (OLOGA)[^2-1] sont applicables par analogie.
 
 <sup>4</sup> Le Conseil des EPF publie sur son site Internet la liste des membres de la commission.
 
 <sup>5</sup> Le siège de la commission est à Berne.
 
-[^2-1]: En vigueur depuis le 1<sup>er</sup> juin 2023 (voir art. 25 al. 2)
-[^2-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^2-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 #### Art. 3
 
@@ -72,11 +71,9 @@ La commission comprend:
 
 **Éligibilité**
 
-<sup>1</sup> ...[^4-1]
+<sup>1</sup> Peut être nommé membre de la commission quiconque n’est pas âgé de plus de 65 ans.
 
 <sup>2</sup> Le président, le vice-président et au moins un autre membre de la commission doivent avoir des connaissances juridiques étendues.
-
-[^4-1]: En vigueur depuis le 1<sup>er</sup> juin 2023 (voir art. 25 al. 2)
 
 #### Art. 5
 
