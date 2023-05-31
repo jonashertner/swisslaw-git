@@ -3,18 +3,18 @@ sr: "412.101.221.73"
 title: Verordnung des SBFI vom 16. August 2021 über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/495"
 language: de
-version: 2023-01-01
+version: 2023-06-01
 adopted: 2021-08-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2021-495-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2021-495-20230601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 16. August 2021 (Stand am 1. Januar 2023)
+vom 16. August 2021 (Stand am 1. Juni 2023)
 
 <table>
 <tr><td>68800</td><td>Kauffrau EFZ / Kaufmann EFZ Employée de commerce CFC / Employé de commerce CFC Impiegata di commercio AFC / Impiegato di commercio AFC</td></tr>
@@ -498,11 +498,13 @@ Anhang 1
 <tr><td>68819</td><td>Treuhand/Immobilien</td><td>Fiduciaire/immobilière</td><td>Fiduciario/immobiliare</td></tr>
 </table>
 
-Anhang 2
+Anhang 2[^t-1]
 
 (Art. 12 Abs. 2)
 
 ## Anzahl Tage der überbetrieblichen Kurse in der betrieblich organisierten Grundbildung
+
+[^t-1]: Bereinigt gemäss Ziff. I Abs. 1 der V des SBFI vom 31. März 2023, in Kraft seit 1. Juni 2023 ([AS 2023 180](https://fedlex.data.admin.ch/eli/oc/2023/180)).
 
 <table>
 <tr><td>Nummer</td><td>Ausbildungs- und Prüfungsbranche</td><td>Betriebsgruppe</td><td>1. Lehrjahr</td><td>2. Lehrjahr</td><td>3. Lehrjahr</td><td>Total</td></tr>
@@ -518,8 +520,8 @@ Anhang 2
 <tr><td>68809</td><td>Internationale Speditionslogistik (ISL)</td><td></td><td>8</td><td>4</td><td>4</td><td>16</td></tr>
 <tr><td>68810</td><td>Kranken- und Sozialversicherungen</td><td></td><td>9</td><td>5</td><td>2</td><td>16</td></tr>
 <tr><td>68811</td><td>Marketing & Kommunikation</td><td></td><td>6</td><td>5</td><td>5</td><td>16</td></tr>
-<tr><td>68812</td><td>Maschinen-, Elektro- und Metall-Industrie (MEM)</td><td></td><td>6</td><td>6</td><td>4</td><td>16</td></tr>
-<tr><td>68813</td><td>Nahrungsmittel- Industrie</td><td></td><td>6</td><td>4</td><td>6</td><td>16</td></tr>
+<tr><td>68812</td><td>Maschinen-, Elektro- und Metall-Industrie (MEM)</td><td></td><td>6</td><td>7</td><td>3</td><td>16</td></tr>
+<tr><td>68813</td><td>Nahrungsmittel- Industrie</td><td></td><td>5</td><td>4</td><td>5</td><td>14</td></tr>
 <tr><td>68814</td><td>Notariate Schweiz</td><td></td><td>8</td><td>4</td><td>4</td><td>16</td></tr>
 <tr><td>68815</td><td>Öffentliche Verwaltung</td><td></td><td>9</td><td>5</td><td>2</td><td>16</td></tr>
 <tr><td>68816</td><td>Privatversicherung</td><td></td><td>5</td><td>8</td><td>3</td><td>16</td></tr>
@@ -528,16 +530,18 @@ Anhang 2
 <tr><td>68819</td><td>Treuhand/Immobilien</td><td></td><td>5</td><td>9</td><td>2</td><td>16</td></tr>
 </table>
 
-Anhang 3
+Anhang 3[^t-2]
 
 (Art. 12 Abs. 2)
 
 ## Anzahl Tage der überbetrieblichen Kurse in der schulisch organisierten Grundbildung
 
+[^t-2]: Fassung gemäss Ziff. I Abs. 2 der V des SBFI vom 31. März 2023, in Kraft seit 1. Juni 2023 ([AS 2023 180](https://fedlex.data.admin.ch/eli/oc/2023/180)).
+
 <table>
-<tr><td>Nummer</td><td>Ausbildungs- und Prüfungsbranche</td><td>Anzahl Tage (Total)</td></tr>
-<tr><td>68802</td><td>Bank</td><td>16</td></tr>
+<tr><th>Nummer</th><th>Ausbildungs- und Prüfungsbranche</th><th>Anzahl Tage (Total)</th></tr>
 <tr><td>68805</td><td>Dienstleistung und Administration (DA)</td><td>10</td></tr>
+<tr><td>68807</td><td>Handel</td><td>12</td></tr>
 <tr><td>68808</td><td>Hotel-Gastro-Tourismus</td><td>16</td></tr>
 <tr><td>68809</td><td>Internationale Speditionslogistik (ISL)</td><td>16</td></tr>
 <tr><td>68815</td><td>Öffentliche Verwaltung</td><td>16</td></tr>

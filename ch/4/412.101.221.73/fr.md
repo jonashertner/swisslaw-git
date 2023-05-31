@@ -3,18 +3,18 @@ sr: "412.101.221.73"
 title: Ordonnance du SEFRI du 16 août 2021 sur la formation professionnelle initiale d’employée de commerce / employé de commerce avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/495"
 language: fr
-version: 2023-01-01
+version: 2023-06-01
 adopted: 2021-08-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-495-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2021-495-20230601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’employée de commerce / employé de commerce avec certificat fédéral de capacité (CFC)
 
-du 16 août 2021 (État le 1<sup>er</sup> janvier 2023)
+du 16 août 2021 (État le 1<sup>er</sup> juin 2023)
 
 <table>
 <tr><td>68800</td><td>Employée de commerce CFC / Employé de commerce CFC Kauffrau EFZ / Kaufmann EFZ Impiegata di commercio AFC / Impiegato di commercio AFC</td></tr>
@@ -498,11 +498,13 @@ Annexe 1
 <tr><td>68819</td><td>Treuhand/Immobilien</td><td>Fiduciaire/immobilière</td><td>Fiduciario/immobiliare</td></tr>
 </table>
 
-Annexe 2
+Annexe 2[^t-1]
 
 (art. 12, al. 2)
 
 ## Nombre de jours de cours interentreprises dans la formation initiale en entreprise
+
+[^t-1]: Mise à jour par le ch. I al. 1 de l’O du SEFRI du 31 mars 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 180](https://fedlex.data.admin.ch/eli/oc/2023/180)).
 
 <table>
 <tr><td>Numéro</td><td>Branche de formation et d’examens</td><td>Groupe d’entreprises</td><td>1<sup>re</sup> année</td><td>2<sup>e</sup> année</td><td>3<sup>e</sup> année</td><td>Total</td></tr>
@@ -518,8 +520,8 @@ Annexe 2
 <tr><td>68809</td><td>Logistique et transports internationaux (LTI)</td><td></td><td>8</td><td>4</td><td>4</td><td>16</td></tr>
 <tr><td>68810</td><td>Assurance-maladie et assurances sociales</td><td></td><td>9</td><td>5</td><td>2</td><td>16</td></tr>
 <tr><td>68811</td><td>Communication & Marketing</td><td></td><td>6</td><td>5</td><td>5</td><td>16</td></tr>
-<tr><td>68812</td><td>Industrie des machines, des équipements électriques et des métaux (MEM)</td><td></td><td>6</td><td>6</td><td>4</td><td>16</td></tr>
-<tr><td>68813</td><td>Industrie alimentaire</td><td></td><td></td><td></td><td></td><td>16</td></tr>
+<tr><td>68812</td><td>Industrie des machines, des équipements électriques et des métaux (MEM)</td><td></td><td>6</td><td>7</td><td>3</td><td>16</td></tr>
+<tr><td>68813</td><td>Industrie alimentaire</td><td></td><td>5</td><td>4</td><td>5</td><td>14</td></tr>
 <tr><td>68814</td><td>Notariats de Suisse</td><td></td><td>8</td><td>4</td><td>4</td><td>16</td></tr>
 <tr><td>68815</td><td>Administration publique</td><td></td><td>9</td><td>5</td><td>2</td><td>16</td></tr>
 <tr><td>68816</td><td>Assurance privée</td><td></td><td>5</td><td>8</td><td>3</td><td>16</td></tr>
@@ -528,16 +530,18 @@ Annexe 2
 <tr><td>68819</td><td>Fiduciaire/immobilière</td><td></td><td>5</td><td>9</td><td>2</td><td>16</td></tr>
 </table>
 
-Annexe 3
+Annexe 3[^t-2]
 
 (art. 12, al. 2)
 
 ## Nombre de jours de cours interentreprises dans la formation initiale en école
 
+[^t-2]: Nouvelle teneur selon le ch. I al. 2 de l’O du SEFRI du 31 mars 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 180](https://fedlex.data.admin.ch/eli/oc/2023/180)).
+
 <table>
-<tr><td>Numéro</td><td>Branche de formation et d’examens</td><td>Nombre de jours (Total)</td></tr>
-<tr><td>68802</td><td>Banque</td><td>16</td></tr>
+<tr><th>Numéro</th><th>Branche de formation et d’examens</th><th>Nombre de jours (total)</th></tr>
 <tr><td>68805</td><td>Services et administration (SA)</td><td>10</td></tr>
+<tr><td>68807</td><td>Commerce</td><td>12</td></tr>
 <tr><td>68808</td><td>Hôtellerie-Gastronomie-Tourisme</td><td>16</td></tr>
 <tr><td>68809</td><td>Logistique et transports internationaux (LTI)</td><td>16</td></tr>
 <tr><td>68815</td><td>Administration publique</td><td>16</td></tr>

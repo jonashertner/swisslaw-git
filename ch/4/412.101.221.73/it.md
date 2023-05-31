@@ -3,18 +3,18 @@ sr: "412.101.221.73"
 title: Ordinanza della SEFRI del 16 agosto 2021 sulla formazione professionale di base Impiegata di commercio / Impiegato di commercio con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/495"
 language: it
-version: 2023-01-01
+version: 2023-06-01
 adopted: 2021-08-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2021-495-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2021-495-20230601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Impiegata di commercio / Impiegato di commercio con attestato federale di capacità (AFC)
 
-del 16 agosto 2021 (Stato 1° gennaio 2023)
+del 16 agosto 2021 (Stato 1° giugno 2023)
 
 <table>
 <tr><td>68800</td><td>Impiegata di commercio AFC / Impiegato di commercio AFC Kauffrau EFZ/Kaufmann EFZ Employée de commerce CFC / Employé de commerce CFC</td></tr>
@@ -498,11 +498,13 @@ Allegato 1
 <tr><td>68819</td><td>Treuhand/Immobilien</td><td>Fiduciaire/immobilière</td><td>Fiduciario/immobiliare</td></tr>
 </table>
 
-Allegato 2
+Allegato 2[^t-1]
 
 (art. 12 cpv. 2)
 
 ## Numero di giornate dei corsi interaziendali nella formazione organizzata dall’azienda
+
+[^t-1]: Aggiornato dal n. I cpv. 1 dell’O della SEFRI del 31 mar. 2023, in vigore dal 1° giu. 2023 ([RU 2023 180](https://fedlex.data.admin.ch/eli/oc/2023/180)).
 
 <table>
 <tr><td>Numero</td><td>Ramo di formazione e d’esame</td><td>Gruppo di aziende</td><td>1° anno</td><td>2° anno</td><td>3° anno</td><td>Totale</td></tr>
@@ -518,8 +520,8 @@ Allegato 2
 <tr><td>68809</td><td>Logistica e spedizione internazionale (LSI)</td><td></td><td>8</td><td>4</td><td>4</td><td>16</td></tr>
 <tr><td>68810</td><td>Assicurazione malattie e assicurazioni sociali</td><td></td><td>9</td><td>5</td><td>2</td><td>16</td></tr>
 <tr><td>68811</td><td>Marketing & Comunicazione</td><td></td><td>6</td><td>5</td><td>5</td><td>16</td></tr>
-<tr><td>68812</td><td>Industria metalmeccanica ed elettrica (MEM)</td><td></td><td>6</td><td>6</td><td>4</td><td>16</td></tr>
-<tr><td>68813</td><td>Industria alimentare</td><td></td><td>6</td><td>4</td><td>6</td><td>16</td></tr>
+<tr><td>68812</td><td>Industria metalmeccanica ed elettrica (MEM)</td><td></td><td>6</td><td>7</td><td>3</td><td>16</td></tr>
+<tr><td>68813</td><td>Industria alimentare</td><td></td><td>5</td><td>4</td><td>5</td><td>14</td></tr>
 <tr><td>68814</td><td>Notariato svizzero</td><td></td><td>8</td><td>4</td><td>4</td><td>16</td></tr>
 <tr><td>68815</td><td>Amministrazione pubblica</td><td></td><td>9</td><td>5</td><td>2</td><td>16</td></tr>
 <tr><td>68816</td><td>Assicurazione privata</td><td></td><td>5</td><td>8</td><td>3</td><td>16</td></tr>
@@ -528,16 +530,18 @@ Allegato 2
 <tr><td>68819</td><td>Fiduciario/immobiliare</td><td></td><td>5</td><td>9</td><td>2</td><td>16</td></tr>
 </table>
 
-Allegato 3
+Allegato 3[^t-2]
 
 (art. 12 cpv. 2)
 
 ## Numero di giornate dei corsi interaziendali nella formazione organizzata dalla scuola
 
+[^t-2]: Nuovo testo giusta il n. I cpv. 2 dell’O della SEFRI del 31 mar. 2023, in vigore dal 1° giu. 2023 ([RU 2023 180](https://fedlex.data.admin.ch/eli/oc/2023/180)).
+
 <table>
 <tr><td>Numero</td><td>Ramo di formazione e d’esame</td><td>Numero di giorni (totale)</td></tr>
-<tr><td>68802</td><td>Banca</td><td>16</td></tr>
 <tr><td>68805</td><td>Servizi e amministrazione (SA)</td><td>10</td></tr>
+<tr><td>68807</td><td>Commercio</td><td>12</td></tr>
 <tr><td>68808</td><td>Alberghiero-Gastronomico-Turistico</td><td>16</td></tr>
 <tr><td>68809</td><td>Logistica e spedizione internazionale (LSI)</td><td>16</td></tr>
 <tr><td>68815</td><td>Amministrazione pubblica</td><td>16</td></tr>
