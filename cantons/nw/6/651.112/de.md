@@ -4,13 +4,13 @@ number: "651.112"
 title: Reglement betreffend das Parkieren von Motorfahrzeugen auf kantonseigenen oder vom Kanton gemieteten Liegenschaften
 short: Parkplatzreglement
 language: de
-version: 2023-01-01
-valid_until: 2023-05-31
-version_adopted: 2022-10-18
+version: 2023-06-01
+valid_until: 2024-02-29
+version_adopted: 2023-05-09
 adopted: 1997-07-21
 in_force: 1997-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/651.112"
-pdf: "https://gesetze.nw.ch/api/de/versions/1062/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1136/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +19,15 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1062/pdf_file"
 
 (Parkplatzreglement)
 
-vom 21.07.1997 (Stand 01.01.2023)
+vom 21.07.1997 (Stand 01.06.2023)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 65 Abs. 2 Ziff. 10 der Kantonsverfassung, Art. 65 Abs. 3 des Strassengesetzes[^ingress-1] und § 1 der Vollziehungsverordnung zum Einführungsgesetz zur Bundesgesetzgebung über den Strassenverkehr[^ingress-2],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 15 Abs. 3 des Einführungsgesetzes vom 22. Oktober 2008 zur Bundesgesetzgebung über den Strassenverkehr (Kantonales Strassenverkehrsgesetz, kSVG)[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: NG 622.1
-[^ingress-2]: NG 651.11 (heute Art. 15 Abs. 3 Kantonales Strassenverkehrsgesetz; NG 651.1)
+[^ingress-1]: NG 651.1)
 
 #### § 1
 
@@ -52,8 +51,7 @@ beschliesst:
 
 <sup>2</sup> Parkplätze A:
 
-- 1\. Buochserstrasse 9a, Stans (Heilpädagogische Schule und Werkstätte)
-- 2\.–3. …
+- 1\.–3. …
 - 4\. Sportplatz Winkelriedhostatt, Stans
 - 5\. Mittelschule, Stans (Kollegium St. Fidelis)
 - 6\. …
@@ -63,12 +61,11 @@ beschliesst:
 - 10\. Kreuzstrasse 6, Stans (Strasseninspektorat)
 - 11\. Zeughaus Wil, Oberdorf
 - 12\. Landsgemeindeplatz Wil, Oberdorf
-- 13\.–15. …
-- 16\. Wiler Allmend, Oberdorf (ausserhalb der Nutzung durch die Waffenplatzverwaltung)
+- 13\.–16. …
 
 <sup>3</sup> Parkplätze B:
 
-- 1\. Bahnhofstrasse, Stansstad (Bahnhofparkplatz)
+- 1\. …
 - 2\. Bootshafen Feld, Beckenried
 - 3\. Neuseeland, Beckenried (bergseits Kantonsstrasse)
 
@@ -90,13 +87,17 @@ beschliesst:
 
 - 1\. Tiefgarage Logistikgebäude, Kantonsstrasse 5, Oberdorf (ausserhalb der Nutzung durch die Waffenplatzverwaltung)
 
+<sup>8</sup> Parkplätze G:
+
+- 1\. Wiler Allmend, Oberdorf (ausserhalb der Nutzung durch die Waffenplatzverwaltung)
+
 #### § 3a
 
 **2. Ausnahmen**
 
 <sup>1</sup> Das Amt kann einzelne Parkplätze durch gelbe Markierung von der Nutzung durch die Öffentlichkeit ausnehmen.
 
-<sup>2</sup> Das Parkieren auf den Parkplätzen F ist von Montag bis Freitag von 07.00 Uhr bis 18.00 Uhr nicht gestattet. Das Parkieren ist ausserhalb dieser Zeiten ebenfalls nicht gestattet, wenn die Parkierungsfläche durch die Waffenplatzverwaltung beansprucht und entsprechend gekennzeichnet wird.
+<sup>2</sup> Das Parkieren auf den Parkplätzen F und G ist von Montag bis Freitag von 07.00 Uhr bis 18.00 Uhr nicht gestattet. Das Parkieren ist ausserhalb dieser Zeiten ebenfalls nicht gestattet, wenn die Parkierungsfläche durch die Waffenplatzverwaltung beansprucht und entsprechend gekennzeichnet wird.
 
 <sup>3</sup> Bei folgenden Parkierungsflächen überträgt der Kanton die Bewirtschaftung und die Regelung des Parkierens mittels Vereinbarung an Dritte:
 
@@ -182,6 +183,18 @@ beschliesst:
   - d) jede weitere Stunde: Fr. 0.50
 - 3\. Pauschale für 24 Stunden: Fr. 12.-
 - 4\. bei Ticketverlust: Fr. 30.-
+
+<sup>5</sup> Die Gebühren betragen für die Parkplätze G:
+
+- 1\. Personenwagen (Tarif täglich 24 Stunden):
+  - a) bis 30 Minuten: gratis
+  - b) bis 60 Minuten: Fr. 0.50
+  - c) bis 90 Minuten: Fr. 1.-
+  - d) bis 120 Minuten: Fr. 1.50
+  - e) jede weitere Stunde: Fr. 0.50
+  - f) Pauschale für 24 Stunden: Fr. 5.-
+  - g) Gebühr bei Ticketverlust: Fr. 30.-
+- 2\. Busse und Lastwagen: Pauschale für 24 Stunden gemäss Preisliste der armasuisse
 
 #### § 8
 
