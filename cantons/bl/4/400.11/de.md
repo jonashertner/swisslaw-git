@@ -4,13 +4,13 @@ number: "400.11"
 title: Verordnung zum Raumplanungs- und Baugesetz
 short: RBV
 language: de
-version: 2023-02-01
-valid_until: 2023-05-31
-version_adopted: 2023-01-31
+version: 2023-06-01
+valid_until: 2023-08-31
+version_adopted: 2023-05-09
 adopted: 1998-10-27
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/400.11"
-pdf: "https://bl.clex.ch/api/de/versions/3523/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3620/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3523/pdf_file"
 
 (RBV)
 
-Vom 27.10.1998 (Stand 01.02.2023)
+Vom 27.10.1998 (Stand 01.06.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -293,6 +293,25 @@ beschliesst:
 <sup>1</sup> Das Erschliessungsprogramm enthält alle Erschliessungsanlagen, die zur Herstellung der Baureife der Grundstücke in den ausgeschiedenen Bauzonen notwendig sind sowie einen Zeitplan.
 
 <sup>2</sup> Der Zeitplan zeigt auf, wann die Gemeinde den Bau der Erschliessungsanlagen rechtlich und finanziell sicherstellen will.
+
+### 2.4.3a Sondernutzungsplanungen
+
+#### § 20a
+
+**Schattenwurf**
+
+<sup>1</sup> Der von einem Hochhaus verursachte, von der Regelbauweise abweichende Schattenwurf:
+
+- a. ist mit dem Erlass des Quartierplans unter Einbezug des Schattenwurfs sämtlicher gemäss Quartierplan möglicher Bauten nachzuweisen;
+- b. darf an einem mittleren Wintertag (8. Februar oder 3. November) in der Zeit von 08.00 Uhr bis 17.00 Uhr nicht länger als 3 Stunden auf einen beliebigen Punkt eines Gebäudes oder auf überbaubare Teile von Grundstücken fallen; ausgenommen davon sind Grundstücke in Bauzonen, die nicht einer Wohnnutzung dienen, sowie Gebäude innerhalb des Quartierplans selbst.
+
+<sup>2</sup> Die Gemeinden zeigen im Begleitbericht[^20a-1] die Auswirkungen auf die längerfristigen Entwicklungsmöglichkeiten der umgebenen Quartiere auf und stimmen diese mit der Quartierplanung ab.
+
+<sup>3</sup> In zu begründenden Ausnahmen, wie insbesondere bei städtebaulich besonderen Lagen, kann von der Schattenwurfregel gemäss Abs. 1 Bst. b abgewichen werden.
+
+<sup>4</sup> Der Gemeinderat beantragt dem Regierungsrat die Genehmigung der Abweichung gemäss Abs. 3 mit dem Genehmigungsantrag zum Quartierplan.
+
+[^20a-1]: § 39 RBG ([SGS 400](https://bl.clex.ch/data/400/de/art39)).
 
 ### 2.4.4 Gebiete für neue Verkaufseinheiten
 
@@ -739,11 +758,16 @@ Hauptdächer, Vordächer und offene, durchgehende Balkone. Andere Bauteile dürf
 
 #### § 61
 
-**Konkurrenzierende Abstände**
+**Konkurrenzierende Abstände und Verzicht auf Näherbaurecht**
 
-<sup>1</sup> Liegen kleinere Abstände innerhalb von grösseren, gilt der grösste Abstand.
+<sup>1</sup> Liegen betreffend die Abstandsvorschriften gemäss § 95 RBG kleinere Abstände innerhalb von grösseren, gilt der grössere Abstand.
 
-<sup>2</sup> Baulinien gehen den Abstandsvorschriften gemäss § 95 RBG vor.
+<sup>2</sup> Baulinien gehen den Abstandsvorschriften gemäss § 95 RBG und beide den Grenzabständen gemäss § 90 RBG vor.
+
+<sup>3</sup> Sollen im Rahmen der kommunalen Nutzungsplanung Gestaltungsbaulinien, Baufelder und Gebäudegrundrisse ausgeschieden werden, die die Grenzabstände nach § 90 RBG unterschreiten, dürfen diese nur festgelegt werden, wenn nachweislich:
+
+- a. die von der Planungsmassnahme betroffenen Grundeigentümerinnen und Grundeigentümer in das Planungsverfahren einbezogen und
+- b. diese mit eingeschriebenem Brief auf die Planauflage hingewiesen wurden.
 
 #### § 62
 
@@ -1100,7 +1124,7 @@ Hauptdächer, Vordächer und offene, durchgehende Balkone. Andere Bauteile dürf
 
 <sup>2</sup> Bauten über der Erde sind ausreichend zu profilieren. Die Höhe des Erdgeschosses (roh) ist wenigstens an einer Stange mit einer Querlatte anzugeben. Die Dachart (Steil- oder Flachdach) ist an allen Stangen mit Latten zu bezeichnen.
 
-<sup>3</sup> Bauten bis zu 3 Geschossen sind vollständig zu profilieren. Bei Bauten mit mehr als 3 Geschossen, bei industriellen Anlagen, bei komplizierten Bauformen und anderen Spezialfällen bestimmt die Baubewilligunsbehörde die Art der Profilierung.
+<sup>3</sup> Bauten bis zu 3 Geschossen sind vollständig zu profilieren. Bei Bauten mit mehr als 3 Geschossen, bei industriellen Anlagen, bei komplizierten Bauformen und anderen Spezialfällen bestimmt die Baubewilligungsbehörde die Art der Profilierung.
 
 <sup>4</sup> Bei Bauten, die unter der Erde liegen oder deren Konturen erst nach Erdbewegungen sichtbar werden, sind die Ecken mit Pfählen von wenigstens 1 m Höhe zu markieren.
 
