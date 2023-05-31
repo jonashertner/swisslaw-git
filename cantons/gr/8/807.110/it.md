@@ -4,13 +4,12 @@ number: "807.110"
 title: Ordinanza stradale del Cantone dei Grigioni
 short: OStra
 language: it
-version: 2016-01-01
-corrected: 2020-10-05
-version_adopted: 2015-12-07
+version: 2023-06-01
+version_adopted: 2023-05-23
 adopted: 2005-12-20
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/807.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2963/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3321/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2963/pdf_file"
 
 (OStra)
 
-del 20.12.2005 (stato 01.01.2016)
+del 20.12.2005 (stato 01.06.2023)
 
 emanata dal Governo il 20 dicembre 2005
 
@@ -35,18 +34,18 @@ emanata dal Governo il 20 dicembre 2005
 
 <sup>1</sup> Sono considerate strade principali ai sensi della legge stradale:
 
-- 1\. la strada dello Julier dal raccordo della A13 Coira sud fino a Silvaplana;
+- 1\. la strada dello Julier dal raccordo della N13 Coira sud fino a Tiefencastel;
 - 2\. la strada dell'Engadina da Silvaplana fino al confine nazionale Svizzera/Austria presso Schalkhof;
 - 3\. la strada del Maloja da Silvaplana fino al confine nazionale Svizzera/Italia a Castasegna;
 - 4\. la strada del Bernina da Punt Muragl/Samedan fino al confine nazionale Svizzera/Italia a Campocologno;
 - 5\. la strada della Prettigovia da Klosters/Selfranga fino a Davos;
 - 6\. la strada del Flüela da Davos fino a Susch;
 - 7\. la strada del Forno da Zernez fino al confine nazionale Svizzera/Italia a Müstair;
-- 8\. la strada dell'Oberalp dal raccordo della A13 Vial/Reichenau fino al confine con il Cantone di Uri;
+- 8\. la strada dell'Oberalp dal raccordo della N13 Vial/Reichenau fino al confine con il Cantone di Uri;
 - 9\. la strada del Lucomagno da Disentis/Mustér fino al confine con il Cantone Ticino;
-- 10\. la strada dello Schin dal raccordo della A13 Thusis fino a Tiefencastel;
-- 11\. la strada del Landwasser da Tiefencastel fino a Davos;
-- 12\. la Deutsche Strasse da Coira Obertor fino al confine con il Cantone di San Gallo a Mastrils;
+- 10\. la strada del Landwasser da Tiefencastel fino a Davos;
+- 11\. la Deutsche Strasse da Coira Obertor fino al raccordo della N28 Landquart (Karlihof);
+- 12\. la strada per Sarelli dal raccordo N13 Landquart (rotonda Tardis) fino al confine con il Cantone di San Gallo a Mastrils;
 - 13\. la strada italiana da Coira Obertor fino al confine con il Cantone Ticino a San Vittore.
 
 #### Art. 3
@@ -55,18 +54,19 @@ emanata dal Governo il 20 dicembre 2005
 
 <sup>1</sup> Sono considerati passi:
 
-- 1\. il San Bernardino dal portale nord della galleria del San Bernardino a Hinterrhein fino al raccordo della A13 a San Bernardino;
+- 1\. il San Bernardino dal portale nord della galleria del San Bernardino a Hinterrhein fino al raccordo della N13 a San Bernardino;
 - 2\. lo Spluga da Splügen fino al confine nazionale Svizzera/Italia;
-- 3\. lo Julier da Bivio fino a Silvaplana;
+- 3\. …
 - 4\. il Maloja da Maloja Kulm fino a Casaccia;
 - 5\. l'Oberalp da Tschamut fino al confine con il Cantone di Uri;
 - 6\. il Lucomagno da Fuorns fino al confine con il Cantone Ticino;
-- 7\. l'Albula da Bergün/Bravuogn fino a La Punt-Chamues-ch;
+- 7\. l'Albula da Bergün/Bravuogn fino a La Punt Chamues-ch;
 - 8\. il Bernina da Lagalb fino a San Carlo;
-- 9\. il Flüela da Pischa fino a Susch;
+- 9\. il Flüela da Tschuggen fino a Susch;
 - 10\. il Forno da Zernez fino a Tschierv;
 - 11\. l'Umbrail da Sta. Maria V.M. fino al confine nazionale Svizzera/Italia;
-- 12\. la Forcola di Livigno dall'ufficio doganale La Motta fino al confine nazionale Svizzera/Italia.
+- 12\. la Forcola di Livigno dall'ufficio doganale La Motta fino al confine nazionale Svizzera/Italia;
+- 13\. il Wolfgang dal raccordo della N28 Selfranga fino a Davos Wolfgang.
 
 #### Art. 4
 
@@ -102,11 +102,11 @@ emanata dal Governo il 20 dicembre 2005
 
 **2. Interventi nelle reti stradali**
 
-<sup>1</sup> Interventi nelle reti del traffico non motorizzato devono essere presentati in precedenza al servizio specializzato.
+<sup>1</sup> Interventi nelle reti del traffico non motorizzato devono essere presentati in precedenza all'Ufficio tecnico.
 
 <sup>2</sup> Sono considerati interventi l'inserimento, la soppressione e lo spostamento di tratti di strade o sentieri, modifiche di utilizzazione sostanziali, la posa e la modifica della segnaletica nonché costruzioni, impianti e provvedimenti che pregiudicano l'utilizzo per un periodo prolungato.
 
-<sup>3</sup> Il servizio specializzato decide in merito a interventi puntuali. Esso può vincolare la sua decisione a condizioni e oneri. Interventi di portata più ampia rendono necessario un decreto del Governo.
+<sup>3</sup> Interventi di scarsa portata necessitano del consenso dell'Ufficio tecnico. L'Ufficio tecnico può vincolare la sua decisione a condizioni e oneri. Interventi di portata più ampia rendono necessario un decreto del Governo.
 
 <sup>4</sup> Di regola gli interventi determinano un obbligo di sostituzione da parte di chi procede all'intervento.
 
@@ -116,7 +116,7 @@ emanata dal Governo il 20 dicembre 2005
 
 <sup>1</sup> I comuni disciplinano le loro reti del traffico non motorizzato nel quadro della pianificazione locale tenendo conto dei piani di rango superiore.
 
-<sup>2</sup> Essi possono autorizzare il Cantone a occuparsi della progettazione degli impianti.
+<sup>2</sup> Essi possono autorizzare il Cantone a occuparsi della progettazione, dell'esposizione pubblica e della realizzazione di costruzioni e impianti del traffico non motorizzato.
 
 <sup>3</sup> Il Governo disciplina i compiti e l'indennizzo di organizzazioni professionali mediante accordi di prestazioni.
 
@@ -134,7 +134,7 @@ emanata dal Governo il 20 dicembre 2005
 
 <sup>1</sup> I comuni devono notificare annualmente all'Ufficio tecnico se il numero di abitanti non raggiunge il numero minimo di 30 persone nelle loro frazioni comunali.
 
-<sup>2</sup> Essi devono inoltre annunciare all'Ufficio tecnico progetti di costruzione all'interno delle distanze dalla strada, delle linee di arretramento, delle zone riservate o delle aree interessate da progetti stradali.
+<sup>2</sup> Essi devono inoltre annunciare all'Ufficio tecnico progetti di costruzione all'interno delle distanze dalla strada, delle linee di arretramento, delle zone riservate o delle aree interessate da progetti stradali nonché progetti di costruzione con effetti sulla strada cantonale.
 
 ## 2. Utilizzo delle strade
 
@@ -282,8 +282,8 @@ emanata dal Governo il 20 dicembre 2005
 
 <sup>1</sup> Per gli alberi e gli arbusti devono essere rispettate le seguenti distanze dal bordo della carreggiata:
 
-- a) alberi ad alto fusto come alberi da bosco, castagni e noci 6 m dal centro del tronco;
-- b) alberi da frutto ad alto fusto nonché specie arbustive 4 m dal centro del tronco o dalla pianta;
+- a) alberi ad alto fusto su strade cantonali all'interno dell'abitato 3 m dal centro del tronco;
+- b) alberi ad alto fusto su strade cantonali al di fuori dell'abitato 5 m dal centro del tronco;
 - c) alberi nani, siepi, arbusti ornamentali e arbusti da bacche, nonché viti 1 m dalla pianta.
 
 <sup>2</sup> In presenza di piste ciclabili e marciapiedi, nonché di aree di fermata dei mezzi pubblici fanno stato le distanze secondo il capoverso 1 dal bordo di questi impianti.
@@ -296,9 +296,9 @@ emanata dal Governo il 20 dicembre 2005
 
 **4. per recinzioni**
 
-<sup>1</sup> Per recinzioni come recinti, muri senza funzione di sostegno e simili fino ad un'altezza di 90 cm deve essere rispettata all'interno dell'abitato una distanza di 50 cm dal bordo della carreggiata e fuori dall'abitato di 1 m.
+<sup>1</sup> Per recinzioni come recinti, muri senza funzione di sostegno e simili fino ad un'altezza di 2 m deve essere rispettata all'interno dell'abitato una distanza di 50 cm dal bordo della carreggiata e al di fuori dall'abitato di 1 m.
 
-<sup>2</sup> Per recinzioni con un'altezza tra i 90 cm ed i 2 m deve essere rispettata una distanza di 1 m dal bordo della carreggiata. Per recinzioni più alte fanno stato le distanze di costruzioni ed impianti secondo l'articolo 19.
+<sup>2</sup> Per recinzioni più alte fanno stato le distanze di costruzioni ed impianti secondo l'articolo 19.
 
 <sup>3</sup> In presenza di piste ciclabili e marciapiedi lungo le strade cantonali, nonché di aree di fermata dei mezzi pubblici fanno stato le distanze secondo i capoversi 1 e 2 dal bordo di questi impianti.
 
@@ -322,9 +322,9 @@ emanata dal Governo il 20 dicembre 2005
 
 **Autorizzazione**
 
-<sup>1</sup> La pubblicità lungo strade cantonali è soggetta all'obbligo di autorizzazione.
+<sup>1</sup> La pubblicità lungo, su e sopra strade cantonali nonché nel settore delle strade nazionali è soggetta all'obbligo di autorizzazione.
 
-<sup>2</sup> L'autorità competente per il rilascio dell'autorizzazione di pubblicità lungo strade cantonali è l'Ufficio tecnico. Dietro indennizzo, esso può delegare ai comuni la sua competenza concernente l'autorizzazione di cartelli indicanti manifestazioni.
+<sup>2</sup> In assenza di una competenza da parte della Confederazione, l'autorità competente è l'Ufficio tecnico. Dietro indennizzo, esso può delegare ai comuni la sua competenza concernente l'autorizzazione di cartelli indicanti manifestazioni.
 
 <sup>3</sup> L'Ufficio tecnico dispone la rimozione e l'adeguamento soggetti a spese di pubblicità stradale collocata abusivamente.
 
@@ -334,9 +334,7 @@ emanata dal Governo il 20 dicembre 2005
 
 #### Art. 25
 
-**Domande**
-
-<sup>1</sup> Le domande per pubblicità stradale devono essere presentate all'Ufficio tecnico con le indicazioni necessarie, in particolare relative al tipo, alla grandezza, all'ubicazione e allo scopo della pubblicità, nonché con la relativa documentazione dei piani.
+**…**
 
 #### Art. 26
 
@@ -350,15 +348,15 @@ emanata dal Governo il 20 dicembre 2005
 - b) …
 - c) pubblicità retroflettenti, fluorescenti o luminescenti;
 - d) pubblicità che accecano, lampeggiano o che esplicano il loro effetto tramite effetti di luce variabili;
-- e) pubblicità in movimento o che vengono proiettate.
+- e) pubblicità in movimento.
 
 [^26-1]: RS [741.21](https://db.clex.ch/link/Bund/741.21/it)
 
 #### Art. 27
 
-**Striscioni pubblicitari all'interno dell'abitato**
+**Pubblicità sopra strade cantonali**
 
-<sup>1</sup> All'interno dell'abitato gli striscioni pubblicitari sopra la strada cantonale possono essere autorizzati, se la pubblicità concerne manifestazioni o eventi di pubblica utilità, culturali o sportivi di interesse almeno regionale, segnatamente fiere, esposizioni e simili.
+<sup>1</sup> All'interno dell'abitato le pubblicità sopra strade cantonali possono essere autorizzate, se la pubblicità concerne manifestazioni o eventi di pubblica utilità, culturali o sportivi di interesse almeno regionale, segnatamente fiere, esposizioni e simili. Al di fuori dell'abitato la pubblicità sopra strade cantonali non è ammessa.
 
 #### Art. 28
 
@@ -369,7 +367,7 @@ emanata dal Governo il 20 dicembre 2005
 - a) sono apposte in una zona edificabile oppure al di fuori delle zone edificabili se lì sono vincolate all'ubicazione o se vengono apposte in una zona con abitazioni sparse e se
 - b) si inseriscono nel paesaggio e nell'ambiente.
 
-<sup>2</sup> È generalmente vietata la pubblicità stradale all'interno di paesaggi degni di protezione secondo la legislazione federale e cantonale sulla protezione della natura e del paesaggio.
+<sup>2</sup> …
 
 #### Art. 29
 
@@ -394,12 +392,18 @@ emanata dal Governo il 20 dicembre 2005
 
 <sup>1</sup> …
 
-<sup>1<sup>bis</sup></sup> Alle spese computabili per la progettazione, l'acquisto dei terreni e la costruzione di nuovi sentieri escursionistici e piste ciclabili che corrispondono alle direttive e alle reti stradali cantonali, sono di importanza cantonale e sono stati approvati dal Cantone, possono essere versati i seguenti sussidi:
+<sup>1<sup>bis</sup></sup> Alle spese computabili per la progettazione, l'acquisto dei terreni e la costruzione di nuovi sentieri escursionistici e piste ciclabili che corrispondono alle direttive e alle reti stradali cantonali, sono di importanza cantonale e hanno ottenuto il consenso del Cantone possono essere versati i seguenti sussidi:
 
-- a) dal 30 al 50 per cento per piste ciclabili destinate al traffico quotidiano;
-- b) dal 10 al 30 per cento per piste ciclabili destinate al traffico di tempo libero e turistico nonché per sentieri escursionistici.
+- a) per piste ciclabili destinate alla mobilità quotidiana:
+  - 1\. 50 per cento per impianti di interesse cantonale,
+  - 2\. 80 per cento per impianti di interesse cantonale preponderante;
+- b) per piste ciclabili destinate alla mobilità del tempo libero nonché per i sentieri escursionistici:
+  - 1\. 30 per cento per impianti di interesse cantonale e 60 per cento, se servono alla dissociazione,
+  - 2\. 60 per cento per impianti di interesse cantonale preponderante.
 
-<sup>2</sup> Alle spese computabili per la posa e la manutenzione della segnaletica di impianti del traffico non motorizzato (senza marciapiedi) che corrispondono alle direttive e alle reti stradali cantonali e sono stati approvati dal Cantone, possono essere versati sussidi pari fino al 50 per cento.
+<sup>1<sup>ter</sup></sup> Una sostituzione di costruzioni e di impianti esistenti ha diritto a sussidi se è necessaria e se non è da ricondurre a una cattiva manutenzione.
+
+<sup>2</sup> Alle spese computabili per la posa e la manutenzione della segnaletica di impianti del traffico non motorizzato (senza marciapiedi) che corrispondono alle direttive e alle reti stradali cantonali e che hanno ricevuto il consenso del Cantone possono essere versati sussidi pari fino al 50 per cento.
 
 <sup>3</sup> …
 
@@ -497,7 +501,9 @@ emanata dal Governo il 20 dicembre 2005
 - e) realizzazione di posti di parcheggio fr. 100.–
 - f) parcheggio da fr. 0.– a fr. 4.– all'ora o da fr. 0.– a fr. 60.– al mese
 
-<sup>2</sup> Per tutti gli altri utilizzi di cui al capoverso 1 che eccedono l'uso pubblico devono essere riscosse tasse a copertura delle spese.
+<sup>2</sup> L'utilizzo dell'infrastruttura stradale per costruzioni e impianti per la produzione di energia rinnovabile è gratuito.
+
+<sup>3</sup> Per tutti gli altri utilizzi che eccedono l'uso pubblico devono essere riscosse tasse a copertura delle spese.
 
 #### Art. 39
 

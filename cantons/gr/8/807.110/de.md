@@ -4,13 +4,12 @@ number: "807.110"
 title: Strassenverordnung des Kantons Graubünden
 short: StrV
 language: de
-version: 2016-01-01
-corrected: 2020-10-05
-version_adopted: 2015-12-07
+version: 2023-06-01
+version_adopted: 2023-05-23
 adopted: 2005-12-20
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/807.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2963/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3321/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2963/pdf_file"
 
 (StrV)
 
-Vom 20.12.2005 (Stand 01.01.2016)
+Vom 20.12.2005 (Stand 01.06.2023)
 
 Von der Regierung erlassen am 20. Dezember 2005
 
@@ -35,18 +34,18 @@ Von der Regierung erlassen am 20. Dezember 2005
 
 <sup>1</sup> Hauptstrassen im Sinne des Strassengesetzes sind:
 
-- 1\. Julierstrasse vom Anschluss A13 Chur Süd bis Silvaplana;
+- 1\. Julierstrasse vom Anschluss N13 Chur Süd bis Tiefencastel;
 - 2\. Engadinerstrasse von Silvaplana bis zur Landesgrenze Schweiz/Österreich beim Schalkhof;
 - 3\. Malojastrasse von Silvaplana bis zur Landesgrenze Schweiz/Italien in Castasegna;
 - 4\. Berninastrasse von Punt Muragl/Samedan bis zur Landesgrenze Schweiz/Italien in Campocologno;
 - 5\. Prättigauerstrasse von Klosters/Selfranga bis Davos;
 - 6\. Flüelastrasse von Davos bis Susch;
 - 7\. Ofenbergstrasse von Zernez bis zur Landesgrenze Schweiz/Italien in Müstair;
-- 8\. Oberalpstrasse vom Anschluss A13 Vial/Reichenau bis zur Grenze mit dem Kanton Uri;
+- 8\. Oberalpstrasse vom Anschluss N13 Vial/Reichenau bis zur Grenze mit dem Kanton Uri;
 - 9\. Lukmanierstrasse von Disentis/Mustér bis zur Grenze mit dem Kanton Tessin;
-- 10\. Schinstrasse vom Anschluss A13 Thusis bis Tiefencastel;
-- 11\. Landwasserstrasse von Tiefencastel bis Davos;
-- 12\. Deutsche Strasse von Chur Obertor bis zur Grenze mit dem Kanton St. Gallen in Mastrils;
+- 10\. Landwasserstrasse von Tiefencastel bis Davos;
+- 11\. Deutsche Strasse von Chur Obertor bis zum Anschluss N28 Landquart (Karlihof);
+- 12\. Sarellistrasse vom Anschluss N13 Landquart (Kreisel Tardis) bis zur Grenze mit dem Kanton St. Gallen in Mastrils;
 - 13\. Italienische Strasse von Chur Obertor bis zur Grenze mit dem Kanton Tessin in San Vittore.
 
 #### Art. 3
@@ -55,18 +54,19 @@ Von der Regierung erlassen am 20. Dezember 2005
 
 <sup>1</sup> Als Pässe beziehungsweise Passstrecken gelten:
 
-- 1\. der San Bernardino vom Nordportal des San Bernardinotunnels in Hinterrhein bis zum Anschluss A13 in San Bernardino;
+- 1\. der San Bernardino vom Nordportal des San Bernardinotunnels in Hinterrhein bis zum Anschluss N13 in San Bernardino;
 - 2\. der Splügen von Splügen bis zur Landesgrenze Schweiz/Italien;
-- 3\. der Julier von Bivio bis Silvaplana;
+- 3\. …
 - 4\. der Maloja von Maloja Kulm bis Casaccia;
 - 5\. der Oberalp von Tschamut bis zur Grenze mit dem Kanton Uri;
 - 6\. der Lukmanier von Fuorns bis zur Grenze mit dem Kanton Tessin;
-- 7\. der Albula von Bergün/Bravuogn bis La Punt-Chamues-ch;
+- 7\. der Albula von Bergün/Bravuogn bis La Punt Chamues-ch;
 - 8\. der Bernina von Lagalb bis San Carlo;
-- 9\. der Flüela von Pischa bis Susch;
+- 9\. der Flüela von Tschuggen bis Susch;
 - 10\. der Ofenberg von Zernez bis Tschierv;
 - 11\. der Umbrail von Sta. Maria V.M. bis zur Landesgrenze Schweiz/Italien;
-- 12\. die Forcola di Livigno vom Zollamt La Motta bis zur Landesgrenze Schweiz/Italien.
+- 12\. die Forcola di Livigno vom Zollamt La Motta bis zur Landesgrenze Schweiz/Italien;
+- 13\. der Wolfgang vom Anschluss N28 Selfranga bis Davos Wolfgang.
 
 #### Art. 4
 
@@ -102,11 +102,11 @@ Von der Regierung erlassen am 20. Dezember 2005
 
 **2. Eingriffe in die Wegnetze**
 
-<sup>1</sup> Eingriffe in die Wegnetze des Langsamverkehrs sind vorgängig der Fachstelle vorzulegen.
+<sup>1</sup> Eingriffe in die Wegnetze des Langsamverkehrs sind vorgängig dem Tiefbauamt vorzulegen.
 
 <sup>2</sup> Als Eingriffe gelten die Aufnahme, Aufhebung und Verlegung von Wegabschnitten, wesentliche Nutzungsänderungen, die Erstellung und Änderung der Signalisation sowie Bauten, Anlagen und Vorkehrungen, welche die Benützung längerdauernd beeinträchtigen.
 
-<sup>3</sup> Über punktuelle Eingriffe entscheidet die Fachstelle. Sie kann ihren Entscheid mit Auflagen und Bedingungen verbinden. Grössere Eingriffe erfordern einen Beschluss der Regierung.
+<sup>3</sup> Geringfügige Eingriffe bedürfen einer Zustimmung des Tiefbauamtes. Das Tiefbauamt kann seine Verfügung mit Auflagen und Bedingungen verbinden. Grössere Eingriffe erfordern einen Beschluss der Regierung.
 
 <sup>4</sup> Eingriffe begründen in der Regel eine Ersatzpflicht des Verursachers.
 
@@ -114,9 +114,9 @@ Von der Regierung erlassen am 20. Dezember 2005
 
 **3. Aufgaben von Gemeinden und Fachorganisationen**
 
-<sup>1</sup> Die Gemeinden regeln ihre Wegenetze des Langsamverkehrs im Rahmen der Ortsplanung, unter Berücksichtigung der übergeordneten Pläne.
+<sup>1</sup> Die Gemeinden regeln ihre Wegnetze des Langsamverkehrs im Rahmen der Ortsplanung, unter Berücksichtigung der übergeordneten Pläne.
 
-<sup>2</sup> Sie können den Kanton zur Projektierung der Anlagen ermächtigen.
+<sup>2</sup> Sie können den Kanton zur Projektierung, zur öffentlichen Auflage und zum Bau von Bauten und Anlagen des Langsamverkehrs ermächtigen.
 
 <sup>3</sup> Die Regierung regelt mittels Leistungsvereinbarungen die Aufgaben und die Entschädigung von Fachorganisationen.
 
@@ -134,7 +134,7 @@ Von der Regierung erlassen am 20. Dezember 2005
 
 <sup>1</sup> Die Gemeinden haben dem Tiefbauamt Unterschreitungen der Mindesteinwohnerzahl von 30 Personen bei ihren Gemeindefraktionen jährlich zu melden.
 
-<sup>2</sup> Sie haben dem Tiefbauamt überdies Bauvorhaben innerhalb von Strassenabständen, Baulinien, Projektierungszonen oder Strassenprojektgebieten anzuzeigen.
+<sup>2</sup> Sie haben dem Tiefbauamt überdies Bauvorhaben innerhalb von Strassenabständen, Baulinien, Projektierungszonen oder Strassenprojektgebieten sowie Bauvorhaben mit Auswirkungen auf die Kantonsstrasse anzuzeigen.
 
 ## 2. Strassenbenützung
 
@@ -282,8 +282,8 @@ Von der Regierung erlassen am 20. Dezember 2005
 
 <sup>1</sup> Bäume und Sträucher haben folgende Abstände vom Rand der Fahrbahn aufzuweisen:
 
-- a) Hochstämme wie Waldbäume, Kastanien- und Nussbäume 6 m ab Stammmitte;
-- b) hochstämmige Obstbäume sowie strauchförmige Baumarten 4 m ab Stammmitte beziehungsweise ab dem Pflanzenrand;
+- a) hochstämmige Bäume an Kantonsstrassen innerorts 3 m ab Stammmitte;
+- b) hochstämmige Bäume an Kantonsstrassen ausserorts 5 m ab Stammmitte;
 - c) Zwergbäume, Hecken, Zier- und Beerensträucher sowie Reben 1 m ab dem Pflanzenrand.
 
 <sup>2</sup> Bei Rad- und Gehwegen sowie bei Haltebuchten des öffentlichen Verkehrs gelten die Abstände nach Absatz 1 vom Rand dieser Anlagen.
@@ -296,9 +296,9 @@ Von der Regierung erlassen am 20. Dezember 2005
 
 **4. für Einfriedungen**
 
-<sup>1</sup> Für Einfriedungen wie Zäune, Mauern ohne Stützfunktion und dergleichen bis zu einer Höhe von 90 cm ist vom Fahrbahnrand innerorts ein Abstand von 50 cm und ausserorts von 1 m zu beachten.
+<sup>1</sup> Für Einfriedungen wie Zäune, Mauern ohne Stützfunktion und dergleichen bis zu einer Höhe von 2 m ist vom Fahrbahnrand innerorts ein Abstand von 50 cm und ausserorts von 1 m zu beachten.
 
-<sup>2</sup> Bei Einfriedungen mit Höhen zwischen 90 cm und 2 m ist ein Abstand von 1 m vom Fahrbahnrand einzuhalten. Bei höheren Einfriedungen gelten die Abstände von Bauten und Anlagen gemäss Artikel 19.
+<sup>2</sup> Bei höheren Einfriedungen gelten die Abstände von Bauten und Anlagen gemäss Artikel 19.
 
 <sup>3</sup> Bei Rad- und Gehwegen entlang von Kantonsstrassen sowie bei Haltebuchten des öffentlichen Verkehrs gelten die Abstände nach Absatz 1 und 2 vom Rand dieser Anlagen.
 
@@ -322,9 +322,9 @@ Von der Regierung erlassen am 20. Dezember 2005
 
 **Bewilligung**
 
-<sup>1</sup> Reklamen an Kantonsstrassen sind bewilligungspflichtig.
+<sup>1</sup> Reklamen an, auf und über Kantonsstrassen sowie im Bereich von Nationalstrassen sind bewilligungspflichtig.
 
-<sup>2</sup> Zuständige Behörde für die Bewilligung von Reklamen an Kantonsstrassen ist das Tiefbauamt. Es kann seine Zuständigkeit betreffend die Bewilligung von Veranstaltungshinweisen gegen Entrichtung einer Entschädigung auf die Gemeinden übertragen.
+<sup>2</sup> Zuständige Behörde ist das Tiefbauamt, sofern keine Zuständigkeit des Bundes besteht. Es kann seine Zuständigkeit betreffend die Bewilligung von Veranstaltungshinweisen gegen Entrichtung einer Entschädigung auf die Gemeinden übertragen.
 
 <sup>3</sup> Das Tiefbauamt verfügt die kostenpflichtige Entfernung und Anpassung von rechtswidrig angebrachten Strassenreklamen.
 
@@ -334,9 +334,7 @@ Von der Regierung erlassen am 20. Dezember 2005
 
 #### Art. 25
 
-**Gesuche**
-
-<sup>1</sup> Gesuche für Strassenreklamen müssen mit den notwendigen Angaben, insbesondere bezüglich Art, Grösse, Standort und Zweck der Reklame, sowie mit den entsprechenden Planunterlagen beim Tiefbauamt eingereicht werden.
+**…**
 
 #### Art. 26
 
@@ -350,15 +348,15 @@ Von der Regierung erlassen am 20. Dezember 2005
 - b) …
 - c) Reklamen, die retro-reflektieren, fluoreszieren oder lumineszieren;
 - d) Reklamen, die blenden, blinken oder durch wechselnde Lichteffekte wirken;
-- e) Reklamen, die sich bewegen oder projiziert werden.
+- e) Reklamen, die sich bewegen.
 
 [^26-1]: SR [741.21](https://db.clex.ch/link/Bund/741.21/de)
 
 #### Art. 27
 
-**Reklametransparente innerorts**
+**Reklamen über Kantonsstrassen**
 
-<sup>1</sup> Innerorts können Reklametransparente über der Kantonsstrasse bewilligt werden, sofern die Reklamen gemeinnützige, kulturelle oder sportliche Veranstaltungen oder Anlässe von mindestens regionaler Bedeutung, namentlich Messen, Ausstellungen und dergleichen betreffen.
+<sup>1</sup> Innerorts können Reklamen über Kantonsstrassen bewilligt werden, sofern die Reklamen gemeinnützige, kulturelle oder sportliche Veranstaltungen oder Anlässe von mindestens regionaler Bedeutung, namentlich Messen, Ausstellungen und dergleichen betreffen. Ausserorts sind Reklamen über Kantonsstrassen unzulässig.
 
 #### Art. 28
 
@@ -369,7 +367,7 @@ Von der Regierung erlassen am 20. Dezember 2005
 - a) in einer Bauzone angebracht werden oder ausserhalb der Bauzonen standortgebunden sind oder dort in einer lockeren Überbauung zu stehen kommen und
 - b) sich in die Landschaft und Umgebung einordnen.
 
-<sup>2</sup> Generell untersagt sind Strassenreklamen innerhalb schützenswerter Landschaftsbilder oder Landschaften gemäss der Gesetzgebung von Bund und Kanton über den Natur- und Heimatschutz.
+<sup>2</sup> …
 
 #### Art. 29
 
@@ -394,12 +392,18 @@ Von der Regierung erlassen am 20. Dezember 2005
 
 <sup>1</sup> …
 
-<sup>1<sup>bis</sup></sup> An die anrechenbaren Projektierungs-, Landerwerbs- und Baukosten von neuen Rad- und Wanderweganlagen, welche den kantonalen Vorgaben und Wegnetzen entsprechen, kantonale Bedeutung aufweisen und vom Kanton genehmigt wurden, können folgende Beiträge geleistet werden:
+<sup>1<sup>bis</sup></sup> An die anrechenbaren Projektierungs-, Landerwerbs- und Baukosten von neuen Rad- und Wanderweganlagen, welche den kantonalen Vorgaben und Wegnetzen entsprechen, kantonale Bedeutung aufweisen und die Zustimmung des Kantons erhalten, können folgende Beiträge geleistet werden:
 
-- a) 30 bis 50 Prozent für Radweganlagen des Alltagsverkehrs;
-- b) 10 bis 30 Prozent für Radweganlagen des Freizeit- und Tourismusverkehrs sowie für Wanderwege.
+- a) für Radweganlagen des Alltagsverkehrs:
+  - 1\. 50 Prozent für Anlagen von kantonalem Interesse,
+  - 2\. 80 Prozent für Anlagen von überwiegendem kantonalem Interesse;
+- b) für Radweganlagen des Freizeitverkehrs sowie für Wanderwege:
+  - 1\. 30 Prozent für Anlagen von kantonalem Interesse beziehungsweise 60 Prozent, sofern sie der Entflechtung dienen,
+  - 2\. 60 Prozent für Anlagen von überwiegendem kantonalem Interesse.
 
-<sup>2</sup> An die anrechenbaren Kosten der Erstellung und Erhaltung der Signalisation von Anlagen des Langsamverkehrs (ohne Gehwege), welche den kantonalen Vorgaben und Wegnetzen entsprechen und vom Kanton genehmigt wurden, können Beiträge von bis zu 50 Prozent geleistet werden.
+<sup>1<sup>ter</sup></sup> Ein Ersatz bestehender Bauten und Anlagen ist beitragsberechtigt, sofern er notwendig und nicht auf mangelhaften Unterhalt zurückzuführen ist.
+
+<sup>2</sup> An die anrechenbaren Kosten der Erstellung und Erhaltung der Signalisation von Anlagen des Langsamverkehrs (ohne Gehwege), welche den kantonalen Vorgaben und Wegnetzen entsprechen und die Zustimmung des Kantons erhalten, können Beiträge von bis zu 50 Prozent geleistet werden.
 
 <sup>3</sup> …
 
@@ -497,7 +501,9 @@ Von der Regierung erlassen am 20. Dezember 2005
 - e) Erstellen von Parkfeldern Fr. 100.–
 - f) Parkieren Fr. 0.– bis Fr. 4.– pro Stunde beziehungsweise Fr. 0.– bis Fr. 60.– pro Monat
 
-<sup>2</sup> Für alle weiteren, den Gemeingebrauch übersteigenden Nutzungen gemäss Absatz 1 sind kostendeckende Gebühren zu erheben.
+<sup>2</sup> Die Inanspruchnahme der Strasseninfrastruktur für Bauten und Anlagen zwecks Gewinnung erneuerbarer Energie ist unentgeltlich.
+
+<sup>3</sup> Für alle weiteren, den Gemeingebrauch übersteigenden Nutzungen sind kostendeckende Gebühren zu erheben.
 
 #### Art. 39
 

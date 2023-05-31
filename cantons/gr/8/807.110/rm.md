@@ -4,13 +4,12 @@ number: "807.110"
 title: Ordinaziun davart las vias dal chantun Grischun
 short: OVias
 language: rm
-version: 2016-01-01
-corrected: 2020-10-05
-version_adopted: 2015-12-07
+version: 2023-06-01
+version_adopted: 2023-05-23
 adopted: 2005-12-20
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/807.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2963/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3321/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2963/pdf_file"
 
 (OVias)
 
-dals 20-12-2005 (versiun dals 01-01-2016)
+dals 20-12-2005 (versiun dals 01-06-2023)
 
 relaschada da la regenza ils 20 da december 2005
 
@@ -35,18 +34,18 @@ relaschada da la regenza ils 20 da december 2005
 
 <sup>1</sup> Vias principalas en il senn da la lescha davart las vias èn:
 
-- 1\. la via dal Güglia da l'access A13 Cuira sid fin Silvaplauna;
+- 1\. la via dal Güglia da l'access N13 Cuira sid fin Casti;
 - 2\. la via d'Engiadina da Silvaplauna fin al cunfin Svizra/Austria tar il Schalkhof;
 - 3\. la via dal Malögia da Silvaplauna fin al cunfin Svizra/Italia a Castasegna;
 - 4\. la via dal Bernina da Punt Muragl/Samedan fin al cunfin Svizra/Italia a Campocologno;
 - 5\. la via dal Partenz da Claustra/Selfranga fin Tavau;
 - 6\. la via dal Flüela da Tavau fin Susch;
 - 7\. la via dal Fuorn da Zernez fin al cunfin Svizra/Italia a Müstair;
-- 8\. la via sursilvana da la colliaziun A13 Vial/La Punt fin al cunfin dal chantun Uri;
+- 8\. la via sursilvana da l'access N13 Vial/La Punt fin al cunfin cun il chantun Uri;
 - 9\. la via dal Lucmagn da Mustér fin al cunfin dal chantun Tessin;
-- 10\. la via dal Meir da l'access A13 Tusaun fin Casti;
-- 11\. la via da la Landwasser da Casti fin Tavau;
-- 12\. la via tudestga da Cuira Obertor fin al cunfin cun il chantun Son Gagl a Mastrils;
+- 10\. la via da la Landwasser da Casti fin Tavau;
+- 11\. la via tudestga da Cuira Obertor fin a l'access N28 Landquart (Karlihof);
+- 12\. la via Sarelli da l'access N13 Landquart (rundella Tardis) fin al cunfin cun il chantun Son Gagl a Mastrils;
 - 13\. la via taliana da Cuira Obertor fin al cunfin cun il chantun Tessin a San Vittore.
 
 #### Art. 3
@@ -55,18 +54,19 @@ relaschada da la regenza ils 20 da december 2005
 
 <sup>1</sup> Sco pass respectivamain sco trajects da pass valan:
 
-- 1\. il San Bernardin dal portal dal nord dal tunnel dal San Bernardin en Valragn fin l'access A13 a San Bernardin;
+- 1\. il San Bernardino dal portal nord dal tunnel dal San Bernardino a Valragn fin a l'access N13 a San Bernardin;
 - 2\. il Spleia da Spleia fin al cunfin Svizra/Italia;
-- 3\. il Güglia da Bivio fin Silvaplauna;
+- 3\. …
 - 4\. il Malögia da Malögia culm fin Casaccia;
 - 5\. l'Alpsur da Tschamut fin al cunfin cun il chantun Uri;
 - 6\. il Lucmagn da Fuorns fin al cunfin dal chantun Tessin;
-- 7\. l'Alvra da Bravuogn fin La Punt-Chamues-ch;
+- 7\. l'Alvra da Bravuogn fin La Punt Chamues-ch;
 - 8\. il Bernina da Lagalb fin San Carlo;
-- 9\. il Flüela da Pischa fin Susch;
+- 9\. il Flüela da Tschuggen fin Susch;
 - 10\. il Fuorn da Zernez fin Tschierv;
 - 11\. l'Umbrail da Sta. Maria V.M. fin al cunfin Svizra/Italia;
-- 12\. la Forcola di Livigno da l'uffizi da dazi La Motta fin al cunfin Svizra/Italia.
+- 12\. la Forcola di Livigno da l'uffizi da duana La Motta fin al cunfin Svizra/Italia;
+- 13\. il Wolfgang da l'access N28 Selfranga fin Tavau Wolfgang.
 
 #### Art. 4
 
@@ -102,11 +102,11 @@ relaschada da la regenza ils 20 da december 2005
 
 **2. intervenziuns en las raits da vias**
 
-<sup>1</sup> Intervenziuns en las raits da vias dal traffic betg motorisà ston vegnir preschentadas ordavant al post spezialisà.
+<sup>1</sup> Intervenziuns en las raits da vias dal traffic betg motorisà ston vegnir preschentadas ordavant a l'Uffizi da construcziun bassa.
 
 <sup>2</sup> Sco intervenziuns valan l'admissiun, l'aboliziun ed il spustament da trajects da vias, midadas d'utilisaziun essenzialas, la realisaziun e la midada da la signalisaziun sco er edifizis, stabiliments e mesiras che restrenschan l'utilisaziun per in temp pli lung.
 
-<sup>3</sup> Davart intervenziuns pli pitschnas decida il post spezialisà. El po colliar sia decisiun cun cundiziuns e cun pretensiuns. Intervenziuns pli grondas dovran in conclus da la regenza.
+<sup>3</sup> Per intervenziuns minimalas dovri il consentiment da l'Uffizi da construcziun bassa. L'Uffizi da construcziun bassa po colliar sia disposiziun cun cundiziuns e cun pretensiuns. Intervenziuns pli grondas dovran in conclus da la Regenza.
 
 <sup>4</sup> Intervenziuns ston per regla vegnir cumpensadas da la chaschunadra u dal chaschunader.
 
@@ -116,7 +116,7 @@ relaschada da la regenza ils 20 da december 2005
 
 <sup>1</sup> Las vischnancas reglan lur raits da vias dal traffic betg motorisà en il rom da la planisaziun locala, resguardond las prescripziuns dals plans surordinads.
 
-<sup>2</sup> Ellas pon autorisar il chantun da projectar ils stabiliments.
+<sup>2</sup> Ellas pon autorisar il chantun da projectar, d'exponer publicamain e da construir edifizis e stabiliments dal traffic betg motorisà.
 
 <sup>3</sup> La regenza regla las incumbensas e l'indemnisaziun da las organisaziuns professiunalas en cunvegnas da prestaziun.
 
@@ -134,7 +134,7 @@ relaschada da la regenza ils 20 da december 2005
 
 <sup>1</sup> Las vischnancas ston annunziar mintga onn a l'uffizi da construcziun bassa ils sutpassaments dal dumber minimal da 30 persunas en las fracziuns da lur vischnancas.
 
-<sup>2</sup> Ultra da quai ston ellas communitgar a l'uffizi da construcziun bassa projects da construcziun entaifer la zona da la via, entaifer las lingias da construcziun u entaifer zonas da projectaziun u territoris da projects da vias.
+<sup>2</sup> Ultra da quai ston ellas communitgar a l'Uffizi da construcziun bassa projects da construcziun entaifer la zona da la via, entaifer las lingias da construcziun, entaifer las zonas da projectaziun u entaifer ils territoris da projects da vias sco er projects da construcziun che han consequenzas per la via chantunala.
 
 ## 2. Utilisaziun da las vias
 
@@ -282,8 +282,8 @@ relaschada da la regenza ils 20 da december 2005
 
 <sup>1</sup> Plantas e chaglias ston avair las suandantas distanzas davent da l'ur dal vial:
 
-- a) plantas cun mutagl aut, sco plantas da guaud, chastagners e nuschers 6 m davent dal center dal mutagl;
-- b) pumers cun mutagl aut sco er spezias da bostgs en furma da chaglias 4 m davent dal center dal mutagl respectivamain davent da l'ur da la planta;
+- a) bostgs cun bist aut sper vias chantunalas entaifer il vitg 3 m davent dal center dal bist;
+- b) bostgs cun bist aut sper vias chantunalas ordaifer il vitg 5 m davent dal center dal bist;
 - c) plantas bassas, saivs vivas, chaglias decorativas e chaglias da puma sco er vits 1 m davent da l'ur da la planta.
 
 <sup>2</sup> Tar vias da velo, tar passapes sco er tar plazzas da fermada per il traffic public valan las distanzas tenor l'alinea 1, mesiradas davent da l'ur da quests stabiliments.
@@ -296,9 +296,9 @@ relaschada da la regenza ils 20 da december 2005
 
 **4. per clasiras**
 
-<sup>1</sup> Tar clasiras sco saivs, mirs senza funcziun da sustegn e.u.v. che han ina autezza fin 90 cm sto vegnir resguardada entaifer il vitg ina distanza da 50 cm ed ordaifer il vitg ina distanza dad 1 m davent da l'ur dal vial.
+<sup>1</sup> Per clasiras sco saivs, mirs senza funcziun da sustegn e.u.v. che han in'autezza fin 2 m sto vegnir resguardada entaifer il vitg ina distanza da 50 cm ed ordaifer il vitg ina distanza dad 1 m davent da l'ur dal vial.
 
-<sup>2</sup> Tar clasiras cun autezzas tranter 90 cm e 2 m sto vegnir resguardada ina distanza dad 1 m davent da l'ur dal vial. Tar clasiras pli autas valan las distanzas d'edifizis e stabiliments tenor l'artitgel 19.
+<sup>2</sup> Per clasiras pli autas valan las distanzas d'edifizis e stabiliments tenor l'artitgel 19.
 
 <sup>3</sup> Tar vias da velo e tar passapes per lung da las vias chantunalas sco er tar plazzas da fermada per il traffic public valan las distanzas tenor ils alineas 1 e 2, mesiradas davent da l'ur da quests stabiliments.
 
@@ -322,9 +322,9 @@ relaschada da la regenza ils 20 da december 2005
 
 **Permissiun**
 
-<sup>1</sup> Per reclamas per lung da las vias chantunalas basegni ina permissiun.
+<sup>1</sup> Per reclamas sper, sin e sur vias chantunalas sco er en il sectur da vias naziunalas dovri ina permissiun.
 
-<sup>2</sup> L'autoritad cumpetenta per la permissiun da reclamas per lung da las vias chantunalas è l'uffizi da construcziun bassa. El po surdar sia cumpetenza concernent la permissiun d'infurmaziuns d'occurrenzas, per las qualas i sto vegnir pajà ina indemnisaziun, a las vischnancas.
+<sup>2</sup> L'autoritad cumpetenta è l'Uffizi da construcziun bassa, nun che la Confederaziun saja cumpetenta. Cunter ina indemnisaziun po el surdar sia cumpetenza concernent la permissiun d'infurmaziuns d'occurrenzas a las vischnancas.
 
 <sup>3</sup> L'uffizi da construcziun bassa dispona l'allontanaziun e l'adattaziun da reclamas ch'èn vegnidas plazzadas illegalmain, e quai cunter ina indemnisaziun.
 
@@ -334,9 +334,7 @@ relaschada da la regenza ils 20 da december 2005
 
 #### Art. 25
 
-**Dumondas**
-
-<sup>1</sup> Dumondas per reclamas sper e sur las vias ston vegnir inoltradas cun las indicaziuns necessarias, spezialmain concernent il gener, la grondezza, il lieu e l'intent da la reclama sco er cun in extract correspundent dal plan, a l'uffizi da construcziun bassa.
+**…**
 
 #### Art. 26
 
@@ -350,15 +348,15 @@ relaschada da la regenza ils 20 da december 2005
 - b) …
 - c) reclamas che retro-reflecteschan, che fluoresceschan u che lumineschan;
 - d) reclamas che tschorventan, che traglischan u che midan effects da la glisch;
-- e) reclamas che sa muentan u che vegnan projectadas.
+- e) reclamas che sa movan.
 
 [^26-1]: CS [741.21](https://db.clex.ch/link/Bund/741.21/rm)
 
 #### Art. 27
 
-**Transparents da reclama entaifer il vitg**
+**Reclamas sur vias chantunalas**
 
-<sup>1</sup> Entaifer il vitg pon vegnir permess transparents da reclama sur la via chantunala, sche la reclama concerna occurrenzas d'utilitad publica, occurrenzas culturalas u sportivas u occurrenzas che han almain ina impurtanza regiunala, sco messas, exposiziuns e.u.v.
+<sup>1</sup> Entaifer il vitg pon vegnir permessas reclamas sur vias chantunalas, sche las reclamas concernan occurrenzas d'utilitad publica, occurrenzas culturalas u sportivas u occurrenzas che han almain ina impurtanza regiunala, sco messas, exposiziuns e.u.v. Ordaifer il vitg n'èn reclamas sur vias chantunalas betg admessas.
 
 #### Art. 28
 
@@ -369,7 +367,7 @@ relaschada da la regenza ils 20 da december 2005
 - a) ellas vegnan fermadas en ina zona da construcziun u liadas al lieu ordaifer la zona da construcziun u en in abitadi lartg; e
 - b) ellas èn cumpatiblas cun la cuntrada e cun l'ambient.
 
-<sup>2</sup> Generalmain scumandadas en reclamas sper e sur las vias entaifer aspects da cuntradas ed entaifer cuntradas degnas da vegnir protegidas tenor la legislaziun federala e chantunala davart la protecziun da la natira e da la patria.
+<sup>2</sup> …
 
 #### Art. 29
 
@@ -394,12 +392,18 @@ relaschada da la regenza ils 20 da december 2005
 
 <sup>1</sup> …
 
-<sup>1<sup>bis</sup></sup> Als custs imputabels da projectaziun, d'acquist da terren e da construcziun da novas vias da velo e da sendas da viandar che correspundan a las directivas chantunalas ed a las raits da vias, che han ina impurtanza chantunala e ch'èn vegnidas approvadas dal chantun, pon vegnir pajadas las suandantas contribuziuns:
+<sup>1<sup>bis</sup></sup> Als custs imputabels da projectaziun, d'acquist da terren e da construcziun da novas vias da velo e da sendas da viandar che correspundan a las directivas chantunalas ed a las raits da vias, che han ina impurtanza chantunala e che survegnan il consentiment dal chantun, pon vegnir pajadas las suandantas contribuziuns:
 
-- a) 30 fin 50 pertschient per vias da velo dal traffic quotidian;
-- b) 10 fin 30 pertschient per vias da velo dal traffic da temp liber e turistic sco er per sendas da viandar.
+- a) per vias da velo dal traffic quotidian:
+  - 1\. 50 pertschient per vias d'in interess chantunal,
+  - 2\. 80 pertschient per vias d'in interess chantunal predominant;
+- b) per vias da velo dal traffic da temp liber sco er per sendas da viandar:
+  - 1\. 30 pertschient per vias d'in interess chantunal respectivamain 60 pertschient, sch'ellas servan a separar il traffic,
+  - 2\. 60 pertschient per vias d'in interess chantunal predominant.
 
-<sup>2</sup> Als custs imputabels per montar e per mantegnair la signalisaziun da stabiliments dal traffic betg motorisà (senza passapes) che correspundan a las directivas chantunalas ed a las raits da vias e ch'èn vegnidas approvadas dal chantun, pon vegnir pajadas contribuziuns da fin 50 pertschient.
+<sup>1<sup>ter</sup></sup> Il remplazzament d'edifizis e da stabiliments existents è subvenziunabel, sch'el è necessari e n'è betg d'attribuir ad in mantegniment manglus.
+
+<sup>2</sup> Als custs imputabels per montar e per mantegnair la signalisaziun da stabiliments dal traffic betg motorisà (senza passapes), che correspundan a las directivas chantunalas ed a las raits da vias e che survegnan il consentiment dal chantun, pon vegnir pajadas contribuziuns da fin 50 pertschient.
 
 <sup>3</sup> …
 
@@ -497,7 +501,9 @@ relaschada da la regenza ils 20 da december 2005
 - e) construcziun da plazzas da parcar: fr. 100.–
 - f) parcar: fr. 0.– fin fr. 4.– per ura respectivamain fr. 0.– fin fr. 60.– per mais
 
-<sup>2</sup> Per tut ils ulteriurs cas d'utilisaziun che surpassan il diever general tenor l'alinea 1 ston vegnir incassadas taxas che cuvran ils custs.
+<sup>2</sup> L'utilisaziun da l'infrastructura stradala per edifizis e stabiliments per producir energia regenerabla è gratuita.
+
+<sup>3</sup> Per tut ils ulteriurs cas d'utilisaziun che surpassan il diever general ston vegnir incassadas taxas che cuvran ils custs.
 
 #### Art. 39
 
