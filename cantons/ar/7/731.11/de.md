@@ -4,13 +4,12 @@ number: "731.11"
 title: Strassengesetz
 short: StrG
 language: de
-version: 2016-01-01
-valid_until: 2023-05-31
-version_adopted: 2015-05-11
+version: 2023-06-01
+version_adopted: 2022-10-31
 adopted: 2009-10-26
 in_force: 2010-02-01
 url: "https://ar.clex.ch/app/de/texts_of_law/731.11"
-pdf: "https://ar.clex.ch/api/de/versions/1021/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1456/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1021/pdf_file"
 
 (StrG)
 
-vom 26.10.2009 (Stand 01.01.2016)
+vom 26.10.2009 (Stand 01.06.2023)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -105,19 +104,7 @@ beschliesst:
 
 #### Art. 5
 
-**b) Im Besonderen**
-
-<sup>1</sup> Der Regierungsrat bestellt eine Kantonale Tiefbaukommission (KTK). Sie besteht aus der Baudirektorin als Präsidentin resp. dem Baudirektor als Präsidenten und mindestens vier Mitgliedern.
-
-<sup>2</sup> Die KTK hat namentlich folgende Aufgaben und Befugnisse:
-
-- a) Behandlung wichtiger Fragen des kantonalen Tiefbaus;
-- b) Behandlung von Fragen des Vollzugs dieses Gesetzes;
-- c) Mitwirkung bei der Erarbeitung rechtlicher Grundlagen;
-- d) Begutachtung und Verabschiedung von Projekten zuhanden des Regierungsrates;
-- e) Vergabe der Projektierungs- und Bauarbeiten im Rahmen der Vergabekompetenzen.[^5-1]
-
-[^5-1]: Art. 42 Abs. 1 lit. b V über das öffentliche Beschaffungswesen (bGS [712.11](https://ar.clex.ch/data/712.11/de))
+**…**
 
 #### Art. 6
 
