@@ -3,13 +3,13 @@ canton: TG
 number: "414.27"
 title: Personalreglement der Pädagogischen Hochschule Thurgau
 language: de
-version: 2022-01-01
-valid_until: 2023-05-31
-version_adopted: 2021-11-25
+version: 2023-06-01
+valid_until: 2025-06-13
+version_adopted: 2023-05-08
 adopted: 2018-09-03
 in_force: 2019-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/414.27"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2134/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2663/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2134/pdf_file"
 
 Personalreglement PHTG
 
-vom 03.09.2018 (Stand 01.01.2022)
+vom 03.09.2018 (Stand 01.06.2023)
 
 Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf § 13 Abs. 1 Ziff. 3 des Gesetzes über die tertiäre Bildung (Tertiärbildungsgesetz)[^ingress-1].
 
@@ -135,7 +135,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Die Mitglieder der Hochschulleitung werden vom Hochschulrat angestellt.
 
-<sup>2</sup> Dozenten und Dozentinnen, Lehrbeauftragte, Wissenschaftliche Mitarbeiter und Mitarbeiterinnen und Wissenschaftliche Assistenten und Assistentinnen werden auf Antrag des verantwortlichen Mitgliedes der Hochschulleitung vom Rektor oder der Rektorin angestellt.
+<sup>2</sup> Dozenten und Dozentinnen, Lehrbeauftragte, Wissenschaftliche Mitarbeiter und Mitarbeiterinnen und Wissenschaftliche Assistenten und Assistentinnen sowie Fachpersonal mit Führungsfunktion werden auf Antrag des verantwortlichen Mitgliedes der Hochschulleitung vom Rektor oder der Rektorin angestellt.
 
 <sup>3</sup> Das übrige Personal wird auf Antrag des oder der Personalverantwortlichen vom zuständigen Mitglied der Hochschulleitung angestellt.
 
@@ -234,7 +234,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 <sup>1</sup> Kündigungen sind an folgende Stellen zu richten:
 
 - 1\. Kündigungen von Mitgliedern der Hochschulleitung: an den Präsidenten oder die Präsidentin des Hochschulrates
-- 2\. Kündigungen von Dozenten und Dozentinnen, Lehrbeauftragten, Wissenschaftlichen Mitarbeitern und Mitarbeiterinnen sowie Wissenschaftlichen Assistenten und Assistentinnen: an den Rektor oder die Rektorin
+- 2\. Kündigungen von Dozenten und Dozentinnen, Lehrbeauftragten, Wissenschaftlichen Mitarbeitern und Mitarbeiterinnen und Wissenschaftlichen Assistenten und Assistentinnen sowie Fachpersonal mit Führungsfunktion: an den Rektor oder die Rektorin
 - 3\. Kündigungen des übrigen Personals: an das jeweilige Mitglied der Hochschulleitung
 
 ## 3. Rechte der Mitarbeiter und Mitarbeiterinnen
