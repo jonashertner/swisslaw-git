@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: "Ordonnance du 1<sup>er</sup> juin 2012 instituant des mesures à l'encontre de la Guinée-Bissau"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: fr
-version: 2023-01-24
+version: 2023-06-01
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20230124/fr/xml/fedlex-data-admin-ch-eli-cc-2012-374-20230124-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20230124/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2012-374-20230601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Guinée-Bissau
 
-du 1<sup>er</sup> juin 2012 (État le 24 janvier 2023)
+du 1<sup>er</sup> juin 2012 (État le 1<sup>er</sup> juin 2023)
 
 Le Conseil fédéral suisse,
 
@@ -43,9 +43,10 @@ Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, auto
 - c. d’honorer des créances qui font l’objet d’une décision existante, judiciaire, administrative ou arbitrale, ou
 - d. de sauvegarder les intérêts de la Suisse.
 
-<sup>4</sup> Le SECO autorise les dérogations visées à l’al. 3 après avoir consulté les services compétents du Département fédéral des affaires étrangères et du Département fédéral des finances et, le cas échéant, en accord avec les résolutions pertinentes du Conseil de sécurité de l’ONU.
+<sup>4</sup> Le SECO autorise les dérogations visées à l’al. 3 après avoir consulté les services compétents du Département fédéral des affaires étrangères et du Département fédéral des finances et, le cas échéant, en accord avec les résolutions pertinentes du Conseil de sécurité des Nations Unies[^1-2].
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 15 juin 2012, en vigueur depuis le 16 juin 2012 ([RO 2012 3589](https://fedlex.data.admin.ch/eli/oc/2012/406)).
+[^1-2]: Nouvelle expression selon le ch. I 7 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 2
 
@@ -160,8 +161,8 @@ Annexe 1[^t-1]
 
 \2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies)[^annex1-lvlu1-3].
 
-[^annex1-lvlu1-2]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant la Guinée-Bissau &gt; Matériaux relatifs à la liste de sanctions.
-[^annex1-lvlu1-3]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annex1-lvlu1-2]: La liste peut être consultée Internet, à l’adresse suivante: [www.un.org/fr/sc](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant la Guinée-Bissau &gt; Matériaux relatifs à la liste de sanctions.
+[^annex1-lvlu1-3]: La banque de données SESAM est librement accessible Internet: [www.seco.admin.ch](https://www.seco.admin.ch/) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
 Annexe 2[^t-2]
 

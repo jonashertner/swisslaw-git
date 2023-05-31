@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: Ordinanza del 1° giugno 2012 che istituisce provvedimenti nei confronti della Guinea-Bissau
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: it
-version: 2023-01-24
+version: 2023-06-01
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20230124/it/xml/fedlex-data-admin-ch-eli-cc-2012-374-20230124-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20230124/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2012-374-20230601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Guinea-Bissau
 
-del 1° giugno 2012 (Stato 24 gennaio 2023)
+del 1° giugno 2012 (Stato 1° giugno 2023)
 
 Il Consiglio federale svizzero,
 
@@ -43,9 +43,10 @@ La Segreteria di Stato dell’economia (SECO) può eccezionalmente autorizzare p
 - c. rispettare crediti oggetto di una sentenza esistente, giudiziaria, amministrativa o arbitrale; oppure
 - d. tutelare interessi svizzeri.
 
-<sup>4</sup> La SECO autorizza le deroghe di cui al capoverso 3 d’intesa con gli uffici competenti del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze e, se del caso, conformemente alle pertinenti risoluzioni del Consiglio di sicurezza dell’ONU.
+<sup>4</sup> La SECO autorizza le deroghe di cui al capoverso 3 d’intesa con gli uffici competenti del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze e, se del caso, conformemente alle pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite[^1-2].
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 15 giu. 2012, in vigore dal 16 giu. 2012 ([RU 2012 3589](https://fedlex.data.admin.ch/eli/oc/2012/406)).
+[^1-2]: Nuova espressione giusta il n. I 7 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -66,7 +67,7 @@ Nella presente ordinanza s’intende per:
 
 <sup>1</sup> L’entrata in Svizzera o il transito attraverso la Svizzera sono vietati alle persone fisiche di cui agli allegati 1 e 2.
 
-<sup>2</sup> La Segreteria di Stato della migrazione (SEM)[^3-2] può concedere deroghe alle persone fisiche di cui all’allegato 1 in conformità alle risoluzioni del Consiglio di sicurezza dell’ONU e alle decisioni del competente Comitato del Consiglio di sicurezza dell’ONU.
+<sup>2</sup> La Segreteria di Stato della migrazione (SEM)[^3-2] può concedere deroghe alle persone fisiche di cui all’allegato 1 in conformità alle risoluzioni del Consiglio di sicurezza delle Nazioni Unite e alle decisioni del competente Comitato del Consiglio di sicurezza delle Nazioni Unite.
 
 <sup>3</sup>
 
@@ -160,8 +161,8 @@ Allegato 1[^t-1]
 
 \2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annex1-lvlu1-3].
 
-[^annex1-lvlu1-2]: La lista è consultabile ai seguenti indirizzi Internet: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Guinea-Bissau Sanctions Committee &gt; Sanctions List Materials.
-[^annex1-lvlu1-3]: La banca dati SESAM è liberamente accessibile su Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
+[^annex1-lvlu1-2]: La lista è consultabile ai seguenti indirizzi Internet: [www.un.org/en/sc/](http://www.un.org/en/sc/) &gt; Subsidiary Organs &gt; Sanctions &gt; Guinea-Bissau Sanctions Committee &gt; Sanctions List Materials.
+[^annex1-lvlu1-3]: La banca dati SESAM è liberamente accessibile su Internet: [www.seco.admin.ch/](http://www.seco.admin.ch/) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
 
 Allegato 2[^t-2]
 

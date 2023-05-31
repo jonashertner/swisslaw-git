@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: Verordnung vom 1. Juni 2012 über Massnahmen gegenüber Guinea-Bissau
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: de
-version: 2023-01-24
+version: 2023-06-01
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20230124/de/xml/fedlex-data-admin-ch-eli-cc-2012-374-20230124-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20230124/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2012-374-20230601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Guinea-Bissau
 
-vom 1. Juni 2012 (Stand am 24. Januar 2023)
+vom 1. Juni 2012 (Stand am 1. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -43,9 +43,10 @@ Das Staatssekretariat für Wirtschaft (SECO) kann Zahlungen aus gesperrten Konte
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind; oder
 - d. Wahrung schweizerischer Interessen.
 
-<sup>4</sup> Das SECO bewilligt Ausnahmen nach Absatz 3 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements und, falls anwendbar, gemäss den relevanten Resolutionen des UNO-Sicherheitsrates.
+<sup>4</sup> Das SECO bewilligt Ausnahmen nach Absatz 3 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements und, falls anwendbar, gemäss den relevanten Resolutionen des Sicherheitsrats der Vereinten Nationen[^1-2].
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 15. Juni 2012, in Kraft seit 16. Juni 2012 ([AS 2012 3589](https://fedlex.data.admin.ch/eli/oc/2012/406)).
+[^1-2]: Ausdruck gemäss Ziff. I 7 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Diese Änd. wurde im ganzen Text vorgenommen.
 
 #### Art. 2
 
@@ -66,7 +67,7 @@ In dieser Verordnung bedeuten:
 
 <sup>1</sup> Die Einreise in die Schweiz oder die Durchreise durch die Schweiz ist den in den Anhängen 1 und 2 aufgeführten natürlichen Personen verboten.
 
-<sup>2</sup> Das Staatssekretariat für Migration (SEM)[^3-2] kann in Übereinstimmung mit den Resolutionen des UNO-Sicherheitsrates und den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrates für natürliche Personen nach Anhang 1 Ausnahmen gewähren.
+<sup>2</sup> Das Staatssekretariat für Migration (SEM)[^3-2] kann in Übereinstimmung mit den Resolutionen des Sicherheitsrats der Vereinten Nationen und den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen für natürliche Personen nach Anhang 1 Ausnahmen gewähren.
 
 <sup>3</sup>
 
@@ -160,8 +161,8 @@ Anhang 1[^t-1]
 
 \2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex1-lvlu1-3]
 
-[^annex1-lvlu1-2]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Guinea-Bissau Sanctions Committee &gt; Sanctions List Materials.
-[^annex1-lvlu1-3]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
+[^annex1-lvlu1-2]: Die Liste ist im Internet unter folgender Adresse abrufbar: [https://www.un.org/securitycouncil/](https://www.un.org/securitycouncil/) &gt; Subsidiary Organs &gt; Sanctions &gt; Guinea-Bissau Sanctions Committee &gt; Sanctions List Materials.
+[^annex1-lvlu1-3]: Die Datenbank SESAM ist im Internet frei zugänglich unter: [https://www.seco.admin.ch/seco/de/home.html](https://www.seco.admin.ch/seco/de/home.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
 
 Anhang 2[^t-2]
 
