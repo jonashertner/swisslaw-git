@@ -4,13 +4,12 @@ number: "161"
 title: Verordnung zum Gesetz über den Finanzhaushalt der Gemeinden
 short: FHGV
 language: de
-version: 2022-04-01
-valid_until: 2023-05-31
-version_adopted: 2022-03-08
+version: 2023-06-01
+version_adopted: 2023-05-02
 adopted: 2017-01-10
 in_force: 2018-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/161"
-pdf: "https://srl.lu.ch/api/de/versions/3898/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4075/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3898/pdf_file"
 
 (FHGV)
 
-vom 10.01.2017 (Stand 01.04.2022)
+vom 10.01.2017 (Stand 01.06.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -257,8 +256,8 @@ beschliesst:
 
 <sup>1</sup> In die Ausgabe werden eingerechnet:
 
-- a. alle nach der Beschlussfassung zum geplanten Vorhaben anfallenden Aufwendungen, wie Landerwerb, Baukosten einschliesslich Kosten für Provisorien, Rückbauten von Mietobjekten, die für den sachgemässen Gebrauch erforderlichen Ausstattungen sowie Steuern, Abgaben und Reserven für Unvorhergesehenes,
-- b. vor der Beschlussfassung angefallene Aufwendungen, wenn sie aufgrund dieser Verordnung aktiviert werden müssen.
+- a. alle nach der Beschlussfassung zum geplanten Vorhaben anfallenden Aufwendungen, wie Landerwerb, Baukosten einschliesslich Kosten für Provisorien, Rückbauten von Mietobjekten, die für den sachgemässen Gebrauch erforderlichen Ausstattungen sowie Steuern, Abgaben und Reserven für Unvorhergesehenes.
+- b. …
 
 <sup>2</sup> Der interne Aufwand für ein Vorhaben wird nicht in die Ausgabe eingerechnet, ausgenommen der aktivierbare Arbeitsaufwand von kommunalen Angestellten.
 
@@ -458,7 +457,7 @@ beschliesst:
 
 <sup>1</sup> Als Ertrag der Gemeindesteuern gelten die im Budget des Rechnungsjahres enthaltenen Erträge der Steuern des laufenden Jahres, der Sondersteuern auf Kapitalauszahlungen, der Nachträge aus früheren Jahren, der Quellensteuern sowie der Nachsteuern und Steuerstrafen.
 
-<sup>2</sup> Alle Steuererträge sind nach dem Soll-Prinzip zu verbuchen.
+<sup>2</sup> Die Steuererträge mit Ausnahme jener der Quellensteuer sind nach dem Soll-Prinzip zu verbuchen. Für die Quellensteuer sind die im Rechnungsjahr vereinnahmten Erträge zu verbuchen.
 
 #### § 43
 
@@ -539,6 +538,7 @@ beschliesst:
 <sup>1</sup> Die Auflösung der Aufwertungsreserven und die Auflösung der Aufzahlungsschuld gegenüber der Luzerner Pensionskasse sowie von aktivierten Verpflichtungen gegenüber anderen Pensionskassen ist wie folgt vorzunehmen:
 
 - a. Der Umfang der jährlichen Mehrabschreibung gemäss § 68 Absatz 6 des Gesetzes bemisst sich aus der Differenz der genehmigten Rechnung 2018 und der nach § 68 Absatz 3 des Gesetzes neu dargestellten Jahresrechnung 2018. Die Gemeinden sind berechtigt, ab dem Jahr 2019 die Aufwertungsreserven mit einem jährlichen Betrag linear oder degressiv zu reduzieren. Die Höhe der jährlichen Reduktionen ist im Bilanzanpassungsbericht gemäss § 68 Absatz 8 des Gesetzes festzulegen und ist für die Folgejahre verbindlich. Der Betrag ist jeweils den Aufwertungsreserven zu belasten und dem ausserordentlichen Ertrag gutzuschreiben.
+- a<sup>bis</sup>. In Abweichung von den im Bilanzanpassungsbericht gemäss § 68 Absatz 8 des Gesetzes festgelegten jährlichen Reduktionen der Aufwertungsreserven kann die Gemeinde nachträglich die einmalige vollständige Auflösung und Überführung der Aufwertungsreserven ins Eigenkapital vorsehen. Dieser Beschluss ist den Stimmberechtigten oder dem Gemeindeparlament zur Genehmigung vorzulegen.
 - b. Eine negative Aufwertungsreserve ist im Sinn von § 68 Absatz 4 des Gesetzes erfolgsneutral in den Bilanzüberschuss oder Bilanzfehlbetrag überzuführen.
 - c. Der negative Anteil der Aufwertungsreserve aus der Ausbuchung der Aufzahlungsschuld gegenüber der Luzerner Pensionskasse oder aktivierter Verpflichtungen gegenüber anderen Pensionskassen kann separat ausgewiesen werden. Der jährliche Umfang der Umbuchung entspricht der Annuität der Verpflichtung. Der im Budget eingesetzte Betrag ist jeweils der negativen Aufwertungsreserve gutzuschreiben und dem ausserordentlichen Aufwand zu belasten.
 
