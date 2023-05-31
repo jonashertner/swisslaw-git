@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2022-12-01
+version: 2023-06-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20221201-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20230601-it-xml-16.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221201/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° dicembre 2022)
+del 18 maggio 2005 (Stato 1° giugno 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1315,7 +1315,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20230601/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -2390,7 +2390,7 @@ Allegato 1.17[^t-18]
 
 [^annex117-lvlu1-1]
 
-[^t-18]: Introdotto dal n. II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dai n. I delle O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), del 10 gen. 2017 ([RU 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), del 27 set. 2018 ([RU 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), dalla correzione del 26 feb. 2019 ([RU 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dal n. I dell’O dell’UFAM del 29 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)).
+[^t-18]: Introdotto dal n. II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dai n. I delle O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), del 10 gen. 2017 ([RU 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), del 27 set. 2018 ([RU 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), dalla correzione del 26 feb. 2019 ([RU 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dal n. I dell’O dell’UFAM del 29 set. 2020 ([RU 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) e dal n. I dell’O del 5 apr. 2023, in vigore dal 1° giu. 2023 ([RU 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)).
 [^annex117-lvlu1-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) 2020/171, GU L 35 del 7.2.2020, pag. 1.
 
 ### 1 Divieti
@@ -2412,7 +2412,14 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 - i. in materiali e oggetti destinati a entrare in contatto con derrate alimentari, se la sostanza è stata inclusa nell’elenco di cui al numero 5 esclusivamente per le seguenti proprietà intrinseche: «cancerogena», «mutagena», «pericolosa per la riproduzione» o «avente altri effetti gravi sulla salute umana»;
 - j. nell’ambito della ricerca e dello sviluppo scientifici;
 - k. di sostanze presenti in preparati la cui concentrazione è inferiore allo 0,1 per cento in massa e incluse nell’elenco di cui al numero 5 sulla base dell’articolo 57 lettere d, e o f del regolamento (CE) n. 1907/2006[^annex117-lvlu1-lvl2-2];
-- l. di sostanze presenti in preparati la cui concentrazione è inferiore ai valori soglia di cui all’allegato I punto 1.1.2.2 del regolamento (CE) n. 1272/2008[^annex117-lvlu1-lvl2-3] che determinano la classificazione del preparato come pericoloso e incluse nell’elenco di cui al numero 5 non sulla base dell’articolo 57 lettere d, e o f del regolamento (CE) n. 1907/2006.
+- l. di sostanze presenti in preparati la cui concentrazione è inferiore ai valori soglia di cui all’allegato I punto 1.1.2.2 del regolamento (CE) n. 1272/2008[^annex117-lvlu1-lvl2-3] che determinano la classificazione del preparato come pericoloso e incluse nell’elenco di cui al numero 5 non sulla base dell’articolo 57 lettere d, e o f del regolamento (CE) n. 1907/2006;
+- m. finalizzato alla manutenzione dei sistemi di trasporto aereo delle Forze aeree svizzere;
+- n.
+
+  finalizzato alla fabbricazione di prodotti chimici, farmaci o dispositivi medici all’interno di un sistema chiuso, se il fabbricante prova che per un periodo di dieci anni dopo il termine del periodo di transizione per la sostanza elencata al numero 5 capoverso 1 non si verifica:
+
+  - 1\. alcuna emissione nell’ambiente, e
+  - 2\. alcuna esposizione delle persone.
 
 <sup>2</sup> Un divieto ai sensi del numero 1 non si applica inoltre:
 
@@ -2464,9 +2471,27 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 - d. il luogo di utilizzo;
 - e. il processo in cui viene utilizzato il composto di cromo(VI).
 
+<sup>1ter</sup> Chi impiega una sostanza elencata al numero 5 capoverso 1 o un preparato contenente una di queste sostanze in un processo di fabbricazione secondo il numero 2 capoverso 1 lettera n deve, al termine del periodo di transizione per tale sostanza, fornire all’organo di notifica in caso di altro o primo impiego entro tre mesi:
+
+- a.
+
+  le seguenti informazioni:
+
+  - 1\. il nome e l’indirizzo dell’utilizzatore,
+  - 2\. il luogo di utilizzo,
+  - 3\. il nome e il numero CAS della sostanza o il nome del preparato contenente la sostanza e il suo contenuto in massa,
+  - 4\. il tipo d’impiego del prodotto fabbricato,
+  - 5\. il tipo d’impiego della sostanza e indicazioni in merito alla permanenza della sostanza nel processo di fabbricazione;
+
+- b. la prova secondo il numero 2 capoverso 1 lettera n che l’impiego della sostanza non comporta alcuna emissione nell’ambiente né alcuna esposizione delle persone.
+
 <sup>2</sup> L’organo di notifica tiene un registro delle notifiche di cui ai capoversi 1 e 1<sup>bis</sup>.
 
-### 4 ...
+### 4 Processo di fabbricazione all’interno di un sistema chiuso
+
+<sup>1</sup> Entro sei mesi dalla ricezione della notifica secondo il numero 3 capoverso 1<sup>ter</sup>, l’organo di notifica, d’intesa con l’UFAM, l’UFSP e la SECO, verifica se l’impiego della sostanza in un processo di fabbricazione all’interno di un sistema chiuso è conforme ai requisiti di cui al numero 2 capoverso 1 lettera n ed emana una decisione di accertamento.
+
+<sup>2</sup> Se i requisiti non sono rispettati occorre presentare, entro sei mesi, una domanda completa secondo il numero 2 capoverso 4. In caso contrario, l’organo di notifica ordina la cessazione del processo di fabbricazione.
 
 ### 5 Elenco delle sostanze di cui al numero 1 e disposizioni transitorie
 
@@ -3976,7 +4001,7 @@ Allegato 2.9[^t-28]
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20230601/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
@@ -4245,13 +4270,13 @@ Chi manipola o utilizza prodotti refrigeranti o apparecchi o impianti che conten
 
 ### 3.3.1 Divieto
 
-### È vietata la ricarica con prodotti refrigeranti stabili nell’aria con un potenziale di effetto serra pari o superiore a 2500 in impianti con una capacità pari o superiore a 40 tonnellate di CO<sub>2</sub> equivalenti.
+È vietata la ricarica con prodotti refrigeranti stabili nell’aria con un potenziale di effetto serra pari o superiore a 2500 in impianti con una capacità pari o superiore a 40 tonnellate di CO<sub>2</sub> equivalenti.
 
 ### 3.3.2 Deroghe
 
-[^annex210-lvlu1-lvlu4-lvl332-1]
+[^annex210-lvlu1-lvl3-lvl33-lvl332-1]
 
-[^annex210-lvlu1-lvlu4-lvl332-1]: Valido fino al 31 dic. 2029 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^annex210-lvlu1-lvl3-lvl33-lvl332-1]: Valido fino al 31 dic. 2029 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
 Il divieto di cui al numero 3.3.1 non si applica alla ricarica:
 

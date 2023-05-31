@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Reduction of Risks relating to the Use o
 short: ORRChem
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: en
-version: 2022-12-01
+version: 2023-06-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20221201-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20230601/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20230601-en-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20230601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemical Risk Reduction Ordinance, ORRChem)
 
-of 18 May 2005 (Status as of 1 December 2022)
+of 18 May 2005 (Status as of 1 June 2023)
 
 The Swiss Federal Council,
 
@@ -91,9 +91,13 @@ In this Ordinance, without prejudice to specific definitions given in the Annexe
 
 <sup>2</sup> Exemptions under the Annexes are only granted to persons who are domiciled or have a registered office in Switzerland.
 
-Section 1*a*[^t-1] Special Labelling
+### Section 1*a* Special Labelling
 
-****Art. 3**a**
+[^chap2-sec1a-1]
+
+[^chap2-sec1a-1]: Inserted by Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+
+#### Art. 3a
 
 <sup>1</sup> Special labelling must be clearly legible and indelible. It must be in at least one official language of the place where the substance, preparation, appliance or article is supplied to users or the where the system is installed.
 
@@ -106,26 +110,37 @@ The following may be labelled in different official language or in English with 
 
 <sup>3</sup> The official languages are German, French and Italian.
 
-Section 2 Authorisations
+### Section 2 Authorisations
 
-****Art. 4**[^t-2]Applications requiring authorisation**
+#### Art. 4
+
+**Applications requiring authorisation**[^4-1]
 
 The following applications require an authorisation granted by the authorities mentioned below:
 
 <table>
 <tr><th>Application</th><th>Authority granting authorisation</th></tr>
 <tr><td>a. application, on a professional or commercial basis, of products intended to protect plants against rodents (rodenticides), if applied on more than one farm or by machine</td><td>cantonal authority; with the agreement of the Federal Food Safety and Veterinary Office (FSVO), the Federal Office for Agriculture (FOAG) and the Federal Office for the Environment (FOEN) in the case of regional or supraregional applications</td></tr>
-<tr><td>b.[^t-3] aerial spraying and spreading of plant protection products, biocidal products and fertilisers</td><td>Federal Office of Civil Aviation, with the agreement of the Federal Office of Public Health (FOPH), the FSVO, the FOAG, the State Secretariat for Economic Affairs (SECO) and the FOEN</td></tr>
+<tr><td>b.[^4-2] aerial spraying and spreading of plant protection products, biocidal products and fertilisers</td><td>Federal Office of Civil Aviation, with the agreement of the Federal Office of Public Health (FOPH), the FSVO, the FOAG, the State Secretariat for Economic Affairs (SECO) and the FOEN</td></tr>
 <tr><td>c. application of plant protection products and fertilisers in forests, unless covered by an authorisation under letter a or b</td><td>cantonal authority</td></tr>
 </table>
 
-****Art. 4***a*[^t-4] Applications that do not require authorisation**
+[^4-1]: Amended by No I 6 of the O of 4 Sept. 2013 (Reorganisation in the field of Food Safety and Veterinary Medicine), in force since 1 Jan. 2014 ([AS 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
+[^4-2]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+
+#### Art. 4a
+
+**Applications that do not require authorisation**[^4a-1]
 
 The granting of authorisation in accordance with Article 4 letter b is not required for the application of organisms using an unmanned aircraft.
 
-****Art. 5** Requirements for authorisation**
+[^4a-1]: Inserted by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
-<sup>1</sup> Authorisation shall be granted in accordance with Article 4 letter a or c if the planned application is not expected to endanger the environment. This authorisation is for a limited period and for a specific geographical area.[^t-5]
+#### Art. 5
+
+**Requirements for authorisation**
+
+<sup>1</sup> Authorisation shall be granted in accordance with Article 4 letter a or c if the planned application is not expected to endanger the environment. This authorisation is for a limited period and for a specific geographical area.[^5-1]
 
 <sup>1bis</sup>
 
@@ -133,17 +148,26 @@ Authorisation granted in accordance with Article 4 letter b shall be limited in 
 
 - a. application from the ground is not feasible or application from the air is associated with advantages for the protection of human health or the environment;
 - b. the aviation company uses aircraft and equipment with state-of-the-art technology for the protection of human health and the environment; and
-- c. there is no reason to fear any risk to human health and the environment.[^t-6]
+- c. there is no reason to fear any risk to human health and the environment.[^5-2]
 
 <sup>2</sup> Authorisations shall only be granted to persons who are domiciled or have a registered office in Switzerland or in a member state of the European Union (EU) or the European Free Trade Association (EFTA).
 
-****Art. 6**[^t-7]Coordination**
+[^5-1]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^5-2]: Inserted by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+
+#### Art. 6
+
+**Coordination**[^6-1]
 
 If a federal authority is responsible for the authorisation, it shall consult the relevant cantonal authority before making a decision, in particular in relation to whether the cantonal authority takes the view that the conditions for authorisation have been fulfilled and regarding the ancillary requirements to be stipulated in any authorisation that may be granted. The federal authority shall notify the cantonal authority of its decision.
 
-Section 3 Certificates
+[^6-1]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
-****Art. 7**Use of substances and preparations requiring a certificate**
+### Section 3 Certificates
+
+#### Art. 7
+
+**Use of substances and preparations requiring a certificate**
 
 <sup>1</sup>
 
@@ -158,7 +182,7 @@ The following activities may only be carried out on a professional or commercial
   - 3\. disinfectants for use in public swimming pools,
   - 4\. wood preservatives;
 
-- b.[^t-8]
+- b.[^7-1]
 
   the handling of refrigerants during:
 
@@ -169,7 +193,11 @@ The following activities may only be carried out on a professional or commercial
 
 <sup>3</sup> The competent Federal Department shall specify detailed requirements for certificates. It may provide for exemptions to authorisation requirements and specify a time limit for certificates for pest control with fumigants. In its regulations it shall take account of the protection goals.
 
-****Art. 8** Proof of specialist knowledge**
+[^7-1]: Amended by No I of the O of 7 Nov. 2012, in force since 1 Dec. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)).
+
+#### Art. 8
+
+**Proof of specialist knowledge**
 
 <sup>1</sup>
 
@@ -195,15 +223,21 @@ Articles 9–11 apply *mutatis mutandis* to:
 - b. qualifications regarded as equivalent to a certificate (para. 3);
 - c. occupational experience recognised as equivalent to a certificate (para. 4).
 
-****Art. 9** Geographical applicability**
+#### Art. 9
+
+**Geographical applicability**
 
 Certificates are valid throughout Switzerland.
 
-****Art. 10** Continuing education and training requirements**
+#### Art. 10
+
+**Continuing education and training requirements**
 
 Any person who holds a certificate and carries out the relevant activities must keep abreast of best practices and undergo continuing education and training.
 
-****Art. 11** Sanctions**
+#### Art. 11
+
+**Sanctions**
 
 <sup>1</sup>
 
@@ -214,7 +248,9 @@ If the holder of a certificate wilfully infringes the relevant provisions of env
 
 <sup>2</sup> The cantonal authority shall inform the competent Federal Office of such rulings.
 
-****Art. 12** Responsibilities**
+#### Art. 12
+
+**Responsibilities**
 
 <sup>1</sup> The Federal Department of the Environment, Transport, Energy and Communications (DETEC) is responsible for certificates as specified in Article 7 paragraph 1 letter a numbers 1 and 4, and letter b.
 
@@ -231,54 +267,82 @@ The Department shall define:
 
 <sup>5</sup> DETEC shall provide opportunities for preparation for examinations within its sphere of responsibility.
 
-Chapter 3 Enforcement
+## Chapter 3 Enforcement
 
-****Art. 13** Cantons**
+#### Art. 13
+
+**Cantons**
 
 In the absence of regulations to the contrary, the cantons are responsible for monitoring compliance with the provisions of this Ordinance.
 
-****Art. 14** Confederation**
+#### Art. 14
+
+**Confederation**
 
 The Confederation is responsible for:
 
-- a.[^t-9] the tasks assigned to it in Articles 4, 7–12 (certificates) and 19;
+- a.[^14-1] the tasks assigned to it in Articles 4, 7–12 (certificates) and 19;
 - b. the granting of authorisations in accordance with the Annexes;
 - c. enforcement of the provisions concerning imports and exports;
 - d. enforcement with regard to substances, preparations and articles serving the interests of national defence.
 
-****Art. 15** Delegation of tasks and powers to third parties**
+[^14-1]: Amended by No I of the O of 7 Nov. 2012, in force since 1 Dec. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)).
+
+#### Art. 15
+
+**Delegation of tasks and powers to third parties**
 
 <sup>1</sup> The competent federal agencies may delegate to appropriate public bodies or private individuals some or all of the tasks and powers assigned to them by this Ordinance.
 
 <sup>2</sup> Insofar as the enforcement of health protection is concerned, delegation is limited to Articles 7–12 (certificates) and the provision of information under Article 28 of the Chemicals Act.
 
-****Art. 16** Special provisions concerning enforcement**
+#### Art. 16
 
-<sup>1</sup> With regard to medical devices, enforcement is based on the Medical Devices Ordinance of 17 October 2001[^t-10].
+**Special provisions concerning enforcement**
 
-<sup>2</sup> With regard to substances, preparations and articles relating to systems and activities serving the interests of national defence, Article 82 of the Chemicals Ordinance of 5 June 2015[^t-11] (ChemO) applies.[^t-12]
+<sup>1</sup> With regard to medical devices, enforcement is based on the Medical Devices Ordinance of 17 October 2001[^16-1].
 
-<sup>3</sup> With regard to fertilisers, the enforcement provisions of the Fertiliser Ordinance of 10 January 2001[^t-13] also apply.
+<sup>2</sup> With regard to substances, preparations and articles relating to systems and activities serving the interests of national defence, Article 82 of the Chemicals Ordinance of 5 June 2015[^16-2] (ChemO) applies.[^16-3]
 
-****Art. 17** Monitoring of imports and exports**
+<sup>3</sup> With regard to fertilisers, the enforcement provisions of the Fertiliser Ordinance of 10 January 2001[^16-4] also apply.
 
-<sup>1</sup> At the request of the FOPH, FOAG or FOEN, customs offices shall check whether substances, preparations and articles comply with the provisions of this Ordinance.[^t-14]
+[^16-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^16-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^16-3]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^16-4]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+
+#### Art. 17
+
+**Monitoring of imports and exports**
+
+<sup>1</sup> At the request of the FOPH, FOAG or FOEN, customs offices shall check whether substances, preparations and articles comply with the provisions of this Ordinance.[^17-1]
 
 <sup>2</sup> In cases of suspected infringement, they are authorised to detain goods at the border and call in the other enforcement authorities in accordance with this Ordinance. These authorities shall carry out further investigations and take the necessary measures.
 
-****Art. 18** Inspections**
+[^17-1]: Amended by Annex 4 No 45 of the Customs Ordinance of 1 Nov. 2006, in force since 1 May 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
-<sup>1</sup> On a spot-check basis or at the request of the FOPH, FOAG, FOEN or SECO, the cantonal enforcement authorities shall inspect substances, preparations and articles placed on the market at the premises of manufacturers, traders and professional or commercial users. They shall check whether the substances, preparations and articles comply with the provisions of the Annexes, in particular with regard to composition, labelling and information for purchasers.[^t-15]
+#### Art. 18
+
+**Inspections**
+
+<sup>1</sup> On a spot-check basis or at the request of the FOPH, FOAG, FOEN or SECO, the cantonal enforcement authorities shall inspect substances, preparations and articles placed on the market at the premises of manufacturers, traders and professional or commercial users. They shall check whether the substances, preparations and articles comply with the provisions of the Annexes, in particular with regard to composition, labelling and information for purchasers.[^18-1]
 
 <sup>2</sup> They shall also check whether the use of these substances, preparations and articles complies with the requirements of this Ordinance.
 
-<sup>3</sup> If the substances, preparations or articles inspected or the use thereof give cause for complaint, the inspection authority shall inform the authorities responsible for rulings under Article 19. If the latter are cantonal authorities, it shall additionally inform the FOPH, FOEN and SECO and also, in cases of complaints concerning plant protection products, the FSVO and the FOAG, and in cases of complaints concerning fertilisers, the FOAG.[^t-16]
+<sup>3</sup> If the substances, preparations or articles inspected or the use thereof give cause for complaint, the inspection authority shall inform the authorities responsible for rulings under Article 19. If the latter are cantonal authorities, it shall additionally inform the FOPH, FOEN and SECO and also, in cases of complaints concerning plant protection products, the FSVO and the FOAG, and in cases of complaints concerning fertilisers, the FOAG.[^18-2]
 
-****Art. 19**Rulings arising from inspections**
+[^18-1]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^18-2]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+
+#### Art. 19
+
+**Rulings arising from inspections**
 
 If an inspection reveals that provisions of this Ordinance have been violated, the federal authority or the authority of the canton in which the manufacturer, trader or user is domiciled or has a registered office shall, by means of a ruling, order the necessary measures.
 
-****Art. 20**Specialist advice on the use of fertilisers and plant protection products**
+#### Art. 20
+
+**Specialist advice on the use of fertilisers and plant protection products**
 
 <sup>1</sup> The cantons shall ensure that specialist advice is offered on the use of fertilisers and plant protection products, and that funding is available for these services.
 
@@ -289,59 +353,56 @@ They may require persons who use fertilisers or plant protection products on a p
 - a. to avail themselves of the specialist advice offered for this purpose;
 - b. to make available the operational data required for such advice.
 
-****Art. 21**[^t-17]Data confidentiality and data exchange**
+#### Art. 21
 
-Data confidentiality and the exchange of data among enforcement authorities and with other countries are governed by Articles 73–76 of the ChemO[^t-18].
+**Data confidentiality and data exchange**[^21-1]
 
-****Art. 22** Fees**
+Data confidentiality and the exchange of data among enforcement authorities and with other countries are governed by Articles 73–76 of the ChemO[^21-2].
 
-The obligation to pay fees and the calculation of fees for administrative acts performed by the federal enforcement authorities in accordance with this Ordinance are based on the Chemicals Fees Ordinance of 18 May 2005[^t-19].
+[^21-1]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^21-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
-Chapter 4 Final Provisions
+#### Art. 22
 
-****Art. 23**Transitional provisions**
+**Fees**
+
+The obligation to pay fees and the calculation of fees for administrative acts performed by the federal enforcement authorities in accordance with this Ordinance are based on the Chemicals Fees Ordinance of 18 May 2005[^22-1].
+
+[^22-1]: [SR 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
+
+## Chapter 4 Final Provisions
+
+#### Art. 23
+
+**Transitional provisions**
 
 <sup>1</sup> The transitional provisions on certificates in accordance with Articles 7–12 shall be enacted by the competent Federal Department.
 
-<sup>2</sup> Exemptions granted under the Substances Ordinance of 9 June 1986[^t-20] remain valid for the period originally specified.
+<sup>2</sup> Exemptions granted under the Substances Ordinance of 9 June 1986[^23-1] remain valid for the period originally specified.
 
 <sup>3</sup> Applications for exemptions which are pending when this Ordinance comes into force shall be assessed according to this Ordinance.
 
-****Art. 23***a*[^t-21] Transitional provision to the Amendment of 11 March 2022**
+[^23-1]: [[AS 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981); [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)Art. 440 No 2, [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Annex 1 No II 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)Annex 5 No 3; [1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)Annex 2 No 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)No II 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)Art. 22 para. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)Annex No 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275), [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)No II 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)No I 7. [AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No I 1].
+
+#### Art. 23a
+
+**Transitional provision to the Amendment of 11 March 2022**[^23a-1]
 
 Substances, preparations, appliances, articles and systems that are labelled in accordance with the previous law may be supplied to third parties until 31 December 2025.
 
-****Art. 24**Commencement**
+[^23a-1]: Inserted by Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+
+#### Art. 24
+
+**Commencement**
 
 This Ordinance comes into force on 1 August 2005.
 
-[^t-1]: Inserted by Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
-[^t-2]: Amended by No I 6 of the O of 4 Sept. 2013 (Reorganisation in the field of Food Safety and Veterinary Medicine), in force since 1 Jan. 2014 ([AS 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
-[^t-3]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^t-4]: Inserted by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^t-5]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^t-6]: Inserted by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^t-7]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^t-8]: Amended by No I of the O of 7 Nov. 2012, in force since 1 Dec. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)).
-[^t-9]: Amended by No I of the O of 7 Nov. 2012, in force since 1 Dec. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)).
-[^t-10]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^t-11]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^t-12]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^t-13]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^t-14]: Amended by Annex 4 No 45 of the Customs Ordinance of 1 Nov. 2006, in force since 1 May 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^t-15]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^t-16]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^t-17]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^t-18]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^t-19]: [SR 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
-[^t-20]: [[AS 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981); [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)Art. 440 No 2, [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Annex 1 No II 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)Annex 5 No 3; [1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)Annex 2 No 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)No II 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)Art. 22 para. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)Annex No 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275), [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)No II 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)No I 7. [AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No I 1].
-[^t-21]: Inserted by Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
-
-Annexes[^t-22]
+Annexes[^t-1]
 
 ## 1 Provisions relating to specific substances
 
-[^t-22]: Revised by No I of the O of 17 April 2019, in force since 1 June 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-1]: Revised by No I of the O of 17 April 2019, in force since 1 June 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 - 1\.1 Persistent organic pollutants
 - 1\.2 Halogenated organic substances
@@ -375,7 +436,7 @@ Annexes[^t-22]
 - 2\.9 Plastics and additives
 - 2\.10 Refrigerants
 - 2\.11 Extinguishing agents
-- 2\.12 Aerosol dispensers[^annex1-lvl2-1]
+- 2\.12 Aerosol dispensers[^annexu1-lvl2-1]
 - 2\.13 Thermal fuel additives
 - 2\.14 Capacitors and transformers
 - 2\.15 Batteries
@@ -383,19 +444,19 @@ Annexes[^t-22]
 - 2\.17 Wood-based materials
 - 2\.18 Electrical and electronic equipment
 
-[^annex1-lvl2-1]: Term in accordance with No I 2 of the O of 10 Dec. 2010, in force since 1 Feb. 2011 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). This amendment has been applied throughout the text.
+[^annexu1-lvl2-1]: Term in accordance with No I 2 of the O of 10 Dec. 2010, in force since 1 Feb. 2011 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). This amendment has been applied throughout the text.
 
 Annex 1
 
 ## Provisions relating to specific substances
 
-Annex 1.1[^t-23]
+Annex 1.1[^t-2]
 
 (Art. 3)
 
 ## Persistent organic pollutants
 
-[^t-23]: Amended by No II para. 1 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Revised by No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-2]: Amended by No II para. 1 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Revised by No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Prohibitions
 
@@ -483,13 +544,13 @@ Annex 1.1[^t-23]
 
 <sup>3</sup> On the receipt of a justified request, the Federal Office for the Environment (FOEN) may grant temporary exemptions from the prohibitions specified in paragraph 1 letters a and b if the applicant can demonstrate that a substitute without HBCDD cannot actually be obtained for the preparations or objects. The time limit may last until 1 March 2018 at the latest.
 
-Annex 1.2[^t-24]
+Annex 1.2[^t-3]
 
 (Art. 3)
 
 ## Halogenated organic substances
 
-[^t-24]: Amended by No II para. 1 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Revised by No I of the O of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162))
+[^t-3]: Amended by No II para. 1 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Revised by No I of the O of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162))
 
 ### 1 Prohibitions
 
@@ -566,13 +627,13 @@ Annex 1.2[^t-24]
 
 - i. *1,2,4-trichlorobenzene (CAS no 120-82-1).*
 
-Annex 1.3[^t-25]
+Annex 1.3[^t-4]
 
 (Art. 3)
 
 ## Chlorinated aliphatic hydrocarbons
 
-[^t-25]: Revised by Annex 2 No II 2 of the Foodstuffs and Utility Articles Ordinance of 23 Nov. 2005 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-4]: Revised by Annex 2 No II 2 of the Foodstuffs and Utility Articles Ordinance of 23 Nov. 2005 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Prohibitions
 
@@ -594,7 +655,7 @@ Annex 1.3[^t-25]
 <sup>1</sup> The prohibitions specified in Number 1 paragraphs 1 and 2 do not apply to:
 
 - a. medicinal products;
-- b. cosmetic products which, based on Article 54 paragraphs 2–5 and 7 of the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex14-lvlu1-lvl2-1], may contain substances specified in Number 1 paragraph 1;
+- b. cosmetic products which, based on Article 54 paragraphs 2–5 and 7 of the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex13-lvlu1-lvl2-1], may contain substances specified in Number 1 paragraph 1;
 - c. substances and preparations intended for use in closed systems in industrial processes;
 - d. substances and preparations intended for analysis and research.
 
@@ -603,7 +664,7 @@ Annex 1.3[^t-25]
 - a. according to the state of the art, no substitute for chloroform is available for the use in question; and
 - b. the quantity of chloroform used is no greater than is required for the intended purpose and does not exceed 20 litres per year.
 
-[^annex14-lvlu1-lvl2-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex13-lvlu1-lvl2-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 ### 3 Special labelling
 
@@ -611,13 +672,13 @@ Annex 1.3[^t-25]
 
 <sup>2</sup> …
 
-Annex 1.4[^t-26]
+Annex 1.4[^t-5]
 
 (Art. 3)
 
 ## Substances that deplete the ozone layer
 
-[^t-26]: Amended by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Revised by No I of the O of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-5]: Amended by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Revised by No I of the O of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Definitions
 
@@ -678,22 +739,22 @@ The prohibition specified in Number 2.1 does not apply to the manufacture of reg
 It is prohibited to place on the market preparations and articles which:
 
 - a. contain substances that deplete the ozone layer;
-- b. were manufactured with substances that deplete the ozone layer and are listed in an Annex to the Montreal Protocol of 16 September 1987[^annex15-lvlu1-lvl3-lvl31-1] on Substances that Deplete the Ozone Layer (Montreal Protocol).
+- b. were manufactured with substances that deplete the ozone layer and are listed in an Annex to the Montreal Protocol of 16 September 1987[^annex14-lvlu1-lvl3-lvl31-1] on Substances that Deplete the Ozone Layer (Montreal Protocol).
 
-[^annex15-lvlu1-lvl3-lvl31-1]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^annex14-lvlu1-lvl3-lvl31-1]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
 
 ### 3.2 Exemptions
 
 The prohibition specified in Number 3.1 does not apply to the placing on the market of:
 
 - a. preparations and articles for whose manufacture or maintenance substances that deplete the ozone layer may be used in accordance with Number 6.2 or on the basis of an exemption permit under Number 6.3.1 paragraph 1;
-- b. preparations and articles which may be placed on the market in accordance with the provisions of Annexes 2.9–2.11 and which, if imported, are imported from countries that comply with the provisions of the Montreal Protocol and the Amendments to the Protocol of 29 June 1990[^annex15-lvlu1-lvl3-lvl32-1], 25 November 1992[^annex15-lvlu1-lvl3-lvl32-2], 17 September 1997[^annex15-lvlu1-lvl3-lvl32-3] and 3 December 1999[^annex15-lvlu1-lvl3-lvl32-4], as approved by Switzerland;
+- b. preparations and articles which may be placed on the market in accordance with the provisions of Annexes 2.9–2.11 and which, if imported, are imported from countries that comply with the provisions of the Montreal Protocol and the Amendments to the Protocol of 29 June 1990[^annex14-lvlu1-lvl3-lvl32-1], 25 November 1992[^annex14-lvlu1-lvl3-lvl32-2], 17 September 1997[^annex14-lvlu1-lvl3-lvl32-3] and 3 December 1999[^annex14-lvlu1-lvl3-lvl32-4], as approved by Switzerland;
 - c. preparations deemed equivalent to substances that deplete the ozone layer as specified in Number 1 paragraph 2.
 
-[^annex15-lvlu1-lvl3-lvl32-1]: [SR 0.814.021.1](https://fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078)
-[^annex15-lvlu1-lvl3-lvl32-2]: [SR 0.814.021.2](https://fedlex.data.admin.ch/eli/cc/2002/412)
-[^annex15-lvlu1-lvl3-lvl32-3]: [SR 0.814.021.3](https://fedlex.data.admin.ch/eli/cc/2003/455)
-[^annex15-lvlu1-lvl3-lvl32-4]: [SR 0.814.021.4](https://fedlex.data.admin.ch/eli/cc/2003/456)
+[^annex14-lvlu1-lvl3-lvl32-1]: [SR 0.814.021.1](https://fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078)
+[^annex14-lvlu1-lvl3-lvl32-2]: [SR 0.814.021.2](https://fedlex.data.admin.ch/eli/cc/2002/412)
+[^annex14-lvlu1-lvl3-lvl32-3]: [SR 0.814.021.3](https://fedlex.data.admin.ch/eli/cc/2003/455)
+[^annex14-lvlu1-lvl3-lvl32-4]: [SR 0.814.021.4](https://fedlex.data.admin.ch/eli/cc/2003/456)
 
 ### 3.3 Import of substances
 
@@ -716,9 +777,9 @@ Any person wishing to import substances that deplete the ozone layer as specifie
 
 <sup>2</sup> A general import licence entitles the holder to import specific quantities of substances that deplete the ozone layer from specific foreign exporters. It is personal and non-transferable.
 
-<sup>3</sup> The FOEN shall inform the cantons and the Federal Office for Customs and Border Security (FOCBS)[^annex15-lvlu1-lvl3-lvl33-lvl333-1] of the granting and revocation of general import licences.
+<sup>3</sup> The FOEN shall inform the cantons and the Federal Office for Customs and Border Security (FOCBS)[^annex14-lvlu1-lvl3-lvl33-lvl333-1] of the granting and revocation of general import licences.
 
-[^annex15-lvlu1-lvl3-lvl33-lvl333-1]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
+[^annex14-lvlu1-lvl3-lvl33-lvl333-1]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
 
 ### 3.3.4 Application
 
@@ -731,13 +792,13 @@ Any person wishing to import substances that deplete the ozone layer as specifie
   for each substance to be imported, the following information:
 
   - 1\. the chemical name according to an internationally recognised nomenclature,
-  - 2\. the customs tariff number according to the Annexes of the Federal Act of 9 October 1986[^annex15-lvlu1-lvl3-lvl33-lvl334-1] on Customs Tariffs (CTA),
+  - 2\. the customs tariff number according to the Annexes of the Federal Act of 9 October 1986[^annex14-lvlu1-lvl3-lvl33-lvl334-1] on Customs Tariffs (CTA),
   - 3\. the intended quantity, expressed in kilograms per calendar year,
   - 4\. the intended uses.
 
 <sup>2</sup> The FOEN may request further information on the origin and intended use of the substances concerned.
 
-[^annex15-lvlu1-lvl3-lvl33-lvl334-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^annex14-lvlu1-lvl3-lvl33-lvl334-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
 
 ### 3.3.5 Decision
 
@@ -747,13 +808,13 @@ Any person wishing to import substances that deplete the ozone layer as specifie
 
 ### 3.3.6 Obligations relating to import and storage
 
-<sup>1</sup> The person required to submit a declaration under Article 26 of the Customs Act of 18 March 2005[^annex15-lvlu1-lvl3-lvl33-lvl336-1] (CustA) must specify the number of the general import licence in the customs declaration.
+<sup>1</sup> The person required to submit a declaration under Article 26 of the Customs Act of 18 March 2005[^annex14-lvlu1-lvl3-lvl33-lvl336-1] (CustA) must specify the number of the general import licence in the customs declaration.
 
 <sup>2</sup> At the request of the customs office, the person required to submit a declaration must submit a copy of the import licence as specified in Number 3.3.5 paragraph 1.
 
 <sup>3</sup> On storage in an open customs warehouse, in a warehouse for bulk goods or in a duty-free warehouse, the storer or depositor must enter the number of the import licence in an inventory record.
 
-[^annex15-lvlu1-lvl3-lvl33-lvl336-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^annex14-lvlu1-lvl3-lvl33-lvl336-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 ### 4 Export
 
@@ -838,9 +899,9 @@ It is prohibited to use substances that deplete the ozone layer.
 <sup>2</sup> If, according to the state of the art, no substitute is available for the substances that deplete the ozone layer or for the preparations and articles manufactured using these substances, the prohibition specified in Number 6.1 does not apply to the use of substances that deplete the ozone layer:
 
 - a. as intermediate products for complete subsequent chemical conversion;
-- b. for the laboratory or analytical purposes permitted in accordance with Decision X/19 of the Parties to the Montreal Protocol[^annex15-lvlu1-lvl6-lvl62-1].
+- b. for the laboratory or analytical purposes permitted in accordance with Decision X/19 of the Parties to the Montreal Protocol[^annex14-lvlu1-lvl6-lvl62-1].
 
-[^annex15-lvlu1-lvl6-lvl62-1]: The text of this Decision may be obtained at www.ozone.unep.org &gt; Treaties &gt; Montreal Protocol &gt; Decisions of the Meetings of the Parties to the Montreal Protocol &gt; Twenty-Sixth Meeting of the Parties &gt; Decision XXVI/5.
+[^annex14-lvlu1-lvl6-lvl62-1]: The text of this Decision may be obtained at www.ozone.unep.org &gt; Treaties &gt; Montreal Protocol &gt; Decisions of the Meetings of the Parties to the Montreal Protocol &gt; Twenty-Sixth Meeting of the Parties &gt; Decision XXVI/5.
 
 ### 6.3 Exemption permits
 
@@ -880,23 +941,23 @@ The FOEN shall decide on complete applications within two months of receiving th
 
 ### 7 Transitional provision
 
-Preparations and articles which were manufactured with substances that deplete the ozone layer and are listed in an Annex to the Montreal Protocol (No 3.2.1 let. b) may continue to be imported for one year after the relevant Annex to the Montreal Protocol comes into force.
+Preparations and articles which were manufactured with substances that deplete the ozone layer and are listed in an Annex to the Montreal Protocol (No. 3.2.1 let. b) may continue to be imported for one year after the relevant Annex to the Montreal Protocol comes into force.
 
-Annex 1.5[^t-27]
+Annex 1.5[^t-6]
 
 (Art. 3)
 
 ## Substances stable in the atmosphere
 
-[^t-27]: Amended by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Revised by the Annex to the O of 24 Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), No I of the O of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-6]: Amended by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Revised by the Annex to the O of 24 Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), No I of the O of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definition
 
 <sup>1</sup> Substances stable in the atmosphere are:
 
-- a. hydrofluorocarbons as listed in Annex F to the Montreal Protocol on Substances that Deplete the Ozone Layer[^annex16-lvlu1-lvl1-1];
-- b. other fluorinated organic compounds[^annex16-lvlu1-lvl1-2] with a vapour pressure of at least 0.1 mbar at 20ºC or whose boiling point does not exceed 240ºC at 1013.25 mbar, and which have a mean atmospheric lifetime of at least 2 years;
-- c. sulphur hexafluoride (CAS no 2551-62-4);
+- a. hydrofluorocarbons as listed in Annex F to the Montreal Protocol on Substances that Deplete the Ozone Layer[^annex15-lvlu1-lvl1-1];
+- b. other fluorinated organic compounds[^annex15-lvlu1-lvl1-2] with a vapour pressure of at least 0.1 mbar at 20ºC or whose boiling point does not exceed 240ºC at 1013.25 mbar, and which have a mean atmospheric lifetime of at least 2 years;
+- c. sulfur hexafluoride (CAS no 2551-62-4);
 - d. nitrogen trifluoride (CAS no 7783-54-2).
 
 <sup>1bis</sup> For the purposes of the obligation in accordance with Number 9 paragraph 2, nitrous oxide (CAS no 10024-97-2) also applies as a substance stable in the atmosphere, provided the nitrous oxide is generated as a by-product in the manufacture of the following substances:
@@ -912,8 +973,8 @@ Annex 1.5[^t-27]
 
 <sup>3</sup> Regenerated substances stable in the atmosphere are substances produced by reprocessing of used substances stable in the atmosphere without chemical modification.
 
-[^annex16-lvlu1-lvl1-1]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
-[^annex16-lvlu1-lvl1-2]: The list of the most common other fluorinated organic compounds may be obtained at www.bafu.admin.ch &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen and Verfahren &gt; in der Luft stabile Stoffe.
+[^annex15-lvlu1-lvl1-1]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^annex15-lvlu1-lvl1-2]: The list of the most common other fluorinated organic compounds may be obtained at www.bafu.admin.ch &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen and Verfahren &gt; in der Luft stabile Stoffe.
 
 ### 2 Substances stable in the atmosphere which are substances that deplete the ozone layer
 
@@ -935,12 +996,12 @@ The prohibition specified in Number 3.1 does not apply to the manufacture of reg
 
 <sup>1</sup> It is prohibited to place on the market preparations and articles containing substances stable in the atmosphere.
 
-<sup>2</sup> Substances listed in Annex I to Regulation (EU) No 517/2014[^annex16-lvlu1-lvl4-lvl41-1] must be placed on the market in reusable containers if they are intended for use:
+<sup>2</sup> Substances listed in Annex I to Regulation (EU) No 517/2014[^annex15-lvlu1-lvl4-lvl41-1] must be placed on the market in reusable containers if they are intended for use:
 
 - a. in accordance with Number 6.2 paragraph 2 or Annex 2.3 number 4.2; or
 - b. in systems and appliances that may be placed on the market or imported for private purposes in accordance with Annex 2.10 numbers 2.1 and 2.2 and Annex 2.11 numbers 2.1 and 2.2.
 
-[^annex16-lvlu1-lvl4-lvl41-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006, Last amended by OJ L 150 of 20.5.2014, p. 195.
+[^annex15-lvlu1-lvl4-lvl41-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006, Last amended by OJ L 150 of 20.5.2014, p. 195.
 
 ### 4.2 Exemptions
 
@@ -979,14 +1040,14 @@ Without prejudice to Number 8 paragraph 1, an import licence is granted on appli
   for each substance to be imported, the following information:
 
   - 1\. the chemical name according to an internationally recognised nomenclature,
-  - 2\. the customs tariff number according to the Annexes of the Customs Tariff Act of 9 October 1986[^annex16-lvlu1-lvl4-lvl43-lvl434-1] (CTA),
+  - 2\. the customs tariff number according to the Annexes of the Customs Tariff Act of 9 October 1986[^annex15-lvlu1-lvl4-lvl43-lvl434-1] (CTA),
   - 3\. the intended quantity, expressed in kilograms per calendar year,
   - 4\. its quality (new, used, regenerated),
   - 5\. the intended uses.
 
 <sup>2</sup> The FOEN may request further information on the origin and intended use of the substances concerned.
 
-[^annex16-lvlu1-lvl4-lvl43-lvl434-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^annex15-lvlu1-lvl4-lvl43-lvl434-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
 
 ### 4.3.5 Decision
 
@@ -996,13 +1057,13 @@ Without prejudice to Number 8 paragraph 1, an import licence is granted on appli
 
 ### 4.3.6 Obligations relating to import and storage
 
-<sup>1</sup> The person required to submit a declaration under Article 26 of the Customs Act of 18 March 2005[^annex16-lvlu1-lvl4-lvl43-lvl436-1] (CustA) must specify the number of the general import licence in the customs declaration.
+<sup>1</sup> The person required to submit a declaration under Article 26 of the Customs Act of 18 March 2005[^annex15-lvlu1-lvl4-lvl43-lvl436-1] (CustA) must specify the number of the general import licence in the customs declaration.
 
 <sup>2</sup> At the request of the customs office, the person required to submit a declaration must submit a copy of the import licence.
 
 <sup>3</sup> On storage in an open customs warehouse, in a warehouse for bulk goods or in a duty-free warehouse, the storer or depositor must enter the number of the import licence in an inventory record.
 
-[^annex16-lvlu1-lvl4-lvl43-lvl436-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^annex15-lvlu1-lvl4-lvl43-lvl436-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 ### 5 Export
 
@@ -1070,12 +1131,12 @@ It is prohibited to use substances stable in the atmosphere.
 - d. as heat transfer or insulation fluids in welding machines and in testing and calibration baths;
 - e. for research and analysis purposes.
 
-<sup>2</sup> In addition, without prejudice to paragraph 3, the prohibition specified in Number 4.1 does not apply to the use of sulphur hexafluoride:
+<sup>2</sup> In addition, without prejudice to paragraph 3, the prohibition specified in Number 4.1 does not apply to the use of sulfur hexafluoride:
 
 - a. for the manufacture of the high-voltage component of particle accelerators whose gas compartment is continuously monitored or hermetically sealed, in particular X-ray equipment, electron microscopes and industrial particle accelerators used in the production of plastics;
 - b. for the manufacture of mini-relays;
-- c. for the manufacture of electrical distribution systems with voltages according to the International Electrotechnical Commission (IEC) above 1 kV, whose gas compartment is continuously monitored or hermetically sealed in accordance with the standard SN EN 62271-1:2008[^annex16-lvlu1-lvl6-lvl62-1];
-- d. for the maintenance and operation of equipment and systems allowed to contain sulphur hexafluoride in accordance with letters a to c.
+- c. for the manufacture of electrical distribution systems with voltages according to the International Electrotechnical Commission (IEC) above 1 kV, whose gas compartment is continuously monitored or hermetically sealed in accordance with the standard SN EN 62271-1:2008[^annex15-lvlu1-lvl6-lvl62-1];
+- d. for the maintenance and operation of equipment and systems allowed to contain sulfur hexafluoride in accordance with letters a to c.
 
 <sup>3</sup> The exemptions specified in paragraphs 1 and 2 apply provided that:
 
@@ -1083,7 +1144,7 @@ It is prohibited to use substances stable in the atmosphere.
 - b. the quantity and the global warming potential of the substances stable in the atmosphere being used are no greater than is required for the intended purpose according to the state of the art; and
 - c. emissions of substances stable in the atmosphere are kept as low as possible throughout the life cycle of the intended use.
 
-[^annex16-lvlu1-lvl6-lvl62-1]: This standard may be viewed free of charge at or obtained for a fee from the Schweizerische Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex15-lvlu1-lvl6-lvl62-1]: This standard may be viewed free of charge at or obtained for a fee from the Schweizerische Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 6.3 Exemption permits
 
@@ -1131,29 +1192,29 @@ The reporting requirements specified in Number 7.1.1 paragraph 1 do not apply to
 - a. storage in, or removal to another country from, an open customs warehouse, a warehouse for bulk goods or a duty-free warehouse;
 - b. importers and exporters who are party to a sectoral agreement, as defined in Article 41*a* of the Environmental Protection Act, if this agreement ensures that the FOEN will be duly informed.
 
-### 7.2 Reporting requirements for appliances and systems containing sulphur hexafluoride
+### 7.2 Reporting requirements for appliances and systems containing sulfur hexafluoride
 
 ### 7.2.1 Principle
 
-<sup>1</sup> Any person commissioning or decommissioning an appliance or system containing more than 1kg sulphur hexafluoride must inform the FOEN accordingly.
+<sup>1</sup> Any person commissioning or decommissioning an appliance or system containing more than 1kg sulfur hexafluoride must inform the FOEN accordingly.
 
 <sup>2</sup> The report must contain the following data:
 
 - a. the type and location of the appliance or system;
-- b. the quantity of sulphur hexafluoride contained therein;
+- b. the quantity of sulfur hexafluoride contained therein;
 - c. the date of commissioning or decommissioning;
-- d. in the case of decommissioning: the recipient of the sulphur hexafluoride.
+- d. in the case of decommissioning: the recipient of the sulfur hexafluoride.
 
 ### 7.2.2 Exemptions
 
-<sup>1</sup> Parties to a sectoral agreement, as defined in Art. 41*a* of the Environmental Protection Act, on sulphur hexafluoride are exempt from the reporting requirements specified in Number 7.2.1 paragraph 1 if this agreement ensures that the FOEN will be duly informed.
+<sup>1</sup> Parties to a sectoral agreement, as defined in Art. 41*a* of the Environmental Protection Act, on sulfur hexafluoride are exempt from the reporting requirements specified in Number 7.2.1 paragraph 1 if this agreement ensures that the FOEN will be duly informed.
 
 <sup>2</sup> Reporting is not required for:
 
-- a. appliances or systems containing more than 1kg sulphur hexafluoride in hermetically sealed pressure systems in accordance with SN EN 62271-1:2008[^annex16-lvlu1-lvl7-lvl72-lvl722-1] if one party to a sectoral agreement assumes responsibility for reporting.
+- a. appliances or systems containing more than 1kg sulfur hexafluoride in hermetically sealed pressure systems in accordance with SN EN 62271-1:2008[^annex15-lvlu1-lvl7-lvl72-lvl722-1] if one party to a sectoral agreement assumes responsibility for reporting.
 - b. appliances or systems serving the interests of national defence.
 
-[^annex16-lvlu1-lvl7-lvl72-lvl722-1]: This standard may be viewed free of charge at or obtained for a fee from the Schweizerische Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex15-lvlu1-lvl7-lvl72-lvl722-1]: This standard may be viewed free of charge at or obtained for a fee from the Schweizerische Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 7.3 Reporting by the FOEN
 
@@ -1161,7 +1222,7 @@ The reporting requirements specified in Number 7.1.1 paragraph 1 do not apply to
 
 ### 8 Special labelling
 
-<sup>1</sup> The manufacturer may only place on the market containers containing or designed to contain substances listed in Annex I to Regulation (EU) No 517/2014[^annex16-lvlu1-lvl8-1] or switchgear containing sulphur hexafluoride or preparations with sulphur hexafluoride, if they are labelled with the following information:
+<sup>1</sup> The manufacturer may only place on the market containers containing or designed to contain substances listed in Annex I to Regulation (EU) No 517/2014[^annex15-lvlu1-lvl8-1] or switchgear containing sulfur hexafluoride or preparations with sulfur hexafluoride, if they are labelled with the following information:
 
 - a. the text: «Contains fluorinated greenhouse gases»;
 - b. the abbreviated chemical names for the substances stable in the atmosphere contained or designed to be contained in the containers or systems, using the industry nomenclature accepted for the area concerned;
@@ -1172,9 +1233,9 @@ The reporting requirements specified in Number 7.1.1 paragraph 1 do not apply to
 - a. the form of the substances;
 - b. the name and address of the facility in which the substances were recycled, reclaimed or regenerated.
 
-<sup>2</sup> The manufacturer of appliances or of systems other than those referred to in paragraph 1 which contain more than 1kg sulphur hexafluoride must indicate the presence of this substance on the appliances or systems and indicate the quantity of the substance contained in the appliances or systems.
+<sup>2</sup> The manufacturer of appliances or of systems other than those referred to in paragraph 1 which contain more than 1kg sulfur hexafluoride must indicate the presence of this substance on the appliances or systems and indicate the quantity of the substance contained in the appliances or systems.
 
-[^annex16-lvlu1-lvl8-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006, version in accordance with OJ L 150 of 20.5.2014, p. 195.
+[^annex15-lvlu1-lvl8-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006, version in accordance with OJ L 150 of 20.5.2014, p. 195.
 
 ### 9 Obligations in relation to chemical conversion processes
 
@@ -1182,7 +1243,7 @@ The reporting requirements specified in Number 7.1.1 paragraph 1 do not apply to
 
 <sup>2</sup> Any person who manufactures substances in accordance with Number 1 paragraph 1<sup>bis</sup> must convert the nitrous oxide generated as a by-product in accordance with the state of the art provided this is technically and operationally feasible and economically viable.
 
-### 9<sup>bis</sup> Monitoring the conversion of nitrous oxide from manufacturing processes
+### 9bis Monitoring the conversion of nitrous oxide from manufacturing processes
 
 <sup>1</sup> The FOEN shall monitor compliance with the obligation in accordance with Number 9 paragraph 2.
 
@@ -1190,22 +1251,22 @@ The reporting requirements specified in Number 7.1.1 paragraph 1 do not apply to
 
 ### 10 Transitional provision
 
-For containers containing substances stable in the atmosphere which are listed in Annex A to the Kyoto Protocol to the United Nations Framework Convention on Climate Change of 11 December 1997[^annex16-lvlu1-lvl10-1] (Kyoto Protocol) and switchgear containing sulphur hexafluoride or preparations with sulphur hexafluoride, labelling as specified in Number 5 of the ORRChem in the version of 11 December 2010[^annex16-lvlu1-lvl10-2] remains permitted until 31 May 2020.
+For containers containing substances stable in the atmosphere which are listed in Annex A to the Kyoto Protocol to the United Nations Framework Convention on Climate Change of 11 December 1997[^annex15-lvlu1-lvl10-1] (Kyoto Protocol) and switchgear containing sulfur hexafluoride or preparations with sulfur hexafluoride, labelling as specified in Number 5 of the ORRChem in the version of 11 December 2010[^annex15-lvlu1-lvl10-2] remains permitted until 31 May 2020.
 
-[^annex16-lvlu1-lvl10-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
-[^annex16-lvlu1-lvl10-2]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+[^annex15-lvlu1-lvl10-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex15-lvlu1-lvl10-2]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
 ### 11 Transitional provision to the Amendment of 24 November 2021
 
 Substances in accordance with Number 1 paragraph 1<sup>bis</sup> letter f may continue to be manufactured until 30 June 2023 without converting the nitrous oxide generated.
 
-Annex 1.6[^t-28]
+Annex 1.6[^t-7]
 
 (Art. 3)
 
 ## Asbestos
 
-[^t-28]: Revised by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-7]: Revised by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definitions
 
@@ -1256,7 +1317,7 @@ It is prohibited:
 - b. a warning about the dangers of asbestos to human health and the environment and reference to protective measures; it must comply with the following specifications:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20230601/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = at least 2.5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40% of H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60% of H</td></tr>
@@ -1285,13 +1346,13 @@ If asbestos-containing preparations or articles have the potential to release fi
 
 <sup>3</sup> Until 30 June 2025, the prohibitions specified in Number 2 letters b, c and d do not apply to asbestos-containing diaphragms for use in existing electrolysis installations.
 
-Annex 1.7[^t-29]
+Annex 1.7[^t-8]
 
 (Art. 3)
 
 ## Mercury
 
-[^t-29]: Amended by No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)). Revised by No I of the O of 17 April 2019, in force since 1 June 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-8]: Amended by No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)). Revised by No I of the O of 17 April 2019, in force since 1 June 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Placing on the market
 
@@ -1323,15 +1384,15 @@ Annex 1.7[^t-29]
   - 8\. pycnometers,
   - 9\. instruments for the determination of the softening point;
 
-- c.[^annex18-lvlu1-lvl1-lvl11-1] Switches and relays containing mercury (CAS no 7439-97-6);
+- c.[^annex17-lvlu1-lvl1-lvl11-1] Switches and relays containing mercury (CAS no 7439-97-6);
 - d.
 
   the following product types that contain mercury compounds:
 
   - 1\. plant protection products,
-  - 2\. biocidal products as specified in Article 1a of the Biocidal Products Ordinance of 18 May 2005[^annex18-lvlu1-lvl1-lvl11-2] (OBP),
+  - 2\. biocidal products as specified in Article 1a of the Biocidal Products Ordinance of 18 May 2005[^annex17-lvlu1-lvl1-lvl11-2] (OBP),
   - 3\. paints and varnishes,
-  - 4\. cosmetic products, provided that they are not based on Article 54 paragraphs 4 and 7 of the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex18-lvlu1-lvl1-lvl11-3] may contain mercury compounds as preservatives in ophthalmic products,
+  - 4\. cosmetic products, provided that they are not based on Article 54 paragraphs 4 and 7 of the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex17-lvlu1-lvl1-lvl11-3] may contain mercury compounds as preservatives in ophthalmic products,
   - 5\. topical antiseptics;
 
 - e. preparations and articles that contain mercury (CAS no 7439-97-6) or mercury compounds, for a use unknown before 1 January 2018.
@@ -1340,9 +1401,9 @@ Annex 1.7[^t-29]
 
 <sup>4</sup> For the placing on the market of batteries, packaging and packaging components, vehicles and vehicle materials and components, wood-based materials and electrical and electronic equipment and their spare parts, Annexes 2.15–2.18 apply.
 
-[^annex18-lvlu1-lvl1-lvl11-1]: In force from 1 Jan. 2021 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
-[^annex18-lvlu1-lvl1-lvl11-2]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^annex18-lvlu1-lvl1-lvl11-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex17-lvlu1-lvl1-lvl11-1]: In force from 1 Jan. 2021 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^annex17-lvlu1-lvl1-lvl11-2]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex17-lvlu1-lvl1-lvl11-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 ### 1.2 Exemptions
 
@@ -1363,7 +1424,7 @@ Annex 1.7[^t-29]
 - a. are intended as components or spare parts for equipment that is required to protect Switzerland's essential security interests, including weapons, ammunition and war materiel for military purposes;
 - b. are intended as components or spare parts for equipment that Annex 2.18 Number 3 specifies may contain switches and relays containing mercury;
 - c. are intended as spare parts for equipment other than that mentioned in letter b that have been or will be placed on the market in accordance with Annex 2.18 number 8 paragraphs 1 and 4;
-- d. are intended as spare parts for the articles, equipment, large-scale tools, large-scale installations, means of transport, machinery, photo-voltaic panels and pipe organs listed in Article 2 paragraph 4 letters b to k of Directive 2011/65/EU[^annex18-lvlu1-lvl1-lvl12-1].
+- d. are intended as spare parts for the articles, equipment, large-scale tools, large-scale installations, means of transport, machinery, photo-voltaic panels and pipe organs listed in Article 2 paragraph 4 letters b to k of Directive 2011/65/EU[^annex17-lvlu1-lvl1-lvl12-1].
 
 <sup>5</sup> The prohibition on the placing on the market of biocidal products specified in Number 1.1 paragraph 2 letter d Number 2 does not apply for research and development purposes.
 
@@ -1373,7 +1434,7 @@ Annex 1.7[^t-29]
 - b. mercury-containing preparations and articles for use in outer space;
 - c. mercury-containing preparations for use as auxiliary substances in industrial manufacturing processes, the use of which has been authorised as specified in Number 3.2.1 paragraph 1.
 
-[^annex18-lvlu1-lvl1-lvl12-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174, 1.7.2011, p. 88; last amended by Directive (EU) 2017/2102 of the European Parliament and of the Council, OJ L 305 of 21.11.2017, p. 8.
+[^annex17-lvlu1-lvl1-lvl12-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174, 1.7.2011, p. 88; last amended by Directive (EU) 2017/2102 of the European Parliament and of the Council, OJ L 305 of 21.11.2017, p. 8.
 
 ### 1.3 Exemptions with Authorisation
 
@@ -1416,12 +1477,12 @@ An application must contain at least:
 
 No import licence is required by a person who:
 
-- a. imports mercury (CAS no 7439-97-6) or a preparation with a mercury content of 95 % and more by mass from a country that is a signatory[^annex18-lvlu1-lvl1-lvl14-lvl142-1] to the Minamata Convention on Mercury of 10 October 2013[^annex18-lvlu1-lvl1-lvl14-lvl142-2] (Minamata Convention), provided that the substance or preparation is intended for analysis and research purposes;
+- a. imports mercury (CAS no 7439-97-6) or a preparation with a mercury content of 95 % and more by mass from a country that is a signatory[^annex17-lvlu1-lvl1-lvl14-lvl142-1] to the Minamata Convention on Mercury of 10 October 2013[^annex17-lvlu1-lvl1-lvl14-lvl142-2] (Minamata Convention), provided that the substance or preparation is intended for analysis and research purposes;
 - b. imports a mercury compound or alloy of mercury if the substance or preparation is intended for analysis and research purposes;
 - c. imports a substance or preparation specified in letter a or b for use as a substance in a preparation or article, if the substance, preparation or article is intended for analysis and research purposes.
 
-[^annex18-lvlu1-lvl1-lvl14-lvl142-1]: The list of the signatories can be found on the internet at the FOEN website under www.bafu.admin.ch &gt; Topics &gt; Chemicals &gt; Information for specialists &gt; Regulations and procedures &gt; Mercury.
-[^annex18-lvlu1-lvl1-lvl14-lvl142-2]: [SR 0.814.82](https://fedlex.data.admin.ch/eli/cc/2017/467)
+[^annex17-lvlu1-lvl1-lvl14-lvl142-1]: The list of the signatories can be found on the internet at the FOEN website under www.bafu.admin.ch &gt; Topics &gt; Chemicals &gt; Information for specialists &gt; Regulations and procedures &gt; Mercury.
+[^annex17-lvlu1-lvl1-lvl14-lvl142-2]: [SR 0.814.82](https://fedlex.data.admin.ch/eli/cc/2017/467)
 
 ### 1.4.3 Licence conditions
 
@@ -1442,14 +1503,14 @@ The application must contain at least:
   for each substance and each preparation to be imported:
 
   - 1\. the chemical name in accordance with an internationally recognised nomenclature,
-  - 2\. the customs tariff number in accordance with the annexes to the CTA[^annex18-lvlu1-lvl1-lvl14-lvl144-1],
+  - 2\. the customs tariff number in accordance with the annexes to the CTA[^annex17-lvlu1-lvl1-lvl14-lvl144-1],
   - 3\. the intended use,
   - 4\. the intended import quantity in kilogrammes,
   - 5\. the confirmation specified in Number 1.4.3 letter b;
 
 - d. a certificate as specified in Number 1.4.3 letter c.
 
-[^annex18-lvlu1-lvl1-lvl14-lvl144-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^annex17-lvlu1-lvl1-lvl14-lvl144-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
 
 ### 1.4.5 Decision
 
@@ -1459,7 +1520,7 @@ The application must contain at least:
 
 ### 1.4.6 Obligations relating to import and storage
 
-<sup>1</sup> The person required to submit a declaration under Article 26 of the Customs Act of 18 March 2005[^annex18-lvlu1-lvl1-lvl14-lvl146-1] (CustA) must specify in the customs declaration:
+<sup>1</sup> The person required to submit a declaration under Article 26 of the Customs Act of 18 March 2005[^annex17-lvlu1-lvl1-lvl14-lvl146-1] (CustA) must specify in the customs declaration:
 
 - a. that the importation of mercury (CAS no 7439-97-6), a preparation with a mercury content of 95 % and more by mass, a mercury compound or an alloy of mercury is subject to authorisation in accordance with this Annex;
 - b. the number of the import licence.
@@ -1468,7 +1529,7 @@ The application must contain at least:
 
 <sup>3</sup> On storage in a customs bonded warehouse, in a customs warehouse for bulk goods or in a duty-free warehouse, the storer or depositor must enter the number of the import licence in an inventory record.
 
-[^annex18-lvlu1-lvl1-lvl14-lvl146-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^annex17-lvlu1-lvl1-lvl14-lvl146-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 ### 1.4.7 Retention requirement
 
@@ -1496,9 +1557,9 @@ Any person who wishes to export mercury (CAS No 7439-97-6) or preparations with 
 
 <sup>1</sup> An export licence shall be granted on application provided the mercury (CAS No 7439-97-6) or preparations with a mercury content of 95 % or more are intended for analysis and research purposes in the importing country and the FOEN has a certificate from the importing country confirming that the latter authorises the import.
 
-<sup>2</sup> If the export is made to a country that is not a signatory[^annex18-lvlu1-lvl2-lvl22-lvl222-1] to the Minamata Convention, an export licence shall only be granted if the FOEN also has a certificate from the importing country confirming that the latter has put measures in place to protect human health and the environment when handling mercury.
+<sup>2</sup> If the export is made to a country that is not a signatory[^annex17-lvlu1-lvl2-lvl22-lvl222-1] to the Minamata Convention, an export licence shall only be granted if the FOEN also has a certificate from the importing country confirming that the latter has put measures in place to protect human health and the environment when handling mercury.
 
-[^annex18-lvlu1-lvl2-lvl22-lvl222-1]: The list of the signatories can be found on the internet at the FOEN website under www.bafu.admin.ch &gt; Topics &gt; Chemicals &gt; Information for specialists &gt; Regulations and procedures &gt; Mercury.
+[^annex17-lvlu1-lvl2-lvl22-lvl222-1]: The list of the signatories can be found on the internet at the FOEN website under www.bafu.admin.ch &gt; Topics &gt; Chemicals &gt; Information for specialists &gt; Regulations and procedures &gt; Mercury.
 
 ### 2.2.3 Application
 
@@ -1554,9 +1615,9 @@ Prohibited is the use of:
 
 <sup>1</sup> On request, the FOEN, with the agreement of the FOPH, may grant temporary exemptions from the prohibition specified in Number 3.1 letter c if the mercury (CAS no 7439-97-6), the mercury compounds or the mercury-containing preparations are not be used for chlorine-alkali electrolysis or in the manufacture of acetaldehyde, vinyl chloride, sodium- or potassium-methylate or ethylate.
 
-<sup>2</sup> An authorisation granted within the meaning of paragraph 1 is subject to an authorisation granted on the basis of Number 2.2 paragraph 1 of this Annex in the version of 1 July 2015[^annex18-lvlu1-lvl3-lvl32-lvl321-1].
+<sup>2</sup> An authorisation granted within the meaning of paragraph 1 is subject to an authorisation granted on the basis of Number 2.2 paragraph 1 of this Annex in the version of 1 July 2015[^annex17-lvlu1-lvl3-lvl32-lvl321-1].
 
-[^annex18-lvlu1-lvl3-lvl32-lvl321-1]: [AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)
+[^annex17-lvlu1-lvl3-lvl32-lvl321-1]: [AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)
 
 ### 3.2.2 Authorisation requirements
 
@@ -1596,7 +1657,7 @@ An application must contain at least:
 <tr><td>Manufacture of dental amalgam capsules</td><td>31 December 2027</td></tr>
 </table>
 
-<sup>2</sup> If the export is made to a country that is not a signatory[^annex18-lvlu1-lvl4-lvl42-1] to the Minamata Convention, an export licence shall only be granted if the FOEN also has a certificate from the importing country confirming that the latter has put measures in place to protect human health and the environment when handling mercury.
+<sup>2</sup> If the export is made to a country that is not a signatory[^annex17-lvlu1-lvl4-lvl42-1] to the Minamata Convention, an export licence shall only be granted if the FOEN also has a certificate from the importing country confirming that the latter has put measures in place to protect human health and the environment when handling mercury.
 
 <sup>3</sup> An application must contain at least:
 
@@ -1611,19 +1672,19 @@ An application must contain at least:
 
 <sup>5</sup> DETEC may extend the period allowed in paragraph 1 for the manufacture of dental amalgam capsules. In doing so, it shall take account of the demand for mercury for use in dental amalgam in contracting parties to the Minamata Convention, the measures taken by contracting parties to reduce the release of mercury when using of dental amalgam and progress made in ending the use of dental amalgam in the European Union.
 
-[^annex18-lvlu1-lvl4-lvl42-1]: The list of the signatories can be found on the internet at the FOEN website under www.bafu.admin.ch &gt; Topics &gt; Chemicals &gt; Information for specialists &gt; Regulations and procedures &gt; Mercury.
+[^annex17-lvlu1-lvl4-lvl42-1]: The list of the signatories can be found on the internet at the FOEN website under www.bafu.admin.ch &gt; Topics &gt; Chemicals &gt; Information for specialists &gt; Regulations and procedures &gt; Mercury.
 
 ### 4.3 Use
 
 A request based on the previous law under Number 2.2 paragraph 1 will be assessed in accordance with the previous law.
 
-Annex 1.8[^t-30]
+Annex 1.8[^t-9]
 
 (Art. 3)
 
 ## Octylphenol, nonylphenol and their ethoxylates
 
-[^t-30]: Revised by Annex 2 No II 2 of the Foodstuffs and Utility Articles Ordinance of 23 Nov. 2005 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) and 17 April 2019, in force since 1 June 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-9]: Revised by Annex 2 No II 2 of the Foodstuffs and Utility Articles Ordinance of 23 Nov. 2005 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) and 17 April 2019, in force since 1 June 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Prohibitions
 
@@ -1631,7 +1692,7 @@ Annex 1.8[^t-30]
 
 - a. laundry detergents as defined in Annex 2.1;
 - b. cleaning products as defined in Annex 2.2;
-- c. cosmetic products as defined in Art. 35 of the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex19-lvlu1-lvl1-1];
+- c. cosmetic products as defined in Art. 35 of the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex18-lvlu1-lvl1-1];
 - d. textile processing agents;
 - e. leather processing agents;
 - f. metalworking agents;
@@ -1643,7 +1704,7 @@ Annex 1.8[^t-30]
 
 <sup>3</sup> It is prohibited to place on the market washable textile fibres and semi-finished and finished textile products such as fibres, yarns, fabrics, knitted fabrics, home textiles, accessories or clothing if the content of nonylphenol ethoxylates relative to the textile component is 0.01% or more by mass.
 
-[^annex19-lvlu1-lvl1-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex18-lvlu1-lvl1-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 ### 2 Exemptions
 
@@ -1668,13 +1729,13 @@ The prohibitions specified in Number 1 do not apply to:
 
 <sup>3</sup> The prohibition specified in Number 1 paragraph 3 does not apply to textile fibres or semi-finished and finished textile products containing nonylphenol ethoxylates which were first placed on the market before 1 June 2022.
 
-Annex 1.9[^t-31]
+Annex 1.9[^t-10]
 
 (Art. 3)
 
 ## Flame retardants
 
-[^t-31]: Revised by No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) and No I of the O of 17 April 2019, in force since 1 June 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-10]: Revised by No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) and No I of the O of 17 April 2019, in force since 1 June 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Organophosphorus compounds
 
@@ -1695,15 +1756,15 @@ It is prohibited for the manufacturer to place on the market textiles containing
 
 <sup>1</sup> For the purposes of Number 4 letter a No 1 and 3, an *aircraft* means:
 
-- a. a civil aircraft produced in accordance with a type certificate issued under Regulation (EU) 2018/1139[^annex110-lvlu1-lvl2-lvl21-1] or with a design approval issued under the national regulations of a contracting state to the Convention on International Civil Aviation of 7 December 1944[^annex110-lvlu1-lvl2-lvl21-2] of the International Civil Aviation Organization (ICAO), or for which a certificate of airworthiness has been issued by an ICAO contracting state under Annex 8 to the Convention[^annex110-lvlu1-lvl2-lvl21-3];
+- a. a civil aircraft produced in accordance with a type certificate issued under Regulation (EU) 2018/1139[^annex19-lvlu1-lvl2-lvl21-1] or with a design approval issued under the national regulations of a contracting state to the Convention on International Civil Aviation of 7 December 1944[^annex19-lvlu1-lvl2-lvl21-2] of the International Civil Aviation Organization (ICAO), or for which a certificate of airworthiness has been issued by an ICAO contracting state under Annex 8 to the Convention[^annex19-lvlu1-lvl2-lvl21-3];
 - b. a military aircraft.
 
-<sup>2</sup> For the purposes of Number 4 letter a No 2 and 4, a *motor vehicle* means a category M, N or O vehicle as defined in Annex II Section A number 1 of Directive 2007/46/EC[^annex110-lvlu1-lvl2-lvl21-4].
+<sup>2</sup> For the purposes of Number 4 letter a No 2 and 4, a *motor vehicle* means a category M, N or O vehicle as defined in Annex II Section A number 1 of Directive 2007/46/EC[^annex19-lvlu1-lvl2-lvl21-4].
 
-[^annex110-lvlu1-lvl2-lvl21-1]: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91, version in accordance with OJ L 212 of 22.8.2018, p. 1.
-[^annex110-lvlu1-lvl2-lvl21-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^annex110-lvlu1-lvl2-lvl21-3]: The list of states can be found on the ICAO website at www.icao.int &gt; About ICAO &gt; List Member States.
-[^annex110-lvlu1-lvl2-lvl21-4]: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive), OJ L 263 of 9.10.2007, p. 1; last amended by Regulation (EU) 2017/1347, OJ L 192 of 24.7.2017, p. 1.
+[^annex19-lvlu1-lvl2-lvl21-1]: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91, version in accordance with OJ L 212 of 22.8.2018, p. 1.
+[^annex19-lvlu1-lvl2-lvl21-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^annex19-lvlu1-lvl2-lvl21-3]: The list of states can be found on the ICAO website at www.icao.int &gt; About ICAO &gt; List Member States.
+[^annex19-lvlu1-lvl2-lvl21-4]: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive), OJ L 263 of 9.10.2007, p. 1; last amended by Regulation (EU) 2017/1347, OJ L 192 of 24.7.2017, p. 1.
 
 ### 2.2 Prohibitions
 
@@ -1715,15 +1776,15 @@ It is prohibited for the manufacturer to place on the market textiles containing
 
 ### 3 Inorganic ammonium salts
 
-[^annex110-lvlu1-lvl3-1]
+[^annex19-lvlu1-lvl3-1]
 
-[^annex110-lvlu1-lvl3-1]: In force since 1 June 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^annex19-lvlu1-lvl3-1]: In force since 1 June 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 3.1 Prohibition
 
 <sup>1</sup> Bulk cellulose insulating materials and articles containing cellulose insulating materials may not be placed on the market and used if they contain inorganic ammonium salts unless the emission of ammonia from the insulating materials in a test chamber under the test conditions described in paragraph 2 results in a volume content of less than 3 ppm (2.12 mg/m<sup>3</sup>).
 
-<sup>2</sup> Compliance with the emission limit specified in paragraph 1 shall be demonstrated in accordance with Standard SN EN 16516:2017[^annex110-lvlu1-lvl3-lvl31-1] by the following measures:
+<sup>2</sup> Compliance with the emission limit specified in paragraph 1 shall be demonstrated in accordance with Standard SN EN 16516:2017[^annex19-lvlu1-lvl3-lvl31-1] by the following measures:
 
 - a. the minimum test duration is 14 days;
 - b. the ammonia gas emission is measured at least once a day throughout the test;
@@ -1732,7 +1793,7 @@ It is prohibited for the manufacturer to place on the market textiles containing
 - e. a suitable method is used to measure the ammonia gas emission;
 - f. the loading rate, expressed in thickness and density, of the samples of the cellulose insulating materials to be tested and articles containing such cellulose insulating materials is recorded.
 
-[^annex110-lvlu1-lvl3-lvl31-1]: The standard may be inspected free of charge or obtained for a fee from the Swiss Association for Standardization (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^annex19-lvlu1-lvl3-lvl31-1]: The standard may be inspected free of charge or obtained for a fee from the Swiss Association for Standardization (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 
 ### 3.2 Exemption
 
@@ -1777,24 +1838,24 @@ The prohibitions specified in Number 2.2 paragraphs 1 and 2 do not apply to:
   - 1\. analysis and research purposes,
   - 2\. the manufacture of vehicle components which may be placed on the market under letter a No 3 and 4.
 
-Annex 1.10[^t-32]
+Annex 1.10[^t-11]
 
 (Art. 3)
 
 ## Substances classified as carcinogenic, mutagenic or toxic to reproduction
 
-[^t-32]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Annex No 2 of the O of 18 Nov. 2020, in force from 15 Dec. 2020 until 1 June 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), No I of the FOPH O of 23 Dec. 2021 ([AS 2022 1](https://fedlex.data.admin.ch/eli/oc/2022/1)), No I of the O of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-11]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Annex No 2 of the O of 18 Nov. 2020, in force from 15 Dec. 2020 until 1 June 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), No I of the FOPH O of 23 Dec. 2021 ([AS 2022 1](https://fedlex.data.admin.ch/eli/oc/2022/1)), No I of the O of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Prohibition
 
-<sup>1</sup> It is prohibited to supply to the general public substances classified as carcinogenic, mutagenic or toxic to reproduction according to Annex XVII, Appendices 1–6 to Regulation (EC) No 1907/2006 (EU REACH Regulation)[^annex111-lvlu1-lvl1-1], or substances and preparations containing them, if they have a content by mass exceeding the concentration specified in Annex I No 1.1.2.2 to Regulation (EC) No 1272/2008[^annex111-lvlu1-lvl1-2].
+<sup>1</sup> It is prohibited to supply to the general public substances classified as carcinogenic, mutagenic or toxic to reproduction according to Annex XVII, Appendices 1–6 to Regulation (EC) No 1907/2006 (EU REACH Regulation)[^annex110-lvlu1-lvl1-1], or substances and preparations containing them, if they have a content by mass exceeding the concentration specified in Annex I No 1.1.2.2 to Regulation (EC) No 1272/2008[^annex110-lvlu1-lvl1-2].
 
 <sup>2</sup> The Federal Office of Public Health (FOPH), with the agreement of the Federal Office for the Environment (FOEN) and SECO, shall amend the provisions of paragraph 1 to comply with amendments to Annex XVII, Appendices 1 – 6 of Regulation (EC) No 1907/2006.
 
 <sup>3</sup> The use of thermal paper with a content by mass of bisphenol A (CAS No 80-05-7) or bisphenol S (CAS No 80-09-1) of 0.02 per cent or more.
 
-[^annex111-lvlu1-lvl1-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Regulation (EU) 2021/2204, OJ L 446 of 14.12.2021, p. 34.
-[^annex111-lvlu1-lvl1-2]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353, 31.12.2008, p. 1; last amended by Delegated Regulation (EU) 2021/849, OJ L 188 of 28.5.2021, p.27.
+[^annex110-lvlu1-lvl1-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Regulation (EU) 2021/2204, OJ L 446 of 14.12.2021, p. 34.
+[^annex110-lvlu1-lvl1-2]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353, 31.12.2008, p. 1; last amended by Delegated Regulation (EU) 2021/849, OJ L 188 of 28.5.2021, p.27.
 
 ### 2 Exemptions
 
@@ -1804,7 +1865,7 @@ Annex 1.10[^t-32]
 - b. artists’ paints, subject to Annex 1.17;
 - c. motor fuels;
 - d. mineral oil products used as heating fuels in mobile or fixed combustion plants, and heating fuels in closed systems;
-- e. substances listed in Annex XVII, Appendix 11, Column 1 of Regulation (EC) No 1907/2006[^annex111-lvlu1-lvl2-1], with the applications and any time limits listed in Column 2.
+- e. substances listed in Annex XVII, Appendix 11, Column 1 of Regulation (EC) No 1907/2006[^annex110-lvlu1-lvl2-1], with the applications and any time limits listed in Column 2.
 
 <sup>1bis</sup> The prohibition in number 1 paragraph 3 does not apply to thermal paper used for special applications that require additional technical specifications. These include the following applications in particular:
 
@@ -1814,10 +1875,10 @@ Annex 1.10[^t-32]
 
 <sup>2</sup> The FOPH, with the agreement of the FOEN and SECO, shall amend the provisions of paragraph 1 letter e to comply with amendments to Annex XVII, Appendix 11 of Regulation (EC) No 1907/2006.
 
-<sup>3</sup> For carcinogens, mutagens or substances toxic to reproduction in cosmetic products, the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex111-lvlu1-lvl2-2] on applies.
+<sup>3</sup> For carcinogens, mutagens or substances toxic to reproduction in cosmetic products, the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex110-lvlu1-lvl2-2] on applies.
 
-[^annex111-lvlu1-lvl2-1]: See footnote to No 1 para. 1.
-[^annex111-lvlu1-lvl2-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex110-lvlu1-lvl2-1]: See footnote to No 1 para. 1.
+[^annex110-lvlu1-lvl2-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 ### 3 Special labelling
 
@@ -1827,7 +1888,7 @@ Annex 1.10[^t-32]
 
 ### 4 Transitional Provision to the Amendment of 23 December 2021
 
-The following substances included by Regulation (EU) 2021/2204[^annex111-lvlu1-lvl4-1] in Annex XVII Appendices 1–6 of the EU REACH Regulation, and substances and preparations that contain such substances may continue to be supplied to the general public until the following dates:
+The following substances included by Regulation (EU) 2021/2204[^annex110-lvlu1-lvl4-1] in Annex XVII Appendices 1–6 of the EU REACH Regulation, and substances and preparations that contain such substances may continue to be supplied to the general public until the following dates:
 
 - a.
 
@@ -1853,27 +1914,27 @@ The following substances included by Regulation (EU) 2021/2204[^annex111-lvlu1-l
 
 - b. until 30 September 2021: all substances that do not fall under letter a.
 
-[^annex111-lvlu1-lvl4-1]: Commission Regulation (EU) 2021/2204 der of 13 December 2021, last amended by OJ L 446 of 14.12.2021, p. 34.
+[^annex110-lvlu1-lvl4-1]: Commission Regulation (EU) 2021/2204 der of 13 December 2021, last amended by OJ L 446 of 14.12.2021, p. 34.
 
-Annex 1.11[^t-33]
+Annex 1.11[^t-12]
 
 (Art. 3)
 
 ## Dangerous liquid substances
 
-[^t-33]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-12]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definition
 
-*Dangerous liquid substances and preparations* are liquid preparations with one of the properties specified in Article 2 paragraph 2 of Directive 1999/45/EC[^annex112-lvlu1-lvl1-1] or liquid substances and preparations which fulfil the criteria for any of the following hazard classes or categories listed in Annex I to Regulation (EC) No 1272/2008[^annex112-lvlu1-lvl1-2]:
+*Dangerous liquid substances and preparations* are liquid preparations with one of the properties specified in Article 2 paragraph 2 of Directive 1999/45/EC[^annex111-lvlu1-lvl1-1] or liquid substances and preparations which fulfil the criteria for any of the following hazard classes or categories listed in Annex I to Regulation (EC) No 1272/2008[^annex111-lvlu1-lvl1-2]:
 
 - a. hazard classes 2.1 – 2.4, 2.6, 2.7, 2.8 types A and B, 2.9, 2.10, 2.12, 2.13 categories 1 and 2, 2.14 categories 1 and 2, 2.15 types A – F;
 - b. hazard classes 3.1 – 3.6, 3.7 owing to adverse effects on sexual function and fertility or on development, 3.8 effects other than narcotic effects, 3.9 and 3.10;
 - c. hazard class 4.1;
 - d. hazard class 5.1.
 
-[^annex112-lvlu1-lvl1-1]: Directive 1999/45/EC of the European Parliament and of the Council of 31 May 1999 on the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations, OJ L 200, 30.7.1999, p. 1; last amended by Regulation (EC) No 1272/2008, OJ L 353, 31.12.2008, p. 1. The texts of the European Union legal documents mentioned in this Annex may be accessed at: http://eur-lex.europa.eu/
-[^annex112-lvlu1-lvl1-2]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353, 31.12.2008, p. 1; last amended by Regulation (EU) No 618/2012, OJ L 179, 11.7.2012, p. 3.
+[^annex111-lvlu1-lvl1-1]: Directive 1999/45/EC of the European Parliament and of the Council of 31 May 1999 on the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations, OJ L 200, 30.7.1999, p. 1; last amended by Regulation (EC) No 1272/2008, OJ L 353, 31.12.2008, p. 1. The texts of the European Union legal documents mentioned in this Annex may be accessed at: http://eur-lex.europa.eu/
+[^annex111-lvlu1-lvl1-2]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353, 31.12.2008, p. 1; last amended by Regulation (EU) No 618/2012, OJ L 179, 11.7.2012, p. 3.
 
 ### 2 Prohibitions
 
@@ -1885,11 +1946,11 @@ Annex 1.11[^t-33]
 
 <sup>2</sup> It is prohibited to add colouring agents, unless required for fiscal reasons, or perfumes to dangerous liquid substances and preparations:
 
-- a. which present an aspiration hazard and are labelled with R 65 in accordance with Annex III to Directive 67/548/EEC[^annex112-lvlu1-lvl2-1] or H304 in accordance with Annex III to Regulation (EC) No 1272/2008[^annex112-lvlu1-lvl2-2]; and
+- a. which present an aspiration hazard and are labelled with R 65 in accordance with Annex III to Directive 67/548/EEC[^annex111-lvlu1-lvl2-1] or H304 in accordance with Annex III to Regulation (EC) No 1272/2008[^annex111-lvlu1-lvl2-2]; and
 - b. which can be used as fuel in decorative lamps (lamp oil) and are intended for supply to the general public.
 
-[^annex112-lvlu1-lvl2-1]: Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances, OJ L 196, 16.8.1967, p. 1; last amended by Directive 2009/2/EC, OJ L 11, 16.1.2009, p. 6.
-[^annex112-lvlu1-lvl2-2]: See footnote to No 1.
+[^annex111-lvlu1-lvl2-1]: Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances, OJ L 196, 16.8.1967, p. 1; last amended by Directive 2009/2/EC, OJ L 11, 16.1.2009, p. 6.
+[^annex111-lvlu1-lvl2-2]: See footnote to No 1.
 
 ### 3 Special labelling
 
@@ -1901,17 +1962,17 @@ Annex 1.11[^t-33]
 
 <sup>1</sup> Lamp oils and grill lighter fluids labelled with R 65 or H304 and intended for supply to the general public must be packaged in black opaque containers not exceeding 1 litre.
 
-<sup>2</sup> Decorative oil lamps for supply to the general public may only be placed on the market if they comply with the standard SN EN 14059:2002[^annex112-lvlu1-lvl4-1].
+<sup>2</sup> Decorative oil lamps for supply to the general public may only be placed on the market if they comply with the standard SN EN 14059:2002[^annex111-lvlu1-lvl4-1].
 
-[^annex112-lvlu1-lvl4-1]: This standard may be viewed free of charge at or obtained for a fee from the Schweizerische Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex111-lvlu1-lvl4-1]: This standard may be viewed free of charge at or obtained for a fee from the Schweizerische Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
-Annex 1.12[^t-34]
+Annex 1.12[^t-13]
 
 (Art. 3)
 
 ## Benzene and related compounds
 
-[^t-34]: Amended by No I 2 of the O of 15 Dec. 2006, in force since 1 March 2007 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)).
+[^t-13]: Amended by No I 2 of the O of 15 Dec. 2006, in force since 1 March 2007 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)).
 
 ### 1 Benzene
 
@@ -1928,32 +1989,32 @@ Annex 1.12[^t-34]
 - a. in closed systems in industrial processes;
 - b. for analysis and research purposes.
 
-<sup>2</sup> For petrol, the above is without prejudice to the provisions of the Ordinance of 16 December 1985[^annex113-lvlu1-lvl1-lvl12-1] on Air Pollution Control.
+<sup>2</sup> For petrol, the above is without prejudice to the provisions of the Ordinance of 16 December 1985[^annex112-lvlu1-lvl1-lvl12-1] on Air Pollution Control.
 
-[^annex113-lvlu1-lvl1-lvl12-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex112-lvlu1-lvl1-lvl12-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
 ### 2 Toluene
 
-[^annex113-lvlu1-lvl2-1]
+[^annex112-lvlu1-lvl2-1]
 
-[^annex113-lvlu1-lvl2-1]: In force from 1 Sept. 2008.
+[^annex112-lvlu1-lvl2-1]: In force from 1 Sept. 2008.
 
 It is prohibited to place on the market and to use toluene (CAS no 108-88-3) and preparations with a toluene content of 0.1% or more by mass in adhesives and spray paints intended for supply to the general public.
 
-Annex 1.13[^t-35]
+Annex 1.13[^t-14]
 
 (Art. 3)
 
 ## Nitroaromatics, aromatic amines and azo dyes
 
-[^t-35]: Revised by Annex 2 No II 2 of the Foodstuffs and Utility Articles Ordinance of 23 Nov. 2005 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)) and No I of the O of 25 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^t-14]: Revised by Annex 2 No II 2 of the Foodstuffs and Utility Articles Ordinance of 23 Nov. 2005 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)) and No I of the O of 25 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
 
 ### 1 Definition
 
 *Blue colourant* means the azo dye with the components:
 
-- a. disodium-(6-(4-anisidino)-3-sulphonato-2-(3,5-dinitro-2-oxidophenylazo)-1-naphtholato)(1-(5-chloro-2-oxidophenylazo)-2-naphtholato)chromate(1-) (molecular formula: C<sub>39</sub>H<sub>23</sub>ClCrN<sub>7</sub>O<sub>12</sub>S.2Na; CAS no 118685-33-9); and
-- b. trisodium bis(6-(4-anisidino)-3-sulphonato-2-(3,5-dinitro-2-oxidophenylazo)-1-naphtholato)chromate(1-) (molecular formula: C<sub>46</sub>H<sub>30</sub>CrN<sub>10</sub>O<sub>20</sub>S<sub>2</sub>.3Na).
+- a. disodium-(6-(4-anisidino)-3-sulfonato-2-(3,5-dinitro-2-oxidophenylazo)-1-naphtholato)(1-(5-chloro-2-oxidophenylazo)-2-naphtholato)chromate(1-) (molecular formula: C<sub>39</sub>H<sub>23</sub>ClCrN<sub>7</sub>O<sub>12</sub>S.2Na; CAS no 118685-33-9); and
+- b. trisodium bis(6-(4-anisidino)-3-sulfonato-2-(3,5-dinitro-2-oxidophenylazo)-1-naphtholato)chromate(1-) (molecular formula: C<sub>46</sub>H<sub>30</sub>CrN<sub>10</sub>O<sub>20</sub>S<sub>2</sub>.3Na).
 
 ### 2 Prohibitions
 
@@ -1972,21 +2033,21 @@ Annex 1.13[^t-35]
 
 <sup>1</sup> The prohibitions specified in Number 2 paragraphs 1 and 2 do not apply to placing on the market and use for analysis and research purposes.
 
-<sup>2</sup> For azo dyes which are used in textiles and leather goods and may release substances specified in Number 2 paragraph 1 or other aromatic amines, Article 64 paragraph 2 of the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex114-lvlu1-lvl3-1] applies.
+<sup>2</sup> For azo dyes which are used in textiles and leather goods and may release substances specified in Number 2 paragraph 1 or other aromatic amines, Article 64 paragraph 2 of the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex113-lvlu1-lvl3-1] applies.
 
-[^annex114-lvlu1-lvl3-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex113-lvlu1-lvl3-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 ### 4 Transitional provision
 
 The prohibitions specified in Number 2 paragraph 3 come into force on 1 August 2006.
 
-Annex 1.14[^t-36]
+Annex 1.14[^t-15]
 
 (Art. 3)
 
 ## Organotin compounds
 
-[^t-36]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) and No I of the O of 25 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^t-15]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) and No I of the O of 25 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
 
 ### 1 Di-substituted organotin compounds
 
@@ -2010,9 +2071,9 @@ It is prohibited to place on the market:
 
 ### 1.3 Relationship to the Foodstuffs and Utility Articles Ordinance of 16 December 2016
 
-[^annex115-lvlu1-lvl1-lvl13-1]
+[^annex114-lvlu1-lvl1-lvl13-1]
 
-[^annex115-lvlu1-lvl1-lvl13-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex114-lvlu1-lvl1-lvl13-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 For textiles, leather products and other articles intended to come into contact with the skin which contain dioctyltin compounds, and for articles which contain dibutyltin compounds and are intended, in connection with food production, use or packaging, to come into contact with food, the Foodstuffs and Utility Articles Ordinance applies.
 
@@ -2023,12 +2084,12 @@ For textiles, leather products and other articles intended to come into contact 
 <sup>1</sup> *Preservatives* refers to:
 
 - a. biocidal products used to protect service water from contamination with harmful organisms in the industrial, commercial or municipal sector;
-- b. biocidal products of product type 6 (in-can preservatives) as defined in Annex 10 to the OBP[^annex115-lvlu1-lvl2-lvl21-1];
+- b. biocidal products of product type 6 (in-can preservatives) as defined in Annex 10 to the OBP[^annex114-lvlu1-lvl2-lvl21-1];
 - c. biocidal products of product type 7 (film preservatives) as defined in Annex 10 to the OBP.
 - [tab] <sup>2</sup> *Antifouling products* are biocidal products of product type 21 as defined in Annex 10 to the OBP.
 - [tab] <sup>3</sup> *Articles containing tri-substituted organotin compounds* are articles which contain tri-substituted organotin compounds and where the tin content in the article, or part thereof, is 0.1% or more by mass.
 
-[^annex115-lvlu1-lvl2-lvl21-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex114-lvlu1-lvl2-lvl21-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 
 ### 2.2 Prohibitions
 
@@ -2070,36 +2131,36 @@ The prohibitions specified in Number 3.1 do not apply:
 - c. paints and coatings containing dibutyl tin compounds as catalysts when applied on articles;
 - d. soft polyvinyl chloride (PVC) profiles whether by themselves or coextruded with hard PVC;
 - e. fabrics coated with PVC containing dibutyl tin compounds as stabilisers when intended for outdoor applications;
-- f. aoutdoor rainwater pipes, gutters and fittings, as well as covering material for roofing and façades.
+- f. outdoor rainwater pipes, gutters and fittings, as well as covering material for roofing and façades.
 
 <sup>3</sup> The prohibition specified in Number 1.2 letter b does not apply to RTV-2 moulding kits or wall and floor coverings containing dioctyl tin compounds which were first placed on the market before 1 June 2013.
 
 <sup>4</sup> The prohibition on placing on the market specified in Number 2.2 letter c does not apply to articles containing tri-substituted organotin compounds which were first placed on the market before 1 June 2013.
 
-Annex 1.15[^t-37]
+Annex 1.15[^t-16]
 
 (Art. 3)
 
 ## Tars
 
-[^t-37]: Inserted by No I 4 of the O of 10 Dec. 2010, in force since 1 Dec. 2012 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
+[^t-16]: Inserted by No I 4 of the O of 10 Dec. 2010, in force since 1 Dec. 2012 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
 
 ### 1 Definitions
 
 <sup>1</sup> The following preparations are deemed to be tar-containing if, on account of the concentration of tar constituents, they exceed the following limits specified for polycyclic aromatic hydrocarbons (PAHs):
 
 <table>
-<tr><th>Preparations</th><th>Limit[^annex116-lvlu1-lvl1-1]</th></tr>
+<tr><th>Preparations</th><th>Limit[^annex115-lvlu1-lvl1-1]</th></tr>
 <tr><td>Binders used in surfacings, such as foundation, base, binder and surface courses</td><td>100mg/kg</td></tr>
 <tr><td>Preparations for surface dressing of paved surfaces</td><td>100mg/kg</td></tr>
 <tr><td>Joint sealants for paved surfaces</td><td>100mg/kg</td></tr>
 <tr><td>Paints and varnishes</td><td>100mg/kg</td></tr>
 </table>
 
-<sup>2</sup> *Tar-containing clay pigeons* are articles used as aerial targets in shooting which contain more than 30 mg PAHs per kilogram[^annex116-lvlu1-lvl1-2].
+<sup>2</sup> *Tar-containing clay pigeons* are articles used as aerial targets in shooting which contain more than 30 mg PAHs per kilogram[^annex115-lvlu1-lvl1-2].
 
-[^annex116-lvlu1-lvl1-1]: Overall limit for the following PAHs: naphthalene (CAS number 91-20-3), acenaphthylene (208-96-8), acenaphthene (83-32-9), fluorene (86-73-7), phenanthrene (85-01-8), anthracene (120-12-7), fluoranthene (206‑44‑0), pyrene (129-00-0), benzo[a]anthracene (56-55-3), chrysene (218-01-9), benzo[b]fluoranthene (205-99-2), benzo[k]fluoranthene (207-08-9), benzo[a]pyrene (50‑32‑8), indeno[1,2,3-cd]pyrene (193-39-5), dibenzo[a,h]anthracene (53-70-3) and benzo[g,h,i]perylene (191-24-2).
-[^annex116-lvlu1-lvl1-2]: Overall limit for the following PAHs: naphthalene (CAS number 91-20-3), acenaphthylene (208-96-8), acenaphthene (83-32-9), fluorene (86-73-7), phenanthrene (85-01-8), anthracene (120-12-7), fluoranthene (206‑44‑0), pyrene (129-00-0), benzo[a]anthracene (56-55-3), chrysene (218-01-9), benzo[b]fluoranthene (205-99-2), benzo[k]fluoranthene (207-08-9), benzo[a]pyrene (50‑32‑8), indeno[1,2,3-cd]pyrene (193-39-5), dibenzo[a,h]anthracene (53-70-3) and benzo[g,h,i]perylene (191-24-2).
+[^annex115-lvlu1-lvl1-1]: Overall limit for the following PAHs: naphthalene (CAS number 91-20-3), acenaphthylene (208-96-8), acenaphthene (83-32-9), fluorene (86-73-7), phenanthrene (85-01-8), anthracene (120-12-7), fluoranthene (206‑44‑0), pyrene (129-00-0), benzo[a]anthracene (56-55-3), chrysene (218-01-9), benzo[b]fluoranthene (205-99-2), benzo[k]fluoranthene (207-08-9), benzo[a]pyrene (50‑32‑8), indeno[1,2,3-cd]pyrene (193-39-5), dibenzo[a,h]anthracene (53-70-3) and benzo[g,h,i]perylene (191-24-2).
+[^annex115-lvlu1-lvl1-2]: Overall limit for the following PAHs: naphthalene (CAS number 91-20-3), acenaphthylene (208-96-8), acenaphthene (83-32-9), fluorene (86-73-7), phenanthrene (85-01-8), anthracene (120-12-7), fluoranthene (206‑44‑0), pyrene (129-00-0), benzo[a]anthracene (56-55-3), chrysene (218-01-9), benzo[b]fluoranthene (205-99-2), benzo[k]fluoranthene (207-08-9), benzo[a]pyrene (50‑32‑8), indeno[1,2,3-cd]pyrene (193-39-5), dibenzo[a,h]anthracene (53-70-3) and benzo[g,h,i]perylene (191-24-2).
 
 ### 2 Prohibitions
 
@@ -2113,7 +2174,7 @@ It is prohibited:
 
 ### 3 Exemptions
 
-<sup>1</sup> The prohibitions specified in Number 2 are not applicable in cases where authorisations have been granted by the European Commission in accordance with Article 60 paragraph 1 of Regulation (EC) No 1907/2006[^annex116-lvlu1-lvl3-1].
+<sup>1</sup> The prohibitions specified in Number 2 are not applicable in cases where authorisations have been granted by the European Commission in accordance with Article 60 paragraph 1 of Regulation (EC) No 1907/2006[^annex115-lvlu1-lvl3-1].
 
 <sup>2</sup> On receipt of a justified request, the FOEN may, with the agreement of the FOPH and SECO, grant further (possibly temporary) exemptions to the prohibitions specified in Number 2 letters a–c and e, if:
 
@@ -2121,15 +2182,15 @@ It is prohibited:
 - b. the quantity of tar-containing preparations used is no greater than is essential for the intended purpose; and
 - c. risks to human health and the environment are adequately limited.
 
-[^annex116-lvlu1-lvl3-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Commission Regulation (EU) No 453/2010 of 20 May 2010, OJ L 133, 31.05.2010, p. 1. The texts of the European Union legal documents mentioned in this Annex may be accessed at: www.cheminfo.ch
+[^annex115-lvlu1-lvl3-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Commission Regulation (EU) No 453/2010 of 20 May 2010, OJ L 133, 31.05.2010, p. 1. The texts of the European Union legal documents mentioned in this Annex may be accessed at: www.cheminfo.ch
 
-Annex 1.16[^t-38]
+Annex 1.16[^t-17]
 
 (Art. 3)
 
 ## Per- and polyfluoroalkyl substances
 
-[^t-38]: Inserted by No I 4 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Amended by No I of the O of 23 Feb. 2022, in force since 1 Oct. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)). The correction of 6 Oct. 2022 concerns the French text only ([AS 2022 560](https://fedlex.data.admin.ch/eli/oc/2022/560)).
+[^t-17]: Inserted by No I 4 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Amended by No I of the O of 23 Feb. 2022, in force since 1 Oct. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)). The correction of 6 Oct. 2022 concerns the French text only ([AS 2022 560](https://fedlex.data.admin.ch/eli/oc/2022/560)).
 
 ### 1 Perfluorooctane sulfonic acid and its derivatives
 
@@ -2148,13 +2209,13 @@ Annex 1.16[^t-38]
 
 ### 1.3 Exemptions
 
-<sup>1</sup> The prohibitions specified in Number 1.2 do not apply to manufacture, placing on the market or use for analysis and research purposes.
+The prohibitions specified in Number 1.2 do not apply to manufacture, placing on the market or use for analysis and research purposes.
 
-### 2 Perfluorooctanoic acid and its precursor compounds
+### 2 Perfluorohexane sulfonic acid and its precursor compounds
 
 ### 2.1 Definitions
 
-<sup>1</sup> Precursor compounds of perfluorooctanoic acid in the form of their linear or branched isomers and their salts (PFHxS) are substances including polymers with a linear or branched perfluoroheptyl group with the formula C<sub>6</sub>F<sub>13</sub> in direct combination with a sulphur atom as structural element that degrade to PFHxS.
+Precursor compounds of perfluorohexane sulfonic acid in the form of their linear or branched isomers and their salts (PFHxS) are substances including polymers with a linear or branched perfluorohexyl group with the formula C<sub>6</sub>F<sub>13</sub> in direct combination with a sulfur atom as structural element that degrade to PFHxS.
 
 ### 2.2 Prohibitions
 
@@ -2189,7 +2250,7 @@ The prohibitions specified in Number 2.2 do not apply to manufacture, placing on
 - b. fluoropolymers with the structural element CF<sub>3</sub>[CF<sub>2</sub>]<sub>n</sub>-R with n &gt; 16, where R = any group;
 - c. perfluorocarboxylic acids and perfluorophosphonic acids, including their derivatives, such as salts, esters, halides or anhydrides, with eight or more perfluorinated carbon atoms;
 - d. perfluorooctane sulfonic acid and its derivatives (PFOS) in accordance with Number 1.1;
-- e. perfluorosulphonic acids, including their derivatives, such as salts, esters, halides or anhydrides, with nine or more perfluorinated carbon atoms.
+- e. perfluorosulfonic acids, including their derivatives, such as salts, esters, halides or anhydrides, with nine or more perfluorinated carbon atoms.
 
 <sup>3</sup> Precursor compounds of perfluorononanoic, perfluorodecanoic, perfluorundecanoic, perfluorododecanoic, perfluorotridecanoic and perfluorotetradecanoic acid in the form of their linear and branched isomers and salts (C<sub>9</sub>–C<sub>14</sub>-PFCA) are substances, including polymers, with a linear or branched perfluoroalkyl group with the formula C<sub>n</sub>F<sub>2n+1</sub> with n = 8 – 13 in direct combination with an additional carbon atom as a structural element that degrade to C<sub>9</sub>–C<sub>14</sub>-PFCA.
 
@@ -2281,7 +2342,7 @@ Packaging for preparations subject to the prohibitions in Number 4.2 must be mar
 - b. the following articles and their components containing PFOA, C<sub>9</sub>–C<sub>14</sub>-PFCAs or their precursor compounds that were placed on the market before the date specified, and to substances and preparations required to manufacture these articles:
 
 <table>
-<tr><th>Produkt</th><th>Datum</th></tr>
+<tr><th>Product</th><th>Date</th></tr>
 <tr><td>Oil and water repellent occupational safety textiles for handling liquids that are hazardous to health</td><td>4 July 2023</td></tr>
 <tr><td>High-performance, corrosion-resistant gas filter membranes, water filter membranes and medical textile membranes based on polytetrafluoroethylene (PTFE) or polyvinylidene fluoride (PVDF)</td><td>4 July 2023</td></tr>
 <tr><td>Industrial heat exchangers and sealing compounds based on PTFE or PVDF that prevent the escape of volatile organic compounds or suspended particulates (PM2.5)</td><td>4 July 2023</td></tr>
@@ -2321,16 +2382,16 @@ Packaging for preparations subject to the prohibitions in Number 4.2 must be mar
 
 <sup>6</sup> Fluoropolymers containing perfluoroalkoxy groups in accordance with Number 3.3 paragraph 1 letter e may be manufactured, placed on the market and used until 25 August 2024, provided their concentration of the sum of C<sub>9</sub>–C<sub>14</sub>-PFCAs does not exceed 0.0002 per cent (2000 ppb) by mass.
 
-Annex 1.17[^t-39]
+Annex 1.17[^t-18]
 
 (Art. 3)
 
 ## Substances listed in Annex XIV to Regulation (EC) No 1907/2006
 
-[^annex118-lvlu1-1]
+[^annex117-lvlu1-1]
 
-[^t-39]: Inserted by No II para. 1 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the FOEN Ordinance of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), of 10 Jan. 2017 ([AS 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), of 27 Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), the correction of 26 Feb. 2019 ([AS 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and No I of the FOEN Ordinance of 29 Sept. 2020, in force since 1 Nov. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)).
-[^annex118-lvlu1-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Regulation (EU) No 2017/999, OJ L 150, 14.6.2017, p. 7.
+[^t-18]: Inserted by No II para. 1 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the FOEN Ordinance of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), of 10 Jan. 2017 ([AS 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), of 27 Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), the correction of 26 Feb. 2019 ([AS 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), No I of the FOEN Ordinance of 29 Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) and No I of the O of 5 April 2023, in force since 1 June 2023 ([AS 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)).
+[^annex117-lvlu1-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Regulation (EU) No 2017/999, OJ L 150, 14.6.2017, p. 7.
 
 ### 1 Prohibitions
 
@@ -2340,7 +2401,7 @@ It is prohibited to place on the market for use the substances listed in Number 
 
 <sup>1</sup> The prohibitions specified in Number 1 do not apply to use:
 
-- a. as an intermediate as defined in Article 2 paragraph 2 letter j of the Chemicals Ordinance of 5 June 2015[^annex118-lvlu1-lvl2-1] (ChemO);
+- a. as an intermediate as defined in Article 2 paragraph 2 letter j of the Chemicals Ordinance of 5 June 2015[^annex117-lvlu1-lvl2-1] (ChemO);
 - b. in medicinal products;
 - c. in foodstuffs or feedingstuffs;
 - d. in plant protection products;
@@ -2350,8 +2411,15 @@ It is prohibited to place on the market for use the substances listed in Number 
 - h. in cosmetic products, provided that the substance has been included in the list under Number 5 solely on the basis of the intrinsic properties «carcinogenic», «mutagenic», «toxic to reproduction» or «other serious effects to human health»;
 - i. in food contact materials and articles, provided that the substance has been included in the list under Number 5 solely on the basis of the intrinsic properties «carcinogenic», «mutagenic», «toxic to reproduction» or «other serious effects to human health»;
 - j. in scientific research and development;
-- k. of substances present in preparations below a concentration limit of 0.1 % by mass ofd included in the list under Number 5 on the basis of Article 57 letters d, e or f of Regulation (EC) No 1907/2006[^annex118-lvlu1-lvl2-2];
-- l. of substances present in preparations below the lowest of the concentration limits specified in Annex I number 1.1.2.2 of Regulation (EC) No 1272/2008[^annex118-lvlu1-lvl2-3] which result in the classification of the mixture as dangerous, and not included in the list under Number 5 on the basis of Article 57 letters d, e or f of Regulation (EC) No 1907/2006.
+- k. of substances present in preparations below a concentration limit of 0.1 % by mass included in the list under Number 5 on the basis of Article 57 letters d, e or f of Regulation (EC) No 1907/2006[^annex117-lvlu1-lvl2-2];
+- l. of substances present in preparations below the lowest of the concentration limits specified in Annex I number 1.1.2.2 of Regulation (EC) No 1272/2008[^annex117-lvlu1-lvl2-3] which result in the classification of the mixture as dangerous, and not included in the list under Number 5 on the basis of Article 57 letters d, e or f of Regulation (EC) No 1907/2006;
+- m. to maintain the Swiss Air Force’s aviation systems;
+- n.
+
+  to manufacture chemicals, medicinal products or medical devices in a closed system, provided the manufacturer proves that for a period of 10 years from the expiry of the transitional period for the substance listed in Number 5 paragraph 1:
+
+  - 1\. there is no emission into the environment, and
+  - 2\. human beings are not exposed to the product manufactured.
 
 <sup>2</sup> In addition, a prohibition specified in Number 1 does not apply:
 
@@ -2360,7 +2428,7 @@ It is prohibited to place on the market for use the substances listed in Number 
 
 <sup>3</sup> If so requested by the Notification Authority as specified in Article 77 ChemO, the importer must furnish the authorisation dossier submitted to the European Chemicals Agency, provided that it can be obtained without unreasonable effort.
 
-<sup>4</sup> On receipt of a justified request, the Notification Authority may, with the agreement of the Federal Office for the Environment (FOEN), the Federal Office of Public Health (FOPH) and SECO, grant further, temporary exemptions from the prohibitions specified in Number 1, with the assignment of a number (approval number), if:
+<sup>4</sup> On receipt of a justified request, the Notification Authority may, with the agreement of the Federal Office for the Environment (FOEN), the Federal Office of Public Health (FOPH) and the State Secretariat for Economic Affairs (SECO), grant further, temporary exemptions from the prohibitions specified in Number 1, with the assignment of a number (approval number), if:
 
 - a. the applicant provides the information specified in Article 62 paragraphs 4–6 of Regulation (EC) No 1907/2006, with the socioeconomic analysis being tailored to the situation in Switzerland; and
 - b. the requirements for the granting of an authorisation in accordance with Article 60 paragraphs 2–10 of Regulation (EC) No 1907/2006 are fulfilled *mutatis mutandis*.
@@ -2387,9 +2455,9 @@ It is prohibited to place on the market for use the substances listed in Number 
 - e. approved use;
 - f. term of and conditions attached to the approval.
 
-[^annex118-lvlu1-lvl2-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^annex118-lvlu1-lvl2-2]: See footnote on the title of this Annex.
-[^annex118-lvlu1-lvl2-3]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353, 31.12.2008, p. 1; last amended by Regulation (EU) 2015/491, OJ L 78, 24.3.2015, p. 12.
+[^annex117-lvlu1-lvl2-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex117-lvlu1-lvl2-2]: See footnote on the title of this Annex.
+[^annex117-lvlu1-lvl2-3]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353, 31.12.2008, p. 1; last amended by Regulation (EU) 2015/491, OJ L 78, 24.3.2015, p. 12.
 
 ### 3 Reporting requirements
 
@@ -2403,9 +2471,27 @@ It is prohibited to place on the market for use the substances listed in Number 
 - d. the location of the use;
 - e. details of the process in which the chromium(VI) compound is used.
 
+<sup>1ter</sup> Any person who uses a substance listed in Number 5 paragraph 1 substance or a preparation containing such as substance in a manufacturing process in accordance with Number 2 paragraph 1 letter n must, on making further use or use for the first time of the substance concerned, provide the Notification Authority within three months of the expiry of the transitional period for the substance with:
+
+- a.
+
+  notification of the following information:
+
+  - 1\. the user’s name and address,
+  - 2\. the location of the use,
+  - 3\. the name and CAS number of the substance or the name of the preparation containing the substance and its content of the substance by mass,
+  - 4\. the use intended for the manufactured product,
+  - 5\. the use for which the substance is intended and information on the fate of the substance in the manufacturing process;
+
+- b. proof in accordance with Number 2 paragraph 1 letter n that the use of the substance did not result in any emission into the environment or exposure of human beings to the substance.
+
 <sup>2</sup> The Notification Authority shall establish and keep up to date a register of reports made in accordance with paragraphs 1 and 1<sup>bis</sup>.
 
-### 4 ...
+### 4 Manufacturing process in a closed system
+
+<sup>1</sup> The Notification Authority shall in consultation with the FOEN, the FOPH and SECO assess and establish within six months of receipt of notification under Number 3 paragraph 1<sup>ter</sup> whether the use of the substances in a manufacturing process in a closed system meets the requirements of Number 2 paragraph 1 letter n.
+
+<sup>2</sup> If the requirements are not met, a full request in accordance with Number 2 paragraph 4 must be submitted within six months, failing which the Notification Authority shall order the discontinuation of the manufacturing process.
 
 ### 5 List of substances specified in Number 1 and transitional provisions
 
@@ -2416,7 +2502,7 @@ It is prohibited to place on the market for use the substances listed in Number 
 <tr><td>1.</td><td>5-tert-Butyl-2,4,6-trinitro-m-xylene (musk xylene) EC no: 201-329-4 CAS no: 81-15-2</td><td colspan="2">vPvB</td><td>21 August 2014</td><td>-</td><td>-</td></tr>
 <tr><td>2.</td><td>4,4'-methylenedianiline (MDA) EC no: 202-974-4 CAS no: 101-77-9</td><td colspan="2">Carcinogenic (category 1B)</td><td>21 August 2014</td><td>-</td><td>-</td></tr>
 <tr><td>3.</td><td>…</td><td colspan="2">…</td><td>…</td><td>-</td><td>-</td></tr>
-<tr><td>4.</td><td>di-(2-ethylhexyl) phthalate (DEHP) EC no: 204-211-0 CAS no: 117-81-7</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>21 February 2015</td><td>Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004[^annex118-lvlu1-lvl5-1], Directive 2001/82/EC[^annex118-lvlu1-lvl5-2] and/or Directive 2001/83/EC[^annex118-lvlu1-lvl5-3]</td><td></td></tr>
+<tr><td>4.</td><td>di-(2-ethylhexyl) phthalate (DEHP) EC no: 204-211-0 CAS no: 117-81-7</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>21 February 2015</td><td>Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004[^annex117-lvlu1-lvl5-1], Directive 2001/82/EC[^annex117-lvlu1-lvl5-2] and/or Directive 2001/83/EC[^annex117-lvlu1-lvl5-3]</td><td></td></tr>
 <tr><td>5.</td><td>Benzyl butyl phthalate (BBP) EC no: 201-622-7 CAS no: 85-68-7</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>21 February 2015</td><td>Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC and/or Directive 2001/83/EC</td><td></td></tr>
 <tr><td>6.</td><td>Dibutyl phthalate (DBP) EC no: 201-557-4 CAS no: 84-74-2</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>21 February 2015</td><td>Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC and/or Directive 2001/83/EC</td><td></td></tr>
 <tr><td>7.</td><td>Diisobutyl phthalate (DIBP) EC no: 201-553-2 CAS no: 84-69-5</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>21 February 2015</td><td>-</td><td>-</td></tr>
@@ -2479,20 +2565,20 @@ It is prohibited to place on the market for use the substances listed in Number 
 - a. manufacture of a replacement part in order to repair a product where the substance concerned is or was used in the manufacture of the product and the product will not function properly without this replacement part;
 - b. repair of a product where the substance concerned is or was used in the manufacture of the product and the product can only be repaired by using the substance concerned.
 
-<sup>2</sup> The FOEN, with the agreement of the FOPH and SECO, shall adapt the provisions specified in paragraph 1, taking into account any amendments to Annex XIV to Regulation (EC) No 1907/2006[^annex118-lvlu1-lvl5-4] and the entries in Annex 3 ChemO.
+<sup>2</sup> The FOEN, with the agreement of the FOPH and SECO, shall adapt the provisions specified in paragraph 1, taking into account any amendments to Annex XIV to Regulation (EC) No 1907/2006[^annex117-lvlu1-lvl5-4] and the entries in Annex 3 ChemO.
 
-[^annex118-lvlu1-lvl5-1]: Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, OJ L 136, 30.4.2004, p. 1; last amended by Regulation (EU) No 1027/2012, OJ L 316, 14.11.2012, p. 38.
-[^annex118-lvlu1-lvl5-2]: Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products, OJ L 311, 28.11.2001, p. 1; last amended by Regulation (EC) No 596/2009, OJ L 188, 18.7.2009, p. 14.
-[^annex118-lvlu1-lvl5-3]: Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use, OJ L 311, 28.11.2001, p. 67; last amended by Directive 2017/745, OJ L 117, 5.5.2017, p. 1.
-[^annex118-lvlu1-lvl5-4]: See footnote to the title of this Annex.
+[^annex117-lvlu1-lvl5-1]: Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, OJ L 136, 30.4.2004, p. 1; last amended by Regulation (EU) No 1027/2012, OJ L 316, 14.11.2012, p. 38.
+[^annex117-lvlu1-lvl5-2]: Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products, OJ L 311, 28.11.2001, p. 1; last amended by Regulation (EC) No 596/2009, OJ L 188, 18.7.2009, p. 14.
+[^annex117-lvlu1-lvl5-3]: Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use, OJ L 311, 28.11.2001, p. 67; last amended by Directive 2017/745, OJ L 117, 5.5.2017, p. 1.
+[^annex117-lvlu1-lvl5-4]: See footnote to the title of this Annex.
 
-Annex 1.18[^t-40]
+Annex 1.18[^t-19]
 
 (Art. 3)
 
 ## Phthalates
 
-[^t-40]: Inserted by No I of the O of 17 April 2019, in force since 1 June 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-19]: Inserted by No I of the O of 17 April 2019, in force since 1 June 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Definitions
 
@@ -2515,15 +2601,15 @@ Annex 1.18[^t-40]
 
 <sup>5</sup> For the purposes of Number 5 letter a No 1 and 3, an aircraft means:
 
-- a. a civil aircraft produced in accordance with a type certificate issued under Regulation (EU) 2018/1139[^annex2-lvlu1-lvl1-1] or with a design approval issued under the national regulations of a contracting state to the Convention on International Civil Aviation of 7 December 1944[^annex2-lvlu1-lvl1-2] of the International Civil Aviation Organization (ICAO), or for which a certificate of airworthiness has been issued by an ICAO contracting state under Annex 8 to the Convention[^annex2-lvlu1-lvl1-3];
+- a. a civil aircraft produced in accordance with a type certificate issued under Regulation (EU) 2018/1139[^annex118-lvlu1-lvl1-1] or with a design approval issued under the national regulations of a contracting state to the Convention on International Civil Aviation of 7 December 1944[^annex118-lvlu1-lvl1-2] of the International Civil Aviation Organization (ICAO), or for which a certificate of airworthiness has been issued by an ICAO contracting state under Annex 8 to the Convention[^annex118-lvlu1-lvl1-3];
 - b. a military aircraft.
 
-<sup>6</sup> For the purposes of Number 5 letter a No 2 and 4, a motor vehicle means a category M, N or O vehicle as defined in Annex II Section A number 1 of Directive 2007/46/EC[^annex2-lvlu1-lvl1-4].
+<sup>6</sup> For the purposes of Number 5 letter a No 2 and 4, a motor vehicle means a category M, N or O vehicle as defined in Annex II Section A number 1 of Directive 2007/46/EC[^annex118-lvlu1-lvl1-4].
 
-[^annex2-lvlu1-lvl1-1]: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91, version in accordance with OJ L 212 of 22.8.2018, p. 1.
-[^annex2-lvlu1-lvl1-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^annex2-lvlu1-lvl1-3]: The list of states can be found on the ICAO website at www.icao.int &gt; About ICAO &gt; List Member States.
-[^annex2-lvlu1-lvl1-4]: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive), OJ L 263 of 9.10.2007, p. 1; last amended by Regulation (EU) 2017/1347, OJ L 192 of 24.7.2017, p. 1.
+[^annex118-lvlu1-lvl1-1]: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91, version in accordance with OJ L 212 of 22.8.2018, p. 1.
+[^annex118-lvlu1-lvl1-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^annex118-lvlu1-lvl1-3]: The list of states can be found on the ICAO website at www.icao.int &gt; About ICAO &gt; List Member States.
+[^annex118-lvlu1-lvl1-4]: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive), OJ L 263 of 9.10.2007, p. 1; last amended by Regulation (EU) 2017/1347, OJ L 192 of 24.7.2017, p. 1.
 
 ### 2 Prohibitions
 
@@ -2531,11 +2617,11 @@ Annex 1.18[^t-40]
 
 <sup>2</sup> For the placing on the market of electrical and electronic equipment, Annex 2.18 applies.
 
-### 3 Relationship to the Foodstuffs and Utility Articles Ordinance of 16 December 2016 (FUAO)
+### 3 Relationship to the Foodstuffs and Utility Articles Ordinance of 16 December 2016 <sup>(</sup>FUAO)
 
-[^annex2-lvlu1-lvl3-1]
+[^annex118-lvlu1-lvl3-1]
 
-[^annex2-lvlu1-lvl3-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex118-lvlu1-lvl3-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 For the placing on the market of phthalate-containing consumer articles, toys and utility articles for infants and small children, the FUAO applies.
 
@@ -2544,14 +2630,14 @@ For the placing on the market of phthalate-containing consumer articles, toys an
 <sup>1</sup> Exempted from the prohibition specified in Number 2 paragraph 1 are:
 
 - a. measuring devices for laboratory purposes and parts of such devices;
-- b. the immediate packaging of medicinal products within the scope of Regulation (EC) No 726/2004[^annex2-lvlu1-lvl4-1], Directive 2001/82/EC[^annex2-lvlu1-lvl4-2] and/or Directive 2001/83/EC[^annex2-lvlu1-lvl4-3];
-- c. medical devices within the scope of the Medical Devices Ordinance of 17 October 2011[^annex2-lvlu1-lvl4-4] and components for such devices;
+- b. the immediate packaging of medicinal products within the scope of Regulation (EC) No 726/2004[^annex118-lvlu1-lvl4-1], Directive 2001/82/EC[^annex118-lvlu1-lvl4-2] and/or Directive 2001/83/EC[^annex118-lvlu1-lvl4-3];
+- c. medical devices within the scope of the Medical Devices Ordinance of 17 October 2011[^annex118-lvlu1-lvl4-4] and components for such devices;
 - d. articles exclusively for industrial or agricultural use, or for use exclusively in the open air, provided that no material containing phthalate comes into contact with human mucous membrane or into prolonged contact with human skin.
 
-[^annex2-lvlu1-lvl4-1]: Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, OJ L 136 of 30.4.2004, p. 1; last amended by Regulation (EU) No 1027/2012, OJ L 316 of 14.11.2012, p. 38.
-[^annex2-lvlu1-lvl4-2]: Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products, OJ L 311 of 28.11.2001, p. 1; last amended by Regulation (EC) No 596/2009, OJ L 188 of 18.7.2009, p. 14.
-[^annex2-lvlu1-lvl4-3]: Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use, OJ L 311 of 28.11.2001, p. 67; last amended by Regulation (EU) 2017/745, OJ L 117 of 5.5.2017, p. 1.
-[^annex2-lvlu1-lvl4-4]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex118-lvlu1-lvl4-1]: Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, OJ L 136 of 30.4.2004, p. 1; last amended by Regulation (EU) No 1027/2012, OJ L 316 of 14.11.2012, p. 38.
+[^annex118-lvlu1-lvl4-2]: Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products, OJ L 311 of 28.11.2001, p. 1; last amended by Regulation (EC) No 596/2009, OJ L 188 of 18.7.2009, p. 14.
+[^annex118-lvlu1-lvl4-3]: Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use, OJ L 311 of 28.11.2001, p. 67; last amended by Regulation (EU) 2017/745, OJ L 117 of 5.5.2017, p. 1.
+[^annex118-lvlu1-lvl4-4]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 ### 5 Transitional provisions
 
@@ -2572,13 +2658,13 @@ Annex 2
 
 ## Provisions relating to groups of preparations and articles
 
-Annex 2.1[^t-41]
+Annex 2.1[^t-20]
 
 (Art. 3)
 
 ## Laundry detergents
 
-[^t-41]: Revised by No I 3 of the O of 15 Dec. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Annex No 2 of the O of 14 Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-20]: Revised by No I 3 of the O of 15 Dec. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Annex No 2 of the O of 14 Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definition
 
@@ -2606,18 +2692,18 @@ Annex 2.1[^t-41]
 - e. anionic or non-ionic surfactants for which the level of primary biodegradability is less than 80%;
 - f. cationic or amphoteric surfactants for which the level of primary biodegradability is less than 80%;
 - g. surfactants for which the level of ultimate biodegradability is less than 60% (mineralisation) or 70% (dissolved organic carbon die-away);
-- h. surfactants listed in Annex VI to Regulation (EC) No 648/2004 of the European Parliament and of the Council of 31 March 2004[^annex22-lvlu1-lvl2-1] on detergents:
+- h. surfactants listed in Annex VI to Regulation (EC) No 648/2004 of the European Parliament and of the Council of 31 March 2004[^annex21-lvlu1-lvl2-1] on detergents:
 
 <table>
-<tr><td>Name (IUPAC[^annex22-lvlu1-lvl2-2] nomenclature)</td><td>EINECS or ELINCS no</td><td>CAS no</td><td>Limitations</td></tr>
+<tr><td>Name (IUPAC[^annex21-lvlu1-lvl2-2] nomenclature)</td><td>EINECS or ELINCS no</td><td>CAS no</td><td>Limitations</td></tr>
 </table>
 
 <sup>2</sup> The FOEN shall amend the provisions of paragraph 1 letter h to comply with amendments to Regulation (EC) No 648/2004.
 
 <sup>3</sup> The test and analytical methods are based on Annexes II, III and VIII to Regulation (EC) No 648/2004.
 
-[^annex22-lvlu1-lvl2-1]: OJ L 104 of 8.4.2004, p.1, last amended by Commission Regulation (EC) No 907/2006 of 20 June 2006 (OJ. L 168 of 21.6.2006, p. 5).The texts of the European Union legal documents mentioned in this Annex may be obtained against payment or consulted free of charge at the Chemicals Notification Authority, 3003 Bern; they may also be accessed on the Internet at www.cheminfo.ch.
-[^annex22-lvlu1-lvl2-2]: International Union of Pure and Applied Chemistry.
+[^annex21-lvlu1-lvl2-1]: OJ L 104 of 8.4.2004, p.1, last amended by Commission Regulation (EC) No 907/2006 of 20 June 2006 (OJ. L 168 of 21.6.2006, p. 5).The texts of the European Union legal documents mentioned in this Annex may be obtained against payment or consulted free of charge at the Chemicals Notification Authority, 3003 Bern; they may also be accessed on the Internet at www.cheminfo.ch.
+[^annex21-lvlu1-lvl2-2]: International Union of Pure and Applied Chemistry.
 
 ### 3 Special labelling
 
@@ -2653,19 +2739,19 @@ Annex 2.1[^t-41]
 - d. optical brighteners;
 - e. perfumes.
 
-<sup>3bis</sup> If an INCI designation[^annex22-lvlu1-lvl3-1] exists, preservation agents are to be indicated accordingly.
+<sup>3bis</sup> If an INCI designation[^annex21-lvlu1-lvl3-1] exists, preservation agents are to be indicated accordingly.
 
-<sup>4</sup> If added, as such, at concentrations exceeding 0.01 by weight, allergenic fragrances that are included in the list of substances in Annex III to Regulation (EC) No 1223/2009[^annex22-lvlu1-lvl3-2] in column a with the reference numbers 45, 67, or 69 to 92 shall be listed using the nomenclature of that Regulation.
+<sup>4</sup> If added, as such, at concentrations exceeding 0.01 by weight, allergenic fragrances that are included in the list of substances in Annex III to Regulation (EC) No 1223/2009[^annex21-lvlu1-lvl3-2] in column a with the reference numbers 45, 67, or 69 to 92 shall be listed using the nomenclature of that Regulation.
 
-<sup>4bis</sup> In the case of laundry detergents, the product name must be indicated as well as the manufacturer’s name, address and telephone number. If the laundry detergent is imported from an EEA Member State, the name address and telephone number of the party responsible for the first placing of the product on the market in the EEA may be indicated. This does not apply to imports of dangerous laundry detergents within the meaning of Article 3 of the Chemicals Ordinance of 5 June 2015[^annex22-lvlu1-lvl3-3] (ChemO) which are intended for supply to the general public.
+<sup>4bis</sup> In the case of laundry detergents, the product name must be indicated as well as the manufacturer’s name, address and telephone number. If the laundry detergent is imported from an EEA Member State, the name address and telephone number of the party responsible for the first placing of the product on the market in the EEA may be indicated. This does not apply to imports of dangerous laundry detergents within the meaning of Article 3 of the Chemicals Ordinance of 5 June 2015[^annex21-lvlu1-lvl3-3] (ChemO) which are intended for supply to the general public.
 
 <sup>5</sup> Also to be indicated in the case of laundry detergents are the address, e-mail address (where available) and telephone number from which the ingredient data sheet specified in Number 5 can be obtained.
 
 <sup>6</sup> The information must appear on the packaging. If the laundry detergent is supplied for professional or commercial use, the information may be provided in another appropriate form (e.g. technical data sheets, safety data sheets).
 
-[^annex22-lvlu1-lvl3-1]: International Nomenclature of Cosmetic Ingredients.
-[^annex22-lvlu1-lvl3-2]: Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products, OJ L 342, 22.12.2009, p. 59; last amended by Regulation (EU) No 358/2014, OJ L 107, 10.4.2014, p. 5.
-[^annex22-lvlu1-lvl3-3]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex21-lvlu1-lvl3-1]: International Nomenclature of Cosmetic Ingredients.
+[^annex21-lvlu1-lvl3-2]: Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products, OJ L 342, 22.12.2009, p. 59; last amended by Regulation (EU) No 358/2014, OJ L 107, 10.4.2014, p. 5.
+[^annex21-lvlu1-lvl3-3]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 ### 4 Instructions for use
 
@@ -2694,15 +2780,15 @@ Annex 2.1[^t-41]
   - – 0.1% or over, but less than 1%,
   - – less than 0.1%;
 
-- d. for each ingredient, the common chemical name or IUPAC name, the CAS number and, where available, the INCI[^annex22-lvlu1-lvl5-1] name and the Swiss or European Pharmacopoeia name shall be given. Impurities are not considered to be ingredients.
+- d. for each ingredient, the common chemical name or IUPAC name, the CAS number and, where available, the INCI[^annex21-lvlu1-lvl5-1] name and the Swiss or European Pharmacopoeia name shall be given. Impurities are not considered to be ingredients.
 
-[^annex22-lvlu1-lvl5-1]: International Nomenclature of Cosmetic Ingredients.
+[^annex21-lvlu1-lvl5-1]: International Nomenclature of Cosmetic Ingredients.
 
 ### 6 Exemptions
 
 <sup>1</sup> The requirements specified in Numbers 2–5 do not apply to the import of laundry detergents which are only finished or repackaged in Switzerland and then re‑exported in their entirety.
 
-<sup>2</sup> Number 2 paragraph 1 letters e–h does not apply to surfactants which are active ingredients of disinfectants approved under the OBP[^annex22-lvlu1-lvl6-1]. In addition, Numbers 4 and 5 do not apply to such disinfectants.
+<sup>2</sup> Number 2 paragraph 1 letters e–h does not apply to surfactants which are active ingredients of disinfectants approved under the OBP[^annex21-lvlu1-lvl6-1]. In addition, Numbers 4 and 5 do not apply to such disinfectants.
 
 <sup>3</sup> The prohibition specified in Number 2 paragraph 1 letter g does not apply to the following surfactants listed in Annex V to Regulation (EC) No 648/2004:
 
@@ -2714,7 +2800,7 @@ Annex 2.1[^t-41]
 
 <sup>5</sup> On receipt of a justified request, it may grant further exemptions to the prohibition specified in Number 2 paragraph 1 letter g for surfactants not listed in Annex V or VI to Regulation (EC) No 648/2004, provided that they are used in laundry detergents employed exclusively outside the domestic sphere. Here, it shall take into account the criteria laid down in Annex IV to Regulation (EC) No 648/2004.
 
-[^annex22-lvlu1-lvl6-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex21-lvlu1-lvl6-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 
 ### 7 Transitional provisions
 
@@ -2733,13 +2819,13 @@ Annex 2.1[^t-41]
 
 <sup>4</sup> The provisions of paragraphs 2 and 3 apply until a decision has been made by the relevant authority on the application for approval of an exemption.
 
-Annex 2.2[^t-42]
+Annex 2.2[^t-21]
 
 (Art. 3)
 
 ## Cleaning, deodorising and cosmetic products
 
-[^t-42]: Revised by No I 3 of the O of 15 Dec. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Annex No 2 of the O of 14 Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), No I of the FOEN Ordinance of 19 Oct. 2009 ([AS 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-21]: Revised by No I 3 of the O of 15 Dec. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Annex No 2 of the O of 14 Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), No I of the FOEN Ordinance of 19 Oct. 2009 ([AS 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definition
 
@@ -2771,10 +2857,10 @@ Annex 2.2[^t-42]
 - c. anionic or non-ionic surfactants for which the level of primary biodegradability is less than 80%;
 - d. cationic or amphoteric surfactants for which the level of primary biodegradability is less than 80%;
 - e. surfactants for which the level of ultimate biodegradability is less than 60% (mineralisation) or 70% (dissolved organic carbon die-away);
-- f. surfactants listed in Annex VI to Regulation (EC) 648/2004 of the European Parliament and of the Council of 31 March 2004[^annex23-lvlu1-lvl1bis-1] on detergents:
+- f. surfactants listed in Annex VI to Regulation (EC) 648/2004 of the European Parliament and of the Council of 31 March 2004[^annex22-lvlu1-lvl2-1] on detergents:
 
 <table>
-<tr><td>Name (IUPAC[^annex23-lvlu1-lvl1bis-2] nomenclature)</td><td>EINECS or ELINCS no</td><td>CAS no</td><td>Limitations</td></tr>
+<tr><td>Name (IUPAC[^annex22-lvlu1-lvl2-2] nomenclature)</td><td>EINECS or ELINCS no</td><td>CAS no</td><td>Limitations</td></tr>
 </table>
 
 <sup>1bis</sup> It is prohibited to place on the market household machine dishwashing detergents which have a total phosphorus content of 0.3 g or more in the standard dosage as defined in Number 4 paragraph 1.
@@ -2789,8 +2875,8 @@ Annex 2.2[^t-42]
 
 <sup>6</sup> Wash-off cosmetic products may not be placed on the market if their content of octamethylcyclotetrasiloxane (D4, CAS no 556-67-2) or decamethylcyclopentasiloxane (D5, CAS no 541-02-6) amounts to 0.1 per cent or more.
 
-[^annex23-lvlu1-lvl1bis-1]: OJ L 104 of 8.4.2004, p.1, last amended by Regulation (EC) No 551/2009 of the Commission of 25 June 2009 (OJ L 164 of 26.6.2009, p. 3). The texts of the European Union legal documents mentioned in this Annex may be obtained against payment or consulted free of charge at the Chemicals Notification Authority, 3003 Bern; they may also be accessed on the Internet at www.cheminfo.ch.
-[^annex23-lvlu1-lvl1bis-2]: International Union of Pure and Applied Chemistry.
+[^annex22-lvlu1-lvl2-1]: OJ L 104 of 8.4.2004, p.1, last amended by Regulation (EC) No 551/2009 of the Commission of 25 June 2009 (OJ L 164 of 26.6.2009, p. 3). The texts of the European Union legal documents mentioned in this Annex may be obtained against payment or consulted free of charge at the Chemicals Notification Authority, 3003 Bern; they may also be accessed on the Internet at www.cheminfo.ch.
+[^annex22-lvlu1-lvl2-2]: International Union of Pure and Applied Chemistry.
 
 ### 3 Special labelling
 
@@ -2828,11 +2914,11 @@ Annex 2.2[^t-42]
 - c. disinfectants;
 - d. perfumes.
 
-<sup>3bis</sup> If an INCI designation[^annex23-lvlu1-lvl2-1] exists, preservation agents are to be indicated accordingly.
+<sup>3bis</sup> If an INCI designation[^annex22-lvlu1-lvl3-1] exists, preservation agents are to be indicated accordingly.
 
-<sup>4</sup> If added, as such, at concentrations exceeding 0.01 by weight, allergenic fragrances that are included in the list of substances in Annex III of Regulation (EC) No 1223/2009[^annex23-lvlu1-lvl2-2] in column a with the reference numbers 45, 67, or 69 to 92 shall be listed using the nomenclature of that Regulation.
+<sup>4</sup> If added, as such, at concentrations exceeding 0.01 by weight, allergenic fragrances that are included in the list of substances in Annex III of Regulation (EC) No 1223/2009[^annex22-lvlu1-lvl3-2] in column a with the reference numbers 45, 67, or 69 to 92 shall be listed using the nomenclature of that Regulation.
 
-<sup>4bis</sup> In the case of cleaning, the product name must be indicated as well as the manufacturer’s name, address and telephone number. If the cleaning product is imported from an EEA Member State, the name address and telephone number of the party responsible for first placing the product on the market in the EEA may be indicated. This does not apply to imports of dangerous cleaning products within the meaning of Article 3 of the Chemicals Ordinance of 5 June 2015[^annex23-lvlu1-lvl2-3] (ChemO), which are intended for supply to the general public.
+<sup>4bis</sup> In the case of cleaning, the product name must be indicated as well as the manufacturer’s name, address and telephone number. If the cleaning product is imported from an EEA Member State, the name address and telephone number of the party responsible for first placing the product on the market in the EEA may be indicated. This does not apply to imports of dangerous cleaning products within the meaning of Article 3 of the Chemicals Ordinance of 5 June 2015[^annex22-lvlu1-lvl3-3] (ChemO), which are intended for supply to the general public.
 
 <sup>5</sup> Also to be indicated in the case of cleaning products are the address, e-mail address (where available) and telephone number from which the ingredient data sheet specified in Number 5 can be obtained.
 
@@ -2840,9 +2926,9 @@ Annex 2.2[^t-42]
 
 <sup>7</sup> The labelling must appear in at least one official language, be clearly legible and indelible.
 
-[^annex23-lvlu1-lvl2-1]: International Nomenclature of Cosmetic Ingredients.
-[^annex23-lvlu1-lvl2-2]: Regulation (EC) No 1223/2009 of the European Council and of the Council of 30 November 2009 on cosmetic products, OJ L 342, 22.12.2009, p. 59; last amended by Regulation (EU) No 358/2014, OJ L 107, 10.4.2014, p. 5.
-[^annex23-lvlu1-lvl2-3]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex22-lvlu1-lvl3-1]: International Nomenclature of Cosmetic Ingredients.
+[^annex22-lvlu1-lvl3-2]: Regulation (EC) No 1223/2009 of the European Council and of the Council of 30 November 2009 on cosmetic products, OJ L 342, 22.12.2009, p. 59; last amended by Regulation (EU) No 358/2014, OJ L 107, 10.4.2014, p. 5.
+[^annex22-lvlu1-lvl3-3]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 ### 4 Instructions for use
 
@@ -2871,9 +2957,9 @@ Annex 2.2[^t-42]
   - – 0.1% or over, but less than 1%,
   - – less than 0.1%;
 
-- d. for each ingredient, the common chemical name or IUPAC name, the CAS number and, where available, the INCI[^annex23-lvlu1-lvl4-1] name and the Swiss or European Pharmacopoeia name shall be given. Impurities are not considered to be ingredients.
+- d. for each ingredient, the common chemical name or IUPAC name, the CAS number and, where available, the INCI[^annex22-lvlu1-lvl5-1] name and the Swiss or European Pharmacopoeia name shall be given. Impurities are not considered to be ingredients.
 
-[^annex23-lvlu1-lvl4-1]: International Nomenclature of Cosmetic Ingredients.
+[^annex22-lvlu1-lvl5-1]: International Nomenclature of Cosmetic Ingredients.
 
 ### 6 Exemptions
 
@@ -2884,7 +2970,7 @@ Annex 2.2[^t-42]
 - a. according to the state of the art, no substitute is available; and
 - b. the quantity of the substances used is no greater than is required for the intended purpose.
 
-<sup>3</sup> Number 2 paragraph 1 letters c–f do not apply to surfactants which are active ingredients of disinfectants that are approved under the OBP[^annex23-lvlu1-lvl5-1] or comply with the requirements of the Medical Devices Ordinance of 17 October 2001[^annex23-lvlu1-lvl5-2]. In addition, Numbers 4 and 5 are not applicable to such disinfectants.
+<sup>3</sup> Number 2 paragraph 1 letters c–f do not apply to surfactants which are active ingredients of disinfectants that are approved under the OBP[^annex22-lvlu1-lvl6-1] or comply with the requirements of the Medical Devices Ordinance of 17 October 2001[^annex22-lvlu1-lvl6-2]. In addition, Numbers 4 and 5 are not applicable to such disinfectants.
 
 <sup>4</sup> The prohibition specified in Number 2 paragraph 1 letter e does not apply to the following surfactants listed in Annex V to Regulation (EC) 648/2004:
 
@@ -2897,8 +2983,8 @@ Annex 2.2[^t-42]
 
 <sup>6</sup> On receipt of a justified request, it may grant further exemptions to the prohibition specified in Number 2 paragraph 1 letter e for surfactants not listed in Annex V or VI to Regulation (EC) No 648/2004. Here, it shall take account of the criteria laid down in Annex IV to Regulation (EC) 648/2004.
 
-[^annex23-lvlu1-lvl5-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^annex23-lvlu1-lvl5-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex22-lvlu1-lvl6-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex22-lvlu1-lvl6-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 ### 7 Transitional provisions
 
@@ -2921,13 +3007,13 @@ Annex 2.2[^t-42]
 
 <sup>6</sup> In the case of household machine dishwashing detergents placed on the market in accordance with paragraph 5, the dosage indicated for the detergent in the instructions for use must be such that, if complied with, the quantity of phosphorus used per washing cycle does not exceed 2.5g.
 
-Annex 2.3[^t-43]
+Annex 2.3[^t-22]
 
 (Art. 3)
 
 ## Solvents
 
-[^t-43]: Amended by No II 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-22]: Amended by No II 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Methanol
 
@@ -2999,7 +3085,7 @@ It is prohibited:
 
 ### 4.2 Exemptions
 
-<sup>1</sup> The prohibition specified in Number 4.1 letter a does not apply to substances stable in the atmosphere, or preparations containing such substances, which are used in surface treatment installations as specified in Annex 2 Number 87 of the Air Pollution Control Ordinance of 16 December 1985[^annex24-lvlu1-lvl4bis-lvl4bis.2-1].
+<sup>1</sup> The prohibition specified in Number 4.1 letter a does not apply to substances stable in the atmosphere, or preparations containing such substances, which are used in surface treatment installations as specified in Annex 2 Number 87 of the Air Pollution Control Ordinance of 16 December 1985[^annex23-lvlu1-lvl4-lvl42-1].
 
 <sup>2</sup> On receipt of a justified request, the FOEN may grant temporary exemptions to the prohibitions specified in Number 4.1 for further uses if:
 
@@ -3007,18 +3093,18 @@ It is prohibited:
 - b. the quantity and the global warming potential of the substances stable in the atmosphere being used are no greater than is required for the intended purpose according to the state of the art; and
 - c. emissions of substances stable in the atmosphere are kept as low as possible throughout the life cycle of the intended use.
 
-[^annex24-lvlu1-lvl4bis-lvl4bis.2-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex23-lvlu1-lvl4-lvl42-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
 ### 4.3 Special labelling
 
-<sup>1</sup> Containers containing or designed to contain substances which are listed in Annex I to Regulation (EU) No 517/2014[^annex24-lvlu1-lvl4bis-lvl4bis.3-1] must be labelled with the following information:
+<sup>1</sup> Containers containing or designed to contain substances which are listed in Annex I to Regulation (EU) No 517/2014[^annex23-lvlu1-lvl4-lvl43-1] must be labelled with the following information:
 
 - a. the text: «Contains fluorinated greenhouse gases»;
 - b. the abbreviated chemical names for the substances stable in the atmosphere contained in the containers, using the industry nomenclature accepted for the area concerned;
 - c. the quantity of the substances expressed in kg and in tonnes of CO<sub>2</sub> equivalent, and the global warming potential of the substances.
 - [tab] <sup>2</sup> …
 
-[^annex24-lvlu1-lvl4bis-lvl4bis.3-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006, version in accordance with OJ L 150 of 20.5.2014, p. 195.
+[^annex23-lvlu1-lvl4-lvl43-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006, version in accordance with OJ L 150 of 20.5.2014, p. 195.
 
 ### 5 Halogenated solvent wastes handling
 
@@ -3061,28 +3147,28 @@ The canton may require holders of halogenated solvent wastes or companies who ac
 
 ### 6 Transitional provisions
 
-<sup>1</sup> For paints, contact adhesives and paint strippers, labelling as specified in Numbers 1.2, 2.1 and 3.2 of the ORRChem in the version of 7 November 2012[^annex24-lvlu1-lvl6-1] remains permitted until 31 May 2020.
+<sup>1</sup> For paints, contact adhesives and paint strippers, labelling as specified in Numbers 1.2, 2.1 and 3.2 of the ORRChem in the version of 7 November 2012[^annex23-lvlu1-lvl6-1] remains permitted until 31 May 2020.
 
-<sup>2</sup> For containers containing substances stable in the atmosphere which are listed in Annex A to the Kyoto Protocol to the United Nations Framework Convention on Climate Change of 11 December 1997[^annex24-lvlu1-lvl6-2] (Kyoto Protocol), labelling as specified in Number 4.3 of the ORRChem in the version of 7 November 2012 remains permitted until 31 May 2020.
+<sup>2</sup> For containers containing substances stable in the atmosphere which are listed in Annex A to the Kyoto Protocol to the United Nations Framework Convention on Climate Change of 11 December 1997[^annex23-lvlu1-lvl6-2] (Kyoto Protocol), labelling as specified in Number 4.3 of the ORRChem in the version of 7 November 2012 remains permitted until 31 May 2020.
 
 - [tab]
 
-[^annex24-lvlu1-lvl6-1]: [AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)
-[^annex24-lvlu1-lvl6-2]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex23-lvlu1-lvl6-1]: [AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)
+[^annex23-lvlu1-lvl6-2]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Annex 2.4[^t-44]
+Annex 2.4[^t-23]
 
 (Art. 3)
 
 ## Biocidal products
 
-[^t-44]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Annex No 2 of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-23]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Annex No 2 of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Wood preservatives
 
 ### 1.1 Definitions
 
-<sup>1</sup> *Wood preservatives* are biocidal products of product type 8 as defined in Annex 10 to the OBP[^annex25-lvlu1-lvl1-lvl11-1].
+<sup>1</sup> *Wood preservatives* are biocidal products of product type 8 as defined in Annex 10 to the OBP[^annex24-lvlu1-lvl1-lvl11-1].
 
 <sup>2</sup> *Tar oils* refers in particular to:
 
@@ -3096,7 +3182,7 @@ Annex 2.4[^t-44]
 - h. creosote, wood (CAS no 8021-39-4);
 - i. low-temperature tar oil, alkaline; extract residues (coal) (CAS no 122384‑78‑5).
 
-[^annex25-lvlu1-lvl1-lvl11-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex24-lvlu1-lvl1-lvl11-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 
 ### 1.2 Prohibitions
 
@@ -3131,9 +3217,9 @@ Annex 2.4[^t-44]
 
 <sup>4</sup> The prohibition specified in Number 1.2 paragraph 3 does not apply to the import of wood which is only finished or repackaged in Switzerland and then re-exported in its entirety.
 
-<sup>5</sup> The Notification Authority (Art. 77 of the Chemicals Ordinance of 5 June 2015[^annex25-lvlu1-lvl1-lvl13-1]) may grant exceptions from the prohibition specified in Number 1.2 paragraph 3. It shall make its decision with the agreement of the competent assessment authorities specified in Article 52 OBP.
+<sup>5</sup> The Notification Authority (Art. 77 of the Chemicals Ordinance of 5 June 2015[^annex24-lvlu1-lvl1-lvl13-1]) may grant exceptions from the prohibition specified in Number 1.2 paragraph 3. It shall make its decision with the agreement of the competent assessment authorities specified in Article 52 OBP.
 
-[^annex25-lvlu1-lvl1-lvl13-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex24-lvlu1-lvl1-lvl13-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 ### 1.4 Use in groundwater protection zones
 
@@ -3190,9 +3276,9 @@ It is prohibited to place on the market or use rodenticides containing:
 
 ### 4<sup>bis</sup> Biocidal products used to control algae and mosses
 
-[^annex25-lvlu1-lvl4bis-1]
+[^annex24-lvlu1-lvl4bis-1]
 
-[^annex25-lvlu1-lvl4bis-1]: In force from 1 Dec. 2020 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^annex24-lvlu1-lvl4bis-1]: In force from 1 Dec. 2020 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 4<sup>bis</sup>.1 Definitions
 
@@ -3247,13 +3333,13 @@ The prohibitions specified in this Annex do not apply to the placing on the mark
 - d. utility pole and pylon bases;
 - e. other installations having a purpose similar to the installations specified in letters a to d and which are located outside residential areas; the FOEN shall issue recommendations for enforcement authorities after consulting the relevant federal offices.
 
-Annex 2.5[^t-45]
+Annex 2.5[^t-24]
 
 (Art. 3)
 
 ## Plant protection products
 
-[^t-45]: Revised by No I 3 of the O of 29 June 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Annex 9 No 1 of the Direct Payments Ordinance of 23 Oct. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Annex No 2 of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), No I of the O of 14 Oct. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-24]: Revised by No I 3 of the O of 29 June 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Annex 9 No 1 of the Direct Payments Ordinance of 23 Oct. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Annex No 2 of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), No I of the O of 14 Oct. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Use
 
@@ -3265,7 +3351,7 @@ Annex 2.5[^t-45]
 - b. in reed beds and mires;
 - c. in hedges and groves and in a 3m-wide strip alongside hedges and groves;
 - d. in forests and in a 3m-wide strip alongside the stand of trees;
-- e. in surface waters and in a 3m-wide strip alongside surface waters, whereby the strip alongside watercourses for which a space for waters has been specified in accordance with Article 41*a* WPO[^annex26-lvlu1-lvl1-lvl11-1] or for which a space for waters has been expressly dispensed with under 41*a* paragraph 5 WPO is measured from the shore line, and in the case of other watercourses and standing waters from the top edge of the bank in accordance with the buffer strip information sheet «Measuring and managing buffers strips correctly», KIP/PIOCH 2009[^annex26-lvlu1-lvl1-lvl11-2];
+- e. in surface waters and in a 3m-wide strip alongside surface waters, whereby the strip alongside watercourses for which a space for waters has been specified in accordance with Article 41*a* WPO[^annex25-lvlu1-lvl1-lvl11-1] or for which a space for waters has been expressly dispensed with under 41*a* paragraph 5 WPO is measured from the shore line, and in the case of other watercourses and standing waters from the top edge of the bank in accordance with the buffer strip information sheet «Measuring and managing buffers strips correctly», KIP/PIOCH 2009[^annex25-lvlu1-lvl1-lvl11-2];
 - f. in groundwater protection zone S1;
 - g. on or alongside railway track installations in groundwater protection zones S2 and S<sub>h</sub>.
 
@@ -3276,15 +3362,15 @@ Annex 2.5[^t-45]
 - c. on or along roads, paths and squares;
 - d. on embankments and verges along roads and railways.
 
-<sup>3</sup> The use of plant protection products in groundwater protection zones S2 and S<sub>h</sub> is governed by the Ordinance of 12 May 2010[^annex26-lvlu1-lvl1-lvl11-3] on Plant Protection Products.
+<sup>3</sup> The use of plant protection products in groundwater protection zones S2 and S<sub>h</sub> is governed by the Ordinance of 12 May 2010[^annex25-lvlu1-lvl1-lvl11-3] on Plant Protection Products.
 
 <sup>4</sup> With regard to the use of plant protection products in the areas of contribution *Z**<sub>u</sub>* and *Z**<sub>o</sub>*, the cantons, taking account of the exemptions specified in Number 1.2 paragraphs 2, 4 and 5, shall specify restrictions going beyond those listed in paragraphs 1 and 2 if this is necessary to ensure water protection. In particular, they shall restrict the use of a plant protection product in the area of contribution *Z**<sub>u</sub>* if the product is detected at a drinking water well and the requirements for groundwater which is used or intended for use are repeatedly not met.
 
 <sup>5</sup> With regard to the use of plant protection products on or alongside railway track installations outside groundwater protection zones S1, S2 and S<sub>h</sub>, the Federal Office of Transport shall specify the restrictions and prohibitions required to ensure protection of the environment. It shall take local conditions into account and consult the cantons concerned before making its decision.
 
-[^annex26-lvlu1-lvl1-lvl11-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
-[^annex26-lvlu1-lvl1-lvl11-2]: The information sheet may be obtained (not in English) from Agridea, 8315 Lindau.
-[^annex26-lvlu1-lvl1-lvl11-3]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^annex25-lvlu1-lvl1-lvl11-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex25-lvlu1-lvl1-lvl11-2]: The information sheet may be obtained (not in English) from Agridea, 8315 Lindau.
+[^annex25-lvlu1-lvl1-lvl11-3]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
 
 ### 1.2 Exemptions
 
@@ -3334,7 +3420,7 @@ It is prohibited to export or to move the following substances, or preparations 
 <tr><td>Atrazine</td><td>1912-24-9</td></tr>
 <tr><td>Diafenthiuron</td><td>80060-09-9</td></tr>
 <tr><td>Methidathion</td><td>950-37-8</td></tr>
-<tr><td>Paraquat and its salts, including: ‒ Paraquat-dichloride ‒ Paraquat-dimethylsulphate</td><td>4685-14-7 1910-42-5, 75365-73-0 2074-50-2</td></tr>
+<tr><td>Paraquat and its salts, including: ‒ Paraquat-dichloride ‒ Paraquat-dimethylsulfate</td><td>4685-14-7 1910-42-5, 75365-73-0 2074-50-2</td></tr>
 <tr><td>Profenofos</td><td>41198-08-7</td></tr>
 </table>
 
@@ -3456,12 +3542,12 @@ Any person who wishes to export the following substances, or preparations that i
 
 <sup>1</sup> An export licence shall be issued if the applicant submits a duly completed application in accordance with Number 4.2.3.
 
-<sup>2</sup> If the export is being made to a country that is not a signatory[^annex26-lvlu1-lvl4-lvl42-lvl422-1] to the Rotterdam Convention of 10 September 1998[^annex26-lvlu1-lvl4-lvl42-lvl422-2], an export licence shall only be issued if the FOEN has received a certificate from the importing country confirming that the latter has authorises the import.
+<sup>2</sup> If the export is being made to a country that is not a signatory[^annex25-lvlu1-lvl4-lvl42-lvl422-1] to the Rotterdam Convention of 10 September 1998[^annex25-lvlu1-lvl4-lvl42-lvl422-2], an export licence shall only be issued if the FOEN has received a certificate from the importing country confirming that the latter has authorises the import.
 
 <sup>3</sup> If the export is being made to a country that is a signatory to the Rotterdam Convention, an export licence shall only be issued if the FOEN has received authorisation from the importing country.
 
-[^annex26-lvlu1-lvl4-lvl42-lvl422-1]: The list may be obtained against payment from or consulted free of charge at FOEN, 3003 Bern or accessed at www.pic.int &gt; Countries &gt; Status of ratifications
-[^annex26-lvlu1-lvl4-lvl42-lvl422-2]: [SR 0.916.21](https://fedlex.data.admin.ch/eli/cc/2004/466)
+[^annex25-lvlu1-lvl4-lvl42-lvl422-1]: The list may be obtained against payment from or consulted free of charge at FOEN, 3003 Bern or accessed at www.pic.int &gt; Countries &gt; Status of ratifications
+[^annex25-lvlu1-lvl4-lvl42-lvl422-2]: [SR 0.916.21](https://fedlex.data.admin.ch/eli/cc/2004/466)
 
 ### 4.2.3 Application
 
@@ -3473,10 +3559,10 @@ Any person who wishes to export the following substances, or preparations that i
 - d. the planned annual export volume of the substance or the preparations in kilogrammes per importer and import country;
 - e. instructions on countermeasures in the event of an accident, on measures for safe disposal and on other precautionary measures, in particular to reduce exposure and emissions;
 - f. details of the uses envisaged;
-- g. the safety data sheet or the safety data sheets under Article 20 the Chemicals Ordinance of 5 June 2015[^annex26-lvlu1-lvl4-lvl42-lvl423-1];
+- g. the safety data sheet or the safety data sheets under Article 20 the Chemicals Ordinance of 5 June 2015[^annex25-lvlu1-lvl4-lvl42-lvl423-1];
 - h. if applicable, a certificate in accordance with Number 4.2.2 paragraph 2.
 
-[^annex26-lvlu1-lvl4-lvl42-lvl423-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex25-lvlu1-lvl4-lvl42-lvl423-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 ### 4.2.4 Decision
 
@@ -3486,7 +3572,7 @@ Any person who wishes to export the following substances, or preparations that i
 
 ### 4.2.5 Obligations relating to export
 
-<sup>1</sup> The person required to submit a declaration under Article 26 of the Customs Act of 18 March 2005[^annex26-lvlu1-lvl4-lvl42-lvl425-1] must specify in the customs declaration:
+<sup>1</sup> The person required to submit a declaration under Article 26 of the Customs Act of 18 March 2005[^annex25-lvlu1-lvl4-lvl42-lvl425-1] must specify in the customs declaration:
 
 - a. that the export of the substances in accordance with Number 4.2.1 or of the preparations that include such substances requires a licence under this Annex;
 - b. the country-specific number for the export licence.
@@ -3495,26 +3581,26 @@ Any person who wishes to export the following substances, or preparations that i
 
 <sup>3</sup> On removal from an open customs warehouse, a warehouse for bulk goods or a duty-free warehouse, the storer or depositor must enter the country-specific number of the export licence in an inventory record.
 
-<sup>4</sup> The provisions of Article 5 paragraphs 1 and 3 of the PIC Ordinance of 10 November 2004[^annex26-lvlu1-lvl4-lvl42-lvl425-2] apply to labelling and the provision of the safety data sheet.
+<sup>4</sup> The provisions of Article 5 paragraphs 1 and 3 of the PIC Ordinance of 10 November 2004[^annex25-lvlu1-lvl4-lvl42-lvl425-2] apply to labelling and the provision of the safety data sheet.
 
-[^annex26-lvlu1-lvl4-lvl42-lvl425-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^annex26-lvlu1-lvl4-lvl42-lvl425-2]: [SR 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
+[^annex25-lvlu1-lvl4-lvl42-lvl425-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^annex25-lvlu1-lvl4-lvl42-lvl425-2]: [SR 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
 
-Annex 2.6[^t-46]
+Annex 2.6[^t-25]
 
 (Art. 3)
 
 ## Fertilisers
 
-[^t-46]: Revised by Annex of the O of 14 Nov. 2007 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), Annex 9 No 1 of the Direct Payments Ordinance of 23 Oct. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Annexe No 2 of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Annex 6 No 11 of the Waste Management Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) and Annex No 2 of the O of 31 Oct. 2018, in force since 1 Jan. 2019 ([AS 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)). The correction of 7 May 2019 relates to the French text only ([AS 2019 1339](https://fedlex.data.admin.ch/eli/oc/2019/260))
+[^t-25]: Revised by Annex of the O of 14 Nov. 2007 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), Annex 9 No 1 of the Direct Payments Ordinance of 23 Oct. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Annexe No 2 of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Annex 6 No 11 of the Waste Management Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) and Annex No 2 of the O of 31 Oct. 2018, in force since 1 Jan. 2019 ([AS 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)). The correction of 7 May 2019 relates to the French text only ([AS 2019 1339](https://fedlex.data.admin.ch/eli/oc/2019/260))
 
 ### 1 Definitions
 
-<sup>1</sup> The terms used in this Annex are defined in the Ordinance of 10 January 2001[^annex27-lvlu1-lvl1-1] on Fertilisers.
+<sup>1</sup> The terms used in this Annex are defined in the Ordinance of 10 January 2001[^annex26-lvlu1-lvl1-1] on Fertilisers.
 
 <sup>2</sup> *Forage areas* are meadows and pastures, and vegetated farmland producing crops used wholly or partly as fodder. The term does not apply to farmland where only the grain or cobs are harvested.
 
-[^annex27-lvlu1-lvl1-1]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^annex26-lvlu1-lvl1-1]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 
 ### 2 Special requirements for supply
 
@@ -3650,7 +3736,7 @@ The pollutant content of organic mineral fertilisers must not exceed the limit v
 - a. in areas designated as nature reserves under federal or cantonal legislation, in the absence of relevant regulations or agreements to the contrary;
 - b. in reed beds and mires, where these are not already covered by provisions referred to in letter a;
 - c. in hedges and copses and in a 3m-wide strip alongside hedges and copses;
-- d. in surface waters and in a 3m-wide strip alongside surface waters, whereby the strip alongside watercourses for which a space for waters has been specified in accordance with Article 41*a* WPO[^annex27-lvlu1-lvl3-lvl33-lvl331-1] or for which a space for waters has been expressly dispensed with under 41*a* paragraph 5 WPO is measured from the shore line, and in the case of other watercourses and standing waters from the top edge of the bank in accordance with the buffer strip information sheet «Measuring and managing buffers strips correctly», KIP/PIOCH 2009[^annex27-lvlu1-lvl3-lvl33-lvl331-2];
+- d. in surface waters and in a 3m-wide strip alongside surface waters, whereby the strip alongside watercourses for which a space for waters has been specified in accordance with Article 41*a* WPO[^annex26-lvlu1-lvl3-lvl33-lvl331-1] or for which a space for waters has been expressly dispensed with under 41*a* paragraph 5 WPO is measured from the shore line, and in the case of other watercourses and standing waters from the top edge of the bank in accordance with the buffer strip information sheet «Measuring and managing buffers strips correctly», KIP/PIOCH 2009[^annex26-lvlu1-lvl3-lvl33-lvl331-2];
 - e. in groundwater protection zone S1.
 
 <sup>2</sup> It is prohibited to use liquid farm manure and recycling fertilisers in groundwater protection zones S2 and S<sub>h</sub>.
@@ -3661,8 +3747,8 @@ The pollutant content of organic mineral fertilisers must not exceed the limit v
 
 <sup>5</sup> It is prohibited to use fertilisers in forests and in a 3 m strip alongside the stand of trees.
 
-[^annex27-lvlu1-lvl3-lvl33-lvl331-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
-[^annex27-lvlu1-lvl3-lvl33-lvl331-2]: The information sheet may be obtained (not in English) from Agridea, 8315 Lindau.
+[^annex26-lvlu1-lvl3-lvl33-lvl331-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex26-lvlu1-lvl3-lvl33-lvl331-2]: The information sheet may be obtained (not in English) from Agridea, 8315 Lindau.
 
 ### 3.3.2 Exemptions
 
@@ -3687,13 +3773,13 @@ The pollutant content of organic mineral fertilisers must not exceed the limit v
 
 <sup>2</sup> The cantonal authorities shall identify the cause of any exceedance of the guide values specified in Number 2.2.1 paragraph 3 and ensure that compost and digestate are not supplied if their use could endanger soil fertility.
 
-Annex 2.7[^t-47]
+Annex 2.7[^t-26]
 
 (Art. 3)
 
 ## De-icing products
 
-[^t-47]: Revised by No II para. 2 of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-26]: Revised by No II para. 2 of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
 ### 1 Definition
 
@@ -3751,13 +3837,13 @@ The FOEN may permit certain users to use de-icing products containing de-icing s
 
 <sup>3</sup> With regard to public roads, paths and squares, the cantons shall ensure that it is defined when, where and how de-icing products must be applied or other methods must be used to combat ice and slippery snow.
 
-Annex 2.8[^t-48]
+Annex 2.8[^t-27]
 
 (Art. 3)
 
 ## Paints and varnishes
 
-[^t-48]: Revised by No I 3 of the O of 15 Dec. 2005 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) and No II para. 2 of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-27]: Revised by No I 3 of the O of 15 Dec. 2005 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) and No II para. 2 of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
 ### 1 Definitions
 
@@ -3792,13 +3878,13 @@ Annex 2.8[^t-48]
 
 Manufacturers may continue to place on the market paints and varnishes or articles treated with such paints and varnishes until 31 July 2006.
 
-Annex 2.9[^t-49]
+Annex 2.9[^t-28]
 
 (Art. 3)
 
 ## Plastics and additives
 
-[^t-49]: Revised by No I 3 of the O of 15 Dec. 2005 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-28]: Revised by No I 3 of the O of 15 Dec. 2005 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definitions
 
@@ -3808,14 +3894,14 @@ Annex 2.9[^t-49]
 
 <sup>3</sup> *Tyres* within the meaning of this Annex are tyres for vehicles of the following categories:
 
-- a. category M, N or O as defined in Annex II, Section A of Directive 2007/46/EC[^annex210-lvlu1-lvl1-1];
-- b. category T, R or S as defined in Annex II, Chapter A of Directive 2003/37/EC[^annex210-lvlu1-lvl1-2];
-- c. categories L1e – L7e as defined in Article 1 paragraphs 2 and 3 of Directive 2002/24/EC[^annex210-lvlu1-lvl1-3].
+- a. category M, N or O as defined in Annex II, Section A of Directive 2007/46/EC[^annex29-lvlu1-lvl1-1];
+- b. category T, R or S as defined in Annex II, Chapter A of Directive 2003/37/EC[^annex29-lvlu1-lvl1-2];
+- c. categories L1e – L7e as defined in Article 1 paragraphs 2 and 3 of Directive 2002/24/EC[^annex29-lvlu1-lvl1-3].
 - [tab] <sup>4</sup> An oxo-degradable plastic is a plastic that contains additives that by oxidation cause the plastic to break down into micro-particles or chemically degrade.
 
-[^annex210-lvlu1-lvl1-1]: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive), OJ L 263, 9.10.2007, p. 1; last amended by Regulation (EU) No 65/2012, OJ L 28, 31.1.2012, p. 24. The texts of the European Union legal documents mentioned in this Annex may be accessed at: http://eur-lex.europa.eu/
-[^annex210-lvlu1-lvl1-2]: Directive 2003/37/EC of the European Parliament and of the Council of 26 May 2003 on type-approval of agricultural or forestry tractors, their trailers and interchangeable towed machinery, together with their systems, components and separate technical units and repealing Directive 74/150/EEC, OJ L 171, 9.7.2003, p. 1; last amended by Directive 2010/62/EU, OJ L 238, 9.9.2010, p. 7.
-[^annex210-lvlu1-lvl1-3]: Directive 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two or three-wheel motor vehicles and repealing Council Directive 92/61/EEC, OJ L 124, 9.5.2002, p. 1; last amended by Regulation (EC) No 1137/2008, OJ L 311, 21.11.2008, p. 1.
+[^annex29-lvlu1-lvl1-1]: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive), OJ L 263, 9.10.2007, p. 1; last amended by Regulation (EU) No 65/2012, OJ L 28, 31.1.2012, p. 24. The texts of the European Union legal documents mentioned in this Annex may be accessed at: http://eur-lex.europa.eu/
+[^annex29-lvlu1-lvl1-2]: Directive 2003/37/EC of the European Parliament and of the Council of 26 May 2003 on type-approval of agricultural or forestry tractors, their trailers and interchangeable towed machinery, together with their systems, components and separate technical units and repealing Directive 74/150/EEC, OJ L 171, 9.7.2003, p. 1; last amended by Directive 2010/62/EU, OJ L 238, 9.9.2010, p. 7.
+[^annex29-lvlu1-lvl1-3]: Directive 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two or three-wheel motor vehicles and repealing Council Directive 92/61/EEC, OJ L 124, 9.5.2002, p. 1; last amended by Regulation (EC) No 1137/2008, OJ L 311, 21.11.2008, p. 1.
 
 ### 2 Prohibitions
 
@@ -3862,16 +3948,16 @@ Annex 2.9[^t-49]
 - f. to place on the market or use acrylamide (CAS no 79-06-1) or substances or preparations containing acrylamide in a concentration of 0.1% or more by mass for grouting applications.
 - g. to place on the market or use oxo-degradable plastics.
 
-<sup>1bis</sup> The test and analytical methods for determining the limits specified in Paragraph 1 letters d and e are based on entry 50 of Annex XVII to Regulation (EC) No 1907/2006[^annex210-lvlu1-lvl2-1].
+<sup>1bis</sup> The test and analytical methods for determining the limits specified in Paragraph 1 letters d and e are based on entry 50 of Annex XVII to Regulation (EC) No 1907/2006[^annex29-lvlu1-lvl2-1].
 
 <sup>2</sup> For aerosol dispensers used to produce foams, Annex 2.12 applies.
 
 <sup>3</sup> For cadmium-containing plastic packaging, Annex 2.16 Number 4 applies.
 
-<sup>4</sup> For toys and articles for infants and small children that contain polycyclic aromatic hydrocarbons as specified in paragraph 1 letter d number 2, the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex210-lvlu1-lvl2-2] applies.
+<sup>4</sup> For toys and articles for infants and small children that contain polycyclic aromatic hydrocarbons as specified in paragraph 1 letter d number 2, the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex29-lvlu1-lvl2-2] applies.
 
-[^annex210-lvlu1-lvl2-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Regulation (EU) No 412/2012, OJ L 128, 16.5.2012, p. 1; last amended by Regulation (EU) 2015/326, OJ L 58, 3.3.2015, p. 43.
-[^annex210-lvlu1-lvl2-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex29-lvlu1-lvl2-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Regulation (EU) No 412/2012, OJ L 128, 16.5.2012, p. 1; last amended by Regulation (EU) 2015/326, OJ L 58, 3.3.2015, p. 43.
+[^annex29-lvlu1-lvl2-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 ### 3 Exemptions
 
@@ -3917,7 +4003,7 @@ Annex 2.9[^t-49]
 
 <sup>2</sup> Preparations and articles containing recovered PVC must be marked with the text «Contains recovered PVC» or with the following pictogram:
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/en/xml/image/image2.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20230601/en/xml/image/image2.png)</sup>
 
 <sup>3</sup> Preparations containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass ofd intended for supply to the general public must be marked as follows: «Persons already sensitised to diisocyanates may develop allergic reactions when using this product. – Persons suffering from asthma, eczema or skin problems should avoid contact, including dermal contact, with this product. – This product should not be used under conditions of poor ventilation unless a protective mask with an appropriate gas filter (i.e. type A1 according to standard EN 14387) is used.»
 
@@ -3927,9 +4013,9 @@ Annex 2.9[^t-49]
 
 ### 4<sup>bis</sup> Special packaging
 
-The packaging of a preparation containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass ofd intended for supply to the general public must contain protective gloves which comply with the requirements specified in Article 13 paragraph 2 in conjunction with Article 12 paragraph 2 of the Ordinance on Product Safety of 19 May 2010[^annex210-lvlu1-lvl4-1]. This does not apply to packaging for hot melt adhesives.
+The packaging of a preparation containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass ofd intended for supply to the general public must contain protective gloves which comply with the requirements specified in Article 13 paragraph 2 in conjunction with Article 12 paragraph 2 of the Ordinance on Product Safety of 19 May 2010[^annex29-lvlu1-lvl4bis-1]. This does not apply to packaging for hot melt adhesives.
 
-[^annex210-lvlu1-lvl4-1]: [SR 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^annex29-lvlu1-lvl4bis-1]: [SR 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
 
 ### 5 Reporting requirements
 
@@ -3964,13 +4050,13 @@ The FOEN shall, after consulting the industry concerned, issue recommendations o
 
 <sup>8</sup> Foams and articles containing foams to which Number 3 paragraph 3<sup>bis</sup> no longer applies because a substitute is available due to a change in the state of the art may continue to be manufactured and imported for professional or commercial purposes for a period of six months and supplied to third parties for a further six-month period.
 
-Annex 2.10[^t-50]
+Annex 2.10[^t-29]
 
 (Art. 3)
 
 ## Refrigerants
 
-[^t-50]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Annex No 2 of the O of 18 Nov. 2020, ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), No I of the FOEN O of 9 Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), No I of the O of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-29]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Annex No 2 of the O of 18 Nov. 2020, ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), No I of the FOEN O of 9 Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), No I of the O of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definitions
 
@@ -4118,27 +4204,27 @@ Annex 2.10[^t-50]
 
 <sup>8</sup> On receipt of a justified request, the FOEN may grant an exemption to the prohibition specified in Number 2.1 paragraph 3 if:
 
-- a. according to the state of the art, it would not be possible to comply with the standards SN EN 378-1:2017+A1:2021, SN EN 378‑2:2017 and SN EN 378-3:2017+A1:2021[^annex211-lvlu1-lvl1bis-lvl22-1] without the use of a refrigerant which is stable in the atmosphere;
+- a. according to the state of the art, it would not be possible to comply with the standards SN EN 378-1:2017+A1:2021, SN EN 378‑2:2017 and SN EN 378-3:2017+A1:2021[^annex210-lvlu1-lvl2-lvl22-1] without the use of a refrigerant which is stable in the atmosphere;
 - b. according to the state of the art, the refrigerant stable in the atmosphere with the lowest impact on climate has been selected; and
 - c. state-of-the-art measures have been taken to prevent refrigerant emissions.
 
 <sup>9</sup> With the agreement of the SECO, the FOEN may adapt paragraph 8 letter a in the event of changes to the specified norms.
 
-[^annex211-lvlu1-lvl1bis-lvl22-1]: These standards may be viewed free of charge at or obtained for a fee from the Schweizerische Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex210-lvlu1-lvl2-lvl22-1]: These standards may be viewed free of charge at or obtained for a fee from the Schweizerische Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 2.3 Operator and information obligations relating to exemptions
 
-<sup>1</sup> A system, which may only be placed on the market if an exemption has been granted for it as specified in Number 2.2 paragraph 8[^annex211-lvlu1-lvl1bis-lvl23-1], may only be operated if the operator of this system has first ascertained that this authorisation is available.
+<sup>1</sup> A system, which may only be placed on the market if an exemption has been granted for it as specified in Number 2.2 paragraph 8[^annex210-lvlu1-lvl2-lvl23-1], may only be operated if the operator of this system has first ascertained that this authorisation is available.
 
 <sup>2</sup> Any person who places such a system on the market shall provide the operator of this system with a copy of the exemption permit free of charge.
 
-[^annex211-lvlu1-lvl1bis-lvl23-1]: The reference was modified on 1 June 2019 in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^annex210-lvlu1-lvl2-lvl23-1]: The reference was modified on 1 June 2019 in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 ### 2.4 Special labelling for professionals
 
 <sup>1</sup> Manufacturers of appliances and systems must provide on the appliance or system a clear indication of the types and quantities of refrigerants used.
 
-<sup>2</sup> For appliances and systems containing or designed to contain refrigerants which are listed in Annex I to Regulation (EU) No 517/2014[^annex211-lvlu1-lvl1bis-lvl24-1] , the labelling must include the following information:
+<sup>2</sup> For appliances and systems containing or designed to contain refrigerants which are listed in Annex I to Regulation (EU) No 517/2014[^annex210-lvlu1-lvl2-lvl24-1] , the labelling must include the following information:
 
 - a. the text «Contains fluorinated greenhouse gases»;
 - b. the abbreviated chemical names for the substances contained or designed to be contained in the appliances or systems, using the industry nomenclature accepted for the area concerned;
@@ -4150,7 +4236,7 @@ Annex 2.10[^t-50]
 - a. contain refrigerants stable in the atmosphere which are listed in Annex I to Regulation (EU) No 517/2014; and
 - b. are insulated with foam blown with substances stable in the atmosphere which are listed in Annex I to Regulation (EU) No 517/2014 before being placed on the market.
 
-[^annex211-lvlu1-lvl1bis-lvl24-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006, version in accordance with OJ L 150 of 20.5.2014, p. 195.
+[^annex210-lvlu1-lvl2-lvl24-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006, version in accordance with OJ L 150 of 20.5.2014, p. 195.
 
 ### 2.5 Requirements for the supply of refrigerants
 
@@ -4175,12 +4261,12 @@ It is prohibited to refill appliances or systems with ozone-depleting refrigeran
 
 <sup>1</sup> The prohibition specified in Number 3.2.1 does not apply to refilling in systems placed on the market under the exemption specified in Number 2.2 paragraph 6.
 
-<sup>2</sup> Provided that it supports the safety of a nuclear power plant or another particularly complex system, an exemption granted under Annex 2.10 Number 3.2.2 of the ORRChem in the version of 1 July 2015[^annex211-lvlu1-lvl2-lvl22-lvl322-1] may be extended if:
+<sup>2</sup> Provided that it supports the safety of a nuclear power plant or another particularly complex system, an exemption granted under Annex 2.10 Number 3.2.2 of the ORRChem in the version of 1 July 2015[^annex210-lvlu1-lvl3-lvl32-lvl322-1] may be extended if:
 
 - a. for technical, operational or economic reasons, it is not possible to comply with the prohibition within the set deadline; and
 - b. the applicant acquired the volume of refrigerant with regenerated partly halogenated chlorofluorocarbons for possible refilling before 1 January 2015.
 
-[^annex211-lvlu1-lvl2-lvl22-lvl322-1]: [AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)
+[^annex210-lvlu1-lvl3-lvl32-lvl322-1]: [AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)
 
 ### 3.3 Refilling systems with refrigerants stable in the atmosphere
 
@@ -4190,9 +4276,9 @@ Refilling systems with a filling capacity of 40 tonnes or more of CO<sub>2</sub>
 
 ### 3.3.2 Exceptions
 
-[^annex211-lvlu1-lvl2-lvl33-lvl332-1]
+[^annex210-lvlu1-lvl3-lvl33-lvl332-1]
 
-[^annex211-lvlu1-lvl2-lvl33-lvl332-1]: Applies until 31 Dec. 2029 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^annex210-lvlu1-lvl3-lvl33-lvl332-1]: Applies until 31 Dec. 2029 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
 The prohibition in number 3.3.1 does not apply to refilling:
 
@@ -4272,23 +4358,23 @@ The FOEN shall issue recommendations concerning:
 
 <sup>1</sup> The prohibitions specified in Number 2.1 paragraph 2 concerning the placing on the market and import on a private basis do not apply to household refrigerators and freezers, dehumidifiers or air conditioners manufactured before 1 January 2005.
 
-<sup>2</sup> If as specified in Number 3.3 in the version of 18 May 2005[^annex211-lvlu1-lvl7-1], authorisation was granted for the construction of a stationary system with over 3kg of refrigerants which are stable in the atmosphere before 1 December 2013, the corresponding system may only be constructed until 31 December 2016.
+<sup>2</sup> If as specified in Number 3.3 in the version of 18 May 2005[^annex210-lvlu1-lvl7-1], authorisation was granted for the construction of a stationary system with over 3kg of refrigerants which are stable in the atmosphere before 1 December 2013, the corresponding system may only be constructed until 31 December 2016.
 
-<sup>3</sup> For appliances and systems containing or designed to contain refrigerants stable in the atmosphere which are listed in Annex A to the Kyoto Protocol to the United Nations Framework Convention on Climate Change of 11 December 1997[^annex211-lvlu1-lvl7-2] (Kyoto Protocol), labelling as specified in Number 2.3<sup>bis</sup> of the ORRChem in the version of 10 December 2010[^annex211-lvlu1-lvl7-3] remains permitted until 31 May 2020.
+<sup>3</sup> For appliances and systems containing or designed to contain refrigerants stable in the atmosphere which are listed in Annex A to the Kyoto Protocol to the United Nations Framework Convention on Climate Change of 11 December 1997[^annex210-lvlu1-lvl7-2] (Kyoto Protocol), labelling as specified in Number 2.3<sup>bis</sup> of the ORRChem in the version of 10 December 2010[^annex210-lvlu1-lvl7-3] remains permitted until 31 May 2020.
 
 <sup>4</sup> Systems and appliances to which Number 2.2 paragraphs 2–4 and 6 do not apply because a change in the state of the art means that a substitute now exists may continue to be manufactured and imported for professional or commercial purposes for a period of six months and supplied to third parties for a further six-month period.
 
-[^annex211-lvlu1-lvl7-1]: [AS 2005 2917](https://fedlex.data.admin.ch/eli/oc/2005/478)
-[^annex211-lvlu1-lvl7-2]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
-[^annex211-lvlu1-lvl7-3]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+[^annex210-lvlu1-lvl7-1]: [AS 2005 2917](https://fedlex.data.admin.ch/eli/oc/2005/478)
+[^annex210-lvlu1-lvl7-2]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex210-lvlu1-lvl7-3]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
-Annex 2.11[^t-51]
+Annex 2.11[^t-30]
 
 (Art. 3)
 
 ## Extinguishing agents
 
-[^t-51]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-30]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definitions
 
@@ -4350,14 +4436,14 @@ It is prohibited to export:
   the following information on each ozone-depleting extinguishing agent that is to be exported:
 
   - 1\. the chemical name in accordance with an internationally recognised nomenclature,
-  - 2\. the customs tariff number in accordance with the annexes to the CTA[^annex212-lvlu1-lvl4-lvl33-1],
+  - 2\. the customs tariff number in accordance with the annexes to the CTA[^annex211-lvlu1-lvl3-lvl33-1],
   - 3\. the name and address of the previous holder,
   - 4\. the intended export quantity in kilogrammes,
   - 5\. confirmation in accordance with paragraph 3 letter b.
 
 <sup>3</sup> An export licence is issued if:
 
-- a. the export is to states that comply with the provisions of the Montreal Protocol of 16 September 1987[^annex212-lvlu1-lvl4-lvl33-2] on Substances that Deplete the Ozone Layer and the Amendments to the Protocol of 29 June 1990[^annex212-lvlu1-lvl4-lvl33-3], 25 November 1992[^annex212-lvlu1-lvl4-lvl33-4], 17 September 1997[^annex212-lvlu1-lvl4-lvl33-5] and 3 December 1999[^annex212-lvlu1-lvl4-lvl33-6] (Montreal Protocol), as approved by Switzerland; and
+- a. the export is to states that comply with the provisions of the Montreal Protocol of 16 September 1987[^annex211-lvlu1-lvl3-lvl33-2] on Substances that Deplete the Ozone Layer and the Amendments to the Protocol of 29 June 1990[^annex211-lvlu1-lvl3-lvl33-3], 25 November 1992[^annex211-lvlu1-lvl3-lvl33-4], 17 September 1997[^annex211-lvlu1-lvl3-lvl33-5] and 3 December 1999[^annex211-lvlu1-lvl3-lvl33-6] (Montreal Protocol), as approved by Switzerland; and
 - b. the recipient has confirmed to the exporter that they will be used exclusively for an application specified in No 3.2 paragraph 1 for which, according to the state of the art, no substitute is available in the recipient country. The confirmation must state the location, type and purpose of the system in which the extinguishing agent is to be used.
 
 <sup>4</sup> The FOEN may require additional information on origin and destination of the ozone-depleting extinguishing agents. It shall decide on a completed application within two months.
@@ -4366,12 +4452,12 @@ It is prohibited to export:
 
 <sup>6</sup> The exporter must retain the export licence for five years from the time of export of the ozone-depleting extinguishing agent.
 
-[^annex212-lvlu1-lvl4-lvl33-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^annex212-lvlu1-lvl4-lvl33-2]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
-[^annex212-lvlu1-lvl4-lvl33-3]: [SR 0.814.021.1](https://fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078)
-[^annex212-lvlu1-lvl4-lvl33-4]: [SR 0.814.021.2](https://fedlex.data.admin.ch/eli/cc/2002/412)
-[^annex212-lvlu1-lvl4-lvl33-5]: [SR 0.814.021.3](https://fedlex.data.admin.ch/eli/cc/2003/455)
-[^annex212-lvlu1-lvl4-lvl33-6]: [SR 0.814.021.4](https://fedlex.data.admin.ch/eli/cc/2003/456)
+[^annex211-lvlu1-lvl3-lvl33-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^annex211-lvlu1-lvl3-lvl33-2]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^annex211-lvlu1-lvl3-lvl33-3]: [SR 0.814.021.1](https://fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078)
+[^annex211-lvlu1-lvl3-lvl33-4]: [SR 0.814.021.2](https://fedlex.data.admin.ch/eli/cc/2002/412)
+[^annex211-lvlu1-lvl3-lvl33-5]: [SR 0.814.021.3](https://fedlex.data.admin.ch/eli/cc/2003/455)
+[^annex211-lvlu1-lvl3-lvl33-6]: [SR 0.814.021.4](https://fedlex.data.admin.ch/eli/cc/2003/456)
 
 ### 4 Use
 
@@ -4412,7 +4498,7 @@ Owners of appliances containing more than 8kg of ozone-depleting extinguishing a
 - c. the quantity of extinguishing agents supplied for appliances and systems;
 - d. the quantity of extinguishing agents received from owners of decommissioned appliances and systems;
 - e. the quantity of extinguishing agents no longer needed which were submitted for treatment;
-- f. the quantity of extinguishing agents re-imported after being recycled abroad (No 2.2 let. c).
+- f. the quantity of extinguishing agents re-imported after being recycled abroad (No. 2.2 let. c).
 
 <sup>2</sup> The information must be classified by:
 
@@ -4424,7 +4510,7 @@ Owners of appliances containing more than 8kg of ozone-depleting extinguishing a
 
 ### 8 Special labelling
 
-<sup>1</sup> Extinguishing appliances and systems containing or designed to contain extinguishing agents listed in Annex I to Regulation (EU) No 517/2014[^annex212-lvlu1-lvl8-1] must be labelled by manufacturers with the following information:
+<sup>1</sup> Extinguishing appliances and systems containing or designed to contain extinguishing agents listed in Annex I to Regulation (EU) No 517/2014[^annex211-lvlu1-lvl8-1] must be labelled by manufacturers with the following information:
 
 - a. the text: «Contains fluorinated greenhouse gases»;
 - b. the abbreviated chemical names for the fluorinated greenhouse gases contained or designed to be contained, using the industry nomenclature accepted for the area concerned;
@@ -4432,22 +4518,22 @@ Owners of appliances containing more than 8kg of ozone-depleting extinguishing a
 
 <sup>2</sup> …
 
-[^annex212-lvlu1-lvl8-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006 of the European Parliament and of the Council, version in accordance with OJ L 150 of 20.5.2014, p. 195.
+[^annex211-lvlu1-lvl8-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006 of the European Parliament and of the Council, version in accordance with OJ L 150 of 20.5.2014, p. 195.
 
 ### 9 Transitional provision
 
-For extinguishing appliances and systems containing or designed to contain extinguishing agents stable in the atmosphere which are listed in Annex A to the Kyoto Protocol to the United Nations Framework Convention on Climate Change of 11 December 1997[^annex212-lvlu1-lvl9-1] (Kyoto Protocol), labelling as specified in Number 8 of the ORRChem in the version of 10 December 2010[^annex212-lvlu1-lvl9-2] remains permitted until 31 May 2020.
+For extinguishing appliances and systems containing or designed to contain extinguishing agents stable in the atmosphere which are listed in Annex A to the Kyoto Protocol to the United Nations Framework Convention on Climate Change of 11 December 1997[^annex211-lvlu1-lvl9-1] (Kyoto Protocol), labelling as specified in Number 8 of the ORRChem in the version of 10 December 2010[^annex211-lvlu1-lvl9-2] remains permitted until 31 May 2020.
 
-[^annex212-lvlu1-lvl9-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
-[^annex212-lvlu1-lvl9-2]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+[^annex211-lvlu1-lvl9-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex211-lvlu1-lvl9-2]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
-Annex 2.12[^t-52]
+Annex 2.12[^t-31]
 
 (Art. 3)
 
 ## Aerosol dispensers
 
-[^t-52]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by Annex No 3 of the Ordinance on Foodstuffs and Utility Articles of 16 Dec. 2016 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-31]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by Annex No 3 of the Ordinance on Foodstuffs and Utility Articles of 16 Dec. 2016 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definitions
 
@@ -4475,7 +4561,7 @@ Annex 2.12[^t-52]
 - a. vinyl chloride; or
 - b.
 
-  bases or acids in liquid phase, or solvents, and must be labelled as follows in accordance with Annex III to Directive 67/548/EEC[^annex213-lvlu1-lvl2-1] or Annex III to Regulation (EC) No 1272/2008[^annex213-lvlu1-lvl2-2]:
+  bases or acids in liquid phase, or solvents, and must be labelled as follows in accordance with Annex III to Directive 67/548/EEC[^annex212-lvlu1-lvl2-1] or Annex III to Regulation (EC) No 1272/2008[^annex212-lvlu1-lvl2-2]:
 
   - 1\. R23, R26, or
   - 2\. H330, H331.
@@ -4491,8 +4577,8 @@ Annex 2.12[^t-52]
 - b. hazard classes 2.9 (pyrophoric liquids), 2.10 (pyrophoric solids);
 - c. hazard class 2.12 (substances and mixtures which in contact with water emit flammable gases).
 
-[^annex213-lvlu1-lvl2-1]: Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances, OJ L 196, 16.8.1967, p. 1, last amended by Directive 2009/2/EC, OJ L 11, 16.1.2009, p. 6.
-[^annex213-lvlu1-lvl2-2]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353, 31.12.2008, p. 1; in the version referred to Annex 2, No 1, of the Chemicals Ordinance of 5 June 2015 (ChemO).
+[^annex212-lvlu1-lvl2-1]: Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances, OJ L 196, 16.8.1967, p. 1, last amended by Directive 2009/2/EC, OJ L 11, 16.1.2009, p. 6.
+[^annex212-lvlu1-lvl2-2]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353, 31.12.2008, p. 1; in the version referred to Annex 2, No 1, of the Chemicals Ordinance of 5 June 2015 (ChemO).
 
 ### 3 Exemptions
 
@@ -4506,9 +4592,9 @@ Annex 2.12[^t-52]
 - a. according to the state of the art, no substitute is available for the substances stable in the atmosphere, or for the preparations and articles containing such substances; and
 - b. the quantity and the global warming potential of the substances stable in the atmosphere being used are no greater than is required for the intended purpose according to the state of the art.
 
-<sup>3</sup> The prohibition on supply to the general public specified in Number 2 paragraph 3 does not apply to aerosol dispensers which are referred to in Article 8 paragraph 1 letter a of Directive 75/324/EEC[^annex213-lvlu1-lvl3-1] and which meet the requirements specified therein.
+<sup>3</sup> The prohibition on supply to the general public specified in Number 2 paragraph 3 does not apply to aerosol dispensers which are referred to in Article 8 paragraph 1 letter a of Directive 75/324/EEC[^annex212-lvlu1-lvl3-1] and which meet the requirements specified therein.
 
-[^annex213-lvlu1-lvl3-1]: Council Directive 75/324/EEC of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensers, OJ L 147, 9.6.1975, p. 40; last amended by Regulation (EC) No 219/2009, OJ L 87, 31.3.2009, p. 109.
+[^annex212-lvlu1-lvl3-1]: Council Directive 75/324/EEC of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensers, OJ L 147, 9.6.1975, p. 40; last amended by Regulation (EC) No 219/2009, OJ L 87, 31.3.2009, p. 109.
 
 ### 4 Special labelling
 
@@ -4520,13 +4606,13 @@ Annex 2.12[^t-52]
 
 Any persons who themselves fill or import aerosol dispensers with substances stable in the atmosphere must inform the FOEN, if so requested, of the quantities of the various substances used during the past three years; the information must be classified by import, consumption in Switzerland and export, as well as by intended use.
 
-Annex 2.13[^t-53]
+Annex 2.13[^t-32]
 
 (Art. 3)
 
 ## Thermal fuel additives
 
-[^t-53]: Revised by Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-32]: Revised by Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definition
 
@@ -4543,17 +4629,17 @@ Thermal fuel additives are substances or preparations added to thermal fuels, in
 
 ### 3 Addition to thermal fuels
 
-For the addition of additives to thermal fuels, the requirements specified in Annex 5 to the Air Pollution Control Ordinance of 16 December 1985[^annex214-lvlu1-lvl3-1] apply.
+For the addition of additives to thermal fuels, the requirements specified in Annex 5 to the Air Pollution Control Ordinance of 16 December 1985[^annex213-lvlu1-lvl3-1] apply.
 
-[^annex214-lvlu1-lvl3-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex213-lvlu1-lvl3-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
-Annex 2.14[^t-54]
+Annex 2.14[^t-33]
 
 (Art. 3)
 
 ## Capacitors and transformers
 
-[^t-54]: Revised by No I 6 of the O of 10 Dec. 2010, in force since 1 Feb. 2011 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
+[^t-33]: Revised by No I 6 of the O of 10 Dec. 2010, in force since 1 Feb. 2011 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
 
 ### 1 Definitions
 
@@ -4575,7 +4661,7 @@ Annex 2.14[^t-54]
 
 ### 3 Monitoring
 
-<sup>1</sup> The inspection bodies specified in Article 26 paragraph 1 of the Ordinance of 7 November 2001[^annex215-lvlu1-lvl3-1] on Low-Voltage Electrical Installations shall also check, as part of the enforcement responsibilities assigned to them, whether pollutant-containing capacitors with a total mass in excess of 1kg are being used.
+<sup>1</sup> The inspection bodies specified in Article 26 paragraph 1 of the Ordinance of 7 November 2001[^annex214-lvlu1-lvl3-1] on Low-Voltage Electrical Installations shall also check, as part of the enforcement responsibilities assigned to them, whether pollutant-containing capacitors with a total mass in excess of 1kg are being used.
 
 <sup>2</sup> If the inspection bodies suspect or determine that such capacitors are being used, they shall notify the owner of the installation and the authority of the canton in whose territory the installation is located.
 
@@ -4583,15 +4669,15 @@ Annex 2.14[^t-54]
 
 <sup>4</sup> The costs of the checking specified in paragraph 1 shall be borne by the owner of the installation.
 
-[^annex215-lvlu1-lvl3-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^annex214-lvlu1-lvl3-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 
-Annex 2.15[^t-55]
+Annex 2.15[^t-34]
 
 (Art. 3)
 
 ## Batteries
 
-[^t-55]: Amended by No I 5 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Revised by No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No II 2 of the O of 20 Oct. 2021 on the Return, Taking Back and Disposal of Electrical and Electronic Equipment, in force since 1 Jan. 2022 ([AS 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
+[^t-34]: Amended by No I 5 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Revised by No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No II 2 of the O of 20 Oct. 2021 on the Return, Taking Back and Disposal of Electrical and Electronic Equipment, in force since 1 Jan. 2022 ([AS 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
 
 ### 1 Definitions
 
@@ -4610,9 +4696,9 @@ Annex 2.15[^t-55]
 
 <sup>5</sup> *Industrial batteries* are batteries designed exclusively for industrial or professional uses or for powering any type of electrical vehicle, or other batteries not classified as portable or automotive batteries.
 
-<sup>6</sup> *Appliances* are electrical and electronic equipment, as defined in Article 3 letter a of Directive 2002/96/EC[^annex216-lvlu1-lvl1-1], which is fully or partly powered by batteries or is capable of being so.
+<sup>6</sup> *Appliances* are electrical and electronic equipment, as defined in Article 3 letter a of Directive 2002/96/EC[^annex215-lvlu1-lvl1-1], which is fully or partly powered by batteries or is capable of being so.
 
-[^annex216-lvlu1-lvl1-1]: Directive 2002/96/EC of the European Parliament and of the Council of 27 January 2003 on waste electrical and electronic equipment, OJ L 37, 13.2.2003, p. 24. The texts of the European Union legal documents mentioned in this Annex may be accessed at: www.cheminfo.ch
+[^annex215-lvlu1-lvl1-1]: Directive 2002/96/EC of the European Parliament and of the Council of 27 January 2003 on waste electrical and electronic equipment, OJ L 37, 13.2.2003, p. 24. The texts of the European Union legal documents mentioned in this Annex may be accessed at: www.cheminfo.ch
 
 ### 2 Prohibitions
 
@@ -4636,16 +4722,16 @@ Annex 2.15[^t-55]
 
 <sup>1</sup> Manufacturers of batteries, and of vehicles or appliances containing batteries, must ensure that information on disposal via separate collection is displayed on the batteries in a visible, clearly legible and indelible form. Batteries containing more than 5 mg mercury, more than 20 mg cadmium, or more than 40 mg lead per kilogram must also be marked with the chemical symbol Hg, Cd or Pb for the metal concerned.
 
-<sup>2</sup> The markings required in accordance with paragraph 1 must take the form specified in Article 21 of Directive 2006/66/EC[^annex216-lvlu1-lvl3-lvl41-1].
+<sup>2</sup> The markings required in accordance with paragraph 1 must take the form specified in Article 21 of Directive 2006/66/EC[^annex215-lvlu1-lvl4-lvl41-1].
 
 <sup>3</sup> Manufacturers of automotive batteries and portable rechargeable batteries, and of vehicles or appliances containing such batteries, must ensure that the automotive and portable batteries are provided with labelling indicating their capacity in a visible, clearly legible and indelible form.
 
-<sup>4</sup> Paragraph 3 does not apply to the portable rechargeable batteries specified in Annex I to Regulation (EU) No 1103/2010[^annex216-lvlu1-lvl3-lvl41-2].
+<sup>4</sup> Paragraph 3 does not apply to the portable rechargeable batteries specified in Annex I to Regulation (EU) No 1103/2010[^annex215-lvlu1-lvl4-lvl41-2].
 
 <sup>5</sup> The determination of capacity as specified in paragraph 3 and the capacity label design are governed by Articles 2–4 of Regulation (EU) No 1103/2010.
 
-[^annex216-lvlu1-lvl3-lvl41-1]: Directive 2006/66/EC of the European Parliament and of the Council of 6 September 2006 on batteries and accumulators and waste batteries and accumulators and repealing Directive 91/157/EEC, OJ L 266, 26.9.2006, p. 1; last amended by Directive 2008/103/EC, OJ L 327, 5.12.2008, p. 7.
-[^annex216-lvlu1-lvl3-lvl41-2]: Commission Regulation (EU) No 1103/2010 of 29 November 2010 establishing, pursuant to Directive 2006/66/EC of the European Parliament and of the Council, rules as regards capacity labelling of portable secondary (rechargeable) and automotive batteries and accumulators, OJ L 313, 30.11.2010, p. 3.
+[^annex215-lvlu1-lvl4-lvl41-1]: Directive 2006/66/EC of the European Parliament and of the Council of 6 September 2006 on batteries and accumulators and waste batteries and accumulators and repealing Directive 91/157/EEC, OJ L 266, 26.9.2006, p. 1; last amended by Directive 2008/103/EC, OJ L 327, 5.12.2008, p. 7.
+[^annex215-lvlu1-lvl4-lvl41-2]: Commission Regulation (EU) No 1103/2010 of 29 November 2010 establishing, pursuant to Directive 2006/66/EC of the European Parliament and of the Council, rules as regards capacity labelling of portable secondary (rechargeable) and automotive batteries and accumulators, OJ L 313, 30.11.2010, p. 3.
 
 ### 4.2 Sales points and advertising
 
@@ -4661,9 +4747,9 @@ Annex 2.15[^t-55]
 
 ### 5.1 Bring-back obligation
 
-Consumers must hand over batteries to a trader or manufacturer with a take‑back obligation or dispose of them via a battery collection scheme or collection point. Automotive batteries may also be submitted to disposal companies that are entitled to receive batteries on the basis of an authorisation granted under Article 10 of the Ordinance of 22 June 2005[^annex216-lvlu1-lvl3bis-lvl3bis.1-1] on the Movement of Wastes, provided that these disposal companies agree to accept them.
+Consumers must hand over batteries to a trader or manufacturer with a take‑back obligation or dispose of them via a battery collection scheme or collection point. Automotive batteries may also be submitted to disposal companies that are entitled to receive batteries on the basis of an authorisation granted under Article 10 of the Ordinance of 22 June 2005[^annex215-lvlu1-lvl5-lvl51-1] on the Movement of Wastes, provided that these disposal companies agree to accept them.
 
-[^annex216-lvlu1-lvl3bis-lvl3bis.1-1]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^annex215-lvlu1-lvl5-lvl51-1]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
 
 ### 5.2 Take-back obligation
 
@@ -4789,13 +4875,13 @@ The organisation may use the fee solely to finance the following activities:
 
 <sup>3</sup> The liability for the fee specified in Number 6.1 does not apply to batteries weighing more than 5kg placed on the market before 1 January 2012.
 
-Annex 2.16[^t-56]
+Annex 2.16[^t-35]
 
 (Art. 3)
 
 ## Special provisions relating to metals
 
-[^t-56]: Revised by No I 3 of the O of 15 Dec. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No 1 of the FOEN Ordinance of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), No I of the FOEN Ordinance of 27 Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), No I of the FOEN Ordinance of 29 Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-35]: Revised by No I 3 of the O of 15 Dec. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No 1 of the FOEN Ordinance of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), No I of the FOEN Ordinance of 27 Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), No I of the FOEN Ordinance of 29 Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Chromium(VI) in cements
 
@@ -4811,7 +4897,7 @@ The prohibitions specified in Number 1.1 do not apply to placing on the market f
 
 <sup>1</sup> Cement and cement-containing preparations which contain more than 0.0002% soluble chromium(VI) of the total dry mass of the cement must be labelled as follows: «Contains chromium(VI). May produce an allergic reaction».
 
-<sup>2</sup> Paragraph 1 does not apply to cement or cement-containing preparations which are classified as sensitising in accordance with the criteria specified in Annex I to Regulation (EC) No 1272/2008[^annex217-lvlu1-lvl1-lvl13-1] or in Part A of Annex II to Directive 1999/45/EC[^annex217-lvlu1-lvl1-lvl13-2] and must be labelled with H317 in accordance with Annex III to Regulation (EC) No 1272/2008 or with R43 in accordance with Annex III to Directive 67/548/EEC[^annex217-lvlu1-lvl1-lvl13-3].
+<sup>2</sup> Paragraph 1 does not apply to cement or cement-containing preparations which are classified as sensitising in accordance with the criteria specified in Annex I to Regulation (EC) No 1272/2008[^annex216-lvlu1-lvl1-lvl13-1] or in Part A of Annex II to Directive 1999/45/EC[^annex216-lvlu1-lvl1-lvl13-2] and must be labelled with H317 in accordance with Annex III to Regulation (EC) No 1272/2008 or with R43 in accordance with Annex III to Directive 67/548/EEC[^annex216-lvlu1-lvl1-lvl13-3].
 
 <sup>3</sup> The packaging of cement or cement-containing preparations which contain reducing agents must be marked with the following information:
 
@@ -4820,9 +4906,9 @@ The prohibitions specified in Number 1.1 do not apply to placing on the market f
 
 <sup>4</sup> Paragraph 3 does not apply to placing on the market for uses specified in Number 1.2.
 
-[^annex217-lvlu1-lvl1-lvl13-1]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353, 31.12.2008, p. 1; last amended by Regulation (EU) No 618/2012, OJ L 179, 11.7.2012, p. 3.
-[^annex217-lvlu1-lvl1-lvl13-2]: Directive 1999/45/EC of the European Parliament and of the Council of 31 May 1999 on the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations, OJ L 200, 30.7.1999, p. 1; last amended by Regulation (EC) No 1272/2008, OJ L 353, 31.12.2008, p. 1.
-[^annex217-lvlu1-lvl1-lvl13-3]: Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances, OJ L 196, 16.8.1967, p. 1; last amended by Directive 2009/2/EC, OJ L 11, 16.1.2009, p. 6.
+[^annex216-lvlu1-lvl1-lvl13-1]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353, 31.12.2008, p. 1; last amended by Regulation (EU) No 618/2012, OJ L 179, 11.7.2012, p. 3.
+[^annex216-lvlu1-lvl1-lvl13-2]: Directive 1999/45/EC of the European Parliament and of the Council of 31 May 1999 on the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations, OJ L 200, 30.7.1999, p. 1; last amended by Regulation (EC) No 1272/2008, OJ L 353, 31.12.2008, p. 1.
+[^annex216-lvlu1-lvl1-lvl13-3]: Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances, OJ L 196, 16.8.1967, p. 1; last amended by Directive 2009/2/EC, OJ L 11, 16.1.2009, p. 6.
 
 ### 1<sup>bis</sup> Chromium(VI) in leather goods
 
@@ -4910,9 +4996,9 @@ The prohibitions specified in Number 3<sup>bis</sup>.2 do not apply to brazing f
 
 ### 3<sup>ter</sup>.3 Relationship to the Foodstuffs and Utility Articles Ordinance of 16 December 2016 (FUAO)
 
-[^annex217-lvlu1-lvl3ter-lvl3ter.3-1]
+[^annex216-lvlu1-lvl3ter-lvl3ter.3-1]
 
-[^annex217-lvlu1-lvl3ter-lvl3ter.3-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex216-lvlu1-lvl3ter-lvl3ter.3-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 For the placing on the market of consumer articles, toys, jewellery and candle wicks containing lead or lead compounds, intended for sale to the general public and which, or their accessible parts, can be put into the mouth by children under normal or reasonably foreseeable conditions of use, the FUAO applies.
 
@@ -4920,7 +5006,7 @@ For the placing on the market of consumer articles, toys, jewellery and candle w
 
 <sup>1</sup> Exempted from the prohibition specified in Number 3<sup>ter</sup>.2 are:
 
-- a. crystal glass in accordance with Annex I (crystal glass types 1, 2, 3 and 4) under Directive 69/493/ EEC[^annex217-lvlu1-lvl3ter-lvl3ter.4-1];
+- a. crystal glass in accordance with Annex I (crystal glass types 1, 2, 3 and 4) under Directive 69/493/ EEC[^annex216-lvlu1-lvl3ter-lvl3ter.4-1];
 - b. non-synthetic or reconstituted precious or semi-precious stones (customs tariff number 7103), insofar as they are not treated with lead or lead compounds or preparations containing these substances;
 - c. enamel, defined as vitrifiable mixtures from the melting, vitrification or sintering of minerals at temperatures of at least 500°C;
 - d. keys and locks, including padlocks;
@@ -4935,7 +5021,7 @@ For the placing on the market of consumer articles, toys, jewellery and candle w
 - a. uncoated lead-containing articles, if the release rate of lead from the article or accessible parts demonstrably does not exceed 005 μg/cm<sup>2</sup> per hour (corresponding to 0.05 μg/g/h);
 - b. coated lead-containing articles, provided that they demonstrably do not exceed the release rate referred to in letter a and the coating is sufficient to ensure that this rate is not exceeded for a period of at least two years of use of the article under normal or reasonably foreseeable conditions.
 
-[^annex217-lvlu1-lvl3ter-lvl3ter.4-1]: Council Directive 69/493/EEC of 15 December 1969 on the approximation of the laws of the Member States relating to crystal glass, OJ L 326 of 29.12.1969, p. 36; last amended by Directive 2006/96/EG, OJ L 363 of 20.12.2006, p. 81.
+[^annex216-lvlu1-lvl3ter-lvl3ter.4-1]: Council Directive 69/493/EEC of 15 December 1969 on the approximation of the laws of the Member States relating to crystal glass, OJ L 326 of 29.12.1969, p. 36; last amended by Directive 2006/96/EG, OJ L 363 of 20.12.2006, p. 81.
 
 ### 4 Heavy metals in packaging
 
@@ -4965,18 +5051,18 @@ It is prohibited for the manufacturer to place on the market packaging or packag
   - 3\. the introduction of material other than that specified in Number 2 is limited to the minimum technically necessary and, in any case, does not exceed 20% by mass, and
   - 4\. heavy metals were not intentionally introduced during recycling.
 
-<sup>2</sup> On receipt of a justified request, with the agreement of the FOPH, the FOEN may grant exemptions for other packaging. It shall take account of decisions made by the European Commission in accordance with Article 11 paragraph 3 of European Parliament and Council Directive 94/62/EC of 20 December 1994[^annex217-lvlu1-lvl4-lvl43-1] on packaging and packaging waste, and the state of the art.
+<sup>2</sup> On receipt of a justified request, with the agreement of the FOPH, the FOEN may grant exemptions for other packaging. It shall take account of decisions made by the European Commission in accordance with Article 11 paragraph 3 of European Parliament and Council Directive 94/62/EC of 20 December 1994[^annex216-lvlu1-lvl4-lvl43-1] on packaging and packaging waste, and the state of the art.
 
-[^annex217-lvlu1-lvl4-lvl43-1]: OJ L 365 of 31.12.1994, p. 10. The texts of the European Union legal documents mentioned in this Annex may be obtained against payment or consulted free of charge at the Chemicals Notification Authority, 3003 Bern; they may also be accessed on the Internet at www.cheminfo.ch.
+[^annex216-lvlu1-lvl4-lvl43-1]: OJ L 365 of 31.12.1994, p. 10. The texts of the European Union legal documents mentioned in this Annex may be obtained against payment or consulted free of charge at the Chemicals Notification Authority, 3003 Bern; they may also be accessed on the Internet at www.cheminfo.ch.
 
 ### 5 Heavy metals in vehicles
 
 ### 5.1 Definition
 
-Vehicles are cars and light duty vehicles in accordance with Directive 2000/53/EC[^annex217-lvlu1-lvl5-lvl51-1], covered by the categories M<sub>1</sub> or N<sub>1</sub> of Annex II A number 1 to Directive 2007/46/EC[^annex217-lvlu1-lvl5-lvl51-2].
+Vehicles are cars and light duty vehicles in accordance with Directive 2000/53/EC[^annex216-lvlu1-lvl5-lvl51-1], covered by the categories M<sub>1</sub> or N<sub>1</sub> of Annex II A number 1 to Directive 2007/46/EC[^annex216-lvlu1-lvl5-lvl51-2].
 
-[^annex217-lvlu1-lvl5-lvl51-1]: Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of-life vehicles, version in accordance with OJ L 269, 21.10.2000, p. 34.
-[^annex217-lvlu1-lvl5-lvl51-2]: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive), OJ L 263, 9.10.2007, p. 1; last amended by Commission Regulation (EU) 2015/45, OJ L 9, 15.1.2015, p. 1.
+[^annex216-lvlu1-lvl5-lvl51-1]: Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of-life vehicles, version in accordance with OJ L 269, 21.10.2000, p. 34.
+[^annex216-lvlu1-lvl5-lvl51-2]: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive), OJ L 263, 9.10.2007, p. 1; last amended by Commission Regulation (EU) 2015/45, OJ L 9, 15.1.2015, p. 1.
 
 ### 5.2 Prohibitions
 
@@ -4988,7 +5074,7 @@ Vehicles are cars and light duty vehicles in accordance with Directive 2000/53/E
 
 <sup>1</sup> The prohibition specified in Number 5.2 paragraph 1 does not apply to:
 
-- a. the vehicle materials and components listed without an exemption expiry date in Annex II to the Directive 2000/53/EC[^annex217-lvlu1-lvl5-lvl53-1], subject to the conditions stated in this Annex;
+- a. the vehicle materials and components listed without an exemption expiry date in Annex II to the Directive 2000/53/EC[^annex216-lvlu1-lvl5-lvl53-1], subject to the conditions stated in this Annex;
 - b.
 
   spare parts for vehicles placed on the market for the first time before 1 August 2006, with the exception of:
@@ -4999,21 +5085,21 @@ Vehicles are cars and light duty vehicles in accordance with Directive 2000/53/E
 
 <sup>2</sup> The prohibition specified in Number 5.2 paragraph 2 does not apply to vehicles which contain materials or components that may be placed on the market in accordance with Paragraph 1 letter a.
 
-[^annex217-lvlu1-lvl5-lvl53-1]: Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of-life vehicles, OJ L 269, 21.10.2000, p. 34; last amended by Directive (EU) 2020/363, OJ L 67, 5.11.2020, p. 119.
+[^annex216-lvlu1-lvl5-lvl53-1]: Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of-life vehicles, OJ L 269, 21.10.2000, p. 34; last amended by Directive (EU) 2020/363, OJ L 67, 5.11.2020, p. 119.
 
 ### 5.4 Special labelling
 
-Vehicle materials and components must be labelled or made identifiable by other means in accordance with Annex II to Directive 2000/53/EC[^annex217-lvlu1-lvl5-lvl54-1].
+Vehicle materials and components must be labelled or made identifiable by other means in accordance with Annex II to Directive 2000/53/EC[^annex216-lvlu1-lvl5-lvl54-1].
 
-[^annex217-lvlu1-lvl5-lvl54-1]: See footnote to No 5.3 para. 1.
+[^annex216-lvlu1-lvl5-lvl54-1]: See footnote to No 5.3 para. 1.
 
 ### 5.5 Adaptation of the exemptions and labelling
 
-<sup>1</sup> On receipt of a justified request, with the agreement of the FOPH, the FOEN may adapt Number 5.3 paragraph 1, Number 5.4 and Number 7 paragraph 2 to the version of Annex II to Directive 2000/53/EC[^annex217-lvlu1-lvl5-lvl55-1] in force.
+<sup>1</sup> On receipt of a justified request, with the agreement of the FOPH, the FOEN may adapt Number 5.3 paragraph 1, Number 5.4 and Number 7 paragraph 2 to the version of Annex II to Directive 2000/53/EC[^annex216-lvlu1-lvl5-lvl55-1] in force.
 
 <sup>2</sup> If the expiry date of an original material or component specified in Annex II to Directive 2000/53/EC is before 1 August 2006, the provision specified in Number 5.3 paragraph 1 letter b shall apply to placing it on the market as spare parts.
 
-[^annex217-lvlu1-lvl5-lvl55-1]: See footnote to No 5.3 para. 1.
+[^annex216-lvlu1-lvl5-lvl55-1]: See footnote to No 5.3 para. 1.
 
 ### 6 …
 
@@ -5023,19 +5109,19 @@ Vehicle materials and components must be labelled or made identifiable by other 
 
 <sup>1bis</sup> The prohibition specified in Number 3<sup>ter</sup>.2 paragraph 1 does not apply to articles that are placed on the market for the first time before 1 January 2019.
 
-<sup>2</sup> The prohibition specified in Number 5.2 paragraph 1 does not apply to vehicles and components, if they are listed in Annex II to Directive 2000/53/EC[^annex217-lvlu1-lvl7-1] and were placed on the market for the first time within the dates specified in this Annex and under the conditions specified there.
+<sup>2</sup> The prohibition specified in Number 5.2 paragraph 1 does not apply to vehicles and components, if they are listed in Annex II to Directive 2000/53/EC[^annex216-lvlu1-lvl7-1] and were placed on the market for the first time within the dates specified in this Annex and under the conditions specified there.
 
 <sup>3</sup> The prohibition specified in Number 5.2 paragraph 2 does not apply to vehicles placed on the market for the first time in Switzerland or a Member State of the EU or EFTA, which contain materials or components that may be placed on the market in accordance with Paragraph 2.
 
-[^annex217-lvlu1-lvl7-1]: See footnote to No 5.3 para. 1.
+[^annex216-lvlu1-lvl7-1]: See footnote to No 5.3 para. 1.
 
-Annex 2.17[^t-57]
+Annex 2.17[^t-36]
 
 (Art. 3)
 
 ## Wood-based materials
 
-[^t-57]: Revised by No I of the O of 13 Feb. 2008, in force since 1 March 2008 ([AS 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)).
+[^t-36]: Revised by No I of the O of 13 Feb. 2008, in force since 1 March 2008 ([AS 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)).
 
 ### 1 Definitions
 
@@ -5070,17 +5156,17 @@ It is prohibited for manufacturers to place on the market wood-based materials i
 
 The prohibitions specified in Number 2 come into force on 1 August 2006.
 
-Annex 2.18[^t-58]
+Annex 2.18[^t-37]
 
 (Art. 3)
 
 ## Electrical and electronic equipment
 
-[^t-58]: Inserted by No II para. 1 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No 1 of the FOEN Ordinances of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), No I of the FOEN O of 9 Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) and of 28 Oct. 2022, in force since 1 Dec. 2022 ([AS 2022 632](https://fedlex.data.admin.ch/eli/oc/2022/632)).
+[^t-37]: Inserted by No II para. 1 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No 1 of the FOEN Ordinances of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), No I of the FOEN O of 9 Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), and of 28 October 2022, in force since 1 Dec. 2022 ([AS 2022 632](https://fedlex.data.admin.ch/eli/oc/2022/632)).
 
 ### 1 Definitions
 
-<sup>1</sup> *Electrical and electronic equipment* means equipment as defined in Article 3 point 1 in conjunction with point 2 of Directive 2011/65/EU[^annexu1-lvlu1-lvl1-1], if it falls within the categories listed in Annex I to this Directive. Electrical and electronic equipment does not include equipment which is necessary for the protection of the essential interests of the security of Switzerland, including arms, munitions and war material intended for military purposes, or the equipment, devices, large-scale tools, large-scale installations, means of transport, machinery, photovoltaic panels and pipe organs referred to in Article 2 paragraph 4 letters b to k of Directive 2011/65/EU, as defined in Article 3 of this Directive.
+<sup>1</sup> *Electrical and electronic equipment* means equipment as defined in Article 3 point 1 in conjunction with point 2 of Directive 2011/65/EU[^annex218-lvlu1-lvl1-1], if it falls within the categories listed in Annex I to this Directive. Electrical and electronic equipment does not include equipment which is necessary for the protection of the essential interests of the security of Switzerland, including arms, munitions and war material intended for military purposes, or the equipment, devices, large-scale tools, large-scale installations, means of transport, machinery, photovoltaic panels and pipe organs referred to in Article 2 paragraph 4 letters b to k of Directive 2011/65/EU, as defined in Article 3 of this Directive.
 
 <sup>2</sup> *Cables* means all cables with a rated voltage of less than 250 volts that serve as a connection or an extension to connect electrical or electronic equipment to the electrical outlet or to connect two or more items of electrical or electronic equipment to each other.
 
@@ -5106,11 +5192,11 @@ Annex 2.18[^t-58]
 
 <sup>13</sup> *Withdrawal* means any measure aimed at preventing electrical or electronic equipment in the supply chain from being made available on the market.
 
-[^annexu1-lvlu1-lvl1-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174, 1.7.2011, p. 88; last amended by Directive (EU) 2017/2102 of the European Parliament and of the Council, OJ L 305 of 21.11.2017, p. 8.
+[^annex218-lvlu1-lvl1-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174, 1.7.2011, p. 88; last amended by Directive (EU) 2017/2102 of the European Parliament and of the Council, OJ L 305 of 21.11.2017, p. 8.
 
 ### 2 Prohibitions
 
-<sup>1</sup> It is prohibited to place on the market electrical and electronic equipment, cables or spare parts if the concentration by mass of the following substances listed in Annex II to Directive 2011/65/EU[^annexu1-lvlu1-lvl2-1] exceeds the specified maximum concentration value in the homogeneous material:
+<sup>1</sup> It is prohibited to place on the market electrical and electronic equipment, cables or spare parts if the concentration by mass of the following substances listed in Annex II to Directive 2011/65/EU[^annex218-lvlu1-lvl2-1] exceeds the specified maximum concentration value in the homogeneous material:
 
 <table>
 <tr><th>No</th><th>Substances</th><th>Maximum concentration values (by mass)</th></tr>
@@ -5128,13 +5214,13 @@ Annex 2.18[^t-58]
 
 <sup>2</sup> For compliance with the maximum concentration values specified in paragraph 1, the technical rules specified in Article 4 paragraph 2 sentence 2 of Directive 2011/65/EU apply.
 
-[^annexu1-lvlu1-lvl2-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174 of 1.7.2011, p. 88; last amended by Delegated Directive (EU) (EU) 2015/863, OJ L 137 of 4.6.2015, p. 10.
+[^annex218-lvlu1-lvl2-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174 of 1.7.2011, p. 88; last amended by Delegated Directive (EU) (EU) 2015/863, OJ L 137 of 4.6.2015, p. 10.
 
 ### 3 Exemptions
 
-The prohibitions specified in Number 2 do not apply to electrical and electronic equipment, cables and spare parts which contain substances included in Annexes III and IV to Directive 2011/65/EU[^annexu1-lvlu1-lvl3-1] in the applications listed therein.
+The prohibitions specified in Number 2 do not apply to electrical and electronic equipment, cables and spare parts which contain substances included in Annexes III and IV to Directive 2011/65/EU[^annex218-lvlu1-lvl3-1] in the applications listed therein.
 
-[^annexu1-lvlu1-lvl3-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174, 1.7.2011, p. 88; last amended by Commission Delegated Directive (EU) 2022/1632, OJ L 245 of 22.9.2022, p. 48.
+[^annex218-lvlu1-lvl3-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174, 1.7.2011, p. 88; last amended by Commission Delegated Directive (EU) 2022/1632, OJ L 245 of 22.9.2022, p. 48.
 
 ### 4 Requirements for economic operators
 
@@ -5142,11 +5228,11 @@ The prohibitions specified in Number 2 do not apply to electrical and electronic
 
 <sup>1</sup> Without prejudice to Numbers 3 and 8, the manufacturer placing electrical and electronic equipment on the market must ensure that it has been designed and manufactured in accordance with the requirements specified in Number 2.
 
-<sup>2</sup> The manufacturer must draw up the required technical documentation; he must carry out the internal production control procedure in line with module A of Annex II to Decision No 768/2008/EC[^annexu1-lvlu1-lvl4-lvl41-1] or have it carried out.
+<sup>2</sup> The manufacturer must draw up the required technical documentation; he must carry out the internal production control procedure in line with module A of Annex II to Decision No 768/2008/EC[^annex218-lvlu1-lvl4-lvl41-1] or have it carried out.
 
 <sup>3</sup> Where compliance of electrical or electronic equipment with the requirements specified in Number 2 has been demonstrated by the procedure referred to in paragraph 2, the manufacturer shall draw up a declaration of conformity in accordance with paragraph 4. Where other Swiss or EU legislation requires the application of a conformity assessment procedure which is at least as stringent, compliance with the requirements of Number 2 may be demonstrated within the context of that procedure. A single technical documentation may be drawn up.
 
-<sup>4</sup> The declaration of conformity shall have the model structure and shall contain the elements specified in Annex VI to Directive 2011/65/EU[^annexu1-lvlu1-lvl4-lvl41-2] and shall be updated. It must be written in an official language of Switzerland or in English.
+<sup>4</sup> The declaration of conformity shall have the model structure and shall contain the elements specified in Annex VI to Directive 2011/65/EU[^annex218-lvlu1-lvl4-lvl41-2] and shall be updated. It must be written in an official language of Switzerland or in English.
 
 <sup>5</sup> The manufacturer must ensure that procedures are in place to ensure that, with series production, the requirements specified in this Annex are complied with. Changes in product design or characteristics and changes in the harmonised standards or in technical specifications by reference to which conformity of the electrical or electronic equipment is declared shall be adequately taken into account.
 
@@ -5161,8 +5247,8 @@ The prohibitions specified in Number 2 do not apply to electrical and electronic
 
 <sup>9</sup> The manufacturer must keep a register of his non-conforming electrical and electronic equipment and associated recalls and withdrawals and keep traders regularly informed thereof.
 
-[^annexu1-lvlu1-lvl4-lvl41-1]: Decision No 768/2008/EC of the European Parliament and of the Council of 9 July 2008 on a common framework for the marketing of products, and repealing Council Decision 93/465/EEC, OJ L 218, 13.8.2008, p. 82.
-[^annexu1-lvlu1-lvl4-lvl41-2]: See footnote to No 1 para. 1.
+[^annex218-lvlu1-lvl4-lvl41-1]: Decision No 768/2008/EC of the European Parliament and of the Council of 9 July 2008 on a common framework for the marketing of products, and repealing Council Decision 93/465/EEC, OJ L 218, 13.8.2008, p. 82.
+[^annex218-lvlu1-lvl4-lvl41-2]: See footnote to No 1 para. 1.
 
 ### 4.1<sup>bis</sup> Authorised representative
 
@@ -5215,12 +5301,12 @@ The prohibitions specified in Number 2 do not apply to electrical and electronic
 
 <sup>1</sup> The FOEN, with the agreement of the Federal Office of Public Health (FOPH) and SECO, shall adapt the provisions of this Annex as follows:
 
-- a. Number 2 in accordance with amendments of Annex II to Directive 2011/65/EU[^annexu1-lvlu1-lvl6-1];
+- a. Number 2 in accordance with amendments of Annex II to Directive 2011/65/EU[^annex218-lvlu1-lvl6-1];
 - b. Number 3 in accordance with the currently applicable version of Annexes III and IV to Directive 2011/65/EU.
 
 <sup>2</sup> The FOEN shall publish in the Federal Gazette the titles of the harmonised standards referred to in Number 5 paragraph 2 letter b, also indicating the references or where the standards may be obtained.
 
-[^annexu1-lvlu1-lvl6-1]: See footnote to No 1 para. 1.
+[^annex218-lvlu1-lvl6-1]: See footnote to No 1 para. 1.
 
 ### 7 Batteries
 
@@ -5238,7 +5324,7 @@ For batteries in electrical and electronic equipment, Annex 2.15 applies.
 <tr><td>monitoring and control instruments</td><td>22 July 2014</td></tr>
 <tr><td>in vitro diagnostic medical devices</td><td>22 July 2016</td></tr>
 <tr><td>industrial monitoring and control instruments</td><td>22 July 2017</td></tr>
-<tr><td>equipment not falling within the scope of Directive 2002/95/EC[^annexu1-lvlu1-lvl8-1] and which would not comply with the requirements of Directive 2011/65/EU[^annexu1-lvlu1-lvl8-2] (Art. 2 para. 2 Directive 2011/65/EU)</td><td>22 July 2019</td></tr>
+<tr><td>equipment not falling within the scope of Directive 2002/95/EC[^annex218-lvlu1-lvl8-1] and which would not comply with the requirements of Directive 2011/65/EU[^annex218-lvlu1-lvl8-2] (Art. 2 para. 2 Directive 2011/65/EU)</td><td>22 July 2019</td></tr>
 </table>
 
 - b. to other electrical and electronic equipment placed on the market in Switzerland or a Member State of the EU or EFTA before 1 July 2006.
@@ -5263,5 +5349,5 @@ For batteries in electrical and electronic equipment, Annex 2.15 applies.
 
 <sup>5</sup> If new electrical and electronic equipment contains hexabromobiphenyl or polybrominated diphenyl ethers, with the exception of decabromodiphenyl ether, paragraph 1 letter a does not apply.
 
-[^annexu1-lvlu1-lvl8-1]: Directive 2002/95/EC of the European Parliament and of the Council of 27 January 2003 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 37, 13.2.2003, p. 19; last amended by Decision 2011/534/EU, OJ L 234, 10.9.2011, p. 44; repealed by Directive 2011/65/EU, OJ L 174, 1.7.2011, p. 88.
-[^annexu1-lvlu1-lvl8-2]: See footnote to No 1 para. 1.
+[^annex218-lvlu1-lvl8-1]: Directive 2002/95/EC of the European Parliament and of the Council of 27 January 2003 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 37, 13.2.2003, p. 19; last amended by Decision 2011/534/EU, OJ L 234, 10.9.2011, p. 44; repealed by Directive 2011/65/EU, OJ L 174, 1.7.2011, p. 88.
+[^annex218-lvlu1-lvl8-2]: See footnote to No 1 para. 1.

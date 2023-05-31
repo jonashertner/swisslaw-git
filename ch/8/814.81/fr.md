@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2022-12-01
+version: 2023-06-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20221201-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20230601-fr-xml-16.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221201/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (État le 1<sup>er</sup> décembre 2022)
+du 18 mai 2005 (État le 1<sup>er</sup> juin 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1311,7 +1311,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre, conformément au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20230601/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
@@ -2386,7 +2386,7 @@ Annexe 1.17[^t-18]
 
 [^annex117-lvlu1-1]
 
-[^t-18]: Introduite par le ch. II al. 1 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I des O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), du 10 janv 2017 ([RO 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), du 27 sept. 2018 ([RO 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), l’erratum du 26 fév. 2019 ([RO 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) et le ch. I de l’O de l’OFEV du 29 sept. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)).
+[^t-18]: Introduite par le ch. II al. 1 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I des O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), du 10 janv 2017 ([RO 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), du 27 sept. 2018 ([RO 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), l’erratum du 26 fév. 2019 ([RO 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), le ch. I de l’O de l’OFEV du 29 sept. 2020 ([RO 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) et le ch. I de l’O du 5 avr. 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)).
 [^annex117-lvlu1-1]: Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n<sup>o</sup> 793/93 du Conseil et le règlement (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le règlement (UE) 2020/171, JO L 35 du 7.2.2020, p. 1.
 
 ### 1 Interdiction
@@ -2408,8 +2408,17 @@ La mise sur le marché à des fins d’emploi des substances énumérées au ch.
 - i. dans les matériaux et les objets destinés à entrer en contact avec des denrées alimentaires, lorsque la substance a été incluse dans la liste au ch. 5 uniquement pour une ou plusieurs des propriétés intrinsèques suivantes: «cancérogène», «mutagène», «toxique pour la reproduction» ou «ayant d’autres effets graves sur la santé humaine»;
 - j. en recherche et développement scientifiques;
 - k. de substances dans des préparations, dont la concentration est inférieure à 0,1 % masse et qui ont été incluses dans la liste au ch. 5 au titre de l’art. 57, let. d, e ou f, du règlement (CE) n<sup>o</sup> 1907/2006[^annex117-lvlu1-lvl2-2];
-- l. de substances dans des préparations, dont la concentration est inférieure aux valeurs déterminantes selon l’annexe I, section 1.1.2.2, du règlement (CE) n<sup>o</sup> 1272/2008[^annex117-lvlu1-lvl2-3], qui entraînent la classification du mélange comme dangereux, et qui n’ont pas été incluses dans la liste au ch. 5 au titre de l’art. 57, let. d, e ou f, du règlement (CE) n<sup>o</sup> 1907/2006.
-- [tab] <sup>2</sup> Une interdiction au sens du ch. 1 ne s’applique pas non plus:
+- l. de substances dans des préparations, dont la concentration est inférieure aux valeurs déterminantes selon l’annexe I, section 1.1.2.2, du règlement (CE) n<sup>o</sup> 1272/2008[^annex117-lvlu1-lvl2-3], qui entraînent la classification du mélange comme dangereux, et qui n’ont pas été incluses dans la liste au ch. 5 au titre de l’art. 57, let. d, e ou f, du règlement (CE) n<sup>o</sup> 1907/2006;
+- m. pour la maintenance des systèmes aéronautiques des Forces aériennes suisses;
+- n.
+
+  pour la fabrication de produits chimiques, de médicaments ou de dispositifs médicaux en système fermé, pour autant que le fabricant apporte la preuve que les conditions suivantes sont remplies pendant une durée de dix ans à compter de l’expiration du délai transitoire applicable à la substance énumérée au ch. 5, al. 1:
+
+  - 1\. aucune émission ne parvient dans l’environnement, et
+  - 2\. l’homme ne subit aucune exposition.
+
+<sup>2</sup> Une interdiction au sens du ch. 1 ne s’applique pas non plus:
+
 - a. si la Commission européenne a accordé des autorisations en vertu de l’art. 60, al. 1, du règlement (CE) n<sup>o</sup> 1907/2006 et que la substance est mise sur le marché et employée conformément à l’autorisation de l’UE, ou
 - b. aux emplois de la substance pour lesquels une demande d’autorisation au sens de l’art. 62 du règlement (CE) n<sup>o</sup> 1907/2006 a été déposée dans les délais, mais n’a pas encore fait l’objet d’une décision.
 
@@ -2458,9 +2467,27 @@ La mise sur le marché à des fins d’emploi des substances énumérées au ch.
 - d. l’emplacement de l’emploi;
 - e. des indications concernant le procédé dans le lequel le composé du chrome(VI) est employé.
 
+<sup>1ter</sup> À compter de l’expiration du délai transitoire applicable, toute personne qui emploie une des substances énumérées au ch. 5, al. 1, ou une préparation contenant une de ces substances dans un procédé de fabrication au sens du ch. 2, al. 1, let. n, doit communiquer à l’organe de réception des notifications, dans un délai de trois mois en cas d’emploi préexistant ou dans les trois mois suivant le premier emploi:
+
+- a.
+
+  les informations suivantes:
+
+  - 1\. le nom et l’adresse de l’utilisateur,
+  - 2\. le lieu où la substance est employée,
+  - 3\. le nom et le numéro CAS de la substance ou le nom de la préparation qui contient la substance et le titre massique de celle-ci,
+  - 4\. l’usage prévu du produit fabriqué,
+  - 5\. l’emploi prévu de la substance et des données sur la retenue de celle-ci dans le procédé de fabrication;
+
+- b. la preuve, en vertu du ch. 2, al. 1, let. n , que l’emploi de la substance n’engendre ni émissions dans l’environnement ni exposition de l’homme.
+
 <sup>2</sup> L’organe de réception des notifications tient un registre des communications au sens des al. 1 et 1<sup>bis</sup>.
 
-### 4 …
+### 4 Procédé de fabrication en système fermé
+
+<sup>1</sup> L’organe de réception des notifications contrôle, d’entente avec l’OFEV, l’OFSP et le SECO, dans les six mois suivant la réception de la communication visée au ch. 3, al. 1<sup>ter</sup>, que l’emploi de la substance dans un procédé en système fermé est conforme aux exigences du ch. 2, al. 1, let. n, et le constate dans une décision.
+
+<sup>2</sup> Si les exigences ne sont pas respectées, une demande complète au sens du ch. 2, al. 4, doit être présentée dans un délai de six mois. Si elle n’est pas présentée dans ce délai, l’organe de réception des notifications ordonne l’arrêt du procédé de fabrication.
 
 ### 5 Liste des substances au sens du ch. 1 et dispositions transitoires
 
@@ -2483,13 +2510,13 @@ La mise sur le marché à des fins d’emploi des substances énumérées au ch.
 <tr><td>13.</td><td>Phosphate de tris (2‑chloroéthyle) (TCEP) N<sup>o</sup> CE: 204-118-5 N<sup>o</sup> CAS: 115-96-8</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>21 août 2015</td><td></td><td></td></tr>
 <tr><td>14.</td><td>2,4-dinitrotoluène (2,4‑DNT) N<sup>o</sup> CE: 204-450-0 N<sup>o</sup> CAS: 121-14-2</td><td>Cancérogène (de catégorie 1B)</td><td>21 août 2015</td><td></td><td></td></tr>
 <tr><td>15.</td><td>Trichloroéthylène N<sup>o</sup> CE: 201-167-4 N<sup>o</sup> CAS: 79-01-6</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> décembre 2019</td><td>–</td><td>–</td></tr>
-<tr><td>16.</td><td>Trioxyde de chrome N<sup>o</sup> CE: 215-607-8 N<sup>o</sup> CAS: 1333-82-0</td><td>Cancérogène (de catégorie 1A) Mutagène (de catégorie 1B)</td><td>1<sup>er</sup> <sup>juin</sup> 2021</td><td>Emploi dans des procédés, dans la mesure où le chrome présent dans les produits finaux ne l’est pas sous forme hexavalente</td><td>–</td></tr>
-<tr><td>17.</td><td>Acides générés à partir du trioxyde de chrome et leurs oligomères Groupe comprenant: Acide chromique N<sup>o</sup> CE: 231-801-5 N<sup>o</sup> CAS: 7738-94-5 Acide dichromique N<sup>o</sup> CE: 236-881-5 N<sup>o</sup> CAS: 13530-68-2 Oligomères de l’acide chromique et de l’acide dichromique N<sup>o</sup> CE: non encore attribué N<sup>o</sup> CAS: non encore attribué</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> <sup>juin</sup> 2021</td><td>Emploi dans des procédés, dans la mesure où le chrome présent dans les produits finaux ne l’est pas sous forme hexavalente</td><td>–</td></tr>
-<tr><td>18.</td><td>Dichromate de sodium N<sup>o</sup> CE: 234-190-3 N<sup>os</sup> CAS: 7789-12-0 10588-01-9</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er</sup> <sup>juin</sup> 2021</td><td>Emploi dans des procédés, dans la mesure où le chrome présent dans les produits finaux ne l’est pas sous forme hexavalente</td><td>–</td></tr>
-<tr><td>19.</td><td>Dichromate de potassium N<sup>o</sup> CE: 231‑906-6 N<sup>o</sup> CAS: 7778-50-9</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er</sup> <sup>juin</sup> 2021</td><td>–</td><td>–</td></tr>
-<tr><td>20.</td><td>Dichromate d’ammonium N<sup>o</sup> CE: 232-143-1 N<sup>o</sup> CAS: 7789-09-5</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er</sup> <sup>juin</sup> 2021</td><td>–</td><td>–</td></tr>
-<tr><td>21.</td><td>Chromate de potassium N<sup>o</sup> CE: 232-140-5 N<sup>o</sup> CAS: 7789-00-6</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B)</td><td>1<sup>er</sup> <sup>juin</sup> 2021</td><td>–</td><td>–</td></tr>
-<tr><td>22.</td><td>Chromate de sodium N<sup>o</sup> CE: 231-889-5 N<sup>o</sup> CAS: 7775-11-3</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er</sup> <sup>juin</sup> 2021</td><td>–</td><td>–</td></tr>
+<tr><td>16.</td><td>Trioxyde de chrome N<sup>o</sup> CE: 215-607-8 N<sup>o</sup> CAS: 1333-82-0</td><td>Cancérogène (de catégorie 1A) Mutagène (de catégorie 1B)</td><td>1<sup>er juin</sup> 2021</td><td>Emploi dans des procédés, dans la mesure où le chrome présent dans les produits finaux ne l’est pas sous forme hexavalente</td><td>–</td></tr>
+<tr><td>17.</td><td>Acides générés à partir du trioxyde de chrome et leurs oligomères Groupe comprenant: Acide chromique N<sup>o</sup> CE: 231-801-5 N<sup>o</sup> CAS: 7738-94-5 Acide dichromique N<sup>o</sup> CE: 236-881-5 N<sup>o</sup> CAS: 13530-68-2 Oligomères de l’acide chromique et de l’acide dichromique N<sup>o</sup> CE: non encore attribué N<sup>o</sup> CAS: non encore attribué</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er juin</sup> 2021</td><td>Emploi dans des procédés, dans la mesure où le chrome présent dans les produits finaux ne l’est pas sous forme hexavalente</td><td>–</td></tr>
+<tr><td>18.</td><td>Dichromate de sodium N<sup>o</sup> CE: 234-190-3 N<sup>os</sup> CAS: 7789-12-0 10588-01-9</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er juin</sup> 2021</td><td>Emploi dans des procédés, dans la mesure où le chrome présent dans les produits finaux ne l’est pas sous forme hexavalente</td><td>–</td></tr>
+<tr><td>19.</td><td>Dichromate de potassium N<sup>o</sup> CE: 231‑906-6 N<sup>o</sup> CAS: 7778-50-9</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er juin</sup> 2021</td><td>–</td><td>–</td></tr>
+<tr><td>20.</td><td>Dichromate d’ammonium N<sup>o</sup> CE: 232-143-1 N<sup>o</sup> CAS: 7789-09-5</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er juin</sup> 2021</td><td>–</td><td>–</td></tr>
+<tr><td>21.</td><td>Chromate de potassium N<sup>o</sup> CE: 232-140-5 N<sup>o</sup> CAS: 7789-00-6</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B)</td><td>1<sup>er juin</sup> 2021</td><td>–</td><td>–</td></tr>
+<tr><td>22.</td><td>Chromate de sodium N<sup>o</sup> CE: 231-889-5 N<sup>o</sup> CAS: 7775-11-3</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er juin</sup> 2021</td><td>–</td><td>–</td></tr>
 <tr><td>23.</td><td>Formaldéhyde, produits de réaction oligomères avec l’aniline (MDA technique) N<sup>o</sup> CE: 500-036-1 N<sup>o</sup> CAS: 25214-70-4</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> novembre 2021</td><td>–</td><td>–</td></tr>
 <tr><td>24.</td><td>Acide arsénique N<sup>o</sup> CE: 231-901-9 N<sup>o</sup> CAS: 7778-39-4</td><td>Cancérogène (de catégorie 1A)</td><td>1<sup>er</sup> novembre 2021</td><td>–</td><td>–</td></tr>
 <tr><td>25.</td><td>Éther de bis(2-méthoxyéthyle) (diglyme) N<sup>o</sup> CE: 203‑924-4 N<sup>o</sup> CAS: 111-96-6</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er</sup> novembre 2021</td><td>–</td><td>–</td></tr>
@@ -3318,7 +3345,7 @@ Annexe 2.5[^t-24]
 - c. dans les haies et les bosquets, ainsi que sur une bande de 3 m de large le long de ceux-ci;
 - d. en forêt et sur une bande de 3 m de large le long de la zone boisée;
 - e. dans les eaux superficielles et sur une bande de 3 m de large le long de celles-ci, sachant que la bande concernant les cours d’eau pour lesquels un espace réservé au cours d’eau au sens de l’art. 41*a* OEaux[^annex25-lvlu1-lvl1-lvl11-1] a été fixé ou pour lesquels un espace réservé au cours d’eau n’a expressément pas été fixé, conformément à l’art. 41*a*, al. 5, OEaux, se mesure à partir de la ligne du rivage et pour les autres cours d’eaux et les plans d’eau à partir de la limite supérieure de la berge conformément à la brochure «Bordures tampon, Comment les mesurer, comment les exploiter?», KIP/PIOCH 2009[^annex25-lvlu1-lvl1-lvl11-2];
-- f. dans la zone S1 de protection des eaux souterraines ;
+- f. dans la zone S1 de protection des eaux souterraines;
 - g. sur les voies ferrées et le long de celles-ci dans les zones S2 et S<sub>h</sub> de protection des eaux souterraines.
 
 <sup>2</sup> Il est en outre interdit d’employer des produits phytosanitaires destinés à éliminer des plantes ou des parties de plantes indésirables ou à influencer une croissance indésirable:
@@ -3970,7 +3997,7 @@ Annexe 2.9[^t-28]
 
 <sup>2</sup> Les préparations et les objets contenant du PVC valorisé doivent porter la mention «Contient du PVC valorisé» ou le pictogramme suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20230601/fr/xml/image/image2.png)
 
 <sup>3</sup> Les préparations dont la teneur en diisocyanate de méthylènediphényle est égale ou supérieure à 0,1 % masse et qui sont destinées au grand public doivent porter la mention suivante: «Les personnes déjà sensibilisées aux diisocyanates peuvent développer des réactions allergiques en utilisant ce produit. – Il est conseillé aux personnes souffrant d’asthme, d’eczéma ou de réactions cutanées d’éviter le contact, y compris cutané, avec ce produit. – Ce produit ne peut pas être utilisé dans les lieux insuffisamment ventilés, sauf avec un masque de protection équipé d’un filtre antigaz adapté (de type A1 répondant à la norme EN 14387)».
 
@@ -4325,15 +4352,15 @@ L’OFEV édicte des recommandations concernant:
 
 <sup>1</sup> Les interdictions au sens du ch. 2.1, al. 2, concernant la mise sur le marché et l’importation à titre privé ne s’appliquent pas aux appareils ménagers de réfrigération et de congélation, aux déshumidificateurs et aux climatiseurs fabriqués avant le 1<sup>er</sup> janvier 2005.
 
-<sup>2</sup> Si une autorisation a été octroyée pour la mise en place d’une installation stationnaire contenant plus de 3 kg de fluides frigorigènes stables dans l’air avant le 1<sup>er</sup> décembre 2013 conformément au ch. 3.3 de la version du 18 mai 2005[^annex210-lvlu1-lvl6-1], l’installation concernée ne peut être mise en place que jusqu’au 31 décembre 2016.
+<sup>2</sup> Si une autorisation a été octroyée pour la mise en place d’une installation stationnaire contenant plus de 3 kg de fluides frigorigènes stables dans l’air avant le 1<sup>er</sup> décembre 2013 conformément au ch. 3.3 de la version du 18 mai 2005[^annex210-lvlu1-lvl7-1], l’installation concernée ne peut être mise en place que jusqu’au 31 décembre 2016.
 
-<sup>3</sup> L’étiquetage au sens du ch. 2.3<sup>bis</sup> dans la version du 10 décembre 2010 de l’ORRChim[^annex210-lvlu1-lvl6-2] reste autorisé jusqu’au 31 mai 2020 pour les appareils et installations qui contiennent ou sont destinés à contenir des fluides frigorigènes stables dans l’air figurant à l’annexe A du Protocole de Kyoto du 11 décembre 1997 à la Convention-cadre des Nations Unies sur les changements climatiques (protocole de Kyoto)[^annex210-lvlu1-lvl6-3].
+<sup>3</sup> L’étiquetage au sens du ch. 2.3<sup>bis</sup> dans la version du 10 décembre 2010 de l’ORRChim[^annex210-lvlu1-lvl7-2] reste autorisé jusqu’au 31 mai 2020 pour les appareils et installations qui contiennent ou sont destinés à contenir des fluides frigorigènes stables dans l’air figurant à l’annexe A du Protocole de Kyoto du 11 décembre 1997 à la Convention-cadre des Nations Unies sur les changements climatiques (protocole de Kyoto)[^annex210-lvlu1-lvl7-3].
 
 <sup>4</sup> Les appareils et installations auxquels le ch. 2.2, al. 2 à 4 et 6, ne s’applique pas, car il existe un substitut en raison d’une modification de l’état de la technique, peuvent encore être fabriqués, importés à des fins professionnelles ou commerciales pendant six mois et remis à des tiers durant six mois supplémentaires.
 
-[^annex210-lvlu1-lvl6-1]: [RO 2005 2917](https://fedlex.data.admin.ch/eli/oc/2005/478)
-[^annex210-lvlu1-lvl6-2]: [RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
-[^annex210-lvlu1-lvl6-3]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex210-lvlu1-lvl7-1]: [RO 2005 2917](https://fedlex.data.admin.ch/eli/oc/2005/478)
+[^annex210-lvlu1-lvl7-2]: [RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+[^annex210-lvlu1-lvl7-3]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
 Annexe 2.11[^t-30]
 

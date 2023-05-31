@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2022-12-01
+version: 2023-06-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20221201-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20230601-de-xml-16.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221201/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. Dezember 2022)
+vom 18. Mai 2005 (Stand am 1. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1316,7 +1316,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20230601/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -2391,7 +2391,7 @@ Anhang 1.17[^t-18]
 
 [^annex117-lvlu1-1]
 
-[^t-18]: Eingefügt durch Ziff. II Abs. 1 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), vom 10. Jan. 2017 ([AS 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), vom 27. Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), der Berichtigung vom 26. Febr. 2019 ([AS 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Ziff. I der V des BAFU vom 29. Sept. 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)).
+[^t-18]: Eingefügt durch Ziff. II Abs. 1 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), vom 10. Jan. 2017 ([AS 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), vom 27. Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), der Berichtigung vom 26. Febr. 2019 ([AS 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Ziff. I der V des BAFU vom 29. Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) und Ziff. I der V vom 5. April 2023, in Kraft seit 1. Juni 2023 ([AS 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)).
 [^annex117-lvlu1-1]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2020/171, ABl. L 35 vom 7.2.2020, S. 1.
 
 ### 1 Verbote
@@ -2413,7 +2413,14 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 - i. in Materialien und Gegenständen, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, sofern der Stoff ausschliesslich aufgrund der inhärenten Eigenschaften «krebserzeugend», «erbgutverändernd», «fortpflanzungsgefährdend» oder «andere schwerwiegende Wirkungen auf die menschliche Gesundheit» in die Liste nach Ziffer 5 aufgenommen worden ist;
 - j. im Rahmen der wissenschaftlichen Forschung und Entwicklung;
 - k. von Stoffen in Zubereitungen, deren Konzentration unter 0,1 Massenprozent liegt und die aufgrund von Artikel 57 Buchstaben d, e oder f der Verordnung (EG) Nr. 1907/2006[^annex117-lvlu1-lvl2-2] in die Liste nach Ziffer 5 aufgenommen worden sind;
-- l. von Stoffen in Zubereitungen, deren Konzentration unterhalb der Grenzwerte nach Anhang I Ziffer 1.1.2.2 der Verordnung (EG) Nr. 1272/2008[^annex117-lvlu1-lvl2-3] liegt, nach denen die Zubereitung als gefährlich eingestuft wird, und die nicht aufgrund von Artikel 57 Buchstaben d, e oder f der Verordnung (EG) Nr. 1907/2006 in die Liste nach Ziffer 5 aufgenommen worden sind.
+- l. von Stoffen in Zubereitungen, deren Konzentration unterhalb der Grenzwerte nach Anhang I Ziffer 1.1.2.2 der Verordnung (EG) Nr. 1272/2008[^annex117-lvlu1-lvl2-3] liegt, nach denen die Zubereitung als gefährlich eingestuft wird, und die nicht aufgrund von Artikel 57 Buchstaben d, e oder f der Verordnung (EG) Nr. 1907/2006 in die Liste nach Ziffer 5 aufgenommen worden sind;
+- m. zur Instandhaltung von Luftfahrtsystemen der Schweizer Luftwaffe;
+- n.
+
+  zur Herstellung von Chemikalien, Arzneimitteln oder Medizinprodukten in einem geschlossenen System, wenn die Herstellerin nachweist, dass für eine Dauer von 10 Jahren nach Ablauf der Übergangsfrist für den in Ziffer 5 Absatz 1 aufgelisteten Stoff:
+
+  - 1\. keine Emission in die Umwelt erfolgt, und
+  - 2\. es zu keiner Exposition des Menschen kommt.
 
 <sup>2</sup> Ein Verbot nach Ziffer 1 gilt zudem nicht:
 
@@ -2422,7 +2429,7 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 
 <sup>3</sup> Auf Verlangen der Anmeldestelle gemäss Artikel 77 ChemV hat die Importeurin das bei der Europäischen Chemikalienagentur eingereichte Zulassungsdossier vorzulegen, soweit dieses mit zumutbarem Aufwand beschafft werden kann.
 
-<sup>4</sup> Die Anmeldestelle kann im Einvernehmen mit dem Bundesamt für Umwelt (BAFU), dem Bundesamt für Gesundheit (BAG) und dem SECO auf begründetes Gesuch weitere, befristete Ausnahmen von den Verboten nach Ziffer 1 unter Vergabe einer Nummer bewilligen (Bewilligungsnummer), wenn:
+<sup>4</sup> Die Anmeldestelle kann im Einvernehmen mit dem Bundesamt für Umwelt (BAFU), dem Bundesamt für Gesundheit (BAG) und dem Staatsekretariat für Wirtschaft (SECO) auf begründetes Gesuch weitere, befristete Ausnahmen von den Verboten nach Ziffer 1 unter Vergabe einer Nummer bewilligen (Bewilligungsnummer), wenn:
 
 - a. der Antragsteller die Informationen gemäss Artikel 62 Absätze 4–6 der Verordnung (EG) Nr. 1907/2006 zur Verfügung stellt, wobei die sozioökonomische Analyse auf die Schweizer Verhältnisse zugeschnitten sein muss; und
 - b. die Voraussetzungen für eine Zulassungserteilung nach Artikel 60 Absätze 2–10 der Verordnung (EG) Nr. 1907/2006 sinngemäss erfüllt sind.
@@ -2465,9 +2472,27 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 - d. den Standort der Verwendung;
 - e. Angaben zum Prozess, in dem die Chrom(VI)-Verbindung verwendet wird.
 
+<sup>1ter</sup> Wer einen in Ziffer 5 Absatz 1 aufgelisteten Stoff oder eine Zubereitung, die einen solchen Stoff enthält, in einem Herstellungsprozess nach Ziffer 2 Absatz 1 Buchstabe n verwendet, hat der Anmeldestelle nach Ablauf der Übergangsfrist für diesen Stoff bei weiterer oder erstmaliger Verwendung innerhalb von drei Monaten:
+
+- a.
+
+  zu melden:
+
+  - 1\. den Namen und die Adresse der Verwenderin,
+  - 2\. den Standort der Verwendung,
+  - 3\. den Namen und die CAS-Nummer des Stoffs oder den Namen der Zubereitung, welche den Stoff enthält und deren Massengehalt,
+  - 4\. den Verwendungszweck des hergestellten Produkts,
+  - 5\. den Verwendungszweck des Stoffs und Angaben zum Verbleib des Stoffs im Herstellungsprozess;
+
+- b. den Nachweis nach Ziffer 2 Absatz 1 Buchstabe n zu erbringen, dass es bei der Verwendung des Stoffs zu keiner Emission in die Umwelt und zu keiner Exposition von Menschen kommt.
+
 <sup>2</sup> Die Anmeldestelle führt ein Verzeichnis über die Meldungen nach den Absätzen 1 und 1<sup>bis</sup>.
 
-### 4 …
+### 4 Herstellungsprozess in einem geschlossenen System
+
+<sup>1</sup> Die Anmeldestelle überprüft im Einvernehmen mit dem BAFU, dem BAG und dem SECO innerhalb von sechs Monaten nach Eingang der Meldung nach Ziffer 3 Absatz 1<sup>ter</sup> und stellt fest, ob die Verwendung des Stoffs in einem Herstellungsprozess in einem geschlossenen System den Anforderungen von Ziffer 2 Absatz 1 Buchstabe n entspricht.
+
+<sup>2</sup> Sind die Anforderungen nicht eingehalten, ist innerhalb von sechs Monaten ein vollständiges Gesuch nach Ziffer 2 Absatz 4 einzureichen. Andernfalls ordnet die Anmeldestelle die Stilllegung des Herstellungsprozesses an.
 
 ### 5 Liste der Stoffe nach Ziffer 1 und Übergangsbestimmungen
 
@@ -3977,7 +4002,7 @@ Anhang 2.9[^t-28]
 
 <sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20230601/de/xml/image/image2.png)
 
 <sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 
