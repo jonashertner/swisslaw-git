@@ -3,20 +3,19 @@ canton: AR
 number: "760.1"
 title: Gesetz über die Förderung des öffentlichen Verkehrs
 language: de
-version: 2016-01-01
-valid_until: 2023-05-31
-version_adopted: 2015-05-11
+version: 2023-06-01
+version_adopted: 2022-10-31
 adopted: 1991-04-28
 in_force: 1992-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/760.1"
-pdf: "https://ar.clex.ch/api/de/versions/1032/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1457/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Förderung des öffentlichen Verkehrs
 
-vom 28.04.1991 (Stand 01.01.2016)
+vom 28.04.1991 (Stand 01.06.2023)
 
 Die Landsgemeinde des Kantons Appenzell A.Rh.,
 
@@ -210,20 +209,7 @@ beschliesst:
 
 #### Art. 20
 
-**Verkehrskommission**
-
-<sup>1</sup> Der Regierungsrat wählt eine aus mindestens sieben Mitgliedern bestehende Verkehrskommission.
-
-<sup>2</sup> Ihr gehören insbesondere an:
-
-- a) der Volkswirtschaftsdirektor als Präsident,
-- b) Vertreter des Kantonsrates,
-- c) Vertreter der Gemeinden,
-- d) Vertreter der Verkehrsunternehmen.
-
-<sup>3</sup> Die Verkehrskommission berät das Departement Bau und Volkswirtschaft; sie erarbeitet das kantonale Leitbild zur Förderung des öffentlichen Verkehrs, nimmt zu Begehren um Änderungen des Angebots und anderen wesentlichen Neuerungen zuhanden der entscheidenden Behörde Stellung und koordiniert die Förderungsmassnahmen im Sinne von Art. 4.
-
-<sup>4</sup> Die Verkehrskommission kann Experten beiziehen.
+**…**
 
 ## V. Schluss- und Übergangsbestimmungen
 
