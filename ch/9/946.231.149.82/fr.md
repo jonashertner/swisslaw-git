@@ -3,18 +3,18 @@ sr: "946.231.149.82"
 title: "Ordonnance du 30 mars 2011 instituant des mesures à l'encontre de la Libye"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
 language: fr
-version: 2023-01-24
+version: 2023-06-01
 adopted: 2011-03-30
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20230124/fr/xml/fedlex-data-admin-ch-eli-cc-2011-203-20230124-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20230124/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2011-203-20230601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Libye
 
-du 30 mars 2011 (État le 24 janvier 2023)
+du 30 mars 2011 (État le 1<sup>er</sup> juin 2023)
 
 Le Conseil fédéral suisse,
 
@@ -40,13 +40,15 @@ arrête:
 
 <sup>5</sup>
 
-Le Secrétariat d’État à l’économie (SECO) peut, après consultation des services compétents du Département fédéral des affaires étrangères (DFAE) et, le cas échéant, en conformité avec les décisions du comité compétent du Conseil de sécurité de l’ONU, autoriser des exceptions aux interdictions prévues aux al. 1 à 4 pour:
+Le Secrétariat d’État à l’économie (SECO) peut, après consultation des services compétents du Département fédéral des affaires étrangères (DFAE) et, le cas échéant, en conformité avec les décisions du comité compétent du Conseil de sécurité des Nations Unies[^1-1], autoriser des exceptions aux interdictions prévues aux al. 1 à 4 pour:
 
 - a. des équipements militaires non létaux destinés exclusivement à un usage humanitaire ou de protection;
 - b. d’autres biens d’équipement militaires et d’assistance, y compris de personnel, en rapport avec ces équipements;
 - c. des armes de chasse et de sport, ainsi que leurs munitions, accessoires et pièces de rechange.
 
 <sup>6</sup> Les interdictions prévues aux al. 1 à 3 ne s’appliquent pas à l’exportation temporaire de vêtements de protection, y compris les gilets et casques pare-balles, par le personnel des Nations Unies, de l’Union européenne ou de la Confédération, les représentants des médias et les agents humanitaires, pour leur usage personnel.
+
+[^1-1]: Nouvelle expression selon le ch. I 10 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2
 
@@ -64,16 +66,32 @@ Sont gelés les avoirs et les ressources économiques appartenant à ou sous con
 
 <sup>3</sup>
 
-Le SECO peut, exceptionnellement, après avoir consulté les services compétents du DFAE et du Département fédéral des finances (DFF) et, le cas échéant, après notification au comité compétent du Conseil de sécurité de l’ONU et en conformité avec les décisions dudit comité, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
+L’interdiction prévue à l’al. 2 ne s’applique pas à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes par:
+
+- a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
+- b. des organisations internationales;
+- c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
+- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
+- e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d, lorsqu’ils agissent en cette qualité;
+- f. tous les autres acteurs tels que déterminés par le comité compétent du Conseil de sécurité des Nations Unies.[^2-2]
+
+<sup>4</sup>
+
+Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
 
 - a. d’éviter les cas de rigueur;
 - b. d’honorer des contrats existants;
 - c. d’honorer des créances en application d’une mesure ou décision judiciaire, administrative ou arbitrale;
 - d. de répondre à des besoins humanitaires;
 - e. de financer des mesures destinées à soutenir la reconstruction économique, ou
-- f. de sauvegarder les intérêts de la Suisse.
+- f. de sauvegarder les intérêts de la Suisse.[^2-3]
+
+<sup>5</sup> Il accorde les dérogations prévues à l’al. 4 après consultation des services compétents du DFAE et du Département fédéral des finances (DFF) et, le cas échéant, après notification au comité compétent du Conseil de sécurité des Nations Unies et en conformité avec les décisions dudit comité.[^2-4]
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 27 oct. 2011 ([RO 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
+[^2-2]: Nouvelle teneur selon le ch. I 10 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-3]: Introduit par le ch. I 10 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-4]: Introduit par le ch. I 10 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 3
 
@@ -94,7 +112,7 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>1</sup> L’entrée en Suisse et le transit par la Suisse sont interdits aux personnes physiques citées aux annexes 4 et 5.
 
-<sup>2</sup> Le Secrétariat d’État aux migrations (SEM)[^4-1] peut, en conformité avec les décisions du comité compétent du Conseil de sécurité de l’ONU, accorder des dérogations pour des personnes physiques visées à l’annexe 4.
+<sup>2</sup> Le Secrétariat d’État aux migrations (SEM)[^4-1] peut, en conformité avec les décisions du comité compétent du Conseil de sécurité des Nations Unies, accorder des dérogations pour des personnes physiques visées à l’annexe 4.
 
 <sup>3</sup>
 
@@ -287,7 +305,7 @@ Annexe 1
 
 [^annex1-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
 [^annex1-lvlu1-2]: Le renvoi a été adapté au 1<sup>er</sup> juil. 2016 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^annex1-lvlu1-3]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). L’annexe 3 peut être consultée sur le site internet suivant: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
+[^annex1-lvlu1-3]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). L’annexe 3 peut être consultée sur le site internet suivant: [www.seco.admin.ch](https://www.seco.admin.ch/) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
 
 Annexe 2[^t-1]
 
@@ -303,8 +321,8 @@ Annexe 2[^t-1]
 
 \2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex2-lvlu1-2].
 
-[^annex2-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité du Conseil concernant la Libye &gt; Matériaux relatifs à la liste de sanctions.
-[^annex2-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annex2-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: [www.un.org/fr/sc](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité du Conseil concernant la Libye &gt; Matériaux relatifs à la liste de sanctions.
+[^annex2-lvlu1-2]: La banque de données SESAM est librement accessible Internet: [www.seco.admin.ch](https://www.seco.admin.ch/) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
 Annexe 3[^t-2]
 
@@ -331,8 +349,8 @@ Annexe 4[^t-3]
 
 \2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex4-lvlu1-2].
 
-[^annex4-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité du Conseil concernant la Libye &gt; Matériaux relatifs à la liste de sanctions.
-[^annex4-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annex4-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: [www.un.org/fr/sc](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité du Conseil concernant la Libye &gt; Matériaux relatifs à la liste de sanctions.
+[^annex4-lvlu1-2]: La banque de données SESAM est librement accessible Internet: [www.seco.admin.ch](https://www.seco.admin.ch/) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
 Annexe 5[^t-4]
 

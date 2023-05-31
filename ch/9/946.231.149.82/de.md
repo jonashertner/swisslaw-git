@@ -3,18 +3,18 @@ sr: "946.231.149.82"
 title: Verordnung vom 30. März 2011 über Massnahmen gegenüber Libyen
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
 language: de
-version: 2023-01-24
+version: 2023-06-01
 adopted: 2011-03-30
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20230124/de/xml/fedlex-data-admin-ch-eli-cc-2011-203-20230124-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20230124/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2011-203-20230601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Libyen
 
-vom 30. März 2011 (Stand am 24. Januar 2023)
+vom 30. März 2011 (Stand am 1. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -40,13 +40,15 @@ verordnet:
 
 <sup>5</sup>
 
-Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und, soweit anwendbar, in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrates Ausnahmen von den Verboten der Absätze 1–4 bewilligen für:
+Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und, soweit anwendbar, in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen[^1-1] Ausnahmen von den Verboten der Absätze 1–4 bewilligen für:
 
 - a. nicht letales militärisches Gerät, das ausschliesslich für humanitäre Zwecke oder Schutzzwecke bestimmt ist;
 - b. sonstige Rüstungsgüter und damit zusammenhängende Unterstützung, einschliesslich Personal;
 - c. Jagd- und Sportwaffen sowie Munition, Zubehör und Ersatzteile dafür.
 
 <sup>6</sup> Die vorübergehende Ausfuhr von Schutzkleidung, einschliesslich kugelsicherer Westen und Helme, zur persönlichen Verwendung durch das Personal der Vereinten Nationen, der Europäischen Union oder des Bundes, durch Medienvertreter sowie durch humanitäres Personal ist von den Verboten der Absätze 1–3 ausgenommen.
+
+[^1-1]: Ausdruck gemäss Ziff. I 10 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Diese Änderung wurde im ganzen Text vorgenommen.
 
 #### Art. 2
 
@@ -64,16 +66,32 @@ Gesperrt sind Gelder und wirtschaftliche Ressourcen im Eigentum oder unter der K
 
 <sup>3</sup>
 
-In Ausnahmefällen kann das SECO nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements (EFD) sowie, soweit anwendbar, nach Meldung an das zuständige Komitee des UNO-Sicherheitsrates und in Übereinstimmung mit den Beschlüssen dieses Komitees, Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen bewilligen zur:
+Das Verbot nach Absatz 2 gilt nicht für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+
+- a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
+- b. internationale Organisationen;
+- c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
+- d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
+- e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d genannten Organisationen, soweit sie in dieser Eigenschaft handeln;
+- f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.[^2-2]
+
+<sup>4</sup>
+
+Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
 
 - a. Vermeidung von Härtefällen;
 - b. Erfüllung bestehender Verträge;
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind;
 - d. Deckung humanitärer Bedürfnisse;
 - e. Finanzierung von Massnahmen zur Unterstützung des wirtschaftlichen Wiederaufbaus; oder
-- f Wahrung schweizerischer Interessen.
+- f. Wahrung schweizerischer Interessen.[^2-3]
+
+<sup>5</sup> Es bewilligt Ausnahmen nach Absatz 4 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements sowie, falls anwendbar, nach Meldung an das zuständige Komitee des Sicherheitsrats der Vereinten Nationen und in Übereinstimmung mit den Beschlüssen dieses Komitees.[^2-4]
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2011, in Kraft seit 27. Okt. 2011 ([AS 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
+[^2-2]: Fassung gemäss Ziff. I 10 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-3]: Eingefügt durch Ziff. I 10 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-4]: Eingefügt durch Ziff. I 10 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 3
 
@@ -94,7 +112,7 @@ In dieser Verordnung bedeuten:
 
 <sup>1</sup> Die Einreise in die Schweiz oder die Durchreise durch die Schweiz ist den in den Anhängen 4 und 5 aufgeführten natürlichen Personen verboten.
 
-<sup>2</sup> Das Staatssekretariat für Migration (SEM)[^4-1] kann in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrates Ausnahmen für natürliche Personen nach Anhang 4 gewähren.
+<sup>2</sup> Das Staatssekretariat für Migration (SEM)[^4-1] kann in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen Ausnahmen für natürliche Personen nach Anhang 4 gewähren.
 
 <sup>3</sup>
 
@@ -230,13 +248,16 @@ Anhang 1
   Explosivstoffe und dazugehörige Ausrüstung, die nicht von Anhang 1 KMV und nicht von Anhang 3 GKV erfasst werden, wie folgt:
 
   - 3\.1 Geräte und Ausrüstung, besonders konstruiert zum Auslösen von Explosionen durch elektrische oder nicht elektrische Mittel, einschliesslich Zündvorrichtungen, Sprengkapseln, Zündern, Zündverstärkern, Sprengschnüren, sowie besonders konstruierte Bestandteile hierfür. Ausgenommen sind Geräte und Ausrüstung, die in industriellen Produkten zur Anwendung kommen, zum Beispiel Anzünder für Airbags.
-  - 3\.2 Andere Explosivstoffe und dazugehörige Stoffe, wie folgt:
-  - a. Amatol;
-  - b. Nitrocellulose (mit mehr als 12,5 % Stickstoff)
-  - c. Nitroglykol;
-  - d. Pentaerythrittetranitrat (PETN);
-  - e. Pikrylchlorid;
-  - f. 2,4,6-Trinitrotoluol (TNT).
+  - 3\.2
+
+    Andere Explosivstoffe und dazugehörige Stoffe, wie folgt:
+
+    - a. Amatol;
+    - b. Nitrocellulose (mit mehr als 12,5 % Stickstoff)
+    - c. Nitroglykol;
+    - d. Pentaerythrittetranitrat (PETN);
+    - e. Pikrylchlorid;
+    - f. 2,4,6-Trinitrotoluol (TNT).
 
 - 4 Schutzausrüstung, die weder von Nummer ML 13 Anhang 3 GKV erfasst noch besonders konstruiert ist für den Sport oder als Arbeitsschutz,
 
@@ -280,7 +301,7 @@ Anhang 1
 - 15 Spezifische Technologie zur Entwicklung, Herstellung oder Verwendung der in dieser Liste aufgeführten Güter.
 
 [^annex1-lvlu1-1]: [SR 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex1-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Anhang 3 GKV ist abrufbar unter folgender Internetadresse: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
+[^annex1-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Anhang 3 GKV ist abrufbar unter folgender Internetadresse: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte (Dual-Use) und besondere militärische Güter (Licensing) &gt; Rechtliche Grundlagen und Güterlisten (Anhänge).
 [^annex1-lvlu1-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Juli 2016 angepasst.
 
 Anhang 2[^t-1]
@@ -297,7 +318,7 @@ Anhang 2[^t-1]
 
 \2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Libya Sanctions Committee &gt; Sanctions List Materials.
+[^annex2-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: [https://www.un.org/securitycouncil/](https://www.un.org/securitycouncil/) &gt; Sanctions &gt; Libya Sanctions Committee &gt; Sanctions List Materials.
 [^annex2-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
 
 Anhang 3[^t-2]
@@ -308,7 +329,7 @@ Anhang 3[^t-2]
 
 [^annex3-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. I 16 der V vom 19. Dez. 2012 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 20. März 2013 ([AS 2013 957](https://fedlex.data.admin.ch/eli/oc/2013/198)), vom 14. Juni 2013 ([AS 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), vom 19. Febr. 2014 ([AS 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), vom 24. März 2015 ([AS 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), vom 27. Aug. 2015 ([AS 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), vom 5. Febr. 2016 ([AS 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), vom 8. Mai 2017 ([AS 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), vom 15. Aug. 2018 ([AS 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), vom 21. Aug. 2019 ([AS 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), vom 12. Aug. 2020 ([AS 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), vom 5. Okt. 2020 ([AS 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), vom 14. Okt. 2020 ([AS 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), vom 27. Okt. 2020 ([AS 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), vom 19. April 2021 ([AS 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), vom 5. Mai 2021 ([AS 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), vom 12. Aug. 2021 ([AS 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)), vom 23. Nov. 2021 ([AS 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)), vom 13. Jan. 2022 ([AS 2022 6](https://fedlex.data.admin.ch/eli/oc/2022/6)) und vom 23. Jan. 2023, in Kraft seit 24. Jan. 2023 um 18.00 Uhr (AS **202****3** 24).
+[^t-2]: Bereinigt gemäss Ziff. I 16 der V vom 19. Dez. 2012 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 20. März 2013 ([AS 2013 957](https://fedlex.data.admin.ch/eli/oc/2013/198)), vom 14. Juni 2013 ([AS 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), vom 19. Febr. 2014 ([AS 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), vom 24. März 2015 ([AS 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), vom 27. Aug. 2015 ([AS 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), vom 5. Febr. 2016 ([AS 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), vom 8. Mai 2017 ([AS 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), vom 15. Aug. 2018 ([AS 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), vom 21. Aug. 2019 ([AS 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), vom 12. Aug. 2020 ([AS 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), vom 5. Okt. 2020 ([AS 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), vom 14. Okt. 2020 ([AS 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), vom 27. Okt. 2020 ([AS 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), vom 19. April 2021 ([AS 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), vom 5. Mai 2021 ([AS 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), vom 12. Aug. 2021 ([AS 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)), vom 23. Nov. 2021 ([AS 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)), vom 13. Jan. 2022 ([AS 2022 6](https://fedlex.data.admin.ch/eli/oc/2022/6)) und vom 23. Jan. 2023, in Kraft seit 24. Jan. 2023 um 18.00 Uhr ([AS 2023 24](https://fedlex.data.admin.ch/eli/oc/2023/24)).
 [^annex3-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/24](https://fedlex.data.admin.ch/eli/oc/2023/24) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 4[^t-3]
@@ -325,7 +346,7 @@ Anhang 4[^t-3]
 
 \2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex4-lvlu1-2]
 
-[^annex4-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Libya Sanctions Committee &gt; Sanctions List Materials.
+[^annex4-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: [https://www.un.org/securitycouncil/](https://www.un.org/securitycouncil/) &gt; Sanctions &gt; Libya Sanctions Committee &gt; Sanctions List Materials.
 [^annex4-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
 
 Anhang 5[^t-4]
