@@ -4,13 +4,12 @@ number: "30"
 title: Gesetz über die Organisation und Geschäftsführung des Kantonsrates
 short: "Kantonsratsgesetz, KRG"
 language: de
-version: 2022-04-01
-valid_until: 2023-05-31
-version_adopted: 2022-01-24
+version: 2023-06-01
+version_adopted: 2023-03-20
 adopted: 1976-06-28
 in_force: 1977-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/30"
-pdf: "https://srl.lu.ch/api/de/versions/3908/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4089/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3908/pdf_file"
 
 (Kantonsratsgesetz, KRG)
 
-vom 28.06.1976 (Stand 01.04.2022)
+vom 28.06.1976 (Stand 01.06.2023)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -48,6 +47,8 @@ beschliesst:
 **Provisorisches Büro**
 
 <sup>1</sup> Das älteste Mitglied des neugewählten Kantonsrates oder bei dessen Verhinderung das nächstälteste besorgt als Alterspräsident oder als Alterspräsidentin die mit der Konstituierung zusammenhängenden Präsidialaufgaben.
+
+<sup>1 <sup>bis</sup></sup> Sofern das älteste Mitglied diese Aufgabe bereits einmal innehatte, besorgt das nächstälteste Mitglied oder bei dessen Verhinderung das drittälteste Mitglied des Kantonsrates als Alterspräsident oder als Alterspräsidentin die Präsidialaufgaben.
 
 <sup>2</sup> Der Alterspräsident oder die Alterspräsidentin ernennt vor der konstituierenden Sitzung aus den neugewählten Mitgliedern, die schon bisher dem Kantonsrat angehörten, vier Stimmenzählerinnen und -zähler, die mit ihm oder ihr zusammen das provisorische Büro bilden.
 
@@ -218,7 +219,7 @@ beschliesst:
 
 <sup>1</sup> Die Bildung einer Fraktion erfordert mindestens fünf Mitglieder.
 
-<sup>2</sup> Die Fraktionsmitglieder wählen aus ihrer Mitte einen Fraktionspräsidenten oder eine Fraktionspräsidentin und deren Stellvertretungen.
+<sup>2</sup> Die Fraktionsmitglieder wählen aus ihrer Mitte ein Fraktionspräsidium. Das Fraktionspräsidium konstituiert sich selbst und delegiert eines seiner Mitglieder für eine Legislatur in die Geschäftsleitung.
 
 #### § 20
 
@@ -285,7 +286,7 @@ beschliesst:
 
 **Vertretung der Fraktionen**
 
-<sup>1</sup> Die Fraktionen sollen in der Regel in den Kommissionen im Verhältnis ihrer Mitgliederzahl vertreten sein.
+<sup>1</sup> Die Fraktionen sind in den Kommissionen im Verhältnis ihrer Mitgliederzahl vertreten.
 
 <sup>2</sup> Der Kantonsrat kann die Kommissionen in besondern Fällen durch fraktionslose Mitglieder erweitern.
 
@@ -394,11 +395,27 @@ beschliesst:
 
 <sup>4</sup> Eine Berichterstattung ist unter Wahrung des Amtsgeheimnisses auch an andere Kommissionen möglich.
 
+#### § 27c
+
+**Amtsgeheimnis bei der Aufsichts- und Kontrollkommission**
+
+<sup>1</sup> Die Mitglieder des Regierungsrates und die Mitarbeiterinnen und Mitarbeiter der kantonalen Verwaltung gewähren der Aufsichts- und Kontrollkommission die im Rahmen der Prüftätigkeit gemäss § 27a für die Wahrnehmung der Oberaufsicht notwendige Auskunft über dienstliche Angelegenheiten und Einsicht in die Akten. Es bedarf keiner Entbindung vom Amtsgeheimnis.
+
+<sup>2</sup> Der Regierungsrat kann beim Präsidium der Aufsichts- und Kontrollkommission die Beschränkung dieser Informationsrechte auf einen Ausschuss beantragen, sofern dies zur Wahrung überwiegender öffentlicher Interessen, zum Schutze der Persönlichkeit oder aus Rücksicht auf ein hängiges Verfahren geboten ist.
+
+<sup>3</sup> Das Präsidium der Aufsichts- und Kontrollkommission entscheidet abschliessend über den Antrag des Regierungsrates. Dafür stehen ihm die vollumfänglichen Informationsrechte zu. Bei Stimmengleichheit steht dem Präsidenten oder der Präsidentin der Stichentscheid zu.
+
+<sup>4</sup> Soweit in einer Angelegenheit die Informationsrechte beschränkt sind, steht die Prüftätigkeit gemäss § 27a, insbesondere die Befugnis zu Befragungen und zur Einsicht in Akten, in dieser Angelegenheit nur dem Ausschuss zu.
+
+<sup>5</sup> Die Mitglieder der Aufsichts- und Kontrollkommission und beigezogene aussenstehende Sachverständige sind ihrerseits in Bezug auf vorgelegte Verwaltungsakten und Äusserungen von Behördenmitgliedern und Mitarbeiterinnen und Mitarbeitern der kantonalen Verwaltung an das Amtsgeheimnis gebunden. Der Regierungsrat oder der zuständige Departementsvorsteher oder die zuständige Departementsvorsteherin bestimmt im Einzelfall, was Gegenstand des Amtsgeheimnisses bildet.
+
+<sup>6</sup> Bei der Wahrnehmung der Oberaufsicht hinsichtlich der Geschäftsführung der Gerichte und der Tätigkeit der ihnen unterstellten Behörden gelten für die Befragungen und die Aktenherausgabe die Bestimmungen der Absätze 1–5 sinngemäss. Zuständig für den Antrag auf Beschränkung der Informationsrechte ist der Präsident oder die Präsidentin des Kantonsgerichtes.
+
 #### § 28
 
-**Amtsgeheimnis**
+**Amtsgeheimnis bei den übrigen Kommissionen**
 
-<sup>1</sup> Die Befugnis, Mitglieder des Regierungsrates und Mitarbeiterinnen und Mitarbeiter der kantonalen Verwaltung gegenüber Kommissionen und Kommissionsausschüssen für Befragungen und für die Herausgabe von Akten gemäss den §§ 25–27a vom Amtsgeheimnis zu entbinden, steht dem Regierungsrat zu.
+<sup>1</sup> Die Befugnis, Mitglieder des Regierungsrates und Mitarbeiterinnen und Mitarbeiter der kantonalen Verwaltung gegenüber den übrigen Kommissionen und Kommissionsausschüssen für Befragungen und für die Herausgabe von Akten gemäss den §§ 25–27a vom Amtsgeheimnis zu entbinden, steht dem Regierungsrat zu.
 
 <sup>2</sup> Der Regierungsrat darf am Amtsgeheimnis nur festhalten, soweit die Geheimhaltung zur Wahrung überwiegender öffentlicher Interessen, zum Schutze der Persönlichkeit oder aus Rücksicht auf ein hängiges Verfahren geboten ist.
 
@@ -416,7 +433,7 @@ beschliesst:
 
 <sup>2</sup> Bei der Information der Öffentlichkeit werden nur die Beschlüsse der Kommission, deren wesentliche Begründung und die Stimmenverhältnisse der Abstimmungen bekannt gegeben. Die übrige Kommissionstätigkeit unterliegt dem Amts- und dem Sitzungsgeheimnis.
 
-<sup>3</sup> Die Kommissionsmitglieder dürfen unter Wahrung des Amtsgeheimnisses (§ 28) ihre Fraktionen über die Kommissionsverhandlungen informieren. Nicht informieren dürfen sie über persönliche Äusserungen anderer Kommissionsmitglieder, die mit dem Beratungsgegenstand in keinem Zusammenhang stehen.
+<sup>3</sup> Die Kommissionsmitglieder dürfen unter Wahrung des Amtsgeheimnisses (§§ 27c und 28) ihre Fraktionen über die Kommissionsverhandlungen informieren. Nicht informieren dürfen sie über persönliche Äusserungen anderer Kommissionsmitglieder, die mit dem Beratungsgegenstand in keinem Zusammenhang stehen.
 
 <sup>4</sup> Mitglieder der Fraktionen und andere Sitzungsteilnehmerinnen und -teilnehmer dürfen Dritten keine Informationen bekannt geben, welche über die Angaben gemäss Absatz 2 hinausgehen.
 
@@ -782,6 +799,8 @@ beschliesst:
 
 <sup>4</sup> Vorbehalten bleiben die Bestimmungen des Strafgesetzbuches zur Wahrung des Berufsgeheimnisses.
 
+<sup>5</sup> Ehemalige Interessenbindungen sind ebenfalls offenzulegen, sofern diese in den Zeitraum der vier Jahre vor Eintritt in den Kantonsrat fallen.
+
 #### § 50
 
 **Rückweisung von Sachgeschäften sowie Erledigung von Sachgeschäften und Anträgen**
@@ -941,7 +960,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat gibt auf der Traktandenliste seine Anträge zu Einzelinitiativen, Motionen und Postulaten bekannt. Die Begründung der Anträge wird den Ratsmitgliedern zugänglich gemacht. Sie enthält soweit möglich auch Angaben über die absehbaren Kostenfolgen, die Finanzierbarkeit und den Personalbedarf.
 
-<sup>3</sup> Sind bei einem Vorstoss die wesentlichen Forderungen bereits erfüllt, stellt der Regierungsrat mit dieser Begründung Antrag auf dessen Ablehnung.
+<sup>3</sup> Sind bei einem Vorstoss die wesentlichen Forderungen im Zeitpunkt der Einreichung bereits erfüllt, stellt der Regierungsrat mit dieser Begründung Antrag auf dessen Ablehnung. Er hat in seiner Stellungnahme die Erfüllung der Forderungen darzulegen.
 
 #### § 64
 
@@ -1087,7 +1106,7 @@ beschliesst:
 
 <sup>1</sup> Zu den Planungsberichten im Sinn dieses Gesetzes gehören:
 
-- a. das Legislaturprogramm (§ 78),
+- a. die Kantonsstrategie und das Legislaturprogramm (§ 78),
 - b. der Aufgaben- und Finanzplan (§ 78a),
 - c. die besonderen Planungsberichte des Regierungsrates über die Vorbereitung wichtiger Sachgeschäfte des Kantonsrates.
 
@@ -1098,16 +1117,22 @@ beschliesst:
 
 #### § 78
 
-**Legislaturprogramm**
+**Kantonsstrategie und Legislaturprogramm**
 
-<sup>1</sup> Der Regierungsrat unterbreitet dem Kantonsrat innert sechs Monaten nach Beginn der Amtsdauer sein Legislaturprogramm.
+<sup>1</sup> Der Regierungsrat unterbreitet dem Kantonsrat innert sechs Monaten nach Beginn der Amtsdauer die Kantonsstrategie zusammen mit dem Legislaturprogramm.
+
+<sup>1<sup>bis</sup></sup> Die Kantonsstrategie soll namentlich Aufschluss geben über
+
+- a. die grundsätzlichen und langfristigen Ziele des Kantons,
+- b. die für den Kanton bedeutenden übergeordneten Entwicklungen,
+- c. den aus den Zielen und Entwicklungen abgeleiteten Handlungsbedarf und die damit zusammenhängenden Handlungsschwerpunkte.
 
 <sup>2</sup> Das Legislaturprogramm soll namentlich Aufschluss geben über
 
-- a. wesentliche neue Aufgaben des Kantons und die dafür benötigten zusätzlichen Ressourcen,
-- b. die grundsätzlichen Absichten und Erwägungen, von denen sich der Regierungsrat als Gesamtbehörde während der Amtsdauer leiten lässt,
-- c. die geplanten Massnahmen zur Umsetzung der Absichten und Erwägungen und
-- d. die Dringlichkeitsordnung, nach welcher der Regierungsrat dem Kantonsrat wichtige Vorlagen zu unterbreiten gedenkt.
+- a. die geplanten Massnahmen zur Umsetzung der Kantonsstrategie,
+- b. weitere wesentliche neue Entwicklungen im Kanton,
+- c. die Aufgaben und Zielsetzungen während der Amtsdauer.
+- d. …
 
 <sup>3</sup> Der Aufbau des Legislaturprogramms orientiert sich an den Hauptaufgaben gemäss § 9 Absatz 1 des Gesetzes über die Steuerung der Finanzen und Leistungen.
 
@@ -1155,9 +1180,9 @@ beschliesst:
 
 #### § 79a
 
-**Bemerkungen zum Legislaturprogramm und zum Aufgaben- und Finanzplan**
+**Bemerkungen zur Kantonsstrategie, zum Legislaturprogramm und zum Aufgaben- und Finanzplan**
 
-<sup>1</sup> Die vom Kantonsrat beschlossenen Bemerkungen werden dem Legislaturprogramm und dem Aufgaben- und Finanzplan als Anhang beigefügt.
+<sup>1</sup> Die vom Kantonsrat beschlossenen Bemerkungen werden der Kantonsstrategie, dem Legislaturprogramm und dem Aufgaben- und Finanzplan als Anhang beigefügt.
 
 <sup>2</sup> Der Regierungsrat informiert den Kantonsrat mit dem nächsten Aufgaben- und Finanzplan über die Behandlung der Bemerkungen.
 
@@ -1235,7 +1260,7 @@ beschliesst:
 
 **Aufgabe des Regierungsrates**
 
-<sup>1</sup> Innert einem Jahr, seit das Zustandekommen einer Verfassungsinitiative (Teilrevision der Staatsverfassung) oder einer Gesetzesinitiative veröffentlicht wurde (§ 135 des Stimmrechtsgesetzes), unterbreitet der Regierungsrat dem Kantonsrat Botschaft und Entwurf für dessen Stellungnahme.
+<sup>1</sup> Innert einem Jahr, seit das Zustandekommen einer Verfassungsinitiative (Teilrevision der Kantonsverfassung) oder einer Gesetzesinitiative veröffentlicht wurde (§ 141 des Stimmrechtsgesetzes), unterbreitet der Regierungsrat dem Kantonsrat Botschaft und Entwurf für dessen Stellungnahme.
 
 <sup>2</sup> Beantragt der Regierungsrat die Ablehnung einer Initiative, kann er dem Kantonsrat einen Gegenentwurf unterbreiten.
 
@@ -1411,6 +1436,8 @@ beschliesst:
 **Ergänzende Vorschriften**
 
 <sup>1</sup> Der Kantonsrat ordnet durch Kantonsratsbeschluss den Betrag, die nähern Voraussetzungen und die Auszahlung der Entschädigungen.
+
+<sup>2</sup> Er kann überdies Massnahmen vorsehen, die es den Ratsmitgliedern erlauben, die Mandatsausübung mit der Betreuung ihrer vorschulpflichtigen Kinder zu vereinbaren.
 
 #### § 88
 
