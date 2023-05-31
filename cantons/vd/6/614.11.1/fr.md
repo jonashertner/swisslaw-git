@@ -4,7 +4,7 @@ number: "614.11.1"
 title: RÈGLEMENT du 08.11.2017 d’application de la loi du 12 mars 2013 sur le Contrôle cantonal des finances (RLCCF)
 short: RLCCF
 language: fr
-version: 2017-12-01
+version: 2023-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/614.11.1?id=ad81e846-1b4f-4046-94f5-c69c8b5d3fb9"
 ---
 
@@ -53,14 +53,14 @@ arrête
 
 <sup>3</sup> Le CCF peut compléter le programme en cours de période.
 
-<sup>4</sup> Après avoir consulté le chancelier d'Etat et les secrétaires généraux des départements, le CCF transmet son programme en début d'exercice :
+<sup>4</sup> Après avoir consulté le Chancelier d'Etat, les Secrétaires généraux des départements et de l'ordre judiciaire, ainsi que le Procureur général, le CCF transmet son programme de travail en début d'exercice :
 
 - a. au Conseil d'Etat ;
 - b. aux présidents des Commissions des finances et de gestion du Grand Conseil ;
 - c. au président de la Cour des comptes ;
-- d. au président du Tribunal cantonal et au président de la Commission de haute surveillance du Tribunal cantonal, seule la partie du programme de travail qui concerne le Tribunal cantonal leur étant transmise.
+- d. au président du Tribunal cantonal et au président de la Commission chargée de la haute surveillance sur la justice, respectivement au Procureur général, seule la partie du programme de travail qui concerne le Tribunal cantonal, respectivement celle qui concerne le Ministère public, leur étant transmise.
 
-[^chapterChapitreII-1]: Modif. 1 du 24.05.2023: Modification Al. 4; entrée en vigueur au 01.06.2023; Modification Al. 4, d; entrée en vigueur au 01.06.2023; Introduction Art. 4, Al. 3; entrée en vigueur au 01.06.2023; Introduction Art. 6, Al. 1, bbis; entrée en vigueur au 01.06.2023
+[^chapterChapitreII-1]: Modif. 1 du 24.05.2023: Modification Al. 4; entrée en vigueur au 01.06.2023; Modification Al. 4, d; entrée en vigueur au 01.06.2023
 
 #### Art. 3
 
@@ -78,9 +78,11 @@ arrête
 
 <sup>1</sup> Le CCF n'intervient en principe pas sur la base d'une dénonciation.
 
-<sup>2</sup> En cas de dénonciation, il informe le chef du département concerné ou le président du Tribunal cantonal lorsque ce dernier est concerné.
+<sup>2</sup> En cas de dénonciation, il informe le chef du département concerné ou le président du Tribunal cantonal lorsque ce dernier est concerné, respectivement le Procureur général s'il est concerné.
 
-[^3-1]: Modif. 1 du 24.05.2023: Modification Al. 2; entrée en vigueur au 01.06.2023; Introduction Al. 3; entrée en vigueur au 01.06.2023; Introduction Art. 6, Al. 1, bbis; entrée en vigueur au 01.06.2023
+<sup>3</sup> Tout autre dispositif légal de signalement ou d'information au CCF est réservé.
+
+[^3-1]: Modif. 1 du 24.05.2023: Modification Al. 2; entrée en vigueur au 01.06.2023; Introduction Al. 3; entrée en vigueur au 01.06.2023
 
 #### Art. 5
 
@@ -98,10 +100,11 @@ arrête
 
 - a. le chef de service pour les services de l'administration visés à l'article 3, alinéa 1, lettres a et b LCCF[^6-1] ainsi que pour les offices et autres entités qui leur sont rattachés ;
 - b. le chef d'office pour les offices judiciaires visés à l'article 3, alinéa 1, lettres a et b LCCF ;
+- bbis. le Procureur général ou le premier procureur concerné pour les entités visées à l'article 3, alinéa 1, lettres a et bbis LCCF ;
 - c. le responsable de l'entité pour les personnes morales visées à l'article 3, alinéa 1, lettres c et d LCCF ;
 - d. la personne physique concernée au sens de l'article 3, alinéa 1, lettre d LCCF.
 
-[^chapterChapitreIII-1]: Modif. 1 du 24.05.2023: Introduction Art. 4, Al. 3; entrée en vigueur au 01.06.2023; Introduction Al. 1, bbis; entrée en vigueur au 01.06.2023
+[^chapterChapitreIII-1]: Modif. 1 du 24.05.2023: Introduction Al. 1, bbis; entrée en vigueur au 01.06.2023
 [^6-1]: Loi du 12.03.2013 sur le Contrôle cantonal des finances ([BLV 614.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/614.11?id=051016f1-9382-4137-983f-cff7f27107ff))
 
 #### Art. 7
@@ -145,10 +148,11 @@ arrête
 - - au chef du département en charge des finances ;
 - - au président du Conseil d'Etat ;
 - - au président de la Cour des comptes.
-- b. Lorsqu'il s'agit du Tribunal cantonal ou des tribunaux et autres offices qui lui sont rattachés :
+- b. Lorsqu'il s'agit du Tribunal cantonal ou des tribunaux et autres offices qui lui sont rattachés, respectivement du Ministère public :
 - - aux présidents des Commissions des finances et de gestion du Grand Conseil ;
-- - au président de la Commission de haute surveillance du Tribunal cantonal ;
-- - au président du Tribunal cantonal (en deux exemplaires, dont un destiné au chef de l'office judiciaire concerné) ;
+- - au président de la Commission chargée de la haute surveillance sur la justice ;
+- - au président du Conseil de la magistrature ;
+- - au président du Tribunal cantonal (en deux exemplaires, dont un destiné au chef de l'office judiciaire concerné), respectivement au Procureur général (en deux exemplaires, dont un destiné au premier procureur concerné) ;
 - - au chef du département en charge des finances ;
 - - au président du Conseil d'Etat ;
 - - au président de la Cour des comptes.
@@ -160,7 +164,7 @@ arrête
 - - au président du Conseil d'Etat ;
 - - au président de la Cour des comptes.
 
-[^9-1]: Modif. 1 du 24.05.2023: Introduction Art. 4, Al. 3; entrée en vigueur au 01.06.2023; Introduction Art. 6, Al. 1, bbis; entrée en vigueur au 01.06.2023; Modification Al. 1, b; entrée en vigueur au 01.06.2023; Modification Al. 1, b, Tiret 2-4; entrée en vigueur au 01.06.2023
+[^9-1]: Modif. 1 du 24.05.2023: Modification Al. 1, b; entrée en vigueur au 01.06.2023; Modification Al. 1, b, Tiret 2-4; entrée en vigueur au 01.06.2023
 [^10-1]: Loi du 12.03.2013 sur le Contrôle cantonal des finances ([BLV 614.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/614.11?id=051016f1-9382-4137-983f-cff7f27107ff))
 
 #### Art. 11
