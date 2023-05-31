@@ -4,13 +4,13 @@ number: "770.1"
 title: "Loi sur l'énergie"
 short: LEn
 language: fr
-version: 2020-01-01
-valid_until: 2023-05-31
-version_adopted: 2019-06-27
+version: 2023-06-01
+valid_until: 2026-03-31
+version_adopted: 2023-02-10
 adopted: 2000-06-09
 in_force: 2000-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/770.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7180/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7755/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Energie – L
 
 (LEn)
 
-du 09.06.2000 (version entrée en vigueur le 01.01.2020)
+du 09.06.2000 (version entrée en vigueur le 01.06.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -108,7 +108,7 @@ Décrète:
 
 <sup>6</sup> Pour leurs propres besoins en électricité, les bâtiments de l'Etat et des communes sont progressivement alimentés par les entreprises d'approvisionnement en électricité au moyen de courant vert labellisé «Naturemade star», ou équivalent, produit dans le canton.
 
-<sup>7</sup> L'Etat et les communes s'engagent, d'ici au 31 décembre 2018, à assainir l'éclairage public dont ils ont la charge, afin de le rendre conforme à l'état de la technique et de l'exploiter de manière efficace au sens de l'article 15a de la présente loi.
+<sup>7</sup> L'Etat et les communes doivent disposer d'un éclairage conforme à l'état de la technique, notamment en termes de consommation d'énergie et de pollution lumineuse, et l'exploiter de manière efficace en pratiquant l'extinction nocturne complète ou dynamique dans les zones et durant les horaires qui s'y prêtent. Le Conseil d'Etat édicte les prescriptions d'exécution ainsi qu'un délai de mise en œuvre.
 
 ## 2 Politique et planification énergétiques
 
@@ -273,15 +273,17 @@ Décrète:
 
 **Eclairage**
 
-<sup>1</sup> Sont considérées comme éclairages les installations mobiles ou stationnaires telles que les éclairages intérieurs, les éclairages de rue, les éclairages d'objets et les éclairages d'installations de loisirs et de terrains de sport.
+<sup>1</sup> Sont considérées comme éclairages les installations mobiles ou stationnaires telles que les éclairages intérieurs, les éclairages de rue, les éclairages d'objets, les enseignes lumineuses, les éclairages de panneaux à usage publicitaire, les vitrines et les éclairages d'installations de loisirs et de terrains de sport.
 
 <sup>2</sup> L'exploitation des éclairages doit être efficace énergétiquement, respectueuse de l'environnement et adaptée à l'usage prévu.
 
 <sup>3</sup> Pour les bâtiments d'une surface de référence énergétique supérieure à 1000 m², le Conseil d'Etat fixe une valeur limite de consommation nécessaire à l'éclairage.
 
-<sup>4</sup> Les éclairages qui diffusent de la lumière vers le ciel ou qui illuminent le paysage sont interdits. Pour des motifs importants, la commune peut autoriser des exceptions limitées dans le temps.
+<sup>4</sup> Les éclairages qui diffusent de la lumière vers le ciel ou qui illuminent le paysage sont interdits. Pour des motifs importants et en dehors des périodes migratoires des oiseaux, la commune peut autoriser des exceptions limitées dans le temps.
 
 <sup>5</sup> Les communes peuvent fixer par voie de règlement des exigences particulières relatives à l'efficacité énergétique, la luminosité et les heures de fonctionnement destinées aux éclairages.
+
+<sup>6</sup> Les enseignes publicitaires et l'éclairage dans les commerces, sur les expositions et les chantiers sont éteints entre minuit et 5 heures. Une éventuelle réglementation communale plus restrictive en la matière est réservée.
 
 #### Art. 16
 

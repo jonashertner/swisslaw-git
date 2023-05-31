@@ -4,13 +4,13 @@ number: "770.1"
 title: Energiegesetz
 short: EnGe
 language: de
-version: 2020-01-01
-valid_until: 2023-05-31
-version_adopted: 2019-06-27
+version: 2023-06-01
+valid_until: 2026-03-31
+version_adopted: 2023-02-10
 adopted: 2000-06-09
 in_force: 2000-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/770.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7180/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7755/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Energiegesetz
 
 (EnGe)
 
-vom 09.06.2000 (Fassung in Kraft getreten am 01.01.2020)
+vom 09.06.2000 (Fassung in Kraft getreten am 01.06.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -108,7 +108,7 @@ beschliesst:
 
 <sup>6</sup> Für ihren eigenen Elektrizitätsverbrauch werden die Gebäude des Staats und der Gemeinden von den Elektrizitätsversorgungsunternehmen schrittweise mit grünem Strom versorgt, der im Kanton produziert wird und das Label Naturemade Star oder ein gleichwertiges Label trägt.
 
-<sup>7</sup> Der Staat und die Gemeinden verpflichten sich, bis 31. Dezember 2018 die öffentliche Beleuchtung, für die sie zuständig sind, mit Sanierungsmassnahmen auf den neusten Stand der Technik zu bringen und die Beleuchtung energiesparend im Sinne von Artikel 15a dieses Gesetzes zu betreiben.
+<sup>7</sup> Der Staat und die Gemeinden verfügen über eine Beleuchtung, die dem Stand der Technik entspricht, insbesondere beim Energieverbrauch und bei der Lichtverschmutzung, und betreiben sie auf effiziente Weise, indem sie eine vollständige oder dynamische Nachtabschaltung in Zonen und zu Zeiten praktizieren, die sich dafür eignen. Der Staatsrat erlässt die Ausführungsvorschriften und legt eine Umsetzungsfrist fest.
 
 ## 2 Energiepolitik und Energieplanung
 
@@ -273,15 +273,17 @@ beschliesst:
 
 **Beleuchtung**
 
-<sup>1</sup> Als Beleuchtung gelten mobile und stationäre Anlagen wie Raumbeleuchtungen, Strassenbeleuchtungen, Objektbeleuchtungen und Beleuchtungen von Freizeit- und Sportanlagen.
+<sup>1</sup> Als Beleuchtung gelten mobile und stationäre Anlagen wie Raumbeleuchtungen, Strassenbeleuchtungen, Objektbeleuchtungen, Leuchtreklamen, Beleuchtungen von Schildern zu Werbezwecken sowie Beleuchtungen von Schaufenstern und von Freizeit- und Sportanlagen.
 
 <sup>2</sup> Beleuchtungen müssen energieeffizient, umweltschonend und bestimmungsgerecht betrieben werden.
 
 <sup>3</sup> Für Gebäude mit einer Energiebezugsfläche von mehr als 1000 m² legt der Staatsrat den Grenzwert für den Elektrizitätsbedarf der Beleuchtung fest.
 
-<sup>4</sup> Beleuchtungen, die himmelwärts strahlen oder die Landschaft beleuchten, sind verboten. Die Gemeinde kann aus wichtigen Gründen befristete Ausnahmen bewilligen.
+<sup>4</sup> Beleuchtungen, die himmelwärts strahlen oder die Landschaft beleuchten, sind verboten. Die Gemeinde kann ausserhalb der Zeiten des Vogelzugs aus wichtigen Gründen befristete Ausnahmen bewilligen.
 
 <sup>5</sup> Die Gemeinden können in einem Reglement besondere Anforderungen an die Energieeffizienz, die Leuchtstärke und die Beleuchtungsdauer stellen.
+
+<sup>6</sup> Leuchtreklamen und Beleuchtungen in Geschäften und Ausstellungen sowie auf Baustellen werden von Mitternacht bis 5 Uhr ausgeschaltet. Allfällige einschränkendere Regelungen auf Gemeindeebene sind vorbehalten.
 
 #### Art. 16
 
