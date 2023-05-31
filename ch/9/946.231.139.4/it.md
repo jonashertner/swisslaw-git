@@ -3,27 +3,28 @@ sr: "946.231.139.4"
 title: Ordinanza del 16 dicembre 2022 che istituisce provvedimenti concernenti Haiti
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/823"
 language: it
-version: 2022-12-16
+version: 2023-06-01
 adopted: 2022-12-16
 in_force: 2022-12-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/823/20221216/it/xml/fedlex-data-admin-ch-eli-cc-2022-823-20221216-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/823/20221216/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/823/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2022-823-20230601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/823/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti concernenti Haiti
 
-del 16 dicembre 2022 (Stato 16 dicembre 2022)
+del 16 dicembre 2022 (Stato 1° giugno 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (LEmb); in esecuzione della Risoluzione 2653 (2022)[^ingress-2] del Consiglio di Sicurezza delle Nazioni Unite (Consiglio di Sicurezza dell’ONU),
+visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (LEmb); in esecuzione delle risoluzioni 2653 (2022) e 2664 (2022)[^ingress-2] del Consiglio di sicurezza delle Nazioni Unite,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: I testi delle risoluzioni del Consiglio di sicurezza dell’ONU possono essere consultati al seguente indirizzo Internet: www.un.org/fr &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
+[^ingress-2]: Le risoluzioni sono consultabili in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Nuovo testo giusta il n. I 1 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## Sezione 1: Definizioni
 
@@ -62,15 +63,28 @@ Sono bloccati gli averi e le risorse economiche di proprietà o sotto il control
 
 <sup>3</sup>
 
-La Segreteria di Stato dell’economia (SECO) può, in via eccezionale, autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati, nonché la liberazione delle risorse economiche bloccate per:
+Il divieto di cui al capoverso 2 non si applica alla fornitura di aiuti umanitari e al sostegno di altre attività volte a soddisfare i bisogni umani fondamentali da parte di:
+
+- a. Organizzazione delle Nazioni Unite, anche per il tramite dei suoi programmi, fondi e altri enti e organismi, nonché sue agenzie specializzate e organizzazioni collegate;
+- b. organizzazioni internazionali;
+- c. organizzazioni umanitarie aventi status di osservatore presso l’Assemblea generale delle Nazioni Unite e membri di tali organizzazioni;
+- d. organizzazioni non governative finanziate a livello bilaterale o multilaterale che partecipano ai piani di risposta umanitaria delle Nazioni Unite, ai piani di risposta per i rifugiati, ad altri appelli delle Nazioni Unite o a strutture umanitarie coordinate dall’Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA);
+- e. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a−d nella misura in cui agiscono in tale veste;
+- f. ogni altro soggetto designato dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^3-1]
+
+<sup>4</sup>
+
+La Segreteria di Stato dell’economia (SECO) può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione di risorse economiche bloccate se servono a:
 
 - a. prevenire casi di rigore;
 - b. rispettare contratti esistenti; o
-- c. rispettare crediti oggetto di una misura o di una sentenza giudiziaria, amministrativa o arbitrale.
+- c. onorare crediti oggetto di una misura o di una sentenza giudiziaria, amministrativa o arbitrale.[^3-2]
 
-<sup>4</sup> La SECO rilascia le autorizzazioni secondo il capoverso 3 d’intesa con gli uffici competenti del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze nonché, se del caso, previa notificazione al comitato competente del Consiglio di sicurezza dell’ONU e in conformità con le decisioni di tale Comitato.
+<sup>5</sup> La SECO autorizza le deroghe di cui al capoverso 4 d’intesa con gli uffici competenti del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze nonché, se del caso, previa notifica al comitato competente del Consiglio di sicurezza delle Nazioni Unite e in conformità alle decisioni di tale comitato.[^3-3]
 
-<sup>5</sup> I divieti di cui ai capoversi 1 e 2 non si applicano allo svolgimento di attività umanitarie o al sostegno di altre attività volte a coprire i bisogni primari della popolazione di Haiti da parte delle persone fisiche e giuridiche designate nel paragrafo 10 della risoluzione 2653 (2022) del Consiglio di sicurezza dell’ONU.
+[^3-1]: Nuovo testo giusta il n. I 8 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-2]: Nuovo testo giusta il n. I 8 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-3]: Nuovo testo giusta il n. I 8 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 4
 
@@ -83,7 +97,9 @@ La Segreteria di Stato dell’economia (SECO) può, in via eccezionale, autorizz
 La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
 
 - a. se l’entrata o il transito sono necessari ai fini di una procedura giudiziaria;
-- b. in conformità con il paragrafo 5 della risoluzione 2653 (2022) e con le decisioni del comitato competente del Consiglio di sicurezza dell’ONU.
+- b. in conformità con il paragrafo 5 della risoluzione 2653 (2022) e con le decisioni del comitato competente del Consiglio di sicurezza delle Nazioni Unite[^4-1].
+
+[^4-1]: Nuova espressione giusta il n. I 8 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ## Sezione 3: Esecuzione e disposizioni penali
 
@@ -121,7 +137,7 @@ La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
 
 #### Art. 8
 
-<sup>1</sup> Le liste delle persone fisiche, imprese e organizzazioni, emanate o aggiornate dal Consiglio di sicurezza dell’ONU o dal comitato competente del Consiglio di sicurezza dell’ONU (allegato), sono recepite automaticamente.
+<sup>1</sup> Le liste delle persone fisiche, imprese e organizzazioni, emanate o aggiornate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite (allegato), sono recepite automaticamente.
 
 <sup>2</sup> La pubblicazione delle voci di cui all’allegato non è prevista né nella Raccolta ufficiale delle leggi federali (RU) né nella Raccolta sistematica del diritto federale (RS).
 
@@ -139,8 +155,8 @@ Allegato
 
 Nota bene
 
-- 1\. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza dell’ONU o dal comitato competente del Consiglio di sicurezza dell’ONU.[^annexu1-lvlu1-1]
+- 1\. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^annexu1-lvlu1-1]
 - 2\. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite.[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: La lista può essere consultata al seguente indirizzo Internet: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 2653 (Haïti) &gt; Matériaux relatifs à la liste de sanctions.
-[^annexu1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
+[^annexu1-lvlu1-1]: La lista può essere consultata al seguente indirizzo Internet: [www.un.org/fr/sc](http://www.un.org/fr/sc) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 2653 (Haïti) &gt; Matériaux relatifs à la liste de sanctions.
+[^annexu1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Economia esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.

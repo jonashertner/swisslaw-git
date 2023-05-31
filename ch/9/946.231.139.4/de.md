@@ -3,27 +3,28 @@ sr: "946.231.139.4"
 title: Verordnung vom 16. Dezember 2022 über Massnahmen betreffend Haiti
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/823"
 language: de
-version: 2022-12-16
+version: 2023-06-01
 adopted: 2022-12-16
 in_force: 2022-12-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/823/20221216/de/xml/fedlex-data-admin-ch-eli-cc-2022-823-20221216-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/823/20221216/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/823/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2022-823-20230601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/823/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen betreffend Haiti
 
-vom 16. Dezember 2022 (Stand am 16. Dezember 2022)
+vom 16. Dezember 2022 (Stand am 1. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG), in Ausführung der Resolution 2653 (2022)[^ingress-2] des Sicherheitsrats der Vereinten Nationen (UNO-Sicherheitsrat),
+gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG), in Ausführung der Resolutionen 2653 (2022) und 2664 (2022)[^ingress-2] des Sicherheitsrats der Vereinten Nationen,[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: Die Texte der Resolutionen des UNO-Sicherheitsrats können im Internet unter folgender Adresse abgerufen werden: www.un.org/fr &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
+[^ingress-2]: Die Resolutionen sind auf Französisch und Englisch abrufbar unter [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Fassung gemäss Ziff. I 8 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## 1. Abschnitt: Begriffe
 
@@ -62,15 +63,28 @@ Gesperrt sind Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder u
 
 <sup>3</sup>
 
-Das Staatssekretariat für Wirtschaft (SECO) kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
+Das Verbot nach Absatz 2 gilt nicht für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+
+- a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
+- b. internationale Organisationen;
+- c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
+- d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
+- e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d genannten Organisationen, soweit sie in dieser Eigenschaft handeln;
+- f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.[^3-1]
+
+<sup>4</sup>
+
+Das Staatssekretariat für Wirtschaft (SECO) kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
 
 - a. Vermeidung von Härtefällen;
-- b. Erfüllung bestehender Verträge, oder
-- c. Erfüllung von Forderungen, die Gegenstand einer bestehenden gerichtlichen, administrativen oder schiedsgerichtlichen Massnahme oder Entscheidung sind.
+- b. Erfüllung bestehender Verträge; oder
+- c. Erfüllung von Forderungen, die Gegenstand einer bestehenden gerichtlichen, administrativen oder schiedsgerichtlichen Massnahme oder Entscheidung sind.[^3-2]
 
-<sup>4</sup> Das SECO erteilt Bewilligungen nach Absatz 3 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements sowie, soweit anwendbar, nach Meldung an das zuständige Komitee des UNO-Sicherheitsrats und in Übereinstimmung mit den Beschlüssen dieses Komitees.
+<sup>5</sup> Es bewilligt Ausnahmen nach Absatz 4 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements sowie, falls anwendbar, nach Meldung an das zuständige Komitee des Sicherheitsrats der Vereinten Nationen und in Übereinstimmung mit den Beschlüssen dieses Komitees.[^3-3]
 
-<sup>5</sup> Die Verbote nach den Absätzen 1 und 2 gelten nicht für die Durchführung humanitärer Aktivitäten oder die Unterstützung anderer Tätigkeiten zur Deckung der Grundbedürfnisse der Menschen in Haiti durch die in Paragraph 10 der Resolution 2653 (2022) des UNO-Sicherheitsrats bezeichneten natürlichen und juristischen Personen.
+[^3-1]: Fassung gemäss Ziff. I 8 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-2]: Fassung gemäss Ziff. I 8 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-3]: Fassung gemäss Ziff. I 8 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 4
 
@@ -83,7 +97,9 @@ Das Staatssekretariat für Wirtschaft (SECO) kann Zahlungen aus gesperrten Konte
 Das Staatssekretariat für Migration (SEM) kann Ausnahmen gewähren:
 
 - a. wenn die Ein- oder Durchreise zur Durchführung eines Gerichtsverfahrens erforderlich ist;
-- b. in Übereinstimmung mit Paragraph 5 der Resolution 2653 (2022) und den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrats.
+- b. in Übereinstimmung mit Paragraph 5 der Resolution 2653 (2022) und den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen[^4-1].
+
+[^4-1]: Ausdruck gemäss Ziff. I 8 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Diese Änd. wurde im ganzen Text vorgenommen.
 
 ## 3. Abschnitt: Vollzug und Strafbestimmungen
 
@@ -121,7 +137,7 @@ Das Staatssekretariat für Migration (SEM) kann Ausnahmen gewähren:
 
 #### Art. 8
 
-<sup>1</sup> Die Listen, die der UNO-Sicherheitsrat oder das zuständige Komitee des UNO-Sicherheitsrats betreffend natürliche Personen, Unternehmen und Organisationen erlassen oder aktualisiert hat, werden automatisch übernommen.
+<sup>1</sup> Die Listen, die der Sicherheitsrat der Vereinten Nationen oder das zuständige Komitee des Sicherheitsrats der Vereinten Nationen betreffend natürliche Personen, Unternehmen und Organisationen erlassen oder aktualisiert hat, werden automatisch übernommen.
 
 <sup>2</sup> Die Einträge nach dem Anhang werden weder in der Amtlichen Sammlung des Bundesrechts (AS) noch in der Systematischen Sammlung des Bundesrechts (SR) veröffentlicht.
 
@@ -139,8 +155,8 @@ Anhang
 
 Anmerkung
 
-- 1\. Dieser Anhang entspricht den Listen der natürlichen Personen, Unternehmen und Organisationen, die vom UNO-Sicherheitsrat oder vom zuständigen Komitee des UNO-Sicherheitsrats bezeichnet worden sind.[^annexu1-lvlu1-1]
+- 1\. Dieser Anhang entspricht den Listen der natürlichen Personen, Unternehmen und Organisationen, die vom Sicherheitsrat der Vereinten Nationen oder vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichnet worden sind.[^annexu1-lvlu1-1]
 - 2\. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die UNO in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/fr/sc/ &gt; Organes subsidiaires &gt; Sanctions &gt; Comité de sanctions 2653 (Haïti)&gt; Matériaux relatifs à la liste de sanctions.
-[^annexu1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Themen &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
+[^annexu1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: [https://www.un.org/securitycouncil/fr](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité de sanctions 2653 (Haïti)&gt; Matériaux relatifs à la liste de sanctions.
+[^annexu1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: [https://www.seco.admin.ch/seco/de/home.html](https://www.seco.admin.ch/seco/de/home.html) &gt; Themen &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
