@@ -4,13 +4,13 @@ number: "814.0"
 title: Gesetz über die Einführung der Bundesgesetze über den Umweltschutz und über den Schutz der Gewässer
 short: Umwelt- und Gewässerschutzgesetz; UGsG
 language: de
-version: 2018-01-01
-valid_until: 2023-05-31
-version_adopted: 2017-03-20
+version: 2023-06-01
+valid_until: 2025-09-30
+version_adopted: 2022-10-31
 adopted: 2004-02-16
 in_force: 2005-10-01
 url: "https://ar.clex.ch/app/de/texts_of_law/814.0"
-pdf: "https://ar.clex.ch/api/de/versions/1247/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1589/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1247/pdf_file"
 
 (Umwelt- und Gewässerschutzgesetz; UGsG)
 
-vom 16.02.2004 (Stand 01.01.2018)
+vom 16.02.2004 (Stand 01.06.2023)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -931,14 +931,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes notwendigen Bestimmungen.
 
-<sup>2</sup> Er bestellt eine Umwelt- und Gewässerschutzkommission.
-
-<sup>3</sup> Die Umwelt- und Gewässerschutzkommission wird von Amtes wegen von der Direktorin oder dem Direktor des Departements Bau und Volkswirtschaft präsidiert.
-
-<sup>4</sup> Die Kommission hat namentlich folgende Aufgaben und Befugnisse:
-
-- a) Behandlung wichtiger umweltpolitischer Fragen sowie von Fragen des Vollzugs dieses Gesetzes;
-- b) Mitwirkung bei der Erarbeitung rechtlicher Grundlagen.
+<sup>2–4</sup> …
 
 #### Art. 87
 
