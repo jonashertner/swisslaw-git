@@ -3,28 +3,28 @@ sr: "946.231.179.8"
 title: "Ordonnance du 5 décembre 2014 instituant des mesures à l'encontre du Yémen"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/761"
 language: fr
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2014-12-05
 in_force: 2014-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/761/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-761-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/761/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/761/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2014-761-20230601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/761/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Yémen
 
-du 5 décembre 2014 (État le 1<sup>er</sup> janvier 2022)
+du 5 décembre 2014 (État le 1<sup>er</sup> juin 2023)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], en exécution des résolutions 2140 (2014), 2216 (2015) et 2511 (2020)[^ingress-2] du Conseil de sécurité des Nations Unies,[^ingress-3]
+vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], en exécution des résolutions 2140 (2014), 2216 (2015), 2511 (2020) et 2664 (2022)[^ingress-2] du Conseil de Sécurité des Nations Unies,[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: Les textes des résolutions du Conseil de sécurité des Nations unies sont accessibles en ligne à l’adresse: [www.un.org](https://www.un.org/) &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
-[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 2071](https://fedlex.data.admin.ch/eli/oc/2020/405)).
+[^ingress-2]: Les textes des résolutions du Conseil de sécurité des Nations Unies peuvent être consultés à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Nouvelle teneur selon le ch. I 14 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## Section 1 Mesures de coercition
 
@@ -63,17 +63,30 @@ Sont gelés les avoirs et les ressources économiques appartenant à ou sous con
 
 <sup>3</sup>
 
-Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées, afin:
+L’interdiction prévue à l’al. 2 ne s’applique pas à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes par:
+
+- a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
+- b. des organisations internationales;
+- c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
+- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
+- e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d, lorsqu’ils agissent en cette qualité;
+- f. tous les autres acteurs tels que déterminés par le comité compétent du Conseil de sécurité des Nations Unies.[^1a-2]
+
+<sup>4</sup>
+
+Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
 
 - a. de prévenir des cas de rigueur;
 - b. d’honorer des contrats existants;
-- c. d’honorer des créances en application d’une mesure ou décision judiciaire, administrative ou arbitrale existante; ou
-- d. de sauvegarder les intérêts de la Suisse.
+- c. d’honorer des créances en application d’une mesure ou décision judiciaire, administrative ou arbitrale existante, ou
+- d. de sauvegarder les intérêts de la Suisse.[^1a-3]
 
-<sup>4</sup> Le SECO délivre les autorisations au sens de l’al. 3, après avoir consulté les offices compétents du Département fédéral des affaires étrangères (DFAE) et du Département fédéral des finances (DFF) et, le cas échéant, après notification au comité compétent du Conseil de sécurité des Nations Unies et en conformité avec les décisions dudit comité.[^1a-2]
+<sup>5</sup> Il accorde les dérogations prévues à l’al. 4 après consultation des offices compétents du Département fédéral des affaires étrangères (DFAE) et du Département fédéral des finances (DFF) et, le cas échéant, après notification au comité compétent du Conseil de sécurité des Nations Unies et en conformité avec les décisions dudit comité.[^1a-4]
 
 [^1a-1]: Anciennement art. 1
-[^1a-2]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 2071](https://fedlex.data.admin.ch/eli/oc/2020/405)).
+[^1a-2]: Nouvelle teneur selon le ch. I 14 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^1a-3]: Nouvelle teneur selon le ch. I 14 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^1a-4]: Introduit par le ch. I 14 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 1b
 

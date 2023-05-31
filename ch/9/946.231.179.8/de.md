@@ -3,28 +3,28 @@ sr: "946.231.179.8"
 title: Verordnung vom 5. Dezember 2014 über Massnahmen gegenüber Jemen
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/761"
 language: de
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2014-12-05
 in_force: 2014-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/761/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-761-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/761/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/761/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2014-761-20230601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/761/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Jemen
 
-vom 5. Dezember 2014 (Stand am 1. Januar 2022)
+vom 5. Dezember 2014 (Stand am 1. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG), in Ausführung der Resolutionen 2140 (2014), 2216 (2015) und 2511 (2020)[^ingress-2] des Sicherheitsrats der Vereinten Nationen,[^ingress-3]
+gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG), in Ausführung der Resolutionen 2140 (2014), 2216 (2015), 2511 (2020) und 2664 (2022)[^ingress-2] des Sicherheitsrats der Vereinten Nationen,[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: Die Texte der Resolutionen des Sicherheitsrats der Vereinten Nationen können im Internet unter folgender Adresse abgerufen werden: www.un.org &gt; Peace and Security &gt; Security Council &gt; Documents &gt; Resolutions.
-[^ingress-3]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 2071](https://fedlex.data.admin.ch/eli/oc/2020/405)).
+[^ingress-2]: Die Resolutionen sind auf Französisch und Englisch abrufbar unter [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Fassung gemäss Ziff. I 14 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## 1. Abschnitt: Zwangsmassnahmen
 
@@ -63,17 +63,30 @@ Gesperrt sind Gelder und wirtschaftliche Ressourcen im Eigentum oder unter Kontr
 
 <sup>3</sup>
 
-Das Staatssekretariat für Wirtschaft (SECO) kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
+Das Verbot nach Absatz 2 gilt nicht für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+
+- a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
+- b. internationale Organisationen;
+- c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
+- d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
+- e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d genannten Organisationen, soweit sie in dieser Eigenschaft handeln;
+- f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.[^1a-2]
+
+<sup>4</sup>
+
+Das Staatssekretariat für Wirtschaft (SECO) kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
 
 - a. Vermeidung von Härtefällen;
 - b. Erfüllung bestehender Verträge;
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden gerichtlichen, administrativen oder schiedsgerichtlichen Massnahme oder Entscheidung sind; oder
-- d. Wahrung schweizerischer Interessen.
+- d. Wahrung schweizerischer Interessen.[^1a-3]
 
-<sup>4</sup> Das SECO erteilt Bewilligungen nach Absatz 3 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und des Eidgenössischen Finanzdepartements (EFD) sowie, soweit anwendbar, nach Meldung an das zuständige Komitee des Sicherheitsrats der Vereinten Nationen und in Übereinstimmung mit den Beschlüssen dieses Komitees.[^1a-2]
+<sup>5</sup> Es bewilligt Ausnahmen nach Absatz 4 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und des Eidgenössischen Finanzdepartements (EFD) sowie, falls anwendbar, nach Meldung an das zuständige Komitee des Sicherheitsrats der Vereinten Nationen und in Übereinstimmung mit den Beschlüssen dieses Komitees.[^1a-4]
 
 [^1a-1]: Ursprünglich: Art. 1.
-[^1a-2]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 2071](https://fedlex.data.admin.ch/eli/oc/2020/405)).
+[^1a-2]: Fassung gemäss Ziff. I 14 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^1a-3]: Fassung gemäss Ziff. I 14 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^1a-4]: Eingefügt durch Ziff. I 14 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 1b
 
@@ -188,5 +201,5 @@ Anhang[^t-1]
 
 \2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; 2140 Sanctions Committee (Yemen) &gt; Sanctions List Materials.
+[^annexu1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions 2140 (Yémen) &gt; Matériaux relatifs à la liste de sanctions.
 [^annexu1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden.

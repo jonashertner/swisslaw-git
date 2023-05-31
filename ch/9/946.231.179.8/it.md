@@ -3,28 +3,28 @@ sr: "946.231.179.8"
 title: Ordinanza del 5 dicembre 2014 che istituisce provvedimenti nei confronti dello Yemen
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/761"
 language: it
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2014-12-05
 in_force: 2014-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/761/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-761-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/761/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/761/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2014-761-20230601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/761/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti dello Yemen
 
-del 5 dicembre 2014 (Stato 1° gennaio 2022)
+del 5 dicembre 2014 (Stato 1° giugno 2023) (Stato 1° giugno 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (LEmb); in esecuzione delle risoluzioni 2140 (2014), 2216 (2015) e 2511 (2020)[^ingress-2] del Consiglio di sicurezza delle Nazioni Unite,[^ingress-3]
+visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (LEmb); in esecuzione delle risoluzioni 2140 (2014), 2216 (2015), 2511 (2020) e 2664 (2022)[^ingress-2] del Consiglio di sicurezza delle Nazioni Unite,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: I testi delle risoluzioni del Consiglio di sicurezza delle Nazioni Unite possono essere consultati online all’indirizzo Internet: www.un.org &gt; Peace and Security &gt; Security Council &gt; Documents &gt; Resolutions.
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 2071](https://fedlex.data.admin.ch/eli/oc/2020/405)).
+[^ingress-2]: Le risoluzioni sono consultabili in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Nuovo testo giusta il n. I 14 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## Sezione 1: Misure coercitive
 
@@ -63,17 +63,30 @@ Sono bloccati gli averi e le risorse economiche di proprietà o sotto il control
 
 <sup>3</sup>
 
-La Segreteria di Stato dell’economia (SECO) può, in via eccezionale, autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati, nonché la liberazione delle risorse economiche bloccate per:
+Il divieto di cui al capoverso 2 non si applica alla fornitura di aiuti umanitari e al sostegno di altre attività volte a soddisfare i bisogni umani fondamentali da parte di:
+
+- a. Organizzazione delle Nazioni Unite, anche per il tramite dei suoi programmi, fondi e altri enti e organismi, nonché sue agenzie specializzate e organizzazioni collegate;
+- b. organizzazioni internazionali;
+- c. organizzazioni umanitarie aventi status di osservatore presso l’Assemblea generale delle Nazioni Unite e membri di tali organizzazioni;
+- d. organizzazioni non governative finanziate a livello bilaterale o multilaterale che partecipano ai piani di risposta umanitaria delle Nazioni Unite, ai piani di risposta per i rifugiati, ad altri appelli delle Nazioni Unite o a strutture umanitarie coordinate dall’Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA);
+- e. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a–d nella misura in cui agiscono in tale veste;
+- f. ogni altro soggetto designato dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^1a-2]
+
+<sup>4</sup>
+
+La Segreteria di Stato dell’economia (SECO) può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione di risorse economiche bloccate se servono a:
 
 - a. prevenire casi di rigore;
 - b. rispettare contratti esistenti;
-- c. rispettare crediti oggetto di una misura o di una sentenza giudiziaria, amministrativa o arbitrale; o
-- d. tutelare interessi svizzeri.
+- c. onorare crediti oggetto di una misura o di una sentenza giudiziaria, amministrativa o arbitrale; o
+- d. tutelare interessi svizzeri.[^1a-3]
 
-<sup>4</sup> La SECO rilascia le autorizzazioni di cui al capoverso 3 d’intesa con gli uffici competenti del Dipartimento federale degli affari esteri (DFAE) e del Dipartimento federale delle finanze (DFF) nonché, se del caso, previa notificazione al competente Comitato del Consiglio di sicurezza delle Nazioni Unite e, se applicabili, in conformità delle decisioni di tale Comitato.[^1a-2]
+<sup>5</sup> La SECO autorizza le deroghe di cui al capoverso 4 d’intesa con gli uffici competenti del Dipartimento federale degli affari esteri (DFAE) e del Dipartimento federale delle finanze (DFF) nonché, se del caso, previa notifica al comitato competente del Consiglio di sicurezza delle Nazioni Unite e in conformità con le decisioni di tale comitato.[^1a-4]
 
 [^1a-1]: Originario art. 1.
-[^1a-2]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 2071](https://fedlex.data.admin.ch/eli/oc/2020/405)).
+[^1a-2]: Nuovo testo giusta il n. I 14 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^1a-3]: Nuovo testo giusta il n. I 14 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^1a-4]: Introdotto dal n. I 14 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 1b
 
@@ -188,5 +201,5 @@ Allegato[^t-1]
 
 \2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annexu1-lvlu1-2].
 
-[^annexu1-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; 2140 Sanctions Committee (Yemen) &gt; Sanctions List Materials.
-[^annexu1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
+[^annexu1-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: [http://www.un.org/en/sc/%20](http://www.un.org/en/sc/%20)&gt; Subsidiary Organs &gt; Sanctions &gt; 2140 Sanctions Committee (Yemen) &gt; Sanctions List Materials.
+[^annexu1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: [http://www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
