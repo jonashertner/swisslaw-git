@@ -4,13 +4,12 @@ number: "850.71"
 title: Heimaufsichtsverordnung
 short: HAV
 language: de
-version: 2021-03-01
-valid_until: 2023-05-31
-version_adopted: 2021-02-16
+version: 2023-06-01
+version_adopted: 2023-05-16
 adopted: 2021-02-16
 in_force: 2021-03-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/850.71"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2298/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2686/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ HAV
 
 (HAV)
 
-vom 16.02.2021 (Stand 01.03.2021)
+vom 16.02.2021 (Stand 01.06.2023)
 
 ## 1. Allgemeines
 
@@ -49,9 +48,9 @@ vom 16.02.2021 (Stand 01.03.2021)
 
 <sup>1</sup> Die direkte Aufsicht obliegt:
 
-- 1\. dem Departement für Erziehung und Kultur für Sonderschulheime;
-- 2\. dem Departement für Justiz und Sicherheit für Kinder- und Jugendheime;
-- 3\. dem Departement für Finanzen und Soziales für Heime für erwachsene Menschen mit und ohne Behinderung sowie für Heime für Betagte und Pflegebedürftige.
+- 1\. dem Departement für Erziehung und Kultur für Sonderschulheime
+- 2\. dem Departement für Justiz und Sicherheit für Kinder- und Jugendheime sowie für Einrichtungen des Straf- und Massnahmenvollzugs
+- 3\. dem Departement für Finanzen und Soziales für Heime für erwachsene Menschen mit und ohne Behinderung sowie für Heime für Betagte und Pflegebedürftige
 
 <sup>2</sup> Sind bezüglich der Aufsichtstätigkeit mehrere Bereiche betroffen, wird dem Heim die Zuständigkeit nach Absprache mit den Beteiligten per Departementsentscheid mitgeteilt.
 
@@ -75,14 +74,14 @@ vom 16.02.2021 (Stand 01.03.2021)
 
 <sup>2</sup> Dem Gesuch sind insbesondere beizulegen:
 
-- 1\. Ausweis über die berufliche Aus- und Weiterbildung und die bisherige Tätigkeit der Mitglieder des operativen Führungsorgans und des leitenden Personals sowie Referenzen der Mitglieder des operativen Führungsorgans;
-- 2\. Privatauszug und Sonderprivatauszug aus dem Zentralstrafregister der Mitglieder des operativen Führungsorgans und aller Mitarbeiterinnen und Mitarbeiter mit Leitungsfunktion sowie eine Selbstdeklaration zum Gesundheitszustand und zu laufenden Strafverfahren;
-- 3\. Nachweis über Personal in genügender Anzahl und einer mit Bezug auf Funktion und Art des Heims angemessenen Ausbildung;
-- 4\. Planunterlagen über die Räumlichkeiten und Einrichtungen;
-- 5\. Betriebskonzept inklusive Nennung der Organe;
-- 6\. Betreuungskonzept;
-- 7\. Nachweis der gesicherten Finanzierung;
-- 8\. Muster der Aufenthaltsvereinbarung.
+- 1\. Ausweis über die berufliche Aus- und Weiterbildung und die bisherige Tätigkeit der Mitglieder des operativen Führungsorgans und des leitenden Personals sowie Referenzen der Mitglieder des operativen Führungsorgans
+- 2\. Privatauszug und Sonderprivatauszug aus dem Zentralstrafregister der Mitglieder des operativen Führungsorgans und aller Mitarbeiterinnen und Mitarbeiter mit Leitungsfunktion sowie eine Selbstdeklaration zum Gesundheitszustand und zu laufenden Strafverfahren
+- 3\. Nachweis über Personal in genügender Anzahl und einer mit Bezug auf Funktion und Art des Heims angemessenen Ausbildung
+- 4\. Planunterlagen über die Räumlichkeiten und Einrichtungen
+- 5\. Betriebskonzept inklusive Nennung der Organe
+- 6\. Betreuungskonzept
+- 7\. Nachweis der gesicherten Finanzierung
+- 8\. Muster der Aufenthaltsvereinbarung
 
 <sup>3</sup> Das zuständige Departement kann zusätzliche Unterlagen verlangen.
 
@@ -126,11 +125,11 @@ vom 16.02.2021 (Stand 01.03.2021)
 
 **Qualitätsmanagement**
 
-<sup>1</sup> Die Heime sichern die Qualität aufgrund eines Qualitätsmanagements, das:
+<sup>1</sup> Die Heime sichern die Qualität aufgrund eines Qualitätsmanagements, das
 
-- 1\. Aufgaben, Verantwortung und Prozesse der Qualitätssteuerung beschreibt;
-- 2\. Qualitätskonzepte und -standards und die dazugehörenden Qualitätsindikatoren sowie deren Mess- und Überprüfungsinstrumente für die Kernleistungen festlegt;
-- 3\. die Qualität der erbrachten Dienstleistungen periodisch beurteilt;
+- 1\. Aufgaben, Verantwortung und Prozesse der Qualitätssteuerung beschreibt,
+- 2\. Qualitätskonzepte und -standards und die dazugehörenden Qualitätsindikatoren sowie deren Mess- und Überprüfungsinstrumente für die Kernleistungen festlegt,
+- 3\. die Qualität der erbrachten Dienstleistungen periodisch beurteilt und
 - 4\. die Ergebnisse der Qualitätsprüfung und Massnahmen bei Zielabweichungen dokumentiert.
 
 <sup>2</sup> Die Ergebnisse der Qualitätsüberprüfung sind den betreuten sowie den vertretungsberechtigten Personen in geeigneter Form zugänglich zu machen.
@@ -153,11 +152,11 @@ vom 16.02.2021 (Stand 01.03.2021)
 
 <sup>1</sup> Die Aufsicht orientiert sich am Wohl der betreuten Personen. Das zuständige Departement fordert die benötigten Unterlagen ein, führt periodisch Aufsichtsbesuche durch und nimmt dabei insbesondere folgende Aufgaben wahr:
 
-- 1\. Überprüfung der Bewilligungsvoraussetzungen;
-- 2\. Überprüfung der Qualitätssicherung und internen Aufsicht;
-- 3\. Überprüfung der Rechtsstellung der betreuten Personen;
-- 4\. Eruierung der Sicht der betroffenen Personen, insbesondere durch Befragung von betreuten Personen sowie in begründeten Fällen deren Bezugspersonen und bevollmächtigten und gesetzlichen Vertreterinnen und Vertretern;
-- 5\. Beratung und Befragung von Führungsorganen und Personal.
+- 1\. Überprüfung der Bewilligungsvoraussetzungen
+- 2\. Überprüfung der Qualitätssicherung und internen Aufsicht
+- 3\. Überprüfung der Rechtsstellung der betreuten Personen
+- 4\. Eruierung der Sicht der betroffenen Personen, insbesondere durch Befragung von betreuten Personen sowie in begründeten Fällen deren Bezugspersonen und bevollmächtigten und gesetzlichen Vertreterinnen und Vertretern
+- 5\. Beratung und Befragung von Führungsorganen und Personal
 
 <sup>2</sup> Die Heime haben dem zuständigen Departement vollständig und wahrheitsgemäss Auskunft über die betreuten Personen, Personal und Betrieb zu erteilen und Einsicht in sämtliche Unterlagen sowie freien Zutritt zu allen Räumlichkeiten zu gewähren.
 
@@ -181,12 +180,12 @@ vom 16.02.2021 (Stand 01.03.2021)
 
 <sup>3</sup> Werden Anordnungen nicht innert Frist umgesetzt, kann das zuständige Departement eine Nachfrist ansetzen oder direkt Massnahmen anordnen, insbesondere:
 
-- 1\. eine externe, unabhängige Begleitung einsetzen;
-- 2\. eine vorübergehende operative Leitung einsetzen;
-- 3\. einen Aufnahmestopp verhängen;
-- 4\. die Anzahl Heimplätze reduzieren;
-- 5\. die Verlegung von betreuten Personen verfügen;
-- 6\. Beiträge ans Heim kürzen, sistieren oder streichen.
+- 1\. eine externe, unabhängige Begleitung einsetzen
+- 2\. eine vorübergehende operative Leitung einsetzen
+- 3\. einen Aufnahmestopp verhängen
+- 4\. die Anzahl Heimplätze reduzieren
+- 5\. die Verlegung von betreuten Personen verfügen
+- 6\. Beiträge ans Heim kürzen, sistieren oder streichen
 
 <sup>4</sup> Die Kosten für Massnahmen gehen zulasten des Heims.
 
@@ -210,12 +209,12 @@ vom 16.02.2021 (Stand 01.03.2021)
 
 **Datenauskunft, Dateneinsicht, Datenherausgabe**
 
-<sup>1</sup> Datenauskunft, Dateneinsicht und Datenherausgabe sind nach Massgabe des kantonalen Gesetzes über den Datenschutz[^16-1] zu gewähren:
+<sup>1</sup> Datenauskunft, Dateneinsicht und Datenherausgabe sind nach Massgabe des kantonalen Gesetzes über den Datenschutz (TG DSG)[^16-1] zu gewähren:
 
-- 1\. den betreuten Personen;
-- 2\. dem zuständigen Departement;
-- 3\. Bevollmächtigten oder der gesetzlichen Vertretung, soweit die urteilsfähige betreute Person nicht widerspricht;
-- 4\. übrigen Personen, soweit das Einverständnis der betreuten Person vorliegt. Bei Ehepaaren, eingetragenen Partnerschaften und dem Partner oder der Partnerin wird das Einverständnis vermutet, sofern der betreuten Person regelmässig und persönlich Beistand geleistet wird.
+- 1\. den betreuten Personen
+- 2\. dem zuständigen Departement
+- 3\. Bevollmächtigten oder der gesetzlichen Vertretung, soweit die urteilsfähige betreute Person nicht widerspricht
+- 4\. übrigen Personen, soweit das Einverständnis der betreuten Person vorliegt. Bei Ehepaaren, eingetragenen Partnerschaften und dem Partner oder der Partnerin wird das Einverständnis vermutet, sofern der betreuten Person regelmässig und persönlich Beistand geleistet wird
 
 [^16-1]: RB [170.7](https://www.rechtsbuch.tg.ch/data/170.7/de)
 
@@ -237,8 +236,8 @@ vom 16.02.2021 (Stand 01.03.2021)
 
 <sup>1</sup> Beanstandungen von betreuten oder ihnen nahestehenden Personen sind innert Monatsfrist einzureichen:
 
-- 1\. gegen das operative Führungsorgan beim strategischen Führungsorgan;
-- 2\. gegen das Personal beim zuständigen Heimorgan.
+- 1\. gegen das operative Führungsorgan beim strategischen Führungsorgan
+- 2\. gegen das Personal beim zuständigen Heimorgan
 
 <sup>2</sup> Sie sind innert Monatsfrist schriftlich zu beantworten.
 
