@@ -4,20 +4,21 @@ number: "31"
 title: Geschäftsordnung des Kantonsrates
 short: GOKR
 language: de
-version: 2015-06-01
-valid_until: 2023-05-31
-version_adopted: 2015-03-16
+version: 2023-06-01
+version_adopted: 2023-03-20
 adopted: 2015-03-16
 in_force: 2015-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/31"
-pdf: "https://srl.lu.ch/api/de/versions/3537/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4082/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsordnung des Kantonsrates
 
-vom 16.03.2015 (Stand 01.06.2015)
+(GOKR)
+
+vom 16.03.2015 (Stand 01.06.2023)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -36,7 +37,7 @@ beschliesst:
 
 **Konstituierende Sitzung**
 
-<sup>1</sup> Der Alterspräsident oder die Alterspräsidentin eröffnet die konstituierende Sitzung des neugewählten Kantonsrates mit einer Ansprache. Anschliessend hält das jüngste Ratsmitglied eine Rede.
+<sup>1</sup> Der Alterspräsident oder die Alterspräsidentin eröffnet die konstituierende Sitzung des neugewählten Kantonsrates mit einer Ansprache. Anschliessend hält das jüngste Ratsmitglied eine Rede. Sofern das jüngste Mitglied die Rede bereits einmal gehalten hat, geht diese Aufgabe an das zweitjüngste Mitglied über.
 
 #### § 2
 
@@ -176,7 +177,7 @@ beschliesst:
 
 <sup>3</sup> Werden die Voten für die Protokollierung auf Tonträger aufgenommen, werden sie nach der Genehmigung des Protokolls gelöscht.
 
-<sup>4</sup> In die elektronische Version der Kommissionsprotokolle mit Ausnahme der Protokolle der Aufsichts- und Kontrollkommission können alle Mitglieder des Kantonsrates Einsicht nehmen. Verwaltungsinterne Sitzungsteilnehmende erhalten eine elektronische Version, externe Teilnehmerinnen und Teilnehmer per Post Auszüge, die mit dem Vermerk «vertraulich» gekennzeichnet sind.
+<sup>4</sup> In die elektronische Version der Kommissionsprotokolle mit Ausnahme der Protokolle der Aufsichts- und Kontrollkommission können alle Mitglieder des Kantonsrates und des Regierungsrates Einsicht nehmen. Verwaltungsinterne Sitzungsteilnehmende erhalten eine elektronische Version. Externen Teilnehmerinnen und Teilnehmern werden Auszüge per Post mit dem Vermerk «vertraulich» zugestellt. Eine elektronische Zustellung ist zulässig, soweit die Vertraulichkeit sichergestellt werden kann.
 
 #### § 17
 
@@ -327,7 +328,7 @@ beschliesst:
 
 **Sessions- und Sitzungsdauer**
 
-<sup>1</sup> Eine Session dauert in der Regel zwei Tage (Montag und Dienstag). In den Monaten September und Dezember umfasst sie drei Tage, wobei jeweils der Montag der Folgewoche hinzukommt.
+<sup>1</sup> Die Session dauert in den Monaten März, Juni, September und Oktober drei Tage (Montag, Dienstag und jeweils der Montag der Folgewoche). Die übrigen Sessionen dauern zwei Tage (Montag und Dienstag).
 
 <sup>2</sup> Die Sitzungen dauern jeweils von 9 bis 12 Uhr und von 14 bis 18 Uhr.
 
@@ -419,7 +420,7 @@ beschliesst:
 
 <sup>4</sup> Im Übrigen erteilt der Präsident oder die Präsidentin das Wort in der Reihenfolge der Wortmeldungen.
 
-<sup>5</sup> Bei Ordnungsanträgen melden sich die Ratsmitglieder zusätzlich persönlich beim Ratspräsidium.
+<sup>5</sup> Bei Ordnungsanträgen melden sich die Ratsmitglieder und bei Fraktionserklärungen (§ 47a) der Fraktionspräsident oder die Fraktionspräsidentin zusätzlich persönlich beim Ratspräsidium.
 
 #### § 43
 
@@ -467,6 +468,12 @@ beschliesst:
 **Protokollerklärungen**
 
 <sup>1</sup> Mitglieder, die bei der Behandlung eines Wahl- oder Sachgeschäftes in die Minderheit versetzt wurden, können einzeln oder gemeinsam als gegensätzliche Meinungsäusserung eine kurze Protokollerklärung abgeben. Dieses Recht steht auch dem Regierungsrat zu.
+
+#### § 47a
+
+**Fraktionserklärungen**
+
+<sup>1</sup> Erklärungen im Namen der Fraktion sind vom Fraktionspräsidenten oder von der Fraktionspräsidentin abzugeben, bei deren Verhinderung vom Vizepräsidenten oder von der Vizepräsidentin. Fraktionserklärungen sind zu jedem Zeitpunkt der Diskussion möglich, und es besteht keine Redezeitbeschränkung.
 
 ### 3.3.2 Beratung von Berichten und Entwürfen
 
@@ -680,7 +687,7 @@ beschliesst:
 
 #### § 69
 
-**Genehmigung und Unterzeichnung der Verhandlungsprotokolle**
+**Genehmigung der Verhandlungsprotokolle**
 
 <sup>1</sup> Die Verhandlungsprotokolle einer Session werden den Ratsmitgliedern in der Regel an der folgenden Session zugänglich gemacht. Werden keine Berichtigungen beantragt, gilt das Protokoll nach Ende der Session stillschweigend als genehmigt.
 
@@ -688,7 +695,7 @@ beschliesst:
 
 <sup>3</sup> Die Geschäftsleitung entscheidet unverzüglich über Berichtigungsanträge, verfügt Berichtigungen und erteilt die Genehmigung.
 
-<sup>4</sup> Der Präsident oder die Präsidentin des Kantonsrates unterzeichnet nach der Genehmigung eine Ausfertigung aller Verhandlungsprotokolle einer Session in Papierform.
+<sup>4</sup> …
 
 #### § 70
 
@@ -696,7 +703,7 @@ beschliesst:
 
 <sup>1</sup> Die Kurzprotokolle werden unmittelbar nach der Session, die Verhandlungsprotokolle nach der Genehmigung öffentlich zugänglich gemacht.
 
-<sup>2</sup> Die unterzeichnete Ausfertigung der Verhandlungsprotokolle geht an das Staatsarchiv. Ihr werden die Protokolle und Beratungsunterlagen zu den Begnadigungsgesuchen und weitere Protokolle zu geheimen Beratungen beigefügt.
+<sup>2</sup> Die genehmigten Verhandlungsprotokolle gehen in elektronischer Form an das Staatsarchiv. Ihnen werden die Protokolle und Beratungsunterlagen zu den Begnadigungsgesuchen und weitere Protokolle zu geheimen Beratungen beigefügt.
 
 ## 4 Sachgeschäfte
 
@@ -740,7 +747,7 @@ beschliesst:
 
 <sup>1</sup> Die Vorstösse sind elektronisch einzureichen. Die Unterschriften sämtlicher unterzeichnender Ratsmitglieder sind unverzüglich beizubringen.
 
-<sup>2</sup> Der letztmögliche Zeitpunkt für die Einreichung dringlicher Vorstösse ist Freitagmorgen, 6 Uhr, vor der Session.
+<sup>2</sup> Der letztmögliche Zeitpunkt für die Einreichung dringlicher Vorstösse ist Donnerstagnachmittag, 14 Uhr, vor der Session.
 
 <sup>3</sup> Motionen und Postulate von Kommissionen zu traktandierten Sachgeschäften unterliegen nicht dem Dringlichkeitsverfahren und werden zusammen mit dem Sachgeschäft behandelt.
 
