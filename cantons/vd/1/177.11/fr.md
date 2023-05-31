@@ -4,7 +4,7 @@ number: "177.11"
 title: "LOI du 09.06.2015 sur la profession d'avocat (LPAv)"
 short: LPAv
 language: fr
-version: 2016-01-01
+version: 2023-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/177.11?id=c376d796-48c5-499e-bb81-549558afdb63"
 ---
 
@@ -68,9 +68,11 @@ décrète
 
 **Représentation professionnelle [^5-1]**
 
-<sup>1</sup> La législation fédérale règle la représentation professionnelle en matière de procédure civile et de procédure pénale.
+<sup>1</sup> La législation fédérale règle la représentation professionnelle en procédure civile.
 
 <sup>2</sup> En matière administrative, le mandat exclusif de l'avocat est limité à la juridiction exercée par les tribunaux civils ou pénaux et aux causes qui appellent l'application de la loi cantonale sur l'expropriation[^6-1] .
+
+<sup>3</sup> En procédure pénale, la représentation professionnelle du prévenu et de la partie plaignante est réservée aux avocats, sous réserve d'exceptions prévues par une loi.
 
 [^5-1]: Modif. 1 du 17.01.2023: Modification Al. 1; entrée en vigueur au 01.06.2023; Introduction Al. 3; entrée en vigueur au 01.06.2023
 [^6-1]: Loi du 25.11.1974 sur l'expropriation ([BLV 710.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/710.01?id=225fca58-33c6-460b-b444-a4fffce598e2))
