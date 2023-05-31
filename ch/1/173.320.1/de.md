@@ -4,11 +4,11 @@ title: Geschäftsreglement vom 17. April 2008 für das Bundesverwaltungsgericht 
 short: VGR
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/320"
 language: de
-version: 2023-01-23
+version: 2023-06-01
 adopted: 2008-04-17
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2008-320-20230123-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2008-320-20230601-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20230123/de"
 
 (VGR)
 
-Vom 17. April 2008 (Stand am 23. Januar 2023)
+Vom 17. April 2008 (Stand am 1. Juni 2023)
 
 Das Bundesverwaltungsgericht (BVGer),
 
@@ -456,13 +456,29 @@ Die Kammerpräsidenten und Kammerpräsidentinnen sind zuständig für:
 - e. die Anordnung einer öffentlichen Beratung;
 - f. die Übertragung von Aufgaben an die Gerichtsschreiber und Gerichtsschreiberinnen.
 
+#### Art. 25a
+
+**Fachgebiete**[^25a-1]
+
+<sup>1</sup> Die Abteilungen und Kammern können sich in Fachgebiete gliedern. Die Rechtsgebiete nach dem Anhang werden den Fachgebieten organisatorisch zugewiesen.
+
+<sup>2</sup> Der Abteilungspräsident oder die Abteilungspräsidentin und dessen oder deren Stellvertreter oder Stellvertreterin sind für die Leitung der Fachgebiete zuständig (Fachgebietsverantwortliche).
+
+<sup>3</sup> Richter und Richterinnen können als Fachgebietskoordinatoren und Fachgebietskoordinatorinnen den Abteilungspräsidenten oder die Abteilungspräsidentin bei der Koordination der Rechtsprechung nach Artikel 14*a* Absatz 2 Buchstabe a unterstützen.
+
+[^25a-1]: Eingefügt durch Ziff. I des Beschlusses des BVGer vom 13. Dez. 2022, in Kraft seit 1. Juni 2023 ([AS 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+
 #### Art. 26
 
-**Geschäftsverteilung**
+**Geschäftsverteilung**[^26-1]
 
-<sup>1</sup> Die Abteilungen erlassen Richtlinien über die Verteilung der Geschäfte auf die Kammern.
+<sup>1</sup> Die Abteilungen regeln die Verteilung der Geschäfte auf die Kammern oder Fachgebiete.
 
-<sup>2</sup> Die Richtlinien sind der Verwaltungskommission zur Genehmigung vorzulegen.
+<sup>2</sup> Die Regelungen sind der Verwaltungskommission zur Genehmigung vorzulegen.
+
+<sup>3</sup> Die Abteilungspräsidenten und Abteilungspräsidentinnen verteilen die Geschäfte auf die Kammern oder Fachgebiete.
+
+[^26-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 13. Dez. 2022, in Kraft seit 1. Juni 2023 ([AS 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
 
 ### 3. Abschnitt: Richter und Richterinnen
 
@@ -520,19 +536,53 @@ Die Abteilungen regeln die Zuteilung und Unterstellung der Gerichtsschreiber und
 
 #### Art. 31
 
-**Geschäftsverteilung**
+**Geschäftszuteilung**[^31-1]
 
-<sup>1</sup> Die Abteilungspräsidenten und Abteilungspräsidentinnen verteilen die Geschäfte auf die Kammern nach Artikel 26.
+<sup>1</sup> Die Geschäfte werden einem Richter oder einer Richterin zur Prozessinstruktion und Erledigung zugeteilt. Vorbehalten bleiben Geschäfte, die in die Zuständigkeit des Abteilungs- oder Kammerpräsidiums fallen.
 
-<sup>2</sup> Übernehmen die Kammerpräsidenten und Kammerpräsidentinnen nicht selbst die Verfahrensleitung, so teilen sie die Geschäfte einem Richter oder einer Richterin zur Prozessinstruktion und Fallerledigung zu.
+<sup>2</sup>
 
-<sup>3</sup> Die Zuteilung der Geschäfte nach Absatz 2 erfolgt nach einem von den Abteilungen im Voraus festgelegten Schlüssel. Dieser ist der Verwaltungskommission zur Genehmigung vorzulegen. Massgebend für den Schlüssel ist die Reihenfolge der Geschäftseingänge. Angemessen zu berücksichtigen sind ferner die Amtssprachen und der Beschäftigungsgrad der Richter und Richterinnen, deren Belastung durch die Mitarbeit in Gerichtsgremien und allfällige weitere Kriterien wie spezifische Kammerzuständigkeiten oder die Vorbefassung von Richtern oder Richterinnen.
+Die Zuteilung der Geschäfte erfolgt unter Zuhilfenahme einer Software nach der Reihenfolge der Geschäftseingänge. Massgebend sind ferner:
+
+- a. Kammer- oder Fachgebietszuständigkeiten;
+- b. die Arbeitssprachen;
+- c. der Beschäftigungsgrad und die Belastung durch die Mitarbeit in Gerichtsgremien;
+- d. Ausstandsgründe;
+- e. die Geschäftslast.
+
+<sup>3</sup>
+
+Bei der Zuteilung der Geschäfte können zudem berücksichtigt werden:
+
+- a. eine angemessene Einarbeitungszeit;
+- b. ein angemessener Zeitraum vor und nach einem Abteilungs-, Kammer- oder Fachgebietswechsel;
+- c. ein angemessener Zeitraum vor einem Austritt;
+- d. Abwesenheiten;
+- e. die Dringlichkeit eines Verfahrens, insbesondere bei Behandlungsfristen oder der Notwendigkeit vorsorglicher Massnahmen;
+- f. das Fallgewicht;
+- g. spezifische Fachkenntnisse;
+- h.
+
+  die Konnexität und ein enger Sachzusammenhang von Verfahren; in der Regel wird das Geschäft dem gleichen Mitglied zugeteilt:
+
+  - 1\. bei einer Rückweisung durch das Bundesgericht,
+  - 2\. bei einer Rückweisung an die Vorinstanz und nachfolgender erneuter Beschwerde an das Bundesverwaltungsgericht,
+  - 3\. wenn dieselbe Verfügung von mehreren Beschwerdeführenden angefochten wird,
+  - 4\. wenn dieselben Beschwerdeführenden aufeinanderfolgende Verfügungen in derselben Sache mit denselben Behörden und Parteien anfechten;
+
+- i. die Analogie von Verfahren, insbesondere Verfahren, die dieselbe Rechtsfrage betreffen, sodass das Geschäft dem gleichen Mitglied zugeteilt werden kann.
+
+<sup>4</sup> Bei Revisionen wird das Geschäft keinem Mitglied zugeteilt, das bereits im ursprünglichen Verfahren mitgewirkt hat. Davon kann abgewichen werden, wenn die Zusammensetzung der Richter und Richterinnen der Abteilung keine Neubesetzung erlaubt. Wird bei einer Gutheissung des Revisionsgesuchs die Streitsache des ursprünglichen Verfahrens erst im Anschluss materiell beurteilt, wird das Geschäft demselben Mitglied wie im Revisionsverfahren zugeteilt.
+
+<sup>5</sup> Zusätzlich zu den in Absatz 2 und Absatz 3 genannten Kriterien können ausnahmsweise allfällige weitere Kriterien berücksichtigt werden.
+
+[^31-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 13. Dez. 2022, in Kraft seit 1. Juni 2023 ([AS 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
 
 #### Art. 32
 
 **Bildung der Spruchkörper**
 
-<sup>1</sup> Steht fest, dass das Geschäft nicht in die Kompetenz eines Einzelrichters oder einer Einzelrichterin fällt, so bezeichnet der Kammerpräsident oder die Kammerpräsidentin das zweite und dritte Mitglied des Spruchkörpers. Artikel 31 Absatz 3 ist sinngemäss anwendbar.
+<sup>1</sup> Das zweite und das dritte Mitglied des Spruchkörpers werden sinngemäss nach Artikel 31 Absätze 2–5 bestimmt.[^32-1]
 
 <sup>2</sup> Solange das Urteil noch nicht zustande gekommen ist, kann jedes Mitglied des Spruchkörpers beantragen, dass das Urteil in Fünferbesetzung zu fällen sei. Sofern der Kammerpräsident oder die Kammerpräsidentin nicht gleichzeitig Abteilungspräsident oder Abteilungspräsidentin ist, leitet er oder sie den Antrag nach Anhörung des Instruktionsrichters oder der Instruktionsrichterin mit der eigenen Empfehlung an den Abteilungspräsidenten oder die Abteilungspräsidentin zur Entscheidung gemäss Artikel 21 Absatz 2 VGG.
 
@@ -541,14 +591,64 @@ Die Abteilungen regeln die Zuteilung und Unterstellung der Gerichtsschreiber und
 Die Fünferbesetzung besteht aus:
 
 - a. den drei Mitgliedern des ordentlichen Spruchkörpers;
-- b. dem Präsidenten oder der Präsidentin der zuständigen Kammer, falls er oder sie nicht bereits zum ordentlichen Spruchkörper gehört;
-- c. soweit notwendig einem oder zwei weiteren Mitgliedern der Abteilung. Diese sind gemäss Artikel 31 Absatz 3 zu bestimmen, sofern nicht der Abteilungspräsident oder die Abteilungspräsidentin gemäss Abteilungsreglement als weiteres Mitglied mitwirkt.
+- b.[^32-2] dem Präsidenten oder der Präsidentin der zuständigen Kammer oder dem oder der zuständigen Fachgebietsverantwortlichen, falls er oder sie nicht bereits zum ordentlichen Spruchkörper gehört;
+- c.[^32-3] dem Abteilungspräsidenten oder der Abteilungspräsidentin und allenfalls dem Fachgebietskoordinator oder der Fachgebietskoordinatorin, sofern er oder sie nicht bereits zum ordentlichen Spruchkörper gehört und sofern dies gemäss Abteilungspraxis vorgesehen ist; das weitere Mitglied oder die zwei weiteren Mitglieder des Spruchkörpers werden sinngemäss nach Artikel 31 Absätze 2–5 bestimmt.
 
-<sup>3bis</sup> Die Abteilungen können abteilungsübergreifende Spruchkörper bilden, insbesondere soweit die Rechtsfrage die jeweils gemeinsamen Rechtsgebiete betrifft.[^32-1]
+<sup>3bis</sup>
 
-<sup>4</sup> Die Abteilungen regeln, ob und in welcher Form den Parteien die Zusammensetzung des Spruchkörpers bekannt gegeben wird.
+Die Abteilungen können abteilungsübergreifende Spruchkörper bilden, insbesondere:
 
-[^32-1]: Eingefügt durch Ziff. I des Beschlusses des BVGer vom 19. Sept. 2017, in Kraft seit 1. Dez. 2017 ([AS 2017 5767](https://fedlex.data.admin.ch/eli/oc/2017/623)).
+- a. soweit die Rechtsfrage die jeweils gemeinsamen Rechtsgebiete betrifft;
+- b. wenn für die Rechtsfrage das Fachwissen einer anderen Abteilung notwendig ist;
+- c. bei einer Aushilfe von Richtern und Richterinnen in anderen Abteilungen zur Ausgleichung der Geschäftslast.[^32-4]
+
+<sup>4</sup> …[^32-5]
+
+<sup>5</sup> Erfordert es das Rechtsgebiet, kann die Abteilung bestimmen, dass die Dreierbesetzung aus mindestens zwei Mitgliedern besteht, deren Muttersprache der Verfahrenssprache entspricht.[^32-6]
+
+[^32-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 13. Dez. 2022, in Kraft seit 1. Juni 2023 ([AS 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+[^32-2]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 13. Dez. 2022, in Kraft seit 1. Juni 2023 ([AS 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+[^32-3]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 13. Dez. 2022, in Kraft seit 1. Juni 2023 ([AS 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+[^32-4]: Eingefügt durch Ziff. I des Beschlusses des BVGer vom 19. Sept. 2017 ([AS 2017 5767](https://fedlex.data.admin.ch/eli/oc/2017/623)). Fassung gemäss Ziff. I des Beschlusses des BVGer vom 13. Dez. 2022, in Kraft seit 1. Juni 2023 ([AS 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+[^32-5]: Aufgehoben durch Ziff. I des Beschlusses des BVGer vom 13. Dez. 2022, mit Wirkung seit 1. Juni 2023 ([AS 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+[^32-6]: Eingefügt durch Ziff. I des Beschlusses des BVGer vom 13. Dez. 2022, in Kraft seit 1. Juni 2023 ([AS 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+
+#### Art. 32a
+
+**Anpassung der Spruchkörper**[^32a-1]
+
+<sup>1</sup> Eine Anpassung eines gebildeten Spruchkörpers kann aus wichtigen sachlichen Gründen erfolgen. Artikel 31 Absätze 2–5 ist sinngemäss anwendbar.
+
+<sup>2</sup> Die Sprache des Verfahrens kann unter Einhaltung von Artikel 33*a* des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^32a-2] insbesondere aufgrund der Geschäftslast gewechselt werden.
+
+<sup>3</sup> Ist ein Mitglied des Spruchkörpers zum Zeitpunkt, in dem sich das Urteil in Zirkulation befindet, abwesend, so wird die Position im Spruchkörper neu besetzt, sofern dies aufgrund der voraussichtlichen Abwesenheitsdauer angezeigt ist.
+
+<sup>4</sup> Hat sich das abwesende Mitglied im Rahmen der laufenden oder einer früheren Zirkulation bereits zum Urteilsentwurf geäussert, so erfolgt keine Anpassung des Spruchkörpers. In Abweichung davon kann bei Abwesenheiten, die länger dauern oder bei denen die Rückkehr nicht absehbar ist, die Position im Spruchkörper neu besetzt werden.
+
+[^32a-1]: Eingefügt durch Ziff. I des Beschlusses des BVGer vom 13. Dez. 2022, in Kraft seit 1. Juni 2023 ([AS 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+[^32a-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 32b
+
+**Zuständigkeiten für die Geschäftszuteilung und die Bildung der Spruchkörper**[^32b-1]
+
+<sup>1</sup> Die Abteilungspräsidenten und Abteilungspräsidentinnen, die Kammerpräsidenten und Kammerpräsidentinnen und ihre Stellvertreter und Stellvertreterinnen sind für die Geschäftszuteilung und die Bildung der Spruchkörper zuständig.
+
+<sup>2</sup> Die Geschäftszuteilung und die Bildung der Spruchkörper können in begründeten Fällen, insbesondere im Falle von Abwesenheiten, an Richter und Richterinnen der Abteilung übertragen werden.
+
+<sup>3</sup> Sie können ferner an den Präsidialsekretär oder die Präsidialsekretärin oder an Mitarbeiter und Mitarbeiterinnen der Abteilungskanzlei übertragen werden. Diese handeln auf Weisung und unter Kontrolle der nach den Absätzen 1 und 2 zuständigen Mitglieder. Besteht bei der Geschäftszuteilung und Spruchkörperbildung ein Ermessensspielraum, ist dieser zwingend von den dafür zuständigen Richtern und Richterinnen wahrzunehmen.
+
+<sup>4</sup> Der Abteilungspräsident oder die Abteilungspräsidentin oder der Kammerpräsident oder die Kammerpräsidentin ist für die korrekte Geschäftszuteilung und Bildung der Spruchkörper verantwortlich. Er oder sie stellt sicher, dass die reglementarischen Vorschriften korrekt umgesetzt werden.
+
+[^32b-1]: Eingefügt durch Ziff. I des Beschlusses des BVGer vom 13. Dez. 2022, in Kraft seit 1. Juni 2023 ([AS 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+
+#### Art. 32c
+
+**Bekanntgabe der Spruchkörper**[^32c-1]
+
+Die Zusammensetzung des Spruchkörpers wird den Parteien auf Anfrage bekannt gegeben.
+
+[^32c-1]: Eingefügt durch Ziff. I des Beschlusses des BVGer vom 13. Dez. 2022, in Kraft seit 1. Juni 2023 ([AS 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
 
 #### Art. 33
 
@@ -630,6 +730,14 @@ Bei der Zuteilung der Geschäfte, die das Bundesverwaltungsgericht gemäss Artik
 <sup>2</sup> Spruchkörper, die vor Inkrafttreten dieses Reglements nach Artikel 25 Absätze 1−3 des Geschäftsreglements vom 11. Dezember 2006[^41-1] für das Bundesverwaltungsgericht bestimmt wurden, bleiben bestehen.
 
 [^41-1]: [[AS 2006 5287](https://fedlex.data.admin.ch/eli/oc/2006/799)]
+
+#### Art. 41a
+
+**Übergangsbestimmungen zu den Artikeln 25*a*, 26 und 31–32*c**[^41a-1]*
+
+Das neue Recht ist auf alle Geschäftszuteilungen sowie Spruchkörperbildungen und -anpassungen anwendbar, die nach dem Inkrafttreten der Änderungen dieses Reglements vom 13. Dezember 2022 erfolgen.
+
+[^41a-1]: Eingefügt durch Ziff. I des Beschlusses des BVGer vom 13. Dez. 2022, in Kraft seit 1. Juni 2023 ([AS 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
 
 #### Art. 42
 

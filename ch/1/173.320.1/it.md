@@ -4,11 +4,11 @@ title: Regolamento del 17 aprile 2008 del Tribunale amministrativo federale (RTA
 short: RTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/320"
 language: it
-version: 2023-01-23
+version: 2023-06-01
 adopted: 2008-04-17
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2008-320-20230123-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2008-320-20230601-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20230123/it"
 
 (RTAF)
 
-del 17 aprile 2008 (Stato 23 gennaio 2023)
+del 17 aprile 2008 (Stato 1° giugno 2023)
 
 Il Tribunale amministrativo federale,
 
@@ -49,7 +49,7 @@ La Corte plenaria è competente per:
 - j. le decisioni concernenti l’adesione ad associazioni internazionali;
 - k. altri compiti che le sono attribuite dalla LTAF.
 
-[^1-1]: Nuovo testo giusta il n. I della Dec. del TAF del 14 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 355](https://fedlex.data.admin.ch/eli/oc/2022/355)).
+[^1-1]: Nuovo testo giusta il n. I della Dec. del TAF del 14 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 355](https://fedlex.data.admin.ch/eli/oc/2022/355)).
 
 #### Art. 2
 
@@ -105,7 +105,7 @@ Possono essere nominate soltanto persone la cui candidatura è stata resa nota a
 
 <sup>4</sup> e <sup>5</sup> *Abrogati*
 
-[^6-1]: Nuovo testo giusta il n. I della Dec. del TAF del 14 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 355](https://fedlex.data.admin.ch/eli/oc/2022/355)).
+[^6-1]: Nuovo testo giusta il n. I della Dec. del TAF del 14 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 355](https://fedlex.data.admin.ch/eli/oc/2022/355)).
 
 #### Art. 7
 
@@ -131,7 +131,7 @@ Per l’assunzione del segretario generale e del suo sostituto, la Commissione a
 
 <sup>4</sup> Se nessun candidato ottiene la maggioranza assoluta, il candidato che ha ottenuto il minor numero di voti viene eliminato dopo ogni turno di scrutinio.
 
-[^9-1]: Nuovo testo giusta il n. I della Dec. del TAF del 14 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 355](https://fedlex.data.admin.ch/eli/oc/2022/355)).
+[^9-1]: Nuovo testo giusta il n. I della Dec. del TAF del 14 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 355](https://fedlex.data.admin.ch/eli/oc/2022/355)).
 
 ### Sezione 2: Presidenza
 
@@ -456,13 +456,29 @@ I presidenti di camera sono competenti per:
 - e. ordinare una deliberazione pubblica;
 - f. assegnare dei compiti ai cancellieri.
 
+#### Art. 25a
+
+**Settori specializzati**[^25a-1]
+
+<sup>1</sup> Le corti e le camere possono essere suddivise in settori specializzati. Le materie sono assegnate a tali settori nel rispetto della ripartizione tra le corti di cui all’allegato.
+
+<sup>2</sup> I settori specializzati sono posti sotto la direzione del presidente di corte e del suo sostituto (responsabile di settore).
+
+<sup>3</sup> I giudici designati coordinatori di settore possono assistere i presidenti di corte nell’assicurare il coordinamento della giurisprudenza secondo l’articolo 14*a* capoverso 2 lettera a.
+
+[^25a-1]: Introdotto dal n. I della Dec. del TAF del 13 dic. 2022, in vigore dal 1° giu. 2023 ([RU 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+
 #### Art. 26
 
-**Ripartizione delle cause**
+**Ripartizione delle cause**[^26-1]
 
-<sup>1</sup> Le corti emanano direttive sulla ripartizione delle cause tra le camere.
+<sup>1</sup> Le corti disciplinano la ripartizione delle cause tra le camere o tra i settori specializzati.
 
-<sup>2</sup> Le direttive vanno sottoposte per approvazione alla Commissione amministrativa.
+<sup>2</sup> Le regole di ripartizione sono sottoposte per approvazione alla Commissione amministrativa.
+
+<sup>3</sup> I presidenti di corte ripartiscono le cause tra le camere o tra i settori specializzati.
+
+[^26-1]: Nuovo testo giusta il n. I della Dec. del TAF del 13 dic. 2022, in vigore dal 1° giu. 2023 (RU **202****3** 238).
 
 ### Sezione 3: Giudici
 
@@ -520,19 +536,53 @@ Le corti regolano l’attribuzione ed i rapporti di subordinazione dei cancellie
 
 #### Art. 31
 
-**Ripartizione delle cause**
+**Attribuzione delle cause**[^31-1]
 
-<sup>1</sup> I presidenti delle corti ripartiscono le cause tra le camere giusta l’articolo 26.
+<sup>1</sup> Ogni causa è attribuita a un giudice ai fini dell’istruzione e dell’evasione. Sono fatte salve le cause di competenza del presidente di corte o di camera.
 
-<sup>2</sup> I presidenti di camera, nella misura in cui non assumano la direzione del procedimento, attribuiscono le cause ad un giudice ai fini dell’istruzione e dell’evasione.
+<sup>2</sup>
 
-<sup>3</sup> L’attribuzione delle cause ai sensi del capoverso 2 è effettuata secondo una chiave di riparto stabilita in precedenza dalle corti medesime. Questa chiave di riparto è sottoposta alla Commissione amministrativa per approvazione. L’ordine d’entrata delle cause è decisivo per stabilire la chiave di riparto. Occorre inoltre tenere adeguatamente conto delle lingue ufficiali, del grado d’occupazione dei giudici, della mole di lavoro loro occasionata da compiti che sono chiamati a svolgere in seno ad organi del Tribunale, nonché di altri criteri come le competenze specifiche di una camera od eventuali impedimenti derivanti dalle norme sulla prevenzione.
+L’attribuzione delle cause è effettuata con l’ausilio di un software in base all’ordine d’entrata delle cause. Sono determinanti anche i seguenti criteri:
+
+- a. le competenze delle camere o dei settori specializzati;
+- b. le lingue di lavoro;
+- c. il grado d’occupazione dei giudici e la mole di lavoro loro occasionata da compiti che sono chiamati a svolgere in seno ad organi del Tribunale;
+- d. i motivi di ricusazione;
+- e. il carico di lavoro.
+
+<sup>3</sup>
+
+Nell’attribuire le cause possono essere considerati anche i criteri seguenti:
+
+- a. un periodo di introduzione adeguato;
+- b. un periodo adeguato prima e dopo il passaggio a un’altra corte, un’altra camera o un altro settore specializzato;
+- c. un periodo adeguato prima di una partenza dal tribunale;
+- d. le assenze;
+- e. il carattere urgente di un procedimento, determinato in particolare dal termine di trattazione o dalla necessità di adottare misure cautelari;
+- f. l’importanza della causa;
+- g. le conoscenze specifiche;
+- h.
+
+  la connessione e uno stretto nesso materiale tra i procedimenti; di regola la causa è attribuita allo stesso giudice:
+
+  - 1\. in caso di rinvio da parte del Tribunale federale,
+  - 2\. in caso di rinvio all’autorità inferiore e successivo nuovo ricorso al Tribunale amministrativo federale,
+  - 3\. nel caso in cui la stessa decisione sia impugnata da più ricorrenti,
+  - 4\. nel caso in cui gli stessi ricorrenti impugnino decisioni consecutive nella stessa causa con le stesse autorità e le stesse parti;
+
+- i. l’analogia tra i procedimenti, in particolare quando riguardano lo stesso quesito giuridico; in tal caso la causa può essere attribuita allo stesso giudice.
+
+<sup>4</sup> Nelle procedure di revisione, la causa non può essere attribuita a un giudice che ha partecipato al procedimento oggetto della revisione. Sono ammesse deroghe se la composizione della corte non consente di sostituire il giudice in questione. Se in caso di accoglimento della domanda di revisione la vertenza originaria è giudicata nel merito soltanto in seguito, la causa è attribuita al giudice al quale è stata attribuita la revisione.
+
+<sup>5</sup> In via eccezionale, possono essere considerati anche altri criteri oltre a quelli di cui ai capoversi 2 e 3.
+
+[^31-1]: Nuovo testo giusta il n. I della Dec. del TAF del 13 dic. 2022, in vigore dal 1° giu. 2023 ([RU 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
 
 #### Art. 32
 
 **Composizione dei collegi giudicanti**
 
-<sup>1</sup> Se è stabilito che la causa non rientra nelle competenze del giudice unico, il presidente della camera designa il secondo e il terzo membro del collegio giudicante. L’articolo 31 capoverso 3 si applica per analogia.
+<sup>1</sup> Il secondo e il terzo membro del collegio giudicante sono designati per analogia con l’articolo 31 capoversi 2–5.[^32-1]
 
 <sup>2</sup> Fintanto che la sentenza non è stata pronunciata, ogni membro del collegio giudicante può chiedere che si giudichi nella composizione di cinque giudici. Il presidente della camera, sempre che non sia contemporaneamente presidente della corte, trasmette con il suo preavviso la proposta per decisione al presidente della corte, dopo aver sentito il giudice dell’istruzione, conformemente all’articolo 21 capoverso 2 LTAF.
 
@@ -541,14 +591,64 @@ Le corti regolano l’attribuzione ed i rapporti di subordinazione dei cancellie
 Il collegio giudicante di cinque giudici consta:
 
 - a. dei tre membri del collegio giudicante ordinario;
-- b. del presidente di camera competente, se non fa già parte del collegio giudicante ordinario;
-- c. di uno o, se necessario, altri due membri della corte. Questi sono designati conformemente all’articolo 31 capoverso 3, sempre che il presidente della corte non partecipi come ulteriore membro in virtù del regolamento della corte.
+- b.[^32-2] del presidente di camera competente o del responsabile di settore, se non fa già parte del collegio giudicante ordinario;
+- c.[^32-3] del presidente di corte ed eventualmente del coordinatore di settore, se non fa già parte del collegio giudicante ordinario e se la prassi interna della corte lo prevede; l’altro o gli altri due membri del collegio giudicante sono designati per analogia con l’articolo 31 capoversi 2–5.
 
-<sup>3bis</sup> Il collegio giudicante può comprendere membri di corti diverse, in particolare se si tratta di statuire su quesiti concernenti ambiti giuridici comuni.[^32-1]
+<sup>3bis</sup>
 
-<sup>4</sup> Le corti stabiliscono se e in che forma la composizione del collegio giudicante è resa nota alle parti.
+Il collegio giudicante può comprendere membri di corti diverse, in particolare se:
 
-[^32-1]: Introdotto dal n. I della Dec. del TAF del 19 set. 2017, in vigore dal 1° dic. 2017 ([RU 2017 5767](https://fedlex.data.admin.ch/eli/oc/2017/623)).
+- a. si tratta di statuire su quesiti concernenti ambiti giuridici comuni;
+- b. il quesito giuridico richiede le conoscenze specifiche di un’altra corte;
+- c. è necessario il concorso di giudici in un’altra corte, così da assicurare un’equa ripartizione delle cause.[^32-4]
+
+<sup>4</sup> ... [^32-5]
+
+<sup>5</sup> Se la materia lo richiede, la corte può decidere che il collegio giudicante di tre giudici comprenda almeno due membri la cui lingua materna corrisponde alla lingua del procedimento.[^32-6]
+
+[^32-1]: Nuovo testo giusta il n. I della Dec. del TAF del 13 dic. 2022, in vigore dal 1° giu. 2023 ([RU 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+[^32-2]: Nuovo testo giusta il n. I della Dec. del TAF del 13 dic. 2022, in vigore dal 1° giu. 2023 ([RU 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+[^32-3]: Nuovo testo giusta il n. I della Dec. del TAF del 13 dic. 2022, in vigore dal 1° giu. 2023 ([RU 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+[^32-4]: Introdotto dal n. I della Dec. del TAF del 19 set. 2017 ([RU 2017 5767](https://fedlex.data.admin.ch/eli/oc/2017/623)). Nuovo testo giusta il n. I della Dec. del TAF del 13 dic. 2022, in vigore dal 1° giu. 2023 ([RU 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+[^32-5]: Abrogato dal n. I della Dec. del TAF del 13 dic. 2022, con effetto dal 1° giu. 2023 ([RU 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+[^32-6]: Introdotto dal n. I della Dec. del TAF del 13 dic. 2022, in vigore dal 1° giu. 2023 ([RU 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+
+#### Art. 32a
+
+**Modifica dei collegi giudicanti**[^32a-1]
+
+<sup>1</sup> Una volta costituito, un collegio giudicante può essere modificato soltanto per motivi oggettivi importanti. L’articolo 31 capoversi 2–5 si applica per analogia.
+
+<sup>2</sup> La lingua del procedimento può essere cambiata in particolare a causa del carico di lavoro, nel rispetto dell’articolo 33*a* della legge federale del 20 dicembre 1968[^32a-2] sulla procedura amministrativa.
+
+<sup>3</sup> Se un membro del collegio giudicante è assente mentre la sentenza si trova in circolazione, questi è sostituito da un altro giudice se la durata presumibile dell’assenza lo richiede.
+
+<sup>4</sup> Il collegio giudicante non viene modificato se il membro assente si è già pronunciato in merito al progetto di sentenza nell’ambito della circolazione in corso o di una circolazione precedente. In caso di assenza di lunga durata o se la data del rientro non è prevedibile, il membro assente può essere sostituito.
+
+[^32a-1]: Introdotto dal n. I della Dec. del TAF del 13 dic. 2022, in vigore dal 1° giu. 2023 ([RU 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+[^32a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 32b
+
+**Competenze per l’attribuzione delle cause e la costituzione dei collegi giudicanti**[^32b-1]
+
+<sup>1</sup> L’attribuzione delle cause e la costituzione dei collegi giudicanti sono di competenza del presidente di corte, del presidente di camera e dei loro sostituti.
+
+<sup>2</sup> In casi motivati, in particolare in caso di assenza, tali competenze possono essere delegate a giudici della corte.
+
+<sup>3</sup> L’attribuzione delle cause e la costituzione dei collegi giudicanti possono essere delegate anche al segretario presidenziale o al personale della cancelleria della corte. Questi operano su istruzione e sotto il controllo dei giudici competenti secondo i capoversi 1 e 2. Se nell’attribuire le cause o costituire i collegi giudicanti si dispone di un margine di apprezzamento, la decisione spetta ai giudici competenti summenzionati.
+
+<sup>4</sup> Il presidente di corte o di camera è responsabile della corretta attribuzione delle cause e della regolare costituzione dei collegi giudicanti. Assicura inoltre la corretta applicazione del regolamento.
+
+[^32b-1]: Introdotto dal n. I della Dec. del TAF del 13 dic. 2022, in vigore dal 1° giu. 2023 ([RU 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
+
+#### Art. 32c
+
+**Comunicazione della composizione del collegio giudicante**[^32c-1]
+
+La composizione del collegio giudicante è comunicata, su richiesta, alle parti.
+
+[^32c-1]: Introdotto dal n. I della Dec. del TAF del 13 dic. 2022, in vigore dal 1° giu. 2023 ([RU 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
 
 #### Art. 33
 
@@ -630,6 +730,14 @@ L’attribuzione dei giudici alle Corti da parte della Commissione giudiziaria c
 <sup>2</sup> I collegi giudicanti costituiti secondo l’articolo 25 capoversi 1–3 del regolamento dell’11 dicembre 2006[^41-1] del Tribunale amministrativo federale prima dell’entrata in vigore del presente regolamento rimangono intatti.
 
 [^41-1]: [[RU 2006 5287](https://fedlex.data.admin.ch/eli/oc/2006/799)]
+
+#### Art. 41a
+
+**Disposizione transitoria degli articoli 25*a*, 26 e 31–32*c**[^41a-1]*
+
+Il nuovo diritto si applica a tutte le attribuzioni di cause e a tutte le costituzioni o modifiche di collegi giudicanti successive all’entrata in vigore della modifica del 13 dicembre 2022 del presente regolamento.
+
+[^41a-1]: Introdotto dal n. I della Dec. del TAF del 13 dic. 2022, in vigore dal 1° giu. 2023 ([RU 2023 238](https://fedlex.data.admin.ch/eli/oc/2023/238)).
 
 #### Art. 42
 
