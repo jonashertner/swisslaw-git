@@ -4,13 +4,13 @@ number: "831.1"
 title: Finanzhaushaltsverordnung
 short: FHV
 language: de
-version: 2021-10-01
-valid_until: 2023-05-31
-version_adopted: 2021-06-29
+version: 2023-06-01
+valid_until: 2025-12-31
+version_adopted: 2023-04-25
 adopted: 1996-12-17
 in_force: 1997-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/831.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3254/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3502/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3254/pdf_file"
 
 (FHV)
 
-vom 17.12.1996 (Stand 01.10.2021)
+vom 17.12.1996 (Stand 01.06.2023)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -494,7 +494,7 @@ als Verordnung:[^ingress-2]
 
 **Vergabe von Bau-, Liefer- und Dienstleistungsaufträgen**
 
-<sup>1</sup> Departemente und Staatskanzlei sowie Gerichte und andere Justizbehörden vergeben Bau-, Liefer- und Dienstleistungsaufträge nach der Gesetzgebung über das Submissionswesen bis zum Betrag von Fr. 500 000.– je Teilauftrag.
+<sup>1</sup> Departemente und Staatskanzlei sowie Gerichte und andere Justizbehörden vergeben Bau-, Liefer- und Dienstleistungsaufträge nach der Gesetzgebung über das öffentliche Beschaffungswesen bis zum Betrag von Fr. 500 000.– je Teilauftrag.
 
 <sup>2</sup> Sie vollziehen die Vergabe von Bau-, Liefer- und Dienstleistungsaufträgen.
 
