@@ -3,20 +3,19 @@ canton: AR
 number: "145.12"
 title: Besoldungsverordnung für die gerichtlichen Organe
 language: de
-version: 2020-01-01
-valid_until: 2023-05-31
-version_adopted: 2020-11-02
+version: 2023-06-01
+version_adopted: 2023-05-08
 adopted: 2010-09-13
 in_force: 2011-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/145.12"
-pdf: "https://ar.clex.ch/api/de/versions/1334/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1507/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Besoldungsverordnung für die gerichtlichen Organe
 
-vom 13.09.2010 (Stand 01.01.2020)
+vom 13.09.2010 (Stand 01.06.2023)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -50,11 +49,17 @@ beschliesst:
 
 **Vermittler und Vermittlerinnen**
 
-<sup>1</sup> Die jährliche Grundentschädigung für den Vermittler oder die Vermittlerin beträgt Fr. 18 000.–. Diese deckt die ersten 50 erledigten Vermittlungen eines Kalenderjahres. Für jede weitere Vermittlung wird eine Fallpauschale von Fr. 250.– ausgerichtet.
+<sup>1</sup> Dem Vermittler oder der Vermittlerin wird eine jährliche Grundentschädigung für eine bestimmte Anzahl Vermittlungen ausgerichtet. Für jede weitere Vermittlung wird eine Fallpauschale von Fr. 250.– ausgerichtet.
 
-<sup>1<sup>bis</sup></sup>
+<sup>1<sup>bis</sup></sup> Die jährliche Grundentschädigung beträgt je nach Kreis:
 
-<sup>2</sup> Die Grundentschädigung wird am Ende eines Quartals, die Fallpauschalen werden am Jahresende ausbezahlt.
+- a) Kreis 1 (inkl. 70 Vermittlungen) — Fr. 25'000.–;
+- b) Kreis 2 (inkl. 40 Vermittlungen) — Fr. 14'500.–;
+- c) Kreis 3 (inkl. 40 Vermittlungen) — Fr. 14'500.–.
+
+<sup>2</sup> Für Stellvertreterarbeiten ohne Verfahrensabschluss steht dem Vermittler oder der Vermittlerin eine Entschädigung von Fr. 45.– pro Stunde zu.
+
+<sup>3</sup> Die Grundentschädigung wird am Ende eines Quartals, die Fallpauschalen werden am Jahresende ausbezahlt.
 
 #### Art. 3a
 
