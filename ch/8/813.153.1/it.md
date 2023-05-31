@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 sugli emolumenti per l'esecuzione della leg
 short: OEPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/469"
 language: it
-version: 2018-03-01
+version: 2023-06-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20180301/it/xml/fedlex-data-admin-ch-eli-cc-2005-469-20180301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20180301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2005-469-20230601-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20180301/it"
 
 (Ordinanza sugli emolumenti in materia di prodotti chimici, OEPChim)
 
-del 18 maggio 2005 (Stato 1° marzo 2018)
+del 18 maggio 2005 (Stato 1° giugno 2023)
 
 Il Consiglio federale svizzero,
 
@@ -105,15 +105,15 @@ Gli emolumenti per atti amministrativi che all’entrata in vigore della present
 
 La presente ordinanza entra in vigore il 1° agosto 2005.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 4 cpv. 1)
 
-## I. Emolumenti secondo l’ordinanza del 5 giugno 2015**** sui prodotti chimici (OPChim)
+## I. Emolumenti secondo l’ordinanza del 5 giugno 2015 sui prodotti chimici (OPChim)
 
 [^annexu1-lvlI-1]
 
-[^t-1]: Aggiornato dal n. III dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dall’all. 11 n. 2 dell’O del 20 giu. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), dal n. 3 dell’all. 6 all’O del 5 giu. 2015 sui prodotti chimici ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)) e dal n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)).
+[^t-1]: Aggiornato dal n. III dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dall’all. 11 n. 2 dell’O del 20 giu. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), dal n. 3 dell’all. 6 all’O del 5 giu. 2015 sui prodotti chimici ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), dal n. I dell’O del 31 gen. 2018 ([RU 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)) e dal n. II dell’O del 5 apr. 2023, in vigore dal 1° giu. 2023 ([RU 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)).
 [^annexu1-lvlI-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 <table>
@@ -131,7 +131,7 @@ Allegato*[^t-1]*
 <tr><td>4a Trattamento di una domanda di deroga alle disposizioni di etichettatura e di imballaggio (art. 12 OPChim)</td><td>200– 1 000</td></tr>
 </table>
 
-## II. [Emolumenti secondo l’ordinanza del 18 maggio 2005](https://www.admin.ch/opc/de/classified-compilation/20021522/index.html)**** sui biocidi [(OBioc)](https://www.admin.ch/opc/de/classified-compilation/20021522/index.html)
+## II. [Emolumenti secondo l’ordinanza del 18 maggio 2005](https://www.admin.ch/opc/de/classified-compilation/20021522/index.html) sui biocidi [(OBioc)](https://www.admin.ch/opc/de/classified-compilation/20021522/index.html)
 
 [^annexu1-lvlII-1]
 
@@ -193,7 +193,7 @@ Allegato*[^t-1]*
 <tr><td colspan="2">9.2 Emolumento suppletivo per un ulteriore tipo di prodotto</td><td>30 000–60 000</td></tr>
 </table>
 
-## III. Emolumenti secondo l’ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici del 18 maggio 2005 (ORRPChim)
+## III. Emolumenti secondo l’ordinanza del 18 maggio 2005 sulla riduzione dei rischi inerenti ai prodotti chimici (ORRPChim)
 
 [^annexu1-lvlIII-1]
 
@@ -206,11 +206,12 @@ Allegato*[^t-1]*
 <tr><td>2.1 Emolumento di base per una sostanza e un impiego</td><td>10 000 – 40 000</td></tr>
 <tr><td>2.2 Emolumento suppletivo per un’ulteriore sostanza di un gruppo di sostanze secondo l’allegato XI sezione 1.5 del regolamento (CE) n. 1907/2006[^annexu1-lvlIII-2]</td><td>1 000 – 10 000</td></tr>
 <tr><td>2.3 Emolumento suppletivo per un impiego supplementare</td><td>1 000 – 10 000</td></tr>
+<tr><td>3 *Elaborazione di una notifica concernente il processo* *di fabbricazione all’interno di un sistema chiuso secondo l’al**legato 1.17 numero 4*</td><td>[tab] 500 – 3 000</td></tr>
 </table>
 
 [^annexu1-lvlIII-2]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dic. 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato l’ultima volta dal regolamento (UE) n. 412/2012, GU L 128 del 16.5.2012, pag. 1.
 
-## IV. Emolumenti secondo l’ordinanza del 18 maggio 2005**** sulla buona prassi di laboratorio (OBPL)
+## IV. Emolumenti secondo l’ordinanza del 18 maggio 2005 sulla buona prassi di laboratorio (OBPL)
 
 [^annexu1-lvlIV-1]
 

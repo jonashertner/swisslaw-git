@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur les émoluments perçus en application de 
 short: OEChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/469"
 language: fr
-version: 2018-03-01
+version: 2023-06-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20180301/fr/xml/fedlex-data-admin-ch-eli-cc-2005-469-20180301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20180301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2005-469-20230601-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20180301/fr"
 
 (Ordonnance sur les émoluments relatifs aux produits chimiques, OEChim)
 
-du 18 mai 2005 (Etat le 1<sup>er</sup> mars 2018)
+du 18 mai 2005 (État le 1<sup>er</sup> juin 2023)
 
 Le Conseil fédéral suisse,
 
@@ -87,7 +87,7 @@ Sont réputés débours, outre les frais visés à l’art. 6 OGEmol[^5-1], nota
 
 #### Art. 6
 
-**Emoluments facturés par les organes d’exécution tiers**
+**Émoluments facturés par les organes d’exécution tiers**
 
 <sup>1</sup> Lorsqu’une autorité fédérale d’exécution délègue une tâche à un organe d’exécution tiers, elle peut prévoir que l’organe tiers facture lui-même les émoluments correspondants, fixe ces émoluments par voie de décision en cas de litige et veille à leur encaissement.
 
@@ -105,33 +105,33 @@ Les émoluments relatifs aux actes administratifs en suspens, mais pas encore ac
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> août 2005.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 4, al. 1)
 
-## I. Emoluments perçus en application de l’ordonnance du 18 mai 2005 sur les produits chimiques (OChim)****
+## I. Émoluments perçus en application de l’ordonnance du 18 mai 2005 sur les produits chimiques (OChim)
 
 [^annexu1-lvlI-1]
 
-[^t-1]: Mise à jour selon le ch. 3 de l’annexe à l’O du 7 nov. 2012 ([RO 2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)), le ch. III de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. 2 de l’annexe 11 à l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), le ch. 3 de l’annexe 6 de l’O du 5 juin 2015 sur les produits chimiques, ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)) et le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)).
+[^t-1]: Mise à jour par l’annexe ch. 3 de l’O du 7 nov. 2012 ([RO 2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)), le ch. III de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), l’annexe 11 ch. 2 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), l’annexe 6 ch. 3 de l’O du 5 juin 2015 sur les produits chimiques, ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), le ch. I de l’O du 31 janv. 2018 ([RO 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)) et le ch. II de l’O du 5 avr. 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)).
 [^annexu1-lvlI-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 <table>
 <tr><td></td><td>Francs</td></tr>
-<tr><td>1 Examen des notifications ayant trait à de nouvelles substances</td><td></td></tr>
+<tr><td>*1* *Examen des notifications ayant trait à de nouvelles substances*</td><td></td></tr>
 <tr><td>1.1 Contenu d’une notification selon art. 27, al. 2, OChim pour une quantité inférieure à 10 tonnes par an</td><td>500– 8 000</td></tr>
 <tr><td>1.2 Contenu d’une notification selon art. 27, al. 2, OChim pour une quantité égale ou supérieure à 10 tonnes par an et inférieure à 100 tonnes par an</td><td>1 000–13 000</td></tr>
 <tr><td>1.3 Contenu d’une notification selon art. 27, al. 2, OChim pour une quantité égale ou supérieure à 100 tonnes par an</td><td>2 000–25 000</td></tr>
 <tr><td>1.4 Examen d’une notification selon art. 29 OChim</td><td>500</td></tr>
-<tr><td>2 Traitement des données d’essais complémentaires ayant trait à des substances notifiées</td><td></td></tr>
+<tr><td>*2* *Traitement des données d’essais complémentaires ayant trait à des substances notifiées*</td><td></td></tr>
 <tr><td>2.1 Informations selon art. 47, al. 1, let. a, OChim</td><td>1 000–12 000</td></tr>
 <tr><td>2.2 Informations selon art. 47, al. 1, let. b ou c, OChim</td><td>1 000–23 000</td></tr>
-<tr><td>3 Traitement d’une déclaration (art. 34 OChim)</td><td>500</td></tr>
-<tr><td>4 Traitement d’une demande d’utilisation d’un nom chimique de remplacement (art. 14, al. 3, OChim)</td><td>400</td></tr>
-<tr><td>4a Traitement d’une demande de dérogation aux conditions d’étiquetage et d’emballage (art. 12 OChim)</td><td>200– 1 000</td></tr>
+<tr><td>*3* *Traitement d’une déclaration (art. 34 OChim)*</td><td>500</td></tr>
+<tr><td>*4* *Traitement d’une demande d’utilisation d’un nom chimique de remplacement (art. 14, al. 3, OChim)*</td><td>400</td></tr>
+<tr><td>*4a* *Traitement d’une demande de dérogation aux conditions d’étiquetage et d’emballage (art. 12 OChim)*</td><td>200– 1 000</td></tr>
 </table>
 
-## II. Emoluments perçus en application de l’ordonnance du 18 mai 2005 sur les produits biocides (OPBio)****
+## II. Émoluments perçus en application de l’ordonnance du 18 mai 2005 sur les produits biocides (OPBio)
 
 [^annexu1-lvlII-1]
 
@@ -147,11 +147,11 @@ Annexe*[^t-1]*
 
 <table>
 <tr><th></th><th>Francs</th></tr>
-<tr><td>1 Traitement des demandes d’autorisation</td><td></td></tr>
+<tr><td>*1* *Traitement des demandes d’autorisation*</td><td></td></tr>
 <tr><td>1.1 Autorisation A<sub>L</sub> conformément à l’art. 7, al. 1, let. a,</td><td>15 000–60 000</td></tr>
 <tr><td>1.2 Autorisation A<sub>nL</sub> conformément à l’art. 7, al. 1, let. b,:</td><td>30 000–120 000</td></tr>
-<tr><td>1.2.1 avec la recommandation d’une autorité d’un Etat membre de l’UE ou de l’AELE (art. 17, al. 2)</td><td>15 000–60 000</td></tr>
-<tr><td>1.2.2 sans la recommandation d’une autorité d’un Etat membre de l’UE ou de l’AELE (examen complet)</td><td>30 000–120 000</td></tr>
+<tr><td>1.2.1 avec la recommandation d’une autorité d’un État membre de l’UE ou de l’AELE (art. 17, al. 2)</td><td>15 000–60 000</td></tr>
+<tr><td>1.2.2 sans la recommandation d’une autorité d’un État membre de l’UE ou de l’AELE (examen complet)</td><td>30 000–120 000</td></tr>
 <tr><td>1.3 Autorisation A<sub>N</sub> conformément à l’art. 7, al. 1, let. c:</td><td>600–2300</td></tr>
 <tr><td>1.3.1 en plus, pour l’évaluation des documents conformément à l’annexe 8, ch. 1.2, al. 1, let. b</td><td>5000–20 000</td></tr>
 <tr><td>1.4 Autorisation pour situations exceptionnelles conformément à l’art. 7, al. 1, let. e</td><td>1300–32 000</td></tr>
@@ -161,27 +161,27 @@ Annexe*[^t-1]*
 <tr><td>*2* *Autorisation d’importation parallèle*</td><td></td></tr>
 <tr><td>2.1 Autorisation de commerce parallèle conformément à l’art. 7, al. 1, let. j, ch. 1</td><td>2 500</td></tr>
 <tr><td>2.2 Autorisation de commerce parallèle conformément à l’art. 7, al. 1, let. j, ch. 2</td><td>600–2 300</td></tr>
-<tr><td>3 Traitement des demandes relatives à des produits biocides non soumis à autorisation conformément à l’art. 3, al. 3, à savoir pour:</td><td></td></tr>
+<tr><td>*3* *Traitement des demandes relatives à des produits biocides non soumis à autorisation conformément à l’art. 3, al. 3, à savoir pour:*</td><td></td></tr>
 <tr><td>3.1 un produit biocide d’une famille de produits biocides (art. 19, al. 2, let. b)</td><td>500</td></tr>
 <tr><td>3.2 la dissémination de produits biocides pour la recherche et le développement (art. 19, al. 2, let. c)</td><td>1300–32 000</td></tr>
 <tr><td>3.3 la communication selon l’art. 3, al. 3, let. a</td><td>500</td></tr>
-<tr><td>4 Demande de confidentialité conformément à l’art. 33, al. 1; par substance</td><td>500</td></tr>
-<tr><td>5 Traitement de demandes de prolongation conformément à l’art. 26 OPBio</td><td></td></tr>
+<tr><td>*4* *Demande de confidentialité conformément à l’art. 33, al. 1; par substance*</td><td>500</td></tr>
+<tr><td>*5* *Traitement de demandes de prolongation conformément à l’art. 26 OPBio*</td><td></td></tr>
 <tr><td>5.1 Autorisation A<sub>L</sub>, A<sub>nL</sub>:</td><td></td></tr>
 <tr><td>5.1.1 sans évaluation complète</td><td>500–10 000</td></tr>
 <tr><td>5.1.2 avec une évaluation complète (art. 26, let. 5)</td><td>11 000–45 000</td></tr>
 <tr><td>5.2 Autorisation simplifiée</td><td>500–5000</td></tr>
 <tr><td>5.3 Reconnaissance</td><td>500–1300</td></tr>
 <tr><td>5.4 Autorisation pour situations exceptionnelles</td><td>500–10 000</td></tr>
-<tr><td>6 Modification</td><td></td></tr>
+<tr><td>*6* *Modification*</td><td></td></tr>
 <tr><td>6.1 en raison de nouvelles informations conformément à l’art. 24:</td><td></td></tr>
 <tr><td>6.1.1 modification administrative</td><td>500</td></tr>
 <tr><td>6.1.2 modification mineure</td><td>1 000–3600</td></tr>
 <tr><td>6.1.3 modification majeure</td><td>4000–10 000</td></tr>
-<tr><td>7 Réglementation transitoire</td><td></td></tr>
+<tr><td>*7* *Réglementation transitoire*</td><td></td></tr>
 <tr><td>7.1 Traitement d’une demande de modification conformément à l’art. 62*a*, al. 3</td><td>250</td></tr>
 <tr><td>7.2 examen d’un nouveau dossier conformément à l’art. 62*d*, al. 1, let. c</td><td>5000–20 000</td></tr>
-<tr><td>8 Évaluation d’autorisations de l’Union sur la base d’un accord international conformément à l’art. 17, al. 1, let. b</td><td></td></tr>
+<tr><td>*8* *Évaluation d’autorisations de l’Union sur la base d’un accord international conformément à l’art. 17, al. 1, let. b*</td><td></td></tr>
 <tr><td>8.1 Évaluation d’une autorisation de l’Union</td><td>15 000–60 000</td></tr>
 <tr><td>8.2 Évaluation d’une modification d’une autorisation de l’Union:</td><td></td></tr>
 <tr><td>8.2.1 modification administrative</td><td>500</td></tr>
@@ -190,12 +190,12 @@ Annexe*[^t-1]*
 <tr><td>8.3 Prolongation d’une autorisation de l’Union:</td><td></td></tr>
 <tr><td>8.3.1 sans évaluation complète</td><td>500–10 000</td></tr>
 <tr><td>8.3.2 avec une évaluation complète</td><td>11 000–45 000</td></tr>
-<tr><td>9 Évaluation de substances actives sur la base d’un accord international conformément à l’art. 17, al. 1, let. c</td><td></td></tr>
+<tr><td>*9* *Évaluation de substances actives sur la base d’un accord international conformément à l’art. 17, al. 1, let. c*</td><td></td></tr>
 <tr><td>9.1 Émolument de base pour une substance active et un type de produit</td><td>150 000–250 000</td></tr>
 <tr><td>9.2 Par type de produit supplémentaire</td><td>30 000–60 000</td></tr>
 </table>
 
-## III. Emoluments perçus en application de l’ordonnance du 18 mai 2005 sur la réduction des risques liés aux produits chimiques (ORRChim)****
+## III. Émoluments perçus en application de l’ordonnance du 18 mai 2005 sur la réduction des risques liés aux produits chimiques (ORRChim)
 
 [^annexu1-lvlIII-1]
 
@@ -203,16 +203,17 @@ Annexe*[^t-1]*
 
 <table>
 <tr><th colspan="2"></th><th>Francs</th></tr>
-<tr><td colspan="2">1 *Autorisation des opérations de pulvérisation aérienne selon art. 4, let. b, ORRChim*</td><td>500</td></tr>
-<tr><td colspan="2">2 *Examen d’une demande de dérogation selon l’annexe 1.17, ch. 2, al. 4*</td><td></td></tr>
-<tr><td colspan="2">2.1 Emolument de base pour une substance et un emploi</td><td>10 000–40 000</td></tr>
-<tr><td colspan="2">2.2 Emolument supplémentaire pour une substance supplémentaire d’un groupe de substances selon l’annexe XI, section 1.5, du règlement (CE) n<sup>o</sup> 1907/2006[^annexu1-lvlIII-2]</td><td>1 000–10 000</td></tr>
-<tr><td colspan="2">2.3 Emolument supplémentaire pour un emploi supplémentaire</td><td>1 000–10 000</td></tr>
+<tr><td colspan="2">*1* *Autorisation des opérations de pulvérisation aérienne selon art. 4, let. b, ORRChim*</td><td>500</td></tr>
+<tr><td colspan="2">*2* *Examen* *d’une demande de dérogation selon l’annexe 1.17, ch. 2, al. 4*</td><td></td></tr>
+<tr><td colspan="2">2.1 Émolument de base pour une substance et un emploi</td><td>10 000–40 000</td></tr>
+<tr><td colspan="2">2.2 Émolument supplémentaire pour une substance supplémentaire d’un groupe de substances selon l’annexe XI, section 1.5, du règlement (CE) n<sup>o</sup> 1907/2006[^annexu1-lvlIII-2]</td><td>1 000–10 000</td></tr>
+<tr><td colspan="2">2.3 Émolument supplémentaire pour un emploi supplémentaire</td><td>1 000–10 000</td></tr>
+<tr><td colspan="2">*3* *Traitement d’une communication sur le procédé de fabrication en système fermé au sens de l’annexe 1.17, ch. 4*</td><td>500–3 000</td></tr>
 </table>
 
 [^annexu1-lvlIII-2]: R (CE) n<sup>o</sup>1907/2006 du Parlement européen et du Conseil du 18 déc. 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le R (CEE) n<sup>o</sup> 793/93 du Conseil et le R (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le R (CE) n<sup>o</sup> 412/2012, JO L 128 du 16.5.2012, p. 1.
 
-## IV. Emoluments perçus en application de l’ordonnance du 18 mai 2005 sur les bonnes pratiques de laboratoire (OBPL)****
+## IV. Émoluments perçus en application de l’ordonnance du 18 mai 2005 sur les bonnes pratiques de laboratoire (OBPL)
 
 [^annexu1-lvlIV-1]
 

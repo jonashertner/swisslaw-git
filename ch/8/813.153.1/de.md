@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 über Gebühren für den Bundesvollzug der C
 short: ChemGebV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/469"
 language: de
-version: 2018-03-01
+version: 2023-06-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20180301/de/xml/fedlex-data-admin-ch-eli-cc-2005-469-20180301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20180301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2005-469-20230601-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20180301/de"
 
 (Chemikaliengebührenverordnung, ChemGebV)
 
-vom 18. Mai 2005 (Stand am 1. März 2018)
+vom 18. Mai 2005 (Stand am 1. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -105,15 +105,15 @@ Die Gebühren für Verwaltungshandlungen, die beim Inkrafttreten dieser Verordnu
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 4 Abs. 1)
 
-## I. Gebühren nach der Chemikalienverordnung vom 5. Juni 2015**** (ChemV)
+## I. Gebühren nach der Chemikalienverordnung vom 5. Juni 2015 (ChemV)
 
 [^annexu1-lvlI-1]
 
-[^t-1]: Bereinigt gemäss Ziff. III der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Anhang 11 Ziff. 2 der V vom 14. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), Anhang 6 Ziff. 3 der Chemikalienverordnung vom 5. Juni 2015 ([AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)) und Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)).
+[^t-1]: Bereinigt gemäss Ziff. III der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Anhang 11 Ziff. 2 der V vom 14. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), Anhang 6 Ziff. 3 der Chemikalienverordnung vom 5. Juni 2015 ([AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), Ziff. I der V vom 31. Jan. 2018 ([AS 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)) und Ziff. II der V vom 5. April 2023, in Kraft seit 1. Juni 2023 ([AS 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)).
 [^annexu1-lvlI-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 <table>
@@ -131,7 +131,7 @@ Anhang*[^t-1]*
 <tr><td>4a Bearbeitung eines Antrages zur Ausnahme von den Kennzeichnungs- und Verpackungsvorschriften (Art. 12 ChemV)</td><td colspan="2">200– 1 000</td></tr>
 </table>
 
-## II. Gebühren nach der Biozidprodukteverordnung vom 18. Mai 2005**** (VBP)
+## II. Gebühren nach der Biozidprodukteverordnung vom 18. Mai 2005 (VBP)
 
 [^annexu1-lvlII-1]
 
@@ -195,7 +195,7 @@ Anhang*[^t-1]*
 <tr><td colspan="2">9.2 Pro zusätzliche Produktart</td><td>30 000–60 000</td></tr>
 </table>
 
-## III. Gebühren nach der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005**** (ChemRRV)
+## III. Gebühren nach der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005 (ChemRRV)
 
 [^annexu1-lvlIII-1]
 
@@ -208,11 +208,12 @@ Anhang*[^t-1]*
 <tr><td>2.1 Grundgebühr für einen Stoff und eine Verwendung</td><td>10 000 – 40 000</td></tr>
 <tr><td>2.2 Zusatzgebühr für einen weiteren Stoff einer Stoffgruppe gemäss Anhang XI Abschnitt 1.5 der Verordnung (EG) Nr. 1907/2006[^annexu1-lvlIII-2]</td><td>1 000 – 10 000</td></tr>
 <tr><td>2.3 Zusatzgebühr für eine zusätzliche Verwendung</td><td>1 000 – 10 000</td></tr>
+<tr><td>3 Bearbeitung einer Meldung über den Herstellungsprozess in einem geschlossenen System gemäss Anhang 1.17 Ziffer 4</td><td>500–3 000</td></tr>
 </table>
 
 [^annexu1-lvlIII-2]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dez. 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 412/2012. ABl. L 128 vom 16.5.2012, S. 1.
 
-## IV. Gebühren nach der Verordnung über die Gute Laborpraxis vom 18. Mai 2005**** (GLPV)
+## IV. Gebühren nach der Verordnung über die Gute Laborpraxis vom 18. Mai 2005 (GLPV)
 
 [^annexu1-lvlIV-1]
 
