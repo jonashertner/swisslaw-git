@@ -4,13 +4,13 @@ number: 73a
 title: Besoldungsverordnung für das Staatspersonal
 short: BVO
 language: de
-version: 2023-01-01
-valid_until: 2023-05-31
-version_adopted: 2022-05-03
+version: 2023-06-01
+valid_until: 2023-12-31
+version_adopted: 2023-03-28
 adopted: 2002-09-24
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/73a"
-pdf: "https://srl.lu.ch/api/de/versions/3968/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4074/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3968/pdf_file"
 
 (BVO)
 
-vom 24.09.2002 (Stand 01.01.2023)
+vom 24.09.2002 (Stand 01.06.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
