@@ -3,11 +3,11 @@ sr: "0.632.312.811"
 title: "Accordo di libero scambio del 15 dicembre 2005 tra gli Stati dell'AELS e la Repubblica di Corea (con allegati e Prot. d'intesa)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/571"
 language: it
-version: 2017-12-01
+version: 2023-06-01
 adopted: 2005-12-15
 in_force: 2006-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/571/20171201/it/xml/fedlex-data-admin-ch-eli-cc-2006-571-20171201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/571/20171201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/571/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2006-571-20230601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/571/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Hong Kong il 15 dicembre 2005 Approvato dall’Assemblea federale il 19 giugno 2006[^t-1] Ratificato dalla Svizzera con strumenti depositati il 30 giugno 2006 Entrato in vigore per la Svizzera il 1° settembre 2006
 
-(Stato 1° dicembre 2017)
+(Stato 1° giugno 2023)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 19 giu. 2006 ([RU 2006 3729](https://fedlex.data.admin.ch/eli/oc/2006/570)).
 
@@ -1110,7 +1110,7 @@ Fatto a Hong Kong, il 15 dicembre 2005, in un esemplare originale in lingua ingl
 
 Indice
 
-Lista degli allegati**[^t-3]**
+Lista degli allegati[^t-3]
 
 **Annex I**Referred to in Article 2.2 – Rules of origin and customs procedures
 
@@ -1166,11 +1166,13 @@ Appendix 5 to Annex VII – Switzerland
 
 **Final Act**to the Free Trade Agreement between the EFTA States and the Republic of Korea
 
-**Joint Declarat****i****on**
+**Joint** **Declaration**
 
-**Record of U****n****derstanding**Protocollo d’intesa relativo all’Accordo di libero scambio tra gli Stati dell’AELS e la Repubblica di Corea
+**Record of Understanding**Protocollo d’intesa relativo all’Accordo di libero scambio tra gli Stati dell’AELS e la Repubblica di Corea
 
 **Joint Committee Decisions**
+
+No 1-20 Amendment to Annex I to the Agreement on Rules of Origin and Customs Procedures
 
 No 2-15 Amendment to Annex I to the Agreement on Rules of Origin and Customs Procedures
 
@@ -1197,7 +1199,7 @@ No 1-08 Rules of procedure for the Joint Committee
 Protocollo d’intesa
 
 [^t-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1B
-[^t-3]: Questi doc. e le loro mod. (con l’eccezione del Prot. d’intesa) non sono pubblicati nella RU ([RU 2010 5373](https://fedlex.data.admin.ch/eli/oc/2010/756)[5437](https://fedlex.data.admin.ch/eli/oc/2010/772)[6361](https://fedlex.data.admin.ch/eli/oc/2010/888)[6363](https://fedlex.data.admin.ch/eli/oc/2010/889)[6365](https://fedlex.data.admin.ch/eli/oc/2010/890), [2012 475](https://fedlex.data.admin.ch/eli/oc/2012/67), [2015 1371](https://fedlex.data.admin.ch/eli/oc/2015/284)e [2017 119](https://fedlex.data.admin.ch/eli/oc/2017/34)[5731](https://fedlex.data.admin.ch/eli/oc/2017/617)). Possono essere ottenuti, in inglese, presso presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni, 3003 Berna. È inoltre disponibile in Internet sul sito del Segretariato dell’AELS: www.efta.int/free-trade/free-trade-agreements/korea/jcds.aspx.
+[^t-3]: Questi doc. e le loro mod. (con l’eccezione del Prot. d’intesa) non sono pubblicati nella RU ([RU 2010 5373](https://fedlex.data.admin.ch/eli/oc/2010/756), [5437](https://fedlex.data.admin.ch/eli/oc/2010/772), [6361](https://fedlex.data.admin.ch/eli/oc/2010/888), [6363](https://fedlex.data.admin.ch/eli/oc/2010/889), [6365](https://fedlex.data.admin.ch/eli/oc/2010/890); [2012 475](https://fedlex.data.admin.ch/eli/oc/2012/67); [2015 1371](https://fedlex.data.admin.ch/eli/oc/2015/284); [2017 119](https://fedlex.data.admin.ch/eli/oc/2017/34), [5731](https://fedlex.data.admin.ch/eli/oc/2017/617); [2023 208](https://fedlex.data.admin.ch/eli/oc/2023/208)). Possono essere ottenuti, nella versione originale inglese, presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni, 3003 Berna. È inoltre disponibile sul sito Internet del Segretariato dell’AELS: www.efta.int/free-trade/free-trade-agreements/korea
 
 Campo d’applicazione il 1° settembre 2006
 

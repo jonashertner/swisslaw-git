@@ -3,11 +3,11 @@ sr: "0.632.312.811"
 title: Freihandelsabkommen vom 15. Dezember 2005 zwischen den EFTA-Staaten und der Republik Korea (mit Anhängen und Verständigungsprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/571"
 language: de
-version: 2017-12-01
+version: 2023-06-01
 adopted: 2005-12-15
 in_force: 2006-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/571/20171201/de/xml/fedlex-data-admin-ch-eli-cc-2006-571-20171201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/571/20171201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/571/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2006-571-20230601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/571/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2006** 3731; BBl **2006** 923
 
 Abgeschlossen in Hongkong am 15. Dezember 2005 Von der Bundesversammlung genehmigt am 19. Juni 2006[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 30. Juni 2006 In Kraft getreten für die Schweiz am 1. September 2006
 
-(Stand am 1. Dezember 2017)
+(Stand am 1. Juni 2023)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 19. Juni 2006 ([AS 2006 3729](https://fedlex.data.admin.ch/eli/oc/2006/570))
 
@@ -1075,7 +1075,7 @@ Die Anhänge und Anlagen dieses Abkommens sind Bestandteil desselben.
 
 <sup>1.</sup> Dieses Abkommen unterliegt der Ratifikation, Annahme oder Genehmigung. Die Ratifikations-, Annahme- oder Genehmigungsurkunden werden beim Depositar hinterlegt.
 
-<sup>2.</sup> Dieses Abkommen tritt am 1. Juli 2006 für die Unterzeichnerstaaten in Kraft, die bis dahin das Abkommen ratifiziert haben, vorausgesetzt, sie haben ihre Ratifikations-, Annahme- oder Genehmigungsurkunden bis spätestens einen Monat vor Inkrafttreten beim Depositar hinterlegt und vorausgesetzt, dass Korea zu den Staaten gehört, die ihre Urkunden hinterlegt haben.
+<sup>2.</sup> Dieses Abkommen tritt am 1. Juli 2006 für die Unterzeichnerstaaten in Kraft, die bis dahin das Abkommen ratifiziert haben, vorausgesetzt, sie haben ihre Ratifikations‑, Annahme- oder Genehmigungsurkunden bis spätestens einen Monat vor Inkrafttreten beim Depositar hinterlegt und vorausgesetzt, dass Korea zu den Staaten gehört, die ihre Urkunden hinterlegt haben.
 
 <sup>3.</sup> Erfolgt das Inkrafttreten dieses Abkommens nicht am 1. Juli 2006, so tritt es am ersten Tag des zweiten Monats nach der Hinterlegung der Ratifikations-, Annahme- oder Genehmigungsurkunden durch Korea und mindestens einen EFTA-Staat in Kraft, wobei das spätere Hinterlegungsdatum das massgebende ist.
 
@@ -1091,7 +1091,9 @@ Die Regierung Norwegens handelt als Depositar.
 
 *Zu Urkund dessen* haben die hierzu gebührend bevollmächtigten Unterzeichner das vorliegende Abkommen unterzeichnet. Geschehen zu Hongkong, am 15. Dezember 2005, in einer Originalausfertigung in englischer Sprache, die bei der Regierung Norwegens hinterlegt wird. Der Depositar lässt allen Unterzeichnerstaaten beglaubigte Kopien zukommen. (Es folgen die Unterschriften)
 
-**Kapitel III (Dienstleistungshandel) und Kapitel IV (Finanzdienstleistungen)**
+Verständigungsprotokoll
+
+Kapitel III (Dienstleistungshandel) und Kapitel IV (Finanzdienstleistungen)
 
 Es besteht Einvernehmen darüber, dass in Bezug auf Subventionen der Geltungsbereich der Kapitel III und IV derselbe ist wie der Geltungsbereich des GATS[^t-2].
 
@@ -1099,11 +1101,11 @@ Des Weiteren wird anerkannt, dass unter gewissen Umständen Subventionen einen v
 
 Es besteht insbesondere Einvernehmen darüber, dass eine Vertragspartei, die der Auffassung ist, durch eine Subvention einer anderen Vertragspartei negativ betroffen zu sein, Konsultationen beantragen kann.
 
-**Art. 3.6 Inländerbehandlung**
+Art. 3.6 Inländerbehandlung
 
 Es ist das Verständnis, dass im Bezug auf eine Behandlung, die von einer lokalen Regierung oder Behörde einer Vertragspartei gewährt wird, der Begriff «seine eigenen gleichen Dienstleistungen oder Dienstleistungserbringer» gleichbedeutend ist mit eigenen gleichen Dienstleistungen oder Dienstleistungserbringer dieser Vertragspartei, einschliesslich ihrer selbst.
 
-**Art. 3.14 Beschränkungen aus Zahlungsbilanzgründen**
+Art. 3.14 Beschränkungen aus Zahlungsbilanzgründen
 
 Es besteht Einvernehmen darüber, dass Absatz 2 Buchstabe a von Artikel XII GATS keine Anwendung findet auf Beschränkungen bezüglich besonderer Verpflichtungen in Sektoren, die über die im GATS verpflichteten Sektoren hinausgehen, sofern solche Beschränkungen bezüglich Dienstleistungen oder Dienstleistungserbringer derjenigen Länder, die in diesen Sektoren den gleichen Marktzugang besitzen, auf einer nicht-diskriminierenden Basis angewendet werden.
 
@@ -1113,9 +1115,12 @@ Geschehen zu Hongkong, am 15. Dezember 2005, in einer Originalausfertigung in en
 
 (Es folgen die Unterschriften)
 
-Inhaltsverzeichnis
+## Liste der Anhänge
 
-Liste der Anhänge**[^t-3]**
+[^annexu1-lvlu2-1]
+
+[^t-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1B
+[^annexu1-lvlu2-1]: Diese Dokumente (mit Ausnahme des Verständigungsprotokolls) werden in der AS nicht veröffentlicht ([AS 2010 5373](https://fedlex.data.admin.ch/eli/oc/2010/756)[5437](https://fedlex.data.admin.ch/eli/oc/2010/772)[6361](https://fedlex.data.admin.ch/eli/oc/2010/888)[6363](https://fedlex.data.admin.ch/eli/oc/2010/889)[6365](https://fedlex.data.admin.ch/eli/oc/2010/890), [2012 475](https://fedlex.data.admin.ch/eli/oc/2012/67), [2015 1371](https://fedlex.data.admin.ch/eli/oc/2015/284), [2017 119](https://fedlex.data.admin.ch/eli/oc/2017/34)[5731](https://fedlex.data.admin.ch/eli/oc/2017/617); [2023 208](https://fedlex.data.admin.ch/eli/oc/2023/208)). Sie können in englischer Originalsprache beim Bundesamt für Bauten und Logistik, Bundespublikationen, 3003 Bern, bezogen werden und sind auf der Internetseite der EFTA unter folgender Adresse verfügbar: www.efta.int/free-trade/free-trade-agreements/korea/
 
 <table>
 <tr><td>**Annex I**</td><td>Referred to in Article 2.2 – Rules of origin and customs procedures</td></tr>
@@ -1145,9 +1150,10 @@ Liste der Anhänge**[^t-3]**
 <tr><td>**Annex XIII**</td><td>Referred to in Paragraph 1 of Article 7.1 – Intellectual property rights</td></tr>
 <tr><td>**Declaration**</td><td>by Korea and Switzerland on medical devices</td></tr>
 <tr><td>**Final Act**</td><td>to the Free Trade Agreement between the EFTA States and the Republic of Korea</td></tr>
-<tr><td>**Joint Declarat****i****on**</td><td></td></tr>
-<tr><td>**Record of U****n****derstanding**</td><td>Verständigungsprotokoll betreffend das Freihandelsabkommen zwischen den EFTA-Staaten und Korea</td></tr>
+<tr><td>**Joint** **Declaration**</td><td></td></tr>
+<tr><td>**Record of Understanding**</td><td>Verständigungsprotokoll betreffend das Freihandelsabkommen zwischen den EFTA-Staaten und Korea</td></tr>
 <tr><td>**Joint Committee Decisions**</td><td></td></tr>
+<tr><td>No 1-20</td><td>Amendment to Annex I to the Agreement on Rules of Origin and Customs Procedures</td></tr>
 <tr><td>No 2-15</td><td>Amendment to Annex I to the Agreement on Rules of Origin and Customs Procedures</td></tr>
 <tr><td>No 1-15</td><td>Amendment to Annex I to the Agreement on Rules of Origin and Customs Procedures</td></tr>
 <tr><td>No 1-12</td><td>Amendment to Annex I to the Agreement on Rules of Origin and Customs Procedures</td></tr>
@@ -1160,11 +1166,6 @@ Liste der Anhänge**[^t-3]**
 <tr><td>No 1-09</td><td>Model rules of procedure for arbitration</td></tr>
 <tr><td>No 1-08</td><td>Rules of procedure for the Joint Committee</td></tr>
 </table>
-
-Verständigungsprotokoll
-
-[^t-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1B
-[^t-3]: Diese Dokumente (mit Ausnahme des Verständigungsprotokolls) werden in der AS nicht veröffentlicht ([AS 2010 5373](https://fedlex.data.admin.ch/eli/oc/2010/756)[5437](https://fedlex.data.admin.ch/eli/oc/2010/772)[6361](https://fedlex.data.admin.ch/eli/oc/2010/888)[6363](https://fedlex.data.admin.ch/eli/oc/2010/889)[6365](https://fedlex.data.admin.ch/eli/oc/2010/890), [2012 475](https://fedlex.data.admin.ch/eli/oc/2012/67), [2015 1371](https://fedlex.data.admin.ch/eli/oc/2015/284), [2017 119](https://fedlex.data.admin.ch/eli/oc/2017/34)[5731](https://fedlex.data.admin.ch/eli/oc/2017/617)). Sie können in englischer Originalsprache beim Bundesamt für Bauten und Logistik, Bundespublikationen, 3003 Bern, bezogen werden und sind auf der Internetseite der EFTA unter folgender Adresse verfügbar: www.efta.int/free-trade/free-trade-agreements/korea/
 
 Geltungsbereich am 1. September 2006
 

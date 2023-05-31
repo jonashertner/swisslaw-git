@@ -3,16 +3,16 @@ sr: "0.632.312.811"
 title: "Accord de libre-échange du 15 décembre 2005 entre les États de l'AELE et la République de Corée (avec annexes et prot. d'entente)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/571"
 language: fr
-version: 2017-12-01
+version: 2023-06-01
 adopted: 2005-12-15
 in_force: 2006-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/571/20171201/fr/xml/fedlex-data-admin-ch-eli-cc-2006-571-20171201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/571/20171201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/571/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2006-571-20230601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/571/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord de libre-échange entre les Etats de l’AELE et la République de Corée
+# Accord de libre-échange entre les États de l’AELE et la République de Corée
 
 RO **2006** 3731; FF **2006** 901
 
@@ -26,17 +26,17 @@ Instrument de ratification déposé par la Suisse le 30 juin 2006
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> septembre 2006
 
-(Etat le 1<sup>er</sup> décembre 2017)
+(État le 1<sup>er</sup> juin 2023)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 19 juin 2006 ([RO 2006 3729](https://fedlex.data.admin.ch/eli/oc/2006/570))
 
 *Préambule*
 
-La République d’Islande, la Principauté du Liechtenstein, le Royaume de Norvège et la Confédération suisse (ci-après dénommés «les Etats de l’AELE») et la République de Corée (ci-après dénommée «la Corée»),
+La République d’Islande, la Principauté du Liechtenstein, le Royaume de Norvège et la Confédération suisse (ci-après dénommés «les États de l’AELE») et la République de Corée (ci-après dénommée «la Corée»),
 
 ci-après dénommés collectivement «les Parties»,
 
-considérant l’importance des liens existant entre la Corée et les Etats de l’AELE,
+considérant l’importance des liens existant entre la Corée et les États de l’AELE,
 
 désireux de renforcer ces liens en créant une zone de libre-échange, établissant ainsi des relations étroites et durables,
 
@@ -65,7 +65,7 @@ ont en conséquence de ce qui précède conclu l’accord suivant:
 
 **Objectifs**
 
-<sup>1.</sup> La Corée et les Etats de l’AELE instituent une zone de libre-échange en vertu des dispositions du présent Accord.
+<sup>1.</sup> La Corée et les États de l’AELE instituent une zone de libre-échange en vertu des dispositions du présent Accord.
 
 <sup>2.</sup>
 
@@ -98,7 +98,7 @@ Sans préjudice de l’Annexe I, le présent Accord s’applique:
 
 **Relations économiques et commerciales régies par le présent Accord**
 
-<sup>1.</sup> Les dispositions du présent Accord s’appliquent aux relations économiques et commerciales entre la Corée, d’une part, et les Etats de l’AELE, d’autre part, mais elles ne s’appliquent pas aux relations commerciales entre les différents Etats de l’AELE, sous réserve de dispositions contraires du présent Accord.
+<sup>1.</sup> Les dispositions du présent Accord s’appliquent aux relations économiques et commerciales entre la Corée, d’une part, et les États de l’AELE, d’autre part, mais elles ne s’appliquent pas aux relations commerciales entre les différents États de l’AELE, sous réserve de dispositions contraires du présent Accord.
 
 <sup>2.</sup> En vertu de l’union douanière établie entre la Confédération suisse et la Principauté du Liechtenstein par le Traité du 29 mars 1923[^13-1], la Confédération suisse représente la Principauté du Liechtenstein pour toutes les questions couvertes par ce Traité.
 
@@ -138,13 +138,13 @@ Le présent Accord ne doit pas empêcher le maintien ou la création d’unions 
 
 <sup>1.</sup>
 
-Ce chapitre s’applique aux produits énumérés ci-dessous, qui doivent être originaires d’un Etat de l’AELE ou de la Corée, sauf si les droits et obligations des Parties sont réglés par le GATT 1994:
+Ce chapitre s’applique aux produits énumérés ci-dessous, qui doivent être originaires d’un État de l’AELE ou de la Corée, sauf si les droits et obligations des Parties sont réglés par le GATT 1994:
 
 - (a) tous les produits couverts par les chap. 25 à 97 du Système harmonisé de désignation et de codage des marchandises[^21-1] (ci-après dénommé «le SH»), à l’exception des produits énumérés à l’Annexe III;
 - (b) les produits agricoles transformés selon l’Annexe IV;
 - (c) le poisson et les autres produits de la mer selon l’Annexe V.
 
-<sup>2.</sup> La Corée et les Etats de l’AELE individuellement ont conclu des accords bilatéraux sur le commerce des produits agricoles. Ces accords font partie des instruments instituant la zone de libre-échange entre les Etats de l’AELE et la Corée.
+<sup>2.</sup> La Corée et les États de l’AELE individuellement ont conclu des accords bilatéraux sur le commerce des produits agricoles. Ces accords font partie des instruments instituant la zone de libre-échange entre les États de l’AELE et la Corée.
 
 [^21-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
 
@@ -158,9 +158,9 @@ Les dispositions relatives aux règles d’origine et aux procédures douanière
 
 **Droits de douane**
 
-<sup>1.</sup> Dès l’entrée en vigueur du présent Accord, les Etats de l’AELE et la Corée aboliront tous les droits de douanes et autres droits ou taxes sur les importations et les exportations de produits originaires d’un Etat de l’AELE ou de la Corée, sous réserve de dispositions contraires à l’Annexe VI.
+<sup>1.</sup> Dès l’entrée en vigueur du présent Accord, les États de l’AELE et la Corée aboliront tous les droits de douanes et autres droits ou taxes sur les importations et les exportations de produits originaires d’un État de l’AELE ou de la Corée, sous réserve de dispositions contraires à l’Annexe VI.
 
-<sup>2.</sup> Aucun nouveau droit de douane ou autre droit ou taxe sur les importations et les exportations de produits originaires de Corée ou d’un Etat de l’AELE ne sera introduit.
+<sup>2.</sup> Aucun nouveau droit de douane ou autre droit ou taxe sur les importations et les exportations de produits originaires de Corée ou d’un État de l’AELE ne sera introduit.
 
 <sup>3.</sup> Par «droits de douane ou autres droits ou taxes sur les importations et les exportations», il faut entendre tout droit ou taxe, quelle que soit sa nature, qui serait imposé en relation à l’importation ou à l’exportation d’un produit, y compris quelque forme que ce soit de surtaxe ou de surcoût en rapport à une telle importation ou exportation. Ces notions ne comprennent toutefois pas les taxes imposées conformément aux art. III et VIII du GATT 1994.
 
@@ -206,7 +206,7 @@ Les Parties appliqueront le traitement national conformément à l’art. III du
 
 <sup>2.</sup>
 
-Les Parties renforceront leur coopération en matière de réglementations techniques, de normes et d’évaluation de la conformité, afin d’améliorer la compréhension mutuelle de leurs systèmes respectifs et de faciliter l’accès à leurs marchés respectifs. A cette fin, elles coopéreront en particulier à:
+Les Parties renforceront leur coopération en matière de réglementations techniques, de normes et d’évaluation de la conformité, afin d’améliorer la compréhension mutuelle de leurs systèmes respectifs et de faciliter l’accès à leurs marchés respectifs. À cette fin, elles coopéreront en particulier à:
 
 - (a) renforcer le rôle des standards internationaux comme base des réglementations techniques, y compris les procédures d’évaluation de la conformité;
 - (b) promouvoir l’accréditation des organismes d’évaluation de la conformité sur la base des normes et des guides pertinents de l’Organisation internationale de normalisation (ISO)/Commission électrotechnique internationale (CEI), et
@@ -225,7 +225,7 @@ Les Parties reconnaissent qu’il existe un large éventail de mécanismes pour 
 - (e) les arrangements volontaires entre les organismes d’évaluation de la conformité sur les territoires respectifs de chacune des Parties, et
 - (f) l’acceptation par la Partie importatrice de la déclaration de conformité apportée par le fournisseur.
 
-<sup>5.</sup> Sans préjudice de l’al. 1, les Parties s’accordent pour échanger des informations et tenir des consultations d’experts afin de traiter toute question qui pourrait surgir de l’application de certaines réglementations techniques spécifiques, des normes et des procédures d’évaluation de la conformité, et qui a créé ou est susceptible de créer, de l’avis de la Corée ou d’un ou plusieurs Etats de l’AELE, un obstacle au commerce entre les Parties en vue d’élaborer une solution appropriée et conforme à l’Accord OTC. Le Comité mixte sera informé de telles consultations.
+<sup>5.</sup> Sans préjudice de l’al. 1, les Parties s’accordent pour échanger des informations et tenir des consultations d’experts afin de traiter toute question qui pourrait surgir de l’application de certaines réglementations techniques spécifiques, des normes et des procédures d’évaluation de la conformité, et qui a créé ou est susceptible de créer, de l’avis de la Corée ou d’un ou plusieurs États de l’AELE, un obstacle au commerce entre les Parties en vue d’élaborer une solution appropriée et conforme à l’Accord OTC. Le Comité mixte sera informé de telles consultations.
 
 [^28-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.6
 
@@ -235,7 +235,7 @@ Les Parties reconnaissent qu’il existe un large éventail de mécanismes pour 
 
 <sup>1.</sup> Les droits et obligations des Parties concernant les subventions et les mesures compensatoires sont régis par les art. VI et XVI du GATT 1994 et par l’Accord de l’OMC sur les subventions et les mesures compensatoires[^29-1], sous réserve des dispositions prévues à l’al. 2.
 
-<sup>2.</sup> Avant qu’une Partie n’entame une enquête visant à déterminer l’existence, le degré et l’impact de toute subvention alléguée dans un Etat de l’AELE ou en Corée conformément à l’art. 11 de l’Accord de l’OMC sur les subventions et les mesures compensatoires, la Partie qui envisage une telle enquête le notifiera par écrit à la Partie dont les marchandises seraient soumises à l’enquête et elle lui octroiera une période de 30 jours pour trouver une solution acceptable de part et d’autre. Les consultations auront lieu au sein du Comité mixte, si l’une des Parties le demande, dans un délai de dix jours à dater de la réception de la notification.
+<sup>2.</sup> Avant qu’une Partie n’entame une enquête visant à déterminer l’existence, le degré et l’impact de toute subvention alléguée dans un État de l’AELE ou en Corée conformément à l’art. 11 de l’Accord de l’OMC sur les subventions et les mesures compensatoires, la Partie qui envisage une telle enquête le notifiera par écrit à la Partie dont les marchandises seraient soumises à l’enquête et elle lui octroiera une période de 30 jours pour trouver une solution acceptable de part et d’autre. Les consultations auront lieu au sein du Comité mixte, si l’une des Parties le demande, dans un délai de dix jours à dater de la réception de la notification.
 
 [^29-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.13
 
@@ -247,7 +247,7 @@ Les Parties reconnaissent qu’il existe un large éventail de mécanismes pour 
 
 Les droits et obligations des Parties concernant l’application des mesures antidumping sont régis par l’art. VI du GATT 1994 et par l’Accord sur la mise en œuvre de l’art. VI du GATT 1994[^210-1] (ci-après dénommé «Accord antidumping de l’OMC») aux conditions suivantes:
 
-- (a) les Parties s’efforceront de s’abstenir d’engager des procédures antidumping l’une contre l’autre. A cette fin, avant d’entamer une enquête en vertu de l’Accord antidumping de l’OMC, la Partie qui aura reçu une demande proprement documentée adressera une notification écrite à l’autre Partie dont les marchandises sont soupçonnées faire l’objet de dumping, permettant ainsi des consultations en vue de trouver une solution mutuellement acceptable. Le résultat des consultations sera communiqué aux autres Parties;
+- (a) les Parties s’efforceront de s’abstenir d’engager des procédures antidumping l’une contre l’autre. À cette fin, avant d’entamer une enquête en vertu de l’Accord antidumping de l’OMC, la Partie qui aura reçu une demande proprement documentée adressera une notification écrite à l’autre Partie dont les marchandises sont soupçonnées faire l’objet de dumping, permettant ainsi des consultations en vue de trouver une solution mutuellement acceptable. Le résultat des consultations sera communiqué aux autres Parties;
 - (b) si une Partie prend la décision de percevoir des droits antidumping conformément à l’art. 9.1 de l’Accord antidumping de l’OMC, cette Partie sera tenue d’appliquer la règle du «droit moindre» en imposant un droit inférieur à la marge de dumping, si un tel droit suffit à éliminer le préjudice subi par l’industrie domestique.
 
 <sup>2.</sup> Cinq ans après l’entrée en vigueur du présent Accord, les Parties examineront au sein du Comité mixte s’il est nécessaire de maintenir la possibilité de prendre des mesures antidumping entre elles. Si les Parties décident, au terme du premier examen, de maintenir une telle possibilité, elles réexamineront cette question par la suite tous les deux ans au sein du Comité mixte.
@@ -278,9 +278,9 @@ Si les conditions énumérées à l’al. 1 sont remplies, la Partie importatric
 
 <sup>5.</sup> Les mesures d’urgence ne seront pas prises pour une période excédant une année. Dans des circonstances très exceptionnelles, après examen du Comité mixte, les mesures pourront être prolongées à une durée totale d’au maximum trois ans. Aucune mesure ne sera appliquée à l’importation d’un produit qui a précédemment fait l’objet de telles mesures, et ceci pendant une période d’au moins trois ans à compter de l’expiration de la dernière mesure.
 
-<sup>6.</sup> Le Comité mixte examinera l’information fournie selon l’al. 3, dans un délai de 30 jours à compter de la date de notification, afin de faciliter la résolution mutuellement acceptable de la question. A défaut d’une telle résolution, la Partie importatrice pourra adopter une mesure conformément à l’al. 4 pour remédier au problème, et en l’absence d’une compensation mutuellement acceptée, la Partie dont le produit est visé par la mesure pourra prendre des mesures compensatoires. Les mesures de sauvegarde et compensatoires devront être immédiatement notifiées aux autres Parties et au Comité mixte. Lors du choix des mesures de sauvegarde et compensatoires, priorité est donnée à celles qui perturbent le moins le fonctionnement du présent Accord. La mesure compensatoire consistera normalement en la suspension de concessions qui ont un impact commercial équivalent ou qui portent sur un montant correspondant à la valeur des droits additionnels attendus de la mesure d’urgence. La Partie qui prend une telle mesure l’appliquera uniquement durant la durée nécessaire à réaliser l’impact commercial équivalent et, dans tous les cas de figure, pas plus longtemps que la mesure visée à l’al. 4 est appliquée.
+<sup>6.</sup> Le Comité mixte examinera l’information fournie selon l’al. 3, dans un délai de 30 jours à compter de la date de notification, afin de faciliter la résolution mutuellement acceptable de la question. À défaut d’une telle résolution, la Partie importatrice pourra adopter une mesure conformément à l’al. 4 pour remédier au problème, et en l’absence d’une compensation mutuellement acceptée, la Partie dont le produit est visé par la mesure pourra prendre des mesures compensatoires. Les mesures de sauvegarde et compensatoires devront être immédiatement notifiées aux autres Parties et au Comité mixte. Lors du choix des mesures de sauvegarde et compensatoires, priorité est donnée à celles qui perturbent le moins le fonctionnement du présent Accord. La mesure compensatoire consistera normalement en la suspension de concessions qui ont un impact commercial équivalent ou qui portent sur un montant correspondant à la valeur des droits additionnels attendus de la mesure d’urgence. La Partie qui prend une telle mesure l’appliquera uniquement durant la durée nécessaire à réaliser l’impact commercial équivalent et, dans tous les cas de figure, pas plus longtemps que la mesure visée à l’al. 4 est appliquée.
 
-<sup>7.</sup> A l’expiration de la mesure, le taux des droits de douane sera celui qui aurait été en vigueur si la mesure n’avait pas été appliquée.
+<sup>7.</sup> À l’expiration de la mesure, le taux des droits de douane sera celui qui aurait été en vigueur si la mesure n’avait pas été appliquée.
 
 <sup>8.</sup> Si les circonstances sont critiques et qu’un délai entraînerait un dommage difficile à réparer, une Partie peut prendre une mesure d’urgence provisoire, suite à une preuve préliminaire claire démontrant que l’accroissement des importations constitue une menace ou une cause substantielle de préjudice sérieux pour l’industrie domestique. La Partie qui entend prendre une telle mesure le notifiera immédiatement aux autres Parties et au Comité mixte. Durant les 30 jours à dater de la notification, les procédures pertinentes présentées aux al. 2 à 6, y compris celles relatives aux mesures compensatoires, seront engagées. Toute compensation sera basée sur la période d’application totale de la mesure d’urgence provisoire et de la mesure d’urgence.
 
@@ -680,7 +680,7 @@ Le mandat du Sous-Comité est le suivant:
 
 <sup>3.</sup> Le Sous-Comité se réunira en fonction des réunions du Comité mixte ou selon les dispositions prises par ailleurs entre les Parties.
 
-<sup>4.</sup> Le Sous-Comité sera présidé communément par la Corée et l’un des Etats de l’AELE. Il procédera par consensus.
+<sup>4.</sup> Le Sous-Comité sera présidé communément par la Corée et l’un des États de l’AELE. Il procédera par consensus.
 
 #### Art. 4.21
 
@@ -720,7 +720,7 @@ S’agissant de l’al. 5 de l’art. 9.10, les dispositions suivantes s’appli
 
 **Règles de concurrence concernant les entreprises**
 
-<sup>1.</sup> Les Parties reconnaissent qu’une conduite anti-concurrentielle des affaires peut priver des avantages liés au présent Accord. Une telle conduite est par conséquent incompatible avec le bon fonctionnement du présent Accord, dans la mesure où elle peut affecter le commerce entre un Etat de l’AELE et la Corée.
+<sup>1.</sup> Les Parties reconnaissent qu’une conduite anti-concurrentielle des affaires peut priver des avantages liés au présent Accord. Une telle conduite est par conséquent incompatible avec le bon fonctionnement du présent Accord, dans la mesure où elle peut affecter le commerce entre un État de l’AELE et la Corée.
 
 <sup>2.</sup>
 
@@ -731,7 +731,7 @@ Aux fins du présent Accord, une «conduite anti-concurrentielle des affaires»:
 
 <sup>3.</sup> Les dispositions des al. 1 et 2 ne seront pas interprétées de façon à créer des obligations directes pour les entreprises.
 
-<sup>4.</sup> Les Parties s’emploieront à appliquer leurs législations respectives en matière de concurrence en vue d’éliminer la conduite anti-concurrentielle des affaires. A cette fin, elles se notifieront leurs activités de mise en œuvre pertinentes et elles assureront l’échange d’informations. Il ne sera demandé à aucune Partie de révéler des informations qui seraient confidentielles en vertu de sa propre législation.
+<sup>4.</sup> Les Parties s’emploieront à appliquer leurs législations respectives en matière de concurrence en vue d’éliminer la conduite anti-concurrentielle des affaires. À cette fin, elles se notifieront leurs activités de mise en œuvre pertinentes et elles assureront l’échange d’informations. Il ne sera demandé à aucune Partie de révéler des informations qui seraient confidentielles en vertu de sa propre législation.
 
 <sup>5.</sup> Sur demande, les autorités compétentes en matière de concurrence et/ou d’autres autorités concernées des Parties entreront en consultation pour faciliter l’élimination d’une conduite anti-concurrentielle des affaires. La Partie contactée considérera la demande sans restriction et avec bienveillance.
 
@@ -751,7 +751,7 @@ Aux fins du présent Accord, une «conduite anti-concurrentielle des affaires»:
 
 #### Art. 6.2
 
-**Echange d’information**
+**Échange d’information**
 
 Des points de contact responsables de fournir l’information voulue sur les règles et les réglementations dans le domaine des marchés publics sont énumérés à l’Annexe XII, afin de faciliter la communication entre les Parties sur tout sujet touchant ces marchés.
 
@@ -759,7 +759,7 @@ Des points de contact responsables de fournir l’information voulue sur les rè
 
 **Négociations ultérieures**
 
-<sup>1.</sup> A la conclusion des négociations bilatérales entre les Parties sur une libéralisation supplémentaire de leurs marchés publics respectifs, tenues dans le cadre des négociations visant à amender l’AMP, cette libéralisation sera intégrée au présent Accord, y compris les dispositions de l’accord amendant la partie principale de l’AMP dans la mesure où elles concernent ces libéralisations additionnelles. Le Comité mixte prendra une décision à cet effet dans un délai de trois mois après la conclusion de ces négociations bilatérales. Cette décision sera sujette à la ratification ou à l’acceptation par les Parties.
+<sup>1.</sup> À la conclusion des négociations bilatérales entre les Parties sur une libéralisation supplémentaire de leurs marchés publics respectifs, tenues dans le cadre des négociations visant à amender l’AMP, cette libéralisation sera intégrée au présent Accord, y compris les dispositions de l’accord amendant la partie principale de l’AMP dans la mesure où elles concernent ces libéralisations additionnelles. Le Comité mixte prendra une décision à cet effet dans un délai de trois mois après la conclusion de ces négociations bilatérales. Cette décision sera sujette à la ratification ou à l’acceptation par les Parties.
 
 <sup>2.</sup> Si, après l’entrée en vigueur du présent Accord, une Partie accorde à une non Partie des avantages additionnels concernant l’accès à ses marchés publics, cette Partie sera prête à entrer en négociations sur l’éventuelle extension de ces avantages à une autre Partie sur une base de réciprocité.
 
@@ -773,7 +773,7 @@ Des points de contact responsables de fournir l’information voulue sur les rè
 
 <sup>2.</sup> Les Parties accorderont aux ressortissants des autres Parties un traitement non moins favorable qu’à leurs propres ressortissants. Les exceptions à cette obligation doivent être conformes aux dispositions matérielles des art. 3 et 5 de l’Accord de l’OMC sur les aspects des droits de propriété intellectuelle qui touchent au commerce[^71-1] (ci-après dénommé «Accord ADPIC»).
 
-<sup>3.</sup> En matière de protection de la propriété intellectuelle, les Parties accorderont, conformément à l’Accord ADPIC, en particulier ses art. 4 et 5, aux ressortissants des autres Parties un traitement non moins favorable que celui qu’elles accordent aux ressortissants de tout Etat tiers.
+<sup>3.</sup> En matière de protection de la propriété intellectuelle, les Parties accorderont, conformément à l’Accord ADPIC, en particulier ses art. 4 et 5, aux ressortissants des autres Parties un traitement non moins favorable que celui qu’elles accordent aux ressortissants de tout État tiers.
 
 <sup>4.</sup> Les Parties conviennent, à la demande de l’une des Parties adressée au Comité mixte, de réexaminer comme il conviendra les dispositions du présent Accord relatives à la propriété intellectuelle, en vue d’éviter les distorsions au commerce causées par le niveau actuel de la protection des droit de propriété intellectuelle, ou pour y remédier, et afin de promouvoir la propriété intellectuelle qui facilite le commerce et les relations d’investissement entre les Parties.
 
@@ -815,7 +815,7 @@ Conformément à l’al. 1, les Parties pourront coopérer:
 Le Comité mixte:
 
 - (a) surveillera et examinera la mise en œuvre du présent Accord, notamment en examinant de manière complète l’application de ses dispositions, tout en considérant dûment toute clause de revue spécifique prévue par le présent Accord;
-- (b) continuera d’étudier la possibilité d’éliminer d’autres obstacles au commerce et d’autres mesures restrictives en matière de commerce entre la Corée et les Etats de l’AELE;
+- (b) continuera d’étudier la possibilité d’éliminer d’autres obstacles au commerce et d’autres mesures restrictives en matière de commerce entre la Corée et les États de l’AELE;
 - (c) assurera le suivi du développement futur du présent Accord;
 - (d) supervisera le travail de tous les sous-comités et groupes de travail établis dans le cadre du présent Accord;
 - (e) s’efforcera de résoudre les différends qui pourraient surgir quant à l’interprétation ou l’application du présent Accord, et
@@ -825,7 +825,7 @@ Le Comité mixte:
 
 <sup>4.</sup> Le Comité mixte prend des décisions selon les dispositions du présent Accord et il peut formuler des recommandations; il agit par consensus.
 
-<sup>5.</sup> Le Comité mixte se réunira dans l’année suivant l’entrée en vigueur du présent Accord. Par la suite, il se réunira par entente mutuelle chaque fois que cela s’avèrera nécessaire, normalement tous les deux ans. Il sera présidé conjointement par la Corée et par l’un des Etats de l’AELE. Le Comité mixte établira son règlement intérieur.
+<sup>5.</sup> Le Comité mixte se réunira dans l’année suivant l’entrée en vigueur du présent Accord. Par la suite, il se réunira par entente mutuelle chaque fois que cela s’avèrera nécessaire, normalement tous les deux ans. Il sera présidé conjointement par la Corée et par l’un des États de l’AELE. Le Comité mixte établira son règlement intérieur.
 
 <sup>6.</sup> Toute Partie peut demander à tout moment par notification écrite aux autres Parties la tenue d’une réunion spéciale du Comité mixte. Une telle réunion se tiendra dans les 30 jours à dater de la réception de la demande, à moins que les Parties n’en conviennent autrement.
 
@@ -842,7 +842,7 @@ Le Comité mixte:
 Les Parties désignent les organes compétents suivants comme leurs secrétariats respectifs aux fins du présent Accord:
 
 - (a) pour la Corée: le Ministère des Affaires étrangères et du Commerce, et
-- (b) pour les Etats de l’AELE: le Secrétariat de l’AELE.
+- (b) pour les États de l’AELE: le Secrétariat de l’AELE.
 
 <sup>2.</sup> Sans préjudice de l’art. 10.7 et sauf entente différente entre Parties ou dispositions contraire du présent Accord, toutes les communications ou notifications officielles émanant d’une Partie ou à son endroit au titre du présent Accord sera transmise par le biais de son Secrétariat.
 
@@ -878,7 +878,7 @@ Les Parties désignent les organes compétents suivants comme leurs secrétariat
 
 <sup>1.</sup> Les Parties s’efforceront en tout temps à s’entendre sur l’interprétation et l’application du présent Accord, et elle ne négligeront aucune tentative de parvenir par la coopération et les consultations à une résolution mutuellement satisfaisante de toute question affectant le fonctionnement de l’Accord.
 
-<sup>2.</sup> Chacun des Etats de l’AELE ou plusieurs d’entre eux peuvent demander par écrit des consultations avec la Corée, et vice versa, dès lors qu’une Partie considère qu’une mesure appliquée par la (ou les) Partie(s) à qui la requête s’adresse n’est pas conforme au présent Accord ou que l’un ou l’autre avantage qui lui revient directement ou indirectement au titre du présent Accord s’en trouve préjudicié ou annulé. Les consultations seront conduites au sein du Comité mixte, à moins que la (ou les) Partie(s) requérante(s) ou requise(s) y objectent.
+<sup>2.</sup> Chacun des États de l’AELE ou plusieurs d’entre eux peuvent demander par écrit des consultations avec la Corée, et vice versa, dès lors qu’une Partie considère qu’une mesure appliquée par la (ou les) Partie(s) à qui la requête s’adresse n’est pas conforme au présent Accord ou que l’un ou l’autre avantage qui lui revient directement ou indirectement au titre du présent Accord s’en trouve préjudicié ou annulé. Les consultations seront conduites au sein du Comité mixte, à moins que la (ou les) Partie(s) requérante(s) ou requise(s) y objectent.
 
 <sup>3.</sup> Les consultations se tiendront dans un délai de 30 jours à dater de la réception de la requête de consultations. Les consultations portant sur des sujets urgents, y compris ceux touchant des biens agricoles périssables, commenceront dans un délai de quinze jours à dater de la réception de la demande de consultations.
 
@@ -935,11 +935,11 @@ Nonobstant l’al. 1, les procédures garantiront pour toutes les affaires condu
 - (c) que tous les arguments et commentaires fournis au tribunal arbitral soient disponibles aux Parties au différend, sous réserve de toute exigence de confidentialité, et
 - (d) que toutes les auditions, les délibérations, le rapport initial et les autres contributions écrites à l’attention du tribunal arbitral ainsi que les communications avec celui-ci soient confidentiels.
 
-<sup>3.</sup> A mois que les Parties au différend n’en disposent autrement dans les 20 jours à dater du dépôt de la demande de constitution du tribunal arbitral, les termes de référence seront les suivants:
+<sup>3.</sup> À moins que les Parties au différend n’en disposent autrement dans les 20 jours à dater du dépôt de la demande de constitution du tribunal arbitral, les termes de référence seront les suivants:
 
 «Examiner, à la lumière des dispositions pertinentes du présent Accord, l’affaire exposée dans la demande de constitution d’un tribunal arbitral selon l’art. 9.4, rendre des conclusions de droit et de fait motivées et formuler, le cas échéant, des recommandations en vue du règlement du différend.»
 
-<sup>4.</sup> A la demande de l’une des Parties au différend ou à sa propre initiative, le tribunal arbitral peut rechercher des informations scientifiques et des conseils techniques d’experts, selon qu’il le juge approprié.
+<sup>4.</sup> À la demande de l’une des Parties au différend ou à sa propre initiative, le tribunal arbitral peut rechercher des informations scientifiques et des conseils techniques d’experts, selon qu’il le juge approprié.
 
 <sup>5.</sup> Le tribunal arbitral basera sa décision sur les dispositions du présent Accord, appliquées et interprétées conformément aux règles d’interprétation du droit international public.
 
@@ -977,7 +977,7 @@ En pareil cas, en considération des commentaires écrits, le tribunal arbitral 
 
 <sup>1.</sup> Le tribunal arbitral présentera le rapport final aux Parties au différend dans les 30 jours suivants la présentation du rapport initial. Ce rapport final contiendra les sujets visés à l’al. 2 de l’art. 9.8, y compris toutes les opinions divergentes sur les points qui n’ont pas recueilli un avis unanime.
 
-<sup>2.</sup> A moins que les Parties au différend n’en décident autrement, le rapport final sera publié dans les quinze jours à dater de la présentation qui leur en est faite.
+<sup>2.</sup> À moins que les Parties au différend n’en décident autrement, le rapport final sera publié dans les quinze jours à dater de la présentation qui leur en est faite.
 
 #### Art. 9.10
 
@@ -987,7 +987,7 @@ En pareil cas, en considération des commentaires écrits, le tribunal arbitral 
 
 <sup>2.</sup>
 
-A la réception du rapport final présenté par le tribunal arbitral, les Parties au différend devront s’entendre sur:
+À la réception du rapport final présenté par le tribunal arbitral, les Parties au différend devront s’entendre sur:
 
 - (a) les moyens de résoudre le différend, qui correspondront normalement aux éléments déterminés par le tribunal arbitral et à ses recommandations éventuelles, et
 - (b) la période raisonnablement nécessaire pour appliquer les moyens destinés à résoudre le différend. Si les Parties au différend ne peuvent s’entendre, l’une des Parties pourra demander au tribunal arbitral d’origine de déterminer, à la lumière des circonstances particulières du cas, la durée raisonnable de la période requise. Le tribunal arbitral fixera et communiquera la durée en question dans les quinze jours à dater de la demande.
@@ -1002,7 +1002,7 @@ A la réception du rapport final présenté par le tribunal arbitral, les Partie
 
 <sup>7.</sup> La suspension d’avantages est une mesure temporaire que la Partie requérante appliquera seulement jusqu’à ce que la mesure jugée violer le présent Accord ait été retirée ou suffisamment amendée pour la rendre conforme au présent Accord, ou jusqu’à ce que les Parties au différend se soient mises d’accord pour résoudre leur litige.
 
-<sup>8.</sup> A la demande d’une Partie au différend, le tribunal arbitral d’origine décidera de la conformité au rapport final de toute mesure d’application adoptée après la suspension des avantages et, à la lumière de cette décision, il jugera s’il faut mettre fin à la suspension des avantages ou lui apporter des modifications. Le tribunal arbitral statuera dans un délai de 30 jours à dater de la requête.
+<sup>8.</sup> À la demande d’une Partie au différend, le tribunal arbitral d’origine décidera de la conformité au rapport final de toute mesure d’application adoptée après la suspension des avantages et, à la lumière de cette décision, il jugera s’il faut mettre fin à la suspension des avantages ou lui apporter des modifications. Le tribunal arbitral statuera dans un délai de 30 jours à dater de la requête.
 
 <sup>9.</sup> Les décisions prévues aux al. 2, let. b, 6 et 8 sont obligatoires.
 
@@ -1046,9 +1046,9 @@ Les Annexes et les Appendices du présent Accord en constituent une partie inté
 
 **Adhésion**
 
-<sup>1.</sup> Tout Etat membre de l’Association européenne de libre-échange peut devenir Partie au présent Accord, à la condition que le Comité mixte décide d’approuver son adhésion aux conditions négociées entre l’Etat candidat et les Parties existantes. L’instrument d’adhésion sera déposé auprès du Dépositaire.
+<sup>1.</sup> Tout État membre de l’Association européenne de libre-échange peut devenir Partie au présent Accord, à la condition que le Comité mixte décide d’approuver son adhésion aux conditions négociées entre l’État candidat et les Parties existantes. L’instrument d’adhésion sera déposé auprès du Dépositaire.
 
-<sup>2.</sup> S’agissant d’un Etat candidat, le présent Accord entrera en vigueur le premier jour du deuxième mois suivant le dépôt de son instrument d’adhésion ou l’approbation des termes de son adhésion par les Parties existantes, la dernière des deux dates étant déterminante.
+<sup>2.</sup> S’agissant d’un État candidat, le présent Accord entrera en vigueur le premier jour du deuxième mois suivant le dépôt de son instrument d’adhésion ou l’approbation des termes de son adhésion par les Parties existantes, la dernière des deux dates étant déterminante.
 
 #### Art. 10.5
 
@@ -1058,7 +1058,7 @@ Les Annexes et les Appendices du présent Accord en constituent une partie inté
 
 <sup>2.</sup> Si la Corée se retire, l’Accord prend fin à la date spécifiée à l’al. 1.
 
-<sup>3.</sup> Si l’un des Etats de l’AELE se retire de la Convention instituant l’Association européenne de libre-échange, cet Etat se retirera du présent Accord conformément à l’al. 1.
+<sup>3.</sup> Si l’un des États de l’AELE se retire de la Convention instituant l’Association européenne de libre-échange, cet État se retirera du présent Accord conformément à l’al. 1.
 
 #### Art. 10.6
 
@@ -1066,13 +1066,13 @@ Les Annexes et les Appendices du présent Accord en constituent une partie inté
 
 <sup>1.</sup> Le présent Accord est soumis à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés auprès du Dépositaire.
 
-<sup>2.</sup> Le présent Accord entrera en vigueur le 1<sup>er</sup> juillet 2006 pour ceux des Etats signataires qui l’auront alors ratifié, sous réserve qu’ils aient déposé leurs instruments de ratification, d’acceptation ou d’approbation auprès du Dépositaire au moins un mois avant l’entrée en vigueur, et pour autant que la Corée soit au nombre des Etats qui ont déposé leurs instruments.
+<sup>2.</sup> Le présent Accord entrera en vigueur le 1<sup>er</sup> juillet 2006 pour ceux des États signataires qui l’auront alors ratifié, sous réserve qu’ils aient déposé leurs instruments de ratification, d’acceptation ou d’approbation auprès du Dépositaire au moins un mois avant l’entrée en vigueur, et pour autant que la Corée soit au nombre des États qui ont déposé leurs instruments.
 
-<sup>3.</sup> Au cas où le présent Accord n’entrerait pas en vigueur le 1<sup>er</sup> juillet 2006, il entrera en vigueur le premier jour du deuxième mois suivant la date à laquelle la Corée et au moins l’un des Etats de l’AELE auront déposé leurs instruments de ratification, d’acceptation ou d’approbation auprès du Dépositaire, la dernière des deux dates du dépôt étant déterminante.
+<sup>3.</sup> Au cas où le présent Accord n’entrerait pas en vigueur le 1<sup>er</sup> juillet 2006, il entrera en vigueur le premier jour du deuxième mois suivant la date à laquelle la Corée et au moins l’un des États de l’AELE auront déposé leurs instruments de ratification, d’acceptation ou d’approbation auprès du Dépositaire, la dernière des deux dates du dépôt étant déterminante.
 
-<sup>4.</sup> S’agissant d’un Etat de l’AELE qui déposerait son instrument de ratification, d’acceptation ou d’approbation après la date d’entrée en vigueur du présent Accord, celui-ci prendrait effet le premier jour du second mois suivant le dépôt de son instrument.
+<sup>4.</sup> S’agissant d’un État de l’AELE qui déposerait son instrument de ratification, d’acceptation ou d’approbation après la date d’entrée en vigueur du présent Accord, celui-ci prendrait effet le premier jour du second mois suivant le dépôt de son instrument.
 
-<sup>5.</sup> Si ses exigences constitutionnelles le permettent, tout Etat de l’AELE peut appliquer le présent Accord à titre provisoire. L’application provisoire du présent Accord selon le présent alinéa sera notifiée au Dépositaire.
+<sup>5.</sup> Si ses exigences constitutionnelles le permettent, tout État de l’AELE peut appliquer le présent Accord à titre provisoire. L’application provisoire du présent Accord selon le présent alinéa sera notifiée au Dépositaire.
 
 #### Art. 10.7
 
@@ -1080,9 +1080,11 @@ Les Annexes et les Appendices du présent Accord en constituent une partie inté
 
 Le Gouvernement de la Norvège a la qualité de Dépositaire.
 
-*En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé le présent Accord. Fait à Hongkong, le 15 décembre 2005, en un seul exemplaire original en langue anglaise, lequel sera déposé auprès du Gouvernement de la Norvège. Le Dépositaire transmettra des copies certifiées conformes à tous les Etats signataires. (Suivent les signatures)
+*En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé le présent Accord. Fait à Hongkong, le 15 décembre 2005, en un seul exemplaire original en langue anglaise, lequel sera déposé auprès du Gouvernement de la Norvège. Le Dépositaire transmettra des copies certifiées conformes à tous les États signataires. (Suivent les signatures)
 
-**Chapitre III (Commerce des services) et Chapitre IV (Services financiers)**
+Protocole d’entente
+
+Chapitre III (Commerce des services) et Chapitre IV (Services financiers)
 
 Il est entendu que par rapport à des subventions, le champ d’application des chap. III et IV est le même que le champ d’application de l’AGCS[^t-2].
 
@@ -1090,23 +1092,26 @@ En outre, il est reconnu que des subventions, dans certaines circonstances, peuv
 
 Il est entendu en particulier qu’une Partie qui s’estime affectée négativement par une subvention d’une autre Partie peut demander des consultations.
 
-**Art. 3.6 Traitement national**
+Art. 3.6 Traitement national
 
 Il est entendu que par rapport au traitement accordé par un gouvernement ou une autorité locale d’une Partie, la notion «ses propres services similaires et ses propres fournisseurs de services similaires» signifie les services similaires et les fournisseurs de services similaires de cette Partie, y compris elle-même.
 
-**Art. 3.14 Restrictions destinées à protéger l’équilibre de la balance des paiements**
+Art. 3.14 Restrictions destinées à protéger l’équilibre de la balance des paiements
 
 Il est entendu que l’al. 2, let. a, de l’art. XII AGCS ne s’applique pas à des mesures restrictives concernant des engagements spécifiques dans des secteurs qui vont au‑delà des secteurs engagés au titre de l’AGCS, dans la mesure où de telles restrictions sont appliquées de manière non discriminatoire à l’égard de services et de fournisseurs de services des pays qui bénéficient du même accès au marché dans ces secteurs.
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole d’entente.
 
-Fait à Hongkong, le 15 décembre 2005, en un seul exemplaire original en langue anglaise, lequel sera déposé auprès du Gouvernement de la Norvège. Le Dépositaire transmettra des copies certifiées conformes à tous les Etats signataires.
+Fait à Hongkong, le 15 décembre 2005, en un seul exemplaire original en langue anglaise, lequel sera déposé auprès du Gouvernement de la Norvège. Le Dépositaire transmettra des copies certifiées conformes à tous les États signataires.
 
 (Suivent les signatures)
 
-Table des matières
+## Liste des annexes
 
-Liste des annexes**[^t-3]**
+[^annexu1-lvlu2-1]
+
+[^t-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1B
+[^annexu1-lvlu2-1]: Ces documents et leurs mod. (à l’exception du protocole d’entente) ne sont pas publiés au RO ([RO 2010 5373](https://fedlex.data.admin.ch/eli/oc/2010/756), [5437](https://fedlex.data.admin.ch/eli/oc/2010/772), [6361](https://fedlex.data.admin.ch/eli/oc/2010/888), [6363](https://fedlex.data.admin.ch/eli/oc/2010/889), [6365](https://fedlex.data.admin.ch/eli/oc/2010/890); [2012 475](https://fedlex.data.admin.ch/eli/oc/2012/67); [2015 1371](https://fedlex.data.admin.ch/eli/oc/2015/284); [2017 119](https://fedlex.data.admin.ch/eli/oc/2017/34), [5731](https://fedlex.data.admin.ch/eli/oc/2017/617); [2023 208](https://fedlex.data.admin.ch/eli/oc/2023/208)). Ils peuvent être obtenus en version originale anglaise auprès de l’Office fédéral des constructions et de la logistique, Diffusions publications, 3003 Berne, et est disponible sur le site Internet du Secrétariat de l’AELE: [www.efta.int/free-trade/free-trade-agreements/korea](http://www.efta.int/free-trade/free-trade-agreements/korea)
 
 **Annex I**Referred to in Article 2.2 – Rules of origin and customs procedures
 
@@ -1162,13 +1167,15 @@ Appendix 5 to Annex VII – Switzerland
 
 **Final Act**to the Free Trade Agreement between the EFTA States and the Republic of Korea
 
-**Joint Declarat****i****on**
+**Joint Declaration**
 
-**Record of U****n****derstanding**
+**Record of Understanding**
 
-Protocole d’entente relatif à l’Accord de libre-échange entre les Etats de l’AELE et la Corée
+Protocole d’entente relatif à l’Accord de libre-échange entre les États de l’AELE et la Corée
 
 **Joint Committee Decisions**
+
+No 1-20 Amendment to Annex I to the Agreement on Rules of Origin and Customs Procedures
 
 No 2-15 Amendment to Annex I to the Agreement on Rules of Origin and Customs Procedures
 
@@ -1192,15 +1199,10 @@ No 1-09 Model rules of procedure for arbitration
 
 No 1-08 Rules of procedure for the Joint Committee
 
-Protocole d’entente
-
-[^t-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1B
-[^t-3]: Ces documents et leurs mod. (à l’exception du protocole d’entente) ne sont pas publiés au RO ([RO 2010 5373](https://fedlex.data.admin.ch/eli/oc/2010/756)[5437](https://fedlex.data.admin.ch/eli/oc/2010/772)[6361](https://fedlex.data.admin.ch/eli/oc/2010/888)[6363](https://fedlex.data.admin.ch/eli/oc/2010/889)[6365](https://fedlex.data.admin.ch/eli/oc/2010/890), [2012 475](https://fedlex.data.admin.ch/eli/oc/2012/67), [2015 1371](https://fedlex.data.admin.ch/eli/oc/2015/284), [2017 119](https://fedlex.data.admin.ch/eli/oc/2017/34)[5731](https://fedlex.data.admin.ch/eli/oc/2017/617)). Ils peuvent être obtenus en anglais auprès de l’Office fédéral des constructions et de la logistique, Vente des publications fédérales, 3003 Berne, et il est disponible sur le site Internet du Secrétariat de l’AELE: www.efta.int/free-trade/free-trade-agreements/korea.
-
 Champ d’application le 1<sup>er</sup> septembre 2006
 
 <table>
-<tr><th>Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Corée (Sud)</td><td>19 juillet</td><td>2006</td><td>1<sup>er</sup> septembre</td><td>2006</td></tr>
 <tr><td>Islande</td><td>22 août</td><td>2006</td><td>1<sup>er</sup> septembre</td><td>2006</td></tr>
 <tr><td>Liechtenstein</td><td>29 mai</td><td>2006</td><td>1<sup>er</sup> septembre</td><td>2006</td></tr>
