@@ -4,11 +4,11 @@ title: "Règlement du 31 août 2010 sur l'organisation du Tribunal pénal fédé
 short: ROTPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/825"
 language: fr
-version: 2019-07-01
+version: 2023-06-01
 adopted: 2010-08-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20190701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-825-20190701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20190701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2010-825-20230601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20190701/fr"
 
 (Règlement sur l’organisation du TPF, ROTPF)
 
-du 31 août 2010 (Etat le 1<sup>er</sup> juillet 2019)
+du 31 août 2010 (État le 1<sup>er</sup> juin 2023)
 
 Le Tribunal pénal fédéral (TPF),
 
@@ -55,7 +55,7 @@ Relèvent également de sa compétence:
 
 <sup>3</sup> Tout membre du tribunal peut demander au président, en indiquant l’objet, la convocation de la Cour plénière.
 
-[^2-1]: Abrogée par le ch. I de l’O du TPF du 3 juin 2019, avec effet au 1<sup>er</sup> juil. 2019 ([RO 2019 1807](https://fedlex.data.admin.ch/eli/oc/2019/335); FF ).
+[^2-1]: Abrogée par le ch. I de l’O du TPF du 3 juin 2019, avec effet au 1<sup>er</sup> juil. 2019 ([RO 2019 1807](https://fedlex.data.admin.ch/eli/oc/2019/335)).
 
 #### Art. 3
 
@@ -268,11 +268,24 @@ Conformément à l’art. 33 LOAP, le Tribunal pénal fédéral se compose:
 
 <sup>1</sup> Les présidents des cours répartissent les affaires et constituent les cours appelées à statuer.
 
-<sup>2</sup> Lors de la répartition des affaires et de la constitution des cours appelées à statuer, les présidents des cours tiennent compte notamment des critères suivants: langue de l’affaire, taux d’occupation des juges et charge de travail occasionnée par leur participation à des organes du tribunal, aptitude professionnelle, participation à de précédentes décisions dans le même domaine, connexité avec d’autres cas, absences.
+<sup>2</sup> Lors de la répartition des affaires et de la constitution des cours appelées à statuer, les présidents des cours tiennent compte notamment des critères suivants: langue de l’affaire, taux d’occupation des juges et charge de travail, aptitude professionnelle, participation à de précédentes décisions dans le même domaine, connexité avec d’autres cas, absences.[^15-1]
 
-<sup>3</sup> Le président de la cour peut désigner un juge unique, ainsi que le président d’une composition à trois juges, et lui confier l’instruction de la procédure et les fonctions présidentielles.
+<sup>3</sup> Le président de la cour peut désigner un juge unique, ainsi que le président ou le juge rapporteur d’une composition à trois juges, et lui confier l’instruction de la procédure et les fonctions présidentielles.[^15-2]
 
 <sup>4</sup> Les présidents des cours sont compétents pour accorder l’entraide administrative ou judiciaire à d’autres autorités, en tant que cette dernière a trait à une procédure pendante par devant eux.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 9 mars 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du TPF du 9 mars 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
+
+#### Art. 15a
+
+**Modification de la composition des cours appelées à statuer**[^15a-1]
+
+<sup>1</sup> Lorsqu’un juge appelé à statuer est empêché et que cet empêchement met la procédure en péril ou nuit à sa célérité, ce juge est remplacé.
+
+<sup>2</sup> Pour choisir le juge remplaçant, les présidents des cours tiennent compte des critères prévus à l’art. 15, al. 2.
+
+[^15a-1]: Introduit par le ch. I de l’O du TPF du 9 mars 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
 
 #### Art. 16
 
@@ -296,7 +309,7 @@ Conformément à l’art. 33 LOAP, le Tribunal pénal fédéral se compose:
 
 [^17-1]: Erratum du 18 oct. 2016 ([RO 2016 3535](https://fedlex.data.admin.ch/eli/oc/2016/593)).
 
-### Section 2 Cour des affaires pénales****
+### Section 2 Cour des affaires pénales
 
 [^tit1-chap2-sec2-1]
 
@@ -315,7 +328,7 @@ Conformément à l’art. 33 LOAP, le Tribunal pénal fédéral se compose:
 [^18-1]: Abrogé par le ch. I de l’O du TPF du 21 août 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
 [^18-2]: Nouvelle teneur selon le ch. I de l’O du 23 août 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
 
-### Section 3 Tâches de la Cour des plaintes ****
+### Section 3 Tâches de la Cour des plaintes
 
 [^tit1-chap2-sec3-1]
 
@@ -336,7 +349,7 @@ Conformément à l’art. 33 LOAP, le Tribunal pénal fédéral se compose:
 [^19-3]: Abrogé par le ch. I de l’O du 23 août 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
 [^19-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
-### Section 4**** Tâches de la Cour d’appel
+### Section 4 Tâches de la Cour d’appel
 
 [^tit1-chap2-sec4-1]
 

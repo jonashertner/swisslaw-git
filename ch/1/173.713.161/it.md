@@ -4,11 +4,11 @@ title: "Regolamento del 31 agosto 2010 sull'organizzazione del Tribunale penale 
 short: ROTPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/825"
 language: it
-version: 2019-07-01
+version: 2023-06-01
 adopted: 2010-08-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20190701/it/xml/fedlex-data-admin-ch-eli-cc-2010-825-20190701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20190701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2010-825-20230601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20190701/it"
 
 (Regolamento sull’organizzazione del TPF, ROTPF)
 
-del 31 agosto 2010 (Stato 1° luglio 2019) (Stato 1° luglio 2019)
+del 31 agosto 2010 (Stato 1° giugno 2023)
 
 Il Tribunale penale federale (TPF),
 
@@ -268,11 +268,24 @@ Secondo l’articolo 33 LOAP, il Tribunale penale federale si compone di:
 
 <sup>1</sup> I presidenti delle corti ripartiscono le cause e stabiliscono la composizione dei collegi giudicanti e i loro presidenti.
 
-<sup>2</sup> Per la ripartizione delle cause e la composizione dei collegi giudicanti i presidenti delle corti tengono conto segnatamente dei seguenti criteri: lingua della causa, grado d’occupazione dei giudici, mole di lavoro loro occasionata da compiti che sono chiamati a svolgere in seno ad organi del Tribunale, conoscenze specifiche, collaborazione in precedenti decisioni concernenti il medesimo ambito specifico, connessione con altri casi nonché assenze.
+<sup>2</sup> Per la ripartizione delle cause e la composizione dei collegi giudicanti i presidenti delle corti tengono conto segnatamente dei seguenti criteri: lingua della causa, grado d’occupazione dei giudici, mole di lavoro, conoscenze specifiche, collaborazione in precedenti decisioni concernenti il medesimo ambito specifico, connessione con altri casi nonché assenze.[^15-1]
 
-<sup>3</sup> Il presidente della corte può delegare al giudice unico così come al presidente di un collegio giudicante composto da tre giudici l’istruzione della procedura e le funzioni presidenziali.
+<sup>3</sup> Il presidente della corte può delegare al giudice unico così come al presidente oppure al giudice relatore di un collegio giudicante composto da tre giudici, l’istruzione della procedura e le funzioni presidenziali.[^15-2]
 
 <sup>4</sup> I presidenti delle corti sono competenti per la concessione dell’assistenza amministrativa o giudiziaria nei confronti di altre autorità relativamente alle procedure pendenti presso di loro.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del TPF del 9 mar. 2023, in vigore dal 1° giu. 2023 ([RU 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
+[^15-2]: Nuovo testo giusta il n. I dell’O del TPF del 9 mar. 2023, in vigore dal 1° giu. 2023 ([RU 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
+
+#### Art. 15a
+
+**Modifica della composizione dei collegi giudicanti**[^15a-1]
+
+<sup>1</sup> In caso di impedimento di un giudice di un collegio giudicante si provvede alla sua sostituzione se l’impedimento mette in pericolo la procedura o nuoce alla sua celerità.
+
+<sup>2</sup> Nella scelta del sostituto i presidenti delle corti tengono conto dei criteri di cui all’articolo 15 capoverso 2.
+
+[^15a-1]: Introdotto dal n. I dell’O del TPF del 9 mar. 2023, in vigore dal 1° giu. 2023 ([RU 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
 
 #### Art. 16
 
@@ -296,7 +309,7 @@ Secondo l’articolo 33 LOAP, il Tribunale penale federale si compone di:
 
 [^17-1]: La correzione del 18 ott. 2016 concerne soltanto il testo francese ([RU 2016 3535](https://fedlex.data.admin.ch/eli/oc/2016/593)).
 
-### Sezione 2: Corte penale****
+### Sezione 2: Corte penale
 
 [^tit1-chap2-sec2-1]
 
@@ -315,7 +328,7 @@ Secondo l’articolo 33 LOAP, il Tribunale penale federale si compone di:
 [^18-1]: Abrogato dal n. I dell’O del TPF del 21 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
 [^18-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
 
-### Sezione 3: Compiti della Corte dei reclami penali****
+### Sezione 3: Compiti della Corte dei reclami penali
 
 [^tit1-chap2-sec3-1]
 
@@ -336,7 +349,7 @@ Secondo l’articolo 33 LOAP, il Tribunale penale federale si compone di:
 [^19-3]: Abrogato dal n. I dell’O del 23 ago. 2011, con effetto dal 1° gen. 2012 ([RU 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
 [^19-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
-### Sezione 4:**** Compiti della Corte d’appello
+### Sezione 4: Compiti della Corte d’appello
 
 [^tit1-chap2-sec4-1]
 
@@ -390,7 +403,7 @@ I membri del Tribunale, i cancellieri e i rappresentanti delle parti partecipano
 
 Il regolamento del Tribunale penale federale del 20 giugno 2006[^23-1] è abrogato.
 
-[^23-1]: [[RU 2006 4459](https://fedlex.data.admin.ch/eli/oc/2006/685), [2008 2115](https://fedlex.data.admin.ch/eli/oc/2008/304)]
+[^23-1]: [[RU 2006 4459](https://fedlex.data.admin.ch/eli/oc/2006/685); [2008 2115](https://fedlex.data.admin.ch/eli/oc/2008/304)]
 
 #### Art. 24
 

@@ -4,20 +4,20 @@ title: "Organisationsreglement vom 31. August 2010 für das Bundesstrafgericht (
 short: BStGerOR
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/825"
 language: de
-version: 2019-07-01
+version: 2023-06-01
 adopted: 2010-08-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20190701/de/xml/fedlex-data-admin-ch-eli-cc-2010-825-20190701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20190701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2010-825-20230601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Organisationsreglement für das Bundesstrafgericht
 
-(Organisationsreglement BStGer, BStGerOR)**[^t-1]**
+(Organisationsreglement BStGer, BStGerOR)[^t-1]
 
-vom 31. August 2010 (Stand am 1. Juli 2019)
+vom 31. August 2010 (Stand am 1. Juni 2023)
 
 [^t-1]: [AS 2011 633](https://fedlex.data.admin.ch/eli/oc/2011/96)
 
@@ -270,11 +270,24 @@ Das Bundesstrafgericht besteht gemäss Artikel 33 StBOG aus:
 
 <sup>1</sup> Die Kammerpräsidenten und -präsidentinnen verteilen die Geschäfte und bestimmen die Zusammensetzung des Spruchkörpers und dessen Vorsitz.
 
-<sup>2</sup> Bei der Zuteilung der Geschäfte und der Bildung der Spruchkörper berücksichtigen sie namentlich die folgenden Kriterien: Sprache des Geschäfts, Beschäftigungsgrad der Richter und Richterinnen, Belastung durch die Mitarbeit in Gerichtsgremien, fachliche Eignung, Mitwirkung an früheren Entscheiden im gleichen Sachgebiet, Bezug zu anderen Fällen und Abwesenheiten.
+<sup>2</sup> Bei der Zuteilung der Geschäfte und der Bildung der Spruchkörper berücksichtigen sie namentlich die folgenden Kriterien: Sprache des Geschäfts, Beschäftigungsgrad der Richter und Richterinnen, Belastung, fachliche Eignung, Mitwirkung an früheren Entscheiden im gleichen Sachgebiet, Bezug zu anderen Fällen und Abwesenheiten.[^15-1]
 
-<sup>3</sup> Der Kammerpräsident oder die Kammerpräsidentin kann einen Einzelrichter oder eine Einzelrichterin sowie einen Vorsitzenden oder eine Vorsitzende eines aus drei Richtern oder Richterinnen bestehenden Spruchkörpers bestimmen und ihm oder ihr die Instruktion des Verfahrens und die Präsidialfunktionen übertragen.
+<sup>3</sup> Der Kammerpräsident oder die Kammerpräsidentin kann einen Einzelrichter oder eine Einzelrichterin sowie einen Vorsitzenden oder eine Vorsitzende oder einen Instruktionsrichter oder eine Instruktionsrichterin eines aus drei Richtern oder Richterinnen bestehenden Spruchkörpers bestimmen und ihm oder ihr die Instruktion des Verfahrens und die Präsidialfunktionen übertragen.[^15-2]
 
 <sup>4</sup> Die Kammerpräsidenten oder -präsidentinnen sind zuständig für die Gewährung von Amts- oder Rechtshilfe gegenüber anderen Behörden bezüglich der bei ihnen hängigen Verfahren.
+
+[^15-1]: Fassung gemäss Ziff. I der V des BStGer vom 9. März 2023, in Kraft seit 1. Juni 2023 ([AS 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
+[^15-2]: Fassung gemäss Ziff. I der V des BStGer vom 9. März 2023, in Kraft seit 1. Juni 2023 ([AS 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
+
+#### Art. 15a
+
+**Änderung der Zusammensetzung des Spruchkörpers**[^15a-1]
+
+<sup>1</sup> Ist ein Richter oder eine Richterin des Spruchkörpers verhindert und gefährdet dies das Verfahren oder beeinträchtigt es seinen raschen Fortgang, so wird dieser Richter oder diese Richterin ersetzt.
+
+<sup>2</sup> Bei der Wahl des neu einzusetzenden Richters oder der neu einzusetzenden Richterin tragen die Kammerpräsidenten und -präsidentinnen den Kriterien nach Artikel 15 Absatz 2 Rechnung.
+
+[^15a-1]: Eingefügt durch Ziff. I der V des BStGer vom 9. März 2023, in Kraft seit 1. Juni 2023 ([AS 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
 
 #### Art. 16
 
@@ -298,7 +311,7 @@ Das Bundesstrafgericht besteht gemäss Artikel 33 StBOG aus:
 
 [^17-1]: Die Berichtigung vom 18. Okt. 2016 betrifft nur den französichen Text ([AS 2016 3535](https://fedlex.data.admin.ch/eli/oc/2016/593)).
 
-### 2. Abschnitt: Aufgaben der Strafkammer****
+### 2. Abschnitt: Aufgaben der Strafkammer
 
 [^tit1-chap2-sec2-1]
 
@@ -317,7 +330,7 @@ Das Bundesstrafgericht besteht gemäss Artikel 33 StBOG aus:
 [^18-1]: Aufgehoben durch Ziff. I der V des BStGer vom 21. Aug. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
 [^18-2]: Fassung gemäss Ziff. I der V vom 23. Aug. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
 
-### 3. Abschnitt: Aufgaben der Beschwerdekammer****
+### 3. Abschnitt: Aufgaben der Beschwerdekammer
 
 [^tit1-chap2-sec3-1]
 
@@ -338,7 +351,7 @@ Das Bundesstrafgericht besteht gemäss Artikel 33 StBOG aus:
 [^19-3]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
 [^19-4]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
-### 4. Abschnitt:**** Aufgaben der Berufungskammer
+### 4. Abschnitt: Aufgaben der Berufungskammer
 
 [^tit1-chap2-sec4-1]
 
@@ -392,7 +405,7 @@ Zu den öffentlichen Sitzungen des Gerichts erscheinen die Gerichtsmitglieder, d
 
 Das Reglement für das Bundesstrafgericht vom 20. Juni 2006[^23-1] wird aufgehoben.
 
-[^23-1]: [[AS 2006 4459](https://fedlex.data.admin.ch/eli/oc/2006/685), [2008 2115](https://fedlex.data.admin.ch/eli/oc/2008/304)]
+[^23-1]: [[AS 2006 4459](https://fedlex.data.admin.ch/eli/oc/2006/685); [2008 2115](https://fedlex.data.admin.ch/eli/oc/2008/304)]
 
 #### Art. 24
 
