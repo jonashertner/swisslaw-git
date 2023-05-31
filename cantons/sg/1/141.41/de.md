@@ -4,13 +4,13 @@ number: "141.41"
 title: Ermächtigungsverordnung
 short: ErmV
 language: de
-version: 2023-03-01
-valid_until: 2023-05-31
-version_adopted: 2022-12-13
+version: 2023-06-01
+valid_until: 2023-12-31
+version_adopted: 2023-04-25
 adopted: 2011-01-04
 in_force: 2011-02-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.41"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3445/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3503/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3445/pdf_file"
 
 (ErmV)
 
-vom 04.01.2011 (Stand 01.03.2023)
+vom 04.01.2011 (Stand 01.06.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -88,13 +88,11 @@ als Verordnung:[^ingress-2]
 
 **d) besondere Ermächtigungen 1. Verfügungen im öffentlichen Beschaffungswesen**
 
-<sup>1</sup> Soweit nach dem Anhang zu diesem Erlass nicht andere Mitarbeiterinnen oder Mitarbeiter dazu ermächtigt sind, erlässt die Amtsleiterin oder der Amtsleiter für das Departement Verfügungen nach der Verordnung über das öffentliche Beschaffungswesen vom 21. April 1998[^5-1] über:
+<sup>1</sup> Soweit nach dem Anhang zu diesem Erlass nicht andere Mitarbeiterinnen oder Mitarbeiter dazu ermächtigt sind, erlässt die Amtsleiterin oder der Amtsleiter für das Departement Verfügungen nach der Gesetzgebung über das öffentliche Beschaffungswesen über:
 
-- a) Verzeichnisse über geeignete Anbieter;
+- a) Verzeichnisse über geeignete Anbieterinnen und Anbieter;
 - b) die Ausschreibung sowie die Auswahl und den Ausschluss von Anbieterinnen und Anbietern;
 - c) den Abbruch des Verfahrens.
-
-[^5-1]: sGS [841.11](https://www.gesetzessammlung.sg.ch/data/841.11/de).
 
 #### Art. 5a
 
