@@ -4,11 +4,11 @@ title: Verordnung vom 23. November 1994 über die Infrastruktur der Luftfahrt (V
 short: VIL
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050"
 language: de
-version: 2022-05-01
+version: 2023-06-01
 adopted: 1994-11-23
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20220501/de/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20220501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20230601/de/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20230601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20220501/de"
 
 (VIL)
 
-vom 23. November 1994 (Stand am 1. Mai 2022)
+vom 23. November 1994 (Stand am 1. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -114,7 +114,7 @@ In dieser Verordnung bedeuten:
 
 ## 2. Titel: Flugplätze
 
-### 1. Kapitel:**** Betrieb und Bau
+### 1. Kapitel: Betrieb und Bau
 
 [^tit2-chap1-1]
 
@@ -676,7 +676,7 @@ Absatz 1 findet keine Anwendung auf Bauvorhaben:
 [^29-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2008, in Kraft seit 15. März 2008 ([AS 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
 [^29-2]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### 7. Abschnitt:**** Bodenabfertigungsdienste
+### 7. Abschnitt: Bodenabfertigungsdienste
 
 [^tit2-chap1-sec7-1]
 
@@ -704,7 +704,7 @@ Für die Organisation und den Betrieb der Bodenabfertigungsdienste auf den Flugh
 [^29b-1]: Siehe Fussnote zur Art. 29*a.*
 [^29b-2]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### 8. Abschnitt:**** Flugplatzleiter oder Flugplatzleiterin
+### 8. Abschnitt: Flugplatzleiter oder Flugplatzleiterin
 
 [^tit2-chap1-sec8-1]
 
@@ -789,7 +789,7 @@ Für die Organisation und den Betrieb der Bodenabfertigungsdienste auf den Flugh
 
 [^29i-1]: [SR 748.112.11](https://fedlex.data.admin.ch/eli/cc/2007/720)
 
-### 2. Kapitel:**** Zivile Nutzung von Militärflugplätzen
+### 2. Kapitel: Zivile Nutzung von Militärflugplätzen
 
 [^tit2-chap2-1]
 
@@ -799,11 +799,12 @@ Für die Organisation und den Betrieb der Bodenabfertigungsdienste auf den Flugh
 
 **Kategorien der zivilen Mitbenützung von Militärflugplätzen**[^30-1]
 
-<sup>1</sup> Die zivile Mitbenützung eines Militärflugplatzes gilt als häufig, wenn die zivilen Flugbewegungen mehr als 10 Prozent der militärischen Flugbewegungen oder mehr als 1000 Motorflugbewegungen pro Jahr ausmachen. Massgebend für die Berechnung ist der Durchschnitt der Bewegungszahlen der letzten drei Kalenderjahre.
+<sup>1</sup> Die zivile Mitbenützung eines Militärflugplatzes gilt als häufig, wenn die zivilen Flugbewegungen mehr als 10 Prozent der militärischen Flugbewegungen oder mehr als 1000 Motorflugbewegungen pro Jahr ausmachen. Massgebend für die Berechnung ist der Durchschnitt der Bewegungszahlen der letzten drei Kalenderjahre. Dabei werden Such-, Rettungs- und Polizeiflüge sowie Flüge des Zolls nicht mitgezählt.[^30-2]
 
 <sup>2</sup> Die übrigen Fälle gelten als gelegentliche zivile Mitbenützung.
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^30-2]: Dritter Satz eingefügt durch Ziff. I der V vom 26. April 2023, in Kraft seit 1. Juni 2023 ([AS 2023 207](https://fedlex.data.admin.ch/eli/oc/2023/207)).
 
 #### Art. 30a
 
@@ -1055,13 +1056,13 @@ Landestellen bei Spitälern sowie andere Landestellen, die ausschliesslich zur H
 
 [^5758-1]: Aufgehoben durch Anhang Ziff. 5 der Aussenlandeverordnung vom 14. Mai 2014, mit Wirkung seit 1. Sept. 2014 ([AS 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
 
-## 5. Titel: Luftfahrthindernisse und Sicherheitszonen****
+## 5. Titel: Luftfahrthindernisse und Sicherheitszonen
 
 [^tit5-1]
 
 [^tit5-1]: Ursprünglich vor Art. 59. Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### 1. Kapitel:**** Allgemeine Bestimmungen
+### 1. Kapitel: Allgemeine Bestimmungen
 
 [^tit5-chap1-1]
 
@@ -1141,13 +1142,13 @@ Die kantonalen und die kommunalen Behörden sowie die Eigentümer von Luftfahrth
 
 [^62a-1]: Aufgehoben durch Ziff. I der V vom 17. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### 2. Kapitel: Bewilligungs- und Meldepflichten****
+### 2. Kapitel: Bewilligungs- und Meldepflichten
 
 [^tit5-chap2-1]
 
 [^tit5-chap2-1]: Ursprünglich vor Art. 63. Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### 1. Abschnitt: Bewilligungspflichtige Luftfahrthindernisse****
+### 1. Abschnitt: Bewilligungspflichtige Luftfahrthindernisse
 
 [^tit5-chap2-sec1-1]
 
@@ -1221,7 +1222,7 @@ Das BAZL entscheidet, im Einvernehmen mit dem VBS, mit einer Verfügung:
 
 [^65-1]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### 2. Abschnitt:**** Registrierungspflichtige Luftfahrthindernisse
+### 2. Abschnitt: Registrierungspflichtige Luftfahrthindernisse
 
 [^tit5-chap2-sec2-1]
 
@@ -1261,7 +1262,7 @@ Das BAZL kann verlangen, dass der Eigentümer zusätzlich zu Artikel 65*a* für 
 
 <sup>2</sup> Das BAZL kann in Fällen gemäss Absatz 1 in Abweichung von Artikel 65*b* aus Sicherheitsgründen andere oder zusätzliche Sicherheitsmassnahmen anordnen.
 
-### 3. Kapitel: Weitere Pflichten der Eigentümer der Luftfahrthindernisse****
+### 3. Kapitel: Weitere Pflichten der Eigentümer der Luftfahrthindernisse
 
 [^tit5-chap3-1]
 
@@ -1372,7 +1373,7 @@ Die Sicherheitszonenpläne sind durch die betroffenen Kantone zu publizieren und
 
 [^73-1]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-## 5*a*. Titel:**** Strafbestimmung
+## 5*a*. Titel: Strafbestimmung
 
 [^tit5a-1]
 
@@ -1460,13 +1461,13 @@ Die zuständigen Behörden erlassen innerhalb von zwei Jahren nach Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 
-## Schlussbestimmung der Änderung vom 12. April 2000****
+## Schlussbestimmung der Änderung vom 12. April 2000
 
 [^u1-1]
 
 [^u1-1]: [AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218). Aufgehoben durch Ziff. I 2 der V vom 4. März 2011, mit Wirkung seit 1. April 2011 ([AS 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 29*b*)
 
@@ -1488,7 +1489,7 @@ Verweise im vorliegenden Anhang auf bestimmte Artikel beziehen sich auf die Rich
 - 10\. Der Zugang zu den Flughafeneinrichtungen im Sinn von Artikel 16 ist vom Flugplatzhalter sicherzustellen.
 - 11\. Entscheidungen des Flugplatzhalters können nach den Artikeln 7 Absatz 2, 11 und 16 im Sinne von Artikel 21 dem BAZL vorgelegt werden, welches eine Verfügung erlässt.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 65*b*)
 

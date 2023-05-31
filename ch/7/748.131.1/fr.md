@@ -4,11 +4,11 @@ title: "Ordonnance du 23 novembre 1994 sur l'infrastructure aéronautique (OSIA)
 short: OSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050"
 language: fr
-version: 2022-05-01
+version: 2023-06-01
 adopted: 1994-11-23
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20220501-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20230601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20220501/fr"
 
 (OSIA)
 
-du 23 novembre 1994 (Etat le 1<sup>er</sup> mai 2022)
+du 23 novembre 1994 (État le 1<sup>er</sup> juin 2023)
 
 Le Conseil fédéral suisse,
 
@@ -114,7 +114,7 @@ Au sens de la présente ordonnance, on entend par:
 
 ## Titre 2 Aérodromes
 
-### Chapitre 1**** Exploitation et construction
+### Chapitre 1 Exploitation et construction
 
 [^tit2-chap1-1]
 
@@ -185,7 +185,7 @@ Les exploitants des aérodromes spécifiés ci-dessous mettent à disposition un
 <sup>2</sup> Il vérifie que les exigences spécifiques à l’aviation visées à l’art. 3 sont remplies et que des procédures d’exploitation rationnelles sont garanties. L’examen porte notamment sur les distances de sécurité par rapport aux pistes, aux voies de circulation et aux aires de stationnement, sur le dégagement d’obstacles et les effets des mesures de sûreté dans l’aviation ainsi que sur la nécessité d’insérer des données dans la Publication d’information aéronautique (*Aeronautical Information Publication*; AIP)[^9-2].[^9-3]
 
 [^9-1]: Nouvelle teneur selon le ch. I 2 de l’O du 4 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
-[^9-2]: Ces documents peuvent être obtenus contre paiement auprès de Skyguide (aipversand@skyguide.ch) ou consultés gratuitement auprès de l’Office fédéral de l’aviation civile (OFAC), 3003 Berne, AIP-Services, 8602 Wangen b. Dübendorf; www.skyguide.ch &gt; Service &gt; Aeronautical Information Management.
+[^9-2]: Ces documents peuvent être obtenus contre paiement auprès de Skyguide (aipversand@skyguide.ch) ou consultés gratuitement auprès de l’Office fédéral de l’aviation civile (OFAC), 3003 Berne, AIP-Services, 8602 Wangen b. Dübendorf; [www.skyguide.ch](http://www.skyguide.ch) &gt; Service &gt; Aeronautical Information Management.
 [^9-3]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 9a
@@ -623,7 +623,7 @@ Les demandes visant à établir des zones réservées doivent:
 
 <sup>2</sup> La zone réservée est établie lorsqu’elle est conforme aux objectifs et aux exigences du PSIA et que l’intérêt à laisser libre des terrains pour une installation d’aérodrome prime tout autre intérêt.
 
-### Section 6 Projets de construction non soumis à approbation et installations annexes****
+### Section 6 Projets de construction non soumis à approbation et installations annexes
 
 [^tit2-chap1-sec6-1]
 
@@ -680,7 +680,7 @@ L’al. 1 ne s’applique pas aux projets de construction:
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2008, en vigueur depuis le 15 mars 2008 ([RO 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
 [^29-2]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### Section 7**** Services d’assistance en escale
+### Section 7 Services d’assistance en escale
 
 [^tit2-chap1-sec7-1]
 
@@ -708,7 +708,7 @@ L’organisation et l’exploitation des services d’assistance en escale sont 
 [^29b-1]: Voir note relative à l’art. 29*a.*
 [^29b-2]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 (RO **2018** 3849).
 
-### Section 8**** Chef d’aérodrome
+### Section 8 Chef d’aérodrome
 
 [^tit2-chap1-sec8-1]
 
@@ -793,7 +793,7 @@ L’organisation et l’exploitation des services d’assistance en escale sont 
 
 [^29i-1]: [RS 748.112.11](https://fedlex.data.admin.ch/eli/cc/2007/720)
 
-### Chapitre 2**** Utilisation civile d’aérodromes militaires
+### Chapitre 2 Utilisation civile d’aérodromes militaires
 
 [^tit2-chap2-1]
 
@@ -803,11 +803,12 @@ L’organisation et l’exploitation des services d’assistance en escale sont 
 
 **Catégories d’utilisation des aérodromes militaires par l’aviation civile**[^30-1]
 
-<sup>1</sup> Un aérodrome militaire est réputé être fréquemment utilisé par l’aviation civile lorsque les mouvements d’aéronefs civils représentent plus de 10 % des mouvements d’aéronefs militaires ou plus de 1000 mouvements de vols à moteur par an. Le calcul se base sur la moyenne des mouvements d’aéronefs des trois dernières années civiles.
+<sup>1</sup> Un aérodrome militaire est réputé être fréquemment utilisé par l’aviation civile lorsque les mouvements d’aéronefs civils représentent plus de 10 % des mouvements d’aéronefs militaires ou plus de 1000 mouvements de vols à moteur par an. Le calcul se base sur la moyenne des mouvements d’aéronefs des trois dernières années civiles. Les vols de recherche, de sauvetage, de police et les vols des douanes ne sont pas comptabilisés.[^30-2]
 
 <sup>2</sup> Dans les autres cas, les aérodromes militaires sont réputés être utilisés occasionnellement par l’aviation civile.
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^30-2]: Phrase introduite par le ch. I de l’O du 26 avr. 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 207](https://fedlex.data.admin.ch/eli/oc/2023/207)).
 
 #### Art. 30a
 
@@ -1059,13 +1060,13 @@ Les terrains d’atterrissage des hôpitaux et autres terrains d’atterrissage 
 
 [^5758-1]: Abrogés par l’annexe ch. 5 de l’O du 14 mai 2014 sur les atterrissages en campagne, avec effet au 1<sup>er</sup> sept. 2014 ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
 
-## Titre 5 Obstacles à la navigation aérienne et zones de sécurité****
+## Titre 5 Obstacles à la navigation aérienne et zones de sécurité
 
 [^tit5-1]
 
 [^tit5-1]: Anciennement avant l’art. 59. Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### Chapitre 1**** Dispositions générales
+### Chapitre 1 Dispositions générales
 
 [^tit5-chap1-1]
 
@@ -1145,13 +1146,13 @@ Les autorités cantonales et communales, les propriétaires d’obstacles et les
 
 [^62a-1]: Abrogé par le ch. I de l’O du 17 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### Chapitre 2 Autorisation et enregistrement obligatoires****
+### Chapitre 2 Autorisation et enregistrement obligatoires
 
 [^tit5-chap2-1]
 
 [^tit5-chap2-1]: Anciennement avant l’art. 63. Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### Section 1**** Obstacles à la navigation aérienne soumis à autorisation
+### Section 1 Obstacles à la navigation aérienne soumis à autorisation
 
 [^tit5-chap2-sec1-1]
 
@@ -1225,7 +1226,7 @@ L’OFAC détermine par voie de décision, en accord avec le DDPS:
 
 [^65-1]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### Section 2**** Obstacles à la navigation aérienne soumis à enregistrement
+### Section 2 Obstacles à la navigation aérienne soumis à enregistrement
 
 [^tit5-chap2-sec2-1]
 
@@ -1265,7 +1266,7 @@ Outre l’enregistrement obligatoire visé à l’art. 65*a*, l’OFAC peut exig
 
 <sup>2</sup> Dans les cas visés à l’al. 1 et par dérogation à l’art. 65*b*, l’OFAC peut décider, pour des raisons de sécurité, d’ordonner d’autres mesures de sécurité.
 
-### Chapitre 3 Autres responsabilités des propriétaires d’obstacles à la navigation aérienne****
+### Chapitre 3 Autres responsabilités des propriétaires d’obstacles à la navigation aérienne
 
 [^tit5-chap3-1]
 
@@ -1376,7 +1377,7 @@ Le plan de la zone de sécurité est publié par les cantons concernés et mis �
 
 [^73-1]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-## Titre 5*a***** Disposition pénale
+## Titre 5*a* Disposition pénale
 
 [^tit5a-1]
 
@@ -1464,13 +1465,13 @@ Les autorités compétentes rendent dans les deux ans suivant l’entrée en vig
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1995.
 
-## Disposition finale de la modification du 12 avril 2000****
+## Disposition finale de la modification du 12 avril 2000
 
 [^u1-1]
 
 [^u1-1]: [RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218). Abrogée par le ch. I 2 de l’O du 4 mars 2011, avec effet au 1<sup>er</sup> avr. 2011 ([RO 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. *29b*)
 
@@ -1492,7 +1493,7 @@ Les articles auxquels il est fait référence dans la présente annexe sont ceux
 - 10\. L’exploitant de l’aéroport doit assurer l’accès aux installations aéroportuaires conformément à l’art. 16.
 - 11\. Les décisions de l’exploitant de l’aéroport selon les art. 7, par. 2, 11 et 16 peuvent, conformément à l’art. 21, être soumises à l’OFAC, qui rend une décision formelle.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 65*b*)
 

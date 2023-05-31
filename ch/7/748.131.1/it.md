@@ -4,11 +4,11 @@ title: "Ordinanza del 23 novembre 1994 sull'infrastruttura aeronautica (OSIA)"
 short: OSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050"
 language: it
-version: 2022-05-01
+version: 2023-06-01
 adopted: 1994-11-23
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20220501/it/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20220501-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20220501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20230601/it/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20230601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20220501/it"
 
 (OSIA)
 
-del 23 novembre 1994 (Stato 1° maggio 2022)
+del 23 novembre 1994 (Stato 1° giugno 2023)
 
 Il Consiglio federale svizzero,
 
@@ -113,7 +113,7 @@ Nella presente ordinanza s’intendono per:
 
 ## Titolo secondo: Aerodromi
 
-### Capitolo 1:**** Gestione e costruzione
+### Capitolo 1: Gestione e costruzione
 
 [^tit2-chap1-1]
 
@@ -223,7 +223,7 @@ Chiunque voglia ottenere una concessione per l’esercizio deve presentare una d
 
 <sup>2</sup> L’autorità che rilascia la concessione può chiedere dati dettagliati riguardanti la garanzia del finanziamento se sussistono dubbi fondati sulla capacità del richiedente di finanziare impianto ed esercizio dell’aeroporto.
 
-[^11-1]: Nuova espressione giusta il n. I 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^11-1]: Nuova espr. giusta il n. I 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^11-2]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 [^11-3]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
@@ -621,7 +621,7 @@ Le domande intese a stabilire zone riservate devono:
 
 <sup>2</sup> Le zone riservate sono stabilite se soddisfano gli obiettivi e le esigenze del PSIA e se l’interesse di lasciar libero un fondo per installarvi un aerodromo prevale su tutti gli altri interessi.
 
-### Sezione 6: Progetti di costruzione non soggetti ad approvazione e impianti accessori****
+### Sezione 6: Progetti di costruzione non soggetti ad approvazione e impianti accessori
 
 [^tit2-chap1-sec6-1]
 
@@ -678,7 +678,7 @@ Il capoverso 1 non si applica ai progetti di costruzione:
 [^29-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
 [^29-2]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### Sezione 7:**** Servizi di assistenza a terra
+### Sezione 7: Servizi di assistenza a terra
 
 [^tit2-chap1-sec7-1]
 
@@ -706,7 +706,7 @@ Per l’organizzazione e l’esercizio dei servizi di assistenza a terra vale la
 [^29b-1]: Vedi nota a piè di pagina all’art. 29*a.*
 [^29b-2]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### Sezione 8:**** Capo d’aerodromo
+### Sezione 8: Capo d’aerodromo
 
 [^tit2-chap1-sec8-1]
 
@@ -791,7 +791,7 @@ Per l’organizzazione e l’esercizio dei servizi di assistenza a terra vale la
 
 [^29i-1]: [RS 748.112.11](https://fedlex.data.admin.ch/eli/cc/2007/720)
 
-### Capitolo 2:**** Uso civile di aerodromi militari
+### Capitolo 2: Uso civile di aerodromi militari
 
 [^tit2-chap2-1]
 
@@ -801,11 +801,12 @@ Per l’organizzazione e l’esercizio dei servizi di assistenza a terra vale la
 
 **Categorie della coutenza di un aerodromo militare a fini civili**[^30-1]
 
-<sup>1</sup> La coutenza di un aerodromo militare a fini civili è da ritenersi regolare se i movimenti di volo civili superano il dieci per cento di quelli militari oppure i 1000 movimenti di volo a motore l’anno. Determinante per il calcolo è la media del numero di movimenti effettuati negli ultimi tre anni civili.
+<sup>1</sup> La coutenza di un aerodromo militare a fini civili è da ritenersi regolare se i movimenti di volo civili superano il dieci per cento di quelli militari oppure i 1000 movimenti di volo a motore l’anno. Determinante per il calcolo è la media del numero di movimenti effettuati negli ultimi tre anni civili. I voli di ricerca, di salvataggio e di polizia nonché i voli del servizio doganale non sono conteggiati.[^30-2]
 
 <sup>2</sup> I restanti casi sono da ritenersi coutenza occasionale a fini civili.
 
 [^30-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^30-2]: Terzo per. introdotto dal n. I dell’O del 26 apr. 2023, in vigore dal 1° giu. 2023 ([RU 2023 207](https://fedlex.data.admin.ch/eli/oc/2023/207)).
 
 #### Art. 30a
 
@@ -1057,13 +1058,13 @@ Le aree d’atterraggio in prossimità degli ospedali nonché le altre aree d’
 
 [^5758-1]: Abrogati dall’all. n. 5 dell’O del 14 mag. 2014 sugli atterraggi esterni, con effetto dal 1° set. 2014 ([RU 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
 
-## Titolo quinto: Ostacoli alla navigazione aerea e zone di sicurezza****
+## Titolo quinto: Ostacoli alla navigazione aerea e zone di sicurezza
 
 [^tit5-1]
 
 [^tit5-1]: Originario avanti l’art. 59. Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### Capitolo 1:**** Disposizioni generali
+### Capitolo 1: Disposizioni generali
 
 [^tit5-chap1-1]
 
@@ -1143,13 +1144,13 @@ Le autorità cantonali e comunali nonché i proprietari di ostacoli e gli eserce
 
 [^62a-1]: Abrogato dal n. I dell’O del 17 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### Capitolo 2: Obblighi di autorizzazione e di registrazione****
+### Capitolo 2: Obblighi di autorizzazione e di registrazione
 
 [^tit5-chap2-1]
 
 [^tit5-chap2-1]: Originario avanti l’art. 63. Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### Sezione 1: Ostacoli alla navigazione aerea sottoposti all’obbligo di autorizzazione****
+### Sezione 1: Ostacoli alla navigazione aerea sottoposti all’obbligo di autorizzazione
 
 [^tit5-chap2-sec1-1]
 
@@ -1223,7 +1224,7 @@ L’UFAC, d’intesa con il DDPS, stabilisce, mediante una decisione:
 
 [^65-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-### Sezione 2:**** Ostacoli alla navigazione aerea sottoposti all’obbligo di registrazione
+### Sezione 2: Ostacoli alla navigazione aerea sottoposti all’obbligo di registrazione
 
 [^tit5-chap2-sec2-1]
 
@@ -1263,7 +1264,7 @@ L’UFAC può esigere che il proprietario, in aggiunta all’articolo 65*a*, eff
 
 <sup>2</sup> Nei casi di cui al capoverso 1 l’UFAC può, per ragioni di sicurezza e in deroga all’articolo 65*b*, disporre misure di sicurezza diverse o supplementari.
 
-### Capitolo 3: Ulteriori obblighi dei proprietari di ostacoli alla navigazione aerea****
+### Capitolo 3: Ulteriori obblighi dei proprietari di ostacoli alla navigazione aerea
 
 [^tit5-chap3-1]
 
@@ -1374,7 +1375,7 @@ Il piano delle zone di sicurezza deve essere pubblicato dal Cantone interessato 
 
 [^73-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
-## Titolo quinto *a*:**** Disposizioni penali
+## Titolo quinto *a*: Disposizioni penali
 
 [^tit5a-1]
 
@@ -1462,13 +1463,13 @@ Le autorità competenti emanano, entro due anni dall’entrata in vigore della m
 
 La presente ordinanza entra in vigore il 1° gennaio 1995.
 
-## Disposizione finale della modifica del 12 aprile 2000****
+## Disposizione finale della modifica del 12 aprile 2000
 
 [^u1-1]
 
 [^u1-1]: [RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218). Abrogata dal n. I 2 dell’O del 4 mar. 2011, con effetto dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 29*b*)
 
@@ -1490,7 +1491,7 @@ Nel presente allegato i rimandi a determinati articoli sono riferiti alla Dirett
 - 10\. L’accesso agli impianti aeroportuali ai sensi dell’articolo 16 deve essere garantito dall’esercente dell’aeroporto.
 - 11\. Secondo l’articolo 7 capoversi 2, 11 e 16 le decisioni dell’esercente dell’aeroporto possono essere inoltrate all’UFAC ai sensi dell’articolo 21, il quale emana una decisione.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 65*b*)
 
