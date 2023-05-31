@@ -4,7 +4,7 @@ number: "614.11.1.1"
 title: ARRÊTÉ du 07.02.2000 sur la communication publique des rapports du Contrôle cantonal des finances (AComCCF)
 short: AComCCF
 language: fr
-version: 2017-12-01
+version: 2023-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/614.11.1.1?id=8ec35673-9ae7-4e43-9d8a-fd31c2739074"
 ---
 
@@ -52,15 +52,17 @@ arrête
 
 **[^2-1]**
 
-<sup>1</sup> Dans le cas où il s'agit d'un rapport du CCF établi à la suite d'un mandat spécial conféré par la Commission des finances, la Commission de gestion ou la Commission de haute surveillance du Tribunal cantonal, la décision de le diffuser auprès des médias et du public en tout ou partie, respectivement de ne pas le diffuser, temporairement ou à titre définitif, relève de la compétence de la commission mandante et du Conseil d'Etat, qui coordonnent leurs décisions et déterminent conjointement les modalités de la communication.
+<sup>1</sup> Dans le cas où il s'agit d'un rapport du CCF établi à la suite d'un mandat spécial conféré par la Commission des finances, la Commission de gestion ou la Commission chargée de la haute surveillance sur la justice, la décision de le diffuser auprès des médias et du public en tout ou partie, respectivement de ne pas le diffuser, temporairement ou à titre définitif, relève de la compétence de la commission mandante et du Conseil d'Etat, qui coordonnent leurs décisions et déterminent conjointement les modalités de la communication.
 
-[^2-1]: Modif. 1 du 08.11.2017: Modification Al. 1; entrée en vigueur au 01.12.2017 · Modif. 2 du 24.05.2023: Modification Al. 1; entrée en vigueur au 01.06.2023; Introduction Art. 4, Al. 2; entrée en vigueur au 01.06.2023
+[^2-1]: Modif. 1 du 08.11.2017: Modification Al. 1; entrée en vigueur au 01.12.2017 · Modif. 2 du 24.05.2023: Modification Al. 1; entrée en vigueur au 01.06.2023
 
 #### Art. 4
 
 **[^3-1]**
 
 <sup>1</sup> Les rapports ou parties de rapports touchant l'Ordre judiciaire ne donnent pas lieu à diffusion auprès des médias et du public sans l'accord du président du Tribunal cantonal.
+
+<sup>2</sup> Les rapports ou parties de rapports touchant le Ministère public ne donnent pas lieu à diffusion auprès des médias et du public sans l'accord du Procureur général.
 
 [^3-1]: Modif. 1 du 08.11.2017: Modification Al. 1; entrée en vigueur au 01.12.2017 · Modif. 2 du 24.05.2023: Introduction Al. 2; entrée en vigueur au 01.06.2023
 
