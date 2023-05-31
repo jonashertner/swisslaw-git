@@ -3,13 +3,12 @@ canton: BS
 number: "132.150"
 title: Verordnung über den Testbetrieb für die elektronische Stimmabgabe
 language: de
-version: 2019-01-03
-valid_until: 2023-05-31
-version_adopted: 2018-12-04
+version: 2023-06-01
+version_adopted: 2023-05-30
 adopted: 2009-05-26
 in_force: 2009-06-21
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/132.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4588/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5928/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4588/pdf_file"
 
 Testbetrieb für die elektronische Stimmabgabe: Verordnung | Wahlen und Abstimmungen[^t-1]
 
-Vom 26. Mai 2009 (Stand 3. Januar 2019)
+Vom 26. Mai 2009 (Stand 1. Juni 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -59,9 +58,9 @@ beschliesst:
 
 #### § 4
 
-**Vote électronique-System**
+**System zur elektronischen Stimmabgabe**
 
-<sup>1</sup> Zwecks Durchführung der elektronischen Stimmabgabe schliesst der Kanton Basel-Stadt einen Dienstleistungsvertrag mit einer Anbieterin oder einem Anbieter ab, die beziehungsweise der über ein nach bundesrechtlichen Vorschriften zertifiziertes Vote électronique-System verfügt.
+<sup>1</sup> Zwecks Durchführung der elektronischen Stimmabgabe schliesst der Kanton Basel-Stadt einen Dienstleistungsvertrag mit einer Anbieterin oder einem Anbieter ab, die bzw. der über ein nach bundesrechtlichen Vorschriften geprüftes System verfügt.
 
 <sup>2</sup> …
 
@@ -97,7 +96,7 @@ beschliesst:
 
 <sup>1</sup> Bei der elektronischen Stimmabgabe üben die Stimmberechtigten ihr Stimmrecht auf einer Internetseite zur Stimmabgabe aus.
 
-<sup>2</sup> Die Kontrolle der Stimmberechtigung im Vote électronique-System wird sichergestellt, indem sich die Stimmberechtigten mittels persönlicher Geheimcodes authentifizieren.
+<sup>2</sup> Die Kontrolle der Stimmberechtigung im System wird sichergestellt, indem sich die Stimmberechtigten mittels persönlicher Codes authentifizieren.
 
 <sup>3</sup> Der Stimmrechtsausweis kann zusätzliche Sicherheitselemente beinhalten.
 
@@ -105,11 +104,14 @@ beschliesst:
 
 **Wahlkomitee**
 
-<sup>1</sup> Das Wahlkomitee besteht aus den Beauftragten des Regierungsrates für Wahlen und Abstimmungen und aus Mitarbeitenden der Staatskanzlei. Es hat folgende Aufgaben:
+<sup>1</sup> Das Wahlkomitee besteht aus den Beauftragten des Regierungsrates für Wahlen und Abstimmungen und aus Mitarbeitenden der Staatskanzlei. Es hat insbesondere folgende Aufgaben:
 
-- a) Verschlüsselung und Bereitstellung der elektronischen Urne
-- b) Abgabe der Kontrollstimmen
-- c) Entschlüsselung der Urne und Überprüfung der Kontrollstimmen am Abstimmungssonntag.
+- a) Prüfung der Korrektheit der Version der Verifikationssoftware;
+- b) Überprüfung des Urnengangs anhand der Verifikationssoftware;
+- c) Definition und Eingabe eines komplexen Passwortes für die Ver- und Entschlüsselung der Stimmen;
+- d) Abgabe mindestens einer Kontrollstimme und Überprüfung ihrer Korrektheit am Abstimmungswochenende;
+- e) bei Bedarf Beauftragung einer Untersuchung;
+- f) Bestätigung mit Unterschrift, dass die Abläufe korrekt durchgeführt wurden.
 
 #### § 9
 
@@ -131,17 +133,17 @@ beschliesst:
 
 **Wahrung des Stimmgeheimnisses**
 
-<sup>1</sup> Die abgegebenen Stimmen werden zum Zeitpunkt der Stimmabgabe durch das Vote électronique-System von den personenbezogenen Daten so getrennt, dass sie nicht wieder zusammengeführt werden können.
+<sup>1</sup> Die abgegebenen Stimmen werden zum Zeitpunkt der Stimmabgabe durch das System von den personenbezogenen Daten so getrennt, dass sie nicht wieder zusammengeführt werden können.
 
 #### § 12
 
 **Kontrolle des Doppelstimmverbots**
 
-<sup>1</sup> Jede elektronische, briefliche oder persönliche Stimmabgabe wird im Vote électronique-System registriert.
+<sup>1</sup> Jede elektronische, briefliche oder persönliche Stimmabgabe wird im System registriert.
 
 <sup>2</sup> Die Registrierung der elektronischen Stimmabgabe erfolgt automatisiert, diejenige der brieflichen oder persönlichen Stimmabgabe manuell.
 
-<sup>3</sup> Die im Vote électronique-System zuerst registrierte Stimmabgabe wird für gültig erklärt. Alle später registrierten Stimmabgaben der gleichen Person bleiben unberücksichtigt.
+<sup>3</sup> Die im System zuerst registrierte Stimmabgabe wird für gültig erklärt. Alle später registrierten Stimmabgaben der gleichen Person bleiben unberücksichtigt.
 
 #### § 13
 
