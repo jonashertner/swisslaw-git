@@ -3,18 +3,18 @@ sr: "946.203"
 title: "Verordnung vom 2. Oktober 2000 über Massnahmen gegenüber Personen und Organisationen mit Verbindungen zu Usama bin Laden, der Gruppierung «Al-Qaïda» oder den Taliban"
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/429"
 language: de
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2000-10-02
 in_force: 2000-10-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/429/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2000-429-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/429/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/429/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2000-429-20230601-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/429/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Personen und Organisationen mit Verbindungen zu Usama bin Laden, der Gruppierung «Al-Qaïda» oder den Taliban
 
-vom 2. Oktober 2000 (Stand am 1. Januar 2022)[^t-1]
+vom 2. Oktober 2000 (Stand am 1. Juni 2023)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2002, in Kraft seit 2. Mai 2002 ([AS 2002 1646](https://fedlex.data.admin.ch/eli/oc/2002/256)).
 
@@ -72,11 +72,31 @@ verordnet:
 
 <sup>2</sup> Es ist verboten, den in Anhang 2 erwähnten natürlichen und juristischen Personen, Gruppen und Organisationen Gelder zu überweisen oder Gelder und wirtschaftliche Ressourcen sonst wie direkt oder indirekt zur Verfügung zu stellen.
 
-<sup>3</sup> Das Staatssekretariat für Wirtschaft (SECO) kann Zahlungen für Demokratisierungsprojekte oder humanitäre Massnahmen von den Bestimmungen der Absätze 1 und 2 ausnehmen.
+<sup>3</sup>
 
-<sup>4</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen zum Schutze schweizerischer Interessen oder zur Vermeidung von Härtefällen ausnahmsweise bewilligen.
+Das Verbot nach Absatz 2 gilt nicht, wenn:
+
+- a. die Überweisung von Geldern oder das direkte oder indirekte Zurverfügungstellen von Geldern oder wirtschaftlichen Ressourcen an auf der Sanktionsliste[^3-2] gemäss der Resolution 1988 (2011)[^3-3] des Sicherheitsrats der Vereinten Nationen aufgeführte Personen, Unternehmen und Organisationen erforderlich ist zur Erbringung humanitärer Hilfe oder zur Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse in Afghanistan;
+- b.
+
+  die Überweisung von Geldern oder das direkte oder indirekte Zurverfügungstellen von Geldern oder wirtschaftlichen Ressourcen an auf der Sanktionsliste[^3-4] gemäss den Resolutionen 1267 (1999), 1989 (2011) und 2253 (2015)[^3-5] des Sicherheitsrats der Vereinten Nationen aufgeführte Personen, Unternehmen und Organisationen erforderlich ist zur Erbringung humanitärer Hilfe oder zur Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+
+  - 1\. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen,
+  - 2\. internationale Organisationen,
+  - 3\. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen,
+  - 4\. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen,
+  - 5\. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Ziffern 1–4 genannten Organisationen, soweit sie in dieser Eigenschaft handeln,
+  - 6\. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.[^3-6]
+
+<sup>4</sup> Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen zur Wahrung schweizerischer Interessen oder zur Vermeidung von Härtefällen ausnahmsweise bewilligen.[^3-7]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 18. Mai 2004, in Kraft seit 20. Mai 2004 ([AS 2004 2579](https://fedlex.data.admin.ch/eli/oc/2004/308)).
+[^3-2]: Die Sanktionsliste ist auf Französisch und Englisch abrufbar unter [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions 1988 &gt; Matériaux relatifs à la liste de sanctions.
+[^3-3]: Die Resolution ist auf Französisch und Englisch abrufbar unter [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^3-4]: Die Sanktionsliste ist auf Französisch und Englisch abrufbar unter [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions concernant l’EIIL (Daesh) et Al-Qaida &gt; Matériaux relatifs à la liste de sanctions.
+[^3-5]: Die Resolutionen sind auf Französisch und Englisch abrufbar unter [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^3-6]: Fassung gemäss Ziff. I 1 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-7]: Fassung gemäss Ziff. I 1 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 4
 
@@ -192,7 +212,7 @@ Anhang 2[^t-3]
 
 \2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: Die Liste ist im Internet unter folgenden Adressen abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; ISIL (Da'esh) & Al-Qaida Sanctions Committee &gt; Sanctions List Materials, sowie www.un.org/en/sc &gt; Subsidiary Organs &gt; Sanctions &gt; 1988 Sanctions Committee &gt; Sanctions List Materials.
+[^annex2-lvlu1-1]: Die Liste ist im Internet unter folgenden Adressen abrufbar: [https://www.un.org/securitycouncil/](https://www.un.org/securitycouncil/) &gt; Subsidiary Organs &gt; Sanctions &gt; ISIL (Da'esh) & Al-Qaida Sanctions Committee &gt; Sanctions List Materials, sowie [https://www.un.org/securitycouncil/](https://www.un.org/securitycouncil/) &gt; Subsidiary Organs &gt; Sanctions &gt; 1988 Sanctions Committee &gt; Sanctions List Materials.
 [^annex2-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
 
 Anhang 3[^t-4]

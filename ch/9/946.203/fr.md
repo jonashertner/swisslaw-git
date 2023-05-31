@@ -3,18 +3,18 @@ sr: "946.203"
 title: "Ordonnance du 2 octobre 2000 instituant des mesures à l'encontre de personnes et entités liées à Oussama ben Laden, au groupe «Al-Qaïda» ou aux Taliban"
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/429"
 language: fr
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2000-10-02
 in_force: 2000-10-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/429/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-429-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/429/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/429/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2000-429-20230601-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/429/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de personnes et entités liées à Oussama ben Laden, au groupe «Al-Qaïda» ou aux Taliban
 
-du 2 octobre 2000 (État le 1<sup>er</sup> janvier 2022)[^t-1]
+du 2 octobre 2000 (État le 1<sup>er</sup> juin 2023)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2002, en vigueur depuis le 2 mai 2002 ([RO 2002 1646](https://fedlex.data.admin.ch/eli/oc/2002/256)).
 
@@ -70,13 +70,34 @@ arrête:
 
 <sup>1</sup> Les avoirs et les ressources économiques appartenant aux personnes physiques et morales, aux groupes ou aux entités cités à l’annexe 2 ou contrôlés par ces derniers sont gelés.
 
-<sup>2</sup> Il est interdit de fournir des fonds aux personnes physiques et morales aux groupes ou aux entités cités à l’annexe 2 ou de mettre à leur disposition, directement ou indirectement, des fonds ou des ressources économiques.
+<sup>2</sup> Il est interdit de fournir des avoirs aux personnes physiques et morales aux groupes ou aux entités cités à l’annexe 2 ou de mettre à leur disposition, directement ou indirectement, des avoirs ou des ressources économiques.[^3-2]
 
-<sup>3</sup> Le Secrétariat d’État à l’économie (SECO) peut exempter les paiements liés à des projets en faveur de la démocratisation ou à des activités humanitaires des interdictions prescrites aux al. 1 et 2.
+<sup>3</sup>
 
-<sup>4</sup> Le SECO peut, après avoir consulté les offices compétents du Département fédéral des affaires étrangères et du Département fédéral des finances, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin de protéger des intérêts suisses ou de prévenir des cas de rigueur.
+L’interdiction prévue à l’al. 2 ne s’applique pas si:
+
+- a. la fourniture des avoirs ou la mise à disposition, directe ou indirecte, des avoirs ou des ressources économiques aux personnes, entreprises et entités figurant sur la liste des sanctions[^3-3] en vertu de la résolution 1988 (2011)[^3-4] du Conseil de sécurité des Nations Unies est nécessaire à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes en Afghanistan;
+- b.
+
+  la fourniture des avoirs ou la mise à disposition, directe ou indirecte, des avoirs ou des ressources économiques aux personnes, entreprises et entités figurant sur la liste des sanctions[^3-5] en vertu des résolutions 1267 (1999), 1989 (2011) et 2253 (2015)[^3-6] du Conseil de sécurité des Nations Unies est nécessaire à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes par:
+
+  - 1\. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
+  - 2\. des organisations internationales;
+  - 3\. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
+  - 4\. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
+  - 5\. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d, lorsqu’ils agissent en cette qualité;
+  - 6\. tous les autres acteurs tels que déterminés par le comité compétent du Conseil de sécurité des Nations Unies.[^3-7]
+
+<sup>4</sup> Le Secrétariat d’État à l’économie (SECO) peut, après consultation des offices compétents du Département fédéral des affaires étrangères et du Département fédéral des finances, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin de sauvegarder les intérêts de la Suisse ou de prévenir des cas de rigueur.[^3-8]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 18 mai 2004, en vigueur depuis le 20 mai 2004 ([RO 2004 2579](https://fedlex.data.admin.ch/eli/oc/2004/308)).
+[^3-2]: Nouvelle teneur selon le ch. I 1 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-3]: La liste des sanctions peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions 1988 &gt; Matériaux relatifs à la liste de sanctions.
+[^3-4]: La résolution du Conseil de sécurité des Nations Unies peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^3-5]: La liste des sanctions peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions concernant l’EIIL (Daesh) et Al-Qaida &gt; Matériaux relatifs à la liste de sanctions.
+[^3-6]: La résolution du Conseil de sécurité des Nations Unies peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^3-7]: Nouvelle teneur selon le ch. I 1 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-8]: Nouvelle teneur selon le ch. I 1 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 4
 
@@ -192,8 +213,8 @@ Annexe 2[^t-3]
 
 \2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex2-lvlu1-2].
 
-[^annex2-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant l’EIIL (Daesh) et Al-Qaida &gt; Matériaux relatifs à la liste de sanctions; www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1988 &gt; Matériaux relatifs à la liste de sanctions.
-[^annex2-lvlu1-2]: La banque de données SESAM est librement accessible sur Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annex2-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: [www.un.org/fr/sc](http://www.un.org/fr/sc) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant l’EIIL (Daesh) et Al-Qaida &gt; Matériaux relatifs à la liste de sanctions; [www.un.org/fr/sc](http://www.un.org/fr/sc) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1988 &gt; Matériaux relatifs à la liste de sanctions.
+[^annex2-lvlu1-2]: La banque de données SESAM est librement accessible sur Internet: [www.seco.admin.ch](http://www.seco.admin.ch/) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
 Annexe 3[^t-4]
 

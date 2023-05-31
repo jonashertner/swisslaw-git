@@ -3,18 +3,18 @@ sr: "946.203"
 title: "Ordinanza del 2 ottobre 2000 che istituisce provvedimenti nei confronti delle persone e delle organizzazioni legate a Osama bin Laden, al gruppo «Al-Qaïda» o ai Taliban"
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/429"
 language: it
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2000-10-02
 in_force: 2000-10-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/429/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2000-429-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/429/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/429/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2000-429-20230601-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/429/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti delle persone e delle organizzazioni legate a Osama bin Laden, al gruppo «Al-Qaïda» o ai Taliban
 
-del 2 ottobre 2000 (Stato 1° gennaio 2022)[^t-1]
+del 2 ottobre 2000 (Stato 1° giugno 2023)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2002, in vigore dal 2 mag. 2002 ([RU 2002 1646](https://fedlex.data.admin.ch/eli/oc/2002/256)).
 
@@ -36,8 +36,6 @@ ordina:
 <sup>2</sup> ...[^1-3]
 
 <sup>3</sup> È vietata la fornitura, la vendita e la mediazione di consulenza tecnica, assistenza o istruzione legate alle attività militari alle persone fisiche e giuridiche, ai gruppi o alle organizzazioni menzionati nell’allegato 2.[^1-4]
-
-<sup>3</sup> È vietata la fornitura, la vendita e la mediazione di consulenza tecnica, assistenza o istruzione legate alle attività militari delle persone armate poste sotto il controllo dei Taliban.
 
 <sup>4</sup> I capoversi 1 e 3 si applicano soltanto per quanto non siano applicabili la legge federale del 13 dicembre 1996[^1-5] sul controllo dei beni a duplice impiego e la legge del 13 dicembre 1996[^1-6] sul materiale bellico con le relative ordinanze d’esecuzione.
 
@@ -72,27 +70,48 @@ ordina:
 
 <sup>1</sup> Gli averi e le risorse economiche appartenenti alle persone fisiche e giuridiche, ai gruppi o alle organizzazioni menzionati nell’allegato 2 o controllati da questi ultimi sono bloccati.
 
-<sup>2</sup> È vietato trasferire fondi alle persone fisiche e giuridiche, ai gruppi o alle organizzazioni menzionati nell’allegato 2 o mettere, direttamente o indirettamente, fondi o risorse economiche a loro disposizione.
+<sup>2</sup> È vietato trasferire averi alle persone fisiche e giuridiche, ai gruppi o alle organizzazioni menzionati nell’allegato 2 o mettere, direttamente o indirettamente, averi o risorse economiche a loro disposizione.[^3-2]
 
-<sup>3</sup> La Segreteria di stato dell’economia (SECO)[^3-2] può esentare i pagamenti per progetti di democratizzazione o attività umanitarie dai divieti di cui ai capoversi 1 e 2.
+<sup>3</sup>
 
-<sup>4</sup> D’intesa con gli uffici competenti del Dipartimento federale degli affari esteri e del Dipartimento delle finanze, la SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati nonché la liberazione delle risorse economiche bloccate se servono a tutelare interessi svizzeri o a prevenire casi di rigore.
+Il divieto di cui al capoverso 2 non si applica quando:
+
+- a. il trasferimento di averi o la messa a disposizione, diretta o indiretta, di averi o risorse economiche alle persone, imprese e organizzazioni incluse nella lista di sanzioni[^3-3] secondo la risoluzione 1988 (2011)[^3-4] del Consiglio di sicurezza delle Nazioni Unite è necessario per la fornitura di aiuti umanitari o per il sostegno di altre attività volte a soddisfare i bisogni umani fondamentali in Afghanistan;
+- b.
+
+  il trasferimento di averi o la messa a disposizione, diretta o indiretta, di averi o risorse economiche alle persone, imprese e organizzazioni incluse nella lista di sanzioni[^3-5] secondo le risoluzioni 1267 (1999), 1989 (2011) e 2253 (2015)[^3-6] del Consiglio di sicurezza delle Nazioni Unite è necessario per la fornitura di aiuti umanitari o per il sostegno di altre attività volte a soddisfare i bisogni umani fondamentali da parte di:
+
+  - 1\. Organizzazione delle Nazioni Unite, anche per il tramite dei suoi programmi, fondi e altri enti e organismi, nonché sue agenzie specializzate e organizzazioni collegate,
+  - 2\. organizzazioni internazionali,
+  - 3\. organizzazioni umanitarie aventi status di osservatore presso l’Assemblea generale delle Nazioni Unite e membri di tali organizzazioni,
+  - 4\. organizzazioni non governative finanziate a livello bilaterale o multilaterale che partecipano ai piani di risposta umanitaria delle Nazioni Unite, ai piani di risposta per i rifugiati, ad altri appelli delle Nazioni Unite o a strutture umanitarie coordinate dall’Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA),
+  - 5\. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui ai numeri 1–4 nella misura in cui agiscono in tale veste,
+  - 6\. ogni altro soggetto designato dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^3-7]
+
+<sup>4</sup> D’intesa con gli uffici competenti del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze, la Segreteria di Stato dell’economia (SECO) può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione di risorse economiche bloccate se servono a tutelare interessi svizzeri o a prevenire casi di rigore.[^3-8]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 20 mag. 2004 ([RU 2004 2579](https://fedlex.data.admin.ch/eli/oc/2004/308)).
-[^3-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-2]: Nuovo testo giusta il n. I 1 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-3]: La lista delle sanzioni è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions 1988 &gt; Matériaux relatifs à la liste de sanctions.
+[^3-4]: La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^3-5]: La lista delle sanzioni è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions concernant l’EIIL (Daesh) et Al-Qaida &gt; Matériaux relatifs à la liste de sanctions.
+[^3-6]: Le risoluzioni sono consultabili in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^3-7]: Nuovo testo giusta il n. I 1 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-8]: Nuovo testo giusta il n. I 1 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 4
 
 **Dichiarazione obbligatoria**
 
-<sup>1</sup> Le persone e le istituzioni che detengono o gestiscono averi che si deve presumere siano soggetti al blocco di cui all’articolo 3 capoverso 1 devono dichiararli senza indugio alla SECO.
+<sup>1</sup> Le persone e le istituzioni che detengono o gestiscono averi che si deve presumere siano soggetti al blocco di cui all’articolo 3 capoverso 1 devono dichiararli senza indugio alla SECO[^4-1].
 
-<sup>2</sup> Le persone e le istituzioni che sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 3 capoverso 1 devono dichiararli senza indugio alla SECO.[^4-1]
+<sup>2</sup> Le persone e le istituzioni che sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 3 capoverso 1 devono dichiararli senza indugio alla SECO.[^4-2]
 
-<sup>3</sup> La dichiarazione deve indicare il nome del beneficiario, l’oggetto e l’importo degli averi e delle risorse economiche bloccati.[^4-2]
+<sup>3</sup> La dichiarazione deve indicare il nome del beneficiario, l’oggetto e l’importo degli averi e delle risorse economiche bloccati.[^4-3]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 20 mag. 2004 ([RU 2004 2579](https://fedlex.data.admin.ch/eli/oc/2004/308)).
-[^4-2]: Introdotto dal n. I dell’O del 18 mag. 2004, in vigore dal 20 mag. 2004 ([RU 2004 2579](https://fedlex.data.admin.ch/eli/oc/2004/308)).
+[^4-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-2]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 20 mag. 2004 ([RU 2004 2579](https://fedlex.data.admin.ch/eli/oc/2004/308)).
+[^4-3]: Introdotto dal n. I dell’O del 18 mag. 2004, in vigore dal 20 mag. 2004 ([RU 2004 2579](https://fedlex.data.admin.ch/eli/oc/2004/308)).
 
 #### Art. 4a
 
@@ -195,8 +214,8 @@ Allegato 2[^t-3]
 
 \2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annex2-lvlu1-2].
 
-[^annex2-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; ISIL (Da’esh) & Al-Qaida Sanctions Committee &gt; Sanctions List Materials, sowie www.un.org/en/sc &gt; Subsidiary Organs &gt; Sanctions &gt; 1988 Sanctions Committee &gt; Sanctions List Materials.
-[^annex2-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all'esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
+[^annex2-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: [www.un.org/en/sc](http://www.un.org/en/sc) &gt; Subsidiary Organs &gt; Sanctions &gt; ISIL (Da’esh) & Al-Qaida Sanctions Committee &gt; Sanctions List Materials, sowie [www.un.org/en/sc](http://www.un.org/en/sc) &gt; Subsidiary Organs &gt; Sanctions &gt; 1988 Sanctions Committee &gt; Sanctions List Materials.
+[^annex2-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: [www.seco.admin.ch](http/www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all'esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
 
 Allegato 3[^t-4]
 
