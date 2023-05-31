@@ -1,25 +1,25 @@
 ---
 canton: BE
 number: "162.16"
-title: Règlement sur la gestion des archives des tribunaux civils et pénaux de première instance et d’instance supérieure ainsi que du Tribunal des mineurs
-short: RArch CPM
+title: "Règlement sur la gestion des archives des tribunaux civils et pénaux de première instance et d’instance supérieure du canton de Berne *"
+short: RArch JCP
 language: fr
-version: 2016-01-01
-valid_until: 2023-05-31
-version_adopted: 2015-11-20
+version: 2023-06-01
+valid_until: 2026-03-31
+version_adopted: 2023-02-14
 adopted: 2010-11-29
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.16"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/922/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2832/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Règlement sur la gestion des archives des tribunaux civils et pénaux de première instance et d’instance supérieure ainsi que du Tribunal des mineurs
+# Règlement sur la gestion des archives des tribunaux civils et pénaux de première instance et d’instance supérieure du canton de Berne
 
-(RArch CPM)
+(RArch JCP)
 
-du 29.11.2010 (état au 01.01.2016)
+du 29.11.2010 (état au 01.06.2023)
 
 La Cour suprême du canton de Berne,
 
@@ -35,7 +35,7 @@ arrête:
 
 **Champ d’application**
 
-<sup>1</sup> Le présent règlement règle la conservation des documents de la Cour suprême, du Tribunal cantonal des mesures de contrainte dans la mesure où des affaires pénales sont concernées, du Tribunal pénal économique, du Tribunal des mineurs, des tribunaux régionaux, des tribunaux régionaux des mesures de contrainte ainsi que des autorités régionales de conciliation.
+<sup>1</sup> Le présent règlement règle la conservation et le versement des documents de la Cour suprême, du Tribunal cantonal des mesures de contrainte dans la mesure où des affaires pénales sont concernées, du Tribunal pénal économique, du Tribunal des mineurs, des tribunaux régionaux, des tribunaux régionaux des mesures de contrainte ainsi que des autorités régionales de conciliation.
 
 <sup>2</sup> La conservation des données du droit du personnel est régie par la législation sur le personnel.
 
@@ -79,15 +79,15 @@ arrête:
 
 <sup>2</sup> Les documents pour lesquels la conservation durable est prescrite sont réputés avoir une valeur archivistique.
 
-<sup>3</sup> Les documents pour lesquels il existe un délai d’archivage ne sont en principe pas réputés avoir une valeur archivistique, sauf s’ils sont évalués dans le cas concret comme en ayant une.
+<sup>3</sup> Les documents pour lesquels il existe un délai d’archivage limité ne sont en principe pas réputés avoir une valeur archivistique, sauf s’ils sont évalués dans le cas concret comme en ayant une.
 
 #### Art. 5
 
-**Plans d’archivage**
+**Plans de classement**
 
-<sup>1</sup> Chaque autorité selon l’article 1, alinéa 1 dresse et tient à jour un plan d’archivage de ses documents. Elle archive ses documents selon ce classement.
+<sup>1</sup> Chaque autorité selon l’article 1, alinéa 1 dresse et tient à jour un plan de classement de ses documents. Elle archive ses documents selon ce classement.
 
-<sup>2</sup> Les plans d’archivage fixent
+<sup>2</sup> Les plans de classement fixent
 
 - a le cadre de classement des documents,
 - b les prescriptions relatives à la gestion des documents,
@@ -100,7 +100,7 @@ arrête:
 
 **Coordination avec les Archives de l’Etat**
 
-<sup>1</sup> Les autorités selon l’article 1, alinéa 1 s’accordent avec les Archives de l’Etat lors de l’élaboration de leurs plans d’archivage et de leurs instruments de recherche afin que les Archives de l’Etat puissent ensuite autant que possible les reprendre intégralement et les utiliser pour trouver les documents.
+<sup>1</sup> Les autorités selon l’article 1, alinéa 1 s’accordent avec les Archives de l’Etat lors de l’élaboration de leurs plans de classement et de leurs instruments de recherche afin que les Archives de l’Etat puissent ensuite autant que possible les reprendre intégralement et les utiliser pour trouver les documents.
 
 #### Art. 7
 
@@ -109,7 +109,7 @@ arrête:
 <sup>1</sup> Lors de l’établissement, de l’administration et de la conservation de leurs documents, les autorités selon l’article 1, alinéa 1 s’assurent que
 
 - a les supports, les encres et les autres outils utilisés résistent au temps et offrent la garantie d’une durée de vie suffisante qui correspond au minimum aux délais de conservation en vigueur;
-- b les dépôts d’archives ferment à clé et que les documents sont protégés des effets nuisibles du feu, de la poussière, de l’humidité et de l’exposition au soleil;
+- b les dépôts d’archives ferment à clé et que les documents sont protégés des effets nuisibles du feu, de la poussière, de l’humidité, des nuisibles et de l’exposition au soleil;
 - c les personnes non autorisées n’ont pas accès aux documents.
 
 <sup>2</sup> Chaque autorité selon l’article 1, alinéa 1 désigne une personne responsable de la gestion des archives courantes.
@@ -148,7 +148,7 @@ arrête:
 
 #### Art. 12
 
-**Dossiers des tribunaux civils de première instance**
+**Dossiers des autorités de conciliation et des tribunaux civils de première instance**
 
 <sup>1</sup> Les délais suivants sont applicables aux dossiers des tribunaux civils de première instance:
 
@@ -160,7 +160,10 @@ arrête:
   - 2 améliorations rurales: 40 ans
   - 3 affaires relevant du droit de la famille: 50 ans
   - 4 non susceptible d'appel: 10 ans
-- c procédure simplifiée: 10 ans
+- c procédure simplifiée:
+  - 1 si susceptible d’appel en principe: 30 ans
+  - 2 susceptible d’appel relevant du droit de la famille: 50 ans
+  - 3 non susceptible d’appel: 10 ans
 - d procédure sommaire:
   - 1 en principe: 10 ans
   - 2 retrait en procédure de faillite: 2 ans
@@ -181,7 +184,7 @@ arrête:
   - 1 jusqu'à 30 ans révolus
   - 2 délinquants ayant commis des infractions avant et après l'âge de 18 ans en cas de mesure ou de peine selon le CP: délai selon le tribunal des adultes (30/50 ans)
 - d dossiers tribunal régional et tribunal cantonal des mesures de contrainte: 10 ans
-- e commissions rogatoires: 10 ans
+- e …
 
 #### Art. 13a
 
@@ -191,11 +194,9 @@ arrête:
 
 <sup>2</sup> Les jugements et les décisions mettant fin au procès de la Cour suprême, y compris les motifs, sont conservés durablement dans un recueil de jugements.
 
-<sup>3</sup> Les tribunaux de première instance et les autorités de conciliation tiennent à jour un recueil de jugements dans lequel tous les jugements motivés sont archivés. Il est possible de renoncer à archiver séparément et à conserver durablement les jugements qui sont rendus dans le cadre d’une procédure sommaire conformément aux articles 248 ss du code de procédure civile suisse du 19 décembre 2008 (CPC)[^13a-1].
+<sup>3</sup> …
 
 <sup>4</sup> La forme de la conservation se base sur les directives des Archives de l’Etat du canton de Berne.
-
-[^13a-1]: RS 272
 
 ## 4 Obligation de proposer les documents et versement
 
@@ -211,17 +212,39 @@ arrête:
 
 **Dossiers des tribunaux de première instance et des autorités de conciliation**
 
-<sup>1</sup> Les tribunaux civils et pénaux de première instance et les autorités de conciliation proposent aux Archives de l’Etat, après l’écoulement du délai de conservation, tous les documents qu’ils doivent conserver en vertu des articles 12, 13 et 13a. Les documents devant être conservés durablement sont proposés dix ans après l’entrée en force de chose jugée.
+<sup>1</sup> Les Archives de l’Etat prennent en charge les documents des tribunaux civils et pénaux de première instance ainsi que des autorités de conciliation sous la forme d’un échantillonnage selon les décisions d’évaluation suivantes.
 
-<sup>2</sup> Les tribunaux civils et pénaux de première instance, le Tribunal des mineurs et les autorités de conciliation désignent aux Archives de l’Etat sous forme de proposition les documents qui ont une valeur archivistique et ceux qui peuvent être détruits. Les documents ne peuvent être détruits sans l’accord des Archives de l’Etat.
+<sup>2</sup> Tribunal régional de l’Oberland, section civile:
 
-<sup>3</sup> Ils préparent les documents de manière à ce qu’il soit possible aux Archives de l’Etat, sans surcroît de travail, d’évaluer leur valeur archivistique.
+- a procédures relevant du droit de la famille: archivage chaque 10<sup>e</sup> année (2011, 2021, etc.)
+- b procédures susceptibles d’appel: archivage intégral
+- c procédures non susceptibles d’appel: archivage intégral
+- d réquisitions de faillite sans ouverture, séquestres: pas de valeur archivistique
+- e procédures concordataires: affaires notables d’importance historique, le reste n’a pas de valeur archivistique
+- f procédures sommaires: archivage des mesures protectrices de l’union conjugale (dans le sens d’une sélection qualitative) chaque 10<sup>e</sup> année (2011, 2021, etc.)
+- g commissions rogatoires: pas de valeur archivistique
 
-<sup>4</sup> Les Archives de l’Etat évaluent les documents et décident s’ils doivent être archivés en tenant compte des propositions de l’autorité soumise à l’obligation de proposer ses documents.
+<sup>3</sup> Tribunal régional de l’Oberland, section pénale:
 
-<sup>5</sup> Elles ne détruisent aucun document sans l’accord de l’autorité soumise à l’obligation de proposer ses documents.
+- a juge unique: archivage chaque 10<sup>e</sup> année (2011, 2021, etc.)
+- b tribunal collégial: archivage chaque 10<sup>e</sup> année (2011, 2021, etc.)
+- c tribunal des mesures de contrainte: archivage chaque 10<sup>e</sup> année (2011, 2021, etc.)
 
-<sup>6</sup> Les autorités soumises à l’obligation de proposer leurs documents se mettent d’accord avec les Archives de l’Etat concernant les détails de l’obligation de proposer les documents.
+<sup>4</sup> Autorité de conciliation de l’Oberland:
+
+- a archivage des 500 premiers cas chaque 10<sup>e</sup> année (2011, 2021, etc.)
+
+<sup>5</sup> Tous les tribunaux régionaux et autorités de conciliation:
+
+- a instruments de recherches et contrôles des affaires: archivage intégral
+- b interdictions: archivage intégral
+- c cas particuliers importants qui ont été portés à la connaissance du public au-delà de la région concernée.
+
+<sup>6</sup> Les tribunaux civils et pénaux de première instance et les autorités de conciliation préparent les documents à verser de manière à ce qu’ils puissent être pris en charge et exploités par les Archives de l’Etat sans travail supplémentaire.
+
+<sup>7</sup> Les Archives de l’Etat élaborent une convention de versement bilatérale contraignante avec tous les services producteurs de documents.
+
+<sup>8</sup> L’élimination de documents avec ou sans obligation préalable de proposer est régie par la convention de versement selon l’alinéa 7. Les nouvelles séries de documents d’une unité sont toujours soumises à l’obligation de proposition avant leur élimination.
 
 #### Art. 16
 
@@ -237,7 +260,7 @@ arrête:
 
 **Versement**
 
-<sup>1</sup> Les documents proposés aux Archives de l’Etat en vue d’un versement doivent être accompagnés de leurs instruments de recherche et d’autres outils éventuels.
+<sup>1</sup> Les documents proposés aux Archives de l’Etat en vue d’un versement doivent être accompagnés de leurs instruments de recherche et d’autres outils éventuels. Les autorités judiciaires conviennent au cas par cas avec les Archives de l’Etat de dispositions dérogeant à cette règle.
 
 <sup>2</sup> Un inventaire des documents versés est joint au versement. Il contient les informations suivantes:
 

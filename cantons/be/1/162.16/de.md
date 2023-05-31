@@ -1,25 +1,25 @@
 ---
 canton: BE
 number: "162.16"
-title: "Reglement über die Archivführung der erst- und oberinstanzlichen Zivil-, Straf und Jugendgerichtsbehörden"
-short: ArchR ZSJ
+title: Reglement über die Archivführung der erst- und oberinstanzlichen Zivil- und Strafgerichte des Kantons Bern
+short: ArchR ZSG
 language: de
-version: 2016-01-01
-valid_until: 2023-05-31
-version_adopted: 2015-11-20
+version: 2023-06-01
+valid_until: 2026-03-31
+version_adopted: 2023-02-14
 adopted: 2010-11-29
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.16"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/922/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2832/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die Archivführung der erst- und oberinstanzlichen Zivil-, Straf und Jugendgerichtsbehörden
+# Reglement über die Archivführung der erst- und oberinstanzlichen Zivil- und Strafgerichte des Kantons Bern
 
-(ArchR ZSJ)
+(ArchR ZSG)
 
-vom 29.11.2010 (Stand 01.01.2016)
+vom 29.11.2010 (Stand 01.06.2023)
 
 Das Obergericht des Kantons Bern,
 
@@ -35,7 +35,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement regelt die Aufbewahrung von Unterlagen des Obergerichts, des kantonalen Zwangsmassnahmengerichts soweit Strafsachen betreffend, des Wirtschaftsstrafgerichts, des Jugendgerichts, der Regionalgerichte, der regionalen Zwangsmassnahmengerichte sowie der regionalen Schlichtungsbehörden.
+<sup>1</sup> Dieses Reglement regelt die Aufbewahrung und Ablieferung von Unterlagen des Obergerichts, des kantonalen Zwangsmassnahmengerichts soweit Strafsachen betreffend, des Wirtschaftsstrafgerichts, des Jugendgerichts, der Regionalgerichte, der regionalen Zwangsmassnahmengerichte sowie der regionalen Schlichtungsbehörden.
 
 <sup>2</sup> Die Aufbewahrung von Daten des Personalrechts richtet sich nach der Personalgesetzgebung.
 
@@ -79,15 +79,15 @@ beschliesst:
 
 <sup>2</sup> Unterlagen, für welche die dauernde Aufbewahrung vorgeschrieben ist, gelten als archivwürdig.
 
-<sup>3</sup> Unterlagen, für die eine Archivierungsfrist besteht, gelten grundsätzlich nicht als archivwürdig, es sei denn, sie würden im konkreten Fall als archivwürdig bewertet.
+<sup>3</sup> Unterlagen, für die eine beschränkte Aufbewahrungsfrist besteht, gelten grundsätzlich nicht als archivwürdig, es sei denn, sie würden im konkreten Fall als archivwürdig bewertet.
 
 #### Art. 5
 
-**Archivpläne**
+**Registraturpläne**
 
-<sup>1</sup> Jede Behörde gemäss Artikel 1 Absatz 1 erstellt einen Archivplan ihrer Ablagen und führt diesen nach. Sie legt ihre Unterlagen nach dieser Ordnung ab.
+<sup>1</sup> Jede Behörde gemäss Artikel 1 Absatz 1 erstellt einen Registraturplan ihrer Ablagen und führt diesen nach. Sie legt ihre Unterlagen nach dieser Ordnung ab.
 
-<sup>2</sup> In den Archivplänen werden festgehalten:
+<sup>2</sup> In den Registraturplänen werden festgehalten:
 
 - a die Systematik für die Ordnung der Unterlagen,
 - b die Vorschriften für die Verwaltung der Unterlagen,
@@ -100,7 +100,7 @@ beschliesst:
 
 **Koordination mit dem Staatsarchiv**
 
-<sup>1</sup> Die Behörden gemäss Artikel 1 Absatz 1 sprechen sich bei der Anlage der Archivpläne und Findmittel mit dem Staatsarchiv ab, so dass diese später im Staatsarchiv unverändert aufgenommen und für das Auffinden der zugehörigen Unterlagen weiterverwendet werden können.
+<sup>1</sup> Die Behörden gemäss Artikel 1 Absatz 1 sprechen sich bei der Anlage der Registraturpläne und Findmittel mit dem Staatsarchiv ab, so dass diese später im Staatsarchiv unverändert aufgenommen und für das Auffinden der zugehörigen Unterlagen weiterverwendet werden können.
 
 #### Art. 7
 
@@ -109,7 +109,7 @@ beschliesst:
 <sup>1</sup> Bei der Erstellung, Verwaltung und Aufbewahrung ihrer Unterlagen stellen die Behörden gemäss Artikel 1 Absatz 1 sicher, dass
 
 - a alterungsbeständige Informationsträger, Beschreib- und Schreibstoffe sowie sonstige Hilfsmittel verwendet werden, die Gewähr für eine ausreichende Lebensdauer bieten, die mindestens den jeweiligen Aufbewahrungsfristen entspricht,
-- b die Archivräume abschliessbar sind und die Unterlagen vor schädlichen Einwirkungen, insbesondere durch Feuer, Staub, Feuchtigkeit und Sonnenbestrahlung geschützt werden,
+- b die Archivräume abschliessbar sind und die Unterlagen vor schädlichen Einwirkungen, insbesondere durch Feuer, Staub, Feuchtigkeit, Schädlingen und Sonnenbestrahlung geschützt werden,
 - c Unbefugte keinen Zugriff auf Unterlagen haben.
 
 <sup>2</sup> Jede Behörde gemäss Artikel 1 Absatz 1 bezeichnet eine für die Registraturführung verantwortliche Person.
@@ -148,7 +148,7 @@ beschliesst:
 
 #### Art. 12
 
-**Verfahrensakten der erstinstanzlichen Zivilgerichte**
+**Verfahrensakten der Schlichtungsbehörden und der erstinstanzlichen Zivilgerichte**
 
 <sup>1</sup> Für die Verfahrensakten der erstinstanzlichen Zivilgerichte gelten folgende Fristen:
 
@@ -160,7 +160,10 @@ beschliesst:
   - 2 bäuerliche Sanierungen: 40 Jahre
   - 3 familienrechtliche Angelegenheiten: 50 Jahre
   - 4 nicht berufungsfähig: 10 Jahre
-- c vereinfachtes Verfahren: 10 Jahre
+- c vereinfachtes Verfahren:
+  - 1 wenn berufungsfähig grundsätzlich: 30 Jahre
+  - 2 berufungsfähig familienrechtlich: 50 Jahre
+  - 3 nicht berufungsfähig: 10 Jahre
 - d summarisches Verfahren:
   - 1 grundsätzlich: 10 Jahre
   - 2 Rückzug im Konkursverfahren: 2 Jahre
@@ -181,7 +184,7 @@ beschliesst:
   - 1 bis zum vollendeten 30. Lebensjahr
   - 2 Übergangstäter, wenn Massnahme oder Strafe nach StGB: Frist gemäss Erwachsenengericht (30/50 Jahre)
 - d Akten regionales und kantonales Zwangsmassnahmengericht: 10 Jahre
-- e Rogate: 10 Jahre
+- e …
 
 #### Art. 13a
 
@@ -191,11 +194,9 @@ beschliesst:
 
 <sup>2</sup> Urteile und prozesserledigende Entscheide des Obergerichts einschliesslich der Begründungen sind in einer Urteilssammlung dauernd aufzubewahren.
 
-<sup>3</sup> Die erstinstanzlichen Gerichte und die Schlichtungsbehörden führen eine Urteilssammlung, in der alle begründeten Urteile abgelegt werden. Bei denjenigen Urteilen, die im Rahmen eines summarischen Verfahrens gemäss den Artikeln 248 ff. der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessordnung, ZPO)[^13a-1] ergehen, kann auf die separate Ablage und dauerhafte Aufbewahrung verzichtet werden.
+<sup>3</sup> …
 
 <sup>4</sup> Die Form der Aufbewahrung richtet sich nach den Vorgaben des Staatsarchivs des Kantons Bern.
-
-[^13a-1]: SR 272
 
 ## 4 Anbietepflicht und Ablieferung
 
@@ -211,17 +212,39 @@ beschliesst:
 
 **Akten der erstinstanzlichen Gerichte und der Schlichtungsbehörden**
 
-<sup>1</sup> Die erstinstanzlichen Zivil- und Strafgerichte und die Schlichtungsbehörden bieten dem Staatsarchiv sämtliche ihrer gemäss Artikel 12, 13 und 13a aufzubewahrenden Unterlagen nach Ablauf der Aufbewahrungsfrist an. Dauernd aufbewahrungspflichtige Unterlagen werden zehn Jahre nach Eintritt der Rechtskraft angeboten.
+<sup>1</sup> Das Staatsarchiv übernimmt von den erstinstanzlichen Zivil- und Strafgerichten sowie den Schlichtungsbehörden gemäss nachfolgenden Bewertungsentscheiden ausgewählte Unterlagen in Form eines Samplings.
 
-<sup>2</sup> Die erstinstanzlichen Zivil-, Straf- und Jugendgerichtsbehörden und die Schlichtungsbehörden schlagen dem Staatsarchiv vor, welche Unterlagen sie als archivwürdig erachten und welche vernichtet werden können. Unterlagen dürfen nicht ohne Zustimmung des Staatsarchivs vernichtet werden.
+<sup>2</sup> Regionalgericht Oberland, Zivilabteilung:
 
-<sup>3</sup> Sie bereiten die Unterlagen so auf, dass diese durch das Staatsarchiv ohne zusätzlichen Aufwand im Hinblick auf ihre Archivwürdigkeit bewertet werden können.
+- a Familienrechtliche Verfahren: Archivierung jedes 10. Jahrgangs (2011, 2021, etc.)
+- b Berufungsfähige Verfahren: Integrale Archivierung
+- c Nicht berufungsfähige Verfahren: Integrale Archivierung
+- d Konkursbegehren ohne Eröffnung, Arreste: Nicht archivwürdig
+- e Nachlassverfahren: Bedeutende Fälle von historischer Relevanz, Rest nicht archivwürdig
+- f Summarverfahren: Archivierung der Eheschutzmassnahmen (im Sinne einer qualitativen Auswahl) jedes 10. Jahrgangs (2011, 2021, etc.)
+- g Rogate: Nicht archivwürdig
 
-<sup>4</sup> Das Staatsarchiv bewertet die Unterlagen und entscheidet über deren Archivwürdigkeit unter Berücksichtigung der Vorschläge der anbietenden Behörde.
+<sup>3</sup> Regionalgericht Oberland, Strafabteilung:
 
-<sup>5</sup> Es vernichtet keine Unterlagen ohne Zustimmung der anbietenden Behörde.
+- a Einzelgericht: Archivierung jedes 10. Jahrgangs (2011, 2021, etc.)
+- b Kollegialgericht: Archivierung jedes 10. Jahrgangs (2011, 2021, etc.)
+- c Zwangsmassnahmengericht: Archivierung jedes 10. Jahrgangs (2011, 2021, etc.)
 
-<sup>6</sup> Betreffend Einzelheiten der Anbietepflicht sprechen sich die anbietenden Behörden mit dem Staatsarchiv ab.
+<sup>4</sup> Schlichtungsbehörde Oberland:
+
+- a Archivierung der ersten 500 Fälle jedes 10. Jahrgangs (2011, 2021, etc.)
+
+<sup>5</sup> Alle Regionalgerichte und Schlichtungsbehörden:
+
+- a Findmittel und Geschäftskontrollen: Integrale Archivierung
+- b Verbote: Integrale Archivierung
+- c Bedeutende Einzelfälle, die von der Öffentlichkeit über die engere Region hinaus zu Kenntnis genommen worden sind.
+
+<sup>6</sup> Die erstinstanzlichen Zivil- und Strafgerichte und die Schlichtungsbehörden bereiten die abzuliefernden Unterlagen so auf, dass diese durch das Staatsarchiv ohne zusätzlichen Aufwand übernommen und erschlossen werden können.
+
+<sup>7</sup> Das Staatsarchiv arbeitet mit allen aktenbildenden Stellen eine verbindliche bilaterale Ablieferungsvereinbarung aus.
+
+<sup>8</sup> Die Vernichtung von Akten mit oder ohne vorgängige Anbietepflicht richtet sich nach den Ablieferungsvereinbarungen gemäss Absatz 7. Neu angelegte Aktenserien einer Einheit unterliegen vor der Vernichtung immer einer Anbietepflicht.
 
 #### Art. 16
 
@@ -237,7 +260,7 @@ beschliesst:
 
 **Ablieferung**
 
-<sup>1</sup> Dem Staatsarchiv sind mit den Unterlagen auch die zugehörigen Findmittel sowie allfällige weitere Hilfsmittel zur Ablieferung anzubieten.
+<sup>1</sup> Dem Staatsarchiv sind mit den Unterlagen auch die zugehörigen Findmittel sowie allfällige weitere Hilfsmittel zur Ablieferung anzubieten. Davon abweichende Abmachungen treffen die Gerichtsbehörden mit dem Staatsarchiv im Einzelfall.
 
 <sup>2</sup> Den Ablieferungen ist ein Verzeichnis der abgelieferten Unterlagen beizulegen, das folgende Informationen enthält:
 
