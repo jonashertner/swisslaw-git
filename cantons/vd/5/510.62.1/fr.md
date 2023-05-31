@@ -4,7 +4,7 @@ number: "510.62.1"
 title: "RÈGLEMENT du 28.11.2012 d'application de la loi du 8 mai 2012 sur la géoinformation (RLGéo-VD)"
 short: RLGéo-VD
 language: fr
-version: 2023-03-01
+version: 2023-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/510.62.1?id=f00e70fb-4cf1-4f01-927c-8e937e833178"
 ---
 
@@ -48,9 +48,18 @@ arrête
 - b. il participe à la rédaction de normes techniques ;
 - c. il gère le centre de compétences de la géoinformation qui informe, conseille et assiste les services compétents en matière de saisie, de gestion, de mise à jour et de transmission des géodonnées ;
 - d. il est responsable de la mise à jour des catalogues des géodonnées de base (annexes 1 et 2) ;
-- e. il définit les principes d'élaboration des modèles minimaux de géodonnées ;
+- e. il édicte les principes d'élaboration des modèles minimaux de géodonnées ;
 - f. il peut mettre à disposition de l'administration cantonale et de ses mandataires, des géodonnées produites par des tiers lorsqu'elles sont utiles à la réalisation de leurs tâches.
-- g. il édicte les référentiels terminologique, normatif et sémantique des géodonnées de l'administration cantonale.
+- g. il édicte les référentiels terminologique, normatif et sémantique, le catalogue et la cartographie des géodonnées de l'administration cantonale ;
+- h. il réalise des audits de conformité et de qualité des géodonnées et émet dans ce cadre des recommandations aux services ;
+- i. il édicte les processus transversaux nécessaire à l'intégration des géodonnées dans les infrastructures communes de l'ICDG ;
+- j. il préavise toute exposition des géodonnées dans l'ICDG et en dehors.
+
+<sup>2</sup> Les services spécialisés du canton en charge des géodonnées ont notamment les obligations suivantes :
+
+- a. ils soumettent au service en charge de la géoinformation pour validation et enregistrement toute création d'une nouvelle géodonnée pérenne ou évolution de son modèle ;
+- b. ils respectent le plan global d'assurance qualité émis par le service en charge de la géoinformation et établissent un plan de maintenance de chaque géodonnée sous gestion afin d'en garantir la qualité dans le temps ;
+- c. ils annoncent au service en charge de la géoinformation toute exposition de géodonnées dans l'ICDG et en dehors.
 
 [^1-2]: Modif. 4 du 27.11.2019: Modification Al. 1, c; entrée en vigueur au 01.01.2020; Introduction Al. 1, g; entrée en vigueur au 01.01.2020 · Modif. 8 du 10.05.2023: Modification Al. 1, e,g; entrée en vigueur au 01.06.2023; Introduction Al. 1, h-j; entrée en vigueur au 01.06.2023; Introduction Al. 2; entrée en vigueur au 01.06.2023
 [^2-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
@@ -689,11 +698,11 @@ Annexes [^47-2]
 
 1
 
-[Annexe 1](https://prestations.vd.ch/pub/blv-publication/api/actes/f00e70fb-4cf1-4f01-927c-8e937e833178/annexes/1?dmev=01.03.2023)
+[Annexe 1](https://prestations.vd.ch/pub/blv-publication/api/actes/f00e70fb-4cf1-4f01-927c-8e937e833178/annexes/1?dmev=01.06.2023)
 
 2
 
-[Annexe 2](https://prestations.vd.ch/pub/blv-publication/api/actes/f00e70fb-4cf1-4f01-927c-8e937e833178/annexes/2?dmev=01.03.2023)
+[Annexe 2](https://prestations.vd.ch/pub/blv-publication/api/actes/f00e70fb-4cf1-4f01-927c-8e937e833178/annexes/2?dmev=01.06.2023)
 
 [^47-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 [^47-2]: Modif. 1 du 25.03.2015: Modification Annexes, Ann. 1; entrée en vigueur au 01.03.2015 · Modif. 3 du 28.03.2018: Modification Annexes, Ann. 1; entrée en vigueur au 01.03.2018 · Modif. 4 du 27.11.2019: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.01.2020 · Modif. 5 du 07.07.2021: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.01.2021 · Modif. 6 du 22.06.2022: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.07.2022 · Modif. 7 du 01.03.2023: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.03.2023 · Modif. 9 du 17.04.2024: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.05.2024 · Modif. 10 du 02.04.2025: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.04.2025 · Modif. 11 du 20.05.2026: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.05.2026
