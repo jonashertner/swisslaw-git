@@ -3,27 +3,28 @@ sr: "946.231.154.1"
 title: "Ordonnance du 22 novembre 2017 instituant des mesures à l'encontre de la République du Mali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/683"
 language: fr
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2017-11-22
 in_force: 2017-11-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/683/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-683-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/683/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/683/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-683-20230601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/683/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République du Mali
 
-du 22 novembre 2017 (État le 1<sup>er</sup> janvier 2022)
+du 22 novembre 2017 (État le 1<sup>er</sup> juin 2023)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], en exécution de la résolution 2374 (2017)[^ingress-2] du Conseil de sécurité des Nations Unies (Conseil de sécurité de l’ONU),
+vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], en exécution des résolutions 2374 (2017) et 2664 (2022)[^ingress-2] du Conseil de sécurité des Nations Unies,[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: Les textes des résolutions du Conseil de sécurité de l’ONU sont accessibles en ligne à l’adresse: www.un.org/fr &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
+[^ingress-2]: Les textes des résolutions du Conseil de sécurité des Nations Unies peuvent être consultés à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Nouvelle teneur selon le ch. I 11 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 1
 
@@ -54,14 +55,29 @@ Sont gelés les avoirs et les ressources économiques appartenant à ou sous con
 
 <sup>3</sup>
 
-Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées, afin:
+L’interdiction prévue à l’al. 2 ne s’applique pas à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes par:
+
+- a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
+- b. des organisations internationales;
+- c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
+- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
+- e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d, lorsqu’ils agissent en cette qualité;
+- f. tous les autres acteurs tels que déterminés par le comité compétent du Conseil de sécurité des Nations Unies.[^2-1]
+
+<sup>4</sup>
+
+Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
 
 - a. de prévenir des cas de rigueur;
 - b. d’honorer des contrats existants;
 - c. d’honorer des créances en application d’une mesure ou décision judiciaire, administrative ou arbitrale existante, ou
-- d. de promouvoir la paix et la stabilité régionale.
+- d. de promouvoir la paix et la stabilité régionale.[^2-2]
 
-<sup>4</sup> Le SECO délivre les autorisations au sens de l’al. 3, après avoir consulté les offices compétents du Département fédéral des affaires étrangères et du Département fédéral des finances, et, le cas échéant, après notification au comité compétent du Conseil de sécurité de l’ONU et en conformité avec les décisions dudit comité.
+<sup>5</sup> Il accorde les dérogations prévues à l’al. 4 après consultation des offices compétents du Département fédéral des affaires étrangères et du Département fédéral des finances, et, le cas échéant, après notification au comité compétent du Conseil de sécurité des Nations Unies et en conformité avec les décisions dudit comité.[^2-3]
+
+[^2-1]: Nouvelle teneur selon le ch. I 11 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-2]: Nouvelle teneur selon le ch. I 11 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-3]: Introduit par le ch. I 11 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 3
 
@@ -74,7 +90,9 @@ Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, auto
 Le Secrétariat d’État aux migrations (SEM) peut accorder des dérogations:
 
 - a. si l’entrée ou le transit sont nécessaires aux fins d’une procédure judiciaire;
-- b. en conformité avec le par. 2 de la résolution 2374 (2017) et les décisions du comité compétent du Conseil de sécurité de l’ONU.
+- b. en conformité avec le par. 2 de la résolution 2374 (2017) et les décisions du comité compétent du Conseil de sécurité des Nations Unies[^3-1].
+
+[^3-1]: Nouvelle expression selon le ch. I 11 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 4
 
@@ -112,7 +130,7 @@ Le Secrétariat d’État aux migrations (SEM) peut accorder des dérogations:
 
 **Reprise automatique des listes des personnes physiques, entreprises et entités visées par les sanctions et publication**
 
-<sup>1</sup> Les listes relatives à des personnes physiques, entreprises et entités que le Conseil de sécurité de l’ONU ou son comité compétent a établies ou actualisées (annexe) sont reprises automatiquement.
+<sup>1</sup> Les listes relatives à des personnes physiques, entreprises et entités que le Conseil de sécurité des Nations Unies ou son comité compétent a établies ou actualisées (annexe) sont reprises automatiquement.
 
 <sup>2</sup> Les inscriptions figurant en annexe ne sont publiées ni au Recueil officiel du droit fédéral (RO), ni au Recueil systématique du droit fédéral (RS).
 
@@ -130,7 +148,7 @@ Annexe
 
 Remarque
 
-- 1\. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité de l’ONU ou par son comité compétent[^annexu1-lvlu1-1].
+- 1\. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annexu1-lvlu1-1].
 - 2\. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par l’ONU[^annexu1-lvlu1-2].
 
 [^annexu1-lvlu1-1]: La liste peut être consultée sur Internet, à l’adresse suivante: [www.un.org/fr/sc](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant le Mali &gt; Matériaux relatifs à la liste de sanctions.
