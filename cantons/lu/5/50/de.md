@@ -4,13 +4,12 @@ number: "50"
 title: Gesetz über die Rechtsstellung der obersten Verwaltungs- und Gerichtsbehörden
 short: "Behördengesetz, BehG"
 language: de
-version: 2015-06-01
-valid_until: 2023-05-31
-version_adopted: 2015-03-16
+version: 2023-06-01
+version_adopted: 2023-03-20
 adopted: 1970-11-17
 in_force: 1971-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/50"
-pdf: "https://srl.lu.ch/api/de/versions/2253/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4088/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2253/pdf_file"
 
 (Behördengesetz, BehG)
 
-vom 17.11.1970 (Stand 01.06.2015)
+vom 17.11.1970 (Stand 01.06.2023)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -121,6 +120,10 @@ beschliesst:
 <sup>2</sup> Das Amtsgeheimnis ist auch nach dem Ausscheiden aus dem Amt zu wahren.
 
 <sup>3</sup> Über Gegenstände seines Amtsgeheimnisses darf ein Behördenmitglied in Strafuntersuchungen, gerichtlichen Verfahren und Verwaltungsverfahren nur mit Zustimmung seiner Behörde als Zeuge, Partei oder Auskunftsperson aussagen oder Akten herausgeben.
+
+<sup>4</sup> Gegenüber der Aufsichts- und Kontrollkommission des Kantonsrates hat ein Behördenmitglied gemäss § 27c des Gesetzes über die Organisation und Geschäftsführung des Kantonsrates vom 28. Juni 1976[^9-1] ohne Zustimmung seiner Behörde Auskunft zu erteilen und Akten herauszugeben.
+
+[^9-1]: SRL Nr. [30](https://srl.lu.ch/data/30/de)
 
 #### § 10
 
