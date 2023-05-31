@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 11. November 2015 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: de
-version: 2023-05-11
+version: 2023-06-01
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20230511/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20230511-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20230511/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20230601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 11. November 2015 (Stand am 11. Mai 2023)
+vom 11. November 2015 (Stand am 1. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -72,32 +72,35 @@ Bewilligungspflichtig sind:
 - b. Dienstleistungen jeder Art, einschliesslich Finanzdienstleistungen, Vermittlungsdiensten und technischer Beratung, der Gewährung von Finanzmitteln sowie Investitionen, Beteiligungen und Joint Ventures, im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, der Bereitstellung, der Instandhaltung, der Herstellung oder der Verwendung von Gütern, Technologie und Software nach Anhang 2;
 - c. die Beschaffung, die Einfuhr, die Durchfuhr, die Beförderung und die Vermittlung von Nukleargütern, doppelt verwendbaren Gütern, Technologie und Software nach Anhang 2 aus dem Iran.
 
-<sup>2</sup> Absatz 1 gilt auch für andere Güter, die ganz oder teilweise für die Aktivitäten des Iran im Bereich der Anreicherung von Uran, der Wiederaufarbeitung von Kernbrennstoffen und des Schweren Wassers bestimmt sein könnten, die nicht mit dem Gemeinsamen umfassenden Aktionsplan vom 14. Juli 2015[^3-1] zur iranischen Atomfrage und zur Aufhebung der internationalen Sanktionen gegenüber dem Iran (Joint Comprehensive Plan of Action, JCPOA) vereinbar sind.
+<sup>2</sup> Absatz 1 gilt auch für andere Güter, die ganz oder teilweise für die Aktivitäten des Iran im Bereich der Anreicherung von Uran, der Wiederaufarbeitung von Kernbrennstoffen und des Schweren Wassers bestimmt sein könnten, die nicht mit dem Gemeinsamen umfassenden Aktionsplan vom 14. Juli 2015[^3-1] zur iranischen Atomfrage und zur Aufhebung der internationalen Sanktionen gegenüber dem Iran (Joint Comprehensive Plan of Action, JCPOA) vereinbar sind.[^3-2]
 
 <sup>3</sup>
 
-Das Staatssekretariat für Wirtschaft (SECO) erteilt die Bewilligung für Güter nach Absatz 2 sowie nach Anhang 2 Teil 1 und damit zusammenhängende Dienstleistungen im Verfahren nach Artikel 16 der Güterkontrollverordnung vom 3. Juni 2016[^3-2] (GKV)[^3-3], wenn:
+Das Staatssekretariat für Wirtschaft (SECO) erteilt die Bewilligung für Güter nach Absatz 2 sowie nach Anhang 2 Teil 1 und damit zusammenhängende Dienstleistungen im Verfahren nach Artikel 16 der Güterkontrollverordnung vom 3. Juni 2016[^3-3] (GKV)[^3-4], wenn:
 
-- a. die Anforderungen der Richtlinien vom 13. November 2013 beziehungsweise vom Juni 2013 der Gruppe der Nuklearlieferländer (NSG)[^3-4] erfüllt sind;
+- a. die Anforderungen der Richtlinien vom 13. November 2013 beziehungsweise vom Juni 2013 der Gruppe der Nuklearlieferländer (NSG)[^3-5] erfüllt sind;
 - b. der Iran die Rechte zur Prüfung der Endverwendung und des Ortes der Endverwendung jedes gelieferten Gutes erteilt hat und die Rechte wirksam wahrgenommen werden können;
-- c. die Tätigkeiten mit dem JCPOA vereinbar sind.[^3-5]
+- c. die Tätigkeiten mit dem JCPOA vereinbar sind.[^3-6]
 
-<sup>3bis</sup> Das SECO erteilt die Bewilligung für Güter nach Anhang 2 Teil 2 und damit zusammenhängende Dienstleistungen, wenn kein Grund zur Annahme besteht, dass die Tätigkeit ganz oder teilweise für die Aktivitäten des Iran im Bereich der Anreicherung von Uran, der Wiederaufbereitung von Kernbrennstoffen und des Schweren Wassers oder anderen Aktivitäten im Nuklearbereich beitragen könnte, die nicht mit dem JCPOA vereinbar sind.[^3-6]
+<sup>3bis</sup> Das SECO erteilt die Bewilligung für Güter nach Anhang 2 Teil 2 und damit zusammenhängende Dienstleistungen, wenn kein Grund zur Annahme besteht, dass die Tätigkeit ganz oder teilweise für die Aktivitäten des Iran im Bereich der Anreicherung von Uran, der Wiederaufbereitung von Kernbrennstoffen und des Schweren Wassers oder anderen Aktivitäten im Nuklearbereich beitragen könnte, die nicht mit dem JCPOA vereinbar sind.[^3-7]
 
-<sup>3ter</sup> Von der Bewilligungspflicht nach Absatz 1 Buchstabe b ausgenommen sind Dienstleistungen für Güter, für welche das SECO eine Bewilligung nach Absatz 3<sup>bis</sup> erteilt hat.[^3-7]
+<sup>3ter</sup> Von der Bewilligungspflicht nach Absatz 1 Buchstabe b ausgenommen sind Dienstleistungen für Güter, für welche das SECO eine Bewilligung nach Absatz 3<sup>bis</sup> erteilt hat.[^3-8]
 
-<sup>4</sup> Sofern dies aufgrund der Resolution 2231 (2015) des UNO-Sicherheitsrats vom 20. Juli 2015[^3-8] erforderlich ist, holt das SECO die Stellungnahme des UNO-Sicherheitsrats oder der Gemeinsamen Kommission nach dem JCPOA ein.
+<sup>4</sup> Sofern dies aufgrund der Resolution 2231 (2015)[^3-9] des Sicherheitsrats der Vereinten Nationen erforderlich ist, holt das SECO die Stellungnahme des Sicherheitsrats der Vereinten Nationen oder der Gemeinsamen Kommission nach dem JCPOA ein.[^3-10]
 
-<sup>5</sup> Die Ausübung einer Tätigkeit nach Absatz 1 ist dem SECO innerhalb von fünf Arbeitstagen zu melden. Das SECO meldet die Ausübung dem UNO-Sicherheitsrat und der Internationalen Atomenergiebehörde nach Massgabe der Resolution 2231 (2015) des UNO-Sicherheitsrats.
+<sup>5</sup> Die Ausübung einer Tätigkeit nach Absatz 1 ist dem SECO innerhalb von fünf Arbeitstagen zu melden. Das SECO meldet die Ausübung dem Sicherheitsrat der Vereinten Nationen und der Internationalen Atomenergiebehörde nach Massgabe der Resolution 2231 (2015).[^3-11]
 
-[^3-1]: Der Text des Gemeinsamen umfassenden Aktionsplans ist in Anhang A der UNO‑Resolution 2231 (2015) enthalten. Die Texte der Resolutionen des Sicherheitsrats der Vereinten Nationen sind im Internet unter folgender Adresse auf Französisch oder Englisch einsehbar: www.un.org &gt; Peace and Security &gt; Security Council &gt; Documents &gt; Resolutions
-[^3-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^3-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([[AS 2004 4929](https://www.admin.ch/opc/de/official-compilation/2004/4929.pdf)](https://fedlex.data.admin.ch/eli/oc/2004/745)) auf den 1. Juli 2016 angepasst.
-[^3-4]: Die Richtlinien der Gruppe der Nuklearlieferländer sind im Internet unter folgender Adresse einsehbar: [www.nuclearsuppliersgroup.org](http://www.nuclearsuppliersgroup.org/de/) &gt; Richtlinien
-[^3-5]: Fassung gemäss Ziff. I der V vom 18. Mai 2016, in Kraft seit 18. Mai 2016 ([AS 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
-[^3-6]: Eingefügt durch Ziff. I der V vom 18. Mai 2016, in Kraft seit 18. Mai 2016 ([AS 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
+[^3-1]: <sup>3</sup> Der Text des Gemeinsamen umfassenden Aktionsplans ist in Anhang A der Resolution 2231 (2015) des Sicherheitsrats der Vereinten Nationen enthalten. Die Resolution ist auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^3-2]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-3]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^3-4]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([[AS 2004 4929](https://www.admin.ch/opc/de/official-compilation/2004/4929.pdf)](https://fedlex.data.admin.ch/eli/oc/2004/745)) auf den 1. Juli 2016 angepasst.
+[^3-5]: Die Richtlinien der Gruppe der Nuklearlieferländer sind im Internet unter folgender Adresse einsehbar: [www.nuclearsuppliersgroup.org](http://www.nuclearsuppliersgroup.org/de/) &gt; Richtlinien
+[^3-6]: Fassung gemäss Ziff. I der V vom 18. Mai 2016, in Kraft seit 18. Mai 2016 ([AS 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
 [^3-7]: Eingefügt durch Ziff. I der V vom 18. Mai 2016, in Kraft seit 18. Mai 2016 ([AS 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
-[^3-8]: Die Texte der Resolutionen des Sicherheitsrats der Vereinten Nationen sind im Internet unter folgender Adresse auf Französisch oder Englisch einsehbar: www.un.org &gt; Peace and Security &gt; Security Council &gt; Documents &gt; Resolutions
+[^3-8]: Eingefügt durch Ziff. I der V vom 18. Mai 2016, in Kraft seit 18. Mai 2016 ([AS 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
+[^3-9]: Die Resolution ist auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^3-10]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-11]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 4
 
@@ -156,16 +159,22 @@ Unternehmen, die mit iranischen Personen oder Organisationen Vereinbarungen übe
 
 <sup>2</sup> Unternehmen nach Absatz 1 müssen für die Entgegennahme von Darlehen oder Krediten von iranischen Personen oder Organisationen eine Bewilligung einholen.
 
-<sup>3</sup> Das SECO erteilt die Bewilligung sofern die Tätigkeit mit dem JCPOA[^6-3] vereinbar ist.
+<sup>3</sup> Das SECO erteilt die Bewilligung sofern die Tätigkeit mit dem JCPOA[^6-3] vereinbar ist.[^6-4]
 
-<sup>4</sup> Sofern dies aufgrund der Resolution 2231 (2015) des UNO-Sicherheitsrats vom 20. Juli 2015[^6-4] erforderlich ist, holt das SECO die Stellungnahme des UNO-Sicherheitsrats oder der Gemeinsamen Kommission nach dem JCPOA ein.
+<sup>4</sup> Sofern dies aufgrund der Resolution 2231 (2015)[^6-5] des Sicherheitsrats der Vereinten Nationen erforderlich ist, holt das SECO die Stellungnahme des Sicherheitsrats der Vereinten Nationen oder der Gemeinsamen Kommission nach dem JCPOA ein.[^6-6]
 
 [^6-1]: [SR 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^6-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352); der Inhalt von Anhang 2 GKV kann im Internet abgerufen werden unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
-[^6-3]: Der Text des Gemeinsamen umfassenden Aktionsplans ist in Anhang A der UNO-Resolution 2231 (2015) enthalten. Die Texte der Resolutionen des Sicherheitsrats der Vereinten Nationen sind im Internet unter folgender Adresse auf Französisch oder Englisch einsehbar: www.un.org &gt; Peace and Security &gt; Security Council &gt; Documents &gt; Resolutions
-[^6-4]: Die Texte der Resolutionen des Sicherheitsrats der Vereinten Nationen sind im Internet unter folgender Adresse auf Französisch oder Englisch einsehbar: www.un.org &gt; Peace and Security &gt; Security Council &gt; Documents &gt; Resolutions
+[^6-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352); der Inhalt von Anhang 2 GKV kann im Internet abgerufen werden unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
+[^6-3]: Der Text des Gemeinsamen umfassenden Aktionsplans ist in Anhang A der Resolution 2231 (2015) des Sicherheitsrats der Vereinten Nationen enthalten. Die Resolution ist auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^6-4]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^6-5]: <sup>26</sup> Die Resolution ist auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^6-6]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
-## 4. Abschnitt: Sperrung von Vermögenswerten und Bereitstellungsverbot
+## 4. Abschnitt: Finanzielle Beschränkungen
+
+[^sec4-1]
+
+[^sec4-1]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 7
 
@@ -182,18 +191,32 @@ Es ist verboten:
 
 <sup>3</sup>
 
-Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
+Das Verbot nach Absatz 2 Buchstabe a gilt nicht für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+
+- a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
+- b. internationale Organisationen;
+- c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
+- d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
+- e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d genannten Organisationen, soweit sie in dieser Eigenschaft handeln;
+- f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.[^7-1]
+
+<sup>4</sup>
+
+Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
 
 - a. Vermeidung von Härtefällen;
 - b. Erfüllung bestehender Verträge;
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind;
-- d. Erfüllung der amtlichen Tätigkeit iranischer diplomatischer oder konsularischer Vertretungen;
-- e. Umsetzung des JCPOA[^7-1]; oder
-- f. Wahrung schweizerischer Interessen.
+- d. Erfüllung amtlicher Tätigkeiten iranischer diplomatischer oder konsularischer Vertretungen;
+- e. Umsetzung des JCPOA[^7-2]; oder
+- f. Wahrung schweizerischer Interessen.[^7-3]
 
-<sup>4</sup> Das SECO bewilligt Ausnahmen nach Absatz 3 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements (EFD) und, falls anwendbar, gemäss den massgeblichen Resolutionen des UNO-Sicherheitsrats.
+<sup>5</sup> Es bewilligt Ausnahmen nach Absatz 4 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements und, falls anwendbar, in Übereinstimmung mit den massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen.[^7-4]
 
-[^7-1]: Der Text des Gemeinsamen umfassenden Aktionsplans ist in Anhang A der UNO-Resolution 2231 (2015) enthalten. Die Texte der Resolutionen des Sicherheitsrats der Vereinten Nationen ist im Internet unter folgender Adresse auf Französisch oder Englisch einsehbar: www.un.org &gt; Peace and Security &gt; Security Council &gt; Documents &gt; Resolutions
+[^7-1]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^7-2]: Der Text des Gemeinsamen umfassenden Aktionsplans ist in Anhang A der Resolution 2231 (2015) des Sicherheitsrats der Vereinten Nationen enthalten. Die Resolution 2231 (2015) ist auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^7-3]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^7-4]: Eingefügt durch Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 8
 
@@ -223,7 +246,7 @@ Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermög
 
 <sup>1</sup> Die Einreise in die Schweiz oder die Durchreise durch die Schweiz ist den in den Anhängen 5 und 6 aufgeführten natürlichen Personen verboten.
 
-<sup>2</sup> Das Staatssekretariat für Migration (SEM) kann in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrats Ausnahmen für natürliche Personen nach Anhang 5 gewähren.
+<sup>2</sup> Das Staatssekretariat für Migration (SEM) kann in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen Ausnahmen für natürliche Personen nach Anhang 5 bewilligen.[^10-1]
 
 <sup>3</sup>
 
@@ -232,6 +255,8 @@ Es kann für natürliche Personen nach Anhang 6 Ausnahmen gewähren:
 - a. aus erwiesenen humanitären Gründen;
 - b. zwecks Teilnahme an Tagungen internationaler Gremien oder an einem politischen Dialog betreffend den Iran; oder
 - c. zur Wahrung schweizerischer Interessen.
+
+[^10-1]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 11
 
@@ -593,7 +618,7 @@ Anhang 5[^t-1]
 
 \2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.
 
-[^annex5-lvlu1-2]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; 2231 (2015) &gt; 2231 list.
+[^annex5-lvlu1-2]: Die Liste ist im Internet unter folgender Adresse abrufbar: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; 2231 (2015) &gt; 2231 list.
 
 Anhang 6[^t-2]
 
@@ -603,7 +628,7 @@ Anhang 6[^t-2]
 
 [^annex6-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des WBF vom 27. Jan. 2016 ([AS 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 31. Okt. 2016 ([AS 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), vom 26. Jan. 2017 ([AS 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), vom 19. Juni 2018 ([AS 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), vom 17. Juni 2019 ([AS 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), vom 29. Nov. 2019 ([AS 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), vom 6. Juli 2020 ([AS 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), vom 26. Nov. 2020 ([AS 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), vom 17. Aug. 2021 ([AS 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), vom 2. Aug. 2022 ([AS 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)) und vom 10. Mai 2023, in Kraft seit 11. Mai 2023 um 18.00 Uhr (AS **202****3** 227).
+[^t-2]: Bereinigt gemäss Ziff. I der V des WBF vom 27. Jan. 2016 ([AS 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 31. Okt. 2016 ([AS 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), vom 26. Jan. 2017 ([AS 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), vom 19. Juni 2018 ([AS 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), vom 17. Juni 2019 ([AS 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), vom 29. Nov. 2019 ([AS 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), vom 6. Juli 2020 ([AS 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), vom 26. Nov. 2020 ([AS 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), vom 17. Aug. 2021 ([AS 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), vom 2. Aug. 2022 ([AS 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)) und vom 10. Mai 2023, in Kraft seit 11. Mai 2023 um 18.00 Uhr ([AS 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)).
 [^annex6-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/227](https://fedlex.data.admin.ch/eli/oc/2023/227) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 7[^t-3]

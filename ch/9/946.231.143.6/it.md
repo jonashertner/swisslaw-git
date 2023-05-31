@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordinanza dell' 11 novembre 2015 che istituisce provvedimenti nei confronti della Repubblica Islamica dell'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: it
-version: 2023-05-11
+version: 2023-06-01
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20230511/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20230511-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20230511/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20230601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 
-dell’11 novembre 2015 (Stato 11 maggio 2023)
+dell’11 novembre 2015 (Stato 1° giugno 2023)
 
 Il Consiglio federale svizzero,
 
@@ -72,32 +72,35 @@ Sono soggetti ad autorizzazione:
 - b. i servizi di ogni genere, compresi i servizi finanziari, i servizi di mediazione e la consulenza tecnica, la concessione di mezzi finanziari, nonché investimenti, partecipazioni e joint venture in relazione con la vendita, la fornitura, l’esportazione, il transito, la messa a disposizione, la manutenzione, la fabbricazione o l’impiego di beni, tecnologie e software di cui all’allegato 2.
 - c. l’acquisizione, l’importazione, il transito, il trasporto e la mediazione di beni nucleari, di beni a duplice impiego, di tecnologie e software di cui all’allegato 2 provenienti dall’Iran.
 
-<sup>2</sup> Il capoverso 1 si applica anche ad altri beni che potrebbero essere destinati, totalmente o in parte, alle attività dell’Iran nel campo dell’arricchimento di uranio, del ritrattamento di combustibili nucleari e dell’acqua pesante che non sarebbero conciliabili con il piano d’azione congiunto globale del 14 luglio 2015[^3-1] sulla questione nucleare iraniana e sulla revoca delle sanzioni internazionali nei confronti dell’Iran (*Joint Comprehensive Plan of Action, JCPOA)*.
+<sup>2</sup> Il capoverso 1 si applica anche ad altri beni che potrebbero essere destinati, totalmente o in parte, alle attività dell’Iran nel campo dell’arricchimento di uranio, del ritrattamento di combustibili nucleari e dell’acqua pesante che non sarebbero conciliabili con il piano d’azione congiunto globale del 14 luglio 2015[^3-1] sulla questione nucleare iraniana e sulla revoca delle sanzioni internazionali nei confronti dell’Iran (*Joint Comprehensive Plan of Action*, JCPOA).[^3-2]
 
 <sup>3</sup>
 
-La Segreteria di Stato dell’economia (SECO) rilascia l’autorizzazione per i beni di cui al capoverso 2 e all’allegato 2 parte 1 e per i servizi connessi procedendo secondo l’articolo 16 dell’ordinanza del 3 giugno 2016[^3-2] sul controllo dei beni a duplice impiego (OBDI)[^3-3], se:
+La Segreteria di Stato dell’economia (SECO) rilascia l’autorizzazione per i beni di cui al capoverso 2 e all’allegato 2 parte 1 e per i servizi connessi procedendo secondo l’articolo 16 dell’ordinanza del 3 giugno 2016[^3-3] sul controllo dei beni a duplice impiego (OBDI)[^3-4], se:
 
-- a. sono soddisfatti i requisiti previsti dalle direttive del 13 novembre 2013, rispettivamente di giugno 2013 del Gruppo dei fornitori nucleari (NSG)[^3-4];
+- a. sono soddisfatti i requisiti previsti dalle direttive del 13 novembre 2013, rispettivamente di giugno 2013 del Gruppo dei fornitori nucleari (NSG)[^3-5];
 - b. l’Iran ha concesso per ogni bene fornito i diritti per la verifica dell’impiego finale e del luogo dell’impiego finale e tali diritti possono essere esercitati in modo efficace;
-- c. le attività sono conciliabili con il JCPOA.[^3-5]
+- c. le attività sono conciliabili con il JCPOA.[^3-6]
 
-<sup>3bis</sup> La SECO rilascia l’autorizzazione per i beni di cui all’allegato 2 parte 2 e per i servizi connessi se non vi è motivo di ritenere che l’attività possa contribuire totalmente o in parte alle attività dell’Iran nel campo dell’arricchimento di uranio, del ritrattamento di combustibili nucleari e dell’acqua pesante o ad altre attività in ambito nucleare non conciliabili con il JCPOA.[^3-6]
+<sup>3bis</sup> La SECO rilascia l’autorizzazione per i beni di cui all’allegato 2 parte 2 e per i servizi connessi se non vi è motivo di ritenere che l’attività possa contribuire totalmente o in parte alle attività dell’Iran nel campo dell’arricchimento di uranio, del ritrattamento di combustibili nucleari e dell’acqua pesante o ad altre attività in ambito nucleare non conciliabili con il JCPOA.[^3-7]
 
-<sup>3ter</sup> L’obbligo di autorizzazione di cui al capoverso 1 lettera b non si applica ai servizi relativi a beni per i quali la SECO ha rilasciato un’autorizzazione secondo il capoverso 3<sup>bis</sup>.[^3-7]
+<sup>3ter</sup> L’obbligo di autorizzazione di cui al capoverso 1 lettera b non si applica ai servizi relativi a beni per i quali la SECO ha rilasciato un’autorizzazione secondo il capoverso 3<sup>bis</sup>.[^3-8]
 
-<sup>4</sup> Se previsto dalla risoluzione 2231 (2015) del Consiglio di sicurezza dell’ONU del 20 luglio 2015[^3-8], la SECO chiede il parere di quest’ultimo o della Commissione congiunta del JCPOA.
+<sup>4</sup> Se previsto dalla risoluzione 2231 (2015)[^3-9] del Consiglio di sicurezza delle Nazioni Unite, la SECO chiede il parere di quest’ultimo o della Commissione congiunta del JCPOA.[^3-10]
 
-<sup>5</sup> L’esercizio di un’attività di cui al capoverso 1 deve essere notificato alla SECO entro cinque giorni lavorativi. La SECO comunica l’esercizio dell’attività al Consiglio di sicurezza dell’ONU e dell’Agenzia internazionale per l’energia atomica conformemente alla risoluzione 2231 (2015) del Consiglio di sicurezza dell’ONU.
+<sup>5</sup> L’esercizio di un’attività di cui al capoverso 1 deve essere notificato alla SECO entro cinque giorni lavorativi. La SECO comunica l’esercizio dell’attività al Consiglio di sicurezza delle Nazioni Unite e all’Agenzia internazionale per l’energia atomica conformemente alla risoluzione 2231 (2015).[^3-11]
 
-[^3-1]: Il testo del piano d’azione congiunto globale è contenuto nell’all. A della risoluzone dell’ONU 2231 (2015). I testi delle risoluzioni del Consiglio di sicurezza delle Nazioni Unite sono consultabili in francese e in inglese al seguente indirizzo Internet: www.un.org &gt; Peace and Security &gt; Security Council &gt; Documents &gt; Resolutions.
-[^3-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352).
-[^3-3]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2016.
-[^3-4]: Le direttive del Gruppo dei fornitori nucleari sono consultabili in francese e in inglese al seguente indirizzo Internet: www.nuclearsuppliersgroup.org &gt; Directives.
-[^3-5]: Nuovo testo giusta il n. I dell’O del 18 mag. 2016, in vigore dal 18 mag. 2016 ([RU 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
-[^3-6]: Introdotto dal n. I dell’O del 18 mag. 2016, in vigore dal 18 mag. 2016 ([RU 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
+[^3-1]: Il testo del piano d’azione congiunto globale è contenuto nell’allegato A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^3-2]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-3]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^3-4]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2016.
+[^3-5]: Le direttive del Gruppo dei fornitori nucleari sono consultabili in francese e in inglese al seguente indirizzo Internet: [www.nuclearsuppliersgroup.org](http://www.nuclearsuppliersgroup.org) &gt; Directives.
+[^3-6]: Nuovo testo giusta il n. I dell’O del 18 mag. 2016, in vigore dal 18 mag. 2016 ([RU 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
 [^3-7]: Introdotto dal n. I dell’O del 18 mag. 2016, in vigore dal 18 mag. 2016 ([RU 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
-[^3-8]: I testi delle risoluzioni del Consiglio di sicurezza delle Nazioni Unite sono consultabili in francese e in inglese al seguente indirizzo Internet: www.un.org &gt; Peace and Security &gt; Security Council &gt; Documents &gt; Resolutions.
+[^3-8]: Introdotto dal n. I dell’O del 18 mag. 2016, in vigore dal 18 mag. 2016 ([RU 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
+[^3-9]: La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^3-10]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-11]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 4
 
@@ -156,16 +159,22 @@ Le imprese che intendono concludere accordi con persone od organizzazioni irania
 
 <sup>2</sup> Le imprese di cui al capoverso 1 devono richiedere un’autorizzazione prima di accettare prestiti o crediti da parte di persone od organizzazioni iraniane.
 
-<sup>3</sup> La SECO rilascia un’autorizzazione se le attività sono conciliabili con il JCPOA[^6-3].
+<sup>3</sup> La SECO rilascia un’autorizzazione se le attività sono conciliabili con il JCPOA[^6-3].[^6-4]
 
-<sup>4</sup> Se la risoluzione 2231 (2015) del Consiglio di sicurezza dell’ONU del 20 luglio 2015[^6-4] lo prevede, la SECO chiede il parere del Consiglio di sicurezza dell’ONU o della Commissione congiunta del JCPOA.
+<sup>4</sup> Se la risoluzione 2231 (2015)[^6-5] del Consiglio di sicurezza delle Nazioni Unite lo prevede, la SECO chiede il parere del Consiglio di sicurezza delle Nazioni Unite o della Commissione congiunta del JCPOA.[^6-6]
 
 [^6-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^6-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Il contenuto dell’all. 2 OBDI è disponibile al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
-[^6-3]: Il testo del piano d’azione congiunto globale è contenuto nell’allegato A della risoluzione dell’ONU 2231 (2015). I testi delle risoluzioni del Consiglio di sicurezza delle Nazioni Unite sono consultabili in francese e in inglese al seguente indirizzo Internet: www.un.org &gt; Peace and Security &gt; Security Council &gt; Documents &gt; Resolutions.
-[^6-4]: I testi delle risoluzioni del Consiglio di sicurezza delle Nazioni Unite sono consultabili in francese e in inglese al seguente indirizzo Internet: www.un.org &gt; Peace and Security &gt; Security Council &gt; Documents &gt; Resolutions.
+[^6-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Il contenuto dell’all. 2 OBDI è disponibile al seguente indirizzo Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
+[^6-3]: Il testo del piano d’azione congiunto globale è contenuto nell’allegato A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^6-4]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^6-5]: La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^6-6]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
-## Sezione 4: Blocco di valori patrimoniali e divieto di metterli a disposizione
+## Sezione 4: Restrizioni finanziarie
+
+[^sec4-1]
+
+[^sec4-1]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 7
 
@@ -182,18 +191,32 @@ Le imprese che intendono concludere accordi con persone od organizzazioni irania
 
 <sup>3</sup>
 
-La SECO può in via eccezionale autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione di risorse economiche bloccate per:
+Il divieto di cui al capoverso 2 non si applica alla fornitura di aiuti umanitari e al sostegno di altre attività volte a soddisfare i bisogni umani fondamentali da parte di:
+
+- a. Organizzazione delle Nazioni Unite, anche per il tramite dei suoi programmi, fondi e altri enti e organismi, nonché sue agenzie specializzate e organizzazioni collegate;
+- b. organizzazioni internazionali;
+- c. organizzazioni umanitarie aventi status di osservatore presso l’Assemblea generale delle Nazioni Unite e membri di tali organizzazioni;
+- d. organizzazioni non governative finanziate a livello bilaterale o multilaterale che partecipano ai piani di risposta umanitaria delle Nazioni Unite, ai piani di risposta per i rifugiati, ad altri appelli delle Nazioni Unite o a strutture umanitarie coordinate dall’Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA);
+- e. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a−d nella misura in cui agiscono in tale veste;
+- f. ogni altro soggetto designato dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^7-1]
+
+<sup>4</sup>
+
+La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione di risorse economiche bloccate se servono a:
 
 - a. prevenire casi di rigore;
 - b. rispettare contratti esistenti;
-- c. rispettare crediti oggetto di una sentenza giudiziaria, amministrativa o arbitrale;
-- d. adempiere agli scopi ufficiali di missioni diplomatiche o consolari iraniane; oppure
-- e. attuare il JCPOA[^7-1];
-- f. tutelare interessi svizzeri.
+- c. onorare crediti oggetto di una sentenza giudiziaria, amministrativa o arbitrale;
+- d. adempiere agli scopi ufficiali di missioni diplomatiche o consolari iraniane;
+- e. attuare il JCPOA[^7-2]; o
+- f. tutelare interessi svizzeri.[^7-3]
 
-<sup>4</sup> La SECO autorizza le deroghe di cui al capoverso 3 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze (DFF) e, se del caso, conformemente alle pertinenti risoluzioni del Consiglio di sicurezza dell’ONU.
+<sup>5</sup> La SECO autorizza le deroghe di cui al capoverso 4 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze e, se del caso, in conformità alle pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite.[^7-4]
 
-[^7-1]: Il testo del piano d’azione congiunto globale è contenuto nell’allegato A della risoluzione dell’ONU 2231 (2015). I testi delle risoluzioni del Consiglio di sicurezza delle Nazioni Unite sono consultabili in francese e in inglese al seguente indirizzo Internet: www.un.org &gt; Peace and Security &gt; Security Council &gt; Documents &gt; Resolutions.
+[^7-1]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^7-2]: Il testo del piano d’azione congiunto globale è contenuto nell’allegato A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^7-3]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^7-4]: Introdotto dal n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 8
 
@@ -223,7 +246,7 @@ La SECO può in via eccezionale autorizzare prelievi da conti bloccati, trasferi
 
 <sup>1</sup> L’ingresso in Svizzera o il transito attraverso la Svizzera sono vietati alle persone fisiche di cui agli allegati 5 e 6.
 
-<sup>2</sup> La Segreteria di Stato della migrazione (SEM) può concedere deroghe alle persone fisiche di cui all’allegato 5 in conformità alle decisioni del competente comitato del Consiglio di sicurezza dell’ONU.
+<sup>2</sup> La Segreteria di Stato della migrazione (SEM) può concedere deroghe alle persone fisiche di cui all’allegato 5 in conformità alle decisioni del comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^10-1]
 
 <sup>3</sup>
 
@@ -232,6 +255,8 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 6:
 - a. per comprovati motivi umanitari;
 - b. per consentire la partecipazione a congressi di organismi internazionali o a un dialogo politico concernente l’Iran; o
 - c. per tutelare interessi svizzeri.
+
+[^10-1]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 11
 
@@ -599,7 +624,7 @@ Allegato 5[^t-1]
 
 \2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite.
 
-[^annex5-lvlu1-2]: La lista è consultabile ai seguenti indirizzi Internet: www.un.org/en/sc/ &gt; 2231 (2015) &gt; 2231 list.
+[^annex5-lvlu1-2]: La lista è consultabile ai seguenti indirizzi Internet: [www.un.org/en/sc/](http://www.un.org/en/sc/) &gt; 2231 (2015) &gt; 2231 list.
 
 Allegato 6[^t-2]
 

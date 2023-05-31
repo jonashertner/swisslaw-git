@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2023-05-11
+version: 2023-06-01
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20230511/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20230511-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20230511/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20230601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (État le 11 mai 2023)
+du 11 novembre 2015 (État le 1<sup>er</sup> juin 2023)
 
 Le Conseil fédéral suisse,
 
@@ -72,32 +72,35 @@ Sont soumis à autorisation:
 - b. les services de toute sorte, y compris les services financiers, les services de courtage et la formation technique, l’octroi de moyens financiers, ainsi que les investissements, les participations et les coentreprises liés à la vente, à la livraison, à l’exportation, au transit, à la fourniture, à l’entretien, à la fabrication ou à l’utilisation des biens, technologies et logiciels visés à l’annexe 2;
 - c. l’acquisition, l’importation, le transit, le transport et le courtage, à partir de l’Iran, de biens nucléaires et de biens, technologies et logiciels à double usage visés à l’annexe 2.
 
-<sup>2</sup> L’al. 1 s’applique également aux autres biens qui pourraient être destinés, en totalité ou en partie, aux activités de l’Iran dans les domaines de l’enrichissement de l’uranium, du retraitement de combustible nucléaire et de l’eau lourde et qui seraient incompatibles avec le Plan d’action global commun du 14 juillet 2015[^3-1] portant sur le dossier nucléaire iranien et visant à lever les sanctions internationales frappant l’Iran.
+<sup>2</sup> L’al. 1 s’applique également aux autres biens qui pourraient être destinés, en totalité ou en partie, aux activités de l’Iran dans les domaines de l’enrichissement de l’uranium, du retraitement de combustible nucléaire et de l’eau lourde et qui seraient incompatibles avec le Plan d’action global commun du 14 juillet 2015[^3-1] portant sur le dossier nucléaire iranien et visant à lever les sanctions internationales frappant l’Iran.[^3-2]
 
 <sup>3</sup>
 
-Le Secrétariat d’État à l’économie (SECO) accorde l’autorisation pour les biens visés à l’al. 2 et à l’annexe 2 partie 1, et pour les services connexes dans le cadre de la procédure prévue à l’art. 16 de l’ordonnance du 3 juin 2016[^3-2] sur le contrôle des biens (OCB)[^3-3] si:
+Le Secrétariat d’État à l’économie (SECO) accorde l’autorisation pour les biens visés à l’al. 2 et à l’annexe 2 partie 1, et pour les services connexes dans le cadre de la procédure prévue à l’art. 16 de l’ordonnance du 3 juin 2016[^3-3] sur le contrôle des biens (OCB)[^3-4] si:
 
-- a. les exigences des directives du 13 novembre 2013, respectivement de juin 2013 du Groupe des fournisseurs nucléaires (GFN)[^3-4] sont satisfaites;
+- a. les exigences des directives du 13 novembre 2013, respectivement de juin 2013 du Groupe des fournisseurs nucléaires (GFN)[^3-5] sont satisfaites;
 - b. l’Iran a accordé les droits de contrôler l’utilisation finale et le lieu de l’utilisation finale de chaque bien livré, et qu’il est possible de faire valoir efficacement ces droits;
-- c. les activités sont compatibles avec le Plan d’action global commun.[^3-5]
+- c. les activités sont compatibles avec le Plan d’action global commun.[^3-6]
 
-<sup>3bis</sup> Le SECO accorde l’autorisation pour les biens visés à l’annexe 2, partie 2, et pour les services connexes s’il n’y a pas lieu de penser que l’activité peut contribuer en tout ou partie aux activités de l’Iran dans les domaines de l’enrichissement de l’uranium, du retraitement de combustible nucléaire et de l’eau lourde ou à d’autres activités dans le secteur nucléaire qui sont incompatibles avec le Plan d’action global commun.[^3-6]
+<sup>3bis</sup> Le SECO accorde l’autorisation pour les biens visés à l’annexe 2, partie 2, et pour les services connexes s’il n’y a pas lieu de penser que l’activité peut contribuer en tout ou partie aux activités de l’Iran dans les domaines de l’enrichissement de l’uranium, du retraitement de combustible nucléaire et de l’eau lourde ou à d’autres activités dans le secteur nucléaire qui sont incompatibles avec le Plan d’action global commun.[^3-7]
 
-<sup>3ter</sup> Ne sont pas soumis au régime de l’autorisation prévu à l’al. 1, let. b, les services connexes aux biens pour lesquels le SECO a accordé une autorisation en vertu de l’al. 3<sup>bis</sup>.[^3-7]
+<sup>3ter</sup> Ne sont pas soumis au régime de l’autorisation prévu à l’al. 1, let. b, les services connexes aux biens pour lesquels le SECO a accordé une autorisation en vertu de l’al. 3<sup>bis</sup>.[^3-8]
 
-<sup>4</sup> Pour autant que la résolution 2231 (2015) du Conseil de sécurité des Nations Unies du 20 juillet 2015[^3-8] le requière, le SECO sollicite la prise de position du Conseil de sécurité ou de la Commission conjointe du Plan d’action global commun.
+<sup>4</sup> Pour autant que la résolution 2231 (2015)[^3-9] du Conseil de sécurité des Nations Unies le requière, le SECO sollicite la prise de position du Conseil de sécurité ou de la Commission conjointe du Plan d’action global commun.[^3-10]
 
-<sup>5</sup> L’exercice d’une activité au sens de l’al. 1 doit être annoncé au SECO dans un délai de cinq jours ouvrés. Le SECO notifie l’exercice de cette activité au Conseil de sécurité et à l’Agence internationale de l’énergie atomique, conformément à la résolution 2231 (2015).
+<sup>5</sup> L’exercice d’une activité au sens de l’al. 1 doit être annoncé au SECO dans un délai de cinq jours ouvrés. Le SECO notifie l’exercice de cette activité au Conseil de sécurité des Nations Unies et à l’Agence internationale de l’énergie atomique, conformément à la résolution 2231 (2015).[^3-11]
 
-[^3-1]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. Les textes des résolutions du Conseil de sécurité sont accessibles en ligne en versions française et anglaise à l’adresse: [www.un.org](https://www.un.org) &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
-[^3-2]: Le renvoi a été adapté au 1<sup>er</sup> juil. 2016 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^3-3]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^3-4]: Les directives du GFN sont accessibles en ligne à l’adresse: www.nuclearsuppliersgroup.org/fr/ &gt; Directives.
-[^3-5]: Nouvelle teneur selon le ch. I de l’O du 18 mai 2016, en vigueur depuis le 18 mai 2016 ([RO 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
-[^3-6]: Introduit par le ch. I de l’O du 18 mai 2016, en vigueur depuis le 18 mai 2016 ([RO 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
+[^3-1]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. La résolution 2231 (2015) du Conseil de sécurité des Nations Unies peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Documents &gt; Résolutions.
+[^3-2]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-3]: Le renvoi a été adapté au 1<sup>er</sup> juil. 2016 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^3-4]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^3-5]: Les directives du GFN sont accessibles en ligne à l’adresse: [www.nuclearsuppliersgroup.org/fr](http://www.nuclearsuppliersgroup.org/fr) &gt; Directives.
+[^3-6]: Nouvelle teneur selon le ch. I de l’O du 18 mai 2016, en vigueur depuis le 18 mai 2016 ([RO 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
 [^3-7]: Introduit par le ch. I de l’O du 18 mai 2016, en vigueur depuis le 18 mai 2016 ([RO 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
-[^3-8]: Les textes des résolutions du Conseil de sécurité des Nations Unies sont accessibles en ligne en versions française et anglaise à l’adresse: [www.un.org](https://www.un.org) &gt; Notre action &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions
+[^3-8]: Introduit par le ch. I de l’O du 18 mai 2016, en vigueur depuis le 18 mai 2016 ([RO 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
+[^3-9]: La résolution du Conseil de sécurité des Nations Unies peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Documents &gt; Résolutions.
+[^3-10]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-11]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 4
 
@@ -156,16 +159,22 @@ L’entreprise ayant l’intention de conclure un accord avec une personne ou un
 
 <sup>2</sup> L’entreprise visée à l’al. 1 doit demander une autorisation pour recevoir un prêt ou un crédit d’une personne ou d’une entité iranienne.
 
-<sup>3</sup> Le SECO accorde l’autorisation pour autant que les activités soient compatibles avec le Plan d’action global commun[^6-3].
+<sup>3</sup> Le SECO accorde l’autorisation pour autant que les activités soient compatibles avec le Plan d’action global commun[^6-3].[^6-4]
 
-<sup>4</sup> Pour autant que la résolution 2231 (2015) du Conseil de sécurité des Nations Unies du 20 juillet 2015[^6-4] le requière, le SECO sollicite la prise de position du Conseil de sécurité ou de la Commission conjointe du Plan d’action global commun.
+<sup>4</sup> Pour autant que la résolution 2231 (2015)[^6-5] du Conseil de sécurité des Nations Unies le requière, le SECO sollicite la prise de position du Conseil de sécurité ou de la Commission conjointe du Plan d’action global commun.[^6-6]
 
 [^6-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
 [^6-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Le texte de l’annexe 2 peut être consulté sur le site du SECO à l’adresse: [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
-[^6-3]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. Les textes des résolutions du Conseil de sécurité sont accessibles en ligne en versions française et anglaise à l’adresse: [www.un.org](https://www.un.org) &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
-[^6-4]: Les textes des résolutions du Conseil de sécurité des Nations Unies sont accessibles en ligne en versions française et anglaise à l’adresse: [www.un.org](https://www.un.org) &gt; Notre action &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
+[^6-3]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. La résolution 2231 (2015) du Conseil de sécurité des Nations Unies peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Documents &gt; Résolutions.
+[^6-4]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^6-5]: La résolution du Conseil de sécurité des Nations Unies peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^6-6]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
-## Section 4 Gel des valeurs patrimoniales et interdiction de mise à disposition
+## Section 4 Restrictions financières
+
+[^sec4-1]
+
+[^sec4-1]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 7
 
@@ -182,18 +191,32 @@ Il est interdit:
 
 <sup>3</sup>
 
-Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées, afin:
+L’interdiction prévue à l’al. 2, let. a, ne s’applique pas à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes par:
+
+- a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
+- b. des organisations internationales;
+- c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
+- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
+- e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d, lorsqu’ils agissent en cette qualité;
+- f. tous les autres acteurs tels que déterminés par le comité compétent du Conseil de sécurité des Nations Unies.[^7-1]
+
+<sup>4</sup>
+
+Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
 
 - a. d’éviter des cas de rigueur;
 - b. d’honorer des contrats existants;
 - c. d’honorer des créances en application d’une décision judiciaire, administrative ou arbitrale;
 - d. de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires iraniennes;
-- e. de mettre en œuvre le Plan d’action global commun[^7-1], ou
-- f. de sauvegarder des intérêts suisses.
+- e. de mettre en œuvre le Plan d’action global commun[^7-2], ou
+- f. de sauvegarder les intérêts de la Suisse.[^7-3]
 
-<sup>4</sup> Le SECO autorise les dérogations visées à l’al. 3 après avoir consulté les services compétents du DFAE et du Département fédéral des finances (DFF) et, le cas échéant, en accord avec les résolutions pertinentes du Conseil de sécurité des Nations Unies.
+<sup>5</sup> Il accorde les dérogations prévues à l’al. 4 après consultation des services compétents du DFAE et du Département fédéral des finances et, le cas échéant, en conformité avec les résolutions pertinentes du Conseil de sécurité des Nations Unies.[^7-4]
 
-[^7-1]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. Les textes des résolutions du Conseil de sécurité sont accessibles en ligne en versions française et anglaise à l’adresse: [www.un.org](https://www.un.org) &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
+[^7-1]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^7-2]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. La résolution 2231 (2015) du Conseil de sécurité des Nations Unies peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Documents &gt; Résolutions.
+[^7-3]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^7-4]: Introduit par le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 8
 
@@ -223,7 +246,7 @@ Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des co
 
 <sup>1</sup> L’entrée en Suisse et le transit par la Suisse sont interdits aux personnes physiques citées aux annexes 5 et 6.
 
-<sup>2</sup> Le Secrétariat d’État aux migrations (SEM) peut accorder des dérogations en conformité avec les décisions du comité compétent du Conseil de sécurité des Nations Unies pour des personnes physiques visées à l’annexe 5.
+<sup>2</sup> Le Secrétariat d’État aux migrations (SEM) peut accorder des dérogations en conformité avec les décisions du comité compétent du Conseil de sécurité des Nations Unies pour des personnes physiques visées à l’annexe 5.[^10-1]
 
 <sup>3</sup>
 
@@ -232,6 +255,8 @@ Il peut, pour des personnes physiques visées à l’annexe 6, accorder des dér
 - a. s’il existe des motifs humanitaires avérés;
 - b. si la personne se déplace pour assister à des réunions d’organismes internationaux ou pour mener un dialogue politique concernant l’Iran, ou
 - c. si la sauvegarde d’intérêts suisses l’exige.
+
+[^10-1]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 11
 
@@ -550,7 +575,7 @@ Annexe 4
 - *MSISDN (**Mobile Subscriber Integrated Services Digital Network Number):* numéro de réseau numérique à intégration de services de l’abonné mobile. C’est un numéro identifiant de façon unique un abonnement à un réseau mobile GSM ou UMTS. Pour simplifier, c’est le numéro de téléphone attribué à la carte SIM d’un téléphone mobile, qui identifie donc un abonné mobile aussi bien que l’IMSI, mais dont le but est de permettre l’acheminement des appels.
 - *IMEI (International Mobile Equipment Identity)*: identité internationale de l’équipement mobile. C’est un numéro, d’ordinaire unique, permettant d’identifier les téléphones mobiles GSM, WCDMA et IDEN, ainsi que certains téléphones satellitaires. Il est généralement imprimé à l’intérieur du compartiment de la batterie du téléphone. L’interception (écoute téléphonique) peut être spécifiée au moyen du numéro IMEI, ainsi que par l’IMSI et le MSISDN.
 - *TMSI (Temporary Mobile Subscriber Identity)*: identité temporaire d’abonné mobile. C’est l’identité qui est la plus communément transmise entre le téléphone mobile et le réseau.
-- – Équipements tactiques d’interception et de surveillancede : SMS (Short Message System ; service de messages courts), GSM (Global System for Mobile Communications; système mondial de communications mobiles), GPS (Global Positioning System; système de positionnement à capacité globale), GPRS (General Package Radio Service ; service général de radiocommunication par paquets), UMTS (Universal Mobile Telecommunication System; système universel de télécommunications mobiles), CDMA (Code Division Multiple Access; accès multiple par différence de code), PSTN (Public Switch Telephone Network ; réseau téléphonique public commuté).
+- – Équipements tactiques d’interception et de surveillancede: SMS (Short Message System; service de messages courts), GSM (Global System for Mobile Communications; système mondial de communications mobiles), GPS (Global Positioning System; système de positionnement à capacité globale), GPRS (General Package Radio Service; service général de radiocommunication par paquets), UMTS (Universal Mobile Telecommunication System; système universel de télécommunications mobiles), CDMA (Code Division Multiple Access; accès multiple par différence de code), PSTN (Public Switch Telephone Network; réseau téléphonique public commuté).
 - – Équipements d’interception et de surveillance de données de DHCP (Dynamic Host Configuration Protocol; protocole de configuration dynamique d’hôte), SMTP (Simple Mail Transfer Protocol; protocole de transfert de courrier simple) et GTP (GPRS Tunneling Protocol; protocole tunnel GPRS).
 - – Équipements de reconnaissance et de profilage de formes.
 - – Équipements de criminalistique.
