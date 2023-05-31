@@ -3,20 +3,19 @@ canton: VS
 number: "221.605"
 title: "Beschluss über den Erlass eines Normalarbeitsvertrags mit zwingenden Mindestlöhnen für das Personal von Seilbahnen, Sesselliften, Skiliften und ähnlichen Betrieben"
 language: de
-version: 2023-01-01
-valid_until: 2023-05-31
+version: 2023-06-01
 version_adopted: 2022-11-23
 adopted: 2022-11-23
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/221.605"
-pdf: "https://lex.vs.ch/api/de/versions/3086/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3087/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über den Erlass eines Normalarbeitsvertrags mit zwingenden Mindestlöhnen für das Personal von Seilbahnen, Sesselliften, Skiliften und ähnlichen Betrieben
 
-vom 23.11.2022 (Stand 01.01.2023)
+vom 23.11.2022 (Stand 01.06.2023)
 
 Der Staatsrat des Kanton Wallis
 
@@ -62,6 +61,18 @@ beschliesst:
 </table>
 
 <sup>3</sup> Zusätzlich zu den Mindestlöhnen nach den Absätzen 1 und 2 dieses Artikels wird ein 13. Monatslohn gezahlt.
+
+#### Art. 3
+
+**Löhne vom 1. Juni 2023 bis zum 31. Mai 2027**
+
+<sup>1</sup> Die Arbeitnehmer werden nach den im Anhang 1 zu diesem Normalarbeitsvertag festgelegten Lohnklassen entlöhnt.
+
+<sup>2</sup> Die Mindestlöhne sind im Anhang 2 zu diesem Normalarbeitsvertag ausgeführt.
+
+<sup>3</sup> Zusätzlich zu den Mindestlöhnen gemäss Anhang 2 wird ein 13. Monatslohn gezahlt.
+
+<sup>4</sup> Als Erfahrungsjahr in der Branche gilt eine Beschäftigungsdauer von einem Jahr oder 2 Saisons (Winter oder Sommer) mit jeweils einer Beschäftigungsdauer von mindestens 3 Monaten.
 
 #### Art. 4
 

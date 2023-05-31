@@ -3,20 +3,19 @@ canton: VS
 number: "221.605"
 title: "Arrêté édictant un contrat-type de travail prévoyant des salaires minimaux impératifs pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues"
 language: fr
-version: 2023-01-01
-valid_until: 2023-05-31
+version: 2023-06-01
 version_adopted: 2022-11-23
 adopted: 2022-11-23
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/221.605"
-pdf: "https://lex.vs.ch/api/fr/versions/3086/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3087/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté édictant un contrat-type de travail prévoyant des salaires minimaux impératifs pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues
 
-du 23.11.2022 (état 01.01.2023)
+du 23.11.2022 (état 01.06.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -62,6 +61,18 @@ arrête:
 </table>
 
 <sup>3</sup> Un 13<sup>e</sup> salaire est payé en sus des salaires minimaux prévus aux alinéas 1 et 2 du présent article.
+
+#### Art. 3
+
+**Salaires du 1<sup>er</sup> juin 2023 au 31 mai 2027**
+
+<sup>1</sup> Les travailleurs sont rémunérés selon les classes de salaires définies dans l'annexe 1 au présent contrat-type de travail.
+
+<sup>2</sup> Les salaires minimaux font l’objet de l'annexe 2 au présent contrat-type de travail.
+
+<sup>3</sup> Un 13<sup>e</sup> salaire est payé en sus des salaires minimaux prévus à l'annexe 2.
+
+<sup>4</sup> Est considérée comme année d'expérience dans la branche, une année complète d'activité ou 2 saisons (hiver ou été), chacune d'une durée d'activité de 3 mois au minimum.
 
 #### Art. 4
 
