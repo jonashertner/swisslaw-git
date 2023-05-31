@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 22 marzo 2017 sulla cartella informatizzata del paz
 short: OCIP-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/205"
 language: it
-version: 2022-12-01
+version: 2023-06-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2017-205-20221201-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2017-205-20230601-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20221201/it"
 
 (OCIP-DFI)
 
-del 22 marzo 2017 (Stato 1° dicembre 2022) (Stato 1° dicembre 2022)
+del 22 marzo 2017 (Stato 1° giugno 2023)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -126,6 +126,14 @@ Fino al 31 dicembre 2023 le comunità e le comunità di riferimento non sono ten
 
 [^8b-1]: Introdotto dal n. I dell’O del DFI del 28 ott. 2022, in vigore dal 1° dic. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)).
 
+#### Art. 8c
+
+**Disposizione transitoria della modifica del 4 maggio 2023**[^8c-1]
+
+Fino al 31 maggio 2024 le comunità e le comunità di riferimento non sono tenute ad attuare la modifica del 4 maggio 2023.
+
+[^8c-1]: Introdotto dal n. I dell’O del DFI del 4 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)).
+
 #### Art. 9
 
 **Entrata in vigore**
@@ -189,8 +197,8 @@ Allegato 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I cpv. 1 dell’O dell’UFSP del 13 mar. 2020 ([RU 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)). Aggiornato dal n. I cpv. 1 dell’O dell’UFSP del 16 mar. 2021 ([RU 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)) e dal n. II cpv. 1 dell’O del DFI del 28 ott. 2022, in vigore dal 1° dic. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)).
-[^annex2-lvlu1-1]: Il contenuto di questo all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2022/657](https://fedlex.data.admin.ch/eli/oc/2022/657) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta il n. I cpv. 1 dell’O dell’UFSP del 13 mar. 2020 ([RU 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)). Aggiornato dal n. I cpv. 1 dell’O dell’UFSP del 16 mar. 2021 ([RU 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), dal n. II cpv. 1 delle O del DFI del 28 ott. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)) e del 4 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)).
+[^annex2-lvlu1-1]: Il contenuto di questo all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2023/221](https://fedlex.data.admin.ch/eli/oc/2023/221) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-2]
 
@@ -200,8 +208,8 @@ Allegato 3[^t-2]
 
 [^annex3-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 24 giu. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Aggiornato dalla correzione del 26 nov. 2019 ([RU 2019 3791](https://fedlex.data.admin.ch/eli/oc/2019/689)), dal n. I cpv. 1 dell’O dell’UFSP del 16 mar. 2021 ([RU 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)) e dal n. II cpv. 1 dell’O del DFI del 28 ott. 2022, in vigore dal 1° dic. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)).
-[^annex3-lvlu1-1]: Il contenuto di questo all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2022/657](https://fedlex.data.admin.ch/eli/oc/2022/657) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 24 giu. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Aggiornato dalla correzione del 26 nov. 2019 ([RU 2019 3791](https://fedlex.data.admin.ch/eli/oc/2019/689)), dal n. I cpv. 1 dell’O dell’UFSP del 16 mar. 2021 ([RU 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), dal n. II cpv. 1 delle O del DFI del 28 ott. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)) e del 4 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)).
+[^annex3-lvlu1-1]: Il contenuto di questo all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2023/221](https://fedlex.data.admin.ch/eli/oc/2023/221) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 4[^t-3]
 
@@ -211,8 +219,8 @@ Allegato 4[^t-3]
 
 [^annex4-lvlu1-1]
 
-[^t-3]: Aggiornato dal n. II cpv. 1 dell’O del DFI del 28 ott. 2022, in vigore dal 1° dic. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)).
-[^annex4-lvlu1-1]: Il contenuto di questo all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2022/657](https://fedlex.data.admin.ch/eli/oc/2022/657) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-3]: Aggiornato dal n. II cpv. 1 delle O del DFI del 28 ott. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)) e del 4 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)).
+[^annex4-lvlu1-1]: Il contenuto di questo all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2023/221](https://fedlex.data.admin.ch/eli/oc/2023/221) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 5[^t-4]
 
@@ -220,50 +228,50 @@ Allegato 5[^t-4]
 
 ## Profili d’integrazione
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 28 ott. 2022, in vigore dal 1° dic. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)).
+[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 4 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)).
 
 ### 1 Profili d’integrazione IHE
 
 [^annex5-lvlu1-lvl1-1]
 
-[^annex5-lvlu1-lvl1-1]: Integrating the Healthcare Enterprise
+[^annex5-lvlu1-lvl1-1]: Integrating the Healthcare Enterprise.
 
 <table>
-<tr><th>Profilo d’integrazione</th><th>Documento tecnico</th><th>Transazioni</th><th>Adeguamenti nazionali</th></tr>
-<tr><td>ATNA</td><td>IHE IT Infrastructure Technical Framework, Volume 2a (ITI TF-2a), Revision 15.0, July 24, 2018</td><td>Authenticate Node [ITI-19] Record Audit Event [ITI-20]</td><td>Allegato 5 complemento 1[^annex5-lvlu1-lvl1-2] OCIP-DFI, edizione 5</td></tr>
-<tr><td>CT</td><td>IHE IT Infrastructure Technical Framework, Volume 2a (ITI TF-2a), Revision 15.0, July 24, 2018</td><td>Maintain Time [ITI-1]</td><td>No</td></tr>
-<tr><td>HPD</td><td>IHE IT Infrastructure Technical Framework, Supplement Healthcare Provider Directory (HPD), Revision 1.7, July 24, 2018</td><td>Provider Information Query [ITI-58] Provider Information Feed [ITI-59] Provider Information Delta Download (CH:PIDD)</td><td>Allegato 5 complemento 1 OCIP-DFI, edizione 5</td></tr>
-<tr><td>PDQv3</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Patient Demographics Query HL7 V3 [ITI-47]</td><td>Allegato 5 complemento 1 OCIP-DFI, edizione 5</td></tr>
-<tr><td>PIXv3</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Patient Identity Feed HL7 V3 [ITI-44] PIXV3 Query [ITI-45] PIXV3 Update Notification [ITI-46]</td><td>Allegato 5 complemento 1 OCIP-DFI, edizione 5</td></tr>
-<tr><td>RMU</td><td>IHE IT Infrastructure Technical Framework, Supplement Restricted Metadata Update, Revision 1.0, May 23, 2018</td><td>Restricted Update Document Set [ITI‑92]</td><td>Allegato 5 complemento 1 OCIP-DFI, edizione 5</td></tr>
-<tr><td>SVS</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Retrieve Value Set [ITI-48]</td><td>No</td></tr>
-<tr><td>XCA</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Cross Gateway Query [ITI-38] Cross Gateway Retrieve [ITI-39]</td><td>Allegato 5 complemento 1 OCIP-DFI, edizione 5</td></tr>
-<tr><td>XCA-I</td><td>IHE Radiology Technical Framework, Volume 3 (RAD-TF-3), Revision 17.0, July 27, 2018</td><td>Cross Gateway Retrieve Image Document Set [RAD-75]</td><td>No</td></tr>
-<tr><td>XCPD</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Cross Gateway Patient Discovery [ITI-55]</td><td>Allegato 5 complemento 1 OCIP-DFI, edizione 5</td></tr>
-<tr><td>XDM</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Distribute Document Set on Media [ITI-32]</td><td>No</td></tr>
-<tr><td>XDS</td><td>IHE IT Infrastructure Technical Framework, Volume 2a (ITI TF-2a), Revision 15.0, July 24, 2018</td><td>Registry Stored Query [ITI-18]</td><td>Allegato 5 complemento 1 OCIP-DFI, edizione 5</td></tr>
-<tr><td></td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Provide and Register Document Set-b [ITI-41] Register Document Set-b [ITI-42] Retrieve Document Set [ITI-43] Patient Identity Feed HL7v3 [ITI-44]</td><td></td></tr>
-<tr><td>XDS-I.b</td><td>IHE Radiology Technical Framework, Volume 3 (RAD-TF-3), Revision 17.0, July 27, 2018</td><td>Provide & Register Imaging Document Set – MTOM/XOP [RAD-68] Retrieve Imaging Document Set [RAD-69]</td><td>Allegato 5 complemento 1 OCIP-DFI, edizione 5</td></tr>
-<tr><td>XDS Metadata Update</td><td>IHE IT Infrastructure Technical Framework, Supplement XDS Metadata Update, Revision 1.10, July 24, 2018</td><td>Update Document Set [ITI-57]</td><td>Allegato 5 complemento 1 OCIP-DFI, edizione 5</td></tr>
-<tr><td>XUA</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Authenticate User Get X-User Assertion Provide X-User Assertion [ITI-40]</td><td>Allegato 5 complemento 1 OCIP-DFI, edizione 5</td></tr>
+<tr><th>Profilo d’integrazione</th><th>Documento tecnico</th><th>Attori</th><th>Transazioni</th><th>Adeguamenti nazionali</th></tr>
+<tr><td>ATNA</td><td>IHE IT Infrastructure Technical Framework, Volume 2a (ITI TF-2a), Revision 15.0, July 24, 2018</td><td>Secure Application Secure Node Audit Record Repository</td><td>Authenticate Node [ITI-19] Record Audit Event [ITI-20]</td><td>Allegato 5 complemen-to 1[^annex5-lvlu1-lvl1-2] OCIP‑DFI, edizione 6</td></tr>
+<tr><td></td><td>IHE IT Infrastructure Technical Framework Supplement, Add RESTful ATNA (Query and Feed), Revision 3.3, July 2, 2021</td><td>Audit Consumer Audit Record Repository</td><td>Retrieve ATNA Audit Event [ITI-81]</td><td>Allegato 5 complemento 2.2[^annex5-lvlu1-lvl1-3] OCIP-DFI, profilo d’integrazione Audit Trail Consumption (CH:ATC), edizione 4</td></tr>
+<tr><td>CT</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Time Client Time Server</td><td>Maintain Time [ITI‑1]</td><td>No</td></tr>
+<tr><td>HPD</td><td>IHE IT Infrastructure Technical Framework, Supplement Healthcare Provider Directory (HPD), Revision 1.8, August 28, 2020</td><td>Provider Information Source Provider Information Consumer Provider Information Directory</td><td>Provider Information Query [ITI‑58] Provider Information Feed [ITI-59] Provider Information Delta Download (CH:PIDD)</td><td>Allegato 5 complemen-to 1 OCIP-DFI, edizione 6</td></tr>
+<tr><td>IUA</td><td>IHE IT Infrastructure Technical Framework, Supplement Internet User Authorization (IUA), Revision 2.2, June 17, 2022</td><td>Authorization Client Resource Server</td><td>Incorporate Authorization Token [ITI-72]</td><td>No</td></tr>
+<tr><td>PDQV3</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Patient Demographics Consumer Patient Demographics Supplier</td><td>Patient Demographics Query HL7 V3 [ITI-47]</td><td>Allegato 5 complemen-to 1 OCIP-DFI, edizione 6</td></tr>
+<tr><td>PIXV3</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Patient Identity Source Patient Identifier Cross- reference Consumer Patient Identifier Cross-reference Manager</td><td>Patient Identity Feed HL7 V3 [ITI‑44] PIXV3 Query [ITI‑45] PIXV3 Update Notification [ITI-46]</td><td>Allegato 5 complemen-to 1 OCIP-DFI, edizione 6</td></tr>
+<tr><td>RMU</td><td>IHE IT Infrastructure Technical Framework, Supplement Restricted Metadata Update (RMU), Revision 1.3, July 2, 2021</td><td>Update Initiator Update Responder</td><td>Restricted Update Document Set [ITI‑92]</td><td>Allegato 5 complemen-to 1 OCIP-DFI, edizione 6</td></tr>
+<tr><td>SVS</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Value Set Consumer Value Set Repository</td><td>Retrieve Value Set [ITI-48]</td><td>No</td></tr>
+<tr><td>XCA</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Initiating Gateway Responding Gateway</td><td>Cross Gateway Query [ITI-38] Cross Gateway Retrieve [ITI-39]</td><td>Allegato 5 complemen-to 1 OCIP-DFI, edizione 6</td></tr>
+<tr><td>XCA-I</td><td>IHE Radiology Technical Framework, Volume 3 (RAD‑TF-3), Cross-Transaction Specifications and Content Specifications, Revision 20.0, March 10, 2022</td><td>Initiating Imaging Gateway Responding Imaging Gateway</td><td>Cross Gateway Retrieve Image Document Set [RAD-75]</td><td>No</td></tr>
+<tr><td>XCPD</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Initiating Gateway Responding Gateway</td><td>Cross Gateway Patient Discovery [ITI-55]</td><td>Allegato 5 complemen-to 1 OCIP-DFI, edizione 6</td></tr>
+<tr><td>XDM</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Portable Media Creator Portable Media Importer</td><td>Distribute Document Set on Media [ITI‑32]</td><td>No</td></tr>
+<tr><td>XDS</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>Document Consumer Document Source Document Repository Document Registry Patient Identity Source</td><td>Registry Stored Query [ITI-18] Provide and Register Document Set-b [ITI-41] Register Document Set-b [ITI-42] Retrieve Document Set [ITI-43] Patient Identity Feed HL7v3 [ITI-44]</td><td>Allegato 5 complemen-to 1 OCIP-DFI, edizione 6</td></tr>
+<tr><td>XDS-I.b</td><td>IHE Radiology Technical Framework, Volume 3 (RAD‑TF-3), Cross-Transaction Specifications and Content Specifications, Revision 20.0, March 10, 2022</td><td>Imaging Document Source Imaging Document Consumer</td><td>Provide & Register Imaging Document Set – MTOM/XOP [RAD-68] Retrieve Imaging Document Set [RAD-69]</td><td>Allegato 5 complemen-to 1 OCIP-DFI, edizione 6</td></tr>
+<tr><td>XDS Metadata Update</td><td>IHE IT Infrastructure Technical Framework, Supplement XDS Metadata Update, Revision 1.13, June 17, 2022</td><td>Document Administrator Document Registry</td><td>Update Document Set [ITI-57]</td><td>Allegato 5 complemen-to 1 OCIP-DFI, edizione 6</td></tr>
+<tr><td>XUA</td><td>IHE IT Infrastructure Technical Framework, Volume 2, Revision 19.0, June 17, 2022</td><td>X-Service User X-Service Provider X-Assertion Provider User Authentication Provider</td><td>Authenticate User Get X-User Assertion Provide X-User Assertion [ITI-40]</td><td>Allegato 5 complemen-to 1 OCIP-DFI, edizione 6</td></tr>
 </table>
 
-[^annex5-lvlu1-lvl1-2]: Il contenuto dell’allegato 5 complemento 1 può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2022/657](https://fedlex.data.admin.ch/eli/oc/2022/657) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^annex5-lvlu1-lvl1-2]: Il contenuto dell’allegato 5 complemento 1 può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2023/221](https://fedlex.data.admin.ch/eli/oc/2023/221) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^annex5-lvlu1-lvl1-3]: Il contenuto dell’allegato 5 complemento 2.2 può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2023/221](https://fedlex.data.admin.ch/eli/oc/2023/221) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 ### 2 Profili d’integrazione nazionali
 
 <table>
-<tr><th>Profilo d’integrazione</th><th>Documento tecnico</th><th>Transazioni</th></tr>
-<tr><td>CH:ADR</td><td>Allegato 5 complemento 2.1[^annex5-lvlu1-lvl2-1] OCIP-DFI, profilo d’integrazione Authorization Decision Request (CH:ADR), edizione 4</td><td>Authorization Decision Request (CH:ADR)</td></tr>
-<tr><td>CH:ATC</td><td>Allegato 5 complemento 2.2[^annex5-lvlu1-lvl2-2] OCIP-DFI, profilo d’integrazione Audit Trail Consumption (CH:ATC), edizione 3</td><td>Retrieve ATNA Audit Event [ITI-81]</td></tr>
-<tr><td></td><td>IHE IT Infrastructure Technical Framework, Supplement Internet User Authorization (IUA), August 31, 2015</td><td>Incorporate Authorization Token [ITI-72]</td></tr>
-<tr><td>CH:CPI</td><td>Allegato 5 complemento 2.3[^annex5-lvlu1-lvl2-3] OCIP-DFI, profilo d’integrazione Community Portal Index (CH:CPI), edizione 4</td><td>Community Information Query (CH:CIQ) Community Information Delta Download (CH:CIDD)</td></tr>
-<tr><td>CH:PPQ</td><td>Allegato 5 complemento 2.1 OCIP-DFI, profilo d’integrazione Privacy Policy Query (CH:PPQ), edizione 4</td><td>Privacy Policy Feed (CH:PPQ-1) Privacy Policy Retrieve (CH:PPQ-2)</td></tr>
+<tr><th>Profilo d’integrazione</th><th>Documento tecnico</th><th>Attori</th><th>Transazioni</th></tr>
+<tr><td>CH:ADR</td><td>Allegato 5 complemento 2.1[^annex5-lvlu1-lvl2-1] OCIP-DFI, profilo d’integrazione Authorization Decision Request (CH:ADR), edizione 5</td><td>Authorization Decision Provider Authorization Decision Consumer</td><td>Authorization Decision Request (CH:ADR)</td></tr>
+<tr><td>CH:ATC</td><td>Allegato 5 complemento 2.2 OCIP-DFI, profilo d’integrazione Audit Trail Consumption (CH:ATC), edizione 4</td><td>Patient Audit Consumer Patient Audit Record Repository</td><td>Retrieve ATNA Audit Event [ITI-81]</td></tr>
+<tr><td>CH:CPI</td><td>Allegato 5 complemento 2.3[^annex5-lvlu1-lvl2-2] OCIP-DFI, profilo d’integrazione Community Portal Index (CH:CPI), edizione 5</td><td>CH:CPI Consumer CH:CPI Provider</td><td>Community Information Query (CH:CIQ) Community Information Delta Download (CH:CIDD)</td></tr>
+<tr><td>CH:PPQ</td><td>Allegato 5 comple-mento 2.1 OCIP-DFI, profilo d’integrazione Privacy Policy Query (CH:PPQ), edizione 5</td><td>Policy Source Policy Repository Policy Consumer</td><td>Privacy Policy Feed (CH:PPQ-1) Privacy Policy Retrieve (CH:PPQ-2)</td></tr>
 </table>
 
-[^annex5-lvlu1-lvl2-1]: Il contenuto dell’allegato 5 complemento 2.1 può essere ottenuto presso l’UFSP, Schwarzenburgstrasse 157, 3003 Berna o consultato sul sito Internet www.ehealth.admin.ch.
-[^annex5-lvlu1-lvl2-2]: Il contenuto dell’allegato 5 complemento 2.2 può essere ottenuto presso l’UFSP, Schwarzenburgstrasse 157, 3003 Berna o consultato sul sito Internet www.ehealth.admin.ch.
-[^annex5-lvlu1-lvl2-3]: Il contenuto dell’allegato 5 complemento 2.3 può essere ottenuto presso l’UFSP, Schwarzenburgstrasse 157, 3003 Berna o consultato sul sito Internet www.ehealth.admin.ch.
+[^annex5-lvlu1-lvl2-1]: Il contenuto dell’allegato 5 complemento 2.1 può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2023/221](https://fedlex.data.admin.ch/eli/oc/2023/221) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^annex5-lvlu1-lvl2-2]: Il contenuto dell’allegato 5 complemento 2.3 può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2023/221](https://fedlex.data.admin.ch/eli/oc/2023/221) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 6[^t-5]
 
@@ -397,8 +405,8 @@ Allegato 8[^t-7]
 
 [^annex8-lvlu1-1]
 
-[^t-7]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 24 giu. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Aggiornato dal n. I cpv. 1 dell’O dell’UFSP del 16 mar. 2021, in vigore dal 15 apr. 2021 ([RU 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)).
-[^annex8-lvlu1-1]: Il testo non è pubblicato nella RU. Può essere ottenuto presso l’UFSP, Schwarzenburgstrasse 157, 3003 Berna o consultato sul sito Internet www.ehealth.admin.ch. Il testo non è tradotto nelle lingue ufficiali.
+[^t-7]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 24 giu. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Aggiornato dal n. I cpv. 1 dell’O dell’UFSP del 16 mar. 2021 ([RU 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)) e dal n. II cpv. 1 dell’O del DFI del 4 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)).
+[^annex8-lvlu1-1]: Il contenuto di questo all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2023/221](https://fedlex.data.admin.ch/eli/oc/2023/221) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 9[^t-8]
 
@@ -408,5 +416,5 @@ Allegato 9[^t-8]
 
 [^annex9-lvlu1-1]
 
-[^t-8]: Introdotto dal n. II cpv. 3 dell’O del DFI del 24 giu. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Nuovo testo giusta il n. I cpv. 1 dell’O dell’UFSP del 13 mar. 2020, in vigore dal 15 apr. 2020 ([RU 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)).
-[^annex9-lvlu1-1]: Il testo non è pubblicato nella RU. Può essere ottenuto presso l’UFSP, Schwarzenburgstrasse 157, 3003 Berna, o consultato sul sito Internet www.ehealth.admin.ch. Il testo non è tradotto nelle lingue ufficiali.
+[^t-8]: Introdotto dal n. II cpv. 3 dell’O del DFI del 24 giu. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Nuovo testo giusta il n. I cpv. 1 dell’O dell’UFSP del 13 mar. 2020 ([RU 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)). Aggiornato dal n. II cpv. 1 dell’O del DFI del 4 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)).
+[^annex9-lvlu1-1]: Il contenuto di questo all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2023/221](https://fedlex.data.admin.ch/eli/oc/2023/221) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
