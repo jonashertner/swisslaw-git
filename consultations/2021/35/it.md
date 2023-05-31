@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Diritto della protezione degli adulti – Modifica del codice civile
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Droit de la protection de l’adulte – Modification du code civil
 document: Projet mis en consultation
 language: fr
