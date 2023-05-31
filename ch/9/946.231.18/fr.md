@@ -3,27 +3,28 @@ sr: "946.231.18"
 title: "Ordonnance du 25 mai 2005 instituant des mesures à l'encontre du Soudan"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: fr
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-371-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2005-371-20230601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Soudan
 
-du 25 mai 2005 (État le 1<sup>er</sup> janvier 2022)
+du 25 mai 2005 (État le 1<sup>er</sup> juin 2023)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], vu les résolutions 1556 (2004) et 1591 (2005)[^ingress-2] du Conseil de sécurité des Nations Unies,
+vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], en exécution des résolutions 1556 (2004), 1591 (2005) et 2664 (2022)[^ingress-2] du Conseil de sécurité des Nations Unies,[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: www.un.org/fr/documents/scres.shtml
+[^ingress-2]: Les textes des résolutions du Conseil de sécurité des Nations Unies peuvent être consultés à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Nouvelle teneur selon le ch. I 15 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## Section 1 Mesures de coercition
 
@@ -58,7 +59,21 @@ Le Secrétariat d’État à l’économie (SECO) peut, après consultation des 
 
 <sup>2</sup> Il est interdit de fournir des avoirs aux personnes, entreprises et entités visées par le gel des avoirs ou de mettre à leur disposition, directement ou indirectement, des avoirs ou des ressources économiques.
 
-<sup>3</sup> Le SECO peut, exceptionnellement, après avoir consulté les offices compétents du DFAE et du Département fédéral des finances, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin de protéger des intérêts suisses ou de prévenir des cas de rigueur.
+<sup>3</sup>
+
+L’interdiction prévue à l’al. 2 ne s’applique pas à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes par:
+
+- a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
+- b. des organisations internationales;
+- c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
+- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
+- e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d, lorsqu’ils agissent en cette qualité;
+- f. tous les autres acteurs tels que déterminés par le comité compétent du Conseil de sécurité des Nations Unies.[^2-1]
+
+<sup>4</sup> Le SECO peut, exceptionnellement, après consultation des offices compétents du DFAE et du Département fédéral des finances, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin de sauvegarder les intérêts de la Suisse ou de prévenir des cas de rigueur.[^2-2]
+
+[^2-1]: Nouvelle teneur selon le ch. I 15 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-2]: Introduit par le ch. I 15 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 3
 
@@ -79,9 +94,9 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>1</sup> L’entrée en Suisse et le transit par la Suisse sont interdits aux personnes physiques citées à l’annexe.
 
-<sup>2</sup> Le Secrétariat d’État aux migrations[^4-1] peut accorder des dérogations en conformité avec les décisions du comité compétent du Conseil de sécurité des Nations Unies ou si la protection d’intérêts suisses l’exige.
+<sup>2</sup> Le Secrétariat d’État aux migrations peut accorder des dérogations en conformité avec les décisions du comité compétent du Conseil de sécurité des Nations Unies ou afin de sauvegarde des intérêts de la Suisse.[^4-1]
 
-[^4-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-1]: Nouvelle teneur selon le ch. I 15 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## Section 2 Exécution et dispositions pénales
 
@@ -153,5 +168,5 @@ Annexe[^t-1]
 
 \2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annexu1-lvlu1-2].
 
-[^annexu1-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc/ &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant le Soudan &gt; Matériaux relatifs à la liste de sanctions.
-[^annexu1-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annexu1-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: [www.un.org/fr/sc/](http://www.un.org/fr/sc/) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant le Soudan &gt; Matériaux relatifs à la liste de sanctions.
+[^annexu1-lvlu1-2]: La banque de données SESAM est librement accessible Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
