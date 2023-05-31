@@ -4,13 +4,12 @@ number: "115.6"
 title: Gesetz über die finanzielle Beteiligung des Staates an den Wahlkampfkosten
 short: BWKG
 language: de
-version: 2015-07-01
-valid_until: 2023-05-31
-version_adopted: 2014-10-07
+version: 2023-06-01
+version_adopted: 2023-03-24
 adopted: 2001-06-22
 in_force: 2001-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/115.6"
-pdf: "https://bdlf.fr.ch/api/de/versions/4985/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7771/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Wahlkampfkosten, finanzielle Beteiligung des Staates – G
 
 (BWKG)
 
-vom 22.06.2001 (Fassung in Kraft getreten am 01.07.2015)
+vom 22.06.2001 (Fassung in Kraft getreten am 01.06.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -45,25 +44,40 @@ beschliesst:
 
 #### Art. 1a
 
-**Für jede Gesamterneuerungs- oder Ersatzwahl gewährter Kredit**
+**Für jede Gesamterneuerungs- oder Ergänzungswahl gewährter Kredit – Zusammensetzung des Betrags**
 
-<sup>1</sup> Für jede Gesamterneuerungswahl wird der Betrag der Beiträge an die Wahlkampfkosten der politischen Parteien und Wählergruppen vom Grossen Rat im Voranschlag festgelegt. Dieser Kredit umfasst:
+<sup>1</sup> Für jede Gesamterneuerungswahl umfassen die Beiträge an die Wahlkampfkosten der politischen Parteien und Wählergruppen:
 
 - a) einen fixen Betrag für die allgemeinen Wahlkampfkosten;
-- b) einen geschätzten Betrag, der die Übernahme aller Kosten der gemeinsamen Arbeiten für das Verpacken und den Versand des Wahlpropagandamaterials ermöglicht.
+- b) einen Betrag, der die Übernahme aller Kosten der gemeinsamen Arbeiten für das Verpacken und den Versand des Wahlpropagandamaterials ermöglicht.
 
-<sup>2</sup> Für jede Ersatzwahl umfasst der Betrag der Beiträge an die Wahlkampfkosten der politischen Parteien und Wählergruppen:
+<sup>2</sup> Für die Ergänzungswahlen, mit Ausnahme derjenigen in den Grossen Rat, umfassen die Beiträge an die Wahlkampfkosten der politischen Parteien und Wählergruppen:
 
 - a) einen fixen Betrag für die allgemeinen Wahlkampfkosten, der der Hälfte des letzten für die betreffende Wahl in Anwendung von Absatz 1 Bst. a festgelegten Betrags entspricht;
 - b) einen Betrag, der die Übernahme aller Kosten der gemeinsamen Arbeiten für das Verpacken und den Versand des Wahlpropagandamaterials ermöglicht.
 
-<sup>3</sup> Bei den Grossratswahlen werden die Beträge nach Absatz 1 oder 2 im Verhältnis zur Zahl der am Wahltag im Stimmregister eingetragenen Wählerinnen und Wähler auf die Wahlkreise verteilt.
+<sup>3</sup> …
+
+#### Art. 1b
+
+**Für jede Gesamterneuerungs- oder Ergänzungswahl gewährter Kredit – fixer Betrag für die allgemeinen Kosten**
+
+<sup>1</sup> Der fixe Betrag nach Artikel 1a Abs. 1 Bst. a wird proportional zur Summe der letzten Schlussabrechnungen der Wahlkampfkosten, die nach der Gesetzgebung über die Politikfinanzierung für die kantonalen Gesamterneuerungswahlen veröffentlicht wurden, auf die nächsten Tausend abgerundet.
+
+<sup>2</sup> Er entspricht:
+
+- a) für die kantonalen Wahlen 20 % der Summe dieser Schlussabrechnungen, wobei 45 % des Betrags für die Wahl in den Grossen Rat und 55 % für die Wahl in den Staatsrat bestimmt sind;
+- b) für die nationalen Wahlen 15 % der Summe dieser Schlussabrechnungen, wobei 25 % des Betrags für die Wahl in den Ständerat und 75 % für die Wahl in den Nationalrat bestimmt sind.
+
+<sup>3</sup> Nach der Veröffentlichung der Schlussabrechnungen der Wahlkampfkosten für die kantonalen Gesamterneuerungswahlen erlässt der Staatsrat eine Verordnung, in der die Gesamtergebnisse dieser Abrechnungen und die fixen Beträge, die für die nächsten Gesamterneuerungswahlen in den Voranschlag des Staats aufgenommen werden müssen, ausdrücklich erwähnt sind.
+
+<sup>4</sup> Der Anteil der fixen Beträge für die allgemeinen Wahlkampfkosten, die für die Wahl in den Grossen Rat gewährt werden, wird im Verhältnis zur Zahl der am Wahltag im Stimmregister eingetragenen Wählerinnen und Wähler auf die Wahlkreise verteilt.
 
 #### Art. 2
 
 **Beitrag an die allgemeinen Wahlkampfkosten – Im Allgemeinen**
 
-<sup>1</sup> Bei den Gesamterneuerungs- und Ersatzwahlen wird den politischen Parteien und Wählergruppen ein Beitrag an die allgemeinen Wahlkampfkosten im Sinne von Artikel 1a Abs. 1 Bst. a und Abs. 2 Bst. a gezahlt, wenn ihre Listen oder ihre Kandidatinnen und Kandidaten mindestens den folgenden Stimmenanteil erhalten haben:
+<sup>1</sup> Bei den Gesamterneuerungs- und Ergänzungswahlen wird den politischen Parteien und Wählergruppen ein Beitrag an die allgemeinen Wahlkampfkosten im Sinne von Artikel 1a Abs. 1 Bst. a und Abs. 2 Bst. a gezahlt, wenn ihre Listen oder ihre Kandidatinnen und Kandidaten mindestens den folgenden Stimmenanteil erhalten haben:
 
 - a) 1% der gültig abgegebenen Listenstimmen bei den Nationalratswahlen;
 - b) 1% der gültig abgegebenen Kandidatenstimmen bei den Ständeratswahlen;
@@ -74,7 +88,7 @@ beschliesst:
 
 **Beitrag an die allgemeinen Wahlkampfkosten – Beschränkte Kandidatenzahl**
 
-<sup>1</sup> Der Beitrag wird gemäss den ordentlichen Bestimmungen ebenfalls bei einer Wahl ausgerichtet, die infolge einer beschränkten Kandidatenzahl nach den Bestimmungen über die Wahlen ohne Einreichung von Listen durchgeführt wird.
+<sup>1</sup> Der Beitrag wird gemäss den ordentlichen Bestimmungen ebenfalls bei einer Wahl ausgerichtet, die infolge einer beschränkten Kandidatenzahl nach den Bestimmungen über die offenen Wahlen durchgeführt wird.
 
 <sup>2</sup> Es können jedoch nur die politischen Parteien und Wählergruppen, die eine Liste eingereicht haben, in den Genuss eines Beitrags kommen.
 
@@ -143,6 +157,12 @@ beschliesst:
 <sup>1</sup> Die Staatskanzlei wird mit der Durchführung der Massnahmen nach diesem Gesetz beauftragt.
 
 <sup>2</sup> Ihre Entscheide können mit Beschwerde gemäss dem Gesetz über die Verwaltungsrechtspflege angefochten werden.
+
+#### Art. 8a
+
+**Übergangsrecht zur Änderung vom 24. März 2023**
+
+<sup>1</sup> Für die nationalen Wahlen 2023 muss für die Aufteilung nach Artikel 1b Abs. 2 Bst. b der Betrag berücksichtigt werden, der vom Grossen Rat bei der Verabschiedung des Voranschlags 2023 festgelegt wurde.
 
 #### Art. 9
 
