@@ -3,28 +3,28 @@ sr: "946.231.127.6"
 title: Verordnung vom 18. Mai 2016 über Massnahmen gegenüber der Demokratischen Volksrepublik Korea
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/280"
 language: de
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2016-05-18
 in_force: 2016-05-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-280-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2016-280-20230601-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Demokratischen Volksrepublik Korea
 
-vom 18. Mai 2016 (Stand am 1. Januar 2022)
+vom 18. Mai 2016 (Stand am 1. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG), in Ausführung der Resolutionen 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2371 (2017), 2375 (2017) und 2397 (2017)[^ingress-2] des Sicherheitsrats der Vereinten Nationen (UNO-Sicherheitsrat),[^ingress-3]
+gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG), in Ausführung der Resolutionen 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2371 (2017), 2375 (2017), 2397 (2017) und 2664 (2022)[^ingress-2] des Sicherheitsrats der Vereinten Nationen,[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: Die Texte der Resolutionen des UNO-Sicherheitsrats können im Internet unter folgender Adresse abgerufen werden: www.un.org/fr/sc/ &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1718 &gt; Résolutions.
-[^ingress-3]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 25. April 2018 um 18.00 Uhr ([AS 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^ingress-2]: Die Resolutionen sind auf Französisch und Englisch abrufbar unter [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Fassung gemäss Ziff. I 6 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## 1. Abschnitt: Begriffe
 
@@ -51,9 +51,11 @@ Die Einreise in und die Durchreise durch die Schweiz ist folgenden Personen verb
 
 - a. natürlichen Personen nach Anhang 1;
 - b. Personen, die im Namen oder auf Anweisung von natürlichen Personen, Unternehmen oder Organisationen nach Anhang 1 handeln;
-- c. Personen, die gegen diese Verordnung oder die massgeblichen Resolutionen des UNO-Sicherheitsrats verstossen oder Beihilfe zur Umgehung leisten.
+- c. Personen, die gegen diese Verordnung oder die massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen[^2-1] verstossen oder Beihilfe zur Umgehung leisten.
 
-<sup>2</sup> Das Staatssekretariat für Migration (SEM) kann in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrats oder zur Wahrung schweizerischer Interessen Ausnahmen vom Verbot nach Absatz 1 bewilligen.
+<sup>2</sup> Das Staatssekretariat für Migration (SEM) kann in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen oder zur Wahrung schweizerischer Interessen Ausnahmen vom Verbot nach Absatz 1 bewilligen.
+
+[^2-1]: Ausdruck gemäss Ziff. I 6 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Diese Änd. wurde im ganzen Text vorgenommen.
 
 #### Art. 2a
 
@@ -63,11 +65,11 @@ Die Einreise in und die Durchreise durch die Schweiz ist folgenden Personen verb
 
 <sup>2</sup>
 
-Das SEM kann nach vorhergehender Genehmigung durch das zuständige Komitee des UNO-Sicherheitsrats Ausnahmen vom Verbot nach Absatz 1 bewilligen, wenn diese erforderlich sind für:
+Das SEM kann nach vorhergehender Genehmigung durch das zuständige Komitee des Sicherheitsrats der Vereinten Nationen Ausnahmen vom Verbot nach Absatz 1 bewilligen, wenn diese erforderlich sind für:
 
 - a. die Erbringung humanitärer Hilfe;
 - b. die Entnuklearisierung; oder
-- c. andere mit dieser Verordnung oder mit den massgeblichen Resolutionen des UNO-Sicherheitsrats vereinbare Zwecke.
+- c. andere mit dieser Verordnung oder mit den massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen vereinbare Zwecke.
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 18. Okt. 2017 um 18 Uhr ([AS 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
 
@@ -77,7 +79,7 @@ Das SEM kann nach vorhergehender Genehmigung durch das zuständige Komitee des U
 
 <sup>1</sup> Die zuständigen Behörden widerrufen unverzüglich die ausländerrechtlichen Bewilligungen erwerbstätiger Staatsangehöriger der Demokratischen Volksrepublik Korea.
 
-- [tab] <sup>2</sup> Das SEM kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und des Staatssekretariats für Wirtschaft (SECO) Ausnahmen von der Pflicht nach Absatz 1 bewilligen, wenn der Entzug der ausländerrechtlichen Bewilligung mit nationalem Recht oder Völkerrecht unvereinbar ist.
+<sup>2</sup> Das SEM kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und des Staatssekretariats für Wirtschaft (SECO) Ausnahmen von der Pflicht nach Absatz 1 bewilligen, wenn der Entzug der ausländerrechtlichen Bewilligung mit nationalem Recht oder Völkerrecht unvereinbar ist.
 
 [^2b-1]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 25. April 2018 um 18.00 Uhr ([AS 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 
@@ -89,7 +91,7 @@ Das SEM kann nach vorhergehender Genehmigung durch das zuständige Komitee des U
 
 <sup>2</sup> Jede wissenschaftliche und technische Zusammenarbeit mit Personen oder Gruppen, die von der Demokratischen Volksrepublik Korea offiziell gefördert werden oder die die Demokratische Volksrepublik Korea vertreten, wird suspendiert; ausgenommen ist die Zusammenarbeit im medizinischen Bereich.
 
-- [tab] <sup>3</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrats Ausnahmen von der Suspendierung nach Absatz 2 bewilligen, wenn die Zusammenarbeit nicht zu den Nuklear- oder Raketenprogrammen der Demokratischen Volksrepublik Korea beiträgt.[^3-2]
+<sup>3</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen Ausnahmen von der Suspendierung nach Absatz 2 bewilligen, wenn die Zusammenarbeit nicht zu den Nuklear- oder Raketenprogrammen der Demokratischen Volksrepublik Korea beiträgt.[^3-2]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 22. Febr. 2017, in Kraft seit 22. Febr. 2017 um 18.00 Uhr ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 [^3-2]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 25. April 2018 um 18.00 Uhr ([AS 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
@@ -109,7 +111,7 @@ Die militärische, paramilitärische und polizeiliche Ausbildung von Ausbilderin
 Der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport folgender Güter nach der Demokratischen Volksrepublik Korea sind verboten:
 
 - a. Güter nach Anhang 2, einschliesslich Technologie und Software;
-- b. Güter, die unmittelbar zur Stärkung der operativen Fähigkeiten der Streitkräfte der Demokratischen Volksrepublik Korea dienen, ausgenommen Medikamente, Nahrungsmittel und Güter, die ausschliesslich humanitären Zwecken oder der Existenzsicherung dienen, sofern das zuständige Komitee des UNO-Sicherheitsrats vorgängig informiert wurde.[^5-1]
+- b. Güter, die unmittelbar zur Stärkung der operativen Fähigkeiten der Streitkräfte der Demokratischen Volksrepublik Korea dienen, ausgenommen Medikamente, Nahrungsmittel und Güter, die ausschliesslich humanitären Zwecken oder der Existenzsicherung dienen, sofern das zuständige Komitee des Sicherheitsrats der Vereinten Nationen vorgängig informiert wurde.[^5-1]
 
 <sup>2</sup> Die Beschaffung, der Kauf, die Einfuhr, die Durchfuhr und der Transport von Gütern nach Absatz 1 aus der Demokratischen Volksrepublik Korea sind verboten.
 
@@ -129,7 +131,7 @@ Der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport folgend
 
 <sup>2</sup> Das Verbot nach Absatz 1 gilt nicht für die Lieferung von Ersatzteilen für kommerzielle zivile Passagierflugzeuge der Demokratischen Volksrepublik Korea.
 
-<sup>3</sup> Das SECO kann nach vorhergehender Genehmigung durch das zuständige Komitee des UNO-Sicherheitsrats Ausnahmen vom Verbot nach Absatz 1 bewilligen.[^5a-3]
+<sup>3</sup> Das SECO kann nach vorhergehender Genehmigung durch das zuständige Komitee des Sicherheitsrats der Vereinten Nationen Ausnahmen vom Verbot nach Absatz 1 bewilligen.[^5a-3]
 
 [^5a-1]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 25. April 2018 um 18.00 Uhr ([AS 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 [^5a-2]: Die Berichtigung vom 23. Mai 2018 betrifft nur den französischen und italienischen Text ([AS 2018 2137](https://fedlex.data.admin.ch/eli/oc/2018/302)).
@@ -148,7 +150,7 @@ Das Verbot nach Absatz 1 gilt nicht für:
 - a. Lieferungen zu nachgewiesenen humanitären Zwecken;
 - b. den Verkauf und die Lieferung für zivile Passagierflugzeuge ausserhalb der Demokratischen Volksrepublik Korea zum ausschliesslichen Verbrauch während des Flugs in die Demokratische Volksrepublik Korea und des Rückflugs.
 
-<sup>3</sup> Das SECO kann für Lieferungen zu nachgewiesenen humanitären Zwecken nach vorhergehender Genehmigung durch das zuständige Komitee des UNO-Sicherheitsrats Ausnahmen bewilligen.[^6-1]
+<sup>3</sup> Das SECO kann für Lieferungen zu nachgewiesenen humanitären Zwecken nach vorhergehender Genehmigung durch das zuständige Komitee des Sicherheitsrats der Vereinten Nationen Ausnahmen bewilligen.[^6-1]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 22. Febr. 2017, in Kraft seit 22. Febr. 2017 um 18.00 Uhr ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
@@ -176,7 +178,11 @@ Verboten sind der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und der Tra
 - a. Kondensate und Erdgaskondensate nach Anhang 4 Ziffer 13;
 - b. Erdölfertigprodukte nach Anhang 4 Ziffer 14;
 - c.[^7-4] Rohöl nach Anhang 4 Ziffer 15.[^7-5]
-- [tab] <sup>5</sup> Das Verbot nach Absatz 4 Buchstabe b gilt nicht, wenn:
+
+<sup>5</sup>
+
+Das Verbot nach Absatz 4 Buchstabe b gilt nicht, wenn:
+
 - a.[^7-6] die von der Demokratischen Volksrepublik Korea getätigten Einfuhren den Umfang von 500 000 Fässern pro Kalenderjahr nicht überschreiten;
 - b. an der Transaktion keine natürlichen Personen, Unternehmen und Organisationen mit einem Bezug zu den Nuklear- oder Raketenprogrammen der Demokratischen Volksrepublik Korea oder zu anderen nach dieser Verordnung verbotenen Aktivitäten beteiligt sind, einschliesslich der Personen, Unternehmen und Organisationen nach Artikel 9 Absatz 1; und
 - c. die Transaktion ausschliesslich der Existenzsicherung dient und nicht mit der Erzielung von Einnahmen für die Nuklear- oder Raketenprogramme der Demokratischen Volksrepublik Korea oder für andere nach dieser Verordnung verbotene Aktivitäten verbunden ist.[^7-7]
@@ -188,9 +194,9 @@ Das Verbot nach Absatz 4 Buchstabe c gilt nicht, wenn:
 - a. die von der Demokratischen Volksrepublik Korea getätigten Einfuhren den Umfang von 4 Millionen Fässern oder 525 000 Tonnen in einem Zeitraum von 12 Monaten, jeweils beginnend am 23. Dezember, nicht überschreiten; und
 - b. die Transaktion ausschliesslich der Existenzsicherung dient und nicht mit den Nuklear- oder Raketenprogrammen der Demokratischen Volksrepublik Korea oder mit anderen nach dieser Verordnung verbotenen Aktivitäten verbunden ist.[^7-8]
 
-<sup>7</sup> Geplante Transaktionen nach den Absätzen 2 und 5 müssen dem SECO vorgängig gemeldet werden. Das SECO informiert das zuständige Komitee des UNO-Sicherheitsrats.[^7-9]
+<sup>7</sup> Geplante Transaktionen nach den Absätzen 2 und 5 müssen dem SECO vorgängig gemeldet werden. Das SECO informiert das zuständige Komitee des Sicherheitsrats der Vereinten Nationen.[^7-9]
 
-<sup>8</sup> Das SECO kann nach vorhergehender Genehmigung durch das zuständige Komitee des UNO-Sicherheitsrats geplante Transaktionen nach Absatz 6 bewilligen.[^7-10]
+<sup>8</sup> Das SECO kann nach vorhergehender Genehmigung durch das zuständige Komitee des Sicherheitsrats der Vereinten Nationen geplante Transaktionen nach Absatz 6 bewilligen.[^7-10]
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 22. Febr. 2017, in Kraft seit 22. Febr. 2017 um 18.00 Uhr ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 [^7-2]: Eingefügt durch Ziff. I der V vom 22. Febr. 2017 ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 18. Okt. 2017 um 18 Uhr ([AS 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
@@ -213,7 +219,7 @@ Das Verbot nach Absatz 4 Buchstabe c gilt nicht, wenn:
 
 <sup>2bis</sup> Die Beschaffung, der Kauf, die Einfuhr, die Durchfuhr und der Transport von Textilien, einschliesslich Stoffe, halbfertige oder fertige Bekleidungsartikel, aus der Demokratischen Volksrepublik Korea sind verboten.[^7a-4]
 
-<sup>3</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und nach vorhergehender Genehmigung durch das zuständige Komitee des UNO-Sicherheitsrats Ausnahmen von den Verboten nach den Absätzen 1 und 2<sup>bis</sup> bewilligen.[^7a-5]
+<sup>3</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und nach vorhergehender Genehmigung durch das zuständige Komitee des Sicherheitsrats der Vereinten Nationen Ausnahmen von den Verboten nach den Absätzen 1 und 2<sup>bis</sup> bewilligen.[^7a-5]
 
 [^7a-1]: Eingefügt durch Ziff. I der V vom 22. Febr. 2017, in Kraft seit 22. Febr. 2017 um 18.00 Uhr ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 [^7a-2]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 25. April 2018 um 18.00 Uhr ([AS 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
@@ -251,7 +257,7 @@ Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Luxusgütern nach 
 
 <sup>1</sup> Die Aufrechterhaltung, der Betrieb bestehender sowie die Gründung neuer Joint Ventures oder Genossenschaften mit natürlichen Personen, Unternehmen oder Organisationen aus der Demokratischen Volksrepublik Korea sind verboten.
 
-<sup>2</sup> Das SECO kann nach vorhergehender Genehmigung durch das zuständige Komitee des UNO-Sicherheitsrats insbesondere für nichtkommerzielle Infrastrukturprojekte Ausnahmen bewilligen.
+<sup>2</sup> Das SECO kann nach vorhergehender Genehmigung durch das zuständige Komitee des Sicherheitsrats der Vereinten Nationen insbesondere für nichtkommerzielle Infrastrukturprojekte Ausnahmen bewilligen.
 
 [^8a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 18. Okt. 2017 um 18 Uhr ([AS 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
 
@@ -286,23 +292,36 @@ Gesperrt sind Gelder und wirtschaftliche Ressourcen, einschliesslich Schiffen na
 
 <sup>2</sup> Es ist verboten, den von der Sperrung nach Artikel 9 betroffenen natürlichen Personen, Unternehmen und Organisationen Gelder zu überweisen oder Gelder und wirtschaftliche Ressourcen sonst wie direkt oder indirekt zur Verfügung zu stellen.
 
-<sup>3</sup>
+<sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten nicht für Finanztransaktionen mit der Aussenhandelsbank oder der Nationalen Versicherungsgesellschaft der Demokratischen Volksrepublik Korea, die für den Betrieb diplomatischer oder konsularischer Vertretungen in der Demokratischen Volksrepublik Korea notwendig sind oder in Abstimmung mit den Vereinten Nationen humanitären Zwecken dienen.[^10-2]
 
-Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
+<sup>4</sup>
+
+Das Verbot nach Absatz 2 gilt nicht für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+
+- a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
+- b. internationale Organisationen;
+- c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
+- d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
+- e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d genannten Organisationen, soweit sie in dieser Eigenschaft handeln;
+- f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.[^10-3]
+
+<sup>5</sup>
+
+Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
 
 - a. Vermeidung von Härtefällen;
 - b. Erfüllung bestehender Verträge;
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind;
 - d. Bereitstellung humanitärer Hilfe;
-- e. Entnuklearisierung.
+- e. Entnuklearisierung.[^10-4]
 
-<sup>4</sup> Es bewilligt Ausnahmen nach Absatz 3 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements in Übereinstimmung mit den massgeblichen Resolutionen des UNO-Sicherheitsrats und, falls anwendbar, nach vorhergehender Genehmigung durch das zuständige Komitee des UNO-Sicherheitsrats.[^10-2]
-
-<sup>5</sup> Von den Verboten ausgenommen sind Finanztransaktionen mit der Aussenhandelsbank oder der Nationalen Versicherungsgesellschaft der Demokratischen Volksrepublik Korea, die für den Betrieb diplomatischer oder konsularischer Vertretungen in der Demokratischen Volksrepublik Korea notwendig sind oder in Abstimmung mit den Vereinten Nationen humanitären Zwecken dienen.[^10-3]
+<sup>6</sup> Es bewilligt Ausnahmen nach Absatz 5 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements in Übereinstimmung mit den massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen und, falls anwendbar, nach vorhergehender Genehmigung durch das zuständige Komitee des Sicherheitsrats der Vereinten Nationen.[^10-5]
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 18. Okt. 2017 um 18 Uhr ([AS 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^10-2]: Fassung gemäss Ziff. I der V vom 22. Febr. 2017, in Kraft seit 22. Febr. 2017 um 18.00 Uhr ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^10-3]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 18. Okt. 2017 um 18 Uhr ([AS 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^10-2]: Fassung gemäss Ziff. I 6 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^10-3]: Fassung gemäss Ziff. I 6 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^10-4]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017 ([AS 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Fassung gemäss Ziff. I 6 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^10-5]: Eingefügt durch Ziff. I 6 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 10a
 
@@ -330,7 +349,7 @@ Es ist Finanzinstituten in der Schweiz verboten:
 - b. Beteiligungen an Banken der Demokratischen Volksrepublik Korea zu erwerben; oder
 - c. Korrespondenzbankbeziehungen zu Banken der Demokratischen Volksrepublik Korea herzustellen oder zu unterhalten.
 
-<sup>3</sup> Das SECO kann nach vorhergehender Genehmigung durch das zuständige Komitee des UNO-Sicherheitsrats Ausnahmen vom Verbot nach Absatz 2 bewilligen.
+<sup>3</sup> Das SECO kann nach vorhergehender Genehmigung durch das zuständige Komitee des Sicherheitsrats der Vereinten Nationen Ausnahmen vom Verbot nach Absatz 2 bewilligen.
 
 #### Art. 12
 
@@ -340,12 +359,12 @@ Es ist Finanzinstituten in der Schweiz verboten:
 
 <sup>2</sup>
 
-Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und nach vorhergehender Genehmigung durch das zuständige Komitee des UNO-Sicherheitsrats Ausnahmen von den Verboten nach Absatz 1 bewilligen für:
+Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und nach vorhergehender Genehmigung durch das zuständige Komitee des Sicherheitsrats der Vereinten Nationen Ausnahmen von den Verboten nach Absatz 1 bewilligen für:
 
 - a. die Bereitstellung humanitärer Hilfe;
 - b. die Ausübung der Tätigkeiten diplomatischer Missionen;
 - c. die Ausübung der Tätigkeiten der UNO, ihrer Sonderorganisationen oder verwandter Organisationen;
-- d. sonstige mit den massgeblichen Resolutionen des UNO-Sicherheitsrats vereinbare Zwecke.
+- d. sonstige mit den massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen vereinbare Zwecke.
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 22. Febr. 2017, in Kraft seit 22. Febr. 2017 um 18.00 Uhr ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
@@ -355,7 +374,7 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und nach vo
 
 <sup>1</sup> Jede öffentliche und private finanzielle Unterstützung des Handels mit der Demokratischen Volksrepublik Korea, einschliesslich der Gewährung von Exportkrediten, -garantien oder ‑versicherungen, ist verboten.
 
-<sup>2</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und nach vorhergehender Genehmigung durch das zuständige Komitee des UNO-Sicherheitsrats Ausnahmen vom Verbot nach Absatz 1 bewilligen.
+<sup>2</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und nach vorhergehender Genehmigung durch das zuständige Komitee des Sicherheitsrats der Vereinten Nationen Ausnahmen vom Verbot nach Absatz 1 bewilligen.
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 22. Febr. 2017, in Kraft seit 22. Febr. 2017 um 18.00 Uhr ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
@@ -380,7 +399,7 @@ Es ist verboten, Forderungen der folgenden natürlichen Personen, Unternehmen un
 
 <sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten auch gegenüber natürlichen Personen, Unternehmen und Organisationen nach Anhang 1 sowie gegenüber allen anderen natürlichen Personen, Unternehmen und Organisationen, die gegen die Massnahmen dieser Verordnung verstossen oder im Namen oder auf Anweisung der genannten natürlichen Personen, Unternehmen oder Organisationen handeln.
 
-<sup>4</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrats Ausnahmen von den Verboten nach den Absätzen 1 und 3 genehmigen.
+<sup>4</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen Ausnahmen von den Verboten nach den Absätzen 1 und 3 genehmigen.
 
 <sup>5</sup> Es ist verboten, in der Demokratischen Volksrepublik Korea Schiffe zu registrieren, für ein Schiff die Genehmigung zur Führung der Flagge der Demokratischen Volksrepublik Korea einzuholen oder Eignerin oder Eigner, Leasingnehmerin oder Leasingnehmer oder Betreiberin oder Betreiber eines Schiffs unter der Flagge der Demokratischen Volksrepublik Korea zu sein, ein solches Schiff zu chartern oder damit verbundene Dienstleistungen zu erbringen, einschliesslich Versicherungsdienstleistungen.[^15-5]
 
@@ -397,7 +416,7 @@ Es ist verboten, Versicherungs- oder Rückversicherungsdienstleistungen für Sch
 
 <sup>7</sup>
 
-Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrats Ausnahmen von den Verboten nach den Absätzen 6 und 6<sup>bis</sup> genehmigen, sofern die Aktivitäten des Schiffs ausschliesslich:[^15-8]
+Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen Ausnahmen von den Verboten nach den Absätzen 6 und 6<sup>bis</sup> genehmigen, sofern die Aktivitäten des Schiffs ausschliesslich:[^15-8]
 
 - a. der Existenzsicherung dienen und nicht von Personen und Unternehmen in der Demokratischen Volksrepublik Korea zur Erzielung von Einnahmen genutzt werden; oder
 - b. humanitären Zwecken dienen.
@@ -421,7 +440,7 @@ Es ist verboten:
   - 1\. sich an Bord dieser Schiffe Güter befanden, deren Verkauf, Lieferung, Ausfuhr oder Durchfuhr gegen diese Verordnung verstösst, oder
   - 2\. mit diesen Schiffen nach dieser Verordnung verbotene Aktivitäten durchgeführt wurden.[^15-10]
 
-<sup>10</sup> Das SECO kann nach vorhergehender Genehmigung durch das zuständige Komitee des UNO-Sicherheitsrats Ausnahmen vom Verbot nach Absatz 9 bewilligen.[^15-11]
+<sup>10</sup> Das SECO kann nach vorhergehender Genehmigung durch das zuständige Komitee des Sicherheitsrats der Vereinten Nationen Ausnahmen vom Verbot nach Absatz 9 bewilligen.[^15-11]
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 22. Febr. 2017, in Kraft seit 22. Febr. 2017 um 18.00 Uhr ([AS 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 [^15-2]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 25. April 2018 um 18.00 Uhr ([AS 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
@@ -445,7 +464,7 @@ Es ist verboten:
 
 <sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten auch gegenüber natürlichen Personen, Unternehmen und Organisationen nach Anhang 1 sowie gegenüber allen anderen natürlichen Personen, Unternehmen und Organisationen, die gegen die Massnahmen dieser Verordnung verstossen oder im Namen oder auf Anweisung der genannten natürlichen Personen, Unternehmen oder Organisationen handeln.
 
-<sup>4</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrats Ausnahmen von den Verboten nach den Absätzen 1 und 3 genehmigen.
+<sup>4</sup> Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen Ausnahmen von den Verboten nach den Absätzen 1 und 3 genehmigen.
 
 <sup>5</sup> Es ist verboten, Start-, Lande- und Überflugrechte für Luftfahrzeuge zu erteilen, wenn Grund zur Annahme besteht, dass sich an Bord Güter befinden, deren Verkauf, Lieferung, Ausfuhr oder Durchfuhr gegen diese Verordnung verstösst.
 
@@ -519,7 +538,7 @@ Es ist verboten:
 
 #### Art. 20
 
-<sup>1</sup> Die Listen, die der UNO-Sicherheitsrat bzw. das zuständige Komitee des UNO-Sicherheitsrats betreffend natürliche Personen, Unternehmen und Organisationen oder wirtschaftliche Ressourcen erlassen oder aktualisiert hat (Anhänge 1 und 6), werden automatisch übernommen.
+<sup>1</sup> Die Listen, die der Sicherheitsrat der Vereinten Nationen bzw. das zuständige Komitee des Sicherheitsrats der Vereinten Nationen betreffend natürliche Personen, Unternehmen und Organisationen oder wirtschaftliche Ressourcen erlassen oder aktualisiert hat (Anhänge 1 und 6), werden automatisch übernommen.
 
 <sup>2</sup> Die Einträge nach den Anhängen 1 und 6 werden weder in der Amtlichen Sammlung des Bundesrechts (AS) noch in der Systematischen Sammlung des Bundesrechts (SR) veröffentlicht.
 
@@ -569,7 +588,7 @@ Das Verbot nach Artikel 2*a* Absatz 1 gilt nicht für die Erteilung von Arbeitsb
 
 <sup>3</sup> Das Verbot nach Artikel 7*a* Absatz 2<sup>bis</sup> gilt nicht für schriftliche Verträge über den Import von Textilien, die vor dem 11. September 2017 abgeschlossen wurden. Derartige Importe können bis spätestens am 10. Dezember 2017 erfolgen.
 
-<sup>4</sup> Transaktionen nach Absatz 3 müssen dem SECO unverzüglich gemeldet werden, damit das zuständige Komitee des UNO-Sicherheitsrats spätestens am 24. Januar 2018 informiert werden kann.
+<sup>4</sup> Transaktionen nach Absatz 3 müssen dem SECO unverzüglich gemeldet werden, damit das zuständige Komitee des Sicherheitsrats der Vereinten Nationen spätestens am 24. Januar 2018 informiert werden kann.
 
 <sup>5</sup> Bestehende Joint Ventures und Genossenschaften nach Artikel 8*a* müssen bis am 9. Januar 2018 geschlossen werden.
 
@@ -589,12 +608,12 @@ Anhang 1
 
 **Anmerkung**
 
-\1. Dieser Anhang entspricht den Listen der vom UNO-Sicherheitsrat bzw. der vom zuständigen Komitee des UNO-Sicherheitsrats bezeichneten natürlichen Personen, Unternehmen und Organisationen[^annex1-lvlu1-1].
+\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen[^annex1-lvlu1-1].
 
 \2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen[^annex1-lvlu1-2].
 
-[^annex1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; 1718 Sanctions Committee (DPRK) &gt; Sanctions List Materials.
-[^annex1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt;Aussenwirtschaft &Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden.
+[^annex1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: [https://www.un.org/securitycouncil/](https://www.un.org/securitycouncil/) &gt; Subsidiary Organs &gt; Sanctions &gt; 1718 Sanctions Committee (DPRK) &gt; Sanctions List Materials.
+[^annex1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: [https://www.seco.admin.ch/seco/de/home.html](https://www.seco.admin.ch/seco/de/home.html) &gt;Aussenwirtschaft &Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden.
 
 Anhang 2[^t-1]
 
@@ -737,7 +756,7 @@ Anhang 6[^t-6]
 
 \2. Die Liste wird vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen[^annex6-lvlu1-lvlu1-2].
 
-[^annex6-lvlu1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: [www.un.org/fr/sc/](https://www.un.org/sc/suborg/fr/sanctions/1718/materials) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1718 &gt; Matériaux relatifs à la liste de sanctions.
+[^annex6-lvlu1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: [https://www.un.org/securitycouncil/fr](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1718 &gt; Matériaux relatifs à la liste de sanctions.
 [^annex6-lvlu1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt;Aussenwirtschaft &Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden.
 
 Anhang 7[^t-7]

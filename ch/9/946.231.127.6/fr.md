@@ -3,28 +3,28 @@ sr: "946.231.127.6"
 title: "Ordonnance du 18 mai 2016 instituant des mesures à l'encontre de la République populaire démocratique de Corée"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/280"
 language: fr
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2016-05-18
 in_force: 2016-05-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-280-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2016-280-20230601-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République populaire démocratique de Corée
 
-du 18 mai 2016 (État le 1<sup>er</sup> janvier 2022)
+du 18 mai 2016 (État le 1<sup>er</sup> juin 2023)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], en exécution des résolutions 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2371 (2017), 2375 (2017) et 2397 (2017)[^ingress-2] du Conseil de sécurité des Nations Unies (Conseil de sécurité de l’ONU),[^ingress-3]
+vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1], en exécution des résolutions 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2371 (2017), 2375 (2017), 2397 (2017) et 2664 (2022)[^ingress-2] du Conseil de sécurité des Nations Unies,[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: Les textes des résolutions du Conseil de sécurité des Nations Unies peuvent être consultés sur [www.un.org/fr/sc/](https://www.un.org/sc/suborg/fr/sanctions/1718/resolutions) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1718 &gt; Résolutions.
-[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 25 avr. 2018 à 18h00 ([RO 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^ingress-2]: Les textes des résolutions du Conseil de sécurité des Nations Unies peuvent être consultés à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Nouvelle teneur selon le ch. I 6 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## Section 1 Définitions
 
@@ -51,11 +51,11 @@ L’entrée en Suisse et le transit par la Suisse sont interdits:
 
 - a. aux personnes physiques visées à l’annexe 1;
 - b. aux personnes physiques qui agissent au nom ou selon les instructions des personnes physiques, entreprises ou entités visées à l’annexe 1;
-- c. aux personnes physiques qui violent la présente ordonnance ou les résolutions pertinentes du Conseil de sécurité de l’ONU[^2-1], ou qui apportent une aide à autrui pour les contourner.
+- c. aux personnes physiques qui violent la présente ordonnance ou les résolutions pertinentes du Conseil de sécurité des Nations Unies[^2-1], ou qui apportent une aide à autrui pour les contourner.
 
-<sup>2</sup> Le Secrétariat d’État aux migrations (SEM) peut accorder des dérogations à l’interdiction prévue à l’al. 1, en conformité avec les décisions du comité compétent du Conseil de sécurité de l’ONU ou si la protection d’intérêts suisses l’exige.
+<sup>2</sup> Le Secrétariat d’État aux migrations (SEM) peut accorder des dérogations à l’interdiction prévue à l’al. 1, en conformité avec les décisions du comité compétent du Conseil de sécurité des Nations Unies ou si la protection d’intérêts suisses l’exige.
 
-[^2-1]: Nouvelle expression selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 18 oct. 2017 à 18h00 ([RO 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-1]: Nouvelle expression selon le ch. I 6 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2a
 
@@ -65,11 +65,11 @@ L’entrée en Suisse et le transit par la Suisse sont interdits:
 
 <sup>2</sup>
 
-Le SEM peut, avec l’approbation préalable du comité compétent du Conseil de sécurité de l’ONU, accorder des dérogations à l’interdiction prévue à l’al. 1, lorsque celles-ci sont nécessaires pour:
+Le SEM peut, avec l’approbation préalable du comité compétent du Conseil de sécurité des Nations Unies, accorder des dérogations à l’interdiction prévue à l’al. 1, lorsque celles-ci sont nécessaires pour:
 
 - a. la fourniture d’une aide humanitaire;
 - b. la dénucléarisation, ou
-- c. d’autres buts conformes à la présente ordonnance ou aux résolutions pertinentes du Conseil de sécurité de l’ONU.
+- c. d’autres buts conformes à la présente ordonnance ou aux résolutions pertinentes du Conseil de sécurité des Nations Unies.
 
 [^2a-1]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 18 oct. 2017 à 18h00 ([RO 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
 
@@ -111,7 +111,7 @@ Il est interdit de dispenser une formation militaire, paramilitaire ou policièr
 La vente, la fourniture, l’exportation, le transit et le transport à destination de la République populaire démocratique de Corée des biens suivants sont interdits:
 
 - a. les biens, y compris les technologies et les logiciels, visés à l’annexe 2;
-- b. les biens qui servent directement au renforcement des capacités opérationnelles des forces armées de la République populaire démocratique de Corée, à l’exception des médicaments, des denrées alimentaires et des biens qui servent uniquement à des fins humanitaires ou de subsistance, pour autant que le comité compétent du Conseil de sécurité de l’ONU en ait été préalablement informé.[^5-1]
+- b. les biens qui servent directement au renforcement des capacités opérationnelles des forces armées de la République populaire démocratique de Corée, à l’exception des médicaments, des denrées alimentaires et des biens qui servent uniquement à des fins humanitaires ou de subsistance, pour autant que le comité compétent du Conseil de sécurité des Nations Unies en ait été préalablement informé.[^5-1]
 
 <sup>2</sup> L’acquisition, l’achat, l’importation, le transit et le transport en provenance de la République populaire démocratique de Corée des biens visés à l’al. 1 sont interdits.
 
@@ -131,7 +131,7 @@ La vente, la fourniture, l’exportation, le transit et le transport à destinat
 
 <sup>2</sup> L’interdiction prévue à l’al. 1 ne s’applique pas à la fourniture de pièces détachées destinées à des aéronefs civils commerciaux de la République populaire démocratique de Corée.
 
-<sup>3</sup> Le SECO peut, après approbation préalable du comité compétent du Conseil de sécurité de l’ONU, accorder des dérogations à l’interdiction prévue à l’al. 1.[^5a-3]
+<sup>3</sup> Le SECO peut, après approbation préalable du comité compétent du Conseil de sécurité des Nations Unies, accorder des dérogations à l’interdiction prévue à l’al. 1.[^5a-3]
 
 [^5a-1]: Introduit par le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 25 avr. 2018 à 18h00 ([RO 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 [^5a-2]: Erratum du 23 mai 2018 ([RO 2018 2137](https://fedlex.data.admin.ch/eli/oc/2018/302)).
@@ -150,7 +150,7 @@ L’interdiction prévue à l’al. 1 ne s’applique pas:
 - a. aux livraisons destinées à satisfaire des besoins humanitaires avérés;
 - b. à la vente ou à la fourniture pour les avions civils à l’extérieur de la République populaire démocratique de Corée de carburant aviation réservé exclusivement à la consommation durant le vol à destination de ce pays et durant le vol de retour.
 
-<sup>3</sup> Le SECO peut, après approbation préalable du comité compétent du Conseil de sécurité de l’ONU, accorder des dérogations pour des livraisons destinées à satisfaire des besoins humanitaires avérés.[^6-1]
+<sup>3</sup> Le SECO peut, après approbation préalable du comité compétent du Conseil de sécurité des Nations Unies, accorder des dérogations pour des livraisons destinées à satisfaire des besoins humanitaires avérés.[^6-1]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 22 fév. 2017, en vigueur depuis le 22 fév. 2017 à 18h00 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
@@ -194,9 +194,9 @@ L’interdiction prévue à l’al. 4, let. c, ne s’applique pas si:
 - a. les importations par la République populaire démocratique de Corée ne dépassent pas 4 millions de barils ou 525 000 t au cours de la période de douze mois commençant le 23 décembre, et que
 - b. la transaction est effectuée uniquement à des fins de subsistance et n’est pas liée au programme nucléaire ou au programme de missiles balistiques de la République populaire démocratique de Corée, ou à d’autres activités interdites en vertu de la présente ordonnance.[^7-8]
 
-<sup>7</sup> Les projets de transactions visés aux al. 2 et 5 doivent être préalablement annoncés au SECO. Celui-ci informe le comité compétent du Conseil de sécurité de l’ONU.[^7-9]
+<sup>7</sup> Les projets de transactions visés aux al. 2 et 5 doivent être préalablement annoncés au SECO. Celui-ci informe le comité compétent du Conseil de sécurité des Nations Unies.[^7-9]
 
-<sup>8</sup> Le SECO peut, après approbation préalable du comité compétent du Conseil de sécurité de l’ONU, autoriser les projets de transactions visés à l’al. 6.[^7-10]
+<sup>8</sup> Le SECO peut, après approbation préalable du comité compétent du Conseil de sécurité des Nations Unies, autoriser les projets de transactions visés à l’al. 6.[^7-10]
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 22 fév. 2017, en vigueur depuis le 22 fév. 2017 à 18h00 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 [^7-2]: Introduits par le ch. I de l’O du 22 fév. 2017 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Abrogés par le ch. I de l’O du 18 oct. 2017, avec effet au 18 oct. 2017 à 18h00 ([RO 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
@@ -219,7 +219,7 @@ L’interdiction prévue à l’al. 4, let. c, ne s’applique pas si:
 
 <sup>2bis</sup> L’acquisition, l’achat, l’importation, le transit et le transport en provenance de la République populaire démocratique de Corée de textiles, y compris les tissus et les vêtements partiellement ou entièrement assemblés, sont interdits.[^7a-4]
 
-<sup>3</sup> Le SECO peut, après consultation des services compétents du DFAE et après approbation préalable du comité compétent du Conseil de sécurité de l’ONU, accorder des dérogations aux interdictions prévues aux al. 1 et 2<sup>bis</sup>.[^7a-5]
+<sup>3</sup> Le SECO peut, après consultation des services compétents du DFAE et après approbation préalable du comité compétent du Conseil de sécurité des Nations Unies, accorder des dérogations aux interdictions prévues aux al. 1 et 2<sup>bis</sup>.[^7a-5]
 
 [^7a-1]: Introduit par le ch. I de l’O du 22 fév. 2017, en vigueur depuis le 22 fév. 2017 à 18h00 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 [^7a-2]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 25 avr. 2018 à 18h00 ([RO 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
@@ -257,7 +257,7 @@ La vente, la fourniture, l’exportation et le transit à destination de la Rép
 
 <sup>1</sup> Le maintien et l’exploitation de coentreprises ou coopératives existantes et la création de nouvelles coentreprises ou coopératives avec des personnes physiques, des entreprises ou des entités de la République populaire démocratique de Corée sont interdits.
 
-<sup>2</sup> Le SECO peut, avec l’approbation préalable du comité compétent du Conseil de sécurité de l’ONU, accorder des dérogations notamment pour des projets d’infrastructure non commerciaux.
+<sup>2</sup> Le SECO peut, avec l’approbation préalable du comité compétent du Conseil de sécurité des Nations Unies, accorder des dérogations notamment pour des projets d’infrastructure non commerciaux.
 
 [^8a-1]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 18 oct. 2017 à 18h00 ([RO 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
 
@@ -292,23 +292,36 @@ Sont gelés les avoirs et les ressources économiques, y compris les navires vis
 
 <sup>2</sup> Il est interdit de transférer des avoirs aux personnes, entreprises et entités visées par le gel prévu à l’art. 9 ou de mettre à leur disposition, directement ou indirectement, des avoirs ou des ressources économiques.
 
-<sup>3</sup>
+<sup>3</sup> Les interdictions prévues par les al. 1 et 2 ne s’appliquent pas aux transactions financières réalisées avec la banque du commerce extérieur ou la société nationale d’assurance de la République populaire démocratique de Corée qui sont nécessaires aux activités des missions diplomatiques ou consulaires en République populaire démocratique de Corée ou aux activités d’aide humanitaire menées en coordination avec les Nations Unies.[^10-2]
 
-Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées, afin:
+<sup>4</sup>
+
+L’interdiction prévue à l’al. 2 ne s’applique pas à l’acheminement de l’aide humanitaire ou à l’appui d’autres activités visant à répondre aux besoins essentiels des personnes par:
+
+- a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
+- b. des organisations internationales;
+- c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
+- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
+- e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d, lorsqu’ils agissent en cette qualité;
+- f. tous les autres acteurs tels que déterminés par le comité compétent du Conseil de sécurité des Nations Unies.[^10-3]
+
+<sup>5</sup>
+
+Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
 
 - a. d’éviter des cas de rigueur;
 - b. d’honorer des contrats existants;
 - c. d’honorer des créances en application d’une décision judiciaire, administrative ou arbitrale;
-- d. de permettre l’acheminement de l’aide humanitaire;
-- e. de permettre la dénucléarisation.
+- d. de permettre l’acheminement de l’aide humanitaire, ou
+- e. de permettre la dénucléarisation.[^10-4]
 
-<sup>4</sup> Il accorde les dérogations prévues à l’al. 3 après consultation des services compétents du DFAE et du Département fédéral des finances, en conformité avec les résolutions pertinentes du Conseil de sécurité de l’ONU et, le cas échéant, après approbation préalable du comité compétent de ce dernier.[^10-2]
-
-<sup>5</sup> L’interdiction ne s’applique pas aux transactions financières réalisées avec la banque du commerce extérieur ou la société nationale d’assurance de la République populaire démocratique de Corée qui sont nécessaires aux activités des missions diplomatiques ou consulaires en République populaire démocratique de Corée ou les activités d’aide humanitaire menées en coordination avec les Nations Unies.[^10-3]
+<sup>6</sup> Il accorde les dérogations prévues à l’al. 5 après consultation des services compétents du DFAE et du Département fédéral des finances, en conformité avec les résolutions pertinentes du Conseil de sécurité des Nations Unies et, le cas échéant, après approbation préalable du comité compétent de ce dernier.[^10-5]
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 18 oct. 2017 à 18h00 ([RO 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^10-2]: Nouvelle teneur selon le ch. I de l’O du 22 fév. 2017, en vigueur depuis le 22 fév. 2017 à 18h00 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^10-3]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 18 oct. 2017 à 18h00 ([RO 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^10-2]: Nouvelle teneur selon le ch. I 6 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^10-3]: Nouvelle teneur selon le ch. I 6 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^10-4]: Introduit par le ch. I de l’O du 18 oct. 2017 ([RO 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nouvelle teneur selon le ch. I 6 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^10-5]: Introduit par le ch. I 6 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 10a
 
@@ -346,12 +359,12 @@ Il est interdit aux établissements financiers présents en Suisse:
 
 <sup>2</sup>
 
-Le SECO peut, après consultation des services compétents du DFAE et après approbation préalable du comité compétent du Conseil de sécurité de l’ONU, accorder des dérogations aux interdictions prévues à l’al. 1, pour:
+Le SECO peut, après consultation des services compétents du DFAE et après approbation préalable du comité compétent du Conseil de sécurité des Nations Unies, accorder des dérogations aux interdictions prévues à l’al. 1, pour:
 
 - a. l’acheminement de l’aide humanitaire;
 - b. les activités des missions diplomatiques;
 - c. les activités de l’Organisation des Nations Unies, de ses institutions spéciales et des organisations apparentées;
-- d. d’autres buts conformes aux résolutions pertinentes du Conseil de sécurité de l’ONU.
+- d. d’autres buts conformes aux résolutions pertinentes du Conseil de sécurité des Nations Unies.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 22 fév. 2017, en vigueur depuis le 22 fév. 2017 à 18h00 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
@@ -361,7 +374,7 @@ Le SECO peut, après consultation des services compétents du DFAE et après app
 
 <sup>1</sup> Est interdit tout soutien financier public ou privé, y compris l’octroi de crédits, de garanties ou d’assurances à l’exportation, aux échanges commerciaux avec la République populaire démocratique de Corée.
 
-<sup>2</sup> Le SECO peut, après consultation des services compétents du DFAE et après approbation préalable du comité compétent du Conseil de sécurité de l’ONU, accorder des dérogations à l’interdiction prévue à l’al. 1.
+<sup>2</sup> Le SECO peut, après consultation des services compétents du DFAE et après approbation préalable du comité compétent du Conseil de sécurité des Nations Unies, accorder des dérogations à l’interdiction prévue à l’al. 1.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 22 fév. 2017, en vigueur depuis le 22 fév. 2017 à 18h00 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
@@ -386,7 +399,7 @@ Il est interdit d’honorer les créances des personnes physiques, entreprises e
 
 <sup>3</sup> Les interdictions prévues aux al. 1 et 2 s’appliquent aussi aux personnes physiques, entreprises et entités visées à l’annexe 1 ainsi qu’aux autres personnes physiques, entreprises et entités ayant violé les dispositions de la présente ordonnance ou agissant au nom ou selon les instructions des personnes physiques, entreprises et entités citées.
 
-<sup>4</sup> Le SECO peut, après consultation des services compétents du DFAE et en conformité avec les décisions du comité compétent du Conseil de sécurité de l’ONU, accorder des dérogations aux interdictions prévues aux al. 1 et 3.
+<sup>4</sup> Le SECO peut, après consultation des services compétents du DFAE et en conformité avec les décisions du comité compétent du Conseil de sécurité des Nations Unies, accorder des dérogations aux interdictions prévues aux al. 1 et 3.
 
 <sup>5</sup> Il est interdit d’enregistrer des navires en République populaire démocratique de Corée, d’obtenir l’autorisation pour un navire d’utiliser le pavillon de la République populaire démocratique de Corée, de posséder, louer ou exploiter un navire battant pavillon de la République populaire démocratique de Corée, d’affréter un tel navire ou de fournir des prestations connexes, y compris des services d’assurance.[^15-5]
 
@@ -403,7 +416,7 @@ Il est interdit de fournir des services d’assurance ou de réassurance à des 
 
 <sup>7</sup>
 
-Le SECO peut, après consultation des services compétents du DFAE et en conformité avec les décisions du comité compétent du Conseil de sécurité de l’ONU, accorder des dérogations aux interdictions prévues aux al. 6 et 6<sup>bis</sup>, pour autant que les activités du navire:[^15-8]
+Le SECO peut, après consultation des services compétents du DFAE et en conformité avec les décisions du comité compétent du Conseil de sécurité des Nations Unies, accorder des dérogations aux interdictions prévues aux al. 6 et 6<sup>bis</sup>, pour autant que les activités du navire:[^15-8]
 
 - a. servent uniquement à des fins de subsistance et qu’aucune personne ou entité en République populaire démocratique de Corée ne les utilise pour réaliser des recettes, ou
 - b. servent uniquement à des fins humanitaires.
@@ -427,7 +440,7 @@ Il est interdit:
   - 1\. qu’ils ont transporté des biens dont la vente, la fourniture, l’exportation ou le transit violent la présente ordonnance, ou
   - 2\. qu’ils ont été utilisés aux fins d’activités interdites par la présente ordonnance.[^15-10]
 
-<sup>10</sup> Le SECO peut, après approbation préalable du comité compétent du Conseil de sécurité de l’ONU, accorder des dérogations à l’interdiction prévue à l’al. 9.[^15-11]
+<sup>10</sup> Le SECO peut, après approbation préalable du comité compétent du Conseil de sécurité des Nations Unies, accorder des dérogations à l’interdiction prévue à l’al. 9.[^15-11]
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 22 fév. 2017, en vigueur depuis le 22 fév. 2017 à 18h00 ([RO 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 [^15-2]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 25 avr. 2018 à 18h00 ([RO 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
@@ -451,7 +464,7 @@ Il est interdit:
 
 <sup>3</sup> Les interdictions prévues aux al. 1 et 2 s’appliquent aussi aux personnes physiques, entreprises et entités visées à l’annexe 1 ainsi qu’à toute autre personne physique, entreprise ou entité ayant violé les dispositions de la présente ordonnance ou agissant au nom ou selon les instructions des personnes physiques, entreprises et entités susmentionnées.
 
-<sup>4</sup> Le SECO peut, après consultation des services compétents du DFAE et en conformité avec les décisions du comité compétent du Conseil de sécurité de l’ONU, accorder des dérogations aux interdictions prévues aux al. 1 et 3.
+<sup>4</sup> Le SECO peut, après consultation des services compétents du DFAE et en conformité avec les décisions du comité compétent du Conseil de sécurité des Nations Unies, accorder des dérogations aux interdictions prévues aux al. 1 et 3.
 
 <sup>5</sup> Il est interdit d’accorder aux aéronefs le droit de décoller du territoire suisse, d’y atterrir ou de le survoler s’il y a des motifs de penser qu’ils transportent des biens dont la vente, la fourniture, l’exportation ou le transit violent la présente ordonnance.
 
@@ -525,7 +538,7 @@ Il est interdit:
 
 #### Art. 20
 
-<sup>1</sup> Les listes relatives à des personnes physiques, entreprises et entités, ou à des ressources économiques que le Conseil de sécurité de l’ONU ou son comité compétent a établies ou actualisées (annexes 1 et 6) sont reprises automatiquement.
+<sup>1</sup> Les listes relatives à des personnes physiques, entreprises et entités, ou à des ressources économiques que le Conseil de sécurité des Nations Unies ou son comité compétent a établies ou actualisées (annexes 1 et 6) sont reprises automatiquement.
 
 <sup>2</sup> Les inscriptions figurant aux annexes 1 et 6 ne sont publiées ni au Recueil officiel du droit fédéral (RO), ni au Recueil systématique du droit fédéral (RS).
 
@@ -575,7 +588,7 @@ L’interdiction prévue à l’art. 2*a*, al. 1, ne s’applique pas à l’oct
 
 <sup>3</sup> L’interdiction prévue à l’art. 7*a*, al. 2<sup>bis</sup>, ne s’applique pas aux contrats écrits concernant l’importation de textiles qui ont été conclus avant le 11 septembre 2017. Ces importations peuvent être effectuées au plus tard le 10 décembre 2017.
 
-<sup>4</sup> Les transactions visées à l’al. 3 doivent être annoncées sans délai au SECO afin que celui-ci puisse informer le comité compétent du Conseil de sécurité de l’ONU au plus tard le 24 janvier 2018.
+<sup>4</sup> Les transactions visées à l’al. 3 doivent être annoncées sans délai au SECO afin que celui-ci puisse informer le comité compétent du Conseil de sécurité des Nations Unies au plus tard le 24 janvier 2018.
 
 <sup>5</sup> Les coentreprises et coopératives existantes visées à l’art. 8*a* doivent être liquidées d’ici au 9 janvier 2018.
 
@@ -595,12 +608,12 @@ Annexe 1
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité de l’ONU ou par son comité compétent[^annex1-lvlu1-1].
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annex1-lvlu1-1].
 
 \2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex1-lvlu1-2].
 
-[^annex1-lvlu1-1]: La liste peut être consultée sur www.un.org/en/sc/ &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1718 (RPDC) &gt; Matériaux relatifs à la liste de sanctions.
-[^annex1-lvlu1-2]: La banque de données SESAM est librement accessible sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annex1-lvlu1-1]: La liste peut être consultée sur [www.un.org/fr/sc/](http://www.un.org/fr/sc/) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1718 (RPDC) &gt; Matériaux relatifs à la liste de sanctions.
+[^annex1-lvlu1-2]: La banque de données SESAM est librement accessible sur [www.seco.admin.ch/](http://www.seco.admin.ch/) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
 Annexe 2[^t-1]
 
@@ -750,12 +763,12 @@ Annexe 6[^t-6]
 
 ### Remarque
 
-\1. La présente annexe correspond à la liste des navires désignés par le Conseil de sécurité de l’ONU ou par son comité compétent[^annex6-lvlu1-lvlu1-1].
+\1. La présente annexe correspond à la liste des navires désignés par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annex6-lvlu1-lvlu1-1].
 
 \2. En règle générale, cette liste est saisie par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit sa communication par les Nations Unies[^annex6-lvlu1-lvlu1-2].
 
-[^annex6-lvlu1-lvlu1-1]: La liste peut être consultée sur [www.un.org/fr/sc/](https://www.un.org/sc/suborg/fr/sanctions/1718/materials) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1718 &gt; Matériaux relatifs à la liste de sanctions.
-[^annex6-lvlu1-lvlu1-2]: La banque de données SESAM est librement accessible sur [www.seco.admin.ch](https://www.seco.admin.ch/seco/fr/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annex6-lvlu1-lvlu1-1]: La liste peut être consultée sur [www.un.org/fr/sc/](http://www.un.org/fr/sc/) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1718 &gt; Matériaux relatifs à la liste de sanctions.
+[^annex6-lvlu1-lvlu1-2]: La banque de données SESAM est librement accessible sur [www.seco.admin.ch](http://www.seco.admin.ch/) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
 Annexe 7[^t-7]
 

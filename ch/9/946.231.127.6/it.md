@@ -3,28 +3,28 @@ sr: "946.231.127.6"
 title: Ordinanza del 18 maggio 2016 che istituisce provvedimenti nei confronti della Repubblica popolare democratica di Corea
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/280"
 language: it
-version: 2022-01-01
+version: 2023-06-01
 adopted: 2016-05-18
 in_force: 2016-05-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-280-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/280/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2016-280-20230601-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/280/20230601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica popolare democratica di Corea
 
-del 18 maggio 2016 (Stato 1° gennaio 2022)
+del 18 maggio 2016 (Stato 1° giugno 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (LEmb); in esecuzione delle risoluzioni 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2371 (2017), 2375 (2017) e 2397 (2017)[^ingress-2] del Consiglio di sicurezza delle Nazioni Unite (Consiglio di sicurezza dell’ONU),[^ingress-3]
+visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (LEmb); in esecuzione delle risoluzioni 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2371 (2017), 2375 (2017), 2397 (2017) e 2664 (2022)[^ingress-2] del Consiglio di sicurezza delle Nazioni Unite,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: I testi delle risoluzioni del Consiglio di sicurezza dell’ONU possono essere consultati sul sito www.un.org/fr/sc/ &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1718 &gt; Résolutions.
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^ingress-2]: Le risoluzioni sono consultabili in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Nuovo testo giusta il n. I 6 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## Sezione 1: Definizioni
 
@@ -51,11 +51,11 @@ L’entrata o il transito in Svizzera sono vietati alle seguenti persone:
 
 - a. persone fisiche di cui all’allegato 1;
 - b. persone che agiscono in nome o per conto delle persone fisiche, delle imprese e delle organizzazioni di cui all’allegato 1;
-- c. persone che violano la presente ordinanza o le risoluzioni pertinenti del Consiglio di sicurezza dell’ONU[^2-1] o che forniscono aiuti per eluderle.
+- c. persone che violano la presente ordinanza o le risoluzioni pertinenti del Consiglio di sicurezza delle Nazioni Unite[^2-1] o che forniscono aiuti per eluderle.
 
-<sup>2</sup> La Segreteria di Stato della migrazione (SEM) può concedere deroghe al divieto di cui al capoverso 1, in conformità alle decisioni del comitato competente del Consiglio di sicurezza dell’ONU oppure per tutelare interessi svizzeri.
+<sup>2</sup> La Segreteria di Stato della migrazione (SEM) può concedere deroghe al divieto di cui al capoverso 1, in conformità alle decisioni del comitato competente del Consiglio di sicurezza delle Nazioni Unite oppure per tutelare interessi svizzeri.
 
-[^2-1]: Nuova espr. giusta il n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-1]: Nova espr. giusta il n. I 6 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 2a
 
@@ -65,11 +65,11 @@ L’entrata o il transito in Svizzera sono vietati alle seguenti persone:
 
 <sup>2</sup>
 
-Previa autorizzazione del comitato competente del Consiglio di sicurezza dell’ONU, la SEM può concedere deroghe al divieto di cui al capoverso 1 se esse sono necessarie per:
+Previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SEM può concedere deroghe al divieto di cui al capoverso 1 se esse sono necessarie per:
 
 - a. fornire aiuti umanitari;
 - b. contribuire alla denuclearizzazione; oppure
-- c. ulteriori scopi compatibili con le pertinenti risoluzioni del Consiglio di sicurezza dell’ONU.
+- c. ulteriori scopi compatibili con le pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite.
 
 [^2a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
 
@@ -91,7 +91,7 @@ Previa autorizzazione del comitato competente del Consiglio di sicurezza dell’
 
 <sup>2</sup> È sospesa qualsiasi cooperazione tecnica e scientifica con persone o gruppi sostenuti ufficialmente dalla Repubblica popolare democratica di Corea o che rappresentano la Repubblica popolare democratica di Corea, ad eccezione della cooperazione in ambito medico.
 
-<sup>3</sup> D’intesa con i competenti uffici del DFAE e conformemente alle decisioni del comitato competente del Consiglio di sicurezza dell’ONU, la SECO può autorizzare deroghe alle sospensioni di cui al capoverso 2 se la cooperazione non favorisce i programmi nucleari o missilistici della Repubblica popolare democratica di Corea.[^3-2]
+<sup>3</sup> D’intesa con i competenti uffici del DFAE e conformemente alle decisioni del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può autorizzare deroghe alle sospensioni di cui al capoverso 2 se la cooperazione non favorisce i programmi nucleari o missilistici della Repubblica popolare democratica di Corea.[^3-2]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 [^3-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
@@ -111,7 +111,7 @@ Previa autorizzazione del comitato competente del Consiglio di sicurezza dell’
 Sono vietati la vendita, la fornitura, l’esportazione, il transito e il trasporto a destinazione della Repubblica popolare democratica di Corea dei seguenti beni:
 
 - a. beni di cui all’allegato 2, inclusi tecnologie e software;
-- b. beni finalizzati a rafforzare direttamente le capacità operative delle forze armate della Repubblica popolare democratica di Corea, esclusi medicamenti, derrate alimentari e beni impiegabili esclusivamente per scopi umanitari o di sussistenza, purché il comitato competente del Consiglio di sicurezza dell’ONU sia stato informato in precedenza.[^5-1]
+- b. beni finalizzati a rafforzare direttamente le capacità operative delle forze armate della Repubblica popolare democratica di Corea, esclusi medicamenti, derrate alimentari e beni impiegabili esclusivamente per scopi umanitari o di sussistenza, purché il comitato competente del Consiglio di sicurezza delle Nazioni Unite sia stato informato in precedenza.[^5-1]
 
 <sup>2</sup> Sono vietati l’acquisizione, l’acquisto, l’importazione, il transito e il trasporto dei beni di cui al capoverso 1 provenienti dalla Repubblica popolare democratica di Corea.
 
@@ -131,7 +131,7 @@ Sono vietati la vendita, la fornitura, l’esportazione, il transito e il traspo
 
 <sup>2</sup> Il divieto di cui al capoverso 1 non si applica alla fornitura di pezzi di ricambio per aerei civili commerciali della Repubblica popolare democratica di Corea destinati al trasporto di passeggeri.
 
-<sup>3</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza dell’ONU, la SECO può concedere deroghe al divieto di cui al capoverso 1.[^5a-3]
+<sup>3</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può concedere deroghe al divieto di cui al capoverso 1.[^5a-3]
 
 [^5a-1]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 [^5a-2]: Correzione del 23 mag. 2018 ([RU 2018 2137](https://fedlex.data.admin.ch/eli/oc/2018/302)).
@@ -150,7 +150,7 @@ Sono esclusi dal divieto di cui al capoverso 1:
 - a. le forniture per scopi umanitari comprovati;
 - b. la vendita e la fornitura per aerei civili destinati al trasporto di passeggeri al di fuori della Repubblica popolare democratica di Corea per l’utilizzo esclusivo durante il volo verso la Repubblica popolare democratica di Corea e durante il volo di ritorno.
 
-<sup>3</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza dell’ONU, la SECO può concedere deroghe per le forniture per scopi umanitari comprovati.[^6-1]
+<sup>3</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può concedere deroghe per le forniture per scopi umanitari comprovati.[^6-1]
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dal 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
@@ -167,11 +167,9 @@ Il carbone che ha origine al di fuori della Repubblica popolare democratica di C
 - a. il prodotto è stato trasportato attraverso la Repubblica popolare democratica di Corea esclusivamente per l’esportazione dal porto di Rason; e
 - b. la transazione non è legata al conseguimento di entrate per i programmi nucleari o missilistici della Repubblica popolare democratica di Corea o ad altre attività vietate secondo la presente ordinanza.[^7-1]
 
-<sup>2bis</sup> ...[^7-2]
+<sup>2bis</sup> e <sup>2ter</sup> ...[^7-2]
 
-<sup>2ter</sup> ...[^7-3]
-
-<sup>3</sup> ...[^7-4]
+<sup>3</sup> ...[^7-3]
 
 <sup>4</sup>
 
@@ -179,38 +177,37 @@ Sono vietati la vendita, la fornitura, l’esportazione, il transito e il traspo
 
 - a. condensati e condensati del gas naturale di cui all’allegato 4 numero 13;
 - b. prodotti derivati dal petrolio di cui all’allegato 4 numero 14;
-- c.[^7-5] petrolio greggio di cui all’allegato 4 numero 15.[^7-6]
+- c.[^7-4] petrolio greggio di cui all’allegato 4 numero 15.[^7-5]
 
 <sup>5</sup>
 
 Il divieto di cui al capoverso 4 lettera b non si applica se:
 
-- a.[^7-7] le importazioni della Repubblica popolare democratica di Corea non superano i 500 000 barili per anno civile;
+- a.[^7-6] le importazioni della Repubblica popolare democratica di Corea non superano i 500 000 barili per anno civile;
 - b. nella transazione non sono coinvolte persone fisiche, imprese e organizzazioni legate ai programmi nucleari e missilistici della Repubblica popolare democratica di Corea o ad altre attività vietate secondo la presente ordinanza, comprese le persone, le imprese e le organizzazioni di cui all’articolo 9 capoverso 1; e
-- c. la transazione è finalizzata esclusivamente a scopi di sussistenza e non è legata al conseguimento di entrate per i programmi nucleari o missilistici della Repubblica popolare democratica di Corea o ad altre attività vietate secondo la presente ordinanza.[^7-8]
+- c. la transazione è finalizzata esclusivamente a scopi di sussistenza e non è legata al conseguimento di entrate per i programmi nucleari o missilistici della Repubblica popolare democratica di Corea o ad altre attività vietate secondo la presente ordinanza.[^7-7]
 
 <sup>6</sup>
 
 Il divieto di cui al capoverso 4 lettera c non si applica se:
 
 - a. le importazioni della Repubblica popolare democratica di Corea non superano i 4 milioni di barili o le 525 000 tonnellate in un periodo di 12 mesi, che inizia il 23 dicembre; e
-- b. la transazione è finalizzata esclusivamente a scopi di sussistenza e non è legata ai programmi nucleari o missilistici della Repubblica popolare democratica di Corea o ad altre attività vietate secondo la presente ordinanza.[^7-9]
+- b. la transazione è finalizzata esclusivamente a scopi di sussistenza e non è legata ai programmi nucleari o missilistici della Repubblica popolare democratica di Corea o ad altre attività vietate secondo la presente ordinanza.[^7-8]
 
-<sup>7</sup> Le transazioni previste di cui ai capoversi 2 e 5 devono essere preventivamente notificate alla SECO, che informa il comitato competente del Consiglio di sicurezza dell’ONU.[^7-10]
+<sup>7</sup> Le transazioni previste di cui ai capoversi 2 e 5 devono essere preventivamente notificate alla SECO, che informa il comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^7-9]
 
-<sup>8</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza dell’ONU, la SECO può autorizzare le transazioni previste di cui al capoverso 6.[^7-11]
+<sup>8</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può autorizzare le transazioni previste di cui al capoverso 6.[^7-10]
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 [^7-2]: Introdotto dal n. I dell’O del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^7-3]: Introdotto dal n. I dell’O del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)). Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^7-4]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^7-5]: Introdotta dal n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^7-6]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^7-7]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^7-8]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^7-3]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^7-4]: Introdotta dal n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^7-5]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^7-6]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^7-7]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^7-8]: Introdotto dal n. I dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 [^7-9]: Introdotto dal n. I dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^7-10]: Introdotto dal n. I dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
-[^7-11]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
+[^7-10]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
 
 #### Art. 7a
 
@@ -222,7 +219,7 @@ Il divieto di cui al capoverso 4 lettera c non si applica se:
 
 <sup>2bis</sup> Sono vietati l’acquisizione, l’acquisto, l’importazione, il transito e il trasporto di tessuti, comprese stoffe, capi d’abbigliamento semilavorati o finiti, provenienti dalla Repubblica popolare democratica di Corea.[^7a-4]
 
-<sup>3</sup> D’intesa con gli uffici competenti del DFAE e previa autorizzazione del comitato competente del Consiglio di sicurezza dell’ONU, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2<sup>bis</sup>.[^7a-5]
+<sup>3</sup> D’intesa con gli uffici competenti del DFAE e previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2<sup>bis</sup>.[^7a-5]
 
 [^7a-1]: Introdotto dal n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 [^7a-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
@@ -260,7 +257,7 @@ Sono vietati la vendita, la fornitura, l’esportazione e il transito a destinaz
 
 <sup>1</sup> Sono vietati il mantenimento e la gestione di joint venture esistenti nonché la costituzione di nuove joint venture o cooperative con persone fisiche, imprese o organizzazioni della Repubblica popolare democratica di Corea.
 
-<sup>2</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza dell’ONU, la SECO può concedere deroghe, in particolare per progetti infrastrutturali non commerciali
+<sup>2</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può concedere deroghe, in particolare per progetti infrastrutturali non commerciali
 
 [^8a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
 
@@ -295,23 +292,36 @@ Sono bloccati gli averi e le risorse economiche, incluse le navi di cui all’al
 
 <sup>2</sup> È vietato trasferire averi alle persone fisiche, alle imprese e alle organizzazioni che sottostanno al blocco di cui all’articolo 9 oppure mettere altrimenti a loro disposizione, direttamente o indirettamente, averi e risorse economiche.
 
-<sup>3</sup>
+<sup>3</sup> I divieti di cui ai capoversi 1 e 2 non si applicano alle transazioni finanziarie con la banca per il commercio estero o la compagnia d’assicurazioni nazionale della Repubblica popolare democratica di Corea necessarie per la gestione delle rappresentanze diplomatiche o consolari nella Repubblica popolare democratica di Corea o che d’intesa con le Nazioni Unite servono a scopi umanitari.[^10-2]
 
-La SECO può, in via eccezionale, autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati, nonché la liberazione delle risorse economiche bloccate per:
+<sup>4</sup>
+
+Il divieto di cui al capoverso 2 non si applica alla fornitura di aiuti umanitari e al sostegno di altre attività volte a soddisfare i bisogni umani fondamentali da parte di:
+
+- a. Organizzazione delle Nazioni Unite, anche per il tramite dei suoi programmi, fondi e altri enti e organismi, nonché sue agenzie specializzate e organizzazioni collegate;
+- b. organizzazioni internazionali;
+- c. organizzazioni umanitarie aventi status di osservatore presso l’Assemblea generale delle Nazioni Unite e membri di tali organizzazioni;
+- d. organizzazioni non governative finanziate a livello bilaterale o multilaterale che partecipano ai piani di risposta umanitaria delle Nazioni Unite, ai piani di risposta per i rifugiati, ad altri appelli delle Nazioni Unite o a strutture umanitarie coordinate dall’Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA);
+- e. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a−d nella misura in cui agiscono in tale veste;
+- f. ogni altro soggetto designato dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^10-3]
+
+<sup>5</sup>
+
+La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione di risorse economiche bloccate se servono a:
 
 - a. prevenire casi di rigore;
 - b. rispettare contratti esistenti;
 - c. onorare crediti oggetto di una sentenza giudiziaria, amministrativa o arbitrale;
 - d. fornire aiuti umanitari;
-- e. contribuire alla denuclearizzazione.
+- e. contribuire alla denuclearizzazione.[^10-4]
 
-<sup>4</sup> La SECO autorizza le deroghe di cui al capoverso 3 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze, conformemente alle risoluzioni pertinenti del Consiglio di sicurezza dell’ONU e, qualora applicabile, previa autorizzazione del comitato competente del Consiglio di sicurezza dell’ONU.[^10-2]
-
-<sup>5</sup> Sono escluse dai divieti le transazioni finanziarie con la banca per il commercio estero o la compagnia d’assicurazioni nazionale della Repubblica popolare democratica di Corea necessarie per la gestione delle rappresentanze diplomatiche o consolari nella Repubblica popolare democratica di Corea o che d’intesa con le Nazioni Unite servono a scopi umanitari.[^10-3]
+<sup>6</sup> La SECO autorizza le deroghe di cui al capoverso 5 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze, in conformità alle pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite e, se del caso, previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^10-5]
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
-[^10-3]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dalle ore 18.00 dal 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)).
+[^10-2]: Nuovo testo giusta il n. I 6 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^10-3]: Nuovo testo giusta il n. I 6 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^10-4]: Introdotto dal n. I dell’O del 18 ott. 2017 ([RU 2017 5249](https://fedlex.data.admin.ch/eli/oc/2017/584)). Nuovo testo giusta il n. I 6 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^10-5]: Introdotto dal n. I 6 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 10a
 
@@ -339,7 +349,7 @@ Agli istituti finanziari operanti in Svizzera è vietato:
 - b. acquisire partecipazioni di banche della Repubblica popolare democratica di Corea; oppure
 - c. instaurare e intrattenere relazioni di corrispondenza con banche della Repubblica popolare democratica di Corea.
 
-<sup>3</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza dell’ONU, la SECO può concedere deroghe al divieto di cui al capoverso 2.
+<sup>3</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può concedere deroghe al divieto di cui al capoverso 2.
 
 #### Art. 12
 
@@ -349,12 +359,12 @@ Agli istituti finanziari operanti in Svizzera è vietato:
 
 <sup>2</sup>
 
-D’intesa con gli uffici competenti del DFAE e previa autorizzazione del comitato competente del Consiglio di sicurezza dell’ONU, la SECO può autorizzare deroghe ai divieti di cui al capoverso 1 per:
+D’intesa con gli uffici competenti del DFAE e previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può autorizzare deroghe ai divieti di cui al capoverso 1 per:
 
 - a. fornire aiuti umanitari;
 - b. garantire l’attività delle missioni diplomatiche;
 - c. garantire l’attività delle Nazioni Unite, delle sue agenzie specializzate e delle sue organizzazioni correlate;
-- d. ulteriori scopi compatibili con le pertinenti risoluzioni del Consiglio di sicurezza dell’ONU.
+- d. ulteriori scopi compatibili con le pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite.
 
 [^12-1]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
@@ -364,7 +374,7 @@ D’intesa con gli uffici competenti del DFAE e previa autorizzazione del comita
 
 <sup>1</sup> È vietato qualunque tipo di sostegno finanziario pubblico o privato del commercio con la Repubblica popolare democratica di Corea, inclusa la concessione di crediti, garanzie e assicurazioni alle esportazioni.
 
-<sup>2</sup> D’intesa con gli uffici competenti del DFAE e previa autorizzazione del comitato competente del Consiglio di sicurezza dell’ONU, la SECO può autorizzare deroghe al divieto di cui al capoverso 1.
+<sup>2</sup> D’intesa con gli uffici competenti del DFAE e previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può autorizzare deroghe al divieto di cui al capoverso 1.
 
 [^13-1]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 
@@ -389,7 +399,7 @@ D’intesa con gli uffici competenti del DFAE e previa autorizzazione del comita
 
 <sup>3</sup> I divieti di cui ai capoversi 1 e 2 valgono anche per le persone fisiche, le imprese e le organizzazioni di cui all’allegato 1, nonché per tutte le altre persone fisiche, imprese e organizzazioni che hanno violato le misure della presente ordinanza o che agiscono in nome o per conto delle suddette persone fisiche, imprese o organizzazioni.
 
-<sup>4</sup> D’intesa con gli uffici competenti del DFAE e in conformità alle decisioni del comitato competente del Consiglio di sicurezza dell’ONU, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 3.
+<sup>4</sup> D’intesa con gli uffici competenti del DFAE e in conformità alle decisioni del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 3.
 
 <sup>5</sup> È vietato registrare navi nella Repubblica popolare democratica di Corea, ottenere l’autorizzazione affinché una nave batta la bandiera della Repubblica popolare democratica di Corea o essere proprietario, assuntore di leasing o gestore di una nave battente bandiera della Repubblica popolare democratica di Corea, noleggiare una simile nave oppure fornire servizi correlati, inclusi servizi assicurativi.[^15-5]
 
@@ -406,7 +416,7 @@ D’intesa con gli uffici competenti del DFAE e previa autorizzazione del comita
 
 <sup>7</sup>
 
-D’intesa con gli uffici competenti del DFAE e in conformità alle decisioni del comitato competente del Consiglio di sicurezza dell’ONU, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 6 e 6<sup>bis</sup> se le attività delle navi servono esclusivamente:[^15-8]
+D’intesa con gli uffici competenti del DFAE e in conformità alle decisioni del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 6 e 6<sup>bis</sup> se le attività delle navi servono esclusivamente:[^15-8]
 
 - a. a soddisfare il fabbisogno vitale e non sono esercitate da persone e imprese della Repubblica popolare democratica di Corea per conseguire entrate; o
 - b. a scopi umanitari.
@@ -430,7 +440,7 @@ Il Consiglio federale può decidere la cancellazione delle navi iscritte nel reg
   - 1\. a bordo di queste navi ci siano stati beni la cui vendita, fornitura, esportazione o transito violano la presente ordinanza; o
   - 2\. con queste navi siano state svolte attività vietate secondo la presente ordinanza.[^15-10]
 
-<sup>10</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza dell’ONU, la SECO può autorizzare deroghe al divieto di cui al capoverso 9.[^15-11]
+<sup>10</sup> Previa autorizzazione del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può autorizzare deroghe al divieto di cui al capoverso 9.[^15-11]
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del 22 feb. 2017, in vigore dalle ore 18.00 del 22 feb. 2017 ([RU 2017 653](https://fedlex.data.admin.ch/eli/oc/2017/116)).
 [^15-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dalle ore 18.00 del 25 apr. 2018 ([RU 2018 1661](https://fedlex.data.admin.ch/eli/oc/2018/247)).
@@ -454,7 +464,7 @@ Il Consiglio federale può decidere la cancellazione delle navi iscritte nel reg
 
 <sup>3</sup> I divieti di cui ai capoversi 1 e 2 valgono anche per le persone fisiche, le imprese e le organizzazioni di cui all’allegato 1, nonché per tutte le altre persone fisiche, imprese e organizzazioni che hanno violato le misure della presente ordinanza o che agiscono in nome o per conto delle suddette persone fisiche, imprese o organizzazioni.
 
-<sup>4</sup> D’intesa con gli uffici competenti del DFAE e in conformità alle decisioni del comitato competente del Consiglio di sicurezza dell’ONU, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 3.
+<sup>4</sup> D’intesa con gli uffici competenti del DFAE e in conformità alle decisioni del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 3.
 
 <sup>5</sup> I diritti di decollo, atterraggio e sorvolo non vengono concessi se c’è motivo di ritenere che a bordo ci siano beni la cui vendita, fornitura, esportazione o transito violano la presente ordinanza.
 
@@ -528,7 +538,7 @@ Il Consiglio federale può decidere la cancellazione delle navi iscritte nel reg
 
 #### Art. 20
 
-<sup>1</sup> Le liste delle persone fisiche, imprese e organizzazioni o risorse economiche (allegati 1 e 6) emanate o aggiornate dal Consiglio di sicurezza dell’ONU o dal comitato competente del Consiglio di sicurezza dell’ONU vengono recepite automaticamente.
+<sup>1</sup> Le liste delle persone fisiche, imprese e organizzazioni o risorse economiche (allegati 1 e 6) emanate o aggiornate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite vengono recepite automaticamente.
 
 <sup>2</sup> Le voci secondo gli allegati 1 e 6 non sono pubblicate né nella Raccolta ufficiale delle leggi federali (RU) né nella Raccolta sistematica del diritto federale (RS).
 
@@ -578,7 +588,7 @@ Il divieto di cui all’articolo 2*a* capoverso 1 non si applica al rilascio di 
 
 <sup>3</sup> Il divieto di cui all’articolo 7*a* capoverso 2<sup>bis</sup> non si applica ai contratti scritti riguardanti l’importazione di tessuti stipulati prima dell’11 settembre 2017. Tali importazioni possono essere effettuate al più tardi il 10 dicembre 2017.
 
-<sup>4</sup> Le transazioni di cui al capoverso 3 devono essere segnalate immediatamente alla SECO affinché il comitato competente del Consiglio di sicurezza dell’ONU possa essere informato al più tardi il 24 gennaio 2018.
+<sup>4</sup> Le transazioni di cui al capoverso 3 devono essere segnalate immediatamente alla SECO affinché il comitato competente del Consiglio di sicurezza delle Nazioni Unite possa essere informato al più tardi il 24 gennaio 2018.
 
 <sup>5</sup> Le joint venture e le cooperative esistenti di cui all’articolo 8*a* devono essere sciolte entro il 9 gennaio 2018.
 
@@ -598,12 +608,12 @@ Allegato 1
 
 **Nota**
 
-\1. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza dell’ONU o dal comitato competente del Consiglio di sicurezza dell’ONU[^annex1-lvlu1-1].
+\1. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite[^annex1-lvlu1-1].
 
 \2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annex1-lvlu1-2].
 
-[^annex1-lvlu1-1]: La lista è consultabile sul sito www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; 1718 Sanctions Committee (DPRK) &gt; Sanctions List Materials.
-[^annex1-lvlu1-2]: La banca dati SESAM è liberamente accessibile sul sito www.seco.admin.ch &gt; Politica esterna & Cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. La versione cartacea della lista può essere ordinata presso la SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
+[^annex1-lvlu1-1]: La lista è consultabile sul sito [www.un.org/en/sc/](http://www.un.org/en/sc/) &gt; Subsidiary Organs &gt; Sanctions &gt; 1718 Sanctions Committee (DPRK) &gt; Sanctions List Materials.
+[^annex1-lvlu1-2]: La banca dati SESAM è liberamente accessibile sul sito [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica esterna & Cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. La versione cartacea della lista può essere ordinata presso la SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
 
 Allegato 2[^t-1]
 
@@ -652,8 +662,6 @@ Allegato 2a[^t-2]
 <tr><td>17. 89</td><td>Navigazione marittima o fluviale</td></tr>
 </table>
 
-- [tab]
-
 Allegato 3[^t-3]
 
 (art. 6 cpv. 1)
@@ -668,8 +676,6 @@ Allegato 3[^t-3]
 <tr><td>2. 2710.1911</td><td>Petrolio per aeromobili (cherosene) destinato a essere utilizzato come carburante: – Jet A – Jet A-1 – Jet B</td></tr>
 <tr><td>3. 2825.1000</td><td>Idrazina come carburante per missili</td></tr>
 </table>
-
-- [tab]
 
 Allegato 4[^t-4]
 
@@ -746,12 +752,12 @@ Allegato 6[^t-6]
 
 ### Nota
 
-\1. Il presente allegato corrisponde alla lista delle navi designate dal Consiglio di sicurezza dell’ONU o dal comitato competente del Consiglio di sicurezza dell’ONU[^annex6-lvlu1-lvlu1-1].
+\1. Il presente allegato corrisponde alla lista delle navi designate Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite[^annex6-lvlu1-lvlu1-1].
 
 \2. In generale, la SECO inserisce la lista nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annex6-lvlu1-lvlu1-2].
 
-[^annex6-lvlu1-lvlu1-1]: La lista delle navi designate può essere consultata sul sito: www.un.org/fr/sc/ &gt; Organes subsidiaires &gt; Sanctions &gt; Comités des sanctions 1718 &gt; Matériaux relatifs à la liste de sanctions.
-[^annex6-lvlu1-lvlu1-2]: La banca dati SESAM è liberamente accessibile sul sito www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo rivolgendosi a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
+[^annex6-lvlu1-lvlu1-1]: La lista delle navi designate può essere consultata sul sito: [www.un.org/fr/sc/](http://www.un.org/fr/sc/) &gt; Organes subsidiaires &gt; Sanctions &gt; Comités des sanctions 1718 &gt; Matériaux relatifs à la liste de sanctions.
+[^annex6-lvlu1-lvlu1-2]: La banca dati SESAM è liberamente accessibile sul sito [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo rivolgendosi a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
 
 Allegato 7[^t-7]
 
