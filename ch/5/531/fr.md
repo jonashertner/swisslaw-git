@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2016 sur l'approvisionnement économique du pa
 short: LAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: fr
-version: 2023-05-01
+version: 2023-06-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230501/fr/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230501-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230601-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230501/fr"
 
 (Loi sur l’approvisionnement du pays, LAP)
 
-du 17 juin 2016 (État le 1<sup>er</sup> mai 2023)
+du 17 juin 2016 (État le 1<sup>er</sup> juin 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -789,29 +789,24 @@ Annexe 1
 Le Conseil fédéral peut suspendre les dispositions suivantes:
 
 - 1\. l’art. 2, al. 2, de la loi du 19 décembre 1958 sur la circulation routière[^annex1-lvlu1-1];
-- 2\.[^annex1-lvlu1-2] les art. 2, 8, al. 2, et 22 de la loi du 22 juin 1979 sur l’aménagement du territoire[^annex1-lvlu1-3];
-- 3\.[^annex1-lvlu1-4] l’art. 10*a* de la loi du 7 octobre 1983 sur la protection de l’environnement[^annex1-lvlu1-5];
-- 3<sup>bis</sup>.[^annex1-lvlu1-6] ...
-- 4\.[^annex1-lvlu1-7] l’art. 16, al. 1, de la loi du 24 juin 1902 sur les installations électriques[^annex1-lvlu1-8];
-- 5\.[^annex1-lvlu1-9] les art. 7 et 8 de la loi du 13 mars 1964 sur le travail[^annex1-lvlu1-10];
-- 6\.[^annex1-lvlu1-11] l’art. 2, al. 1, de la loi du 4 octobre 1963 sur les installations de transport par conduites[^annex1-lvlu1-12].
-- 7\.[^annex1-lvlu1-13] …
-- 8\.[^annex1-lvlu1-14] …
+- 2\.[^annex1-lvlu1-2] …
+- 3\.[^annex1-lvlu1-3] …
+- 3<sup>bis</sup>.[^annex1-lvlu1-4] …
+- 4\.[^annex1-lvlu1-5] …
+- 5\.[^annex1-lvlu1-6] …
+- 6\.[^annex1-lvlu1-7] …
+- 7\.[^annex1-lvlu1-8] …
+- 8\.[^annex1-lvlu1-9] …
 
 [^annex1-lvlu1-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^annex1-lvlu1-2]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
-[^annex1-lvlu1-3]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^annex1-lvlu1-4]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
-[^annex1-lvlu1-5]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^annex1-lvlu1-6]: Introduit par le ch. I de l’O du 30 sept. 2022, en vigueur du 1<sup>er</sup> oct. 2022 au 30 avr. 2023 ([RO 2022 545](https://fedlex.data.admin.ch/eli/oc/2022/545)).
+[^annex1-lvlu1-3]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-4]: Introduit par le ch. I de l’O du 30 sept. 2022, en vigueur du 1<sup>er</sup> oct. 2022 au 30 avr. 2023 ([RO 2022 545](https://fedlex.data.admin.ch/eli/oc/2022/545)).
+[^annex1-lvlu1-5]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-6]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
 [^annex1-lvlu1-7]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
-[^annex1-lvlu1-8]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^annex1-lvlu1-9]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
-[^annex1-lvlu1-10]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^annex1-lvlu1-11]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
-[^annex1-lvlu1-12]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^annex1-lvlu1-13]: Introduit par le ch. I de l’O du 30 sept. 2022 ([RO 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Abrogé par le ch. I de l’O du 17 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
-[^annex1-lvlu1-14]: Introduit par le ch. I de l’O du 30 sept. 2022 ([RO 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Abrogé par le ch. I de l’O du 17 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
+[^annex1-lvlu1-8]: Introduit par le ch. I de l’O du 30 sept. 2022 ([RO 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Abrogé par le ch. I de l’O du 17 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
+[^annex1-lvlu1-9]: Introduit par le ch. I de l’O du 30 sept. 2022 ([RO 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Abrogé par le ch. I de l’O du 17 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
 
 Annexe 2
 
@@ -827,7 +822,7 @@ II
 
 Les actes ci-après sont modifiés comme suit:
 
-...[^annex2-lvlu1-2]
+…[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: [[RO 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 24, [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018)[1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 1, [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 48, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)annexe 1 ch. II 18, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 15]
 [^annex2-lvlu1-2]: Les mod. peuvent être consultées au [RO 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308).

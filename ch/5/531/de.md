@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2016 über die wirtschaftliche Landesversorgun
 short: LVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: de
-version: 2023-05-01
+version: 2023-06-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230501/de/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230501-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230601-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230501/de"
 
 (Landesversorgungsgesetz, LVG)
 
-vom 17. Juni 2016 (Stand am 1. Mai 2023)
+vom 17. Juni 2016 (Stand am 1. Juni 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -789,29 +789,24 @@ Anhang 1
 Der Bundesrat kann folgende Bestimmungen vorübergehend für nicht anwendbar erklären:
 
 - 1\. Artikel 2 Absatz 2 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^annex1-lvlu1-1];
-- 2\.[^annex1-lvlu1-2] die Artikel 2, 8 Absatz 2 und 22 des Raumplanungsgesetzes vom 22. Juni 1979[^annex1-lvlu1-3];
-- 3\.[^annex1-lvlu1-4] Artikel 10*a* des Umweltschutzgesetzes vom 7. Oktober 1983[^annex1-lvlu1-5];
-- 3<sup>bis</sup>.[^annex1-lvlu1-6] …
-- 4\.[^annex1-lvlu1-7] Artikel 16 Absatz 1 des Elektrizitätsgesetzes vom 24. Juni 1902[^annex1-lvlu1-8];
-- 5\.[^annex1-lvlu1-9] die Artikel 7 und 8 des Arbeitsgesetzes vom 13. März 1964[^annex1-lvlu1-10];
-- 6\.[^annex1-lvlu1-11] Artikel 2 Absatz 1 des Rohrleitungsgesetzes vom 4. Oktober 1963[^annex1-lvlu1-12];
-- 7\.[^annex1-lvlu1-13] …
-- 8\.[^annex1-lvlu1-14] …
+- 2\.[^annex1-lvlu1-2] …
+- 3\.[^annex1-lvlu1-3] …
+- 3<sup>bis</sup>.[^annex1-lvlu1-4] …
+- 4\.[^annex1-lvlu1-5] …
+- 5\.[^annex1-lvlu1-6] …
+- 6\.[^annex1-lvlu1-7] …
+- 7\.[^annex1-lvlu1-8] …
+- 8\.[^annex1-lvlu1-9] …
 
 [^annex1-lvlu1-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^annex1-lvlu1-2]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
-[^annex1-lvlu1-3]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^annex1-lvlu1-4]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
-[^annex1-lvlu1-5]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^annex1-lvlu1-6]: Eingefügt durch Ziff. I der V vom 30. Sept. 2022, in Kraft vom 1. Okt. 2022 bis zum 30. April 2023 ([AS 2022 545](https://fedlex.data.admin.ch/eli/oc/2022/545)).
+[^annex1-lvlu1-3]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-4]: Eingefügt durch Ziff. I der V vom 30. Sept. 2022, in Kraft vom 1. Okt. 2022 bis zum 30. April 2023 ([AS 2022 545](https://fedlex.data.admin.ch/eli/oc/2022/545)).
+[^annex1-lvlu1-5]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-6]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
 [^annex1-lvlu1-7]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
-[^annex1-lvlu1-8]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^annex1-lvlu1-9]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
-[^annex1-lvlu1-10]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^annex1-lvlu1-11]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
-[^annex1-lvlu1-12]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^annex1-lvlu1-13]: Eingefügt durch Ziff. I der V vom 30. Sept. 2022 ([AS 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Aufgehoben durch Ziff. I der V vom 17. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
-[^annex1-lvlu1-14]: Eingefügt durch Ziff. I der V vom 30. Sept. 2022 ([AS 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Aufgehoben durch Ziff. I der V vom 17. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
+[^annex1-lvlu1-8]: Eingefügt durch Ziff. I der V vom 30. Sept. 2022 ([AS 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Aufgehoben durch Ziff. I der V vom 17. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
+[^annex1-lvlu1-9]: Eingefügt durch Ziff. I der V vom 30. Sept. 2022 ([AS 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Aufgehoben durch Ziff. I der V vom 17. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
 
 Anhang 2
 
