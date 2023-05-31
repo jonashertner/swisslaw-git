@@ -4,13 +4,13 @@ number: "400"
 title: Raumplanungs- und Baugesetz
 short: RBG
 language: de
-version: 2023-02-01
-valid_until: 2023-05-31
-version_adopted: 2022-06-02
+version: 2023-06-01
+valid_until: 2023-08-31
+version_adopted: 2021-12-15
 adopted: 1998-01-08
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/400"
-pdf: "https://bl.clex.ch/api/de/versions/3698/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3699/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3698/pdf_file"
 
 (RBG)
 
-Vom 08.01.1998 (Stand 01.02.2023)
+Vom 08.01.1998 (Stand 01.06.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -365,6 +365,8 @@ beschliesst:[^ingress-2]
 <sup>3</sup> Die Zonenreglemente bestimmen Art und Mass der Nutzung, insbesondere die Bauweise, die Gebäudemasse (Gebäudelänge, Gebäudetiefe, Gebäudehöhe oder Geschosszahl), die maximal zulässige, bauliche Nutzung sowie die Dachformen und ihre Ausgestaltung. Die maximal zulässige, bauliche Nutzung wird mit der Überbauungs-, Grünflächen- und/oder der Ausnützungsziffer bestimmt.
 
 <sup>4</sup> Die Zonenreglemente können im Interesse eines harmonischen Strassen-, Orts- und Landschaftsbildes Vorschriften über die Gestaltung, die Baumaterialien und Farbgebung der Bauten und Anlagen sowie über die Bepflanzung, den ökologischen Ausgleich und den Biotopverbund enthalten.
+
+<sup>4<sup>bis</sup></sup> Die Gemeinden können für bestimmte Zonen oder Teile von Zonen eine Mindestnutzung für neue Bauten festlegen, welche bei mindestens 50 % der maximal zulässigen Nutzung liegt.
 
 <sup>5</sup> Die Zonenvorschriften sind für jedermann verbindlich.
 
@@ -739,6 +741,46 @@ beschliesst:[^ingress-2]
 <sup>1</sup> Die Gemeinden sind berechtigt, im Rahmen der Nutzungsplanung aus Gründen des Natur-, Landschafts-, Ortsbild- oder Denkmalschutzes Gebiete festzulegen, in denen keine oder nicht sichtbare Mobilfunkanlagen zulässig sind. Voraussetzung ist der Nachweis, dass trotz Festlegung solcher Gebiete eine qualitativ gute Mobilfunkversorgung gewährleistet ist und der Wettbewerb unter den Mobilfunkanbietern funktioniert.
 
 <sup>2</sup> Die Mobilfunkbetreiber sind frühzeitig in solche Nutzungsplanungsverfahren einzubeziehen.
+
+#### § 52b
+
+**Baulandverflüssigung**
+
+<sup>1</sup> Ist ein unüberbautes, erschlossenes Grundstück schon mindestens 10 Jahre in der Bauzone, so kann die Gemeinde, wenn das öffentliche Interesse es rechtfertigt, eine Frist von 5 Jahren zur zonenkonformen Überbauung des Grundstücks ansetzen. Die Verfügung ist im Grundbuch auch mit Wirkung gegenüber Dritten anzumerken.
+
+<sup>2</sup> Für die Überbauung innert der angesetzten Frist können die Gemeinden einen Nutzungsbonus gewähren.
+
+<sup>3</sup> Wird das Grundstück innert der angesetzten Frist nicht zu mindestens 50 % der maximal zulässigen Nutzung zonenkonform überbaut, so erhebt die Gemeinde einmalig einen Flächenbeitrag von CHF 20.–/m² bis CHF 100.–/m² für die unbebaute Fläche des Grundstücks.
+
+<sup>4</sup> Der erhobene Flächenbeitrag gemäss Abs. 3 wird im Falle einer Überbauung des Grundstücks zu mindestens 50 % der maximal zulässigen Nutzung:
+
+- a. mit den Anschlussgebühren verrechnet, wenn die Überbauung innert einer Frist von weiteren 5 Jahren erfolgt;
+- b. mit den Anschlussgebühren verrechnet, wenn die Überbauung nach einer Frist von weiteren 5 Jahren erfolgt, wobei für jedes Jahr nach dieser Frist der verrechenbare Flächenbeitrag um 10 % des Werts des erhobenen Flächenbeitrags reduziert wird.
+
+<sup>5</sup> Die Gemeinden:
+
+- a. regeln in den Zonenvorschriften die Details zu Abs. 2 und, wenn Flächenbeiträge von mehr als CHF 20.–/m² erhoben werden sollen, zu Abs. 3;
+- b. äufnen mit den Flächenbeiträgen einen Fonds, der zweckgebunden im Sinne von Abs. 4 zu verwenden ist.
+
+#### § 52c
+
+**Hochhäuser**
+
+<sup>1</sup> Als Hochhäuser gelten Bauten, welche Wohn- oder Wohn-Geschäftscharakter aufweisen und deren Gebäudehöhe 30 m übersteigt.
+
+<sup>2</sup> Hochhäuser bedürfen einer Quartierplanung, welche auf einem von der Gemeinde festzulegenden qualitätssichernden Verfahren zu basieren hat.
+
+<sup>3</sup> Der Regierungsrat erlässt in der Verordnung Regelungen zur Bestimmung des Schattenwurfs bei Hochhäusern.
+
+#### § 52d
+
+**Erweiterung von Arbeitszonen über Siedlungsgebiet hinaus**
+
+<sup>1</sup> Für projektbezogene, betriebsnotwendige Erweiterungen von bestehenden Gewerbe- und Industriebetrieben können Gewerbe- oder Industriezonen auch über das im Kantonalen Richtplan begrenzte Siedlungsgebiet hinaus erweitert werden.
+
+<sup>2</sup> Erfolgt eine Neueinzonung im Sinne von Abs. 1, so ist das Projekt beförderlich voranzutreiben und zu realisieren. Das Baugesuch muss innert 2 Jahren ab Rechtskraft der Nutzungsplanung eingereicht werden.
+
+<sup>3</sup> Werden die Bedingungen gemäss Abs. 2 nicht eingehalten, wird das Baugesuch rechtskräftig abgewiesen oder erlischt die Baubewilligung, so fällt das neu eingezonte Land ohne Zonenplanrevision automatisch in die frühere Zone zurück, ohne dass irgendwelche Entschädigungsansprüche gegenüber dem Gemeinwesen geltend gemacht werden können. Der Rückfall in die frühere Zone ist vom Gemeinderat gegenüber der betroffenen Grundeigentümerschaft durch Feststellung zu verfügen.
 
 ### 1.4 Vorsorgliche Massnahmen zur Sicherung der Raumplanung
 
