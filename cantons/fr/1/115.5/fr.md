@@ -4,13 +4,12 @@ number: "115.5"
 title: Loi sur le financement de la politique
 short: LFiPol
 language: fr
-version: 2021-01-01
-valid_until: 2023-05-31
-version_adopted: 2020-12-16
+version: 2023-06-01
+version_adopted: 2023-03-24
 adopted: 2020-12-16
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/115.5"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6748/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8160/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Financement de la politique – L
 
 (LFiPol)
 
-du 16.12.2020 (version entrée en vigueur le 01.01.2021)
+du 16.12.2020 (version entrée en vigueur le 01.06.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -39,13 +38,15 @@ Décrète:
 
 **But de la loi**
 
-<sup>1</sup> La présente loi a pour but de mettre en œuvre l'article 139a Cst.
+<sup>1</sup> La présente loi a pour but de mettre en œuvre l'article 139a Cst.[^1-1]
 
 <sup>2</sup> Dans ce cadre, elle règle:
 
 - a) les obligations des organisations politiques au sens de l'article 4;
 - b) les obligations des personnes élues par le peuple à une fonction publique;
 - c) le contrôle de l'accomplissement de ces obligations et les sanctions en cas de violation de ces obligations.
+
+[^1-1]: RSF [10.1](https://bdlf.fr.ch/data/10.1/fr)
 
 #### Art. 2
 
@@ -65,7 +66,9 @@ Décrète:
 
 <sup>3</sup> Les dons ou autres libéralités qui sont reçus anonymement ou sous un pseudonyme doivent immédiatement être versés à la Chancellerie d'Etat. A défaut, ils sont confisqués.
 
-<sup>4</sup> Les dons ou autres libéralités acquis à l'Etat sont ajoutés au montant fixe alloué par le Grand Conseil pour les frais généraux relatifs à la campagne électorale de la prochaine élection générale, au sens de l'article 1a al. 1 let. a de la loi du 22 juin 2001 sur la participation de l'Etat aux frais de campagne électorale.
+<sup>4</sup> Les dons ou autres libéralités acquis à l'Etat sont ajoutés au montant fixe alloué par le Grand Conseil pour les frais généraux relatifs à la campagne électorale de la prochaine élection générale, au sens de l'article 1a al. 1 let. a de la loi du 22 juin 2001 sur la participation de l'Etat aux frais de campagne électorale[^3-1].
+
+[^3-1]: RSF [115.6](https://bdlf.fr.ch/data/115.6/fr)
 
 ## 2 Transparence du financement des campagnes et des organisations politiques
 
@@ -81,7 +84,9 @@ Décrète:
 
 **Information préalable aux donateurs et donatrices sollicités**
 
-<sup>1</sup> Les organisations politiques informent préalablement, de manière claire et univoque, les donateurs et donatrices qu'elles sollicitent sur le fait que leur identité ou raison sociale est susceptible d'être révélée publiquement aux conditions posées par l'article 139a Cst. et par la présente loi.
+<sup>1</sup> Les organisations politiques informent préalablement, de manière claire et univoque, les donateurs et donatrices qu'elles sollicitent sur le fait que leur identité ou raison sociale est susceptible d'être révélée publiquement aux conditions posées par l'article 139a Cst.[^5-1] et par la présente loi.
+
+[^5-1]: RSF [10.1](https://bdlf.fr.ch/data/10.1/fr)
 
 #### Art. 6
 
@@ -92,7 +97,7 @@ Décrète:
 - a) élections au Conseil des Etats et au Conseil national;
 - b) élections au Grand Conseil;
 - c) élections au Conseil d'Etat;
-- d) élections à la fonction de préfet;
+- d) élections à la fonction de préfet ou préfète;
 - e) votations cantonales.
 
 <sup>2</sup> Ces obligations s'appliquent également aux comités d'initiative ou référendaires au niveau cantonal.
@@ -125,13 +130,15 @@ Décrète:
 - b) le décompte final au plus tard six mois après le jour de l'élection ou de la votation;
 - c) les comptes annuels jusqu'à la fin du mois de juin de l'année suivante.
 
-<sup>2</sup> Elles confirment l'exhaustivité et l'exactitude des informations figurant sur les documents présentés. La Chancellerie d'Etat procède à la vérification par sondage des budgets et des décomptes finals; elle peut déléguer l'accomplissement de ces tâches à des tiers, conformément à l'article 54 Cst. Les comptes annuels ne font pas l'objet d'une vérification.
+<sup>2</sup> Elles confirment l'exhaustivité et l'exactitude des informations figurant sur les documents présentés. La Chancellerie d'Etat procède à la vérification par sondage des budgets et des décomptes finals; elle peut déléguer l'accomplissement de ces tâches à des tiers, conformément à l'article 54 Cst.[^9-1] Les comptes annuels ne font pas l'objet d'une vérification.
 
 <sup>3</sup> Si les documents ne sont pas communiqués dans les délais, la Chancellerie d'Etat somme les personnes responsables de les livrer en leur impartissant un délai supplémentaire. Le cas échéant, elle avertit les personnes concernées qu'elles seront dénoncées à défaut de livraison dans ce délai.
 
 <sup>4</sup> Si les documents ne sont pas communiqués dans le délai supplémentaire imparti ou si, à l'issue de leur contrôle, ils ne s'avèrent pas conformes, la Chancellerie d'Etat est tenue de dénoncer le cas à l'autorité de poursuite pénale compétente.
 
 <sup>5</sup> Le dépôt auprès de la Chancellerie d'Etat vaut publication par les personnes concernées.
+
+[^9-1]: RSF [10.1](https://bdlf.fr.ch/data/10.1/fr)
 
 ## 3 Transparence des revenus des personnes élues
 
@@ -141,10 +148,10 @@ Décrète:
 
 <sup>1</sup> Les membres élus des autorités auxquels s'applique l'obligation de publier les revenus qu'ils tirent de leur mandat ainsi que les revenus des activités en lien avec celui-ci sont:
 
-- a) les conseillers et conseillères aux Etats et les conseillers et conseillères nationaux;
+- a) …
 - b) les député‑e‑s au Grand Conseil;
 - c) les conseillers et conseillères d'Etat;
-- d) les préfets.
+- d) les préfets et préfètes.
 
 #### Art. 11
 
@@ -152,9 +159,9 @@ Décrète:
 
 <sup>1</sup> Les revenus tirés du mandat sont:
 
-- a) pour les conseillers et conseillères aux Etats et les conseillers et conseillères nationaux, toutes les indemnités au sens de la législation fédérale sur les moyens alloués aux parlementaires;
+- a) …
 - b) pour les député‑e‑s au Grand Conseil, toutes les indemnités reçues en application de la législation sur le Grand Conseil;
-- c) pour les conseillers et conseillères d'Etat et les préfets, le traitement au sens de la législation sur le traitement et la prévoyance professionnelle des conseillers d'Etat, des préfets et des juges cantonaux.
+- c) pour les conseillers et conseillères d'Etat et les préfets et préfètes, le traitement au sens de la législation sur le traitement et la prévoyance professionnelle des conseillers et conseillères d'Etat, des préfets et préfètes et des juges cantonaux.
 
 <sup>2</sup> Les revenus tirés des autres activités en lien avec le mandat consistent, à l'exclusion du revenu provenant de l'activité professionnelle exercée à titre principal, en tous les traitements perçus par les personnes citées à l'alinéa 1 obtenus pour:
 
@@ -163,25 +170,29 @@ Décrète:
 - c) les autres fonctions politiques qu'elles exercent;
 - d) les fonctions permanentes de direction ou de conseil qu'elles assument pour le compte de groupes d'intérêts, y compris au sein d'associations ou de fondations.
 
-<sup>3</sup> La déclaration de la provenance d'un revenu n'est pas exigée lorsque sa révélation violerait le secret professionnel au sens du code pénal suisse.
+<sup>3</sup> La déclaration de la provenance d'un revenu n'est pas exigée lorsque sa révélation violerait le secret professionnel au sens du code pénal suisse[^11-1].
+
+[^11-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 
 #### Art. 12
 
 **Dépôt et vérification des revenus**
 
-<sup>1</sup> Au moyen d'un formulaire, les personnes concernées déposent auprès de la Chancellerie d'Etat, jusqu'à la fin du mois d'août de chaque année civile, la liste complète des revenus acquis au sens de l'article 11, cela pour l'année précédente. Le formulaire attire l'attention des personnes concernées sur l'article 194 de la loi du 6 juin 2000 sur les impôts cantonaux directs.
+<sup>1</sup> Au moyen d'un formulaire, les personnes concernées déposent auprès de la Chancellerie d'Etat, jusqu'à la fin du mois d'août de chaque année civile, la liste complète des revenus acquis au sens de l'article 11, cela pour l'année précédente. Le formulaire attire l'attention des personnes concernées sur l'article 194 de la loi du 6 juin 2000 sur les impôts cantonaux directs[^12-1].
 
 <sup>2</sup> Si la liste n'est pas communiquée dans le délai imparti, la Chancellerie d'Etat somme les personnes concernées de la livrer en leur impartissant un délai supplémentaire. Le cas échéant, elle avertit la personne concernée que, à défaut de livraison dans ce délai, elle sera dénoncée.
 
-<sup>3</sup> La Chancellerie d'Etat et le service en charge des contributions[^12-1] collaborent pour vérifier, par sondage, l'exhaustivité des revenus acquis au sens de l'article 11.
+<sup>3</sup> La Chancellerie d'Etat et le service en charge des contributions[^12-2] collaborent pour vérifier, par sondage, l'exhaustivité des revenus acquis au sens de l'article 11.
 
-<sup>4</sup> Le service en charge des contributions vérifie si les revenus mentionnés au sens de l'alinéa 1 ont bien été déclarés, en informe la Chancellerie d'Etat et lui communique en outre les revenus répondant à la définition de l'article 11 qui n'auraient pas été annoncés. Il peut déléguer l'accomplissement de ces tâches à des tiers, conformément à l'article 54 Cst.
+<sup>4</sup> Le service en charge des contributions vérifie si les revenus mentionnés au sens de l'alinéa 1 ont bien été déclarés, en informe la Chancellerie d'Etat et lui communique en outre les revenus répondant à la définition de l'article 11 qui n'auraient pas été annoncés. Il peut déléguer l'accomplissement de ces tâches à des tiers, conformément à l'article 54 Cst.[^12-3]
 
 <sup>5</sup> Si la liste n'est pas communiquée dans le délai supplémentaire imparti ou si elle n'est pas complète, la Chancellerie d'Etat est tenue de dénoncer le cas à l'autorité de poursuite pénale compétente.
 
 <sup>6</sup> Le dépôt auprès de la Chancellerie d'Etat vaut publication par les personnes concernées.
 
-[^12-1]: Actuellement: Service cantonal des contributions.
+[^12-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
+[^12-2]: Actuellement: Service cantonal des contributions.
+[^12-3]: RSF [10.1](https://bdlf.fr.ch/data/10.1/fr)
 
 ## 4 Publication et protection des données
 
@@ -235,6 +246,8 @@ Décrète:
 
 <sup>1</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice.
 
-<sup>2</sup> La confiscation au profit de l'Etat des dons anonymes, sous pseudonyme ou autres libéralités qui n'auraient pas été annoncés ou immédiatement versés à la Chancellerie d'Etat est régie par le code de procédure pénale suisse.
+<sup>2</sup> La confiscation au profit de l'Etat des dons anonymes, sous pseudonyme ou autres libéralités qui n'auraient pas été annoncés ou immédiatement versés à la Chancellerie d'Etat est régie par le code de procédure pénale suisse[^17-1].
+
+[^17-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/fr)
 
 2020\_193

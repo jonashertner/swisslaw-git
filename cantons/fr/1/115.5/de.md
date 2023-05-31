@@ -4,13 +4,12 @@ number: "115.5"
 title: Gesetz über die Politikfinanzierung
 short: PolFiG
 language: de
-version: 2021-01-01
-valid_until: 2023-05-31
-version_adopted: 2020-12-16
+version: 2023-06-01
+version_adopted: 2023-03-24
 adopted: 2020-12-16
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/115.5"
-pdf: "https://bdlf.fr.ch/api/de/versions/6748/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8160/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Politikfinanzierung – G
 
 (PolFiG)
 
-vom 16.12.2020 (Fassung in Kraft getreten am 01.01.2021)
+vom 16.12.2020 (Fassung in Kraft getreten am 01.06.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -39,13 +38,15 @@ beschliesst:
 
 **Zweck des Gesetzes**
 
-<sup>1</sup> Dieses Gesetz hat den Zweck, Artikel 139a KV umzusetzen.
+<sup>1</sup> Dieses Gesetz hat den Zweck, Artikel 139a KV[^1-1] umzusetzen.
 
 <sup>2</sup> In diesem Rahmen regelt es:
 
 - a) die Pflichten der politischen Organisationen nach Artikel 4;
 - b) die Pflichten der vom Volk in ein öffentliches Amt gewählten Personen;
 - c) die Kontrolle der Einhaltung sowie die Sanktionen bei Verletzung dieser Pflichten.
+
+[^1-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
 
 #### Art. 2
 
@@ -65,7 +66,9 @@ beschliesst:
 
 <sup>3</sup> Anonym oder unter einem Pseudonym eingegangene Spenden müssen unverzüglich der Staatskanzlei überwiesen werden. Andernfalls werden sie beschlagnahmt.
 
-<sup>4</sup> Dem Staat geschuldete Spenden oder andere Zuwendungen werden zu dem vom Grossen Rat gewährten fixen Betrag für die allgemeinen Wahlkampfkosten der nächsten Gesamterneuerungswahlen im Sinne von Artikel 1a Abs. 1 Bst. a des Gesetzes vom 22. Juni 2001 über die finanzielle Beteiligung des Staates an Wahlkampfkosten hinzugefügt.
+<sup>4</sup> Dem Staat geschuldete Spenden oder andere Zuwendungen werden zu dem vom Grossen Rat gewährten fixen Betrag für die allgemeinen Wahlkampfkosten der nächsten Gesamterneuerungswahlen im Sinne von Artikel 1a Abs. 1 Bst. a des Gesetzes vom 22. Juni 2001 über die finanzielle Beteiligung des Staates an Wahlkampfkosten[^3-1] hinzugefügt.
+
+[^3-1]: SGF [115.6](https://bdlf.fr.ch/data/115.6/de)
 
 ## 2 Transparenz bei der Finanzierung von Kampagnen und politischen Organisationen
 
@@ -81,7 +84,9 @@ beschliesst:
 
 **Vorgängige Information der angefragten Spenderinnen und Spender**
 
-<sup>1</sup> Die politischen Organisationen weisen die Spenderinnen und Spender, die sie anfragen, vorgängig klar und unmissverständlich darauf hin, dass ihre Identität oder ihr Firmenname unter den Voraussetzungen nach Artikel 139a KV und nach diesem Gesetz offengelegt werden kann.
+<sup>1</sup> Die politischen Organisationen weisen die Spenderinnen und Spender, die sie anfragen, vorgängig klar und unmissverständlich darauf hin, dass ihre Identität oder ihr Firmenname unter den Voraussetzungen nach Artikel 139a KV[^5-1] und nach diesem Gesetz offengelegt werden kann.
+
+[^5-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
 
 #### Art. 6
 
@@ -125,13 +130,15 @@ beschliesst:
 - b) die Schlussabrechnung spätestens sechs Monate nach dem Wahl- oder Abstimmungstag;
 - c) die Jahresrechnung bis Ende Juni des Folgejahres.
 
-<sup>2</sup> Sie bestätigen die Vollständigkeit und Richtigkeit der Angaben auf den eingereichten Unterlagen. Die Staatskanzlei überprüft die Budgets und Schlussabrechnungen stichprobenweise; sie kann die Erfüllung dieser Aufgaben nach Artikel 54 KV Dritten übertragen. Die Jahresrechnungen werden nicht überprüft.
+<sup>2</sup> Sie bestätigen die Vollständigkeit und Richtigkeit der Angaben auf den eingereichten Unterlagen. Die Staatskanzlei überprüft die Budgets und Schlussabrechnungen stichprobenweise; sie kann die Erfüllung dieser Aufgaben nach Artikel 54 KV[^9-1] Dritten übertragen. Die Jahresrechnungen werden nicht überprüft.
 
 <sup>3</sup> Werden die Unterlagen nicht fristgerecht eingereicht, fordert die Staatskanzlei die Verantwortlichen auf, diese einzureichen, und gewährt ihnen eine zusätzliche Frist. Gegebenenfalls weist sie die betroffenen Personen darauf hin, dass sie angezeigt werden, wenn die Einreichung nicht innert dieser Frist erfolgt.
 
 <sup>4</sup> Wurden die Unterlagen nicht innerhalb der zusätzlichen Frist eingereicht oder erweisen sie sich aufgrund der Kontrolle als nicht vorschriftsgemäss, muss die Staatskanzlei den Fall bei der zuständigen Strafverfolgungsbehörde anzeigen.
 
 <sup>5</sup> Die Einreichung bei der Staatskanzlei gilt als Offenlegung durch die betroffenen Personen.
+
+[^9-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
 
 ## 3 Offenlegung der Einkommen der gewählten Personen
 
@@ -141,7 +148,7 @@ beschliesst:
 
 <sup>1</sup> Für die folgenden gewählten Behördenmitglieder gilt die Offenlegungspflicht für die Einkommen, die sie mit ihrem Mandat und im Zusammenhang mit diesem erzielen:
 
-- a) die Ständerätinnen und Ständeräte und die Nationalrätinnen und Nationalräte;
+- a) …
 - b) die Grossrätinnen und Grossräte;
 - c) die Staatsrätinnen und Staatsräte;
 - d) die Oberamtfrauen und Oberamtmänner.
@@ -152,9 +159,9 @@ beschliesst:
 
 <sup>1</sup> Mit dem Mandat erzielte Einkommen sind:
 
-- a) für Ständerätinnen und Ständeräte und Nationalrätinnen und Nationalräte, sämtliche Entschädigungen im Sinne der Parlamentsressourcengesetzgebung des Bundes;
+- a) …
 - b) für Grossrätinnen und Grossräte, sämtliche Entschädigungen, die sie in Anwendung der Gesetzgebung über den Grossen Rat erhalten;
-- c) für Staatsrätinnen und Staatsräte, Oberamtfrauen und Oberamtmänner, das Gehalt im Sinne der Gesetzgebung über die Gehälter und die berufliche Vorsorge der Staatsräte, der Oberamtmänner und der Kantonsrichter.
+- c) für Staatsrätinnen und Staatsräte, Oberamtfrauen und Oberamtmänner, das Gehalt im Sinne der Gesetzgebung über die Gehälter und die berufliche Vorsorge der Staatsräte, der Oberamtmänner und Oberamtfrauen und der Kantonsrichter.
 
 <sup>2</sup> Aus anderen Tätigkeiten in Zusammenhang mit dem Mandat erzielte Einkommen bestehen, mit Ausnahme des Einkommens aus der hauptberuflich ausgeübten Tätigkeit, aus allen Gehältern, die von den in Absatz 1 erwähnten Personen bezogen werden für:
 
@@ -163,25 +170,29 @@ beschliesst:
 - c) weitere politische Ämter;
 - d) dauernde Leitungs- oder Beratungstätigkeiten für Interessengruppen, einschliesslich bei Verbänden und Stiftungen.
 
-<sup>3</sup> Die Herkunft eines Einkommens muss nicht offengelegt werden, wenn damit das Berufsgeheimnis im Sinne des Schweizerischen Strafgesetzbuchs verletzt würde.
+<sup>3</sup> Die Herkunft eines Einkommens muss nicht offengelegt werden, wenn damit das Berufsgeheimnis im Sinne des Schweizerischen Strafgesetzbuchs[^11-1] verletzt würde.
+
+[^11-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### Art. 12
 
 **Einreichung und Überprüfung der Einkommen**
 
-<sup>1</sup> Die betroffenen Personen reichen mit einem Formular bis Ende August jedes Kalenderjahres die vollständige Liste der im Sinne von Artikel 11 erzielten Einkommen des Vorjahres bei der Staatskanzlei ein. Das Formular macht die betroffenen Personen auf Artikel 194 des Gesetzes über die direkten Kantonssteuern aufmerksam.
+<sup>1</sup> Die betroffenen Personen reichen mit einem Formular bis Ende August jedes Kalenderjahres die vollständige Liste der im Sinne von Artikel 11 erzielten Einkommen des Vorjahres bei der Staatskanzlei ein. Das Formular macht die betroffenen Personen auf Artikel 194 des Gesetzes über die direkten Kantonssteuern[^12-1] aufmerksam.
 
 <sup>2</sup> Wird die Liste nicht fristgerecht eingereicht, fordert die Staatskanzlei die betroffenen Personen auf, diese einzureichen, und gewährt ihnen eine zusätzliche Frist. Gegebenenfalls weist sie die betroffene Person darauf hin, dass sie angezeigt wird, wenn die Einreichung nicht innert dieser Frist erfolgt.
 
-<sup>3</sup> Die Staatskanzlei und das für die Steuern zuständige Amt[^12-1] arbeiten zusammen, um die Vollständigkeit der im Sinne von Artikel 11 erworbenen Einkommen stichprobenweise zu überprüfen.
+<sup>3</sup> Die Staatskanzlei und das für die Steuern zuständige Amt[^12-2] arbeiten zusammen, um die Vollständigkeit der im Sinne von Artikel 11 erworbenen Einkommen stichprobenweise zu überprüfen.
 
-<sup>4</sup> Das für die Steuern zuständige Amt überprüft, ob die nach Absatz 1 erwähnten Einkommen offengelegt wurden, informiert die Staatskanzlei darüber und teilt ihr zudem die Einkommen mit, die der Definition nach Artikel 11 entsprechen und nicht gemeldet worden sind. Es kann die Erfüllung dieser Aufgaben nach Artikel 54 KV Dritten übertragen.
+<sup>4</sup> Das für die Steuern zuständige Amt überprüft, ob die nach Absatz 1 erwähnten Einkommen offengelegt wurden, informiert die Staatskanzlei darüber und teilt ihr zudem die Einkommen mit, die der Definition nach Artikel 11 entsprechen und nicht gemeldet worden sind. Es kann die Erfüllung dieser Aufgaben nach Artikel 54 KV[^12-3] Dritten übertragen.
 
 <sup>5</sup> Wurde die Liste nicht innerhalb der zusätzlichen Frist eingereicht oder erweist sie sich als unvollständig, muss die Staatskanzlei den Fall bei der zuständigen Strafverfolgungsbehörde anzeigen.
 
 <sup>6</sup> Die Einreichung bei der Staatskanzlei gilt als Offenlegung durch die betroffenen Personen.
 
-[^12-1]: Heute: Kantonale Steuerverwaltung.
+[^12-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
+[^12-2]: Heute: Kantonale Steuerverwaltung.
+[^12-3]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
 
 ## 4 Veröffentlichung und Datenschutz
 
@@ -235,6 +246,8 @@ beschliesst:
 
 <sup>1</sup> Widerhandlungen werden nach dem Justizgesetz verfolgt und beurteilt.
 
-<sup>2</sup> Die Beschlagnahmung zugunsten des Staates von anonym oder unter Pseudonym eingegangenen Spenden oder anderen Zuwendungen, die der Staatskanzlei nicht gemeldet oder unverzüglich überwiesen wurden, richtet sich nach der Schweizerischen Strafprozessordnung.
+<sup>2</sup> Die Beschlagnahmung zugunsten des Staates von anonym oder unter Pseudonym eingegangenen Spenden oder anderen Zuwendungen, die der Staatskanzlei nicht gemeldet oder unverzüglich überwiesen wurden, richtet sich nach der Schweizerischen Strafprozessordnung[^17-1].
+
+[^17-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 2020\_193
