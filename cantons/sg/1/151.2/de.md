@@ -4,13 +4,13 @@ number: "151.2"
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2023-01-01
-valid_until: 2023-05-31
-version_adopted: 2022-04-12
+version: 2023-06-01
+valid_until: 2025-09-30
+version_adopted: 2022-11-15
 adopted: 2009-04-21
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/151.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3356/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3597/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3356/pdf_file"
 
 (GG)
 
-vom 21.04.2009 (Stand 01.01.2023)
+vom 21.04.2009 (Stand 01.06.2023)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -820,6 +820,10 @@ als Gesetz:[^ingress-2]
 - a) in der Gemeinde mit Bürgerversammlung das Gutachten des Rates und bei den Rechnungsgeschäften gegebenenfalls eine abweichende Stellungnahme der Geschäftsprüfungskommission;
 - b) in der Gemeinde mit Parlament ein erläuternder Bericht zum Beschluss.
 
+<sup>2</sup> Art. 1<sup>bis</sup> und Art. 1<sup>ter</sup> des Gesetzes über Referendum und Initiative vom 27. November 1967[^71-1] werden sachgemäss angewendet. Die Gemeinden können auf die Kurzfassung in einfacher Sprache des Gutachtens des Rates oder des erläuternden Berichts verzichten. Gemeinden mit Parlament können zudem für den Erlass des erläuternden Berichts abweichende Zuständigkeiten festlegen.
+
+[^71-1]: sGS [125.1](https://www.gesetzessammlung.sg.ch/data/125.1/de).
+
 #### Art. 72
 
 **Einheit der Materie**
@@ -848,9 +852,9 @@ als Gesetz:[^ingress-2]
 
 #### Art. 74a
 
-**c) Verfahren**
+**c) ergänzendes Recht**
 
-<sup>1</sup> Das Verfahren richtet sich sachgemäss nach den Vorschriften des Gesetzes über Referendum und Initiative[^74a-1].
+<sup>1</sup> Insbesondere betreffend das Verfahren werden ergänzend die Vorschriften des Gesetzes über Referendum und Initiative[^74a-1] sachgemäss angewendet.
 
 <sup>2</sup> Die Gemeindeordnung kann andere Fristen vorsehen.
 
@@ -864,7 +868,7 @@ als Gesetz:[^ingress-2]
 
 <sup>2</sup> Kommt das Referendum zustande, werden den Stimmberechtigten Vorlage und Eventualantrag gleichzeitig unterbreitet.
 
-<sup>3</sup> Das Verfahren richtet sich sachgemäss nach den Vorschriften des Gesetzes über Referendum und Initiative über Initiative und Gegenvorschlag.
+<sup>3</sup> Insbesondere betreffend das Verfahren werden ergänzend die Vorschriften des Gesetzes über Referendum und Initiative über Initiative und Gegenvorschlag sachgemäss angewendet.
 
 #### Art. 76
 
@@ -884,11 +888,17 @@ als Gesetz:[^ingress-2]
 
 #### Art. 78
 
-**c) Verfahren**
+**c) Unterbreitung**
 
 <sup>1</sup> Kommt das Referendum zustande, sind den Stimmberechtigten Vorlage und Volksvorschlag gleichzeitig zu unterbreiten.
 
-<sup>2</sup> Das Verfahren richtet sich sachgemäss nach den Vorschriften des Gesetzes über Referendum und Initiative über Initiative und Gegenvorschlag.
+<sup>2</sup> …
+
+#### Art. 78a
+
+**d) ergänzendes Recht**
+
+<sup>1</sup> Insbesondere betreffend das Verfahren werden ergänzend die Vorschriften des Gesetzes über Referendum und Initiative über Referendum, Initiative und Gegenvorschlag sachgemäss angewendet.
 
 #### Art. 79
 
@@ -908,14 +918,14 @@ als Gesetz:[^ingress-2]
 
 #### Art. 81
 
-**c) Verfahren**
+**c) ergänzendes Recht**
 
-<sup>1</sup> Für das Verfahren werden sachgemäss angewendet:
+<sup>1</sup> Insbesondere betreffend das Verfahren werden ergänzend sachgemäss angewendet:
 
 - a) bei Initiativbegehren in Form der einfachen Anregung die Vorschriften des Gesetzes über Referendum und Initiative über die Einheitsinitiative;
 - b) bei Initiativbegehren in Form des ausgearbeiteten Entwurfs die Vorschriften des Gesetzes über Referendum und Initiative über die Gesetzesinitiative.
 
-<sup>2</sup> Die Gemeindeordnung kann andere Fristen vorsehen.
+<sup>2</sup> Die Gemeindeordnung kann andere Fristen und eine andere Mindestgrösse des Initiativkomitees vorsehen.
 
 ### 3. Volksmotion
 
