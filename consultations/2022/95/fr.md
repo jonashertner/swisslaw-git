@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification du règlement du 17 janvier 1961 sur l’assurance-invalidité (RAI)
 document: Projet mis en consultation
 language: fr

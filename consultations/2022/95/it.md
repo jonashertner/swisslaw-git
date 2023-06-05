@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza del 17 gennaio 1961 sull’assicurazione per l’invalidità (OAI)
 document: Progetto posto in consultazione
 language: it
