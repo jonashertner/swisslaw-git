@@ -5,12 +5,12 @@ title: Gesetz über Organisation und Verwaltung der Gemeinden
 short: "Gemeindegesetz, GemG"
 language: de
 version: 2018-01-01
-corrected: 2023-04-05
+corrected: 2023-06-06
 version_adopted: 2017-06-28
 adopted: 1974-04-28
 in_force: 1974-04-28
 url: "https://gesetze.nw.ch/app/de/texts_of_law/171.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1049/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1129/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -263,7 +263,7 @@ beschliesst:
 
 #### Art. 23
 
-**3. Unterschriftena) Anforderungen**
+**3. Unterschriften a) Anforderungen**
 
 <sup>1</sup> Die stimmberechtigte Person muss ihren Namen und ihren Vornamen handschriftlich und leserlich auf die Unterschriftenliste schreiben sowie zusätzlich ihre eigenhändige Unterschrift beifügen.
 
