@@ -3,13 +3,13 @@ canton: FR
 number: "612.21"
 title: "Ordonnance précisant certains montants liés aux derniers comptes de l'Etat"
 language: fr
-version: 2022-06-01
-valid_until: 2023-06-05
-version_adopted: 2022-06-07
+version: 2023-06-06
+valid_until: 2024-06-03
+version_adopted: 2023-06-06
 adopted: 2026-06-09
 in_force: 2026-06-09
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/612.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7497/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7774/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7497/pdf_file"
 
 Montants liés aux derniers comptes de l'Etat – O
 
-du 07.06.2022 (version entrée en vigueur le 01.06.2022)
+du 06.06.2023 (version entrée en vigueur le 06.06.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -30,7 +30,7 @@ Vu l'article 134b de la loi du 6 avril 2001 sur l'exercice des droits politiques
 
 Vu les articles 30, 43 et 44 de la loi du 25 novembre 1994 sur les finances de l'Etat (LFE);
 
-Vu le décret du 18 mai 2022 relatif au compte d'Etat du canton de Fribourg pour l'année 2021;
+Vu le décret du 24 mai 2023 relatif au compte d'Etat du canton de Fribourg pour l'année 2022;
 
 Considérant:
 
@@ -48,27 +48,27 @@ Arrête:
 
 #### Art. 2
 
-<sup>1</sup> Sur la base des comptes 2021 de l'Etat de Fribourg adoptés par le Grand Conseil le 18 mai 2022, les montants déterminants à prendre en considération sont les suivants:
+<sup>1</sup> Sur la base des comptes 2022 de l'Etat de Fribourg adoptés par le Grand Conseil le 24 mai 2023, les montants déterminants à prendre en considération sont les suivants:
 
 <table>
 <tr><th>Bases constitutionnelles et légales</th><th>Taux</th><th>Base de référence</th><th>Montants</th></tr>
 <tr><td>♦ Constitution du canton de Fribourg du 16 mai 2004 (art. 45 et 46)</td><td></td><td></td><td></td></tr>
-<tr><td>– Referendum financier obligatoire</td><td>&gt; 1 %</td><td>Total des dépenses \*</td><td>&gt; Fr. 42'049'741</td></tr>
-<tr><td>– Referendum financier facultatif</td><td>&gt; ¼ %</td><td>Total des dépenses \*</td><td>&gt; Fr. 10'512'435</td></tr>
+<tr><td>– Referendum financier obligatoire</td><td>&gt; 1 %</td><td>Total des dépenses \*</td><td>&gt; Fr. 47'455'818</td></tr>
+<tr><td>– Referendum financier facultatif</td><td>&gt; ¼ %</td><td>Total des dépenses \*</td><td>&gt; Fr. 11'863'954</td></tr>
 <tr><td>♦ Loi du 6 septembre 2006 sur le Grand Conseil (art. 141)</td><td></td><td></td><td></td></tr>
-<tr><td>– Dépenses uniques</td><td>&gt; ⅛ %</td><td>Total des dépenses \*</td><td>&gt; Fr. 5'256'218</td></tr>
-<tr><td>– Dépenses périodiques</td><td>&gt; 1/40 %</td><td>Total des dépenses \*</td><td>&gt; Fr. 1'051'244</td></tr>
-<tr><td>– Diminution de recettes</td><td>&gt; ⅛ %</td><td>Total des dépenses \*</td><td>&gt; Fr. 5'256'218</td></tr>
+<tr><td>– Dépenses uniques</td><td>&gt; ⅛ %</td><td>Total des dépenses \*</td><td>&gt; Fr. 5'931'977</td></tr>
+<tr><td>– Dépenses périodiques</td><td>&gt; 1/40 %</td><td>Total des dépenses \*</td><td>&gt; Fr. 1'186'395</td></tr>
+<tr><td>– Diminution de recettes</td><td>&gt; ⅛ %</td><td>Total des dépenses \*</td><td>&gt; Fr. 5'931'977</td></tr>
 <tr><td>♦ Loi du 6 avril 2001 sur l'exercice des droits politiques (art. 134b)</td><td></td><td></td><td></td></tr>
-<tr><td>– Crédits d'étude</td><td>&gt; ½ ‰</td><td>Total des dépenses \*</td><td>&gt; Fr. 2'102'487</td></tr>
+<tr><td>– Crédits d'étude</td><td>&gt; ½ ‰</td><td>Total des dépenses \*</td><td>&gt; Fr. 2'372'791</td></tr>
 <tr><td>♦ Loi du 25 novembre 1994 sur les finances de l'Etat</td><td></td><td></td><td></td></tr>
-<tr><td>– Art. 30: crédit d'engagement pour les dépenses d'investissements, de transformation et de rénovation et pour les subventions d'investissements</td><td>&gt; ⅛ %</td><td>Total des dépenses \*</td><td>&gt; Fr. 5'256'218</td></tr>
+<tr><td>– Art. 30: crédit d'engagement pour les dépenses d'investissements, de transformation et de rénovation et pour les subventions d'investissements</td><td>&gt; ⅛ %</td><td>Total des dépenses \*</td><td>&gt; Fr. 5'931'977</td></tr>
 <tr><td>– Art. 43: compétences financières du Grand Conseil</td><td></td><td></td><td></td></tr>
-<tr><td>• achat et aliénation du patrimoine financier</td><td>&gt; ½ %</td><td>Total des charges \*\*</td><td>&gt; Fr. 20'357'847</td></tr>
-<tr><td>• autres compétences financières</td><td>&gt; 0,2 ‰</td><td>Total des charges \*\*</td><td>&gt; Fr. 814'314</td></tr>
+<tr><td>• achat et aliénation du patrimoine financier</td><td>&gt; ½ %</td><td>Total des charges \*\*</td><td>&gt; Fr. 22'584'217</td></tr>
+<tr><td>• autres compétences financières</td><td>&gt; 0,2 ‰</td><td>Total des charges \*\*</td><td>&gt; Fr. 903'369</td></tr>
 <tr><td>– Art. 44: compétences financières du Conseil d'Etat</td><td></td><td></td><td></td></tr>
-<tr><td>• achat et aliénation du patrimoine financier</td><td>≤ ½ %</td><td>Total des charges \*\*</td><td>≤ Fr. 20'357'847</td></tr>
-<tr><td>• autres compétences financières</td><td>≤ 0,2 ‰</td><td>Total des charges \*\*</td><td>≤ Fr. 814'314</td></tr>
+<tr><td>• achat et aliénation du patrimoine financier</td><td>≤ ½ %</td><td>Total des charges \*\*</td><td>≤ Fr. 22'584'217</td></tr>
+<tr><td>• autres compétences financières</td><td>≤ 0,2 ‰</td><td>Total des charges \*\*</td><td>≤ Fr. 903'369</td></tr>
 </table>
 
-2022\_065
+2023\_050
