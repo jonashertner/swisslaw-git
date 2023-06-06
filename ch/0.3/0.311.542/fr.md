@@ -3,11 +3,11 @@ sr: "0.311.542"
 title: "Protocole additionnel du 15 novembre 2000 à la Convention des Nations Unies contre la criminalité transnationale organisée visant à prévenir, réprimer et punir la traite des personnes, en particulier des femmes et des enfants"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/864"
 language: fr
-version: 2020-06-30
+version: 2023-06-07
 adopted: 2000-11-15
 in_force: 2006-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/864/20200630/fr/xml/fedlex-data-admin-ch-eli-cc-2006-864-20200630-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/864/20200630/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/864/20230607/fr/xml/fedlex-data-admin-ch-eli-cc-2006-864-20230607-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/864/20230607/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 27 octobre 2006
 
 Entré en vigueur pour la Suisse le 26 novembre 2006
 
-(Etat le 30 juin 2020)
+(État le 7 juin 2023)
 
 [^t-1]: Art. 1 al. 1 let. b de l’AF du 23 juin 2006 ([RO 2006 5859](https://fedlex.data.admin.ch/eli/oc/2006/861))
 
@@ -290,7 +290,7 @@ Chaque État partie prend les mesures nécessaires, selon les moyens disponibles
 
 *En foi de quoi*, les plénipotentiaires soussignés, à ce dûment autorisés par leurs gouvernements respectifs, ont signé le présent Protocole. (Suivent les signatures)
 
-Champ d’application le 30 juin 2020**[^t-2]**
+Champ d’application le 7 juin 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -299,6 +299,7 @@ Champ d’application le 30 juin 2020**[^t-2]**
 <tr><td>Albanie</td><td>21 août</td><td>2002</td><td>25 décembre</td><td>2003</td></tr>
 <tr><td>Algérie\*</td><td>9 mars</td><td>2004</td><td>8 avril</td><td>2004</td></tr>
 <tr><td>Allemagne</td><td>14 juin</td><td>2006</td><td>14 juillet</td><td>2006</td></tr>
+<tr><td>Andorre\*</td><td>21 septembre</td><td>2022 A</td><td>21 octobre</td><td>2022</td></tr>
 <tr><td>Angola</td><td>19 septembre</td><td>2014 A</td><td>19 octobre</td><td>2014</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>17 février</td><td>2010</td><td>19 mars</td><td>2010</td></tr>
 <tr><td>Arabie Saoudite\*</td><td>20 juillet</td><td>2007</td><td>19 août</td><td>2007</td></tr>
@@ -315,11 +316,12 @@ Champ d’application le 30 juin 2020**[^t-2]**
 <tr><td>Belgique\*</td><td>11 août</td><td>2004</td><td>10 septembre</td><td>2004</td></tr>
 <tr><td>Belize</td><td>26 septembre</td><td>2003 A</td><td>25 décembre</td><td>2003</td></tr>
 <tr><td>Bénin</td><td>30 août</td><td>2004</td><td>29 septembre</td><td>2004</td></tr>
+<tr><td>Bhoutan\*</td><td>20 février</td><td>2023 A</td><td>22 mars</td><td>2023</td></tr>
 <tr><td>Bolivie\*</td><td>18 mai</td><td>2006</td><td>17 juin</td><td>2006</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>24 avril</td><td>2002</td><td>25 décembre</td><td>2003</td></tr>
 <tr><td>Botswana</td><td>29 août</td><td>2002</td><td>25 décembre</td><td>2003</td></tr>
 <tr><td>Brésil</td><td>29 janvier</td><td>2004</td><td>28 février</td><td>2004</td></tr>
-<tr><td>Brunéi</td><td>30 mars</td><td>2020 A</td><td>29 avril</td><td>2020</td></tr>
+<tr><td>Brunéi\*</td><td>30 mars</td><td>2020 A</td><td>29 avril</td><td>2020</td></tr>
 <tr><td>Bulgarie</td><td>5 décembre</td><td>2001</td><td>25 décembre</td><td>2003</td></tr>
 <tr><td>Burkina Faso</td><td>15 mai</td><td>2002</td><td>25 décembre</td><td>2003</td></tr>
 <tr><td>Burundi</td><td>24 mai</td><td>2012</td><td>23 juin</td><td>2012</td></tr>
@@ -332,6 +334,7 @@ Champ d’application le 30 juin 2020**[^t-2]**
 <tr><td>Macao</td><td>8 février</td><td>2010</td><td>10 mars</td><td>2010</td></tr>
 <tr><td>Chypre</td><td>6 août</td><td>2003</td><td>25 décembre</td><td>2003</td></tr>
 <tr><td>Colombie\*</td><td>4 août</td><td>2004</td><td>3 septembre</td><td>2004</td></tr>
+<tr><td>Comores</td><td>23 juin</td><td>2020 A</td><td>23 juillet</td><td>2020</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>28 octobre</td><td>2005 A</td><td>27 novembre</td><td>2005</td></tr>
 <tr><td>Corée (Sud)</td><td>5 novembre</td><td>2015</td><td>5 décembre</td><td>2015</td></tr>
 <tr><td>Costa Rica</td><td>9 septembre</td><td>2003</td><td>25 décembre</td><td>2003</td></tr>
@@ -339,13 +342,13 @@ Champ d’application le 30 juin 2020**[^t-2]**
 <tr><td>Croatie</td><td>24 janvier</td><td>2003</td><td>25 décembre</td><td>2003</td></tr>
 <tr><td>Cuba\*</td><td>20 juin</td><td>2013 A</td><td>20 juillet</td><td>2013</td></tr>
 <tr><td>Danemark <sup>a</sup></td><td>30 septembre</td><td>2003</td><td>25 décembre</td><td>2003</td></tr>
-<tr><td>Dominique</td><td>17 mai</td><td>2013 A</td><td>16 juin</td><td>2013</td></tr>
 <tr><td>Djibouti</td><td>20 avril</td><td>2005 A</td><td>20 mai</td><td>2005</td></tr>
+<tr><td>Dominique</td><td>17 mai</td><td>2013 A</td><td>16 juin</td><td>2013</td></tr>
 <tr><td>Égypte</td><td>5 mars</td><td>2004</td><td>4 avril</td><td>2004</td></tr>
 <tr><td>El Salvador\*</td><td>18 mars</td><td>2004</td><td>17 avril</td><td>2004</td></tr>
 <tr><td>Émirats arabes unis\*</td><td>21 janvier</td><td>2009 A</td><td>20 février</td><td>2009</td></tr>
 <tr><td>Équateur\*</td><td>17 septembre</td><td>2002</td><td>25 décembre</td><td>2003</td></tr>
-<tr><td>Érythrée<sup>\*</sup></td><td>25 septembre</td><td>2014 A</td><td>25 octobre</td><td>2014</td></tr>
+<tr><td>Érythrée\*</td><td>25 septembre</td><td>2014 A</td><td>25 octobre</td><td>2014</td></tr>
 <tr><td>Espagne</td><td>1<sup>er</sup> mars</td><td>2002</td><td>25 décembre</td><td>2003</td></tr>
 <tr><td>Estonie</td><td>12 mai</td><td>2004</td><td>11 juin</td><td>2004</td></tr>
 <tr><td>Eswatini</td><td>24 septembre</td><td>2012</td><td>24 octobre</td><td>2012</td></tr>
@@ -420,6 +423,7 @@ Champ d’application le 30 juin 2020**[^t-2]**
 <tr><td>Nouvelle-Zélande <sup>b</sup></td><td>19 juillet</td><td>2002</td><td>25 décembre</td><td>2003</td></tr>
 <tr><td>Oman</td><td>13 mai</td><td>2005 A</td><td>12 juin</td><td>2005</td></tr>
 <tr><td>Ouzbékistan\*</td><td>12 août</td><td>2008</td><td>11 septembre</td><td>2008</td></tr>
+<tr><td>Pakistan\*</td><td>4 novembre</td><td>2022 A</td><td>4 décembre</td><td>2022</td></tr>
 <tr><td>Palaos</td><td>27 mai</td><td>2019 A</td><td>26 juin</td><td>2019</td></tr>
 <tr><td>Palestine</td><td>29 décembre</td><td>2017 A</td><td>28 janvier</td><td>2018</td></tr>
 <tr><td>Panama</td><td>18 août</td><td>2004</td><td>17 septembre</td><td>2004</td></tr>
@@ -448,11 +452,11 @@ Champ d’application le 30 juin 2020**[^t-2]**
 <tr><td>Serbie</td><td>6 septembre</td><td>2001</td><td>25 décembre</td><td>2003</td></tr>
 <tr><td>Seychelles</td><td>22 juin</td><td>2004</td><td>22 juillet</td><td>2004</td></tr>
 <tr><td>Sierra Leone</td><td>12 août</td><td>2014</td><td>11 septembre</td><td>2014</td></tr>
-<tr><td>Singapour<sup>\*</sup></td><td>28 septembre</td><td>2015 A</td><td>28 octobre</td><td>2015</td></tr>
+<tr><td>Singapour\*</td><td>28 septembre</td><td>2015 A</td><td>28 octobre</td><td>2015</td></tr>
 <tr><td>Slovaquie</td><td>21 septembre</td><td>2004</td><td>21 octobre</td><td>2004</td></tr>
 <tr><td>Slovénie</td><td>21 mai</td><td>2004</td><td>20 juin</td><td>2004</td></tr>
 <tr><td>Soudan</td><td>2 décembre</td><td>2014 A</td><td>1<sup>er</sup> janvier</td><td>2015</td></tr>
-<tr><td>Sri Lanka<sup>\*</sup></td><td>15 juin</td><td>2015</td><td>15 juillet</td><td>2015</td></tr>
+<tr><td>Sri Lanka\*</td><td>15 juin</td><td>2015</td><td>15 juillet</td><td>2015</td></tr>
 <tr><td>Suède</td><td>1<sup>er</sup> juillet</td><td>2004</td><td>31 juillet</td><td>2004</td></tr>
 <tr><td>Suisse</td><td>27 octobre</td><td>2006</td><td>26 novembre</td><td>2006</td></tr>
 <tr><td>Suriname</td><td>25 mai</td><td>2007 A</td><td>24 juin</td><td>2007</td></tr>
@@ -460,24 +464,21 @@ Champ d’application le 30 juin 2020**[^t-2]**
 <tr><td>Tadjikistan</td><td>8 juillet</td><td>2002 A</td><td>25 décembre</td><td>2003</td></tr>
 <tr><td>Tanzanie</td><td>24 mai</td><td>2006</td><td>23 juin</td><td>2006</td></tr>
 <tr><td>Tchad</td><td>18 août</td><td>2009 A</td><td>17 septembre</td><td>2009</td></tr>
-<tr><td>Thaïlande<sup>\*</sup></td><td>17 octobre</td><td>2013</td><td>16 novembre</td><td>2013</td></tr>
+<tr><td>Thaïlande\*</td><td>17 octobre</td><td>2013</td><td>16 novembre</td><td>2013</td></tr>
 <tr><td>Timor-Leste</td><td>9 novembre</td><td>2009 A</td><td>9 décembre</td><td>2009</td></tr>
 <tr><td>Togo</td><td>8 mai</td><td>2009</td><td>7 juin</td><td>2009</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>6 novembre</td><td>2007</td><td>6 décembre</td><td>2007</td></tr>
 <tr><td>Tunisie\*</td><td>14 juillet</td><td>2003</td><td>25 décembre</td><td>2003</td></tr>
 <tr><td>Turkménistan</td><td>28 mars</td><td>2005 A</td><td>27 avril</td><td>2005</td></tr>
 <tr><td>Turquie</td><td>25 mars</td><td>2003</td><td>25 décembre</td><td>2003</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>21 mai</td><td>2004</td><td>20 juin</td><td>2004</td></tr>
+<tr><td>Ukraine\*</td><td>21 mai</td><td>2004</td><td>20 juin</td><td>2004</td></tr>
 <tr><td>Union européenne\*</td><td>6 septembre</td><td>2006</td><td>6 octobre</td><td>2006</td></tr>
 <tr><td>Uruguay</td><td>4 mars</td><td>2005</td><td>3 avril</td><td>2005</td></tr>
 <tr><td>Venezuela</td><td>13 mai</td><td>2002</td><td>25 décembre</td><td>2003</td></tr>
 <tr><td>Vietnam\*</td><td>8 juin</td><td>2012 A</td><td>8 juillet</td><td>2012</td></tr>
 <tr><td>Zambie</td><td>24 avril</td><td>2005 A</td><td>24 mai</td><td>2005</td></tr>
-<tr><td>Zimbabwe<sup>\*</sup></td><td>13 décembre</td><td>2013 A</td><td>12 janvier</td><td>2014</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l'adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Le Prot. ne s’applique pas aux Îles Féroé et au Groenland.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Le Prot. ne s’applique pas à Tokélaou.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td>Zimbabwe\*</td><td>13 décembre</td><td>2013 A</td><td>12 janvier</td><td>2014</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Prot. ne s’applique pas aux Îles Féroé et au Groenland. <sup>b</sup> Le Prot. ne s’applique pas à Tokélaou. <sup>c</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2006 5917](https://fedlex.data.admin.ch/eli/oc/2006/864), [2008 655](https://fedlex.data.admin.ch/eli/oc/2008/158), [2009 59](https://fedlex.data.admin.ch/eli/oc/2009/8)[3869](https://fedlex.data.admin.ch/eli/oc/2009/482), [2010 787](https://fedlex.data.admin.ch/eli/oc/2010/121), [2011 3577](https://fedlex.data.admin.ch/eli/oc/2011/495), [2012 4145](https://fedlex.data.admin.ch/eli/oc/2012/485), [2013 2465](https://fedlex.data.admin.ch/eli/oc/2013/518), [2014 3197](https://fedlex.data.admin.ch/eli/oc/2014/544), [2016 45](https://fedlex.data.admin.ch/eli/oc/2016/8), [2018 1781](https://fedlex.data.admin.ch/eli/oc/2018/265), [2020 3329](https://fedlex.data.admin.ch/eli/oc/2020/563). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2006 5917](https://fedlex.data.admin.ch/eli/oc/2006/864); [2008 655](https://fedlex.data.admin.ch/eli/oc/2008/158); [2009 59](https://fedlex.data.admin.ch/eli/oc/2009/8), [3869](https://fedlex.data.admin.ch/eli/oc/2009/482); [2010 787](https://fedlex.data.admin.ch/eli/oc/2010/121); [2011 3577](https://fedlex.data.admin.ch/eli/oc/2011/495); [2012 4145](https://fedlex.data.admin.ch/eli/oc/2012/485); [2013 2465](https://fedlex.data.admin.ch/eli/oc/2013/518); [2014 3197](https://fedlex.data.admin.ch/eli/oc/2014/544); [2016 45](https://fedlex.data.admin.ch/eli/oc/2016/8); [2018 1781](https://fedlex.data.admin.ch/eli/oc/2018/265); [2020 3329](https://fedlex.data.admin.ch/eli/oc/2020/563); [2023 282](https://fedlex.data.admin.ch/eli/oc/2023/282)Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

@@ -3,11 +3,11 @@ sr: "0.311.542"
 title: "Zusatzprotokoll vom 15. November 2000 zur Verhütung, Bekämpfung und Bestrafung des Menschenhandels, insbesondere des Frauen- und Kinderhandels zum Übereinkommen der Vereinten Nationen gegen die grenzüberschreitende organisierte Kriminalität"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/864"
 language: de
-version: 2020-06-30
+version: 2023-06-07
 adopted: 2000-11-15
 in_force: 2006-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/864/20200630/de/xml/fedlex-data-admin-ch-eli-cc-2006-864-20200630-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/864/20200630/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/864/20230607/de/xml/fedlex-data-admin-ch-eli-cc-2006-864-20230607-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/864/20230607/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 27. Oktober 2006
 
 In Kraft getreten für die Schweiz am 26. November 2006
 
-(Stand am 30. Juni 2020)
+(Stand am 7. Juni 2023)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 23. Juni 2006 ([AS 2006 5859](https://fedlex.data.admin.ch/eli/oc/2006/861))
 
@@ -304,7 +304,7 @@ Auf Ersuchen eines anderen Vertragsstaats überprüft ein Vertragsstaat in Über
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 30. Juni 2020**[^t-2]**
+Geltungsbereich am 7. Juni 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -312,6 +312,7 @@ Geltungsbereich am 30. Juni 2020**[^t-2]**
 <tr><td>Ägypten</td><td>5. März</td><td>2004</td><td>4. April</td><td>2004</td></tr>
 <tr><td>Albanien</td><td>21. August</td><td>2002</td><td>25. Dezember</td><td>2003</td></tr>
 <tr><td>Algerien\*</td><td>9. März</td><td>2004</td><td>8. April</td><td>2004</td></tr>
+<tr><td>Andorra\*</td><td>21. September</td><td>2022 B</td><td>21. Oktober</td><td>2022</td></tr>
 <tr><td>Angola</td><td>19. September</td><td>2014 B</td><td>19. Oktober</td><td>2014</td></tr>
 <tr><td>Antigua und Barbuda</td><td>17. Februar</td><td>2010</td><td>19. März</td><td>2010</td></tr>
 <tr><td>Äquatorialguinea</td><td>7. Februar</td><td>2003</td><td>25. Dezember</td><td>2003</td></tr>
@@ -328,11 +329,12 @@ Geltungsbereich am 30. Juni 2020**[^t-2]**
 <tr><td>Belgien\*</td><td>11. August</td><td>2004</td><td>10. September</td><td>2004</td></tr>
 <tr><td>Belize</td><td>26. September</td><td>2003 B</td><td>25. Dezember</td><td>2003</td></tr>
 <tr><td>Benin</td><td>30. August</td><td>2004</td><td>29. September</td><td>2004</td></tr>
+<tr><td>Bhutan\*</td><td>20. Februar</td><td>2023 B</td><td>22. März</td><td>2023</td></tr>
 <tr><td>Bolivien\*</td><td>18. Mai</td><td>2006</td><td>17. Juni</td><td>2006</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>24. April</td><td>2002</td><td>25. Dezember</td><td>2003</td></tr>
 <tr><td>Botsuana</td><td>29. August</td><td>2002</td><td>25. Dezember</td><td>2003</td></tr>
 <tr><td>Brasilien</td><td>29. Januar</td><td>2004</td><td>28. Februar</td><td>2004</td></tr>
-<tr><td>Brunei</td><td>30. März</td><td>2020 B</td><td>29. April</td><td>2020</td></tr>
+<tr><td>Brunei\*</td><td>30. März</td><td>2020 B</td><td>29. April</td><td>2020</td></tr>
 <tr><td>Bulgarien</td><td>5. Dezember</td><td>2001</td><td>25. Dezember</td><td>2003</td></tr>
 <tr><td>Burkina Faso</td><td>15. Mai</td><td>2002</td><td>25. Dezember</td><td>2003</td></tr>
 <tr><td>Burundi</td><td>24. Mai</td><td>2012</td><td>23. Juni</td><td>2012</td></tr>
@@ -387,6 +389,7 @@ Geltungsbereich am 30. Juni 2020**[^t-2]**
 <tr><td>Kirgisistan</td><td>2. Oktober</td><td>2003</td><td>25. Dezember</td><td>2003</td></tr>
 <tr><td>Kiribati</td><td>15. September</td><td>2005 B</td><td>15. Oktober</td><td>2005</td></tr>
 <tr><td>Kolumbien\*</td><td>4. August</td><td>2004</td><td>3. September</td><td>2004</td></tr>
+<tr><td>Komoren</td><td>23. Juni</td><td>2020 B</td><td>23. Juli</td><td>2020</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>28. Oktober</td><td>2005 B</td><td>27. November</td><td>2005</td></tr>
 <tr><td>Korea (Süd-)</td><td>5. November</td><td>2015</td><td>5. Dezember</td><td>2015</td></tr>
 <tr><td>Kroatien</td><td>24. Januar</td><td>2003</td><td>25. Dezember</td><td>2003</td></tr>
@@ -432,6 +435,7 @@ Geltungsbereich am 30. Juni 2020**[^t-2]**
 <tr><td>Norwegen</td><td>23. September</td><td>2003</td><td>25. Dezember</td><td>2003</td></tr>
 <tr><td>Oman</td><td>13. Mai</td><td>2005 B</td><td>12. Juni</td><td>2005</td></tr>
 <tr><td>Österreich</td><td>15. September</td><td>2005</td><td>15. Oktober</td><td>2005</td></tr>
+<tr><td>Pakistan\*</td><td>4. November</td><td>2022 B</td><td>4. Dezember</td><td>2022</td></tr>
 <tr><td>Palästina</td><td>29. Dezember</td><td>2017 B</td><td>28. Januar</td><td>2018</td></tr>
 <tr><td>Palau</td><td>27. Mai</td><td>2019 B</td><td>26. Juni</td><td>2019</td></tr>
 <tr><td>Panama</td><td>18. August</td><td>2004</td><td>17. September</td><td>2004</td></tr>
@@ -491,4 +495,4 @@ Geltungsbereich am 30. Juni 2020**[^t-2]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für die Färöer und für Grönland. <sup>b</sup> Das Protokoll gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2006 5917](https://fedlex.data.admin.ch/eli/oc/2006/864), [2008 655](https://fedlex.data.admin.ch/eli/oc/2008/158), [2009 59](https://fedlex.data.admin.ch/eli/oc/2009/8)[3869](https://fedlex.data.admin.ch/eli/oc/2009/482), [2010 787](https://fedlex.data.admin.ch/eli/oc/2010/121), [2011 3577](https://fedlex.data.admin.ch/eli/oc/2011/495), [2012 4145](https://fedlex.data.admin.ch/eli/oc/2012/485), [2013 2465](https://fedlex.data.admin.ch/eli/oc/2013/518), [2014 3197](https://fedlex.data.admin.ch/eli/oc/2014/544), [2016 45](https://fedlex.data.admin.ch/eli/oc/2016/8), [2018 1781](https://fedlex.data.admin.ch/eli/oc/2018/265), [2020 3329](https://fedlex.data.admin.ch/eli/oc/2020/563). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2006 5917](https://fedlex.data.admin.ch/eli/oc/2006/864); [2008 655](https://fedlex.data.admin.ch/eli/oc/2008/158); [2009 59](https://fedlex.data.admin.ch/eli/oc/2009/8), [3869](https://fedlex.data.admin.ch/eli/oc/2009/482); [2010 787](https://fedlex.data.admin.ch/eli/oc/2010/121); [2011 3577](https://fedlex.data.admin.ch/eli/oc/2011/495); [2012 4145](https://fedlex.data.admin.ch/eli/oc/2012/485); [2013 2465](https://fedlex.data.admin.ch/eli/oc/2013/518); [2014 3197](https://fedlex.data.admin.ch/eli/oc/2014/544); [2016 45](https://fedlex.data.admin.ch/eli/oc/2016/8); [2018 1781](https://fedlex.data.admin.ch/eli/oc/2018/265); [2020 3329](https://fedlex.data.admin.ch/eli/oc/2020/563); [2023 282](https://fedlex.data.admin.ch/eli/oc/2023/282). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publiktionsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
