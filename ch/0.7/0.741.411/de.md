@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Übereinkommen vom 20. März 1958 der Vereinten Nationen über die Annahme harmonisierter technischer Regelungen für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge eingebaut oder dafür verwendet werden können, und die Bedingungen für die gegenseitige Anerkennung von Genehmigungen, die nach diesen Regelungen erteilt wurden (mit R und Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: de
-version: 2021-09-30
+version: 2023-06-08
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20210930/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20210930-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20210930/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20230608/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20230608-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20230608/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1996** 2158
 
 Abgeschlossen in Genf am 20. März 1958 Geändert am 10. November 1967 Von der Bundesversammlung genehmigt um 15. März 1973[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 29. Juni 1973 In Kraft getreten für die Schweiz am 28. August 1973 Änderungen angenommen am 18. August 1994 In Kraft getreten am 16. Oktober 1995 Änderungen angenommen am 25. September 2015 In Kraft getreten am 14. September 2017
 
-(Stand am 30. September 2021)
+(Stand am 8. Juni 2023)
 
 [^t-1]: [AS 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
@@ -638,7 +638,7 @@ Anhang 3
 - 2\.7 Die Bestätigung oder Versagung der UN-Typengenehmigungsänderung ist den Vertragsparteien des Übereinkommens von 1958, die die UN-Regelung anwenden, unter Angabe der Änderungen auf einem Mitteilungsblatt mitzuteilen. Ausserdem ist das dem Mitteilungsblatt beigefügte Inhaltsverzeichnis der Informationsunterlagen und Prüfungsberichte so zu ändern, dass die Daten der jüngsten Revision bzw. Erweiterung daraus ersichtlich sind.
 - 2\.8 Die Typengenehmigungsbehörde, die die Erweiterung der Genehmigung vornimmt, aktualisiert die Genehmigungsnummer durch eine Erweiterungsnummer, die um einen Zähler höher ist als die Nummer der letzten Erweiterung, die bereits gemäss Anhang 4 des Übereinkommens von 1958 gewährt worden ist und erstellt ein überarbeitetes Mitteilungsblatt, mit der angepassten Erweiterungsnummer.
 
-Anhang 4*[^t-2]*
+Anhang 4[^t-2]
 
 ## Nummerierung von UN-Typengenehmigungen
 
@@ -792,7 +792,7 @@ Anhang 8
 - Zudem muss der Hersteller die Genehmigungsbehörde sowie den technischen Dienst in geeigneter Weise unterstützen.
 - Der technische Dienst ist, auch wenn er Zugang und Unterstützung erhält, weiterhin an seine Verpflichtungen hinsichtlich der Kompetenzen seines Personals, der Zahlung von Lizenzgebühren und der Wahrung der Vertraulichkeit gebunden.
 
-Geltungsbereich des Übereinkommens am 22. Januar 2021**[^t-3]**
+Geltungsbereich des Übereinkommens am 22. Januar 2021[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -855,11 +855,11 @@ Geltungsbereich des Übereinkommens am 22. Januar 2021**[^t-3]**
 
 [^t-3]: [AS 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); **1996** 2170; [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.
 
-Reglemente*[^t-4]*
+Reglemente[^t-4]
 
 ## Reglement Nr. 0 zum Übereinkommen
 
-[^t-4]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht. Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Vereinten Nationen eingesehen werden: www.unece.org/trans/main/wp29/wp29regs.html Der Geltungsbereich ist auf der Internetseite der Vereinten Nationen einsehbar: www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911)).
+[^t-4]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384)). Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Vereinten Nationen eingesehen werden: [www.unece.org/trans/main/wp29/wp29regs](https://unece.org/trans/main/wp29/wp29regs) Der Geltungsbereich ist auf der Internetseite der Vereinten Nationen einsehbar: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations)..
 
 Einheitliche Vorschriften hinsichtlich die Internationale Gesamtfahrzeug-Typengenehmigung
 
@@ -983,11 +983,11 @@ Angewendet durch die Schweiz seit dem 2. Februar 1996
 
 Einheitliche Vorschriften für:
 
-**I. Die Genehmigung der Motoren mit Selbstzündung (Dieselmotoren)** **hinsich****t****lich der Emission sichtbarer luftverunreinigender Stoffe;**
+**I. Die Genehmigung der Motoren mit Selbstzündung (Dieselmotoren)** **hinsichtlich der Emission sichtbarer luftverunreinigender Stoffe;**
 
 **II. die Genehmigung der Motorfahrzeuge hinsichtlich des Einbaus eines Motors mit Selbstzündung (Dieselmotors) eines genehmigten Typs;**
 
-**III. die Genehmigung der mit einem Motor mit Selbstzündung (Dieselmotor)** **ausgerüsteten Motorfahrzeuge hinsichtlich der Emission sichtbarer** **luftveru****n****reinigender Stoffe aus dem Motor;**
+**III. die Genehmigung der mit einem Motor mit Selbstzündung (Dieselmotor)** **ausgerüsteten Motorfahrzeuge hinsichtlich der Emission sichtbarer** **luftverunreinigender Stoffe aus dem Motor;**
 
 **IV. die Messung der Leistung von Motoren mit Selbstzündung (Dieselmotoren)**
 
@@ -1245,7 +1245,7 @@ Einheitliche Vorschriften für die Genehmigung:
 
 **I. einer Kurzkupplungseinrichtung;**
 
-**II. von Fahrzeugen hinsichtlich des Anbaus eines genehmigten Typs einer Kurzkup****p****lungseinrichtung**
+**II. von Fahrzeugen hinsichtlich des Anbaus eines genehmigten Typs einer Kurzkupplungseinrichtung**
 
 Angewendet durch die Schweiz seit dem 13. Dezember 1996
 
@@ -1295,9 +1295,9 @@ Angewendet durch die Schweiz seit dem 23. Juni 1998
 
 Einheitliche Vorschriften für die Genehmigung der:
 
-**I. speziellen Bauteile von Motorfahrzeugen, in deren Antriebssystem kompr****i****miertes Erdgas (CNG) verwendet wird;**
+**I. speziellen Bauteile von Motorfahrzeugen, in deren Antriebssystem** **komprimiertes Erdgas (CNG) verwendet wird;**
 
-**II. Fahrzeuge hinsichtlich des Einbaus spezieller Bauteile eines genehmigten Typs für die Verwendung von komprimiertem Erdgas (CNG) in ihrem A****n****triebssystem**
+**II. Fahrzeuge hinsichtlich des Einbaus spezieller Bauteile eines genehmigten Typs für die Verwendung von komprimiertem Erdgas (CNG) in ihrem** **Antriebssystem**
 
 Angewendet durch die Schweiz seit dem 28. Dezember 2000
 
@@ -1327,7 +1327,7 @@ Einheitliche Vorschriften für die Genehmigung:
 
 **II. eines Ersatz-Lenkrades, ausgestattet mit einem genehmigten Typ eines Airbag-Moduls;**
 
-**III. eines Ersatz-Airbag-Systems, welches nicht in einem Ersatz-Lenkrad eing****e****baut ist**
+**III. eines Ersatz-Airbag-Systems, welches nicht in einem Ersatz-Lenkrad** **eingebaut ist**
 
 Angewendet durch die Schweiz seit dem 1. Februar 2003
 
@@ -1335,9 +1335,9 @@ Angewendet durch die Schweiz seit dem 1. Februar 2003
 
 Einheitliche Vorschriften für die Genehmigung der:
 
-**I. speziellen Nachrüstsysteme für Flüssiggas (LPG) zum Einbau in Motorfah****r****zeuge zur Verwendung von Flüssiggas in ihrem Antriebssystem;**
+**I. speziellen Nachrüstsysteme für Flüssiggas (LPG) zum Einbau in Motorfahrzeuge zur Verwendung von Flüssiggas in ihrem Antriebssystem;**
 
-**II. speziellen Nachrüstsysteme für komprimiertes Erdgas (CNG) zum Einbau in Motorfahrzeuge zur Verwendung von komprimiertem Erdgas in ihrem A****n****triebssy****s****tem**
+**II. speziellen Nachrüstsysteme für komprimiertes Erdgas (CNG) zum Einbau in Motorfahrzeuge zur Verwendung von komprimiertem Erdgas in ihrem Antriebssystem**
 
 Angewendet durch die Schweiz seit dem 30. Oktober 2003
 
@@ -1628,3 +1628,27 @@ Angewendet durch die Schweiz seit dem 30. September 2021
 Einheitliche Vorschriften für die Genehmigung von Fahrzeugalarmanlagen und die Genehmigung eines Fahrzeugs hinsichtlich seiner Alarmanlage
 
 Angewendet durch die Schweiz seit dem 30. September 2021
+
+## Reglement Nr. 164 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Spikereifen hinsichtlich ihrer Leistung auf Schnee
+
+Angewendet durch die Schweiz seit dem 14. Oktober 2022
+
+## Reglement Nr. 165 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von akustischen Warnvorrichtungen beim Rückwärtsfahren und der Motorfahrzeuge hinsichtlich ihrer akustischen Warnsignale beim Rückwärtsfahren
+
+Angewendet durch die Schweiz seit dem 19. Januar 2023
+
+## Reglement Nr. 166 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Einrichtungen und Motorfahrzeugen hinsichtlich der Wahrnehmung ungeschützter Verkehrsteilnehmer/-innen unmittelbar vor dem Fahrzeug oder seitlich des Fahrzeugs durch die Fahrerin oder den Fahrer
+
+Angewendet durch die Schweiz seit dem 8. Juni 2023
+
+## Reglement Nr. 167 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen hinsichtlich der direkten Sicht
+
+Angewendet durch die Schweiz seit dem 8. Juni 2023

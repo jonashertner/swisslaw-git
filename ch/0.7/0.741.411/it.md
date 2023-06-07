@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Accordo del 20 marzo 1958 concernente l'adozione di regolamenti tecnici armonizzati delle Nazioni Unite per i veicoli a ruote, gli equipaggiamenti e i pezzi che possono essere installati o usati in veicoli a ruote, nonché le condizioni per il riconoscimento reciproco di omologazioni concesse sulla base di tali regolamenti delle Nazioni Unite (con R e All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: it
-version: 2021-09-30
+version: 2023-06-08
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20210930/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20210930-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20210930/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20230608/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20230608-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20230608/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,25 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20210930/it"
 
 Traduzione
 
-Conchiuso a Ginevra il 20 marzo 1958
+Conchiuso a Ginevra il 20 marzo 1958 Emendato il 10 novembre 1967 Approvato dall’Assemblea federale il 15 marzo 1973[^t-1] Istrumento d’adesione depositato dalla Svizzera il 29 giugno 1973 Entrato in vigore per la Svizzera il 28 agosto 1973 Emendamenti adottati il 18 agosto 1994 Entrata in vigore il 16 ottobre 1995 Emendamenti adottati il 25 settembre 2015 Entrata in vigore il 14 settembre 2017
 
-Emendato il 10 novembre 1967
-
-Approvato dall’Assemblea federale il 15 marzo 1973[^t-1]
-
-Istrumento d’adesione depositato dalla Svizzera il 29 giugno 1973
-
-Entrato in vigore per la Svizzera il 28 agosto 1973
-
-Emendamenti adottati il 18 agosto 1994
-
-Entrata in vigore il 16 ottobre 1995
-
-Emendamenti adottati il 25 settembre 2015
-
-Entrata in vigore il 14 settembre 2017
-
-(Stato 30 settembre 2021)
+(Stato 8 giugno 2023)
 
 [^t-1]: RU **2017** 5085 RU **1973** 1465
 
@@ -285,7 +269,7 @@ Conformemente alle disposizioni del presente Accordo e dei relativi allegati con
 
 Il presente Accordo è stato fatto a Ginevra, in un solo esemplare, nelle lingue francese, inglese e russa, i cui testi fanno ugualmente fede.
 
-*(Seguono le firme)*
+(Seguono le firme)
 
 Appendice
 
@@ -807,7 +791,7 @@ Allegato 8
 - Il costruttore fornisce inoltre un’assistenza appropriata all’autorità di omologazione o al servizio tecnico.
 - L’accesso e l’assistenza offerti al servizio tecnico non esimono quest’ultimo dagli obblighi che gli incombono in materia di competenze del personale, pagamento dei diritti di licenza e rispetto della riservatezza.
 
-Campo d’applicazione dell’Accordo del 22 gennaio 2021**[^t-3]**
+Campo d’applicazione il 22 gennaio 2021[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -845,7 +829,6 @@ Campo d’applicazione dell’Accordo del 22 gennaio 2021**[^t-3]**
 <tr><td>Norvegia</td><td>3 febbraio</td><td>1975 A</td><td>4 aprile</td><td>1975</td></tr>
 <tr><td>Nuova Zelanda<sup>\*</sup></td><td>27 novembre</td><td>2001 A</td><td>26 gennaio</td><td>2002</td></tr>
 <tr><td>Paesi Bassi</td><td>30 giugno</td><td>1960</td><td>29 agosto</td><td>1960</td></tr>
-<tr><td>Pakistan</td><td>24 febbraio</td><td>2020 A</td><td>24 aprile</td><td>2020</td></tr>
 <tr><td>Polonia<sup>\*</sup></td><td>12 gennaio</td><td>1979 A</td><td>13 marzo</td><td>1979</td></tr>
 <tr><td>Portogallo</td><td>29 gennaio</td><td>1980 A</td><td>29 marzo</td><td>1980</td></tr>
 <tr><td>Regno Unito</td><td>15 gennaio</td><td>1963 A</td><td>16 marzo</td><td>1963</td></tr>
@@ -865,16 +848,16 @@ Campo d’applicazione dell’Accordo del 22 gennaio 2021**[^t-3]**
 <tr><td>Ucraina<sup>\*</sup></td><td>1° maggio</td><td>2000 A</td><td>30 giugno</td><td>2000</td></tr>
 <tr><td>Ungheria<sup>\*</sup></td><td>3 maggio</td><td>1960</td><td>2 luglio</td><td>1960</td></tr>
 <tr><td>Unione europea<sup>\*</sup></td><td>23 gennaio</td><td>1998 A</td><td>24 marzo</td><td>1998</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell'Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-3]: [RU 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); **1996** 2170; [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty
+[^t-3]: [RU 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); **1996** 2170; [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
 
-Regolamenti*[^t-4]*
+Regolamenti[^t-4]
 
 ## Regolamento n. 0 allegato all’accordo
 
-[^t-4]: Il testo dei R e dei loro campi d’applicazione non sono pubblicati nella RU. Possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite: www.unece.org/trans/main/wp29/wp29regs.html, (reg.) www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html, (campi) o richiesti all’Ufficio federale delle strade, 3003 Berna. ([RU 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911)).
+[^t-4]: Il testo dei regolamenti e dei loro campi d’applicazione non sono pubblicati nella RU ([RU 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384)).. Possono essere richiesti all’Ufficio federale delle strade, 3003 Berna oppure consultati sul sito Internet dell’Organizzazione delle Nazioni Unite: [www.unece.org/trans/main/wp29/wp29regs](https://unece.org/trans/main/wp29/wp29regs) (regolamenti), [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations) (campi d’applicazione).
 
 Prescrizioni uniformi per quanto concerne il systema di omologazione internazionale dei veicoli completi
 
@@ -924,7 +907,7 @@ Applicato dalla Svizzera dal 2 febbraio 1996
 
 ## Regolamento n. 10 allegato all’accordo
 
-Prescrizioni uniformi sulle condizioni uniformi per l’omologazione dei veicoli per quanto concerne la compatibilità elettromagnetica
+Prescrizioni uniformi relative all’omologazione dei veicoli per quanto concerne la compatibilità elettromagnetica
 
 Applicato dalla Svizzera dal 12 febbraio 2011
 
@@ -1637,3 +1620,27 @@ Applicato dalla Svizzera dal 30 settembre 2021
 Condizioni uniformi riguardanti un sistema di omologazione per i sistemi di allarme dei veicoli e l’omologazione di un veicolo per quanto riguarda il suo sistema di allarme
 
 Applicato dalla Svizzera dal 30 settembre 2021
+
+## Regolamento n. 164 allegato all’Accordo
+
+Prescrizioni uniformi relative all’omologazione degli pneumatici chiodati per quanto riguarda le prestazioni sulla neve
+
+Applicato dalla Svizzera dal 14 ottobre 2022
+
+## Regolamento n. 165 allegato all’Accordo
+
+Prescrizioni uniformi relative all’omologazione di sistemi di avviso in retromarcia e dei veicoli a motore per quanto riguarda i loro sistemi di avviso in retromarcia
+
+Applicato dalla Svizzera dal 19 gennaio 2023
+
+## Regolamento n. 166 allegato all’Accordo
+
+Prescrizioni uniformi relative all’omologazione dei dispositivi e dei veicoli a motore per quanto riguarda la percezione del conducente di utenti della strada vulnerabili in prossimità della parte anteriore o laterale del veicolo
+
+Applicato dalla Svizzera dall’8 giugno 2023
+
+## Regolamento n. 167 allegato all’Accordo
+
+Prescrizioni uniformi relative all’omologazione dei veicoli a motore per quanto riguarda la visione diretta
+
+Applicato dalla Svizzera dall’8 giugno 2023

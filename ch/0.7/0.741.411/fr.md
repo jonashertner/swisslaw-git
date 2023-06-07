@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Accord du 20 mars 1958 concernant l'adoption de règlements techniques harmonisé de l'ONU applicables aux véhicules à roues, aux équipements et pièces susceptibles d'être montés ou utilisés sur les véhicules à roues et les conditions de reconnaissance réciproque des homologations délivrées conformément à ces règlements (avec règlements et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: fr
-version: 2021-09-30
+version: 2023-06-08
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20210930/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20210930-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20210930/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20230608/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20230608-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20230608/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -36,7 +36,7 @@ Amendements adoptés le 25 septembre 2015
 
 Entrés en vigueur le 14 septembre 2017
 
-(Etat le 30 septembre 2021)
+(État le 8 juin 2023)
 
 [^t-1]: [RO 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468)
 
@@ -654,7 +654,7 @@ Annexe 3
 - 2\.7 La confirmation de l’homologation ou le refus de modifier l’homologation de type de l’ONU, avec indication des modifications apportées, doit être notifiée aux Parties contractantes à l’Accord de 1958 qui appliquent le Règlement de l’ONU par l’intermédiaire de la fiche de communication. En outre, la liste des pièces constituant le dossier d’homologation et des procès-verbaux d’essai, annexée à la fiche de communication, doit être modifiée en conséquence de manière à ce que soit indiquée la date de la révision ou de l’extension la plus récente.
 - 2\.8 L’autorité d’homologation de type qui accorde l’extension d’homologation doit actualiser le numéro d’homologation à l’aide d’un numéro d’extension incrémenté en fonction du nombre d’extension successives déjà accordées conformément à l’annexe 4 à l’Accord de 1958 et établir une fiche de communication révisée portant ce numéro d’extension.
 
-Annexe 4*[^t-2]*
+Annexe 4[^t-2]
 
 ## Numérotation des homologations de type de l’ONU
 
@@ -808,7 +808,7 @@ Annexe 8
 - Il doit en outre apporter une assistance appropriée à l’autorité d’homologation ou au service technique.
 - La fourniture de l’accès et de l’assistance au service technique ne supprime aucune des obligations qui lui incombent en ce qui concerne les compétences de son personnel, le paiement des droits de licence et le respect de la confidentialité.
 
-Champ d’application de l’accord le 23 janvier 2020**[^t-3]**
+Champ d’application de l’accord le 23 janvier 2020[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -846,7 +846,8 @@ Champ d’application de l’accord le 23 janvier 2020**[^t-3]**
 <tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Nigéria</td><td>18 octobre</td><td>2018 A</td><td>17 décembre</td><td>2018</td></tr>
 <tr><td>Norvège</td><td>3 février</td><td>1975 A</td><td>4 avril</td><td>1975</td></tr>
-<tr><td>Nouvelle-Zélande\* Pakistan</td><td>27 novembre 24 février</td><td>2001 A 2020 A</td><td>26 janvier 24 avril</td><td>2002 2020</td></tr>
+<tr><td>Nouvelle-Zélande\*</td><td>27 novembre</td><td>2001 A</td><td>26 janvier</td><td>2002</td></tr>
+<tr><td>Pakistan</td><td>24 février</td><td>2020 A</td><td>24 avril</td><td>2020</td></tr>
 <tr><td>Pays-Bas</td><td>30 juin</td><td>1960</td><td>29 août</td><td>1960</td></tr>
 <tr><td>Pologne\*</td><td>12 janvier</td><td>1979 A</td><td>13 mars</td><td>1979</td></tr>
 <tr><td>Portugal</td><td>29 janvier</td><td>1980 A</td><td>29 mars</td><td>1980</td></tr>
@@ -865,16 +866,16 @@ Champ d’application de l’accord le 23 janvier 2020**[^t-3]**
 <tr><td>Turquie\*</td><td>29 décembre</td><td>1995 A</td><td>27 février</td><td>1996</td></tr>
 <tr><td>Ukraine\*</td><td>1<sup>er</sup> mai</td><td>2000 A</td><td>30 juin</td><td>2000</td></tr>
 <tr><td>Union européenne (UE)\*</td><td>23 janvier</td><td>1998 A</td><td>24 mars</td><td>1998</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org)/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-3]: [RO 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); **1996** 2172; [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.
+[^t-3]: [RO 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); **1996** 2172; [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).
 
-Règlements*[^t-4]*
+Règlements[^t-4]
 
 ## Règlement n<sup>o</sup> 0 annexé à l’Accord
 
-[^t-4]: Le texte et le champ d’application des règlements suivants ne sont pas publiés au RO. Le texte peut être obtenu auprès de l’Office fédéral des routes, 3003 Berne, ou consulté à l’adresse du site Internet des Nations Unies: www.unece.org/trans/main/wp29/wp29regs.html Le champ d’application peut être consulté à l’adresse du site Internet des Nations Unies: www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html ([RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911)).
+[^t-4]: Le texte et le champ d’application des règlements suivants ne sont pas publiés au RO ([RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384)). Le texte peut être obtenu auprès de l’Office fédéral des routes, 3003 Berne, ou consulté à l’adresse du site Internet des Nations Unies: [www.unece.org/trans/main/wp29/wp29regs](https://unece.org/trans/main/wp29/wp29regs) Le champ d’application peut être consulté à l’adresse du site Internet des Nations Unies: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations).
 
 Prescriptions uniformes concernant un régime d’homologation de type internationale de l’ensemble du véhicule
 
@@ -1122,7 +1123,7 @@ Prescriptions uniformes relatives à l’homologation:
 
 **I. des dispositifs arrière de protection anti-encastrement;**
 
-**II. des véhicules en ce qui concerne le montagne d’un dispositif arrière de pr****o****tection anti-encastrement d’un type homologué;**
+**II. des véhicules en ce qui concerne le montagne d’un dispositif arrière de protection anti-encastrement d’un type homologué;**
 
 **III. des véhicules en ce qui concerne leur protection contre l’encastrement à l’arrière.**
 
@@ -1643,3 +1644,27 @@ Mis en application par la Suisse le 30 septembre 2021
 Prescriptions uniformes concernant un régime d’homologation des systèmes d’alarme pour véhicules et à l’homologation d’un véhicule en ce qui concerne son système d’alarme
 
 Mis en application par la Suisse le 30 septembre 2021
+
+## Règlement n<sup>o</sup> 164 annexé à l’Accord
+
+Prescriptions uniformes relatives à l’homologation des pneumatiques à crampons en ce qui concerne leur performance sur la neige
+
+Mis en application par la Suisse le 14 octobre 2022
+
+## Règlement n<sup>o</sup> 165 annexé à l’Accord
+
+Prescriptions uniformes relatives à l’homologation des avertisseurs sonores de marche arrière et des véhicules à moteur en ce qui concerne leurs signaux sonores d’avertissement de marche arrière
+
+Mis en application par la Suisse le 19 janvier 2023
+
+## Règlement n<sup>o</sup> 166 annexé à l’Accord
+
+Prescriptions uniformes relatives à l’homologation des dispositifs et des véhicules à moteur en ce qui concerne la perception par le conducteur de la présence d’usagers de la route vulnérables à proximité immédiate de l’avant et des côtés du véhicule
+
+Mis en application par la Suisse le 8 juin 2023
+
+## Règlement n<sup>o</sup> 167 annexé à l’Accord
+
+Prescriptions uniformes relatives à l’homologation des véhicules à moteur en ce qui concerne la vision directe
+
+Mis en application par la Suisse le 8 juin 2023
