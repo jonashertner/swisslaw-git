@@ -3,11 +3,11 @@ sr: "0.142.40"
 title: Convenzione del 28 settembre 1954 sullo statuto degli apolidi (con. All. e Modello)
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150"
 language: it
-version: 2020-05-06
+version: 2023-06-09
 adopted: 1954-09-28
 in_force: 1972-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150/20200506/it/xml/fedlex-data-admin-ch-eli-cc-1972-2320_2374_2150-20200506-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/2320_2374_2150/20200506/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150/20230609/it/xml/fedlex-data-admin-ch-eli-cc-1972-2320_2374_2150-20230609-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/2320_2374_2150/20230609/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1972** 2150; FF **1971** II 181
 
 Traduzione
 
-Conchiusa a Nuova York il 28 settembre 1954
+Conchiusa a Nuova York il 28 settembre 1954 Approvata dall’Assemblea federale il 27 aprile 1972[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 3 luglio 1972 Entrata in vigore per la Svizzera il 1° ottobre 1972
 
-Approvata dall’Assemblea federale il 27 aprile 1972[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 3 luglio 1972
-
-Entrata in vigore per la Svizzera il 1° ottobre 1972
-
-(Stato 6 maggio 2020)
+(Stato 9 giugno 2023)
 
 [^t-1]: Cpv. 1 del DF del 27 apr. 1972 (RU **1992** 2317).
 
@@ -44,8 +38,8 @@ considerando che è auspicabile di regolare e migliorare le condizioni degli apo
 
 hanno convenuto le disposizioni seguenti:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
 
 ## Capitolo I: Disposizioni generali
 
@@ -173,7 +167,7 @@ Per quanto concerne le associazioni a scopo apolitico e non lucrativo e i sindac
 
 <sup>1.</sup> Ciascun apolide può adire liberamente i tribunali sul territorio degli Stati contraenti.
 
-<sup>2.</sup> Nello Stato contraente in cui ha la sua residenza abituale, l’apolide fruisce dello stesso trattamento concesso ai cittadini di detto Stato, per ciò che concerne il diritto di adire i tribunali, comprese l’assistenza giudiziaria e l’esenzione dalla *cautio jud**i**catum solvi*.
+<sup>2.</sup> Nello Stato contraente in cui ha la sua residenza abituale, l’apolide fruisce dello stesso trattamento concesso ai cittadini di detto Stato, per ciò che concerne il diritto di adire i tribunali, comprese l’assistenza giudiziaria e l’esenzione dalla *cautio judicatum solvi*.
 
 <sup>3.</sup> Negli Stati contraenti in cui non ha la sua residenza abituale, l’apolide fruisce, per quanto concerne i diritti previsti nel paragrafo 2, dello stesso trattamento concesso ai cittadini del paese in cui ha la sua residenza abituale.
 
@@ -522,8 +516,7 @@ Accompagnato da ........... figli(o)
 
 - 1\. Il presente titolo è rilasciato unicamente per fornire al titolare un documento di viaggio, in sostituzione dei passaporto nazionale. Esso non pregiudica la cittadinanza del titolare e non ha effetto alcuno sulla stessa.
 - 2\. Il titolare è autorizzato a ritornare in ................... (indicazione del paese le cui autorità rilasciano il titolo) fino al ................. salvo indicazione qui appresso di una data posteriore. (Il periodo durante il quale il titolare è autorizzato a ritornare non deve essere inferiore a tre mesi, salvo il caso in cui il paese nel quale il titolare desidera recarsi non esige che tale documento implichi il diritto di rientro).
-- 3\. In caso di trasferimento del domicilio in un paese diverso da quello in cui il presente titolo è stato rilasciato, il titolare deve, se intende trasferirsi nuovamente, richiedere un nuovo titolo alle autorità competenti dei paese di residenza.
-- (Il vecchio titolo di viaggio sarà rimesso all’autorità che rilascia quello nuovo, al fine di rinviarlo all’autorità che l’ha rilasciato[^annexu1-lvlu2-1]).
+- 3\. In caso di trasferimento del domicilio in un paese diverso da quello in cui il presente titolo è stato rilasciato, il titolare deve, se intende trasferirsi nuovamente, richiedere un nuovo titolo alle autorità competenti dei paese di residenza. (Il vecchio titolo di viaggio sarà rimesso all’autorità che rilascia quello nuovo, al fine di rinviarlo all’autorità che l’ha rilasciato[^annexu1-lvlu2-1]).
 
 (Il presente titolo consta di 32 pagine, copertina esclusa).
 
@@ -658,7 +651,7 @@ Iscrivere in ogni visto il nome del titolare.
 
 [^annexu1-lvlu2-1]: La frase tra parentesi può venire inserita dai Governi che lo desiderano.
 
-Campo d’applicazione il 6 maggio 2020**[^t-2]**
+Campo d’applicazione il 9 giugno 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -709,6 +702,7 @@ Campo d’applicazione il 6 maggio 2020**[^t-2]**
 <tr><td>Haiti</td><td>27 settembre</td><td>2018 A</td><td>26 dicembre</td><td>2018</td></tr>
 <tr><td>Honduras</td><td>1° ottobre</td><td>2012</td><td>30 dicembre</td><td>2012</td></tr>
 <tr><td>Irlanda<sup>\*</sup></td><td>17 dicembre</td><td>1962 A</td><td>17 marzo</td><td>1963</td></tr>
+<tr><td>Islanda</td><td>26 gennaio</td><td>2021 A</td><td>26 aprile</td><td>2021</td></tr>
 <tr><td>Israele</td><td>23 dicembre</td><td>1958</td><td>23 marzo</td><td>1959</td></tr>
 <tr><td>Italia<sup>\*</sup></td><td>3 dicembre</td><td>1962</td><td>3 marzo</td><td>1963</td></tr>
 <tr><td>Kiribati<sup>\*</sup></td><td>29 novembre</td><td>1983 S</td><td>12 luglio</td><td>1979</td></tr>
@@ -748,6 +742,7 @@ Campo d’applicazione il 6 maggio 2020**[^t-2]**
 <tr><td>Spagna<sup>\*</sup></td><td>12 maggio</td><td>1997 A</td><td>10 agosto</td><td>1997</td></tr>
 <tr><td>Svezia<sup>\*</sup></td><td>2 aprile</td><td>1965</td><td>1° luglio</td><td>1965</td></tr>
 <tr><td>Svizzera</td><td>3 luglio</td><td>1972</td><td>1° ottobre</td><td>1972</td></tr>
+<tr><td>Togo</td><td>14 luglio</td><td>2021 A</td><td>12 ottobre</td><td>2021</td></tr>
 <tr><td>Trinidad e Tobago</td><td>11 aprile</td><td>1966</td><td>31 agosto</td><td>1962</td></tr>
 <tr><td>Tunisia</td><td>29 luglio</td><td>1969 A</td><td>27 ottobre</td><td>1969</td></tr>
 <tr><td>Turchia</td><td>26 marzo</td><td>2015 A</td><td>24 giugno</td><td>2015</td></tr>
@@ -758,7 +753,7 @@ Campo d’applicazione il 6 maggio 2020**[^t-2]**
 <tr><td>Uruguay</td><td>2 aprile</td><td>2004 A</td><td>1° luglio</td><td>2004</td></tr>
 <tr><td>Zambia<sup>\*</sup></td><td>1° novembre</td><td>1974</td><td>24 ottobre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>1° dicembre</td><td>1998 S</td><td>18 aprile</td><td>1980</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 19 mar. 1963 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 10 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [https://treaties.un.org](https://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 19 mar. 1963 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 10 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 </table>
 
-[^t-2]: [RU 1972 2150](https://fedlex.data.admin.ch/eli/oc/1972/2320_2374_2150), [1975 1742](https://fedlex.data.admin.ch/eli/oc/1975/1742_1742_1742), [1976 2856](https://fedlex.data.admin.ch/eli/oc/1976/2856_2856_2856), [1982 2072](https://fedlex.data.admin.ch/eli/oc/1982/2072_2072_2072), [1984 976](https://fedlex.data.admin.ch/eli/oc/1984/976_976_976),[1990 322](https://fedlex.data.admin.ch/eli/oc/1990/322_322_322), [1993 2266](https://fedlex.data.admin.ch/eli/oc/1993/2266_2266_2266), [2004 3219](https://fedlex.data.admin.ch/eli/oc/2004/414), [2006 4391](https://fedlex.data.admin.ch/eli/oc/2006/664), [2009 3181](https://fedlex.data.admin.ch/eli/oc/2009/404), [2011 3289](https://fedlex.data.admin.ch/eli/oc/2011/433), [2012 1551](https://fedlex.data.admin.ch/eli/oc/2012/215),[2013 271](https://fedlex.data.admin.ch/eli/oc/2013/36), [2014 3271](https://fedlex.data.admin.ch/eli/oc/2014/563), [2016 2217](https://fedlex.data.admin.ch/eli/oc/2016/354), [2019 747](https://fedlex.data.admin.ch/eli/oc/2019/128)e [2020 1661](https://fedlex.data.admin.ch/eli/oc/2020/335). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1972 2150](https://fedlex.data.admin.ch/eli/oc/1972/2320_2374_2150); [1975 1742](https://fedlex.data.admin.ch/eli/oc/1975/1742_1742_1742); [1976 2856](https://fedlex.data.admin.ch/eli/oc/1976/2856_2856_2856); [1982 2072](https://fedlex.data.admin.ch/eli/oc/1982/2072_2072_2072); [1984 976](https://fedlex.data.admin.ch/eli/oc/1984/976_976_976); [1990 322](https://fedlex.data.admin.ch/eli/oc/1990/322_322_322); [1993 2266](https://fedlex.data.admin.ch/eli/oc/1993/2266_2266_2266); [2004 3219](https://fedlex.data.admin.ch/eli/oc/2004/414); [2006 4391](https://fedlex.data.admin.ch/eli/oc/2006/664); [2009 3181](https://fedlex.data.admin.ch/eli/oc/2009/404); [2011 3289](https://fedlex.data.admin.ch/eli/oc/2011/433); [2012 1551](https://fedlex.data.admin.ch/eli/oc/2012/215); [2013 271](https://fedlex.data.admin.ch/eli/oc/2013/36); [2014 3271](https://fedlex.data.admin.ch/eli/oc/2014/563); [2016 2217](https://fedlex.data.admin.ch/eli/oc/2016/354); [2019 747](https://fedlex.data.admin.ch/eli/oc/2019/128); [2020 1661](https://fedlex.data.admin.ch/eli/oc/2020/335); [2023 294](https://fedlex.data.admin.ch/eli/oc/2023/294). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch /it/treaty.
