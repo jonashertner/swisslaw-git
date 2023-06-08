@@ -3,11 +3,11 @@ sr: "0.311.544"
 title: "Protocollo addizionale del 31 maggio 2001 della Convenzione delle Nazioni Unite contro la criminalità organizzata transnazionale per prevenire, reprimere e punire la fabbricazione e il traffico illeciti di armi da fuoco, loro parti, elementi e munizioni"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/14"
 language: it
-version: 2020-03-27
+version: 2023-06-09
 adopted: 2001-05-31
 in_force: 2012-12-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/14/20200327/it/xml/fedlex-data-admin-ch-eli-cc-2013-14-20200327-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/14/20200327/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/14/20230609/it/xml/fedlex-data-admin-ch-eli-cc-2013-14-20230609-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/14/20230609/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2013** 65; FF **2011** 4077
 
 Traduzione
 
-Concluso a New York il 31 maggio 2001
+Concluso a New York il 31 maggio 2001 Approvato dall’Assemblea federale il 23 dicembre 2011[^t-1] Strumento d’adesione depositato dalla Svizzera il 27 novembre 2012 Entrato in vigore per la Svizzera il 27 dicembre 2012
 
-Approvato dall’Assemblea federale il 23 dicembre 2011[^t-1]
-
-Strumento d’adesione depositato dalla Svizzera il 27 novembre 2012
-
-Entrato in vigore per la Svizzera il 27 dicembre 2012
-
-(Stato 27 marzo 2020)
+(Stato 9 giugno 2023)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 23 dic. 2011 ([RU 2012 6777](https://fedlex.data.admin.ch/eli/oc/2012/819)).
 
@@ -305,7 +299,7 @@ Per prevenire e combattere la fabbricazione e il traffico illeciti di armi da fu
 
 *In fede di ciò*, i sottoscritti plenipotenziari, all’uopo debitamente autorizzati dai rispettivi Governi, hanno sottoscritto il presente Protocollo. (Seguono le firme)
 
-Campo d’applicazione il 27 marzo 2020**[^t-2]**
+Campo d’applicazione il 9 giugno 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -323,6 +317,7 @@ Campo d’applicazione il 27 marzo 2020**[^t-2]**
 <tr><td>Belarus</td><td>6 ottobre</td><td>2004 A</td><td>3 luglio</td><td>2005</td></tr>
 <tr><td>Belgio<sup>\*</sup></td><td>24 settembre</td><td>2004</td><td>3 luglio</td><td>2005</td></tr>
 <tr><td>Benin</td><td>30 agosto</td><td>2004</td><td>3 luglio</td><td>2005</td></tr>
+<tr><td>Bolivia<sup>\*</sup></td><td>1° settembre</td><td>2020 A</td><td>1° ottobre</td><td>2020</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>1° aprile</td><td>2008 A</td><td>1° maggio</td><td>2008</td></tr>
 <tr><td>Brasile</td><td>31 marzo</td><td>2006</td><td>30 aprile</td><td>2006</td></tr>
 <tr><td>Bulgaria</td><td>6 agosto</td><td>2002</td><td>3 luglio</td><td>2005</td></tr>
@@ -334,6 +329,7 @@ Campo d’applicazione il 27 marzo 2020**[^t-2]**
 <tr><td>Centrafricana, Repubblica</td><td>6 ottobre</td><td>2006 A</td><td>5 novembre</td><td>2006</td></tr>
 <tr><td>Cile</td><td>17 giugno</td><td>2010 A</td><td>17 luglio</td><td>2010</td></tr>
 <tr><td>Cipro</td><td>6 agosto</td><td>2003</td><td>3 luglio</td><td>2005</td></tr>
+<tr><td>Comore</td><td>4 giugno</td><td>2021 A</td><td>4 luglio</td><td>2021</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>28 ottobre</td><td>2005 A</td><td>27 novembre</td><td>2005</td></tr>
 <tr><td>Corea del Sud</td><td>5 novembre</td><td>2015</td><td>5 dicembre</td><td>2015</td></tr>
 <tr><td>Costa d’Avorio</td><td>25 ottobre</td><td>2012 A</td><td>24 novembre</td><td>2012</td></tr>
@@ -352,6 +348,7 @@ Campo d’applicazione il 27 marzo 2020**[^t-2]**
 <tr><td>Finlandia<sup>\*</sup></td><td>17 maggio</td><td>2011</td><td>16 giugno</td><td>2011</td></tr>
 <tr><td>Francia<sup>\*</sup></td><td>28 febbraio</td><td>2019 A</td><td>30 marzo</td><td>2019</td></tr>
 <tr><td>Gabon</td><td>22 settembre</td><td>2010 A</td><td>22 ottobre</td><td>2010</td></tr>
+<tr><td>Germania</td><td>14 ottobre</td><td>2021</td><td>13 novembre</td><td>2021</td></tr>
 <tr><td>Ghana</td><td>14 gennaio</td><td>2014 A</td><td>13 febbraio</td><td>2014</td></tr>
 <tr><td>Giamaica</td><td>29 settembre</td><td>2003</td><td>3 luglio</td><td>2005</td></tr>
 <tr><td>Grecia</td><td>11 gennaio</td><td>2011</td><td>10 febbraio</td><td>2011</td></tr>
@@ -375,6 +372,7 @@ Campo d’applicazione il 27 marzo 2020**[^t-2]**
 <tr><td>Libia</td><td>18 giugno</td><td>2004</td><td>3 luglio</td><td>2005</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>10 dicembre</td><td>2013 A</td><td>9 gennaio</td><td>2014</td></tr>
 <tr><td>Lituania<sup>\*</sup></td><td>24 febbraio</td><td>2005</td><td>3 luglio</td><td>2005</td></tr>
+<tr><td>Lussemburgo</td><td>9 maggio</td><td>2022</td><td>8 giugno</td><td>2022</td></tr>
 <tr><td>Macedonia del Nord</td><td>14 settembre</td><td>2007 A</td><td>14 ottobre</td><td>2007</td></tr>
 <tr><td>Madagascar</td><td>15 settembre</td><td>2005</td><td>15 ottobre</td><td>2005</td></tr>
 <tr><td>Malawi<sup>\*</sup></td><td>17 marzo</td><td>2005 A</td><td>3 luglio</td><td>2005</td></tr>
@@ -427,12 +425,12 @@ Campo d’applicazione il 27 marzo 2020**[^t-2]**
 <tr><td>Uruguay</td><td>3 aprile</td><td>2008 A</td><td>3 maggio</td><td>2008</td></tr>
 <tr><td>Venezuela<sup>\*</sup></td><td>10 giugno</td><td>2013 A</td><td>10 luglio</td><td>2013</td></tr>
 <tr><td>Zambia</td><td>24 aprile</td><td>2005 A</td><td>3 luglio</td><td>2005</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni (le \* del campo d’applicazione non comprendono le dichiarazioni di tutti gli Stati Partecipanti relative alle autorità centrali secondo l’art. 13 par. 2). \*\* Obbiezioni Le riserve, dichiarazioni e obbiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Il Protocollo non si applica alla Groenlandia e alle Isole Faeröer.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le dichiarazioni degli Stati partecipanti sulle autorità centrali secondo l’art. 13 para. 2 del Prot. addizionale non sono elencate nel presente campo d’applicazione. \*\* Obbiezioni Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, in francese ed in inglese, possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org/)/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Il Prot. non si applica alla Groenlandia e alle Isole Faeröer.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2013 65](https://fedlex.data.admin.ch/eli/oc/2013/14)[3525](https://fedlex.data.admin.ch/eli/oc/2013/656), [2014 3199](https://fedlex.data.admin.ch/eli/oc/2014/545), [2017 195](https://fedlex.data.admin.ch/eli/oc/2017/51)e [2020 1183](https://fedlex.data.admin.ch/eli/oc/2020/219). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: Completa quelli in [RU 2013 65](https://fedlex.data.admin.ch/eli/oc/2013/14), [3525](https://fedlex.data.admin.ch/eli/oc/2013/656); [2014 3199](https://fedlex.data.admin.ch/eli/oc/2014/545); [2017 195](https://fedlex.data.admin.ch/eli/oc/2017/51); [2020 1183](https://fedlex.data.admin.ch/eli/oc/2020/219); [2023 296](https://fedlex.data.admin.ch/eli/oc/2023/296). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
 
 Riserve e dichiarazioni
 

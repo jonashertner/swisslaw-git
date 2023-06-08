@@ -3,11 +3,11 @@ sr: "0.311.544"
 title: "Zusatzprotokoll vom 31. Mai 2001 gegen die unerlaubte Herstellung von Schusswaffen, dazugehörigen Teilen und Komponenten und Munition und gegen den unerlaubten Handel damit zum Übereinkommen der Vereinten Nationen gegen die grenzüberschreitende organisierte Kriminalität"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/14"
 language: de
-version: 2020-03-27
+version: 2023-06-09
 adopted: 2001-05-31
 in_force: 2012-12-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/14/20200327/de/xml/fedlex-data-admin-ch-eli-cc-2013-14-20200327-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/14/20200327/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/14/20230609/de/xml/fedlex-data-admin-ch-eli-cc-2013-14-20230609-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/14/20230609/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Beitrittsurkunde hinterlegt am 27. November 2012
 
 In Kraft getreten für die Schweiz am 27. Dezember 2012
 
-(Stand am 27. März 2020)
+(Stand am 9. Juni 2023)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 23. Dez. 2011 ([AS 2012 6777](https://fedlex.data.admin.ch/eli/oc/2012/819))
 
@@ -305,7 +305,7 @@ Mit dem Ziel, die unerlaubte Herstellung von Schusswaffen, dazugehörigen Teilen
 
 *Zu Urkund dessen* haben die unterzeichneten, von ihren Regierungen hierzu gehörig befugten Bevollmächtigten dieses Protokoll unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 27. März 2020**[^t-2]**
+Geltungsbereich am 9. Juni 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -322,6 +322,7 @@ Geltungsbereich am 27. März 2020**[^t-2]**
 <tr><td>Belarus</td><td>6. Oktober</td><td>2004 B</td><td>3. Juli</td><td>2005</td></tr>
 <tr><td>Belgien\*</td><td>24. September</td><td>2004</td><td>3. Juli</td><td>2005</td></tr>
 <tr><td>Benin</td><td>30. August</td><td>2004</td><td>3. Juli</td><td>2005</td></tr>
+<tr><td>Bolivien<sup>\*</sup></td><td>1. September</td><td>2020 B</td><td>1. Oktober</td><td>2020</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>1. April</td><td>2008 B</td><td>1. Mai</td><td>2008</td></tr>
 <tr><td>Brasilien</td><td>31. März</td><td>2006</td><td>30. April</td><td>2006</td></tr>
 <tr><td>Bulgarien</td><td>6. August</td><td>2002</td><td>3. Juli</td><td>2005</td></tr>
@@ -331,6 +332,7 @@ Geltungsbereich am 27. März 2020**[^t-2]**
 <tr><td>Costa Rica</td><td>9. September</td><td>2003</td><td>3. Juli</td><td>2005</td></tr>
 <tr><td>Côte d’Ivoire</td><td>25. Oktober</td><td>2012 B</td><td>24. November</td><td>2012</td></tr>
 <tr><td>Dänemark <sup>a</sup></td><td>4. Februar</td><td>2015</td><td>6. März</td><td>2015</td></tr>
+<tr><td>Deutschland</td><td>14. Oktober</td><td>2021</td><td>13. November</td><td>2021</td></tr>
 <tr><td>Dominica</td><td>17. Mai</td><td>2013 B</td><td>16. Juni</td><td>2013</td></tr>
 <tr><td>Dominikanische Republik</td><td>7. April</td><td>2009</td><td>7. Mai</td><td>2009</td></tr>
 <tr><td>Ecuador</td><td>25. September</td><td>2013</td><td>25. Oktober</td><td>2013</td></tr>
@@ -358,6 +360,7 @@ Geltungsbereich am 27. März 2020**[^t-2]**
 <tr><td>Kap Verde</td><td>15. Juli</td><td>2004 B</td><td>3. Juli</td><td>2005</td></tr>
 <tr><td>Kasachstan</td><td>31. Juli</td><td>2008 B</td><td>30. August</td><td>2008</td></tr>
 <tr><td>Kenia</td><td>5. Januar</td><td>2005 B</td><td>3. Juli</td><td>2005</td></tr>
+<tr><td>Komoren</td><td>4. Juni</td><td>2021 B</td><td>4. Juli</td><td>2021</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>28. Oktober</td><td>2005 B</td><td>27. November</td><td>2005</td></tr>
 <tr><td>Korea (Süd-)</td><td>5. November</td><td>2015</td><td>5. Dezember</td><td>2015</td></tr>
 <tr><td>Kroatien</td><td>7. Februar</td><td>2005 B</td><td>3. Juli</td><td>2005</td></tr>
@@ -371,6 +374,7 @@ Geltungsbereich am 27. März 2020**[^t-2]**
 <tr><td>Libyen</td><td>18. Juni</td><td>2004</td><td>3. Juli</td><td>2005</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>10. Dezember</td><td>2013 B</td><td>9. Januar</td><td>2014</td></tr>
 <tr><td>Litauen\*</td><td>24. Februar</td><td>2005</td><td>3. Juli</td><td>2005</td></tr>
+<tr><td>Luxemburg</td><td>9. Mai</td><td>2022</td><td>8. Juni</td><td>2022</td></tr>
 <tr><td>Madagaskar</td><td>15. September</td><td>2005</td><td>15. Oktober</td><td>2005</td></tr>
 <tr><td>Malawi\*</td><td>17. März</td><td>2005 B</td><td>3. Juli</td><td>2005</td></tr>
 <tr><td>Mali</td><td>3. Mai</td><td>2002</td><td>3. Juli</td><td>2005</td></tr>
@@ -427,10 +431,10 @@ Geltungsbereich am 27. März 2020**[^t-2]**
 <tr><td>Venezuela<sup>\*</sup></td><td>10. Juni</td><td>2013 B</td><td>10. Juli</td><td>2013</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>6. Oktober</td><td>2006 B</td><td>5. November</td><td>2006</td></tr>
 <tr><td>Zypern</td><td>6. August</td><td>2003</td><td>3. Juli</td><td>2005</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen (die Erklärungen aller Vertragsstaaten über die zentralen Behörden, gemäss Art. 13 Abs. 2 sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt). \*\* Einwendungen Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Grönland und die Färöer. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Erklärungen der Vertragsstaaten über die zentralen Behörden, gemäss Artikel 13 Absatz 2 des Zusatzprotokolls, sind im vorliegenden Geltungsbereich nicht aufgeführt. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Grönland und die Färöer. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2013 65](https://fedlex.data.admin.ch/eli/oc/2013/14)[3525](https://fedlex.data.admin.ch/eli/oc/2013/656), [2014 3199](https://fedlex.data.admin.ch/eli/oc/2014/545), [2017 195](https://fedlex.data.admin.ch/eli/oc/2017/51), [2020 1183](https://fedlex.data.admin.ch/eli/oc/2020/219). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA ([www.eda.admin.ch/vertraege](http://www.eda.admin.ch/vertraege)).
+[^t-2]: [AS 2013 65](https://fedlex.data.admin.ch/eli/oc/2013/14), [3525](https://fedlex.data.admin.ch/eli/oc/2013/656); [2014 3199](https://fedlex.data.admin.ch/eli/oc/2014/545); [2017 195](https://fedlex.data.admin.ch/eli/oc/2017/51); [2020 1183](https://fedlex.data.admin.ch/eli/oc/2020/219); [2023 296](https://fedlex.data.admin.ch/eli/oc/2023/296). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
 
 Vorbehalte und Erklärungen
 

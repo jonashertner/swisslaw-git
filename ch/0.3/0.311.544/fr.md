@@ -3,11 +3,11 @@ sr: "0.311.544"
 title: "Protocole additionnel du 31 mai 2001 à la Convention des Nations Unies contre la criminalité transnationale organisée, contre la fabrication et le trafic illicites d'armes à feu, de leurs pièces, éléments et munitions"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/14"
 language: fr
-version: 2020-03-27
+version: 2023-06-09
 adopted: 2001-05-31
 in_force: 2012-12-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/14/20200327/fr/xml/fedlex-data-admin-ch-eli-cc-2013-14-20200327-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/14/20200327/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/14/20230609/fr/xml/fedlex-data-admin-ch-eli-cc-2013-14-20230609-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/14/20230609/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 27 novembre 2012
 
 Entré en vigueur pour la Suisse le 27 décembre 2012
 
-(État le 27 mars 2020)
+(État le 9 juin 2023)
 
 [^t-1]: [RO 2012 6777](https://fedlex.data.admin.ch/eli/oc/2012/819)
 
@@ -305,13 +305,14 @@ En vue de prévenir et de combattre la fabrication et le trafic illicites d’ar
 
 *En foi de quoi,* les plénipotentiaires soussignés, à ce dûment autorisés par leurs gouvernements respectifs, ont signé le présent Protocole. (Suivent les signatures)
 
-Champ d’application le 27 mars 2020**[^t-2]**
+Champ d’application le 9 juin 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud<sup>\*</sup></td><td>20 février</td><td>2004</td><td>3 juillet</td><td>2005</td></tr>
 <tr><td>Albanie</td><td>8 février</td><td>2008 A</td><td>9 mars</td><td>2008</td></tr>
 <tr><td>Algérie<sup>\*</sup></td><td>25 août</td><td>2004 A</td><td>3 juillet</td><td>2005</td></tr>
+<tr><td>Allemagne</td><td>14 octobre</td><td>2021</td><td>13 novembre</td><td>2021</td></tr>
 <tr><td>Angola</td><td>19 septembre</td><td>2014 A</td><td>19 octobre</td><td>2014</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>27 avril</td><td>2010 A</td><td>27 mai</td><td>2010</td></tr>
 <tr><td>Arabie Saoudite<sup>\*</sup></td><td>11 mars</td><td>2008 A</td><td>10 avril</td><td>2008</td></tr>
@@ -322,6 +323,7 @@ Champ d’application le 27 mars 2020**[^t-2]**
 <tr><td>Bahamas<sup>\*</sup></td><td>26 septembre</td><td>2008</td><td>26 octobre</td><td>2008</td></tr>
 <tr><td>Barbade</td><td>11 novembre</td><td>2014</td><td>11 décembre</td><td>2014</td></tr>
 <tr><td>Belgique<sup>\*</sup></td><td>24 septembre</td><td>2004</td><td>3 juillet</td><td>2005</td></tr>
+<tr><td>Bolivie<sup>\*</sup></td><td>1<sup>er</sup> septembre</td><td>2020 A</td><td>1<sup>er</sup> octobre</td><td>2020</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>1<sup>er</sup> avril</td><td>2008 A</td><td>1<sup>er</sup> mai</td><td>2008</td></tr>
 <tr><td>Brésil</td><td>31 mars</td><td>2006</td><td>30 avril</td><td>2006</td></tr>
 <tr><td>Bulgarie</td><td>6 août</td><td>2002</td><td>3 juillet</td><td>2005</td></tr>
@@ -333,6 +335,7 @@ Champ d’application le 27 mars 2020**[^t-2]**
 <tr><td>Cap-Vert</td><td>15 juillet</td><td>2004 A</td><td>3 juillet</td><td>2005</td></tr>
 <tr><td>Chili</td><td>17 juin</td><td>2010 A</td><td>17 juillet</td><td>2010</td></tr>
 <tr><td>Chypre</td><td>6 août</td><td>2003</td><td>3 juillet</td><td>2005</td></tr>
+<tr><td>Comores</td><td>4 juin</td><td>2021 A</td><td>4 juillet</td><td>2021</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>28 octobre</td><td>2005 A</td><td>27 novembre</td><td>2005</td></tr>
 <tr><td>Corée (Sud)</td><td>5 novembre</td><td>2015</td><td>5 décembre</td><td>2015</td></tr>
 <tr><td>Costa Rica</td><td>9 septembre</td><td>2003</td><td>3 juillet</td><td>2005</td></tr>
@@ -375,6 +378,7 @@ Champ d’application le 27 mars 2020**[^t-2]**
 <tr><td>Libéria</td><td>22 septembre</td><td>2004 A</td><td>3 juillet</td><td>2005</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>10 décembre</td><td>2013 A</td><td>9 janvier</td><td>2014</td></tr>
 <tr><td>Lituanie<sup>\*</sup></td><td>24 février</td><td>2005</td><td>3 juillet</td><td>2005</td></tr>
+<tr><td>Luxembourg</td><td>9 mai</td><td>2022</td><td>8 juin</td><td>2022</td></tr>
 <tr><td>Macédoine du Nord</td><td>14 septembre</td><td>2007 A</td><td>14 octobre</td><td>2007</td></tr>
 <tr><td>Madagascar</td><td>15 septembre</td><td>2005</td><td>15 octobre</td><td>2005</td></tr>
 <tr><td>Malawi<sup>\*</sup></td><td>17 mars</td><td>2005 A</td><td>3 juillet</td><td>2005</td></tr>
@@ -427,10 +431,10 @@ Champ d’application le 27 mars 2020**[^t-2]**
 <tr><td>Uruguay</td><td>3 avril</td><td>2008 A</td><td>3 mai</td><td>2008</td></tr>
 <tr><td>Venezuela<sup>\*</sup></td><td>10 juin</td><td>2013 A</td><td>10 juillet</td><td>2013</td></tr>
 <tr><td>Zambie</td><td>24 avril</td><td>2005 A</td><td>3 juillet</td><td>2005</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations (les \* du champ d’application ci-dessus ne comprennent pas les déclarations de tous les États parties concernant les autorités centrales, selon l’art. 13, par. 2). [tab] \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse,. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Prot. ne s’applique pas au Groenland et aux Îles Féroé. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations (les \* du champ d’application ci-dessus ne comprennent pas les déclarations de tous les États parties concernant les autorités centrales, selon l’art. 13, par. 2). [tab] \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse,. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org/)/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Prot. ne s’applique pas au Groenland et aux Îles Féroé. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2013 65](https://fedlex.data.admin.ch/eli/oc/2013/14)[3525](https://fedlex.data.admin.ch/eli/oc/2013/656), [2014 3199](https://fedlex.data.admin.ch/eli/oc/2014/545), [2017 195](https://fedlex.data.admin.ch/eli/oc/2017/51), [2020 1183](https://fedlex.data.admin.ch/eli/oc/2020/219). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2013 65](https://fedlex.data.admin.ch/eli/oc/2013/14), [3525](https://fedlex.data.admin.ch/eli/oc/2013/656); [2014 3199](https://fedlex.data.admin.ch/eli/oc/2014/545); [2017 195](https://fedlex.data.admin.ch/eli/oc/2017/51); [2020 1183](https://fedlex.data.admin.ch/eli/oc/2020/219); [2023 296](https://fedlex.data.admin.ch/eli/oc/2023/296). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20)
 
 Réserves et déclarations
 
