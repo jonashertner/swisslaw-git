@@ -4,13 +4,13 @@ number: "490.11"
 title: Energieverordnung
 short: EnV BL
 language: de
-version: 2022-03-01
-valid_until: 2023-06-09
-version_adopted: 2022-01-25
+version: 2023-06-10
+valid_until: 2025-02-28
+version_adopted: 2023-05-30
 adopted: 2016-12-20
 in_force: 2017-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/490.11"
-pdf: "https://bl.clex.ch/api/de/versions/3231/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4523/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3231/pdf_file"
 
 (EnV BL)
 
-Vom 20.12.2016 (Stand 01.03.2022)
+Vom 20.12.2016 (Stand 10.06.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -124,6 +124,20 @@ beschliesst:
 
 <sup>3</sup> Für die Energieberatung wird durch das Aufsichtsgremium ein Leistungsauftrag an die regionalen Energieversorger erteilt.
 
+#### § 9a
+
+**Anforderungen an öffentliche Bauten und Anlagen von Kanton und Gemeinden**
+
+<sup>1</sup> Neubauten sind nach dem Minergie-P-Eco, Minergie-A-Eco-Gebäudestandard, mindestens jedoch nach dem Minergie-Eco oder nach dem SNBS-Gebäudestandard zu realisieren. Wird auf eine Zertifizierung verzichtet, sind die Zielwerte des SIA-Effizienzpfads Energie (SIA-Merkblatt 2040) einzuhalten.
+
+<sup>2</sup> Für Umbauten und Erweiterungen gelten die Anforderungen für Neubauten gemäss Anhang 1 und Anhang 2.
+
+<sup>3</sup> Beim Ersatz der Wärmeerzeugung ist ein auf erneuerbaren Energien oder Abwärme basierendes System einzusetzen.
+
+<sup>4</sup> Neue Bauten erzeugen einen Teil der von ihnen benötigten Elektrizität selber. Die Leistung der in, auf oder an dem Gebäude installierten Elektrizitätserzeugungsanlage bei Neubauten muss mindestens 20 Watt pro Quadratmeter Energiebezugsfläche betragen.
+
+<sup>5</sup> Sind die Anforderungen nach Abs. 1–4 nicht mit den Vorschriften über den Denkmal- und Ortsbildschutz vereinbar, technisch nicht möglich oder mit unverhältnismässig hohen Kosten verbunden, erteilt das Amt für Umweltschutz und Energie auf begründetes Gesuch hin eine Ausnahmebewilligung.
+
 ## 4 Energiesparen und dezentrale Energiegewinnungsanlagen
 
 #### § 10
@@ -176,13 +190,17 @@ beschliesst:
 
 - a. Gebäude, deren Nutzung auf maximal 3 Jahre befristet ist;
 - b. Aussensaunas, die wegen ihrer Funktion nur sporadisch beheizt werden; diese müssen mit einer Steuerung/Regelung ausgerüstet und betrieben werden, welche eine dem Verwendungszweck eingeschränkte Beheizung ermöglicht;
-- c. Gebäude oder Räume, in denen längerfristig beträchtliche, anderweitig nicht nutzbare Fremd- oder Abwärmemengen anfallen und bei denen deshalb das Einhalten der Anforderungen zu einem sinnwidrigen Ergebnis führen würde.
+- c. Gebäude oder Räume, in denen längerfristig beträchtliche, anderweitig nicht nutzbare Fremd- oder Abwärmemengen anfallen und bei denen deshalb das Einhalten der Anforderungen zu einem sinnwidrigen Ergebnis führen würde;
+- d. Gebäude, die auf weniger als 10 °C aktiv beheizt werden;
+- e. schützenswerte Kulturdenkmäler, falls Vorschriften über den Denkmal- oder Ortsbildschutz verletzt würden;
+- f. Umbauten, wenn die Einhaltung der Anforderungen mit unverhältnismässigem Aufwand verbunden wäre oder zu bauphysikalisch begründeten Schäden führen würde.
 
 <sup>2</sup> Auf Gesuch hin können Erleichterungen von den Anforderungen an den sommerlichen Wärmeschutz gewährt werden für:
 
 - a. Gebäude, deren Nutzung auf maximal 3 Jahre befristet ist;
 - b. Vorhaben, für die mit einem anerkannten Rechenverfahren nachgewiesen wird, dass kein erhöhter Energieverbrauch auftreten wird und die Behaglichkeit gemäss Norm SIA 180 gewährleistet ist;
-- c. transparente Bauteile, die aus betrieblichen Gründen nicht ausgerüstet werden können.
+- c. transparente Bauteile, die aus betrieblichen Gründen nicht ausgerüstet werden können;
+- d. schützenswerte Kulturdenkmäler, falls Vorschriften über den Denkmal- oder Ortsbildschutz verletzt würden.
 
 <sup>3</sup> Gesuche für Erleichterungen müssen eine nachvollziehbare Energiebilanz, Vorschläge für angemessene Wärmeschutzmassnahmen sowie Vorschläge für gleichwertige Kompensationsmassnahmen für den Mehrbedarf an Energie wegen der Erleichterungen enthalten.
 
@@ -212,7 +230,7 @@ beschliesst:
 
 <sup>2</sup> Für beheizte Traglufthallen gelten die folgenden Mindestanforderungen:
 
-- a. Es ist eine 2x2-schichtige Membrane (U-Wert ca. 1,1 Watt/m²xKelvin) einzusetzen. Wird die Halle auf weniger als 10° C beheizt, ist mindestens eine 3-fach-Membrane einzusetzen.
+- a. Es ist eine 2x2-schichtige Membrane (U-Wert ca. 1,1 Watt/m²xKelvin) einzusetzen.
 - b. Zwischen den Verankerungen der Membranen ist eine Perimeterdämmung einzubauen.
 - c. Beim Eingang ist eine 4-flüglige Drehtüre mit effizientem Dichtungssystem einzusetzen. Vor der Drehtüre ist ein Vorraum (Schleuse) mit zusätzlicher Aussentüre anzuordnen.
 - d. Die Wärmeerzeugung muss, sofern technisch und betrieblich machbar, mit überwiegend erneuerbarer Wärmeenergie oder nicht anders nutzbarer Abwärme erfolgen.
@@ -362,12 +380,12 @@ beschliesst:
 
 **Elektrizität bei Beleuchtungsanlagen in Hochbauten**
 
-<sup>1</sup> Für Neubauten, Umbauten und Umnutzungen mit einer Energiebezugsfläche (EBF) von mehr als 1000 m² muss die Einhaltung der Grenzwerte für den jährlichen spezifischen Elektrizitätsbedarf (E'Li) und die spezifische Leistung (pLi) nach Norm SIA 387/4 nachgewiesen werden.
+<sup>1</sup> Für Neubauten, Umbauten und Umnutzungen mit einer Energiebezugsfläche (EBF) von mehr als 1000 m² muss die Einhaltung der Grenzwerte für den jährlichen spezifischen Elektrizitätsbedarf (*E<sub>L</sub>*) nach Norm SIA 387/4 nachgewiesen werden.
 
 <sup>2</sup> Die Pflicht, den jährlichen Elektrizitätsbedarf nachzuweisen, besteht nicht bei:
 
 - a. der Wohnnutzung;
-- b. Beleuchtungsanlagen, wenn der Nachweis erbracht wird, dass der Zielwert der spezifischen Leistung für die Beleuchtung (pLi) eingehalten wird.
+- b. Beleuchtungsanlagen, wenn der Nachweis erbracht wird, dass der Zielwert der spezifischen Leistung für die Beleuchtung (p<sub>L</sub>) eingehalten wird.
 
 #### § 30
 
@@ -382,7 +400,7 @@ beschliesst:
 <sup>2</sup> Auf begründetes Gesuch hin kann eine Bewilligung für eine Elektroheizung erteilt werden für:
 
 - a. Gebäude, deren Nutzung befristet ist (Provisorien);
-- b. Gebäude mit tiefem Heizwärmebedarf unter 20 Kilowattstunden pro Quadratmeter Energiebezugsfläche und Jahr;
+- b. Gebäude mit tiefem Heizwärmebedarf unter 15 Kilowattstunden pro Quadratmeter Energiebezugsfläche und Jahr;
 - c. Gebäude und Einrichtungen die wegen ihrer Funktion nicht durchgehend beheizt werden wie z.B. Kirchen und Aussensaunas. Diese müssen mit einer Steuerung/Regelung ausgerüstet und betrieben werden, welche eine dem Verwendungszweck eingeschränkte Beheizung ermöglicht;
 - d. solche, die zur Sicherheit von Sachen oder zum Schutze von technischen Einrichtungen notwendig sind.
 
