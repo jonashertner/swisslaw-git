@@ -3,11 +3,11 @@ sr: "0.274.131"
 title: "Convention du 15 novembre 1965 relative à la signification et la notification à l'étranger des actes judiciaires et extrajudiciaires en matière civile ou commerciale (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2809_2809_2809"
 language: fr
-version: 2020-07-13
+version: 2023-06-12
 adopted: 1965-11-15
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2809_2809_2809/20200713/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2809_2809_2809-20200713-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2809_2809_2809/20200713/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2809_2809_2809/20230612/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2809_2809_2809-20230612-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2809_2809_2809/20230612/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 2 novembre 1994
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1995
 
-(Etat le 13 juillet 2020)
+(État le 12 juin 2023)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 9 juin 1994 ([RO 1994 2807](https://fedlex.data.admin.ch/eli/oc/1994/2807_2807_2807))
 
@@ -250,7 +250,7 @@ Tout État non représenté à la Dixième session de la Conférence de La Haye 
 
 La Convention n’entrera en vigueur pour un tel État qu’à défaut d’opposition de la part d’un État ayant ratifié la Convention avant ce dépôt, notifiée au Ministère des Affaires Étrangères des Pays-Bas dans un délai de six mois à partir de la date à laquelle ce Ministère lui aura notifié cette adhésion.
 
-A défaut d’opposition, la Convention entrera en vigueur pour l’État adhérant le premier jour du mois qui suit l’expiration du dernier des délais mentionnés à l’alinéa précédent.
+À défaut d’opposition, la Convention entrera en vigueur pour l’État adhérant le premier jour du mois qui suit l’expiration du dernier des délais mentionnés à l’alinéa précédent.
 
 #### Art. 29
 
@@ -301,11 +301,11 @@ Le requérant soussigné a l’honneur de faire parvenir – en double exemplair
 
 (identité et adresse)
 
-- a) selon les formes légales (art. 5, al. 1, let. a)[^annexu1-lvlu1-1].
-- b) selon la forme particulière suivante (art. 5, al. 1, let. b)<sup>6</sup>:
-- c) le cas échéant, par remise simple (art. 5, al. 2)<sup>6</sup>.
+- a) selon les formes légales (art. 5, al. 1, let. a) <sup>1</sup>.
+- b) selon la forme particulière suivante (art. 5, al. 1, let. b)<sup>1</sup>:
+- c) le cas échéant, par remise simple (art. 5, al. 2)<sup>1</sup>.
 
-Cette autorité est priée de renvoyer ou de faire renvoyer au requérant un exemplaire de l’acte – et de ses annexes<sup>\*</sup> – avec l’attestation figurant au verso.
+Cette autorité est priée de renvoyer ou de faire renvoyer au requérant un exemplaire de l’acte – et de ses annexes<sup>1</sup> – avec l’attestation figurant au verso.
 
 Énumération des pièces
 
@@ -314,30 +314,34 @@ Cette autorité est priée de renvoyer ou de faire renvoyer au requérant un exe
 <tr><td></td><td>Signature et/ou cachet</td></tr>
 </table>
 
+<table>
+<tr><td><sup>1</sup></td><td>Rayer les mentions inutiles.</td></tr>
+</table>
+
 Verso de la demande
 
 Attestation
 
 L’autorité soussignée a l’honneur d’attester conformément à l’art. 6 de ladite Convention,
 
-- 1\. que la demande a été exécutée[^annexu1-lvlu1-2]
+- 1\. que la demande a été exécutée<sup>1</sup>
   - – le (date)
   - – à (localité, rue, numéro)
   - –
 
     dans une des formes suivantes prévues à l’art. 5:
 
-    - a) selon les formes légales (art. 5, al. 1, let. a)<sup>7</sup>.
-    - b) selon la forme particulière suivante<sup>7</sup>:
-    - c) par remise simple<sup>7</sup>.
+    - a) selon les formes légales (art. 5, al. 1, let. a)<sup>1</sup>.
+    - b) selon la forme particulière suivante<sup>1</sup>:
+    - c) par remise simple<sup>1</sup>.
 
   - [tab] Les documents mentionnés dans la demande ont été remis à:
   - – (identité et qualité de la personne)
   - – liens de parenté, de subordination ou autres, avec le destinataire de l’acte:
 
-- 2\. que la demande n’a pas été exécutée, en raison des faits suivants<sup>7</sup>:
+- 2\. que la demande n’a pas été exécutée, en raison des faits suivants<sup>1</sup>:
 
-Conformément à l’art. 12, al. 2, de ladite Convention, le requérant est prié de payer ou de rembourser les frais dont le détail figure au mémoire ci-joint<sup>7</sup>.
+Conformément à l’art. 12, al. 2, de ladite Convention, le requérant est prié de payer ou de rembourser les frais dont le détail figure au mémoire ci-joint<sup>1</sup>.
 
 Annexes
 
@@ -350,8 +354,9 @@ Le cas échéant, les documents justificatifs de l’exécution:
 <tr><td></td><td>Signature et/ou cachet</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: Rayer les mentions inutiles.
-[^annexu1-lvlu1-2]: Rayer les mentions inutiles.
+<table>
+<tr><td><sup>1</sup></td><td>Rayer les mentions inutiles.</td></tr>
+</table>
 
 ## Éléments essentiels de l’acte
 
@@ -361,140 +366,153 @@ Convention relative à la signification et à la notification à l’étranger d
 
 Nom et adresse de l’autorité requérante:
 
-Identité des parties[^annexu1-lvlu2-1]:
+Identité des parties<sup>1</sup>:
 
-Acte judiciaire**[^annexu1-lvlu2-2]**
+Acte judiciaire<sup>2</sup>
 
 Nature et objet de l’acte:
 
 Nature et objet de l’instance, le cas échéant, le montant du litige:
 
-Date et lieu de la comparution<sup>9</sup>:
+Date et lieu de la comparution<sup>2</sup>:
 
-Juridiction qui a rendu la décision<sup>9</sup>:
+Juridiction qui a rendu la décision<sup>2</sup>:
 
-Date de la décision<sup>9</sup>:
+Date de la décision<sup>2</sup>:
 
-Indication des délais figurant dans l’acte<sup>9</sup>:
+Indication des délais figurant dans l’acte<sup>2</sup>:
 
-Acte extrajudiciaire<sup>9</sup>
+Acte extrajudiciaire<sup>2</sup>
 
 Nature et objet de l’acte:
 
-Indication des délais figurant dans l’acte<sup>9</sup>:
-
-[^annexu1-lvlu2-1]: S’il y a lieu, identité et adresse de la personne intéressée à la transmission de l’acte.
-[^annexu1-lvlu2-2]: Rayer les mentions inutiles.
-
-Champ d’application le 13 juillet 2020**[^t-2]**
+Indication des délais figurant dans l’acte<sup>2</sup>:
 
 <table>
-<tr><th>États parties</th><th colspan="3">Ratification Adhésion (A) Succession (S)</th><th colspan="3">Entrée en vigueur</th></tr>
-<tr><td colspan="2">Albanie\*</td><td>1<sup>er</sup> novembre</td><td>2006 A</td><td>1<sup>er</sup> juillet</td><td colspan="2">2007</td></tr>
-<tr><td colspan="2">Allemagne\*</td><td>27 avril</td><td>1979</td><td>26 juin</td><td colspan="2">1979</td></tr>
-<tr><td colspan="2">Andorre\*</td><td>26 avril</td><td>2017 A</td><td>1<sup>er</sup> décembre</td><td colspan="2">2017</td></tr>
-<tr><td colspan="2">Antigua-et-Barbuda\*</td><td>17 mai</td><td>1985 S</td><td>1<sup>er</sup> novembre</td><td colspan="2">1981</td></tr>
-<tr><td colspan="2">Argentine\*</td><td>2 février</td><td>2001 A</td><td>1<sup>er</sup> décembre</td><td colspan="2">2001</td></tr>
-<tr><td colspan="2">Arménie</td><td>27 juin</td><td>2012 A</td><td>1<sup>er</sup> février</td><td colspan="2">2013</td></tr>
-<tr><td colspan="2">Australie\*</td><td>15 mars</td><td>2010 A</td><td>1<sup>er</sup> novembre</td><td colspan="2">2010</td></tr>
-<tr><td colspan="2">Île Christmas</td><td>12 août</td><td>2010</td><td>1<sup>er</sup> novembre</td><td colspan="2">2010</td></tr>
-<tr><td colspan="2">Île Norfolk</td><td>12 août</td><td>2010</td><td>1<sup>er</sup> novembre</td><td colspan="2">2010</td></tr>
-<tr><td colspan="2">Îles Ashmore et Cartier</td><td>12 août</td><td>2010</td><td>1<sup>er</sup> novembre</td><td colspan="2">2010</td></tr>
-<tr><td colspan="2">Îles Cocos</td><td>12 août</td><td>2010</td><td>1<sup>er</sup> novembre</td><td colspan="2">2010</td></tr>
-<tr><td colspan="2">Territoire antarctique australien</td><td>12 août</td><td>2010</td><td>1<sup>er</sup> novembre</td><td colspan="2">2010</td></tr>
-<tr><td colspan="2">Territoire de l’Île de Heard et des Îles Mc Donald</td><td>12 août</td><td>2010</td><td>1<sup>er</sup> novembre</td><td colspan="2">2010</td></tr>
-<tr><td colspan="2">Territoire des Îles de la mer de Corail</td><td>12 août</td><td>2010</td><td>1<sup>er</sup> novembre</td><td colspan="2">2010</td></tr>
-<tr><td colspan="2">Bahamas\*</td><td>17 juin</td><td>1997 A</td><td>1<sup>er</sup> février</td><td colspan="2">1998</td></tr>
-<tr><td colspan="2">Barbade\*</td><td>27 septembre</td><td>1969 A</td><td>1<sup>er</sup> octobre</td><td colspan="2">1969</td></tr>
-<tr><td colspan="2">Bélarus\*</td><td>6 juin</td><td>1997 A</td><td>1<sup>er</sup> février</td><td colspan="2">1998</td></tr>
-<tr><td colspan="2">Belgique\*</td><td>19 novembre</td><td>1970</td><td>18 janvier</td><td colspan="2">1971</td></tr>
-<tr><td colspan="2">Belize</td><td>8 septembre</td><td>2009 A</td><td>1<sup>er</sup> mai</td><td colspan="2">2010</td></tr>
-<tr><td colspan="2">Bosnie et Herzégovine\*</td><td>16 juin</td><td>2008 A</td><td>1<sup>er</sup> février</td><td colspan="2">2009</td></tr>
-<tr><td colspan="2">Botswana\*</td><td>28 août</td><td>1969 A</td><td>1<sup>er</sup> septembre</td><td colspan="2">1969</td></tr>
-<tr><td colspan="2">Brésil\*</td><td>29 novembre</td><td>2018 A</td><td>1<sup>er</sup> juin</td><td colspan="2">2019</td></tr>
-<tr><td colspan="2">Bulgarie\*</td><td>23 novembre</td><td>1999 A</td><td>1<sup>er</sup> août</td><td colspan="2">2000</td></tr>
-<tr><td colspan="2">Canada\*</td><td>10 avril</td><td>1989 A</td><td>1<sup>er</sup> mai</td><td colspan="2">1989</td></tr>
-<tr><td colspan="2">Chine\*</td><td>6 mai</td><td>1991 A</td><td>1<sup>er</sup> janvier</td><td colspan="2">1992</td></tr>
-<tr><td colspan="2">Hong Kong\* <sup>a</sup></td><td>16 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td colspan="2">1997</td></tr>
-<tr><td colspan="2">Macao\* <sup>b</sup></td><td>10 décembre</td><td>1999</td><td>20 décembre</td><td colspan="2">1999</td></tr>
-<tr><td colspan="2">Chypre\*</td><td>15 mai</td><td>1983 A</td><td>1<sup>er</sup> juin</td><td colspan="2">1983</td></tr>
-<tr><td colspan="2">Colombie<sup>\*</sup></td><td>10 avril</td><td>2013 A</td><td>1<sup>er</sup> novembre</td><td colspan="2">2013</td></tr>
-<tr><td colspan="2">Corée (Sud)\*</td><td>13 janvier</td><td>2000 A</td><td>1<sup>er</sup> août</td><td colspan="2">2000</td></tr>
-<tr><td colspan="2">Costa Rica</td><td>16 mars</td><td>2016 A</td><td>1<sup>er</sup> octobre</td><td colspan="2">2016</td></tr>
-<tr><td colspan="2">Croatie\*</td><td>28 février</td><td>2006 A</td><td>1<sup>er</sup> novembre</td><td colspan="2">2006</td></tr>
-<tr><td colspan="2">Danemark\*</td><td>2 août</td><td>1969</td><td>1<sup>er</sup> octobre</td><td colspan="2">1969</td></tr>
-<tr><td colspan="2">Égypte\*</td><td>12 décembre</td><td>1968</td><td>10 février</td><td colspan="2">1969</td></tr>
-<tr><td colspan="2">Espagne\* \*\*</td><td>4 juin</td><td>1987</td><td>3 août</td><td colspan="2">1987</td></tr>
-<tr><td colspan="2">Estonie\*</td><td>2 février</td><td>1996 A</td><td>1<sup>er</sup> octobre</td><td colspan="2">1996</td></tr>
-<tr><td colspan="2">États-Unis\*</td><td>24 août</td><td>1967</td><td>10 février</td><td colspan="2">1969</td></tr>
-<tr><td colspan="2">Commonwealth des Îles Mariannes du Nord</td><td>31 mars</td><td>1994</td><td>30 mai</td><td colspan="2">1994</td></tr>
-<tr><td colspan="2">Finlande\*</td><td>11 septembre</td><td>1969</td><td>10 novembre</td><td colspan="2">1969</td></tr>
-<tr><td colspan="2">France\*</td><td>3 juillet</td><td>1972</td><td>1<sup>er</sup> septembre</td><td colspan="2">1972</td></tr>
-<tr><td colspan="2">Grèce\*</td><td>20 juillet</td><td>1983</td><td>18 septembre</td><td colspan="2">1983</td></tr>
-<tr><td colspan="2">Hongrie\*</td><td>13 juillet</td><td>2004 A</td><td>1<sup>er</sup> avril</td><td colspan="2">2005</td></tr>
-<tr><td colspan="2">Inde\*</td><td>23 novembre</td><td>2006 A</td><td>1<sup>er</sup> août</td><td colspan="2">2007</td></tr>
-<tr><td colspan="2">Irlande\*</td><td>5 avril</td><td>1994</td><td>4 juin</td><td colspan="2">1994</td></tr>
-<tr><td colspan="2">Islande\*</td><td>10 novembre</td><td>2008 A</td><td>1<sup>er</sup> juillet</td><td colspan="2">2009</td></tr>
-<tr><td colspan="2">Israël\*</td><td>14 août</td><td>1972</td><td>13 octobre</td><td colspan="2">1972</td></tr>
-<tr><td colspan="2">Italie\*</td><td>25 novembre</td><td>1981</td><td>24 janvier</td><td colspan="2">1982</td></tr>
-<tr><td colspan="2">Japon\*</td><td>28 mai</td><td>1970</td><td>27 juillet</td><td colspan="2">1970</td></tr>
-<tr><td colspan="2">Kazakhstan\*</td><td>15 octobre</td><td>2015 A</td><td>1<sup>er</sup> juin</td><td colspan="2">2016</td></tr>
-<tr><td colspan="2">Koweït\*</td><td>8 mai</td><td>2002 A</td><td>1<sup>er</sup> décembre</td><td colspan="2">2002</td></tr>
-<tr><td colspan="2">Lettonie\*</td><td>28 mars</td><td>1995 A</td><td>1<sup>er</sup> novembre</td><td colspan="2">1995</td></tr>
-<tr><td colspan="2">Lituanie\*</td><td>2 août</td><td>2000 A</td><td>1<sup>er</sup> juin</td><td colspan="2">2001</td></tr>
-<tr><td colspan="2">Luxembourg\*</td><td>9 juillet</td><td>1975</td><td>7 septembre</td><td colspan="2">1975</td></tr>
-<tr><td colspan="2">Macédoine du Nord\*</td><td>23 décembre</td><td>2008 A</td><td>1<sup>er</sup> septembre</td><td colspan="2">2009</td></tr>
-<tr><td colspan="2">Malawi</td><td>25 novembre</td><td>1972 A</td><td>1<sup>er</sup> décembre</td><td colspan="2">1972</td></tr>
-<tr><td colspan="2">Malte\* <sup>c</sup></td><td>24 février</td><td>2011 A</td><td>1<sup>er</sup> octobre</td><td colspan="2">2011</td></tr>
-<tr><td colspan="2">Maroc\*</td><td>24 mars</td><td>2011 A</td><td>1<sup>er</sup> novembre</td><td colspan="2">2011</td></tr>
-<tr><td colspan="2">Mexique\*</td><td>30 mai</td><td>2000 A</td><td>1<sup>er</sup> juin</td><td colspan="2">2000</td></tr>
-<tr><td colspan="2">Moldova\*</td><td>4 juillet</td><td>2012 A</td><td>1<sup>er</sup> février</td><td colspan="2">2013</td></tr>
-<tr><td colspan="2">Monaco\*</td><td>1<sup>er</sup> mars</td><td>2007 A</td><td colspan="2">1<sup>er</sup> novembre</td><td>2007</td></tr>
-<tr><td colspan="2">Monténégro\*</td><td>16 janvier</td><td>2012 A</td><td colspan="2">1<sup>er</sup> septembre</td><td>2012</td></tr>
-<tr><td colspan="2">Nicaragua\*</td><td>24 juillet</td><td>2019 A</td><td colspan="2">1<sup>er</sup> février</td><td>2020</td></tr>
-<tr><td colspan="2">Norvège\*</td><td>2 août</td><td>1969</td><td>1<sup>er</sup> octobre</td><td colspan="2">1969</td></tr>
-<tr><td colspan="2">Pakistan\*</td><td>6 juillet</td><td>1989 A</td><td>1<sup>er</sup> août</td><td colspan="2">1989</td></tr>
-<tr><td colspan="2">Pays-Bas\*</td><td>3 novembre</td><td>1975</td><td>2 janvier</td><td colspan="2">1976</td></tr>
-<tr><td colspan="2">[tab] Aruba\*</td><td>28 mai</td><td>1986</td><td>27 juillet</td><td colspan="2">1986</td></tr>
-<tr><td colspan="2">Pologne\*</td><td>13 février</td><td>1996 A</td><td>1<sup>er</sup> septembre</td><td colspan="2">1996</td></tr>
-<tr><td colspan="2">Portugal\*</td><td>27 décembre</td><td>1973</td><td>25 février</td><td colspan="2">1974</td></tr>
-<tr><td colspan="2">République tchèque\*</td><td>28 janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td colspan="2">1993</td></tr>
-<tr><td colspan="2">Roumanie\*</td><td>21 août</td><td>2003 A</td><td>1<sup>er</sup> avril</td><td colspan="2">2004</td></tr>
-<tr><td colspan="2">Royaume-Uni\*</td><td>17 novembre</td><td>1967</td><td>10 février</td><td colspan="2">1969</td></tr>
-<tr><td colspan="2">[tab] Jersey, Guernesey,</td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab] Île de Man, Bermudes,</td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab] Îles Vierges britanniques,</td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab] Îles Cayman, Îles Falkland,</td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab] Gibraltar, Montserrat,</td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab] Îles Pitcairn, Sainte-Hélène,</td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab] Îles Turques et Caïques</td><td>20 mai</td><td>1970</td><td>19 juillet</td><td colspan="2">1970</td></tr>
-<tr><td colspan="2">[tab] Anguilla</td><td>30 juillet</td><td>1982</td><td>28 septembre</td><td colspan="2">1982</td></tr>
-<tr><td colspan="2">Russie\*</td><td>1<sup>er</sup> mai</td><td>2001 A</td><td>1<sup>er</sup> décembre</td><td colspan="2">2001</td></tr>
-<tr><td colspan="2">Saint-Marin\*</td><td>15 avril</td><td>2002 A</td><td>1<sup>er</sup> novembre</td><td colspan="2">2002</td></tr>
-<tr><td colspan="2">[tab] Saint-Vincent-et-les Grenadines\*</td><td>6 janvier</td><td>2005 S</td><td>27 octobre</td><td colspan="2">1979</td></tr>
-<tr><td colspan="2">Serbie\*</td><td>2 juillet</td><td>2010 A</td><td>1<sup>er</sup> février</td><td colspan="2">2011</td></tr>
-<tr><td colspan="2">Seychelles\*</td><td>18 juin</td><td>1981 A</td><td>1<sup>er</sup> juillet</td><td colspan="2">1981</td></tr>
-<tr><td colspan="2">Slovaquie\*</td><td>26 avril</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td colspan="2">1993</td></tr>
-<tr><td colspan="2">Slovénie\*</td><td>18 septembre</td><td>2000 A</td><td>1<sup>er</sup> juin</td><td colspan="2">2001</td></tr>
-<tr><td colspan="2">Sri Lanka\*</td><td>30 août</td><td>2000 A</td><td>1<sup>er</sup> juin</td><td colspan="2">2001</td></tr>
-<tr><td colspan="2">Suède\*</td><td>2 août</td><td>1969</td><td>1<sup>er</sup> octobre</td><td colspan="2">1969</td></tr>
-<tr><td colspan="2">Suisse\*</td><td>2 novembre</td><td>1994</td><td>1<sup>er</sup> janvier</td><td colspan="2">1995</td></tr>
-<tr><td colspan="2">Tunisie\*</td><td>10 juillet</td><td>2017 A</td><td>1<sup>er</sup> février</td><td colspan="2">2018</td></tr>
-<tr><td colspan="2">Turquie\*</td><td>28 février</td><td>1972</td><td>28 avril</td><td colspan="2">1972</td></tr>
-<tr><td colspan="2">Ukraine\*</td><td>1<sup>er</sup> février</td><td>2001 A</td><td>1<sup>er</sup> décembre</td><td colspan="2">2001</td></tr>
-<tr><td colspan="2">Venezuela\*</td><td>29 octobre</td><td>1993 A</td><td>1<sup>er</sup> juillet</td><td colspan="2">1994</td></tr>
-<tr><td colspan="2">Vietnam\*</td><td>16 mars</td><td>2016 A</td><td>1<sup>er</sup> octobre</td><td colspan="2">2016</td></tr>
-<tr><td colspan="7">\* Réserves et déclarations. \*\* Objection. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de la Conférence de La Haye: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="7"><sup>a</sup> Jusqu’au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration sino-britannique du 19 déc. 1984, les accords qui étaient applicables à Hong Kong avant sa rétrocession à la République populaire de Chine demeurent applicables à la RAS.</td></tr>
-<tr><td colspan="7"><sup>b</sup> Du 11 fév. 1999 au 19 déc. 1999, la convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. A partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 avril 1987, la convention est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
-<tr><td colspan="7"><sup>c</sup> Le 1<sup>er</sup> août 2012 Malte a déclaré que son adhésion à la Convention ne sera effective qu’après l’accomplissement des procédures relatives à ladite adhésion au sein de l’UE et, en particulier, l’adoption d’une décision du Conseil autorisant Malte à adhérer à la Convention. Le 10 mars 2016 cette décision a été adoptée, Malte a notifié au dépositaire la date du 18 juillet 2018 à laquelle ladite Convention s’applique à Malte.</td></tr>
+<tr><td><sup>1</sup></td><td>S’il y a lieu, identité et adresse de la personne intéressée à la transmission de l’acte.</td></tr>
+<tr><td><sup>2</sup></td><td>Rayer les mentions inutiles.</td></tr>
 </table>
 
-[^t-2]: [RO 1995 934](https://fedlex.data.admin.ch/eli/oc/1995/934_934_934), [2003 733](https://fedlex.data.admin.ch/eli/oc/2003/143), [2006 2117](https://fedlex.data.admin.ch/eli/oc/2006/341), [2009 3639](https://fedlex.data.admin.ch/eli/oc/2009/455), [2011 2291](https://fedlex.data.admin.ch/eli/oc/2011/317), [2014 397](https://fedlex.data.admin.ch/eli/oc/2014/61)[581](https://fedlex.data.admin.ch/eli/oc/2014/123), [2019 1137](https://fedlex.data.admin.ch/eli/oc/2019/216), [2020 3473](https://fedlex.data.admin.ch/eli/oc/2020/600). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+Champ d’application le 12 juin 2023[^t-2]
+
+<table>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Albanie</td><td>1<sup>er</sup> novembre</td><td>2006 A</td><td>1<sup>er</sup> juillet</td><td>2007</td></tr>
+<tr><td>Allemagne<sup>\*</sup></td><td>27 avril</td><td>1979</td><td>26 juin</td><td>1979</td></tr>
+<tr><td>Andorre<sup>\*</sup></td><td>26 avril</td><td>2017 A</td><td>1<sup>er</sup> décembre</td><td>2017</td></tr>
+<tr><td>Antigua-et-Barbuda</td><td>17 mai</td><td>1985 S</td><td>1<sup>er</sup> novembre</td><td>1981</td></tr>
+<tr><td>Argentine<sup>\*</sup></td><td>2 février</td><td>2001 A</td><td>1<sup>er</sup> décembre</td><td>2001</td></tr>
+<tr><td>Arménie</td><td>27 juin</td><td>2012 A</td><td>1<sup>er</sup> février</td><td>2013</td></tr>
+<tr><td>Australie<sup>\*</sup></td><td>15 mars</td><td>2010 A</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
+<tr><td>Territoire antarctique australien</td><td>12 août</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
+<tr><td>Territoire de l’Île de Heard et des Îles Mc Donald</td><td>12 août</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
+<tr><td>Territoire des Îles de la mer de Corail</td><td>12 août</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
+<tr><td>Île Christmas</td><td>12 août</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
+<tr><td>Île Norfolk</td><td>12 août</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
+<tr><td>Îles Ashmore et Cartier</td><td>12 août</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
+<tr><td>Îles Cocos</td><td>12 août</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
+<tr><td>Autriche<sup>\*</sup></td><td>14 juillet</td><td>2020</td><td>12 septembre</td><td>2020</td></tr>
+<tr><td>Azerbaïdjan<sup>\*</sup></td><td>17 février</td><td>2023 A</td><td>1<sup>er</sup> septembre</td><td>2023</td></tr>
+<tr><td>Bahamas</td><td>17 juin</td><td>1997 A</td><td>1<sup>er</sup> février</td><td>1998</td></tr>
+<tr><td>Barbade</td><td>10 février</td><td>1969 A</td><td>1<sup>er</sup> octobre</td><td>1969</td></tr>
+<tr><td>Belgique\*</td><td>19 novembre</td><td>1970</td><td>18 janvier</td><td>1971</td></tr>
+<tr><td>Belize</td><td>8 septembre</td><td>2009 A</td><td>1<sup>er</sup> mai</td><td>2010</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>16 juin</td><td>2008 A</td><td>1<sup>er</sup> février</td><td>2009</td></tr>
+<tr><td>Botswana\*</td><td>10 février</td><td>1969 A</td><td>1<sup>er</sup> septembre</td><td>1969</td></tr>
+<tr><td>Brésil\*</td><td>29 novembre</td><td>2018 A</td><td>1<sup>er</sup> juin</td><td>2019</td></tr>
+<tr><td>Bulgarie\*</td><td>23 novembre</td><td>1999 A</td><td>1<sup>er</sup> août</td><td>2000</td></tr>
+<tr><td>Bélarus</td><td>6 juin</td><td>1997 A</td><td>1<sup>er</sup> février</td><td>1998</td></tr>
+<tr><td>Canada\*</td><td>26 septembre</td><td>1988 A</td><td>1<sup>er</sup> mai</td><td>1989</td></tr>
+<tr><td>Chine\*</td><td>6 mai</td><td>1991 A</td><td>1<sup>er</sup> janvier</td><td>1992</td></tr>
+<tr><td>Hong Kong\*</td><td>16 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Macao\*</td><td>10 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
+<tr><td>Chypre\*</td><td>26 octobre</td><td>1982 A</td><td>1<sup>er</sup> juin</td><td>1983</td></tr>
+<tr><td>Colombie\*</td><td>10 avril</td><td>2013 A</td><td>1<sup>er</sup> novembre</td><td>2013</td></tr>
+<tr><td>Corée (Sud)\*</td><td>13 janvier</td><td>2000 A</td><td>1<sup>er</sup> août</td><td>2000</td></tr>
+<tr><td>Costa Rica</td><td>16 mars</td><td>2016 A</td><td>1<sup>er</sup> octobre</td><td>2016</td></tr>
+<tr><td>Croatie\*</td><td>28 février</td><td>2006 A</td><td>1<sup>er</sup> novembre</td><td>2006</td></tr>
+<tr><td>Danemark\*</td><td>2 août</td><td>1969</td><td>1<sup>er</sup> octobre</td><td>1969</td></tr>
+<tr><td>Espagne\* \*\*</td><td>4 juin</td><td>1987</td><td>3 août</td><td>1987</td></tr>
+<tr><td>Estonie\*</td><td>2 février</td><td>1996 A</td><td>1<sup>er</sup> octobre</td><td>1996</td></tr>
+<tr><td>Égypte\*</td><td>12 décembre</td><td>1968</td><td>10 février</td><td>1969</td></tr>
+<tr><td>États-Unis\*</td><td>24 août</td><td>1967</td><td>10 février</td><td>1969</td></tr>
+<tr><td>Commonwealth des Îles Mariannes du Nord</td><td>31 mars</td><td>1994</td><td>30 mai</td><td>1994</td></tr>
+<tr><td>Guam</td><td>24 août</td><td>1967</td><td>10 février</td><td>1969</td></tr>
+<tr><td>Porto Rico</td><td>24 août</td><td>1967</td><td>10 février</td><td>1969</td></tr>
+<tr><td>Îles Vierges américaines</td><td>24 août</td><td>1967</td><td>10 février</td><td>1969</td></tr>
+<tr><td>Finlande\*</td><td>11 septembre</td><td>1969</td><td>10 novembre</td><td>1969</td></tr>
+<tr><td>France\*</td><td>3 juillet</td><td>1972</td><td>1<sup>er</sup> septembre</td><td>1972</td></tr>
+<tr><td>Tous les territoires de la République française</td><td>3 juillet</td><td>1972</td><td>1<sup>er</sup> septembre</td><td>1972</td></tr>
+<tr><td>Grèce\*</td><td>20 juillet</td><td>1983</td><td>18 septembre</td><td>1983</td></tr>
+<tr><td>Géorgie\*</td><td>31 mai</td><td>2021 A</td><td>1<sup>er</sup> janvier</td><td>2022</td></tr>
+<tr><td>Hongrie\*</td><td>13 juillet</td><td>2004 A</td><td>1<sup>er</sup> avril</td><td>2005</td></tr>
+<tr><td>Inde\*</td><td>23 novembre</td><td>2006 A</td><td>1<sup>er</sup> août</td><td>2007</td></tr>
+<tr><td>Irlande\*</td><td>5 avril</td><td>1994</td><td>4 juin</td><td>1994</td></tr>
+<tr><td>Islande\*</td><td>10 novembre</td><td>2008 A</td><td>1<sup>er</sup> juillet</td><td>2009</td></tr>
+<tr><td>Israël\*</td><td>14 août</td><td>1972</td><td>13 octobre</td><td>1972</td></tr>
+<tr><td>Italie\*</td><td>25 novembre</td><td>1981</td><td>24 janvier</td><td>1982</td></tr>
+<tr><td>Îles Marshall\*</td><td>29 juillet</td><td>2020 A</td><td>1<sup>er</sup> février</td><td>2021</td></tr>
+<tr><td>Japon\*</td><td>28 mai</td><td>1970</td><td>27 juillet</td><td>1970</td></tr>
+<tr><td>Kazakhstan\*</td><td>15 octobre</td><td>2015 A</td><td>1<sup>er</sup> juin</td><td>2016</td></tr>
+<tr><td>Koweït\*</td><td>8 mai</td><td>2002 A</td><td>1<sup>er</sup> décembre</td><td>2002</td></tr>
+<tr><td>Lettonie\*</td><td>28 mars</td><td>1995 A</td><td>1<sup>er</sup> novembre</td><td>1995</td></tr>
+<tr><td>Lituanie\*</td><td>2 août</td><td>2000 A</td><td>1<sup>er</sup> juin</td><td>2001</td></tr>
+<tr><td>Luxembourg\*</td><td>9 juillet</td><td>1975</td><td>7 septembre</td><td>1975</td></tr>
+<tr><td>Macédoine du Nord\*</td><td>23 décembre</td><td>2008 A</td><td>1<sup>er</sup> septembre</td><td>2009</td></tr>
+<tr><td>Malawi</td><td>24 avril</td><td>1972 A</td><td>1<sup>er</sup> décembre</td><td>1972</td></tr>
+<tr><td>Malte\*</td><td>24 février</td><td>2011 A</td><td>1<sup>er</sup> octobre</td><td>2011</td></tr>
+<tr><td>Maroc</td><td>24 mars</td><td>2011 A</td><td>1<sup>er</sup> novembre</td><td>2011</td></tr>
+<tr><td>Mexique\*</td><td>2 novembre</td><td>1999 A</td><td>1<sup>er</sup> juin</td><td>2000</td></tr>
+<tr><td>Moldova\*</td><td>4 juillet</td><td>2012 A</td><td>1<sup>er</sup> février</td><td>2013</td></tr>
+<tr><td>Monaco\*</td><td>1<sup>er</sup> mars</td><td>2007 A</td><td>1<sup>er</sup> novembre</td><td>2007</td></tr>
+<tr><td>Monténégro\*</td><td>16 janvier</td><td>2012 A</td><td>1<sup>er</sup> septembre</td><td>2012</td></tr>
+<tr><td>Nicaragua\*</td><td>24 juillet</td><td>2019 A</td><td>1<sup>er</sup> février</td><td>2020</td></tr>
+<tr><td>Norvège\*</td><td>2 août</td><td>1969</td><td>1<sup>er</sup> octobre</td><td>1969</td></tr>
+<tr><td>Pakistan\*</td><td>6 juillet</td><td>1989 A</td><td>1<sup>er</sup> août</td><td>1989</td></tr>
+<tr><td>Pays-Bas\*</td><td>3 novembre</td><td>1975</td><td>2 janvier</td><td>1976</td></tr>
+<tr><td>Aruba</td><td>3 novembre</td><td>1975</td><td>2 janvier</td><td>1976</td></tr>
+<tr><td>Philippines\*</td><td>4 mars</td><td>2020 A</td><td>1<sup>er</sup> octobre</td><td>2020</td></tr>
+<tr><td>Pologne\*</td><td>13 février</td><td>1996 A</td><td>1<sup>er</sup> septembre</td><td>1996</td></tr>
+<tr><td>Portugal\*</td><td>27 décembre</td><td>1973</td><td>25 février</td><td>1974</td></tr>
+<tr><td>Roumanie\*</td><td>21 août</td><td>2003 A</td><td>1<sup>er</sup> avril</td><td>2004</td></tr>
+<tr><td>Royaume-Uni\*</td><td>17 novembre</td><td>1967</td><td>10 février</td><td>1969</td></tr>
+<tr><td>Anguilla</td><td>30 juillet</td><td>1982</td><td>28 septembre</td><td>1982</td></tr>
+<tr><td>Bermudes</td><td>20 mai</td><td>1970</td><td>19 juillet</td><td>1970</td></tr>
+<tr><td>Gibraltar</td><td>20 mai</td><td>1970</td><td>19 juillet</td><td>1970</td></tr>
+<tr><td>Guernesey</td><td>20 mai</td><td>1970</td><td>19 juillet</td><td>1970</td></tr>
+<tr><td>Jersey</td><td>20 mai</td><td>1970</td><td>19 juillet</td><td>1970</td></tr>
+<tr><td>Montserrat</td><td>20 mai</td><td>1970</td><td>19 juillet</td><td>1970</td></tr>
+<tr><td>Sainte-Hélène</td><td>20 mai</td><td>1970</td><td>19 juillet</td><td>1970</td></tr>
+<tr><td>Île de Man</td><td>20 mai</td><td>1970</td><td>19 juillet</td><td>1970</td></tr>
+<tr><td>Îles Cayman</td><td>20 mai</td><td>1970</td><td>19 juillet</td><td>1970</td></tr>
+<tr><td>Îles Falkland</td><td>20 mai</td><td>1970</td><td>19 juillet</td><td>1970</td></tr>
+<tr><td>Îles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td>20 mai</td><td>1970</td><td>19 juillet</td><td>1970</td></tr>
+<tr><td>Îles Turques et Caïques</td><td>20 mai</td><td>1970</td><td>19 juillet</td><td>1970</td></tr>
+<tr><td>Îles Vierges britanniques</td><td>20 mai</td><td>1970</td><td>19 juillet</td><td>1970</td></tr>
+<tr><td>Russie\*</td><td>1<sup>er</sup> mai</td><td>2001 A</td><td>1<sup>er</sup> décembre</td><td>2001</td></tr>
+<tr><td>République tchèque\*</td><td>28 janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Saint-Marin\*</td><td>15 avril</td><td>2002 A</td><td>1<sup>er</sup> novembre</td><td>2002</td></tr>
+<tr><td>Saint-Vincent-et-les Grenadines\*</td><td>6 janvier</td><td>2005 S</td><td>27 octobre</td><td>1979</td></tr>
+<tr><td>Serbie\*</td><td>2 juillet</td><td>2010 A</td><td>1<sup>er</sup> février</td><td>2011</td></tr>
+<tr><td>Seychelles\*</td><td>18 novembre</td><td>1980 A</td><td>1<sup>er</sup> juillet</td><td>1981</td></tr>
+<tr><td>Slovaquie\*</td><td>26 avril</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Slovénie\*</td><td>18 septembre</td><td>2000 A</td><td>1<sup>er</sup> juin</td><td>2001</td></tr>
+<tr><td>Sri Lanka\*</td><td>31 août</td><td>2000 A</td><td>1<sup>er</sup> juin</td><td>2001</td></tr>
+<tr><td>Suisse\*</td><td>2 novembre</td><td>1994</td><td>1<sup>er</sup> janvier</td><td>1995</td></tr>
+<tr><td>Suède\*</td><td>2 août</td><td>1969</td><td>1<sup>er</sup> octobre</td><td>1969</td></tr>
+<tr><td>Tunisie\*</td><td>10 juillet</td><td>2017 A</td><td>1<sup>er</sup> février</td><td>2018</td></tr>
+<tr><td>Turquie\*</td><td>28 février</td><td>1972</td><td>28 avril</td><td>1972</td></tr>
+<tr><td>Ukraine\*</td><td>1<sup>er</sup> février</td><td>2001 A</td><td>1<sup>er</sup> décembre</td><td>2001</td></tr>
+<tr><td>Venezuela\*</td><td>29 octobre</td><td>1993 A</td><td>1<sup>er</sup> juillet</td><td>1994</td></tr>
+<tr><td>Vietnam\*</td><td>16 mars</td><td>2016 A</td><td>1<sup>er</sup> octobre</td><td>2016</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les déclarations des États parties concernant les autorités centrales, selon les art. 2 et 18 de la Convention, ne sont pas mentionnées dans ce champ d’application. \*\* Objections. Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement des Pays-Bas: [[www.overheid.nl](https://www.overheid.nl/) &gt; English &gt; Treaty Database &gt; 004235](https://treatydatabase.overheid.nl/en/Treaty/Details/004235) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+</table>
+
+[^t-2]: [RO 2023 295](https://fedlex.data.admin.ch/eli/oc/2023/295). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Réserves et déclarations
 
-## Suisse****
+## Suisse
 
 [^declu2-lvlu1-1]
 
@@ -524,7 +542,7 @@ Conformément à l’art. 21, al. 2, lettre a, la Suisse déclare s’opposer à
 
 Conformément à l’art. 21, al. 1, let. c, la Suisse désigne les autorités centrales cantonales en tant qu’autorités compétentes pour recevoir les actes transmis par la voie consulaire selon l’art. 9 de la convention.
 
-## Liste des autorités suisses****
+## Liste des autorités suisses
 
 [^declu2-lvlu2-1]
 
@@ -532,7 +550,7 @@ Conformément à l’art. 21, al. 1, let. c, la Suisse désigne les autorités c
 
 ### a) Autorités centrales cantonales
 
-Une liste mise à jour des autorités centrales cantonales avec leurs coordonnées peut être consultée en ligne à l’adresse suivante: https://www.rhf.admin.ch &gt; Droit civil &gt; autorités &gt; Liste des autorités centrales cantonales
+Une liste mise à jour des autorités centrales cantonales avec leurs coordonnées peut être consultée en ligne à l’adresse suivante: [www.rhf.admin.ch](https://www.rhf.admin.ch) &gt; Droit civil &gt; autorités &gt; Liste des autorités centrales cantonales
 
 ### b) Autorités fédérales
 

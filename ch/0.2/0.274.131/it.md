@@ -3,11 +3,11 @@ sr: "0.274.131"
 title: "Convenzione del 15 novembre 1965 relativa alla notificazione e alla comunicazione all'estero degli atti giudiziari e extragiudiziari in materia civile o commerciale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2809_2809_2809"
 language: it
-version: 2020-07-13
+version: 2023-06-12
 adopted: 1965-11-15
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2809_2809_2809/20200713/it/xml/fedlex-data-admin-ch-eli-cc-1994-2809_2809_2809-20200713-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2809_2809_2809/20200713/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2809_2809_2809/20230612/it/xml/fedlex-data-admin-ch-eli-cc-1994-2809_2809_2809-20230612-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2809_2809_2809/20230612/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1994** 2809, **1995** 934; FF **1993** III 1005
 
 Traduzione
 
-Conclusa all’Aja il 15 novembre 1965
+Conclusa all’Aja il 15 novembre 1965 Approvata dall’Assemblea federale il 9 giugno 1994[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 2 novembre 1994 Entrata in vigore per la Svizzera il 1° gennaio 1995
 
-Approvata dall’Assemblea federale il 9 giugno 1994[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 2 novembre 1994
-
-Entrata in vigore per la Svizzera il 1° gennaio 1995
-
-(Stato 13 luglio 2020)
+(Stato 12 giugno 2023)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 9 giu. 1994 ([RU 1994 2807](https://fedlex.data.admin.ch/eli/oc/1994/2807_2807_2807)).
 
@@ -289,13 +283,9 @@ Modulo di domanda e di attestazione
 
 Annexe Formules de demande et d’attestation
 
-## Domanda ai fini della notifica o della comunicazione all’estero di un atto giudiziario o extragiudiziario
+## Domanda ai fini della notifica o della comunicazione all’estero di un atto giudiziario o extragiudiziario *Demande* *aux fins de signification ou de notification à l**’**étranger d**’**un acte* *judici**aire ou extrajudiciaire*
 
-## Demande aux fins de signification ou de notification à l’étranger d’un acte judiciaire ou extrajudiciaire
-
-Convenzione relativa alla notificazione ed alla comunicazione all’estero degli atti giudiziari o extragiudiziari in materia civile o commerciale, firmata all’Aja il 15 novembre 1965
-
-Convention relative à la signification et à la notification à l’étranger des actes judiciaires et extrajudiciaires en matière civile ou commerciale, signée à La Haye, le 15 novembre 1965
+Convenzione relativa alla notificazione ed alla comunicazione all’estero degli atti giudiziari o extragiudiziari in materia civile o commerciale, firmata all’Aja il 15 novembre 1965 *Convention relative à la signification et à la notification à l**’**étranger des actes judiciaires et extrajudiciaires en matière civile ou commerciale, signée à La Haye, le 15 novembre 1965*
 
 <table>
 <tr><td>Identità e indirizzo del richiedente Identité et adresse du requérant</td><td></td><td>Indirizzo dell’autorità destinataria Adresse de l’autorité destinataire</td></tr>
@@ -309,76 +299,82 @@ Le requérant soussigné a l’honneur de faire parvenir – en double exemplair
 
 *(identité et adresse)*
 
-a) secondo le forme di legge (art. 5 comma 1 lett. a)[^annexu1-lvlu2-1].
+- a) secondo le forme di legge (art. 5 comma 1 lett. a) <sup>1</sup>.
 
-selon les formes légales (art. 5, alinéa premier, let. a<sup>7</sup>.
+selon les formes légales (art. 5, alinéa premier, let. a<sup>1</sup>.
 
-b) secondo la forma particolare seguente (art. 5 comma 1 lett. b)<sup>7</sup>.
+- b) secondo la forma particolare seguente (art. 5 comma 1 lett. b)<sup>1</sup>:
 
-selon la forme particulière suivante (art. 5, alinéa premier, let. b)<sup>7</sup>.
+selon la forme particulière suivante (art. 5, alinéa premier, let. b)<sup>1</sup>:
 
-c) se del caso, mediante semplice consegna (art. 5 comma 2)<sup>7</sup>.
+- c) se del caso, mediante semplice consegna (art. 5 comma 2)<sup>1</sup>.
 
-le cas échéant, par remise simple (art. 5, al. 2)<sup>7</sup>.
+le cas échéant, par remise simple (art. 5, al. 2)<sup>1</sup>.
 
-Detta autorità è pregata di restituire o far restituire al richiedente un esemplare dell’atto – e relativi allegati<sup>7</sup> – con l’attestazione che figura sul verso.
+Detta autorità è pregata di restituire o far restituire al richiedente un esemplare dell’atto – e relativi allegati<sup>1</sup> – con l’attestazione che figura sul verso.
 
-Cette autorité est priée de renvoyer ou de faire renvoyer au requérant un exemplaire de l’acte – et de ses annexes<sup>7</sup> – avec l’attestation figurant au verso.
+Cette autorité est priée de renvoyer ou de faire renvoyer au requérant un exemplaire de l’acte – et de ses annexes<sup>1</sup> – avec l’attestation figurant au verso.
 
 Elenco degli atti
 
 *Enumération des pièces*
 
 <table>
-<tr><td></td><td>Fatto a ........................................ , il ..................</td></tr>
-<tr><td></td><td>Fait à ........................................ , le ....................</td></tr>
-<tr><td></td><td>Firma e/o timbro</td></tr>
-<tr><td></td><td>Signature et/ou cachet</td></tr>
+<tr><td></td><td colspan="2">Fatto a ...................................... , il ...............................</td></tr>
+<tr><td></td><td colspan="2">Fait à ....................................... , le ...............................</td></tr>
+<tr><td></td><td colspan="2">Firma e/o timbro</td></tr>
+<tr><td></td><td colspan="2">Signature et/ou cachet</td></tr>
+</table>
+
+<table>
+<tr><td><sup>1</sup></td><td>Cancellare le annotazioni inutili. *Rayer les mentions inutiles*</td></tr>
 </table>
 
 Verso della domanda
 
 Verso de la demande
 
-Attestazione
-
-Attestation
+Attestazione *Attestation*
 
 L’autorità sottoscritta si pregia attestare in conformità all’art. 6 di detta Convenzione,
 
-*L**’**autorité soussignée a l**’**honneur d**’**attester conformément à l**’**art. 6 de ladite Co**n**vention,*
+*L**’**autorité soussignée a l**’**honneur d**’**attester conformément à l**’**art. 6 de ladite Convention,*
 
-- 1\. che la domanda è stata eseguita[^annexu1-lvlu2-2]
-- *que la demande a été exécutée*<sup>8</sup>
+- 1\. che la domanda è stata eseguita<sup>1</sup>
+- *que la demande a été exécutée*<sup>1</sup>
   - – il (data)
-  - – le (date)
+  - – *le (date)*
   - – a (località, via, numero)
   - *–* *à (localité, rue, numéro)*
   - – in una delle seguenti forme previste dall’articolo 5:
   - –
 
-    dans une des formes suivantes prévues à l’art. 5:
+    *dans une des formes suivantes prévues à l’art. 5:*
 
-    - a) secondo le forme di legge (art. 5 comma 1 lett. a)<sup>8</sup>.
-    - a) selon les formes légales (art. 5, al. 1, let. a)<sup>7</sup>.
-    - b) secondo la forma particolare seguente<sup>8</sup>:
-    - b) selon la forme particulière suivante<sup>7</sup>:
-    - c) mediante semplice consegna<sup>8</sup>.
-    - c) par remise simple<sup>7</sup>.
+    - a) secondo le forme di legge (art. 5 comma 1 lett. a)<sup>1</sup>.
+    - *selon les formes légales (art. 5, al. 1, let. a)*<sup>1</sup>*.*
+    - b) secondo la forma particolare seguente<sup>1</sup>:
+    - *selon la forme particulière suivante*<sup>1</sup>*:*
+    - c) mediante semplice consegna<sup>1</sup>.
+    - *par remise simple*<sup>1</sup>*.*
 
-  - [tab] I documenti di cui alla domanda sono stati consegnati a:
-  - [tab] Les documents mentionnés dans la demande ont été remis à:
-  - – (identità e qualità della persona):
-  - (identité et qualité de la personne)
-  - – rapporto di parentela, di subordinazione od altro, con il destinatario dell’atto:
-  - liens de parenté, de subordination ou autres, avec le destinataire de l’acte:
+<table>
+<tr><td><sup>1</sup></td><td>Cancellare le annotazioni inutili. *Rayer les mentions inutiles*</td></tr>
+</table>
 
-- 2\. che la domanda non è stata eseguita, per i seguenti motivi<sup>8</sup>
-- *que la demande n’a pas été exécutée, en raison des faits suivants*<sup>7</sup>:
+- [tab] I documenti di cui alla domanda sono stati consegnati a:
+- [tab] *Les documents mentionnés dans la demande ont été remis à:*
+- – (identità e qualità della persona):
+- *(identité et qualité de la personne):*
+- – rapporto di parentela, di subordinazione od altro, con il destinatario dell’atto:
+- *liens de parenté, de subordination ou autres, avec le destinataire de l’acte:*
 
-In conformità all’articolo 12 comma 2 di detta Convenzione, il richiedente è pregato di pagare o rimborsare le spese indicate dettagliatamente nella memoria allegata[^annexu1-lvlu2-3].
+- 2\. che la domanda non è stata eseguita, per i seguenti motivi<sup>1</sup>:
+- *que la demande n’a pas été exécutée, en raison des faits suivants*<sup>1</sup>*:*
 
-Conformément à l’art. 12, al. 2, de ladite Convention, le requérant est prié de payer ou de rembourser les frais dont de détail figure au mémoire ci-joint<sup>9</sup>.
+In conformità all’articolo 12 comma 2 di detta Convenzione, il richiedente è pregato di pagare o rimborsare le spese indicate dettagliatamente nella memoria allegata<sup>1</sup>.
+
+Conformément à l’art. 12, al. 2, de ladite Convention, le requérant est prié de payer ou de rembourser les frais dont le détail figure au mémoire ci-joint<sup>1</sup>.
 
 Allegati
 
@@ -393,25 +389,21 @@ Se del caso, gli atti che ne comprovano l’esecuzione:
 Le cas échéant, les documents justificatifs de l’exécution:
 
 <table>
-<tr><td></td><td>Fatto a .................................., il .........................</td></tr>
-<tr><td></td><td>*Fait à .................................. , le .........................*</td></tr>
-<tr><td></td><td>Firma e/o timbro/oder Stempel</td></tr>
-<tr><td></td><td>*Signature et/ou cachet*</td></tr>
+<tr><td></td><td colspan="2">Fatto a ...................................... , il ...............................</td></tr>
+<tr><td></td><td colspan="2">Fait à ....................................... , le ...............................</td></tr>
+<tr><td></td><td colspan="2">Firma e/o timbro</td></tr>
+<tr><td></td><td colspan="2">Signature et/ou cachet</td></tr>
 </table>
 
-[^annexu1-lvlu2-1]: Cancellare le annotazioni inutili. *Rayer les mentions inutiles*
-[^annexu1-lvlu2-2]: Cancellare le annotazioni inutili. *Rayer les mentions inutiles*
-[^annexu1-lvlu2-3]: Cancellare le annotazioni inutili. *Rayer les mentions inutiles*
+<table>
+<tr><td><sup>1</sup></td><td>Cancellare le annotazioni inutili. *Rayer les mentions inutiles*</td></tr>
+</table>
 
-## Elementi essenziali dell’atto
-
-## Eléments essentiels de l’acte
+## Elementi essenziali dell’atto *Eléments essentiels de l**’**acte*
 
 Convenzione relativa alla notifica e alla comunicazione all’estero degli atti giudiziari ed extragiudiziari in materia civile o commerciale firmata all’Aja, il 15 novembre 1965
 
-(art. 5 comma 4)
-
-Convention relative à la signification et à la notification à l’étranger des actes judiciaires et extrajudiciaires en matière civile ou commerciale, signée à La Haye, le 15 novembre 1965
+(art. 5 comma 4) ***Convention relative à la signification et à la notification à l******’******étranger des actes judiciaires et extrajudiciaires en matière civile ou commerciale, signée à La Haye, le 15 novembre 1965***
 
 (art. 5, al. 4)
 
@@ -419,16 +411,11 @@ Nome e indirizzo dell’autorità richiedente:
 
 *Nom et adresse de l**’**autorité requérante:*
 
-Identità delle parti[^annexu1-lvlu4-1]:
+Identità delle parti<sup>1</sup>:
 
-*Identité des parties*<sup>10</sup>*:*
+*Identité des parties*<sup>1</sup>*:*
 
-Atto giudiziario**[^annexu1-lvlu4-2]**
-
-[^annexu1-lvlu4-1]: Se del caso, identità e indirizzo della persona interessata alla trasmission dell’atto. *S**’**il y a lieu, identité et adresse de la personne intéressée à la transmission de l**’**acte.*
-[^annexu1-lvlu4-2]: Cancellare le annotazioni inutili. *Rayer les mentions inutiles.*
-
-## Acte judiciaire<sup>11</sup>
+Atto giudiziario<sup>2</sup> *Acte judiciaire*<sup>2</sup>
 
 Natura e oggetto dell’atto:
 
@@ -438,68 +425,74 @@ Natura e oggetto del procedimento, se del caso, ammontare della controversia:
 
 *Nature et objet de l**’**instance, le cas échéant, le montant du litige:*
 
-Data e luogo della comparizione<sup>11</sup>:
+Data e luogo della comparizione<sup>2</sup>:
 
-*Date et lieu de la comparution*<sup>11</sup>*:*
+*Date et lieu de la comparution*<sup>2</sup>*:*
 
-Autorità che ha pronunciato la decisione[^annexu1-lvlu5-1]:
+<table>
+<tr><td><sup>1</sup></td><td>C Se del caso, identità e indirizzo della persona interessata alla trasmission dell’atto. *S**’**il y a lieu, identité et adresse de la personne intéressée à la transmission de l**’**acte.*</td></tr>
+<tr><td><sup>2</sup></td><td>Cancellare le annotazioni inutili. *Rayer les mentions inutiles*</td></tr>
+</table>
 
-*Juridiction qui a rendu la décision*<sup>12</sup>*:*
+Autorità che ha pronunciato la decisione<sup>2</sup>:
 
-Data della decisione<sup>12</sup>:
+*Juridiction qui a rendu la décision*<sup>2</sup>*:*
 
-*Date de la décision*<sup>12</sup>*:*
+Data della decisione<sup>2</sup>:
 
-Indicazione dei termini che figurano nell’atto<sup>12</sup>:
+*Date de la décision*<sup>2</sup>*:*
 
-*Indication des délais figurant dans l**’**acte*<sup>12</sup>*:*
+Indicazione dei termini che figurano nell’atto<sup>2</sup>:
 
-Atto extragiudiziario<sup>12</sup>
+*Indication des délais figurant dans l**’**acte*<sup>2</sup>*:*
 
-Acte extrajudiciaire<sup>12</sup>
+Atto extragiudiziario<sup>2</sup> *Acte extrajudiciaire*<sup>2</sup>
 
 Natura e oggetto dell’atto:
 
 *Nature et objet de l**’**acte:*
 
-Indicazione dei termini che figurano nell’atto<sup>12</sup>:
+Indicazione dei termini che figurano nell’atto<sup>2</sup>:
 
-*Indication des délais figurant dans l**’**acte*<sup>12</sup>*:*
+*Indication des délais figurant dans l**’**acte*<sup>2</sup>*:*
 
-[^annexu1-lvlu5-1]: Cancellare le annotazioni inutili. *Rayer les mentions inutiles.*
+<table>
+<tr><td><sup>2</sup></td><td>Cancellare le annotazioni inutili. *Rayer les mentions inutiles*</td></tr>
+</table>
 
-Campo d’applicazione il 13 luglio 2020**[^t-2]**
+Campo d’applicazione il 12 giugno 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td>Albania<sup>\*</sup></td><td>1° novembre</td><td>2006 A</td><td>1° luglio</td><td>2007</td></tr>
+<tr><td>Albania</td><td>1° novembre</td><td>2006 A</td><td>1° luglio</td><td>2007</td></tr>
 <tr><td>Andorra<sup>\*</sup></td><td>26 aprile</td><td>2017 A</td><td>1° dicembre</td><td>2017</td></tr>
-<tr><td>Antigua e Barbuda<sup>\*</sup></td><td>17 maggio</td><td>1985 S</td><td>1° novembre</td><td>1981</td></tr>
+<tr><td>Antigua e Barbuda</td><td>17 maggio</td><td>1985 S</td><td>1° novembre</td><td>1981</td></tr>
 <tr><td>Argentina<sup>\*</sup></td><td>2 febbraio</td><td>2001 A</td><td>1° dicembre</td><td>2001</td></tr>
 <tr><td>Armenia</td><td>27 giugno</td><td>2012 A</td><td>1° febbraio</td><td>2013</td></tr>
 <tr><td>Australia<sup>\*</sup></td><td>15 marzo</td><td>2010 A</td><td>1° novembre</td><td>2010</td></tr>
-<tr><td>Ashmore e Cartier, Isole</td><td>12 agosto</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
-<tr><td>Christmas, Isola</td><td>12 agosto</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
-<tr><td>Cocos, Isole</td><td>12 agosto</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
-<tr><td>Norfolk, Isola</td><td>12 agosto</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
+<tr><td>Isola Christmas</td><td>12 agosto</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
+<tr><td>Isola di Norfolk</td><td>12 agosto</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
+<tr><td>Isole Ashmore e Cartier</td><td>12 agosto</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
+<tr><td>Isole Cocos</td><td>12 agosto</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
 <tr><td>Territorio australiano dell’Antartico</td><td>12 agosto</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
 <tr><td>Territorio dell’Isola di Heard e delle Isole McDonald</td><td>12 agosto</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
 <tr><td>Territorio delle Isole del mare di Corallo</td><td>12 agosto</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
-<tr><td>Bahamas<sup>\*</sup></td><td>17 giugno</td><td>1997 A</td><td>1° febbraio</td><td>1998</td></tr>
-<tr><td>Barbados<sup>\*</sup></td><td>27 settembre</td><td>1969 A</td><td>1° ottobre</td><td>1969</td></tr>
-<tr><td>Belarus<sup>\*</sup></td><td>6 giugno</td><td>1997 A</td><td>1° febbraio</td><td>1998</td></tr>
+<tr><td>Austria<sup>\*</sup></td><td>14 luglio</td><td>2020</td><td>12 settembre</td><td>2020</td></tr>
+<tr><td>Azerbaigian<sup>\*</sup></td><td>17 febbraio</td><td>2023 A</td><td>1° settembre</td><td>2023</td></tr>
+<tr><td>Bahamas</td><td>17 giugno</td><td>1997 A</td><td>1° febbraio</td><td>1998</td></tr>
+<tr><td>Barbados</td><td>10 febbraio</td><td>1969 A</td><td>1° ottobre</td><td>1969</td></tr>
 <tr><td>Belgio<sup>\*</sup></td><td>19 novembre</td><td>1970</td><td>18 gennaio</td><td>1971</td></tr>
 <tr><td>Belize</td><td>8 settembre</td><td>2009 A</td><td>1° maggio</td><td>2010</td></tr>
-<tr><td>Bosnia e Erzegovina<sup>\*</sup></td><td>16 giugno</td><td>2008 A</td><td>1° febbraio</td><td>2009</td></tr>
-<tr><td>Botswana<sup>\*</sup></td><td>28 agosto</td><td>1969 A</td><td>1° settembre</td><td>1969</td></tr>
-<tr><td>Brasile\*</td><td>29 novembre</td><td>2018 A</td><td>1° giugno</td><td>2019</td></tr>
+<tr><td>Bielorussia</td><td>6 giugno</td><td>1997 A</td><td>1° febbraio</td><td>1998</td></tr>
+<tr><td>Bosnia ed Erzegovina</td><td>16 giugno</td><td>2008 A</td><td>1° febbraio</td><td>2009</td></tr>
+<tr><td>Botswana<sup>\*</sup></td><td>10 febbraio</td><td>1969 A</td><td>1° settembre</td><td>1969</td></tr>
+<tr><td>Brasile<sup>\*</sup></td><td>29 novembre</td><td>2018 A</td><td>1° giugno</td><td>2019</td></tr>
 <tr><td>Bulgaria<sup>\*</sup></td><td>23 novembre</td><td>1999 A</td><td>1° agosto</td><td>2000</td></tr>
-<tr><td>Canada<sup>\*</sup></td><td>10 aprile</td><td>1989 A</td><td>1° maggio</td><td>1989</td></tr>
-<tr><td>Ceca, Repubblica<sup>\*</sup></td><td>28 gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Canada<sup>\*</sup></td><td>26 settembre</td><td>1988 A</td><td>1° maggio</td><td>1989</td></tr>
 <tr><td>Cina<sup>\*</sup></td><td>6 maggio</td><td>1991 A</td><td>1° gennaio</td><td>1992</td></tr>
-<tr><td>Hong Kong <sup>a</sup> <sup>\*</sup></td><td>16 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
-<tr><td>Macao <sup>b</sup> <sup>\*</sup></td><td>10 dicembre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
-<tr><td>Cipro<sup>\*</sup></td><td>15 maggio</td><td>1983 A</td><td>1° giugno</td><td>1983</td></tr>
+<tr><td>Hong Kong<sup>\*</sup></td><td>16 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>Macao<sup>\*</sup></td><td>10 dicembre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
+<tr><td>Cipro<sup>\*</sup></td><td>26 ottobre</td><td>1982 A</td><td>1° giugno</td><td>1983</td></tr>
 <tr><td>Colombia<sup>\*</sup></td><td>10 aprile</td><td>2013 A</td><td>1° novembre</td><td>2013</td></tr>
 <tr><td>Corea (Sud)<sup>\*</sup></td><td>13 gennaio</td><td>2000 A</td><td>1° agosto</td><td>2000</td></tr>
 <tr><td>Costa Rica</td><td>16 marzo</td><td>2016 A</td><td>1° ottobre</td><td>2016</td></tr>
@@ -507,14 +500,18 @@ Campo d’applicazione il 13 luglio 2020**[^t-2]**
 <tr><td>Danimarca<sup>\*</sup></td><td>2 agosto</td><td>1969</td><td>1° ottobre</td><td>1969</td></tr>
 <tr><td>Egitto<sup>\*</sup></td><td>12 dicembre</td><td>1968</td><td>10 febbraio</td><td>1969</td></tr>
 <tr><td>Estonia<sup>\*</sup></td><td>2 febbraio</td><td>1996 A</td><td>1° ottobre</td><td>1996</td></tr>
+<tr><td>Filippine<sup>\*</sup></td><td>4 marzo</td><td>2020 A</td><td>1° ottobre</td><td>2020</td></tr>
 <tr><td>Finlandia<sup>\*</sup></td><td>11 settembre</td><td>1969</td><td>10 novembre</td><td>1969</td></tr>
 <tr><td>Francia<sup>\*</sup></td><td>3 luglio</td><td>1972</td><td>1° settembre</td><td>1972</td></tr>
+<tr><td>Tutti i Territori della Repubblica Francese</td><td>3 luglio</td><td>1972</td><td>1° settembre</td><td>1972</td></tr>
+<tr><td>Georgia<sup>\*</sup></td><td>31 maggio</td><td>2021 A</td><td>1° gennaio</td><td>2022</td></tr>
 <tr><td>Germania<sup>\*</sup></td><td>27 aprile</td><td>1979</td><td>26 giugno</td><td>1979</td></tr>
 <tr><td>Giappone<sup>\*</sup></td><td>28 maggio</td><td>1970</td><td>27 luglio</td><td>1970</td></tr>
 <tr><td>Grecia<sup>\*</sup></td><td>20 luglio</td><td>1983</td><td>18 settembre</td><td>1983</td></tr>
 <tr><td>India<sup>\*</sup></td><td>23 novembre</td><td>2006 A</td><td>1° agosto</td><td>2007</td></tr>
 <tr><td>Irlanda<sup>\*</sup></td><td>5 aprile</td><td>1994</td><td>4 giugno</td><td>1994</td></tr>
 <tr><td>Islanda<sup>\*</sup></td><td>10 novembre</td><td>2008 A</td><td>1° luglio</td><td>2009</td></tr>
+<tr><td>Isole Marshall<sup>\*</sup></td><td>29 luglio</td><td>2020 A</td><td>1° febbraio</td><td>2021</td></tr>
 <tr><td>Israele<sup>\*</sup></td><td>14 agosto</td><td>1972</td><td>13 ottobre</td><td>1972</td></tr>
 <tr><td>Italia<sup>\*</sup></td><td>25 novembre</td><td>1981</td><td>24 gennaio</td><td>1982</td></tr>
 <tr><td>Kazakistan<sup>\*</sup></td><td>15 ottobre</td><td>2015 A</td><td>1° giugno</td><td>2016</td></tr>
@@ -523,17 +520,17 @@ Campo d’applicazione il 13 luglio 2020**[^t-2]**
 <tr><td>Lituania<sup>\*</sup></td><td>2 agosto</td><td>2000 A</td><td>1° giugno</td><td>2001</td></tr>
 <tr><td>Lussemburgo<sup>\*</sup></td><td>9 luglio</td><td>1975</td><td>7 settembre</td><td>1975</td></tr>
 <tr><td>Macedonia del Nord<sup>\*</sup></td><td>23 dicembre</td><td>2008 A</td><td>1° settembre</td><td>2009</td></tr>
-<tr><td>Malawi</td><td>25 novembre</td><td>1972 A</td><td>1° dicembre</td><td>1972</td></tr>
-<tr><td>Malta<sup>\*</sup> <sup>c</sup></td><td>24 febbraio</td><td>2011 A</td><td>1° ottobre</td><td>2011</td></tr>
-<tr><td>Marocco<sup>\*</sup></td><td>24 marzo</td><td>2011 A</td><td>1° novembre</td><td>2011</td></tr>
-<tr><td>Messico<sup>\*</sup></td><td>30 maggio</td><td>2000 A</td><td>1° giugno</td><td>2000</td></tr>
+<tr><td>Malawi</td><td>24 aprile</td><td>1972 A</td><td>1° dicembre</td><td>1972</td></tr>
+<tr><td>Malta<sup>\*</sup></td><td>24 febbraio</td><td>2011 A</td><td>1° ottobre</td><td>2011</td></tr>
+<tr><td>Marocco</td><td>24 marzo</td><td>2011 A</td><td>1° novembre</td><td>2011</td></tr>
+<tr><td>Messico<sup>\*</sup></td><td>2 novembre</td><td>1999 A</td><td>1° giugno</td><td>2000</td></tr>
 <tr><td>Moldova<sup>\*</sup></td><td>4 luglio</td><td>2012 A</td><td>1° febbraio</td><td>2013</td></tr>
 <tr><td>Monaco<sup>\*</sup></td><td>1° marzo</td><td>2007 A</td><td>1° novembre</td><td>2007</td></tr>
 <tr><td>Montenegro<sup>\*</sup></td><td>16 gennaio</td><td>2012 A</td><td>1° settembre</td><td>2012</td></tr>
-<tr><td>Nicaragua\*</td><td>24 luglio</td><td>2019 A</td><td>1° febbraio</td><td>2020</td></tr>
+<tr><td>Nicaragua<sup>\*</sup></td><td>24 luglio</td><td>2019 A</td><td>1° febbraio</td><td>2020</td></tr>
 <tr><td>Norvegia<sup>\*</sup></td><td>2 agosto</td><td>1969</td><td>1° ottobre</td><td>1969</td></tr>
 <tr><td>Paesi Bassi<sup>\*</sup></td><td>3 novembre</td><td>1975</td><td>2 gennaio</td><td>1976</td></tr>
-<tr><td>Aruba<sup>\*</sup></td><td>28 maggio</td><td>1986</td><td>27 luglio</td><td>1986</td></tr>
+<tr><td>Aruba</td><td>3 novembre</td><td>1975</td><td>2 gennaio</td><td>1976</td></tr>
 <tr><td>Pakistan<sup>\*</sup></td><td>6 luglio</td><td>1989 A</td><td>1° agosto</td><td>1989</td></tr>
 <tr><td>Polonia<sup>\*</sup></td><td>13 febbraio</td><td>1996 A</td><td>1° settembre</td><td>1996</td></tr>
 <tr><td>Portogallo<sup>\*</sup></td><td>27 dicembre</td><td>1973</td><td>25 febbraio</td><td>1974</td></tr>
@@ -541,29 +538,32 @@ Campo d’applicazione il 13 luglio 2020**[^t-2]**
 <tr><td>Anguilla</td><td>30 luglio</td><td>1982</td><td>28 settembre</td><td>1982</td></tr>
 <tr><td>Bermuda</td><td>20 maggio</td><td>1970</td><td>19 luglio</td><td>1970</td></tr>
 <tr><td>Gibilterra</td><td>20 maggio</td><td>1970</td><td>19 luglio</td><td>1970</td></tr>
-<tr><td>gruppo Pitcairn (Ducie, Oeno, Henderson e Pitcairn)</td><td>20 maggio</td><td>1970</td><td>19 luglio</td><td>1970</td></tr>
 <tr><td>Guernesey</td><td>20 maggio</td><td>1970</td><td>19 luglio</td><td>1970</td></tr>
 <tr><td>Isola di Man</td><td>20 maggio</td><td>1970</td><td>19 luglio</td><td>1970</td></tr>
-<tr><td>Isole Caimane</td><td>20 maggio</td><td>1970</td><td>19 luglio</td><td>1970</td></tr>
+<tr><td>Isole Cayman</td><td>20 maggio</td><td>1970</td><td>19 luglio</td><td>1970</td></tr>
 <tr><td>Isole Falkland</td><td>20 maggio</td><td>1970</td><td>19 luglio</td><td>1970</td></tr>
 <tr><td>Isole Turche e Caicos</td><td>20 maggio</td><td>1970</td><td>19 luglio</td><td>1970</td></tr>
 <tr><td>Isole Vergini britanniche</td><td>20 maggio</td><td>1970</td><td>19 luglio</td><td>1970</td></tr>
 <tr><td>Jersey</td><td>20 maggio</td><td>1970</td><td>19 luglio</td><td>1970</td></tr>
 <tr><td>Montserrat</td><td>20 maggio</td><td>1970</td><td>19 luglio</td><td>1970</td></tr>
-<tr><td>San Vincenzo</td><td>20 maggio</td><td>1970</td><td>19 luglio</td><td>1970</td></tr>
 <tr><td>Sant’Elena</td><td>20 maggio</td><td>1970</td><td>19 luglio</td><td>1970</td></tr>
+<tr><td>Gruppo Isole Pitcairn (Ducie, Oeno, Henderson e Pitcairn)</td><td>20 maggio</td><td>1970</td><td>19 luglio</td><td>1970</td></tr>
+<tr><td>Repubblica Ceca<sup>\*</sup></td><td>28 gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Romania<sup>\*</sup></td><td>21 agosto</td><td>2003 A</td><td>1° aprile</td><td>2004</td></tr>
 <tr><td>Russia<sup>\*</sup></td><td>1° maggio</td><td>2001 A</td><td>1° dicembre</td><td>2001</td></tr>
 <tr><td>Saint Vincent e Grenadine<sup>\*</sup></td><td>6 gennaio</td><td>2005 S</td><td>27 ottobre</td><td>1979</td></tr>
 <tr><td>San Marino<sup>\*</sup></td><td>15 aprile</td><td>2002 A</td><td>1° novembre</td><td>2002</td></tr>
-<tr><td>Seicelle<sup>\*</sup></td><td>18 giugno</td><td>1981 A</td><td>1° luglio</td><td>1981</td></tr>
+<tr><td>Seycelles<sup>\*</sup></td><td>18 novembre</td><td>1980 A</td><td>1° luglio</td><td>1981</td></tr>
 <tr><td>Serbia<sup>\*</sup></td><td>2 luglio</td><td>2010 A</td><td>1° febbraio</td><td>2011</td></tr>
 <tr><td>Slovacchia<sup>\*</sup></td><td>26 aprile</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia<sup>\*</sup></td><td>18 settembre</td><td>2000 A</td><td>1° giugno</td><td>2001</td></tr>
 <tr><td>Spagna<sup>\*</sup> <sup>\*\*</sup></td><td>4 giugno</td><td>1987</td><td>3 agosto</td><td>1987</td></tr>
-<tr><td>Sri Lanka<sup>\*</sup></td><td>30 agosto</td><td>2000 A</td><td>1° giugno</td><td>2001</td></tr>
+<tr><td>Sri Lanka<sup>\*</sup></td><td>31 agosto</td><td>2000 A</td><td>1° giugno</td><td>2001</td></tr>
 <tr><td>Stati Uniti<sup>\*</sup></td><td>24 agosto</td><td>1967</td><td>10 febbraio</td><td>1969</td></tr>
 <tr><td>Commonwealth delle Isole Marianne Settentrionali</td><td>31 marzo</td><td>1994</td><td>30 maggio</td><td>1994</td></tr>
+<tr><td>Guam</td><td>24 agosto</td><td>1967</td><td>10 febbraio</td><td>1969</td></tr>
+<tr><td>Isole Vergini americane</td><td>24 agosto</td><td>1967</td><td>10 febbraio</td><td>1969</td></tr>
+<tr><td>Portorico</td><td>24 agosto</td><td>1967</td><td>10 febbraio</td><td>1969</td></tr>
 <tr><td>Svezia<sup>\*</sup></td><td>2 agosto</td><td>1969</td><td>1° ottobre</td><td>1969</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>2 novembre</td><td>1994</td><td>1° gennaio</td><td>1995</td></tr>
 <tr><td>Tunisia<sup>\*</sup></td><td>10 luglio</td><td>2017 A</td><td>1° febbraio</td><td>2018</td></tr>
@@ -572,21 +572,14 @@ Campo d’applicazione il 13 luglio 2020**[^t-2]**
 <tr><td>Ungheria<sup>\*</sup></td><td>13 luglio</td><td>2004 A</td><td>1° aprile</td><td>2005</td></tr>
 <tr><td>Venezuela<sup>\*</sup></td><td>29 ottobre</td><td>1993 A</td><td>1° luglio</td><td>1994</td></tr>
 <tr><td>Vietnam<sup>\*</sup></td><td>16 marzo</td><td>2016 A</td><td>1° ottobre</td><td>2016</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet della Conferenza dell’Aja: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Fino al 30 giu. 1997 la Conv. era applicabile a Hong Kong sulla base di una dichiarazione d’estensione territoriale del Regno Unito. A partire dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica popolare di Cina. In virtù della dichiarazione sino-britannica del 19 dice. 1984, gli accordi che erano applicabili a Hong Kong prima della sua retrocessione alla Repubblica popolare di Cina rimangono applicabili alla RAS.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Dall’11 feb. 1999 al 19 dic. 1999 la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In base alla dichiarazione cinese del 13 apr. 1987 la Conv. è applicabile dal 20 dic. 1999 alla RAS Macao.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le dichiarazioni degli Stati partecipanti sulle autorità centrali, ai sensi degli art. 2 e 18 della Conv., non sono incluse nel campo d’applicazione di cui sopra. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, in inglese, possono essere consultati sul sito Internet del Ministero degli Affari Esteri del Regno dei Paesi Bassi: [www.overheid.nl](http://www.overheid.nl) &gt; English &gt; Treaty Database &gt; 004235 oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-<table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="5"><sup>c</sup> Il 1° agosto 2012 Malta ha dichiarato che la sua adesione alla Convenzione sarà effettiva soltanto dopo la conclusione delle procedure relative a detta adesione in seno all’UE e, in particolare, soltanto dopo che il Consiglio avrà adottato una decisione che autorizzi Malta ad aderire alla Convenzione. Il 10 marzo 2016 questa decisione è stata adottata, Malta ha notificato al depositario la data del 18 luglio 2018 a partire dalla quale la Conv. si applicherà a Malta.</td></tr>
-</table>
-
-[^t-2]: [RU 1995 934](https://fedlex.data.admin.ch/eli/oc/1995/934_934_934), [2003 733](https://fedlex.data.admin.ch/eli/oc/2003/143), [2006 2117](https://fedlex.data.admin.ch/eli/oc/2006/341), [2009 3639](https://fedlex.data.admin.ch/eli/oc/2009/455), [2011 2291](https://fedlex.data.admin.ch/eli/oc/2011/317), [2014 397](https://fedlex.data.admin.ch/eli/oc/2014/61)[581](https://fedlex.data.admin.ch/eli/oc/2014/123), [2019 1137](https://fedlex.data.admin.ch/eli/oc/2019/216), [2020 3473](https://fedlex.data.admin.ch/eli/oc/2020/600). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2023 295](https://fedlex.data.admin.ch/eli/oc/2023/295). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 
-## Svizzera****
+## Svizzera
 
 [^declu2-lvlu1-1]
 
@@ -616,7 +609,7 @@ Riserve e dichiarazioni
 
 \6. Conformemente all’articolo 21 comma 1 lettera c), la Svizzera designa le autorità centrali cantonali come autorità competenti a ricevere gli atti trasmessi per via consolare ai sensi dell’articolo 9 della Convenzione.
 
-## Elenco delle autorità svizzere****
+## Elenco delle autorità svizzere
 
 [^declu2-lvlu2-1]
 
@@ -626,7 +619,7 @@ Riserve e dichiarazioni
 
 Una lista aggiornata delle autorità centrali cantonali con gli indirizzi completi può essere consultata all’indirizzo seguente:
 
-https://www.rhf.admin.ch &gt; Diritto civile &gt; autorità &gt; Lista delle autorità centrali cantonali
+[www.rhf.admin.ch](https://www.rhf.admin.ch) &gt; Diritto civile &gt; autorità &gt; Lista delle autorità centrali cantonali
 
 ### b) Autorità federali
 
