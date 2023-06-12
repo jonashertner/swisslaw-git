@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung zum Strafgesetzbuch und zum Militärstrafgesetz (V-StGB-MStG)
 document: Vernehmlassungsvorlage
 language: de

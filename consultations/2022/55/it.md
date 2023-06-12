@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sul Codice penale e sul Codice penale militare (OCP-CPM)
 document: Progetto posto in consultazione
 language: it
