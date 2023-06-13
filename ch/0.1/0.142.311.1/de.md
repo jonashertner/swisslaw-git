@@ -3,11 +3,11 @@ sr: "0.142.311.1"
 title: Protokoll vom 12. Juni 1973 über Flüchtlingsseeleute
 eli: "https://fedlex.data.admin.ch/eli/cc/1975/839_839_839"
 language: de
-version: 2014-07-22
+version: 2023-06-14
 adopted: 1973-06-12
 in_force: 1975-03-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/839_839_839/20140722/de/xml/fedlex-data-admin-ch-eli-cc-1975-839_839_839-20140722-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1975/839_839_839/20140722/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/839_839_839/20230614/de/xml/fedlex-data-admin-ch-eli-cc-1975-839_839_839-20230614-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1975/839_839_839/20230614/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1975/839_839_839/20140722/de"
 
 [^t-1]as
 
-Übersetzung aus dem französischen und englischen Originaltext*[^t-2]*
+Übersetzung aus dem französischen und englischen Originaltext
 
 Abgeschlossen in Den Haag am 12. Juni 1973 Schweizerische Annahmeurkunde hinterlegt am 30. Dezember 1974 In Kraft getreten für die Schweiz am 30. März 1975
 
-(Stand am 22. Juli 2014)
+(Stand am 14. Juni 2023)
 
 [^t-1]: [AS 1975 839](https://fedlex.data.admin.ch/eli/oc/1975/839_839_839)
-[^t-2]: Der französische Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
 
 Die Vertragsparteien dieses Protokolls,
 
@@ -94,62 +93,38 @@ Ein vom Minister für Auswärtige Angelegenheiten des Königreichs der Niederlan
 Nach Artikel IX dieses Protokolls habe ich es am zwölften Juni neunzehnhundertdreiundsiebzig unterschrieben.
 
 <table>
-<tr><td></td><td>M. van der Stoel</td></tr>
-<tr><td></td><td>Minister für Auswärtige</td></tr>
-<tr><td></td><td>Angelegenheiten des Königreichs</td></tr>
-<tr><td></td><td>der Niederlande</td></tr>
+<tr><td></td><td>M. van der Stoel Minister für Auswärtige Angelegenheiten des Königreichs der Niederlande</td></tr>
 </table>
 
-Geltungsbereich am 22. Juli 2014**[^t-3]**
+Geltungsbereich am 14. Juni 2023[^t-2]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>In-Kraft-Treten</th><th></th></tr>
-<tr><td colspan="2">Australien</td><td>10. Dezember</td><td>1973</td><td>30. März</td><td>1975</td></tr>
-<tr><td colspan="2">Belgien</td><td>22. März</td><td>1977</td><td>22. März</td><td>1977</td></tr>
-<tr><td colspan="2">Bosnien und Herzegowina</td><td>1. Oktober</td><td>1993 N</td><td>6. März</td><td>1992</td></tr>
-<tr><td colspan="2">Dänemark</td><td>24. Januar</td><td>1974</td><td>30. März</td><td>1975</td></tr>
-<tr><td colspan="2">Deutschland</td><td>13. August</td><td>1975</td><td>13. August</td><td>1975</td></tr>
-<tr><td colspan="2">Frankreich\*</td><td>16. Juli</td><td>1975</td><td>16. Juli</td><td>1975</td></tr>
-<tr><td colspan="2">Italien\*</td><td>23. Februar</td><td>1981</td><td>23. Februar</td><td>1981</td></tr>
-<tr><td colspan="2">Kanada</td><td>9. Januar</td><td>1975</td><td>9. April</td><td>1975</td></tr>
-<tr><td colspan="2">Karibische Gebiete (Bonaire, Sint Eustatius und Saba)[^t-4]</td><td>18. Oktober</td><td>2010</td><td>16. Januar</td><td>2011</td></tr>
-<tr><td colspan="2">Marokko\*</td><td>18. September</td><td>1974</td><td>30. März</td><td>1975</td></tr>
-<tr><td colspan="2">Niederlande</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">Aruba</td><td>1. Januar</td><td>1986</td><td>1. April</td><td>1986</td></tr>
-<tr><td colspan="2">Norwegen</td><td>12. Februar</td><td>1974</td><td>30. März</td><td>1975</td></tr>
-<tr><td colspan="2">Schweden</td><td>25. September</td><td>1973</td><td>30. März</td><td>1975</td></tr>
-<tr><td colspan="2">Schweiz</td><td>30. Dezember</td><td>1974</td><td>30. März</td><td>1975</td></tr>
-<tr><td colspan="2">Serbien</td><td>23. September</td><td>1976</td><td>23. September</td><td>1976</td></tr>
-<tr><td colspan="2">Slowenien</td><td>16. Juni</td><td>1993 N</td><td>25. Juni</td><td>1991</td></tr>
-<tr><td colspan="2">Vereinigtes Königreich</td><td>12. November</td><td>1974</td><td>30. März</td><td>1975</td></tr>
-<tr><td colspan="2">Britische Jungferninseln</td><td>12. November</td><td>1974 B</td><td>30. März</td><td>1975</td></tr>
-<tr><td colspan="2">Falklandinseln</td><td>12. November</td><td>1974 B</td><td>30. März</td><td>1975</td></tr>
-<tr><td colspan="2">Insel Man</td><td>12. November</td><td>1974 B</td><td>30. März</td><td>1975</td></tr>
-<tr><td colspan="2">Kanalinseln</td><td>12. November</td><td>1974 B</td><td>30. März</td><td>1975</td></tr>
-<tr><td colspan="2">Montserrat</td><td>12. November</td><td>1974 B</td><td>30. März</td><td>1975</td></tr>
-<tr><td colspan="2">St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>12. November</td><td>1974 B</td><td>30. März</td><td>1975</td></tr>
-<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen siehe hiernach.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>In-Kraft-Treten</th><th></th></tr>
+<tr><td>Australien</td><td>10. Dezember</td><td>1973</td><td>30. März</td><td>1975</td></tr>
+<tr><td>Belgien</td><td>22. März</td><td>1977</td><td>22. März</td><td>1977</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>1. Oktober</td><td>1993 N</td><td>6. März</td><td>1992</td></tr>
+<tr><td>Dänemark</td><td>24. Januar</td><td>1974</td><td>30. März</td><td>1975</td></tr>
+<tr><td>Deutschland</td><td>13. August</td><td>1975</td><td>13. August</td><td>1975</td></tr>
+<tr><td>Frankreich\*</td><td>16. Juli</td><td>1975</td><td>16. Juli</td><td>1975</td></tr>
+<tr><td>Italien\*</td><td>23. Februar</td><td>1981</td><td>23. Februar</td><td>1981</td></tr>
+<tr><td>Kanada</td><td>9. Januar</td><td>1975</td><td>30. März</td><td>1975</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>18. Oktober</td><td>2010</td><td>16. Januar</td><td>2011</td></tr>
+<tr><td>Marokko\*</td><td>18. September</td><td>1974</td><td>30. März</td><td>1975</td></tr>
+<tr><td>Niederlande</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Aruba</td><td>9. Oktober</td><td>1973</td><td>30. März</td><td>1975</td></tr>
+<tr><td>Norwegen</td><td>12. Februar</td><td>1974</td><td>30. März</td><td>1975</td></tr>
+<tr><td>Schweden</td><td>25. September</td><td>1973</td><td>30. März</td><td>1975</td></tr>
+<tr><td>Schweiz</td><td>30. Dezember</td><td>1974</td><td>30. März</td><td>1975</td></tr>
+<tr><td>Serbien</td><td>23. September</td><td>1976</td><td>23. September</td><td>1976</td></tr>
+<tr><td>Slowenien</td><td>16. Juni</td><td>1993 N</td><td>25. Juni</td><td>1991</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>12. November</td><td>1974</td><td>30. März</td><td>1975</td></tr>
+<tr><td>Britische Jungferninseln</td><td>12. November</td><td>1974 B</td><td>30. März</td><td>1975</td></tr>
+<tr><td>Falklandinseln</td><td>12. November</td><td>1974 B</td><td>30. März</td><td>1975</td></tr>
+<tr><td>Insel Man</td><td>12. November</td><td>1974 B</td><td>30. März</td><td>1975</td></tr>
+<tr><td>Kanalinseln</td><td>12. November</td><td>1974 B</td><td>30. März</td><td>1975</td></tr>
+<tr><td>Montserrat</td><td>12. November</td><td>1974 B</td><td>30. März</td><td>1975</td></tr>
+<tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>12. November</td><td>1974 B</td><td>30. März</td><td>1975</td></tr>
+<tr><td colspan="5">Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Niederländischen Regierung: www.overheid.nl &gt; English &gt; Treaty Database &gt; 002539 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-## Vorbehalte und Erklärungen
-
-[^t-3]: [AS 1975 839](https://fedlex.data.admin.ch/eli/oc/1975/839_839_839), [1977 9](https://fedlex.data.admin.ch/eli/oc/1977/9_9_9), [1982 2070](https://fedlex.data.admin.ch/eli/oc/1982/2070_2070_2070), [1987 379](https://fedlex.data.admin.ch/eli/oc/1987/379_379_379), [2004 4101](https://fedlex.data.admin.ch/eli/oc/2004/598)und [2014 2401](https://fedlex.data.admin.ch/eli/oc/2014/418). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
-[^t-4]: Veröffentlichung infolge einer Änderung der internen verfassungsrechtlichen Beziehungen innerhalb des Königreichs der Niederlande.
-
-Frankreich
-
-Frankreich betrachtet sich an die Bestimmungen des Artikels II nicht gebunden und erklärt, dass die Streitigkeiten über die Auslegung und die Anwendung des Protokolls, die nicht auf andere Weise beigelegt werden können, nur mit dem Einverständnis aller am Streit beteiligen Parteien dem Internationalen Gerichtshof unterbreitet werden können.
-
-Frankreich erklärt, dass die Genehmigung für das gesamte Staatsgebiet der Französischen Republik gilt.
-
-Italien
-
-Italien erklärt, dass es die Gültigkeit der bei der Hinterlegung der Beitrittsurkunde angebrachten Vorbehalte zur in Den Haag am 23. November 1957[^scopeu1-lvlu1-1] abgeschlossen Vereinbarung über Flüchtlingsseeleute bestätigt.
-
-Marokko
-
-Bei der Hinterlegung der Annahmeurkunde hat Marokko folgenden Vorbehalt gemacht:
-
-In einem Streitfall bedarf die Überweisung an den Internationalen Gerichtshof der Zustimmung aller beteiligten Parteien.
-
-[^scopeu1-lvlu1-1]: [SR 0.142.311](https://fedlex.data.admin.ch/eli/cc/1964/146_142_143)
+[^t-2]: [AS 1975 839](https://fedlex.data.admin.ch/eli/oc/1975/839_839_839); [1977 9](https://fedlex.data.admin.ch/eli/oc/1977/9_9_9); [1982 2070](https://fedlex.data.admin.ch/eli/oc/1982/2070_2070_2070); [1987 379](https://fedlex.data.admin.ch/eli/oc/1987/379_379_379); [2004 4101](https://fedlex.data.admin.ch/eli/oc/2004/598); [2014 2401](https://fedlex.data.admin.ch/eli/oc/2014/418); [2023 293](https://fedlex.data.admin.ch/eli/oc/2023/293). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

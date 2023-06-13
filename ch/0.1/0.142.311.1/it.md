@@ -3,11 +3,11 @@ sr: "0.142.311.1"
 title: Protocollo del 12 giugno 1973 concernente i marinari rifugiati
 eli: "https://fedlex.data.admin.ch/eli/cc/1975/839_839_839"
 language: it
-version: 2014-07-22
+version: 2023-06-14
 adopted: 1973-06-12
 in_force: 1975-03-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/839_839_839/20140722/it/xml/fedlex-data-admin-ch-eli-cc-1975-839_839_839-20140722-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1975/839_839_839/20140722/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/839_839_839/20230614/it/xml/fedlex-data-admin-ch-eli-cc-1975-839_839_839-20230614-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1975/839_839_839/20230614/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,13 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1975/839_839_839/20140722/it"
 
 RU **1975** 839
 
-Traduzione dai testi originali francese e inglese*[^t-1]*
+Traduzione dai testi originali francese e inglese
 
 Conchiuso all’Aia il 12 giugno 1973 Istrumento d’approvazione depositato dalla Svizzera il 30 dicembre 1974 Entrato in vigore per la Svizzera il 30 marzo 1975
 
-(Stato 22 luglio 2014)
-
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. frane. della presente Raccolta.
+(Stato 14 giugno 2023)
 
 Le Parti Contraenti,
 
@@ -93,60 +91,38 @@ Un esemplare dei presente Protocollo, i cui testi inglese e francese fanno parim
 Conformemente all’articolo IX del Protocollo ho apposto la mia firma il dodici giugno millenovecentosettantatre.
 
 <table>
-<tr><td></td><td>M. van der Stoel</td></tr>
-<tr><td></td><td>Ministro degli Affari Esteri</td></tr>
-<tr><td></td><td>del Regno dei Paesi Bassi</td></tr>
+<tr><td></td><td>M. van der Stoel Ministro degli Affari Esteri del Regno dei Paesi Bassi</td></tr>
 </table>
 
-## Campo di applicazione il 22 luglio 2014****
-
-[^lvlu10-1]
-
-[^lvlu10-1]: [RU 1975 839](https://fedlex.data.admin.ch/eli/oc/1975/839_839_839), [1977 9](https://fedlex.data.admin.ch/eli/oc/1977/9_9_9), [1982 2070](https://fedlex.data.admin.ch/eli/oc/1982/2070_2070_2070), [1987 379](https://fedlex.data.admin.ch/eli/oc/1987/379_379_379), [2004 4101](https://fedlex.data.admin.ch/eli/oc/2004/598), [2014 2401](https://fedlex.data.admin.ch/eli/oc/2014/418). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+Campo d’applicazione il 14 giugno 2023[^t-1]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Australia</td><td>10 dicembre</td><td>1973</td><td>30 marzo</td><td>1975</td></tr>
-<tr><td colspan="2">Belgio</td><td>22 marzo</td><td>1977</td><td>22 marzo</td><td>1977</td></tr>
-<tr><td colspan="2">Bosnia e Erzegovina</td><td>1° ottobre</td><td>1993 S</td><td>6 marzo</td><td>1992</td></tr>
-<tr><td colspan="2">Canada</td><td>9 gennaio</td><td>1975</td><td>9 aprile</td><td>1975</td></tr>
-<tr><td colspan="2">Danimarca</td><td>24 gennaio</td><td>1974</td><td>30 marzo</td><td>1975</td></tr>
-<tr><td colspan="2">Francia\*</td><td>16 luglio</td><td>1975</td><td>16 luglio</td><td>1975</td></tr>
-<tr><td colspan="2">Germania</td><td>13 agosto</td><td>1975</td><td>13 agosto</td><td>1975</td></tr>
-<tr><td colspan="2">Italia\*</td><td>23 febbraio</td><td>1981</td><td>23 febbraio</td><td>1981</td></tr>
-<tr><td colspan="2">Marocco\*</td><td>18 settembre</td><td>1974</td><td>30 marzo</td><td>1975</td></tr>
-<tr><td colspan="2">Norvegia</td><td>12 febbraio</td><td>1974</td><td>30 marzo</td><td>1975</td></tr>
-<tr><td colspan="2">Paesi Bassi</td><td>9 ottobre</td><td>1973</td><td>30 marzo</td><td>1975</td></tr>
-<tr><td colspan="2">Aruba</td><td>1° gennaio</td><td>1986</td><td>1° aprile</td><td>1986</td></tr>
-<tr><td colspan="2">Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>18 ottobre</td><td>2010</td><td>16 gennaio</td><td>2011</td></tr>
-<tr><td colspan="2">Regno Unito</td><td>12 novembre</td><td>1974</td><td>30 marzo</td><td>1975</td></tr>
-<tr><td colspan="2">Isola di Man</td><td>12 novembre</td><td>1974 A</td><td>30 marzo</td><td>1975</td></tr>
-<tr><td colspan="2">Isole Falkland</td><td>12 novembre</td><td>1974 A</td><td>30 marzo</td><td>1975</td></tr>
-<tr><td colspan="2">Isole Vergini britanniche</td><td>12 novembre</td><td>1974 A</td><td>30 marzo</td><td>1975</td></tr>
-<tr><td colspan="2">Isole del Canale</td><td>12 novembre</td><td>1974 A</td><td>30 marzo</td><td>1975</td></tr>
-<tr><td colspan="2">Montserrat</td><td>12 novembre</td><td>1974 A</td><td>30 marzo</td><td>1975</td></tr>
-<tr><td colspan="2">Sant’Elena e dipendenze (Ascension e Tristan da Cunha)</td><td>12 novembre</td><td>1974 A</td><td>30 marzo</td><td>1975</td></tr>
-<tr><td colspan="2">Serbia</td><td>23 settembre</td><td>1976</td><td>23 settembre</td><td>1976</td></tr>
-<tr><td colspan="2">Slovenia</td><td>16 giugno</td><td>1993 S</td><td>25 giugno</td><td>1991</td></tr>
-<tr><td colspan="2">Svezia</td><td>25 settembre</td><td>1973</td><td>30 marzo</td><td>1975</td></tr>
-<tr><td colspan="2">Svizzera</td><td>30 dicembre</td><td>1974</td><td>30 marzo</td><td>1975</td></tr>
-<tr><td>\*</td><td colspan="5">Riserve e dichiarazioni, vedi qui appresso.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Australia</td><td>10 dicembre</td><td>1973</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td>Belgio</td><td>22 marzo</td><td>1977</td><td>22 marzo</td><td>1977</td></tr>
+<tr><td>Bosnia e Erzegovina</td><td>1° ottobre</td><td>1993 S</td><td>6 marzo</td><td>1992</td></tr>
+<tr><td>Canada</td><td>9 gennaio</td><td>1975</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td>Danimarca</td><td>24 gennaio</td><td>1974</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td>Francia\*</td><td>16 luglio</td><td>1975</td><td>16 luglio</td><td>1975</td></tr>
+<tr><td>Germania</td><td>13 agosto</td><td>1975</td><td>13 agosto</td><td>1975</td></tr>
+<tr><td>Italia\*</td><td>23 febbraio</td><td>1981</td><td>23 febbraio</td><td>1981</td></tr>
+<tr><td>Marocco\*</td><td>18 settembre</td><td>1974</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td>Norvegia</td><td>12 febbraio</td><td>1974</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td>Paesi Bassi</td><td>9 ottobre</td><td>1973</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td>Aruba</td><td>9 ottobre</td><td>1973</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>18 ottobre</td><td>2010</td><td>16 gennaio</td><td>2011</td></tr>
+<tr><td>Regno Unito</td><td>12 novembre</td><td>1974</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td>Isola di Man</td><td>12 novembre</td><td>1974 A</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td>Isole Falkland</td><td>12 novembre</td><td>1974 A</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td>Isole Vergini britanniche</td><td>12 novembre</td><td>1974 A</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td>Isole del Canale</td><td>12 novembre</td><td>1974 A</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td>Montserrat</td><td>12 novembre</td><td>1974 A</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td>Sant’Elena e dipendenze (Ascension e Tristan da Cunha)</td><td>12 novembre</td><td>1974 A</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td>Serbia</td><td>23 settembre</td><td>1976</td><td>23 settembre</td><td>1976</td></tr>
+<tr><td>Slovenia</td><td>16 giugno</td><td>1993 S</td><td>25 giugno</td><td>1991</td></tr>
+<tr><td>Svezia</td><td>25 settembre</td><td>1973</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td>Svizzera</td><td>30 dicembre</td><td>1974</td><td>30 marzo</td><td>1975</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere consultati all’indirizzo Internet de Governo del Paesi Bassi: [www.overheid.nl](https://www.overheid.nl/) &gt; English &gt; Treaty Database &gt; 002539, o ottenuti presso la Direzione del diritto internazione pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-## Riserve e dichiarazioni
-
-### Francia
-
-La Francia non si considera vincolata dalle disposizioni dell’articolo Il e dichiara che le vertenze concernenti l’interpretazione e l’applicazione del protocollo, non potute comporre in altro modo, potranno essere sottoposte alla Corte Internazionale di giustizia solamente con l’assenso di tutte le parti in causa.
-
-La Francia ha dichiarato che l’approvazione vale per tutto l’insieme del Territorio della Repubblica francese.
-
-### Italia
-
-L’Italia dichiara di confermare la validità delle riserve formulate al tempo del deposito dello strumento d’adesione all’Accordo concernente i marinai rifugiati, concluso all’Aia il 23 novembre 1957.
-
-### Marocco
-
-All’atto del deposito dello strumento di accettazione ha riservato quanto segue:
-
-In caso di controversia, ogni ricorso alla Corte internazionale di Giustizia va fatto in base al consenso di tutte le parti interessate.
+[^t-1]: [RU 1975 839](https://fedlex.data.admin.ch/eli/oc/1975/839_839_839); [1977 9](https://fedlex.data.admin.ch/eli/oc/1977/9_9_9); [1982 2070](https://fedlex.data.admin.ch/eli/oc/1982/2070_2070_2070); [1987 379](https://fedlex.data.admin.ch/eli/oc/1987/379_379_379); [2004 4101](https://fedlex.data.admin.ch/eli/oc/2004/598); [2014 2401](https://fedlex.data.admin.ch/eli/oc/2014/418); [2023 293](https://fedlex.data.admin.ch/eli/oc/2023/293). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.

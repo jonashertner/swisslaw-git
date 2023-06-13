@@ -3,11 +3,11 @@ sr: "0.142.311.1"
 title: Protocole du 12 juin 1973 relatif aux marins réfugiés
 eli: "https://fedlex.data.admin.ch/eli/cc/1975/839_839_839"
 language: fr
-version: 2014-07-22
+version: 2023-06-14
 adopted: 1973-06-12
 in_force: 1975-03-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/839_839_839/20140722/fr/xml/fedlex-data-admin-ch-eli-cc-1975-839_839_839-20140722-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1975/839_839_839/20140722/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/839_839_839/20230614/fr/xml/fedlex-data-admin-ch-eli-cc-1975-839_839_839-20230614-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1975/839_839_839/20230614/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument d’approbation déposé par la Suisse le 30 décembre 1974
 
 Entré en vigueur pour la Suisse le 30 mars 1975
 
-(Etat le 22 juillet 2014)
+(État le 14 juin 2023)
 
 Les Parties au présent Protocole,
 
@@ -46,7 +46,7 @@ sont convenues de ce qui suit:
 
 <sup>(2)</sup> Aux fins du présent Protocole, le terme «marin réfugié» s’applique à toute personne qui, étant réfugiée aux termes de la définition contenue à l’art. I, par. 2, du Protocole relatif au statut des réfugiés du 31 janvier 1967, sert, à quelque titre que ce soit, comme marin à bord d’un navire de commerce ou dont la profession salariée habituelle est celle de marin à bord d’un tel navire.
 
-<sup>(3)</sup> Le présent Protocole sera appliqué sans aucune limitation géographique; toutefois les déclarations déjà faites, en vertu de l’alinéa (a) du par. 1 de la section B de l’article premier de la Convention, par des Etats déjà Parties à celle‑ci, s’appliqueront également sous le régime du présent Protocole, à moins qu’elles n’aient été étendues conformément au par. 2 de la Section B de l’article premier de la Convention.
+<sup>(3)</sup> Le présent Protocole sera appliqué sans aucune limitation géographique; toutefois les déclarations déjà faites, en vertu de l’alinéa (a) du par. 1 de la section B de l’article premier de la Convention, par des États déjà Parties à celle‑ci, s’appliqueront également sous le régime du présent Protocole, à moins qu’elles n’aient été étendues conformément au par. 2 de la Section B de l’article premier de la Convention.
 
 #### Art. II
 
@@ -90,63 +90,45 @@ Le Gouvernement du Royaume des Pays‑Bas informera tous les Gouvernements qui o
 
 #### Art. IX
 
-Un exemplaire du présent Protocole, dont les textes anglais et français font également foi, signé par le Ministre des Affaires Etrangères du Royaume des Pays‑Bas, sera déposé aux archives du Gouvernement du Royaume des Pays-Bas qui en transmettra copie certifiée conforme aux Gouvernements visés à l’art. VIII.
+Un exemplaire du présent Protocole, dont les textes anglais et français font également foi, signé par le Ministre des Affaires Étrangères du Royaume des Pays‑Bas, sera déposé aux archives du Gouvernement du Royaume des Pays-Bas qui en transmettra copie certifiée conforme aux Gouvernements visés à l’art. VIII.
 
 Conformément à l’art. IX du Protocole j’ai apposé ma signature le douze juin mil neuf cent soixante‑treize.
 
 <table>
 <tr><td></td><td>M. van der Stoel</td></tr>
-<tr><td></td><td>Ministre des Affaires Etrangères</td></tr>
+<tr><td></td><td>Ministre des Affaires Étrangères</td></tr>
 <tr><td></td><td>du Royaume des Pays‑Bas</td></tr>
 </table>
 
-Champ d’application le 22 juillet 2014**[^t-1]**
+Champ d’application le 14 juin 2023[^t-1]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th colspan="2">États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td colspan="2">Allemagne</td><td>13 août</td><td>1975</td><td>13 août</td><td>1975</td></tr>
 <tr><td colspan="2">Australie</td><td>10 décembre</td><td>1973</td><td>30 mars</td><td>1975</td></tr>
 <tr><td colspan="2">Belgique</td><td>22 mars</td><td>1977</td><td>22 mars</td><td>1977</td></tr>
 <tr><td colspan="2">Bosnie et Herzégovine</td><td>1<sup>er</sup> octobre</td><td>1993 S</td><td>6 mars</td><td>1992</td></tr>
-<tr><td colspan="2">Canada</td><td>9 janvier</td><td>1975</td><td>9 avril</td><td>1975</td></tr>
+<tr><td colspan="2">Canada</td><td>9 janvier</td><td>1975</td><td>30 mars</td><td>1975</td></tr>
 <tr><td colspan="2">Danemark</td><td>24 janvier</td><td>1974</td><td>30 mars</td><td>1975</td></tr>
 <tr><td colspan="2">France\*</td><td>16 juillet</td><td>1975</td><td>16 juillet</td><td>1975</td></tr>
 <tr><td colspan="2">Italie\*</td><td>23 février</td><td>1981</td><td>23 février</td><td>1981</td></tr>
 <tr><td colspan="2">Maroc\*</td><td>18 septembre</td><td>1974</td><td>30 mars</td><td>1975</td></tr>
 <tr><td colspan="2">Norvège</td><td>12 février</td><td>1974</td><td>30 mars</td><td>1975</td></tr>
 <tr><td colspan="2">Pays-Bas</td><td>9 octobre</td><td>1973</td><td>30 mars</td><td>1975</td></tr>
-<tr><td colspan="2">Aruba</td><td>1<sup>er</sup> janvier</td><td>1986</td><td>1<sup>er</sup> avril</td><td>1986</td></tr>
+<tr><td colspan="2">Aruba</td><td>9 octobre</td><td>1973</td><td>30 mars</td><td>1975</td></tr>
 <tr><td colspan="2">Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>18 octobre</td><td>2010</td><td>16 janvier</td><td>2011</td></tr>
 <tr><td colspan="2">Royaume-Uni</td><td>12 novembre</td><td>1974</td><td>30 mars</td><td>1975</td></tr>
-<tr><td colspan="2">Ile de Man</td><td>12 novembre</td><td>1974 A</td><td>30 mars</td><td>1975</td></tr>
-<tr><td colspan="2">Iles Falkland</td><td>12 novembre</td><td>1974 A</td><td>30 mars</td><td>1975</td></tr>
-<tr><td colspan="2">Iles Vierges britanniques</td><td>12 novembre</td><td>1974 A</td><td>30 mars</td><td>1975</td></tr>
-<tr><td colspan="2">Iles de la Manche</td><td>12 novembre</td><td>1974 A</td><td>30 mars</td><td>1975</td></tr>
+<tr><td colspan="2">Île de Man</td><td>12 novembre</td><td>1974 A</td><td>30 mars</td><td>1975</td></tr>
+<tr><td colspan="2">Îles Falkland</td><td>12 novembre</td><td>1974 A</td><td>30 mars</td><td>1975</td></tr>
+<tr><td colspan="2">Îles Vierges britanniques</td><td>12 novembre</td><td>1974 A</td><td>30 mars</td><td>1975</td></tr>
+<tr><td colspan="2">Îles de la Manche</td><td>12 novembre</td><td>1974 A</td><td>30 mars</td><td>1975</td></tr>
 <tr><td colspan="2">Montserrat</td><td>12 novembre</td><td>1974 A</td><td>30 mars</td><td>1975</td></tr>
 <tr><td colspan="2">Sainte-Hélène et dépen dances (Ascension et Tristan da Cunha)</td><td>12 novembre</td><td>1974 A</td><td>30 mars</td><td>1975</td></tr>
 <tr><td colspan="2">Serbie</td><td>23 septembre</td><td>1976</td><td>23 septembre</td><td>1976</td></tr>
 <tr><td colspan="2">Slovénie</td><td>16 juin</td><td>1993 S</td><td>25 juin</td><td>1991</td></tr>
 <tr><td colspan="2">Suède</td><td>25 septembre</td><td>1973</td><td>30 mars</td><td>1975</td></tr>
 <tr><td colspan="2">Suisse</td><td>30 décembre</td><td>1974</td><td>30 mars</td><td>1975</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations, voir ci-après.</td></tr>
+<tr><td>\*</td><td colspan="5">Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement des Pays-Bas: [www.overheid.nl](https://www.overheid.nl/) &gt; English &gt; Treaty Database &gt; 002539, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-1]: [RO 1975 839](https://fedlex.data.admin.ch/eli/oc/1975/839_839_839), [1977 9](https://fedlex.data.admin.ch/eli/oc/1977/9_9_9), [1982 2070](https://fedlex.data.admin.ch/eli/oc/1982/2070_2070_2070), [1987 379](https://fedlex.data.admin.ch/eli/oc/1987/379_379_379), [2004 4101](https://fedlex.data.admin.ch/eli/oc/2004/598), [2014 2401](https://fedlex.data.admin.ch/eli/oc/2014/418). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
-
-Réserves et déclarations
-
-## France
-
-En ce qui concerne l’art. II, la France ne se considère pas liée par ses dispositions et déclare que les différends concernant l’interprétation et l’application du protocole qui n’auront pu être réglés par d’autres moyens, ne pourront être portés devant la Cour Internationale de justice qu’avec l’accord de toutes les parties au différend.
-
-La France a déclaré que l’approbation vaut pour l’ensemble du Territoire de la République française.
-
-## Italie
-
-L’Italie déclare confirmer la validité des réserves formulées lors du dépôt de l’instrument d’adhésion à l’Arrangement relatif aux marins réfugiés, conclu à La Haye le 23 novembre 1957.
-
-## Maroc
-
-Le Maroc a fait la réserve suivante en déposant son instrument d’acceptation:
-
-En cas de litige, tout recours devant la Cour internationale de Justice doit se faire sur la base d’un consentement de toutes les parties intéressées.
+[^t-1]: [RO 1975 839](https://fedlex.data.admin.ch/eli/oc/1975/839_839_839); [1977 9](https://fedlex.data.admin.ch/eli/oc/1977/9_9_9); [1982 2070](https://fedlex.data.admin.ch/eli/oc/1982/2070_2070_2070); [1987 379](https://fedlex.data.admin.ch/eli/oc/1987/379_379_379); [2004 4101](https://fedlex.data.admin.ch/eli/oc/2004/598); [2014 2401](https://fedlex.data.admin.ch/eli/oc/2014/418); [2023 293](https://fedlex.data.admin.ch/eli/oc/2023/293). Une version du champ d'application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
