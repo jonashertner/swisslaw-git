@@ -3,13 +3,12 @@ canton: BS
 number: "695.500"
 title: Beitragsreglement der Gebäudeversicherung
 language: de
-version: 2002-01-01
-valid_until: 2023-06-14
-version_adopted: 2001-05-03
+version: 2023-06-15
+version_adopted: 2021-12-02
 adopted: 1980-06-17
 in_force: 1981-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/695.500"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3799/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5933/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3799/pdf_file"
 
 Beitragsreglement der Gebäudeversicherung | Gebäudeversicherung[^t-1]
 
-Vom 17. Juni 1980 (Stand 1. Januar 2002)
+Vom 17. Juni 1980 (Stand 15. Juni 2023)
 
 Die Gebäudeversicherung des Kantons Basel-Stadt,
 
@@ -35,23 +34,18 @@ erlässt folgendes Beitragsreglement:
 
 <sup>1</sup> An die Kosten der notwendigen Aufwendungen für Brandschutzeinrichtungen in Gebäuden aller Risikoklassen leistet die Gebäudeversicherung vorbehältlich Ziff. 4 und 5 Beiträge bis höchstens 50% gemäss der Beitragstabelle unter Ziff. 10. Brandschutzeinrichtungen, an die Beiträge geleistet wurden, sind regelmässig und fachtechnisch richtig zu warten bzw. zu unterhalten.
 
-<sup>2</sup> Beitragsberechtigt sind insbesondere
+<sup>2</sup> Beitragsberechtigt sind:
 
-– die fachgerechte Erstellung anerkannter automatischer Brandmeldeanlagen,
+- a) die fachgerechte Erstellung anerkannter automatischer Brandmeldeanlagen;
+- b) die fachgerechte Erstellung anerkannter Gaswarnanlagen;
+- c) die fachgerechte Erstellung anerkannter Sprinkleranlagen;
+- d) die fachgerechte Erstellung von Innenlöscheinrichtungen;
+- e) die fachgerechte Erstellung von Blitzschutzanlagen;
+- f) die fachgerechte Erstellung von Brandschutztüren und -toren in bestehenden Gebäuden;
+- g) die fachgerechte Erstellung von Brandschutzklappen in Ventilationskanälen in bestehenden Gebäuden;
+- h) die Umrüstungskosten von technischen Übermittlungssystemen zur Berufsfeuerwehr Basel-Stadt.
 
-– die fachgerechte Erstellung anerkannter Gaswarnanlagen,
-
-– die fachgerechte Erstellung anerkannter Sprinkleranlagen,
-
-– die fachgerechte Erstellung von Innenlöscheinrichtungen,
-
-– die fachgerechte Erstellung von Blitzschutzanlagen,
-
-– die fachgerechte Erstellung von Brandschutztüren und -toren in bestehenden Gebäuden,
-
-– die fachgerechte Erstellung von Brandschutzklappen in Ventilationskanälen in bestehenden Gebäuden,
-
-– die Umrüstungskosten von technischen Übermittlungssystemen zur Berufsfeuerwehr Basel-Stadt.
+<sup>2<sup>bis</sup></sup> Die Beitragsberechtigung gemäss Abs. 2 ist begrenzt auf die direkten Material- und Montagekosten der brandschutzrelevanten Installationen, ohne die Kosten für allfällige Anpassungsarbeiten oder Zusatzinstallationen. Bei Brandschutztüren und -toren ist lediglich der Kostenteil für die Türen oder Tore (inkl. Zargen) ohne feste Wand- und Deckenanschlusselemente beitragsberechtigt.
 
 <sup>3</sup> Ferner leistet die Gebäudeversicherung einen Beitrag von 50% an die Kosten der Wiederauffüllung von Handfeuerlöschern, die bei der Bekämpfung eines Brandes zur Schadenverminderung eingesetzt wurden.
 
@@ -59,41 +53,25 @@ erlässt folgendes Beitragsreglement:
 
 <sup>1</sup> Vorbehältlich Ziff. 4 und 5 leistet die Gebäudeversicherung Beiträge bis höchstens 50%, im Maximum CHF 150'000 pro Kalenderjahr gemäss der Beitragstabelle unter Ziff. 10, an die Anschaffungskosten von Feuerwehrgeräten der Betriebs- und Werkfeuerwehren bis und mit Stufe 3.
 
-<sup>2</sup> Beitragsberechtigt sind insbesondere
+<sup>2</sup> Beitragsberechtigt sind insbesondere:
 
-– Autodrehleitern, Anhängeleitern, Strebenleitern, Handschiebeleitern, Anstelleitern,
-
-– Tanklöschfahrzeuge, Sonderlöschfahrzeuge,
-
-– Motorspritzen,
-
-– Pionierfahrzeuge,
-
-– Transport- und Pikettfahrzeuge,
-
-– fahrbare Schaumgeräte,
-
-– Löschgeräte ab 50 kg Nutzinhalt,
-
-– Wasserwerfer, Strahlrohre, Luftschaumrohre,
-
-– Feuerwehrschläuche,
-
-– Armaturen,
-
-– Feuerwehr-Beleuchtungsmaterial,
-
-– Rettungsgeräte,
-
-– Löschdecken,
-
-– Pumpen für den Einsatz bei Überflutungen,
-
-– vom Schweizerischen Feuerwehrverband (SFV) anerkannte Atemschutzgeräte,
-
-– persönliche Ausrüstung für den Branddienst,
-
-– weitere, dem Stand der Technik angepasste Geräte und Materialien, sofern sie vom SFV anerkannt sind.
+- a) Autodrehleitern, Anhängeleitern, Strebenleitern, Handschiebeleitern, Anstelleitern;
+- b) Tanklöschfahrzeuge, Sonderlöschfahrzeuge;
+- c) Motorspritzen;
+- d) Pionierfahrzeuge;
+- e) Transport- und Pikettfahrzeuge;
+- f) fahrbare Schaumgeräte;
+- g) Löschgeräte ab 50 kg Nutzinhalt;
+- h) Wasserwerfer, Strahlrohre, Luftschaumrohre;
+- i) Feuerwehrschläuche;
+- j) Armaturen;
+- k) Feuerwehr-Beleuchtungsmaterial;
+- l) Rettungsgeräte;
+- m) Löschdecken;
+- n) Pumpen für den Einsatz bei Überflutungen;
+- o) vom Schweizerischen Feuerwehrverband (SFV) anerkannte Atemschutzgeräte;
+- p) persönliche Ausrüstung für den Branddienst;
+- q) weitere, dem Stand der Technik angepasste Geräte und Materialien, sofern sie vom SFV anerkannt sind.
 
 <sup>3</sup> Werkfeuerwehren der Stufe 4 erhalten an ihre Ausbildungs- und Anschaffungskosten einen Pauschalbeitrag von 10% der fakturierten Prämie der von ihnen im Kanton Basel-Stadt geschützten Werkareale.
 
