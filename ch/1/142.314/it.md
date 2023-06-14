@@ -4,11 +4,11 @@ title: "Ordinanza 3 dell' 11 agosto 1999 sull'asilo relativa al trattamento di d
 short: OAsi 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: it
-version: 2022-03-01
+version: 2023-06-15
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20220301/it/xml/fedlex-data-admin-ch-eli-cc-1999-361-20220301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20220301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20230615/it/xml/fedlex-data-admin-ch-eli-cc-1999-361-20230615-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230615/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20220301/it"
 
 (Ordinanza 3 sull’asilo, OAsi 3)
 
-dell’11 agosto 1999 (Stato 1° marzo 2022)
+dell’11 agosto 1999 (Stato 15 giugno 2023)
 
 Il Consiglio federale svizzero,
 
@@ -116,7 +116,7 @@ La SEM può rendere accessibili le informazioni registrate in Kompass alle segue
 
 **Banca dati Finasi**[^1e-1]
 
-<sup>1</sup> Nella banca dati Finasi sono registrati i dati necessari per il versamento delle somme forfettarie giusta gli articoli 20, 22-24*a*, 26-29 e 31 dell’ordinanza 2 dell’11 agosto 1999[^1e-2] sull’asilo (OAsi 2) e l’articolo 15 dell’ordinanza del 15 agosto 2018[^1e-3] sull’integrazione degli stranieri (OIntS) nonché per le analisi statistiche concernenti tali somme.
+<sup>1</sup> Nella banca dati Finasi sono registrati i dati necessari per il versamento delle somme forfettarie giusta gli articoli 20, 22–24*a*, 26-29 e 31 dell’ordinanza 2 dell’11 agosto 1999[^1e-2] sull’asilo (OAsi 2) e l’articolo 15 dell’ordinanza del 15 agosto 2018[^1e-3] sull’integrazione degli stranieri (OIntS) nonché per le analisi statistiche concernenti tali somme.
 
 <sup>2</sup> La banca dati Finasi contiene i seguenti dati personali di richiedenti l’asilo, persone ammesse provvisoriamente, rifugiati e apolidi: cognome, nome, data di nascita, sesso, cittadinanza e attività lucrativa, data dell’ultima entrata in Svizzera, data dell’ultima domanda d’asilo, data del passaggio in giudicato delle decisioni nella procedura d’asilo, data e motivo della partenza, data dell’ultimo indirizzo nel Cantone e attività lucrativa, numero personale e numero AVS[^1e-4], codice Finasi, Cantone, numero di avviamento postale e numero UST del Comune di domicilio.
 
@@ -487,7 +487,7 @@ I dati che non sono più necessari vanno archiviati o distrutti. L’archiviazio
 
 La presente ordinanza entra in vigore il 1° ottobre 1999.
 
-Allegati 1 e 2*[^t-1]*
+Allegati 1 e 2[^t-1]
 
 [^t-1]: Abrogati dell’all. 3 n. 5 dell’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione, con effetto dal 29 mag. 2006 ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
 
@@ -499,7 +499,7 @@ Allegato 3
 
 [^annex3-lvlu1-1]: Le mod. possono essere consultate alla [RU 1999 2351](https://fedlex.data.admin.ch/eli/oc/1999/361).
 
-Allegato 4*[^t-2]*
+Allegato 4[^t-2]
 
 (art. 1 cpv. 2)
 
@@ -519,7 +519,7 @@ Gli Accordi di associazione alla normativa di Dublino comprendono gli accordi se
 [^annex4-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex4-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Allegato 5*[^t-3]*
+Allegato 5[^t-3]
 
 (art. 1*i* cpv. 2)
 
@@ -551,6 +551,7 @@ Unità organizzative:
 - – VIII: Settore Acquisizione e gestione dei dati
 - – IX: Settore Analisi linguistiche
 - Sicurezza: Collaboratori esterni settore Sicurezza
+- [tab]
 
 ### Catalogo dei dati MIDES
 
@@ -704,13 +705,13 @@ Unità organizzative:
 <tr><td>Ritraduzione del verbale, lingua dell’audizione</td><td colspan="2">B</td><td colspan="2">B</td><td>A</td><td colspan="2"></td><td>A</td><td colspan="3">B</td><td colspan="3">A</td><td colspan="4"></td><td colspan="3"></td><td colspan="2">B</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
 </table>
 
-Allegato 6*[^t-4]*
+Allegato 6[^t-4]
 
 (art. 1*k* cpv. 2)
 
 ## Interfacce tra i sistemi d’informazione
 
-[^t-4]: Introdotto dal n. II cpv. 2 dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
+[^t-4]: Introdotto dal n. II cpv. 2 dell’O del 1° mag. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)). Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 245](https://fedlex.data.admin.ch/eli/oc/2023/245)).
 
 <table>
 <tr><td>I. Dati della banca dati DOPO trasmessi al sistema d’informazione MIDES</td></tr>
@@ -721,7 +722,7 @@ Allegato 6*[^t-4]*
 <tr><td>II. Dati del sistema d’informazione MIDES trasmessi al tool FM</td></tr>
 <tr><td>Pratica «Prima consultazione medica»</td></tr>
 <tr><td>Data della prima audizione del richiedente l’asilo minorenne non accompagnato</td></tr>
-<tr><td>Data di uscita dal centro federale prevista</td></tr>
+<tr><td>Data di uscita prevista dal centro federale</td></tr>
 <tr><td>Lingua dell’audizione</td></tr>
 <tr><td>Richiedente l’asilo minorenne non accompagnato (sì/no)</td></tr>
 <tr><td>Collaboratore specialista</td></tr>
@@ -751,6 +752,7 @@ Allegato 6*[^t-4]*
 <tr><td>Data del colloquio Dublino</td></tr>
 <tr><td>Data di rilevamento delle generalità</td></tr>
 <tr><td>VI. Dati del sistema d’informazione SIMIC trasmessi alla banca dati DOPO</td></tr>
+<tr><td>Data di nascita</td></tr>
 <tr><td>Sesso</td></tr>
 <tr><td>Nazionalità</td></tr>
 <tr><td>N. N</td></tr>
@@ -758,6 +760,8 @@ Allegato 6*[^t-4]*
 <tr><td>Lingue in SIMIC</td></tr>
 <tr><td>N. SIMIC</td></tr>
 <tr><td>Richiedente l’asilo minorenne non accompagnato (sì/no)</td></tr>
+<tr><td>Cantone di attribuzione</td></tr>
+<tr><td>Indirizzo</td></tr>
 <tr><td>VII. Dati del sistema d’informazione SIMIC trasmessi al tool FM</td></tr>
 <tr><td>N. SIMIC</td></tr>
 <tr><td>Stato</td></tr>
@@ -772,6 +776,10 @@ Allegato 6*[^t-4]*
 <tr><td>Richiedente l’asilo minorenne non accompagnato (sì/no)</td></tr>
 <tr><td>Data di fine della fase cadenzata</td></tr>
 <tr><td>Data d’entrata</td></tr>
+<tr><td>Sesso</td></tr>
+<tr><td>Data di nascita</td></tr>
+<tr><td>Indirizzo</td></tr>
+<tr><td>Cantone di attribuzione</td></tr>
 <tr><td>VIII. Dati del sistema d’informazione MIDES trasmessi al tool FM</td></tr>
 <tr><td>Richiedente l’asilo minorenne non accompagnato (sì/no)</td></tr>
 <tr><td>Rappresentante legale</td></tr>

@@ -4,11 +4,11 @@ title: "Ordonnance 3 du 11 août 1999 sur l'asile relative au traitement de donn
 short: OA 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: fr
-version: 2022-03-01
+version: 2023-06-15
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-1999-361-20220301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20220301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20230615/fr/xml/fedlex-data-admin-ch-eli-cc-1999-361-20230615-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230615/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20220301/fr"
 
 (Ordonnance 3 sur l’asile, OA 3)
 
-du 11 août 1999 (Etat le 1<sup>er</sup> mars 2022)
+du 11 août 1999 (État le 15 juin 2023)
 
 Le Conseil fédéral suisse,
 
@@ -50,11 +50,11 @@ Le Secrétariat d’État aux migrations (SEM)[^1a-3] exploite les systèmes d�
 - a. le système d’information central sur la migration (SYMIC) conformément à l’ordonnance SYMIC du 12 avril 2006[^1a-4];
 - b.[^1a-5] la banque de données Kompass;
 - c. l’administration des prêts;
-- d.[^1a-6] ...
+- d.[^1a-6] …
 - e. la banque de données sur le financement de l’asile (Finasi);
 - f. la banque de données sur les cas médicaux;
 - g. la banque de données «Aide au retour individuelle»;
-- h.[^1a-7] ...
+- h.[^1a-7] …
 - i. le système d’information destiné aux centres de la Confédération[^1a-8] et aux logements dans les aéroports (MIDES);
 - j. le système d’information AURORA visé à l’art. 12 de l’ordonnance du 11 août 1999 sur l’exécution du renvoi et de l’expulsion d’étrangers[^1a-9];
 - k.[^1a-10] la banque de données sur le pool d’interprètes (DOPO);
@@ -455,7 +455,7 @@ La sécurité des données est régie par:
 
 - a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^12-2];
 - b.[^12-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-4];
-- c.[^12-5] ...
+- c.[^12-5] …
 
 [^12-1]: Nouvelle teneur selon le ch. I 4 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 20 juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
@@ -473,7 +473,7 @@ Les données qui ne sont plus utilisées sont archivées ou détruites. Elles so
 
 **Statistiques, planification et recherche**
 
-<sup>1</sup> ...[^14-1]
+<sup>1</sup> …[^14-1]
 
 <sup>2</sup> Le SEM peut communiquer aux autorités, aux universités et à leurs instituts ainsi qu’à des organisations privées des données personnelles à des fins relevant de la recherche et de la planification. Le nom des personnes concernées ne doit pas être fourni, dans la mesure où le but du traitement le permet. Les résultats doivent être publiés de façon qu’il soit impossible de déterminer qui sont les personnes concernées. La transmission de ces données n’est licite qu’avec l’assentiment du SEM.
 
@@ -485,7 +485,7 @@ Les données qui ne sont plus utilisées sont archivées ou détruites. Elles so
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 1999.
 
-Annexes 1 et 2*[^t-1]*
+Annexes 1 et 2[^t-1]
 
 [^t-1]: Abrogées par l’annexe 3 ch. 5 de l’O du 12 avr. 2006 sur le système d’information central sur la migration, avec effet au 29 mai 2006 ([RO 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
 
@@ -493,11 +493,11 @@ Annexe 3
 
 ## Modification du droit en vigueur
 
-...[^annex3-lvlu1-1]
+…[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: Les mod. peuvent être consultées au [RO 1999 2351](https://fedlex.data.admin.ch/eli/oc/1999/361).
 
-Annexe 4*[^t-2]*
+Annexe 4[^t-2]
 
 (art. 1, al. 2)
 
@@ -517,7 +517,7 @@ Les accords d’association à Dublin comprennent les accords suivants:
 [^annex4-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex4-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Annexe 5*[^t-3]*
+Annexe 5[^t-3]
 
 (art. 1*i*, al. 2)
 
@@ -703,13 +703,13 @@ Unités organisationnelles:
 <tr><td>Retraduction du procès-verbal, langue de l’audition</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
 </table>
 
-Annexe 6*[^t-4]*
+Annexe 6[^t-4]
 
 (art. 1*k*, al. 2)
 
 ## Interfaces entre les systèmes d’information
 
-[^t-4]: Introduite par le ch. II al. 2 de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
+[^t-4]: Introduite par le ch. II al. 2 de l’O du 1<sup>er</sup> mai 2019 ([RO 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)). Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juin 2023 ([RO 2023 245](https://fedlex.data.admin.ch/eli/oc/2023/245)).
 
 <table>
 <tr><td>I. Données de la banque de données DOPO transmises au système d’information MIDES</td></tr>
@@ -750,6 +750,7 @@ Annexe 6*[^t-4]*
 <tr><td>Date de l’entretien Dublin</td></tr>
 <tr><td>Date de la saisie des données personnelles</td></tr>
 <tr><td>VI. Données du système d’information SYMIC transmises à la banque de données DOPO</td></tr>
+<tr><td>Date de naissance</td></tr>
 <tr><td>Sexe</td></tr>
 <tr><td>Nationalité</td></tr>
 <tr><td>N<sup>o</sup> N</td></tr>
@@ -757,8 +758,10 @@ Annexe 6*[^t-4]*
 <tr><td>Langues dans SYMIC</td></tr>
 <tr><td>N<sup>o</sup> SYMIC</td></tr>
 <tr><td>Requérant d’asile mineur non accompagné (oui/non)</td></tr>
+<tr><td>Canton d’attribution</td></tr>
+<tr><td>Adresse</td></tr>
 <tr><td>VII. Données du système d’information SYMIC transmises au FM-Tool</td></tr>
-<tr><td>N° SYMIC</td></tr>
+<tr><td>N<sup>o</sup> SYMIC</td></tr>
 <tr><td>Pays</td></tr>
 <tr><td>Recours déposé (oui/non)</td></tr>
 <tr><td>Date d’entrée en force</td></tr>
@@ -771,14 +774,18 @@ Annexe 6*[^t-4]*
 <tr><td>Requérant d’asile mineur non accompagné (oui/non)</td></tr>
 <tr><td>Date de fin de la phase cadencée</td></tr>
 <tr><td>Date d’entrée</td></tr>
+<tr><td>Sexe</td></tr>
+<tr><td>Date de naissance</td></tr>
+<tr><td>Adresse</td></tr>
+<tr><td>Canton d’attribution</td></tr>
 <tr><td>VIII. Données du système d’information MIDES transmises au FM-Tool</td></tr>
 <tr><td>Requérant d’asile mineur non accompagné (oui/non)</td></tr>
 <tr><td>Représentant juridique</td></tr>
 <tr><td>Collaborateur chargé de l’affaire</td></tr>
 <tr><td>Genre d’hébergement</td></tr>
-<tr><td>N° SYMIC</td></tr>
+<tr><td>N<sup>o</sup> SYMIC</td></tr>
 <tr><td>IX. Données de SYMIC (partie eAsile) transmises à la banque de données DOPO</td></tr>
-<tr><td>Tri à la suite de l’ entretien Dublin</td></tr>
+<tr><td>Tri à la suite de l’entretien Dublin</td></tr>
 <tr><td>Langue dans eAsile</td></tr>
 <tr><td>N<sup>o</sup> SYMIC</td></tr>
 </table>

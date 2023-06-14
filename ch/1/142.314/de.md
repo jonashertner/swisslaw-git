@@ -4,11 +4,11 @@ title: "Asylverordnung 3 vom 11. August 1999 über die Bearbeitung von Personend
 short: AsylV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: de
-version: 2022-03-01
+version: 2023-06-15
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20220301/de/xml/fedlex-data-admin-ch-eli-cc-1999-361-20220301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20220301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20230615/de/xml/fedlex-data-admin-ch-eli-cc-1999-361-20230615-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20230615/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20220301/de"
 
 (Asylverordnung 3, AsylV 3)
 
-vom 11. August 1999 (Stand am 1. März 2022)
+vom 11. August 1999 (Stand am 15. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -485,7 +485,7 @@ Daten, die nicht mehr benötigt werden, müssen archiviert oder vernichtet werde
 
 Diese Verordnung tritt am 1. Oktober 1999 in Kraft.
 
-Anhänge 1 und 2*[^t-1]*
+Anhänge 1 und 2[^t-1]
 
 [^t-1]: Aufgehoben durch Anhang 3 Ziff. 5 der V vom 12. April 2006 über das Zentrale Migrationsinformationssystem, mit Wirkung seit 29. Mai 2006 ([AS 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
 
@@ -497,7 +497,7 @@ Anhang 3
 
 [^annex3-lvlu1-1]: Die Änderung kann unter [AS 1999 2351](https://fedlex.data.admin.ch/eli/oc/1999/361)konsultiert werden.
 
-Anhang 4*[^t-2]*
+Anhang 4[^t-2]
 
 (Art. 1 Abs. 2)
 
@@ -517,7 +517,7 @@ Die Dublin-Assoziierungsabkommen umfassen:
 [^annex4-lvlu1-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex4-lvlu1-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Anhang 5*[^t-3]*
+Anhang 5[^t-3]
 
 (Art. 1*i* Abs. 2)
 
@@ -704,13 +704,13 @@ Organisationseinheiten:
 <tr><td>Rückübersetzung des Protokolls, Sprache der Befragung</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
 </table>
 
-Anhang 6*[^t-4]*
+Anhang 6[^t-4]
 
 (Art. 1*k* Abs. 2)
 
 ## Schnittstellen zwischen den Informationssystemen
 
-[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
+[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V vom 1. Mai 2019 ([AS 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)). Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juni 2023 ([AS 2023 245](https://fedlex.data.admin.ch/eli/oc/2023/245)).
 
 <table>
 <tr><td>I. Daten der Datenbank DOPO, die an das Informationssystem MIDES übermittelt werden</td></tr>
@@ -751,6 +751,7 @@ Anhang 6*[^t-4]*
 <tr><td>Gesprächstermin Dublin</td></tr>
 <tr><td>Gesprächstermin Personalienaufnahme</td></tr>
 <tr><td>VI. Daten des Informationssystems ZEMIS, die an die Datenbank DOPO übermittelt werden</td></tr>
+<tr><td>Geburtsdatum</td></tr>
 <tr><td>Geschlecht</td></tr>
 <tr><td>Staatsangehörigkeit</td></tr>
 <tr><td>N-Nr.</td></tr>
@@ -758,6 +759,8 @@ Anhang 6*[^t-4]*
 <tr><td>Sprachen in ZEMIS</td></tr>
 <tr><td>ZEMIS-Nr.</td></tr>
 <tr><td>Unbegleitete minderjährige Asylbewerber (Ja/Nein)</td></tr>
+<tr><td>Zugewiesener Kanton</td></tr>
+<tr><td>Adresse</td></tr>
 <tr><td>VII. Daten des Informationssystems ZEMIS, die an das FM-Tool übermittelt werden</td></tr>
 <tr><td>ZEMIS-Nr.</td></tr>
 <tr><td>Land</td></tr>
@@ -772,6 +775,10 @@ Anhang 6*[^t-4]*
 <tr><td>Unbegleitete minderjährige Asylbewerber (Ja/Nein)</td></tr>
 <tr><td>Ist-Datum Taktenphase Endzeitpunkt</td></tr>
 <tr><td>Eintrittsdatum</td></tr>
+<tr><td>Geschlecht</td></tr>
+<tr><td>Geburtsdatum</td></tr>
+<tr><td>Adresse</td></tr>
+<tr><td>Zugewiesener Kanton</td></tr>
 <tr><td>VIII. Daten des Informationssystems MIDES, die an das FM-Tool übermittelt werden</td></tr>
 <tr><td>Unbegleitete minderjährige Asylbewerber (Ja/Nein)</td></tr>
 <tr><td>Rechtsvertreter/in</td></tr>
