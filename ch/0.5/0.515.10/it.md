@@ -3,28 +3,27 @@ sr: "0.515.10"
 title: "Convenzione del 18 ottobre 1907 concernente l'apertura delle ostilità"
 eli: "https://fedlex.data.admin.ch/eli/cc/26/391_318_373"
 language: it
-version: 2015-07-03
+version: 2023-06-15
 adopted: 1907-10-18
 in_force: 1910-07-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/391_318_373/20150703/it/xml/fedlex-data-admin-ch-eli-cc-26-391_318_373-20150703-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/26/391_318_373/20150703/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/391_318_373/20230615/it/xml/fedlex-data-admin-ch-eli-cc-26-391_318_373-20230615-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/26/391_318_373/20230615/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione concernente l’apertura delle ostilità****
+# Convenzione concernente l’apertura delle ostilità
 
 CS **11** 369; FF **1909** I 1 ediz. ted. **1909** I 97 ediz. franc.[^t-1]
 
-Traduzione*[^t-2]*
+Traduzione
 
-Conchiusa all’Aja il 18 ottobre 1907 Approvata dall’Assemblea federale il 4 aprile 1910[^t-3] Istrumento di ratificazione depositato dalla Svizzera il 12 maggio 1910 Entrata in vigore per la Svizzera l’11 luglio 1910
+Conchiusa all’Aja il 18 ottobre 1907 Approvata dall’Assemblea federale il 4 aprile 1910[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 12 maggio 1910 Entrata in vigore per la Svizzera l’11 luglio 1910
 
-(Stato 3 luglio 2015)
+(Stato 15 giugno 2023)
 
 [^t-1]: Trattasi della III<sup>a</sup> Conv. conchiusa alla Conferenza per la pace all’Aia, del 1907. L’atto finale di questa Conferenza è pubblicato in [RS 0.193.212](https://fedlex.data.admin.ch/eli/cc/26/305_271_293)in fine.
-[^t-2]: Il testo originale francese.
-[^t-3]: CS **11** 217
+[^t-2]: CS **11** 217
 
 Sua Maestà l’Imperatore di Germania, Re di Prussia; il Presidente degli Stati Uniti d’America; il Presidente della Repubblica Argentina; Sua Maestà l’Imperatore d’Austria, Re di Boemia, ecc., e Re Apostolico di Ungheria; Sua Maestà il Re dei Belgi; il Presidente della Repubblica di Bolivia; il Presidente della Repubblica degli Stati Uniti del Brasile; Sua Altezza Reale il Principe di Bulgaria; il Presidente della Repubblica del Chilì; il Presidente della Repubblica di Colombia; il Governatore Provvisorio della Repubblica di Cuba; Sua Maestà il Re di Danimarca; il Presidente della Repubblica Dominicana; il Presidente della Repubblica dell’Equatore; Sua Maestà il Re di Spagna; il Presidente della Repubblica Francese; Sua Maestà il Re del Regno Unito di Gran Bretagna e d’Irlanda e dei Territori Britannici al di là dei Mari, Imperatore delle Indie; Sua Maestà il Re degli Elleni; il Presidente della Repubblica di Guatemala; il Presidente della Repubblica di Haiti; Sua Maestà il Re d’Italia; Sua Maestà l’Imperatore del Giappone; Sua Altezza Reale il Granduca di Lussemburgo, Duca di Nassau; il Presidente degli Stati Uniti Messicani; Sua Altezza Reale il Principe di Montenegro; Sua Maestà il Re di Norvegia; il Presidente della Repubblica di Panama; il Presidente della Repubblica del Paraguay; Sua Maestà la Regina dei Paesi Bassi; il Presidente della Repubblica del Perù; Sua Maestà Imperiale lo Scià di Persia; Sua Maestà il Re di Portogallo e degli Algarvi, ecc.; Sua Maestà il Re di Romania; Sua Maestà l’Imperatore di tutte le Russie; il Presidente della Repubblica del Salvador; Sua Maestà il Re di Serbia; Sua Maestà il Re del Siam; Sua Maestà il Re di Svezia; il Consiglio federale svizzero; Sua Maestà l’Imperatore degli Ottomani; il Presidente della Repubblica Orientale dell’Uruguay; il Presidente degli Stati Uniti del Venezuela,
 
@@ -90,12 +89,13 @@ Ciascuna Potenza contraente è ammessa ad esaminare tale registro e a domandarne
 
 *In fede di che,* i Plenipotenziari hanno munito della loro firma la presente Convenzione. Fatto all’Aja, il 18 ottobre 1907, in un solo esemplare che resterà depositato nell’archivio del Governo dei Paesi Bassi e di cui delle copie certificate conformi saranno rimesse in via diplomatica alle Potenze che sono state invitate alla Seconda Conferenza per la Pace. (Seguono le firme)
 
-Campo d’applicazione il 3 luglio 2015**[^t-4]**
+Campo d’applicazione il 15 giugno 2023[^t-3]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratificazione o Adesione (A) Successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratificazione o Adesione (A) Dichiarzione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Austria</td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>1910</td></tr>
 <tr><td>Belgio</td><td>8 agosto</td><td>1910</td><td>7 ottobre</td><td>1910</td></tr>
+<tr><td>Bielorussia</td><td>4 giugno</td><td>1962 S</td><td>4 giugno</td><td>1962</td></tr>
 <tr><td>Bolivia</td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>1910</td></tr>
 <tr><td>Brasile</td><td>5 gennaio</td><td>1914</td><td>6 marzo</td><td>1914</td></tr>
 <tr><td>Cina</td><td>15 gennaio</td><td>1910 A</td><td>16 marzo</td><td>1910</td></tr>
@@ -109,6 +109,8 @@ Campo d’applicazione il 3 luglio 2015**[^t-4]**
 <tr><td>Giappone</td><td>13 dicembre</td><td>1911</td><td>11 febbraio</td><td>1912</td></tr>
 <tr><td>Guatemala</td><td>13 aprile</td><td>1910</td><td>12 giugno</td><td>1910</td></tr>
 <tr><td>Haiti</td><td>2 febbraio</td><td>1910</td><td>3 aprile</td><td>1910</td></tr>
+<tr><td>Islanda</td><td>8 dicembre</td><td>1955 S</td><td>17 giugno</td><td>1944</td></tr>
+<tr><td>Laos</td><td>18 luglio</td><td>1955 S</td><td>18 luglio</td><td>1955</td></tr>
 <tr><td>Liberia</td><td>4 febbraio</td><td>1914 A</td><td>5 aprile</td><td>1914</td></tr>
 <tr><td>Lussemburgo</td><td>5 settembre</td><td>1912</td><td>4 novembre</td><td>1912</td></tr>
 <tr><td>Messico</td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>1910</td></tr>
@@ -119,6 +121,7 @@ Campo d’applicazione il 3 luglio 2015**[^t-4]**
 <tr><td>Curaçao</td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>1910</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>1910</td></tr>
 <tr><td>Sint Maarten</td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>1910</td></tr>
+<tr><td>Pakistan</td><td>5 agosto</td><td>1950 S</td><td>15 agosto</td><td>1947</td></tr>
 <tr><td>Panama</td><td>11 settembre</td><td>1911</td><td>10 novembre</td><td>1911</td></tr>
 <tr><td>Polonia</td><td>7 maggio</td><td>1925 A</td><td>6 luglio</td><td>1925</td></tr>
 <tr><td>Portogallo</td><td>13 aprile</td><td>1911</td><td>12 giugno</td><td>1911</td></tr>
@@ -132,7 +135,7 @@ Campo d’applicazione il 3 luglio 2015**[^t-4]**
 <tr><td>Svizzera</td><td>12 maggio</td><td>1910</td><td>11 luglio</td><td>1910</td></tr>
 <tr><td>Thailandia</td><td>12 marzo</td><td>1910</td><td>11 maggio</td><td>1910</td></tr>
 <tr><td>Ucraina</td><td>29 maggio</td><td>2015 S</td><td>24 agosto</td><td>1991</td></tr>
-<tr><td>Ungheria</td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>1910</td></tr>
+<tr><td>Ungheria</td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>191</td></tr>
 </table>
 
-[^t-4]: CS **11** 369; [RU 1979 957](https://fedlex.data.admin.ch/eli/oc/1979/957_957_957)e [2015 2503](https://fedlex.data.admin.ch/eli/oc/2015/470). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: CS **11** 369; [RU 1979 957](https://fedlex.data.admin.ch/eli/oc/1979/957_957_957); [2015 2503](https://fedlex.data.admin.ch/eli/oc/2015/470); [2023 307](https://fedlex.data.admin.ch/eli/oc/2023/307). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).

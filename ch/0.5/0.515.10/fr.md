@@ -3,16 +3,16 @@ sr: "0.515.10"
 title: "Convention du 18 octobre 1907 relative à l'ouverture des hostilités"
 eli: "https://fedlex.data.admin.ch/eli/cc/26/391_318_373"
 language: fr
-version: 2015-07-03
+version: 2023-06-15
 adopted: 1907-10-18
 in_force: 1910-07-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/391_318_373/20150703/fr/xml/fedlex-data-admin-ch-eli-cc-26-391_318_373-20150703-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/26/391_318_373/20150703/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/391_318_373/20230615/fr/xml/fedlex-data-admin-ch-eli-cc-26-391_318_373-20230615-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/26/391_318_373/20230615/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention relative à l’ouverture des hostilités****
+# Convention relative à l’ouverture des hostilités
 
 RS **11** 365; FF **1909** I 97[^t-1]
 
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à La Haye le 18 octobre 1907 Approuvée par l’Assemblée fédérale le 4 avril 1910[^t-2] Instrument de ratification déposé par la Suisse le 12 mai 1910 Entrée en vigueur pour la Suisse le 11 juillet 1910
 
-(Etat le 3 juillet 2015)
+(État le 15 juin 2023)
 
 [^t-1]: Il s’agit de la III<sup>e</sup> conv. conclue à la Conférence de la paix réunie à La Haye en 1907. L’acte final de cette Conférence est publié au [RS 0.193.212](https://fedlex.data.admin.ch/eli/cc/26/305_271_293)in fine.
 [^t-2]: RS **11** 215
@@ -89,49 +89,53 @@ Chaque Puissance contractante est admise à prendre connaissance de ce registre 
 
 *En foi de quoi,* les Plénipotentiaires ont revêtu la présente Convention de leurs signatures. Fait à La Haye, le dix‑huit octobre mil neuf cent sept, en un seul exemplaire qui restera déposé dans les archives du Gouvernement des Pays‑Bas et dont les copies, certifiées conformes, seront remises par la voie diplomatique aux Puissances qui ont été conviées à la Deuxième Conférence de la Paix. (Suivent les signatures)
 
-Champ d’application de la convention le 3 juillet 2015**[^t-3]**
+Champ d’application de la convention le 15 juin 2023[^t-3]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td>Afrique du Sud</td><td>10 mars</td><td>1978 S</td><td>31 mai</td><td>1910</td></tr>
-<tr><td>Allemagne</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Autriche</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Belgique</td><td>8 août</td><td>1910</td><td>7 octobre</td><td>1910</td></tr>
-<tr><td>Bolivie</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Brésil</td><td>5 janvier</td><td>1914</td><td>6 mars</td><td>1914</td></tr>
-<tr><td>Chine</td><td>15 janvier</td><td>1910 A</td><td>16 mars</td><td>1910</td></tr>
-<tr><td>Danemark</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>El Salvador</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Espagne</td><td>18 mars</td><td>1913</td><td>17 mai</td><td>1913</td></tr>
-<tr><td>Etats‑Unis d’Amérique</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Ethiopie</td><td>5 août</td><td>1935 A</td><td>4 octobre</td><td>1935</td></tr>
-<tr><td>Fidji</td><td>26 janvier</td><td>1973 S</td><td>10 octobre</td><td>1970</td></tr>
-<tr><td>Finlande</td><td>9 juin</td><td>1922 A</td><td>8 août</td><td>1922</td></tr>
-<tr><td>France</td><td>7 octobre</td><td>1910</td><td>6 décembre</td><td>1910</td></tr>
-<tr><td>Guatémala</td><td>13 avril</td><td>1910</td><td>12 juin</td><td>1910</td></tr>
-<tr><td>Haïti</td><td>2 février</td><td>1910</td><td>3 avril</td><td>1910</td></tr>
-<tr><td>Hongrie</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Japon</td><td>13 décembre</td><td>1911</td><td>11 février</td><td>1912</td></tr>
-<tr><td>Libéria</td><td>4 février</td><td>1914 A</td><td>5 avril</td><td>1914</td></tr>
-<tr><td>Luxembourg</td><td>5 septembre</td><td>1912</td><td>4 novembre</td><td>1912</td></tr>
-<tr><td>Mexique</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Nicaragua</td><td>16 décembre</td><td>1909 A</td><td>14 février</td><td>1910</td></tr>
-<tr><td>Norvège</td><td>19 septembre</td><td>1910</td><td>18 novembre</td><td>1910</td></tr>
-<tr><td>Panama</td><td>11 septembre</td><td>1911</td><td>10 novembre</td><td>1911</td></tr>
-<tr><td>Pays‑Bas</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Aruba</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Curaçao</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Sint Maarten</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Pologne</td><td>7 mai</td><td>1925 A</td><td>6 juillet</td><td>1925</td></tr>
-<tr><td>Portugal</td><td>13 avril</td><td>1911</td><td>12 juin</td><td>1911</td></tr>
-<tr><td>Roumanie</td><td>1<sup>er</sup> mars</td><td>1912</td><td>30 avril</td><td>1912</td></tr>
-<tr><td>Royaume-Uni</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Russie</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Suède</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>Suisse</td><td>12 mai</td><td>1910</td><td>11 juillet</td><td>1910</td></tr>
-<tr><td>Thaïlande</td><td>12 mars</td><td>1910</td><td>11 mai</td><td>1910</td></tr>
-<tr><td>Ukraine</td><td>29 mai</td><td>2015 S</td><td>24 août</td><td>1991</td></tr>
+<tr><th colspan="2">Etats parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td colspan="2">Afrique du Sud</td><td colspan="2">10 mars</td><td colspan="2">1978 S</td><td>31 mai</td><td>1910</td></tr>
+<tr><td colspan="2">Allemagne</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">Autriche</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">Bélarus</td><td colspan="2">4 juin</td><td colspan="2">1962 S</td><td>4 juin</td><td>1962</td></tr>
+<tr><td colspan="2">Belgique</td><td colspan="2">8 août</td><td colspan="2">1910</td><td>7 octobre</td><td>1910</td></tr>
+<tr><td colspan="2">Bolivie</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">Brésil</td><td colspan="2">5 janvier</td><td colspan="2">1914</td><td>6 mars</td><td>1914</td></tr>
+<tr><td colspan="2">Chine</td><td colspan="2">15 janvier</td><td colspan="2">1910 A</td><td>16 mars</td><td>1910</td></tr>
+<tr><td colspan="2">Danemark</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">El Salvador</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">Espagne</td><td colspan="2">18 mars</td><td colspan="2">1913</td><td>17 mai</td><td>1913</td></tr>
+<tr><td colspan="2">Etats‑Unis d’Amérique</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">Ethiopie</td><td colspan="2">5 août</td><td colspan="2">1935 A</td><td>4 octobre</td><td>1935</td></tr>
+<tr><td colspan="2">Fidji</td><td colspan="2">26 janvier</td><td colspan="2">1973 S</td><td>10 octobre</td><td>1970</td></tr>
+<tr><td colspan="2">Finlande</td><td colspan="2">9 juin</td><td colspan="2">1922 A</td><td>8 août</td><td>1922</td></tr>
+<tr><td colspan="2">France</td><td colspan="2">7 octobre</td><td colspan="2">1910</td><td>6 décembre</td><td>1910</td></tr>
+<tr><td colspan="2">Guatémala</td><td colspan="2">13 avril</td><td colspan="2">1910</td><td>12 juin</td><td>1910</td></tr>
+<tr><td colspan="2">Haïti</td><td colspan="2">2 février</td><td colspan="2">1910</td><td>3 avril</td><td>1910</td></tr>
+<tr><td colspan="2">Hongrie</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">Islande</td><td colspan="2">8 décembre</td><td colspan="2">1955 S</td><td>17 juin</td><td>1944</td></tr>
+<tr><td colspan="2">Japon</td><td colspan="2">13 décembre</td><td colspan="2">1911</td><td>11 février</td><td>1912</td></tr>
+<tr><td colspan="2">Laos</td><td colspan="2">18 juillet</td><td colspan="2">1955 S</td><td>18 juillet</td><td>1955</td></tr>
+<tr><td colspan="2">Libéria</td><td colspan="2">4 février</td><td colspan="2">1914 A</td><td>5 avril</td><td>1914</td></tr>
+<tr><td colspan="2">Luxembourg</td><td colspan="2">5 septembre</td><td colspan="2">1912</td><td>4 novembre</td><td>1912</td></tr>
+<tr><td colspan="2">Mexique</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">Nicaragua</td><td colspan="2">16 décembre</td><td colspan="2">1909 A</td><td>14 février</td><td>1910</td></tr>
+<tr><td colspan="2">Norvège</td><td colspan="2">19 septembre</td><td colspan="2">1910</td><td>18 novembre</td><td>1910</td></tr>
+<tr><td colspan="2">Pakistan</td><td colspan="2">5 août</td><td colspan="2">1950 S</td><td>15 août</td><td>1947</td></tr>
+<tr><td colspan="2">Panama</td><td colspan="2">11 septembre</td><td colspan="2">1911</td><td>10 novembre</td><td>1911</td></tr>
+<tr><td colspan="2">Pays‑Bas</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">Aruba</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">Curaçao</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">Sint Maarten</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">Pologne</td><td colspan="2">7 mai</td><td colspan="2">1925 A</td><td>6 juillet</td><td>1925</td></tr>
+<tr><td colspan="2">Portugal</td><td colspan="2">13 avril</td><td colspan="2">1911</td><td>12 juin</td><td>1911</td></tr>
+<tr><td colspan="2">Roumanie</td><td colspan="2">1<sup>er</sup> mars</td><td colspan="2">1912</td><td>30 avril</td><td>1912</td></tr>
+<tr><td colspan="2">Royaume-Uni</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">Russie</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">Suède</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td colspan="2">Suisse</td><td colspan="2">12 mai</td><td colspan="2">1910</td><td>11 juillet</td><td>1910</td></tr>
+<tr><td colspan="2">Thaïlande</td><td colspan="2">12 mars</td><td colspan="2">1910</td><td>11 mai</td><td>1910</td></tr>
+<tr><td colspan="2">Ukraine</td><td colspan="2">29 mai</td><td colspan="2">2015 S</td><td>24 août</td><td>1991</td></tr>
 </table>
 
-[^t-3]: [RO 1979 957](https://fedlex.data.admin.ch/eli/oc/1979/957_957_957), [2015 2503](https://fedlex.data.admin.ch/eli/oc/2015/470). Une version du champ d´application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: RO **11** 365; [1979 957](https://fedlex.data.admin.ch/eli/oc/1979/957_957_957); [2015 2503](https://fedlex.data.admin.ch/eli/oc/2015/470); [2023 307](https://fedlex.data.admin.ch/eli/oc/2023/307). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
