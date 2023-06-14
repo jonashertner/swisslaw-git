@@ -4,11 +4,11 @@ title: "Ordinance of 18 December 2013 on the Central Visa Information System and
 short: VISO
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: en
-version: 2022-05-01
+version: 2023-06-15
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20220501/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20220501-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20230615/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20230615-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230615/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Visa Information System Ordinance, VISO)
 
-of 18 December 2013 (Status as of 1 May 2022)
+of 18 December 2013 (Status as of 15 June 2023)
 
 The Swiss Federal Council,
 
@@ -200,7 +200,7 @@ The following authorities have online access to the ORBIS data in order to fulfi
   at the Federal Office of Police (fedpol):
 
   - 1\. the Legal Services Section: to issue rulings on measures banning entry to safeguard Switzerland's internal and external security in accordance with Articles 67 paragraph 4 and 68 paragraph 3 FNIA,
-  - 2\. the authorities responsible for the computerised police search system (RIPOL): for identification of persons in connection with the supervision of the recording of RIPOL data under the RIPOL Ordinance of 15 October 2008[^10-2],
+  - 2\.[^10-2] the authorities responsible for the computerised police search system (RIPOL): for identification of persons in connection with the supervision of the recording of RIPOL data under the RIPOL Ordinance of 26 October 2016[^10-3],
   - 3\. the authorities responsible for international correspondence, and the operations centre: in order to identify persons in connection with the exchange of police intelligence at inter-cantonal and international levels and to verify measures banning entry to safeguard Switzerland's internal and external security,
   - 4\.
 
@@ -211,18 +211,18 @@ The following authorities have online access to the ORBIS data in order to fulfi
 
   - 5\. the service for identity documents and tracing missing persons: to trace the whereabouts of such persons,
   - 6\. the authority responsible for operating the automated fingerprint identification system (AFIS): in order to identify persons under Article 102 paragraph 1 FNIA,
-  - 7\. the responsible service at the Money Laundering Reporting Office: in order to identify persons and to determine their residency status in connection with the statutory duties of the Reporting Office to combat money laundering and its predicate offences, organised crime and the financing of terrorism under Article 23 of the Anti-Money Laundering Act of 10 October 1997[^10-3];
+  - 7\. the responsible service at the Money Laundering Reporting Office: in order to identify persons and to determine their residency status in connection with the statutory duties of the Reporting Office to combat money laundering and its predicate offences, organised crime and the financing of terrorism under Article 23 of the Anti-Money Laundering Act of 10 October 1997[^10-4];
 
-- g.[^10-4] the cantonal and communal migration authorities and the cantonal and communal police authorities: to fulfil their duties in the field of immigration;
+- g.[^10-5] the cantonal and communal migration authorities and the cantonal and communal police authorities: to fulfil their duties in the field of immigration;
 - h. the civil register offices and their supervisory authorities, and the Federal Civil Status Office: to verify the legality of the residence in Switzerland of persons engaged to be married who are not Swiss citizens and to notify the responsible authority of the identity of persons engaged to be married who are unable to prove the legality of their residence;
 - i.
 
   at the Federal Office of Justice:
 
-  - 1\. the International Mutual Assistance Unit: to fulfil its duties in connection with international mutual assistance proceedings under the Mutual Assistance Act of 20 March 1981[^10-5],
-  - 2\. the Private Law Unit: to fulfil its duties in connection with proceedings under the Federal Act of 21 December 2007[^10-6] on International Child Abduction and the Hague Conventions on the Protection of Children and Adults;
+  - 1\. the International Mutual Assistance Unit: to fulfil its duties in connection with international mutual assistance proceedings under the Mutual Assistance Act of 20 March 1981[^10-6],
+  - 2\. the Private Law Unit: to fulfil its duties in connection with proceedings under the Federal Act of 21 December 2007[^10-7] on International Child Abduction and the Hague Conventions on the Protection of Children and Adults;
 
-- j. the Federal Intelligence Service: to verify measures banning entry to safeguard Switzerland's internal and external security under the Federal Act of 21 March 1997[^10-7] on Measures to Safeguard Internal Security;
+- j. the Federal Intelligence Service: to verify measures banning entry to safeguard Switzerland's internal and external security under the Federal Act of 21 March 1997[^10-8] on Measures to Safeguard Internal Security;
 - k. the Federal Administrative Court: for the preparatory briefing procedure for appeals under the FNIA;
 - l.
 
@@ -231,27 +231,28 @@ The following authorities have online access to the ORBIS data in order to fulfi
   - 1\. the levying of Value Added Tax on goods and services supplied for consideration by taxable persons on Swiss territory (domestic tax) and on the acquisition by recipients on Swiss territory of supplies from businesses domiciled abroad (acquisition tax) and the levying of withholding tax,
   - 2\. the conduct of criminal proceedings and administrative or mutual legal assistance proceedings;
 
-- m.[^10-8]
+- m.[^10-9]
 
-  the Federal Office for Customs and Border Security[^10-9]:
+  the Federal Office for Customs and Border Security[^10-10]:
 
   - 1\. to fulfil their tasks in levying Value Added Tax on the import of goods (import tax),
   - 2\. in order to identify persons in connection with customs investigations;
 
-- n.[^10-10] ...
+- n.[^10-11] ...
 
 <sup>2</sup> The access rights are regulated in Annex 2.
 
 [^10-1]: Term in accordance with Annex No II 2 of the O of 17 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^10-2]: [[AS 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Annex 4 No II 15, [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Annex 3 No 4, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)No I 4. [AS 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)Annex 2 No I]. See now the RIPOL O of 26 Oct. 2016 ([SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)).
-[^10-3]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^10-4]: Amended by No I of the O of 19 Feb. 2020, in force since 1 April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^10-5]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^10-6]: [SR 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
-[^10-7]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^10-8]: Amended by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
-[^10-9]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
-[^10-10]: Repealed by No I of the O of 21 Nov. 2018, with effect from 1 Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-2]: Amended by No I of the O of 10 May 2023, in force since 15 June 2023 ([AS 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
+[^10-3]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^10-4]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^10-5]: Amended by No I of the O of 19 Feb. 2020, in force since 1 April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^10-6]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^10-7]: [SR 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
+[^10-8]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^10-9]: Amended by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-10]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
+[^10-11]: Repealed by No I of the O of 21 Nov. 2018, with effect from 1 Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
 
 ## Chapter 3 Central Visa Information System
 
@@ -483,23 +484,22 @@ The fedpol OC shall verify whether:
 
 #### Art. 23
 
-**Consultation of other databases**
+**Consultation of other databases**[^23-1]
 
-On receipt of a visa application, the visa authorities shall systematically consult the following databases via ORBIS, provided they are entitled to do so:
+Provided the user has the required authorisation, on receipt of a visa application in ORBIS an automatic search is made of the following databases:
 
-- a. the Central Migration Information System (ZEMIS) in accordance with the ZEMIS Ordinance of 12 April 2006[^23-1];
-- b. RIPOL in accordance with the RIPOL Ordinance of 15 October 2008[^23-2];
-- c. the Schengen Information System (SIS) in accordance with the N-SIS Ordinance of 8 March 2013[^23-3];
-- d.[^23-4] the Interpol Automated Search Facility database (ASF Interpol) in accordance with the Interpol Ordinance of 21 June 2013[^23-5];
-- e.[^23-6] the Entry and Exit System in accordance with the Ordinance of 10 November 2021[^23-7] on the Entry and Exit System.
+- a. the Central Migration Information System (ZEMIS) in accordance with the ZEMIS Ordinance of 12 April 2006[^23-2];
+- b. RIPOL in accordance with the RIPOL Ordinance of 26 October 2016[^23-3];
+- c. the Schengen Information System (SIS) in accordance with the N-SIS Ordinance of 8 March 2013[^23-4];
+- d. the Interpol Automated Search Facility database (ASF Interpol) in accordance with the Interpol Ordinance of 21 June 2013[^23-5];
+- e. the Entry and Exit System in accordance with the Ordinance of 10 November 2021[^23-6] on the Entry and Exit System.
 
-[^23-1]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
-[^23-2]: [[AS 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Annex 4 No II 15, [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Annex 3 No 4, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)No I 4. [AS 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)Annex 2 No I]. See now the RIPOL O of 26 Oct. 2016 ([SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)).
-[^23-3]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
-[^23-4]: Amended by No I of the O of 19 Feb. 2020, in force since 1 April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^23-1]: Amended by No I of the O of 10 May 2023, in force since 15 June 2023 ([AS 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
+[^23-2]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^23-3]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^23-4]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
 [^23-5]: [SR 366.1](https://fedlex.data.admin.ch/eli/cc/2013/466)
-[^23-6]: Inserted by No I of the O of 10 Nov. 2021, in force since 1 May 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
-[^23-7]: [SR 142.206](https://fedlex.data.admin.ch/eli/cc/2021/734)
+[^23-6]: [SR 142.206](https://fedlex.data.admin.ch/eli/cc/2021/734)
 
 #### Art. 24
 
@@ -763,7 +763,7 @@ The Dublin Association Agreements comprise:
 [^annex1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Annex 2*[^t-1]*
+Annex 2[^t-1]
 
 (Art. 5 para. 1, 6 para. 1 and 10 para. 2)
 
@@ -895,7 +895,7 @@ Organisational units
 [^annex2-lvlu1-2]: See footnote to Art. 6 para. 1.
 [^annex2-lvlu1-3]: These Annexes (Documents relating to the applicant, remarks) are available in PDF format and are replaced by an e-dossier as soon as all the documents have been scanned.
 
-Annex 3*[^t-2]*
+Annex 3[^t-2]
 
 (Art. 11 para. 3 and 35 para. 4)
 

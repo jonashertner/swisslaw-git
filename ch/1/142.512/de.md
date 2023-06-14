@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Dezember 2013 über das zentrale Visa-Informationssys
 short: VISV
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: de
-version: 2022-05-01
+version: 2023-06-15
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20220501-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20230615/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20230615-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230615/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20220501/de"
 
 (Visa-Informationssystem-Verordnung, VISV)
 
-vom 18. Dezember 2013 (Stand am 1. Mai 2022)
+vom 18. Dezember 2013 (Stand am 15. Juni 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -198,7 +198,7 @@ Die folgenden Behörden haben zur Erfüllung der ihnen übertragenen Aufgaben on
   beim Bundesamt für Polizei (fedpol):
 
   - 1\. der Rechtsdienst: zum Erlass von Verfügungen von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach den Artikeln 67 Absatz 4 und 68 Absatz 3 AIG,
-  - 2\. die für das automatisierte Polizeifahndungssystem (RIPOL) zuständigen Dienststellen: zur Personenidentifikation im Zusammenhang mit der Kontrolle der RIPOL-Erfassung nach der RIPOL-Verordnung vom 15. Oktober 2008[^10-2],
+  - 2\.[^10-2] die für das automatisierte Polizeifahndungssystem (RIPOL) zuständigen Dienststellen: zur Personenidentifikation im Zusammenhang mit der Kontrolle der RIPOL-Erfassung nach der RIPOL-Verordnung vom 26. Oktober 2016[^10-3],
   - 3\. die Dienststellen, die für den internationalen Schriftverkehr zuständig sind, und die Einsatzzentrale: zur Personenidentifikation in den Bereichen des interkantonalen und internationalen polizeilichen Nachrichtenaustausches sowie zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz,
   - 4\.
 
@@ -209,18 +209,18 @@ Die folgenden Behörden haben zur Erfüllung der ihnen übertragenen Aufgaben on
 
   - 5\. der Dienst Ausweisschriften und Nachforschungen nach vermissten Personen: zu Nachforschungen im Zusammenhang mit dem Aufenthalt dieser Personen,
   - 6\. die für die Führung des automatisierten Fingerabdruck-Identifikationssystems (AFIS) zuständige Dienststelle: zur Personenidentifikation nach Artikel 102 Absatz 1 AIG,
-  - 7\. der zuständige Dienst bei der Meldestelle Geldwäscherei: zur Identifikation von Personen und zur Feststellung ihres Aufenthaltsstatus im Zusammenhang mit der gesetzlichen Aufgabe der Meldestelle im Kampf gegen Geldwäscherei und deren Vortaten, organisiertes Verbrechen und Terrorismusfinanzierung nach Artikel 23 des Geldwäschereigesetzes vom 10. Oktober 1997[^10-3];
+  - 7\. der zuständige Dienst bei der Meldestelle Geldwäscherei: zur Identifikation von Personen und zur Feststellung ihres Aufenthaltsstatus im Zusammenhang mit der gesetzlichen Aufgabe der Meldestelle im Kampf gegen Geldwäscherei und deren Vortaten, organisiertes Verbrechen und Terrorismusfinanzierung nach Artikel 23 des Geldwäschereigesetzes vom 10. Oktober 1997[^10-4];
 
-- g.[^10-4] die kantonalen und kommunalen Migrationsbehörden sowie die kantonalen und kommunalen Polizeibehörden: zur Erfüllung ihrer Aufgaben im Ausländerbereich;
+- g.[^10-5] die kantonalen und kommunalen Migrationsbehörden sowie die kantonalen und kommunalen Polizeibehörden: zur Erfüllung ihrer Aufgaben im Ausländerbereich;
 - h. die Zivilstandsämter und ihre Aufsichtsbehörden sowie das Eidgenössische Amt für Zivilstandswesen: zur Prüfung der Rechtmässigkeit des Aufenthalts in der Schweiz von Verlobten ohne schweizerische Staatsbürgerschaft sowie zur Mitteilung der Identität von Verlobten, die keinen Nachweis für die Rechtmässigkeit ihres Aufenthalts erbracht haben, an die zuständige Behörde;
 - i.
 
   beim Bundesamt für Justiz:
 
-  - 1\. der Direktionsbereich Internationale Rechtshilfe: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren der internationalen Rechtshilfe nach dem Rechtshilfegesetz vom 20. März 1981[^10-5],
-  - 2\. der Direktionsbereich Privatrecht: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren nach dem Bundesgesetz vom 21. Dezember 2007[^10-6] über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen;
+  - 1\. der Direktionsbereich Internationale Rechtshilfe: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren der internationalen Rechtshilfe nach dem Rechtshilfegesetz vom 20. März 1981[^10-6],
+  - 2\. der Direktionsbereich Privatrecht: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren nach dem Bundesgesetz vom 21. Dezember 2007[^10-7] über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen;
 
-- j. der Nachrichtendienst des Bundes: zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach dem Bundesgesetz vom 21. März 1997[^10-7] über Massnahmen zur Wahrung der inneren Sicherheit;
+- j. der Nachrichtendienst des Bundes: zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach dem Bundesgesetz vom 21. März 1997[^10-8] über Massnahmen zur Wahrung der inneren Sicherheit;
 - k. das Bundesverwaltungsgericht: für die Instruktion von Beschwerden nach dem AIG;
 - l.
 
@@ -229,27 +229,28 @@ Die folgenden Behörden haben zur Erfüllung der ihnen übertragenen Aufgaben on
   - 1\. der Erhebung der Mehrwertsteuer auf den im Inland von steuerpflichtigen Personen gegen Entgelt erbrachten Leistungen (Inlandsteuer) und auf dem Bezug von Leistungen von Unternehmen mit Sitz im Ausland durch Empfängerinnen und Empfänger im Inland (Bezugsteuer) sowie bei der Erhebung der Verrechnungssteuer,
   - 2\. der Durchführung von Strafverfahren und von Amts- oder Rechtshilfeverfahren;
 
-- m.[^10-8]
+- m.[^10-9]
 
-  das Bundesamt für Zoll und Grenzsicherheit[^10-9]:
+  das Bundesamt für Zoll und Grenzsicherheit[^10-10]:
 
   - 1\. zur Erfüllung ihrer Aufgaben bei der Erhebung der Mehrwertsteuer auf der Einfuhr von Gegenständen (Einfuhrsteuer),
   - 2\. zur Personenidentifikation im Zusammenhang mit der Zollfahndung;
 
-- n.[^10-10] …
+- n.[^10-11] …
 
 <sup>2</sup> Die Zugangsberechtigungen sind in Anhang 2 geregelt.
 
 [^10-1]: Ausdruck gemäss Anhang Ziff. II 2 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^10-2]: [[AS 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699); [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 15; [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Anhang 3 Ziff. 4; [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)Ziff. I 4. [AS 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)Anhang 2 Ziff. I]. Siehe heute: die RIPOL-Verordnung vom 26. Okt. 2016 ([SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)).
-[^10-3]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^10-4]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^10-5]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^10-6]: [SR 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
-[^10-7]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^10-8]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
-[^10-9]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^10-10]: Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juni 2023 ([AS 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
+[^10-3]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^10-4]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^10-5]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^10-6]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^10-7]: [SR 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
+[^10-8]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^10-9]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-10]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^10-11]: Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
 
 ## 3. Kapitel: Zentrales Visa-Informationssystem
 
@@ -481,23 +482,22 @@ Die EZ fedpol überprüft, ob:
 
 #### Art. 23
 
-**Abfrage anderer Datenbanken**
+**Abfrage anderer Datenbanken**[^23-1]
 
-Bei der Einreichung eines Visumgesuchs nehmen die Visumbehörden systematisch über ORBIS eine Abfrage in den folgenden Datenbanken vor, sofern sie dazu berechtigt sind:
+Sofern die Benutzerin oder der Benutzer die Berechtigung dazu hat, findet bei der Einreichung eines Visumgesuchs im ORBIS automatisch eine Abfrage in den folgenden Datenbanken statt:
 
-- a. im Zentralen Migrationsinformationssystem (ZEMIS) nach der ZEMIS-Verordnung vom 12. April 2006[^23-1];
-- b. im RIPOL nach der RIPOL-Verordnung vom 15. Oktober 2008[^23-2];
-- c. im Schengener Informationssystem (SIS) nach der N-SIS-Verordnung vom 8. März 2013[^23-3];
-- d.[^23-4] in der Interpol-Datenbank Automated Search Facility (ASF-Interpol) nach der Interpol-Verordnung vom 21. Juni 2013[^23-5];
-- e.[^23-6] im Einreise- und Ausreisesystem nach der Verordnung vom 10. November 2021[^23-7] über das Einreise- und Ausreisesystem.
+- a. im Zentralen Migrationsinformationssystem (ZEMIS) nach der ZEMIS-Verordnung vom 12. April 2006[^23-2];
+- b. im RIPOL nach der RIPOL-Verordnung vom 26. Oktober 2016[^23-3];
+- c. im Schengener Informationssystem (SIS) nach der N-SIS-Verordnung vom 8. März 2013[^23-4];
+- d. in der Interpol-Datenbank Automated Search Facility (ASF-Interpol) nach der Interpol-Verordnung vom 21. Juni 2013[^23-5];
+- e. im Einreise- und Ausreisesystem nach der Verordnung vom 10. November 2021[^23-6] über das Einreise- und Ausreisesystem.
 
-[^23-1]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
-[^23-2]: [[AS 2008 5013](https://fedlex.data.admin.ch/eli/oc/2008/699), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 15, [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Anhang 3 Ziff. 4, [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)Ziff. I 4. [AS 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)Anhang 2 Ziff. I]. Siehe heute: die RIPOL-Verordnung vom 26. Okt. 2016 ([SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)).
-[^23-3]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
-[^23-4]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^23-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juni 2023 ([AS 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
+[^23-2]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^23-3]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^23-4]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
 [^23-5]: [SR 366.1](https://fedlex.data.admin.ch/eli/cc/2013/466)
-[^23-6]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
-[^23-7]: [SR 142.206](https://fedlex.data.admin.ch/eli/cc/2021/734)
+[^23-6]: [SR 142.206](https://fedlex.data.admin.ch/eli/cc/2021/734)
 
 #### Art. 24
 
@@ -761,7 +761,7 @@ Die Dublin-Assoziierungsabkommen umfassen:
 [^annex1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 5 Abs. 1, 6 Abs. 1 und 10 Abs. 2)
 
@@ -894,7 +894,7 @@ Organisationseinheiten:
 [^annex2-lvlu1-lvlu2-1]: Vgl. Fussnote zu Art. 6 Abs. 1.
 [^annex2-lvlu1-lvlu2-2]: Diese Anhänge (Dokumente der gesuchstellenden Person, Bemerkungen) sind im PDF-Format verfügbar und werden durch ein E-Dossier ersetzt, sobald alle Dokumente gescannt sind.
 
-Anhang 3*[^t-2]*
+Anhang 3[^t-2]
 
 (Art. 11 Abs. 3 und 35 Abs. 4)
 
@@ -930,7 +930,7 @@ Organisationseinheiten:
 
 <table>
 <tr><th>Bezeichnung der Datenfelder</th><th>SEM I Statistik</th><th>SEM II Visa</th><th>SEM III Asyl Anwendung EU-Dublin-Verordnung[^annex3-lvlu1-lvlu2-1]</th><th>SEM IV Asyl Asylverfahren</th><th>MIGRA und GREPO als Visa ausstellende Behörden</th><th>GREPO Grenzkontrolle</th><th>AV</th><th>EDA</th><th>KAPO im Hoheits-gebiet der Schweiz</th><th>EZ fedpol</th></tr>
-<tr><td colspan="11">**I. Daten bei der Gesuchstellung**</td></tr>
+<tr><td colspan="11">I. Daten bei der Gesuchstellung</td></tr>
 <tr><td>Gesuchsnummer</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Statusinformation: Gesuch gestellt</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
@@ -963,7 +963,7 @@ Organisationseinheiten:
 <tr><td>Eintrag «entfällt», da Bereitstellung der Fingerabdrücke nicht möglich ist</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
 <tr><td>Eintrag «entfällt», da Bereitstellung der Fingerabdrücke nicht erforderlich ist</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
 <tr><td>Fingerabdrücke erfasst (ja/nein)</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td colspan="11">**II. Daten bei der Visumerteilung**</td></tr>
+<tr><td colspan="11">II. Daten bei der Visumerteilung</td></tr>
 <tr><td>Statusinformation: Visum erteilt oder Verfahren aufgrund von Rückzug des Gesuchs durch Gesuchsteller/in abgeschlossen</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -976,25 +976,25 @@ Organisationseinheiten:
 <tr><td>Visum auf einem separaten Formblatt erteilt (ja/nein)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Visumvignette handschriftlich ausgefüllt</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Dauer des durch das Visum erlaubten Aufenthalts</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">**III. Daten bei Nichtfortführung der Prüfung des Gesuchs**</td></tr>
+<tr><td colspan="11">III. Daten bei Nichtfortführung der Prüfung des Gesuchs</td></tr>
 <tr><td>Statusinformation: nicht fortgeführt</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Schengen-Staat, der für die Prüfung des Gesuchs zuständig ist</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
-<tr><td colspan="11">**IV. Daten bei Ablehnung des Visums**</td></tr>
+<tr><td colspan="11">IV. Daten bei Ablehnung des Visums</td></tr>
 <tr><td>Statusinformation: abgelehnt</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Gründe für die Ablehnung</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td colspan="11">**V. Daten bei Annullierung oder Aufhebung eines Visums**</td></tr>
+<tr><td colspan="11">V. Daten bei Annullierung oder Aufhebung eines Visums</td></tr>
 <tr><td>Statusinformation: annulliert, aufgehoben</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Gründe für die Annullierung oder die Aufhebung (von Hand einzutragen)</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">**VI. Daten bei Verlängerung eines Visums**</td></tr>
+<tr><td colspan="11">VI. Daten bei Verlängerung eines Visums</td></tr>
 <tr><td>Statusinformation: verlängert</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -1005,7 +1005,7 @@ Organisationseinheiten:
 <tr><td>Gebiet, in das die Visuminhaberin oder der Visuminhaber reisen darf, falls das verlängerte Visum eine andere räumliche Gültigkeit als das ursprüngliche Visum hat</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Kategorie des verlängerten Visums</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Gründe für die Verlängerung</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">**VII. Verknüpfungen zwischen Gesuchen**</td></tr>
+<tr><td colspan="11">VII. Verknüpfungen zwischen Gesuchen</td></tr>
 <tr><td>Verknüpfte Gesuchsdatensätze (Verwandtschaft: Ehepartner/in, Kinder)</td><td></td><td>A</td><td>A<sup>2</sup></td><td>A<sup>2</sup></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Verknüpfte Gesuchsdatensätze (Gruppe)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Aufeinanderfolgende Gesuchsdatensätze der Gesuchstellerin oder des Gesuchstellers</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
