@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale sur l’encouragement de la recherche et de l’innovation (LERI)
 document: Projet mis en consultation
 language: fr

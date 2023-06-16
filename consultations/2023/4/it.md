@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale sulla promozione della ricerca e dell’innovazione (LPRI)
 document: Progetto posto in consultazione
 language: it

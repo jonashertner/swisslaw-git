@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes über die Förderung der Forschung und der Innovation (FIFG)
 document: Vernehmlassungsvorlage
 language: de
