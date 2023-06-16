@@ -4,13 +4,13 @@ number: "211.24"
 title: Verordnung des Obergerichts zum Kindes- und Erwachsenenschutz
 short: "Kindes- und Erwachsenenschutzverordnung, KESV"
 language: de
-version: 2023-04-01
-valid_until: 2023-06-16
-version_adopted: 2023-03-21
+version: 2023-06-17
+valid_until: 2023-12-31
+version_adopted: 2023-06-12
 adopted: 2012-10-22
 in_force: 2013-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/211.24"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2647/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2666/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ KESV
 
 (Kindes- und Erwachsenenschutzverordnung, KESV)
 
-vom 22.10.2012 (Stand 01.04.2023)
+vom 22.10.2012 (Stand 17.06.2023)
 
 ## 1. Organisation der Kindes- und Erwachsenenschutzbehörden
 
@@ -492,13 +492,11 @@ vom 22.10.2012 (Stand 01.04.2023)
 - 26\. Mitteilung an Schuldnerinnen und Schuldner (Art. 452 Abs. 2 ZGB)
 - 27\. Antrag auf Verschollenerklärung (Art. 550 ZGB)
 - 28\. Anordnung der Vertretungsbeistandschaft für das ungeborene Kind zur Wahrung erbrechtlicher Ansprüche (Art. 544 Abs. 1<sup>bis</sup> ZGB)
-- 29\. Ausstellung einer Bescheinigung über die Berechtigung zum Handeln und die übertragenen Befugnisse (Art. 40 Abs. 3 des Haager Übereinkommens über die Zuständigkeit, das anzuwendende Recht, die Anerkennung, Vollstreckung und Zusammenarbeit auf dem Gebiet der elterlichen Verantwortung und der Massnahmen zum Schutz von Kindern [Haager Kindesschutzübereinkommen, HKsÜ][^39a-1] sowie Art. 38 Abs. 3 des Haager Übereinkommens über den internationalen Schutz von Erwachsenen [Haager Erwachsenenschutzübereinkommen, HEsÜ][^39a-2])
-- 30\. Regelung über die Anrechnung der Erziehungsgutschriften (Art. 52f<sup>bis</sup> der Verordnung über die Alters- und Hinterlassenenversicherung[^39a-3])
+- 29\. …
+- 30\. Regelung über die Anrechnung der Erziehungsgutschriften (Art. 52f<sup>bis</sup> der Verordnung über die Alters- und Hinterlassenenversicherung[^39a-1])
 - 31\. Antrag zur Anordnung einer Kindesvertretung im Scheidungs- oder Trennungsprozess (Art. 299 Abs. 2 lit. b ZPO)
 
-[^39a-1]: SR [0.211.231.011](https://db.clex.ch/link/Bund/0.211.231.011/de)
-[^39a-2]: SR [0.211.232.1](https://db.clex.ch/link/Bund/0.211.232.1/de)
-[^39a-3]: SR [831.101](https://db.clex.ch/link/Bund/831.101/de)
+[^39a-1]: SR [831.101](https://db.clex.ch/link/Bund/831.101/de)
 
 #### § 40
 
@@ -777,7 +775,7 @@ vom 22.10.2012 (Stand 01.04.2023)
 [^61-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
 [^61-2]: SR [211.112.2](https://db.clex.ch/link/Bund/211.112.2/de)
 [^61-3]: SR [142.201](https://db.clex.ch/link/Bund/142.201/de)
-[^61-4]: SRB[143.1](https://db.clex.ch/link/Bund/143.1/de)
+[^61-4]: SR [143.1](https://db.clex.ch/link/Bund/143.1/de)
 [^61-5]: SR [0.191.02](https://db.clex.ch/link/Bund/0.191.02/de)
 [^61-6]: SR [836.21](https://db.clex.ch/link/Bund/836.21/de)
 
