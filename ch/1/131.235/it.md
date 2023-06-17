@@ -3,11 +3,11 @@ sr: "131.235"
 title: "Costituzione della Repubblica e Cantone del Giura, del 20 marzo 1977"
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga"
 language: it
-version: 2017-06-12
+version: 2023-06-18
 adopted: 1977-03-20
 in_force: 1977-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20170612/it/xml/fedlex-data-admin-ch-eli-cc-1977-2_264_259_261_fga-20170612-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20170612/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20230618/it/xml/fedlex-data-admin-ch-eli-cc-1977-2_264_259_261_fga-20230618-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20230618/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20170612/it"
 
 Traduzione[^t-1]
 
-del 20 marzo 1977 (Stato 12 giugno 2017)[^t-2]
+del 20 marzo 1977 (Stato 18 giugno 2023)[^t-2]
 
 [^t-1]: Dal testo originale francese.
-[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
+[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
 
 Il Popolo giurassiano,
 
@@ -76,7 +76,7 @@ Il francese è la lingua nazionale e ufficiale della Repubblica e Cantone del Gi
 Lo stemma della Repubblica e Cantone del Giura è così costituito:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20170612/it/xml/image/image1.png)</td><td>«Partito, nel primo, d’argento al pastorale di rosso e, nel secondo, di rosso a tre fasce d’argento.»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20230618/it/xml/image/image1.png)</td><td>«Partito, nel primo, d’argento al pastorale di rosso e, nel secondo, di rosso a tre fasce d’argento.»</td></tr>
 </table>
 
 ## II. Diritti fondamentali
@@ -639,6 +639,16 @@ La carica di membro del Governo e quella di giudice permanente sono incompatibil
 <sup>4</sup> I membri delle altre autorità dello Stato e dei distretti sono liberamente rieleggibili.
 
 [^66-1]: Accettato nella [votazione popolare del 7 mar. 2010](http://www.admin.ch/ch/i/pore/va/20100307/index.html), in vigore dal 1° lug. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 5, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+
+#### Art. 66a
+
+**Destituzione**[^66a-1]
+
+<sup>1</sup> La legge può prevedere la destituzione dei membri del Governo, delle autorità giudiziarie e dei consigli comunali in caso di colpa grave o di durevole incapacità di esercitare la propria funzione. Essa ne disciplina la procedura e le condizioni.
+
+<sup>2</sup> La legge può prevedere lo scioglimento del Governo in caso di dimissioni della maggioranza dei suoi membri in seguito a una procedura di destituzione nei confronti di uno di essi. Essa ne disciplina la procedura e le condizioni.
+
+[^66a-1]: Accettato nella [votazione popolare del 18 giu. 2023](http://www.admin.ch/ch/i/pore/va/20230618/index.html), in vigore dal 18 giu. 2023. Garanzia dell’AF del 18 set. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 4,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 #### Art. 67
 
@@ -1711,6 +1721,7 @@ Voto
 - [tab] – alta vigilanza sulle autorità giudiziarie 82
 - [tab] – conflitti di competenza tra 104
 - [tab] – coordinazione dell’attività dell' 92
+- [tab] – destituzione dei membri di autorità cantonali e comunali 66A
 - [tab] – diritto di petizione 80
 - [tab] – durata della funzione 65
 - [tab] – elezioni da parte del Parlamento 84
@@ -1718,6 +1729,7 @@ Voto
 - [tab] – funzioni incompatibili 62
 - [tab] – giudiziarie 101 ss
   - [tab] – competenze delle 107
+  - [tab] – destituzione dei membri di autorità cantonali e comunali 66A
   - [tab] – indipendenza dei tribunali 101
   - [tab] – organizzazione delle 107
 
@@ -1909,11 +1921,14 @@ Voto
 
 - [tab] – vigilanza del Governo sui Comuni 111
 
+- [tab] – destituzione dei membri di autorità cantonali e comunali 66A
 - [tab] – elezioni popolari dei deputati al 74
 - [tab] – periodo di nomina 7 disposizioni finali e transitorie
 - [tab] – rielezione dei deputati al 66
 
 - [tab] – comunali 67, 74, 118
+  - [tab] – destituzione dei membri di autorità cantonali e comunali 66A
+
 - [tab] – consultivo dei Giurassiani fuori Cantone 98
 - [tab] – degli Stati 66, 74
 - [tab] – della sanità pubblica 31
@@ -2036,6 +2051,7 @@ Voto
 
 - [tab] – duplice attività 64
 - [tab] – durata della funzione 65
+- [tab] – destituzione dei membri delle autorità giudiziarie 66A
 - [tab] – funzioni incompatibili 62
 - [tab] – naturale 9
 - [tab] – tutela giurisdizionale 9

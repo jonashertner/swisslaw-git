@@ -3,11 +3,11 @@ sr: "131.235"
 title: "Verfassung der Republik und des Kantons Jura, vom 20. März 1977"
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga"
 language: de
-version: 2017-06-12
+version: 2023-06-18
 adopted: 1977-03-20
 in_force: 1977-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20170612/de/xml/fedlex-data-admin-ch-eli-cc-1977-2_264_259_261_fga-20170612-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20170612/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20230618/de/xml/fedlex-data-admin-ch-eli-cc-1977-2_264_259_261_fga-20230618-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20230618/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20170612/de"
 
 Übersetzung[^t-1]
 
-vom 20. März 1977 (Stand am 12. Juni 2017)[^t-2]
+vom 20. März 1977 (Stand am 18. Juni 2023)[^t-2]
 
 [^t-1]: Der Text in der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleitungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
+[^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleitungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
 Das jurassische Volk
 
@@ -76,7 +76,7 @@ Das Französische ist Landes- und Amtssprache der Republik und des Kantons Jura.
 Die Republik und der Kanton Jura hat das folgende Wappen:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20170612/de/xml/image/image1.png)</td><td>«Gespalten von Silber mit rotem Bischofsstab und von Rot mit drei silbernen Balken»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20230618/de/xml/image/image1.png)</td><td>«Gespalten von Silber mit rotem Bischofsstab und von Rot mit drei silbernen Balken»</td></tr>
 </table>
 
 ## II. Die Grundrechte
@@ -639,6 +639,16 @@ Das Amt eines Regierungsmitglieds oder eines vollamtlicher Richters ist mit jede
 <sup>4</sup> Die Mitglieder der anderen Behörden des Staates und der Bezirke können unbeschränkt wiedergewählt werden.
 
 [^66-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 1. Juli 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 5, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+
+#### Art. 66a
+
+**Amtsenthebung**[^66a-1]
+
+<sup>1</sup> Das Gesetz kann die Amtsenthebung der Mitglieder der Regierung, der richterlichen Behörden und der Gemeinderäte wegen schwerer Verfehlung oder dauerhafter Amtsunfähigkeit vorsehen. Es regelt das Verfahren und die Voraussetzungen.
+
+<sup>2</sup> Das Gesetz kann die Abberufung der Regierung vorsehen, wenn die Mehrheit ihrer Mitglieder bei einem Amtsenthebungsverfahren gegen eines der Mitglieder zurücktritt. Es regelt das Verfahren und die Voraussetzungen.
+
+[^66a-1]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 18. Juni 2023. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 4, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 #### Art. 67
 
@@ -1964,6 +1974,7 @@ Zusammenarbeit
 - – um gewählt zu werden 71 b
 
 - – Amtsdauer 65, UeB 14<sup>2–4</sup>
+- – Amtsenthebung 66*a*
 - – Recht, gewählt zu werden 71 b
 - – Unvereinbarkeiten 62–64
 
@@ -2016,6 +2027,7 @@ Zusammenarbeit
 - – Pflege 25<sup>2</sup>
 - – wirtschaftliche und soziale Integration 19<sup>5</sup>
 
+- – Amtsenthebung 66*a*
 - – Organisation
   - – bei Verwaltungs- und Gerichtsbehörden des Kantons Bern hängige Geschäfte UeB 10
   - – erstinstanzliche Gerichte 102
@@ -2144,6 +2156,7 @@ Zusammenarbeit
 - – Mehrheitswahl 74<sup>6</sup>
 - – Volkswahl 74<sup>3</sup>b
 
+- – Amtsenthebung 66*a*
 - – Grundsatz 116 b, 119
 - – Volkswahl 74<sup>3</sup> b
 
@@ -2392,6 +2405,7 @@ Zusammenarbeit
   - – der Mitglieder der Regierung 65<sup>1</sup>, UeB 14<sup>2–4</sup>
   - – von Präsident und Vizepräsident 65<sup>2</sup>
 
+- – Amtsenthebung 66*a*
 - – Büro des Verfassungsrates UeB 5
 - – Einberufung des Parlamentes 87 c
 - – Gewaltentrennung 55
