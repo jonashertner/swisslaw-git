@@ -3,11 +3,11 @@ sr: "131.231"
 title: "Verfassung des Kantons Waadt, vom 14. April 2003"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/1136_fga"
 language: de
-version: 2022-09-25
+version: 2023-06-18
 adopted: 2003-04-14
 in_force: 2003-04-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20220925/de/xml/fedlex-data-admin-ch-eli-cc-2003-1136_fga-20220925-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/1136_fga/20220925/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20230618/de/xml/fedlex-data-admin-ch-eli-cc-2003-1136_fga-20230618-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/1136_fga/20230618/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/1136_fga/20220925/de"
 
 Übersetzung[^t-1]
 
-vom 14. April 2003 (Stand am 25. September 2022)[^t-2]
+vom 14. April 2003 (Stand am 18. Juni 2023)[^t-2]
 
 [^t-1]: Der Text ind der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleis-tungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
@@ -51,7 +51,7 @@ gibt sich das Volk des Kantons Waadt folgende Verfassung:
 
 #### Art. 2
 
-<sup>1</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20220925/de/xml/image/image1.png) Das Kantonswappen besteht aus einem weiss-grünen Schild mit der Inschrift «Liberté et Patrie» («Freiheit und Vaterland»).
+<sup>1</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20230618/de/xml/image/image1.png) Das Kantonswappen besteht aus einem weiss-grünen Schild mit der Inschrift «Liberté et Patrie» («Freiheit und Vaterland»).
 
 <sup>2</sup> Das Kantonswappen stellt sich wie folgt dar: von Weiss und Grün geteilt, oben die in drei Zeilen angeordneten Worte «Liberté et Patrie» in goldenen schwarz umränderten Lettern.
 
@@ -86,7 +86,8 @@ Der Staat setzt sich zum Ziel:
 - a. das Gemeinwohl und den kantonalen Zusammenhalt;
 - b. die harmonische Einbindung des Einzelnen in die Gesellschaft;
 - c. die Erhaltung der physischen Lebensgrundlagen und die nachhaltige Bewahrung der natürlichen Ressourcen;
-- d. den Schutz der Interessen der kommenden Generationen.
+- d. den Schutz der Interessen der kommenden Generationen;
+- e.[^6-1] den Klima- und Biodiversitätsschutz sowie die Bekämpfung der Klimaerwärmung und des damit verbundenen Klimawandels.
 
 <sup>2</sup>
 
@@ -96,7 +97,11 @@ Der Staat achtet in seinem Handeln darauf, dass:
 - b. die öffentliche Ordnung gewahrt ist;
 - c. Gerechtigkeit und Frieden durchgesetzt und die Bemühungen zur Konfliktverhütung unterstützt werden;
 - d. die Familie als Grundbaustein der Gesellschaft anerkannt ist;
-- e. Frauen und Männer in den Behörden ausgewogen vertreten sind.
+- e. Frauen und Männer in den Behörden ausgewogen vertreten sind;
+- f.[^6-2] dem Umweltnotstand Rechnung getragen wird.
+
+[^6-1]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 18. Juni 2023. Gewährleistungsbeschluss der BVers vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 2, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^6-2]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 18. Juni 2023. Gewährleistungsbeschluss der BVers vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 2, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Grundsätze rechtsstaatlichen Handelns
 
@@ -525,6 +530,20 @@ Der Staat kann als gemeinnützig anerkannte private Einrichtungen, welche den st
 <sup>3</sup> Die Ausführungsgesetzgebung hat sich genau an den geltenden Perimeter zu halten, namentlich durch die Erhaltung des Rebbaugebiets sowie des traditionellen Charakters der Dörfer und Weiler.
 
 [^52a-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2005](http://www.admin.ch/ch/d/pore/va/20051127/index.html), in Kraft seit 27. Nov. 2005. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 5 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+
+### Klimaschutz
+
+#### Art. 52b
+
+[^52b-1]
+
+<sup>1</sup> Der Staat und die Gemeinden sorgen bei der Erfüllung ihrer Aufgaben für den Klimaschutz und bekämpfen die Klimaerwärmung und den damit verbundenen Klimawandel.
+
+<sup>2</sup> Um dieses Ziel zu erreichen, vermindern der Staat und die Gemeinden signifikant die negativen Klimaauswirkungen jeder ihrer Massnahmen.
+
+<sup>3</sup> Die öffentlich-rechtlichen Pensionskassen des Staates und der Gemeinden leisten ebenfalls ihren Beitrag zur Erreichung dieses Ziels.
+
+[^52b-1]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 18. Juni 2023. Gewährleistungsbeschluss der BVers vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 2, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Kultur und Kunstschaffen
 
@@ -1767,7 +1786,11 @@ Jede Ausgabe muss auf einer gesetzlichen Grundlage beruhen.
 
 <sup>1</sup> Zur Erreichung ihrer Ziele können der Staat und die Gemeinden sich an juristischen Personen beteiligen oder solche gründen. Das Gesetz regelt die Einzelheiten der Kontrolle dieser juristischen Personen.
 
+<sup>1bis</sup> Der Staat und die Gemeinden sorgen dafür, dass diese juristischen Personen bei der Ausübung ihrer Tätigkeiten zumindest dazu beitragen, die Verpflichtungen der Schweiz zur Bekämpfung der Klimaerwärmung und des damit verbundenen Klimawandels einzuhalten.[^162-1]
+
 <sup>2</sup> Vom Staat gegründete Versicherungseinrichtungen werden autonom geführt; ihr Kapital bleibt Eigentum der Versicherten.
+
+[^162-1]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 18. Juni 2023. Gewährleistungsbeschluss der BVers vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 2, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Haushaltsführung
 
@@ -2007,6 +2030,30 @@ Die Amtszeit der Kantonsrichter sowie diejenige des Generalstaatsanwalts wird bi
 
 [^179a-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
+### Übergangsbestimmung zu Artikel 52*b*
+
+#### Art. 179b
+
+[^179b-1]
+
+<sup>1</sup> Bei der Erfüllung ihrer Aufgaben müssen der Staat und die Gemeinden bis spätestens 2050 die Klimaneutralität erreichen. Zu diesem Zweck erarbeiten sie Aktionspläne mit Zwischenzielen für 2030 und 2040.
+
+<sup>2</sup> Um zur Erreichung der Klimaneutralität bis spätestens 2050 beizutragen, müssen die öffentlich-rechtlichen Pensionskassen des Staates und der Gemeinden alle fünf Jahre eine klimaverantwortliche und -verträgliche Investitionsstrategie beschliessen.
+
+[^179b-1]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 18. Juni 2023. Gewährleistungsbeschluss der BVers vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 2, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+
+### Übergangsbestimmung zu Artikel 162 Absatz 1<sup>bis</sup>
+
+#### Art. 179c
+
+[^179c-1]
+
+<sup>1</sup> Der Staat und die Gemeinden sorgen dafür, dass die juristischen Personen nach Artikel 162 Absatz 1 Aktionspläne zur massiven Verminderung von Finanzflüssen und Anlagen, die den internationalen Klimazielen der Schweiz widersprechen (Desinvestition aus fossiler Energie), erarbeiten, mit Zwischenzielen für 2030 und 2040.
+
+<sup>2</sup> Der Staat und die Gemeinden sorgen dafür, dass die mit der Desinvestition freiwerdenden Mittel in Vorhaben investiert werden, welche den Grundsätzen nach Artikel 52*b* folgen und dabei auch sozialverantwortlich sind.
+
+[^179c-1]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 18. Juni 2023. Gewährleistungsbeschluss der BVers vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 2, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+
 ### Initiativen und Referenden
 
 #### Art. 180
@@ -2093,6 +2140,8 @@ Betreuung
 Bezirke
 
 - – Aufteilung des Kantons 158
+
+Biodiversitätsschutz 6<sup>1</sup>
 
 Budget s. Haushalt
 
@@ -2292,6 +2341,16 @@ Kirche
 - – spirituelle Unabhängigkeit 172
 
 **Kirchgemeinden** s. Gemeinden
+
+**Klima**
+
+- – Klimaauswirkungen 52*b*<sup>2</sup>
+- – Klimaerwärmung 6<sup>1</sup>, 52*b*<sup>1</sup>, 162<sup>1bis</sup>
+- – Klimaneutralität 179*b*
+- – Klimaschutz 6<sup>1</sup>, 52*b*
+- – klimaverantwortliche Investitionsstrategie 179*b*<sup>2</sup>
+- – Klimawandel 6<sup>1</sup>, 52*b*<sup>1</sup>, 162<sup>1bis</sup>
+- – Klimaziele 179*c*<sup>1</sup>
 
 **Lavaux** 52*a*, 179<sup>1</sup>
 
@@ -2531,6 +2590,15 @@ Strafrecht
 
 - – Begnadigung und die Amnestie 109<sup>1</sup>
 - – Todesstrafe, Verbot 12<sup>1</sup>
+
+Umwelt 52
+
+– Umweltnotstand 6<sup>2</sup>
+
+– umweltschonende
+
+- – Land- und Forstwirtschaft 59<sup>1</sup>
+- – Wasser- und Energieversorgung56<sup>2</sup>
 
 Unterricht
 

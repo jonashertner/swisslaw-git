@@ -3,11 +3,11 @@ sr: "131.231"
 title: "Costituzione del Cantone di Vaud, del 14 aprile 2003"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/1136_fga"
 language: it
-version: 2022-09-25
+version: 2023-06-18
 adopted: 2003-04-14
 in_force: 2003-04-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20220925/it/xml/fedlex-data-admin-ch-eli-cc-2003-1136_fga-20220925-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/1136_fga/20220925/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20230618/it/xml/fedlex-data-admin-ch-eli-cc-2003-1136_fga-20230618-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/1136_fga/20230618/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/1136_fga/20220925/it"
 
 Traduzione[^t-1]
 
-del 14 aprile 2003 (Stato 25 settembre 2022)[^t-2]
+del 14 aprile 2003 (Stato 18 giugno 2023)[^t-2]
 
 [^t-1]: Accettata nella votazione popolare del 22 set. 2002, in vigore dal 14 apr. 2003. Garanzia dell’AF del 24 set. 2003 (FF **2003** 5993 3058). Dal testo originale francese.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
@@ -53,7 +53,7 @@ il Popolo del Cantone di Vaud si è dato la presente Costituzione:
 
 #### Art. 2
 
-<sup>1</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20220925/it/xml/image/image1.png) Lo stemma del Cantone consiste in uno scudo bianco e verde con il motto «Liberté et Patrie» («Libertà e Patria»).
+<sup>1</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20230618/it/xml/image/image1.png) Lo stemma del Cantone consiste in uno scudo bianco e verde con il motto «Liberté et Patrie» («Libertà e Patria»).
 
 <sup>2</sup> Lo scudo del Cantone di Vaud è: troncato, di colore argento nella partizione 1 caricata con le parole «Liberté e Patrie», disposte su tre righe e scritte in lettere d’oro con bordo nero, e di colore verde nella partizione 2.
 
@@ -88,7 +88,8 @@ Lo Stato ha gli scopi seguenti:
 - a. il bene comune e la coesione cantonale;
 - b. l’integrazione armoniosa di ognuno nel corpo sociale;
 - c. la preservazione delle basi fisiche della vita e la conservazione duratura delle risorse naturali;
-- d. la salvaguardia degli interessi delle generazioni future.
+- d. la salvaguardia degli interessi delle generazioni future;
+- e.[^6-1] la protezione del clima e della biodiversità nonché la lotta contro il riscaldamento climatico e le perturbazioni che ne derivano.
 
 <sup>2</sup>
 
@@ -98,7 +99,11 @@ Nelle sue attività, lo Stato:
 - b. garantisce l’ordine pubblico;
 - c. fa prevalere la giustizia e la pace e sostiene gli sforzi per la prevenzione dei conflitti;
 - d. riconosce la famiglia come cellula fondamentale della società;
-- e. provvede a un’equilibrata rappresentanza d’ambo i sessi in seno alle autorità.
+- e. provvede a un’equilibrata rappresentanza d’ambo i sessi in seno alle autorità;
+- f.[^6-2] tiene conto della crisi ambientale.
+
+[^6-1]: Accettato nella [votazione popolare del 18 giu. 2023](http://www.admin.ch/ch/i/pore/va/20230618/index.html), in vigore dal 18 giu. 2023. Garanzia dell’AF del 18 set. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 2,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^6-2]: Accettato nella [votazione popolare del 18 giu. 2023](http://www.admin.ch/ch/i/pore/va/20230618/index.html), in vigore dal 18 giu. 2023. Garanzia dell’AF del 18 set. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 2,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Principi dell’attività dello Stato di diritto
 
@@ -358,7 +363,7 @@ Ogni persona nel bisogno ha diritto a un alloggio d’emergenza appropriato e ai
 
 #### Art. 35
 
-- [tab] Ogni donna ha diritto alla sicurezza materiale prima e dopo il parto.
+Ogni donna ha diritto alla sicurezza materiale prima e dopo il parto.
 
 ### Educazione e istruzione
 
@@ -406,7 +411,7 @@ Chiunque sia sprovvisto delle risorse personali o familiari necessarie a una for
 
 #### Art. 40
 
-- [tab] Lo Stato e i Comuni agiscono con diligenza e conformemente ai principi di uguaglianza, accessibilità, qualità, adattamento e continuità.
+Lo Stato e i Comuni agiscono con diligenza e conformemente ai principi di uguaglianza, accessibilità, qualità, adattamento e continuità.
 
 ### Informazione del pubblico
 
@@ -527,6 +532,20 @@ Lo Stato può sostenere istituti privati che offrano possibilità di formazione 
 <sup>3</sup> La legge d’applicazione rispetta rigorosamente il perimetro in vigore, segnatamente mantenendo l’area viticola e il carattere tradizionale dei villaggi e dei casali.
 
 [^52a-1]: Accettato nella [votazione popolare del 27 nov. 2005](http://www.admin.ch/ch/i/pore/va/20051127/index.html), in vigore dal 27 nov. 2005. Garanzia dell’AF del 18 giu. 2007 ([FF 2007 4533](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 n. 5 [593](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+
+### Protezione del clima
+
+#### Art. 52b
+
+[^52b-1]
+
+<sup>1</sup> Nell’espletamento dei loro compiti, lo Stato e i Comuni provvedono alla protezione del clima e lottano contro il riscaldamento climatico e le perturbazioni che ne derivano.
+
+<sup>2</sup> Al fine di raggiungere tale obiettivo, lo Stato e i Comuni riducono significativamente gli impatti climatici negativi delle loro politiche.
+
+<sup>3</sup> Le casse pensioni di diritto pubblico dello Stato e dei Comuni concorrono anch’esse al raggiungimento di tale obiettivo.
+
+[^52b-1]: Accettato nella [votazione popolare del 18 giu. 2023](http://www.admin.ch/ch/i/pore/va/20230618/index.html), in vigore dal 18 giu. 2023. Garanzia dell’AF del 18 set. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 2,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Cultura e creazione artistica
 
@@ -1310,7 +1329,7 @@ Il Consiglio di Stato risponde della sicurezza e dell’ordine pubblici.
 
 [^125a-1]: Accettato nella [votazione popolare del 27 set. 2009](http://www.admin.ch/ch/i/pore/va/20090927/index.html). Garanzia dell’AF dell’8 dic. 2010 ([FF 2011 253](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 n. 3, [2010 4295](https://fedlex.data.admin.ch/eli/fga/2010/839)). Abrogato nella [votazione popolare del 25 set. 2022](http://www.admin.ch/ch/i/pore/va/20220925/index.html), con effetto dal 25 set. 2022. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
-### Capitolo IV: Tribunali e Pubblico ministero
+### Capitolo IV. Tribunali e Pubblico ministero
 
 [^titV-chapIV-1]
 
@@ -1769,7 +1788,11 @@ Ogni spesa deve avere una base legale.
 
 <sup>1</sup> Per conseguire i loro scopi, lo Stato e i Comuni possono partecipare a persone giuridiche o istituirne. La legge stabilisce le modalità di controllo di queste persone giuridiche.
 
+<sup>1bis</sup> Lo Stato e i Comuni provvedono affinché queste persone giuridiche conducano le loro attività in modo da contribuire almeno al rispetto degli impegni della Svizzera nell’ambito della lotta contro il riscaldamento climatico e le perturbazioni che ne derivano.[^162-1]
+
 <sup>2</sup> Gli istituti assicurativi creati dallo Stato sono gestiti in modo autonomo; i loro capitali rimangono di proprietà degli assicurati.
+
+[^162-1]: Accettato nella [votazione popolare del 18 giu. 2023](http://www.admin.ch/ch/i/pore/va/20230618/index.html), in vigore dal 18 giu. 2023. Garanzia dell’AF del 18 set. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 2,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Gestione finanziaria
 
@@ -2009,6 +2032,30 @@ La durata del mandato dei giudici cantonali e del procuratore generale è prorog
 
 [^179a-1]: Accettato nella [votazione popolare del 25 set. 2022](http://www.admin.ch/ch/i/pore/va/20220925/index.html), in vigore dal 25 set. 2022. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
+### Disposizione transitoria dell’articolo 52*b*
+
+#### Art. 179b
+
+[^179b-1]
+
+<sup>1</sup> Nell’espletamento dei loro compiti, lo Stato e i Comuni devono raggiungere un bilancio di climatico neutro entro il 2050. A tale scopo elaborano piani d’azione con obiettivi intermedi per il 2030 e il 2040.
+
+<sup>2</sup> Per contribuire a raggiungere un bilancio climatico neutro entro il 2050, le casse pensioni di diritto pubblico dello Stato e dei Comuni adottano ogni cinque anni strategie in materia di investimenti responsabili e rispettosi del clima.
+
+[^179b-1]: Accettato nella [votazione popolare del 18 giu. 2023](http://www.admin.ch/ch/i/pore/va/20230618/index.html), in vigore dal 18 giu. 2023. Garanzia dell’AF del 18 set. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 2,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+
+### Disposizione transitoria dell’articolo 162 capoverso 1<sup>bis</sup>
+
+#### Art. 179c
+
+[^179c-1]
+
+<sup>1</sup> Lo Stato e i Comuni provvedono affinché le persone giuridiche ai sensi dell’articolo 162 capoverso 1 elaborino piani d’azione per la riduzione massiccia dei flussi finanziari e degli investimenti che contravvengono agli obiettivi climatici internazionali della Svizzera (disinvestimento in energie fossili), con obiettivi intermedi per il 2030 e il 2040.
+
+<sup>2</sup> Lo Stato e i Comuni provvedono affinché gli importi derivanti dal suddetto disinvestimento siano reinvestiti in attività conformi ai principi sanciti dall’articolo 52*b* e che siano al contempo socialmente responsabili.
+
+[^179c-1]: Accettato nella [votazione popolare del 18 giu. 2023](http://www.admin.ch/ch/i/pore/va/20230618/index.html), in vigore dal 18 giu. 2023. Garanzia dell’AF del 18 set. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 2,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+
 ### Iniziative e referendum
 
 #### Art. 180
@@ -2160,6 +2207,13 @@ Chiesa (e) e comunità religiose 169
 - [tab] – riconoscimento di Chiesa
   - [tab] – cattolica romana 169
   - [tab] – evangelica riformata 169
+
+Clima
+
+- [tab] – bilancio climatico 179*b*
+- [tab] – partecipazioni 162, 179*c*
+- [tab] – protezione 52
+- [tab] – scopi e principi dello Stato 6
 
 Commissione (i)
 
@@ -2396,7 +2450,7 @@ Corte
 
 - [tab] – Costituzionale 80 136
 - [tab] – dei conti 90 106 166
-- [tab] – delle assicurazioni so ciali del Tribunale cantonale 131
+- [tab] – delle assicurazioni sociali del Tribunale cantonale 131
 - [tab] – di diritto amministrativo e pubblico 131
 
 Costituente
@@ -2411,7 +2465,7 @@ Costituzione
   - [tab] – in materia legislativa 120
 
 - [tab] – compiti attribuiti ai Comuni dalla 138
-- [tab] – disposizioni transitorie e finali 175
+- [tab] – disposizioni transitorie e finali 175, 179*a*–179*c*
 - [tab] – forma dell'iniziativa popolare 79
 - [tab] – referendum obbligatorio 83
 - [tab] – revisione
@@ -2764,6 +2818,22 @@ Proprietà
 - [tab] – garanzia della 25
 - [tab] – partecipazioni 162
 - [tab] – promozione dell’accesso alla 67
+
+Protezione
+
+- [tab] – dal fumo passivo 65*a*
+- [tab] – dei fanciulli e dei giovani 13
+- [tab] – del clima 52*b*
+- [tab] – del clima e della biodiversità 6
+- [tab] – del patrimonio naturale e culturale 52*a*
+- [tab] – dell’infanzia, della gioventù e delle persone affette da dipendenza 63
+- [tab] – della buona fede 11
+- [tab] – della natura 52*a*
+- [tab] – della propria salute 65
+- [tab] – della sfera privata e dei dati personali 15
+- [tab] – di diritti fondamentali altrui 38
+- [tab] – di Lavaux 52*a*
+- [tab] – socile 60
 
 Pubblicità
 

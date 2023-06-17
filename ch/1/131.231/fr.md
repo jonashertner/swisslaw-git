@@ -3,18 +3,18 @@ sr: "131.231"
 title: "Constitution du Canton de Vaud, du 14 avril 2003"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/1136_fga"
 language: fr
-version: 2022-09-25
+version: 2023-06-18
 adopted: 2003-04-14
 in_force: 2003-04-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20220925/fr/xml/fedlex-data-admin-ch-eli-cc-2003-1136_fga-20220925-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/1136_fga/20220925/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20230618/fr/xml/fedlex-data-admin-ch-eli-cc-2003-1136_fga-20230618-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/1136_fga/20230618/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution du Canton de Vaud
 
-du 14 avril 2003 (État le 25 septembre 2022)[^t-1]
+du 14 avril 2003 (État le 18 juin 2023)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
@@ -42,7 +42,7 @@ le peuple du Canton de Vaud se donne la Constitution suivante:
 
 #### Art. 2
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20220925/fr/xml/image/image1.png)</sup> Les armoiries du Canton consistent en un écusson blanc et vert avec la devise «Liberté et Patrie».
+<sup>1</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20230618/fr/xml/image/image1.png) Les armoiries du Canton consistent en un écusson blanc et vert avec la devise «Liberté et Patrie».
 
 <sup>2</sup> Les armoiries du Canton de Vaud sont: coupé, au 1 d’argent chargé des mots «Liberté et Patrie», rangés sur trois lignes, aux lettres d’or bordées de sable, au 2 de sinople.
 
@@ -77,7 +77,8 @@ L’État a pour buts:
 - a. le bien commun et la cohésion cantonale;
 - b. l’intégration harmonieuse de chacun au corps social;
 - c. la préservation des bases physiques de la vie et la conservation durable des ressources naturelles;
-- d. la sauvegarde des intérêts des générations futures.
+- d. la sauvegarde des intérêts des générations futures;
+- e.[^6-1] la protection du climat et de la biodiversité ainsi que la lutte contre le réchauffement climatique et les dérèglements qu’il génère.
 
 <sup>2</sup>
 
@@ -87,7 +88,11 @@ Dans ses activités, il:
 - b. garantit l’ordre public;
 - c. fait prévaloir la justice et la paix, et soutient les efforts de prévention des conflits;
 - d. reconnaît les familles comme éléments de base de la société;
-- e. veille à une représentation équilibrée des femmes et des hommes au sein des autorités.
+- e. veille à une représentation équilibrée des femmes et des hommes au sein des autorités;
+- f.[^6-2] tient compte de l’urgence environnementale.
+
+[^6-1]: Acceptée en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 18 juin 2023. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 2,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^6-2]: Acceptée en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 18 juin 2023. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 2,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Principes de l’activité de l’État régi par le droit
 
@@ -347,7 +352,7 @@ Toute personne dans le besoin a droit à un logement d’urgence approprié et a
 
 #### Art. 35
 
-- [tab] Chaque femme a droit à la sécurité matérielle avant et après l’accouchement.
+Chaque femme a droit à la sécurité matérielle avant et après l’accouchement.
 
 ### Éducation et enseignement
 
@@ -395,7 +400,7 @@ Toute personne dépourvue des ressources personnelles ou familiales nécessaires
 
 #### Art. 40
 
-- [tab] L’État et les communes agissent avec diligence et conformément aux principes d’égalité, d’accessibilité, de qualité, d’adaptation et de continuité.
+L’État et les communes agissent avec diligence et conformément aux principes d’égalité, d’accessibilité, de qualité, d’adaptation et de continuité.
 
 ### Information du public
 
@@ -515,7 +520,21 @@ L’État peut soutenir des établissements privés qui offrent des possibilité
 
 <sup>3</sup> La loi d’application respecte strictement le périmètre en vigueur, notamment par le maintien de l’aire viticole et du caractère traditionnel des villages et hameaux.
 
-[^52a-1]: Accepté en [votation populaire du 27 nov. 2005](http://www.admin.ch/ch/f/pore/va/20051127/index.html), en vigueur depuis le 27 nov. 2005. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 5 [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^52a-1]: Accepté en [votation populaire du 27 nov. 2005](http://www.admin.ch/ch/f/pore/va/20051127/index.html), en vigueur depuis le 27 nov. 2005. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 5, [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+
+### Protection du climat
+
+#### Art. 52b
+
+[^52b-1]
+
+<sup>1</sup> Dans l’exercice de leurs tâches, l’État et les communes veillent à la protection du climat et luttent contre le réchauffement climatique et les dérèglements qu’il génère.
+
+<sup>2</sup> Afin d’accomplir cet objectif, l’État et les communes réduisent significativement les impacts climatiques négatifs de chacune de leurs politiques.
+
+<sup>3</sup> Les caisses de pension de l’État et des communes relevant du droit public concourent également à la réalisation de cet objectif.
+
+[^52b-1]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 18 juin 2023. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 2,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Culture et création artistique
 
@@ -631,7 +650,7 @@ L’État et les communes tiennent compte des besoins et des intérêts particul
 
 <sup>4</sup> Les parents participent au financement de l’accueil parascolaire.
 
-[^63a-1]: Accepté en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009. Garantie de l’Ass. féd. du 8 déc. 2010 ([FF 2011 255](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 ch. 3, [2010 4463](https://fedlex.data.admin.ch/eli/fga/2010/839)).
+[^63a-1]: Accepté en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009. Garantie de l’Ass. féd. du 8 déc. 2010 ([FF 2011 255](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 ch. 3; [2010 4463](https://fedlex.data.admin.ch/eli/fga/2010/839)).
 
 ### Assurance maternité et congé parental
 
@@ -659,7 +678,7 @@ Pour contribuer à la sauvegarde de la santé de la population, l’État et les
 
 <sup>3</sup> L’État et les communes portent une attention particulière à toute personne vulnérable, dépendante, handicapée ou en fin de vie.
 
-[^65-1]: Acceptée en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009. Garantie de l’Ass. féd. du 11 mars 2020 ([FF 2020 4557](https://fedlex.data.admin.ch/eli/fga/2020/1084)art. 3 [139](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+[^65-1]: Acceptée en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009. Garantie de l’Ass. féd. du 11 mars 2020 ([FF 2020 4557](https://fedlex.data.admin.ch/eli/fga/2020/1084)art. 3, [139](https://fedlex.data.admin.ch/eli/fga/2020/12)).
 
 ### Protection contre la fumée passive
 
@@ -681,7 +700,7 @@ Sont notamment concernés:
 
 <sup>3</sup> La loi fixe les sanctions en cas d’inobservation de l’interdiction de fumer et règle l’exécution du présent article.
 
-[^65a-1]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 30 nov. 2008. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 3 [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^65a-1]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 30 nov. 2008. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 3, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 ### Protection des consommateurs
 
@@ -767,7 +786,7 @@ Dans le but de préparer l’avenir, l’État s’appuie sur un organe de prosp
 
 <sup>2</sup> La loi prévoit une procédure simple permettant à la personne visée par l’al. 1 in fine d’obtenir, en prouvant qu’elle est capable de discernement, son intégration ou sa réintégration dans le corps électoral.
 
-[^74-1]: Accepté en [votation populaire du 25 nov. 2012](http://www.admin.ch/ch/f/pore/va/20121125/index.html), en vigueur depuis le 25 nov. 2012. Garantie de l’Ass. féd. du 24 sept. 2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 7 [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^74-1]: Accepté en [votation populaire du 25 nov. 2012](http://www.admin.ch/ch/f/pore/va/20121125/index.html), en vigueur depuis le 25 nov. 2012. Garantie de l’Ass. féd. du 24 sept. 2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 7, [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
 
 ### Contenu des droits politiques
 
@@ -835,7 +854,7 @@ Avant d’autoriser la récolte de signatures, le Conseil d’État valide les i
 
 <sup>2</sup> La décision du Conseil d’État est susceptible de recours à la Cour constitutionnelle.
 
-[^80-1]: Accepté en [votation populaire du 9 juin 2013](http://www.admin.ch/ch/f/pore/va/20130609/index.html), en vigueur depuis le 10 juin 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 9, [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^80-1]: Accepté en [votation populaire du 9 juin 2013](http://www.admin.ch/ch/f/pore/va/20130609/index.html), en vigueur depuis le 10 juin 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 9; [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### Procédure
 
@@ -894,7 +913,7 @@ Ne sont toutefois pas sujets au référendum:
 
 <sup>3</sup> La demande de référendum aboutit si elle a recueilli 12 000 signatures dans un délai de soixante jours dès la publication de l’acte. La loi prolonge ce délai pour tenir compte de la difficulté de récolte de signatures à certaines périodes de l’année.[^84-1]
 
-[^84-1]: Accepté en [votation populaire du 9 juin 2013](http://www.admin.ch/ch/f/pore/va/20130609/index.html), en vigueur depuis le 10 juin 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 9, [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^84-1]: Accepté en [votation populaire du 9 juin 2013](http://www.admin.ch/ch/f/pore/va/20130609/index.html), en vigueur depuis le 10 juin 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 9; [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### Chapitre IV Participation à la vie publique
 
@@ -1138,7 +1157,7 @@ Le Grand Conseil élit:
 
 <sup>2</sup> La loi prévoit des exceptions.[^108-1]
 
-[^108-1]: Accepté en [votation populaire du 27 nov. 2005](http://www.admin.ch/ch/f/pore/va/20051127/index.html), en vigueur depuis le 27 nov. 2005. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 5 [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^108-1]: Accepté en [votation populaire du 27 nov. 2005](http://www.admin.ch/ch/f/pore/va/20051127/index.html), en vigueur depuis le 27 nov. 2005. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 5, [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 ### Autres compétences
 
@@ -1191,7 +1210,7 @@ Le Conseil d’État est l’autorité exécutive supérieure du Canton.
 
 <sup>2</sup> Tout siège vacant est repourvu dans les nonante jours, à moins que l’élection générale n’intervienne dans les six mois.[^113-1]
 
-[^113-1]: Accepté en [votation populaire du 9 juin 2013](http://www.admin.ch/ch/f/pore/va/20130609/index.html), en vigueur depuis le 10 juin 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 9, [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^113-1]: Accepté en [votation populaire du 9 juin 2013](http://www.admin.ch/ch/f/pore/va/20130609/index.html), en vigueur depuis le 10 juin 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 9; [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### Mode d’élection
 
@@ -1297,7 +1316,7 @@ Le Conseil d’État répond de la sécurité et de l’ordre publics.
 
 [^125a-1]
 
-[^125a-1]: Accepté en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html). Garantie de l’Ass. féd. du 8 déc. 2010 ([FF 2011 255](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 ch. 3, [2010 4463](https://fedlex.data.admin.ch/eli/fga/2010/839)). Abrogé en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), avec effet au 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^125a-1]: Accepté en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html). Garantie de l’Ass. féd. du 8 déc. 2010 ([FF 2011 255](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 ch. 3; [2010 4463](https://fedlex.data.admin.ch/eli/fga/2010/839)). Abrogé en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), avec effet au 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Chapitre IV Tribunaux et Ministère public
 
@@ -1384,7 +1403,7 @@ Le Tribunal cantonal est l’autorité judiciaire supérieure du Canton.
 
 [^131-1]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 [^131-2]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
-[^131-3]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 30 nov. 2008. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 3 [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^131-3]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 30 nov. 2008. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 3, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 [^131-4]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Organisation et autonomie
@@ -1557,7 +1576,7 @@ Font partie du corps électoral communal, s’ils sont âgés de dix-huit ans r�
 
 <sup>3</sup> La loi précise les modalités de l’exercice de ces droits. Les art. 74 al. 2 et 76 al. 2 s’appliquent.
 
-[^142-1]: Accepté en [votation populaire du 25 nov. 2012](http://www.admin.ch/ch/f/pore/va/20121125/index.html), en vigueur depuis le 25 nov. 2012. Garantie de l’Ass. féd. du 24 sept. 2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 7 [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^142-1]: Accepté en [votation populaire du 25 nov. 2012](http://www.admin.ch/ch/f/pore/va/20121125/index.html), en vigueur depuis le 25 nov. 2012. Garantie de l’Ass. féd. du 24 sept. 2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 7, [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
 
 ### Incompatibilités
 
@@ -1581,7 +1600,7 @@ Font partie du corps électoral communal, s’ils sont âgés de dix-huit ans r�
 
 <sup>3</sup> Dans les communes de moins de 3000 habitants, le règlement communal peut prévoir le scrutin majoritaire.[^144-1]
 
-[^144-1]: Accepté en [votation populaire du 4 sept. 2011](http://www.admin.ch/ch/f/pore/va/20110904/index.html), en vigueur depuis le 4 sept. 2011. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2335](https://fedlex.data.admin.ch/eli/fga/2013/456)art. 1 ch. 5, [2012 7877](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
+[^144-1]: Accepté en [votation populaire du 4 sept. 2011](http://www.admin.ch/ch/f/pore/va/20110904/index.html), en vigueur depuis le 4 sept. 2011. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2335](https://fedlex.data.admin.ch/eli/fga/2013/456)art. 1 ch. 5; [2012 7877](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
 
 ### Composition du conseil général
 
@@ -1660,7 +1679,7 @@ La municipalité est composée de trois membres au moins, dont la syndique ou le
 
 <sup>5</sup> En dérogation aux art. 144 et 148 de la Constitution, la durée des mandats des membres du conseil communal et des municipalités des communes concernées peut être prolongée sans élection jusqu’à l’entrée en vigueur d’une fusion de communes lorsque celle-ci intervient dans les six mois qui suivent la fin de ces mandats.[^151-1]
 
-[^151-1]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 26 sept. 2010. Garantie de l’Ass. féd. du 6 mars 2012 ([FF 2012 3603](https://fedlex.data.admin.ch/eli/fga/2012/502)art. 1 ch. 6, [2011 7403](https://fedlex.data.admin.ch/eli/fga/2011/1369)).
+[^151-1]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 26 sept. 2010. Garantie de l’Ass. féd. du 6 mars 2012 ([FF 2012 3603](https://fedlex.data.admin.ch/eli/fga/2012/502)art. 1 ch. 6; [2011 7403](https://fedlex.data.admin.ch/eli/fga/2011/1369)).
 
 ### Droit d’initiative et procédure
 
@@ -1758,7 +1777,11 @@ Toute dépense doit reposer sur une base légale.
 
 <sup>1</sup> Pour atteindre leurs buts, l’État et les communes peuvent participer à des personnes morales ou en créer. La loi fixe les modalités de contrôle de ces personnes morales.
 
+<sup>1bis</sup> L’État et les communes veillent à ce que ces personnes morales mènent leurs activités de manière à contribuer au moins au respect des engagements de la Suisse en matière de lutte contre le réchauffement climatique et les dérèglements qu’il engendre.[^162-1]
+
 <sup>2</sup> Les établissements d’assurance créés par l’État sont gérés de manière autonome; leurs capitaux demeurent la propriété des assurés.
+
+[^162-1]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 18 juin 2023. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 2,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Gestion des finances
 
@@ -1790,11 +1813,11 @@ Toute dépense doit reposer sur une base légale.
 
 [^titVII-chapII-1]
 
-[^titVII-chapII-1]: Accepté en [votation populaire du 9 juin 2013](http://www.admin.ch/ch/f/pore/va/20130609/index.html), en vigueur depuis le 10 juin 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 9, [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^titVII-chapII-1]: Accepté en [votation populaire du 9 juin 2013](http://www.admin.ch/ch/f/pore/va/20130609/index.html), en vigueur depuis le 10 juin 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 9; [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 #### Art. 166
 
-1 Le Canton de Vaud est doté de plusieurs autorités assurant en toute indépendance la surveillance de l’utilisation de tout argent public, notamment sous l’angle du respect des principes de légalité, de régularité, d’efficacité, d’économie et d’efficience.
+<sup>1</sup> Le Canton de Vaud est doté de plusieurs autorités assurant en toute indépendance la surveillance de l’utilisation de tout argent public, notamment sous l’angle du respect des principes de légalité, de régularité, d’efficacité, d’économie et d’efficience.
 
 <sup>2</sup>
 
@@ -1923,7 +1946,9 @@ La présente Constitution entre en vigueur le 14 avril 2003.
 
 #### Art. 178
 
-<sup>1</sup> La législation d’application requise pour le renouvellement des autorités devra être adoptée dans les deux ans dès l’entrée en vigueur de la présente Constitution. Le renouvellement aura lieu conformément à cette Constitution
+<sup>1</sup>
+
+La législation d’application requise pour le renouvellement des autorités devra être adoptée dans les deux ans dès l’entrée en vigueur de la présente Constitution. Le renouvellement aura lieu conformément à cette Constitution:
 
 - – au printemps 2006 pour les autorités communales, la législature en cours prenant fin le 30 juin 2006;
 - – au printemps 2007 pour les autorités cantonales, la législature en cours prenant fin le 30 juin 2007.
@@ -1934,7 +1959,7 @@ La présente Constitution entre en vigueur le 14 avril 2003.
 
 <sup>4</sup> Le mandat des juges et des juges suppléants du Tribunal cantonal et du Tribunal administratif est prolongé jusqu’au 31 décembre 2007.[^178-1]
 
-[^178-1]: Accepté en [votation populaire du 27 nov. 2005](http://www.admin.ch/ch/f/pore/va/20051127/index.html), en vigueur depuis le 27 nov. 2005. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 5 [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^178-1]: Accepté en [votation populaire du 27 nov. 2005](http://www.admin.ch/ch/f/pore/va/20051127/index.html), en vigueur depuis le 27 nov. 2005. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 5, [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 ### Dispositions transitoires particulières
 
@@ -1956,7 +1981,7 @@ La législation d’application du titre VI *Communes et districts* devra être 
 
 [^179-subdivu4-1]
 
-[^179-subdivu4-1]: Accepté en votation populaire du 21 oct. 2007, en vigueur depuis le 21 oct. 2007. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 3 [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)
+[^179-subdivu4-1]: Accepté en votation populaire du 21 oct. 2007, en vigueur depuis le 21 oct. 2007. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 3, [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)
 
 La législation d’application requise par l’art. 129 Cst-VD doit être édictée au plus tard à l’échéance du délai prévu par l’art. 130 de la loi du 17 juin 2005 sur le Tribunal fédéral pour l’adaptation des dispositions cantonales en matière civile et pénale.
 
@@ -1976,7 +2001,7 @@ Aussi longtemps que la nouvelle loi sur les finances n’est pas en vigueur les 
 
 [^179-subdivu8-1]
 
-[^179-subdivu8-1]: Abrogé en [votation populaire du 9 juin 2013](http://www.admin.ch/ch/f/pore/va/20130609/index.html), avec effet au 10 juin 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 9, [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^179-subdivu8-1]: Abrogé en [votation populaire du 9 juin 2013](http://www.admin.ch/ch/f/pore/va/20130609/index.html), avec effet au 10 juin 2013. Garantie de l’Ass. féd. du 11 mars 2015 ([FF 2015 2811](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 ch. 9; [2014 8899](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### ad art. 13 et 14 Constitution du 1<sup>er</sup> mars 1885
 
@@ -1995,6 +2020,30 @@ Les droits coutumiers des bourgeoisies, fondées sur l’art. 81 de la Constitut
 La durée de fonction des juges cantonaux ainsi que celle du Procureur général, est prolongée jusqu’au 31 décembre 2024.
 
 [^179a-1]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+
+### Disposition transitoire de l’art. 52*b*
+
+#### Art. 179b
+
+[^179b-1]
+
+<sup>1</sup> Dans l’exercice de leurs tâches, l’État et les communes doivent atteindre la neutralité carbone d’ici à 2050 au plus tard. À cette fin, ils élaborent des plans d’action avec des objectifs intermédiaires pour 2030 et 2040.
+
+<sup>2</sup> Pour contribuer à atteindre la neutralité carbone d’ici à 2050 au plus tard, les caisses de pension de l’État et des communes relevant du droit public adoptent tous les cinq ans des stratégies en matière d’investissements responsables et respectueux du climat.
+
+[^179b-1]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 18 juin 2023. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 2,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+
+### Disposition transitoire de l’art. 162, al. 1<sup>bis</sup>
+
+#### Art. 179c
+
+[^179c-1]
+
+<sup>1</sup> L’État et les communes veillent à ce que les personnes morales au sens de l’art. 162, al. 1, élaborent des plans d’action de réduction massive des flux financiers et placements qui contreviennent aux objectifs climatiques internationaux de la Suisse (désinvestissement des énergies fossiles), avec des objectifs intermédiaires pour 2030 et 2040.
+
+<sup>2</sup> L’État et les communes veillent à ce que les montants dégagés par ce désinvestissement soient réinvestis dans des activités suivant les principes de l’art. 52*b* tout en étant également socialement responsables.
+
+[^179c-1]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 18 juin 2023. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 2,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Initiatives et référendums
 
@@ -2081,6 +2130,8 @@ Citoyens
   - – condition pour le droit de suffrage 74
 
 - – naturalisation 69
+
+Climat 52*b*, 162<sup>1bis</sup>, 179*b*, 179*c*
 
 Communes
 
