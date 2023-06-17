@@ -4,7 +4,7 @@ number: "101.01"
 title: CONSTITUTION du 14.04.2003 du Canton de Vaud (Cst-VD)
 short: Cst-VD
 language: fr
-version: 2022-09-25
+version: 2023-06-18
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/101.01?id=f79b6681-185b-42a1-946d-55fb19430277"
 ---
 
@@ -92,6 +92,7 @@ le peuple du Canton de Vaud se donne la Constitution suivante :
 - b. l'intégration harmonieuse de chacun au corps social;
 - c. la préservation des bases physiques de la vie et la conservation durable des ressources naturelles;
 - d. la sauvegarde des intérêts des générations futures.
+- e. la protection du climat et de la biodiversité ainsi que la lutte contre le réchauffement climatique et les dérèglements qu'il génère.
 
 <sup>2</sup> Dans ses activités, il :
 
@@ -100,8 +101,9 @@ le peuple du Canton de Vaud se donne la Constitution suivante :
 - c. fait prévaloir la justice et la paix, et soutient les efforts de prévention des conflits;
 - d. reconnaît les familles comme éléments de base de la société;
 - e. veille à une représentation équilibrée des femmes et des hommes au sein des autorités.
+- f. tient compte de l'urgence environnementale.
 
-[^5-1]: Modif. 14 du 15.11.2022: Introduction Al. 1, e; entrée en vigueur au 18.06.2023; Introduction Al. 2, f; entrée en vigueur au 18.06.2023; Introduction Art. 52b; entrée en vigueur au 18.06.2023; Introduction Art. 162, Al. 1bis; entrée en vigueur au 18.06.2023; Introduction Art. 179b; entrée en vigueur au 18.06.2023; Introduction Art. 179c; entrée en vigueur au 18.06.2023
+[^5-1]: Modif. 14 du 15.11.2022: Introduction Al. 1, e; entrée en vigueur au 18.06.2023; Introduction Al. 2, f; entrée en vigueur au 18.06.2023
 
 #### Art. 7
 
@@ -525,6 +527,18 @@ le peuple du Canton de Vaud se donne la Constitution suivante :
 
 [^52-1]: Modif. 1 du 27.11.2005: Introduction Art. 52a; entrée en vigueur au 27.11.2005
 [^52a-1]: Loi du 12.02.1979 sur le plan de protection de Lavaux ([BLV 701.43](https://prestations.vd.ch/pub/blv-publication/actes/consolide/701.43?id=2e33df89-4e13-405f-a4e6-faa240efc542))
+
+#### Art. 52b
+
+**Protection du climat [^52a-2]**
+
+<sup>1</sup> Dans l'exercice de leurs tâches, l'Etat et les communes veillent à la protection du climat et luttent contre le réchauffement climatique et les dérèglements qu'il génère.
+
+<sup>2</sup> Afin d'accomplir cet objectif, l'Etat et les communes réduisent significativement les impacts climatiques négatifs de chacune de leurs politiques.
+
+<sup>3</sup> Les caisses de pension de l'Etat et des communes relevant du droit public concourent également à la réalisation de cet objectif.
+
+[^52a-2]: Modif. 14 du 15.11.2022: Introduction tArt; entrée en vigueur au 18.06.2023; Introduction Al. 1-3; entrée en vigueur au 18.06.2023; Introduction Art. 52b; entrée en vigueur au 18.06.2023
 
 #### Art. 53
 
@@ -1777,9 +1791,11 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 
 <sup>1</sup> Pour atteindre leurs buts, l'Etat et les communes peuvent participer à des personnes morales ou en créer. La loi fixe les modalités de contrôle de ces personnes morales.
 
+<sup>1bis</sup> L'État et les communes veillent à ce que ces personnes morales mènent leurs activités de manière à contribuer au moins au respect des engagements de la Suisse en matière de lutte contre le réchauffement climatique et les dérèglements qu'il engendre.
+
 <sup>2</sup> Les établissements d'assurance créés par l'Etat sont gérés de manière autonome; leurs capitaux demeurent la propriété des assurés.
 
-[^161-1]: Modif. 14 du 15.11.2022: Introduction Art. 6, Al. 1, e; entrée en vigueur au 18.06.2023; Introduction Art. 6, Al. 2, f; entrée en vigueur au 18.06.2023; Introduction Art. 52b; entrée en vigueur au 18.06.2023; Introduction Al. 1bis; entrée en vigueur au 18.06.2023; Introduction Art. 179b; entrée en vigueur au 18.06.2023; Introduction Art. 179c; entrée en vigueur au 18.06.2023
+[^161-1]: Modif. 14 du 15.11.2022: Introduction Al. 1bis; entrée en vigueur au 18.06.2023
 
 #### Art. 163
 
@@ -1997,6 +2013,26 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 <sup>1</sup> La durée de fonction des juges cantonaux ainsi que celle du Procureur général, est prolongée jusqu'au 31 décembre 2024.
 
 [^179-1]: Modif. 13 du 24.05.2022: Introduction tArt; entrée en vigueur au 25.09.2022; Introduction Al. 1; entrée en vigueur au 25.09.2022; Introduction Art. 179a; entrée en vigueur au 25.09.2022
+
+#### Art. 179b
+
+**Disposition transitoire de l'article 52b [^179a-1]**
+
+<sup>1</sup> Dans l'exercice de leurs tâches, l'Etat et les communes doivent atteindre la neutralité carbone d'ici à 2050 au plus tard. A cette fin, ils élaborent des plans d'action avec des objectifs intermédiaires pour 2030 et 2040.
+
+<sup>2</sup> Pour contribuer à atteindre la neutralité carbone d'ici à 2050 au plus tard, les caisses de pension de l'Etat et des communes relevant du droit public adoptent tous les cinq ans des stratégies en matière d'investissements responsables et respectueux du climat.
+
+[^179a-1]: Modif. 14 du 15.11.2022: Introduction tArt; entrée en vigueur au 18.06.2023; Introduction Al. 1-2; entrée en vigueur au 18.06.2023; Introduction Art. 179b; entrée en vigueur au 18.06.2023
+
+#### Art. 179c
+
+**Disposition transitoire de l'article 162, alinéa 1bis [^179b-1]**
+
+<sup>1</sup> L'Etat et les communes veillent à ce que les personnes morales au sens de l'article 162 alinéa 1, élaborent des plans d'action de réduction massive des flux financiers et placements qui contreviennent aux objectifs climatiques internationaux de la Suisse (désinvestissement des énergies fossiles), avec des objectifs intermédiaires pour 2030 et 2040.
+
+<sup>2</sup> L'Etat et les communes veillent à ce que les montants dégagés par ce désinvestissement soient réinvestis dans des activités suivant les principes de l'article 52b tout en étant également socialement responsables.
+
+[^179b-1]: Modif. 14 du 15.11.2022: Introduction tArt; entrée en vigueur au 18.06.2023; Introduction Al. 1-2; entrée en vigueur au 18.06.2023; Introduction Art. 179c; entrée en vigueur au 18.06.2023
 
 #### Art. 180
 
