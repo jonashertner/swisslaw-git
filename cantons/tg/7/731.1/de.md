@@ -4,13 +4,12 @@ number: "731.1"
 title: Gesetz über die Energienutzung
 short: ENG
 language: de
-version: 2020-07-01
-valid_until: 2023-06-18
-version_adopted: 2019-12-18
+version: 2023-06-19
+version_adopted: 2023-01-11
 adopted: 2004-03-10
 in_force: 2005-04-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/731.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2222/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2670/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ ENG
 
 (ENG)
 
-vom 10.03.2004 (Stand 01.07.2020)
+vom 10.03.2004 (Stand 19.06.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -31,10 +30,10 @@ vom 10.03.2004 (Stand 01.07.2020)
 
 <sup>1</sup> Dieses Gesetz bezweckt:
 
-- 1\. Förderung einer sparsamen und rationellen Energienutzung;
-- 2\. Förderung der Nutzung erneuerbarer und umweltverträglich produzierter Energien;
-- 3\. Minderung der Abhängigkeit von fossilen Energieträgern;
-- 4\. Vollzug der Energiegesetzgebung des Bundes.
+- 1\. Förderung einer sparsamen und rationellen Energienutzung
+- 2\. Förderung der Nutzung erneuerbarer und umweltverträglich produzierter Energien
+- 3\. Minderung der Abhängigkeit von fossilen Energieträgern
+- 4\. Vollzug der Energiegesetzgebung des Bundes
 
 #### § 2
 
@@ -94,11 +93,11 @@ vom 10.03.2004 (Stand 01.07.2020)
 
 <sup>2</sup> Dazu gehören insbesondere Massnahmen betreffend:
 
-- 1\. sparsame und rationelle Energienutzung;
-- 2\. Nutzung von erneuerbaren und umweltverträglich produzierten Energien, insbesondere Elektrizität aus Neuanlagen, welche Sonnenenergie, Biomasse, Geothermie und natur- und landschaftsverträglich gewonnene Wasserkraft verwenden;
-- 2a. Nutzung von Abwärme;
-- 3\. Information, Beratung, Planung und Marketing im Energiebereich;
-- 4\. Aus- und Weiterbildung im Energiebereich, insbesondere von Fachleuten.
+- 1\. sparsame und rationelle Energienutzung
+- 2\. Nutzung von erneuerbaren und umweltverträglich produzierten Energien, insbesondere Elektrizität aus Neuanlagen, welche Sonnenenergie, Biomasse, Geothermie und natur- und landschaftsverträglich gewonnene Wasserkraft verwenden
+- 2a. Nutzung von Abwärme
+- 3\. Information, Beratung, Planung und Marketing im Energiebereich
+- 4\. Aus- und Weiterbildung im Energiebereich, insbesondere von Fachleuten
 
 <sup>3</sup> Die Ausrichtung von Beiträgen ist auf den Rahmen des bewilligten Budgetkredites beschränkt.
 
@@ -110,7 +109,7 @@ vom 10.03.2004 (Stand 01.07.2020)
 
 <sup>2</sup> Der Fonds wird durch Erträge aus Beteiligungen an Energiegesellschaften und allgemeine Staatsmittel geäufnet.
 
-<sup>3</sup> Der Grosse Rat legt den Staatsbeitrag im Voranschlag so fest, dass für das Budgetjahr inklusive Fondsbestand eine kantonale Fördersumme von zwölf bis zweiundzwanzig Millionen Franken zur Verfügung steht.
+<sup>3</sup> Der Grosse Rat legt den Staatsbeitrag im Voranschlag so fest, dass für das Budgetjahr inklusive Fondsbestand eine kantonale Fördersumme von mindestens zwölf Millionen Franken zur Verfügung steht.
 
 <sup>4</sup> Das Departement erlässt ein Förderprogramm.
 
@@ -148,7 +147,7 @@ vom 10.03.2004 (Stand 01.07.2020)
 
 <sup>1</sup> Wird ein Wärmeerzeuger in einer bestehenden Baute ersetzt, die einen hohen Energieverbrauch für Heizung und Warmwasser aufweist, ist ein Ersatz zu verwenden, mit dem ein Anteil des bisherigen Energiebedarfs eingespart oder mit erneuerbaren Energien abgedeckt wird.
 
-<sup>2</sup> Dieser Anteil beträgt mindestens 10 Prozent ab dem Jahr 2020, 15 Prozent ab dem Jahr 2025 und 20 Prozent ab dem Jahr 2030.
+<sup>2</sup> Dieser Anteil beträgt mindestens 10 % ab dem Jahr 2020, 15 % ab dem Jahr 2025 und 20 % ab dem Jahr 2030.
 
 <sup>3</sup> Der Bezug erneuerbarer oder mit erneuerbaren Energien hergestellter synthetischer Brennstoffe ist als Ersatzlösung zulässig, sofern diese in der Schweiz aus grösstenteils schweizerischen Rohstoffen produziert worden sind. Die Lieferung von Energie wird eingestellt, falls der notwendige erneuerbare Anteil nicht eingehalten werden kann.
 
@@ -164,7 +163,7 @@ vom 10.03.2004 (Stand 01.07.2020)
 
 <sup>2</sup> Bestehende Bauten mit zentraler Wärmeversorgung für fünf oder mehr Nutzungseinheiten sind bei einer Gesamterneuerung des Heizungssystems oder des Warmwassersystems mit den Geräten zur Erfassung des individuellen Wärmeverbrauchs für Heizung beziehungsweise Warmwasser auszurüsten.
 
-<sup>3</sup> Bestehende Gebäudegruppen mit zentraler Wärmeversorgung sind pro Gebäude mit Geräten zur Erfassung des Wärmeverbrauchs für Heizung auszurüsten, wenn an einem oder mehreren Gebäuden mehr als 75 Prozent der Gebäudehülle saniert wird.
+<sup>3</sup> Bestehende Gebäudegruppen mit zentraler Wärmeversorgung sind pro Gebäude mit Geräten zur Erfassung des Wärmeverbrauchs für Heizung auszurüsten, wenn an einem oder mehreren Gebäuden mehr als 75 % der Gebäudehülle saniert wird.
 
 <sup>4</sup> Die Kosten für den Wärmeverbrauch sind zum überwiegenden Teil anhand des gemessenen Verbrauchs der einzelnen Nutzeinheiten abzurechnen.
 
@@ -182,13 +181,13 @@ vom 10.03.2004 (Stand 01.07.2020)
 
 **Grenzwerte für den Elektrizitätsbedarf**
 
-<sup>1</sup> Neubauten sowie tiefgreifende Umbauten und Umnutzungen, die Geschossflächen von insgesamt mehr als 1 000 m² für Dienstleistungen oder für gewerbliche oder öffentliche Nutzungen enthalten, haben für diese Flächen die vom Regierungsrat für verbindlich erklärten Grenzwerte für den spezifischen Elektrizitätsbedarf für Beleuchtung, Lüftung und Kälte einzuhalten oder einen Teil der Elektrizität, zusätzlich zu § 8 Abs. 1<sup>bis</sup>, zu erzeugen.
+<sup>1</sup> Neubauten sowie tiefgreifende Umbauten und Umnutzungen, die Geschossflächen von insgesamt mehr als 1'000 m² für Dienstleistungen oder für gewerbliche oder öffentliche Nutzungen enthalten, haben für diese Flächen die vom Regierungsrat für verbindlich erklärten Grenzwerte für den spezifischen Elektrizitätsbedarf für Beleuchtung, Lüftung und Kälte einzuhalten oder einen Teil der Elektrizität, zusätzlich zu § 8 Abs. 1<sup>bis</sup>, zu erzeugen.
 
 #### § 11a
 
 **Ortsfeste elektrische Widerstandsheizungen**
 
-<sup>1</sup> Ortsfeste elektrische Widerstandsheizungen zur Gebäudebeheizung sind nicht zulässig, wenn sie:
+<sup>1</sup> Ortsfeste elektrische Widerstandsheizungen zur Gebäudebeheizung sind nicht zulässig, wenn sie
 
 - 1\. neu installiert werden,
 - 2\. als Ersatz für ortsfeste Widerstandsheizungen mit Wasserverteilsystem vorgesehen sind oder
@@ -226,7 +225,7 @@ vom 10.03.2004 (Stand 01.07.2020)
 
 <sup>1</sup> Ortsfeste Heizungen im Freien sind ausschliesslich mit erneuerbarer Energie oder nicht anders nutzbarer Abwärme zu betreiben.
 
-<sup>2</sup> Eine Ausnahme kann bewilligt werden, wenn:
+<sup>2</sup> Eine Ausnahme kann bewilligt werden, wenn
 
 - 1\. die Sicherheit von Personen und Sachen oder der Schutz technischer Einrichtungen den Betrieb einer Heizung im Freien erfordert,
 - 2\. bauliche und betriebliche Massnahmen nicht ausführbar oder unverhältnismässig sind und
@@ -280,7 +279,7 @@ vom 10.03.2004 (Stand 01.07.2020)
 
 <sup>1</sup> Scheiden Politische Gemeinden Gebiete aus, für die Fernwärme vorgesehen ist, kann der Anschluss an das Versorgungsnetz vorgeschrieben werden.
 
-<sup>2</sup> Das Verfahren richtet sich nach den Bestimmungen des Planungs- und Baugesetzes[^15-1] über die Richt- oder Nutzungsplanung.
+<sup>2</sup> Das Verfahren richtet sich nach den Bestimmungen des Planungs- und Baugesetzes (PBG)[^15-1] über die Richt- oder Nutzungsplanung.
 
 <sup>3</sup> Für bestehende Bauten oder Anlagen kann der Anschluss nur vorgeschrieben werden, wenn wesentliche Erneuerungen oder Umbauten an bestehenden Heizungsanlagen vorgenommen werden.
 
@@ -304,7 +303,7 @@ vom 10.03.2004 (Stand 01.07.2020)
 
 **Ergänzendes Recht**
 
-<sup>1</sup> Für Vollzug und Verfahren gelten § 114 bis § 118 des Planungs- und Baugesetzes, soweit dieses Gesetz und seine Ausführungsbestimmungen keine besonderen Regelungen enthalten.
+<sup>1</sup> Für Vollzug und Verfahren gelten § 114 bis § 118 PBG, soweit dieses Gesetz und seine Ausführungsbestimmungen keine besonderen Regelungen enthalten.
 
 #### § 19
 
@@ -314,28 +313,10 @@ vom 10.03.2004 (Stand 01.07.2020)
 
 <sup>2</sup> Wird die Tat fahrlässig begangen, ist die Strafe Busse bis zu Fr. 10'000.
 
-## 5. Übergangs- und Schlussbestimmungen
+## 5.
 
-#### § 20
+#### § 20–22
 
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Das Energiegesetz vom 22. Dezember 1986 wird mit Ausnahme von § 13a aufgehoben.
-
-#### § 21
-
-**Übergangsbestimmung**
-
-<sup>1</sup> § 13a des Energiegesetzes vom 22. Dezember 1986 wird vom Regierungsrat erst dann ausser Kraft gesetzt, wenn eine entsprechende bundesrechtliche Lösung zur Anwendung kommt[^21-1].
-
-[^21-1]: Ausser Kraft gesetzt mit RRB vom 11. November 2008.
-
-#### § 22
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt auf einen durch den Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^22-1].
-
-[^22-1]: In Kraft gesetzt auf den 1. April 2005.
+**…**
 
 ABl. 11/2004
