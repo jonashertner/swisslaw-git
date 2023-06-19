@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance 3 sur l’asile et de l’ordonnance sur l’exécution du renvoi et de l’expulsion d’étrangers (évaluation des supports de données électroniques des requérants d’asile)
 document: Projet mis en consultation-2
 language: fr

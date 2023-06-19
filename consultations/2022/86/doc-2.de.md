@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Asylverordnung 3 und der Verordnung über den Vollzug der Weg- und Ausweisung sowie der Landesverweisung von ausländischen Personen (Auswertung elektronischer Datenträger von Asylsuchenden)
 document: Vernehmlassungsvorlage-2
 language: de

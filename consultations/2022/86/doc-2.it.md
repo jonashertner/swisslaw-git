@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza 3 sull’asilo e dell’ordinanza concernente l’esecuzione dell’allontanamento e dell’espulsione di stranieri (valutazione dei supporti elettronici di dati dei richiedenti l’asilo)
 document: Progetto posto in consultazione-2
 language: it
