@@ -3,11 +3,11 @@ sr: "0.518.61"
 title: Traité du 2 avril 2013 sur le commerce des armes
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/93"
 language: fr
-version: 2020-07-31
+version: 2023-06-20
 adopted: 2013-04-02
 in_force: 2015-01-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/93/20200731/fr/xml/fedlex-data-admin-ch-eli-cc-2015-93-20200731-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/93/20200731/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/93/20230620/fr/xml/fedlex-data-admin-ch-eli-cc-2015-93-20230620-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/93/20230620/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,17 +18,9 @@ RO **2015** 595; FF **2014** 1485
 
 Texte original
 
-Conclu à New York le 2 avril 2013
+Conclu à New York le 2 avril 2013 Approuvé par l’Assemblée fédérale le 26 septembre 2014[^t-1] Instrument de ratification déposé par la Suisse le 30 janvier 2015 Application provisoire des art. 6 et 7 par la Suisse à partir du 30 janvier 2015 Entré en vigueur pour la Suisse le 30 avril 2015
 
-Approuvé par l’Assemblée fédérale le 26 septembre 2014[^t-1]
-
-Instrument de ratification déposé par la Suisse le 30 janvier 2015
-
-Application provisoire des art. 6 et 7 par la Suisse à partir du 30 janvier 2015
-
-Entré en vigueur pour la Suisse le 30 avril 2015
-
-(Etat le 31 juillet 2020)
+(État le 20 juin 2023)
 
 [^t-1]: [RO 2015 593](https://fedlex.data.admin.ch/eli/oc/2015/92)
 
@@ -416,7 +408,7 @@ L’original du présent Traité, dont les textes anglais, arabe, chinois, espag
 
 Fait à New York, le deux avril deux mille treize. (Suivent les signatures)
 
-Champ d’application le 31 juillet 2020**[^t-2]**
+Champ d’application le 20 juin 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -424,6 +416,7 @@ Champ d’application le 31 juillet 2020**[^t-2]**
 <tr><td>Afrique du Sud</td><td>22 décembre</td><td>2014</td><td>24 décembre</td><td>2014</td></tr>
 <tr><td>Albanie</td><td>19 mars</td><td>2014</td><td>24 décembre</td><td>2014</td></tr>
 <tr><td>Allemagne</td><td>2 avril</td><td>2014</td><td>24 décembre</td><td>2014</td></tr>
+<tr><td>Andorre</td><td>2 décembre</td><td>2022</td><td>2 mars</td><td>2022</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>12 août</td><td>2013</td><td>24 décembre</td><td>2014</td></tr>
 <tr><td>Argentine</td><td>25 septembre</td><td>2014</td><td>24 décembre</td><td>2014</td></tr>
 <tr><td>Australie</td><td>3 juin</td><td>2014</td><td>24 décembre</td><td>2014</td></tr>
@@ -457,6 +450,7 @@ Champ d’application le 31 juillet 2020**[^t-2]**
 <tr><td>Estonie</td><td>2 avril</td><td>2014</td><td>24 décembre</td><td>2014</td></tr>
 <tr><td>Finlande</td><td>2 avril</td><td>2014</td><td>2 avril</td><td>2014</td></tr>
 <tr><td>France</td><td>2 avril</td><td>2014</td><td>24 décembre</td><td>2014</td></tr>
+<tr><td>Gabon</td><td>21 septembre</td><td>2022</td><td>20 décembre</td><td>2022</td></tr>
 <tr><td>Géorgie</td><td>23 mai</td><td>2016</td><td>21 août</td><td>2016</td></tr>
 <tr><td>Ghana</td><td>22 décembre</td><td>2015</td><td>21 mars</td><td>2016</td></tr>
 <tr><td>Grèce</td><td>29 février</td><td>2016</td><td>29 mai</td><td>2016</td></tr>
@@ -493,6 +487,7 @@ Champ d’application le 31 juillet 2020**[^t-2]**
 <tr><td>Monténégro</td><td>18 août</td><td>2014</td><td>24 décembre</td><td>2014</td></tr>
 <tr><td>Mozambique</td><td>14 décembre</td><td>2018</td><td>14 mars</td><td>2019</td></tr>
 <tr><td>Namibie</td><td>28 avril</td><td>2020</td><td>27 juillet</td><td>2020</td></tr>
+<tr><td>Nioué</td><td>6 août</td><td>2020 A</td><td>4 novembre</td><td>2020</td></tr>
 <tr><td>Niger</td><td>24 juillet</td><td>2015</td><td>22 octobre</td><td>2015</td></tr>
 <tr><td>Nigéria</td><td>12 août</td><td>2013</td><td>24 décembre</td><td>2014</td></tr>
 <tr><td>Norvège</td><td>12 février</td><td>2014</td><td>24 décembre</td><td>2014</td></tr>
@@ -503,6 +498,7 @@ Champ d’application le 31 juillet 2020**[^t-2]**
 <tr><td>Paraguay</td><td>9 avril</td><td>2015</td><td>8 juillet</td><td>2015</td></tr>
 <tr><td>Pays-Bas</td><td>18 décembre</td><td>2014</td><td>14 décembre</td><td>2014</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>18 décembre</td><td>2014</td><td>24 décembre</td><td>2014</td></tr>
+<tr><td>Philippines</td><td>24 mars</td><td>2022</td><td>22 juin</td><td>2022</td></tr>
 <tr><td>Pérou</td><td>16 février</td><td>2016</td><td>16 mai</td><td>2016</td></tr>
 <tr><td>Pologne</td><td>17 décembre</td><td>2014</td><td>24 décembre</td><td>2014</td></tr>
 <tr><td>Portugal</td><td>25 septembre</td><td>2014</td><td>24 décembre</td><td>2014</td></tr>
@@ -532,24 +528,24 @@ Champ d’application le 31 juillet 2020**[^t-2]**
 <tr><td>Tuvalu</td><td>4 septembre</td><td>2015</td><td>3 décembre</td><td>2015</td></tr>
 <tr><td>Uruguay</td><td>25 septembre</td><td>2014</td><td>24 décembre</td><td>2014</td></tr>
 <tr><td>Zambie</td><td>20 mai</td><td>2016</td><td>18 août</td><td>2016</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Traité ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> Le Traité ne s’applique pas au Tokélaou.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Traité ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> Le Traité ne s’applique pas au Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 2015 595](https://fedlex.data.admin.ch/eli/oc/2015/93)[1291](https://fedlex.data.admin.ch/eli/oc/2015/266)[2733](https://fedlex.data.admin.ch/eli/oc/2015/514), [2016 423](https://fedlex.data.admin.ch/eli/oc/2016/68)[1747](https://fedlex.data.admin.ch/eli/oc/2016/315)[4189](https://fedlex.data.admin.ch/eli/oc/2016/701), [2018 2549](https://fedlex.data.admin.ch/eli/oc/2018/375), [2019 373](https://fedlex.data.admin.ch/eli/oc/2019/65)[3431](https://fedlex.data.admin.ch/eli/oc/2019/623), [2020 3521](https://fedlex.data.admin.ch/eli/oc/2020/620). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2015 595](https://fedlex.data.admin.ch/eli/oc/2015/93), [1291](https://fedlex.data.admin.ch/eli/oc/2015/266), [2733](https://fedlex.data.admin.ch/eli/oc/2015/514); [2016 423](https://fedlex.data.admin.ch/eli/oc/2016/68), [1747](https://fedlex.data.admin.ch/eli/oc/2016/315), [4189](https://fedlex.data.admin.ch/eli/oc/2016/701); [2018 2549](https://fedlex.data.admin.ch/eli/oc/2018/375); [2019 373](https://fedlex.data.admin.ch/eli/oc/2019/65), [3431](https://fedlex.data.admin.ch/eli/oc/2019/623); [2020 3521](https://fedlex.data.admin.ch/eli/oc/2020/620); [2023 321](https://fedlex.data.admin.ch/eli/oc/2023/321). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclarations de la Suisse
 
 Le 30 janvier 2015, la Suisse a déposé auprès du Secrétaire général de l’Organisation des Nations Unies les déclarations suivantes:
 
-## *Déclaration portant sur l’art. 23*
+## *Déclaration portant sur l**’**art. 23*
 
 Selon l’art. 23, la Suisse déclare qu’elle appliquera les art. 6 et 7 à titre provisoire en attendant l’entrée en vigueur du présent Traité pour la Suisse.
 
-## *Déclaration portant sur l’art. 2, par. 2*
+## *Déclaration portant sur l**’**art. 2, par. 2*
 
 Selon l’interprétation de la Suisse, les termes «exportation», «importation», «transit», «transbordement» et «courtage» à l’art. 2, par. 2, englobent, à la lumière de l’objet et du but de ce traité et suivant le sens ordinaire à leur attribuer, les transactions monétaires ou non monétaires, telles que les dons, prêts et locations. De ce fait, ces activités relèvent du champ d’application du traité.
 
-## *Déclaration portant sur l’art. 6, par. 3*
+## *Déclaration portant sur l**’**art. 6, par. 3*
 
 Selon l’interprétation de la Suisse, l’expression «des violations graves des Conventions de Genève de 1949, des attaques dirigées contre des civils ou des biens de caractère civil et protégés comme tels, ou d’autres crimes de guerre tels que définis par des accords internationaux auxquels il est partie» à l’art. 6, par. 3, recouvre les actes commis dans le cadre de conflits armés internationaux et non internationaux, et englobe, notamment, les violations graves de l’art. 3 commun aux Conventions de Genève de 1949, ainsi que, pour les États parties aux accords pertinents, les crimes de guerre tels que décrits dans la Convention IV de La Haye de 1907[^declu2-lvlu3-1] et son Règlement, les Protocoles additionnels de 1977 aux Conventions de Genève[^declu2-lvlu3-2] et le Statut de Rome de la Cour pénale internationale de 1998[^declu2-lvlu3-3].
 
@@ -557,15 +553,15 @@ Selon l’interprétation de la Suisse, l’expression «des violations graves d
 [^declu2-lvlu3-2]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362);[0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432);[0.518.523](https://fedlex.data.admin.ch/eli/cc/2007/38)
 [^declu2-lvlu3-3]: [RS 0.312.1](https://fedlex.data.admin.ch/eli/cc/2002/586)
 
-## *Déclaration portant sur l’art. 6, par. 3*
+## *Déclaration portant sur l**’**art. 6, par. 3*
 
 Selon l’interprétation de la Suisse, le terme «connaissance» à l’art. 6, par. 3, implique, à la lumière de l’objet et du but de ce traité et suivant le sens ordinaire à attribuer audit terme, que l’État partie concerné n’autorisera pas le transfert s’il dispose d’informations fiables donnant des motifs substantiels de croire que les armes ou les biens pourraient servir à commettre les crimes énumérés.
 
-## *Déclaration portant sur l’art. 7, par. 3*
+## *Déclaration portant sur l**’**art. 7, par. 3*
 
 Selon l’interprétation de la Suisse, l’expression «risque prépondérant» à l’art. 7, par. 3, comprend, à la lumière de l’objet et du but de ce traité et suivant le sens ordinaire à attribuer, dans ce traité, à toutes les versions linguistiques de cette expression faisant également foi, une obligation pour l’État partie concerné de ne pas autoriser l’exportation quand il estime qu’une des conséquences négatives prévues au par. 1 dudit article a plus de chances de se produire que de ne pas se produire, même s’il a examiné l’effet attendu des mesures d’atténuation des risques.
 
-## *Déclaration portant sur l’art. 26, par. 2*
+## *Déclaration portant sur l**’**art. 26, par. 2*
 
 Selon l’interprétation de la Suisse, l’art. 26, par. 2, vise à assurer que ce traité ne puisse être invoqué dans un litige de droit privé pour déclarer invalides les accords existants ou futurs de coopération en matière de défense conclus entre États parties et, par conséquent, ce traité reste applicable pour tout État partie, quelles que soient les obligations qui lui incombent en vertu d’un accord de coopération en matière de défense, conformément à la Convention de Vienne de 1969 sur le droit des traités[^declu2-lvlu6-1].
 

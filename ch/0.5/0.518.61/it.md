@@ -3,11 +3,11 @@ sr: "0.518.61"
 title: Trattato del 2 aprile 2013 sul commercio delle armi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/93"
 language: it
-version: 2020-07-31
+version: 2023-06-20
 adopted: 2013-04-02
 in_force: 2015-01-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/93/20200731/it/xml/fedlex-data-admin-ch-eli-cc-2015-93-20200731-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/93/20200731/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/93/20230620/it/xml/fedlex-data-admin-ch-eli-cc-2015-93-20230620-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/93/20230620/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,17 +18,11 @@ RU **2015** 595; FF **2014** 1425
 
 Traduzione
 
-Concluso a New York il 2 aprile 2013
+Concluso a New York il 2 aprile 2013 Approvato dall’Assemblea federale il 26 settembre 2014[^t-1]
 
-Approvato dall’Assemblea federale il 26 settembre 2014[^t-1]
+Strumento di ratifica depositato dalla Svizzera il 30 gennaio 2015 Applicazione provvisoria degli articoli 6 e 7 da parte della Svizzera a partire dal 30 gennaio 2015 Entrato in vigore per la Svizzera il 30 aprile 2015
 
-Strumento di ratifica depositato dalla Svizzera il 30 gennaio 2015
-
-Applicazione provvisoria degli articoli 6 e 7 da parte della Svizzera a partire dal 30 gennaio 2015
-
-Entrato in vigore per la Svizzera il 30 aprile 2015
-
-(Stato 31 luglio 2020)
+(Stato 20 giugno 2023)
 
 [^t-1]: [RU 2015 593](https://fedlex.data.admin.ch/eli/oc/2015/92)
 
@@ -418,12 +412,13 @@ Fatto a New York, il 2 aprile 2013.
 
 (Seguono le firme)
 
-Campo d’applicazione il 31 luglio 2020**[^t-2]**
+Campo d’applicazione il 20 giugno 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>29 luglio</td><td>2020 A</td><td>27 ottobre</td><td>2020</td></tr>
 <tr><td>Albania</td><td>19 marzo</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
+<tr><td>Andorra</td><td>2 dicembre</td><td>2022</td><td>2 marzo</td><td>2022</td></tr>
 <tr><td>Antigua e Barbuda</td><td>12 agosto</td><td>2013</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Argentina</td><td>25 settembre</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Australia</td><td>3 giugno</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
@@ -458,8 +453,10 @@ Campo d’applicazione il 31 luglio 2020**[^t-2]**
 <tr><td>Dominicana, Repubblica</td><td>7 agosto</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>El Salvador</td><td>2 aprile</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Estonia</td><td>2 aprile</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
+<tr><td>Filippine</td><td>24 marzo</td><td>2022</td><td>22 giugno</td><td>2022</td></tr>
 <tr><td>Finlandia</td><td>2 aprile</td><td>2014</td><td>2 aprile</td><td>2014</td></tr>
 <tr><td>Francia</td><td>2 aprile</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
+<tr><td>Gabon</td><td>21 settembre</td><td>2022</td><td>20 dicembre</td><td>2022</td></tr>
 <tr><td>Georgia</td><td>23 maggio</td><td>2016</td><td>21 agosto</td><td>2016</td></tr>
 <tr><td>Germania</td><td>2 aprile</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Ghana</td><td>22 dicembre</td><td>2015</td><td>21 marzo</td><td>2016</td></tr>
@@ -498,6 +495,7 @@ Campo d’applicazione il 31 luglio 2020**[^t-2]**
 <tr><td>Namibia</td><td>28 aprile</td><td>2020</td><td>27 luglio</td><td>2020</td></tr>
 <tr><td>Niger</td><td>24 luglio</td><td>2015</td><td>22 ottobre</td><td>2015</td></tr>
 <tr><td>Nigeria</td><td>12 agosto</td><td>2013</td><td>24 dicembre</td><td>2014</td></tr>
+<tr><td>Niue</td><td>6 agosto</td><td>2020 A</td><td>4 novembre</td><td>2020</td></tr>
 <tr><td>Norvegia</td><td>12 febbraio</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Nuova Zelanda\* <sup>b</sup></td><td>2 settembre</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Paesi Bassi</td><td>18 dicembre</td><td>2014</td><td>14 dicembre</td><td>2014</td></tr>
@@ -534,12 +532,12 @@ Campo d’applicazione il 31 luglio 2020**[^t-2]**
 <tr><td>Ungheria</td><td>2 aprile</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Uruguay</td><td>25 settembre</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Zambia</td><td>20 maggio</td><td>2016</td><td>18 agosto</td><td>2016</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Il Trattato non si applica alle Isole Färöer e alla Groenlandia.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Il Trattato non si applica al Tokélau.</td></tr>
 </table>
 
-[^t-2]: [RU 2015 595](https://fedlex.data.admin.ch/eli/oc/2015/93)[1291](https://fedlex.data.admin.ch/eli/oc/2015/266)[2733](https://fedlex.data.admin.ch/eli/oc/2015/514), [2016 423](https://fedlex.data.admin.ch/eli/oc/2016/68)[1747](https://fedlex.data.admin.ch/eli/oc/2016/315)[4189](https://fedlex.data.admin.ch/eli/oc/2016/701), [2018 2549](https://fedlex.data.admin.ch/eli/oc/2018/375), [2019 373](https://fedlex.data.admin.ch/eli/oc/2019/65)[3431](https://fedlex.data.admin.ch/eli/oc/2019/623)[2020 3521](https://fedlex.data.admin.ch/eli/oc/2020/620). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2015 595](https://fedlex.data.admin.ch/eli/oc/2015/93), [1291](https://fedlex.data.admin.ch/eli/oc/2015/266), [2733](https://fedlex.data.admin.ch/eli/oc/2015/514); [2016 423](https://fedlex.data.admin.ch/eli/oc/2016/68), [1747](https://fedlex.data.admin.ch/eli/oc/2016/315), [4189](https://fedlex.data.admin.ch/eli/oc/2016/701); [2018 2549](https://fedlex.data.admin.ch/eli/oc/2018/375); [2019 373](https://fedlex.data.admin.ch/eli/oc/2019/65), [3431](https://fedlex.data.admin.ch/eli/oc/2019/623); [2020 3521](https://fedlex.data.admin.ch/eli/oc/2020/620); [2023 321](https://fedlex.data.admin.ch/eli/oc/2023/321). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» (www.fedlex.admin.ch/it/treaty).
 
 Dichiarazioni della Svizzera
 

@@ -3,11 +3,11 @@ sr: "0.518.61"
 title: Vertrag vom 2. April 2013 über den Waffenhandel
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/93"
 language: de
-version: 2020-07-31
+version: 2023-06-20
 adopted: 2013-04-02
 in_force: 2015-01-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/93/20200731/de/xml/fedlex-data-admin-ch-eli-cc-2015-93-20200731-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/93/20200731/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/93/20230620/de/xml/fedlex-data-admin-ch-eli-cc-2015-93-20230620-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/93/20230620/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2015** 595; BBl **2014** 1541
 
 Abgeschlossen in New York am 2. April 2013 Von der Bundesversammlung genehmigt am 26. September 2014[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 30. Januar 2015 Vorläufige Anwendung von Artikel 6 und 7 durch die Schweiz ab dem 30. Januar 2015 In Kraft getreten für die Schweiz am 30. April 2015
 
-(Stand am 31. Juli 2020)
+(Stand am 20. Juni 2023)
 
 [^t-1]: [AS 2015 593](https://fedlex.data.admin.ch/eli/oc/2015/92)
 
@@ -421,12 +421,13 @@ Geschehen zu New York am 2. April 2013.
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 31. Juli 2020**[^t-2]**
+Geltungsbereich am 20. Juni 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>29. Juli</td><td>2020 B</td><td>27. Oktober</td><td>2020</td></tr>
 <tr><td>Albanien</td><td>19. März</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
+<tr><td>Andorra</td><td>2. Dezember</td><td>2022</td><td>2. März</td><td>2022</td></tr>
 <tr><td>Antigua und Barbuda</td><td>12. August</td><td>2013</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Argentinien</td><td>25. September</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Australien</td><td>3. Juni</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
@@ -454,6 +455,7 @@ Geltungsbereich am 31. Juli 2020**[^t-2]**
 <tr><td>Estland</td><td>2. April</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Finnland</td><td>2. April</td><td>2014</td><td>2. April</td><td>2014</td></tr>
 <tr><td>Frankreich</td><td>2. April</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
+<tr><td>Gabun</td><td>21. September</td><td>2022</td><td>20. Dezember</td><td>2022</td></tr>
 <tr><td>Georgien</td><td>23. Mai</td><td>2016</td><td>21. August</td><td>2016</td></tr>
 <tr><td>Ghana</td><td>22. Dezember</td><td>2015</td><td>21. März</td><td>2016</td></tr>
 <tr><td>Grenada</td><td>21. Oktober</td><td>2013</td><td>24. Dezember</td><td>2014</td></tr>
@@ -498,6 +500,7 @@ Geltungsbereich am 31. Juli 2020**[^t-2]**
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>18. Dezember</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Niger</td><td>24. Juli</td><td>2015</td><td>22. Oktober</td><td>2015</td></tr>
 <tr><td>Nigeria</td><td>12. August</td><td>2013</td><td>24. Dezember</td><td>2014</td></tr>
+<tr><td>Niue</td><td>6. August</td><td>2020 B</td><td>4. November</td><td>2020</td></tr>
 <tr><td>Nordmazedonien</td><td>6. März</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Norwegen</td><td>12. Februar</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Österreich</td><td>3. Juni</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
@@ -506,6 +509,7 @@ Geltungsbereich am 31. Juli 2020**[^t-2]**
 <tr><td>Panama</td><td>11. Februar</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Paraguay</td><td>9. April</td><td>2015</td><td>8. Juli</td><td>2015</td></tr>
 <tr><td>Peru</td><td>16. Februar</td><td>2016</td><td>16. Mai</td><td>2016</td></tr>
+<tr><td>Philippinen</td><td>24. März</td><td>2022</td><td>22. Juni</td><td>2022</td></tr>
 <tr><td>Polen</td><td>17. Dezember</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Portugal</td><td>25. September</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Rumänien</td><td>2. April</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
@@ -540,7 +544,7 @@ Geltungsbereich am 31. Juli 2020**[^t-2]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Der Vertrag gilt nicht für die Färöer und Grönland. <sup>b</sup> Der Vertrag gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 2015 595](https://fedlex.data.admin.ch/eli/oc/2015/93)[1291](https://fedlex.data.admin.ch/eli/oc/2015/266)[2733](https://fedlex.data.admin.ch/eli/oc/2015/514), [2016 423](https://fedlex.data.admin.ch/eli/oc/2016/68)[1747](https://fedlex.data.admin.ch/eli/oc/2016/315)[4189](https://fedlex.data.admin.ch/eli/oc/2016/701), [2018 2549](https://fedlex.data.admin.ch/eli/oc/2018/375), [2019 373](https://fedlex.data.admin.ch/eli/oc/2019/65)[3431](https://fedlex.data.admin.ch/eli/oc/2019/623), [2020 3521](https://fedlex.data.admin.ch/eli/oc/2020/620). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2015 595](https://fedlex.data.admin.ch/eli/oc/2015/93), [1291](https://fedlex.data.admin.ch/eli/oc/2015/266), [2733](https://fedlex.data.admin.ch/eli/oc/2015/514); [2016 423](https://fedlex.data.admin.ch/eli/oc/2016/68), [1747](https://fedlex.data.admin.ch/eli/oc/2016/315), [4189](https://fedlex.data.admin.ch/eli/oc/2016/701); [2018 2549](https://fedlex.data.admin.ch/eli/oc/2018/375); [2019 373](https://fedlex.data.admin.ch/eli/oc/2019/65), [3431](https://fedlex.data.admin.ch/eli/oc/2019/623); [2020 3521](https://fedlex.data.admin.ch/eli/oc/2020/620); [2023 321](https://fedlex.data.admin.ch/eli/oc/2023/321). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärungen der Schweiz
 
