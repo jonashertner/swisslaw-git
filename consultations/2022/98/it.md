@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale della legge sulla radioprotezione (LRaP)
 document: Progetto posto in consultazione
 language: it
