@@ -3,30 +3,22 @@ sr: "0.741.20"
 title: "Convenzione dell'8 novembre 1968 sulla segnaletica stradale (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/498_498_498"
 language: it
-version: 2020-06-02
+version: 2023-06-20
 adopted: 1968-11-08
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/fedlex-data-admin-ch-eli-cc-1993-498_498_498-20200602-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/498_498_498/20200602/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/fedlex-data-admin-ch-eli-cc-1993-498_498_498-20230620-it-xml-20.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/498_498_498/20230620/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione sulla segnaletica stradale****
+# Convenzione sulla segnaletica stradale
 
-RU **1993** 498; FF **1978** I 1356[^t-1]
+Traduzione[^t-1]
 
-Traduzione
+Conclusa a Vienna l’8 novembre 1968 Approvata dall’Assemblea federale il 15 dicembre 1978[^t-2] Strumento di ratifica depositato dalla Svizzera l’11 dicembre 1991
 
-Conclusa a Vienna l’8 novembre 1968
-
-Approvata dall’Assemblea federale il 15 dicembre 1978[^t-2]
-
-Strumento di ratifica depositato dalla Svizzera l’11 dicembre 1991
-
-Entrata in vigore per la Svizzera l’11 dicembre 1992
-
-(Stato 2 giugno 2020)
+(Stato 20 giugno 2023)
 
 [^t-1]: Vedi anche l’Acc. europeo del 1° mag. 1971 ([RS 0.741.201](https://fedlex.data.admin.ch/eli/cc/1993/604_604_604)) ed il Prot. del 1° mag. 1973 ([RS 0.741.201.2](https://fedlex.data.admin.ch/eli/cc/1993/626_626_626)).
 [^t-2]: Approvata dall’art. 1 cpv. 1 lett. b del DF del 15 dic. 1978 ([RU 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
@@ -270,7 +262,7 @@ Sotto tutti i segnali di pericolo che rechino uno dei simboli A, 5; A, 25; A, 26
 [^9-4]: Par. introdotto dal n. I dell’emendamento entrato in vigore il 30 nov. 1995 ([RU 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
 [^9-5]: Nuovo testo del per. giusta il n. I dell’emendamento entrato in vigore il 30 nov. 1995 ([RU 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
 
-### Segnali di prescrizione****
+### Segnali di prescrizione
 
 [^chapII-lvlu6-1]
 
@@ -288,15 +280,15 @@ Sotto tutti i segnali di pericolo che rechino uno dei simboli A, 5; A, 25; A, 26
 
 <sup>4.</sup> Il segnale B, 1 o il segnale B, 2 può essere posto anche quando le autorità competenti lo giudichino necessario.[^10-2]
 
-<sup>5.</sup> I segnali B 1 e B 2 saranno posti nell’immediata prossimità dell’intersezione, per quanto possibile in corrispondenza del punto in cui i veicoli debbono arrestarsi o che, per dare la precedenza, non debbono oltrepassare.
+<sup>5.</sup> I segnali B, 1 e B, 2 saranno posti nell’immediata prossimità dell’intersezione, per quanto possibile in corrispondenza del punto in cui i veicoli debbono arrestarsi o che, per dare la precedenza, non debbono oltrepassare.
 
 <sup>6.</sup> Il preavviso del segnale B, 1 è fatto con l’ausilio del medesimo segnale completato da un pannello aggiuntivo H, 1 descritto nell’allegato 1 sezione H della Convenzione.
 
-Il preavviso del segnale B, 2 è fatto con l’ausilio del segnale B, 1 completato da un pannello rettangolare che reca il simbolo ’STOP’ e un numero indicante a quale distanza è posto il segnale B, 2.[^10-3]
+Il preavviso del segnale B, 2 è fatto con l’ausilio del segnale B, 1 completato da un pannello rettangolare che reca il simbolo «STOP» e un numero indicante a quale distanza è posto il segnale B, 2.[^10-3]
 
-<sup>7.</sup> Il segnale B 3 «strada con diritto di precedenza» sarà impiegato per indicare agli utenti di una strada che alle intersezioni della stessa con altre strade, i conducenti dei veicoli che circolano, o che vengono da dette altre strade, hanno l’obbligo di dare la precedenza ai veicoli che circolano sulla strada in questione. Questo segnale potrà essere posto all’inizio della strada e ripetuto dopo ogni intersezione; esso può, inoltre, essere posto prima dell’intersezione oppure all’intersezione. Se il segnale B 3 è stato posto su una strada, il segnale B 4 «fine di strada con diritto di precedenza» sarà posto in prossimità del punto dove la strada cessa di beneficiare della precedenza rispetto alle altre strade. Il segnale B 4 potrà essere ripetuto una o più volte prima del punto in cui cessa la precedenza; il o i segnali posti prima di detto punto recheranno allora un pannello aggiuntivo H, 1 dell’allegato 1 sezione H.[^10-4]
+<sup>7.</sup> Il segnale B, 3 «strada con diritto di precedenza» sarà impiegato per indicare agli utenti di una strada che alle intersezioni della stessa con altre strade, i conducenti dei veicoli che circolano, o che vengono da dette altre strade, hanno l’obbligo di dare la precedenza ai veicoli che circolano sulla strada in questione. Questo segnale potrà essere posto all’inizio della strada e ripetuto dopo ogni intersezione; esso può, inoltre, essere posto prima dell’intersezione oppure all’intersezione. Se il segnale B, 3 è stato posto su una strada, il segnale B, 4 «fine di strada con diritto di precedenza» sarà posto in prossimità del punto dove la strada cessa di beneficiare della precedenza rispetto alle altre strade. Il segnale B, 4 potrà essere ripetuto una o più volte prima del punto in cui cessa la precedenza; il o i segnali posti prima di detto punto recheranno allora un pannello aggiuntivo H, 1 dell’allegato 1 sezione H.[^10-4]
 
-<sup>8.</sup> Se, su una strada, l’approssimarsi di un’intersezione è indicato da un segnale di pericolo recante uno dei simboli A, 19,[^10-5] oppure se la strada è, all’intersezione, una strada con diritto di precedenza che è stata segnalata come tale con dei segnali tipo B 3 in conformità alle disposizioni del paragrafo 7 del presente articolo, dovrà essere posto su tutte le altre strade all’intersezione un segnale B 1 oppure un segnale B 2; tuttavia l’installazione dei segnali B 1 o B 2 non è obbligatoria su strade quali i sentieri o strade di campagna, dove i conducenti che vi circolano devono, anche in assenza di questi segnali, dare la precedenza all’intersezione. Un segnale B 2 dovrà essere posto soltanto quando le autorità competenti ritengano utile obbligare i conducenti ad arrestarsi, segnatamente quando per questi conducenti hanno scarsa visibilità sui tratti di strada verso cui si approssimano, situati da un lato o dall’altro dell’intersezione.
+<sup>8.</sup> Se, su una strada, l’approssimarsi di un’intersezione è indicato da un segnale di pericolo recante uno dei simboli A, 19,[^10-5] oppure se la strada è, all’intersezione, una strada con diritto di precedenza che è stata segnalata come tale con dei segnali tipo B, 3 in conformità alle disposizioni del paragrafo 7 del presente articolo, dovrà essere posto su tutte le altre strade all’intersezione un segnale B, 1 oppure un segnale B, 2; tuttavia l’installazione dei segnali B, 1 o B, 2 non è obbligatoria su strade quali i sentieri o strade di campagna, dove i conducenti che vi circolano devono, anche in assenza di questi segnali, dare la precedenza all’intersezione. Un segnale B, 2 dovrà essere posto soltanto quando le autorità competenti ritengano utile obbligare i conducenti ad arrestarsi, segnatamente quando per questi conducenti hanno scarsa visibilità sui tratti di strada verso cui si approssimano, situati da un lato o dall’altro dell’intersezione.
 
 [^10-1]: Nuovo testo giusta il n. I dell’emendamento entrato in vigore il 30 nov. 1995 ([RU 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
 [^10-2]: Nuovo testo giusta il n. I dell’emendamento entrato in vigore il 30 nov. 1995 ([RU 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
@@ -347,7 +339,7 @@ La sezione D dell’allegato 1 della presente Convenzione descrive i segnali di 
 
 <sup>1.</sup> La sezione E dell’allegato I della presente Convenzione descrive i segnali di prescrizioni particolari e il loro significato.
 
-<sup>2.</sup> I segnali E, 7<sup>a</sup>; E, 7<sup>b</sup>; E 7<sup>c</sup> o E, 7<sup>d</sup> e E, 8<sup>a</sup>; E, 8<sup>b</sup>; E, 8<sup>c</sup> o E, 8<sup>d</sup> indicano agli utenti della strada che la regolamentazione generale della circolazione nei centri abitati sul territorio dello Stato è quella applicabile a partire dai segnali E, 7<sup>a</sup>; E, 7<sup>b</sup>; E 7<sup>c</sup> o E, 7<sup>d</sup> fino ai segnali E, 8<sup>a</sup>; E, 8<sup>b</sup>; E, 8<sup>c</sup> o E, 8<sup>d</sup>, salvo il caso in cui un’altra prescrizione sia resa nota da altri segnali su alcuni tratti di strada nel centro abitato. Tuttavia il segnale B, 4 dovrà sempre essere posto, purché la precedenza cessi all’attraversamento del centro abitato, sulle strade con diritto di precedenza segnalate con segnale B, 3. Le disposizioni dei paragrafi 2, 3 e 4 dell’articolo 14 si applicano a detti segnali.
+<sup>2.</sup> I segnali E, 7<sup>a</sup>; E, 7<sup>b</sup>; E 7<sup>c</sup> o E, 7<sup>d</sup> e E, 8<sup>a</sup>; E, 8<sup>b</sup>; E, 8<sup>c</sup> o E, 8<sup>d</sup> indicano agli utenti della strada che la regolamentazione generale della circolazione nei centri abitati sul territorio dello Stato è quella applicabile a partire dai segnali E, 7<sup>a</sup>; E, 7<sup>b</sup>; E, 7<sup>c</sup> o E, 7<sup>d</sup> fino ai segnali E, 8<sup>a</sup>; E, 8<sup>b</sup>; E, 8<sup>c</sup> o E, 8<sup>d</sup>, salvo il caso in cui un’altra prescrizione sia resa nota da altri segnali su alcuni tratti di strada nel centro abitato. Tuttavia il segnale B, 4 dovrà sempre essere posto, purché la precedenza cessi all’attraversamento del centro abitato, sulle strade con diritto di precedenza segnalate con segnale B, 3. Le disposizioni dei paragrafi 2, 3 e 4 dell’articolo 14 si applicano a detti segnali.
 
 2<sup>bis</sup>. Il segnale E, 11<sup>a</sup> deve essere utilizzato per le gallerie di 1000 m e più e nei casi previsti dalla legislazione nazionale. Per le gallerie di 1000 m e più, la lunghezza deve essere scritta o nella parte inferiore del segnale o su un pannello aggiuntivo H, 2 come descritto nell’allegato 1, sezione H. Il nome della galleria può essere indicato conformemente al paragrafo 3 dell’articolo 8 della presente Convenzione.[^13bis-2]
 
@@ -358,7 +350,7 @@ La sezione D dell’allegato 1 della presente Convenzione descrive i segnali di 
 [^13bis-1]: Introdotto dal n. I dell’emendamento entrato in vigore il 30 nov. 1995 ([RU 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
 [^13bis-2]: Introdotto dalla lett. A degli emendamenti entrati in vigore il 28 mar. 2007 ([RU 2007 3705](https://fedlex.data.admin.ch/eli/oc/2007/466)).
 
-### Segnali di indicazione****
+### Segnali di indicazione
 
 [^chapII-lvlu7-1]
 
@@ -421,11 +413,11 @@ I segnali di conferma sono destinati a confermare, quando le autorità competent
 
 **Prescrizioni comuni ai diversi segnali di indicazione**
 
-<sup>1.</sup> I segnali di indicazione previsti agli articoli da 15 a 19 della presente Convenzione sono posti dove le autorità competenti lo ritengano utile.[^21-1] Gli altri segnali di indicazione sono posti soltanto dove le autorità competenti lo ritengano indispensabile, tenuto conto delle prescrizioni del paragrafo 1 dell’articolo 6; in particolare, i segnali da F 2 a F 7 sono posti soltanto sulle strade in cui le possibilità di riparazione di un veicolo, di rifornimento di carburante, di alloggio e di ristoro sono rare.
+<sup>1.</sup> I segnali di indicazione previsti agli articoli da 15 a 19 della presente Convenzione sono posti dove le autorità competenti lo ritengano utile.[^21-1] Gli altri segnali di indicazione sono posti soltanto dove le autorità competenti lo ritengano indispensabile, tenuto conto delle prescrizioni del paragrafo 1 dell’articolo 6; in particolare, i segnali da F, 2 a F, 7 sono posti soltanto sulle strade in cui le possibilità di riparazione di un veicolo, di rifornimento di carburante, di alloggio e di ristoro sono rare.
 
 <sup>2.</sup> I segnali di indicazione possono essere ripetuti. Un pannello integrativo posto sotto il segnale può indicare la distanza tra il segnale ed il luogo così segnalato; detta distanza può egualmente figurare in basso sul segnale stesso.
 
-...[^21-2]
+…[^21-2]
 
 [^21-1]: Nuovo testo giusta il n. I dell’emendamento entrato in vigore il 30 nov. 1995 ([RU 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
 [^21-2]: Abrogato ([RU 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
@@ -442,9 +434,9 @@ I segnali di conferma sono destinati a confermare, quando le autorità competent
 
 **Segnali destinati a regolare la circolazione dei veicoli[^23-1]**
 
-<sup>1.</sup> Sotto riserva delle disposizioni del paragrafo 12 del presente articolo, le sole luci che possono essere impiegate come segnali luminosi che regolano il traffico
+<sup>1.</sup>
 
-dei veicoli, diverse da quelle che sono destinate esclusivamente ai veicoli per trasporto pubblico, sono le seguenti ed hanno il significato indicato di seguito:
+Sotto riserva delle disposizioni del paragrafo 12 del presente articolo, le sole luci che possono essere impiegate come segnali luminosi che regolano il traffico dei veicoli, diverse da quelle che sono destinate esclusivamente ai veicoli per trasporto pubblico, sono le seguenti ed hanno il significato indicato di seguito:
 
 - a)
 
@@ -465,7 +457,7 @@ dei veicoli, diverse da quelle che sono destinate esclusivamente ai veicoli per 
 
 <sup>3.</sup> I segnali del sistema bicolore si compongono di una luce rossa e di una verde, non lampeggianti. La luce rossa e la luce verde non debbono accendersi simultaneamente. I segnali del sistema bicolore saranno utilizzati soltanto nelle installazioni provvisorie, fatta riserva del termine previsto al paragrafo 3 dell’articolo 3 della presente Convenzione, per la sostituzione delle installazioni esistenti.
 
-3.<sup>bis</sup> [^23-2]
+3.<sup>bis</sup>[^23-2]
 
 - a) Le disposizioni dei paragrafi 1, 2 e 3 dell’articolo 6 della Convenzione, relative ai segnali stradali, sono applicabili ai segnali stradali luminosi, eccettuati quelli impiegati ai passaggi a livello.
 - b) I segnali stradali luminosi alle intersezioni sono posti innanzi all’intersezione o al centro e sopra quest’ultima; possono essere ripetuti dell’altro lato dell’intersezione e/o all’altezza degli occhi del conducente.
@@ -492,7 +484,7 @@ dei veicoli, diverse da quelle che sono destinate esclusivamente ai veicoli per 
 <sup>10.</sup> Quando un segnale del sistema tricolore comporta una o più luci verdi supplementari che presentano una o più frecce, l’accensione di detta o di dette frecce supplementari indica, qualunque sia in quel momento la fase in atto del sistema tricolore, che i veicoli sono autorizzati a proseguire la marcia nella direzione o nelle direzioni indicate dalla o dalle frecce; essa indica anche che, quando i veicoli si trovano su una corsia riservata alla circolazione nella direzione che è indicata dalla freccia o la direzione che detta circolazione deve prendere, i conducenti devono, con la riserva di lasciar passare i veicoli della corrente di circolazione nella quale si immettono e con la riserva di non mettere in pericolo i pedoni, procedere nella direzione indicata in quanto la loro immobilità bloccherebbe la circolazione dei veicoli che si trovano dietro di essi sulla stessa corsia. Dette luci verdi supplementari debbono essere poste preferibilmente sullo stesso livello della luce verde normale.
 
 - 11\. a) Quando sopra le corsie, delimitate da strisce longitudinali, di una carreggiata a più di due corsie sono poste delle luci verdi o rosse, la luce rossa indica il divieto di immettersi nella corsia sopra la quale è posta e la luce verde indica l’autorizzazione a percorrerla. La luce rossa così posta deve avere la forma di due barre incrociate e la luce verde la forma di una freccia la cui punta è orientata verso il basso.
-- b) Se le autorità competenti ritengono necessario di introdurre un segnale «intermedio» o di «transizione» per i segnali luminosi, questo segnale deve avere la forma di una freccia di colore giallo –auto o bianco la cui punta sia diretta diagonalmente verso il basso, verso sinistra o verso destra, oppure di due frecce simili inclinate rispettivamente in un senso e nell’altro; queste frecce possono essere lampeggianti. Le frecce di colore giallo – auto o bianco significano che la corsia diverrà a un certo punto chiusa alla circolazione e che gli utenti dovranno spostarsi sulla corsia indicata dalla freccia.[^23-4]
+- b) Se le autorità competenti ritengono necessario di introdurre un segnale «intermedio» o di «transizione» per i segnali luminosi, questo segnale deve avere la forma di una freccia di colore giallo – auto o bianco la cui punta sia diretta diagonalmente verso il basso, verso sinistra o verso destra, oppure di due frecce simili inclinate rispettivamente in un senso e nell’altro; queste frecce possono essere lampeggianti. Le frecce di colore giallo – auto o bianco significano che la corsia diverrà a un certo punto chiusa alla circolazione e che gli utenti dovranno spostarsi sulla corsia indicata dalla freccia.[^23-4]
 
 <sup>12.</sup> La legislazione nazionale potrà prevedere l’installazione in alcuni passaggi a livello di una luce bianco-lunare lampeggiante a lenta cadenza che indichi l’autorizzazione a procedere.
 
@@ -561,7 +553,7 @@ I segni sulla carreggiata (segnaletica orizzontale) sono impiegati, quando l’a
 
 <sup>1.</sup> La demarcazione delle corsie riservate a talune categorie di veicoli, comprese le corsie per velocipedi, è realizzata mediante strisce che si distinguono chiaramente dalle altre strisce continue o discontinue poste sulla carreggiata, segnatamente per la loro maggiore larghezza e per gli intervalli più ridotti dei segmenti.[^26bis-2]
 
-<sup>2.</sup> Se una corsia è riservata ai veicoli dei servizi regolari di trasporto in comune, l’iscrizione è la parola ’BUS’ o la lettera ’A’. Il segnale previsto è di tipo rettangolare secondo l’allegato 1 sezione E oppure di tipo rotondo secondo l’allegato 1 sezione D della presente Convenzione e mostra la sagoma bianca di un autobus su fondo blu. I diagrammi A, 58<sup>a</sup> e 58<sup>b</sup> (vedi allegato 2 della presente Convenzione) sono illustrazioni della demarcazione della corsia riservata ai veicoli dei servizi regolari di trasporto in comune.
+<sup>2.</sup> Se una corsia è riservata ai veicoli dei servizi regolari di trasporto in comune, l’iscrizione è la parola «BUS» o la lettera «A». Il segnale previsto è di tipo rettangolare secondo l’allegato 1 sezione E oppure di tipo rotondo secondo l’allegato 1 sezione D della presente Convenzione e mostra la sagoma bianca di un autobus su fondo blu. I diagrammi A, 58<sup>a</sup> e 58<sup>b</sup> (vedi allegato 2 della presente Convenzione) sono illustrazioni della demarcazione della corsia riservata ai veicoli dei servizi regolari di trasporto in comune.
 
 <sup>3.</sup> La legislazione nazionale deve precisare le condizioni per cui altri veicoli possono utilizzare la corsia di cui al paragrafo 1.
 
@@ -570,11 +562,11 @@ I segni sulla carreggiata (segnaletica orizzontale) sono impiegati, quando l’a
 
 #### Art. 27
 
-<sup>1.</sup> Un segno trasversale consistente in una striscia continua apposta lungo la larghezza di una o più corsie[^27-1] indica la striscia di arresto imposta dal segnale B 2 «arresto» previsto al paragrafo 3 dell’articolo 10 della presente Convenzione. Un tale segno può essere anche impiegato per indicare la striscia di arresto eventualmente imposta da un segnale luminoso, da un segnale dato dall’agente che dirige il traffico o prima di un passaggio a livello. Davanti ai segni che accompagnano il segnale B 2 può essere apposta sulla carreggiata la scritta «STOP».
+<sup>1.</sup> Un segno trasversale consistente in una striscia continua apposta lungo la larghezza di una o più corsie[^27-1] indica la striscia di arresto imposta dal segnale B, 2 «arresto» previsto al paragrafo 3 dell’articolo 10 della presente Convenzione. Un tale segno può essere anche impiegato per indicare la striscia di arresto eventualmente imposta da un segnale luminoso, da un segnale dato dall’agente che dirige il traffico o prima di un passaggio a livello. Davanti ai segni che accompagnano il segnale B, 2 può essere apposta sulla carreggiata la scritta «STOP».
 
-<sup>2.</sup> A meno che non sia tecnicamente impossibile, il segno trasversale descritto al paragrafo 1 del presente articolo sarà apposto ogni volta che viene posto il segnale B 2.
+<sup>2.</sup> A meno che non sia tecnicamente impossibile, il segno trasversale descritto al paragrafo 1 del presente articolo sarà apposto ogni volta che viene posto il segnale B, 2.
 
-<sup>3.</sup> Un segno trasversale consistente in una striscia discontinua, apposta lungo la larghezza di una o più corsie,[^27-2] indica la striscia che i veicoli non devono normalmente oltrepassare quando debbono dare la precedenza in virtù del segnale B 1 «Dare la precedenza» previsto al paragrafo 2 dell’articolo 10 della presente Convenzione. Prima di detto segno, può essere disegnato sulla carreggiata, per simboleggiare il segnale B 1, un triangolo con largo bordo, di cui un lato è parallelo al segno ed il cui vertice opposto è orientato verso i veicoli che si avvicinano.
+<sup>3.</sup> Un segno trasversale consistente in una striscia discontinua, apposta lungo la larghezza di una o più corsie,[^27-2] indica la striscia che i veicoli non devono normalmente oltrepassare quando debbono dare la precedenza in virtù del segnale B, 1 «Dare la precedenza» previsto al paragrafo 2 dell’articolo 10 della presente Convenzione. Prima di detto segno, può essere disegnato sulla carreggiata, per simboleggiare il segnale B, 1, un triangolo con largo bordo, di cui un lato è parallelo al segno ed il cui vertice opposto è orientato verso i veicoli che si avvicinano.
 
 <sup>4.</sup> Per segnalare i passaggi previsti per l’attraversamento della carreggiata da parte dei pedoni, saranno apposte di preferenza delle strisce larghe, parallele all’asse della carreggiata.
 
@@ -608,7 +600,7 @@ Si raccomanda che questi segni, soprattutto nelle zone dove l’illuminazione è
 [^29-subdivu1-1]: Nuovo testo giusta la lett. A degli emendamenti entrati in vigore il 28 mar. 2007 ([RU 2007 3705](https://fedlex.data.admin.ch/eli/oc/2007/466)).
 [^29-subdivu1-2]: Nuovo testo giusta la lett. A degli emendamenti entrati in vigore il 28 mar. 2007 ([RU 2007 3705](https://fedlex.data.admin.ch/eli/oc/2007/466)).
 
-### **Art. 29**<sup>bis</sup> **
+### **Art. 29**<sup>bis</sup>
 
 [^29-subdivu2-1]
 
@@ -664,7 +656,7 @@ Ogni Parte contraente adotterà su tutto il proprio territorio lo stesso colore 
 
 <sup>2.</sup> I segnali luminosi saranno installati sul bordo della carreggiata corrispondente al senso di marcia; quando le circostanze lo esigano, per esempio le condizioni di visibilità dei segnali o l’intensità del traffico, i segnali saranno ripetuti dall’altro lato della strada. Tuttavia, se le condizioni locali lo fanno ritenere opportuno, le luci potranno essere ripetute su una piattaforma al centro della carreggiata, oppure poste sopra la carreggiata.
 
-<sup>3.</sup> In conformità del paragrafo 4 dell’articolo 10 della presente Convenzione, il segnale B 2 «arresto all’incrocio» può essere posto ad un passaggio a livello senza barriere, né semibarriere, né segnalazione luminosa che avverta l’approssimarsi dei treni; ai passaggi a livello muniti di detto segnale, i conducenti devono fermarsi in corrispondenza della striscia di arresto, oppure, in mancanza di quest’ultima, in corrispondenza del segnale, e ripartire soltanto dopo essersi assicurati che nessun treno si stia avvicinando.
+<sup>3.</sup> In conformità del paragrafo 4 dell’articolo 10 della presente Convenzione, il segnale B, 2 «arresto all’incrocio» può essere posto ad un passaggio a livello senza barriere, né semibarriere, né segnalazione luminosa che avverta l’approssimarsi dei treni; ai passaggi a livello muniti di detto segnale, i conducenti devono fermarsi in corrispondenza della striscia di arresto, oppure, in mancanza di quest’ultima, in corrispondenza del segnale, e ripartire soltanto dopo essersi assicurati che nessun treno si stia avvicinando.
 
 #### Art. 34
 
@@ -683,7 +675,7 @@ A tutti i passaggi a livello senza barriere né semibarriere è posto nelle imme
 - a) negli incroci di strade con linee ferroviarie dove la circolazione ferroviaria è molto lenta e la circolazione stradale è regolata da un ferroviere che faccia i segnali manuali necessari;
 - b) negli incroci di linee ferroviarie con strade di campagna dove la circolazione è scarsa oppure con sentieri pedonali.
 
-<sup>3.</sup> ...[^35-2]
+<sup>3.</sup> …[^35-2]
 
 [^35-1]: Nuovo testo giusta il n. I dell’emendamento entrato in vigore il 30 nov. 1995 ([RU 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
 [^35-2]: Abrogato ([RU 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
@@ -827,7 +819,7 @@ L’originale della presente Convenzione, fatta in un solo esemplare, in lingua 
 
 *In fede di che,* i sottoscritti plenipotenziari debitamente autorizzati dai loro rispettivi Governi, hanno firmato la presente Convenzione. Fatta a Vienna l’8 novembre dell’anno millenovecentosessantotto. (Seguono le firme)
 
-Allegato 1*[^t-3]* *[^t-4]*
+Allegato 1[^t-3] [^t-4]
 
 ## Segnali stradali
 
@@ -857,15 +849,13 @@ Per indicare una curva pericolosa o una serie di curve pericolose, è impiegato,
 
 ### 2. Discesa pericolosa
 
-a) Per indicare una discesa con forte pendenza è impiegato con il segnale del modello A<sup>a</sup>, il simbolo A, 2<sup>a</sup>, e con il segnale del modello A<sup>b</sup>, il simbolo A, 2<sup>b</sup>.
-
-b) La parte sinistra del simbolo A, 2<sup>a</sup> occupa l’angolo sinistro del pannello del segnale e la sua base abbraccia tutta la larghezza del pannello. Nei simboli A, 2<sup>a</sup> e A, 2<sup>b</sup>, la cifra indica la pendenza in percentuale; questa indicazione può essere sostituita con quella di un rapporto (1:10). Tuttavia le Parti contraenti possono scegliere, invece dei simboli A, 2<sup>a</sup> oppure A, 2<sup>b</sup> – tenendo conto, per quanto possibile, delle disposizioni del paragrafo 2 b) dell’articolo 5 della Convenzione –se hanno adottato il modello del segnale A<sup>a</sup>, il simbolo A, 2<sup>c</sup> e, se hanno adottato il modello A<sup>b</sup>, il simbolo A, 2<sup>d</sup>.
+- a) Per indicare una discesa con forte pendenza è impiegato con il segnale del modello A<sup>a</sup>, il simbolo A, 2<sup>a</sup>, e con il segnale del modello A<sup>b</sup>, il simbolo A, 2<sup>b</sup>.
+- b) La parte sinistra del simbolo A, 2<sup>a</sup> occupa l’angolo sinistro del pannello del segnale e la sua base abbraccia tutta la larghezza del pannello. Nei simboli A, 2<sup>a</sup> e A, 2<sup>b</sup>, la cifra indica la pendenza in percentuale; questa indicazione può essere sostituita con quella di un rapporto (1:10). Tuttavia le Parti contraenti possono scegliere, invece dei simboli A, 2<sup>a</sup> oppure A, 2<sup>b</sup> – tenendo conto, per quanto possibile, delle disposizioni del paragrafo 2 b) dell’articolo 5 della Convenzione –se hanno adottato il modello del segnale A<sup>a</sup>, il simbolo A, 2<sup>c</sup> e, se hanno adottato il modello A<sup>b</sup>, il simbolo A, 2<sup>d</sup>.
 
 ### 3. Salita a forte pendenza
 
-a) Per segnalare una salita a forte pendenza è impiegato, con il modello del segnale A<sup>a</sup>, il simbolo A, 3<sup>a</sup> e, con il modello A<sup>b</sup>, il simbolo A, 3<sup>b</sup>.
-
-b) La parte destra del simbolo A, 3<sup>a</sup> occupa l’angolo destro del pannello del segnale e la sua base abbraccia tutta la larghezza di detto pannello. Nei simboli A, 3<sup>a</sup> e A, 3<sup>b</sup>, la cifra indica la pendenza in percentuale; questa indicazione può essere sostituita con quella di un rapporto (1:10). Tuttavia, le Parti contraenti che hanno scelto il simbolo A, 2<sup>c</sup> come simbolo di discesa pericolosa possono, invece del simbolo A, 3<sup>a</sup>, scegliere il simbolo A, 3<sup>c</sup> e le Parti contraenti che hanno scelto il simbolo A, 2<sup>d</sup> possono, invece del simbolo A 3<sup>b</sup>, scegliere il simbolo A, 3<sup>d</sup>.
+- a) Per segnalare una salita a forte pendenza è impiegato, con il modello del segnale A<sup>a</sup>, il simbolo A, 3<sup>a</sup> e, con il modello A<sup>b</sup>, il simbolo A, 3<sup>b</sup>.
+- b) La parte destra del simbolo A, 3<sup>a</sup> occupa l’angolo destro del pannello del segnale e la sua base abbraccia tutta la larghezza di detto pannello. Nei simboli A, 3<sup>a</sup> e A, 3<sup>b</sup>, la cifra indica la pendenza in percentuale; questa indicazione può essere sostituita con quella di un rapporto (1:10). Tuttavia, le Parti contraenti che hanno scelto il simbolo A, 2<sup>c</sup> come simbolo di discesa pericolosa possono, invece del simbolo A, 3<sup>a</sup>, scegliere il simbolo A, 3<sup>c</sup> e le Parti contraenti che hanno scelto il simbolo A, 2<sup>d</sup> possono, invece del simbolo A, 3<sup>b</sup>, scegliere il simbolo A, 3<sup>d</sup>.
 
 ### 4. Strettoia
 
@@ -873,9 +863,8 @@ Per segnalare un restringimento della carreggiata è impiegato il simbolo A, 4<s
 
 ### 5. Ponte mobile
 
-a) Per segnalare un ponte mobile è impiegato il simbolo A, 5.
-
-b) Sotto il segnale di avvertimento recante il simbolo A, 5, può essere posto un pannello rettangolare del modello A 29<sup>a</sup> descritto nel paragrafo 29 seguente; sono quindi posti, approssimativamente ad un terzo ed a due terzi della distanza tra il segnale recante il simbolo A, 5 ed il ponte mobile, pannelli conformi ai modelli A, 29<sup>b</sup> e A, 29<sup>c</sup> descritti nel suddetto paragrafo.
+- a) Per segnalare un ponte mobile è impiegato il simbolo A, 5.
+- b) Sotto il segnale di avvertimento recante il simbolo A, 5, può essere posto un pannello rettangolare del modello A, 29<sup>a</sup> descritto nel paragrafo 29 seguente; sono quindi posti, approssimativamente ad un terzo ed a due terzi della distanza tra il segnale recante il simbolo A, 5 ed il ponte mobile, pannelli conformi ai modelli A, 29<sup>b</sup> e A, 29<sup>c</sup> descritti nel suddetto paragrafo.
 
 ### 6. Sbocco su una banchina o su un argine
 
@@ -883,17 +872,14 @@ Per segnalare che una strada sbocca su una banchina o su un argine, è impiegato
 
 ### 7. Profilo irregolare
 
-a) Per segnalare una cunetta, un ponte a dosso d’asino o un dosso oppure un tratto in cui la carreggiata è in cattivo stato è impiegato il simbolo A, 7<sup>a</sup>.
-
-b) Per segnalare un ponte a dosso d’asino o un dosso, il simbolo A, 7<sup>a</sup> può essere sostituito con il simbolo A, 7<sup>b</sup>.
-
-c) Per segnalare una cunetta, il simbolo A, 7<sup>a</sup> può essere sostituito con il simbolo A, 7<sup>c</sup>.
+- a) Per segnalare una cunetta, un ponte a dosso d’asino o un dosso oppure un tratto in cui la carreggiata è in cattivo stato è impiegato il simbolo A, 7<sup>a</sup>.
+- b) Per segnalare un ponte a dosso d’asino o un dosso, il simbolo A, 7<sup>a</sup> può essere sostituito con il simbolo A, 7<sup>b</sup>.
+- c) Per segnalare una cunetta, il simbolo A, 7<sup>a</sup> può essere sostituito con il simbolo A, 7<sup>c</sup>.
 
 ### 8. Banchine pericolose
 
-a) Per segnalare un tratto di strada in cui le banchine sono particolarmente pericolose è impiegato il simbolo A, 8.
-
-b) Il simbolo può essere invertito.
+- a) Per segnalare un tratto di strada in cui le banchine sono particolarmente pericolose è impiegato il simbolo A, 8.
+- b) Il simbolo può essere invertito.
 
 ### 9. Carreggiata sdrucciolevole
 
@@ -905,35 +891,29 @@ Per segnalare un tratto di strada dove della ghiaia potrebbe essere proiettata, 
 
 ### 11. Caduta di massi
 
-a) Per segnalare un tratto di strada dove esiste il pericolo di cadute di massi e la conseguente presenza di pietre sulla strada è impiegato, con il segnale del modello A<sup>a</sup>, il simbolo A, 11<sup>a</sup>, e con il segnale del modello A<sup>b</sup>, il simbolo A, 11<sup>b</sup>.
-
-b) In entrambi i casi, la parte destra del simbolo occupa l’angolo destro del pannello di segnalazione.
-
-c) Il simbolo può essere invertito.
+- a) Per segnalare un tratto di strada dove esiste il pericolo di cadute di massi e la conseguente presenza di pietre sulla strada è impiegato, con il segnale del modello A<sup>a</sup>, il simbolo A, 11<sup>a</sup>, e con il segnale del modello A<sup>b</sup>, il simbolo A, 11<sup>b</sup>.
+- b) In entrambi i casi, la parte destra del simbolo occupa l’angolo destro del pannello di segnalazione.
+- c) Il simbolo può essere invertito.
 
 ### 12. Passaggio pedonale
 
-a) Per segnalare un passaggio pedonale indicato sia mediante segni sulla carreggiata, sia mediante i segnali E, 12, è impiegato il simbolo A, 12, del quale esistono due modelli: A, 12<sup>a</sup> e A, 12<sup>b</sup>.
-
-b) Il simbolo può essere invertito.
+- a) Per segnalare un passaggio pedonale indicato sia mediante segni sulla carreggiata, sia mediante i segnali E, 12, è impiegato il simbolo A, 12, del quale esistono due modelli: A, 12<sup>a</sup> e A, 12<sup>b</sup>.
+- b) Il simbolo può essere invertito.
 
 ### 13. Bambini
 
-a) Per segnalare un luogo frequentato da bambini, quale l’uscita di una scuola o di un parco giochi, è impiegato il simbolo A, 13.
-
-b) Il simbolo può essere invertito.
+- a) Per segnalare un luogo frequentato da bambini, quale l’uscita di una scuola o di un parco giochi, è impiegato il simbolo A, 13.
+- b) Il simbolo può essere invertito.
 
 ### 14. Sbocco di ciclisti
 
-a) Per segnalare un luogo dal quale spesso ciclisti sboccano sulla strada o la traversano, è impiegato il simbolo A 14.
-
-b) Il simbolo può essere invertito.
+- a) Per segnalare un luogo dal quale spesso ciclisti sboccano sulla strada o la traversano, è impiegato il simbolo A, 14.
+- b) Il simbolo può essere invertito.
 
 ### 15. Passaggio di bestiame e di altri animali
 
-Per segnalare un tratto di strada dove esiste un pericolo particolare di attraversamento della strada da parte di animali, è impiegato il simbolo che rappresenti la sagoma di un animale della specie, domestico o selvatico, che si può maggiormente incontrare, quale: il simbolo A, 15<sup>a</sup> per animali domestici ed il simbolo A, 15<sup>b</sup> per animali selvatici.
-
-b) Il simbolo può essere invertito.
+- a) Per segnalare un tratto di strada dove esiste un pericolo particolare di attraversamento della strada da parte di animali, è impiegato il simbolo che rappresenti la sagoma di un animale della specie, domestico o selvatico, che si può maggiormente incontrare, quale: il simbolo A, 15<sup>a</sup> per animali domestici ed il simbolo A, 15<sup>b</sup> per animali selvatici.
+- b) Il simbolo può essere invertito.
 
 ### 16. Lavori in corso
 
@@ -941,31 +921,25 @@ Per segnalare un tratto di strada nel quale sono in corso lavori è impiegato il
 
 ### 17. Segnalazione luminosa
 
-a) Se viene ritenuto indispensabile segnalare un passaggio dove la circolazione è regolata mediante segnalazione semaforica, poiché gli utenti della strada non possono aspettarsi di trovare un simile passaggio, è impiegato il simbolo A, 17. Vi sono tre modelli del simbolo A, 17, A 17<sup>a</sup>, A 17<sup>b</sup>, A 17<sup>c</sup>, i quali corrispondono alla disposizione delle luci del gruppo semaforico tricolore descritto ai paragrafi da 4 a 6 dell’articolo 23 della Convenzione.
-
-b) Questo simbolo è a tre colori, quelli delle luci del gruppo semaforico di cui segnala l’approssimarsi.
+- a) Se viene ritenuto indispensabile segnalare un passaggio dove la circolazione è regolata mediante segnalazione semaforica, poiché gli utenti della strada non possono aspettarsi di trovare un simile passaggio, è impiegato il simbolo A, 17. Vi sono tre modelli del simbolo A, 17, A, 17<sup>a</sup>, A, 17<sup>b</sup>, A, 17<sup>c</sup>, i quali corrispondono alla disposizione delle luci del gruppo semaforico tricolore descritto ai paragrafi da 4 a 6 dell’articolo 23 della Convenzione.
+- b) Questo simbolo è a tre colori, quelli delle luci del gruppo semaforico di cui segnala l’approssimarsi.
 
 ### 18. Intersezione in cui la precedenza è quella stabilita dalla regola generale di precedenza
 
-a) Per segnalare un’intersezione in cui la precedenza è quella stabilita dalla regola generale di precedenza in vigore nel Paese è utilizzato, con il segnale del modello A<sup>a</sup>, il simbolo A, 18<sup>a</sup> e con il segnale del modello A<sup>b</sup> il simbolo A, 18<sup>b</sup>.
-
-b) I simboli A, 18<sup>a</sup> e A, 18<sup>b</sup> possono essere sostituiti da simboli indicanti più chiaramente la natura dell’intersezione, quali A, 18<sup>c</sup>; A, 18<sup>d</sup>; A, 18<sup>e</sup>; A, 18<sup>f</sup> e A, 18<sup>g</sup>.
+- a) Per segnalare un’intersezione in cui la precedenza è quella stabilita dalla regola generale di precedenza in vigore nel Paese è utilizzato, con il segnale del modello A<sup>a</sup>, il simbolo A, 18<sup>a</sup> e con il segnale del modello A<sup>b</sup> il simbolo A, 18<sup>b</sup>.
+- b) I simboli A, 18<sup>a</sup> e A, 18<sup>b</sup> possono essere sostituiti da simboli indicanti più chiaramente la natura dell’intersezione, quali A, 18<sup>c</sup>; A, 18<sup>d</sup>; A, 18<sup>e</sup>; A, 18<sup>f</sup> e A, 18<sup>g</sup>.
 
 ### 19. Intersezione con una strada i cui utenti devono dare la precedenza
 
-a) Per segnalare un’intersezione con una strada i cui utenti devono cedere la precedenza è utilizzato il simbolo A, 19<sup>a</sup>.
-
-b) Il simbolo A, 19<sup>a</sup> può essere sostituito dai simboli che indichino più chiaramente la natura dell’intersezione, quali: A, 19<sup>b</sup> e A, 19<sup>c</sup>.
-
-c) Questi simboli possono essere impiegati su una strada soltanto se è posto, sulla strada o sulle strade con le quali essa forma l’intersezione preavvisata, il segnale B, 1 o il segnale B, 2 o se queste strade sono tali (p. es. sentieri o strade di campagna) per cui in virtù della legislazione nazionale i conducenti che le percorrono debbono, anche in assenza di detti segnali, dare la precedenza all’intersezione. L’impiego di questi simboli sulla strada dove è posto il segnale B, 3 è limitato a taluni casi eccezionali.
+- a) Per segnalare un’intersezione con una strada i cui utenti devono cedere la precedenza è utilizzato il simbolo A, 19<sup>a</sup>.
+- b) Il simbolo A, 19<sup>a</sup> può essere sostituito dai simboli che indichino più chiaramente la natura dell’intersezione, quali: A, 19<sup>b</sup> e A, 19<sup>c</sup>.
+- c) Questi simboli possono essere impiegati su una strada soltanto se è posto, sulla strada o sulle strade con le quali essa forma l’intersezione preavvisata, il segnale B, 1 o il segnale B, 2 o se queste strade sono tali (p. es. sentieri o strade di campagna) per cui in virtù della legislazione nazionale i conducenti che le percorrono debbono, anche in assenza di detti segnali, dare la precedenza all’intersezione. L’impiego di questi simboli sulla strada dove è posto il segnale B, 3 è limitato a taluni casi eccezionali.
 
 ### 20. Intersezione con una strada ai cui utenti deve essere data la precedenza
 
-a) Se all’intersezione è posto il segnale B, 1 «Dare la precedenza», ai bordi è impiegato il simbolo A, 20.
-
-b) Se all’intersezione è posto il segnale B, 2 «Arresto all’incrocio», ai bordi è impiegato quello dei due simboli A, 21<sup>a</sup> e A, 21<sup>b</sup> che meglio corrisponde al modello del segnale B, 2.
-
-c) Tuttavia, invece di impiegare il segnale A<sup>a</sup> con detti simboli può essere impiegato il segnale B, 1 o il segnale B, 2 conformemente al paragrafo 6 dell’articolo 10 della Convenzione.
+- a) Se all’intersezione è posto il segnale B, 1 «Dare la precedenza», ai bordi è impiegato il simbolo A, 20.
+- b) Se all’intersezione è posto il segnale B, 2 «Arresto all’incrocio», ai bordi è impiegato quello dei due simboli A, 21<sup>a</sup> e A, 21<sup>b</sup> che meglio corrisponde al modello del segnale B, 2.
+- c) Tuttavia, invece di impiegare il segnale A<sup>a</sup> con detti simboli può essere impiegato il segnale B, 1 o il segnale B, 2 conformemente al paragrafo 6 dell’articolo 10 della Convenzione.
 
 ### 21. Intersezione a senso rotatorio
 
@@ -977,15 +951,13 @@ Nel caso in cui la circolazione all’intersezione è regolata da semafori, in s
 
 ### 23. Circolazione nei due sensi
 
-a) Per segnalare un tratto di strada dove la circolazione si svolge, provvisoriamente o permanentemente, nei due sensi e sulla stessa carreggiata allorché nel tratto di strada precedente la circolazione si svolgeva a senso unico o su una strada con più carreggiate riservate per la circolazione a senso unico, è impiegato il simbolo A, 23.
-
-b) Il segnale che reca questo simbolo è ripetuto all’inizio del tratto di strada e lungo la strada, quanto è necessario.
+- a) Per segnalare un tratto di strada dove la circolazione si svolge, provvisoriamente o permanentemente, nei due sensi e sulla stessa carreggiata allorché nel tratto di strada precedente la circolazione si svolgeva a senso unico o su una strada con più carreggiate riservate per la circolazione a senso unico, è impiegato il simbolo A, 23.
+- b) Il segnale che reca questo simbolo è ripetuto all’inizio del tratto di strada e lungo la strada, quanto è necessario.
 
 ### 24. Ingorghi
 
-a) Per segnalare un tratto di strada in cui la circolazione può essere intralciata da ingorghi è impiegato il simbolo A, 24.
-
-b) Questo simbolo può essere invertito.
+- a) Per segnalare un tratto di strada in cui la circolazione può essere intralciata da ingorghi è impiegato il simbolo A, 24.
+- b) Questo simbolo può essere invertito.
 
 ### 25. Passaggi a livello muniti di barriere
 
@@ -999,41 +971,34 @@ Per segnalare gli altri passaggi a livello è impiegato il simbolo A, 26<sup>a</
 
 Per segnalare un incrocio con una linea tranviaria, a condizione che non si tratti di un passaggio a livello ai sensi della definizione data nell’articolo 1 della Convenzione, può essere impiegato il simbolo A, 27.
 
-*Nota* –Se si ritiene necessario segnalare l’incrocio di strade con linee ferroviarie dove contemporaneamente la circolazione ferroviaria è molto lenta e la circolazione stradale è regolata da un ferroviere che faccia i segnali manuali necessari è impiegato il segnale A, 32 descritto nel paragrafo 32 sottostante.
+*Nota* – Se si ritiene necessario segnalare l’incrocio di strade con linee ferroviarie dove contemporaneamente la circolazione ferroviaria è molto lenta e la circolazione stradale è regolata da un ferroviere che faccia i segnali manuali necessari è impiegato il segnale A, 32 descritto nel paragrafo 32 sottostante.
 
 ### 28. Segnali da porre nelle immediate vicinanze dei passaggi a livello
 
-a) Vi sono tre modelli del segnale A, 28 previsto nel paragrafo 2 dell’articolo 35 della Convenzione: A, 28<sup>a</sup>; A, 28<sup>b</sup> e A, 28<sup>c</sup>.
-
-b) I modelli A, 28<sup>a</sup> e A, 28<sup>b</sup> sono a fondo bianco o giallo con bordo rosso o nero; il modello A, 28<sup>c</sup> è a fondo bianco o giallo con bordo nero; l’iscrizione del modello A, 28<sup>c</sup> è in lettere nere. Il modello A, 28<sup>b</sup> deve essere impiegato soltanto se la linea ha almeno due binari; nel modello A, 28<sup>c</sup> il pannello aggiuntivo deve essere apposto soltanto se la linea comporta almeno due binari, nel qual caso indica il numero dei binari.
-
-c) La lunghezza normale dei bracci della croce è di almeno 1,20 m. In mancanza di spazio sufficiente, il segnale può essere presentato con le punte orientate verso l’alto e verso il basso.
+- a) Vi sono tre modelli del segnale A, 28 previsto nel paragrafo 2 dell’articolo 35 della Convenzione: A, 28<sup>a</sup>; A, 28<sup>b</sup> e A, 28<sup>c</sup>.
+- b) I modelli A, 28<sup>a</sup> e A, 28<sup>b</sup> sono a fondo bianco o giallo con bordo rosso o nero; il modello A, 28<sup>c</sup> è a fondo bianco o giallo con bordo nero; l’iscrizione del modello A, 28<sup>c</sup> è in lettere nere. Il modello A, 28<sup>b</sup> deve essere impiegato soltanto se la linea ha almeno due binari; nel modello A, 28<sup>c</sup> il pannello aggiuntivo deve essere apposto soltanto se la linea comporta almeno due binari, nel qual caso indica il numero dei binari.
+- c) La lunghezza normale dei bracci della croce è di almeno 1,20 m. In mancanza di spazio sufficiente, il segnale può essere presentato con le punte orientate verso l’alto e verso il basso.
 
 ### 29. Segnali supplementari ai bordi di passaggi a livello o ponti mobili
 
-a) I pannelli menzionati nel paragrafo 5 dell’articolo 9 della Convenzione sono i segnali A, 29<sup>a</sup>, A, 29<sup>b</sup> e A, 29<sup>c</sup>. L’inclinazione delle barre è orientata verso la carreggiata.
-
-b) Sopra i segnali A, 29<sup>b</sup> e A, 29<sup>c</sup> può essere apposto, nello stesso modo del segnale A 29<sup>a</sup>, il segnale di pericolo del passaggio a livello o del ponte mobile.
+- a) I pannelli menzionati nel paragrafo 5 dell’articolo 9 della Convenzione sono i segnali A, 29<sup>a</sup>, A, 29<sup>b</sup> e A, 29<sup>c</sup>. L’inclinazione delle barre è orientata verso la carreggiata.
+- b) Sopra i segnali A, 29<sup>b</sup> e A, 29<sup>c</sup> può essere apposto, nello stesso modo del segnale A 29<sup>a</sup>, il segnale di pericolo del passaggio a livello o del ponte mobile.
 
 ### 30. Aerodromo
 
-a) Per segnalare un luogo dove la strada può essere sorvolata a bassa quota da aeromobili in fase di decollo o di atterraggio su un aerodromo è impiegato il simbolo A, 30.
-
-b) Il simbolo può essere invertito.
+- a) Per segnalare un luogo dove la strada può essere sorvolata a bassa quota da aeromobili in fase di decollo o di atterraggio su un aerodromo è impiegato il simbolo A, 30.
+- b) Il simbolo può essere invertito.
 
 ### 31. Vento laterale
 
-a) Per segnalare un tratto di strada dove soffia spesso un forte vento laterale è impiegato il simbolo A, 31.
-
-b) Il simbolo può essere invertito.
+- a) Per segnalare un tratto di strada dove soffia spesso un forte vento laterale è impiegato il simbolo A, 31.
+- b) Il simbolo può essere invertito.
 
 ### 32. Altri pericoli
 
-a) Per segnalare un luogo in cui esiste un pericolo diverso da quelli enumerati nei precedenti paragrafi da 1 a 31 o nella sezione B del presente allegato può essere impiegato il simbolo A, 32.
-
-b) Le Parti contraenti possono tuttavia adottare simboli espressivi conformemente alle disposizioni di cui al paragrafo 1 a), ii) dell’articolo 3 della Convenzione.
-
-c) Il segnale A, 32 può essere impiegato particolarmente per segnalare l’attraversamento di binari ferroviari in cui contemporaneamente la circolazione ferroviaria è molto lenta e la circolazione stradale è regolata da un ferroviere che faccia i segnali manuali necessari.
+- a) Per segnalare un luogo in cui esiste un pericolo diverso da quelli enumerati nei precedenti paragrafi da 1 a 31 o nella sezione B del presente allegato può essere impiegato il simbolo A, 32.
+- b) Le Parti contraenti possono tuttavia adottare simboli espressivi conformemente alle disposizioni di cui al paragrafo 1 a), ii) dell’articolo 3 della Convenzione.
+- c) Il segnale A, 32 può essere impiegato particolarmente per segnalare l’attraversamento di binari ferroviari in cui contemporaneamente la circolazione ferroviaria è molto lenta e la circolazione stradale è regolata da un ferroviere che faccia i segnali manuali necessari.
 
 ### Sezione B Segnali di precedenza
 
@@ -1041,26 +1006,25 @@ c) Il segnale A, 32 può essere impiegato particolarmente per segnalare l’attr
 
 ### 1. Segnale «Dare la precedenza»
 
-a) Il segnale «Dare la precedenza» è il segnale B, 1. Esso ha la forma di un triangolo equilatero avente un lato orizzontale il cui vertice opposto è orientato verso il basso; il fondo è bianco o giallo, il bordo è rosso; il segnale non riporta alcun simbolo.
-
-b) Il lato del segnale di dimensioni normali è di circa 0,90 m, quello dei segnali di dimensioni ridotte non deve essere inferiore a 0,60 m.
+- a) Il segnale «Dare la precedenza» è il segnale B, 1. Esso ha la forma di un triangolo equilatero avente un lato orizzontale il cui vertice opposto è orientato verso il basso; il fondo è bianco o giallo, il bordo è rosso; il segnale non riporta alcun simbolo.
+- b) Il lato del segnale di dimensioni normali è di circa 0,90 m, quello dei segnali di dimensioni ridotte non deve essere inferiore a 0,60 m.
 
 ### 2. Segnale di «Arresto all’incrocio»
 
-a) Il segnale «Arresto all’incrocio» è il segnale B, 2 del quale vi sono due modelli:
+- a)
 
-- i) il modello B, 2<sup>a</sup> è ottagonale a fondo rosso e reca la scritta «Stop» di colore bianco, in inglese o nella lingua dello Stato interessato; l’altezza della scritta è uguale almeno ad un terzo dell’altezza del pannello;
-- ii) il modello B, 2<sup>b</sup> è circolare a fondo bianco o giallo con bordo rosso; esso reca nella parte interna il segnale B, 1 senza scritte e, inoltre, verso l’alto, a caratteri grandi, la scritta «Stop» in nero o in blu scuro, in inglese o nella lingua dello Stato interessato.
+  Il segnale «Arresto all’incrocio» è il segnale B, 2 del quale vi sono due modelli:
 
-b) L’altezza del segnale B, 2<sup>a</sup> di dimensioni normali e il diametro del segnale B, 2<sup>b</sup> di dimensioni normali sono all’incirca 0,90 m; quelli dei segnali di dimensioni ridotte non devono essere inferiori a 0,60 m.
+  - i) il modello B, 2<sup>a</sup> è ottagonale a fondo rosso e reca la scritta «Stop» di colore bianco, in inglese o nella lingua dello Stato interessato; l’altezza della scritta è uguale almeno ad un terzo dell’altezza del pannello;
+  - ii) il modello B, 2<sup>b</sup> è circolare a fondo bianco o giallo con bordo rosso; esso reca nella parte interna il segnale B, 1 senza scritte e, inoltre, verso l’alto, a caratteri grandi, la scritta «Stop» in nero o in blu scuro, in inglese o nella lingua dello Stato interessato.
 
-c) Per la scelta tra i modelli B, 2<sup>a</sup> e B, 2<sup>b</sup> si veda il paragrafo 2 dell’articolo 5 ed il paragrafo 3 dell’articolo 10 della Convenzione.
+- b) L’altezza del segnale B, 2<sup>a</sup> di dimensioni normali e il diametro del segnale B, 2<sup>b</sup> di dimensioni normali sono all’incirca 0,90 m; quelli dei segnali di dimensioni ridotte non devono essere inferiori a 0,60 m.
+- c) Per la scelta tra i modelli B, 2<sup>a</sup> e B, 2<sup>b</sup> si veda il paragrafo 2 dell’articolo 5 ed il paragrafo 3 dell’articolo 10 della Convenzione.
 
 ### 3. Segnale «Strada con diritto di precedenza»
 
-a) Il segnale «Strada con diritto di precedenza» è il segnale B, 3. Esso ha la forma di un quadrato di cui una diagonale è verticale. Il bordo esterno è nero; il segnale ha al centro un quadrato giallo o arancione con il bordo esterno nero; lo spazio tra i due quadrati è bianco.
-
-b) Il lato del segnale di dimensioni normali è di circa 0,50 m; quello dei segnali di dimensioni ridotte non deve essere inferiore a 0,35 m.
+- a) Il segnale «Strada con diritto di precedenza» è il segnale B, 3. Esso ha la forma di un quadrato di cui una diagonale è verticale. Il bordo esterno è nero; il segnale ha al centro un quadrato giallo o arancione con il bordo esterno nero; lo spazio tra i due quadrati è bianco.
+- b) Il lato del segnale di dimensioni normali è di circa 0,50 m; quello dei segnali di dimensioni ridotte non deve essere inferiore a 0,35 m.
 
 ### 4. Segnale «Fine di strada con diritto di precedenza»
 
@@ -1068,17 +1032,14 @@ Il segnale «Fine di strada con diritto di precedenza» è il segnale B, 4. Esso
 
 ### 5. Segnale che indica la precedenza alla circolazione che procede in senso inverso
 
-a) Se in una strettoia dove l’incrocio è difficile o impossibile la circolazione deve essere regolata e se, qualora i conducenti possano vedere distintamente sia di notte che di giorno tutta l’estensione della strettoia in questione, la regolamentazione consiste nell’attribuire la precedenza ad un senso di circolazione senza l’installazione di semafori, è posto di fronte al senso di circolazione dal lato della strettoia dove si deve dare la precedenza il segnale B, 5 «Precedenza alla circolazione che procede in senso inverso». Questo segnale indica il divieto di entrare nella strettoia prima che sia possibile attraversarla senza obbligare i veicoli provenienti in senso inverso ad arrestarsi.
-
-b) Questo segnale è circolare a fondo bianco o giallo con bordo rosso; la freccia che indica il senso di precedenza è nera e quella che indica l’altro senso è rossa.
+- a) Se in una strettoia dove l’incrocio è difficile o impossibile la circolazione deve essere regolata e se, qualora i conducenti possano vedere distintamente sia di notte che di giorno tutta l’estensione della strettoia in questione, la regolamentazione consiste nell’attribuire la precedenza ad un senso di circolazione senza l’installazione di semafori, è posto di fronte al senso di circolazione dal lato della strettoia dove si deve dare la precedenza il segnale B, 5 «Precedenza alla circolazione che procede in senso inverso». Questo segnale indica il divieto di entrare nella strettoia prima che sia possibile attraversarla senza obbligare i veicoli provenienti in senso inverso ad arrestarsi.
+- b) Questo segnale è circolare a fondo bianco o giallo con bordo rosso; la freccia che indica il senso di precedenza è nera e quella che indica l’altro senso è rossa.
 
 ### 6. Segnale che indica la precedenza rispetto alla circolazione che procede in senso inverso
 
-a) Per indicare ai conducenti che in una strettoia essi hanno la precedenza rispetto ai veicoli che procedono in senso inverso è impiegato il segnale B, 6.
-
-b) Questo segnale è rettangolare a fondo blu; la freccia orientata verso l’alto è bianca, l’altra è rossa.
-
-c) Quando è impiegato un segnale B, 6 deve essere posto obbligatoriamente sulla strada dall’altro lato della strettoia in questione il segnale B, 5 destinato alla circolazione che procede in senso inverso.
+- a) Per indicare ai conducenti che in una strettoia essi hanno la precedenza rispetto ai veicoli che procedono in senso inverso è impiegato il segnale B, 6.
+- b) Questo segnale è rettangolare a fondo blu; la freccia orientata verso l’alto è bianca, l’altra è rossa.
+- c) Quando è impiegato un segnale B, 6 deve essere posto obbligatoriamente sulla strada dall’altro lato della strettoia in questione il segnale B, 5 destinato alla circolazione che procede in senso inverso.
 
 ### Sezione C Segnali di divieto o di restrizione
 
@@ -1092,65 +1053,44 @@ c) Quando è impiegato un segnale B, 6 deve essere posto obbligatoriamente sulla
 
 ### 1. Divieto e restrizione d’accesso
 
-a) Per indicare il divieto di accesso a tutti i veicoli, è impiegato il segnale C, 1 «Divieto d’accesso» del quale esistono due modelli: C, 1<sup>a</sup> e C, 1<sup>b</sup>.
+- a) Per indicare il divieto di accesso a tutti i veicoli, è impiegato il segnale C, 1 «Divieto d’accesso» del quale esistono due modelli: C, 1<sup>a</sup> e C, 1<sup>b</sup>.
+- b) Per indicare che la circolazione dei veicoli è vietata nei due sensi, è impiegato il segnale C, 2 «Divieto di transito nei due sensi».
+- c)
 
-b) Per indicare che la circolazione dei veicoli è vietata nei due sensi, è impiegato il segnale C, 2 «Divieto di transito nei due sensi».
+  Per indicare il divieto di transito a talune categorie di veicoli o soltanto di utenti è impiegato un segnale recante come simbolo la sagoma dei veicoli o degli utenti cui la circolazione è vietata. I segnali C, 3<sup>a</sup>; C, 3<sup>b</sup>; C, 3<sup>c</sup>; C, 3<sup>d</sup>; C, 3<sup>e</sup>; C, 3<sup>f</sup>; C, 3<sup>g</sup>; C, 3<sup>h</sup>; C, 3<sup>i</sup>; C, 3<sup>j</sup>; C, 3<sup>k</sup>; C, 3<sup>l</sup> hanno i seguenti significati:
 
-c) Per indicare il divieto di transito a talune categorie di veicoli o soltanto di utenti è impiegato un segnale recante come simbolo la sagoma dei veicoli o degli utenti cui la circolazione è vietata. I segnali C, 3<sup>a</sup>; C, 3<sup>b</sup>; C, 3<sup>c</sup>; C, 3<sup>d</sup>; C, 3<sup>e</sup>; C, 3<sup>f</sup>; C, 3<sup>g</sup>; C, 3<sup>h</sup>; C, 3<sup>i</sup>; C, 3<sup>j</sup>; C, 3<sup>k</sup>; C, 3<sup>l</sup> hanno i seguenti significati:
+  - C, 3<sup>a</sup> «Divieto di transito a tutti i veicoli a motore eccetto i motoveicoli a due ruote senza side-car»
+  - C, 3<sup>b</sup> «Divieto di transito ai motoveicoli»
+  - C, 3<sup>c</sup> «Divieto di transito ai velocipedi»
+  - C, 3<sup>d</sup> «Divieto di transito ai ciclomotori»
+  - C, 3<sup>e</sup> «Divieto di transito ai veicoli adibiti al trasporto di merci»
+  - La scritta, in chiaro sulla sagoma del veicolo, oppure in conformità del paragrafo 4 dell’articolo 8 della Convenzione, su un pannello aggiuntivo posto sotto il segnale C, 3<sup>e</sup>, di una cifra di tonnellaggio, indica che il divieto si applica soltanto se il peso massimo autorizzato del veicolo o del rimorchio supera tale cifra.
+  - C, 3<sup>f</sup> «Divieto di transito a tutti i veicoli a motore che trainano un rimorchio diverso da un semirimorchio o da un rimorchio ad un assale»
+  - La scritta, in chiaro sulla sagoma del veicolo, oppure in conformità del paragrafo 4 dell’articolo 8 della Convenzione, su un pannello aggiuntivo posto sotto il segnale C, 3<sup>f</sup> di una cifra di tonnellaggio, indica che il divieto si applica soltanto se il peso massimo autorizzato del rimorchio supera tale cifra.
+  - Le Parti contraenti possono, qualora lo ritengano opportuno, sostituire nel simbolo la sagoma della vista posteriore di un autocarro con quella della vista posteriore di un’autovettura, e la sagoma del rimorchio come è disegnata con quella di un rimorchio trainabile da tale tipo di autovettura.
+  - C, 3<sup>g</sup> «Divieto di accesso a tutti i veicoli a motore che trainano un rimorchio»
+  - La scritta, in chiaro sulla sagoma del veicolo, oppure in conformità del paragrafo 4 dell’articolo 8 della Convenzione, su un pannello aggiuntivo posto sotto il segnale C, 3<sup>g</sup> di una cifra di tonnellaggio indica che il divieto si applica soltanto se il peso totale massimo autorizzato del rimorchio supera tale cifra.»
+  - C, 3<sup>h</sup> «Divieto di accesso ai veicoli che trasportano merci pericolose per cui è prescritta una segnalazione speciale»
+  - Per indicare un divieto di accesso a veicoli che trasportano talune categorie di merci pericolose, è possibile utilizzare un segnale C, 3<sup>h</sup>, completato se necessario da un pannello aggiuntivo. Le scritte su questo pannello aggiuntivo specificano che il divieto di applica soltanto al trasporto di merci pericolose determinate dalla legislazione nazionale.»
+  - C, 3<sup>i</sup> «Divieto di accesso ai pedoni»
+  - C, 3<sup>j</sup> «Divieto di accesso ai veicoli a trazione animale»
+  - C, 3<sup>k</sup> «Divieto di accesso ai veicoli a braccia»
+  - C, 3<sup>l</sup> «Divieto di accesso alle macchine agricole»
 
-C, 3<sup>a</sup> «Divieto di transito a tutti i veicoli a motore eccetto i motoveicoli a due ruote senza side-car»
+- *Nota* – Le Parti contraenti possono scegliere di non far apparire sui segnali da C, 3<sup>a</sup> a C, 3<sup>l</sup> la barra obliqua rossa che congiunge il quadrante superiore sinistro al quadrante inferiore destro oppure, se ciò non nuoce alla visibilità ed alla comprensione del simbolo, di non interrompere la barra a destra di quest’ultimo.
+- d) Per indicare il divieto di accesso a più categorie di veicoli o di utenti, possono essere impiegati segnali di divieto in cui vi siano le categorie escluse, oppure un segnale di divieto recante le diverse sagome dei veicoli o degli utenti ai quali è vietato il transito. I segnali C, 4<sup>a</sup> «Divieto di transito ai motoveicoli» e C, 4<sup>b</sup> «Divieto di transito ai motoveicoli e i veicoli a trazione animale» sono esempi di un segnale del genere.
+- Non può essere apposto un segnale che comporti più di due sagome fuori dei centri abitati e più di tre nei centri abitati.
+- e)
 
-C, 3<sup>b</sup> «Divieto di transito ai motoveicoli»
+  Per indicare il divieto di accesso ai veicoli la cui massa o le dimensioni superino certi limiti, sono impiegati i seguenti segnali:
 
-C, 3<sup>c</sup> «Divieto di transito ai velocipedi»
+  - C, 5 «Transito vietato ai veicoli aventi larghezza superiore a … metri»
+  - C, 6 «Transito vietato ai veicoli aventi altezza totale superiore a … metri»
+  - C, 7 «Transito vietato ai veicoli aventi una massa a pieno carico superiore a … tonnellate»
+  - C, 8 «Transito vietato ai veicoli aventi un peso per asse superiore a … tonnellate»
+  - C, 9 «Transito vietato ai veicoli o insieme di veicoli aventi una lunghezza superiore a … metri»
 
-C, 3<sup>d</sup> «Divieto di transito ai ciclomotori»
-
-C, 3<sup>e</sup> «Divieto di transito ai veicoli adibiti al trasporto di merci»
-
-La scritta, in chiaro sulla sagoma del veicolo, oppure in conformità del paragrafo 4 dell’articolo 8 della Convenzione, su un pannello aggiuntivo posto sotto il segnale C, 3<sup>e</sup>, di una cifra di tonnellaggio, indica che il divieto si applica soltanto se il peso massimo autorizzato del veicolo o del rimorchio supera tale cifra.
-
-C, 3<sup>f</sup> «Divieto di transito a tutti i veicoli a motore che trainano un rimorchio diverso da un semirimorchio o da un rimorchio ad un assale»
-
-La scritta, in chiaro sulla sagoma del veicolo, oppure in conformità del paragrafo 4 dell’articolo 8 della Convenzione, su un pannello aggiuntivo posto sotto il segnale C, 3<sup>f</sup> di una cifra di tonnellaggio, indica che il divieto si applica soltanto se il peso massimo autorizzato del rimorchio supera tale cifra.
-
-Le Parti contraenti possono, qualora lo ritengano opportuno, sostituire nel simbolo la sagoma della vista posteriore di un autocarro con quella della vista posteriore di un’autovettura, e la sagoma del rimorchio come è disegnata con quella di un rimorchio trainabile da tale tipo di autovettura.
-
-«C, 3<sup>g</sup> «Divieto di accesso a tutti i veicoli a motore che trainano un rimorchio»
-
-La scritta, in chiaro sulla sagoma del veicolo, oppure in conformità del paragrafo 4 dell’articolo 8 della Convenzione, su un pannello aggiuntivo posto sotto il segnale C, 3<sup>g</sup> di una cifra di tonnellaggio indica che il divieto si applica soltanto se il peso totale massimo autorizzato del rimorchio supera tale cifra.»
-
-«C, 3<sup>h</sup> «Divieto di accesso ai veicoli che trasportano merci pericolose per cui è prescritta una segnalazione speciale»
-
-Per indicare un divieto di accesso a veicoli che trasportano talune categorie di merci pericolose, è possibile utilizzare un segnale C, 3<sup>h</sup>, completato se necessario da un pannello aggiuntivo. Le scritte su questo pannello aggiuntivo specificano che il divieto di applica soltanto al trasporto di merci pericolose determinate dalla legislazione nazionale.»
-
-C, 3<sup>j</sup> «Divieto di accesso ai pedoni»
-
-C, 3<sup>J</sup> «Divieto di accesso ai veicoli a trazione animale»
-
-C, 3<sup>k</sup> «Divieto di accesso ai veicoli a braccia»
-
-C, 3<sup>l</sup> «Divieto di accesso alle macchine agricole»
-
-Nota – Le Parti contraenti possono scegliere di non far apparire sui segnali da C, 3<sup>a</sup> a C, 3<sup>l</sup> la barra obliqua rossa che congiunge il quadrante superiore sinistro al quadrante inferiore destro oppure, se ciò non nuoce alla visibilità ed alla comprensione del simbolo, di non interrompere la barra a destra di quest’ultimo.
-
-d) Per indicare il divieto di accesso a più categorie di veicoli o di utenti, possono essere impiegati segnali di divieto in cui vi siano le categorie escluse, oppure un segnale di divieto recante le diverse sagome dei veicoli o degli utenti ai quali è vietato il transito. I segnali C, 4<sup>a</sup> «Divieto di transito ai motoveicoli» e C, 4<sup>b</sup> «Divieto di transito ai motoveicoli e i veicoli a trazione animale» sono esempi di un segnale del genere.
-
-Non può essere apposto un segnale che comporti più di due sagome fuori dei centri abitati e più di tre nei centri abitati.
-
-e) Per indicare il divieto di accesso ai veicoli la cui massa o le dimensioni superino certi limiti, sono impiegati i seguenti segnali:
-
-C, 5 «Transito vietato ai veicoli aventi larghezza superiore a ... metri»
-
-C, 6 «Transito vietato ai veicoli aventi altezza totale superiore a ... metri»
-
-C, 7 «Transito vietato ai veicoli aventi una massa a pieno carico superiore a ... tonnellate»
-
-C, 8 «Transito vietato ai veicoli aventi un peso per asse superiore a ... tonnellate»
-
-C, 9 «Transito vietato ai veicoli o insieme di veicoli aventi una lunghezza superiore a ... metri»
-
-f) Per indicare il divieto ai veicoli di circolare senza mantenere tra loro un intervallo almeno uguale a quello indicato sul segnale di divieto, è impiegato il segnale C, 10 «Divieto ai veicoli di circolare senza mantenere tra di loro una distanza di almeno ... metri».
+- f) Per indicare il divieto ai veicoli di circolare senza mantenere tra loro un intervallo almeno uguale a quello indicato sul segnale di divieto, è impiegato il segnale C, 10 «Divieto ai veicoli di circolare senza mantenere tra di loro una distanza di almeno … metri».
 
 ### 2. Divieto di svoltare
 
@@ -1158,27 +1098,21 @@ Per indicare il divieto di svolta (a destra o a sinistra a seconda del senso del
 
 ### 3. Divieto di inversione ad U
 
-a) Per indicare il divieto di inversione ad U, è impiegato il segnale C, 12 «Divieto di inversione ad U».
-
-b) All’occorrenza il simbolo può essere invertito.
+- a) Per indicare il divieto di inversione ad U, è impiegato il segnale C, 12 «Divieto di inversione ad U».
+- b) All’occorrenza il simbolo può essere invertito.
 
 ### 4. Divieto di sorpasso
 
-a) Per indicare che, in aggiunta alle norme generali per il sorpasso previste dalla legge in vigore, è vietato sorpassare i veicoli a motore diversi dai ciclomotori a due ruote e dai motocicli a due ruote senza carrozzetta, è impiegato il segnale C, 13<sup>a</sup> «Divieto di sorpasso per tutti i veicoli».
-
-Di detto segnale esistono due modelli: C, 13<sup>aa</sup> e C, 13<sup>ab</sup>.
-
-b) Per indicare che il divieto di sorpasso si applica soltanto ai veicoli adibiti al trasporto di merci la cui massa massima autorizzata supera le 3,5 tonnellate è impiegato il segnale C, 13<sup>b</sup> «Divieto di sorpasso per veicoli adibiti al trasporto di merci».
-
-Di questo segnale esistono due modelli: C, 13<sup>ba</sup> e C, 13<sup>bb</sup>.
-
-Una scritta su un pannello aggiuntivo posto sotto il segnale in conformità del paragrafo 4 dell’articolo 8 della Convenzione può modificare il peso massimo autorizzato del veicolo al di sopra del quale si applica il divieto.
+- a) Per indicare che, in aggiunta alle norme generali per il sorpasso previste dalla legge in vigore, è vietato sorpassare i veicoli a motore diversi dai ciclomotori a due ruote e dai motocicli a due ruote senza carrozzetta, è impiegato il segnale C, 13<sup>a</sup> «Divieto di sorpasso per tutti i veicoli».
+- Di detto segnale esistono due modelli: C, 13<sup>aa</sup> e C, 13<sup>ab</sup>.
+- b) Per indicare che il divieto di sorpasso si applica soltanto ai veicoli adibiti al trasporto di merci la cui massa massima autorizzata supera le 3,5 tonnellate è impiegato il segnale C, 13<sup>b</sup> «Divieto di sorpasso per veicoli adibiti al trasporto di merci».
+- Di questo segnale esistono due modelli: C, 13<sup>ba</sup> e C, 13<sup>bb</sup>.
+- Una scritta su un pannello aggiuntivo posto sotto il segnale in conformità del paragrafo 4 dell’articolo 8 della Convenzione può modificare il peso massimo autorizzato del veicolo al di sopra del quale si applica il divieto.
 
 ### 5. Limitazione di velocità
 
-a) Per indicare una limitazione di velocità, dovrà essere impiegato il segnale C, 14 «Velocità massima limitata alla cifra indicata». La cifra riportata sul segnale indica la velocità massima nell’unità di misura più correntemente impiegata nel Paese per designare la velocità dei veicoli. A fianco o sotto la cifra della velocità può essere aggiunto, per esempio «km» (chilometri) o «M» (miglia).
-
-b) Per indicare una limitazione di velocità applicabile soltanto ai veicoli la cui massa massima autorizzata supera una data cifra, una scritta che indichi tale cifra è apposta in un pannello aggiuntivo posto sotto il segnale in conformità del paragrafo 4 dell’articolo 8 della Convenzione.
+- a) Per indicare una limitazione di velocità, dovrà essere impiegato il segnale C, 14 «Velocità massima limitata alla cifra indicata». La cifra riportata sul segnale indica la velocità massima nell’unità di misura più correntemente impiegata nel Paese per designare la velocità dei veicoli. A fianco o sotto la cifra della velocità può essere aggiunto, per esempio «km» (chilometri) o «M» (miglia).
+- b) Per indicare una limitazione di velocità applicabile soltanto ai veicoli la cui massa massima autorizzata supera una data cifra, una scritta che indichi tale cifra è apposta in un pannello aggiuntivo posto sotto il segnale in conformità del paragrafo 4 dell’articolo 8 della Convenzione.
 
 ### 6. Divieto di segnalazioni acustiche
 
@@ -1186,40 +1120,39 @@ Per indicare il divieto di fare uso degli avvisatori acustici, salvo allo scopo 
 
 ### 7. Obbligo di arresto
 
-a) Per indicare l’approssimarsi di un posto doganale, dove la fermata è obbligatoria, sarà impiegato il segnale C, 16 «Obbligo di arresto». In deroga all’articolo 8 della Convenzione, il simbolo di questo segnale comporta la parola «Dogana»; la scritta è riportata preferibilmente in due lingue; le Parti contraenti che installeranno i segnali C, 16 devono adoperarsi per accordarsi sul piano regionale affinché detta parola figuri nella stessa lingua sui segnali che esse installano.
-
-b) Questo stesso segnale può essere impiegato per indicare altri obblighi di arresto; in tal caso la parola «Dogana» è sostituita da un’altra scritta molto breve che indica il motivo dell’arresto.
+- a) Per indicare l’approssimarsi di un posto doganale, dove la fermata è obbligatoria, sarà impiegato il segnale C, 16 «Obbligo di arresto». In deroga all’articolo 8 della Convenzione, il simbolo di questo segnale comporta la parola «Dogana»; la scritta è riportata preferibilmente in due lingue; le Parti contraenti che installeranno i segnali C, 16 devono adoperarsi per accordarsi sul piano regionale affinché detta parola figuri nella stessa lingua sui segnali che esse installano.
+- b) Questo stesso segnale può essere impiegato per indicare altri obblighi di arresto; in tal caso la parola «Dogana» è sostituita da un’altra scritta molto breve che indica il motivo dell’arresto.
 
 ### 8. Fine di divieto o di restrizione
 
-a) Per indicare il punto dove tutti i divieti indicati mediante segnali di divieto per i veicoli in marcia cessano di essere validi, è impiegato il segnale C, 17<sup>a</sup> «Fine di tutti i divieti locali imposti ai veicoli in movimento». Questo segnale è circolare, a fondo bianco o giallo, senza bordo o con un semplice bordo nero, e ha una striscia diagonale inclinata dall’alto verso il basso partendo da destra, striscia che può essere nera o grigio scuro oppure essere formata da linee parallele nere o grigie.
-
-b) Per indicare il punto dove il divieto o una data restrizione segnalata ai veicoli in movimento mediante un segnale di divieto o di restrizione cessa di essere valido, deve essere impiegato il segnale C, 17<sup>b</sup> «Fine della limitazione di velocità» o il segnale C, 17<sup>c</sup> «Fine del divieto di sorpasso» o il segnale C, 17<sup>d</sup> «Fine del divieto di sorpasso per i veicoli adibiti al trasporto di merci». Questi segnali sono analoghi al segnale C, 17<sup>a</sup>, ma mostrano inoltre in grigio chiaro il simbolo del divieto o della restrizione alla quale si pone il termine.
-
-c) In deroga alle disposizioni del paragrafo 1 dell’articolo 6 della Convenzione, i segnali previsti nel presente paragrafo 8 possono essere posti al rovescio del segnale di divieto o di restrizione destinati al traffico che procede in senso inverso.
+- a) Per indicare il punto dove tutti i divieti indicati mediante segnali di divieto per i veicoli in marcia cessano di essere validi, è impiegato il segnale C, 17<sup>a</sup> «Fine di tutti i divieti locali imposti ai veicoli in movimento». Questo segnale è circolare, a fondo bianco o giallo, senza bordo o con un semplice bordo nero, e ha una striscia diagonale inclinata dall’alto verso il basso partendo da destra, striscia che può essere nera o grigio scuro oppure essere formata da linee parallele nere o grigie.
+- b) Per indicare il punto dove il divieto o una data restrizione segnalata ai veicoli in movimento mediante un segnale di divieto o di restrizione cessa di essere valido, deve essere impiegato il segnale C, 17<sup>b</sup> «Fine della limitazione di velocità» o il segnale C, 17<sup>c</sup> «Fine del divieto di sorpasso» o il segnale C, 17<sup>d</sup> «Fine del divieto di sorpasso per i veicoli adibiti al trasporto di merci». Questi segnali sono analoghi al segnale C, 17<sup>a</sup>, ma mostrano inoltre in grigio chiaro il simbolo del divieto o della restrizione alla quale si pone il termine.
+- c) In deroga alle disposizioni del paragrafo 1 dell’articolo 6 della Convenzione, i segnali previsti nel presente paragrafo 8 possono essere posti al rovescio del segnale di divieto o di restrizione destinati al traffico che procede in senso inverso.
 
 ### 9. Divieto o limitazione della fermata o della sosta
 
 - a) i) Per indicare i luoghi dove la fermata o la sosta è vietata, è impiegato il segnale C, 18 «Sosta vietata»; per indicare i luoghi dove la fermata e la sosta sono vietate è impiegato il segnale C, 19 «Divieto di sosta e di fermata».
-- ii) Il segnale C, 18 può essere sostituito da un segnale circolare a bordo rosso e barra diagonale rossa, recante in nero su fondo bianco o giallo la lettera o l’ideogramma che indica la sosta nello Stato interessato.
-- iii) Le scritte sul pannello aggiuntivo posto sotto il segnale possono limitare la portata del divieto indicando, secondo i casi:
-- i giorni della settimana o del mese o le ore della giornata durante le quali si applica il divieto,
-- la durata oltre la quale il segnale C, 18 vieta la sosta o la durata oltre la quale il segnale C, 19 vieta la fermata o la sosta,
-- le eccezioni riguardanti talune categorie di utenti della strada.
-- iv) La scritta concernente la durata oltre la quale la fermata o la sosta è proibita può, invece di essere riportata su un pannello aggiuntivo, essere riportata nella parte inferiore del cerchio rosso del segnale.
-- b) i) Quando la sosta è autorizzata talvolta da un lato della strada, talvolta dall’altro, sono impiegati, invece del segnale C 18, i segnali C, 20<sup>a</sup> e C, 20<sup>b</sup> «Sosta alternata».
-- ii) Il divieto di sosta si applica dal lato del segnale C, 2O<sup>a</sup> nei giorni dispari e, sul lato del segnale C, 20<sup>b</sup>, nei giorni pari; l’ora del cambiamento di lato viene fissata dalla legislazione nazionale, senza essere necessariamente la mezzanotte. La legislazione nazionale può inoltre fissare una periodicità non quotidiana di alternanza della sosta; le cifre I e II vengono allora sostituite sui segnali dai periodi di alternanza, per esempio 1–15 e 16–31 per un’alternanza il 1° e il 16 di ciascun mese.
-- iii) Il segnale C, 18 può essere impiegato dagli Stati che non adottano i segnali C, 19, C, 20<sup>a</sup> e C, 20<sup>b</sup>, completati da iscrizioni aggiuntive, conformemente alle disposizioni del paragrafo 4 dell’articolo 8 della Convenzione.
+  - ii) Il segnale C, 18 può essere sostituito da un segnale circolare a bordo rosso e barra diagonale rossa, recante in nero su fondo bianco o giallo la lettera o l’ideogramma che indica la sosta nello Stato interessato.
+  - iii) Le scritte sul pannello aggiuntivo posto sotto il segnale possono limitare la portata del divieto indicando, secondo i casi:
+  - i giorni della settimana o del mese o le ore della giornata durante le quali si applica il divieto,
+  - la durata oltre la quale il segnale C, 18 vieta la sosta o la durata oltre la quale il segnale C, 19 vieta la fermata o la sosta,
+  - le eccezioni riguardanti talune categorie di utenti della strada.
+  - iv) La scritta concernente la durata oltre la quale la fermata o la sosta è proibita può, invece di essere riportata su un pannello aggiuntivo, essere riportata nella parte inferiore del cerchio rosso del segnale.
+
+- b) i) Quando la sosta è autorizzata talvolta da un lato della strada, talvolta dall’altro, sono impiegati, invece del segnale C, 18, i segnali C, 20<sup>a</sup> e C, 20<sup>b</sup> «Sosta alternata».
+  - ii) Il divieto di sosta si applica dal lato del segnale C, 20<sup>a</sup> nei giorni dispari e, sul lato del segnale C, 20<sup>b</sup>, nei giorni pari; l’ora del cambiamento di lato viene fissata dalla legislazione nazionale, senza essere necessariamente la mezzanotte. La legislazione nazionale può inoltre fissare una periodicità non quotidiana di alternanza della sosta; le cifre I e II vengono allora sostituite sui segnali dai periodi di alternanza, per esempio 1–15 e 16–31 per un’alternanza il 1° e il 16 di ciascun mese.
+  - iii) Il segnale C, 18 può essere impiegato dagli Stati che non adottano i segnali C, 19, C, 20<sup>a</sup> e C, 20<sup>b</sup>, completati da iscrizioni aggiuntive, conformemente alle disposizioni del paragrafo 4 dell’articolo 8 della Convenzione.
+
 - c) i) Salvo casi particolari, i segnali sono installati in modo che il disco sia perpendicolare all’asse della strada oppure poco inclinato rispetto al piano perpendicolare a detto asse.
-- ii) Tutti i divieti e le restrizioni di sosta si applicano soltanto al lato della carreggiata sul quale sono posti i segnali.
-- iii) Salvo indicazioni contrarie che possono essere date:
-- mediante un pannello aggiuntivo H 2 della sezione H del presente allegato e indicante la lunghezza sulla quale si applica il divieto, oppure
-- in conformità delle prescrizioni di cui alla lettera c) v) qui sotto, i divieti si applicano a partire dal punto in cui è collocato il segnale sino al successivo sbocco di una strada.
-- iv) Sotto il segnale posto nel punto in cui inizia il divieto, può essere posto un pannello aggiuntivo H, 3<sup>a</sup> o H, 4<sup>a</sup> rappresentato nella sezione H del presente allegato. Sotto i segnali che ripetono il divieto, può essere posto un pannello aggiuntivo H, 3<sup>b</sup> o H, 4<sup>b</sup> rappresentato nella sezione H del presente allegato. Nel punto in cui termina il divieto, può essere posto un nuovo segnale di divieto completato da un pannello aggiuntivo H, 3<sup>c</sup> o H, 4<sup>c</sup> rappresentato nella sezione H del presente allegato. I pannelli H, 3 sono posti parallelamente all’asse della strada ed i pannelli H, 4, perpendicolarmente a detto asse. Le distanze eventualmente indicate sui pannelli H, 3 sono quelle alle quali si applica il divieto nel senso della freccia.
-- v) Se il divieto cessa prima del successivo sbocco di una strada è posto il segnale con pannello aggiuntivo di fine di divieto descritto precedentemente nella lettera c) iv). Tuttavia, se il divieto si riferisce soltanto ad un breve tratto, potrà essere posto soltanto un segnale recante:
-- nel cerchio rosso, l’indicazione della lunghezza alla quale esso si applica, oppure
-- un pannello aggiuntivo del modello H, 3.
-- vi) Nelle aree munite di parchimetri, la presenza di questi ultimi indica che la sosta è a pagamento e che la sua durata è limitata al tempo indicato dall’apparecchio.
+  - ii) Tutti i divieti e le restrizioni di sosta si applicano soltanto al lato della carreggiata sul quale sono posti i segnali.
+  - iii) Salvo indicazioni contrarie che possono essere date:
+  - mediante un pannello aggiuntivo H, 2 della sezione H del presente allegato e indicante la lunghezza sulla quale si applica il divieto, oppure
+  - in conformità delle prescrizioni di cui alla lettera c) v) qui sotto, i divieti si applicano a partire dal punto in cui è collocato il segnale sino al successivo sbocco di una strada.
+  - iv) Sotto il segnale posto nel punto in cui inizia il divieto, può essere posto un pannello aggiuntivo H, 3<sup>a</sup> o H, 4<sup>a</sup> rappresentato nella sezione H del presente allegato. Sotto i segnali che ripetono il divieto, può essere posto un pannello aggiuntivo H, 3<sup>b</sup> o H, 4<sup>b</sup> rappresentato nella sezione H del presente allegato. Nel punto in cui termina il divieto, può essere posto un nuovo segnale di divieto completato da un pannello aggiuntivo H, 3<sup>c</sup> o H, 4<sup>c</sup> rappresentato nella sezione H del presente allegato. I pannelli H, 3 sono posti parallelamente all’asse della strada ed i pannelli H, 4, perpendicolarmente a detto asse. Le distanze eventualmente indicate sui pannelli H, 3 sono quelle alle quali si applica il divieto nel senso della freccia.
+  - v) Se il divieto cessa prima del successivo sbocco di una strada è posto il segnale con pannello aggiuntivo di fine di divieto descritto precedentemente nella lettera c) iv). Tuttavia, se il divieto si riferisce soltanto ad un breve tratto, potrà essere posto soltanto un segnale recante:
+  - nel cerchio rosso, l’indicazione della lunghezza alla quale esso si applica, oppure
+  - un pannello aggiuntivo del modello H, 3.
+  - vi) Nelle aree munite di parchimetri, la presenza di questi ultimi indica che la sosta è a pagamento e che la sua durata è limitata al tempo indicato dall’apparecchio.
 
 ### Sezione D Segnali di obbligo
 
@@ -1273,13 +1206,9 @@ I segnali D, 10<sup>a</sup>; D, 10<sup>b</sup> e D, 10<sup>c</sup> indicano la d
 
 ### 11. Osservazioni concernenti la combinazione dei segnali D, 4, D, 5 e D, 6
 
-a) Per indicare che una corsia è riservata alla circolazione di due categorie di utenti e vietata agli altri utenti della strada, è utilizzato un segnale di obbligo comprendente i simboli combinati delle categorie di utenti ammessi a circolare sulla corsia all’inizio della quale esso è posto.
-
-b) Se i simboli sono giustapposti e separati da una linea mediana verticale, ciascun simbolo comporta, per l’utente cui si riferisce, l’obbligo di circolare sul lato della corsia riservata alla sua categoria e per gli altri utenti il divieto di circolazione; le due parti della corsia sono chiaramente separate con mezzi materiali o demarcazioni.
-
-c) Se i simboli sono sovrapposti, il segnale indica alle categorie di utenti cui i simboli si riferiscono il diritto di circolare sulla corsia in comune. L’ordine
-
-dei simboli è facoltativo. Incombe alle legislazioni nazionali determinare gli obblighi di reciproca precauzione degli utenti ammessi a circolare in comune su queste corsie.
+- a) Per indicare che una corsia è riservata alla circolazione di due categorie di utenti e vietata agli altri utenti della strada, è utilizzato un segnale di obbligo comprendente i simboli combinati delle categorie di utenti ammessi a circolare sulla corsia all’inizio della quale esso è posto.
+- b) Se i simboli sono giustapposti e separati da una linea mediana verticale, ciascun simbolo comporta, per l’utente cui si riferisce, l’obbligo di circolare sul lato della corsia riservata alla sua categoria e per gli altri utenti il divieto di circolazione; le due parti della corsia sono chiaramente separate con mezzi materiali o demarcazioni.
+- c) Se i simboli sono sovrapposti, il segnale indica alle categorie di utenti cui i simboli si riferiscono il diritto di circolare sulla corsia in comune. L’ordine dei simboli è facoltativo. Incombe alle legislazioni nazionali determinare gli obblighi di reciproca precauzione degli utenti ammessi a circolare in comune su queste corsie.
 
 I segnali D, 11<sup>a</sup> e D, 11<sup>b</sup> sono esempi di combinazioni dei segnali D, 4 e D, 5.
 
@@ -1305,12 +1234,14 @@ I segnali quali E, 2<sup>a</sup> e E, 2<sup>b</sup> sono esempi di segnali che i
 
 ### 3. Segnale «Strada a senso unico»
 
-a) Possono essere posti due segnali diversi «Strada a senso unico» quando si ritiene necessario indicare che una strada o una carreggiata è a senso unico:
+- a)
 
-- i) il segnale E, 3<sup>a</sup> posto in modo sensibilmente perpendicolare all’asse della carreggiata;
-- ii) il segnale E, 3<sup>b</sup> posto all’incirca parallelamente all’asse della carreggiata; il suo pannello è costituito da un rettangolo allungato il cui lato più lungo è orizzontale. Le parole «senso unico» possono essere iscritte sulla freccia del segnale E, 3<sup>b</sup> nella lingua nazionale o in una delle lingue nazionali del Paese.
+  Possono essere posti due segnali diversi «Strada a senso unico» quando si ritiene necessario indicare che una strada o una carreggiata è a senso unico:
 
-b) L’installazione dei segnali E, 3<sup>a</sup> e E, 3<sup>b</sup> è indipendente dall’installazione, prima dell’inizio della strada di segnali di divieto o di obbligo.
+  - i) il segnale E, 3<sup>a</sup> posto in modo sensibilmente perpendicolare all’asse della carreggiata;
+  - ii) il segnale E, 3<sup>b</sup> posto all’incirca parallelamente all’asse della carreggiata; il suo pannello è costituito da un rettangolo allungato il cui lato più lungo è orizzontale. Le parole «senso unico» possono essere iscritte sulla freccia del segnale E, 3<sup>b</sup> nella lingua nazionale o in una delle lingue nazionali del Paese.
+
+- b) L’installazione dei segnali E, 3<sup>a</sup> e E, 3<sup>b</sup> è indipendente dall’installazione, prima dell’inizio della strada di segnali di divieto o di obbligo.
 
 ### 4. Segnale di preselezione
 
@@ -1318,53 +1249,43 @@ Esempio di segnale per la preselezione delle intersezioni sulle strade a più co
 
 ### 5. Segnali che indicano l’entrata o l’uscita di un’autostrada
 
-a) Il segnale E, 5<sup>a</sup> «Autostrada» è posto nel luogo a partire dal quale si applicano le norme speciali di circolazione sulle autostrade.
-
-b) Il segnale E, 5<sup>b</sup> «Fine autostrada» è posto nel luogo in cui dette norme cessano di essere applicate.
-
-c) Il segnale E, 5<sup>b</sup> può ugualmente essere impiegato e ripetuto per indicare l’approssimarsi della fine di un’autostrada; ciascun segnale così installato porta indicata sulla parte inferiore la distanza tra il punto di installazione e la fine dell’autostrada.
-
-d) Questi segnali sono a fondo blu o verde.
+- a) Il segnale E, 5<sup>a</sup> «Autostrada» è posto nel luogo a partire dal quale si applicano le norme speciali di circolazione sulle autostrade.
+- b) Il segnale E, 5<sup>b</sup> «Fine autostrada» è posto nel luogo in cui dette norme cessano di essere applicate.
+- c) Il segnale E, 5<sup>b</sup> può ugualmente essere impiegato e ripetuto per indicare l’approssimarsi della fine di un’autostrada; ciascun segnale così installato porta indicata sulla parte inferiore la distanza tra il punto di installazione e la fine dell’autostrada.
+- d) Questi segnali sono a fondo blu o verde.
 
 ### 6. Segnali che indicano l’entrata o l’uscita di una strada dove le norme di circolazione sono le stesse di quelle di un’autostrada
 
-a) Il segnale E, 6<sup>a</sup> «Riservato alle autovetture» è posto nel luogo a partire dal quale si applicano le norme speciali di circolazione sulle strade diverse dalle autostrade, che sono riservate alla circolazione automobilistica e che non collegano le proprietà confinanti. Un pannello aggiuntivo posto sotto il segnale E, 6<sup>a</sup> può indicare che, in deroga, l’accesso delle autovetture alle proprietà confinanti è autorizzato.
-
-b) Il segnale E, 6<sup>b</sup> «Fine della strada riservata alle autovetture» può egualmente essere impiegato e ripetuto per indicare l’approssimarsi del termine della strada; ogni segnale così installato porta indicata sulla parte inferiore la distanza tra il suo punto di installazione e il termine della strada.
-
-c) Questi segnali sono a fondo blu o verde.
+- a) Il segnale E, 6<sup>a</sup> «Riservato alle autovetture» è posto nel luogo a partire dal quale si applicano le norme speciali di circolazione sulle strade diverse dalle autostrade, che sono riservate alla circolazione automobilistica e che non collegano le proprietà confinanti. Un pannello aggiuntivo posto sotto il segnale E, 6<sup>a</sup> può indicare che, in deroga, l’accesso delle autovetture alle proprietà confinanti è autorizzato.
+- b) Il segnale E, 6<sup>b</sup> «Fine della strada riservata alle autovetture» può egualmente essere impiegato e ripetuto per indicare l’approssimarsi del termine della strada; ogni segnale così installato porta indicata sulla parte inferiore la distanza tra il suo punto di installazione e il termine della strada.
+- c) Questi segnali sono a fondo blu o verde.
 
 ### 7. Segnali che indicano l’entrata e l’uscita da un centro abitato
 
-a) Il segnale che indica l’entrata di un centro abitato reca il nome del centro abitato o il simbolo rappresentante la sagoma di un centro abitato oppure nome e simbolo. I segnali E, 7<sup>a</sup>; E, 7<sup>b</sup>; E, 7<sup>c</sup> e E, 7<sup>d</sup> sono esempi di segnali che indicano l’entrata di un centro abitato.
-
-b) Il segnale che indica l’uscita da un centro abitato è identico, tranne che è attraversato da una barra obliqua rossa oppure costituito da linee parallele rosse che vanno dall’angolo superiore destro all’angolo inferiore sinistro. I segnali E, 8<sup>a</sup>; E, 8<sup>b</sup>; E, 8<sup>c</sup> e E, 8<sup>d</sup> sono esempi di segnali che indicano il termine di un centro abitato.
-
-In deroga alle disposizioni del paragrafo 1 dell’articolo 6 della Convenzione, questi segnali possono essere posti sul retro dei segnali di località di un centro abitato.
-
-c) I segnali previsti nel presente paragrafo sono utilizzati conformemente alle disposizioni del paragrafo 2 dell’articolo 13<sup>bis</sup> della Convenzione.
+- a) Il segnale che indica l’entrata di un centro abitato reca il nome del centro abitato o il simbolo rappresentante la sagoma di un centro abitato oppure nome e simbolo. I segnali E, 7<sup>a</sup>; E, 7<sup>b</sup>; E, 7<sup>c</sup> e E, 7<sup>d</sup> sono esempi di segnali che indicano l’entrata di un centro abitato.
+- b) Il segnale che indica l’uscita da un centro abitato è identico, tranne che è attraversato da una barra obliqua rossa oppure costituito da linee parallele rosse che vanno dall’angolo superiore destro all’angolo inferiore sinistro. I segnali E, 8<sup>a</sup>; E, 8<sup>b</sup>; E, 8<sup>c</sup> e E, 8<sup>d</sup> sono esempi di segnali che indicano il termine di un centro abitato.
+- In deroga alle disposizioni del paragrafo 1 dell’articolo 6 della Convenzione, questi segnali possono essere posti sul retro dei segnali di località di un centro abitato.
+- c) I segnali previsti nel presente paragrafo sono utilizzati conformemente alle disposizioni del paragrafo 2 dell’articolo 13<sup>bis</sup> della Convenzione.
 
 ### 8. Segnali di validità per zona
 
-a) Inizio di zona
+- a) Inizio di zona
+  - i) Per indicare che un segnale si applica a tutte le strade situate in una determinata zona (validità per zona), il segnale è rappresentato su un pannello rettangolare a fondo chiaro. La parola «Zona» o il termine equivalente nella lingua del Paese interessato potrà figurare su un pannello sopra o sotto il segnale. Informazioni precise su limitazioni, divieti od obblighi indicati dal segnale potranno figurare sul pannello, sotto il segnale, o su un pannello aggiuntivo.
+  - I segnali che si applicano a tutte le strade situate in una determinata zona (validità per zona) sono installati su tutte le strade d’accesso alla zona in questione. La zona dovrà preferibilmente non comprendere strade presentanti caratteristiche omogenee.
+  - ii) I segnali E, 9<sup>a</sup>; E, 9<sup>b</sup>; E, 9<sup>c</sup> e E, 9<sup>d</sup> sono esempi di segnali che si applicano a tutte le strade situate in una determinata zona (validità per zona):
+  - E, 9<sup>a</sup> – Zona in cui è vietata la sosta;
+  - E, 9<sup>b</sup> – Zona in cui è vietata la sosta in determinati periodi;
+  - E, 9<sup>c</sup> – Zona di parcheggio;
+  - E, 9<sup>d</sup> – Zona con limitazione di velocità.
 
-- i) Per indicare che un segnale si applica a tutte le strade situate in una determinata zona (validità per zona), il segnale è rappresentato su un pannello rettangolare a fondo chiaro. La parola «Zona» o il termine equivalente nella lingua del Paese interessato potrà figurare su un pannello sopra o sotto il segnale. Informazioni precise su limitazioni, divieti od obblighi indicati dal segnale potranno figurare sul pannello, sotto il segnale, o su un pannello aggiuntivo.
-- I segnali che si applicano a tutte le strade situate in una determinata zona (validità per zona) sono installati su tutte le strade d’accesso alla zona in questione. La zona dovrà preferibilmente non comprendere strade presentanti caratteristiche omogenee.
-- ii) I segnali E, 9<sup>a</sup>; E, 9<sup>b</sup>; E, 9<sup>c</sup> e E, 9<sup>d</sup> sono esempi di segnali che si applicano a tutte le strade situate in una determinata zona (validità per zona):
-- E, 9<sup>a</sup> – Zona in cui è vietata la sosta;
-- E, 9<sup>b</sup> – Zona in cui è vietata la sosta in determinati periodi;
-- E, 9<sup>c</sup> – Zona di parcheggio;
-- E, 9<sup>d</sup> – Zona con limitazione di velocità.
-
-b) Fine della zona
-
-- i) Per indicare la fine di una zona, demarcata da un segnale a validità per zona, è rappresentato il medesimo segnale di quello installato all’entrata della zona in questione, ma il segnale è grigio su un pannello rettangolare a fondo chiaro. Una banda diagonale nera o grigia scura oppure una serie di tratti paralleli neri o grigi formanti una banda analoga è riposta sul pannello scendendo da destra a sinistra.
-- Segnali di fine di zona sono posti su tutte le strade che possono essere utilizzate per lasciare la zona in questione.
-- ii) I segnali E, 10<sup>a</sup>; E, 10<sup>b</sup>; E, 10<sup>c</sup> e E, 10<sup>d</sup> sono esempi di segnali che indicano la fine di una zona nella quale un segnale di prescrizione si applica a tutte le strade (validità per zona):
-- E, 10<sup>a</sup> – Fine della zona in cui è vietata la sosta;
-- E, 10<sup>b</sup> – Fine della zona in cui è vietata la sosta in determinati periodi;
-- E, 10<sup>c</sup> – Fine della zona di parcheggio;
-- E, 10<sup>d</sup> – Fine della zona con limite di velocità.
+- b) Fine della zona
+  - i) Per indicare la fine di una zona, demarcata da un segnale a validità per zona, è rappresentato il medesimo segnale di quello installato all’entrata della zona in questione, ma il segnale è grigio su un pannello rettangolare a fondo chiaro. Una banda diagonale nera o grigia scura oppure una serie di tratti paralleli neri o grigi formanti una banda analoga è riposta sul pannello scendendo da destra a sinistra.
+  - Segnali di fine di zona sono posti su tutte le strade che possono essere utilizzate per lasciare la zona in questione.
+  - ii) I segnali E, 10<sup>a</sup>; E, 10<sup>b</sup>; E, 10<sup>c</sup> e E, 10<sup>d</sup> sono esempi di segnali che indicano la fine di una zona nella quale un segnale di prescrizione si applica a tutte le strade (validità per zona):
+  - E, 10<sup>a</sup> – Fine della zona in cui è vietata la sosta;
+  - E, 10<sup>b</sup> – Fine della zona in cui è vietata la sosta in determinati periodi;
+  - E, 10<sup>c</sup> – Fine della zona di parcheggio;
+  - E, 10<sup>d</sup> – Fine della zona con limite di velocità.
 
 ### 9. Segnali che indicano l’entrata o l’uscita da una galleria in cui si applicano norme speciali
 
@@ -1374,23 +1295,19 @@ b) Fine della zona
 
 ### 10. Segnale «Passaggio pedonale»
 
-a) Il segnale E, 12<sup>a</sup> «Passaggio pedonale» è impiegato per indicare ai pedoni ed ai conducenti la posizione di un passaggio pedonale. Il fondo del pannello è di colore blu o nero, il triangolo è bianco o giallo e il simbolo è nero o blu scuro; il simbolo è l’A, 12.
-
-b) Tuttavia, può essere impiegato anche il segnale E, 12<sup>b</sup> a forma di pentagono irregolare, con fondo blu e simbolo bianco oppure il segnale E, 12<sup>c</sup> a fondo scuro e simbolo bianco.
+- a) Il segnale E, 12<sup>a</sup> «Passaggio pedonale» è impiegato per indicare ai pedoni ed ai conducenti la posizione di un passaggio pedonale. Il fondo del pannello è di colore blu o nero, il triangolo è bianco o giallo e il simbolo è nero o blu scuro; il simbolo è l’A, 12.
+- b) Tuttavia, può essere impiegato anche il segnale E, 12<sup>b</sup> a forma di pentagono irregolare, con fondo blu e simbolo bianco oppure il segnale E, 12<sup>c</sup> a fondo scuro e simbolo bianco.
 
 ### 11. Segnale «Ospedale»
 
-a) Questo segnale è impiegato per indicare ai conducenti di veicoli che è necessario prendere le dovute precauzioni a causa della prossimità di una casa di cura, in particolare di evitare i rumori il più possibile. Vi sono due modelli di detti segnali: E, 13<sup>a</sup> e E, 13<sup>b</sup>.
-
-b) La croce rossa che figura nel segnale E, 13<sup>b</sup> può essere sostituita da uno dei simboli che figurano al paragrafo 1 della sottosezione II della sezione F.
+- a) Questo segnale è impiegato per indicare ai conducenti di veicoli che è necessario prendere le dovute precauzioni a causa della prossimità di una casa di cura, in particolare di evitare i rumori il più possibile. Vi sono due modelli di detti segnali: E, 13<sup>a</sup> e E, 13<sup>b</sup>.
+- b) La croce rossa che figura nel segnale E, 13<sup>b</sup> può essere sostituita da uno dei simboli che figurano al paragrafo 1 della sottosezione II della sezione F.
 
 ### 12. Segnale «Parcheggio»
 
-a) Il segnale E, 14<sup>a</sup> «Parcheggio» che può essere posto parallelamente all’asse della strada, indica i luoghi dove è autorizzato il parcheggio (sosta) dei veicoli. Il pannello è quadrato. Esso recherà la lettera o l’ideogramma utilizzato nello Stato interessato per indicare «Parcheggio». Questo segnale è su fondo blu.
-
-b) La direzione dell’area del parcheggio o le categorie dei veicoli per le quali l’area è adibita possono essere indicate su un pannello aggiuntivo posto sotto il segnale stesso o su un pannello aggiuntivo posto sotto il segnale. Iscrizioni analoghe possono egualmente limitare la durata del parcheggio autorizzato oppure precisare che un trasporto in comune è accessibile dal parcheggio con l’ausilio di un segno «+» seguito dall’indicazione del mezzo di trasporto specificato, oppure con l’ausilio di un’iscrizione letterale o di un simbolo.
-
-I segnali E, 14<sup>b</sup> e E, 14<sup>c</sup> sono esempi per la segnalazione di un parcheggio destinato più particolarmente ai veicoli i cui conducenti desiderano utilizzare un mezzo di trasporto in comune.
+- a) Il segnale E, 14<sup>a</sup> «Parcheggio» che può essere posto parallelamente all’asse della strada, indica i luoghi dove è autorizzato il parcheggio (sosta) dei veicoli. Il pannello è quadrato. Esso recherà la lettera o l’ideogramma utilizzato nello Stato interessato per indicare «Parcheggio». Questo segnale è su fondo blu.
+- b) La direzione dell’area del parcheggio o le categorie dei veicoli per le quali l’area è adibita possono essere indicate su un pannello aggiuntivo posto sotto il segnale stesso o su un pannello aggiuntivo posto sotto il segnale. Iscrizioni analoghe possono egualmente limitare la durata del parcheggio autorizzato oppure precisare che un trasporto in comune è accessibile dal parcheggio con l’ausilio di un segno «+» seguito dall’indicazione del mezzo di trasporto specificato, oppure con l’ausilio di un’iscrizione letterale o di un simbolo.
+- I segnali E, 14<sup>b</sup> e E, 14<sup>c</sup> sono esempi per la segnalazione di un parcheggio destinato più particolarmente ai veicoli i cui conducenti desiderano utilizzare un mezzo di trasporto in comune.
 
 ### 13. Segnali che indicano una fermata di autobus o di tram
 
@@ -1466,11 +1383,10 @@ Esempi di segnali di preavviso di direzione: G, 1<sup>a</sup>; G, 1<sup>b</sup> 
 
 ### 2. Casi particolari
 
-a) Esempi di segnali di preavviso per una «Strada senza uscita»: G, 2<sup>a</sup> e G, 2<sup>b</sup>.
+- a) Esempi di segnali di preavviso per una «Strada senza uscita»: G, 2<sup>a</sup> e G, 2<sup>b</sup>.
+- b) Esempio di segnale di preavviso per l’itinerario da seguire per svoltare a sinistra nel caso in cui la svolta a sinistra è proibita all’intersezione successiva: G, 3.
 
-b) Esempio di segnale di preavviso per l’itinerario da seguire per svoltare a sinistra nel caso in cui la svolta a sinistra è proibita all’intersezione successiva: G, 3.
-
-*Nota:* –È possibile aggiungere sui segnali di preavviso G, 1 la riproduzione di altri segnali che informano gli utenti della strada circa le particolarità del percorso o del modo di circolazione (p. es. segnali A, 2; A, 5; C, 3<sup>e</sup>; C, 6; E, 5<sup>a</sup>; F, 2).
+*Nota* – È possibile aggiungere sui segnali di preavviso G, 1 la riproduzione di altri segnali che informano gli utenti della strada circa le particolarità del percorso o del modo di circolazione (p. es. segnali A, 2; A, 5; C, 3<sup>e</sup>; C, 6; E, 5<sup>a</sup>; F, 2).
 
 ### III. Segnali di direzione
 
@@ -1484,7 +1400,7 @@ b) Esempio di segnale di preavviso per l’itinerario da seguire per svoltare a 
 
 \5. Esempi di segnali che indicano la direzione di un parcheggio destinato più particolarmente ai veicoli i cui conducenti desiderano utilizzare un trasporto in comune: G, 9<sup>a</sup> e G, 9<sup>b</sup>. Le caratteristiche di quest’ultimo possono essere indicate con l’ausilio di un’iscrizione letterale o di un simbolo.
 
-*Nota:* –È possibile aggiungere sui segnali di indicazione di direzione G, 4; G, 5 e G, 6 la riproduzione di altri segnali che informano gli utenti della strada circa le particolarità del percorso o del modo di circolazione (p. es. segnali A, 2; A, 5; C, 3<sup>e</sup>; C, 6; E, 5<sup>a</sup>; F, 2).
+*Nota* – È possibile aggiungere sui segnali di indicazione di direzione G, 4; G, 5 e G, 6 la riproduzione di altri segnali che informano gli utenti della strada circa le particolarità del percorso o del modo di circolazione (p. es. segnali A, 2; A, 5; C, 3<sup>e</sup>; C, 6; E, 5<sup>a</sup>; F, 2).
 
 ### IV. Segnali di conferma
 
@@ -1514,19 +1430,13 @@ Il bordo del segnale e la sua parte superiore sono blu; il nome del Paese e il f
 
 ### 5. Segnale «Praticabilità della strada»
 
-a) Il segnale G, 15 «Praticabilità della strada» è impiegato per indicare se una strada di montagna, soprattutto al transito di un passo, è aperta o chiusa; esso è posto all’imbocco della strada o delle strade che conducono al passo in questione.
-
-Il nome del passo è scritto in bianco. Nel segnale è riportato, a titolo d’esempio, il toponimo «Furka».
-
-I pannelli 1, 2 e 3 sono mobili.
-
-b) Se il passo è chiuso, il pannello 1 è di colore rosso e reca la scritta «Chiuso»; se il passo è aperto, esso è di colore verde e reca la scritta «Aperto». Le scritte sono in bianco e, preferibilmente, in più lingue.
-
-c) I pannelli 2 e 3 sono a fondo bianco con scritte e simboli in nero.
-
-Se il passo è aperto, il pannello 3 non porta alcuna indicazione ed il pannello 2, secondo lo stato della strada, non reca alcuna indicazione, oppure mostra il segnale D, 9 «Catene a neve obbligatorie» oppure mostra il simbolo G, 16 «Si raccomandano catene o pneumatici da neve»; questo simbolo deve essere nero.
-
-Se il passo è chiuso, il pannello 3 reca il nome della località sino alla quale la strada è aperta ed il pannello 2 reca, secondo lo stato della strada, la scritta «Aperto fino a», sia il simbolo G, 16, sia il segnale D, 9.
+- a) Il segnale G, 15 «Praticabilità della strada» è impiegato per indicare se una strada di montagna, soprattutto al transito di un passo, è aperta o chiusa; esso è posto all’imbocco della strada o delle strade che conducono al passo in questione.
+- Il nome del passo è scritto in bianco. Nel segnale è riportato, a titolo d’esempio, il toponimo «Furka».
+- I pannelli 1, 2 e 3 sono mobili.
+- b) Se il passo è chiuso, il pannello 1 è di colore rosso e reca la scritta «Chiuso»; se il passo è aperto, esso è di colore verde e reca la scritta «Aperto». Le scritte sono in bianco e, preferibilmente, in più lingue.
+- c) I pannelli 2 e 3 sono a fondo bianco con scritte e simboli in nero.
+- Se il passo è aperto, il pannello 3 non porta alcuna indicazione ed il pannello 2, secondo lo stato della strada, non reca alcuna indicazione, oppure mostra il segnale D, 9 «Catene a neve obbligatorie» oppure mostra il simbolo G, 16 «Si raccomandano catene o pneumatici da neve»; questo simbolo deve essere nero.
+- Se il passo è chiuso, il pannello 3 reca il nome della località sino alla quale la strada è aperta ed il pannello 2 reca, secondo lo stato della strada, la scritta «Aperto fino a», sia il simbolo G, 16, sia il segnale D, 9.
 
 ### 6. Segnale «Velocità consigliata»
 
@@ -1554,11 +1464,9 @@ I segnali G, 22<sup>a</sup>; G, 22<sup>b</sup> e G, 22<sup>c</sup> sono esempi d
 
 ### 11. Segnali che indicano le uscite di emergenza
 
-a) I segnali G, 23<sup>a</sup> e G, 23<sup>b</sup> indicano il punto dove si trovano le uscite di emergenza.
-
-b) I segnali G, 24<sup>a</sup>, G, 24<sup>b</sup> e G, 24<sup>c</sup> sono esempi per indicare la direzione e la distanza rispetto alle uscite di emergenza più vicine. Nelle gallerie i segnali non devono essere distanti più di 50 m gli uni dagli altri e devono essere posti sulle pareti a un’altezza compresa tra 1 m e 1,5 m.
-
-c) I segnali G, 23 e G, 24 hanno un fondo di colore verde e i simboli, le frecce e le indicazioni delle distanze sono bianchi o di colore chiaro.
+- a) I segnali G, 23<sup>a</sup> e G, 23<sup>b</sup> indicano il punto dove si trovano le uscite di emergenza.
+- b) I segnali G, 24<sup>a</sup>, G, 24<sup>b</sup> e G, 24<sup>c</sup> sono esempi per indicare la direzione e la distanza rispetto alle uscite di emergenza più vicine. Nelle gallerie i segnali non devono essere distanti più di 50 m gli uni dagli altri e devono essere posti sulle pareti a un’altezza compresa tra 1 m e 1,5 m.
+- c) I segnali G, 23 e G, 24 hanno un fondo di colore verde e i simboli, le frecce e le indicazioni delle distanze sono bianchi o di colore chiaro.
 
 ### Sezione H Pannelli aggiuntivi
 
@@ -1580,9 +1488,9 @@ Nel caso in cui una categoria di utenti sia da escludere dalla disposizione di u
 
 \7. Per indicare un tratto di strada dove la carreggiata è resa scivolosa da ghiaccio o neve, è impiegato il pannello aggiuntivo H, 9.
 
-*Nota concernente tutto l’allegato 1:* Nei Paesi in cui si circola a sinistra, i segnali e/o i simboli sono invertiti.»
+*Nota concernente tutto l’allegato 1* – Nei Paesi in cui si circola a sinistra, i segnali e/o i simboli sono invertiti.»
 
-Allegato 2*[^t-5]* *[^t-6]*
+Allegato 2[^t-5] [^t-6]
 
 ## Segnaletica orizzontale
 
@@ -1659,7 +1567,7 @@ Allegato 2*[^t-5]* *[^t-6]*
 \24. La scelta della distanza di visibilità da adottare per la determinazione dei tratti in cui una striscia continua sia o no necessaria, come anche la scelta della lunghezza da dare a detta striscia, sono necessariamente il risultato di un compromesso. La tabella seguente riporta il valore raccomandato per M corrispondente a diverse velocità di avvicinamento[^annex2-lvlu1-chapII-lvlC-lvlu2-1]:
 
 <table>
-<tr><td>Velocità di avvicinamento</td><td>Lista dei valori di M</td></tr>
+<tr><th>Velocità di avvicinamento</th><th>Lista dei valori di M</th></tr>
 <tr><td>100 km/h (60 miglia/h)</td><td>da 160 m (480 piedi) a 320 m (960 piedi)</td></tr>
 <tr><td>80 km/h (50 miglia/h)</td><td>da 130 m (380 piedi) a 260 m (760 piedi)</td></tr>
 <tr><td>65 km/h (40 miglia/h)</td><td>da 90 m (270 piedi) a 180 m (540 piedi)</td></tr>
@@ -1716,7 +1624,7 @@ La demarcazione delle corsie riservate a talune categorie di veicoli è realizza
 
 ### E. Attraversamento di piste ciclabili
 
-\38. Gli attraversamenti di piste ciclabili dovranno essere indicati per mezzo di due strisce discontinue. Queste strisce discontinue saranno costituite di preferenza da quadrati di formato (0,40 ÷0,60) x (0,40 ÷ 0,60) m [(16 ÷ 24) x (16 ÷ 24) pollici] La distanza tra questi quadrati dovrà variare da 0,40 a 0,60 m (16 24 pollici). La larghezza del passaggio non deve essere inferiore a 1,80 m (6 piedi). Chiodi ed inserti non sono raccomandati.
+\38. Gli attraversamenti di piste ciclabili dovranno essere indicati per mezzo di due strisce discontinue. Queste strisce discontinue saranno costituite di preferenza da quadrati di formato (0,40 ÷ 0,60) × (0,40 ÷ 0,60) m [(16 ÷ 24) × (16 ÷ 24) pollici] La distanza tra questi quadrati dovrà variare da 0,40 a 0,60 m (16–24 pollici). La larghezza del passaggio non deve essere inferiore a 1,80 m (6 piedi). Chiodi ed inserti non sono raccomandati.
 
 ### Capitolo IV Altri segni
 
@@ -1750,249 +1658,251 @@ ii) Segnalazioni sugli ostacoli
 
 \46. La figura 27 dà un esempio di segnalazione su di un ostacolo.
 
-Allegato 3*[^t-7]*
+Allegato 3[^t-7]
 
 ## Riproduzione a colori dei segnali, simboli e pannelli di cui all’Allegato 1
 
 [^t-7]: Originario all. 9. Nuovo testo giusta il n. I dell’emendamento entrato in vigore il 30 nov. 1995 ([RU 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)). Aggiornato dalla lett. B degli emendamenti entrati in vigore il 28 mar. 2007 ([RU 2007 3705](https://fedlex.data.admin.ch/eli/oc/2007/466)).
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image1.png) A<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image2.png) A<sup>b</sup></td><td colspan="3"></td><td colspan="2"></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image3.png) A 1<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image4.png) A 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image5.png) A 1<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image6.png) A 1<sup>d</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image7.png) A 2<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image8.png) A 2<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image9.png) A 2<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image10.png) A 2<sup>d</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image11.png) A 3<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image12.png) A 3<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image13.png) A 3<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image14.png) A 3<sup>d</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image15.png) A 4<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image16.png) A 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image17.png) A 5</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image18.png) A 6</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image19.png) A 7<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image20.png) A 7<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image21.png) A 7<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image22.png) A 8</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image23.png) A 9</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image24.png) A 10<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image25.png) A 10<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image26.png) A 11<sup>a</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image27.png) A 11<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image28.png) A 12<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image29.png) A 12<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image30.png) A 13</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image31.png) A 14</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image32.png) A 15<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image33.png) A 15<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image34.png) A 16</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image35.png) A 17<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image36.png) A 17<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image37.png) A 17<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image38.png) A 18<sup>a</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image39.png) A 18<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image40.png) A 18<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image41.png) A 18<sup>d</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image42.png) A 18<sup>e</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image43.png) A 18<sup>f</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image44.png) A 18<sup>g</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image45.png) A 19<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image46.png) A 19<sup>b</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image47.png) A 19<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image48.png) A 20</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image49.png) A 21<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image50.png) A 21<sup>b</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image51.png) A 22</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image52.png) A 23</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image53.png) A 24</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image54.png) A 25</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image55.png) A 26<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image56.png) A 26<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image57.png) A 27</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image58.png) A 28<sup>a</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image59.png) A 28<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image60.png) A 28<sup>c</sup></td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image61.png) A 29<sup>a</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image62.png) A 29<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image63.png) A 29<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image64.png) A 30</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image65.png) A 31</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image66.png) A 32</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image67.png) B 1</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image68.png) B 2<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image69.png) B 2<sup>b</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image70.png) B 3</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image71.png) B 4</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image72.png) B 5</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image73.png) B 6</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image74.png) C 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image75.png) C 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image76.png) C 2</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image77.png) C 3<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image78.png) C 3<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image79.png) C 3<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image80.png) C 3<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image81.png) C 3<sup>e</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image82.png) C 3<sup>f</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image83.png) C 3<sup>g</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image84.png) C 3<sup>h</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image85.png) C 3<sup>i</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image86.png) C 3<sup>j</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image87.png) C 3<sup>k</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image88.png) C 3<sup>l</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image89.png) C 4<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image90.png) C 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image91.png) C 5</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image92.png) C 6</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image93.png) C 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image94.png) C 8</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image95.png) C 9</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image96.png) C 10</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image97.png) C 11<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image98.png) C 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image99.png) C 12</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image100.png) C 13<sup>aa</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image101.png) C 13<sup>ab</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image102.png) C 13<sup>ba</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image103.png) C 13<sup>bb</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image104.png) C 14</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image105.png) C 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image106.png) C 16</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image107.png) C 17<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image108.png) C 17<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image109.png) C 17<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image110.png) C 17<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image111.png) C 18</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image112.png) C 19</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image113.png) C 20<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image114.png) C 20<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image115.png) D 1<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image116.png) D 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image117.png) D 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image118.png) D 1<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image119.png) D 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image120.png) D 2</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image121.png) D 3</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image122.png) D 4</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image123.png) D 5</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image124.png) D 6</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image125.png) D 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image126.png) D 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image127.png) D 9</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image128.png) D 10<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image129.png) D 10<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image130.png) D 10<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image131.png) D 11<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image132.png) D 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image133.png) E 1<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image134.png) E 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image135.png) E 1<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image136.png) E 2<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image137.png) E 2<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image138.png) E3<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image139.png) E 3<sup>b</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image140.png) E 4</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image141.png) E 5<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image142.png) E 5<sup>b</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image143.png) E 6<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image144.png) E 6<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image145.png) E 7<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image146.png) E 7<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image147.png) E 7<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image148.png) E 7<sup>d</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image149.png) E 8<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image150.png) E 8<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image151.png) E 8<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image152.png) E 8<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image153.png) E 9<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image154.png) E 9<sup>b</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image155.png) E 9<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image156.png) E 9<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image157.png) E 10<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image158.png) E 10<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image159.png) E 10<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image160.png) E 10<sup>d</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image161.png) E 11<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image162.png) E 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image163.png) E 12<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image164.png) E 12<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image165.png) E 12<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image166.png) E 13<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image167.png) E 13<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image168.png) E 14<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image169.png) E 14<sup>b</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image170.png) E 14<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image171.png) E 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image172.png) E 16</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image173.png) E 17<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image174.png) E 17<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image175.png) F</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image176.png) F 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image177.png) F 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image178.png) F 1<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image179.png) F 2</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image180.png) F 3</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image181.png) F 4</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image182.png) F 5</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image183.png) F 6</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image184.png) F 7</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image185.png) F 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image186.png) F 9</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image187.png) F 10</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image188.png) F 11</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image189.png) F 12</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image190.png) F 13</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image191.png) F 14</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image192.png) F 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image193.png) G 1<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image194.png) G 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image195.png) G 1<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image196.png) G 2<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image197.png) G 2<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image198.png) G 3</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image199.png) G 4<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image200.png) G 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image201.png) G 4<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image202.png) G 5</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image203.png) G 6<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image204.png) G 6<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image205.png) G 6<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image206.png) G 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image207.png) G 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image208.png) G 9a</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image209.png) G 9<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image210.png) G 10</td><td colspan="3"></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image211.png) G 11<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image212.png) G 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image213.png) G 11<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image214.png) G 12<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image215.png) G 12<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image216.png) G 13</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image217.png) G 14</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image218.png) G 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image219.png) G 16</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image220.png) G 17</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image221.png) G 18</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image222.png) G 19</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image223.png) G 20</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image224.png) G 21</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image225.png) G 22<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image226.png) G 22<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image227.png) G 22<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image228.png) G 23<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image229.png) G 23<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image230.png) G 24<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image231.png) G 24<sup>b</sup></td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image232.png) G 24<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image233.png) H 1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image234.png) H 2</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image235.png) H 3<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image236.png) H 3<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image237.png) H 3<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image238.png) H 4<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image239.png) H 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image240.png) H 4<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image241.png) H 5<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image242.png) H 5<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image243.png) H 6</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image244.png) H 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image245.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image246.png) H 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image247.png) H 9</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image1.png) A<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image2.png) A<sup>b</sup></td><td colspan="3"></td><td colspan="2"></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image3.png) A 1<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image4.png) A 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image5.png) A 1<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image6.png) A 1<sup>d</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image7.png) A 2<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image8.png) A 2<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image9.png) A 2<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image10.png) A 2<sup>d</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image11.png) A 3<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image12.png) A 3<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image13.png) A 3<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image14.png) A 3<sup>d</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image15.png) A 4<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image16.png) A 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image17.png) A 5</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image18.png) A 6</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image19.png) A 7<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image20.png) A 7<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image21.png) A 7<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image22.png) A 8</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image23.png) A 9</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image24.png) A 10<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image25.png) A 10<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image26.png) A 11<sup>a</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image27.png) A 11<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image28.png) A 12<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image29.png) A 12<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image30.png) A 13</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image31.png) A 14</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image32.png) A 15<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image33.png) A 15<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image34.png) A 16</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image35.png) A 17<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image36.png) A 17<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image37.png) A 17<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image38.png) A 18<sup>a</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image39.png) A 18<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image40.png) A 18<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image41.png) A 18<sup>d</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image42.png) A 18<sup>e</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image43.png) A 18<sup>f</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image44.png) A 18<sup>g</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image45.png) A 19<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image46.png) A 19<sup>b</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image47.png) A 19<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image48.png) A 20</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image49.png) A 21<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image50.png) A 21<sup>b</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image51.png) A 22</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image52.png) A 23</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image53.png) A 24</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image54.png) A 25</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image55.png) A 26<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image56.png) A 26<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image57.png) A 27</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image58.png) A 28<sup>a</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image59.png) A 28<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image60.png) A 28<sup>c</sup></td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image61.png) A 29<sup>a</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image62.png) A 29<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image63.png) A 29<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image64.png) A 30</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image65.png) A 31</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image66.png) A 32</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image67.png) B 1</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image68.png) B 2<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image69.png) B 2<sup>b</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image70.png) B 3</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image71.png) B 4</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image72.png) B 5</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image73.png) B 6</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image74.png) C 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image75.png) C 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image76.png) C 2</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image77.png) C 3<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image78.png) C 3<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image79.png) C 3<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image80.png) C 3<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image81.png) C 3<sup>e</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image82.png) C 3<sup>f</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image83.png) C 3<sup>g</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image84.png) C 3<sup>h</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image85.png) C 3<sup>i</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image86.png) C 3<sup>j</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image87.png) C 3<sup>k</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image88.png) C 3<sup>l</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image89.png) C 4<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image90.png) C 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image91.png) C 5</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image92.png) C 6</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image93.png) C 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image94.png) C 8</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image95.png) C 9</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image96.png) C 10</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image97.png) C 11<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image98.png) C 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image99.png) C 12</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image100.png) C 13<sup>aa</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image101.png) C 13<sup>ab</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image102.png) C 13<sup>ba</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image103.png) C 13<sup>bb</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image104.png) C 14</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image105.png) C 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image106.png) C 16</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image107.png) C 17<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image108.png) C 17<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image109.png) C 17<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image110.png) C 17<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image111.png) C 18</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image112.png) C 19</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image113.png) C 20<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image114.png) C 20<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image115.png) D 1<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image116.png) D 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image117.png) D 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image118.png) D 1<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image119.png) D 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image120.png) D 2</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image121.png) D 3</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image122.png) D 4</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image123.png) D 5</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image124.png) D 6</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image125.png) D 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image126.png) D 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image127.png) D 9</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image128.png) D 10<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image129.png) D 10<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image130.png) D 10<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image131.png) D 11<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image132.png) D 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image133.png) E 1<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image134.png) E 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image135.png) E 1<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image136.png) E 2<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image137.png) E 2<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image138.png) E3<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image139.png) E 3<sup>b</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image140.png) E 4</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image141.png) E 5<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image142.png) E 5<sup>b</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image143.png) E 6<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image144.png) E 6<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image145.png) E 7<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image146.png) E 7<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image147.png) E 7<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image148.png) E 7<sup>d</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image149.png) E 8<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image150.png) E 8<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image151.png) E 8<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image152.png) E 8<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image153.png) E 9<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image154.png) E 9<sup>b</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image155.png) E 9<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image156.png) E 9<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image157.png) E 10<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image158.png) E 10<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image159.png) E 10<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image160.png) E 10<sup>d</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image161.png) E 11<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image162.png) E 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image163.png) E 12<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image164.png) E 12<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image165.png) E 12<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image166.png) E 13<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image167.png) E 13<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image168.png) E 14<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image169.png) E 14<sup>b</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image170.png) E 14<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image171.png) E 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image172.png) E 16</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image173.png) E 17<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image174.png) E 17<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image175.png) F</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image176.png) F 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image177.png) F 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image178.png) F 1<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image179.png) F 2</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image180.png) F 3</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image181.png) F 4</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image182.png) F 5</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image183.png) F 6</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image184.png) F 7</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image185.png) F 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image186.png) F 9</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image187.png) F 10</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image188.png) F 11</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image189.png) F 12</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image190.png) F 13</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image191.png) F 14</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image192.png) F 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image193.png) G 1<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image194.png) G 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image195.png) G 1<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image196.png) G 2<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image197.png) G 2<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image198.png) G 3</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image199.png) G 4<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image200.png) G 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image201.png) G 4<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image202.png) G 5</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image203.png) G 6<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image204.png) G 6<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image205.png) G 6<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image206.png) G 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image207.png) G 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image208.png) G 9a</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image209.png) G 9<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image210.png) G 10</td><td colspan="3"></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image211.png) G 11<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image212.png) G 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image213.png) G 11<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image214.png) G 12<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image215.png) G 12<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image216.png) G 13</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image217.png) G 14</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image218.png) G 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image219.png) G 16</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image220.png) G 17</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image221.png) G 18</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image222.png) G 19</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image223.png) G 20</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image224.png) G 21</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image225.png) G 22<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image226.png) G 22<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image227.png) G 22<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image228.png) G 23<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image229.png) G 23<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image230.png) G 24<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image231.png) G 24<sup>b</sup></td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image232.png) G 24<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image233.png) H 1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image234.png) H 2</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image235.png) H 3<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image236.png) H 3<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image237.png) H 3<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image238.png) H 4<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image239.png) H 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image240.png) H 4<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image241.png) H 5<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image242.png) H 5<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image243.png) H 6</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image244.png) H 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image245.png) H 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image246.png) H 9</td></tr>
 </table>
 
 Legenda dei colori
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image248.png) = blu
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image247.png) = blu
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image249.png) = giallo
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image248.png) = giallo
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image250.png) = grigio
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image249.png) = grigio
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image251.png) = verde
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image250.png) = verde
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image252.png)= arancio
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image251.png) = arancio
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image253.png) = rosso
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image252.png) = rosso
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image254.png) = nero
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image253.png) = nero
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image255.png) = viola
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image254.png) = viola
 
 ### Diagrammi dell’allegato 2
 
-### Diagramma 1 a
+### Diagramma 1a
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image256.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image255.png)
 
-### Diagramma 1 b
+### Diagramma 1b
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image257.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image256.png)
 
 ### Diagramma 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image258.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image257.png)
 
 ### Diagramma 3
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image259.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image258.png)
 
 ### Diagramma 4
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image260.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image259.png)
 
 ### Diagramma 5
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image261.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image260.png)
 
 ### Diagramma 6
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image262.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image261.png)
 
-### Diagrammi 7a – 8 d
+### Diagrammi 7a–8d
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image263.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image262.png)
 
-### Diagrammi 9 – 10 b
+### Diagrammi 9–10b
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image264.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image263.png)
 
-### Diagrammi 11 a – 11 c
+### Diagrammi 11a–11c
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image265.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image264.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image266.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image265.png)
 
-### Diagrammi 12 – 15
+### Diagrammi 12–15
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image267.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image266.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image268.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image267.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image269.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image268.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image270.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image269.png)
 
-### Diagrammi 16 – 18
+### Diagrammi 16–18
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image271.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image270.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image272.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image271.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image273.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image272.png)
 
 ### Diagramma 19
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image274.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image273.png)
 
 ### Diagramma 20
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image275.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image274.png)
 
 ### Diagramma 21
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image276.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image275.png)
 
 ### Diagramma 22
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image277.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image276.png)
 
 ### Diagramma 23
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image278.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image277.png)
 
 ### Diagramma 24
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image279.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image278.png)
 
 ### Diagramme 25
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image280.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image279.png)
 
 ### Diagramma 26
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image281.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image280.png)
 
 ### Diagramma 27
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image282.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image281.png)
 
 ### Diagramma A 58<sup>a</sup>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image283.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image282.png)
 
 ### Diagramma A 58<sup>b</sup>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/it/xml/image/image284.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/it/xml/image/image283.png)
 
-Campo d’applicazione il 2 giugno 2020**[^t-8]**
+Campo d’applicazione il 20 giugno 2023[^t-8]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>6 febbraio</td><td>2004 A</td><td>6 febbraio</td><td>2005</td></tr>
-<tr><td>Armenia<sup>\*\*</sup></td><td>28 giugno</td><td>2018 A</td><td>28 giugno</td><td>2019</td></tr>
-<tr><td>Austria<sup>\*</sup></td><td>11 agosto</td><td>1981</td><td>11 agosto</td><td>1982</td></tr>
-<tr><td>Azerbaigian<sup>\*</sup></td><td>22 febbraio</td><td>2011 A</td><td>22 febbraio</td><td>2012</td></tr>
+<tr><td>Arabia Saudita<sup>\*</sup></td><td>31 marzo</td><td>2022 A</td><td>31 marzo</td><td>2023</td></tr>
+<tr><td>Armenia\*\*</td><td>28 giugno</td><td>2018 A</td><td>28 giugno</td><td>2019</td></tr>
+<tr><td>Austria\*</td><td>11 agosto</td><td>1981</td><td>11 agosto</td><td>1982</td></tr>
+<tr><td>Azerbaigian\*</td><td>22 febbraio</td><td>2011 A</td><td>22 febbraio</td><td>2012</td></tr>
 <tr><td>Bahrein</td><td>4 maggio</td><td>1973 A</td><td>6 giugno</td><td>1978</td></tr>
-<tr><td>Belarus<sup>\*</sup></td><td>18 giugno</td><td>1974</td><td>6 giugno</td><td>1978</td></tr>
-<tr><td>Belgio<sup>\*</sup></td><td>16 novembre</td><td>1988</td><td>16 novembre</td><td>1989</td></tr>
+<tr><td>Belarus\*</td><td>18 giugno</td><td>1974</td><td>6 giugno</td><td>1978</td></tr>
+<tr><td>Belgio\*</td><td>16 novembre</td><td>1988</td><td>16 novembre</td><td>1989</td></tr>
+<tr><td>Benin</td><td>7 luglio</td><td>2022 A</td><td>7 luglio</td><td>2023</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>12 gennaio</td><td>1994 S</td><td>6 marzo</td><td>1992</td></tr>
-<tr><td>Bulgaria<sup>\*</sup></td><td>28 dicembre</td><td>1978</td><td>28 dicembre</td><td>1979</td></tr>
+<tr><td>Bulgaria\*</td><td>28 dicembre</td><td>1978</td><td>28 dicembre</td><td>1979</td></tr>
 <tr><td>Ceca, Repubblica</td><td>2 giugno</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Cile</td><td>27 dicembre</td><td>1974</td><td>6 giugno</td><td>1978</td></tr>
-<tr><td>Cipro<sup>\*</sup></td><td>16 agosto</td><td>2016 A</td><td>16 agosto</td><td>2017</td></tr>
-<tr><td>Congo (Kinshasa)<sup>\*</sup></td><td>25 luglio</td><td>1977 A</td><td>25 luglio</td><td>1978</td></tr>
-<tr><td>Côte d’Ivoire<sup>\*</sup></td><td>24 luglio</td><td>1985 A</td><td>24 luglio</td><td>1986</td></tr>
+<tr><td>Cipro\*</td><td>16 agosto</td><td>2016 A</td><td>16 agosto</td><td>2017</td></tr>
+<tr><td>Congo (Kinshasa)\*</td><td>25 luglio</td><td>1977 A</td><td>25 luglio</td><td>1978</td></tr>
+<tr><td>Côte d’Ivoire\*</td><td>24 luglio</td><td>1985 A</td><td>24 luglio</td><td>1986</td></tr>
 <tr><td>Croazia</td><td>2 novembre</td><td>1993 S</td><td>8 ottobre</td><td>1991</td></tr>
-<tr><td>Cuba<sup>\*</sup></td><td>30 settembre</td><td>1977 A</td><td>30 settembre</td><td>1978</td></tr>
-<tr><td>Danimarca<sup>\*</sup></td><td>3 novembre</td><td>1986</td><td>3 novembre</td><td>1987</td></tr>
+<tr><td>Cuba\*</td><td>30 settembre</td><td>1977 A</td><td>30 settembre</td><td>1978</td></tr>
+<tr><td>Danimarca\*</td><td>3 novembre</td><td>1986</td><td>3 novembre</td><td>1987</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>10 gennaio</td><td>2007 A</td><td>10 gennaio</td><td>2008</td></tr>
-<tr><td>Estonia<sup>\*</sup></td><td>24 agosto</td><td>1992 A</td><td>24 agosto</td><td>1993</td></tr>
+<tr><td>Estonia\*</td><td>24 agosto</td><td>1992 A</td><td>24 agosto</td><td>1993</td></tr>
 <tr><td>Filippine</td><td>27 dicembre</td><td>1973</td><td>6 giugno</td><td>1978</td></tr>
-<tr><td>Finlandia<sup>\*</sup></td><td>1° aprile</td><td>1985</td><td>1° aprile</td><td>1986</td></tr>
-<tr><td>Francia<sup>\*</sup></td><td>9 dicembre</td><td>1971</td><td>6 giugno</td><td>1978</td></tr>
+<tr><td>Finlandia\*</td><td>1° aprile</td><td>1985</td><td>1° aprile</td><td>1986</td></tr>
+<tr><td>Francia\*</td><td>9 dicembre</td><td>1971</td><td>6 giugno</td><td>1978</td></tr>
 <tr><td>Georgia</td><td>15 maggio</td><td>2001 A</td><td>15 maggio</td><td>2002</td></tr>
-<tr><td>Germania<sup>\*</sup></td><td>3 agosto</td><td>1978</td><td>3 agosto</td><td>1979</td></tr>
-<tr><td>Grecia<sup>\*</sup></td><td>18 dicembre</td><td>1986 A</td><td>18 dicembre</td><td>1987</td></tr>
+<tr><td>Germania\*</td><td>3 agosto</td><td>1978</td><td>3 agosto</td><td>1979</td></tr>
+<tr><td>Grecia\*</td><td>18 dicembre</td><td>1986 A</td><td>18 dicembre</td><td>1987</td></tr>
 <tr><td>Guyana</td><td>25 settembre</td><td>2008 A</td><td>25 settembre</td><td>2009</td></tr>
-<tr><td>India<sup>\*</sup></td><td>10 marzo</td><td>1980 A</td><td>10 marzo</td><td>1981</td></tr>
+<tr><td>India\*</td><td>10 marzo</td><td>1980 A</td><td>10 marzo</td><td>1981</td></tr>
 <tr><td>Iran</td><td>21 maggio</td><td>1976</td><td>6 giugno</td><td>1978</td></tr>
-<tr><td>Iraq<sup>\*</sup></td><td>18 dicembre</td><td>1988 A</td><td>18 dicembre</td><td>1989</td></tr>
+<tr><td>Iraq\*</td><td>18 dicembre</td><td>1988 A</td><td>18 dicembre</td><td>1989</td></tr>
 <tr><td>Italia</td><td>7 febbraio</td><td>1997</td><td>7 febbraio</td><td>1998</td></tr>
 <tr><td>Kazakstan</td><td>4 aprile</td><td>1994 A</td><td>4 aprile</td><td>1995</td></tr>
 <tr><td>Kirghizistan</td><td>30 agosto</td><td>2006 A</td><td>30 agosto</td><td>2007</td></tr>
@@ -2000,45 +1910,47 @@ Campo d’applicazione il 2 giugno 2020**[^t-8]**
 <tr><td>Lettonia</td><td>19 ottobre</td><td>1992 A</td><td>19 ottobre</td><td>1993</td></tr>
 <tr><td>Liberia</td><td>16 settembre</td><td>2005 A</td><td>16 settembre</td><td>2006</td></tr>
 <tr><td>Liechtenstein\*</td><td>2 marzo</td><td>2020 A</td><td>2 marzo</td><td>2021</td></tr>
-<tr><td>Lituania<sup>\*</sup></td><td>20 novembre</td><td>1991 A</td><td>20 novembre</td><td>1992</td></tr>
-<tr><td>Lussemburgo<sup>\*</sup></td><td>25 novembre</td><td>1975</td><td>6 giugno</td><td>1978</td></tr>
+<tr><td>Lituania\*</td><td>20 novembre</td><td>1991 A</td><td>20 novembre</td><td>1992</td></tr>
+<tr><td>Lussemburgo\*</td><td>25 novembre</td><td>1975</td><td>6 giugno</td><td>1978</td></tr>
 <tr><td>Macedonia del Nord</td><td>20 dicembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
-<tr><td>Marocco<sup>\*</sup></td><td>29 dicembre</td><td>1982 A</td><td>29 dicembre</td><td>1983</td></tr>
+<tr><td>Maldive</td><td>9 gennaio</td><td>2023 A</td><td>9 gennaio</td><td>2024</td></tr>
+<tr><td>Marocco\*</td><td>29 dicembre</td><td>1982 A</td><td>29 dicembre</td><td>1983</td></tr>
 <tr><td>Moldova</td><td>8 ottobre</td><td>2015 A</td><td>8 ottobre</td><td>2016</td></tr>
 <tr><td>Mongolia</td><td>19 dicembre</td><td>1997 A</td><td>19 dicembre</td><td>1998</td></tr>
 <tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
-<tr><td>Myanmar<sup>\*</sup></td><td>26 giugno</td><td>2019 A</td><td>26 giugno</td><td>2020</td></tr>
+<tr><td>Myanmar\*</td><td>26 giugno</td><td>2019 A</td><td>26 giugno</td><td>2020</td></tr>
 <tr><td>Nigeria</td><td>3 febbraio</td><td>2011 A</td><td>3 febbraio</td><td>2012</td></tr>
-<tr><td>Norvegia<sup>\*</sup></td><td>1° aprile</td><td>1985</td><td>1° aprile</td><td>1986</td></tr>
-<tr><td>Paesi Bassi<sup>\*</sup> <sup>a</sup></td><td>8 novembre</td><td>2007 A</td><td>8 novembre</td><td>2008</td></tr>
+<tr><td>Norvegia\*</td><td>1° aprile</td><td>1985</td><td>1° aprile</td><td>1986</td></tr>
+<tr><td>Paesi Bassi\* <sup>a</sup></td><td>8 novembre</td><td>2007 A</td><td>8 novembre</td><td>2008</td></tr>
 <tr><td>Pakistan</td><td>14 gennaio</td><td>1980 A</td><td>14 gennaio</td><td>1981</td></tr>
 <tr><td>Polonia</td><td>23 agosto</td><td>1984</td><td>23 agosto</td><td>1985</td></tr>
 <tr><td>Portogallo</td><td>27 ottobre</td><td>2009</td><td>27 ottobre</td><td>2010</td></tr>
 <tr><td>Rep. Centrafricana</td><td>3 febbraio</td><td>1988 A</td><td>3 febbraio</td><td>1989</td></tr>
-<tr><td>Romania<sup>\*</sup></td><td>9 dicembre</td><td>1980</td><td>9 dicembre</td><td>1981</td></tr>
-<tr><td>Russia<sup>\*</sup></td><td>7 giugno</td><td>1974</td><td>6 giugno</td><td>1978</td></tr>
+<tr><td>Romania\*</td><td>9 dicembre</td><td>1980</td><td>9 dicembre</td><td>1981</td></tr>
+<tr><td>Russia\*</td><td>7 giugno</td><td>1974</td><td>6 giugno</td><td>1978</td></tr>
 <tr><td>San Marino</td><td>20 luglio</td><td>1970</td><td>6 giugno</td><td>1978</td></tr>
-<tr><td>Seicelle<sup>\*</sup></td><td>11 aprile</td><td>1977 A</td><td>6 giugno</td><td>1978</td></tr>
+<tr><td>Seicelle\*</td><td>11 aprile</td><td>1977 A</td><td>6 giugno</td><td>1978</td></tr>
 <tr><td>Senegal</td><td>19 aprile</td><td>1972 A</td><td>6 giugno</td><td>1978</td></tr>
 <tr><td>Serbia</td><td>12 marzo</td><td>2001 S</td><td>27 aprile</td><td>1992</td></tr>
 <tr><td>Slovacchia</td><td>28 maggio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>14 aprile</td><td>2011 S</td><td>25 giugno</td><td>1991</td></tr>
-<tr><td>Svezia<sup>\*</sup></td><td>25 luglio</td><td>1985</td><td>25 luglio</td><td>1986</td></tr>
-<tr><td>Svizzera<sup>\*</sup></td><td>11 dicembre</td><td>1991</td><td>11 dicembre</td><td>1992</td></tr>
+<tr><td>Svezia\*</td><td>25 luglio</td><td>1985</td><td>25 luglio</td><td>1986</td></tr>
+<tr><td>Svizzera\*</td><td>11 dicembre</td><td>1991</td><td>11 dicembre</td><td>1992</td></tr>
 <tr><td>Tagikistan</td><td>9 marzo</td><td>1994 A</td><td>9 marzo</td><td>1995</td></tr>
-<tr><td>Tunisia<sup>\*</sup></td><td>5 gennaio</td><td>2004 A</td><td>5 gennaio</td><td>2005</td></tr>
+<tr><td>Tunisia\*</td><td>5 gennaio</td><td>2004 A</td><td>5 gennaio</td><td>2005</td></tr>
+<tr><td>Turchia<sup>\*</sup></td><td>17 maggio</td><td>2023 A</td><td>17 maggio</td><td>2024</td></tr>
 <tr><td>Turkmenistan</td><td>14 giugno</td><td>1993 A</td><td>14 giugno</td><td>1994</td></tr>
-<tr><td>Ucraina<sup>\*</sup></td><td>12 luglio</td><td>1974</td><td>6 giugno</td><td>1978</td></tr>
-<tr><td>Ungheria<sup>\*</sup></td><td>16 marzo</td><td>1976</td><td>6 giugno</td><td>1978</td></tr>
+<tr><td>Ucraina\*</td><td>12 luglio</td><td>1974</td><td>6 giugno</td><td>1978</td></tr>
+<tr><td>Uganda</td><td>23 agosto</td><td>2022 A</td><td>23 agosto</td><td>2023</td></tr>
+<tr><td>Ungheria\*</td><td>16 marzo</td><td>1976</td><td>6 giugno</td><td>1978</td></tr>
 <tr><td>Uzbekistan</td><td>17 gennaio</td><td>1995</td><td>17 gennaio</td><td>1996</td></tr>
-<tr><td>Vietnam<sup>\*</sup></td><td>20 agosto</td><td>2014 A</td><td>20 agosto</td><td>2015</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU, eccetto le riserve e le dichiarazioni della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Al Regno in Europa.</td></tr>
-<tr><td colspan="5">[tab]</td></tr>
+<tr><td>Vietnam\*</td><td>20 agosto</td><td>2014 A</td><td>20 agosto</td><td>2015</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, in francese e inglese, possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-8]: [RU 1993 498](https://fedlex.data.admin.ch/eli/oc/1993/498_498_498), [1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321), [2009 611](https://fedlex.data.admin.ch/eli/oc/2009/108), [2012 1273](https://fedlex.data.admin.ch/eli/oc/2012/186), [2017 125](https://fedlex.data.admin.ch/eli/oc/2017/36)e [2020 2179](https://fedlex.data.admin.ch/eli/oc/2020/432). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-8]: [RU 1993 498](https://fedlex.data.admin.ch/eli/oc/1993/498_498_498); [1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321); [2009 611](https://fedlex.data.admin.ch/eli/oc/2009/108); [2012 1273](https://fedlex.data.admin.ch/eli/oc/2012/186); [2017 125](https://fedlex.data.admin.ch/eli/oc/2017/36); [2020 2179](https://fedlex.data.admin.ch/eli/oc/2020/432); [2023 316](https://fedlex.data.admin.ch/eli/oc/2023/316). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
 
-Designazioni in applicazione dell’articolo 46 paragrafo 2 della Convenzione**[^t-9]**
+Designazioni in applicazione dell’articolo 46 paragrafo 2 della Convenzione[^t-9]
 
 <table>
 <tr><th>Stati parte</th><th>Modello di segnale di pericolo</th><th>Modello di segnale di fermata</th></tr>
@@ -2065,6 +1977,7 @@ Designazioni in applicazione dell’articolo 46 paragrafo 2 della Convenzione**[
 <tr><td>Italia</td><td>A<sup>a</sup></td><td>B 2<sup>a</sup></td></tr>
 <tr><td>Kuwait</td><td>A<sup>a</sup></td><td>B 2<sup>a</sup></td></tr>
 <tr><td>Lettonia</td><td>A<sup>a</sup></td><td>B 2<sup>a</sup></td></tr>
+<tr><td>Liechtenstein</td><td>A<sup>a</sup></td><td>B, 2<sup>a</sup></td></tr>
 <tr><td>Lituania</td><td>A<sup>a</sup></td><td>B 2<sup>a</sup></td></tr>
 <tr><td>Lussemburgo</td><td>A<sup>a</sup></td><td>B 2<sup>a</sup></td></tr>
 <tr><td>Marocco</td><td>A<sup>a</sup></td><td>B 2<sup>a</sup></td></tr>
@@ -2092,24 +2005,24 @@ Designazioni in applicazione dell’articolo 46 paragrafo 2 della Convenzione**[
 <tr><td>Vietnam</td><td>A<sup>a</sup></td><td>B 2<sup>a</sup></td></tr>
 </table>
 
-[^t-9]: [RU 1993 498](https://fedlex.data.admin.ch/eli/oc/1993/498_498_498), **1997** 1365, [2009 611](https://fedlex.data.admin.ch/eli/oc/2009/108), [2012 1273](https://fedlex.data.admin.ch/eli/oc/2012/186)e [2017 125](https://fedlex.data.admin.ch/eli/oc/2017/36).
+[^t-9]: [RU 1993 498](https://fedlex.data.admin.ch/eli/oc/1993/498_498_498); **1997** 1365; [2009 611](https://fedlex.data.admin.ch/eli/oc/2009/108); [2012 1273](https://fedlex.data.admin.ch/eli/oc/2012/186); [2017 125](https://fedlex.data.admin.ch/eli/oc/2017/36); [2023 316](https://fedlex.data.admin.ch/eli/oc/2023/316).
 
 Riserve e dichiarazioni
 
 **Svizzera**
 
-Ad articolo 13<sup>bis</sup> paragrafo 2 e allegato 1 sezione E sottosezione II paragrafo 7
+– Ad articolo 13<sup>bis</sup> paragrafo 2 e allegato 1 sezione E sottosezione II paragrafo 7
 
-La Svizzera non si considera vincolata né dall’articolo 13<sup>bis</sup> paragrafo 2 né dall’allegato 1, sezione E sottosezione II paragrafo 7.
+- La Svizzera non si considera vincolata né dall’articolo 13<sup>bis</sup> paragrafo 2 né dall’allegato 1, sezione E sottosezione II paragrafo 7.
 
-Ad articolo 29 paragrafo 2, secondo periodo, articolo 26<sup>bis</sup> paragrafo 1 e allegato 2 capitolo II sezione G
+– Ad articolo 29 paragrafo 2, secondo periodo, articolo 26<sup>bis</sup> paragrafo 1 e allegato 2 capitolo II sezione G
 
-La Svizzera non si considera vincolata né dall’articolo 29 paragrafo 2, secondo periodo, né dall’articolo 26<sup>bis</sup> paragrafo 1 né dall’allegato 2 capitolo II sezione G.
+- La Svizzera non si considera vincolata né dall’articolo 29 paragrafo 2, secondo periodo, né dall’articolo 26<sup>bis</sup> paragrafo 1 né dall’allegato 2 capitolo II sezione G.
 
-Ad allegato 1 sezione C sottosezione II paragrafo 4 lettera a)
+– Ad allegato 1 sezione C sottosezione II paragrafo 4 lettera a)
 
-La Svizzera si riserva il diritto di emanare, nell’ambito della legislazione nazionale, un disciplinamento precisante che i segnali C, 13<sup>aa</sup> e C, 13<sup>ab</sup> non impediscono ai conducenti di superare anche autoveicoli la cui velocità massima è limitata a 30 km/h.
+- La Svizzera si riserva il diritto di emanare, nell’ambito della legislazione nazionale, un disciplinamento precisante che i segnali C, 13<sup>aa</sup> e C, 13<sup>ab</sup> non impediscono ai conducenti di superare anche autoveicoli la cui velocità massima è limitata a 30 km/h.
 
-Ad articolo 10 paragrafo 6 2° periodo
+– Ad articolo 10 paragrafo 6 2° periodo
 
-La Svizzera si riserva il diritto di prevedere, nell’ambito della legislazione nazionale, che il preavviso del segnale B, 2 è fatto con l’ausilio del medesimo segnale completato da un pannello aggiuntivo H, 1 descritto nell’allegato 1 sezione H.
+- La Svizzera si riserva il diritto di prevedere, nell’ambito della legislazione nazionale, che il preavviso del segnale B, 2 è fatto con l’ausilio del medesimo segnale completato da un pannello aggiuntivo H, 1 descritto nell’allegato 1 sezione H.

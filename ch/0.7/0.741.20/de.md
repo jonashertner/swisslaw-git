@@ -3,30 +3,24 @@ sr: "0.741.20"
 title: Übereinkommen vom 8. November 1968 über Strassenverkehrszeichen (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/498_498_498"
 language: de
-version: 2020-06-02
+version: 2023-06-20
 adopted: 1968-11-08
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/fedlex-data-admin-ch-eli-cc-1993-498_498_498-20200602-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/498_498_498/20200602/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/fedlex-data-admin-ch-eli-cc-1993-498_498_498-20230620-de-xml-20.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/498_498_498/20230620/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Übereinkommen über Strassenverkehrszeichen****
+# Übereinkommen über Strassenverkehrszeichen
 
 AS **1993** 498; BBl **1978** I 1440[^t-1]
 
 Übersetzung
 
-**<sup>..</sup>**Abgeschlossen in Wien am 8. November 1968
+Abgeschlossen in Wien am 8. November 1968 Von der Bundesversammlung genehmigt am 15. Dezember 1978[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 11. Dezember 1991 In Kraft getreten für die Schweiz am 11. Dezember 1992
 
-Von der Bundesversammlung genehmigt am 15. Dezember 1978[^t-2]<sup>.</sup>
-
-Schweizerische Ratifikationsurkunde hinterlegt am 11. Dezember 1991
-
-In Kraft getreten für die Schweiz am 11. Dezember 1992
-
-(Stand am 2. Juni 2020)
+(Stand am 20. Juni 2023)
 
 [^t-1]: Siehe auch das Europäische Zusatzübereink. vom 1. Mai 1971 ([SR 0.741.201](https://fedlex.data.admin.ch/eli/cc/1993/604_604_604)) und das Prot. über Strassenmarkierungen vom 1. März 1973 ([SR 0.741.201.2](https://fedlex.data.admin.ch/eli/cc/1993/626_626_626)).
 [^t-2]: Art. 1 Abs. 1 Bst. b des BB vom 15. Dez. 1978 ([AS 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
@@ -259,7 +253,7 @@ Unter jedem Gefahrenwarnzeichen mit einem Symbol A 5, A 25, A 26 oder A 27 des A
 [^9-4]: Abs. eingefügt durch Ziff. I der Änd. des Übereink., in Kraft seit 30. Nov. 1995 ([AS 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
 [^9-5]: Fassung des letzten Teils des Absatzes gemäss Ziff. I der Änd. des Übereink., in Kraft seit 30. Nov. 1995 ([AS 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
 
-### Vorschriftzeichen****
+### Vorschriftzeichen
 
 [^chapII-lvlu6-1]
 
@@ -347,7 +341,7 @@ Im Anhang 1 Abschnitt D werden die Gebotszeichen beschrieben und ihre Bedeutung 
 [^13bis-1]: Eingefügt durch Ziff. I der Änd. des Übereink., in Kraft seit 30. Nov. 1995 ([AS 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
 [^13bis-2]: Eingefügt durch Bst. A der Änd. des Übereink., in Kraft seit 28. März 2006 ([AS 2007 3705](https://fedlex.data.admin.ch/eli/oc/2007/466)).
 
-### Hinweiszeichen****
+### Hinweiszeichen
 
 [^chapII-lvlu7-1]
 
@@ -390,10 +384,6 @@ Die Zeichen, die die Strassen mit Zahlen, Buchstaben oder einer Kombination von 
 
 **Ortstafeln**[^18-1]
 
-Fassung gemäss Ziff. I der änderung des Übereinkommens, in Kraft seit 30. Nov. 1995 (AS **1997** 1321).
-
-Fassung gemäss Ziff. I der änderung des Übereinkommens, in Kraft seit 30. Nov. 1995 (AS **1997** 1321).
-
 Die Ortstafeln können dazu verwendet werden, die Grenze zwischen zwei Ländern oder die Grenze zwischen zwei Verwaltungsbezirken desselben Landes oder eines Flusses, eines Gebirgspasses, einer landschaftlichen Sehenswürdigkeit und so weiter anzugeben. Diese Zeichen müssen von den Zeichen nach Art. 13<sup>bis</sup> Absatz 2 völlig verschieden sein.
 
 [^18-1]: Fassung gemäss Ziff. I der Änd. des Übereink., in Kraft seit 30. Nov. 1995 ([AS 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
@@ -418,7 +408,7 @@ Die Bestätigungszeichen sollen, wenn die zuständigen Behörden es für notwend
 
 <sup>2.</sup> Die Hinweiszeichen können wiederholt werden. Ein unter das Zeichen gesetztes Zusatzschild kann die Entfernung zwischen dem Zeichen und der angezeigten Stelle angeben; diese Entfernung kann auch auf dem unteren Teil des Zeichens selbst angegeben werden.
 
-...[^21-2]
+…[^21-2]
 
 [^21-1]: Fassung gemäss Ziff. I der Änd. des Übereink., in Kraft seit 30. Nov. 1995 ([AS 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
 [^21-2]: Aufgehoben ([AS 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
@@ -458,7 +448,7 @@ Vorbehaltlich des Absatzes 12 sind die einzigen Lichter, die als Lichtzeichen f�
 
 <sup>3.</sup> Die Zeichen des Zwei-Farben-Systems setzen sich aus einem nichtblinkenden roten Licht und einem nichtblinkenden grünen Licht zusammen. Das rote und das grüne Licht dürfen nicht gleichzeitig aufleuchten. Die Zeichen des Zwei-Farben-Systems sind vorbehaltlich der Frist nach Artikel 3 Absatz 3 nur in vorübergehend für den Ersatz der bestehenden Anlagen errichteten Anlagen zu verwenden.
 
-- 3*<sup>bis</sup>* a) Die Vorschriften des Artikels 6 Absätze 1, 2 und 3 über die Strassenverkehrszeichen gelten für die Verkehrslichtzeichen mit Ausnahme derjenigen an Bahnübergängen.
+- 3<sup>bis</sup> a) Die Vorschriften des Artikels 6 Absätze 1, 2 und 3 über die Strassenverkehrszeichen gelten für die Verkehrslichtzeichen mit Ausnahme derjenigen an Bahnübergängen.
 - b) Verkehrslichtzeichen an Kreuzungen werden vor der Kreuzung oder in der Mitte und über der Kreuzung aufgestellt; sie können auf der anderen Seite der Kreuzung und/oder in Augenhöhe des Fahrers wiederholt werden.
 - c) Ausserdem wird empfohlen, dass die innerstaatlichen Rechtsvorschriften vorsehen, dass die Verkehrslichtzeichen
   - i) so aufgestellt werden, dass sie den Fahrzeugverkehr auf der Fahrbahn nicht behindern bzw. bei auf den Seitenstreifen aufgestellten Verkehrslichtzeichen die Fussgänger möglichst wenig behindern;
@@ -549,7 +539,7 @@ Die Fahrbahnmarkierungen (Strassenmarkierungen) werden, wenn es die zuständige 
 
 <sup>1.</sup> Die Markierung von Fahrstreifen, die bestimmten Fahrzeugkategorien vorbehalten sind, einschliesslich Radstreifen, erfolgt durch Linien, die sich deutlich von den anderen auf der Fahrbahn angebrachten ununterbrochenen oder unterbrochenen Linien unterscheiden, insbesondere durch ihre grössere Breite und durch die geringeren Strichabstände.[^26bis-2]
 
-<sup>2.</sup> Ist ein Fahrstreifen den Fahrzeugen des öffentlichen Linienverkehrs vorbehalten, wird dies durch die Aufschrift des Wortes «Bus» oder des Buchstabens «A» angezeigt. Das vorgesehene Zeichen ist entweder quadratisch entsprechend Anhang 1 Abschnitt E oder rund entsprechend Anhang 1 Abschnitt D und zeigt die weisse Silhouette eines Autobusses auf blauem Grund. Die Zeichnungen A 58<sup>a</sup> und 58<sup>b</sup> (siehe Anhang 2) illustrieren die Markierung von Sonderfahrstreifen für Fahrzeuge des öffentlichen Linienverkehrs;
+<sup>2.</sup> Ist ein Fahrstreifen den Fahrzeugen des öffentlichen Linienverkehrs vorbehalten, wird dies durch die Aufschrift des Wortes «Bus» oder des Buchstabens «A» angezeigt. Das vorgesehene Zeichen ist entweder quadratisch entsprechend Anhang 1 Abschnitt E oder rund entsprechend Anhang 1 Abschnitt D und zeigt die weisse Silhouette eines Autobusses auf blauem Grund. Die Zeichnungen A 58<sup>a</sup> und 58<sup>b</sup> (siehe Anhang 2) illustrieren die Markierung von Sonderfahrstreifen für Fahrzeuge des öffentlichen Linienverkehrs.
 
 <sup>3.</sup> In den innerstaatlichen Rechtsvorschriften ist festzulegen, unter welchen Bedingungen andere Fahrzeuge den Fahrstreifen nach Absatz 1 benutzen oder überqueren können.
 
@@ -666,7 +656,7 @@ An allen Bahnübergängen ohne Schranken oder Halbschranken ist in unmittelbarer
 - a) an Kreuzungen von Strassen und Schienenwegen, wo der Schienenverkehr sehr langsam ist und der Strassenverkehr durch einen Bahnbediensteten, der die erforderlichen Handzeichen gibt, geregelt wird;
 - b) an Kreuzungen von Schienenwegen und Feldwegen mit sehr schwachem Verkehr oder von Schienenwegen und Fusswegen.
 
-<sup>3.</sup> ...[^35-2]
+<sup>3.</sup> …[^35-2]
 
 [^35-1]: Fassung gemäss Ziff. I der Änd. des Übereink., in Kraft seit 30. Nov. 1995 ([AS 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
 [^35-2]: Aufgehoben ([AS 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)).
@@ -765,7 +755,7 @@ Dieses Übereinkommen ist nicht so auszulegen, als hindere es eine Vertragsparte
   - ii) welches der Muster B 2<sup>a</sup> und B 2<sup>b</sup> er als Haltzeichen wählt (Art. 10 Abs. 3).
 
 - Jeder Staat kann jederzeit danach durch eine an den Generalsekretär gerichtete Notifikation seine Wahl ändern, indem er seine Erklärung durch eine andere ersetzt.
-- b) Jeder Staat kann bei der Hinterlegung seiner Ratifikations- oder Beitrittsurkunde durch eine an den Generalsekretär gerichtete Notifikation erklären, dass er für die Anwendung dieses Übereinkommens die Motorfahrräder den Krafträdern gleichstellt (Art. 1 Bst. 1).
+- b) Jeder Staat kann bei der Hinterlegung seiner Ratifikations- oder Beitrittsurkunde durch eine an den Generalsekretär gerichtete Notifikation erklären, dass er für die Anwendung dieses Übereinkommens die Motorfahrräder den Krafträdern gleichstellt (Art. 1 Bst. l).
 - Jeder Staat kann jederzeit danach seine Erklärung durch eine an den Generalsekretär gerichtete Notifikation zurückziehen.
 
 <sup>3.</sup> Die Erklärungen nach Absatz 2 werden sechs Monate nach Eingang der Notifikation beim Generalsekretär oder am Tage des Inkrafttretens des Übereinkommens für den die Erklärung abgebenden Staat wirksam, wenn dieser Zeitpunkt später ist.
@@ -796,7 +786,7 @@ Die Urschrift dieses Übereinkommens, hergestellt in einfacher Ausfertigung in c
 
 *Zu Urkund dessen* haben die von ihren Regierungen gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Wien am heutigen achten Tag des Monats November eintausendneunhundertachtundsechzig. (Es folgen die Unterschriften)
 
-Anhang 1*[^t-3]*
+Anhang 1[^t-3]
 
 ## Strassenverkehrszeichen
 
@@ -826,12 +816,12 @@ Um eine gefährliche Kurve oder eine Folge von gefährlichen Kurven anzuzeigen, 
 ### 2. Gefährliches Gefälle
 
 - a) Um ein starkes Gefälle anzuzeigen, ist das Zeichen A<sup>a</sup> mit dem Symbol A 2<sup>a</sup> und das Zeichen A<sup>b</sup> mit dem Symbol A 2<sup>b</sup> zu verwenden.
-- b) Der linke Teil des Symbols A 2<sup>a</sup> füllt die linke Ecke des Schildes aus; seine Grundlinie erstreckt sich über die gesamte Breite des Schildes. In den Symbolen A 2<sup>a</sup> und A 2<sup>b</sup> bezeichnet die Ziffer das Gefälle in Prozenten; diese Angabe kann durch die eines Verhältnisses ersetzt sein (1 : 10). Jedoch können die Vertragsparteien anstelle des Symbols A 2<sup>a</sup> oder A 2<sup>b</sup>, aber unter möglichster Berücksichtigung des Artikels 5 Absatz 2 Buchstabe b, das Symbol A 2<sup>c</sup> wählen, wenn sie das Zeichen A<sup>a</sup> angenommen haben, und das Symbol A 2<sup>d</sup> wählen, wenn sie das Zeichen A<sup>b</sup> angenommen haben.
+- b) Der linke Teil des Symbols A 2<sup>a</sup> füllt die linke Ecke des Schildes aus; seine Grundlinie erstreckt sich über die gesamte Breite des Schildes. In den Symbolen A 2<sup>a</sup> und A 2<sup>b</sup> bezeichnet die Ziffer das Gefälle in Prozenten; diese Angabe kann durch die eines Verhältnisses ersetzt sein (1: 10). Jedoch können die Vertragsparteien anstelle des Symbols A 2<sup>a</sup> oder A 2<sup>b</sup>, aber unter möglichster Berücksichtigung des Artikels 5 Absatz 2 Buchstabe b, das Symbol A 2<sup>c</sup> wählen, wenn sie das Zeichen A<sup>a</sup> angenommen haben, und das Symbol A 2<sup>d</sup> wählen, wenn sie das Zeichen A<sup>b</sup> angenommen haben.
 
 ### 3. Starke Steigung
 
 - a) Um eine starke Steigung anzuzeigen, ist das Zeichen A<sup>a</sup> mit dem Symbol A 3<sup>a</sup> und das Zeichen A<sup>b</sup> mit dem Symbol A 3<sup>b</sup> zu verwenden.
-- b) Der rechte Teil des Symbols A 3<sup>a</sup> füllt die rechte Ecke des Schildes aus; seine Grundlinie erstreckt sich über die gesamte Breite des Schildes. In den Symbolen A 3<sup>a</sup> und A 3<sup>b</sup> bezeichnet die Ziffer die Steigung in Prozenten; diese Angabe kann durch die eines Verhältnisses ersetzt sein (1 : 10). Jedoch können die Vertragsparteien, die das Symbol A 2<sup>c</sup> als Symbol für gefährliches Gefälle gewählt haben, anstelle des Symbols A 3<sup>a</sup> das Symbol A 3<sup>c</sup> wählen und die Vertragsparteien, die das Symbol A 2<sup>d</sup> gewählt haben, können anstelle des Symbols A 3<sup>b</sup> das Symbol A 3<sup>d</sup> wählen.
+- b) Der rechte Teil des Symbols A 3<sup>a</sup> füllt die rechte Ecke des Schildes aus; seine Grundlinie erstreckt sich über die gesamte Breite des Schildes. In den Symbolen A 3<sup>a</sup> und A 3<sup>b</sup> bezeichnet die Ziffer die Steigung in Prozenten; diese Angabe kann durch die eines Verhältnisses ersetzt sein (1: 10). Jedoch können die Vertragsparteien, die das Symbol A 2<sup>c</sup> als Symbol für gefährliches Gefälle gewählt haben, anstelle des Symbols A 3<sup>a</sup> das Symbol A 3<sup>c</sup> wählen und die Vertragsparteien, die das Symbol A 2<sup>d</sup> gewählt haben, können anstelle des Symbols A 3<sup>b</sup> das Symbol A 3<sup>d</sup> wählen.
 
 ### 4. Fahrbahnverengung
 
@@ -1056,13 +1046,13 @@ Das Zeichen «Ende der Vorfahrt» ist das Zeichen B 4. Es ist das Zeichen B 3 mi
 - d) Um anzuzeigen, dass das Verbot mehrere Arten von Fahrzeugen oder von Verkehrsteilnehmern betrifft, kann entweder für jedes Verbot ein besonderes Verbotszeichen verwendet werden oder aber ein einziges Verbotszeichen, das die Silhouetten der verschiedenen Fahrzeuge oder Verkehrsteilnehmer zeigt, deren Verkehr verboten ist. Die Zeichen C 4<sup>a</sup> «Einfahrt verboten für Kraftfahrzeuge» und C 4<sup>b</sup> «Einfahrt verboten für Kraftfahrzeuge und Gespannfahrzeuge» sind Beispiele solcher Zeichen.
 - Ausserhalb von Ortschaften darf kein Zeichen, das mehr als zwei Silhouetten enthält, und innerhalb von Ortschaften keines, das mehr als drei Silhouetten enthält, aufgestellt werden.
 - e) Um das Verbot der Einfahrt für Fahrzeuge anzuzeigen, deren Masse oder Abmessungen bestimmte Grenzen überschreiten, sind folgende Zeichen zu verwenden.
-  - C 5 «Einfahrt verboten für Fahrzeuge, deren Breite ... m übersteigt»
-  - C 6 «Einfahrt verboten für Fahrzeuge, deren Höhe ... m übersteigt»
-  - C 7 «Einfahrt verboten für Fahrzeuge, deren Gesamtmasse ... t übersteigt»
-  - C 8 «Einfahrt verboten für Fahrzeuge, deren Achslast ... t übersteigt»
+  - C 5 «Einfahrt verboten für Fahrzeuge, deren Breite … m übersteigt»
+  - C 6 «Einfahrt verboten für Fahrzeuge, deren Höhe … m übersteigt»
+  - C 7 «Einfahrt verboten für Fahrzeuge, deren Gesamtmasse … t übersteigt»
+  - C 8 «Einfahrt verboten für Fahrzeuge, deren Achslast … t übersteigt»
   - C 9 «Einfahrt verboten für Fahrzeuge oder miteinander verbundene Fahrzeuge, deren Länge ... m übersteigt»
 
-- f) Um anzuzeigen, dass Fahrzeuge hintereinander nicht unter dem auf dem Zeichen angegebenen Abstand fahren dürfen, ist das Zeichen C 10 «Verbot des Fahrens ohne einen Mindestabstand von ... Metern» zu verwenden.
+- f) Um anzuzeigen, dass Fahrzeuge hintereinander nicht unter dem auf dem Zeichen angegebenen Abstand fahren dürfen, ist das Zeichen C 10 «Verbot des Fahrens ohne einen Mindestabstand von … Metern» zu verwenden.
 
 ### 2. Abbiegeverbot
 
@@ -1075,7 +1065,8 @@ Um anzuzeigen, dass das Abbiegen (nach rechts oder nach links je nach der Pfeilr
 
 ### 4. Überholverbot
 
-- a) Um anzuzeigen, dass es unbeschadet der für das Überholen geltenden allgemeinen Vorschriften verboten ist, die auf der Strasse fahrenden Kraftfahrzeuge ausser zweirädrigen Motorfahrrädern oder zweirädrigen Krafträdern ohne Beiwagen zu überholen, ist das Zeichen C 13<sup>a</sup> «Überholverbot» zu verwenden. Es gibt zwei Muster dieses Zeichens: C 13<sup>aa</sup> und C 13<sup>ab</sup>.
+- a) Um anzuzeigen, dass es unbeschadet der für das Überholen geltenden allgemeinen Vorschriften verboten ist, die auf der Strasse fahrenden Kraftfahrzeuge ausser zweirädrigen Motorfahrrädern oder zweirädrigen Krafträdern ohne Beiwagen zu überholen, ist das Zeichen C 13<sup>a</sup> «Überholverbot» zu verwenden.
+- Es gibt zwei Muster dieses Zeichens: C 13<sup>aa</sup> und C 13<sup>ab</sup>.
 - b) Um anzuzeigen, dass das Überholen nur für Lastkraftwagen mit einer höchsten zulässigen Gesamtmasse von mehr als 3,5 t verboten ist, ist das Zeichen C 13<sup>b</sup> «Überholen für Lastkraftwagen verboten» zu verwenden.
 - Es gibt zwei Muster dieses Zeichens: C 13<sup>ba</sup> und C 13<sup>bb</sup>.
 - Eine Aufschrift nach Artikel 8 Absatz 4 auf einem Zusatzschild unter dem Zeichen kann eine andere höchste zulässige Gesamtmasse des Fahrzeugs angeben, bei deren Überschreitung das Verbot gilt.
@@ -1104,8 +1095,10 @@ Um anzuzeigen, dass es ausser zur Verhütung eines Unfalles verboten ist, die Vo
 
 - a) i) Um die Stellen anzuzeigen, wo das Parken verboten ist, ist das Zeichen C 18 «Parken verboten» zu verwenden; um die Stellen anzuzeigen, wo das Halten und das Parken verboten sind, ist das Zeichen C 19 «Halten und Parken verboten» zu verwenden.
   - ii) Das Zeichen C 18 kann ersetzt werden durch ein rundes Zeichen mit rotem Rand und rotem Schrägbalken, das in Schwarz auf weissem oder gelbem Grund das in dem einzelnen Staat übliche Symbol für das Parken trägt.
-  - iii) Aufschriften auf einem Zusatzschild unter dem Zeichen können den Geltungsbereich des Verbotes beschränken, indem sie je nach dem angeben: die Tage der Woche oder des Monats oder die Tagesstunden, während derer das Verbot gilt;
-  - die Dauer, über die hinaus das Zeichen C 18 das Parken verbietet, oder die Dauer, über die hinaus das Zeichen C 19 das Halten und das Parken verbietet; die Ausnahmen für bestimmte Arten von Verkehrsteilnehmern.
+  - iii) Aufschriften auf einem Zusatzschild unter dem Zeichen können den Geltungsbereich des Verbotes beschränken, indem sie je nach dem angeben:
+  - die Tage der Woche oder des Monats oder die Tagesstunden, während derer das Verbot gilt;
+  - die Dauer, über die hinaus das Zeichen C 18 das Parken verbietet, oder die Dauer, über die hinaus das Zeichen C 19 das Halten und das Parken verbietet;
+  - die Ausnahmen für bestimmte Arten von Verkehrsteilnehmern.
   - iv) Die Dauer, über die hinaus das Parken oder Halten verboten ist, kann statt auf einem Zusatzschild im unteren Teil des roten Randes des Zeichens angegeben werden.
 
 - b) i) Wenn das Parken abwechselnd nur auf der einen und auf der anderen Strassenseite zulässig ist, sind anstelle des Zeichens C 18 die Zeichen C 20<sup>a</sup> und C 20<sup>b</sup> «Wechselseitiges Parkverbot» zu verwenden.
@@ -1274,7 +1267,8 @@ Beispiel eines Zeichens für das Einordnen vor Kreuzungen auf Strassen mit mehre
 ### 12. Zeichen «Parken»
 
 - a) Das Zeichen E 14<sup>a</sup> «Parken», das parallel zur Strassenachse aufgestellt werden darf, bezeichnet Stellen, wo das Parken von Fahrzeugen erlaubt ist. Das Schild ist quadratisch. Es trägt das in dem einzelnen Staat übliche Symbol für das «Parken». Der Grund dieses Zeichens ist blau.
-- b) Die Richtung zum Parkplatz oder die Art der Fahrzeuge, für die dieser Platz bestimmt ist, können auf dem Zeichen selbst oder auf einem Zusatzschild unter dem Zeichen angegeben werden. Solche Aufschriften können auch die zulässige Parkdauer beschränken oder mit Hilfe eines Zeichens «+», gefolgt von der Benennung oder dem Symbol des Beförderungsmittels, darauf hinweisen, dass in der Nähe dieses Parkplatzes öffentliche Verkehrsmittel zur Verfügung stehen. Die Zeichen E 14<sup>b</sup> und E 14<sup>c</sup> sind Beispiele für die Bezeichnung eines Parkplatzes, der ganz besonders für Fahrzeuge bestimmt ist, deren Führer ein öffentliches Beförderungsmittel benutzen wollen.
+- b) Die Richtung zum Parkplatz oder die Art der Fahrzeuge, für die dieser Platz bestimmt ist, können auf dem Zeichen selbst oder auf einem Zusatzschild unter dem Zeichen angegeben werden. Solche Aufschriften können auch die zulässige Parkdauer beschränken oder mit Hilfe eines Zeichens «+», gefolgt von der Benennung oder dem Symbol des Beförderungsmittels, darauf hinweisen, dass in der Nähe dieses Parkplatzes öffentliche Verkehrsmittel zur Verfügung stehen.
+- Die Zeichen E 14<sup>b</sup> und E 14<sup>c</sup> sind Beispiele für die Bezeichnung eines Parkplatzes, der ganz besonders für Fahrzeuge bestimmt ist, deren Führer ein öffentliches Beförderungsmittel benutzen wollen.
 
 ### 13. Zeichen, die eine Omnibus- oder Strassenbahnhaltestelle anzeigen
 
@@ -1430,7 +1424,7 @@ Soll ein bestimmter Verkehrsteilnehmer von der Bestimmung eines Vorschriftzeiche
 
 *Anmerkung zum gesamten Anhang 1:* In Staaten mit Linksverkehr sind die Zeichen und/oder die Symbole entsprechend umzukehren.»
 
-Anhang 2*[^t-4]*
+Anhang 2[^t-4]
 
 ## Strassenmarkierungen
 
@@ -1480,7 +1474,7 @@ Anhang 2*[^t-4]*
 
 \14. Zur Verbesserung der Verkehrssicherheit sollen an bestimmten Kreuzungen die unterbrochenen Mittellinien (Zeichnung 4) durch eine ununterbrochene Linie ersetzt oder ergänzt werden (Zeichnungen 5 und 6).
 
-\15. Wird es für erforderlich erachtet, die Benutzung des dem Gegenverkehr vorbehaltenen Fahrbahnteiles an Stellen mit beschränkter Sicht (Kuppen, Kurven usw.) oder auf Abschnitten mit enger Fahrbahn oder einer anderen Besonderheit zu verbieten, so sollen Beschränkungen auf Strecken, wo die Sichtweite unter einem bestimmten Mindestmass M liegt, durch eine nach den Zeichnungen 7a bis 16[^annex2-lvlu1-chapII-lvlC-lvlu1-1]<sup>.</sup> angebrachte ununterbrochene Linie angeordnet werden. In den Ländern, wo die Bauweise der Kraftfahrzeuge dies rechtfertigt, kann die in den Zeichnungen 7a bis 10a vorgesehene Augenhöhe von 1 m auf 1,20 m vergrössert werden.
+\15. Wird es für erforderlich erachtet, die Benutzung des dem Gegenverkehr vorbehaltenen Fahrbahnteiles an Stellen mit beschränkter Sicht (Kuppen, Kurven usw.) oder auf Abschnitten mit enger Fahrbahn oder einer anderen Besonderheit zu verbieten, so sollen Beschränkungen auf Strecken, wo die Sichtweite unter einem bestimmten Mindestmass M liegt, durch eine nach den Zeichnungen 7a bis 16[^annex2-lvlu1-chapII-lvlC-lvlu1-1] angebrachte ununterbrochene Linie angeordnet werden. In den Ländern, wo die Bauweise der Kraftfahrzeuge dies rechtfertigt, kann die in den Zeichnungen 7a bis 10a vorgesehene Augenhöhe von 1 m auf 1,20 m vergrössert werden.
 
 \16. Der für M anzunehmende Wert ändert sich entsprechend den Merkmalen der Strasse. Die Zeichnungen 7a, 7b, 8a, 8b, 8c und 8d zeigen, wie die Linien bei einer Kuppe mit beschränkter Sichtweite auf Strassen mit zwei oder drei Fahrstreifen zu ziehen sind. Diese Zeichnungen entsprechen dem über ihnen auf derselben Seite dargestellten Längsschnitt und einer nach Nummer 24 bestimmten Entfernung M; dabei ist A (oder D) der Punkt, an dem die Sichtweite kleiner als M wird, während C (oder B) der Punkt ist, an dem die Sichtweite wieder grösser als M wird[^annex2-lvlu1-chapII-lvlC-lvlu1-2]<sup>.</sup>.
 
@@ -1492,9 +1486,9 @@ Anhang 2*[^t-4]*
 
 \20. Die Zeichnungen 12, 13 und 14 zeigen die Anordnung von Linien, die auf eine Verengung der Fahrbahn hinweisen sollen.
 
-\21. Bei den Zeichnungen 8a, 8b, 8c, 8d, 10a und 10b soll die Neigung der schrägen Übergangslinien zur Mittellinie nicht grösser sein als 1 : 20.
+\21. Bei den Zeichnungen 8a, 8b, 8c, 8d, 10a und 10b soll die Neigung der schrägen Übergangslinien zur Mittellinie nicht grösser sein als 1: 20.
 
-\22. In den Zeichnungen 13 und 14, die Linien für Hinweise auf Veränderungen der Fahrbahnbreite zeigen, sowie in den Zeichnungen 15, 16 und 17, die Hindernisse zeigen, welche eine Verlegung der ununterbrochenen Linie(n) erfordern, soll die Neigung auf Schnellstrassen vorzugsweise kleiner sein als 1 : 50 und auf Strassen mit Geschwindigkeiten bis zu 50 km (30 Meilen) in der Stunde kleiner sein als 1 : 20. Ausserdem soll den schrägen ununterbrochenen Linien in der Verkehrsrichtung, für die sie gelten, eine parallel zur Fahrbahnmitte verlaufende ununterbrochene Linie vorangehen; die Länge dieser Linie soll der Entfernung entsprechen, die bei der angenommenen Fahrgeschwindigkeit in einer Sekunde zurückgelegt wird.
+\22. In den Zeichnungen 13 und 14, die Linien für Hinweise auf Veränderungen der Fahrbahnbreite zeigen, sowie in den Zeichnungen 15, 16 und 17, die Hindernisse zeigen, welche eine Verlegung der ununterbrochenen Linie(n) erfordern, soll die Neigung auf Schnellstrassen vorzugsweise kleiner sein als 1: 50 und auf Strassen mit Geschwindigkeiten bis zu 50 km (30 Meilen) in der Stunde kleiner sein als 1: 20. Ausserdem soll den schrägen ununterbrochenen Linien in der Verkehrsrichtung, für die sie gelten, eine parallel zur Fahrbahnmitte verlaufende ununterbrochene Linie vorangehen; die Länge dieser Linie soll der Entfernung entsprechen, die bei der angenommenen Fahrgeschwindigkeit in einer Sekunde zurückgelegt wird.
 
 \23. Ist die Kennzeichnung der Fahrstreifen durch unterbrochene Linien auf einem Strassenabschnitt ohne Besonderheiten nicht erforderlich, so soll der ununterbrochenen Linie eine Annäherungslinie vorangehen, die aus einer unterbrochenen Linie von mindestens 50 m Länge besteht, wobei die Länge von der üblichen Geschwindigkeit der Fahrzeuge abhängig ist. Wenn auf einem Strassenabschnitt ohne Besonderheiten die Fahrstreifen durch unterbrochene Linien gekennzeichnet sind, soll der ununterbrochenen Linie gleichfalls eine Annäherungslinie von mindestens 50 m Länge vorangehen, wobei die Länge von der üblichen Geschwindigkeit der Fahrzeuge abhängig ist. Die Markierung kann durch einen oder mehrere Pfeile ergänzt werden, die den Führern anzeigen, welchen Fahrstreifen sie benutzen sollen.
 
@@ -1506,7 +1500,7 @@ Anhang 2*[^t-4]*
 \24. Die Wahl der Sichtweite, von der man bei der Entscheidung ausgeht, auf welchen Strassenabschnitten eine ununterbrochene Linie nützlich ist oder nicht, sowie die Wahl der Länge dieser Linie hängt immer von verschiedenen Faktoren ab, wobei die nachstehende Übersicht den Wert enthält, der für M bei verschiedenen Annäherungsgeschwindigkeiten empfohlen wird[^annex2-lvlu1-chapII-lvlC-lvlu2-1]<sup>.</sup>:
 
 <table>
-<tr><td>Annäherungsgeschwindigkeit</td><td>Wert von M</td></tr>
+<tr><th>Annäherungsgeschwindigkeit</th><th>Wert von M</th></tr>
 <tr><td>100 km/h (60 Meilen/h)</td><td>160 m (480 Fuss) bis 320 m (960 Fuss)</td></tr>
 <tr><td>80 km/h (50 Meilen/h)</td><td>130 m (380 Fuss) bis 260 m (760 Fuss)</td></tr>
 <tr><td>65 km/h (40 Meilen/h)</td><td>90 m (270 Fuss) bis 180 m (540 Fuss)</td></tr>
@@ -1597,217 +1591,217 @@ ii) Markierung von Hindernissen
 
 - 46\. Die Zeichnung 27 gibt ein Beispiel einer Markierung auf einem Hindernis.
 
-Anhang 3*[^t-5]*
+Anhang 3[^t-5]
 
 ## Farbige Wiedergabe der Zeichen, Symbole und Schilder, die in Anhang 1 erwähnt sind
 
 [^t-5]: Ursprünglich Anhang 9. Bereinigt gemäss Ziff. I der Änd. des Übereink., in Kraft seit 30. Nov. 1995 ([AS 1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321)) und Bst. B der Änd. des Übereink., in Kraft seit 28. März 2006 ([AS 2007 3705](https://fedlex.data.admin.ch/eli/oc/2007/466)).
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image1.png) A<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image2.png) A<sup>b</sup></td><td colspan="3"></td><td colspan="2"></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image3.png) A 1<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image4.png) A 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image5.png) A 1<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image6.png) A 1<sup>d</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image7.png) A 2<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image8.png) A 2<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image9.png) A 2<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image10.png) A 2<sup>d</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image11.png) A 3<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image12.png) A 3<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image13.png) A 3<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image14.png) A 3<sup>d</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image15.png) A 4<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image16.png) A 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image17.png) A 5</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image18.png) A 6</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image19.png) A 7<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image20.png) A 7<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image21.png) A 7<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image22.png) A 8</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image23.png) A 9</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image24.png) A 10<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image25.png) A 10<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image26.png) A 11<sup>a</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image27.png) A 11<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image28.png) A 12<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image29.png) A 12<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image30.png) A 13</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image31.png) A 14</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image32.png) A 15<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image33.png) A 15<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image34.png) A 16</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image35.png) A 17<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image36.png) A 17<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image37.png) A 17<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image38.png) A 18<sup>a</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image39.png) A 18<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image40.png) A 18<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image41.png) A 18<sup>d</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image42.png) A 18<sup>e</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image43.png) A 18<sup>f</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image44.png) A 18<sup>g</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image45.png) A 19<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image46.png) A 19<sup>b</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image47.png) A 19<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image48.png) A 20</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image49.png) A 21<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image50.png) A 21<sup>b</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image51.png) A 22</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image52.png) A 23</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image53.png) A 24</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image54.png) A 25</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image55.png) A 26<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image56.png) A 26<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image57.png) A 27</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image58.png) A 28<sup>a</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image59.png) A 28<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image60.png) A 28<sup>c</sup></td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image61.png) A 29<sup>a</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image62.png) A 29<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image63.png) A 29<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image64.png) A 30</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image65.png) A 31</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image66.png) A 32</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image67.png) B 1</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image68.png) B 2<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image69.png) B 2<sup>b</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image70.png) B 3</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image71.png) B 4</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image72.png) B 5</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image73.png) B 6</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image74.png) C 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image75.png) C 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image76.png) C 2</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image77.png) C 3<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image78.png) C 3<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image79.png) C 3<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image80.png) C 3<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image81.png) C 3<sup>e</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image82.png) C 3<sup>f</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image83.png) C 3<sup>g</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image84.png) C 3<sup>h</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image85.png) C 3<sup>i</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image86.png) C 3<sup>j</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image87.png) C 3<sup>k</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image88.png) C 3<sup>l</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image89.png) C 4<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image90.png) C 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image91.png) C 5</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image92.png) C 6</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image93.png) C 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image94.png) C 8</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image95.png) C 9</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image96.png) C 10</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image97.png) C 11<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image98.png) C 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image99.png) C 12</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image100.png) C 13<sup>aa</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image101.png) C 13<sup>ab</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image102.png) C 13<sup>ba</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image103.png) C 13<sup>bb</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image104.png) C 14</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image105.png) C 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image106.png) C 16</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image107.png) C 17<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image108.png) C 17<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image109.png) C 17<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image110.png) C 17<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image111.png) C 18</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image112.png) C 19</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image113.png) C 20<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image114.png) C 20<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image115.png) D 1<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image116.png) D 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image117.png) D 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image118.png) D 1<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image119.png) D 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image120.png) D 2</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image121.png) D 3</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image122.png) D 4</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image123.png) D 5</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image124.png) D 6</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image125.png) D 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image126.png) D 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image127.png) D 9</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image128.png) D 10<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image129.png) D 10<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image130.png) D 10<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image131.png) D 11<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image132.png) D 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image133.png) E 1<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image134.png) E 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image135.png) E 1<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image136.png) E 2<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image137.png) E 2<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image138.png) E3<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image139.png) E 3<sup>b</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image140.png) E 4</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image141.png) E 5<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image142.png) E 5<sup>b</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image143.png) E 6<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image144.png) E 6<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image145.png) E 7<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image146.png) E 7<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image147.png) E 7<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image148.png) E 7<sup>d</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image149.png) E 8<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image150.png) E 8<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image151.png) E 8<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image152.png) E 8<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image153.png) E 9<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image154.png) E 9<sup>b</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image155.png) E 9<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image156.png) E 9<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image157.png) E 10<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image158.png) E 10<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image159.png) E 10<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image160.png) E 10<sup>d</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image161.png) E 11<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image162.png) E 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image163.png) E 12<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image164.png) E 12<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image165.png) E 12<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image166.png) E 13<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image167.png) E 13<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image168.png) E 14<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image169.png) E 14<sup>b</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image170.png) E 14<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image171.png) E 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image172.png) E 16</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image173.png) E 17<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image174.png) E 17<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image175.png) F</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image176.png) F 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image177.png) F 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image178.png) F 1<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image179.png) F 2</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image180.png) F 3</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image181.png) F 4</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image182.png) F 5</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image183.png) F 6</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image184.png) F 7</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image185.png) F 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image186.png) F 9</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image187.png) F 10</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image188.png) F 11</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image189.png) F 12</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image190.png) F 13</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image191.png) F 14</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image192.png) F 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image193.png) G 1<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image194.png) G 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image195.png) G 1<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image196.png) G 2<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image197.png) G 2<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image198.png) G 3</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image199.png) G 4<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image200.png) G 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image201.png) G 4<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image202.png) G 5</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image203.png) G 6<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image204.png) G 6<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image205.png) G 6<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image206.png) G 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image207.png) G 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image208.png) G 9a</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image209.png) G 9<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image210.png) G 10</td><td colspan="3"></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image211.png) G 11<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image212.png) G 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image213.png) G 11<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image214.png) G 12<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image215.png) G 12<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image216.png) G 13</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image217.png) G 14</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image218.png) G 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image219.png) G 16</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image220.png) G 17</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image221.png) G 18</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image222.png) G 19</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image223.png) G 20</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image224.png) G 21</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image225.png) G 22<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image226.png) G 22<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image227.png) G 22<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image228.png) G 23<sup>a</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image229.png) G 23<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image230.png) G 24<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image231.png) G 24<sup>b</sup></td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image232.png) G 24<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image233.png) H 1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image234.png) H 2</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image235.png) H 3<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image236.png) H 3<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image237.png) H 3<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image238.png) H 4<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image239.png) H 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image240.png) H 4<sup>c</sup></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image241.png) H 5<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image242.png) H 5<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image243.png) H 6</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image244.png) H 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image245.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image246.png) H 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image247.png) H 9</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image1.png) A<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image2.png) A<sup>b</sup></td><td colspan="3"></td><td colspan="2"></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image3.png) A 1<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image4.png) A 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image5.png) A 1<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image6.png) A 1<sup>d</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image7.png) A 2<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image8.png) A 2<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image9.png) A 2<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image10.png) A 2<sup>d</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image11.png) A 3<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image12.png) A 3<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image13.png) A 3<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image14.png) A 3<sup>d</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image15.png) A 4<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image16.png) A 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image17.png) A 5</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image18.png) A 6</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image19.png) A 7<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image20.png) A 7<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image21.png) A 7<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image22.png) A 8</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image23.png) A 9</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image24.png) A 10<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image25.png) A 10<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image26.png) A 11<sup>a</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image27.png) A 11<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image28.png) A 12<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image29.png) A 12<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image30.png) A 13</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image31.png) A 14</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image32.png) A 15<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image33.png) A 15<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image34.png) A 16</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image35.png) A 17<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image36.png) A 17<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image37.png) A 17<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image38.png) A 18<sup>a</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image39.png) A 18<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image40.png) A 18<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image41.png) A 18<sup>d</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image42.png) A 18<sup>e</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image43.png) A 18<sup>f</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image44.png) A 18<sup>g</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image45.png) A 19<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image46.png) A 19<sup>b</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image47.png) A 19<sup>c</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image48.png) A 20</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image49.png) A 21<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image50.png) A 21<sup>b</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image51.png) A 22</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image52.png) A 23</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image53.png) A 24</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image54.png) A 25</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image55.png) A 26<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image56.png) A 26<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image57.png) A 27</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image58.png) A 28<sup>a</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image59.png) A 28<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image60.png) A 28<sup>c</sup></td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image61.png) A 29<sup>a</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image62.png) A 29<sup>b</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image63.png) A 29<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image64.png) A 30</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image65.png) A 31</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image66.png) A 32</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image67.png) B 1</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image68.png) B 2<sup>a</sup></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image69.png) B 2<sup>b</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image70.png) B 3</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image71.png) B 4</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image72.png) B 5</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image73.png) B 6</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image74.png) C 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image75.png) C 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image76.png) C 2</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image77.png) C 3<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image78.png) C 3<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image79.png) C 3<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image80.png) C 3<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image81.png) C 3<sup>e</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image82.png) C 3<sup>f</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image83.png) C 3<sup>g</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image84.png) C 3<sup>h</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image85.png) C 3<sup>i</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image86.png) C 3<sup>j</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image87.png) C 3<sup>k</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image88.png) C 3<sup>l</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image89.png) C 4<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image90.png) C 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image91.png) C 5</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image92.png) C 6</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image93.png) C 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image94.png) C 8</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image95.png) C 9</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image96.png) C 10</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image97.png) C 11<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image98.png) C 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image99.png) C 12</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image100.png) C 13<sup>aa</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image101.png) C 13<sup>ab</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image102.png) C 13<sup>ba</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image103.png) C 13<sup>bb</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image104.png) C 14</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image105.png) C 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image106.png) C 16</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image107.png) C 17<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image108.png) C 17<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image109.png) C 17<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image110.png) C 17<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image111.png) C 18</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image112.png) C 19</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image113.png) C 20<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image114.png) C 20<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image115.png) D 1<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image116.png) D 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image117.png) D 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image118.png) D 1<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image119.png) D 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image120.png) D 2</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image121.png) D 3</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image122.png) D 4</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image123.png) D 5</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image124.png) D 6</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image125.png) D 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image126.png) D 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image127.png) D 9</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image128.png) D 10<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image129.png) D 10<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image130.png) D 10<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image131.png) D 11<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image132.png) D 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image133.png) E 1<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image134.png) E 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image135.png) E 1<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image136.png) E 2<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image137.png) E 2<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image138.png) E3<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image139.png) E 3<sup>b</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image140.png) E 4</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image141.png) E 5<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image142.png) E 5<sup>b</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image143.png) E 6<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image144.png) E 6<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image145.png) E 7<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image146.png) E 7<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image147.png) E 7<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image148.png) E 7<sup>d</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image149.png) E 8<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image150.png) E 8<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image151.png) E 8<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image152.png) E 8<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image153.png) E 9<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image154.png) E 9<sup>b</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image155.png) E 9<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image156.png) E 9<sup>d</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image157.png) E 10<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image158.png) E 10<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image159.png) E 10<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image160.png) E 10<sup>d</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image161.png) E 11<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image162.png) E 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image163.png) E 12<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image164.png) E 12<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image165.png) E 12<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image166.png) E 13<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image167.png) E 13<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image168.png) E 14<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image169.png) E 14<sup>b</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image170.png) E 14<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image171.png) E 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image172.png) E 16</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image173.png) E 17<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image174.png) E 17<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image175.png) F</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image176.png) F 1<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image177.png) F 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image178.png) F 1<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image179.png) F 2</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image180.png) F 3</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image181.png) F 4</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image182.png) F 5</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image183.png) F 6</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image184.png) F 7</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image185.png) F 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image186.png) F 9</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image187.png) F 10</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image188.png) F 11</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image189.png) F 12</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image190.png) F 13</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image191.png) F 14</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image192.png) F 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image193.png) G 1<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image194.png) G 1<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image195.png) G 1<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image196.png) G 2<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image197.png) G 2<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image198.png) G 3</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image199.png) G 4<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image200.png) G 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image201.png) G 4<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image202.png) G 5</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image203.png) G 6<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image204.png) G 6<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image205.png) G 6<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image206.png) G 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image207.png) G 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image208.png) G 9a</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image209.png) G 9<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image210.png) G 10</td><td colspan="3"></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image211.png) G 11<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image212.png) G 11<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image213.png) G 11<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image214.png) G 12<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image215.png) G 12<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image216.png) G 13</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image217.png) G 14</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image218.png) G 15</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image219.png) G 16</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image220.png) G 17</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image221.png) G 18</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image222.png) G 19</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image223.png) G 20</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image224.png) G 21</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image225.png) G 22<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image226.png) G 22<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image227.png) G 22<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image228.png) G 23<sup>a</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image229.png) G 23<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image230.png) G 24<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image231.png) G 24<sup>b</sup></td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image232.png) G 24<sup>c</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image233.png) H 1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image234.png) H 2</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image235.png) H 3<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image236.png) H 3<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image237.png) H 3<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image238.png) H 4<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image239.png) H 4<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image240.png) H 4<sup>c</sup></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image241.png) H 5<sup>a</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image242.png) H 5<sup>b</sup></td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image243.png) H 6</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image244.png) H 7</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image245.png) H 8</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image246.png) H 9</td></tr>
 </table>
 
 Farben
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image248.png) = blau
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image247.png) = blau
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image249.png) = gelb
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image248.png) = gelb
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image250.png) = grau
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image249.png) = grau
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image251.png) = grün
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image250.png) = grün
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image252.png)= orange
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image251.png) = orange
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image253.png) = rot
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image252.png) = rot
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image254.png) = schwarz
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image253.png) = schwarz
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image255.png) = violett
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image254.png) = violett
 
 ### Zeichnungen des Anhangs 2
 
-### Zeichnung 1 a
+### Zeichnung 1a
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image256.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image255.png)
 
-### Zeichnung 1 b
+### Zeichnung 1b
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image257.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image256.png)
 
 ### Zeichnung 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image258.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image257.png)
 
 ### Zeichnung 3
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image259.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image258.png)
 
 ### Zeichnung 4
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image260.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image259.png)
 
 ### Zeichnung 5
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image261.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image260.png)
 
 ### Zeichnung 6
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image262.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image261.png)
 
-### Zeichnungen 7a - 8 d
+### Zeichnungen 7a–8d
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image263.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image262.png)
 
-### Zeichnungen 9 - 10 b
+### Zeichnungen 9–10b
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image264.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image263.png)
 
-### Zeichnungen 11 a - 11 c
+### Zeichnungen 11a–11c
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image265.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image264.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image266.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image265.png)
 
-### Zeichnungen 12 - 15
+### Zeichnungen 12–15
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image267.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image266.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image268.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image267.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image269.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image268.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image270.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image269.png)
 
-### Zeichnungen 16 - 18
+### Zeichnungen 16–18
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image271.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image270.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image272.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image271.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image273.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image272.png)
 
 ### Zeichnung 19
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image274.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image273.png)
 
 ### Zeichnung 20
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image275.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image274.png)
 
 ### Zeichnung 21
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image276.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image275.png)
 
 ### Zeichnung 22
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image277.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image276.png)
 
 ### Zeichnung 23
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image278.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image277.png)
 
 ### Zeichnung 24
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image279.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image278.png)
 
 ### Zeichnung 25
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image280.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image279.png)
 
 ### Zeichnung 26
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image281.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image280.png)
 
 ### Zeichnung 27
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image282.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image281.png)
 
 ### Zeichnung A 58<sup>a</sup>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image283.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image282.png)
 
 ### Zeichnung A 58<sup>b</sup>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20200602/de/xml/image/image284.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/498_498_498/20230620/de/xml/image/image283.png)
 
-Geltungsbereich am 2. Juni 2020**[^t-6]**
+Geltungsbereich am 20. Juni 2023[^t-6]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -1817,6 +1811,7 @@ Geltungsbereich am 2. Juni 2020**[^t-6]**
 <tr><td>Bahrain</td><td>4. Mai</td><td>1973 B</td><td>6. Juni</td><td colspan="2">1978</td></tr>
 <tr><td>Belarus\*</td><td>18. Juni</td><td>1974</td><td>6. Juni</td><td colspan="2">1978</td></tr>
 <tr><td>Belgien\*</td><td>16. November</td><td>1988</td><td>16. November</td><td colspan="2">1989</td></tr>
+<tr><td>Benin</td><td>7. Juli</td><td>2022 B</td><td>7. Juli</td><td colspan="2">2023</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>12. Januar</td><td>1994 N</td><td>6. März</td><td colspan="2">1992</td></tr>
 <tr><td>Bulgarien\*</td><td>28. Dezember</td><td>1978</td><td>28. Dezember</td><td colspan="2">1979</td></tr>
 <tr><td>Chile</td><td>27. Dezember</td><td>1974</td><td>6. Juni</td><td colspan="2">1978</td></tr>
@@ -1844,6 +1839,7 @@ Geltungsbereich am 2. Juni 2020**[^t-6]**
 <tr><td>Liechtenstein\*</td><td>2. März</td><td>2020 B</td><td>2. März</td><td colspan="2">2021</td></tr>
 <tr><td>Litauen\*</td><td>20. November</td><td>1991 B</td><td>20. November</td><td colspan="2">1992</td></tr>
 <tr><td>Luxemburg\*</td><td>25. November</td><td>1975</td><td>6. Juni</td><td colspan="2">1978</td></tr>
+<tr><td>Malediven</td><td>9. Januar</td><td>2023 B</td><td>9. Januar</td><td colspan="2">2024</td></tr>
 <tr><td>Marokko\*</td><td>29. Dezember</td><td>1982 B</td><td>29. Dezember</td><td colspan="2">1983</td></tr>
 <tr><td>Moldau</td><td>8. Oktober</td><td>2015 B</td><td>8. Oktober</td><td colspan="2">2016</td></tr>
 <tr><td>Mongolei</td><td>19. Dezember</td><td>1997 B</td><td>19. Dezember</td><td colspan="2">1998</td></tr>
@@ -1861,6 +1857,7 @@ Geltungsbereich am 2. Juni 2020**[^t-6]**
 <tr><td>Rumänien\*</td><td>9. Dezember</td><td>1980</td><td>9. Dezember</td><td colspan="2">1981</td></tr>
 <tr><td>Russland\*</td><td>7. Juni</td><td>1974</td><td>6. Juni</td><td colspan="2">1978</td></tr>
 <tr><td>San Marino</td><td>20. Juli</td><td>1970</td><td>6. Juni</td><td colspan="2">1978</td></tr>
+<tr><td>Saudi-Arabien<sup>\*</sup></td><td>31. März</td><td>2022 B</td><td>31. März</td><td colspan="2">2023</td></tr>
 <tr><td>Schweden\*</td><td>25. Juli</td><td>1985</td><td>25. Juli</td><td colspan="2">1986</td></tr>
 <tr><td>Schweiz\*</td><td>11. Dezember</td><td>1991</td><td>11. Dezember</td><td colspan="2">1992</td></tr>
 <tr><td>Senegal</td><td>19. April</td><td>1972 B</td><td>6. Juni</td><td colspan="2">1978</td></tr>
@@ -1871,7 +1868,9 @@ Geltungsbereich am 2. Juni 2020**[^t-6]**
 <tr><td>Tadschikistan</td><td>9. März</td><td>1994 B</td><td>9. März</td><td colspan="2">1995</td></tr>
 <tr><td>Tschechische Republik</td><td>2. Juni</td><td>1993 N</td><td>1. Januar</td><td colspan="2">1993</td></tr>
 <tr><td>Tunesien\*</td><td>5. Januar</td><td>2004 B</td><td>5. Januar</td><td colspan="2">2005</td></tr>
+<tr><td>Türkei<sup>\*</sup></td><td>17. Mai</td><td>2023 B</td><td>17. Mai</td><td colspan="2">2024</td></tr>
 <tr><td>Turkmenistan</td><td>14. Juni</td><td>1993 B</td><td>14. Juni</td><td colspan="2">1994</td></tr>
+<tr><td>Uganda</td><td>23. August</td><td>2022 B</td><td>23. August</td><td colspan="2">2023</td></tr>
 <tr><td>Ukraine\*</td><td>12. Juli</td><td>1974</td><td>6. Juni</td><td colspan="2">1978</td></tr>
 <tr><td>Ungarn\*</td><td>16. März</td><td>1976</td><td>6. Juni</td><td colspan="2">1978</td></tr>
 <tr><td>Usbekistan</td><td>17. Januar</td><td>1995 B</td><td>17. Januar</td><td colspan="2">1996</td></tr>
@@ -1879,12 +1878,12 @@ Geltungsbereich am 2. Juni 2020**[^t-6]**
 <tr><td>Vietnam<sup>\*</sup></td><td>20. August</td><td>2014 B</td><td>20. August</td><td colspan="2">2015</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>3. Februar</td><td>1988 B</td><td>3. Februar</td><td colspan="2">1989</td></tr>
 <tr><td>Zypern<sup>\*</sup></td><td>16. August</td><td>2016 B</td><td>16. August</td><td colspan="2">2017</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht mit Ausnahme der Vorbehalte und Erklärungen der Schweinz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-6]: [AS 1993 498](https://fedlex.data.admin.ch/eli/oc/1993/498_498_498), [1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321), [2009 611](https://fedlex.data.admin.ch/eli/oc/2009/108),[2012 1273](https://fedlex.data.admin.ch/eli/oc/2012/186), [2017 125](https://fedlex.data.admin.ch/eli/oc/2017/36), [2020 2179](https://fedlex.data.admin.ch/eli/oc/2020/432). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA ([www.eda.admin.ch/vertraege](http://www.eda.admin.ch/vertraege)).
+[^t-6]: [AS 1993 498](https://fedlex.data.admin.ch/eli/oc/1993/498_498_498); [1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321); [2009 611](https://fedlex.data.admin.ch/eli/oc/2009/108); [2012 1273](https://fedlex.data.admin.ch/eli/oc/2012/186); [2017 125](https://fedlex.data.admin.ch/eli/oc/2017/36); [2020 2179](https://fedlex.data.admin.ch/eli/oc/2020/432); [2023 316](https://fedlex.data.admin.ch/eli/oc/2023/316). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
-Bezeichnungen in Anwendung von Artikel 46 Absatz 2 des Übereinkommens**[^t-7]**
+Bezeichnung in Anwendung von Artikel 46 Absatz 2 des Übereinkommens[^t-7]
 
 <table>
 <tr><th>Vertragsstaaten</th><th colspan="2">Gefahrenwarnzeichen-Muster</th><th colspan="2">Haltzeichen-Muster</th></tr>
@@ -1909,6 +1908,7 @@ Bezeichnungen in Anwendung von Artikel 46 Absatz 2 des Übereinkommens**[^t-7]**
 <tr><td colspan="2">Kuba</td><td>A<sup>a</sup></td><td colspan="3">B 2<sup>b</sup></td></tr>
 <tr><td colspan="2">Kuwait</td><td>A<sup>a</sup></td><td colspan="3">B 2<sup>a</sup></td></tr>
 <tr><td colspan="2">Lettland</td><td>A<sup>a</sup></td><td colspan="3">B 2<sup>a</sup></td></tr>
+<tr><td colspan="2">Liechtenstein</td><td>A<sup>a</sup></td><td colspan="2">B 2<sup>a</sup></td></tr>
 <tr><td colspan="2">Litauen</td><td>A<sup>a</sup></td><td colspan="3">B 2<sup>a</sup></td></tr>
 <tr><td colspan="2">Luxemburg</td><td>A<sup>a</sup></td><td colspan="3">B 2<sup>a</sup></td></tr>
 <tr><td colspan="2">Marokko</td><td>A<sup>a</sup></td><td colspan="3">B 2<sup>a</sup></td></tr>
@@ -1938,7 +1938,7 @@ Bezeichnungen in Anwendung von Artikel 46 Absatz 2 des Übereinkommens**[^t-7]**
 <tr><td colspan="2">Zentralafrikanische Republik</td><td>A<sup>a</sup></td><td colspan="3">B 2<sup>a</sup></td></tr>
 </table>
 
-[^t-7]: AS **1993** 598, **1997** 1365, [2009 611](https://fedlex.data.admin.ch/eli/oc/2009/108), [AS 2012 1273](https://fedlex.data.admin.ch/eli/oc/2012/186)und [2017 125](https://fedlex.data.admin.ch/eli/oc/2017/36).
+[^t-7]: [AS 1993 498](https://fedlex.data.admin.ch/eli/oc/1993/498_498_498); [1997 1321](https://fedlex.data.admin.ch/eli/oc/1997/1321_1321_1321); [2009 611](https://fedlex.data.admin.ch/eli/oc/2009/108); [2012 1273](https://fedlex.data.admin.ch/eli/oc/2012/186); [2017 125](https://fedlex.data.admin.ch/eli/oc/2017/36); [2023 316](https://fedlex.data.admin.ch/eli/oc/2023/316).
 
 Vorbehalte und Erklärungen
 
