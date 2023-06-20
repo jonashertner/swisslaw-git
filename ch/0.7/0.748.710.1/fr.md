@@ -3,16 +3,16 @@ sr: "0.748.710.1"
 title: Convention du 14 septembre 1963 relative aux infractions et à certains autres actes survenant à bord des aéronefs
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/312_316_316"
 language: fr
-version: 2021-08-01
+version: 2023-06-21
 adopted: 1963-09-14
 in_force: 1971-03-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/312_316_316/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-1971-312_316_316-20210801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/312_316_316/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/312_316_316/20230621/fr/xml/fedlex-data-admin-ch-eli-cc-1971-312_316_316-20230621-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/312_316_316/20230621/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention relative aux infractions et à certains autres actes survenant à bord des aéronefs****
+# Convention relative aux infractions et à certains autres actes survenant à bord des aéronefs
 
 RO **1971** 316; FF **1970** I 33[^t-1]
 
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Tokyo le 14 septembre 1963 Signée par la Suisse le 31 octobre 1969 Approuvée par l’Assemblée fédérale le 9 octobre 1970[^t-2] Instrument de ratification déposé par la Suisse le 21 décembre 1970 Entrée en vigueur pour la Suisse le 21 mars 1971
 
-(Etat le 1<sup>er</sup> août 2021)
+(État le 21 juin 2023)
 
 [^t-1]: Les Am. du 4 avr. 2014 ([RS 0.748.710.11](https://fedlex.data.admin.ch/eli/cc/2021/469); [RO 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469)) ont été insérés dans le Prot. Ces Am. ne régissent que les rapports entre les États les ayant ratifiés. Voir par conséquent leurs champs d’application dans le texte RS cité entre parenthèse.
 [^t-2]: [RO 1971 315](https://fedlex.data.admin.ch/eli/oc/1971/311_315_315)
@@ -89,12 +89,15 @@ Sans préjudice des dispositions de l’art. 4 et sous réserve des exigences de
 
 <sup>3.</sup> La présente Convention n’écarte aucune compétence pénale exercée conformément aux lois nationales.
 
-**Art. 3**<sup>bis</sup> *[^3-2]*
+[^3-1]: Nouvelle teneur selon l’art. IV du Prot. du 4 avr. 2014, approuvé par l’Ass. féd. le 18 déc. 2020 et en vigueur pour la Suisse depuis le 1<sup>er</sup> août 2021 ([RO 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4981](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+
+#### Art. 3<sup>bis</sup>
+
+[^3bis-1]
 
 Si un État contractant, exerçant sa compétence au titre de l’art. 3, a été informé ou a appris autrement qu’un ou plusieurs autres États contractants mènent une enquête, une poursuite ou une instance judiciaire concernant les mêmes infractions ou actes, ledit État contractant consulte, le cas échéant, ces autres États contractants aux fins de coordonner leurs actions. Les obligations du présent article sont sans préjudice des obligations qui incombent à un État contractant en vertu de 1’art. 13.
 
-[^3-1]: Nouvelle teneur selon l’art. IV du Prot. du 4 avr. 2014, approuvé par l’Ass. féd. le 18 déc. 2020 et en vigueur pour la Suisse depuis le 1<sup>er</sup> août 2021 ([RO 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4981](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
-[^3-2]: Introduit par l’art. V du Prot. du 4 avr. 2014, approuvé par l’Ass. féd. le 18 déc. 2020 et en vigueur pour la Suisse depuis le 1<sup>er</sup> août 2021 ([RO 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4981](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+[^3bis-1]: Introduit par l’art. V du Prot. du 4 avr. 2014, approuvé par l’Ass. féd. le 18 déc. 2020 et en vigueur pour la Suisse depuis le 1<sup>er</sup> août 2021 ([RO 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4981](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 #### Art. 4
 
@@ -217,7 +220,9 @@ Tout État contractant doit permettre au commandant d’un aéronef immatriculé
 
 <sup>2.</sup> Sous réserve de ses lois relatives à l’entrée et à l’admission, à l’extradition et au refoulement des personnes, tout État contractant dans le territoire duquel une personne a été débarquée conformément aux dispositions de l’Art. 8, par. 1, ou remise conformément aux dispositions de l’Art. 9, par. 1, ou qui a débarqué et à laquelle est imputé un acte visé à l’Art. 11, par. 1, accorde à cette personne un traitement qui, en ce qui concerne sa protection et sa sécurité, n’est pas moins favorable que celui qu’il accorde à ses nationaux dans des cas analogues.
 
-**Art. 15**<sup>bis</sup> *[^15-1]*
+#### Art. 15<sup>bis</sup>
+
+[^15bis-1]
 
 <sup>1.</sup>
 
@@ -228,7 +233,7 @@ Tout État contractant est encouragé à prendre les mesures nécessaires pour e
 
 <sup>2.</sup> Aucune disposition de la présente Convention n’affecte le droit de tout État contractant d’introduire ou de maintenir dans sa législation nationale des mesures appropriées pour sanctionner des actes d’indiscipline ou de perturbation accomplis à bord.
 
-[^15-1]: Introduit par l’art. X du Prot. du 4 avr. 2014, approuvé par l’Ass. féd. le 18 déc. 2020 et en vigueur pour la Suisse depuis le 1<sup>er</sup> août 2021 ([RO 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4981](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+[^15bis-1]: Introduit par l’art. X du Prot. du 4 avr. 2014, approuvé par l’Ass. féd. le 18 déc. 2020 et en vigueur pour la Suisse depuis le 1<sup>er</sup> août 2021 ([RO 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4981](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 ## Titre VI Autres dispositions
 
@@ -254,11 +259,13 @@ Tout État contractant est encouragé à prendre les mesures nécessaires pour e
 
 Si des États contractants constituent, pour le transport aérien, des organisations d’exploitation en commun ou des organismes internationaux d’exploitation et si les aéronefs utilisés ne sont pas immatriculés dans un État déterminé, ces États désigneront, suivant des modalités appropriées, celui d’entre eux qui sera considéré, aux fins de la présente Convention, comme État d’immatriculation. Ils aviseront de cette désignation l’Organisation de l’Aviation civile internationale, qui en informera tous les États parties à la présente Convention.
 
-**Art. 18**<sup>bis</sup> *[^18-1]*
+#### Art. 18<sup>bis</sup>
+
+[^18bis-1]
 
 Aucune disposition de la présente Convention n’exclut le droit de chercher à recouvrer, conformément au droit national, des dommages-intérêts auprès d’une personne débarquée ou remise conformément aux dispositions de l’art. 8 ou 9, respectivement.
 
-[^18-1]: Introduit par l’art. XIII du Prot. du 4 avr. 2014, approuvé par l’Ass. féd. le 18 déc. 2020 et en vigueur pour la Suisse depuis le 1<sup>er</sup> août 2021 ([RO 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4981](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+[^18bis-1]: Introduit par l’art. XIII du Prot. du 4 avr. 2014, approuvé par l’Ass. féd. le 18 déc. 2020 et en vigueur pour la Suisse depuis le 1<sup>er</sup> août 2021 ([RO 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4981](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 ## Titre VII Dispositions protocolaires
 
@@ -312,11 +319,9 @@ L’Organisation de l’Aviation civile internationale notifiera à tous les Ét
 - d) la réception de toute notification de dénonciation et la date de réception, et
 - e) la réception de toute déclaration ou notification faite en vertu de l’Art. 24 et la date de réception.
 
-*En foi de quoi,* les Plénipotentiaires soussignés, dûment autorisés, ont signé la présente Convention. Fait à Tokyo le quatorzième jour du mois de septembre de l’an mil neuf cent soixante-trois, en trois textes authentiques rédigés dans les langues française, anglaise et espagnole. La présente Convention sera déposée auprès de l’Organisation de l’Aviation civile internationale où, conformément aux dispositions de l’Art. 19, elle restera ouverte à la signature et cette Organisation transmettra des copies certifiées conformes de la présente Convention à tous les États membres de l’Organisation des Nations Unies ou d’une institution spécialisée.
+*En foi de quoi,* les Plénipotentiaires soussignés, dûment autorisés, ont signé la présente Convention. Fait à Tokyo le quatorzième jour du mois de septembre de l’an mil neuf cent soixante-trois, en trois textes authentiques rédigés dans les langues française, anglaise et espagnole. La présente Convention sera déposée auprès de l’Organisation de l’Aviation civile internationale où, conformément aux dispositions de l’Art. 19, elle restera ouverte à la signature et cette Organisation transmettra des copies certifiées conformes de la présente Convention à tous les États membres de l’Organisation des Nations Unies ou d’une institution spécialisée. (Suivent les signatures)
 
-(Suivent les signatures)
-
-Champ d’application le 17 avril 2018**[^t-3]**
+Champ d’application le 21 juin 2023[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -330,7 +335,7 @@ Champ d’application le 17 avril 2018**[^t-3]**
 <tr><td>Antigua-et-Barbuda</td><td>19 juillet</td><td>1985 A</td><td>17 octobre</td><td>1985</td></tr>
 <tr><td>Arabie Saoudite</td><td>21 novembre</td><td>1969</td><td>19 février</td><td>1970</td></tr>
 <tr><td>Argentine</td><td>23 juillet</td><td>1971 A</td><td>21 octobre</td><td>1971</td></tr>
-<tr><td>Arménie</td><td>23 juin</td><td>2003 A</td><td>23 avril</td><td>2003</td></tr>
+<tr><td>Arménie</td><td>23 janvier</td><td>2003 A</td><td>23 avril</td><td>2003</td></tr>
 <tr><td>Australie</td><td>22 juin</td><td>1970 A</td><td>20 septembre</td><td>1970</td></tr>
 <tr><td>Autriche</td><td>7 février</td><td>1974 A</td><td>8 mai</td><td>1974</td></tr>
 <tr><td>Azerbaïdjan\*</td><td>5 février</td><td>2004 A</td><td>5 mai</td><td>2004</td></tr>
@@ -357,8 +362,8 @@ Champ d’application le 17 avril 2018**[^t-3]**
 <tr><td>Cap-Vert</td><td>4 octobre</td><td>1989 A</td><td>2 janvier</td><td>1990</td></tr>
 <tr><td>Chili</td><td>24 janvier</td><td>1974 A</td><td>24 avril</td><td>1974</td></tr>
 <tr><td>Chine</td><td>14 novembre</td><td>1978</td><td>12 février</td><td>1979</td></tr>
-<tr><td>[tab] Hong Kong\* <sup>a</sup></td><td>5 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
-<tr><td>[tab] Macao\* <sup>b</sup></td><td>6 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
+<tr><td>Hong Kong\* <sup>a</sup></td><td>5 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Macao\* <sup>b</sup></td><td>6 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
 <tr><td>Chypre</td><td>31 mai</td><td>1972 A</td><td>29 août</td><td>1972</td></tr>
 <tr><td>Colombie</td><td>6 juillet</td><td>1973</td><td>4 octobre</td><td>1973</td></tr>
 <tr><td>Comores</td><td>23 mai</td><td>1991 A</td><td>21 août</td><td>1991</td></tr>
@@ -400,6 +405,7 @@ Champ d’application le 17 avril 2018**[^t-3]**
 <tr><td>Hongrie</td><td>3 décembre</td><td>1970 A</td><td>3 mars</td><td>1971</td></tr>
 <tr><td>Îles Cook</td><td>12 avril</td><td>2005 A</td><td>11 juillet</td><td>2005</td></tr>
 <tr><td>Îles Marshall</td><td>15 mai</td><td>1989 A</td><td>13 août</td><td>1989</td></tr>
+<tr><td>Îles Salomon</td><td>23 mars</td><td>1982 S</td><td>7 juillet</td><td>1978</td></tr>
 <tr><td>Inde\*</td><td>22 juillet</td><td>1975 A</td><td>20 octobre</td><td>1975</td></tr>
 <tr><td>Indonésie\*</td><td>7 septembre</td><td>1976</td><td>6 décembre</td><td>1976</td></tr>
 <tr><td>Iran</td><td>28 juin</td><td>1976 A</td><td>29 septembre</td><td>1976</td></tr>
@@ -473,13 +479,13 @@ Champ d’application le 17 avril 2018**[^t-3]**
 <tr><td>République tchèque</td><td>25 mars</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie\*</td><td>15 février</td><td>1974 A</td><td>16 mai</td><td>1974</td></tr>
 <tr><td>Royaume-Uni\*</td><td>29 novembre</td><td>1968</td><td>4 décembre</td><td>1969</td></tr>
-<tr><td>[tab] Anguilla</td><td>1<sup>er</sup> décembre</td><td>1982</td><td>1<sup>er</sup> décembre</td><td>1982</td></tr>
+<tr><td>Anguilla</td><td>1<sup>er</sup> décembre</td><td>1982</td><td>1<sup>er</sup> décembre</td><td>1982</td></tr>
 <tr><td>Russie\*</td><td>3 février</td><td>1988 A</td><td>3 mai</td><td>1988</td></tr>
 <tr><td>Rwanda</td><td>17 mai</td><td>1971 A</td><td>15 août</td><td>1971</td></tr>
+<tr><td>Saint-Kitts-et-Nevis</td><td>5 octobre</td><td>2020 A</td><td>1<sup>er</sup> décembre</td><td>2020</td></tr>
 <tr><td>Saint-Marin</td><td>16 décembre</td><td>2014</td><td>16 mars</td><td>2015</td></tr>
-<tr><td>Sainte-Lucie</td><td>31 octobre</td><td>1983 A</td><td>29 janvier</td><td>1984</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>18 novembre</td><td>1991 A</td><td>16 février</td><td>1992</td></tr>
-<tr><td>Salomon, Îles</td><td>23 mars</td><td>1982 S</td><td>7 juillet</td><td>1978</td></tr>
+<tr><td>Sainte-Lucie</td><td>31 octobre</td><td>1983 A</td><td>29 janvier</td><td>1984</td></tr>
 <tr><td>Samoa</td><td>9 juillet</td><td>1998 A</td><td>7 octobre</td><td>1998</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>4 mai</td><td>2006 A</td><td>2 août</td><td>2006</td></tr>
 <tr><td>Sénégal</td><td>9 mars</td><td>1972</td><td>7 juin</td><td>1972</td></tr>
@@ -513,9 +519,7 @@ Champ d’application le 17 avril 2018**[^t-3]**
 <tr><td>Yémen</td><td>26 septembre</td><td>1986 A</td><td>25 décembre</td><td>1986</td></tr>
 <tr><td>Zambie</td><td>14 septembre</td><td>1971 A</td><td>13 décembre</td><td>1971</td></tr>
 <tr><td>Zimbabwe</td><td>8 mars</td><td>1989 A</td><td>6 juin</td><td>1989</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Du 7 juillet 1999 au 19 déc. 1999, la Convention était applicable à Macao sur la base d'une déclaration d'extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 déc. 1999, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): [www.icao.int](https://www.icao.int) &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 7 juillet 1999 au 19 déc. 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 déc. 1999, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-3]: [RO 1976 500](https://fedlex.data.admin.ch/eli/oc/1976/500_500_500), [1888](https://fedlex.data.admin.ch/eli/oc/1976/1888_1888_1888); [1978 308](https://fedlex.data.admin.ch/eli/oc/1978/308_308_308); [1979 1532](https://fedlex.data.admin.ch/eli/oc/1979/1532_1532_1532); [1981 1640](https://fedlex.data.admin.ch/eli/oc/1981/1640_1640_1640); [1983 249](https://fedlex.data.admin.ch/eli/oc/1983/249_249_249); [1986 907](https://fedlex.data.admin.ch/eli/oc/1986/907_907_907); [1987 1160](https://fedlex.data.admin.ch/eli/oc/1987/1160_1160_1160); [1989 864](https://fedlex.data.admin.ch/eli/oc/1989/864_864_864); [1990 1569](https://fedlex.data.admin.ch/eli/oc/1990/1569_1569_1569); [1991 2314](https://fedlex.data.admin.ch/eli/oc/1991/2314_2314_2314); [2005 1609](https://fedlex.data.admin.ch/eli/oc/2005/251), [5001](https://fedlex.data.admin.ch/eli/oc/2005/686); [2009 79](https://fedlex.data.admin.ch/eli/oc/2009/18); [2013 2721](https://fedlex.data.admin.ch/eli/oc/2013/559); [2018 1751](https://fedlex.data.admin.ch/eli/oc/2018/257). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://www.fedlex.admin.ch/fr/treaty.
+[^t-3]: [RO 1976 500](https://fedlex.data.admin.ch/eli/oc/1976/500_500_500), [1888](https://fedlex.data.admin.ch/eli/oc/1976/1888_1888_1888); [1978 308](https://fedlex.data.admin.ch/eli/oc/1978/308_308_308); [1979 1532](https://fedlex.data.admin.ch/eli/oc/1979/1532_1532_1532); [1981 1640](https://fedlex.data.admin.ch/eli/oc/1981/1640_1640_1640); [1983 249](https://fedlex.data.admin.ch/eli/oc/1983/249_249_249); [1986 907](https://fedlex.data.admin.ch/eli/oc/1986/907_907_907); [1987 1160](https://fedlex.data.admin.ch/eli/oc/1987/1160_1160_1160); [1989 864](https://fedlex.data.admin.ch/eli/oc/1989/864_864_864); [1990 1569](https://fedlex.data.admin.ch/eli/oc/1990/1569_1569_1569); [1991 2314](https://fedlex.data.admin.ch/eli/oc/1991/2314_2314_2314); [2005 1609](https://fedlex.data.admin.ch/eli/oc/2005/251), [5001](https://fedlex.data.admin.ch/eli/oc/2005/686); [2009 79](https://fedlex.data.admin.ch/eli/oc/2009/18); [2013 2721](https://fedlex.data.admin.ch/eli/oc/2013/559); [2018 1751](https://fedlex.data.admin.ch/eli/oc/2018/257); [2023 318](https://fedlex.data.admin.ch/eli/oc/2023/318). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

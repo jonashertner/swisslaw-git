@@ -3,32 +3,24 @@ sr: "0.748.710.1"
 title: Convenzione del 14 settembre 1963 concernente le infrazioni e taluni altri atti commessi a bordo di aeromobili
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/312_316_316"
 language: it
-version: 2021-08-01
+version: 2023-06-21
 adopted: 1963-09-14
 in_force: 1971-03-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/312_316_316/20210801/it/xml/fedlex-data-admin-ch-eli-cc-1971-312_316_316-20210801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/312_316_316/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/312_316_316/20230621/it/xml/fedlex-data-admin-ch-eli-cc-1971-312_316_316-20230621-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/312_316_316/20230621/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione concernente le infrazioni e taluni altri atti commessi a bordo di aeromobili****
+# Convenzione concernente le infrazioni e taluni altri atti commessi a bordo di aeromobili
 
 RU **1971** 316; FF **1970** I 33[^t-1]
 
 Traduzione
 
-Conchiusa a Tokio il 14 settembre 1963
+Conchiusa a Tokio il 14 settembre 1963 Firmata dalla Svizzera il 31 ottobre 1969 Approvata dall’Assemblea federale il 9 ottobre 1970[^t-2] Ratificata dalla Svizzera con strumento depositato il 21 dicembre 1970 Entrata in vigore per la Svizzera il 21 marzo 1971
 
-Firmata dalla Svizzera il 31 ottobre 1969
-
-Approvata dall’Assemblea federale il 9 ottobre 1970[^t-2]
-
-Ratificata dalla Svizzera con strumento depositato il 21 dicembre 1970
-
-Entrata in vigore per la Svizzera il 21 marzo 1971
-
-(Stato 1° agosto 2021)
+(Stato 21 giugno 2023)
 
 [^t-1]: Gli emendamenti del 4 aprile 2014 ([[RS](https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/de) 0.748.710.1](https://fedlex.data.admin.ch/eli/cc/1971/312_316_316); [RU 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469)) sono inseriti nella presente Convenzione. Questi emendamenti sono in vigore solo nei rapporti tra gli Stati che li hanno ratificati. Vedi dunque il campo d’applicazione del Protocollo.
 [^t-2]: [RU 1971 315](https://fedlex.data.admin.ch/eli/oc/1971/311_315_315)
@@ -97,7 +89,7 @@ Senza pregiudizio per le disposizioni dell’articolo 4 e con riserva delle esig
 
 <sup>3.</sup> La presente convenzione non libera da nessuna competenza penale esercitata conformemente alle legislazioni nazionali.
 
-**Art. 3**<sup>bis</sup> *[^3-2]*
+**Art. 3**<sup>bis</sup> [^3-2]
 
 Qualora uno Stato contraente, nell’esercizio della propria competenza ai sensi dell’articolo 3, abbia ricevuto notifica o in altro modo apprenda che uno o più Stati contraenti abbiano in corso indagini o abbiano avviato procedimenti giudiziari o processuali in relazione alle stesse infrazioni o agli stessi atti, tale Stato contraente consulterà, ove opportuno, tali altri Stati contraenti al fine di coordinare le rispettive azioni. Gli obblighi di cui al presente articolo non pregiudicano in alcun modo gli obblighi derivanti per gli Stati contraenti dall’articolo 13.
 
@@ -225,7 +217,7 @@ Ciascuno Stato contraente deve permettere al comandante d’un aeromobile immatr
 
 <sup>2.</sup> Con riserva delle leggi concernenti l’entrata, l’ammissione, l’estradizione e il rinvio di persone, ciascun Stato contraente, nel territorio del quale sia stata sbarcata una persona conformemente alle disposizioni dell’articolo 8 paragrafo 1 o consegnata conformemente all’articolo 9 paragrafo 1 o, ancora, sbarcata per la perpetrazione d’un atto di cui all’articolo 11 paragrafo 1, concede a quest’ultima persona un trattamento che, per quanto concerne la protezione e la sicurezza, non risulti meno favorevole di quello concesso ai propri cittadini in casi analoghi.
 
-**Art. 15**<sup>bis</sup> *[^15-1]*
+**Art. 15**<sup>bis</sup> [^15-1]
 
 <sup>1.</sup>
 
@@ -262,7 +254,7 @@ Ciascuno Stato contraente è incoraggiato a prendere i provvedimenti necessari a
 
 Se gli Stati contraenti costituiscono, per il trasporto aereo, organizzazioni d’esercizio in comune o organizzazioni internazionali e se gli aeromobili utilizzati non sono immatricolati in uno Stato determinato, essi designano, secondo modalità adeguate, quello fra essi che sarà considerato come Stato d’immatricolazione al fine della presente convenzione. La designazione è comunicata all’Organizzazione dell’aviazione civile internazionale la quale ne informa tutti gli Stati partecipanti alla presente convenzione.
 
-**Art. 18**<sup>bis</sup> *[^18-1]*
+**Art. 18**<sup>bis</sup> [^18-1]
 
 Nessuna disposizione della presente convenzione preclude il diritto di ottenere il risarcimento dei danni subiti, in conformità con il diritto nazionale, da una persona sbarcata o consegnata conformemente alle disposizioni dell’articolo 8 o 9, rispettivamente.
 
@@ -322,7 +314,7 @@ L’organizzazione dell’aviazione civile internazionale notifica a tutti gli S
 
 *In fede di che*, i plenipotenziari sottoscritti, debitamente autorizzati, hanno firmato la presente convenzione. Fatto a Tokio, il 14 settembre 1963, in tre testi originali nelle lingue francese, inglese e spagnola. La presente convenzione è depositata presso l’Organizzazione dell’aviazione civile internazionale e rimane aperta alla firma, conformemente alle disposizioni dell’articolo 19; questa organizzazione trasmette copie certificate conformi a tutti gli Stati membri dell’organizzazione delle Nazioni Unite o di una loro istituzione specializzata. (Seguono le firme)
 
-Campo d’applicazione il 17 aprile 2018**[^t-3]**
+Campo d’applicazione il 21 giugno 2023[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -477,6 +469,7 @@ Campo d’applicazione il 17 aprile 2018**[^t-3]**
 <tr><td>Romania<sup>\*</sup></td><td>15 febbraio</td><td>1974 A</td><td>16 maggio</td><td>1974</td></tr>
 <tr><td>Ruanda</td><td>17 maggio</td><td>1971 A</td><td>15 agosto</td><td>1971</td></tr>
 <tr><td>Russia<sup>\*</sup></td><td>3 febbraio</td><td>1988 A</td><td>3 maggio</td><td>1988</td></tr>
+<tr><td>Saint Kitts e Nevis</td><td>5 ottobre</td><td>2020 A</td><td>1° dicembre</td><td>2020</td></tr>
 <tr><td>Saint Lucia</td><td>31 ottobre</td><td>1983 A</td><td>29 gennaio</td><td>1984</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>18 novembre</td><td>1991 A</td><td>16 febbraio</td><td>1992</td></tr>
 <tr><td>Salomone, Isole</td><td>23 marzo</td><td>1982 S</td><td>7 luglio</td><td>1978</td></tr>
@@ -524,6 +517,4 @@ Campo d’applicazione il 17 aprile 2018**[^t-3]**
 <tr><td colspan="5"><sup>b</sup> Dal 7 lug. 1999 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 dic. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
 </table>
 
-- [tab]
-
-[^t-3]: [RU 1976 500](https://fedlex.data.admin.ch/eli/oc/1976/500_500_500)[1888](https://fedlex.data.admin.ch/eli/oc/1976/1888_1888_1888), [1978 308](https://fedlex.data.admin.ch/eli/oc/1978/308_308_308), [1979 1532](https://fedlex.data.admin.ch/eli/oc/1979/1532_1532_1532), [1981 1640](https://fedlex.data.admin.ch/eli/oc/1981/1640_1640_1640), [1983 249](https://fedlex.data.admin.ch/eli/oc/1983/249_249_249), [1986 907](https://fedlex.data.admin.ch/eli/oc/1986/907_907_907), [1987 1160](https://fedlex.data.admin.ch/eli/oc/1987/1160_1160_1160), [1989 864](https://fedlex.data.admin.ch/eli/oc/1989/864_864_864), [1990 1569](https://fedlex.data.admin.ch/eli/oc/1990/1569_1569_1569), [1991 2314](https://fedlex.data.admin.ch/eli/oc/1991/2314_2314_2314), [2005 1609](https://fedlex.data.admin.ch/eli/oc/2005/251)[5001](https://fedlex.data.admin.ch/eli/oc/2005/686), [2009 79](https://fedlex.data.admin.ch/eli/oc/2009/18), [2013 2721](https://fedlex.data.admin.ch/eli/oc/2013/559)e [2018 1751](https://fedlex.data.admin.ch/eli/oc/2018/257). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.
+[^t-3]: RU **1976** 1640; [1983 249](https://fedlex.data.admin.ch/eli/oc/1983/249_249_249); [1986 907](https://fedlex.data.admin.ch/eli/oc/1986/907_907_907); [1987 1160](https://fedlex.data.admin.ch/eli/oc/1987/1160_1160_1160); [1989 864](https://fedlex.data.admin.ch/eli/oc/1989/864_864_864); [1990 1569](https://fedlex.data.admin.ch/eli/oc/1990/1569_1569_1569); [1991 2314](https://fedlex.data.admin.ch/eli/oc/1991/2314_2314_2314); [2005 1609](https://fedlex.data.admin.ch/eli/oc/2005/251), [5001](https://fedlex.data.admin.ch/eli/oc/2005/686); [2009 79](https://fedlex.data.admin.ch/eli/oc/2009/18); [2013 2721](https://fedlex.data.admin.ch/eli/oc/2013/559); [2018 1751](https://fedlex.data.admin.ch/eli/oc/2018/257); [2023 318](https://fedlex.data.admin.ch/eli/oc/2023/318). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
