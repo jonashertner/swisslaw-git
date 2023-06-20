@@ -3,28 +3,27 @@ sr: "0.515.102"
 title: "Dichiarazione del 29 luglio 1899 circa l'uso di proiettili che spandono gas asfissianti o deleteri"
 eli: "https://fedlex.data.admin.ch/eli/cc/18/542_472_524"
 language: it
-version: 2015-07-06
+version: 2023-06-21
 adopted: 1899-07-29
 in_force: 1900-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/18/542_472_524/20150706/it/xml/fedlex-data-admin-ch-eli-cc-18-542_472_524-20150706-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/18/542_472_524/20150706/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/18/542_472_524/20230621/it/xml/fedlex-data-admin-ch-eli-cc-18-542_472_524-20230621-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/18/542_472_524/20230621/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Dichiarazione circa l’uso di proiettili che spandono gas asfissianti o deleteri****
+# Dichiarazione circa l’uso di proiettili che spandono gas asfissianti o deleteri
 
 CS **11** 405; FF **1900** III 1 ediz. ted. **1900** III 73 ediz. franc.[^t-1]
 
-Traduzione*[^t-2]*
+Traduzione
 
-Data il 29 luglio 1899 Approvata dall’Assemblea federale il 10 dicembre 1900[^t-3] Istrumento di ratificazione depositato dalla Svizzera il 29 dicembre 1900
+Data il 29 luglio 1899 Approvata dall’Assemblea federale il 10 dicembre 1900[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 29 dicembre 1900
 
-(Stato 6 luglio 2015)
+(Stato 21 giugno 2023)
 
 [^t-1]: Trattasi della Dichiarazione n. IV 2 firmata alla Conferenza per la pace all’Aja, del 1899. L’atto finale di questa Conferenza è pubblicato in [RS 0.193.211](https://fedlex.data.admin.ch/eli/cc/18/517_433_502)in fine.
-[^t-2]: Dal testo originale francese.
-[^t-3]: N. I 4 del DF del 10 dic. 1900 (RU **18** 433).
+[^t-2]: N. I 4 del DF del 10 dic. 1900 (RU **18** 433).
 
 I sottoscritti, Plenipotenziari delle Potenze rappresentate alla Conferenza Internazionale della Pace all’Aja debitamente a ciò autorizzati dai loro Governi,
 
@@ -54,7 +53,7 @@ Questa denunzia non produrrà i suoi effetti che rispetto alla Potenza che l’a
 
 *In fede di che,* i Plenipotenziari hanno sottoscritto la presente Dichiarazione e l’hanno munita dei loro sigilli. Fatto all’Aja, il 29 luglio 1899, in un solo esemplare che rimarrà in deposito nell’archivio del Governo de’ Paesi Bassi, e di cui delle copie certificate conformi, saranno rimesse in via diplomatica alle Potenze contraenti. (Seguono le firme)
 
-Campo d’applicazione il 6 luglio 2015**[^t-4]**
+Campo d’applicazione il 21 giugno 2023[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -70,6 +69,7 @@ Campo d’applicazione il 6 luglio 2015**[^t-4]**
 <tr><td>Germania</td><td>4 settembre</td><td>1900</td><td>4 settembre</td><td>1900</td></tr>
 <tr><td>Giappone</td><td>6 ottobre</td><td>1900</td><td>6 ottobre</td><td>1900</td></tr>
 <tr><td>Grecia</td><td>4 aprile</td><td>1901</td><td>4 aprile</td><td>1901</td></tr>
+<tr><td>India</td><td>29 luglio</td><td>1950 S</td><td>15 agosto</td><td>1947</td></tr>
 <tr><td>Iran</td><td>4 settembre</td><td>1900</td><td>4 settembre</td><td>1900</td></tr>
 <tr><td>Italia</td><td>4 settembre</td><td>1900</td><td>4 settembre</td><td>1900</td></tr>
 <tr><td>Lussemburgo</td><td>12 luglio</td><td>1901</td><td>12 luglio</td><td>1901</td></tr>
@@ -98,4 +98,4 @@ Campo d’applicazione il 6 luglio 2015**[^t-4]**
 <tr><td>Ungheria</td><td>4 settembre</td><td>1900</td><td>4 settembre</td><td>1900</td></tr>
 </table>
 
-[^t-4]: [RU 2009 5379](https://fedlex.data.admin.ch/eli/oc/2009/644)e [2015 2571](https://fedlex.data.admin.ch/eli/oc/2015/483). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: Completa quelli in [RU 2009 5379](https://fedlex.data.admin.ch/eli/oc/2009/644); [2015 2571](https://fedlex.data.admin.ch/eli/oc/2015/483); [2023 315](https://fedlex.data.admin.ch/eli/oc/2023/315). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20).
