@@ -3,11 +3,11 @@ sr: "0.748.411"
 title: Übereinkommen vom 28. Mai 1999 zur Vereinheitlichung bestimmter Vorschriften über die Beförderung im internationalen Luftverkehr
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/566"
 language: de
-version: 2018-11-21
+version: 2023-06-21
 adopted: 1999-05-28
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/566/20181121/de/xml/fedlex-data-admin-ch-eli-cc-2005-566-20181121-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/566/20181121/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/566/20230621/de/xml/fedlex-data-admin-ch-eli-cc-2005-566-20230621-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/566/20230621/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 7. Juli 2005
 
 Inkrafttreten für die Schweiz am 5. September 2005
 
-(Stand am 21. November 2018)
+(Stand am 21. Juni 2023)
 
 [^t-1]: [AS 2005 4393](https://fedlex.data.admin.ch/eli/oc/2005/565)
 
@@ -593,9 +593,9 @@ Zu diesem Übereinkommen dürfen keine Vorbehalte angebracht werden; allerdings 
 - a) die Beförderung im internationalen Luftverkehr, die unmittelbar von diesem Vertragsstaat zu nichtgewerblichen Zwecken im Hinblick auf seine Aufgaben und Pflichten als souveräner Staat ausgeführt und betrieben wird;
 - b) die Beförderung von Personen, Gütern und Reisegepäck für seine militärischen Dienststellen mit in diesem Vertragsstaat eingetragenen oder von ihm gemieteten Luftfahrzeugen, die ausschliesslich diesen Dienststellen vorbehalten sind.
 
-*Zu Urkund dessen* haben die unterzeichneten, hierzu gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. Geschehen zu Montreal am 28. Mai 1999 in arabischer, chinesischer, englischer, französischer, russischer und spanischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. Dieses Übereinkommen wird im Archiv der Internationalen Zivilluftfahrt-Organisation hinterlegt; beglaubigte Abschriften werden vom Depositar allen Vertragsstaaten dieses Übereinkommens sowie allen Vertragsstaaten des Warschauer Abkommens, des Haager Protokolls, des Abkommens von Guadalajara, des Protokolls von Guatemala-Stadt und der Protokolle von Montreal übermittelt. *(Es folgen die Unterschriften)*
+*Zu Urkund dessen* haben die unterzeichneten, hierzu gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. Geschehen zu Montreal am 28. Mai 1999 in arabischer, chinesischer, englischer, französischer, russischer und spanischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. Dieses Übereinkommen wird im Archiv der Internationalen Zivilluftfahrt-Organisation hinterlegt; beglaubigte Abschriften werden vom Depositar allen Vertragsstaaten dieses Übereinkommens sowie allen Vertragsstaaten des Warschauer Abkommens, des Haager Protokolls, des Abkommens von Guadalajara, des Protokolls von Guatemala-Stadt und der Protokolle von Montreal übermittelt. (Es folgen die Unterschriften)
 
-Geltungsbereich am 21. November 2018**[^t-2]**
+Geltungsbereich am 21. Juni 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -608,17 +608,19 @@ Geltungsbereich am 21. November 2018**[^t-2]**
 <tr><td>Äthiopien</td><td>23. April</td><td>2014 B</td><td>22. Juni</td><td>2014</td></tr>
 <tr><td>Australien</td><td>25. November</td><td>2008</td><td>24. Januar</td><td>2009</td></tr>
 <tr><td>Bahrain</td><td>2. Februar</td><td>2001 B</td><td>4. November</td><td>2003</td></tr>
+<tr><td>Bangladesch</td><td>2. September</td><td>2022</td><td>1. November</td><td>2022</td></tr>
 <tr><td>Barbados</td><td>2. Januar</td><td>2002 B</td><td>4. November</td><td>2003</td></tr>
 <tr><td>Belgien\*</td><td>29. April</td><td>2004</td><td>28. Juni</td><td>2004</td></tr>
-<tr><td>Belize</td><td>28. Mai</td><td>1999</td><td>4. November</td><td>2003</td></tr>
+<tr><td>Belize</td><td>25. August</td><td>1999</td><td>4. November</td><td>2003</td></tr>
 <tr><td>Benin</td><td>30. März</td><td>2004</td><td>29. Mai</td><td>2004</td></tr>
 <tr><td>Bolivien</td><td>6. Mai</td><td>2015</td><td>5. Juli</td><td>2015</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>9. März</td><td>2007 B</td><td>8. Mai</td><td>2007</td></tr>
 <tr><td>Botsuana</td><td>28. März</td><td>2001 B</td><td>4. November</td><td>2003</td></tr>
 <tr><td>Brasilien</td><td>19. Mai</td><td>2006</td><td>18. Juli</td><td>2006</td></tr>
+<tr><td>Brunei<sup>\*</sup></td><td>18. März</td><td>2020 B</td><td>17. Mai</td><td>2020</td></tr>
 <tr><td>Bulgarien</td><td>10. November</td><td>2003 B</td><td>9. Januar</td><td>2004</td></tr>
 <tr><td>Burkina Faso</td><td>25. Juni</td><td>2013</td><td>24. August</td><td>2013</td></tr>
-<tr><td>Chile\*</td><td>19. März</td><td>2009</td><td>19. Mai</td><td>2009</td></tr>
+<tr><td>Chile<sup>\*</sup></td><td>19. März</td><td>2009</td><td>18. Mai</td><td>2009</td></tr>
 <tr><td>China <sup>a</sup></td><td>1. Juni</td><td>2005</td><td>31. Juli</td><td>2005</td></tr>
 <tr><td>Macau</td><td>1. Juni</td><td>2005</td><td>31. Juli</td><td>2005</td></tr>
 <tr><td>Cook-Inseln</td><td>22. Mai</td><td>2007 B</td><td>21. Juli</td><td>2007</td></tr>
@@ -630,6 +632,7 @@ Geltungsbereich am 21. November 2018**[^t-2]**
 <tr><td>Ecuador</td><td>27. Juni</td><td>2006 B</td><td>26. August</td><td>2006</td></tr>
 <tr><td>El Salvador</td><td>7. November</td><td>2007 B</td><td>6. Januar</td><td>2008</td></tr>
 <tr><td>Estland</td><td>10. April</td><td>2003</td><td>4. November</td><td>2003</td></tr>
+<tr><td>Eswatini</td><td>23. November</td><td>2016</td><td>22. Januar</td><td>2017</td></tr>
 <tr><td>Europäische Union\*</td><td>29. April</td><td>2004</td><td>28. Juni</td><td>2004</td></tr>
 <tr><td>Fidschi</td><td>10. November</td><td>2015 B</td><td>9. Januar</td><td>2016</td></tr>
 <tr><td>Finnland\*</td><td>29. April</td><td>2004</td><td>28. Juni</td><td>2004</td></tr>
@@ -639,7 +642,7 @@ Geltungsbereich am 21. November 2018**[^t-2]**
 <tr><td>Georgien</td><td>20. Dezember</td><td>2010 B</td><td>18. Februar</td><td>2011</td></tr>
 <tr><td>Ghana</td><td>4. Juni</td><td>2018</td><td>3. August</td><td>2018</td></tr>
 <tr><td>Griechenland</td><td>22. Juli</td><td>2002</td><td>4. November</td><td>2003</td></tr>
-<tr><td>Guatemala\*</td><td>7. Juni</td><td>2016 B</td><td>5. August</td><td>2016</td></tr>
+<tr><td>Guatemala<sup>\*</sup></td><td>7. Juni</td><td>2016 B</td><td>6. August</td><td>2016</td></tr>
 <tr><td>Guyana</td><td>23. Dezember</td><td>2014 B</td><td>21. Februar</td><td>2015</td></tr>
 <tr><td>Honduras</td><td>25. November</td><td>2015 B</td><td>24. Januar</td><td>2016</td></tr>
 <tr><td>Indien</td><td>1. Mai</td><td>2009 B</td><td>30. Juni</td><td>2009</td></tr>
@@ -675,21 +678,22 @@ Geltungsbereich am 21. November 2018**[^t-2]**
 <tr><td>Malta</td><td>5. Mai</td><td>2004</td><td>4. Juli</td><td>2004</td></tr>
 <tr><td>Marokko</td><td>15. April</td><td>2010 B</td><td>14. Juni</td><td>2010</td></tr>
 <tr><td>Mauritius</td><td>2. Februar</td><td>2017</td><td>3. April</td><td>2017</td></tr>
-<tr><td>Mazedonien</td><td>15. Mai</td><td>2000 B</td><td>4. November</td><td>2003</td></tr>
 <tr><td>Mexiko</td><td>20. November</td><td>2000</td><td>4. November</td><td>2003</td></tr>
-<tr><td>Moldau</td><td>17. März</td><td>2009 B</td><td>17. Mai</td><td>2009</td></tr>
+<tr><td>Moldau</td><td>17. März</td><td>2009 B</td><td>16. Mai</td><td>2009</td></tr>
 <tr><td>Monaco</td><td>18. August</td><td>2004</td><td>17. Oktober</td><td>2004</td></tr>
 <tr><td>Mongolei</td><td>5. Oktober</td><td>2004 B</td><td>4. Dezember</td><td>2004</td></tr>
 <tr><td>Montenegro\*</td><td>15. Januar</td><td>2010 B</td><td>16. März</td><td>2010</td></tr>
-<tr><td>Mosambik</td><td>27. Januar</td><td>2014</td><td>27. März</td><td>2014</td></tr>
+<tr><td>Mosambik</td><td>27. Januar</td><td>2014</td><td>28. März</td><td>2014</td></tr>
 <tr><td>Namibia</td><td>27. September</td><td>2001</td><td>4. November</td><td>2003</td></tr>
 <tr><td>Nepal\*</td><td>16. Oktober</td><td>2018 B</td><td>15. Dezember</td><td>2018</td></tr>
 <tr><td>Neuseeland</td><td>18. November</td><td>2002</td><td>4. November</td><td>2003</td></tr>
 <tr><td>Tokelau</td><td>18. November</td><td>2002</td><td>4. November</td><td>2003</td></tr>
+<tr><td>Nicaragua</td><td>6. September</td><td>2022 B</td><td>5. November</td><td>2022</td></tr>
 <tr><td>Niederlande\*</td><td>29. April</td><td>2004</td><td>28. Juni</td><td>2004</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>28. September</td><td>2016</td><td>1. Oktober</td><td>2016</td></tr>
 <tr><td>Niger</td><td>31. Januar</td><td>2018</td><td>1. April</td><td>2018</td></tr>
 <tr><td>Nigeria</td><td>10. Mai</td><td>2002</td><td>4. November</td><td>2003</td></tr>
+<tr><td>Nordmazedonien</td><td>15. Mai</td><td>2000 B</td><td>4. November</td><td>2003</td></tr>
 <tr><td>Norwegen</td><td>29. April</td><td>2004 B</td><td>28. Juni</td><td>2004</td></tr>
 <tr><td>Oman</td><td>28. Mai</td><td>2007 B</td><td>27. Juli</td><td>2007</td></tr>
 <tr><td>Österreich\*</td><td>29. April</td><td>2004 B</td><td>28. Juni</td><td>2004</td></tr>
@@ -709,15 +713,15 @@ Geltungsbereich am 21. November 2018**[^t-2]**
 <tr><td>Senegal</td><td>7. September</td><td>2016</td><td>6. November</td><td>2016</td></tr>
 <tr><td>Serbien</td><td>3. Februar</td><td>2010 B</td><td>4. April</td><td>2010</td></tr>
 <tr><td>Seychellen</td><td>13. September</td><td>2010 B</td><td>12. November</td><td>2010</td></tr>
-<tr><td>Sierra Leone</td><td>25. November</td><td>2015</td><td>24. Januar</td><td>2016</td></tr>
+<tr><td>Sierra Leone</td><td>24. November</td><td>2015</td><td>23. Januar</td><td>2016</td></tr>
 <tr><td>Singapur\*</td><td>17. September</td><td>2007 B</td><td>16. November</td><td>2007</td></tr>
 <tr><td>Slowakei</td><td>11. Oktober</td><td>2000</td><td>4. November</td><td>2003</td></tr>
 <tr><td>Slowenien</td><td>27. März</td><td>2002</td><td>4. November</td><td>2003</td></tr>
 <tr><td>Spanien\*</td><td>29. April</td><td>2004</td><td>28. Juni</td><td>2004</td></tr>
+<tr><td>Sri Lanka</td><td>19. November</td><td>2018 B</td><td>18. Januar</td><td>2019</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>29. März</td><td>2004 B</td><td>28. Mai</td><td>2004</td></tr>
 <tr><td>Südafrika</td><td>22. November</td><td>2006</td><td>21. Januar</td><td>2007</td></tr>
 <tr><td>Sudan</td><td>18. August</td><td>2017</td><td>17. Oktober</td><td>2017</td></tr>
-<tr><td>Swasiland</td><td>23. November</td><td>2016</td><td>22. Januar</td><td>2017</td></tr>
 <tr><td>Syrien</td><td>18. Juli</td><td>2002 B</td><td>4. November</td><td>2003</td></tr>
 <tr><td>Tansania</td><td>11. Februar</td><td>2003 B</td><td>4. November</td><td>2003</td></tr>
 <tr><td>Thailand<sup>\*</sup></td><td>3. August</td><td>2017 B</td><td>2. Oktober</td><td>2017</td></tr>
@@ -728,7 +732,7 @@ Geltungsbereich am 21. November 2018**[^t-2]**
 <tr><td>Tunesien</td><td>21. September</td><td>2018 B</td><td>20. November</td><td>2018</td></tr>
 <tr><td>Türkei\*</td><td>25. Januar</td><td>2011</td><td>26. März</td><td>2011</td></tr>
 <tr><td>Uganda</td><td>28. November</td><td>2017 B</td><td>27. Januar</td><td>2018</td></tr>
-<tr><td>Ukraine</td><td>6. März</td><td>2009 B</td><td>6. Mai</td><td>2009</td></tr>
+<tr><td>Ukraine</td><td>6. März</td><td>2009 B</td><td>5. Mai</td><td>2009</td></tr>
 <tr><td>Ungarn</td><td>8. November</td><td>2004 B</td><td>7. Januar</td><td>2005</td></tr>
 <tr><td>Uruguay</td><td>4. Februar</td><td>2008</td><td>4. April</td><td>2008</td></tr>
 <tr><td>Vanuatu</td><td>9. November</td><td>2005 B</td><td>8. Januar</td><td>2006</td></tr>
@@ -737,7 +741,7 @@ Geltungsbereich am 21. November 2018**[^t-2]**
 <tr><td>Vereinigtes Königreich</td><td>29. April</td><td>2004</td><td>28. Juni</td><td>2004</td></tr>
 <tr><td>Vietnam</td><td>27. September</td><td>2018 B</td><td>26. November</td><td>2018</td></tr>
 <tr><td>Zypern</td><td>20. November</td><td>2002 B</td><td>4. November</td><td>2003</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen und französischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtsorganisation: www.icao.int/secretariat/legal/Pages/FR/TreatyCollection\_FR.aspx eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereink. gilt nicht für die Besondere Verwaltungsregion (SAR) Hong Kong. <sup>b</sup> Das Übereink. gilt nicht für die Färöer.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: [www.icao.int](http://www.icao.int/) &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereink. gilt nicht für die Besondere Verwaltungsregion (SAR) Hong Kong. <sup>b</sup> Das Übereink. gilt nicht für die Färöer.</td></tr>
 </table>
 
-[^t-2]: [AS 2005 4395](https://fedlex.data.admin.ch/eli/oc/2005/566), [2006 3357](https://fedlex.data.admin.ch/eli/oc/2006/528), [2007 5431](https://fedlex.data.admin.ch/eli/oc/2007/755), [2008 1649](https://fedlex.data.admin.ch/eli/oc/2008/239), [2009 3717](https://fedlex.data.admin.ch/eli/oc/2009/469), [2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19), [2011 4321](https://fedlex.data.admin.ch/eli/oc/2011/586), [2014 2389](https://fedlex.data.admin.ch/eli/oc/2014/412), [2015 5993](https://fedlex.data.admin.ch/eli/oc/2015/930), [2017 507](https://fedlex.data.admin.ch/eli/oc/2017/87)[6009](https://fedlex.data.admin.ch/eli/oc/2017/659)und [2018 5399](https://fedlex.data.admin.ch/eli/oc/2018/814). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2005 4395](https://fedlex.data.admin.ch/eli/oc/2005/566), [2006 3357](https://fedlex.data.admin.ch/eli/oc/2006/528), [2007 5431](https://fedlex.data.admin.ch/eli/oc/2007/755), [2008 1649](https://fedlex.data.admin.ch/eli/oc/2008/239), [2009 3717](https://fedlex.data.admin.ch/eli/oc/2009/469), [2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19), [2011 4321](https://fedlex.data.admin.ch/eli/oc/2011/586), [2014 2389](https://fedlex.data.admin.ch/eli/oc/2014/412), [2015 5993](https://fedlex.data.admin.ch/eli/oc/2015/930), [2017 507](https://fedlex.data.admin.ch/eli/oc/2017/87)[6009](https://fedlex.data.admin.ch/eli/oc/2017/659), [2018 5399](https://fedlex.data.admin.ch/eli/oc/2018/814); [2023 322](https://fedlex.data.admin.ch/eli/oc/2023/322). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
