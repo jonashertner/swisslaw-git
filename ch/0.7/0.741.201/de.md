@@ -3,11 +3,11 @@ sr: "0.741.201"
 title: "Europäisches Zusatzübereinkommen vom 1. Mai 1971 zum Übereinkommen über Strassenverkehrszeichen, das in Wien am 8. November 1968 zur Unterzeichnung aufgelegt wurde (mit Anhang)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/604_604_604"
 language: de
-version: 2016-12-29
+version: 2023-06-21
 adopted: 1971-05-01
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/de/xml/fedlex-data-admin-ch-eli-cc-1993-604_604_604-20161229-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/604_604_604/20161229/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/fedlex-data-admin-ch-eli-cc-1993-604_604_604-20230621-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/604_604_604/20230621/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,20 +16,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/604_604_604/20161229/de"
 
 AS **1993** 604; BBl **1978** I 1440
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen in Genf am 1. Mai 1971
 
-Von der Bundesversammlung genehmigt am 15. Dezember 1978[^t-2]
+Von der Bundesversammlung genehmigt am 15. Dezember 1978[^t-1]
 
 Schweizerische Ratifikationsurkunde hinterlegt am 11. Dezember 1991
 
 In Kraft getreten für die Schweiz am 11. Dezember 1992
 
-(Stand am 29. Dezember 2016)
+(Stand am 21. Juni 2023)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: Art. 1 Abs. 1 Bst. d des BB vom 15. Dez. 1978 ([AS 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
+[^t-1]: Art. 1 Abs. 1 Bst. d des BB vom 15. Dez. 1978 ([AS 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
 Die Vertragsparteien,
 
@@ -152,7 +151,7 @@ Nach dem 31. Dezember 1972 wird die Urschrift dieses Zusatzübereinkommens beim 
 
 (Es folgen die Unterschriften)
 
-Anhang*[^t-3]*
+Anhang[^t-2]
 
 \1. Im Sinne dieses Anhangs ist «Übereinkommen» das am 8. November 1968 in Wien zur Unterzeichnung aufgelegte Übereinkommen über Strassenverkehrszeichen.
 
@@ -489,7 +488,7 @@ Zusätzlicher Absatz, der unmittelbar nach Nummer 1 einzufügen ist
 
 Dieser Absatz lautet: «Der Grund der Zusatzschilder sollte vorzugsweise dem Grund der einzelnen Zeichengruppen entsprechen, mit denen sie verwendet werden.»
 
-[^t-3]: Bereinigt gemäss der am 27. Nov. 1995 in Kraft getretenen Änd. ([AS 1997 1368](https://fedlex.data.admin.ch/eli/oc/1997/1368_1368_1368)) und der am 28. März 2006 in Kraft getretenen Änd. ([AS 2007 3711](https://fedlex.data.admin.ch/eli/oc/2007/467)).
+[^t-2]: Bereinigt gemäss der am 27. Nov. 1995 in Kraft getretenen Änd. ([AS 1997 1368](https://fedlex.data.admin.ch/eli/oc/1997/1368_1368_1368)) und der am 28. März 2006 in Kraft getretenen Änd. ([AS 2007 3711](https://fedlex.data.admin.ch/eli/oc/2007/467)).
 
 Anlage zum Anhang
 
@@ -497,72 +496,76 @@ Zusätzliches Zeichen C 3<sup>m</sup>
 
 Einfahrt verboten für Fahrzeuge, die mehr als eine bestimmte Menge von Sprengstoffen oder leicht entzündbaren Stoffen befördern.
 
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image1.png)
+
 Zusätzliches Zeichen C 3<sup>n</sup>
 
 Einfahrt verboten für Fahrzeuge, die mehr als eine bestimmte Menge von wasserverunreinigenden Stoffen befördern.
 
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image2.png)
+
 <table>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/de/xml/image/image2.png)</td><td></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/de/xml/image/image3.png)</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/de/xml/image/image4.png)</td></tr>
-<tr><td>E, 17<sup>a</sup></td><td></td><td>E, 17<sup>b</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/de/xml/image/image5.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/de/xml/image/image6.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/de/xml/image/image7.png)</td></tr>
-<tr><td>F 14</td><td>F 15</td><td>F 16</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image3.png) E, 17<sup>a</sup></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image4.png) E, 17<sup>b</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image5.png) F 14</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image6.png) F 15</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image7.png) F 16</td></tr>
 </table>
 
 Farblegende
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/de/xml/image/image8.png) = rot
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image8.png) = rot
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/de/xml/image/image9.png) = blau
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image9.png)= blau
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/de/xml/image/image10.png) = orange
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image10.png)= orange
 
-Geltungsbereich am 29. Dezember 2016**[^t-4]**
+Geltungsbereich am 21. Juni 2023[^t-3]
 
 <table>
-<tr><th colspan="3">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="3">Albanien</td><td colspan="2">6. Juni</td><td>2005 B</td><td>6. Juni</td><td>2006</td></tr>
-<tr><td colspan="4">Aserbaidschan\*</td><td>11. Juli</td><td>2011 B</td><td>11. Juli</td><td>2012</td></tr>
-<tr><td colspan="3">Belarus\*</td><td colspan="2">17. Dezember</td><td>1974 B</td><td>3. August</td><td>1979</td></tr>
-<tr><td colspan="3">Belgien</td><td colspan="2">16. November</td><td>1988</td><td>16. November</td><td>1989</td></tr>
-<tr><td colspan="3">Bosnien und Herzegowina</td><td colspan="2">12. Januar</td><td>1994 N</td><td>6. März</td><td>1992</td></tr>
-<tr><td colspan="3">Bulgarien\*</td><td colspan="2">28. Dezember</td><td>1978 B</td><td>28. Dezember</td><td>1979</td></tr>
-<tr><td colspan="3">Dänemark\*</td><td colspan="2">3. November</td><td>1986</td><td>3. November</td><td>1987</td></tr>
-<tr><td colspan="3">Deutschland\*</td><td colspan="2">3. August</td><td>1978</td><td>3. August</td><td>1979</td></tr>
-<tr><td colspan="3">Estland\*</td><td colspan="2">30. November</td><td>1993 B</td><td>30. November</td><td>1994</td></tr>
-<tr><td colspan="3">Finnland\*</td><td colspan="2">1. April</td><td>1985</td><td>1. April</td><td>1986</td></tr>
-<tr><td colspan="3">Frankreich\*</td><td colspan="2">16. Januar</td><td>1974</td><td>3. August</td><td>1979</td></tr>
-<tr><td colspan="3">Georgien</td><td colspan="2">15. Mai</td><td>2001 B</td><td>15. Mai</td><td>2002</td></tr>
-<tr><td colspan="3">Griechenland</td><td colspan="2">18. Dezember</td><td>1986 B</td><td>18. Dezember</td><td>1987</td></tr>
-<tr><td colspan="3">Italien</td><td colspan="2">7. Februar</td><td>1997 B</td><td>7. Februar</td><td>1998</td></tr>
-<tr><td colspan="3">Kasachstan</td><td colspan="2">7. Juni</td><td>2011 B</td><td>7. Juni</td><td>2012</td></tr>
-<tr><td colspan="3">Lettland</td><td colspan="2">20. November</td><td>2001 B</td><td>20. November</td><td>2002</td></tr>
-<tr><td colspan="3">Litauen</td><td colspan="2">31. Januar</td><td>1992 B</td><td>31. Januar</td><td>1993</td></tr>
-<tr><td colspan="3">Luxemburg</td><td colspan="2">25. November</td><td>1975</td><td>3. August</td><td>1979</td></tr>
-<tr><td colspan="3">Mazedonien</td><td colspan="2">20. Dezember</td><td>1999 N</td><td>17. November</td><td>1991</td></tr>
-<tr><td colspan="3">Moldau</td><td colspan="2">27. Oktober</td><td>2015 B</td><td>27. Oktober</td><td>2016</td></tr>
-<tr><td colspan="3">Montenegro</td><td colspan="2">23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
-<tr><td colspan="3">Niederlande\* <sup>a</sup></td><td colspan="2">8. November</td><td>2007 B</td><td>8. November</td><td>2008</td></tr>
-<tr><td colspan="3">Österreich</td><td colspan="2">11. August</td><td>1981</td><td>11. August</td><td>1982</td></tr>
-<tr><td colspan="3">Polen\*</td><td colspan="2">23. August</td><td>1984 B</td><td>23. August</td><td>1985</td></tr>
-<tr><td colspan="3">Rumänien\*</td><td colspan="2">9. Dezember</td><td>1980</td><td>9. Dezember</td><td>1981</td></tr>
-<tr><td colspan="3">Russland\*</td><td colspan="2">27. September</td><td>1974</td><td>3. August</td><td>1979</td></tr>
-<tr><td colspan="3">Schweden\*</td><td colspan="2">25. Juli</td><td>1985</td><td>25. Juli</td><td>1986</td></tr>
-<tr><td colspan="3">Schweiz\*</td><td colspan="2">11. Dezember</td><td>1991</td><td>11. Dezember</td><td>1992</td></tr>
-<tr><td colspan="3">Serbien</td><td colspan="2">12. März</td><td>2001 N</td><td>27. April</td><td>1992</td></tr>
-<tr><td colspan="3">Slowakei\*</td><td colspan="2">28. Mai</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
-<tr><td colspan="3">Tschechische Republik\*</td><td colspan="2">2. Juni</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
-<tr><td colspan="3">Ukraine\*</td><td colspan="2">30. Dezember</td><td>1974 B</td><td>3. August</td><td>1979</td></tr>
-<tr><td colspan="3">Ungarn\*</td><td colspan="2">16. März</td><td>1976</td><td>3. August</td><td>1979</td></tr>
-<tr><td colspan="3">Zypern\*</td><td colspan="2">16. August</td><td>2016 B</td><td>16. August</td><td>2017</td></tr>
-<tr><td><sup>\*</sup></td><td colspan="7">Vorbehalte und Erklärungen</td></tr>
-<tr><td></td><td colspan="7">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="7">Für das Königreich in Europa.</td></tr>
+<tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Albanien</td><td colspan="2">6. Juni</td><td>2005 B</td><td>6. Juni</td><td>2006</td></tr>
+<tr><td colspan="2">Aserbaidschan\*</td><td>11. Juli</td><td>2011 B</td><td>11. Juli</td><td>2012</td></tr>
+<tr><td>Belarus\*</td><td colspan="2">17. Dezember</td><td>1974 B</td><td>3. August</td><td>1979</td></tr>
+<tr><td>Belgien</td><td colspan="2">16. November</td><td>1988</td><td>16. November</td><td>1989</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td colspan="2">12. Januar</td><td>1994 N</td><td>6. März</td><td>1992</td></tr>
+<tr><td>Bulgarien\*</td><td colspan="2">28. Dezember</td><td>1978 B</td><td>28. Dezember</td><td>1979</td></tr>
+<tr><td>Dänemark\*</td><td colspan="2">3. November</td><td>1986</td><td>3. November</td><td>1987</td></tr>
+<tr><td>Deutschland\*</td><td colspan="2">3. August</td><td>1978</td><td>3. August</td><td>1979</td></tr>
+<tr><td>Estland\*</td><td colspan="2">30. November</td><td>1993 B</td><td>30. November</td><td>1994</td></tr>
+<tr><td>Finnland\*</td><td colspan="2">1. April</td><td>1985</td><td>1. April</td><td>1986</td></tr>
+<tr><td>Frankreich\*</td><td colspan="2">16. Januar</td><td>1974</td><td>3. August</td><td>1979</td></tr>
+<tr><td>Georgien</td><td colspan="2">15. Mai</td><td>2001 B</td><td>15. Mai</td><td>2002</td></tr>
+<tr><td>Griechenland</td><td colspan="2">18. Dezember</td><td>1986 B</td><td>18. Dezember</td><td>1987</td></tr>
+<tr><td>Italien</td><td colspan="2">7. Februar</td><td>1997 B</td><td>7. Februar</td><td>1998</td></tr>
+<tr><td>Kasachstan</td><td colspan="2">7. Juni</td><td>2011 B</td><td>7. Juni</td><td>2012</td></tr>
+<tr><td>Lettland</td><td colspan="2">20. November</td><td>2001 B</td><td>20. November</td><td>2002</td></tr>
+<tr><td>Liechtenstein\*</td><td colspan="2">2. März</td><td>2020 B</td><td>2. März</td><td>2021</td></tr>
+<tr><td>Litauen</td><td colspan="2">31. Januar</td><td>1992 B</td><td>31. Januar</td><td>1993</td></tr>
+<tr><td>Luxemburg</td><td colspan="2">25. November</td><td>1975</td><td>3. August</td><td>1979</td></tr>
+<tr><td>Moldau</td><td colspan="2">27. Oktober</td><td>2015 B</td><td>27. Oktober</td><td>2016</td></tr>
+<tr><td>Montenegro</td><td colspan="2">23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
+<tr><td>Niederlande\* <sup>a</sup></td><td colspan="2">8. November</td><td>2007 B</td><td>8. November</td><td>2008</td></tr>
+<tr><td>Nordmazedonien</td><td colspan="2">20. Dezember</td><td>1999 N</td><td>17. November</td><td>1991</td></tr>
+<tr><td>Österreich</td><td colspan="2">11. August</td><td>1981</td><td>11. August</td><td>1982</td></tr>
+<tr><td>Polen\*</td><td colspan="2">23. August</td><td>1984 B</td><td>23. August</td><td>1985</td></tr>
+<tr><td>Rumänien\*</td><td colspan="2">9. Dezember</td><td>1980</td><td>9. Dezember</td><td>1981</td></tr>
+<tr><td>Russland\*</td><td colspan="2">27. September</td><td>1974</td><td>3. August</td><td>1979</td></tr>
+<tr><td>Schweden\*</td><td colspan="2">25. Juli</td><td>1985</td><td>25. Juli</td><td>1986</td></tr>
+<tr><td>Schweiz\*</td><td colspan="2">11. Dezember</td><td>1991</td><td>11. Dezember</td><td>1992</td></tr>
+<tr><td>Serbien</td><td colspan="2">12. März</td><td>2001 N</td><td>27. April</td><td>1992</td></tr>
+<tr><td>Slowakei\*</td><td colspan="2">28. Mai</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td>Tschechische Republik\*</td><td colspan="2">2. Juni</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td>Türkei\*</td><td colspan="2">17. Mai</td><td>2023 B</td><td>17. Mai</td><td>2024</td></tr>
+<tr><td>Turkmenistan</td><td colspan="2">31. August</td><td>2020 B</td><td>31. August</td><td>2021</td></tr>
+<tr><td>Ukraine\*</td><td colspan="2">30. Dezember</td><td>1974 B</td><td>3. August</td><td>1979</td></tr>
+<tr><td>Ungarn\*</td><td colspan="2">16. März</td><td>1976</td><td>3. August</td><td>1979</td></tr>
+<tr><td>Zypern\*</td><td colspan="2">16. August</td><td>2016 B</td><td>16. August</td><td>2017</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen</td></tr>
+<tr><td colspan="6">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="6"><sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
 ## Vorbehalte und Erklärungen
 
-[^t-4]: [AS 1993 604](https://fedlex.data.admin.ch/eli/oc/1993/604_604_604), **1997** 1376, [2004 3989](https://fedlex.data.admin.ch/eli/oc/2004/575), [2009 613](https://fedlex.data.admin.ch/eli/oc/2009/109), [2014 3401](https://fedlex.data.admin.ch/eli/oc/2014/591)und [2017 127](https://fedlex.data.admin.ch/eli/oc/2017/37). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1993 604](https://fedlex.data.admin.ch/eli/oc/1993/604_604_604); [1997 1368](https://fedlex.data.admin.ch/eli/oc/1997/1368_1368_1368); [2004 3989](https://fedlex.data.admin.ch/eli/oc/2004/575); [2009 613](https://fedlex.data.admin.ch/eli/oc/2009/109); [2014 3401](https://fedlex.data.admin.ch/eli/oc/2014/591); [2017 127](https://fedlex.data.admin.ch/eli/oc/2017/37); [2023 317](https://fedlex.data.admin.ch/eli/oc/2023/317). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Schweiz
 

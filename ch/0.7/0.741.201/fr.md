@@ -3,11 +3,11 @@ sr: "0.741.201"
 title: "Accord européen du 1<sup>er</sup> mai 1971 complétant la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/604_604_604"
 language: fr
-version: 2016-12-29
+version: 2023-06-21
 adopted: 1971-05-01
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/fr/xml/fedlex-data-admin-ch-eli-cc-1993-604_604_604-20161229-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/604_604_604/20161229/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/fedlex-data-admin-ch-eli-cc-1993-604_604_604-20230621-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/604_604_604/20230621/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 11 décembre 1991
 
 Entré en vigueur pour la Suisse le 11 décembre 1992
 
-(Etat le 29 décembre 2016)
+(État le 21 juin 2023)
 
 [^t-1]: Art. 1 al. 1 let. d. de l’AF du 15 déc. 1978 ([RO 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -46,49 +46,49 @@ Les Parties contractantes, Parties à la Convention sur la signalisation routiè
 
 #### Art. 2
 
-<sup>1.</sup> Le présent Accord sera ouvert jusqu’au 31 décembre 1972 à la signature des Etats qui sont signataires de la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 ou y ont adhéré et qui sont soit membres de la Commission économique pour l’Europe des Nations Unies, soit admis à la Commission à titre consultatif conformément au par. 8 du Mandat de cette Commission.
+<sup>1.</sup> Le présent Accord sera ouvert jusqu’au 31 décembre 1972 à la signature des États qui sont signataires de la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 ou y ont adhéré et qui sont soit membres de la Commission économique pour l’Europe des Nations Unies, soit admis à la Commission à titre consultatif conformément au par. 8 du Mandat de cette Commission.
 
-<sup>2.</sup> Le présent Accord est sujet à ratification, après que l’Etat aura ratifié la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 ou y aura adhéré. Les instruments de ratification seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
+<sup>2.</sup> Le présent Accord est sujet à ratification, après que l’État aura ratifié la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 ou y aura adhéré. Les instruments de ratification seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
 
-<sup>3.</sup> Le présent Accord restera ouvert à l’adhésion de tout Etat visé au par. l du présent article et qui est Partie à la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968. Les instruments d’adhésion seront déposés auprès du Secrétaire général.
+<sup>3.</sup> Le présent Accord restera ouvert à l’adhésion de tout État visé au par. l du présent article et qui est Partie à la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968. Les instruments d’adhésion seront déposés auprès du Secrétaire général.
 
 #### Art. 3
 
-<sup>1.</sup> Tout Etat pourra, au moment où il signera ou ratifiera le présent Accord ou y adhérera, ou à tout moment ultérieur, déclarer par notification adressée au Secrétaire général que l’Accord devient applicable à tous les territoires ou à l’un quelconque d’entre eux dont il assure les relations internationales. L’Accord deviendra applicable au territoire ou aux territoires désigné(s) dans la notification trente jours après la date à laquelle le Secrétaire général aura reçu cette notification ou à la date d’entrée en vigueur de l’Accord pour l’Etat adressant la notification, si cette date est postérieure à la précédente.
+<sup>1.</sup> Tout État pourra, au moment où il signera ou ratifiera le présent Accord ou y adhérera, ou à tout moment ultérieur, déclarer par notification adressée au Secrétaire général que l’Accord devient applicable à tous les territoires ou à l’un quelconque d’entre eux dont il assure les relations internationales. L’Accord deviendra applicable au territoire ou aux territoires désigné(s) dans la notification trente jours après la date à laquelle le Secrétaire général aura reçu cette notification ou à la date d’entrée en vigueur de l’Accord pour l’État adressant la notification, si cette date est postérieure à la précédente.
 
-<sup>2.</sup> Tout Etat qui aura fait une déclaration en vertu du par. 1 du présent article pourra à toute date ultérieure, par notification adressée au Secrétaire général, déclarer que l’Accord cessera d’être applicable au territoire désigné dans la notification et l’Accord cessera d’être applicable audit territoire un an après la date de réception de cette notification par le Secrétaire général.
+<sup>2.</sup> Tout État qui aura fait une déclaration en vertu du par. 1 du présent article pourra à toute date ultérieure, par notification adressée au Secrétaire général, déclarer que l’Accord cessera d’être applicable au territoire désigné dans la notification et l’Accord cessera d’être applicable audit territoire un an après la date de réception de cette notification par le Secrétaire général.
 
 #### Art. 4
 
 <sup>1.</sup> Le présent Accord entrera en vigueur douze mois après la date du dépôt du dixième instrument de ratification ou d’adhésion.
 
-<sup>2.</sup> Pour chaque Etat qui ratifiera le présent Accord ou y adhérera après le dépôt du dixième instrument de ratification ou d’adhésion, l’Accord entrera en vigueur douze mois après la date du dépôt, par cet Etat, de son instrument de ratification ou d’adhésion.
+<sup>2.</sup> Pour chaque État qui ratifiera le présent Accord ou y adhérera après le dépôt du dixième instrument de ratification ou d’adhésion, l’Accord entrera en vigueur douze mois après la date du dépôt, par cet État, de son instrument de ratification ou d’adhésion.
 
 <sup>3.</sup> Si la date d’entrée en vigueur résultant de l’application des par. 1 et 2 du présent article est antérieure à celle résultant de l’application de l’art. 39 de la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968, c’est à cette dernière date que le présent Accord entrera en vigueur au sens du par. 1 du présent article.
 
 #### Art. 5
 
-A son entrée en vigueur, le présent Accord abrogera et remplacera, dans les relations entre les Parties contractantes, les dispositions concernant le Protocole relatif à la signalisation routière contenues dans l’Accord européen complétant la Convention sur la circulation routière et le Protocole relatif à la signalisation routière de 1949, signé à Genève le 16 septembre 1950, l’Accord relatif à la signalisation des chantiers, signé à Genève le 16 décembre 1955, et l’Accord européen relatif aux marques routières, signé à Genève le 13 décembre 1957.
+À son entrée en vigueur, le présent Accord abrogera et remplacera, dans les relations entre les Parties contractantes, les dispositions concernant le Protocole relatif à la signalisation routière contenues dans l’Accord européen complétant la Convention sur la circulation routière et le Protocole relatif à la signalisation routière de 1949, signé à Genève le 16 septembre 1950, l’Accord relatif à la signalisation des chantiers, signé à Genève le 16 décembre 1955, et l’Accord européen relatif aux marques routières, signé à Genève le 13 décembre 1957.
 
 #### Art. 6
 
-<sup>1.</sup> Après une période de douze mois, à dater de l’entrée en vigueur du présent Accord, toute Partie contractante pourra proposer un ou plusieurs amendements à l’Accord. Le texte de toute proposition d’amendement, accompagné d’un exposé des motifs, sera adressé au Secrétaire général qui le communiquera à toutes les Parties contractantes. Les Parties contractantes auront la possibilité de lui faire savoir dans le délai de douze mois suivant la date de cette communication: a) si elles acceptent l’amendement, ou b) si elles le rejettent, ou c) si elles désirent qu’une conférence soit convoquée pour l’examiner. Le Secrétaire général transmettra également le texte de l’amendement proposé aux autres Etats visés à l’art. 2 du présent Accord.
+<sup>1.</sup> Après une période de douze mois, à dater de l’entrée en vigueur du présent Accord, toute Partie contractante pourra proposer un ou plusieurs amendements à l’Accord. Le texte de toute proposition d’amendement, accompagné d’un exposé des motifs, sera adressé au Secrétaire général qui le communiquera à toutes les Parties contractantes. Les Parties contractantes auront la possibilité de lui faire savoir dans le délai de douze mois suivant la date de cette communication: a) si elles acceptent l’amendement, ou b) si elles le rejettent, ou c) si elles désirent qu’une conférence soit convoquée pour l’examiner. Le Secrétaire général transmettra également le texte de l’amendement proposé aux autres États visés à l’art. 2 du présent Accord.
 
 - 2\. a) Toute proposition d’amendement qui aura été communiquée conformément aux dispositions du par. 1 du présent article sera réputée acceptée si, dans le délai de douze mois susmentionné, moins du tiers des Parties contractantes informent le Secrétaire général soit qu’elles rejettent l’amendement, soit qu’elles désirent qu’une conférence soit convoquée pour l’examiner. Le Secrétaire général notifiera à toutes les Parties contractantes toute acceptation ou tout rejet de l’amendement proposé et toute demande de convocation d’une conférence. Si le nombre total des rejets et des demandes reçus pendant le délai spécifié de douze mois est inférieur au tiers du nombre total des Parties contractantes, le Secrétaire général notifiera à toutes les Parties contractantes que l’amendement entrera en vigueur six mois après l’expiration du délai de douze mois spécifié au par. 1 du présent article pour toutes les Parties contractantes, à l’exception de celles qui, pendant le délai spécifié, ont rejeté l’amendement ou demandé la convocation d’une conférence pour l’examiner.
 - b) Toute Partie contractante qui, pendant ledit délai de douze mois, aura rejeté une proposition d’amendement ou demandé la convocation d’une conférence pour l’examiner, pourra, à tout moment après l’expiration de ce délai, notifier au Secrétaire général qu’elle accepte l’amendement, et le Secrétaire général communiquera cette notification à toutes les autres Parties contractantes. L’amendement entrera en vigueur, pour la Partie contractante qui aura notifié son acceptation, six mois après la date à laquelle le Secrétaire général aura reçu la notification.
 
 <sup>3.</sup> Si un amendement proposé n’a pas été accepté conformément au par. 2 du présent article et si, dans le délai de douze mois spécifié au par. 1 du présent article, moins de la moitié du nombre total des Parties contractantes informent le Secrétaire général qu’elles rejettent l’amendement proposé et si un tiers au moins du nombre total des Parties contractantes, mais pas moins de cinq, l’informent qu’elles l’acceptent ou qu’elles désirent qu’une conférence soit réunie pour l’examiner, le Secrétaire général convoquera une conférence en vue d’examiner l’amendement proposé ou toute autre proposition dont il serait saisi en vertu du par. 4 du présent article.
 
-<sup>4.</sup> Si une conférence est convoquée conformément aux dispositions du par. 3 du présent article, le Secrétaire général y invitera toutes les Parties contractantes et les autres Etats visés à l’art. 2 du présent Accord. Il demandera à tous les Etats invités à la Conférence de lui présenter, au plus tard six mois avant sa date d’ouverture, toutes propositions qu’ils souhaiteraient voir examiner également par ladite Conférence en plus de l’amendement proposé, et il communiquera ces propositions, trois mois au moins avant la date d’ouverture de la Conférence, à tous les Etats invités à la Conférence.
+<sup>4.</sup> Si une conférence est convoquée conformément aux dispositions du par. 3 du présent article, le Secrétaire général y invitera toutes les Parties contractantes et les autres États visés à l’art. 2 du présent Accord. Il demandera à tous les États invités à la Conférence de lui présenter, au plus tard six mois avant sa date d’ouverture, toutes propositions qu’ils souhaiteraient voir examiner également par ladite Conférence en plus de l’amendement proposé, et il communiquera ces propositions, trois mois au moins avant la date d’ouverture de la Conférence, à tous les États invités à la Conférence.
 
-- 5\. a) Tout amendement au présent Accord sera réputé accepté s’il a été adopté à la majorité des deux tiers des Etats représentés à la Conférence, à condition que cette majorité groupe au moins les deux tiers des Parties contractantes représentées à la Conférence. Le Secrétaire général notifiera à toutes les Parties contractantes l’adoption de l’amendement et celui-ci entrera en vigueur douze mois après la date de cette notification pour toutes les Parties contractantes, à l’exception de celles qui, durant ce délai, auront notifié au Secrétaire général qu’elles rejettent l’amendement.
+- 5\. a) Tout amendement au présent Accord sera réputé accepté s’il a été adopté à la majorité des deux tiers des États représentés à la Conférence, à condition que cette majorité groupe au moins les deux tiers des Parties contractantes représentées à la Conférence. Le Secrétaire général notifiera à toutes les Parties contractantes l’adoption de l’amendement et celui-ci entrera en vigueur douze mois après la date de cette notification pour toutes les Parties contractantes, à l’exception de celles qui, durant ce délai, auront notifié au Secrétaire général qu’elles rejettent l’amendement.
 - b) Toute Partie contractante qui aura rejeté un amendement pendant ledit délai de douze mois pourra, à tout moment, notifier au Secrétaire général qu’elle l’accepte et le Secrétaire général communiquera cette notification à toutes les autres Parties contractantes. L’amendement entrera en vigueur pour la Partie contractante qui aura notifié son acceptation six mois après la date à laquelle le Secrétaire général aura reçu la notification ou à la fin dudit délai de douze mois, si la date en est postérieure à la précédente.
 
 <sup>6.</sup> Si la proposition d’amendement n’est pas réputée acceptée conformément au par. 2 du présent article, et si les conditions prescrites au par. 3 du présent article pour la convocation d’une conférence ne sont pas réunies, la proposition d’amendement sera réputée rejetée.
 
 <sup>7.</sup> Indépendamment de la procédure d’amendement prévue aux par. 1 à 6 du présent article, l’annexe au présent Accord peut être modifiée par accord entre les administrations compétentes de toutes les Parties contractantes. Si l’administration d’une Partie contractante a déclaré que son droit national l’oblige à subordonner son accord à l’obtention d’une autorisation spéciale à cet effet ou à l’approbation d’un organe législatif, le consentement de l’administration compétente de la Partie contractante en cause à la modification de l’annexe ne sera considéré comme donné qu’au moment où cette administration aura déclaré au Secrétaire général que les autorisations ou les approbations requises ont été obtenues. L’accord entre les administrations compétentes pourra prévoir que, pendant une période transitoire, les anciennes dispositions de l’annexe resteront en vigueur, en tout ou en partie, simultanément avec les nouvelles. Le Secrétaire général fixera la date d’entrée en vigueur des nouvelles dispositions.
 
-<sup>8.</sup> Chaque Etat, au moment où il signera ou ratifiera le présent Accord, ou y adhérera, notifiera au Secrétaire général les nom et adresse de son administration compétente pour donner l’accord prévu au par. 7 du présent article.
+<sup>8.</sup> Chaque État, au moment où il signera ou ratifiera le présent Accord, ou y adhérera, notifiera au Secrétaire général les nom et adresse de son administration compétente pour donner l’accord prévu au par. 7 du présent article.
 
 #### Art. 7
 
@@ -112,15 +112,15 @@ Aucune disposition du présent Accord ne sera interprétée comme interdisant à
 
 #### Art. 11
 
-<sup>1.</sup> Tout Etat pourra, au moment où il signera le présent Accord ou déposera son instrument de ratification ou d’adhésion, déclarer qu’il ne se considère pas lié par l’art. 9 du présent Accord. Les autres Parties contractantes ne seront pas liées par l’art. 9 vis-à-vis de l’une quelconque des Parties contractantes qui aura fait une telle déclaration.
+<sup>1.</sup> Tout État pourra, au moment où il signera le présent Accord ou déposera son instrument de ratification ou d’adhésion, déclarer qu’il ne se considère pas lié par l’art. 9 du présent Accord. Les autres Parties contractantes ne seront pas liées par l’art. 9 vis-à-vis de l’une quelconque des Parties contractantes qui aura fait une telle déclaration.
 
 <sup>2.</sup> Les réserves au présent Accord, autres que la réserve prévue au par. 1 du présent article, sont autorisées à condition qu’elles soient formulées par écrit, et si elles ont été formulées avant le dépôt de l’instrument de ratification ou d’adhésion, qu’elles soient confirmées dans ledit instrument.
 
-<sup>3.</sup> Tout Etat, au moment où il déposera son instrument de ratification du présent Accord ou d’adhésion à celui-ci, notifiera par écrit au Secrétaire général dans quelle mesure les réserves qu’il aurait formulées à la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 s’appliquent au présent Accord. Celles de ces réserves qui n’auraient pas fait l’objet de la notification faite au moment du dépôt de l’instrument de ratification du présent Accord ou d’adhésion à celui-ci seront réputées ne pas s’appliquer au présent Accord.
+<sup>3.</sup> Tout État, au moment où il déposera son instrument de ratification du présent Accord ou d’adhésion à celui-ci, notifiera par écrit au Secrétaire général dans quelle mesure les réserves qu’il aurait formulées à la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 s’appliquent au présent Accord. Celles de ces réserves qui n’auraient pas fait l’objet de la notification faite au moment du dépôt de l’instrument de ratification du présent Accord ou d’adhésion à celui-ci seront réputées ne pas s’appliquer au présent Accord.
 
-<sup>4.</sup> Le Secrétaire général communiquera les réserves et notifications faites en application du présent article à tous les Etats visés à l’art. 2 du présent Accord.
+<sup>4.</sup> Le Secrétaire général communiquera les réserves et notifications faites en application du présent article à tous les États visés à l’art. 2 du présent Accord.
 
-<sup>5.</sup> Tout Etat qui aura fait une déclaration, une réserve ou une notification en vertu du présent article pourra, à tout moment, la retirer par notification adressée au Secrétaire général.
+<sup>5.</sup> Tout État qui aura fait une déclaration, une réserve ou une notification en vertu du présent article pourra, à tout moment, la retirer par notification adressée au Secrétaire général.
 
 <sup>6.</sup> Toute réserve faite conformément au par. 2 ou notifiée conformément au par. 3 du présent article
 
@@ -129,7 +129,7 @@ Aucune disposition du présent Accord ne sera interprétée comme interdisant à
 
 #### Art. 12
 
-Outre les déclarations, notifications et communications prévues aux art. 6 et 11 du présent Accord, le Secrétaire général notifiera aux Parties contractantes et aux autres Etats visés à l’art. 2:
+Outre les déclarations, notifications et communications prévues aux art. 6 et 11 du présent Accord, le Secrétaire général notifiera aux Parties contractantes et aux autres États visés à l’art. 2:
 
 - a) les signatures, ratifications et adhésions au titre de l’art. 2;
 - b) les notifications et déclarations au titre de l’art. 3;
@@ -140,11 +140,11 @@ Outre les déclarations, notifications et communications prévues aux art. 6 et 
 
 #### Art. 13
 
-Après le 31 décembre 1972, l’original du présent Accord sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en transmettra des copies certifiées conformes à tous les Etats visés à l’art. 2 du présent Accord.
+Après le 31 décembre 1972, l’original du présent Accord sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en transmettra des copies certifiées conformes à tous les États visés à l’art. 2 du présent Accord.
 
 *En foi de quoi*, les soussignés, à ce dûment autorisés, ont signé le présent Accord. Fait à Genève, le premier mai mil neuf cent soixante et onze, en un seul exemplaire, en langues anglaise, française et russe, les trois textes faisant également foi. (Suivent les signatures)
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 \1. Pour l’application des dispositions de la présente annexe, le terme «Convention» désigne la Convention sur la signalisation routière ouverte à la signature, à Vienne, le 8 novembre 1968.
 
@@ -196,13 +196,13 @@ Ce paragraphe se lira comme suit: «Pendant la période transitoire de dix ans i
 
 Par. 1
 
-Chaque Etat choisira le modèle A<sup>a</sup> comme signal d’avertissement.
+Chaque État choisira le modèle A<sup>a</sup> comme signal d’avertissement.
 
 \9. Ad Art. 10 de la Convention (Signaux de priorité)
 
 Par. 3
 
-Chaque Etat choisira le modèle B, 2<sup>a</sup> pour le signal «ARRET».
+Chaque État choisira le modèle B, 2<sup>a</sup> pour le signal «ARRET».
 
 Par. 6
 
@@ -214,7 +214,7 @@ La présignalisation du signal B, 2<sup>a</sup> se fera à l’aide du signal B,
 
 Par. 2
 
-Lire ce paragraphe comme suit: «Les signaux E, 7<sup>a</sup>, E, 7<sup>b</sup> ou E, 7<sup>c</sup> et E, 8<sup>a</sup>, E, 8<sup>b</sup> ou E, 8<sup>c</sup> notifient aux usagers de la route que la réglementation générale de la circulation en vigueur dans les agglomérations situées sur le territoire de l’Etat est applicable à partir des signaux E, 7<sup>a</sup>, E, 7<sup>b</sup> ou E, 7<sup>c</sup> jusqu’aux signaux E, 8<sup>a</sup>, E, 8<sup>b</sup> ou E, 8<sup>c</sup>, sauf dans la mesure où une autre réglementation serait notifiée par d’autres signaux sur certaines sections des routes des agglomérations. Ils montrent des inscriptions de couleur foncée sur fond blanc ou de couleur claire et sont placés respectivement aux entrées et aux sorties de l’agglomération. Toutefois, le signal B, 4 devra toujours être placé, pour autant que la priorité cesse à la traversée de l’agglomération, sur les routes à priorité signalées par le signal B, 3.»
+Lire ce paragraphe comme suit: «Les signaux E, 7<sup>a</sup>, E, 7<sup>b</sup> ou E, 7<sup>c</sup> et E, 8<sup>a</sup>, E, 8<sup>b</sup> ou E, 8<sup>c</sup> notifient aux usagers de la route que la réglementation générale de la circulation en vigueur dans les agglomérations situées sur le territoire de l’État est applicable à partir des signaux E, 7<sup>a</sup>, E, 7<sup>b</sup> ou E, 7<sup>c</sup> jusqu’aux signaux E, 8<sup>a</sup>, E, 8<sup>b</sup> ou E, 8<sup>c</sup>, sauf dans la mesure où une autre réglementation serait notifiée par d’autres signaux sur certaines sections des routes des agglomérations. Ils montrent des inscriptions de couleur foncée sur fond blanc ou de couleur claire et sont placés respectivement aux entrées et aux sorties de l’agglomération. Toutefois, le signal B, 4 devra toujours être placé, pour autant que la priorité cesse à la traversée de l’agglomération, sur les routes à priorité signalées par le signal B, 3.»
 
 \10. Ad Art. 18 de la Convention (Signaux de localisation)
 
@@ -257,7 +257,7 @@ Cet article se lira comme suit:
 - a) soit tous blancs ou jaune clair,
 - b) soit blancs ou jaune clair pour signaler le bord de la chaussée opposé au sens de la circulation et rouges ou jaune foncé pour signaler le bord de la chaussée correspondant au sens de la circulation.
 
-\3. Chaque Etat Partie au présent Accord adoptera pour l’ensemble de son territoire la même couleur ou le même système de couleurs pour les feux ou les dispositifs réfléchissants visés au présent Article.»
+\3. Chaque État Partie au présent Accord adoptera pour l’ensemble de son territoire la même couleur ou le même système de couleurs pour les feux ou les dispositifs réfléchissants visés au présent Article.»
 
 \15. Ad Art. 33 de la Convention
 
@@ -487,34 +487,34 @@ Annexe – Appendice
 
 C, 3<sup>m</sup>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image1.png)
 
 Accès interdit aux véhicules transportant plus d’une certaine quantité de produits explosifs ou facilement inflammables.
 
 C, 3<sup>n</sup>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image2.png)
 
 Accès interdit aux véhicules transportant plus d’une certaine quantité de produits de nature à polluer les eaux.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/fr/xml/image/image3.png) E, 17<sup>a</sup></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/fr/xml/image/image4.png) E, 17<sup>b</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/fr/xml/image/image5.png) F 14</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/fr/xml/image/image6.png) F 15</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/fr/xml/image/image7.png) F 16</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image3.png) E, 17<sup>a</sup></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image4.png) E, 17<sup>b</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image5.png) F 14</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image6.png) F 15</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image7.png) F 16</td></tr>
 </table>
 
 Légende des couleurs
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/fr/xml/image/image8.png) =rouge
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image8.png) =rouge
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/fr/xml/image/image9.png) =bleu
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image9.png) =bleu
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20161229/fr/xml/image/image10.png) =orange
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image10.png) =orange
 
-Champ d’application le 29 décembre 2016**[^t-3]**
+Champ d’application le 21 juin 2023[^t-3]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td>Albanie</td><td>6 juin</td><td>2005</td><td>6 juin</td><td>2006</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Albanie</td><td>6 juin</td><td>2005 A</td><td>6 juin</td><td>2006</td></tr>
 <tr><td>Allemagne\*</td><td>3 août</td><td>1978</td><td>3 août</td><td>1979</td></tr>
 <tr><td>Autriche</td><td>11 août</td><td>1981</td><td>11 août</td><td>1982</td></tr>
 <tr><td>Azerbaïdjan\*</td><td>11 juillet</td><td>2011 A</td><td>11 juillet</td><td>2012</td></tr>
@@ -533,9 +533,10 @@ Champ d’application le 29 décembre 2016**[^t-3]**
 <tr><td>Italie</td><td>7 février</td><td>1997 A</td><td>7 février</td><td>1998</td></tr>
 <tr><td>Kazakhstan</td><td>7 juin</td><td>2011 A</td><td>7 juin</td><td>2012</td></tr>
 <tr><td>Lettonie</td><td>20 novembre</td><td>2001 A</td><td>20 novembre</td><td>2002</td></tr>
+<tr><td>Liechtenstein\*</td><td>2 mars</td><td>2020 A</td><td>2 mars</td><td>2021</td></tr>
 <tr><td>Lituanie</td><td>31 janvier</td><td>1992 A</td><td>31 janvier</td><td>1993</td></tr>
 <tr><td>Luxembourg</td><td>25 novembre</td><td>1975</td><td>3 août</td><td>1979</td></tr>
-<tr><td>Macédoine</td><td>20 décembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macédoine du Nord</td><td>20 décembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Moldova</td><td>27 octobre</td><td>2015 A</td><td>27 octobre</td><td>2016</td></tr>
 <tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Pays-Bas\* <sup>a</sup></td><td>8 novembre</td><td>2007 A</td><td>8 novembre</td><td>2008</td></tr>
@@ -547,12 +548,14 @@ Champ d’application le 29 décembre 2016**[^t-3]**
 <tr><td>Slovaquie\*</td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Suède\*</td><td>25 juillet</td><td>1985</td><td>25 juillet</td><td>1986</td></tr>
 <tr><td>Suisse\*</td><td>11 décembre</td><td>1991</td><td>11 décembre</td><td>1992</td></tr>
+<tr><td>Turkménistan</td><td>31 août</td><td>2020 A</td><td>31 août</td><td>2021</td></tr>
+<tr><td>Turquie\*</td><td>17 mai</td><td>2023 A</td><td>17 mai</td><td>2024</td></tr>
 <tr><td>Ukraine\*</td><td>30 décembre</td><td>1974 A</td><td>3 août</td><td>1979</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit internationalpublic (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [https://treaties.un.org](https://treaties.un.org) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne</td></tr>
 <tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-3]: [RO 1993 604](https://fedlex.data.admin.ch/eli/oc/1993/604_604_604), **1997** 1376, [2004 3989](https://fedlex.data.admin.ch/eli/oc/2004/575), [2009 613](https://fedlex.data.admin.ch/eli/oc/2009/109), [2014 3401](https://fedlex.data.admin.ch/eli/oc/2014/591), [2017 127](https://fedlex.data.admin.ch/eli/oc/2017/37). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1993 604](https://fedlex.data.admin.ch/eli/oc/1993/604_604_604); [1997 1368](https://fedlex.data.admin.ch/eli/oc/1997/1368_1368_1368); [2004 3989](https://fedlex.data.admin.ch/eli/oc/2004/575); [2009 613](https://fedlex.data.admin.ch/eli/oc/2009/109); [2014 3401](https://fedlex.data.admin.ch/eli/oc/2014/591); [2017 127](https://fedlex.data.admin.ch/eli/oc/2017/37); [2023 317](https://fedlex.data.admin.ch/eli/oc/2023/317). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
 
 Réserves et déclarations
 
