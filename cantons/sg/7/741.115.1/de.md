@@ -4,11 +4,12 @@ number: "741.115.1"
 title: Zusatzvereinbarung zur Interkantonalen Vereinbarung über den Vollzug der Privaten Kontrolle im Energiebereich
 language: de
 version: 2013-01-01
+corrected: 2023-06-22
 version_adopted: 2012-12-17
 adopted: 2012-12-17
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/741.115.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3512/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1098/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -25,7 +26,7 @@ vereinbaren:[^ingress-5]
 [^ingress-2]: Beitritt zur Interkantonalen Vereinbarung auf 1. Juli 2006.
 [^ingress-3]: Beitritt zur Interkantonalen Vereinbarung auf 1. Januar 2007.
 [^ingress-4]: Beitritt zur Interkantonalen Vereinbarung auf 1. Januar 2006.
-[^ingress-5]: Im Amtsblatt veröffentlicht am 7. Januar 2013, ABl 2013, 82; in Vollzug ab 1. Januar 2013. Beitritt des Kantons Schwyz auf 1. März 2023.
+[^ingress-5]: Im Amtsblatt veröffentlicht am 7. Januar 2013, ABl 2013, 82; in Vollzug ab 1. Januar 2013.
 
 #### Art. 1
 
