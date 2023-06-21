@@ -4,11 +4,12 @@ number: "741.115"
 title: Interkantonale Vereinbarung über den Vollzug der Privaten Kontrolle im Energiebereich
 language: de
 version: 2006-01-01
+corrected: 2023-06-22
 version_adopted: 2005-12-13
 adopted: 2005-12-13
 in_force: 2006-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/741.115"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3511/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/296/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +20,7 @@ vom 13.12.2005 (Stand 01.01.2006)
 
 [^ingress-1]
 
-[^ingress-1]: In Vollzug ab 1. Januar 2006; Beitritt des Kantons Glarus auf 1. Juli 2006, des Kantons Appenzell Ausserrhoden auf 1. Januar 2007 und des Kantons Schwyz auf 1. Juli 2010.
+[^ingress-1]: In Vollzug ab 1. Januar 2006; Beitritt des Kantons Glarus auf 1. Juli 2006 und des Kantons Appenzell Ausserrhoden auf 1. Januar 2007.
 
 #### Art. 1
 
