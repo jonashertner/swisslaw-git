@@ -3,16 +3,16 @@ sr: "0.515.103"
 title: "Déclaration du 29 juillet 1899 concernant l'emploi de balles qui s'épanouissent ou s'aplatissent facilement dans le corps humain"
 eli: "https://fedlex.data.admin.ch/eli/cc/18/544_476_525"
 language: fr
-version: 2015-07-06
+version: 2023-06-22
 adopted: 1899-07-29
 in_force: 1900-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/18/544_476_525/20150706/fr/xml/fedlex-data-admin-ch-eli-cc-18-544_476_525-20150706-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/18/544_476_525/20150706/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/18/544_476_525/20230622/fr/xml/fedlex-data-admin-ch-eli-cc-18-544_476_525-20230622-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/18/544_476_525/20230622/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Déclaration concernant l’emploi de balles qui s’épanouissent ou saplatissent facilement dans le corps humain****
+# Déclaration concernant l’emploi de balles qui s’épanouissent ou s’aplatissent facilement dans le corps humain
 
 RS **11** 403; FF **1900** III 73[^t-1]
 
@@ -20,7 +20,7 @@ Texte original
 
 Faite le 29 juillet 1899 Approuvée par l’Assemblée fédérale le 10 décembre 1900[^t-2] Instrument de ratification déposé par la Suisse le 29 décembre 1900
 
-(Etat le 6 juillet 2015)
+(État le 22 juin 2023)
 
 [^t-1]: Il s’agit de la décl. IV 3 signée à la Conférence de la paix réunie à La Haye en 1899. L’acte final de cette Conférence est publié au [RS 0.193.211](https://fedlex.data.admin.ch/eli/cc/18/517_433_502)in fine.
 [^t-2]: Ch. I 5 de l’AF du 10 déc. 1900 (RO **18** 415)
@@ -53,10 +53,10 @@ Cette dénonciation ne produira ses effets qu’à l’égard de la Puissance qu
 
 *En foi de quoi,* les Plénipotentiaires ont signé la présente Déclaration et l’ont revêtue de leurs cachets. Fait à La Haye, le vingt‑neuf juillet mil huit cent quatre‑vingt‑dix‑neuf, en un seul exemplaire qui restera déposé dans les archives du Gouvernement des Pays‑Bas et dont des copies, certifiées conformes, seront remises par la voie diplomatique aux Puissances contractantes. (Suivent les signatures)
 
-Champ d’application le 6 juillet 2015**[^t-3]**
+Champ d’application le 22 juin 2023[^t-3]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>10 mars</td><td>1978 S</td><td>31 mai</td><td>1910</td></tr>
 <tr><td>Allemagne</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>Autriche</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
@@ -66,11 +66,12 @@ Champ d’application le 6 juillet 2015**[^t-3]**
 <tr><td>Chine</td><td>21 novembre</td><td>1904</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>Danemark</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>Espagne</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
-<tr><td>Ethiopie</td><td>9 août</td><td>1935 A</td><td>9 août</td><td>1935</td></tr>
+<tr><td>Éthiopie</td><td>9 août</td><td>1935 A</td><td>9 août</td><td>1935</td></tr>
 <tr><td>Fidji</td><td>26 janvier</td><td>1973 S</td><td>10 octobre</td><td>1970</td></tr>
 <tr><td>France</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>Grèce</td><td>4 avril</td><td>1901</td><td>4 avril</td><td>1901</td></tr>
 <tr><td>Hongrie</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
+<tr><td>Inde</td><td>29 juillet</td><td>1950 S</td><td>15 août</td><td>1947</td></tr>
 <tr><td>Iran</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>Italie</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>Japon</td><td>6 octobre</td><td>1900</td><td>6 octobre</td><td>1900</td></tr>
@@ -84,7 +85,7 @@ Champ d’application le 6 juillet 2015**[^t-3]**
 <tr><td>[tab] Aruba</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>[tab] Curaçao</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>[tab] Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
-<tr><td>[tab] Sint Maaten</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
+<tr><td>[tab] Sint Maarten</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>Portugal</td><td>29 août</td><td>1907 A</td><td>29 août</td><td>1907</td></tr>
 <tr><td>Roumanie</td><td>4 septembre</td><td>1900</td><td>4 septembre</td><td>1900</td></tr>
 <tr><td>Royaume-Uni</td><td>30 août</td><td>1907 A</td><td>30 août</td><td>1907</td></tr>
@@ -97,4 +98,4 @@ Champ d’application le 6 juillet 2015**[^t-3]**
 <tr><td>Ukraine</td><td>29 mai</td><td>2015 S</td><td>24 août</td><td>1991</td></tr>
 </table>
 
-[^t-3]: [RO 2010 25](https://fedlex.data.admin.ch/eli/oc/2010/9), [2015 2573](https://fedlex.data.admin.ch/eli/oc/2015/484). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 2010 25](https://fedlex.data.admin.ch/eli/oc/2010/9); [2015 2573](https://fedlex.data.admin.ch/eli/oc/2015/484); [2023 320](https://fedlex.data.admin.ch/eli/oc/2023/320). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

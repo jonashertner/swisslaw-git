@@ -3,28 +3,27 @@ sr: "0.515.103"
 title: "Dichiarazione del 29 luglio 1899 circa l'uso di palle che si dilatano o si schiacciano facilmente nel corpo umano"
 eli: "https://fedlex.data.admin.ch/eli/cc/18/544_476_525"
 language: it
-version: 2015-07-06
+version: 2023-06-22
 adopted: 1899-07-29
 in_force: 1900-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/18/544_476_525/20150706/it/xml/fedlex-data-admin-ch-eli-cc-18-544_476_525-20150706-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/18/544_476_525/20150706/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/18/544_476_525/20230622/it/xml/fedlex-data-admin-ch-eli-cc-18-544_476_525-20230622-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/18/544_476_525/20230622/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Dichiarazione circa l’uso di palle che si dilatano o si schiacciano facilmente nel corpo umano****
+# Dichiarazione circa l’uso di palle che si dilatano o si schiacciano facilmente nel corpo umano
 
 CS **11** 407; FF **1900** III 1 ediz. ted. **1900** III 73 ediz. franc.[^t-1]
 
-Traduzione*[^t-2]*
+Traduzione
 
-Data il 29 luglio 1899 Approvata dall’Assemblea federale il 10 dicembre 1900[^t-3] Istrumento di ratificazione depositato dalla Svizzera il 29 dicembre 1900
+Data il 29 luglio 1899 Approvata dall’Assemblea federale il 10 dicembre 1900[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 29 dicembre 1900
 
-(Stato 6 luglio 2015)
+(Stato 22 giugno 2023)
 
 [^t-1]: Trattasi della Dich. n. IV 3 firmata alla Conferenza per la pace all’Aja, del 1899. L’atto finale di questa Conferenza è pubblicato in [RS 0.193.211](https://fedlex.data.admin.ch/eli/cc/18/517_433_502)in fine.
-[^t-2]: Dal testo originale francese.
-[^t-3]: N. I 5 del DF del 10 dic. 1900 (RU **18** 433).
+[^t-2]: N. I 5 del DF del 10 dic. 1900 (RU **18** 433).
 
 I sottoscritti, Plenipotenziari delle Potenze rappresentate alla Conferenza Internazionale della Pace all’Aja, debitamente a ciò autorizzati dai loro Governi,
 
@@ -54,7 +53,7 @@ Questa denunzia non produrrà i suoi effetti che rispetto alla Potenza che l’a
 
 *In fede di che,* i Plenipotenziari hanno sottoscritto la presente Dichiarazione e l’hanno munita dei loro sigilli. Fatto all’Aja, il 29 luglio 1899, in un solo esemplare che rimarrà in deposito nell’archivio del Governo de’ Paesi Bassi, e di cui delle copie, certificate conformi, saranno rimesse in via diplomatica alle Potenze contraenti. (Seguono le firme)
 
-Campo d’applicazione il 6 luglio 2015**[^t-4]**
+Campo d’applicazione il 22 giugno 2023[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -70,6 +69,7 @@ Campo d’applicazione il 6 luglio 2015**[^t-4]**
 <tr><td>Germania</td><td>4 settembre</td><td>1900</td><td>4 settembre</td><td>1900</td></tr>
 <tr><td>Giappone</td><td>6 ottobre</td><td>1900</td><td>6 ottobre</td><td>1900</td></tr>
 <tr><td>Grecia</td><td>4 aprile</td><td>1901</td><td>4 aprile</td><td>1901</td></tr>
+<tr><td>India</td><td>29 luglio</td><td>1950 S</td><td>15 agosto</td><td>1947</td></tr>
 <tr><td>Iran</td><td>4 settembre</td><td>1900</td><td>4 settembre</td><td>1900</td></tr>
 <tr><td>Italia</td><td>4 settembre</td><td>1900</td><td>4 settembre</td><td>1900</td></tr>
 <tr><td>Lussemburgo</td><td>12 luglio</td><td>1901</td><td>12 luglio</td><td>1901</td></tr>
@@ -78,7 +78,10 @@ Campo d’applicazione il 6 luglio 2015**[^t-4]**
 <tr><td>Nicaragua</td><td>11 ottobre</td><td>1907 A</td><td>11 ottobre</td><td>1907</td></tr>
 <tr><td>Norvegia</td><td>4 settembre</td><td>1900</td><td>4 settembre</td><td>1900</td></tr>
 <tr><td>Paesi Bassi</td><td>4 settembre</td><td>1900</td><td>4 settembre</td><td>1900</td></tr>
-<tr><td>Aruba Curaçao Parte caraibica (Bonaire, Sant’Eustachio e Saba) Sint Maarten</td><td>4 settembre 4 settembre 4 settembre 4 settembre</td><td>1900 1900 1900 1900</td><td>4 settembre 4 settembre 4 settembre 4 settembre</td><td>1900 1900 1900 1900</td></tr>
+<tr><td>Aruba</td><td>4 settembre</td><td>1900</td><td>4 settembre</td><td>1900</td></tr>
+<tr><td>Curaçao</td><td>4 settembre</td><td>1900</td><td>4 settembre</td><td>1900</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>4 settembre</td><td>1900</td><td>4 settembre</td><td>1900</td></tr>
+<tr><td>Sint Maarten</td><td>4 settembre</td><td>1900</td><td>4 settembre</td><td>1900</td></tr>
 <tr><td>Pakistan</td><td>5 agosto</td><td>1950 S</td><td>5 agosto</td><td>1950</td></tr>
 <tr><td>Portogallo</td><td>29 agosto</td><td>1907 A</td><td>29 agosto</td><td>1907</td></tr>
 <tr><td>Regno Unito</td><td>30 agosto</td><td>1907 A</td><td>30 agosto</td><td>1907</td></tr>
@@ -95,4 +98,4 @@ Campo d’applicazione il 6 luglio 2015**[^t-4]**
 <tr><td>Ungheria</td><td>4 settembre</td><td>1900</td><td>4 settembre</td><td>1900</td></tr>
 </table>
 
-[^t-4]: RU **2010** 25 e **2015** 2573. Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 2010 25](https://fedlex.data.admin.ch/eli/oc/2010/9); [2015 2573](https://fedlex.data.admin.ch/eli/oc/2015/484); [2023 320](https://fedlex.data.admin.ch/eli/oc/2023/320). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
