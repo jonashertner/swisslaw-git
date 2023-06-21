@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sulle banche (La concessione da parte della Confederazione di garanzie in caso di dissesto per mutui a sostegno della liquidità erogati dalla Banca nazionale svizzera a banche di rilevanza sistemica)
 document: Progetto posto in consultazione
 language: it

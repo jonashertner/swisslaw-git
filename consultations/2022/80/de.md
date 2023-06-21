@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bankengesetzes (Gewährung von Ausfallgarantien des Bundes für Liquiditätshilfe-Darlehen der Schweizerischen Nationalbank an systemrelevante Banken)
 document: Vernehmlassungsvorlage
 language: de

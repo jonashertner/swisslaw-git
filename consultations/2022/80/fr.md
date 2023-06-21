@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur les banques (L’octroi par la Confédération de garanties du risque de défaillance pour les prêts d’aide sous forme de liquidités de la Banque nationale suisse à des banques d’importance systémique)
 document: Projet mis en consultation
 language: fr
