@@ -3,11 +3,11 @@ sr: "0.975.3"
 title: Übereinkommen vom 10. Dezember 2014 der Vereinten Nationen über Transparenz in Investor-Staat-Schiedsverfahren auf der Grundlage von Verträgen
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/304"
 language: de
-version: 2020-07-08
+version: 2023-06-23
 adopted: 2014-12-10
 in_force: 2017-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/304/20200708/de/xml/fedlex-data-admin-ch-eli-cc-2017-304-20200708-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/304/20200708/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/304/20230623/de/xml/fedlex-data-admin-ch-eli-cc-2017-304-20230623-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/304/20230623/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 18. April 2017
 
 In Kraft getreten für die Schweiz am 18. Oktober 2017
 
-(Stand am 8. Juli 2020)
+(Stand am 23. Juni 2023)
 
 [^t-1]: [AS 2017 3081](https://fedlex.data.admin.ch/eli/oc/2017/303)
 
@@ -187,15 +187,19 @@ Geschehen in einer Urschrift, wobei der arabische, chinesische, englische, franz
 
 *Zu Urkund dessen* haben die unterzeichneten, hierzu von ihren Regierungen gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 8. Juli 2020**[^t-2]**
+Geltungsbereich am 23. Juni 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Australien</td><td>17. September</td><td>2020</td><td>17. März</td><td>2021</td></tr>
+<tr><td>Benin</td><td>19. Juli</td><td>2021</td><td>19. Januar</td><td>2022</td></tr>
+<tr><td>Bolivien</td><td>13. Oktober</td><td>2020</td><td>13. April</td><td>2021</td></tr>
 <tr><td>Gambia</td><td>28. September</td><td>2018</td><td>28. März</td><td>2019</td></tr>
+<tr><td>Irak</td><td>20. August</td><td>2021</td><td>20. Februar</td><td>2022</td></tr>
 <tr><td>Kamerun</td><td>18. Juni</td><td>2018</td><td>18. Dezember</td><td>2018</td></tr>
 <tr><td>Kanada</td><td>12. Dezember</td><td>2016</td><td>18. Oktober</td><td>2017</td></tr>
 <tr><td>Mauritius</td><td>5. Juni</td><td>2015</td><td>18. Oktober</td><td>2017</td></tr>
 <tr><td>Schweiz</td><td>18. April</td><td>2017</td><td>18. Oktober</td><td>2017</td></tr>
 </table>
 
-[^t-2]: [AS 2017 3083](https://fedlex.data.admin.ch/eli/oc/2017/304), [2020 3441](https://fedlex.data.admin.ch/eli/oc/2020/591). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2017 3083](https://fedlex.data.admin.ch/eli/oc/2017/304); [2020 3441](https://fedlex.data.admin.ch/eli/oc/2020/591); [2023 332](https://fedlex.data.admin.ch/eli/oc/2023/332). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

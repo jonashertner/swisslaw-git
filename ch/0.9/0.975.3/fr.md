@@ -3,11 +3,11 @@ sr: "0.975.3"
 title: "Convention du 10 décembre 2014 des Nations Unies sur la transparence dans l'arbitrage entre investisseurs et États fondé sur des traités"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/304"
 language: fr
-version: 2020-07-08
+version: 2023-06-23
 adopted: 2014-12-10
 in_force: 2017-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/304/20200708/fr/xml/fedlex-data-admin-ch-eli-cc-2017-304-20200708-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/304/20200708/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/304/20230623/fr/xml/fedlex-data-admin-ch-eli-cc-2017-304-20230623-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/304/20230623/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 18 avril 2017
 
 Entrée en vigueur pour la Suisse le 18 octobre 2017
 
-(Etat le 8 juillet 2020)
+(État le 23 juin 2023)
 
 [^t-1]: [RO 2017 3081](https://fedlex.data.admin.ch/eli/oc/2017/303)
 
@@ -187,15 +187,19 @@ Fait en un seul original, dont les textes anglais, arabe, chinois, espagnol, fra
 
 *En foi de quoi* les plénipotentiaires soussignés, dûment autorisés par leur gouvernement respectif, ont signé la présente Convention. (Suivent les signatures)
 
-Champ d’application le 8 juillet 2020**[^t-2]**
+Champ d’application le 23 juin 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Australie</td><td>17 septembre</td><td>2020</td><td>17 mars</td><td>2021</td></tr>
+<tr><td>Bénin</td><td>19 juillet</td><td>2021</td><td>19 janvier</td><td>2022</td></tr>
+<tr><td>Bolivie</td><td>13 octobre</td><td>2020</td><td>13 avril</td><td>2021</td></tr>
 <tr><td>Cameroun</td><td>18 juin</td><td>2018</td><td>18 décembre</td><td>2018</td></tr>
 <tr><td>Canada</td><td>12 décembre</td><td>2016</td><td>18 octobre</td><td>2017</td></tr>
 <tr><td>Gambie</td><td>28 septembre</td><td>2018</td><td>28 mars</td><td>2019</td></tr>
+<tr><td>Iraq</td><td>20 août</td><td>2021</td><td>20 février</td><td>2022</td></tr>
 <tr><td>Maurice</td><td>5 juin</td><td>2015</td><td>18 octobre</td><td>2017</td></tr>
 <tr><td>Suisse</td><td>18 avril</td><td>2017</td><td>18 octobre</td><td>2017</td></tr>
 </table>
 
-[^t-2]: [RO 2017 3083](https://fedlex.data.admin.ch/eli/oc/2017/304), [2020 3441](https://fedlex.data.admin.ch/eli/oc/2020/591). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2017 3083](https://fedlex.data.admin.ch/eli/oc/2017/304); [2020 3441](https://fedlex.data.admin.ch/eli/oc/2020/591); [2023 332](https://fedlex.data.admin.ch/eli/oc/2023/332). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

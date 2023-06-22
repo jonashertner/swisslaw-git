@@ -3,11 +3,11 @@ sr: "0.975.3"
 title: "Convenzione del 10 dicembre 2014 delle Nazioni Unite sulla trasparenza nell'arbitrato tra investitori e Stato, basato su trattati"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/304"
 language: it
-version: 2020-07-08
+version: 2023-06-23
 adopted: 2014-12-10
 in_force: 2017-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/304/20200708/it/xml/fedlex-data-admin-ch-eli-cc-2017-304-20200708-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/304/20200708/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/304/20230623/it/xml/fedlex-data-admin-ch-eli-cc-2017-304-20230623-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/304/20230623/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2017** 3083; FF **2016** 3581
 
 Traduzione
 
-Conclusa a New York il 10 dicembre 2014
+Conclusa a New York il 10 dicembre 2014 Approvata dall’Assemblea federale il 16 dicembre 2016[^t-1] Strumento di ratifica depositato dalla Svizzera il 18 aprile 2017 Entrata in vigore per la Svizzera il 18 ottobre 2017
 
-Approvata dall’Assemblea federale il 16 dicembre 2016[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 18 aprile 2017
-
-Entrata in vigore per la Svizzera il 18 ottobre 2017
-
-(Stato 8 luglio 2020)
+(Stato 23 giugno 2023)
 
 [^t-1]: [RU 2017 3081](https://fedlex.data.admin.ch/eli/oc/2017/303)
 
@@ -187,15 +181,19 @@ Fatto in un unico originale le cui versioni in lingua araba, cinese, inglese, fr
 
 *In fede di ciò*, i sottoscritti plenipotenziari, all’uopo debitamente autorizzati dai rispettivi Governi, hanno firmato la presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione l’8 luglio 2020**[^t-2]**
+Campo d’applicazione il 23 giugno 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Australia</td><td>17 settembre</td><td>2020</td><td>17 marzo</td><td>2021</td></tr>
+<tr><td>Benin</td><td>19 luglio</td><td>2021</td><td>19 gennaio</td><td>2022</td></tr>
+<tr><td>Bolivia</td><td>13 ottobre</td><td>2020</td><td>13 aprile</td><td>2021</td></tr>
 <tr><td>Camerun</td><td>18 giugno</td><td>2018</td><td>18 dicembre</td><td>2018</td></tr>
 <tr><td>Canada</td><td>12 dicembre</td><td>2016</td><td>18 ottobre</td><td>2017</td></tr>
 <tr><td>Gambia</td><td>28 settembre</td><td>2018</td><td>28 marzo</td><td>2019</td></tr>
+<tr><td>Iraq</td><td>20 agosto</td><td>2021</td><td>20 febbraio</td><td>2022</td></tr>
 <tr><td>Maurizio</td><td>5 giugno</td><td>2015</td><td>18 ottobre</td><td>2017</td></tr>
 <tr><td>Svizzera</td><td>18 aprile</td><td>2017</td><td>18 ottobre</td><td>2017</td></tr>
 </table>
 
-[^t-2]: [RU 2017 3083](https://fedlex.data.admin.ch/eli/oc/2017/304), [2020 3441](https://fedlex.data.admin.ch/eli/oc/2020/591). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2017 3083](https://fedlex.data.admin.ch/eli/oc/2017/304); [2020 3441](https://fedlex.data.admin.ch/eli/oc/2020/591); [2023 332](https://fedlex.data.admin.ch/eli/oc/2023/332)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
