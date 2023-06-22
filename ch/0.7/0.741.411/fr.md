@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Accord du 20 mars 1958 concernant l'adoption de règlements techniques harmonisé de l'ONU applicables aux véhicules à roues, aux équipements et pièces susceptibles d'être montés ou utilisés sur les véhicules à roues et les conditions de reconnaissance réciproque des homologations délivrées conformément à ces règlements (avec règlements et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: fr
-version: 2023-06-08
+version: 2023-06-23
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20230608/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20230608-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20230608/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20230623/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20230623-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20230623/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,27 +18,11 @@ RO **2017** 5085
 
 Texte original
 
-Conclu à Genève le 20 mars 1958
+Conclu à Genève le 20 mars 1958 Amendé le 10 novembre 1967 Approuvé par l’Assemblée fédérale le 15 mars 1973[^t-1] Instrument d’adhésion déposé par la Suisse le 29 juin 1973 Entré en vigueur pour la Suisse le 28 août 1973 Amendements adoptés le 18 août 1994 Entrés en vigueur le 16 octobre 1995 Amendements adoptés le 25 septembre 2015 Entrés en vigueur le 14 septembre 2017
 
-Amendé le 10 novembre 1967
+(État le 23 juin 2023)
 
-Approuvé par l’Assemblée fédérale le 15 mars 1973[^t-1]
-
-Instrument d’adhésion déposé par la Suisse le 29 juin 1973
-
-Entré en vigueur pour la Suisse le 28 août 1973
-
-Amendements adoptés le 18 août 1994
-
-Entrés en vigueur le 16 octobre 1995
-
-Amendements adoptés le 25 septembre 2015
-
-Entrés en vigueur le 14 septembre 2017
-
-(État le 8 juin 2023)
-
-[^t-1]: [RO 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468)
+[^t-1]: [RO 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
 *Préambule*
 
@@ -808,13 +792,14 @@ Annexe 8
 - Il doit en outre apporter une assistance appropriée à l’autorité d’homologation ou au service technique.
 - La fourniture de l’accès et de l’assistance au service technique ne supprime aucune des obligations qui lui incombent en ce qui concerne les compétences de son personnel, le paiement des droits de licence et le respect de la confidentialité.
 
-Champ d’application de l’accord le 23 janvier 2020[^t-3]
+Champ d’application de l’accord le 23 juin 2023[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud\*</td><td>18 avril</td><td>2001 A</td><td>17 juin</td><td>2001</td></tr>
 <tr><td>Albanie</td><td>6 septembre</td><td>2011 A</td><td>5 novembre</td><td>2011</td></tr>
 <tr><td>Allemagne\*</td><td>29 novembre</td><td>1965</td><td>28 janvier</td><td>1966</td></tr>
+<tr><td>Andorre<sup>\*</sup></td><td>11 avril</td><td>2023 A</td><td>10 juin</td><td>2023</td></tr>
 <tr><td>Arménie</td><td>1<sup>er</sup> mars</td><td>2018 A</td><td>30 avril</td><td>2018</td></tr>
 <tr><td>Australie\*</td><td>25 février</td><td>2000 A</td><td>25 avril</td><td>2000</td></tr>
 <tr><td>Autriche\*</td><td>12 mars</td><td>1971 A</td><td>11 mai</td><td>1971</td></tr>
@@ -847,8 +832,10 @@ Champ d’application de l’accord le 23 janvier 2020[^t-3]
 <tr><td>Nigéria</td><td>18 octobre</td><td>2018 A</td><td>17 décembre</td><td>2018</td></tr>
 <tr><td>Norvège</td><td>3 février</td><td>1975 A</td><td>4 avril</td><td>1975</td></tr>
 <tr><td>Nouvelle-Zélande\*</td><td>27 novembre</td><td>2001 A</td><td>26 janvier</td><td>2002</td></tr>
+<tr><td>Ouganda</td><td>23 août</td><td>2022 A</td><td>22 octobre</td><td>2022</td></tr>
 <tr><td>Pakistan</td><td>24 février</td><td>2020 A</td><td>24 avril</td><td>2020</td></tr>
 <tr><td>Pays-Bas</td><td>30 juin</td><td>1960</td><td>29 août</td><td>1960</td></tr>
+<tr><td>Philippines</td><td>3 novembre</td><td>2022 A</td><td>2 janvier</td><td>2023</td></tr>
 <tr><td>Pologne\*</td><td>12 janvier</td><td>1979 A</td><td>13 mars</td><td>1979</td></tr>
 <tr><td>Portugal</td><td>29 janvier</td><td>1980 A</td><td>29 mars</td><td>1980</td></tr>
 <tr><td>République tchèque</td><td>2 juin</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
@@ -869,7 +856,7 @@ Champ d’application de l’accord le 23 janvier 2020[^t-3]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org)/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-3]: [RO 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); **1996** 2172; [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).
+[^t-3]: [RO 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); **1996** 2172; [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211); [2023 330](https://fedlex.data.admin.ch/eli/oc/2023/330). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).
 
 Règlements[^t-4]
 

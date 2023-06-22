@@ -3,24 +3,24 @@ sr: "0.741.411"
 title: "Übereinkommen vom 20. März 1958 der Vereinten Nationen über die Annahme harmonisierter technischer Regelungen für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge eingebaut oder dafür verwendet werden können, und die Bedingungen für die gegenseitige Anerkennung von Genehmigungen, die nach diesen Regelungen erteilt wurden (mit R und Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: de
-version: 2023-06-08
+version: 2023-06-23
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20230608/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20230608-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20230608/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20230623/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20230623-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20230623/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Übereinkommen der Vereinten Nationen über die Annahme harmonisierter technischer Regelungen für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge eingebaut oder dafür verwendet werden können, und die Bedingungen für die gegenseitige Anerkennung von Genehmigungen, die nach diesen Regelungen erteilt wurden
 
-AS **1996** 2158
+AS **2017** 5085
 
 Übersetzung
 
 Abgeschlossen in Genf am 20. März 1958 Geändert am 10. November 1967 Von der Bundesversammlung genehmigt um 15. März 1973[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 29. Juni 1973 In Kraft getreten für die Schweiz am 28. August 1973 Änderungen angenommen am 18. August 1994 In Kraft getreten am 16. Oktober 1995 Änderungen angenommen am 25. September 2015 In Kraft getreten am 14. September 2017
 
-(Stand am 8. Juni 2023)
+(Stand am 23. Juni 2023)
 
 [^t-1]: [AS 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
@@ -792,12 +792,13 @@ Anhang 8
 - Zudem muss der Hersteller die Genehmigungsbehörde sowie den technischen Dienst in geeigneter Weise unterstützen.
 - Der technische Dienst ist, auch wenn er Zugang und Unterstützung erhält, weiterhin an seine Verpflichtungen hinsichtlich der Kompetenzen seines Personals, der Zahlung von Lizenzgebühren und der Wahrung der Vertraulichkeit gebunden.
 
-Geltungsbereich des Übereinkommens am 22. Januar 2021[^t-3]
+Geltungsbereich am 23. Juni 2023[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Ägypten</td><td>5. Dezember</td><td>2012 B</td><td>3. Februar</td><td>2013</td></tr>
 <tr><td>Albanien</td><td>6. September</td><td>2011 B</td><td>5. November</td><td>2011</td></tr>
+<tr><td>Andorra\*</td><td>11. April</td><td>2023 B</td><td>10. Juni</td><td>2023</td></tr>
 <tr><td>Armenien</td><td>1. März</td><td>2018 B</td><td>30. April</td><td>2018</td></tr>
 <tr><td>Aserbaidschan</td><td>15. April</td><td>2002 B</td><td>14. Juni</td><td>2002</td></tr>
 <tr><td>Australien\*</td><td>25. Februar</td><td>2000 B</td><td>25. April</td><td>2000</td></tr>
@@ -831,6 +832,7 @@ Geltungsbereich des Übereinkommens am 22. Januar 2021[^t-3]
 <tr><td>Norwegen</td><td>3. Februar</td><td>1975 B</td><td>4. April</td><td>1975</td></tr>
 <tr><td>Österreich\*</td><td>12. März</td><td>1971 B</td><td>11. Mai</td><td>1971</td></tr>
 <tr><td>Pakistan</td><td>24. Februar</td><td>2020 B</td><td>24. April</td><td>2020</td></tr>
+<tr><td>Philippinen</td><td>3. November</td><td>2022 B</td><td>2. Januar</td><td>2023</td></tr>
 <tr><td>Polen\*</td><td>12. Januar</td><td>1979 B</td><td>13. März</td><td>1979</td></tr>
 <tr><td>Portugal</td><td>29. Januar</td><td>1980 B</td><td>29. März</td><td>1980</td></tr>
 <tr><td>Rumänien\*</td><td>23. Dezember</td><td>1976 B</td><td>21. Februar</td><td>1977</td></tr>
@@ -847,19 +849,20 @@ Geltungsbereich des Übereinkommens am 22. Januar 2021[^t-3]
 <tr><td>Tschechische Republik</td><td>2. Juni</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Tunesien</td><td>2. November</td><td>2007 B</td><td>1. Januar</td><td>2008</td></tr>
 <tr><td>Türkei\*</td><td>29. Dezember</td><td>1995 B</td><td>27. Februar</td><td>1996</td></tr>
+<tr><td>Uganda</td><td>23. August</td><td>2022 B</td><td>22. Oktober</td><td>2022</td></tr>
 <tr><td>Ukraine\*</td><td>1. Mai</td><td>2000 B</td><td>30. Juni</td><td>2000</td></tr>
 <tr><td>Ungarn\*</td><td>3. Mai</td><td>1960</td><td>2. Juli</td><td>1960</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>15. Januar</td><td>1963 B</td><td>16. März</td><td>1963</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org](https://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-3]: [AS 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); **1996** 2170; [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.
+[^t-3]: [AS 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1978 518](https://fedlex.data.admin.ch/eli/oc/1978/518_518_518); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); [1996 2158](https://fedlex.data.admin.ch/eli/oc/1996/2158_2158_2158); [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211); [2023 330](https://fedlex.data.admin.ch/eli/oc/2023/330). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Reglemente[^t-4]
 
 ## Reglement Nr. 0 zum Übereinkommen
 
-[^t-4]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384)). Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Vereinten Nationen eingesehen werden: [www.unece.org/trans/main/wp29/wp29regs](https://unece.org/trans/main/wp29/wp29regs) Der Geltungsbereich ist auf der Internetseite der Vereinten Nationen einsehbar: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations)..
+[^t-4]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384)). Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Vereinten Nationen eingesehen werden: www.unece.org/trans/main/wp29/wp29regs.html Der Geltungsbereich ist auf der Internetseite der Vereinten Nationen einsehbar: www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html.
 
 Einheitliche Vorschriften hinsichtlich die Internationale Gesamtfahrzeug-Typengenehmigung
 

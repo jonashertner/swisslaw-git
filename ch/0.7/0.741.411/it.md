@@ -3,24 +3,26 @@ sr: "0.741.411"
 title: "Accordo del 20 marzo 1958 concernente l'adozione di regolamenti tecnici armonizzati delle Nazioni Unite per i veicoli a ruote, gli equipaggiamenti e i pezzi che possono essere installati o usati in veicoli a ruote, nonché le condizioni per il riconoscimento reciproco di omologazioni concesse sulla base di tali regolamenti delle Nazioni Unite (con R e All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: it
-version: 2023-06-08
+version: 2023-06-23
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20230608/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20230608-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20230608/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20230623/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20230623-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20230623/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo concernente l’adozione di regolamenti tecnici armonizzati delle Nazioni Unite per i veicoli a ruote, gli equipaggiamenti e i pezzi che possono essere installati o usati in veicoli a ruote, nonché le condizioni per il riconoscimento reciproco di omologazioni concesse sulla base di tali regolamenti delle Nazioni Unite
 
+RU **2017** 5085
+
 Traduzione
 
 Conchiuso a Ginevra il 20 marzo 1958 Emendato il 10 novembre 1967 Approvato dall’Assemblea federale il 15 marzo 1973[^t-1] Istrumento d’adesione depositato dalla Svizzera il 29 giugno 1973 Entrato in vigore per la Svizzera il 28 agosto 1973 Emendamenti adottati il 18 agosto 1994 Entrata in vigore il 16 ottobre 1995 Emendamenti adottati il 25 settembre 2015 Entrata in vigore il 14 settembre 2017
 
-(Stato 8 giugno 2023)
+(Stato 23 giugno 2023)
 
-[^t-1]: RU **2017** 5085 RU **1973** 1465
+[^t-1]: [RU 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
 *Preambolo*
 
@@ -753,7 +755,6 @@ Allegato 7
 - 10 Entrato in vigore il regolamento ONU emendato in modo che tenga conto della tecnologia per la quale era stata concessa l’omologazione in deroga, il costruttore è autorizzato a domandare un’omologazione di tipo in virtù del regolamento ONU modificato, in sostituzione dell’omologazione in deroga precedentemente concessa. Qualora rilasci tale omologazione di tipo, l’autorità di omologazione deve, appena le è ragionevolmente possibile, revocare l’omologazione in deroga oppure informare l’autorità di omologazione che ha concesso l’omologazione in deroga che quest’ultima dev’essere revocata.
 - 11 Se la procedura di emendamento del regolamento ONU non è stata completata prima della scadenza del limite temporale di cui al paragrafo 8 del presente allegato, la durata di validità di un’omologazione in deroga può essere prorogata, su richiesta della Parte contraente che l’ha rilasciata, con decisione adottata secondo la procedura di cui ai paragrafi 2 e 3 del presente allegato. Tuttavia, se la Parte contraente autorizzata a concedere l’omologazione in deroga non ha provveduto a presentare una proposta di emendamento del regolamento ONU in questione prima del termine indicato al paragrafo 9 del presente allegato, essa deve revocare immediatamente tale omologazione in deroga, tenendo comunque conto del limite temporale di cui al paragrafo 8 del presente allegato. La Parte contraente che ha revocato l’omologazione in deroga ne informa il Comitato di amministrazione durante la sua successiva riunione.
 - 12 Se il Comitato di amministrazione decide di rifiutare un’autorizzazione a rilasciare un’omologazione in deroga, la Parte contraente che ha rilasciato l’omologazione provvisoria di cui al paragrafo 2 del presente allegato ha la facoltà di revocarla. In tale caso, la Parte contraente comunica immediatamente al detentore dell’omologazione provvisoria che tale omologazione provvisoria, concessa conformemente al paragrafo 2 del presente allegato, sarà revocata sei mesi dopo la data della decisione, tenendo conto che essa è valida per almeno dodici mesi a partire dalla data in cui è stata concessa.
-- [tab]
 
 Allegato 8
 
@@ -791,11 +792,12 @@ Allegato 8
 - Il costruttore fornisce inoltre un’assistenza appropriata all’autorità di omologazione o al servizio tecnico.
 - L’accesso e l’assistenza offerti al servizio tecnico non esimono quest’ultimo dagli obblighi che gli incombono in materia di competenze del personale, pagamento dei diritti di licenza e rispetto della riservatezza.
 
-Campo d’applicazione il 22 gennaio 2021[^t-3]
+Campo d’applicazione il 23 giugno 2023[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>6 settembre</td><td>2011 A</td><td>5 novembre</td><td>2011</td></tr>
+<tr><td>Andorra<sup>\*</sup></td><td>11 aprile</td><td>2023 A</td><td>10 giugno</td><td>2023</td></tr>
 <tr><td>Armenia</td><td>1° marzo</td><td>2018 A</td><td>30 aprile</td><td>2018</td></tr>
 <tr><td>Australia<sup>\*</sup></td><td>25 febbraio</td><td>2000 A</td><td>25 aprile</td><td>2000</td></tr>
 <tr><td>Austria<sup>\*</sup></td><td>12 marzo</td><td>1971 A</td><td>11 maggio</td><td>1971</td></tr>
@@ -810,6 +812,7 @@ Campo d’applicazione il 22 gennaio 2021[^t-3]
 <tr><td>Danimarca<sup>\*</sup></td><td>21 ottobre</td><td>1976 A</td><td>20 dicembre</td><td>1976</td></tr>
 <tr><td>Egitto</td><td>5 dicembre</td><td>2012 A</td><td>3 febbraio</td><td>2013</td></tr>
 <tr><td>Estonia<sup>\*</sup></td><td>2 marzo</td><td>1995 A</td><td>1° maggio</td><td>1995</td></tr>
+<tr><td>Filippine</td><td>3 novembre</td><td>2022 A</td><td>2 gennaio</td><td>2023</td></tr>
 <tr><td>Finlandia</td><td>19 luglio</td><td>1976 A</td><td>17 settembre</td><td>1976</td></tr>
 <tr><td>Francia</td><td>26 giugno</td><td>1958 F</td><td>20 giugno</td><td>1959</td></tr>
 <tr><td>Georgia</td><td>26 marzo</td><td>2015 A</td><td>25 maggio</td><td>2015</td></tr>
@@ -829,6 +832,7 @@ Campo d’applicazione il 22 gennaio 2021[^t-3]
 <tr><td>Norvegia</td><td>3 febbraio</td><td>1975 A</td><td>4 aprile</td><td>1975</td></tr>
 <tr><td>Nuova Zelanda<sup>\*</sup></td><td>27 novembre</td><td>2001 A</td><td>26 gennaio</td><td>2002</td></tr>
 <tr><td>Paesi Bassi</td><td>30 giugno</td><td>1960</td><td>29 agosto</td><td>1960</td></tr>
+<tr><td>Pakistan</td><td>24 febbraio</td><td>2020 A</td><td>24 aprile</td><td>2020</td></tr>
 <tr><td>Polonia<sup>\*</sup></td><td>12 gennaio</td><td>1979 A</td><td>13 marzo</td><td>1979</td></tr>
 <tr><td>Portogallo</td><td>29 gennaio</td><td>1980 A</td><td>29 marzo</td><td>1980</td></tr>
 <tr><td>Regno Unito</td><td>15 gennaio</td><td>1963 A</td><td>16 marzo</td><td>1963</td></tr>
@@ -846,18 +850,19 @@ Campo d’applicazione il 22 gennaio 2021[^t-3]
 <tr><td>Tunisia</td><td>2 novembre</td><td>2007 A</td><td>1° gennaio</td><td>2008</td></tr>
 <tr><td>Turchia<sup>\*</sup></td><td>29 dicembre</td><td>1995 A</td><td>27 febbraio</td><td>1996</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>1° maggio</td><td>2000 A</td><td>30 giugno</td><td>2000</td></tr>
+<tr><td>Uganda</td><td>23 agosto</td><td>2022 A</td><td>22 ottobre</td><td>2022</td></tr>
 <tr><td>Ungheria<sup>\*</sup></td><td>3 maggio</td><td>1960</td><td>2 luglio</td><td>1960</td></tr>
 <tr><td>Unione europea<sup>\*</sup></td><td>23 gennaio</td><td>1998 A</td><td>24 marzo</td><td>1998</td></tr>
 <tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-3]: [RU 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); **1996** 2170; [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
+[^t-3]: [RU 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); [1996 2158](https://fedlex.data.admin.ch/eli/oc/1996/2158_2158_2158); [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211); [2023 330](https://fedlex.data.admin.ch/eli/oc/2023/330). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Regolamenti[^t-4]
 
 ## Regolamento n. 0 allegato all’accordo
 
-[^t-4]: Il testo dei regolamenti e dei loro campi d’applicazione non sono pubblicati nella RU ([RU 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384)).. Possono essere richiesti all’Ufficio federale delle strade, 3003 Berna oppure consultati sul sito Internet dell’Organizzazione delle Nazioni Unite: [www.unece.org/trans/main/wp29/wp29regs](https://unece.org/trans/main/wp29/wp29regs) (regolamenti), [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations) (campi d’applicazione).
+[^t-4]: Il testo dei regolamenti e dei loro campi d’applicazione non sono pubblicati nella RU ([RU 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384)). Possono essere richiesti all’Ufficio federale delle strade, 3003 Berna oppure consultati sul sito Internet dell’Organizzazione delle Nazioni Unite: [www.unece.org/trans/main/wp29/wp29regs](https://unece.org/trans/main/wp29/wp29regs) (regolamenti), [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations) (campi d’applicazione).
 
 Prescrizioni uniformi per quanto concerne il systema di omologazione internazionale dei veicoli completi
 
@@ -981,11 +986,11 @@ Applicato dalla Svizzera dal 2 febbraio 1996
 
 Prescrizioni uniformi relative:
 
-**I. all’omologazione dei motori ad accensione per compressione (motori Diesel) per quanto riguarda l’emissione di materie inquinanti l’aria visibili;**
+**I. all****’****omologazione dei motori ad accensione per compressione (motori Diesel) per quanto riguarda l****’****emissione di materie inquinanti l****’****aria visibili;**
 
-**II. all’omologazione dei veicoli a motore concernente l’installazione di un** **motore** **ad accensione per compressione (motore Diesel) di tipo omologato;**
+**II. all****’****omologazione dei veicoli a motore concernente l****’****installazione di un** **motore** **ad accensione per compressione (motore Diesel) di tipo omologato;**
 
-**III. all’omologazione dei veicoli a motore muniti di un motore ad accensione per compressione (motore Diesel) per quanto riguarda l’emissione di materie inquinanti dal motore (motori Diesel);**
+**III. all****’****omologazione dei veicoli a motore muniti di un motore ad accensione per compressione (motore Diesel) per quanto riguarda l****’****emissione di materie inquinanti dal motore (motori Diesel);**
 
 **IV. alla misurazione della potenza dei motori (motori Diesel).**
 
@@ -1235,9 +1240,9 @@ Applicato dalla Svizzera dal 1° gennaio 1997
 
 Condizioni uniformi per l’omologazione:
 
-**I. di un dispositivo d’agganciamento corto (DAC);**
+**I. di un dispositivo d****’****agganciamento corto (DAC);**
 
-**II. dei veicoli per quanto concerne l’installazione di un tipo omologato di DAC.**
+**II. dei veicoli per quanto concerne l****’****installazione di un tipo omologato di DAC.**
 
 Applicato dalla Svizzera dal 13 dicembre 1996
 
@@ -1289,7 +1294,7 @@ Condizioni unitarie per l’omologazione di:
 
 **I. parti di costruzione speciali per veicoli a motore nel cui sistema di** **propulsione viene impiegato gas naturale compresso (GNC);**
 
-**II. veicoli comprendenti l’installazione di parti di costruzione speciali di un** **tipo omologato per l’impiego di gas naturale compresso (GNC) nel suo sistema di propulsione.**
+**II. veicoli comprendenti l****’****installazione di parti di costruzione speciali di un** **tipo omologato per l****’****impiego di gas naturale compresso (GNC) nel suo sistema di propulsione.**
 
 Applicato dalla Svizzera dal 28 dicembre 2000
 
@@ -1327,9 +1332,9 @@ Applicato dalla Svizzera dal 1° febbraio 2003
 
 Prescrizioni uniformi relative all’omologazione di:
 
-**I. impianti specifici di trasformazione a GPL (gas di petrolio** **liquefatti) destinati ad essere installati su veicoli a motore per consentire l’utilizzo di GPL nel sistema di propulsione;**
+**I. impianti specifici di trasformazione a GPL (gas di petrolio** **liquefatti) destinati ad essere installati su veicoli a motore per consentire l****’****utilizzo di GPL nel sistema di propulsione;**
 
-**II. impianti specifici di trasformazione a GNC (gas naturale compresso) destinati ad essere installati su veicoli a motore per consentire l’utilizzo di GNC nel sistema di propulsione.**
+**II. impianti specifici di trasformazione a GNC (gas naturale compresso) destinati ad essere installati su veicoli a motore per consentire l****’****utilizzo di GNC nel sistema di propulsione.**
 
 Applicato dalla Svizzera dal 30 ottobre 2003
 
@@ -1527,7 +1532,7 @@ Applicato dalla Svizzera dal 2 gennaio 2019
 
 ## Regolamento n. 148 allegato all’accordo
 
-Prescrizioni uniformi per l'omologazione dei dispositivi di segnalazione luminosa per veicoli a motore e dei loro rimorchi
+Prescrizioni uniformi per l’omologazione dei dispositivi di segnalazione luminosa per veicoli a motore e dei loro rimorchi
 
 Applicato dalla Svizzera dal 15 novembre 2019
 
