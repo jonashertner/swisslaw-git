@@ -3,11 +3,11 @@ sr: "0.741.201.2"
 title: "Protocollo del 1<sup>o</sup> marzo 1973 sulla segnaletica sul piano stradale aggiuntivo all'Accordo europeo completante la Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 novembre 1968 (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/626_626_626"
 language: it
-version: 2016-12-29
+version: 2023-06-23
 adopted: 1973-03-01
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20161229-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20161229/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20230623/it/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20230623-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20230623/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20161229/it"
 
 RU **1993** 626; FF **1978** I 1356
 
-Traduzione*[^t-1]*
+Traduzione
 
-Concluso a Ginevra il 1° marzo 1973 Approvato dall’Assemblea federale il 15 dicembre 1978[^t-2] Strumento di ratifica depositato dalla Svizzera l’11 dicembre 1991 Entrato in vigore per la Svizzera l’11 dicembre 1992
+Concluso a Ginevra il 1° marzo 1973 Approvato dall’Assemblea federale il 15 dicembre 1978[^t-1] Strumento di ratifica depositato dalla Svizzera l’11 dicembre 1991 Entrato in vigore per la Svizzera l’11 dicembre 1992
 
-(Stato 29 dicembre 2016)
+(Stato 23 giugno 2023)
 
-[^t-1]: Dal testo originale francese.
-[^t-2]: Art. 1 cpv. 1 lett. e del DF del 15 dic. 1978 ([RU 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
+[^t-1]: Art. 1 cpv. 1 lett. e del DF del 15 dic. 1978 ([RU 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
 Le Parti contraenti,
 
@@ -148,7 +147,7 @@ Dopo il 1° marzo 1974, l’originale del presente Protocollo sarà depositato p
 
 *In fede di che,* i sottoscritti, a tal fine debitamente autorizzati, hanno firmato il presente Protocollo. Fatto a Ginevra, il 1° marzo 1973, in un solo esemplare, in lingua francese, inglese e russa, i tre testi facenti ugualmente fede.
 
-Annesso*[^t-3]*
+Annesso[^t-2]
 
 \1. Per l’applicazione delle disposizioni del presente annesso, il termine «Convenzione» indica la Convenzione sulla segnaletica stradale aperta alla firma a Vienna l’8 novembre 1968.
 
@@ -279,7 +278,7 @@ Paragrafo 15
 
 Questo paragrafo è redatto come segue:
 
-«Si definisce «distanza di visibilità» la distanza alla quale un oggetto di una certa altezza posto sulla carreggiata può essere visto da un osservatore posto anch’esso sulla carreggiata, il cui occhio sia ad una altezza uguale o inferiore a quella dell’oggetto[^t-4]). Quando è necessario vietare l’utilizzazione della semicarreggiata di sinistra in prossimità di certe intersezioni o laddove la distanza di visibilità sia ridotta (dossi, curve, ecc.) od anche su dei tratti stradali dove la carreggiata si restringe o presenta qualche altra particolarità, le restrizioni dovrebbero essere imposte sui tratti dove la distanza di visibilità è inferiore ad
+«Si definisce «distanza di visibilità» la distanza alla quale un oggetto di una certa altezza posto sulla carreggiata può essere visto da un osservatore posto anch’esso sulla carreggiata, il cui occhio sia ad una altezza uguale o inferiore a quella dell’oggetto[^t-3]). Quando è necessario vietare l’utilizzazione della semicarreggiata di sinistra in prossimità di certe intersezioni o laddove la distanza di visibilità sia ridotta (dossi, curve, ecc.) od anche su dei tratti stradali dove la carreggiata si restringe o presenta qualche altra particolarità, le restrizioni dovrebbero essere imposte sui tratti dove la distanza di visibilità è inferiore ad
 
 un certo minimo M, per mezzo di strisce continue disposte come nei diagrammi da A‑12 ad A‑19. Quando le circostanze locali impediscono l’apposizione di strisce continue, dovranno essere impiegate strisce di preavviso conformemente con l’alinea a) ii) del paragrafo 2 dell’articolo 26 della Convenzione».
 
@@ -434,300 +433,204 @@ Tale paragrafo è redatto come segue:
 
 ## Figure
 
-[^t-3]: Aggiornato dagli emendamenti in vigore dal 27 nov. 1995 ([RU 1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502)) e dal 18 mar. 2007 ([RU 2007 3713](https://fedlex.data.admin.ch/eli/oc/2007/468)).
-[^t-4]: Tenuto conto delle caratteristiche attuali della costruzione degli autoveicoli, si consiglia di considerare l’oggetto alto m 1,20 (4 piedi) e l’occhio a m 1,00 (3 piedi, 4 pollici) dal piano della pavimentazione.
+[^t-2]: Aggiornato dagli emendamenti in vigore dal 27 nov. 1995 ([RU 1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502)) e dal 18 mar. 2007 ([RU 2007 3713](https://fedlex.data.admin.ch/eli/oc/2007/468)).
+[^t-3]: Tenuto conto delle caratteristiche attuali della costruzione degli autoveicoli, si consiglia di considerare l’oggetto alto m 1,20 (4 piedi) e l’occhio a m 1,00 (3 piedi, 4 pollici) dal piano della pavimentazione.
 
 Figura A-1
 
 **Strisce longitudinali\***
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image1.png)
-
 Figura A-2
 
 Segnalamento orizzontale delle carreggiate a doppio senso di circolazione ed a 2 corsie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image2.png)Figura A-3
+Figura A-3
 
 Segnalamento orizzontale delle carreggiate a doppio senso di circolazione ed a 3 corsie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image3.png)Figura A-4
+Figura A-4
 
 Segnalamento orizzontale delle carreggiate a doppio senso di circolazione ed a 4 corsie o più
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image4.png) Figura A-5
+Figura A-5
 
 Segnalamento orizzontale delle carreggiate a doppio senso di circolazione ed a 3 corsie di cui una a senso reversibile
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image5.png) Figura A-6
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image6.png)F
+Figura A-6
 
 Figura A-7
 
 Segnalamento orizzontale (SO) su carreggiate a senso unico
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image7.png)
-
 Figura A-8
 
 Segnalamento di una carreggiata d’autostrada
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image8.png)
+Figura A-12
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image9.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image10.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image11.png) Figura A-12
-
-Segnalamento orizzontale (SO) di strada a doppio senso di circolazione in curve verticali dove la distanza di visibilità e limitata
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image12.png)
+Segnalamento orizzontale (SO) di strada a doppio senso di circolazione in curve verticali dove la distanza di visibilità è limitata
 
 Figura A-12 (seguito)
 
 Marcatura delle carreggiate a doppio senso di circolazione nelle curve verticali dove la distanza di visibilità è limitata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image13.png)
-
 Figura A-14
 
 Marcatura delle carreggiate a doppio senso di circolazione nelle curve verticali dove la distanza di visibilità è limitata
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image14.png)
 
 Figura A-16
 
 Marcatura delle carreggiate a doppio senso di circolazione nelle curve orizzontali dove la distanza di visibilità è limitata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image15.png)
-
 Figura A-18
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image16.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image17.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image18.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image19.png) Figura A-23
+Figura A-23
 
 Freccia di rientro
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image20.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image21.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image22.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image23.png) Figura A-27
+Figura A-27
 
 Segnalamento orizzontale (SO) in prossimità di ostacolo sulla carreggiata
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image24.png)
 
 Figura A-28
 
 Segnalamento orizzontale (SO) con strisce di guida e frecce di preselezione nelle intersezioni
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image25.png)
-
 Figura A-29 a
 
 Segnalamento orizzontale (SO) con strisce di guida e frecce di preselezione nelle intersezioni
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image26.png)
 
 Figura A-29 b
 
 Segnalamento orizzontale (SO) con strisce di guida e frecce di preselezione nelle intersezioni
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image27.png)
-
 Figura A-30
 
 Striscia di arresto
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image28.png)
 
 Figura A-31
 
 Zone di preselezione
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image29.png)
-
 Figura A-32
 
 Intersezione a «T» con una strada a precedenza e striscia di arresto
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image30.png)
-
 Figura A-33
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image31.png)
 
 Figura A-34
 
 Intersezione con una strada a precedenza e striscia di precedenza
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image32.png)
-
 Figura A-35
 
 Triangolo orizzontale in prossimità di una strada a precedenza
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image33.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image34.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image35.png)
 
 Figura A-38
 
 Intersezione a «T» con pista ciclabile anche essa prioritaria
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image36.png)
-
 Figura A-39
 
 Frecce di preselezione
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image37.png)
 
 Figura A-40
 
 Frecce di preselezione
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image38.png)
-
 Figura A-41
 
 Frecce di presegnalazione in zona di preselezione comune a due intersezioni molto ravvicinate
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image39.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image40.png)
 
 Figura A-43 a
 
 Alfabeto per le scritte sulle strade dove la velocità è limitata a 60 km/h o meno
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image41.png)
-
 Figura A-43 b
 
 Alfabeto per le scritte sulle strade dove la velocità è limitata a 60 km/h o meno
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image42.png)
 
 Figura A-43 c
 
 Alfabeto per le scritte sulle strade dove la velocità è limitata a 60 km/h o meno
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image43.png)
-
 Figura A-43 d
 
 Alfabeto per iscrizioni sulle strade dove la velocità è limitata a 60 km/h o meno
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image44.png)
 
 Figura A-44 a
 
 Alfabeto per iscrizioni sulle strade dove la velocità è limitata a 60 km/h o meno
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image45.png)
-
 Figura A-44 b
 
 Alfabeto per iscrizioni sulle strade dove la velocità è limitata a 60 km/h o meno
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image46.png)
 
 Figura A-45
 
 Esempio di iscrizione su strade dove la velocità è limitata a 60 km/h o meno
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image47.png)
-
 Figura A-46
 
 Esempio di iscrizione su strade dove la velocità è limitata a 60 km/h o meno
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image48.png)
 
 Figura A-47 a
 
 Cifre per le iscrizioni sulla carreggiata di strada dove la velocità è limitata a 60 km/h o meno
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image49.png)
-
 Figura A-47 b
 
 Cifre per le iscrizioni sulla carreggiata di strada dove la velocità è limitata a 60 km/h o meno
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image50.png)
-
-Figura A-74 c
+Figura A-47 c
 
 Cifre per le iscrizioni su strada dove la velocità è limitata a 60 km/h o meno
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image51.png)
 
 Figura A-48
 
 Esempio di iscrizione con cifre su strada dove la velocità è limitata a 60 km/h o meno
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image52.png)
-
 Figura A-49 a
 
 Alfabeto per le iscrizioni sulla carreggiata di strade dove la velocità è limitata oltre i 60 km/h o non è limitata
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image53.png)
 
 Figura A-49 b
 
 Alfabeto per le iscrizioni sulla carreggiata di strade dove la velocità è limitata oltre i 60 km/h o non è limitata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image54.png)
-
 Figura A-50
 
 Alfabeto per le iscrizioni sulla carreggiata di strade dove la velocità è limitata oltre i 60 km/h o non è limitata
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image55.png)
 
 Figura A-51
 
 Esempio di iscrizioni su strade con limite di velocità superiore a 60 km/h, o senza limite
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image56.png)
-
 Figura A-52
 
 Esempio di iscrizioni su strade con limite di velocità superiore a 60 km/h, o senza limite
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image57.png)
 
 Figura A-53
 
 Esempio di iscrizioni su strade con limite di velocità superiore a 60 km/h, o senza limite
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image58.png)
-
 Figura A-54
 
 Esempio di iscrizioni con cifre su strade con limite di velocità superiore a 60 km/h, o senza limite
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image59.png)
 
 Figura A-55
 
 Segni sul piano stradale di divieto di sosta
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image60.png)
-
 Figura A-56
 
 Segni indicanti divieto di sosta
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image61.png)
 
 Figura A-57
 
 Segnalamento di un ostacolo
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/it/xml/image/image62.png)
-
-Campo d’applicazione il 29 dicembre 2016**[^t-5]**
+Campo d’applicazione il 23 giugno 2023[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -747,8 +650,9 @@ Campo d’applicazione il 29 dicembre 2016**[^t-5]**
 <tr><td>Grecia</td><td>18 dicembre</td><td>1986 A</td><td>18 dicembre</td><td>1987</td></tr>
 <tr><td>Italia</td><td>7 febbraio</td><td>1997 A</td><td>7 febbraio</td><td>1998</td></tr>
 <tr><td>Kazakistan</td><td>7 giugno</td><td>2011 A</td><td>7 giugno</td><td>2012</td></tr>
+<tr><td>Liechtenstein<sup>\*</sup></td><td>2 marzo</td><td>2020 A</td><td>2 marzo</td><td>2021</td></tr>
 <tr><td>Lussemburgo</td><td>25 novembre</td><td>1975</td><td>25 aprile</td><td>1985</td></tr>
-<tr><td>Macedonia</td><td>20 dicembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>20 dicembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Moldova</td><td>27 ottobre</td><td>2015 A</td><td>27 ottobre</td><td>2016</td></tr>
 <tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Paesi Bassi<sup>\*</sup> <sup>a</sup></td><td>8 novembre</td><td>2007 A</td><td>8 novembre</td><td>2008</td></tr>
@@ -758,13 +662,14 @@ Campo d’applicazione il 29 dicembre 2016**[^t-5]**
 <tr><td>Slovacchia<sup>\*</sup></td><td>28 maggio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Svezia<sup>\*</sup></td><td>25 luglio</td><td>1985 A</td><td>25 luglio</td><td>1986</td></tr>
 <tr><td>Svizzera</td><td>11 dicembre</td><td>1991</td><td>11 dicembre</td><td>1992</td></tr>
+<tr><td>Turchia<sup>\*</sup></td><td>17 maggio</td><td>2023 A</td><td>17 maggio</td><td>2024</td></tr>
+<tr><td>Turkmenistan</td><td>31 agosto</td><td>2020 A</td><td>31 agosto</td><td>2021</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>9 maggio</td><td>1984 A</td><td>9 maggio</td><td>1985</td></tr>
 <tr><td>Ungheria</td><td>16 marzo</td><td>1976</td><td>25 aprile</td><td>1985</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultare sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [https://treaties.un.org](https://treaties.un.org) / &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-5]: [RU 1993 626](https://fedlex.data.admin.ch/eli/oc/1993/626_626_626), [1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502), [2004 3991](https://fedlex.data.admin.ch/eli/oc/2004/576), [2009 615](https://fedlex.data.admin.ch/eli/oc/2009/110), [2014 1423](https://fedlex.data.admin.ch/eli/oc/2014/305)e [2017 129](https://fedlex.data.admin.ch/eli/oc/2017/38). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-4]: [RU 1993 626](https://fedlex.data.admin.ch/eli/oc/1993/626_626_626); [1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502); [2004 3991](https://fedlex.data.admin.ch/eli/oc/2004/576); [2009 615](https://fedlex.data.admin.ch/eli/oc/2009/110); [2014 1423](https://fedlex.data.admin.ch/eli/oc/2014/305); [2017 129](https://fedlex.data.admin.ch/eli/oc/2017/38); [2023 329](https://fedlex.data.admin.ch/eli/oc/2023/329). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
 
 Riserve e dichiarazioni
 

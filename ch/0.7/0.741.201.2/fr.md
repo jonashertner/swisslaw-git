@@ -3,11 +3,11 @@ sr: "0.741.201.2"
 title: "Protocole du 1<sup>er</sup> mars 1973 sur les marques routières, additionnel à l'Accord européen complétant la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/626_626_626"
 language: fr
-version: 2016-12-29
+version: 2023-06-23
 adopted: 1973-03-01
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20161229-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20161229/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20230623/fr/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20230623-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20230623/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **1993** 626; FF **1978** I 1440
 
 Texte original
 
-Conclu à Genève le 1<sup>er</sup> mars 1973
+Conclu à Genève le 1<sup>er</sup> mars 1973 Approuvé par l’Assemblée fédérale le 15 décembre 1978[^t-1] Instrument de ratification déposé par la Suisse le 11 décembre 1991 Entré en vigueur pour la Suisse le 11 décembre 1992
 
-Approuvé par l’Assemblée fédérale le 15 décembre 1978[^t-1]
-
-Instrument de ratification déposé par la Suisse le 11 décembre 1991
-
-Entré en vigueur pour la Suisse le 11 décembre 1992
-
-(Etat le 29 décembre 2016)
+(État le 23 juin 2023)
 
 [^t-1]: Art. 1 al. 1 let. e de l’AF du 15 déc. 1978 ([RO 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -47,49 +41,49 @@ Les Parties contractantes, Parties à la Convention sur la signalisation routiè
 
 #### Art. 2
 
-<sup>1.</sup> Le présent Protocole sera ouvert jusqu’au 1<sup>er</sup> mars 1974 à la signature des Etats qui sont signataires de la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 et de l’Accord européen complétant cette Convention ouvert à la signature à Genève le 1<sup>er</sup> mai 1971 ou y ont adhéré et qui sont soit membres de la Commission économique pour l’Europe des Nations Unies, soit admis à la Commission à titre consultatif conformément au par. 8 du mandat de cette Commission.
+<sup>1.</sup> Le présent Protocole sera ouvert jusqu’au 1<sup>er</sup> mars 1974 à la signature des États qui sont signataires de la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 et de l’Accord européen complétant cette Convention ouvert à la signature à Genève le 1<sup>er</sup> mai 1971 ou y ont adhéré et qui sont soit membres de la Commission économique pour l’Europe des Nations Unies, soit admis à la Commission à titre consultatif conformément au par. 8 du mandat de cette Commission.
 
-<sup>2.</sup> Le présent Protocole est sujet à ratification après que l’Etat intéressé aura ratifié la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 et l’Accord européen complétant cette Convention ouvert à la signature à Genève le 1<sup>er</sup> mai 1971, ou y aura adhéré. Les instruments de ratification seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
+<sup>2.</sup> Le présent Protocole est sujet à ratification après que l’État intéressé aura ratifié la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 et l’Accord européen complétant cette Convention ouvert à la signature à Genève le 1<sup>er</sup> mai 1971, ou y aura adhéré. Les instruments de ratification seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
 
-<sup>3.</sup> Le présent Protocole restera ouvert à l’adhésion de tout Etat visé au par. 1 du présent article et qui est Partie à la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 et à l’Accord européen complétant cette Convention ouvert à la signature à Genève le 1<sup>er</sup> mai 1971. Les instruments d’adhésion seront déposés auprès du Secrétaire général.
+<sup>3.</sup> Le présent Protocole restera ouvert à l’adhésion de tout État visé au par. 1 du présent article et qui est Partie à la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 et à l’Accord européen complétant cette Convention ouvert à la signature à Genève le 1<sup>er</sup> mai 1971. Les instruments d’adhésion seront déposés auprès du Secrétaire général.
 
 #### Art. 3
 
-<sup>1.</sup> Tout Etat pourra, au moment où il signera ou ratifiera le présent Protocole ou y adhérera, ou à tout moment ultérieur, déclarer par notification adressée au Secrétaire général, que le Protocole devient applicable à tous les territoires ou à l’un quelconque d’entre eux dont il assure les relations internationales. Le Protocole deviendra applicable au territoire ou aux territoires désigné(s) dans la notification trente jours après la date à laquelle le Secrétaire général aura reçu cette notification ou à la date d’entrée en vigueur du Protocole pour l’Etat adressant la notification, si cette date est postérieure à la précédente.
+<sup>1.</sup> Tout État pourra, au moment où il signera ou ratifiera le présent Protocole ou y adhérera, ou à tout moment ultérieur, déclarer par notification adressée au Secrétaire général, que le Protocole devient applicable à tous les territoires ou à l’un quelconque d’entre eux dont il assure les relations internationales. Le Protocole deviendra applicable au territoire ou aux territoires désigné(s) dans la notification trente jours après la date à laquelle le Secrétaire général aura reçu cette notification ou à la date d’entrée en vigueur du Protocole pour l’État adressant la notification, si cette date est postérieure à la précédente.
 
-<sup>2.</sup> Tout Etat qui aura fait une déclaration en vertu du par. 1 du présent article pourra à toute date ultérieure, par notification adressée au Secrétaire général, déclarer que le Protocole cessera d’être applicable au territoire désigné dans la notification, et le Protocole cessera d’être applicable audit territoire un an après la date de réception de cette notification par le Secrétaire général.
+<sup>2.</sup> Tout État qui aura fait une déclaration en vertu du par. 1 du présent article pourra à toute date ultérieure, par notification adressée au Secrétaire général, déclarer que le Protocole cessera d’être applicable au territoire désigné dans la notification, et le Protocole cessera d’être applicable audit territoire un an après la date de réception de cette notification par le Secrétaire général.
 
 #### Art. 4
 
 <sup>1.</sup> Le présent Protocole entrera en vigueur douze mois après la date du dépôt du dixième instrument de ratification ou d’adhésion.
 
-<sup>2.</sup> Pour chaque Etat qui ratifiera le présent Protocole ou y adhérera après le dépôt du dixième instrument de ratification ou d’adhésion, le Protocole entrera en vigueur douze mois après la date du dépôt, par cet Etat, de son instrument de ratification ou d’adhésion.
+<sup>2.</sup> Pour chaque État qui ratifiera le présent Protocole ou y adhérera après le dépôt du dixième instrument de ratification ou d’adhésion, le Protocole entrera en vigueur douze mois après la date du dépôt, par cet État, de son instrument de ratification ou d’adhésion.
 
 <sup>3.</sup> Si la date d’entrée en vigueur résultant de l’application des par. 1 et 2 du présent article est antérieure à celle résultant de l’application de l’Art. 39 de la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968, c’est à cette dernière date que le présent Protocole entrera en vigueur au sens du par. 1 du présent article.
 
 #### Art. 5
 
-A son entrée en vigueur, le présent Protocole abrogera et remplacera, dans les relations entre les Parties contractantes, les dispositions concernant le Protocole relatif à la signalisation routière contenues dans l’Accord européen complétant la Convention sur la circulation routière et le Protocole relatif à la signalisation routière de 1949, signé à Genève le 16 septembre 1950, l’Accord relatif à la signalisation des chantiers, signé à Genève le 16 décembre 1955, et l’Accord européen relatif aux marques routières, signé à Genève le 13 décembre 1957.
+À son entrée en vigueur, le présent Protocole abrogera et remplacera, dans les relations entre les Parties contractantes, les dispositions concernant le Protocole relatif à la signalisation routière contenues dans l’Accord européen complétant la Convention sur la circulation routière et le Protocole relatif à la signalisation routière de 1949, signé à Genève le 16 septembre 1950, l’Accord relatif à la signalisation des chantiers, signé à Genève le 16 décembre 1955, et l’Accord européen relatif aux marques routières, signé à Genève le 13 décembre 1957.
 
 #### Art. 6
 
-<sup>1.</sup> Après une période de douze mois, à dater de l’entrée en vigueur du présent Protocole, toute Partie contractante pourra proposer un ou plusieurs amendements au Protocole. Le texte de toute proposition d’amendement, accompagné d’un exposé des motifs, sera adressé au Secrétaire général qui le communiquera à toutes les Parties contractantes. Les Parties contractantes auront la possibilité de lui faire savoir dans le délai de douze mois suivant la date de cette communication: a) si elles acceptent l’amendement, ou b) si elles le rejettent, ou c) si elles désirent qu’une conférence soit convoquée pour l’examiner. Le Secrétaire général transmettra également le texte de l’amendement proposé aux autres Etats visés à l’art. 2 du présent Protocole.
+<sup>1.</sup> Après une période de douze mois, à dater de l’entrée en vigueur du présent Protocole, toute Partie contractante pourra proposer un ou plusieurs amendements au Protocole. Le texte de toute proposition d’amendement, accompagné d’un exposé des motifs, sera adressé au Secrétaire général qui le communiquera à toutes les Parties contractantes. Les Parties contractantes auront la possibilité de lui faire savoir dans le délai de douze mois suivant la date de cette communication: a) si elles acceptent l’amendement, ou b) si elles le rejettent, ou c) si elles désirent qu’une conférence soit convoquée pour l’examiner. Le Secrétaire général transmettra également le texte de l’amendement proposé aux autres États visés à l’art. 2 du présent Protocole.
 
 - 2\. a) Toute proposition d’amendement qui aura été communiquée conformément aux dispositions du par. 1 du présent article sera réputée acceptée si, dans le délai de douze mois susmentionné, moins du tiers des Parties contractantes informent le Secrétaire général soit qu’elles rejettent l’amendement, soit qu’elles désirent qu’une conférence soit convoquée pour l’examiner. Le Secrétaire général notifiera à toutes les Parties contractantes toute acceptation ou tout rejet de l’amendement proposé et toute demande de convocation d’une conférence. Si le nombre total des rejets et des demandes reçus pendant le délai spécifié de douze mois est inférieur au tiers du nombre total des Parties contractantes, le Secrétaire général notifiera à toutes les Parties contractantes que l’amendement entrera en vigueur six mois après l’expiration du délai de douze mois spécifié au par. 1 du présent article pour toutes les Parties contractantes, à l’exception de celles qui, pendant le délai spécifié, ont rejeté l’amendement ou demandé la convocation d’une conférence pour l’examiner.
 - b) Toute Partie contractante qui, pendant ledit délai de douze mois, aura rejeté une proposition d’amendement ou demandé la convocation d’une conférence pour l’examiner, pourra, à tout moment après l’expiration de ce délai, notifier au Secrétaire général qu’elle accepte l’amendement, et le Secrétaire général communiquera cette notification à toutes les autres Parties contractantes. L’amendement entrera en vigueur, pour la Partie contractante qui aura notifié son acceptation, six mois après la date à laquelle le Secrétaire général aura reçu la notification.
 
 <sup>3.</sup> Si un amendement proposé n’a pas été accepté conformément au par. 2 du présent article et si, dans le délai de douze mois spécifié au par. 1 du présent article, moins de la moitié du nombre total des Parties contractantes informent le Secrétaire général qu’elles rejettent l’amendement proposé et si un tiers au moins du nombre total des Parties contractantes, mais pas moins de cinq, l’informent qu’elles l’acceptent ou qu’elles désirent qu’une conférence soit réunie pour l’examiner, le Secrétaire général convoquera une conférence en vue d’examiner l’amendement proposé ou toute autre proposition dont il serait saisi en vertu du par. 4 du présent article.
 
-<sup>4.</sup> Si une conférence est convoquée conformément aux dispositions du par. 3 du présent article, le Secrétaire général y invitera toutes les Parties contractantes et les autres Etats visés à l’art. 2 du présent Protocole. Il demandera à tous les Etats invités à la Conférence de lui présenter, au plus tard six mois avant sa date d’ouverture, toutes propositions qu’ils souhaiteraient voir examiner également par ladite Conférence en plus de l’amendement proposé, et il communiquera ces propositions, trois mois au moins avant la date d’ouverture de la Conférence, à tous les Etats invités à la Conférence.
+<sup>4.</sup> Si une conférence est convoquée conformément aux dispositions du par. 3 du présent article, le Secrétaire général y invitera toutes les Parties contractantes et les autres États visés à l’art. 2 du présent Protocole. Il demandera à tous les États invités à la Conférence de lui présenter, au plus tard six mois avant sa date d’ouverture, toutes propositions qu’ils souhaiteraient voir examiner également par ladite Conférence en plus de l’amendement proposé, et il communiquera ces propositions, trois mois au moins avant la date d’ouverture de la Conférence, à tous les États invités à la Conférence.
 
-- 5\. a) Tout amendement au présent Protocole sera réputé accepté s’il a été adopté à la majorité des deux tiers des Etats représentés à la Conférence, à condition que cette majorité groupe au moins les deux tiers des Parties contractantes représentées à la Conférence. Le Secrétaire général notifiera à toutes les Parties contractantes l’adoption de l’amendement et celui‑ci entrera en vigueur douze mois après la date de cette notification pour toutes les Parties contractantes, à l’exception de celles qui, durant ce délai, auront notifié au Secrétaire général qu’elles rejettent l’amendement.
+- 5\. a) Tout amendement au présent Protocole sera réputé accepté s’il a été adopté à la majorité des deux tiers des États représentés à la Conférence, à condition que cette majorité groupe au moins les deux tiers des Parties contractantes représentées à la Conférence. Le Secrétaire général notifiera à toutes les Parties contractantes l’adoption de l’amendement et celui‑ci entrera en vigueur douze mois après la date de cette notification pour toutes les Parties contractantes, à l’exception de celles qui, durant ce délai, auront notifié au Secrétaire général qu’elles rejettent l’amendement.
 - b) Toute Partie contractante qui aura rejeté un amendement pendant ledit délai de douze mois pourra, à tout moment, notifier au Secrétaire général qu’elle l’accepte, et le Secrétaire général communiquera cette notification à toutes les autres Parties contractantes. L’amendement entrera en vigueur pour la Partie contractante qui aura notifié son acceptation six mois après la date à laquelle le Secrétaire général aura reçu la notification ou à la fin dudit délai de douze mois, si la date en est postérieure à la précédente.
 
 <sup>6.</sup> Si la proposition d’amendement n’est pas réputée acceptée conformément au par. 2 du présent article, et si les conditions prescrites au par. 3 du présent article pour la convocation d’une conférence ne sont pas réunies, la proposition d’amendement sera réputée rejetée.
 
 <sup>7.</sup> Indépendamment de la procédure d’amendement prévue aux par. 1 à 6 du présent article, l’annexe au présent Protocole peut être modifiée par accord entre les administrations compétentes de toutes les Parties contractantes. Si l’administration d’une Partie contractante a déclaré que son droit national l’oblige à subordonner son accord à l’obtention d’une autorisation spéciale à cet effet ou à l’approbation d’un organe législatif, le consentement de l’administration compétente de la Partie contractante en cause à la modification de l’annexe ne sera considéré comme donné qu’au moment où cette administration aura déclaré au Secrétaire général que les autorisations ou les approbations requises ont été obtenues. L’accord entre les administrations compétentes pourra prévoir que, pendant une période transitoire, les anciennes dispositions de l’annexe resteront en vigueur, en tout ou en partie, simultanément avec les nouvelles. Le Secrétaire général fixera la date d’entrée en vigueur des nouvelles dispositions.
 
-<sup>8.</sup> Chaque Etat, au moment où il signera ou ratifiera le présent Protocole ou y adhérera, notifiera au Secrétaire général les nom et adresse de son administration compétente pour donner l’accord prévu au par. 7 du présent article.
+<sup>8.</sup> Chaque État, au moment où il signera ou ratifiera le présent Protocole ou y adhérera, notifiera au Secrétaire général les nom et adresse de son administration compétente pour donner l’accord prévu au par. 7 du présent article.
 
 #### Art. 7
 
@@ -113,15 +107,15 @@ Aucune disposition du présent Protocole ne sera interprétée comme interdisant
 
 #### Art. 11
 
-<sup>1.</sup> Tout Etat pourra, au moment où il signera le présent Protocole ou déposera son instrument de ratification ou d’adhésion, déclarer qu’il ne se considère pas lié par l’art. 9 du présent Protocole. Les autres Parties contractantes ne seront pas liées par l’art. 9 vis‑à‑vis de l’une quelconque des Parties contractantes qui aura fait une telle déclaration.
+<sup>1.</sup> Tout État pourra, au moment où il signera le présent Protocole ou déposera son instrument de ratification ou d’adhésion, déclarer qu’il ne se considère pas lié par l’art. 9 du présent Protocole. Les autres Parties contractantes ne seront pas liées par l’art. 9 vis‑à‑vis de l’une quelconque des Parties contractantes qui aura fait une telle déclaration.
 
 <sup>2.</sup> Les réserves au présent Protocole, autres que la réserve prévue au par. 1 du présent article, sont autorisées à condition qu’elles soient formulées par écrit et, si elles ont été formulées avant le dépôt de l’instrument de ratification ou d’adhésion, qu’elles soient confirmées dans ledit instrument.
 
-<sup>3.</sup> Tout Etat, au moment où il déposera son instrument de ratification du présent Protocole ou d’adhésion à celui‑ci, notifiera par écrit au Secrétaire général dans quelle mesure les réserves qu’il aurait formulées à la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 ou à l’Accord européen complétant cette Convention ouvert à la signature à Genève le 1<sup>er</sup> mai 1971, s’appliquent au présent Protocole. Celles de ces réserves qui n’auraient pas fait l’objet de la notification faite au moment du dépôt de l’instrument de ratification du présent Protocole ou d’adhésion à celui‑ci seront réputées ne pas s’appliquer au présent Protocole.
+<sup>3.</sup> Tout État, au moment où il déposera son instrument de ratification du présent Protocole ou d’adhésion à celui‑ci, notifiera par écrit au Secrétaire général dans quelle mesure les réserves qu’il aurait formulées à la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 ou à l’Accord européen complétant cette Convention ouvert à la signature à Genève le 1<sup>er</sup> mai 1971, s’appliquent au présent Protocole. Celles de ces réserves qui n’auraient pas fait l’objet de la notification faite au moment du dépôt de l’instrument de ratification du présent Protocole ou d’adhésion à celui‑ci seront réputées ne pas s’appliquer au présent Protocole.
 
-<sup>4.</sup> Le Secrétaire général communiquera les réserves et notifications faites en application du présent article à tous les Etats visés à l’art. 2 du présent Protocole.
+<sup>4.</sup> Le Secrétaire général communiquera les réserves et notifications faites en application du présent article à tous les États visés à l’art. 2 du présent Protocole.
 
-<sup>5.</sup> Tout Etat qui aurait fait une déclaration, une réserve ou une notification en vertu du présent article pourra, à tout moment, la retirer par notification adressée au Secrétaire général.
+<sup>5.</sup> Tout État qui aurait fait une déclaration, une réserve ou une notification en vertu du présent article pourra, à tout moment, la retirer par notification adressée au Secrétaire général.
 
 <sup>6.</sup> Toute réserve faite conformément au paragraphe 2 ou notifiée conformément au par. 3 du présent article
 
@@ -130,7 +124,7 @@ Aucune disposition du présent Protocole ne sera interprétée comme interdisant
 
 #### Art. 12
 
-Outre les déclarations, notifications et communications prévues aux art. 6 et 11 du présent Protocole, le Secrétaire général notifiera aux Parties contractantes et aux autres Etats visés à l’article 2:
+Outre les déclarations, notifications et communications prévues aux art. 6 et 11 du présent Protocole, le Secrétaire général notifiera aux Parties contractantes et aux autres États visés à l’article 2:
 
 - a) les signatures, ratifications et adhésions au titre de l’art. 2;
 - b) les notifications et déclarations au titre de l’art. 3;
@@ -141,11 +135,11 @@ Outre les déclarations, notifications et communications prévues aux art. 6 et 
 
 #### Art. 13
 
-Après le 1<sup>er</sup> mars 1974, l’original du présent Protocole sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en transmettra des copies certifiées conformes à tous les Etats visés à l’art. 2 du présent Protocole.
+Après le 1<sup>er</sup> mars 1974, l’original du présent Protocole sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en transmettra des copies certifiées conformes à tous les États visés à l’art. 2 du présent Protocole.
 
 *En foi de quoi,* les soussignés, à ce dûment autorisés, ont signé le présent Protocole. Fait à Genève, le premier mars mil neuf cent soixante‑treize, en un seul exemplaire, en langues anglaise, française et russe, les trois textes faisant également foi.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 \1. Pour l’application des dispositions de la présente annexe, le terme «Convention» désigne la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968.
 
@@ -447,323 +441,199 @@ Diagramme A-1
 
 **Marques longitudinales\***
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image1.png)
+[^t-2]: Mise à jour par les Am. entrés en vigueur le 27 nov. 1995 ([RO 1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502)) et l’Am. entré en vigueur le 28 mars 2006 ([RO 2007 3713](https://fedlex.data.admin.ch/eli/oc/2007/468)).
+[^t-3]: Compte tenu des caractéristiques actuelles de la construction automobile, il est conseillé de considérer 1 m (3 pieds, 4 pouces) comme la hauteur de l’œil, et 1 m 20 (4 pieds) comme la hauteur de l’objet.
 
 Diagramme A-2
 
 Marquage des chaussées à double sens de circulation et à deux voies
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image2.png)
-
 Diagramme A-3
 
 Marquage des chaussées à double sens de circulation et à trois voies
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image3.png)
 
 Diagramme A-4
 
 Marquage des chaussées à double sens de circulation et à quatre voies ou plus
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image4.png)
-
 Diagramme A-5
 
 Marquage des chaussées à double sens de circulation et à trois voies dont une réversible
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image5.png)
-
 Diagramme A-6
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image6.png)
 
 Diagramme A-7
 
 Marquage des chaussées unidirectionnelles
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image7.png)
-
 Diagramme A-8
 
 Marquage d’une chaussée d’autoroute
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image8.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image9.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image10.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image11.png)
 
 Diagramme A-12
 
 Marquage des chaussées à double sens de circulation dans les courbes verticales où la distance de visibilité est limitée
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image12.png)
-
 Diagramme A-12 (suite)
 
 Marquage des chaussées à double sens de circulation dans les courbes verticales où la distance de visibilité est limitée
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image13.png)
 
 Diagramme A-14
 
 Marquage des chaussées à double sens de circulation dans les courbes verticales où la distance de visibilité est limitée
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image14.png)
-
 Diagramme A-16
 
 Marquage des chaussées à double sens de circulation dans les courbes horizontales où la distance de visibilité est limitée
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image15.png)
-
 Diagramme A-18
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image16.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image17.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image18.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image19.png)
 
 Diagramme A-23
 
 Flèche de rabattement
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image20.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image21.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image22.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image23.png)
-
 Diagramme A-27
 
 Marquage de la chaussée proximité d’obstacles
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image24.png)
 
 Diagramme A-28
 
 Marquage avec lignes de guidage aux intersections
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image25.png)
-
 Diagramme A-29a
 
 Marquage avec lignes de guidage et flèches aux intersections
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image26.png)
 
 Diagramme A-29b
 
 Marquage avec lignes de guidage et flèches aux intersections
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image27.png)
-
 Diagramme A-30
 
 Ligne d’arrêt
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image28.png)
 
 Diagramme A-31
 
 Voies d’approche des intersections
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image29.png)
-
 Diagramme A-32
 
 Carrefour en T avec une route prioritaire
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image30.png)
-
 Diagramme A-33
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image31.png)
 
 Diagramme A-34
 
 Marquage à un croisement avec une route prioritaire
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image32.png)
-
 Diagramme A-35
 
 Triangle d’avertissement à l’approche d’un croisement avec une route prioritaire
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image33.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image34.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image35.png)
 
 Diagramme A-38
 
 Carrefour en T où la piste cyclable est également prioritaire
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image36.png)
-
 Diagramme A-39
 
 Flèches de présignalisation
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image37.png)
 
 Diagramme A-40
 
 Flèches de présignalisation
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image38.png)
-
 Diagramme A-41
 
 Flèches de présignalisation utilisées à l’approche de deux intersections très proches l’une de l’autre lorsque la présélection doit avoir lieu avant la première intersection
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image39.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image40.png)
 
 Diagramme A-43a
 
 Lettres pour les inscriptions sur les routes où la vitesse est limitée à 60 km/h ou moins
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image41.png)
-
 Diagramme A-43b
 
 Lettres pour les inscriptions sur les routes où la vitesse est limitée à 60 km/h ou moins
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image42.png)
 
 Diagramme A-43c
 
 Lettres pour les inscriptions sur les routes où la vitesse est limitée à 60 km/h ou moins
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image43.png)
-
 Diagramme A-43d
 
 Lettres pour les inscriptions sur les routes où la vitesse est limitée à 60 km/h ou moins
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image44.png)
 
 Diagramme A-44a
 
 Lettres pour les inscriptions sur les routes où la vitesse est limitée à 60 km/h ou moins
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image45.png)
-
 Diagramme A-44b
 
 Lettres pour les inscriptions sur les routes où la vitesse est limitée à 60 km/h ou moins
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image46.png)
 
 Diagramme A-45
 
 Exemple d’inscription en lettres pour les routes où la vitesse est limitée à 60 km/h ou moins
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image47.png)
-
 Diagramme A-46
 
 Exemple d’inscription en lettres pour les routes où la vitesse est limitée à 60 km/h ou moins
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image48.png)
 
 Diagramme A-47a
 
 Chiffres pour les inscriptions sur les routes où la vitesse est limitée à 60 km/h ou moins
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image49.png)
-
 Diagramme A-47b
 
 Chiffres pour les inscriptions sur les routes où la vitesse est limitée à 60 km/h ou moins
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image50.png)
 
 Diagramme A-47c
 
 Chiffres pour les inscriptions sur les routes où la vitesse est limitée à 60 km/h ou moins
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image51.png)
-
 Diagramme A-48
 
 Exemple d’inscription en chiffres pour les routes où la vitesse est limitée à 60 km/h ou moins
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image52.png)
 
 Diagramme A-49a
 
 Lettres pour les inscriptions sur les routes où la vitesse est limitée à plus de 60 km/h ou n’est pas limitée
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image53.png)
-
 Diagramme A-49b
 
 Lettres pour les inscriptions sur les routes où la vitesse est limitée à plus de 60 km/h ou n’est pas limitée
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image54.png)
 
 Diagramme A-50
 
 Lettres pour les inscriptions sur les routes où la vitesse est limitée à plus de 60 km/h ou n’est pas limitée
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image55.png)
-
 Diagramme A-51
 
 Exemple d’inscription en lettres pour les routes où la vitesse est limitée à plus de 60 km/h ou n’est pas limitée
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image56.png)
 
 Diagramme A-52
 
 Exemple d’inscription en lettres pour les routes où la vitesse est limitée à plus de 60 km/h ou n’est pas limitée
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image57.png)
-
 Diagramme A-53
 
 Chiffres pour les inscriptions sur les routes où la vitesse est limitée à plus de 60 km/h ou n’est pas limitée
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image58.png)
 
 Diagramme A-54
 
 Exemple d’inscription en chiffres pour les routes où la vitesse est limitée à plus de 60 km/h ou n’est pas limitée
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image59.png)
-
 Diagramme A-55
 
 Marquage signalant l’interdiction du stationnement
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image60.png)
 
 Diagramme A-56
 
 Marquage signalant l’interdiction du stationnement
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image61.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/fr/xml/image/image62.png)
-
-[^t-2]: Mise à jour par les Am. entrés en vigueur le 27 nov. 1995 ([RO 1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502)) et l’Am. entré en vigueur le 28 mars 2006 ([RO 2007 3713](https://fedlex.data.admin.ch/eli/oc/2007/468)).
-[^t-3]: Compte tenu des caractéristiques actuelles de la construction automobile, il est conseillé de considérer 1 m (3 pieds, 4 pouces) comme la hauteur de l’œil, et 1 m 20 (4 pieds) comme la hauteur de l’objet.
-
-Champ d’application le 29 décembre 2016**[^t-4]**
+Champ d’application le le 23 juin 2023[^t-4]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>6 juin</td><td>2005 A</td><td>6 juin</td><td>2006</td></tr>
 <tr><td>Allemagne\*</td><td>3 août</td><td>1978</td><td>25 avril</td><td>1985</td></tr>
 <tr><td>Autriche\*</td><td>11 août</td><td>1981</td><td>25 avril</td><td>1985</td></tr>
@@ -780,8 +650,9 @@ Champ d’application le 29 décembre 2016**[^t-4]**
 <tr><td>Hongrie\*</td><td>16 mars</td><td>1976</td><td>25 avril</td><td>1985</td></tr>
 <tr><td>Italie</td><td>7 février</td><td>1997 A</td><td>7 février</td><td>1998</td></tr>
 <tr><td>Kazakhstan</td><td>7 juin</td><td>2011 A</td><td>7 juin</td><td>2012</td></tr>
+<tr><td>Liechtenstein\*</td><td>2 mars</td><td>2020 A</td><td>2 mars</td><td>2021</td></tr>
 <tr><td>Luxembourg</td><td>25 novembre</td><td>1975</td><td>25 avril</td><td>1985</td></tr>
-<tr><td>Macédoine</td><td>20 décembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macédoine du Nord</td><td>20 décembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Moldova</td><td>27 octobre</td><td>2015 A</td><td>27 octobre</td><td>2016</td></tr>
 <tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Pays-Bas\* <sup>a</sup></td><td>8 novembre</td><td>2007 A</td><td>8 novembre</td><td>2008</td></tr>
@@ -792,12 +663,13 @@ Champ d’application le 29 décembre 2016**[^t-4]**
 <tr><td>Slovaquie\*</td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Suède\*</td><td>25 juillet</td><td>1985 A</td><td>25 juillet</td><td>1986</td></tr>
 <tr><td>Suisse\*</td><td>11 décembre</td><td>1991</td><td>11 décembre</td><td>1992</td></tr>
+<tr><td>Turkménistan</td><td>31 août</td><td>2020 A</td><td>31 août</td><td>2021</td></tr>
+<tr><td>Turquie\*</td><td>17 mai</td><td>2023 A</td><td>17 mai</td><td>2024</td></tr>
 <tr><td>Ukraine\*</td><td>9 mai</td><td>1984 A</td><td>9 mai</td><td>1985</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-4]: [RO 1993 626](https://fedlex.data.admin.ch/eli/oc/1993/626_626_626), [1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502), [2004 3991](https://fedlex.data.admin.ch/eli/oc/2004/576), [2009 615](https://fedlex.data.admin.ch/eli/oc/2009/110), [2014 1423](https://fedlex.data.admin.ch/eli/oc/2014/305), [2017 129](https://fedlex.data.admin.ch/eli/oc/2017/38). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-4]: [RO 1993 626](https://fedlex.data.admin.ch/eli/oc/1993/626_626_626); [1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502); [2004 3991](https://fedlex.data.admin.ch/eli/oc/2004/576); [2009 615](https://fedlex.data.admin.ch/eli/oc/2009/110); [2014 1423](https://fedlex.data.admin.ch/eli/oc/2014/305); [2017 129](https://fedlex.data.admin.ch/eli/oc/2017/38);[2023 329](https://fedlex.data.admin.ch/eli/oc/2023/329). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 

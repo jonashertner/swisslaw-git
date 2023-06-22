@@ -3,11 +3,11 @@ sr: "0.741.201.2"
 title: "Protokoll vom 1. März 1973 über Strassenmarkierungen zum Europäischen Zusatzübereinkommen zum Übereinkommen über Strassenverkehrszeichen, das in Wien am 8. November 1968 zur Unterzeichnung aufgelegt wurde (mit Anhang)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/626_626_626"
 language: de
-version: 2016-12-29
+version: 2023-06-23
 adopted: 1973-03-01
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20161229-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20161229/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20230623/de/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20230623-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20230623/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,16 +16,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20161229/de"
 
 AS **1993** 626; BBl **1978** I 1440
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 zum Europäischen Zusatzübereinkommen zum Übereinkommen über Strassenverkehrszeichen, das in Wien am 8. November 1968 zur Unterzeichnung aufgelegt wurde
 
-Abgeschlossen in Genf am 1. März 1973 Von der Bundesversammlung genehmigt am 15. Dezember 1978[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 11. Dezember 1991 In Kraft getreten für die Schweiz am 11. Dezember 1992
+Abgeschlossen in Genf am 1. März 1973 Von der Bundesversammlung genehmigt am 15. Dezember 1978[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 11. Dezember 1991 In Kraft getreten für die Schweiz am 11. Dezember 1992
 
-(Stand am 29. Dezember 2016)
+(Stand am 23. Juni 2023)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: Art. 1 Abs. 1 Bst. e des BB vom 15. Dez. 1978 ([AS 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400))
+[^t-1]: Art. 1 Abs. 1 Bst. e des BB vom 15. Dez. 1978 ([AS 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400))
 
 Die Vertragsparteien
 
@@ -142,7 +141,7 @@ Nach dem 1. März 1974 wird die Urschrift dieses Protokolls beim Generalsekretä
 
 *Zu Urkund dessen* haben die von ihren Regierungen gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Genf am ersten März neunzehnhundertdreiundsiebzig in einer einzigen Urschrift in englischer, französischer und russischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist.
 
-Anhang*[^t-3]*
+Anhang[^t-2]
 
 \1. Im Sinne dieses Anhangs ist «Übereinkommen» das am 8. November 1968 in Wien zur Unterzeichnung aufgelegte Übereinkommen über Strassenverkehrszeichen.
 
@@ -242,7 +241,7 @@ Diese Nummer lautet: «Zeichnung A‑33» tritt anstelle von «Zeichnung 4» und
 
 Nummer 15
 
-Diese Nummer lautet: «Man bezeichnet als ‹Sichtweite› den Abstand, in dem ein auf der Fahrbahnoberfläche befindlicher Gegenstand einer bestimmten Höhe von einem Beobachter gesehen werden kann, dessen Auge sich auf gleicher Höhe oder unter der des Gegenstandes befindet[^t-4]. Wird es für erforderlich erachtet, die Benutzung des dem Gegenverkehr vorbehaltenen Fahrbahnteiles an bestimmten Kreuzungen oder an Stellen mit beschränkter Sichtweite (Kuppen, Kurven und so weiter) oder auf Abschnitten mit enger Fahrbahn oder einer anderen Besonderheit zu verbieten, so sollen Beschränkungen auf’ Strecken, wo die Sichtweite unter einem bestimmten Mindestmass M liegt, durch ununterbrochene Linien nach den Zeichnungen A‑12 bis A‑19 angeordnet werden. Lassen die örtlichen Verhältnisse eine Anbringung ununterbrochener Linien nicht zu, sollen Warnlinien nach Artikel 26 Absatz 2 Buchstabe a Ziffer 11 des Übereinkommens angebracht werden.»
+Diese Nummer lautet: «Man bezeichnet als ‹Sichtweite› den Abstand, in dem ein auf der Fahrbahnoberfläche befindlicher Gegenstand einer bestimmten Höhe von einem Beobachter gesehen werden kann, dessen Auge sich auf gleicher Höhe oder unter der des Gegenstandes befindet[^t-3]. Wird es für erforderlich erachtet, die Benutzung des dem Gegenverkehr vorbehaltenen Fahrbahnteiles an bestimmten Kreuzungen oder an Stellen mit beschränkter Sichtweite (Kuppen, Kurven und so weiter) oder auf Abschnitten mit enger Fahrbahn oder einer anderen Besonderheit zu verbieten, so sollen Beschränkungen auf’ Strecken, wo die Sichtweite unter einem bestimmten Mindestmass M liegt, durch ununterbrochene Linien nach den Zeichnungen A‑12 bis A‑19 angeordnet werden. Lassen die örtlichen Verhältnisse eine Anbringung ununterbrochener Linien nicht zu, sollen Warnlinien nach Artikel 26 Absatz 2 Buchstabe a Ziffer 11 des Übereinkommens angebracht werden.»
 
 Nummer 16
 
@@ -361,361 +360,239 @@ Diese Nummer lautet: «Die Zeichnung A‑57 zeigt eine Markierung auf einem Hind
 
 ## Zeichnungen
 
-[^t-3]: Bereinigt gemäss der am 27. Nov. 1995 in Kraft getretenen Änd. ([AS 1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502)) und der am 28. März 2006 in Kraft getretenen Änd. ([AS 2007 3713](https://fedlex.data.admin.ch/eli/oc/2007/468)).
-[^t-4]: Unter Berücksichtigung der gegenwärtigen Konstruktionsmerkmale der Kraftfahrzeuge wird empfohlen, 1 m (3 Fuss 4 Zoll) für die Augenhöhe und 1,20 m (4 Fuss) für die Höhe des Gegenstandes anzunehmen.
+[^t-2]: Bereinigt gemäss der am 27. Nov. 1995 in Kraft getretenen Änd. ([AS 1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502)) und der am 28. März 2006 in Kraft getretenen Änd. ([AS 2007 3713](https://fedlex.data.admin.ch/eli/oc/2007/468)).
+[^t-3]: Unter Berücksichtigung der gegenwärtigen Konstruktionsmerkmale der Kraftfahrzeuge wird empfohlen, 1 m (3 Fuss 4 Zoll) für die Augenhöhe und 1,20 m (4 Fuss) für die Höhe des Gegenstandes anzunehmen.
 
 Zeichnung A-1
 
 **Längsmarkierungen**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image1.png)
-
 Zeichnung A-2
 
 Markierung und Fahrbahnen mit Gegenverkehr und zwei Fahrstreifen
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image2.png)
 
 Zeichnung A-3
 
 Markierung von Fahrbahnen mit Gegenverkehr und drei Fahrstreifen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image3.png)
-
 Zeichnung A-4
 
 Markierung von Fahrbahnen mit Gegenverkehr und vier oder mehr Fahrstreifen
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image4.png)
 
 Zeichnung A-5
 
 Markierung von Fahrbahnen mit Gegenverkehr und drei Fahrstreifen, darunter einen Umkehrfahrstreifen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image5.png)
-
 Zeichnung A-6
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image6.png)
 
 Zeichnung A-7
 
 Markierung von Einbahnstrassen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image7.png)
-
 Zeichnung A-8
 
 Markierung einer Fahrbahn der Autobahn
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image8.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image9.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image10.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image11.png)
 
 Zeichnung A-12
 
 Markierung von Fahrbahnen mit Gegenverkehr in vertikalen Kurven mit beschränkter Sichtweite
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image12.png)
-
 Zeichnung A-12 (Fortsetzung)
 
 Markierung von Fahrbahnen mit Gegenverkehr in vertikalen Kurven mit beschränkter Sichtweite
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image13.png)
 
 Zeichnung A-14
 
 Markierung von Fahrbahnen mit Gegenverkehr in vertikalen Kurven mit beschränkter Sichtweite
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image14.png)
-
 Zeichnung A-16
 
 Markierung von Fahrbahnen mit Gegenverkehr in horizontalen Kurven mit beschränkter Sichtweite
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image15.png)
-
 Zeichnung A-18
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image16.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image17.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image18.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image19.png)
 
 Zeichnung A-23
 
 Vorankündigungspfeil
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image20.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image21.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image22.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image23.png)
-
 Zeichnung A-27
 
 Markierung der Fahrbahn bei Hindernissen
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image24.png)
 
 Zeichnung A-28
 
 Markierung mit Leitlinien an Kreuzungen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image25.png)
-
 Zeichnung A-29 a
 
 Markierung mit Leitlinien und Pfeilen an Kreuzungen
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image26.png)
 
 Zeichnung A-29 b
 
 Markierung mit Leitlinien und Pfeilen an Kreuzungen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image27.png)
-
 Zeichnung A-30
 
 Haltlinie
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image28.png)
 
 Zeichnung A-31
 
 Einordnungsfahrstreifen vor Kreuzungen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image29.png)
-
 Zeichnung A-32
 
 Rechtwinklige Kreuzung mit einer Vorfahrtstrasse
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image30.png)
-
 Zeichnung A-33
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image31.png)
 
 Zeichnung A-34
 
 Markierung an einer Kreuzung mit einer Vorfahrtstrasse
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image32.png)
-
 Zeichnung A-35
 
 Warndreieck zur Warnung vor einer Kreuzung mit einer Vorfahrtstrasse
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image33.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image34.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image35.png)
 
 Zeichnung A-38
 
 Rechtwinklige Kreuzung, bei der der Radweg gleichfalls Vorfahrt hat
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image36.png)
-
 Zeichnung A-39
 
 Einordnungspfeile
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image37.png)
 
 Zeichnung A-40
 
 Einordnungspfeile
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image38.png)
-
 Zeichnung A-41
 
 Markierungen mit Einordnungspfeilen vor zwei kurz hintereinander folgenden Kreuzungen, wo ein Einordnen vor der ersten Kreuzung erforderlich ist
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image39.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image40.png)
 
 Zeichnung A-43 a
 
 Buchstaben für Aufschriften auf Strassen mit einer Geschwindigkeitsbegrenzung von 60 km/h oder weniger
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image41.png)
-
 Zeichnung A-43 b
 
 Buchstaben für Aufschriften auf Strassen mit einer Geschwindigkeitsbeschränkung von 60 km/h oder weniger
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image42.png)
 
 Zeichnung A-43 c
 
 Buchstaben für Aufschriften auf Strassen mit einer Geschwindigkeitsbeschränkung von 60 km/h oder weniger
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image43.png)
-
 Zeichnung A-43 d
 
 Buchstaben für Aufschriften auf Strassen mit einer Geschwindigkeitsbeschränkung von 60 km/h oder weniger
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image44.png)
 
 Zeichnung A-44 a
 
 Buchstaben für Aufschriften auf Strassen mit einer Geschwindigkeitsbegrenzung von 60 km/h oder weniger
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image45.png)
-
 Zeichnung A-44 b
 
 Buchstaben für Aufschriften auf Strassen mit einer Geschwindigkeitsbegrenzung von 60 km/h oder weniger
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image46.png)
 
 Zeichnung A-45
 
 Beispiel einer Aufschrift auf Strassen mit einer Geschwindigkeitsbeschränkung von 60 km/h oder weniger
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image47.png)
-
 Zeichnung A-46
 
 Beispiel einer Aufschrift auf Strassen mit einer Geschwindigkeitsbeschränkung von 60 km/h oder weniger
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image48.png)
 
 Zeichnung A-47 a
 
 Ziffern für Aufschriften auf Strassen mit einer Geschwindigkeitsbeschränkung von 60 km/h oder weniger
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image49.png)
-
 Zeichnung A-47 b
 
 Ziffern für Aufschriften auf Strassen mit einer Geschwindigkeitsbeschränkung von 60 km/h oder weniger
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image50.png)
 
 Zeichnung A-47 c
 
 Ziffern für Aufschriften auf Strassen mit einer Geschwindigkeitsbeschränkung von 60 km/h oder weniger
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image51.png)
-
 Zeichnung A-48
 
 Beispiel einer Aufschrift auf Strassen mit einer Geschwindigkeitsbeschränkung von 60 km/h oder weniger
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image52.png)
 
 Zeichnung A-49 a
 
 Buchstaben für Aufschriften auf Strassen mit einer Geschwindigkeitsbeschränkung von mehr als 60 km/h oder ohne Geschwindigkeitsbeschränkung
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image53.png)
-
 Zeichnung A-49 b
 
 Buchstaben für Aufschriften auf Strassen mit einer Geschwindigkeitsbeschränkung von mehr als 60 km/h oder ohne Geschwindigkeitsbeschränkung
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image54.png)
 
 Zeichnung A-50
 
 Buchstaben für Aufschriften auf Strassen mit einer Geschwindigkeitsbeschränkung von mehr als 60 km/h oder ohne Geschwindigkeitsbeschränkung
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image55.png)
-
 Zeichnung A-51
 
 Beispiel einer Aufschrift auf Strassen mit einer Geschwindigkeitsbeschränkung von mehr als 60 km/h oder ohne Geschwindigkeitsbeschränkung
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image56.png)
 
 Zeichnung A-52
 
 Beispiel einer Aufschrift auf Strassen mit einer Geschwindigkeitsbeschränkung von mehr als 60 km/h oder ohne Geschwindigkeitsbeschränkung
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image57.png)
-
 Zeichnung A-53
 
 Ziffern für Aufschriften auf Strassen mit einer Geschwindigkeitsbeschränkung von mehr als 60 km/h oder ohne Geschwindigkeitsbeschränkung
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image58.png)
 
 Zeichnung A-54
 
 Beispiel einer Aufschrift auf Strassen mit einer Geschwindigkeitsbeschränkung von mehr als 60 km/h oder ohne Geschwindigkeitsbeschränkung
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image59.png)
-
 Zeichnung A-55
 
 Markierung eines Parkverbots
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image60.png)
 
 Zeichnung A-56
 
 Markierung eines Parkverbots
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image61.png)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20161229/de/xml/image/image62.png)
-
-Geltungsbereich am 29. Dezember 2016**[^t-5]**
+Geltungsbereich am 23. Juni 2023[^t-4]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="3"></th></tr>
-<tr><td colspan="2">Albanien</td><td>6. Juni</td><td>2005 B</td><td>6. Juni</td><td colspan="3">2006</td></tr>
-<tr><td colspan="2">Aserbaidschan\*</td><td>11. Juli</td><td>2011 B</td><td>11. Juli</td><td colspan="2">2012</td></tr>
-<tr><td colspan="2">Belarus\*</td><td>25. April</td><td>1984 B</td><td>25. April</td><td colspan="3">1985</td></tr>
-<tr><td colspan="2">Belgien</td><td>16. November</td><td>1988</td><td>16. November</td><td colspan="3">1989</td></tr>
-<tr><td colspan="2">Bosnien und Herzegowina</td><td>12. Januar</td><td>1994 N</td><td>6. März</td><td colspan="3">1992</td></tr>
-<tr><td colspan="2">Bulgarien</td><td>28. Dezember</td><td>1978 B</td><td>25. April</td><td colspan="3">1985</td></tr>
-<tr><td colspan="2">Dänemark\*</td><td>3. November</td><td>1986 B</td><td>3. November</td><td colspan="3">1987</td></tr>
-<tr><td colspan="2">Deutschland\*</td><td>3. August</td><td>1978</td><td>25. April</td><td colspan="3">1985</td></tr>
-<tr><td colspan="2">Finnland\*</td><td>1. April</td><td>1985 B</td><td>1. April</td><td colspan="3">1986</td></tr>
-<tr><td colspan="2">Georgien</td><td>15. Mai</td><td>2001 B</td><td>15. Mai</td><td colspan="3">2002</td></tr>
-<tr><td colspan="2">Griechenland</td><td>18. Dezember</td><td>1986 B</td><td>18. Dezember</td><td colspan="3">1987</td></tr>
-<tr><td colspan="2">Italien</td><td>7. Februar</td><td>1997 B</td><td>7. Februar</td><td colspan="3">1998</td></tr>
-<tr><td colspan="2">Kasachstan</td><td>7. Juni</td><td>2011 B</td><td>7. Juni</td><td colspan="2">2012</td></tr>
-<tr><td colspan="2">Luxemburg</td><td>25. November</td><td>1975</td><td>25. April</td><td colspan="3">1985</td></tr>
-<tr><td colspan="2">Mazedonien</td><td>20. Dezember</td><td>1999 N</td><td>17. November</td><td colspan="3">1991</td></tr>
-<tr><td colspan="2">Moldau</td><td>27. Oktober</td><td>2015 B</td><td>27. Oktober</td><td colspan="3">2016</td></tr>
-<tr><td colspan="2">Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td colspan="3">2006</td></tr>
-<tr><td colspan="2">Niederlande\* <sup>a</sup></td><td>8. November</td><td>2007 B</td><td>8. November</td><td colspan="3">2008</td></tr>
-<tr><td colspan="2">Österreich\*</td><td>11. August</td><td>1981</td><td>25. April</td><td colspan="3">1985</td></tr>
-<tr><td colspan="2">Polen\*</td><td>23. August</td><td>1984 B</td><td>23. August</td><td colspan="3">1985</td></tr>
-<tr><td colspan="2">Russland\*</td><td>6. April</td><td>1984</td><td>25. April</td><td colspan="3">1985</td></tr>
-<tr><td colspan="2">Schweden\*</td><td>25. Juli</td><td>1985 B</td><td>25. Juli</td><td colspan="3">1986</td></tr>
-<tr><td colspan="2">Schweiz\*</td><td>11. Dezember</td><td>1991</td><td>11. Dezember</td><td colspan="3">1992</td></tr>
-<tr><td colspan="2">Serbien</td><td>12. März</td><td>2001 N</td><td>27. April</td><td colspan="3">1992</td></tr>
-<tr><td colspan="2">Slowakei\*</td><td>28. Mai</td><td>1993 N</td><td>1. Januar</td><td colspan="3">1993</td></tr>
-<tr><td colspan="2">Tschechische Republik\*</td><td>2. Juni</td><td>1993 N</td><td>1. Januar</td><td colspan="3">1993</td></tr>
-<tr><td colspan="2">Ukraine\*</td><td>9. Mai</td><td>1984 B</td><td>9. Mai</td><td colspan="3">1985</td></tr>
-<tr><td colspan="2">Ungarn\*</td><td>16. März</td><td>1976</td><td>25. April</td><td colspan="3">1985</td></tr>
-<tr><td colspan="2">Zypern\*</td><td>16. August</td><td>2016 B</td><td>16. August</td><td colspan="3">2017</td></tr>
-<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="6">Für das Königreich in Europa</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Albanien</td><td>6. Juni</td><td>2005 B</td><td>6. Juni</td><td>2006</td></tr>
+<tr><td>Aserbaidschan\*</td><td>11. Juli</td><td>2011 B</td><td>11. Juli</td><td>2012</td></tr>
+<tr><td>Belarus\*</td><td>25. April</td><td>1984 B</td><td>25. April</td><td>1985</td></tr>
+<tr><td>Belgien</td><td>16. November</td><td>1988</td><td>16. November</td><td>1989</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>12. Januar</td><td>1994 N</td><td>6. März</td><td>1992</td></tr>
+<tr><td>Bulgarien</td><td>28. Dezember</td><td>1978 B</td><td>25. April</td><td>1985</td></tr>
+<tr><td>Dänemark\*</td><td>3. November</td><td>1986 B</td><td>3. November</td><td>1987</td></tr>
+<tr><td>Deutschland\*</td><td>3. August</td><td>1978</td><td>25. April</td><td>1985</td></tr>
+<tr><td>Finnland\*</td><td>1. April</td><td>1985 B</td><td>1. April</td><td>1986</td></tr>
+<tr><td>Georgien</td><td>15. Mai</td><td>2001 B</td><td>15. Mai</td><td>2002</td></tr>
+<tr><td>Griechenland</td><td>18. Dezember</td><td>1986 B</td><td>18. Dezember</td><td>1987</td></tr>
+<tr><td>Italien</td><td>7. Februar</td><td>1997 B</td><td>7. Februar</td><td>1998</td></tr>
+<tr><td>Kasachstan</td><td>7. Juni</td><td>2011 B</td><td>7. Juni</td><td>2012</td></tr>
+<tr><td>Liechtenstein\*</td><td>2. März</td><td>2020 B</td><td>2. März</td><td>2021</td></tr>
+<tr><td>Luxemburg</td><td>25. November</td><td>1975</td><td>25. April</td><td>1985</td></tr>
+<tr><td>Moldau</td><td>27. Oktober</td><td>2015 B</td><td>27. Oktober</td><td>2016</td></tr>
+<tr><td>Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
+<tr><td>Niederlande\* <sup>a</sup></td><td>8. November</td><td>2007 B</td><td>8. November</td><td>2008</td></tr>
+<tr><td>Nordmazedonien</td><td>20. Dezember</td><td>1999 N</td><td>17. November</td><td>1991</td></tr>
+<tr><td>Österreich\*</td><td>11. August</td><td>1981</td><td>25. April</td><td>1985</td></tr>
+<tr><td>Polen\*</td><td>23. August</td><td>1984 B</td><td>23. August</td><td>1985</td></tr>
+<tr><td>Russland\*</td><td>6. April</td><td>1984</td><td>25. April</td><td>1985</td></tr>
+<tr><td>Schweden\*</td><td>25. Juli</td><td>1985 B</td><td>25. Juli</td><td>1986</td></tr>
+<tr><td>Schweiz\*</td><td>11. Dezember</td><td>1991</td><td>11. Dezember</td><td>1992</td></tr>
+<tr><td>Serbien</td><td>12. März</td><td>2001 N</td><td>27. April</td><td>1992</td></tr>
+<tr><td>Slowakei\*</td><td>28. Mai</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td>Tschechische Republik\*</td><td>2. Juni</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td>Turkmenistan</td><td>31. August</td><td>2020 B</td><td>31. August</td><td>2021</td></tr>
+<tr><td>Türkei\*</td><td>17. Mai</td><td>2023 B</td><td>17. Mai</td><td>2024</td></tr>
+<tr><td>Ukraine\*</td><td>9. Mai</td><td>1984 B</td><td>9. Mai</td><td>1985</td></tr>
+<tr><td>Ungarn\*</td><td>16. März</td><td>1976</td><td>25. April</td><td>1985</td></tr>
+<tr><td>Zypern\*</td><td>16. August</td><td>2016 B</td><td>16. August</td><td>2017</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-5]: [AS 1993 626](https://fedlex.data.admin.ch/eli/oc/1993/626_626_626), [1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502), [2004 3991](https://fedlex.data.admin.ch/eli/oc/2004/576), [2009 615](https://fedlex.data.admin.ch/eli/oc/2009/110). [2014 1423](https://fedlex.data.admin.ch/eli/oc/2014/305)und [2017 129](https://fedlex.data.admin.ch/eli/oc/2017/38). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-4]: [AS 1993 626](https://fedlex.data.admin.ch/eli/oc/1993/626_626_626); [1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502); [2004 3991](https://fedlex.data.admin.ch/eli/oc/2004/576); [2009 615](https://fedlex.data.admin.ch/eli/oc/2009/110); [2014 1423](https://fedlex.data.admin.ch/eli/oc/2014/305); [2017 129](https://fedlex.data.admin.ch/eli/oc/2017/38); [2023 329](https://fedlex.data.admin.ch/eli/oc/2023/329). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch).
 
 Vorbehalte und Erklärungen
 
