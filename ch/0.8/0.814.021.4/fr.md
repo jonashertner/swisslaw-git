@@ -3,11 +3,11 @@ sr: "0.814.021.4"
 title: "Amendement au Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, du 3 décembre 1999"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/456"
 language: fr
-version: 2020-04-09
+version: 2023-06-23
 adopted: 1999-12-03
 in_force: 2002-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/456/20200409/fr/xml/fedlex-data-admin-ch-eli-cc-2003-456-20200409-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/456/20200409/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/456/20230623/fr/xml/fedlex-data-admin-ch-eli-cc-2003-456-20230623-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/456/20230623/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 28 août 2002
 
 Entrée en vigueur pour la Suisse le 26 novembre 2002
 
-(Etat le 9 avril 2020)
+(État le 23 juin 2023)
 
 [^t-1]: [RO 2003 3287](https://fedlex.data.admin.ch/eli/oc/2003/454)
 
@@ -36,9 +36,9 @@ Entrée en vigueur pour la Suisse le 26 novembre 2002
 
 ### A. Art. 2, par. 5
 
-Au par. 5 de l’art. 2 du Protocole*[^1-subdivu1-1]*, remplacer les mots: Art. 2A à l’art. 2E par les mots: Art. 2A à 2F
+Au par. 5 de l’art. 2 du Protocole[^1-subdivu1-1], remplacer les mots: Art. 2A à l’art. 2E par les mots: Art. 2A à 2F
 
-[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 ### B. Art. 2, par. 8 a) et 11
 
@@ -158,7 +158,7 @@ Aucun État ni organisation régionale d’intégration économique ne peut dép
 
 (Suivent les signatures)
 
-Champ d’application le 9 avril 2020**[^t-2]**
+Champ d’application le 23 juin 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -307,7 +307,6 @@ Champ d’application le 9 avril 2020**[^t-2]**
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>12 novembre</td><td>2013 A</td><td>10 février</td><td>2014</td></tr>
 <tr><td>Paraguay</td><td>18 juillet</td><td>2006 A</td><td>16 octobre</td><td>2006</td></tr>
 <tr><td>Pays-Bas <sup>a</sup> \*</td><td>13 novembre</td><td>2001</td><td>25 février</td><td>2002</td></tr>
-<tr><td>Gibraltar</td><td>5 août</td><td>2014</td><td>5 août</td><td>2014</td></tr>
 <tr><td>Pérou</td><td>26 septembre</td><td>2012</td><td>25 décembre</td><td>2012</td></tr>
 <tr><td>Philippines</td><td>23 mai</td><td>2006</td><td>21 août</td><td>2006</td></tr>
 <tr><td>Pologne</td><td>13 avril</td><td>2006</td><td>12 juillet</td><td>2006</td></tr>
@@ -317,7 +316,11 @@ Champ d’application le 9 avril 2020**[^t-2]**
 <tr><td>République dominicaine</td><td>1<sup>er</sup> octobre</td><td>2009</td><td>30 décembre</td><td>2009</td></tr>
 <tr><td>République tchèque</td><td>9 mai</td><td>2001</td><td>25 février</td><td>2002</td></tr>
 <tr><td>Roumanie</td><td>17 novembre</td><td>2005</td><td>15 février</td><td>2006</td></tr>
-<tr><td>Royaume-Uni</td><td>12 octobre</td><td>2001</td><td>25 février</td><td>2002</td></tr>
+<tr><td>Royaume-Uni</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Gibraltar</td><td>5 août</td><td>2014</td><td>5 août</td><td>2014</td></tr>
+<tr><td>Guernesey</td><td>2 novembre</td><td>2022</td><td>2 novembre</td><td>2022</td></tr>
+<tr><td>Île de Man</td><td>25 février</td><td>2021</td><td>25 février</td><td>2021</td></tr>
+<tr><td>Jersey</td><td>4 août</td><td>2020</td><td>4 août</td><td>2020</td></tr>
 <tr><td>Russie</td><td>14 décembre</td><td>2005</td><td>14 mars</td><td>2006</td></tr>
 <tr><td>Rwanda</td><td>7 janvier</td><td>2004 A</td><td>6 avril</td><td>2004</td></tr>
 <tr><td>Sainte-Lucie</td><td>12 décembre</td><td>2001</td><td>12 mars</td><td>2002</td></tr>
@@ -364,7 +367,7 @@ Champ d’application le 9 avril 2020**[^t-2]**
 <tr><td>Yémen</td><td>13 octobre</td><td>2009 A</td><td>11 janvier</td><td>2010</td></tr>
 <tr><td>Zambie</td><td>11 octobre</td><td>2007 A</td><td>9 janvier</td><td>2008</td></tr>
 <tr><td>Zimbabwe</td><td>1<sup>er</sup> mars</td><td>2012 A</td><td>30 mai</td><td>2012</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2003 3294](https://fedlex.data.admin.ch/eli/oc/2003/456), [2004 3925](https://fedlex.data.admin.ch/eli/oc/2004/555), [2005 2345](https://fedlex.data.admin.ch/eli/oc/2005/403), [2006 847](https://fedlex.data.admin.ch/eli/oc/2006/145)[2975](https://fedlex.data.admin.ch/eli/oc/2006/457), [2007 5087](https://fedlex.data.admin.ch/eli/oc/2007/715), [2009 3723](https://fedlex.data.admin.ch/eli/oc/2009/472), [2010 1465](https://fedlex.data.admin.ch/eli/oc/2010/201), [2011 831](https://fedlex.data.admin.ch/eli/oc/2011/123), [2012 1569](https://fedlex.data.admin.ch/eli/oc/2012/223), [2013 405](https://fedlex.data.admin.ch/eli/oc/2013/73)[1331](https://fedlex.data.admin.ch/eli/oc/2013/309), [2014 2265](https://fedlex.data.admin.ch/eli/oc/2014/379), [2016 3259](https://fedlex.data.admin.ch/eli/oc/2016/554), [2020 1329](https://fedlex.data.admin.ch/eli/oc/2020/250). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2003 3294](https://fedlex.data.admin.ch/eli/oc/2003/456); [2004 3925](https://fedlex.data.admin.ch/eli/oc/2004/555); [2005 2345](https://fedlex.data.admin.ch/eli/oc/2005/403); [2006 847](https://fedlex.data.admin.ch/eli/oc/2006/145), [2975](https://fedlex.data.admin.ch/eli/oc/2006/457); [2007 5087](https://fedlex.data.admin.ch/eli/oc/2007/715); [2009 3723](https://fedlex.data.admin.ch/eli/oc/2009/472); [2010 1465](https://fedlex.data.admin.ch/eli/oc/2010/201); [2011 831](https://fedlex.data.admin.ch/eli/oc/2011/123); [2012 1569](https://fedlex.data.admin.ch/eli/oc/2012/223); [2013 405](https://fedlex.data.admin.ch/eli/oc/2013/73), [1331](https://fedlex.data.admin.ch/eli/oc/2013/309); [2014 2265](https://fedlex.data.admin.ch/eli/oc/2014/379); [2016 3259](https://fedlex.data.admin.ch/eli/oc/2016/554); [2020 1329](https://fedlex.data.admin.ch/eli/oc/2020/250); [2023 331](https://fedlex.data.admin.ch/eli/oc/2023/331). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

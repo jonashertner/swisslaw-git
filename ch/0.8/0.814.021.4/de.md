@@ -3,11 +3,11 @@ sr: "0.814.021.4"
 title: "Änderung des Montrealer Protokolls über Stoffe, die zu einem Abbau der Ozonschicht führen, vom 3. Dezember 1999"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/456"
 language: de
-version: 2020-04-09
+version: 2023-06-23
 adopted: 1999-12-03
 in_force: 2002-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/456/20200409/de/xml/fedlex-data-admin-ch-eli-cc-2003-456-20200409-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/456/20200409/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/456/20230623/de/xml/fedlex-data-admin-ch-eli-cc-2003-456-20230623-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/456/20230623/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 28. August 2002
 
 In Kraft getreten für die Schweiz am 26. November 2002
 
-(Stand am 9. April 2020)
+(Stand am 23. Juni 2023)
 
 [^t-1]: [AS 2003 3287](https://fedlex.data.admin.ch/eli/oc/2003/454)
 
@@ -36,9 +36,9 @@ In Kraft getreten für die Schweiz am 26. November 2002
 
 ### A. Artikel 2 Absatz 5
 
-In Artikel 2 Absatz 5 des Protokolls*[^1-subdivu1-1]* werden die Worte Artikeln 2A bis 2E durch folgende Worte ersetzt: Artikeln 2A bis 2F
+In Artikel 2 Absatz 5 des Protokolls[^1-subdivu1-1] werden die Worte Artikeln 2A bis 2E durch folgende Worte ersetzt: Artikeln 2A bis 2F
 
-[^1-subdivu1-1]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^1-subdivu1-1]: [SR 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 ### B. Artikel 2 Absatz 8 Buchstabe a und Absatz 11
 
@@ -59,7 +59,7 @@ Zur Befriedigung der grundlegenden nationalen Bedürfnisse der in Artikel 5 Absa
 
 Nach Artikel 2H des Protokolls wird folgender Artikel eingefügt:
 
-*Art. 2I Bromchlormethan*
+*Art. 2I* *Bromchlormethan*
 
 Jede Vertragspartei sorgt dafür, dass während des Zeitraums von zwölf Monaten, der am 1. Januar 2002 beginnt, und in jedem Zwölfmonatszeitraum danach, der berechnete Umfang ihres Verbrauchs und ihrer Produktion des geregelten Stoffes in Gruppe III der Anlage C Null nicht übersteigt. Dieser Absatz findet Anwendung, soweit nicht die Vertragsparteien beschliessen, den Umfang der Produktion oder des Verbrauchs zu gestatten, der zur Erfüllung von Zwecken notwendig ist, die von ihnen einvernehmlich als wesentlich erachtet werden.
 
@@ -155,7 +155,7 @@ Kein Staat oder keine Organisation der regionalen Wirtschaftsintegration kann ei
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 9. April 2020**[^t-2]**
+Geltungsbereich am 23. Juni 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -358,11 +358,14 @@ Geltungsbereich am 9. April 2020**[^t-2]**
 <tr><td>Vereinigte Staaten</td><td>1. Oktober</td><td>2003</td><td>30. Dezember</td><td>2003</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>12. Oktober</td><td>2001</td><td>25. Februar</td><td>2002</td></tr>
 <tr><td>Gibraltar</td><td>5. August</td><td>2014</td><td>5. August</td><td>2014</td></tr>
+<tr><td>Guernsey</td><td>2. November</td><td>2022</td><td>2. November</td><td>2022</td></tr>
+<tr><td>Insel Man</td><td>25. Februar</td><td>2021</td><td>25. Februar</td><td>2021</td></tr>
+<tr><td>Jersey</td><td>4. August</td><td>2020</td><td>4. August</td><td>2020</td></tr>
 <tr><td>Vietnam</td><td>3. Dezember</td><td>2004</td><td>3. März</td><td>2005</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>29. Mai</td><td>2008</td><td>27. August</td><td>2008</td></tr>
 <tr><td>Zypern</td><td>2. September</td><td>2004</td><td>1. Dezember</td><td>2004</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2003 3294](https://fedlex.data.admin.ch/eli/oc/2003/456), [2004 3925](https://fedlex.data.admin.ch/eli/oc/2004/555), [2005 2345](https://fedlex.data.admin.ch/eli/oc/2005/403), [2006 847](https://fedlex.data.admin.ch/eli/oc/2006/145)[2975](https://fedlex.data.admin.ch/eli/oc/2006/457), [2007 5087](https://fedlex.data.admin.ch/eli/oc/2007/715), [2009 3723](https://fedlex.data.admin.ch/eli/oc/2009/472), [2010 1465](https://fedlex.data.admin.ch/eli/oc/2010/201), [2011 831](https://fedlex.data.admin.ch/eli/oc/2011/123), [2012 1569](https://fedlex.data.admin.ch/eli/oc/2012/223), [2013 405](https://fedlex.data.admin.ch/eli/oc/2013/73)[1331](https://fedlex.data.admin.ch/eli/oc/2013/309), [2014 2265](https://fedlex.data.admin.ch/eli/oc/2014/379), [2016 3259](https://fedlex.data.admin.ch/eli/oc/2016/554), [2020 1329](https://fedlex.data.admin.ch/eli/oc/2020/250). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2003 3294](https://fedlex.data.admin.ch/eli/oc/2003/456); [2004 3925](https://fedlex.data.admin.ch/eli/oc/2004/555); [2005 2345](https://fedlex.data.admin.ch/eli/oc/2005/403); [2006 847](https://fedlex.data.admin.ch/eli/oc/2006/145), [2975](https://fedlex.data.admin.ch/eli/oc/2006/457); [2007 5087](https://fedlex.data.admin.ch/eli/oc/2007/715); [2009 3723](https://fedlex.data.admin.ch/eli/oc/2009/472); [2010 1465](https://fedlex.data.admin.ch/eli/oc/2010/201); [2011 831](https://fedlex.data.admin.ch/eli/oc/2011/123); [2012 1569](https://fedlex.data.admin.ch/eli/oc/2012/223); [2013 405](https://fedlex.data.admin.ch/eli/oc/2013/73), [1331](https://fedlex.data.admin.ch/eli/oc/2013/309); [2014 2265](https://fedlex.data.admin.ch/eli/oc/2014/379); [2016 3259](https://fedlex.data.admin.ch/eli/oc/2016/554); [2020 1329](https://fedlex.data.admin.ch/eli/oc/2020/250); [2023 331](https://fedlex.data.admin.ch/eli/oc/2023/331). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).

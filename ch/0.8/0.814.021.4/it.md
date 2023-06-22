@@ -3,11 +3,11 @@ sr: "0.814.021.4"
 title: "Emendamento al Protocollo di Montreal sulle sostanze che impoveriscono lo strato di ozono, del 3 dicembre 1999"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/456"
 language: it
-version: 2020-04-09
+version: 2023-06-23
 adopted: 1999-12-03
 in_force: 2002-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/456/20200409/it/xml/fedlex-data-admin-ch-eli-cc-2003-456-20200409-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/456/20200409/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/456/20230623/it/xml/fedlex-data-admin-ch-eli-cc-2003-456-20230623-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/456/20230623/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2003** 3294; FF **2002** 906
 
 Traduzione
 
-Concluso a Pechino il 3 dicembre 1999
+Concluso a Pechino il 3 dicembre 1999 Approvato dall’Assemblea federale il 6 giugno 2002[^t-1] Ratificato con strumenti depositati dalla Svizzera il 28 agosto 2002 Entrato in vigore per la Svizzera il 26 novembre 2002
 
-Approvato dall’Assemblea federale il 6 giugno 2002[^t-1]
-
-Ratificato con strumenti depositati dalla Svizzera il 28 agosto 2002
-
-Entrato in vigore per la Svizzera il 26 novembre 2002
-
-(Stato 9 aprile 2020)
+(Stato 23 giugno 2023)
 
 [^t-1]: [RU 2003 3287](https://fedlex.data.admin.ch/eli/oc/2003/454)
 
@@ -38,7 +32,7 @@ Entrato in vigore per la Svizzera il 26 novembre 2002
 
 Al paragrafo 5 dell’articolo 2 del Protocollo[^1-subdivu1-1], le parole: *articoli che vanno da 2A a 2E* saranno sostituite da: *articoli che vanno da 2A a 2F*
 
-[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 ### B. Articolo 2 paragrafi 8 a) e 11
 
@@ -65,7 +59,7 @@ Ciascuna Parte garantisce che, durante il periodo di dodici mesi a partire dal 1
 
 ### E. Articolo 3
 
-All’articolo 3 del Protocollo, le parole: *articoli 2, 2A a 2H* sono sostituite da: *artic**o**li 2, da 2A a 2I*
+All’articolo 3 del Protocollo, le parole: *articoli 2, 2A a 2H* sono sostituite da: *articoli 2, da 2A a 2I*
 
 ### F. Articolo 4 paragrafi 1<sup>quinquies</sup> e 1<sup>sexies</sup>
 
@@ -155,7 +149,7 @@ Nessuno Stato o organizzazione regionale di integrazione economica può deposita
 
 (Seguono le firme)
 
-Campo d’applicazione il 9 aprile 2020**[^t-2]**
+Campo d’applicazione il 23 giugno 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -309,6 +303,9 @@ Campo d’applicazione il 9 aprile 2020**[^t-2]**
 <tr><td>Qatar</td><td>29 gennaio</td><td>2009</td><td>29 aprile</td><td>2009</td></tr>
 <tr><td>Regno Unito</td><td>12 ottobre</td><td>2001</td><td>25 febbraio</td><td>2002</td></tr>
 <tr><td>Gibilterra</td><td>5 agosto</td><td>2014</td><td>5 agosto</td><td>2014</td></tr>
+<tr><td>Guernsey</td><td>2 novembre</td><td>2022</td><td>2 novembre</td><td>2022</td></tr>
+<tr><td>Isola di Man</td><td>25 febbraio</td><td>2021</td><td>25 febbraio</td><td>2021</td></tr>
+<tr><td>Jersey</td><td>4 agosto</td><td>2020</td><td>4 agosto</td><td>2020</td></tr>
 <tr><td>Romania</td><td>17 novembre</td><td>2005</td><td>15 febbraio</td><td>2006</td></tr>
 <tr><td>Ruanda</td><td>7 gennaio</td><td>2004 A</td><td>6 aprile</td><td>2004</td></tr>
 <tr><td>Russia</td><td>14 dicembre</td><td>2005</td><td>14 marzo</td><td>2006</td></tr>
@@ -361,8 +358,8 @@ Campo d’applicazione il 9 aprile 2020**[^t-2]**
 <tr><td>Yemen</td><td>13 ottobre</td><td>2009 A</td><td>11 gennaio</td><td>2010</td></tr>
 <tr><td>Zambia</td><td>11 ottobre</td><td>2007 A</td><td>9 gennaio</td><td>2008</td></tr>
 <tr><td>Zimbabwe</td><td>1° marzo</td><td>2012 A</td><td>30 maggio</td><td>2012</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2003 3294](https://fedlex.data.admin.ch/eli/oc/2003/456), [2004 3925](https://fedlex.data.admin.ch/eli/oc/2004/555), [2005 2345](https://fedlex.data.admin.ch/eli/oc/2005/403), [2006 847](https://fedlex.data.admin.ch/eli/oc/2006/145)[2975](https://fedlex.data.admin.ch/eli/oc/2006/457), [2007 5087](https://fedlex.data.admin.ch/eli/oc/2007/715), [2009 3723](https://fedlex.data.admin.ch/eli/oc/2009/472), [2010 1465](https://fedlex.data.admin.ch/eli/oc/2010/201), [2011 831](https://fedlex.data.admin.ch/eli/oc/2011/123), [2012 1569](https://fedlex.data.admin.ch/eli/oc/2012/223), [2013 405](https://fedlex.data.admin.ch/eli/oc/2013/73)[1331](https://fedlex.data.admin.ch/eli/oc/2013/309), [2014 2265](https://fedlex.data.admin.ch/eli/oc/2014/379), [2016 3259](https://fedlex.data.admin.ch/eli/oc/2016/554)e [2020 1329](https://fedlex.data.admin.ch/eli/oc/2020/250). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2003 3294](https://fedlex.data.admin.ch/eli/oc/2003/456); [2004 3925](https://fedlex.data.admin.ch/eli/oc/2004/555); [2005 2345](https://fedlex.data.admin.ch/eli/oc/2005/403); [2006 847](https://fedlex.data.admin.ch/eli/oc/2006/145), [2975](https://fedlex.data.admin.ch/eli/oc/2006/457); [2007 5087](https://fedlex.data.admin.ch/eli/oc/2007/715); [2009 3723](https://fedlex.data.admin.ch/eli/oc/2009/472); [2010 1465](https://fedlex.data.admin.ch/eli/oc/2010/201); [2011 831](https://fedlex.data.admin.ch/eli/oc/2011/123); [2012 1569](https://fedlex.data.admin.ch/eli/oc/2012/223); [2013 405](https://fedlex.data.admin.ch/eli/oc/2013/73), [1331](https://fedlex.data.admin.ch/eli/oc/2013/309); [2014 2265](https://fedlex.data.admin.ch/eli/oc/2014/379); [2016 3259](https://fedlex.data.admin.ch/eli/oc/2016/554); [2020 1329](https://fedlex.data.admin.ch/eli/oc/2020/250); [2023 331](https://fedlex.data.admin.ch/eli/oc/2023/331). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
