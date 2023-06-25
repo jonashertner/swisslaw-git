@@ -3,11 +3,11 @@ sr: "0.748.127.196.41"
 title: Accordo del 24 gennaio 2000 tra il Governo svizzero e il Governo della Repubblica del Perù concernente il traffico aereo di linea (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/391"
 language: it
-version: 2001-03-23
+version: 2023-06-26
 adopted: 2000-01-24
 in_force: 2001-03-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/391/20010323/it/xml/fedlex-data-admin-ch-eli-cc-2003-391-20010323-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/391/20010323/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/391/20230626/it/xml/fedlex-data-admin-ch-eli-cc-2003-391-20230626-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/391/20230626/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,13 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/391/20010323/it"
 
 RU **2003** 2555
 
-Traduzione*[^t-1]*
+Traduzione
 
 Concluso il 24 gennaio 2000 Entrato in vigore mediante scambio di note il 23 marzo 2001
 
-(Stato 12 agosto 2003)
-
-[^t-1]: Il testo originale tedesco è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+(Stato 26 giugno 2023)
 
 Il Consiglio federale svizzero e il Governo della Repubblica del Perù
 
@@ -52,13 +50,15 @@ Per l’applicazione del presente Accordo e del suo Allegato:
 
 - a. il termine «Accordo» indica il presente Accordo inclusi gli Allegati e gli emendamenti all’Accordo o agli Allegati;
 - b. il termine «Convenzione» indica la Convenzione relativa all’aviazione civile internazionale, aperta alla firma a Chicago il 7 dicembre 1944, e include ogni allegato adottato giusta l’articolo 90 della Convenzione e ogni emendamento agli Allegati o alla Convenzione conformemente agli articoli 90 e 94, sempre che detti allegati ed emendamenti siano applicabili per le due Parti;
-- c. la locuzione «autorità aeronautiche» indica, per la Svizzera, l’Ufficio federale dell’aviazione civile e, per la Repubblica del Perù, il Ministro dei trasporti, delle comunicazioni, delle abitazioni e delle costruzioni rappresentato dalla direzione generale o, in ambedue i casi, qualsiasi persona o ente autorizzato a esplicare le funzioni attualmente attribuite a dette autorità;
+- c.[^1-1] la locuzione «autorità aeronautiche» indica, per la Svizzera, l’Ufficio federale dell’aviazione civile e, per la Repubblica del Perù, il Ministro dei trasporti, delle comunicazioni, delle abitazioni e delle costruzioni rappresentato dalla direzione generale o, in ambedue i casi, qualsiasi persona o ente autorizzato a esplicare le funzioni attualmente attribuite a dette autorità;
 - d. la locuzione «impresa designata» indica un’impresa di trasporti aerei che una Parte ha designato conformemente all’articolo 6 del presente Accordo per esercitare i servizi aerei convenuti;
 - e. il termine «territorio» indica le terre e le acque territoriali limitrofe, poste sotto la sovranità, la giurisdizione, il protettorato o l’amministrazione in conformità con la relativa Costituzione e/o le leggi di ciascuna Parte;
 - f. le espressioni «servizio aereo», «servizio aereo internazionale», «impresa di trasporti aerei» e «scali non commerciali» hanno il significato loro attribuito dall’articolo 96 della Convenzione;
 - g. il termine «tariffa» indica il prezzo per il trasporto dei passeggeri, dei bagagli e delle merci e le condizioni di applicazione, comprese le provvigioni e altre rimunerazioni supplementari per l’emissione o la vendita di titoli di trasporto, eccettuate le rimunerazioni e condizioni inerenti al trasporto degli invii postali.
 
 <sup>2.</sup> L’Allegato è parte integrante del presente Accordo. Salvo che una disposizione contraria non lo preveda espressamente, qualsiasi riferimento all’Accordo concerne parimenti l’Allegato.
+
+[^1-1]: Nuovo testo giusta l’art. 1 del Prot. del 14 ott. 2021, in vigore dal 26 giu. 2023 ([RU 2023 527](https://fedlex.data.admin.ch/eli/oc/2023/527)).
 
 #### Art. 2
 
@@ -96,6 +96,10 @@ Fatte salve le disposizioni del presente Accordo, nell’esercizio dei servizi a
 <sup>2.</sup> Le leggi e i regolamenti che disciplinano, sul territorio di una Parte, l’entrata, la permanenza e l’uscita di passeggeri, equipaggi, bagagli, merci o invii postali – come quelli concernenti le modalità di entrata, di uscita, di emigrazione e di immigrazione, la dogana e i provvedimenti sanitari – sono applicabili ai passeggeri, equipaggi, bagagli, merci e invii postali trasportati dagli aeromobili dell’impresa designata dell’altra Parte quando questi aeromobili si trovano su detto territorio.
 
 <sup>3.</sup> Nessuna Parte ha il diritto di favorire la propria impresa rispetto a quella designata dell’altra Parte quanto all’applicazione delle leggi e dei regolamenti indicati nel presente articolo.
+
+<sup>4.</sup> I passeggeri, i bagagli e le merci in transito diretto sul territorio di una Parte che rimangono nella zona dell’aeroporto riservata a questo scopo saranno sottoposti soltanto a un controllo molto semplificato, a condizione che misure di sicurezza contro azioni violente, violazioni di confine, pirateria aerea e contrabbando di sostanze stupefacenti, provvedimenti per il controllo dell’immigrazione o circostanze particolari in conformità con la legislazione nazionale pertinente dell’altra Parte non esigano diversamente. I bagagli e le merci in transito diretto sono esentati da dazi e altre tasse analoghe.[^4-1]
+
+[^4-1]: Introdotto dall’art. 3 del Prot. del 14 ott. 2021, in vigore dal 26 giu. 2023 ([RU 2023 527](https://fedlex.data.admin.ch/eli/oc/2023/527)).
 
 #### Art. 5
 
@@ -144,11 +148,34 @@ Ciascuna Parte ha il diritto di revocare, di sospendere, o di limitare un’auto
 
 #### Art. 8
 
-**Sicurezza**
+**Riconoscimento di certificati e sicurezza tecnica**[^8-1]
 
-<sup>1.</sup> Per l’esercizio dei trasporti aerei previsti nel presente Accordo, ciascuna Parte ha il diritto di riconoscere come validi i brevetti di idoneità e le licenze rilasciati o riconosciuti dall’altra Parte e ancora validi, a condizione che le esigenze richieste per ottenere questi documenti corrispondano per lo meno alle esigenze minime stabilite in base alla Convenzione. Ciascuna Parte può tuttavia rifiutare di riconoscere, per i voli effettuati sopra il suo territorio, i brevetti di idoneità e le licenze rilasciati o riconosciuti validi ai propri cittadini dall’altra Parte.
+<sup>1.</sup> Per l’esercizio dei servizi aerei previsti nel presente Accordo, ciascuna Parte deve riconoscere come validi i certificati di navigabilità, i brevetti di idoneità e le licenze rilasciati o convalidati dall’altra Parte e ancora validi, a condizione che i requisiti richiesti per ottenere questi documenti corrispondano almeno ai requisiti minimi stabiliti in base alla Convenzione.
 
-<sup>2.</sup> Ciascuna Parte può domandare consultazioni sulle norme di sicurezza applicate dall’altra Parte agli impianti aeroportuali, ai membri d’equipaggio, agli aeromobili e all’esercizio dell’impresa designata. Se, dopo siffatte consultazioni, constata che in questi campi l’altra Parte non mantiene né applica efficacemente le norme di sicurezza e le esigenze corrispondenti per lo meno alle norme minime stabilite in base alla Convenzione, la Parte interessata notifica all’altra Parte queste constatazioni e i passi necessari per adempiere queste norme minime e quest’altra Parte deve prendere adeguate misure per rimediarvi. Nel caso in cui l’altra Parte non prenda entro un tempo adeguato siffatte misure, si applicano i disposti concernenti la revoca e la sospensione dell’autorizzazione d’esercizio
+Se i privilegi o le condizioni delle licenze o dei certificati di cui al paragrafo 1 del presente articolo, rilasciati dalle autorità aeronautiche di una Parte a una qualsiasi persona o impresa di trasporti aerei o in relazione a un aeromobile utilizzato nell’esercizio di servizi aerei, permettono una deroga ai requisiti minimi stabiliti nella Convenzione, e se tale deroga è notificata all’Organizzazione dell’aviazione civile internazionale, l’altra Parte può chiedere consultazioni tra le autorità aeronautiche allo scopo di chiarire la pratica in oggetto.
+
+<sup>2.</sup> Ciascuna Parte può tuttavia rifiutare di riconoscere, per i voli effettuati sopra il suo territorio, i brevetti di idoneità e le licenze rilasciati o riconosciuti validi ai propri cittadini dall’altra Parte o da uno Stato terzo.
+
+<sup>3.</sup> Ciascuna Parte può richiedere in qualsiasi momento consultazioni sugli standard di sicurezza adottati dall’altra Parte per l’equipaggio, gli aeromobili o il loro esercizio. Tali consultazioni devono svolgersi entro un termine di trenta (30) giorni dal ricevimento della domanda.
+
+<sup>4.</sup> Se, dopo tali consultazioni, una Parte constata che l’altra Parte non osserva né applica efficacemente i menzionati standard di sicurezza corrispondenti in quel momento ai requisiti minimi stabiliti nella Convenzione, tali constatazioni e i passi ritenuti necessari per adempiere gli standard dell’Organizzazione per l’aviazione civile internazionale sono notificati all’altra Parte. Nel caso in cui l’altra Parte non adotti le misure opportune entro quindici (15) giorni, o un termine più lungo se convenuto, è dato motivo per applicare l’articolo 7 (Revoca dell’autorizzazione d’esercizio) del presente Accordo.
+
+<sup>5.</sup> A prescindere dagli obblighi menzionati nell’articolo 33 della Convenzione, è convenuto che ogni aeromobile esercitato dalle imprese designate di una Parte oppure, nel quadro di un contratto di leasing, a loro nome per servizi da e verso il territorio dell’altra Parte, durante la permanenza su detto territorio può essere ispezionato dai rappresentanti autorizzati di quest’altra Parte a bordo e intorno all’aeromobile per controllare la validità dei documenti relativi all’aeromobile e delle licenze degli equipaggi, nonché lo stato apparente dell’aeromobile e del suo equipaggiamento (nel presente articolo denominata «ispezione dell’area di traffico»), a condizione che l’ispezione non causi ritardi indebiti.
+
+<sup>6.</sup> la Parte che effettua l’ispezione, in virtù dell’articolo 33 della Convenzione, è libera di desumere che i requisiti in base ai quali sono stati rilasciati o riconosciuti i documenti per questo aeromobile o per il suo equipaggio, oppure che i requisiti in base ai quali l’aeromobile è esercitato non soddisfano né superano i requisiti minimi in vigore conformemente a questa Convenzione.
+
+Se una tale ispezione dell’area di traffico o una serie di ispezioni simili dà adito a seri motivi:
+
+- (a) per temere che un aeromobile o l’esercizio di un aeromobile non corrisponda ai requisiti minimi stabiliti in quel momento in base alla Convenzione; oppure
+- (b) per temere lacune a livello di rispetto ed esecuzione efficaci dei requisiti di sicurezza stabiliti in quel momento in base alla Convenzione,
+
+<sup>7.</sup> Nel caso in cui, per un’ispezione dell’area di traffico, l’accesso a un aeromobile esercitato dalle imprese designate di una Parte conformemente alle disposizioni del paragrafo 5 del presente articolo sia negato dal rappresentante di dette imprese, l’altra Parte è libera di desumere che sussistono seri motivi del genere di quelli menzionati nel paragrafo 6 del presente articolo e di trarne le conclusioni previste in quel paragrafo.
+
+<sup>8.</sup> Ciascuna Parte si riserva il diritto di sospendere o modificare immediatamente l’autorizzazione di esercizio delle imprese dell’altra Parte nel caso in cui la prima Parte, a seguito di un’ispezione o di una serie di ispezioni dell’area di traffico, di un accesso negato per un’ispezione dell’area di traffico, di consultazioni o altrimenti, giunga alla conclusione che sono necessarie misure urgenti per la sicurezza dell’esercizio di un’impresa di trasporti aerei.
+
+<sup>9.</sup> Tutte le misure adottate da una Parte conformemente ai paragrafi 4 o 8 sono revocate non appena vengono a mancare i motivi che ne hanno richiesto l’adozione.
+
+[^8-1]: Nuovo testo giusta l’art. 2 del Prot. del 14 ott. 2021, in vigore dal 26 giu. 2023 ([RU 2023 527](https://fedlex.data.admin.ch/eli/oc/2023/527)).
 
 #### Art. 9
 
@@ -195,6 +222,18 @@ Sono parimenti esenti da questi dazi e tasse, fatti salvi gli emolumenti per ser
 - b. con un’impresa o imprese di uno Stato terzo, a condizione che questo Stato terzo autorizzi o permetta accordi analoghi tra le imprese dell’altra Parte e altre imprese per prestazioni verso, da e via un tale Stato terzo; e a condizione che tutte le imprese parti a un tale accordo 1) siano titolari della corrispondente autorizzazione e 2) adempiano le condizioni applicabili normalmente con tali accordi.
 
 <sup>6.</sup> Nonostante qualsiasi altra disposizione del presente Accordo, le imprese e i fornitori indiretti di trasporti di merci delle due Parti sono autorizzati a utilizzare senza restrizione, in relazione con i trasporti aerei internazionali, trasporti terrestri per la merce a destinazione o in provenienza da qualsiasi punto nei territori delle Parti o di Stati terzi, incluso il trasporto a destinazione o in provenienza da qualsiasi aeroporto con impianti doganali e includendo, nella misura in cui sia applicabile, il diritto di trasportare merce sotto sigillo doganale in conformità alle leggi e prescrizioni applicabili. Tale merce, trasportata per via terrestre o per via aerea, ha accesso alle operazioni di registrazione e agli impianti doganali degli aeroporti. Le imprese possono scegliere di eseguire esse stesse trasporti terrestri o farli effettuare, in virtù di accordi, da altri trasportatori per via terrestre, incluso il trasporto per via terrestre effettuato da altre compagnie d’aviazione e da fornitori indiretti di trasporti di merce aerea. Tali servizi possono essere offerti a un’unica tariffa globale per trasporti combinati per via aerea e terrestre, a condizione che gli speditori non siano indotti in errore in rapporto alla natura di questi trasporti.
+
+#### Art. 11<sup>bis</sup>
+
+**Leasing**[^11bis-1]
+
+<sup>1.</sup> Ciascuna Parte può impedire l’uso di aeromobili presi in leasing per i servizi menzionati nel presente Accordo che non soddisfano le disposizioni degli articoli 8 (Riconoscimento di certificati e sicurezza tecnica) e 5 (Sicurezza dell’aviazione).
+
+<sup>2.</sup> Fatto salvo il paragrafo 1, le imprese designate di ciascuna Parte possono prendere in leasing aeromobili (oppure aeromobili ed equipaggi) da qualsiasi impresa, incluso da altre imprese di trasporti aerei, a condizione che ciò non permetta all’impresa che concede gli aeromobili in leasing di esercitare diritti di traffico che non le spettano.
+
+<sup>3.</sup> I contratti di wet lease possono essere utilizzati in via eccezionale o per soddisfare un fabbisogno temporaneo e devono essere previamente presentati per approvazione alle autorità competenti sia del locatore sia del locatario, nonché all’autorità competente dell’altra Parte nella quale è previsto l’esercizio dell’aeromobile in wet lease.
+
+[^11bis-1]: Introdotto dall’art. 4 del Prot. del 14 ott. 2021, in vigore dal 26 giu. 2023 ([RU 2023 527](https://fedlex.data.admin.ch/eli/oc/2023/527)).
 
 #### Art. 12
 
@@ -282,11 +321,13 @@ Il presente Accordo entrerà in vigore appena le due Parti si saranno notificate
 
 [^21-1]: [[RU 1959 634](https://fedlex.data.admin.ch/eli/oc/1959/632_654_634)]
 
-*In fede di che,* i plenipotenziari delle due Parti hanno firmato il presente Accordo. Fatto a Lima, il 24 gennaio 2000, nelle lingue tedesca, spagnola e inglese, i tre testi facendo parimenti fede. In caso di divergenze di realizzazione, di interpretazione o di applicazione, prevale il testo inglese. Per il Consiglio federale svizzero: Per il Governo della Repubblica del Perù: Eric Martin Alberto Pandolfi Arbulú
+*In fede di che,* i plenipotenziari delle due Parti hanno firmato il presente Accordo. Fatto a Lima, il 24 gennaio 2000, nelle lingue tedesca, spagnola e inglese, i tre testi facendo parimenti fede. In caso di divergenze di realizzazione, di interpretazione o di applicazione, prevale il testo inglese. Per il Consiglio federale svizzero: Eric Martin Per il Governo della Repubblica del Perù: Alberto Pandolfi Arbulú
 
-Allegato
+Allegato[^t-1]
 
 ## Tavole delle linee
+
+[^t-1]: Aggiornato dall’art. 5 del Prot. del 14 ott. 2021, in vigore dal 26 giu. 2023 ([RU 2023 527](https://fedlex.data.admin.ch/eli/oc/2023/527)).
 
 Tavola I
 
@@ -305,3 +346,23 @@ Linee sulle quali le imprese designate dalla Repubblica del Perù possono eserci
 <tr><td>Punti di partenza</td><td>Punti intermedi</td><td>Punti in Svizzera</td><td>Punti oltre la Svizzera</td></tr>
 <tr><td>Punti in Perù</td><td>Ogni punto</td><td>Punti</td><td>Ogni punto</td></tr>
 </table>
+
+**Note:**
+
+Le imprese designate delle Parti hanno il diritto di servire punti nel territorio dell’altra Parte separatamente o in combinazione su uno stesso volo (coterminalisation) a condizione che, ad eccezione dei propri scali intermedi, non vengano esercitati diritti di traffico.
+
+Ogni impresa designata di una Parte può, a sua discrezione, su determinati o su tutti i voli:
+
+<sup>1.</sup> effettuare voli in una direzione o in entrambe;
+
+<sup>2.</sup> combinare diversi numeri di volo all’interno di un volo;
+
+<sup>3.</sup> servire punti all’esterno dei territori, punti di scalo intermedio e punti situati oltre, nonché punti nei territori delle Parti in qualsiasi combinazione e ordine;
+
+<sup>4.</sup> rinunciare ad atterraggi in un determinato punto o in determinati punti;
+
+<sup>5.</sup> trasferire, in tutti i punti, traffico tra i propri aeromobili;
+
+<sup>6.</sup> servire punti al di fuori di ogni punto nel suo territorio, con o senza cambiamento di aeromobile o di numero di volo, rendendo noti e offrendo tali servizi al pubblico come voli diretti o di collegamento;
+
+in questo contesto non valgono limitazioni di direzione o limitazioni geografiche e non è possibile perdere i diritti di traffico accordati con l’Accordo, sempre che questo servizio aereo serva un punto nel territorio dell’altra Parte che ha designato l’impresa.
