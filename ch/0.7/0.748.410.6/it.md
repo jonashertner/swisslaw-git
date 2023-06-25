@@ -3,11 +3,11 @@ sr: "0.748.410.6"
 title: "Protocollo di Montreal n. 4 del 25 settembre 1975 che modifica la Convenzione per l'unificazione di alcune norme relative al trasporto aereo internazionale firmata a Varsavia il 12 ottobre 1929, emendata dal Protocollo fatto all'Aja il 28 settembre 1955"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/23"
 language: it
-version: 2019-08-14
+version: 2023-06-26
 adopted: 1975-09-25
 in_force: 1998-06-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/23/20190814/it/xml/fedlex-data-admin-ch-eli-cc-2003-23-20190814-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/23/20190814/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/23/20230626/it/xml/fedlex-data-admin-ch-eli-cc-2003-23-20230626-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/23/20230626/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Ratificato con strumenti depositati dalla Svizzera il 9 dicembre 1987
 
 Entrato in vigore per la Svizzera il 14 giugno 1998
 
-(Stato 14 agosto 2019)
+(Stato 26 giugno 2023)
 
 [^t-1]: [RU 2003 171](https://fedlex.data.admin.ch/eli/oc/2003/22)
 
@@ -337,7 +337,7 @@ Il presente Protocollo resterà aperto alla firma presso la sede dell’Organizz
 
 (Seguono le firme)
 
-Campo d’applicazione il 14 agosto 2019**[^t-2]**
+Campo d’applicazione il 26 giugno 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -379,7 +379,7 @@ Campo d’applicazione il 14 agosto 2019**[^t-2]**
 <tr><td>Macedonia del Nord</td><td>1° settembre</td><td>1994 S</td><td>14 giugno</td><td>1998</td></tr>
 <tr><td>Malaysia</td><td>18 gennaio</td><td>2008 A</td><td>17 aprile</td><td>2008</td></tr>
 <tr><td>Marocco</td><td>26 settembre</td><td>2012</td><td>25 dicembre</td><td>2016</td></tr>
-<tr><td>Maurizio</td><td>14 giugno</td><td>1998 A</td><td>12 settembre</td><td>1998</td></tr>
+<tr><td>Maurizio\*</td><td>14 giugno</td><td>1998 A</td><td>12 settembre</td><td>1998</td></tr>
 <tr><td>Montenegro</td><td>1° aprile</td><td>2008 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Nauru</td><td>14 giugno</td><td>1998 A</td><td>12 settembre</td><td>1998</td></tr>
 <tr><td>Niger</td><td>14 giugno</td><td>1998 A</td><td>12 settembre</td><td>1998</td></tr>
@@ -392,6 +392,7 @@ Campo d’applicazione il 14 agosto 2019**[^t-2]**
 <tr><td>Curaçao</td><td>7 gennaio</td><td>1983</td><td>14 giugno</td><td>1998</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>7 gennaio</td><td>1983</td><td>14 giugno</td><td>1998</td></tr>
 <tr><td>Sint Maarten</td><td>7 gennaio</td><td>1983</td><td>14 giugno</td><td>1998</td></tr>
+<tr><td>Perù</td><td>1° dicembre</td><td>2020 A</td><td>1° marzo</td><td>2021</td></tr>
 <tr><td>Portogallo</td><td>7 aprile</td><td>1982</td><td>14 giugno</td><td>1998</td></tr>
 <tr><td>Regno Unito<sup>\*</sup></td><td>5 luglio</td><td>1984</td><td>14 giugno</td><td>1998</td></tr>
 <tr><td>Akrotiri e Dhekelia</td><td>5 luglio</td><td>1984</td><td>14 giugno</td><td>1998</td></tr>
@@ -422,14 +423,14 @@ Campo d’applicazione il 14 agosto 2019**[^t-2]**
 <tr><td>Turchia</td><td>14 giugno</td><td>1998 A</td><td>12 settembre</td><td>1998</td></tr>
 <tr><td>Ungheria</td><td>30 giugno</td><td>1987</td><td>14 giugno</td><td>1998</td></tr>
 <tr><td>Uzbekistan</td><td>14 giugno</td><td>1998 A</td><td>12 settembre</td><td>1998</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni, non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. Il testo delle stesse può essere consultato sul sito Internet dell’Organisation Internationale de l’Aviation Civile (OACI): www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione internazionale dell’aviazione civile (OACI): [www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien](https://www.icao.int/secretariat/legal/Pages/FR/TreatyCollection_FR.aspx) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2003 172](https://fedlex.data.admin.ch/eli/oc/2003/23), [2007 4455](https://fedlex.data.admin.ch/eli/oc/2007/622), [2012 393](https://fedlex.data.admin.ch/eli/oc/2012/37), [2015 3845](https://fedlex.data.admin.ch/eli/oc/2015/650)e [2019 2653](https://fedlex.data.admin.ch/eli/oc/2019/497). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2003 172](https://fedlex.data.admin.ch/eli/oc/2003/23); [2007 4455](https://fedlex.data.admin.ch/eli/oc/2007/622); [2012 393](https://fedlex.data.admin.ch/eli/oc/2012/37); [2015 3845](https://fedlex.data.admin.ch/eli/oc/2015/650); [2019 2653](https://fedlex.data.admin.ch/eli/oc/2019/497); [2023 341](https://fedlex.data.admin.ch/eli/oc/2023/341). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
 
 Riserve e dichiarazioni
 
-## Svizzera****
+## Svizzera
 
 [^declu2-lvlu1-1]
 

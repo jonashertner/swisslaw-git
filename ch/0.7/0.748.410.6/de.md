@@ -3,11 +3,11 @@ sr: "0.748.410.6"
 title: Protokoll von Montreal Nr. 4 vom 25. September 1975 zur Änderung des am 12. Oktober 1929 in Warschau unterzeichneten Abkommens zur Vereinheitlichung von Regeln über die Beförderung im internationalen Luftverkehr in der Fassung des Haager Protokolls vom 28. September 1955
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/23"
 language: de
-version: 2019-08-14
+version: 2023-06-26
 adopted: 1975-09-25
 in_force: 1998-06-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/23/20190814/de/xml/fedlex-data-admin-ch-eli-cc-2003-23-20190814-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/23/20190814/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/23/20230626/de/xml/fedlex-data-admin-ch-eli-cc-2003-23-20230626-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/23/20230626/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 9. Dezember 1987
 
 In Kraft getreten für die Schweiz am 14. Juni 1998
 
-(Stand am 14. August 2019)
+(Stand am 26. Juni 2023)
 
 [^t-1]: [AS 2003 171](https://fedlex.data.admin.ch/eli/oc/2003/22)
 
@@ -337,7 +337,7 @@ Dieses Protokoll liegt bis zum 1. Januar 1976 am Sitz der Internationalen Zivill
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 14. August 2019**[^t-2]**
+Geltungsbereich am 26. Juni 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -376,7 +376,7 @@ Geltungsbereich am 14. August 2019**[^t-2]**
 <tr><td>Luxemburg</td><td>25. September</td><td>2008 B</td><td>24. Dezember</td><td>2008</td></tr>
 <tr><td>Malaysia</td><td>18. Januar</td><td>2008 B</td><td>17. April</td><td>2008</td></tr>
 <tr><td>Marokko</td><td>26. September</td><td>2012</td><td>25. Dezember</td><td>2012</td></tr>
-<tr><td>Mauritius</td><td>14. Juni</td><td>1998 B</td><td>12. September</td><td>1998</td></tr>
+<tr><td>Mauritius\*</td><td>14. Juni</td><td>1998 B</td><td>12. September</td><td>1998</td></tr>
 <tr><td>Montenegro</td><td>1. April</td><td>2008 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Nauru</td><td>14. Juni</td><td>1998 B</td><td>12. September</td><td>1998</td></tr>
 <tr><td>Neuseeland\*</td><td>3. Dezember</td><td>1999</td><td>2. März</td><td>2000</td></tr>
@@ -390,6 +390,7 @@ Geltungsbereich am 14. August 2019**[^t-2]**
 <tr><td>Nordmazedonien</td><td>1. September</td><td>1994 N</td><td>14. Juni</td><td>1998</td></tr>
 <tr><td>Norwegen</td><td>4. Mai</td><td>1988</td><td>14. Juni</td><td>1998</td></tr>
 <tr><td>Oman</td><td>14. Juni</td><td>1998 B</td><td>12. September</td><td>1998</td></tr>
+<tr><td>Peru</td><td>1. Dezember</td><td>2020 B</td><td>1. März</td><td>2021</td></tr>
 <tr><td>Portugal</td><td>7. April</td><td>1982</td><td>14. Juni</td><td>1998</td></tr>
 <tr><td>Schweden</td><td>4. Mai</td><td>1988</td><td>14. Juni</td><td>1998</td></tr>
 <tr><td>Schweiz\*</td><td>9. Dezember</td><td>1987</td><td>14. Juni</td><td>1998</td></tr>
@@ -422,10 +423,10 @@ Geltungsbereich am 14. August 2019**[^t-2]**
 <tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>5. Juli</td><td>1984</td><td>14. Juni</td><td>1998</td></tr>
 <tr><td>Turks- und Caicosinseln</td><td>5. Juli</td><td>1984</td><td>14. Juni</td><td>1998</td></tr>
 <tr><td>Zypern</td><td>10. November</td><td>1992</td><td>14. Juni</td><td>1998</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht publiziert, mit Ausnahme derjenigen der Schweiz. Die französischen und englischen Texte können auf der Internet-Seite der Internationale Zivilluftfahrtorganisation: www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht publiziert, mit Ausnahme derjenigen der Schweiz. Die französischen und englischen Texte können auf der Internet-Seite der Internationale Zivilluftfahrtorganisation: [www.icao.int &gt; Français &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien](https://www.icao.int/secretariat/legal/Pages/FR/TreatyCollection_FR.aspx) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2003 172](https://fedlex.data.admin.ch/eli/oc/2003/23), [2007 4455](https://fedlex.data.admin.ch/eli/oc/2007/622), [2012 393](https://fedlex.data.admin.ch/eli/oc/2012/37), [2015 3845](https://fedlex.data.admin.ch/eli/oc/2015/650), [2019 2653](https://fedlex.data.admin.ch/eli/oc/2019/497). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2003 172](https://fedlex.data.admin.ch/eli/oc/2003/23); [2007 4455](https://fedlex.data.admin.ch/eli/oc/2007/622); [2012 393](https://fedlex.data.admin.ch/eli/oc/2012/37); [2015 3845](https://fedlex.data.admin.ch/eli/oc/2015/650); [2019 2653](https://fedlex.data.admin.ch/eli/oc/2019/497); [2023 341](https://fedlex.data.admin.ch/eli/oc/2023/341). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

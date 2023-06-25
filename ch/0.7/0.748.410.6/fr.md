@@ -3,11 +3,11 @@ sr: "0.748.410.6"
 title: "Protocole de Montréal n<sup>o</sup> 4 du 25 septembre 1975 portant modification de la Convention pour l'unification de certaines Règles relatives au transport aérien international signée à Varsovie le 12 octobre 1929 amendée par le Protocole fait à La Haye le 28 septembre 1955"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/23"
 language: fr
-version: 2019-08-14
+version: 2023-06-26
 adopted: 1975-09-25
 in_force: 1998-06-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/23/20190814/fr/xml/fedlex-data-admin-ch-eli-cc-2003-23-20190814-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/23/20190814/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/23/20230626/fr/xml/fedlex-data-admin-ch-eli-cc-2003-23-20230626-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/23/20230626/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Ratification déposée par la Suisse le 9 décembre 1987
 
 Entré en vigueur pour la Suisse le 14 juin 1998
 
-(Etat le 14 août 2019)
+(État le 26 juin 2023)
 
 [^t-1]: [RO 2003 171](https://fedlex.data.admin.ch/eli/oc/2003/22)
 
@@ -333,7 +333,7 @@ Le présent Protocole restera ouvert à la signature au siège de l’Organisati
 
 *En foi de quoi,* les Plénipotentiaires soussignés, dûment autorisés, ont signé le présent Protocole. Fait à Montréal le vingt-cinquième jour du mois de septembre de l’année 1975, en quatre textes authentiques rédigés dans les langues française, anglaise, espagnole et russe. En cas de divergence, le texte en langue française, langue dans laquelle la Convention de Varsovie du 12 octobre 1929 avait été rédigée, fera foi. (Suivent les signatures)
 
-Champ d’application le 14 août 2019**[^t-2]**
+Champ d’application le 26 juin 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -378,7 +378,7 @@ Champ d’application le 14 août 2019**[^t-2]**
 <tr><td>Macédoine du Nord</td><td>1<sup>er</sup> septembre</td><td>1994 S</td><td>14 juin</td><td>1998</td></tr>
 <tr><td>Malaisie</td><td>18 janvier</td><td>2008 A</td><td>17 avril</td><td>2008</td></tr>
 <tr><td>Maroc</td><td>26 septembre</td><td>2012</td><td>25 décembre</td><td>2012</td></tr>
-<tr><td>Maurice</td><td>14 juin</td><td>1998 A</td><td>12 septembre</td><td>1998</td></tr>
+<tr><td>Maurice\*</td><td>14 juin</td><td>1998 A</td><td>12 septembre</td><td>1998</td></tr>
 <tr><td>Monténégro</td><td>1<sup>er</sup> avril</td><td>2008 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Nauru</td><td>14 juin</td><td>1998 A</td><td>12 septembre</td><td>1998</td></tr>
 <tr><td>Niger</td><td>14 juin</td><td>1998 A</td><td>12 septembre</td><td>1998</td></tr>
@@ -392,6 +392,7 @@ Champ d’application le 14 août 2019**[^t-2]**
 <tr><td>Curaçao</td><td>7 janvier</td><td>1983</td><td>14 juin</td><td>1998</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>7 janvier</td><td>1983</td><td>14 juin</td><td>1998</td></tr>
 <tr><td>Sint Maarten</td><td>7 janvier</td><td>1983</td><td>14 juin</td><td>1998</td></tr>
+<tr><td>Pérou</td><td>1<sup>er</sup> décembre</td><td>2020 A</td><td>1<sup>er</sup> mars</td><td>2021</td></tr>
 <tr><td>Portugal</td><td>7 avril</td><td>1982</td><td>14 juin</td><td>1998</td></tr>
 <tr><td>Royaume-Uni\*</td><td>5 juillet</td><td>1984</td><td>14 juin</td><td>1998</td></tr>
 <tr><td>Akrotiri et Dhekelia</td><td>5 juillet</td><td>1984</td><td>14 juin</td><td>1998</td></tr>
@@ -418,14 +419,14 @@ Champ d’application le 14 août 2019**[^t-2]**
 <tr><td>Suisse\*</td><td>9 décembre</td><td>1987</td><td>14 juin</td><td>1998</td></tr>
 <tr><td>Togo</td><td>5 mai</td><td>1987</td><td>14 juin</td><td>1998</td></tr>
 <tr><td>Turquie</td><td>14 juin</td><td>1998 A</td><td>12 septembre</td><td>1998</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): [www.icao.int/](http://www.icao.int/) &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2003 172](https://fedlex.data.admin.ch/eli/oc/2003/23), [2007 4455](https://fedlex.data.admin.ch/eli/oc/2007/622), [2012 393](https://fedlex.data.admin.ch/eli/oc/2012/37), [2015 3845](https://fedlex.data.admin.ch/eli/oc/2015/650), [2019 2653](https://fedlex.data.admin.ch/eli/oc/2019/497). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2003 172](https://fedlex.data.admin.ch/eli/oc/2003/23); [2007 4455](https://fedlex.data.admin.ch/eli/oc/2007/622); [2012 393](https://fedlex.data.admin.ch/eli/oc/2012/37); [2015 3845](https://fedlex.data.admin.ch/eli/oc/2015/650); [2019 2653](https://fedlex.data.admin.ch/eli/oc/2019/497); [2023 341](https://fedlex.data.admin.ch/eli/oc/2023/341). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
-## Suisse****
+## Suisse
 
 [^declu2-lvlu1-1]
 
