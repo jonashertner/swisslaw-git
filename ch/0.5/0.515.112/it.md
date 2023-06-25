@@ -3,29 +3,27 @@ sr: "0.515.112"
 title: Convenzione del 18 ottobre 1907 concernente le leggi e gli usi della guerra per terra (con R)
 eli: "https://fedlex.data.admin.ch/eli/cc/26/429_338_411"
 language: it
-version: 2015-06-29
+version: 2023-06-26
 adopted: 1907-10-18
 in_force: 1910-07-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/429_338_411/20150629/it/xml/fedlex-data-admin-ch-eli-cc-26-429_338_411-20150629-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/26/429_338_411/20150629/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/429_338_411/20230626/it/xml/fedlex-data-admin-ch-eli-cc-26-429_338_411-20230626-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/26/429_338_411/20230626/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione concernente le leggi e gli usi della guerra per terra****
+# Convenzione concernente le leggi e gli usi della guerra per terra
 
-0.515.112 (Stato 29 giugno 2015)Nicht löschen bitte "[^t-2] " !![^t-1]
+CS **11** 388; FF **1909** I 1 ediz. ted. **1909** I 97 ediz. franc.[^t-1]
 
-Traduzione*[^t-3]*
+Traduzione
 
-Conchiusa all’Aja il 18 ottobre 1907 Approvata dall’Assemblea federale il 4 aprile 1910[^t-4] Ratificazione depositata dalla Svizzera il 12 maggio 1910 Entrata in vigore per la Svizzera l’11 luglio 1910
+Conchiusa all’Aja il 18 ottobre 1907 Approvata dall’Assemblea federale il 4 aprile 1910[^t-2] Ratificazione depositata dalla Svizzera il 12 maggio 1910 Entrata in vigore per la Svizzera l’11 luglio 1910
 
-(Stato 29 giugno 2015)
+(Stato 26 giugno 2023)
 
 [^t-1]: Trattasi della IV<sup>a</sup> Conv. conchiusa alla Conferenza per la pace all’Aja, del 1907. L’atto finale di questa Conferenza è pubblicato in [RS 0.193.212](https://fedlex.data.admin.ch/eli/cc/26/305_271_293)in fine.
-[^t-2]: CS **11** 388; FF **1909** I 1 ediz. ted. **1909** I 97 ediz. franc.
-[^t-3]: Dal testo originale francese.
-[^t-4]: CS **11** 217
+[^t-2]: CS **11** 217
 
 Sua Maestà l’Imperatore di Germania, Re di Prussia; il Presidente degli Stati Uniti d’America; il Presidente della Repubblica Argentina; Sua Maestà l’Imperatore d’Austria, Re di Boemia, ecc., e Re Apostolico d’Ungheria; Sua Maestà il Re dei Belgi; il Presidente della Repubblica di Bolivia; il Presidente della Repubblica degli Stati Uniti del Brasile; Sua Altezza Reale il Principe di Bulgaria; il Presidente della Repubblica del Chili; il Presidente della Repubblica di Colombia; il Governatore Provvisorio della Repubblica di Cuba; Sua Maestà il Re di Danimarca; il Presidente della Repubblica Dominicana; il Presidente della Repubblica dell’Equatore; il Presidente della Repubblica Francese; Sua Maestà il Re del Regno Unito di Gran Bretagna e d’Irlanda e dei Territori Britannici al di là dei Mari, Imperatore delle Indie; Sua Maestà il Re degli Elleni; il Presidente della Repubblica di Guatemala; il Presidente della Repubblica d’Haïti; Sua Maestà il Re d’Italia; Sua Maestà l’Imperatore del Giappone; Sua Altezza Reale il Granduca di Lussemburgo, Duca di Nassau; il Presidente degli Stati Uniti Messicani; Sua Altezza Reale il Principe di Montenegro; Sua Maestà il Re di Norvegia; il Presidente della Repubblica di Panama; il Presidente della Repubblica del Paraguay; Sua Maestà la Regina dei Paesi Bassi; il Presidente della Repubblica del Perù; Sua Maestà Imperiale lo Scià di Persia; Sua Maestà il Re di Portogallo e degli Algarvi, ecc.; Sua Maestà il Re di Romania; Sua Maestà l’Imperatore di Tutte le Russie; il Presidente della Repubblica del Salvador; Sua Maestà il Re di Serbia; Sua Maestà il Re del Siam; Sua Maestà il Re di Svezia; il Consiglio federale svizzero; Sua Maestà l’Imperatore degli Ottomani; il Presidente della Repubblica Orientale dell’Uruguay; il Presidente degli Stati Uniti del Venezuela,
 
@@ -138,7 +136,7 @@ La popolazione di un territorio non occupato che, all’avvicinarsi del nemico, 
 
 Le forze armate delle Parti belligeranti possono comporsi di combattenti e di non combattenti. In caso di cattura da parte del nemico, così gli uni come gli altri hanno diritto al trattamento dei prigionieri di guerra.
 
-### Capitolo II: Dei prigionieri di guerra****
+### Capitolo II: Dei prigionieri di guerra
 
 [^annexu1-lvlu1-secI-chapII-1]
 
@@ -244,7 +242,7 @@ Dopo la conclusione della pace, il rimpatrio dei prigionieri di guerra si farà 
 
 Gli obblighi dei belligeranti, per quanto concerne il servizio dei malati e dei feriti, sono regolati dalla Convenzione di Ginevra.
 
-### Sezione II: Delle ostilità****
+### Sezione II: Delle ostilità
 
 [^annexu1-lvlu1-secII-1]
 
@@ -363,7 +361,7 @@ Qualunque violazione grave dell’armistizio, commessa da una delle Parti, dà a
 
 La violazione delle clausole dell’armistizio da parte di privati che abbiano agito di propria iniziativa, dà diritto soltanto a reclamare la punizione dei colpevoli e, dato il caso, un’indennità per le perdite subite.
 
-### Sezione III: Dell’autorità militare sul territorio dello Stato nemico****
+### Sezione III: Dell’autorità militare sul territorio dello Stato nemico
 
 [^annexu1-lvlu1-secIII-1]
 
@@ -445,12 +443,13 @@ I beni dei comuni, quelli degli istituti consacrati ai culti, alla carità e all
 
 Ogni sequestro, distruzione o danneggiamento intenzionale di tali istituti, di monumenti storici, di opere d’arte e di scienza, è proibito e dev’essere punito.
 
-Campo d’applicazione il 29 giugno 2015**[^t-5]**
+Campo d’applicazione il 26 giugno 2023[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Austria</td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>1910</td></tr>
 <tr><td>Belgio</td><td>8 agosto</td><td>1910</td><td>7 ottobre</td><td>1910</td></tr>
+<tr><td>Bielorussia</td><td>4 giugno</td><td>1962 S</td><td>4 giugno</td><td>1962</td></tr>
 <tr><td>Bolivia</td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>1910</td></tr>
 <tr><td>Brasile</td><td>5 gennaio</td><td>1914</td><td>6 marzo</td><td>1914</td></tr>
 <tr><td>Canada\*</td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>1910</td></tr>
@@ -495,7 +494,7 @@ Campo d’applicazione il 29 giugno 2015**[^t-5]**
 <tr><td>Tailandia</td><td>12 marzo</td><td>1910</td><td>11 maggio</td><td>1910</td></tr>
 <tr><td>Ucraina</td><td>29 maggio</td><td>2015 S</td><td>24 agosto</td><td>1991</td></tr>
 <tr><td>Ungheria\*</td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>1910</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Governo Paesi Bassi: https://treatydatabase.overheid.nl/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Governo Paesi Bassi: [www.overheid.nl](https://www.overheid.nl/) &gt; English &gt; Treaty Database &gt; 003319 oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-5]: [RU 1979 957](https://fedlex.data.admin.ch/eli/oc/1979/957_957_957), [1985 1605](https://fedlex.data.admin.ch/eli/oc/1985/1605_1605_1605)e [2015 2505](https://fedlex.data.admin.ch/eli/oc/2015/471). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1979 957](https://fedlex.data.admin.ch/eli/oc/1979/957_957_957); [1985 1605](https://fedlex.data.admin.ch/eli/oc/1985/1605_1605_1605); [2015 2505](https://fedlex.data.admin.ch/eli/oc/2015/471); [2023 340](https://fedlex.data.admin.ch/eli/oc/2023/340). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex»: www.fedlex.admin.ch/it/treaty

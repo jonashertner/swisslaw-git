@@ -3,36 +3,33 @@ sr: "0.515.112"
 title: Convention du 18 octobre 1907 concernant les lois et coutumes de la guerre sur terre (avec règlement)
 eli: "https://fedlex.data.admin.ch/eli/cc/26/429_338_411"
 language: fr
-version: 2015-06-29
+version: 2023-06-26
 adopted: 1907-10-18
 in_force: 1910-07-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/429_338_411/20150629/fr/xml/fedlex-data-admin-ch-eli-cc-26-429_338_411-20150629-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/26/429_338_411/20150629/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/429_338_411/20230626/fr/xml/fedlex-data-admin-ch-eli-cc-26-429_338_411-20230626-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/26/429_338_411/20230626/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention concernant les lois et coutumes de la guerre sur terre****
+# Convention concernant les lois et coutumes de la guerre sur terre
 
-0.515.112 (Etat le 29 juin 2015)Nicht löschen bitte "[^t-2] " !![^t-1]
-
-Texte original
+RS **11** 384; FF **1909** I 97[^t-1]
 
 Conclue à La Haye le 18 octobre 1907
 
-Approuvée par l’Assemblée fédérale le 4 avril 1910[^t-3]
+Approuvée par l’Assemblée fédérale le 4 avril 1910[^t-2]
 
 Instrument de ratification déposé par la Suisse le 12 mai 1910
 
-Entrée en vigueur pour la Suisse le Il juillet 1910
+Entrée en vigueur pour la Suisse le 11 juillet 1910
 
-(Etat le 29 juin 2015)
+(État le 26 juin 2023)
 
 [^t-1]: Il s’agit de la IV<sup>e</sup> conv. conclue à la Conférence de la paix réunie à La Haye en 1907. L’acte final de cette Conférence est publié au [RS 0.193.212](https://fedlex.data.admin.ch/eli/cc/26/305_271_293)in fine.
-[^t-2]: RS **11** 384; [FF 1909 I 97](https://fedlex.data.admin.ch/eli/fga/1909/1_1_97_)
-[^t-3]: RS **11** 215
+[^t-2]: RS **11** 215
 
-Sa Majesté l’Empereur d’Allemagne, Roi de Prusse le Président des Etats‑Unis d’Amérique; le Président de la République Argentine; Sa Majesté l’Empereur d’Autriche, Roi de Bohême, etc., et Roi Apostolique de Hongrie; Sa Majesté le Roi des Belges; le Président de la République de Bolivie; le Président de la République des Etats‑Unis du Brésil; Son Altesse Royale le Prince de Bulgarie; le Président de la République de Chili; le Président de la République de Colombie; le Gouverneur Provisoire de la République de Cuba; Sa Majesté le Roi de Danemark; le Président de la République Dominicaine; le Président de la République de l’Equateur; le Président de la République Française; Sa Majesté le Roi du Royaume‑Uni de Grande‑Bretagne et d’Irlande et des Territoires Britanniques au delà des Mers, Empereur des Indes; Sa Majesté le Roi des Hellènes; le Président de la République de Guatémala; le Président de la République d’Haïti; Sa Majesté le Roi d’Italie; Sa Majesté l’Empereur du Japon; Son Altesse Royale le Grand‑Duc de Luxembourg, Duc de Nassau; le Président des Etats‑Unis Mexicains; Son Altesse Royale le Prince de Monténégro; Sa Majesté le Roi de Norvège; le Président de la République de Panama; le Président de la République du Paraguay; Sa Majesté la Reine des Pays‑Bas; le Président de la République du Pérou; Sa Majesté Impériale le Schah de Perse; Sa Majesté le Roi de Portugal et des Algarves, etc.; Sa Majesté le Roi de Roumanie; Sa Majesté l’Empereur de Toutes les Russies; Le Président de la République du Salvador; Sa Majesté le Roi de Serbie; Sa Majesté le Roi de Siam; Sa Majesté le Roi de Suède; le Conseil Fédéral Suisse; Sa Majesté l’Empereur des Ottomans; le Président de la République Orientale de l’Uruguay; le Président des Etats‑Unis de Vénézuéla,
+Sa Majesté l’Empereur d’Allemagne, Roi de Prusse le Président des États‑Unis d’Amérique; le Président de la République Argentine; Sa Majesté l’Empereur d’Autriche, Roi de Bohême, etc., et Roi Apostolique de Hongrie; Sa Majesté le Roi des Belges; le Président de la République de Bolivie; le Président de la République des États‑Unis du Brésil; Son Altesse Royale le Prince de Bulgarie; le Président de la République de Chili; le Président de la République de Colombie; le Gouverneur Provisoire de la République de Cuba; Sa Majesté le Roi de Danemark; le Président de la République Dominicaine; le Président de la République de l’Équateur; le Président de la République Française; Sa Majesté le Roi du Royaume‑Uni de Grande‑Bretagne et d’Irlande et des Territoires Britanniques au delà des Mers, Empereur des Indes; Sa Majesté le Roi des Hellènes; le Président de la République de Guatémala; le Président de la République d’Haïti; Sa Majesté le Roi d’Italie; Sa Majesté l’Empereur du Japon; Son Altesse Royale le Grand‑Duc de Luxembourg, Duc de Nassau; le Président des États‑Unis Mexicains; Son Altesse Royale le Prince de Monténégro; Sa Majesté le Roi de Norvège; le Président de la République de Panama; le Président de la République du Paraguay; Sa Majesté la Reine des Pays‑Bas; le Président de la République du Pérou; Sa Majesté Impériale le Schah de Perse; Sa Majesté le Roi de Portugal et des Algarves, etc.; Sa Majesté le Roi de Roumanie; Sa Majesté l’Empereur de Toutes les Russies; Le Président de la République du Salvador; Sa Majesté le Roi de Serbie; Sa Majesté le Roi de Siam; Sa Majesté le Roi de Suède; le Conseil Fédéral Suisse; Sa Majesté l’Empereur des Ottomans; le Président de la République Orientale de l’Uruguay; le Président des États‑Unis de Vénézuéla,
 
 Considérant que, tout en recherchant les moyens de sauvegarder la paix et de prévenir les conflits armés entre les nations, il importe de se préoccuper également du cas où l’appel aux armes serait amené par des événements que leur sollicitude n’aurait pu détourner,
 
@@ -84,7 +81,7 @@ La présente Convention sera ratifiée aussitôt que possible.
 
 Les ratifications seront déposées à La Haye.
 
-Le premier dépôt de ratifications sera constaté par un procès‑verbal signé par les représentants des Puissances qui y prennent part et par le Ministre des Affaires Etrangères des Pays‑Bas.
+Le premier dépôt de ratifications sera constaté par un procès‑verbal signé par les représentants des Puissances qui y prennent part et par le Ministre des Affaires Étrangères des Pays‑Bas.
 
 Les dépôts ultérieurs de ratifications se feront au moyen d’une notification écrite adressée au Gouvernement des Pays‑Bas et accompagnée de l’instrument de ratification.
 
@@ -110,7 +107,7 @@ La dénonciation ne produira ses effets qu’à l’égard de la Puissance qui l
 
 #### Art. 9
 
-Un registre tenu par le Ministère des Affaires Etrangères des Pays‑Bas indiquera la date du dépôt de ratifications effectué en vertu de l’art. 5, al. 3 et 4, ainsi que la date à laquelle auront été reçues les notifications d’adhésion (art. 6, al. 2) ou de dénonciation (art. 8, al. 1).
+Un registre tenu par le Ministère des Affaires Étrangères des Pays‑Bas indiquera la date du dépôt de ratifications effectué en vertu de l’art. 5, al. 3 et 4, ainsi que la date à laquelle auront été reçues les notifications d’adhésion (art. 6, al. 2) ou de dénonciation (art. 8, al. 1).
 
 Chaque Puissance contractante est admise à prendre connaissance de ce registre et à en demander des extraits certifiés conformes.
 
@@ -143,7 +140,7 @@ La population d’un territoire non occupé qui, à l’approche de l’ennemi p
 
 Les forces armées des Parties belligérantes peuvent se composer de combattants et de non‑combattants. En cas de capture par l’ennemi, les uns et les autres ont droit au traitement des prisonniers de guerre.
 
-### Chapitre II Des prisonniers de guerre****
+### Chapitre II Des prisonniers de guerre
 
 [^annexu1-lvlu1-secI-chapII-1]
 
@@ -163,11 +160,11 @@ Les prisonniers de guerre peuvent être assujettis à l’internement dans une v
 
 #### Art. 6
 
-L’Etat peut employer, comme travailleurs, les prisonniers de guerre, selon leur grade et leurs aptitudes, à l’exception des officiers. Ces travaux ne seront pas excessifs et n’auront aucun rapport avec les opérations de la guerre.
+L’État peut employer, comme travailleurs, les prisonniers de guerre, selon leur grade et leurs aptitudes, à l’exception des officiers. Ces travaux ne seront pas excessifs et n’auront aucun rapport avec les opérations de la guerre.
 
 Les prisonniers peuvent être autorisés à travailler pour le compte d’administrations publiques ou de particuliers, ou pour leur propre compte.
 
-Les travaux faits pour l’Etat sont payés d’après les tarifs en vigueur pour les militaires de l’armée nationale exécutant les mêmes travaux, ou, s’il n’en existe pas, d’après un tarif en rapport avec les travaux exécutés.
+Les travaux faits pour l’État sont payés d’après les tarifs en vigueur pour les militaires de l’armée nationale exécutant les mêmes travaux, ou, s’il n’en existe pas, d’après un tarif en rapport avec les travaux exécutés.
 
 Lorsque les travaux ont lieu pour le compte d’autres administrations publiques ou pour des particuliers, les conditions en sont réglées d’accord avec l’autorité militaire.
 
@@ -177,11 +174,11 @@ Le salaire des prisonniers contribuera à adoucir leur position, et le surplus l
 
 Le Gouvernement au pouvoir duquel se trouvent les prisonniers de guerre est chargé de leur entretien.
 
-A défaut d’une entente spéciale entre les belligérants, les prisonniers de guerre seront traités pour la nourriture, le couchage et l’habillement, sur le même pied que les troupes du Gouvernement qui les aura capturés.
+À défaut d’une entente spéciale entre les belligérants, les prisonniers de guerre seront traités pour la nourriture, le couchage et l’habillement, sur le même pied que les troupes du Gouvernement qui les aura capturés.
 
 #### Art. 8
 
-Les prisonniers de guerre seront soumis aux lois, règlements et ordres en vigueur dans l’armée de l’Etat au pouvoir duquel ils se trouvent. Tout acte d’insubordination autorise, à leur égard, les mesures de rigueur nécessaires.
+Les prisonniers de guerre seront soumis aux lois, règlements et ordres en vigueur dans l’armée de l’État au pouvoir duquel ils se trouvent. Tout acte d’insubordination autorise, à leur égard, les mesures de rigueur nécessaires.
 
 Les prisonniers évadés, qui seraient repris avant d’avoir pu rejoindre leur armée ou avant de quitter le territoire occupé par l’armée qui les aura capturés, sont passibles de peines disciplinaires.
 
@@ -211,7 +208,7 @@ Les individus qui suivent une armée sans en faire directement partie, tels que 
 
 #### Art. 14
 
-Il est constitué, dès le début des hostilités, dans chacun des Etats belligérants, et, le cas échéant, dans les pays neutres qui auront recueilli des belligérants sur leur territoire, un bureau de renseignements sur les prisonniers de guerre. Ce bureau, chargé de répondre à toutes les demandes qui les concernent, reçoit des divers services compétents toutes les indications relatives aux internements et aux mutations, aux mises en liberté sur parole, aux échanges, aux évasions, aux entrées dans les hôpitaux, aux décès, ainsi que les autres renseignements nécessaires pour établir et tenir à jour une fiche individuelle pour chaque prisonnier de guerre. Le bureau devra porter sur cette fiche le numéro matricule, les nom et prénom, l’âge, le lieu d’origine, le grade, le corps de troupe, les blessures, la date et le lieu de la capture, de l’internement, des blessures et de la mort, ainsi que toutes les observations particulières. La fiche individuelle sera remise au Gouvernement de l’autre belligérant après la conclusion de la paix.
+Il est constitué, dès le début des hostilités, dans chacun des États belligérants, et, le cas échéant, dans les pays neutres qui auront recueilli des belligérants sur leur territoire, un bureau de renseignements sur les prisonniers de guerre. Ce bureau, chargé de répondre à toutes les demandes qui les concernent, reçoit des divers services compétents toutes les indications relatives aux internements et aux mutations, aux mises en liberté sur parole, aux échanges, aux évasions, aux entrées dans les hôpitaux, aux décès, ainsi que les autres renseignements nécessaires pour établir et tenir à jour une fiche individuelle pour chaque prisonnier de guerre. Le bureau devra porter sur cette fiche le numéro matricule, les nom et prénom, l’âge, le lieu d’origine, le grade, le corps de troupe, les blessures, la date et le lieu de la capture, de l’internement, des blessures et de la mort, ainsi que toutes les observations particulières. La fiche individuelle sera remise au Gouvernement de l’autre belligérant après la conclusion de la paix.
 
 Le bureau de renseignements est également chargé de recueillir et de centraliser tous les objets d’un usage personnel, valeurs, lettres, etc., qui seront trouvés sur les champs de bataille ou délaissés par des prisonniers libérés sur parole, échangés, évadés ou décédés dans les hôpitaux et ambulances, et de les transmettre aux intéressés.
 
@@ -223,7 +220,7 @@ Les sociétés de secours pour les prisonniers de guerre, régulièrement consti
 
 Les bureaux de renseignements jouissent de la franchise de port. Les lettres, mandats et articles d’argent, ainsi que les colis postaux destinés aux prisonniers de guerre ou expédiés par eux, seront affranchis de toutes les taxes postales, aussi bien dans les pays d’origine et de destination que dans les pays intermédiaires.
 
-Les dons et secours en nature destinés aux prisonniers de guerre seront admis en franchise de tous droits d’entrée et autres, ainsi que des taxes de transport sur les chemins de fer exploités par l’Etat.
+Les dons et secours en nature destinés aux prisonniers de guerre seront admis en franchise de tous droits d’entrée et autres, ainsi que des taxes de transport sur les chemins de fer exploités par l’État.
 
 #### Art. 17
 
@@ -249,7 +246,7 @@ Après la conclusion de la paix, le rapatriement des prisonniers de guerre s’e
 
 Les obligations des belligérants concernant le service des malades et des blessés sont régies par la Convention de Genève.
 
-### Section II Des hostilités****
+### Section II Des hostilités
 
 [^annexu1-lvlu1-secII-1]
 
@@ -304,7 +301,7 @@ Il est interdit de livrer au pillage une ville ou localité même prise d’assa
 
 Ne peut être considéré comme espion que l’individu qui, agissant clandestinement ou sous de faux prétextes, recueille ou cherche à recueillir des informations dans la zone d’opérations d’un belligérant, avec l’intention de les communiquer à la Partie adverse.
 
-Ainsi les militaires non déguisés qui ont pénétré dans la zone d’opérations de l’armée ennemie, à l’effet de recueillir des informations, ne sont pas considérés comme espions. De même, ne sont pas considérés comme espions: les militaires et les non militaires, accomplissant ouvertement leur mission, chargés de transmettre des dépêches destinées, soit à leur propre armée, soit à l’armée ennemie. A cette catégorie appartiennent également les individus envoyés en ballon pour transmettre les dépêches, et, en général, pour entretenir les communications entre les diverses parties d’une armée ou d’un territoire.
+Ainsi les militaires non déguisés qui ont pénétré dans la zone d’opérations de l’armée ennemie, à l’effet de recueillir des informations, ne sont pas considérés comme espions. De même, ne sont pas considérés comme espions: les militaires et les non militaires, accomplissant ouvertement leur mission, chargés de transmettre des dépêches destinées, soit à leur propre armée, soit à l’armée ennemie. À cette catégorie appartiennent également les individus envoyés en ballon pour transmettre les dépêches, et, en général, pour entretenir les communications entre les diverses parties d’une armée ou d’un territoire.
 
 #### Art. 30
 
@@ -348,7 +345,7 @@ L’armistice suspend les opérations de guerre par un accord mutuel des Parties
 
 #### Art. 37
 
-L’armistice peut être général ou local. Le premier suspend partout les opérations de guerre des Etats belligérants; le second, seulement entre certaines fractions des armées belligérantes et dans un rayon déterminé.
+L’armistice peut être général ou local. Le premier suspend partout les opérations de guerre des États belligérants; le second, seulement entre certaines fractions des armées belligérantes et dans un rayon déterminé.
 
 #### Art. 38
 
@@ -366,7 +363,7 @@ Toute violation grave de l’armistice, par l’une des Parties, donne à l’au
 
 La violation des clauses de l’armistice, par des particuliers agissant de leur propre initiative, donne droit seulement à réclamer la punition des coupables et, s’il y a lieu, une indemnité pour les pertes éprouvées.
 
-### Section III De l’autorité militaire sur le territoire de l’Etat ennemi****
+### Section III De l’autorité militaire sur le territoire de l’État ennemi
 
 [^annexu1-lvlu1-secIII-1]
 
@@ -402,7 +399,7 @@ Le pillage est formellement interdit.
 
 #### Art. 48
 
-Si l’occupant prélève, dans le territoire occupé, les impôts, droits et péages établis au profit de l’Etat, il le fera, autant que possible, d’après les règles de l’assiette et de la répartition en vigueur, et il en résultera pour lui l’obligation de pourvoir aux frais de l’administration du territoire occupé dans la mesure où le Gouvernement légal y était tenu.
+Si l’occupant prélève, dans le territoire occupé, les impôts, droits et péages établis au profit de l’État, il le fera, autant que possible, d’après les règles de l’assiette et de la répartition en vigueur, et il en résultera pour lui l’obligation de pourvoir aux frais de l’administration du territoire occupé dans la mesure où le Gouvernement légal y était tenu.
 
 #### Art. 49
 
@@ -430,7 +427,7 @@ Les prestations en nature seront, autant que possible, payées au comptant; sino
 
 #### Art. 53
 
-L’armée qui occupe un territoire ne pourra saisir que le numéraire, les fonds et les valeurs exigibles appartenant en propre à l’Etat, les dépôts d’armes, moyens de transport, magasins et approvisionnements et, en général, toute propriété mobilière de l’Etat de nature à servir aux opérations de la guerre.
+L’armée qui occupe un territoire ne pourra saisir que le numéraire, les fonds et les valeurs exigibles appartenant en propre à l’État, les dépôts d’armes, moyens de transport, magasins et approvisionnements et, en général, toute propriété mobilière de l’État de nature à servir aux opérations de la guerre.
 
 Tous les moyens affectés sur terre, sur mer et dans les airs à la transmission des nouvelles, au transport des personnes ou des choses, en dehors des cas régis par le droit maritime, les dépôts d’armes et, en général, toute espèce de munitions de guerre, peuvent être saisis, même s’ils appartiennent à des personnes privées, mais devront être restitués et les indemnités seront réglées à la paix.
 
@@ -440,21 +437,22 @@ Les câbles sous‑marins reliant un territoire occupé à un territoire neutre 
 
 #### Art. 55
 
-L’Etat occupant ne se considérera que comme administrateur et usufruitier des édifices publics, immeubles, forêts et exploitations agricoles appartenant à l’Etat ennemi et se trouvant dans le pays occupé. Il devra sauvegarder le fonds de ces propriétés et les administrer conformément aux règles de l’usufruit.
+L’État occupant ne se considérera que comme administrateur et usufruitier des édifices publics, immeubles, forêts et exploitations agricoles appartenant à l’État ennemi et se trouvant dans le pays occupé. Il devra sauvegarder le fonds de ces propriétés et les administrer conformément aux règles de l’usufruit.
 
 #### Art. 56
 
-Les biens des communes, ceux des établissements consacrés aux cultes, à la charité et à l’instruction, aux arts et aux sciences, même appartenant à l’Etat, seront traités comme la propriété privée.
+Les biens des communes, ceux des établissements consacrés aux cultes, à la charité et à l’instruction, aux arts et aux sciences, même appartenant à l’État, seront traités comme la propriété privée.
 
 Toute saisie, destruction ou dégradation intentionnelle de semblables établissements, de monuments historiques, d’œuvres d’art et de science, est interdite et doit être poursuivie.
 
-Champ d’application de la convention le 29 juin 2015**[^t-4]**
+Champ d’application de la convention le 26 juin 2023[^t-3]
 
 <table>
-<tr><th>Etats parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S)</th><th colspan="2"></th><th colspan="2">Entrée en vigueur</th><th colspan="2"></th></tr>
+<tr><th>États parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S)</th><th colspan="2"></th><th colspan="2">Entrée en vigueur</th><th colspan="2"></th></tr>
 <tr><td>Afrique du Sud</td><td colspan="2">10 mars</td><td colspan="2">1978 S</td><td colspan="2">31 mai</td><td colspan="2">1910</td></tr>
 <tr><td>Allemagne</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td colspan="2">26 janvier</td><td colspan="2">1910</td></tr>
 <tr><td>Autriche</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td colspan="2">26 janvier</td><td colspan="2">1910</td></tr>
+<tr><td>Bélarus</td><td colspan="2">4 juin</td><td colspan="2">1962 S</td><td colspan="2">4 juin</td><td colspan="2">1962</td></tr>
 <tr><td>Belgique</td><td colspan="2">8 août</td><td colspan="2">1910</td><td colspan="2">7 octobre</td><td colspan="2">1910</td></tr>
 <tr><td>Bolivie</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td colspan="2">26 janvier</td><td colspan="2">1910</td></tr>
 <tr><td>Brésil</td><td colspan="2">5 janvier</td><td colspan="2">1914</td><td colspan="2">6 mars</td><td colspan="2">1914</td></tr>
@@ -463,8 +461,8 @@ Champ d’application de la convention le 29 juin 2015**[^t-4]**
 <tr><td>Cuba</td><td colspan="2">22 février</td><td colspan="2">1912</td><td colspan="2">22 avril</td><td colspan="2">1912</td></tr>
 <tr><td>Danemark</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td colspan="2">26 janvier</td><td colspan="2">1910</td></tr>
 <tr><td>El Salvador</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td colspan="2">26 janvier</td><td colspan="2">1910</td></tr>
-<tr><td>Etats-Unis\*</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td colspan="2">26 janvier</td><td colspan="2">1910</td></tr>
-<tr><td>Ethiopie</td><td colspan="2">5 août</td><td colspan="2">1935 A</td><td colspan="2">4 octobre</td><td colspan="2">1935</td></tr>
+<tr><td>États-Unis\*</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td colspan="2">26 janvier</td><td colspan="2">1910</td></tr>
+<tr><td>Éthiopie</td><td colspan="2">5 août</td><td colspan="2">1935 A</td><td colspan="2">4 octobre</td><td colspan="2">1935</td></tr>
 <tr><td>Fidji</td><td colspan="2">26 janvier</td><td colspan="2">1973 S</td><td colspan="2">10 octobre</td><td colspan="2">1970</td></tr>
 <tr><td>Finlande</td><td colspan="2">9 juin</td><td colspan="2">1922 A</td><td colspan="2">8 août</td><td colspan="2">1922</td></tr>
 <tr><td>France</td><td colspan="2">7 octobre</td><td colspan="2">1910</td><td colspan="2">6 décembre</td><td colspan="2">1910</td></tr>
@@ -484,7 +482,11 @@ Champ d’application de la convention le 29 juin 2015**[^t-4]**
 <tr><td>Pakistan</td><td colspan="2">5 août</td><td colspan="2">1950 S</td><td colspan="2">15 août</td><td colspan="2">1947</td></tr>
 <tr><td>Palestine</td><td colspan="2">2 avril</td><td colspan="2">2014 A</td><td colspan="2">1<sup>er</sup> juin</td><td colspan="2">2014</td></tr>
 <tr><td>Panama</td><td colspan="2">11 septembre</td><td colspan="2">1911</td><td colspan="2">10 novembre</td><td colspan="2">1911</td></tr>
-<tr><td>Pays-Bas Aruba Curaçao Partie caraïbe (Bonaire, Sint Eustatius et Saba) Sint Maarten</td><td colspan="2">27 novembre 27 novembre 27 novembre 27 novembre</td><td colspan="2">1909 1909 1909 1909</td><td colspan="2">26 janvier 26 janvier 26 janvier 26 janvier</td><td colspan="2">1910 1910 1910 1910</td></tr>
+<tr><td>Pays-Bas</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td colspan="2">26 janvier</td><td colspan="2">1910</td></tr>
+<tr><td>Aruba</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td colspan="2">26 janvier</td><td colspan="2">1910</td></tr>
+<tr><td>Curaçao</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td colspan="2">26 janvier</td><td colspan="2">1910</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td colspan="2">26 janvier</td><td colspan="2">1910</td></tr>
+<tr><td>Sint Maarten</td><td colspan="2">27 novembre</td><td colspan="2">1909</td><td colspan="2">26 janvier</td><td colspan="2">1910</td></tr>
 <tr><td>Pologne</td><td colspan="2">7 mai</td><td colspan="2">1925 A</td><td colspan="2">6 juillet</td><td colspan="2">1925</td></tr>
 <tr><td>Portugal</td><td colspan="2">13 avril</td><td colspan="2">1911</td><td colspan="2">12 juin</td><td colspan="2">1911</td></tr>
 <tr><td>République dominicaine</td><td colspan="2">16 mai</td><td colspan="2">1958</td><td colspan="2">15 juillet</td><td colspan="2">1958</td></tr>
@@ -494,7 +496,7 @@ Champ d’application de la convention le 29 juin 2015**[^t-4]**
 <tr><td>Suisse</td><td colspan="2">12 mai</td><td colspan="2">1910</td><td colspan="2">11 juillet</td><td colspan="2">1910</td></tr>
 <tr><td>Thaïlande</td><td colspan="2">12 mars</td><td colspan="2">1910</td><td colspan="2">11 mai</td><td colspan="2">1910</td></tr>
 <tr><td>Ukraine</td><td colspan="2">29 mai</td><td colspan="2">2015 S</td><td colspan="2">24 août</td><td colspan="2">1991</td></tr>
-<tr><td colspan="9">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement des Pays-Bas: https://treatydatabase.overheid.nl/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="9">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement des Pays-Bas: [www.overheid.nl](https://www.overheid.nl/) &gt; English &gt; Treaty Database &gt; 003319, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-4]: La présente publication modifie et complète celles qui figurent au [RO 1979 957](https://fedlex.data.admin.ch/eli/oc/1979/957_957_957)et **1985** 1605, **2015** 2505. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: RS **11** 384; [RO 1979 957](https://fedlex.data.admin.ch/eli/oc/1979/957_957_957); [1985 1605](https://fedlex.data.admin.ch/eli/oc/1985/1605_1605_1605), [2015 2505](https://fedlex.data.admin.ch/eli/oc/2015/471); [2023 340](https://fedlex.data.admin.ch/eli/oc/2023/340). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).

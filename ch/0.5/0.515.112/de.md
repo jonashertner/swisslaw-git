@@ -3,28 +3,27 @@ sr: "0.515.112"
 title: Abkommen vom 18. Oktober 1907 betreffend die Gesetze und Gebräuche des Landkriegs (mit Ordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/26/429_338_411"
 language: de
-version: 2015-06-29
+version: 2023-06-26
 adopted: 1907-10-18
 in_force: 1910-07-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/429_338_411/20150629/de/xml/fedlex-data-admin-ch-eli-cc-26-429_338_411-20150629-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/26/429_338_411/20150629/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/429_338_411/20230626/de/xml/fedlex-data-admin-ch-eli-cc-26-429_338_411-20230626-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/26/429_338_411/20230626/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Abkommen betreffend die Gesetze und Gebräuche des Landkriegs****
+# Abkommen betreffend die Gesetze und Gebräuche des Landkriegs
 
 BS **11** 409; BBl **1909** I 1[^t-1]
 
-Übersetzung*[^t-2]*
+Übersetzung
 
-Abgeschlossen in Den Haag am 18. Oktober 1907 Von der Bundesversammlung genehmigt am 4. April 1910[^t-3] Schweizerische Ratifikationsurkunde hinterlegt am 12. Mai 1910 In Kraft getreten für die Schweiz am 11. Juli 1910
+Abgeschlossen in Den Haag am 18. Oktober 1907 Von der Bundesversammlung genehmigt am 4. April 1910[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 12. Mai 1910 In Kraft getreten für die Schweiz am 11. Juli 1910
 
-(Stand am 29. Juni 2015)
+(Stand am 26. Juni 2023)
 
 [^t-1]: Sogenanntes IV. Abkommen der Haager Friedenskonferenz von 1907. Die Schlussakte dieser Konferenz siehe in [SR 0.193.212](https://fedlex.data.admin.ch/eli/cc/26/305_271_293)am Schluss.
-[^t-2]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-3]: BS **11** 229
+[^t-2]: BS **11** 229
 
 Seine Majestät der Deutsche Kaiser, König von Preussen; der Präsident der Vereinigten Staaten von Amerika; der Präsident der Argentinischen Republik; Seine Majestät der Kaiser von Österreich, König von Böhmen usw., und Apostolischer König von Ungarn; Seine Majestät der König der Belgier; der Präsident der Republik Bolivien; der Präsident der Republik der Vereinigten Staaten von Brasilien; Seine Königliche Hoheit der Fürst von Bulgarien; der Präsident der Republik Chile; der Präsident der Republik Kolumbien; der einstweilige Gouverneur der Republik Kuba; Seine Majestät der König von Dänemark; der Präsident der Dominikanischen Republik; der Präsident der Republik Ecuador; der Präsident der Französischen Republik; Seine Majestät der König des Vereinigten Königreichs von Grossbritannien und Irland und der Britischen überseeischen Lande, Kaiser von Indien; Seine Majestät der König der Hellenen; der Präsident der Republik Guatemala; der Präsident der Repbulik Haiti; Seine Majestät der König von Italien; Seine Majestät der Kaiser von Japan; Seine Königliche Hoheit der Grossherzog von Luxemburg, Herzog zu Nassau; der Präsident der Vereinigten Staaten von Mexiko; Seine Königliche Hoheit der Fürst von Montenegro; Seine Majestät der König von Norwegen; der Präsident der Republik Panama; der Präsident der Republik Paraguay; Ihre Majestät die Königin der Niederlande; der Präsident der Republik Peru; Seine Kaiserliche Majestät der Schah von Persien; Seine Majestät der König von Portugal und Algarbien usw.; Seine Majestät der König von Rumänien; Seine Majestät der Kaiser aller Reussen; der Präsident der Republik Salvador; Seine Majestät der König von Serbien; Seine Majestät der König von Siam; Seine Majestät der König von Schweden; der Schweizerische Bundesrat; Seine Majestät der Kaiser der Osmanen; der Präsident des Orientalischen Freistaats Uruguay; der Präsident der Vereinigten Staaten von Venezuela,
 
@@ -114,9 +113,9 @@ Anlage
 
 ## Ordnung der Gesetze und Gebräuche des Landkriegs
 
-### I. Abschnitt Kriegführende
+### I. Abschnitt: Kriegführende
 
-### I. Kapitel Begriff des Kriegführenden
+### I. Kapitel: Begriff des Kriegführenden
 
 #### Art. 1
 
@@ -137,7 +136,7 @@ Die Bevölkerung eines nicht besetzten Gebiets, die beim Herannahen des Feindes 
 
 Die bewaffnete Macht der Kriegsparteien kann sich zusammensetzen aus Kombattanten und Nichtkombattanten. Im Falle der Gefangennahme durch den Feind haben die einen wie die anderen Anspruch auf Behandlung als Kriegsgefangene.
 
-### II. Kapitel Kriegsgefangene****
+### II. Kapitel: Kriegsgefangene
 
 [^annexu1-lvlu1-secI-chapII-1]
 
@@ -237,19 +236,19 @@ Das gleiche gilt für die Sterbeurkunden sowie für die Beerdigung von Kriegsgef
 
 Nach dem Friedensschlusse sollen die Kriegsgefangenen binnen kürzester Frist in ihre Heimat entlassen werden.
 
-### III. Kapitel Kranke und Verwundete
+### III. Kapitel: Kranke und Verwundete
 
 #### Art. 21
 
 Die Pflichten der Kriegführenden in Ansehung der Behandlung von Kranken und Verwundeten bestimmen sich nach dem Genfer Abkommen.
 
-### II. Abschnitt Feindseligkeiten****
+### II. Abschnitt: Feindseligkeiten
 
 [^annexu1-lvlu1-secII-1]
 
 [^annexu1-lvlu1-secII-1]: Das Genfer Abk. vom 12. Aug. 1949 über den Schutz von Zivilpersonen in Kriegszeiten ([SR 0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)) ergänzt diesen Abschnitt in den Beziehungen zwischen den vertragschliessenden Mächten (Art. 154 des erwähnten Abkommens).
 
-### 1. Kapitel Mittel zur Schädigung des Feindes, Belagerungen und Beschiessungen
+### 1. Kapitel: Mittel zur Schädigung des Feindes, Belagerungen und Beschiessungen
 
 #### Art. 22
 
@@ -292,7 +291,7 @@ Pflicht der Belagerten ist es, diese Gebäude oder Sammelplätze mit deutlichen 
 
 Es ist untersagt, Städte oder Ansiedlungen, selbst wenn sie im Sturme genommen sind, der Plünderung preiszugeben.
 
-### II. Kapitel Spione
+### II. Kapitel: Spione
 
 #### Art. 29
 
@@ -308,7 +307,7 @@ Der auf der Tat ertappte Spion darf nicht ohne vorausgegangenes Urteil bestraft 
 
 Ein Spion, welcher zu dem Heere, dem er angehört, zurückgekehrt ist und später vom Feinde gefangen genommen wird, ist als Kriegsgefangener zu betrachten und kann für früher begangene Spionage nicht verantwortlich gemacht werden.
 
-### III. Kapitel Parlamentäre
+### III. Kapitel: Parlamentäre
 
 #### Art. 32
 
@@ -326,7 +325,7 @@ Er ist berechtigt, bei vorkommendem Missbrauch den Parlamentär zeitweilig zurü
 
 Der Parlamentär verliert seinen Anspruch auf Unverletzlichkeit, wenn der bestimmte, unwiderlegbare Beweis vorliegt, dass er seine bevorrechtigte Stellung dazu benutzt hat, um Verrat zu üben oder dazu anzustiften.
 
-### IV. Kapitel Kapitulationen
+### IV. Kapitel: Kapitulationen
 
 #### Art. 35
 
@@ -360,7 +359,7 @@ Jede schwere Verletzung des Waffenstillstandes durch eine der Parteien gibt der 
 
 Die Verletzung der Bedingungen des Waffenstillstandes durch Privatpersonen, die aus eigenem Antrieb handeln, gibt nur das Recht, die Bestrafung der Schuldigen und gegebenenfalls einen Ersatz für den erlittenen Schaden zu fordern.
 
-### III. Abschnitt: Militärische Gewalt auf besetztem feindlichen Gebiete****
+### III. Abschnitt: Militärische Gewalt auf besetztem feindlichen Gebiete
 
 [^annexu1-lvlu1-secIII-1]
 
@@ -442,11 +441,12 @@ Das Eigentum der Gemeinden und der dem Gottesdienste, der Wohltätigkeit, dem Un
 
 Jede Beschlagnahme, jede absichtliche Zerstörung oder Beschädigung von derartigen Anlagen, von geschichtlichen Denkmälern oder von Werken der Kunst und Wissenschaft ist untersagt und soll geahndet werden.
 
-Geltungsbereich des Abkommens am 29. Juni 2015**[^t-4]**
+Geltungsbereich am 26. Juni 2023[^t-3]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation oder Beitritt (B) Nachfolgeerkl. (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Äthiopien</td><td>5. August</td><td>1935 B</td><td>4. Oktober</td><td>1935</td></tr>
+<tr><td>Belarus</td><td>4. Juni</td><td>1962 N</td><td>4. Juni</td><td>1962</td></tr>
 <tr><td>Belgien</td><td>8. August</td><td>1910</td><td>7. Oktober</td><td>1910</td></tr>
 <tr><td>Bolivien</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
 <tr><td>Brasilien</td><td>5. Januar</td><td>1914</td><td>6. März</td><td>1914</td></tr>
@@ -470,7 +470,11 @@ Geltungsbereich des Abkommens am 29. Juni 2015**[^t-4]**
 <tr><td>Luxemburg</td><td>5. September</td><td>1912</td><td>4. November</td><td>1912</td></tr>
 <tr><td>Mexiko</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
 <tr><td>Nicaragua</td><td>16. Dezember</td><td>1909 B</td><td>14. Februar</td><td>1910</td></tr>
-<tr><td>Niederlande Aruba Curaçao Karibische Gebiete (Bonaire, Sint Eustatius und Saba) Sint Maarten</td><td>27. November 27. November 27. November 27. November</td><td>1909 1909 1909 1909</td><td>26. Januar 26. Januar 26. Januar 26. Januar</td><td>1910 1910 1910 1910</td></tr>
+<tr><td>Niederlande</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
+<tr><td>Aruba</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
+<tr><td>Curaçao</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
+<tr><td>Sint Maarten</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
 <tr><td>Norwegen</td><td>19. September</td><td>1910</td><td>18. November</td><td>1910</td></tr>
 <tr><td>Österreich</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
 <tr><td>Pakistan</td><td>5. August</td><td>1950 N</td><td>15. August</td><td>1947</td></tr>
@@ -489,7 +493,7 @@ Geltungsbereich des Abkommens am 29. Juni 2015**[^t-4]**
 <tr><td>Ukraine</td><td>29. Mai</td><td>2015 N</td><td>24. August</td><td>1991</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
 <tr><td>Vereinigte Staaten\*</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Niederländischen Regierung: https://treatydatabase.overheid.nl/eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Niederländischen Regierung: www.overheid.nl &gt; English &gt; Treaty Database &gt; 003319 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-4]: [AS 1979 957](https://fedlex.data.admin.ch/eli/oc/1979/957_957_957), [1985 1605](https://fedlex.data.admin.ch/eli/oc/1985/1605_1605_1605), [2015 2505](https://fedlex.data.admin.ch/eli/oc/2015/471). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: BS **11** 409; [AS 1979 957](https://fedlex.data.admin.ch/eli/oc/1979/957_957_957); [1985 1605](https://fedlex.data.admin.ch/eli/oc/1985/1605_1605_1605); [2015 2505](https://fedlex.data.admin.ch/eli/oc/2015/471); [2023 340](https://fedlex.data.admin.ch/eli/oc/2023/340). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
