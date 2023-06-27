@@ -4,7 +4,7 @@ number: "840.11.6"
 title: "RÈGLEMENT du 30.04.2008 sur l'aide financière accordée à la Coopérative vaudoise de cautionnement hypothécaire favorisant l'accession à la propriété du logement (RAFCVCH)"
 short: RAFCVCH
 language: fr
-version: 2008-01-01
+version: 2023-06-28
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/840.11.6?id=ddce02df-5f63-4c74-a666-490328da996c"
 ---
 
@@ -12,7 +12,7 @@ url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/840.11.6?id=
 
 # RÈGLEMENT sur l'aide financière accordée à la Coopérative vaudoise de cautionnement hypothécaire favorisant l'accession à la propriété du logement
 
-(RAFCUCH)
+(RAFCVCH)
 
 du 30 avril 2008
 
@@ -67,13 +67,13 @@ arrête
 
 <sup>2</sup> Le montant total cumulé des arrière-cautionnements accordés par le département à la CVCH ne peut pas être supérieur à 6 millions de francs.
 
-<sup>3</sup> L'arrière-cautionnement du département couvre, par acquisition, 50% du cautionnement par la CVCH, mais au maximum CHF 100'000.–.
+<sup>3</sup> L'arrière-cautionnement du département couvre, par acquisition, 50 % du cautionnement par la CVCH.
 
 <sup>4</sup> Le montant de l'arrière-cautionnement est fixé, par décision d'octroi et pour chaque acquisition, en fonction des critères suivants :
 
 - a. les conditions relatives au logement au sens de l'article 4,
 - b. les conditions relatives à l'acquéreur au sens de l'article 5,
-- c. le prix d'acquisition de l'immeuble, qui ne doit pas dépasser 1 million de francs,
+- c. le prix d'acquisition de l'immeuble ne doit pas excéder les limites de coûts par type de logement en propriété et par zone géographique selon l'Ordonnance fédérale concernant les limites de coûts et les montants des prêts en faveur des immeubles locatifs ou en propriété du 27 janvier 2004 ; les hausses des limites prévues dans l'ordonnance fédérale (cautionnement par des coopératives de cautionnement hypothécaire, mesures spéciales) sont applicables par analogie ;
 - d. le montant du cautionnement par la CVCH, qui ne doit pas dépasser 20% du prix d'acquisition de l'immeuble.
 
 [^2-3]: Modif. 1 du 28.06.2023: Modification Al. 3-4; entrée en vigueur au 28.06.2023; Modification Al. 4, c; entrée en vigueur au 28.06.2023
@@ -96,7 +96,7 @@ arrête
 
 <sup>1</sup> Seules les acquisitions par des personnes physiques peuvent faire l'objet d'une demande d'arrière-cautionnement du département.
 
-<sup>2</sup> Le montant des fonds propres doit représenter au moins 5% du prix de l'immeuble, y compris les frais d'acquisition.
+<sup>2</sup> Le montant des fonds propres doit représenter au moins 5 % du prix d'achat. Les frais d'acquisition sont également assurés par des fonds propres.
 
 [^4-1]: Modif. 1 du 28.06.2023: Modification Al. 2; entrée en vigueur au 28.06.2023
 
