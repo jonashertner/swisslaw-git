@@ -3,16 +3,16 @@ sr: "0.353.1"
 title: Europäisches Auslieferungsübereinkommen vom 13. Dezember 1957
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/814_854_850"
 language: de
-version: 2016-11-01
+version: 2023-06-28
 adopted: 1957-12-13
 in_force: 1967-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/814_854_850/20161101/de/xml/fedlex-data-admin-ch-eli-cc-1967-814_854_850-20161101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/814_854_850/20161101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/814_854_850/20230628/de/xml/fedlex-data-admin-ch-eli-cc-1967-814_854_850-20230628-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/814_854_850/20230628/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Europäisches Auslieferungsübereinkommen****
+# Europäisches Auslieferungsübereinkommen
 
 AS **1967** 814; BBl **1966** I 457[^t-1]
 
@@ -20,7 +20,7 @@ AS **1967** 814; BBl **1966** I 457[^t-1]
 
 Abgeschlossen in Paris am 13. Dezember 1957 Von der Bundesversammlung genehmigt am 27. September 1966[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 20. Dezember 1966 In Kraft getreten für die Schweiz am 20. März 1967
 
-(Stand am 1. November 2016)
+(Stand am 28. Juni 2023)
 
 [^t-1]: Für die Staaten, die dem zweiten Zusatzprot. vom 17. März 1978 beigetreten sind, siehe auch die Art. 3 und 4 des genannten Protokolls ([SR 0.353.12](https://fedlex.data.admin.ch/eli/cc/1985/724_724_724)). Für die Staaten, die dem vierten Zusatzprot. vom 20. Sept. 2012 beigetreten sind, siehe auch die Art. 6 und 8 des genannten Protokolls ([SR 0.353.14](https://fedlex.data.admin.ch/eli/cc/2016/607)).
 [^t-2]: [AS 1967 805](https://fedlex.data.admin.ch/eli/oc/1967/805_845_839)
@@ -59,7 +59,7 @@ Die Vertragsparteien verpflichten sich, gemäss den nachstehenden Vorschriften u
 
 <sup>7.</sup> Jede Vertragspartei kann hinsichtlich der auf Grund dieses Artikels von der Anwendung des Übereinkommens ausgeschlossenen strafbaren Handlungen den Grundsatz der Gegenseitigkeit anwenden.
 
-[^2-1]: Für die Staaten, die dem zweiten Zusatzprot. vom 17. März 1978 beigetreten sind, siehe jedoch Art. 1 des genannten Protokolls ([SR 0.353.12](https://fedlex.data.admin.ch/eli/cc/1985/724_724_724)**.**).
+[^2-1]: Für die Staaten, die dem zweiten Zusatzprot. vom 17. März 1978 beigetreten sind, siehe jedoch Art. 1 des genannten Protokolls ([SR 0.353.12](https://fedlex.data.admin.ch/eli/cc/1985/724_724_724)).
 
 #### Art. 3
 
@@ -369,76 +369,77 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedern des Europarats u
 - e. jede nach Artikel 26 Ziffer 2 vorgenommene Zurückziehung eines Vorbehalts;
 - f. jede nach Artikel 31 eingegangene Notifikation einer Kündigung und den Zeitpunkt, in dem diese wirksam wird.
 
-Geltungsbereich am 13. Mai 2013**[^t-3]**
+Geltungsbereich am 28. Juni 2023[^t-3]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Albanien\*</td><td>19. Mai</td><td>1998</td><td>17. August</td><td>1998</td></tr>
-<tr><td colspan="2">Andorra\*</td><td>13. Oktober</td><td>2000</td><td>11. Januar</td><td>2001</td></tr>
-<tr><td colspan="2">Armenien\*</td><td>25. Januar</td><td>2002</td><td>25. April</td><td>2002</td></tr>
-<tr><td colspan="2">Aserbaidschan\*</td><td>28. Juni</td><td>2002</td><td>26. September</td><td>2002</td></tr>
-<tr><td colspan="2">Belgien\* <sup>a</sup></td><td>29. August</td><td>1997</td><td>27. November</td><td>1997</td></tr>
-<tr><td colspan="2">Bosnien und Herzegowina</td><td>25. April</td><td>2005</td><td>24. Juli</td><td>2005</td></tr>
-<tr><td colspan="2">Bulgarien\*</td><td>17. Juni</td><td>1994</td><td>14. September</td><td>1994</td></tr>
-<tr><td colspan="2">Dänemark\* <sup>a</sup></td><td>13. September</td><td>1962</td><td>12. Dezember</td><td>1962</td></tr>
-<tr><td colspan="2">Deutschland\* \*\* <sup>a</sup></td><td>2. Oktober</td><td>1976</td><td>1. Januar</td><td>1977</td></tr>
-<tr><td colspan="2">Estland\*</td><td>28. April</td><td>1997</td><td>27. Juli</td><td>1997</td></tr>
-<tr><td colspan="2">Finnland\* <sup>a</sup></td><td>12. Mai</td><td>1971 B</td><td>10. August</td><td>1971</td></tr>
-<tr><td colspan="2">Frankreich\* <sup>a</sup></td><td>10. Februar</td><td>1986</td><td>11. Mai</td><td>1986</td></tr>
-<tr><td colspan="2">Georgien\*</td><td>15. Juni</td><td>2001</td><td>13. September</td><td>2001</td></tr>
-<tr><td colspan="2">Griechenland\* <sup>a</sup></td><td>29. Mai</td><td>1961</td><td>27. August</td><td>1961</td></tr>
-<tr><td colspan="2">Irland\* <sup>a</sup></td><td>2. Mai</td><td>1966</td><td>31. Juli</td><td>1966</td></tr>
-<tr><td colspan="2">Island\*</td><td>20. Juni</td><td>1984</td><td>18. September</td><td>1984</td></tr>
-<tr><td colspan="2">Israel\*</td><td>27. September</td><td>1967</td><td>26. Dezember</td><td>1967</td></tr>
-<tr><td colspan="2">Italien\* <sup>a</sup></td><td>6. August</td><td>1963</td><td>4. November</td><td>1963</td></tr>
-<tr><td colspan="2">Korea (Süd-)<sup>\*</sup></td><td>29. September</td><td>2011 B</td><td>29. Dezember</td><td>2011</td></tr>
-<tr><td colspan="2">Kroatien\*</td><td>25. Januar</td><td>1995 B</td><td>25. April</td><td>1995</td></tr>
-<tr><td colspan="2">Lettland\* <sup>a</sup></td><td>2. Mai</td><td>1997</td><td>31. Juli</td><td>1997</td></tr>
-<tr><td colspan="2">Liechtenstein\*</td><td>28. Oktober</td><td>1969 B</td><td>26. Januar</td><td>1970</td></tr>
-<tr><td colspan="2">Litauen\* <sup>a</sup></td><td>20. Juni</td><td>1995</td><td>18. September</td><td>1995</td></tr>
-<tr><td colspan="2">Luxemburg\* <sup>a</sup></td><td>18. November</td><td>1976</td><td>16. Februar</td><td>1977</td></tr>
-<tr><td colspan="2">Malta\* <sup>a</sup></td><td>19. März</td><td>1996</td><td>17. Juni</td><td>1996</td></tr>
-<tr><td colspan="2">Mazedonien\*</td><td>28. Juli</td><td>1999</td><td>26. Oktober</td><td>1999</td></tr>
-<tr><td colspan="2">Moldau\*</td><td>2. Oktober</td><td>1997</td><td>31. Dezember</td><td>1997</td></tr>
-<tr><td colspan="2">Monaco<sup>\*</sup></td><td>30. Januar</td><td>2009</td><td>1. Mai</td><td>2009</td></tr>
-<tr><td colspan="2">Montenegro</td><td>6. Juni</td><td>2006 N</td><td>6. Juni</td><td>2006</td></tr>
-<tr><td colspan="2">Niederlande\* <sup>a</sup></td><td>14. Februar</td><td>1969</td><td>15. Mai</td><td>1969</td></tr>
-<tr><td colspan="2">Aruba</td><td>14. Februar</td><td>1969</td><td>15. Mai</td><td>1969</td></tr>
-<tr><td colspan="2">Curaçao</td><td>14. Februar</td><td>1969</td><td>15. Mai</td><td>1969</td></tr>
-<tr><td colspan="2">Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>14. Februar</td><td>1969</td><td>15. Mai</td><td>1969</td></tr>
-<tr><td colspan="2">Sint Maarten</td><td>14. Februar</td><td>1969</td><td>15. Mai</td><td>1969</td></tr>
-<tr><td colspan="2">Norwegen\*</td><td>19. Januar</td><td>1960</td><td>18. April</td><td>1960</td></tr>
-<tr><td colspan="2">Österreich\* \*\* <sup>a</sup></td><td>21. Mai</td><td>1969</td><td>19. August</td><td>1969</td></tr>
-<tr><td colspan="2">Polen\* <sup>a</sup></td><td>15. Juni</td><td>1993</td><td>13. September</td><td>1993</td></tr>
-<tr><td colspan="2">Portugal\* <sup>a</sup></td><td>25. Januar</td><td>1990</td><td>25. April</td><td>1990</td></tr>
-<tr><td colspan="2">Rumänien\*</td><td>10. September</td><td>1997</td><td>9. Dezember</td><td>1997</td></tr>
-<tr><td colspan="2">Russland\* \*\*</td><td>10. Dezember</td><td>1999</td><td>9. März</td><td>2000</td></tr>
-<tr><td colspan="2">San Marino<sup>\*</sup></td><td>18. März</td><td>2009</td><td>16. Juni</td><td>2009</td></tr>
-<tr><td colspan="2">Schweden\* <sup>a</sup></td><td>22. Januar</td><td>1959</td><td>18. April</td><td>1960</td></tr>
-<tr><td colspan="2">Schweiz\*</td><td>20. Dezember</td><td>1966</td><td>20. März</td><td>1967</td></tr>
-<tr><td colspan="2">Serbien \*</td><td>30. September</td><td>2002 B</td><td>29. Dezember</td><td>2002</td></tr>
-<tr><td colspan="2">Slowakei\* <sup>a</sup></td><td>15. April</td><td>1992</td><td>1. Januar</td><td>1993</td></tr>
-<tr><td colspan="2">Slowenien\* <sup>a</sup></td><td>16. Februar</td><td>1995</td><td>17. Mai</td><td>1995</td></tr>
-<tr><td colspan="2">Spanien\* <sup>a</sup></td><td>7. Mai</td><td>1982</td><td>5. August</td><td>1982</td></tr>
-<tr><td colspan="2">Südafrika\*</td><td>12. Februar</td><td>2003 B</td><td>13. Mai</td><td>2003</td></tr>
-<tr><td colspan="2">Tschechische Republik\* <sup>a</sup></td><td>15. April</td><td>1992</td><td>1. Januar</td><td>1993</td></tr>
-<tr><td colspan="2">Türkei\* \*\*</td><td>7. Januar</td><td>1960</td><td>18. April</td><td>1960</td></tr>
-<tr><td colspan="2">Ukraine\*</td><td>11. März</td><td>1998</td><td>9. Juni</td><td>1998</td></tr>
-<tr><td colspan="2">Ungarn\* <sup>a</sup></td><td>13. Juli</td><td>1993</td><td>11. Oktober</td><td>1993</td></tr>
-<tr><td colspan="2">Vereinigtes Königreich\*</td><td>13. Februar</td><td>1991</td><td>14. Mai</td><td>1991</td></tr>
-<tr><td colspan="2">[tab] Insel Man</td><td>13. Februar</td><td>1991</td><td>14. Mai</td><td>1991</td></tr>
-<tr><td colspan="2">[tab] Kanalinseln</td><td>13. Februar</td><td>1991</td><td>14. Mai</td><td>1991</td></tr>
-<tr><td colspan="2">Zypern\* <sup>a</sup></td><td>22. Januar</td><td>1971</td><td>22. April</td><td>1971</td></tr>
-<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen</td></tr>
-<tr><td>\*\*</td><td colspan="5">Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Erklärung gemäss Artikel 28 Absatz 3 (Anwendung des Rahmenbeschlusses vom 13. Juni 2002 über den Europäischen Haftbefehl und die Übergabeverfahren vom 13.6.2002 zwischen den EU-Mitgliedstaaten).</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Albanien\*</td><td>19. Mai</td><td>1998</td><td>17. August</td><td>1998</td></tr>
+<tr><td>Andorra\*</td><td>13. Oktober</td><td>2000</td><td>11. Januar</td><td>2001</td></tr>
+<tr><td>Armenien\*</td><td>25. Januar</td><td>2002</td><td>25. April</td><td>2002</td></tr>
+<tr><td>Aserbaidschan\*</td><td>28. Juni</td><td>2002</td><td>26. September</td><td>2002</td></tr>
+<tr><td>Belgien\* <sup>a</sup></td><td>29. August</td><td>1997</td><td>27. November</td><td>1997</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>25. April</td><td>2005</td><td>24. Juli</td><td>2005</td></tr>
+<tr><td>Bulgarien\*</td><td>17. Juni</td><td>1994</td><td>14. September</td><td>1994</td></tr>
+<tr><td>Dänemark\* <sup>a</sup></td><td>13. September</td><td>1962</td><td>12. Dezember</td><td>1962</td></tr>
+<tr><td>Deutschland\* \*\* <sup>a</sup></td><td>2. Oktober</td><td>1976</td><td>1. Januar</td><td>1977</td></tr>
+<tr><td>Estland\*</td><td>28. April</td><td>1997</td><td>27. Juli</td><td>1997</td></tr>
+<tr><td>Finnland\* <sup>a</sup></td><td>12. Mai</td><td>1971 B</td><td>10. August</td><td>1971</td></tr>
+<tr><td>Frankreich\* <sup>a</sup></td><td>10. Februar</td><td>1986</td><td>11. Mai</td><td>1986</td></tr>
+<tr><td>Georgien\*</td><td>15. Juni</td><td>2001</td><td>13. September</td><td>2001</td></tr>
+<tr><td>Griechenland\* <sup>a</sup></td><td>29. Mai</td><td>1961</td><td>27. August</td><td>1961</td></tr>
+<tr><td>Irland\* <sup>a</sup></td><td>2. Mai</td><td>1966</td><td>31. Juli</td><td>1966</td></tr>
+<tr><td>Island\*</td><td>20. Juni</td><td>1984</td><td>18. September</td><td>1984</td></tr>
+<tr><td>Israel\*</td><td>27. September</td><td>1967</td><td>26. Dezember</td><td>1967</td></tr>
+<tr><td>Italien\* <sup>a</sup></td><td>6. August</td><td>1963</td><td>4. November</td><td>1963</td></tr>
+<tr><td>Korea (Süd-)<sup>\*</sup></td><td>29. September</td><td>2011 B</td><td>29. Dezember</td><td>2011</td></tr>
+<tr><td>Kroatien\*</td><td>25. Januar</td><td>1995 B</td><td>25. April</td><td>1995</td></tr>
+<tr><td>Lettland\* <sup>a</sup></td><td>2. Mai</td><td>1997</td><td>31. Juli</td><td>1997</td></tr>
+<tr><td>Liechtenstein\*</td><td>28. Oktober</td><td>1969 B</td><td>26. Januar</td><td>1970</td></tr>
+<tr><td>Litauen\* <sup>a</sup></td><td>20. Juni</td><td>1995</td><td>18. September</td><td>1995</td></tr>
+<tr><td>Luxemburg\* <sup>a</sup></td><td>18. November</td><td>1976</td><td>16. Februar</td><td>1977</td></tr>
+<tr><td>Malta\* <sup>a</sup></td><td>19. März</td><td>1996</td><td>17. Juni</td><td>1996</td></tr>
+<tr><td>Moldau\*</td><td>2. Oktober</td><td>1997</td><td>31. Dezember</td><td>1997</td></tr>
+<tr><td>Monaco\*</td><td>30. Januar</td><td>2009</td><td>1. Mai</td><td>2009</td></tr>
+<tr><td>Montenegro</td><td>6. Juni</td><td>2006 N</td><td>6. Juni</td><td>2006</td></tr>
+<tr><td>Niederlande\* <sup>a</sup></td><td>14. Februar</td><td>1969</td><td>15. Mai</td><td>1969</td></tr>
+<tr><td>Aruba</td><td>14. Februar</td><td>1969</td><td>15. Mai</td><td>1969</td></tr>
+<tr><td>Curaçao</td><td>14. Februar</td><td>1969</td><td>15. Mai</td><td>1969</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>14. Februar</td><td>1969</td><td>15. Mai</td><td>1969</td></tr>
+<tr><td>Sint Maarten</td><td>14. Februar</td><td>1969</td><td>15. Mai</td><td>1969</td></tr>
+<tr><td>Nordmazedonien\*</td><td>28. Juli</td><td>1999</td><td>26. Oktober</td><td>1999</td></tr>
+<tr><td>Norwegen\*</td><td>19. Januar</td><td>1960</td><td>18. April</td><td>1960</td></tr>
+<tr><td>Österreich\* \*\* <sup>a</sup></td><td>21. Mai</td><td>1969</td><td>19. August</td><td>1969</td></tr>
+<tr><td>Polen\* <sup>a</sup></td><td>15. Juni</td><td>1993</td><td>13. September</td><td>1993</td></tr>
+<tr><td>Portugal\* <sup>a</sup></td><td>25. Januar</td><td>1990</td><td>25. April</td><td>1990</td></tr>
+<tr><td>Rumänien\*</td><td>10. September</td><td>1997</td><td>9. Dezember</td><td>1997</td></tr>
+<tr><td>Russland\* \*\*</td><td>10. Dezember</td><td>1999</td><td>9. März</td><td>2000</td></tr>
+<tr><td>San Marino<sup>\*</sup></td><td>18. März</td><td>2009</td><td>16. Juni</td><td>2009</td></tr>
+<tr><td>Schweden\* <sup>a</sup></td><td>22. Januar</td><td>1959</td><td>18. April</td><td>1960</td></tr>
+<tr><td>Schweiz\*</td><td>20. Dezember</td><td>1966</td><td>20. März</td><td>1967</td></tr>
+<tr><td>Serbien \*</td><td>30. September</td><td>2002 B</td><td>29. Dezember</td><td>2002</td></tr>
+<tr><td>Slowakei\* <sup>a</sup></td><td>15. April</td><td>1992</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td>Slowenien\* <sup>a</sup></td><td>16. Februar</td><td>1995</td><td>17. Mai</td><td>1995</td></tr>
+<tr><td>Spanien\* <sup>a</sup></td><td>7. Mai</td><td>1982</td><td>5. August</td><td>1982</td></tr>
+<tr><td>Südafrika\*</td><td>12. Februar</td><td>2003 B</td><td>13. Mai</td><td>2003</td></tr>
+<tr><td>Tschechische Republik\* <sup>a</sup></td><td>15. April</td><td>1992</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td>Türkei\* \*\*</td><td>7. Januar</td><td>1960</td><td>18. April</td><td>1960</td></tr>
+<tr><td>Ukraine\*</td><td>11. März</td><td>1998</td><td>9. Juni</td><td>1998</td></tr>
+<tr><td>Ungarn\* <sup>a</sup></td><td>13. Juli</td><td>1993</td><td>11. Oktober</td><td>1993</td></tr>
+<tr><td>Vereinigtes Königreich\*</td><td>13. Februar</td><td>1991</td><td>14. Mai</td><td>1991</td></tr>
+<tr><td>Gibraltar</td><td>29. Juli</td><td>2019</td><td>27. Oktober</td><td>2019</td></tr>
+<tr><td>Insel Man</td><td>13. Februar</td><td>1991</td><td>14. Mai</td><td>1991</td></tr>
+<tr><td>Kanalinseln</td><td>13. Februar</td><td>1991</td><td>14. Mai</td><td>1991</td></tr>
+<tr><td>Zypern\* <sup>a</sup></td><td>22. Januar</td><td>1971</td><td>22. April</td><td>1971</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen</td></tr>
+<tr><td colspan="5">\*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](http://www.coe.int) &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden..</td></tr>
+<tr><td colspan="5"><sup>a</sup> Erklärung gemäss Artikel 28 Absatz 3 (Anwendung des Rahmenbeschlusses vom 13. Juni 2002 über den Europäischen Haftbefehl und die Übergabeverfahren vom 13.6.2002 zwischen den EU-Mitgliedstaaten).</td></tr>
 </table>
 
-[^t-3]: [AS 1967 814](https://fedlex.data.admin.ch/eli/oc/1967/814_854_850)[1120](https://fedlex.data.admin.ch/eli/oc/1967/1120_1160_1154), [1968 1476](https://fedlex.data.admin.ch/eli/oc/1968/1476_1524_1445), [1970 101](https://fedlex.data.admin.ch/eli/oc/1970/101_105_105),[1971 1356](https://fedlex.data.admin.ch/eli/oc/1971/1356_1351_1351), [1977 911](https://fedlex.data.admin.ch/eli/oc/1977/911_911_911)[1657](https://fedlex.data.admin.ch/eli/oc/1977/1657_1657_1657), [1982 889](https://fedlex.data.admin.ch/eli/oc/1982/889_889_889)[2263](https://fedlex.data.admin.ch/eli/oc/1982/2263_2263_2263), [1983 165](https://fedlex.data.admin.ch/eli/oc/1983/165_165_165), [1985 492](https://fedlex.data.admin.ch/eli/oc/1985/492_492_492),[1986 322](https://fedlex.data.admin.ch/eli/oc/1986/322_322_322)[338](https://fedlex.data.admin.ch/eli/oc/1986/338_338_338)[921](https://fedlex.data.admin.ch/eli/oc/1986/921_921_921), [1989 175](https://fedlex.data.admin.ch/eli/oc/1989/175_175_175), [1990 1171](https://fedlex.data.admin.ch/eli/oc/1990/1171_1171_1171), [1991 1367](https://fedlex.data.admin.ch/eli/oc/1991/1367_1367_1367), [1995 1117](https://fedlex.data.admin.ch/eli/oc/1995/1117_1117_1117)1118, [2004 3949](https://fedlex.data.admin.ch/eli/oc/2004/563), [2007 1383](https://fedlex.data.admin.ch/eli/oc/2007/235)und [2013 1481](https://fedlex.data.admin.ch/eli/oc/2013/346). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: **1967** 814, 1120; **1968** 1476; **1970** 101; **1971** 1356; **1977** 911, 1657; **1982** 889, 2263; **1983** 165; **1985** 492, **1986** 322, 338, 921; **1989** 175; **1990** 1171; **1991** 1367; **1995** 1117; **2004** 3949; **2007** 1383; **2013** 148; **2023** 348. Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
-Schweiz**[^t-4]**
+Schweiz[^t-4]
 
 *Artikel 1.* Der Schweizerische Bundesrat erklärt hiemit, dass die von der Schweiz bewilligten Auslieferungen stets an die Bedingung geknüpft sind, dass der Verfolgte nicht vor ein Ausnahmegericht gestellt werden darf. Demzufolge behält sich die Schweiz das Recht vor, die Auslieferung abzulehnen,
 
@@ -496,7 +497,7 @@ In Artikel 27 Absatz 4 des Übereinkommens vorgesehene Vereinbarung betreffend d
 Die Vereinbarung ist per Notenaustausch zwischen den Niederlanden[^t-15] und folgenden Staaten geschlossen worden:
 
 <table>
-<tr><td>Staaten</td><td colspan="2">Notenaustausch vom</td><td colspan="2">Inkrafttreten</td></tr>
+<tr><th>Staaten</th><th colspan="2">Notenaustausch vom</th><th colspan="2">Inkrafttreten</th></tr>
 <tr><td>Dänemark</td><td>20. Januar/4. Februar</td><td>1994</td><td>1. Mai</td><td>1994</td></tr>
 <tr><td>Frankreich</td><td>30. Juli/2. Dezember</td><td>1993</td><td>1. März</td><td>1994</td></tr>
 <tr><td>Italien</td><td>8. Juni/21. Dezember</td><td>1993</td><td>30. Dezember</td><td>1993</td></tr>
