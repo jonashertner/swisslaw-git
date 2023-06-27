@@ -3,11 +3,11 @@ sr: "0.443.3"
 title: "Convention du Conseil de l'Europe du 30 janvier 2017 sur la coproduction cinématographique (révisée)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/442"
 language: fr
-version: 2021-02-11
+version: 2023-06-28
 adopted: 2017-01-30
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/442/20210211/fr/xml/fedlex-data-admin-ch-eli-cc-2019-442-20210211-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/442/20210211/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/442/20230628/fr/xml/fedlex-data-admin-ch-eli-cc-2019-442-20230628-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/442/20230628/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,11 +24,11 @@ Instrument de ratification déposé par la Suisse le 10 avril 2019
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> août 2019
 
-(Etat le 11 février 2021)
+(État le 28 juin 2023)
 
 Préambule
 
-Les États membres du Conseil de l’Europe et les autres États parties à la Convention culturelle européenne*[^ingress-1]* (STE n<sup>o</sup> 18), signataires de la présente Convention,
+Les États membres du Conseil de l’Europe et les autres États parties à la Convention culturelle européenne[^ingress-1] (STE n<sup>o</sup> 18), signataires de la présente Convention,
 
 considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres afin notamment de sauvegarder et de promouvoir les idéaux et les principes qui sont leur patrimoine commun,
 
@@ -418,37 +418,48 @@ Annexe II
 <tr><td></td><td>16</td></tr>
 </table>
 
-Champ d’application le 11 février 2021**[^t-1]**
+Champ d’application le 28 juin 2023[^t-1]
 
 <table>
-<tr><th>États parties</th><th>Ratification Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td>Arménie<sup>\*</sup></td><td>20 décembre</td><td>2020</td><td>1<sup>er</sup> février</td><td>2021</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Albanie\*</td><td>26 janvier</td><td>2023</td><td>1<sup>er</sup> mai</td><td>2023</td></tr>
+<tr><td>Arménie\*</td><td>20 décembre</td><td>2020</td><td>1<sup>er</sup> février</td><td>2021</td></tr>
+<tr><td>Autriche\*</td><td>3 août</td><td>2021</td><td>1<sup>er</sup> décembre</td><td>2021</td></tr>
+<tr><td>Belgique\*</td><td>22 novembre</td><td>2022</td><td>1<sup>er</sup> mars</td><td>2022</td></tr>
 <tr><td>Bulgarie</td><td>10 décembre</td><td>2019</td><td>1<sup>er</sup> avril</td><td>2020</td></tr>
 <tr><td>Croatie</td><td>28 septembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Danemark</td><td>25 janvier</td><td>2019</td><td>1<sup>er</sup> mai</td><td>2019</td></tr>
-<tr><td>Estonie</td><td>21 mai</td><td>2021</td><td>1<sup>er</sup> mai</td><td>2021</td></tr>
+<tr><td>Espagne\*</td><td>7 avril</td><td>2022</td><td>1<sup>er</sup> août</td><td>2022</td></tr>
+<tr><td>Estonie</td><td>21 janvier</td><td>2021</td><td>1<sup>er</sup> mai</td><td>2021</td></tr>
+<tr><td>Finlande\*</td><td>5 juillet</td><td>2022</td><td>1<sup>er</sup> novembre</td><td>2022</td></tr>
 <tr><td>Géorgie</td><td>13 mars</td><td>2019</td><td>1<sup>er</sup> juillet</td><td>2019</td></tr>
+<tr><td>Grèce\*</td><td>6 septembre</td><td>2022</td><td>1<sup>er</sup> janvier</td><td>2023</td></tr>
 <tr><td>Hongrie</td><td>10 septembre</td><td>2019</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Irlande\*</td><td>16 mai</td><td>2019 Si</td><td>1<sup>er</sup> septembre</td><td>2019</td></tr>
+<tr><td>Islande\*</td><td>17 novembre</td><td>2022</td><td>1<sup>er</sup> mars</td><td>2023</td></tr>
+<tr><td>Italie\*</td><td>8 février</td><td>2022</td><td>1<sup>er</sup> juin</td><td>2022</td></tr>
 <tr><td>Lettonie\*</td><td>17 avril</td><td>2019</td><td>1<sup>er</sup> août</td><td>2019</td></tr>
 <tr><td>Lituanie\*</td><td>26 septembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
-<tr><td>Luxembourg<sup>\*</sup></td><td>26 janvier</td><td>2021</td><td>1<sup>er</sup> mai</td><td>2021</td></tr>
-<tr><td>Macédoine du Nord<sup>\*</sup></td><td>19 juin</td><td>2020</td><td>1<sup>er</sup> octobre</td><td>2020</td></tr>
+<tr><td>Luxembourg\*</td><td>26 janvier</td><td>2021</td><td>1<sup>er</sup> mai</td><td>2021</td></tr>
+<tr><td>Macédoine du Nord\*</td><td>19 juin</td><td>2020</td><td>1<sup>er</sup> octobre</td><td>2020</td></tr>
 <tr><td>Malte</td><td>16 janvier</td><td>2018</td><td>1<sup>er</sup> mai</td><td>2018</td></tr>
 <tr><td>Monténégro</td><td>9 août</td><td>2019</td><td>1<sup>er</sup> décembre</td><td>2019</td></tr>
+<tr><td>Moldova\*</td><td>5 juin</td><td>2023</td><td>1<sup>er</sup> octobre</td><td>2023</td></tr>
 <tr><td>Norvège\*</td><td>3 mars</td><td>2017</td><td>1<sup>er</sup> octobre</td><td>2017</td></tr>
 <tr><td>Pays-Bas\*</td><td>24 août</td><td>2017</td><td>1<sup>er</sup> décembre</td><td>2017</td></tr>
 <tr><td>Pologne\*</td><td>18 avril</td><td>2019</td><td>1<sup>er</sup> août</td><td>2019</td></tr>
-<tr><td>République tchèque<sup>\*</sup></td><td>11 décembre</td><td>2020</td><td>1<sup>er</sup> avril</td><td>2021</td></tr>
+<tr><td>République tchèque\*</td><td>11 décembre</td><td>2020</td><td>1<sup>er</sup> avril</td><td>2021</td></tr>
+<tr><td>Roumanie\*</td><td>14 janvier</td><td>2022 A</td><td>1<sup>er</sup> mai</td><td>2022</td></tr>
+<tr><td>Royaume-Uni\*</td><td>18 juin</td><td>2021</td><td>1<sup>er</sup> octobre</td><td>2021</td></tr>
 <tr><td>Serbie</td><td>27 novembre</td><td>2018</td><td>1<sup>er</sup> mars</td><td>2019</td></tr>
 <tr><td>Slovaquie</td><td>29 juin</td><td>2017</td><td>1<sup>er</sup> octobre</td><td>2017</td></tr>
-<tr><td>Slovénie<sup>\*</sup></td><td>23 janvier</td><td>2020</td><td>1<sup>er</sup> mai</td><td>2020</td></tr>
+<tr><td>Slovénie\*</td><td>23 janvier</td><td>2020</td><td>1<sup>er</sup> mai</td><td>2020</td></tr>
 <tr><td>Suisse</td><td>10 avril</td><td>2019</td><td>1<sup>er</sup> août</td><td>2019</td></tr>
 <tr><td>Suède</td><td>3 mai</td><td>2017 Si</td><td>1<sup>er</sup> octobre</td><td>2017</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations (les déclarations concernant les autorités compétentes, conformément à l’art. 5 de la Convention, ne sont pas énumérées avec \* dans le présent champ d’application). Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations (les déclarations concernant les autorités compétentes, conformément à l’art. 5 de la Convention, ne sont pas énumérées avec \* dans le présent champ d’application). Les réserves et déclarations ne sont pas publiées au RO Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-1]: [RO 2019 2353](https://fedlex.data.admin.ch/eli/oc/2019/442); [2020 1799](https://fedlex.data.admin.ch/eli/oc/2020/360); [2021 99](https://fedlex.data.admin.ch/eli/oc/2021/99)Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-1]: [RO 2019 2353](https://fedlex.data.admin.ch/eli/oc/2019/442); [2020 1799](https://fedlex.data.admin.ch/eli/oc/2020/360); [2021 99](https://fedlex.data.admin.ch/eli/oc/2021/99); [2023 345](https://fedlex.data.admin.ch/eli/oc/2023/345)Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Autorité compétente de la Suisse:
 
