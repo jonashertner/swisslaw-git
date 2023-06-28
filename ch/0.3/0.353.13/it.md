@@ -3,11 +3,11 @@ sr: "0.353.13"
 title: Terzo Protocollo del 10 novembre 2010 addizionale alla Convenzione europea di estradizione
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/606"
 language: it
-version: 2019-05-17
+version: 2023-06-29
 adopted: 2010-11-10
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/606/20190517/it/xml/fedlex-data-admin-ch-eli-cc-2016-606-20190517-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/606/20190517/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/606/20230629/it/xml/fedlex-data-admin-ch-eli-cc-2016-606-20230629-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/606/20230629/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2016** 3583; FF **2015** 3113
 
 *Traduzione*
 
-Concluso a Strasburgo il 10 novembre 2010
+Concluso a Strasburgo il 10 novembre 2010 Approvato dall’Assemblea federale il 18 marzo 2016[^t-1] Strumento di ratifica depositato dalla Svizzera il 15 luglio 2016 Entrato in vigore per la Svizzera il 1° novembre 2016
 
-Approvato dall’Assemblea federale il 18 marzo 2016[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 15 luglio 2016
-
-Entrato in vigore per la Svizzera il 1° novembre 2016
-
-(Stato 17 maggio 2019)
+(Stato 29 giugno 2023)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 18 mar. 2016 ([RU 2016 3581](https://fedlex.data.admin.ch/eli/oc/2016/605)).
 
@@ -227,7 +221,7 @@ Il Segretario Generale del Consiglio d’Europa notificherà agli Stati membri d
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo. Fatto a Strasburgo, il 10 novembre 2010, in francese e in inglese, i due testi facendo ugualmente fede, in un solo esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne invierà copia certificata conforme a ciascuno degli Stati membri del Consiglio d’Europa e a ciascuno degli Stati non membri aderenti alla Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 17 maggio 2019**[^t-2]**
+Campo d’applicazione il 29 giugno 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -237,14 +231,17 @@ Campo d’applicazione il 17 maggio 2019**[^t-2]**
 <tr><td>Bosnia e Erzegovina</td><td>1° dicembre</td><td>2014</td><td>1° aprile</td><td>2015</td></tr>
 <tr><td>Ceca, Repubblica<sup>\*</sup></td><td>17 gennaio</td><td>2013</td><td>1° maggio</td><td>2013</td></tr>
 <tr><td>Cipro<sup>\*</sup></td><td>7 febbraio</td><td>2014</td><td>1° giugno</td><td>2014</td></tr>
+<tr><td>Francia\*</td><td>10 giugno</td><td>2021</td><td>1° ottobre</td><td>2021</td></tr>
 <tr><td>Germania<sup>\*</sup></td><td>25 maggio</td><td>2016</td><td>1° settembre</td><td>2016</td></tr>
+<tr><td>Italia\*</td><td>30 agosto</td><td>2019</td><td>1° dicembre</td><td>2019</td></tr>
 <tr><td>Lettonia<sup>\*</sup></td><td>26 gennaio</td><td>2012</td><td>1° maggio</td><td>2012</td></tr>
 <tr><td>Lituania<sup>\*</sup></td><td>2 gennaio</td><td>2017</td><td>1° maggio</td><td>2017</td></tr>
 <tr><td>Macedonia del Nord<sup>\*</sup></td><td>21 novembre</td><td>2013</td><td>1° marzo</td><td>2014</td></tr>
 <tr><td>Moldova<sup>\*</sup></td><td>29 gennaio</td><td>2018</td><td>1° maggio</td><td>2018</td></tr>
 <tr><td>Paesi Bassi<sup>\*</sup></td><td>6 luglio</td><td>2012</td><td>1° novembre</td><td>2012</td></tr>
 <tr><td>Portogallo</td><td>8 aprile</td><td>2019</td><td>1° agosto</td><td>2019</td></tr>
-<tr><td>Regno Unito</td><td>23 settembre</td><td>2014</td><td>1° gennaio</td><td>2015</td></tr>
+<tr><td>Regno Unito\*</td><td>23 settembre</td><td>2014</td><td>1° gennaio</td><td>2015</td></tr>
+<tr><td>Gibilterra</td><td>29 luglio</td><td>2019</td><td>27 ottobre</td><td>2019</td></tr>
 <tr><td>Romania<sup>\*</sup></td><td>18 settembre</td><td>2017</td><td>1° gennaio</td><td>2018</td></tr>
 <tr><td>Serbia</td><td>1° giugno</td><td>2011</td><td>1° maggio</td><td>2012</td></tr>
 <tr><td>Slovenia<sup>\*</sup></td><td>11 aprile</td><td>2014</td><td>1° agosto</td><td>2014</td></tr>
@@ -252,10 +249,10 @@ Campo d’applicazione il 17 maggio 2019**[^t-2]**
 <tr><td>Svizzera<sup>\*</sup></td><td>15 luglio</td><td>2016</td><td>1° novembre</td><td>2016</td></tr>
 <tr><td>Turchia<sup>\*</sup></td><td>11 luglio</td><td>2016</td><td>1° novembre</td><td>2016</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>13 novembre</td><td>2018</td><td>1° marzo</td><td>2019</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Esplora &gt; Ufficio Trattati &gt; Lista completa oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://[conventions](https://www.coe.int/it/web/conventions/).coe.int Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. [tab]</td></tr>
 </table>
 
-[^t-2]: [RU 2016 3583](https://fedlex.data.admin.ch/eli/oc/2016/606)e [2019 1589](https://fedlex.data.admin.ch/eli/oc/2019/302). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2016 3583](https://fedlex.data.admin.ch/eli/oc/2016/606); [2019 1589](https://fedlex.data.admin.ch/eli/oc/2019/302); [2023 344](https://fedlex.data.admin.ch/eli/oc/2023/344)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
 
 Dichiarazioni
 

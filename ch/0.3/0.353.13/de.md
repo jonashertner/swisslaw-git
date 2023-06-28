@@ -3,11 +3,11 @@ sr: "0.353.13"
 title: Drittes Zusatzprotokoll vom 10. November 2010 zum Europäischen Auslieferungsübereinkommen
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/606"
 language: de
-version: 2019-05-17
+version: 2023-06-29
 adopted: 2010-11-10
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/606/20190517/de/xml/fedlex-data-admin-ch-eli-cc-2016-606-20190517-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/606/20190517/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/606/20230629/de/xml/fedlex-data-admin-ch-eli-cc-2016-606-20230629-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/606/20230629/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 15. Juli 2016
 
 In Kraft getreten für die Schweiz am 1. November 2016
 
-(Stand am 17. Mai 2019)
+(Stand am 29. Juni 2023)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 18. März 2016 ([AS 2016 3581](https://fedlex.data.admin.ch/eli/oc/2016/605))
 
@@ -227,7 +227,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Strassburg am 10. November 2010 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats und den Nichtmitgliedstaaten, die dem Übereinkommen beigetreten sind, beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 17. Mai 2019**[^t-2]**
+Geltungsbereich am 29. Juni 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -235,6 +235,8 @@ Geltungsbereich am 17. Mai 2019**[^t-2]**
 <tr><td>Aserbaidschan\*</td><td>8. Januar</td><td>2014</td><td>1. Mai</td><td>2014</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>1. Dezember</td><td>2014</td><td>1. April</td><td>2015</td></tr>
 <tr><td>Deutschland\*</td><td>25. Mai</td><td>2016</td><td>1. September</td><td>2016</td></tr>
+<tr><td>Frankreich\*</td><td>10. Juni</td><td>2021</td><td>1. Oktober</td><td>2021</td></tr>
+<tr><td>Italien\*</td><td>30. August</td><td>2019</td><td>1. Dezember</td><td>2019</td></tr>
 <tr><td>Lettland\*</td><td>26. Januar</td><td>2012</td><td>1. Mai</td><td>2012</td></tr>
 <tr><td>Litauen\*</td><td>2. Januar</td><td>2017</td><td>1. Mai</td><td>2017</td></tr>
 <tr><td>Moldau\*</td><td>29. Januar</td><td>2018</td><td>1. Mai</td><td>2018</td></tr>
@@ -250,12 +252,13 @@ Geltungsbereich am 17. Mai 2019**[^t-2]**
 <tr><td>Tschechische Republik\*</td><td>17. Januar</td><td>2013</td><td>1. Mai</td><td>2013</td></tr>
 <tr><td>Türkei\*</td><td>11. Juli</td><td>2016</td><td>1. November</td><td>2016</td></tr>
 <tr><td>Ukraine\*</td><td>13. November</td><td>2018</td><td>1. März</td><td>2019</td></tr>
-<tr><td>Vereinigtes Königreich</td><td>23. September</td><td>2014</td><td>1. Januar</td><td>2015</td></tr>
+<tr><td>Vereinigtes Königreich\*</td><td>23. September</td><td>2014</td><td>1. Januar</td><td>2015</td></tr>
+<tr><td>Gibraltar</td><td>29. Juli</td><td>2019</td><td>27. Oktober</td><td>2019</td></tr>
 <tr><td>Zypern\*</td><td>7. Februar</td><td>2014</td><td>1. Juni</td><td>2014</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahem jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int/de &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2016 3583](https://fedlex.data.admin.ch/eli/oc/2016/606), [2019 1589](https://fedlex.data.admin.ch/eli/oc/2019/302). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2016 3583](https://fedlex.data.admin.ch/eli/oc/2016/606); [2019 1589](https://fedlex.data.admin.ch/eli/oc/2019/302); [2023 344](https://fedlex.data.admin.ch/eli/oc/2023/344). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärungen
 

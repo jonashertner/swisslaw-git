@@ -3,11 +3,11 @@ sr: "0.353.13"
 title: "Troisième Protocole du 10 novembre 2010 additionnel à la Convention européenne d'extradition"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/606"
 language: fr
-version: 2019-05-17
+version: 2023-06-29
 adopted: 2010-11-10
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/606/20190517/fr/xml/fedlex-data-admin-ch-eli-cc-2016-606-20190517-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/606/20190517/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/606/20230629/fr/xml/fedlex-data-admin-ch-eli-cc-2016-606-20230629-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/606/20230629/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,11 +26,11 @@ Instrument de ratification déposé par la Suisse le 15 juillet 2016
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> novembre 2016
 
-(Etat le 17 mai 2019)
+(État le 29 juin 2023)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 18 mars 2016 ([RO 2016 3581](https://fedlex.data.admin.ch/eli/oc/2016/605)).
 
-Les Etats membres du Conseil de l’Europe, signataires du présent Protocole,
+Les États membres du Conseil de l’Europe, signataires du présent Protocole,
 
 considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres;
 
@@ -85,19 +85,19 @@ Lorsqu’une personne recherchée aux fins d’extradition est arrêtée conform
 
 <sup>1</sup> Le consentement de la personne recherchée et, le cas échéant, sa renonciation expresse au bénéfice de la règle de la spécialité sont donnés devant les autorités judiciaires compétentes de la Partie requise conformément au droit de celle-ci.
 
-<sup>2</sup> Chaque Partie adopte les mesures nécessaires pour que le consentement et, le cas échéant, la renonciation visés au par. 1 soient établis de manière à montrer que la personne concernée les a exprimés volontairement et en étant pleinement consciente des conséquences juridiques qui en résultent. A cette fin, la personne recherchée a le droit de se faire assister d’un conseil. Si nécessaire, la Partie requise veille à ce que la personne recherchée bénéficie de l’assistance d’un interprète.
+<sup>2</sup> Chaque Partie adopte les mesures nécessaires pour que le consentement et, le cas échéant, la renonciation visés au par. 1 soient établis de manière à montrer que la personne concernée les a exprimés volontairement et en étant pleinement consciente des conséquences juridiques qui en résultent. À cette fin, la personne recherchée a le droit de se faire assister d’un conseil. Si nécessaire, la Partie requise veille à ce que la personne recherchée bénéficie de l’assistance d’un interprète.
 
 <sup>3</sup> Le consentement et, le cas échéant, la renonciation visés au par. 1 sont consignés dans un procès-verbal conformément au droit de la Partie requise.
 
 <sup>4</sup> Sous réserve du par. 5, le consentement et, le cas échéant, la renonciation visés au par. 1 sont irrévocables.
 
-<sup>5</sup> Tout Etat peut, au moment de la signature ou lors du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ou à tout moment ultérieur, déclarer que le consentement et, le cas échéant, la renonciation au bénéfice de la règle de la spécialité peuvent être révoqués. Le consentement peut être révoqué jusqu’à ce que la décision de la Partie requise relative à l’extradition selon la procédure simplifiée ait acquis un caractère définitif. Dans ce cas, la période comprise entre la notification du consentement et celle de sa révocation n’est pas prise en considération pour la détermination des délais prévus à l’art. 16, par. 4, de la Convention. La renonciation au bénéfice de la règle de la spécialité peut être révoquée jusqu’à la remise de la personne concernée. Toute révocation du consentement à l’extradition ou de la renonciation au bénéfice de la règle de la spécialité est consignée conformément au droit de la Partie requise et immédiatement notifiée à la Partie requérante.
+<sup>5</sup> Tout État peut, au moment de la signature ou lors du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ou à tout moment ultérieur, déclarer que le consentement et, le cas échéant, la renonciation au bénéfice de la règle de la spécialité peuvent être révoqués. Le consentement peut être révoqué jusqu’à ce que la décision de la Partie requise relative à l’extradition selon la procédure simplifiée ait acquis un caractère définitif. Dans ce cas, la période comprise entre la notification du consentement et celle de sa révocation n’est pas prise en considération pour la détermination des délais prévus à l’art. 16, par. 4, de la Convention. La renonciation au bénéfice de la règle de la spécialité peut être révoquée jusqu’à la remise de la personne concernée. Toute révocation du consentement à l’extradition ou de la renonciation au bénéfice de la règle de la spécialité est consignée conformément au droit de la Partie requise et immédiatement notifiée à la Partie requérante.
 
 #### Art. 5
 
 **Renonciation au bénéfice de la règle de la spécialité**
 
-Chaque Etat peut déclarer, au moment de la signature ou lors du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ou à tout moment ultérieur, que les règles énoncées à l’art. 14 de la Convention ne sont pas applicables lorsque la personne extradée par cet Etat, conformément à l’art. 4 du présent Protocole:
+Chaque État peut déclarer, au moment de la signature ou lors du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ou à tout moment ultérieur, que les règles énoncées à l’art. 14 de la Convention ne sont pas applicables lorsque la personne extradée par cet État, conformément à l’art. 4 du présent Protocole:
 
 - a) consent à l’extradition, ou
 - b) ayant consenti à l’extradition, renonce expressément au bénéfice de la règle de la spécialité.
@@ -161,29 +161,29 @@ Le Comité européen pour les problèmes criminels du Conseil de l’Europe sera
 
 **Signature et entrée en vigueur**
 
-<sup>1</sup> Le présent Protocole est ouvert à la signature des Etats membres du Conseil de l’Europe qui sont parties à la Convention ou qui l’ont signée. Il est soumis à ratification, acceptation ou approbation. Un signataire ne peut ratifier, accepter ou approuver le présent Protocole sans avoir antérieurement ou simultanément ratifié, accepté ou approuvé la Convention. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
+<sup>1</sup> Le présent Protocole est ouvert à la signature des États membres du Conseil de l’Europe qui sont parties à la Convention ou qui l’ont signée. Il est soumis à ratification, acceptation ou approbation. Un signataire ne peut ratifier, accepter ou approuver le présent Protocole sans avoir antérieurement ou simultanément ratifié, accepté ou approuvé la Convention. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
 
 <sup>2</sup> Le présent Protocole entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après le dépôt du troisième instrument de ratification, d’acceptation ou d’approbation.
 
-<sup>3</sup> Pour tout Etat signataire qui déposera ultérieurement son instrument de ratification, d’acceptation ou d’approbation, le présent Protocole entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de dépôt.
+<sup>3</sup> Pour tout État signataire qui déposera ultérieurement son instrument de ratification, d’acceptation ou d’approbation, le présent Protocole entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de dépôt.
 
 #### Art. 15
 
 **Adhésion**
 
-<sup>1</sup> Tout Etat non membre qui a adhéré à la Convention pourra adhérer au présent Protocole après son entrée en vigueur.
+<sup>1</sup> Tout État non membre qui a adhéré à la Convention pourra adhérer au présent Protocole après son entrée en vigueur.
 
 <sup>2</sup> L’adhésion s’effectuera par le dépôt d’un instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
 
-<sup>3</sup> Pour tout Etat adhérent, le Protocole entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument d’adhésion.
+<sup>3</sup> Pour tout État adhérent, le Protocole entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument d’adhésion.
 
 #### Art. 16
 
 **Application territoriale**
 
-<sup>1</sup> Tout Etat peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera le présent Protocole.
+<sup>1</sup> Tout État peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera le présent Protocole.
 
-<sup>2</sup> Tout Etat peut, à tout moment ultérieur, par une déclaration adressée au Secrétaire Général du Conseil de l’Europe, étendre l’application du présent Protocole à tout autre territoire désigné dans cette déclaration. Le Protocole entrera en vigueur à l’égard de ce territoire le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de réception de la déclaration par le Secrétaire Général.
+<sup>2</sup> Tout État peut, à tout moment ultérieur, par une déclaration adressée au Secrétaire Général du Conseil de l’Europe, étendre l’application du présent Protocole à tout autre territoire désigné dans cette déclaration. Le Protocole entrera en vigueur à l’égard de ce territoire le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de réception de la déclaration par le Secrétaire Général.
 
 <sup>3</sup> Toute déclaration faite en vertu des deux paragraphes précédents pourra être retirée, en ce qui concerne tout territoire désigné dans cette déclaration, par notification adressée au Secrétaire Général du Conseil de l’Europe. Le retrait prendra effet le premier jour du mois qui suit l’expiration d’une période de six mois après la date de réception de la notification par le Secrétaire Général.
 
@@ -191,13 +191,13 @@ Le Comité européen pour les problèmes criminels du Conseil de l’Europe sera
 
 **Déclarations et réserves**
 
-<sup>1</sup> Toute réserve faite par un Etat à l’égard d’une disposition de la Convention ou de ses deux Protocoles additionnels s’applique également au présent Protocole, à moins que cet Etat n’exprime l’intention contraire au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion. Il en est de même pour toute déclaration faite à l’égard ou en vertu d’une disposition de la Convention ou de ses deux Protocoles additionnels.
+<sup>1</sup> Toute réserve faite par un État à l’égard d’une disposition de la Convention ou de ses deux Protocoles additionnels s’applique également au présent Protocole, à moins que cet État n’exprime l’intention contraire au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion. Il en est de même pour toute déclaration faite à l’égard ou en vertu d’une disposition de la Convention ou de ses deux Protocoles additionnels.
 
-<sup>2</sup> Tout Etat peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, déclarer qu’il se réserve le droit de ne pas accepter, en tout ou en partie, l’art. 2, par. 1, du présent Protocole. Aucune autre réserve n’est admise.
+<sup>2</sup> Tout État peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, déclarer qu’il se réserve le droit de ne pas accepter, en tout ou en partie, l’art. 2, par. 1, du présent Protocole. Aucune autre réserve n’est admise.
 
-<sup>3</sup> Tout Etat peut, au moment de la signature ou lors du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ou à tout moment ultérieur, faire les déclarations prévues à l’art. 4, par. 5, et à l’art. 5 du présent Protocole.
+<sup>3</sup> Tout État peut, au moment de la signature ou lors du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ou à tout moment ultérieur, faire les déclarations prévues à l’art. 4, par. 5, et à l’art. 5 du présent Protocole.
 
-<sup>4</sup> Tout Etat peut retirer, en tout ou partie, une réserve ou une déclaration qu’il a faite conformément au présent Protocole, au moyen d’une déclaration adressée au Secrétaire Général du Conseil de l’Europe, qui prendra effet à la date de sa réception.
+<sup>4</sup> Tout État peut retirer, en tout ou partie, une réserve ou une déclaration qu’il a faite conformément au présent Protocole, au moyen d’une déclaration adressée au Secrétaire Général du Conseil de l’Europe, qui prendra effet à la date de sa réception.
 
 <sup>5</sup> Toute Partie qui a formulé une réserve à l’art. 2, par. 1, du présent Protocole, en application des dispositions du par. 2 du présent article ne peut prétendre à l’application de ce paragraphe par une autre Partie. Elle peut cependant, si la réserve est partielle ou conditionnelle, prétendre à l’application de ce paragraphe dans la mesure où elle l’a acceptée.
 
@@ -215,7 +215,7 @@ Le Comité européen pour les problèmes criminels du Conseil de l’Europe sera
 
 **Notifications**
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil de l’Europe et à tout Etat ayant adhéré au présent Protocole:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres du Conseil de l’Europe et à tout État ayant adhéré au présent Protocole:
 
 - a) toute signature;
 - b) le dépôt de tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
@@ -225,37 +225,40 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du
 - f) toute notification reçue en application des dispositions de l’art. 18 et la date à laquelle la dénonciation prendra effet;
 - g) tout autre acte, déclaration, notification ou communication ayant trait au présent Protocole.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Strasbourg, le 10 novembre 2010, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des Etats membres du Conseil de l’Europe ainsi qu’à chaque Etat non membre ayant adhéré à la Convention. (Suivent les signatures)
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Strasbourg, le 10 novembre 2010, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe ainsi qu’à chaque État non membre ayant adhéré à la Convention. (Suivent les signatures)
 
-Champ d’application le 17 mai 2019**[^t-2]**
+Champ d’application le 29 juin 2023[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>9 septembre</td><td>2011</td><td>1<sup>er</sup> mai</td><td>2012</td></tr>
-<tr><td>Allemagne<sup>\*</sup></td><td>25 mai</td><td>2016</td><td>1<sup>er</sup> septembre</td><td>2016</td></tr>
-<tr><td>Autriche<sup>\*</sup></td><td>10 avril</td><td>2015</td><td>1<sup>er</sup> août</td><td>2015</td></tr>
-<tr><td>Azerbaïdjan<sup>\*</sup></td><td>8 janvier</td><td>2014</td><td>1<sup>er</sup> mai</td><td>2014</td></tr>
+<tr><td>Allemagne\*</td><td>25 mai</td><td>2016</td><td>1<sup>er</sup> septembre</td><td>2016</td></tr>
+<tr><td>Autriche\*</td><td>10 avril</td><td>2015</td><td>1<sup>er</sup> août</td><td>2015</td></tr>
+<tr><td>Azerbaïdjan\*</td><td>8 janvier</td><td>2014</td><td>1<sup>er</sup> mai</td><td>2014</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>1<sup>er</sup> décembre</td><td>2014</td><td>1<sup>er</sup> avril</td><td>2015</td></tr>
-<tr><td>Chypre<sup>\*</sup></td><td>7 février</td><td>2014</td><td>1<sup>er</sup> juin</td><td>2014</td></tr>
-<tr><td>Espagne<sup>\*</sup></td><td>18 décembre</td><td>2014</td><td>1<sup>er</sup> avril</td><td>2015</td></tr>
-<tr><td>Lettonie<sup>\*</sup></td><td>26 janvier</td><td>2012</td><td>1<sup>er</sup> mai</td><td>2012</td></tr>
-<tr><td>Lituanie<sup>\*</sup></td><td>2 janvier</td><td>2017</td><td>1<sup>er</sup> mai</td><td>2017</td></tr>
-<tr><td>Macédoine du Nord<sup>\*</sup></td><td>21 novembre</td><td>2013</td><td>1<sup>er</sup> mars</td><td>2014</td></tr>
-<tr><td>Moldova<sup>\*</sup></td><td>29 janvier</td><td>2018</td><td>1<sup>er</sup> mai</td><td>2018</td></tr>
-<tr><td>Pays-Bas<sup>\*</sup></td><td>6 juillet</td><td>2012</td><td>1<sup>er</sup> novembre</td><td>2012</td></tr>
+<tr><td>Chypre\*</td><td>7 février</td><td>2014</td><td>1<sup>er</sup> juin</td><td>2014</td></tr>
+<tr><td>Espagne\*</td><td>18 décembre</td><td>2014</td><td>1<sup>er</sup> avril</td><td>2015</td></tr>
+<tr><td>France\*</td><td>10 juin</td><td>2021</td><td>1<sup>er</sup> octobre</td><td>2021</td></tr>
+<tr><td>Italie\*</td><td>30 août</td><td>2019</td><td>1<sup>er</sup> décembre</td><td>2019</td></tr>
+<tr><td>Lettonie\*</td><td>26 janvier</td><td>2012</td><td>1<sup>er</sup> mai</td><td>2012</td></tr>
+<tr><td>Lituanie\*</td><td>2 janvier</td><td>2017</td><td>1<sup>er</sup> mai</td><td>2017</td></tr>
+<tr><td>Macédoine du Nord\*</td><td>21 novembre</td><td>2013</td><td>1<sup>er</sup> mars</td><td>2014</td></tr>
+<tr><td>Moldova\*</td><td>29 janvier</td><td>2018</td><td>1<sup>er</sup> mai</td><td>2018</td></tr>
+<tr><td>Pays-Bas\*</td><td>6 juillet</td><td>2012</td><td>1<sup>er</sup> novembre</td><td>2012</td></tr>
 <tr><td>Portugal</td><td>8 avril</td><td>2019</td><td>1<sup>er</sup> août</td><td>2019</td></tr>
-<tr><td>Roumanie<sup>\*</sup></td><td>18 septembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2018</td></tr>
-<tr><td>Royaume-Uni</td><td>23 septembre</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2015</td></tr>
-<tr><td>République tchèque<sup>\*</sup></td><td>17 janvier</td><td>2013</td><td>1<sup>er</sup> mai</td><td>2013</td></tr>
+<tr><td>Roumanie\*</td><td>18 septembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2018</td></tr>
+<tr><td>Royaume-Uni\*</td><td>23 septembre</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2015</td></tr>
+<tr><td>Gibraltar</td><td>29 juillet</td><td>2019</td><td>27 octobre</td><td>2019</td></tr>
+<tr><td>République tchèque\*</td><td>17 janvier</td><td>2013</td><td>1<sup>er</sup> mai</td><td>2013</td></tr>
 <tr><td>Serbie</td><td>1<sup>er</sup> juin</td><td>2011</td><td>1<sup>er</sup> mai</td><td>2012</td></tr>
-<tr><td>Slovénie<sup>\*</sup></td><td>11 avril</td><td>2014</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
-<tr><td>Suisse<sup>\*</sup></td><td>15 juillet</td><td>2016</td><td>1<sup>er</sup> novembre</td><td>2016</td></tr>
-<tr><td>Turquie<sup>\*</sup></td><td>11 juillet</td><td>2016</td><td>1<sup>er</sup> novembre</td><td>2016</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>13 novembre</td><td>2018</td><td>1<sup>er</sup> mars</td><td>2019</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td>Slovénie\*</td><td>11 avril</td><td>2014</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
+<tr><td>Suisse\*</td><td>15 juillet</td><td>2016</td><td>1<sup>er</sup> novembre</td><td>2016</td></tr>
+<tr><td>Turquie\*</td><td>11 juillet</td><td>2016</td><td>1<sup>er</sup> novembre</td><td>2016</td></tr>
+<tr><td>Ukraine\*</td><td>13 novembre</td><td>2018</td><td>1<sup>er</sup> mars</td><td>2019</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2016 3583](https://fedlex.data.admin.ch/eli/oc/2016/606), [2019 1589](https://fedlex.data.admin.ch/eli/oc/2019/302). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2016 3583](https://fedlex.data.admin.ch/eli/oc/2016/606); [2019 1589](https://fedlex.data.admin.ch/eli/oc/2019/302); [2023 344](https://fedlex.data.admin.ch/eli/oc/2023/344). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclarations
 
