@@ -3,11 +3,11 @@ sr: "0.440.2"
 title: Rahmenübereinkommen vom 27. Oktober 2005 des Europarats über den Wert des Kulturerbes für die Gesellschaft
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/50"
 language: de
-version: 2020-03-01
+version: 2023-06-29
 adopted: 2005-10-27
 in_force: 2020-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/50/20200301/de/xml/fedlex-data-admin-ch-eli-cc-2020-50-20200301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/50/20200301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/50/20230629/de/xml/fedlex-data-admin-ch-eli-cc-2020-50-20230629-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/50/20230629/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 7. November 2019
 
 In Kraft getreten für die Schweiz am 1. März 2020
 
-(Stand am 1. März 2020)
+(Stand am 29. Juni 2023)
 
 [^t-1]: [AS 2020 269](https://fedlex.data.admin.ch/eli/oc/2020/49)
 
@@ -325,14 +325,17 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Faro am 27. Oktober 2005 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats sowie jedem Staat und der Europäischen Gemeinschaft, sofern sie zum Beitritt zu diesem Übereinkommen eingeladen worden sind, eine beglaubigte Abschrift. *(Es folgen die Unterschriften)*
 
-Geltungsbereich am 17. Januar 2020**[^t-2]**
+Geltungsbereich am 29. Juni 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Armenien</td><td>22. August</td><td>2012</td><td>1. Dezember</td><td>2012</td></tr>
+<tr><td>Belgien</td><td>13. Mai</td><td>2022</td><td>1. September</td><td>2022</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>30. April</td><td>2009</td><td>1. Juni</td><td>2011</td></tr>
+<tr><td>Estland</td><td>15. April</td><td>2021</td><td>1. August</td><td>2021</td></tr>
 <tr><td>Finnland</td><td>31. Mai</td><td>2018</td><td>1. September</td><td>2018</td></tr>
 <tr><td>Georgien</td><td>4. Februar</td><td>2011</td><td>1. Juni</td><td>2011</td></tr>
+<tr><td>Italien</td><td>15. Dezember</td><td>2020</td><td>1. April</td><td>2021</td></tr>
 <tr><td>Kroatien</td><td>6. Juni</td><td>2007</td><td>1. Juni</td><td>2011</td></tr>
 <tr><td>Lettland</td><td>26. April</td><td>2006</td><td>1. Juni</td><td>2011</td></tr>
 <tr><td>Luxemburg</td><td>18. Mai</td><td>2011</td><td>1. September</td><td>2011</td></tr>
@@ -341,14 +344,16 @@ Geltungsbereich am 17. Januar 2020**[^t-2]**
 <tr><td>Nordmazedonien</td><td>8. Juli</td><td>2011</td><td>1. November</td><td>2011</td></tr>
 <tr><td>Norwegen</td><td>27. Oktober</td><td>2008</td><td>1. Juni</td><td>2011</td></tr>
 <tr><td>Österreich</td><td>23. Januar</td><td>2015</td><td>1. Mai</td><td>2015</td></tr>
+<tr><td>Polen</td><td>29. November</td><td>2022</td><td>1. März</td><td>2023</td></tr>
 <tr><td>Portugal</td><td>28. August</td><td>2009</td><td>1. Juni</td><td>2011</td></tr>
 <tr><td>Schweiz</td><td>7. November</td><td>2019</td><td>1. März</td><td>2020</td></tr>
 <tr><td>Serbien</td><td>29. Juli</td><td>2010</td><td>1. Juni</td><td>2011</td></tr>
 <tr><td>Slowakei</td><td>16. August</td><td>2013</td><td>1. Dezember</td><td>2013</td></tr>
 <tr><td>Slowenien</td><td>17. September</td><td>2008</td><td>1. Juni</td><td>2011</td></tr>
+<tr><td>Polen</td><td>29. November</td><td>2022</td><td>1. März</td><td>2023</td></tr>
 <tr><td>Ukraine</td><td>9. Januar</td><td>2014</td><td>1. Mai</td><td>2014</td></tr>
 <tr><td>Ungarn</td><td>27. November</td><td>2012</td><td>1. März</td><td>2013</td></tr>
 <tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme der jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2020 271](https://fedlex.data.admin.ch/eli/oc/2020/50); [2023 347](https://fedlex.data.admin.ch/eli/oc/2023/347). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

@@ -3,11 +3,11 @@ sr: "0.440.2"
 title: "Convention-cadre du 27 octobre 2005 du Conseil de l'Europe sur la valeur du patrimoine culturel pour la société"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/50"
 language: fr
-version: 2020-03-01
+version: 2023-06-29
 adopted: 2005-10-27
 in_force: 2020-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/50/20200301/fr/xml/fedlex-data-admin-ch-eli-cc-2020-50-20200301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/50/20200301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/50/20230629/fr/xml/fedlex-data-admin-ch-eli-cc-2020-50-20230629-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/50/20230629/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 7 novembre 2019
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> mars 2020
 
-(Etat le 1<sup>er</sup> mars 2020)
+(État le 29 juin 2023)
 
 [^t-1]: [RO 2020 269](https://fedlex.data.admin.ch/eli/oc/2020/49)
 
@@ -34,21 +34,21 @@ Entrée en vigueur pour la Suisse le 1<sup>er</sup> mars 2020
 
 Les États membres du Conseil de l’Europe, signataires de la présente Convention,
 
-considérant que l’un des buts du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres, afin de sauvegarder et de promouvoir les idéaux et les principes fondés sur le respect des droits de l’homme, de la démocratie et de l’État de droit, qui sont leur patrimoine commun;
+considérant que l’un des buts du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres, afin de sauvegarder et de promouvoir les idéaux et les principes fondés sur le respect des droits de l’homme, de la démocratie et de l’État de droit, qui sont leur patrimoine commun,
 
-reconnaissant la nécessité de placer la personne et les valeurs humaines au centre d’un concept élargi et transversal du patrimoine culturel;
+reconnaissant la nécessité de placer la personne et les valeurs humaines au centre d’un concept élargi et transversal du patrimoine culturel,
 
-mettant en exergue la valeur et le potentiel du patrimoine culturel bien géré en tant que ressource de développement durable et de qualité de la vie dans une société en constante évolution;
+mettant en exergue la valeur et le potentiel du patrimoine culturel bien géré en tant que ressource de développement durable et de qualité de la vie dans une société en constante évolution,
 
-reconnaissant que toute personne a le droit, tout en respectant les droits et libertés d’autrui, de s’impliquer dans le patrimoine culturel de son choix comme un aspect du droit de prendre librement part à la vie culturelle consacré par la Déclaration universelle des droits de l’homme des Nations Unies (1948) et garanti par le Pacte international relatif aux droits économiques, sociaux et culturels (1966)[^ingress-1];
+reconnaissant que toute personne a le droit, tout en respectant les droits et libertés d’autrui, de s’impliquer dans le patrimoine culturel de son choix comme un aspect du droit de prendre librement part à la vie culturelle consacré par la Déclaration universelle des droits de l’homme des Nations Unies (1948) et garanti par le Pacte international relatif aux droits économiques, sociaux et culturels (1966)[^ingress-1],
 
-convaincus du besoin d’impliquer chacun dans le processus continu de définition et de gestion du patrimoine culturel;
+convaincus du besoin d’impliquer chacun dans le processus continu de définition et de gestion du patrimoine culturel,
 
-convaincus du bien-fondé des politiques du patrimoine et des initiatives pédagogiques qui traitent équitablement tous les patrimoines culturels et promeuvent ainsi le dialogue entre les cultures et entre les religions;
+convaincus du bien-fondé des politiques du patrimoine et des initiatives pédagogiques qui traitent équitablement tous les patrimoines culturels et promeuvent ainsi le dialogue entre les cultures et entre les religions,
 
-se référant aux divers instruments du Conseil de l’Europe, en particulier la Convention culturelle européenne (1954)[^ingress-2], la Convention pour la sauvegarde du patrimoine architectural de l’Europe (1985)[^ingress-3], la Convention européenne pour la protection du patrimoine archéologique (1992, révisée)[^ingress-4] et la Convention européenne du paysage (2000)[^ingress-5];
+se référant aux divers instruments du Conseil de l’Europe, en particulier la Convention culturelle européenne (1954)[^ingress-2], la Convention pour la sauvegarde du patrimoine architectural de l’Europe (1985)[^ingress-3], la Convention européenne pour la protection du patrimoine archéologique (1992, révisée)[^ingress-4] et la Convention européenne du paysage (2000)[^ingress-5],
 
-certains de l’intérêt existant à créer un cadre paneuropéen de coopération qui vienne favoriser le processus dynamique de mise en application effective de ces principes;
+certains de l’intérêt existant à créer un cadre paneuropéen de coopération qui vienne favoriser le processus dynamique de mise en application effective de ces principes,
 
 sont convenus de ce qui suit:
 
@@ -325,30 +325,35 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres d
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Faro, le 27 octobre 2005, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe et à tout État ou la Communauté européenne invité à adhérer à celle-ci. *(Suivent les signatures)*
 
-Champ d’application le 17 janvier 2020**[^t-2]**
+Champ d’application le 29 juin 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Arménie</td><td>22 août</td><td>2012</td><td>1<sup>er</sup> décembre</td><td>2012</td></tr>
 <tr><td>Autriche</td><td>23 janvier</td><td>2015</td><td>1<sup>er</sup> mai</td><td>2015</td></tr>
+<tr><td>Belgique</td><td>13 mai</td><td>2022</td><td>1<sup>er</sup> septembre</td><td>2022</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>30 avril</td><td>2009</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
 <tr><td>Croatie</td><td>6 juin</td><td>2007</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
+<tr><td>Espagne\*</td><td>7 avril</td><td>2022</td><td>1<sup>er</sup> août</td><td>2022</td></tr>
+<tr><td>Estonie</td><td>15 avril</td><td>2021</td><td>1<sup>er</sup> août</td><td>2021</td></tr>
 <tr><td>Finlande</td><td>31 mai</td><td>2018</td><td>1<sup>er</sup> septembre</td><td>2018</td></tr>
 <tr><td>Géorgie</td><td>4 février</td><td>2011</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
 <tr><td>Hongrie</td><td>27 novembre</td><td>2012</td><td>1<sup>er</sup> mars</td><td>2013</td></tr>
+<tr><td>Italie</td><td>15 décembre</td><td>2020</td><td>1<sup>er</sup> avril</td><td>2021</td></tr>
 <tr><td>Lettonie</td><td>26 avril</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
 <tr><td>Luxembourg</td><td>18 mai</td><td>2011</td><td>1<sup>er</sup> septembre</td><td>2011</td></tr>
 <tr><td>Macédoine du Nord</td><td>8 juillet</td><td>2011</td><td>1<sup>er</sup> novembre</td><td>2011</td></tr>
 <tr><td>Moldova\*</td><td>1<sup>er</sup> décembre</td><td>2008</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
 <tr><td>Monténégro</td><td>11 mars</td><td>2008</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
 <tr><td>Norvège</td><td>27 octobre</td><td>2008</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
+<tr><td>Pologne</td><td>29 novembre</td><td>2022</td><td>1<sup>er</sup> mars</td><td>2023</td></tr>
 <tr><td>Portugal</td><td>28 août</td><td>2009</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
 <tr><td>Serbie</td><td>29 juillet</td><td>2010</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
 <tr><td>Slovaquie</td><td>16 août</td><td>2013</td><td>1<sup>er</sup> décembre</td><td>2013</td></tr>
 <tr><td>Slovénie</td><td>17 septembre</td><td>2008</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
 <tr><td>Suisse</td><td>7 novembre</td><td>2019</td><td>1<sup>er</sup> mars</td><td>2020</td></tr>
 <tr><td>Ukraine</td><td>9 janvier</td><td>2014</td><td>1<sup>er</sup> mai</td><td>2014</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2020 271](https://fedlex.data.admin.ch/eli/oc/2020/50); [2023 347](https://fedlex.data.admin.ch/eli/oc/2023/347). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

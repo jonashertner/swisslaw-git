@@ -3,11 +3,11 @@ sr: "0.440.2"
 title: "Convenzione quadro del 27 ottobre 2005 del Consiglio d'Europa sul valore del patrimonio culturale per la società"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/50"
 language: it
-version: 2020-03-01
+version: 2023-06-29
 adopted: 2005-10-27
 in_force: 2020-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/50/20200301/it/xml/fedlex-data-admin-ch-eli-cc-2020-50-20200301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/50/20200301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/50/20230629/it/xml/fedlex-data-admin-ch-eli-cc-2020-50-20230629-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/50/20230629/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2020** 271; FF **2019** 63
 
 *Traduzione*
 
-Fatta a Faro il 27 ottobre 2005
+Fatta a Faro il 27 ottobre 2005 Approvata dall’Assemblea federale il 21 giugno 2019[^t-1] Strumenti di ratifica depositati dalla Svizzera il 7 novembre 2019 Entrata in vigore per la Svizzera il 1° marzo 2020
 
-Approvata dall’Assemblea federale il 21 giugno 2019[^t-1]
-
-Strumenti di ratifica depositati dalla Svizzera il 7 novembre 2019
-
-Entrata in vigore per la Svizzera il 1° marzo 2020
-
-(Stato 1° marzo 2020)
+(Stato 29 giugno 2023)
 
 [^t-1]: [RU 2020 269](https://fedlex.data.admin.ch/eli/oc/2020/49)
 
@@ -325,30 +319,35 @@ Il Segretario Generale del Consiglio d’Europa notificherà agli Stati membri d
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a questo fine, hanno firmato la presente Convenzione. Fatta a Faro, il 27 ottobre 2005, in francese e in inglese, facendo i due testi ugualmente fede, in un unico esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne trasmetterà copia certificata conforme a ciascuno degli Stati membri del Consiglio d’Europa nonché a ciascuno degli Stati o alla Comunità Europea invitati a aderirvi. *(Seguono le firme)*
 
-Campo d’applicazione il 17 gennaio 2020**[^t-2]**
+Campo d’applicazione il 29 giugno 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Armenia</td><td>22 agosto</td><td>2012</td><td>1° dicembre</td><td>2012</td></tr>
 <tr><td>Austria</td><td>23 gennaio</td><td>2015</td><td>1° maggio</td><td>2015</td></tr>
+<tr><td>Belgio</td><td>13 maggio</td><td>2022</td><td>1° settembre</td><td>2022</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>30 aprile</td><td>2009</td><td>1° giugno</td><td>2011</td></tr>
 <tr><td>Croazia</td><td>6 giugno</td><td>2007</td><td>1° giugno</td><td>2011</td></tr>
+<tr><td>Estonia</td><td>15 aprile</td><td>2021</td><td>1° agosto</td><td>2021</td></tr>
 <tr><td>Finlandia</td><td>31 maggio</td><td>2018</td><td>1° settembre</td><td>2018</td></tr>
 <tr><td>Georgia</td><td>4 febbraio</td><td>2011</td><td>1° giugno</td><td>2011</td></tr>
+<tr><td>Italia</td><td>15 dicembre</td><td>2020</td><td>1° aprile</td><td>2021</td></tr>
 <tr><td>Lettonia</td><td>26 aprile</td><td>2006</td><td>1° giugno</td><td>2011</td></tr>
 <tr><td>Lussemburgo</td><td>18 maggio</td><td>2011</td><td>1° settembre</td><td>2011</td></tr>
 <tr><td>Macedonia del Nord</td><td>8 luglio</td><td>2011</td><td>1° novembre</td><td>2011</td></tr>
 <tr><td>Moldova\*</td><td>1° dicembre</td><td>2008</td><td>1° giugno</td><td>2011</td></tr>
 <tr><td>Montenegro</td><td>11 marzo</td><td>2008</td><td>1° giugno</td><td>2011</td></tr>
 <tr><td>Norvegia</td><td>27 ottobre</td><td>2008</td><td>1° giugno</td><td>2011</td></tr>
+<tr><td>Polonia</td><td>29 novembre</td><td>2022</td><td>1° marzo</td><td>2023</td></tr>
 <tr><td>Portogallo</td><td>28 agosto</td><td>2009</td><td>1° giugno</td><td>2011</td></tr>
 <tr><td>Serbia</td><td>29 luglio</td><td>2010</td><td>1° giugno</td><td>2011</td></tr>
 <tr><td>Slovacchia</td><td>16 agosto</td><td>2013</td><td>1° dicembre</td><td>2013</td></tr>
 <tr><td>Slovenia</td><td>17 settembre</td><td>2008</td><td>1° giugno</td><td>2011</td></tr>
+<tr><td>Spagna<sup>\*</sup></td><td>7 aprile</td><td>2022</td><td>1° agosto</td><td>2022</td></tr>
 <tr><td>Svizzera</td><td>7 novembre</td><td>2019</td><td>1° marzo</td><td>2020</td></tr>
 <tr><td>Ucraina</td><td>9 gennaio</td><td>2014</td><td>1° maggio</td><td>2014</td></tr>
 <tr><td>Ungheria</td><td>27 novembre</td><td>2012</td><td>1° marzo</td><td>2013</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni, eccetto quelle della Svizzera, non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [www.conventions.coe.int](http://conventions.coe.int/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: Una versione del campo d’applicazione aggiornata è pubblicata sul sito internet del DFAE (www.eda.admin.ch/eda/i/home/foreign/intagr/dabase.html).
+[^t-2]: [RU 2020 271](https://fedlex.data.admin.ch/eli/oc/2020/50); [2023 347](https://fedlex.data.admin.ch/eli/oc/2023/347). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
