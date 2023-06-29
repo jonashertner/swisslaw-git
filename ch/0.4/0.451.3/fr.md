@@ -3,16 +3,16 @@ sr: "0.451.3"
 title: Convention du Conseil de l’Europe du 20 octobre 2000 sur le paysage
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/329"
 language: fr
-version: 2021-07-01
+version: 2023-06-30
 adopted: 2000-10-20
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/329/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2013-329-20210701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/329/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/329/20230630/fr/xml/fedlex-data-admin-ch-eli-cc-2013-329-20230630-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/329/20230630/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention du Conseil de l’Europe sur le paysage****
+# Convention du Conseil de l’Europe sur le paysage
 
 RO **2013** 1379; FF **2012** 7641[^t-1]
 
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 22 février 2013
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juin 2013
 
-(Etat le 1<sup>er</sup> juillet 2021)
+(État le 30 juin 2023)
 
 [^t-1]: Nouvelle teneur selon l’art. 1 du Prot. du 15 juin 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)). Les Am. du 15 juin 2016 ([RS 0.451.31](https://fedlex.data.admin.ch/eli/cc/2021/403); [RO 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)) ont été insérés dans le Prot. Ces Am. ne régissent que les rapports entre les États les ayant ratifiés. Voir par conséquent leurs champs d’application dans les textes RS cités entre parenthèse.
 [^t-2]: [RO 2013 1377](https://fedlex.data.admin.ch/eli/oc/2013/328)
@@ -35,31 +35,31 @@ Entrée en vigueur pour la Suisse le 1<sup>er</sup> juin 2013
 
 Les États membres du Conseil de l’Europe, signataires de la présente Convention,
 
-considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres, afin de sauvegarder et de promouvoir les idéaux et les principes qui sont leur patrimoine commun, et que ce but est poursuivi en particulier par la conclusion d’accords dans les domaines économique et social;
+considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres, afin de sauvegarder et de promouvoir les idéaux et les principes qui sont leur patrimoine commun, et que ce but est poursuivi en particulier par la conclusion d’accords dans les domaines économique et social,
 
-soucieux de parvenir à un développement durable fondé sur un équilibre harmonieux entre les besoins sociaux, l’économie et l’environnement;
+soucieux de parvenir à un développement durable fondé sur un équilibre harmonieux entre les besoins sociaux, l’économie et l’environnement,
 
-notant que le paysage participe de manière importante à l’intérêt général, sur les plans culturel, écologique, environnemental et social, et qu’il constitue une ressource favorable à l’activité économique, dont une protection, une gestion et un aménagement appropriés peuvent contribuer à la création d’emplois;
+notant que le paysage participe de manière importante à l’intérêt général, sur les plans culturel, écologique, environnemental et social, et qu’il constitue une ressource favorable à l’activité économique, dont une protection, une gestion et un aménagement appropriés peuvent contribuer à la création d’emplois,
 
-conscients que le paysage concourt à l’élaboration des cultures locales et qu’il représente une composante fondamentale du patrimoine culturel et naturel de l’Europe, contribuant à l’épanouissement des êtres humains et à la consolidation de l’identité européenne;
+conscients que le paysage concourt à l’élaboration des cultures locales et qu’il représente une composante fondamentale du patrimoine culturel et naturel de l’Europe, contribuant à l’épanouissement des êtres humains et à la consolidation de l’identité européenne,
 
-reconnaissant que le paysage est partout un élément important de la qualité de vie des populations: dans les milieux urbains et dans les campagnes, dans les territoires dégradés comme dans ceux de grande qualité, dans les espaces remarquables comme dans ceux du quotidien;
+reconnaissant que le paysage est partout un élément important de la qualité de vie des populations: dans les milieux urbains et dans les campagnes, dans les territoires dégradés comme dans ceux de grande qualité, dans les espaces remarquables comme dans ceux du quotidien,
 
-conscients, de manière générale, de l’importance du paysage à l’échelle mondiale en tant que composante essentielle du cadre de vie des êtres humains;[^ingress-1]
+conscients, de manière générale, de l’importance du paysage à l’échelle mondiale en tant que composante essentielle du cadre de vie des êtres humains,[^ingress-1]
 
-notant que les évolutions des techniques de productions agricole, sylvicole, industrielle et minière et des pratiques en matière d’aménagement du territoire, d’urbanisme, de transport, de réseaux, de tourisme et de loisirs, et, plus généralement, les changements économiques mondiaux continuent, dans beaucoup de cas, à accélérer la transformation des paysages;
+notant que les évolutions des techniques de productions agricole, sylvicole, industrielle et minière et des pratiques en matière d’aménagement du territoire, d’urbanisme, de transport, de réseaux, de tourisme et de loisirs, et, plus généralement, les changements économiques mondiaux continuent, dans beaucoup de cas, à accélérer la transformation des paysages,
 
-désirant répondre au souhait du public de jouir de paysages de qualité et de jouer un rôle actif dans leur transformation;
+désirant répondre au souhait du public de jouir de paysages de qualité et de jouer un rôle actif dans leur transformation,
 
-persuadés que le paysage constitue un élément essentiel du bien-être individuel et social, et que sa protection, sa gestion et son aménagement impliquent des droits et des responsabilités pour chacun;
+persuadés que le paysage constitue un élément essentiel du bien-être individuel et social, et que sa protection, sa gestion et son aménagement impliquent des droits et des responsabilités pour chacun,
 
-ayant à l’esprit les textes juridiques existant au niveau international dans les domaines de la protection et de la gestion du patrimoine naturel et culturel, de l’aménagement du territoire, de l’autonomie locale et de la coopération transfrontalière, notamment la Convention relative à la conservation de la vie sauvage et du milieu naturel de l’Europe (Berne, 19 septembre 1979)[^ingress-2], la Convention pour la sauvegarde du patrimoine architectural de l’Europe (Grenade, 3 octobre 1985)[^ingress-3], la Convention européenne pour la protection du patrimoine archéologique (révisée) (La Valette, 16 janvier 1992)[^ingress-4], la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales (Madrid, 21 mai 1980)[^ingress-5] et ses protocoles additionnels, la Charte européenne de l’autonomie locale (Strasbourg, 15 octobre 1985)[^ingress-6], la Convention sur la diversité biologique (Rio, 5 juin 1992)[^ingress-7], la Convention concernant la protection du patrimoine mondial, culturel et naturel (Paris, 16 novembre 1972), et la Convention sur l’accès à l’information, la participation du public au processus décisionnel et l’accès à la justice en matière d’environnement (Aarhus, 25 juin 1998)[^ingress-8];
+ayant à l’esprit les textes juridiques existant au niveau international dans les domaines de la protection et de la gestion du patrimoine naturel et culturel, de l’aménagement du territoire, de l’autonomie locale et de la coopération transfrontalière, notamment la Convention relative à la conservation de la vie sauvage et du milieu naturel de l’Europe (Berne, 19 septembre 1979)[^ingress-2], la Convention pour la sauvegarde du patrimoine architectural de l’Europe (Grenade, 3 octobre 1985)[^ingress-3], la Convention européenne pour la protection du patrimoine archéologique (révisée) (La Valette, 16 janvier 1992)[^ingress-4], la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales (Madrid, 21 mai 1980)[^ingress-5] et ses protocoles additionnels, la Charte européenne de l’autonomie locale (Strasbourg, 15 octobre 1985)[^ingress-6], la Convention sur la diversité biologique (Rio, 5 juin 1992)[^ingress-7], la Convention concernant la protection du patrimoine mondial, culturel et naturel (Paris, 16 novembre 1972), et la Convention sur l’accès à l’information, la participation du public au processus décisionnel et l’accès à la justice en matière d’environnement (Aarhus, 25 juin 1998)[^ingress-8],
 
-reconnaissant que la qualité et la diversité des paysages européens constituent une ressource commune pour la protection, la gestion et l’aménagement de laquelle il convient de coopérer;
+reconnaissant que la qualité et la diversité des paysages européens constituent une ressource commune pour la protection, la gestion et l’aménagement de laquelle il convient de coopérer,
 
-souhaitant instituer un instrument nouveau consacré exclusivement à la protection, à la gestion et à l’aménagement de tous les paysages européens;
+souhaitant instituer un instrument nouveau consacré exclusivement à la protection, à la gestion et à l’aménagement de tous les paysages européens,
 
-souhaitant que les valeurs et principes énoncés par la Convention puissent également s’appliquer à des États non européens qui le souhaiteraient;[^ingress-9]
+souhaitant que les valeurs et principes énoncés par la Convention puissent également s’appliquer à des États non européens qui le souhaiteraient,[^ingress-9]
 
 sont convenus de ce qui suit:
 
@@ -161,7 +161,7 @@ Chaque Partie s’engage à formuler des objectifs de qualité paysagère pour l
 
 Pour mettre en œuvre les politiques du paysage, chaque Partie s’engage à mettre en place des moyens d’intervention visant la protection, la gestion et/ou l’aménagement des paysages.
 
-## Chapitre III Coopération entre les Parties****
+## Chapitre III Coopération entre les Parties
 
 [^chapIII-1]
 
@@ -291,7 +291,7 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres d
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Florence, le 20 octobre 2000, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe ainsi qu’à tout État ou à la Communauté européenne invités à adhérer à la présente Convention. (Suivent les signatures)
 
-Champ d’application le 1<sup>er</sup> mars 2013**[^t-3]**
+Champ d’application le 30 juin 2023[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -303,14 +303,16 @@ Champ d’application le 1<sup>er</sup> mars 2013**[^t-3]**
 <tr><td>Bulgarie</td><td>24 novembre</td><td>2004</td><td>1<sup>er</sup> mars</td><td>2005</td></tr>
 <tr><td>Chypre</td><td>21 juin</td><td>2006</td><td>1<sup>er</sup> octobre</td><td>2006</td></tr>
 <tr><td>Croatie</td><td>15 janvier</td><td>2003</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
-<tr><td>Danemark<sup>a</sup></td><td>20 mars</td><td>2003</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
+<tr><td>Danemark <sup>a</sup></td><td>20 mars</td><td>2003</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
 <tr><td>Espagne</td><td>26 novembre</td><td>2007</td><td>1<sup>er</sup> mars</td><td>2008</td></tr>
+<tr><td>Estonie</td><td>8 février</td><td>2018</td><td>8 juin</td><td>2018</td></tr>
 <tr><td>Finlande</td><td>16 décembre</td><td>2005</td><td>1<sup>er</sup> avril</td><td>2006</td></tr>
 <tr><td>France</td><td>17 mars</td><td>2004</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
 <tr><td>Grèce</td><td>17 mai</td><td>2010</td><td>1<sup>er</sup> septembre</td><td>2010</td></tr>
 <tr><td>Géorgie</td><td>15 septembre</td><td>2010</td><td>1<sup>er</sup> janvier</td><td>2011</td></tr>
 <tr><td>Hongrie</td><td>26 octobre</td><td>2007</td><td>1<sup>er</sup> février</td><td>2008</td></tr>
 <tr><td>Irlande</td><td>22 mars</td><td>2002</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
+<tr><td>Islande</td><td>11 décembre</td><td>2019</td><td>1<sup>er</sup> avril</td><td>2020</td></tr>
 <tr><td>Italie</td><td>4 mai</td><td>2006</td><td>1<sup>er</sup> septembre</td><td>2006</td></tr>
 <tr><td>Lettonie</td><td>5 juin</td><td>2007</td><td>1<sup>er</sup> octobre</td><td>2007</td></tr>
 <tr><td>Lituanie</td><td>13 novembre</td><td>2002</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
@@ -319,11 +321,11 @@ Champ d’application le 1<sup>er</sup> mars 2013**[^t-3]**
 <tr><td>Moldova</td><td>14 mars</td><td>2002</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
 <tr><td>Monténégro</td><td>22 janvier</td><td>2009</td><td>1<sup>er</sup> mai</td><td>2009</td></tr>
 <tr><td>Norvège</td><td>23 octobre</td><td>2001</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
-<tr><td>Pays-Bas<sup>b</sup></td><td>27 juillet</td><td>2005</td><td>1<sup>er</sup> novembre</td><td>2005</td></tr>
+<tr><td>Pays-Bas <sup>b</sup></td><td>27 juillet</td><td>2005</td><td>1<sup>er</sup> novembre</td><td>2005</td></tr>
 <tr><td>Pologne</td><td>27 septembre</td><td>2004</td><td>1<sup>er</sup> janvier</td><td>2005</td></tr>
 <tr><td>Portugal</td><td>29 mars</td><td>2005</td><td>1<sup>er</sup> juillet</td><td>2005</td></tr>
 <tr><td>Roumanie</td><td>7 novembre</td><td>2002</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
-<tr><td>Royaume-Uni<sup>c</sup></td><td>21 novembre</td><td>2006</td><td>1<sup>er</sup> mars</td><td>2007</td></tr>
+<tr><td>Royaume-Uni <sup>c</sup></td><td>21 novembre</td><td>2006</td><td>1<sup>er</sup> mars</td><td>2007</td></tr>
 <tr><td>République tchèque</td><td>3 juin</td><td>2004</td><td>1<sup>er</sup> octobre</td><td>2004</td></tr>
 <tr><td>Saint-Marin</td><td>26 novembre</td><td>2003</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
 <tr><td>Serbie</td><td>28 juin</td><td>2011</td><td>1<sup>er</sup> octobre</td><td>2011</td></tr>
@@ -333,9 +335,7 @@ Champ d’application le 1<sup>er</sup> mars 2013**[^t-3]**
 <tr><td>Suède</td><td>5 janvier</td><td>2011</td><td>1<sup>er</sup> mai</td><td>2011</td></tr>
 <tr><td>Turquie</td><td>13 octobre</td><td>2003</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
 <tr><td>Ukraine</td><td>10 mars</td><td>2006</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
-<tr><td colspan="5"><sup>a</sup> La convention ne s’applique pas aux Îles Féroé et au Groënland.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Pour le Royaume en Europe</td></tr>
-<tr><td colspan="5"><sup>c</sup> Application au territoire métropolitain de Grande-Bretagne et d’Irlande du Nord</td></tr>
+<tr><td colspan="5"><sup>a</sup> La Convention ne s’applique pas aux Îles Féroé et au Groënland. <sup>b</sup> Pour le Royaume en Europe <sup>c</sup> Application au territoire métropolitain de Grande-Bretagne et d’Irlande du Nord</td></tr>
 </table>
 
-[^t-3]: Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.
+[^t-3]: [RO 2013 1379](https://fedlex.data.admin.ch/eli/oc/2013/329); [2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403); [2023 346](https://fedlex.data.admin.ch/eli/oc/2023/346). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

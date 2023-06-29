@@ -3,16 +3,16 @@ sr: "0.451.3"
 title: Landschaftsübereinkommen des Europarates vom 20. Oktober 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/329"
 language: de
-version: 2021-07-01
+version: 2023-06-30
 adopted: 2000-10-20
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/329/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2013-329-20210701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/329/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/329/20230630/de/xml/fedlex-data-admin-ch-eli-cc-2013-329-20230630-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/329/20230630/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Landschaftsübereinkommen des Europarates****
+# Landschaftsübereinkommen des Europarates
 
 AS **2013** 1379; BBl **2011** 8657[^t-1]
 
@@ -20,7 +20,7 @@ AS **2013** 1379; BBl **2011** 8657[^t-1]
 
 Abgeschlossen in Florenz am 20. Oktober 2000 Von der Bundesversammlung genehmigt am 28. September 2012[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 22. Februar 2013 In Kraft getreten für die Schweiz am 1. Juni 2013
 
-(Stand am 1. Juli 2021)
+(Stand am 30. Juni 2023)
 
 [^t-1]: Fassung gemäss Art. 1 des Prot. vom 15. Juni 2016, in Kraft getreten für die Schweiz am 1. Juli 2021 ([AS 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)). Die Änd. vom 15. Juni 2016 (SR 0.[451.31](https://fedlex.data.admin.ch/eli/cc/1992/2080_2080_2080); [AS 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)), sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
 [^t-2]: [AS 2013 1377](https://fedlex.data.admin.ch/eli/oc/2013/328)
@@ -155,7 +155,7 @@ Jede Vertragspartei verpflichtet sich, für die erfassten und bewerteten Landsch
 
 Jede Vertragspartei verpflichtet sich, zur Umsetzung ihrer Landschaftspolitik Instrumente einzuführen, deren Ziel der Landschaftsschutz, die Landschaftspflege und/oder die Landschaftsplanung ist.
 
-## Kapitel III Zusammenarbeit zwischen den Vertragsparteien****
+## Kapitel III Zusammenarbeit zwischen den Vertragsparteien
 
 [^chapIII-1]
 
@@ -285,7 +285,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates un
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Florenz am 20. Oktober 2000 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats und jedem Staat oder der Europäischen Gemeinschaft, sofern sie zum Beitritt zu diesem Übereinkommen eingeladen worden sind, beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 1. März 2013**[^t-3]**
+Geltungsbereich am 30. Juni 2023[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -296,11 +296,13 @@ Geltungsbereich am 1. März 2013**[^t-3]**
 <tr><td>Bosnien und Herzegowina</td><td>31. Januar</td><td>2012</td><td>1. Mai</td><td>2012</td></tr>
 <tr><td>Bulgarien</td><td>24. November</td><td>2004</td><td>1. März</td><td>2005</td></tr>
 <tr><td>Dänemark <sup>a</sup></td><td>20. März</td><td>2003</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Estland</td><td>8. Februar</td><td>2018</td><td>8. Juni</td><td>2018</td></tr>
 <tr><td>Finnland</td><td>16. Dezember</td><td>2005</td><td>1. April</td><td>2006</td></tr>
 <tr><td>Frankreich</td><td>17. März</td><td>2004</td><td>1. Juli</td><td>2006</td></tr>
 <tr><td>Georgien</td><td>15. September</td><td>2010</td><td>1. Januar</td><td>2011</td></tr>
 <tr><td>Griechenland</td><td>17. Mai</td><td>2010</td><td>1. September</td><td>2010</td></tr>
 <tr><td>Irland</td><td>22. März</td><td>2002</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Island</td><td>11. Dezember</td><td>2019</td><td>1. April</td><td>2020</td></tr>
 <tr><td>Italien</td><td>4. Mai</td><td>2006</td><td>1. September</td><td>2006</td></tr>
 <tr><td>Kroatien</td><td>15. Januar</td><td>2003</td><td>1. März</td><td>2004</td></tr>
 <tr><td>Lettland</td><td>5. Juni</td><td>2007</td><td>1. Oktober</td><td>2007</td></tr>
@@ -330,4 +332,4 @@ Geltungsbereich am 1. März 2013**[^t-3]**
 <tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und für Grönland. <sup>b</sup> Für das Königreich in Europa. <sup>c</sup> Anwendbar auf das Hoheitsgebiet des Mutterlandes von Grossbritannien und Nordirland.</td></tr>
 </table>
 
-[^t-3]: Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/treaty.
+[^t-3]: [AS 2013 1379](https://fedlex.data.admin.ch/eli/oc/2013/329); [2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403); [2023 346](https://fedlex.data.admin.ch/eli/oc/2023/346). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

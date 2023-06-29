@@ -3,16 +3,16 @@ sr: "0.451.3"
 title: Convenzione del Consiglio d’Europa del 20 ottobre 2000 sul paesaggio
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/329"
 language: it
-version: 2021-07-01
+version: 2023-06-30
 adopted: 2000-10-20
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/329/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2013-329-20210701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/329/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/329/20230630/it/xml/fedlex-data-admin-ch-eli-cc-2013-329-20230630-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/329/20230630/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione del Consiglio d’Europa sul paesaggio****
+# Convenzione del Consiglio d’Europa sul paesaggio
 
 RU **2013** 1379; FF **2012** 7299[^t-1]
 
@@ -26,7 +26,7 @@ Strumenti di ratifica depositati dalla Svizzera il 22 febbraio 2013
 
 Entrata in vigore per la Svizzera il 1° giugno 2013
 
-(Stato 1° luglio 2021)
+(Stato 30 giugno 2023)
 
 [^t-1]: Nuovo testo giusta l’art. 1 del Prot. del 15 giu. 2016, in vigore per la Svizzera dal 1° lug. 2021 (RU **2021** 403). Le modifiche del 15 giu. 2016 ([RS](https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/de) **0.451.31**; RU **2021** 403) sono inserite nella presente Convenzione. Queste modifiche sono in vigore solo nei rapporti tra gli Stati che li hanno ratificati. Vedi dunque il loro proprio campo d’applicazione.
 [^t-2]: [RU 2013 1377](https://fedlex.data.admin.ch/eli/oc/2013/328)
@@ -161,7 +161,7 @@ Ogni parte si impegna a stabilire degli obiettivi di qualità paesaggistica rigu
 
 Per attuare le politiche del paesaggio, ogni Parte si impegna ad attivare gli strumenti di intervento volti alla salvaguardia, alla gestione e/o alla pianificazione dei paesaggi.
 
-## Capitolo III Cooperazione tra le Parti****
+## Capitolo III Cooperazione tra le Parti
 
 [^chapIII-1]
 
@@ -291,7 +291,7 @@ Il Segretario Generale del Consiglio d’Europa notificherà agli Stati membri d
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a questo fine, hanno firmato la presente Convenzione. Fatto a Firenze, il 20 ottobre 2000, in francese e in inglese, facendo i due testi ugualmente fede, in un unico esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne trasmetterà copia certificata conforme a ciascuno degli Stati membri del Consiglio d’Europa, nonché a ciascuno degli Stati o alla Comunità Europea invitati ad aderire alla presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 1° marzo 2013[^t-3]
+Campo d’applicazione il 30 giugno 2023[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -305,11 +305,13 @@ Campo d’applicazione il 1° marzo 2013[^t-3]
 <tr><td>Cipro</td><td>21 giugno</td><td>2006</td><td>1° ottobre</td><td>2006</td></tr>
 <tr><td>Croazia</td><td>15 gennaio</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
 <tr><td>Danimarca <sup>a</sup></td><td>20 marzo</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>Estonia</td><td>8 febbraio</td><td>2018</td><td>8 giugno</td><td>2018</td></tr>
 <tr><td>Finlandia</td><td>16 dicembre</td><td>2005</td><td>1° avril</td><td>2006</td></tr>
 <tr><td>Francia</td><td>17 marzo</td><td>2004</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Georgia</td><td>15 settembre</td><td>2010</td><td>1° gennaio</td><td>2011</td></tr>
 <tr><td>Grecia</td><td>17 maggio</td><td>2010</td><td>1° settembre</td><td>2010</td></tr>
 <tr><td>Irlanda</td><td>22 marzo</td><td>2002</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>Islanda</td><td>11 dicembre</td><td>2019</td><td>1° aprile</td><td>2020</td></tr>
 <tr><td>Italia</td><td>4 maggio</td><td>2006</td><td>1° settembre</td><td>2006</td></tr>
 <tr><td>Lettonia</td><td>5 giugno</td><td>2007</td><td>1° ottobre</td><td>2007</td></tr>
 <tr><td>Lituania</td><td>13 novembre</td><td>2002</td><td>1° marzo</td><td>2004</td></tr>
@@ -342,4 +344,4 @@ Campo d’applicazione il 1° marzo 2013[^t-3]
 <tr><td colspan="5"><sup>c</sup> Applicabile al territorio metropolitano della Gran Bretagna e dell’Irlanda del Nord.</td></tr>
 </table>
 
-[^t-3]: [RU 2013 1379](https://fedlex.data.admin.ch/eli/oc/2013/329). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: Completa quelli in [RU 2013 1379](https://fedlex.data.admin.ch/eli/oc/2013/329); [2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)e [2023 346](https://fedlex.data.admin.ch/eli/oc/2023/346). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
