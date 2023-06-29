@@ -4,13 +4,12 @@ number: "932.11"
 title: Verordnung über die Jagd und den Schutz wildlebender Säugetiere und Vögel
 short: Jagdverordnung
 language: de
-version: 2020-04-04
-valid_until: 2023-06-29
-version_adopted: 2019-01-15
+version: 2023-06-30
+version_adopted: 2023-06-20
 adopted: 2019-01-15
 in_force: 2020-04-04
 url: "https://bgs.zg.ch/app/de/texts_of_law/932.11"
-pdf: "https://bgs.zg.ch/api/de/versions/2083/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2450/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2083/pdf_file"
 
 (Jagdverordnung)
 
-Vom 15. Januar 2019 (Stand 4. April 2020)
+Vom 15. Januar 2019 (Stand 30. Juni 2023)
 
 Der Regierungsrat des Kantons Zug,
 
-in Vollziehung des Gesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) vom 25. Oktober 1990[^ingress-1] sowie gestützt auf Art. 25 Abs. 1 des Bundesgesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (JSG) vom 20. Juni 1986[^ingress-2] und gestützt auf § 47 Abs. 1 Bst. d der Kantonsverfassung[^ingress-3],
+in Vollziehung des Gesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) vom 25. Oktober 1990[^ingress-1] sowie gestützt auf Art. 25 Abs. 1 des Bundesgesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (JSG) vom 20. Juni 1986[^ingress-2] und gestützt auf § 47 Abs. 1 Bst. d der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-3],
 
 beschliesst:
 
@@ -115,10 +114,10 @@ beschliesst:
 
 - a) Hirsch-/Hochwildjagd: Fr. 160.– zuzüglich Fr. 3.– je kg Gewicht (gewogen mit Haupt, Geweih, aufgebrochen);
 - b) Niederwildjagd: Fr. 200.– zuzüglich Fr. 150.– je Berechtigung zum Abschuss eines Rehwilds;
-- c) Gastkarten mit Waffe: Fr. 40.– / Folgekarte Fr. 30.– / Folgekarte im online-Bezug kostenlos;
-- d) Gastkarten ohne Waffe: Fr. 20.– / im online-Bezug kostenlos;
-- e) Saisonkarte ohne Waffe: Fr. 40.– / im online-Bezug kostenlos;
-- f) Saisonkarte mit Waffe für Teilnehmerinnen und Teilnehmer des Jagdlehrgangs: Fr. 100.–;
+- c) Gastkarten mit Waffe: Fr. 40.– / Folgekarte Fr. 30.–;
+- d) Gastkarten ohne Waffe: Fr. 20.–;
+- e) Saisonkarte ohne Waffe: Fr. 40.–;
+- f) Saisonkarte mit Waffe für Teilnehmerinnen und Teilnehmer des Jagdlehrgangs: Fr. 100.–.
 
 #### § 9
 
