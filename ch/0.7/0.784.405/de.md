@@ -3,18 +3,20 @@ sr: "0.784.405"
 title: Europäisches Übereinkommen vom 5. Mai 1989 über das grenzüberschreitende Fernsehen (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877"
 language: de
-version: 2013-07-10
+version: 2023-06-30
 adopted: 1989-05-05
 in_force: 1989-05-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877/20130710/de/xml/fedlex-data-admin-ch-eli-cc-1989-1877_1877_1877-20130710-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1877_1877_1877/20130710/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877/20230630/de/xml/fedlex-data-admin-ch-eli-cc-1989-1877_1877_1877-20230630-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1877_1877_1877/20230630/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Europäisches Übereinkommen über das grenzüberschreitende Fernsehen ****
+# Europäisches Übereinkommen über das grenzüberschreitende Fernsehen
 
-[^t-2]as Übersetzung*[^t-3]*[^t-1]
+AS **1989** 1877; FF **1990** III 925[^t-1]
+
+Übersetzung
 
 Abgeschlossen in Strassburg am 5. Mai 1989
 
@@ -22,28 +24,26 @@ Unterzeichnet von der Schweiz am 5. Mai 1989
 
 Vorläufig anwendbar für die Schweiz ab 5. Mai 1989
 
-Von der Bundesversammlung genehmigt am 21. Juni 1991[^t-4]
+Von der Bundesversammlung genehmigt am 21. Juni 1991[^t-2]
 
 Schweizerische Ratifikationsurkunde hinterlegt am 9. Oktober 1991
 
 Inkrafttreten für die Schweiz 1. Mai 1993
 
-(Stand am 10. Juli 2013)
+(Stand am 30. Juni 2023)
 
-[^t-1]: Die Änd. vom 1. Okt. 1998 ([SR 0.784.405.1](https://fedlex.data.admin.ch/eli/cc/2002/464); [AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)) ist im vorliegenden Text eingebaut, gilt aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
-[^t-2]: [AS 1989 1877](https://fedlex.data.admin.ch/eli/oc/1989/1877_1877_1877); [BBl 1990 III 925](https://fedlex.data.admin.ch/eli/fga/1990/3_925_881_757)
-[^t-3]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-4]: [AS 1993 1076](https://fedlex.data.admin.ch/eli/oc/1993/1076_1076_1076)
+[^t-1]: Die Änd. vom 1. Okt. 1998 ([SR 0.784.405.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3386); [AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)) ist im vorliegenden Text eingebaut, gilt aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
+[^t-2]: [AS 1993 1076](https://fedlex.data.admin.ch/eli/oc/1993/1076_1076_1076)
 
-Präambel
+## Präambel
 
-Die Mitgliedstaaten des Europarats und die anderen Vertragsstaaten des Europäischen Kulturabkommens*[^ingress-1]*, die dieses Übereinkommen unterzeichnen –
+Die Mitgliedstaaten des Europarats und die anderen Vertragsstaaten des Europäischen Kulturabkommens[^chapI-1], die dieses Übereinkommen unterzeichnen –
 
 in der Erwägung, dass es das Ziel des Europarats ist, eine engere Verbindung zwischen seinen Mitgliedern herbeizuführen, um die Ideale und Grundsätze, die ihr gemeinsames Erbe sind, zu wahren und zu fördern;
 
 in der Erwägung, dass die Würde und der gleiche Wert jedes Menschen Grundbestandteile dieser Grundsätze darstellen;
 
-in der Erwägung, dass die Freiheit der Meinungsäusserung und Information, wie sie in Artikel 10 der Konvention zum Schutze der Menschenrechte und Grundfreiheiten[^ingress-2] verankert ist, einer der wesentlichen Grundsätze einer demokratischen Gesellschaft und eine der Grundvoraussetzungen für ihren Fortschritt und für die Entwicklung jedes Menschen ist;
+in der Erwägung, dass die Freiheit der Meinungsäusserung und Information, wie sie in Artikel 10 der Konvention zum Schutze der Menschenrechte und Grundfreiheiten[^chapI-2] verankert ist, einer der wesentlichen Grundsätze einer demokratischen Gesellschaft und eine der Grundvoraussetzungen für ihren Fortschritt und für die Entwicklung jedes Menschen ist;
 
 in Bekräftigung ihres Bekenntnisses zu den Grundsätzen des freien Flusses von Informationen und Ideen und der Unabhängigkeit der Rundfunkveranstalter, die eine unerlässliche Grundlage für ihre Rundfunkpolitik darstellen;
 
@@ -61,8 +61,8 @@ in dem Wunsch, die in den bestehenden Europaratsempfehlungen über die Grundsät
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.440.1](https://fedlex.data.admin.ch/eli/cc/1962/935_972_973)
-[^ingress-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^chapI-1]: [SR 0.440.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1796)
+[^chapI-2]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ## Kapitel I Allgemeine Bestimmungen
 
@@ -80,17 +80,17 @@ Im Sinne dieses Übereinkommens bedeutet:
 
 - a) «Verbreitung» die Erstausstrahlung von Fernsehprogrammen, die zum Empfang durch die Allgemeinheit bestimmt sind, über terrestrische Sender, über Kabel oder über Satelliten jeder Art in verschlüsselter oder unverschlüsselter Form. Der Ausdruck schliesst Fernmeldedienste, die auf individuellen Abruf geleistet werden, nicht ein;
 - b) «Weiterverbreitung» den Empfang und – ungeachtet der eingesetzten technischen Mittel – die gleichzeitige, vollständige und unveränderte Weiterverbreitung von Fernsehprogrammen oder wichtigen Teilen solcher Programme, die von Rundfunkveranstaltern für den Empfang durch die Allgemeinheit verbreitet werden;
-- c)[^2-1] «Rundfunkveranstalter» die natürliche oder juristische Person, die die redaktionelle Verantwortung für die Zusammenstellung von Fernsehprogrammen trägt, welche für den Empfang durch die Allgemeinheit bestimmt sind und sie verbreitet oder vollständig und unverändert durch einen Dritten verbreiten lässt;
+- c)[^8-1] «Rundfunkveranstalter» die natürliche oder juristische Person, die die redaktionelle Verantwortung für die Zusammenstellung von Fernsehprogrammen trägt, welche für den Empfang durch die Allgemeinheit bestimmt sind und sie verbreitet oder vollständig und unverändert durch einen Dritten verbreiten lässt;
 - d) «Programm» die Gesamtheit der Sendungen eines bestimmten Programms, das durch einen Rundfunkveranstalter im Sinne des Buchstabens c bereitgestellt wird;
 - e) «europäische audiovisuelle Werke» kreative Arbeiten, deren Produktion oder Koproduktion von europäischen natürlichen oder juristischen Personen kontrolliert wird;
-- f)[^2-2] «Werbung» jede öffentliche Äusserung zur Förderung des Verkaufs, des Kaufs oder der Miete oder Pacht eines Erzeugnisses oder einer Dienstleistung, zur Unterstützung einer Sache oder Idee oder zur Erzielung einer anderen vom Werbetreibenden oder vom Rundfunkveranstalter selbst gewünschten Wirkung, gegen Entgelt oder eine ähnliche Gegenleistung oder zur Eigenwerbung, gesendet wird;
-- g)[^2-3] «Teleshopping» Sendungen direkter Angebote an die Allgemeinheit für den Absatz von Waren oder die Erbringung von Dienstleistungen, einschliesslich unbeweglicher Sachen, Rechte und Verpflichtungen, gegen Entgelt;
-- h)[^2-4] «Sponsern» die Beteiligung einer natürlichen oder juristischen Person, die an Rundfunktätigkeiten oder an der Produktion audiovisueller Werke nicht beteiligt ist, an der direkten oder indirekten Finanzierung einer Sendung, um den Namen, die Marke oder das Erscheinungsbild der Person zu fördern.
+- f)[^8-2] «Werbung» jede öffentliche Äusserung zur Förderung des Verkaufs, des Kaufs oder der Miete oder Pacht eines Erzeugnisses oder einer Dienstleistung, zur Unterstützung einer Sache oder Idee oder zur Erzielung einer anderen vom Werbetreibenden oder vom Rundfunkveranstalter selbst gewünschten Wirkung, gegen Entgelt oder eine ähnliche Gegenleistung oder zur Eigenwerbung, gesendet wird;
+- g)[^8-3] «Teleshopping» Sendungen direkter Angebote an die Allgemeinheit für den Absatz von Waren oder die Erbringung von Dienstleistungen, einschliesslich unbeweglicher Sachen, Rechte und Verpflichtungen, gegen Entgelt;
+- h)[^8-4] «Sponsern» die Beteiligung einer natürlichen oder juristischen Person, die an Rundfunktätigkeiten oder an der Produktion audiovisueller Werke nicht beteiligt ist, an der direkten oder indirekten Finanzierung einer Sendung, um den Namen, die Marke oder das Erscheinungsbild der Person zu fördern.
 
-[^2-1]: Fassung gemäss Art. 3 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
-[^2-2]: Fassung gemäss Art. 4 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
-[^2-3]: Eingefügt durch Art. 5 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
-[^2-4]: Ursprünglich: Bst. g.
+[^8-1]: Fassung gemäss Art. 3 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^8-2]: Fassung gemäss Art. 4 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^8-3]: Eingefügt durch Art. 5 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^8-4]: Ursprünglich: Bst. g.
 
 #### Art. 3
 
@@ -163,25 +163,25 @@ Insbesondere dürfen sie:
 
 #### Art. 8
 
-**Recht auf Gegendarstellung**[^8-1]
+**Recht auf Gegendarstellung**[^12-1]
 
 <sup>1.</sup> Jede sendende Vertragspartei stellt sicher, dass jede natürliche oder juristische Person ungeachtet ihrer Staatsangehörigkeit oder ihres Wohnorts beziehungsweise Sitzes die Möglichkeit hat, im Hinblick auf Sendungen, die durch einen ihrer Rechtshoheit im Sinne des Artikels 5 unterliegenden Rundfunkveranstalter verbreitet werden, ein Recht auf Gegendarstellung auszuüben oder andere vergleichbare gerichtliche oder verwaltungsrechtliche Mittel in Anspruch zu nehmen. Sie sorgt insbesondere dafür, dass die für die Ausübung des Rechts auf Gegendarstellung vorgesehenen Fristen und sonstigen Modalitäten so gestaltet sind, dass dieses Recht wirksam ausgeübt werden kann. Die wirksame Inanspruchnahme dieses Rechts oder anderer vergleichbarer gerichtlicher oder verwaltungsrechtlicher Mittel wird sowohl hinsichtlich der Fristen als auch hinsichtlich der Anwendungsmodalitäten gewährleistet.
 
 <sup>2.</sup> Zu diesem Zweck wird der Name des Programms oder der Name des Rundfunkveranstalters, der für das Programm verantwortlich ist, darin in regelmässigen Abständen in geeigneter Weise angegeben.
 
-[^8-1]: Fassung gemäss Art. 8 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^12-1]: Fassung gemäss Art. 8 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 #### Art. 9
 
-**Zugang der Allgemeinheit zu Informationen**[^9-1]
+**Zugang der Allgemeinheit zu Informationen**[^13-1]
 
 Jede Vertragspartei prüft und ergreift gegebenenfalls die geeigneten rechtlichen Massnahmen, wie die Einführung des Rechts auf Auszüge von Ereignissen von grossem Interesse für die Allgemeinheit, mit denen vermieden werden soll, das Recht der Allgemeinheit auf Information dadurch in Frage zu stellen, dass ein ihrer Rechtshoheit unterliegender Rundfunkveranstalter Exklusivrechte zur Verbreitung oder Weiterverbreitung im Sinne des Artikels 3 bei solchen Ereignissen ausübt.
 
-[^9-1]: Fassung gemäss Art. 9 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^13-1]: Fassung gemäss Art. 9 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 #### Art. 9a
 
-**Zugang der Allgemeinheit zu Ereignissen von erheblicher Bedeutung**[^9a-1]
+**Zugang der Allgemeinheit zu Ereignissen von erheblicher Bedeutung**[^14-1]
 
 <sup>1.</sup> Jede Vertragspartei behält sich das Recht vor, Massnahmen zu ergreifen, um sicherzustellen, dass ein ihrer Rechtshoheit unterliegender Rundfunkveranstalter Exklusivrechte zur Weiterverbreitung von Ereignissen von erheblicher gesellschaftlicher Bedeutung nicht so ausübt, dass einem wesentlichen Teil der Allgemeinheit in dieser Vertragspartei die Möglichkeit genommen wird, diese Ereignisse direkt oder zeitversetzt im frei zugänglichen Fernsehen zu verfolgen. In diesem Zusammenhang kann die betreffende Vertragspartei von solchen Ereignissen, denen sie eine erhebliche gesellschaftliche Bedeutung beimisst, eine Liste erstellen.
 
@@ -203,40 +203,40 @@ Einmal jährlich hat der Ständige Ausschuss:
 - a) eine konsolidierte Liste der bezeichneten Ereignisse und entsprechenden Massnahmen, die von den Vertragsparteien in Übereinstimmung mit Absatz 2 Buchstabe e mitgeteilt worden sind, zu veröffentlichen;
 - b) mit Dreiviertelmehrheit der Mitglieder Richtlinien, zusätzlich zu den in Absatz 2 Buchstabe a–e aufgeführten Bedingungen aufzustellen, damit Abweichungen zwischen der Umsetzung dieses Artikels und der im Gemeinschaftsrecht geltenden Bestimmungen vermieden werden.»
 
-[^9a-1]: Eingefügt durch Art. 10 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^14-1]: Eingefügt durch Art. 10 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 #### Art. 10
 
 **Kulturelle Ziele**
 
-1.[^10-1] Jede sendende Vertragspartei sorgt im Rahmen des praktisch Durchführbaren und mit angemessenen Mitteln dafür, dass ein Rundfunkveranstalter in ihrer Rechtshoheit den Hauptanteil seiner Sendezeit europäischen Werken vorbehält; ausgenommen ist die für Nachrichten, Sportereignisse, Spielshows, Werbung, Teletext- oder Teleshopping-Dienste vorgesehene Sendezeit. Dieser Anteil soll unter Berücksichtigung der Verantwortung des Rundfunkveranstalters gegenüber seinem Publikum in den Bereichen Information, Bildung, Kultur und Unterhaltung schrittweise auf der Grundlage geeigneter Kriterien erreicht werden.
+1.[^15-1] Jede sendende Vertragspartei sorgt im Rahmen des praktisch Durchführbaren und mit angemessenen Mitteln dafür, dass ein Rundfunkveranstalter in ihrer Rechtshoheit den Hauptanteil seiner Sendezeit europäischen Werken vorbehält; ausgenommen ist die für Nachrichten, Sportereignisse, Spielshows, Werbung, Teletext- oder Teleshopping-Dienste vorgesehene Sendezeit. Dieser Anteil soll unter Berücksichtigung der Verantwortung des Rundfunkveranstalters gegenüber seinem Publikum in den Bereichen Information, Bildung, Kultur und Unterhaltung schrittweise auf der Grundlage geeigneter Kriterien erreicht werden.
 
 <sup>2.</sup> Können sich eine empfangende und eine sendende Vertragspartei über die Anwendung des Absatzes 1 nicht einigen, so kann auf Verlangen einer der beiden Parteien der Ständige Ausschuss ersucht werden, ein Gutachten zu der Angelegenheit abzugeben. Eine solche Meinungsverschiedenheit kann nicht dem in Artikel 26 vorgesehenen Schiedsverfahren unterworfen werden.
 
 <sup>3.</sup> Die Vertragsparteien verpflichten sich, gemeinsam nach den geeignetsten Mitteln und Verfahren zu suchen, um ohne Benachteiligung einzelner Rundfunkveranstalter die Tätigkeit und die Entwicklung der europäischen Produktion zu unterstützen, insbesondere in Vertragsparteien mit geringer Produktionskapazität für audiovisuelle Werke oder begrenztem Sprachraum.
 
-4.[^10-2] Die Vertragsparteien sorgen dafür, dass ein ihrer Rechtshoheit unterliegender Rundfunkveranstalter Kinofilme nur nach Ablauf der mit den Rechteinhabern vereinbarten Fristen verbreitet.
+4.[^15-2] Die Vertragsparteien sorgen dafür, dass ein ihrer Rechtshoheit unterliegender Rundfunkveranstalter Kinofilme nur nach Ablauf der mit den Rechteinhabern vereinbarten Fristen verbreitet.
 
-[^10-1]: Fassung gemäss Art. 11 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
-[^10-2]: Fassung gemäss Art. 12 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^15-1]: Fassung gemäss Art. 11 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^15-2]: Fassung gemäss Art. 12 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 #### Art. 10a
 
-**Medienvielfalt**[^10a-1]
+**Medienvielfalt**[^16-1]
 
 Die Vertragsparteien bemühen sich im Geiste der Zusammenarbeit und der gegenseitigen Unterstützung, der diesem Übereinkommen zugrunde liegt, zu vermeiden, dass Programme, die durch einen Rundfunkveranstalter oder andere natürliche oder juristische Personen unter ihrer Rechtshoheit im Sinne des Artikels 3 verbreitet oder weiterverbreitet werden, die Medienvielfalt gefährden.
 
-[^10a-1]: Eingefügt durch Art. 13 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^16-1]: Eingefügt durch Art. 13 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
-## Kapitel III Werbung und Teleshopping****
+## Kapitel III Werbung und Teleshopping
 
-[^chapIII-1]
+[^chapIV-1]
 
-[^chapIII-1]: Fassung gemäss Art. 14 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^chapIV-1]: Fassung gemäss Art. 14 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 #### Art. 11
 
-**Allgemeine Normen**[^11-1]
+**Allgemeine Normen**[^17-1]
 
 <sup>1.</sup> Werbung und Teleshopping müssen fair und ehrlich sein.
 
@@ -248,11 +248,11 @@ Die Vertragsparteien bemühen sich im Geiste der Zusammenarbeit und der gegensei
 
 <sup>5.</sup> Ein Werbetreibender darf keinen redaktionellen Einfluss auf den Programminhalt ausüben.
 
-[^11-1]: Fassung gemäss Art. 15 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^17-1]: Fassung gemäss Art. 15 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 #### Art. 12
 
-**Dauer**[^12-1]
+**Dauer**[^18-1]
 
 <sup>1.</sup> Die Dauer der Werbe- und Teleshopping-Spots und anderen Werbeformen darf, mit Ausnahme der für das Teleshopping im Sinne von Absatz 3 vorgesehenen Fenster, 20 Prozent der täglichen Sendezeit nicht überschreiten. Die Dauer der Spotwerbung darf 15 Prozent der täglichen Sendezeit nicht überschreiten.
 
@@ -267,11 +267,11 @@ Im Sinne dieses Artikels gilt nicht als Werbung:
 - – vom Rundfunkveranstalter verbreitete Hinweise auf eigene Programme und auf Begleitmaterialien, die direkt von diesen Programmen abgeleitet sind;
 - – Hinweise im öffentlichen Interesse und kostenlose Spendenaufrufe zu Wohlfahrtszwecken.
 
-[^12-1]: Fassung gemäss Art. 16 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^18-1]: Fassung gemäss Art. 16 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 #### Art. 13
 
-**Form und Aufmachung**[^13-1]
+**Form und Aufmachung**[^13-2]
 
 <sup>1.</sup> Werbung und Teleshopping müssen klar als solche erkennbar und durch optische und/oder akustische Mittel eindeutig von anderen Programmteilen getrennt sein. Grundsätzlich werden Werbe- und Teleshopping-Spots in Blöcken gesendet.
 
@@ -281,11 +281,11 @@ Im Sinne dieses Artikels gilt nicht als Werbung:
 
 <sup>4.</sup> In der Werbung oder im Teleshopping dürfen weder im Bild noch im Ton Personen auftreten, die regelmässig Nachrichtensendungen und Sendungen zum politischen Zeitgeschehen vorstellen.
 
-[^13-1]: Fassung gemäss Art. 17 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^13-2]: Fassung gemäss Art. 17 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 #### Art. 14
 
-**Einfügung der Werbung und des Teleshoppings**[^14-1]
+**Einfügung der Werbung und des Teleshoppings**[^14-2]
 
 <sup>1.</sup> Werbung und Teleshopping werden zwischen Sendungen eingefügt. Unter den in den Absätzen 2–5 genannten Voraussetzungen können Werbe- und Teleshopping-Spots auch in Sendungen eingefügt werden, sofern der Gesamtzusammenhang und der Wert der Sendung sowie die Rechte der Rechteinhaber nicht beeinträchtigt werden.
 
@@ -297,19 +297,19 @@ Im Sinne dieses Artikels gilt nicht als Werbung:
 
 <sup>5.</sup> Die Übertragung von Gottesdiensten darf nicht durch Werbung oder durch Teleshopping unterbrochen werden. Nachrichtensendungen und Sendungen zum politischen Zeitgeschehen, Dokumentarsendungen, Sendungen religiösen Inhalts und Kindersendungen dürfen nicht durch Werbung oder durch Teleshopping unterbrochen werden, wenn sie kürzer als 30 Minuten sind. Dauern sie 30 Minuten oder länger, so gelten die Bestimmungen der Absätze 1–4.
 
-[^14-1]: Fassung gemäss Art. 18 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^14-2]: Fassung gemäss Art. 18 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 #### Art. 15
 
-**Werbung und Teleshopping für bestimmte Erzeugnisse[^15-1]**
+**Werbung und Teleshopping für bestimmte Erzeugnisse[^15-3]**
 
-1.[^15-2] Werbung und Teleshopping für Tabakerzeugnisse sind verboten.
+1.[^15-4] Werbung und Teleshopping für Tabakerzeugnisse sind verboten.
 
 <sup>2.</sup>
 
-Werbung und Teleshopping für alle Arten von alkoholischen Getränken müssen folgenden Regeln entsprechen:[^15-3]
+Werbung und Teleshopping für alle Arten von alkoholischen Getränken müssen folgenden Regeln entsprechen:[^15-5]
 
-- a)[^15-4] sie dürfen sich nicht eigens an Minderjährige richten; niemand, der wie ein Minderjähriger aussieht, darf im Werbe- oder im Teleshopping-Spot mit dem Konsum alkoholischer Getränke in Zusammenhang gebracht werden;
+- a)[^15-6] sie dürfen sich nicht eigens an Minderjährige richten; niemand, der wie ein Minderjähriger aussieht, darf im Werbe- oder im Teleshopping-Spot mit dem Konsum alkoholischer Getränke in Zusammenhang gebracht werden;
 - b) sie darf den Konsum von Alkohol nicht mit körperlicher Leistung oder mit Autofahren in Verbindung bringen;
 - c) sie darf nicht vorgeben, dass Alkohol therapeutische Eigenschaften besitzt oder ein Anregungs- oder Beruhigungsmittel oder ein Mittel zur Lösung persönlicher Probleme ist;
 - d) sie darf nicht zum unmässigen Konsum von Alkohol ermutigen oder Abstinenz oder Mässigung in einem negativen Licht erscheinen lassen;
@@ -319,17 +319,17 @@ Werbung und Teleshopping für alle Arten von alkoholischen Getränken müssen fo
 
 <sup>4.</sup> Werbung für alle anderen Medikamente und medizinischen Behandlungen muss klar als solche erkennbar, ehrlich, wahrheitsgemäss und nachprüfbar sein und der Forderung entsprechen, dass sie für den Menschen nicht schädlich sind.
 
-5.[^15-5] Teleshopping für Medikamente und medizinische Behandlungen ist verboten.
+5.[^15-7] Teleshopping für Medikamente und medizinische Behandlungen ist verboten.
 
-[^15-1]: Fassung gemäss Art. 19 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
-[^15-2]: Fassung gemäss Art. 19 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 [^15-3]: Fassung gemäss Art. 19 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 [^15-4]: Fassung gemäss Art. 19 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
-[^15-5]: Eingefügt durch Art. 21 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^15-5]: Fassung gemäss Art. 19 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^15-6]: Fassung gemäss Art. 19 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^15-7]: Eingefügt durch Art. 21 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 #### Art. 16
 
-**Werbung und Teleshopping, die sich eigens an eine einzelne Vertragspartei richten**[^16-1]
+**Werbung und Teleshopping, die sich eigens an eine einzelne Vertragspartei richten**[^16-2]
 
 <sup>1.</sup> Um Wettbewerbsverzerrungen und die Gefährdung des Fernsehsystems einer Vertragspartei zu vermeiden, dürfen Werbung und Teleshopping, die sich eigens und häufig an Zuschauer in einer einzelnen Vertragspartei ausserhalb der sendenden Vertragspartei richten, die für die Fernsehwerbung und das Teleshopping geltenden Vorschriften dieser Vertragspartei nicht umgehen.
 
@@ -338,7 +338,7 @@ Werbung und Teleshopping für alle Arten von alkoholischen Getränken müssen fo
 - a) wenn die betreffenden Vorschriften die Werbe- oder die Teleshopping-Spots, die durch einen der Rechtshoheit dieser Vertragspartei unterliegenden Rundfunkveranstalter verbreitet werden, schlechter stellen als die Werbe- oder die Teleshopping-Spots, die durch einen Rundfunkveranstalter oder andere natürliche oder juristische Personen unter der Rechtshoheit einer anderen Vertragspartei verbreitet werden, oder
 - b) wenn die betreffenden Vertragsparteien zwei- oder mehrseitige Übereinkünfte auf diesem Gebiet geschlossen haben.
 
-[^16-1]: Fassung gemäss Art. 22 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^16-2]: Fassung gemäss Art. 22 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 ## Kapitel IV Sponsern
 
@@ -356,17 +356,17 @@ Werbung und Teleshopping für alle Arten von alkoholischen Getränken müssen fo
 
 **Verbotenes Sponsern**
 
-1.[^18-1] Sendungen dürfen nicht durch natürliche oder juristische Personen gesponsert werden, deren Haupttätigkeit in der Herstellung oder dem Verkauf von Erzeugnissen oder der Erbringung von Dienstleistungen besteht, für die Werbung und Teleshopping aufgrund des Artikels 15 verboten sind.
+1.[^18-2] Sendungen dürfen nicht durch natürliche oder juristische Personen gesponsert werden, deren Haupttätigkeit in der Herstellung oder dem Verkauf von Erzeugnissen oder der Erbringung von Dienstleistungen besteht, für die Werbung und Teleshopping aufgrund des Artikels 15 verboten sind.
 
-2.[^18-2] Unternehmen, deren Tätigkeit unter anderem in der Herstellung oder dem Verkauf von Medikamenten und medizinischen Behandlungen besteht, können Sendungen sponsern, falls sie sich auf die Werbung für den Namen und das Erscheinungsbild des Unternehmens beschränken und für Medikamente oder spezifische medizinische Behandlungen, die in der sendenden Vertragspartei nur auf ärztliche Verordnung erhältlich sind, nicht werben.
+2.[^18-3] Unternehmen, deren Tätigkeit unter anderem in der Herstellung oder dem Verkauf von Medikamenten und medizinischen Behandlungen besteht, können Sendungen sponsern, falls sie sich auf die Werbung für den Namen und das Erscheinungsbild des Unternehmens beschränken und für Medikamente oder spezifische medizinische Behandlungen, die in der sendenden Vertragspartei nur auf ärztliche Verordnung erhältlich sind, nicht werben.
 
-3.[^18-3] Das Sponsern von Nachrichtensendungen und Sendungen zum politischen Zeitgeschehen ist verboten.
+3.[^18-4] Das Sponsern von Nachrichtensendungen und Sendungen zum politischen Zeitgeschehen ist verboten.
 
-[^18-1]: Fassung gemäss Art. 23 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
-[^18-2]: Eingefügt durch Art. 24 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
-[^18-3]: Ursprünglich: Abs. 2.
+[^18-2]: Fassung gemäss Art. 23 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^18-3]: Eingefügt durch Art. 24 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^18-4]: Ursprünglich: Abs. 2.
 
-## Kapitel IV*a***** Reine Eigenwerbe- oder Teleshoppingprogramme
+## Kapitel IV*a* Reine Eigenwerbe- oder Teleshoppingprogramme
 
 [^chapIVa-1]
 
@@ -520,7 +520,7 @@ Wenn eine Vertragspartei einen Rechtsmissbrauch behauptet, findet folgendes Verf
 <sup>6.</sup> Alle gemäss diesem Artikel vorgeschlagenen oder getroffenen Massnahmen müssen dem Artikel 10 der Konvention zum Schutze der Menschenrechte und Grundfreiheiten[^24a-2] entsprechen.
 
 [^24a-1]: Eingefügt durch Art. 30 des Prot. vom 1. Okt. 1998, von der BVers genehmigt am 23. Juni 2000 und in Kraft getreten für die Schweiz am 1. März 2002 ([AS 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [BBl 2000 1291](https://fedlex.data.admin.ch/eli/fga/2000/253)).
-[^24a-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^24a-2]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ## Kapitel IX Beilegung von Streitigkeiten
 
@@ -584,7 +584,7 @@ Dieses Übereinkommen hindert die Vertragsparteien nicht, strengere oder ausfüh
 
 <sup>2.</sup> Für jeden beitretenden Staat tritt dieses Übereinkommen am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach Hinterlegung der Beitrittsurkunde beim Generalsekretär des Europarats folgt.
 
-[^30-1]: [SR 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^30-1]: [SR 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 #### Art. 31
 
@@ -660,51 +660,52 @@ Anhang
 
 \10. Jede Streitpartei trägt die Kosten des von ihr ernannten Schiedsrichters; die Kosten des anderen Schiedsrichters sowie alle sonstigen durch das Schiedsverfahren verursachten Kosten werden von den Parteien zu gleichen Teilen getragen.
 
-Geltungsbereich am 10. Juli 2013**[^t-5]**
+Geltungsbereich am 30. Juni 2023[^t-3]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Albanien</td><td>27. April</td><td>2005</td><td>1. August</td><td>2005</td></tr>
-<tr><td colspan="2">Bosnien und Herzegowina</td><td>5. Januar</td><td>2005</td><td>1. Mai</td><td>2005</td></tr>
-<tr><td colspan="2">Bulgarien</td><td>3. März</td><td>1999</td><td>1. Juli</td><td>1999</td></tr>
-<tr><td colspan="2">Deutschland</td><td>22. Juli</td><td>1994</td><td>1. November</td><td>1994</td></tr>
-<tr><td colspan="2">Estland</td><td>24. Januar</td><td>2000</td><td>1. Mai</td><td>2000</td></tr>
-<tr><td colspan="2">Finnland\*</td><td>18. August</td><td>1994</td><td>1. Dezember</td><td>1994</td></tr>
-<tr><td colspan="2">Frankreich\*</td><td>21. Oktober</td><td>1994</td><td>1. Februar</td><td>1995</td></tr>
-<tr><td colspan="2">Heiliger Stuhl</td><td>7. Januar</td><td>1993</td><td>1. Mai</td><td>1993</td></tr>
-<tr><td colspan="2">Italien</td><td>12. Februar</td><td>1992</td><td>1. Mai</td><td>1993</td></tr>
-<tr><td colspan="2">Kroatien</td><td>12. Dezember</td><td>2001</td><td>1. April</td><td>2002</td></tr>
-<tr><td colspan="2">Lettland\*</td><td>26. Juni</td><td>1998</td><td>1. Oktober</td><td>1998</td></tr>
-<tr><td colspan="2">Liechtenstein\*</td><td>12. Juli</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td colspan="2">Litauen</td><td>27. September</td><td>2000</td><td>1. Januar</td><td>2001</td></tr>
-<tr><td colspan="2">Malta</td><td>21. Januar</td><td>1993</td><td>1. Mai</td><td>1993</td></tr>
-<tr><td colspan="2">Mazedonien\*</td><td>18. November</td><td>2003</td><td>1. März</td><td>2004</td></tr>
-<tr><td colspan="2">Moldau\*</td><td>26. März</td><td>2003</td><td>1. Juli</td><td>2003</td></tr>
-<tr><td colspan="2">Montenegro</td><td>26. Februar</td><td>2008</td><td>1. Juni</td><td>2008</td></tr>
-<tr><td colspan="2">Norwegen\*</td><td>30. Juli</td><td>1993</td><td>1. November</td><td>1993</td></tr>
-<tr><td colspan="2">Österreich</td><td>7. August</td><td>1998</td><td>1. Dezember</td><td>1998</td></tr>
-<tr><td colspan="2">Polen</td><td>7. September</td><td>1990</td><td>1. Mai</td><td>1993</td></tr>
-<tr><td colspan="2">Portugal</td><td>30. Mai</td><td>2002</td><td>1. September</td><td>2002</td></tr>
-<tr><td colspan="2">Rumänien\*</td><td>13. Juli</td><td>2004</td><td>1. November</td><td>2004</td></tr>
-<tr><td colspan="2">San Marino</td><td>31. Januar</td><td>1990</td><td>1. Mai</td><td>1993</td></tr>
-<tr><td colspan="2">Schweiz\*</td><td>9. Oktober</td><td>1991</td><td>1. Mai</td><td>1993</td></tr>
-<tr><td colspan="2">Serbien</td><td>14. September</td><td>2009</td><td>1. Januar</td><td>2010</td></tr>
-<tr><td colspan="2">Slowakei\*</td><td>20. Januar</td><td>1997</td><td>1. Mai</td><td>1997</td></tr>
-<tr><td colspan="2">Slowenien\*</td><td>29. Juli</td><td>1999</td><td>1. November</td><td>1999</td></tr>
-<tr><td colspan="2">Spanien</td><td>19. Februar</td><td>1998</td><td>1. Juni</td><td>1998</td></tr>
-<tr><td colspan="2">Tschechische Republik</td><td>17. November</td><td>2003</td><td>1. März</td><td>2004</td></tr>
-<tr><td colspan="2">Türkei</td><td>21. Januar</td><td>1994</td><td>1. Mai</td><td>1994</td></tr>
-<tr><td colspan="2">Ukraine\*</td><td>26. März</td><td>2009</td><td>1. Juli</td><td>2009</td></tr>
-<tr><td colspan="2">Ungarn\*</td><td>2. September</td><td>1996</td><td>1. Januar</td><td>1997</td></tr>
-<tr><td colspan="2">Vereinigtes Königreich</td><td>9. Oktober</td><td>1991</td><td>1. Mai</td><td>1993</td></tr>
-<tr><td colspan="2">[tab] Guernsey</td><td>2. September</td><td>1994</td><td>1. Januar</td><td>1995</td></tr>
-<tr><td colspan="2">[tab] Jersey</td><td>2. September</td><td>1994</td><td>1. Januar</td><td>1995</td></tr>
-<tr><td colspan="2">Zypern</td><td>10. Oktober</td><td>1991</td><td>1. Mai</td><td>1993</td></tr>
-<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen.</td></tr>
-<tr><td></td><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Albanien</td><td>27. April</td><td>2005</td><td>1. August</td><td>2005</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>5. Januar</td><td>2005</td><td>1. Mai</td><td>2005</td></tr>
+<tr><td>Bulgarien</td><td>3. März</td><td>1999</td><td>1. Juli</td><td>1999</td></tr>
+<tr><td>Deutschland</td><td>22. Juli</td><td>1994</td><td>1. November</td><td>1994</td></tr>
+<tr><td>Estland</td><td>24. Januar</td><td>2000</td><td>1. Mai</td><td>2000</td></tr>
+<tr><td>Finnland\*</td><td>18. August</td><td>1994</td><td>1. Dezember</td><td>1994</td></tr>
+<tr><td>Frankreich\*</td><td>21. Oktober</td><td>1994</td><td>1. Februar</td><td>1995</td></tr>
+<tr><td>Heiliger Stuhl</td><td>7. Januar</td><td>1993</td><td>1. Mai</td><td>1993</td></tr>
+<tr><td>Island</td><td>20. Januar</td><td>2023</td><td>1. Mai</td><td>2023</td></tr>
+<tr><td>Italien</td><td>12. Februar</td><td>1992</td><td>1. Mai</td><td>1993</td></tr>
+<tr><td>Kroatien</td><td>12. Dezember</td><td>2001</td><td>1. April</td><td>2002</td></tr>
+<tr><td>Lettland\*</td><td>26. Juni</td><td>1998</td><td>1. Oktober</td><td>1998</td></tr>
+<tr><td>Liechtenstein\*</td><td>12. Juli</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Litauen</td><td>27. September</td><td>2000</td><td>1. Januar</td><td>2001</td></tr>
+<tr><td>Malta</td><td>21. Januar</td><td>1993</td><td>1. Mai</td><td>1993</td></tr>
+<tr><td>Moldau\*</td><td>26. März</td><td>2003</td><td>1. Juli</td><td>2003</td></tr>
+<tr><td>Montenegro</td><td>26. Februar</td><td>2008</td><td>1. Juni</td><td>2008</td></tr>
+<tr><td>Nordmazedonien\*</td><td>18. November</td><td>2003</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Norwegen\*</td><td>30. Juli</td><td>1993</td><td>1. November</td><td>1993</td></tr>
+<tr><td>Österreich</td><td>7. August</td><td>1998</td><td>1. Dezember</td><td>1998</td></tr>
+<tr><td>Polen</td><td>7. September</td><td>1990</td><td>1. Mai</td><td>1993</td></tr>
+<tr><td>Portugal</td><td>30. Mai</td><td>2002</td><td>1. September</td><td>2002</td></tr>
+<tr><td>Rumänien\*</td><td>13. Juli</td><td>2004</td><td>1. November</td><td>2004</td></tr>
+<tr><td>San Marino</td><td>31. Januar</td><td>1990</td><td>1. Mai</td><td>1993</td></tr>
+<tr><td>Schweiz\*</td><td>9. Oktober</td><td>1991</td><td>1. Mai</td><td>1993</td></tr>
+<tr><td>Serbien</td><td>14. September</td><td>2009</td><td>1. Januar</td><td>2010</td></tr>
+<tr><td>Slowakei\*</td><td>20. Januar</td><td>1997</td><td>1. Mai</td><td>1997</td></tr>
+<tr><td>Slowenien\*</td><td>29. Juli</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Spanien</td><td>19. Februar</td><td>1998</td><td>1. Juni</td><td>1998</td></tr>
+<tr><td>Tschechische Republik</td><td>17. November</td><td>2003</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Türkei</td><td>21. Januar</td><td>1994</td><td>1. Mai</td><td>1994</td></tr>
+<tr><td>Ukraine\*</td><td>26. März</td><td>2009</td><td>1. Juli</td><td>2009</td></tr>
+<tr><td>Ungarn\*</td><td>2. September</td><td>1996</td><td>1. Januar</td><td>1997</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>9. Oktober</td><td>1991</td><td>1. Mai</td><td>1993</td></tr>
+<tr><td>Gibraltar</td><td>1. Dezember</td><td>2019</td><td>1. Dezember</td><td>2019</td></tr>
+<tr><td>Guernsey</td><td>2. September</td><td>1994</td><td>1. Januar</td><td>1995</td></tr>
+<tr><td>Jersey</td><td>2. September</td><td>1994</td><td>1. Januar</td><td>1995</td></tr>
+<tr><td>Zypern</td><td>10. Oktober</td><td>1991</td><td>1. Mai</td><td>1993</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/%20) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-5]: [AS 1993 1077](https://fedlex.data.admin.ch/eli/oc/1993/1077_1077_1077), [1995 3044](https://fedlex.data.admin.ch/eli/oc/1995/3044_3044_3044), [2004 2441](https://fedlex.data.admin.ch/eli/oc/2004/291), [2007 4461](https://fedlex.data.admin.ch/eli/oc/2007/625)und [2013 2449](https://fedlex.data.admin.ch/eli/oc/2013/513). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1993 1077](https://fedlex.data.admin.ch/eli/oc/1993/1077_1077_1077); [1995 3044](https://fedlex.data.admin.ch/eli/oc/1995/3044_3044_3044); [2004 2441](https://fedlex.data.admin.ch/eli/oc/2004/291); [2007 4461](https://fedlex.data.admin.ch/eli/oc/2007/625); [2013 2449](https://fedlex.data.admin.ch/eli/oc/2013/513); [2023 362](https://fedlex.data.admin.ch/eli/oc/2023/362). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

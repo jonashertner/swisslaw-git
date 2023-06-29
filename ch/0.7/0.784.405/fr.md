@@ -3,18 +3,20 @@ sr: "0.784.405"
 title: Convention européenne du 5 mai 1989 sur la télévision transfrontière (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877"
 language: fr
-version: 2013-07-10
+version: 2023-06-30
 adopted: 1989-05-05
 in_force: 1989-05-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877/20130710/fr/xml/fedlex-data-admin-ch-eli-cc-1989-1877_1877_1877-20130710-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1877_1877_1877/20130710/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877/20230630/fr/xml/fedlex-data-admin-ch-eli-cc-1989-1877_1877_1877-20230630-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1877_1877_1877/20230630/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention européenne sur la télévision transfrontière****
+# Convention européenne sur la télévision transfrontière
 
-[^t-2]ro Texte original[^t-1]
+RO **1989** 1877; FF **1990** III 881[^t-1]
+
+Texte original
 
 Conclue à Strasbourg le 5 mai 1989
 
@@ -22,46 +24,45 @@ Signée par la Suisse le 5 mai 1989
 
 Appliquée provisoirement par la Suisse depuis le 5 mai 1989
 
-Approuvée par l’Assemblée fédérale le 21 juin 1991[^t-3]
+Approuvée par l’Assemblée fédérale le 21 juin 1991[^t-2]
 
 Instrument de ratification déposé par la Suisse le 9 octobre 1991
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> mai 1993
 
-(Etat le 10 juillet 2013)
+(État le 30 juin 2023)
 
 [^t-1]: Modifié par le Prot. du 1<sup>er</sup> oct. 1998, approuvé par l’Ass. féd. le 23 juin 2000 et en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1225](https://fedlex.data.admin.ch/eli/fga/2000/253)).
-[^t-2]: [RO 1989 1877](https://fedlex.data.admin.ch/eli/oc/1989/1877_1877_1877); [FF 1990 III 881](https://fedlex.data.admin.ch/eli/fga/1990/3_925_881_757)
-[^t-3]: [RO 1993 1076](https://fedlex.data.admin.ch/eli/oc/1993/1076_1076_1076)
+[^t-2]: [RO 1993 1076](https://fedlex.data.admin.ch/eli/oc/1993/1076_1076_1076)
 
-Préambule
+*Préambule*
 
-Les Etats membres du Conseil de l’Europe et les autres Etats parties à la Convention culturelle européenne[^ingress-1], signataires de la présente Convention,
+Les États membres du Conseil de l’Europe et les autres États parties à la Convention culturelle européenne[^ingress-1], signataires de la présente Convention,
 
-considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres afin de sauvegarder et de promouvoir les idéaux et les principes qui sont leur patrimoine commun;
+considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres afin de sauvegarder et de promouvoir les idéaux et les principes qui sont leur patrimoine commun,
 
-considérant que la dignité et la valeur égale de chaque être humain constituent des éléments fondamentaux de ces principes;
+considérant que la dignité et la valeur égale de chaque être humain constituent des éléments fondamentaux de ces principes,
 
-considérant que la liberté d’expression et d’information, telle que garantie à l’article 10 de la Convention de sauvegarde des Droits de l’Homme et des Libertés fondamentales[^ingress-2], constitue l’un des principes essentiels d’une société démocratique et l’une des conditions de base pour son développement et celui de tout être humain;
+considérant que la liberté d’expression et d’information, telle que garantie à l’article 10 de la Convention de sauvegarde des Droits de l’Homme et des Libertés fondamentales[^ingress-2], constitue l’un des principes essentiels d’une société démocratique et l’une des conditions de base pour son développement et celui de tout être humain,
 
-réaffirmant leur attachement aux principes de la libre circulation de l’information et des idées et de l’indépendance des radiodiffuseurs, qui constituent une base indispensable de leur politique en matière de radiodiffusion;
+réaffirmant leur attachement aux principes de la libre circulation de l’information et des idées et de l’indépendance des radiodiffuseurs, qui constituent une base indispensable de leur politique en matière de radiodiffusion,
 
-affirmant l’importance de la radiodiffusion pour le développement de la culture et pour la libre formation des opinions dans des conditions permettant de sauvegarder le pluralisme et l’égalité des chances entre tous les groupes et les partis politiques démocratiques;
+affirmant l’importance de la radiodiffusion pour le développement de la culture et pour la libre formation des opinions dans des conditions permettant de sauvegarder le pluralisme et l’égalité des chances entre tous les groupes et les partis politiques démocratiques,
 
-persuadés que le développement continu de la technologie de l’information et de la communication devrait servir à promouvoir le droit, sans considération de frontières, d’exprimer, de rechercher, de recevoir et de communiquer des informations et des idées, quelle que soit leur source;
+persuadés que le développement continu de la technologie de l’information et de la communication devrait servir à promouvoir le droit, sans considération de frontières, d’exprimer, de rechercher, de recevoir et de communiquer des informations et des idées, quelle que soit leur source,
 
-désireux d’offrir au public un plus grand choix de services de programmes permettant de valoriser le patrimoine et de développer la création audiovisuelle de l’Europe, et décidés à atteindre cet objectif culturel grâce à des efforts pour accroître la production et la circulation de programmes de haute qualité, répondant ainsi aux attentes du public dans les domaines de la politique, de l’éducation et de la culture;
+désireux d’offrir au public un plus grand choix de services de programmes permettant de valoriser le patrimoine et de développer la création audiovisuelle de l’Europe, et décidés à atteindre cet objectif culturel grâce à des efforts pour accroître la production et la circulation de programmes de haute qualité, répondant ainsi aux attentes du public dans les domaines de la politique, de l’éducation et de la culture,
 
-reconnaissant la nécessité de consolider le cadre général de règles communes;
+reconnaissant la nécessité de consolider le cadre général de règles communes,
 
-ayant à l’esprit la Résolution n<sup>o</sup> 2 et la Déclaration de la 1<sup>re</sup> Conférence ministérielle européenne sur la politique des communications de masse;
+ayant à l’esprit la Résolution n<sup>o</sup> 2 et la Déclaration de la 1<sup>re</sup> Conférence ministérielle européenne sur la politique des communications de masse,
 
 désireux de développer les principes reconnus dans les Recommandations existant au sein du Conseil de l’Europe sur les principes relatifs à la publicité télévisée, sur l’égalité entre les femmes et les hommes dans les médias, sur l’utilisation de capacités de satellite pour la télévision et la radiodiffusion sonore, et sur la promotion de la production audiovisuelle en Europe,
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.440.1](https://fedlex.data.admin.ch/eli/cc/1962/935_972_973)
-[^ingress-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^ingress-1]: [RS 0.440.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1796)
+[^ingress-2]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ## Chapitre I Dispositions générales
 
@@ -113,10 +114,10 @@ Aux fins de la présente Convention, est Partie de transmission:
   dans le cas de transmissions par satellite:
 
   - i. la Partie dans laquelle est située l’origine de la liaison montante vers le satellite,
-  - ii. la Partie qui accorde le droit d’utiliser une fréquence ou une capacité de satellite lorsque l’origine de la liaison montante est située dans un Etat qui n’est pas Partie à la présente Convention,
+  - ii. la Partie qui accorde le droit d’utiliser une fréquence ou une capacité de satellite lorsque l’origine de la liaison montante est située dans un État qui n’est pas Partie à la présente Convention,
   - iii. la Partie dans laquelle le radiodiffuseur a son siège, lorsque la responsabilité n’est pas établie en vertu des alinéas i et ii.
 
-<sup>3.</sup> Lorsque des services de programmes transmis depuis des Etats qui ne sont pas Parties à la Convention sont retransmis par des organismes ou à l’aide de moyens techniques relevant de la juridiction d’une Partie au sens de l’article 3, cette Partie, en qualité de Partie de transmission, veille, par des moyens appropriés et ses instances compétentes, à la conformité de ces services avec les dispositions de la présente Convention.
+<sup>3.</sup> Lorsque des services de programmes transmis depuis des États qui ne sont pas Parties à la Convention sont retransmis par des organismes ou à l’aide de moyens techniques relevant de la juridiction d’une Partie au sens de l’article 3, cette Partie, en qualité de Partie de transmission, veille, par des moyens appropriés et ses instances compétentes, à la conformité de ces services avec les dispositions de la présente Convention.
 
 #### Art. 6
 
@@ -149,7 +150,7 @@ En particulier, ils ne doivent pas:
 
 <sup>1.</sup> Chaque Partie de transmission s’assure que toute personne physique ou morale, quelle que soit sa nationalité ou son lieu de résidence, puisse exercer un droit de réponse ou avoir accès à un autre recours juridique ou administratif comparable à l’égard des émissions transmises ou retransmises par des organismes ou à l’aide de moyens techniques relevant de sa juridiction, au sens de l’article 3. Elle veille notamment à ce que le délai et les autres modalités prévues pour l’exercice du droit de réponse soient suffisants pour permettre l’exercice effectif de ce droit. L’exercice effectif de ce droit ou d’autres recours juridiques ou administratifs comparables doit être assuré tant du point de vue des délais que pour ce qui est des modalités d’application.
 
-<sup>2.</sup> A cet effet, le nom du radiodiffuseur responsable du service de programmes y est identifié à intervalles réguliers par toutes indications appropriées.
+<sup>2.</sup> À cet effet, le nom du radiodiffuseur responsable du service de programmes y est identifié à intervalles réguliers par toutes indications appropriées.
 
 #### Art. 9
 
@@ -167,7 +168,7 @@ Chaque Partie examine les mesures juridiques pour éviter que le droit du public
 
 <sup>3.</sup> Les Parties s’engagent à rechercher ensemble les instruments et procédures les plus adéquats pour soutenir, sans discrimination entre les radiodiffuseurs, l’activité et le développement de la production européenne, notamment dans les Parties à faible capacité de production audiovisuelle ou à aire linguistique restreinte.
 
-<sup>4.</sup> Dans l’esprit de coopération et d’entraide qui sous-tend la présente Convention, les Parties s’efforceront d’éviter que les services de programmes transmis ou retransmis par des organismes ou à l’aide de moyens techniques relevant de leur juridiction, au sens de l’article 3, ne mettent en danger le pluralisme de la presse écrite et le développement des industries du cinéma. A cet effet, aucune transmission d’œuvres cinématographiques par ces services ne doit intervenir, sauf accord contraire entre les détenteurs de droits et le radiodiffuseur, avant un délai de deux ans après le début de l’exploitation de cette œuvre dans les salles de cinéma; dans le cas d’œuvres cinématographiques coproduites par le radiodiffuseur, ce délai sera d’un an.
+<sup>4.</sup> Dans l’esprit de coopération et d’entraide qui sous-tend la présente Convention, les Parties s’efforceront d’éviter que les services de programmes transmis ou retransmis par des organismes ou à l’aide de moyens techniques relevant de leur juridiction, au sens de l’article 3, ne mettent en danger le pluralisme de la presse écrite et le développement des industries du cinéma. À cet effet, aucune transmission d’œuvres cinématographiques par ces services ne doit intervenir, sauf accord contraire entre les détenteurs de droits et le radiodiffuseur, avant un délai de deux ans après le début de l’exploitation de cette œuvre dans les salles de cinéma; dans le cas d’œuvres cinématographiques coproduites par le radiodiffuseur, ce délai sera d’un an.
 
 ## Chapitre III Publicité
 
@@ -249,7 +250,7 @@ La publicité pour les boissons alcoolisées de toutes sortes est soumise aux r�
 
 Les dispositions du paragraphe précédent ne s’appliquent pas lorsque:
 
-- a. les règles concernées établissent une discrimination entre les messages publicitaires transmis par des organismes ou à l’aide de moyens techniques relevant de la juridiction de cette Partie et les messages publicitaires transmis par des organismes ou à l’aide de moyens techniques relevant de la juridiction d’une autre Partie; ou
+- a. les règles concernées établissent une discrimination entre les messages publicitaires transmis par des organismes ou à l’aide de moyens techniques relevant de la juridiction de cette Partie et les messages publicitaires transmis par des organismes ou à l’aide de moyens techniques relevant de la juridiction d’une autre Partie, ou
 - b. les Parties concernées ont conclu des accords bi- ou multilatéraux en ce domaine.
 
 ## Chapitre IV Parrainage
@@ -282,10 +283,10 @@ Les dispositions du paragraphe précédent ne s’appliquent pas lorsque:
 
 <sup>2.</sup>
 
-A cette fin:
+À cette fin:
 
-- a. chaque Etat contractant désigne une ou plusieurs autorités dont il communique la dénomination et l’adresse au Secrétaire Général du Conseil du l’Europe, au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
-- b. chaque Etat contractant qui a désigné plusieurs autorités indique, dans la communication visée à l’alinéa *a,* la compétence de chacune de ces autorités.
+- a. chaque État contractant désigne une ou plusieurs autorités dont il communique la dénomination et l’adresse au Secrétaire Général du Conseil du l’Europe, au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
+- b. chaque État contractant qui a désigné plusieurs autorités indique, dans la communication visée à l’alinéa *a,* la compétence de chacune de ces autorités.
 
 <sup>3.</sup>
 
@@ -304,9 +305,9 @@ Une autorité désignée par une Partie:
 
 <sup>1.</sup> Il est constitué, aux fins de la présente Convention, un Comité permanent.
 
-<sup>2.</sup> Toute Partie peut se faire représenter au sein du Comité permanent par un ou plusieurs délégués. Chaque délégation dispose d’une voix. Dans les domaines relevant de ses compétences, la Communauté économique européenne exerce son droit de vote avec un nombre de voix égal au nombre de ses Etats membres qui sont Parties à la présente Convention; la Communauté économique européenne n’exerce pas son droit de vote dans les cas où les Etats membres concernés exercent le leur, et réciproquement.
+<sup>2.</sup> Toute Partie peut se faire représenter au sein du Comité permanent par un ou plusieurs délégués. Chaque délégation dispose d’une voix. Dans les domaines relevant de ses compétences, la Communauté économique européenne exerce son droit de vote avec un nombre de voix égal au nombre de ses États membres qui sont Parties à la présente Convention; la Communauté économique européenne n’exerce pas son droit de vote dans les cas où les États membres concernés exercent le leur, et réciproquement.
 
-<sup>3.</sup> Tout Etat visé à l’article 29, paragraphe 1, qui n’est pas partie à la présente Convention peut se faire représenter au Comité permanent par un observateur.
+<sup>3.</sup> Tout État visé à l’article 29, paragraphe 1, qui n’est pas partie à la présente Convention peut se faire représenter au Comité permanent par un observateur.
 
 <sup>4.</sup> Le Comité permanent peut, pour l’accomplissement de sa mission, recourir à des experts. Il peut, de sa propre initiative ou à la demande de l’organisme concerné, inviter tout organisme national ou international, gouvernemental ou non gouvernemental, techniquement qualifié dans les domaines couverts par la présente Convention, à être représenté par un observateur à tout ou partie d’une de ses réunions. La décision d’inviter de tels experts ou organismes est prise à la majorité des trois quarts des membres du Comité permanent.
 
@@ -328,7 +329,7 @@ Le Comité permanent est chargé de suivre l’application de la présente Conve
 - b. suggérer les modifications à la Convention qui pourraient être nécessaires et examiner celles qui sont proposées conformément aux dispositions de l’article 23;
 - c. examiner, à la demande d’une ou de plusieurs Parties, toute question relative à l’interprétation de la Convention;
 - d. faciliter autant que de besoin le règlement amiable de toute difficulté qui lui est notifiée conformément aux dispositions de l’article 25;
-- e. faire des recommandations au Comité des Ministres relatives à l’invitation d’Etats autres que ceux visés à l’article 29, paragraphe 1, à adhérer à la Convention.
+- e. faire des recommandations au Comité des Ministres relatives à l’invitation d’États autres que ceux visés à l’article 29, paragraphe 1, à adhérer à la Convention.
 
 #### Art. 22
 
@@ -344,7 +345,7 @@ Après chacune de ses réunions, le Comité permanent transmet aux Parties et au
 
 <sup>1.</sup> Toute Partie peut proposer des amendements à la présente Convention.
 
-<sup>2.</sup> Toute proposition d’amendement est notifiée au Secrétaire Général du Conseil de l’Europe qui la communique aux Etats membres du Conseil de l’Europe, aux autres Etats parties à la Convention culturelle européenne, à la Communauté économique européenne et à chaque Etat non membre qui a adhéré ou a été invité à adhéré à la présente Convention conformément aux dispositions de l’article 30. Le Secrétaire Général du Conseil de l’Europe convoque une réunion du Comité permanent au plus tôt deux mois après la communication de la proposition d’amendement.
+<sup>2.</sup> Toute proposition d’amendement est notifiée au Secrétaire Général du Conseil de l’Europe qui la communique aux États membres du Conseil de l’Europe, aux autres États parties à la Convention culturelle européenne, à la Communauté économique européenne et à chaque État non membre qui a adhéré ou a été invité à adhéré à la présente Convention conformément aux dispositions de l’article 30. Le Secrétaire Général du Conseil de l’Europe convoque une réunion du Comité permanent au plus tôt deux mois après la communication de la proposition d’amendement.
 
 <sup>3.</sup> Toute proposition d’amendement est examinée par le Comité permanent qui soumet le texte adopté à la majorité des trois quarts des membres du Comité permanent au Comité des Ministres pour approbation. Après cette approbation, le texte est transmis aux Parties pour acceptation.
 
@@ -408,31 +409,31 @@ Aucune disposition de la présente Convention ne saurait empêcher les Parties d
 
 **Signature et entrée en vigueur**
 
-<sup>1.</sup> La présente Convention est ouverte à la signature des Etats membres du Conseil de l’Europe et des autres Etats parties à la Convention culturelle européenne, ainsi qu’à celle de la Communauté économique européenne. Elle sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
+<sup>1.</sup> La présente Convention est ouverte à la signature des États membres du Conseil de l’Europe et des autres États parties à la Convention culturelle européenne, ainsi qu’à celle de la Communauté économique européenne. Elle sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
 
-<sup>2.</sup> La Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle sept Etats, dont au moins cinq Etats membres du Conseil de l’Europe, auront exprimé leur consentement à être liés par la Convention conformément aux dispositions du paragraphe précédent.
+<sup>2.</sup> La Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle sept États, dont au moins cinq États membres du Conseil de l’Europe, auront exprimé leur consentement à être liés par la Convention conformément aux dispositions du paragraphe précédent.
 
-<sup>3.</sup> Un Etat peut, lors de la signature ou à une date ultérieure précédant l’entrée en vigueur de la présente Convention à son égard, déclarer qu’il appliquera la Convention à titre provisoire.
+<sup>3.</sup> Un État peut, lors de la signature ou à une date ultérieure précédant l’entrée en vigueur de la présente Convention à son égard, déclarer qu’il appliquera la Convention à titre provisoire.
 
-<sup>4.</sup> La Convention entrera en vigueur à l’égard de tout Etat visé au paragraphe 1, ou de la Communauté économique européenne, qui exprimeront ultérieurement leur consentement à être liés par elle, le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
+<sup>4.</sup> La Convention entrera en vigueur à l’égard de tout État visé au paragraphe 1, ou de la Communauté économique européenne, qui exprimeront ultérieurement leur consentement à être liés par elle, le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
 
 #### Art. 30
 
-**Adhésion d’Etats non membres**
+**Adhésion d’États non membres**
 
-<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra, après consultation des Etats contractants, inviter tout autre Etat à adhérer à la Convention par une décision prise à la majorité prévue à l’article 20*d* du Statut du Conseil de l’Europe[^30-1] et à l’unanimité des représentants des Etats contractants ayant le droit de siéger au Comité.
+<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra, après consultation des États contractants, inviter tout autre État à adhérer à la Convention par une décision prise à la majorité prévue à l’article 20*d* du Statut du Conseil de l’Europe[^26-1] et à l’unanimité des représentants des États contractants ayant le droit de siéger au Comité.
 
-<sup>2.</sup> Pour tout Etat adhérent, la Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
+<sup>2.</sup> Pour tout État adhérent, la Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
 
-[^30-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^26-1]: [RS 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 #### Art. 31
 
 **Application territoriale**
 
-<sup>1.</sup> Tout Etat peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
+<sup>1.</sup> Tout État peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
 
-<sup>2.</sup> Tout Etat peut, à tout autre moment par la suite, par une déclaration adressée au Secrétaire Général du Conseil de l’Europe, étendre l’application de la présente Convention à tout autre territoire désigné dans la déclaration. La Convention entrera en vigueur à l’égard de ce territoire le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de réception de la déclaration par le Secrétaire Général.
+<sup>2.</sup> Tout État peut, à tout autre moment par la suite, par une déclaration adressée au Secrétaire Général du Conseil de l’Europe, étendre l’application de la présente Convention à tout autre territoire désigné dans la déclaration. La Convention entrera en vigueur à l’égard de ce territoire le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de réception de la déclaration par le Secrétaire Général.
 
 <sup>3.</sup> Toute déclaration faite en vertu des deux paragraphes précédents pourra être retirée, en ce qui concerne tout territoire désigné dans cette déclaration, par notification adressée au Secrétaire Général. Le retrait prendra effet le premier jour du mois qui suit l’expiration d’une période de six mois après la date de réception de la notification par le Secrétaire Général.
 
@@ -444,12 +445,12 @@ Aucune disposition de la présente Convention ne saurait empêcher les Parties d
 
 Au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion:
 
-- a. tout Etat peut déclarer qu’il se réserve le droit de s’opposer à la retransmission sur son territoire, dans la seule mesure où elle n’est pas conforme à sa législation nationale, de services de programmes contenant de la publicité pour les boissons alcoolisées selon les règles prévues à l’article 15, paragraphe 2, de la présente Convention;
+- a. tout État peut déclarer qu’il se réserve le droit de s’opposer à la retransmission sur son territoire, dans la seule mesure où elle n’est pas conforme à sa législation nationale, de services de programmes contenant de la publicité pour les boissons alcoolisées selon les règles prévues à l’article 15, paragraphe 2, de la présente Convention;
 - b. le Royaume-Uni peut déclarer qu’il se réserve le droit de ne pas satisfaire à l’obligation, prévue par l’article 15, paragraphe 1, d’interdire la publicité pour les produits du tabac, en ce qui concerne la publicité pour les cigares et le tabac pour pipe diffusée par l’*Independent Broadcasting Authority* sur le territoire britannique par des moyens terrestres.
 
 <sup>2.</sup> Une réserve formulée conformément au paragraphe précédent ne peut pas faire l’objet d’objections.
 
-<sup>3.</sup> Tout Etat contractant qui a formulé une réserve en vertu du paragraphe 1 peut la retirer en tout ou partie en adressant une notification au Secrétaire Général du Conseil de l’Europe. Le retrait prendra effet à la date de réception de la notification par le Secrétaire Général.
+<sup>3.</sup> Tout État contractant qui a formulé une réserve en vertu du paragraphe 1 peut la retirer en tout ou partie en adressant une notification au Secrétaire Général du Conseil de l’Europe. Le retrait prendra effet à la date de réception de la notification par le Secrétaire Général.
 
 <sup>4.</sup> La Partie qui a formulé une réserve au sujet d’une disposition de la présente Convention ne peut prétendre à l’application de cette disposition par une autre Partie; toutefois, elle peut, si la réserve est partielle ou conditionnelle, prétendre à l’application de cette disposition dans la mesure où elle-même l’a acceptée.
 
@@ -465,7 +466,7 @@ Au moment de la signature ou au moment du dépôt de son instrument de ratificat
 
 **Notifications**
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil, aux autres Etats parties à la Convention culturelle européenne, à la Communauté économique européenne et à tout Etat ayant adhéré ou ayant été invité à adhérer à la présente Convention:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres du Conseil, aux autres États parties à la Convention culturelle européenne, à la Communauté économique européenne et à tout État ayant adhéré ou ayant été invité à adhérer à la présente Convention:
 
 - a. toute signature;
 - b. le dépôt de tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
@@ -473,9 +474,7 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du
 - d. tout rapport établi en application des dispositions de l’article 22;
 - e. tout autre acte, déclaration, notification ou communication ayant trait à la présente Convention.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Strasbourg, le 5 mai 1989, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des Etats membres du Conseil de l’Europe, aux autres Etats parties à la Convention culturelle européenne, à la Communauté économique européenne et à tout Etat invité à adhérer à la présente Convention.
-
-(Suivent les signatures)
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Strasbourg, le 5 mai 1989, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, aux autres États parties à la Convention culturelle européenne, à la Communauté économique européenne et à tout État invité à adhérer à la présente Convention. (Suivent les signatures)
 
 Annexe
 
@@ -483,7 +482,7 @@ Annexe
 
 \1. Toute requête d’arbitrage est notifiée au Secrétaire Général du Conseil de l’Europe. Elle indique le nom de l’autre partie au différend et l’objet du différend. Le Secrétaire Général communique les informations ainsi reçues à toutes les Parties à la Convention.
 
-\2. En cas de différend entre deux Parties dont l’une est un Etat membre de la Communauté économique européenne, elle-même Partie, la requête d’arbitrage est adressée à la fois à cet Etat membre et à la Communauté, qui notifient conjointement au Secrétaire Général, dans un délai d’un mois après la réception de la requête, si l’Etat membre ou la Communauté, ou l’Etat membre et la Communauté conjointement, se constituent partie au différend. A défaut d’une telle notification dans ledit délai, l’Etat membre et la Communauté sont réputés n’être qu’une seule et même partie au différend pour l’application des dispositions régissant la constitution et la procédure du tribunal arbitral. Il en est de même lorsque l’Etat membre et la Communauté se constituent conjointement partie au différend. Dans l’hypothèse envisagée par le présent paragraphe, le délai d’un mois prévu à la première phrase du paragraphe 4 ci-après est porté à deux mois.
+\2. En cas de différend entre deux Parties dont l’une est un État membre de la Communauté économique européenne, elle-même Partie, la requête d’arbitrage est adressée à la fois à cet État membre et à la Communauté, qui notifient conjointement au Secrétaire Général, dans un délai d’un mois après la réception de la requête, si l’État membre ou la Communauté, ou l’État membre et la Communauté conjointement, se constituent partie au différend. À défaut d’une telle notification dans ledit délai, l’État membre et la Communauté sont réputés n’être qu’une seule et même partie au différend pour l’application des dispositions régissant la constitution et la procédure du tribunal arbitral. Il en est de même lorsque l’État membre et la Communauté se constituent conjointement partie au différend. Dans l’hypothèse envisagée par le présent paragraphe, le délai d’un mois prévu à la première phrase du paragraphe 4 ci-après est porté à deux mois.
 
 \3. Le tribunal arbitral est composé de trois membres: chacune des parties au différend nomme un arbitre; les deux arbitres ainsi nommés désignent d’un commun accord le troisième arbitre, qui assume la présidence du tribunal. Ce dernier ne doit pas être ressortissant de l’une des parties au différend, ni avoir sa résidence habituelle sur le territoire de l’une de ces parties, ni se trouver au service de l’une d’elles, ni s’être déjà occupé de l’affaire à un autre titre.
 
@@ -501,50 +500,52 @@ Annexe
 
 \10. Chaque partie au différend supporte les frais de l’arbitre qu’elle a nommé; ces parties supportent, à parts égales, les frais de l’autre arbitre, ainsi que les autres dépenses entraînées par l’arbitrage.
 
-Champ d’application le 10 juillet 2013**[^t-4]**
+Champ d’application le 30 juin 2023[^t-3]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Albanie</td><td>27 avril</td><td>2005</td><td>1<sup>er</sup> août</td><td>2005</td></tr>
-<tr><td colspan="2">Allemagne</td><td>22 juillet</td><td>1994</td><td>1<sup>er</sup> novembre</td><td>1994</td></tr>
-<tr><td colspan="2">Autriche</td><td>7 août</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1998</td></tr>
-<tr><td colspan="2">Bosnie et Herzégovine</td><td>5 janvier</td><td>2005</td><td>1<sup>er</sup> mai</td><td>2005</td></tr>
-<tr><td colspan="2">Bulgarie</td><td>3 mars</td><td>1999</td><td>1<sup>er</sup> juillet</td><td>1999</td></tr>
-<tr><td colspan="2">Chypre</td><td>10 octobre</td><td>1991</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
-<tr><td colspan="2">Croatie</td><td>12 décembre</td><td>2001</td><td>1<sup>er</sup> avril</td><td>2002</td></tr>
-<tr><td colspan="2">Espagne</td><td>19 février</td><td>1998</td><td>1<sup>er</sup> juin</td><td>1998</td></tr>
-<tr><td colspan="2">Estonie</td><td>24 janvier</td><td>2000</td><td>1<sup>er</sup> mai</td><td>2000</td></tr>
-<tr><td colspan="2">Finlande\*</td><td>18 août</td><td>1994</td><td>1<sup>er</sup> décembre</td><td>1994</td></tr>
-<tr><td colspan="2">France\*</td><td>21 octobre</td><td>1994</td><td>1<sup>er</sup> février</td><td>1995</td></tr>
-<tr><td colspan="2">Hongrie\*</td><td>2 septembre</td><td>1996</td><td>1<sup>er</sup> janvier</td><td>1997</td></tr>
-<tr><td colspan="2">Italie</td><td>12 février</td><td>1992</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
-<tr><td colspan="2">Lettonie\*</td><td>26 juin</td><td>1998</td><td>1<sup>er</sup> octobre</td><td>1998</td></tr>
-<tr><td colspan="2">Liechtenstein\*</td><td>12 juillet</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
-<tr><td colspan="2">Lituanie</td><td>27 septembre</td><td>2000</td><td>1<sup>er</sup> janvier</td><td>2001</td></tr>
-<tr><td colspan="2">Macédoine\*</td><td>18 novembre</td><td>2003</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
-<tr><td colspan="2">Malte</td><td>21 janvier</td><td>1993</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
-<tr><td colspan="2">Moldova\*</td><td>26 mars</td><td>2003</td><td>1<sup>er</sup> juillet</td><td>2003</td></tr>
-<tr><td colspan="2">Monténégro</td><td>26 février</td><td>2008</td><td>1<sup>er</sup> juin</td><td>2008</td></tr>
-<tr><td colspan="2">Norvège\*</td><td>30 juillet</td><td>1993</td><td>1<sup>er</sup> novembre</td><td>1993</td></tr>
-<tr><td colspan="2">Pologne</td><td>7 septembre</td><td>1990</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
-<tr><td colspan="2">Portugal</td><td>30 mai</td><td>2002</td><td>1<sup>er</sup> septembre</td><td>2002</td></tr>
-<tr><td colspan="2">République tchèque</td><td>17 novembre</td><td>2002</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
-<tr><td colspan="2">Roumanie<sup>\*</sup></td><td>13 juillet</td><td>2004</td><td>1<sup>er</sup> novembre</td><td>2004</td></tr>
-<tr><td colspan="2">Royaume-Uni\*</td><td>9 octobre</td><td>1991</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
-<tr><td colspan="2">[tab] Guernesey</td><td>2 septembre</td><td>1994</td><td>1<sup>er</sup> janvier</td><td>1995</td></tr>
-<tr><td colspan="2">[tab] Jersey</td><td>2 septembre</td><td>1994</td><td>1<sup>er</sup> janvier</td><td>1995</td></tr>
-<tr><td colspan="2">Saint-Marin</td><td>31 janvier</td><td>1990</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
-<tr><td colspan="2">Saint-Siège</td><td>7 janvier</td><td>1993</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
-<tr><td colspan="2">Serbie</td><td>14 septembre</td><td>2009</td><td>1<sup>er</sup> janvier</td><td>2010</td></tr>
-<tr><td colspan="2">Slovaquie\*</td><td>20 janvier</td><td>1997</td><td>1<sup>er</sup> mai</td><td>1997</td></tr>
-<tr><td colspan="2">Slovénie\*</td><td>29 juillet</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
-<tr><td colspan="2">Suisse\*</td><td>9 octobre</td><td>1991</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
-<tr><td colspan="2">Turquie</td><td>21 janvier</td><td>1994</td><td>1<sup>er</sup> mai</td><td>1994</td></tr>
-<tr><td colspan="2">Ukraine\*</td><td>26 mars</td><td>2009</td><td>1<sup>er</sup> juillet</td><td>2009</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Albanie</td><td>27 avril</td><td>2005</td><td>1<sup>er</sup> août</td><td>2005</td></tr>
+<tr><td>Allemagne</td><td>22 juillet</td><td>1994</td><td>1<sup>er</sup> novembre</td><td>1994</td></tr>
+<tr><td>Autriche</td><td>7 août</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1998</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>5 janvier</td><td>2005</td><td>1<sup>er</sup> mai</td><td>2005</td></tr>
+<tr><td>Bulgarie</td><td>3 mars</td><td>1999</td><td>1<sup>er</sup> juillet</td><td>1999</td></tr>
+<tr><td>Chypre</td><td>10 octobre</td><td>1991</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
+<tr><td>Croatie</td><td>12 décembre</td><td>2001</td><td>1<sup>er</sup> avril</td><td>2002</td></tr>
+<tr><td>Espagne</td><td>19 février</td><td>1998</td><td>1<sup>er</sup> juin</td><td>1998</td></tr>
+<tr><td>Estonie</td><td>24 janvier</td><td>2000</td><td>1<sup>er</sup> mai</td><td>2000</td></tr>
+<tr><td>Finlande\*</td><td>18 août</td><td>1994</td><td>1<sup>er</sup> décembre</td><td>1994</td></tr>
+<tr><td>France\*</td><td>21 octobre</td><td>1994</td><td>1<sup>er</sup> février</td><td>1995</td></tr>
+<tr><td>Hongrie\*</td><td>2 septembre</td><td>1996</td><td>1<sup>er</sup> janvier</td><td>1997</td></tr>
+<tr><td>Islande</td><td>20 janvier</td><td>2023</td><td>1er mai</td><td>2023</td></tr>
+<tr><td>Italie</td><td>12 février</td><td>1992</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
+<tr><td>Lettonie\*</td><td>26 juin</td><td>1998</td><td>1<sup>er</sup> octobre</td><td>1998</td></tr>
+<tr><td>Liechtenstein\*</td><td>12 juillet</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
+<tr><td>Lituanie</td><td>27 septembre</td><td>2000</td><td>1<sup>er</sup> janvier</td><td>2001</td></tr>
+<tr><td>Macédoine du Nord\*</td><td>18 novembre</td><td>2003</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
+<tr><td>Malte</td><td>21 janvier</td><td>1993</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
+<tr><td>Moldova\*</td><td>26 mars</td><td>2003</td><td>1<sup>er</sup> juillet</td><td>2003</td></tr>
+<tr><td>Monténégro</td><td>26 février</td><td>2008</td><td>1<sup>er</sup> juin</td><td>2008</td></tr>
+<tr><td>Norvège\*</td><td>30 juillet</td><td>1993</td><td>1<sup>er</sup> novembre</td><td>1993</td></tr>
+<tr><td>Pologne</td><td>7 septembre</td><td>1990</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
+<tr><td>Portugal</td><td>30 mai</td><td>2002</td><td>1<sup>er</sup> septembre</td><td>2002</td></tr>
+<tr><td>République tchèque</td><td>17 novembre</td><td>2002</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
+<tr><td>Roumanie\*</td><td>13 juillet</td><td>2004</td><td>1<sup>er</sup> novembre</td><td>2004</td></tr>
+<tr><td>Royaume-Uni</td><td>9 octobre</td><td>1991</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
+<tr><td>Gibraltar</td><td>1<sup>er</sup> décembre</td><td>2019</td><td>1<sup>er</sup> décembre</td><td>2019</td></tr>
+<tr><td>Guernesey</td><td>2 septembre</td><td>1994</td><td>1<sup>er</sup> janvier</td><td>1995</td></tr>
+<tr><td>Jersey</td><td>2 septembre</td><td>1994</td><td>1<sup>er</sup> janvier</td><td>1995</td></tr>
+<tr><td>Saint-Marin</td><td>31 janvier</td><td>1990</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
+<tr><td>Saint-Siège</td><td>7 janvier</td><td>1993</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
+<tr><td>Serbie</td><td>14 septembre</td><td>2009</td><td>1<sup>er</sup> janvier</td><td>2010</td></tr>
+<tr><td>Slovaquie\*</td><td>20 janvier</td><td>1997</td><td>1<sup>er</sup> mai</td><td>1997</td></tr>
+<tr><td>Slovénie\*</td><td>29 juillet</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
+<tr><td>Suisse\*</td><td>9 octobre</td><td>1991</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
+<tr><td>Turquie</td><td>21 janvier</td><td>1994</td><td>1<sup>er</sup> mai</td><td>1994</td></tr>
+<tr><td>Ukraine\*</td><td>26 mars</td><td>2009</td><td>1<sup>er</sup> juillet</td><td>2009</td></tr>
+<tr><td colspan="5">\* [tab] Réserves et déclarations. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-4]: [RO 1993 1077](https://fedlex.data.admin.ch/eli/oc/1993/1077_1077_1077), [1995 3044](https://fedlex.data.admin.ch/eli/oc/1995/3044_3044_3044), [2004 2441](https://fedlex.data.admin.ch/eli/oc/2004/291), [2007 4461](https://fedlex.data.admin.ch/eli/oc/2007/625), [2013 2449](https://fedlex.data.admin.ch/eli/oc/2013/513). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1993 1077](https://fedlex.data.admin.ch/eli/oc/1993/1077_1077_1077); [1995 3044](https://fedlex.data.admin.ch/eli/oc/1995/3044_3044_3044); [2004 2441](https://fedlex.data.admin.ch/eli/oc/2004/291); [2007 4461](https://fedlex.data.admin.ch/eli/oc/2007/625); [2013 2449](https://fedlex.data.admin.ch/eli/oc/2013/513); [2023 362](https://fedlex.data.admin.ch/eli/oc/2023/362). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 

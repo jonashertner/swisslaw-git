@@ -3,39 +3,27 @@ sr: "0.784.405"
 title: Convenzione europea del 5 maggio 1989 sulla televisione transfrontaliera (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877"
 language: it
-version: 2013-07-10
+version: 2023-06-30
 adopted: 1989-05-05
 in_force: 1989-05-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877/20130710/it/xml/fedlex-data-admin-ch-eli-cc-1989-1877_1877_1877-20130710-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1877_1877_1877/20130710/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877/20230630/it/xml/fedlex-data-admin-ch-eli-cc-1989-1877_1877_1877-20230630-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1877_1877_1877/20230630/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione europea sulla televisione transfrontaliera****
+# Convenzione europea sulla televisione transfrontaliera
 
-[^t-1]
+RUO **1989** 1877; FF **1990** III 757[^t-1]
 
-<sup>[^t-2]¶</sup>Traduzione*[^t-3]*
+Traduzione
 
-Conclusa a Strasburgo il 5 maggio 1989
+Conclusa a Strasburgo il 5 maggio 1989 Firmata dalla Svizzera il 5 maggio 1989 Applicata provvisoriamente dalla Svizzera dal 5 maggio 1989 Approvata dall’Assemblea federale il 21 giugno 1991[^t-2] Ratificata con strumento depositato dalla Svizzera il 9 ottobre 1991 Entra in vigore per la Svizzera il 1° maggio 1993
 
-Firmata dalla Svizzera il 5 maggio 1989
+(Stato 30 giugno 2023)
 
-Applicata provvisoriamente dalla Svizzera dal 5 maggio 1989
-
-Approvata dall’Assemblea federale il 21 giugno 1991[^t-4]
-
-Ratificata con strumento depositato dalla Svizzera il 9 ottobre 1991
-
-Entra in vigore per la Svizzera il 1° maggio 1993
-
-(Stato 10 luglio 2013)
-
-[^t-1]: Le mod. del 1° ott. 1998 ([RS 0.784.405.1](https://fedlex.data.admin.ch/eli/cc/2002/464); [RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)) sono introdotte nel presente testo. Le stesse valgono comunque unicamente nei rapporti con gli Stati parte. Vedi pertanto il suo specifico campo d’applicazione.
-[^t-2]: [RU 1989 1877](https://fedlex.data.admin.ch/eli/oc/1989/1877_1877_1877); [FF 1990 III 757](https://fedlex.data.admin.ch/eli/fga/1990/3_925_881_757)
-[^t-3]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-4]: [RU 1993 1076](https://fedlex.data.admin.ch/eli/oc/1993/1076_1076_1076)
+[^t-1]: Le mod. del 1° ott. 1998 ([RS 0.784.405.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3386); [RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)) sono introdotte nel presente testo. Le stesse valgono comunque unicamente nei rapporti con gli Stati parte. Vedi pertanto il suo specifico campo d’applicazione.
+[^t-2]: [RU 1993 1076](https://fedlex.data.admin.ch/eli/oc/1993/1076_1076_1076)
 
 Gli Stati membri del Consiglio d’Europa e gli altri Stati partecipanti alla Convenzione culturale europea[^ingress-1], firmatari della presente Convenzione,
 
@@ -61,8 +49,8 @@ desiderosi di sviluppare i principi riconosciuti dalle Raccomandazioni esistenti
 
 hanno stabilito quanto segue:
 
-[^ingress-1]: [RS 0.440.1](https://fedlex.data.admin.ch/eli/cc/1962/935_972_973)
-[^ingress-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^ingress-1]: [RS 0.440.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1796)
+[^ingress-2]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ## Capitolo I Disposizioni generali
 
@@ -104,7 +92,7 @@ La presente Convenzione trova applicazione per tutti i servizi di programmi tras
 
 Le Parti assicurano la libertà di espressione e di informazione, in conformità all’articolo 10 della Convenzione europea per la salvaguardia dei Diritti dell’Uomo e delle Libertà fondamentali[^4-1]; ed esse garantiscono la libertà di ricezione e non ostacolano la ritrasmissione sul proprio territorio di servizi di programmi che siano conformi alle disposizioni della presente Convenzione.
 
-[^4-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^4-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 #### Art. 5
 
@@ -187,7 +175,7 @@ Ogni Parte esamina e, se necessario, adotta misure giuridiche quali l’introduz
 
 #### Art. 9<sup>bis</sup>
 
-**Accesso del pubblico agli avvenimenti di grande importanza**[^9bis-1]
+**Accesso del pubblico agli avvenimenti di grande importanza**[^4-2]
 
 <sup>1.</sup> Ogni Parte conserva il diritto di adottare misure atte ad assicurare che i radiotrasmettitori di sua competenza non ritrasmettano in esclusiva avvenimenti che essa considera come di grande importanza per la società, con la conseguenza di privare una parte considerevole del pubblico della Parte stessa della possibilità di seguire tali avvenimenti in diretta o in differita su una televisione non criptata. In questo contesto, tale Parte può compilare una lista di avvenimenti che essa considera come di grande importanza per la società.
 
@@ -209,32 +197,32 @@ Una volta all’anno, il Comitato permanente:
 - a) pubblica una lista consolidata degli avvenimenti designati e delle misure corrispondenti comunicati dalle Parti conformemente al paragrafo 2 lettera e;
 - b) stabilisce delle linee direttive adottate con la maggioranza dei tre quarti dei membri quale complemento alle condizioni enunciate al paragrafo 2 lettere a-e al fine di evitare il sorgere di differenze tra l’applicazione di questo articolo e quella delle disposizioni corrispondenti del diritto comunitario.
 
-[^9bis-1]: Introdotto dall’art. 10 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^4-2]: Introdotto dall’art. 10 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 #### Art. 10
 
 **Obiettivi culturali**
 
-1.[^10-1] Ogni Parte trasmittente vigila, ogni volta che è possibile e tramite mezzi appropriati, affinché il radiotrasmettitore di sua competenza riservi alle opere audiovisive di origine europea una quota maggioritaria del tempo di trasmissione non dedicato alle informazioni, a manifestazioni sportive, a giochi, alla pubblicità, a servizi di teletext o alla televendita. Questa quota, tenuto conto delle responsabilità del radiotrasmettitore nei confronti del suo pubblico in materia di informazione, di educazione, di cultura e di svago, dovrà essere ottenuta progressivamente in base a criteri appropriati.
+1.[^5-2] Ogni Parte trasmittente vigila, ogni volta che è possibile e tramite mezzi appropriati, affinché il radiotrasmettitore di sua competenza riservi alle opere audiovisive di origine europea una quota maggioritaria del tempo di trasmissione non dedicato alle informazioni, a manifestazioni sportive, a giochi, alla pubblicità, a servizi di teletext o alla televendita. Questa quota, tenuto conto delle responsabilità del radiotrasmettitore nei confronti del suo pubblico in materia di informazione, di educazione, di cultura e di svago, dovrà essere ottenuta progressivamente in base a criteri appropriati.
 
 <sup>2.</sup> In caso di disaccordo tra una Parte ricevente ed una trasmittente sull’applicazione del paragrafo precedente, si può fare appello, a richiesta di una sola delle Parti, al Comitato permanente perché dia un parere consultivo sulla materia. Tale disaccordo non può venire sottoposto alla procedura di arbitrato prevista all’articolo 26.
 
 <sup>3.</sup> Le Parti s’impegnano a ricercare in comune gli strumenti e le procedure più adatti per sostenere, senza discriminazione tra i radiotrasmettitori, l’attività e lo sviluppo della produzione europea, segnatamente nelle Parti con debole capacità di produzione audiovisiva o di area linguistica ristretta.
 
-4.[^10-2] Le Parti si assicurano che il radiotrasmettitore che dipende da loro trasmetta opere cinematografiche solo dopo le scadenze convenute con gli aventi diritto.
+4.[^5-3] Le Parti si assicurano che il radiotrasmettitore che dipende da loro trasmetta opere cinematografiche solo dopo le scadenze convenute con gli aventi diritto.
 
-[^10-1]: Nuovo testo giusta l’art. 11 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
-[^10-2]: Nuovo testo giusta l’art. 12 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^5-2]: Nuovo testo giusta l’art. 11 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^5-3]: Nuovo testo giusta l’art. 12 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 #### Art. 10<sup>bis</sup>
 
-**Pluralismo dei media**[^10bis-1]
+**Pluralismo dei media**[^6-1]
 
 Nello spirito di cooperazione e di mutua assistenza che anima la presente Convenzione, le Parti si sforzano di evitare che i servizi di programmi trasmessi o ritrasmessi un radiotrasmettitore o da altre persone fisiche o giuridiche di loro competenza, ai sensi dell’articolo 3, mettano in pericolo il pluralismo dei media.»
 
-[^10bis-1]: Introdotto dall’art. 13 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^6-1]: Introdotto dall’art. 13 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
-## Capitolo III Pubblicità e televendita****
+## Capitolo III Pubblicità e televendita
 
 [^chapIII-1]
 
@@ -311,7 +299,9 @@ Ai sensi del presente articolo, la pubblicità non include:
 
 1.[^15-2] Sono vietate la pubblicità e la televendita di tabacchi.
 
-<sup>2.</sup> La pubblicità e la televendita per le bevande alcoliche di ogni sorta devono essere conformi alle seguenti norme:[^15-3]
+<sup>2.</sup>
+
+La pubblicità e la televendita per le bevande alcoliche di ogni sorta devono essere conformi alle seguenti norme:[^15-3]
 
 - a.[^15-4] non devono essere indirizzate specificatamente ai minori e nessun individuo che possa essere ritenuto un minore può essere associato in una pubblicità al consumo di bevande alcoliche;
 - b. non deve associare il consumo dell’alcool a prestazioni fisiche o alla guida automobilistica;
@@ -372,11 +362,11 @@ Le disposizioni del paragrafo precedente non si applicano se:
 [^18-2]: Introdotto dall’art. 24 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 [^18-3]: Originario par. 2
 
-## Capitolo IV<sup>bis</sup>:**** Servizi di programmi dedicati esclusivamente alle anteprime o alla televendita
+## Capitolo IV<sup>bis</sup>: Servizi di programmi dedicati esclusivamente alle anteprime o alla televendita
 
-[^chapIVa-1]
+[^chapIV-1]
 
-[^chapIVa-1]: Introdotto dall’art. 26 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^chapIV-1]: Introdotto dall’art. 26 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 #### Art. 18<sup>bis</sup>
 
@@ -426,23 +416,23 @@ Un’autorità designata da una Parte:
 
 <sup>1.</sup> È costituito, ai sensi della presente Convenzione, un Comitato permanente.
 
-<sup>2.</sup> Ogni Parte ha la possibilità di farsi rappresentare in seno al Comitato permanente da uno o più delegati. Ogni delegazione dispone di un voto. Nei campi di sua competenza, la Comunità europea[^20-1] esercita il suo diritto di voto con un numero di voti pari a quello dei suoi Stati membri che sono Parti nella presente Convenzione; la Comunità europea non esercita il suo diritto di voto nei casi in cui gli Stati membri interessati esercitino il loro, e viceversa.
+<sup>2.</sup> Ogni Parte ha la possibilità di farsi rappresentare in seno al Comitato permanente da uno o più delegati. Ogni delegazione dispone di un voto. Nei campi di sua competenza, la Comunità europea[^19-1] esercita il suo diritto di voto con un numero di voti pari a quello dei suoi Stati membri che sono Parti nella presente Convenzione; la Comunità europea non esercita il suo diritto di voto nei casi in cui gli Stati membri interessati esercitino il loro, e viceversa.
 
 <sup>3.</sup> Ogni Stato secondo l’articolo 29 paragrafo 1 che non partecipa alla presente Convenzione può farsi rappresentare al Comitato permanente da un osservatore.
 
-<sup>4.</sup> Il Comitato permanente può, nel compimento della propria missione, ricorre ad esperti. Ha la possibilità di invitare, di sua iniziativa o su richiesta dell’organismo interessato, qualsiasi organismo nazionale o internazionale, governativo o non governativo, tecnicamente qualificato nei settori contemplati dalla presente Convenzione, ad essere rappresentato da un osservatore durante una delle sue riunioni o parte di essa. ...[^20-2]
+<sup>4.</sup> Il Comitato permanente può, nel compimento della propria missione, ricorre ad esperti. Ha la possibilità di invitare, di sua iniziativa o su richiesta dell’organismo interessato, qualsiasi organismo nazionale o internazionale, governativo o non governativo, tecnicamente qualificato nei settori contemplati dalla presente Convenzione, ad essere rappresentato da un osservatore durante una delle sue riunioni o parte di essa. ...[^19-2]
 
 <sup>5.</sup> Il Comitato permanente viene convocato dal Segretario Generale del Consiglio d’Europa. La sua prima riunione si svolge durante i sei mesi successivi alla data di entrata in vigore della Convenzione. Esso si riunisce poi quando un terzo delle Parti od il Comitato dei Ministri del Consiglio d’Europa ne presenta la richiesta, dietro iniziativa del Segretario Generale del Consiglio d’Europa, conformemente alle disposizioni dettate dall’articolo 23 paragrafo 2 oppure su richiesta di una o più Parti conformemente alle disposizioni degli articoli 21 comma c e 25 paragrafo 2.
 
 <sup>6.</sup> La maggioranza delle Parti costituisce il quorum necessario per lo svolgimento di una riunione del Comitato permanente.
 
-7.[^20-3] Fatte salve le disposizioni di cui all’articolo 9<sup>bis</sup> paragrafo 3 lettera b e all’articolo 23 paragrafo 3, le decisioni del Comitato permanente vengono adottate con la maggioranza dei tre quarti dei membri presenti.
+7.[^19-3] Fatte salve le disposizioni di cui all’articolo 9<sup>bis</sup> paragrafo 3 lettera b e all’articolo 23 paragrafo 3, le decisioni del Comitato permanente vengono adottate con la maggioranza dei tre quarti dei membri presenti.
 
 <sup>8.</sup> Fatte salve le disposizioni della presente Convenzione, il Comitato permanente stabilisce il proprio Regolamento interno.
 
-[^20-1]: Nuovo termine giusta l’art. 33 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^20-2]: Per. abrogato dall’art. 24 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, con effetto per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
-[^20-3]: Nuovo testo giusta l’art. 27 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^19-1]: Nuovo termine giusta l’art. 33 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^19-2]: Per. abrogato dall’art. 24 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, con effetto per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^19-3]: Nuovo testo giusta l’art. 27 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 #### Art. 21
 
@@ -482,19 +472,19 @@ In seguito ad ognuna delle sue riunioni, il Comitato permanente trasmette alle P
 
 <sup>1.</sup> Ogni Parte può proporre emendamenti relativi alla presente Convenzione.
 
-<sup>2.</sup> Ogni proposta di emendamento viene notificata al Segretario Generale del Consiglio d’Europa il quale la comunica agli Stati membri del Consiglio d’Europa, agli altri Stati partecipi della Convenzione culturale europea[^23-1], alla Comunità europea e ad ogni Stato non membro che ha aderito o è stato invitato ad aderire alla presente Convenzione, conformemente alle disposizioni dell’articolo 30. Il Segretario Generale del Consiglio d’Europa convoca una riunione del Comitato permanente, al più presto due mesi dopo la comunicazione della proposta di emendamento.
+<sup>2.</sup> Ogni proposta di emendamento viene notificata al Segretario Generale del Consiglio d’Europa il quale la comunica agli Stati membri del Consiglio d’Europa, agli altri Stati partecipi della Convenzione culturale europea[^20-1], alla Comunità europea e ad ogni Stato non membro che ha aderito o è stato invitato ad aderire alla presente Convenzione, conformemente alle disposizioni dell’articolo 30. Il Segretario Generale del Consiglio d’Europa convoca una riunione del Comitato permanente, al più presto due mesi dopo la comunicazione della proposta di emendamento.
 
 <sup>3.</sup> Ogni proposta di emendamento viene esaminata dal Comitato permanente il quale sottopone il testo adottato con la maggioranza dei tre quarti dei suoi membri al Comitato dei Ministri, per riceverne l’approvazione. Dopo tale approvazione, il testo viene trasmesso alle Parti per l’accettazione.
 
 <sup>4.</sup> Ogni emendamento entra in vigore il trentesimo giorno dopo che tutte le Parti hanno informato il Segretario Generale dell’accettazione dell’emendamento da parte delle stesse.
 
-5.[^23-2] Tuttavia, dopo aver consultato il Comitato permanente, il Comitato dei Ministri può decidere che un determinato emendamento entrerà in vigore allo scadere di un periodo di 2 anni a decorrere dalla data alla quale è stato aperto all’accettazione, fatto salvo il caso in cui una Parte ha notificato al Segretario Generale del Consiglio d’Europa un’obiezione alla sua entrata in vigore. Nel caso in cui tale obiezione sia stata notificata, l’emendamento entrerà in vigore il primo giorno del mese successivo alla data alla quale la Parte alla Convezione che ha notificato l’obiezione avrà depositato il suo strumento di accettazione presso il Segretario Generale del Consiglio d’Europa.
+5.[^20-2] Tuttavia, dopo aver consultato il Comitato permanente, il Comitato dei Ministri può decidere che un determinato emendamento entrerà in vigore allo scadere di un periodo di 2 anni a decorrere dalla data alla quale è stato aperto all’accettazione, fatto salvo il caso in cui una Parte ha notificato al Segretario Generale del Consiglio d’Europa un’obiezione alla sua entrata in vigore. Nel caso in cui tale obiezione sia stata notificata, l’emendamento entrerà in vigore il primo giorno del mese successivo alla data alla quale la Parte alla Convezione che ha notificato l’obiezione avrà depositato il suo strumento di accettazione presso il Segretario Generale del Consiglio d’Europa.
 
-6.[^23-3] Se un emendamento è stato approvato dal Comitato dei Ministri, ma non è ancora entrato in vigore conformemente alle disposizioni dei paragrafi 4 e 5, né uno Stato né la Comunità europea possono esprimere il loro consenso ad essere vincolati dalla Convenzione senza accettare nel contempo tale emendamento.
+6.[^20-3] Se un emendamento è stato approvato dal Comitato dei Ministri, ma non è ancora entrato in vigore conformemente alle disposizioni dei paragrafi 4 e 5, né uno Stato né la Comunità europea possono esprimere il loro consenso ad essere vincolati dalla Convenzione senza accettare nel contempo tale emendamento.
 
-[^23-1]: [RS 0.440.1](https://fedlex.data.admin.ch/eli/cc/1962/935_972_973)
-[^23-2]: Introdotto dall’art. 29 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
-[^23-3]: Introdotto dall’art. 29 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^20-1]: [RS 0.440.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1796)
+[^20-2]: Introdotto dall’art. 29 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^20-3]: Introdotto dall’art. 29 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 ## Capitolo VIII Violazioni addotte della presente Convenzione
 
@@ -512,7 +502,7 @@ In seguito ad ognuna delle sue riunioni, il Comitato permanente trasmette alle P
 
 #### Art. 24<sup>bis</sup>
 
-**Abusi addotti dei diritti conferiti dalla presente Convenzione**[^24bis-1]
+**Abusi addotti dei diritti conferiti dalla presente Convenzione**[^26-1]
 
 <sup>1.</sup> Vi è abuso di diritto se il servizio di programmi di un radiotrasmettitore è interamente o principalmente rivolto al territorio di una Parte diversa da quella che è competente per tale radiotrasmettitore (la «Parte ricevente») e se quest’ultimo si è stabilito in questa Parte per sottrarsi alle leggi inerenti agli ambiti contemplati nella presente Convenzione che esso avrebbe dovuto applicare se si fosse stabilito sul territorio dell’altra Parte.
 
@@ -530,10 +520,10 @@ Se un abuso di diritto viene addotto da una Parte, si applica la procedura segue
 
 <sup>5.</sup> Una Parte ricevente non può adottare misure nei confronti di un servizio di programmi prima della fine della procedura d’arbitrato.
 
-<sup>6.</sup> Tutte le misure proposte o adottate in virtù del presente articolo devono essere conformi all’articolo 10 della Convenzione per la salvaguardia dei Diritti dell’Uomo e delle Libertà fondamentali[^24bis-2].
+<sup>6.</sup> Tutte le misure proposte o adottate in virtù del presente articolo devono essere conformi all’articolo 10 della Convenzione per la salvaguardia dei Diritti dell’Uomo e delle Libertà fondamentali[^26-2].
 
-[^24bis-1]: Introdotto dall’art. 30 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
-[^24bis-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^26-1]: Introdotto dall’art. 30 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^26-2]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ## Capitolo IX Risoluzione delle vertenze
 
@@ -569,11 +559,11 @@ Se un abuso di diritto viene addotto da una Parte, si applica la procedura segue
 
 #### Art. 28
 
-**Rapporti tra la Convenzione e il diritto interno delle Parti**[^28-1]
+**Rapporti tra la Convenzione e il diritto interno delle Parti**[^26-3]
 
 Nessuna disposizione della presente Convenzione potrebbe impedire alle Parti di applicare regole più restrittive o più dettagliate di quelle previste nella presente Convenzione ai servizi di programmi trasmessi da radiotrasmettitori di loro competenza, ai sensi dell’articolo 5.
 
-[^28-1]: Nuovo testo giusta l’art. 31 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
+[^26-3]: Nuovo testo giusta l’art. 31 del Prot. del 1° ott. 1998, approvato dall’AF il 23 giu. 2000, in vigore per la Svizzera dal 1° mar. 2002 ([RU 2002 3130](https://fedlex.data.admin.ch/eli/oc/2002/464)[3129](https://fedlex.data.admin.ch/eli/oc/2002/463); [FF 2000 1157](https://fedlex.data.admin.ch/eli/fga/2000/253)).
 
 ## Capitolo XI Disposizioni finali
 
@@ -581,7 +571,7 @@ Nessuna disposizione della presente Convenzione potrebbe impedire alle Parti di 
 
 **Firma ed entrata in vigore**
 
-<sup>1.</sup> La presente Convenzione è aperta alla firma degli Stati membri del Consiglio d’Europa e degli altri Stati che partecipano alla Convenzione culturale europea[^29-1], nonché a quella della Comunità europea. La Convenzione sarà sottoposta a ratifica, accettazione o approvazione. Gli strumenti di ratifica, di accettazione o di approvazione verranno depositati presso il Segretario Generale del Consiglio d’Europa.
+<sup>1.</sup> La presente Convenzione è aperta alla firma degli Stati membri del Consiglio d’Europa e degli altri Stati che partecipano alla Convenzione culturale europea[^27-1], nonché a quella della Comunità europea. La Convenzione sarà sottoposta a ratifica, accettazione o approvazione. Gli strumenti di ratifica, di accettazione o di approvazione verranno depositati presso il Segretario Generale del Consiglio d’Europa.
 
 <sup>2.</sup> La Convenzione entrerà in vigore il primo giorno del mese successivo alla scadenza di un periodo di tre mesi a decorrere dalla data in cui sette Stati, di cui almeno cinque membri del Consiglio d’Europa, avranno espresso il proprio consenso ad essere vincolati dalla Convenzione conformemente alle disposizioni del paragrafo precedente.
 
@@ -589,17 +579,17 @@ Nessuna disposizione della presente Convenzione potrebbe impedire alle Parti di 
 
 <sup>4.</sup> Per tutti gli Stati indicati al paragrafo 1, nonché per la Comunità europea, i quali manifesteranno ulteriormente il proprio consenso ad essere vincolati dalla Convenzione, quest’ultima entrerà in vigore il primo giorno del mese successivo alla scadenza di un periodo di tre mesi a decorrere dalla data del deposito dello strumento di ratifica, di accettazione o di approvazione.
 
-[^29-1]: [RS 0.440.1](https://fedlex.data.admin.ch/eli/cc/1962/935_972_973)
+[^27-1]: [RS 0.440.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1796)
 
 #### Art. 30
 
 **Adesione di Stati non membri**
 
-<sup>1.</sup> Dopo l’entrata in vigore della presente Convenzione, il Comitato dei Ministri del Consiglio d’Europa potrà, dopo consultazione con gli Stati contraenti, invitare qualsiasi altro Stato ad aderire alla Convenzione tramite una decisione presa a maggioranza secondo la procedura contemplata dall’articolo 20 d dello Statuto del Consiglio d’Europa[^30-1] e all’unanimità dei rappresentanti degli Stati contraenti aventi il diritto di sedere al Comitato.
+<sup>1.</sup> Dopo l’entrata in vigore della presente Convenzione, il Comitato dei Ministri del Consiglio d’Europa potrà, dopo consultazione con gli Stati contraenti, invitare qualsiasi altro Stato ad aderire alla Convenzione tramite una decisione presa a maggioranza secondo la procedura contemplata dall’articolo 20 d dello Statuto del Consiglio d’Europa[^28-1] e all’unanimità dei rappresentanti degli Stati contraenti aventi il diritto di sedere al Comitato.
 
 <sup>2.</sup> Per ogni Stato aderente, la Convenzione entrerà in vigore il primo giorno del mese successivo alla scadenza di un periodo di tre mesi a decorrere dalla data di deposito dello strumento di adesione presso il Segretario Generale del Consiglio d’Europa.
 
-[^30-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^28-1]: [RS 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 #### Art. 31
 
@@ -647,7 +637,7 @@ Il Segretario Generale del Consiglio d’Europa notificherà agli Stati membri d
 - d. ogni rapporto derivante dall’applicazione delle disposizioni dell’articolo 22;
 - e. ogni altro atto, dichiarazione, notifica o comunicazione concernente la presente Convenzione.
 
-[^34-1]: [RS 0.440.1](https://fedlex.data.admin.ch/eli/cc/1962/935_972_973)
+[^34-1]: [RS 0.440.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1796)
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto a Strasburgo, il 5 maggio 1989, in francese ed in inglese, i due testi facenti ugualmente fede, in un solo esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne comunicherà copia certificata conforme ad ognuno degli Stati membri del Consiglio d’Europa, agli altri Stati partecipanti alla Convenzione culturale europea, alla Comunità europea e ad ogni Stato che sia stato invitato ad aderire alla presente Convenzione.
 
@@ -677,55 +667,54 @@ Allegato
 
 \10. Ogni Parte in causa sostiene le spese relative all’arbitro da essa nominato; queste Parti sostengono, in misura uguale, le spese dell’altro arbitro, così come le altre spese relative all’arbitrato.
 
-## Campo d’applicazione il 10 luglio 2013****
-
-[^annexu1-lvlu2-1]
-
-[^annexu1-lvlu2-1]: [RU 1993 1077](https://fedlex.data.admin.ch/eli/oc/1993/1077_1077_1077), [1995 3044](https://fedlex.data.admin.ch/eli/oc/1995/3044_3044_3044), [2004 2441](https://fedlex.data.admin.ch/eli/oc/2004/291), [2007 4461](https://fedlex.data.admin.ch/eli/oc/2007/625)e [2013 2449](https://fedlex.data.admin.ch/eli/oc/2013/513). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+Campo d’applicazione il 30 giugno 2023[^t-3]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Albania</td><td>27 aprile</td><td>2005</td><td>1° agosto</td><td>2005</td></tr>
-<tr><td colspan="2">Austria</td><td>7 agosto</td><td>1998</td><td>1° dicembre</td><td>1998</td></tr>
-<tr><td colspan="2">Bosnia e Erzegovina</td><td>5 gennaio</td><td>2005</td><td>1° maggio</td><td>2005</td></tr>
-<tr><td colspan="2">Bulgaria</td><td>3 marzo</td><td>1999</td><td>1° luglio</td><td>1999</td></tr>
-<tr><td colspan="2">Ceca, Repubblica</td><td>17 novembre</td><td>2002</td><td>1° marzo</td><td>2004</td></tr>
-<tr><td colspan="2">Cipro</td><td>10 ottobre</td><td>1991</td><td>1° maggio</td><td>1993</td></tr>
-<tr><td colspan="2">Croazia</td><td>12 dicembre</td><td>2001</td><td>1° aprile</td><td>2002</td></tr>
-<tr><td colspan="2">Estonia</td><td>24 gennaio</td><td>2000</td><td>1° maggio</td><td>2000</td></tr>
-<tr><td colspan="2">Finlandia<sup>\*</sup></td><td>18 agosto</td><td>1994</td><td>1° dicembre</td><td>1994</td></tr>
-<tr><td colspan="2">Francia<sup>\*</sup></td><td>21 ottobre</td><td>1994</td><td>1° febbraio</td><td>1995</td></tr>
-<tr><td colspan="2">Germania</td><td>22 luglio</td><td>1994</td><td>1° novembre</td><td>1994</td></tr>
-<tr><td colspan="2">Italia</td><td>12 febbraio</td><td>1992</td><td>1° maggio</td><td>1993</td></tr>
-<tr><td colspan="2">Lettonia<sup>\*</sup></td><td>26 giugno</td><td>1998</td><td>1° ottobre</td><td>1998</td></tr>
-<tr><td colspan="2">Liechtenstein<sup>\*</sup></td><td>12 luglio</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
-<tr><td colspan="2">Lituania</td><td>27 settembre</td><td>2000</td><td>1° gennaio</td><td>2001</td></tr>
-<tr><td colspan="2">Macedonia<sup>\*</sup></td><td>18 novembre</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
-<tr><td colspan="2">Malta</td><td>21 gennaio</td><td>1993</td><td>1° maggio</td><td>1993</td></tr>
-<tr><td colspan="2">Moldova<sup>\*</sup></td><td>26 marzo</td><td>2003</td><td>1° luglio</td><td>2003</td></tr>
-<tr><td colspan="2">Montenegro</td><td>26 febbraio</td><td>2008</td><td>1° giugno</td><td>2008</td></tr>
-<tr><td colspan="2">Norvegia<sup>\*</sup></td><td>30 luglio</td><td>1993</td><td>1° novembre</td><td>1993</td></tr>
-<tr><td colspan="2">Polonia</td><td>7 settembre</td><td>1990</td><td>1° maggio</td><td>1993</td></tr>
-<tr><td colspan="2">Portogallo</td><td>30 maggio</td><td>2002</td><td>1° settembre</td><td>2002</td></tr>
-<tr><td colspan="2">Regno Unito</td><td>9 ottobre</td><td>1991</td><td>1° maggio</td><td>1993</td></tr>
-<tr><td colspan="2">Guernesey</td><td>2 settembre</td><td>1994</td><td>1° gennaio</td><td>1995</td></tr>
-<tr><td colspan="2">Jersey</td><td>2 settembre</td><td>1994</td><td>1° gennaio</td><td>1995</td></tr>
-<tr><td colspan="2">Romania<sup>\*</sup></td><td>13 luglio</td><td>2004</td><td>1° novembre</td><td>2004</td></tr>
-<tr><td colspan="2">San Marino</td><td>31 gennaio</td><td>1990</td><td>1° maggio</td><td>1993</td></tr>
-<tr><td colspan="2">Santa Sede</td><td>7 gennaio</td><td>1993</td><td>1° maggio</td><td>1993</td></tr>
-<tr><td colspan="2">Serbia</td><td>14 settembre</td><td>2009</td><td>1° gennaio</td><td>2010</td></tr>
-<tr><td colspan="2">Slovacchia<sup>\*</sup></td><td>20 gennaio</td><td>1997</td><td>1° maggio</td><td>1997</td></tr>
-<tr><td colspan="2">Slovenia<sup>\*</sup></td><td>29 luglio</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
-<tr><td colspan="2">Spagna</td><td>19 febbraio</td><td>1998</td><td>1° giugno</td><td>1998</td></tr>
-<tr><td colspan="2">Svizzera<sup>\*</sup></td><td>9 ottobre</td><td>1991</td><td>1° maggio</td><td>1993</td></tr>
-<tr><td colspan="2">Turchia</td><td>21 gennaio</td><td>1994</td><td>1° maggio</td><td>1994</td></tr>
-<tr><td colspan="2">Ucraina<sup>\*</sup></td><td>26 marzo</td><td>2009</td><td>1° luglio</td><td>2009</td></tr>
-<tr><td colspan="2">Ungheria<sup>\*</sup></td><td>2 settembre</td><td>1996</td><td>1° gennaio</td><td>1997</td></tr>
-<tr><td>\*</td><td colspan="5">Riserve e dichiarazioni.</td></tr>
-<tr><td></td><td colspan="5">Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Albania</td><td>27 aprile</td><td>2005</td><td>1° agosto</td><td>2005</td></tr>
+<tr><td>Austria</td><td>7 agosto</td><td>1998</td><td>1° dicembre</td><td>1998</td></tr>
+<tr><td>Bosnia e Erzegovina</td><td>5 gennaio</td><td>2005</td><td>1° maggio</td><td>2005</td></tr>
+<tr><td>Bulgaria</td><td>3 marzo</td><td>1999</td><td>1° luglio</td><td>1999</td></tr>
+<tr><td>Ceca, Repubblica</td><td>17 novembre</td><td>2002</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>Cipro</td><td>10 ottobre</td><td>1991</td><td>1° maggio</td><td>1993</td></tr>
+<tr><td>Croazia</td><td>12 dicembre</td><td>2001</td><td>1° aprile</td><td>2002</td></tr>
+<tr><td>Estonia</td><td>24 gennaio</td><td>2000</td><td>1° maggio</td><td>2000</td></tr>
+<tr><td>Finlandia<sup>\*</sup></td><td>18 agosto</td><td>1994</td><td>1° dicembre</td><td>1994</td></tr>
+<tr><td>Francia<sup>\*</sup></td><td>21 ottobre</td><td>1994</td><td>1° febbraio</td><td>1995</td></tr>
+<tr><td>Germania</td><td>22 luglio</td><td>1994</td><td>1° novembre</td><td>1994</td></tr>
+<tr><td>Islanda</td><td>20 gennaio</td><td>2023</td><td>1° maggio</td><td>2023</td></tr>
+<tr><td>Italia</td><td>12 febbraio</td><td>1992</td><td>1° maggio</td><td>1993</td></tr>
+<tr><td>Lettonia<sup>\*</sup></td><td>26 giugno</td><td>1998</td><td>1° ottobre</td><td>1998</td></tr>
+<tr><td>Liechtenstein<sup>\*</sup></td><td>12 luglio</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
+<tr><td>Lituania</td><td>27 settembre</td><td>2000</td><td>1° gennaio</td><td>2001</td></tr>
+<tr><td>Macedonia del Nord<sup>\*</sup></td><td>18 novembre</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>Malta</td><td>21 gennaio</td><td>1993</td><td>1° maggio</td><td>1993</td></tr>
+<tr><td>Moldova<sup>\*</sup></td><td>26 marzo</td><td>2003</td><td>1° luglio</td><td>2003</td></tr>
+<tr><td>Montenegro</td><td>26 febbraio</td><td>2008</td><td>1° giugno</td><td>2008</td></tr>
+<tr><td>Norvegia<sup>\*</sup></td><td>30 luglio</td><td>1993</td><td>1° novembre</td><td>1993</td></tr>
+<tr><td>Polonia</td><td>7 settembre</td><td>1990</td><td>1° maggio</td><td>1993</td></tr>
+<tr><td>Portogallo</td><td>30 maggio</td><td>2002</td><td>1° settembre</td><td>2002</td></tr>
+<tr><td>Regno Unito</td><td>9 ottobre</td><td>1991</td><td>1° maggio</td><td>1993</td></tr>
+<tr><td>Gibilterra</td><td>1° dicembre</td><td>2019</td><td>1° dicembre</td><td>2019</td></tr>
+<tr><td>Guernesey</td><td>2 settembre</td><td>1994</td><td>1° gennaio</td><td>1995</td></tr>
+<tr><td>Jersey</td><td>2 settembre</td><td>1994</td><td>1° gennaio</td><td>1995</td></tr>
+<tr><td>Romania<sup>\*</sup></td><td>13 luglio</td><td>2004</td><td>1° novembre</td><td>2004</td></tr>
+<tr><td>San Marino</td><td>31 gennaio</td><td>1990</td><td>1° maggio</td><td>1993</td></tr>
+<tr><td>Santa Sede</td><td>7 gennaio</td><td>1993</td><td>1° maggio</td><td>1993</td></tr>
+<tr><td>Serbia</td><td>14 settembre</td><td>2009</td><td>1° gennaio</td><td>2010</td></tr>
+<tr><td>Slovacchia<sup>\*</sup></td><td>20 gennaio</td><td>1997</td><td>1° maggio</td><td>1997</td></tr>
+<tr><td>Slovenia<sup>\*</sup></td><td>29 luglio</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
+<tr><td>Spagna</td><td>19 febbraio</td><td>1998</td><td>1° giugno</td><td>1998</td></tr>
+<tr><td>Svizzera<sup>\*</sup></td><td>9 ottobre</td><td>1991</td><td>1° maggio</td><td>1993</td></tr>
+<tr><td>Turchia</td><td>21 gennaio</td><td>1994</td><td>1° maggio</td><td>1994</td></tr>
+<tr><td>Ucraina<sup>\*</sup></td><td>26 marzo</td><td>2009</td><td>1° luglio</td><td>2009</td></tr>
+<tr><td>Ungheria<sup>\*</sup></td><td>2 settembre</td><td>1996</td><td>1° gennaio</td><td>1997</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org/](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-## Riserve e dichiarazioni
+[^t-3]: [RU 1993 1077](https://fedlex.data.admin.ch/eli/oc/1993/1077_1077_1077); [1995 3044](https://fedlex.data.admin.ch/eli/oc/1995/3044_3044_3044); [2004 2441](https://fedlex.data.admin.ch/eli/oc/2004/291); [2007 4461](https://fedlex.data.admin.ch/eli/oc/2007/625); [2013 2449](https://fedlex.data.admin.ch/eli/oc/2013/513); [2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+
+Riserve e dichiarazioni
 
 Svizzera
 
