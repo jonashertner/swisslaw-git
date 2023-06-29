@@ -4,11 +4,11 @@ title: Europäisches Übereinkommen vom 1. Februar 1991 über wichtige Linien de
 short: AGTC
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2838_2838_2838"
 language: de
-version: 2016-12-29
+version: 2023-06-30
 adopted: 1991-02-01
 in_force: 1993-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2838_2838_2838/20161229/de/xml/fedlex-data-admin-ch-eli-cc-1993-2838_2838_2838-20161229-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2838_2838_2838/20161229/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2838_2838_2838/20230630/de/xml/fedlex-data-admin-ch-eli-cc-1993-2838_2838_2838-20230630-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2838_2838_2838/20230630/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2838_2838_2838/20161229/de"
 
 AS **1993** 2838; BBl **1992** III 1119
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 (AGTC)
 
-Abgeschlossen in Genf am 1. Februar 1991 Von der Bundesversammlung genehmigt am 16. Dezember 1992[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 11. Februar 1993 In Kraft getreten für die Schweiz am 20. Oktober 1993
+Abgeschlossen in Genf am 1. Februar 1991 Von der Bundesversammlung genehmigt am 16. Dezember 1992[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 11. Februar 1993 In Kraft getreten für die Schweiz am 20. Oktober 1993
 
-(Stand am 29. Dezember 2016)
+(Stand am 30. Juni 2023)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: [AS 1993 2837](https://fedlex.data.admin.ch/eli/oc/1993/2837_2837_2837)
+[^t-1]: [AS 1993 2837](https://fedlex.data.admin.ch/eli/oc/1993/2837_2837_2837)
 
 Die Vertragsparteien,
 
@@ -236,15 +235,13 @@ Neben den in diesem Übereinkommen angegebenen Notifikationen und Mitteilungen n
 
 Die Urschrift dieses Übereinkommens, dessen englischer, französischer und russischer Wortlaut gleichermassen verbindlich ist, wird beim Generalsekretär der Vereinten Nationen hinterlegt.
 
-*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Genf am 1. Februar 1991
+*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Genf am 1. Februar 1991 (Es folgen die Unterschriften)
 
-(Es folgen die Unterschriften)
-
-Anlage I*[^t-3]*
+Anlage I[^t-2]
 
 ## Wichtige Eisenbahnlinien im internationalen kombinierten Verkehr
 
-[^t-3]: Konsolidierte Fassung gemäss den in der 32., 34., 38., 41., 43., 49., 54. und 58. Sitzung der Arbeitsgruppe der Vereinten Nationen über den intermodalen Verkehr und die Logistik der Wirtschaftskommission für Europa angenommenen Änd., in Kraft seit 1. Febr. und 18. Dez. 2001, 16. April 2004, 7. April 2005, 20. Mai 2006, 23. Mai und 10. Dez. 2009, 13. Febr. ([AS 2008 4913](https://fedlex.data.admin.ch/eli/oc/2008/691), [2014 649](https://fedlex.data.admin.ch/eli/oc/2014/142)und [2016 1749](https://fedlex.data.admin.ch/eli/oc/2016/316)) und 29. Dez. 2016 ([AS 2017 3061](https://fedlex.data.admin.ch/eli/oc/2017/302)).
+[^t-2]: Konsolidierte Fassung gemäss den in der 32., 34., 38., 41., 43., 49., 54. und 58. Sitzung der Arbeitsgruppe der Vereinten Nationen über den intermodalen Verkehr und die Logistik der Wirtschaftskommission für Europa angenommenen Änd., in Kraft seit 1. Febr. und 18. Dez. 2001, 16. April 2004, 7. April 2005, 20. Mai 2006, 23. Mai und 10. Dez. 2009, 13. Febr. ([AS 2008 4913](https://fedlex.data.admin.ch/eli/oc/2008/691), [2014 649](https://fedlex.data.admin.ch/eli/oc/2014/142)und [2016 1749](https://fedlex.data.admin.ch/eli/oc/2016/316)) und 29. Dez. 2016 ([AS 2017 3061](https://fedlex.data.admin.ch/eli/oc/2017/302)).
 
 **Allgemeine Anmerkung und Erläuterung der Liniennummern**
 
@@ -265,324 +262,324 @@ Verwendete Symbole\*
 </table>
 
 <table>
-<tr><td></td><td colspan="75">(1) Portugal**[^annexu1-lvlu1-1]\***</td></tr>
-<tr><td>C–E 05</td><td colspan="47">(Fuentes de Oñoro–) Vilar Formoso-Pampilhosa–</td><td colspan="20">Coimbra-Lisboa</td><td colspan="8"></td></tr>
-<tr><td></td><td colspan="47"></td><td colspan="20">Porto</td><td colspan="8"></td></tr>
-<tr><td>C–E 90</td><td colspan="75">Lisboa–Entroncamento–Marvão(–Valencia de Alcântara)</td></tr>
-<tr><td></td><td colspan="75">(2) Spanien\*</td></tr>
-<tr><td>C–E 05</td><td colspan="75">(Hendaye–) Irún–Burgos–Medina del Campo-Fuentes de Oñoro (–Vilar Formoso)</td></tr>
-<tr><td>C–E 07</td><td colspan="18">(Hendaye–) Irún-Burgos–</td><td colspan="23">Avila</td><td colspan="34">–Madrid</td></tr>
-<tr><td></td><td colspan="18"></td><td colspan="23">Aranda de Duero</td><td colspan="34"></td></tr>
-<tr><td>C–E 053</td><td colspan="75">Madrid–Córdoba–Bobadilla–Algeciras</td></tr>
-<tr><td>C–E 90</td><td colspan="75">(Marvão–) Valencia de Alcântara–Madrid-Barcelona–Port Bou (–Cerbère)</td></tr>
-<tr><td>C 90/1</td><td colspan="75">Valencia–Barcelona</td></tr>
-<tr><td></td><td colspan="75">(3) Irland\*</td></tr>
-<tr><td>C–E 03</td><td colspan="75">(Larne–Belfast)–Dublin</td></tr>
-<tr><td></td><td colspan="75">(4) Vereinigtes Königreich**[^annexu1-lvlu1-2]\***</td></tr>
-<tr><td>C–E 03</td><td colspan="4">Glasgow–</td><td colspan="55">Stranraer–Larne-Belfast (–Dublin)–Holyhead</td><td colspan="16">–Crewe–</td></tr>
-<tr><td></td><td colspan="4"></td><td colspan="55">Carlisle</td><td colspan="16"></td></tr>
-<tr><td></td><td colspan="75">London–Folkstone–Dover (–Calais)</td></tr>
-<tr><td>C–E 16</td><td colspan="75">London–Harwich (–Hoek van Holland)</td></tr>
-<tr><td>C 03/1</td><td colspan="75">London–Cardiff</td></tr>
-<tr><td>C 03/2</td><td colspan="4">Cleveland</td><td colspan="71">–Doncaster–London</td></tr>
-<tr><td></td><td colspan="4">Leeds</td><td colspan="71"></td></tr>
-<tr><td></td><td colspan="75">(5) Frankreich\*</td></tr>
-<tr><td>C–E 05/ C–E 07</td><td colspan="75">Paris–Bordeaux–Hendaye (–Irùn)</td></tr>
-<tr><td>C–E 15</td><td colspan="14">(Quévy–) Feignies</td><td colspan="23">–Aulnoye–Paris–</td><td colspan="18">Dijon</td><td colspan="20">–Lyon–Avignon–</td></tr>
-<tr><td></td><td colspan="14">(Erquelinnes–) Jeumont</td><td colspan="23"></td><td colspan="18">Le Creusot</td><td colspan="20"></td></tr>
-<tr><td></td><td colspan="75">Tarascon-Marseille</td></tr>
-<tr><td>C–E 23</td><td colspan="75">Dunkerque–Aulnoye–Thionville–Metz–Frouard–Toul–Culmont–Chalindrey–Dijon (–Vallorbe)</td></tr>
-<tr><td>C–E 25</td><td colspan="75">(Bettembourg–) Thionville–Metz–Strasbourg–Mulhouse–</td></tr>
-<tr><td></td><td colspan="15">(–Basel)</td><td colspan="60"></td></tr>
-<tr><td></td><td colspan="15">Belfort–Besançon–Dijon</td><td colspan="60"></td></tr>
-<tr><td>C–E 40</td><td colspan="75">Le Havre–Paris–Lérouville–Onville–Metz–Rémilly–Forbach (–Saarbrücken)</td></tr>
-<tr><td>C–E 42</td><td colspan="75">Paris–Lérouville–Nancy–Sarrebourg–Réding–Strasbourg (–Kehl)</td></tr>
-<tr><td>C–E 70</td><td colspan="75">Paris–Mâcon–Ambérieu–Culoz–Modane (–Torino)</td></tr>
-<tr><td>C–E 90</td><td colspan="75">(Port Bou–) Cerbère–Narbonne–Tarascon–Marseille–Menton (–Ventimiglia)</td></tr>
-<tr><td>C–E 700</td><td colspan="75">Lyon–Ambérieu</td></tr>
-<tr><td>C 07</td><td colspan="75">Paris–Toulouse</td></tr>
-<tr><td>C 20</td><td colspan="75">Lille–Tourcoing (–Mouscron)</td></tr>
-<tr><td>C 25</td><td colspan="75">Thionville–Apach (–Perl)</td></tr>
-<tr><td>C 40</td><td colspan="11">Paris–Le Mans–</td><td colspan="4">Nantes</td><td colspan="60"></td></tr>
-<tr><td></td><td colspan="11"></td><td colspan="4">Rennes</td><td colspan="60"></td></tr>
-<tr><td>C 51</td><td colspan="75">(Dover–) Calais–Lille–Paris</td></tr>
-<tr><td>C 90/2</td><td colspan="75">Bordeaux–Toulouse–Narbonne</td></tr>
-<tr><td></td><td colspan="75">(6) Niederlande**[^annexu1-lvlu1-3]\***</td></tr>
-<tr><td>C–E 15</td><td colspan="75">Amsterdam–Den Haag–Rotterdam Roosendaal (–Antwerpen)</td></tr>
-<tr><td>C–E 16</td><td colspan="75">(Harwich–) Hoek van Holland–Rotterdam–Utrecht</td></tr>
-<tr><td>C–E 35</td><td colspan="75">Amsterdam–Utrecht–Arnhem (–Emmerich)</td></tr>
-<tr><td>C 10/1</td><td colspan="75">Utrecht–Amersfoort–Hengelo (–Bad Bentheim)</td></tr>
-<tr><td>C 16</td><td colspan="75">Rotterdam–Tilburg–Venlo (–Mönchengladbach)</td></tr>
-<tr><td></td><td colspan="75">(7) Belgien\*</td></tr>
-<tr><td>C–E 10/ C–E 20</td><td colspan="75">(Dover–) Oostende–Bruxelles–Liège (–Aachen)</td></tr>
-<tr><td>C–E 15</td><td colspan="34">(Roosendaal–) Antwerpen–Bruxelles–</td><td colspan="41">Quévy (–Feignies)</td></tr>
-<tr><td></td><td colspan="34"></td><td colspan="41">Charleroi–Erquelinnes (–Jeumont)</td></tr>
-<tr><td>C–E 22</td><td colspan="75">(Harwich–) Zeebrugge–Brugge</td></tr>
-<tr><td>C–E 25</td><td colspan="75">Bruxelles–Arlon–Sterpenich (–Kleinbettingen)</td></tr>
-<tr><td>C 15</td><td colspan="75">Charleroi–Namur–Liège</td></tr>
-<tr><td>C 20</td><td colspan="75">(Tourcoing–) Mouscron–Liège–Montzen (–Aachen)</td></tr>
-<tr><td></td><td colspan="75">(8) Luxemburg\*</td></tr>
-<tr><td>C–E 25</td><td colspan="75">(Sterpenich–) Kleinbettingen–Luxembourg–Bettembourg (–Thionville)</td></tr>
-<tr><td></td><td colspan="75">(9) Deutschland\*</td></tr>
-<tr><td>C–E 10</td><td colspan="75">(Liège–) Aachen–Köln–Düsseldorf–Dortmund–Münster–Osnabrück–Bremen–Hamburg–Lübeck (–Hanko)</td></tr>
-<tr><td>C–E 18</td><td colspan="75">Hamburg–Büchen–Berlin/Seddin</td></tr>
-<tr><td>C–E 20</td><td colspan="75">(Liège–) Aachen–Köln–Duisburg–Dortmund–Hannover–Helmstedt–Berlin/Seddin–Frankfurt (O) (–Kunowice)</td></tr>
-<tr><td>C–E 32</td><td colspan="75">Frankfurt (M)–Hanau–Erfurt–Leipzig–Dresden</td></tr>
-<tr><td>C–E 35</td><td colspan="27">(Arnhem–) Emmerich–Duisburg–</td><td colspan="26">Düsseldorf</td><td colspan="22">–Köln–Mainz–</td></tr>
-<tr><td></td><td colspan="27"></td><td colspan="26">Düsseldorf–Neuss</td><td colspan="22"></td></tr>
-<tr><td></td><td colspan="75">Mannheim–Kalsruhe (–Basel)</td></tr>
-<tr><td>C–E 40</td><td colspan="75">(Forbach–) Saarbrücken–Ludwigshafen–Mannheim–Frankfurt (M)–Gemünden–Nürnberg–Schirnding (–Cheb)</td></tr>
-<tr><td>C–E 42</td><td colspan="27">(Strasbourg–) Kehl–Appenweier–</td><td colspan="39">Karlsruhe–Mühlacker–Stuttgart</td><td colspan="9"></td></tr>
-<tr><td></td><td colspan="27"></td><td colspan="39">Offenburg</td><td colspan="9"></td></tr>
-<tr><td>C–E 43</td><td colspan="9">Frankfurt (M)–</td><td colspan="10">Heidelberg</td><td colspan="56">–Bruchsal–Stuttgart–Ulm–Augsburg–</td></tr>
-<tr><td></td><td colspan="9"></td><td colspan="10">Mannheim</td><td colspan="56"></td></tr>
-<tr><td></td><td colspan="75">München–Freilassing (–Salzburg)</td></tr>
-<tr><td>C–E 45</td><td colspan="75">(Rødby–) Puttgarden–Hamburg–Hannover–Würzburg–Nürnberg–Ingolstadt–München (–Kufstein)</td></tr>
-<tr><td>C–E 46</td><td colspan="75">Mainz–Frankfurt (M)</td></tr>
-<tr><td>C–E 51</td><td colspan="21">(Gedser–) Rostock–Berlin–</td><td colspan="8">Halle</td><td colspan="46">–Erfurt–Nürnberg</td></tr>
-<tr><td></td><td colspan="21"></td><td colspan="8">Leipzig</td><td colspan="46"></td></tr>
-<tr><td>C–E 55/ C–E 61</td><td colspan="35">(Trelleborg–) Sassnitz Hafen–Stralsund–</td><td colspan="17">Pasewalk</td><td colspan="23">–Berlin/Seddin–</td></tr>
-<tr><td></td><td colspan="35"></td><td colspan="17">Neustrelitz</td><td colspan="23"></td></tr>
-<tr><td></td><td colspan="75">Dresden–Bad Schandau (–Decín)</td></tr>
-<tr><td>C–E 451</td><td colspan="75">Nürnberg–Passau (–Wels)</td></tr>
-<tr><td>C 10/1</td><td colspan="75">(Hengelo–) Bad Bentheim–Osnabrück</td></tr>
-<tr><td>C 16</td><td colspan="75">(Venlo–) Mönchengladbach–Köln</td></tr>
-<tr><td>C 25</td><td colspan="75">(Apach–) Perl–Trier–Koblenz</td></tr>
-<tr><td>C 30</td><td colspan="75">Leipzig–Hoyerswerda–Horka (–Wegliniec)</td></tr>
-<tr><td>C 45/1</td><td colspan="75">(Fredericia–) Flensburg–Hamburg</td></tr>
-<tr><td>C 45/2</td><td colspan="75">Bremerhaven–Bremen–Hannover</td></tr>
-<tr><td>C 45/3</td><td colspan="75">Travemünde–Lübeck</td></tr>
-<tr><td></td><td colspan="75">(10) Schweiz**[^annexu1-lvlu1-4]\***</td></tr>
-<tr><td>C–E 23</td><td colspan="75">(Dijon–) Vallorbe–Lausanne–Brig</td></tr>
-<tr><td>C–E 25</td><td colspan="75">(Mulhouse–) Basel–Olten–Bern–Brig (–Domodossola)</td></tr>
-<tr><td>C–E 35</td><td colspan="75">(Karlsruhe–) Basel–Olten–Chiasso (–Milano)</td></tr>
-<tr><td>C–E 50</td><td colspan="75">(Culoz–) Genève–Lausanne–Bern–Zürich–Buchs (–Innsbruck)</td></tr>
-<tr><td>C 35</td><td colspan="51">(Karlsruhe–) Basel–Brugg–Immensee–Bellinzona–</td><td colspan="20">(Luino)</td><td colspan="4"></td></tr>
-<tr><td></td><td colspan="51"></td><td colspan="20">Chiasso (–Milano)</td><td colspan="4"></td></tr>
-<tr><td></td><td colspan="75">(11) Italien\*</td></tr>
-<tr><td>C–E 25</td><td colspan="75">(Brig–) Domodossola-Novara-Milano-Genova</td></tr>
-<tr><td>C–E 35</td><td colspan="75">(Chiasso–) Milano–Bologna–Firenze–Roma–Napoli–Salerno–</td></tr>
-<tr><td></td><td colspan="75">Villa S. Giovanni–Messina</td></tr>
-<tr><td>C–E 45</td><td colspan="75">(Innsbruck–) Brennero–Verona–Bologna–Ancona–Foggia–Bari–Brindisi</td></tr>
-<tr><td>C–E 55</td><td colspan="26">(Arnoldstein–) Tarvisio–Udine–</td><td colspan="23">Venezia–Bologna</td><td colspan="26"></td></tr>
-<tr><td></td><td colspan="26"></td><td colspan="23">Trieste</td><td colspan="26"></td></tr>
-<tr><td>C–E 70</td><td colspan="75">(Modane–) Torino–Rho–Milano–Verona–Trieste–Villa Opicina (–Sezana)</td></tr>
-<tr><td>C–E 72</td><td colspan="75">Torino–Genova</td></tr>
-<tr><td>C–E 90</td><td colspan="75">(Menton–) Ventimiglia–Genova–Pisa–Livorno–Roma</td></tr>
-<tr><td>C 35</td><td colspan="30">(Bellinzona–) Luino–Gallarate–Rho</td><td colspan="45">–Milano</td></tr>
-<tr><td></td><td colspan="30">(–Chiasso)</td><td colspan="45"></td></tr>
-<tr><td>C 90/3</td><td colspan="75">La Spezia–Fidenza–Parma</td></tr>
-<tr><td>C 90/4</td><td colspan="75">Livorno–Pisa–Firenze</td></tr>
-<tr><td></td><td colspan="75">(12) Norwegen**[^annexu1-lvlu1-5]\***</td></tr>
-<tr><td>C–E 45</td><td colspan="75">Oslo (–Kornsjø)</td></tr>
-<tr><td>C 47</td><td colspan="75">Narvik (–Vassijaure)</td></tr>
-<tr><td>C 48</td><td colspan="75">Trondheim–Hell– (Storlien)</td></tr>
-<tr><td>C 61</td><td colspan="75">Oslo (–Charlottenberg–Stockholm)</td></tr>
-<tr><td></td><td colspan="75">(13) Schweden\*</td></tr>
-<tr><td>C–E 45</td><td colspan="75">(Kornsjø–) Göteborg–Helsingborg (–Helsingør)</td></tr>
-<tr><td>C–E 53</td><td colspan="75">Helsingborg–Hässleholm</td></tr>
-<tr><td>C–E 55/ C–E 61</td><td colspan="75">Stockholm–Hässleholm–Malmö–Trelleborg (–Sassnitz Hafen)</td></tr>
-<tr><td>C–E 59</td><td colspan="75">Malmö–Ystad (–Swinoujscie)</td></tr>
-<tr><td>C 10/2</td><td colspan="75">Stockholm (–Turku)</td></tr>
-<tr><td>C 45/1</td><td colspan="75">Göteborg (–Frederikshavn)</td></tr>
-<tr><td>C 45/3</td><td colspan="75">Malmö (–Travemünde)</td></tr>
-<tr><td>C 47</td><td colspan="75">(Narvik–) Vassijaure–Galliväre–Boden–Ånge–Hallsberg</td></tr>
-<tr><td>C 48</td><td colspan="75">(Hell–) Storlien–Östersund–Ånge</td></tr>
-<tr><td>C 55</td><td colspan="75">Hallsberg–Göteborg</td></tr>
-<tr><td>C 61</td><td colspan="75">(Oslo–) Charlottenberg–Karlstad–Hallsberg–Stockholm</td></tr>
-<tr><td></td><td colspan="75">(14) Dänemark\*</td></tr>
-<tr><td>C–E 45</td><td colspan="75">(Helsingborg–) Helsingør–København–Nykøbing–Rødby (–Puttgarden)</td></tr>
-<tr><td>C–E 530</td><td colspan="75">Nykøbing–Gedser (–Rostock)</td></tr>
-<tr><td>C 45/1</td><td colspan="28">(Göteborg–) Frederikshavn–Arhus</td><td colspan="47">–Fredericia (–Flensburg)</td></tr>
-<tr><td></td><td colspan="28">København</td><td colspan="47"></td></tr>
-<tr><td></td><td colspan="75">(15) Österreich\*</td></tr>
-<tr><td>C–E 43</td><td colspan="75">(Freilassing–) Salzburg</td></tr>
-<tr><td>C–E 45</td><td colspan="75">(München–) Kufstein–Wörgl–Innsbruck (–Brennero)</td></tr>
-<tr><td>C–E 50</td><td colspan="65">(Buchs–) Innsbruck–Wörgl–Kufstein (–Rosenheim–Freilassing)</td><td colspan="10">–</td></tr>
-<tr><td></td><td colspan="65">Schwarzach St. Veit</td><td colspan="10"></td></tr>
-<tr><td></td><td colspan="23">Salzburg–Wels–Linz–Wien–</td><td colspan="25">(Hegyeshalom)<sup>1</sup></td><td colspan="27"></td></tr>
-<tr><td></td><td colspan="23"></td><td colspan="25">Ebenfurt (–Sopron)<sup>2</sup></td><td colspan="27"></td></tr>
-<tr><td></td><td colspan="75"><sup>1</sup> MAV.</td></tr>
-<tr><td></td><td colspan="75"><sup>2</sup> GYSEV/MAV.</td></tr>
-<tr><td>C–E 52</td><td colspan="75">Wien–Marchegg (–Devínska Nová Ves)</td></tr>
-<tr><td>C–E 55</td><td colspan="75">(Horni Dvoriste–) Summerau–Linz–Salzburg–Schwarzach St. Veit–Villach–Arnoldstein (–Tarvisio)</td></tr>
-<tr><td>C–E 63</td><td colspan="75">(Bratislava–) Kittsee–Parndorf–Wien</td></tr>
-<tr><td>C–E 65</td><td colspan="75">(Breclav–) Bernhardsthal–Wien–Semmering–Bruck.a.d. Mur–Klagenfurt–Villach–Rosenbach (–Jesenice)</td></tr>
-<tr><td>C–E 67</td><td colspan="75">Bruck a.d. Mur–Graz–Spielfeld Strass (–Sentilj)</td></tr>
-<tr><td>C–E 451</td><td colspan="75">(Passau–) Wels</td></tr>
-<tr><td>C–E 551</td><td colspan="75">(Horni Dvoriste–) Summerau–Linz–Selzthal–St. Michael</td></tr>
-<tr><td></td><td colspan="75">(16) Polen**[^annexu1-lvlu1-6]\***</td></tr>
-<tr><td>C–E 20</td><td colspan="44">(Frankfurt (O)–) Kunowice–Poznan-Lowicz–</td><td colspan="19">Warszawa</td><td colspan="12">.–Lukow–</td></tr>
-<tr><td></td><td colspan="44"></td><td colspan="19">Skierniewice</td><td colspan="12"></td></tr>
-<tr><td></td><td colspan="75">Terespol (–Brest)</td></tr>
-<tr><td>C–E 30</td><td colspan="75">(Görlitz–) Zgorzelec–Wroclaw–Katowice–Kraków–Przemysl–Medyka (–Mostiska)</td></tr>
-<tr><td>C–E 59</td><td colspan="75">(Ystad–) Swinoujscie–Szczecin–Kostrzyń–Zielona Góra–Wroclaw–Opole–Chalupki</td></tr>
-<tr><td>C–E 65</td><td colspan="17">Gdynía–Gdánsk–Tczew–</td><td colspan="14">Warszawa</td><td colspan="44">–Katowice–Zebrzydowice</td></tr>
-<tr><td></td><td colspan="17"></td><td colspan="14">Bydgoszcz</td><td colspan="44"></td></tr>
-<tr><td></td><td colspan="75">(–Petrovice U. Karviné)</td></tr>
-<tr><td>C–E 75</td><td colspan="75">Warszawa–Bialystok–Sokólka–Suwalki–Trakiszki (–Mockava)</td></tr>
-<tr><td>C 28</td><td colspan="75">Warszawa–Lublin–Dorohusk (–Izov)</td></tr>
-<tr><td>C 30</td><td colspan="75">(Horka–) Węglieniec</td></tr>
-<tr><td>C 30/1</td><td colspan="75">Kraków–Nowy Sacz–Muszyna (–Plaveč)</td></tr>
-<tr><td>C 59</td><td colspan="75">Chalupki (–Bohumín)</td></tr>
-<tr><td>C 59/1</td><td colspan="75">Zielona Góra–Zary–Wegliniec–Zgorzelec–Zawidów (–Frýdlant)</td></tr>
-<tr><td>C 59/2</td><td colspan="75">Wroclaw–Miedzylesie (–Lichkov)</td></tr>
-<tr><td>C 63</td><td colspan="75">Czechowice Dziedzice–Zywiec–Zwardon (–Skalite)</td></tr>
-<tr><td>C 65/1</td><td colspan="75">Zduńska Wola Karsznice–Lódź Olechów–Skierniewice</td></tr>
-<tr><td>C 65/2</td><td colspan="75">Chorzew Siemkowice–Czestochowa–Zawiercie–Jaworzno Szczakowa–Czechowice Dziedzice</td></tr>
-<tr><td>C 65/3</td><td colspan="75">Herby Nowe–Paczyna–Kedzierzyn Koźle Azoty</td></tr>
-<tr><td></td><td colspan="75">(17) Tschechische Republik\*</td></tr>
-<tr><td>C–E 40</td><td colspan="75">(Schirnding–) Cheb–Plzeň–Praha–Kolín–Ústí nad Orlicí–Česká Třebová–</td></tr>
-<tr><td></td><td colspan="23">Přerov–Hranice na Moravě–</td><td colspan="47">Bohumín–Mosty u Jablunkova (–Čadca)</td><td colspan="5"></td></tr>
-<tr><td></td><td colspan="23"></td><td colspan="47">Horní Lideč (–Lúky pod Makytou)</td><td colspan="5"></td></tr>
-<tr><td>C–E 55</td><td colspan="75">(Bad Schandau–) Děčín-Praha– Horní Dvořišté (–Summerau)</td></tr>
-<tr><td>C–E 61</td><td colspan="16">(Bad Schandau–) Děčín–</td><td colspan="56">Praha–Kolín–Ústí nad Orlicí–Česká Třebová</td><td colspan="3">–</td></tr>
-<tr><td></td><td colspan="16"></td><td colspan="56">Všetaty–Kolín–HavlKolíčkův Brod</td><td colspan="3"></td></tr>
-<tr><td></td><td colspan="75">Brno–Břeclav–Lanžhot (–Kúty)</td></tr>
-<tr><td>C–E 65</td><td colspan="75">(Zebrzydovice–) Petrovice u Karviné– Bohumín–Hranice na Moravĕ–Přerov–Břeclav (–Bernhardsthal)</td></tr>
-<tr><td>C–E 551</td><td colspan="75">Praha–Horní Dvořiště (–Summerau)</td></tr>
-<tr><td>C 59</td><td colspan="75">(Chalupki–) Bohumín</td></tr>
-<tr><td>C 59/1</td><td colspan="75">(Zawidów–) Frýdlant v Čechách–Všetaty–Praha</td></tr>
-<tr><td>C 59/2</td><td colspan="75">(Miedzylesie–) Lichkov–Ústí nad Orlicí</td></tr>
-<tr><td></td><td colspan="75">(18) Slowakei**[^annexu1-lvlu1-7]\***</td></tr>
-<tr><td>C–E 40</td><td colspan="38">(Mosty u Jablunkova–) Čadca</td><td colspan="30">–Žilina–Poprad–Tatry–</td><td colspan="7"></td></tr>
-<tr><td></td><td colspan="38">(Horní Lideč-) Lúky pod Makytou-Púchov</td><td colspan="30"></td><td colspan="7"></td></tr>
-<tr><td></td><td colspan="75">Košice–Čierna nad Tisou (–Chop)</td></tr>
-<tr><td>C–E 52</td><td colspan="75">(Marchegg–) Devinska Nova Ves–Bratislava–Nové Zámky–Štúrovo (–Szob)</td></tr>
-<tr><td>C–E 61</td><td colspan="23">(Lanžhot–) Kúty–Bratislava–</td><td colspan="34">Komárno (–Komárom)</td><td colspan="18"></td></tr>
-<tr><td></td><td colspan="23"></td><td colspan="34">Rusovce (–Hegyeshalom)</td><td colspan="18"></td></tr>
-<tr><td>C–E 63</td><td colspan="45">(Zwardoń–) Skalite–Čadca–Žilina–Leopoldov–</td><td colspan="16">Bratislava</td><td colspan="14">–(Kittsee)</td></tr>
-<tr><td></td><td colspan="45"></td><td colspan="16">Galanta</td><td colspan="14"></td></tr>
-<tr><td>C 30/1</td><td colspan="75">(Muszyna–) Plaveč–Prešov–Kysak–Košice–Čaňa (–Hidasnémeti)</td></tr>
-<tr><td></td><td colspan="75">(19) Ungarn**[^annexu1-lvlu1-8]\***</td></tr>
-<tr><td>C–E 50</td><td colspan="3">(Wien–)</td><td colspan="20">Hegyeshalom<sup>1</sup></td><td colspan="52">.–Györ–Budapest–Miskolc–Nyiregyháza–</td></tr>
-<tr><td></td><td colspan="3"></td><td colspan="20">(Ebenfurt–) Sopron<sup>2</sup></td><td colspan="52"></td></tr>
-<tr><td></td><td colspan="75">Záhony (–Chop)</td></tr>
-<tr><td></td><td colspan="75"><sup>1</sup> MAV.</td></tr>
-<tr><td></td><td colspan="75"><sup>2</sup> GYSEV/MAV.</td></tr>
-<tr><td>C–E 52</td><td colspan="75">(Štúrovo–) Szob–Budapest–Cegléd-Szolnok–Debrecen–Nyiregyháza</td></tr>
-<tr><td>C–E 56</td><td colspan="75">Budapest–Rákos–Ujszász–Szolnok–Lökösháza (–Curtici)</td></tr>
-<tr><td>C–E 61</td><td colspan="14">(Bratislava–Komarno–)</td><td colspan="61">Komarom–Budapest</td></tr>
-<tr><td></td><td colspan="14">Hegyeshalom</td><td colspan="61"></td></tr>
-<tr><td>C–E 69</td><td colspan="22">Budapest–Székesfehérvár–</td><td colspan="32">BobaHodoš</td><td colspan="21"></td></tr>
-<tr><td></td><td colspan="22"></td><td colspan="32">Murakeresztú (Kotoriba)</td><td colspan="21"></td></tr>
-<tr><td>CE 71</td><td colspan="75">Budapest–Dombóvár–Gyékényes (–Botovo–Koprivnica)</td></tr>
-<tr><td>C–E 85</td><td colspan="75">Budapest-Kelebia (–Subotica)</td></tr>
-<tr><td>C–E 691</td><td colspan="75">Murakeresztúr–Gyékényes</td></tr>
-<tr><td>C 30/1</td><td colspan="75">(Čaňa–) Hidasnémeti–Miskolc</td></tr>
-<tr><td>C 54/1</td><td colspan="75">(Episcopia Bihor–) Biharkeresztes–Berettyóújfalu–Püspökladány</td></tr>
-<tr><td>C 773</td><td colspan="75">Budapest––Dombóvár–Pécs-Magyarbóly (–Beli Manastir)</td></tr>
-<tr><td></td><td colspan="75">(20) Slowenien\*</td></tr>
-<tr><td>C–E 65</td><td colspan="75">(Rosenbach–) Jesenice–Ljubljana–Ilirska Bistrica (–Šapjane)</td></tr>
-<tr><td>C–E 67</td><td colspan="75">(Spielfeld Strass–) Šentilj–Maribor–Zidani Most</td></tr>
-<tr><td>C–E 69</td><td colspan="13">Hodoš–Murska Sobota</td><td colspan="62">–Ormož–Pragersko–Zidani Most–Ljubljana–</td></tr>
-<tr><td></td><td colspan="13">(Čakovec–) Središce</td><td colspan="62"></td></tr>
-<tr><td></td><td colspan="75">Divača–Koper</td></tr>
-<tr><td>C–E 70</td><td colspan="75">(Villa Opicina–) Sežana–Ljubljana–Zidani Most–Dobova (–Savski Marof)</td></tr>
-<tr><td></td><td colspan="75">(21) Kroatien\*</td></tr>
-<tr><td>C–E 65</td><td colspan="75">(Ilirska Bistrica–) Šapjane–Rijeka</td></tr>
-<tr><td>C–E 69</td><td colspan="75">(Murakeresztúr–) Kotoriba–Čakovec (–Središče)</td></tr>
-<tr><td>C–E 70</td><td colspan="75">(Dobova–) Savski Marof–Zagreb–Strizivojna Vrpolje–Vinkovci–Tovarnik (–Šid)</td></tr>
-<tr><td>C–E 71</td><td colspan="75">(Gyékényes–) Botovo–Koprivnica–Zagreb–Karlovac–Oštarije–Rijeka</td></tr>
-<tr><td>C–E 702</td><td colspan="75">(Središče–) Čakovec–Varaždin–Koprivnica–Osijek–Erdut (–Bogojevo)</td></tr>
-<tr><td>C–E 751</td><td colspan="75">Zagreb–Sunja–Volinja (–Dobrljin–Bihać–Ripač–) Strmica–</td></tr>
-<tr><td></td><td colspan="2">Knin–</td><td colspan="6">Split</td><td colspan="67"></td></tr>
-<tr><td></td><td colspan="2"></td><td colspan="6">Šibenik</td><td colspan="67"></td></tr>
-<tr><td>C–E 753</td><td colspan="75">Zagreb–Karlovac–Oštarije–Gospić–Knin–Zadar</td></tr>
-<tr><td>C–E 771</td><td colspan="75">(Bogojevo–) Erdut–Vinkovci–Strizivojna Vrpolje–Slavonski Šamac (–Bosanski Šamac–Sarajevo–Čapljina–) Metkovič–Ploće</td></tr>
-<tr><td>C 773</td><td colspan="75">(Magyarbóly–) Beli Manastir–Osijek–Strizivojna Vrpolje</td></tr>
-<tr><td></td><td colspan="75">(22) Bosnien-Herzegowina\*</td></tr>
-<tr><td>C–E 751</td><td colspan="75">(Volinja–) Dobrljin-Bihac–Ripać (–Strmica)</td></tr>
-<tr><td>C–E 771</td><td colspan="75">(Slavonski Šamac–) Bosanski Šamac–Sarajevo–Čapljina (–Metković)</td></tr>
-<tr><td></td><td colspan="75">(23) Serbien\*</td></tr>
-<tr><td>C–E 66</td><td colspan="75">Beograd–Vršac (–Stamora Moraviţa)</td></tr>
-<tr><td>C–E 70</td><td colspan="75">(Tovarnik–) Šid-Beograd–Niš–Dimitrovgrad (–Dragoman)</td></tr>
-<tr><td>C–E 79</td><td colspan="6">Beograd–Bar</td><td colspan="9">(–Ancona)</td><td colspan="60"></td></tr>
-<tr><td></td><td colspan="6"></td><td colspan="9">(–Bari)</td><td colspan="60"></td></tr>
-<tr><td>C–E 85</td><td colspan="25">(Kelebia–) Subotica–Beograd–</td><td colspan="48">Niš–Preševo (–Tabanovci)</td><td colspan="2"></td></tr>
-<tr><td></td><td colspan="25"></td><td colspan="48">Kraljevo–Đeneral Janković (–Volkovo)</td><td colspan="2"></td></tr>
-<tr><td>C–E 771</td><td colspan="75">Subotica–Bogojevo (–Erdut)</td></tr>
-<tr><td></td><td colspan="75">(24) Ehemalige jugoslawische Republik Mazedonien\*</td></tr>
-<tr><td>C–E 85</td><td colspan="24">(Preševo–) Tabanovci</td><td colspan="51">–Skopje–Gevgelia (–Idomeni)</td></tr>
-<tr><td></td><td colspan="24">(Đeneral Janković–) Volkovo</td><td colspan="51"></td></tr>
-<tr><td></td><td colspan="75">(25) Griechenland**[^annexu1-lvlu1-9]\***</td></tr>
-<tr><td>C–E 85</td><td colspan="75">(Gevgelia–) Idomeni–Thessaloniki–Athinai</td></tr>
-<tr><td>C–E 853</td><td colspan="75">Larissa–Volos [–Latakia (Arabische Republik Syrien)]</td></tr>
-<tr><td>C–E 855</td><td colspan="75">(Kulata–) Promachon–Thessaloniki</td></tr>
-<tr><td>C 70/2</td><td colspan="33">Strymonas–Alexandroupolis–Pythion</td><td colspan="29">(–Uzunköprü)</td><td colspan="13"></td></tr>
-<tr><td></td><td colspan="33"></td><td colspan="29">Dikea (–Svilengrad)</td><td colspan="13"></td></tr>
-<tr><td>C 85/1</td><td colspan="75">Thessaloniki–Florina–Kristallopigi (–………)</td></tr>
-<tr><td>C 85/2</td><td colspan="75">Igoumenitsa–Kalabaka–Palaiofarsalos–Volos [–Latakia (Arabische Republik Syrien)]</td></tr>
-<tr><td>C 85/3</td><td colspan="75">Athinai–Patras</td></tr>
-<tr><td></td><td colspan="75">(26) Rumänien**[^annexu1-lvlu1-10]\***</td></tr>
-<tr><td>C–E 54</td><td colspan="75">Arad–Deva–Teiuş–Vînători–Braşov–Bucureşti</td></tr>
-<tr><td>C–E 56</td><td colspan="75">(Lökösháza–) Curtici–Arad–Timişoara–Craiova–Bucureşti</td></tr>
-<tr><td>C–E 66</td><td colspan="75">Halmeu–Satu Mare–Carei–Oradea–Arad–Timişoara–Stamora Moraviţa (–Vrsac)</td></tr>
-<tr><td>C–E 95</td><td colspan="75">(Ungheni–) Iaşi–Paşcani–Buzău–Ploieşti–Bucureşti–Videle–Giurgiu (–Ruse)</td></tr>
-<tr><td>C–E 560</td><td colspan="75">Buzău–Galaţi (–Giurgiuleşti)</td></tr>
-<tr><td>C–E 562</td><td colspan="75">Bucureşti–Constanţa</td></tr>
-<tr><td>C–E 851</td><td colspan="75">(Vadul Siret–) Vicşani–Suceava–Paşcani</td></tr>
-<tr><td>C 54</td><td colspan="75">(Deakovo–) Halmeu–Satu Mare–Dej–Cluj–Coşlariu</td></tr>
-<tr><td>C 54/1</td><td colspan="75">Paşcani–Suceava–Salva–Dej-Cluj Napoca–Oradea–Episcopia Bihor (–Biharkeresztes)</td></tr>
-<tr><td>C 95</td><td colspan="75">Craiova–Calafat (–Vidin)</td></tr>
-<tr><td></td><td colspan="75">(27) Bulgarien\*</td></tr>
-<tr><td>C–E 70</td><td colspan="75">(Dimitrovgrad–) Dragoman–Sofija–Plovdiv–Dimitrovgrad Sever–Svilengrad (–Kapikule)</td></tr>
-<tr><td>C–E 95</td><td colspan="75">(Giurgiu–) Ruse–Gorna Oriahovitza–Dimitrovgrad</td></tr>
-<tr><td>C–E 660</td><td colspan="75">Ruse–Kaspichan</td></tr>
-<tr><td>C–E 680</td><td colspan="75">Sofija–Mezdra–Gorna Oriahovitza–Kaspican–Sindel–Varna</td></tr>
-<tr><td>C–E 720</td><td colspan="75">Plovdiv–Zimintza–Karnobat–Burgas</td></tr>
-<tr><td>C–E 855</td><td colspan="75">Sofija–Kulata (–Promachon)</td></tr>
-<tr><td>C–E 951</td><td colspan="75">Sindel–Karnobat</td></tr>
-<tr><td>C 70/2</td><td colspan="75">(Dikea–) Svilengrad</td></tr>
-<tr><td>C 95</td><td colspan="75">(Calafat–) Vidin–Sofija</td></tr>
-<tr><td></td><td colspan="75">(28) Finnland\*</td></tr>
-<tr><td>C–E 10</td><td colspan="75">Hanko–Helsinki-Riihimäki–Kouvola–Vainikkala (–Buslovskaya)</td></tr>
-<tr><td>C 10/2</td><td colspan="75">(Stockholm–) Turku–Helsinki</td></tr>
-<tr><td></td><td colspan="75">(29) Belarus\*</td></tr>
-<tr><td>C–E 20</td><td colspan="75">(Terespol–) Brest–Minsk–Orsha (–Krasnoye)</td></tr>
-<tr><td>C 14</td><td colspan="75">(Indra–) Bigosovo–Polak–Vibesck</td></tr>
-<tr><td>C 20/3</td><td colspan="75">(Kena–) Gudagai–Maladzečna–Minsk</td></tr>
-<tr><td>C–95/2</td><td colspan="31">(Lobok–) Ezjarysca–Vicebsk–Orsha</td><td colspan="44">–Žlobin–Slovechno (–Berezhest))</td></tr>
-<tr><td></td><td colspan="31">Minsk</td><td colspan="44"></td></tr>
-<tr><td></td><td colspan="75">(30) Ukraine**[^annexu1-lvlu1-11]\***</td></tr>
-<tr><td>C–E 30</td><td colspan="75">(Medyka–) Mostiska 2–Lvov–Rovno–Berdichev–Kazatin–Kiev–Kharkiv–Kupyansk–Topoli (–Valuiki)</td></tr>
-<tr><td>C–E 40</td><td colspan="75">(Čierna nad Tissou–) Čop–Lvov</td></tr>
-<tr><td>C–E 50</td><td colspan="75">(Záhony–) Chop–Lvov–Fastov–Dnipropetrovsk–Krasnoarmeisk–Yasinovataya–Debaltsevo–Krasnaya Mogila (–Gukovo)</td></tr>
-<tr><td>C–E 95</td><td colspan="75">(Novosavitskoe–) Kuchurgan–Razdelnaya–Kazatin-Kiev– Khutor Mikhailovsky–Zernovo (–Suzemka)</td></tr>
-<tr><td>C–E 391</td><td colspan="75">Dnipropetrovsk–Lozovaya–Krasny Liman–Kharkov</td></tr>
-<tr><td>C–E 593</td><td colspan="75">Yasinovataya–Kvashino (–Uspenskaya)</td></tr>
-<tr><td>C–E 851</td><td colspan="75">Lvov–Vadul Siret (–Vicşani)</td></tr>
-<tr><td>C 28</td><td colspan="75">(Dorohusk–) Izov–Kovel–Sarni–Korosten–Kyiv</td></tr>
-<tr><td>C 95/1</td><td colspan="75">Odessa–Usatovo–Razdelnaya</td></tr>
-<tr><td>C 95/2</td><td colspan="75">Kazatin–Berdichev–Korosten–Berezhest (–Slovechno)</td></tr>
-<tr><td></td><td colspan="75">(31) Republik Moldau\*</td></tr>
-<tr><td>C–E 95</td><td colspan="75">(Iaşi–) Ungheni–Chişinău–Bendery–Novosavytskoe (–Kuchurgan)</td></tr>
-<tr><td>C–E 560</td><td colspan="75">(Galaţi–) Giurgiulesti (–Reni–) Etulia–Greceni (–Bolgrad–) Taraclia–Basarabeasca (–Carabuteni–) Cimislia–Bendery</td></tr>
-<tr><td></td><td colspan="75">(32) Russische Föderation\*</td></tr>
-<tr><td>C–E 10</td><td colspan="75">(Vainikkala–) Buslovskaya–St. Petersburg–Moskva</td></tr>
-<tr><td>C–E 20</td><td colspan="75">(Orsha–) Krasnoye–Smolensk–Moskva–Nizhniy Novgorod–Ekaterinburg–</td></tr>
-<tr><td></td><td colspan="75">Tyoumen</td></tr>
-<tr><td></td><td colspan="75">Kourgan–Petoukhovo (–Mamlyoutka–Petropavlovsk–Kara-Gouga–) Isilkoul–</td></tr>
-<tr><td></td><td colspan="75">Omsk–Novosibirsk–Krasnoyarsk–Taychet–Irkoutsk–</td></tr>
-<tr><td></td><td colspan="7">Oulan–Oude–</td><td colspan="29">Zaoudinsky–</td><td colspan="6">–</td><td colspan="32">Karimskaya</td><td></td></tr>
-<tr><td></td><td colspan="7"></td><td colspan="29">Naouchki (–Soukhe–Bator)</td><td colspan="6"></td><td colspan="32">Zabailkalsk (–Mandchoulia)</td><td></td></tr>
-<tr><td></td><td colspan="8">–Khabarovsk–</td><td colspan="24">Baranovsky–</td><td colspan="43">–Nakhodka–Vostotchnaya</td></tr>
-<tr><td></td><td colspan="8"></td><td colspan="24">Hasan (–Toumangan)</td><td colspan="43"></td></tr>
-<tr><td>C–E 24</td><td colspan="75">Moskva–Ryazan–Rouzaevka–Samara–Oufa–Tchelyabinsk–Kourgan–Zaouralie (–Presnogorkovskaya)</td></tr>
-<tr><td>C–E 30</td><td colspan="75">(Topoli–) Valouiki–Liski–Rtichtevo–Sizran–Samara–Orenbourg (–Iletsk I)</td></tr>
-<tr><td>C–E 50</td><td colspan="75">(Krasnaya Mogila–) Goukovo–Likhaya–Volgograd–Astrakhan (–Aksaraiskaya II)</td></tr>
-<tr><td>C–E 95</td><td colspan="75">(Zernovo–) Suzemka–Bryansk–Moskva</td></tr>
-<tr><td>C–E 99</td><td colspan="40">Ryazan–Kochetovka I–Gryazi–Krasnodar–</td><td colspan="24">Veseloe (–Gantiadi)</td><td colspan="11"></td></tr>
-<tr><td></td><td colspan="40"></td><td colspan="24">Novorossiysk</td><td colspan="11"></td></tr>
-<tr><td>C–E 593</td><td colspan="75">(Kvashin–) Uspenskay–Rostov na Donu</td></tr>
-<tr><td>C 12</td><td colspan="75">(Zilupe–) Raz.Posin– Novosokol'niki–Ržev–Moskva</td></tr>
-<tr><td>C 20/1</td><td colspan="75">St. Petersburg–Vologd–Kotelnitch</td></tr>
-<tr><td>C 20/2</td><td colspan="75">Moskv–Kaza–Ekaterinbourg</td></tr>
-<tr><td>C 20/3</td><td colspan="75">Kaliningrad–Tcherniakhovs–Nesterov (–Kibartai)</td></tr>
-<tr><td>C 75/1</td><td colspan="75">(Narva–) Ivangorod–Gatčina–St. Petersburg</td></tr>
-<tr><td>C 95/2</td><td colspan="75">St. Petersburg–Dno–Novosokol'niki–Lobok (–Ezjarysca)</td></tr>
-<tr><td></td><td colspan="75">(33) Türkei**[^annexu1-lvlu1-12]\***</td></tr>
-<tr><td>C–E 70</td><td colspan="75">(Svilengrad–) Kapikule–Istanbul–Haydarpasa–Ankara–Boğazköprü–</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(1) Portugal[^annexu1-lvlu1-1]\*</td></tr>
+<tr><td colspan="2">C–E 05</td><td colspan="46">(Fuentes de Oñoro–) Vilar Formoso-Pampilhosa–</td><td colspan="20">Coimbra-Lisboa</td><td colspan="8"></td></tr>
+<tr><td colspan="2"></td><td colspan="46"></td><td colspan="20">Porto</td><td colspan="8"></td></tr>
+<tr><td colspan="2">C–E 90</td><td colspan="74">Lisboa–Entroncamento–Marvão(–Valencia de Alcântara)</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(2) Spanien\*</td></tr>
+<tr><td colspan="2">C–E 05</td><td colspan="74">(Hendaye–) Irún–Burgos–Medina del Campo-Fuentes de Oñoro (–Vilar Formoso)</td></tr>
+<tr><td colspan="2">C–E 07</td><td colspan="17">(Hendaye–) Irún-Burgos–</td><td colspan="23">Avila</td><td colspan="34">–Madrid</td></tr>
+<tr><td colspan="2"></td><td colspan="17"></td><td colspan="23">Aranda de Duero</td><td colspan="34"></td></tr>
+<tr><td colspan="2">C–E 053</td><td colspan="74">Madrid–Córdoba–Bobadilla–Algeciras</td></tr>
+<tr><td colspan="2">C–E 90</td><td colspan="74">(Marvão–) Valencia de Alcântara–Madrid-Barcelona–Port Bou (–Cerbère)</td></tr>
+<tr><td colspan="2">C 90/1</td><td colspan="74">Valencia–Barcelona</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(3) Irland\*</td></tr>
+<tr><td colspan="2">C–E 03</td><td colspan="74">(Larne–Belfast)–Dublin</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(4) Vereinigtes Königreich[^annexu1-lvlu1-2]\*</td></tr>
+<tr><td colspan="2">C–E 03</td><td colspan="3">Glasgow–</td><td colspan="55">Stranraer–Larne-Belfast (–Dublin)–Holyhead</td><td colspan="16">–Crewe–</td></tr>
+<tr><td colspan="2"></td><td colspan="3"></td><td colspan="55">Carlisle</td><td colspan="16"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">London–Folkstone–Dover (–Calais)</td></tr>
+<tr><td colspan="2">C–E 16</td><td colspan="74">London–Harwich (–Hoek van Holland)</td></tr>
+<tr><td colspan="2">C 03/1</td><td colspan="74">London–Cardiff</td></tr>
+<tr><td colspan="2">C 03/2</td><td colspan="3">Cleveland</td><td colspan="71">–Doncaster–London</td></tr>
+<tr><td colspan="2"></td><td colspan="3">Leeds</td><td colspan="71"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">(5) Frankreich\*</td></tr>
+<tr><td colspan="2">C–E 05/ C–E 07</td><td colspan="74">Paris–Bordeaux–Hendaye (–Irùn)</td></tr>
+<tr><td colspan="2">C–E 15</td><td colspan="13">(Quévy–) Feignies</td><td colspan="23">–Aulnoye–Paris–</td><td colspan="18">Dijon</td><td colspan="20">–Lyon–Avignon–</td></tr>
+<tr><td colspan="2"></td><td colspan="13">(Erquelinnes–) Jeumont</td><td colspan="23"></td><td colspan="18">Le Creusot</td><td colspan="20"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">Tarascon-Marseille</td></tr>
+<tr><td colspan="2">C–E 23</td><td colspan="74">Dunkerque–Aulnoye–Thionville–Metz–Frouard–Toul–Culmont–Chalindrey–Dijon (–Vallorbe)</td></tr>
+<tr><td colspan="2">C–E 25</td><td colspan="74">(Bettembourg–) Thionville–Metz–Strasbourg–Mulhouse–</td></tr>
+<tr><td colspan="2"></td><td colspan="14">(–Basel)</td><td colspan="60"></td></tr>
+<tr><td colspan="2"></td><td colspan="14">Belfort–Besançon–Dijon</td><td colspan="60"></td></tr>
+<tr><td colspan="2">C–E 40</td><td colspan="74">Le Havre–Paris–Lérouville–Onville–Metz–Rémilly–Forbach (–Saarbrücken)</td></tr>
+<tr><td colspan="2">C–E 42</td><td colspan="74">Paris–Lérouville–Nancy–Sarrebourg–Réding–Strasbourg (–Kehl)</td></tr>
+<tr><td colspan="2">C–E 70</td><td colspan="74">Paris–Mâcon–Ambérieu–Culoz–Modane (–Torino)</td></tr>
+<tr><td colspan="2">C–E 90</td><td colspan="74">(Port Bou–) Cerbère–Narbonne–Tarascon–Marseille–Menton (–Ventimiglia)</td></tr>
+<tr><td colspan="2">C–E 700</td><td colspan="74">Lyon–Ambérieu</td></tr>
+<tr><td colspan="2">C 07</td><td colspan="74">Paris–Toulouse</td></tr>
+<tr><td colspan="2">C 20</td><td colspan="74">Lille–Tourcoing (–Mouscron)</td></tr>
+<tr><td colspan="2">C 25</td><td colspan="74">Thionville–Apach (–Perl)</td></tr>
+<tr><td colspan="2">C 40</td><td colspan="10">Paris–Le Mans–</td><td colspan="4">Nantes</td><td colspan="60"></td></tr>
+<tr><td colspan="2"></td><td colspan="10"></td><td colspan="4">Rennes</td><td colspan="60"></td></tr>
+<tr><td colspan="2">C 51</td><td colspan="74">(Dover–) Calais–Lille–Paris</td></tr>
+<tr><td colspan="2">C 90/2</td><td colspan="74">Bordeaux–Toulouse–Narbonne</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(6) Niederlande[^annexu1-lvlu1-3]\*</td></tr>
+<tr><td colspan="2">C–E 15</td><td colspan="74">Amsterdam–Den Haag–Rotterdam Roosendaal (–Antwerpen)</td></tr>
+<tr><td colspan="2">C–E 16</td><td colspan="74">(Harwich–) Hoek van Holland–Rotterdam–Utrecht</td></tr>
+<tr><td colspan="2">C–E 35</td><td colspan="74">Amsterdam–Utrecht–Arnhem (–Emmerich)</td></tr>
+<tr><td colspan="2">C 10/1</td><td colspan="74">Utrecht–Amersfoort–Hengelo (–Bad Bentheim)</td></tr>
+<tr><td colspan="2">C 16</td><td colspan="74">Rotterdam–Tilburg–Venlo (–Mönchengladbach)</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(7) Belgien\*</td></tr>
+<tr><td colspan="2">C–E 10/ C–E 20</td><td colspan="74">(Dover–) Oostende–Bruxelles–Liège (–Aachen)</td></tr>
+<tr><td colspan="2">C–E 15</td><td colspan="33">(Roosendaal–) Antwerpen–Bruxelles–</td><td colspan="41">Quévy (–Feignies)</td></tr>
+<tr><td colspan="2"></td><td colspan="33"></td><td colspan="41">Charleroi–Erquelinnes (–Jeumont)</td></tr>
+<tr><td colspan="2">C–E 22</td><td colspan="74">(Harwich–) Zeebrugge–Brugge</td></tr>
+<tr><td colspan="2">C–E 25</td><td colspan="74">Bruxelles–Arlon–Sterpenich (–Kleinbettingen)</td></tr>
+<tr><td colspan="2">C 15</td><td colspan="74">Charleroi–Namur–Liège</td></tr>
+<tr><td colspan="2">C 20</td><td colspan="74">(Tourcoing–) Mouscron–Liège–Montzen (–Aachen)</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(8) Luxemburg\*</td></tr>
+<tr><td colspan="2">C–E 25</td><td colspan="74">(Sterpenich–) Kleinbettingen–Luxembourg–Bettembourg (–Thionville)</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(9) Deutschland\*</td></tr>
+<tr><td colspan="2">C–E 10</td><td colspan="74">(Liège–) Aachen–Köln–Düsseldorf–Dortmund–Münster–Osnabrück–Bremen–Hamburg–Lübeck (–Hanko)</td></tr>
+<tr><td colspan="2">C–E 18</td><td colspan="74">Hamburg–Büchen–Berlin/Seddin</td></tr>
+<tr><td colspan="2">C–E 20</td><td colspan="74">(Liège–) Aachen–Köln–Duisburg–Dortmund–Hannover–Helmstedt–Berlin/Seddin–Frankfurt (O) (–Kunowice)</td></tr>
+<tr><td colspan="2">C–E 32</td><td colspan="74">Frankfurt (M)–Hanau–Erfurt–Leipzig–Dresden</td></tr>
+<tr><td colspan="2">C–E 35</td><td colspan="26">(Arnhem–) Emmerich–Duisburg–</td><td colspan="26">Düsseldorf</td><td colspan="22">–Köln–Mainz–</td></tr>
+<tr><td colspan="2"></td><td colspan="26"></td><td colspan="26">Düsseldorf–Neuss</td><td colspan="22"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">Mannheim–Kalsruhe (–Basel)</td></tr>
+<tr><td colspan="2">C–E 40</td><td colspan="74">(Forbach–) Saarbrücken–Ludwigshafen–Mannheim–Frankfurt (M)–Gemünden–Nürnberg–Schirnding (–Cheb)</td></tr>
+<tr><td colspan="2">C–E 42</td><td colspan="26">(Strasbourg–) Kehl–Appenweier–</td><td colspan="39">Karlsruhe–Mühlacker–Stuttgart</td><td colspan="9"></td></tr>
+<tr><td colspan="2"></td><td colspan="26"></td><td colspan="39">Offenburg</td><td colspan="9"></td></tr>
+<tr><td colspan="2">C–E 43</td><td colspan="8">Frankfurt (M)–</td><td colspan="10">Heidelberg</td><td colspan="56">–Bruchsal–Stuttgart–Ulm–Augsburg–</td></tr>
+<tr><td colspan="2"></td><td colspan="8"></td><td colspan="10">Mannheim</td><td colspan="56"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">München–Freilassing (–Salzburg)</td></tr>
+<tr><td colspan="2">C–E 45</td><td colspan="74">(Rødby–) Puttgarden–Hamburg–Hannover–Würzburg–Nürnberg–Ingolstadt–München (–Kufstein)</td></tr>
+<tr><td colspan="2">C–E 46</td><td colspan="74">Mainz–Frankfurt (M)</td></tr>
+<tr><td colspan="2">C–E 51</td><td colspan="20">(Gedser–) Rostock–Berlin–</td><td colspan="8">Halle</td><td colspan="46">–Erfurt–Nürnberg</td></tr>
+<tr><td colspan="2"></td><td colspan="20"></td><td colspan="8">Leipzig</td><td colspan="46"></td></tr>
+<tr><td colspan="2">C–E 55/ C–E 61</td><td colspan="34">(Trelleborg–) Sassnitz Hafen–Stralsund–</td><td colspan="17">Pasewalk</td><td colspan="23">–Berlin/Seddin–</td></tr>
+<tr><td colspan="2"></td><td colspan="34"></td><td colspan="17">Neustrelitz</td><td colspan="23"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">Dresden–Bad Schandau (–Decín)</td></tr>
+<tr><td colspan="2">C–E 451</td><td colspan="74">Nürnberg–Passau (–Wels)</td></tr>
+<tr><td colspan="2">C 10/1</td><td colspan="74">(Hengelo–) Bad Bentheim–Osnabrück</td></tr>
+<tr><td colspan="2">C 16</td><td colspan="74">(Venlo–) Mönchengladbach–Köln</td></tr>
+<tr><td colspan="2">C 25</td><td colspan="74">(Apach–) Perl–Trier–Koblenz</td></tr>
+<tr><td colspan="2">C 30</td><td colspan="74">Leipzig–Hoyerswerda–Horka (–Wegliniec)</td></tr>
+<tr><td colspan="2">C 45/1</td><td colspan="74">(Fredericia–) Flensburg–Hamburg</td></tr>
+<tr><td colspan="2">C 45/2</td><td colspan="74">Bremerhaven–Bremen–Hannover</td></tr>
+<tr><td colspan="2">C 45/3</td><td colspan="74">Travemünde–Lübeck</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(10) Schweiz[^annexu1-lvlu1-4]\*</td></tr>
+<tr><td colspan="2">C–E 23</td><td colspan="74">(Dijon–) Vallorbe–Lausanne–Brig</td></tr>
+<tr><td colspan="2">C–E 25</td><td colspan="74">(Mulhouse–) Basel–Olten–Bern–Brig (–Domodossola)</td></tr>
+<tr><td colspan="2">C–E 35</td><td colspan="74">(Karlsruhe–) Basel–Olten–Chiasso (–Milano)</td></tr>
+<tr><td colspan="2">C–E 50</td><td colspan="74">(Culoz–) Genève–Lausanne–Bern–Zürich–Buchs (–Innsbruck)</td></tr>
+<tr><td colspan="2">C 35</td><td colspan="50">(Karlsruhe–) Basel–Brugg–Immensee–Bellinzona–</td><td colspan="20">(Luino)</td><td colspan="4"></td></tr>
+<tr><td colspan="2"></td><td colspan="50"></td><td colspan="20">Chiasso (–Milano)</td><td colspan="4"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">(11) Italien\*</td></tr>
+<tr><td colspan="2">C–E 25</td><td colspan="74">(Brig–) Domodossola-Novara-Milano-Genova</td></tr>
+<tr><td colspan="2">C–E 35</td><td colspan="74">(Chiasso–) Milano–Bologna–Firenze–Roma–Napoli–Salerno–</td></tr>
+<tr><td colspan="2"></td><td colspan="74">Villa S. Giovanni–Messina</td></tr>
+<tr><td colspan="2">C–E 45</td><td colspan="74">(Innsbruck–) Brennero–Verona–Bologna–Ancona–Foggia–Bari–Brindisi</td></tr>
+<tr><td colspan="2">C–E 55</td><td colspan="25">(Arnoldstein–) Tarvisio–Udine–</td><td colspan="23">Venezia–Bologna</td><td colspan="26"></td></tr>
+<tr><td colspan="2"></td><td colspan="25"></td><td colspan="23">Trieste</td><td colspan="26"></td></tr>
+<tr><td colspan="2">C–E 70</td><td colspan="74">(Modane–) Torino–Rho–Milano–Verona–Trieste–Villa Opicina (–Sezana)</td></tr>
+<tr><td colspan="2">C–E 72</td><td colspan="74">Torino–Genova</td></tr>
+<tr><td colspan="2">C–E 90</td><td colspan="74">(Menton–) Ventimiglia–Genova–Pisa–Livorno–Roma</td></tr>
+<tr><td colspan="2">C 35</td><td colspan="29">(Bellinzona–) Luino–Gallarate–Rho</td><td colspan="45">–Milano</td></tr>
+<tr><td colspan="2"></td><td colspan="29">(–Chiasso)</td><td colspan="45"></td></tr>
+<tr><td colspan="2">C 90/3</td><td colspan="74">La Spezia–Fidenza–Parma</td></tr>
+<tr><td colspan="2">C 90/4</td><td colspan="74">Livorno–Pisa–Firenze</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(12) Norwegen[^annexu1-lvlu1-5]\*</td></tr>
+<tr><td colspan="2">C–E 45</td><td colspan="74">Oslo (–Kornsjø)</td></tr>
+<tr><td colspan="2">C 47</td><td colspan="74">Narvik (–Vassijaure)</td></tr>
+<tr><td colspan="2">C 48</td><td colspan="74">Trondheim–Hell– (Storlien)</td></tr>
+<tr><td colspan="2">C 61</td><td colspan="74">Oslo (–Charlottenberg–Stockholm)</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(13) Schweden\*</td></tr>
+<tr><td colspan="2">C–E 45</td><td colspan="74">(Kornsjø–) Göteborg–Helsingborg (–Helsingør)</td></tr>
+<tr><td colspan="2">C–E 53</td><td colspan="74">Helsingborg–Hässleholm</td></tr>
+<tr><td colspan="2">C–E 55/ C–E 61</td><td colspan="74">Stockholm–Hässleholm–Malmö–Trelleborg (–Sassnitz Hafen)</td></tr>
+<tr><td colspan="2">C–E 59</td><td colspan="74">Malmö–Ystad (–Swinoujscie)</td></tr>
+<tr><td colspan="2">C 10/2</td><td colspan="74">Stockholm (–Turku)</td></tr>
+<tr><td colspan="2">C 45/1</td><td colspan="74">Göteborg (–Frederikshavn)</td></tr>
+<tr><td colspan="2">C 45/3</td><td colspan="74">Malmö (–Travemünde)</td></tr>
+<tr><td colspan="2">C 47</td><td colspan="74">(Narvik–) Vassijaure–Galliväre–Boden–Ånge–Hallsberg</td></tr>
+<tr><td colspan="2">C 48</td><td colspan="74">(Hell–) Storlien–Östersund–Ånge</td></tr>
+<tr><td colspan="2">C 55</td><td colspan="74">Hallsberg–Göteborg</td></tr>
+<tr><td colspan="2">C 61</td><td colspan="74">(Oslo–) Charlottenberg–Karlstad–Hallsberg–Stockholm</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(14) Dänemark\*</td></tr>
+<tr><td colspan="2">C–E 45</td><td colspan="74">(Helsingborg–) Helsingør–København–Nykøbing–Rødby (–Puttgarden)</td></tr>
+<tr><td colspan="2">C–E 530</td><td colspan="74">Nykøbing–Gedser (–Rostock)</td></tr>
+<tr><td colspan="2">C 45/1</td><td colspan="27">(Göteborg–) Frederikshavn–Arhus</td><td colspan="47">–Fredericia (–Flensburg)</td></tr>
+<tr><td colspan="2"></td><td colspan="27">København</td><td colspan="47"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">(15) Österreich\*</td></tr>
+<tr><td colspan="2">C–E 43</td><td colspan="74">(Freilassing–) Salzburg</td></tr>
+<tr><td colspan="2">C–E 45</td><td colspan="74">(München–) Kufstein–Wörgl–Innsbruck (–Brennero)</td></tr>
+<tr><td colspan="2">C–E 50</td><td colspan="64">(Buchs–) Innsbruck–Wörgl–Kufstein (–Rosenheim–Freilassing)</td><td colspan="10">–</td></tr>
+<tr><td colspan="2"></td><td colspan="64">Schwarzach St. Veit</td><td colspan="10"></td></tr>
+<tr><td colspan="2"></td><td colspan="22">Salzburg–Wels–Linz–Wien–</td><td colspan="25">(Hegyeshalom)<sup>1</sup></td><td colspan="27"></td></tr>
+<tr><td colspan="2"></td><td colspan="22"></td><td colspan="25">Ebenfurt (–Sopron)<sup>2</sup></td><td colspan="27"></td></tr>
+<tr><td colspan="2"></td><td colspan="74"><sup>1</sup> MAV.</td></tr>
+<tr><td colspan="2"></td><td colspan="74"><sup>2</sup> GYSEV/MAV.</td></tr>
+<tr><td colspan="2">C–E 52</td><td colspan="74">Wien–Marchegg (–Devínska Nová Ves)</td></tr>
+<tr><td colspan="2">C–E 55</td><td colspan="74">(Horni Dvoriste–) Summerau–Linz–Salzburg–Schwarzach St. Veit–Villach–Arnoldstein (–Tarvisio)</td></tr>
+<tr><td colspan="2">C–E 63</td><td colspan="74">(Bratislava–) Kittsee–Parndorf–Wien</td></tr>
+<tr><td colspan="2">C–E 65</td><td colspan="74">(Breclav–) Bernhardsthal–Wien–Semmering–Bruck.a.d. Mur–Klagenfurt–Villach–Rosenbach (–Jesenice)</td></tr>
+<tr><td colspan="2">C–E 67</td><td colspan="74">Bruck a.d. Mur–Graz–Spielfeld Strass (–Sentilj)</td></tr>
+<tr><td colspan="2">C–E 451</td><td colspan="74">(Passau–) Wels</td></tr>
+<tr><td colspan="2">C–E 551</td><td colspan="74">(Horni Dvoriste–) Summerau–Linz–Selzthal–St. Michael</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(16) Polen[^annexu1-lvlu1-6]\*</td></tr>
+<tr><td colspan="2">C–E 20</td><td colspan="43">(Frankfurt (O)–) Kunowice–Poznan-Lowicz–</td><td colspan="19">Warszawa</td><td colspan="12">.–Lukow–</td></tr>
+<tr><td colspan="2"></td><td colspan="43"></td><td colspan="19">Skierniewice</td><td colspan="12"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">Terespol (–Brest)</td></tr>
+<tr><td colspan="2">C–E 30</td><td colspan="74">(Görlitz–) Zgorzelec–Wroclaw–Katowice–Kraków–Przemysl–Medyka (–Mostiska)</td></tr>
+<tr><td colspan="2">C–E 59</td><td colspan="74">(Ystad–) Swinoujscie–Szczecin–Kostrzyń–Zielona Góra–Wroclaw–Opole–Chalupki</td></tr>
+<tr><td colspan="2">C–E 65</td><td colspan="16">Gdynía–Gdánsk–Tczew–</td><td colspan="14">Warszawa</td><td colspan="44">–Katowice–Zebrzydowice</td></tr>
+<tr><td colspan="2"></td><td colspan="16"></td><td colspan="14">Bydgoszcz</td><td colspan="44"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">(–Petrovice U. Karviné)</td></tr>
+<tr><td colspan="2">C–E 75</td><td colspan="74">Warszawa–Bialystok–Sokólka–Suwalki–Trakiszki (–Mockava)</td></tr>
+<tr><td colspan="2">C 28</td><td colspan="74">Warszawa–Lublin–Dorohusk (–Izov)</td></tr>
+<tr><td colspan="2">C 30</td><td colspan="74">(Horka–) Węglieniec</td></tr>
+<tr><td colspan="2">C 30/1</td><td colspan="74">Kraków–Nowy Sacz–Muszyna (–Plaveč)</td></tr>
+<tr><td colspan="2">C 59</td><td colspan="74">Chalupki (–Bohumín)</td></tr>
+<tr><td colspan="2">C 59/1</td><td colspan="74">Zielona Góra–Zary–Wegliniec–Zgorzelec–Zawidów (–Frýdlant)</td></tr>
+<tr><td colspan="2">C 59/2</td><td colspan="74">Wroclaw–Miedzylesie (–Lichkov)</td></tr>
+<tr><td colspan="2">C 63</td><td colspan="74">Czechowice Dziedzice–Zywiec–Zwardon (–Skalite)</td></tr>
+<tr><td colspan="2">C 65/1</td><td colspan="74">Zduńska Wola Karsznice–Lódź Olechów–Skierniewice</td></tr>
+<tr><td colspan="2">C 65/2</td><td colspan="74">Chorzew Siemkowice–Czestochowa–Zawiercie–Jaworzno Szczakowa–Czechowice Dziedzice</td></tr>
+<tr><td colspan="2">C 65/3</td><td colspan="74">Herby Nowe–Paczyna–Kedzierzyn Koźle Azoty</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(17) Tschechische Republik\*</td></tr>
+<tr><td colspan="2">C–E 40</td><td colspan="74">(Schirnding–) Cheb–Plzeň–Praha–Kolín–Ústí nad Orlicí–Česká Třebová–</td></tr>
+<tr><td colspan="2"></td><td colspan="22">Přerov–Hranice na Moravě–</td><td colspan="47">Bohumín–Mosty u Jablunkova (–Čadca)</td><td colspan="5"></td></tr>
+<tr><td colspan="2"></td><td colspan="22"></td><td colspan="47">Horní Lideč (–Lúky pod Makytou)</td><td colspan="5"></td></tr>
+<tr><td colspan="2">C–E 55</td><td colspan="74">(Bad Schandau–) Děčín-Praha– Horní Dvořišté (–Summerau)</td></tr>
+<tr><td colspan="2">C–E 61</td><td colspan="15">(Bad Schandau–) Děčín–</td><td colspan="56">Praha–Kolín–Ústí nad Orlicí–Česká Třebová</td><td colspan="3">–</td></tr>
+<tr><td colspan="2"></td><td colspan="15"></td><td colspan="56">Všetaty–Kolín–HavlKolíčkův Brod</td><td colspan="3"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">Brno–Břeclav–Lanžhot (–Kúty)</td></tr>
+<tr><td colspan="2">C–E 65</td><td colspan="74">(Zebrzydovice–) Petrovice u Karviné– Bohumín–Hranice na Moravĕ–Přerov–Břeclav (–Bernhardsthal)</td></tr>
+<tr><td colspan="2">C–E 551</td><td colspan="74">Praha–Horní Dvořiště (–Summerau)</td></tr>
+<tr><td colspan="2">C 59</td><td colspan="74">(Chalupki–) Bohumín</td></tr>
+<tr><td colspan="2">C 59/1</td><td colspan="74">(Zawidów–) Frýdlant v Čechách–Všetaty–Praha</td></tr>
+<tr><td colspan="2">C 59/2</td><td colspan="74">(Miedzylesie–) Lichkov–Ústí nad Orlicí</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(18) Slowakei[^annexu1-lvlu1-7]\*</td></tr>
+<tr><td colspan="2">C–E 40</td><td colspan="37">(Mosty u Jablunkova–) Čadca</td><td colspan="30">–Žilina–Poprad–Tatry–</td><td colspan="7"></td></tr>
+<tr><td colspan="2"></td><td colspan="37">(Horní Lideč-) Lúky pod Makytou-Púchov</td><td colspan="30"></td><td colspan="7"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">Košice–Čierna nad Tisou (–Chop)</td></tr>
+<tr><td colspan="2">C–E 52</td><td colspan="74">(Marchegg–) Devinska Nova Ves–Bratislava–Nové Zámky–Štúrovo (–Szob)</td></tr>
+<tr><td colspan="2">C–E 61</td><td colspan="22">(Lanžhot–) Kúty–Bratislava–</td><td colspan="34">Komárno (–Komárom)</td><td colspan="18"></td></tr>
+<tr><td colspan="2"></td><td colspan="22"></td><td colspan="34">Rusovce (–Hegyeshalom)</td><td colspan="18"></td></tr>
+<tr><td colspan="2">C–E 63</td><td colspan="44">(Zwardoń–) Skalite–Čadca–Žilina–Leopoldov–</td><td colspan="16">Bratislava</td><td colspan="14">–(Kittsee)</td></tr>
+<tr><td colspan="2"></td><td colspan="44"></td><td colspan="16">Galanta</td><td colspan="14"></td></tr>
+<tr><td colspan="2">C 30/1</td><td colspan="74">(Muszyna–) Plaveč–Prešov–Kysak–Košice–Čaňa (–Hidasnémeti)</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(19) Ungarn[^annexu1-lvlu1-8]\*</td></tr>
+<tr><td colspan="2">C–E 50</td><td colspan="2">(Wien–)</td><td colspan="20">Hegyeshalom<sup>1</sup></td><td colspan="52">.–Györ–Budapest–Miskolc–Nyiregyháza–</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="20">(Ebenfurt–) Sopron<sup>2</sup></td><td colspan="52"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">Záhony (–Chop)</td></tr>
+<tr><td colspan="2"></td><td colspan="74"><sup>1</sup> MAV.</td></tr>
+<tr><td colspan="2"></td><td colspan="74"><sup>2</sup> GYSEV/MAV.</td></tr>
+<tr><td colspan="2">C–E 52</td><td colspan="74">(Štúrovo–) Szob–Budapest–Cegléd-Szolnok–Debrecen–Nyiregyháza</td></tr>
+<tr><td colspan="2">C–E 56</td><td colspan="74">Budapest–Rákos–Ujszász–Szolnok–Lökösháza (–Curtici)</td></tr>
+<tr><td colspan="2">C–E 61</td><td colspan="13">(Bratislava–Komarno–)</td><td colspan="61">Komarom–Budapest</td></tr>
+<tr><td colspan="2"></td><td colspan="13">Hegyeshalom</td><td colspan="61"></td></tr>
+<tr><td colspan="2">C–E 69</td><td colspan="21">Budapest–Székesfehérvár–</td><td colspan="32">BobaHodoš</td><td colspan="21"></td></tr>
+<tr><td colspan="2"></td><td colspan="21"></td><td colspan="32">Murakeresztú (Kotoriba)</td><td colspan="21"></td></tr>
+<tr><td colspan="2">CE 71</td><td colspan="74">Budapest–Dombóvár–Gyékényes (–Botovo–Koprivnica)</td></tr>
+<tr><td colspan="2">C–E 85</td><td colspan="74">Budapest-Kelebia (–Subotica)</td></tr>
+<tr><td colspan="2">C–E 691</td><td colspan="74">Murakeresztúr–Gyékényes</td></tr>
+<tr><td colspan="2">C 30/1</td><td colspan="74">(Čaňa–) Hidasnémeti–Miskolc</td></tr>
+<tr><td colspan="2">C 54/1</td><td colspan="74">(Episcopia Bihor–) Biharkeresztes–Berettyóújfalu–Püspökladány</td></tr>
+<tr><td colspan="2">C 773</td><td colspan="74">Budapest––Dombóvár–Pécs-Magyarbóly (–Beli Manastir)</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(20) Slowenien\*</td></tr>
+<tr><td colspan="2">C–E 65</td><td colspan="74">(Rosenbach–) Jesenice–Ljubljana–Ilirska Bistrica (–Šapjane)</td></tr>
+<tr><td colspan="2">C–E 67</td><td colspan="74">(Spielfeld Strass–) Šentilj–Maribor–Zidani Most</td></tr>
+<tr><td colspan="2">C–E 69</td><td colspan="12">Hodoš–Murska Sobota</td><td colspan="62">–Ormož–Pragersko–Zidani Most–Ljubljana–</td></tr>
+<tr><td colspan="2"></td><td colspan="12">(Čakovec–) Središce</td><td colspan="62"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">Divača–Koper</td></tr>
+<tr><td colspan="2">C–E 70</td><td colspan="74">(Villa Opicina–) Sežana–Ljubljana–Zidani Most–Dobova (–Savski Marof)</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(21) Kroatien\*</td></tr>
+<tr><td colspan="2">C–E 65</td><td colspan="74">(Ilirska Bistrica–) Šapjane–Rijeka</td></tr>
+<tr><td colspan="2">C–E 69</td><td colspan="74">(Murakeresztúr–) Kotoriba–Čakovec (–Središče)</td></tr>
+<tr><td colspan="2">C–E 70</td><td colspan="74">(Dobova–) Savski Marof–Zagreb–Strizivojna Vrpolje–Vinkovci–Tovarnik (–Šid)</td></tr>
+<tr><td colspan="2">C–E 71</td><td colspan="74">(Gyékényes–) Botovo–Koprivnica–Zagreb–Karlovac–Oštarije–Rijeka</td></tr>
+<tr><td colspan="2">C–E 702</td><td colspan="74">(Središče–) Čakovec–Varaždin–Koprivnica–Osijek–Erdut (–Bogojevo)</td></tr>
+<tr><td colspan="2">C–E 751</td><td colspan="74">Zagreb–Sunja–Volinja (–Dobrljin–Bihać–Ripač–) Strmica–</td></tr>
+<tr><td colspan="2"></td><td>Knin–</td><td colspan="6">Split</td><td colspan="67"></td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="6">Šibenik</td><td colspan="67"></td></tr>
+<tr><td colspan="2">C–E 753</td><td colspan="74">Zagreb–Karlovac–Oštarije–Gospić–Knin–Zadar</td></tr>
+<tr><td colspan="2">C–E 771</td><td colspan="74">(Bogojevo–) Erdut–Vinkovci–Strizivojna Vrpolje–Slavonski Šamac (–Bosanski Šamac–Sarajevo–Čapljina–) Metkovič–Ploće</td></tr>
+<tr><td colspan="2">C 773</td><td colspan="74">(Magyarbóly–) Beli Manastir–Osijek–Strizivojna Vrpolje</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(22) Bosnien-Herzegowina\*</td></tr>
+<tr><td colspan="2">C–E 751</td><td colspan="74">(Volinja–) Dobrljin-Bihac–Ripać (–Strmica)</td></tr>
+<tr><td colspan="2">C–E 771</td><td colspan="74">(Slavonski Šamac–) Bosanski Šamac–Sarajevo–Čapljina (–Metković)</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(23) Serbien\*</td></tr>
+<tr><td colspan="2">C–E 66</td><td colspan="74">Beograd–Vršac (–Stamora Moraviţa)</td></tr>
+<tr><td colspan="2">C–E 70</td><td colspan="74">(Tovarnik–) Šid-Beograd–Niš–Dimitrovgrad (–Dragoman)</td></tr>
+<tr><td colspan="2">C–E 79</td><td colspan="5">Beograd–Bar</td><td colspan="9">(–Ancona)</td><td colspan="60"></td></tr>
+<tr><td colspan="2"></td><td colspan="5"></td><td colspan="9">(–Bari)</td><td colspan="60"></td></tr>
+<tr><td colspan="2">C–E 85</td><td colspan="24">(Kelebia–) Subotica–Beograd–</td><td colspan="48">Niš–Preševo (–Tabanovci)</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="24"></td><td colspan="48">Kraljevo–Đeneral Janković (–Volkovo)</td><td colspan="2"></td></tr>
+<tr><td colspan="2">C–E 771</td><td colspan="74">Subotica–Bogojevo (–Erdut)</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(24) Ehemalige jugoslawische Republik Mazedonien\*</td></tr>
+<tr><td colspan="2">C–E 85</td><td colspan="23">(Preševo–) Tabanovci</td><td colspan="51">–Skopje–Gevgelia (–Idomeni)</td></tr>
+<tr><td colspan="2"></td><td colspan="23">(Đeneral Janković–) Volkovo</td><td colspan="51"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">(25) Griechenland[^annexu1-lvlu1-9]\*</td></tr>
+<tr><td colspan="2">C–E 85</td><td colspan="74">(Gevgelia–) Idomeni–Thessaloniki–Athinai</td></tr>
+<tr><td colspan="2">C–E 853</td><td colspan="74">Larissa–Volos [–Latakia (Arabische Republik Syrien)]</td></tr>
+<tr><td colspan="2">C–E 855</td><td colspan="74">(Kulata–) Promachon–Thessaloniki</td></tr>
+<tr><td colspan="2">C 70/2</td><td colspan="32">Strymonas–Alexandroupolis–Pythion</td><td colspan="29">(–Uzunköprü)</td><td colspan="13"></td></tr>
+<tr><td colspan="2"></td><td colspan="32"></td><td colspan="29">Dikea (–Svilengrad)</td><td colspan="13"></td></tr>
+<tr><td colspan="2">C 85/1</td><td colspan="74">Thessaloniki–Florina–Kristallopigi (–………)</td></tr>
+<tr><td colspan="2">C 85/2</td><td colspan="74">Igoumenitsa–Kalabaka–Palaiofarsalos–Volos [–Latakia (Arabische Republik Syrien)]</td></tr>
+<tr><td colspan="2">C 85/3</td><td colspan="74">Athinai–Patras</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(26) Rumänien[^annexu1-lvlu1-10]\*</td></tr>
+<tr><td colspan="2">C–E 54</td><td colspan="74">Arad–Deva–Teiuş–Vînători–Braşov–Bucureşti</td></tr>
+<tr><td colspan="2">C–E 56</td><td colspan="74">(Lökösháza–) Curtici–Arad–Timişoara–Craiova–Bucureşti</td></tr>
+<tr><td colspan="2">C–E 66</td><td colspan="74">Halmeu–Satu Mare–Carei–Oradea–Arad–Timişoara–Stamora Moraviţa (–Vrsac)</td></tr>
+<tr><td colspan="2">C–E 95</td><td colspan="74">(Ungheni–) Iaşi–Paşcani–Buzău–Ploieşti–Bucureşti–Videle–Giurgiu (–Ruse)</td></tr>
+<tr><td colspan="2">C–E 560</td><td colspan="74">Buzău–Galaţi (–Giurgiuleşti)</td></tr>
+<tr><td colspan="2">C–E 562</td><td colspan="74">Bucureşti–Constanţa</td></tr>
+<tr><td colspan="2">C–E 851</td><td colspan="74">(Vadul Siret–) Vicşani–Suceava–Paşcani</td></tr>
+<tr><td colspan="2">C 54</td><td colspan="74">(Deakovo–) Halmeu–Satu Mare–Dej–Cluj–Coşlariu</td></tr>
+<tr><td colspan="2">C 54/1</td><td colspan="74">Paşcani–Suceava–Salva–Dej-Cluj Napoca–Oradea–Episcopia Bihor (–Biharkeresztes)</td></tr>
+<tr><td colspan="2">C 95</td><td colspan="74">Craiova–Calafat (–Vidin)</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(27) Bulgarien\*</td></tr>
+<tr><td colspan="2">C–E 70</td><td colspan="74">(Dimitrovgrad–) Dragoman–Sofija–Plovdiv–Dimitrovgrad Sever–Svilengrad (–Kapikule)</td></tr>
+<tr><td colspan="2">C–E 95</td><td colspan="74">(Giurgiu–) Ruse–Gorna Oriahovitza–Dimitrovgrad</td></tr>
+<tr><td colspan="2">C–E 660</td><td colspan="74">Ruse–Kaspichan</td></tr>
+<tr><td colspan="2">C–E 680</td><td colspan="74">Sofija–Mezdra–Gorna Oriahovitza–Kaspican–Sindel–Varna</td></tr>
+<tr><td colspan="2">C–E 720</td><td colspan="74">Plovdiv–Zimintza–Karnobat–Burgas</td></tr>
+<tr><td colspan="2">C–E 855</td><td colspan="74">Sofija–Kulata (–Promachon)</td></tr>
+<tr><td colspan="2">C–E 951</td><td colspan="74">Sindel–Karnobat</td></tr>
+<tr><td colspan="2">C 70/2</td><td colspan="74">(Dikea–) Svilengrad</td></tr>
+<tr><td colspan="2">C 95</td><td colspan="74">(Calafat–) Vidin–Sofija</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(28) Finnland\*</td></tr>
+<tr><td colspan="2">C–E 10</td><td colspan="74">Hanko–Helsinki-Riihimäki–Kouvola–Vainikkala (–Buslovskaya)</td></tr>
+<tr><td colspan="2">C 10/2</td><td colspan="74">(Stockholm–) Turku–Helsinki</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(29) Belarus\*</td></tr>
+<tr><td colspan="2">C–E 20</td><td colspan="74">(Terespol–) Brest–Minsk–Orsha (–Krasnoye)</td></tr>
+<tr><td colspan="2">C 14</td><td colspan="74">(Indra–) Bigosovo–Polak–Vibesck</td></tr>
+<tr><td colspan="2">C 20/3</td><td colspan="74">(Kena–) Gudagai–Maladzečna–Minsk</td></tr>
+<tr><td colspan="2">C–95/2</td><td colspan="30">(Lobok–) Ezjarysca–Vicebsk–Orsha</td><td colspan="44">–Žlobin–Slovechno (–Berezhest))</td></tr>
+<tr><td colspan="2"></td><td colspan="30">Minsk</td><td colspan="44"></td></tr>
+<tr><td colspan="2"></td><td colspan="74">(30) Ukraine[^annexu1-lvlu1-11]\*</td></tr>
+<tr><td colspan="2">C–E 30</td><td colspan="74">(Medyka–) Mostiska 2–Lvov–Rovno–Berdichev–Kazatin–Kiev–Kharkiv–Kupyansk–Topoli (–Valuiki)</td></tr>
+<tr><td colspan="2">C–E 40</td><td colspan="74">(Čierna nad Tissou–) Čop–Lvov</td></tr>
+<tr><td colspan="2">C–E 50</td><td colspan="74">(Záhony–) Chop–Lvov–Fastov–Dnipropetrovsk–Krasnoarmeisk–Yasinovataya–Debaltsevo–Krasnaya Mogila (–Gukovo)</td></tr>
+<tr><td colspan="2">C–E 95</td><td colspan="74">(Novosavitskoe–) Kuchurgan–Razdelnaya–Kazatin-Kiev– Khutor Mikhailovsky–Zernovo (–Suzemka)</td></tr>
+<tr><td colspan="2">C–E 391</td><td colspan="74">Dnipropetrovsk–Lozovaya–Krasny Liman–Kharkov</td></tr>
+<tr><td colspan="2">C–E 593</td><td colspan="74">Yasinovataya–Kvashino (–Uspenskaya)</td></tr>
+<tr><td colspan="2">C–E 851</td><td colspan="74">Lvov–Vadul Siret (–Vicşani)</td></tr>
+<tr><td colspan="2">C 28</td><td colspan="74">(Dorohusk–) Izov–Kovel–Sarni–Korosten–Kyiv</td></tr>
+<tr><td colspan="2">C 95/1</td><td colspan="74">Odessa–Usatovo–Razdelnaya</td></tr>
+<tr><td colspan="2">C 95/2</td><td colspan="74">Kazatin–Berdichev–Korosten–Berezhest (–Slovechno)</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(31) Republik Moldau\*</td></tr>
+<tr><td colspan="2">C–E 95</td><td colspan="74">(Iaşi–) Ungheni–Chişinău–Bendery–Novosavytskoe (–Kuchurgan)</td></tr>
+<tr><td colspan="2">C–E 560</td><td colspan="74">(Galaţi–) Giurgiulesti (–Reni–) Etulia–Greceni (–Bolgrad–) Taraclia–Basarabeasca (–Carabuteni–) Cimislia–Bendery</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(32) Russische Föderation\*</td></tr>
+<tr><td colspan="2">C–E 10</td><td colspan="74">(Vainikkala–) Buslovskaya–St. Petersburg–Moskva</td></tr>
+<tr><td colspan="2">C–E 20</td><td colspan="74">(Orsha–) Krasnoye–Smolensk–Moskva–Nizhniy Novgorod–Ekaterinburg–</td></tr>
+<tr><td colspan="2"></td><td colspan="74">Tyoumen</td></tr>
+<tr><td colspan="2"></td><td colspan="74">Kourgan–Petoukhovo (–Mamlyoutka–Petropavlovsk–Kara-Gouga–) Isilkoul–</td></tr>
+<tr><td colspan="2"></td><td colspan="74">Omsk–Novosibirsk–Krasnoyarsk–Taychet–Irkoutsk–</td></tr>
+<tr><td colspan="2"></td><td colspan="6">Oulan–Oude–</td><td colspan="29">Zaoudinsky–</td><td colspan="6">–</td><td colspan="32">Karimskaya</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="6"></td><td colspan="29">Naouchki (–Soukhe–Bator)</td><td colspan="6"></td><td colspan="32">Zabailkalsk (–Mandchoulia)</td><td></td></tr>
+<tr><td colspan="2"></td><td colspan="7">–Khabarovsk–</td><td colspan="24">Baranovsky–</td><td colspan="43">–Nakhodka–Vostotchnaya</td></tr>
+<tr><td colspan="2"></td><td colspan="7"></td><td colspan="24">Hasan (–Toumangan)</td><td colspan="43"></td></tr>
+<tr><td colspan="2">C–E 24</td><td colspan="74">Moskva–Ryazan–Rouzaevka–Samara–Oufa–Tchelyabinsk–Kourgan–Zaouralie (–Presnogorkovskaya)</td></tr>
+<tr><td colspan="2">C–E 30</td><td colspan="74">(Topoli–) Valouiki–Liski–Rtichtevo–Sizran–Samara–Orenbourg (–Iletsk I)</td></tr>
+<tr><td colspan="2">C–E 50</td><td colspan="74">(Krasnaya Mogila–) Goukovo–Likhaya–Volgograd–Astrakhan (–Aksaraiskaya II)</td></tr>
+<tr><td colspan="2">C–E 95</td><td colspan="74">(Zernovo–) Suzemka–Bryansk–Moskva</td></tr>
+<tr><td colspan="2">C–E 99</td><td colspan="39">Ryazan–Kochetovka I–Gryazi–Krasnodar–</td><td colspan="24">Veseloe (–Gantiadi)</td><td colspan="11"></td></tr>
+<tr><td colspan="2"></td><td colspan="39"></td><td colspan="24">Novorossiysk</td><td colspan="11"></td></tr>
+<tr><td colspan="2">C–E 593</td><td colspan="74">(Kvashin–) Uspenskay–Rostov na Donu</td></tr>
+<tr><td colspan="2">C 12</td><td colspan="74">(Zilupe–) Raz.Posin– Novosokol'niki–Ržev–Moskva</td></tr>
+<tr><td colspan="2">C 20/1</td><td colspan="74">St. Petersburg–Vologd–Kotelnitch</td></tr>
+<tr><td colspan="2">C 20/2</td><td colspan="74">Moskv–Kaza–Ekaterinbourg</td></tr>
+<tr><td colspan="2">C 20/3</td><td colspan="74">Kaliningrad–Tcherniakhovs–Nesterov (–Kibartai)</td></tr>
+<tr><td colspan="2">C 75/1</td><td colspan="74">(Narva–) Ivangorod–Gatčina–St. Petersburg</td></tr>
+<tr><td colspan="2">C 95/2</td><td colspan="74">St. Petersburg–Dno–Novosokol'niki–Lobok (–Ezjarysca)</td></tr>
+<tr><td colspan="2"></td><td colspan="74">(33) Türkei[^annexu1-lvlu1-12]\*</td></tr>
+<tr><td colspan="2">C–E 70</td><td colspan="74">(Svilengrad–) Kapikule–Istanbul–Haydarpasa–Ankara–Boğazköprü–</td></tr>
 <tr><td></td><td colspan="10">Kalin–Malatya–</td><td colspan="59">Kapiköy [–Razi (Islamische Republik Iran)]</td><td colspan="6"></td></tr>
 <tr><td></td><td colspan="10"></td><td colspan="59">Nusaybin [–Kamishli (Arabische Republik Syrien)]</td><td colspan="6"></td></tr>
 <tr><td>C–E 74</td><td colspan="6">Bandirma</td><td colspan="37">–Balikesir–Kütahya–Alayunt–</td><td colspan="13">Afyon</td><td colspan="4">–</td><td colspan="15">Konya–Ulukisla</td></tr>
@@ -629,7 +626,7 @@ Verwendete Symbole\*
 <tr><td>C–E 85</td><td colspan="12">Riga–Krustpils</td><td colspan="63">–Daugavpils–Indra (–Bigosovo)</td></tr>
 <tr><td></td><td colspan="12">(Obeliai–) Eglaine</td><td colspan="63"></td></tr>
 <tr><td>C–E 75</td><td colspan="75">(Valga–) Lugazi–Rig–Jelgava–Meitene (–Sarkiai)</td></tr>
-<tr><td></td><td colspan="75">(44) Islamische Republik Iran**[^annexu1-lvlu1-14]\***</td></tr>
+<tr><td></td><td colspan="75">(44) Islamische Republik Iran[^annexu1-lvlu1-14]\*</td></tr>
 <tr><td>C–E 70</td><td colspan="75">(Kapiköy–) Razi–Tabriz–Tehran–Mashad–Sarakhs (–Serahs)</td></tr>
 </table>
 
@@ -648,19 +645,117 @@ Verwendete Symbole\*
 [^annexu1-lvlu1-13]: \* Allgemeine Anmerkung und Erläuterung der Liniennummern und verwendeten Symbole siehe erste Seite der Anlage I.
 [^annexu1-lvlu1-14]: \* Allgemeine Anmerkung und Erläuterung der Liniennummern und verwendeten Symbole siehe erste Seite der Anlage I.
 
-Anlage II*[^t-4]*
+Anlage II[^t-3]
 
 ## Einrichtungen, die für den internationalen kombinierten Verkehr von Bedeutung sind
 
-[^t-4]: Konsolidierte Fassung gemäss den in der 32., 34., 38., 41., 43. und 49. Sitzung der Arbeitsgruppe der Vereinten Nationen über den intermodalen Verkehr und die Logistik der Wirtschaftskommission für Europa angenommenen Änd., in Kraft 1. Febr. 2001, 18. Dez. 2001, 16. April 2004, 7. April 2005, 20. Mai 2006 und 23. Mai 2009 (siehe [AS 2008 4913](https://fedlex.data.admin.ch/eli/oc/2008/691), [2014 649](https://fedlex.data.admin.ch/eli/oc/2014/142)).
+[^t-3]: Konsolidierte Fassung gemäss den in der 32., 34., 38., 41., 43. und 49. Sitzung der Arbeitsgruppe der Vereinten Nationen über den intermodalen Verkehr und die Logistik der Wirtschaftskommission für Europa angenommenen Änd., in Kraft 1. Febr. 2001, 18. Dez. 2001, 16. April 2004, 7. April 2005, 20. Mai 2006 und 23. Mai 2009 (siehe [AS 2008 4913](https://fedlex.data.admin.ch/eli/oc/2008/691), [2014 649](https://fedlex.data.admin.ch/eli/oc/2014/142)).
 
 ### A. Wichtige Terminals im internationalen kombinierten Verkehr
 
-<table>
-<tr><td>Österreich Linz-Stadthafen Graz Süd/Werndorf Salzburg Hauptbahnhof/Liefering Villach Süd Wels Vbf Wien Freudenau Hafen Wien Nordwestbahnhof Aserbaidschan Baku (Keshla) Belarus Brest Minsk Belgien Antwerpen Athus Bressoux-Renory (Liège) Bruxelles Genk (Hasselt) Muizen (Mechelen) Zeebrugge Bosnien und Herzegowina Sarajevo</td><td>Bulgarien Burgas Dimitrovgrad Sever Filipovo Gorna Oriahovitza Kaspichan Ruse Sofija Stara Zagora Svilengrad Varna Kroatien Rijeka Slavonski Brod Split Zagreb Tschechische Republik Brno Lovosice Melnik Praha Uhříněves Praha Žižkov Dänemark Arhus Glostrup København Padborg Finnland Helsinki‑Pasila</td></tr>
-</table>
+Österreich
 
-Frankreich
+Linz-Stadthafen
+
+Graz Süd/Werndorf
+
+Salzburg Hauptbahnhof/Liefering
+
+Villach Süd
+
+Wels Vbf
+
+Wien Freudenau Hafen
+
+Wien Nordwestbahnhof
+
+Aserbaidschan
+
+Baku (Keshla)
+
+Belarus
+
+Brest
+
+Minsk
+
+Belgien
+
+Antwerpen
+
+Athus
+
+Bressoux-Renory (Liège)
+
+Bruxelles
+
+Genk (Hasselt)
+
+Muizen (Mechelen)
+
+Zeebrugge
+
+Bosnien und Herzegowina
+
+Sarajevo
+
+Bulgarien
+
+Burgas
+
+Dimitrovgrad Sever
+
+Filipovo
+
+Gorna Oriahovitza
+
+Kaspichan
+
+Ruse
+
+Sofija
+
+Stara Zagora
+
+Svilengrad
+
+Varna
+
+Kroatien
+
+Rijeka
+
+Slavonski Brod
+
+Split
+
+Zagreb
+
+Tschechische Republik
+
+Brno
+
+Lovosice
+
+Melnik
+
+Praha Uhříněves
+
+Praha Žižkov
+
+Dänemark
+
+Arhus
+
+Glostrup
+
+København
+
+Padborg
+
+Finnland
+
+Helsinki‑PasilaFrankreich
 
 Avignon‑Courtine
 
@@ -1192,7 +1287,7 @@ Southampton
 
 Tilbury
 
-### B. Wichtige Grenzübergangspunkte im internationalen kombinierten Verkehr****
+### B. Wichtige Grenzübergangspunkte im internationalen kombinierten Verkehr
 
 [^annexu1-lvlu1-lvlB-1]
 
@@ -1594,11 +1689,11 @@ Sarakhs (RAI)–Serahs (turkmenische Eisenbahnen)
 
 *Anmerkung:* Fährschiffverbindungen sind gleichzeitig auch Grenzübergangspunkte, mit Ausnahme der Fährschiffverbindung Stanrear–Larne und Messina–Villa S. Giovanni.
 
-Anlage III*[^t-5]*
+Anlage III[^t-4]
 
 ## Technische Merkmale des Netzes wichtiger Linien des internationalen kombinierten Verkehrs
 
-[^t-5]: Die Änderungen wurden anlässlich der 49. und 58. Sitzung der Arbeitsgruppe über den intermodalen Verkehr und die Logistik der Wirtschaftskommission für Europa der Vereinten Nationen angenommen. Sie sind für die Vertragsparteien am 23. Mai 2009 ([AS 2014 649](https://fedlex.data.admin.ch/eli/oc/2014/142)) und am 29. Dez. 2016 in Kraft getreten ([AS 2017 3061](https://fedlex.data.admin.ch/eli/oc/2017/302)).
+[^t-4]: Die Änderungen wurden anlässlich der 49. und 58. Sitzung der Arbeitsgruppe über den intermodalen Verkehr und die Logistik der Wirtschaftskommission für Europa der Vereinten Nationen angenommen. Sie sind für die Vertragsparteien am 23. Mai 2009 ([AS 2014 649](https://fedlex.data.admin.ch/eli/oc/2014/142)) und am 29. Dez. 2016 in Kraft getreten ([AS 2017 3061](https://fedlex.data.admin.ch/eli/oc/2017/302)).
 
 ### Vorbemerkungen
 
@@ -1680,11 +1775,11 @@ Entsprechend der UIC‑Regelung gelten die angegebenen Radsatzlasten für Raddur
 
 Die Mindestnutzlänge der Überholungsgleise auf Linien des internationalen kombinierten Verkehrs ist für Züge im kombinierten Verkehr von besonderer Bedeutung (vgl. Anlage IV).
 
-Anlage IV*[^t-6]*
+Anlage IV[^t-5]
 
 ## Leistungsparameter für Züge und Mindestvorgaben für die Infrastruktur
 
-[^t-6]: Änderung wurde anlässlich der 49. Sitzung der Arbeitsgruppe über den intermodalen Verkehr und die Logistik der Wirtschaftskommission für Europa der Vereinten Nationen angenommen. Sie ist für die Vertragsparteien am 23. Mai 2009 in Kraft getreten (siehe [AS 2014 649](https://fedlex.data.admin.ch/eli/oc/2014/142)).
+[^t-5]: Änderung wurde anlässlich der 49. Sitzung der Arbeitsgruppe über den intermodalen Verkehr und die Logistik der Wirtschaftskommission für Europa der Vereinten Nationen angenommen. Sie ist für die Vertragsparteien am 23. Mai 2009 in Kraft getreten (siehe [AS 2014 649](https://fedlex.data.admin.ch/eli/oc/2014/142)).
 
 ### A. Anforderungen für leistungsfähige Dienste des internationalen kombinierten Verkehrs
 
@@ -1712,13 +1807,13 @@ Anlage IV*[^t-6]*
 (5) Die im internationalen kombinierten Verkehr eingesetzten Züge sollen folgende Mindestvorgaben erfüllen:
 
 <table>
-<tr><td colspan="2">Mindestvorgaben</td><td>Gegenwärtig</td><td>Zielwerte\*</td></tr>
-<tr><td colspan="2">Mindestwert der Ausbaugeschwindigkeit</td><td>100 km/h</td><td>120 km/h</td></tr>
-<tr><td colspan="2">Zuglänge</td><td>600 m</td><td>750 m</td></tr>
-<tr><td colspan="2">Zuggewicht</td><td>1200 t</td><td>1500 t</td></tr>
-<tr><td colspan="2">Radsatzlast (Güterwagen)</td><td>20 t</td><td>20 t</td></tr>
-<tr><td colspan="2"></td><td></td><td>(22,5 t bei einer Geschwindigkeit von 100 km/h)</td></tr>
-<tr><td>\*</td><td colspan="3">Diese Werte sollen ungefähr bis zum Jahr 2000 erreicht sein. Die Erfüllung höherer Anforderungen zu einem früheren Zeitpunkt wird hierbei nicht ausgeschlossen, solange diese die internationale Entwicklung des kombinierten Verkehrs nicht beeinträchtigen.</td></tr>
+<tr><td>Mindestvorgaben</td><td>Gegenwärtig</td><td>Zielwerte\*</td></tr>
+<tr><td>Mindestwert der Ausbaugeschwindigkeit</td><td>100 km/h</td><td>120 km/h</td></tr>
+<tr><td>Zuglänge</td><td>600 m</td><td>750 m</td></tr>
+<tr><td>Zuggewicht</td><td>1200 t</td><td>1500 t</td></tr>
+<tr><td>Radsatzlast (Güterwagen)</td><td>20 t</td><td>20 t</td></tr>
+<tr><td></td><td></td><td>(22,5 t bei einer Geschwindigkeit von 100 km/h)</td></tr>
+<tr><td colspan="3">\* Diese Werte sollen ungefähr bis zum Jahr 2000 erreicht sein. Die Erfüllung höherer Anforderungen zu einem früheren Zeitpunkt wird hierbei nicht ausgeschlossen, solange diese die internationale Entwicklung des kombinierten Verkehrs nicht beeinträchtigen.</td></tr>
 </table>
 
 Können Direktzüge nicht eingesetzt werden, so sollen die Züge möglichst nur aus wenigen Wagengruppen bestehen mit gleichem Bestimmungsort für Güterwagen einer Wagengruppe. Unterwegshalte aus betrieblichen Gründen oder für Grenzkontrollen sind möglichst zu vermeiden.
@@ -1789,7 +1884,7 @@ d) Fährschiffverbindungen/häfen
 - – Verbleiben die Ladeeinheiten während der Überfahrt auf den Güterwagen, so müssen die Fährschiffe leicht zugänglich, und zeitraubende Rangiervorgänge dürfen nicht notwendig sein. Ladebegrenzungslinie, Radsatzlast usw. sollen mit den in Anlage III aufgeführten Ausbauwerten für Eisenbahnlinien übereinstimmen.
 - – Muss die Umladung der Ladeeinheiten ohne Güterwagen erfolgen, so sollten für die möglicherweise notwendige Beförderung auf der Strasse zwischen Fähr‑ und Eisenbahnterminal kurze Entfernungen und gute Strassenverbindungen zur Verfügung stehen.
 
-Geltungsbereich vom 19. August 2008**[^t-7]**
+Geltungsbereich am 30. Juni 2023[^t-6]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -1823,11 +1918,12 @@ Geltungsbereich vom 19. August 2008**[^t-7]**
 <tr><td>Slowenien</td><td>1. November</td><td>1994 B</td><td>30. Januar</td><td colspan="2">1995</td></tr>
 <tr><td>Tschechische Republik</td><td>2. Juni</td><td>1993 N</td><td>20. November</td><td colspan="2">1994</td></tr>
 <tr><td>Türkei</td><td>4. September</td><td>1996</td><td>3. Dezember</td><td colspan="2">1996</td></tr>
+<tr><td>Turkmenistan</td><td>31. August</td><td>2020 B</td><td>29. November</td><td colspan="2">2020</td></tr>
 <tr><td>Ukraine\*</td><td>23. Dezember</td><td>2005 B</td><td>23. März</td><td colspan="2">2006</td></tr>
 <tr><td>Ungarn</td><td>4. Februar</td><td>1994</td><td>5. Mai</td><td colspan="2">1994</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://untreaty.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Für das Königreich Europa.</td></tr>
 </table>
 
-[^t-7]: Eine aktualisierte Fassung des Geltungsbereichs findet sich auf der Internetseite des EDA (http://www.eda.admin.ch/vertraege).
+[^t-6]: [AS 1993 2838](https://fedlex.data.admin.ch/eli/oc/1993/2838_2838_2838); [2005 1231](https://fedlex.data.admin.ch/eli/oc/2005/178); [2008 3971](https://fedlex.data.admin.ch/eli/oc/2008/537); [2023 360](https://fedlex.data.admin.ch/eli/oc/2023/360). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

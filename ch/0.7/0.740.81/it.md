@@ -4,16 +4,18 @@ title: "Accordo europeo del 1<sup>o</sup> febbraio 1991 sulle grandi linee inter
 short: AGTC
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2838_2838_2838"
 language: it
-version: 2016-12-29
+version: 2023-06-30
 adopted: 1991-02-01
 in_force: 1993-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2838_2838_2838/20161229/it/xml/fedlex-data-admin-ch-eli-cc-1993-2838_2838_2838-20161229-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2838_2838_2838/20161229/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2838_2838_2838/20230630/it/xml/fedlex-data-admin-ch-eli-cc-1993-2838_2838_2838-20230630-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2838_2838_2838/20230630/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo europeo sulle grandi linee internazionali di trasporto combinato e sulle installazioni connesse
+
+RU **1993** 2837; FF **1992** III 1119
 
 Traduzione
 
@@ -21,7 +23,7 @@ Traduzione
 
 Concluso a Ginevra il 1° febbraio 1991 Approvato dall’Assemblea federale il 16 dicembre 1992[^t-1] Istrumento di ratificazione depositato dalla Svizzera l’11 febbraio 1993 Entrato in vigore per la Svizzera il 20 ottobre 1993
 
-(Stato 29 dicembre 2016)
+(Stato 30 giugno 2023)
 
 [^t-1]: [RU 1993 2837](https://fedlex.data.admin.ch/eli/oc/1993/2837_2837_2837)
 
@@ -240,7 +242,7 @@ L’originale del presente accordo, i cui testi in inglese, francese e russo fan
 
 (Seguono le firme)
 
-Allegato I*[^t-2]*
+Allegato I[^t-2]
 
 ## Linee ferroviarie importanti per il trasporto combinato internazionale
 
@@ -265,7 +267,7 @@ Simboli utilizzati\*
 </table>
 
 <table>
-<tr><td></td><td colspan="78">(1) Portogallo**[^annexu1-lvlu1-1]\***</td></tr>
+<tr><td></td><td colspan="78">(1) Portogallo[^annexu1-lvlu1-1]\*</td></tr>
 <tr><td>C–E 05</td><td colspan="49">(Fuentes de Oñoro–) Vilar Formoso–Pampilhosa–</td><td colspan="21">Coimbra-Lisboa</td><td colspan="8"></td></tr>
 <tr><td></td><td colspan="49"></td><td colspan="21">Porto</td><td colspan="8"></td></tr>
 <tr><td>C–E 90</td><td colspan="78">Lisboa–Entroncamento–Marvão (–Valencia de Alcântara)</td></tr>
@@ -278,7 +280,7 @@ Simboli utilizzati\*
 <tr><td>C 90/1</td><td colspan="78">Valencia–Barcelona</td></tr>
 <tr><td></td><td colspan="78">(3) Irlanda\*</td></tr>
 <tr><td>C–E 03</td><td colspan="78">(Larne–Belfast)–Dublin</td></tr>
-<tr><td></td><td colspan="78">(4) Regno Unito**[^annexu1-lvlu1-2]\***</td></tr>
+<tr><td></td><td colspan="78">(4) Regno Unito[^annexu1-lvlu1-2]\*</td></tr>
 <tr><td>C–E 03</td><td colspan="4">Glasgow–</td><td colspan="57">Stranraer–Larne-Belfast (–Dublin)–Holyhead</td><td colspan="17">–Crewe–</td></tr>
 <tr><td></td><td colspan="4"></td><td colspan="57">Carlisle</td><td colspan="17"></td></tr>
 <tr><td></td><td colspan="78">London–Folkstone–Dover (–Calais)</td></tr>
@@ -307,7 +309,7 @@ Simboli utilizzati\*
 <tr><td></td><td colspan="13"></td><td colspan="4">Rennes</td><td colspan="61"></td></tr>
 <tr><td>C 51</td><td colspan="78">(Dover–) Calais–Lille–Paris</td></tr>
 <tr><td>C 90/2</td><td colspan="78">Bordeaux–Toulouse–Narbonne</td></tr>
-<tr><td></td><td colspan="78">(6) Paesi Bassi**[^annexu1-lvlu1-3]\***</td></tr>
+<tr><td></td><td colspan="78">(6) Paesi Bassi[^annexu1-lvlu1-3]\*</td></tr>
 <tr><td>C–E 15</td><td colspan="78">Amsterdam–Den Haag–Rotterdam–Roosendaal (–Antwerpen)</td></tr>
 <tr><td>C–E 16</td><td colspan="78">(Harwich–) Hoek van Holland–Rotterdam–Utrecht</td></tr>
 <tr><td>C–E 35</td><td colspan="78">Amsterdam–Utrecht–Arnhem (–Emmerich)</td></tr>
@@ -352,7 +354,7 @@ Simboli utilizzati\*
 <tr><td>C 45/1</td><td colspan="78">(Fredericia–) Flensburg–Hamburg</td></tr>
 <tr><td>C 45/2</td><td colspan="78">Bremerhaven–Bremen–Hannover</td></tr>
 <tr><td>C 45/3</td><td colspan="78">Travemünde–Lübeck</td></tr>
-<tr><td></td><td colspan="78">(10) Svizzera**[^annexu1-lvlu1-4]\***</td></tr>
+<tr><td></td><td colspan="78">(10) Svizzera[^annexu1-lvlu1-4]\*</td></tr>
 <tr><td>C–E 23</td><td colspan="78">(Dijon–) Vallorbe–Lausanne–Brig</td></tr>
 <tr><td>C–E 25</td><td colspan="78">(Mulhouse–) Basel–Olten–Bern–Brig (–Domodossola)</td></tr>
 <tr><td>C–E 35</td><td colspan="78">(Karlsruhe–) Basel–Olten–Chiasso (–Milano)</td></tr>
@@ -373,7 +375,7 @@ Simboli utilizzati\*
 <tr><td></td><td colspan="32">(–Chiasso)</td><td colspan="46"></td></tr>
 <tr><td>C 90/3</td><td colspan="78">La Spezia–Fidenza–Parma</td></tr>
 <tr><td>C 90/4</td><td colspan="78">Livorno–Pisa–Firenze</td></tr>
-<tr><td></td><td colspan="78">(12) Norvegia**[^annexu1-lvlu1-5]\***</td></tr>
+<tr><td></td><td colspan="78">(12) Norvegia[^annexu1-lvlu1-5]\*</td></tr>
 <tr><td>C–E 45</td><td colspan="78">Oslo (–Kornsjø)</td></tr>
 <tr><td>C 47</td><td colspan="78">Narvik (–Vassijaure)</td></tr>
 <tr><td>C 48</td><td colspan="78">Trondheim–Hell– (Storlien)</td></tr>
@@ -411,7 +413,7 @@ Simboli utilizzati\*
 <tr><td>C–E 67</td><td colspan="78">Bruck a.d. Mur–Graz–Spielfeld Strass (–Sentilj)</td></tr>
 <tr><td>C–E 451</td><td colspan="78">(Passau–) Wels</td></tr>
 <tr><td>C–E 551</td><td colspan="78">(Horni Dvoriste–) Summerau–Linz–Selzthal–St. Michael</td></tr>
-<tr><td></td><td colspan="78">(16) Polonia**[^annexu1-lvlu1-6]\***</td></tr>
+<tr><td></td><td colspan="78">(16) Polonia[^annexu1-lvlu1-6]\*</td></tr>
 <tr><td>C–E 20</td><td colspan="46">(Frankfurt (O)–) Kunowice–Poznan–Lowicz–</td><td colspan="19">Warszawa</td><td colspan="13">.–Lukow–</td></tr>
 <tr><td></td><td colspan="46"></td><td colspan="19">Skierniewice</td><td colspan="13"></td></tr>
 <tr><td></td><td colspan="78">Terespol (–Brest)</td></tr>
@@ -444,7 +446,7 @@ Simboli utilizzati\*
 <tr><td>C 59</td><td colspan="78">(Chalupki–) Bohumín</td></tr>
 <tr><td>C 59/1</td><td colspan="78">(Zawidów–) Frýdlant v Čechách–Všetaty–Praha</td></tr>
 <tr><td>C 59/2</td><td colspan="78">(Miedzylesie–) Lichkov–Ústí nad Orlicí</td></tr>
-<tr><td></td><td colspan="78">(18) Slovacchia**[^annexu1-lvlu1-7]\***</td></tr>
+<tr><td></td><td colspan="78">(18) Slovacchia[^annexu1-lvlu1-7]\*</td></tr>
 <tr><td>C–E 40</td><td colspan="41">(Mosty u Jablunkova–) Čadca</td><td colspan="30">–Žilina–Poprad–Tatry–</td><td colspan="7"></td></tr>
 <tr><td></td><td colspan="41">(Horní Lideč-) Lúky pod Makytou-Púchov</td><td colspan="30"></td><td colspan="7"></td></tr>
 <tr><td></td><td colspan="78">Košice–Čierna nad Tisou (–Chop)</td></tr>
@@ -454,7 +456,7 @@ Simboli utilizzati\*
 <tr><td>C–E 63</td><td colspan="47">(Zwardoń–) Skalite–Čadca–Žilina–Leopoldov–</td><td colspan="16">Bratislava</td><td colspan="15">(–Kittsee)</td></tr>
 <tr><td></td><td colspan="47"></td><td colspan="16">Galanta</td><td colspan="15"></td></tr>
 <tr><td>C 30/1</td><td colspan="78">(Muszyna–) Plaveč–Prešov–Kysak–Košice–Čaňa (–Hidasnémeti)</td></tr>
-<tr><td></td><td colspan="78">(19) Ungheria**[^annexu1-lvlu1-8]\***</td></tr>
+<tr><td></td><td colspan="78">(19) Ungheria[^annexu1-lvlu1-8]\*</td></tr>
 <tr><td>C–E 50</td><td colspan="3">(Wien–)</td><td colspan="22">Hegyeshalom<sup>1</sup></td><td colspan="53">.–Györ–Budapest–Miskolc–Nyiregyháza–</td></tr>
 <tr><td></td><td colspan="3"></td><td colspan="22">(Ebenfurt–) Sopron<sup>2</sup></td><td colspan="53"></td></tr>
 <tr><td></td><td colspan="78">Záhony (–Chop)</td></tr>
@@ -491,7 +493,7 @@ Simboli utilizzati\*
 <tr><td>C–E 753</td><td colspan="78">Zagreb–Karlovac–Oštarije–Gospić–Knin–Zadar</td></tr>
 <tr><td>C–E 771</td><td colspan="78">(Bogojevo–) Erdut–Vinkovci–Strizivojna Vrpolje–Slavonski Šamac (–Bosanski Šamac–Sarajevo–Čapljina–) Metkovič–Ploće</td></tr>
 <tr><td>C 773</td><td colspan="78">(Magyarbóly–) Beli Manastir–Osijek–Strizivojna Vrpolje</td></tr>
-<tr><td></td><td colspan="78">(22) Bosnia-Erzegovina**[^annexu1-lvlu1-9]\***</td></tr>
+<tr><td></td><td colspan="78">(22) Bosnia-Erzegovina[^annexu1-lvlu1-9]\*</td></tr>
 <tr><td>C–E 751</td><td colspan="78">(Volinja–) Dobrljin–Bihac–Ripać (–Strmica)</td></tr>
 <tr><td>C–E 771</td><td colspan="78">(Slavonski Šamac–) Bosanski Šamac–Sarajevo–Čapljina (–Metković)</td></tr>
 <tr><td></td><td colspan="78">(23) Serbia\*</td></tr>
@@ -514,7 +516,7 @@ Simboli utilizzati\*
 <tr><td>C 85/1</td><td colspan="78">Thessaloniki–Florina–Kristallopigi (–………)</td></tr>
 <tr><td>C 85/2</td><td colspan="78">Igoumenitsa–Kalabaka–Palaiofarsalos–Volos [–Latakia (Repubblica Araba Siriana)]</td></tr>
 <tr><td>C 85/3</td><td colspan="78">Athinai–Patras</td></tr>
-<tr><td></td><td colspan="78">(26) Romania**[^annexu1-lvlu1-10]\***</td></tr>
+<tr><td></td><td colspan="78">(26) Romania[^annexu1-lvlu1-10]\*</td></tr>
 <tr><td>C–E 54</td><td colspan="78">Arad–Deva–Teiuş–Vînători–Braşov–Bucureşti</td></tr>
 <tr><td>C–E 56</td><td colspan="78">(Lökösháza–) Curtici–Arad–Timişoara–Craiova–Bucureşti</td></tr>
 <tr><td>C–E 66</td><td colspan="78">Halmeu–Satu Mare–Carei–Oradea–Arad–Timişoara–Stamora Moraviţa (–Vrsac)</td></tr>
@@ -544,7 +546,7 @@ Simboli utilizzati\*
 <tr><td>C 20/3</td><td colspan="78">(Kena–) Gudagai–Maladzečna–Minsk</td></tr>
 <tr><td>C–95/2</td><td colspan="33">(Lobok–) Ezjarysca–Vicebsk–Orsha</td><td colspan="45">–Žlobin–Slovechno (–Berezhest))</td></tr>
 <tr><td></td><td colspan="33">Minsk</td><td colspan="45"></td></tr>
-<tr><td></td><td colspan="78">(30) Ucraina**[^annexu1-lvlu1-11]\***</td></tr>
+<tr><td></td><td colspan="78">(30) Ucraina[^annexu1-lvlu1-11]\*</td></tr>
 <tr><td>C–E 30</td><td colspan="78">(Medyka–) Mostiska 2–Lvov–Rovno–Berdichev–Kazatin–Kiev–Kharkiv–Kupyansk–Topoli (–Valuiki)</td></tr>
 <tr><td>C–E 40</td><td colspan="78">(Čierna nad Tissou–) Čop–Lvov</td></tr>
 <tr><td>C–E 50</td><td colspan="78">(Záhony–) Chop–Lvov–Fastov–Dnipropetrovsk–Krasnoarmeisk–Yasinovataya–Debaltsevo–Krasnaya Mogila (–Gukovo)</td></tr>
@@ -564,8 +566,8 @@ Simboli utilizzati\*
 <tr><td></td><td colspan="78">Tyoumen</td></tr>
 <tr><td></td><td colspan="78">Kourgan–Petoukhovo (–Mamlyoutka–Petropavlovsk–Kara-Gouga–) Isilkoul–</td></tr>
 <tr><td></td><td colspan="78">Omsk–Novosibirsk–Krasnoyarsk–Taychet–Irkoutsk–</td></tr>
-<tr><td></td><td colspan="8">Oulan–Oude–</td><td colspan="30">Zaoudinsky–</td><td colspan="6">–</td><td colspan="32">Karimskaya</td><td colspan="2"></td></tr>
-<tr><td></td><td colspan="8"></td><td colspan="30">Naouchki (–Soukhe–Bator)</td><td colspan="6"></td><td colspan="32">Zabailkalsk (–Mandchoulia)</td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="9">Oulan–Oude–</td><td colspan="29">Zaoudinsky–</td><td colspan="6">–</td><td colspan="32">Karimskaya</td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="9"></td><td colspan="29">Naouchki (–Soukhe–Bator)</td><td colspan="6"></td><td colspan="32">Zabailkalsk (–Mandchoulia)</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="10">–Khabarovsk–</td><td colspan="24">Baranovsky–</td><td colspan="44">–Nakhodka–Vostotchnaya</td></tr>
 <tr><td></td><td colspan="10"></td><td colspan="24">Hasan (–Toumangan)</td><td colspan="44"></td></tr>
 <tr><td>C–E 24</td><td colspan="78">Moskva–Ryazan–Rouzaevka–Samara–Oufa–Tchelyabinsk–Kourgan–Zaouralie (–Presnogorkovskaya)</td></tr>
@@ -581,7 +583,7 @@ Simboli utilizzati\*
 <tr><td>C 20/3</td><td colspan="78">Kaliningrad–Tcherniakhovs–Nesterov (–Kibartai)</td></tr>
 <tr><td>C 75/1</td><td colspan="78">(Narva–) Ivangorod–Gatčina–St. Petersburg</td></tr>
 <tr><td>C 95/2</td><td colspan="78">St. Petersburg–Dno–Novosokol'niki–Lobok (–Ezjarysca)</td></tr>
-<tr><td></td><td colspan="78">(33) Turchia**[^annexu1-lvlu1-12]\***</td></tr>
+<tr><td></td><td colspan="78">(33) Turchia[^annexu1-lvlu1-12]\*</td></tr>
 <tr><td>C–E 70</td><td colspan="78">(Svilengrad–) Kapikule–Istanbul–Haydarpasa–Ankara–Boğazköprü–</td></tr>
 <tr><td colspan="2"></td><td colspan="11">Kalin–Malatya–</td><td colspan="56">Kapiköy [-Razi (Repubblica Islamica dell’Iran)]</td><td colspan="10"></td></tr>
 <tr><td colspan="2"></td><td colspan="11"></td><td colspan="56">Nusaybin [-Kamishli (Repubblica Araba Siriana)]</td><td colspan="10"></td></tr>
@@ -600,7 +602,7 @@ Simboli utilizzati\*
 <tr><td colspan="2">C 20/3</td><td colspan="39">(Nesterov–) Kybartai–Kazlų Rũda–Kaunas</td><td colspan="38">–Kaišiadorys–Vilnius–Kena</td></tr>
 <tr><td colspan="2"></td><td colspan="39">(Mukran (Sassnitz) –) Draugyste (Klaipėda)-Šiauliai-Radviliškis</td><td colspan="38"></td></tr>
 <tr><td colspan="2"></td><td colspan="77">(–Gudagai)</td></tr>
-<tr><td colspan="2"></td><td colspan="77">(35) Armenia**[^annexu1-lvlu1-13]\***</td></tr>
+<tr><td colspan="2"></td><td colspan="77">(35) Armenia[^annexu1-lvlu1-13]\*</td></tr>
 <tr><td colspan="2"></td><td colspan="77">(36) Azerbaigian\*</td></tr>
 <tr><td colspan="2">C–E 60</td><td colspan="77">(Gardabani–) Beyuk–Kyasik–Baku (–Turmenbashi)</td></tr>
 <tr><td colspan="2"></td><td colspan="77">(37) Georgia\*</td></tr>
@@ -629,7 +631,7 @@ Simboli utilizzati\*
 <tr><td colspan="2">C–E 85</td><td colspan="13">Riga–Krustpils</td><td colspan="64">–Daugavpils–Indra (–Bigosovo)</td></tr>
 <tr><td colspan="2"></td><td colspan="13">(Obeliai–) Eglaine</td><td colspan="64"></td></tr>
 <tr><td colspan="2">C–E 75</td><td colspan="77">(Valga–) Lugazi–Rig–Jelgava–Meitene (–Sarkiai)</td></tr>
-<tr><td colspan="2"></td><td colspan="77">(44) Iran (Repubblica Islamica dell’)**[^annexu1-lvlu1-14]\***</td></tr>
+<tr><td colspan="2"></td><td colspan="77">(44) Iran (Repubblica Islamica dell’)[^annexu1-lvlu1-14]\*</td></tr>
 <tr><td colspan="2">C–E 70</td><td colspan="77">(Kapiköy–) Razi–Tabriz–Tehran–Mashad–Sarakhs (–Serahs)</td></tr>
 </table>
 
@@ -648,7 +650,7 @@ Simboli utilizzati\*
 [^annexu1-lvlu1-13]: \* Per quanto concerne la nota generale, la spiegazione dei numeri delle linee e i simboli utilizzati, vedasi la prima pagina dell’allegato I.
 [^annexu1-lvlu1-14]: \* Per quanto concerne la nota generale, la spiegazione dei numeri delle linee e i simboli utilizzati, vedasi la prima pagina dell’allegato I.
 
-Allegato II*[^t-3]*
+Allegato II[^t-3]
 
 ## Installazioni importanti per il trasporto combinato internazionale
 
@@ -1292,11 +1294,11 @@ Southampton
 
 Tilbury
 
-### B. Passaggi di frontiera importanti per il trasporto combinato internazionale****
+### B. Passaggi di frontiera importanti per il trasporto combinato internazionale
 
-[^annexu1-lvlu1-lvlB-1]
+[^annexu1-lvlu1-lvlu2-1]
 
-[^annexu1-lvlu1-lvlB-1]: Il nome di ogni punto di passaggio di frontiera è seguito, tra parentesi, dalla sigla della compagnia ferroviaria che esercita la stazione corrispondente. Se l’elenco menziona un solo punto di passaggio, ciò significa che la stazione è utilizzata da due compagnie ferroviarie insieme.
+[^annexu1-lvlu1-lvlu2-1]: Il nome di ogni punto di passaggio di frontiera è seguito, tra parentesi, dalla sigla della compagnia ferroviaria che esercita la stazione corrispondente. Se l’elenco menziona un solo punto di passaggio, ciò significa che la stazione è utilizzata da due compagnie ferroviarie insieme.
 
 Vilar Formoso (CP)–Fuentes de Onoro (RENFE)
 
@@ -1780,7 +1782,7 @@ Baku–Turkmenbashi (Azerbaigian–Turkmenistan)
 
 *Nota*: Ad eccezione dei collegamenti Stanrear–Larne e Messina–Villa S. Giovanni, i collegamenti con i traghetti sono anche punti di passaggio di frontiera.
 
-Allegato III*[^t-4]*
+Allegato III[^t-4]
 
 ## Caratteristiche tecniche relative alla rete delle grandi linee internazionali di trasporto combinato
 
@@ -1866,7 +1868,7 @@ Le masse assiali indicate sono valide per le ruote con diametro uguale o superio
 
 La lunghezza utile minima dei binari di precedenza sulle linee internazionali di trasporto combinato è particolarmente importante per i convogli del trasporto combinato (v. allegato IV).
 
-Allegato IV*[^t-5]*
+Allegato IV[^t-5]
 
 ## Parametri di prestazione ferroviaria e norme minime applicabili alle infrastrutture
 
@@ -1975,7 +1977,7 @@ d) *Collegamenti /porti per traghetti*
 - – se le unità di carico restano sui carri durante la traversata, l’accesso ai traghetti deve essere facile e le lunghe operazioni di smistamento dovrebbero essere evitate. La sagoma limite, la massa assiale ecc. saranno conformi ai parametri di linea citati nell’allegato III;
 - – nel caso che le unità di carico debbano essere trasbordate senza i carri, l’eventuale trasporto su strada tra il porto dei traghetti e la stazione ferroviaria sarà caratterizzato da distanze brevi e buoni collegamenti stradali.
 
-Campo d’applicazione il 19 agosto 2008**[^t-6]**
+Campo d’applicazione il 30 giugno 2023[^t-6]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -2009,10 +2011,11 @@ Campo d’applicazione il 19 agosto 2008**[^t-6]**
 <tr><td>Slovenia</td><td>1° novembre</td><td>1994 A</td><td>30 gennaio</td><td>1995</td></tr>
 <tr><td>Svizzera</td><td>11 febbraio</td><td>1993</td><td>20 ottobre</td><td>1993</td></tr>
 <tr><td>Turchia</td><td>4 settembre</td><td>1996</td><td>3 dicembre</td><td>1996</td></tr>
+<tr><td>Turkmenistan</td><td>31 agosto</td><td>2020 A</td><td>29 novembre</td><td>2020</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>23 dicembre</td><td>2005 A</td><td>23 marzo</td><td>2006</td></tr>
 <tr><td>Ungheria</td><td>4 febbraio</td><td>1994</td><td>5 maggio</td><td>1994</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://untreaty.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-6]: Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-6]: [RU 1993 2838](https://fedlex.data.admin.ch/eli/oc/1993/2838_2838_2838); [2005 1231](https://fedlex.data.admin.ch/eli/oc/2005/178); [2008 3971](https://fedlex.data.admin.ch/eli/oc/2008/537); [2023 360](https://fedlex.data.admin.ch/eli/oc/2023/360). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

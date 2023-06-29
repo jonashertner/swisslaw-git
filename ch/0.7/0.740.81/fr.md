@@ -4,11 +4,11 @@ title: "Accord européen du 1<sup>er</sup> février 1991 sur les grandes lignes 
 short: AGTC
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2838_2838_2838"
 language: fr
-version: 2016-12-29
+version: 2023-06-30
 adopted: 1991-02-01
 in_force: 1993-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2838_2838_2838/20161229/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2838_2838_2838-20161229-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2838_2838_2838/20161229/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2838_2838_2838/20230630/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2838_2838_2838-20230630-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2838_2838_2838/20230630/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -29,7 +29,7 @@ Instrument de ratification déposé par la Suisse le 11 février 1993
 
 Entré en vigueur pour la Suisse le 20 octobre 1993
 
-(Etat le 29 décembre 2016)
+(État le 30 juin 2023)
 
 [^t-1]: [RO 1993 2837](https://fedlex.data.admin.ch/eli/oc/1993/2837_2837_2837)
 
@@ -100,7 +100,7 @@ Le Secrétaire général de l’Organisation des Nations Unies est le dépositai
 
 **Signature**
 
-<sup>1.</sup> Le présent Accord sera ouvert, à l’office des Nations Unies à Genève, à la signature des Etats qui sont soit membres de la Commission économique des Nations Unies pour l’Europe soit admis à la Commission à titre consultatif, conformément aux paragraphes 8 et 11 du mandat de la Commission, du 1<sup>er</sup> avril 1991 au 31 mars 1992.
+<sup>1.</sup> Le présent Accord sera ouvert, à l’office des Nations Unies à Genève, à la signature des États qui sont soit membres de la Commission économique des Nations Unies pour l’Europe soit admis à la Commission à titre consultatif, conformément aux paragraphes 8 et 11 du mandat de la Commission, du 1<sup>er</sup> avril 1991 au 31 mars 1992.
 
 <sup>2.</sup> Ces signatures seront soumises à ratification, acceptation ou approbation.
 
@@ -116,7 +116,7 @@ Le Secrétaire général de l’Organisation des Nations Unies est le dépositai
 
 **Adhésion**
 
-<sup>1.</sup> Le présent Accord sera ouvert à l’adhésion de tout Etat visé au paragraphe 1 de l’article 7, à partir du 1<sup>er</sup> avril 1991.
+<sup>1.</sup> Le présent Accord sera ouvert à l’adhésion de tout État visé au paragraphe 1 de l’article 7, à partir du 1<sup>er</sup> avril 1991.
 
 <sup>2.</sup> L’adhésion s’effectuera par le dépôt d’un instrument auprès du Secrétaire général de l’Organisation des Nations Unies.
 
@@ -124,11 +124,11 @@ Le Secrétaire général de l’Organisation des Nations Unies est le dépositai
 
 **Entrée en vigueur**
 
-<sup>1.</sup> Le présent Accord entrera en vigueur 90 jours après la date à laquelle les gouvernements de huit Etats auront déposé un instrument de ratification, d’acceptation, d’approbation ou d’adhésion à condition qu’une ou plusieurs lignes du réseau international de transport combiné relient de façon ininterrompue les territoires d’au moins quatre desdits Etats.
+<sup>1.</sup> Le présent Accord entrera en vigueur 90 jours après la date à laquelle les gouvernements de huit États auront déposé un instrument de ratification, d’acceptation, d’approbation ou d’adhésion à condition qu’une ou plusieurs lignes du réseau international de transport combiné relient de façon ininterrompue les territoires d’au moins quatre desdits États.
 
 <sup>2.</sup> Si cette condition n’est pas remplie, l’Accord entrera en vigueur 90 jours après la date du dépôt de l’instrument de ratification, d’acceptation, d’approbation ou d’adhésion qui permettra de satisfaire à ladite condition.
 
-<sup>3.</sup> Pour chaque Etat qui déposera un instrument de ratification, d’acceptation, d’approbation ou d’adhésion après la date à partir de laquelle court le délai de 90 jours spécifié aux paragraphes 1 et 2 du présent article, l’Accord entrera en vigueur 90 jours après la date dudit dépôt.
+<sup>3.</sup> Pour chaque État qui déposera un instrument de ratification, d’acceptation, d’approbation ou d’adhésion après la date à partir de laquelle court le délai de 90 jours spécifié aux paragraphes 1 et 2 du présent article, l’Accord entrera en vigueur 90 jours après la date dudit dépôt.
 
 #### Art. 11
 
@@ -152,7 +152,7 @@ Le Secrétaire général de l’Organisation des Nations Unies est le dépositai
 
 **Réserves**
 
-Tout Etat pourra, au moment où il signera le présent Accord ou déposera son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, notifier au dépositaire qu’il ne se considère pas lié par l’article 12 du présent Accord.
+Tout État pourra, au moment où il signera le présent Accord ou déposera son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, notifier au dépositaire qu’il ne se considère pas lié par l’article 12 du présent Accord.
 
 #### Art. 14
 
@@ -160,11 +160,11 @@ Tout Etat pourra, au moment où il signera le présent Accord ou déposera son i
 
 <sup>1.</sup> Le présent Accord pourra être amendé suivant la procédure définie dans le présent article, sous réserve des dispositions des articles 15 et 16.
 
-2.[^14-1] A la demande d’une Partie contractante, tout amendement du présent Accord proposé par cette Partie sera examiné par le Groupe de travail du transport intermodal et de la logistique de la Commission économique des Nations Unies pour l’Europe.
+2.[^14-1] À la demande d’une Partie contractante, tout amendement du présent Accord proposé par cette Partie sera examiné par le Groupe de travail du transport intermodal et de la logistique de la Commission économique des Nations Unies pour l’Europe.
 
 <sup>3.</sup> S’il est adopté à la majorité des deux tiers des Parties contractantes présentes et votantes, l’amendement sera communiqué pour acceptation à toutes les Parties contractantes par le Secrétaire général de l’Organisation des Nations Unies.
 
-<sup>4.</sup> Toute proposition d’amendement qui aura été communiquée conformément aux dispositions du paragraphe 3 du présent article entrera en vigueur pour toutes les Parties contractantes trois mois après l’expiration d’une période de douze mois suivant la date de sa communication, à condition qu’au cours de cette période de douze mois aucune objection à la proposition d’amendement n’aura été notifiée au Secrétaire général de l’Organisation des Nations Unies par un Etat qui est Partie contractante.
+<sup>4.</sup> Toute proposition d’amendement qui aura été communiquée conformément aux dispositions du paragraphe 3 du présent article entrera en vigueur pour toutes les Parties contractantes trois mois après l’expiration d’une période de douze mois suivant la date de sa communication, à condition qu’au cours de cette période de douze mois aucune objection à la proposition d’amendement n’aura été notifiée au Secrétaire général de l’Organisation des Nations Unies par un État qui est Partie contractante.
 
 <sup>5.</sup> Si une objection à la proposition d’amendement a été, notifiée conformément aux dispositions du paragraphe 4 du présent article, l’amendement sera réputé ne pas être accepté et n’aura absolument aucun effet.
 
@@ -176,7 +176,7 @@ Tout Etat pourra, au moment où il signera le présent Accord ou déposera son i
 
 <sup>1.</sup> Les annexes I et II du présent Accord pourront être amendées suivant la procédure stipulée dans le présent article.
 
-2.[^15-1] A la demande d’une Partie contractante, tout amendement des annexes I et II proposé par cette Partie sera examiné par le Groupe de travail du transport intermodal et de la logistique de la Commission économique des Nations Unies pour l’Europe.
+2.[^15-1] À la demande d’une Partie contractante, tout amendement des annexes I et II proposé par cette Partie sera examiné par le Groupe de travail du transport intermodal et de la logistique de la Commission économique des Nations Unies pour l’Europe.
 
 <sup>3.</sup> Si elle est adoptée par la majorité des Parties contractantes présentes et votantes, la proposition d’amendement sera communiquée pour acceptation aux Parties contractantes directement intéressées par le Secrétaire général de l’Organisation des Nations Unies. Aux fins du présent article, une Partie contractante sera considérée comme étant directement intéressée si, dans le cas de l’inclusion d’une nouvelle ligne, d’un terminal important, d’un point de franchissement de la frontière, d’un poste de changement d’écartement, d’un port ou d’une liaison par navire transbordeur ou dans le cas de la modification de ces installations, son territoire est franchi par cette ligne ou est directement relié au terminal important ou si le terminal important, le point de franchissement de la frontière, le poste de changement d’écartement ou le point terminal du port ou de la liaison par navire transbordeur envisagés sont situés sur ledit territoire.
 
@@ -196,7 +196,7 @@ Tout Etat pourra, au moment où il signera le présent Accord ou déposera son i
 
 <sup>1.</sup> Les annexes III et IV du présent Accord pourront être amendées conformément à la procédure définie dans le présent article.
 
-2.[^16-1] A la demande d’une Partie contractante, tout amendement des annexes III et IV proposé par cette Partie sera examiné par le Groupe de travail du transport intermodal et de la logistique de la Commission économique des Nations Unies pour l’Europe.
+2.[^16-1] À la demande d’une Partie contractante, tout amendement des annexes III et IV proposé par cette Partie sera examiné par le Groupe de travail du transport intermodal et de la logistique de la Commission économique des Nations Unies pour l’Europe.
 
 <sup>3.</sup> S’il est adopté à la majorité des deux tiers des Parties contractantes présentes et votantes, l’amendement sera communiqué pour acceptation à toutes les Parties contractantes par le Secrétaire général de l’Organisation des Nations Unies.
 
@@ -212,7 +212,7 @@ Tout Etat pourra, au moment où il signera le présent Accord ou déposera son i
 
 **Clause de sauvegarde**
 
-Les dispositions du présent Accord ne peuvent prévaloir contre celles que certains Etats sont amenés à prendre entre eux en application de certains traités multilatéraux tels que le Traité de Rome de 1957 instituant la Communauté économique européenne.
+Les dispositions du présent Accord ne peuvent prévaloir contre celles que certains États sont amenés à prendre entre eux en application de certains traités multilatéraux tels que le Traité de Rome de 1957 instituant la Communauté économique européenne.
 
 #### Art. 18
 
@@ -226,7 +226,7 @@ Les dispositions du présent Accord ne peuvent prévaloir contre celles que cert
 
 **Extinction**
 
-Si, après l’entrée en vigueur du présent Accord, le nombre des Etats qui sont Parties contractantes se trouve ramené à moins de huit pendant une période quelconque de douze mois consécutifs, le présent Accord cessera de produire ses effets douze mois à partir de la date à laquelle le huitième Etat aura cessé d’en être une Partie contractante.
+Si, après l’entrée en vigueur du présent Accord, le nombre des États qui sont Parties contractantes se trouve ramené à moins de huit pendant une période quelconque de douze mois consécutifs, le présent Accord cessera de produire ses effets douze mois à partir de la date à laquelle le huitième État aura cessé d’en être une Partie contractante.
 
 #### Art. 20
 
@@ -244,7 +244,7 @@ L’original du présent Accord, dont les textes en langues anglaise, française
 
 *En foi de quoi,* les soussignés, à ce dûment autorisés, ont signé le présent Accord. Fait à Genève, le premier février mil neuf cent quatre‑vingt onze. (Suivent les signatures)
 
-Annexe I*[^t-2]*
+Annexe I[^t-2]
 
 ## Lignes de chemin de fer importantes pour le transport international combiné
 
@@ -256,7 +256,7 @@ Annexe I*[^t-2]*
 
 «C» indique d’autres itinéraires importants pour le transport international combiné. Les numéros d’ordre de ligne «C» sont identiques à ceux de la ligne E la plus proche et sont suivis, quelquefois, par un numéro de série.
 
-Le numéro d’ordre E a été indiqué pour faciliter le renvoi aux lignes figurant dans l’AGC et la comparaison avec celles-ci. Il n’indique en aucune manière si les Etats sont ou non Parties contractantes à l’AGC ou ont l’intention de le devenir.
+Le numéro d’ordre E a été indiqué pour faciliter le renvoi aux lignes figurant dans l’AGC et la comparaison avec celles-ci. Il n’indique en aucune manière si les États sont ou non Parties contractantes à l’AGC ou ont l’intention de le devenir.
 
 Symboles utilisés\*
 
@@ -269,7 +269,7 @@ Symboles utilisés\*
 </table>
 
 <table>
-<tr><td></td><td colspan="55">(1) Portugal**[^annexI-lvlu1-1]\***</td></tr>
+<tr><td></td><td colspan="55">(1) Portugal[^annexu1-lvlu1-1]\*</td></tr>
 <tr><td>C–E 05</td><td colspan="34">(Fuentes de Oñoro–) Vilar Formoso-Pampilhosa–</td><td colspan="17">Coimbra-Lisboa</td><td colspan="4"></td></tr>
 <tr><td></td><td colspan="34"></td><td colspan="17">Porto</td><td colspan="4"></td></tr>
 <tr><td>C–E 90</td><td colspan="55">Lisboa–Entroncamento–Marvão(–Valencia de Alcântara)</td></tr>
@@ -282,7 +282,7 @@ Symboles utilisés\*
 <tr><td>C 90/1</td><td colspan="55">Valencia–Barcelona</td></tr>
 <tr><td></td><td colspan="55">(3) Irlande\*</td></tr>
 <tr><td>C–E 03</td><td colspan="55">(Larne–Belfast)–Dublin</td></tr>
-<tr><td></td><td colspan="55">(4) Royaume-Uni**[^annexI-lvlu1-2]\***</td></tr>
+<tr><td></td><td colspan="55">(4) Royaume-Uni[^annexu1-lvlu1-2]\*</td></tr>
 <tr><td>C–E 03</td><td colspan="3">Glasgow–</td><td colspan="44">Stranraer–Larne-Belfast (–Dublin)–Holyhead</td><td colspan="8">–Crewe–</td></tr>
 <tr><td></td><td colspan="3"></td><td colspan="44">Carlisle</td><td colspan="8"></td></tr>
 <tr><td></td><td colspan="55">London–Folkstone–Dover (–Calais)</td></tr>
@@ -311,7 +311,7 @@ Symboles utilisés\*
 <tr><td></td><td colspan="8"></td><td colspan="4">Rennes</td><td colspan="43"></td></tr>
 <tr><td>C 51</td><td colspan="55">(Dover–) Calais–Lille–Paris</td></tr>
 <tr><td>C 90/2</td><td colspan="55">Bordeaux–Toulouse–Narbonne</td></tr>
-<tr><td></td><td colspan="55">(6) Pays-Bas**[^annexI-lvlu1-3]\***</td></tr>
+<tr><td></td><td colspan="55">(6) Pays-Bas[^annexu1-lvlu1-3]\*</td></tr>
 <tr><td>C–E 15</td><td colspan="55">Amsterdam–Den Haag–Rotterdam Roosendaal (–Antwerpen)</td></tr>
 <tr><td>C–E 16</td><td colspan="55">(Harwich–) Hoek van Holland–Rotterdam–Utrecht</td></tr>
 <tr><td>C–E 35</td><td colspan="55">Amsterdam–Utrecht–Arnhem (–Emmerich)</td></tr>
@@ -356,7 +356,7 @@ Symboles utilisés\*
 <tr><td>C 45/1</td><td colspan="55">(Fredericia–) Flensburg–Hamburg</td></tr>
 <tr><td>C 45/2</td><td colspan="55">Bremerhaven–Bremen–Hannover</td></tr>
 <tr><td>C 45/3</td><td colspan="55">Travemünde–Lübeck</td></tr>
-<tr><td></td><td colspan="55">(10) Suisse**[^annexI-lvlu1-4]\***</td></tr>
+<tr><td></td><td colspan="55">(10) Suisse[^annexu1-lvlu1-4]\*</td></tr>
 <tr><td>C–E 23</td><td colspan="55">(Dijon–) Vallorbe–Lausanne–Brig</td></tr>
 <tr><td>C–E 25</td><td colspan="55">(Mulhouse–) Basel–Olten–Bern–Brig (–Domodossola)</td></tr>
 <tr><td>C–E 35</td><td colspan="55">(Karlsruhe–) Basel–Olten–Chiasso (–Milano)</td></tr>
@@ -377,7 +377,7 @@ Symboles utilisés\*
 <tr><td></td><td colspan="22">(–Chiasso)</td><td colspan="33"></td></tr>
 <tr><td>C 90/3</td><td colspan="55">La Spezia–Fidenza–Parma</td></tr>
 <tr><td>C 90/4</td><td colspan="55">Livorno–Pisa–Firenze</td></tr>
-<tr><td></td><td colspan="55">(12) Norvège**[^annexI-lvlu1-5]\***</td></tr>
+<tr><td></td><td colspan="55">(12) Norvège[^annexu1-lvlu1-5]\*</td></tr>
 <tr><td>C–E 45</td><td colspan="55">Oslo (–Kornsjø)</td></tr>
 <tr><td>C 47</td><td colspan="55">Narvik (–Vassijaure)</td></tr>
 <tr><td>C 48</td><td colspan="55">Trondheim–Hell– (Storlien)</td></tr>
@@ -415,7 +415,7 @@ Symboles utilisés\*
 <tr><td>C–E 67</td><td colspan="55">Bruck a.d. Mur–Graz–Spielfeld Strass (–Sentilj)</td></tr>
 <tr><td>C–E 451</td><td colspan="55">(Passau–) Wels</td></tr>
 <tr><td>C–E 551</td><td colspan="55">(Horni Dvoriste–) Summerau–Linz–Selzthal–St. Michael</td></tr>
-<tr><td></td><td colspan="55">(16) Pologne**[^annexI-lvlu1-6]\***</td></tr>
+<tr><td></td><td colspan="55">(16) Pologne[^annexu1-lvlu1-6]\*</td></tr>
 <tr><td>C–E 20</td><td colspan="31">(Frankfurt (O)–) Kunowice–Poznan-Lowicz–</td><td colspan="17">Warszawa</td><td colspan="7">.–Lukow–</td></tr>
 <tr><td></td><td colspan="31"></td><td colspan="17">Skierniewice</td><td colspan="7"></td></tr>
 <tr><td></td><td colspan="55">Terespol (–Brest)</td></tr>
@@ -448,7 +448,7 @@ Symboles utilisés\*
 <tr><td>C 59</td><td colspan="55">(Chalupki–) Bohumín</td></tr>
 <tr><td>C 59/1</td><td colspan="55">(Zawidów–) Frýdlant v Čechách–Všetaty–Praha</td></tr>
 <tr><td>C 59/2</td><td colspan="55">(Miedzylesie–) Lichkov–Ústí nad Orlicí</td></tr>
-<tr><td></td><td colspan="55">(18) Slovaquie**[^annexI-lvlu1-7]\***</td></tr>
+<tr><td></td><td colspan="55">(18) Slovaquie[^annexu1-lvlu1-7]\*</td></tr>
 <tr><td>C–E 40</td><td colspan="27">(Mosty u Jablunkova–) Čadca</td><td colspan="24">–Žilina–Poprad–Tatry–</td><td colspan="4"></td></tr>
 <tr><td></td><td colspan="27">(Horní Lideč-) Lúky pod Makytou-Púchov</td><td colspan="24"></td><td colspan="4"></td></tr>
 <tr><td></td><td colspan="55">Košice–Čierna nad Tisou (–Chop)</td></tr>
@@ -458,7 +458,7 @@ Symboles utilisés\*
 <tr><td>C–E 63</td><td colspan="32">(Zwardoń–) Skalite–Čadca–Žilina–Leopoldov–</td><td colspan="13">Bratislava</td><td colspan="10">–(Kittsee)</td></tr>
 <tr><td></td><td colspan="32"></td><td colspan="13">Galanta</td><td colspan="10"></td></tr>
 <tr><td>C 30/1</td><td colspan="55">(Muszyna–) Plaveč–Prešov–Kysak–Košice–Čaňa (–Hidasnémeti)</td></tr>
-<tr><td></td><td colspan="55">(19) Hongrie**[^annexI-lvlu1-8]\***</td></tr>
+<tr><td></td><td colspan="55">(19) Hongrie[^annexu1-lvlu1-8]\*</td></tr>
 <tr><td>C–E 50</td><td colspan="2">(Wien–)</td><td colspan="13">Hegyeshalom<sup>1</sup></td><td colspan="40">.–Györ–Budapest–Miskolc–Nyiregyháza–</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="13">(Ebenfurt–) Sopron<sup>2</sup></td><td colspan="40"></td></tr>
 <tr><td></td><td colspan="55">Záhony (–Chop)</td></tr>
@@ -495,7 +495,7 @@ Symboles utilisés\*
 <tr><td>C–E 753</td><td colspan="55">Zagreb–Karlovac–Oštarije–Gospić–Knin–Zadar</td></tr>
 <tr><td>C–E 771</td><td colspan="55">(Bogojevo–) Erdut–Vinkovci–Strizivojna Vrpolje–Slavonski Šamac (–Bosanski Šamac–Sarajevo–Čapljina–) Metkovič–Ploće</td></tr>
 <tr><td>C 773</td><td colspan="55">(Magyarbóly–) Beli Manastir–Osijek–Strizivojna Vrpolje</td></tr>
-<tr><td></td><td colspan="55">(22) Bosnie-Herzégovine**[^annexI-lvlu1-9]\***</td></tr>
+<tr><td></td><td colspan="55">(22) Bosnie-Herzégovine[^annexu1-lvlu1-9]\*</td></tr>
 <tr><td>C–E 751</td><td colspan="55">(Volinja–) Dobrljin-Bihac–Ripać (–Strmica)</td></tr>
 <tr><td>C–E 771</td><td colspan="55">(Slavonski Šamac–) Bosanski Šamac–Sarajevo–Čapljina (–Metković)</td></tr>
 <tr><td></td><td colspan="55">(23) Serbie<sup>\*</sup></td></tr>
@@ -518,7 +518,7 @@ Symboles utilisés\*
 <tr><td>C 85/1</td><td colspan="55">Thessaloniki–Florina–Kristallopigi (–………)</td></tr>
 <tr><td>C 85/2</td><td colspan="55">Igoumenitsa–Kalabaka–Palaiofarsalos–Volos [–Latakia (République arabe syrienne)]</td></tr>
 <tr><td>C 85/3</td><td colspan="55">Athinai–Patras</td></tr>
-<tr><td></td><td colspan="55">(26) Roumanie**[^annexI-lvlu1-10]\***</td></tr>
+<tr><td></td><td colspan="55">(26) Roumanie[^annexu1-lvlu1-10]\*</td></tr>
 <tr><td>C–E 54</td><td colspan="55">Arad–Deva–Teiuş–Vînători–Braşov–Bucureşti</td></tr>
 <tr><td>C–E 56</td><td colspan="55">(Lökösháza–) Curtici–Arad–Timişoara–Craiova–Bucureşti</td></tr>
 <tr><td>C–E 66</td><td colspan="55">Halmeu–Satu Mare–Carei–Oradea–Arad–Timişoara–Stamora Moraviţa (–Vrsac)</td></tr>
@@ -548,7 +548,7 @@ Symboles utilisés\*
 <tr><td>C 20/3</td><td colspan="55">(Kena–) Gudagai–Maladzečna–Minsk</td></tr>
 <tr><td>C–95/2</td><td colspan="23">(Lobok–) Ezjarysca–Vicebsk–Orsha</td><td colspan="32">–Žlobin–Slovechno (–Berezhest))</td></tr>
 <tr><td></td><td colspan="23">Minsk</td><td colspan="32"></td></tr>
-<tr><td></td><td colspan="55">(30) Ukraine**[^annexI-lvlu1-11]\***</td></tr>
+<tr><td></td><td colspan="55">(30) Ukraine[^annexu1-lvlu1-11]\*</td></tr>
 <tr><td>C–E 30</td><td colspan="55">(Medyka–) Mostiska 2–Lvov–Rovno–Berdichev–Kazatin–Kiev–Kharkiv–Kupyansk–Topoli (–Valuiki)</td></tr>
 <tr><td>C–E 40</td><td colspan="55">(Čierna nad Tissou–) Čop–Lvov</td></tr>
 <tr><td>C–E 50</td><td colspan="55">(Záhony–) Chop–Lvov–Fastov–Dnipropetrovsk–Krasnoarmeisk–Yasinovataya–Debaltsevo–Krasnaya Mogila (–Gukovo)</td></tr>
@@ -585,7 +585,7 @@ Symboles utilisés\*
 <tr><td>C 20/3</td><td colspan="55">Kaliningrad–Tcherniakhovs–Nesterov (–Kibartai)</td></tr>
 <tr><td>C 75/1</td><td colspan="55">(Narva–) Ivangorod–Gatčina–Saint-Pétersbourg</td></tr>
 <tr><td>C 95/2</td><td colspan="55">Saint-Pétersbourg–Dno–Novosokol'niki–Lobok (–Ezjarysca)</td></tr>
-<tr><td></td><td colspan="55">(33) Turquie**[^annexI-lvlu1-12]\***</td></tr>
+<tr><td></td><td colspan="55">(33) Turquie[^annexu1-lvlu1-12]\*</td></tr>
 <tr><td>C–E 70</td><td colspan="55">(Svilengrad–) Kapikule–Istanbul–Haydarpasa–Ankara–Boğazköprü–</td></tr>
 <tr><td></td><td colspan="7">Kalin–Malatya–</td><td colspan="44">Kapiköy [-Razi (Iran, République islamique d’)]</td><td colspan="4"></td></tr>
 <tr><td></td><td colspan="7"></td><td colspan="44">Nusaybin [-Kamishli (République arabe syrienne)]</td><td colspan="4"></td></tr>
@@ -603,7 +603,7 @@ Symboles utilisés\*
 <tr><td>C 14</td><td colspan="55">Radviliskis–Panvezys–Rokiskis–Obeliai (–Eglaine)</td></tr>
 <tr><td>C 20/3</td><td colspan="28">(Nesterov–) Kybartai–Kazlų Rũda–Kaunas</td><td colspan="27">–Kaišiadorys–Vilnius–Kena (–Gudagai)</td></tr>
 <tr><td></td><td colspan="28">(Mukran (Sassnitz) –) Draugyste (Klaipėda)-Šiauliai-Radviliškis</td><td colspan="27"></td></tr>
-<tr><td></td><td colspan="55">(35) Arménie**[^annexI-lvlu1-13]\***</td></tr>
+<tr><td></td><td colspan="55">(35) Arménie[^annexu1-lvlu1-13]\*</td></tr>
 <tr><td></td><td colspan="55">(36) Azerbaïdjan\*</td></tr>
 <tr><td>C–E 60</td><td colspan="55">(Gardabani–) Beyuk–Kyasik–Baku (–Turmenbashi)</td></tr>
 <tr><td></td><td colspan="55">(37) Géorgie\*</td></tr>
@@ -626,7 +626,7 @@ Symboles utilisés\*
 <tr><td></td><td colspan="55">(42) Estonie\*</td></tr>
 <tr><td>C 75/1</td><td colspan="55">Tapa–Narva (–Ivangorod)</td></tr>
 <tr><td>C–E 75</td><td colspan="55">Tallin–Tapa–Tartu–Valga (–Lugaži)</td></tr>
-<tr><td></td><td colspan="55">(43) Lettonie**[^annexI-lvlu1-14]\***</td></tr>
+<tr><td></td><td colspan="55">(43) Lettonie[^annexu1-lvlu1-14]\*</td></tr>
 <tr><td>C–E 85</td><td colspan="9">Ventspils</td><td colspan="46">–Jelgava–Krustpils–Zilupe (–Raz. Posinj)</td></tr>
 <tr><td></td><td colspan="55">Liepaja</td></tr>
 <tr><td>C–E 85</td><td colspan="9">Riga–Krustpils</td><td colspan="46">–Daugavpils–Indra (–Bigosovo)</td></tr>
@@ -636,22 +636,22 @@ Symboles utilisés\*
 <tr><td>C–E 70</td><td colspan="55">(Kapiköy–) Razi–Tabriz–Tehran–Mashad–Sarakhs (–Serahs)</td></tr>
 </table>
 
-[^annexI-lvlu1-1]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
-[^annexI-lvlu1-2]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
-[^annexI-lvlu1-3]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
-[^annexI-lvlu1-4]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
-[^annexI-lvlu1-5]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
-[^annexI-lvlu1-6]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
-[^annexI-lvlu1-7]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
-[^annexI-lvlu1-8]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
-[^annexI-lvlu1-9]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
-[^annexI-lvlu1-10]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
-[^annexI-lvlu1-11]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
-[^annexI-lvlu1-12]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
-[^annexI-lvlu1-13]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
-[^annexI-lvlu1-14]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
+[^annexu1-lvlu1-1]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
+[^annexu1-lvlu1-2]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
+[^annexu1-lvlu1-3]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
+[^annexu1-lvlu1-4]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
+[^annexu1-lvlu1-5]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
+[^annexu1-lvlu1-6]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
+[^annexu1-lvlu1-7]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
+[^annexu1-lvlu1-8]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
+[^annexu1-lvlu1-9]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
+[^annexu1-lvlu1-10]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
+[^annexu1-lvlu1-11]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
+[^annexu1-lvlu1-12]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
+[^annexu1-lvlu1-13]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
+[^annexu1-lvlu1-14]: \* Pour la note générale, l’explication des numéros d’ordre des lignes et les symboles utilisés, voir la note de la première page de l’annexe I.
 
-Annexe II*[^t-3]*
+Annexe II[^t-3]
 
 ## Installations importantes pour le transport international combiné
 
@@ -1295,7 +1295,7 @@ Southampton
 
 Tilbury
 
-### B. Points de franchissement des frontières importants pour le trafic international combiné****
+### B. Points de franchissement des frontières importants pour le trafic international combiné
 
 [^annexu1-lvlu1-lvlB-1]
 
@@ -1781,9 +1781,9 @@ Mariupol (Ukraine–…)
 
 Baku–Turkmenbashi (Azerbaïdjan–Turkménistan)
 
-*Note:* A l’exception des liaisons Stanrear–Larne et Messina–Villa S. Giovanni, les liaisons par navires transbordeurs correspondent aussi à des points de franchissement des frontières.
+*Note:* À l’exception des liaisons Stanrear–Larne et Messina–Villa S. Giovanni, les liaisons par navires transbordeurs correspondent aussi à des points de franchissement des frontières.
 
-Annexe III*[^t-4]*
+Annexe III[^t-4]
 
 ## Caractéristiques techniques du réseau des grandes lignes de transport international combiné
 
@@ -1869,7 +1869,7 @@ Les masses par essieu indiquées valent pour des diamètres de roue égaux ou su
 
 La longueur utile minimale des voies d’évitement des lignes de transport international combiné est importante pour les trains de transport combiné (voir annexe IV).
 
-Annexe IV*[^t-5]*
+Annexe IV[^t-5]
 
 ## Paramètres d’efficacité ferroviaire et normes minimales applicables aux infrastructures
 
@@ -1977,10 +1977,10 @@ d) Liaisons par navires transbordeurs/ports
 - – Si les unités de chargement restent sur les wagons pendant la traversée, les transbordeurs devront être d’accès facile et les opérations de triage exigeant beaucoup de temps ne devraient pas être nécessaires. Le gabarit, la masse par essieu, etc., devraient être conformes aux paramètres de la ligne énumérés dans l’annexe III.
 - – Si le transbordement d’unités de chargement doit s’effectuer sans les wagons, le transport éventuel à effectuer par la route entre le port des navires transbordeurs et la gare ferroviaire devrait être caractérisé par des distances courtes et des bonnes liaisons routières.
 
-Champ d’application le 19 août 2008**[^t-6]**
+Champ d’application le 30 juin 2023[^t-6]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>21 mai</td><td>2008 A</td><td>19 août</td><td>2008</td></tr>
 <tr><td>Allemagne</td><td>30 juillet</td><td>1992</td><td>20 octobre</td><td>1993</td></tr>
 <tr><td>Autriche</td><td>22 juillet</td><td>1993</td><td>20 octobre</td><td>1993</td></tr>
@@ -2001,20 +2001,20 @@ Champ d’application le 19 août 2008**[^t-6]**
 <tr><td>Moldova</td><td>10 octobre</td><td>2002 A</td><td>8 janvier</td><td>2003</td></tr>
 <tr><td>Monténégro\*</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Norvège</td><td>30 avril</td><td>1992</td><td>20 octobre</td><td>1993</td></tr>
-<tr><td>Pays-Bas<sup>\*</sup> <sup>a</sup></td><td>13 mai</td><td>1992</td><td>20 octobre</td><td>1993</td></tr>
+<tr><td>Pays-Bas\* <sup>a</sup></td><td>13 mai</td><td>1992</td><td>20 octobre</td><td>1993</td></tr>
 <tr><td>Pologne</td><td>22 mars</td><td>2002</td><td>20 juin</td><td>2002</td></tr>
 <tr><td>Portugal</td><td>5 janvier</td><td>1996 A</td><td>4 avril</td><td>1996</td></tr>
 <tr><td>République tchèque</td><td>2 juin</td><td>1993 S</td><td>20 novembre</td><td>1994</td></tr>
 <tr><td>Roumanie</td><td>21 mai</td><td>1993</td><td>20 octobre</td><td>1993</td></tr>
-<tr><td>Russie<sup>\*</sup></td><td>29 juin</td><td>1994 A</td><td>27 septembre</td><td>1994</td></tr>
+<tr><td>Russie\*</td><td>29 juin</td><td>1994 A</td><td>27 septembre</td><td>1994</td></tr>
 <tr><td>Serbie\*</td><td>6 octobre</td><td>2005 A</td><td>4 janvier</td><td>2006</td></tr>
 <tr><td>Slovaquie</td><td>16 août</td><td>1994 S</td><td>14 novembre</td><td>1994</td></tr>
 <tr><td>Slovénie</td><td>1<sup>er</sup> novembre</td><td>1994 A</td><td>30 janvier</td><td>1995</td></tr>
 <tr><td>Suisse</td><td>11 février</td><td>1993</td><td>20 octobre</td><td>1993</td></tr>
+<tr><td>Turkménistan</td><td>31 août</td><td>2020 A</td><td>29 novembre</td><td>2020</td></tr>
 <tr><td>Turquie</td><td>4 septembre</td><td>1996</td><td>3 décembre</td><td>1996</td></tr>
 <tr><td>Ukraine\*</td><td>23 décembre</td><td>2005 A</td><td>23 mars</td><td>2006</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://untreaty.un.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-6]: Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-6]: [RO 1993 2838](https://fedlex.data.admin.ch/eli/oc/1993/2838_2838_2838); [2005 1231](https://fedlex.data.admin.ch/eli/oc/2005/178); [2008 3971](https://fedlex.data.admin.ch/eli/oc/2008/537); [2023 360](https://fedlex.data.admin.ch/eli/oc/2023/360). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
