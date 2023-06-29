@@ -3,25 +3,26 @@ sr: "0.741.101"
 title: "Accordo europeo del 1<sup>o</sup> maggio 1971 completante la Convenzione sulla circolazione stradale aperta alla firma a Vienna l'8 novembre 1968 (con. All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/478_478_478"
 language: it
-version: 2014-03-13
+version: 2023-06-30
 adopted: 1971-05-01
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/478_478_478/20140313/it/xml/fedlex-data-admin-ch-eli-cc-1993-478_478_478-20140313-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/478_478_478/20140313/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/478_478_478/20230630/it/xml/fedlex-data-admin-ch-eli-cc-1993-478_478_478-20230630-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/478_478_478/20230630/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo europeo completante la Convenzione sulla circolazione stradale aperta alla firma a Vienna l’8 novembre 1968
 
-Traduzione*[^t-1]*
+RU **1993** 478; FF **1978** I 1356
 
-Concluso a Ginevra il 1° maggio 1971 Approvato dall’Assemblea federale il 15 dicembre 1978[^t-2] Istrumento di ratificazione depositato dalla Svizzera l’11 dicembre 1991 Entrato in vigore per la Svizzera l’11 dicembre 1992
+Traduzione
 
-(Stato 13 marzo 2014)
+Concluso a Ginevra il 1° maggio 1971 Approvato dall’Assemblea federale il 15 dicembre 1978[^t-1] Istrumento di ratificazione depositato dalla Svizzera l’11 dicembre 1991 Entrato in vigore per la Svizzera l’11 dicembre 1992
 
-[^t-1]: RU **1993** 478; FF **1978** I 1356 Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: Art. 1 cpv. 1 lett. c del DF 15 dic. 1978 ([RU 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
+(Stato 30 giugno 2023)
+
+[^t-1]: Art. 1 cpv. 1 lett. c del DF 15 dic. 1978 ([RU 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
 Le Parti contraenti,
 
@@ -31,7 +32,7 @@ Parti alla Convenzione sulla circolazione stradale aperta alla firma a Vienna l�
 
 hanno convenuto:
 
-[^ingress-1]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
+[^ingress-1]: [RS 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822)
 
 #### Art. 1
 
@@ -80,6 +81,7 @@ Dopo un periodo di dodici mesi, a decorrere dall’entrata in vigore del present
 - b) se esse lo respingono, oppure
 - c) se esse desiderano che una conferenza sia convocata per esaminarlo. Il Segretario generale trasmetterà altresì il testo dell’emendamento proposto agli altri Stati di cui all’articolo 2 del presente Accordo.
 - 2\. a) Ogni proposta di emendamento che sia stata comunicata in conformità con le disposizioni del paragrafo 1 del presente Articolo sarà ritenuta accettata se, entro il termine di dodici mesi surriferito, meno di un terzo delle Parti contraenti informano il Segretario generale sia che respingono l’emendamento, sia che desiderano che una conferenza sia convocata per esaminarlo. Il Segretario generale notificherà a tutte le Parti contraenti ogni accettazione od ogni rifiuto dell’emendamento proposto, nonché ogni domanda di convocazione di una conferenza. Se il numero totale dei rifiuti e delle domande ricevuti durante il termine specificato di dodici mesi è inferiore al terzo del numero totale delle Parti contraenti il Segretario generale notificherà a tutte le Parti contraenti che l’emendamento entrerà in vigore sei mesi dopo la scadenza del termine di dodici mesi specificato al paragrafo 1 del presente articolo per tutte le Parti contraenti, ad eccezione di quelle che, durante il termine specificato, hanno respinto l’emendamento o domandato la convocazione di una conferenza per esaminarlo;
+
 - b) Ogni Parte contraente la quale, durante il termine surriferito di dodici mesi, abbia respinto una proposta di emendamento o domandato la convocazione di una conferenza per esaminarlo, potrà, in ogni tempo dopo la scadenza di detto termine, notificare al Segretario generale che accetta l’emendamento ed il segretario generale comunicherà tale notifica a tutte le altre Parti contraenti. L’emendamento entrerà in vigore per la Parte contraente che avrà notificato la sua accettazione, sei mesi dopo la data alla quale il Segretario generale avrà ricevuto la notifica.
 
 <sup>3.</sup> Se un emendamento proposto non è stato accettato in conformità con il paragrafo 2 del presente articolo e se, entro il termine di dodici mesi specificato al paragrafo 1 del presente articolo, meno della metà del numero totale delle Parti contraenti informano il Segretario generale che esse respingono l’emendamento proposto e se un terzo almeno del numero totale delle Parti contraenti, ma non meno di cinque, lo informano che esse lo accettano o che desiderano che una conferenza sia convocata per esaminarlo, il Segretario generale convocherà una conferenza al fine di esaminare l’emendamento proposto od ogni altra proposta che gli venisse presentata in virtù del paragrafo 4 dei presente articolo.
@@ -113,7 +115,7 @@ Il presente Accordo cesserà di essere in vigore se il numero delle Parti contra
 
 Nessuna disposizione del presente Accordo sarà interpretata nel senso di vietare ad una Parte contraente di prendere i provvedimenti compatibili con le norme dello Statuto delle Nazioni Unite[^10-1] e limitati alle esigenze dettate dalle circostanze, che essa ritenga necessarie per la sua sicurezza esterna o interna.
 
-[^10-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^10-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 11
 
@@ -149,15 +151,9 @@ Oltre alle dichiarazioni, notifiche e comunicazioni previste agli articoli 6 e 1
 
 Dopo il 31 dicembre 1972, l’originale del presente Accordo sarà depositato presso il Segretario generale dell’Organizzazione delle Nazioni Unite, che ne trasmetterà copie certificate conformi a tutti gli Stati di cui all’articolo 2 del presente Accordo.
 
-*In fede di che,* i sottoscritti, a tal fine debitamente autorizzati, hanno firmato il presente Accordo. Fatto a Ginevra, il primo maggio millenovecentosettantuno, in un solo esemplare, nelle lingue inglese, francese e russa, i tre testi facenti ugualmente fede.
+In fede di che, i sottoscritti, a tal fine debitamente autorizzati, hanno firmato il presente Accordo. Fatto a Ginevra, il primo maggio millenovecentosettantuno, in un solo esemplare, nelle lingue inglese, francese e russa, i tre testi facenti ugualmente fede. (Seguono le firme)
 
-(Seguono le firme)
-
-## Annesso****
-
-[^annexu1-lvlu2-1]
-
-[^annexu1-lvlu2-1]: Aggiornato dagli emendamenti entrati in vigore il 28 ago. 1993 ([RU 1993 3426](https://fedlex.data.admin.ch/eli/oc/1993/3426_3426_3426)) ed il 28 mar. 2006 ([RU 2007 3617](https://fedlex.data.admin.ch/eli/oc/2007/445)).
+Annesso[^t-2]
 
 \1. Ai fini dell’applicazione delle disposizioni del presente annesso, per «Convenzione» si intende la Convenzione sulla circolazione stradale aperta alla firma a Vienna l’8 novembre 1968.
 
@@ -492,6 +488,8 @@ Le legislazioni nazionali possono prevedere zone pedonali che comprendono una o 
 
 Le persone che effettuano lavori di costruzione o di manutenzione sulle strade devono indossare indumenti fluorescenti e rinfrangenti che le rendano visibili di giorno e di notte.»
 
+[^t-2]: Aggiornato dagli emendamenti entrati in vigore il 28 ago. 1993 ([RU 1993 3426](https://fedlex.data.admin.ch/eli/oc/1993/3426_3426_3426)) ed il 28 mar. 2006 ([RU 2007 3617](https://fedlex.data.admin.ch/eli/oc/2007/445)).
+
 ### 21. Ad articolo 29 della Convenzione (Veicoli su rotaie)
 
 Paragrafo 2
@@ -574,49 +572,48 @@ Detto comma andrà letto come segue:
 <tr><td>28. Ad Allegato 1 della Convenzione</td><td>(Deroghe all’obbligo di ammettere in circolazione internazionale gli autoveicoli ed i rimorchi)</td></tr>
 </table>
 
-Campo d’applicazione il 13 marzo 2014**[^t-3]**
+Campo d’applicazione il 30 giugno 2023[^t-3]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Albania</td><td>27 ottobre</td><td>2005 A</td><td>27 ottobre</td><td>2006</td></tr>
-<tr><td colspan="2">Austria<sup>\*</sup></td><td>11 agosto</td><td>1981</td><td>11 agosto</td><td>1982</td></tr>
-<tr><td colspan="2">Belarus<sup>\*</sup></td><td>17 dicembre</td><td>1974 A</td><td>7 giugno</td><td>1979</td></tr>
-<tr><td colspan="2">Belgio</td><td>16 novembre</td><td>1988</td><td>16 novembre</td><td>1989</td></tr>
-<tr><td colspan="2">Bosnia e Erzegovina</td><td>1° settembre</td><td>1993 S</td><td>6 marzo</td><td>1992</td></tr>
-<tr><td colspan="2">Bulgaria<sup>\*</sup></td><td>28 dicembre</td><td>1978 A</td><td>28 dicembre</td><td>1979</td></tr>
-<tr><td colspan="2">Ceca, Repubblica</td><td>2 giugno</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Croazia</td><td>23 novembre</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
-<tr><td colspan="2">Danimarca<sup>\*</sup></td><td>3 novembre</td><td>1986</td><td>3 novembre</td><td>1987</td></tr>
-<tr><td colspan="2">Estonia<sup>\*</sup></td><td>14 marzo</td><td>2003 A</td><td>14 marzo</td><td>2004</td></tr>
-<tr><td colspan="2">Finlandia<sup>\*</sup></td><td>1° aprile</td><td>1985</td><td>1° aprile</td><td>1986</td></tr>
-<tr><td colspan="2">Francia<sup>\*</sup></td><td>16 gennaio</td><td>1974</td><td>7 giugno</td><td>1979</td></tr>
-<tr><td colspan="2">Germania<sup>\*</sup></td><td>3 agosto</td><td>1978</td><td>3 agosto</td><td>1979</td></tr>
-<tr><td colspan="2">Grecia</td><td>18 dicembre</td><td>1986 A</td><td>18 dicembre</td><td>1987</td></tr>
-<tr><td colspan="2">Italia</td><td>2 ottobre</td><td>1996 A</td><td>2 ottobre</td><td>1997</td></tr>
-<tr><td colspan="2">Kazakistan</td><td>21 aprile</td><td>2011 A</td><td>21 aprile</td><td>2012</td></tr>
-<tr><td colspan="2">Lettonia</td><td>7 dicembre</td><td>2001 A</td><td>7 dicembre</td><td>2002</td></tr>
-<tr><td colspan="2">Lituania</td><td>31 gennaio</td><td>1992 A</td><td>31 gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Lussemburgo</td><td>25 novembre</td><td>1975</td><td>7 giugno</td><td>1979</td></tr>
-<tr><td colspan="2">Macedonia</td><td>20 dicembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
-<tr><td colspan="2">Moldova<sup>\*</sup></td><td>25 aprile</td><td>2007 A</td><td>25 aprile</td><td>2008</td></tr>
-<tr><td colspan="2">Monaco</td><td>6 giugno</td><td>1978 A</td><td>7 giugno</td><td>1979</td></tr>
-<tr><td colspan="2">Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
-<tr><td colspan="2">Paesi Bassi<sup>\*</sup> <sup>a</sup></td><td>8 novembre</td><td>2007 A</td><td>8 novembre</td><td>2008</td></tr>
-<tr><td colspan="2">Polonia</td><td>23 agosto</td><td>1984 A</td><td>23 agosto</td><td>1985</td></tr>
-<tr><td colspan="2">Romania<sup>\*</sup></td><td>9 dicembre</td><td>1980</td><td>9 dicembre</td><td>1981</td></tr>
-<tr><td colspan="2">Russia<sup>\*</sup></td><td>27 settembre</td><td>1974 A</td><td>7 giugno</td><td>1979</td></tr>
-<tr><td colspan="2">Serbia</td><td>12 marzo</td><td>2001 S</td><td>27 aprile</td><td>1992</td></tr>
-<tr><td colspan="2">Slovacchia</td><td>28 maggio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Slovenia</td><td>6 luglio</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
-<tr><td colspan="2">Svezia<sup>\*</sup></td><td>25 luglio</td><td>1985</td><td>25 luglio</td><td>1986</td></tr>
-<tr><td colspan="2">Svizzera</td><td>11 dicembre</td><td>1991</td><td>11 dicembre</td><td>1992</td></tr>
-<tr><td colspan="2">Turchia</td><td>22 gennaio</td><td>2013 A</td><td>22 gennaio</td><td>2014</td></tr>
-<tr><td colspan="2">Ucraina<sup>\*</sup></td><td>30 dicembre</td><td>1974 A</td><td>7 giugno</td><td>1979</td></tr>
-<tr><td colspan="2">Ungheria<sup>\*</sup></td><td>16 marzo</td><td>1976</td><td>7 giugno</td><td>1979</td></tr>
-<tr><td>\*</td><td colspan="5">Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Per il Regno in Europa.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Albania</td><td>27 ottobre</td><td>2005 A</td><td>27 ottobre</td><td>2006</td></tr>
+<tr><td>Austria<sup>\*</sup></td><td>11 agosto</td><td>1981</td><td>11 agosto</td><td>1982</td></tr>
+<tr><td>Belarus<sup>\*</sup></td><td>17 dicembre</td><td>1974 A</td><td>7 giugno</td><td>1979</td></tr>
+<tr><td>Belgio</td><td>16 novembre</td><td>1988</td><td>16 novembre</td><td>1989</td></tr>
+<tr><td>Bosnia e Erzegovina</td><td>1° settembre</td><td>1993 S</td><td>6 marzo</td><td>1992</td></tr>
+<tr><td>Bulgaria<sup>\*</sup></td><td>28 dicembre</td><td>1978 A</td><td>28 dicembre</td><td>1979</td></tr>
+<tr><td>Ceca, Repubblica</td><td>2 giugno</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Croazia</td><td>23 novembre</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
+<tr><td>Danimarca<sup>\*</sup></td><td>3 novembre</td><td>1986</td><td>3 novembre</td><td>1987</td></tr>
+<tr><td>Estonia<sup>\*</sup></td><td>14 marzo</td><td>2003 A</td><td>14 marzo</td><td>2004</td></tr>
+<tr><td>Finlandia<sup>\*</sup></td><td>1° aprile</td><td>1985</td><td>1° aprile</td><td>1986</td></tr>
+<tr><td>Francia<sup>\*</sup></td><td>16 gennaio</td><td>1974</td><td>7 giugno</td><td>1979</td></tr>
+<tr><td>Germania<sup>\*</sup></td><td>3 agosto</td><td>1978</td><td>3 agosto</td><td>1979</td></tr>
+<tr><td>Grecia</td><td>18 dicembre</td><td>1986 A</td><td>18 dicembre</td><td>1987</td></tr>
+<tr><td>Italia</td><td>2 ottobre</td><td>1996 A</td><td>2 ottobre</td><td>1997</td></tr>
+<tr><td>Kazakistan</td><td>21 aprile</td><td>2011 A</td><td>21 aprile</td><td>2012</td></tr>
+<tr><td>Lettonia</td><td>7 dicembre</td><td>2001 A</td><td>7 dicembre</td><td>2002</td></tr>
+<tr><td>Liechtenstein<sup>\*</sup></td><td>2 marzo</td><td>2020 A</td><td>2 marzo</td><td>2021</td></tr>
+<tr><td>Lituania</td><td>31 gennaio</td><td>1992 A</td><td>31 gennaio</td><td>1993</td></tr>
+<tr><td>Lussemburgo</td><td>25 novembre</td><td>1975</td><td>7 giugno</td><td>1979</td></tr>
+<tr><td>Macedonia del Nord</td><td>20 dicembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Moldova<sup>\*</sup></td><td>25 aprile</td><td>2007 A</td><td>25 aprile</td><td>2008</td></tr>
+<tr><td>Monaco</td><td>6 giugno</td><td>1978 A</td><td>7 giugno</td><td>1979</td></tr>
+<tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
+<tr><td>Paesi Bassi<sup>\*</sup> <sup>a</sup></td><td>8 novembre</td><td>2007 A</td><td>8 novembre</td><td>2008</td></tr>
+<tr><td>Polonia</td><td>23 agosto</td><td>1984 A</td><td>23 agosto</td><td>1985</td></tr>
+<tr><td>Romania<sup>\*</sup></td><td>9 dicembre</td><td>1980</td><td>9 dicembre</td><td>1981</td></tr>
+<tr><td>Russia<sup>\*</sup></td><td>27 settembre</td><td>1974 A</td><td>7 giugno</td><td>1979</td></tr>
+<tr><td>Serbia</td><td>12 marzo</td><td>2001 S</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Slovacchia</td><td>28 maggio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Slovenia</td><td>6 luglio</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
+<tr><td>Svezia<sup>\*</sup></td><td>25 luglio</td><td>1985</td><td>25 luglio</td><td>1986</td></tr>
+<tr><td>Svizzera</td><td>11 dicembre</td><td>1991</td><td>11 dicembre</td><td>1992</td></tr>
+<tr><td>Turchia</td><td>22 gennaio</td><td>2013 A</td><td>22 gennaio</td><td>2014</td></tr>
+<tr><td>Turkmenistan</td><td>31 agosto</td><td>2020 A</td><td>31 agosto</td><td>2021</td></tr>
+<tr><td>Ucraina<sup>\*</sup></td><td>30 dicembre</td><td>1974 A</td><td>7 giugno</td><td>1979</td></tr>
+<tr><td>Ungheria<sup>\*</sup></td><td>16 marzo</td><td>1976</td><td>7 giugno</td><td>1979</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-- [tab]
-
-[^t-3]: [RU 1993 478](https://fedlex.data.admin.ch/eli/oc/1993/478_478_478), [2005 1233](https://fedlex.data.admin.ch/eli/oc/2005/179), [2008 3973](https://fedlex.data.admin.ch/eli/oc/2008/538)e [2014 715](https://fedlex.data.admin.ch/eli/oc/2014/152). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1993 478](https://fedlex.data.admin.ch/eli/oc/1993/478_478_478); [2005 1233](https://fedlex.data.admin.ch/eli/oc/2005/179); [2008 3973](https://fedlex.data.admin.ch/eli/oc/2008/538); [2014 715](https://fedlex.data.admin.ch/eli/oc/2014/152); [2023 361](https://fedlex.data.admin.ch/eli/oc/2023/361). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty

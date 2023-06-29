@@ -3,11 +3,11 @@ sr: "0.741.101"
 title: "Accord européen du 1<sup>er</sup> mai 1971 complétant la Convention sur la circulation routière ouverte à la signature à Vienne le 8 novembre 1968 (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/478_478_478"
 language: fr
-version: 2014-03-13
+version: 2023-06-30
 adopted: 1971-05-01
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/478_478_478/20140313/fr/xml/fedlex-data-admin-ch-eli-cc-1993-478_478_478-20140313-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/478_478_478/20140313/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/478_478_478/20230630/fr/xml/fedlex-data-admin-ch-eli-cc-1993-478_478_478-20230630-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/478_478_478/20230630/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Genève le 1<sup>er</sup> mai 1971 Approuvé par l’Assemblée fédérale le 15 décembre 1978[^t-1] Instrument de ratification déposé par la Suisse le 11 décembre 1991 Entré en vigueur pour la Suisse le Il décembre 1992
 
-(Etat le 13 mars 2014)
+(État le 30 juin 2023)
 
 [^t-1]: Art. 1 al. 2 let. c de l’AF du 15 mars 1978 ([RO 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -32,13 +32,13 @@ Parties à la Convention sur la circulation routière ouverte à la signature à
 
 Sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
+[^ingress-1]: [RS 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822)
 
 #### Art. 1
 
 <sup>1.</sup> Les Parties contractantes, Parties à la Convention sur la circulation routière ouverte à la signature à Vienne le 8 novembre 1968 prendront les mesures appropriées pour que les règles de circulation en vigueur sur leur territoire soient, quant à leur substance, en conformité avec les dispositions de l’annexe au présent Accord.
 
-<sup>2.</sup> A condition qu’elles ne soient sur aucun point incompatibles avec les dispositions de l’annexe au présent Accord,
+<sup>2.</sup> À condition qu’elles ne soient sur aucun point incompatibles avec les dispositions de l’annexe au présent Accord,
 
 - a) ces règles peuvent ne pas reprendre celles de ces dispositions qui s’appliquent à des situations ne se présentant pas sur le territoire des Parties contractantes en cause;
 - b) ces règles peuvent contenir des dispositions non prévues à cette annexe.
@@ -47,49 +47,49 @@ Sont convenues de ce qui suit:
 
 #### Art. 2
 
-<sup>1.</sup> Le présent Accord sera ouvert jusqu’au 31 décembre 1972 à la signature des Etats qui sont signataires de la Convention sur la circulation routière ouverte à la signature à Vienne le 8 novembre 1968 ou y ont adhéré et qui sont soit membres de la Commission économique pour l’Europe des Nations Unies, soit admis à la Commission à titre consultatif conformément au paragraphe 8 du Mandat de cette Commission.
+<sup>1.</sup> Le présent Accord sera ouvert jusqu’au 31 décembre 1972 à la signature des États qui sont signataires de la Convention sur la circulation routière ouverte à la signature à Vienne le 8 novembre 1968 ou y ont adhéré et qui sont soit membres de la Commission économique pour l’Europe des Nations Unies, soit admis à la Commission à titre consultatif conformément au paragraphe 8 du Mandat de cette Commission.
 
-<sup>2.</sup> Le présent Accord est sujet à ratification, après que l’Etat aura ratifié la Convention sur la circulation routière ouverte à la signature à Vienne le 8 novembre 1968 ou y aura adhéré. Les instruments de ratification seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
+<sup>2.</sup> Le présent Accord est sujet à ratification, après que l’État aura ratifié la Convention sur la circulation routière ouverte à la signature à Vienne le 8 novembre 1968 ou y aura adhéré. Les instruments de ratification seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
 
-<sup>3.</sup> Le présent Accord restera ouvert à l’adhésion de tout Etat visé au paragraphe 1 du présent article et qui est Partie à la Convention sur la circulation routière ouverte à la signature à Vienne le 8 novembre 1968. Les instruments d’adhésion seront déposés auprès du Secrétaire général.
+<sup>3.</sup> Le présent Accord restera ouvert à l’adhésion de tout État visé au paragraphe 1 du présent article et qui est Partie à la Convention sur la circulation routière ouverte à la signature à Vienne le 8 novembre 1968. Les instruments d’adhésion seront déposés auprès du Secrétaire général.
 
 #### Art. 3
 
-<sup>1.</sup> Tout Etat pourra, au moment où il signera ou ratifiera le présent Accord ou y adhérera, ou à tout moment ultérieur, déclarer par notification adressée au Secrétaire général que l’Accord devient applicable à tous les territoires ou à l’un quelconque d’entre eux dont il assure les relations internationales. L’Accord deviendra applicable au territoire ou aux territoires désigné(s) dans la notification trente jours après la date à laquelle le Secrétaire général aura reçu cette notification ou à la date d’entrée en vigueur de l’Accord pour l’Etat adressant la notification, si cette date est postérieure à la précédente.
+<sup>1.</sup> Tout État pourra, au moment où il signera ou ratifiera le présent Accord ou y adhérera, ou à tout moment ultérieur, déclarer par notification adressée au Secrétaire général que l’Accord devient applicable à tous les territoires ou à l’un quelconque d’entre eux dont il assure les relations internationales. L’Accord deviendra applicable au territoire ou aux territoires désigné(s) dans la notification trente jours après la date à laquelle le Secrétaire général aura reçu cette notification ou à la date d’entrée en vigueur de l’Accord pour l’État adressant la notification, si cette date est postérieure à la précédente.
 
-<sup>2.</sup> Tout Etat qui aura fait une déclaration en vertu du paragraphe 1 du présent article pourra à toute date ultérieure, par notification adressée au Secrétaire général, déclarer que l’Accord cessera d’être applicable au territoire désigné dans la notification et l’Accord cessera d’être applicable audit territoire un an après la date de réception de cette notification par le Secrétaire général.
+<sup>2.</sup> Tout État qui aura fait une déclaration en vertu du paragraphe 1 du présent article pourra à toute date ultérieure, par notification adressée au Secrétaire général, déclarer que l’Accord cessera d’être applicable au territoire désigné dans la notification et l’Accord cessera d’être applicable audit territoire un an après la date de réception de cette notification par le Secrétaire général.
 
 #### Art. 4
 
 <sup>1.</sup> Le présent Accord entrera en vigueur douze mois après la date du dépôt du dixième instrument de ratification ou d’adhésion.
 
-<sup>2.</sup> Pour chaque Etat qui ratifiera le présent Accord ou y adhérera après le dépôt du dixième instrument de ratification ou d’adhésion, l’Accord entrera en vigueur douze mois après la date du dépôt, par cet Etat, de son instrument de ratification ou d’adhésion.
+<sup>2.</sup> Pour chaque État qui ratifiera le présent Accord ou y adhérera après le dépôt du dixième instrument de ratification ou d’adhésion, l’Accord entrera en vigueur douze mois après la date du dépôt, par cet État, de son instrument de ratification ou d’adhésion.
 
 <sup>3.</sup> Si la date d’entrée en vigueur résultant des paragraphes 1 et 2 du présent article est antérieure à celle résultant de l’application de l’Article 47 de la Convention sur la circulation routière ouverte à la signature à Vienne le 8 novembre 1968, c’est à cette dernière date que le présent Accord entrera en vigueur au sens du paragraphe 1 du présent article.
 
 #### Art. 5
 
-A son entrée en vigueur, le présent Accord abrogera et remplacera, dans les relations entre les Parties contractantes, les dispositions concernant la circulation routière contenues dans l’Accord européen complétant la Convention sur la circulation routière et le Protocole relatif à la signalisation routière de 1949, signé à Genève le 16 septembre 1950 et l’Accord européen portant application de l’Article 23 de la Convention de 1949 sur la circulation routière, concernant les dimensions et poids des véhicules admis à circuler sur certaines routes des Parties contractantes, en date du 16 septembre 1950.
+À son entrée en vigueur, le présent Accord abrogera et remplacera, dans les relations entre les Parties contractantes, les dispositions concernant la circulation routière contenues dans l’Accord européen complétant la Convention sur la circulation routière et le Protocole relatif à la signalisation routière de 1949, signé à Genève le 16 septembre 1950 et l’Accord européen portant application de l’Article 23 de la Convention de 1949 sur la circulation routière, concernant les dimensions et poids des véhicules admis à circuler sur certaines routes des Parties contractantes, en date du 16 septembre 1950.
 
 #### Art. 6
 
-<sup>1.</sup> Après une période de douze mois, à dater de l’entrée en vigueur du présent Accord, toute Partie contractante pourra proposer un ou plusieurs amendements à l’Accord. Le texte de toute proposition d’amendement, accompagné d’un exposé des motifs, sera adressé au Secrétaire général qui le communiquera à toutes les Parties contractantes. Les Parties contractantes auront la possibilité de lui faire savoir dans le délai de douze mois suivant la date de cette communication: a) si elles acceptent l’amendement, ou b) si elles le rejettent, ou c) si elles désirent qu’une conférence soit convoquée pour l’examiner. Le Secrétaire général transmettra également le texte de l’amendement proposé aux autres Etats visés à l’article 2 du présent Accord.
+<sup>1.</sup> Après une période de douze mois, à dater de l’entrée en vigueur du présent Accord, toute Partie contractante pourra proposer un ou plusieurs amendements à l’Accord. Le texte de toute proposition d’amendement, accompagné d’un exposé des motifs, sera adressé au Secrétaire général qui le communiquera à toutes les Parties contractantes. Les Parties contractantes auront la possibilité de lui faire savoir dans le délai de douze mois suivant la date de cette communication: a) si elles acceptent l’amendement, ou b) si elles le rejettent, ou c) si elles désirent qu’une conférence soit convoquée pour l’examiner. Le Secrétaire général transmettra également le texte de l’amendement proposé aux autres États visés à l’article 2 du présent Accord.
 
 - 2\. a) Toute proposition d’amendement qui aura été communiquée conformément aux dispositions du paragraphe 1 du présent article sera réputée acceptée si, dans le délai de douze mois susmentionné, moins du tiers des Parties contractantes informent le Secrétaire général soit qu’elles rejettent l’amendement, soit qu’elles désirent qu’une conférence soit convoquée pour l’examiner. Le Secrétaire général notifiera à toutes les Parties contractantes toute acceptation ou tout rejet de l’amendement proposé et toute demande de convocation d’une conférence. Si le nombre total des rejets et des demandes reçus pendant le délai spécifié de douze mois est inférieur au tiers du nombre total des Parties contractantes, le Secrétaire général notifiera à toutes les Parties contractantes que l’amendement entrera en vigueur six mois après l’expiration du délai de douze mois spécifié au paragraphe 1 du présent article pour toutes les Parties contractantes, à l’exception de celles qui, pendant le délai spécifié, ont rejeté l’amendement ou demandé la convocation d’une conférence pour l’examiner.
 - b) Toute Partie contractante qui, pendant ledit délai de douze mois, aura rejeté une proposition d’amendement ou demandé la convocation d’une conférence pour l’examiner, pourra, à tout moment après l’expiration de ce délai, notifier au Secrétaire général qu’elle accepte l’amendement, et le Secrétaire général communiquera cette notification à toutes les autres Parties contractantes. L’amendement entrera en vigueur pour la Partie contractante qui aura notifié son acceptation, six mois après la date à laquelle le Secrétaire général aura reçu la notification.
 
 <sup>3.</sup> Si un amendement proposé n’a pas été accepté conformément au paragraphe 2 du présent article et si, dans le délai de douze mois spécifié au paragraphe 1 du présent article, moins de la moitié du nombre total des Parties contractantes informent le Secrétaire général qu’elles rejettent l’amendement proposé et si un tiers au moins du nombre total des Parties contractantes, mais pas moins de cinq, l’informent qu’elles l’acceptent ou qu’elles désirent qu’une conférence soit réunie pour l’examiner, le Secrétaire général convoquera une conférence en vue d’examiner l’amendement proposé ou toute autre proposition dont il serait saisi en vertu du paragraphe 4 du présent article.
 
-<sup>4.</sup> Si une conférence est convoquée conformément aux dispositions du paragraphe 3 du présent article, le Secrétaire général y invitera toutes les Parties contractantes et les autres Etats visés à l’article 2 du présent Accord. Il demandera à tous les Etats invités à la Conférence de lui présenter, au plus tard six mois avant sa date d’ouverture, toutes propositions qu’ils souhaiteraient voir examiner également par ladite Conférence en plus de l’amendement proposé, et il communiquera ces propositions, trois mois au moins avant la date d’ouverture de la Conférence, à tous les Etats invités à la Conférence.
+<sup>4.</sup> Si une conférence est convoquée conformément aux dispositions du paragraphe 3 du présent article, le Secrétaire général y invitera toutes les Parties contractantes et les autres États visés à l’article 2 du présent Accord. Il demandera à tous les États invités à la Conférence de lui présenter, au plus tard six mois avant sa date d’ouverture, toutes propositions qu’ils souhaiteraient voir examiner également par ladite Conférence en plus de l’amendement proposé, et il communiquera ces propositions, trois mois au moins avant la date d’ouverture de la Conférence, à tous les États invités à la Conférence.
 
-- 5\. a) Tout amendement au présent Accord sera réputé accepté s’il a été adopté à la majorité des deux tiers des Etats représentés à la Conférence, à condition que cette majorité groupe au moins les deux tiers des Parties contractantes représentées à la Conférence. Le Secrétaire général notifiera à toutes les Parties contractantes l’adoption de l’amendement et celui-ci entrera en vigueur douze mois après la date de cette notification pour toutes les Parties contractantes, à l’exception de celles qui, durant ce délai, auront notifié au Secrétaire général qu’elles rejettent l’amendement.
+- 5\. a) Tout amendement au présent Accord sera réputé accepté s’il a été adopté à la majorité des deux tiers des États représentés à la Conférence, à condition que cette majorité groupe au moins les deux tiers des Parties contractantes représentées à la Conférence. Le Secrétaire général notifiera à toutes les Parties contractantes l’adoption de l’amendement et celui-ci entrera en vigueur douze mois après la date de cette notification pour toutes les Parties contractantes, à l’exception de celles qui, durant ce délai, auront notifié au Secrétaire général qu’elles rejettent l’amendement.
 - b) Toute Partie contractante qui aura rejeté un amendement pendant ledit délai de douze mois pourra, à tout moment, notifier au Secrétaire général qu’elle l’accepte et le Secrétaire général communiquera cette notification à toutes les autres Parties contractantes. L’amendement entrera en vigueur pour la Partie contractante qui aura notifié son acceptation six mois après la date à laquelle le Secrétaire général aura reçu la notification ou à la fin dudit délai de douze mois, si la date en est postérieure à la précédente.
 
 <sup>6.</sup> Si la proposition d’amendement n’est pas réputée acceptée conformément au paragraphe 2 du présent article, et si les conditions prescrites au paragraphe 3 du présent article pour la convocation d’une conférence ne sont pas réunies, la proposition d’amendement sera réputée rejetée.
 
 <sup>7.</sup> Indépendamment de la procédure d’amendement prévue aux paragraphes 1 à 6 du présent article, l’annexe du présent Accord peut être modifiée par accord entre les administrations compétentes de toutes les Parties contractantes. Si l’administration d’une Partie contractante a déclaré que son droit national oblige à subordonner son accord à l’obtention d’une autorisation spéciale à cet effet ou à l’approbation d’un organe législatif, le consentement de l’administration compétente de la Partie contractante en cause à la modification de l’annexe ne sera considéré comme donné qu’au moment où cette administration aura déclaré au Secrétaire général que les autorisations ou les approbations requises ont été obtenues. L’accord entre les administrations compétentes pourra prévoir que, pendant une période transitoire, les anciennes dispositions de l’annexe resteront en vigueur, en tout ou en partie, simultanément avec les nouvelles. Le Secrétaire général fixera la date d’entrée en vigueur des nouvelles dispositions.
 
-<sup>8.</sup> Chaque Etat, au moment où il signera ou ratifiera le présent Accord, ou y adhérera, notifiera au Secrétaire général les nom et adresse de son administration compétente pour donner l’accord prévu au paragraphe 7 du présent article.
+<sup>8.</sup> Chaque État, au moment où il signera ou ratifiera le présent Accord, ou y adhérera, notifiera au Secrétaire général les nom et adresse de son administration compétente pour donner l’accord prévu au paragraphe 7 du présent article.
 
 #### Art. 7
 
@@ -109,19 +109,19 @@ Le présent Accord cessera d’être en vigueur si le nombre des Parties contrac
 
 Aucune disposition du présent Accord ne sera interprétée comme interdisant à une Partie contractante de prendre les mesures compatibles avec les dispositions de la Charte des Nations Unies[^10-1] et limitées aux exigences de la situation qu’elle estime nécessaires pour sa sécurité extérieure ou intérieure.
 
-[^10-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^10-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 11
 
-<sup>1.</sup> Tout Etat pourra, au moment où il signera le présent Accord ou déposera son instrument de ratification ou d’adhésion, déclarer qu’il ne se considère pas lié par l’article 9 du présent Accord. Les autres Parties contractantes ne seront pas liées par l’article 9 vis-à-vis de l’une quelconque des Parties contractantes qui aura fait une telle déclaration.
+<sup>1.</sup> Tout État pourra, au moment où il signera le présent Accord ou déposera son instrument de ratification ou d’adhésion, déclarer qu’il ne se considère pas lié par l’article 9 du présent Accord. Les autres Parties contractantes ne seront pas liées par l’article 9 vis-à-vis de l’une quelconque des Parties contractantes qui aura fait une telle déclaration.
 
 <sup>2.</sup> Les réserves au présent Accord, autres que la réserve prévue au paragraphe 1 du présent article, sont autorisées à condition qu’elles soient formulées par écrit et, si elles ont été formulées avant le dépôt de l’instrument de ratification ou d’adhésion, qu’elles soient confirmées dans ledit instrument.
 
-<sup>3.</sup> Tout Etat, au moment où il déposera son instrument de ratification du présent Accord ou d’adhésion à celui-ci, notifiera par écrit au Secrétaire général dans quelle mesure les réserves qu’il aurait formulées à la Convention sur la circulation routière ouverte à la signature à Vienne le 8 novembre 1968 s’appliquent au présent Accord. Celles de ces réserves qui n’auraient pas fait l’objet de la notification faite au moment du dépôt de l’instrument de ratification du présent Accord ou d’adhésion à celui-ci seront réputées ne pas s’appliquer au présent Accord.
+<sup>3.</sup> Tout État, au moment où il déposera son instrument de ratification du présent Accord ou d’adhésion à celui-ci, notifiera par écrit au Secrétaire général dans quelle mesure les réserves qu’il aurait formulées à la Convention sur la circulation routière ouverte à la signature à Vienne le 8 novembre 1968 s’appliquent au présent Accord. Celles de ces réserves qui n’auraient pas fait l’objet de la notification faite au moment du dépôt de l’instrument de ratification du présent Accord ou d’adhésion à celui-ci seront réputées ne pas s’appliquer au présent Accord.
 
-<sup>4.</sup> Le Secrétaire général communiquera les réserves et notifications faites en application du présent article, à tous les Etats visés à l’article 2 du présent Accord.
+<sup>4.</sup> Le Secrétaire général communiquera les réserves et notifications faites en application du présent article, à tous les États visés à l’article 2 du présent Accord.
 
-<sup>5.</sup> Tout Etat qui aura fait une déclaration, une réserve ou une notification en vertu du présent article pourra, à tout moment, la retirer par notification adressée au Secrétaire général.
+<sup>5.</sup> Tout État qui aura fait une déclaration, une réserve ou une notification en vertu du présent article pourra, à tout moment, la retirer par notification adressée au Secrétaire général.
 
 <sup>6.</sup> Toute réserve faite conformément au paragraphe 2 ou notifiée conformément au paragraphe 3 du présent article
 
@@ -130,7 +130,7 @@ Aucune disposition du présent Accord ne sera interprétée comme interdisant à
 
 #### Art. 12
 
-Outre les déclarations, notifications et communications prévues aux articles 6 et 11 du présent Accord, le Secrétaire général notifiera aux Parties contractantes et aux autres Etats visés à l’article 2:
+Outre les déclarations, notifications et communications prévues aux articles 6 et 11 du présent Accord, le Secrétaire général notifiera aux Parties contractantes et aux autres États visés à l’article 2:
 
 - a) les signatures, ratifications et adhésions au titre de l’article 2;
 - b) les notifications et déclarations au titre de l’article 3;
@@ -141,13 +141,11 @@ Outre les déclarations, notifications et communications prévues aux articles 6
 
 #### Art. 13
 
-Après le 31 décembre 1972, l’original du présent Accord sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en transmettra des copies certifiées conformes à tous les Etats visés à l’article 2 du présent Accord.
+Après le 31 décembre 1972, l’original du présent Accord sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en transmettra des copies certifiées conformes à tous les États visés à l’article 2 du présent Accord.
 
-*En foi de quoi,* les soussignés, à ce dûment autorisés, ont signé le présent Accord. Fait à Genève, le premier mai mil neuf cent soixante et onze, en un seul exemplaire, en langues anglaise, française et russe, les trois textes faisant également foi.
+*En foi de quoi,* les soussignés, à ce dûment autorisés, ont signé le présent Accord. Fait à Genève, le premier mai mil neuf cent soixante et onze, en un seul exemplaire, en langues anglaise, française et russe, les trois textes faisant également foi. *(Suivent les signatures)*
 
-(Suivent les signatures)
-
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 \1. Pour l’application des dispositions de la présente annexe, le terme «Convention» désigne la Convention sur la circulation routière ouverte à la signature, à Vienne, le 8 novembre 1968.
 
@@ -306,7 +304,7 @@ Paragraphe 4, alinéa b)
 
 Cet alinéa se lira comme suit:
 
-«Dans les Etats où le sens de la circulation est à gauche, la priorité aux intersections est réglée par un signal routier ou par une marque routière.»
+«Dans les États où le sens de la circulation est à gauche, la priorité aux intersections est réglée par un signal routier ou par une marque routière.»
 
 Paragraphe additionnel à insérer immédiatement après le paragraphe 7 de cet article
 
@@ -377,7 +375,7 @@ Cet alinéa se lira comme suit:
 
 «Tout arrêt et tout stationnement d’un véhicule sont interdits sur la chaussée:
 
-- i) A moins de 5 m des passages pour piétons et des passages pour cyclistes, sur les passages pour piétons, sur les passages pour cyclistes et sur les passages à niveau.
+- i) À moins de 5 m des passages pour piétons et des passages pour cyclistes, sur les passages pour piétons, sur les passages pour cyclistes et sur les passages à niveau.
 - ii) sur les voies de tramways ou de trains sur route ou près de ces voies, lorsque la circulation de ces tramways ou de ces trains pourrait de ce fait se trouver entravée;»
 
 Texte additionnel à insérer immédiatement après le point ii) de cet alinéa
@@ -411,7 +409,7 @@ Paragraphe additionnel à insérer à la fin de cet article
 Ce paragraphe se lira comme suit:
 
 - «a) Les législations nationales peuvent autoriser les personnes n’ayant qu’une mobilité restreinte à garer leur véhicule sur les voies publiques où le stationnement est autrement interdit, ou au-delà du temps spécifié dans les endroits où la durée de stationnement est restreinte.
-- b) Les Etats peuvent délivrer aux handicapés n’ayant qu’une mobilité restreinte un document portant au moins le symbole international des handicapés et le nom du titulaire. Ce document sera montré, selon qu’il conviendra, lorsque le handicapé fait usage des facilités visées à l’alinéa a) ci-dessus. Les Parties contractantes reconnaîtront la validité de tels documents délivrés par d’autres Parties contractantes et autoriseront les titulaires de ces documents à utiliser les facilités visées à l’alinéa a) ci-dessus.»
+- b) Les États peuvent délivrer aux handicapés n’ayant qu’une mobilité restreinte un document portant au moins le symbole international des handicapés et le nom du titulaire. Ce document sera montré, selon qu’il conviendra, lorsque le handicapé fait usage des facilités visées à l’alinéa a) ci-dessus. Les Parties contractantes reconnaîtront la validité de tels documents délivrés par d’autres Parties contractantes et autoriseront les titulaires de ces documents à utiliser les facilités visées à l’alinéa a) ci-dessus.»
 
 \19. Ad article 25 de la Convention (Autoroutes et routes de caractère similaire)
 
@@ -473,9 +471,7 @@ Ce paragraphe se lira comme suit:
 
 Ces articles se liront comme suit:
 
-## *«Article 27**<sup>bis</sup>*Règles spéciales applicables dans les zones résidentielles signalées comme telles
-
-[^t-2]: Mise à jour par les amendements entrés en vigueur le 28 août 1993 ([RO 1993 3426](https://fedlex.data.admin.ch/eli/oc/1993/3426_3426_3426)) et le 28 mars 2006 ([RO 2007 3617](https://fedlex.data.admin.ch/eli/oc/2007/445)).
+***«Article 27**<sup>bis</sup>*Règles spéciales applicables dans les zones résidentielles signalées comme telles**
 
 Dans une zone résidentielle signalée comme telle:
 
@@ -486,15 +482,17 @@ Dans une zone résidentielle signalée comme telle:
 - e) Le stationnement est interdit, sauf aux emplacements où une signalisation le permet;
 - f) Aux intersections, les usagers de la route venant d’une »zone résidentielle« doivent céder le passage aux autres usagers, sauf dispositions contraires prévues dans la législation nationale.
 
-## *Article 27**<sup>ter</sup>*Zones piétonnes
+***Article 27**<sup>ter</sup>*Zones piétonnes**
 
 Les législations nationales peuvent prévoir des zones piétonnes comprenant une ou plusieurs routes réservées à la circulation des piétons et préciser les conditions d’admission exceptionnelle des véhicules.
 
-## *Article 27**<sup>quater</sup>*Règle spéciale applicable aux personnes travaillant sur la chaussée ou en bordure de la route
+***Article 27**<sup>quater</sup>*Règle spéciale applicable aux personnes travaillant sur la chaussée ou en bordure de la route**
 
 Les personnes effectuant des travaux de construction ou d’entretien sur les routes doivent porter des vêtements fluorescents et réfléchissants les rendant très visibles de jour comme de nuit.»
 
-\21. Ad article 29 de la Convention (Véhicules sur rails)
+[^t-2]: Mise à jour par les amendements entrés en vigueur le 28 août 1993 ([RO 1993 3426](https://fedlex.data.admin.ch/eli/oc/1993/3426_3426_3426)) et le 28 mars 2006 ([RO 2007 3617](https://fedlex.data.admin.ch/eli/oc/2007/445)).
+
+### 21. Ad article 29 de la Convention (Véhicules sur rails)
 
 Paragraphe 2
 
@@ -508,7 +506,7 @@ Ce paragraphe se lira comme suit:
 
 «Le dépassement des véhicules sur rails, en mouvement ou à l’arrêt, dont la voie est établie sur la chaussée se fait du côté correspondant au sens de la circulation. Si le croisement et le dépassement ne peuvent s’effectuer du côté correspondant au sens de la circulation, en raison de l’exiguïté du passage, ces manœuvres peuvent se faire du côté opposé au côté correspondant au sens de la circulation, à condition de ne pas gêner ni mettre en danger les usagers circulant en sens inverse. Sur les chaussées à sens unique, le dépassement peut se faire du côté opposé au côté correspondant au sens de la circulation lorsque les nécessités de la circulation le justifient.»
 
-\22. Ad article 30 de la Convention (Chargement des véhicules)
+### 22. Ad article 30 de la Convention (Chargement des véhicules)
 
 Paragraphe 4
 
@@ -520,9 +518,9 @@ Ce paragraphe se lira comme suit:
 - b) Les chargements dépassant de plus d’un mètre vers l’arrière l’extrémité du véhicule doivent être signalés par un panneau carré ou triangulaire d’au moins 0,40 m de côté, fixé à l’extrémité du chargement, de manière à être constamment dans un plan vertical perpendiculaire au plan longitudinal médian du véhicule, ou par un dispositif tridimensionnel (pyramidal, prismatique ou cylindrique) suspendu à l’extrémité du chargement et ayant une surface de protection suffisante. Le panneau doit être peint en bandes alternées rouges et blanches et le dispositif tridimensionnel doit présenter des bandes alternées de couleur rouge et blanche ou des faces de couleur claire. Les parties de couleur rouge et blanche doivent être munies de rétroréflecteurs ou être pourvues d’un revêtement réflectorisé. Le point le plus haut de la plage éclairante ou réfléchissante des moyens mentionnés ci-dessus ne peut être situé à plus de 1,60 m au-dessus du niveau du sol. Le point le plus bas ne peut être situé à moins de 0,40 m au-dessus du niveau du sol.
 - c) Pour les transports occasionnels, sur de courtes distances, la législation nationale peut prévoir une signalisation plus simple.»
 
-\23. …
+### …
 
-\24. Ad article 31 de la Convention (Comportement en cas d’accident)
+### 24. Ad article 31 de la Convention (Comportement en cas d’accident)
 
 Paragraphe 1
 
@@ -532,9 +530,9 @@ Cet alinéa se lira comme suit:
 
 «Lorsque l’accident n’a provoqué que des dommages matériels et si une partie lésée n’est pas présente, les personnes impliquées dans l’accident doivent autant que possible fournir, sur place, l’indication de leurs nom et adresse et, en tout cas, fournir au plus tôt ces renseignements à la partie lésée, par la voie la plus directe ou, à défaut, par l’intermédiaire de la police.»
 
-\25. …
+### …
 
-\26. Ad article 34 de la Convention (Dérogations)
+### 26. Ad article 34 de la Convention (Dérogations)
 
 Paragraphe 2
 
@@ -542,7 +540,7 @@ Ce paragraphe se lira comme suit:
 
 «Les conducteurs de véhicules prioritaires ne sont pas tenus, quand leur circulation est annoncée par les avertisseurs spéciaux du véhicule et sous réserve de ne pas mettre en danger les autres usagers de la route, de respecter tout ou partie des dispositions du Chapitre Il de la Convention, telles qu’elles peuvent avoir été modifiées par le présent Accord, autres que celles du paragraphe 2 de son article 6. Les conducteurs de ces véhicules ne peuvent mettre ces avertisseurs en action que dans les cas justifiés par l’urgence de leur mission.»
 
-\27. Ad article 44 de la Convention (Conditions à remplir par les cycles et les cyclomoteurs pour être admis en circulation internationale)
+### 27. Ad article 44 de la Convention (Conditions à remplir par les cycles et les cyclomoteurs pour être admis en circulation internationale)
 
 Paragraphe 1
 
@@ -554,17 +552,17 @@ Cet alinéa se lira comme suit:
 
 Paragraphe 2, alinéa d)
 
-Cet alinéa se lira comme suit:
-
-- «d) Etre munis d’un rétroréflecteur rouge à l’arrière, d’un feu émettant une lumière blanche ou jaune sélectif vers l’avant et d’un feu émettant une lumière rouge vers l’arrière;»
-
 Alinéa additionnel à insérer à la fin du paragraphe 2
 
 Cet alinéa se lira comme suit:
 
-«Etre munis d’une signalisation latérale constituée soit par des rétroréflecteurs jaune-auto, soit par des dispositifs réfléchissants formant un cercle continu.»
+«Être munis d’une signalisation latérale constituée soit par des rétroréflecteurs jaune-auto, soit par des dispositifs réfléchissants formant un cercle continu.»
 
-\28. Ad annexe 1 de la Convention (Dérogations à l’obligation d’admettre en circulation internationale les automobiles et les remorques)
+Cet alinéa se lira comme suit:
+
+- «d) Être munis d’un rétroréflecteur rouge à l’arrière, d’un feu émettant une lumière blanche ou jaune sélectif vers l’avant et d’un feu émettant une lumière rouge vers l’arrière;»
+
+### 28. Ad annexe 1 de la Convention (Dérogations à l’obligation d’admettre en circulation internationale les automobiles et les remorques)
 
 Paragraphe additionnel à insérer immédiatement après le paragraphe 7 de cet article
 
@@ -572,47 +570,48 @@ Ce paragraphe se lira comme suit:
 
 «7<sup>bis</sup> Les Parties contractantes peuvent subordonner l’admission en circulation internationale sur leurs territoires de toute automobile d’une masse maximum autorisée supérieure à 3500 kg à la présence à bord de chaînes à neige ou d’autres dispositifs également efficaces pour la conduite d’hiver.»
 
-Champ d’application le 13 mars 2014**[^t-3]**
+Champ d’application le 30 juin 2023[^t-3]
 
 <table>
-<tr><th colspan="3">Etats parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
-<tr><td colspan="3">Albanie</td><td colspan="2">27 octobre</td><td colspan="2">2005 A</td><td>27 octobre</td><td colspan="2">2006</td></tr>
-<tr><td colspan="3">Allemagne\*</td><td colspan="2">3 août</td><td colspan="2">1978</td><td>3 août</td><td colspan="2">1979</td></tr>
-<tr><td colspan="3">Autriche\*</td><td colspan="2">11 août</td><td colspan="2">1981</td><td>11 août</td><td colspan="2">1982</td></tr>
-<tr><td colspan="3">Bélarus\*</td><td colspan="2">17 décembre</td><td colspan="2">1974 A</td><td>7 juin</td><td colspan="2">1979</td></tr>
-<tr><td colspan="3">Belgique</td><td colspan="2">16 novembre</td><td colspan="2">1988</td><td>16 novembre</td><td colspan="2">1989</td></tr>
-<tr><td colspan="3">Bosnie et Herzégovine</td><td colspan="2">1<sup>er</sup> septembre</td><td colspan="2">1993 S</td><td>6 mars</td><td colspan="2">1992</td></tr>
-<tr><td colspan="3">Bulgarie\*</td><td colspan="2">28 décembre</td><td colspan="2">1978 A</td><td>28 décembre</td><td colspan="2">1979</td></tr>
-<tr><td colspan="3">Croatie</td><td colspan="2">23 novembre</td><td colspan="2">1992 S</td><td>8 octobre</td><td colspan="2">1991</td></tr>
-<tr><td colspan="3">Danemark\*</td><td colspan="2">3 novembre</td><td colspan="2">1986</td><td>3 novembre</td><td colspan="2">1987</td></tr>
-<tr><td colspan="3">Estonie\*</td><td colspan="2">14 mars</td><td colspan="2">2003 A</td><td>14 mars</td><td colspan="2">2004</td></tr>
-<tr><td colspan="3">Finlande\*</td><td colspan="2">1<sup>er</sup> avril</td><td colspan="2">1985</td><td>1<sup>er</sup> avril</td><td colspan="2">1986</td></tr>
-<tr><td colspan="3">France\*</td><td colspan="2">16 janvier</td><td colspan="2">1974</td><td>7 juin</td><td colspan="2">1979</td></tr>
-<tr><td colspan="3">Grèce</td><td colspan="2">18 décembre</td><td colspan="2">1986 A</td><td>18 décembre</td><td colspan="2">1987</td></tr>
-<tr><td colspan="3">Hongrie\*</td><td colspan="2">16 mars</td><td colspan="2">1976</td><td>7 juin</td><td colspan="2">1979</td></tr>
-<tr><td colspan="3">Italie</td><td colspan="2">2 octobre</td><td colspan="2">1996 A</td><td>2 octobre</td><td colspan="2">1997</td></tr>
-<tr><td colspan="3">Kazakhstan</td><td colspan="2">21 avril</td><td colspan="2">2011 A</td><td>21 avril</td><td colspan="2">2012</td></tr>
-<tr><td colspan="3">Lettonie</td><td colspan="2">7 décembre</td><td colspan="2">2001 A</td><td>7 décembre</td><td colspan="2">2002</td></tr>
-<tr><td colspan="3">Lituanie</td><td colspan="2">31 janvier</td><td colspan="2">1992 A</td><td>31 janvier</td><td colspan="2">1993</td></tr>
-<tr><td colspan="3">Luxembourg</td><td colspan="2">25 novembre</td><td colspan="2">1975</td><td>7 juin</td><td colspan="2">1979</td></tr>
-<tr><td colspan="3">Macédoine</td><td colspan="2">20 décembre</td><td colspan="2">1999 S</td><td>17 novembre</td><td colspan="2">1991</td></tr>
-<tr><td colspan="3">Moldova\*</td><td colspan="2">25 avril</td><td colspan="2">2007 A</td><td>25 avril</td><td colspan="2">2008</td></tr>
-<tr><td colspan="3">Monaco</td><td colspan="2">6 juin</td><td colspan="2">1978 A</td><td>7 juin</td><td colspan="2">1979</td></tr>
-<tr><td colspan="3">Monténégro</td><td colspan="2">23 octobre</td><td colspan="2">2006 S</td><td>3 juin</td><td colspan="2">2006</td></tr>
-<tr><td colspan="3">Pays-Bas\* <sup>a</sup></td><td colspan="2">8 novembre</td><td colspan="2">2007 A</td><td>8 novembre</td><td colspan="2">2008</td></tr>
-<tr><td colspan="3">Pologne</td><td colspan="2">23 août</td><td colspan="2">1984 A</td><td>23 août</td><td colspan="2">1985</td></tr>
-<tr><td colspan="3">République tchèque</td><td colspan="2">2 juin</td><td colspan="2">1993 S</td><td>1<sup>er</sup> janvier</td><td colspan="2">1993</td></tr>
-<tr><td colspan="3">Roumanie\*</td><td colspan="2">9 décembre</td><td colspan="2">1980</td><td>9 décembre</td><td colspan="2">1981</td></tr>
-<tr><td colspan="3">Russie\*</td><td colspan="2">27 septembre</td><td colspan="2">1974 A</td><td>7 juin</td><td colspan="2">1979</td></tr>
-<tr><td colspan="3">Serbie</td><td colspan="2">12 mars</td><td colspan="2">2001 S</td><td>27 avril</td><td colspan="2">1992</td></tr>
-<tr><td colspan="3">Slovaquie</td><td colspan="2">28 mai</td><td colspan="2">1993 S</td><td>1<sup>er</sup> janvier</td><td colspan="2">1993</td></tr>
-<tr><td colspan="3">Slovénie</td><td colspan="2">6 juillet</td><td colspan="2">1992 S</td><td>1<sup>er</sup> juin</td><td colspan="2">1991</td></tr>
-<tr><td colspan="3">Suède\*</td><td colspan="2">25 juillet</td><td colspan="2">1985</td><td>25 juillet</td><td colspan="2">1986</td></tr>
-<tr><td colspan="3">Suisse</td><td colspan="2">11 décembre</td><td colspan="2">1991</td><td>11 décembre</td><td colspan="2">1992</td></tr>
-<tr><td colspan="3">Turquie</td><td colspan="2">22 janvier</td><td colspan="2">2013 A</td><td>22 janvier</td><td colspan="2">2014</td></tr>
-<tr><td colspan="3">Ukraine\*</td><td colspan="2">30 décembre</td><td colspan="2">1974 A</td><td>7 juin</td><td colspan="2">1979</td></tr>
-<tr><td>\*</td><td colspan="9">Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="9">Pour le Royaume en Europe.</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Albanie</td><td>27 octobre</td><td>2005 A</td><td>27 octobre</td><td>2006</td></tr>
+<tr><td>Allemagne\*</td><td>3 août</td><td>1978</td><td>3 août</td><td>1979</td></tr>
+<tr><td>Autriche\*</td><td>11 août</td><td>1981</td><td>11 août</td><td>1982</td></tr>
+<tr><td>Bélarus\*</td><td>17 décembre</td><td>1974 A</td><td>7 juin</td><td>1979</td></tr>
+<tr><td>Belgique</td><td>16 novembre</td><td>1988</td><td>16 novembre</td><td>1989</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>1<sup>er</sup> septembre</td><td>1993 S</td><td>6 mars</td><td>1992</td></tr>
+<tr><td>Bulgarie\*</td><td>28 décembre</td><td>1978 A</td><td>28 décembre</td><td>1979</td></tr>
+<tr><td>Croatie</td><td>23 novembre</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
+<tr><td>Danemark\*</td><td>3 novembre</td><td>1986</td><td>3 novembre</td><td>1987</td></tr>
+<tr><td>Estonie\*</td><td>14 mars</td><td>2003 A</td><td>14 mars</td><td>2004</td></tr>
+<tr><td>Finlande\*</td><td>1<sup>er</sup> avril</td><td>1985</td><td>1<sup>er</sup> avril</td><td>1986</td></tr>
+<tr><td>France\*</td><td>16 janvier</td><td>1974</td><td>7 juin</td><td>1979</td></tr>
+<tr><td>Grèce</td><td>18 décembre</td><td>1986 A</td><td>18 décembre</td><td>1987</td></tr>
+<tr><td>Hongrie\*</td><td>16 mars</td><td>1976</td><td>7 juin</td><td>1979</td></tr>
+<tr><td>Italie</td><td>2 octobre</td><td>1996 A</td><td>2 octobre</td><td>1997</td></tr>
+<tr><td>Kazakhstan</td><td>21 avril</td><td>2011 A</td><td>21 avril</td><td>2012</td></tr>
+<tr><td>Lettonie</td><td>7 décembre</td><td>2001 A</td><td>7 décembre</td><td>2002</td></tr>
+<tr><td>Liechtenstein<sup>\*</sup></td><td>2 mars</td><td>2020 A</td><td>2 mars</td><td>2021</td></tr>
+<tr><td>Lituanie</td><td>31 janvier</td><td>1992 A</td><td>31 janvier</td><td>1993</td></tr>
+<tr><td>Luxembourg</td><td>25 novembre</td><td>1975</td><td>7 juin</td><td>1979</td></tr>
+<tr><td>Macédoine du Nord</td><td>20 décembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Moldova\*</td><td>25 avril</td><td>2007 A</td><td>25 avril</td><td>2008</td></tr>
+<tr><td>Monaco</td><td>6 juin</td><td>1978 A</td><td>7 juin</td><td>1979</td></tr>
+<tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
+<tr><td>Pays-Bas\* <sup>a</sup></td><td>8 novembre</td><td>2007 A</td><td>8 novembre</td><td>2008</td></tr>
+<tr><td>Pologne</td><td>23 août</td><td>1984 A</td><td>23 août</td><td>1985</td></tr>
+<tr><td>République tchèque</td><td>2 juin</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Roumanie\*</td><td>9 décembre</td><td>1980</td><td>9 décembre</td><td>1981</td></tr>
+<tr><td>Russie\*</td><td>27 septembre</td><td>1974 A</td><td>7 juin</td><td>1979</td></tr>
+<tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
+<tr><td>Slovaquie</td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Slovénie</td><td>6 juillet</td><td>1992 S</td><td>1<sup>er</sup> juin</td><td>1991</td></tr>
+<tr><td>Suède\*</td><td>25 juillet</td><td>1985</td><td>25 juillet</td><td>1986</td></tr>
+<tr><td>Suisse</td><td>11 décembre</td><td>1991</td><td>11 décembre</td><td>1992</td></tr>
+<tr><td>Turkménistan</td><td>31 août</td><td>2020 A</td><td>31 août</td><td>2021</td></tr>
+<tr><td>Turquie</td><td>22 janvier</td><td>2013 A</td><td>22 janvier</td><td>2014</td></tr>
+<tr><td>Ukraine\*</td><td>30 décembre</td><td>1974 A</td><td>7 juin</td><td>1979</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org/)ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-3]: [RO 1993 478](https://fedlex.data.admin.ch/eli/oc/1993/478_478_478), [2005 1233](https://fedlex.data.admin.ch/eli/oc/2005/179), [2008 3973](https://fedlex.data.admin.ch/eli/oc/2008/538), [2014 715](https://fedlex.data.admin.ch/eli/oc/2014/152). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1993 478](https://fedlex.data.admin.ch/eli/oc/1993/478_478_478); [2005 1233](https://fedlex.data.admin.ch/eli/oc/2005/179); [2008 3973](https://fedlex.data.admin.ch/eli/oc/2008/538); [2014 715](https://fedlex.data.admin.ch/eli/oc/2014/152); [2023 361](https://fedlex.data.admin.ch/eli/oc/2023/361). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
