@@ -4,11 +4,11 @@ title: "Ordonnance du 26 juin 2019 sur les installations de transport par condui
 short: OITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/413"
 language: fr
-version: 2021-07-01
+version: 2023-07-01
 adopted: 2019-06-26
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2019-413-20210701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2019-413-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20210701/fr"
 
 (Ordonnance sur les installations de transport par conduites, OITC)
 
-du 26 juin 2019 (Etat le 1<sup>er</sup> juillet 2021)
+du 26 juin 2019 (État le 1<sup>er</sup> juillet 2023)
 
 Le Conseil fédéral suisse,
 
@@ -31,9 +31,11 @@ arrête:
 
 #### Art. 1
 
-**Objet**
+**Objet**[^1-1]
 
-La présente ordonnance règle la construction et l’exploitation des installations destinées au transport par conduites de combustibles, de carburants, d’hydrocarbures ou de mélanges d’hydrocarbures liquides ou gazeux, comme le pétrole brut, le gaz naturel, le gaz de raffinage, les produits de la distillation du pétrole brut et les résidus liquides provenant du raffinage du pétrole brut.
+La présente ordonnance règle la construction et l’exploitation des installations destinées au transport par conduites de combustibles, de carburants, d’hydrocarbures ou de mélanges d’hydrocarbures liquides ou gazeux, comme le pétrole brut, le gaz naturel, le gaz de raffinage, les produits de la distillation du pétrole brut et les résidus liquides provenant du raffinage du pétrole brut, ainsi que des installations destinées au transport par conduites de l’hydrogène.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 276](https://fedlex.data.admin.ch/eli/oc/2023/276)).
 
 #### Art. 2
 
@@ -383,7 +385,7 @@ Il comprend notamment les informations suivantes sur l’exploitation de l’ins
 - c. le cahier des charges pour le contrôle et l’entretien des stations et des conduites;
 - d. l’information des propriétaires fonciers et des communes concernés;
 - e.[^26-1] l’organisation de la réparation des dommages;
-- f. [^26-2] ...
+- f. [^26-2] …
 - g. le déroulement des travaux de construction effectués par des tiers;
 - h. la liste du matériel de réparation.
 

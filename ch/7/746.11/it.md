@@ -4,11 +4,11 @@ title: "Ordinanza del 26 giugno 2019 sugli impianti di trasporto in condotta di 
 short: OITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/413"
 language: it
-version: 2021-07-01
+version: 2023-07-01
 adopted: 2019-06-26
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2019-413-20210701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2019-413-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20210701/it"
 
 (Ordinanza sugli impianti di trasporto in condotta, OITC)
 
-del 26 giugno 2019 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 26 giugno 2019 (Stato 1° luglio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -31,9 +31,11 @@ ordina:
 
 #### Art. 1
 
-**Oggetto**
+**Oggetto**[^1-1]
 
-La presente ordinanza disciplina la costruzione e l’esercizio di impianti di condotte destinati al trasporto di combustibili e carburanti liquidi o gassosi, idrocarburi o miscele di idrocarburi come petrolio greggio, gas naturale, gas di raffineria, distillati del petrolio greggio o residui liquidi provenienti dalla distillazione del petrolio greggio.
+La presente ordinanza disciplina la costruzione e l’esercizio di impianti di condotte destinati al trasporto di combustibili e carburanti liquidi o gassosi, idrocarburi o miscele di idrocarburi come petrolio greggio, gas naturale, gas di raffineria, distillati del petrolio greggio o residui liquidi provenienti dalla distillazione del petrolio greggio, e di impianti di condotte destinati al trasporto di idrogeno.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 24 mag. 2023, in vigore dal 1° lug. 2023 (RU **202****3** 276).
 
 #### Art. 2
 

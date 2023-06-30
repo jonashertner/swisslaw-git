@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Juni 2019 über Rohrleitungsanlagen zur Beförderung 
 short: RLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/413"
 language: de
-version: 2021-07-01
+version: 2023-07-01
 adopted: 2019-06-26
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2019-413-20210701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2019-413-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20210701/de"
 
 (Rohrleitungsverordnung, RLV)
 
-vom 26. Juni 2019 (Stand am 1. Juli 2021)
+vom 26. Juni 2019 (Stand am 1. Juli 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -31,9 +31,11 @@ verordnet:
 
 #### Art. 1
 
-**Gegenstand**
+**Gegenstand**[^1-1]
 
-Diese Verordnung regelt den Bau und den Betrieb von Rohrleitungsanlagen zur Beförderung flüssiger oder gasförmiger Brenn- und Treibstoffe, Kohlenwasserstoffe oder Kohlenwasserstoffgemische wie Roherdöl, Erdgas, Raffineriegase, Erdöldestillate oder flüssige Rückstände der Erdölraffination.
+Diese Verordnung regelt den Bau und den Betrieb von Rohrleitungsanlagen zur Beförderung von flüssigen oder gasförmigen Brenn- und Treibstoffen, Kohlenwasserstoffen oder Kohlenwasserstoffgemischen, wie Roherdöl, Erdgas, Raffineriegasen, Erdöldestillaten oder flüssigen Rückständen der Erdölraffination, und zur Beförderung von Wasserstoff.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 276](https://fedlex.data.admin.ch/eli/oc/2023/276)).
 
 #### Art. 2
 
@@ -383,7 +385,7 @@ Es umfasst insbesondere die folgenden Angaben über den Betrieb der Anlage:
 - c. die Pflichtenhefte für die Kontrolle und den Unterhalt von Stationen und Leitungen;
 - d. das Konzept über die Information der betroffenen Grundeigentümer und Grundeigentümerinnen sowie der betroffenen Gemeinden;
 - e.[^26-1] die Organisation zur Behebung von Schäden;
-- f.[^26-2] ...
+- f.[^26-2] …
 - g. das Vorgehen bei Bauarbeiten Dritter;
 - h. die Liste des Reparaturmaterials.
 
