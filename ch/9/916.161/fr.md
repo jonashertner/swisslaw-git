@@ -4,11 +4,11 @@ title: "Ordonnance du 12 mai 2010 sur la mise en circulation des produits phytos
 short: OPPh
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: fr
-version: 2023-04-01
+version: 2023-07-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20230401-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230401/fr"
 
 (Ordonnance sur les produits phytosanitaires, OPPh)
 
-du 12 mai 2010 (État le 1<sup>er</sup> avril 2023)
+du 12 mai 2010 (État le 1<sup>er</sup> juillet 2023)
 
 Le Conseil fédéral suisse,
 
@@ -670,7 +670,7 @@ Les documents joints à la demande doivent être produits:
 [^21-1]: Voir note relative à l’art.7, al. 1, let. g.
 [^21-2]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)).
 [^21-3]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^21-4]: Norme PM6/2 telle que définie dans OEPP/EPPO Bulletin 40, pp. 335 à 344. Téléchargement: Organisation européenne et méditerranéenne pour la protection des plantes, www.eppo.org &gt; Standards &gt; List of EPPO Standards &gt; Safe use of Biological Controls (PM6) &gt; «Import and release of non-indigenous biological control agents».
+[^21-4]: Norme PM6/2 telle que définie dans OEPP/EPPO Bulletin 40, pp. 335 à 344. Téléchargement: Organisation européenne et méditerranéenne pour la protection des plantes, [www.eppo.org](http://www.eppo.org/) &gt; Standards &gt; List of EPPO Standards &gt; Safe use of Biological Controls (PM6) &gt; «Import and release of non-indigenous biological control agents».
 [^21-5]: Introduit par le ch. I de l’O du 23 mai 2012, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)).
 
 #### Art. 22
@@ -1739,7 +1739,7 @@ Le service d’homologation peut faire appel à des experts pour l’exécution 
 
 <sup>6</sup> Un produit phytosanitaire ne peut être importé que s’il a été homologué conformément à la présente ordonnance ou qu’il ne requiert aucune homologation conformément à l’art. 14, al. 2.[^77-2]
 
-[^77-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 **946.513.7** ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^77-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^77-2]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 685](https://fedlex.data.admin.ch/eli/oc/2021/685)).
 
 #### Art. 78
@@ -1991,6 +1991,16 @@ Les produits phytosanitaires contenant la substance active Indoxacarb peuvent:
 
 [^86i-1]: Introduit par le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 784](https://fedlex.data.admin.ch/eli/oc/2022/784)). Erratum du 18 janv. 2023 ([RO 2023 17](https://fedlex.data.admin.ch/eli/oc/2023/17)).
 
+#### Art. 86j
+
+**Complément aux dispositions transitoires relatives à la modification du 16 novembre 2022[^86j-2]**[^86j-1]
+
+Les produits phytosanitaires et adjuvants visés à l’art. 68, al. 4, qui remplissent l’un des critères énoncés à l’annexe 12, ch. 2, peuvent être utilisés par les utilisateurs professionnels jusqu’au 31 décembre 2026 dans les zones urbaines sur des surfaces telles que les parcs, les jardins, les installations sportives et de loisirs, les cours de récréation ou les aires de jeux, ainsi qu’à proximité immédiate d’établissements de santé. Ne peuvent toutefois pas être utilisés sur ces surfaces les produits phytosanitaires et les adjuvants dont l’étiquetage mentionne un des éléments listés à l’annexe 5, ch. 1.1, 1.2, let. a ou b, ch. 2.1 ou 2.2, let. a ou b, OChim[^86j-3].
+
+[^86j-1]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 235](https://fedlex.data.admin.ch/eli/oc/2023/235)).
+[^86j-2]: [RO 2022 784](https://fedlex.data.admin.ch/eli/oc/2022/784)
+[^86j-3]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+
 ### Section 3 Entrée en vigueur
 
 #### Art. 87
@@ -2003,7 +2013,7 @@ Annexe 1[^t-1]
 
 ## Substances actives approuvées dont l’incorporation est autorisée dans les produits phytosanitaires
 
-[^t-1]: Mise à jour par le ch. I al. 1 de l’O du DEFR du 17 juin 2011 ([RO 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), le ch. II de l’O du 23 mai 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), le ch. I des O du DEFR du 11 déc. 2012 ([RO 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), du 12 nov. 2014 ([RO 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), le ch. II de l’O du 28 oct. 2015 ([RO 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), le ch. II de l’O du DEFR du 28 oct. 2015 ([RO 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), le ch. I al. 1 de l’O du DEFR du 16 sept. 2016 ([RO 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), le ch. I des O du DEFR du 9 juin 2017 ([RO 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), du 28 mai 2018 ([RO 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), du 31 oct. 2018 ([RO 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), du 25 juin 2019 ([RO 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), du 12 nov. 2019 ([RO 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), du 2 juin 2020 ([RO 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)), le ch. II des O du DEFR du 17 mai 2021 ([RO 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)), du 30 nov. 2021 ([RO 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)), le ch. II de l’O du DFI du 31 mai 2022 ([RO 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)) et le ch. I de l’O du DFI du 21 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 746](https://fedlex.data.admin.ch/eli/oc/2022/746)).
+[^t-1]: Mise à jour par le ch. I al. 1 de l’O du DEFR du 17 juin 2011 ([RO 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), le ch. II de l’O du 23 mai 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), le ch. I des O du DEFR du 11 déc. 2012 ([RO 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), du 12 nov. 2014 ([RO 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), le ch. II de l’O du 28 oct. 2015 ([RO 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), le ch. II de l’O du DEFR du 28 oct. 2015 ([RO 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), le ch. I al. 1 de l’O du DEFR du 16 sept. 2016 ([RO 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), le ch. I des O du DEFR du 9 juin 2017 ([RO 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), du 28 mai 2018 ([RO 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), du 31 oct. 2018 ([RO 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), du 25 juin 2019 ([RO 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), du 12 nov. 2019 ([RO 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), du 2 juin 2020 ([RO 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)), le ch. II des O du DEFR du 17 mai 2021 ([RO 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)), du 30 nov. 2021 ([RO 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)), le ch. II de l’O du DFI du 31 mai 2022 ([RO 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)) et le ch. I des O du DFI du 21 nov. 2022 ([RO 2022 746](https://fedlex.data.admin.ch/eli/oc/2022/746)) et du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 314](https://fedlex.data.admin.ch/eli/oc/2023/314)).
 
 ### Partie A: Substances chimiques
 
@@ -2053,7 +2063,7 @@ Annexe 1[^t-1]
 <tr><td>Benzovindiflupyr</td><td colspan="4">N-[(1RS,4SR)-9-(dichloromethylene)-1,2,3,4-tetrahydro-1,4-methanonaphthalen-5-yl]-3-(difluoromethyl)-1-methylpyrazole-4-carboxamide</td><td>1072957-71-1</td><td></td><td>fongicide</td></tr>
 <tr><td>Bifénazate</td><td colspan="4">isopropyl 3-(4-methoxybiphenyl-3-yl)carbazate</td><td>149877-41-8</td><td>736</td><td>acaricide</td></tr>
 <tr><td>Bifenox</td><td colspan="4">methyl 5-(2,4-dichlorophenoxy)-2-nitrobenzoate</td><td>42576-02-3</td><td>413</td><td>herbicide</td></tr>
-<tr><td>Bixafen</td><td colspan="4">*N*-(3',4'-dichloro-5-fluoro[1,1'-biphenyl]-2-yl)-3-(difluoromethyl)-1-methyl-1*H*-pyrazole-4-carboxamide</td><td>581809-46-3</td><td>819</td><td>fongicide</td></tr>
+<tr><td>Bixafen</td><td colspan="4">*N*-(3’,4’-dichloro-5-fluoro[1,1’-biphenyl]-2-yl)-3-(difluoromethyl)-1-methyl-1*H*-pyrazole-4-carboxamide</td><td>581809-46-3</td><td>819</td><td>fongicide</td></tr>
 <tr><td>Boscalid</td><td colspan="4">2-Chloro-N-(4’-chlorobiphenyl-2-yl)nicotinamide</td><td>188425-85-6</td><td>673</td><td>fongicide</td></tr>
 <tr><td>Bromuconazole</td><td colspan="4">1-[(2RS,4RS:2RS,4SR)-4- bromo-2-(2,4-dichlorophényl) tétrahydrofurfuryl]- 1H-1,2,4 -triazole</td><td>116255-48-2</td><td>680</td><td>fongicide</td></tr>
 <tr><td>Bupirimate</td><td colspan="4">5-butyl-2-ethylamino-6-methylpyrimidin-4-yl dimethylsulfamate</td><td>41483-43-6</td><td>261</td><td>fongicide</td></tr>
@@ -2075,18 +2085,14 @@ Annexe 1[^t-1]
 <tr><td>Clomazone</td><td colspan="4">2-(2-chlorobenzyl)-4,4-dimethyl-1,2-oxazolidin-3-one</td><td>81777-89-1</td><td>509</td><td>herbicide</td></tr>
 <tr><td>Clopyralid</td><td colspan="4">3,6-dichloropyridine-2-carboxylic acid</td><td>1702-17-6</td><td>455</td><td>herbicide</td></tr>
 <tr><td>Cloquintocet-mexyl</td><td colspan="4">1-methylhexyl (5-chloroquinolin-8-yloxy)acÉtate</td><td>99607-70-2</td><td>–</td><td>herbicide «safener»</td></tr>
+<tr><td>Composés de cuivre</td><td colspan="3"></td><td colspan="2"></td><td>44</td><td>fongicide, bactéricide</td></tr>
+<tr><td></td><td colspan="3">*Variante* (sous forme d’hydroxide): copper(II) hydroxide</td><td colspan="2">20427-59-2</td><td>44.305</td><td>fongicide, bactéricide</td></tr>
+<tr><td></td><td colspan="3">*Variante* (sous forme de bouillie bordelaise): A mixture of calcium hydroxide and copper(II) sulfate</td><td colspan="2">8011-63-0</td><td>44.604</td><td>fongicide</td></tr>
+<tr><td></td><td colspan="3">*Variante* (sous forme d’octanate): copper octanoate</td><td colspan="2">20543-04-8</td><td>44.407</td><td>fongicide</td></tr>
+<tr><td></td><td colspan="3">*Variante* (sous forme d’oxychlorure): dicopper chloride trihydroxide</td><td colspan="2">1332-65-6, 1332-40-7</td><td>44.602</td><td>fongicide</td></tr>
+<tr><td></td><td colspan="3">*Variante* (sous forme sulfate de cuivre tribasique)</td><td colspan="2">12527-76-3</td><td>44.606</td><td>fongicide</td></tr>
 <tr><td>COS-OGA</td><td colspan="4">Copolymère linéaire d’acides α-1,4-D-galactopyranosyluroniques et d’acides galactopyranosyluroniques méthylestérifiés (9 à 20 résidus) avec copolymère linéaire de 2‑amino‑2‑déoxy‑D‑glucopyranose à liaison β-1,4 et de 2-acétamido-2-déoxy-D- glucopyranose (5 à 10 résidus)</td><td></td><td>979</td><td>fongicide, substance à faible risque</td></tr>
-<tr><td>Cuivre</td><td colspan="4">copper</td><td>12002-03-8</td><td>44</td><td>fongicide</td></tr>
-<tr><td></td><td colspan="4">*Variante* (sous forme de carbonate, alcalin): [μ‑[carbonato(2−)-κO:κO′]]dihydroxydicopper</td><td>12069-69-1</td><td>–</td><td>fongicide</td></tr>
-<tr><td></td><td colspan="4">*Variante* (sous forme d’hydroxide): copper(II) hydroxide</td><td>20427-59-2</td><td>44.305</td><td>fongicide, bactéricide</td></tr>
-<tr><td></td><td colspan="4">*Variante* (sous forme d’hydroxide chlorocalcique)</td><td></td><td></td><td>fongicide, bactéricide</td></tr>
-<tr><td></td><td colspan="4">*Variante* (sous forme de poudres par bouillie bordelaise): A mixture of calcium hydroxide and copper(II) sulfate</td><td>8011-63-0</td><td>44.604</td><td>fongicide</td></tr>
-<tr><td></td><td colspan="4">*Variante* (sous forme de naphthenate): copper naphthenate</td><td>1338-02-9</td><td>–</td><td>fongicide</td></tr>
-<tr><td></td><td colspan="4">*Variante* (sous forme d’octanate): copper octanoate</td><td>20543-04-8</td><td>44.407</td><td>fongicide</td></tr>
-<tr><td></td><td colspan="4">*Variante* (sous forme d’oxychlorure): dicopper chloride trihydroxide</td><td>1332-40-7</td><td>44.602</td><td>fongicide</td></tr>
-<tr><td></td><td colspan="4">*Variante* (sous forme de sulphate): copper(II) tetraoxosulfate</td><td>7758-98-7</td><td>44.306</td><td>fongicide, bactéricide</td></tr>
-<tr><td></td><td colspan="4">*Variante* (hexahydroxysulphate de tétracuivre): cupric sulfate-tricupric hydroxide</td><td>1333-22-8</td><td>–</td><td>fongicide</td></tr>
-<tr><td>Cyantraniliprole</td><td colspan="4">3-bromo-1-(3-chloro-2-pyridyl)-4'-cyano-2'-methyl-6'-(methylcarbamoyl)pyrazole-5-carboxanilide</td><td>736994-63-1</td><td>998</td><td>insecticide</td></tr>
+<tr><td>Cyantraniliprole</td><td colspan="4">3-bromo-1-(3-chloro-2-pyridyl)-4’-cyano-2’-methyl-6’-(methylcarbamoyl)pyrazole-5-carboxanilide</td><td>736994-63-1</td><td>998</td><td>insecticide</td></tr>
 <tr><td>Cyazofamid</td><td colspan="4">4-chloro-2-cyano-*N,N*-dimethyl-5-*p*-tolylimidazole-1-sulfonamide</td><td>120116-88-3</td><td>653</td><td>fongicide</td></tr>
 <tr><td>Cycloxydim</td><td colspan="4">(±)-2-[1-(ethoxyimino)butyl]-3-hydroxy-5-thian-3-ylcyclohex-2-enone</td><td>101205-02-1</td><td>510</td><td>herbicide</td></tr>
 <tr><td>Cyflufenamid</td><td colspan="4">(Z)-N-[α-(cyclopropylmethoxyimino)-2,3-difluoro-6-(trifluoromethyl)benzyl]-2-phenylacetamide</td><td>180409-60-3</td><td>759</td><td>fongicide</td></tr>
@@ -2094,6 +2100,7 @@ Annexe 1[^t-1]
 <tr><td>Cyperméthrine</td><td colspan="4">(RS)-α-cyano-3-phenoxybenzyl (1RS,3RS;1RS,3SR)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td>52315-07-8</td><td>332</td><td>insecticide</td></tr>
 <tr><td>Cyperméthrine high-cis</td><td colspan="4">(RS)-α-yano-3-phenoxybenzyl (1RS)-cis,trans(&gt;80 %:&lt;20 %)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td>52315-07-8</td><td>–</td><td>insecticide</td></tr>
 <tr><td>Cyprodinil</td><td colspan="4">4-cyclopropyl-6-methyl-N-phenylpyrimidin-2-amine</td><td>121552-61-2</td><td>511</td><td>fongicide</td></tr>
+<tr><td>Cyprosulfamide</td><td colspan="3">N-[4-(cyclopropylcarbamoyl)phenylsulfonyl]-o-anisamide</td><td colspan="2">221667-31-8</td><td>796</td><td>herbicide «safener»</td></tr>
 <tr><td>Daminozide</td><td colspan="4">N-dimethylaminosuccinamic acid</td><td>1596-84-5</td><td>330</td><td>phytorégulateur</td></tr>
 <tr><td>Dazomet (DMTT)</td><td colspan="4">3,5-dimethyl-1,3,5-thiadiazinane-2-thione</td><td>533-74-4</td><td>146</td><td>nématicide, fongicide, herbicide, insecticide</td></tr>
 <tr><td>d-Carvon</td><td colspan="4">d-2-Methyl-5-isopropenyl-2-cyclohexene-1-on</td><td>2244-16-8</td><td>602</td><td>phytorégulateur</td></tr>
@@ -2167,7 +2174,8 @@ Annexe 1[^t-1]
 <tr><td>Huile de colza</td><td colspan="4">rapeseed oil</td><td>68187-84-8</td><td>–</td><td>insecticide</td></tr>
 <tr><td>Huile d’eucalyptus</td><td colspan="4">–</td><td>–</td><td>–</td><td>insecticide</td></tr>
 <tr><td>Huile de menthe</td><td colspan="4">spearmint oil</td><td>8008-79-5</td><td>908</td><td>phytorégulateur</td></tr>
-<tr><td>Huile de paraffine</td><td colspan="4"></td><td>8012-95-1, 64742-46-7, 72623-86-0, 8042-47-5, 97862-82-3</td><td>–</td><td>insecticide</td></tr>
+<tr><td>Huile de paraffine</td><td colspan="4"></td><td>64742-46-7, 72623-86-0, 8042-47-5, 97862-82-3</td><td>–</td><td>insecticide</td></tr>
+<tr><td>Huile de poisson</td><td colspan="3"></td><td colspan="2">8016-13-5</td><td>918</td><td>répulsive du gibier, substance à faible risque</td></tr>
 <tr><td>Huile de sésame raffinée</td><td colspan="4">fatty acid glycerol ester</td><td></td><td>–</td><td>insecticide (synergiste)</td></tr>
 <tr><td>Huiles essentielles</td><td colspan="4"></td><td></td><td>–</td><td>répulsive du gibier</td></tr>
 <tr><td>Huile essentielle d’orange</td><td colspan="4">(R)-4-isopropényl-1-méthylcyclohexène</td><td>8028-48-6</td><td>902</td><td>insecticide, fongicide</td></tr>
@@ -2264,7 +2272,6 @@ Annexe 1[^t-1]
 <tr><td>Quinmerac</td><td colspan="4">Acide 7-chloro-3-méthylquinoléine-8-carboxylique</td><td>90717-03-6</td><td>563</td><td>herbicide</td></tr>
 <tr><td>Quizalofop-P-éthyl</td><td colspan="4">ethyl (R)-2-[4-(6-chlorquinoxalin-2-yloxy) phenoxy] propionate</td><td>100646-51-3</td><td>641.202</td><td>herbicide</td></tr>
 <tr><td>Répulsif du gibier (matière de base)</td><td colspan="4"></td><td></td><td>–</td><td>répulsive du gibier</td></tr>
-<tr><td>Répulsifs olfactifs d’origine animale ou végétale / Huile de poisson</td><td colspan="4">Huile de poisson</td><td>100085-40-3</td><td></td><td>répulsif du gibier</td></tr>
 <tr><td>Rimsulfuron</td><td colspan="4">1-(4,6-dimethoxypyrimidin-2-yl)-3-(etylsulfonyl-2-pyridylsulfonyl)urea</td><td>122931-48-0</td><td>716</td><td>herbicide</td></tr>
 <tr><td>Savon de potassium</td><td colspan="4"></td><td></td><td>–</td><td>fongicide</td></tr>
 <tr><td>Sels minéraux</td><td colspan="4"></td><td></td><td>–</td><td>répulsive du gibier</td></tr>
@@ -2356,62 +2363,69 @@ Annexe 1[^t-1]
 ### Partie C: Macro-organismes
 
 <table>
-<tr><th>Nom commun, numéro d’identification</th><th>Description</th><th>Organisme</th><th>Type d’action exercée/ Conditions spécifiques</th></tr>
-<tr><td>Adalia bipunctata</td><td>Coléoptères prédateurs</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>[tab] Amblyseius andersoni</td><td>Acariens prédateurs</td><td>Acariens</td><td>insecticide, acaricide</td></tr>
-<tr><td>Amblyseius barkeri (mackenziei)</td><td>Acariens prédateurs</td><td>Acariens</td><td>insecticide</td></tr>
-<tr><td>Amblyseius californicus</td><td>Acariens prédateurs</td><td>Acariens</td><td>insecticide</td></tr>
-<tr><td>Amblyseius degenerans</td><td>Acariens prédateurs</td><td>Acariens</td><td>insecticide</td></tr>
-<tr><td>Anisopteromalus calandrae</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Anthocoris nemoralis</td><td>Punaises prédatrices</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Aphelinus abdominalis</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Aphidius colemani</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Aphidius ervi</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Aphidius matricariae</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Aphidoletes aphidimyza</td><td>Diptères prédateurs</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Aphytis melinus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Chrysoperla carnea</td><td>Névroptères prédateurs</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Coccophagus scutellaris</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Cryptolaemus montrouzieri</td><td>Coléoptères prédateurs</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Dacnusa sibirica</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Diglyphus isaea</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Encarsia formosa</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Encyrtus lecaniorum</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Ephedrus cerasicola</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Eretmocerus eremicus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Eretmocerus mundus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Eupeodes corollae</td><td>Diptères prédateurs</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Feltiella acarisuga</td><td>Cécidomyies prédatrices</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Habrobracon hebetor</td><td>Hymenoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Heterorhabditis bacteriophora</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>insecticide</td></tr>
-<tr><td>Heterorhabditis megidis</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>insecticide</td></tr>
-<tr><td>Heterorhabditis sp.</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>insecticide</td></tr>
-<tr><td>Hypoaspis aculeifer</td><td>Acariens prédateurs</td><td>Acariens</td><td>insecticide</td></tr>
-<tr><td>Lariophagus distinguendus</td><td>Hymenoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Leptomastidea abnormis</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Leptomastix dactylopii</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Macrolophus pigmaeus</td><td>Punaises prédatrices</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Metaphycus helvolus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Microterys flavus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Neoseiulus cucumeris (synonyme: Amblyseius cucumeris)</td><td>Acariens prédateurs</td><td>Acariens</td><td>insecticide</td></tr>
-<tr><td>Orius insidiosus</td><td>Punaises prédatrices</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Orius laevigatus</td><td>Punaises prédatrices</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Orius majusculus</td><td>Punaises prédatrices</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Phasmarhabditis hermaphrodita</td><td>Nématodes parasitaires de mollusques</td><td>Nématodes</td><td>molluscicide</td></tr>
-<tr><td>Phytoseiulus persimilis</td><td>Acariens prédateurs</td><td>Acariens</td><td>insecticide</td></tr>
-<tr><td>Praon volucre</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Pseudaphycus maculipennis</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Rodolia cardinalis</td><td>Coléoptères prédateurs</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Steinernema carpocapsae</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>insecticide</td></tr>
-<tr><td>Steinernema carpocapsae all strain</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>insecticide</td></tr>
-<tr><td>Steinernema feltiae</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>insecticide</td></tr>
-<tr><td>Stratiolaelaps scimitus</td><td>Acariens prédateurs</td><td>Acariens</td><td>insecticide</td></tr>
-<tr><td>Transeius montdorensis (synonymes: Amblyseius montdorensis et Typhlodromips montdorensis)</td><td>Acariens prédateurs</td><td>Acariens</td><td>insecticide, acaricide</td></tr>
-<tr><td>Trichogramma brassicae Bezdenko</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Trichogramma cacoeciae</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Trichogramma evanescens</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>[tab] Trichopria drosophilae</td><td>Hyménoptères parasites</td><td>Insectes</td><td>insecticide</td></tr>
-<tr><td>Typhlodromips swirskii</td><td>Acariens prédateurs</td><td>Acariens</td><td>insecticide</td></tr>
+<tr><th>Nom commun, numéro d’identification</th><th colspan="2">Description</th><th colspan="2">Organisme</th><th colspan="2">Type d’action exercée/ Conditions spécifiques</th></tr>
+<tr><td>Adalia bipunctata</td><td colspan="2">Coléoptères prédateurs</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>[tab] Amblyseius andersoni</td><td colspan="2">Acariens prédateurs</td><td colspan="2">Acariens</td><td colspan="2">insecticide, acaricide</td></tr>
+<tr><td>Amblyseius barkeri (mackenziei)</td><td colspan="2">Acariens prédateurs</td><td colspan="2">Acariens</td><td colspan="2">insecticide</td></tr>
+<tr><td>Amblyseius californicus</td><td colspan="2">Acariens prédateurs</td><td colspan="2">Acariens</td><td colspan="2">insecticide</td></tr>
+<tr><td>Amblyseius degenerans</td><td colspan="2">Acariens prédateurs</td><td colspan="2">Acariens</td><td colspan="2">insecticide</td></tr>
+<tr><td colspan="2">Anagyrus vladimiri</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td colspan="2">Anastatus bifasciatus</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Anisopteromalus calandrae</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Anthocoris nemoralis</td><td colspan="2">Punaises prédatrices</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Aphelinus abdominalis</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Aphidius colemani</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Aphidius ervi</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Aphidius matricariae</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Aphidoletes aphidimyza</td><td colspan="2">Diptères prédateurs</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Aphytis melinus</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td colspan="2">Cephalonomia tarsalis</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Chrysoperla carnea</td><td colspan="2">Névroptères prédateurs</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Coccophagus scutellaris</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Cryptolaemus montrouzieri</td><td colspan="2">Coléoptères prédateurs</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Dacnusa sibirica</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Diglyphus isaea</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td colspan="2">Encarsia citrina</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Encarsia formosa</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Encyrtus lecaniorum</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Ephedrus cerasicola</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Eretmocerus eremicus</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Eretmocerus mundus</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Eupeodes corollae</td><td colspan="2">Diptères prédateurs</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td colspan="2">Exochomus quadripustulatus</td><td colspan="2">Coléoptères prédateurs</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Feltiella acarisuga</td><td colspan="2">Cécidomyies prédatrices</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Habrobracon hebetor</td><td colspan="2">Hymenoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Heterorhabditis bacteriophora</td><td colspan="2">Nématodes entomoparasitiques</td><td colspan="2">Nématodes</td><td colspan="2">insecticide</td></tr>
+<tr><td colspan="2">Heterorhabditis downesi</td><td colspan="2">Nématodes entomoparasitiques</td><td colspan="2">Nématodes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Heterorhabditis megidis</td><td colspan="2">Nématodes entomoparasitiques</td><td colspan="2">Nématodes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Hypoaspis aculeifer</td><td colspan="2">Acariens prédateurs</td><td colspan="2">Acariens</td><td colspan="2">insecticide</td></tr>
+<tr><td>Lariophagus distinguendus</td><td colspan="2">Hymenoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Leptomastidea abnormis</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Leptomastix dactylopii</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Macrolophus pigmaeus</td><td colspan="2">Punaises prédatrices</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Metaphycus helvolus</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Microterys flavus</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Neoseiulus cucumeris (synonyme: Amblyseius cucumeris)</td><td colspan="2">Acariens prédateurs</td><td colspan="2">Acariens</td><td colspan="2">insecticide</td></tr>
+<tr><td>Orius insidiosus</td><td colspan="2">Punaises prédatrices</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Orius laevigatus</td><td colspan="2">Punaises prédatrices</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Orius majusculus</td><td colspan="2">Punaises prédatrices</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Phasmarhabditis hermaphrodita</td><td colspan="2">Nématodes parasitaires de mollusques</td><td colspan="2">Nématodes</td><td colspan="2">molluscicide</td></tr>
+<tr><td>Phytoseiulus persimilis</td><td colspan="2">Acariens prédateurs</td><td colspan="2">Acariens</td><td colspan="2">insecticide</td></tr>
+<tr><td>Praon volucre</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td colspan="2">Pronematus ubiquitus</td><td colspan="2">Acariens prédateurs</td><td colspan="2">Acariens</td><td colspan="2">acaricide</td></tr>
+<tr><td>Pseudaphycus maculipennis</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Rodolia cardinalis</td><td colspan="2">Coléoptères prédateurs</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td colspan="2">Sphaerophoria rueppellii</td><td colspan="2">Diptères prédateurs</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Steinernema carpocapsae</td><td colspan="2">Nématodes entomoparasitiques</td><td colspan="2">Nématodes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Steinernema carpocapsae all strain</td><td colspan="2">Nématodes entomoparasitiques</td><td colspan="2">Nématodes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Steinernema feltiae</td><td colspan="2">Nématodes entomoparasitiques</td><td colspan="2">Nématodes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Stratiolaelaps scimitus</td><td colspan="2">Acariens prédateurs</td><td colspan="2">Acariens</td><td colspan="2">insecticide</td></tr>
+<tr><td>Transeius montdorensis (synonymes: Amblyseius montdorensis et Typhlodromips montdorensis)</td><td colspan="2">Acariens prédateurs</td><td colspan="2">Acariens</td><td colspan="2">insecticide, acaricide</td></tr>
+<tr><td>Trichogramma brassicae Bezdenko</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Trichogramma cacoeciae</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Trichogramma evanescens</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>[tab] Trichopria drosophilae</td><td colspan="2">Hyménoptères parasites</td><td colspan="2">Insectes</td><td colspan="2">insecticide</td></tr>
+<tr><td>Typhlodromips swirskii</td><td colspan="2">Acariens prédateurs</td><td colspan="2">Acariens</td><td colspan="2">insecticide</td></tr>
 </table>
 
 ### Partie D: Substances de base
@@ -2457,28 +2471,18 @@ Annexe 1[^t-1]
 <tr><td>Benzovindiflupyr</td><td>1072957-71-1</td></tr>
 <tr><td>Bromuconazole</td><td>116255-48-2</td></tr>
 <tr><td>Chlortoluron</td><td>15545-48-9</td></tr>
-<tr><td>Cyperméthrine</td><td>52315-07-8</td></tr>
-<tr><td>Cyprodinil</td><td>121552-61-2</td></tr>
-<tr><td>Difenoconazole</td><td>119446-68-3</td></tr>
-<tr><td>Diflufenican</td><td>83164-33-4</td></tr>
-<tr><td>Emamectin benzoate</td><td>155569-91-8</td></tr>
-<tr><td>Étofenprox</td><td>80844-07-1</td></tr>
+<tr><td>Composés de cuivre</td><td>–</td></tr>
+<tr><td>*Variante* (sous forme d’hydroxide): copper(II) hydroxide</td><td>20427-59-2</td></tr>
+<tr><td>*Variante* (sous forme de bouillie bordelaise): A mixture of calcium hydroxide and copper(II) sulfate</td><td>8011-63-0</td></tr>
+<tr><td>*Variante* (sous forme d’octanate): copper octanoate</td><td>20543-04-8</td></tr>
+<tr><td>*Variante* (sous forme d’oxychlorure): dicopper chloride trihydroxide</td><td>1332-65-6, 1332-40-7</td></tr>
+<tr><td>*Variante* (sous forme sulfate de cuivre tribasique)</td><td>12527-76-3</td></tr>
 <tr><td>Étoxazole</td><td>153233-91-1</td></tr>
 <tr><td>Fludioxonil</td><td>131341-86-1</td></tr>
 <tr><td>Flufenacet</td><td>142459-58-3</td></tr>
 <tr><td>Fluopicolide</td><td>239110-15-7</td></tr>
 <tr><td>Flurochloridon</td><td>61213-25-0</td></tr>
 <tr><td>Imazamox</td><td>114311-32-9</td></tr>
-<tr><td>Cuivre</td><td>12002-03-8</td></tr>
-<tr><td>*Variante* (sous forme de carbonate, alcalin): [μ‑[carbonato(2−)‑κO:κO']]dihydroxydicopper</td><td>12069-69-1</td></tr>
-<tr><td>*Variante* (sous forme d’hydroxide): copper(II) hydroxide</td><td>20427-59-2</td></tr>
-<tr><td>*Variante* (sous forme d’hydroxide chlorocalcique)</td><td></td></tr>
-<tr><td>*Variante* (sous forme de poudres par bouillie bordelaise): A mixture of calcium hydroxide and copper(II) sulfate</td><td>8011-63-0</td></tr>
-<tr><td>*Variante* (sous forme de naphthenate): copper naphthenate</td><td>1338-02-9</td></tr>
-<tr><td>*Variante* (sous forme d’octanate): copper octanoate</td><td>20543-04-8</td></tr>
-<tr><td>*Variante* (sous forme d’oxychlorure): dicopper chloride trihydroxide</td><td>1332-40-7</td></tr>
-<tr><td>*Variante* (sous forme de sulphate): copper(II) tetraoxosulfate</td><td>7758-98-7</td></tr>
-<tr><td>*Variante* (hexahydroxysulphate de tétracuivre): cupric sulfate‑tricupric hydroxide</td><td>1333-22-8</td></tr>
 <tr><td>Lambda-Cyhalothrin</td><td>91465-08-6</td></tr>
 <tr><td>Lenacile</td><td>2164-08-1</td></tr>
 <tr><td>Metconazole</td><td>125116-23-6</td></tr>
@@ -2630,7 +2634,7 @@ Annexe 5[^t-4]
 
 [^annex5-lvlu1-lvl1-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
 [^annex5-lvlu1-lvl1-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^annex5-lvlu1-lvl1-3]: RS **813.112****.****1**
+[^annex5-lvlu1-lvl1-3]: [RS 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
 
 ### 2. Substances chimiques
 
@@ -3086,9 +3090,9 @@ Les services d’évaluation évaluent, en tenant compte des modèles statistiqu
 
 ### 9BI-2.4.2.4Résidus dans les produits d’origine animale
 
-Les services d’évaluation évaluent les teneurs en résidus observées dans les produits d’origine animale en tenant compte des éléments d’information prévus à l’annexe II, partie A, ch. 8.4, de la directive 91/414/CEE[^annex9-partI-lvlu2-lvld4e204-lvlu22-1] et des résidus provenant d’autres utilisations.
+Les services d’évaluation évaluent les teneurs en résidus observées dans les produits d’origine animale en tenant compte des éléments d’information prévus à l’annexe II, partie A, ch. 8.4, de la directive 91/414/CEE[^annex9-partI-lvlu2-lvld4e205-lvlu22-1] et des résidus provenant d’autres utilisations.
 
-[^annex9-partI-lvlu2-lvld4e204-lvlu22-1]: Voir note relative à l’art. 86, al. 1, let. a
+[^annex9-partI-lvlu2-lvld4e205-lvlu22-1]: Voir note relative à l’art. 86, al. 1, let. a
 
 ### 9BI-2.4.2.5Risque d’exposition des consommateurs dans le cadre de leur alimentation
 
@@ -3106,7 +3110,7 @@ Lors de l’évaluation du sort et de la diffusion du produit phytosanitaire dan
 
 ### 9BI-2.5.1.1Sort et diffusion dans le sol
 
-<sup>1</sup> Les services d’évaluation apprécient la possibilité que le produit phytosanitaire atteigne le sol dans les conditions d’utilisation proposées; si cette possibilité est réelle, ils évaluent la vitesse et les voies de dégradation dans le sol, la mobilité dans le sol et l’évolution de la concentration totale (extractible et non extractible[^annex9-partI-lvlu2-lvld4e204-lvlu27-1]) de la substance active, des métabolites et des produits de dégradation et de réaction qui devrait se produire dans le sol de la zone d’utilisation envisagée après l’application du produit phytosanitaire selon les conditions proposées.
+<sup>1</sup> Les services d’évaluation apprécient la possibilité que le produit phytosanitaire atteigne le sol dans les conditions d’utilisation proposées; si cette possibilité est réelle, ils évaluent la vitesse et les voies de dégradation dans le sol, la mobilité dans le sol et l’évolution de la concentration totale (extractible et non extractible[^annex9-partI-lvlu2-lvld4e205-lvlu27-1]) de la substance active, des métabolites et des produits de dégradation et de réaction qui devrait se produire dans le sol de la zone d’utilisation envisagée après l’application du produit phytosanitaire selon les conditions proposées.
 
 <sup>2</sup> Cette évaluation s’appuie sur les éléments d’information suivants:
 
@@ -3127,7 +3131,7 @@ Lors de l’évaluation du sort et de la diffusion du produit phytosanitaire dan
 - c. tous les éléments d’information sur le produit phytosanitaire qui sont prévus à l’annexe 6, ch. 2, y compris ceux relatifs à la diffusion et à la dégradation dans le sol;
 - d. le cas échéant, les autres utilisations autorisées, dans la zone d’utilisation proposée, de produits phytosanitaires contenant la même substance active ou produisant les mêmes résidus.
 
-[^annex9-partI-lvlu2-lvld4e204-lvlu27-1]: Les résidus non extractibles présents dans les végétaux et dans les sols se définissent comme étant des espèces chimiques provenant de pesticides utilisés selon la bonne pratique agricole, qu’il n’est pas possible d’extraire par des méthodes qui ne modifient pas sensiblement la nature chimique desdits résidus. Ces résidus non extractibles sont réputés exclure tous fragments par transformation métabolique en produits naturels.
+[^annex9-partI-lvlu2-lvld4e205-lvlu27-1]: Les résidus non extractibles présents dans les végétaux et dans les sols se définissent comme étant des espèces chimiques provenant de pesticides utilisés selon la bonne pratique agricole, qu’il n’est pas possible d’extraire par des méthodes qui ne modifient pas sensiblement la nature chimique desdits résidus. Ces résidus non extractibles sont réputés exclure tous fragments par transformation métabolique en produits naturels.
 
 ### 9BI-2.5.1.2Sort et diffusion dans les eaux souterraines
 
@@ -3410,14 +3414,14 @@ Les services d’évaluation évaluent le contenu réel en substance active du p
 <sup>1</sup> Les services d’évaluation évaluent les propriétés physiques et chimiques du produit phytosanitaire, et notamment:
 
 - a. lorsqu’il existe une norme FAO adéquate, les propriétés physiques et chimiques visées dans cette norme;
-- b. lorsqu’il n’existe pas de norme FAO adéquate, toutes les propriétés physiques et chimiques pertinentes pour la formulation, telles qu’elles sont exposées dans le *«Manuel pour le développement et l’utilisation des normes FAO pour les produits de protection des plantes»*[^annex9-partI-lvlu2-lvld4e204-lvlu44-1].
+- b. lorsqu’il n’existe pas de norme FAO adéquate, toutes les propriétés physiques et chimiques pertinentes pour la formulation, telles qu’elles sont exposées dans le *«Manuel pour le développement et l’utilisation des normes FAO pour les produits de protection des plantes»*[^annex9-partI-lvlu2-lvld4e205-lvlu44-1].
 
 <sup>2</sup> Cette évaluation s’appuie sur les éléments d’information suivants:
 
 - a. les données relatives aux propriétés physiques et chimiques de la substance active prévues à l’annexe 5, ch. 2, et les résultats de leur évaluation;
 - b. les données relatives aux propriétés physiques et chimiques du produit phytosanitaire prévues à l’annexe 6, ch. 2.
 
-[^annex9-partI-lvlu2-lvld4e204-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
+[^annex9-partI-lvlu2-lvld4e205-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
 
 ### 9BI-2.7.3Mélange
 
@@ -3533,9 +3537,9 @@ Les instructions proposées pour le nettoyage du matériel d’application doive
 
 <sup>1</sup> Il n’est pas accordé d’autorisation si le niveau d’exposition de l’opérateur pendant la manipulation et l’application du produit phytosanitaire dans les conditions d’utilisation proposées (et notamment le dosage et le mode d’application) dépasse le NAEO.
 
-<sup>2</sup> En outre, la délivrance de l’autorisation est subordonnée au respect de la concentration maximale établie pour la substance active et/ou les composants toxiques du produit en application de l’ordonnance du DFI du 16 décembre 2016 sur les limites maximales applicables aux résidus de pesticides présents dans ou sur les produits d’origine végétale ou animale[^annex9-partI-lvlu3-lvld4e257-lvlu19-1].
+<sup>2</sup> En outre, la délivrance de l’autorisation est subordonnée au respect de la concentration maximale établie pour la substance active et/ou les composants toxiques du produit en application de l’ordonnance du DFI du 16 décembre 2016 sur les limites maximales applicables aux résidus de pesticides présents dans ou sur les produits d’origine végétale ou animale[^annex9-partI-lvlu3-lvld4e258-lvlu19-1].
 
-[^annex9-partI-lvlu3-lvld4e257-lvlu19-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex9-partI-lvlu3-lvld4e258-lvlu19-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.1.2Vêtement ou équipement de protection
 
@@ -3567,9 +3571,9 @@ Les autorisations doivent assurer que les résidus proviennent des quantités de
 
 <sup>1</sup> Lorsqu’il n’existe pas de concentration maximale, les services d’évaluation établissent une concentration maximale provisoire. Les conclusions relatives aux niveaux fixés doivent être applicables dans toutes les conditions de nature à influencer les niveaux de résidus qui subsistent dans les cultures, telles que le calendrier, la dose, la fréquence et le mode d’application.
 
-<sup>2</sup> Se fondant sur l’évaluation de la teneur potentielle en résidus dans et sur les parties de végétaux et les produits végétaux comestibles établie par les services d’évaluation compétents et sur l’OPOVA[^annex9-partI-lvlu3-lvld4e257-lvlu27-1], l’OSAV établit la teneur maximale en substances actives.
+<sup>2</sup> Se fondant sur l’évaluation de la teneur potentielle en résidus dans et sur les parties de végétaux et les produits végétaux comestibles établie par les services d’évaluation compétents et sur l’OPOVA[^annex9-partI-lvlu3-lvld4e258-lvlu27-1], l’OSAV établit la teneur maximale en substances actives.
 
-[^annex9-partI-lvlu3-lvld4e257-lvlu27-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex9-partI-lvlu3-lvld4e258-lvlu27-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.2.3DJA
 
@@ -3600,9 +3604,9 @@ Lorsque les végétaux ou produits végétaux traités sont destinés à l’ali
 
 ### 9CI-2.5.1.2Sort et comportement dans les eaux souterraines
 
-Il n’est pas accordé d’autorisation lorsque la concentration prévisible de la substance active ou des métabolites pertinents et produits de dégradation ou de réaction dans les eaux souterraines utilisées comme eau de boisson ou destinées à l’être ne satisfait pas aux exigences de l’annexe 2, ch. 22, OEaux[^annex9-partI-lvlu3-lvld4e257-lvlu34-1].
+Il n’est pas accordé d’autorisation lorsque la concentration prévisible de la substance active ou des métabolites pertinents et produits de dégradation ou de réaction dans les eaux souterraines utilisées comme eau de boisson ou destinées à l’être ne satisfait pas aux exigences de l’annexe 2, ch. 22, OEaux[^annex9-partI-lvlu3-lvld4e258-lvlu34-1].
 
-[^annex9-partI-lvlu3-lvld4e257-lvlu34-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex9-partI-lvlu3-lvld4e258-lvlu34-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 
 ### 9CI-2.5.1.3Sort et comportement dans les eaux superficielles
 
@@ -4226,11 +4230,11 @@ Il convient de traiter les différents stades de développement/cycles de vie du
 
 <sup>2</sup> Les informations sur l’origine et les propriétés (par ex. spécificité) du micro-organisme et de ses métabolites/toxines résiduels, ainsi que sur les utilisations prévues du micro-organisme, constituent la base de l’évaluation du devenir et du comportement dans l’environnement. Il importe de tenir compte du mode d’action du micro-organisme.
 
-<sup>3</sup> Une évaluation est faite sur le devenir et le comportement de tout métabolite pertinent connu qui est produit par le micro-organisme. L’évaluation est effectuée pour chaque compartiment de l’environnement et est déclenchée sur la base des critères spécifiés dans la section 7, point iv), de l’annexe II B de la directive 91/414[^annex9-partII-lvlu2-lvld4e317-lvlu44-1].
+<sup>3</sup> Une évaluation est faite sur le devenir et le comportement de tout métabolite pertinent connu qui est produit par le micro-organisme. L’évaluation est effectuée pour chaque compartiment de l’environnement et est déclenchée sur la base des critères spécifiés dans la section 7, point iv), de l’annexe II B de la directive 91/414[^annex9-partII-lvlu2-lvld4e318-lvlu44-1].
 
 <sup>4</sup> Lors de l’évaluation du devenir et du comportement dans l’environnement du produit phytosanitaire, les services d’évaluation considèrent tous les aspects de l’environnement, y compris les biotas. La possibilité de persistance et de multiplication des micro-organismes doit être évaluée dans tous les milieux environnementaux, sauf s’il peut être justifié que des micro-organismes particuliers n’atteindront pas un milieu spécifique. La mobilité des micro-organismes et de leurs métabolites/toxines résiduels doit être prise en considération.
 
-[^annex9-partII-lvlu2-lvld4e317-lvlu44-1]: Voir note relative à l’art. 86, al. 1, let a
+[^annex9-partII-lvlu2-lvld4e318-lvlu44-1]: Voir note relative à l’art. 86, al. 1, let a
 
 ### 9BII-2.7.1Risque pour les eaux
 
@@ -4455,9 +4459,9 @@ Le service d’homologation informe les demandeurs de toute mesure visée aux le
 
 <sup>10</sup> L’autorisation n’est pas accordée si des métabolites/toxines pertinents (c’est-à-dire ceux susceptibles d’affecter la santé humaine et/ou l’environnement) que l’on sait être produits par le micro-organisme et/ou par des contaminants microbiens sont présents dans le produit phytosanitaire, sauf s’il peut être démontré que la quantité présente reste à un niveau acceptable, avant et après l’utilisation prévue.
 
-<sup>11</sup> Le service d’homologation fait en sorte que des mesures de contrôle qualité adéquates soient mises en œuvre afin de garantir l’identité du micro-organisme et le contenu du produit phytosanitaire. Ces mesures de contrôle qualité doivent comprendre un système d’analyse des risques et maîtrise des points critiques (HACCP[^annex9-partII-lvlu3-lvld4e394-1]) ou un système équivalent.
+<sup>11</sup> Le service d’homologation fait en sorte que des mesures de contrôle qualité adéquates soient mises en œuvre afin de garantir l’identité du micro-organisme et le contenu du produit phytosanitaire. Ces mesures de contrôle qualité doivent comprendre un système d’analyse des risques et maîtrise des points critiques (HACCP[^annex9-partII-lvlu3-lvld4e395-1]) ou un système équivalent.
 
-[^annex9-partII-lvlu3-lvld4e394-1]: FAO & WHO. 2003. Recommended international codex of practice. General principles of food hygiene, CAC/RCP 1 - 1969, Rev. 4-2003, including «Annex on Hazard Analysis Critical Control Point (HACCP) System and Guidelines for its Application»
+[^annex9-partII-lvlu3-lvld4e395-1]: FAO & WHO. 2003. Recommended international codex of practice. General principles of food hygiene, CAC/RCP 1 - 1969, Rev. 4-2003, including «Annex on Hazard Analysis Critical Control Point (HACCP) System and Guidelines for its Application»
 
 ### 9CII-2 Principes spécifiques
 
@@ -4471,9 +4475,9 @@ Pour chaque autorisation octroyée, le service d’homologation fait en sorte qu
 
 ### 9CII-2.2.1 Teneur minimale et maximale de micro-organismes
 
-Des informations suffisantes doivent être fournies pour permettre d’estimer la teneur minimale et maximale de micro-organismes dans le matériau utilisé pour la fabrication des produits phytosanitaires, ainsi que dans le produit phytosanitaire. La teneur en autres composants et formulants du produit phytosanitaire et en micro-organismes contaminants issus du processus de production doit, dans la mesure du possible, être suffisamment définie. Le service d’homologation fait en sorte que le niveau des organismes contaminants soit contrôlé à un niveau acceptable. En outre, il y a lieu de préciser la nature et l’état physiques du produit phytosanitaire, de préférence conformément au «Catalogue des types de formulation de pesticides et système de code international[^annex9-partII-lvlu3-lvld4e395-lvlu3-1].
+Des informations suffisantes doivent être fournies pour permettre d’estimer la teneur minimale et maximale de micro-organismes dans le matériau utilisé pour la fabrication des produits phytosanitaires, ainsi que dans le produit phytosanitaire. La teneur en autres composants et formulants du produit phytosanitaire et en micro-organismes contaminants issus du processus de production doit, dans la mesure du possible, être suffisamment définie. Le service d’homologation fait en sorte que le niveau des organismes contaminants soit contrôlé à un niveau acceptable. En outre, il y a lieu de préciser la nature et l’état physiques du produit phytosanitaire, de préférence conformément au «Catalogue des types de formulation de pesticides et système de code international[^annex9-partII-lvlu3-lvld4e396-lvlu3-1].
 
-[^annex9-partII-lvlu3-lvld4e395-lvlu3-1]: Monographie technique internationale CropLife no 2, 5<sup>e</sup> édition, 2002
+[^annex9-partII-lvlu3-lvld4e396-lvlu3-1]: Monographie technique internationale CropLife no 2, 5<sup>e</sup> édition, 2002
 
 ### 9CII-2.2.2Résistances
 
@@ -4608,12 +4612,12 @@ Les périodes de sécurité d’attente et de réentrée et autres précautions 
 
 ### 9CII-2.6.1.9Conditions de l’autorisation
 
-Les conditions de l’autorisation doivent être en conformité avec la directive 98/24/CE[^annex9-partII-lvlu3-lvld4e395-lvlu37-1] et avec la directive 2000/54/CE[^annex9-partII-lvlu3-lvld4e395-lvlu37-2]. Les données expérimentales et les informations fournies en ce qui concerne la reconnaissance des symptômes d’infection ou de pathogénicité et l’efficacité des premiers soins et des mesures thérapeutiques doivent être examinées. Les conditions de l’autorisation seront également en conformité avec la directive 2004/37/CE[^annex9-partII-lvlu3-lvld4e395-lvlu37-3]. Les conditions de l’autorisation doivent également être en conformité avec la directive 89/656/CEE[^annex9-partII-lvlu3-lvld4e395-lvlu37-4].
+Les conditions de l’autorisation doivent être en conformité avec la directive 98/24/CE[^annex9-partII-lvlu3-lvld4e396-lvlu37-1] et avec la directive 2000/54/CE[^annex9-partII-lvlu3-lvld4e396-lvlu37-2]. Les données expérimentales et les informations fournies en ce qui concerne la reconnaissance des symptômes d’infection ou de pathogénicité et l’efficacité des premiers soins et des mesures thérapeutiques doivent être examinées. Les conditions de l’autorisation seront également en conformité avec la directive 2004/37/CE[^annex9-partII-lvlu3-lvld4e396-lvlu37-3]. Les conditions de l’autorisation doivent également être en conformité avec la directive 89/656/CEE[^annex9-partII-lvlu3-lvld4e396-lvlu37-4].
 
-[^annex9-partII-lvlu3-lvld4e395-lvlu37-1]: Directive 98/24/CE du Conseil du 7 avril 1998 concernant la protection de la santé et de la sécurité des travailleurs contre les risques liés à des agents chimiques sur le lieu de travail, JO L 131 du 5.5.1998, p. 11; modifiée en dernier lieu par la directive 2007/30/CE, JO L 165 du 27.6.2007, p. 21.
-[^annex9-partII-lvlu3-lvld4e395-lvlu37-2]: Directive 2000/54/CE du Parlement européen et du Conseil du 18 sept. 2000 concernant la protection des travailleurs contre les risques liés à l’exposition à des agents biologiques au travail dans la version du JO L 262 du 17.10.2000, p. 21.
-[^annex9-partII-lvlu3-lvld4e395-lvlu37-3]: Directive 2004/37/CE du Parlement européen et du Conseil du 29 avril 2004 concernant la protection des travailleurs contre les risques liés à l’exposition à des agents cancérigènes ou mutagènes au travail dans la version du JO L 204 du 4.8.2007, p. 28.
-[^annex9-partII-lvlu3-lvld4e395-lvlu37-4]: Directive 89/656/CEE du Conseil du 30 nov. 1989 concernant les prescriptions minimales de sécurité et de santé pour l’utilisation par les travailleurs au travail d’équipements de protection individuelle, JO L 393 du 30.12.1989, p. 18; modifiée en dernier lieu par la directive 2007/30/CE, JO L 165 du 27.6.2007, p. 21.
+[^annex9-partII-lvlu3-lvld4e396-lvlu37-1]: Directive 98/24/CE du Conseil du 7 avril 1998 concernant la protection de la santé et de la sécurité des travailleurs contre les risques liés à des agents chimiques sur le lieu de travail, JO L 131 du 5.5.1998, p. 11; modifiée en dernier lieu par la directive 2007/30/CE, JO L 165 du 27.6.2007, p. 21.
+[^annex9-partII-lvlu3-lvld4e396-lvlu37-2]: Directive 2000/54/CE du Parlement européen et du Conseil du 18 sept. 2000 concernant la protection des travailleurs contre les risques liés à l’exposition à des agents biologiques au travail dans la version du JO L 262 du 17.10.2000, p. 21.
+[^annex9-partII-lvlu3-lvld4e396-lvlu37-3]: Directive 2004/37/CE du Parlement européen et du Conseil du 29 avril 2004 concernant la protection des travailleurs contre les risques liés à l’exposition à des agents cancérigènes ou mutagènes au travail dans la version du JO L 204 du 4.8.2007, p. 28.
+[^annex9-partII-lvlu3-lvld4e396-lvlu37-4]: Directive 89/656/CEE du Conseil du 30 nov. 1989 concernant les prescriptions minimales de sécurité et de santé pour l’utilisation par les travailleurs au travail d’équipements de protection individuelle, JO L 393 du 30.12.1989, p. 18; modifiée en dernier lieu par la directive 2007/30/CE, JO L 165 du 27.6.2007, p. 21.
 
 ### 9CII-2.6.2Effets sur la santé humaine ou animale découlant des résidus
 
@@ -4761,14 +4765,14 @@ Tout emballage de produit phytosanitaire doit porter de manière lisible et ind�
   - 14\.5 l’usage ou la consommation;
 
 - 15\. des indications concernant, le cas échéant, la phytotoxicité, la sensibilité variétale et tout autre effet secondaire direct ou indirect défavorable sur les produits végétaux ou les produits d’origine végétale, ainsi que les délais à observer entre l’application et le semis ou la plantation de la culture concernée ou des cultures suivantes et adjacentes;
-- 16\. la phrase « Lire les instructions ci-jointes avant l’emploi» dans le cas où une notice est jointe au produit conformément à l’art. 56, al. 2;
+- 16\. la phrase «Lire les instructions ci-jointes avant l’emploi» dans le cas où une notice est jointe au produit conformément à l’art. 56, al. 2;
 - 17\. des instructions pour un entreposage dans des conditions adaptées et pour l’élimination , en toute sécurité, du produit phytosanitaire et de son emballage;
 - 18\. la date de péremption, lorsque le produit phytosanitaire se conserve moins de deux ans dans des conditions de conservation conformes aux prescriptions;
 - 19\. l’interdiction de réutiliser l’emballage du produit;
 - 20\. les pictogrammes de danger, avertissements, indications de danger et consignes de sécurité résultant de la classification selon l’art. 18, al. 4;
 - 21\. lorsque l’utilisation du produit est limitée à certaines catégories d’utilisateurs, les catégories autorisées à l’utiliser.
 
-[^annex11-lvlu1-1]: Les règles de nomenclature IUPAC peuvent être consultées auprès de l’Union internationale de chimie pure et appliquée sous www.iupac.org
+[^annex11-lvlu1-1]: Les règles de nomenclature IUPAC peuvent être consultées auprès de l’Union internationale de chimie pure et appliquée sous [www.iupac.org](http://www.iupac.org/)
 
 Annexe 12[^t-11]
 
