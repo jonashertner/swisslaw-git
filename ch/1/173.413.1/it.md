@@ -4,11 +4,11 @@ title: Regolamento del 28 settembre 2011 del Tribunale federale dei brevetti (RT
 short: RTFB
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/892"
 language: it
-version: 2018-08-01
+version: 2023-07-01
 adopted: 2011-09-28
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/892/20180801/it/xml/fedlex-data-admin-ch-eli-cc-2011-892-20180801-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/892/20180801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/892/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2011-892-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/892/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/892/20180801/it"
 
 (RTFB)
 
-del 28 settembre 2011 (Stato 1° agosto 2018)
+del 28 settembre 2011 (Stato 1° luglio 2023)
 
 Il Tribunale federale dei brevetti,
 
@@ -126,7 +126,12 @@ Il primo cancelliere è competente per:
 
 <sup>3</sup> Per il dibattimento il collegio giudicante è completato, se necessario, dopo il secondo scambio di scritti. Se una decisione del Tribunale è indispensabile prima di questo momento, il collegio giudicante è completato per tempo.
 
-<sup>4</sup> I giudici sono scelti secondo le loro conoscenze specifiche. Occorre fare in modo che le cause siano ripartite il più equamente possibile tra i giudici.
+<sup>4</sup> I giudici sono scelti secondo le loro conoscenze specifiche e le loro conoscenze linguistiche. Occorre fare in modo che le cause siano ripartite il più equamente possibile tra i giudici.[^7-1]
+
+<sup>5</sup> Un collegio giudicante può essere modificato soltanto per motivi oggettivi importanti. Il capoverso 4 si applica per analogia. Le parti sono informate dei motivi della modifica.[^7-2]
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del TFB del 30 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 299](https://fedlex.data.admin.ch/eli/oc/2023/299)).
+[^7-2]: Introdotto dal n. I dell’O del TFB del 30 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 299](https://fedlex.data.admin.ch/eli/oc/2023/299)).
 
 #### Art. 8
 
@@ -178,9 +183,12 @@ Se la domanda di ricusazione è contestata, la Commissione amministrativa decide
 
 <sup>1</sup> Il Tribunale giudica mediante circolazione degli atti o deliberazione orale non pubblica.
 
-<sup>2</sup> Il presidente dirige la procedura per circolazione degli atti.
+<sup>2</sup> ...[^12-1]
 
-<sup>3</sup> Il presidente, se fa parte del collegio giudicante, dirige i dibattimenti e le deliberazioni orali. Negli altri casi, la direzione spetta al giudice dell’istruttoria.
+<sup>3</sup> Il giudice dell’istruttoria dirige la procedura per circolazione degli atti, i dibattimenti e le deliberazioni orali.[^12-2]
+
+[^12-1]: Abrogato dal n. I dell’O del TFB del 30 mag. 2023, con effetto dal 1° lug. 2023 ([RU 2023 299](https://fedlex.data.admin.ch/eli/oc/2023/299)).
+[^12-2]: Nuovo testo giusta il n. I dell’O del TFB del 30 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 299](https://fedlex.data.admin.ch/eli/oc/2023/299)).
 
 #### Art. 13
 
@@ -207,7 +215,11 @@ Se la domanda di ricusazione è contestata, la Commissione amministrativa decide
 
 #### Art. 15
 
-Nei locali del Tribunale federale dei brevetti sono vietate riprese e registrazioni.
+[^15-1]
+
+Nei locali del Tribunale federale dei brevetti sono vietate riprese e registrazioni senza il previo consenso del presidente.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del TFB del 30 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 299](https://fedlex.data.admin.ch/eli/oc/2023/299)).
 
 ## Sezione 6: Disposizione finale
 

@@ -4,11 +4,11 @@ title: Règlement du 28 septembre 2011 du Tribunal fédéral des brevets (RTFB)
 short: RTFB
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/892"
 language: fr
-version: 2018-08-01
+version: 2023-07-01
 adopted: 2011-09-28
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/892/20180801/fr/xml/fedlex-data-admin-ch-eli-cc-2011-892-20180801-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/892/20180801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/892/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2011-892-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/892/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/892/20180801/fr"
 
 (RTFB)
 
-du 28 septembre 2011 (État le 1<sup>er</sup> août 2018)
+du 28 septembre 2011 (État le 1<sup>er</sup> juillet 2023)
 
 Le Tribunal fédéral des brevets,
 
@@ -128,7 +128,12 @@ Il lui incombe:
 
 <sup>3</sup> Pour les débats principaux, la cour est au besoin complétée après le deuxième échange d’écritures. Si une décision du tribunal est requise auparavant, la cour est complétée à ce stade déjà.
 
-<sup>4</sup> Les juges sont désignés en fonction de leurs domaines d’expertise. Il convient, dans ce cadre, de veiller à une répartition équilibrée des affaires entre les juges.
+<sup>4</sup> Les juges sont désignés en fonction de leurs domaines d’expertise et compétences linguistiques. Il convient, dans ce cadre, de veiller à une répartition équilibrée des affaires entre les juges.[^7-1]
+
+<sup>5</sup> Un collège de juges ne peut être adapté que pour des raisons objectives importantes. L’al. 4, est applicable par analogie. Les parties sont informées des raisons de l’adaptation.[^7-2]
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du TFB du 30 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 299](https://fedlex.data.admin.ch/eli/oc/2023/299)).
+[^7-2]: Introduit par le ch. I de l’O du TFB du 30 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 299](https://fedlex.data.admin.ch/eli/oc/2023/299)).
 
 #### Art. 8
 
@@ -182,9 +187,12 @@ Si la demande de récusation est contestée, la Commission administrative statue
 
 <sup>1</sup> Le tribunal statue sur une affaire par voie de circulation ou lors d’une délibération non publique.
 
-<sup>2</sup> La procédure par voie de circulation est dirigée par le président.
+<sup>2</sup> ...[^12-1]
 
-<sup>3</sup> Les audiences et délibérations sont dirigées par le président si ce dernier fait partie de la cour appelée à statuer. Dans les autres cas, cette tâche incombe au juge instructeur.
+<sup>3</sup> La procédure par voie de circulation, les audiences et les délibérations sont dirigées par le juge instructeur.[^12-2]
+
+[^12-1]: Abrogé par le ch. I de l’O du TFB du 30 mai 2023, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 299](https://fedlex.data.admin.ch/eli/oc/2023/299)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du TFB du 30 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 299](https://fedlex.data.admin.ch/eli/oc/2023/299)).
 
 #### Art. 13
 
@@ -211,7 +219,11 @@ Si la demande de récusation est contestée, la Commission administrative statue
 
 #### Art. 15
 
-Les prises de son ou de vues sont interdites dans l’enceinte du Tribunal fédéral des brevets.
+[^15-1]
+
+Les prises de son ou de vues sont interdites dans l’enceinte du Tribunal fédéral des brevets sans l’accord préalable du président.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du TFB du 30 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 299](https://fedlex.data.admin.ch/eli/oc/2023/299)).
 
 ## Section 6 Disposition finale
 

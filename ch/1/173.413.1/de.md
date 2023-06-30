@@ -4,11 +4,11 @@ title: Geschäftsreglement vom 28. September 2011 für das Bundespatentgericht (
 short: GR-PatGer
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/892"
 language: de
-version: 2018-08-01
+version: 2023-07-01
 adopted: 2011-09-28
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/892/20180801/de/xml/fedlex-data-admin-ch-eli-cc-2011-892-20180801-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/892/20180801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/892/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2011-892-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/892/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/892/20180801/de"
 
 (GR-PatGer)
 
-vom 28. September 2011 (Stand am 1. August 2018)
+vom 28. September 2011 (Stand am 1. Juli 2023)
 
 Das Bundespatentgericht (BPatGer),
 
@@ -126,7 +126,12 @@ Sie oder er ist zuständig für:
 
 <sup>3</sup> Für die Hauptverhandlung wird der Spruchkörper nach dem zweiten Schriftenwechsel nötigenfalls ergänzt. Ist vorher schon ein Entscheid des Gerichts erforderlich, so wird der Spruchkörper entsprechend früher ergänzt.
 
-<sup>4</sup> Die Richterinnen und Richter werden nach ihrer Sachkunde ausgewählt. Dabei ist eine möglichst ausgeglichene Belastung der Richterinnen und Richter anzustreben.
+<sup>4</sup> Die Richterinnen und Richter werden nach ihrer Sachkunde und ihren Sprachkenntnissen ausgewählt. Dabei ist eine möglichst ausgeglichene Belastung der Richterinnen und Richter anzustreben.[^7-1]
+
+<sup>5</sup> Eine Anpassung eines Spruchkörpers kann nur aus wichtigen sachlichen Gründen erfolgen. Absatz 4 ist sinngemäss anwendbar. Die Parteien werden über die Gründe für die Anpassung informiert.[^7-2]
+
+[^7-1]: Fassung gemäss Ziff. I der V des BPatGer vom 30. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 299](https://fedlex.data.admin.ch/eli/oc/2023/299)).
+[^7-2]: Eingefügt durch Ziff. I der V des BPatGer vom 30. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 299](https://fedlex.data.admin.ch/eli/oc/2023/299)).
 
 #### Art. 8
 
@@ -177,9 +182,12 @@ Die Verwaltungskommission entscheidet unter Ausschluss der betroffenen Gerichtsp
 
 <sup>1</sup> Die Entscheidfindung erfolgt auf dem Weg der Aktenzirkulation oder durch nicht öffentliche, mündliche Beratung.
 
-<sup>2</sup> Das Zirkulationsverfahren wird von der Präsidentin oder vom Präsidenten geleitet.
+<sup>2</sup> …[^12-1]
 
-<sup>3</sup> Parteiverhandlungen und mündliche Beratungen werden von der Präsidentin oder vom Präsidenten geleitet, sofern sie oder er zum Spruchkörper gehört. In den übrigen Fällen liegt die Leitung bei der Instruktionsrichterin oder beim Instruktionsrichter.
+<sup>3</sup> Das Zirkulationsverfahren, Parteiverhandlungen und mündliche Beratungen werden von der Instruktionsrichterin oder vom Instruktionsrichtergeleitet.[^12-2]
+
+[^12-1]: Aufgehoben durch Ziff. I der V des BPatGer vom 30. Mai 2023, mit Wirkung seit 1. Juli 2023 ([AS 2023 299](https://fedlex.data.admin.ch/eli/oc/2023/299)).
+[^12-2]: Fassung gemäss Ziff. I der V des BPatGer vom 30. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 299](https://fedlex.data.admin.ch/eli/oc/2023/299)).
 
 #### Art. 13
 
@@ -206,7 +214,11 @@ Die Verwaltungskommission entscheidet unter Ausschluss der betroffenen Gerichtsp
 
 #### Art. 15
 
-Bild- und Tonaufnahmen sind in den Räumlichkeiten des Bundespatentgerichts untersagt.
+[^15-1]
+
+Bild- und Tonaufnahmen sind ohne vorgängige Zustimmung der Präsidentin oder des Präsidenten in den Räumlichkeiten des Bundespatentgerichts untersagt.
+
+[^15-1]: Fassung gemäss Ziff. I der V des BPatGer vom 30. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 299](https://fedlex.data.admin.ch/eli/oc/2023/299)).
 
 ## 6. Abschnitt: Schlussbestimmung
 
