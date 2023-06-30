@@ -2,24 +2,24 @@
 canton: BL
 number: "180"
 title: Gesetz über die Organisation und die Verwaltung der Gemeinden
-short: Gemeindegesetz
+short: "Gemeindegesetz, GemG"
 language: de
-version: 2023-04-01
-valid_until: 2023-06-30
-version_adopted: 2022-09-15
+version: 2023-07-01
+valid_until: 2023-12-31
+version_adopted: 2023-02-09
 adopted: 1970-05-28
 in_force: 1972-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/180"
-pdf: "https://bl.clex.ch/api/de/versions/3548/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3593/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Organisation und die Verwaltung der Gemeinden
 
-(Gemeindegesetz)
+(Gemeindegesetz, GemG)
 
-Vom 28.05.1970 (Stand 01.04.2023)
+Vom 28.05.1970 (Stand 01.07.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -114,7 +114,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die Mitglieder des Regierungsrats und des Kantonsgerichts sowie die Gemeindeangestellten dürfen nicht den Gemeindebehörden und den Kontrollorganen angehören. Lehrkräfte an Gemeinde- oder an Kreisschulen dürfen nicht den Behörden und Kontrollorganen der Gemeinde bzw. der beteiligten Gemeinden angehören, ausser die Gemeindeordnung sieht die Vereinbarkeit vor. Vorbehalten sind die besonderen, für die einzelnen Gemeindebehörden geltenden Unvereinbarkeiten und Vereinbarkeiten.
 
-<sup>2</sup> Die Gemeindeangestellten dürfen dem Einwohnerrat sowie den kollegial zusammengesetzten Hilfsorganen (§§ 104 bis 106) angehören. Nebenbeschäftigte Gemeindeangestellte dürfen mit Bewilligung des Regierungsrats dem Gemeinderat angehören.
+<sup>2</sup> Die Gemeindeangestellten dürfen dem Einwohnerrat sowie den kollegial zusammengesetzten Hilfsorganen (§§ 104–106) angehören. Nebenbeschäftigte Gemeindeangestellte dürfen mit Bewilligung des Regierungsrats dem Gemeinderat sowie den übrigen Gemeindebehörden (§§ 91–95) angehören.
 
 <sup>3</sup> Der Regierungsrat bezeichnet die Funktionen in der kantonalen Verwaltung, die mit der Mitgliedschaft in bestimmten Gemeindebehörden und Kontrollorganen unvereinbar sind.
 
@@ -908,17 +908,20 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Ein Beschluss der Gemeindeversammlung wird der Urnenabstimmung unterstellt, wenn dies 10% der Stimmberechtigten verlangen. Bei mehr als 5'000 Stimmberechtigten genügen 500 Unterschriften.
 
-<sup>2</sup> Das Begehren ist innert 30 Tagen seit der Beschlussfassung einzureichen.
+<sup>2</sup> Das Begehren ist innert 30 Tagen seit der Beschlussfassung einzureichen. Für die Berechnung der Frist gilt sinngemäss das Gesetz über die politischen Rechte[^49-1].
+
+<sup>2<sup>bis</sup></sup> Die Urnenabstimmung über einen Ablehnungsbeschluss erfolgt über diejenige Fassung des Geschäfts, die in der Schlussabstimmung abgelehnt worden ist.
 
 <sup>3</sup> Vom Referendum sind ausgenommen:
 
 - a. Beschlüsse über Budget, Nachtragskredite zum Budget, Rechnung und Steuerfuss;
 - b. Wahlen;
-- c. Gemeindebegehren gemäss § 49 Absatz 1 der Kantonsverfassung[^49-1];
-- d. Ablehnungsbeschlüsse;
+- c. Gemeindebegehren gemäss § 49 Absatz 1 der Kantonsverfassung[^49-2];
+- d. …
 - e. Verfahrensbeschlüsse (Protokollgenehmigung, Behandlungsreihenfolge, Eintreten, Rückweisung, Kenntnisnahme, Erheblicherklärung und dgl.).
 
-[^49-1]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de/art49)
+[^49-1]: [SGS 120](https://bl.clex.ch/data/120/de)
+[^49-2]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de/art49)
 
 #### § 49a
 
@@ -1658,6 +1661,8 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die Geschäftsprüfungskommission kann in die Akten sämtlicher Organe und Verwaltungszweige Einsicht nehmen, soweit sie diese zur Erfüllung des gesetzlichen Auftrags benötigt. Soweit es zur Wahrung schutzwürdiger privater Interessen, zum Schutz der Persönlichkeit oder aus Rücksicht auf ein hängiges Verfahren unerlässlich ist, können die Organe und Verwaltungsstellen anstelle der Herausgabe von Amtsakten einen besonderen Bericht erstatten.
 
+<sup>1<sup>bis</sup></sup> Die Geschäftsprüfungskommission kann für komplexe Sachverhalte und Fragen aussenstehende Fachpersonen zuziehen.
+
 <sup>2</sup> Die Mitglieder der Organe und der Verwaltungsstellen sind verpflichtet, der Geschäftsprüfungskommission Auskunft zu erteilen.
 
 ### 3.3.1.6.3 Zusammengelegte Kontrollorgane
@@ -2137,7 +2142,7 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Die Bürgergemeinde kann eine Geschäftsprüfungskommission wählen. Sie kann auch einen Ausschuss der Bürgerkommission oder die Rechnungsprüfungskommission mit den Aufgaben der Geschäftsprüfungskommission beauftragen.
 
-<sup>3</sup> Die §§ 98 bis 103 gelten sinngemäss.
+<sup>3</sup> Die §§ 98–103a gelten sinngemäss.
 
 #### § 149
 
