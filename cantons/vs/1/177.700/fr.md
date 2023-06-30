@@ -4,21 +4,21 @@ number: "177.700"
 title: "Ordonnance sur l'assistance judiciaire"
 short: OAJ
 language: fr
-version: 2011-01-01
-corrected: 2017-07-18
-version_adopted: 2010-06-09
+version: 2023-07-01
+version_adopted: 2023-05-24
 adopted: 2010-06-09
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/177.700"
-pdf: "https://lex.vs.ch/api/fr/versions/624/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3218/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur l'assistance judiciaire (OAJ)
+# Ordonnance sur l'assistance judiciaire
 
-du 9 juin 2010
+(OAJ)
+
+du 09.06.2010 (état 01.07.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -30,7 +30,7 @@ sur la proposition du Département de la sécurité, des affaires sociales et de
 
 ordonne:
 
-### Section 1: Conseil juridique commis d'office
+## 1 Conseil juridique commis d'office
 
 #### Art. 1
 
@@ -52,9 +52,9 @@ ordonne:
 
 **Fin du mandat**
 
-L'autorité saisie de la cause peut mettre fin en tout temps au mandat d'office, de son propre chef ou sur requête motivée du conseil juridique commis d'office ou de l'assisté.
+<sup>1</sup> L'autorité saisie de la cause peut mettre fin en tout temps au mandat d'office, de son propre chef ou sur requête motivée du conseil juridique commis d'office ou de l'assisté.
 
-### Section 2: Procédure
+## 2 Procédure
 
 #### Art. 4
 
@@ -88,7 +88,9 @@ L'autorité saisie de la cause peut mettre fin en tout temps au mandat d'office,
 
 **Décision**
 
-L'autorité compétente statue sans débat, à bref délai, après que les intéressés ont pu faire valoir leur droit d'être entendus et, en principe, avant qu'il ne soit statué dans la procédure principale.
+<sup>1</sup> L'autorité compétente statue sans débat, à bref délai, après que les intéressés ont pu faire valoir leur droit d'être entendus et, en principe, avant qu'il ne soit statué dans la procédure principale.
+
+<sup>2</sup> Elle statue, pour les affaires qui se déroulent en procédure administrative, sans débat, après que les intéressés ont pu faire valoir leur droit d'être entendus, et avant qu'il ne soit statué dans la procédure principale.
 
 #### Art. 8
 
@@ -98,7 +100,7 @@ L'autorité compétente statue sans débat, à bref délai, après que les inté
 
 <sup>2</sup> Le sort des dépens est renvoyé à fin de cause.
 
-### Section 3: Frais et dépens de la procédure principale
+## 3 Frais et dépens de la procédure principale
 
 #### Art. 9
 
@@ -109,6 +111,14 @@ L'autorité compétente statue sans débat, à bref délai, après que les inté
 <sup>2</sup> En fin de cause, lorsque les avances effectuées par la partie non assistée sont inférieures aux frais mis à sa charge, l'autorité lui facture le solde. Lorsque ces avances sont supérieures aux frais qu'elle doit supporter, l'autorité lui rembourse le surplus.
 
 <sup>3</sup> Les frais incombant à la partie assistée sont décomptés en vue de leur paiement par la collectivité tenue au financement.
+
+#### Art. 9a
+
+**Acompte**
+
+<sup>1</sup> Le conseil juridique peut déposer une demande d’acompte à laquelle il joint un décompte selon l’article 13 alinéa 1.
+
+<sup>2</sup> L’autorité saisie octroie un acompte si la procédure a engendré une charge de travail significative et qu’elle a débuté depuis plus d’une année ou qu’un délai d’un an s’est écoulé depuis l’octroi du dernier acompte.
 
 #### Art. 10
 
@@ -152,7 +162,7 @@ L'autorité compétente statue sans débat, à bref délai, après que les inté
 
 <sup>3</sup> Dans les autres cas, le décompte sera produit sous peine de déchéance dans le délai de l'article 12 alinéa 1, avec mention des frais de poursuite demeurés impayés, ainsi que des montants encaissés auprès de la partie adverse.
 
-### Section 4: Exécution des décisions d'assistance
+## 4 Exécution des décisions d'assistance
 
 #### Art. 14
 
@@ -178,9 +188,9 @@ L'autorité compétente statue sans débat, à bref délai, après que les inté
 
 **Contestations en matière de remboursement**
 
-L'obligation de rembourser fait l'objet d'une décision de l'organe d'exécution qui statue selon les dispositions de la loi sur la procédure et la juridiction administratives.
+<sup>1</sup> L'obligation de rembourser fait l'objet d'une décision de l'organe d'exécution qui statue selon les dispositions de la loi sur la procédure et la juridiction administratives.
 
-### Section 5: Dispositions transitoires et finales
+## 5 Dispositions transitoires et finales
 
 #### Art. 17
 
@@ -188,10 +198,14 @@ L'obligation de rembourser fait l'objet d'une décision de l'organe d'exécution
 
 <sup>2</sup> Les procédures d'assistance judiciaire, pendantes lors de l'entrée en vigueur de la présente ordonnance, sont régies par l'ancien droit.
 
-<sup>3</sup> La présente ordonnance sera publiée au Bulletin officiel pour entrer en vigueur simultanément à la loi sur l'assistance judiciaire du 11 février 2009.[^17-1]
+<sup>3</sup> La présente ordonnance sera publiée au Bulletin officiel pour entrer en vigueur simultanément à la loi sur l'assistance judiciaire du 11 février 2009.
 
-Ainsi adopté en Conseil d'Etat, à Sion, le 9 juin 2010.
+## T1 Disposition transitoire de la modification du 24 mai 2023
 
-Le président du Conseil d'Etat: Jean-Michel Cina Le chancelier d'Etat: Philipp Spörri
+#### Art. T1-1
 
-[^17-1]: Entrée en vigueur le 1er janv. 2011
+**Procédures d’assistance judiciaire antérieures à la modification du 24 mai 2023**
+
+<sup>1</sup> Les procédures d'assistance judiciaire, pendantes lors de l’entrée en vigueur de la présente modification, sont régies par l'ancien droit.
+
+RCV BO/Abl. 26/2010

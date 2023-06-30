@@ -4,21 +4,21 @@ number: "177.700"
 title: Verordnung über den gerichtlichen Rechtsbeistand
 short: VGR
 language: de
-version: 2011-01-01
-corrected: 2017-07-18
-version_adopted: 2010-06-09
+version: 2023-07-01
+version_adopted: 2023-05-24
 adopted: 2010-06-09
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/177.700"
-pdf: "https://lex.vs.ch/api/de/versions/624/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3218/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den gerichtlichen Rechtsbeistand (VGR)
+# Verordnung über den gerichtlichen Rechtsbeistand
 
-vom 9. Juni 2010
+(VGR)
+
+vom 09.06.2010 (Stand 01.07.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -30,7 +30,7 @@ auf Antrag des Departements für Sicherheit, Sozialwesen und Integration,
 
 verordnet:
 
-### 1. Abschnitt: Amtlicher Rechtsbeistand
+## 1 Amtlicher Rechtsbeistand
 
 #### Art. 1
 
@@ -52,9 +52,9 @@ verordnet:
 
 **Beendigung des Mandats**
 
-Die angerufene Behörde kann jederzeit von sich aus oder auf begründetes Gesuch des amtlichen Rechtsbeistandes oder des Verbeiständeten hin das Offizialmandat aufheben.
+<sup>1</sup> Die angerufene Behörde kann jederzeit von sich aus oder auf begründetes Gesuch des amtlichen Rechtsbeistandes oder des Verbeiständeten hin das Offizialmandat aufheben.
 
-### 2. Abschnitt: Verfahren
+## 2 Verfahren
 
 #### Art. 4
 
@@ -88,7 +88,9 @@ Die angerufene Behörde kann jederzeit von sich aus oder auf begründetes Gesuch
 
 **Entscheid**
 
-Ist das rechtliche Gehör gewährleistet, entscheidet die zuständige Behörde ohne Verhandlung innert kurzer Frist und grundsätzlich bevor im Hauptverfahren entschieden wird.
+<sup>1</sup> Ist das rechtliche Gehör gewährleistet, entscheidet die zuständige Behörde ohne Verhandlung innert kurzer Frist und grundsätzlich bevor im Hauptverfahren entschieden wird.
+
+<sup>2</sup> Sie entscheidet bei Fällen, die im Verwaltungsverfahren stattfinden, ohne Aussprache, nachdem die Betroffenen ihren Anspruch auf rechtliches Gehör geltend machen konnten und bevor im Hauptverfahren entschieden wird.
 
 #### Art. 8
 
@@ -98,7 +100,7 @@ Ist das rechtliche Gehör gewährleistet, entscheidet die zuständige Behörde o
 
 <sup>2</sup> Der Entscheid über die Entschädigungen geht mit der Hauptsache.
 
-### 3. Abschnitt: Kosten und Entschädigung des Hauptverfahrens
+## 3 Kosten und Entschädigung des Hauptverfahrens
 
 #### Art. 9
 
@@ -109,6 +111,14 @@ Ist das rechtliche Gehör gewährleistet, entscheidet die zuständige Behörde o
 <sup>2</sup> Bei Abschluss des Verfahrens wird der nicht verbeiständeten Partei jener Teil der Kosten, der durch ihren Vorschuss nicht gedeckt ist oder diesen unterschreitet, in Rechnung gestellt oder zurückerstattet.
 
 <sup>3</sup> Die der verbeiständeten Partei obliegenden Kosten werden zuhanden des zahlungsverpflichteten Gemeinwesens abgerechnet.
+
+#### Art. 9a
+
+**Akontozahlung**
+
+<sup>1</sup> Der Rechtsbeistand kann ein Gesuch um Akontozahlung stellen, welchem er eine Abrechnung nach Artikel 13 Absatz 1 beifügt.
+
+<sup>2</sup> Die ersuchte Behörde gewährt eine Akontozahlung, wenn das Verfahren einen erheblichen Arbeitsaufwand verursacht hat und vor mehr als einem Jahr eingeleitet worden ist oder wenn seit der letzten Akontozahlung ein Jahr vergangen ist.
 
 #### Art. 10
 
@@ -152,7 +162,7 @@ Ist das rechtliche Gehör gewährleistet, entscheidet die zuständige Behörde o
 
 <sup>3</sup> In den übrigen Fällen ist die Abrechnung unter Androhung der Verfallsstrafe des Artikels 12 Absatz 1, mit dem Vermerk der unbezahlt gebliebenen Betreibungskosten sowie der bei der Gegenpartei einkassierten Beträge, zu hinterlegen.
 
-### 4. Abschnitt: Vollzug der Entscheide über den Rechtsbeistand
+## 4 Vollzug der Entscheide über den Rechtsbeistand
 
 #### Art. 14
 
@@ -178,9 +188,9 @@ Ist das rechtliche Gehör gewährleistet, entscheidet die zuständige Behörde o
 
 **Bestreitung der Rückerstattungsverfügung**
 
-Wenn die zur Rückzahlung angehaltene Person ihre Verpflichtung bestreitet, entscheidet das Vollzugsorgan unter Vorbehalt des Rekurses gemäss den Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege.
+<sup>1</sup> Wenn die zur Rückzahlung angehaltene Person ihre Verpflichtung bestreitet, entscheidet das Vollzugsorgan unter Vorbehalt des Rekurses gemäss den Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege.
 
-### 5. Abschnitt: Schluss- und Übergangsbestimmungen
+## 5 Schluss- und Übergangsbestimmungen
 
 #### Art. 17
 
@@ -188,10 +198,14 @@ Wenn die zur Rückzahlung angehaltene Person ihre Verpflichtung bestreitet, ents
 
 <sup>2</sup> Die im Zeitpunkt des Inkrafttretens dieser Verordnung hängigen Verfahren um Rechtsbeistand unterstehen dem alten Recht.
 
-<sup>3</sup> Die vorliegende Verordnung wird im Amtsblatt veröffentlicht um gleichzeitig mit dem Gesetz über die unentgeltliche Rechtspflege vom 11. Februar 2009 in Kraft zu treten.[^17-1]
+<sup>3</sup> Die vorliegende Verordnung wird im Amtsblatt veröffentlicht um gleichzeitig mit dem Gesetz über die unentgeltliche Rechtspflege vom 11. Februar 2009 in Kraft zu treten.
 
-So angenommen im Staatsrat zu Sitten, den 9. Juni 2010.
+## T1 Übergangsbestimmung der Änderung vom 24. Mai 2023
 
-Der Präsident des Staatsrates: Jean-Michel Cina Der Staatskanzler: Philipp Spörri
+#### Art. T1-1
 
-[^17-1]: Inkrafttreten am 1. Jan. 2011
+**Verfahren der unentgeltlichen Rechtspflege vor der Änderung vom 24. Mai 2023**
+
+<sup>1</sup> Die im Zeitpunkt des Inkrafttretens der vorliegenden Änderung hängigen Verfahren um unentgeltliche Rechtspflege unterstehen dem alten Recht.
+
+CSW BO/Abl. 26/2010
