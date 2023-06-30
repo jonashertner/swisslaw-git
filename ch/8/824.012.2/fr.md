@@ -4,11 +4,11 @@ title: Ordonnance du DEFR du 15 novembre 2017 sur le service civil de remplaceme
 short: OSCi-DEFR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/745"
 language: fr
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-745-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-745-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230101/fr"
 
 (OSCi-DEFR)
 
-du 15 novembre 2017 (État le 1<sup>er</sup> janvier 2023)
+du 15 novembre 2017 (État le 1<sup>er</sup> juillet 2023)
 
 Le Département fédéral de l’économie, de la formation et de la recherche (DEFR),
 
@@ -146,15 +146,17 @@ Le nombre de jours de service auquel les exploitations de pâturages communautai
 
 #### Art. 8
 
-**Argent de poche**
+**Argent de poche**[^8-1]
 
-### (art. 29, al. 1, let. a, de la loi du 6 octobre 1995 sur le service civil [LSC])
+### (art. 29, al. 1, let. a, de la loi fédérale du 6 octobre 1995 sur le service civil [LSC])
 
-[^8-1]
+[^8-2]
 
-L’établissement d’affectation verse à la personne en service un montant de 5 francs par jour de service pris en compte.
+Pour chaque jour de service pris en compte, l’établissement d’affectation verse à la personne en service une somme d’argent de poche correspondant au montant prévu pour la solde d’un soldat à l’art. 31, al. 1, de l’ordonnance du 21 février 2018 sur l’administration de l’armée[^8-3].
 
-[^8-1]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 10 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 234](https://fedlex.data.admin.ch/eli/oc/2023/234)).
+[^8-2]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^8-3]: [RS 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
 
 #### Art. 9
 

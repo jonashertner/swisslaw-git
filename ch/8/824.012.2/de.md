@@ -4,11 +4,11 @@ title: Verordnung des WBF vom 15. November 2017 über den zivilen Ersatzdienst (
 short: ZDV-WBF
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/745"
 language: de
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-745-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2017-745-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230101/de"
 
 (ZDV-WBF)
 
-vom 15. November 2017 (Stand am 1. Januar 2023)
+vom 15. November 2017 (Stand am 1. Juli 2023)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF),
 
@@ -146,15 +146,17 @@ Die den Gemeinschaftsweide- und Sömmerungsbetrieben zustehende Anzahl Diensttag
 
 #### Art. 8
 
-**Taschengeld**
+**Taschengeld**[^8-1]
 
 ### (Art. 29 Abs. 1 Bst. a Zivildienstgesetz vom 6. Okt. 1995 [ZDG])
 
-[^8-1]
+[^8-2]
 
-Der Einsatzbetrieb bezahlt der zivildienstleistenden Person pro anrechenbaren Tag ein Taschengeld von 5 Franken.
+Der Einsatzbetrieb bezahlt der zivildienstleistenden Person pro anrechenbaren Tag ein Taschengeld in Höhe des Soldes eines Soldaten nach Artikel 31 Absatz 1 der Verordnung vom 21. Februar 2018[^8-3] über die Verwaltung der Armee.
 
-[^8-1]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^8-1]: Fassung gemäss Ziff. I der V des WBF vom 10. Mai 2023, in Kraft seit 1. Juli 2023 (AS **202****3** 234).
+[^8-2]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^8-3]: [SR 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
 
 #### Art. 9
 
@@ -208,7 +210,7 @@ Für eine unumgängliche Benützung des privaten Motorfahrzeugs zur Bewältigung
 
 Die Verordnung des WBF vom 15. April 2004[^13-1] über Geldleistungen zugunsten zivildienstleistender Personen wird aufgehoben.
 
-[^13-1]: [[AS 2004 2083](https://fedlex.data.admin.ch/eli/oc/2004/239), [2007 3783](https://fedlex.data.admin.ch/eli/oc/2007/491), [2009 1127](https://fedlex.data.admin.ch/eli/oc/2009/179), [2011 159](https://fedlex.data.admin.ch/eli/oc/2011/22), [2016 1941](https://fedlex.data.admin.ch/eli/oc/2016/333)]
+[^13-1]: [[AS 2004 2083](https://fedlex.data.admin.ch/eli/oc/2004/239); [2007 3783](https://fedlex.data.admin.ch/eli/oc/2007/491); [2009 1127](https://fedlex.data.admin.ch/eli/oc/2009/179); [2011 159](https://fedlex.data.admin.ch/eli/oc/2011/22); [2016 1941](https://fedlex.data.admin.ch/eli/oc/2016/333)]
 
 #### Art. 14
 

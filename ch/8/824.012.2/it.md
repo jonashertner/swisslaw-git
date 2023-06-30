@@ -4,11 +4,11 @@ title: Ordinanza del DEFR del 15 novembre 2017 sul servizio civile (OSCi-DEFR)
 short: OSCi-DEFR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/745"
 language: it
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-745-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2017-745-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230101/it"
 
 (OSCi-DEFR)
 
-del 15 novembre 2017 (Stato 1° gennaio 2023)
+del 15 novembre 2017 (Stato 1° luglio 2023)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR),
 
@@ -146,15 +146,17 @@ Il numero di giorni di servizio a cui le aziende con pascoli comunitari e le azi
 
 #### Art. 8
 
-**Importo per le piccole spese personali**
+**Importo per le piccole spese personali**[^8-1]
 
 ### (art. 29 cpv. 1 lett. a della legge del 6 ottobre 1995 sul servizio civile, LSC)
 
-[^8-1]
+[^8-2]
 
-L’istituto d’impiego versa per ogni giorno di servizio computabile un importo di 5 franchi per le piccole spese personali alla persona che presta servizio civile.
+Per ogni giorno di servizio computabile, l’istituto d’impiego versa alla persona che presta servizio civile un importo per le piccole spese personali corrispondente al soldo di un soldato di cui all’articolo 31 capoverso 1 dell’ordinanza del 21 febbraio 2018[^8-3] concernente l’amministrazione dell’esercito.
 
-[^8-1]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^8-1]: Nuovo testo giusta il n. I dell’O del DEFR del 10 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 234](https://fedlex.data.admin.ch/eli/oc/2023/234)).
+[^8-2]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^8-3]: [RS 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
 
 #### Art. 9
 
