@@ -4,11 +4,11 @@ title: "Loi fédérale du 6 octobre 1995 sur les cartels et autres restrictions 
 short: LCart
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/546_546_546"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1995-10-06
 in_force: 1996-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20230701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20220101/fr"
 
 (Loi sur les cartels, LCart)
 
-du 6 octobre 1995 (Etat le 1<sup>er</sup> janvier 2022)
+du 6 octobre 1995 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,9 +25,9 @@ vu les art. 27, al. 1, 96[^ingress-1], 97, al. 2, et 122[^ingress-2] de la Const
 
 arrête:
 
-[^ingress-1]: Cette disp. correspond à l’art. 31<sup>bis</sup> de la cst. du 29 mai 1874 (RS **1** 3).
-[^ingress-2]: Cette disp. correspond à l’art. 64 de la cst. du 29 mai 1874 (RS **1** 3).
-[^ingress-3]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: Cette disp. correspond à l’art. 31<sup>bis</sup> de la cst. du 29 mai 1874 ([RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3).
+[^ingress-2]: Cette disp. correspond à l’art. 64 de la cst. du 29 mai 1874 ([RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3).
+[^ingress-3]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-4]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1911](https://fedlex.data.admin.ch/eli/fga/2002/265)[5128](https://fedlex.data.admin.ch/eli/fga/2002/848)).
 [^ingress-5]: [FF 1995 I 472](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)
 
@@ -67,7 +67,7 @@ Les prescriptions qui, sur un marché, excluent de la concurrence certains biens
 <sup>3</sup> Les procédures prévues par la présente loi en vue de l’appréciation des restrictions à la concurrence priment les procédures prévues par la loi fédérale du 20 décembre 1985 concernant la surveillance des prix[^3-2], sauf décision contraire prise d’un commun accord par la Commission de la concurrence et le Surveillant des prix.
 
 [^3-1]: Phrase introduite par le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1911](https://fedlex.data.admin.ch/eli/fga/2002/265)[5128](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^3-2]: [RS 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+[^3-2]: [RS 942.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11238)
 
 #### Art. 4
 
@@ -193,7 +193,7 @@ L’Assemblée fédérale peut, par voie d’arrêté de portée générale non 
 - b. assortir de conditions spéciales l’obligation de notifier des concentrations d’entreprises dans certaines branches de l’économie.
 
 [^9-1]: Abrogé par le ch. I de la LF du 20 juin 2003, avec effet au 1<sup>er</sup> avr. 2004 ([RO 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1911](https://fedlex.data.admin.ch/eli/fga/2002/265)[5128](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^9-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^9-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^9-3]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1911](https://fedlex.data.admin.ch/eli/fga/2002/265)[5128](https://fedlex.data.admin.ch/eli/fga/2002/848)).
 
 #### Art. 10
@@ -213,7 +213,7 @@ La Commission de la concurrence peut interdire la concentration ou l’autoriser
 
 <sup>4</sup> En évaluant les effets d’une concentration d’entreprises sur l’efficacité de la concurrence, la Commission de la concurrence tient aussi compte de l’évolution du marché ainsi que de la position des entreprises dans la concurrence internationale.
 
-[^10-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^10-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^10-2]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 11
@@ -240,7 +240,7 @@ La personne qu’une restriction illicite à la concurrence entrave dans l’acc
 
 <sup>3</sup> Les actions prévues à l’al. 1 peuvent aussi être intentées par la personne qui, en raison d’une restriction licite à la concurrence, subit une entrave plus grave que ne l’exigerait l’application de ladite restriction.
 
-[^12-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^12-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 13
 
@@ -326,7 +326,7 @@ Afin d’assurer la suppression ou la cessation de l’entrave à la concurrence
 
 <sup>3</sup> Si la récusation est contestée, la commission ou la chambre concernée statue en l’absence du membre en cause.
 
-[^22-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^22-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 23
 
@@ -504,7 +504,7 @@ La commission peut rapporter une autorisation ou décider l’examen d’une con
 
 La loi fédérale du 20 décembre 1968 sur la procédure administrative[^39-1] est applicable aux procédures, dans la mesure où il n’y est pas dérogé dans les dispositions qui suivent.
 
-[^39-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^39-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 40
 
@@ -512,7 +512,7 @@ La loi fédérale du 20 décembre 1968 sur la procédure administrative[^39-1] e
 
 Les parties à des ententes, les entreprises puissantes sur le marché, celles qui participent à des concentrations d’entreprises ainsi que les tiers concernés sont tenus de fournir aux autorités en matière de concurrence tous les renseignements utiles et de produire toutes les pièces nécessaires. Le droit de refuser de fournir des renseignements est régi par les art. 16 et 17 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^40-1].[^40-2]
 
-[^40-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^40-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^40-2]: Nouvelle teneur de la phrase selon le ch. I 3 de la LF du 28 sept. 2012 sur l’adaptation de disp. de procédure relatives au secret professionnel des avocats, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7509](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 
 #### Art. 41
@@ -530,8 +530,8 @@ Les services de la Confédération et des cantons sont tenus de coopérer aux re
 <sup>2</sup> Les autorités en matière de concurrence peuvent ordonner des perquisitions et saisir des pièces à conviction. Les art. 45 à 50 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^42-3] sont applicables par analogie à ces mesures de contrainte. Les perquisitions et saisies sont ordonnées, sur demande du secrétariat, par un membre de la présidence.
 
 [^42-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1911](https://fedlex.data.admin.ch/eli/fga/2002/265)[5128](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^42-2]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^42-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-2]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^42-3]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 42a
 
@@ -542,7 +542,7 @@ Les services de la Confédération et des cantons sont tenus de coopérer aux re
 <sup>2</sup> Si, lors d’une procédure engagée selon l’art. 11 de cet accord, une entreprise s’oppose à la vérification, des mesures d’enquête au sens de l’art. 42 peuvent être engagées à la demande de la Commission de la Communauté européenne; l’art. 44 est applicable.
 
 [^42a-1]: Introduit par le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1911](https://fedlex.data.admin.ch/eli/fga/2002/265)[5128](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^42a-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^42a-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
 
 #### Art. 42b
 
@@ -559,9 +559,9 @@ En l’absence du consentement des entreprises concernées, les autorités en ma
 - c. les données sont utilisées par l’autorité étrangère uniquement en vue de l’application des dispositions du droit des cartels et à titre de moyens de preuve en ce qui concerne l’objet de l’enquête auquel se rapporte sa requête;
 - d. les données ne sont pas utilisées dans le cadre d’une procédure pénale ou civile;
 - e. les droits des parties et le secret de fonction sont garantis dans le droit de procédure étranger, et
-- f. les données confidentielles ne sont pas communiquées à l’autorité étrangère dans le cadre d’un accord amiable (art. 29) ou de la coopération à la mise au jour et à la suppression d'une restriction à la concurrence (art. 49*a*, al. 2).
+- f. les données confidentielles ne sont pas communiquées à l’autorité étrangère dans le cadre d’un accord amiable (art. 29) ou de la coopération à la mise au jour et à la suppression d’une restriction à la concurrence (art. 49*a*, al. 2).
 
-<sup>3</sup> Avant de transmettre les données à l'autorité étrangère, les autorités en matière de concurrence informent les entreprises concernées et les invitent à prendre position.
+<sup>3</sup> Avant de transmettre les données à l’autorité étrangère, les autorités en matière de concurrence informent les entreprises concernées et les invitent à prendre position.
 
 [^42b-1]: Introduit par l’annexe à l’AF du 20 juin 2014 portant approbation et mise en oeuvre de l’Ac. entre la Suisse et l’UE concernant la coopération en matière d’application de leurs droits de la concurrence, en vigueur depuis le 1<sup>er</sup> déc. 2014 ([RO 2014 3711](https://fedlex.data.admin.ch/eli/oc/2014/645); [FF 2013 3477](https://fedlex.data.admin.ch/eli/fga/2013/859)).
 
@@ -583,7 +583,7 @@ Peuvent s’annoncer afin de participer à l’enquête concernant une restricti
 
 <sup>4</sup> Dans la procédure d’examen des concentrations d’entreprises, seules les entreprises participantes ont qualité de parties.
 
-[^43-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^43-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 44
 
@@ -635,7 +635,7 @@ Peuvent s’annoncer afin de participer à l’enquête concernant une restricti
 
 <sup>2</sup> La commission établit à l’intention du Conseil fédéral un rapport annuel d’activité.
 
-### Section 6 Sanctions administratives****
+### Section 6 Sanctions administratives
 
 [^chap4-sec6-1]
 
@@ -659,7 +659,7 @@ Aucune sanction n’est prise si:
 
 [^49a-1]: Introduit par le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1911](https://fedlex.data.admin.ch/eli/fga/2002/265)[5128](https://fedlex.data.admin.ch/eli/fga/2002/848)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
 [^49a-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [FF 2019 4665](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
-[^49a-3]: Rectifié par la CdR de l’Ass. féd. (art. 58 al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^49a-3]: Rectifié par la CdR de l’Ass. féd. (art. 58 al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 50
 
@@ -694,7 +694,7 @@ L’entreprise qui n’aura pas exécuté son obligation de renseigner ou de pro
 [^53-1]: Nouvelle teneur selon l’annexe ch. 27 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^53-2]: Abrogé par l’annexe ch. 27 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Section 7**** Émoluments
+### Section 7 Émoluments
 
 [^chap4-sec7-1]
 
@@ -730,11 +730,13 @@ Quiconque, intentionnellement, n’aura pas exécuté, ou ne l’aura fait qu’
 
 #### Art. 56
 
-**Prescription**
+**Prescription**[^56-1]
 
-<sup>1</sup> L’action pénale se prescrit par cinq ans pour les violations d’accords amiables et de décisions administratives (art. 54). Elle est en tout cas prescrite lorsque, du fait d’une interruption, ce délai est dépassé de moitié.
+<sup>1</sup> L’action pénale se prescrit par sept ans pour les violations d’accords amiables et de décisions administratives (art. 54).
 
-<sup>2</sup> Elle se prescrit par deux ans pour les autres infractions (art. 55).
+<sup>2</sup> Elle se prescrit par quatre ans pour les autres infractions (art. 55).
+
+[^56-1]: Nouvelle teneur selon le ch. I 3 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 57
 
@@ -744,7 +746,7 @@ Quiconque, intentionnellement, n’aura pas exécuté, ou ne l’aura fait qu’
 
 <sup>2</sup> L’autorité de poursuite est le secrétariat, d’entente avec un membre de la présidence. La commission statue.
 
-[^57-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^57-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Chapitre 6 Exécution d’accords internationaux
 
@@ -764,7 +766,7 @@ Quiconque, intentionnellement, n’aura pas exécuté, ou ne l’aura fait qu’
 
 <sup>2</sup> Si un accord amiable ne peut être réalisé à temps et qu’une partie à l’accord international menace de prendre des mesures à l’encontre de la Suisse, le DEFR peut, d’entente avec le Département fédéral des affaires étrangères, ordonner les mesures nécessaires à la suppression de la restriction à la concurrence.
 
-## Chapitre 6*a***** Évaluation
+## Chapitre 6*a* Évaluation
 
 [^chap6a-1]
 
@@ -819,7 +821,7 @@ Art. 18 à 25: 1<sup>er</sup> février 1996[^63-2]
 [^63-1]: O du 17 juin 1996 ([RO 1996 1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805))
 [^63-2]: ACF du 26 janv. 1996
 
-## Dispositions finales de la modification du 20 juin 2003****
+## Dispositions finales de la modification du 20 juin 2003
 
 [^u1-1]
 

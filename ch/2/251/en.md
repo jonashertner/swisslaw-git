@@ -4,11 +4,11 @@ title: "Federal Act of 6 October 1995 on Cartels and other Restraints of Competi
 short: CartA
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/546_546_546"
 language: en
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1995-10-06
 in_force: 1996-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20230701-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Cartel Act, CartA)
 
-of 6 October 1995 (Status as of 1 January 2022)
+of 6 October 1995 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation
 
@@ -29,7 +29,7 @@ decrees:
 
 [^ingress-1]: This provision corresponds to Art. 31<sup>bis</sup> of the Federal Constitution of 29 May 1874 [BS **1** 3].
 [^ingress-2]: This provision corresponds to Art. 64 of the Federal Constitution of 29 May 1874 [BS **1** 3].
-[^ingress-3]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-3]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-4]: Amended by No I of the FA of 20 June 2003, in force since 1 April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172)1390; [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)).
 [^ingress-5]: [BBl 1995 I 468](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)
 
@@ -69,7 +69,7 @@ Statutory provisions that do not allow for competition in a market for certain g
 <sup>3</sup> The procedures to assess restraints of competition under this Act shall take precedence over procedures under the Price Supervision Act of 20 December 1985[^3-2] unless the Competition Commission and the Price Supervisor jointly decide otherwise.
 
 [^3-1]: Sentence inserted by No I of the FA of 20 June 2003, in force since 1 April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172)1390; [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^3-2]: [SR 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+[^3-2]: [SR 942.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11238)
 
 #### Art. 4
 
@@ -195,7 +195,7 @@ The Federal Assembly may by general federal decree not subject to a referendum:
 - b. establish special criteria for the notification of concentrations in certain sectors of the economy.
 
 [^9-1]: Repealed by No I of the FA of 20 June 2003, with effect from 1 April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172)1390; [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^9-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^9-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^9-3]: Amended by No I of the FA of 20 June 2003, in force since 1 April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172)1390; [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)).
 
 #### Art. 10
@@ -215,7 +215,7 @@ The Competition Commission may prohibit a concentration or authorise it subject 
 
 <sup>4</sup> In assessing the effects of a concentration on the effectiveness of competition, the Competition Commission also takes account of any market developments and the position of the undertakings in relation to international competition.
 
-[^10-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^10-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^10-2]: Amended by Annex No 8 of the Financial Market Supervision Act of 22 June 2007, in force since 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); BBL **2006** 2829).
 
 #### Art. 11
@@ -242,7 +242,7 @@ A person hindered by an unlawful restraint of competition from entering or compe
 
 <sup>3</sup> The rights set out in paragraph 1 above are also accorded to persons who are hindered by a lawful restraint of competition more than is necessary for the implementation of that restraint.
 
-[^12-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^12-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 13
 
@@ -328,7 +328,7 @@ In order to enforce the right to elimination and desistance, the courts may, at 
 
 <sup>3</sup> If recusal is disputed, the Competition Commission or the relevant chamber shall decide in the absence of the member concerned.
 
-[^22-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^22-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 23
 
@@ -508,7 +508,7 @@ The Competition Commission may revoke an authorisation or decide to investigate 
 
 The Administrative Procedure Act of 20 December 1968[^39-1] applies to all procedures under this Act unless this Act stipulates otherwise.
 
-[^39-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^39-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 40
 
@@ -516,7 +516,7 @@ The Administrative Procedure Act of 20 December 1968[^39-1] applies to all proce
 
 Parties to agreements, undertakings with market power, undertakings concerned in concentrations and affected third parties shall provide the competition authorities with all the information required for their investigations and produce the necessary documents. The right to refuse to provide information is governed by Articles 16 and 17of the Administrative Procedure Act of 20 December 1968[^40-1].[^40-2]
 
-[^40-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^40-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^40-2]: Second sentence amended by No I 3 of the FA of 28 Sept. 2012 on the Amendment of Procedural Provisions on Lawyers' Professional Secrecy, in force since 1 May 2013 ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 
 #### Art. 41
@@ -534,8 +534,8 @@ Federal and cantonal government offices are required to co-operate with the comp
 <sup>2</sup> The competition authorities may order searches and seize any evidence. Articles 45–50 of the Federal Act of 22 March 1974[^42-3] on Administrative Criminal Law apply by analogy to these coercive measures. Searches and seizures are ordered by a member of the presiding body in response to a motion from the Secretariat.
 
 [^42-1]: Amended by No I of the FA of 20 June 2003, in force since 1 April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172)1390; [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^42-2]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^42-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-2]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^42-3]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 42a
 
@@ -546,7 +546,7 @@ Federal and cantonal government offices are required to co-operate with the comp
 <sup>2</sup> If an undertaking opposes a review in proceedings under Article 11 of the Agreement, investigative measures pursuant to Article 42 may be undertaken at the request of the European Commission. Article 44 applies.
 
 [^42a-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172)1390; [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^42a-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^42a-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
 
 #### Art. 42b
 
@@ -587,7 +587,7 @@ The following may come forward in order to take part in an investigation concern
 
 <sup>4</sup> In proceedings for the review of concentrations of undertakings, only the undertakings concerned have the rights of parties.
 
-[^43-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^43-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 44
 
@@ -639,7 +639,7 @@ The following may come forward in order to take part in an investigation concern
 
 <sup>2</sup> The Competition Commission shall submit an annual report to the Federal Council.
 
-### Section 6 Administrative Sanctions****
+### Section 6 Administrative Sanctions
 
 [^chap4-sec6-1]
 
@@ -697,7 +697,7 @@ Any undertaking that does not, or does not fully fulfil its obligation to provid
 [^53-1]: Amended by Annex No 27 of the Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^53-2]: Repealed by Annex No 27 of the Administrative Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Section 7**** Fees
+### Section 7 Fees
 
 [^chap4-sec7-1]
 
@@ -733,11 +733,13 @@ Any person who wilfully does not, or does not fully comply with a ruling of the 
 
 #### Art. 56
 
-**Limitation period**
+**Limitation period**[^56-1]
 
-<sup>1</sup> The power to prosecute violations of amicable settlements and administrative orders (Art. 54) is subject to a limitation period of five years. No suspension can extend the limitation period by more than half of its original duration.
+<sup>1</sup> The power to prosecute violations of amicable settlements and administrative orders (Art. 54) is subject to a limitation period of seven years.
 
-<sup>2</sup> The power to prosecute other offences (Art. 55) is subject to a limitation period of two years.
+<sup>2</sup> The power to prosecute other offences (Art. 55) is subject to a limitation period of four years.
+
+[^56-1]: Amended by No I 3 of the FA of 17 Dec. 2021 on the Harmonisation of Secondary Criminal Law with the Amended Law of Criminal Sanctions, in force since 1 July 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 57
 
@@ -747,7 +749,7 @@ Any person who wilfully does not, or does not fully comply with a ruling of the 
 
 <sup>2</sup> The prosecuting authority is the Secretariat in consultation with a member of the presiding body. The decision-making authority is the Competition Commission.
 
-[^57-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^57-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Chapter 6 Implementation of International Agreements
 
@@ -767,7 +769,7 @@ Any person who wilfully does not, or does not fully comply with a ruling of the 
 
 <sup>2</sup> If an amicable settlement cannot be reached in time and one party to the agreement threatens to take protective measures against Switzerland, the EAER may in consultation with the Federal Department of Foreign Affairs determine the measures necessary to eliminate the restraint of competition in a ruling.
 
-## Chapter 6*a***** Evaluation
+## Chapter 6*a* Evaluation
 
 [^chap6a-1]
 
@@ -815,7 +817,7 @@ The Cartel Act of 20 December 1985[^61-1] is repealed.
 
 <sup>2</sup> The Federal Council determines the commencement date.
 
-## Final provision to the amendment of 20 June 2003****
+## Final provision to the amendment of 20 June 2003
 
 [^u1-1]
 

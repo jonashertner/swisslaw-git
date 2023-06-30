@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 1995 über Kartelle und andere Wettbewerbsbe
 short: KG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/546_546_546"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1995-10-06
 in_force: 1996-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20230701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20220101/de"
 
 (Kartellgesetz, KG)
 
-vom 6. Oktober 1995 (Stand am 1. Januar 2022)
+vom 6. Oktober 1995 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -27,7 +27,7 @@ beschliesst:
 
 [^ingress-1]: Dieser Bestimmung entspricht Art. 31<sup>bis</sup> der BV vom 29. Mai 1874 [BS **1** 3].
 [^ingress-2]: Dieser Bestimmung entspricht Art. 64 der BV vom 29. Mai 1874 [BS **1** 3].
-[^ingress-3]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-3]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-4]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)).
 [^ingress-5]: [BBl 1995 I 468](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)
 
@@ -67,7 +67,7 @@ Vorbehalten sind Vorschriften, soweit sie auf einem Markt für bestimmte Waren o
 <sup>3</sup> Verfahren zur Beurteilung von Wettbewerbsbeschränkungen nach diesem Gesetz gehen Verfahren nach dem Preisüberwachungsgesetz vom 20. Dezember 1985[^3-2] vor, es sei denn die Wettbewerbskommission und der Preisüberwacher treffen gemeinsam eine gegenteilige Regelung.
 
 [^3-1]: Satz eingefügt durch Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^3-2]: [SR 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+[^3-2]: [SR 942.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11238)
 
 #### Art. 4
 
@@ -193,7 +193,7 @@ Die Bundesversammlung kann mit allgemeinverbindlichem, nicht referendumspflichti
 - b. für die Meldepflicht von Unternehmenszusammenschlüssen in einzelnen Wirtschaftszweigen besondere Voraussetzungen schaffen.
 
 [^9-1]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2003, mit Wirkung seit 1. April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^9-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^9-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^9-3]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)).
 
 #### Art. 10
@@ -213,7 +213,7 @@ Die Wettbewerbskommission kann den Zusammenschluss untersagen oder ihn mit Bedin
 
 <sup>4</sup> Bei der Beurteilung der Auswirkungen eines Zusammenschlusses auf die Wirksamkeit des Wettbewerbs berücksichtigt die Wettbewerbskommission auch die Marktentwicklung sowie die Stellung der Unternehmen im internationalen Wettbewerb.
 
-[^10-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^10-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^10-2]: Fassung gemäss Anhang Ziff. 8 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 11
@@ -240,7 +240,7 @@ Wer durch eine unzulässige Wettbewerbsbeschränkung in der Aufnahme oder Ausüb
 
 <sup>3</sup> Die in Absatz 1 genannten Ansprüche hat auch, wer durch eine zulässige Wettbewerbsbeschränkung über das Mass hinaus behindert wird, das zur Durchsetzung der Wettbewerbsbeschränkung notwendig ist.
 
-[^12-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^12-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 13
 
@@ -326,7 +326,7 @@ Zur Durchsetzung des Beseitigungs- und Unterlassungsanspruchs kann das Gericht a
 
 <sup>3</sup> Ist der Ausstand streitig, so entscheidet die Wettbewerbskommission oder die entsprechende Kammer unter Ausschluss des betreffenden Mitgliedes.
 
-[^22-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^22-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 23
 
@@ -506,7 +506,7 @@ Die Wettbewerbskommission kann eine Zulassung widerrufen oder die Prüfung eines
 
 Auf die Verfahren sind die Bestimmungen des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^39-1] anwendbar, soweit dieses Gesetz nicht davon abweicht.
 
-[^39-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^39-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 40
 
@@ -514,7 +514,7 @@ Auf die Verfahren sind die Bestimmungen des Verwaltungsverfahrensgesetzes vom 20
 
 Beteiligte an Abreden, marktmächtige Unternehmen, Beteiligte an Zusammenschlüssen sowie betroffene Dritte haben den Wettbewerbsbehörden alle für deren Abklärungen erforderlichen Auskünfte zu erteilen und die notwendigen Urkunden vorzulegen. Das Recht zur Verweigerung der Auskunft richtet sich nach den Artikeln 16 und 17 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^40-1] [^40-2].
 
-[^40-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^40-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^40-2]: Fassung des zweiten Satzes gemäss Ziff. I 3 des BG vom 28. Sept. 2012 über die Anpassung von verfahrensrechtlichen Bestimmungen zum anwaltlichen Berufsgeheimnis, in Kraft seit 1. Mai 2013 ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 
 #### Art. 41
@@ -532,8 +532,8 @@ Amtsstellen des Bundes und der Kantone sind verpflichtet, an Abklärungen der We
 <sup>2</sup> Die Wettbewerbsbehörden können Hausdurchsuchungen anordnen und Beweisgegenstände sicherstellen. Für diese Zwangsmassnahmen sind die Artikel 45–50 des Bundesgesetzes vom 22. März 1974[^42-3] über das Verwaltungsstrafrecht sinngemäss anwendbar. Hausdurchsuchungen und Beschlagnahmen werden auf Grund eines Antrages des Sekretariats von einem Mitglied des Präsidiums angeordnet.
 
 [^42-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^42-2]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^42-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-2]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^42-3]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 42a
 
@@ -544,7 +544,7 @@ Amtsstellen des Bundes und der Kantone sind verpflichtet, an Abklärungen der We
 <sup>2</sup> Widersetzt sich ein Unternehmen in einem auf Artikel 11 des Abkommens gestützten Verfahren der Nachprüfung, so können auf Ersuchen der Kommission der Europäischen Gemeinschaft Untersuchungsmassnahmen nach Artikel 42 vorgenommen werden; Artikel 44 ist anwendbar.
 
 [^42a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. April 2004 ([AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^42a-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^42a-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
 
 #### Art. 42b
 
@@ -585,7 +585,7 @@ Ihre Beteiligung an der Untersuchung einer Wettbewerbsbeschränkung können anme
 
 <sup>4</sup> Im Verfahren der Prüfung von Unternehmenszusammenschlüssen haben nur die beteiligten Unternehmen Parteirechte.
 
-[^43-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^43-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 44
 
@@ -637,7 +637,7 @@ Ihre Beteiligung an der Untersuchung einer Wettbewerbsbeschränkung können anme
 
 <sup>2</sup> Die Wettbewerbskommission erstattet dem Bundesrat jährlich einen Tätigkeitsbericht.
 
-### 6. Abschnitt: Verwaltungssanktionen****
+### 6. Abschnitt: Verwaltungssanktionen
 
 [^chap4-sec6-1]
 
@@ -695,7 +695,7 @@ Ein Unternehmen, das die Auskunftspflicht oder die Pflichten zur Vorlage von Urk
 [^53-1]: Fassung gemäss Anhang Ziff. 27 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^53-2]: Aufgehoben durch Anhang Ziff. 27 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### 7. Abschnitt:**** Gebühren
+### 7. Abschnitt: Gebühren
 
 [^chap4-sec7-1]
 
@@ -731,11 +731,13 @@ Wer vorsätzlich Verfügungen der Wettbewerbsbehörden betreffend die Auskunftsp
 
 #### Art. 56
 
-**Verjährung**
+**Verjährung**[^56-1]
 
-<sup>1</sup> Die Strafverfolgung für Widerhandlungen gegen einvernehmliche Regelungen und behördliche Anordnungen (Art. 54) verjährt nach fünf Jahren. Die Verjährungsfrist kann durch Unterbrechung um nicht mehr als die Hälfte hinausgeschoben werden.
+<sup>1</sup> Die Strafverfolgung für Widerhandlungen gegen einvernehmliche Regelungen und behördliche Anordnungen (Art. 54) verjährt nach sieben Jahren.
 
-<sup>2</sup> Die Strafverfolgung für andere Widerhandlungen (Art. 55) verjährt nach zwei Jahren.
+<sup>2</sup> Die Strafverfolgung für andere Widerhandlungen (Art. 55) verjährt nach vier Jahren.
+
+[^56-1]: Fassung gemäss Ziff. I 3 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 57
 
@@ -745,7 +747,7 @@ Wer vorsätzlich Verfügungen der Wettbewerbsbehörden betreffend die Auskunftsp
 
 <sup>2</sup> Verfolgende Behörde ist das Sekretariat im Einvernehmen mit einem Mitglied des Präsidiums. Urteilende Behörde ist die Wettbewerbskommission.
 
-[^57-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^57-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 6. Kapitel: Ausführung internationaler Abkommen
 
@@ -765,7 +767,7 @@ Wer vorsätzlich Verfügungen der Wettbewerbsbehörden betreffend die Auskunftsp
 
 <sup>2</sup> Kommt eine einvernehmliche Regelung nicht rechtzeitig zustande und drohen der Schweiz von der Vertragspartei Schutzmassnahmen, so kann das WBF im Einvernehmen mit dem Eidgenössischen Departement für auswärtige Angelegenheiten die Massnahmen verfügen, die zur Beseitigung der Wettbewerbsbeschränkung erforderlich sind.
 
-## 6*a*. Kapitel:**** Evaluation
+## 6*a*. Kapitel: Evaluation
 
 [^chap6a-1]
 
@@ -791,7 +793,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 
 Das Kartellgesetz vom 20. Dezember 1985[^61-1] wird aufgehoben.
 
-[^61-1]: [[AS 1986 874](https://fedlex.data.admin.ch/eli/oc/1986/874_874_874), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 12]
+[^61-1]: [[AS 1986 874](https://fedlex.data.admin.ch/eli/oc/1986/874_874_874); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 12]
 
 #### Art. 62
 
@@ -803,7 +805,7 @@ Das Kartellgesetz vom 20. Dezember 1985[^61-1] wird aufgehoben.
 
 <sup>3</sup> Rechtskräftige Verfügungen und angenommene Empfehlungen nach dem Kartellgesetz vom 20. Dezember 1985[^62-1] unterstehen auch bezüglich der Sanktionen dem bisherigen Recht.
 
-[^62-1]: [[AS 1986 874](https://fedlex.data.admin.ch/eli/oc/1986/874_874_874), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 12]
+[^62-1]: [[AS 1986 874](https://fedlex.data.admin.ch/eli/oc/1986/874_874_874); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 12]
 
 #### Art. 63
 
@@ -813,11 +815,11 @@ Das Kartellgesetz vom 20. Dezember 1985[^61-1] wird aufgehoben.
 
 <sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
 
-## Schlussbestimmung zur Änderung vom 20. Juni 2003****
+## Schlussbestimmung zur Änderung vom 20. Juni 2003
 
 [^u1-1]
 
-[^u1-1]: [AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265)[5506](https://fedlex.data.admin.ch/eli/fga/2002/848)
+[^u1-1]: [AS 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [BBl 2002 2022](https://fedlex.data.admin.ch/eli/fga/2002/265), [5506](https://fedlex.data.admin.ch/eli/fga/2002/848)
 
 Wird eine bestehende Wettbewerbsbeschränkung innert eines Jahres nach Inkrafttreten von Artikel 49*a* gemeldet oder aufgelöst, so entfällt eine Belastung nach dieser Bestimmung.
 

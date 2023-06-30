@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 1995 sui cartelli e altre limitazioni della
 short: LCart
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/546_546_546"
 language: it
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1995-10-06
 in_force: 1996-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/546_546_546/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1996-546_546_546-20230701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/20220101/it"
 
 (Legge sui cartelli, LCart)
 
-del 6 ottobre 1995 (Stato 1° gennaio 2022)
+del 6 ottobre 1995 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -27,7 +27,7 @@ decreta:
 
 [^ingress-1]: A questa disp. corrisponde l’art. 31<sup>bis</sup> della Cost. federale del 29 mag. 18 [CS **1** 3].
 [^ingress-2]: A questa disp. corrisponde l’art. 64 della Cost. federale del 29 mag. 1874 [CS **1** 3].
-[^ingress-3]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-3]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-4]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° apr. 2004 ([RU 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1835](https://fedlex.data.admin.ch/eli/fga/2002/265)[4927](https://fedlex.data.admin.ch/eli/fga/2002/848)).
 [^ingress-5]: [FF 1995 I 389](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)
 
@@ -67,7 +67,7 @@ Sono fatte salve le prescrizioni che vietano la concorrenza per determinati beni
 <sup>3</sup> Le procedure previste dalla presente legge in vista della valutazione delle limitazioni della concorrenza hanno il primato su quelle previste dalla legge federale del 20 dicembre 1985[^3-2] sulla sorveglianza dei prezzi, salvo disposizione contraria pattuita tra la Commissione della concorrenza e il Sorvegliante dei prezzi.
 
 [^3-1]: Per. introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° apr. 2004 ([RU 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1835](https://fedlex.data.admin.ch/eli/fga/2002/265)[4927](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^3-2]: [RS 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+[^3-2]: [RS 942.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11238)
 
 #### Art. 4
 
@@ -193,7 +193,7 @@ Mediante decreti federali di obbligatorietà generale non sottoposti al referend
 - b. vincolare a speciali esigenze l’obbligo dell’annuncio per le concentrazioni di imprese in determinati settori economici.
 
 [^9-1]: Abrogato dal n. I della LF del 20 giu. 2003, con effetto dal 1° apr. 2004 ([RU 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1835](https://fedlex.data.admin.ch/eli/fga/2002/265)[4927](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^9-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^9-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^9-3]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° apr. 2004 ([RU 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1835](https://fedlex.data.admin.ch/eli/fga/2002/265)[4927](https://fedlex.data.admin.ch/eli/fga/2002/848)).
 
 #### Art. 10
@@ -213,8 +213,8 @@ La Commissione della concorrenza può vietare la concentrazione o vincolarla a c
 
 <sup>4</sup> Nella valutazione delle ripercussioni di una concentrazione sull’efficacia della concorrenza, la Commissione della concorrenza tiene parimenti conto dell’evoluzione del mercato nonché della posizione dell’impresa nella concorrenza internazionale.
 
-[^10-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^10-2]: Nuovo testo giusta il n. 8 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^10-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^10-2]: Nuovo testo giusta l’all. n. 8 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 11
 
@@ -240,7 +240,7 @@ Chiunque è impedito nell’accesso o nell’esercizio della concorrenza da una 
 
 <sup>3</sup> Le azioni di cui al capoverso 1 competono anche alla persona che per causa di una limitazione lecita della concorrenza subisce un impedimento più grave di quello che esige l’attuazione della limitazione medesima.
 
-[^12-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^12-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 13
 
@@ -255,7 +255,7 @@ Per garantire il diritto alla soppressione o alla cessazione della limitazione d
 
 [^14-1]
 
-[^14-1]: Abrogato dal n. II 16 dell’all. 1 al codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^14-1]: Abrogato dall’all. 1 n. II 16 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 15
 
@@ -269,7 +269,7 @@ Per garantire il diritto alla soppressione o alla cessazione della limitazione d
 
 [^1617-1]
 
-[^1617-1]: Abrogati dal n. II 16 dell’all. 1 al codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^1617-1]: Abrogati dall’all. 1 n. II 16 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ## Capitolo 4: Disposizioni di procedura amministrativa
 
@@ -281,9 +281,9 @@ Per garantire il diritto alla soppressione o alla cessazione della limitazione d
 
 <sup>1</sup> Il Consiglio federale istituisce la Commissione della concorrenza e designa i membri della presidenza.[^18-1]
 
-<sup>2bis</sup> I membri della Commissione della concorrenza rendono noti i loro interessi in un registro degli interessi.[^18-2]
-
 <sup>2</sup> La Commissione è composta di 11 a 15 membri. La maggioranza dei membri devono essere esperti indipendenti.
+
+<sup>2bis</sup> I membri della Commissione della concorrenza rendono noti i loro interessi in un registro degli interessi.[^18-2]
 
 <sup>3</sup> La Commissione prende tutte le decisioni che non sono espressamente riservate ad altre autorità. Emana raccomandazioni (art. 45 cpv. 2) e preavvisi (art. 46 cpv. 2) all’indirizzo delle autorità politiche e fornisce pareri (art. 47 cpv. 1).
 
@@ -326,7 +326,7 @@ Per garantire il diritto alla soppressione o alla cessazione della limitazione d
 
 <sup>3</sup> Se la ricusazione è contestata, la Commissione o la pertinente camera decidono in assenza del membro interessato.
 
-[^22-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^22-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 23
 
@@ -416,8 +416,8 @@ Per garantire il diritto alla soppressione o alla cessazione della limitazione d
 
 <sup>4</sup> Su richiesta degli interessati, il Consiglio federale può prorogare l’autorizzazione se i requisiti del suo rilascio permangono adempiti.
 
-[^31-1]: Nuovo testo del per. giusta il n. 27 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^31-2]: Nuovo testo giusta il n. 27 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^31-1]: Nuovo testo del per. giusta l’all. n. 27 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^31-2]: Nuovo testo giusta l’all. n. 27 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Sezione 3: Esame delle concentrazioni di imprese
 
@@ -461,8 +461,8 @@ Se una concentrazione di imprese soggetta ad autorizzazione viene effettuata sen
 
 <sup>3</sup> Il Consiglio federale decide in merito alla richiesta possibilmente entro quattro mesi dalla sua presentazione.
 
-[^36-1]: Nuovo testo del per. giusta il n. 27 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^36-2]: Nuovo testo giusta il n. 27 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^36-1]: Nuovo testo del per. giusta l’all. n. 27 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^36-2]: Nuovo testo giusta l’all. n. 27 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 37
 
@@ -504,7 +504,7 @@ La Commissione della concorrenza può revocare un’autorizzazione o decidere l�
 
 La legge federale del 20 dicembre 1968[^39-1] sulla procedura amministrativa è applicabile alle procedure nella misura in cui la presente legge non vi deroghi.
 
-[^39-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^39-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 40
 
@@ -512,7 +512,7 @@ La legge federale del 20 dicembre 1968[^39-1] sulla procedura amministrativa è 
 
 Le persone che partecipano a intese, le imprese che dominano il mercato, quelle che partecipano a concentrazioni di imprese nonché i terzi interessati devono fornire alla autorità in materia di concorrenza tutte le informazioni utili alle inchieste e presentare i documenti necessari. Il diritto di non fornire informazioni è disciplinato dagli articoli 16 e 17 della legge federale del 20 dicembre 1968[^40-1] sulla procedura amministrativa.[^40-2]
 
-[^40-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^40-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^40-2]: Nuovo testo del per. giusta il n. I 3 della LF del 28 set. 2012 che adegua disposizioni di diritto procedurale sul segreto professionale degli avvocati, in vigore dal 1° mag. 2013 ([RU 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7255](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 
 #### Art. 41
@@ -530,8 +530,8 @@ I servizi della Confederazione e dei Cantoni hanno l’obbligo di collaborare al
 <sup>2</sup> Le autorità in materia di concorrenza possono ordinare perquisizioni e sequestrare mezzi di prova. A questi provvedimenti coercitivi sono applicabili per analogia gli articoli 45–50 della legge federale del 22 marzo 1974[^42-3] sul diritto penale amministrativo. Le perquisizioni domiciliari e i sequestri sono ordinati, su domanda della segreteria, da un membro della presidenza.
 
 [^42-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° apr. 2004 ([RU 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1835](https://fedlex.data.admin.ch/eli/fga/2002/265)[4927](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^42-2]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^42-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-2]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^42-3]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 42a
 
@@ -542,7 +542,7 @@ I servizi della Confederazione e dei Cantoni hanno l’obbligo di collaborare al
 <sup>2</sup> Un’impresa che si oppone alla verifica effettuata nell’ambito di una procedura basata sull’articolo 11 dell’Accordo può essere sottoposta, su richiesta della Commissione della Comunità europea, a misure di inchiesta secondo l’articolo 42; è applicabile l’articolo 44
 
 [^42a-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° apr. 2004 ([RU 2004 1385](https://fedlex.data.admin.ch/eli/oc/2004/172); [FF 2002 1835](https://fedlex.data.admin.ch/eli/fga/2002/265)[4927](https://fedlex.data.admin.ch/eli/fga/2002/848)).
-[^42a-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^42a-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
 
 #### Art. 42b
 
@@ -563,7 +563,7 @@ In assenza del consenso delle imprese interessate, le autorità in materia di co
 
 <sup>3</sup> Prima di trasmettere i dati all’autorità estera, le autorità in materia di concorrenza informano le imprese interessate e le invitano a prendere posizione.
 
-[^42b-1]: Introdotto dall’all. al DF del 20 giu. 2014 (cooperazione in merito all’applicazione dei rispettivi diritti della concorrenza), in vigore dal 1° dic. 2014 ([RU 2014 3711](https://fedlex.data.admin.ch/eli/oc/2014/645); [FF 2013 3295](https://fedlex.data.admin.ch/eli/fga/2013/859)).
+[^42b-1]: Introdotto dall’all. del DF del 20 giu. 2014 (cooperazione in merito all’applicazione dei rispettivi diritti della concorrenza), in vigore dal 1° dic. 2014 ([RU 2014 3711](https://fedlex.data.admin.ch/eli/oc/2014/645); [FF 2013 3295](https://fedlex.data.admin.ch/eli/fga/2013/859)).
 
 #### Art. 43
 
@@ -583,13 +583,13 @@ Possono annunciare la loro partecipazione all’inchiesta su una limitazione del
 
 <sup>4</sup> Nella procedura di esame delle concentrazioni di imprese la qualità di parte è riservata alle sole imprese partecipanti.
 
-[^43-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^43-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 44
 
 [^44-1]
 
-[^44-1]: Abrogato dal n. 27 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^44-1]: Abrogato dall’all. n. 27 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Sezione 5: Altri compiti e competenze delle autorità in materia di concorrenza
 
@@ -635,7 +635,7 @@ Possono annunciare la loro partecipazione all’inchiesta su una limitazione del
 
 <sup>2</sup> La Commissione riferisce annualmente al Consiglio federale circa le sue attività.
 
-### Sezione 6: Sanzioni amministrative****
+### Sezione 6: Sanzioni amministrative
 
 [^chap4-sec6-1]
 
@@ -690,10 +690,10 @@ All’impresa che non adempie o adempie solo in parte il suo obbligo di fornire 
 
 <sup>2</sup> …[^53-2]
 
-[^53-1]: Nuovo testo giusta il n. 27 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^53-2]: Abrogato dal n. 27 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^53-1]: Nuovo testo giusta l’all. n. 27 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^53-2]: Abrogato dall’all. n. 27 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Sezione 7:**** Emolumenti
+### Sezione 7: Emolumenti
 
 [^chap4-sec7-1]
 
@@ -729,11 +729,13 @@ Chiunque, intenzionalmente, non esegue o esegue solo in parte una decisione dell
 
 #### Art. 56
 
-**Prescrizione**
+**Prescrizione**[^56-1]
 
-<sup>1</sup> Il perseguimento penale si prescrive in cinque anni nel caso di reati contro le conciliazioni e le decisioni amministrative (art. 54). In caso di interruzione, il termine di prescrizione non può essere prorogato di oltre la metà.
+<sup>1</sup> Il perseguimento penale si prescrive in sette anni nel caso di reati contro le conciliazioni e le decisioni amministrative (art. 54).
 
-<sup>2</sup> Il perseguimento penale nel caso degli altri reati (art. 55) si prescrive in due anni.
+<sup>2</sup> Il perseguimento penale nel caso degli altri reati (art. 55) si prescrive in quattro anni.
+
+[^56-1]: Nuovo testo giusta il n. I 3 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 57
 
@@ -743,7 +745,7 @@ Chiunque, intenzionalmente, non esegue o esegue solo in parte una decisione dell
 
 <sup>2</sup> Autorità di perseguimento penale è la segreteria, d’intesa con un membro della presidenza. Autorità di giudizio è la Commissione.
 
-[^57-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^57-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Capitolo 6: Esecuzione di accordi internazionali
 
@@ -763,7 +765,7 @@ Chiunque, intenzionalmente, non esegue o esegue solo in parte una decisione dell
 
 <sup>2</sup> Se una conciliazione non può essere attuata tempestivamente e se la parte contraente dell’accordo minaccia di prendere misure nei confronti della Svizzera, il DEFR può prendere, d’intesa con il Dipartimento federale degli affari esteri, le misure necessarie per sopprimere la limitazione della concorrenza.
 
-## Capitolo 6*a*:**** Valutazione
+## Capitolo 6*a*: Valutazione
 
 [^chap6a-1]
 
@@ -813,10 +815,10 @@ La legge federale del 20 dicembre 1985[^61-1] sui cartelli e le organizzazioni a
 
 Data dell’entrata in vigore: art. 18 a 25: 1° febbraio 1996[^63-1] le disposizioni rimanenti: 1° luglio 1996[^63-2]
 
-[^63-1]: DCF del 26 gen. 1996
-[^63-2]: O del 17 giu. 1996 ([RU 1996 1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805))
+[^63-1]: DCF del 26 gen. 1996.
+[^63-2]: O del 17 giu. 1996 ([RU 1996 1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805)).
 
-## Disposizione finale della modifica del 20 giugno 2003****
+## Disposizione finale della modifica del 20 giugno 2003
 
 [^u1-1]
 
