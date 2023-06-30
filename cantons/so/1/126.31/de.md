@@ -4,13 +4,13 @@ number: "126.31"
 title: Verordnung über das Personalrecht
 short: Personalrechtsverordnung; PRV
 language: de
-version: 2018-03-01
-valid_until: 2023-06-30
-version_adopted: 2017-12-19
+version: 2023-07-01
+valid_until: 2025-03-31
+version_adopted: 2023-05-02
 adopted: 2007-06-25
 in_force: 2007-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.31"
-pdf: "https://bgs.so.ch/api/de/versions/4702/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5383/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4702/pdf_file"
 
 (Personalrechtsverordnung; PRV)
 
-Vom 25.06.2007 (Stand 01.03.2018)
+Vom 25.06.2007 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -95,7 +95,7 @@ beschliesst:
 
 **Stellenausschreibung (§ 15 Abs. 1 StPG)**
 
-<sup>1</sup> Die für die Ausschreibung zuständige Wahl- oder Anstellungsbehörde schreibt neu zu besetzende Stellen bei Bedarf zumindest im Internet, bei Stellen in Verwaltung, kantonalen Schulen und Gerichten auch im Amtsblatt, öffentlich aus. Ein Bedarf liegt in der Regel vor, wenn die Stelle nicht intern besetzt wird.
+<sup>1</sup> Die für die Ausschreibung zuständige Wahl- oder Anstellungsbehörde schreibt neu zu besetzende Stellen bei Bedarf öffentlich aus. Ein Bedarf liegt vor, wenn die Stelle nicht intern besetzt wird.
 
 #### § 8
 
@@ -123,7 +123,7 @@ beschliesst:
 
 **Stelleninserat (§ 15 Abs. 3 StPG)**
 
-<sup>1</sup> Das Stelleninserat enthält die Beschreibung des Aufgabenbereichs, die Wahl- oder Anstellungsvoraussetzungen, die Anmeldefrist von mindestens 10 Tagen und die Adresse zur Einreichung der Bewerbung, welche von der für die Ausschreibung zuständigen Dienststelle bezeichnet wird.
+<sup>1</sup> Das Stelleninserat enthält die Beschreibung des Aufgabenbereichs, die Wahl- oder Anstellungsvoraussetzungen und die Adresse zur Einreichung der Bewerbung, welche von der für die Ausschreibung zuständigen Dienststelle bezeichnet wird.
 
 <sup>2</sup> Das Personalamt erlässt Weisungen über die Form der Stellenausschreibungen.
 
