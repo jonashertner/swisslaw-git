@@ -4,27 +4,27 @@ title: Bundesgesetz vom 4. Dezember 1947 über den Bundeszivilprozess
 short: BZP
 eli: "https://fedlex.data.admin.ch/eli/cc/1948/485_473_421"
 language: de
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1947-12-04
 in_force: 1948-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/485_473_421/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1948-485_473_421-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/485_473_421/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1948-485_473_421-20230701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über den Bundeszivilprozess
 
-vom 4. Dezember 1947 (Stand am 1. Januar 2023)
+vom 4. Dezember 1947 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 106–114 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 14. März 1947[^ingress-3]
+gestützt auf die Artikel 122 Absatz 1 und 188 Absatz 2 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 14. März 1947[^ingress-3]
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3; [AS 1981 1243](https://fedlex.data.admin.ch/eli/oc/1981/1243_1243_1243)]. Den genannten Bestimmungen entsprechen heute Art. 143–145, 168 Abs. 1 und 188–191 (nach Inkrafttreten des Bundesbeschlusses vom 8. Okt. 1999 über die Reform der Justiz [[BBl 1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454)] Art. 188–191*c*) der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Fassung gemäss Ziff. II 2 des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [BBl 1999 9518](https://fedlex.data.admin.ch/eli/fga/1999/1_9518_8857_8431)[9606](https://fedlex.data.admin.ch/eli/fga/1999/1_9606_8940_8512)).
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I 4 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [BBl 1947 I 989](https://fedlex.data.admin.ch/eli/fga/1947/1_989_1001_767)
 
 ## Erster Titel: Anwendungsbereich des Gesetzes und Zuständigkeit
@@ -455,7 +455,7 @@ Das Zeugnis kann verweigert werden:
   - 1\. dem Zeugen, seinem Ehegatten, seiner eingetragenen Partnerin, seinem eingetragenen Partner oder einer Person, mit der er eine faktische Lebensgemeinschaft führt,
   - 2\. Verwandten oder Verschwägerten des Zeugen in gerader Linie und im zweiten Grad der Seitenlinie;
 
-- a<sup>bis</sup>.[^42-2] von Personen, gegen die nach Artikel 27<sup>bis</sup> des Strafgesetzbuches[^42-3] für die Verweigerung des Zeugnisses keine Strafen oder prozessualen Massnahmen verhängt werden dürfen;
+- a<sup>bis</sup>.[^42-2] von Personen, gegen die nach Artikel 28*a* des Strafgesetzbuchs[^42-3] für die Verweigerung des Zeugnisses keine Strafen oder prozessualen Massnahmen verhängt werden dürfen;
 - b. von den in Artikel 321 Ziffer 1 des Strafgesetzbuches genannten Personen über Tatsachen, die nach dieser Vorschrift unter das Berufsgeheimnis fallen, sofern der Berechtigte nicht in die Offenbarung des Geheimnisses eingewilligt hat.
 
 <sup>2</sup> Die Offenbarung anderer Berufsgeheimnisse sowie eines Geschäftsgeheimnisses kann der Richter dem Zeugen erlassen, wenn dessen Interesse an der Geheimhaltung auch bei Berücksichtigung der Sicherungsmassnahmen gemäss Artikel 38 das Interesse des Beweisführers an der Preisgabe überwiegt.
@@ -463,8 +463,8 @@ Das Zeugnis kann verweigert werden:
 <sup>3</sup> Für die Zeugnispflicht von Beamten und deren Hilfspersonen über Wahrnehmungen in Ausübung ihres Amtes oder ihrer Hilfstätigkeit sind die einschränkenden Vorschriften des Verwaltungsrechtes des Bundes und der Kantone massgebend.[^42-4]
 
 [^42-1]: Fassung gemäss Anhang Ziff. 15 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^42-2]: Eingefügt durch Ziff. I 2 des BG vom 23. Juni 2000 über die Anpassung der Bundesgesetzgebung an die Gewährleistung des Redaktionsgeheimnisses, in Kraft seit 1. Febr. 2001 ([AS 2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22); [BBl 1999 7966](https://fedlex.data.admin.ch/eli/fga/1999/1_7966_7188_6829)).
-[^42-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Heute: nach Art. 28a.
+[^42-2]: Eingefügt durch Ziff. I 2 des BG vom 23. Juni 2000 über die Anpassung der Bundesgesetzgebung an die Gewährleistung des Redaktionsgeheimnisses ([AS 2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22); [BBl 1999 7966](https://fedlex.data.admin.ch/eli/fga/1999/1_7966_7188_6829)). Fassung gemäss Ziff. I 4 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^42-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^42-4]: Fassung gemäss Anhang 1 Ziff. 6 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ### Zeugenvorladung
@@ -481,11 +481,11 @@ In der Zeugenvorladung ist der Gegenstand der Einvernahme summarisch zu bezeichn
 
 <sup>2</sup> Der ohne genügende Entschuldigung ausbleibende Zeuge ist zu den durch sein Ausbleiben entstehenden Kosten zu verurteilen. Er kann zwangsweise vorgeführt werden.
 
-<sup>3</sup> Bleibt der Zeuge wiederholt ohne genügende Entschuldigung aus oder verweigert er trotz Hinweises auf die Straffolgen unbefugt seine Aussage, so ist er mit Haft bis zu zehn Tagen oder mit Busse bis zu 300 Franken zu bestrafen.[^44-1]
+<sup>3</sup> Bleibt der Zeuge wiederholt ohne genügende Entschuldigung aus oder verweigert er trotz Hinweises auf die Straffolgen unbefugt seine Aussage, so ist er mit Busse bis zu 1000 Franken zu bestrafen.[^44-1]
 
 <sup>4</sup> Über das Recht zur Verweigerung des Zeugnisses und die Ungehorsamsstrafe befindet der Instruktionsrichter, in der Hauptverhandlung das Gericht.
 
-[^44-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
+[^44-1]: Fassung gemäss Ziff. I 4 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Einvernahme
 
@@ -791,12 +791,12 @@ Urteile, die zur Zahlung einer Geldsumme oder zur Sicherheitsleistung in Geld ve
 
 <sup>1</sup> In Urteilen, die Private zur Vornahme einer Handlung verpflichten, sind für den Fall der Nichtvornahme innert zu bestimmender Frist und in Urteilen, die sie zum Unterlassen einer Handlung verpflichten, für jede Widerhandlung die Ungehorsamsstrafen des Artikel 292 des Strafgesetzbuches[^76-1] von Amtes wegen anzudrohen.
 
-<sup>2</sup> Die Strafverfolgung findet auf Antrag der berechtigten Partei gemäss den Artikeln 28–31[^76-2] des Strafgesetzbuches statt. Sie schliesst den Anspruch auf Vollstreckung des Urteils nicht aus.
+<sup>2</sup> Die Strafverfolgung findet auf Antrag der berechtigten Partei gemäss den Artikeln 30–33 des Strafgesetzbuchs statt.[^76-2] Sie schliesst den Anspruch auf Vollstreckung des Urteils nicht aus.
 
 <sup>3</sup> Der berechtigten Partei bleibt vorbehalten, statt der zwangsweisen Durchführung oder Fortführung der Vollstreckung oder nach erfolgloser Vollstreckung Schadenersatz wegen Nichterfüllung zu verlangen.
 
 [^76-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^76-2]: Heute: gemäss den Art. 30–33.
+[^76-2]: Fassung gemäss Ziff. I 4 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Realvollstreckung
 

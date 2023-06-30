@@ -4,27 +4,27 @@ title: Loi fédérale du 4 décembre 1947 de procédure civile fédérale
 short: PCF
 eli: "https://fedlex.data.admin.ch/eli/cc/1948/485_473_421"
 language: fr
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1947-12-04
 in_force: 1948-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/485_473_421/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1948-485_473_421-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/485_473_421/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1948-485_473_421-20230701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale de procédure civile fédérale
+# Loi fédérale sur la procédure civile fédérale
 
-du 4 décembre 1947 (État le 1<sup>er</sup> janvier 2023)
+du 4 décembre 1947 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 106 à 114 de la constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 14 mars 1947[^ingress-3],
+vu les art. 122, al. 1, et 188, al. 2, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 14 mars 1947[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [RS **1** 3]. Aux dispositions mentionnées correspondent actuellement les art. 143 à 145, 168, al. 1, et 188 à 191 (après l’entrée en vigueur de l’AF du 8 oct. 1999 sur la réforme de la justice [[FF 1999 7831](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454)]: les art. 188 à 191*c* de la Constitution du 18 avril 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nouvelle teneur selon le ch. II 2 de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [FF 1999 8857](https://fedlex.data.admin.ch/eli/fga/1999/1_9518_8857_8431)[8940](https://fedlex.data.admin.ch/eli/fga/1999/1_9606_8940_8512)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nouvelle teneur selon le ch. I 4 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [FF 1947 I 1001](https://fedlex.data.admin.ch/eli/fga/1947/1_989_1001_767)
 
 ## Titre premier: Champ d’application de la loi et compétence
@@ -455,7 +455,7 @@ Peuvent refuser de déposer:
   - 1\. leur conjoint, leur partenaire enregistré ou la personne avec laquelle elles mènent de fait une vie de couple,
   - 2\. leurs parents ou alliés, en ligne directe et au deuxième degré en ligne collatérale;
 
-- [tab] a<sup>bis</sup>.[^42-2] les personnes qui, en vertu de l’art. 27<sup>bis</sup> du code pénal suisse[^42-3], n’encourront aucune peine et ne feront l’objet d’aucune mesure de coercition fondée sur le droit de procédure si elles refusent de témoigner;
+- a<sup>bis</sup>.[^42-2] les personnes qui, en vertu de l’art. 28*a* du code pénal suisse[^42-3], n’encourent aucune peine et ne font l’objet d’aucune mesure de coercition fondée sur le droit de procédure si elles refusent de témoigner;
 - b. les personnes visées par l’art. 321, ch. 1, du code pénal suisse, lorsqu’elles sont interrogées sur des faits qui, d’après cette disposition, rentrent dans le secret professionnel, à moins que l’intéressé n’ait consenti à la révélation du secret.
 
 <sup>2</sup> Le juge peut dispenser le témoin de révéler d’autres secrets professionnels, ainsi qu’un secret d’affaires, lorsque, malgré les mesures de précaution de l’art. 38, l’intérêt du témoin à garder le secret l’emporte sur l’intérêt d’une partie à le révéler.
@@ -463,8 +463,8 @@ Peuvent refuser de déposer:
 <sup>3</sup> Les fonctionnaires et leurs auxiliaires ne sont tenus de témoigner sur des faits dont ils ont eu connaissance dans l’exercice de leurs fonctions ou de leur activité auxiliaire que dans les limites du droit administratif fédéral ou cantonal.[^42-4]
 
 [^42-1]: Nouvelle teneur selon l’annexe ch. 15 de la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^42-2]: Introduite par le ch. I 2 de la LF du 23 juin 2000 sur l’adaptation de la législation fédérale à la garantie du secret de rédaction, en vigueur depuis le 1<sup>er</sup> fév. 2001 ([RO 2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
-[^42-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Actuellement «l’art. 28*a*».
+[^42-2]: Introduite par le ch. I 2 de la LF du 23 juin 2000 sur l’adaptation de la législation fédérale à la garantie du secret de rédaction ([RO 2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)). Nouvelle teneur selon le ch. I 4 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^42-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^42-4]: Nouvelle teneur selon l’annexe 1 ch. 6 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ### Citation du témoin
@@ -481,11 +481,11 @@ La citation énonce sommairement les faits sur lesquels le témoin sera entendu.
 
 <sup>2</sup> Le témoin qui, sans excuse suffisante, ne comparaît pas est condamné aux frais occasionnés par son absence. Il peut être amené de force à l’audience.
 
-<sup>3</sup> Le témoin qui, sans excuse suffisante, n’obtempère pas à la seconde citation ou qui, malgré la menace de sanctions pénales, refuse sans raison légitime de déposer est passible des arrêts jusqu’à dix jours ou d’une amende de 300 francs au plus.[^44-1]
+<sup>3</sup> Le témoin qui, sans excuse suffisante, n’obtempère pas à la seconde citation ou qui, malgré la menace de sanctions pénales, refuse sans raison légitime de déposer est passible d’une amende de 1000 francs au plus.[^44-1]
 
 <sup>4</sup> Le juge délégué statue sur le droit de refuser de témoigner et prononce la peine pour insoumission; aux débats, ces pouvoirs appartiennent au tribunal.
 
-[^44-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^44-1]: Nouvelle teneur selon le ch. I 4 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Audition
 
@@ -543,7 +543,7 @@ Le juge peut recueillir des renseignements écrits auprès d’autorités et, ex
 
 <sup>4</sup> Les dispositions particulières qui régissent la production des titres d’administrations publiques de la Confédération et des cantons sont réservées.
 
-### Correspondance d'avocat
+### Correspondance d’avocat
 
 #### Art. 51a
 
@@ -684,7 +684,7 @@ L’expert a droit au remboursement de ses débours, ainsi qu’à des honoraire
 
 <sup>2</sup> Si une partie fait défaut sans excuse suffisante bien qu’elle ait été personnellement citée, ou si elle refuse de répondre, le juge apprécie cette attitude, conformément à l’art. 40.
 
-### Titre huitième: Débats principaux
+## Titre huitième: Débats principaux
 
 ### Assignation
 
@@ -791,12 +791,12 @@ Le jugement qui condamne une partie au paiement d’une somme d’argent ou à l
 
 <sup>1</sup> Le jugement qui condamne des personnes relevant du droit privé à accomplir un acte contient d’office l’avis qu’en cas d’inaccomplissement dans le délai fixé, l’obligé encourt les peines prévues pour l’insoumission par l’art. 292 du code pénal suisse[^76-1]. Le jugement prescrivant à une partie de s’abstenir d’un acte porte menace des mêmes peines pour chaque contravention à la défense.
 
-<sup>2</sup> La poursuite pénale a lieu sur plainte de l’ayant droit conformément aux art. 28 à 31 du code pénal suisse[^76-2]. Elle laisse intact le droit d’obtenir l’exécution du jugement.
+<sup>2</sup> La poursuite pénale a lieu sur plainte de l’ayant droit conformément aux art. 30 à 33 du code pénal suisse.[^76-2] Elle laisse intact le droit d’obtenir l’exécution du jugement.
 
 <sup>3</sup> Au lieu de poursuivre de force l’exécution ou après y avoir échoué, l’ayant droit peut réclamer des dommages-intérêts pour inexécution.
 
 [^76-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^76-2]: Actuellement les art. 30 à 33.
+[^76-2]: Nouvelle teneur selon le ch. I 4 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Exécution effective
 
@@ -819,6 +819,8 @@ Le jugement qui condamne une partie au paiement d’une somme d’argent ou à l
 [^78-1]: [RS 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
 
 ## Titre onzième: Mesures provisionnelles
+
+### Causes
 
 #### Art. 79
 

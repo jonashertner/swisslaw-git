@@ -4,27 +4,27 @@ title: Legge del 4 dicembre 1947 di procedura civile federale
 short: PC
 eli: "https://fedlex.data.admin.ch/eli/cc/1948/485_473_421"
 language: it
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1947-12-04
 in_force: 1948-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/485_473_421/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1948-485_473_421-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/485_473_421/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1948-485_473_421-20230701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge di procedura civile federale
 
-del 4 dicembre 1947 (Stato 1° gennaio 2023)
+del 4 dicembre 1947 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 106 a 114 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 14 marzo 1947,
+visti gli articoli 122 capoverso 1 e 188 capoverso 2 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 14 marzo 1947,
 
 decreta:
 
-[^ingress-1]: [CS **1** 3 ]. A queste disp. corrispondono ora gli art. 143-145, 168 cpv. 1 e 188–191 (entrato in vigore che sia il relativo DF dell’8 ott. 1999 sulla riforma giudiziaria; [FF 1999 7454](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454): art. 188-191*c*) della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nuovo testo giusta il n. II 2 della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [FF 1999 8431](https://fedlex.data.admin.ch/eli/fga/1999/1_9518_8857_8431)[8512](https://fedlex.data.admin.ch/eli/fga/1999/1_9606_8940_8512)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo giusta il n. I 4 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ## Titolo primo: Campo di applicazione della legge e competenza
 
@@ -38,7 +38,7 @@ decreta:
 
 <sup>2</sup> Essa è completata dalle norme dei capitoli 1, 2 e 6 LTF, in quanto non vi deroghino le disposizioni seguenti.
 
-[^1-1]: Nuovo testo giusta il n. 5 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^1-1]: Nuovo testo giusta l’all. n. 5 della L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^1-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 
 ### Competenza
@@ -50,7 +50,7 @@ decreta:
 <sup>2</sup> La proroga di giurisdizione a favore di un tribunale svizzero non vincola il Tribunale federale, il quale può, d’ufficio, dichiarare l’azione inammissibile. Il Tribunale federale ha però l’obbligo di giudicare la causa quando una parte ha il domicilio, la dimora abituale o una stabile organizzazione in Svizzera ovvero se, giusta la legge federale del 18 dicembre 1987[^2-1] sul diritto internazionale privato, all’oggetto litigioso dev’essere applicato il diritto svizzero.[^2-2]
 
 [^2-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^2-2]: Nuovo testo giusta il n. II 3 dell’all. alla LF del 18 dic. 1987 sul diritto internazionale privato, in vigore dal 1° gen. 1989 ([RU 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [FF 1983 I 239](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
+[^2-2]: Nuovo testo giusta l’all. n. II 3 della LF del 18 dic. 1987 sul diritto internazionale privato, in vigore dal 1° gen. 1989 ([RU 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [FF 1983 I 239](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
 
 ## Titolo secondo: Principi generali di procedura
 
@@ -70,7 +70,7 @@ decreta:
 
 <sup>2</sup> Ove occorra, il giudice ordina la traduzione.
 
-[^4-1]: Nuovo testo giusta il n. II 2 dell’all. alla legge del 5 ott. 2007 sulle lingue, in vigore dal 1° gen. 2010 ([RU 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821); [FF 2006 8229](https://fedlex.data.admin.ch/eli/fga/2006/1175)[8295](https://fedlex.data.admin.ch/eli/fga/2006/1177)).
+[^4-1]: Nuovo testo giusta l’all. n. II 2 della legge del 5 ott. 2007 sulle lingue, in vigore dal 1° gen. 2010 ([RU 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821); [FF 2006 8229](https://fedlex.data.admin.ch/eli/fga/2006/1175)[8295](https://fedlex.data.admin.ch/eli/fga/2006/1177)).
 
 ### Giudice delegato
 
@@ -83,7 +83,7 @@ decreta:
 <sup>3</sup> Un secondo giudice deve intervenire all’audizione dei testimoni, all’ispezione oculare e all’interrogatorio delle parti.
 
 [^5-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^5-2]: Nuovo testo giusta il n. 5 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^5-2]: Nuovo testo giusta l’all. n. 5 della L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Sospensione del processo
 
@@ -218,7 +218,7 @@ Una parte può stare in giudizio se ha l’esercizio dei diritti civili.
 <sup>3</sup> Gli atti processuali compiuti da un rappresentante non autorizzato e non ratificati dal rappresentato, devono essere annullati d’ufficio. Le spese processuali sono a carico del rappresentante.
 
 [^18-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^18-2]: Nuovo testo giusta il n. 5 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^18-2]: Nuovo testo giusta l’all. n. 5 della L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^18-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ## Titolo quinto: Scambio degli allegati scritti
@@ -237,7 +237,7 @@ Una parte può stare in giudizio se ha l’esercizio dei diritti civili.
 
 [^20-1]
 
-[^20-1]: Abrogato dal n. 5 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, con effetto dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^20-1]: Abrogato dall’all. n. 5 della L del 17 giu. 2005 sul Tribunale federale, con effetto dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Litispendenza
 
@@ -317,7 +317,7 @@ Per accertare l’esistenza o l’inesistenza di un rapporto di diritto può ess
 <sup>2</sup> Se il convenuto richiede che siano fornite garanzie per le spese ripetibili, giusta l’articolo 62 capoverso 2 LTF[^28-1], il termine è sospeso.[^28-2] Se la richiesta è respinta o se le garanzie sono state fornite, il giudice fissa un nuovo termine per la risposta.
 
 [^28-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^28-2]: Nuovo testo giusta il n. 5 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^28-2]: Nuovo testo giusta l’all. n. 5 della L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Risposta alla petizione
 
@@ -349,7 +349,7 @@ La risposta deve contenere:
 
 <sup>2</sup> La domanda riconvenzionale rimane pendente anche quando la domanda principale diviene caduca.
 
-[^31-1]: Nuovo testo giusta il n. 5 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^31-1]: Nuovo testo giusta l’all. n. 5 della L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Scambio ulteriore di allegati scritti
 
@@ -454,17 +454,16 @@ Possono rifiutare di deporre:
   - 1\. il suo coniuge, il suo partner registrato o la persona con cui convive di fatto,
   - 2\. i suoi parenti o affini in linea retta e in secondo grado della linea collaterale;
 
-- a.<sup>bis</sup> [^42-2] le persone nei confronti delle quali, secondo l’articolo 27<sup>bis</sup> del Codice penale[^42-3], non possono essere inflitte pene né presi provvedimenti processuali qualora rifiutino di testimoniare;
+- a<sup>bis</sup>. [^42-2] le persone nei confronti delle quali, secondo l’articolo 28a del Codice penale , non possono essere inflitte pene né presi prov-vedimenti processuali qualora rifiutino di testimoniare;
 - b. le persone menzionate nell’articolo 321 numero 1 del Codice penale, se si tratta di fatti che, secondo quest’articolo, concernono il segreto professionale, salvo che l’interessato abbia dato il suo consenso alla rivelazione del segreto.
 
 <sup>2</sup> Il giudice può dispensare il testimonio dalla rivelazione di altri segreti professionali, come pure di un segreto d’affari quando, anche tenuto conto delle misure precauzionali dell’articolo 38, l’interesse del testimonio a mantenere il segreto supera l’interesse della parte a rivelarlo.
 
-<sup>3</sup> Per quanto concerne l’obbligo dei funzionari e dei loro ausiliari di deporre su fatti di cui hanno avuto notizia nell’esercizio delle loro funzioni o della loro attività ausiliaria, sono applicabili le disposizioni restrittive del diritto amministrativo federale o cantonale.[^42-4]
+<sup>3</sup> Per quanto concerne l’obbligo dei funzionari e dei loro ausiliari di deporre su fatti di cui hanno avuto notizia nell’esercizio delle loro funzioni o della loro attività ausiliaria, sono applicabili le disposizioni restrittive del diritto amministrativo federale o cantonale.[^42-3]
 
-[^42-1]: Nuovo testo giusta il n. 15 dell’all. alla L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^42-2]: Introdotta dal n. I 2 della LF del 23 giu. 2000 concernente l’adeguamento della legislazione federale alla garanzia del segreto redazionale, in vigore dal 1° feb. 2001 ([RU 2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
-[^42-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Ora: l’art. 28*a*.
-[^42-4]: Nuovo testo giusta l’all. 1 n. 6 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2023 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^42-1]: Nuovo testo giusta l’all. n. 15 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^42-2]: Introdotta dal n. I 2 della LF del 23 giu. 2000 concernente l’adeguamento della legislazione federale alla garanzia del segreto redazionale ([RU 2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)). Nuovo testo giusta il n. I 4 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^42-3]: Nuovo testo giusta l’all. 1 n. 6 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2023 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ### Citazione
 
@@ -480,11 +479,11 @@ La citazione deve enunciare sommariamente i fatti sui quali il testimonio sarà 
 
 <sup>2</sup> Il testimonio non comparso senza sufficiente giustificazione è condannato al pagamento delle spese causate dalla sua assenza. Egli può essere condotto con la forza all’udienza.
 
-<sup>3</sup> Il testimonio che, citato una seconda volta, non compare senza giustificazione sufficiente o, nonostante la comminatoria di sanzioni penali, rifiuta senza legittimo motivo di deporre è punito con l’arresto sino a dieci giorni o con la multa sino a 300 franchi.[^44-1]
+<sup>3</sup> Il testimonio che, citato una seconda volta, non compare senza giustificazione sufficiente o, nonostante la comminatoria di sanzioni penali, rifiuta senza legittimo motivo di deporre è punito con la multa sino a 1000 franchi.[^44-1]
 
 <sup>4</sup> Sul diritto di non deporre e sull’inflizione della pena per disobbedienza decide il giudice delegato; in sede di dibattimento principale, il tribunale.
 
-[^44-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2−6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13 dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+[^44-1]: Nuovo testo giusta il n. I 4 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Audizione
 
@@ -561,7 +560,7 @@ L’obbligo di edizione non comprende la produzione di documenti inerenti ai con
 
 <sup>2</sup> Con l’autorizzazione del giudice, i punti non destinati a far prova possono essere resi invisibili al giudice e alle parti con l’apposizione di suggelli o in altro modo.
 
-[^52-1]: Nuovo testo giusta il n. 5 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^52-1]: Nuovo testo giusta l’all. n. 5 della L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Consultazione sul posto
 
@@ -618,7 +617,7 @@ I documenti che, per loro natura, non possono essere prodotti in giudizio, o la 
 <sup>2</sup> Il giudice dà alle parti la possibilità di presentare le loro obiezioni contro le persone che intende nominare quali periti.
 
 [^58-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^58-2]: Nuovo testo giusta il n. 5 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^58-2]: Nuovo testo giusta l’all. n. 5 della L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Doveri
 
@@ -629,7 +628,7 @@ I documenti che, per loro natura, non possono essere prodotti in giudizio, o la 
 <sup>2</sup> Il perito che adempie con negligenza il proprio ufficio è punibile con una multa disciplinare conformemente all’articolo 33 capoverso 1 LTF[^59-1].[^59-2]
 
 [^59-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^59-2]: Nuovo testo giusta il n. 5 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^59-2]: Nuovo testo giusta l’all. n. 5 della L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Referto
 
@@ -726,7 +725,7 @@ Il perito ha diritto al rimborso delle sue spese, come pure ad un onorario secon
 <sup>3</sup> Le parti presentano, prima della sentenza, una nota specificata delle loro spese.
 
 [^69-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^69-2]: Nuovo testo giusta il n. 5 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^69-2]: Nuovo testo giusta l’all. n. 5 della L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Emanazione della sentenza
 
@@ -790,12 +789,12 @@ La sentenza che condanna una parte al pagamento di una somma di denaro o alla pr
 
 <sup>1</sup> La sentenza che condanna dei privati a compiere un atto prevede d’ufficio la comminatoria che, nel caso in cui non ottemperassero all’ingiunzione entro il termine fissato, essi incorrono nelle pene per la disobbedienza, previste dall’articolo 292 del Codice penale[^76-1]. La sentenza che ingiunge ad una parte di astenersi da un atto commina la stessa pena per ogni contravvenzione a questo divieto.
 
-<sup>2</sup> Il procedimento penale ha luogo a querela dell’avente diritto conformemente agli articoli 28 a 31[^76-2] del Codice penale. È impregiudicato il diritto di ottenere l’esecuzione della sentenza.
+<sup>2</sup> Il procedimento penale ha luogo a querela dell’avente diritto confor-memente agli articoli 30–33 del Codice penale.[^76-2] È impregiudicato il diritto di ottenere l’esecuzione della sentenza.
 
 <sup>3</sup> Invece di iniziare o proseguire in via forzata l’esecuzione o nel caso in cui l’esecuzione non ha esito, l’avente diritto può richiedere il risarcimento del danno per inadempimento.
 
 [^76-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^76-2]: Ora: gli art. 30-33.
+[^76-2]: Nuovo testo giusta il n. I 4 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Esecuzione effettiva
 
