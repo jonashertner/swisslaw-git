@@ -4,18 +4,18 @@ title: Legge federale del 23 settembre 1953 sulla navigazione marittima sotto ba
 short: LNM
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407"
 language: it
-version: 2020-11-01
+version: 2023-07-01
 adopted: 1953-09-23
 in_force: 1957-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20201101/it/xml/fedlex-data-admin-ch-eli-cc-1956-1305_1395_1407-20201101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/1305_1395_1407/20201101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1956-1305_1395_1407-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/1305_1395_1407/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla navigazione marittima sotto bandiera svizzera
 
-del 23 settembre 1953 (Stato 1° novembre 2020)
+del 23 settembre 1953 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -66,15 +66,19 @@ Nella misura compatibile con i principî del diritto delle genti, la navigazione
 
 <sup>3</sup> Le speciali disposizioni penali della presente legge sono applicabili indipendentemente dal fatto che l’atto punibile secondo le stesse sia stato commesso all’estero o nella Svizzera.
 
-<sup>4</sup> L’autore non è più punito nella Svizzera:
+<sup>4</sup>
 
-se è stato assolto all’estero dal reato con sentenza irrevocabile;
+Fatta salva una crassa violazione dei principi della Costituzione fe-derale e della Convenzione del 4 novembre 1950[^4-2] per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali, l’autore non è più perseguito in Svizzera per il medesimo fatto se:
 
-se la pena inflittagli all’estero per il medesimo atto è stata scontata o condonata oppure è prescritta.
+- a. è stato assolto con sentenza definitiva da un tribunale estero; o
+- b. la sanzione inflittagli all’estero è stata eseguita o condonata oppure è caduta in prescrizione.[^4-3]
 
-Se il colpevole ha scontato all’estero solo in parte la pena, questa parte gli sarà computata nella pena da pronunciare.
+<sup>5</sup> Se, per il medesimo fatto, l’autore è stato condannato all’estero e vi ha scontato solo parzialmente la pena, il giudice computa la pena scontata all’estero in quella da pronunciare. Il giudice decide se una misura ordinata ma solo parzialmente eseguita all’estero debba essere continuata o computata nella pena inflitta in Svizzera.[^4-4]
 
 [^4-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^4-2]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^4-3]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^4-4]: Introdotto dal n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Conclusione autonoma di convenzioni internazionali da parte del Consiglio federale
 
@@ -212,13 +216,13 @@ Il Consiglio federale può concludere convenzioni internazionali adottate nell�
 
 #### Art. 15
 
-<sup>1</sup> I reati commessi a bordo di navi svizzere come pure le contravvenzioni punibili secondo la presente legge devono essere perseguiti e giudicati dalle autorità del Cantone di Basilea Città, in quanto non sia prevista la competenza del Tribunale penale federale o dei tribunali militari. Il ricavo delle multe pronunciate in virtù della presente legge appartiene al Cantone di Basilea Città.[^15-1]
+<sup>1</sup> I reati commessi a bordo di navi svizzere come pure le contravvenzioni punibili secondo la presente legge devono essere perseguiti e giudicati dalle autorità del Cantone di Basilea Città, in quanto non sia prevista la competenza del Tribunale penale federale o dei tribunali militari. Il ricavo delle pene pecuniarie e delle multe pronunciate in virtù della presente legge appartiene al Cantone di Basilea Città.[^15-1]
 
 <sup>2</sup> Le contravvenzioni alla presente legge sono constatate dall’USNM.
 
 <sup>3</sup> Le autorità del Cantone di Basilea Città sono tenute a comunicare al Ministero pubblico della Confederazione tutte le sentenze penali e tutte le dichiarazioni di non doversi procedere pronunciate in virtù della presente legge.
 
-[^15-1]: Nuovo testo giusta l’all. n. 17 della LF del 4 ott. 2002 sul Tribunale penale federale, in vigore dal 1° apr. 2004 ([RU 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^15-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 16
 
@@ -772,7 +776,7 @@ Il Consiglio federale disciplina, per ordinanza, la procedura e i termini necess
 <sup>2</sup> La Confederazione può promuovere la formazione professionale di capitani e di gente di mare svizzeri. Il Consiglio federale stabilisce le disposizioni necessarie.[^61-2]
 
 [^61-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
-[^61-2]: Nuovo testo giusta il n. 17 dell’all. della L del 5 ott. 1990 sui sussidi, in vigore dal 1° apr. 1991 ([RU 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); FF**1987** I 297).
+[^61-2]: Nuovo testo giusta l’all. n. 17 della L del 5 ott. 1990 sui sussidi, in vigore dal 1° apr. 1991 ([RU 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); FF**1987** I 297).
 
 ### Requisiti professionali
 
@@ -1604,7 +1608,7 @@ Il vettore non è tenuto a indicare nella polizza di carico:
 
 [^124-1]: Nuovo testo giusta l’all. n. 15 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
-## Titolo VI*a*:**** Patrimonio culturale subacqueo
+## Titolo VI*a*: Patrimonio culturale subacqueo
 
 [^titVIa-1]
 
@@ -1668,11 +1672,7 @@ Il vettore non è tenuto a indicare nella polizza di carico:
 [^127-4]: Nuovo testo giusta il n. II della LF dell’8 ott. 1971 che modifica quella sul registro del naviglio, in vigore dal 1° feb. 1972 ([RU 1972 349](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [FF 1970 II 989](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
 [^127-5]: Originario cpv. 4. Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
-## Titolo VIII: Disposizioni penali e disciplinari****
-
-[^titVIII-1]
-
-[^titVIII-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2 – 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+## Titolo VIII: Disposizioni penali e disciplinari
 
 ### Capo I: Reati contro la sicurezza della nave e della navigazione
 
@@ -1680,27 +1680,30 @@ Il vettore non è tenuto a indicare nella polizza di carico:
 
 #### Art. 128
 
-<sup>1</sup> Chiunque, intenzionalmente, deteriora, distrugge, rende inservibile o fa scomparire una nave svizzera, le sue parti costitutive o i suoi accessori, oppure i carburanti o i viveri a bordo,
+[^128-1]
 
-chiunque, intenzionalmente, impedisce o intralcia il governo della nave oppure l’ordine o la vita a bordo,
+<sup>1</sup>
 
-esponendo in tal modo scientemente a pericolo la nave o le persone a bordo,
+È punito con una pena detentiva sino a dieci anni o con una pena pe-cuniaria chiunque espone scientemente a pericolo una nave svizzera o le persone a bordo in quanto intenzionalmente:
 
-è punito con la reclusione sino a dieci anni o con la detenzione.
+- a. deteriora, distrugge, rende inservibile o fa scomparire la nave, le sue parti costitutive o i suoi accessori, oppure i carburanti o i viveri a bordo; o
+- b. impedisce o intralcia il governo della nave oppure l’ordine o la vita a bordo.
 
-<sup>2</sup> La pena è della reclusione se il reato ha cagionato la perdita della nave o la morte di una persona e se il colpevole poteva prevedere tale esito.
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
 
-<sup>3</sup> Se il colpevole ha agito per negligenza, la pena è della detenzione o della multa.
+[^128-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Perturbamento della navigazione
 
 #### Art. 129
 
-<sup>1</sup> Il capitano o il componente dell’equipaggio di una nave svizzera che viola intenzionalmente le disposizioni legali o le regole riconosciute sulla condotta nautica della nave, oppure le altre prescrizioni svizzere o straniere in materia di navigazione e di polizia sul mare, e in tal modo espone scientemente a pericolo la sua o un’altra nave oppure le persone a bordo di tali navi, è punito con la detenzione.
+[^129-1]
 
-<sup>2</sup> La pena può essere della reclusione sino a dieci anni, se il reato ha cagionato la perdita della nave o la morte di una persona e se il colpevole poteva prevedere tale esito.
+<sup>1</sup> Il capitano o il componente dell’equipaggio di una nave svizzera che viola intenzionalmente le disposizioni legali o le regole riconosciute sulla condotta nautica della nave, oppure le altre prescrizioni svizzere o straniere in materia di navigazione e di polizia sul mare, e in tal modo espone scientemente a pericolo la sua o un’altra nave oppure le persone a bordo di tali navi, è punito con una pena detentiva sino a dieci anni o con una pena pecuniaria.
 
-<sup>3</sup> Se il colpevole ha agito per negligenza, la pena è della detenzione o della multa.
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
+
+[^129-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Inquinamento marino
 
@@ -1708,73 +1711,97 @@ esponendo in tal modo scientemente a pericolo la nave o le persone a bordo,
 
 [^129a-1]
 
-<sup>1</sup> Chiunque viola le norme di convenzioni internazionali, della presente legge o delle sue ordinanze, immettendo o depositando in mare, da una nave svizzera, sostanze solide, liquide, gassose o radioattive, atte a inquinare il mare, i fondi marini o il loro sottosuolo, è punito con la detenzione o con la multa.
+<sup>1</sup> Chiunque viola le norme di convenzioni internazionali, della presente legge o delle sue ordinanze, immettendo o depositando in mare, da una nave svizzera, sostanze solide, liquide, gassose o radioattive, atte a inquinare il mare, i fondi marini o il loro sottosuolo, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.[^129a-2]
 
-<sup>2</sup> Se l’autore ha agito per negligenza, la pena è della detenzione fino a sei mesi o della multa fino a 20 000 franchi.
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.[^129a-3]
 
 <sup>3</sup> Nei casi di minore importanza, il reato è punito disciplinarmente.
 
 [^129a-1]: Introdotto dal n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^129a-2]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^129a-3]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violazione delle regole dell’arte nautica
 
 #### Art. 130
 
-Il capitano o il componente dell’equipaggio di una nave svizzera che viola le disposizioni legali o le regole riconosciute sulla condotta nautica della nave oppure le prescrizioni svizzere o straniere in materia di navigazione o di polizia sul mare è punito, per quanto il reato non sia perseguibile in virtù di un’altra disposizione legale, con la multa sino a cinquemila franchi.
+[^130-1]
+
+Il capitano o il componente dell’equipaggio di una nave svizzera che viola le disposizioni legali o le regole riconosciute sulla condotta nautica della nave oppure le prescrizioni svizzere o straniere in materia di navigazione o di polizia sul mare è punito, per quanto il reato non sia perseguibile in virtù di un’altra disposizione legale, con la multa sino a 20 000 franchi.
+
+[^130-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Cattivo stato di navigabilità
 
 #### Art. 131
 
-<sup>1</sup> Il capitano che, intenzionalmente o per negligenza, prende il mare con una nave svizzera innavigabile, insufficientemente equipaggiata, armata o approvvigionata ed espone in tal modo a pericolo la nave o le persone a bordo è punito con la detenzione o con la multa.
+[^131-1]
 
-<sup>2</sup> La pena è della reclusione sino a cinque anni se il reato ha cagionato la perdita della nave o la morte di una persona e se il colpevole poteva prevedere tale esito.
+<sup>1</sup> Il capitano che, intenzionalmente, prende il mare con una nave sviz-zera innavigabile o insufficientemente equipaggiata, armata o approvvigionata ed espone in tal modo a pericolo la nave o le persone a bor-do è punito con una pena detentiva sino a dieci anni o con una pena pecuniaria.
+
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
+
+[^131-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violazione delle regole sulla navigabilità
 
 #### Art. 132
 
-Il capitano o l’armatore che fa prendere il mare a una nave svizzera innavigabile, insufficientemente equipaggiata, armata o approvvigionata è punito, in quanto il reato non sia perseguibile in virtù di un’altra disposizione legale, con la multa sino a cinquemila franchi.
+[^132-1]
+
+Il capitano o l’armatore che fa prendere il mare a una nave svizzera in-navigabile o insufficientemente equipaggiata, armata o approvvigionata è punito, in quanto non sia adempiuta una fattispecie di reato più grave, con una pena detentiva sino a tre anni o con una pena pecuniaria.
+
+[^132-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Omissione di soccorso
 
 #### Art. 133
 
-<sup>1</sup> Il capitano di una nave svizzera che omette il prestare soccorso a un’altra nave o a persone in pericolo, benché possa farlo senza esporre a grave rischio la sua nave, l’equipaggio o i passeggeri, è punito con la detenzione.
+[^133-1]
 
-<sup>2</sup> La pena è della multa, se il colpevole ha agito per negligenza.
+<sup>1</sup> Il capitano di una nave svizzera che omette il prestare soccorso a un’altra nave o a persone in pericolo, benché possa farlo senza esporre a grave rischio la sua nave, l’equipaggio o i passeggeri, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.
+
+[^133-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Capo II: Reati contro la disciplina e l’ordine a bordo
 
 ### Abbandono della nave in pericolo
 
-#### Art. 134
-
-<sup>1</sup> Il capitano di una nave svizzera che non abbandona per ultimo la sua nave in pericolo è punito con la detenzione o con la multa.
-
-<sup>2</sup> Il componente dell’equipaggio che abbandona una nave svizzera in pericolo senza l’autorizzazione del capitano è punito con la detenzione sino a un anno o con la multa.
-
 ### Mancato esercizio del comando
-
-#### Art. 135
-
-<sup>1</sup> Il capitano di una nave svizzera che, intenzionalmente, non dirige o trascura il governo della nave posta sotto il suo comando è punito con la detenzione sino ad un anno o con la multa.
-
-<sup>2</sup> La pena è della multa, se il colpevole ha agito per negligenza.
 
 ### Abuso di autorità e usurpazione di funzioni
 
-#### Art. 136
+#### Art. 134
 
-<sup>1</sup> Il capitano o l’ufficiale di una nave svizzera che abusa del suo diritto di dare ordini a un subordinato impartendogli ordini che non hanno relazione alcuna con il servizio a bordo,
+[^134-1]
 
-il capitano che oltrepassa il suo diritto d’infliggere pene disciplinari oppure ne abusa,
+<sup>1</sup> Il capitano di una nave svizzera che non abbandona per ultimo la sua nave in pericolo è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-chiunque, non avendo il potere di dare ordini o di punire a bordo, si arroga tale potere,
+<sup>2</sup> Il componente dell’equipaggio che abbandona una nave svizzera in pericolo senza l’autorizzazione del capitano è punito con una pena de-tentiva sino a un anno o con una pena pecuniaria.
 
-è punito con la detenzione.
+**Art. 135**[^134-2]
+
+<sup>1</sup> Il capitano di una nave svizzera che, intenzionalmente, non dirige o trascura il governo della nave posta sotto il suo comando è punito con una pena detentiva sino a un anno o con una pena pecuniaria.
+
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è della multa.
+
+**Art. 136**
+
+<sup>1</sup>
+
+È punito con una pena detentiva sino a tre anni o con una pena pecu-niaria:
+
+- a. il capitano o l’ufficiale di una nave svizzera che abusa del suo diritto di dare ordini a un subordinato impartendogli ordini che non hanno relazione alcuna con il servizio a bordo;
+- b. il capitano che oltrepassa il suo diritto d’infliggere pene disciplinari oppure ne abusa;
+- c. chiunque, non avendo il potere di dare ordini o di punire a bordo, si arroga tale potere.[^134-3]
 
 <sup>2</sup> La pena è della multa nei casi di minore importanza.
+
+[^134-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^134-2]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^134-3]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Diserzione
 
@@ -1782,69 +1809,80 @@ chiunque, non avendo il potere di dare ordini o di punire a bordo, si arroga tal
 
 [^137-1]
 
-<sup>1</sup> Il capitano o il membro dell’equipaggio di una nave svizzera che, in violazione del contratto di arruolamento, non si reca a bordo della nave ovvero l’abbandona dopo l’arruolamento, è punito, se dal fatto deriva un notevole ritardo nella partenza della nave o notevoli spese per evitare il ritardo, con la detenzione sino a sei mesi o con la multa sino a cinquemila franchi.
+<sup>1</sup> Il capitano o il membro dell’equipaggio di una nave svizzera che, in violazione del contratto di arruolamento, non si reca a bordo della na-ve ovvero l’abbandona dopo l’arruolamento, è punito, se dal fatto de-riva un notevole ritardo nella partenza della nave o notevoli spese per evitare il ritardo, con una pena pecuniaria.[^137-2]
 
-<sup>2</sup> Se più persone agiscono insieme, la pena è la detenzione o la multa. Gli istigatori sono puniti più severamente.
+<sup>2</sup> Se più persone agiscono insieme, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.[^137-3]
 
 <sup>3</sup> Nei casi di minore importanza, il reato è punito disciplinarmente.
 
 [^137-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^137-2]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^137-3]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Abbandono del posto
 
 #### Art. 138
 
-<sup>1</sup> Il membro dell’equipaggio di una nave svizzera che abbandona il suo posto o si addormenta nell’esercizio di una mansione essenziale per la sicurezza della nave o della navigazione è punito con la detenzione sino a sei mesi o con la multa sino a duemila franchi.
+<sup>1</sup> Il membro dell’equipaggio di una nave svizzera che abbandona il suo posto o si addormenta nell’esercizio di una mansione essenziale per la sicurezza della nave o della navigazione è punito con una pena pecuniaria.[^138-1]
 
 <sup>2</sup> Nei casi di minore importanza, il reato è punito disciplinarmente.
 
-### Ebbrezza
+[^138-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
+### Ebbrezza o intossicazione
 
 #### Art. 139
 
-<sup>1</sup> Il capitano di una nave svizzera che per causa di ebbrezza o di intossicazione colposa si trova in uno stato tale da escludere o da notevolmente menomare la sua capacità a condurre la nave è punito con la detenzione sino a un anno o con la multa sino a cinquemila franchi.
+[^139-1]
 
-<sup>2</sup> Il componente dell’equipaggio che nell’esercizio di una mansione essenziale per la sicurezza della nave o della navigazione si trova in uno stato d’ebbrezza o di intossicazione colposa è punito con la detenzione sino a sei mesi o con la multa sino a duemila franchi. Nei casi di minore importanza, il reato è punito disciplinarmente.
+<sup>1</sup> Il capitano di una nave svizzera che per causa di ebbrezza o di intossicazione si trova in uno stato tale da escludere o da notevolmente me-nomare la sua capacità a condurre la nave è punito con una pena de-tentiva sino a tre anni o con una pena pecuniaria.
+
+<sup>2</sup> Il componente dell’equipaggio che nell’esercizio di una mansione essenziale per la sicurezza della nave o della navigazione si trova in uno stato d’ebbrezza o di intossicazione è punito con una pena detentiva sino a un anno o con una pena pecuniaria. Nei casi di minore importanza, il reato è punito disciplinarmente.
+
+[^139-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Disobbedienza
 
 #### Art. 140
 
-<sup>1</sup> Il membro dell’equipaggio di una nave svizzera che disobbedisce a un ordine di un superiore concernente la direzione nautica o tecnica della nave oppure l’esecuzione di una pena disciplinare è punito con la detenzione sino a tre mesi o con la multa sino a mille franchi.
+<sup>1</sup> Il membro dell’equipaggio di una nave svizzera che disobbedisce a un ordine di un superiore concernente la direzione nautica o tecnica della nave oppure l’esecuzione di una pena disciplinare è punito con una pena pecuniaria sino a 90 aliquote giornaliere.[^140-1]
 
 <sup>2</sup> Nei casi di minore importanza, il reato è punito disciplinarmente.
 
-<sup>3</sup> Se l’ordine era inteso a salvare la nave stessa, un’altra nave o persone in pericolo, la pena è della detenzione sino a un anno o della multa sino a cinquemila franchi.
+<sup>3</sup> Se l’ordine era inteso a salvare la nave stessa, un’altra nave o persone in pericolo, la pena è una pena detentiva sino a un anno o una pena pecuniaria.[^140-2]
 
-<sup>4</sup> Le lesioni personali semplici e le vie di fatto cagionate da un membro dell’equipaggio a un superiore sono perseguite d’ufficio.[^140-1]
+<sup>4</sup> Le lesioni personali semplici e le vie di fatto cagionate da un membro dell’equipaggio a un superiore sono perseguite d’ufficio.[^140-3]
 
-[^140-1]: Introdotto dal n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^140-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^140-2]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^140-3]: Introdotto dal n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Imbarco abusivo
 
-#### Art. 141
-
-<sup>1</sup> Chiunque, senza l’autorizzazione dell’armatore o del capitano, imbarca, possiede o dissimula a bordo di una nave svizzera degli oggetti, in particolare oggetti pericolosi o vietati,
-
-chiunque, senza l’autorizzazione dell’armatore o del capitano, imbarca o nasconde persone a bordo di una nave svizzera,
-
-è punito con la detenzione o con la multa.
-
-<sup>2</sup> Nei casi di minore importanza, il reato è punito disciplinarmente.
-
 ### Pregiudizio da infrazioni
 
-[^titVIII-chapII-lvlu9-1]
+#### Art. 141
 
-[^titVIII-chapII-lvlu9-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1976, in vigore dal 1° ago. 1977 ([RU 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1165](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
+<sup>1</sup>
 
-#### Art. 142
+È punito con una pena detentiva sino a tre anni o con una pena pecu-niaria chiunque, senza l’autorizzazione dell’armatore o del capitano:
 
-<sup>1</sup> Chiunque, all’insaputa dell’armatore o del capitano di una nave svizzera, si dà al contrabbando o commette altri atti illeciti, esponendo in tal modo l’armatore o il capitano al pericolo d’essere punito oppure di subire una perdita in seguito al sequestro della nave o del carico, a ritardo nella partenza o ad altre misure analoghe, è punito con la detenzione sino a un anno o con la multa.
+- a. imbarca, possiede o dissimula a bordo di una nave svizzera degli oggetti, in particolare oggetti pericolosi o vietati;
+- b. imbarca o nasconde persone a bordo di una nave svizzera.[^141-1]
 
 <sup>2</sup> Nei casi di minore importanza, il reato è punito disciplinarmente.
 
-<sup>3</sup> Il capitano di una nave svizzera che commette tali reati all’insaputa dell’armatore è punito con la detenzione o con la multa.
+**Art. 142**
+
+<sup>1</sup> Chiunque, all’insaputa dell’armatore o del capitano di una nave svizzera, si dà al contrabbando o commette altri atti illeciti, esponendo in tal modo l’armatore o il capitano al pericolo d’essere punito oppure di subire una perdita in seguito al sequestro della nave o del carico, a ritardo nella partenza o ad altre misure analoghe, è punito con una pena detentiva sino a un anno o con una pena pecuniaria.[^141-2]
+
+<sup>2</sup> Nei casi di minore importanza, il reato è punito disciplinarmente.
+
+<sup>3</sup> Il capitano di una nave svizzera che commette tali reati all’insaputa dell’armatore è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.[^141-3]
+
+[^141-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^141-2]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^141-3]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Capo III: Reati contro l’organizzazione della navigazione marittima svizzera
 
@@ -1852,57 +1890,74 @@ chiunque, senza l’autorizzazione dell’armatore o del capitano, imbarca o nas
 
 #### Art. 143
 
-<sup>1</sup> Chiunque inalbera in mare la bandiera svizzera per una nave non iscritta nel registro del naviglio svizzero,
+[^143-1]
 
-il capitano di una nave svizzera che non inalbera in mare la bandiera svizzera o inalbera una bandiera straniera,
+<sup>1</sup>
 
-è punito con la detenzione o con la multa.
+È punito con una pena detentiva sino a tre anni o con una pena pecu-niaria:
+
+- a. chiunque inalbera in mare la bandiera svizzera per una nave non iscritta nel registro del naviglio svizzero;
+- b. il capitano di una nave svizzera che non inalbera in mare la bandiera svizzera o inalbera una bandiera straniera;
+- c. chiunque inalbera in mare la bandiera svizzera o un simbolo analogo per una nave di diporto non iscritta nel registro svizzero degli yacht;
+- d. chiunque inalbera in mare una bandiera straniera o un simbolo straniero analogo per una nave di diporto iscritta nel registro svizzero degli yacht.
 
 <sup>2</sup> Il capitano di una nave svizzera che non inalbera una bandiera svizzera della forma prescritta, o non l’inalbera nel modo usuale per le navi del medesimo tipo, è punito con la multa.
 
-<sup>3</sup> Chiunque inalbera in mare la bandiera svizzera o un simbolo analogo per una nave di diporto non iscritta nel registro svizzero degli yacht o una bandiera straniera o un simbolo straniero analogo per una nave di diporto iscritta nel registro svizzero degli yacht, è punito con la detenzione o con la multa.[^143-1]
-
-[^143-1]: Introdotto dal n. I della LF del 14 dic. 1965 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)). Nuovo testo giusta il n. I della LF del 17 dic. 1976, in vigore dal 1° ago. 1977 ([RU 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1165](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
+[^143-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Frode nella procedura d’iscrizione
 
 #### Art. 144
 
-<sup>1</sup> Chiunque fornisce dichiarazioni contrarie alla verità o dissimula fatti essenziali nella procedura d’iscrizione di una nave nel registro del naviglio svizzero o nella procedura di ripristinamento delle condizioni legali per l’iscrizione in tale registro, in particolare circa i requisiti legali concernenti la proprietà, i fondi propri e l’origine dei capitali, o l’assenza di qualsiasi interesse straniero non autorizzato, è punito con la detenzione o con la multa sino a cinquantamila franchi.
+[^144-1]
 
-<sup>2</sup> La pena è della multa sino a diecimila franchi, se il colpevole ha agito per negligenza.
+<sup>1</sup> Chiunque fornisce dichiarazioni contrarie alla verità o dissimula fatti essenziali nella procedura d’iscrizione di una nave nel registro del naviglio svizzero o nella procedura di ripristinamento delle condizioni legali per l’iscrizione in tale registro, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria. La pena è una pena pecuniaria se l’autore ha agito per negligenza.
 
-<sup>3</sup> Il proprietario o l’armatore di una nave svizzera che non notifica all’autorità competente fatti nuovi tali da provocare la cancellazione della nave dal registro del naviglio svizzero o il ritiro dell’atto di nazionalità,
+<sup>2</sup>
 
-il proprietario o il conduttore di una nave svizzera che concede in locazione o sublocazione la nave a un conduttore o a un subconduttore che non adempie le condizioni legali richieste da un armatore svizzero,
+È punito con la multa sino a 50 000 franchi:
 
-è punito con la multa sino a diecimila franchi.
+- a. il proprietario o l’armatore di una nave svizzera che non notifica all’autorità competente fatti nuovi tali da provocare la cancellazione della nave dal registro del naviglio svizzero o il ritiro dell’atto di nazionalità;
+- b. il proprietario o il conduttore di una nave svizzera che concede in locazione o sublocazione la nave a un conduttore o a un subconduttore che non adempie le condizioni legali richieste da un armatore svizzero.
 
-<sup>4</sup> Chiunque viola le prescrizioni del Consiglio federale sulla iscrizione di navi di diporto in un registro svizzero e chiunque, per ottenere l’iscrizione di una nave di diporto, fornisce dichiarazioni contrarie alla verità o dissimula fatti essenziali, è punito con la detenzione o con la multa sino a ventimila franchi. La pena è della multa sino a cinquemila franchi, se il colpevole ha agito per negligenza.[^144-1]
+<sup>3</sup> Chiunque viola intenzionalmente le prescrizioni del Consiglio federale sull’iscrizione di navi di diporto in un registro svizzero e chiunque, per ottenere l’iscrizione di una nave di diporto, fornisce dichiarazioni contrarie alla verità o dissimula fatti essenziali, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria. La pena è una pena pecuniaria se l’autore ha agito per negligenza.
 
-[^144-1]: Introdotto dal n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^144-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Sottrazione della nave, violazione di disposizione della autorità
 
 #### Art. 145
 
-<sup>1</sup> Chiunque sottrae una nave iscritta nel registro del naviglio svizzero al pignoramento, al sequestro, all’incanto, alla requisizione o all’espropriazione ordinate dall’autorità svizzera competente è punito con la detenzione o con la multa per un importo sino al valore della nave. Il giudice può, a domanda, assegnare alle persone lese l’importo della multa pagata, mediante cessione allo Stato della parte corrispondente dei loro crediti.
+[^145-1]
 
-<sup>2</sup> Il proprietario, l’armatore o il capitano di una nave svizzera che non osserva una misura presa dal Consiglio federale in virtù dell’articolo 6 è punito con la detenzione o con la multa.
+<sup>1</sup> Chiunque sottrae una nave iscritta nel registro del naviglio svizzero al pignoramento, al sequestro, all’incanto, alla requisizione o all’espropriazione ordinate dall’autorità svizzera competente è punito con una pena detentiva sino a tre anni o con una pena pecuniaria. L’articolo 71 del Codice penale[^145-2] è applicabile per analogia. Il giudice può assegnare alle persone lese, su loro richiesta, l’importo della pena pecuniaria pagata dal condannato e l’importo pagato in sostituzione, mediante cessione allo Stato della parte corrispondente dei loro crediti.
 
-<sup>3</sup> L’armatore, il vettore o il capitano che imbarca o trasporta a bordo di una nave svizzera merci vietate dal Consiglio federale è punito con la detenzione o con la multa. Se si tratta del trasporto vietato di materiale da guerra, la pena può essere della reclusione sino a cinque anni e della multa.
+<sup>2</sup> Il proprietario, l’armatore o il capitano di una nave svizzera che non osserva una misura presa dal Consiglio federale in virtù dell’articolo 6 è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+
+<sup>3</sup> L’armatore, il vettore o il capitano che imbarca o trasporta a bordo di una nave svizzera merci vietate dal Consiglio federale è punito con una pena detentiva sino a tre anni o con una pena pecuniaria. Se si tratta del trasporto vietato di materiale da guerra, la pena è una pena detentiva da uno a cinque anni.
+
+[^145-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^145-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Alienazione illecita
 
 #### Art. 146
 
-Chiunque aliena a uno straniero una nave svizzera la cui cancellazione non è stata autorizzata è punito con la detenzione o con la multa sino all’importo del valore venale della nave.
+[^146-1]
+
+Chiunque aliena a uno straniero una nave svizzera la cui cancellazione dal registro del naviglio svizzero non è stata autorizzata è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+
+[^146-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Mancata restituzione dell’atto di nazionalità
 
 #### Art. 147
 
-Chiunque contravviene all’obbligo che gli è imposto dalla legge di restituire l’atto di nazionalità o qualsiasi altro certificato concernente una nave svizzera è punito con la multa sino a ventimila franchi.
+[^147-1]
+
+Chiunque contravviene all’obbligo che gli è imposto dalla legge di restituire l’atto di nazionalità o qualsiasi altro certificato concernente una nave svizzera è punito con la multa sino a 100 000 franchi.
+
+[^147-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Negligenza nella tenuta dei libri di bordo
 
@@ -1948,7 +2003,11 @@ Il capitano o l’armatore di una nave svizzera che viola le disposizioni della 
 
 #### Art. 151
 
-Il capitano o l’armatore di una nave svizzera che contravviene alle disposizioni della presente legge e delle sue ordinanze e prescrizioni d’esecuzione concernenti la sicurezza dei trasporti di passeggeri sul mare, l’armamento delle navi a ciò destinate, oppure il vitto o l’alloggio dei passeggeri è punito, se il reato non è perseguibile in virtù di un’altra disposizione legale, con la multa sino a ventimila franchi.
+[^151-1]
+
+Il capitano o l’armatore di una nave svizzera che contravviene alle disposizioni della presente legge e delle sue prescrizioni d’esecuzione concernenti la sicurezza dei trasporti di passeggeri sul mare, l’armamento delle navi a ciò destinate oppure il vitto o l’alloggio dei passeggeri è punito, se non è adempiuta una fattispecie di reato più grave, con una multa sino a 100 000 franchi.
+
+[^151-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Distruzione e grave danneggiamento del patrimonio culturale subacqueo
 
@@ -1962,13 +2021,20 @@ Chiunque, a partire da una nave svizzera, distrugge o danneggia in modo grave il
 
 ### Capo IV: Disposizioni speciali
 
-### Pene accessorie
+### Misure
 
 #### Art. 152
 
-<sup>1</sup> Se alcuno fu condannato per esposizione a pericolo della nave o della navigazione, cattivo stato di navigabilità, omissione di soccorsi, abbandono della nave in pericolo, mancato esercizio del comando o abbandono del posto, il giudice può pronunciare, a titolo di pena accessoria, il ritiro del brevetto o dell’attestato d’idoneità professionale come pure il divieto di prestare servizio a bordo di una nave svizzera.
+[^152-1]
 
-<sup>2</sup> Se il colpevole è stato condannato per abuso della bandiera, per frode nella procedura d’iscrizione o per inosservanza di una misura presa dal Consiglio federale in virtù dell’articolo 6, il giudice può pronunciare a titolo di pena accessoria il ritiro dell’atto di nazionalità.
+<sup>1</sup> Se alcuno fu condannato per esposizione a pericolo della nave o della navigazione, cattivo stato di navigabilità, omissione di soccorsi, abbandono della nave in pericolo, mancato esercizio del comando o abbandono del posto, e vi è il pericolo che commetta nuovi atti di tale genere, il giudice può ordinare il ritiro del brevetto o dell’attestato d’idoneità professionale e vietargli di prestare servizio a bordo di una nave svizzera.
+
+<sup>2</sup> Se l’autore è stato condannato per abuso della bandiera, per frode nella procedura d’iscrizione o per inosservanza di una misura presa dal Consiglio federale in virtù dell’articolo 6, e vi è il pericolo che commetta nuovi atti di tale genere, il giudice può ordinare il ritiro dell’atto di nazionalità.
+
+<sup>3</sup> Queste misure possono essere adottate anche in caso di incapacità o di scemata imputabilità del colpevole secondo l’articolo 19 capoversi 1 e 2 del Codice penale svizzero[^152-2].
+
+[^152-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^152-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Infrazioni commesse nell’azienda
 
@@ -1976,21 +2042,20 @@ Chiunque, a partire da una nave svizzera, distrugge o danneggia in modo grave il
 
 [^153-1]
 
-<sup>1</sup> Se l’infrazione è commessa nella gestione degli affari di una persona giuridica, di una società in nome collettivo o in accomandita, di una ditta individuale o di una comunità di persone senza personalità giuridica, o altrimenti nell’esercizio di incombenze d’affari o di servizio per terze persone, le disposizioni penali si applicano alle persone fisiche che l’hanno commessa.
+Alle infrazioni commesse nell’azienda è applicabile l’articolo 6 della legge federale del 22 marzo 1974[^153-2] sul diritto penale amministrativo.
 
-<sup>2</sup> Il padrone d’azienda, il datore di lavoro, il mandante o la persona rappresentata che, intenzionalmente o per negligenza, in violazione di un obbligo giuridico, omette di impedire un’infrazione del subordinato, mandatario o rappresentante ovvero di paralizzarne gli effetti, soggiace alle disposizioni penali che valgono per l’autore che agisce intenzionalmente o per negligenza.
-
-<sup>3</sup> Se il padrone d’azienda, il datore di lavoro, il mandante o la persona rappresentata è una persona giuridica, una società in nome collettivo o in accomandita, una ditta individuale o una comunità di persone senza personalità giuridica, il capoverso 2 si applica agli organi, ai membri degli organi, ai soci preposti alla gestione, alle persone effettivamente dirigenti o ai liquidatori colpevoli.
-
-<sup>4</sup> Nei casi degli articoli 144 a 146, la persona giuridica, la società in nome collettivo o in accomandita, la ditta individuale o la comunità di persone senza personalità giuridica risponde solidalmente con il colpevole del pagamento delle multe.
-
-[^153-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1977, in vigore dal 1° ago. 1977 ([RU 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1165](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
+[^153-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^153-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Estradizione
 
 #### Art. 154
 
-I reati per i quali la presente legge commina la pena della detenzione della durata di un anno oppure una pena più grave danno luogo all’estradizione, nel senso della legislazione svizzera sull’estradizione agli Stati stranieri.
+[^154-1]
+
+I reati per i quali la presente legge commina una pena detentiva della durata di un anno oppure una pena più grave danno luogo all’estradizione ai sensi della legislazione svizzera sull’estradizione agli Stati stranieri.
+
+[^154-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Capo V: Ordinamento disciplinare
 
@@ -2054,10 +2119,10 @@ Possono essere inflitte esclusivamente le seguenti pene:
 
 <sup>2</sup> Se, in una procedura penale per un reato punito soltanto disciplinarmente nei casi di minore importanza, è ammesso tale caso o se l’atto commesso è considerato come una semplice mancanza disciplinare, il tribunale, assolvendo l’autore, può pronunciare tutte le pene disciplinari. Se l’autorità istruttoria ordina per gli stessi motivi il non luogo a procedere, essa trasmette l’incarto al presidente del tribunale che sarebbe competente per il giudizio penale. Quest’ultimo può pronunciare tutte le pene disciplinari proposte.[^157-1]
 
-<sup>3</sup> Se il colpevole non è più al servizio di una nave svizzera, una pena d’arresto della stessa durata può essere pronunciata in luogo e vece degli arresti disciplinari.[^157-2]
+<sup>3</sup> Se l’autore non è più al servizio di una nave svizzera, può essere pronunciata una multa sino a 3000 franchi in luogo e vece degli arresti disciplinari.[^157-2]
 
 [^157-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
-[^157-2]: Introdotto dal n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^157-2]: Introdotto dal n. I della LF del 20 mar. 1987 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)). Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Esecuzione delle pene disciplinari
 
@@ -2184,15 +2249,15 @@ Data dell’entrata in vigore: 1° gennaio 1957[^u1-167-1]
 
 [^u1-167-1]: DCF del 20 nov. 1956.
 
-Allegato I*[^t-1]*
+Allegato I[^t-1]
 
 (art. 3 cpv. 2)
 
 ## La bandiera marittima svizzera
 
-[^t-1]: Nuovo testo giusta il n. II 4 dell’all. 3 alla L del 21 giu. 2013 sulla protezione degli stemmi, in vigore dal 1° gen. 2017 ([RU 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^t-1]: Nuovo testo giusta l’all. 3 n. II 4 della L del 21 giu. 2013 sulla protezione degli stemmi, in vigore dal 1° gen. 2017 ([RU 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20201101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20230701/it/xml/image/image1.png)
 
 Definizione del colore rosso:
 
@@ -2214,7 +2279,7 @@ Allegato II
 
 (art. 38 della legge)
 
-## Convenzione internazionale del 10 aprile 1926**** per l’unificazione di alcune regole relative ai privilegi e alle ipoteche navali
+## Convenzione internazionale del 10 aprile 1926 per l’unificazione di alcune regole relative ai privilegi e alle ipoteche navali
 
 [^annexII-lvlu1-1]
 
@@ -2224,68 +2289,68 @@ Allegato III
 
 (art. 48 cpv. 3 della legge)
 
-## Convenzione internazionale del 29 novembre 1969**** sulla responsabilità civile per i danni derivanti da inquinamento da idrocarburi e protocolli del 19 novembre 1976 e del 25 maggio 1984
+## Convenzione internazionale del 29 novembre 1969 sulla responsabilità civile per i danni derivanti da inquinamento da idrocarburi e protocolli del 19 novembre 1976 e del 25 maggio 1984
 
 [^annexIII-lvlu1-1]
 
 [^annexIII-lvlu1-1]: [RS 0.814.291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3526),[0.814.291.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3527)
 
-Allegato IV*[^t-2]*
+Allegato IV[^t-2]
 
 (art. 49 cpv. 1 della legge)
 
-## Convenzione internazionale del 19 novembre 1976**** sulla limitazione della responsabilità in materia di navigazioni marittime
+## Convenzione internazionale del 19 novembre 1976 sulla limitazione della responsabilità in materia di navigazioni marittime
 
 [^annexIV-lvlu1-1]
 
 [^t-2]: Originario all. III
 [^annexIV-lvlu1-1]: [RS 0.747.331.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3083)
 
-Allegato V*[^t-3]*
+Allegato V[^t-3]
 
 (art. 101 cpv. 2 della legge)
 
-## Convenzione internazionale del 25 agosto 1924**** su l’unificazione di alcune regole in materia di polizza di carico e i suoi protocolli
+## Convenzione internazionale del 25 agosto 1924 su l’unificazione di alcune regole in materia di polizza di carico e i suoi protocolli
 
 [^annexV-lvlu1-1]
 
 [^t-3]: Originario all. IV
 [^annexV-lvlu1-1]: [RS 0.747.354.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3088)
 
-Allegato VI*[^t-4]*
+Allegato VI[^t-4]
 
 (art. 118 cpv. 1 della legge)
 
-## Convenzione d’Atene del 1974 relativa al trasporto per mare di passeggeri e dei loro bagagli, del 13 dicembre 1974****
+## Convenzione d’Atene del 1974 relativa al trasporto per mare di passeggeri e dei loro bagagli, del 13 dicembre 1974
 
 [^annexVI-lvlu1-1]
 
 [^t-4]: Originario all. V
 [^annexVI-lvlu1-1]: RS **747.356.11**
 
-Allegato VII*[^t-5]*
+Allegato VII[^t-5]
 
 (art. 121 cpv. 1 della legge)
 
-## Convenzione internazionale del 23 settembre 1910**** per l’unificazione di alcune regole in materia di urto fra navi
+## Convenzione internazionale del 23 settembre 1910 per l’unificazione di alcune regole in materia di urto fra navi
 
 [^annexVII-lvlu1-1]
 
 [^t-5]: Originario all. VI
 [^annexVII-lvlu1-1]: [RS 0.747.363.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3094)
 
-Allegato VIII*[^t-6]*
+Allegato VIII[^t-6]
 
 (art. 121 cpv. 2 della legge)
 
-## Convenzione internazionale del 23 settembre 1910**** per l’unificazione di alcune regole in materia di assistenza e di salvataggio marittimi
+## Convenzione internazionale del 23 settembre 1910 per l’unificazione di alcune regole in materia di assistenza e di salvataggio marittimi
 
 [^annexVIII-lvlu1-1]
 
 [^t-6]: Originario all. VII
 [^annexVIII-lvlu1-1]: [RS 0.747.363.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3095)
 
-Allegato IX*[^t-7]*
+Allegato IX[^t-7]
 
 (art. 122 cpv. 2 della legge)
 
@@ -2297,7 +2362,7 @@ Allegato X
 
 (art. 127 cpv. 3 della legge)
 
-## Convenzione del 15 marzo 1960**** per l’unificazione di alcune regole in materia di urto fra navi nella navigazione interna
+## Convenzione del 15 marzo 1960 per l’unificazione di alcune regole in materia di urto fra navi nella navigazione interna
 
 [^annexX-lvlu1-1]
 

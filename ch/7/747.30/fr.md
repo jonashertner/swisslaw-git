@@ -4,18 +4,18 @@ title: Loi fédérale du 23 septembre 1953 sur la navigation maritime sous pavil
 short: LNM
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407"
 language: fr
-version: 2020-11-01
+version: 2023-07-01
 adopted: 1953-09-23
 in_force: 1957-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20201101/fr/xml/fedlex-data-admin-ch-eli-cc-1956-1305_1395_1407-20201101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/1305_1395_1407/20201101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1956-1305_1395_1407-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/1305_1395_1407/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur la navigation maritime sous pavillon suisse
 
-du 23 septembre 1953 (Etat le 1<sup>er</sup> novembre 2020)
+du 23 septembre 1953 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -67,14 +67,19 @@ La navigation maritime sous pavillon suisse est régie par le droit suisse dans 
 
 <sup>3</sup> Les dispositions pénales de la présente loi sont en outre applicables, que les infractions qu’elles répriment aient été commises hors de Suisse ou en Suisse.
 
-<sup>4</sup> S’il n’a subi à l’étranger qu’une partie de la peine prononcée contre lui, cette partie sera imputée sur la peine à prononcer.
+<sup>4</sup>
 
-L’auteur ne pourra plus être puni en Suisse:
+Sous réserve d’une violation grave des principes fondamentaux du droit constitutionnel et de la Convention européenne du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales[^4-2], l’auteur ne peut plus être poursuivi en Suisse pour le même acte:
 
-- – s’il a été acquitté à l’étranger pour le même acte par un jugement passé en force;
-- – s’il a subi la peine prononcée contre lui à l’étranger, si cette peine lui a été remise, ou si elle est prescrite.
+- a. s’il a été acquitté à l’étranger par un jugement définitif, ou
+- b. s’il a subi la sanction prononcée contre lui à l’étranger, que celle-ci lui a été remise ou qu’elle est prescrite.[^4-3]
+
+<sup>5</sup> Si, en raison de cet acte, l’auteur a été condamné à l’étranger et qu’il n’y a subi qu’une partie de la peine prononcée contre lui, le juge impute cette partie sur la peine à prononcer. Il décide si la mesure ordonnée et partiellement exécutée à l’étranger doit être poursuivie ou imputée sur la peine prononcée en Suisse.[^4-4]
 
 [^4-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^4-2]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^4-3]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^4-4]: Introduit par le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Conclusion de conventions internationales par le Conseil fédéral
 
@@ -154,7 +159,7 @@ Le Conseil fédéral peut conclure des conventions internationales adoptées sou
 
 <sup>4</sup> L’OSNM peut déléguer à des sociétés de classification reconnues certaines tâches d’inspection, de contrôle ou de décision, notamment celles prévues dans la convention du travail maritime du 23 février 2006[^9-1].[^9-2]
 
-[^9-1]: [RS 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669); [RO 2013 2511](https://fedlex.data.admin.ch/eli/oc/2013/530)
+[^9-1]: [RS 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
 [^9-2]: Introduit par l’art. 2 de l’AF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 20 août 2013 ([RO 2013 2507](https://fedlex.data.admin.ch/eli/oc/2013/529); [FF 2009 8141](https://fedlex.data.admin.ch/eli/fga/2009/1535)).
 
 ### Office du registre des navires suisses
@@ -193,7 +198,7 @@ Le Conseil fédéral peut conclure des conventions internationales adoptées sou
 
 <sup>1</sup> Les dispositions générales de la procédure fédérale s’appliquent aux recours dirigés contre les décisions de l’OSNM.
 
-<sup>2</sup> ...[^13-2]
+<sup>2</sup> …[^13-2]
 
 [^13-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> août 1977 ([RO 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1153](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
 [^13-2]: Abrogé par l’annexe ch. 81 de la loi du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -212,13 +217,13 @@ Le Conseil fédéral peut conclure des conventions internationales adoptées sou
 
 #### Art. 15
 
-<sup>1</sup> Les autorités du canton de Bâle-Ville poursuivent et jugent les infractions pénales commises à bord des navires suisses ainsi que les infractions spécialement réprimées par la présente loi, à moins que ne soit prévue la compétence du Tribunal pénal fédéral ou celle des tribunaux militaires. Le produit des amendes prononcées en vertu de la présente loi appartient au canton de Bâle-Ville.[^15-1]
+<sup>1</sup> Les autorités du canton de Bâle-Ville poursuivent et jugent les infractions pénales commises à bord des navires suisses ainsi que les infractions spécialement réprimées par la présente loi, à moins que ne soit prévue la compétence du Tribunal pénal fédéral ou celle des tribunaux militaires. Le produit des peines pécuniaires et des amendes prononcées en vertu de la présente loi appartient au canton de Bâle-Ville.[^15-1]
 
 <sup>2</sup> Les contraventions prévues par la présente loi sont constatées par l’OSNM.
 
 <sup>3</sup> Les autorités du canton de Bâle-Ville communiquent au Ministère public fédéral tous les jugements pénaux et ordonnances de non-lieu rendus sur la base de la présente loi.
 
-[^15-1]: Nouvelle teneur selon l’annexe ch. 17 de la LF du 4 oct. 2002 sur le TPF, en vigueur depuis le 1<sup>er</sup> avril 2004 ([RO 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^15-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 16
 
@@ -442,7 +447,7 @@ L’OSNM peut fixer les conditions de sécurité appropriées et établir les do
 
 [^33-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 1992, en vigueur depuis le 1<sup>er</sup> juin 1993 ([RO 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1533](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
-### 2. ...
+### 2. …
 
 #### Art. 34
 
@@ -1399,7 +1404,7 @@ Avant le chargement des marchandises à bord, le chargeur est tenu de fournir pa
 
 <sup>1</sup> Le fret n’est dû que si les marchandises sont livrées ou mises à la disposition du destinataire au port de destination, les dispositions des art. 88 et 89 étant réservées.
 
-<sup>2</sup> Toutefois, le fret est dû en entier lorsque le défaut de livraison provient d’un fait imputable au chargeur ou au destinataire ou bien du vice propre de la marchandise, lorsque celle-ci, dangereuse ou prohibée, a dû être déchargée, détruite ou jetée à la mer en cours de route. ...[^109-1]
+<sup>2</sup> Toutefois, le fret est dû en entier lorsque le défaut de livraison provient d’un fait imputable au chargeur ou au destinataire ou bien du vice propre de la marchandise, lorsque celle-ci, dangereuse ou prohibée, a dû être déchargée, détruite ou jetée à la mer en cours de route. …[^109-1]
 
 <sup>3</sup> S’agissant du transport d’animaux morts en cours de route, le fret est dû à moins que le chargeur n’apporte la preuve que la mort de l’animal est due à la faute du transporteur.
 
@@ -1605,7 +1610,7 @@ Le transporteur n’est pas tenu d’insérer dans le connaissement:
 
 [^124-1]: Nouvelle teneur selon l’annexe ch. 15 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
-## Titre VI*a***** Patrimoine culturel subaquatique
+## Titre VI*a* Patrimoine culturel subaquatique
 
 [^titVIa-1]
 
@@ -1669,11 +1674,7 @@ Le transporteur n’est pas tenu d’insérer dans le connaissement:
 [^127-4]: Nouvelle teneur selon le ch. II de la LF du 8 oct. 1971 modifiant la loi sur le registre des bateaux, en vigueur depuis le 1<sup>er</sup> fév. 1972 ([RO 1972 349](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [FF 1970 II 1248](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
 [^127-5]: Ancien al. 4. Nouvelle teneur selon le ch. I de la LF du 14 déc. 1965, en vigueur depuis le 1<sup>er</sup> janv. 1967 ([RO 1966 1503](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 303](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
-## Titre VIII Dispositions pénales et disciplinaires****
-
-[^titVIII-1]
-
-[^titVIII-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+## Titre VIII Dispositions pénales et disciplinaires
 
 ### Chapitre I Des infractions contre la sécurité du navire et de la navigation
 
@@ -1681,23 +1682,30 @@ Le transporteur n’est pas tenu d’insérer dans le connaissement:
 
 #### Art. 128
 
-<sup>1</sup> Celui qui, intentionnellement, aura endommagé, détruit, rendu inutilisable, mis hors d’usage ou fait disparaître un navire suisse, ses parties intégrantes ou ses accessoires, ou bien les moyens de bord en combustibles ou en vivres,
+[^128-1]
 
-celui qui, intentionnellement, aura empêché ou troublé la conduite du navire ou bien l’ordre ou la vie à bord, et aura par là sciemment mis en danger le navire ou les personnes se trouvant à bord, sera puni de la réclusion pour dix ans au plus ou de l’emprisonnement.
+<sup>1</sup>
 
-<sup>2</sup> La peine sera la réclusion si l’acte a causé la perte du navire ou la mort d’une personne et si le délinquant pouvait le prévoir.
+Est puni d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire quiconque met sciemment en danger un navire suisse ou les personnes se trouvant à bord en se livrant intentionnellement aux actes suivants:
 
-<sup>3</sup> La peine sera l’emprisonnement ou l’amende si le délinquant a agi par négligence.
+- a. en endommageant, détruisant, rendant inutilisable, mettant hors d’usage ou faisant disparaître le navire, ses parties intégrantes ou ses accessoires, ou bien les moyens de bord en combustibles ou en vivres;
+- b. en empêchant ou troublant la conduite du navire ou bien l’ordre ou la vie à bord.
+
+<sup>2</sup> Il est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.
+
+[^128-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Mise en péril de la navigation
 
 #### Art. 129
 
-<sup>1</sup> Le capitaine ou le marin d’un navire suisse qui aura intentionnellement violé les dispositions légales ou les règles reconnues sur la conduite nautique du navire ou les autres prescriptions suisses ou étrangères sur la circulation et la police de la mer et aura par là sciemment mis en danger son navire ou un autre navire ou bien les personnes se trouvant à bord de l’un d’eux, sera puni de l’emprisonnement.
+[^129-1]
 
-<sup>2</sup> La peine peut être la réclusion pour dix ans au plus si l’acte a causé la perte d’un navire ou la mort d’une personne et si le délinquant pouvait le prévoir.
+<sup>1</sup> Le capitaine ou le marin d’un navire suisse qui viole intentionnellement les dispositions légales ou les règles reconnues sur la conduite nautique du navire ou les autres prescriptions suisses ou étrangères sur la circulation et la police de la mer et, par là, met sciemment en danger son navire ou un autre navire ou bien les personnes se trouvant à bord de l’un d’eux, est puni d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire.
 
-<sup>3</sup> La peine sera l’emprisonnement ou l’amende si le délinquant a agi par négligence.
+<sup>2</sup> Il est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.
+
+[^129-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Pollution des mers
 
@@ -1705,41 +1713,59 @@ celui qui, intentionnellement, aura empêché ou troublé la conduite du navire 
 
 [^129a-1]
 
-<sup>1</sup> Celui qui viole les conventions internationales, la présente loi ou ses ordonnances d’exécution, en introduisant ou en déposant en mer à partir d’un navire suisse toute matière solide, liquide, gazeuse ou radioactive de nature à polluer les eaux ou les fonds marins et leur sous-sol, sera puni de l’emprisonnement ou de l’amende.
+<sup>1</sup> Quiconque viole les conventions internationales, la présente loi ou ses ordonnances d’exécution, en introduisant ou en déposant en mer à partir d’un navire suisse toute matière solide, liquide, gazeuse ou radioactive de nature à polluer les eaux ou les fonds marins et leur sous-sol, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^129a-2]
 
-<sup>2</sup> Si l’auteur de l’infraction a agi par négligence, il sera puni de l’emprisonnement pour six mois au plus ou d’une amende de 20 000 francs au maximum.
+<sup>2</sup> L’auteur est puni d’une peine pécuniaire s’il agit par négligence.[^129a-3]
 
 <sup>3</sup> Dans les cas de peu de gravité, une répression disciplinaire est prévue.
 
 [^129a-1]: Introduit par le ch. I de la LF du 20 mars 1987, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 741](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^129a-2]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^129a-3]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-### Contraventions aux règles nautiques
+### Contravention aux règles nautiques
 
 #### Art. 130
 
-Le capitaine ou le marin d’un navire suisse qui aura violé les dispositions légales ou les règles reconnues sur la conduite nautique du navire ou les prescriptions suisses ou étrangères sur la circulation des navires et la police de la mer sera, si l’acte n’est pas punissable en vertu d’une autre disposition légale, puni d’une amende de 5000 francs au plus.
+[^130-1]
+
+Le capitaine ou le marin d’un navire suisse qui viole les dispositions légales ou les règles reconnues sur la conduite nautique du navire ou les prescriptions suisses ou étrangères sur la circulation des navires et la police de la mer est, si l’acte n’est pas punissable en vertu d’une autre disposition légale, puni d’une amende de 20 000 francs au plus.
+
+[^130-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Mauvaise navigabilité
 
 #### Art. 131
 
-<sup>1</sup> Le capitaine qui aura intentionnellement ou par négligence pris la mer avec un navire suisse innavigable, insuffisamment équipé, armé ou approvisionné et aura par là mis en danger le navire ou les personnes se trouvant à bord, sera puni de l’emprisonnement ou de l’amende.
+[^131-1]
 
-<sup>2</sup> La peine sera la réclusion pour cinq ans au plus ou l’emprisonnement si l’acte a causé la perte du navire ou la mort d’une personne et si le délinquant pouvait le prévoir.
+<sup>1</sup> Le capitaine qui prend intentionnellement la mer avec un navire suisse innavigable, ou insuffisamment équipé, armé ou approvisionné et, par là, met en danger le navire ou les personnes se trouvant à bord, est puni d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire.
 
-### Contraventions aux règles de navigabilité
+<sup>2</sup> Il est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.
+
+[^131-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
+### Infractions aux règles de navigabilité
 
 #### Art. 132
 
-Le capitaine ou l’armateur qui aura fait naviguer un navire suisse innavigable, insuffisamment équipé, armé ou approvisionné sera, si l’acte n’est pas punissable en vertu d’une autre disposition légale, puni d’une amende de 5000 francs au plus.
+[^132-1]
+
+Le capitaine ou l’armateur qui fait naviguer un navire suisse innavigable, ou insuffisamment équipé, armé ou approvisionné est, si l’acte n’est pas puni plus sévèrement en vertu d’une autre disposition légale, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^132-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Défaut d’assistance
 
 #### Art. 133
 
-<sup>1</sup> Le capitaine d’un navire suisse qui aura manqué à son devoir de prêter assistance à un autre navire ou à des personnes en danger de se perdre en mer, alors qu’il était à même de les secourir sans danger sérieux pour son propre navire, son équipage ou ses passagers, sera puni de l’emprisonnement.
+[^133-1]
 
-<sup>2</sup> La peine sera l’amende si le délinquant a agi par négligence.
+<sup>1</sup> Le capitaine d’un navire suisse qui manque à son devoir de prêter assistance à un autre navire ou à des personnes en danger de se perdre en mer, alors qu’il est à même de les secourir sans danger sérieux pour son propre navire, son équipage ou ses passagers, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+<sup>2</sup> Il est puni d’une peine pécuniaire s’il agit par négligence.
+
+[^133-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Chapitre II Des infractions contre la discipline et l’ordre à bord
 
@@ -1747,31 +1773,43 @@ Le capitaine ou l’armateur qui aura fait naviguer un navire suisse innavigable
 
 #### Art. 134
 
-<sup>1</sup> Le capitaine d’un navire suisse qui n’aura pas quitté le dernier son navire en danger sera puni de l’emprisonnement ou de l’amende.
+[^134-1]
 
-<sup>2</sup> Le marin qui aura quitté un navire suisse en danger sans autorisation du capitaine sera puni de l’emprisonnement pour un an au plus ou de l’amende.
+<sup>1</sup> Le capitaine d’un navire suisse qui ne quitte pas le dernier son navire en danger est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+<sup>2</sup> Le marin qui quitte un navire suisse en danger sans autorisation du capitaine est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.
+
+[^134-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Non-exercice du commandement
 
 #### Art. 135
 
-<sup>1</sup> Le capitaine d’un navire suisse qui, intentionnellement, n’aura pas exercé ou aura négligé la conduite du navire qui lui incombe sera puni de l’emprisonnement pour un an au plus ou de l’amende.
+[^135-1]
 
-<sup>2</sup> La peine sera l’amende si le délinquant a agi par négligence.
+<sup>1</sup> Le capitaine d’un navire suisse qui, intentionnellement, n’exerce pas ou néglige la conduite du navire qui lui incombe est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.
+
+<sup>2</sup> Il est puni d’une amende s’il agit par négligence.
+
+[^135-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Abus et usurpation de pouvoir
 
 #### Art. 136
 
-<sup>1</sup> Le capitaine ou l’officier d’un navire suisse qui aura abusé de son pouvoir de donner des ordres à un subordonné pour lui donner des ordres sans aucun rapport avec le service à bord,
+[^136-1]
 
-le capitaine qui aura outrepassé son pouvoir d’infliger des peines disciplinaires ou qui en aura abusé,
+<sup>1</sup>
 
-celui qui, n’ayant pas le pouvoir de donner des ordres ou de punir à bord d’un navire suisse, se sera arrogé un tel pouvoir,
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire:
 
-sera puni de l’emprisonnement.
+- a. le capitaine ou l’officier d’un navire suisse qui abuse de son pouvoir de donner des ordres à un subordonné pour lui donner des ordres sans aucun rapport avec le service à bord;
+- b. le capitaine qui outrepasse son pouvoir d’infliger des peines disciplinaires ou qui en abuse;
+- c. quiconque, n’ayant pas le pouvoir de donner des ordres ou de punir à bord d’un navire suisse, s’arroge un tel pouvoir.
 
-<sup>2</sup> La peine sera l’amende si l’infraction est de peu de gravité.
+<sup>2</sup> L’auteur est puni d’une amende si l’infraction est de peu de gravité.
+
+[^136-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Désertion
 
@@ -1779,65 +1817,84 @@ sera puni de l’emprisonnement.
 
 [^137-1]
 
-<sup>1</sup> Le capitaine ou le marin d’un navire qui, en violation de son contrat d’engagement, ne se sera pas rendu à bord ou aura quitté le navire étant enrôlé, sera, si le départ du navire est de ce fait sérieusement retardé ou si des dépenses considérables sont encourues pour éviter le retard, puni de l’emprisonnement pour six mois au plus ou d’une amende de 5000 francs au plus.
+<sup>1</sup> Le capitaine ou le marin d’un navire qui, en violation de son contrat d’engagement, ne se rend pas à bord ou quitte le navire étant enrôlé, est, si le départ du navire est de ce fait sérieusement retardé ou si des dépenses considérables sont encourues pour éviter le retard, puni d’une peine pécuniaire.
 
-<sup>2</sup> Lorsque plusieurs marins agiront de concert, la peine sera l’emprisonnement ou l’amende. Les instigateurs seront punis plus sévèrement.
+<sup>2</sup> Lorsque plusieurs marins agissent de concert, ils sont punis d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>3</sup> L’infraction sera punie disciplinairement si elle est de peu de gravité.
+<sup>3</sup> L’infraction est punie disciplinairement si elle est de peu de gravité.
 
-[^137-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 1965, en vigueur depuis le 1<sup>er</sup> janv. 1967 ([RO 1966 1503](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 303](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^137-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Abandon de poste
 
 #### Art. 138
 
-<sup>1</sup> Le marin d’un navire suisse qui, commis à un service essentiel à la sûreté du navire ou de la navigation, aura abandonné son poste ou se sera endormi pendant ce service, sera puni de l’emprisonnement pour six mois au plus ou d’une amende de 2000 francs au plus.
+[^138-1]
 
-<sup>2</sup> L’infraction sera punie disciplinairement si elle est de peu de gravité.
+<sup>1</sup> Le marin d’un navire suisse qui, commis à un service essentiel à la sûreté du navire ou de la navigation, abandonne son poste ou s’endort pendant ce service, est puni d’une peine pécuniaire.
 
-### Ivresse
+<sup>2</sup> L’infraction est punie disciplinairement si elle est de peu de gravité.
+
+[^138-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
+### Ivresse ou intoxication
 
 #### Art. 139
 
-<sup>1</sup> Le capitaine d’un navire suisse qui se sera trouvé, ensuite d’ivresse ou d’intoxication due à sa faute, dans un état excluant ou diminuant sérieusement sa capacité pour conduire le navire, sera puni de l’emprisonnement pour un an ou d’une amende de 5000 francs au plus.
+[^139-1]
 
-<sup>2</sup> Le marin qui se sera trouvé, durant un service essentiel à la sûreté du navire ou de la navigation, dans un état d’ivresse ou d’intoxication due à sa faute, sera puni de l’emprisonnement pour six mois au plus ou d’une amende de 2000 francs au plus. L’infraction sera punie disciplinairement si elle est de peu de gravité.
+<sup>1</sup> Le capitaine d’un navire suisse qui se trouve, ensuite d’ivresse ou d’intoxication, dans un état excluant ou diminuant sérieusement sa capacité de conduire le navire, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+<sup>2</sup> Le marin qui se trouve, durant un service essentiel à la sûreté du navire ou de la navigation, dans un état d’ivresse ou d’intoxication, est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire. L’infraction est punie disciplinairement si elle est de peu de gravité.
+
+[^139-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Désobéissance
 
 #### Art. 140
 
-<sup>1</sup> Le marin d’un navire suisse qui n’aura pas obéi à un ordre d’un supérieur concernant la conduite nautique ou technique du navire ou bien l’exécution d’une peine disciplinaire sera puni de l’emprisonnement pour trois mois au plus ou d’une amende de 1000 francs au plus.
+[^140-1]
 
-<sup>2</sup> L’infraction sera punie disciplinairement si elle est de peu de gravité.
+<sup>1</sup> Le marin d’un navire suisse qui n’obéit pas à un ordre d’un supérieur concernant la conduite nautique ou technique du navire ou bien l’exécution d’une peine disciplinaire est puni d’une peine pécuniaire de 90 jours-amende au plus.
 
-<sup>3</sup> S’il s’agit d’un ordre visant à sauver le navire lui-même, un autre navire ou des personnes en danger de se perdre en mer, la peine sera l’emprisonnement pour un an au plus ou une amende de 5000 francs au plus.
+<sup>2</sup> L’infraction est punie disciplinairement si elle est de peu de gravité.
 
-<sup>4</sup> Les lésions corporelles simples ou les voies de fait commises par un marin sur la personne d’un supérieur seront poursuivies d’office.[^140-1]
+<sup>3</sup> S’il s’agit d’un ordre visant à sauver le navire lui-même, un autre navire ou des personnes en danger de se perdre en mer, l’auteur est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.
 
-[^140-1]: Introduit par le ch. I de la LF du 14 déc. 1965, en vigueur depuis le 1<sup>er</sup> janv. 1967 ([RO 1966 1503](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 303](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+<sup>4</sup> Les lésions corporelles simples ou les voies de fait commises par un marin sur la personne d’un supérieur sont poursuivies d’office.
+
+[^140-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Embarquements prohibés
 
 #### Art. 141
 
-<sup>1</sup> Celui qui, sans autorisation de l’armateur ou du capitaine, aura embarqué, possédé ou dissimulé à bord d’un navire suisse des objets, notamment des objets dangereux ou prohibés, celui qui, sans autorisation de l’armateur ou du capitaine, aura embarqué ou caché des personnes à bord d’un navire suisse, sera puni de l’emprisonnement ou de l’amende.
+[^141-1]
 
-<sup>2</sup> L’infraction sera punie disciplinairement si elle est de peu de gravité.
+<sup>1</sup>
+
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, sans autorisation de l’armateur ou du capitaine:
+
+- a. embarque, possède ou dissimule à bord d’un navire suisse des objets, notamment des objets dangereux ou prohibés;
+- b. embarque ou cache des personnes à bord d’un navire suisse.
+
+<sup>2</sup> L’infraction est punie disciplinairement si elle est de peu de gravité.
+
+[^141-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Actes préjudiciables à l’armateur ou au capitaine
 
-[^titVIII-chapII-lvlu9-1]
-
-[^titVIII-chapII-lvlu9-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> août 1977 ([RO 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1153](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
-
 #### Art. 142
 
-<sup>1</sup> Celui qui, à l’insu de l’armateur ou du capitaine d’un navire suisse, se sera livré à la contrebande ou aura commis d’autres actes illicites et aura par là mis l’armateur ou le capitaine en danger d’être punis ou d’être frappés par une saisie du navire ou de la cargaison, par un retardement du départ ou par toute autre mesure analogue, sera puni de l’emprisonnement pour un an au plus ou de l’amende.
+[^142-1]
 
-<sup>2</sup> L’infraction sera punie disciplinairement si elle est de peu de gravité.
+<sup>1</sup> Quiconque, à l’insu de l’armateur ou du capitaine d’un navire suisse, se livre à la contrebande ou commet d’autres actes illicites et, par là, met l’armateur ou le capitaine en danger d’être punis ou d’être frappés par une saisie du navire ou de la cargaison, par un retardement du départ ou par toute autre mesure analogue, est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.
 
-<sup>3</sup> Le capitaine d’un navire suisse qui aura commis de tels actes à l’insu de l’armateur sera puni de l’emprisonnement ou de l’amende.
+<sup>2</sup> L’infraction est punie disciplinairement si elle est de peu de gravité.
+
+<sup>3</sup> Le capitaine d’un navire suisse qui commet de tels actes à l’insu de l’armateur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^142-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Chapitre III Des infractions contre l’organisation de la navigation suisse
 
@@ -1845,55 +1902,74 @@ sera puni de l’emprisonnement.
 
 #### Art. 143
 
-<sup>1</sup> Celui qui aura battu le pavillon suisse sur mer pour couvrir la navigation d’un bâtiment non enregistré au registre des navires suisses, le capitaine d’un navire suisse qui n’aura pas battu le pavillon suisse sur mer ou qui aura battu un pavillon étranger,
+[^143-1]
 
-sera puni de l’emprisonnement ou de l’amende.
+<sup>1</sup>
 
-<sup>2</sup> Le capitaine d’un navire suisse qui n’aura pas arboré un pavillon suisse de la forme prévue, ou qui ne l’aura pas arboré de la manière usuelle pour les navires de la catégorie du sien, sera puni de l’amende.
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire:
 
-<sup>3</sup> Celui qui aura battu sur mer le pavillon suisse ou un signe analogue pour couvrir la navigation d’un yacht non inscrit dans le registre des yachts suisses ou qui aura battu un pavillon étranger ou un signe analogue étranger pour un yacht inscrit dans le registre des yachts suisses, sera puni de l’emprisonnement ou de l’amende.[^143-1]
+- a. quiconque bat le pavillon suisse sur mer pour couvrir la navigation d’un bâtiment non enregistré au registre des navires suisses;
+- b. le capitaine d’un navire suisse qui ne bat pas le pavillon suisse sur mer ou qui bat un pavillon étranger;
+- c. quiconque bat sur mer le pavillon suisse ou un signe analogue pour couvrir la navigation d’un yacht non inscrit dans le registre des yachts suisses;
+- d. quiconque bat un pavillon étranger ou un signe analogue étranger pour un yacht inscrit dans le registre des yachts suisses.
 
-[^143-1]: Introduit par le ch. I de la LF du 14 déc. 1965 ([RO 1966 1503](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 303](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)). Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> août 1977 ([RO 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1153](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
+<sup>2</sup> Le capitaine d’un navire suisse qui n’arbore pas un pavillon suisse de la forme prévue, ou qui ne l’arbore pas de la manière usuelle pour les navires de la catégorie du sien, est puni d’une amende.
+
+[^143-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Fraude dans l’enregistrement
 
 #### Art. 144
 
-<sup>1</sup> Celui qui, lors de la procédure d’enregistrement d’un navire dans le registre des navires suisses ou de la procédure de régularisation des conditions de propriété, aura fait des déclarations inexactes ou dissimulé des faits essentiels notamment quant aux conditions légales relatives à la propriété, à l’existence de fonds propres, à l’origine des capitaux et à l’absence de tout intérêt étranger non autorisé, sera puni de l’emprisonnement ou d’une amende de 50 000 francs au plus.
+[^144-1]
 
-<sup>2</sup> La peine sera une amende de 10 000 francs au plus si le délinquant a agi par négligence.
+<sup>1</sup> Quiconque, lors de la procédure d’enregistrement d’un navire dans le registre des navires suisses ou de la procédure de régularisation des conditions de propriété, fait des déclarations inexactes ou dissimule des faits essentiels est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire. L’auteur est puni d’une peine pécuniaire s’il agit par négligence.
 
-<sup>3</sup> Le propriétaire ou l’armateur d’un navire suisse qui n’aura pas annoncé à l’autorité compétente des faits nouveaux de nature à provoquer la radiation du navire du registre des navires suisses ou le retrait de la lettre de mer,
+<sup>2</sup>
 
-le propriétaire ou le locataire d’un navire suisse qui aura loué ou sous-loué le navire à un locataire ou sous-locataire ne remplissant pas les conditions légales exigées d’un armateur suisse, sera puni d’une amende de 10 000 francs au plus.
+Est puni d’une amende de 50 000 francs au plus:
 
-<sup>4</sup> Celui qui aura contrevenu aux prescriptions du Conseil fédéral sur l’enregistrement des yachts de plaisance dans un registre suisse, celui qui aura fait des déclarations inexactes ou dissimulé des faits essentiels en vue d’obtenir l’enregistrement d’un yacht de plaisance,
+- a. le propriétaire ou l’armateur d’un navire suisse qui n’annonce pas à l’autorité compétente des faits nouveaux de nature à provoquer la radiation du navire du registre des navires suisses ou le retrait de la lettre de mer;
+- b. le propriétaire ou le locataire d’un navire suisse qui loue ou sous-loue le navire à un locataire ou sous-locataire ne remplissant pas les conditions légales exigées d’un armateur suisse.
 
-sera puni de l’emprisonnement ou d’une amende de 20 000 francs au plus. La peine sera une amende de 5000 francs au plus si le délinquant a agi par négligence.[^144-1]
+<sup>3</sup> Quiconque, intentionnellement, contrevient aux prescriptions du Conseil fédéral sur l’enregistrement des yachts de plaisance dans un registre suisse ou fait des déclarations inexactes ou dissimule des faits essentiels en vue d’obtenir l’enregistrement d’un yacht de plaisance, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire. L’auteur est puni d’une peine pécuniaire s’il agit par négligence.
 
-[^144-1]: Introduit par le ch. I de la LF du 14 déc. 1965, en vigueur depuis le 1<sup>er</sup> janv. 1967 ([RO 1966 1503](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 303](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^144-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Soustraction du navire, violation d’une disposition de l’autorité
 
 #### Art. 145
 
-<sup>1</sup> Celui qui aura soustrait un navire enregistré dans le registre des navires suisses à la saisie, au séquestre, à la vente aux enchères, à la réquisition ou à l’expropriation ordonnées par l’autorité suisse compétente sera puni de l’emprisonnement ou de l’amende pour la valeur du navire au plus. Le juge pourra, sur requête, allouer aux lésés le montant de l’amende payée, contre cession par eux à l’État d’une part correspondante de leurs créances.
+[^145-1]
 
-<sup>2</sup> Le propriétaire, armateur ou capitaine d’un navire suisse qui n’aura pas observé une disposition prise par le Conseil fédéral en vertu de l’art. 6 sera puni de l’emprisonnement ou de l’amende.
+<sup>1</sup> Quiconque soustrait un navire enregistré dans le registre des navires suisses à la saisie, au séquestre, à la vente aux enchères, à la réquisition ou à l’expropriation ordonnés par l’autorité suisse compétente est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire. L’art. 71 du code pénal[^145-2] est applicable par analogie. Le juge peut, sur requête, allouer aux lésés le montant de la peine pécuniaire et de la créance compensatrice payées par le condamné, contre cession par eux à l’État d’une part correspondante de leurs créances.
 
-<sup>3</sup> L’armateur, le transporteur ou le capitaine qui aura embarqué ou transporté à bord d’un navire suisse des marchandises prohibées par le Conseil fédéral, sera puni de l’emprisonnement ou de l’amende. S’il s’agit du transport prohibé de matériel de guerre, la peine peut être la réclusion pour cinq ans au plus et l’amende.
+<sup>2</sup> Le propriétaire, armateur ou capitaine d’un navire suisse qui n’observe pas une disposition prise par le Conseil fédéral en vertu de l’art. 6 est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+<sup>3</sup> L’armateur, le transporteur ou le capitaine qui embarque ou transporte à bord d’un navire suisse des marchandises prohibées par le Conseil fédéral, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire. S’il s’agit du transport prohibé de matériel de guerre, l’auteur est puni d’une peine privative de liberté d’un à cinq ans.
+
+[^145-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^145-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Aliénation irrégulière
 
 #### Art. 146
 
-Celui qui cède à un étranger un navire suisse dont la radiation n’a pas été autorisée, sera puni de l’emprisonnement ou de l’amende jusqu’à concurrence de la valeur marchande du navire.
+[^146-1]
+
+Quiconque cède à un étranger un navire suisse dont la radiation dans le registre des navires suisses n’a pas été autorisée, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^146-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Non-restitution de la lettre de mer
 
 #### Art. 147
 
-Celui qui, obligé par la loi à restituer la lettre de mer ou tout autre certificat concernant un navire suisse, aura contrevenu à cette obligation, sera puni d’une amende de 20 000 francs au plus.
+[^147-1]
+
+Quiconque, obligé par la loi à restituer la lettre de mer ou tout autre certificat concernant un navire suisse, contrevient à cette obligation, est puni d’une amende de 100 000 francs au plus.
+
+[^147-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Négligence dans la tenue des livres de bord
 
@@ -1901,26 +1977,36 @@ Celui qui, obligé par la loi à restituer la lettre de mer ou tout autre certif
 
 [^148-1]
 
-sera puni de l’amende.
-
-Le capitaine d’un navire suisse qui aura contrevenu aux obligations légales ou conventionnelles:
+Est puni d’une amende le capitaine d’un navire suisse qui contrevient aux obligations légales ou conventionnelles:
 
 - a. de tenir et de conserver en bonne et due forme le livre de bord, le rôle d’équipage, le journal des machines ou d’autres livres, procès-verbaux et pièces de contrôle;
-- b. de garder à bord les livres, les papiers, les actes et les documents réglementaires,
+- b. de garder à bord les livres, les papiers, les actes et les documents réglementaires.
 
-[^148-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 1992, en vigueur depuis le 1<sup>er</sup> juin 1993 ([RO 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1533](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^148-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Négligence dans les devoirs d’information
 
 #### Art. 149
 
-Le capitaine, le propriétaire ou l’armateur d’un navire suisse qui aura violé son obligation légale d’informer ou de renseigner l’OSNM, l’Office du registre des navires suisses ou les consulats de Suisse, sera puni de l’amende.
+[^149-1]
+
+Le capitaine, le propriétaire ou l’armateur d’un navire suisse qui viole son obligation légale d’informer ou de renseigner l’Office suisse de la navigation maritime, l’Office du registre des navires suisses ou les consulats de Suisse est puni d’une amende.
+
+[^149-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Contraventions aux dispositions sur la nationalité et à la législation du travail
 
 #### Art. 150
 
-Le capitaine ou l’armateur d’un navire suisse qui aura violé les dispositions qui, dans la présente loi et les ordonnances et règlements qui la compléteront, concernent la nationalité de l’équipage, la durée du travail, l’âge minimum pour l’enrôlement, l’examen médical et les qualités requises pour le service prévu, la procédure d’enrôlement et de dérôlement, ainsi que la nourriture et le logement à bord, le capitaine qui aura violé les prescriptions concernant l’exécution d’une peine disciplinaire, sera puni de l’amende.
+[^150-1]
+
+Le capitaine ou l’armateur d’un navire suisse qui viole les dispositions qui, dans la présente loi et les ordonnances et règlements qui la complètent, concernent la nationalité de l’équipage, la durée du travail, l’âge minimum pour l’enrôlement, l’examen médical et les qualités requises pour le service prévu, la procédure d’enrôlement et de dérôlement, ainsi que la nourriture et le logement à bord,
+
+le capitaine qui viole les prescriptions concernant l’exécution d’une peine disciplinaire,
+
+est puni d’une amende.
+
+[^150-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Contraventions aux dispositions de la convention du travail maritime
 
@@ -1937,7 +2023,11 @@ Le capitaine ou l’armateur d’un navire suisse qui enfreint les dispositions 
 
 #### Art. 151
 
-Le capitaine ou l’armateur d’un navire suisse qui aura violé les dispositions de la présente loi et des ordonnances et règlements qui la compléteront concernant la sécurité des transports de passagers par mer, l’armement des navires qui y sont destinés, ou bien le logement ou la nourriture des passagers, sera, si l’acte n’est pas punissable en vertu d’une autre disposition légale, puni d’une amende de 20 000 francs au plus.
+[^151-1]
+
+Le capitaine ou l’armateur d’un navire suisse qui viole la présente loi ou ses dispositions d’exécution concernant la sécurité des transports de passagers par mer, l’armement des navires qui y sont destinés, ou bien le logement ou la nourriture des passagers, est puni d’une amende de 100 000 francs au plus si l’acte n’est pas puni plus sévèrement en vertu d’une autre disposition légale.
+
+[^151-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Destruction d’éléments du patrimoine culturel subaquatique ou dommages sérieux
 
@@ -1951,13 +2041,20 @@ Quiconque, depuis un navire suisse, détruit ou endommage sérieusement sans aut
 
 ### Chapitre IV Dispositions spéciales
 
-### Peines accessoires
+### Mesures
 
 #### Art. 152
 
-<sup>1</sup> Lorsqu’un délinquant a été condamné pour mise en péril du navire ou de la navigation, pour mauvaise navigabilité, pour défaut d’assistance, pour abandon du navire en péril, pour non-exercice du commandement ou pour abandon de poste, le juge peut prononcer à titre de peine accessoire le retrait du brevet ou certificat d’aptitude professionnelle ainsi que l’interdiction de servir à bord d’un navire suisse.
+[^152-1]
 
-<sup>2</sup> Lorsqu’un délinquant a été condamné pour abus de pavillon, pour fraude dans la procédure d’enregistrement ou pour inobservation d’une mesure ordonnée par le Conseil fédéral en vertu de l’art. 6, le juge peut prononcer à titre de peine accessoire le retrait de la lettre de mer.
+<sup>1</sup> Lorsqu’un auteur est condamné pour mise en péril du navire ou de la navigation, pour mauvaise navigabilité, pour défaut d’assistance, pour abandon du navire en péril, pour non-exercice du commandement ou pour abandon de poste, et s’il risque de récidiver, le juge peut prononcer le retrait du brevet ou certificat d’aptitude professionnelle ainsi que l’interdiction de servir à bord d’un navire suisse.
+
+<sup>2</sup> Lorsqu’un auteur a été condamné pour abus de pavillon, pour fraude dans la procédure d’enregistrement ou pour inobservation d’une mesure ordonnée par le Conseil fédéral en vertu de l’art. 6, et s’il risque de récidiver, le juge peut prononcer le retrait de la lettre de mer.
+
+<sup>3</sup> Ces mesures peuvent également être prises lorsque l’auteur est irresponsable ou partiellement irresponsable au sens de l’art. 19, al. 1 et 2, du code pénal[^152-2].
+
+[^152-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^152-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Infractions commises dans une entreprise
 
@@ -1965,21 +2062,20 @@ Quiconque, depuis un navire suisse, détruit ou endommage sérieusement sans aut
 
 [^153-1]
 
-<sup>1</sup> Lorsqu’une infraction est commise dans la gestion d’une personne morale, d’une société en nom collectif ou en commandite, d’une entreprise individuelle ou d’une collectivité sans personnalité juridique ou de quelque autre manière dans l’exercice d’une activité pour un tiers, les dispositions pénales sont applicables aux personnes physiques qui ont commis l’acte.
+L’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^153-2] est applicable aux infractions commises dans une entreprise.
 
-<sup>2</sup> Le chef d’entreprise, l’employeur, le mandant ou le représenté qui, intentionnellement ou par négligence et en violation d’une obligation juridique, omet de prévenir une infraction commise par le subordonné, le mandataire ou le représentant ou d’en supprimer les effets, tombe sous le coup des dispositions pénales applicables à l’auteur ayant agi intentionnellement ou par négligence.
-
-<sup>3</sup> Lorsque le chef d’entreprise, l’employeur, le mandant ou le représenté est une personne morale, une société en nom collectif ou en commandite, une entreprise individuelle ou une collectivité sans personnalité juridique, l’al. 2 s’applique aux organes et à leurs membres, aux associés gérants, dirigeants effectifs ou liquidateurs fautifs.
-
-<sup>4</sup> Dans les cas prévus aux art. 144 à 146, la personne morale, la société en nom collectif ou en commandite, l’entreprise individuelle ou la collectivité sans personnalité juridique répond solidairement avec le délinquant du paiement des amendes.
-
-[^153-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1976, en vigueur depuis le 1<sup>er</sup> août 1977 ([RO 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1153](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
+[^153-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^153-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Extradition
 
 #### Art. 154
 
-Les infractions qui, d’après les dispositions de la présente loi, sont punies de l’emprisonnement d’un an ou d’une peine plus sévère, donnent lieu à extradition au sens de la législation suisse sur l’extradition aux États étrangers.
+[^154-1]
+
+Les infractions qui, d’après les dispositions de la présente loi, sont punies d’une peine privative de liberté d’un an ou d’une peine plus sévère, donnent lieu à extradition au sens de la législation suisse sur l’extradition aux États étrangers.
+
+[^154-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Chapitre V Du régime disciplinaire
 
@@ -1987,7 +2083,7 @@ Les infractions qui, d’après les dispositions de la présente loi, sont punie
 
 #### Art. 155
 
-<sup>1</sup> Celui qui contrevient aux prescriptions générales de service ou au bon ordre à bord, commet une faute de discipline à moins que l’acte ne soit punissable comme crime, délit ou contravention.
+<sup>1</sup> Quiconque contrevient aux prescriptions générales de service ou au bon ordre à bord, commet une faute de discipline à moins que l’acte ne soit punissable comme crime, délit ou contravention.[^155-1]
 
 <sup>2</sup>
 
@@ -2003,6 +2099,8 @@ Sont notamment des fautes de discipline:
 - h. toute conduite inconvenante ou blessante pour un supérieur ou toute autre personne à bord.
 
 <sup>3</sup> Est seul punissable celui qui agit d’une façon coupable. La peine sera choisie et mesurée d’après la culpabilité de l’auteur. Il sera tenu compte des mobiles et du caractère du coupable, de sa conduite à bord, ainsi que de la gravité de la faute du point de vue de l’ordre et de la sécurité à bord.
+
+[^155-1]: Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Conditions personnelles et peines
 
@@ -2043,10 +2141,10 @@ Sont seules autorisées les peines disciplinaires suivantes:
 
 <sup>2</sup> S’il s’agit, dans une procédure pénale, d’un délit pour lequel une répression disciplinaire est prévue dans les cas de peu de gravité, et si un tel cas est admis, ou si l’acte commis est considéré comme une simple faute de discipline, le tribunal, en acquittant le prévenu, peut prononcer toutes les peines disciplinaires. Si l’autorité d’instruction rend une ordonnance de non-lieu pour les mêmes motifs, elle remet le dossier au président du tribunal qui serait compétent en matière pénale. Celui-ci peut prononcer toutes les peines disciplinaires requises.[^157-1]
 
-<sup>3</sup> Si le coupable n’est plus au service d’un navire suisse, une peine d’arrêts ordinaires de même durée peut être prononcée à la place des arrêts disciplinaires.[^157-2]
+<sup>3</sup> Si le coupable n’est plus au service d’un navire suisse, une amende de 3000 francs au plus peut être prononcée à la place des arrêts disciplinaires.[^157-2]
 
 [^157-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1987, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 741](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
-[^157-2]: Introduit par le ch. I de la LF du 20 mars 1987, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 741](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^157-2]: Introduit par le ch. I de la LF du 20 mars 1987 ([RO 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 741](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)). Nouvelle teneur selon le ch. I 24 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Exécution des peines disciplinaires
 
@@ -2058,7 +2156,7 @@ Sont seules autorisées les peines disciplinaires suivantes:
 
 <sup>3</sup> Les officiers subissent les arrêts dans leurs cabines, les autres marins dans un local désigné pour cet usage à bord du navire. Les arrêts doivent, en tant que le service à bord le permet, être subis immédiatement. Celui qui est mis aux arrêts ne fait pas de service. Les locaux d’arrêts doivent être secs, éclairés par la lumière du jour, suffisamment aérés et conformes aux exigences d’hygiène auxquelles doivent répondre les cabines.
 
-<sup>4</sup> ...[^158-1]
+<sup>4</sup> …[^158-1]
 
 <sup>5</sup> Les amendes doivent être versées à l’OSNM, qui les utilise à des fins de prévoyance en faveur des marins et des membres de leur famille. L’OSNM peut aussi utiliser ces fonds pour soutenir des actions visant notamment à promouvoir la navigation maritime sous pavillon suisse ou pour verser des primes récompensant des prestations particulières fournies par des marins. Le Département fédéral des affaires étrangères édicte un règlement relatif à l’affectation de ces fonds.[^158-2]
 
@@ -2100,14 +2198,14 @@ La peine disciplinaire prononcée par le capitaine devient exécutoire avec sa c
 
 <sup>3</sup> Les prescriptions de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^161-4] s’appliquent conformément au sens de cette procédure de recours.[^161-5]
 
-<sup>4</sup> ...[^161-6]
+<sup>4</sup> …[^161-6]
 
 [^161-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 1965, en vigueur depuis le 1<sup>er</sup> janv. 1967 ([RO 1966 1503](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 303](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 [^161-2]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1987, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 741](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 [^161-3]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1987, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 741](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 [^161-4]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^161-5]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1987, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 741](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
-[^161-6]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1153](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)). Abrogé par le ch. 81 de l’annexe à la loi du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^161-6]: Introduit par le ch. I de la LF du 17 déc. 1976 ([RO 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1153](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)). Abrogé par l’annexe ch. 81 de la loi du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Dispositions finales et transitoires
 
@@ -2173,7 +2271,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1957[^u1-167-1]
 
 [^u1-167-1]: ACF du 20 nov. 1956
 
-Annexe I*[^t-1]*
+Annexe I[^t-1]
 
 (art. 3, al. 2)
 
@@ -2181,7 +2279,7 @@ Annexe I*[^t-1]*
 
 [^t-1]: Nouvelle teneur selon l’annexe 3 ch. II 4 de la L du 21 juin 2013 sur la protection des armoiries, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20201101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20230701/fr/xml/image/image1.png)
 
 Définition de la couleur rouge:
 
@@ -2203,7 +2301,7 @@ Annexe II
 
 (art. 38 de la loi)
 
-## Convention internationale du 10 avril 1926**** pour l’unification de certaines règles relatives aux privilèges et hypothèques maritimes
+## Convention internationale du 10 avril 1926 pour l’unification de certaines règles relatives aux privilèges et hypothèques maritimes
 
 [^annexII-lvlu1-1]
 
@@ -2213,39 +2311,39 @@ Annexe III
 
 (art. 48, al. 3, de la loi)
 
-## Convention internationale du 29 novembre 1969**** sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures et protocoles des 19 novembre 1976 et 25 mai 1984
+## Convention internationale du 29 novembre 1969 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures et protocoles des 19 novembre 1976 et 25 mai 1984
 
 [^annexIII-lvlu1-1]
 
 [^annexIII-lvlu1-1]: [RS 0.814.291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3526), [RS 0.814.291.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3527)
 
-Annexe IV*[^t-2]*
+Annexe IV[^t-2]
 
 (art. 49, al. 1, de la loi)
 
-## Convention internationale du 19 novembre 1976**** sur la limitation de la responsabilité en matière de créances maritimes
+## Convention internationale du 19 novembre 1976 sur la limitation de la responsabilité en matière de créances maritimes
 
 [^annexIV-lvlu1-1]
 
 [^t-2]: Anciennement annexe III.
 [^annexIV-lvlu1-1]: [RS 0.747.331.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3083)
 
-Annexe V*[^t-3]*
+Annexe V[^t-3]
 
 (art. 101 al. 2, de la loi)
 
-## Convention internationale du 25 août 1924**** pour l’unification de certaines règles en matière de connaissement et ses Protocoles
+## Convention internationale du 25 août 1924 pour l’unification de certaines règles en matière de connaissement et ses Protocoles
 
 [^annexV-lvlu1-1]
 
 [^t-3]: Anciennement annexe IV.
 [^annexV-lvlu1-1]: [RS 0.747.354.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3088)
 
-Annexe VI*[^t-4]*
+Annexe VI[^t-4]
 
 (art. 118, al. 1, de la loi)
 
-## Convention d’Athènes de 1974 relative au transport par mer de passagers et de leurs bagages, du 13 décembre 1974**** et protocole de 1976****
+## Convention d’Athènes de 1974 relative au transport par mer de passagers et de leurs bagages, du 13 décembre 1974 et protocole de 1976
 
 [^annexVI-lvlu1-1][^annexVI-lvlu1-2]
 
@@ -2257,25 +2355,25 @@ Annexe VII[^t-5]
 
 (art. 121, al. 1, de la loi)
 
-## Convention internationale du 23 septembre 1910**** pour l’unification de certaines règles en matière d’abordage
+## Convention internationale du 23 septembre 1910 pour l’unification de certaines règles en matière d’abordage
 
 [^annexVII-lvlu1-1]
 
 [^t-5]: Anciennement annexe VI.
 [^annexVII-lvlu1-1]: [RS 0.747.363.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3094)
 
-Annexe VIII*[^t-6]*
+Annexe VIII[^t-6]
 
 (art. 121, al. 2, de la loi)
 
-## Convention internationale du 23 septembre 1910**** pour l’unification de certaines règles en matière d’assistance et de sauvetage maritimes
+## Convention internationale du 23 septembre 1910 pour l’unification de certaines règles en matière d’assistance et de sauvetage maritimes
 
 [^annexVIII-lvlu1-1]
 
 [^t-6]: Anciennement annexe VII.
 [^annexVIII-lvlu1-1]: [RS 0.747.363.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3095)
 
-Annexe IX*[^t-7]*
+Annexe IX[^t-7]
 
 (art. 122, al. 2, de la loi)
 
@@ -2283,11 +2381,11 @@ Annexe IX*[^t-7]*
 
 [^t-7]: Anciennement annexe VIII. Cette annexe devient l’annexe IV de l’O du 20 nov. 1956 sur la navigation maritime ([RS 747.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9018), voir [RO 1993 2284](https://fedlex.data.admin.ch/eli/oc/1993/2284_2284_2284)).
 
-Annexe X*[^t-8]*
+Annexe X[^t-8]
 
 (art. 127, al. 3, de la loi)
 
-## Convention du 15 mars 1960**** relative à l’unification de certaines règles en matière d’abordage en navigation intérieure
+## Convention du 15 mars 1960 relative à l’unification de certaines règles en matière d’abordage en navigation intérieure
 
 [^annexX-lvlu1-1]
 

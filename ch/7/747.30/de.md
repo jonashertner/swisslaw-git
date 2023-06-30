@@ -4,11 +4,11 @@ title: Bundesgesetz vom 23. September 1953 über die Seeschifffahrt unter der Sc
 short: SSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407"
 language: de
-version: 2020-11-01
+version: 2023-07-01
 adopted: 1953-09-23
 in_force: 1957-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20201101/de/xml/fedlex-data-admin-ch-eli-cc-1956-1305_1395_1407-20201101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/1305_1395_1407/20201101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1956-1305_1395_1407-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/1305_1395_1407/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1956/1305_1395_1407/20201101/de"
 
 (Seeschifffahrtsgesetz)
 
-vom 23. September 1953 (Stand am 1. November 2020)
+vom 23. September 1953 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -71,14 +71,19 @@ Die Seeschifffahrt unter der Schweizer Flagge[^1-1] untersteht dem schweizerisch
 
 <sup>3</sup> Die Strafbestimmungen dieses Gesetzes finden Anwendung unabhängig davon, ob die Tat im Ausland oder in der Schweiz begangen wurde.
 
-<sup>4</sup> Wurde die Strafe im Ausland nur teilweise vollzogen, so wird der vollzogene Teil angerechnet.
+<sup>4</sup>
 
-Der Täter wird in der Schweiz nicht bestraft:
+Der Täter wird, unter Vorbehalt eines krassen Verstosses gegen die Grundsätze der Bundesverfassung und der Konvention vom 4. November 1950[^4-2] zum Schutze der Menschenrechte und Grundfreiheiten, in der Schweiz wegen der Tat nicht mehr verfolgt, wenn:
 
-- – wenn er im Ausland wegen des Verbrechens oder Vergehens endgültig freigesprochen wurde;
-- – wenn die Strafe, zu der er im Ausland wegen der gleichen Tat verurteilt wurde, vollzogen, erlassen oder verjährt ist.
+- a. ein ausländisches Gericht ihn endgültig freigesprochen hat; oder
+- b. die Sanktion, zu der er im Ausland verurteilt wurde, vollzogen, erlassen oder verjährt ist.[^4-3]
+
+<sup>5</sup> Ist der Täter wegen der Tat im Ausland verurteilt worden und wurde die Strafe im Ausland nur teilweise vollzogen, so rechnet ihm das Gericht den vollzogenen Teil auf die auszusprechende Strafe an. Das Gericht entscheidet, ob eine im Ausland angeordnete, dort aber nur teilweise vollzogene Massnahme fortzusetzen oder auf die in der Schweiz ausgesprochene Strafe anzurechnen ist.[^4-4]
 
 [^4-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^4-2]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^4-3]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^4-4]: Eingefügt durch Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Selbstständiger Abschluss internationaler Übereinkommen durch den Bundesrat
 
@@ -197,7 +202,7 @@ Der Bundesrat kann internationale Übereinkommen, die im Rahmen der Internationa
 
 <sup>1</sup> Das Beschwerdeverfahren gegen Verfügungen des Schweizerischen Seeschifffahrtsamtes richtet sich nach den allgemeinen Bestimmungen über die Bundesrechtspflege.
 
-<sup>2</sup> ...[^13-2]
+<sup>2</sup> …[^13-2]
 
 [^13-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Aug. 1977 ([AS 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [BBl 1976 II 1181](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
 [^13-2]: Aufgehoben durch Anhang Ziff. 81 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -216,11 +221,13 @@ Der Bundesrat kann internationale Übereinkommen, die im Rahmen der Internationa
 
 #### Art. 15
 
-<sup>1</sup> Die an Bord eines schweizerischen Seeschiffes begangenen strafbaren Handlungen sowie die nach diesem Gesetz unter Strafe gestellten strafbaren Handlungen sind von den Behörden des Kantons Basel-Stadt zu verfolgen und zu beurteilen, sofern sie nicht der Bundesgerichtsbarkeit oder der Militärstrafgerichtsbarkeit unterliegen. Über die nach diesem Gesetz verhängten Bussen verfügt der Kanton Basel-Stadt.
+<sup>1</sup> Die an Bord eines schweizerischen Seeschiffes begangenen strafbaren Handlungen sowie die nach diesem Gesetz unter Strafe gestellten strafbaren Handlungen sind von den Behörden des Kantons Basel-Stadt zu verfolgen und zu beurteilen, sofern sie nicht der Bundesgerichtsbarkeit oder der Militärstrafgerichtsbarkeit unterliegen. Über die nach diesem Gesetz verhängten Geldstrafen und Bussen verfügt der Kanton Basel-Stadt.[^15-1]
 
 <sup>2</sup> Verzeigende Behörde bei Übertretungen dieses Gesetzes ist das SSA.
 
 <sup>3</sup> Die Behörden des Kantons Basel-Stadt sind verpflichtet, sämtliche auf Grund dieses Gesetzes ergangenen Strafurteile und Einstellungsbeschlüsse der Schweizerischen Bundesanwaltschaft einzusenden.
+
+[^15-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 16
 
@@ -444,7 +451,7 @@ Das SSA kann für ein in einem Schweizerischen Schiffsregister eingetragenes Bin
 
 [^33-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 1992, in Kraft seit 1. Juni 1993 ([AS 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [BBl 1992 II 1561](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
-### 2. ...
+### 2. …
 
 #### Art. 34
 
@@ -1394,7 +1401,7 @@ Der Ablader hat vor Einladung der Güter dem Seefrachtführer schriftlich folgen
 
 <sup>1</sup> Die Fracht ist, vorbehältlich der Bestimmungen der Artikel 88 und 89, nicht geschuldet, wenn die Güter am Bestimmungsort dem Empfänger weder ausgeliefert noch zur Verfügung gestellt werden.
 
-<sup>2</sup> Die volle Fracht ist jedoch geschuldet, wenn die Ablieferung der Güter wegen Handlungen oder Unterlassungen des Abladers oder Empfängers oder wegen der Eigenart oder natürlichen Beschaffenheit der Güter unterbleibt, oder wenn gefährliche oder verbotene Güter an Land gesetzt, zerstört oder über Bord geworfen wurden. ...[^109-1]
+<sup>2</sup> Die volle Fracht ist jedoch geschuldet, wenn die Ablieferung der Güter wegen Handlungen oder Unterlassungen des Abladers oder Empfängers oder wegen der Eigenart oder natürlichen Beschaffenheit der Güter unterbleibt, oder wenn gefährliche oder verbotene Güter an Land gesetzt, zerstört oder über Bord geworfen wurden. …[^109-1]
 
 <sup>3</sup> Für unterwegs gestorbene Tiere ist die volle Fracht zu bezahlen, sofern der Ablader nicht nachweist, dass der Tod der Tiere durch Verschulden des Seefrachtführers eingetreten ist.
 
@@ -1664,33 +1671,36 @@ Das Konnossement soll insbesondere folgende Angaben enthalten:
 
 ## Achter Titel: Straf- und Disziplinarbestimmungen
 
-[^titVIII-1]
-
-[^titVIII-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)) zu interpretieren beziehungsweise umzurechnen.
-
 ### Erster Abschnitt: Strafbare Handlungen gegen die Sicherheit des Schiffes und der Schifffahrt
 
 ### Gefährdung des Schiffes
 
 #### Art. 128
 
-<sup>1</sup> Wer vorsätzlich ein schweizerisches Seeschiff, seine Bestandteile oder Zubehör oder die Betriebsstoffe oder Lebensmittel an Bord beschädigt, zerstört, unbrauchbar macht oder beiseite schafft, wer vorsätzlich die Führung des Schiffes oder die Ordnung und den Betrieb an Bord hindert oder stört, und dadurch wissentlich das Schiff oder die an Bord befindlichen Personen in Gefahr bringt,
+[^128-1]
 
-wird mit Zuchthaus bis zu zehn Jahren oder Gefängnis bestraft.
+<sup>1</sup>
 
-<sup>2</sup> Hat die Tat den Untergang des Schiffes oder den Tod einer Person zur Folge und konnte der Täter dies voraussehen, so ist die Strafe Zuchthaus.
+Mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer wissentlich ein schweizerisches Seeschiff oder die an Bord befindlichen Personen in Gefahr bringt, indem er vorsätzlich:
 
-<sup>3</sup> Handelt der Täter fahrlässig, so ist die Strafe Gefängnis oder Busse.
+- a. das Schiff, seine Bestandteile oder sein Zubehör oder die Betriebsstoffe oder Lebensmittel an Bord beschädigt, zerstört, unbrauchbar macht oder beiseiteschafft; oder
+- b. die Führung des Schiffes oder die Ordnung und den Betrieb an Bord hindert oder stört.
+
+<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
+
+[^128-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Gefährdung der Schifffahrt
 
 #### Art. 129
 
-<sup>1</sup> Der Kapitän oder Seemann eines schweizerischen Seeschiffes, der die gesetzlichen Vorschriften oder die anerkannten Regeln über die nautische Führung des Schiffes oder die seepolizeilichen Vorschriften des In- und Auslandes vorsätzlich missachtet und dadurch wissentlich sein oder ein anderes Schiff oder an Bord dieser Schiffe befindliche Personen in Gefahr bringt, wird mit Gefängnis bestraft.
+[^129-1]
 
-<sup>2</sup> Hat die Tat den Untergang des eigenen oder eines fremden Schiffes oder den Tod von Personen zur Folge und konnte der Täter dies voraussehen, so kann er mit Zuchthaus bis zu zehn Jahren bestraft werden.
+<sup>1</sup> Der Kapitän oder Seemann eines schweizerischen Seeschiffes, der die gesetzlichen Vorschriften oder die anerkannten Regeln über die nautische Führung des Schiffes oder die seepolizeilichen Vorschriften des In- und Auslandes vorsätzlich missachtet und dadurch wissentlich sein oder ein anderes Schiff oder an Bord dieser Schiffe befindliche Personen in Gefahr bringt, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
 
-<sup>3</sup> Handelt der Täter fahrlässig, so ist die Strafe Gefängnis oder Busse.
+<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
+
+[^129-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Meeresverschmutzung
 
@@ -1698,41 +1708,59 @@ wird mit Zuchthaus bis zu zehn Jahren oder Gefängnis bestraft.
 
 [^129a-1]
 
-<sup>1</sup> Wer Bestimmungen internationaler Übereinkommen, dieses Gesetzes oder seiner Ausführungsverordnungen verletzt, indem er von einem schweizerischen Seeschiff aus feste, flüssige, gasförmige oder radioaktive Stoffe jeder Art ins Meer einbringt, die geeignet sind, das Meer, den Meeresgrund oder Meeresuntergrund zu verunreinigen, wird mit Gefängnis oder Busse bestraft.
+<sup>1</sup> Wer Bestimmungen internationaler Übereinkommen, dieses Gesetzes oder seiner Ausführungsverordnungen verletzt, indem er von einem schweizerischen Seeschiff aus feste, flüssige, gasförmige oder radioaktive Stoffe jeder Art ins Meer einbringt, die geeignet sind, das Meer, den Meeresgrund oder Meeresuntergrund zu verunreinigen, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^129a-2]
 
-<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Gefängnis bis zu sechs Monaten oder Busse bis zu 20 000 Franken.
+<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe.[^129a-3]
 
 <sup>3</sup> In leichten Fällen wird der Täter disziplinarisch bestraft.
 
 [^129a-1]: Eingefügt durch Ziff. I des BG vom 20. März 1987, in Kraft seit 1. Febr. 1989 ([AS 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [BBl 1986 II 717](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^129a-2]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^129a-3]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Zuwiderhandlung gegen die Regeln der Schifffahrt
 
 #### Art. 130
 
-Der Kapitän oder der Seemann eines schweizerischen Seeschiffes, der die gesetzlichen Vorschriften oder die anerkannten Regeln über die nautische Führung des Schiffes oder die seepolizeilichen Vorschriften des In- und Auslandes missachtet, wird, sofern die Tat nicht nach einer andern Bestimmung zu bestrafen ist, mit Busse bis zu 5000 Franken bestraft.
+[^130-1]
 
-### Ausfahrt mit einem see- untüchtigen Schiff
+Der Kapitän oder Seemann eines schweizerischen Seeschiffes, der die gesetzlichen Vorschriften oder die anerkannten Regeln über die nautische Führung des Schiffes oder die seepolizeilichen Vorschriften des In- und Auslandes missachtet, wird, sofern die Tat nicht nach einer andern Bestimmung zu bestrafen ist, mit Busse bis zu 20 000 Franken bestraft.
+
+[^130-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
+### Ausfahrt mit einem seeuntüchtigen Schiff
 
 #### Art. 131
 
-<sup>1</sup> Der Kapitän, der vorsätzlich oder fahrlässig mit einem seeuntüchtigen, ungenügend bemannten, ausgerüsteten oder verproviantierten schweizerischen Seeschiff in See sticht und dadurch das Schiff oder Personen an Bord in Gefahr bringt, wird mit Gefängnis oder Busse bestraft.
+[^131-1]
 
-<sup>2</sup> Hat die Tat den Untergang des Schiffes oder den Tod von Personen zur Folge und konnte der Täter dies voraussehen, so ist die Strafe Zuchthaus bis zu fünf Jahren oder Gefängnis.
+<sup>1</sup> Der Kapitän, der vorsätzlich mit einem seeuntüchtigen oder ungenügend bemannten, ausgerüsteten oder verproviantierten schweizerischen Seeschiff in See sticht und dadurch das Schiff oder Personen an Bord in Gefahr bringt, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
+
+<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
+
+[^131-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Übertretung der Vorschriften über die Seetüchtigkeit
 
 #### Art. 132
 
-Der Kapitän, der mit einem seeuntüchtigen, ungenügend bemannten, ausgerüsteten oder verproviantierten schweizerischen Seeschiff ausfährt, oder der Reeder, der ein solches Schiff aussendet, wird, sofern die Tat nicht nach einer anderen Bestimmung zu bestrafen ist, mit Busse bis zu 5000 Franken bestraft.
+[^132-1]
+
+Der Kapitän, der mit einem seeuntüchtigen oder ungenügend bemannten, ausgerüsteten oder verproviantierten schweizerischen Seeschiff ausfährt, oder der Reeder, der ein solches Schiff aussendet, wird, sofern kein schwerer Tatbestand erfüllt ist, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+[^132-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Unterlassen der Hilfeleistung
 
 #### Art. 133
 
-<sup>1</sup> Der Kapitän eines schweizerischen Seeschiffes, der es unterlässt, einem andern Schiff in Seenot oder Personen in Lebensgefahr Beistand zu leisten, obschon er dazu ohne ernstliche Gefahr für sein Schiff, dessen Besatzung und Passagiere imstande ist, wird mit Gefängnis bestraft.
+[^133-1]
 
-<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse.
+<sup>1</sup> Der Kapitän eines schweizerischen Seeschiffes, der es unterlässt, einem andern Schiff in Seenot oder Personen in Lebensgefahr Beistand zu leisten, obschon er dazu ohne ernstliche Gefahr für sein Schiff, dessen Besatzung und Passagiere imstande ist, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe.
+
+[^133-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Zweiter Abschnitt: Strafbare Handlungen gegen die Ordnung und Disziplin an Bord
 
@@ -1740,29 +1768,39 @@ Der Kapitän, der mit einem seeuntüchtigen, ungenügend bemannten, ausgerüstet
 
 #### Art. 134
 
-<sup>1</sup> Der Kapitän, der ein schweizerisches Seeschiff in Gefahr nicht als letzter verlässt, wird mit Gefängnis oder Busse bestraft.
+[^134-1]
 
-<sup>2</sup> Der Seemann, der ein schweizerisches Seeschiff in Gefahr ohne Erlaubnis des Kapitäns verlässt, wird mit Gefängnis bis zu einem Jahr oder mit Busse bestraft.
+<sup>1</sup> Der Kapitän, der ein schweizerisches Seeschiff in Gefahr nicht als Letzter verlässt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+<sup>2</sup> Der Seemann, der ein schweizerisches Seeschiff in Gefahr ohne Erlaubnis des Kapitäns verlässt, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.
+
+[^134-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Nichtausüben des Kommandos
 
 #### Art. 135
 
-<sup>1</sup> Der Kapitän eines schweizerischen Seeschiffes, der vorsätzlich die ihm obliegende Führung des Schiffes nicht ausübt oder vernachlässigt, wird mit Gefängnis bis zu einem Jahr oder Busse bestraft.
+<sup>1</sup> Der Kapitän eines schweizerischen Seeschiffes, der vorsätzlich die ihm obliegende Führung des Schiffes nicht ausübt oder vernachlässigt, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.[^135-1]
 
 <sup>2</sup> Handelt der Täter fahrlässig, so wird er mit Busse bestraft.
+
+[^135-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Missbrauch und Anmassung der Befehls- und Disziplinargewalt
 
 #### Art. 136
 
-<sup>1</sup> Der Kapitän oder Schiffsoffizier eines schweizerischen Seeschiffes, der die ihm zustehende Befehlsgewalt über einen Untergebenen zu Befehlen missbraucht, die in keiner Beziehung zum Dienst an Bord stehen, der Kapitän, der die ihm zustehende Disziplinargewalt überschreitet oder missbraucht,
+<sup>1</sup>
 
-wer, ohne Befehls- oder Strafgewalt zu besitzen, sich an Bord eines schweizerischen Seeschiffes eine solche Gewalt anmasst,
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft:
 
-wird mit Gefängnis bestraft.
+- a. der Kapitän oder Schiffsoffizier eines schweizerischen Seeschiffes, der die ihm zustehende Befehlsgewalt über einen Untergebenen zu Befehlen missbraucht, die in keiner Beziehung zum Dienst an Bord stehen;
+- b. der Kapitän, der die ihm zustehende Disziplinargewalt überschreitet oder missbraucht;
+- c. wer, ohne Befehls- oder Strafgewalt zu besitzen, sich an Bord eines schweizerischen Seeschiffes eine solche Gewalt anmasst.[^136-1]
 
 <sup>2</sup> In leichten Fällen wird der Täter mit Busse bestraft.
+
+[^136-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Desertion
 
@@ -1770,55 +1808,68 @@ wird mit Gefängnis bestraft.
 
 [^137-1]
 
-<sup>1</sup> Der Kapitän oder der Seemann eines schweizerischen Seeschiffes, der sich in Verletzung des Heuervertrages nicht an Bord des Schiffes begibt oder nach erfolgter Anmusterung das Schiff verlässt, wird, sofern dadurch die Abfahrt des Schiffes erheblich verzögert oder erhebliche Kosten zur Abwendung der Verzögerung verursacht werden, mit Gefängnis bis zu sechs Monaten oder mit Busse bis zu 5000 Franken bestraft.
+<sup>1</sup> Der Kapitän oder Seemann eines schweizerischen Seeschiffes, der sich in Verletzung des Heuervertrages nicht an Bord des Schiffes begibt oder nach erfolgter Anmusterung das Schiff verlässt, wird, sofern dadurch die Abfahrt des Schiffes erheblich verzögert oder erhebliche Kosten zur Abwendung der Verzögerung verursacht werden, mit Geldstrafe bestraft.[^137-2]
 
-<sup>2</sup> Handeln mehrere in gemeinsamem Vorgehen, so ist die Strafe Gefängnis oder Busse. Die Anstifter werden schwerer bestraft.
+<sup>2</sup> Handeln mehrere gemeinsam, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.[^137-3]
 
 <sup>3</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
 [^137-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 1965, in Kraft seit 1. Jan. 1967 ([AS 1966 1453](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [BBl 1965 II 284](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^137-2]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^137-3]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Verlassen des Postens
 
 #### Art. 138
 
-<sup>1</sup> Der Seemann eines schweizerischen Seeschiffes, der während eines für die Sicherheit des Schiffes oder der Schifffahrt wesentlichen Dienstes seinen Posten verlässt oder während dieses Dienstes einschläft, wird mit Gefängnis bis zu sechs Monaten oder mit Busse bis zu 2000 Franken bestraft.
+<sup>1</sup> Der Seemann eines schweizerischen Seeschiffes, der während eines für die Sicherheit des Schiffes oder der Schifffahrt wesentlichen Dienstes seinen Posten verlässt oder während dieses Dienstes einschläft, wird mit Geldstrafe bestraft.[^138-1]
 
 <sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-### Trunkenheit
+[^138-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
+### Trunkenheit oder Betäubung
 
 #### Art. 139
 
-<sup>1</sup> Der Kapitän eines schweizerischen Seeschiffes, der sich infolge selbstverschuldeter Trunkenheit oder Betäubung in einem Zustand befindet, der seine Fähigkeit zur Führung des Schiffes ausschliesst oder wesentlich beeinträchtigt, wird mit Gefängnis bis zu einem Jahr oder mit Busse bis zu 5000 Franken bestraft.
+[^139-1]
 
-<sup>2</sup> Der Seemann, der sich während eines für die Sicherheit des Schiffes oder der Schifffahrt wesentlichen Dienstes im Zustand der selbstverschuldeten Trunkenheit oder Betäubung befindet, wird mit Gefängnis bis zu sechs Monaten oder mit Busse bis zu 2000 Franken bestraft. In leichten Fällen erfolgt disziplinarische Bestrafung.
+<sup>1</sup> Der Kapitän eines schweizerischen Seeschiffes, der sich infolge Trunkenheit oder Betäubung in einem Zustand befindet, der seine Fähigkeit zur Führung des Schiffes ausschliesst oder wesentlich beeinträchtigt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+<sup>2</sup> Der Seemann, der sich während eines für die Sicherheit des Schiffes oder der Schifffahrt wesentlichen Dienstes im Zustand der Trunkenheit oder Betäubung befindet, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft. In leichten Fällen erfolgt disziplinarische Bestrafung.
+
+[^139-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Ungehorsam
 
 #### Art. 140
 
-<sup>1</sup> Der Seemann eines schweizerischen Seeschiffes, der dem Befehl eines Vorgesetzten betreffend die nautische oder technische Führung des Schiffes oder auf Verbüssung einer Disziplinarstrafe nicht gehorcht, wird mit Gefängnis bis zu drei Monaten oder mit Busse bis zu 1000 Franken bestraft.
+<sup>1</sup> Der Seemann eines schweizerischen Seeschiffes, der dem Befehl eines Vorgesetzten betreffend die nautische oder technische Führung des Schiffes oder auf Verbüssung einer Disziplinarstrafe nicht gehorcht, wird mit Geldstrafe bis zu 90 Tagessätzen bestraft.[^140-1]
 
 <sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>3</sup> Lautet der Befehl auf Rettung des eigenen oder eines fremden Schiffes oder von Personen in Seenot, so ist die Strafe Gefängnis bis zu einem Jahr oder Busse bis zu 5000 Franken.
+<sup>3</sup> Lautet der Befehl auf Rettung des eigenen oder eines fremden Schiffes oder von Personen in Seenot, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.[^140-2]
 
-<sup>4</sup> Eine von einem Seemann gegenüber einem Vorgesetzten begangene einfache Körperverletzung oder Tätlichkeit wird von Amtes wegen verfolgt.[^140-1]
+<sup>4</sup> Eine von einem Seemann gegenüber einem Vorgesetzten begangene einfache Körperverletzung oder Tätlichkeit wird von Amtes wegen verfolgt.[^140-3]
 
-[^140-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 1965, in Kraft seit 1. Jan. 1967 ([AS 1966 1453](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [BBl 1965 II 284](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^140-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^140-2]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^140-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 1965, in Kraft seit 1. Jan. 1967 ([AS 1966 1453](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [BBl 1965 II 284](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Unerlaubtes Anbordbringen von Personen und Sachen
 
 #### Art. 141
 
-<sup>1</sup> Wer ohne Erlaubnis des Reeders oder des Kapitäns Sachen, insbesondere gefährliche oder verbotene Sachen, an Bord eines schweizerischen Seeschiffes bringt, an Bord besitzt, oder versteckt hält,
+<sup>1</sup>
 
-wer ohne Erlaubnis des Reeders oder Kapitäns Personen an Bord eines schweizerischen Seeschiffes bringt oder daselbst versteckt hält,
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer ohne Erlaubnis des Reeders oder des Kapitäns:
 
-wird mit Gefängnis oder Busse bestraft.
+- a. Sachen, insbesondere gefährliche oder verbotene Sachen, an Bord eines schweizerischen Seeschiffes bringt, an Bord besitzt oder versteckt hält;
+- b. Personen an Bord eines schweizerischen Seeschiffes bringt oder daselbst versteckt hält.[^141-1]
 
 <sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
+
+[^141-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Benachteiligung durch Widerhandlungen
 
@@ -1828,11 +1879,14 @@ wird mit Gefängnis oder Busse bestraft.
 
 #### Art. 142
 
-<sup>1</sup> Wer ohne Wissen des Reeders oder des Kapitäns eines schweizerischen Seeschiffes schmuggelt oder andere unerlaubte Handlungen begeht und dadurch den Reeder oder Kapitän in Gefahr bringt, bestraft zu werden oder durch Beschlagnahme von Schiff oder Ladung, Verzögerung der Reise u. dgl. zu Verlust zu kommen, wird mit Gefängnis bis zu einem Jahr oder mit Busse bestraft.
+<sup>1</sup> Wer ohne Wissen des Reeders oder des Kapitäns eines schweizerischen Seeschiffes schmuggelt oder andere unerlaubte Handlungen begeht und dadurch den Reeder oder Kapitän in Gefahr bringt, bestraft zu werden oder durch Beschlagnahme von Schiff oder Ladung, Verzögerung der Reise u. dgl. zu Verlust zu kommen, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.[^142-1]
 
 <sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>3</sup> Der Kapitän eines schweizerischen Seeschiffes, der eine solche Handlung ohne Wissen des Reeders begeht, wird mit Gefängnis oder Busse bestraft.
+<sup>3</sup> Der Kapitän eines schweizerischen Seeschiffes, der eine solche Handlung ohne Wissen des Reeders begeht, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^142-2]
+
+[^142-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^142-2]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Dritter Abschnitt: Strafbare Handlungen gegen die Ordnung der schweizerischen Seeschifffahrt
 
@@ -1840,61 +1894,74 @@ wird mit Gefängnis oder Busse bestraft.
 
 #### Art. 143
 
-<sup>1</sup> Wer auf dem Meere die Schweizer Flagge für ein Schiff führt, das nicht im Register der schweizerischen Seeschiffe eingetragen ist, der Kapitän eines schweizerischen Seeschiffes, der auf dem Meere die Schweizer Flagge nicht führt oder eine fremde Flagge führt,
+[^143-1]
 
-wird mit Gefängnis oder mit Busse bestraft.
+<sup>1</sup>
 
-<sup>2</sup> Der Kapitän eines schweizerischen Seeschiffes, der die Schweizer Flagge nicht in der vorgeschriebenen Form oder nicht in der für Schiffe der betreffenden Gattung üblichen Art und Weise führt oder hisst,
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft:
 
-wird mit Busse bestraft.
+- a. wer auf dem Meer die Schweizer Flagge für ein Schiff führt, das nicht im Register der schweizerischen Seeschiffe eingetragen ist;
+- b. der Kapitän eines schweizerischen Seeschiffes, der auf dem Meer die Schweizer Flagge nicht führt oder eine fremde Flagge führt;
+- c. wer auf dem Meer eine Schweizer Flagge oder ein ähnliches Zeichen für eine Jacht führt, die nicht im Schweizerischen Jachtregister eingetragen ist;
+- d. wer für eine im Schweizerischen Jachtenregister eingetragene Jacht eine fremde Flagge oder ein ähnliches fremdes Zeichen führt.
 
-<sup>3</sup> Wer auf dem Meere eine Schweizer Flagge oder ein ähnliches Zeichen für eine Jacht führt, die nicht im Schweizerischen Jachtregister eingetragen ist, oder für eine im Schweizerischen Jachtregister eingetragene Jacht eine fremde Flagge oder ein ähnliches fremdes Zeichen führt,
+<sup>2</sup> Mit Busse bestraft wird der Kapitän eines schweizerischen Seeschiffes, der die Schweizer Flagge nicht in der vorgeschriebenen Form oder nicht in der für Schiffe der betreffenden Gattung üblichen Art und Weise führt oder hisst.
 
-wird mit Gefängnis oder mit Busse bestraft.[^143-1]
-
-[^143-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 1965 ([AS 1966 1453](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [BBl 1965 II 284](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)). Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Aug. 1977 ([AS 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [BBl 1976 II 1181](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
+[^143-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Erschleichen der Registereintragung
 
-[^titVIII-chapIII-lvlu2-1]
-
-[^titVIII-chapIII-lvlu2-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 1965 ([AS 1966 1453](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [BBl 1965 II 284](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
-
 #### Art. 144
 
-<sup>1</sup> Wer im Verfahren über die Eintragung eines Seeschiffes in das Register der schweizerischen Seeschiffe oder im Verfahren über die Wiederherstellung fehlender gesetzlicher Voraussetzungen für die Eintragung, insbesondere hinsichtlich der gesetzlichen Bedingungen für das schweizerische Eigentum, des Vorhandenseins der eigenen Mittel und des Ursprungs der Kapitalien, oder des Fehlens jeglichen, nicht zugelassenen ausländischen Einflusses unwahre Angaben macht oder wesentliche Tatsachen verschweigt, wird mit Gefängnis oder mit Busse bis zu 50 000 Franken bestraft.
+[^144-1]
 
-<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse bis zu 10 000 Franken.
+<sup>1</sup> Wer im Verfahren über die Eintragung eines Seeschiffes in das Register der schweizerischen Seeschiffe oder im Verfahren über die Wiederherstellung fehlender gesetzlicher Voraussetzungen für die Eintragung unwahre Angaben macht oder wesentliche Tatsachen verschweigt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft. Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe.
 
-<sup>3</sup> Der Eigentümer oder Reeder eines schweizerischen Seeschiffes, der wesentliche neue Tatsachen, die zur Streichung des Schiffes im Register für schweizerische Seeschiffe oder zum Entzug des Seebriefes führen, der zuständigen Behörde nicht meldet, der Eigentümer oder Mieter eines schweizerischen Seeschiffes, der sein Schiff einem Mieter oder Untermieter vermietet, der die gesetzlichen Bedingungen als Reeder eines schweizerischen Seeschiffes nicht erfüllt,
+<sup>2</sup>
 
-wird mit Busse bis zu 10 000 Franken bestraft.
+Mit Busse bis zu 50 000 Franken wird bestraft:
 
-<sup>4</sup> Wer den Vorschriften des Bundesrates über die Eintragung von Jachten in einem schweizerischen Register zuwiderhandelt, zwecks Eintragung eines solchen Schiffes unwahre Angaben macht oder wesentliche Tatsachen verschweigt, wird mit Gefängnis oder mit Busse bis zu 20 000 Franken bestraft. Handelt der Täter fahrlässig, so ist die Strafe Busse bis zu 5000 Franken.[^144-1]
+- a. der Eigentümer oder Reeder eines schweizerischen Seeschiffes, der wesentliche neue Tatsachen, die zur Streichung des Schiffes im Register für schweizerische Seeschiffe oder zum Entzug des Seebriefes führen, der zuständigen Behörde nicht meldet;
+- b. der Eigentümer oder Mieter eines schweizerischen Seeschiffes, der sein Schiff einem Mieter oder Untermieter vermietet, der die gesetzlichen Bedingungen als Reeder eines schweizerischen Seeschiffes nicht erfüllt.
 
-[^144-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 1965, in Kraft seit 1. Jan. 1967 ([AS 1966 1453](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [BBl 1965 II 284](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+<sup>3</sup> Wer vorsätzlich den Vorschriften des Bundesrates über die Eintragung von Jachten in einem schweizerischen Register zuwiderhandelt, zwecks Eintragung eines solchen Schiffes unwahre Angaben macht oder wesentliche Tatsachen verschweigt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft. Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe.
+
+[^144-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Verstrickungsbruch, Missachtung behördlicher Anordnungen
 
 #### Art. 145
 
-<sup>1</sup> Wer ein im Register der schweizerischen Seeschiffe eingetragenes Schiff der von der zuständigen schweizerischen Behörde verfügten Beschlagnahme, Pfändung, Verarrestierung, Versteigerung, Requisition oder Enteignung entzieht, wird mit Gefängnis oder mit Busse bis zur Höhe des Wertes des Schiffes bestraft. Der Richter kann die vom Verurteilten bezahlte Busse den Geschädigten auf deren Verlangen und gegen Abtretung des entsprechenden Teils der Forderung an den Staat zuerkennen.
+[^145-1]
 
-<sup>2</sup> Der Schiffseigentümer, Reeder oder Kapitän eines schweizerischen Seeschiffes, der einer vom Bundesrat gestützt auf Artikel 6 erlassenen Anordnung keine Folge leistet, wird mit Gefängnis oder mit Busse bestraft.
+<sup>1</sup> Wer ein im Register der schweizerischen Seeschiffe eingetragenes Schiff der von der zuständigen schweizerischen Behörde verfügten Beschlagnahme, Verarrestierung, Pfändung, Versteigerung, Requisition oder Enteignung entzieht, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft. Artikel 71 des Strafgesetzbuchs[^145-2] ist sinngemäss anwendbar. Das Gericht kann die vom Verurteilten bezahlte Geldstrafe und den ersatzweise bezahlten Betrag den Geschädigten auf deren Verlangen und gegen Abtretung des entsprechenden Teils der Forderung an den Staat zuerkennen.
 
-<sup>3</sup> Der Reeder, Seefrachtführer oder Kapitän, der vom Bundesrat verbotene Güter mit einem schweizerischen Seeschiff befördert, wird mit Gefängnis oder Busse bestraft. Ist Kriegsmaterial verbotswidrig befördert worden, so kann der Täter mit Zuchthaus bis zu fünf Jahren und Busse bestraft werden.
+<sup>2</sup> Der Schiffseigentümer, Reeder oder Kapitän eines schweizerischen Seeschiffes, der einer vom Bundesrat gestützt auf Artikel 6 erlassenen Anordnung keine Folge leistet, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+<sup>3</sup> Der Reeder, Seefrachtführer oder Kapitän, der vom Bundesrat verbotene Güter mit einem schweizerischen Seeschiff befördert, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft. Befördert er verbotswidrig Kriegsmaterial, so wird er mit Freiheitsstrafe von einem Jahr bis zu fünf Jahren bestraft.
+
+[^145-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^145-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Unerlaubte Veräusserung
 
 #### Art. 146
 
-Der Schiffseigentümer, der ein schweizerisches Seeschiff, für das die Bewilligung zur Streichung im Register der schweizerischen Seeschiffe nicht erteilt worden ist, an einen Ausländer veräussert, wird mit Gefängnis oder mit Busse bis zur Höhe des Verkehrswertes bestraft.
+[^146-1]
+
+Der Schiffseigentümer, der ein schweizerisches Seeschiff, für das die Bewilligung zur Streichung im Register der schweizerischen Seeschiffe nicht erteilt worden ist, an einen Ausländer veräussert, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+[^146-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Nichtaushändigung des Seebriefes
 
 #### Art. 147
 
-Wer zur Rückgabe des Seebriefes oder eines sonstigen Zeugnisses über ein schweizerisches Seeschiff verpflichtet ist und dieser Pflicht zuwiderhandelt, wird mit Busse bis zu 20 000 Franken bestraft.
+[^147-1]
+
+Wer zur Rückgabe des Seebriefes oder eines sonstigen Zeugnisses über ein schweizerisches Seeschiff verpflichtet ist und dieser Pflicht zuwiderhandelt, wird mit Busse bis zu 100 000 Franken bestraft.
+
+[^147-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Unterlassen der Führung der Schiffsbücher
 
@@ -1902,9 +1969,9 @@ Wer zur Rückgabe des Seebriefes oder eines sonstigen Zeugnisses über ein schwe
 
 [^148-1]
 
-Der Kapitän eines schweizerischen Seeschiffes, der seiner durch Gesetz oder internationale Übereinkommen vorgeschriebenen Pflicht,
-
 zuwiderhandelt, wird mit Busse bestraft.
+
+Der Kapitän eines schweizerischen Seeschiffes, der seiner durch Gesetz oder internationale Übereinkommen vorgeschriebenen Pflicht:
 
 - a. das Schiffstagebuch, die Musterrolle, das Maschinentagebuch oder sonstige Bücher, Protokolle und Kontrollen ordnungsgemäss zu führen und aufzubewahren;
 - b. die vorgeschriebenen Schiffsbücher, Schiffspapiere, Urkunden und Dokumente an Bord des Schiffes mitzuführen,
@@ -1927,7 +1994,11 @@ der Kapitän, der den Vorschriften über den Vollzug von Disziplinarstrafen zuwi
 
 wird mit Busse bestraft.
 
-### Zuwiderhandlung gegen die Sicherheitsbestimmungen für Personentransporte
+### Zuwiderhandlung gegen Bestimmungen des internationalen Seearbeitsübereinkommens
+
+[^titVIII-chapIII-lvlu9-1]
+
+[^titVIII-chapIII-lvlu9-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 150a
 
@@ -1942,7 +2013,11 @@ Der Kapitän oder der Reeder eines schweizerischen Seeschiffes, der gegen die Be
 
 #### Art. 151
 
-Der Kapitän oder der Reeder eines schweizerischen Seeschiffes, der den Bestimmungen dieses Gesetzes oder der dazu gehörenden Verordnungen oder Ausführungsvorschriften über die Sicherheit der Personentransporte über Meer, die Ausrüstung der hiezu bestimmten Schiffe oder die Unterkunft oder Verpflegung von Passagieren zuwiderhandelt, wird, sofern die Tat nicht nach einer andern Bestimmung zu bestrafen ist, mit Busse bis zu 20 000 Franken bestraft.
+[^151-1]
+
+Der Kapitän oder Reeder eines schweizerischen Seeschiffes, der den Bestimmungen dieses Gesetzes oder der dazugehörigen Ausführungsbestimmungen über die Sicherheit der Personentransporte über Meer, über die Ausrüstung der hiezu bestimmten Schiffe oder über die Unterkunft oder Verpflegung von Passagieren zuwiderhandelt, wird mit Busse bis zu 100 000 Franken bestraft, sofern kein schwererer Tatbestand erfüllt ist.
+
+[^151-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Zerstörung und schwere Beschädigung von Unterwasser-Kulturerbe
 
@@ -1956,13 +2031,20 @@ Wer von einem schweizerischen Seeschiff aus ohne Berechtigung Unterwasser-Kultur
 
 ### Vierter Abschnitt: Besondere Bestimmungen
 
-### Nebenstrafen
+### Massnahmen
 
 #### Art. 152
 
-<sup>1</sup> Wird ein Täter wegen Gefährdung des Schiffes oder der Schifffahrt, wegen Ausfahrt mit einem seeuntüchtigen Schiff, Unterlassens der Hilfeleistung, Verlassens des Schiffes in Seenot Nichtausübens des Kommandos oder Verlassens des Postens verurteilt, so kann der Richter als Nebenstrafe den Rückzug des beruflichen Fähigkeitsausweises oder -zeugnisses verfügen sowie den Dienst an Bord schweizerischer Seeschiffe verbieten.
+[^152-1]
 
-<sup>2</sup> Wird der Täter wegen Flaggenmissbrauchs, Erschleichens der Registereintragung oder Missachtung einer auf Artikel 6 gestützten Anordnung des Bundesrates verurteilt, so kann der Richter als Nebenstrafe den Rückzug des Seebriefes anordnen.
+<sup>1</sup> Wird ein Täter wegen Gefährdung des Schiffes oder der Schifffahrt, wegen Ausfahrt mit einem seeuntüchtigen Schiff, Unterlassens der Hilfeleistung, Verlassens des Schiffes in Seenot, Nichtausübens des Kommandos oder Verlassens des Postens verurteilt und besteht die Gefahr, dass er weitere solche Taten begeht, so kann das Gericht den Rückzug des beruflichen Fähigkeitsausweises oder -zeugnisses verfügen sowie den Dienst an Bord schweizerischer Seeschiffe verbieten.
+
+<sup>2</sup> Wird der Täter wegen Flaggenmissbrauchs, Erschleichens der Registereintragung oder Missachtung einer auf Artikel 6 gestützten Anordnung des Bundesrates verurteilt und besteht die Gefahr, dass er weitere solche Taten begeht, so kann das Gericht den Rückzug des Seebriefes anordnen.
+
+<sup>3</sup> Die Massnahmen können auch getroffen werden, wenn der Täter nach Artikel 19 Absätze 1 und 2 des Strafgesetzbuchs[^152-2] schuldunfähig oder vermindert schuldfähig ist.
+
+[^152-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^152-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Widerhandlungen in Geschäftsbetrieben
 
@@ -1970,21 +2052,20 @@ Wer von einem schweizerischen Seeschiff aus ohne Berechtigung Unterwasser-Kultur
 
 [^153-1]
 
-<sup>1</sup> Wird eine Widerhandlung beim Besorgen der Angelegenheiten einer juristischen Person, Kollektiv- oder Kommanditgesellschaft, Einzelfirma oder Personengesamtheit ohne Rechtspersönlichkeit oder sonst in Ausübung geschäftlicher oder dienstlicher Verrichtungen für einen andern begangen, so sind die Strafbestimmungen auf diejenigen natürlichen Personen anwendbar, welche die Tat verübt haben.
+Auf Widerhandlungen in Geschäftsbetrieben ist Artikel 6 des Bundesgesetzes vom 22. März 1974[^153-2] über das Verwaltungsstrafrecht anwendbar.
 
-<sup>2</sup> Der Geschäftsherr, Arbeitgeber, Auftraggeber oder Vertretene, der es vorsätzlich oder fahrlässig in Verletzung einer Rechtspflicht unterlässt, eine Widerhandlung des Untergebenen, Beauftragten oder Vertreters abzuwenden oder in ihren Wirkungen aufzuheben, untersteht den Strafbestimmungen, die für den entsprechend handelnden Täter gelten.
-
-<sup>3</sup> Ist der Geschäftsherr, Arbeitgeber, Auftraggeber oder Vertretene eine juristische Person, Kollektiv- oder Kommanditgesellschaft, Einzelfirma oder Personengesamtheit ohne Rechtspersönlichkeit, so wird Absatz 2 auf die schuldigen Organe, Organmitglieder, geschäftsführenden Gesellschafter, tatsächlich leitenden Personen oder Liquidatoren angewendet.
-
-<sup>4</sup> In den Fällen der Artikel 144–146 haften die juristische Person, Kollektiv- oder Kommanditgesellschaft, Einzelfirma oder Personengesamtheit ohne Rechtspersönlichkeit solidarisch mit dem Täter für die Bussen.
-
-[^153-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1976, in Kraft seit 1. Aug. 1977 ([AS 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [BBl 1976 II 1181](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
+[^153-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^153-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Auslieferung
 
 #### Art. 154
 
-Die strafbaren Handlungen, die nach den Bestimmungen dieses Gesetzes mit Gefängnis von einem Jahr oder einer höhern Strafe bedroht sind, sind Auslieferungsdelikte im Sinne der schweizerischen Auslieferungsgesetzgebung.
+[^154-1]
+
+Die strafbaren Handlungen, die nach den Bestimmungen dieses Gesetzes mit Freiheitsstrafe von einem Jahr oder einer höheren Strafe bedroht sind, sind Auslieferungsdelikte im Sinne der schweizerischen Auslieferungsgesetzgebung.
+
+[^154-1]: Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Fünfter Abschnitt: Disziplinarstrafordnung
 
@@ -2048,10 +2129,10 @@ Als Disziplinarstrafen sind ausschliesslich zulässig:
 
 <sup>2</sup> Wird in einem Strafverfahren bei einem Vergehen, bei dem in leichten Fällen disziplinarische Bestrafung erfolgt, ein solcher Fall angenommen oder wird die Tat sonst als blosser Disziplinarfehler betrachtet, so kann das erkennende Gericht unter Freisprechung des Angeklagten selber alle Disziplinarstrafen aussprechen. Stellt die Untersuchungsbehörde aus denselben Gründen ein Strafverfahren ein, so überweist sie die Akten an den Präsidenten des Gerichts, das für eine strafrechtliche Beurteilung zuständig wäre. Dieser kann alle beantragten Disziplinarstrafen aussprechen.[^157-1]
 
-<sup>3</sup> Leistet der Fehlbare nicht mehr Dienst an Bord eines schweizerischen Seeschiffes, so kann an Stelle einer Arreststrafe eine Haftstrafe von gleicher Dauer ausgesprochen werden.[^157-2]
+<sup>3</sup> Leistet der Fehlbare nicht mehr Dienst an Bord eines schweizerischen Seeschiffes, so kann anstelle einer Arreststrafe eine Busse bis zu 3000 Franken ausgesprochen werden.[^157-2]
 
 [^157-1]: Fassung gemäss Ziff. I des BG vom 20. März 1987, in Kraft seit 1. Febr. 1989 ([AS 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [BBl 1986 II 717](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
-[^157-2]: Eingefügt durch Ziff. I des BG vom 20. März 1987, in Kraft seit 1. Febr. 1989 ([AS 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [BBl 1986 II 717](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^157-2]: Eingefügt durch Ziff. I des BG vom 20. März 1987 ([AS 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [BBl 1986 II 717](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)). Fassung gemäss Ziff. I 24 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Verbüssung der Strafe
 
@@ -2063,7 +2144,7 @@ Als Disziplinarstrafen sind ausschliesslich zulässig:
 
 <sup>3</sup> Der Arrest wird von Offizieren in ihrer Kabine, von den übrigen Seeleuten in einem besonderen Raum an Bord des Schiffes erstanden. Die Arreststrafen sind, soweit es der Dienst an Bord zulässt, sofort zu vollziehen. Der Arrestant leistet keinen Dienst. Der als Arrestlokal verwendete Raum muss trocken sein, genügend Luft und Licht haben und den an eine Kabine gestellten gesundheitspolizeilichen Anforderungen entsprechen.
 
-<sup>4</sup> ...[^158-1]
+<sup>4</sup> …[^158-1]
 
 <sup>5</sup> Die Ordnungsbussen sind dem Schweizerischen Seeschifffahrtsamt abzuliefern und von diesem zur Fürsorge für Seeleute und ihre Familienangehörigen zu verwenden. Das SSA kann mit diesen Mitteln auch Massnahmen, insbesondere zur Förderung der Seeschifffahrt unter der Schweizer Flagge, unterstützen oder Prämien für besondere Leistungen von Seeleuten ausrichten. Das Eidgenössische Departement für auswärtige Angelegenheiten erlässt ein Reglement über die Verwendung dieser Mittel.[^158-2]
 
@@ -2105,7 +2186,7 @@ Die vom Kapitän verfügte Disziplinarstrafe wird mit der Eröffnung vollstreckb
 
 <sup>3</sup> Für das Beschwerdeverfahren gilt sinngemäss das Verwaltungsverfahrensgesetz vom 20. Dezember 1968[^161-4].[^161-5]
 
-<sup>4</sup> ...[^161-6]
+<sup>4</sup> …[^161-6]
 
 [^161-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 1965, in Kraft seit 1. Jan. 1967 ([AS 1966 1453](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [BBl 1965 II 284](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 [^161-2]: Fassung gemäss Ziff. I des BG vom 20. März 1987, in Kraft seit 1. Febr. 1989 ([AS 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [BBl 1986 II 717](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
@@ -2186,7 +2267,7 @@ Anhang I[^t-1]
 
 [^t-1]: Fassung gemäss Anhang 3 Ziff. II 4 des Wappenschutzgesetzes vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20201101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20230701/de/xml/image/image1.png)
 
 Farbdefinition Rot:
 
