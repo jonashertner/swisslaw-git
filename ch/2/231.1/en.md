@@ -4,11 +4,11 @@ title: "Federal Act of 9 October 1992 on Copyright and Related Rights (Copyright
 short: CopA
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798"
 language: en
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20220101-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20230701-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Copyright Act, CopA)
 
-of 9 October 1992 (Status as of 1 January 2022)
+of 9 October 1992 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -760,7 +760,7 @@ The provisions under Article 12 paragraph 1 and Article 13 as well as Chapters 4
 [^39-1]: Amended by No I of the FA of 27 Sept. 2019, in force since 1 April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 [^39-2]: Inserted by Art. 2 of the FD of 5 Oct. 2007, in force since 1 July 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
-## Title 3*a***** Protection of Technological Measures and Rights Management Information
+## Title 3*a* Protection of Technological Measures and Rights Management Information
 
 [^tit3a-1]
 
@@ -812,7 +812,7 @@ Electronic information that identifies works and other subject-matter or informa
 
 <sup>3</sup> Works or other subject-matter from which the rights management information concerning copyright and related rights has been removed or altered may not be copied, imported, offered, transferred or otherwise distributed or broadcast, made perceptible or made available in this form.
 
-## Title 3*b***** Obligation of Providers of Internet Hosting Services which store Information entered by Users
+## Title 3*b* Obligation of Providers of Internet Hosting Services which store Information entered by Users
 
 [^tit3b-1]
 
@@ -886,7 +886,7 @@ Authorisation is only given to collective rights management organisations which:
 
 <sup>2</sup> Notice of the granting, renewal, modification, withdrawal and non-renewal of such authorisation shall be published.
 
-### Chapter 2*a***** Extended Collective Licences
+### Chapter 2*a* Extended Collective Licences
 
 [^tit4-chap2a-1]
 
@@ -1194,13 +1194,14 @@ On the complaint of the person whose rights have been infringed, any person who 
 - k.[^67-4] refuses to notify the authority concerned of the origin and quantity of items in his possession that have been unlawfully manufactured or placed on the market, and to name the recipients and disclose the extent of any distribution to commercial and industrial consumers;
 - l. rents out a computer program.
 
-<sup>2</sup> Any person who has committed any act mentioned in paragraph 1 for commercial gain shall be prosecuted *ex officio.* The penalty is a custodial sentence not exceeding five years or a monetary penalty. The custodial sentence must be combined with a monetary penalty.[^67-5]
+<sup>2</sup> Any person who has committed any act mentioned in paragraph 1 for commercial gain shall be prosecuted *ex officio.* The penalty is a custodial sentence not exceeding five years or a monetary penalty. …[^67-5].[^67-6]
 
 [^67-1]: Amended by Art. 2 of the FD of 5 Oct. 2007, in force since 1 July 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-2]: Inserted by Art. 2 of the FD of 5 Oct. 2007, in force since 1 July 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-3]: Amended by Art. 2 of the FD of 5 Oct. 2007, in force since 1 July 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-4]: Amended by Annex No 2 of the FA of 22 June 2007, in force since 1 July 2008 (AS **2008** 2251; [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^67-5]: Amended by Art. 2 of the FD of 5 October 2007, in force since 1 July 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^67-5]: Third sentence repealed by No I 4 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^67-6]: Amended by Art. 2 of the FD of 5 October 2007, in force since 1 July 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 68
 
@@ -1229,14 +1230,15 @@ On the complaint of the person whose rights have been infringed, any person who 
 - i. reproduces a broadcast fixed on blank media or distributes copies of such reproductions;
 - k.[^69-5] refuses to notify the responsible authority concerned of the origin and quantity of the carriers of a performance protected under Articles 33, 36 or 37 in his possession that have been unlawfully manufactured or placed on the market, or to name the recipients and disclose the extent of any distribution to commercial and industrial customers.
 
-<sup>2</sup> Any person who has committed any act mentioned in paragraph 1 for commercial gain shall be prosecuted *ex officio.* The penalty is a custodial sentence not exceeding five years or a monetary penalty. The custodial sentence must be combined with a monetary penalty.[^69-6]
+<sup>2</sup> Any person who has committed any act mentioned in paragraph 1 for commercial gain shall be prosecuted *ex officio.* The penalty is a custodial sentence not exceeding five years or a monetary penalty. …[^69-6].[^69-7]
 
 [^69-1]: Amended by Art. 2 of the FD of 5 Oct. 2007, in force since 1 July 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); BB1 **2006** 3389).
 [^69-2]: Amended by Art. 2 of the FD of 5 Oct. 2007, in force since 1 July 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-3]: Inserted by Art. 2 of the FD of 5 Oct. 2007, in force since 1 July 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-4]: Inserted by Art. 2 of the FD of 5 Oct. 2007, in force since 1 July 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-5]: Amended by Annex No 1 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^69-6]: Amended by Art. 2 of the FD of 5 Oct. 2007, in force since 1 July 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^69-6]: Third sentence repealed by No I 4 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^69-7]: Amended by Art. 2 of the FD of 5 Oct. 2007, in force since 1 July 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 69a
 
@@ -1299,7 +1301,7 @@ Works of architecture that have been constructed may not be forfeited under Arti
 
 [^73-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
-### Chapter 3**** Appeals to the Federal Administrative Court
+### Chapter 3 Appeals to the Federal Administrative Court
 
 [^tit5-chap3-1]
 
@@ -1322,7 +1324,7 @@ The procedure for appeals before the Federal Administrative Court is subject to 
 [^74-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^74-3]: Amended by No I of the FA of 27 Sept. 2019, in force since 1 April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
-### Chapter 4 Assistance provided by the Federal Office for Customs and Border Security****
+### Chapter 4 Assistance provided by the Federal Office for Customs and Border Security
 
 [^tit5-chap4-1]
 
@@ -1450,7 +1452,7 @@ Before the destruction of the goods, the FOCBS shall remove samples and hold the
 
 [^77h-1]: Inserted by Annex No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-## Title 5*a***** Processing of Personal Data for the purpose of Filing a Criminal Complaint or Reporting a Criminal Offence
+## Title 5*a* Processing of Personal Data for the purpose of Filing a Criminal Complaint or Reporting a Criminal Offence
 
 [^tit5a-1]
 

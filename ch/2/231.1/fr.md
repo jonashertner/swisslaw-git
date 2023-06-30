@@ -4,20 +4,20 @@ title: "Loi fédérale du 9 octobre 1992 sur le droit d'auteur et les droits voi
 short: LDA
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20230701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur le droit d’auteur et les droits voisins
 
-(Loi sur le droit d’auteur, LDA)**<sup>[^t-1]∗</sup>****[^t-2]**
+(Loi sur le droit d’auteur, LDA)<sup>[^t-1]</sup>[^t-2]
 
-du 9 octobre 1992 (Etat le 1<sup>er</sup> janvier 2022)
+du 9 octobre 1992 (État le 1<sup>er</sup> juillet 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
@@ -772,7 +772,7 @@ L’art. 12, al. 1, et l’art. 13, ainsi que les chap. 4 et 5 du titre 2 s’ap
 [^39-1]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 559](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 [^39-2]: Introduit par l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
-## Titre 3*a***** Protection des mesures techniques et de l’information sur le régime des droits
+## Titre 3*a* Protection des mesures techniques et de l’information sur le régime des droits
 
 [^tit3a-1]
 
@@ -824,7 +824,7 @@ Sont protégés les informations électroniques qui permettent d’identifier le
 
 <sup>3</sup> Il est interdit de reproduire, d’importer, de proposer au public, d’aliéner ou de mettre en circulation de quelque autre manière, de diffuser, de faire voir ou entendre ou de mettre à disposition des œuvres ou d’autres objets protégés dont les informations sur le régime des droits d’auteur et des droits voisins ont été supprimées ou modifiées.
 
-## Titre 3*b***** Obligation des fournisseurs de services d’hébergement Internet qui sauvegardent des informations saisies par les usagers
+## Titre 3*b* Obligation des fournisseurs de services d’hébergement Internet qui sauvegardent des informations saisies par les usagers
 
 [^tit3b-1]
 
@@ -899,7 +899,7 @@ Les autorisations ne sont accordées qu’aux sociétés de gestion:
 
 <sup>2</sup> L’octroi, le renouvellement, la modification, la révocation et le non-renouvellement d’une autorisation sont publiés.
 
-### Chapitre 2*a***** Licences collectives étendues
+### Chapitre 2*a* Licences collectives étendues
 
 [^tit4-chap2a-1]
 
@@ -1206,12 +1206,13 @@ Sur plainte du lésé, est puni d’une peine privative de liberté d’un an au
 - k. refuse de déclarer à l’autorité compétente la provenance et la quantité des objets en sa possession fabriqués ou mis en circulation illicitement et de désigner les destinataires et la quantité des objets qui ont été remis à des acheteurs commerciaux;
 - l. loue un logiciel.
 
-<sup>2</sup> Si l’auteur d’une infraction au sens de l’al. 1 agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.[^67-4]
+<sup>2</sup> Si l’auteur d’une infraction au sens de l’al. 1 agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. ...[^67-4] [^67-5]
 
 [^67-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^67-2]: Introduit par l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-3]: Nouvelle teneur selon l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^67-4]: Nouvelle teneur selon l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^67-4]: Phrase abrogée par le ch. I 4 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^67-5]: Nouvelle teneur selon l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 68
 
@@ -1242,13 +1243,14 @@ Sur plainte du lésé, est puni d’une peine privative de liberté d’un an au
 - i. reproduit une émission enregistrée sur un phonogramme, un vidéogramme ou un autre support de données ou, de quelque autre manière, met en circulation de tels exemplaires;
 - k. refuse de déclarer à l’autorité compétente la provenance et la quantité des supports en sa possession confectionnés ou mis en circulation illicitement sur lesquels est enregistrée une prestation protégée au titre des droits voisins en vertu des art. 33, 36 ou 37 et de désigner les destinataires et la quantité des objets qui ont été remis à des acheteurs commerciaux.
 
-<sup>2</sup> Si l’auteur d’une infraction au sens de l’al. 1 agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.[^69-5]
+<sup>2</sup> Si l’auteur d’une infraction au sens de l’al. 1 agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. ...[^69-5] [^69-6]
 
 [^69-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^69-2]: Nouvelle teneur selon l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-3]: Introduit par l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-4]: Introduit par l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
-[^69-5]: Nouvelle teneur selon l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^69-5]: Phrase abrogée par le ch. I 4 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^69-6]: Nouvelle teneur selon l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 69a
 
@@ -1311,7 +1313,7 @@ Une fois réalisées, les œuvres d’architecture ne peuvent pas être confisqu
 
 [^73-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
-### Chapitre 3**** Recours au Tribunal administratif fédéral
+### Chapitre 3 Recours au Tribunal administratif fédéral
 
 [^tit5-chap3-1]
 
@@ -1334,7 +1336,7 @@ La procédure de recours devant le Tribunal administratif fédéral est régie p
 [^74-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^74-3]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 559](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
-### Chapitre 4 Intervention de l’Office fédéral de la douane et de la sécurité des frontières****
+### Chapitre 4 Intervention de l’Office fédéral de la douane et de la sécurité des frontières
 
 [^tit5-chap4-1]
 
@@ -1462,7 +1464,7 @@ Avant la destruction des produits, l’OFDF prélève des échantillons et les c
 
 [^77h-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-## Titre 5*a***** Traitement des données personnelles en vue de déposer une plainte ou une dénonciation pénale
+## Titre 5*a* Traitement des données personnelles en vue de déposer une plainte ou une dénonciation pénale
 
 [^tit5a-1]
 

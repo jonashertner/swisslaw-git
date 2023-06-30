@@ -4,11 +4,11 @@ title: "Lescha federala dals 9 d'october 1992 davart ils dretgs d'autur ed ils d
 short: LDAu
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798"
 language: rm
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20220101-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20230701-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20230701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart il dretg d’autur, LDAu)
 
-dals 9 d’october 1992 (versiun dal 1. da schaner 2022)
+dals 9 d’october 1992 (versiun dal 1. da fanadur 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -760,7 +760,7 @@ Las disposiziuns da l’artitgel 12 alinea 1 e da l’artitgel 13 sco er dal 4. 
 [^39-1]: Versiun tenor la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. d’avr. 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 [^39-2]: Integrà tras l’art. 2 dal COF dals 5 d’oct. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
-## 3*a*. titel**** Protecziun da mesiras tecnicas e d’infurmaziuns per far valair dretgs
+## 3*a*. titel Protecziun da mesiras tecnicas e d’infurmaziuns per far valair dretgs
 
 [^tit3a-1]
 
@@ -812,7 +812,7 @@ Protegidas èn infurmaziuns electronicas per identifitgar ovras ed auters object
 
 <sup>3</sup> Ovras u auters objects protegids, dals quals èn vegnidas allontanadas u midadas infurmaziuns per far valair dretgs d’autur e dretgs da protecziun parents, na dastgan betg vegnir reproducids, importads, offrids, vendids u derasads autramain, emess, laschads percepir u rendids accessibels en questa furma.
 
-## 3*b*. titel**** Obligaziun dals purschiders da servetschs da hosting en l’internet che arcunan infurmaziuns endatadas dals utilisaders
+## 3*b*. titel Obligaziun dals purschiders da servetschs da hosting en l’internet che arcunan infurmaziuns endatadas dals utilisaders
 
 [^tit3b-1]
 
@@ -886,7 +886,7 @@ Permissiuns survegnan mo societads da gestiun:
 
 <sup>2</sup> La concessiun, la prolungaziun, la midada, la privaziun e la nunprolungaziun da la permissiun vegnan publitgadas.
 
-### 2*a*. chapitel**** Licenzas collectivas extendidas
+### 2*a*. chapitel Licenzas collectivas extendidas
 
 [^tit4-chap2a-1]
 
@@ -1176,7 +1176,7 @@ Las dretgiras tramettan gratuitamain al IPI ina copia cumpletta da sentenzias cu
 
 <sup>1</sup>
 
-Sin dumonda da la persuna ch’è vegnida violada en ses dretgs vegn chastià cun in chasti da detenziun fin ad 1 onn u cun in chasti pecuniar, tgi che fa intenziunadamain e senza dretg il suandant:[^67-1]
+Sin dumonda da la persuna ch’è vegnida violada en ses dretgs vegn chastià cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar, tgi che fa intenziunadamain e senza dretg il suandant:[^67-1]
 
 - a. utilisescha in’ovra sut ina faussa designaziun u sut ina designaziun differenta da quella che l’autur ha fixà;
 - b. publitgescha in’ovra;
@@ -1191,13 +1191,14 @@ Sin dumonda da la persuna ch’è vegnida violada en ses dretgs vegn chastià cu
 - k.[^67-4] refusa d’inditgar a l’autoritad cumpetenta la derivanza e la quantitad dals objects ch’èn vegnids producids u mess en circulaziun en moda illegala e che sa chattan en ses possess sco er da numnar ils adressats e la dimensiun d’ina surdada a cumpraders commerzials;
 - l. affitta in program da computer.
 
-<sup>2</sup> Tgi che ha commess a titel professiunal in fatg tenor l’alinea 1, vegn persequità d’uffizi. Il chastì è in chasti da detenziun fin a 5 onns u in chasti pecuniar. Cun il chasti da detenziun sto vegnir pronunzià er in chasti pecuniar.[^67-5]
+<sup>2</sup> Tgi che ha commess a titel professiunal in fatg tenor l’alinea 1, vegn persequità d’uffizi. Il chastì è in chasti da detenziun da fin 5 onns u in chasti pecuniar. …[^67-5] [^67-6]
 
 [^67-1]: Versiun tenor l’art. 2 dal COF dals 5 d’oct. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-2]: Integrà tras l’art. 2 dal COF dals 5 d’oct. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-3]: Versiun tenor l’art. 2 dal COF dals 5 d’oct. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-4]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 22 da zer. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^67-5]: Versiun tenor l’art. 2 dal COF dals 5 d’oct. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^67-5]: Abolì la terza frasa tras la cifra I 4 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^67-6]: Versiun tenor l’art. 2 dal COF dals 5 d’oct. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 68
 
@@ -1211,7 +1212,7 @@ Tgi che tralascha intenziunadamain d’inditgar la funtauna utilisada e – sche
 
 <sup>1</sup>
 
-Sin dumonda da la persuna ch’è vegnida violada en ses dretgs vegn chastià cun in chasti da detenziun fin ad 1 onn u cun in chasti pecuniar, tgi che fa intenziunadamain e senza dretg il suandant:[^69-1]
+Sin dumonda da la persuna ch’è vegnida violada en ses dretgs vegn chastià cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar, tgi che fa intenziunadamain e senza dretg il suandant:[^69-1]
 
 - a. emetta ina preschentaziun d’ina ovra via radio, via televisiun u via proceduras sumegliantas, er via conducts;
 - b. registrescha ina preschentaziun d’ina ovra sin portatuns, sin videos u sin purtaders da datas;
@@ -1226,14 +1227,15 @@ Sin dumonda da la persuna ch’è vegnida violada en ses dretgs vegn chastià cu
 - i. reproducescha in’emissiun registrada sin portatuns, sin videos u sin purtaders da datas u derasa tals exemplars reproducids;
 - k.[^69-5] refusa d’inditgar a l’autoritad cumpetenta la derivanza e la quantitad dals purtaders d’ina prestaziun protegida tenor ils artitgels 33, 36 u 37 ch’èn vegnids producids u mess en circulaziun en moda illegala e che sa chattan en ses possess sco er da numnar ils adressats e la dimensiun d’ina surdada a cumpraders commerzials.
 
-<sup>2</sup> Tgi che ha commess a titel professiunal in fatg tenor l’alinea 1, vegn persequità d’uffizi. Il chastì è in chasti da detenziun fin a 5 onns u in chasti pecuniar. Cun il chasti da detenziun sto vegnir pronunzià er in chasti pecuniar.[^69-6]
+<sup>2</sup> Tgi che ha commess a titel professiunal in fatg tenor l’alinea 1, vegn persequità d’uffizi. Il chastì è in chasti da detenziun da fin 5 onns u in chasti pecuniar. …[^69-6] [^69-7]
 
 [^69-1]: Versiun tenor l’art. 2 dal COF dals 5 d’oct. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-2]: Versiun tenor l’art. 2 dal COF dals 5 d’oct. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-3]: Integrà tras l’art. 2 dal COF dals 5 d’oct. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-4]: Integrà tras l’art. 2 dal COF dals 5 d’oct. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-5]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 22 da zer. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^69-6]: Versiun tenor l’art. 2 dal COF dals 5 d’oct. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^69-6]: Abolì la terza frasa tras la cifra I 4 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^69-7]: Versiun tenor l’art. 2 dal COF dals 5 d’oct. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 69a
 
@@ -1255,7 +1257,7 @@ Sin dumonda da la persuna ch’è vegnida violada en sia protecziun vegn chasti�
 - c. allontanescha u mida infurmaziuns electronicas per far valair dretgs d’autur u dretgs da protecziun parents tenor l’artitgel 39*c* alinea 2;
 - d. reproducescha, importa, offra, venda u derasa autramain, emetta, lascha percepir u renda accessibels ovras u auters objects protegids, dals quals èn vegnidas allontanadas u midadas infurmaziuns per far valair dretgs tenor l’artitgel 39*c* alinea 2.
 
-<sup>2</sup> Tgi che ha commess a titel professiunal in fatg tenor l’alinea 1, vegn persequità d’uffizi. Il chastì è in chasti da detenziun fin ad 1 onn u in chasti pecuniar.
+<sup>2</sup> Tgi che ha commess a titel professiunal in fatg tenor l’alinea 1, vegn persequità d’uffizi. Il chastì è in chasti da detenziun da fin 1 onn u in chasti pecuniar.
 
 <sup>3</sup> Acziuns tenor l’alinea 1 literas c e d èn mo chastiablas, sch’ellas vegnan commessas d’ina persuna che sa u sto savair tenor las circumstanzas ch’ella incitescha, pussibilitescha, facilitescha u dissimulescha qua tras la violaziun d’in dretg d’autur u d’in dretg da protecziun parent.
 
@@ -1296,7 +1298,7 @@ Ovras architectonicas gia realisadas na pon betg vegnir confiscadas tenor l’ar
 
 [^73-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
-### 3. chapitel**** Recurs tar il Tribunal administrativ federal
+### 3. chapitel Recurs tar il Tribunal administrativ federal
 
 [^tit5-chap3-1]
 
@@ -1319,7 +1321,7 @@ La procedura da recurs davant il Tribunal administrativ federal sa drizza tenor 
 [^74-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^74-3]: Versiun tenor la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. d’avr. 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
-### 4. chapitel Agid da l’Uffizi federal da la duana e da la segirezza dals cunfins****
+### 4. chapitel Agid da l’Uffizi federal da la duana e da la segirezza dals cunfins
 
 [^tit5-chap4-1]
 
@@ -1447,7 +1449,7 @@ Avant che destruir la rauba preleva il UDSC emprovas u musters e tegna en salv q
 
 [^77h-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 22 da zer. 2007, en vigur dapi il 1. da fan. 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-## 5*a*. titel**** Elavuraziun da datas persunalas cun l’intent da purtar in plant penal u da far ina denunzia penala
+## 5*a*. titel Elavuraziun da datas persunalas cun l’intent da purtar in plant penal u da far ina denunzia penala
 
 [^tit5a-1]
 
@@ -1539,4 +1541,4 @@ Las societads da gestiun admessas tenor la Lescha federala dals 25 da settember 
 
 Data da l’entrada en vigur:[^84-1] 1. da fanadur 1993 Art. 74 al. 1: 1. da schaner 1994.
 
-[^84-1]: COCF dals 26 d’avr. 1993..
+[^84-1]: COCF dals 26 d’avr. 1993.

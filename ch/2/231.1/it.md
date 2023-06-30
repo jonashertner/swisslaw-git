@@ -4,11 +4,11 @@ title: "Legge federale del 9 ottobre 1992 sul diritto d'autore e sui diritti di 
 short: LDA
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798"
 language: it
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20230701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20220101/it"
 
 (Legge sul diritto d’autore, LDA)
 
-del 9 ottobre 1992 (Stato 1° gennaio 2022)
+del 9 ottobre 1992 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -758,7 +758,7 @@ L’articolo 12 capoverso 1 e l’articolo 13 nonché i capitoli 4 e 5 del Titol
 [^39-1]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 [^39-2]: Introdotto dall’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
-## Titolo terzo *a*:**** Protezione dei provvedimenti tecnici e delle informazioni sulla gestione dei diritti
+## Titolo terzo *a*: Protezione dei provvedimenti tecnici e delle informazioni sulla gestione dei diritti
 
 [^tit3a-1]
 
@@ -810,7 +810,7 @@ Le informazioni elettroniche che consentono di identificare opere e altri oggett
 
 <sup>3</sup> Le opere o altri oggetti protetti le cui informazioni sulla gestione dei diritti d’autore e dei diritti di protezione affini sono state rimosse o alterate non possono essere riprodotte, importate, offerte al pubblico, alienate o messe altrimenti in circolazione, né essere diffuse, fatte vedere o udire o essere messe a disposizione in questa forma.
 
-## Titolo terzo *b*:**** Obbligo dei prestatori di servizi di hosting in Internet che memorizzano le informazioni fornite dagli utenti
+## Titolo terzo *b*: Obbligo dei prestatori di servizi di hosting in Internet che memorizzano le informazioni fornite dagli utenti
 
 [^tit3b-1]
 
@@ -885,7 +885,7 @@ Le autorizzazioni sono accordate soltanto alle società di gestione che:
 
 <sup>2</sup> La concessione, il rinnovo, la modificazione, la revoca e il non rinnovo dell’autorizzazione sono pubblicati.
 
-### Capitolo 2*a*:**** Licenze collettive estese
+### Capitolo 2*a*: Licenze collettive estese
 
 [^tit4-chap2a-1]
 
@@ -1190,13 +1190,14 @@ A querela della parte lesa, è punito con una pena detentiva fino a un anno o co
 - k.[^67-4] si rifiuta d’indicare all’autorità competente la provenienza e la quantità degli oggetti in suo possesso illecitamente fabbricati o immessi sul mercato, nonché i destinatari e l’entità delle loro ulteriori forniture ad acquirenti commerciali;
 - l. dà in locazione un programma per computer.
 
-<sup>2</sup> Se l’autore dell’infrazione ha agito per mestiere, si procede d’ufficio. La pena è una pena detentiva fino a cinque anni o una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.[^67-5]
+<sup>2</sup> Se l’autore dell’infrazione ha agito per mestiere, si procede d’ufficio. La pena è una pena detentiva fino a cinque anni o una pena pecuniaria. ...[^67-5] [^67-6]
 
 [^67-1]: Nuovo testo giusta l’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-2]: Introdotta dall’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-3]: Nuovo testo giusta l’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-4]: Nuovo testo giusta l’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^67-5]: Nuovo testo giusta l’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^67-5]: Per. abrogato dal n. I 4 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^67-6]: Nuovo testo giusta l’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 68
 
@@ -1225,14 +1226,15 @@ A querela della parte lesa, è punito con una pena detentiva fino a un anno o co
 - i. riproduce un’emissione registrata su un supporto audio o audiovisivo o su un supporto di dati o mette altrimenti in circolazione tali esemplari riprodotti;
 - k.[^69-5] rifiuta d’indicare all’autorità competente la provenienza e la quantità dei supporti in suo possesso sui quali è registrata una prestazione protetta ai sensi degli articoli 33, 36 o 37, illecitamente fabbricati o immessi sul mercato, nonché i destinatari e l’entità delle loro ulteriori forniture ad acquirenti commerciali.
 
-<sup>2</sup> Se l’autore dell’infrazione ha agito per mestiere, si procede d’ufficio. La pena è una pena detentiva fino a cinque anni o una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.[^69-6]
+<sup>2</sup> Se l’autore dell’infrazione ha agito per mestiere, si procede d’ufficio. La pena è una pena detentiva fino a cinque anni o una pena pecuniaria. ...[^69-6] [^69-7]
 
 [^69-1]: Nuovo testo giusta l’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-2]: Nuovo testo giusta l’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-3]: Introdotta dall’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-4]: Introdotta dall’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-5]: Nuovo testo giusta l’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^69-6]: Nuovo testo giusta l’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^69-6]: Per. abrogato dal n. I 4 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^69-7]: Nuovo testo giusta l’art. 2 del DF del 5 ott. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3135](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 69a
 
@@ -1295,7 +1297,7 @@ Le opere architettoniche realizzate non possono essere confiscate giusta l’art
 
 [^73-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
-### Capitolo 3:**** Ricorso al Tribunale amministrativo federale
+### Capitolo 3: Ricorso al Tribunale amministrativo federale
 
 [^tit5-chap3-1]
 
@@ -1318,7 +1320,7 @@ La procedura di ricorso dinanzi al Tribunale amministrativo federale è retta da
 [^74-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^74-3]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
-### Capitolo 4: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini****
+### Capitolo 4: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini
 
 [^tit5-chap4-1]
 
@@ -1447,7 +1449,7 @@ Prima di distruggere la merce, l’UDSC preleva campioni e li conserva come prov
 
 [^77h-1]: Introdotto dall’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-## Titolo quinto *a*:**** Trattamento di dati personali a fini di querela o denuncia
+## Titolo quinto *a*: Trattamento di dati personali a fini di querela o denuncia
 
 [^tit5a-1]
 

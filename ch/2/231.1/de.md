@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 9. Oktober 1992 über das Urheberrecht und verwandte Sc
 short: URG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20230701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20220101/de"
 
 (Urheberrechtsgesetz, URG)
 
-vom 9. Oktober 1992 (Stand am 1. Januar 2022)
+vom 9. Oktober 1992 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -430,7 +430,7 @@ Das Recht, in Radio- und Fernsehsendungen enthaltene nichttheatralische Werke de
 
 <sup>2</sup> Wer das Recht hat, ein Computerprogramm zu gebrauchen, darf davon eine Sicherungskopie herstellen; diese Befugnis kann nicht vertraglich wegbedungen werden.
 
-[^24-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2007 ([AS 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)). Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 (AS **2****020** 1003; [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^24-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2007 ([AS 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)). Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 24a
 
@@ -756,7 +756,7 @@ Die Bestimmungen der Artikel 12 Absatz 1 und Artikel 13 sowie das 4. und 5. Kapi
 [^39-1]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 [^39-2]: Eingefügt durch Art. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
-## 3*a*. Titel:**** Schutz von technischen Massnahmen und von Informationen für die Wahrnehmung von Rechten
+## 3*a*. Titel: Schutz von technischen Massnahmen und von Informationen für die Wahrnehmung von Rechten
 
 [^tit3a-1]
 
@@ -808,7 +808,7 @@ Geschützt sind elektronische Informationen zur Identifizierung von Werken und a
 
 <sup>3</sup> Werke oder andere Schutzobjekte, an denen Informationen für die Wahrnehmung von Urheber- und verwandten Schutzrechten entfernt oder geändert wurden, dürfen in dieser Form weder vervielfältigt, eingeführt, angeboten, veräussert oder sonstwie verbreitet noch gesendet, wahrnehmbar oder zugänglich gemacht werden.
 
-## 3*b*. Titel:**** Pflicht der Betreiber von Internet-Hosting-Diensten, die von Benützern und Benützerinnen eingegebene Informationen speichern
+## 3*b*. Titel: Pflicht der Betreiber von Internet-Hosting-Diensten, die von Benützern und Benützerinnen eingegebene Informationen speichern
 
 [^tit3b-1]
 
@@ -882,7 +882,7 @@ Bewilligungen erhalten nur Verwertungsgesellschaften, die:
 
 <sup>2</sup> Erteilung, Erneuerung, Änderung, Entzug und Nichterneuerung der Bewilligung werden veröffentlicht.
 
-### 2*a*. Kapitel:**** Erweiterte Kollektivlizenzen
+### 2*a*. Kapitel: Erweiterte Kollektivlizenzen
 
 [^tit4-chap2a-1]
 
@@ -1187,13 +1187,14 @@ Auf Antrag der in ihren Rechten verletzten Person wird mit Freiheitsstrafe bis z
 - k.[^67-4] sich weigert, der zuständigen Behörde Herkunft und Menge der in seinem Besitz befindlichen Gegenstände, die widerrechtlich hergestellt oder in Verkehr gebracht worden sind, anzugeben und Adressaten sowie Ausmass einer Weitergabe an gewerbliche Abnehmer und Abnehmerinnen zu nennen;
 - l. ein Computerprogramm vermietet.
 
-<sup>2</sup> Wer eine Tat nach Absatz 1 gewerbsmässig begangen hat, wird von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.[^67-5]
+<sup>2</sup> Wer eine Tat nach Absatz 1 gewerbsmässig begangen hat, wird von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. …[^67-5] [^67-6]
 
 [^67-1]: Fassung gemäss Art. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-2]: Eingefügt durch Art. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-3]: Fassung gemäss Art. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-4]: Fassung gemäss Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^67-5]: Fassung gemäss Art. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^67-5]: Dritter Satz aufgehoben durch Ziff. I 4 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^67-6]: Fassung gemäss Art. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 68
 
@@ -1222,14 +1223,15 @@ Auf Antrag der in ihren Rechten verletzten Person wird mit Freiheitsstrafe bis z
 - i. eine auf Ton‑, Tonbild- oder Datenträger festgelegte Sendung vervielfältigt oder solche Vervielfältigungsexemplare verbreitet;
 - k.[^69-5] sich weigert, der zuständigen Behörde Herkunft und Menge der in seinem Besitz befindlichen Träger einer nach Artikel 33, 36 oder 37 geschützten Leistung, die widerrechtlich hergestellt oder in Verkehr gebracht worden sind, anzugeben und Adressaten sowie Ausmass einer Weitergabe an gewerbliche Abnehmer und Abnehmerinnen zu nennen.
 
-<sup>2</sup> Wer eine Tat nach Absatz 1 gewerbsmässig begangen hat, wird von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.[^69-6]
+<sup>2</sup> Wer eine Tat nach Absatz 1 gewerbsmässig begangen hat, wird von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. …[^69-6] [^69-7]
 
 [^69-1]: Fassung gemäss Art. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-2]: Fassung gemäss Art. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-3]: Eingefügt durch Art. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-4]: Eingefügt durch Art. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-5]: Fassung gemäss Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^69-6]: Fassung gemäss Art. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
+[^69-6]: Dritter Satz aufgehoben durch Ziff. I 4 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^69-7]: Fassung gemäss Art. 2 des BB vom 5. Okt. 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 
 #### Art. 69a
 
@@ -1292,7 +1294,7 @@ Ausgeführte Werke der Baukunst können nicht nach Artikel 69 des Strafgesetzbuc
 
 [^73-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
-### 3. Kapitel:**** Beschwerde an das Bundesverwaltungsgericht
+### 3. Kapitel: Beschwerde an das Bundesverwaltungsgericht
 
 [^tit5-chap3-1]
 
@@ -1315,7 +1317,7 @@ Das Beschwerdeverfahren vor dem Bundesverwaltungsgericht richtet sich nach dem V
 [^74-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^74-3]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
-### 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit****
+### 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit
 
 [^tit5-chap4-1]
 
@@ -1443,7 +1445,7 @@ Vor der Vernichtung der Ware entnimmt das BAZG Proben oder Muster und bewahrt si
 
 [^77h-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-## 5*a*. Titel:**** Bearbeitung von Personendaten zum Zweck der Strafantragsstellung oder der Strafanzeigeerstattung
+## 5*a*. Titel: Bearbeitung von Personendaten zum Zweck der Strafantragsstellung oder der Strafanzeigeerstattung
 
 [^tit5a-1]
 
