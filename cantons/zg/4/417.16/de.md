@@ -3,20 +3,20 @@ canton: ZG
 number: "417.16"
 title: Verordnung über den Sportfonds
 language: de
-version: 2021-11-27
-valid_until: 2023-06-30
-version_adopted: 2021-11-23
+version: 2023-07-01
+valid_until: 2024-04-11
+version_adopted: 2023-05-09
 adopted: 2005-10-04
 in_force: 2006-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/417.16"
-pdf: "https://bgs.zg.ch/api/de/versions/2278/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2432/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Sportfonds
 
-Vom 4. Oktober 2005 (Stand 27. November 2021)
+Vom 4. Oktober 2005 (Stand 1. Juli 2023)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -53,7 +53,7 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat verfügt – vorbehältlich § 15 – über den Sportfonds. Der Fonds wird geäufnet durch:
 
 - a) den Sportfonds-Anteil, soweit dieser im betreffenden Rechnungsjahr nicht ausgeschüttet wird;
-- b) den kantonalen Anteil aus dem Reingewinn oder der Gewinnausgleichsreserve der Schweizerischen Sport-Toto-Gesellschaft;
+- b) …
 - c) die Zinserträge des Sportfonds;
 - d) weitere Zuwendungen.
 
@@ -61,7 +61,7 @@ beschliesst:
 
 <sup>3</sup> Das Amt für Sport und Gesundheitsförderung verwaltet den Sportfonds.
 
-<sup>4</sup> Es veröffentlicht regelmässig auf seiner Homepage eine Zusammenstellung sämtlicher gesprochener Beiträge.
+<sup>4</sup> …
 
 #### § 4
 
