@@ -4,13 +4,12 @@ number: "141.111"
 title: Ordonnance sur les circonscriptions politiques
 short: OCP
 language: fr
-version: 2022-01-01
-valid_until: 2023-06-30
-version_adopted: 2021-10-20
+version: 2023-07-01
+version_adopted: 2023-02-01
 adopted: 2013-09-04
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/141.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2415/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2807/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2415/pdf_file"
 
 (OCP)
 
-du 04.09.2013 (état au 01.01.2022)
+du 04.09.2013 (état au 01.07.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -51,6 +50,7 @@ arrête:
 - f …
 - g Büren an der Aare et Meienried (arrondissement administratif du Seeland), chef-lieu: Büren,
 - h …
+- i Zäziwil et Oberhünigen (arrondissement administratif de Berne-Mittelland), chef-lieu: Zäziwil.
 
 #### Art. 3
 
