@@ -3,20 +3,20 @@ canton: BL
 number: "143.12"
 title: Dienstordnung der Volkswirtschafts- und Gesundheitsdirektion
 language: de
-version: 2018-07-01
-valid_until: 2023-06-30
-version_adopted: 2018-06-26
+version: 2023-07-01
+valid_until: 2024-12-31
+version_adopted: 2023-05-30
 adopted: 2018-06-26
 in_force: 2018-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/143.12"
-pdf: "https://bl.clex.ch/api/de/versions/2258/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3614/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung der Volkswirtschafts- und Gesundheitsdirektion
 
-Vom 26.06.2018 (Stand 01.07.2018)
+Vom 26.06.2018 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -228,7 +228,7 @@ beschliesst:
 <sup>1</sup> Der Ebenrain gliedert sich neben einem allfälligen Stabsdienst in folgende Abteilungen:
 
 - a. Bildung und Beratung;
-- b. Ernährung, Hauswirtschaft und Gastronomie;
+- b. Ernährung und Tagungsstätte;
 - c. Produktion, Markt und Direktzahlungen;
 - d. Ländliche Entwicklung und Ressourcen;
 - e. Natur und Landschaft.
