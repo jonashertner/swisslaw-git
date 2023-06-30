@@ -4,13 +4,13 @@ number: "142.212"
 title: Personalverordnung
 short: PGV
 language: de
-version: 2022-06-01
-valid_until: 2023-06-30
-version_adopted: 2022-04-26
+version: 2023-07-01
+valid_until: 2025-02-28
+version_adopted: 2023-06-13
 adopted: 2007-11-20
 in_force: 2008-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/142.212"
-pdf: "https://ar.clex.ch/api/de/versions/1420/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1469/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1420/pdf_file"
 
 (PGV)
 
-vom 20.11.2007 (Stand 01.06.2022)
+vom 20.11.2007 (Stand 01.07.2023)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -254,15 +254,17 @@ beschliesst:
 
 **Mutterschaftsurlaub**
 
-<sup>1</sup> Der Mutterschaftsurlaub ist zusammenhängend zu beziehen, davon mindestens zwölf Wochen nach der Geburt. Er ist mindestens drei Monate vor dem voraussichtlichen Geburtstermin der vorgesetzten Stelle mitzuteilen.
+<sup>1</sup> Der Mutterschaftsurlaub beginnt mit der Geburt des Kindes, soweit die Angestellte nicht ausdrücklich einen früheren Beginn wünscht. Der voraussichtliche Geburtstermin ist der vorgesetzten Stelle mindestens 3 Monate im Voraus zu melden.
+
+<sup>1<sup>bis</sup></sup> Ist eine Verlängerung des Mutterschaftsurlaubs absehbar, weil das Kind mindestens 14 Kalendertage im Spital verbracht hat, ist umgehend die vorgesetzte Stelle zu informieren. Für die Dauer der Verlängerung ist spätestens bei Ablauf des verlängerten Mutterschaftsurlaubs ein ärztliches Zeugnis beizubringen.
 
 <sup>2</sup> Nach Ablauf des Mutterschaftsurlaubs hat die Mutter Anspruch auf unbezahlten Urlaub von maximal drei Monaten. Dieser ist 3 Monate im Voraus der vorgesetzten Stelle mitzuteilen.
 
 #### Art. 19a
 
-**Vaterschaftsurlaub**
+**Elternschafts- und Adoptionsurlaub**
 
-<sup>1</sup> Der Vaterschaftsurlaub kann nach der Geburt in Absprache mit der vorgesetzten Stelle gesamthaft oder tageweise bezogen werden. Mehrlingsgeburten geben keinen Anspruch auf verlängerten Vaterschaftsurlaub.
+<sup>1</sup> Der Elternschafts- und Adoptionsurlaub kann nach der Geburt beziehungsweise nach der Aufnahme des Kindes in Absprache mit der vorgesetzten Stelle gesamthaft oder tageweise bezogen werden. Bei Mehrlingsgeburten oder ‑adoptionen ergibt sich kein längerer Urlaubsanspruch.
 
 #### Art. 19b
 
@@ -339,7 +341,7 @@ Diese kann wie folgt bezogen werden:
 
 <sup>1</sup> Bei Beendigung des Arbeitsverhältnisses oder Wechsel der oder des Vorgesetzten erstellt die Anstellungsbehörde nach Rücksprache mit der oder dem Angestellten ein Arbeitszeugnis oder eine Arbeitsbestätigung.
 
-<sup>2</sup> Das Arbeitszeugnis oder die Arbeitsbestätigung ist von der Anstellungsbehörde und dem Personalamt zu unterzeichnen. Das Personalamt stellt die formellen Kriterien und die inhaltlichen Eckwerte zur Verfügung.
+<sup>2</sup> Das Arbeitszeugnis oder die Arbeitsbestätigung ist von der Anstellungsbehörde zu unterzeichnen. Das Personalamt stellt die formellen Kriterien und die inhaltlichen Eckwerte zur Verfügung.
 
 #### Art. 26
 
