@@ -3,11 +3,11 @@ canton: ZH
 number: "181.21"
 title: Geschäftsordnung der Evangelisch-reformierten Kirchensynode des Kantons Zürich
 language: de
-version: "2021-06-01"
-nachtrag: "113"
-valid_until: 2023-07-01
+version: "2023-07-01"
+nachtrag: "121"
+valid_until: 2025-10-01
 adopted: 2011-03-15
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_21-2011_03_15-2011_09_01-113.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_21-2011_03_15-2011_09_01-121.html"
 text: pdf
 ---
 
@@ -60,7 +60,7 @@ Die Alterspräsidentin oder der Alterspräsident bezeichnet vor der konstituiere
 
 **1**
 
-- 1\. 7. 21 - 113 § 5. <sup>1</sup> Im Anschluss an die Erwahrung der Gesamterneuerungswahl leisten die Mitglieder der Kirchensynode unter der Leitung der Alterspräsidentin oder des Alterspräsidenten das Amtsgelübde mit den Worten:
+- 1\. 7. 23 - 121 § 5. <sup>1</sup> Im Anschluss an die Erwahrung der Gesamterneuerungswahl leisten die Mitglieder der Kirchensynode unter der Leitung der Alterspräsidentin oder des Alterspräsidenten das Amtsgelübde mit den Worten:
 
 **e. Amtsgelübde**
 
@@ -74,11 +74,16 @@ Die Alterspräsidentin oder der Alterspräsident bezeichnet vor der konstituiere
 
 Nach der Leistung des Amtsgelübdes wählt die Kirchensynode ihre Präsidentin oder ihren Präsidenten. Diese oder dieser übernimmt sofort nach der Annahme der Wahl die Leitung der Versammlung.
 
-#### § 7
-
 **g. Übrige Wahlen**
 
-Hierauf vollzieht die Kirchensynode die übrigen Wahlen gemäss § 113.
+§ 7.[^6-1] Hierauf vollzieht die Kirchensynode die Wahlen gemäss § 113 Abs. 1 lit. b–d und f–i.
+
+**Wahl des Kirchenrates**
+
+§ 7 a.[^6-2] Die Wahl der Präsidentin oder des Präsidenten und der weiteren Mitglieder des Kirchenrates findet in der ersten Versammlung der Kirchensynode statt, die auf die konstituierende Versammlung folgt.
+
+[^6-1]: Fassung gemäss B vom 28. März 2023 (OS 78, 207; ABl 2023-03-31). In Kraft seit 1. Juli 2023. 1. 7. 23 - 121 29
+[^6-2]: Eingefügt durch B vom 28. März 2023 (OS 78, 207; ABl 2023-03-31). In Kraft seit 1. Juli 2023.
 
 #### § 8
 
@@ -157,7 +162,7 @@ Mitglieder, die während der Amtsdauer in die Kirchensynode eintreten, können e
 
 **3**
 
-- 1\. 7. 21 - 113 § 14.[^13-1] <sup>1</sup> Die Mitglieder der Kirchensynode sind verpflichtet, an allen Versammlungen von der Eröffnung bis zum Schluss teilzunehmen.
+- 1\. 7. 23 - 121 § 14.[^13-1] <sup>1</sup> Die Mitglieder der Kirchensynode sind verpflichtet, an allen Versammlungen von der Eröffnung bis zum Schluss teilzunehmen.
 
 **Teilnahmepflicht, Entschuldigungen**
 
@@ -236,7 +241,7 @@ Die Präsidentin oder der Präsident der Kirchensynode entscheidet über das Auf
 
 **5**
 
-- 1\. 7. 21 - 113
+- 1\. 7. 23 - 121
 
 <sup>3</sup> Ton- und Bildaufnahmen im Versammlungssaal bedürfen einer Bewilligung der Präsidentin oder des Präsidenten der Kirchensynode.
 
@@ -323,7 +328,7 @@ Das Büro regelt den Weibeldienst.
 
 **7**
 
-- 1\. 7. 21 - 113 § 30. Das Protokoll enthält in zweckmässiger Reihenfolge:
+- 1\. 7. 23 - 121 § 30. Das Protokoll enthält in zweckmässiger Reihenfolge:
 
 **Versammlungsprotokoll14 a. Inhalt**
 
@@ -433,7 +438,7 @@ Die Fraktionen erhalten für jedes ihrer Mitglieder einen jährlichen Beitrag. D
 
 **9**
 
-- 1\. 7. 21 - 113
+- 1\. 7. 23 - 121
 
 [^36-1]: LS 181.25.
 
@@ -526,7 +531,7 @@ Die Kirchensynode nimmt über die ihr gemäss Art. 214–216 KO und weiterer Bes
 
 **11**
 
-- 1\. 7. 21 - 113
+- 1\. 7. 23 - 121
 
 <sup>3</sup> Missachtet ein Mitglied die Mahnungen der Präsidentin oder des Präsidenten, zur Sache zu sprechen, oder lässt es sich wiederholt eine Verletzung des parlamentarischen Anstands zuschulden kommen, so entzieht ihm die Präsidentin oder der Präsident das Wort.
 
@@ -618,7 +623,7 @@ Sprecherinnen und Sprecher von Kommissionen und des Kirchenrates haben am Schlus
 
 **13**
 
-- 1\. 7. 21 - 113
+- 1\. 7. 23 - 121
 
 <sup>3</sup> Motionen und Postulate sind spätestens 20 Tage vor der Versammlung einzureichen, in der gemäss § 62 ihre Überweisung behandelt werden soll. Werden sie mindestens sieben Tage vor einer Versammlung eingereicht, so können sie in dieser vorgebracht werden, wenn sich die Mehrheit der Mitglieder der Kirchensynode dafür ausspricht.[^54-1]
 
@@ -706,7 +711,7 @@ Mit einer Interpellation, einer Schriftlichen Anfrage und in der Fragestunde kan
 
 **15**
 
-- 1\. 7. 21 - 113 § 67. <sup>1</sup> Eine Interpellation muss im Zeitpunkt ihrer Einreichung von mindestens zehn Mitgliedern der Kirchensynode unterzeichnet sein.
+- 1\. 7. 23 - 121 § 67. <sup>1</sup> Eine Interpellation muss im Zeitpunkt ihrer Einreichung von mindestens zehn Mitgliedern der Kirchensynode unterzeichnet sein.
 
 **Interpellationen, Schriftliche Anfragen und Fragestunde b. Interpellationen**
 
@@ -779,7 +784,7 @@ Mit einer Interpellation, einer Schriftlichen Anfrage und in der Fragestunde kan
 
 **17**
 
-- 1\. 7. 21 - 113
+- 1\. 7. 23 - 121
 
 <sup>4</sup> Die Präsidentin oder der Präsident der Kirchensynode gibt dieser von erledigten Petitionen Kenntnis. Die Mitglieder der Kirchensynode können das Anliegen einer durch das Büro erledigten Petition durch einen parlamentarischen Vorstoss aufgreifen. Legt das Büro Antrag und Bericht vor, so entscheidet die Kirchensynode über die weiteren Folgen der Petition.
 
@@ -872,7 +877,7 @@ Ein Mitglied der Kirchensynode kann nicht gleichzeitig dem Büro und einer stän
 
 **19**
 
-- 1\. 7. 21 - 113 § 82. <sup>1</sup> Der Kirchenrat stellt Jahresberichte, Jahresrechnung, Budget sowie weitere Anträge und Berichte dem Büro und den zuständigen Kommissionen mindestens zwei Monate vor der Versammlung der Kirchensynode, in der sie behandelt werden sollen, elektronisch zur Einsichtnahme bereit.[^81-1]
+- 1\. 7. 23 - 121 § 82. <sup>1</sup> Der Kirchenrat stellt Jahresberichte, Jahresrechnung, Budget sowie weitere Anträge und Berichte dem Büro und den zuständigen Kommissionen mindestens zwei Monate vor der Versammlung der Kirchensynode, in der sie behandelt werden sollen, elektronisch zur Einsichtnahme bereit.[^81-1]
 
 **Verfahren a. Bereitstellung von Unterlagen**
 
@@ -951,7 +956,7 @@ Auf die Sitzungen der Kommissionen finden §§ 18, 46–51, 99–106 und 111 sin
 
 **21**
 
-- 1\. 7. 21 - 113 § 92. <sup>1</sup> Die Kommissionen führen über ihre Verhandlungen ein Protokoll, welches das Wesentliche der Verhandlungen und die gefassten Beschlüsse festhält.
+- 1\. 7. 23 - 121 § 92. <sup>1</sup> Die Kommissionen führen über ihre Verhandlungen ein Protokoll, welches das Wesentliche der Verhandlungen und die gefassten Beschlüsse festhält.
 
 **e. Protokolle**
 
@@ -1057,7 +1062,7 @@ Die Präsidentin oder der Präsident der Kirchensynode legt die Fragestellung de
 
 **23**
 
-- 1\. 7. 21 - 113 § 103. <sup>1</sup> Steht einem Antrag kein Gegenantrag gegenüber, so erklärt die Präsidentin oder Präsident der Kirchensynode diesen ohne Abstimmung zum Beschluss der Kirchensynode.
+- 1\. 7. 23 - 121 § 103. <sup>1</sup> Steht einem Antrag kein Gegenantrag gegenüber, so erklärt die Präsidentin oder Präsident der Kirchensynode diesen ohne Abstimmung zum Beschluss der Kirchensynode.
 
 **Beschlussfassung ohne Abstimmung**
 
@@ -1159,7 +1164,7 @@ Eine Abstimmung unter Namensaufruf muss vorgenommen werden, wenn 20 Mitglieder d
 
 **25**
 
-- 1\. 7. 21 - 113
+- 1\. 7. 23 - 121
 
 - d. vier Stimmenzählerinnen oder Stimmenzähler und zwei Ersatzleute,
 
@@ -1249,7 +1254,7 @@ Eine Abstimmung unter Namensaufruf muss vorgenommen werden, wenn 20 Mitglieder d
 
 **27**
 
-- 1\. 7. 21 - 113
+- 1\. 7. 23 - 121
 
 <sup>4</sup> Übersteigt die Zahl der eingegangenen Wahlzettel jene der anwesenden Mitglieder oder der ausgeteilten Wahlzettel, so ist der Wahlgang nichtig und wird wiederholt.
 
@@ -1263,7 +1268,7 @@ Eine Abstimmung unter Namensaufruf muss vorgenommen werden, wenn 20 Mitglieder d
 
 <sup>1</sup> Die Kirchensynode entscheidet über Änderungen der Geschäftsordnung aufgrund eines schriftlichen Antrags des Büros.
 
-<sup>2</sup> Entsprechende Anträge von Mitgliedern der Kirchensynode sind als Motion der Präsidentin oder dem Präsidenten der Kirchensynode zuhanden des Büros einzureichen. Für die Behandlung solcher Motionen binnen eines Jahres gilt § 58 sinngemäss.
+<sup>2</sup> Entsprechende Anträge von Mitgliedern der Kirchensynode sind als Motion der Präsidentin oder dem Präsidenten der Kirchensynode zuhanden des Büros einzureichen. Für die Behandlung solche Motionen binnen eines Jahres gilt § 58 sinngemäss.
 
 #### § 120
 
