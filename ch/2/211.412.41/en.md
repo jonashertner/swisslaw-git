@@ -4,11 +4,11 @@ title: Federal Act of 16 December 1983 on the Acquisition of Immovable Property 
 short: ANRA
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148"
 language: en
-version: 2021-03-01
+version: 2023-07-01
 adopted: 1983-12-16
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148/20210301/en/xml/fedlex-data-admin-ch-eli-cc-1984-1148_1148_1148-20210301-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20210301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1984-1148_1148_1148-20230701-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (ANRA)
 
-of 16 December 1983 (Status as of 1 March 2021)
+of 16 December 1983 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Articles 54 paragraph 1, 122 paragraph 1 and 123 paragraph 1of the Fede
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Amended by Annex No 1 of the FD of 25 Sept. 2020 on the Adoption and Implementation of the Agreement between Switzerland and the UK on Citizens' Rights following the Withdrawal of the UK from the EU and the Free Movement of Persons Agreement, in force since 1 March 2021 ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)).
 [^ingress-3]: [BBl 1981 III 585](https://fedlex.data.admin.ch/eli/fga/1981/3_585_553_521)
 
@@ -50,7 +50,6 @@ This Act limits the acquisition of immovable property by foreign non-residents, 
 No authorisation is required for acquisition if:
 
 - a. the immovable property serves as the permanent establishment for a trading, manufacturing or other form of commercial operation, for a skilled crafts business or for the practice of a liberal profession;
-
 - b. the immovable property serves the acquirer as a natural person as his or her main home at his or her lawful and effective place of residence; or
 - c. an exception under Article 7 applies.[^2-1]
 
@@ -119,7 +118,7 @@ Acquisition of immovable property means:
 <sup>2</sup> ...[^5-5]
 
 [^5-1]: Amended by Annex No 1 of the FD of 25 Sept. 2020 on the Adoption and Implementation of the Agreement between Switzerland and the UK on Citizens' Rights following the Withdrawal of the UK from the EU and the Free Movement of Persons Agreement, in force since 1 March 2021 ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)).
-[^5-2]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^5-2]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 [^5-3]: Inserted by No I 2 of the Federal Act of 8 Oct. 1999 on the Agreement between the Swiss Confederation of the one part and the EU and its member states of the other on the free movement of persons, in force since 1 June 2002 ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^5-4]: Amended by No I 2 of the Federal Act of 8 Oct. 1999 on the Agreement between the Swiss Confederation of the one part and the EU and its member states of the other on the free movement of persons, in force since 1 June 2002 ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^5-5]: Repealed by No I of the FA of 30 April 1997, with effect from 1 Oct. 1997 ([AS 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [BBl 1997 II 1221](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
@@ -189,7 +188,7 @@ The following persons do not require authorisation:
 [^7-4]: Amended by Annex No II 3 of the Host State Act of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^7-5]: Inserted by No I of the FA of 30 April 1997, in force since 1 Oct. 1997 ([AS 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [BBl 1997 II 1221](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
 [^7-6]: Inserted by No I 2 of the Federal Act of 8 Oct. 1999 on the Agreement between the Swiss Confederation of the one part and the EU and its member states of the other on the free movement of persons, in force since 1 June 2002 ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Amended by Annex No 1 of the FD of 25 Sept. 2020 on the Adoption and Implementation of the Agreement between Switzerland and the UK on Citizens' Rights following the Withdrawal of the UK from the EU and the Free Movement of Persons Agreement, in force since 1 March 2021 ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)).
-[^7-7]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^7-7]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 
 #### Art. 7a
 
@@ -198,7 +197,7 @@ The following persons do not require authorisation:
 The acquisition of immovable property for official purposes by institutional beneficiaries enjoying privileges, immunities and facilities under Article 2 paragraph 1 of the Host State Act of 22 June 2007[^7a-2] is governed by exclusively by Chapter 3 of the Host State Act.
 
 [^7a-1]: Inserted by Annex No II 3 of the Host State Act of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
-[^7a-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^7a-2]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 ## Chapter 3 Grounds for Authorisation and Refusal
 
@@ -535,7 +534,7 @@ Both actions must be brought:
 <sup>5</sup> The protection of rights in rem acquired in good faith and the right to damages is governed by Article 975 paragraph 2 of the Swiss Civil Code.
 
 [^27-1]: Amended by Annex No 4 of the Civil Jurisdiction Act of 24 March 2000, in force since 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
-[^27-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^27-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### Section 3 Criminal Law
 
@@ -545,14 +544,14 @@ Both actions must be brought:
 
 <sup>1</sup> Any person who wilfully executes a transaction that is null and void due to lack of authorisation or who as an heir requiring authorisation for an acquisition fails to apply for the same within the deadline is liable to a custodial sentence not exceeding three years or to a monetary penalty.[^28-1]
 
-<sup>2</sup> If the offender acts for commercial gain, the penalty is a custodial sentence not exceeding three years or monetary penalty of not less than 180 daily penalty units.[^28-2]
+<sup>2</sup> If the offender acts for commercial gain, the penalty is a custodial sentence of between six months and three years.[^28-2]
 
 <sup>3</sup> If the offender acts through negligence, the penalty is a fine not exceeding 50,000 francs.
 
 <sup>4</sup> If the offender restores the original position, the court may reduce the penalty.
 
 [^28-1]: Amended by Art. 333 of the Criminal Code in the version of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
-[^28-2]: Amended by Art. 333 of the Criminal Code in the version of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^28-2]: Amended by No I 2 of the FA of 17 Dec. 2021 on the Adaptation of Secondary Criminal Law to the Amended Law on Sanctions, in force since 1 July 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 29
 
@@ -585,7 +584,7 @@ Both actions must be brought:
 Any person who refuses to comply with an obligation to provide information or produce documents imposed on him or her by the competent authority under threat of penalties under this Article is liable to a fine not exceeding 50,000 francs.[^31-1] No offence is committed if the person concerned is bound by professional secrecy under Article 321 of the Criminal Code[^31-2].
 
 [^31-1]: Amended by Art. 333 of the Criminal Code in the version of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
-[^31-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799).Now: under art. 321 and 321<sup>bis</sup>.
+[^31-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196).Now: under art. 321 and 321<sup>bis</sup>.
 
 #### Art. 32
 
@@ -617,7 +616,7 @@ Any prosecution must be brought:
 
 Offences in the course of commercial operations are governed by analogy by Articles 6 and 7 of the Federal Act of 22 March 1974[^34-1] on Administrative Criminal Law.
 
-[^34-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^34-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 35
 

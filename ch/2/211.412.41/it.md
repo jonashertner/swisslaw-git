@@ -4,11 +4,11 @@ title: "Legge federale del 16 dicembre 1983 sull'acquisto di fondi da parte di p
 short: LAFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148"
 language: it
-version: 2021-03-01
+version: 2023-07-01
 adopted: 1983-12-16
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148/20210301/it/xml/fedlex-data-admin-ch-eli-cc-1984-1148_1148_1148-20210301-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1984-1148_1148_1148-20230701-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20210301/it"
 
 (LAFE)
 
-del 16 dicembre 1983 (Stato 1° marzo 2021)
+del 16 dicembre 1983 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 54 capoverso 1, 122 capoverso 1 e 123 capoverso 1 della Costituzione federale (Cost.)[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 16 settembre 1981[^ingress-3],
+visti gli articoli 54 capoverso 1, 122 capoverso 1 e 123 capoverso 1 della Costituzione federale[^ingress-1],[^ingress-2] visto il messaggio del Consiglio federale del 16 settembre 1981[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta l’all. n. 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero l’Accordo tra la Svizzera e il Regno Unito sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione europea e dall’Accordo sulla libera circolazione delle persone, in vigore dal 1° mar. 2021 ([RU 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 915](https://fedlex.data.admin.ch/eli/fga/2020/226)).
 [^ingress-3]: [FF 1981 III 521](https://fedlex.data.admin.ch/eli/fga/1981/3_585_553_521)
 
@@ -115,8 +115,8 @@ Sono considerate persone all’estero:
 
 <sup>2</sup> ...[^5-5]
 
-[^5-1]: Nuovo testo giusta l’all. n. 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero l’Accordo tra la Svizzera e il Regno Unito sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione europea e dall’Accordo sulla libera circolazione delle persone, in vigore dal 1° mar. 2021 (RU **2****021** 85; [FF 2020 915](https://fedlex.data.admin.ch/eli/fga/2020/226)).
-[^5-2]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^5-1]: Nuovo testo giusta l’all. n. 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero l’Accordo tra la Svizzera e il Regno Unito sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione europea e dall’Accordo sulla libera circolazione delle persone, in vigore dal 1° mar. 2021 ([RU 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 915](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^5-2]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 [^5-3]: Introdotta dal n. I 2 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone, in vigore dal 1° giu. 2002 ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^5-4]: Nuovo testo giusta il n. I 2 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone, in vigore dal 1° giu. 2002 ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^5-5]: Abrogato dal n. I della LF del 30 apr. 1997, con effetto dal 1° ott. 1997 ([RU 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1022](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
@@ -154,7 +154,7 @@ La posizione preponderante di persone all’estero in una SICAV immobiliare è p
 - b. costituiscono la maggioranza del consiglio di amministrazione;
 - c. mettono a disposizione mezzi finanziari rimborsabili che superano la metà della differenza tra gli attivi del capitale azionario degli investitori della SICAV immobiliare e i suoi debiti nei confronti di persone non sottostanti all’obbligo di autorizzazione.[^6-3]
 
-[^6-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004, in vigore dal 1° apr. 2005 ([RU 2005 1337](https://fedlex.data.admin.ch/eli/oc/2005/204); FF **200****3** 3753).
+[^6-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004, in vigore dal 1° apr. 2005 ([RU 2005 1337](https://fedlex.data.admin.ch/eli/oc/2005/204); [FF 2003 3753](https://fedlex.data.admin.ch/eli/fga/2003/674)).
 [^6-2]: Introdotto dall’all. n. 1 della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^6-3]: Introdotto dall’all. n. 1 della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
@@ -186,7 +186,7 @@ Non sottostanno all’obbligo dell’autorizzazione:
 [^7-4]: Nuovo testo giusta l’all. n. II 3 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^7-5]: Introdotta dal n. I della LF del 30 apr. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1022](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
 [^7-6]: Introdotta dal n. I 2 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone, in vigore dal 1° giu. 2002 ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nuovo testo giusta l’all. n. 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero l’Accordo tra la Svizzera e il Regno Unito sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione europea e dall’Accordo sulla libera circolazione delle persone, in vigore dal 1° mar. 2021 ([RU 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 915](https://fedlex.data.admin.ch/eli/fga/2020/226)).
-[^7-7]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^7-7]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 
 #### Art. 7a
 
@@ -195,7 +195,7 @@ Non sottostanno all’obbligo dell’autorizzazione:
 L’acquisto di un fondo effettuato per scopi ufficiali da beneficiari istituzionali di privilegi, immunità e facilitazioni di cui all’articolo 2 capoverso 1 della legge del 22 giugno 2007[^7a-2] sullo Stato ospite è disciplinato esclusivamente dal capitolo 3 della legge sullo Stato ospite.
 
 [^7a-1]: Introdotto l’all. n. II 3 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
-[^7a-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^7a-2]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 ## Capitolo 3: Motivi per la concessione e il diniego dell’autorizzazione
 
@@ -356,7 +356,7 @@ Il Consiglio federale, sentito il governo cantonale interessato, accerta se:
 
 <sup>4</sup> Negli altri casi la competenza spetta al Dipartimento federale di giustizia e polizia e, nella misura in cui la presente legge lo preveda, all’Ufficio federale di giustizia.
 
-[^16-1]: Abrogato dall’all. n. II 3 della LF del 22 giu. 2007 sullo Stato ospite, con effetto dal 1° gen. 2008 (RU **20****07** 6637; [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^16-1]: Abrogato dall’all. n. II 3 della LF del 22 giu. 2007 sullo Stato ospite, con effetto dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^16-2]: Abrogato dal n. I della LF del 30 apr. 1997, con effetto dal 1° ott. 1997 ([RU 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1022](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
 
 #### Art. 17
@@ -533,7 +533,7 @@ Le due azioni devono essere promosse:
 <sup>5</sup> L’articolo 975 capoverso 2 del Codice civile svizzero è applicabile alla protezione dei diritti reali acquisiti in buona fede e all’obbligo di risarcimento.
 
 [^27-1]: Nuovo testo giusta l’all. n. 4 della L del 24 mar. 2000 sul foro, in vigore dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
-[^27-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^27-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### Sezione 3: Diritto penale
 
@@ -543,14 +543,14 @@ Le due azioni devono essere promosse:
 
 <sup>1</sup> Chiunque, intenzionalmente, esegue un negozio giuridico nullo per mancanza d’autorizzazione oppure, come erede sottostante all’obbligo dell’autorizzazione, non la chiede entro il termine prescritto è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.[^28-1]
 
-<sup>2</sup> Se l’autore ha agito per mestiere, la pena è una pena detentiva sino a tre anni o una pena pecuniaria non inferiore a 180 aliquote giornaliere.[^28-2]
+<sup>2</sup> Se l’autore ha agito per mestiere, la pena è una pena detentiva da sei mesi a tre anni.[^28-2]
 
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è della multa sino a 50 000 franchi.
 
 <sup>4</sup> Il giudice può attenuare la pena se l’autore ha ripristinato lo stato anteriore.
 
 [^28-1]: Nuovo testo giusta l’art. 333 del Codice penale, nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
-[^28-2]: Nuovo testo giusta l’art. 333 del Codice penale, nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+[^28-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 29
 
@@ -583,7 +583,7 @@ Le due azioni devono essere promosse:
 Chiunque si rifiuta di adempiere l’obbligo d’informazione o d’edizione impostogli dall’autorità competente con la comminatoria delle pene previste nel presente articolo, è punito con una multa sino a 50 000 franchi.[^31-1] È esente da pena se può invocare un segreto professionale di cui all’articolo 321 del Codice penale svizzero[^31-2].
 
 [^31-1]: Nuovo testo giusta l’art. 333 del Codice penale, nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
-[^31-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Vedi anche l’art. 321<sup>bis</sup>.
+[^31-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196). Vedi anche l’art. 321<sup>bis</sup>.
 
 #### Art. 32
 
@@ -607,7 +607,7 @@ L’azione penale si prescrive:
 
 <sup>2</sup> I doni e altri profitti sono devoluti allo Stato giusta gli articoli 70 a 72 del Codice penale[^33-1].[^33-2]
 
-[^33-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^33-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^33-2]: Nuovo testo giusta l’art. 334 del Codice penale, nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
 
 #### Art. 34
@@ -616,7 +616,7 @@ L’azione penale si prescrive:
 
 Alle infrazioni commesse nella gestione dell’azienda sono applicabili per analogia gli articoli 6 e 7 della legge federale del 22 marzo 1974[^34-1] sul diritto penale amministrativo.
 
-[^34-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^34-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 35
 
@@ -681,7 +681,7 @@ Per il primo biennio, il Consiglio federale stabilisce il numero massimo, previs
 
 [^40-1]: L’iniziativa è stata respinta il 20 mag. 1984 ([FF 1984 II 922](https://fedlex.data.admin.ch/eli/fga/1984/2_991_1019_922)).
 
-## Disposizioni finali della modifica del 30 aprile 1997****
+## Disposizioni finali della modifica del 30 aprile 1997
 
 [^u1-1]
 
@@ -693,7 +693,7 @@ Per il primo biennio, il Consiglio federale stabilisce il numero massimo, previs
 
 <sup>3</sup> Qualora non possa accertare senz’altro se un onere è decaduto per legge, l’ufficiale del registro fondiario indirizza i notificanti all’autorità di prima istanza; l’articolo 18 capoverso 1 è applicabile per analogia.
 
-## Disposizioni finali della modifica dell’8 ottobre 1999****
+## Disposizioni finali della modifica dell’8 ottobre 1999
 
 [^u2-1]
 
@@ -703,7 +703,7 @@ Le disposizioni finali della modifica del 30 aprile 1997[^u2-2] sono applicabili
 
 [^u2-2]: [RU 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086)
 
-## Disposizioni finali della modifica del 14 dicembre 2001 ****
+## Disposizioni finali della modifica del 14 dicembre 2001
 
 [^u3-1]
 
@@ -711,7 +711,7 @@ Le disposizioni finali della modifica del 30 aprile 1997[^u2-2] sono applicabili
 
 La presente modifica è applicabile ai negozi giuridici conclusi prima della sua entrata in vigore, ma che non sono ancora stati eseguiti o non sono ancora stati oggetto di una decisione passata in giudicato.
 
-## Disposizione finale della modifica del 25 settembre 2020****
+## Disposizione finale della modifica del 25 settembre 2020
 
 [^u4-1]
 

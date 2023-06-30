@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 1983 sur l'acquisition d'immeubles par de
 short: LFAIE
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148"
 language: fr
-version: 2021-03-01
+version: 2023-07-01
 adopted: 1983-12-16
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1148_1148_1148-20210301-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1148_1148_1148-20230701-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,19 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20210301/fr"
 
 (LFAIE)
 
-du 16 décembre 1983 (Etat le 1<sup>er</sup> mars 2021)
+du 16 décembre 1983 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu la compétence de la Confédération en matière de politique étrangère[^ingress-1],[^ingress-2] vu les art. 54, al. 1, 122, al. 1, et 123, al. 1, de la Constitution[^ingress-3],[^ingress-4] vu le message du Conseil fédéral du 16 septembre 1981[^ingress-5],
+vu les art. 54, al. 1, 122, al. 1, et 123, al. 1, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 16 septembre 1981[^ingress-3],
 
 arrête:
 
-[^ingress-1]: Cette compétence correspond à l’art. 54, al. 1 de la Cst. du 18 avril 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
-[^ingress-3]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-4]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’Ac. entre la Suisse et le Royaume-Uni relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’UE et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 989](https://fedlex.data.admin.ch/eli/fga/2020/226)).
-[^ingress-5]: [FF 1981 III 553](https://fedlex.data.admin.ch/eli/fga/1981/3_585_553_521)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’Ac. entre la Suisse et le Royaume-Uni relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’UE et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 989](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^ingress-3]: [FF 1981 III 553](https://fedlex.data.admin.ch/eli/fga/1981/3_585_553_521)
 
 ## Chapitre 1 But et principes
 
@@ -118,7 +116,7 @@ Par personnes à l’étranger on entend:
 <sup>2</sup> …[^5-6]
 
 [^5-1]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’Ac. entre la Suisse et le Royaume-Uni relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’UE et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 989](https://fedlex.data.admin.ch/eli/fga/2020/226)). Voir aussi la disp. fin. de cette mod. à la fin du texte.
-[^5-2]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059); [FF 2020 1041](https://fedlex.data.admin.ch/eli/fga/2020/228)
+[^5-2]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 [^5-3]: Introduite par le ch. I 2 de la LF du 8 oct. 1999 sur l’Ac. entre d’une part, la Suisse et, d’autre part, la CE et ses États membres sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^5-4]: Nouvelle teneur selon le ch. I 2 de la LF du 8 oct. 1999 sur l’Ac. entre d’une part, la Suisse et, d’autre part, la CE et ses États membres sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^5-5]: Rectifié par la Commission de rédaction de l’Ass. féd. [art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)].
@@ -189,7 +187,7 @@ Ne sont pas assujettis au régime de l’autorisation:
 [^7-4]: Nouvelle teneur selon le ch. II 3 de la LF du 22 juin 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^7-5]: Introduite par le ch. I de la LF du 30 avril 1997, en vigueur depuis le 1<sup>er</sup> oct. 1997 ([RO 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1115](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
 [^7-6]: Introduite par le ch. I 2 de la LF du 8 oct. 1999 sur l’Ac. entre d’une part, la Suisse et, d’autre part, la CE et ses États membres sur la libre circulation des personnes ([RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nouvelle teneur selon l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’Ac. entre la Suisse et le Royaume-Uni relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’UE et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 989](https://fedlex.data.admin.ch/eli/fga/2020/226)).
-[^7-7]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059); [FF 2020 1041](https://fedlex.data.admin.ch/eli/fga/2020/228)
+[^7-7]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 
 #### Art. 7a
 
@@ -198,7 +196,7 @@ Ne sont pas assujettis au régime de l’autorisation:
 L’acquisition d’un immeuble effectuée à des fins officielles par des bénéficiaires institutionnels de privilèges, d’immunités et de facilités visés à l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’État hôte[^7a-2] est régie exclusivement par le chapitre 3 de la loi précitée.
 
 [^7a-1]: Introduit par le ch. II 3 de la LF du 22 juin 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
-[^7a-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^7a-2]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 ## Chapitre 3 Motifs d’autorisation et de refus
 
@@ -535,7 +533,7 @@ Les deux actions doivent être intentées:
 <sup>5</sup> L’art. 975, al. 2, du code civil est applicable en matière de protection des droits réels acquis de bonne foi et de dommages-intérêts.
 
 [^27-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
-[^27-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^27-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### Section 3 Droit pénal
 
@@ -545,14 +543,14 @@ Les deux actions doivent être intentées:
 
 <sup>1</sup> Quiconque, intentionnellement, met à exécution un acte juridique nul en raison du défaut d’autorisation ou, en sa qualité d’héritier tenu de requérir une autorisation, ne demande pas celle-ci dans le délai prescrit, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^28-1]
 
-<sup>2</sup> Si l’auteur agit par métier, la peine est une peine privative de liberté de trois ans au plus ou une peine pécuniaire de 180 jours-amende au moins.[^28-2]
+<sup>2</sup> L’auteur qui agit par métier est puni d’une peine privative de liberté de six mois à trois ans.[^28-2]
 
 <sup>3</sup> Si l’auteur a agi par négligence, la peine sera l’amende jusqu’à 50 000 francs.
 
 <sup>4</sup> Si l’auteur rétablit l’état antérieur, le juge pourra atténuer la peine.
 
 [^28-1]: Nouvelle teneur selon l’art. 333 du code pénal, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^28-2]: Nouvelle teneur selon l’art. 333 du code pénal, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^28-2]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 29
 
@@ -585,7 +583,7 @@ Les deux actions doivent être intentées:
 Quiconque ne donne pas suite à l’injonction de fournir des renseignements ou de produire des documents à lui notifiée par l’autorité compétente sous la menace des peines prévues par le présent article, est puni de l’amende jusqu’à 50 000 francs. Il n’encourt aucune peine, s’il peut se prévaloir du secret professionnel au sens de l’art. 321 du code pénal[^31-2].
 
 [^31-1]: Nouvelle teneur selon l’art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^31-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^31-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 32
 
@@ -609,7 +607,7 @@ L’action pénale se prescrit:
 
 <sup>2</sup> Les dons et autres avantages sont dévolus conformément aux art. 70 à 72 du code pénal[^33-1].[^33-2]
 
-[^33-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^33-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^33-2]: Nouvelle teneur selon l’art. 334 du code pénal, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)); FF **1999** 1787
 
 #### Art. 34
@@ -618,7 +616,7 @@ L’action pénale se prescrit:
 
 Les dispositions des art. 6 et 7 de la loi fédérale 22 mars 1974 sur le droit pénal administratif[^34-1] s’appliquent par analogie aux infractions commises dans la gestion d’une entreprise.
 
-[^34-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^34-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 35
 
@@ -630,7 +628,7 @@ Les dispositions des art. 6 et 7 de la loi fédérale 22 mars 1974 sur le droit 
 
 <sup>3</sup> …[^35-1]
 
-[^35-1]: Abrogé par le ch. II 6 de l'annexe 1 au code de procédure pénale du 5 oct. 2007, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^35-1]: Abrogé par le ch. II 6 de l’annexe 1 au code de procédure pénale du 5 oct. 2007, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ## Chapitre 6 Dispositions finales
 
@@ -681,7 +679,7 @@ Pour la première période de deux ans, le Conseil fédéral fixe le nombre maxi
 
 [^40-1]: L’initiative a été rejetée le 20 mai 1984 ([FF 1984 II 1019](https://fedlex.data.admin.ch/eli/fga/1984/2_991_1019_922)).
 
-### Dispositions finales de la modification du 30 avril 1997****
+### Dispositions finales de la modification du 30 avril 1997
 
 [^chap6-lvlu6-1]
 
@@ -693,7 +691,7 @@ Pour la première période de deux ans, le Conseil fédéral fixe le nombre maxi
 
 <sup>3</sup> Lorsque le conservateur du registre foncier ne peut d’emblée déterminer si une charge est ou non caduque de par la loi, il renvoie le requérant devant l’autorité de première instance; l’art. 18, al. 1, est applicable par analogie.
 
-### Dispositions finales de la modification du 8 octobre 1999****
+### Dispositions finales de la modification du 8 octobre 1999
 
 [^chap6-lvlu7-1]
 
@@ -703,7 +701,7 @@ Les dispositions finales de la modification du 30 avril 1997[^chap6-lvlu7-2] son
 
 [^chap6-lvlu7-2]: [RO 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086)
 
-### Dispositions finales de la modification du 14 décembre 2001****
+### Dispositions finales de la modification du 14 décembre 2001
 
 [^chap6-lvlu8-1]
 
@@ -711,7 +709,7 @@ Les dispositions finales de la modification du 30 avril 1997[^chap6-lvlu7-2] son
 
 La présente modification s’applique aussi aux actes juridiques qui ont été conclus avant son entrée en vigueur, mais qui n’ont pas encore été exécutés ou n’ont pas encore fait l’objet d’une décision entrée en force.
 
-## Disposition finale relative à la modification du 25 septembre 2020****
+## Disposition finale relative à la modification du 25 septembre 2020
 
 [^u1-1]
 

@@ -4,11 +4,11 @@ title: Bundesgesetz vom 16. Dezember 1983 über den Erwerb von Grundstücken dur
 short: BewG
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148"
 language: de
-version: 2021-03-01
+version: 2023-07-01
 adopted: 1983-12-16
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148/20210301/de/xml/fedlex-data-admin-ch-eli-cc-1984-1148_1148_1148-20210301-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1984-1148_1148_1148-20230701-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20210301/de"
 
 (BewG)
 
-vom 16. Dezember 1983 (Stand am 1. März 2021)
+vom 16. Dezember 1983 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 54 Absatz 1, 122 Absatz 1 und 123 Absatz 1 der Bundesv
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und dem Vereinigten Königreich über die Rechte der Bürgerinnen und Bürger infolge dessen Austritt aus der EU und des Wegfalls des Freizügigkeitsabkommens, in Kraft seit 1. März 2021 ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)).
 [^ingress-3]: [BBl 1981 III 585](https://fedlex.data.admin.ch/eli/fga/1981/3_585_553_521)
 
@@ -78,7 +78,7 @@ Als Erwerb eines Grundstückes gilt:
 - b.[^4-1] die Beteiligung an einer vermögensfähigen Gesellschaft ohne juristische Persönlichkeit, deren tatsächlicher Zweck der Erwerb von Grundstücken ist;
 - c.[^4-2] der Erwerb des Eigentums oder der Nutzniessung an einem Anteil an einem Immobilienfonds, dessen Anteilscheine auf dem Markt nicht regelmässig gehandelt werden, oder an einem ähnlichen Vermögen;
 - c<sup>bis</sup>.[^4-3] der Erwerb des Eigentums oder der Nutzniessung an einer Aktie einer Immobilien-SICAV, deren Aktien auf dem Markt nicht regelmässig gehandelt werden, oder an einem ähnlichen Vermögen;
-- d. ...[^4-4]
+- d. …[^4-4]
 - e.[^4-5] der Erwerb des Eigentums oder der Nutzniessung an einem Anteil an einer juristischen Person, deren tatsächlicher Zweck der Erwerb von Grundstücken ist, sofern die Anteile dieser juristischen Person nicht an einer Börse in der Schweiz kotiert sind;
 - f.[^4-6] die Begründung und Ausübung eines Kaufs‑, Vorkaufs- oder Rückkaufsrechts an einem Grundstück oder an einem Anteil im Sinne der Buchstaben b, c und e;
 - g. der Erwerb anderer Rechte, die dem Erwerber eine ähnliche Stellung wie dem Eigentümer eines Grundstückes verschaffen.
@@ -113,10 +113,10 @@ Als Personen im Ausland gelten:
 - c. juristische Personen oder vermögensfähige Gesellschaften ohne juristische Persönlichkeit, die ihren statutarischen und tatsächlichen Sitz in der Schweiz haben und in denen Personen im Ausland eine beherrschende Stellung innehaben;
 - d.[^5-4] natürliche und juristische Personen sowie vermögensfähige Gesellschaften ohne juristische Persönlichkeit, die nicht Personen im Ausland nach den Buchstaben a, a<sup>bis</sup> und c sind, wenn sie ein Grundstück für Rechnung von Personen im Ausland erwerben.
 
-<sup>2</sup> ...[^5-5]
+<sup>2</sup> …[^5-5]
 
 [^5-1]: Fassung gemäss Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und dem Vereinigten Königreich über die Rechte der Bürgerinnen und Bürger infolge dessen Austritt aus der EU und des Wegfalls des Freizügigkeitsabkommens, in Kraft seit 1. März 2021 ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)).
-[^5-2]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059); [BBl 2020 1085](https://fedlex.data.admin.ch/eli/fga/2020/228)
+[^5-2]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 [^5-3]: Eingefügt durch Ziff. I 2 des BG vom 8. Okt. 1999 zum Abk. zwischen der Schweizerischen Eidgenossenschaft einerseits und der EG sowie ihren Mitgliedstaaten andererseits über die Freizügigkeit, in Kraft seit 1. Juni 2002 ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^5-4]: Fassung gemäss Ziff. I 2 des BG vom 8. Okt. 1999 zum Abk. zwischen der Schweizerischen Eidgenossenschaft einerseits und der EG sowie ihren Mitgliedstaaten andererseits über die Freizügigkeit, in Kraft seit 1. Juni 2002 ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^5-5]: Aufgehoben durch Ziff. I des BG vom 30. April 1997, mit Wirkung seit 1. Okt. 1997 ([AS 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [BBl 1997 II 1221](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
@@ -186,7 +186,7 @@ Keiner Bewilligung bedürfen:
 [^7-4]: Fassung gemäss Anhang Ziff. II 3 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^7-5]: Eingefügt durch Ziff. I des BG vom 30. April 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [BBl 1997 II 1221](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
 [^7-6]: Eingefügt durch Ziff. I 2 des BG vom 8. Okt. 1999 zum Abk. zwischen der Schweizerischen Eidgenossenschaft einerseits und der EG sowie ihren Mitgliedstaaten andererseits über die Freizügigkeit ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Fassung gemäss Anhang Ziff. 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und dem Vereinigten Königreich über die Rechte der Bürgerinnen und Bürger infolge dessen Austritt aus der EU und des Wegfalls des Freizügigkeitsabkommens, in Kraft seit 1. März 2021 ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)).
-[^7-7]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059); [BBl 2020 1085](https://fedlex.data.admin.ch/eli/fga/2020/228)
+[^7-7]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 
 #### Art. 7a
 
@@ -195,7 +195,7 @@ Keiner Bewilligung bedürfen:
 Der Erwerb eines Grundstücks für dienstliche Zwecke durch institutionelle Begünstigte nach Artikel 2 Absatz 1 des Gaststaatgesetzes vom 22. Juni 2007[^7a-2], die Vorrechte, Immunitäten und Erleichterungen geniessen, untersteht ausschliesslich dem 3. Kapitel des Gaststaatgesetzes.
 
 [^7a-1]: Eingefügt durch Anhang Ziff. II 3 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
-[^7a-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^7a-2]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 ## 3. Kapitel: Bewilligungs- und Verweigerungsgründe
 
@@ -207,14 +207,14 @@ Der Erwerb eines Grundstücks für dienstliche Zwecke durch institutionelle Beg�
 
 Der Erwerb wird bewilligt, wenn das Grundstück dienen soll:
 
-- a. ...[^8-1]
+- a. …[^8-1]
 - b. als Kapitalanlage aus der Geschäftstätigkeit ausländischer und ausländisch beherrschter, in der Schweiz zum Geschäftsbetrieb zugelassener Versicherungseinrichtungen, sofern die allgemein anerkannten Anlagegrundsätze beachtet werden und der Wert aller Grundstücke des Erwerbers die von der Versicherungsaufsichtsbehörde als technisch notwendig erachteten Rückstellungen für das Schweizer Geschäft nicht übersteigt;
 - c. zur Personalvorsorge von inländischen Betriebsstätten oder zu ausschliesslich gemeinnützigen Zwecken, wenn der Erwerber für das Grundstück von der direkten Bundessteuer befreit ist;
 - d.[^8-2] zur Deckung pfandgesicherter Forderungen ausländischer und ausländisch beherrschter, in der Schweiz zum Geschäftsbetrieb zugelassener Banken und Versicherungseinrichtungen in Zwangsverwertungen und Liquidationsvergleichen.
 
 <sup>2</sup> Einem Erben, welcher der Bewilligung bedarf und keinen Bewilligungsgrund hat, wird der Erwerb mit der Auflage bewilligt, das Grundstück innert zweier Jahre wieder zu veräussern. Weist der Erbe enge, schutzwürdige Beziehungen zum Grundstück nach, so kann die Bewilligung ohne diese Auflage erteilt werden.[^8-3]
 
-<sup>3</sup> Einer natürlichen Person, die von einer anderen eine Haupt‑, Zweit- oder Ferienwohnung oder eine Wohneinheit in einem Apparthotel erwirbt und dafür mangels kantonaler Bestimmungen oder infolge einer örtlichen Bewilligungssperre keinen Bewilligungsgrund hat, wird die Bewilligung erteilt, wenn ein Härtefall für den Veräusserer vorliegt. Als Härtefall gilt eine nachträglich eingetretene, unvorhersehbare Notlage des Veräusserers, die er nur abwenden kann, indem er das Grundstück an eine Person im Ausland veräussert. ...[^8-4].
+<sup>3</sup> Einer natürlichen Person, die von einer anderen eine Haupt‑, Zweit- oder Ferienwohnung oder eine Wohneinheit in einem Apparthotel erwirbt und dafür mangels kantonaler Bestimmungen oder infolge einer örtlichen Bewilligungssperre keinen Bewilligungsgrund hat, wird die Bewilligung erteilt, wenn ein Härtefall für den Veräusserer vorliegt. Als Härtefall gilt eine nachträglich eingetretene, unvorhersehbare Notlage des Veräusserers, die er nur abwenden kann, indem er das Grundstück an eine Person im Ausland veräussert. …[^8-4].
 
 [^8-1]: Aufgehoben durch Ziff. I des BG vom 30. April 1997, mit Wirkung seit 1. Okt. 1997 ([AS 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [BBl 1997 II 1221](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
 [^8-2]: Fassung gemäss Ziff. I des BG vom 30. April 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [BBl 1997 II 1221](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
@@ -230,7 +230,7 @@ Der Erwerb wird bewilligt, wenn das Grundstück dienen soll:
 Die Kantone können durch Gesetz bestimmen, dass der Erwerb bewilligt wird, wenn das Grundstück dient:
 
 - a. dem sozialen Wohnungsbau nach kantonalem Recht und ohne Bundeshilfe in Orten, die unter Wohnungsnot leiden, oder wenn sich auf dem Grundstück solche neuerstellten Wohnbauten befinden;
-- b. ...[^9-2]
+- b. …[^9-2]
 - c. einer natürlichen Person als Zweitwohnung an einem Ort, zu dem sie aussergewöhnlich enge, schutzwürdige Beziehungen unterhält, solange diese andauern.
 
 <sup>2</sup> Die Kantone können ausserdem durch Gesetz bestimmen, dass einer natürlichen Person der Erwerb als Ferienwohnung oder als Wohneinheit in einem Apparthotel im Rahmen des kantonalen Kontingents bewilligt werden kann.
@@ -284,7 +284,7 @@ Die Bewilligung wird auf jeden Fall verweigert, wenn:
 - b. die Fläche grösser ist, als es der Verwendungszweck erfordert;
 - c. der Erwerber versucht hat, dieses Gesetz zu umgehen;
 - d.[^12-1] dem Erwerber einer Zweitwohnung im Sinne von Artikel 9 Absatz 1 Buchstabe c, einer Ferienwohnung oder einer Wohneinheit in einem Apparthotel, seinem Ehegatten, seiner eingetragenen Partnerin oder seinem eingetragenen Partner oder seinen Kindern unter 18 Jahren bereits eine solche Wohnung in der Schweiz gehört;
-- e. ...[^12-2]
+- e. …[^12-2]
 - f. der Erwerb staatspolitischen Interessen widerspricht.
 
 [^12-1]: Fassung gemäss Anhang Ziff. 10 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
@@ -349,9 +349,9 @@ Der Bundesrat stellt nach Anhören der Kantonsregierung fest, ob:
 - a. es sich um einen Erwerb handelt, für den der Erwerber aus Gründen des staatspolitischen Interesses des Bundes keiner Bewilligung bedarf;
 - b. der Erwerb staatspolitischen Interessen widerspricht; trifft dies zu, so verweigert er die Bewilligung.
 
-<sup>2</sup> ...[^16-1]
+<sup>2</sup> …[^16-1]
 
-<sup>3</sup> ...[^16-2]
+<sup>3</sup> …[^16-2]
 
 <sup>4</sup> In den übrigen Fällen sind das Eidgenössische Justiz- und Polizeidepartement und, soweit dieses Gesetz es vorsieht, das Bundesamt für Justiz zuständig.
 
@@ -362,7 +362,7 @@ Der Bundesrat stellt nach Anhören der Kantonsregierung fest, ob:
 
 **Bewilligungsverfahren**
 
-<sup>1</sup> Erwerber, deren Bewilligungspflicht sich nicht ohne weiteres ausschliessen lässt, haben spätestens nach dem Abschluss des Rechtsgeschäftes oder, mangels dessen, nach dem Erwerb um die Bewilligung oder die Feststellung nachzusuchen, dass sie keiner Bewilligung bedürfen.
+<sup>1</sup> Erwerber, deren Bewilligungspflicht sich nicht ohne Weiteres ausschliessen lässt, haben spätestens nach dem Abschluss des Rechtsgeschäftes oder, mangels dessen, nach dem Erwerb um die Bewilligung oder die Feststellung nachzusuchen, dass sie keiner Bewilligung bedürfen.
 
 <sup>2</sup> Die Bewilligungsbehörde eröffnet ihre Verfügung mit Begründung und Rechtsmittelbelehrung den Parteien, der Gemeinde, in der das Grundstück liegt, und mit den vollständigen Akten der beschwerdeberechtigten kantonalen Behörde.
 
@@ -372,13 +372,13 @@ Der Bundesrat stellt nach Anhören der Kantonsregierung fest, ob:
 
 **Grundbuch und Handelsregister**
 
-<sup>1</sup> Kann der Grundbuchverwalter die Bewilligungspflicht nicht ohne weiteres ausschliessen, so setzt er das Verfahren aus und räumt dem Erwerber eine Frist von 30 Tagen ein, um die Bewilligung oder die Feststellung einzuholen, dass er keiner Bewilligung bedarf; er weist die Anmeldung ab, wenn der Erwerber nicht fristgerecht handelt oder die Bewilligung verweigert wird.
+<sup>1</sup> Kann der Grundbuchverwalter die Bewilligungspflicht nicht ohne Weiteres ausschliessen, so setzt er das Verfahren aus und räumt dem Erwerber eine Frist von 30 Tagen ein, um die Bewilligung oder die Feststellung einzuholen, dass er keiner Bewilligung bedarf; er weist die Anmeldung ab, wenn der Erwerber nicht fristgerecht handelt oder die Bewilligung verweigert wird.
 
 <sup>2</sup> Der Handelsregisterführer verfährt wie der Grundbuchverwalter; er verweist jedoch eine juristische Person oder vermögensfähige Gesellschaft ohne juristische Persönlichkeit, die ihren Sitz von der Schweiz ins Ausland verlegt, vor der Löschung in jedem Falle an die Bewilligungsbehörde.
 
 <sup>3</sup> Die abweisende Verfügung des Grundbuchverwalters und des Handelsregisterführers unterliegt der Beschwerde an die nach diesem Gesetz zuständige kantonale Beschwerdeinstanz; diese Beschwerde tritt an die Stelle der Beschwerde an die Aufsichtsbehörde für das Grundbuch oder Handelsregister.
 
-<sup>4</sup> ...[^18-1]
+<sup>4</sup> …[^18-1]
 
 [^18-1]: Aufgehoben durch Ziff. I des BG vom 30. April 1997, mit Wirkung seit 1. Okt. 1997 ([AS 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [BBl 1997 II 1221](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
 
@@ -532,7 +532,7 @@ Beide Klagen sind anzubringen:
 <sup>5</sup> Für den Schutz gutgläubig erworbener dinglicher Rechte und die Ersatzpflicht gilt Artikel 975 Absatz 2 des Schweizerischen Zivilgesetzbuches.
 
 [^27-1]: Fassung gemäss Anhang Ziff. 4 des Gerichtsstandsgesetzes vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
-[^27-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^27-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 3. Abschnitt: Strafrecht
 
@@ -542,14 +542,14 @@ Beide Klagen sind anzubringen:
 
 <sup>1</sup> Wer vorsätzlich ein mangels Bewilligung nichtiges Rechtsgeschäft vollzieht oder als Erbe, der für den Erwerb der Bewilligung bedarf, nicht fristgerecht um diese nachsucht, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^28-1]
 
-<sup>2</sup> Handelt der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe nicht unter 180 Tagessätzen.[^28-2]
+<sup>2</sup> Handelt der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe von sechs Monaten bis zu drei Jahren.[^28-2]
 
 <sup>3</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse bis zu 50 000 Franken.
 
 <sup>4</sup> Stellt der Täter den ursprünglichen Zustand wieder her, so kann der Richter die Strafe mildern.
 
 [^28-1]: Fassung gemäss Art. 333 des Strafgesetzbuches in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
-[^28-2]: Fassung gemäss Art. 333 des Strafgesetzbuches in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^28-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 29
 
@@ -582,7 +582,7 @@ Beide Klagen sind anzubringen:
 Wer sich weigert, der Auskunfts- oder Editionspflicht nachzukommen, die ihm die zuständige Behörde unter Hinweis auf die Strafandrohung dieses Artikels auferlegt, wird mit Busse bis zu 50 000 Franken bestraft.[^31-1] Er bleibt straflos, wenn er sich auf ein Berufsgeheimnis nach Artikel 321 des Strafgesetzbuches[^31-2] berufen kann.
 
 [^31-1]: Fassung gemäss Art. 333 des Strafgesetzbuches in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
-[^31-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)**.** Heute: nach Art. 321 und 321<sup>bis</sup>.
+[^31-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)**.** Heute: nach Art. 321 und 321<sup>bis</sup>.
 
 #### Art. 32
 
@@ -614,7 +614,7 @@ Die Strafverfolgung verjährt:
 
 Für Widerhandlungen im Geschäftsbetrieb gelten die Artikel 6 und 7 des Bundesgesetzes vom 22. März 1974[^34-1] über das Verwaltungsstrafrecht sinngemäss.
 
-[^34-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^34-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 35
 
@@ -624,7 +624,7 @@ Für Widerhandlungen im Geschäftsbetrieb gelten die Artikel 6 und 7 des Bundesg
 
 <sup>2</sup> Jede Einleitung eines Strafverfahrens, alle Einstellungsbeschlüsse, Strafbescheide und Strafurteile sind ohne Verzug und unentgeltlich der Bundesanwaltschaft mitzuteilen; diese kann jederzeit Auskunft über den Stand eines hängigen Strafverfahrens verlangen.
 
-<sup>3</sup> ...[^35-1]
+<sup>3</sup> …[^35-1]
 
 [^35-1]: Aufgehoben durch Anhang 1 Ziff. II 6 der Strafprozessordnung vom 5. Okt. 2007, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
@@ -648,9 +648,9 @@ Für Widerhandlungen im Geschäftsbetrieb gelten die Artikel 6 und 7 des Bundesg
 
 <sup>1</sup> Der Bundesbeschluss vom 23. März 1961[^37-1] über den Erwerb von Grundstücken durch Personen im Ausland wird aufgehoben.
 
-<sup>2</sup> ...[^37-2]
+<sup>2</sup> …[^37-2]
 
-[^37-1]: [[AS 1961 203](https://fedlex.data.admin.ch/eli/oc/1961/203_209_213), [1965 1239](https://fedlex.data.admin.ch/eli/oc/1965/1239_1252_1240), [1970 1199](https://fedlex.data.admin.ch/eli/oc/1970/1199_1195_1195), [1974 83](https://fedlex.data.admin.ch/eli/oc/1974/83_83_83), [1977 1689](https://fedlex.data.admin.ch/eli/oc/1977/1689_1689_1689)Ziff. II, [1982 1914](https://fedlex.data.admin.ch/eli/oc/1982/1914_1914_1914)]
+[^37-1]: [[AS 1961 203](https://fedlex.data.admin.ch/eli/oc/1961/203_209_213); [1965 1239](https://fedlex.data.admin.ch/eli/oc/1965/1239_1252_1240); [1970 1199](https://fedlex.data.admin.ch/eli/oc/1970/1199_1195_1195); [1974 83](https://fedlex.data.admin.ch/eli/oc/1974/83_83_83); [1977 1689](https://fedlex.data.admin.ch/eli/oc/1977/1689_1689_1689)Ziff. II; [1982 1914](https://fedlex.data.admin.ch/eli/oc/1982/1914_1914_1914)]
 [^37-2]: Die Änderung kann unter [AS 1984 1148](https://fedlex.data.admin.ch/eli/oc/1984/1148_1148_1148)konsultiert werden.
 
 #### Art. 38
@@ -659,7 +659,7 @@ Für Widerhandlungen im Geschäftsbetrieb gelten die Artikel 6 und 7 des Bundesg
 
 Dieses Gesetz und die gestützt darauf erlassenen Ausführungsbestimmungen sind auf Bewilligungen anwendbar, die nach dem Inkrafttreten dieses Gesetzes in erster Instanz erteilt werden, soweit sie nicht auf rechtskräftigen Grundsatzbewilligungen nach dem früheren Recht[^38-1] beruhen.
 
-[^38-1]: [AS **1972** 1062. AS **1974** 94 Art. 26] [AS **1974** 109, **1975** 1303, **1976** 607. AS **1976** 2389 Art. 5 Abs. 3] [AS **1976** 2389, **1979** 806, **1980** 1875, **1981** 2070, **1982** 2235, **1983** 1614]
+[^38-1]: [AS **1972** 1062. AS **1974** 94 Art. 26] [AS **1974** 109; **1975** 1303; **1976** 607. AS **1976** 2389 Art. 5 Abs. 3] [AS **1976** 2389; **1979** 806; **1980** 1875; **1981** 2070; **1982** 2235; **1983** 1614]
 
 #### Art. 39
 
@@ -677,7 +677,7 @@ Der Bundesrat setzt für die erste Periode von zwei Jahren die gesamtschweizeris
 
 [^40-1]: Die Initiative wurde am 20. Mai 1984 verworfen ([BBl 1984 II 989](https://fedlex.data.admin.ch/eli/fga/1984/2_989__)).
 
-## Schlussbestimmungen der Änderung vom 30. April 1997****
+## Schlussbestimmungen der Änderung vom 30. April 1997
 
 [^u1-1]
 
@@ -687,9 +687,9 @@ Der Bundesrat setzt für die erste Periode von zwei Jahren die gesamtschweizeris
 
 <sup>2</sup> An eine Bewilligung geknüpfte Auflagen fallen von Gesetzes wegen dahin, wenn das neue Recht sie nicht mehr vorschreibt oder es den Erwerb nicht mehr der Bewilligungspflicht unterstellt; ihre Löschung im Grundbuch erfolgt auf Antrag des Erwerbers.
 
-<sup>3</sup> Kann der Grundbuchverwalter nicht ohne weiteres feststellen, ob eine Auflage von Gesetzes wegen dahingefallen ist, verweist er den Anmeldenden an die Bewilligungsbehörde; Artikel 18 Absatz 1 ist sinngemäss anwendbar.
+<sup>3</sup> Kann der Grundbuchverwalter nicht ohne Weiteres feststellen, ob eine Auflage von Gesetzes wegen dahingefallen ist, verweist er den Anmeldenden an die Bewilligungsbehörde; Artikel 18 Absatz 1 ist sinngemäss anwendbar.
 
-## Schlussbestimmungen der Änderung vom 8. Oktober 1999****
+## Schlussbestimmungen der Änderung vom 8. Oktober 1999
 
 [^u2-1]
 
@@ -699,7 +699,7 @@ Die Schlussbestimmungen der Änderung vom 30. April 1997[^u2-2] gelten für dies
 
 [^u2-2]: [AS 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086)
 
-## Schlussbestimmungen der Änderung vom 14. Dezember 2001****
+## Schlussbestimmungen der Änderung vom 14. Dezember 2001
 
 [^u3-1]
 
@@ -707,7 +707,7 @@ Die Schlussbestimmungen der Änderung vom 30. April 1997[^u2-2] gelten für dies
 
 Die vorliegende Änderung ist anwendbar auf Rechtsakte, die zwar vor dem Inkrafttreten dieser Änderung abgeschlossen, aber noch nicht ausgeführt oder nicht von einer in Kraft getretenen Entscheidung erfasst worden sind.
 
-## Schlussbestimmungen der Änderung vom 25. September 2020****
+## Schlussbestimmungen der Änderung vom 25. September 2020
 
 [^u4-1]
 
