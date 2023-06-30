@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives �
 short: OEEE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: fr
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-765-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-765-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20230101/fr"
 
 (Ordonnance sur les exigences relatives à l’efficacité énergétique, OEEE)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2023)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> juillet 2023)
 
 Le Conseil fédéral suisse,
 
@@ -729,7 +729,7 @@ Annexe 1.15[^t-12]
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des chauffe-eau et ballons d’eau chaude
 
-[^t-12]: Mise à jour par le ch. II al. 1 des O du 11 avr. 2018 ([RO 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)), du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) et du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-12]: Mise à jour par le ch. II al. 1 des O du 11 avr. 2018 ([RO 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)), du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)), du 23 nov. 2022 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) et du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Champ d’application
 
@@ -742,7 +742,7 @@ Annexe 1.15[^t-12]
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
 - 2\.1 Les chauffe-eau visés au ch. 1 peuvent être mis en circulation ou fournis s’ils satisfont aux exigences de l’art. 3 et de l’annexe II du règlement (UE) n<sup>o</sup> 814/2013[^annex115-lvlu1-lvl2-1].
-- 2\.2 Les chauffe-eau électriques conventionnels visés au ch. 1 ayant un volume de stockage égal ou supérieur à 150 litres peuvent être mis en circulation ou fournis seulement si leur efficacité énergétique pour le chauffage de l’eau n’est pas inférieure aux valeurs admises pour les appareils de la classe B au sens de l’annexe II, ch. 2, du règlement délégué (UE) n<sup>o</sup> 812/2013[^annex115-lvlu1-lvl2-2]. Cette règle ne s’applique pas aux chauffe-eau intégrables dont les dimensions relèvent du système suisse de mesure (norme SMS).
+- 2\.2 Les chauffe-eau électriques conventionnels visés au ch. 1 ayant un volume de stockage égal ou supérieur à 150 litres peuvent être mis en circulation ou fournis seulement si leur efficacité énergétique pour le chauffage de l’eau n’est pas inférieure aux valeurs admises pour les appareils de la classe B au sens de l’annexe II, ch. 1, du règlement délégué (UE) n<sup>o</sup> 812/2013[^annex115-lvlu1-lvl2-2]. Cette règle ne s’applique pas aux chauffe-eau intégrables dont les dimensions relèvent du système suisse de mesure (norme SMS).
 - 2\.3 Les ballons d’eau chaude ayant un volume de stockage inférieur ou égal à 500 litres peuvent être mis en circulation ou fournis si leurs pertes statiques sont inférieures ou égales à celles admises pour les appareils de la classe B au sens de l’annexe II, ch. 2, du règlement délégué (UE) n<sup>o</sup> 812/2013.
 - 2\.4 Les ballons d’eau chaude ayant un volume de stockage supérieur à 500 litres et inférieur ou égal à 2000 litres peuvent être mis en circulation ou fournis s’ils satisfont aux exigences de l’annexe II, ch. 2, du règlement délégué (UE) n<sup>o</sup> 814/2013.
 
@@ -1074,7 +1074,7 @@ Annexe 2.1[^t-20]
 
 ## Exigences relatives à l’efficacité énergétique en mode veille et en mode arrêt ainsi qu’à la mise en circulation et à la fourniture des équipements ménagers et de bureau électriques et électroniques alimentés par le secteur
 
-[^t-20]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-20]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) et le ch. I de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Champ d’application
 
@@ -1092,7 +1092,7 @@ Annexe 2.1[^t-20]
 - 1\.3 Les définitions figurant à l’art. 2 et à l’annexe I du règlement (CE) n<sup>o</sup> 1275/2008 sont applicables.
 
 [^annex21-lvlu1-lvl1-1]: Règlement (CE) n<sup>o</sup> 1275/2008 de la Commission du 17 décembre 2008 portant application de la directive 2005/32/CE du Parlement européen et du Conseil en ce qui concerne les exigences d’écoconception relatives à la consommation d’électricité en mode veille, en mode arrêt et en veille avec maintien de la connexion au réseau des équipements ménagers et de bureau électriques et électroniques, JO L 339 du 18.12.2008, p. 45; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2016/2282, JO L 346 du 20.12.2016, p. 51.
-[^annex21-lvlu1-lvl1-2]: Le texte de la norme EN peut être obtenu auprès de l’Association pour l’électrotechnique, les technologies de l’énergie et de l’information (electrosuisse), Luppmenstr. 1, 8320 Fehraltorf.
+[^annex21-lvlu1-lvl1-2]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch./).
 [^annex21-lvlu1-lvl1-3]: Règlement (UE) n<sup>o</sup> 617/2013 de la Commission du 26 juin 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d’écoconception applicables aux ordinateurs et aux serveurs informatiques, version du JO L 175 du 27.6.2013, p. 13; modifié par le règlement (UE) n<sup>o</sup> 2016/2282, JO L 346 du 20.12.2016, p. 51.
 [^annex21-lvlu1-lvl1-4]: Règlement (CE) n<sup>o</sup> 642/2009 de la Commission du 22 juillet 2009 mettant en œuvre la directive 2005/32/CE du Parlement européen et du Conseil en ce qui concerne les exigences relatives à l’écoconception des téléviseurs, JO L 191 du 23.7.2009, p. 42; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2016/2282, JO L 346 du 20.12.2016, p. 51.
 
@@ -1193,7 +1193,7 @@ Annexe 2.4
   - a. décodeurs (set-top-box) complexes visés aux annexes B et F du *Voluntary Industry Agreement to improve the energy consumption of Complex Set Top Boxes within the EU* (version 3.1) du 19 juin 2013[^annex24-lvlu1-lvl1-1];
   - b. décodeurs simples (simple set-top-box), selon les art. 1 et 2 du règlement (CE) n<sup>o</sup> 107/2009[^annex24-lvlu1-lvl1-2].
 
-[^annex24-lvlu1-lvl1-1]: Le *Voluntary Industry Agreement* peut être téléchargé gratuitement sur le site Internet de l’OFEN: www.bfe.admin.ch &gt; Accueil &gt; Thèmes &gt; Efficacité énergétique &gt; Appareils électriques &gt; Appareils électroniques &gt; Electronique de loisir.
+[^annex24-lvlu1-lvl1-1]: Le *Voluntary Industry Agreement* peut être téléchargé gratuitement sur le site Internet de l’OFEN: [www.bfe.admin.ch](http://www.bfe.admin.ch) &gt; Accueil &gt; Thèmes &gt; Efficacité énergétique &gt; Appareils électriques &gt; Appareils électroniques &gt; Electronique de loisir.
 [^annex24-lvlu1-lvl1-2]: Règlement (CE) n<sup>o</sup> 107/2009 de la Commission du 4 février 2009 portant application de la directive 2005/32 CE du Parlement européen et du Conseil concernant les exigences relatives à l’écoconception des décodeurs simples, version du JO L 36 du 5.2.2009, p. 8; modifié par le règlement (UE) n<sup>o</sup> 2016/2282, JO L 346 du 20.12.2016, p. 51.
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
@@ -1294,7 +1294,7 @@ Annexe 2.7[^t-24]
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des moteurs et des convertisseurs de fréquence
 
-[^t-24]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
+[^t-24]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II al. 1 de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Champ d’application
 
@@ -1302,7 +1302,7 @@ Annexe 2.7[^t-24]
 - 1\.2 Les exigences fixées à l’annexe I, art. 1 et 2, ch. 1, 2, 5 à 11 et 13, ne s’appliquent pas aux appareils visés à l’art. 2, al. 2 et 3, du règlement (UE) 2019/1781.
 - 1\.3 Les définitions figurant à l’art. 3 du règlement (UE) 2019/1781 sont applicables.
 
-[^annex27-lvlu1-lvl1-1]: Règlement (UE) 2019/1781 de la Commission du 1<sup>er</sup> octobre 2019 fixant des exigences d’écoconception applicables aux moteurs électriques et aux variateurs de vitesse conformément à la directive 2009/125/CE du Parlement européen et du Conseil, et modifiant le règlement (CE) n° 641/2009 concernant les exigences d’écoconception applicables aux circulateurs sans presse-étoupe indépendants et aux circulateurs sans presse-étoupe intégrés dans des produits et abrogeant le règlement (CE) n° 640/2009 de la Commission, JO L 272 du 25.10.2019, p. 74; modifié en dernier lieu par le règlement (UE) 2021/341, JO L 68 du 26.2.2021, p. 108.
+[^annex27-lvlu1-lvl1-1]: Règlement (UE) 2019/1781 de la Commission du 1<sup>er</sup> octobre 2019 fixant des exigences d’écoconception applicables aux moteurs électriques et aux variateurs de vitesse conformément à la directive 2009/125/CE du Parlement européen et du Conseil, et modifiant le règlement (CE) n<sup>o</sup> 641/2009 concernant les exigences d’écoconception applicables aux circulateurs sans presse-étoupe indépendants et aux circulateurs sans presse-étoupe intégrés dans des produits et abrogeant le règlement (CE) n<sup>o</sup> 640/2009 de la Commission, JO L 272 du 25.10.2019, p. 74; modifié en dernier lieu par le règlement (UE) 2023/3, JO L 2 du 4.1.2023, p. 1.
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
@@ -1574,17 +1574,68 @@ Annexe 2.14[^t-30]
 
 - Les appareils de cuisine professionnels alimentés par le secteur ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> janvier 2024 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 31 décembre 2024 au plus tard.
 
-Annexe 3.1[^t-31]
+Annexe 2.15[^t-31]
 
-[^t-31]: Abrogée par le ch. II al. 4 de l’O du 22 avr. 2020, avec effet au 1<sup>er</sup> sept. 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+(art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
-Annexe 3.2[^t-32]
+## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des lave-vaisselle professionnels alimentés par le secteur
+
+[^t-31]: Introduite par le ch. II al. 2 de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+
+### 1 Champ d’application
+
+- 1\.1 La présente annexe s’applique aux lave-vaisselle professionnels alimentés par le secteur de type lave-vaisselle sous-comptoir à un réservoir ou lave-vaisselle à capot à un réservoir pour traitement en continu destinés à laver les assiettes, plats, verres, couverts et articles analogues.
+- 1\.2
+
+  Elle ne s’applique pas:
+
+  - a. aux lave-vaisselle sous comptoir à changement d’eau;
+  - b. aux lave-vaisselle à convoyeur ou à avancement automatique des paniers;
+  - c. aux lave-ustensiles.
+
+### 2 Exigences relatives à la mise en circulation et à la fourniture
+
+- 2\.1
+
+  À compter du 1<sup>er</sup> janvier 2024, les lave-vaisselle professionnels alimentés par le secteur visés au ch. 1 peuvent être mis en circulation ou fournis si les documents techniques et un site Internet librement accessible de l’entité qui effectue la mise en circulation ou du fournisseur contiennent les informations suivantes relatives au produit:
+
+  - a. une précision indiquant si l’appareil est muni ou non d’un système intégré de récupération de la chaleur;
+  - b. une explication sur le fonctionnement du système intégré de récupération de la chaleur, s’il y en a un;
+  - c. la consommation d’énergie pour le remplissage initial, en kilowattheures, arrondie à trois décimales;
+  - d. la consommation d’eau pour le remplissage initial, en litres, arrondie à une décimale;
+  - e. le temps de démarrage, en secondes;
+  - f. le nombre d’assiettes par panier et par cycle;
+  - g. l’aptitude à la fonction de lavage avec le cycle de lavage normal, en pour-cent;
+  - h. l’aptitude à la fonction de resalissure, en particules par assiette;
+  - i. la consommation d’énergie par cycle, en kilowattheures, arrondie à trois décimales;
+  - j. la consommation d’eau par cycle, en litres, arrondie à une décimale;
+  - k. la durée moyenne des programmes et des cycles, en secondes;
+  - l. la puissance électrique du mode prêt à l’emploi, en kilowatts.
+
+- 2\.2 Les informations relatives au produit visées aux let. c à l sont mesurées et calculées conformément à la norme européenne «EN IEC 63136:2019 Lave-vaisselle électriques à usage collectif – Méthodes d’essai et de mesure de l’aptitude à la fonction»[^annex215-lvlu1-lvl2-1].
+
+[^annex215-lvlu1-lvl2-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch/).
+
+### 3 Procédure d’évaluation de la conformité
+
+- 3\.1 Les caractéristiques figurant au ch. 2 pour les lave-vaisselle professionnels alimentés par le secteur visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité; la documentation technique doit inclure les résultats des mesures et des calculs ainsi qu’un renvoi au site Internet librement accessible.
+- 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste un lave-vaisselle professionnel alimenté par le secteur visé au ch. 1 comme indiqué au ch. 3.1; les résultats des mesures et des calculs ne doivent pas diverger de plus de 10 % des indications fournies par l’entité qui effectue la mise en circulation ou par le fournisseur.
+
+### 4 Disposition transitoire
+
+- Les lave-vaisselle professionnels alimentés par le secteur ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> janvier 2024 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 31 décembre 2024 au plus tard.
+
+Annexe 3.1[^t-32]
+
+[^t-32]: Abrogée par le ch. II al. 4 de l’O du 22 avr. 2020, avec effet au 1<sup>er</sup> sept. 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+
+Annexe 3.2[^t-33]
 
 (art. 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Indication de la consommation d’énergie et des autres caractéristiques des machines à café domestiques alimentées par le secteur
 
-[^t-32]: Mise à jour par le ch. II al. 1 des O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) et du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-33]: Mise à jour par le ch. II al. 1 des O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)), du 23 nov. 2022 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) et le ch. I de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Champ d’application
 
@@ -1596,13 +1647,13 @@ Annexe 3.2[^t-32]
 - 2\.1 Les caractéristiques énergétiques des machines à café visées au ch. 1 sont mesurées et calculées selon la norme européenne EN 60661[^annex32-lvlu1-lvl2-1]. La consommation d’énergie annuelle se calcule en multipliant par 365 la consommation d’énergie obtenue par mesure suivant la norme; la documentation technique doit inclure les résultats des calculs et mesures.
 - 2\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste une machine à café domestique sur la base des directives et des méthodes visées au ch. 2.1; les valeurs mesurées ne doivent pas dépasser de plus de 5 % les valeurs déclarées.
 
-[^annex32-lvlu1-lvl2-1]: Le texte des normes EN peut être obtenu auprès de l’Association pour l’électrotechnique, les technologies de l’énergie et de l’information (electrosuisse), Luppmenstr. 1, 8320 Fehraltorf; www.electrosuisse.ch.
+[^annex32-lvlu1-lvl2-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch./).
 
 ### 3 Indication de la consommation d’énergie et marquage
 
 - 3\.1 L’étiquette-énergie doit avoir au minimum 60 mm de largeur et 120 mm de hauteur. Si elle est imprimée dans un format plus grand, les proportions doivent être conservées. L’étiquette-énergie a un fond blanc.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230701/fr/xml/image/image1.png)
 
 - A) Trait de l’encadré: 3 pt – angles arrondis 2 mm – X-00-00-00
 - B) Logo de la Suisse: 8 mm de large, 8 mm de haut – coins arrondis 2 mm – 00-X-X-00
@@ -1639,15 +1690,15 @@ Annexe 3.2[^t-32]
 - 3\.4 Pour la vente sur Internet, l’étiquette-énergie peut être affichée sous forme imbriquée, auquel cas l’image utilisée pour accéder à l’étiquette-énergie doit être conforme aux spécifications énoncées au ch. 3.5. Elle doit s’afficher en intégralité au premier clic ou au passage de la souris sur l’image du produit.
 - 3\.5 L’image utilisée pour accéder à l’étiquette-énergie en cas d’affichage imbriqué pour la vente sur Internet doit être une flèche de la couleur correspondant à la classe d’efficacité énergétique du produit telle qu’elle figure sur l’étiquette-énergie. La flèche doit indiquer la classe d’efficacité énergétique du produit, en blanc, dans une taille de caractères équivalente à celle du prix, et se présenter dans un des deux formats suivants:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230701/fr/xml/image/image2.png)
 
-Annexe 4.1[^t-33]
+Annexe 4.1[^t-34]
 
 (art. 10, 11 et 12)
 
 ## Indication sur la consommation d’énergie et sur d’autres caractéristiques des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers
 
-[^t-33]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)). Mise à jour par le ch. III de l’O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), le ch. II de l’O du 3 juin 2022 ([RO 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)) et le ch. II al. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-34]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)). Mise à jour par le ch. III de l’O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), le ch. II de l’O du 3 juin 2022 ([RO 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)) et le ch. II al. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
 
 ### 1 Dispositions relatives à la consommation d’énergie
 
@@ -1682,7 +1733,7 @@ Annexe 4.1[^t-33]
 - 4\.5 Une indication de la plate-forme Internet de l’OFEN consacrée à l’efficacité énergétique des véhicules doit être placée de manière bien visible dans les points de vente. L’OFEN fournit gratuitement ces indications.
 - 4\.6 Les listes visées à l’art. 11, al. 3, doivent pouvoir être consultées au point de vente. Si elles sont mises à disposition sous forme imprimée, elles doivent être actualisées au moins tous les six mois. Une liste sous forme imprimée peut être commandée gratuitement auprès de l’OFEN.
 - 4\.7 Étiquette-énergie
-- 4\.7.1 L’étiquette-énergie doit être établie en utilisant le numéro de réception par type, le numéro de la fiche de données, le numéro d’identification du véhicule (Vehicle Identification number, VIN) ou le numéro matricule à l’aide de l’outil mis en ligne par l’OFEN à l’adresse www.etiquetteenergie.ch. La présentation doit correspondre à l’exemple illustré au ch. 10.
+- 4\.7.1 L’étiquette-énergie doit être établie en utilisant le numéro de réception par type, le numéro de la fiche de données, le numéro d’identification du véhicule (Vehicle Identification number, VIN) ou le numéro matricule à l’aide de l’outil mis en ligne par l’OFEN à l’adresse [www.etiquetteenergie.ch](http://www.etiquetteenergie.ch/). La présentation doit correspondre à l’exemple illustré au ch. 10.
 - 4\.7.2 S’il n’existe ni réception par type suisse ni fiche de données suisse et si l’étiquette-énergie ne peut pas être établie à l’aide du VIN ou du numéro matricule, l’étiquette-énergie doit être établie à l’aide d’un autre outil mis en ligne par l’OFEN en utilisant les valeurs du certificat de conformité visé à l’art. 36 ou 37 du règlement (UE) 2018/858[^annex41-lvlu1-lvl4-1]. Les données d’accès à cet outil en ligne doivent être demandées à l’OFEN en indiquant une personne responsable.
 - 4\.7.3 S’il n’existe ni réception par type suisse ni de fiche de données suisse ni certificat de conformité pour une voiture de tourisme, l’étiquette-énergie est établie en utilisant des valeurs provisoires, et est désignée comme provisoire. Elle doit être remplacée sans tarder dès qu’une réception par type, une fiche de données suisse ou un certificat de conformité est disponible. L’élaboration de l’étiquette provisoire se fonde sur le ch. 4.7.2.
 - 4\.7.4
@@ -1699,7 +1750,7 @@ Annexe 4.1[^t-33]
   - h. les émissions de CO<sub>2</sub> selon le ch. 2.1 ou le ch. 2.2;
   - i. la valeur cible des émissions de CO<sub>2</sub> fixée à l’art. 17*f*, al. 2, let. a, de l’ordonnance du 30 novembre 2012 sur le CO<sub>2</sub>[^annex41-lvlu1-lvl4-2];
   - j. la catégorie d’efficacité énergétique avec représentation de l’échelle globale;
-  - k. le QR code avec un lien vers l’adresse Internet www.cataloguecon sommation.ch.
+  - k. le QR code avec un lien vers l’adresse Internet [www.catalogueconsommation.ch](https://www.catalogueconsommation.ch/).
 
 - 4\.7.5 Sous sa forme imprimée, l’étiquette-énergie doit être présentée dans le format 297 mm × 210 mm (format DIN-A4 portrait).
 - 4\.7.6
@@ -1718,7 +1769,7 @@ Annexe 4.1[^t-33]
 
 - 5\.1 Quiconque fait de la publicité pour des voitures de tourisme neuves, des voitures de livraison neuves ou des tracteurs à sellette légers neufs dans des imprimés ou des médias électroniques visuels en indiquant une variante de motorisation, d’autres caractéristiques techniques ou un prix doit indiquer pour les variantes de modèles proposées la consommation d’énergie visée au ch. 1.1 et les émissions de CO<sub>2</sub> visées au ch. 2.1 ou 2.2. Pour les voitures de tourisme, il convient en outre d’indiquer la catégorie d’efficacité énergétique.
 - 5\.2 Les indications doivent être bien lisibles et la taille de la police utilisée doit être au moins aussi grande que celle utilisée pour les éventuelles informations techniques et données relatives à l’équipement.
-- 5\.3 La catégorie d’efficacité énergétique de la voiture de tourisme proposée doit en outre être présentée sous forme de graphique. L’échelle des sept catégories d’efficacité énergétique doit ainsi être intégralement présentée, avec une flèche noire pointant en sens inverse au niveau de la catégorie d’efficacité énergétique correspondant au véhicule, avec la lettre de la catégorie en blanc. Il convient d’utiliser les fichiers iconographiques mis à disposition par l’OFEN à l’adresse Internet www.etiquetteenergie.ch. Les dimensions doivent correspondre à l’image présentée à titre d’exemple au ch. 11, elles doivent être au moins de 15 mm de largeur et 20 mm de hauteur et couvrir au moins 1 % de l’ensemble de l’espace publicitaire.
+- 5\.3 La catégorie d’efficacité énergétique de la voiture de tourisme proposée doit en outre être présentée sous forme de graphique. L’échelle des sept catégories d’efficacité énergétique doit ainsi être intégralement présentée, avec une flèche noire pointant en sens inverse au niveau de la catégorie d’efficacité énergétique correspondant au véhicule, avec la lettre de la catégorie en blanc. Il convient d’utiliser les fichiers iconographiques mis à disposition par l’OFEN à l’adresse Internet [www.etiquetteenergie.ch](http://www.etiquetteenergie.ch/). Les dimensions doivent correspondre à l’image présentée à titre d’exemple au ch. 11, elles doivent être au moins de 15 mm de largeur et 20 mm de hauteur et couvrir au moins 1 % de l’ensemble de l’espace publicitaire.
 
 ### 6 Marquage dans les annonces de vente
 
@@ -1744,19 +1795,19 @@ On entend par types de véhicules actuels au sens du ch. 3.3 pour 2020 les voitu
 
 ### 10 Exemple de présentation d’une étiquette-énergie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230701/fr/xml/image/image3.png)
 
 ### 11 Exemple de présentation de l’échelle des catégories d’efficacité énergétique
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230701/fr/xml/image/image4.png)
 
-Annexe 4.2[^t-34]
+Annexe 4.2[^t-35]
 
 (art. 13)
 
 ## Indication de la classe d’efficacité en carburant et d’autres caractéristiques des pneumatiques
 
-[^t-34]: Nouvelle teneur selon le ch. II al. 2 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+[^t-35]: Nouvelle teneur selon le ch. II al. 2 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
 
 ### 1 Champ d’application
 

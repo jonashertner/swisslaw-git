@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Anforderungen an die Energieef
 short: EnEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: de
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20230101/de"
 
 (Energieeffizienzverordnung, EnEV)
 
-vom 1. November 2017 (Stand am 1. Januar 2023)
+vom 1. November 2017 (Stand am 1. Juli 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -315,11 +315,11 @@ Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
 Anhang 1.1[^t-1]
 
-(Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1 und 8 Abs. 1)
+(Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener Kühlgeräte
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Bereinigt gemäss Ziff. II der V vom 24. Nov. 2021 ([AS 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) und Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Bereinigt gemäss Ziff. II der V vom 24. Nov. 2021 ([AS 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)), Ziff. II Abs. 1 der V vom 23. Nov. 2022 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) und vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Geltungsbereich
 
@@ -331,8 +331,8 @@ Anhang 1.1[^t-1]
 
 ### 2 Anforderungen an das Inverkehrbringen und Abgeben
 
-- 2\.1 Kühlgeräte nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn ihr Energieeffizienzindex (EEI) nach Anhang III der Verordnung (EU) 2019/2019 nicht mehr als 100 beträgt sowie die Anforderungen nach Artikel 3 und Anhang II Ziffern 2–4, ausgenommen Ziffern 3 Buchstabe d und 4 Buchstabe o, der Verordnung (EU) 2019/2019 erfüllen.
-- 2\.2 Eintürige Kühlgeräte nach Ziffer 1, deren Drei-Sterne- oder Vier-Sterne- Fach oder -Fächer einen Rauminhalt aufweist bzw. aufweisen, der weniger als 18 Prozent des Gesamtrauminhalts ausmacht, dürfen in Verkehr gebracht und abgegeben werden, wenn ihr Energieeffizienzindex (EEI) gemäss Anhang III der Verordnung (EU) 2019/2019 nicht mehr als 125 beträgt und die Anforderungen nach Artikel 3 und Anhang II Ziffern 2–4, ausgenommen Ziffern 3 Buchstabe d und 4 Buchstabe o, der Verordnung (EU) 2019/2019 erfüllen.
+- 2\.1 Kühlgeräte nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn ihr Energieeffizienzindex (EEI) nach Anhang III der Verordnung (EU) 2019/2019 nicht mehr als 100 beträgt und sie die Anforderungen nach Artikel 3 und Anhang II Ziffern 2–4, ausgenommen Ziffern 3 Buchstabe d und 4 Buchstabe o, der Verordnung (EU) 2019/2019 erfüllen.
+- 2\.2 Eintürige Kühlgeräte nach Ziffer 1, deren Drei-Sterne- oder Vier-Sterne-Fach oder -Fächer einen Rauminhalt aufweist oder aufweisen, der weniger als 18 Prozent des Gesamtrauminhalts ausmacht, dürfen in Verkehr gebracht und abgegeben werden, wenn ihr Energieeffizienzindex (EEI) gemäss Anhang III der Verordnung (EU) 2019/2019 nicht mehr als 125 beträgt und sie die Anforderungen nach Artikel 3 und Anhang II Ziffern 2–4, ausgenommen Ziffern 3 Buchstabe d und 4 Buchstabe o, der Verordnung (EU) 2019/2019 erfüllen.
 - 2\.3 Ab 1. März 2024 sind für Kühlgeräte nach Ziffer 2.2 zusätzlich die Anforderungen nach Anhang II Ziffer 1 Buchstabe b der Verordnung (EU) 2019/2019 zu erfüllen.
 - 2\.4 Weinlagerschränke und geräuscharme Kühlgeräte nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Artikel 3 Anhang II Ziffern 1 Buchstabe a und 2–4, ausgenommen Ziffern 3 Buchstabe d und 4 Buchstabe o, der Verordnung (EU) 2019/2019 erfüllen.
 - 2\.5 Ab 1. März 2024 sind für Weinlagerschränke und geräuscharme Kühlgeräte nach Ziffer 1 zusätzlich die Anforderungen nach Anhang II Ziffer 1 Buchstabe b der Verordnung (EU) 2019/2019 zu erfüllen.
@@ -732,11 +732,11 @@ Anhang 1.14[^t-11]
 
 Anhang 1.15[^t-12]
 
-(Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1 und 8 Abs. 1)
+(Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Warmwasserbereitern und Warmwasserspeichern
 
-[^t-12]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 11. April 2018 ([AS 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)), vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) und vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-12]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 11. April 2018 ([AS 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)), vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)), vom 23. Nov. 2022 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) und vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Geltungsbereich
 
@@ -749,7 +749,7 @@ Anhang 1.15[^t-12]
 ### 2 Anforderungen an das Inverkehrbringen und Abgeben
 
 - 2\.1 Warmwasserbereiter nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Artikel 3 und Anhang II der Verordnung (EU) Nr. 814/2013[^annex115-lvlu1-lvl2-1] erfüllen.
-- 2\.2 Elektrische konventionelle Warmwasserbereiter nach Ziffer 1 mit einem Speichervolumen ≥ 150 Liter dürfen nur noch in Verkehr gebracht und abgegeben werden, wenn ihre Warmwasserbereitungs-Energieeffizienz nicht kleiner ist, als die für Geräte der Klasse B gemäss Anhang II Ziffer 2 der Delegierten Verordnung (EU) Nr. 812/2013[^annex115-lvlu1-lvl2-2] zulässigen Werte. Ausgenommen sind Einbau-Warmwasserbereiter mit Abmessungen nach dem Schweizer Mass-System (SMS).
+- 2\.2 Elektrische konventionelle Warmwasserbereiter nach Ziffer 1 mit einem Speichervolumen ≥ 150 Liter dürfen nur noch in Verkehr gebracht und abgegeben werden, wenn ihre Warmwasserbereitungs-Energieeffizienz nicht kleiner ist als die für Geräte der Klasse B gemäss Anhang II Ziffer 1 der Delegierten Verordnung (EU) Nr. 812/2013[^annex115-lvlu1-lvl2-2] zulässigen Werte. Ausgenommen sind Einbau-Warmwasserbereiter mit Abmessungen nach dem Schweizer Mass-System (SMS).
 - 2\.3 Warmwasserspeicher mit einem Speichervolumen ≤ 500 Liter dürfen nur noch in Verkehr gebracht und abgegeben werden, wenn ihre Warmhalteverluste nicht grösser sind als die für Geräte der Klasse B gemäss Anhang II Ziffer 2 der Delegierten Verordnung (EU) Nr. 812/2013 zulässigen Werte.
 - 2\.4 Warmwasserspeicher mit einem Speichervolumen von &gt; 500 bis ≤ 2000 Liter dürfen nur noch in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Anhang II Ziffer 2 der Delegierten Verordnung (EU) Nr. 814/2013 erfüllen.
 
@@ -1087,7 +1087,7 @@ Anhang 2.1[^t-20]
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener elektrischer und elektronischer Haushalts- und Bürogeräte im Bereitschafts- und Aus-Zustand
 
-[^t-20]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-20]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) und Ziff. I der V vom vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Geltungsbereich
 
@@ -1105,7 +1105,7 @@ Anhang 2.1[^t-20]
 - 1\.3 Es gelten die Begriffsbestimmungen nach Artikel 2 und Anhang I der Verordnung (EG) Nr. 1275/2008.
 
 [^annex21-lvlu1-lvl1-1]: Verordnung (EG) Nr. 1275/2008 der Kommission vom 17. Dezember 2008 zur Durchführung der Richtlinie 2005/32/EG des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung von Ökodesign-Anforderungen an den Stromverbrauch elektrischer und elektronischer Haushalts- und Bürogeräte im Bereitschafts- und im Aus-Zustand, ABl. L 339 vom 18.12.2008, S. 45; zuletzt geändert durch Verordnung (EU) Nr. 2016/2282, ABl. L 346 vom 20.12.2016, S. 51.
-[^annex21-lvlu1-lvl1-2]: Der Text der EN-Norm kann bezogen werden beim Verband für Elektro-, Energie- und Informationstechnik (Electrosuisse), Luppmenstrasse 1, 8320 Fehraltorf; www.electrosuisse.ch.
+[^annex21-lvlu1-lvl1-2]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).
 [^annex21-lvlu1-lvl1-3]: Verordnung (EU) Nr. 617/2013 der Kommission vom 26. Juni 2013 zur Durchführung der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung von Anforderungen an die umweltgerechte Gestaltung von Computern und Computerservern, Fassung gemäss ABl. L 175 vom 27.6.2013, S. 13; geändert durch Verordnung (EU) Nr. 2016/2282, ABl. L 346 vom 20.12.2016, S. 51.
 [^annex21-lvlu1-lvl1-4]: Verordnung (EG) Nr. 642/2009 der Kommission vom 22. Juli 2009 zur Durchführung der Richtlinie 2005/32/EG des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung von Anforderungen an die umweltgerechte Gestaltung von Fernsehgeräten, ABl. L 191 vom 23.7.2009, S. 42; zuletzt geändert durch Verordnung (EU) Nr. 2016/2282, ABl. L 346 vom 20.12.2016, S. 51.
 
@@ -1222,7 +1222,7 @@ Anhang 2.4
 
 ### 3 Konformitätsbewertungsverfahren
 
-- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Set-Top-Boxen nach Ziffer 1 Buchstabe a anhand der Vorgaben und Methoden nach den Anhängen C und E des *Voluntary Industry Agreement to improve the energy consumption of Complex Set Top Boxes within the EU (Version 3.1)* vom 19. Juni 2013[^annex24-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
+- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Set-Top-Boxen nach Ziffer 1 Buchstabe a anhand der Vorgaben und Methoden nach den Anhängen C und E des *Voluntary Industry Agreement to improve the energy consumption of Complex Set Top* *Boxes within the EU (Version 3.1)* vom 19. Juni 2013[^annex24-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
 - 3\.2 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Set-Top-Boxen nach Ziffer 1 Buchstabe b anhand der Vorgaben und Methoden nach Anhang I der Verordnung (EG) Nr. 107/2009[^annex24-lvlu1-lvl3-2] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
 - 3\.3 Im Rahmen der Konformitätsüberprüfung der Set-Top-Boxen nach Ziffer 1 Buchstabe a testet die Kontrollstelle eine Set-Top-Box anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte dürfen die vorgeschriebenen Werte des *Voluntary Industry Agreement to improve the energy consumption of Complex Set Top Boxes within the EU (Version 3.1)* vom 19. Juni 2013 nicht überschreiten.
 - 3\.4 Im Rahmen der Konformitätsüberprüfung der Set-Top-Boxen nach Ziffer 1 Buchstabe b testet die Kontrollstelle eine Set-Top-Box anhand der Vorgaben und Methoden nach Ziffer 3.2; die Messwerte müssen die Anforderungen nach Anhang II der Verordnung (EG) Nr. 107/2009 vorgeschriebenen Werte erfüllen.
@@ -1308,11 +1308,11 @@ Anhang 2.6
 
 Anhang 2.7[^t-24]
 
-(Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1 und 8 Abs. 1)
+(Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Motoren und Frequenzumrichtern
 
-[^t-24]: Fassung gemäss Ziff. II Abs. 2 der V vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Bereinigt gemäss Ziff. II der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
+[^t-24]: Fassung gemäss Ziff. II Abs. 2 der V vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Bereinigt gemäss Ziff. II der V vom 24. Nov. 2021 ([AS 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) und Ziff. II Abs. 1 der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Geltungsbereich
 
@@ -1320,7 +1320,7 @@ Anhang 2.7[^t-24]
 - 1\.2 Von den Anforderungen nach Anhang I Artikel 1 und 2 Ziffern 1, 2, 5–11, 13 ausgenommen sind die Geräte nach Artikel 2 Absätze 2 und 3 der Verordnung (EU) 2019/1781.
 - 1\.3 Es gelten die Begriffsbestimmungen nach Artikel 3 der Verordnung (EU) 2019/1781.
 
-[^annex27-lvlu1-lvl1-1]: Verordnung (EU) 2019/1781 der Kommission vom 1. Oktober 2019 zur Festlegung von Ökodesign-Anforderungen an Elektromotoren und Drehzahlregelungen gemäss der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates, zur Änderung der Verordnung (EG) Nr. 641/2009 im Hinblick auf die Festlegung von Anforderungen an dieumweltgerechte Gestaltung von externen Nassläufer-Umwälzpumpen und in Produkte integrierten Nassläufer-Umwälzpumpen und zur Aufhebung der Verordnung (EG) Nr. 640/2009 der Kommission, ABl. L 272 vom 25.10.2019, S. 74; zuletzt geändert durch Verordnung (EU) 2021/341, ABl. L 68 vom 26.2.2021, S. 108.
+[^annex27-lvlu1-lvl1-1]: Verordnung (EU) 2019/1781 der Kommission vom 1. Oktober 2019 zur Festlegung von Ökodesign-Anforderungen an Elektromotoren und Drehzahlregelungen gemäss der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates, zur Änderung der Verordnung (EG) Nr. 641/2009 im Hinblick auf die Festlegung von Anforderungen an die umweltgerechte Gestaltung von externen Nassläufer-Umwälzpumpen und in Produkte integrierten Nassläufer-Umwälzpumpen und zur Aufhebung der Verordnung (EG) Nr. 640/2009 der Kommission, ABl. L 272 vom 25.10.2019, S. 74; zuletzt geändert durch Verordnung (EU) 2023/3, ABl. L 2 vom 4.1.2023, S. 1.
 
 ### 2 Anforderungen an das Inverkehrbringen und Abgeben
 
@@ -1597,19 +1597,70 @@ Anhang 2.14[^t-30]
 ### 4 Übergangsbestimmung
 
 - Netzbetriebene gewerbliche Küchengeräte, welche die ab 1. Januar 2024 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2024 abgegeben werden.
+
+Anhang 2.15[^t-31]
+
+(Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
+
+## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von netzbetriebenen gewerblichen Geschirrspülern
+
+[^t-31]: Eingefügt durch Ziff. II Abs. 2 der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+
+### 1 Geltungsbereich
+
+- 1\.1 Dieser Anhang gilt für netzbetriebene gewerbliche Geschirrspüler der Typen Eintank-Untertisch-Spülmaschinen und durch eine Haube verschlossene Eintank-Durchschub-Spülmaschinen zum Spülen von Tellern, Geschirr, Glasgeschirr, Besteck und ähnlichen Gegenständen.
+- 1\.2
+
+  Ausgenommen sind:
+
+  - a. wasserwechselnde Untertisch-Spülmaschinen;
+  - b. Bandtransport- und Korbtransport-Spülmaschinen;
+  - c. Utensilien-Spülmaschinen.
+
+### 2 Anforderungen an das Inverkehrbringen und Abgeben
+
+- 2\.1
+
+  Netzbetriebene gewerbliche Geschirrspüler nach Ziffer 1 dürfen ab 1. Januar 2024 in Verkehr gebracht und abgegeben werden, wenn in den technischen Unterlagen und auf einer frei zugänglichen Webseite des Inverkehrbringers oder Abgebers folgende Produktinformationen angegeben sind:
+
+  - a. die Angabe, ob das Gerät eine integrierte Wärmerückgewinnung hat oder nicht;
+  - b. eine Erläuterung zur Funktionsweise der integrierten Wärmerückgewinnung, falls eine solche vorhanden ist;
+  - c. der Energieverbrauch für die Erstbefüllung in Kilowattstunden auf drei Dezimalstellen;
+  - d. der Wasserverbrauch für die Erstbefüllung in Liter auf eine Dezimalstelle;
+  - e. die Erstbefüllungszeit in Sekunden;
+  - f. die Anzahl Teller je Korb und Zyklus;
+  - g. die Reinigungsleistung mit dem Standard-Reinigungszyklus in Prozent;
+  - h. die Wiederanschmutzungsleistung in Partikel pro Teller;
+  - i. der Energieverbrauch je Zyklus in Kilowattstunden auf drei Dezimalstellen;
+  - j. der Wasserverbrauch je Zyklus in Liter auf eine Dezimalstelle;
+  - k. die durchschnittliche Programm- und Zyklusdauer in Sekunden;
+  - l. die elektrische Leistungsaufnahme des Bereitschaftsmodus in Kilowatt.
+
+- 2\.2 Die Produktinformationen nach den Buchstaben c–l werden gemäss der europäischen Norm «EN IEC 63136:2019 Elektrische Geschirrspüler für den gewerblichen Gebrauch – Messverfahren für Gebrauchseigenschaften»[^annex215-lvlu1-lvl2-1] gemessen und berechnet.
+
+[^annex215-lvlu1-lvl2-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+
+### 3 Konformitätsbewertungsverfahren
+
+- 3\.1 Im Rahmen der Konformitätsbewertung werden die nach Ziffer 2 erforderlichen Eigenschaften der netzbetriebenen gewerblichen Geschirrspüler nach Ziffer 1 gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen sowie einen Verweis auf die frei zugängliche Webseite enthalten.
+- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle einen netzbetriebenen gewerblichen Geschirrspüler nach Ziffer 1 wie in Ziffer 3.1 beschrieben; die Ergebnisse der Messungen und Berechnungen dürfen nicht mehr als 10 Prozent von den Angaben des Inverkehrbringers oder Abgebers abweichen.
+
+### 4 Übergangsbestimmung
+
+- Netzbetriebene gewerbliche Geschirrspüler, welche die ab 1. Januar 2024 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2024 abgegeben werden.
 - [tab]
 
-Anhang 3.1[^t-31]
+Anhang 3.1[^t-32]
 
-[^t-31]: Aufgehoben durch Ziff. II Abs. 4 der V vom 22. April 2020, mit Wirkung seit 1. Sept. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-32]: Aufgehoben durch Ziff. II Abs. 4 der V vom 22. April 2020, mit Wirkung seit 1. Sept. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
-Anhang 3.2[^t-32]
+Anhang 3.2[^t-33]
 
 (Art. 5 Abs. 1, 6 Abs. 1, 7 Abs. 1 und 8 Abs. 1)
 
 ## Angabe des Energieverbrauchs und weiterer Eigenschaften netzbetriebener Haushaltskaffeemaschinen
 
-[^t-32]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) und vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-33]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) und vom 23. Nov. 2022 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) und Ziff. I der V vom vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Geltungsbereich
 
@@ -1621,13 +1672,13 @@ Anhang 3.2[^t-32]
 - 2\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Haushaltskaffeemaschinen nach Ziffer 1 gemäss der europäischen Norm EN 60661[^annex32-lvlu1-lvl2-1] gemessen und berechnet. Der jährliche Energieverbrauch errechnet sich über die Multiplikation des gemäss Norm ermittelten Energieverbrauchs mit 365; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
 - 2\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle eine Haushaltskaffeemaschine anhand der Vorgaben und Methoden nach Ziffer 2.1; die Messwerte dürfen die deklarierten Werte nicht um mehr als 5 Prozent überschreiten.
 
-[^annex32-lvlu1-lvl2-1]: Der Text der EN-Norm kann bezogen werden beim Verband für Elektro-, Energie- und Informationstechnik (Electrosuisse), Luppmenstrasse 1, 8320 Fehraltorf; www.electrosuisse.ch
+[^annex32-lvlu1-lvl2-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).
 
 ### 3 Angabe des Energieverbrauchs und Kennzeichnung
 
 - 3\.1 Die Energieetikette muss mindestens 60 mm breit und 120 mm hoch sein. Wird die Energieetikette in einem grösseren Format gedruckt, so müssen die Proportionen der Spezifikationen gewahrt bleiben. Die grafischen Elemente werden proportional skaliert. Der Hintergrund ist weiss.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230701/de/xml/image/image1.png)
 
 - A) Begrenzungslinie: 3 pt – abgerundete Ecken 2 mm – X-00-00-00
 - B) CH-Logo:Breite 8 mm, Höhe 8 mm – abgerundete Ecken 2 mm – 00‑X-X-00
@@ -1664,17 +1715,17 @@ Anhang 3.2[^t-32]
 - 3\.4 Die Energieetikette kann beim Internetverkauf mit Hilfe einer geschachtelten Anzeige dargestellt werden, wobei das für den Zugang zur Energieetikette verwendete Bild den Vorgaben in Ziffer 3.5 entsprechen muss. Mit dem ersten Mausklick respektive beim Rollover über das Bild muss die ganze Energieetikette erscheinen.
 - 3\.5 Das für den Zugang zur Energieetikette genutzte Bild muss bei der geschachtelten Anzeige beim Internetverkauf ein Pfeil in der Farbe der Energieeffizienzklasse des Produkts auf der Energieetikette sein. Der Pfeil muss die Energieeffizienzklasse des Produkts in Weiss in einer Schriftgrösse, die der des Preises entspricht, enthalten und einem der folgenden zwei Formate entsprechen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230701/de/xml/image/image2.png)
 
 - [tab]
 
-Anhang 4.1[^t-33]
+Anhang 4.1[^t-34]
 
 (Art. 10, 11 und 12)
 
 ## Angabe des Energieverbrauchs und weiterer Eigenschaften von Personenwagen, Lieferwagen und leichten Sattelschleppern
 
-[^t-33]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Bereinigt gemäss Ziff. III der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), Ziff. II der V vom 3. Juni 2022 ([AS 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)) und Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-34]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Bereinigt gemäss Ziff. III der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), Ziff. II der V vom 3. Juni 2022 ([AS 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)) und Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
 
 ### 1 Bestimmungen zum Energieverbrauch
 
@@ -1709,7 +1760,7 @@ Anhang 4.1[^t-33]
 - 4\.5 In Verkaufsstellen muss ein Hinweis auf die Internetplattform des BFE für den Bereich der Energieeffizienz von Fahrzeugen gut sichtbar platziert werden. Das BFE stellt diese Hinweise kostenlos zur Verfügung.
 - 4\.6 Die Listen nach Artikel 11 Absatz 3 müssen in der Verkaufsstelle eingesehen werden können. Werden sie in gedruckter Form aufgelegt, so müssen sie mindestens halbjährlich aktualisiert werden. Eine Liste in gedruckter Form kann beim BFE kostenlos bestellt werden.
 - 4\.7 Energieetikette
-- 4\.7.1 Die Energieetikette ist unter Verwendung der Typengenehmigungsnummer, der Datenblattnummer, der Vehicle Identification Number (VIN) oder der Stammnummer mit dem vom BFE unter der Internetadresse www.energieetikette.ch zur Verfügung gestellten Online-Tool zu erstellen. Die Darstellung entspricht dem unter Ziffer 10 abgebildeten Beispiel.
+- 4\.7.1 Die Energieetikette ist unter Verwendung der Typengenehmigungsnummer, der Datenblattnummer, der Vehicle Identification Number (VIN) oder der Stammnummer mit dem vom BFE unter der Internetadresse [www.energieetikette.ch](http://www.energieetikette.ch/) zur Verfügung gestellten Online-Tool zu erstellen. Die Darstellung entspricht dem unter Ziffer 10 abgebildeten Beispiel.
 - 4\.7.2 Liegt weder eine schweizerische Typengenehmigung noch ein schweizerisches Datenblatt vor und lässt sich die Energieetikette nicht mittels der VIN oder der Stammnummer erstellen, so ist die Energieetikette über ein ebenfalls vom BFE zur Verfügung gestelltes Online-Tool unter Verwendung der Werte aus der Übereinstimmungsbescheinigung nach Artikel 36 oder 37 der Verordnung (EU) 2018/858[^annex41-lvlu1-lvl4-1] zu erstellen. Die Zugangsdaten zu diesem Online-Tool sind unter Angabe einer verantwortlichen Person beim BFE zu beantragen.
 - 4\.7.3 Liegt für einen Personenwagen weder eine schweizerische Typengenehmigung noch ein schweizerisches Datenblatt noch eine Übereinstimmungsbescheinigung vor, so wird die Energieetikette unter Verwendung provisorischer Werte erstellt und als provisorisch bezeichnet. Sie ist umgehend zu ersetzen, sobald eine schweizerische Typengenehmigung, ein schweizerisches Datenblatt oder eine Übereinstimmungsbescheinigung vorliegt. Das Erstellen der provisorischen Etikette richtet sich nach Ziffer 4.7.2.
 - 4\.7.4
@@ -1726,7 +1777,7 @@ Anhang 4.1[^t-33]
   - h. CO<sub>2</sub>-Emissionen nach Ziffer 2.1 oder 2.2;
   - i. den Zielwert der CO<sub>2</sub>-Emissionen gemäss Artikel 17*f* Absatz 2 Buchstabe a der CO<sub>2</sub>-Verordnung vom 30. November 2012[^annex41-lvlu1-lvl4-2];
   - j. Energieeffizienz-Kategorie mit Abbildung der gesamten Skala;
-  - k. QR-Code mit Verlinkung auf die Internetadresse www.verbrauchs katalog.ch.
+  - k. QR-Code mit Verlinkung auf die Internetadresse: www.verbrauchskatalog.ch.
 
 - 4\.7.5 In gedruckter Form muss die Energieetikette das Format 297 mm × 210 mm (DIN-A4-Hochformat) aufweisen.
 - 4\.7.6
@@ -1745,7 +1796,7 @@ Anhang 4.1[^t-33]
 
 - 5\.1 Wer neue Personenwagen, Lieferwagen oder leichte Sattelschlepper in Druckerzeugnissen und in visuell-elektronischen Medien unter Angabe einer Motorisierungsvariante, weiterer technischer Merkmale oder eines Preises bewirbt, muss die beworbenen Modellvarianten mit den Angaben zum Energieverbrauch gemäss Ziffer 1.1 und zu den CO<sub>2</sub>-Emissionen gemäss Ziffer 2.1 oder 2.2 kennzeichnen. Bei Personenwagen ist zusätzlich die Energieeffizienz-Kategorie anzugeben.
 - 5\.2 Die Angaben müssen gut lesbar dargestellt werden und mindestens dieselbe Schriftgrösse aufweisen, wie sie für allfällige technische Informationen und Angaben zur Ausstattung verwendet wird.
-- 5\.3 Die Energieeffizienz-Kategorie des beworbenen Personenwagens ist zusätzlich grafisch darzustellen. Dabei ist die farbige Skala mit allen sieben Energieeffizienz-Kategorien sowie ein schwarzer Pfeil in entgegengesetzter Richtung auf der Höhe der dem Fahrzeug entsprechenden Energieeffizienz-Kategorie und mit dem entsprechenden Buchstaben in Weiss abzubilden. Es sind die vom BFE auf der Internetadresse www.energieetikette.ch zur Verfügung gestellten Bilddateien zu verwenden. Die Darstellung hat dem unter Ziffer 11 abgebildeten Beispiel zu entsprechen, mindestens 15 mm breit und 20 mm hoch zu sein und mindestens 1 Prozent der gesamten Werbefläche einzunehmen.
+- 5\.3 Die Energieeffizienz-Kategorie des beworbenen Personenwagens ist zusätzlich grafisch darzustellen. Dabei ist die farbige Skala mit allen sieben Energieeffizienz-Kategorien sowie ein schwarzer Pfeil in entgegengesetzter Richtung auf der Höhe der dem Fahrzeug entsprechenden Energieeffizienz-Kategorie und mit dem entsprechenden Buchstaben in Weiss abzubilden. Es sind die vom BFE auf der Internetadresse: www.energieetikette.ch zur Verfügung gestellten Bilddateien zu verwenden. Die Darstellung hat dem unter Ziffer 11 abgebildeten Beispiel zu entsprechen, mindestens 15 mm breit und 20 mm hoch zu sein und mindestens 1 Prozent der gesamten Werbefläche einzunehmen.
 
 ### 6 Kennzeichnung in Verkaufsinseraten
 
@@ -1771,19 +1822,19 @@ Für das Jahr 2020 gelten als aktuelle Fahrzeugtypen im Sinne von Ziffer 3.3 typ
 
 ### 10 Beispiel der Darstellung der Energieetikette
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230701/de/xml/image/image3.png)
 
 ### 11 Beispiel der Darstellung der Skala der Energieeffizienz-Kategorien
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20230701/de/xml/image/image4.png)
 
-Anhang 4.2[^t-34]
+Anhang 4.2[^t-35]
 
 (Art. 13)
 
 ## Angabe der Treibstoffeffizienzklasse und weiterer Eigenschaften von Reifen
 
-[^t-34]: Fassung gemäss Ziff. II Abs. 2 der V vom 25. Nov. 2020, in Kraft seit 1. Mai 2021 ([AS 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+[^t-35]: Fassung gemäss Ziff. II Abs. 2 der V vom 25. Nov. 2020, in Kraft seit 1. Mai 2021 ([AS 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
 
 ### 1 Geltungsbereich
 
