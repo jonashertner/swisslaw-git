@@ -4,11 +4,11 @@ title: "Loi fédérale du 15 décembre 2000 sur la protection contre les substan
 short: LChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/724"
 language: fr
-version: 2017-01-01
+version: 2023-07-01
 adopted: 2000-12-15
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-724-20170101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2004-724-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20170101/fr"
 
 (Loi sur les produits chimiques, LChim)
 
-du 15 décembre 2000 (Etat le 1<sup>er</sup> janvier 2017)
+du 15 décembre 2000 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -445,7 +445,7 @@ Elle coordonne les mesures d’exécution des cantons lorsqu’une exécution un
 - c. ordonner aux cantons de prendre des mesures d’exécution spéciales lors de circonstances extraordinaires;
 - d.[^33-1] promouvoir la formation et la formation continue des autorités d’exécution.
 
-[^33-1]: Nouvelle teneur selon le ch. 30 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
+[^33-1]: Nouvelle teneur selon l’annexe ch. 30 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
 
 #### Art. 34
 
@@ -575,7 +575,7 @@ Quiconque exécute des tâches en vertu de la présente loi est soumis à l’ob
 
 #### Art. 45
 
-**Echange de données entre autorités d’exécution**
+**Échange de données entre autorités d’exécution**
 
 <sup>1</sup> Lorsque plusieurs services fédéraux participent à l’exécution, ils veillent à échanger les données nécessaires à l’accomplissement de leurs tâches.
 
@@ -589,7 +589,7 @@ Quiconque exécute des tâches en vertu de la présente loi est soumis à l’ob
 
 #### Art. 46
 
-**Echange de données avec l’étranger et avec des organisations internationales**
+**Échange de données avec l’étranger et avec des organisations internationales**
 
 <sup>1</sup> Le Conseil fédéral règle les compétences et les procédures régissant les échanges de données avec des autorités ou institutions étrangères et avec des organisations internationales.
 
@@ -602,31 +602,27 @@ Des données confidentielles ne peuvent être transmises à des autorités et à
 
 #### Art. 47
 
-**Emoluments**
+**Émoluments**
 
 Le Conseil fédéral fixe les émoluments perçus par les autorités fédérales pour l’exécution de la présente loi. Il peut prévoir des dérogations à l’obligation d’acquitter des émoluments.
 
-## Chapitre 6**** …
-
-[^chap6-1]
-
-[^chap6-1]: Abrogé par le ch. 90 de l’annexe à la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+## Chapitre 6 …
 
 #### Art. 48
 
-## Chapitre 7 Dispositions pénales****
+[^48-1]
 
-[^chap7-1]
+[^48-1]: Abrogé par l’annexe ch. 90 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-[^chap7-1]: A partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l'art. 333 al. 2 à 6 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+## Chapitre 7 Dispositions pénales
 
 #### Art. 49
 
-**Délits**
+**Crimes et délits[^49-1]**
 
 <sup>1</sup>
 
-Est passible de l’emprisonnement ou de l’amende jusqu’à 200 000 francs, le fabricant qui intentionnellement:
+Est passible d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire le fabricant qui, intentionnellement:[^49-2]
 
 - a. met sur le marché des substances ou des préparations destinées à un usage dont il sait ou doit savoir qu’il met directement en danger la vie ou la santé (art. 5, al. 1);
 - b. classe, emballe ou étiquette incorrectement des substances ou des préparations (art. 5, al. 1), ou n’établit pas de fiche technique de sécurité ou y inscrit de fausses indications ou des indications incomplètes (art. 7);
@@ -642,11 +638,11 @@ Est passible de l’emprisonnement ou de l’amende jusqu’à 200 000 francs, l
 - e. enfreint des dispositions relatives aux substances et préparations (art. 19, al. 2, let. a à c, e et g);
 - f. contrevient à des mesures ordonnées en application de la clause de sauvegarde (art. 41).
 
-<sup>2</sup> La peine est l’emprisonnement pour cinq ans au plus ou une amende de 500 000 francs au plus si les délits visés à l’al. 1 ont mis des personnes gravement en danger.
+<sup>2</sup> ...[^49-3]
 
 <sup>3</sup>
 
-Est passible de l’emprisonnement ou de l’amende, celui qui intentionnellement:
+Est passible d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement:[^49-4]
 
 - a. met sur le marché des substances ou des préparations dangereuses sans informer l’acquéreur, conformément aux dispositions y relatives, de leurs propriétés et des mesures de précaution et de protection à prendre ou sans lui remettre la fiche technique de sécurité (art. 7);
 - b. enfreint son devoir de diligence lors de l’utilisation de substances ou de préparations dangereuses et met ainsi sciemment en danger la vie ou la santé d’autres personnes (art. 8, 21, 23 et 25, al. 1);
@@ -658,9 +654,16 @@ Est passible de l’emprisonnement ou de l’amende, celui qui intentionnellemen
 - h. enfreint l’obligation de garder le secret (art. 30, al. 4, 43 et 44);
 - i. contrevient à des mesures ordonnées en application de la clause de sauvegarde (art. 41).
 
-<sup>4</sup> La peine est l’emprisonnement pour cinq ans au plus ou une amende de 100 000 francs au plus si les délits visés à l’al. 3 ont mis des personnes gravement en danger.
+<sup>4</sup> L’auteur est passible d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire s’il met des personnes gravement en danger en commettant une des infractions prévues à l’al. 1 ou 3.[^49-5]
 
-<sup>5</sup> Si l’auteur a agi par négligence, la peine est l’emprisonnement pour un an au plus ou une amende de 100 000 francs au plus pour les délits visés à l’al. 1, ou l’emprisonnement pour six mois au plus ou l’amende pour les délits visés à l’al. 3.
+<sup>5</sup> Il est puni d’une peine pécuniaire s’il agit par négligence.[^49-6]
+
+[^49-1]: Nouvelle teneur selon le ch. I 31 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-2]: Nouvelle teneur selon le ch. I 31 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-3]: Abrogé par le ch. I 31 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-4]: Nouvelle teneur selon le ch. I 31 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-5]: Nouvelle teneur selon le ch. I 31 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-6]: Nouvelle teneur selon le ch. I 31 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 50
 
@@ -668,7 +671,7 @@ Est passible de l’emprisonnement ou de l’amende, celui qui intentionnellemen
 
 <sup>1</sup>
 
-Est passible des arrêts ou d’une amende de 20 000 francs au plus, celui qui intentionnellement:
+Est passible d’une amende de 20 000 francs au plus quiconque, intentionnellement:[^50-1]
 
 - a. enfreint les dispositions relatives au contrôle autonome (art. 5);
 - b. enfreint son devoir de diligence lors de l’utilisation de substances ou de préparations (art. 8, 21, 23 et 25, al. 1);
@@ -682,13 +685,20 @@ Est passible des arrêts ou d’une amende de 20 000 francs au plus, celui qui i
 
 <sup>2</sup> Si l’auteur agit par négligence, la peine est l’amende.
 
-<sup>3</sup> S’agissant d’un acte qui n’est pas punissable en vertu de l’al. 1 ou de l’art. 49, le Conseil fédéral peut réprimer les infractions aux dispositions d’exécution par les arrêts ou une amende de 20 000 francs au plus si l’auteur agit intentionnellement et par l’amende s’il agit par négligence.
+<sup>3</sup>
+
+S’agissant d’un acte qui n’est pas punissable en vertu de l’al. 1 ou de l’art. 49, le Conseil fédéral peut réprimer les infractions aux dispositions d’exécution:
+
+- a. par une amende de 20 000 francs au plus si l’auteur agit intentionnellement;
+- b. par une amende si l’auteur agit par négligence.[^50-2]
 
 <sup>4</sup> La tentative et la complicité sont punissables.
 
-<sup>5</sup> Dans les cas de très peu de gravité, l’autorité peut renoncer à engager une poursuite pénale et à infliger une peine.
+<sup>5</sup> et <sup>6</sup> ...[^50-3]
 
-<sup>6</sup> La contravention se prescrit par deux ans, la peine pour une contravention, par cinq ans.
+[^50-1]: Nouvelle teneur selon le ch. I 31 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^50-2]: Nouvelle teneur selon le ch. I 31 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^50-3]: Abrogés par le ch. I 31 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 51
 

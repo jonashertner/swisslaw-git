@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 15. Dezember 2000 über den Schutz vor gefährlichen St
 short: ChemG
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/724"
 language: de
-version: 2017-01-01
+version: 2023-07-01
 adopted: 2000-12-15
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2004-724-20170101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2004-724-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20170101/de"
 
 (Chemikaliengesetz, ChemG)
 
-vom 15. Dezember 2000 (Stand am 1. Januar 2017)
+vom 15. Dezember 2000 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -606,7 +606,7 @@ Vertrauliche Angaben dürfen an ausländische Behörden und Institutionen sowie 
 
 Der Bundesrat setzt die Gebühren für den Vollzug durch die Bundesbehörden fest. Er kann Ausnahmen von der Gebührenpflicht vorsehen.
 
-## 6. Kapitel: ...
+## 6. Kapitel: …
 
 #### Art. 48
 
@@ -614,19 +614,15 @@ Der Bundesrat setzt die Gebühren für den Vollzug durch die Bundesbehörden fes
 
 [^48-1]: Aufgehoben durch Anhang Ziff. 90 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## 7. Kapitel: Strafbestimmungen****
-
-[^chap7-1]
-
-[^chap7-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2-6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)) zu interpretieren beziehungsweise umzurechnen.
+## 7. Kapitel: Strafbestimmungen
 
 #### Art. 49
 
-**Vergehen**
+**Verbrechen und Vergehen[^49-1]**
 
 <sup>1</sup>
 
-Mit Gefängnis oder mit Busse bis zu 200 000 Franken wird bestraft, wer als Herstellerin vorsätzlich:
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer als Herstellerin vorsätzlich:[^49-2]
 
 - a. Stoffe oder Zubereitungen für eine Verwendung in Verkehr bringt, von welcher sie weiss oder wissen muss, dass diese das Leben oder die Gesundheit unmittelbar gefährdet (Art. 5 Abs. 1);
 - b. Stoffe oder Zubereitungen nicht richtig einstuft, verpackt oder kennzeichnet (Art. 5 Abs. 1) oder kein Sicherheitsdatenblatt erstellt oder darin unrichtige oder unvollständige Angaben macht (Art. 7);
@@ -642,11 +638,11 @@ Mit Gefängnis oder mit Busse bis zu 200 000 Franken wird bestraft, wer als Hers
 - e. stoffbezogene Vorschriften missachtet (Art. 19 Abs. 2 Bst. a–c, e und g);
 - f. gegen Massnahmen verstösst, die in Anwendung der Schutzklausel angeordnet worden sind (Art. 41).
 
-<sup>2</sup> Die Strafe ist Gefängnis bis zu fünf Jahren oder Busse bis zu 500 000 Franken, wenn durch Vergehen nach Absatz 1 Menschen in schwere Gefahr gebracht werden.
+<sup>2</sup> …[^49-3]
 
 <sup>3</sup>
 
-Mit Gefängnis oder mit Busse wird bestraft, wer vorsätzlich:
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:[^49-4]
 
 - a. gefährliche Stoffe oder Zubereitungen in Verkehr bringt, ohne den Abnehmer oder die Abnehmerin vorschriftsgemäss über die Eigenschaften der Stoffe oder Zubereitungen oder die erforderlichen Vorsichts- und Schutzmassnahmen zu informieren oder ohne dem Abnehmer oder der Abnehmerin ein Sicherheitsdatenblatt abzugeben (Art. 7);
 - b. die Sorgfaltspflicht beim Umgang mit gefährlichen Stoffen oder Zubereitungen verletzt und dadurch wissentlich das Leben oder die Gesundheit anderer Menschen gefährdet (Art. 8, Art. 21, Art. 23 und Art. 25 Abs. 1);
@@ -658,9 +654,16 @@ Mit Gefängnis oder mit Busse wird bestraft, wer vorsätzlich:
 - h. die Schweigepflicht verletzt (Art. 30 Abs. 4, Art. 43 und Art. 44);
 - i. gegen Massnahmen verstösst, die in Anwendung der Schutzklausel angeordnet worden sind (Art. 41).
 
-<sup>4</sup> Die Strafe ist Gefängnis bis zu fünf Jahren oder Busse bis zu 100 000 Franken, wenn durch Vergehen nach Absatz 3 Menschen in schwere Gefahr gebracht werden.
+<sup>4</sup> Die Strafe ist Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe, wenn durch eine Handlung nach Absatz 1 oder 3 Menschen in schwere Gefahr gebracht werden.[^49-5]
 
-<sup>5</sup> Wer fahrlässig handelt, wird mit Gefängnis bis zu einem Jahr oder mit Busse bis zu 100 000 Franken für Vergehen nach Absatz 1 beziehungsweise mit Gefängnis bis zu sechs Monaten oder mit Busse für Vergehen nach Absatz 3 bestraft.
+<sup>5</sup> Wer fahrlässig handelt, wird mit Geldstrafe bestraft.[^49-6]
+
+[^49-1]: Fassung gemäss Ziff. I 31 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-2]: Fassung gemäss Ziff. I 31 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-3]: Aufgehoben durch Ziff. I 31 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-4]: Fassung gemäss Ziff. I 31 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-5]: Fassung gemäss Ziff. I 31 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-6]: Fassung gemäss Ziff. I 31 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 50
 
@@ -668,7 +671,7 @@ Mit Gefängnis oder mit Busse wird bestraft, wer vorsätzlich:
 
 <sup>1</sup>
 
-Mit Haft oder mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:
+Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:[^50-1]
 
 - a. Vorschriften über die Selbstkontrolle verletzt (Art. 5);
 - b. die Sorgfaltspflicht beim Umgang mit Stoffen oder Zubereitungen verletzt (Art. 8, Art. 21, Art. 23 und Art. 25 Abs. 1);
@@ -682,13 +685,20 @@ Mit Haft oder mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>2</sup> Wer fahrlässig handelt, wird mit Busse bestraft.
 
-<sup>3</sup> Soweit nicht eine strafbare Handlung nach Absatz 1 oder Artikel 49 vorliegt, kann der Bundesrat für Widerhandlungen gegen seine Ausführungsbestimmungen Haft oder Busse bis zu 20 000 Franken bei vorsätzlicher Begehung beziehungsweise Busse bei fahrlässiger Begehung androhen.
+<sup>3</sup>
+
+Soweit nicht eine strafbare Handlung nach Absatz 1 oder nach Artikel 49 vorliegt, kann der Bundesrat für Widerhandlungen gegen seine Ausführungsbestimmungen androhen:
+
+- a. Busse bis zu 20 000 Franken bei vorsätzlicher Begehung;
+- b. Busse bei fahrlässiger Begehung.[^50-2]
 
 <sup>4</sup> Versuch und Gehilfenschaft sind strafbar.
 
-<sup>5</sup> In besonders leichten Fällen kann auf Strafverfolgung und Bestrafung verzichtet werden.
+<sup>5</sup> und <sup>6</sup> …[^50-3]
 
-<sup>6</sup> Eine Übertretung verjährt in zwei Jahren, die Strafe einer Übertretung in fünf Jahren.
+[^50-1]: Fassung gemäss Ziff. I 31 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^50-2]: Fassung gemäss Ziff. I 31 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^50-3]: Aufgehoben durch Ziff. I 31 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 51
 
@@ -728,7 +738,7 @@ Die Aufhebung und die Änderung bisherigen Rechts wird im Anhang geregelt.
 
 <sup>5</sup> Der Bundesrat bestimmt, wie weit und bis zu welchem Zeitpunkt die nach bisherigem Recht erteilten Bewilligungen für den Verkehr mit Giften dazu berechtigen, mit gefährlichen Stoffen und Zubereitungen umzugehen.
 
-[^54-1]: [[AS 1972 430](https://fedlex.data.admin.ch/eli/oc/1972/430_435_360), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 541, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 10, [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)Art. 66 Ziff. 4, [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 41, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 403, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 4, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 7]
+[^54-1]: [[AS 1972 430](https://fedlex.data.admin.ch/eli/oc/1972/430_435_360); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 541; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 10; [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)Art. 66 Ziff. 4; [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 41; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 403; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 4; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 7]
 
 #### Art. 55
 
@@ -755,7 +765,7 @@ II
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1972 430](https://fedlex.data.admin.ch/eli/oc/1972/430_435_360), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 541, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 10, [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)Art. 66 Ziff. 4, [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 41, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 403, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 4, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 7]
+[^annexu1-lvlu1-1]: [[AS 1972 430](https://fedlex.data.admin.ch/eli/oc/1972/430_435_360); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 541; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 10; [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)Art. 66 Ziff. 4; [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 41; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 403; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 4; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 7]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)konsultiert werden.

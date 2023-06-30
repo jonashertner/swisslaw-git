@@ -4,11 +4,11 @@ title: "Legge federale del 15 dicembre 2000 sulla protezione contro le sostanze 
 short: LPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/724"
 language: it
-version: 2017-01-01
+version: 2023-07-01
 adopted: 2000-12-15
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2004-724-20170101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2004-724-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20170101/it"
 
 (Legge sui prodotti chimici, LPChim)
 
-del 15 dicembre 2000 (Stato 1° gennaio 2017)
+del 15 dicembre 2000 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -445,7 +445,7 @@ Coordina le misure esecutive dei Cantoni, sempre che vi sia un interesse ad un�
 - c. in situazioni straordinarie ordinare ai Cantoni di adottare determinate misure esecutive;
 - d.[^33-1] promuovere la formazione e la formazione continua delle autorità d’esecuzione.
 
-[^33-1]: Nuovo testo giusta il n. 30 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^33-1]: Nuovo testo giusta l’all. n. 30 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 34
 
@@ -612,21 +612,17 @@ Il Consiglio federale stabilisce le tasse per l’esecuzione da parte delle auto
 
 [^48-1]
 
-[^48-1]: Abrogato dal n. 90 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^48-1]: Abrogato dall’all. n. 90 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Capitolo 7: Disposizioni penali****
-
-[^chap7-1]
-
-[^chap7-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2 – 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+## Capitolo 7: Disposizioni penali
 
 #### Art. 49
 
-**Delitti**
+**Crimini e delitti[^49-1]**
 
 <sup>1</sup>
 
-È punito con la detenzione o la multa fino a 200 000 franchi il fabbricante che intenzionalmente:
+È punito con una pena detentiva fino a tre anni o con una pena pecuniaria il fabbri-cante che intenzionalmente:[^49-2]
 
 - a. immette sul mercato sostanze o preparati per determinati impieghi di cui sa o deve sapere che mettono direttamente in pericolo la vita e la salute (art. 5 cpv. 1);
 - b. non classifica, imballa o caratterizza correttamente sostanze o preparati (art. 5 cpv. 1), oppure non redige alcuna scheda tecnica di sicurezza oppure vi iscrive dati falsi o incompleti (art. 7);
@@ -642,11 +638,11 @@ Il Consiglio federale stabilisce le tasse per l’esecuzione da parte delle auto
 - e. viola prescrizioni relative a sostanze (art. 19 cpv. 2 lett. a–c, e, g);
 - f. contravviene a misure ordinate in applicazione della clausola di salvaguardia (art. 41).
 
-<sup>2</sup> Qualora da delitti di cui al capoverso 1 risulti un grave pericolo per gli esseri umani la pena è la detenzione fino a cinque anni o la multa fino a 500 000 franchi.
+<sup>2</sup> ...[^49-3]
 
 <sup>3</sup>
 
-È punito con la detenzione o con la multa chiunque intenzionalmente:
+È punito con una pena detentiva fino a tre anni o con una pena pecuniaria chiunque intenzionalmente:[^49-4]
 
 - a. immette sul mercato sostanze o preparati pericolosi senza informare conformemente alle prescrizioni l’acquirente in merito alle loro proprietà o alle misure preventive e di protezione oppure senza fornirgli una scheda tecnica di sicurezza (art. 7);
 - b. viola l’obbligo di diligenza nell’utilizzare sostanze o preparati pericolosi mettendo consapevolmente in pericolo la vita o la salute di altre persone (art. 8, 21, 23 e 25 cpv. 1);
@@ -658,9 +654,16 @@ Il Consiglio federale stabilisce le tasse per l’esecuzione da parte delle auto
 - h. viola l’obbligo del segreto (art. 30 cpv. 4, 43 e 44);
 - i. contravviene a misure ordinate in applicazione della clausola di salvaguardia (art. 41).
 
-<sup>4</sup> Qualora da un delitto di cui al capoverso 3 risulti un grave pericolo per esseri umani la pena è la detenzione fino a cinque anni o la multa fino a 100 000 franchi.
+<sup>4</sup> Qualora da reati di cui al capoverso 1 o 3 risulti un grave pericolo per esseri umani la pena è una pena detentiva fino a dieci anni o una pena pecuniaria.[^49-5]
 
-<sup>5</sup> Se il colpevole ha agito per negligenza la pena è la detenzione fino ad un anno o la multa fino a 100 000 franchi per i delitti di cui al capoverso 1, oppure la detenzione fino a sei mesi o la multa per i delitti di cui al capoverso 3.
+<sup>5</sup> Se il colpevole ha agito per negligenza, la pena è una pena pecuniaria.[^49-6]
+
+[^49-1]: Nuovo testo giusta il n. I 31 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-2]: Nuovo testo giusta il n. I 31 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-3]: Abrogato dal n. I 31 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-4]: Nuovo testo giusta il n. I 31 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-5]: Nuovo testo giusta il n. I 31 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-6]: Nuovo testo giusta il n. I 31 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 50
 
@@ -668,7 +671,7 @@ Il Consiglio federale stabilisce le tasse per l’esecuzione da parte delle auto
 
 <sup>1</sup>
 
-È punito con l’arresto o la multa fino a 20 000 franchi chiunque intenzionalmente:
+È punito con la multa fino a 20 000 franchi chiunque intenzionalmente:[^50-1]
 
 - a. viola prescrizioni relative al controllo autonomo (art. 5);
 - b. viola l’obbligo di diligenza nell’utilizzare sostanze o preparati (art. 8, 21, 23 e 25 cpv. 1);
@@ -682,13 +685,20 @@ Il Consiglio federale stabilisce le tasse per l’esecuzione da parte delle auto
 
 <sup>2</sup> Se il colpevole ha agito per negligenza la pena è la multa.
 
-<sup>3</sup> Sempre che non sia stato commesso un reato di cui al capoverso 1 o all’articolo 49, per infrazioni di sue prescrizioni esecutive il Consiglio federale può comminare l’arresto o la multa fino a 20 000 franchi se il reato è intenzionale e la multa se il colpevole ha agito per negligenza.
+<sup>3</sup>
+
+Sempre che non sia stato commesso un reato di cui al capoverso 1 o all’articolo 49, per infrazioni di sue prescrizioni esecutive il Consiglio federale può comminare:
+
+- a. la multa fino a 20 000 franchi se il reato è intenzionale;
+- b. la multa se il colpevole ha agito per negligenza.[^50-2]
 
 <sup>4</sup> Il tentativo e la complicità sono punibili.
 
-<sup>5</sup> In casi di esigua gravità si può rinunciare al perseguimento penale e ad infliggere una pena.
+<sup>5</sup> e <sup>6</sup> ...[^50-3]
 
-<sup>6</sup> La contravvenzione si prescrive in due anni, la pena per una contravvenzione in cinque.
+[^50-1]: Nuovo testo giusta il n. I 31 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^50-2]: Nuovo testo giusta il n. I 31 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^50-3]: Abrogati dal n. I 31 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 51
 
@@ -728,7 +738,7 @@ Il diritto vigente è modificato e abrogato conformemente all’allegato.
 
 <sup>5</sup> Il Consiglio federale stabilisce in che misura e fino a quando le autorizzazioni di commerciare con veleni rilasciate secondo il previgente diritto permettono ai loro titolari di utilizzare sostanze e preparati pericolosi.
 
-[^54-1]: [[RU 1972 360](https://fedlex.data.admin.ch/eli/oc/1972/430_435_360), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249), [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 10, [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)art. 66 n. 4, [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)II 403, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 4, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 7. [RU 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. I]
+[^54-1]: [[RU 1972 360](https://fedlex.data.admin.ch/eli/oc/1972/430_435_360); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249); [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 10; [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)art. 66 n. 4; [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)II, 403; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 4; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 7. [RU 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. I]
 
 #### Art. 55
 
@@ -757,5 +767,5 @@ Le leggi federali qui appresso sono modificate come segue:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RU 1972 360](https://fedlex.data.admin.ch/eli/oc/1972/430_435_360), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 541, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 10, [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)art. 66 n. 4, [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)n. I 41, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 403, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 4, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 7]
+[^annexu1-lvlu1-1]: [[RU 1972 360](https://fedlex.data.admin.ch/eli/oc/1972/430_435_360); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I, 541; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 10; [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)art. 66 n. 4; [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)n. I 41; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 403; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 4; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 7]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla RU**2004** 4763.

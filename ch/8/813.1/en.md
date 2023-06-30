@@ -4,11 +4,11 @@ title: "Federal Act of 15 December 2000 on Protection against Dangerous Substanc
 short: ChemA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/724"
 language: en
-version: 2017-01-01
+version: 2023-07-01
 adopted: 2000-12-15
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20170101/en/xml/fedlex-data-admin-ch-eli-cc-2004-724-20170101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20170101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/724/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2004-724-20230701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/724/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemicals Act, ChemA)
 
-of 15 December 2000 (Status as of 1 January 2017)
+of 15 December 2000 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -616,7 +616,7 @@ The Federal Council shall set the Fees to be levied for enforcement by the feder
 
 [^48-1]: Repealed by Annex No 90 of the Federal Administrative Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); BBl **2004** 4202).
 
-## Chapter 7 Criminal Provisions****
+## Chapter 7 Criminal Provisions
 
 [^chap7-1]
 
@@ -624,11 +624,11 @@ The Federal Council shall set the Fees to be levied for enforcement by the feder
 
 #### Art. 49
 
-**Misdemeanours**
+**Felonies and misdemeanours**
 
-<sup>1</sup>
+<sup>1</sup> shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^49-1]
 
-A penalty of imprisonment or a fine of up to 200,000 Swiss francs shall be imposed on manufacturers who wilfully:
+Manufacturers who wilfully:
 
 - a. place substances or preparations on the market for a use that poses an immediate threat to life or health, if they are aware or should be aware of this fact (Art. 5 para. 1);
 - b. fail to correctly classify, package or label substances or preparations (Art. 5 para. 1), fail to produce a safety data sheet, or include inaccurate or incomplete information in such a sheet (Art. 7);
@@ -642,13 +642,13 @@ A penalty of imprisonment or a fine of up to 200,000 Swiss francs shall be impos
 
 - d. withhold information on substances or preparations from, or give false information to, the authorities responsible (Art. 9 para. 3, Art. 10 para. 4, Art. 11 para. 2, Art. 15 para. 2, Art. 16 para. 1, Art. 17, Art. 30 para. 3 and Art. 42 para. 2);
 - e. infringe regulations concerning substances (Art. 19 para. 2 let. a–c, e and g);
-- f. contravene measures ordered pursuant to the safeguard clause (Art. 41).
+- f. contravene measures ordered pursuant to the safeguard clause (Art. 41)
 
-<sup>2</sup> The penalty shall be imprisonment of up to five years or a fine of up to 500,000 Swiss francs if human life is severely endangered as a result of the offences specified in paragraph 1.
+<sup>2</sup> …[^49-2]
 
 <sup>3</sup>
 
-A penalty of imprisonment or a fine shall be imposed on anyone who wilfully:
+Any person who wilfully:
 
 - a. places dangerous substances or preparations on the market without duly informing the purchaser about the properties thereof or the appropriate precautions and protective measures, or without supplying the purchaser with a safety data sheet (Art. 7);
 - b. breaches the duty of care in the handling of dangerous substances and thereby knowingly endangers human life or health (Art. 8, Art. 21, Art. 23 and Art. 25 para. 1);
@@ -658,19 +658,26 @@ A penalty of imprisonment or a fine shall be imposed on anyone who wilfully:
 - f. handles substances or preparations without due authorisation (Art. 24 para. 1);
 - g. supplies dangerous substances or preparations to unauthorised parties (Art. 19 para. 2 let. a and Art. 24 para. 1);
 - h. breaches the duty of secrecy (Art. 30 para. 4, Art. 43 and Art. 44);
-- i. contravenes measures ordered pursuant to the safeguard clause (Art. 41).
+- i. contravenes measures ordered pursuant to the safeguard clause (Art. 41),
+- [tab] shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^49-3]
 
-<sup>4</sup> The penalty shall be imprisonment of up to five years or a fine of up to 100,000 Swiss francs if human life is severely endangered as a result of the offences specified in paragraph 3.
+<sup>4</sup> If human life is severely endangered as a result of the offences specified in paragraph 3, the penalty shall be a custodial sentence not exceeding ten years or a monetary penalty.[^49-4]
 
-<sup>5</sup> In cases of negligence, the penalty shall be imprisonment of up to one year or a fine of up to 100,000 Swiss francs for offences specified in Paragraph 1 and imprisonment of up to six months or a fine for offences specified in Paragraph 3.
+<sup>5</sup> Any person who commits the foregoing offence through negligence shall be liable to a monetary penalty.[^49-5]
+
+[^49-1]: Amended by No I 31 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-2]: Repealed by No I 31 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-3]: Amended by No I 31 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-4]: Amended by No I 31 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49-5]: Amended by No I 31 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 50
 
 **Contraventions**
 
-<sup>1</sup>
+<sup>1</sup> shall be liable to a fine not exceeding 20,000 Swiss francs.[^50-1]
 
-A penalty of detention or a fine of up to 20,000 Swiss francs shall be imposed to any person who wilfully:
+Any person who wilfully:
 
 - a. infringes the provisions concerning self-regulation (Art. 5);
 - b. breaches the duty of care in the handling of substances or preparations (Art. 8, Art. 21, Art. 23 and Art. 25 para. 1);
@@ -680,17 +687,24 @@ A penalty of detention or a fine of up to 20,000 Swiss francs shall be imposed t
 - f. refuses to accept the return of dangerous substances or preparations (Art. 22 para. 1);
 - g. breaches the duty to provide information to the cantonal enforcement authorities (Art. 25 para. 2);
 - h. breaches the duty to provide information or misinforms the enforcement authorities (Art. 42 para. 2);
-- i. contravenes an injunction issued with specific reference to the sanctions of the present article.
+- i. contravenes an injunction issued with specific reference to the sanctions of the present article,
 
 <sup>2</sup> In cases of negligence, the penalty shall be a fine.
 
-<sup>3</sup> In cases where infringements of implementing regulations do not constitute an offence under paragraph 1 or Article 49, the Federal Council may impose sanctions of detention or a fine of up to 20,000 Swiss francs for wilful acts, or a fine in cases of negligence.
+<sup>3</sup>
 
-<sup>4</sup> Attempt and aiding and abetting are also offences.
+For an infringement of implementing regulations that does not constitute an offence under paragraph 1 or Article 49, the Federal Council may impose:
 
-<sup>5</sup> In particularly minor cases, prosecution and penalties may be waived.
+- a. a fine of up to 20,000 Swiss francs for wilful acts, or
+- b. a fine in cases of negligence.[^50-2]
 
-<sup>6</sup> The right to prosecute contraventions prescribes after two years, and penalties for contraventions after five years.
+<sup>4</sup> Attempts and aiding and abetting are also offences.
+
+<sup>5</sup> and <sup>6</sup> …[^50-3]
+
+[^50-1]: Amended by No I 31 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^50-2]: Amended by No I 31 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^50-3]: Repealed by No I 31 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 51
 
@@ -730,7 +744,7 @@ The repeal and amendment of existing legislation is regulated in the Annex.
 
 <sup>5</sup> The Federal Council shall determine to what extent and for how long persons licensed to deal with toxic substances under existing law are entitled to handle dangerous substances and preparations.
 
-[^54-1]: [[AS 1972 430](https://fedlex.data.admin.ch/eli/oc/1972/430_435_360), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 541, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Annex No 10, [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)Art. 66 No 4, [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 41, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 403, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Annex No 4, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 7]
+[^54-1]: [[AS 1972 430](https://fedlex.data.admin.ch/eli/oc/1972/430_435_360), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 541; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Annex No 10; [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)Art. 66 No 4; [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 41; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 403; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Annex No 4; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 7]
 
 #### Art. 55
 
@@ -760,4 +774,4 @@ The Federal Acts listed below are amended as follows:
 ...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1972 430](https://fedlex.data.admin.ch/eli/oc/1972/430_435_360), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 541, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Annex No 10, [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)Art. 66 No 4, [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 41, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 403, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Annex No 4,[1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 7]
-[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)..
+[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724).
