@@ -1,31 +1,33 @@
 ---
 canton: FR
 number: "842.1.15"
-title: "Ordonnance concernant l'application de l'article 55a de la loi fédérale sur l'assurance-maladie"
+title: "Ordonnance concernant la limitation de l'admission des médecins à pratiquer à charge de l'assurance obligatoire des soins"
 short: OLAM
 language: fr
-version: 2021-07-01
-valid_until: 2023-06-29
-version_adopted: 2021-06-15
+version: 2023-07-01
+valid_until: 2025-06-30
+version_adopted: 2023-07-06
 adopted: 2025-07-04
 in_force: 2025-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/842.1.15"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6861/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7808/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant l'application de l'article 55a de la loi fédérale sur l'assurance-maladie
+# Ordonnance concernant la limitation de l'admission des médecins à pratiquer à charge de l'assurance obligatoire des soins
 
-Application de l’art. 55a de la loi fédérale sur l’assurance-maladie - O
+Limitation de l'admission des médecins à pratiquer à charge de l'AOS – O
 
-du 23.08.2016 (version entrée en vigueur le 01.07.2021)
+(OLAM)
+
+du 06.07.2023 (version entrée en vigueur le 01.07.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
-Vu l'article 55a de la loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal);
+Vu la loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal);
 
-Vu l'ordonnance fédérale du 3 juillet 2013 sur la limitation de l'admission des fournisseurs de prestations à pratiquer à la charge de l'assurance-maladie obligatoire (OLAF);
+Vu l'ordonnance fédérale du 23 juin 2021 sur la fixation des nombres maximaux de médecins qui fournissent des prestations ambulatoires;
 
 Sur la proposition de la Direction de la santé et des affaires sociales,
 
@@ -35,76 +37,80 @@ Arrête:
 
 **But**
 
-<sup>1</sup> La présente ordonnance a pour but de fixer les modalités d'application des dispositions fédérales relatives à la limitation de l'admission des médecins à pratiquer à la charge de l'assurance-maladie obligatoire (AOS).
+<sup>1</sup> La présente ordonnance a pour but de fixer les modalités d'application de l'article 55a LAMal concernant la limitation de l'admission des médecins à pratiquer à la charge de l'assurance obligatoire des soins (ci-après: l'AOS) dans le domaine ambulatoire.
 
 #### Art. 2
 
-**Champ d'application**
+**Principes**
 
-<sup>1</sup> Sont soumis à la limitation de l'admission à pratiquer à la charge de l'AOS les médecins exerçant une activité dépendante ou indépendante au sens de l'article 36 LAMal ainsi que les médecins exerçant au sein d'une institution au sens de l'article 36a LAMal.
+<sup>1</sup> Jusqu'au 30 juin 2025, l'offre de médecins calculée conformément à l'article 2 de l'ordonnance fédérale du 23 juin 2021 sur la fixation des nombres maximaux de médecins qui fournissent des prestations ambulatoires correspond à une couverture économique répondant aux besoins au sens de l'article 9 de l'ordonnance fédérale.
 
-<sup>2</sup> Ne sont pas soumis à la limitation de l'admission à pratiquer à la charge de l'AOS:
+<sup>2</sup> Font l'objet du calcul de l'offre en vue de limiter leur admission à pratiquer à charge de l'AOS les médecins qui:
 
-- a) les médecins exclus de la limitation en vertu du droit fédéral, soit les médecins qui ont exercé pendant au moins trois ans dans un établissement suisse reconnu de formation postgrade;
-- b) les médecins exerçant à titre dépendant dans le domaine ambulatoire des hôpitaux au sens de l'article 39 LAMal;
-- c) les médecins spécialistes en anesthésiologie;
-- d) les médecins spécialistes en pathologie;
-- e) les médecins dentistes.
+- a) exercent à titre indépendant ou dépendant;
+- b) sont employés d'une institution de soins ambulatoires dispensés par des médecins selon l'article 35 al. 2 let. n LAMal; ou qui
+- c) exercent dans le domaine ambulatoire d'un hôpital.
 
 #### Art. 3
 
-**Admissions exceptionnelles – Principe**
+**Fixation du nombre maximal**
 
-<sup>1</sup> Un ou une médecin peut exceptionnellement être admis-e à pratiquer à la charge de l'AOS:
-
-- a) en cas de reprise de l'activité d'un ou d'une médecin de la même spécialité admis-e à pratiquer à la charge de l'AOS, ou
-- b) lorsque la couverture des besoins de la population dans une région et/ou dans une spécialité donnée est insuffisante.
-
-<sup>2</sup> L'admission exceptionnelle peut être assortie de conditions et charges, notamment pour des raisons d'assurance de qualité des prestations, d'intégration dans le système de santé suisse et cantonal, de sécurité des patients et patientes et de stabilisation des coûts de santé.
-
-<sup>3</sup> L'admission exceptionnelle est en règle générale limitée à une région et/ou à une spécialité.
+<sup>1</sup> Sur la base du calcul des nombres maximaux effectué conformément à l'article 2 al. 2, seuls sont concernés par la limitation d'admission les médecins au bénéfice d'un titre postgrade en radiologie, dont le nombre est limité à 60.5 équivalents plein temps.
 
 #### Art. 4
 
-**Admissions exceptionnelles – Procédure**
+**Procédure d'admission**
 
-<sup>1</sup> La demande d'admission doit être adressée au Service de la santé publique (ci-après: le Service).
+<sup>1</sup> Les demandes d'admission à pratiquer à la charge de l'AOS sont adressées au Service de la santé publique (ci-après: le Service).
 
-<sup>2</sup> Dans le cadre de l'instruction de la demande, le Service peut la soumettre à l'association professionnelle cantonale des médecins et aux associations des assureurs pour avis.
+<sup>2</sup> Dans le cadre de l'instruction de la demande, le Service peut exiger tout renseignement ou justificatif utile à l'octroi de l'admission à pratiquer à charge de l'AOS. Il peut également requérir un avis consultatif de l'association professionnelle cantonale des médecins.
 
-<sup>3</sup> Sur le préavis du Service, la Direction de la santé et des affaires sociales (ci-après: la Direction) décide de l'admission à pratiquer à la charge de l'AOS.
+<sup>3</sup> Sur le préavis du Service, la Direction de la santé et des affaires sociales (ci-après: la Direction) décide de l'admission à pratiquer à la charge de l'AOS. La décision peut être accompagnée de conditions et charges ainsi que de restrictions temporelles ou géographiques.
+
+<sup>4</sup> Les médecins concernés ne sont admis que jusqu'à concurrence du nombre maximal fixé à l'article 3.
+
+<sup>5</sup> La Direction peut exceptionnellement déroger à la limitation notamment pour des raisons d'équilibre régional ou de santé publique.
 
 #### Art. 5
 
-**Admissions exceptionnelles – Emolument**
+**Expiration de l'admission**
 
-<sup>1</sup> La décision d'admission donne lieu à la perception d'un émolument de 500 à 1000 francs.
+<sup>1</sup> Les admissions à pratiquer à la charge de l'AOS dont il n'est pas fait usage dans les 6 mois suivant la date de la délivrance deviennent caduques.
 
-#### Art. 6
-
-**Admissions exceptionnelles – Expiration des admissions**
-
-<sup>1</sup> L'admission expire lorsque le ou la médecin n'en fait pas usage dans un délai de six mois après son octroi.
-
-<sup>2</sup> Si le délai ne peut pas être respecté pour de justes motifs, en particulier en raison de maladie, de maternité ou de formation postgrade, il peut être prolongé par la Direction sur demande écrite et motivée.
+<sup>2</sup> Si ce délai ne peut pas être respecté pour de justes motifs, en particulier en raison de maladie, de maternité ou de formation, il peut être prolongé par la Direction sur demande écrite et motivée.
 
 <sup>3</sup> L'admission à pratiquer à la charge de l'AOS est caduque au moment de la cessation d'activité dans le canton.
 
+#### Art. 6
+
+**Devoir d'information**
+
+<sup>1</sup> Les médecins concernés exerçant à titre indépendant annoncent sans retard au Service tout changement concernant leur taux d'activité ou la cessation de leur activité en indiquant leur taux d'activité.
+
+<sup>2</sup> Les institutions de soins ambulatoires concernées et les hôpitaux annoncent sans retard au Service:
+
+- a) tout changement concernant le taux d'activité de leurs médecins;
+- b) l'engagement et le départ de médecins, en indiquant leur taux d'activité.
+
 #### Art. 7
 
-**Dispositions transitoires**
+**Emoluments**
 
-<sup>1</sup> Ne tombent pas sous le coup de la limitation d'admission:
-
-- a) les médecins qui ont été admis en vertu de l'article 36 LAMal et ont pratiqué dans leur propre cabinet à la charge de l'assurance obligatoire des soins avant le 1<sup>er</sup> juillet 2016;
-- b) les médecins qui ont exercé au sein d'une institution au sens de l'article 36a LAMal avant le 1<sup>er</sup> juillet 2016, à la condition qu'ils continuent d'exercer au sein de la même institution.
+<sup>1</sup> Les décisions d'admission donnent lieu à la perception d'un émolument de 500 à 1000 francs.
 
 #### Art. 8
 
-**Entrée en vigueur et durée**
+**Disposition transitoire**
 
-<sup>1</sup> La présente ordonnance entre en vigueur avec effet rétroactif au 1<sup>er</sup> juillet 2016 et porte effet jusqu'au 30 juin 2023.
+<sup>1</sup> Peuvent continuer de pratiquer conformément à l'article 55a al. 5 LAMal:
 
-<sup>2</sup> …
+- a) les médecins qui ont été admis à pratiquer et qui ont fourni des prestations ambulatoires à la charge de l'assurance obligatoire des soins avant l'entrée en vigueur de la présente ordonnance;
+- b) les médecins qui exerçaient dans le domaine ambulatoire d'un hôpital ou dans une institution visée à l'article 35 al. 2 let. n LAMal, avant l'entrée en vigueur de la présente ordonnance, s'ils poursuivent leur activité dans le domaine ambulatoire du même hôpital ou dans la même institution.
 
-2016\_105
+#### Art. 9
+
+**Durée de validité**
+
+<sup>1</sup> La présente ordonnance porte effet jusqu'au 30 juin 2025.
+
+2023\_063
