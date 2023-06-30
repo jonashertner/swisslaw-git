@@ -4,11 +4,11 @@ title: Procédure pénale militaire du 23 mars 1979 (PPM)
 short: PPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: fr
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230101/fr"
 
 (PPM)
 
-du 23 mars 1979 (État le 1<sup>er</sup> janvier 2023)
+du 23 mars 1979 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -885,12 +885,12 @@ Le juge d’instruction peut ordonner la surveillance de la correspondance par p
 - b. cette mesure se justifie au regard de la gravité de l’infraction;
 - c. les mesures prises jusqu’alors dans le cadre de l’instruction sont restées sans succès ou les recherches n’auraient aucune chance d’aboutir ou seraient excessivement difficiles en l’absence de surveillance.
 
-<sup>2</sup> Une surveillance peut être ordonnée aux fins de poursuivre les infractions visées aux articles du CPM[^70-1] énumérés ci-après: art. 86, 86*a*, 103, ch. 1, 106, al. 1 et 2, 108 à 114*a*, 115, 116, 121, 130 à 132, 134, al. 3, 135, al. 1, 2 et 4, 137*a*, 137*b*, 141, 142, 151*a* à 151*d*, 155, 156, 160, al. 1 et 2, 161, ch. 1, 162, 164 à 169, 169*a*, ch. 1, 170, al. 1, 171*b*, 172 et 177.[^70-2]
+<sup>2</sup> Une surveillance peut être ordonnée aux fins de poursuivre les infractions visées aux articles du CPM[^70-1] énumérés ci-après: art. 86, 86*a*, 103, ch. 1, 106, al. 1 et 2, 108 à 114*a*, 115, 116, 121, 130 à 132, 134, al. 3, 135, al. 1 et 4, 137*a*, 137*b*, 141, 142, 151*a* à 151*d*, 155, 156, 160, al. 1 et 2, 161, ch. 1, 162, 164 à 169, 169*a*, ch. 1, 171*b*, 172, ch. 1, et 177.[^70-2]
 
 <sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction civile est délégué à une juridiction militaire, la surveillance de la correspondance par poste et télécommunication peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 269, al. 2, du code de procédure pénale du 5 octobre 2007 (CPP)[^70-3].
 
 [^70-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^70-2]: Nouvelle teneur selon l’annexe 2 ch. 4 de l’AF du 18 déc. 2015 portant approbation et mise en œuvre de la Conv. internationale pour la protection de toutes les personnes contre les disparitions forcées, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [FF 2014 437](https://fedlex.data.admin.ch/eli/fga/2014/95)).
+[^70-2]: Nouvelle teneur selon le ch. I 14 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^70-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 70<sup>bis</sup>
@@ -1189,13 +1189,15 @@ Il y a investigation secrète lorsque des membres d’un corps de police ou des 
 
 Le juge d’instruction peut ordonner une investigation secrète aux conditions suivantes:
 
-- a. des soupçons laissent présumer qu’une des infractions visées à l’art. 70, al. 2, a été commise;
+- a.[^73a-1] des soupçons laissent présumer qu’une des infractions visées aux articles du CPM[^73a-2] énumérés ci-après a été commise: art. 86, 86*a*, 87, 89, al. 1, 91, 93, ch. 2, 102, 106, al. 1 et 2, 108 à 114*a*, 115 à 117, 121, 130, 131, ch. 1 à 4, 132, 134, al. 3, 135, al. 1 et 4, 137*a*, 137*b*, 141, 142, 151*a* à 151*d*, 153 à 155, 156, 160, al. 1 et 2, 161, ch. 1, 162, al. 1 et 3, 165, ch. 1, par. 1 et 3, 166, ch. 1, par. 1 à 4, 167, 168, ch. 1, 169, al. 1, 169*a*, ch. 1 et 2, 171*b*, 172, ch. 1, et 177;
 - b. cette mesure se justifie au regard de la gravité de l’infraction;
 - c. les autres actes d’instruction accomplis jusqu’alors n’ont pas abouti ou les recherches, à défaut de l’investigation secrète, n’auraient aucune chance d’aboutir ou seraient excessivement difficiles.
 
-<sup>2</sup> Lorsque le jugement d’une infraction relevant d’une juridiction civile est délégué à une juridiction militaire, une investigation secrète peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 286, al. 2, CPP[^73a-1].
+<sup>2</sup> Lorsque le jugement d’une infraction relevant d’une juridiction civile est délégué à une juridiction militaire, une investigation secrète peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 286, al. 2, CPP[^73a-3].
 
-[^73a-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^73a-1]: Nouvelle teneur selon l’annexe 2 ch. 3/2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^73a-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^73a-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 73b
 

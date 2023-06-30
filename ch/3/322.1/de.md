@@ -4,11 +4,11 @@ title: Militärstrafprozess vom 23. März 1979 (MStP)
 short: MStP
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: de
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230101/de"
 
 (MStP)
 
-vom 23. März 1979 (Stand am 1. Januar 2023)
+vom 23. März 1979 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -886,12 +886,12 @@ Der Untersuchungsrichter kann den Post- und den Fernmeldeverkehr überwachen las
 - b. die Schwere der Straftat die Überwachung rechtfertigt; und
 - c. die bisherigen Untersuchungshandlungen erfolglos geblieben sind oder die Ermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.
 
-<sup>2</sup> Die Überwachung kann zur Verfolgung der in den folgenden Artikeln des MStG[^70-1] aufgeführten Straftaten angeordnet werden: Artikel 86, 86*a*, 103 Ziffer 1, 106 Absätze 1 und 2, 108–114*a*, 115, 116, 121, 130–132, 134 Absatz 3, 135 Absätze 1, 2 und 4, 137*a*, 137*b*, 141, 142, 151*a*–151*d*, 155, 156, 160 Absätze 1 und 2, 161 Ziffer 1, 162, 164–169, 169*a* Ziffer 1, 170 Absatz 1, 171*b*, 172 und 177.[^70-2]
+<sup>2</sup> Die Überwachung kann zur Verfolgung der in den folgenden Artikeln des MStG[^70-1] aufgeführten Straftaten angeordnet werden: Artikel 86, 86*a*, 103 Ziffer 1, 106 Absätze 1 und 2, 108–114*a*, 115, 116, 121, 130–132, 134 Absatz 3, 135 Absätze 1 und 4, 137*a*, 137*b*, 141, 142, 151*a*–151*d*, 155, 156, 160 Absätze 1 und 2, 161 Ziffer 1, 162, 164–169, 169*a* Ziffer 1, 171*b*, 172 Ziffer 1 und 177.[^70-2]
 
 <sup>3</sup> Wird die Beurteilung einer der zivilen Gerichtsbarkeit unterstehenden Straftat der militärischen Gerichtsbarkeit übertragen, so kann die Überwachung des Post- und Fernmeldeverkehrs auch zur Verfolgung der in Artikel 269 Absatz 2 der Strafprozessordnung vom 5. Oktober 2007[^70-3] (StPO) aufgeführten Straftaten angeordnet werden.
 
 [^70-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^70-2]: Fassung gemäss Anhang 2 Ziff. 4 des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Internationalen Übereinkommens zum Schutz aller Personen vor dem Verschwindenlassen, in Kraft seit 1. Jan. 2017 ([AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [BBl 2014 453](https://fedlex.data.admin.ch/eli/fga/2014/95)).
+[^70-2]: Fassung gemäss Ziff. I 14 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^70-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 70<sup>bis</sup>
@@ -1188,13 +1188,15 @@ Verdeckte Ermittlung liegt vor, wenn Angehörige der Polizei oder Personen, die 
 
 Der Untersuchungsrichter kann eine verdeckte Ermittlung anordnen, wenn:
 
-- a. der Verdacht besteht, eine in Artikel 70 Absatz 2 genannte Straftat sei begangen worden;
+- a.[^73a-1] der Verdacht besteht, eine der in den folgenden Artikeln des MStG[^73a-2] aufgeführte Straftat sei begangen worden: Artikel 86, 86*a*, 87, 89 Absatz 1, 91, 93 Ziffer 2, 102, 106 Absätze 1 und 2, 108–114*a*, 115–117, 121, 130, 131 Ziffern 1–4, 132, 134 Absatz 3, 135 Absätze 1 und 4, 137*a*, 137*b*, 141, 142, 151*a*–151*d*, 153–155, 156, 160 Absätze 1 und 2, 161 Ziffer 1, 162 Absätze 1 und 3, 165 Ziffer 1 Absätze 1 und 3, 166 Ziffer 1 Absätze 1–4, 167, 168 Ziffer 1, 169 Absatz 1, 169*a* Ziffer 1 und 2, 171*b*, 172 Ziffer 1 und 177;
 - b. die Schwere der Straftat die verdeckte Ermittlung rechtfertigt; und
 - c. die bisherigen Untersuchungshandlungen erfolglos geblieben sind oder die Ermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.
 
-<sup>2</sup> Wird die Beurteilung einer der zivilen Gerichtsbarkeit unterstehenden strafbaren Handlung der militärischen Gerichtsbarkeit übertragen, so kann die Überwachung mit technischen Überwachungsgeräten auch zur Verfolgung der in Artikel 286 Absatz 2 StPO[^73a-1] aufgeführten Straftaten angeordnet werden.
+<sup>2</sup> Wird die Beurteilung einer der zivilen Gerichtsbarkeit unterstehenden strafbaren Handlung der militärischen Gerichtsbarkeit übertragen, so kann die Überwachung mit technischen Überwachungsgeräten auch zur Verfolgung der in Artikel 286 Absatz 2 StPO[^73a-3] aufgeführten Straftaten angeordnet werden.
 
-[^73a-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^73a-1]: Fassung gemäss Anhang 2 Ziff. 3/2 des BG vom 17. Juni 2022, in Kraft seit 1. Juli 2023 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^73a-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^73a-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 73b
 

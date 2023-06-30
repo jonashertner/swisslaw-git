@@ -4,11 +4,11 @@ title: Procedura penale militare del 23 marzo 1979 (PPM)
 short: PPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: it
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230101/it"
 
 (PPM)
 
-del 23 marzo 1979 (Stato 1° gennaio 2023)
+del 23 marzo 1979 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -886,12 +886,12 @@ Il giudice istruttore può disporre la sorveglianza della corrispondenza postale
 - b. la gravità del reato giustifica la sorveglianza; e
 - c. le operazioni d’inchiesta già svolte non hanno dato esito positivo oppure se altrimenti le indagini risulterebbero vane o eccessivamente difficili.
 
-<sup>2</sup> La sorveglianza può essere disposta per perseguire i reati di cui alle disposizioni seguenti del CPM[^70-1]: articoli 86, 86*a*, 103 numero 1, 106 capoversi 1 e 2, 108–114*a*, 115, 116, 121, 130–132, 134 capoverso 3, 135 capoversi 1, 2 e 4, 137*a*, 137*b*, 141, 142, 151*a*–151*d*, 155, 156, 160 capoversi 1 e 2, 161 numero 1, 162, 164–169, 169*a* numero 1, 170 capoverso 1, 171*b*, 172 e 177.[^70-2]
+<sup>2</sup> La sorveglianza può essere disposta per perseguire i reati di cui alle disposizioni seguenti del CPM[^70-1]: articoli 86, 86*a*, 103 numero 1, 106 capoversi 1 e 2, 108–114*a*, 115, 116, 121, 130–132, 134 capoverso 3, 135 capoversi 1 e 4, 137*a*, 137*b*, 141, 142, 151*a*–151*d*, 155, 156, 160 capoversi 1 e 2, 161 numero 1, 162, 164–169, 169*a* numero 1, 171*b*, 172 numero 1 e 177.[^70-2]
 
 <sup>3</sup> Se il giudizio di un reato che sottostà alla giurisdizione ordinaria è deferito alla giurisdizione militare, la sorveglianza può inoltre essere disposta per perseguire i reati di cui all’articolo 269 capoverso 2 del Codice di procedura penale del 5 ottobre 2007[^70-3] (CPP).
 
 [^70-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^70-2]: Nuovo testo giusta l’all. 2 n. 4 del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione internazionale per la protezione di tutte le persone dalla sparizione forzata, in vigore dal 1° gen. 2017 ([RU 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [FF 2014 417](https://fedlex.data.admin.ch/eli/fga/2014/95)).
+[^70-2]: Nuovo testo giusta il n. I 14 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^70-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 70<sup>bis</sup>
@@ -1190,13 +1190,15 @@ Per inchiesta mascherata s’intende un’operazione nella quale gli agenti di p
 
 Il giudice istruttore può disporre un’inchiesta mascherata se:
 
-- a. sussiste il sospetto che sia stato commesso un reato di cui all’articolo 70 capoverso 2;
+- a.[^73a-1] sussiste il sospetto che sia stato commesso un reato di cui ai seguenti articoli del CPM[^73a-2]: articoli 86, 86*a*, 87, 89 capoverso 1, 91, 93 numero 2, 102, 106 capoversi 1 e 2, 108–114*a*, 115–117, 121, 130, 131 numeri 1–4, 132, 134 capoverso 3, 135 capoversi 1 e 4, 137*a*, 137*b*, 141, 142, 151*a*–151*d*, 153–155, 156, 160 capoversi 1 e 2, 161 numero 1, 162 capoversi 1 e 3, 165 numero 1 primo e terzo comma, 166 numero 1 dal primo al quarto comma, 167, 168 numero 1, 169 capoverso 1, 169*a* numeri 1 e 2, 171*b*, 172 numero 1 e 177;
 - b. la gravità del reato giustifica l’inchiesta mascherata; e
 - c. le operazioni d’inchiesta già svolte non hanno dato esito positivo oppure se altrimenti le indagini risulterebbero vane o eccessivamente difficili.
 
-<sup>2</sup> Se il giudizio di un reato che sottostà alla giurisdizione ordinaria è deferito alla giurisdizione militare, l’inchiesta mascherata può inoltre essere disposta per perseguire i reati di cui all’articolo 286 capoverso 2 CPP[^73a-1].
+<sup>2</sup> Se il giudizio di un reato che sottostà alla giurisdizione ordinaria è deferito alla giurisdizione militare, l’inchiesta mascherata può inoltre essere disposta per perseguire i reati di cui all’articolo 286 capoverso 2 CPP[^73a-3].
 
-[^73a-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^73a-1]: Nuovo testo giusta l’all. 2 n. 3/2 della LF del 17 giu. 2022, in vigore dal 1° lug. 2023 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+[^73a-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^73a-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 73b
 
