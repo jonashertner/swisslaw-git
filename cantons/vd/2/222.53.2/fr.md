@@ -4,13 +4,13 @@ number: "222.53.2"
 title: "ARRÊTÉ du 27.07.1994 établissant un contrat-type de vignolage pour les districts d'Aigle, de Riviera-Pays d'Enhaut et de Lavaux-Oron (ACTT-vavl)"
 short: ACTT-vavl
 language: fr
-version: 1994-11-01
+version: 2023-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/222.53.2?id=4730f730-449f-477c-9852-6a2ff4624b9f"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
-# ARRÊTÉ établissant un contrat-type de vignolage pour les districts d'Aigle, de Vevey et de Lavaux
+# ARRÊTÉ établissant un contrat-type de vignolage pour les districts d'Aigle, de Riviera-Pays d'Enhaut et de Lavaux-Oron
 
 (ACTT-vavl)
 
@@ -34,7 +34,9 @@ arrête
 
 **Champ d'application [^t-1]**
 
-<sup>1</sup> Le présent contrat-type de vignolage régit les relations entre les propriétaires de vignes situées dans les districts d'Aigle, de Vevey et de Lavaux et leurs vignerons-tâcherons.
+<sup>1</sup> Le présent contrat-type de vignolage régit les relations entre les propriétaires de vignes situées dans les districts d'Aigle, de Riviera-Pays d'Enhaut et de Lavaux-Oron et leurs vignerons-tâcherons.
+
+<sup>2</sup> Les autres ayants-droits sur des vignes, notamment à titre de locataire, de fermier ou d'usufruitier, sont assimilés aux propriétaires de vignes au sein du présent contrat-type, lequel régit donc leurs relations avec les vignerons-tâcherons dans les districts susmentionnés.
 
 [^t-1]: Modif. 1 du 14.06.2023: Modification Al. 1; entrée en vigueur au 01.07.2023; Introduction Al. 2; entrée en vigueur au 01.07.2023
 
@@ -195,9 +197,9 @@ Pourcentage selon les régions d'appellation: Dézaley = 8 % Saint-Saphorin = 9 
 
 **Contribution aux cotisations d'une assurance pour perte de gain en cas de maladie [^14-2]**
 
-<sup>1</sup> Le propriétaire participe au paiement de la prime d'assurance-maladie couvrant l'indemnité journalière destinée à compenser la perte de gain, pour autant que le vigneron-tâcheron soit effectivement assuré pour ce risque. Cette participation est fixée en pourcentage, selon le barème de calculation des charges sociales recommandé par le Groupement des propriétaires de vignes des districts d'Aigle, de Vevey et de Lavaux et le Groupement vaudois des vignerons-tâcherons.
+<sup>1</sup> Le propriétaire participe au paiement de la prime d'assurance-maladie couvrant l'indemnité journalière destinée à compenser la perte de gain, pour autant que le vigneron-tâcheron soit effectivement assuré pour ce risque. Cette participation est fixée en pourcentage, selon le barème de calculation des charges sociales recommandé par le Groupement des propriétaires de vignes des districts d'Aigle, de Riviera-Pays d'Enhaut et de Lavaux-Oron et le Groupement vaudois des vignerons-tâcherons.
 
-[^14-2]: Modif. 1 du 14.06.2023: Introduction Art. 1, Al. 2; entrée en vigueur au 01.07.2023; Modification Al. 1; entrée en vigueur au 01.07.2023
+[^14-2]: Modif. 1 du 14.06.2023: Modification Al. 1; entrée en vigueur au 01.07.2023
 
 #### Art. 16
 
@@ -209,9 +211,9 @@ Pourcentage selon les régions d'appellation: Dézaley = 8 % Saint-Saphorin = 9 
 
 **Renchérissement [^16-1]**
 
-<sup>1</sup> Le Groupement des vignerons-tâcherons et le Groupement des propriétaires de vignes des districts d'Aigle, de Vevey et de Lavaux se réunissent chaque année en septembre pour discuter de l'adaptation du présent contrat-type, compte tenu de la variation du coût de la vie et des circonstances économiques.
+<sup>1</sup> Le Groupement des vignerons-tâcherons et le Groupement des propriétaires de vignes des districts d'Aigle, de Riviera-Pays d'Enhaut et de Lavaux-Oron se réunissent chaque année en septembre pour discuter de l'adaptation du présent contrat-type, compte tenu de la variation du coût de la vie et des circonstances économiques.
 
-[^16-1]: Modif. 1 du 14.06.2023: Introduction Art. 1, Al. 2; entrée en vigueur au 01.07.2023; Modification Al. 1; entrée en vigueur au 01.07.2023
+[^16-1]: Modif. 1 du 14.06.2023: Modification Al. 1; entrée en vigueur au 01.07.2023
 
 #### Art. 18
 
