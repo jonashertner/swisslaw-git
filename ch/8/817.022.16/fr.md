@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 concernant l'information sur les 
 short: OIDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/158"
 language: fr
-version: 2020-07-01
+version: 2023-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-158-20200701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-158-20230701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20200701/fr"
 
 (OIDAl)
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> juillet 2020)
+du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2023)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -189,16 +189,19 @@ S’il s’agit de denrées alimentaires mises sur le marché en vrac, les menti
 
 <sup>3</sup> L’utilisation d’appellations protégées des vins est régie par l’ordonnance du 14 novembre 2007 sur le vin[^7-4], l’ordonnance du DFI du 16 décembre 2016 sur les boissons [^7-5] et les législations cantonales pertinentes.
 
-**Art. 7**a*[^7-6]* Exceptions
-
-Les exceptions définies par le DFI conformément à l’art. 14, al. 2, let. b, ODAlOUs sont mentionnées à l’annexe 5*a*.
-
 [^7-1]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
 [^7-2]: [RS 232.112.2](https://fedlex.data.admin.ch/eli/cc/2015/612)
 [^7-3]: [RS 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
 [^7-4]: [RS 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
 [^7-5]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
-[^7-6]: Introduit par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+
+#### Art. 7a
+
+**Exceptions**[^7a-1]
+
+Les exceptions définies par le DFI conformément à l’art. 14, al. 2, let. b, ODAlOUs sont mentionnées à l’annexe 5*a*.
+
+[^7a-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
 
 ### Section 3 Liste des ingrédients
 
@@ -963,7 +966,7 @@ Les denrées alimentaires non conformes à la modification du 27 mai 2020 peuven
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2017.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 2 et 6, al. 1)
 
@@ -1013,7 +1016,7 @@ Annexe 1*[^t-1]*
 - 22\. *Gluten:* une fraction protéique du blé, du seigle, de l’orge, de l’avoine ou de leurs variétés croisées ainsi que les dérivés de cette fraction protéique, auxquels certaines personnes sont intolérantes et qui sont insolubles dans l’eau et dans une solution de chlorure de sodium à 0,5 M.
 - 23\. *Blé:* toutes les variétés de *Triticum*.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 3, al. 1, let. q, et al. 4)
 
@@ -1078,7 +1081,7 @@ Annexe 3
 
 ## Définition de la hauteur d’x
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20200701/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20230701/fr/xml/image/image1.png)
 
 Légende
 
@@ -1094,7 +1097,7 @@ Annexe 4
 
 (art. 5, al. 1[^t-3], let. b, ch. 2, et 15, al. 5)
 
-## Zones de pêche de la FAO****
+## Zones de pêche de la FAO
 
 [^annex4-lvlu1-1]
 
@@ -1126,7 +1129,7 @@ Annexe 4
 <tr><td>Pacifique, Antarctique</td><td>Zone FAO n<sup>o</sup> 88</td></tr>
 </table>
 
-Annexe 5*[^t-4]*
+Annexe 5[^t-4]
 
 (art. 8, al. 5)
 
@@ -1222,7 +1225,7 @@ Les ingrédients appartenant à l’une des catégories de denrées alimentaires
 - 2\.2 pour les ingrédients composés consistant en mélanges d’épices ou de plantes aromatiques qui interviennent pour moins de 2 % dans le produit fini, les art. 9, al. 2, let. a à d, pour les additifs et 10 demeurant réservés;
 - 2\.3 lorsque l’ingrédient composé est une denrée alimentaire pour laquelle la liste des ingrédients n’est pas exigée.
 
-Annexe 5a*[^t-5]*
+Annexe 5a[^t-5]
 
 (art. 7*a*)
 
@@ -1392,7 +1395,7 @@ Annexe 9
 - 20\. Les boissons alcooliques titrant plus de 1,2 % vol.
 - 21\. Les denrées alimentaires vendues en vrac
 
-Annexe 10*[^t-6]*
+Annexe 10[^t-6]
 
 (art. 23, al. 1, let. f, 27, al. 2 et 3, 28, al. 2, et 29, al. 1, let. b, ch. 1)
 
@@ -1440,7 +1443,7 @@ Annexe 10*[^t-6]*
 <tr><td>Sel</td><td>6 g</td></tr>
 </table>
 
-Annexe 11*[^t-7]*
+Annexe 11[^t-7]
 
 (art. 25, al. 1, let. b, et 26, al. 2)
 
@@ -1468,7 +1471,7 @@ Les unités de mesure à utiliser dans la déclaration nutritionnelle pour les v
 <tr><td>Vitamines et sels minéraux</td><td>les unités de mesure figurant à l’annexe 10, partie A, ch. 1</td></tr>
 </table>
 
-Annexe 12*[^t-8]*
+Annexe 12[^t-8]
 
 (art. 26, al. 1)
 
@@ -1490,7 +1493,7 @@ La valeur énergétique à déclarer se calcule à l’aide des coefficients de 
 <tr><td>Érythritol</td><td>0 kJ/g = 0 kcal/g</td></tr>
 </table>
 
-Annexe 13*[^t-9]*
+Annexe 13[^t-9]
 
 (art. 29, al. 3)
 
@@ -1696,13 +1699,13 @@ Si une denrée alimentaire remplit naturellement les conditions visées dans la 
 
 [^annex13-lvlu1-lvl35-1]: [RS 817.022.17](https://fedlex.data.admin.ch/eli/cc/2017/181)
 
-Annexe 14*[^t-10]*
+Annexe 14[^t-10]
 
 (art. 31, al. 2 et 3, 32, al. 1, 33 et 34, al. 2, let. b)
 
 ## Allégations de santé admises pour les denrées alimentaires, les ingrédients et composants alimentaires, les catégories de denrées alimentaires, conditions d’utilisation
 
-[^t-10]: Mise à jour par l’erratum du 19 nov. 2019 ([RO 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)) et le ch. II al. 1 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^t-10]: Mise à jour par l’erratum du 19 nov. 2019 ([RO 2019 3683](https://fedlex.data.admin.ch/eli/oc/2019/667)), le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)) et le ch. I de l’O de l’OSAV du 31 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 291](https://fedlex.data.admin.ch/eli/oc/2023/291)).
 
 <table>
 <tr><th>Denrées alimentaires, ingrédients, composants alimentaires, catégories de denrées alimentaires</th><th>Allégation</th><th>Conditions d’utilisation</th><th>Restrictions/avertissements</th></tr>
@@ -1886,8 +1889,8 @@ Annexe 14*[^t-10]*
 <tr><td>Solutions de glucides et d’électrolytes</td><td>Les solutions de glucides et d’électrolytes contribuent à maintenir la performance au cours d’un exercice d’endurance prolongé.</td><td>Pour porter l’allégation, les solutions de glucides et d’électrolytes doivent contenir 80 à 350 Kcal/l provenant de glucides, et au moins 75 % de l’énergie doit provenir de glucides entraînant une réponse glycémique élevée, tels que le glucose, les polymères du glucose et le saccharose. De plus, ces boissons doivent contenir entre 20 mmol/l (460 mg/l) et 50 mmol/l (1 150 mg/l) de sodium et avoir une osmolalité située entre 200 et 330 mosm/kg d’eau.</td><td></td></tr>
 <tr><td>Solutions de glucides et d’électrolytes</td><td>Les solutions de glucides et d’électrolytes accroissent l’absorption d’eau durant un exercice physique.</td><td>Pour porter l’allégation, les solutions de glucides et d’électrolytes doivent contenir 80 à 350 Kcal/l provenant de glucides, et au moins 75 % de l’énergie doit provenir de glucides entraînant une réponse glycémique élevée, tels que le glucose, les polymères du glucose et le saccharose. De plus, ces boissons doivent contenir entre 20 mmol/l (460 mg/l) et 50 mmol/l (1 150 mg/l) de sodium et avoir une osmolalité située entre 200 et 330 mosm/kg d’eau.</td><td></td></tr>
 <tr><td>Stérols végétaux: stérols qui sont extraits de végétaux et se présentent sous la forme de stérols libres ou estérifiés avec des acides gras de qualité alimentaire</td><td>Il a été démontré que les stérols végétaux abaissent/réduisent le taux de cholestérol sanguin. Une cholestérolémie élevée constitue un facteur de risque de développement d’une maladie cardiaque coronarienne</td><td>Le consommateur doit être informé que l’effet bénéfique est obtenu par la consommation journalière de 1,5 à 3 g de stérols végétaux. Il ne peut être fait référence à l’ampleur de l’effet que pour les denrées alimentaires appartenant aux catégories suivantes: matières grasses à tartiner, produits laitiers, mayonnaises et sauces pour salades. Lorsqu’il est fait référence à l’ampleur de l’effet, la fourchette «de 7 à 10 %», pour les denrées alimentaires garantissant une consommation journalière de 1,5 à 2,4 g de stérols végétaux, ou la fourchette «de 10 à 12,5 %», pour celles garantissant une consommation journalière de 2,5 à 3 g, ainsi que la durée nécessaire pour obtenir l’effet, à savoir «en 2 à 3 semaines», doivent être communiquées au consommateur.</td><td></td></tr>
-<tr><td>Substitut de repas pour contrôle du poids</td><td>Le remplacement d’un des repas principaux constituant la ration journalière d’un régime hypocalorique par un substitut de repas contribue au maintien du poids après la perte de poids.</td><td>L’allégation peut être utilisée si la denrée alimentaire satisfait aux conditions d’utilisation de l’allégation fixées dans le règlement (UE) 2016/1413[^annex14-lvlu1-5] .</td><td>L’allégation peut être utilisée si le consommateur est informé qu’il est important de maintenir un apport quotidien en liquide suffisant et que le produit a l’effet souhaité uniquement dans le cadre d’un régime hypocalorique et que, dans ce cadre, il doit être complété par d’autres aliments. Pour que l’effet allégué soit obtenu, l’un des repas principaux de la journée doit être remplacé par un substitut de repas.</td></tr>
-<tr><td>Substitut de repas pour contrôle du poids</td><td>Le remplacement de deux des repas principaux constituant la ration journalière d’un régime hypocalorique par des substituts de repas contribue à la perte de poids.</td><td>L’allégation peut être utilisée si la denrée alimentaire satisfait aux conditions d’utilisation de l’allégation fixées dans le règlement (UE) 2016/1413.</td><td>L’allégation peut être utilisée si le consommateur est informé qu’il est important de maintenir un apport quotidien en liquide suffisant et que le produit a l’effet souhaité uniquement dans le cadre d’un régime hypocalorique et que, dans ce cadre, il doit être complété par d’autres aliments. Pour que l’effet allégué soit obtenu, deux des repas principaux de la journée doivent être remplacés par des substituts de repas.</td></tr>
+<tr><td>Substitut de repas pour contrôle du poids</td><td>Le remplacement d’un des repas principaux constituant la ration journalière d’un régime hypocalorique par un substitut de repas contribue au maintien du poids après la perte de poids.</td><td>L’allégation peut être utilisée si la denrée alimentaire satisfait aux exigences des art. 3 et 35d OBNP[^annex14-lvlu1-5].</td><td>L’allégation peut être utilisée si le consommateur est informé qu’il est important de maintenir un apport quotidien en liquide suffisant et que le produit a l’effet souhaité uniquement dans le cadre d’un régime hypocalorique et que, dans ce cadre, il doit être complété par d’autres aliments. Pour que l’effet allégué soit obtenu, l’un des repas principaux de la journée doit être remplacé par un substitut de repas.</td></tr>
+<tr><td>Substitut de repas pour contrôle du poids</td><td>Le remplacement de deux des repas principaux constituant la ration journalière d’un régime hypocalorique par des substituts de repas contribue à la perte de poids.</td><td>L’allégation peut être utilisée si la denrée alimentaire satisfait aux exigences des art. 3 et 35d OBNP.</td><td>L’allégation peut être utilisée si le consommateur est informé qu’il est important de maintenir un apport quotidien en liquide suffisant et que le produit a l’effet souhaité uniquement dans le cadre d’un régime hypocalorique et que, dans ce cadre, il doit être complété par d’autres aliments. Pour que l’effet allégué soit obtenu, deux des repas principaux de la journée doivent être remplacés par des substituts de repas.</td></tr>
 <tr><td>Succédanés du sucre, à savoir édulcorants intenses; xylitol, sorbitol, mannitol, maltitol, lactitol, isomalt, érythritol, sucralose etpolydextrose ou D‑tagatose et isomaltulose</td><td>La consommation de denrées alimentaires/boissons contenant du x (nom du succédané du sucre)[^annex14-lvlu1-6] ou les sucres D-tagatose ou isomaltulose à la place de sucre entraîne une hausse de la glycémie inférieure à celle qu’entraîne la consommation de denrées alimentaires/boissons contenant du sucre.</td><td>Pour que l’allégation puisse être utilisée, les sucres dans les denrées alimentaires ou les boissons doivent être remplacés par des succédanés du sucre, à savoir des édulcorants intenses, du xylitol, du sorbitol, du mannitol, du maltitol, du lactitol, de l’isomalt, de l’érythritol, du sucralose ou du polydextrose, ou une combinaison de plusieurs d’entre eux, de telle sorte que les denrées alimentaires ou les boissons aient une teneur en sucre réduite d’au moins la proportion selon l’annexe 13, ch. 32 . Dans le cas du D-tagatose et de l’isomaltulose, ils doivent remplacer des teneurs équivalentes d’autres sucres dans la même proportion que celle indiquée dans l’allégation «réduit en» selon l’annexe 13, ch. 32 .</td><td></td></tr>
 <tr><td>Succédanés du sucre, à savoir édulcorants intenses; xylitol, sorbitol, mannitol, maltitol, lactitol, isomalt, érythritol, sucralose etpolydextrose ou D‑tagatose et isomaltulose</td><td>La consommation de denrées alimentaires/ boissons contenant x (nom du succédané du sucre)[^annex14-lvlu1-7] ou d’autres sucres D-tagatose et isomaltulose à la place de sucre contribue au maintien de la minéralisation des dents.</td><td>L’allégation peut être utilisée si les sucres dans les denrées alimentaires ou les boissons (qui abaissent le pH de la plaque dentaire sous 5,7) sont remplacés par des succédanés du sucre, à savoir des édulcorants intenses, du xylitol, du sorbitol, du mannitol, du maltitol, du lactitol, de l’isomalt, de l’érythritol, du sucralose ou du polydextrose, ou une combinaison de plusieurs d’entre eux, dans une proportion telle que la consommation des denrées alimentaires ou boissons n’abaisse pas le pH de la plaque dentaire sous 5,7 dans les 30 minutes après la consommation de celles-ci.</td><td></td></tr>
 <tr><td>Thiamine</td><td>La thiamine contribue à un métabolisme énergétique normal.</td><td>L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de thiamine selon l’annexe 13, ch. 28.</td><td></td></tr>
@@ -1973,7 +1976,7 @@ Annexe 14*[^t-10]*
 [^annex14-lvlu1-2]: [RS 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
 [^annex14-lvlu1-3]: Règlement (UE) 2015/2314 de la Commission du 7 décembre 2015 autorisant une allégation de santé portant sur les denrées alimentaires, autre qu’une allégation faisant référence à la réduction d’un risque de maladie ainsi qu’au développement et à la santé des enfants, et modifiant le règlement (UE) n<sup>o</sup> 432/2012, JO L 328 du 12.12.2015, p. 46.
 [^annex14-lvlu1-4]: FCC = *Food Chemicals Codex*
-[^annex14-lvlu1-5]: Règlement (UE) 2016/1413 de la Commission du 24 août 2016 modifiant le règlement (UE) n° 432/2012 établissant une liste des allégations de santé autorisées portant sur les denrées alimentaires, autres que celles faisant référence à la réduction du risque de maladie ainsi qu’au développement et à la santé infantiles, JO L 230 du 25.8.2016, p. 8
+[^annex14-lvlu1-5]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
 [^annex14-lvlu1-6]: Dans le cas du D-tagatose et de l’isomaltulose, il faut indiquer ici «autres sucres»
 [^annex14-lvlu1-7]: Voir note de bas de page relative au D-tagatose et à l’isomaltulose
 

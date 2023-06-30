@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 betreffend die Information über
 short: LIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/158"
 language: de
-version: 2020-07-01
+version: 2023-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2017-158-20200701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2017-158-20230701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/158/20200701/de"
 
 (LIV)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2020)
+vom 16. Dezember 2016 (Stand am 1. Juli 2023)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -93,7 +93,7 @@ Bei Mehrfachpackungen (mehrere gleiche oder verschiedene Produkte, die in einer 
 - b. von aussen für die Konsumentinnen und Konsumenten lesbar sind oder über sie am Verkaufspunkt auf andere Weise informiert wird.
 
 [^3-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
-[^3-2]: [SR 817.022](https://fedlex.data.admin.ch/eli/cc/1986/647_647_647)**.****51**
+[^3-2]: [SR 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)
 
 #### Art. 4
 
@@ -443,7 +443,7 @@ In Abweichung von Absatz 3 kann bei frischem, gekühltem oder gefrorenem Schwein
 
 <sup>6</sup> Für Hackfleisch, das als solches abgegeben wird, ist das Produktionsland des Hackfleischs anzugeben. Das Herkunftsland des Fleisches ist nur anzugeben, wenn das Land nicht mit dem Produktionsland des Hackfleischs übereinstimmt.
 
-<sup>7</sup> ...[^17-4]
+<sup>7</sup> …[^17-4]
 
 [^17-1]: Die Berichtigung vom 7. Juni 2017 betrifft nur den französischen Text ([AS 2017 3339](https://fedlex.data.admin.ch/eli/oc/2017/359)).
 [^17-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
@@ -558,7 +558,7 @@ Enthält die Kennzeichnung eines vorverpackten Lebensmittels die Nährwertdeklar
 
 <sup>1</sup> Erscheint eine Substanz, die Gegenstand einer nährwert- oder gesundheitsbezogenen Angabe ist, nicht in der Nährwertdeklaration, so muss die jeweilige Menge in unmittelbarer Nähe und im selben Sichtfeld der Nährwertdeklaration angegeben werden.
 
-<sup>2</sup> Sind der Energiewert oder die Nährstoffmengen in einem Erzeugnis vernachlässigbar, so können die Angaben dazu durch eine Angabe wie «Enthält geringfügige Menge von ...» ersetzt werden. Diese Angabe muss in unmittelbarer Nähe zu einer allfälligen Nährwertdeklaration stehen.
+<sup>2</sup> Sind der Energiewert oder die Nährstoffmengen in einem Erzeugnis vernachlässigbar, so können die Angaben dazu durch eine Angabe wie «Enthält geringfügige Menge von …» ersetzt werden. Diese Angabe muss in unmittelbarer Nähe zu einer allfälligen Nährwertdeklaration stehen.
 
 <sup>3</sup> Gegebenenfalls kann in unmittelbarer Nähe zur Nährwertdeklaration angegeben werden, dass der Salzgehalt ausschliesslich auf die Anwesenheit natürlich vorkommenden Natriums zurückzuführen ist.
 
@@ -969,9 +969,9 @@ Anhang 1
 - 2 *Sichtfeld:* Alle Oberflächen einer Verpackung, die von einem einzigen Blickpunkt aus gelesen werden können.
 - 3 *Lesbar:* Eigenschaft des äusseren Erscheinungsbilds von Informationen mit der Bedeutung, dass die Informationen für die Allgemeinheit visuell zugänglich sind; das Erscheinungsbild wird von verschiedenen Faktoren bestimmt, so u. a. von der Schriftgrösse, dem Buchstabenabstand, dem Zeilenabstand, der Strichstärke der Schrift, der Schriftfarbe, der Schriftart, dem Verhältnis zwischen Buchstabenbreite und ‑höhe, der Materialoberfläche und dem Kontrast zwischen Schrift und dem Hintergrund.
 - 4 *Sachbezeichnung*:
-- 4\.1 Bezeichnung eines Lebensmittels wie sie von den geltenden Rechtsvorschriften für dieses Lebensmittel vorgeschrieben ist (*rechtlich vorgeschriebene B**e**zeichnung*);
-- 4\.2 Bezeichnung, die von den Konsumentinnen und Konsumenten als Bezeichnung eines bestimmten Lebensmittels akzeptiert wird, ohne dass eine weitere Erläuterung notwendig wäre (*ve**r**kehrsübliche Bezeichnung*); oder
-- 4\.3 Bezeichnung, die ein Lebensmittel und erforderlichenfalls seine Verwendung beschreibt und die hinreichend genau ist, um es den Konsumentinnen und Konsumenten zu ermöglichen, die tatsächliche Art des Lebensmittels zu erkennen und es von Erzeugnissen zu unterscheiden, mit denen es verwechselt werden könnte (*beschreibende B**e**zeichnung*).
+- 4\.1 Bezeichnung eines Lebensmittels wie sie von den geltenden Rechtsvorschriften für dieses Lebensmittel vorgeschrieben ist (*rechtlich vorgeschriebene Bezeichnung*);
+- 4\.2 Bezeichnung, die von den Konsumentinnen und Konsumenten als Bezeichnung eines bestimmten Lebensmittels akzeptiert wird, ohne dass eine weitere Erläuterung notwendig wäre (*verkehrsübliche Bezeichnung*); oder
+- 4\.3 Bezeichnung, die ein Lebensmittel und erforderlichenfalls seine Verwendung beschreibt und die hinreichend genau ist, um es den Konsumentinnen und Konsumenten zu ermöglichen, die tatsächliche Art des Lebensmittels zu erkennen und es von Erzeugnissen zu unterscheiden, mit denen es verwechselt werden könnte (*beschreibende Bezeichnung*).
 - 5 *Mindesthaltbarkeitsdatum*: Datum, bis zu dem ein Lebensmittel bei richtiger Aufbewahrung seine spezifischen Eigenschaften behält.
 - 6 *Verbrauchsdatum:* Datum, bis zu dem ein Lebensmittel zu verbrauchen ist. Nach diesem Datum darf das Lebensmittel nicht mehr als solches an Konsumentinnen oder Konsumenten abgegeben werden.
 - 7 *Warenlos:* Gesamtheit von Produktions- oder Verkaufseinheiten eines Lebensmittels, die unter praktisch den gleichen Umständen erzeugt, hergestellt oder verpackt wurden.
@@ -997,7 +997,7 @@ Anhang 1
 - 15 *Kohlenhydrat*: Jegliches Kohlenhydrat, das im Stoffwechsel des Menschen umgesetzt wird, einschliesslich mehrwertiger Alkohole.
 - 16 *Zucker*: Alle in Lebensmitteln vorhandenen Monosaccharide und Disaccharide, ausser mehrwertige Alkohole.
 - 17 *Mehrwertige Alkohole:* Alkohole, die mehr als zwei Hydroxylgruppen enthalten.
-- 18 *B**allaststoffe*: Kohlenhydratpolymere mit drei oder mehr Monomereinheiten, die im Dünndarm des Menschen weder verdaut noch absorbiert werden und zu folgenden Klassen zählen:
+- 18 *Ballaststoffe*: Kohlenhydratpolymere mit drei oder mehr Monomereinheiten, die im Dünndarm des Menschen weder verdaut noch absorbiert werden und zu folgenden Klassen zählen:
 - 18\.1 essbare Kohlenhydratpolymere, die in Lebensmitteln, wenn diese verzehrt werden, auf natürliche Weise vorkommen;
 - 18\.2 essbare Kohlenhydratpolymere, die auf physikalische, enzymatische oder chemische Weise aus Lebensmittelrohstoffen gewonnen werden und laut allgemein anerkannten wissenschaftlichen Nachweisen eine positive physiologische Wirkung besitzen;
 - 18\.3 essbare synthetische Kohlenhydratpolymere, die laut allgemein anerkannten wissenschaftlichen Nachweisen eine positive physiologische Wirkung besitzen.
@@ -1007,7 +1007,7 @@ Anhang 1
 - 22 *Gluten:* Eine Proteinfraktion von Weizen, Roggen, Gerste, Hafer oder ihren Kreuzungen und Derivaten, die manche Menschen nicht vertragen und die in Wasser und in 0,5 M Natriumchloridlösung nicht löslich ist.
 - 23 *Weizen*: sämtliche Triticumarten
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 3 Abs. 1 Bst. q und Abs. 4)
 
@@ -1044,21 +1044,21 @@ Anhang 2*[^t-1]*
 
 <table>
 <tr><th>Art oder Klasse des Lebensmittels</th><th>Angabe/Warnhinweis</th></tr>
-<tr><td colspan="2">**1** **In bestimmten Gasen verpackte L****e****bensmittel**</td></tr>
+<tr><td colspan="2">**1** **In bestimmten Gasen verpackte Lebensmittel**</td></tr>
 <tr><td>1.1 Lebensmittel, deren Haltbarkeit durch Packgas verlängert wurde, das nach der Verordnung (EG) Nr. 1333/2008[^annex2-lvlu1-partB-1] zugelassen ist</td><td>«unter Schutzatmosphäre verpackt»</td></tr>
 <tr><td colspan="2">**2** **Lebensmittel, die Süssungsmittel enthalten**</td></tr>
 <tr><td>2.1 Lebensmittel, die ein oder mehrere zugelassene Süssungsmittel enthalten</td><td>«mit Süssungsmittel(n)»; dieser Hinweis ist in Verbindung mit der Bezeichnung des Lebensmittels anzubringen</td></tr>
 <tr><td>2.2 Lebensmittel, die sowohl einen Zuckerzusatz oder mehrere Zuckerzusätze als auch ein oder mehrere zugelassene Süssungsmittel enthalten</td><td>«mit Zucker(n) und Süssungsmittel(n)»; dieser Hinweis ist in Verbindung mit der Bezeichnung des Lebensmittels anzubringen</td></tr>
 <tr><td>2.3 Lebensmittel, die Aspartam/ Aspartam-Acesulfamsalz enthalten</td><td>Der Hinweis «enthält Aspartam (eine Phenylalaninquelle)» muss auf dem Etikett erscheinen, wenn das Aspartam/Aspartam-Acesulfamsalz im Verzeichnis der Zutaten lediglich mit der E‑Nummer aufgeführt ist. Der Hinweis «enthält eine Phenylalaninquelle» muss auf dem Etikett erscheinen, wenn das Aspartam/Aspartam-Acesulfamsalz im Verzeichnis der Zutaten mit seiner Einzelbezeichnung benannt ist.</td></tr>
 <tr><td>2.4 Lebensmittel mit über 10 Prozent zugesetzten mehrwertigen Alkoholen</td><td>«kann bei übermässigem Verzehr abführend wirken»</td></tr>
-<tr><td colspan="2">**3** **Lebensmittel, die Glycyrrhizinsäure oder deren Ammoniumsalz entha****l****ten**</td></tr>
+<tr><td colspan="2">**3** **Lebensmittel, die Glycyrrhizinsäure oder deren Ammoniumsalz enthalten**</td></tr>
 <tr><td>3.1 Süsswaren oder Getränke, die Glycyrrhizinsäure oder deren Ammoniumsalz durch Zusatz der Substanz(en) selbst oder der Süssholzpflanze *Glycyrrhiza glabra* in einer Konzentration von mindestens 100 mg/kg oder 10 mg/l enthalten</td><td>Der Hinweis «enthält Süssholz» ist unmittelbar nach dem Verzeichnis der Zutaten anzufügen, es sei denn, der Begriff «Süssholz» ist bereits im Verzeichnis der Zutaten oder in der Bezeichnung des Lebensmittels enthalten. Ist kein Verzeichnis der Zutaten vorgesehen, ist der Hinweis in Verbindung mit der Bezeichnung des Lebensmittels anzubringen.</td></tr>
-<tr><td>3.2 Süsswaren, die Glycyrrhizinsäure oder ihr Ammoniumsalz durch Zusatz der Substanz(en) selbst oder der Süssholzpflanze *Gl**y**cyrrhiza glabra* in Konzentrationen von mindestens 4 g/kg enthalten</td><td>Der Hinweis «enthält Süssholz – bei hohem Blutdruck sollte ein übermässiger Verzehr dieses Erzeugnisses vermieden werden» ist unmittelbar nach dem Verzeichnis der Zutaten anzufügen. Ist kein Verzeichnis der Zutaten vorgesehen, ist der Hinweis in Verbindung mit der Bezeichnung des Lebensmittels anzubringen.</td></tr>
-<tr><td>3.3 Getränke, die Glycyrrhizinsäure oder ihr Ammoniumsalz durch Zusatz der Substanz(en) selbst oder der Süssholzpflanze *Gl**y**cyrrhiza glabra* in Konzentrationen von mindestens 50 mg/l oder im Fall von Getränken, die einen Volumenanteil von mehr als 1,2 Prozent Alkohol enthalten, von mindestens 300 mg/l enthalten</td><td>Der Hinweis «enthält Süssholz – bei hohem Blutdruck sollte ein übermässiger Verzehr dieses Erzeugnisses vermieden werden» ist unmittelbar nach dem Verzeichnis der Zutaten anzufügen. Ist kein Verzeichnis der Zutaten vorgesehen, ist der Hinweis in Verbindung mit der Bezeichnung des Lebensmittels anzubringen.</td></tr>
+<tr><td>3.2 Süsswaren, die Glycyrrhizinsäure oder ihr Ammoniumsalz durch Zusatz der Substanz(en) selbst oder der Süssholzpflanze *Glycyrrhiza glabra* in Konzentrationen von mindestens 4 g/kg enthalten</td><td>Der Hinweis «enthält Süssholz – bei hohem Blutdruck sollte ein übermässiger Verzehr dieses Erzeugnisses vermieden werden» ist unmittelbar nach dem Verzeichnis der Zutaten anzufügen. Ist kein Verzeichnis der Zutaten vorgesehen, ist der Hinweis in Verbindung mit der Bezeichnung des Lebensmittels anzubringen.</td></tr>
+<tr><td>3.3 Getränke, die Glycyrrhizinsäure oder ihr Ammoniumsalz durch Zusatz der Substanz(en) selbst oder der Süssholzpflanze *Glycyrrhiza glabra* in Konzentrationen von mindestens 50 mg/l oder im Fall von Getränken, die einen Volumenanteil von mehr als 1,2 Prozent Alkohol enthalten, von mindestens 300 mg/l enthalten</td><td>Der Hinweis «enthält Süssholz – bei hohem Blutdruck sollte ein übermässiger Verzehr dieses Erzeugnisses vermieden werden» ist unmittelbar nach dem Verzeichnis der Zutaten anzufügen. Ist kein Verzeichnis der Zutaten vorgesehen, ist der Hinweis in Verbindung mit der Bezeichnung des Lebensmittels anzubringen.</td></tr>
 <tr><td colspan="2">**4** **Getränke mit erhöhtem Koffeingehalt oder Lebensmittel mit Zusatz von Koffein**</td></tr>
 <tr><td>4.1 Getränke mit Ausnahme derjenigen Getränke, die auf Kaffee, Tee, Kaffee‑ oder Teeextrakt basieren, und bei denen der Begriff «Kaffee» oder «Tee» in der Sachbezeichnung vorkommt und die: a. zur Aufnahme in unverarbeitetem Zustand bestimmt sind und Koffein aus beliebiger Quelle in einer Menge enthalten, die 150 mg/l übersteigt; oder b. konzentriert oder getrocknet sind und nach der Rekonstituierung Koffein aus beliebiger Quelle in einer Menge enthalten, die 150 mg/l übersteigt</td><td>Der Hinweis «Erhöhter Koffeingehalt. Für Kinder und schwangere oder stillende Frauen nicht empfohlen» muss im selben Sichtfeld wie die Bezeichnung des Getränks erscheinen, gefolgt von einem Hinweis auf den Koffeingehalt in Klammern ausgedrückt in mg je 100 ml.</td></tr>
 <tr><td>4.2 Andere Lebensmittel als Getränke, denen zu physiologischen Zwecken Koffein zugesetzt wird</td><td>Der Hinweis «Enthält Koffein. Für Kinder und schwangere Frauen nicht empfohlen» muss im selben Sichtfeld wie die Bezeichnung des Lebensmittels erscheinen, gefolgt von einem Hinweis auf den Koffeingehalt in Klammern und ausgedrückt in mg je 100 g/ml. Bei Lebensmitteln für Sportlerinnen und Sportler ist der Koffeingehalt pro empfohlene tägliche Verzehrsmenge, die in der Kennzeichnung angegeben ist, anzugeben.</td></tr>
-<tr><td colspan="2">**5** **Lebensmittel, denen Phytosterine, Phytosterinester, Phyto****stanole oder Phytostanolester zugesetzt sind**</td></tr>
+<tr><td colspan="2">**5** **Lebensmittel, denen Phytosterine, Phytosterinester, Phytostanole oder Phytostanolester zugesetzt sind**</td></tr>
 <tr><td>5.1 Lebensmittel oder Lebensmittelzutaten, denen Phytosterine, Phytosterinester, Phytostanole oder Phytostanolester zugesetzt sind</td><td>(1) «mit zugesetzten Pflanzensterinen» oder «mit zugesetzten Pflanzenstanolen» im selben Sichtfeld wie die Bezeichnung des Lebensmittels (2) die Menge an zugesetzten Phytosterinen, Phytosterinestern, Phytostanolestern (Angabe in Prozent oder g der freien Pflanzensterine/Pflanzenstanole je 100g oder 100ml des Lebensmittels) muss im Zutatenverzeichnis aufgeführt sein (3) Hinweis darauf, dass das Erzeugnis ausschliesslich für Personen bestimmt ist, die ihren Cholesterinspiegel im Blut senken möchten (4) Hinweis darauf, dass Patienten, die Arzneimittel zur Senkung des Cholesterinspiegels einnehmen, das Erzeugnis nur unter ärztlicher Aufsicht zu sich nehmen sollten (5) gut sichtbarer Hinweis darauf, dass das Erzeugnis für die Ernährung schwangerer und stillender Frauen sowie von Kindern unter fünf Jahren möglicherweise nicht geeignet ist (6) Empfehlung, das Erzeugnis als Bestandteil einer ausgewogenen und abwechslungsreichen Ernährung zu verwenden, zu der auch zur Aufrechterhaltung des Carotinoid-Spiegels der regelmässige Verzehr von Obst und Gemüse zählt (7) im selben Sichtfeld, das den unter Nummer 3 genannten Hinweis enthält, nämlich dass die Aufnahme von mehr als 3 g/Tag an zugesetzten Pflanzensterinen/Pflanzenstanolen vermieden werden sollte (8) Definition einer Portion des betreffenden Lebensmittels oder der Lebensmittelzutat (vorzugsweise in g oder ml) unter Angabe der Menge an Pflanzensterinen/Pflanzenstanolen, die in einer Portion enthalten ist</td></tr>
 <tr><td colspan="2">**6** **Eingefrorenes Fleisch, eingefrorene Fleischzubereitungen und eingefrorene unverarbeitete Fischereierzeugnisse**</td></tr>
 <tr><td>6.1 Eingefrorenes Fleisch, eingefrorene Fleischzubereitungen und eingefrorene unverarbeitete Fischereierzeugnisse</td><td>Nach Anhang 8 Ziffer 3 das Datum des Einfrierens oder das Datum des ersten Einfrierens in Fällen, in denen das Produkt mehr als einmal eingefroren wurde</td></tr>
@@ -1072,7 +1072,7 @@ Anhang 3
 
 ## Definition der x-Höhe
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20200701/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/158/20230701/de/xml/image/image1.png)
 
 Legende
 
@@ -1088,7 +1088,7 @@ Anhang 4
 
 (Art. 5 Abs. 1[^t-2] Bst. b Ziff. 2 und 15 Abs. 5)
 
-## FAO****-Fanggebiete
+## FAO-Fanggebiete
 
 [^annex4-lvlu1-1]
 
@@ -1120,7 +1120,7 @@ Anhang 4
 <tr><td>Antarktischer Pazifik</td><td>FAO-Gebiet Nr. 88</td></tr>
 </table>
 
-Anhang 5*[^t-3]*
+Anhang 5[^t-3]
 
 (Art. 8 Abs. 5)
 
@@ -1138,7 +1138,7 @@ Anhang 5*[^t-3]*
 <tr><td>4. Obst, Gemüse oder Pilze, von denen keines nach seinem Gewichtsanteil deutlich dominiert und die mit potenziell veränderlichen Anteilen in einer Mischung als Zutat für ein Lebensmittel verwendet werden</td><td>Können im Verzeichnis der Zutaten unter der Bezeichnung «Obst», «Gemüse» oder «Pilze» zusammengefasst werden, gefolgt vom Hinweis «in veränderlichen Gewichtsanteilen», wobei unmittelbar danach die vorhandenen Obst-, Gemüse- oder Pilzsorten aufzuführen sind. In diesen Fällen wird die Mischung nach Artikel 8 Absatz 2 nach dem Gewichtsanteil der Gesamtheit der vorhandenen Obst-, Gemüse, oder Pilzsorten im Zutatenverzeichnis aufgeführt.</td></tr>
 <tr><td>5. Mischungen aus Gewürzen oder Kräutern, die sich in ihrem Gewichtsanteil nicht wesentlich unterscheiden</td><td>Können in einer anderen Reihenfolge aufgezählt werden, sofern das Verzeichnis der Zutaten einen Hinweis wie «in veränderlichen Gewichtsanteilen» enthält.</td></tr>
 <tr><td>6. Zutaten, die weniger als 2 Prozent des Enderzeugnisses ausmachen</td><td>Können in anderer Reihenfolge nach den übrigen Zutaten aufgezählt werden.</td></tr>
-<tr><td>7. Ähnliche und untereinander austauschbare Zutaten, die bei der Herstellung oder der Zubereitung eines Lebensmittels verwendet werden können, ohne dass sie dessen Zusammensetzung, dessen Art oder dessen empfundenen Wert verändern, sofern sie weniger als 2 Prozent des Enderzeugnisses ausmachen</td><td>Können im Verzeichnis der Zutaten mit der Angabe «Enthält ... oder ...» aufgeführt werden, sofern mindestens eine von höchstens zwei Zutaten im Enderzeugnis vorhanden ist. Diese Vorschrift gilt nicht für in Teil C dieses Anhangs aufgeführte Lebensmittelzusatzstoffe oder Zutaten und in Anhang 6 aufgeführte Stoffe oder Erzeugnisse, die Allergien oder Unverträglichkeiten auslösen.</td></tr>
+<tr><td>7. Ähnliche und untereinander austauschbare Zutaten, die bei der Herstellung oder der Zubereitung eines Lebensmittels verwendet werden können, ohne dass sie dessen Zusammensetzung, dessen Art oder dessen empfundenen Wert verändern, sofern sie weniger als 2 Prozent des Enderzeugnisses ausmachen</td><td>Können im Verzeichnis der Zutaten mit der Angabe «Enthält … oder …» aufgeführt werden, sofern mindestens eine von höchstens zwei Zutaten im Enderzeugnis vorhanden ist. Diese Vorschrift gilt nicht für in Teil C dieses Anhangs aufgeführte Lebensmittelzusatzstoffe oder Zutaten und in Anhang 6 aufgeführte Stoffe oder Erzeugnisse, die Allergien oder Unverträglichkeiten auslösen.</td></tr>
 <tr><td>8. Raffinierte Öle pflanzlicher Herkunft</td><td>Können im Verzeichnis der Zutaten unter der Bezeichnung «pflanzliche Öle» oder «Pflanzenöle» zusammengefasst werden, wobei unmittelbar danach eine Liste mit den Angaben der speziellen pflanzlichen Herkunft aufzuführen ist, nach der die Wendung «in veränderlichen Gewichtsanteilen» folgen kann. Im Falle einer Zusammenfassung werden die pflanzlichen Öle nach dem Gewichtsanteil der Gesamtheit der vorhandenen pflanzlichen Öle im Verzeichnis der Zutaten aufgeführt. Der Hinweis auf ein gehärtetes Öl muss gegebenenfalls mit dem Ausdruck «ganz gehärtet» oder «teilweise gehärtet» versehen sein.</td></tr>
 <tr><td>9. Raffinierte Fette pflanzlicher Herkunft</td><td>Können im Verzeichnis der Zutaten unter der Bezeichnung «pflanzliche Fette» oder «Pflanzenfette» zusammengefasst werden, wobei unmittelbar danach eine Liste mit den Angaben der speziellen pflanzlichen Herkunft aufzuführen ist, nach der der Hinweis «in veränderlichen Gewichtsanteilen» folgen kann. Im Falle einer Zusammenfassung werden die pflanzlichen Fette nach dem Gewichtsanteil der Gesamtheit der vorhandenen pflanzlichen Fette im Verzeichnis der Zutaten aufgeführt. Der Hinweis auf ein gehärtetes Fett muss gegebenenfalls mit dem Ausdruck «ganz gehärtet» oder «teilweise gehärtet» versehen sein.</td></tr>
 </table>
@@ -1216,7 +1216,7 @@ Zutaten, die zu einer der im Folgenden aufgeführten Lebensmittelklasse gehören
 - 2\.2 die zusammengesetzten Zutaten aus Gewürz- oder Kräutermischungen bestehen und sie weniger als 2 Prozent des Enderzeugnisses ausmachen, vorbehalten bleiben Artikel 9 Absatz 2 Buchstaben a–d für Zusatzstoffe und Artikel 10;
 - 2\.3 die zusammengesetzte Zutat ein Lebensmittel ist, für das kein Verzeichnis der Zutaten erforderlich ist.
 
-Anhang 5a*[^t-4]*
+Anhang 5a[^t-4]
 
 (Art. 7*a*)
 
@@ -1256,7 +1256,7 @@ Die folgenden Zutaten und die daraus hergestellten Erzeugnisse können Allergien
 - 7 Milch und daraus gewonnene Erzeugnisse, einschliesslich Laktose, ausser:
 - 7\.1 Molke zur Herstellung von Destillaten oder Ethylalkohol landwirtschaftlichen Ursprungs für Spirituosen und andere alkoholische Getränke,
 - 7\.2 Lactit;
-- 8 Hartschalenobst oder Nüsse: Mandeln (*Amygdalus communis* L.), Haselnüsse (*Corylus avellana*), Walnüsse (*Juglans regia*), Cashewnüsse (*Anaca**r**dium occidentale*), Pecannüsse (*Carya illinoiesis* [Wangenh.] K. Koch), Paranüsse (*Bertholletia excelsa*), Pistazien (*Pistacia vera*), Macadamianüsse oder Queenslandnüsse (*Macadamia ternifolia*) und daraus gewonnene Erzeugnisse, ausser Hartschalenobst für die Herstellung von Destillaten oder Ethylalkohol landwirtschaftlichen Ursprungs für Spirituosen und andere alkoholische Getränke;
+- 8 Hartschalenobst oder Nüsse: Mandeln (*Amygdalus communis* L.), Haselnüsse (*Corylus avellana*), Walnüsse (*Juglans regia*), Cashewnüsse (*Anacardium occidentale*), Pecannüsse (*Carya illinoiesis* [Wangenh.] K. Koch), Paranüsse (*Bertholletia excelsa*), Pistazien (*Pistacia vera*), Macadamianüsse oder Queenslandnüsse (*Macadamia ternifolia*) und daraus gewonnene Erzeugnisse, ausser Hartschalenobst für die Herstellung von Destillaten oder Ethylalkohol landwirtschaftlichen Ursprungs für Spirituosen und andere alkoholische Getränke;
 - 9 Sellerie und daraus gewonnene Erzeugnisse;
 - 10 Senf und daraus gewonnene Erzeugnisse;
 - 11 Sesamsamen und daraus gewonnene Erzeugnisse;
@@ -1305,8 +1305,8 @@ Anhang 8
 
   Dem Datum ist folgende Angabe voranzustellen:
 
-  - a. «mindestens haltbar bis ...», wenn der Tag genannt wird;
-  - b. «mindestens haltbar bis Ende ...» in den anderen Fällen.
+  - a. «mindestens haltbar bis …», wenn der Tag genannt wird;
+  - b. «mindestens haltbar bis Ende …» in den anderen Fällen.
 
 - 1\.2
 
@@ -1351,7 +1351,7 @@ Anhang 8
 - 2\.4 Das Verbrauchsdatum ist auf jeder vorverpackten Einzelportion anzugeben.
 - 2\.5 Die Angaben nach Ziffer 2.1 sind mit einer Beschreibung der einzuhaltenden Aufbewahrungsbedingungen zu ergänzen.
 - 3 Das Datum des Einfrierens oder das Datum des ersten Einfrierens nach Anhang 2 Teil B Ziffer 6 ist wie folgt anzugeben:
-- 3\.1 Dem Datum ist der Wortlaut «eingefroren am ...» voranzustellen.
+- 3\.1 Dem Datum ist der Wortlaut «eingefroren am …» voranzustellen.
 - 3\.2
 
   Dem in Ziffer 3.1 genannten Wortlaut ist Folgendes hinzuzufügen:
@@ -1487,7 +1487,7 @@ Ballaststoffe 8 kJ/g = 2 kcal/g
 
 Erythritol 0 kJ/g = 0 kcal/g
 
-Anhang 13*[^t-5]*
+Anhang 13[^t-5]
 
 (Art. 29 Abs. 3)
 
@@ -1650,7 +1650,7 @@ Die Angabe, ein Lebensmittel habe einen hohen Vitamin- oder Mineralstoffgehalt n
 
 ### 30 «Enthält» [Name des Nährstoffs oder einer anderen Substanz]
 
-Die Angabe, ein Lebensmittel enthalte einen Nährstoff oder eine andere Substanz, für die in dieser Verordnung keine besonderen Bedingungen vorgesehen sind, sowie jegliche Angabe, die für die Konsumentinnen und Konsumenten voraussichtlich dieselbe Bedeutung hat, ist nur zulässig, wenn das Produkt allen entsprechenden Voraussetzungen der Artikel 29, 30 und 35 entspricht. Für Vitamine und Mineralstoffe gelten die Voraussetzungen für die Angabe «Quelle von ...».
+Die Angabe, ein Lebensmittel enthalte einen Nährstoff oder eine andere Substanz, für die in dieser Verordnung keine besonderen Bedingungen vorgesehen sind, sowie jegliche Angabe, die für die Konsumentinnen und Konsumenten voraussichtlich dieselbe Bedeutung hat, ist nur zulässig, wenn das Produkt allen entsprechenden Voraussetzungen der Artikel 29, 30 und 35 entspricht. Für Vitamine und Mineralstoffe gelten die Voraussetzungen für die Angabe «Quelle von …».
 
 ### 31 Erhöhter Anteil an einem Nährstoff
 
@@ -1692,13 +1692,13 @@ Erfüllt ein Lebensmittel von Natur aus die in diesem Anhang aufgeführten Vorau
 
 [^annex13-lvlu1-lvl35-1]: [SR 817.022.17](https://fedlex.data.admin.ch/eli/cc/2017/181)
 
-Anhang 14*[^t-6]*
+Anhang 14[^t-6]
 
 (Art. 31 Abs. 2 und 3, 32 Abs. 1, 33 sowie 34 Abs. 2 Bst. b)
 
 ## Zulässige gesundheitsbezogene Angaben für Lebensmittel, Lebensmittelbestandteile, Lebensmittelinhaltsstoffe und Lebensmittelkategorien sowie die Voraussetzungen für ihre Verwendung
 
-[^t-6]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)).
+[^t-6]: Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2337](https://fedlex.data.admin.ch/eli/oc/2020/450)) und Ziff. I der V des BLV vom 31. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 291](https://fedlex.data.admin.ch/eli/oc/2023/291)).
 
 <table>
 <tr><th>Lebensmittel, Lebensmittelbestandteile, Lebensmittelinhaltsstoffe, Lebensmittelkategorien</th><th>Angabe</th><th>Verwendungsbedingungen</th><th>Einschränkungen/Warnhinweise</th></tr>
@@ -1818,8 +1818,8 @@ Anhang 14*[^t-6]*
 <tr><td>Magnesium</td><td>Magnesium trägt zur Erhaltung normaler Knochen bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Magnesiumquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Magnesium</td><td>Magnesium trägt zur Erhaltung normaler Zähne bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Magnesiumquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Magnesium</td><td>Magnesium hat eine Funktion bei der Zellteilung.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Magnesiumquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
-<tr><td>Mahlzeitersatz für eine gewichts-kontrollierende Ernährung</td><td>Das Ersetzen von einer der täglichen Hauptmahlzeiten im Rahmen einer kalorienarmen Ernährung durch einen solchen Mahlzeitersatz trägt dazu bei, das Gewicht nach Gewichtsabnahme zu halten.</td><td>Damit die Angabe zulässig ist, sollte das Lebensmittel die Bedingungen für die Verwendung des Angabe gemäss der Verordnung (EU) 2016/1413[^annex14-lvlu1-3] entsprechen.</td><td>Damit die Angabe zulässig ist, müssen die Konsumentinnen und Konsumenten über die Bedeutung einer ausreichenden täglichen Flüssigkeitsaufnahme aufgeklärt und auf die Tatsache hingewiesen werden, dass die Erzeugnisse ihren Zweck nur erfüllen, wenn sie im Rahmen einer kalorienarmen Ernährung verwendet werden, zu der notwendigerweise auch andere Lebensmittel gehören. Um die angegebene Wirkung zu erzielen, sollte täglich eine Hauptmahlzeit durch einen Mahlzeitersatz ersetzt werden.</td></tr>
-<tr><td>Mahlzeitersatz für eine gewichts-kontrollierende Ernährung</td><td>Das Ersetzen von zwei der täglichen Hauptmahlzeiten im Rahmen einer kalorienarmen Ernährung durch einen solchen Mahlzeitersatz trägt zu Gewichtsabnahme bei.</td><td>Damit die Angabe zulässig ist, sollte das Lebensmittel die Bedingungen für die Verwendung der Angabe gemäss der Verordnung (EU) 2016/1413 entsprechen.</td><td>Damit die Angabe zulässig ist, müssen die Konsumentinnen und Konsumenten über die Bedeutung einer ausreichenden täglichen Flüssigkeitsaufnahme aufgeklärt und auf die Tatsache hingewiesen werden, dass die Erzeugnisse ihren Zweck nur erfüllen, wenn sie im Rahmen einer kalorienarmen Ernährung verwendet werden, zu der notwendigerweise auch andere Lebensmittel gehören. Um die angegebene Wirkung zu erzielen, sollten täglich zwei Hauptmahlzeiten durch je einen Mahlzeitersatz ersetzt werden.</td></tr>
+<tr><td>Mahlzeitersatz für gewichtskontrollierende Ernährung</td><td>Das Ersetzen einer der täglichen Hauptmahlzeiten im Rahmen einer kalorienarmen Ernährung durch einen solchen Mahlzeitersatz trägt dazu bei, das Gewicht nach Gewichtsabnahme zu halten.</td><td>Damit die Angabe zulässig ist, muss das Lebensmittel den Anforderungen nach Artikel 3 und 35*d* VLBE[^annex14-lvlu1-3] entsprechen.</td><td>Damit die Angabe zulässig ist, müssen die Konsumentinnen und Konsumenten über die Bedeutung einer ausreichenden täglichen Flüssigkeitsaufnahme aufgeklärt und auf die Tatsache hingewiesen werden, dass die Erzeugnisse ihren Zweck nur erfüllen, wenn sie im Rahmen einer kalorienarmen Ernährung verwendet werden, zu der notwendigerweise auch andere Lebensmittel gehören. Um die angegebene Wirkung zu erzielen, muss täglich eine Hauptmahlzeit durch einen Mahlzeitersatz ersetzt werden.</td></tr>
+<tr><td>Mahlzeitersatz für gewichtskontrollierende Ernährung</td><td>Das Ersetzen von zwei täglichen Hauptmahlzeiten im Rahmen einer kalorienarmen Ernährung durch einen solchen Mahlzeitersatz trägt zu Gewichtsabnahme bei.</td><td>Damit die Angabe zulässig ist, muss das Lebensmittel den Anforderungen nach Artikel 3 und 35d VLBE entsprechen.</td><td>Damit die Angabe zulässig ist, müssen die Konsumentinnen und Konsumenten über die Bedeutung einer ausreichenden täglichen Flüssigkeitsaufnahme aufgeklärt und auf die Tatsache hingewiesen werden, dass die Erzeugnisse ihren Zweck nur erfüllen, wenn sie im Rahmen einer kalorienarmen Ernährung verwendet werden, zu der notwendigerweise auch andere Lebensmittel gehören. Um die angegebene Wirkung zu erzielen, müssen täglich zwei Hauptmahlzeiten durch je einen Mahlzeitersatz ersetzt werden.</td></tr>
 <tr><td>Mangan</td><td>Mangan trägt zu einem normalen Energiestoffwechsel bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Manganquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Mangan</td><td>Mangan trägt zur Erhaltung normaler Knochen bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Manganquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
 <tr><td>Mangan</td><td>Mangan trägt zu einer normalen Bindegewebsbildung bei.</td><td>Die Angabe darf nur für Lebensmittel verwendet werden, die die Mindestanforderungen an eine Manganquelle nach Anhang 13 Ziffer 28 dieser Verordnung erfüllen.</td><td></td></tr>
@@ -1965,7 +1965,7 @@ Anhang 14*[^t-6]*
 
 [^annex14-lvlu1-1]: 1-Repetition-Maximum bezeichnet das Maximalgewicht, das eine Person bei einer Übungsausführung heben kann, bzw. die Maximalkraftleistung.
 [^annex14-lvlu1-2]: FCC = Food Chemicals Codex
-[^annex14-lvlu1-3]: Verordnung (EU) 2016/1413 der Kommission vom 24. August 2016 zur Änderung der Verordnung (EU) Nr. 432/2012 zur Festlegung einer Liste zulässiger anderer gesundheitsbezogener Angaben über Lebensmittel als Angaben über die Reduzierung eines Krankheitsrisikos sowie die Entwicklung und die Gesundheit von Kindern, Abl L 230 vom 25.8.2016, S. 8
+[^annex14-lvlu1-3]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
 [^annex14-lvlu1-4]: Verordnung (EU) 2015/2314 der Kommission vom 7. Dezember 2015 zur Zulassung einer anderen gesundheitsbezogenen Angabe über Lebensmittel als Angaben über die Reduzierung eines Krankheitsrisikos sowie die Entwicklung und die Gesundheit von Kindern und zur Änderung der Verordnung (EU) Nr. 432/2012, Fassung gemäss ABl. L 328 vom 12.12.2015, S. 46.
 [^annex14-lvlu1-5]: [SR 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
 [^annex14-lvlu1-6]: Im Fall von D-Tagatose und Isomaltulose muss es hier «andere Zuckerarten» heissen
