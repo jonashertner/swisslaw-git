@@ -1,40 +1,44 @@
 ---
 canton: AG
 number: "355.112"
-title: Verordnung über den Vollzug der eidgenössischen Chemikaliengesetzgebung
+title: Verordnung über den Vollzug der eidgenössischen Chemikalien- und der Vorläuferstoffgesetzgebung
 short: V ChemG
 language: de
-version: 2017-01-01
-valid_until: 2023-06-30
-version_adopted: 2016-11-09
+version: 2023-07-01
+version_adopted: 2023-05-31
 adopted: 2005-11-23
 in_force: 2006-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/355.112"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2341/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3325/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Vollzug der eidgenössischen Chemikaliengesetzgebung
+# Verordnung über den Vollzug der eidgenössischen Chemikalien- und der Vorläuferstoffgesetzgebung
 
 (V ChemG)
 
-Vom 23.11.2005 (Stand 01.01.2017)
+Vom 23.11.2005 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf Art. 32 des Bundesgesetzes über den Schutz vor gefährlichen Stoffen und Zubereitungen (Chemikaliengesetz, ChemG) vom 15. Dezember 2000[^ingress-1] sowie § 40 Abs. 1 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-2],
+gestützt auf Art. 32 des Bundesgesetzes über den Schutz vor gefährlichen Stoffen und Zubereitungen (Chemikaliengesetz, ChemG) vom 15. Dezember 2000[^ingress-1], Art. 28 Abs. 3 des Bundesgesetzes über Vorläuferstoffe für explosionsfähige Stoffe (Vorläuferstoffgesetz, VSG) vom 25. September 2020[^ingress-2], Art. 22 Abs. 1 der Verordnung über Vorläuferstoffe für explosionsfähige Stoffe (Vorläuferstoffverordnung, VVSG) vom 25. Mai 2022[^ingress-3] sowie § 40 Abs. 1 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-4],
 
 beschliesst:
 
 [^ingress-1]: SR [813.1](https://db.clex.ch/link/Bund/813.1/de)
-[^ingress-2]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
+[^ingress-2]: SR [941.42](https://db.clex.ch/link/Bund/941.42/de)
+[^ingress-3]: SR [941.421](https://db.clex.ch/link/Bund/941.421/de)
+[^ingress-4]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
 
 #### § 1
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Amt für Verbraucherschutz ist zuständig für den Vollzug der eidgenössischen Chemikaliengesetzgebung, soweit nicht ein anderer Erlass ausdrücklich eine andere Behörde als zuständig bezeichnet.
+<sup>1</sup> Das Amt für Verbraucherschutz ist zuständig für
+
+- a) den Vollzug der eidgenössischen Chemikaliengesetzgebung, wenn nicht ein anderer Erlass ausdrücklich eine andere Behörde als zuständig bezeichnet,
+- b) die Durchführung der Kontrolle von Verkaufsstellen im Auftrag des Fedpol gemäss Art. 28 Abs. 3 VSG und Art. 22 Abs. 1 VVSG.
 
 <sup>2</sup> Die Zusammenarbeit zwischen den Vollzugsbehörden des Arbeitnehmerschutzes und dem Amt für Verbraucherschutz beim Vollzug der Chemikaliengesetzgebung kann vertraglich geregelt werden.
 
