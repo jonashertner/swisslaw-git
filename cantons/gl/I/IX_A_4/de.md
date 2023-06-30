@@ -4,13 +4,12 @@ number: IX A/4
 title: Gesetz über die Standortförderung
 short: Standortförderungsgesetz
 language: de
-version: 2014-09-01
-valid_until: 2023-06-30
-version_adopted: 2014-05-04
+version: 2023-07-01
+version_adopted: 2023-05-07
 adopted: 2013-05-05
 in_force: 2014-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-A.4"
-pdf: "https://gesetze.gl.ch/api/de/versions/1631/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2431/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1631/pdf_file"
 
 (Standortförderungsgesetz)
 
-Vom 05.05.2013 (Stand 01.09.2014)
+Vom 05.05.2013 (Stand 01.07.2023)
 
 (Erlassen von der Landsgemeinde am 5. Mai 2013)
 
@@ -75,14 +74,15 @@ Vom 05.05.2013 (Stand 01.09.2014)
 
 **Instrumente der Umsetzung**
 
-<sup>1</sup> Der Kanton kann zur Standortförderung namentlich
+<sup>1</sup> Der Kanton kann zur Standortförderung namentlich:
 
 - a. Beiträge leisten an die Erarbeitung von Studien und Konzepten, an die Forschung und die Entwicklung von Produkten und Dienstleistungen;
-- b. Mitgliedschaften bei Institutionen eingehen;
+- b. Mitglied einer Institution werden oder sich an einer solchen beteiligen;
 - c. überbetriebliche Kooperationsprojekte unterstützen;
 - d. Beratung und Dienstleistungen anbieten oder diese finanzieren;
 - e. Promotionsanlässe selbst durchführen oder sich daran beteiligen;
-- f. Kredite verbürgen sowie Darlehen und Zinskostenbeiträge gewähren.
+- f. Kredite verbürgen sowie Darlehen und Zinskostenbeiträge gewähren;
+- g. Flächen und Immobilien zur Bereitstellung von Betriebsflächen erwerben, entwickeln und veräussern.
 
 <sup>2</sup> Er kann nach Massgabe des Bundesgesetzes über die Regionalpolitik Beiträge leisten, Investitionshilfedarlehen gewähren und Massnahmen zur Regionalentwicklung treffen.
 
@@ -119,7 +119,7 @@ Vom 05.05.2013 (Stand 01.09.2014)
 
 <sup>1</sup> Die Mittel für Massnahmen nach Artikel 8 Absatz 1 Buchstaben a – e werden über einen Budgetkredit bereitgestellt.
 
-<sup>2</sup> Die Umsetzungsinstrumente nach Artikel 8 Absatz 1 Buchstabe f werden über den Standortförderungsfonds finanziert. Der Landrat setzt die Einlagen in diesen Fonds über das Budget fest.
+<sup>2</sup> Die Umsetzungsinstrumente nach Artikel 8 Absatz 1 Buchstabe f und g werden über den Standortförderungsfonds finanziert. Der Landrat setzt die Einlagen in diesen Fonds über das Budget fest.
 
 <sup>3</sup> Für die Investitionshilfedarlehen des Kantons wird ein unbefristeter Verpflichtungskredit von 6 Millionen Franken zur Verfügung gestellt. Alle andern Beiträge und Massnahmen nach Massgabe des Bundesgesetzes über die Regionalpolitik werden über einen Budgetkredit finanziert.
 
@@ -135,10 +135,16 @@ Vom 05.05.2013 (Stand 01.09.2014)
 
 **Regierungsrat**
 
-<sup>1</sup> Der Regierungsrat entscheidet über Investitionshilfedarlehen und über die von der Standortförderungskommission vorberatenen Gesuche. Seine Entscheide sind endgültig; vorbehalten bleiben in einem koordinierten Verfahren zu erlassende Verfügungen mit unmittelbarem Einfluss auf die raumwirksame Ausgestaltung des Vorhabens, Verfügungen nach Massgabe des Bundesgesetzes über Regionalpolitik sowie solche betreffend die Rückforderung gewährter Investitionshilfen.
+<sup>1</sup> Der Regierungsrat entscheidet über Investitionshilfedarlehen und über den Erwerb, die Entwicklung und Veräusserung von Flächen und Immobilien gemäss Artikel 8 Absatz 1 Buchstabe g sowie über die von der Standortförderungskommission vorberatenen Gesuche. Seine Entscheide sind endgültig; vorbehalten bleiben in einem koordinierten Verfahren zu erlassende Verfügungen mit unmittelbarem Einfluss auf die raumwirksame Ausgestaltung des Vorhabens, Verfügungen nach Massgabe des Bundesgesetzes über Regionalpolitik sowie solche betreffend die Rückforderung gewährter Investitionshilfen.
 
 <sup>2</sup> Der Regierungsrat bezeichnet die zuständige Stelle für Standortförderung. Diese stellt die verwaltungsinterne und -externe Koordination sicher und holt für die einzelnen Gesuche zuhanden der Kommission und des Regierungsrates die Stellungnahme der betroffenen Gemeinde ein.
 
 <sup>3</sup> Der Regierungsrat regelt die weiteren Aufgaben und Kompetenzen.
+
+#### Art. 15
+
+**Landrat**
+
+<sup>1</sup> Der Landrat bestimmt die Kriterien für die Entwicklung von Flächen und Immobilien zur Bereitstellung von Betriebsflächen nach Artikel 8 Absatz 1 Buchstabe g.
 
 SBE 2013 24
