@@ -4,13 +4,12 @@ number: "153.753"
 title: Verfügung über die Delegation von Entscheid- und Unterzeichnungsbefugnissen in der Sicherheitsdirektion
 short: "Delegationsverfügung SD, DelV SD"
 language: de
-version: 2022-07-23
-valid_until: 2023-06-30
-version_adopted: 2022-07-15
+version: 2023-07-01
+version_adopted: 2023-06-22
 adopted: 2007-12-12
 in_force: 2008-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.753"
-pdf: "https://bgs.zg.ch/api/de/versions/2362/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2449/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2362/pdf_file"
 
 (Delegationsverfügung SD, DelV SD)
 
-Vom 12. Dezember 2007 (Stand 23. Juli 2022)
+Vom 12. Dezember 2007 (Stand 1. Juli 2023)
 
 Die Sicherheitsdirektion des Kantons Zug,
 
@@ -84,22 +83,15 @@ verfügt:
 
 **Entscheid- und Unterzeichnungsbefugnisse von Ämtern – Direktionssekretariat**
 
-<sup>1</sup> Das Direktionssekretariat entscheidet über Gesuche
+<sup>1</sup> …
 
-- a) …
-- b) …
-- c) zur Durchführung von Lotterien zu gemeinnützigen oder wohltätigen Zwecken (§ 1 Abs. 2 Ziff. 1 Lotteriegesetz vom 6. Juli 1978[^6-1]);
-- d) zur Durchführung von interkantonal oder gesamtschweizerisch durchgeführten Lotterien und Wetten (§ 1 Abs. 2 Ziff. 3 Lotteriegesetz vom 6. Juli 1978);
-- e) zur Durchführung einer Kleinlotterie (§ 4 Lotteriegesetz vom 6. Juli 1978);
-- f) um Erhöhung der Höchstspielsumme für eine Lotterie des kantonalen Rechts (§ 15 Abs. 2 Lotteriegesetz vom 6. Juli 1978);
-- g) zum Aufstellen und Betrieb von Spielautomaten (§ 4 Gesetz über Spielautomaten und Spiellokale vom 25. Februar 1982[^6-2]);
-- h) zur Eröffnung und zum Betrieb eines Spiellokals (§ 9 Gesetz über Spielautomaten und Spiellokale vom 25. Februar 1982);
-- i) zum Ausschank nicht-alkoholischer Getränke und zum Verkauf von Lebensmitteln mittels Warenautomaten (§ 17 Gesetz über Spielautomaten und Spiellokale vom 25. Februar 1982).
+<sup>2</sup> …
 
-<sup>2</sup> Die Delegation der Entscheid- und Unterzeichnungsbefugnis zur Erteilung von Bewilligungen umfasst jeweils auch die entsprechende Delegation zum Bewilligungsentzug.
+<sup>3</sup> Gesuche gemäss § 2 Abs. 2 der kantonalen Verordnung zur Bundesgesetzgebung über die Hilfe an Opfer von Straftaten vom 1. Dezember 2020 (VOHG[^6-1]) können bis zu einem Betrag von 5000 Franken von den für die Opferhilfeverfahren zuständigen juristischen Mitarbeitenden des Direktionssekretariats entschieden werden.
 
-[^6-1]: BGS [942.41](https://bgs.zg.ch/data/942.41/de)
-[^6-2]: BGS [942.48](https://bgs.zg.ch/data/942.48/de)
+<sup>4</sup> Die Generalsekretärin oder der Generalsekretär kann bei Abwesenheit der Direktionsvorsteherin oder des Direktionsvorstehers über Gesuche gemäss § 2 Abs. 2 VOHG entscheiden.
+
+[^6-1]: BGS [315.1](https://bgs.zg.ch/data/315.1/de)
 
 #### § 7
 
