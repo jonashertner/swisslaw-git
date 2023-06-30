@@ -4,11 +4,11 @@ title: Ordinanza della Commissione delle poste del 30 agosto 2018 sugli standard
 short: OSMLP
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/614"
 language: it
-version: 2019-01-01
+version: 2023-07-01
 adopted: 2018-08-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/614/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2018-614-20190101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/614/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/614/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2018-614-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/614/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/614/20190101/it"
 
 (OSMLP)
 
-del 30 agosto 2018 (Stato 1° gennaio 2019)
+del 30 agosto 2018 (Stato 1° luglio 2023)
 
 La Commissione delle poste (PostCom),
 
@@ -44,11 +44,13 @@ Essa si applica ai rapporti di lavoro tra:
 
 **Standard minimi**
 
-<sup>1</sup> Il salario lordo dei lavoratori ammonta almeno a 18.27 franchi all’ora.
+<sup>1</sup> Il salario lordo dei lavoratori ammonta almeno a 19 franchi all’ora.[^2-1]
 
 <sup>2</sup> La durata massima della settimana lavorativa convenuta contrattualmente è di 44 ore.
 
 <sup>3</sup> Gli standard minimi si applicano dall’inizio del rapporto di lavoro e indipendentemente dal tasso di occupazione.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O della PostCom del 6 ott. 2022, in vigore dal 1° lug. 2023 ([RU 2022 739](https://fedlex.data.admin.ch/eli/oc/2022/739)).
 
 #### Art. 3
 

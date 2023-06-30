@@ -4,11 +4,11 @@ title: Ordonnance de la Commission de la poste du 30 août 2018 relative aux exi
 short: OEMTP
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/614"
 language: fr
-version: 2019-01-01
+version: 2023-07-01
 adopted: 2018-08-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/614/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-614-20190101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/614/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/614/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-614-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/614/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/614/20190101/fr"
 
 (OEMTP)
 
-du 30 août 2018 (Etat le 1<sup>er</sup> janvier 2019)
+du 30 août 2018 (État le 1<sup>er</sup> juillet 2023)
 
 La Commission de la poste (PostCom),
 
@@ -44,11 +44,13 @@ Elle régit les rapports de travail entre:
 
 **Exigences minimales**
 
-<sup>1</sup> Le salaire horaire minimal brut des employés est de 18,27 francs.
+<sup>1</sup> Le salaire horaire minimal brut des employés s’élève au moins à 19 francs.[^2-1]
 
 <sup>2</sup> La durée maximale de la semaine de travail convenue contractuellement est de 44 heures.
 
 <sup>3</sup> Les exigences minimales s’appliquent dès le début des rapports de travail et indépendamment du taux d’occupation.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de la PostCom du 6 oct. 2022, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2022 739](https://fedlex.data.admin.ch/eli/oc/2022/739)).
 
 #### Art. 3
 

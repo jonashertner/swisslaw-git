@@ -4,11 +4,11 @@ title: Verordnung der Postkommission vom 30. August 2018 über die Mindeststanda
 short: VMAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/614"
 language: de
-version: 2019-01-01
+version: 2023-07-01
 adopted: 2018-08-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/614/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2018-614-20190101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/614/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/614/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2018-614-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/614/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/614/20190101/de"
 
 (VMAP)
 
-vom 30. August 2018 (Stand am 1. Januar 2019)
+vom 30. August 2018 (Stand am 1. Juli 2023)
 
 Die Postkommission (PostCom),
 
@@ -44,11 +44,13 @@ Sie gilt für Arbeitsverhältnisse zwischen:
 
 **Mindeststandards**
 
-<sup>1</sup> Der Bruttolohn für Arbeitnehmerinnen und Arbeitnehmer beträgt mindestens 18.27 Franken pro Stunde.
+<sup>1</sup> Der Bruttolohn für Arbeitnehmerinnen und Arbeitnehmer beträgt mindestens 19 Franken pro Stunde.[^2-1]
 
 <sup>2</sup> Die vertraglich vereinbarte Arbeitszeit beträgt höchstens 44 Stunden pro Woche.
 
 <sup>3</sup> Die Mindeststandards gelten ab Beginn des Arbeitsverhältnisses und unabhängig vom Beschäftigungsgrad.
+
+[^2-1]: Fassung gemäss Ziff. I der V der PostCom vom 6. Okt. 2022, in Kraft seit 1. Juli 2023 ([AS 2022 739](https://fedlex.data.admin.ch/eli/oc/2022/739)).
 
 #### Art. 3
 
