@@ -3,18 +3,18 @@ sr: "232.22"
 title: "Loi fédérale du 25 mars 1954 concernant la protection de l'emblème et du nom de la Croix-Rouge"
 eli: "https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355"
 language: fr
-version: 2017-01-01
+version: 2023-07-01
 adopted: 1954-03-25
 in_force: 1955-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-1954-1297_1327_1355-20170101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1954/1297_1327_1355/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1954-1297_1327_1355-20230701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1954/1297_1327_1355/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale concernant la protection de l’emblème et du nom de la Croix-Rouge
 
-du 25 mars 1954 (Etat le 1<sup>er</sup> janvier 2017)
+du 25 mars 1954 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -104,14 +104,14 @@ Est puni d’une peine privative de liberté d’un an au plus ou d’une peine 
 - a. fait usage, intentionnellement et contrairement aux dispositions de la présente loi ou du règlement visé à l’art. 4, al. 2, de l’emblème de la croix rouge sur fond blanc ou des mots «croix rouge» ou «croix de Genève», ou de tout autre signe ou mot susceptible d’être confondu avec eux;
 - b. appose de tels signes ou mots sur des enseignes, des annonces, des prospectus, des papiers de commerce, des sites Internet ou un support équivalent ou encore sur des marchandises ou sur leur emballage, ou vend, met en vente, importe, exporte ou fait transiter des marchandises ainsi marquées ou en met en circulation de toute autre manière.[^8-1]
 
-<sup>1bis</sup> Si l’auteur de l’infraction agit par métier, il encourt une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée. Dans les cas de peu de gravité, ou si l’auteur a agi par négligence, le juge peut prononcer l’amende.[^8-2]
+<sup>1bis</sup> Si l’auteur de l’infraction agit par métier, il encourt une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. Dans les cas de peu de gravité, ou si l’auteur a agi par négligence, le juge peut prononcer l’amende.[^8-2]
 
 <sup>2</sup> Les dispositions générales du code pénal suisse[^8-3] sont applicables aux infractions prévues par la présente loi; sont d’autre part réservées les dispositions plus rigoureuses de la partie spéciale dudit code.
 
 <sup>3</sup> Les dispositions du code pénal militaire du 13 juin 1927[^8-4] concernant les infractions commises en temps de guerre contre le droit des gens sont réservées.
 
 [^8-1]: Nouvelle teneur selon le ch. II 1 de l’annexe 3 à la L du 21 juin 2013 sur la protection des armoiries, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^8-2]: Introduit par le ch. II 1 de l’annexe 3 à la L du 21 juin 2013 sur la protection des armoiries, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^8-2]: Introduit par le ch. II 1 de l’annexe 3 à la L du 21 juin 2013 sur la protection des armoiries ([RO 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Nouvelle teneur selon le ch. I 10 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^8-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^8-4]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 

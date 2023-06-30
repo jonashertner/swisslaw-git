@@ -3,18 +3,18 @@ sr: "232.22"
 title: Bundesgesetz vom 25. März 1954 betreffend den Schutz des Zeichens und des Namens des Roten Kreuzes
 eli: "https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355"
 language: de
-version: 2017-01-01
+version: 2023-07-01
 adopted: 1954-03-25
 in_force: 1955-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355/20170101/de/xml/fedlex-data-admin-ch-eli-cc-1954-1297_1327_1355-20170101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1954/1297_1327_1355/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1954-1297_1327_1355-20230701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1954/1297_1327_1355/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz betreffend den Schutz des Zeichens und des Namens des Roten Kreuzes
 
-vom 25. März 1954 (Stand am 1. Januar 2017)
+vom 25. März 1954 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -31,9 +31,9 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Das Zeichen des roten Kreuzes auf weissem Grunde und die Worte «Rotes Kreuz» oder «Genfer Kreuz» dürfen, abgesehen von den in den nachfolgenden Artikeln erwähnten Fällen, sowohl in Friedens- als in Kriegszeiten nur verwendet werden, um das Personal und Material zu kennzeichnen, welche geschützt sind durch
+<sup>1</sup> nämlich das Personal, die Formationen, die Transporte, die Anstalten und das Material des Sanitätsdienstes der Armee mit Einschluss der freiwilligen Sanitätshilfe des Schweizerischen Roten Kreuzes, sowie die den bewaffneten Kräften zugeteilten Feldprediger.
 
-nämlich das Personal, die Formationen, die Transporte, die Anstalten und das Material des Sanitätsdienstes der Armee mit Einschluss der freiwilligen Sanitätshilfe des Schweizerischen Roten Kreuzes, sowie die den bewaffneten Kräften zugeteilten Feldprediger.
+Das Zeichen des roten Kreuzes auf weissem Grunde und die Worte «Rotes Kreuz» oder «Genfer Kreuz» dürfen, abgesehen von den in den nachfolgenden Artikeln erwähnten Fällen, sowohl in Friedens- als in Kriegszeiten nur verwendet werden, um das Personal und Material zu kennzeichnen, welche geschützt sind durch:
 
 - a. das Genfer Abkommen vom 12. August 1949[^1-1] zur Verbesserung des Loses der Verwundeten und Kranken der bewaffneten Kräfte im Felde;
 - b. das Genfer Abkommen vom 12. August 1949[^1-2] zur Verbesserung des Loses der Verwundeten, Kranken und Schiffbrüchigen der bewaffneten Kräfte zur See,
@@ -106,14 +106,14 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer:
 - a. vorsätzlich und entgegen den Vorschriften dieses Gesetzes oder des in Artikel 4 Absatz 2 vorgesehenen Reglements das Zeichen des roten Kreuzes auf weissem Grund oder die Worte «Rotes Kreuz» oder «Genfer Kreuz» oder ein anderes damit verwechselbares Zeichen oder Wort verwendet;
 - b. solche Zeichen oder Wörter auf Geschäftsschildern, Anzeigen, Prospekten, Geschäftspapieren, Internetseiten oder dergleichen anbringt oder sie auf Waren oder ihrer Verpackung anbringt oder so gekennzeichnete Waren verkauft, feilhält, ein-, aus- oder durchführt oder sonst in Verkehr setzt.[^8-1]
 
-<sup>1bis</sup> Handelt der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden. In leichten Fällen oder wenn der Täter fahrlässig gehandelt hat, kann auf Busse erkannt werden.[^8-2]
+<sup>1bis</sup> Handelt der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. In leichten Fällen oder wenn der Täter fahrlässig gehandelt hat, kann auf Busse erkannt werden.[^8-2]
 
 <sup>2</sup> Die allgemeinen Bestimmungen des Strafgesetzbuches[^8-3] sind auf die in diesem Gesetz vorgesehenen strafbaren Handlungen anwendbar; vorbehalten bleiben anderseits die strengeren Bestimmungen des Schweizerischen Strafgesetzbuches.
 
 <sup>3</sup> Vorbehalten bleiben die Bestimmungen des Militärstrafgesetzes vom 13. Juni 1927[^8-4] betreffend die Verletzung des Völkerrechts im Kriege.
 
 [^8-1]: Fassung gemäss Anhang 2 Ziff. II 1 des Wappenschutzgesetzes vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^8-2]: Eingefügt durch Anhang 2 Ziff. II 1 des Wappenschutzgesetzes vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^8-2]: Eingefügt durch Anhang 2 Ziff. II 1 des Wappenschutzgesetzes vom 21. Juni 2013 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Fassung gemäss Ziff. I 10 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^8-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^8-4]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
