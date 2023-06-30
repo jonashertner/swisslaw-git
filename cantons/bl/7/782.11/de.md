@@ -4,13 +4,12 @@ number: "782.11"
 title: Kantonale Gewässerschutzverordnung
 short: kGSchV
 language: de
-version: 2020-03-01
-valid_until: 2023-06-30
-version_adopted: 2020-01-21
+version: 2023-07-01
+version_adopted: 2023-06-06
 adopted: 2005-12-13
 in_force: 2006-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/782.11"
-pdf: "https://bl.clex.ch/api/de/versions/2551/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4526/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +18,15 @@ pdf: "https://bl.clex.ch/api/de/versions/2551/pdf_file"
 
 (kGSchV)
 
-Vom 13.12.2005 (Stand 01.03.2020)
+Vom 13.12.2005 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Absatz 2 der Kantonsverfassung[^ingress-1],
+gestützt auf 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -35,9 +34,9 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt den Vollzug des eidgenössischen Gewässerschutzrechts und des kantonalen Gesetzes vom 5. Juni 2003[^1-1] über den Gewässerschutz.
+<sup>1</sup> Diese Verordnung regelt den Vollzug des eidgenössischen Gewässerschutzrechts und des kantonalen Gesetzes über den Gewässerschutz vom 5. Juni 2003[^1-1].
 
-[^1-1]: GS 35.375, SGS [782](https://bl.clex.ch/data/782/de)
+[^1-1]: [SGS 782](https://bl.clex.ch/data/782/de)
 
 ## 2 Abwasser
 
@@ -53,7 +52,7 @@ beschliesst:
 
 - a. der Zustand und die Belastungen aller wichtigen ober- und unterirdischen Gewässer erhoben;
 - b. die geeigneten und priorisierten ökologischen Ziele für die ober- und unterirdischen Gewässer durch Massnahmen konkretisiert;
-- c. die technischen und wirtschaftlichen Aspekte der Siedlungsentwässerung, der Wassernutzung und der Landwirtschaft soweit notwendig festgelegt;
+- c. die technischen und wirtschaftlichen Aspekte der Siedlungsentwässerung, der Wassernutzung und der Landwirtschaft, soweit notwendig, festgelegt;
 - d. die Ziele des Natur- und Landschaftsschutz berücksichtigt;
 - e. die Bedingungen des Hochwasserschutzes und der Raumplanung berücksichtigt.
 
@@ -63,9 +62,9 @@ beschliesst:
 
 **Zustimmung Kanton**
 
-<sup>1</sup> Die Bau- und Umweltschutzdirektion erteilt die Zustimmung gemäss § 3 Absatz 3 des Gesetzes über den Gewässerschutz vom 5. Juni 2003[^3-1].
+<sup>1</sup> Die Bau- und Umweltschutzdirektion erteilt die Zustimmung gemäss § 3 Abs. 3 des Gesetzes über den Gewässerschutz vom 5. Juni 2003[^3-1].
 
-[^3-1]: GS 35.375, SGS [782](https://bl.clex.ch/data/782/de)
+[^3-1]: [SGS 782](https://bl.clex.ch/data/782/de/art3)
 
 #### § 4
 
@@ -83,13 +82,13 @@ beschliesst:
 
 <sup>1</sup> Der Kanton erlässt in Zusammenarbeit mit den Gemeinden eine «Richtlinie Datenstruktur Siedlungsentwässerung» («DSS-Richtlinie»).
 
-<sup>2</sup> Gemeinden, ARA-Betreiber und Unternehmen gemäss § 3 Abs. 3 des Gesetzes vom 5. Juni 2003[^4a-1] über den Gewässerschutz sorgen dafür, dass alle GEP-Daten nach der DSS-Richtlinie erfasst, nachgeführt und einmal jährlich an die Bau- und Umweltschutzdirektion eingereicht werden.
+<sup>2</sup> Gemeinden, ARA-Betreiber und Unternehmen gemäss § 3 Abs. 3 des Gesetzes über den Gewässerschutz vom 5. Juni 2003[^4a-1] sorgen dafür, dass alle GEP-Daten nach der DSS-Richtlinie erfasst, nachgeführt und einmal jährlich an die Bau- und Umweltschutzdirektion eingereicht werden.
 
 <sup>3</sup> Weitere interessierte Werkeigentümer können ihre GEP relevanten Daten, die nach der DSS-Richtlinie erfasst wurden, der Bau- und Umweltschutzdirektion einreichen.
 
 <sup>4</sup> Für die regierungsrätliche Genehmigung einer Teil- oder Vollrevision eines GEP muss der vollständige Datensatz gemäss DSS-Richtlinie eingereicht werden.
 
-[^4a-1]: GS 35.0375, [SGS 782](https://bl.clex.ch/data/782/de/art3)
+[^4a-1]: [SGS 782](https://bl.clex.ch/data/782/de/art3)
 
 ## 2.2 Anforderung an nicht verschmutztes Abwasser
 
@@ -99,7 +98,7 @@ beschliesst:
 
 <sup>1</sup> Abwasser gilt als nicht verschmutzt, wenn es bei der Einleitung in Gewässer oder vor einer Versickerung nicht einer Reinigung unterzogen werden muss. Eine Abwasserreinigung ist erforderlich, wenn die direkte Einleitung oder Versickerung zu nachteiligen physikalischen, chemischen oder biologischen Veränderungen des Wassers führt.
 
-<sup>2</sup> Die Zulässigkeit und die Bewilligungspflicht von Versickerungen und Einleitungen in ein Gewässer sind in Anhang 6 enthalten, der in der gedruckten Gesetzessammlung nicht publiziert wird, sondern auf der Homepage des Kantons Basel-Landschaft abrufbar[^5-1].
+<sup>2</sup> Die Zulässigkeit und die Bewilligungspflicht von Versickerungen und Einleitungen in ein Gewässer sind in Anhang 6 enthalten, der in der gedruckten Gesetzessammlung nicht publiziert wird, sondern auf der Homepage des Kantons Basel-Landschaft abrufbar.[^5-1]
 
 <sup>3</sup> Bewilligte Versickerungen sind durch die Gemeinden in einem Kataster festzuhalten.
 
@@ -109,17 +108,17 @@ beschliesst:
 
 [^5-2]
 
-[^5-2]: SGS [782](https://bl.clex.ch/data/782/de/art4), SR [814.20](https://db.clex.ch/link/Bund/814.20/de)
+[^5-2]: [SGS 782](https://bl.clex.ch/data/782/de/art4), [SR 814.20](https://db.clex.ch/link/Bund/814.20/de)
 
 #### § 6
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Amt für Umweltschutz und Energie erteilt die Bewilligungen gemäss § 7 Absatz 2 und § 9 des kantonalen Gewässerschutzgesetzes sowie gemäss Art. 22 Absatz 2 des Bundesgesetzes über den Gewässerschutz und ist für die Überwachung der Betriebe mit Nutztierhaltung zuständig.
+<sup>1</sup> Das Amt für Umweltschutz und Energie erteilt die Bewilligungen gemäss § 7 Abs. 2 und § 9 des kantonalen Gewässerschutzgesetzes sowie gemäss Art. 22 Abs. 2 des Bundesgesetzes über den Gewässerschutz und ist für die Überwachung der Betriebe mit Nutztierhaltung zuständig.
 
 <sup>2</sup> Muss Abwasser einer Vorbehandlung unterzogen werden, umfasst die Abwasserbewilligung auch das Zuleitungssystem bis zur Vorbehandlungsanlage.
 
-<sup>3</sup> Ist ausser der kommunalen Kanalisationsbewilligung gemäss § 4 Absatz 3 und § 7 Absatz 1 des Gewässerschutzgesetzes eine kantonale Abwasserbewilligung erforderlich, stellen die Gemeinden dem Amt für Umweltschutz und Energie die Gesuchsunterlagen zu.
+<sup>3</sup> Ist ausser der kommunalen Kanalisationsbewilligung gemäss § 4 Abs. 3 und § 7 Abs. 1 des Gewässerschutzgesetzes eine kantonale Abwasserbewilligung erforderlich, stellen die Gemeinden dem Amt für Umweltschutz und Energie die Gesuchsunterlagen zu.
 
 ## 2.4 Abwassereinleitung und -versickerung
 
@@ -127,7 +126,7 @@ beschliesst:
 
 **Anforderungen an das Abwasser**
 
-<sup>1</sup> Die Einleitung von Abwasser, das desinfizierende Wirkstoffe enthält, in ein Gewässer und seine Versickerung sind nur dann zulässig, wenn der Richtwert von 0,05 mg/l des desinfizierenden Wirkstoffes (z.B. Gesamtchlor) nicht überschritten wird.
+<sup>1</sup> Die Einleitung von Abwasser, das desinfizierende Wirkstoffe enthält, in ein Gewässer und seine Versickerung sind nur dann zulässig, wenn der Richtwert von 0,05 mg/l des desinfizierenden Wirkstoffes (z. B. Gesamtchlor) nicht überschritten wird.
 
 ## 3 Schadendienst
 
@@ -214,7 +213,7 @@ beschliesst:
 
 <sup>1</sup> Für die Überbindung der Kosten der Kläranlagenbetreiber auf die Gemeinden werden die in 1 Jahr abgeleiteten Schmutz- und Regenwassermengen pro Gemeinde zugrunde gelegt.
 
-<sup>1<sup>bis</sup></sup> Die Kosten für Fremdwasser überbinden die Kläranlagenbetreiber den Gemeinden im Einzugsgebiet einer Kläranlage dann, wenn der Fremdwasseranteil auf der Kläranlage 30 % der in 1 Jahr auf die Kläranlage abgeleiteten Abwassermenge übersteigt.
+<sup>1<sup>bis</sup></sup> Die Kosten für Fremdwasser überbinden die Kläranlagenbetreiber den Gemeinden im Einzugsgebiet einer Kläranlage dann, wenn der Fremdwasseranteil an der auf die Kläranlage abgeleiteten Menge von Schmutz- und Fremdwasser mehr als 30 % beträgt.
 
 <sup>2</sup> Für den Abwasserzweckverband Laufental - Lüsseltal sind die Bestimmungen seines Organisationsreglements für die Kostenüberbindung an die Verbandsgemeinden massgebend.
 
@@ -228,7 +227,7 @@ beschliesst:
 - b. Regenwasser — 10–30 %;
 - c. …
 
-<sup>1<sup>bis</sup></sup> Der 30 % übersteigende Fremdwasseranteil auf einer Kläranlage gemäss § 15 Abs. 1<sup>bis</sup> wird den Gemeinden im Verhältnis der pro Gemeinde abgeleiteten Schmutzwassermenge in Rechnung gestellt.
+<sup>1<sup>bis</sup></sup> Der 30 % übersteigende Fremdwasseranteil auf einer Kläranlage gemäss § 15 Abs. 1<sup>bis</sup> wird den Gemeinden im Verhältnis der pro Gemeinde abgeleiteten Schmutzwassermenge in Rechnung gestellt, wobei die Kosten für den Fremdwasseranteil maximal auf die Höhe der Kosten für das abgeleitete Schmutzwasser begrenzt werden.
 
 <sup>2</sup> Der Regierungsrat legt die Kostenanteile jährlich gemäss Abs. 1 sowie die sich daraus ergebenden Kostensätze (CHF/m³) in der Abwasserrechnung fest.
 
@@ -280,7 +279,7 @@ beschliesst:
 
 **Abwasserrechnungen der Gemeinden**
 
-<sup>1</sup> Weist eine Wasserbezügerin oder ein Wasserbezüger nach, dass mehr als 20% oder mehr als 500 m³/Jahr der verbrauchten Wassermenge nicht in die Schmutz- oder Mischwasserkanalisation abgeleitet wurde, ist diese Menge bei der Gebührenerhebung in Abzug zu bringen.
+<sup>1</sup> Weist eine Wasserbezügerin oder ein Wasserbezüger nach, dass mehr als 20 % oder mehr als 500 m³/Jahr der verbrauchten Wassermenge nicht in die Schmutz- oder Mischwasserkanalisation abgeleitet wurde, ist diese Menge bei der Gebührenerhebung in Abzug zu bringen.
 
 <sup>2</sup> Regenwassernutzungen von mehr als 200 m³/Jahr sind bei der Gebührenerhebung zu berücksichtigen. Die Gemeinde ist für die Erhebung dieser Abwassermenge zuständig.
 
@@ -304,13 +303,13 @@ beschliesst:
 
 <sup>1</sup> Gebühren werden erhoben für:
 
-- a. die Erteilung von Bewilligungen nach § 7 Absatz 2 und § 9 des Gesetzes über den Gewässerschutz[^23-1] gemäss Anhang 1;
+- a. die Erteilung von Bewilligungen nach § 7 Abs. 2 und § 9 des Gesetzes über den Gewässerschutz[^23-1] gemäss Anhang 1;
 - b. die Erteilung von Bewilligungen für Anlagen nach Art. 22 des Bundesgesetzes über den Schutz der Gewässer[^23-2] gemäss Anhang 2;
 - c. Einsätze und deren Nachbearbeitung durch den Schadendienst zur Verhinderung und Bekämpfung von Gewässerverunreinigungen gemäss Anhang 3;
-- d. Weitere hoheitliche Anordnungen, wie Sanierungsverfügungen und Nachkontrollen, nach Aufwand.
+- d. weitere hoheitliche Anordnungen, wie Sanierungsverfügungen und Nachkontrollen, nach Aufwand.
 
-[^23-1]: GS 35.375, SGS [782](https://bl.clex.ch/data/782/de/art7)
-[^23-2]: SR [814.20](https://db.clex.ch/link/Bund/814.20/de)
+[^23-1]: [SGS 782](https://bl.clex.ch/data/782/de/art7)
+[^23-2]: [SR 814.20](https://db.clex.ch/link/Bund/814.20/de)
 
 #### § 24
 
@@ -332,9 +331,9 @@ beschliesst:
 
 <sup>1</sup> Die Fälligkeit zur Bezahlung der Gebühren tritt 30 Tage nach der Rechnungsstellung ein.
 
-<sup>2</sup> Nach Eintritt des Fälligkeitstermins wird ein Verzugszins von 5% erhoben, unabhängig davon, ob eine Gebührenrechnung rechtskräftig ist.
+<sup>2</sup> Nach Eintritt des Fälligkeitstermins wird ein Verzugszins von 5 % erhoben, unabhängig davon, ob eine Gebührenrechnung rechtskräftig ist.
 
-<sup>3</sup> Die Mahngebühren betragen ab der 2. und für jede weitere Mahnung CHF 60.
+<sup>3</sup> Die Mahngebühren betragen ab der 2. und für jede weitere Mahnung CHF 60.–.
 
 ## 4.4 Beiträge an Abwasseranlagen ausserhalb des Bereichs der öffentlichen Kanalisation ([§ 15](https://bl.clex.ch/data/782/de/art15) GSchG BL)
 
@@ -348,24 +347,24 @@ beschliesst:
 
 <sup>3</sup> Die zur Berechnung des Beitrags als Vergleich beigezogenen Anschlusskosten in der Bauzone setzen sich zusammen:
 
-- a. aus den durchschnittlichen Kosten für den Anschlusskanal (inkl. Sammelschacht) an die öffentliche Kanalisation für eine vergleichbare Liegenschaft, mindestens CHF 10'000 und höchstens CHF 20'000;
-- b. bei Kleinkläranlagen zusätzlich aus dem Beitrag für den Anschluss an die öffentliche Kanalisation für eine vergleichbare Liegenschaft. Dieser Betrag berechnet sich aus der überbauten Fläche der Gebäude (Grundriss), in welchen häusliches Abwasser anfällt, multipliziert mit dem Beitragssatz von CHF 80/m².
+- a. aus den durchschnittlichen Kosten für den Anschlusskanal (inkl. Sammelschacht) an die öffentliche Kanalisation für eine vergleichbare Liegenschaft, mindestens CHF 10'000.– und höchstens CHF 20'000.–;
+- b. bei Kleinkläranlagen zusätzlich aus dem Beitrag für den Anschluss an die öffentliche Kanalisation für eine vergleichbare Liegenschaft; dieser Betrag berechnet sich aus der überbauten Fläche der Gebäude (Grundriss), in welchen häusliches Abwasser anfällt, multipliziert mit dem Beitragssatz von CHF 80.–/m².
 
 #### § 28
 
 **Einreichung und Prüfung der Gesuche**
 
-<sup>1</sup> Beitragsgesuche sind rechtzeitig, spätestens aber 1 Monat vor Baubeginn dem Amt für Umweltschutz und Energie zur Prüfung einzureichen. Dem Gesuch sind alle für die Prüfung notwendigen Unterlagen beizulegen.
+<sup>1</sup> Beitragsgesuche sind rechtzeitig, spätestens aber 1 Monat vor Baubeginn, dem Amt für Umweltschutz und Energie zur Prüfung einzureichen. Dem Gesuch sind alle für die Prüfung notwendigen Unterlagen beizulegen.
 
 #### § 29
 
 **Zuständigkeit für Beitragsentscheide**
 
-<sup>1</sup> Das Amt für Umweltschutz und Energie entscheidet über Beiträge von weniger als CHF 30'000.
+<sup>1</sup> Das Amt für Umweltschutz und Energie entscheidet über Beiträge von weniger als CHF 30'000.–.
 
-<sup>2</sup> Die Bau- und Umweltschutzdirektion entscheidet über Beiträge von CHF 30'000 bis CHF 100'000.
+<sup>2</sup> Die Bau- und Umweltschutzdirektion entscheidet über Beiträge von CHF 30'000.– bis CHF 100'000.–.
 
-<sup>3</sup> Der Regierungsrat entscheidet über Beiträge von mehr als CHF 100'000.
+<sup>3</sup> Der Regierungsrat entscheidet über Beiträge von mehr als CHF 100'000.–.
 
 #### § 30
 
@@ -373,9 +372,9 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Umweltschutz und Energie verfügt aufgrund der Beitragszusicherung die Auszahlung, sobald:
 
-- a. die Arbeiten abgeschlossen sind,
-- b. die Abrechnungsunterlagen vollständig vorliegen,
-- c. die Anlagen abgenommen sind und
+- a. die Arbeiten abgeschlossen sind;
+- b. die Abrechnungsunterlagen vollständig vorliegen;
+- c. die Anlagen abgenommen sind; und
 - d. die mit der Beitragszusicherung verbundenen Auflagen und Bedingungen erfüllt sind, soweit dies bereits möglich ist.
 
 <sup>2</sup> Auf Gesuch hin kann das Amt für Umweltschutz und Energie Akontozahlungen leisten.
@@ -386,8 +385,8 @@ beschliesst:
 
 <sup>1</sup> Beiträge sind teilweise oder ganz zurückzuerstatten, wenn:
 
-- a. sie zu Unrecht bezogen wurden,
-- b. ein erstellter Bau oder eine Anlage vor Ablauf von 2/3 der üblichen Nutzungsdauer aufgegeben oder ihrem Zweck entfremdet wird oder
+- a. sie zu Unrecht bezogen wurden;
+- b. ein erstellter Bau oder eine Anlage vor Ablauf von 2/3 der üblichen Nutzungsdauer aufgegeben oder ihrem Zweck entfremdet wird; oder
 - c. wichtige Bedingungen und Auflagen nicht eingehalten werden, insbesondere jene zur ordnungsgemässen Abwasserentsorgung.
 
 #### § 32
@@ -408,7 +407,7 @@ beschliesst:
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Die Kostenüberbindung an Gewerbe- und Industriebetriebe gemäss § 21 Absatz 4 der vorliegenden Verordnung erfolgt spätestens 2 Jahre nach deren Inkrafttreten.
+<sup>1</sup> Die Kostenüberbindung an Gewerbe- und Industriebetriebe gemäss § 21 Abs. 4 der vorliegenden Verordnung erfolgt spätestens 2 Jahre nach deren Inkrafttreten.
 
 <sup>2</sup> Die Kostenüberbindung gemäss § 15 Abs. 1 und Abs. 1<sup>bis</sup> erfolgt erstmals für das Jahr 2019 im Jahr 2020.
 
@@ -420,11 +419,11 @@ beschliesst:
 
 <sup>1</sup> Durch diese Verordnung werden aufgehoben:
 
-- a. die Verordnung vom 28. März 1995[^35-1] über die Gebühren für den Vollzug des Gewässerschutzrechts;
-- b. die Verordnung vom 28. März 1995[^35-2] über den Schadendienst für Gewässerverunreinigungen ;
-- c. die Verordnung vom 19. November 1996[^35-3] über Beiträge an Abwasseranlagen ausserhalb der öffentlichen Kanalisation.
+- a. die Verordnung über die Gebühren für den Vollzug des Gewässerschutzrechts vom 28. März 1995[^35-1];
+- b. die Verordnung über den Schadendienst für Gewässerverunreinigungen vom 28. März 1995[^35-2];
+- c. die Verordnung über Beiträge an Abwasseranlagen ausserhalb der öffentlichen Kanalisation vom 19. November 1996[^35-3].
 
-[^35-1]: GS 32.154, SGS 782.11
+[^35-1]: GS 32.154
 [^35-2]: GS 32.151, SGS 782.22
 [^35-3]: GS 32.664, SGS 782.41
 
