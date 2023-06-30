@@ -4,31 +4,32 @@ title: "Loi fédérale du 20 mars 1981 sur le travail à domicile (Loi sur le tr
 short: LTrD
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/108_108_108"
 language: fr
-version: 2009-01-01
+version: 2023-07-01
 adopted: 1981-03-20
 in_force: 1983-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/108_108_108/20090101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-108_108_108-20090101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/108_108_108/20090101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/108_108_108/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1983-108_108_108-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/108_108_108/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur le travail à domicile
 
-(Loi sur le travail à domicile, LTrD)**[^t-1]**
+(Loi sur le travail à domicile, LTrD)[^t-1]
 
-du 20 mars 1981 (Etat le 1<sup>er</sup> janvier 2009)
+du 20 mars 1981 (État le 1<sup>er</sup> juillet 2023)
 
-[^t-1]: Nouvelle teneur selon l’art. 1 let. f de l’O du 10 janv. 1996 ([RO 1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)).
+[^t-1]: Nouvelle teneur selon l’art. 1 let. f de l’O du 10 janv. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 34<sup>ter</sup> et 64<sup>bis</sup> de la constitution[^ingress-1], vu le message du Conseil fédéral du 27 février 1980[^ingress-2],
+vu l’art. 110, al. 1, let. a, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 27 février 1980[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [RS **1** 3; [RO 1976 2001](https://fedlex.data.admin.ch/eli/oc/1976/2001_2001_2001)]. Aux dispositions mentionnées correspondent actuellement les art. 41, 45, 59, 63, 110, 123, 147 et 178 de la Constitution du 18 avril 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [FF 1980 II 282](https://fedlex.data.admin.ch/eli/fga/1980/2_282_282_270)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nouvelle teneur selon le ch. I 10 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [FF 1980 II 282](https://fedlex.data.admin.ch/eli/fga/1980/2_282_282_270)
 
 ## Chapitre 1 Champ d’application
 
@@ -64,7 +65,7 @@ Lorsqu’il donne de l’ouvrage pour la première fois, l’employeur doit comm
 
 **Salaire, temps alloué, décompte**
 
-<sup>1</sup> Le salaire versé pour le travail à domicile sera conforme aux taux appliqués quant à la rétribution d’activités équivalentes, exercées dans l’entreprise. A défaut d’un salaire comparable dans l’entreprise, il y aura lieu d’appliquer le taux de salaire usuel accordé pour des travaux analogues dans la branche économique en question et dans la région. On tiendra équitablement compte du fait que les conditions du travail sont différentes selon que le travailleur exerce son activité dans l’entreprise ou à son domicile, ainsi que des frais supplémentaires ou des économies résultant du travail à domicile pour l’employeur et le travailleur.
+<sup>1</sup> Le salaire versé pour le travail à domicile sera conforme aux taux appliqués quant à la rétribution d’activités équivalentes, exercées dans l’entreprise. À défaut d’un salaire comparable dans l’entreprise, il y aura lieu d’appliquer le taux de salaire usuel accordé pour des travaux analogues dans la branche économique en question et dans la région. On tiendra équitablement compte du fait que les conditions du travail sont différentes selon que le travailleur exerce son activité dans l’entreprise ou à son domicile, ainsi que des frais supplémentaires ou des économies résultant du travail à domicile pour l’employeur et le travailleur.
 
 <sup>2</sup> Si le salaire est fixé d’après le travail fourni (salaire à la tâche) l’employeur doit indiquer au travailleur à domicile le taux de salaire ainsi que le temps évalué pour l’exécution du travail (temps alloué), à moins qu’il ne puisse pas l’être d’avance en raison de la nature du travail à accomplir.
 
@@ -120,19 +121,19 @@ L’employeur doit tenir une liste des travailleurs à domicile qu’il occupe e
 
 Les employeurs et les travailleurs à domicile sont tenus de donner aux organes d’exécution et de surveillance les renseignements nécessaires à l’exécution de la loi et de leur permettre l’accès à leurs locaux. Les organes d’exécution et de surveillance peuvent procéder à des contrôles, prélever des échantillons ainsi que consulter des listes et autres documents, notamment les conditions de travail, les bulletins et les registres de livraison et les décomptes.
 
-## Chapitre 3 Dispositions pénales****
-
-[^sec3-1]
-
-[^sec3-1]: A partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+## Chapitre 3 Dispositions pénales
 
 #### Art. 12
 
-**Infractions**
+**Sanctions**[^12-1]
 
-<sup>1</sup> Sera puni d’une amende celui qui aura contrevenu à une prescription de la présente loi ou aux dispositions d’exécution de celle-ci, ou à une décision particulière qui lui a été notifiée sous menace d’application de la peine prévue dans le présent article.
+<sup>1</sup> Est puni d’une amende quiconque contrevient intentionnellement à une prescription de la présente loi ou aux dispositions d’exécution de celle-ci, ou à une décision particulière qui lui a été notifiée sous menace d’application de la peine prévue dans le présent article.
 
-<sup>2</sup> Dans les cas graves d’infraction intentionnelle, son auteur pourra être puni des arrêts.
+<sup>2</sup> Dans les cas graves, l’auteur peut être puni d’une amende de 20 000 francs au plus.
+
+<sup>3</sup> L’auteur qui agit par négligence est puni d’une amende de 5000 francs au plus.
+
+[^12-1]: Nouvelle teneur selon le ch. I 10 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 13
 
@@ -169,7 +170,7 @@ La poursuite pénale incombe aux cantons.
 
 [^16-1]
 
-[^16-1]: Abrogé par le ch. 100 de l’annexe à la loi du 17 juin 2005 sur le Tribunal administratif fédéral, avec effet au 1<sup>er</sup> janv. 2007 ([RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+[^16-1]: Abrogé par le ch. 100 de l’annexe à la loi du 17 juin 2005 sur le Tribunal administratif fédéral, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 17
 
@@ -181,7 +182,7 @@ L’office fédéral exerce la haute surveillance sur l’exécution de la loi.
 
 [^18-1]
 
-[^18-1]: Abrogé par le ch. II 3 de l'annexe à la LF du 20 mars 2008 (Réorganisation des commissions extraparlementaires), avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818)5944; [FF 2007 6273](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+[^18-1]: Abrogé par le ch. II 3 de l’annexe à la LF du 20 mars 2008 (Réorganisation des commissions extraparlementaires), avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818)5944; [FF 2007 6273](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
 #### Art. 19
 
@@ -189,7 +190,7 @@ L’office fédéral exerce la haute surveillance sur l’exécution de la loi.
 
 Les personnes chargées d’exécuter la présente loi ou d’en surveiller l’exécution sont tenues au secret de fonction.
 
-[^19-1]: Nouvelle teneur selon le ch. II 3 de l'annexe à la LF du 20 mars 2008 (Réorganisation des commissions extraparlementaires), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818)5944; [FF 2007 6273](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+[^19-1]: Nouvelle teneur selon le ch. II 3 de l’annexe à la LF du 20 mars 2008 (Réorganisation des commissions extraparlementaires), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818)5944; [FF 2007 6273](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
 ## Chapitre 5 Dispositions finales
 
@@ -199,29 +200,15 @@ Les personnes chargées d’exécuter la présente loi ou d’en surveiller l’
 
 Le Conseil fédéral édicte les dispositions d’exécution après avoir entendu les cantons et les organisations intéressées.
 
-[^20-1]: Nouvelle teneur selon le ch. II 3 de l'annexe à la LF du 20 mars 2008 (Réorganisation des commissions extraparlementaires), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818)5944; [FF 2007 6273](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+[^20-1]: Nouvelle teneur selon le ch. II 3 de l’annexe à la LF du 20 mars 2008 (Réorganisation des commissions extraparlementaires), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818)5944; [FF 2007 6273](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
 #### Art. 21
 
 **Modification et abrogation du droit en vigueur**
 
-### (Ne concerne que le texte allemand).
+…[^21-1]
 
-### La loi du 13 mars 1964 sur le travail** est modifiée comme il suit:
-
-[^21-subdivu2-1]
-
-[^21-subdivu2-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57). La modification mentionnée ci-après est insérée dans ladite loi.
-
-Art. 3, let. f.
-
-..*.*
-
-### La loi fédérale du 12 décembre 1940 sur le travail à domicile** est abrogée.
-
-[^21-subdivu3-1]
-
-[^21-subdivu3-1]: [RS **8** 231; [RO 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)disp. fin. et trans. tit. X art. 6 ch. 4, **1951** 1239 art. 14 al. 2, **1966** 57 art. 68]
+[^21-1]: Les mod. peuvent être consultées au [RO 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108).
 
 #### Art. 22
 

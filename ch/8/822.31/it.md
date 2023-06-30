@@ -4,11 +4,11 @@ title: Legge federale del 20 marzo 1981 sul lavoro a domicilio (LLD)
 short: LLD
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/108_108_108"
 language: it
-version: 2009-01-01
+version: 2023-07-01
 adopted: 1981-03-20
 in_force: 1983-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/108_108_108/20090101/it/xml/fedlex-data-admin-ch-eli-cc-1983-108_108_108-20090101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/108_108_108/20090101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/108_108_108/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1983-108_108_108-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/108_108_108/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/108_108_108/20090101/it"
 
 (LLD)
 
-del 20 marzo 1981 (Stato 1° gennaio 2009)
+del 20 marzo 1981 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 34<sup>ter</sup> e 64<sup>bis</sup> della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 27 febbraio 1980[^ingress-2],
+visto l’articolo 110 capoverso 1 lettera a della Costituzione federale[^ingress-1];[^ingress-2]
+
+visto il messaggio del Consiglio federale del 27 febbraio 1980[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [CS **1** 3; [RU 1976 2001](https://fedlex.data.admin.ch/eli/oc/1976/2001_2001_2001)]. Vedi ora gli art. 41, 45, 59, 63, 110, 123, 147 e 178 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [FF 1980 II 270](https://fedlex.data.admin.ch/eli/fga/1980/2_282_282_270)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo giusta il n. I 10 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [FF 1980 II 270](https://fedlex.data.admin.ch/eli/fga/1980/2_282_282_270)
 
 ## Sezione 1: Campo d’applicazione
 
@@ -118,19 +121,19 @@ Il datore di lavoro deve tenere un elenco dei lavoratori a domicilio che occupa 
 
 I datori di lavoro e i lavoratori a domicilio sono tenuti a fornire alle autorità d’esecuzione e di vigilanza le informazioni necessarie all’esecuzione della legge e a permettere loro l’accesso ai locali. Le autorità d’esecuzione e di vigilanza possono procedere a controlli, prelevare campioni, come pure consultare gli elenchi ed altri documenti, in particolare le condizioni di lavoro, le bollette di accompagnamento, i registri delle forniture e i conteggi.
 
-## Sezione 3: Disposizioni penali****
-
-[^sec3-1]
-
-[^sec3-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2 - 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+## Sezione 3: Disposizioni penali
 
 #### Art. 12
 
-**Infrazioni**
+**Infrazioni**[^12-1]
 
-<sup>1</sup> Chiunque contravviene ad una prescrizione della presente legge o alle sue disposizioni esecutive oppure a una singola decisione notificatagli con la comminatoria della pena prevista nel presente articolo, è punito con la multa.
+<sup>1</sup> Chiunque intenzionalmente contravviene a una prescrizione della presente legge o alle sue disposizioni esecutive oppure a una singola decisione notificatagli con la comminatoria della pena prevista nel presente articolo, è punito con la multa.
 
-<sup>2</sup> In caso di grave infrazione intenzionale può essere pronunciato l’arresto.
+<sup>2</sup> Nei casi gravi può essere pronunciata la multa fino a 20 000 franchi.
+
+<sup>3</sup> Se l’autore ha agito per negligenza, la pena è della multa fino a 5000 franchi.
+
+[^12-1]: Nuovo testo giusta il n. I 10 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 13
 
@@ -167,7 +170,7 @@ Il procedimento penale spetta ai Cantoni.
 
 [^16-1]
 
-[^16-1]: Abrogato dal n. 100 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+[^16-1]: Abrogato dall’all. n. 100 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 17
 
@@ -179,7 +182,7 @@ L’Ufficio federale esercita l’alta vigilanza sull’esecuzione della legge.
 
 [^18-1]
 
-[^18-1]: Abrogato dal n. II 3 dell’all. alla LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), con effetto dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818)5944; [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+[^18-1]: Abrogato dall’all. n. II 3 della LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), con effetto dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818)5944; [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
 #### Art. 19
 
@@ -187,7 +190,7 @@ L’Ufficio federale esercita l’alta vigilanza sull’esecuzione della legge.
 
 Le persone incaricate di eseguire la presente legge o di vigilare sull’esecuzione sono tenute al segreto d’ufficio.
 
-[^19-1]: Nuovo testo giusta il n. II 3 dell’all. alla LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), in vigore dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818)5944; [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+[^19-1]: Nuovo testo giusta l’all. n. II 3 della LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), in vigore dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818)5944; [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
 ## Sezione 5: Disposizioni finali
 
@@ -197,29 +200,15 @@ Le persone incaricate di eseguire la presente legge o di vigilare sull’esecuzi
 
 Il Consiglio federale emana le disposizioni esecutive sentiti i Cantoni e le organizzazioni interessate.
 
-[^20-1]: Nuovo testo giusta il n. II 3 dell’all. alla LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), in vigore dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818)5944; [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+[^20-1]: Nuovo testo giusta l’all. n. II 3 della LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), in vigore dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818)5944; [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
 #### Art. 21
 
 **Modificazione e abrogazione**
 
-### (Concerne solo il testo tedesco)
+...[^21-1]
 
-### La legge del 13 marzo 1964** sul lavoro è modificata come segue:
-
-[^21-subdivu2-1]
-
-[^21-subdivu2-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57). Le modifiche qui appresso sono inserite nella L menzionata.
-
-Art. 3 lett. f
-
-...
-
-### La legge federale del 12 dicembre 1940** sul lavoro a domicilio è abrogata.
-
-[^21-subdivu3-1]
-
-[^21-subdivu3-1]: [CS **8** 223; [RU 1951 1273](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)art. 14 cpv. 2, [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)disp. fin. e trans. tit. X art. 6 n. 4. [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)art. 68]
+[^21-1]: Le mod. possono essere consultate alla [RU 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108).
 
 #### Art. 22
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. März 1981 über die Heimarbeit (Heimarbeitsgesetz,
 short: HArG
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/108_108_108"
 language: de
-version: 2009-01-01
+version: 2023-07-01
 adopted: 1981-03-20
 in_force: 1983-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/108_108_108/20090101/de/xml/fedlex-data-admin-ch-eli-cc-1983-108_108_108-20090101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/108_108_108/20090101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/108_108_108/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1983-108_108_108-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/108_108_108/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/108_108_108/20090101/de"
 
 (Heimarbeitsgesetz [HArG])
 
-vom 20. März 1981 (Stand am 1. Januar 2009)
+vom 20. März 1981 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft
 
-Gestützt auf die Artikel 34<sup>ter</sup> und 64<sup>bis</sup> der Bundesverfassung[^ingress-1], nach Einsicht in eine Botschaft des Bundesrates vom 27. Februar 1980[^ingress-2],
+gestützt auf Artikel 110 Absatz 1 Buchstabe a der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 27. Februar 1980[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3; [AS 1976 2001](https://fedlex.data.admin.ch/eli/oc/1976/2001_2001_2001)]. Den genannten Bestimmungen entsprechen heute die Art. 41, 45, 59, 63, 110, 123, 147 und 178 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [BBl 1980 II 282](https://fedlex.data.admin.ch/eli/fga/1980/2_282_282_270)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I 10 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [BBl 1980 II 282](https://fedlex.data.admin.ch/eli/fga/1980/2_282_282_270)
 
 ## 1. Abschnitt: Geltungsbereich
 
@@ -120,19 +121,19 @@ Der Arbeitgeber hat ein Verzeichnis der von ihm beschäftigten Heimarbeitnehmer 
 
 Arbeitgeber und Heimarbeitnehmer sind verpflichtet, den Vollzugs- und Aufsichtsbehörden die für den Vollzug des Gesetzes erforderlichen Auskünfte zu erteilen und ihnen Zutritt zu ihren Räumlichkeiten zu gewähren. Die Vollzugs- und Aufsichtsbehörden können Kontrollen vornehmen und Proben entnehmen sowie Verzeichnisse und andere Unterlagen einsehen, namentlich die Arbeitsbedingungen, Begleitzettel, Lieferungsbücher und Abrechnungen.
 
-## 3. Abschnitt: Strafbestimmungen****
-
-[^sec3-1]
-
-[^sec3-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2-6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)) zu interpretieren beziehungsweise umzurechnen.
+## 3. Abschnitt: Strafbestimmungen
 
 #### Art. 12
 
-**Strafen**
+**Strafen**[^12-1]
 
-<sup>1</sup> Wer einer Vorschrift dieses Gesetzes oder seiner Ausführungsbestimmungen oder einer unter Hinweis auf die Strafdrohung dieses Artikels an ihn gerichteten Einzelverfügung zuwiderhandelt, wird mit Busse bestraft.
+<sup>1</sup> Wer vorsätzlich einer Vorschrift dieses Gesetzes oder seiner Ausführungsbestimmungen oder einer unter Hinweis auf die Strafdrohung dieses Artikels an ihn gerichteten Einzelverfügung zuwiderhandelt, wird mit Busse bestraft.
 
-<sup>2</sup> Bei vorsätzlicher Widerhandlung kann in schweren Fällen auf Haft erkannt werden.
+<sup>2</sup> In schweren Fällen kann auf Busse bis zu 20 000 Franken erkannt werden.
+
+<sup>3</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse bis zu 5000 Franken.
+
+[^12-1]: Fassung gemäss Ziff. I 10 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 13
 
@@ -163,13 +164,13 @@ Die Strafverfolgung ist Sache der Kantone.
 
 <sup>4</sup> Die Vollzugsbehörden erstatten dem Bundesamt für Industrie, Gewerbe und Arbeit[^15-1] (Bundesamt) über den Vollzug des Gesetzes jährlich Bericht.
 
-[^15-1]: Heute:«Staatssekretariat für Wirtschaft (SECO)» (Art. 5 der Organisationsverordnung für das Eidgenössische Volkswirtschaftsdepartement vom 14. Juni 1999 – [SR 172.216.1](https://fedlex.data.admin.ch/eli/cc/1999/344); [AS 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 3).
+[^15-1]: Heute: «Staatssekretariat für Wirtschaft (SECO)» (Art. 5 der Organisationsverordnung für das Eidgenössische Volkswirtschaftsdepartement vom 14. Juni 1999 – [SR 172.216.1](https://fedlex.data.admin.ch/eli/cc/1999/344); [AS 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 3).
 
 #### Art. 16
 
 [^16-1]
 
-[^16-1]: Aufgehoben durch Anhang Ziff. 100 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+[^16-1]: Aufgehoben durch Anhang Ziff. 100 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 17
 
@@ -205,31 +206,9 @@ Der Bundesrat erlässt die Ausführungsbestimmungen nach Anhören der Kantone un
 
 **Änderung und Aufhebung bisherigen Rechts**
 
-### Das Obligationenrecht (OR)** wird wie folgt geändert:
+…[^21-1]
 
-[^21-subdivu1-1]
-
-[^21-subdivu1-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)**.** Die hiernach aufgeführten Änderungen sind eingefügt im genannten BG.
-
-Art. 351–354 und 362 Abs. 1
-
-…
-
-### Das Arbeitsgesetz vom 13. März 1964** wird wie folgt geändert:
-
-[^21-subdivu2-1]
-
-[^21-subdivu2-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57). Die hiernach aufgeführten Änderungen sind eingefügt im genannten BG.
-
-Art. 3 Bst. f
-
-…
-
-### Das Bundesgesetz vom 12. Dezember 1940** über die Heimarbeit wird aufgehoben.
-
-[^21-subdivu3-1]
-
-[^21-subdivu3-1]: [BS **8** 229; [AS 1951 1231](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)Art. 14 Abs. 2, [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)Art. 68, [1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)Schl- und UeB zum X. Tit. Art. 6 Ziff. 4]
+[^21-1]: Die Änderungen können unter [AS 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)konsultiert werden.
 
 #### Art. 22
 
