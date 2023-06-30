@@ -4,13 +4,13 @@ number: "211.250"
 title: "Ordonnance sur la protection de l'enfant et de l'adulte"
 short: OPEA
 language: fr
-version: 2023-01-01
-valid_until: 2023-06-30
-version_adopted: 2022-09-28
+version: 2023-07-01
+valid_until: 2023-12-31
+version_adopted: 2023-07-05
 adopted: 2022-09-28
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.250"
-pdf: "https://lex.vs.ch/api/fr/versions/3073/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3226/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3073/pdf_file"
 
 (OPEA)
 
-du 28.09.2022 (état 01.01.2023)
+du 28.09.2022 (état 01.07.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -453,7 +453,7 @@ ordonne:
 
 **Archives**
 
-<sup>1</sup> Les APEA versent les dossiers aux Archives de l’Etat du Valais (ci-après: les Archives) 10 ans après leur clôture, quel que soit le support de conservation.
+<sup>1</sup> Les APEA versent les dossiers aux Archives de l’Etat du Valais (ci-après: les Archives) 5 ans après leur clôture, quel que soit le support de conservation.
 
 <sup>2</sup> Les dossiers versés aux Archives satisfont aux prescriptions du Guide de gestion des documents de l'administration cantonale.
 

@@ -4,13 +4,13 @@ number: "211.250"
 title: Verordnung über den Kindes- und Erwachsenenschutz
 short: VKES
 language: de
-version: 2023-01-01
-valid_until: 2023-06-30
-version_adopted: 2022-09-28
+version: 2023-07-01
+valid_until: 2023-12-31
+version_adopted: 2023-07-05
 adopted: 2022-09-28
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.250"
-pdf: "https://lex.vs.ch/api/de/versions/3073/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3226/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3073/pdf_file"
 
 (VKES)
 
-vom 28.09.2022 (Stand 01.01.2023)
+vom 28.09.2022 (Stand 01.07.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -453,7 +453,7 @@ verordnet:
 
 **Archivierung**
 
-<sup>1</sup> Die KESB übergeben die Akten 10 Jahre nach deren Abschluss an das Staatsarchiv Wallis (nachstehend: das Archiv), unabhängig vom Speichermedium.
+<sup>1</sup> Die KESB übergeben die Akten 5 Jahre nach deren Abschluss an das Staatsarchiv Wallis (nachstehend: das Archiv), unabhängig vom Speichermedium.
 
 <sup>2</sup> Die an das Archiv übergebenen Akten erfüllen die Vorgaben des Handbuches "Record Management" für die Kantonsverwaltung.
 
