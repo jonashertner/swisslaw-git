@@ -4,11 +4,11 @@ title: "Legge federale del 5 ottobre 2001 sulla protezione del design (Legge sul
 short: LDes
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/226"
 language: it
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2001-10-05
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-226-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2002-226-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20220101/it"
 
 (Legge sul design, LDes)
 
-del 5 ottobre 2001 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 5 ottobre 2001 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -26,7 +26,7 @@ visto l’articolo 122 della Costituzione federale[^ingress-1];[^ingress-2] vist
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. 5 dell’all. alla LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^ingress-2]: Nuovo testo giusta l’all. n. 5 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [FF 2000 2432](https://fedlex.data.admin.ch/eli/fga/2000/557)
 
 ## Capitolo 1: Disposizioni generali
@@ -116,7 +116,7 @@ La protezione del diritto di design si estende ai design che presentano gli stes
 
 <sup>2</sup> Il titolare del diritto può inoltre vietare a terzi di partecipare a un uso illecito, di favorirlo o di agevolarlo.
 
-[^9-1]: Introdotto dal n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^9-1]: Introdotto dall’all n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 10
 
@@ -226,7 +226,7 @@ Il design è considerato depositato dal momento in cui è presentata una domanda
 <sup>4</sup> Contro versamento di un emolumento, il design può essere corredato di una descrizione di 100 parole al massimo al fine di spiegare la raffigurazione.
 
 [^19-1]: Nuovo testo giusta l’all. n. 3 del DF del 28 set. 2018 concernente l’approvazione e l’attuazione della Conv. n. 94 del Consiglio d’Europa sulla notificazione all’estero dei documenti in materia amministrativa, in vigore dal 1° apr. 2019 ([RU 2019 975](https://fedlex.data.admin.ch/eli/oc/2019/177); [FF 2017 5061](https://fedlex.data.admin.ch/eli/fga/2017/1678)).
-[^19-2]: Nuova designazione giusta il n. 5 dell’all. alla LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^19-2]: Nuova designazione giusta l’all. n. 5 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^19-3]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^19-4]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
@@ -269,11 +269,11 @@ Il deposito crea la presunzione della novità e dell’originalità del design n
 
 <sup>3</sup> La registrazione di una priorità crea unicamente una presunzione a favore del titolare del diritto.
 
-### Sezione 3: Registrazione e rinnovo della protezione; comunicazione elettronica con le autorità****
+### Sezione 3: Registrazione e rinnovo della protezione; comunicazione elettronica con le autorità
 
 [^chap2-sec3-1]
 
-[^chap2-sec3-1]: Nuovo testo giusta il n. 5 dell’all. alla L del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
+[^chap2-sec3-1]: Nuovo testo giusta l’all. n. 5 della L del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
 #### Art. 24
 
@@ -321,7 +321,7 @@ Il deposito crea la presunzione della novità e dell’originalità del design n
 
 <sup>5</sup> Le pubblicazioni dell’IPI possono essere fatte in forma elettronica; la versione elettronica è tuttavia determinante soltanto se i dati sono pubblicati esclusivamente in forma elettronica.
 
-[^26a-1]: Introdotto dal n. 5 dell’all. alla LF del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
+[^26a-1]: Introdotto dall’all. n. 5 della LF del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
 #### Art. 27
 
@@ -359,7 +359,7 @@ Chi effettua il deposito internazionale di un disegno o modello industriale (des
 
 L’ammontare degli emolumenti da pagare secondo la presente legge e la relativa ordinanza nonché le modalità di pagamento sono retti dal Regolamento del 28 aprile 1997[^30-1] sulle tasse dell’Istituto della proprietà intellettuale (OT-IPI).
 
-[^30-1]: [[RU 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173), [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414), [2001 2385](https://fedlex.data.admin.ch/eli/oc/2001/342), [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393), [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. VI, [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278)[2431](https://fedlex.data.admin.ch/eli/oc/2008/349), [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310), [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299), [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197). [RU 2016 4845](https://fedlex.data.admin.ch/eli/oc/2016/777)art. 12 ]. Vedi ora l’O dell’IPI del 14 giu. 2016 sulle tasse, in vigore dal 1° gen. 2017 ([RS 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)).
+[^30-1]: [[RU 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173); [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414); **2001** 23855; [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393); [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. VI; [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278), [2431](https://fedlex.data.admin.ch/eli/oc/2008/349); [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310); [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299); [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197). [RU 2016 4845](https://fedlex.data.admin.ch/eli/oc/2016/777)art. 12 ]. Vedi ora l’O dell’IPI del 14 giu. 2016 sulle tasse, in vigore dal 1° gen. 2017 ([RS 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)).
 
 ## Capitolo 3: Protezione giuridica
 
@@ -380,7 +380,7 @@ Il proseguimento della procedura è escluso in caso di inosservanza dei termini:
 - a. per la presentazione della domanda di proseguimento della procedura;
 - b. per rivendicare una priorità.
 
-[^31-1]: Nuovo testo giusta il n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^31-1]: Nuovo testo giusta l’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^31-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 ### Sezione 2: ...
@@ -389,7 +389,7 @@ Il proseguimento della procedura è escluso in caso di inosservanza dei termini:
 
 [^32-1]
 
-[^32-1]: Abrogata dal n. 22 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^32-1]: Abrogata dall’all. n. 22 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Sezione 3: Diritto civile
 
@@ -442,7 +442,7 @@ Il giudice può ordinare la confisca e la realizzazione o la distruzione degli o
 
 [^37-1]
 
-[^37-1]: Abrogato dal n. II 11 dell’all. 1 al codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^37-1]: Abrogato dall’all. 1 n. II 11 del codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 38
 
@@ -455,7 +455,7 @@ Chi chiede al giudice di ordinare provvedimenti cautelari può in particolare es
 - c. salvaguardare lo stato di fatto; o
 - d. attuare a titolo provvisorio le pretese di omissione o di cessazione della turbativa.
 
-[^38-1]: Nuovo testo giusta il n. II 11 dell’all. 1 al Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^38-1]: Nuovo testo giusta l’all. 1 n. II 11 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 39
 
@@ -469,7 +469,7 @@ Su domanda della parte vincente, il giudice può ordinare che la sentenza sia pu
 
 Le autorità giudiziarie trasmettono all’IPI, gratuitamente e in copia integrale, le sentenze passate in giudicato.
 
-[^40-1]: Nuovo testo giusta il n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^40-1]: Nuovo testo giusta l’all n. 4. della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### Sezione 4: Diritto penale
 
@@ -485,10 +485,11 @@ Chiunque, intenzionalmente, viola il diritto di design:
 - b. partecipando a un atto d’uso o avendone favorito o facilitato l’esecuzione;
 - c. rifiutando di indicare all’autorità competente la provenienza e l’entità degli oggetti in suo possesso prodotti illecitamente nonché i destinatari e l’entità delle loro ulteriori forniture ad acquirenti commerciali,
 
-<sup>2</sup> Se agisce per mestiere, l’autore del reato è perseguito d’ufficio. È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.[^41-2]
+<sup>2</sup> Se agisce per mestiere, l’autore del reato è perseguito d’ufficio. È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria. ...[^41-2] [^41-3]
 
-[^41-1]: Nuovo testo giusta il n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^41-2]: Nuovo testo giusta il n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^41-1]: Nuovo testo giusta l’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^41-2]: Per. abrogato dal n. I 7 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^41-3]: Nuovo testo giusta l’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 41a
 
@@ -496,7 +497,7 @@ Chiunque, intenzionalmente, viola il diritto di design:
 
 Gli atti di cui all’articolo 9 capoverso 1<sup>bis</sup> sono esenti da pena.
 
-[^41a-1]: Introdotto dal n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^41a-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 42
 
@@ -528,7 +529,7 @@ Anche in caso di assoluzione, il giudice può ordinare la confisca o la distruzi
 
 Il perseguimento penale compete ai Cantoni.
 
-### Sezione 5: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini****
+### Sezione 5: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini
 
 [^chap3-sec5-1]
 
@@ -542,7 +543,7 @@ Il perseguimento penale compete ai Cantoni.
 
 <sup>2</sup> In tali casi l’UDSC[^46-3] è autorizzato a trattenere gli oggetti durante tre giorni feriali affinché il titolare del diritto possa presentare una domanda giusta l’articolo 47.
 
-[^46-1]: Nuovo testo giusta il n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^46-1]: Nuovo testo giusta l’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^46-2]: Nuovo testo giusta il n. I 4 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^46-3]: Nuova espr. giusta il n. I 4 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -556,7 +557,7 @@ Il perseguimento penale compete ai Cantoni.
 
 <sup>3</sup> L’UDSC decide definitivamente in merito alla domanda. Può riscuotere una tassa[^47-2] a copertura delle spese amministrative.
 
-[^47-1]: Nuovo testo giusta il n. 5 dell’all. alla LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^47-1]: Nuovo testo giusta l’all. n. 5 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^47-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 #### Art. 48
@@ -569,7 +570,7 @@ Il perseguimento penale compete ai Cantoni.
 
 <sup>3</sup> In casi motivati, l’UDSC può trattenere gli oggetti in questione per altri dieci giorni feriali al massimo.
 
-[^48-1]: Nuovo testo giusta il n. 5 dell’all. alla LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^48-1]: Nuovo testo giusta l’all n. 5 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 #### Art. 48a
 
@@ -581,7 +582,7 @@ Il perseguimento penale compete ai Cantoni.
 
 <sup>3</sup> Dopo l’esame, i campioni, sempre che ciò sia opportuno, devono essere restituiti. Se rimangono presso il richiedente, i campioni sottostanno alle disposizioni della legislazione doganale.
 
-[^48a-1]: Introdotto dal n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48a-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 48b
 
@@ -593,7 +594,7 @@ Il perseguimento penale compete ai Cantoni.
 
 <sup>3</sup> L’UDSC può, su richiesta motivata del dichiarante, detentore o proprietario, rifiutare la consegna di campioni.
 
-[^48b-1]: Introdotto dal n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48b-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 48c
 
@@ -605,7 +606,7 @@ Il perseguimento penale compete ai Cantoni.
 
 <sup>3</sup> La domanda di distruzione degli oggetti non implica un prolungamento dei termini per chiedere provvedimenti cautelari secondo l’articolo 48 capoversi 2 e 3.
 
-[^48c-1]: Introdotto dal n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48c-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 48d
 
@@ -615,7 +616,7 @@ Il perseguimento penale compete ai Cantoni.
 
 <sup>2</sup> Il consenso è considerato dato se il dichiarante, detentore o proprietario non si oppone espressamente alla distruzione degli oggetti entro i termini di cui all’articolo 48 capoversi 2 e 3.
 
-[^48d-1]: Introdotto dal n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48d-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 48e
 
@@ -623,7 +624,7 @@ Il perseguimento penale compete ai Cantoni.
 
 Prima della distruzione degli oggetti, l’UDSC preleva campioni e li conserva come prova per un’eventuale azione per risarcimento dei danni.
 
-[^48e-1]: Introdotto dal n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48e-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 48f
 
@@ -633,7 +634,7 @@ Prima della distruzione degli oggetti, l’UDSC preleva campioni e li conserva c
 
 <sup>2</sup> Se il dichiarante, detentore o proprietario ha acconsentito per scritto alla distruzione della merce, il richiedente non può essere chiamato a rispondere del danno nemmeno se successivamente la distruzione si rivela ingiustificata.
 
-[^48f-1]: Introdotto dal n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48f-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 48g
 
@@ -643,7 +644,7 @@ Prima della distruzione degli oggetti, l’UDSC preleva campioni e li conserva c
 
 <sup>2</sup> Sulle spese per il prelievo e la conservazione di campioni ai sensi dell’articolo 48*e* decide il giudice nell’ambito del giudizio relativo alle pretese di risarcimento dei danni secondo l’articolo 48*f* capoverso 1.
 
-[^48g-1]: Introdotto dal n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^48g-1]: Introdotto dall’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 49
 
@@ -653,7 +654,7 @@ Prima della distruzione degli oggetti, l’UDSC preleva campioni e li conserva c
 
 <sup>2</sup> Se non vengono ordinati provvedimenti cautelari o se i provvedimenti ordinati si rivelano infondati, il richiedente deve risarcire il danno causato dalla ritenzione della merce e dal prelievo dei campioni.
 
-[^49-1]: Nuovo testo giusta il n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^49-1]: Nuovo testo giusta l’all. n. 4 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ## Capitolo 4: Disposizioni finali
 
@@ -709,5 +710,5 @@ Le leggi federali qui appresso sono modificate come segue:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [CS **2** 857; [RU 1956 872](https://fedlex.data.admin.ch/eli/oc/1956/805_861_872), [1962 479](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479), [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. n. I lett. f, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 9, [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784)[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)all. n. 3]
+[^annexu1-lvlu1-1]: [CS **2** 857; [RU 1956 872](https://fedlex.data.admin.ch/eli/oc/1956/805_861_872); [1962 479](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479); [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. n. I lett. f; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 9; [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784), [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)all. n. 3]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226).

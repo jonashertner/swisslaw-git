@@ -4,11 +4,11 @@ title: "Loi fédérale du 5 octobre 2001 sur la protection des designs (Loi sur 
 short: LDes
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/226"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2001-10-05
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-226-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-226-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20220101/fr"
 
 (Loi sur les designs, LDes)
 
-du 5 octobre 2001 (Etat le 1<sup>er</sup> janvier 2022)
+du 5 octobre 2001 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -264,7 +264,7 @@ Le dépôt crée la présomption de la nouveauté et de l’originalité du desi
 
 <sup>3</sup> L’inscription d’une priorité ne constitue qu’une présomption en faveur du titulaire.
 
-### Section 3 Inscription et prolongation de la protection; communication électronique avec les autorités****
+### Section 3 Inscription et prolongation de la protection; communication électronique avec les autorités
 
 [^chap2-sec3-1]
 
@@ -344,7 +344,7 @@ L’IPI procède à la radiation partielle ou totale de l’enregistrement:
 
 Quiconque procède au dépôt international d’un dessin ou modèle industriel (design) désignant la Suisse bénéficie de la protection que la présente loi confère au titulaire d’un dépôt effectué en Suisse. Les dispositions de l’Arrangement de La Haye du 6 novembre 1925 concernant le dépôt international des dessins et modèles industriels[^29-1] priment celles de la présente loi si elles sont plus favorables au titulaire du dépôt international.
 
-[^29-1]: (RS **11** 1000]. Voir actuellement l’ar. de la Haye du 28 nov. 1960 concernant le dépôt international des dessins ou modèles industriels révisé à La Haye le 28 nov. 1960 ([RS 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)).
+[^29-1]: [RS **11** 1000]. Voir actuellement l’ar. de la Haye du 28 nov. 1960 concernant le dépôt international des dessins ou modèles industriels révisé à La Haye le 28 nov. 1960 ([RS 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)).
 
 ### Section 4 Taxes
 
@@ -478,10 +478,11 @@ Sur plainte du titulaire, est puni d’une peine privative de liberté d’un an
 - b. en collaborant à son utilisation, en la favorisant ou en la facilitant;
 - c. en refusant d’indiquer à l’autorité compétente la provenance et le nombre des objets en sa possession fabriqués illicitement ainsi que les destinataires et le nombre des objets qui ont été remis à des acquéreurs industriels.
 
-<sup>2</sup> Si l’auteur de l’infraction agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.[^41-2]
+<sup>2</sup> Si l’auteur de l’infraction agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. …[^41-2] [^41-3]
 
 [^41-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^41-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^41-2]: Phrase abrogée par le ch. I 7 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^41-3]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 41a
 
@@ -521,7 +522,7 @@ Même en cas d’acquittement, le tribunal peut ordonner la confiscation ou la d
 
 La poursuite pénale incombe aux cantons.
 
-### Section 5 Intervention de l’Office fédéral de la douane et de la sécurité des frontières****
+### Section 5 Intervention de l’Office fédéral de la douane et de la sécurité des frontières
 
 [^chap3-sec5-1]
 

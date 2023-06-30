@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 5. Oktober 2001 über den Schutz von Design (Designgese
 short: DesG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/226"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2001-10-05
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-226-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2002-226-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20220101/de"
 
 (Designgesetz, DesG)
 
-vom 5. Oktober 2001 (Stand am 1. Januar 2022)
+vom 5. Oktober 2001 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -264,7 +264,7 @@ Die Hinterlegung begründet die Vermutung der Neuheit und der Eigenart sowie der
 
 <sup>3</sup> Die Eintragung einer Priorität begründet lediglich eine Vermutung zu Gunsten der Rechtsinhaberin.
 
-### 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr****
+### 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr
 
 [^chap2-sec3-1]
 
@@ -352,7 +352,7 @@ Wer ein gewerbliches Muster oder Modell (Design) international mit Benennung Sch
 
 Die Höhe der nach diesem Gesetz und seiner Verordnung zu zahlenden Gebühren sowie die Zahlungsmodalitäten richten sich nach der Gebührenordnung des Eidgenössischen Instituts für Geistiges Eigentum vom 28. April 1997[^30-1] (IGE-GebO).
 
-[^30-1]: [[AS 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173), [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414), [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393), [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. VI, [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278), [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310), [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299), [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197). [AS 2016 4845](https://fedlex.data.admin.ch/eli/oc/2016/777)Art. 12]. Siehe heute: die Verordnung des IG vom 14. Juni 2016 über Gebühren ([SR 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)).
+[^30-1]: [[AS 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173); [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414); [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393); [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. VI; [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278); [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310); [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299); [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197). [AS 2016 4845](https://fedlex.data.admin.ch/eli/oc/2016/777)Art. 12]. Siehe heute: die Verordnung des IG vom 14. Juni 2016 über Gebühren ([SR 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)).
 
 ## 3. Kapitel: Rechtsschutz
 
@@ -375,7 +375,7 @@ Die Weiterbehandlung ist ausgeschlossen beim Versäumen der Fristen:
 
 [^31-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### 2. Abschnitt: ...
+### 2. Abschnitt: …
 
 #### Art. 32
 
@@ -478,10 +478,11 @@ Eine Person wird auf Antrag der Rechtsinhaberin mit Freiheitsstrafe bis zu einem
 - b. bei einer Gebrauchshandlung mitwirkt, deren Begehung begünstigt oder erleichtert;
 - c. sich weigert, der zuständigen Behörde die Herkunft und den Umfang der in ihrem Besitz befindlichen, widerrechtlich hergestellten Gegenstände anzugeben und AdressatsowieUmfang einer Weitergabe an gewerbliche Abnehmerinnen und Abnehmer zu nennen.
 
-<sup>2</sup> Gewerbsmässige Handlungen werden von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.[^41-2]
+<sup>2</sup> Gewerbsmässige Handlungen werden von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. …[^41-2] [^41-3]
 
 [^41-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^41-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^41-2]: Dritter Satz aufgehoben durch Ziff. I 7 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^41-3]: Fassung gemäss Anhang Ziff. 4 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 41a
 
@@ -521,7 +522,7 @@ Das Gericht kann selbst im Falle eines Freispruchs die Einziehung oder Vernichtu
 
 Die Strafverfolgung ist Sache der Kantone.
 
-### 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit****
+### 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit
 
 [^chap3-sec5-1]
 
@@ -699,7 +700,7 @@ II
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [BS **2** 873; [AS 1956 805](https://fedlex.data.admin.ch/eli/oc/1956/805_861_872), [1962 459](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479), [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. I Bst. f, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 9, [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784)[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Anhang Ziff. 3]
+[^annexu1-lvlu1-1]: [BS **2** 873; [AS 1956 805](https://fedlex.data.admin.ch/eli/oc/1956/805_861_872); [1962 459](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479); [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. I Bst. f; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 9; [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784), [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Anhang Ziff. 3]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226)konsultiert werden.

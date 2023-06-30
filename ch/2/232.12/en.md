@@ -4,11 +4,11 @@ title: "Federal Act of 5 October 2001 on the Protection of Designs (Designs Act,
 short: DesA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/226"
 language: en
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2001-10-05
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2002-226-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2002-226-20230701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Designs Act, DesA)
 
-of 5 October 2001 (Status as of 1 January 2022)
+of 5 October 2001 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -266,7 +266,7 @@ Filing creates a presumption of novelty and individual character as well as of t
 
 <sup>3</sup> Registration of priority is merely a presumption in favour of the right holder.
 
-### Section 3 Registration and Renewal of Protection; Electronic Administrative Communication****
+### Section 3 Registration and Renewal of Protection; Electronic Administrative Communication
 
 [^chap2-sec3-1]
 
@@ -354,7 +354,7 @@ Any person who designates Switzerland in an international filing of an industria
 
 The amount of the fees to be paid under this Act and its ordinance as well as the terms of payment are governed by the Fee Regulations of 28 April 1997[^30-1] of the Swiss Federal Institute of Intellectual Property (IGE-GebO).
 
-[^30-1]: [[AS 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173), [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414), [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393), [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. VI, [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278), [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310), [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299), [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197). [AS 2016 4845](https://fedlex.data.admin.ch/eli/oc/2016/777)Art. 12]. See now the Ordinance of the IG of 14 June 2016 about fees ([SR 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)).
+[^30-1]: [[AS 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173); [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414); [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393); [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. VI; [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278); [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310); [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299); [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197). [AS 2016 4845](https://fedlex.data.admin.ch/eli/oc/2016/777)Art. 12]. See now the Ordinance of the IG of 14 June 2016 about fees ([SR 232.148](https://fedlex.data.admin.ch/eli/cc/2016/777)).
 
 ## Chapter 3 Legal Remedies
 
@@ -480,18 +480,19 @@ On complaint from the right holder, any person who wilfully infringes the design
 - b. participates in, encourages or facilitates such unauthorised use;
 - c. refuses to provide the competent authority with information on the origin and extent of unlawfully manufactured items in his possession and to name the recipients and disclose the extent of any distribution to commercial customers.
 
-<sup>2</sup> If the offender acts for commercial gain, he shall be prosecuted *ex officio*. The penalty is a custodial sentence not exceeding five years or a monetary penalty. The custodial sentence shall be combined with a monetary penalty.[^41-2]
+<sup>2</sup> If the offender acts for commercial gain, he shall be prosecuted *ex officio*. The penalty is a custodial sentence not exceeding five years or a monetary penalty. …[^41-2] [^41-3]
 
 [^41-1]: Amended by Annex No 4 of the FA of 22 June 2007, in force since 1 July. 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^41-2]: {Amended by Annex No 4 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^41-2]: Third sentence repealed by No I 7 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^41-3]: Amended by Annex No 4 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 41a
 
-**Non-punishable acts**[^41a-1]
+**Acts that are not offences**[^41a-1]
 
 Acts under Article 9 paragraph 1<sup>bis</sup> are not criminal offences.
 
-[^41a-1]: {Inserted by Annex No 4 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^41a-1]: Inserted by Annex No 4 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 42
 
@@ -523,7 +524,7 @@ The court may order the forfeiture and sale or destruction of the unlawfully pro
 
 Prosecution is the responsibility of the cantons.
 
-### Section 5 Assistance provided by the Federal Office for Customs and Border Security****
+### Section 5 Assistance provided by the Federal Office for Customs and Border Security
 
 [^chap3-sec5-1]
 
@@ -703,5 +704,5 @@ The following federal acts are amended as follows:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [BS **2** 873; [AS 1956 805](https://fedlex.data.admin.ch/eli/oc/1956/805_861_872), [1962 459](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479), [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Annex No I let. f, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 9, [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784)[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Annex No 3]
+[^annexu1-lvlu1-1]: [BS **2** 873; [AS 1956 805](https://fedlex.data.admin.ch/eli/oc/1956/805_861_872); [1962 459](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479); [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Annex No I let. f; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 9; [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784), [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Annex No 3]
 [^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226).
