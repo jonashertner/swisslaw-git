@@ -1,23 +1,24 @@
 ---
 canton: VS
 number: "160.5"
-title: Gesetz über die Unvereinbarkeiten
+title: "Gesetz über die Unvereinbarkeiten *"
 short: GU
 language: de
-version: 2023-01-01
-corrected: 2023-04-20
-version_adopted: 2020-12-17
+version: 2023-07-01
+version_adopted: 2022-11-17
 adopted: 1998-02-11
 in_force: 1998-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/160.5"
-pdf: "https://lex.vs.ch/api/de/versions/3131/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3225/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Unvereinbarkeiten
 
-vom 11.02.1998 (Stand 01.01.2023)
+(GU)
+
+vom 11.02.1998 (Stand 01.07.2023)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -116,6 +117,15 @@ verordnet:
 - e) die Mitglieder einer Gemeindebehörde;
 - f) die vollamtlichen Vertreter der Staatsanwaltschaft.
 
+#### Art. 9a
+
+**Kindes- und Erwachsenenschutzbehörde**
+
+<sup>1</sup> Mit Ausnahme der Mitglieder der Ur- und Burgerversammlungen können nicht Mitglieder oder Stellvertreter der Kindes- und Erwachsenenschutzbehörde sein:
+
+- a) die Mitglieder der Legislativ-, Exekutiv-, Verwaltungs- und Gerichtsbehörden auf Gemeinde-, Burger-, Kantons- und Bundesebene;
+- b) die Beamten und Angestellten der Einwohner- und Burgergemeinden.
+
 ### 2.2 Unvereinbarkeiten aufgrund der Unterordnung eines Amtes unter ein anderes Amt
 
 #### Art. 10
@@ -134,7 +144,7 @@ verordnet:
 
 #### Art. 12
 
-<sup>1</sup> Die Ehegatten, Verwandten in gerader und in der Seitenlinie bis zum dritten Grad sowie die Verschwägerten bis zum zweiten Grad können nicht gleichzeitig Mitglieder des Staatsrates oder des gleichen Gerichtes sein.
+<sup>1</sup> Die Ehegatten, Verwandte in gerader und in der Seitenlinie bis zum dritten Grad sowie die Verschwägerten bis zum zweiten Grad können nicht gleichzeitig Mitglieder des Staatsrates, des gleichen Gerichts, Mitglieder oder Stellvertreter der gleichen Kindes- und Erwachsenenschutzbehörde sein.
 
 <sup>2</sup> Sie können auch nicht gleichzeitig administrative oder richterliche Ämter besetzen, deren eines dem anderen unmittelbar untergeordnet ist.
 
@@ -184,7 +194,8 @@ verordnet:
 
 - a) die Mitglieder des Gemeinderates;
 - b) der Richter und der Vizerichter;
-- c) die Beamten und Angestellten der Gemeinde und ihrer Anstalten.
+- c) die Beamten und Angestellten der Einwohnergemeinde;
+- d) das Personal von juristischen Personen, die von der Einwohnergemeinde gegründet wurden oder an denen diese mehrheitsbeteiligt (50 % und mehr) ist, sowie jenes von Gemeindeverbänden, in denen die Einwohnergemeinde Mitglied ist (Art. 116 ff. GemG).
 
 #### Art. 18
 
@@ -194,7 +205,8 @@ verordnet:
 
 - a) die Mitglieder des Burgerrates und des Generalrates;
 - b) der Richter und der Vizerichter;
-- c) die Beamten und Angestellten der Gemeinde und ihrer Anstalten.
+- c) die Beamten und Angestellten der Einwohnergemeinde;
+- d) das Personal von juristischen Personen, die von der Einwohnergemeinde gegründet wurden oder an denen diese mehrheitsbeteiligt (50 % und mehr) ist, sowie jenes von Gemeindeverbänden, in denen die Einwohnergemeinde Mitglied ist (Art. 116 ff. GemG).
 
 #### Art. 19
 
@@ -204,7 +216,8 @@ verordnet:
 
 - a) die Mitglieder des Gemeinde- und Generalrates;
 - b) der Richter und der Vizerichter;
-- c) die Beamten und Angestellten der Burgergemeinde und ihrer Anstalten.
+- c) die Beamten und Angestellten der Burgergemeinde;
+- d) das Personal von juristischen Personen, die von der Burgergemeinde gegründet wurden oder an denen diese mehrheitsbeteiligt (50 % und mehr) ist, sowie jenes von Gemeindeverbänden, in denen die Burgergemeinde Mitglied ist (Art. 116 ff. GemG).
 
 #### Art. 20
 
@@ -280,5 +293,11 @@ verordnet:
 <sup>1</sup> Dieses Gesetz unterliegt dem fakultativen Referendum.
 
 <sup>2</sup> Der Staatsrat setzt das Inkrafttreten dieses Gesetzes gleichzeitig mit jenem des Artikels 90 der Kantonsverfassung fest.
+
+## T1 Übergangsbestimmung der Änderung vom 17. November 2022
+
+#### Art. T1-1
+
+<sup>1</sup> Die in der Gesetzesrevision vorgesehenen Unvereinbarkeiten (Art. 17 bis 19) gelten nicht für die Mitglieder der Gemeindebehörden der laufenden Legislaturperiode (2021–2024).
 
 CSW RO/AGS 1998 f 21, 338 | d 22, 366

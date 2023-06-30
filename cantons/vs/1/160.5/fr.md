@@ -4,20 +4,21 @@ number: "160.5"
 title: Loi sur les incompatibilités
 short: LI
 language: fr
-version: 2023-01-01
-corrected: 2023-04-20
-version_adopted: 2020-12-17
+version: 2023-07-01
+version_adopted: 2022-11-17
 adopted: 1998-02-11
 in_force: 1998-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/160.5"
-pdf: "https://lex.vs.ch/api/fr/versions/3131/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3225/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Loi sur les incompatibilités
 
-du 11.02.1998 (état 01.01.2023)
+(LI)
+
+du 11.02.1998 (état 01.07.2023)
 
 Le Grand Conseil du canton du Valais
 
@@ -116,6 +117,15 @@ ordonne:
 - e) les membres d'une autorité municipale;
 - f) les représentants à plein temps du ministère public.
 
+#### Art. 9a
+
+**Autorité de protection de l'enfant et de l'adulte**
+
+<sup>1</sup> A l'exception des membres des assemblées primaires et bourgeoisiales, ne peuvent être membres ou suppléants de l'autorité de protection de l'enfant et de l'adulte:
+
+- a) les membres des autorités législatives, exécutives, administratives et judiciaires communales, bourgeoisiales, cantonales et fédérales;
+- b) les fonctionnaires et employés des communes municipales et bourgeoisiales.
+
 ### 2.2 Incompatibilités tenant à la subordination d'une fonction à une autre fonction
 
 #### Art. 10
@@ -134,7 +144,7 @@ ordonne:
 
 #### Art. 12
 
-<sup>1</sup> Les conjoints, les parents en ligne directe et collatérale jusqu'au troisième degré, les alliés en ligne directe et collatérale jusqu'au deuxième degré ne peuvent pas être simultanément membres du Conseil d'Etat ou d'un même tribunal.
+<sup>1</sup> Les conjoints, les parents en ligne directe et collatérale jusqu'au troisième degré, les alliés en ligne directe et collatérale jusqu'au deuxième degré ne peuvent pas être simultanément membres du Conseil d'Etat, d'un même tribunal, membres ou suppléants d'une même autorité de protection de l'enfant et de l'adulte.
 
 <sup>2</sup> Ils ne peuvent pas non plus occuper en même temps des fonctions administratives ou judiciaires dont l'une est immédiatement subordonnée à l'autre.
 
@@ -184,7 +194,8 @@ ordonne:
 
 - a) les membres du conseil municipal;
 - b) le juge et le vice-juge;
-- c) les fonctionnaires et employés de la commune municipale et de ses établissements.
+- c) les fonctionnaires et employés de la commune municipale;
+- d) le personnel des personnes morales constituées par la commune municipale ou dans lesquelles celle-ci possède une participation majoritaire (50 % et plus) ainsi que des associations de communes dont la commune municipale est membre (art. 116 ss LCo).
 
 #### Art. 18
 
@@ -194,7 +205,8 @@ ordonne:
 
 - a) les membres du conseil bourgeoisial et du conseil général;
 - b) le juge et le vice-juge;
-- c) les fonctionnaires et employés de la commune municipale et de ses établissements.
+- c) les fonctionnaires et employés de la commune municipale;
+- d) le personnel des personnes morales constituées par la commune municipale ou dans lesquelles celle-ci possède une participation majoritaire (50 % et plus) ainsi que des associations de communes dont la commune municipale est membre (art. 116 ss LCo).
 
 #### Art. 19
 
@@ -204,7 +216,8 @@ ordonne:
 
 - a) les membres du conseil municipal et du conseil général;
 - b) le juge et le vice-juge;
-- c) les fonctionnaires et employés de la commune bourgeoisiale et de ses établissements.
+- c) les fonctionnaires et employés de la commune bourgeoisiale;
+- d) le personnel des personnes morales constituées par la commune bourgeoisiale ou dans lesquelles celle-ci possède une participation majoritaire (50 % et plus) ainsi que des associations de communes dont la commune bourgeoisiale est membre (art. 116 ss LCo).
 
 #### Art. 20
 
@@ -280,5 +293,11 @@ ordonne:
 <sup>1</sup> La présente loi est soumise au référendum facultatif.
 
 <sup>2</sup> Le Conseil d'Etat fixe l'entrée en vigueur de la présente loi en même temps que celle de l'article 90 de la Constitution cantonale.
+
+## T1 Disposition transitoire de la modification du 17 novembre 2022
+
+#### Art. T1-1
+
+<sup>1</sup> Les incompatibilités prévues par la modification de la loi (art. 17 à 19) ne s’appliquent pas aux membres des autorités communales pour la législature en cours (2021–2024).
 
 RCV RO/AGS 1998 f 21, 338 | d 22, 366
