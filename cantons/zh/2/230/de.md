@@ -4,11 +4,11 @@ number: "230"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch (EG ZGB)
 short: EG ZGB
 language: de
-version: "2022-07-01"
-nachtrag: "117"
-valid_until: 2023-07-01
+version: "2023-07-01"
+nachtrag: "121"
+valid_until: 2024-12-01
 adopted: 1911-04-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-230-1911_04_02-1912_01_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-230-1911_04_02-1912_01_01-121.html"
 text: pdf
 ---
 
@@ -46,7 +46,7 @@ I. Zivilstandsamt
 
 **1**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 <sup>3</sup> Der Regierungsrat kann ein Sonderzivilstandsamt für das ganze Kantonsgebiet gemäss Art. 2 der eidgenössischen Zivilstandsverordnung vom 28. April 2004[^t-3] einrichten.
 
@@ -114,7 +114,7 @@ I. Zivilstandsamt
 
 **3**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 [^37-1]: LS 833.1.
 [^37-2]: SR 220.
@@ -191,7 +191,7 @@ I. Zivilstandsamt
 
 **5**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 ### Zweiter Titel: Kantonales Zivilrecht
 
@@ -273,7 +273,7 @@ Bei der Auflösung wird das Vermögen der Korporation an die Mitglieder verteilt
 
 **7**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 [^hAAllgemeineBestim-1]: SR 210.
 [^hAAllgemeineBestim-2]: LS 232.3.
@@ -364,7 +364,7 @@ Der Staat bezahlt der Gemeinde, welche vier Jahre lang ein Findelkind versorgt h
 
 **9**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 [^hDBetreibungsrechtl-1]: Fassung gemäss RRB vom 9. September 1987 (OS 50, 210). In Kraft seit 1. Januar 1988.
 [^hDBetreibungsrechtl-2]: Aufgehoben durch RRB vom 9. September 1987 (OS 50, 210). In Kraft seit 1. Januar 1988.
@@ -448,7 +448,7 @@ Der Rechnungsruf ist im Amtsblatt zu veröffentlichen und am Wohnsitz und in der
 
 **11**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 <sup>2</sup> Gelangt ein landwirtschaftliches Grundstück von 60 oder mehr Aren zur Teilung, so muss der einzelne Teil mindestens 30 Aren ausmachen.
 
@@ -493,31 +493,7 @@ die zu einem Gebäude oder eine Einfriedigung gehörenden Schlüssel, Vorfenster
 
 §§ 145–147.<sup>64</sup>
 
-§ 148. <sup>1</sup> Das Bergwerkregal erstreckt sich auf alle metallischen Erze, auf alle Salzarten und die Salzquellen und auf alle fossilen Brenn- und Leuchtstoffe, wie Schwefel, Stein-, Braun- und Schieferkohle.
-
-<sup>2</sup> Unter das Regal fallen nicht: Steinbrüche, Erden, Salpeter, Heilquellen, Torf.
-
-#### § 149
-
-<sup>1</sup> Werden auf einem Grundstück Stoffe gefunden, auf welche sich das Bergwerkregal erstreckt, so kann der Staat dem Finder die Berggerechtigkeit verleihen.
-
-<sup>2</sup> Die Verleihung erfolgt für einen oder mehrere Stoffe und in einer nach den Umständen zu bemessenden, zeitlich und örtlich bestimmten Ausdehnung, wobei auf Ermöglichung einer rationellen Ausbeutung Rücksicht zu nehmen und das Heimfallsrecht zu regeln ist.
-
-**13**
-
-- 1\. 7. 22 - 117
-
-<sup>3</sup> Der Regierungsrat kann eine angemessene Konzessionsgebühr festsetzen, die nach der nutzbaren Förderung und der örtlichen und zeitlichen Ausdehnung der Verleihung zu bemessen ist.
-
-<sup>4</sup> Der Staat kann die Ausbeutung selbst betreiben. In diesem Falle hat der Finder Anspruch auf Entschädigung für seine Bemühungen.
-
-#### § 150
-
-<sup>1</sup> Der Grundeigentümer hat Anspruch auf Ersatz allen Schadens.
-
-<sup>2</sup> Die Festsetzung der Entschädigung erfolgt nach den Grundsätzen des Expropriationsrechts[^150-1].
-
-[^150-1]: LS 781.
+§§ 148–150.<sup>84</sup>
 
 ### C. Inhalt und Beschränkungen des Grundeigentums
 
@@ -530,6 +506,10 @@ die zu einem Gebäude oder eine Einfriedigung gehörenden Schlüssel, Vorfenster
 #### § 168
 
 Wird jemand dadurch, dass ein Grundeigentümer sein Eigentumsrecht überschreitet (Art. 679 und 684 ZGB[^hIRechtzubauenun-1], geschädigt oder mit Schaden bedroht, so kann er zunächst den Schutz der Polizeibehörde anrufen.
+
+**13**
+
+- 1\. 7. 23 - 121
 
 ### II. Pflanzen von Bäumen
 
@@ -569,10 +549,6 @@ Bäume, welche infolge des früheren Rechts oder der Zulassung des Nachbars näh
 
 Gegen das Pflanzen von Bäumen und Sträuchern auf öffentlichen Strassen, Plätzen und Fusswegen kann keine privatrechtliche Einsprache erhoben werden, wenn eine Entfernung von mindestens 5 m von der Verkehrsbaulinie oder der sonstigen Baubegrenzungslinie beobachtet wird. Auf bestehenden derartigen Anlagen dürfen abgehende Bäume und Sträucher auch bei geringerem Abstand durch neue ersetzt werden.
 
-**15**
-
-- 1\. 7. 22 - 117
-
 ### III. Tretrecht
 
 #### § 175
@@ -591,9 +567,9 @@ Die Ufereigentümer an einem Fluss haben den Schifffahrern zu gestatten, sich de
 
 Grünhecken dürfen gegen den Willen des nachbarlichen Grundeigentümers nicht näher, als die Hälfte ihrer Höhe beträgt, jedenfalls aber nicht näher als 60 cm von der Grenze gehalten werden.
 
-#### § 178
+**15**
 
-Andere Einfriedigungen, wie sogenannte tote Hecken, Holzwände oder Mauern, welche die Höhe von 150 cm nicht übersteigen, darf der Eigentümer an der Grenze anbringen und daran auch Spaliere ziehen. Wenn die Einfriedigungen aber jene Höhe überschreiten, so kann der Nachbar begehren, dass sie je um die Hälfte der Höhe über 150 cm von der Grenze entfernt werden.
+- 1\. 7. 23 - 121 § 178. Andere Einfriedigungen, wie sogenannte tote Hecken, Holzwände oder Mauern, welche die Höhe von 150 cm nicht übersteigen, darf der Eigentümer an der Grenze anbringen und daran auch Spaliere ziehen. Wenn die Einfriedigungen aber jene Höhe überschreiten, so kann der Nachbar begehren, dass sie je um die Hälfte der Höhe über 150 cm von der Grenze entfernt werden.
 
 #### § 179
 
@@ -645,10 +621,6 @@ Es bleiben vorbehalten die Bestimmungen über die Flur- und Feldwege, das Planun
 
 <sup>2</sup> Bei der Festsetzung des Zeitpunktes der Rückerstattung ist auf die Verhältnisse des Betroffenen Rücksicht zu nehmen. Wo Gründe der Billigkeit es rechtfertigen, ist die Rückerstattung bis spätestens auf den Zeitpunkt der Realisierung des erwirkten Vorteils durch Veräusserung oder Überbauung zu verschieben.
 
-**17**
-
-- 1\. 7. 22 - 117
-
 <sup>3</sup> Das Gemeinwesen hat die Pflicht zur Rückerstattung der Entschädigung im Grundbuch anmerken zu lassen.
 
 <sup>4</sup> Bei Streitigkeiten über die Rückerstattung oder die Herabsetzung finden ebenfalls die §§ 32 ff. des Gesetzes über die Abtretung von Privatrechten[^183quater-1] Anwendung.
@@ -665,9 +637,9 @@ In dem Fusswegrecht ist das Recht enthalten, über das dienende Grundstück bezi
 
 Gebahnter Wege durch offenes Feld und Wald darf jeder Fussgänger sich bedienen, wenn kein besonderes Verbot im Wege steht.
 
-#### § 186
+**17**
 
-Wer ein Fahrwegrecht hat, darf auch über den Weg reiten und festgehaltenes (gefangenes) Vieh darüber führen, aber aus dem Fahrwegrecht folgt nicht das Recht, schwere Lasten zu schleifen oder freigelassenes Vieh darüber zu treiben.
+- 1\. 7. 23 - 121 § 186. Wer ein Fahrwegrecht hat, darf auch über den Weg reiten und festgehaltenes (gefangenes) Vieh darüber führen, aber aus dem Fahrwegrecht folgt nicht das Recht, schwere Lasten zu schleifen oder freigelassenes Vieh darüber zu treiben.
 
 #### § 187
 
@@ -709,25 +681,22 @@ Von Gesetzes wegen bestehen folgende Pfandrechte:
 
 - a. zugunsten der Gebäudeversicherungsanstalt für die Versicherungsprämien (§ 46 Abs. 3 des Gesetzes über die Gebäudeversicherung[^194-1],
 
+- b. für Forderungen der Gemeinde aus den im Interesse der Feuerpolizei getroffenen baulichen Massnahmen gemäss § 4 Abs. 2 des genannten Gesetzes, c.<sup>42</sup> zugunsten des Staates oder der Gemeinden für Forderungen, die ihnen aus Hochwasserschutzmassnahmen und Konzessionen gegen einzelne Grundeigentümer erwachsen (Wasserwirtschaftsgesetz[^194-2], d.
+
+e.<sup>47</sup> zugunsten der Gemeinden für die Grundsteuern (§ 208 Steuergesetz[^194-3], f.<sup>42</sup> zugunsten des Staates, der Gemeinden und der Werkträger für Beiträge und Anschlussgebühren für öffentliche Unternehmungen und Erschliessungsanlagen, für Beiträge an die Kosten der Erstellung von Privatstrassen, für Ersatzabgaben aus der Befreiung von der Pflicht zur Erstellung von Fahrzeugabstellplätzen (§ 246 Planungs- und Baugesetz[^194-4] und für Ersatzabgaben für Grundwasseranreicherungsanlagen (§ 71 Wasserwirtschaftsgesetz[^194-2],
+
+- g. zugunsten der öffentlichrechtlichen Genossenschaften und der vertraglich zusammengeschlossenen Grundeigentümer, welche gemeinschaftlich eine Verbesserungsmassnahme im Sinne der §§ 45 bis 140 des Landwirtschaftsgesetzes[^194-5] durchführen oder ein geschaffenes Werk unterhalten oder betreiben, für die Ansprüche gegen die Beteiligten, h.<sup>81</sup> zugunsten des Kantons und der Gemeinden für den Mehrwertausgleich (§§ 9 und 24 Mehrwertausgleichsgesetz[^194-6].
+
 **19**
 
-- 1\. 7. 22 - 117
-
-- b. für Forderungen der Gemeinde aus den im Interesse der Feuerpolizei getroffenen baulichen Massnahmen gemäss § 4 Abs. 2 des genannten Gesetzes, c.[^194-2] zugunsten des Staates oder der Gemeinden für Forderungen, die ihnen aus Hochwasserschutzmassnahmen und Konzessionen gegen einzelne Grundeigentümer erwachsen (Wasserwirtschaftsgesetz[^194-3], d.
-
-e.<sup>47</sup> zugunsten der Gemeinden für die Grundsteuern (§ 208 Steuergesetz[^194-4], f.[^194-2] zugunsten des Staates, der Gemeinden und der Werkträger für Beiträge und Anschlussgebühren für öffentliche Unternehmungen und Erschliessungsanlagen, für Beiträge an die Kosten der Erstellung von Privatstrassen, für Ersatzabgaben aus der Befreiung von der Pflicht zur Erstellung von Fahrzeugabstellplätzen (§ 246 Planungs- und Baugesetz[^194-5] und für Ersatzabgaben für Grundwasseranreicherungsanlagen (§ 71 Wasserwirtschaftsgesetz[^194-3],
-
-- g. zugunsten der öffentlichrechtlichen Genossenschaften und der vertraglich zusammengeschlossenen Grundeigentümer, welche gemeinschaftlich eine Verbesserungsmassnahme im Sinne der §§ 45 bis 140 des Landwirtschaftsgesetzes[^194-6] durchführen oder ein geschaffenes Werk unterhalten oder betreiben, für die Ansprüche gegen die Beteiligten, h.<sup>81</sup> zugunsten des Kantons und der Gemeinden für den Mehrwertausgleich (§§ 9 und 24 Mehrwertausgleichsgesetz[^194-7].
-
-§ 195.<sup>47</sup> Die gesetzlichen Pfandrechte bedürfen zu ihrer Entstehung keiner Eintragung. Die in § 194 lit. c und f genannten erlöschen jedoch, wenn sie nicht innerhalb von sechs Monaten nach der Fälligkeit der Forderung eingetragen werden, diejenigen nach § 194 lit. e, wenn sie nicht eingetragen werden innerhalb von drei Jahren nach der Handänderung oder bei einer solchen, die keine Eintragung im Grundbuch voraussetzt, seit der Wahrnehmung durch die für die Einschätzung zuständige Steuerbehörde. Die Pfandrechte gemäss § 194 lit. g erlöschen, wenn sie nicht innerhalb von zwei Jahren nach der Fälligkeit des Anspruchs eingetragen werden.
+- 1\. 7. 23 - 121 § 195.<sup>47</sup> Die gesetzlichen Pfandrechte bedürfen zu ihrer Entstehung keiner Eintragung. Die in § 194 lit. c und f genannten erlöschen jedoch, wenn sie nicht innerhalb von sechs Monaten nach der Fälligkeit der Forderung eingetragen werden, diejenigen nach § 194 lit. e, wenn sie nicht eingetragen werden innerhalb von drei Jahren nach der Handänderung oder bei einer solchen, die keine Eintragung im Grundbuch voraussetzt, seit der Wahrnehmung durch die für die Einschätzung zuständige Steuerbehörde. Die Pfandrechte gemäss § 194 lit. g erlöschen, wenn sie nicht innerhalb von zwei Jahren nach der Fälligkeit des Anspruchs eingetragen werden.
 
 [^194-1]: LS 862.1.
-[^194-2]: Fassung gemäss Wasserwirtschaftsgesetz vom 2. Juni 1991 (OS 51, 707). In Kraft seit 1. Januar 1993 (OS 52, 255).
-[^194-3]: LS 724.11.
-[^194-4]: LS 631.1.
-[^194-5]: LS 700.1.
-[^194-6]: LS 910.1.
-[^194-7]: LS 700.9.
+[^194-2]: LS 724.11.
+[^194-3]: LS 631.1.
+[^194-4]: LS 700.1.
+[^194-5]: LS 910.1.
+[^194-6]: LS 700.9.
 
 #### § 196
 
@@ -741,14 +710,13 @@ a und b.
 
 - c. die Gemeinden für die Kosten des Vollzugs und der Ausführung von Quartierplänen sowie von Vollstreckungsmassnahmen, soweit sie Grundstücke betreffen,
 
-- d. Staat, Gemeinden und andere Träger öffentlicher Werke für Gebühren aus der Inanspruchnahme öffentlichen Grundes. e.[^197-1] der Staat für Staatsbeiträge an Investitionen, soweit nicht von Gesetzes wegen Pfandrechte gemäss § 194 lit. c und f bestehen und die Staatsbeiträge nicht Gemeinden oder Gemeindeverbindungen ausgerichtet werden.
+- d. Staat, Gemeinden und andere Träger öffentlicher Werke für Gebühren aus der Inanspruchnahme öffentlichen Grundes. e.<sup>41</sup> der Staat für Staatsbeiträge an Investitionen, soweit nicht von Gesetzes wegen Pfandrechte gemäss § 194 lit. c und f bestehen und die Staatsbeiträge nicht Gemeinden oder Gemeindeverbindungen ausgerichtet werden.
 
-[^197-1]: Eingefügt durch Staatsbeitragsgesetz vom 1. April 1990 (OS 51, 77). In Kraft seit 1. Januar 1991 (OS 51, 350).
-[^197-2]: Vgl. Art. 7–10 des BG über die Schuldbetreibung gegen Gemeinden und andere Körperschaften des kantonalen öffentlichen Rechts vom 4. Dezember 1947 (SR 282.11).
+[^197-1]: Vgl. Art. 7–10 des BG über die Schuldbetreibung gegen Gemeinden und andere Körperschaften des kantonalen öffentlichen Rechts vom 4. Dezember 1947 (SR 282.11).
 
 #### § 198
 
-Auf Grundstücke, die zur Erfüllung der gemäss der Gesetzgebung unerlässlichen öffentlichen Aufgaben der Gemeinde bestimmt sind, darf ohne Zustimmung des Regierungsrates ein Grundpfand nicht errichtet werden.[^197-2]
+Auf Grundstücke, die zur Erfüllung der gemäss der Gesetzgebung unerlässlichen öffentlichen Aufgaben der Gemeinde bestimmt sind, darf ohne Zustimmung des Regierungsrates ein Grundpfand nicht errichtet werden.[^197-1]
 
 #### § 199
 
@@ -774,13 +742,13 @@ und -vermittler<sup>63</sup>
 
 <sup>2</sup> Der Regierungsrat ist ermächtigt, solche Bewilligungen inskünftig nur noch an öffentliche Anstalten des Kantons oder der Gemeinden sowie an gemeinnützige Unternehmungen zu erteilen (Art. 907 ZGB[^hFVorschriftenüber-1].
 
-**21**
+[^hFVorschriftenüber-1]: SR 210.
 
-- 1\. 7. 22 - 117 § 203. <sup>1</sup> Der Pfandleiher darf an Zins nicht mehr als 1% für den Monat beziehen.
+#### § 203
+
+<sup>1</sup> Der Pfandleiher darf an Zins nicht mehr als 1% für den Monat beziehen.
 
 <sup>2</sup> Der Zins darf nicht vorausgenommen werden.
-
-[^hFVorschriftenüber-1]: SR 210.
 
 #### § 204
 
@@ -802,9 +770,9 @@ Der Pfandleiher hat die bei ihm hinterlegten Pfänder gegen Feuergefahr zu versi
 
 Der Verkauf der Pfandgegenstände erfolgt ohne vorgängige Betreibung durch das Betreibungsamt.
 
-#### § 208
+**21**
 
-Gold- und Silbersachen dürfen nicht unter dem Metallwert, der durch Schätzung festzustellen und im Gantprotokoll vorzumerken ist, versteigert werden. Für die Richtigkeit der Schätzung haftet die Gantbeamtung, welche ihrerseits das Gutachten Sachverständiger einzuholen berechtigt ist. Wenn auf der Gant weniger als der Metallwert geboten wird, so soll dieser von der Gantbeamtung durch freihändigen Verkauf erzielt werden.
+- 1\. 7. 23 - 121 § 208. Gold- und Silbersachen dürfen nicht unter dem Metallwert, der durch Schätzung festzustellen und im Gantprotokoll vorzumerken ist, versteigert werden. Für die Richtigkeit der Schätzung haftet die Gantbeamtung, welche ihrerseits das Gutachten Sachverständiger einzuholen berechtigt ist. Wenn auf der Gant weniger als der Metallwert geboten wird, so soll dieser von der Gantbeamtung durch freihändigen Verkauf erzielt werden.
 
 #### § 209
 
@@ -816,7 +784,9 @@ Gold- und Silbersachen dürfen nicht unter dem Metallwert, der durch Schätzung 
 
 Ist der Anspruch des Verpfänders auf den Überschuss des Pfanderlöses durch Verjährung erloschen, so fällt der hinterlegte Betrag in das Armengut der Gemeinde.
 
-§ 211.<sup>64</sup> § 212.<sup>56,</sup> <sup>63</sup> <sup>1</sup> Pfandleiher sind zu ordnungsgemässer Führung von Geschäftsbüchern nach den Grundsätzen einer kaufmännischen Buchführung und zur Aufbewahrung der Geschäftspapiere verpflichtet.
+§ 211.<sup>64</sup>
+
+§ 212.<sup>56,</sup> <sup>63</sup> <sup>1</sup> Pfandleiher sind zu ordnungsgemässer Führung von Geschäftsbüchern nach den Grundsätzen einer kaufmännischen Buchführung und zur Aufbewahrung der Geschäftspapiere verpflichtet.
 
 <sup>2</sup> Die Verordnung[^210-1] regelt die Einzelheiten über die Geschäftsführung und deren Kontrolle.
 
@@ -843,16 +813,17 @@ Ist der Anspruch des Verpfänders auf den Überschuss des Pfanderlöses durch Ve
 
 Die Anlage des Grundbuches erfolgt nach politischen Gemeinden. Das Obergericht kann für einzelne Gemeinden andere Vorschriften aufstellen.
 
-**23**
-
-- 1\. 7. 22 - 117 § 218. Die neben den Vorschriften des Bundes für die Grundbuchführung, insbesondere mit Rücksicht auf die bisherigen Einrichtungen und nach Massgabe des Bedürfnisses weiter erforderlichen Vorschriften werden durch eine Verordnung des Obergerichtes[^217-1] festgestellt.
-
 [^217-1]: LS 252.1.
-[^217-2]: SR 210.
+
+#### § 218
+
+Die neben den Vorschriften des Bundes für die Grundbuchführung, insbesondere mit Rücksicht auf die bisherigen Einrichtungen und nach Massgabe des Bedürfnisses weiter erforderlichen Vorschriften werden durch eine Verordnung des Obergerichtes[^217-1] festgestellt.
+
+[^218-1]: SR 210.
 
 #### § 219
 
-Durch Beschluss des Kantonsrates kann angeordnet werden, dass an Stelle der Belege für die Grundbucheintragung ein Urkundenprotokoll treten soll, dessen Einschreibungen die öffentliche Beurkundung herstellen (Art. 948 ZGB[^217-2].
+Durch Beschluss des Kantonsrates kann angeordnet werden, dass an Stelle der Belege für die Grundbucheintragung ein Urkundenprotokoll treten soll, dessen Einschreibungen die öffentliche Beurkundung herstellen (Art. 948 ZGB[^218-1].
 
 § 220.<sup>49</sup> <sup>1</sup> Schuldbrief und Gült werden durch den Grundbuchverwalter unterzeichnet (Art. 857 ZGB[^219-1].
 
@@ -860,7 +831,9 @@ Durch Beschluss des Kantonsrates kann angeordnet werden, dass an Stelle der Bele
 
 § 221.[^219-3] Die Einteilung des Kantons in Grundbuchkreise, die Organisation der Grundbuchämter und die Gebühren richten sich nach dem Notariatsgesetz[^219-4].
 
-§ 222.<sup>71</sup>
+**23**
+
+- 1\. 7. 23 - 121 § 222.<sup>71</sup>
 
 [^219-1]: SR 210.
 [^219-2]: LS 252.
@@ -901,9 +874,9 @@ Freiwillige öffentliche Versteigerungen bedürfen der Mitwirkung des Gemeindeam
 
 Wer ein rechtliches Interesse an der Vorzeigung einer beweglichen Sache hat und das Vorhandensein dieses Interesses bescheinigt, darf vom Inhaber fordern, dass er sie zur Einsichtnahme vorlege.
 
-**25**
+#### § 231
 
-- 1\. 7. 22 - 117 § 231. Die Einsicht gerichtlicher oder notarialischer Akten und Protokolle oder anderer öffentlicher Urkunden ist Privatpersonen gestattet, sofern ein rechtliches Interesse an der Einsichtnahme bescheinigt wird.
+Die Einsicht gerichtlicher oder notarialischer Akten und Protokolle oder anderer öffentlicher Urkunden ist Privatpersonen gestattet, sofern ein rechtliches Interesse an der Einsichtnahme bescheinigt wird.
 
 #### § 232
 
@@ -911,9 +884,9 @@ Die Einsichtnahme in eine Privaturkunde kann von jedermann, der nach dem Inhalt 
 
 das Testament mit Bezug auf alle darin bedachten Personen und die gesetzlichen Erben, die über ein Rechtsgeschäft vorhandenen Urkunden, Korrespondenzen, Empfangsscheine, Quittungen für die Vertragsparteien, die Rechnungen samt den Belegen im Verhältnis des Rechnungsstellers und Rechnungsnehmers, die Zinsbücher der Gläubiger für die Schuldner, die Bücher der Börsenagenten und Sensale für die Personen, deren Geschäfte sie vermitteln, die Geschäftsbücher der Gewerbetreibenden und Handwerker für ihre Kunden und Angestellten, Arbeiter und Gesellen.
 
-#### § 233
+**25**
 
-Gefahr und Kosten der Vorlegung trägt der Gesuchsteller.
+- 1\. 7. 23 - 121 § 233. Gefahr und Kosten der Vorlegung trägt der Gesuchsteller.
 
 #### § 234
 
@@ -961,10 +934,6 @@ Der Notar ist für die Richtigkeit der von ihm bezeugten Tatsachen und für die 
 
 <sup>1</sup> Der Notar verliest den Parteien die Urkunde oder lässt sie von diesen unter seiner Aufsicht durchlesen. Die Parteien haben ausdrücklich zu erklären, dass die Urkunde ihrem Willen entspreche, und diese zu unterzeichnen.
 
-**27**
-
-- 1\. 7. 22 - 117
-
 <sup>2</sup> Sodann vollzieht der Notar die Beurkundung, indem er auf der Urkunde erklärt, diese enthalte den ihm mitgeteilten Parteiwillen, sei von den Parteien zur Kenntnis genommen, von ihnen genehmigt und unterzeichnet worden. Er siegelt und unterzeichnet die Urkunde unter Angabe von Ort und Zeit der Beurkundung.
 
 #### § 241
@@ -983,11 +952,15 @@ Die schriftliche Form genügt für den Vertrag, der zwischen dem Enteigner und d
 
 #### § 244
 
-[^244-1]: LS 242.2.
+[^244-1]: LS 242.2. 1. 7. 23 - 121 33
 
 #### § 245
 
 Das Obergericht erlässt durch Verordnung[^244-1] nähere Bestimmungen über das Beurkundungsverfahren, insbesondere bei Parteien, die nicht unterzeichnen können, sowie über die Form der Beurkundung und die Aufbewahrung der Urkunden. Es kann für bestimmte Beurkundungsgeschäfte abweichende Vorschriften aufstellen.
+
+**27**
+
+- 1\. 7. 23 - 121
 
 ### B. Beglaubigungen
 
@@ -999,7 +972,9 @@ Das Obergericht erlässt durch Verordnung[^244-1] nähere Bestimmungen über das
 
 <sup>2</sup> Die Beglaubigungsbefugnis, welche durch besondere Gesetze andern Stellen übertragen ist, bleibt vorbehalten.
 
-<sup>3</sup> Auf Verlangen beglaubigt die vom Regierungsrat bezeichnete Stelle die Unterschriften der in Abs. 1 und 2 aufgeführten Personen und bezeugt deren Befugnis, Beglaubigungen vorzunehmen.<sup>49</sup> § 247. <sup>1</sup> Die Beglaubigung einer Unterschrift oder eines Handzeichens erfolgt nur, wenn die Unterschrift oder das Handzeichen in Gegenwart des Beamten vollzogen oder vom Aussteller persönlich anerkannt worden ist.
+<sup>3</sup> Auf Verlangen beglaubigt die vom Regierungsrat bezeichnete Stelle die Unterschriften der in Abs. 1 und 2 aufgeführten Personen und bezeugt deren Befugnis, Beglaubigungen vorzunehmen.<sup>49</sup>
+
+§ 247. <sup>1</sup> Die Beglaubigung einer Unterschrift oder eines Handzeichens erfolgt nur, wenn die Unterschrift oder das Handzeichen in Gegenwart des Beamten vollzogen oder vom Aussteller persönlich anerkannt worden ist.
 
 <sup>2</sup> Die Unterschrift kann durch einen Bevollmächtigten anerkannt werden, sofern die entsprechende Vollmacht den Voraussetzungen von Abs. 1 entspricht und beim Amt hinterlegt ist. Die Beglaubigung der Anerkennung durch den Vertreter kann der Beamte von der Erfüllung weiterer Bedingungen abhängig machen.
 
@@ -1027,9 +1002,7 @@ Das Obergericht erlässt durch Verordnung[^244-1] nähere Bestimmungen über das
 
 Die Sicherung des Datums einer Privaturkunde erfolgt durch eine vom Beamten auf die Urkunde zu setzende Bescheinigung, wann und durch wen die Urkunde vorgelegt wurde.
 
-**29**
-
-- 1\. 7. 22 - 117 § 250 a.<sup>77</sup> Wer zur Vornahme von Beglaubigungen ermächtigt ist, darf die Übereinstimmung einer von ihm erstellten elektronischen Abschrift mit dem Originaldokument auf Papier sowie die Echtheit von Unterschriften elektronisch beglaubigen.
+§ 250 a.<sup>77</sup> Wer zur Vornahme von Beglaubigungen ermächtigt ist, darf die Übereinstimmung einer von ihm erstellten elektronischen Abschrift mit dem Originaldokument auf Papier sowie die Echtheit von Unterschriften elektronisch beglaubigen.
 
 ### Dritter Titel: Übergangs- und Schlussbestimmungen
 
@@ -1052,9 +1025,9 @@ Die Sicherung des Datums einer Privaturkunde erfolgt durch eine vom Beamten auf 
 
 #### § 256
 
-#### § 257
+**29**
 
-Vormundschaften über Personen, deren Aufenthalt unbekannt ist, werden als Beistandschaften fortgeführt.
+- 1\. 7. 23 - 121 § 257. Vormundschaften über Personen, deren Aufenthalt unbekannt ist, werden als Beistandschaften fortgeführt.
 
 #### § 258
 
@@ -1092,10 +1065,6 @@ Ist der Erlös aus dem Grundstück eines Geschreiten ganz oder teilweise zur Bef
 
 <sup>1</sup> Das Grundbuch wird aufgrund einer amtlichen Vermessung eingeführt. Ausnahmsweise kann das Obergericht da, wo ein Vermessungswerk noch nicht besteht, die Anlegung des Grundbuches gestützt auf Liegenschaftsverzeichnisse bewilligen (Art. 40 Schlusstitel ZGB[^hVIEinführungdesG-1].
 
-**31**
-
-- 1\. 7. 22 - 117
-
 <sup>2</sup> Der Zeitpunkt der Einführung für die einzelnen Gemeinden oder Gemeindeteile (§ 217) wird durch das Obergericht bestimmt[^266-1]; es entscheidet über den Umfang der Bereinigung der bestehenden dinglichen Rechte (Art. 43 Schlusstitel ZGB[^266-2] und trifft die erforderlichen Anordnungen.
 
 <sup>3</sup> . . .<sup>71</sup>
@@ -1125,11 +1094,15 @@ Aufprotokollierte Schuldbriefe sind bei der Anlegung des Grundbuches als Grundpf
 
 Ist die Anlegung des Grundbuches für einen Grundbuchkreis vollendet, so wird dies nach Anweisung des Obergerichtes öffentlich bekannt gemacht. Damit ist die Anzeige zu verbinden, dass alle nicht eingetragenen dinglichen Rechte erlöschen, sofern sie nicht binnen zwei Jahren zur Eintragung gelangen (Art. 44 Abs. 2 Schlusstitel ZGB[^269-1].
 
-§ 271.<sup>65</sup> <sup>1</sup> Streitigkeiten, die sich bei der Anlegung des Grundbuches über die Eintragung dinglicher Rechte ergeben, werden vom Grundbuchverwalter, wenn ein von ihm anzustellender Sühnversuch erfolglos bleibt, ungeachtet des Streitwerts an das Einzelgericht gewiesen.
+**31**
+
+- 1\. 7. 23 - 121 § 271.<sup>65</sup> <sup>1</sup> Streitigkeiten, die sich bei der Anlegung des Grundbuches über die Eintragung dinglicher Rechte ergeben, werden vom Grundbuchverwalter, wenn ein von ihm anzustellender Sühnversuch erfolglos bleibt, ungeachtet des Streitwerts an das Einzelgericht gewiesen.
 
 <sup>2</sup> Das Gericht teilt den rechtskräftigen Entscheid dem Grundbuchverwalter mit.
 
-§ 272.<sup>71</sup> § 273. Die nähern Vorschriften über die Einführung des Grundbuches, insbesondere auch über die Eintragung der Flurwege, werden, soweit deren Erlass Sache des Kantons ist, durch eine Verordnung des Obergerichts[^270-1] festgestellt.
+§ 272.<sup>71</sup>
+
+§ 273. Die nähern Vorschriften über die Einführung des Grundbuches, insbesondere auch über die Eintragung der Flurwege, werden, soweit deren Erlass Sache des Kantons ist, durch eine Verordnung des Obergerichts[^270-1] festgestellt.
 
 [^270-1]: LS 252.
 [^270-2]: SR 210.
@@ -1171,10 +1144,6 @@ Für diejenigen zivilrechtlichen Verhältnisse, deren Ordnung dem kantonalen Rec
 
 - d. § 5 des Gesetzes betreffend die Streitigkeiten im Verwaltungsfach vom 23. Juni 1831,
 
-**33**
-
-- 1\. 7. 22 - 117
-
 - e. die Verordnung betreffend die Rekurs- und Appellationsfristen im Verwaltungsfach vom 29. Juni 1844,
 
 - f. die Verordnung betreffend die Sicherstellung von Verlassenschaften vom 8. April 1903.
@@ -1194,6 +1163,16 @@ Dieses Gesetz tritt gleichzeitig mit dem Schweizerischen Zivilgesetzbuch[^277-1]
 (OS 67, 443, 466)
 
 Sind in der Schirmlade einer Vormundschaftsbehörde Wertpapiere hinterlegt, die der Sicherstellung des Vermögens einer Ehefrau gestützt auf Art. 205 Abs. 2 ZGB in der Fassung vom 10. Dezember 1907 dienen, fordert die KESB die Ehefrau unter Fristansetzung auf, eine Stelle zu bezeichnen, bei der die Wertpapiere hinterlegt werden können. Unterlässt die Ehefrau die Bezeichnung einer Hinterlegungsstelle, übergibt die KESB die Wertpapiere einer Filiale der Zürcher Kantonalbank zur Aufbewahrung auf Kosten der Ehefrau.
+
+<sup>41</sup> Eingefügt durch Staatsbeitragsgesetz vom 1. April 1990 (OS 51, 77). In Kraft seit 1. Januar 1991 (OS 51, 350).
+
+<sup>42</sup> Fassung gemäss Wasserwirtschaftsgesetz vom 2. Juni 1991 (OS 51, 707). In Kraft seit 1. Januar 1993 (OS 52, 255).
+
+<sup>43</sup> Eingefügt durch G vom 20. Februar 1994 (OS 52, 817). In Kraft seit 1. November 1994 (OS 52, 819).
+
+<sup>44</sup> Eingefügt durch G vom 12. März 1995 (OS 53, 167). In Kraft seit 1. Januar 1996 (OS 53, 170).
+
+<sup>45</sup> Fassung gemäss G vom 12. März 1995 (OS 53, 167). In Kraft seit 1. Januar 1996 (OS 53, 170).
 
 <sup>46</sup> Aufgehoben durch G vom 24. September 1995 (OS 53, 271). In Kraft seit 1. Januar 1996 (OS 53, 301).
 
@@ -1224,6 +1203,10 @@ Sind in der Schirmlade einer Vormundschaftsbehörde Wertpapiere hinterlegt, die 
 <sup>59</sup> Eingefügt durch G über die Anpassung des kantonalen Rechts an das Partnerschaftsgesetz des Bundes vom 9. Juli 2007 (OS 62, 429; ABl 2006, 1703). In Kraft seit 1. Januar 2008.
 
 <sup>60</sup> Fassung gemäss G über die Anpassung des kantonalen Rechts an das Partnerschaftsgesetz des Bundes vom 9. Juli 2007 (OS 62, 429; ABl 2006, 1703). In Kraft seit 1. Januar 2008.
+
+**35**
+
+- 1\. 7. 23 - 121
 
 <sup>61</sup> Eingefügt durch G vom 24. September 2007 (OS 62, 595; ABl 2007, 409). In Kraft seit 1. Januar 2008.
 
@@ -1271,15 +1254,15 @@ Sind in der Schirmlade einer Vormundschaftsbehörde Wertpapiere hinterlegt, die 
 
 <sup>83</sup> Fassung gemäss G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022.
 
+<sup>84</sup> Aufgehoben durch Gesetz über die Nutzung des Untergrundes vom 25. Mai 2020 (OS 78, 228; ABl 2016-12-02). In Kraft seit 1. Juli 2023.
+
 **37**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 23 - 121
 
 ## Weitere Fussnoten
 
+- [14] LS 781.
 - [31] Vgl. G betreffend die Ordnungsstrafen vom 30. Oktober 1866 (LS 312).
 - [33] Vgl. V über das Stiftungswesen (aufgehoben).
 - [36] Vgl. § 121 des Steuergesetzes vom 8. Juni 1997 (LS 631.1).
-- [43] Eingefügt durch G vom 20. Februar 1994 (OS 52, 817). In Kraft seit 1. November 1994 (OS 52, 819).
-- [44] Eingefügt durch G vom 12. März 1995 (OS 53, 167). In Kraft seit 1. Januar 1996 (OS 53, 170).
-- [45] Fassung gemäss G vom 12. März 1995 (OS 53, 167). In Kraft seit 1. Januar 1996 (OS 53, 170). 1. 7. 22 - 117 35
