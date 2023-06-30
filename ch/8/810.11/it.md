@@ -4,11 +4,11 @@ title: "Legge federale del 18 dicembre 1998 concernente la procreazione con assi
 short: LPAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
 language: it
-version: 2022-12-01
+version: 2023-07-01
 adopted: 1998-12-18
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2000-554-20221201-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2000-554-20230701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20221201/it"
 
 (Legge sulla medicina della procreazione, LPAM)
 
-del 18 dicembre 1998 (Stato 1° dicembre 2022)
+del 18 dicembre 1998 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -581,9 +581,10 @@ Spettano alla Commissione segnatamente i compiti seguenti:
 
 <sup>2</sup> Chiunque aliena per compenso o acquista patrimonio germinale umano o prodotti di embrioni o feti è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-<sup>3</sup> Se il colpevole ha agito per mestiere, la pena è una pena detentiva sino a tre anni o una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.
+<sup>3</sup> Se l’autore ha agito per mestiere, la pena è una pena detentiva sino a cinque anni o una pena pecuniaria.[^32-2]
 
 [^32-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^32-2]: Nuovo testo giusta il n. I 26 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 33
 

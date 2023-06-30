@@ -4,11 +4,11 @@ title: Loi fédérale du 18 décembre 1998 sur la procréation médicalement ass
 short: LPMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
 language: fr
-version: 2022-12-01
+version: 2023-07-01
 adopted: 1998-12-18
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2000-554-20221201-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-554-20230701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20221201/fr"
 
 (LPMA)[^t-1]
 
-du 18 décembre 1998 (État le 1<sup>er</sup> décembre 2022)
+du 18 décembre 1998 (État le 1<sup>er</sup> juillet 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes. Note de pied de page introduite par le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 (RO **2017** 3641; FF **2013** 5253).
 
@@ -583,9 +583,10 @@ Elle doit en particulier:
 
 <sup>2</sup> Quiconque aliène ou acquiert à titre onéreux du matériel germinal humain et des produits résultant d’embryons ou de fœtus est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>3</sup> Si l’auteur agit par métier, la peine est une peine privative de liberté de trois ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
+<sup>3</sup> Si l’auteur agit par métier, la peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire.[^32-2]
 
 [^32-1]: Nouvelle teneur selon le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^32-2]: Nouvelle teneur selon le ch. I 26 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 33
 

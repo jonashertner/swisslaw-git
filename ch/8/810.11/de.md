@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Dezember 1998 über die medizinisch unterstützte F
 short: FMedG
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
 language: de
-version: 2022-12-01
+version: 2023-07-01
 adopted: 1998-12-18
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2000-554-20221201-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2000-554-20230701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20221201/de"
 
 (Fortpflanzungsmedizingesetz, FMedG)
 
-vom 18. Dezember 1998 (Stand am 1. Dezember 2022)
+vom 18. Dezember 1998 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -580,9 +580,10 @@ Sie hat insbesondere die Aufgabe:
 
 <sup>2</sup> Wer menschliches Keimgut oder Erzeugnisse aus Embryonen oder Föten entgeltlich veräussert oder erwirbt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-<sup>3</sup> Handelt die Täterin oder der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahre oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.
+<sup>3</sup> Handelt die Täterin oder der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.[^32-2]
 
 [^32-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^32-2]: Fassung gemäss Ziff. I 26 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 33
 

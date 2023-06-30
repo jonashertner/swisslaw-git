@@ -4,11 +4,11 @@ title: "Federal Act of 18 December 1998 on Medically Assisted Reproduction (Repr
 short: RMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
 language: en
-version: 2022-12-01
+version: 2023-07-01
 adopted: 1998-12-18
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20221201/en/xml/fedlex-data-admin-ch-eli-cc-2000-554-20221201-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20221201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2000-554-20230701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Reproductive Medicine Act, RMA)
 
-of 18 December 1998 (Status as of 1 December 2022)
+of 18 December 1998 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -221,7 +221,8 @@ A cantonal licence is required by any person who:
 
 - a. uses assisted reproductive techniques;
 - b. receives reproductive cells, impregnated ova or embryos *in vitro* for preservation or arranges the supply of donated sperm cells without personally using assisted reproductive techniques.
-- [tab] <sup>2</sup> Laboratories that conduct analyses of genetic material in connection with reproductive techniques in terms of Article 5*a* require a licence in terms of Article 28 paragraph 1 HGTA[^8-2].[^8-3]
+
+<sup>2</sup> Laboratories that conduct analyses of genetic material in connection with reproductive techniques in terms of Article 5*a* require a licence in terms of Article 28 paragraph 1 HGTA[^8-2].[^8-3]
 
 <sup>3</sup> No licence is required for insemination using a partner’s sperm cells.
 
@@ -581,9 +582,10 @@ In particular, the commission shall have the following tasks:
 
 <sup>2</sup> Any person who purchases or sells human reproductive material or products derived from embryos or foetuses shall be liable to custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>3</sup> If the offender acts in a professional capacity, the penalty shall be a custodial sentence not exceeding three years or to a monetary penalty. A custodial sentence must be combined with a monetary penalty
+<sup>3</sup> If the offender acts in a professional capacity, the penalty shall be a custodial sentence not exceeding five years or a monetary penalty.[^32-2]
 
 [^32-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+[^32-2]: Amended by No I 26 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 33
 
