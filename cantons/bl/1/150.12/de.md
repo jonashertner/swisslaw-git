@@ -4,13 +4,12 @@ number: "150.12"
 title: Verordnung über die Personalorganisation des Kantons Basel-Landschaft
 short: Personalorganisationsverordnung
 language: de
-version: 2022-07-01
-valid_until: 2023-06-30
-version_adopted: 2022-06-21
+version: 2023-07-01
+version_adopted: 2023-06-27
 adopted: 2022-06-21
 in_force: 2022-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.12"
-pdf: "https://bl.clex.ch/api/de/versions/3355/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3639/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3355/pdf_file"
 
 (Personalorganisationsverordnung)
 
-Vom 21.06.2022 (Stand 01.07.2022)
+Vom 21.06.2022 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -112,7 +111,7 @@ beschliesst:
 
 <sup>1</sup> Das Kompetenzzentrum Personal ist für die Erarbeitung der konzeptionellen Grundlagen, Modelle und Instrumente zur Umsetzung der Personalmanagementstrategie zuständig.
 
-<sup>2</sup> Die Fachbereiche Personalhonorierung, Personalrecht sowie Personal- und Organisationsentwicklung des Kompetenzzentrums Personal beraten die HR-Beratungen, die Anstellungsbehörden sowie die Führungspersonen in den jeweiligen Fachthemen.
+<sup>2</sup> Die Fachbereiche Personalhonorierung, Personalrecht sowie Personalentwicklung des Kompetenzzentrums Personal beraten die HR-Beratungen, die Anstellungsbehörden sowie die Führungspersonen in den jeweiligen Fachthemen.
 
 #### § 10
 
