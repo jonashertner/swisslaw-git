@@ -4,11 +4,11 @@ title: Regolamento del 20 novembre 2006 del Tribunale federale (RTF)
 short: RTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: it
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2006-834-20230101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2006-834-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230101/it"
 
 (RTF)
 
-del 20 novembre 2006 (Stato 1° gennaio 2023)
+del 20 novembre 2006 (Stato 1° luglio 2023)
 
 Il Tribunale federale,
 
@@ -268,7 +268,7 @@ I verbali delle sedute della Corte plenaria, della Commissione amministrativa e 
 
 <sup>2</sup> La Commissione amministrativa disciplina i particolari in una direttiva.
 
-[^17-1]: M del CF dell’8 dic. 2006 relativo all’O dell’AF sulle diarie dei giudici federali non di carriera e sul rimborso delle spese per le trasferte ufficiali dei giudici federali (FF 2007187).
+[^17-1]: M del CF dell’8 dic. 2006 relativo all’O dell’AF sulle diarie dei giudici federali non di carriera e sul rimborso delle spese per le trasferte ufficiali dei giudici federali ([FF 2007 187](https://fedlex.data.admin.ch/eli/fga/2007/23)).
 
 ### Capitolo 3: Attività accessorie dei giudici ordinari
 
@@ -376,27 +376,29 @@ Se falliscono tutti i tentativi di composizione interna della controversia, la C
 
 <sup>1</sup>
 
-Il Tribunale federale è composto delle seguenti sette corti:
+Il Tribunale federale è composto delle seguenti otto corti:[^26-1]
 
-- a.[^26-1] quattro corti di diritto pubblico;
+- a.[^26-2] quattro corti di diritto pubblico;
 - b. due corti di diritto civile;
-- c. una corte di diritto penale;
-- d.[^26-2] *...*
+- c.[^26-3] due corti di diritto penale;
+- d.[^26-4] *...*
 
-<sup>2</sup> La prima e la seconda Corte di diritto pubblico, le due corti di diritto civile e la corte di diritto penale sono a Losanna. La terza e la quarta Corte di diritto pubblico hanno sede a Lucerna.[^26-3]
+<sup>2</sup> La prima e la seconda Corte di diritto pubblico, le due corti di diritto civile e le due corti di diritto penale hanno sede a Losanna. La terza e la quarta Corte di diritto pubblico hanno sede a Lucerna.[^26-5]
 
-<sup>3</sup> Le corti sono composte da quattro a sei giudici ordinari.[^26-4]
+<sup>3</sup> Le corti sono composte da quattro a sei giudici ordinari.[^26-6]
 
-<sup>4</sup> Alle corti composte di sei membri vengono assegnati due giudici di lingua francese, mentre alle corti composte di cinque membri vengono assegnati uno o due giudici di lingua francese.[^26-5]
+<sup>4</sup> Alle corti composte di sei membri vengono assegnati due giudici di lingua francese, mentre alle corti composte di cinque membri vengono assegnati uno o due giudici di lingua francese.[^26-7]
 
-<sup>5</sup> Ad una corte è assegnato al massimo un giudice di lingua italiana.[^26-6]
+<sup>5</sup> Ad una corte è assegnato al massimo un giudice di lingua italiana.[^26-8]
 
-[^26-1]: Nuovo testo giusta il n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^26-2]: Abrogata dal n. I del R del TF del 13 giu. 2022, con effetto dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^26-3]: Nuovo testo giusta il n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^26-4]: Nuovo testo giusta il n. I del R del TF del 12 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
-[^26-5]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^26-6]: Introdotto dal n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-1]: Nuovo testo giusta il n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^26-2]: Nuovo testo giusta il n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-3]: Nuovo testo giusta il n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^26-4]: Abrogata dal n. I del R del TF del 13 giu. 2022, con effetto dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-5]: Nuovo testo giusta il n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^26-6]: Nuovo testo giusta il n. I del R del TF del 12 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
+[^26-7]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-8]: Introdotto dal n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
 
 #### Art. 27
 
@@ -422,7 +424,11 @@ Il Tribunale federale è composto delle seguenti sette corti:
 
 <sup>3</sup> Nel caso di vacanze la Commissione amministrativa esamina se il posto divenuto vacante può essere occupato mediante un trasferimento interno. Essa comunica il risultato del suo esame alla Commissione giudiziaria.
 
-### Capo 2: Le sette corti
+### Capo 2: Le otto corti
+
+[^tit2-chap1-sec2-1]
+
+[^tit2-chap1-sec2-1]: Nuovo testo giusta il n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 29
 
@@ -449,14 +455,15 @@ La prima Corte di diritto pubblico tratta i ricorsi in materia di diritto pubbli
 - c. diritti politici;
 - d. assistenza internazionale in materia penale;
 - e. circolazione stradale;
-- f. diritto di cittadinanza.
+- f. diritto di cittadinanza;
 - g.[^29-1] ...
+- h.[^29-2] personale nel settore pubblico.
 
 <sup>2</sup>
 
 Nella misura in cui non è possibile collegare la vertenza ad un altro campo del diritto, la prima Corte di diritto pubblico tratta i ricorsi in materia di diritto pubblico e i ricorsi sussidiari in materia costituzionale che concernono i seguenti diritti fondamentali:
 
-- a. uguaglianza giuridica (art. 8 della Costituzione federale, Cost.[^29-2]);
+- a. uguaglianza giuridica (art. 8 della Costituzione federale, Cost.[^29-3]);
 - b. protezione dall’arbitrio e tutela della buona fede (art. 9 Cost.);
 - c. diritto alla vita e alla libertà personale (art. 10 Cost.);
 - d. protezione della sfera privata, diritto al matrimonio e alla famiglia, libertà d’opinione e d’informazione, libertà dei media (art. 13, 14, 16 e 17 Cost.);
@@ -464,13 +471,14 @@ Nella misura in cui non è possibile collegare la vertenza ad un altro campo del
 - f. garanzia della proprietà (art. 26 Cost.);
 - g. garanzie procedurali generali, garanzia della via giudiziaria, procedura giudiziaria, privazione della libertà (art. 29 a 31 Cost.).
 
-<sup>3</sup> La prima Corte di diritto pubblico tratta i ricorsi in materia penale contro le decisioni incidentali di procedura penale.[^29-3]
+<sup>3</sup> ...[^29-4]
 
 <sup>4</sup> Essa tratta su azione conflitti di competenza tra autorità federali e cantonali (art. 120 cpv. 1 lett. a LTF) e le controversie di diritto pubblico tra la Confederazione e i Cantoni o tra i Cantoni (art. 120 cpv. 1 lett. b LTF).
 
 [^29-1]: Abrogata dal n. I del R del TF del 24 nov. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^29-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^29-3]: Nuovo testo giusta il n. I del R del TF dell’8 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
+[^29-2]: Introdotta dal n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^29-3]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^29-4]: Abrogato dal n. I del R del TF del 27 apr. 2023, con effetto dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 30
 
@@ -543,10 +551,11 @@ La terza Corte di diritto pubblico tratta i ricorsi in materia di diritto pubbli
 - d. indennità perdita di guadagno, inclusa la maternità;
 - e. assicurazione malattie;
 - f. previdenza professionale (art. 73 e 74 della legge federale del 25 giugno 1982[^31-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità);
-- g. prestazioni complementari.
+- g.[^31-3] ...
 
 [^31-1]: Introdotto dal n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 [^31-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^31-3]: Abrogata dal n. I del R del TF del 27 apr. 2023, con effetto dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 32
 
@@ -563,10 +572,15 @@ La quarta Corte di diritto pubblico tratta i ricorsi in materia di diritto pubbl
 - e. assegni familiari;
 - f. aiuto sociale e aiuto in situazioni di bisogno secondo l’articolo 12 Cost.[^32-2];
 - g. assicurazione militare;
-- h. personale nel settore pubblico.
+- h.[^32-3] ...
+- i.[^32-4] prestazioni complementari;
+- j.[^32-5] prestazioni transitorie per i disoccupati anziani.
 
 [^32-1]: Introdotto dal n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 [^32-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^32-3]: Abrogata dal n. I del R del TF del 27 apr. 2023, con effetto dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^32-4]: Introdotta dal n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^32-5]: Introdotta dal n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 33
 
@@ -625,19 +639,31 @@ La seconda Corte di diritto civile tratta i ricorsi in materia civile e i ricors
 
 #### Art. 35
 
-**Corte di diritto penale**[^35-1]
+**Prima Corte di diritto penale**[^35-1]
 
 ### (art. 22 LTF)
 
-La Corte di diritto penale tratta i ricorsi in materia penale, i ricorsi in materia di diritto pubblico e i ricorsi sussidiari in materia costituzionale inerenti al diritto penale che concernono i seguenti campi:[^35-2]
+La prima Corte di diritto penale tratta i ricorsi in materia penale nonché i ricorsi in materia di diritto pubblico e i ricorsi sussidiari in materia costituzionale inerenti al diritto penale che concernono i seguenti campi:
 
-- a. diritto penale materiale (inclusa l’esecuzione delle pene e delle misure);
-- b. procedura penale (senza i ricorsi contro decisioni incidentali della procedura penale);
-- c.[^35-3] ricorsi contro decisioni finali di procedura penale (compresi i decreti di non luogo a procedere e di abbandono del procedimento).
+- a. diritto penale materiale (senza le decisioni di esecuzione delle pene e delle misure);
+- b. procedura penale (senza le decisioni incidentali della procedura penale);
+- c. decisioni finali di procedura penale (senza i decreti di non luogo a procedere e di abbandono del procedimento).
 
-[^35-1]: Originario art. 33.
-[^35-2]: Nuovo testo giusta il n. I del R del TF del 9 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
-[^35-3]: Nuovo testo giusta il n. I del R del TF dell’8 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
+[^35-1]: Originario art. 33. Nuovo testo giusta il n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+
+#### Art. 35a
+
+**Seconda Corte di diritto penale**[^35a-1]
+
+### (art. 22 LTF)
+
+La seconda Corte di diritto penale tratta i ricorsi in materia penale nonché i ricorsi in materia di diritto pubblico e i ricorsi sussidiari in materia costituzionale inerenti al diritto penale che concernono i seguenti campi:
+
+- a. decisioni di esecuzione delle pene e delle misure;
+- b. decisioni incidentali di procedura penale;
+- c. decreti di non luogo a procedere e di abbandono del procedimento.
+
+[^35a-1]: Introdotto dal n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 ### Capo 3: Delimitazioni e collaborazione
 
@@ -751,9 +777,15 @@ Per la designazione dei membri del collegio giudicante, il presidente della cort
 
 #### Art. 41
 
-[^41-1]
+**Composizione di cinque giudici della prima Corte di diritto penale**[^41-1]
 
-[^41-1]: Abrogato dal n. I del R del TF del 13 giu. 2022, con effetto dal 13 giu. 2022 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+### (art. 13, 18 cpv. 3 e 20 cpv. 2 LTF)
+
+<sup>1</sup> Un giudice della seconda Corte di diritto penale partecipa a rotazione alle sentenze della prima Corte di diritto penale che devono essere giudicate nella composizione di cinque giudici, finché la prima Corte di diritto penale consta di soli quattro membri.
+
+<sup>2</sup> La rotazione avviene per anzianità e include tutti i membri della seconda Corte di diritto penale.
+
+[^41-1]: Nuovo testo giusta il n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 42
 
@@ -958,7 +990,7 @@ La Commissione di ricorso decide sulle controversie previste dalle seguenti norm
 [^55-2]: Nuovo testo giusta il n. I del R del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
 [^55-3]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
 [^55-4]: [RS 152.21](https://fedlex.data.admin.ch/eli/cc/1999/460)
-[^55-5]: Il rimando è stata adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali (RO **2004** 4937).
+[^55-5]: Il rimando è stata adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^55-6]: [RS 173.110.133](https://fedlex.data.admin.ch/eli/cc/2006/836)
 [^55-7]: Introdotta dal n. I del R del TF del 26 ago. 2021, in vigore dal 1° gen. 2022 ([RU 2021 799](https://fedlex.data.admin.ch/eli/oc/2021/799)).
 [^55-8]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
@@ -1111,6 +1143,10 @@ I seguenti regolamenti sono abrogati:
 <sup>1</sup> Le autorizzazioni per attività accessorie dei giudici ordinari accordate prima dell’entrata in vigore di questo regolamento rimangono valide.
 
 <sup>2</sup> Le attività accessorie incompatibili con il nuovo diritto devono essere terminate al più tardi un anno dopo l’entrata in vigore di questo regolamento.
+
+<sup>3</sup> Fino al 30 giugno 2025 la seconda Corte di diritto penale può giudicare anche ricorsi che concernono i campi di competenza della prima Corte di diritto penale.[^66-1]
+
+[^66-1]: Introdotto dal n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 67
 

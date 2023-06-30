@@ -4,11 +4,11 @@ title: Reglement vom 20. November 2006 für das Bundesgericht (BGerR)
 short: BGerR
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: de
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2006-834-20230101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2006-834-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230101/de"
 
 (BGerR)
 
-vom 20. November 2006 (Stand am 1. Januar 2023)
+vom 20. November 2006 (Stand am 1. Juli 2023)
 
 Das Bundesgericht,
 
@@ -376,27 +376,29 @@ Scheitern sämtliche internen Versuche zur Beilegung der Streitigkeit und handel
 
 <sup>1</sup>
 
-Das Bundesgericht besteht aus folgenden sieben Abteilungen:
+Das Bundesgericht besteht aus folgenden acht Abteilungen:[^26-1]
 
-- a.[^26-1] vier öffentlich-rechtlichen Abteilungen;
+- a.[^26-2] vier öffentlich-rechtlichen Abteilungen;
 - b. zwei zivilrechtlichen Abteilungen;
-- c. einer strafrechtlichen Abteilung;
-- d.[^26-2] …
+- c.[^26-3] zwei strafrechtlichen Abteilungen;
+- d.[^26-4] …
 
-<sup>2</sup> Die Erste und die Zweite öffentlich-rechtliche Abteilung, die beiden zivilrechtlichen Abteilungen und die strafrechtliche Abteilung befinden sich in Lausanne. Die Dritte und die Vierte öffentlich-rechtliche Abteilung haben ihren Standort in Luzern.[^26-3]
+<sup>2</sup> Die Erste und Zweite öffentlich-rechtliche Abteilung, die beiden zivilrechtlichen Abteilungen und die beiden strafrechtlichen Abteilungen haben ihren Standort in Lausanne. Die Dritte und Vierte öffentlich-rechtliche Abteilung haben ihren Standort in Luzern.[^26-5]
 
-<sup>3</sup> Die Abteilungen setzen sich aus vier bis sechs ordentlichen Richtern oder Richterinnen zusammen.[^26-4]
+<sup>3</sup> Die Abteilungen setzen sich aus vier bis sechs ordentlichen Richtern oder Richterinnen zusammen.[^26-6]
 
-<sup>4</sup> Den Abteilungen mit sechs Mitgliedern werden zwei französischsprachige Richter oder Richterinnen zugeteilt, den Abteilungen mit fünf Mitgliedern ein oder zwei französischsprachige Richter oder Richterinnen.[^26-5]
+<sup>4</sup> Den Abteilungen mit sechs Mitgliedern werden zwei französischsprachige Richter oder Richterinnen zugeteilt, den Abteilungen mit fünf Mitgliedern ein oder zwei französischsprachige Richter oder Richterinnen.[^26-7]
 
-<sup>5</sup> Einer Abteilung wird nicht mehr als ein italienischsprachiger Richter oder eine italienischsprachige Richterin zugeteilt.[^26-6]
+<sup>5</sup> Einer Abteilung wird nicht mehr als ein italienischsprachiger Richter oder eine italienischsprachige Richterin zugeteilt.[^26-8]
 
-[^26-1]: Fassung gemäss Ziff. I der V des BGer vom 13. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^26-2]: Aufgehoben durch Ziff. I der V des BGer vom 13. Juni 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^26-3]: Fassung gemäss Ziff. I der V des BGer vom 13. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^26-4]: Fassung gemäss Ziff. I der V des BGer vom 12. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
-[^26-5]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^26-6]: Eingefügt durch Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-1]: Fassung gemäss Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^26-2]: Fassung gemäss Ziff. I der V des BGer vom 13. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-3]: Fassung gemäss Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^26-4]: Aufgehoben durch Ziff. I der V des BGer vom 13. Juni 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-5]: Fassung gemäss Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^26-6]: Fassung gemäss Ziff. I der V des BGer vom 12. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
+[^26-7]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-8]: Eingefügt durch Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
 
 #### Art. 27
 
@@ -422,7 +424,11 @@ Das Bundesgericht besteht aus folgenden sieben Abteilungen:
 
 <sup>3</sup> Bei Vakanzen prüft die Verwaltungskommission, ob die frei gewordene Richterstelle durch eine interne Umteilung besetzt wird. Sie teilt das Ergebnis der Gerichtskommission mit.
 
-### 2. Abschnitt: Die sieben Abteilungen
+### 2. Abschnitt: Die acht Abteilungen
+
+[^tit2-chap1-sec2-1]
+
+[^tit2-chap1-sec2-1]: Fassung gemäss Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 29
 
@@ -449,14 +455,15 @@ Die Erste öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffentl
 - c. politische Rechte;
 - d. internationale Rechtshilfe in Strafsachen;
 - e. Strassenverkehr;
-- f. Bürgerrecht.
-- g.[^29-1] …
+- f. Bürgerrecht;
+- g.[^29-1] …;
+- h.[^29-2] Personal im öffentlichen Dienst.
 
 <sup>2</sup>
 
 Sofern die Streitsache keinem anderen Rechtsgebiet zugeordnet werden kann, behandelt die Erste öffentlich-rechtliche Abteilung die Beschwerden in öffentlich-rechtlichen Angelegenheiten und subsidiären Verfassungsbeschwerden, die folgende Grundrechte betreffen:
 
-- a. Rechtsgleichheit (Art. 8 der Bundesverfassung, BV[^29-2]);
+- a. Rechtsgleichheit (Art. 8 der Bundesverfassung, BV[^29-3]);
 - b. Schutz vor Willkür und Wahrung von Treu und Glauben (Art. 9 BV);
 - c. Recht auf Leben und persönliche Freiheit (Art. 10 BV);
 - d. Schutz der Privatsphäre, Recht auf Ehe und Familie, Meinungs- und Informationsfreiheit, Medienfreiheit (Art. 13, 14, 16 und 17 BV);
@@ -464,13 +471,14 @@ Sofern die Streitsache keinem anderen Rechtsgebiet zugeordnet werden kann, behan
 - f. die Eigentumsgarantie (Art. 26 BV);
 - g. Allgemeine Verfahrensgarantien, Rechtsweggarantie, gerichtliche Verfahren, Freiheitsentzug (Art. 29–31 BV).
 
-<sup>3</sup> Die Erste öffentlich-rechtliche Abteilung behandelt Beschwerden in Strafsachen gegen strafprozessuale Zwischenentscheide.[^29-3]
+<sup>3</sup> …[^29-4]
 
 <sup>4</sup> Sie behandelt auf Klage Kompetenzkonflikte zwischen Bundesbehörden und kantonalen Behörden (Art. 120 Abs. 1 Bst. a BGG) sowie die öffentlich-rechtlichen Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen (Art. 120 Abs. 1 Bst. b BGG).
 
 [^29-1]: Aufgehoben durch Ziff. I der V des BGer vom 24. Nov. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^29-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^29-3]: Fassung gemäss Ziff. I der V des BGer vom 8. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
+[^29-2]: Eingefügt durch Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^29-3]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^29-4]: Aufgehoben durch Ziff. I der V des BGer vom 27. April 2023, mit Wirkung seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 30
 
@@ -535,18 +543,20 @@ Sofern die Streitsache keinem anderen Rechtsgebiet zugeordnet werden kann, behan
 
 ### (Art. 22 BGG)
 
-Die Dritte öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffentlichrechtlichen Angelegenheiten und die subsidiären Verfassungsbeschwerden, die folgende Rechtsgebiete betreffen:
+Die Dritte öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffentlich-rechtlichen Angelegenheiten und die subsidiären Verfassungsbeschwerden, die folgende Rechtsgebiete betreffen:[^31-2]
 
 - a. Steuern und Abgaben;
 - b. Alters- und Hinterlassenenversicherung;
 - c. Invalidenversicherung;
 - d. Erwerbsersatzordnung, einschliesslich Mutterschaft;
 - e. Krankenversicherung;
-- f. berufliche Vorsorge (Art. 73 und 74 des Bundesgesetzes vom 25. Juni 1982[^31-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge);
-- g. Ergänzungsleistungen.
+- f. berufliche Vorsorge (Art. 73 und 74 des Bundesgesetzes vom 25. Juni 1982[^31-3] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge);
+- g.[^31-4] …
 
 [^31-1]: Eingefügt durch Ziff. I der V des BGer vom 13. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^31-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^31-2]: Fassung gemäss Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^31-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^31-4]: Aufgehoben durch Ziff. I der V des BGer vom 27. April 2023, mit Wirkung seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 32
 
@@ -554,19 +564,25 @@ Die Dritte öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffent
 
 ### (Art. 22 BGG)
 
-Die Vierte öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffentlichrechtlichen Angelegenheiten und die subsidiären Verfassungsbeschwerden, die folgende Rechtsgebiete betreffen:
+Die Vierte öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffentlich-rechtlichen Angelegenheiten und die subsidiären Verfassungsbeschwerden, die folgende Rechtsgebiete betreffen:[^32-2]
 
 - a. Invalidenversicherung;
 - b. Unfallversicherung;
 - c. Arbeitslosenversicherung;
 - d. kantonale Sozialversicherung;
 - e. Familienzulagen;
-- f. Sozialhilfe und Hilfe in Notlagen gemäss Art. 12 BV[^32-2];
+- f. Sozialhilfe und Hilfe in Notlagen gemäss Art. 12 BV[^32-3];
 - g. Militärversicherung;
-- h. Personal im öffentlichen Dienst.
+- h.[^32-4] …
+- i.[^32-5] Ergänzungsleistungen;
+- j.[^32-6] Überbrückungsleistungen für ältere Arbeitslose.
 
 [^32-1]: Eingefügt durch Ziff. I der V des BGer vom 13. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^32-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^32-2]: Fassung gemäss Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^32-3]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^32-4]: Aufgehoben durch Ziff. I der V des BGer vom 27. April 2023, mit Wirkung seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^32-5]: Eingefügt durch Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^32-6]: Eingefügt durch Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 33
 
@@ -625,19 +641,31 @@ Die Zweite zivilrechtliche Abteilung behandelt die Beschwerden in Zivilsachen un
 
 #### Art. 35
 
-**Strafrechtliche Abteilung**[^35-1]
+**Erste strafrechtliche Abteilung**[^35-1]
 
 ### (Art. 22 BGG)
 
-Die Strafrechtliche Abteilung behandelt die Beschwerden in Strafsachen sowie Beschwerden in öffentlich-rechtlichen Angelegenheiten und subsidiäre Verfassungsbeschwerden in Strafsachen betreffend:[^35-2]
+Die Erste strafrechtliche Abteilung behandelt die Beschwerden in Strafsachen sowie Beschwerden in öffentlich-rechtlichen Angelegenheiten und subsidiäre Verfassungsbeschwerden in Strafsachen betreffend:
 
-- a. materielles Strafrecht (einschliesslich Straf- und Massnahmenvollzug);
-- b. Strafprozessrecht (ohne die Beschwerden gegen strafprozessuale Zwischenentscheide);
-- c.[^35-3] strafprozessuale Beschwerden gegen Endentscheide (einschliesslich Nichtanhandnahmeverfügungen und Verfahrenseinstellungen).
+- a. materielles Strafrecht (ohne Entscheide des Straf- und Massnahmenvollzuges);
+- b. Strafprozessrecht (ohne strafprozessuale Zwischenentscheide);
+- c. strafprozessuale Endentscheide (ohne Nichtanhandnahmeverfügungen und Verfahrenseinstellungen).
 
-[^35-1]: Ursprünglich: Art. 33.
-[^35-2]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
-[^35-3]: Fassung gemäss Ziff. I der V des BGer vom 8. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
+[^35-1]: Ursprünglich: Art. 33. Fassung gemäss Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+
+#### Art. 35a
+
+**Zweite strafrechtliche Abteilung**[^35a-1]
+
+### (Art. 22 BGG)
+
+Die Zweite strafrechtliche Abteilung behandelt die Beschwerden in Strafsachen sowie Beschwerden in öffentlich-rechtlichen Angelegenheiten und subsidiäre Verfassungsbeschwerden in Strafsachen betreffend:
+
+- a. Entscheide des Straf- und Massnahmenvollzuges;
+- b. strafprozessuale Zwischenentscheide;
+- c. Nichtanhandnahmeverfügungen und Verfahrenseinstellungen.
+
+[^35a-1]: Eingefügt durch Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 ### 3. Abschnitt: Abgrenzung und Zusammenarbeit
 
@@ -753,9 +781,15 @@ Bei der Bezeichnung der Mitglieder des Spruchkörpers berücksichtigt der Abteil
 
 #### Art. 41
 
-[^41-1]
+**Spruchkörper der Ersten strafrechtlichen Abteilung in Fünferbesetzung**[^41-1]
 
-[^41-1]: Aufgehoben durch Ziff. I der V des BGer vom 13. Juni 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+### (Art. 13, 18 Abs. 3 und 20 Abs. 2 BGG)
+
+<sup>1</sup> Solange die Erste strafrechtliche Abteilung nur aus vier Mitgliedern besteht, wirkt an Entscheiden, die in Fünferbesetzung gefällt werden müssen, im Turnus ein Mitglied der Zweiten strafrechtlichen Abteilung mit.
+
+<sup>2</sup> Dieser Turnus folgt der Anciennität und schliesst alle Mitglieder der Abteilung ein.
+
+[^41-1]: Fassung gemäss Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 42
 
@@ -960,7 +994,7 @@ Die Rekurskommission beurteilt Streitigkeiten nach folgenden Bestimmungen:
 [^55-2]: Fassung gemäss Ziff. I der V des BGer vom 24. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
 [^55-3]: [SR 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
 [^55-4]: [SR 152.21](https://fedlex.data.admin.ch/eli/cc/1999/460)
-[^55-5]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 der Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
+[^55-5]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 der Publikationsgesetzes vom 18. Juni 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 [^55-6]: [SR 173.110.133](https://fedlex.data.admin.ch/eli/cc/2006/836)
 [^55-7]: Eingefügt durch Ziff. I der V des BGer vom 26. Aug. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 799](https://fedlex.data.admin.ch/eli/oc/2021/799)).
 [^55-8]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
@@ -1113,6 +1147,10 @@ Folgende Reglemente werden aufgehoben:
 <sup>1</sup> Bewilligungen für Nebenbeschäftigungen der ordentlichen Mitglieder, die vor Inkrafttreten dieses Reglements erteilt worden sind, bleiben gültig.
 
 <sup>2</sup> Bewilligte Nebenbeschäftigungen, die dem neuen Recht nicht mehr entsprechen, sind bis spätestens ein Jahr nach Inkrafttreten dieses Reglements zu beenden.
+
+<sup>3</sup> Bis zum 30. Juni 2025 kann die Zweite strafrechtliche Abteilung auch Beschwerden aus dem Zuständigkeitsbereich der Ersten strafrechtlichen Abteilung beurteilen.[^66-1]
+
+[^66-1]: Eingefügt durch Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 67
 

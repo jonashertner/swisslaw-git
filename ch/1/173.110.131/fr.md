@@ -4,11 +4,11 @@ title: Règlement du 20 novembre 2006 du Tribunal fédéral (RTF)
 short: RTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: fr
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-834-20230101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-834-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230101/fr"
 
 (RTF)
 
-du 20 novembre 2006 (État le 1<sup>er</sup> janvier 2023)
+du 20 novembre 2006 (État le 1<sup>er</sup> juillet 2023)
 
 Le Tribunal fédéral,
 
@@ -380,27 +380,29 @@ En cas d’échec des tentatives de règlement interne du conflit, la Commission
 
 <sup>1</sup>
 
-Le Tribunal fédéral se compose des sept cours suivantes:
+Le Tribunal fédéral se compose des huit cours suivantes:[^26-1]
 
-- a.[^26-1] quatre cours de droit public;
+- a.[^26-2] quatre cours de droit public;
 - b. deux cours de droit civil;
-- c. une cour de droit pénal;
-- d.[^26-2] …
+- c.[^26-3] deux cours de droit pénal;
+- d.[^26-4] …
 
-<sup>2</sup> La première et la deuxième Cours de droit public, les deux cours de droit civil et la cour de droit pénal siègent à Lausanne. La troisième et la quatrième Cours de droit public siègent à Lucerne.[^26-3]
+<sup>2</sup> La première et la deuxième Cours de droit public, les deux cours de droit civil et les deux cours de droit pénal siègent à Lausanne. La troisième et la quatrième Cours de droit public siègent à Lucerne.[^26-5]
 
-<sup>3</sup> Les cours comportent de quatre à six juges ordinaires.[^26-4]
+<sup>3</sup> Les cours comportent de quatre à six juges ordinaires.[^26-6]
 
-<sup>4</sup> Deux juges de langue française sont attribués aux cours comportant six juges. Un ou deux juges de langue française sont attribués aux cours comportant cinq juges.[^26-5]
+<sup>4</sup> Deux juges de langue française sont attribués aux cours comportant six juges. Un ou deux juges de langue française sont attribués aux cours comportant cinq juges.[^26-7]
 
-<sup>5</sup> Aucune cour ne peut compter plus d’un juge de langue italienne.[^26-6]
+<sup>5</sup> Aucune cour ne peut compter plus d’un juge de langue italienne.[^26-8]
 
-[^26-1]: Nouvelle teneur selon le ch. I de l’O du TF du 13 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 (RO **202****3** 65).
-[^26-2]: Abrogée par le ch. I de l’O du TF du 13 juin 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^26-3]: Nouvelle teneur selon le ch. I de l’O du TF du 13 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^26-4]: Nouvelle teneur selon le ch. I de l’O du TF du 12 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
-[^26-5]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^26-6]: Introduit par le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^26-2]: Nouvelle teneur selon le ch. I de l’O du TF du 13 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-3]: Nouvelle teneur selon le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^26-4]: Abrogée par le ch. I de l’O du TF du 13 juin 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-5]: Nouvelle teneur selon le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^26-6]: Nouvelle teneur selon le ch. I de l’O du TF du 12 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
+[^26-7]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-8]: Introduit par le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
 
 #### Art. 27
 
@@ -426,7 +428,11 @@ Le Tribunal fédéral se compose des sept cours suivantes:
 
 <sup>3</sup> En cas de vacance, la Commission administrative examine si le poste devenu vacant peut être occupé par un transfert interne. Elle informe la Commission judiciaire du résultat de son examen.
 
-### Section 2 Les sept cours
+### Section 2 Les huit cours
+
+[^tit2-chap1-sec2-1]
+
+[^tit2-chap1-sec2-1]: Nouvelle teneur selon le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 29
 
@@ -455,12 +461,13 @@ La première Cour de droit public traite les recours en matière de droit public
 - e. circulation routière;
 - f. droit de cité;
 - g.[^29-1] …
+- h.[^29-2] personnel du secteur public.
 
 <sup>2</sup>
 
 Pour autant que le litige ne puisse pas être rattaché à un autre domaine du droit, la première Cour de droit public traite les recours en matière de droit public et les recours constitutionnels subsidiaires qui relèvent des droits fondamentaux suivants:
 
-- a. égalité de traitement (art. 8 de la Constitution fédérale, Cst.[^29-2]);
+- a. égalité de traitement (art. 8 de la Constitution fédérale, Cst.[^29-3]);
 - b. protection contre l’arbitraire et protection de la bonne foi (art. 9 Cst.);
 - c. droit à la vie et à la liberté personnelle (art. 10 Cst.);
 - d. protection de la sphère privée, droit au mariage et à la famille, liberté d’opinion et d’information, liberté des médias (art. 13, 14, 16 et 17 Cst.);
@@ -468,13 +475,14 @@ Pour autant que le litige ne puisse pas être rattaché à un autre domaine du d
 - f. garantie de la propriété (art. 26 Cst.);
 - g. garanties générales de procédure, garantie de l’accès au juge, garanties de procédure judiciaire, privation de liberté (art. 29 à 31 Cst.).
 
-<sup>3</sup> La première Cour de droit public traite les recours en matière pénale contre les décisions incidentes relevant de la procédure pénale.[^29-3]
+<sup>3</sup> …[^29-4]
 
 <sup>4</sup> Elle traite, par voie d’action, les conflits de compétence entre autorités fédérales et autorités cantonales (art. 120, al. 1, let. a, LTF) ainsi que les contestations de droit public entre Confédération et cantons ou entre cantons (art. 120, al. 1, let. b, LTF).
 
 [^29-1]: Abrogée par le ch. I de l’O du TF du 24 nov. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^29-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^29-3]: Nouvelle teneur selon le ch. I de l’O du TF du 8 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
+[^29-2]: Introduite par le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^29-3]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^29-4]: Abrogé par le ch. I de l’O du TF du 27 avr. 2023, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 30
 
@@ -547,10 +555,11 @@ La troisième Cour de droit public traite les recours en matière de droit publi
 - d. allocations pour perte de gain (y compris maternité);
 - e. assurance-maladie;
 - f. prévoyance professionnelle (art. 73 et 74 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle, vieillesse, survivants et invalidité[^31-2]);
-- g. prestations complémentaires.
+- g.[^31-3] …
 
 [^31-1]: Introduit par le ch. I de l’O du TF du 13 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 [^31-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^31-3]: Abrogée par le ch. I de l’O du TF du 27 avr. 2023, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 32
 
@@ -567,10 +576,15 @@ La quatrième Cour de droit public traite les recours en matière de droit publi
 - e. allocations familiales;
 - f. aide sociale et aide dans des situations de détresse selon l’art. 12 Cst.[^32-2];
 - g. assurance militaire;
-- h. personnel du secteur public.
+- h.[^32-3] …
+- i.[^32-4] prestations complémentaires;
+- j.[^32-5] prestations transitoires pour chômeurs âgés.
 
 [^32-1]: Introduit par le ch. I de l’O du TF du 13 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 [^32-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^32-3]: Abrogée par le ch. I de l’O du TF du 27 avr. 2023, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^32-4]: Introduite par le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^32-5]: Introduite par le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 33
 
@@ -629,19 +643,31 @@ La deuxième Cour de droit civil traite les recours en matière civile et les re
 
 #### Art. 35
 
-**Cour de droit pénal**[^35-1]
+**Première Cour de droit pénal**[^35-1]
 
 ### (art. 22 LTF)
 
-La Cour de droit pénal traite les recours en matière pénale ainsi que les recours en matière de droit public et les recours constitutionnels subsidiaires en matière pénaledans les domaines suivants:[^35-2]
+La première Cour de droit pénal traite les recours en matière pénale ainsi que les recours en matière de droit public et les recours constitutionnels subsidiaires en matière pénale dans les domaines suivants:
 
-- a. droit pénal matériel (y compris l’exécution des peines et des mesures);
-- b. procédure pénale (sauf les recours contre les décisions incidentes relevant de la procédure pénale);
-- c.[^35-3] les décisions finales en matière pénale (y compris les ordonnances de non-entrée en matière ou de classement de la procédure).
+- a. droit pénal matériel (sauf les décisions d’exécution des peines et des mesures);
+- b. procédure pénale (sauf les décisions incidentes relevant de la procédure pénale);
+- c. les décisions finales en matière pénale (sauf les ordonnances de non-entrée en matière ou de classement de la procédure).
 
-[^35-1]: Anciennement art. 33.
-[^35-2]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
-[^35-3]: Nouvelle teneur selon le ch. I de l’O du TF du 8 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
+[^35-1]: Anciennement art. 33. Nouvelle teneur selon le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+
+#### Art. 35a
+
+**Deuxième Cour de droit pénal**[^35a-1]
+
+### (art. 22 LTF)
+
+La deuxième Cour de droit pénal traite les recours en matière pénale ainsi que les recours en matière de droit public et les recours constitutionnels subsidiaires en matière pénale dans les domaines suivants:
+
+- a. les décisions d’exécution des peines et des mesures;
+- b. les décisions incidentes relevant de la procédure pénale;
+- c. les ordonnances de non-entrée en matière ou de classement de la procédure.
+
+[^35a-1]: Introduit par le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 ### Section 3 Délimitation des compétences et collaboration
 
@@ -755,9 +781,15 @@ Pour la désignation des membres des cours appelées à statuer, le président d
 
 #### Art. 41
 
-[^41-1]
+**Composition à cinq juges de la première Cour de droit pénal**[^41-1]
 
-[^41-1]: Abrogé par le ch. I de l’O du TF du 13 juin 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+### (art. 13, 18, al. 3, et 20, al. 2, LTF )
+
+<sup>1</sup> Un membre de la deuxième Cour de droit pénal est appelé à siéger, par rotation, dans les affaires de la première Cour de droit pénal pour lesquelles la cour statue à cinq juges tant que la première Cour de droit pénal ne compte que quatre membres.
+
+<sup>2</sup> Cette rotation suit l’ordre d’ancienneté et inclut tous les membres de la cour.
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 42
 
@@ -960,7 +992,7 @@ La Commission de recours statue sur les litiges prévus aux dispositions suivant
 [^55-2]: Nouvelle teneur selon le ch. I de l’O du TF du 24 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
 [^55-3]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
 [^55-4]: [RS 152.21](https://fedlex.data.admin.ch/eli/cc/1999/460)
-[^55-5]: Le renvoi a été adapté en application de l’art. 12 al. 2 de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^55-5]: Le renvoi a été adapté en application de l’art. 12 al. 2 de la loi du 18 juin 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^55-6]: [RS 173.110.133](https://fedlex.data.admin.ch/eli/cc/2006/836)
 [^55-7]: Introduite par le ch. I de l’O du TF du 26 août 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 799](https://fedlex.data.admin.ch/eli/oc/2021/799)).
 [^55-8]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
@@ -1113,6 +1145,10 @@ Les règlements suivants sont abrogés:
 <sup>1</sup> Les autorisations d’exercer une activité accessoire délivrées aux juges ordinaires avant l’entrée en vigueur du présent règlement demeurent valables.
 
 <sup>2</sup> Les activités accessoires qui ne sont plus compatibles avec le nouveau droit doivent prendre fin au plus tard une année après l’entrée en vigueur du présent règlement.
+
+<sup>3</sup> Jusqu’au 30 juin 2025, la deuxième Cour de droit pénal est également compétente pour traiter les recours relevant du domaine de compétence de la première Cour de droit pénal.[^66-1]
+
+[^66-1]: Introduit par le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 67
 
