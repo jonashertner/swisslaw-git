@@ -3,20 +3,19 @@ canton: GL
 number: VIII D/6/4
 title: Einführungsgesetz zum Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung
 language: de
-version: 2014-09-01
-valid_until: 2023-06-30
-version_adopted: 2014-05-04
+version: 2023-07-01
+version_adopted: 2023-05-07
 adopted: 1984-05-06
 in_force: 1984-05-06
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-D.6.4"
-pdf: "https://gesetze.gl.ch/api/de/versions/1640/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2426/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsgesetz zum Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung
 
-Vom 06.05.1984 (Stand 01.09.2014)
+Vom 06.05.1984 (Stand 01.07.2023)
 
 Die Landsgemeinde,
 
@@ -109,6 +108,8 @@ beschliesst:
 - a. aus seinen Zinserträgnissen;
 - b. durch allfällige Vermächtnisse und Zuwendungen.
 
+<sup>3</sup> Der Landrat setzt die Einlagen in diesen Fonds über das Budget fest.
+
 #### Art. 9
 
 **Verwendung**
@@ -117,9 +118,7 @@ beschliesst:
 
 - a. für die Finanzierung von Massnahmen der Krisenbekämpfung und der Verhütung von Arbeitslosigkeit;
 - b. für arbeitsmarktliche Massnahmen, wie die Weiterbildung und Umschulung von Arbeitslosigkeit bedrohter oder arbeitsloser oder ausgesteuerter Versicherter zum Zwecke der Hebung ihrer beruflichen Vermittlungsfähigkeit;
-- c. für die Ausrichtung von Beiträgen gemäss dem Gesetz über Erwerbsersatzleistungen für einkommensschwache Eltern[^9-1].
-
-[^9-1]: GS [VIII D/7/1](https://gesetze.gl.ch/data/VIII-D.7.1/de)
+- c. …
 
 #### Art. 10
 
