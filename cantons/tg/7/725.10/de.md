@@ -4,13 +4,12 @@ number: "725.10"
 title: Verordnung zum Gesetz über Strassen und Wege
 short: StrWV
 language: de
-version: 2018-01-01
-valid_until: 2023-06-30
-version_adopted: 2017-12-05
+version: 2023-07-01
+version_adopted: 2023-06-13
 adopted: 1992-12-15
 in_force: 1993-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/725.10"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2219/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2683/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ StrWV
 
 (StrWV)
 
-vom 15.12.1992 (Stand 01.01.2018)
+vom 15.12.1992 (Stand 01.07.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -29,23 +28,27 @@ vom 15.12.1992 (Stand 01.01.2018)
 
 **Zuständigkeit, Aufsicht**
 
-<sup>1</sup> Soweit diese Verordnung nichts anderes bestimmt, ist das Departement für Bau und Umwelt zuständiges Departement im Sinne des Gesetzes[^1-1]. Es übt die direkte Aufsicht über den Vollzug des Gesetzes aus.
+<sup>1</sup> Soweit diese Verordnung nichts anderes bestimmt, ist das Departement für Bau und Umwelt zuständiges Departement im Sinne des Gesetzes über Strassen und Wege (StrWG)[^1-1]. Es übt die direkte Aufsicht über den Vollzug des Gesetzes aus.
 
-<sup>2</sup> Soweit das Gesetz oder diese Verordnung nichts anderes bestimmen, ist das Tiefbauamt für den Vollzug des Gesetzes zuständig.
+<sup>2</sup> Soweit das StrWG oder diese Verordnung nichts anderes bestimmen, ist das Tiefbauamt für den Vollzug des StrWG zuständig.
+
+<sup>3</sup> Bewilligungen nach § 34 Abs. 2 Ziff. 1 StrWG in der Zuständigkeit des Kantons erteilt nach Anhörung des Tiefbauamtes das Departement für Justiz und Sicherheit.
+
+<sup>4</sup> Zuständige Stelle im Sinne von § 35a Abs. 4 und Abs. 6 StrWG ist das Generalsekretariat des Departementes für Bau und Umwelt.
 
 [^1-1]: RB [725.1](https://www.rechtsbuch.tg.ch/data/725.1/de)
 
 #### § 2
 
-**Strassenverzeichnis**
+**Strassen- und Wegverzeichnis**
 
-<sup>1</sup> Die Strassen- und Wegverzeichnisse von Kanton und Gemeinden nach § 8 Abs. 2 des Gesetzes haben mindestens folgende Angaben zu enthalten:
+<sup>1</sup> Die Strassen- und Wegverzeichnisse von Kanton und Gemeinden nach § 8 Abs. 3 StrWG haben mindestens folgende Angaben zu enthalten:
 
-- 1\. Länge des Strassenstückes;
-- 2\. durchschnittliche Breite;
-- 3\. Art des Belages.
+- 1\. Länge des Strassen- und Wegstückes
+- 2\. durchschnittliche Breite
+- 3\. Art des Belages
 
-<sup>2</sup> Kanton und Gemeinden führen ihre Verzeichnisse laufend nach und stellen sie sich bei Bedarf gegenseitig zur Verfügung.
+<sup>2</sup> Kanton und Gemeinden führen ihre Verzeichnisse laufend nach.
 
 #### § 3
 
@@ -53,15 +56,15 @@ vom 15.12.1992 (Stand 01.01.2018)
 
 <sup>1</sup> Sieht das Gesetz oder diese Verordnung eine öffentliche Bekanntmachung oder Auflage vor, hat die Publikation im Amtsblatt sowie in den Publikationsorganen der betroffenen Gemeinden zu erfolgen.
 
+<sup>2</sup> § 2 der Verordnung des Regierungsrates zum Strassenverkehrsgesetz und den Nebenerlassen[^3-1] bleibt vorbehalten.
+
+[^3-1]: RB [741.2](https://www.rechtsbuch.tg.ch/data/741.2/de)
+
 ## 2. Bau
 
 #### § 4
 
-**Anordnung von Versuchsphasen**
-
-<sup>1</sup> Die Anordnung von Versuchsphasen für bauliche Massnahmen zur Verkehrsberuhigung oder -lenkung gemäss § 13 Abs. 1 des Gesetzes[^4-1] ist öffentlich bekanntzumachen.
-
-[^4-1]: RB [725.1](https://www.rechtsbuch.tg.ch/data/725.1/de)
+**…**
 
 #### § 5
 
@@ -87,35 +90,31 @@ vom 15.12.1992 (Stand 01.01.2018)
 
 #### § 8
 
-**Bewilligung, Konzession**
+**Globalbewilligung**
 
-<sup>1</sup> Gesuche für Bewilligungen oder Konzessionen nach § 34 und § 35 des Gesetzes sind spätestens einen Monat vor der geplanten Inanspruchnahme mit den für die Beurteilung erforderlichen Unterlagen bei der Gemeindebehörde einzureichen.
+<sup>1–3</sup> …
 
-<sup>2</sup> Ist der Kanton für die Erteilung der Bewilligung oder der Konzession zuständig, leitet die Gemeindebehörde das Gesuch mit ihrer Stellungnahme an das Tiefbauamt weiter.
+<sup>4</sup> Für das Erstellen von Kanalisationen, Werkleitungen oder Kabel innerhalb von Kantonsstrassen oder ‑wegparzellen kann im betroffenen Gemeindegebiet die Bewilligung nach § 34 Abs. 2 Ziff. 4 StrWG als Globalbewilligung für alle Strassen‑ und Wegparzellen erteilt werden für:
 
-<sup>3</sup> Werden durch Gesuche um Bewilligungen oder Konzessionen in der Zuständigkeit der Gemeinden kantonale Interessen berührt, holt die Gemeinde vor ihrem Entscheid die Stellungnahme des Tiefbauamtes ein.
-
-<sup>4</sup> Für das Erstellen von Kanalisationen, Werkleitungen oder Kabel innerhalb von Kantonsstrassen- oder -wegparzellen kann im betroffenen Gemeindegebiet die Bewilligung nach § 34 Abs. 1 Ziff. 4 des Gesetzes als Globalbewilligung für alle Strassen- und Wegparzellen erteilt werden für:
-
-- 1\. Gemeinden;
-- 2\. Zweckverbände, denen die Gemeinde angehört;
-- 3\. öffentlich-rechtliche oder privatrechtliche Unternehmen, mit denen die Gemeinde einen schriftlichen Vertrag gemäss § 29 Abs. 1 des Gesetzes über die Gemeinden[^8-1] abgeschlossen hat.
+- 1\. Gemeinden
+- 2\. Zweckverbände, denen die Gemeinde angehört
+- 3\. öffentlich-rechtliche oder privatrechtliche Unternehmen, mit denen die Gemeinde einen schriftlichen Vertrag gemäss § 29 Abs. 1 des Gesetzes über die Gemeinden[^8-1] abgeschlossen hat
 
 [^8-1]: RB [131.1](https://www.rechtsbuch.tg.ch/data/131.1/de)
 
 #### § 9
 
-**Zuständige Behörde des Kantons**
-
-<sup>1</sup> Bewilligungen nach § 34 Abs. 2 Ziff. 1 des Gesetzes[^9-1] in der Zuständigkeit des Kantons erteilt nach Anhörung des Tiefbauamtes das Departement für Justiz und Sicherheit.
-
-[^9-1]: RB [725.1](https://www.rechtsbuch.tg.ch/data/725.1/de)
+**…**
 
 #### § 10
 
-**Konzessionsgebühren des Kantons**
+**Bewilligungs- und Konzessionsgebühren des Kantons**
 
-<sup>1</sup> Für die Erteilung von Konzessionen durch den Regierungsrat nach § 35 des Gesetzes werden je nach Art und Dauer der Nutzung Gebühren zwischen Fr. 200 und Fr. 2'000 erhoben. In besonderen Fällen kann der Mindestansatz unterschritten oder der Höchstansatz überschritten werden.
+<sup>1</sup> Für die Erteilung von Bewilligungen für den gesteigerten Gemeingebrauch durch den Kanton nach § 34 StrWG und für die Vergabe von Konzessionen durch das Departement nach § 35 StrWG werden je nach Art und Dauer der Nutzung Gebühren zwischen Fr. 500 und Fr. 5'000 erhoben. In besonderen Fällen kann der Mindestansatz unterschritten oder der Höchstansatz überschritten werden.
+
+<sup>2</sup> Für Gebühren für den bewilligungspflichtigen gesteigerten Gemeingebrauch nach § 34 Abs. 2 Ziff. 4 StrWG bleiben die Bestimmungen der Verordnung des Regierungsrates über die Gebühren für den gesteigerten Gemeingebrauch von Kantonsstrassen und ‑wegen (GGV)[^10-1] vorbehalten.
+
+[^10-1]: RB [725.12](https://www.rechtsbuch.tg.ch/data/725.12/de)
 
 ## 4. Anstossende Grundstücke
 
@@ -127,9 +126,9 @@ vom 15.12.1992 (Stand 01.01.2018)
 
 #### § 12
 
-**Zufahrten, Zugänge**
+**Zufahrten, Zugänge und Einmündungen**
 
-<sup>1</sup> Für die Gestaltung von Zufahrten und Zugängen sind die einschlägigen Normen der Schweizerischen Normen-Vereinigung (SNV) massgebend. In besonderen Fällen können Abweichungen durch das Tiefbauamt bewilligt werden.
+<sup>1</sup> Für die Gestaltung von Zufahrten, Zugängen und Einmündungen sind die Normen VSS 40 050 (gültig ab 31. August 2019) und VSS 40 273 (gültig ab 31. März 2019) massgebend. In besonderen Fällen können Abweichungen durch das Tiefbauamt bewilligt werden.
 
 #### § 13
 
@@ -147,11 +146,7 @@ vom 15.12.1992 (Stand 01.01.2018)
 
 #### § 15
 
-**Einfriedungen, Mauern, Terraingestaltungen**
-
-<sup>1</sup> Einfriedungen, Mauern und Terraingestaltungen nach § 43 Abs. 1 Satz 2 des Gesetzes[^15-1] dürfen unter Vorbehalt von § 41 des Gesetzes entlang von Trottoirs des Kantons direkt an der Strassengrenze erstellt werden, wenn das Tiefbauamt vorgängig informiert wurde und es nicht innert 20 Tagen seit Eingang der Mitteilung ein formelles Gesuch für eine Ausnahmebewilligung nach § 47 des Gesetzes verlangt.
-
-[^15-1]: RB [725.1](https://www.rechtsbuch.tg.ch/data/725.1/de)
+**…**
 
 #### § 16
 
@@ -177,54 +172,43 @@ vom 15.12.1992 (Stand 01.01.2018)
 
 #### § 18
 
-**Strassenreklamen**
+**…**
 
-<sup>1</sup> Vor der Erteilung einer Bewilligung nach § 52 des Gesetzes holt die Gemeindebehörde eine Stellungnahme des Tiefbauamtes ein, soweit Staatsstrassen betroffen sind.
-
-<sup>.</sup>
-
-## 6. Fuss- und Wanderwege
+## 6. Wege
 
 #### § 19
 
-**Fachstellen**
+**Fachstelle**
 
-<sup>1</sup> Fachstellen des Kantons sind:
+<sup>1</sup> Das Tiefbauamt führt eine Fachstelle Langsamverkehr, die zugleich Fachstelle im Sinne des Bundesgesetzes über Fuss- und Wanderwege (FWG)[^19-1] und des Bundesgesetzes über Velowege (Veloweggesetz)[^19-2] ist.
 
-- 1\. für Fusswege das Amt für Raumplanung;
-- 2\. für Wanderwege das Tiefbauamt.
+<sup>2</sup> Die Fachstelle berät in Zusammenarbeit mit privaten Fachorganisationen die Gemeinden bei der Planung und Erstellung der Wegnetze.
 
-<sup>2</sup> Die Fachstellen beraten in Zusammenarbeit mit privaten Fachorganisationen die Gemeinden bei der Planung und Erstellung des Fuss- und Wanderwegnetzes.
+[^19-1]: SR [704](https://db.clex.ch/link/Bund/704/de)
+[^19-2]: SR [705](https://db.clex.ch/link/Bund/705/de)
 
 #### § 20
 
-**Ersatzanordnungen**
+**…**
 
-<sup>1</sup> Anordnungen betreffend den Ersatz von Wanderwegen nach § 11 Abs. 4 des Gesetzes[^20-1] erlässt das Departement.
+#### § 20a
 
-[^20-1]: RB [725.1](https://www.rechtsbuch.tg.ch/data/725.1/de)
+**Ersatzpflicht**
+
+<sup>1</sup> Der Ersatz von Fuss‑, Wander‑ und Radwegen richtet sich nach § 19 bis § 22 StrWG.
+
+<sup>2</sup> Sind Dritte Verursacher, werden ihnen die entsprechenden Kosten durch Entscheid auferlegt.
 
 ## 7. Übergangs- und Schlussbestimmungen
 
 #### § 21
 
-**Strassen- und Wegnetz des Kantons**
+**Wegnetz des Kantons**
 
-<sup>1</sup> Bis zur Rechtskraft des Netzbeschlusses des Grossen Rates nach § 5 Abs. 3 des Gesetzes gelten
+<sup>1</sup> Die im Kantonalen Richtplan in der Übersichtskarte «Wanderwege» (Stand Mai 2022) enthaltenen Wanderwege sowie die in den Übersichtskarten «Radwegnetz Alltagsverkehr» (Stand Mai 2022) und «Radwegnetz Freizeitverkehr» (Stand Mai 2022) enthaltenen Radwegnetze bilden das Netz der Kantonswege gemäss § 5 Abs. 3 StrWG.
 
-- 1\. das bisherige Strassen- und Wegnetz des Kantons als kantonales Strassen- und Wegnetz,
-- 2\. die in der Thurgauer Wanderkarte, Ausgabe 1991, enthaltenen Wanderwege als Wanderwegnetz des Kantons.
+#### § 22–23
 
-#### § 22
-
-**...[^22-1]**
-
-[^22-1]: Aufhebung bisherigen Rechtes. ABl 1993, Seite 7.
-
-#### § 23
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 1993 in Kraft.
+**…**
 
 ABl. 1/1993
