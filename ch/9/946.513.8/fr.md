@@ -4,11 +4,11 @@ title: "Ordonnance du 19 mai 2010 réglant la mise sur le marché de produits fa
 short: OPPEtr
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: fr
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-350-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-350-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230101/fr"
 
 (Ordonnance sur la mise sur le marché de produits fabriqués selon des prescriptions étrangères, OPPEtr)
 
-du 19 mai 2010 (État le 1<sup>er</sup> janvier 2023)
+du 19 mai 2010 (État le 1<sup>er</sup> juillet 2023)
 
 Le Conseil fédéral suisse,
 
@@ -96,7 +96,7 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
   - 4\. les ouvrages soumis à la loi du 20 juin 1933 sur le contrôle des métaux précieux[^2-29] qui ne sont pas conformes aux prescriptions concernant les titres et à celles concernant la désignation, le marquage et la composition matérielle énumérées aux art. 1 à 3 et 5 à 21 de ladite loi,
   - 5\.[^2-30]
 
-    les appareils suivants qui ne respectent pas les prescriptions techniques prévues aux art. 3 à 8 et aux annexes 1.1, 1.3, 1.5, 1.15, 1.16, 1.18, 1.21, 2.4, 2.14 et 3.2 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives à l’efficacité énergétique[^2-31]:
+    les appareils suivants qui ne respectent pas les prescriptions techniques prévues aux art. 3 à 8 et aux annexes 1.1, 1.3, 1.15, 1.16, 1.18, 1.21, 2.4, 2.14, 2.15 et 3.2 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives à l’efficacité énergétique[^2-31]:
 
     - – les appareils de réfrigération alimentés par le secteur
     - – les sèche-linge domestiques à tambour alimentés par le secteur
@@ -105,7 +105,8 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
     - – pour ce qui est des dispositifs de chauffage décentralisés: les dispositifs de chauffage décentralisés électriques
     - – pour ce qui est des appareils de réfrigération alimentés par le secteur disposant d’une fonction de vente directe: les appareils de réfrigération de boissons disposant d’une fonction de vente directe, les armoires frigorifiques verticales ou mixtes de supermarché et les congélateurs verticaux ou mixtes de supermarché
     - – pour ce qui est des décodeurs (set-top box) alimentés par le secteur: les décodeurs (set-top box) complexes
-    - – les plaques de cuisson professionnelles, les fours professionnels à gratin ou de maintien au chaud ouverts, diffusant une chaleur supérieure intense (salamandres) et les friteuses professionnelles alimentés par le secteur
+    - – les plaques de cuisson professionnelles, les fours professionnels à gratin ou de maintien au chaud ouverts diffusant une chaleur supérieure intense (salamandres) et les friteuses professionnelles alimentés par le secteur
+    - – les lave-vaisselle professionnels alimentés par le secteur
     - – les machines à café domestiques alimentées par le secteur,
 
   - 6\.[^2-32] les bois et les produits en bois soumis à l’ordonnance du 4 juin 2010 sur la déclaration concernant le bois et les produits en bois[^2-33] qui ne satisfont pas aux prescriptions relatives à la déclaration énoncées aux art. 2 à 4 de ladite ordonnance,
@@ -143,7 +144,7 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
 [^2-27]: [[RO 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024), [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)annexe ch. 5 [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)annexe 5, [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)annexe ch. 6, [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)art. 10 ch. 1 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. II 5, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. 6. [RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)annexe 2 ch. I]
 [^2-28]: Abrogé par le ch. III de l’O du 11 avr. 2018, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^2-29]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^2-30]: Nouvelle teneur selon le ch. III de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^2-30]: Nouvelle teneur selon le ch. III de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 [^2-31]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
 [^2-32]: Introduit par l’art. 10 de l’O du 4 juin 2010 sur la déclaration concernant le bois et les produits en bois, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
 [^2-33]: [RS 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)

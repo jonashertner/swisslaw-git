@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Mai 2010 über das Inverkehrbringen von nach ausländ
 short: VIPaV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: de
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2010-350-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2010-350-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230101/de"
 
 (Verordnung über das Inverkehrbringen von Produkten nach ausländischen Vorschriften, VIPaV)
 
-vom 19. Mai 2010 (Stand am 1. Januar 2023)
+vom 19. Mai 2010 (Stand am 1. Juli 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -96,7 +96,7 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
   - 4\. dem Edelmetallkontrollgesetz vom 20. Juni 1933[^2-29] unterstellte Waren, welche die Vorschriften betreffend Feingehalte und betreffend die Bezeichnung, Kennzeichnung und materielle Zusammensetzung nach den Artikeln 1–3 und 5–21 des Edelmetallkontrollgesetzes nicht erfüllen,
   - 5\.[^2-30]
 
-    die folgenden Geräte, welche die technischen Vorschriften gemäss den Artikeln 3–8 sowie den Anhängen 1.1, 1.3, 1.15–1.16, 1.18, 1.21, 2.4, 2.14 und 3.2 der Energieeffizienzverordnung vom 1. November 2017[^2-31] nicht einhalten:
+    die folgenden Geräte, welche die technischen Vorschriften gemäss den Artikeln 3–8 sowie den Anhängen 1.1, 1.3, 1.15–1.16, 1.18, 1.21, 2.4, 2.14–2.15 und 3.2 der Energieeffizienzverordnung vom 1. November 2017[^2-31] nicht einhalten:
 
     - – netzbetriebene Kühlgeräte
     - – netzbetriebene Haushaltswäschetrockner
@@ -106,6 +106,7 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
     - – bei netzbetriebenen Kühlgeräten mit Direktverkaufsfunktion: Getränkekühler mit Direktverkaufsfunktion, vertikale und kombinierte Kühlschränke für Supermärkte sowie vertikale und kombinierte Gefrierschränke für Supermärkte
     - – bei netzbetriebenen Set-Top-Boxen: komplexe Set-Top-Boxen
     - – netzbetriebene gewerbliche Kochfelder, offene Gratinier- oder Warmhalte-Öfen mit starker Oberhitze (Salamander) und Fritteusen
+    - – netzbetriebene gewerbliche Geschirrspüler
     - – netzbetriebene Haushaltskaffeemaschinen,
 
   - 6\.[^2-32] der Verordnung vom 4. Juni 2010[^2-33] über die Deklaration von Holz und Holzprodukten unterstellte Hölzer und Holzprodukte, welche die Vorschriften zur Deklaration nach den Artikeln 2–4 der genannten Verordnung nicht erfüllen,
@@ -143,7 +144,7 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
 [^2-27]: [[AS 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024); [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)Anhang Ziff. 5, [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)Anhang 5; [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)Anhang Ziff. 6; [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)Art. 10 Ziff. 1, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. II 5; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. 6. [AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)Anhang 2 Ziff. II]
 [^2-28]: Aufgehoben durch Ziff. III der V vom 11. April 2018, mit Wirkung seit 1. Jan. 2022 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^2-29]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^2-30]: Fassung gemäss Ziff. III der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^2-30]: Fassung gemäss Ziff. III der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 [^2-31]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
 [^2-32]: Eingefügt durch Art. 10 der V vom 4. Juni 2010 über die Deklaration von Holz und Holzprodukten, in Kraft seit 1. Okt. 2010 ([AS 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
 [^2-33]: [SR 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)

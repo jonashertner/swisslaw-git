@@ -4,11 +4,11 @@ title: "Ordinanza del 19 maggio 2010 concernente l'immissione in commercio di pr
 short: OIPPE
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: it
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2010-350-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2010-350-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230101/it"
 
 (Ordinanza sull’immissione in commercio di prodotti conformi a prescrizioni tecniche estere, OIPPE)
 
-del 19 maggio 2010 (Stato 1° gennaio 2023)
+del 19 maggio 2010 (Stato 1° luglio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -96,7 +96,7 @@ Costituiscono deroghe al principio di cui all’articolo 16*a* capoverso 1 LOTC:
   - 4\. i lavori soggetti alla legge del 20 giugno 1933[^2-29] sul controllo dei metalli preziosi che non soddisfano le prescrizioni in materia di titoli e di designazione, caratterizzazione e composizione materiale di cui agli articoli 1–3 e 5–21 della suddetta legge,
   - 5\.[^2-30]
 
-    i seguenti apparecchi che non rispettano le prescrizioni tecniche di cui agli articoli 3–8 e agli allegati 1.1, 1.3, 1.15-1.16, 1.18, 1.21, 2.4, 2.14 e 3.2 dell’ordinanza del 1° novembre 2017[^2-31] sull’efficienza energetica:
+    i seguenti apparecchi che non rispettano le prescrizioni tecniche di cui agli articoli 3–8 e agli allegati 1.1, 1.3, 1.15–1.16, 1.18, 1.21, 2.4, 2.14–2.15 e 3.2 dell’ordinanza del 1° novembre 2017[^2-31] sull’efficienza energetica:
 
     - – frigoriferi con raccordo alla rete,
     - – asciugabiancheria domestiche con raccordo alla rete,
@@ -106,8 +106,9 @@ Costituiscono deroghe al principio di cui all’articolo 16*a* capoverso 1 LOTC:
     - – nel caso di refrigeratori aventi funzione di vendita diretta con raccordo alla rete: refrigeratori per bevande con funzione di vendita diretta, armadi frigorifero da supermercato verticali e combinati e armadi congelatori da supermercato verticali e combinati con raccordo alla rete,
     - – nel caso di set top box con raccordo alla rete: set top box complessi,
     - – piani cottura, forni aperti per gratinare o mantenere calde le vivande con forte calore superiore (salamandre) e friggitrici professionali con raccordo alla rete,
-    - – macchine da caffè per uso domestico con raccordo alla rete.
+    - – lavastoviglie professionali con raccordo alla rete,
 
+  - – macchine da caffè per uso domestico con raccordo alla rete.
   - 6\.[^2-32] legno e prodotti del legno soggetti all’ordinanza del 4 giugno 2010[^2-33] sulla dichiarazione concernente il legno e i prodotti del legno, che non soddisfano le prescrizioni in materia di dichiarazione di cui agli articoli 2–4 di detta ordinanza,
   - 7\.[^2-34] ...
   - 8\.[^2-35] pellicce e prodotti di pellicceria soggetti all’ordinanza del 7 dicembre 2012[^2-36] sulla dichiarazione delle pellicce, non conformi alle prescrizioni di cui agli articoli 2*a*–7 dell’ordinanza suddetta, relative alla dichiarazione,
@@ -143,7 +144,7 @@ Costituiscono deroghe al principio di cui all’articolo 16*a* capoverso 1 LOTC:
 [^2-27]: [[RU 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024); [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)all. n. 5, [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)all. 5; [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)all. n. 6; [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)art. 10 n. 1, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)n. II 5; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. 6. [RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)all. 2 n. I]
 [^2-28]: Abrogato dal n. III dell’O dell’11 apr. 2018, con effetto dal 1° gen. 2022 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^2-29]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^2-30]: Nuovo testo giusta il n. III dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^2-30]: Nuovo testo giusta il n. III dell’O del 24 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 [^2-31]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
 [^2-32]: Introdotto dall’art. 10 dell’O del 4 giu. 2010 sulla dichiarazione concernente il legno e i prodotti del legno, in vigore dal 1° ott. 2010 ([RU 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
 [^2-33]: [RS 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
