@@ -3,18 +3,18 @@ sr: "510.518"
 title: Legge federale del 23 giugno 1950 concernente la protezione delle opere militari
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485"
 language: it
-version: 2007-01-01
+version: 2023-07-01
 adopted: 1950-06-23
 in_force: 1951-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485/20070101/it/xml/fedlex-data-admin-ch-eli-cc-1950-1474_1519_1485-20070101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/1474_1519_1485/20070101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1950-1474_1519_1485-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/1474_1519_1485/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale concernente la protezione delle opere militari
 
-del 23 giugno 1950 (Stato 1° gennaio 2007)
+del 23 giugno 1950 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -37,7 +37,7 @@ I Comuni e i Cantoni sono tenuti a notificare al Dipartimento federale della dif
 - a. prima dell’esecuzione: le costruzioni o i provvedimenti d’economia forestale che potrebbero pregiudicare l’efficacia delle opere militari o comprometterne l’uso;
 - b. i progetti di trasformazione o di costruzione d’aerodromi e di manufatti stradali o ferroviari d’interesse militare.
 
-[^2-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Di detta modifica è stato tenuto conto in tutto il presente testo.
+[^2-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
@@ -69,15 +69,17 @@ I Comuni e i Cantoni sono tenuti a notificare al Dipartimento federale della dif
 
 #### Art. 7
 
-<sup>1</sup> Chiunque danneggia, distrugge o rende inservibile un’opera militare, chiunque trasgredisce le disposizioni degli articoli 2 a 6, le disposizioni emanate o i provvedimenti presi in applicazione della presente legge dal Consiglio federale, dal DDPS, da un altro ufficio competente o da un comandante militare,
+<sup>1</sup> Chiunque danneggia, distrugge o rende inservibile un’opera militare,
 
-è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.[^7-1] Le due pene possono essere cumulate. I casi poco gravi sono puniti disciplinarmente.
+chiunque trasgredisce le disposizioni degli articoli 2–6, le disposizioni emanate o i provvedimenti presi in applicazione della presente legge dal Consiglio federale, dal DDPS, da un altro ufficio competente o da un comandante militare,
+
+è punito con una pena detentiva sino a tre anni o con una pena pecuniaria. I casi poco gravi sono puniti disciplinarmente.[^7-1]
 
 <sup>2</sup> Chiunque agisce per negligenza è punibile.
 
 <sup>3</sup> È riservato il perseguimento secondo le disposizioni del Codice penale militare del 13 giugno 1927[^7-2].
 
-[^7-1]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^7-1]: Nuovo testo giusta il n. I 16 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^7-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
 #### Art. 8
@@ -101,4 +103,4 @@ Chiunque commette un atto represso dalla presente legge è sottoposto alla giuri
 Data dell’entrata in vigore: 1° gennaio 1951[^10-2]
 
 [^10-1]: [CS **5** 542]
-[^10-2]: DCF del 28 dic. 1950 (RU **1950** II 1487).
+[^10-2]: DCF del 28 dic. 1950.

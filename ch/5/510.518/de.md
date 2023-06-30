@@ -3,18 +3,18 @@ sr: "510.518"
 title: Bundesgesetz vom 23. Juni 1950 über den Schutz militärischer Anlagen
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485"
 language: de
-version: 2007-01-01
+version: 2023-07-01
 adopted: 1950-06-23
 in_force: 1951-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485/20070101/de/xml/fedlex-data-admin-ch-eli-cc-1950-1474_1519_1485-20070101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/1474_1519_1485/20070101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1950-1474_1519_1485-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/1474_1519_1485/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über den Schutz militärischer Anlagen
 
-vom 23. Juni 1950 (Stand am 1. Januar 2007)
+vom 23. Juni 1950 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -38,7 +38,7 @@ Die Gemeinden und Kantone haben dem Eidgenössische Departement für Verteidigun
 - a. jede bauliche oder forstwirtschaftliche Massnahme, die militärische Anlagen in ihrer Wirksamkeit oder in ihrem Gebrauch beeinträchtigen könnte, vor deren Ausführung;
 - b. alle Um- und Neubauten von Flugplätzen, und alle militärisch wichtigen Kunstbauten an Strassen und Eisenbahnlinien, bei der Projektierung.
 
-[^2-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^2-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 3
 
@@ -74,13 +74,13 @@ Es ist verboten, in und ausserhalb der Schweiz ohne Bewilligung zu veröffentlic
 
 wer den Bestimmungen der Artikel 2–6 dieses Bundesgesetzes oder den sich darauf stützenden Erlassen und Massnahmen des Bundesrates, des VBS oder anderer zuständiger Amts- und Kommandostellen zuwiderhandelt,
 
-wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^7-1] Beide Strafen können verbunden werden. In leichten Fällen erfolgt disziplinarische Bestrafung.
+wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft. In leichten Fällen erfolgt disziplinarische Bestrafung.[^7-1]
 
 <sup>2</sup> Die fahrlässige Begehung ist strafbar.
 
 <sup>3</sup> Vorbehalten bleibt die Verfolgung nach Massgabe der Bestimmungen des Militärstrafgesetzes vom 13. Juni 1927[^7-2].
 
-[^7-1]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^7-1]: Fassung gemäss Ziff. I 16 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^7-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
 #### Art. 8

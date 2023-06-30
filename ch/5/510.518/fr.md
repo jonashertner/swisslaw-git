@@ -3,18 +3,18 @@ sr: "510.518"
 title: Loi fédérale du 23 juin 1950 concernant la protection des ouvrages militaires
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485"
 language: fr
-version: 2007-01-01
+version: 2023-07-01
 adopted: 1950-06-23
 in_force: 1951-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485/20070101/fr/xml/fedlex-data-admin-ch-eli-cc-1950-1474_1519_1485-20070101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/1474_1519_1485/20070101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1950-1474_1519_1485-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/1474_1519_1485/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale concernant la protection des ouvrages militaires
 
-du 23 juin 1950 (Etat le 1<sup>er</sup> janvier 2007)
+du 23 juin 1950 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -38,7 +38,7 @@ Les communes et les cantons sont tenus de signaler au Département fédéral de 
 - a. avant qu’elles ne soient exécutées, les constructions ou les mesures d’économie forestière qui pourraient nuire à l’efficacité des ouvrages militaires ou en compromettre l’usage;
 - b. les projets de transformation ou de construction d’aérodromes et d’ouvrages d’art routiers ou ferroviaires d’intérêt militaire.
 
-[^2-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette modification dans tout le présent texte.
+[^2-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette modification dans tout le présent texte.
 
 #### Art. 3
 
@@ -72,15 +72,15 @@ Il est interdit, en Suisse ou hors de Suisse, de publier ou de mettre dans le co
 
 <sup>1</sup> Quiconque endommage, détruit ou met hors d’usage un ouvrage militaire,
 
-quiconque enfreint les dispositions des art. 2 à 6, les dispositions arrêtées ou les mesures prises en application de la présente loi par le Conseil fédéral, le DDPS, un autre office compétent ou un commandant militaire
+quiconque enfreint les dispositions des art. 2 à 6, les dispositions arrêtées ou les mesures prises en application de la présente loi par le Conseil fédéral, le DDPS, un autre office compétent ou un commandant militaire,
 
-est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire. Les deux peines peuvent être cumulées. L’infraction est punie disciplinairement si elle est de peu de gravité.[^7-1]
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire. L’infraction est punie disciplinairement si elle est de peu de gravité.[^7-1]
 
 <sup>2</sup> Quiconque agit par négligence est punissable.[^7-2]
 
 <sup>3</sup> La poursuite selon les dispositions du code pénal militaire du 13 juin 1927[^7-3] est réservée.
 
-[^7-1]: Nouvelle teneur selon l’art. 333 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^7-1]: Nouvelle teneur selon le ch. I 16 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^7-2]: Nouvelle teneur selon l’art. 333 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 [^7-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
@@ -98,7 +98,7 @@ Celui qui commet un acte réprimé par la présente loi est soumis à la juridic
 
 <sup>1</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur de la présente loi.
 
-<sup>2</sup> A cette date, l’arrêté fédéral du 18 mars 1937[^10-1] concernant les régions fortifiées sera abrogé.
+<sup>2</sup> À cette date, l’arrêté fédéral du 18 mars 1937[^10-1] concernant les régions fortifiées sera abrogé.
 
 <sup>3</sup> Le Conseil fédéral est chargé de l’exécution.
 
