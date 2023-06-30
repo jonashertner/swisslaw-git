@@ -4,13 +4,13 @@ number: "331.217"
 title: Verordnung über die gemeinwirtschaftlichen Leistungen
 short: GWLV
 language: de
-version: 2022-12-27
-valid_until: 2023-06-30
-version_adopted: 2022-12-21
+version: 2023-07-01
+valid_until: 2023-12-31
+version_adopted: 2023-05-31
 adopted: 2020-11-11
 in_force: 2021-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/331.217"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3279/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3324/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3279/pdf_file"
 
 (GWLV)
 
-Vom 11.11.2020 (Stand 27.12.2022)
+Vom 11.11.2020 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -71,7 +71,7 @@ beschliesst:
 
 <sup>2</sup> Nachfolgende Leistungen werden mit einer jährlichen Pauschale in maximal der genannten Höhe abgegolten:
 
-- a) Betrieb der Sanitätsnotrufzentrale: Fr. 1,8 Mio.,
+- a) Betrieb der Sanitätsnotrufzentrale: Fr. 2,208 Mio.,
 - b) Massnahmen des Kindes- und Erwachsenenschutzrechts: Fr. 0,5 Mio.,
 - c) Bereitstellung und Unterhalt von geschützten Operationssälen (GOPS): In Abhängigkeit der Grösse Fr. 20'000.– oder Fr. 30'000.–,
 - d) Spitalseelsorge: Fr. 0,5 Mio. pro Jahr.
