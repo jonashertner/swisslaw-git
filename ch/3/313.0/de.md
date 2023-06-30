@@ -4,11 +4,11 @@ title: Bundesgesetz vom 22. März 1974 über das Verwaltungsstrafrecht (VStrR)
 short: VStrR
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857"
 language: de
-version: 2020-01-01
+version: 2023-07-01
 adopted: 1974-03-22
 in_force: 1975-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857/20200101/de/xml/fedlex-data-admin-ch-eli-cc-1974-1857_1857_1857-20200101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1974-1857_1857_1857-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20200101/de"
 
 (VStrR)
 
-vom 22. März 1974 (Stand am 1. Januar 2020)
+vom 22. März 1974 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 64<sup>bis</sup>, 106 und 114 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 21. April 1971[^ingress-3],
+gestützt auf Artikel 123 Absatz 1 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 21. April 1971[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3]. Den genannten Bestimmungen entsprechen heute die Art. 123, 188 und 190(nach Inkrafttreten des BB vom 8. Okt. 1999 über die Reform der Justiz – [BBl 1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454)– Art. 123, 188 und 189) der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Fassung gemäss Ziff. I des BG vom 22. Dez. 1999, in Kraft seit 1. Okt. 2000 ([AS 2000 2141](https://fedlex.data.admin.ch/eli/oc/2000/326); BBl **1998** 1529).
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I 13 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)
 
 ## Erster Titel: Geltungsbereich des Gesetzes
@@ -127,13 +127,22 @@ Die Vorschriften von Artikel 68 des Strafgesetzbuches[^9-1] über das Zusammentr
 
 #### Art. 11
 
-<sup>1</sup> Eine Übertretung verjährt in zwei Jahren.
+<sup>1</sup> Eine Übertretung verjährt in vier Jahren.[^11-1]
 
-<sup>2</sup> Besteht jedoch die Übertretung in einer Hinterziehung oder Gefährdung von Abgaben oder im unrechtmässigen Erlangen einer Rückerstattung, Ermässigung oder eines Erlasses von Abgaben, so beträgt die Verjährungsfrist fünf Jahre; sie kann durch Unterbrechung nicht um mehr als die Hälfte hinausgeschoben werden.
+<sup>2</sup> Besteht die Übertretung jedoch in einer Hinterziehung oder Gefährdung von Abgaben oder im unrechtmässigen Erlangen einer Rückerstattung, einer Ermässigung oder eines Erlasses von Abgaben, so beträgt die Verjährungsfrist sieben Jahre.[^11-2]
 
-<sup>3</sup> Die Verjährung ruht bei Vergehen und Übertretungen während der Dauer eines Einsprache-, Beschwerde- oder gerichtlichen Verfahrens über die Leistungs- oder Rückleistungspflicht oder über eine andere nach dem einzelnen Verwaltungsgesetz zu beurteilende Vorfrage oder solange der Täter im Ausland eine Freiheitsstrafe verbüsst.
+<sup>3</sup>
+
+Bei Verbrechen, Vergehen und Übertretungen ruht die Verjährung:
+
+- a. während der Dauer eines Einsprache-, Beschwerde- oder gerichtlichen Verfahrens über die Leistungs- oder Rückleistungspflicht oder über eine andere nach dem einzelnen Verwaltungsgesetz zu beurteilende Vorfrage; oder
+- b. solange der Täter im Ausland eine Freiheitsstrafe verbüsst.[^11-3]
 
 <sup>4</sup> Die Strafe einer Übertretung verjährt in fünf Jahren.
+
+[^11-1]: Fassung gemäss Ziff. I 13 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^11-2]: Fassung gemäss Ziff. I 13 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^11-3]: Fassung gemäss Ziff. I 13 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### D. Hinterziehung; Erschleichen eines Beitrages u. dgl.
 
@@ -164,24 +173,21 @@ Hat der Täter die Widerhandlung, die eine Leistungs- oder Rückleistungspflicht
 
 ### A. Strafbare Handlungen
 
-[^tit2-chap2-lvlA-1]
-
-[^tit2-chap2-lvlA-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
-
 ### I. Leistungs- und Abgabebetrug
 
 #### Art. 14
 
-<sup>1</sup> Wer die Verwaltung, eine andere Behörde oder einen Dritten durch Vorspiegelung oder Unterdrückung von Tatsachen arglistig irreführt oder sie in einem Irrtum arglistig bestärkt und so für sich oder einen andern unrechtmässig eine Konzession, eine Bewilligung oder ein Kontingent, einen Beitrag, die Rückerstattung von Abgaben, eine andere Leistung des Gemeinwesens erschleicht, oder bewirkt, dass der Entzug einer Konzession, einer Bewilligung oder eines Kontingents unterbleibt, wird mit Gefängnis oder mit Busse bestraft.[^14-1]
+[^14-1]
 
-<sup>2</sup> Bewirkt der Täter durch sein arglistiges Verhalten, dass dem Gemeinwesen unrechtmässig und in einem erheblichen Betrag eine Abgabe, ein Beitrag oder eine andere Leistung vorenthalten oder dass es sonst am Vermögen geschädigt wird, so ist die Strafe Gefängnis bis zu einem Jahr oder Busse bis zu 30 000 Franken.
+<sup>1</sup> Wer die Verwaltung, eine andere Behörde oder einen Dritten durch Vorspiegelung oder Unterdrückung von Tatsachen arglistig irreführt oder sie in einem Irrtum arglistig bestärkt und so für sich oder einen andern unrechtmässig eine Konzession, eine Bewilligung oder ein Kontingent, einen Beitrag, die Rückerstattung von Abgaben oder eine andere Leistung des Gemeinwesens erschleicht oder so bewirkt, dass der Entzug einer Konzession, einer Bewilligung oder eines Kontingents unterbleibt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-<sup>3</sup> Sieht das einzelne Verwaltungsgesetz für die entsprechende nicht arglistig begangene Widerhandlung einen höheren Höchstbetrag der Busse vor, so gilt dieser auch in den Fällen der Absätze 1 und 2.
+<sup>2</sup> Bewirkt der Täter durch sein arglistiges Verhalten, dass dem Gemeinwesen unrechtmässig und in einem erheblichen Betrag eine Abgabe, ein Beitrag oder eine andere Leistung vorenthalten oder dass es sonst am Vermögen geschädigt wird, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-<sup>4</sup> Wer gewerbsmässig oder im Zusammenwirken mit Dritten Widerhandlungen nach Absatz 1 oder 2 in Abgaben- oder Zollangelegenheiten begeht und sich oder einem andern dadurch in besonders erheblichem Umfang einen unrechtmässigen Vorteil verschafft oder das Gemeinwesen am Vermögen oder an andern Rechten besonders erheblich schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.[^14-2]
+<sup>3</sup> Wer gewerbsmässig oder im Zusammenwirken mit Dritten Widerhandlungen nach Absatz 1 oder 2 in Abgaben- oder Zollangelegenheiten begeht und sich oder einem andern dadurch in besonders erheblichem Umfang einen unrechtmässigen Vorteil verschafft oder das Gemeinwesen am Vermögen oder an andern Rechten besonders erheblich schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
-[^14-1]: Fassung gemäss Ziff. III des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^14-2]: Eingefügt durch Ziff. I 2 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)). Fassung gemäss Ziff. I 5 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d'action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+<sup>4</sup> Sieht ein Verwaltungsgesetz für eine dem Absatz 1, 2 oder 3 entsprechende nicht arglistig begangene Widerhandlung eine Busse vor, so ist in den Fällen nach den Absätzen 1–3 zusätzlich eine Busse auszufällen. Deren Bemessung richtet sich nach dem entsprechenden Verwaltungsgesetz.
+
+[^14-1]: Fassung gemäss Ziff. I 13 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### II. Urkundenfälschung; Erschleichen einer falschen Beurkundung
 
@@ -191,35 +197,43 @@ Hat der Täter die Widerhandlung, die eine Leistungs- oder Rückleistungspflicht
 
 wer durch Täuschung bewirkt, dass die Verwaltung oder eine andere Behörde oder eine Person öffentlichen Glaubens eine für die Durchführung der Verwaltungsgesetzgebung des Bundes erhebliche Tatsache unrichtig beurkundet, und wer eine so erschlichene Urkunde zur Täuschung der Verwaltung oder einer anderen Behörde gebraucht,
 
-wird mit Gefängnis oder Busse bis zu 30 000 Franken bestraft.
+wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^15-1]
 
 <sup>2.</sup> Ziffer 1 gilt auch für Urkunden des Auslandes.
+
+[^15-1]: Fassung gemäss Ziff. I 13 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### III. Unterdrückung von Urkunden
 
 #### Art. 16
 
-<sup>1</sup> Wer in der Absicht, sich oder einem andern einen nach der Verwaltungsgesetzgebung des Bundes unrechtmässigen Vorteil zu verschaffen oder das Gemeinwesen am Vermögen oder an andern Rechten zu schädigen, Urkunden, die er nach dieser Gesetzgebung aufzubewahren verpflichtet ist, beschädigt, vernichtet oder beiseite schafft, wird mit Gefängnis oder Busse bis zu 30 000 Franken bestraft.
+<sup>1</sup> Wer in der Absicht, sich oder einem andern einen nach der Verwaltungsgesetzgebung des Bundes unrechtmässigen Vorteil zu verschaffen oder das Gemeinwesen am Vermögen oder an andern Rechten zu schädigen, Urkunden, die er nach dieser Gesetzgebung aufzubewahren verpflichtet ist, beschädigt, vernichtet oder beiseiteschafft, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^16-1]
 
 <sup>2</sup> Offenbart der Täter die beiseite geschafften Urkunden aus eigenem Antrieb und bevor die Verwaltung die Untersuchung abgeschlossen hat, so kann von einer Bestrafung Umgang genommen werden.
 
 <sup>3</sup> Die Absätze 1 und 2 gelten auch für Urkunden des Auslandes.
 
+[^16-1]: Fassung gemäss Ziff. I 13 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
 ### IV. Begünstigung
 
 #### Art. 17
 
-1.[^17-1] Wer in einem Verwaltungsstrafverfahren jemanden der Strafverfolgung oder dem Strafvollzug, soweit dieser der beteiligten Verwaltung obliegt, entzieht,
+[^17-1]
+
+<sup>1.</sup> Wer in einem Verwaltungsstrafverfahren jemanden der Strafverfolgung oder dem Strafvollzug, soweit dieser der beteiligten Verwaltung obliegt, entzieht,
 
 wer dazu beiträgt, einem Täter oder Teilnehmer die Vorteile einer Widerhandlung gegen die Verwaltungsgesetzgebung des Bundes zu sichern,
 
-wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft. Die auf den Täter anwendbare Strafdrohung darf dabei nicht überschritten werden.
+wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-<sup>2.</sup> Wer dazu beiträgt, den Vollzug einer verwaltungsstrafrechtlichen Massnahme widerrechtlich zu verunmöglichen, wird mit Gefängnis bis zu einem Jahr oder Busse bis zu 30 000 Franken bestraft.
+<sup>2.</sup> Ist die Vortat eine Übertretung, so wird der Täter mit Busse bestraft.
 
-<sup>3.</sup> Steht der Begünstiger in so nahen Beziehungen zum Begünstigten, dass sein Verhalten entschuldbar ist, so kann von einer Bestrafung Umgang genommen werden.
+<sup>3.</sup> Wer dazu beiträgt, den Vollzug einer verwaltungsstrafrechtlichen Massnahme widerrechtlich zu verunmöglichen, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.
 
-[^17-1]: Fassung gemäss Ziff. I 2 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
+<sup>4.</sup> Begünstigt der Täter seine Angehörigen oder jemand anderen, zu dem er in so nahen persönlichen Beziehungen steht, dass sein Verhalten entschuldbar ist, so bleibt er straflos.
+
+[^17-1]: Fassung gemäss Ziff. I 13 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### B. Gleichstellung der mit öffentlich-rechtlichen Aufgaben betrauten Organisationen
 

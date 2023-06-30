@@ -4,11 +4,11 @@ title: Legge federale del 22 marzo 1974 sul diritto penale amministrativo (DPA)
 short: DPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857"
 language: it
-version: 2020-01-01
+version: 2023-07-01
 adopted: 1974-03-22
 in_force: 1975-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1974-1857_1857_1857-20200101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1974-1857_1857_1857-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20200101/it"
 
 (DPA)
 
-del 22 marzo 1974 (Stato 1° gennaio 2020)
+del 22 marzo 1974 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 64<sup>bis</sup>, 106 e 114 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 21 aprile 1971[^ingress-3],
+visto l’articolo 123 capoverso 1 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 21 aprile 1971[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [CS **1** 3]. A queste disp. corrispondono ora gli art. 123, 188 e 190 (entrato in vigore che sia il relativo DF dell’8 ott. 1999 sulla riforma giudiziaria; [FF 1999 7454](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454); art. 123, 188 e 189) della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 22 dic. 1999, in vigore dal 1° ott. 2000 ([RU 2000 2141](https://fedlex.data.admin.ch/eli/oc/2000/326); FF **1998** 1095).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo giusta il n. I 13 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)
 
 ## Titolo primo: Campo d’applicazione della legge
@@ -127,13 +127,22 @@ L’articolo 68 del Codice penale[^9-1] sul concorso di reati o di disposizioni 
 
 #### Art. 11
 
-<sup>1</sup> L’azione penale per le contravvenzioni si prescrive in due anni.
+<sup>1</sup> L’azione penale per le contravvenzioni si prescrive in quattro anni.[^11-1]
 
-<sup>2</sup> Tuttavia, se la contravvenzione consiste nella sottrazione o nella messa in pericolo di tasse o nell’ottenimento indebito di una restituzione, di una riduzione o di un condono di tasse, il termine di prescrizione è di cinque anni; in caso d’interruzione della prescrizione, il termine non può essere prolungato di più della metà.
+<sup>2</sup> Tuttavia, se la contravvenzione consiste nella sottrazione o nella messa in pericolo di tasse o nell’ottenimento indebito di una restituzione, di una riduzione o di un condono di tasse, il termine di prescrizione è di sette anni.[^11-2]
 
-<sup>3</sup> Per i delitti e le contravvenzioni, la prescrizione è sospesa durante i procedimenti d’opposizione, di reclamo o giudiziari circa l’obbligo di pagamento o restituzione o circa altre questioni pregiudiziali da decidere secondo la singola legge amministrativa ovvero finché l’imputato sconti all’estero una pena privativa della libertà.
+<sup>3</sup>
+
+Per i crimini, i delitti e le contravvenzioni, la prescrizione è sospesa:
+
+- a. durante i procedimenti d’opposizione, di reclamo o giudiziari circa l’obbligo di pagamento o restituzione o circa altre questioni pregiudiziali da decidere secondo la singola legge amministrativa; o
+- b. finché l’imputato sconti all’estero una pena privativa della libertà.[^11-3]
 
 <sup>4</sup> La pena per le contravvenzioni si prescrive in cinque anni.
+
+[^11-1]: Nuovo testo giusta il n. I 13 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^11-2]: Nuovo testo giusta il n. I 13 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^11-3]: Nuovo testo giusta il n. I 13 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### D. Sottrazione; conseguimento fraudolento di contributi e casi simili
 
@@ -164,24 +173,21 @@ Chiunque ha denunziato spontaneamente una propria infrazione generante un obblig
 
 ### A. Reati
 
-[^tit2-chap2-lvlA-1]
-
-[^tit2-chap2-lvlA-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2 – 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
-
 ### I. Truffa in materia di prestazioni e di tasse
 
 #### Art. 14
 
-<sup>1</sup> Chiunque inganna con astuzia l’amministrazione, un’altra autorità o un terzo affermando cose false o dissimulando cose vere oppure ne conferma subdolamente l’errore e in tal modo consegue indebitamente dall’ente pubblico, per sé o per un terzo, una concessione, un’autorizzazione, un contingente, un contributo, una restituzione di tasse o altre prestazioni, ovvero fa sì che una concessione, un’autorizzazione o un contingente non sia revocato, è punito con la detenzione o con la multa.[^14-1]
+[^14-1]
 
-<sup>2</sup> Se l’autore, con il suo subdolo comportamento, fa sì che l’ente pubblico si trovi defraudato, in somma rilevante, di una tassa, un contributo o un’altra prestazione o venga a essere altrimenti pregiudicato nei suoi interessi patrimoniali, la pena è della detenzione fino a un anno o della multa fino a 30000 franchi.
+<sup>1</sup> Chiunque inganna con astuzia l’amministrazione, un’altra autorità o un terzo affermando cose false o dissimulando cose vere oppure ne conferma subdolamente l’errore e in tal modo consegue indebitamente dall’ente pubblico, per sé o per un terzo, una concessione, un’autorizzazione, un contingente, un contributo, una restituzione di tasse o altre prestazioni, ovvero fa sì che una concessione, un’autorizzazione o un contingente non siano revocati, è punito con una pena detentiva fino a tre anni o con una pena pecuniaria.
 
-<sup>3</sup> Se per la corrispondente infrazione non subdolamente commessa la singola legge amministrativa prevede un massimo della multa più elevato, quest’ultimo vale anche nei casi previsti nei capoversi 1 e 2.
+<sup>2</sup> Se l’autore, con il suo subdolo comportamento, fa sì che l’ente pub-blico si trovi defraudato, in somma rilevante, di una tassa, un contributo o un’altra prestazione o venga a essere altrimenti pregiudicato nei suoi interessi patrimoniali, la pena è una pena detentiva fino a tre anni o una pena pecuniaria.
 
-<sup>4</sup> Chiunque, per mestiere o in collaborazione con terzi, commette infrazioni di cui ai capoversi 1 o 2 in materia fiscale o doganale e in tal modo procaccia a sé o ad altri un indebito profitto di entità particolarmente considerevole oppure pregiudica in modo particolarmente considerevole gli interessi patrimoniali o altri diritti dell’ente pubblico, è punito con una pena detentiva fino a cinque anni o con una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.[^14-2]
+<sup>3</sup> Chiunque, per mestiere o in collaborazione con terzi, commette in-frazioni di cui ai capoversi 1 o 2 in materia fiscale o doganale e in tal modo procaccia a sé o ad altri un indebito profitto di entità particolarmente considerevole oppure pregiudica in modo particolarmente con-siderevole gli interessi patrimoniali o altri diritti dell’ente pubblico, è punito con una pena detentiva fino a cinque anni o con una pena pecu-niaria.
 
-[^14-1]: Nuovo testo giusta il n. III della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^14-2]: Introdotto dal n. I 2 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)). Nuovo testo giusta il n. I 5 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+<sup>4</sup> Se per un’infrazione corrispondente al capoverso 1, 2 o 3 non subdolamente commessa una legge amministrativa prevede una multa, nei casi previsti nei capoversi 1–3 va inflitta anche una multa. L’importo della multa è calcolato secondo la corrispondente legge amministrativa.
+
+[^14-1]: Nuovo testo giusta il n. I 13 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### II. Falsità in documenti; conseguimento fraudolento di una falsa attestazione
 
@@ -189,35 +195,45 @@ Chiunque ha denunziato spontaneamente una propria infrazione generante un obblig
 
 <sup>1.</sup> Chiunque, al fine di procacciare a sé o a altri un indebito profitto a tenore della legislazione amministrativa della Confederazione oppure di nuocere al patrimonio o a altri diritti dell’ente pubblico, forma un documento falso o altera un documento vero, abusa dell’altrui firma autentica o dell’altrui segno a mano autentico per formare un documento suppositizio, oppure fa uso, a scopo di inganno, di un documento di tale natura,
 
-chiunque, usando inganno, induce l’amministrazione o un’altra autorità o un pubblico ufficiale a attestare in un documento pubblico, contrariamente alla verità, un fatto importante per l’attuazione della legislazione amministrativa della Confederazione e chiunque fa uso di un documento ottenuto in tal modo per ingannare l’amministrazione o un’altra autorità, è punito con la detenzione o con la multa fino a 30000 franchi.
+chiunque, usando inganno, induce l’amministrazione o un’altra autorità o un pubblico ufficiale a attestare in un documento pubblico, contrariamente alla verità, un fatto importante per l’attuazione della legislazione amministrativa della Confederazione e chiunque fa uso di un documento ottenuto in tal modo per ingannare l’amministrazione o un’altra autorità,
+
+è punito con una pena detentiva fino a tre anni o con una pena pecuniaria.[^15-1]
 
 <sup>2.</sup> Il numero 1 si applica parimente ai documenti esteri.
+
+[^15-1]: Nuovo testo giusta il n. I 13 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### III. Soppressione di documenti
 
 #### Art. 16
 
-<sup>1</sup> Chiunque, al fine di procacciare a sé o a altri un indebito profitto a tenore della legislazione amministrativa della Confederazione oppure di nuocere al patrimonio o a altri diritti dell’ente pubblico, deteriora, distrugge o distrae documenti che doveva conservare in virtù della legislazione suddetta, è punito con la detenzione o con la multa fino a 30000 franchi.
+<sup>1</sup> Chiunque, al fine di procacciare a sé o a altri un indebito profitto a tenore della legislazione amministrativa della Confederazione oppure di nuocere al patrimonio o a altri diritti dell’ente pubblico, deteriora, distrugge o distrae documenti che doveva conservare in virtù della le-gislazione suddetta, è punito con una pena detentiva fino a tre anni o con una pena pecuniaria.[^16-1]
 
 <sup>2</sup> Si può prescindere da ogni pena qualora l’autore, prima della chiusura dell’inchiesta amministrativa, produca spontaneamente il documento distratto.
 
 <sup>3</sup> I capoversi 1 e 2 si applicano parimente ai documenti esteri.
 
+[^16-1]: Nuovo testo giusta il n. I 13 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
 ### IV. Favoreggiamento
 
 #### Art. 17
 
-1.[^17-1] Chiunque, nel corso di un procedimento penale amministrativo, sottrae una persona ad atti di procedimento penale o all’esecuzione di una pena, incombente all’amministrazione in causa,
+[^17-1]
 
-chiunque contribuisce ad assicurare all’autore o a un compartecipe i profitti derivanti da un’infrazione alla legislazione amministrativa della Confederazione,
+<sup>1.</sup> Chiunque, nel corso di un procedimento penale amministrativo, sottrae una persona ad atti di procedimento penale o all’esecuzione di una pena, incombente all’amministrazione in causa,
 
-è punito con una pena detentiva fino a tre anni o con una pena pecuniaria. La pena massima applicabile all’autore non può essere superata.
+chiunque contribuisce ad assicurare all’autore o a un compartecipe i profitti derivanti da un’infrazione alla legislazione amministrativa del-la Confederazione,
 
-<sup>2.</sup> Chiunque contribuisce illecitamente a impedire l’esecuzione di un provvedimento di diritto penale amministrativo è punito con la detenzione fino a un anno o con la multa fino a 30000 franchi.
+è punito con una pena detentiva fino a tre anni o con una pena pecuniaria.
 
-<sup>3.</sup> Si può prescindere da ogni pena qualora fra il favoreggiatore e la persona favoreggiata esistano relazioni così strette da rendere scusabile la sua condotta.
+<sup>2.</sup> Se il reato preliminare è una contravvenzione, l’autore è punito con la multa.
 
-[^17-1]: Nuovo testo giusta il n. I 2 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
+<sup>3.</sup> Chiunque contribuisce illecitamente a impedire l’esecuzione di un provvedimento di diritto penale amministrativo è punito con una pena detentiva fino a un anno o con una pena pecuniaria.
+
+<sup>4.</sup> Se l’autore favorisce un congiunto o un’altra persona con cui esi-stono relazioni personali così strette da rendere scusabile la sua condotta, il giudice prescinde da ogni pena.
+
+[^17-1]: Nuovo testo giusta il n. I 13 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### B. Organismi con compiti di diritto pubblico
 

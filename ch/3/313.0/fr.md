@@ -4,11 +4,11 @@ title: Loi fédérale du 22 mars 1974 sur le droit pénal administratif (DPA)
 short: DPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857"
 language: fr
-version: 2020-01-01
+version: 2023-07-01
 adopted: 1974-03-22
 in_force: 1975-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1974-1857_1857_1857-20200101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1974-1857_1857_1857-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1974/1857_1857_1857/20200101/fr"
 
 (DPA)
 
-du 22 mars 1974 (Etat le 1<sup>er</sup> janvier 2020)
+du 22 mars 1974 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 64<sup>bis</sup>, 106 et 114 de la constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 21 avril 1971[^ingress-3],
+vu l’art. 123, al. 1, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 21 avril 1971[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [RS **1** 3]. Aux disp. mentionnées correspondent actuellement les art. 123, 188 et 190, (après l’entrée en vigueur de l’AF du 8 oct. 1999 sur la réforme de la justice; [FF 1999 7831](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454): les art. 123, 188 et 189), de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 22 déc. 1999, en vigueur depuis le 1<sup>er</sup> oct. 2000 ([RO 2000 2141](https://fedlex.data.admin.ch/eli/oc/2000/326); FF **1998** 1253).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nouvelle teneur selon le ch. I 13 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)
 
 ## Titre premier: Champ d’application de la loi
@@ -127,13 +127,22 @@ Les dispositions de l’art. 68 du code pénal suisse[^9-1] sur le concours d’
 
 #### Art. 11
 
-<sup>1</sup> En matière de contraventions, l’action pénale se prescrit par deux ans.
+<sup>1</sup> En matière de contraventions, l’action pénale se prescrit par quatre ans.[^11-1]
 
-<sup>2</sup> Si cependant la contravention consiste en une soustraction ou une mise en péril de contributions ou en l’obtention illicite d’un remboursement, d’une réduction ou d’une remise de contributions, le délai de prescription est de cinq ans; si la prescription est interrompue, elle sera en tout cas acquise lorsque le délai sera dépassé de moitié.
+<sup>2</sup> Si cependant la contravention consiste en une soustraction ou une mise en péril de contributions ou en l’obtention illicite d’un remboursement, d’une réduction ou d’une remise de contributions, le délai de prescription est de sept ans.[^11-2]
 
-<sup>3</sup> En matière de délits et de contraventions, la prescription est suspendue pendant la durée d’une procédure de réclamation, de recours ou d’une procédure judiciaire concernant l’assujettissement à la prestation ou à la restitution ou sur une autre question préjudicielle à trancher selon la loi administrative spéciale ou tant que l’auteur subit à l’étranger une peine privative de liberté.
+<sup>3</sup>
+
+En matière de crimes, de délits et de contraventions, la prescription est suspendue:
+
+- a. pendant la durée d’une procédure de réclamation, de recours ou d’une procédure judiciaire concernant l’assujettissement à la prestation ou à la restitution ou sur une autre question préjudicielle à trancher selon la loi administrative spéciale, ou
+- b. tant que l’auteur subit à l’étranger une peine privative de liberté.[^11-3]
 
 <sup>4</sup> Les peines se prescrivent par cinq ans pour les contraventions.
+
+[^11-1]: Nouvelle teneur selon le ch. I 13 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^11-2]: Nouvelle teneur selon le ch. I 13 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^11-3]: Nouvelle teneur selon le ch. I 13 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### D. Soustraction d’une contribution, obtention frauduleuse d’un subside, etc.
 
@@ -170,60 +179,68 @@ n’encourra aucune peine.
 
 ### A. Infractions
 
-[^tit2-chap2-lvlA-1]
-
-[^tit2-chap2-lvlA-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-
 ### I. Escroquerie en matière de prestations et de contributions
 
 #### Art. 14
 
-<sup>1</sup> Celui qui aura astucieusement induit en erreur l’administration, une autre autorité ou un tiers par des affirmations fallacieuses ou par la dissimulation de faits vrais ou les aura astucieusement confortés dans leur erreur, et aura de la sorte, pour lui-même ou pour un tiers, obtenu sans droit une concession, une autorisation, un contingent, un subside, le remboursement de contributions ou une autre prestation des pouvoirs publics ou aura évité le retrait d’une concession, d’une autorisation ou d’un contingent, sera puni de l’emprisonnement ou de l’amende.[^14-1]
+[^14-1]
 
-<sup>2</sup> Lorsque l’attitude astucieuse de l’auteur aura eu pour effet de soustraire aux pouvoirs publics un montant important représentant une contribution, un subside ou une autre prestation, ou de porter atteinte d’une autre manière à leurs intérêts pécuniaires, la peine sera l’emprisonnement pour un an au plus ou l’amende jusqu’à concurrence de 30 000 francs.
+<sup>1</sup> Quiconque induit astucieusement en erreur l’administration, une autre autorité ou un tiers par des affirmations fallacieuses ou par la dissimulation de faits vrais ou les conforte astucieusement dans leur erreur, et obtient sans droit de la sorte, pour lui-même ou pour un tiers, une concession, une autorisation, un contingent, un subside, le remboursement de contributions ou une autre prestation des pouvoirs publics ou évite le retrait d’une concession, d’une autorisation ou d’un contingent, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>3</sup> Si une loi administrative spéciale prévoit pour les infractions analogues, mais dépourvues de caractère astucieux, un maximum de l’amende plus élevé, celui-ci est également applicable dans les cas prévus aux al. 1 et 2.
+<sup>2</sup> Lorsque l’attitude astucieuse de l’auteur a pour effet de soustraire aux pouvoirs publics un montant important représentant une contribution, un subside ou une autre prestation, ou de porter atteinte d’une autre manière à leurs intérêts pécuniaires, l’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>4</sup> Celui qui, par métier ou avec le concours de tiers, se sera procuré ou aura procuré à un tiers un avantage illicite particulièrement important ou aura porté atteinte de façon particulièrement importante aux intérêts pécuniaires ou à d’autres droits des pouvoirs publics en commettant une infraction au sens des al. 1 ou 2 dans les domaines des contributions ou des douanes, sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.[^14-2]
+<sup>3</sup> Quiconque, par métier ou avec le concours de tiers, se procure ou procure à un tiers un avantage illicite particulièrement important ou porte atteinte de façon particulièrement importante aux intérêts pécuniaires ou à d’autres droits des pouvoirs publics en commettant une infraction au sens des al. 1 ou 2 dans les domaines des contributions ou des douanes, est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-[^14-1]: Nouvelle teneur selon le ch. III de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797))
-[^14-2]: Introduit par le ch. I 2 de la LF du 3 oct. 2008 sur la mise en oeuvre des recommandations révisées du Groupe d’action financière ([RO 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5919](https://fedlex.data.admin.ch/eli/fga/2007/938)). Nouvelle teneur selon le ch. I 5 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+<sup>4</sup> Si une loi administrative spéciale prévoit une amende pour une infraction correspondant aux al. 1, 2, ou 3, mais dépourvue de caractère astucieux, une amende est infligée en sus dans les cas visés aux al. 1 à 3. Elle est fixée conformément à la loi administrative correspondante.
+
+[^14-1]: Nouvelle teneur selon le ch. I 13 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### II. Faux dans les titres; obtention frauduleuse d’une constatation fausse
 
 #### Art. 15
 
-<sup>1.</sup> Celui qui, dans le dessein de se procurer ou de procurer à un tiers un avantage illicite selon la législation administrative fédérale ou de porter atteinte aux intérêts pécuniaires ou à d’autres droits des pouvoirs publics, aura créé un titre faux, falsifié un titre, abusé de la signature ou de la marque à la main réelles d’autrui pour fabriquer un titre supposé, ou aura, pour tromper autrui, fait usage d’un tel titre, celui qui, en induisant en erreur l’administration ou une autre autorité, ou un officier public, l’aura amené à constater faussement dans un titre authentique un fait important pour l’exécution de la législation administrative fédérale ou qui aura fait usage d’un titre ainsi obtenu pour tromper l’administration ou une autre autorité,
+<sup>1.</sup> Quiconque, dans le dessein de se procurer ou de procurer à un tiers un avantage illicite selon la législation administrative fédérale ou de porter atteinte aux intérêts pécuniaires ou à d’autres droits des pouvoirs publics, crée un titre faux, falsifie un titre, abuse de la signature ou de la marque à la main réelles d’autrui pour fabriquer un titre supposé, ou, pour tromper autrui, fait usage d’un tel titre,
 
-sera puni de l’emprisonnement ou d’une amende de 30000 francs au plus.
+quiconque, en induisant en erreur l’administration ou une autre autorité, ou un officier public, l’amène à constater faussement dans un titre authentique un fait important pour l’exécution de la législation administrative fédérale ou fait usage d’un titre ainsi obtenu pour tromper l’administration ou une autre autorité,
+
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^15-1]
 
 <sup>2.</sup> Le ch. 1 est aussi applicable aux titres étrangers.
+
+[^15-1]: Nouvelle teneur selon le ch. I 13 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### III. Suppression de titres
 
 #### Art. 16
 
-<sup>1</sup> Celui qui, dans le dessein de se procurer ou de procurer à un tiers un avantage illicite selon la législation administrative fédérale ou de porter atteinte aux intérêts pécuniaires ou à d’autres droits des pouvoirs publics, aura endommagé, détruit ou fait disparaître des titres qu’il avait l’obligation de conserver d’après cette législation, sera puni de l’emprisonnement ou d’une amende de 30 000 francs au plus.
+<sup>1</sup> Quiconque, dans le dessein de se procurer ou de procurer à un tiers un avantage illicite selon la législation administrative fédérale ou de porter atteinte aux intérêts pécuniaires ou à d’autres droits des pouvoirs publics, endommage, détruit ou fait disparaître des titres qu’il a l’obligation de conserver d’après cette législation, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.[^16-1]
 
-<sup>2</sup> Lorsque, de sa propre initiative et avant que l’administration n’ait clos son enquête, l’auteur produira les titres qu’il avait fait disparaître, il pourra être exempté de toute peine.
+<sup>2</sup> Lorsque, de sa propre initiative et avant que l’administration n’ait clos son enquête, l’auteur produit les titres qu’il a fait disparaître, il peut être exempté de toute peine.[^16-2]
 
 <sup>3</sup> Les al. 1 et 2 sont aussi applicables aux titres étrangers.
+
+[^16-1]: Nouvelle teneur selon le ch. I 13 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^16-2]: Nouvelle teneur selon le ch. I 13 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### IV. Entrave à l’action pénale
 
 #### Art. 17
 
-<sup>1.</sup> Celui qui, dans une procédure pénale administrative, aura soustrait une personne à la poursuite pénale ou à l’exécution d’une peine qui incombe à l’administration intéressée,
+[^17-1]
 
-celui qui aura contribué à assurer à l’auteur ou à un participant les avantages d’une infraction à la législation administrative fédérale,
+<sup>1.</sup> Quiconque, dans une procédure pénale administrative, soustrait une personne à la poursuite pénale ou à l’exécution d’une peine qui incombe à l’administration intéressée,
 
-sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire. La peine maximale applicable à l’auteur ne doit pas être dépassée.[^17-1]
+quiconque contribue à assurer à l’auteur ou à un participant les avantages d’une infraction à la législation administrative fédérale,
 
-<sup>2.</sup> Celui qui aura illicitement contribué à empêcher l’exécution d’une mesure de droit pénal administratif sera puni de l’emprisonnement pour un an au plus ou de l’amende jusqu’à concurrence de 30 000 francs.
+est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>3.</sup> Celui qui aura entravé l’action pénale pourra être exempté de toute peine si ses relations avec la personne qu’il a favorisée sont assez étroites pour que sa conduite soit excusable.
+<sup>2.</sup> Si l’infraction préalable est une contravention, l’auteur est puni d’une amende.
 
-[^17-1]: Nouvelle teneur selon le ch. I 2 de la LF du 3 oct. 2008 sur la mise en oeuvre des recommandations révisées du Groupe d’action financière, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5919](https://fedlex.data.admin.ch/eli/fga/2007/938)).
+<sup>3.</sup> Quiconque contribue illicitement à empêcher l’exécution d’une mesure de droit pénal administratif est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.
+
+<sup>4.</sup> L’auteur n’est pas punissable s’il favorise l’un de ses proches ou une autre personne avec laquelle il entretient des relations assez étroites pour rendre sa conduite excusable.
+
+[^17-1]: Nouvelle teneur selon le ch. I 13 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### B. Organisations chargées de tâches de droit public
 
@@ -847,7 +864,7 @@ Si les exigences de l’enquête le permettent, le détenu a le droit d’averti
 
 <sup>4</sup> Aucun recours n’est recevable contre la notification du procès-verbal final et son contenu. Le rejet d’une requête en complément d’enquête ne peut être attaqué que conjointement à l’opposition au mandat de répression.
 
-<sup>5</sup> ...[^61-1]
+<sup>5</sup> …[^61-1]
 
 [^61-1]: Abrogé par l’annexe ch. 2 de la LF du 15 juin 2018 sur les services financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -893,7 +910,7 @@ Le mandat de répression est décerné par écrit; il indique:
 
 <sup>2</sup> Si le mandat de répression s’écarte de manière essentielle du procès-verbal final au détriment de l’inculpé, les divergences doivent être mentionnées et brièvement motivées.
 
-<sup>3</sup> ...[^64-1]
+<sup>3</sup> …[^64-1]
 
 [^64-1]: Abrogé par l’annexe ch. 2 de la LF du 15 juin 2018 sur les services financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
@@ -1386,6 +1403,6 @@ Annexe
 
 ## Modification d’actes législatifs
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857).
