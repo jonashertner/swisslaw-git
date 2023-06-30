@@ -4,13 +4,13 @@ number: "143.11"
 title: Personalverordnung
 short: PersV
 language: de
-version: 2023-01-01
-valid_until: 2023-06-30
-version_adopted: 2022-05-24
+version: 2023-07-01
+valid_until: 2023-12-31
+version_adopted: 2023-05-30
 adopted: 2011-12-13
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3386/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3506/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3386/pdf_file"
 
 (PersV)
 
-vom 13.12.2011 (Stand 01.01.2023)
+vom 13.12.2011 (Stand 01.07.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -328,7 +328,8 @@ als Verordnung:[^ingress-2]
 <sup>2</sup> Sie beträgt für:
 
 - a) die Werkmeisterinnen und Werkmeister Landwirtschaft im Straf- und Massnahmenvollzug 46 Stunden;
-- b) das Landwirtschaftspersonal 48 Stunden;
+- a<sup>bis</sup>) die Betriebsleiterinnen und Betriebsleiter Spezialkulturen im Landwirtschaftlichen Zentrum St.Gallen 46 Stunden;
+- b) das übrige Landwirtschaftspersonal 48 Stunden;
 - c) Assistenzärztinnen und Assistenzärzte 48 Stunden;
 - d) Oberärztinnen und Oberärzte:
   - 1\. in den Spitalverbunden und im Zentrum für Labormedizin 48 Stunden;
@@ -372,7 +373,7 @@ als Verordnung:[^ingress-2]
 
 **Teilzeitbeschäftigte Mitarbeiterinnen und Mitarbeiter**
 
-<sup>1</sup> Teilzeitbeschäftigte Mitarbeiterinnen und Mitarbeiter können die Varianten 4, 7 oder 9 nach Art. 29 Abs. 1 dieses Erlasses im Verhältnis zum vereinbarten Beschäftigungsgrad wählen.
+<sup>1</sup> Teilzeitbeschäftigte Mitarbeiterinnen und Mitarbeiter können mit Zustimmung der oder des Vorgesetzten die Varianten nach Art. 29 Abs. 1 dieses Erlasses im Verhältnis zum vereinbarten Beschäftigungsgrad wählen.
 
 #### Art. 31
 
@@ -771,6 +772,14 @@ als Verordnung:[^ingress-2]
 
 [^66b-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de).
 
+#### Art. 66c
+
+**Adoptionsurlaub**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter können bei Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption einen Adoptionsurlaub von zwei Wochen innerhalb eines Jahres nach Aufnahme des Kindes beziehen, sofern sie Anspruch auf eine Adoptionsentschädigung nach Art. 16t bis 16x des Bundesgesetzes über den Erwerbsersatz vom 25. September 1952[^66c-1] haben. Die Leistungen der Erwerbsersatzordnung gehen im Ausmass der Lohnfortzahlung an den Kanton über.
+
+[^66c-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de).
+
 #### Art. 67
 
 **…**
@@ -1131,7 +1140,7 @@ als Verordnung:[^ingress-2]
 
 **Ausrichtung bei Abwesenheit a) Grundsatz[^94-1]**
 
-<sup>1</sup> Die Ausrichtung der Inkonvenienzentschädigungen an Mitarbeiterinnen und Mitarbeiter nach Art. 89 Abs. 1 und Art. 90 dieses Erlasses dauert fort:
+<sup>1</sup> Die Ausrichtung der Inkonvenienzentschädigungen dauert fort:
 
 - a) während der Ferien;
 - b) bei Krankheit und Unfall;
@@ -1143,6 +1152,8 @@ als Verordnung:[^ingress-2]
 
 - 1\. beim Bezug von Kompensationstagen im Rahmen eines Bandbreitenmodells;
 - 2\. bei der finanziellen Abgeltung von nicht bezogenen Ferien am Ende des Arbeitsverhältnisses.
+
+<sup>3</sup> Für Mitarbeiterinnen und Mitarbeiter nach Art. 87, 88 und 89 Abs. 2 dieses Erlasses erfolgt keine Fortdauer der Ausrichtung nach Abs. 1 dieser Bestimmung.
 
 [^94-1]: In Vollzug ab 1. Januar 2013.
 
@@ -1180,6 +1191,8 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Der 13. Monatslohn wird je zur Hälfte im Juni und Dezember ausbezahlt.
 
 <sup>2</sup> Der Mitarbeiter kann innerhalb eines Jahres nach der Geburt eines eigenen Kindes den 13. Monatslohn ganz oder zur Hälfte als bezahlten Urlaub beziehen. Gleiches gilt für eine Mitarbeiterin, bei deren Ehefrau oder eingetragener Partnerin ein Kindesverhältnis mit Geburt begründet wird.
+
+<sup>2<sup>bis</sup></sup> Mitarbeiterinnen und Mitarbeiter können innerhalb eines Jahres nach Aufnahme eines Kindes zur Adoption den 13. Monatslohn ganz oder zur Hälfte als bezahlten Urlaub beziehen.
 
 <sup>3</sup> Wählt eine Mitarbeiterin oder ein Mitarbeiter die monatliche Auszahlung eines Vierzehntels des Jahreslohns:
 
@@ -1388,17 +1401,18 @@ als Verordnung:[^ingress-2]
 
 **Voraussetzungen**
 
-<sup>1</sup> Die Regierung kann eine Abgangsentschädigung ausrichten, wenn:
+<sup>1</sup> Die Regierung kann ausnahmsweise eine Abgangsentschädigung ausrichten, wenn:
 
-- a) das Arbeitsverhältnis durch Kündigung seitens der Arbeitgeberin oder des Arbeitgebers oder in gegenseitigem Einvernehmen aufgelöst wird;
-- b) höchstens ein geringes Verschulden der Mitarbeiterin oder des Mitarbeiters vorliegt;
-- c) die Beendigung des Arbeitsverhältnisses eine Kürzung der Rente aus der beruflichen Vorsorge zur Folge hat;
-- d) keine Leistungen nach Massgabe eines nach Art. 55 des Personalgesetzes[^116-1] erlassenen Sozialplans ausgerichtet werden.
-- e) die Lohnfortzahlung infolge Krankheit nach Art. 47 des Personalgesetzes[^116-2] oder infolge Unfall nach Art. 48 des Personalgesetzes[^116-3] nicht ausgeschöpft wurde.
+- a) das Arbeitsverhältnis durch Kündigung seitens der Arbeitgeberin oder des Arbeitgebers oder in gegenseitigem Einvernehmen aufgelöst wird, weil eine konstruktive Zusammenarbeit nicht mehr möglich ist;
+- b) höchstens ein geringes Verschulden der Mitarbeiterin oder des Mitarbeiters vorliegt und es an einem ausreichenden sachlichen Kündigungsgrund nach Art. 21 des Personalgesetzes[^116-1] fehlt;
+- c) …
+- d) keine Leistungen nach Massgabe eines nach Art. 55 des Personalgesetzes[^116-2] erlassenen Sozialplans ausgerichtet werden;
+- e) die Lohnfortzahlung infolge Krankheit nach Art. 47 des Personalgesetzes[^116-3] oder infolge Unfall nach Art. 48 des Personalgesetzes[^116-4] nicht ausgeschöpft wurde.
 
 [^116-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 [^116-2]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 [^116-3]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^116-4]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 #### Art. 117
 
@@ -1409,7 +1423,7 @@ als Verordnung:[^ingress-2]
 - a) den persönlichen Verhältnissen der Mitarbeiterin oder des Mitarbeiters;
 - b) den Chancen der Mitarbeiterin oder des Mitarbeiters auf dem Arbeitsmarkt;
 - c) der Dauer des Arbeitsverhältnisses;
-- d) dem Kündigungsgrund;
+- d) den Umständen der Beendigung des Arbeitsverhältnisses;
 - e) der Dauer einer Freistellung von der Arbeitsleistung;
 - f) der Altersvorsorge der Mitarbeiterin oder des Mitarbeiters.
 
@@ -1553,7 +1567,7 @@ als Verordnung:[^ingress-2]
 - b) von 5001 bis 10 000 Kilometer im Kalenderjahr: Rp. 60
 - c) über 10 000 Kilometer im Kalenderjahr: Rp. 55
 
-<sup>2</sup> Die Arbeitgeberin oder der Arbeitgeber kann Mitarbeiterinnen und Mitarbeitern im Einvernehmen mit dem Personalamt einen Zuschlag von fünf Rappen je Kilometer ausrichten, wenn der Personenwagen vorwiegend unter besonders schwierigen Verhältnissen eingesetzt wird.
+<sup>2</sup> Die Arbeitgeberin oder der Arbeitgeber kann Mitarbeiterinnen und Mitarbeitern im Einvernehmen mit dem Personalamt einen Zuschlag von 15 Rappen je Kilometer ausrichten, wenn der Personenwagen vorwiegend unter besonders schwierigen Verhältnissen eingesetzt wird.
 
 #### Art. 128
 
