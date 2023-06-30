@@ -4,11 +4,11 @@ title: "Ordinanza del 21 gennaio 1991 sulle riserve d'importanza internazionale 
 short: ORUAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/298_298_298"
 language: it
-version: 2015-07-15
+version: 2023-07-01
 adopted: 1991-01-21
 in_force: 1991-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/298_298_298/20150715/it/xml/fedlex-data-admin-ch-eli-cc-1991-298_298_298-20150715-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20150715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/298_298_298/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1991-298_298_298-20230701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20150715/it"
 
 (ORUAM)
 
-del 21 gennaio 1991 (Stato 15 luglio 2015) (Stato 15 luglio 2015)
+del 21 gennaio 1991 (Stato 1° luglio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -104,15 +104,15 @@ Nelle riserve d’uccelli acquatici e migratori valgono le seguenti disposizioni
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-2]: Introdotta dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^5-3]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)
+[^5-3]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-4]: Nuovo testo giusta il n. I dell’O del 13 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
-[^5-5]: Nuova esp. giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408). Di detta mod. é tenuto conto in tutto il presente testo
-[^5-6]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)
+[^5-5]: Nuova esp. giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)). Di detta mod. é tenuto conto in tutto il presente testo
+[^5-6]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-7]: [RS 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
-[^5-8]: Introdotta dal n. 7 dell’all. all’O del 14 mag. 204 sugli atterraggi esterni ([RU 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)). Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)
-[^5-9]: Introdotta dal n. I dell’O del 13 mag. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)). Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)
+[^5-8]: Introdotta dall’all. n. 7 dell’O del 14 mag. 204 sugli atterraggi esterni ([RU 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)). Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^5-9]: Introdotta dal n. I dell’O del 13 mag. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)). Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-10]: Introdotta dal n. I dell’O del 13 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
-[^5-11]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)
+[^5-11]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 
 #### Art. 6
 
@@ -178,9 +178,9 @@ Se tali provvedimenti per la zona protetta interessata non sono già ammessi sec
 
 <sup>3</sup> Per l’esecuzione di questi provvedimenti i Cantoni possono far capo, oltre che ai sorveglianti delle riserve, anche ai guardiani della selvaggina, ai guardiacaccia e ai cacciatori autorizzati.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)(.
+[^9-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^9-2]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^9-3]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408))-
+[^9-3]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^9-4]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)
 
 #### Art. 9a
@@ -259,7 +259,7 @@ Il servizio cantonale competente affida i compiti seguenti ai sorveglianti delle
 <sup>4</sup> Sull’adempimento di questi compiti viene fatto rapporto ogni anno all’UFAM.
 
 [^12-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
-[^12-2]: Introdotta dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)
+[^12-2]: Introdotta dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 (RU **2015**2209).
 [^12-3]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^12-4]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 
@@ -271,7 +271,7 @@ Il servizio cantonale competente affida i compiti seguenti ai sorveglianti delle
 
 <sup>2</sup> L’UFAM organizza corsi di perfezionamento sui problemi particolari relativi alle riserve degli uccelli acquatici e migratori.
 
-## Sezione 5:**** Indennità
+## Sezione 5: Indennità
 
 [^sec5-1]
 
@@ -343,13 +343,13 @@ Abrogato
 
 La presente ordinanza entra in vigore il 1° febbraio 1991.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 2 cpv. 1)
 
 ## Riserve d’importanza internazionale
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 1° lug. 2015 ([RU 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)). Aggiornato dal n. II dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 
 <table>
 <tr><td>N.</td><td>Località</td><td>Cantone(i)</td><td colspan="2">Iscrizione</td><td>Revisione(i)</td></tr>
@@ -357,7 +357,7 @@ Allegato 1*[^t-1]*
 <tr><td>2</td><td>Stein am Rhein</td><td>SH, TG</td><td>1991</td><td colspan="2">2001/2009</td></tr>
 <tr><td>3</td><td>Klingnauerstausee</td><td>AG</td><td>1991</td><td colspan="2">2009</td></tr>
 <tr><td>4</td><td>Fanel – Chablais de Cudrefin, Pointe de Marin</td><td>BE, FR, VD, NE</td><td>1991</td><td colspan="2">2001/2009/2015</td></tr>
-<tr><td>5</td><td>Chevroux jusqu’à Portalban</td><td>FR, VD</td><td>1991</td><td colspan="2">2001/2015</td></tr>
+<tr><td>5</td><td>Chevroux jusqu’à Portalban</td><td>FR, VD</td><td>1991</td><td colspan="2">2001/2015/2023</td></tr>
 <tr><td>6</td><td>Yvonand jusqu’à Cheyres</td><td>FR, VD</td><td>1991</td><td colspan="2">2001/2015</td></tr>
 <tr><td>7</td><td>Grandson jusqu’à Champ-Pittet</td><td>VD</td><td>1991</td><td colspan="2">2001/2015</td></tr>
 <tr><td>8</td><td>Les Grangettes</td><td>VD, VS</td><td>1991</td><td colspan="2">2001/2009</td></tr>
@@ -396,6 +396,6 @@ Allegato 1*[^t-1]*
 <tr><td>127</td><td>Benkner-, Burger- und Kaltbrunner-Riet</td><td>SG</td><td>2009</td><td colspan="2">2015</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 [^t-2]: Abrogato dal n. II cpv. 2 dell’O del 13 mag. 2009, con effetto dal 1° lug. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).

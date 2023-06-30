@@ -4,11 +4,11 @@ title: "Ordonnance du 21 janvier 1991 sur les réserves d'oiseaux d'eau et de mi
 short: OROEM
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/298_298_298"
 language: fr
-version: 2015-07-15
+version: 2023-07-01
 adopted: 1991-01-21
 in_force: 1991-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/298_298_298/20150715/fr/xml/fedlex-data-admin-ch-eli-cc-1991-298_298_298-20150715-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20150715/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/298_298_298/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1991-298_298_298-20230701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20150715/fr"
 
 (OROEM)
 
-du 21 janvier 1991 (Etat le 15 juillet 2015)
+du 21 janvier 1991 (État le 1<sup>er</sup> juillet 2023)
 
 Le Conseil fédéral suisse,
 
@@ -109,7 +109,7 @@ Les dispositions ci-après s’appliquent d’une manière générale aux réser
 [^5-5]: Nouvelle expression selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-7]: [RS 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
-[^5-8]: Introduite par le ch. 7 de l’annexe à l’O du 14 mai 2014 sur les atterrissages en campagne ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^5-8]: Introduite par l’annexe ch. 7 de l’O du 14 mai 2014 sur les atterrissages en campagne ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-9]: Introduite par le ch. I de l’O du 13 mai 2009 ([RO 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
 [^5-10]: Introduite par le ch. I de l’O du 13 mai 2009, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
 [^5-11]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
@@ -271,7 +271,7 @@ Le service cantonal compétent confie les tâches suivantes aux surveillants des
 
 <sup>2</sup> L’OFEV organise des cours de perfectionnement sur les problèmes particuliers relatifs aux réserves d’oiseaux d’eau et de migrateurs.
 
-## Chapitre 5**** Indemnités
+## Chapitre 5 Indemnités
 
 [^sec5-1]
 
@@ -344,13 +344,13 @@ Abrogé
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> février 1991.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 2, al. 1)
 
 ## Réserves d’importance internationale
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)). Mise à jour par le ch. II de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 
 <table>
 <tr><td>N<sup>o</sup></td><td>Localité</td><td>Canton(s)</td><td>Inscription</td><td>Révision(s)</td></tr>
@@ -358,7 +358,7 @@ Annexe 1*[^t-1]*
 <tr><td>2</td><td>Stein am Rhein</td><td>SH, TG</td><td>1991</td><td>2001/2009</td></tr>
 <tr><td>3</td><td>Klingnauerstausee</td><td>AG</td><td>1991</td><td>2009</td></tr>
 <tr><td>4</td><td>Fanel–Chablais de Cudrefin, Pointe de Marin</td><td>BE, FR, VD, NE</td><td>1991</td><td>2001/2009/2015</td></tr>
-<tr><td>5</td><td>Chevroux jusqu’à Portalban</td><td>FR, VD</td><td>1991</td><td>2001/2015</td></tr>
+<tr><td>5</td><td>Chevroux jusqu’à Portalban</td><td>FR, VD</td><td>1991</td><td>2001/2015/2023</td></tr>
 <tr><td>6</td><td>Yvonand jusqu’à Cheyres</td><td>FR, VD</td><td>1991</td><td>2001/2015</td></tr>
 <tr><td>7</td><td>Grandson jusqu’à Champ-Pittet</td><td>VD</td><td>1991</td><td>2001/2015</td></tr>
 <tr><td>8</td><td>Les Grangettes</td><td>VD, VS</td><td>1991</td><td>2001/2009</td></tr>
@@ -397,6 +397,6 @@ Annexe 1*[^t-1]*
 <tr><td>127</td><td>Benkner-, Burger- und Kaltbrunner-Riet</td><td>SG</td><td>2009</td><td>2015</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 [^t-2]: Abrogée par le ch. II al. 2 de l’O du 13 mai 2009, avec effet au 1<sup>er</sup> juil. 2009 ([RO 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).

@@ -4,11 +4,11 @@ title: Verordnung vom 21. Januar 1991 über die Wasser- und Zugvogelreservate vo
 short: WZVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/298_298_298"
 language: de
-version: 2015-07-15
+version: 2023-07-01
 adopted: 1991-01-21
 in_force: 1991-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/298_298_298/20150715/de/xml/fedlex-data-admin-ch-eli-cc-1991-298_298_298-20150715-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20150715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/298_298_298/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1991-298_298_298-20230701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/298_298_298/20150715/de"
 
 (WZVV)
 
-vom 21. Januar 1991 (Stand am 15. Juli 2015)
+vom 21. Januar 1991 (Stand am 1. Juli 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -271,7 +271,7 @@ Die kantonale Fachstelle weist den Reservatsaufsehern folgende Aufgaben zu:
 
 <sup>2</sup> Das BAFU führt für die besondern Belange der Wasser- und Zugvogelreservate Weiterbildungskurse durch.
 
-## 5. Abschnitt:**** Abgeltungen
+## 5. Abschnitt: Abgeltungen
 
 [^sec5-1]
 
@@ -343,13 +343,13 @@ Die Höhe der Abgeltungen richtet sich:
 
 Diese Verordnung tritt am 1. Februar 1991 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 2 Abs. 1)
 
 ## Reservate von internationaler Bedeutung
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 1. Juli 2015 ([AS 2015 2209](https://fedlex.data.admin.ch/eli/oc/2015/408)). Bereinigt gemäss Ziff. II der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 
 <table>
 <tr><td>Nr.</td><td>Lokalität</td><td>Kanton(e)</td><td>Aufnahme</td><td>Revision(en)</td></tr>
@@ -357,7 +357,7 @@ Anhang 1*[^t-1]*
 <tr><td>2</td><td>Stein am Rhein</td><td>SH, TG</td><td>1991</td><td>2001/2009</td></tr>
 <tr><td>3</td><td>Klingnauerstausee</td><td>AG</td><td>1991</td><td>2009</td></tr>
 <tr><td>4</td><td>Fanel–Chablais de Cudrefin, Pointe de Marin</td><td>BE, FR, VD, NE</td><td>1991</td><td>2001/2009/2015</td></tr>
-<tr><td>5</td><td>Chevroux jusqu’à Portalban</td><td>FR, VD</td><td>1991</td><td>2001/2015</td></tr>
+<tr><td>5</td><td>Chevroux jusqu’à Portalban</td><td>FR, VD</td><td>1991</td><td>2001/2015/2023</td></tr>
 <tr><td>6</td><td>Yvonand jusqu’à Cheyres</td><td>FR, VD</td><td>1991</td><td>2001/2015</td></tr>
 <tr><td>7</td><td>Grandson jusqu’à Champ-Pittet</td><td>VD</td><td>1991</td><td>2001/2015</td></tr>
 <tr><td>8</td><td>Les Grangettes</td><td>VD, VS</td><td>1991</td><td>2001/2009</td></tr>
@@ -396,6 +396,6 @@ Anhang 1*[^t-1]*
 <tr><td>127</td><td>Benkner-, Burger- und Kaltbrunner-Riet</td><td>SG</td><td>2009</td><td>2015</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 [^t-2]: Aufgehoben durch Ziff. II Abs. 2 der V vom 13. Mai 2009, mit Wirkung seit 1. Juli 2009 ([AS 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)).
