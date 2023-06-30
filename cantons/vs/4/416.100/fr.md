@@ -4,13 +4,12 @@ number: "416.100"
 title: "Ordonnance sur les bourses et prêts d'études"
 short: OBPE
 language: fr
-version: 2021-07-01
-valid_until: 2023-06-30
-version_adopted: 2021-06-16
+version: 2023-07-01
+version_adopted: 2023-07-19
 adopted: 2021-06-16
 in_force: 2021-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/416.100"
-pdf: "https://lex.vs.ch/api/fr/versions/2929/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3228/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2929/pdf_file"
 
 (OBPE)
 
-du 16.06.2021 (état 01.07.2021)
+du 16.06.2021 (état 01.07.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -96,6 +95,14 @@ ordonne: [^ingress-1]
 
 <sup>1</sup> Seules les personnes traitant une demande d'aide à la formation ont accès aux données fiscales nécessaires au traitement de celle-ci.
 
+#### Art. 4a
+
+**Concubins**
+
+<sup>1</sup> Sont concubins au sens de la présente ordonnance, deux personnes vivant ensemble et ayant au moins un enfant commun.
+
+<sup>2</sup> Le concubin est assimilé au conjoint dans la présente ordonnance.
+
 ## 2 Mode de calcul
 
 ### 2.1 Principes
@@ -121,7 +128,7 @@ ordonne: [^ingress-1]
 
 <sup>4</sup> Si la taxation fiscale déterminante n'est pas entrée en force, les revenus pris en compte sont établis sur la base de la taxation ordinaire ou provisoire ou, en l’absence de celle-ci, sur la base de la dernière taxation entrée en force.
 
-<sup>5</sup> En l'absence de taxation fiscale, les ressources sont déterminées sur la base des derniers certificats de revenus (salaires, rentes ou autres) et des attestations de fortune. Les revenus bruts sont pris en compte à hauteur de 80 pour cent.
+<sup>5</sup> En l'absence de taxation fiscale ou lorsque celle-ci mentionne un revenu négatif ou nul, les ressources sont déterminées sur la base des dernières attestations de revenus (salaires, rentes ou autres) et des attestations de fortune. Les revenus bruts sont pris en compte à hauteur de 80 pour cent.
 
 <sup>6</sup> Pour les taxations fiscales émanant d'autres cantons ou d'autres pays, les éléments nécessaires au calcul de l'aide sont repris dans la mesure utile.
 
@@ -172,7 +179,7 @@ ordonne: [^ingress-1]
 
 <sup>3</sup> Si les parents ne vivent pas en ménage commun et ne sont pas mariés ou en partenariat enregistré, s'ils vivent séparés de fait ou suite à une décision judiciaire, sont divorcés ou sont remariés, un budget séparé est établi pour chacun d’eux.
 
-<sup>4</sup> Si l’un des parents verse à la personne en formation une contribution d’entretien (ci-après: pension alimentaire) fixée par décision judiciaire, aucun budget n’est établi pour ce parent.
+<sup>4</sup> Si l’un des parents verse à la personne en formation une contribution d’entretien et/ou une contribution de prise en charge (ci-après: pension alimentaire) fixée par décision judiciaire, aucun budget n’est établi pour ce parent, pour autant que la personne en formation ne vive pas chez ce parent.
 
 #### Art. 12
 
@@ -184,8 +191,9 @@ ordonne: [^ingress-1]
 - b) s'ajoutent:
   - 1\. le 5 pour cent de la fortune revalorisée nette,
   - 2\. les cotisations à des formes reconnues de prévoyance individuelle liée (pilier 3a) jusqu'à concurrence du montant maximal admis pour les salariés,
-  - 3\. les revenus acquis à l'étranger, et
-  - 4\. les revenus négatifs de la fortune immobilière;
+  - 3\. les revenus acquis à l'étranger,
+  - 4\. les revenus négatifs de la fortune immobilière, et
+  - 5\. les cotisations à des formes reconnues de prévoyance professionnelle dans la mesure où elles ne sont pas déjà déduites fiscalement, en particulier le rachat des années d'assurance (2100);
 - c) se déduisent:
   - 1\. les pensions alimentaires versées en vertu du droit de la famille ou d'une convention, et
   - 2\. les prestations en capital reçues (chiffres 1010 et 1020).
@@ -204,12 +212,14 @@ ordonne: [^ingress-1]
 
 <sup>1</sup> Les frais couvrant les besoins de la famille sont les suivants:
 
-- a) le forfait pour l’entretien qui est calculé en fonction du nombre de personne dans le ménage et des montants forfaitaires définis en annexe 1 qui fait partie intégrante de la présente ordonnance. Le forfait pour l’entretien couvre notamment les besoins de base pour la nourriture, les vêtements et les loisirs;
-- b) les frais de logement qui sont calculés en fonction du nombre de personne dans le ménage et des montants forfaitaires définis en annexe 1 qui fait partie intégrante de la présente ordonnance;
+- a) le forfait pour l’entretien qui est calculé en fonction du nombre de personne dans le ménage et des montants forfaitaires définis par le département en charge de la formation (ci-après: le département). Le forfait pour l’entretien couvre notamment les besoins de base pour la nourriture, les vêtements et les loisirs;
+- b) les frais de logement qui sont calculés en fonction du nombre de personne dans le ménage et des montants forfaitaires définis par le département;
 - c) le supplément d’intégration qui s'élève à 1'200 francs et qui est octroyé dans le budget de la famille pour chaque enfant en formation post-obligatoire;
 - d) le supplément de formation qui s'élève à 1'800 francs et qui est octroyé dans le budget de la famille pour chaque enfant en formation post-obligatoire;
-- e) le forfait d'assurance maladie pour chaque personne du ménage qui est défini en annexe 1 et fait partie intégrante de la présente ordonnance;
-- f) le forfait pour frais divers pour chaque personne du ménage qui est déterminé par le département en charge de la formation (ci-après: le département) par catégorie d'âge et en fonction des disponibilités financières du canton.
+- e) le forfait d'assurance maladie pour chaque personne du ménage qui est défini par le département;
+- f) le forfait pour frais divers pour chaque personne du ménage qui est déterminé par le département par catégorie d'âge et en fonction des disponibilités financières du canton.
+
+<sup>2</sup> Lorsqu'un parent est domicilié à l'étranger et lorsque le niveau de vie y est inférieur à celui de la Suisse, les frais couvrant les besoins de la famille sont adaptés au niveau de vie du lieu de domicile des parents.
 
 #### Art. 14
 
@@ -219,7 +229,7 @@ ordonne: [^ingress-1]
 
 <sup>2</sup> Si le budget présente un excédent de ressources, la part contributive des parents est calculée en divisant cet excédent par le nombre d’enfants en formation post-obligatoire et elle est prise en considération dans le calcul du budget de la personne en formation. Un coefficient, déterminé par le département, peut être appliqué à la part contributive des parents en fonction des enveloppes budgétaires disponibles. Lorsque l’un ou les deux parents sont remariés, leur(s) part(s) contributive(s) est réduite de 50 pour cent.
 
-<sup>3</sup> Si le budget présente un excédent de charges et si la personne en formation est intégrée au budget de la famille, la part contributive des parents est nulle et la part de la personne en formation au découvert de la famille est calculée en divisant la valeur absolue de cet excédent par le nombre de personnes qui composent la famille. La part de la personne en formation au découvert de la famille est considérée comme une charge dans le calcul du budget de la personne en formation.
+<sup>3</sup> Si le budget présente un excédent de charges et si la personne en formation est intégrée au budget de la famille, la part contributive des parents est nulle et la part de la personne en formation au découvert de la famille est calculée en divisant la valeur absolue de cet excédent par le nombre de personnes qui composent le ménage. Un coefficient, déterminé par le département, peut être appliqué à la part de la personne en formation au découvert de la famille en fonction des enveloppes budgétaires disponibles. La part de la personne en formation au découvert de la famille est considérée comme une charge dans le calcul du budget de la personne en formation.
 
 #### Art. 15
 
@@ -278,7 +288,7 @@ ordonne: [^ingress-1]
 
 <sup>1</sup> Les frais de transport correspondent au prix de l’abonnement des transports publics en 2<sup>e</sup> classe entre le domicile et le lieu de formation mais au maximum au prix de l'abonnement général pour la catégorie de personnes concernée, y compris pour les formations à l'étranger.
 
-<sup>2</sup> Si la personne en formation vit à l'extérieur du domicile de ses parents en raison de l'éloignement du lieu de formation, le prix de l'abonnement général des transports publics pour la catégorie de personnes concernée est pris en compte.
+<sup>2</sup> …
 
 <sup>3</sup> Les subventions publiques sont déduites des frais de déplacement pris en compte.
 
@@ -296,27 +306,27 @@ ordonne: [^ingress-1]
 
 <sup>1</sup> Les frais de logement qui sont justifiés par l'éloignement du lieu de formation lorsque la personne ne peut raisonnablement pas rentrer quotidiennement à son domicile et que le logement se trouve à proximité du lieu de formation. Exceptionnellement et pour des motifs dûment justifiés, un logement à l’extérieur du domicile familial peut être pris en compte même s’il n’est pas justifié par l’éloignement du lieu de formation.
 
-<sup>2</sup> Les frais de logement, charges comprises, sont pris en considération selon les frais effectifs (loyer ou charges hypothécaires pour les propriétaires de leur logement) jusqu'à concurrence des forfaits maximaux définis en annexe 2 de la présente ordonnance, qui sont déterminés en fonction du nombre de personnes dans le ménage.
+<sup>2</sup> Les frais de logement, charges comprises, sont pris en considération selon les frais effectifs (loyer ou charges hypothécaires pour les propriétaires de leur logement) jusqu'à concurrence des forfaits maximaux définis par le département, qui sont déterminés en fonction du nombre de personnes dans le ménage.
 
 #### Art. 23
 
 **Frais couvrant les besoins de la personne en formation**
 
-<sup>1</sup> Les frais reconnus engendrés par l’entretien sont les frais couvrant les besoins de la personne en formation. Ils sont intégrés dans le budget de la famille sauf lorsque la personne en formation a un logement propre et qu’elle remplit au moins une des conditions suivantes:
+<sup>1</sup> Les frais reconnus engendrés par l’entretien sont les frais couvrant les besoins de la personne en formation. Ils sont intégrés dans le budget de la famille sauf lorsque la personne en formation a son domicile légal distinct de celui de ses parents et qu’elle remplit au moins une des conditions suivantes:
 
 - a) être mariée ou en partenariat enregistré;
 - b) avoir des enfants à charge;
 - c) être orpheline;
-- d) pouvoir justifier de 2 ans d’indépendance financière après une première formation;
-- e) pouvoir justifier de problèmes avérés au sein de la famille (notamment lors d'un placement), ou
+- d) pouvoir justifier de 2 ans d’indépendance financière après une première formation, ou
+- e) …
 - f) avoir 35 ans révolus.
 
 <sup>2</sup> Lorsqu’au moins une des conditions de l'alinéa 1 est remplie, les frais suivants couvrant les besoins de la personne en formation sont pris en compte dans le budget de la personne en formation:
 
-- a) le forfait pour l’entretien qui est calculé en fonction du nombre de personne dans le ménage et des montants forfaitaires définis en annexe 2 qui fait partie intégrante de la présente ordonnance. Le forfait pour l’entretien couvre notamment les besoins de base pour la nourriture, les vêtements et les loisirs;
+- a) le forfait pour l’entretien qui est calculé en fonction du nombre de personne dans le ménage et des montants forfaitaires définis par le département. Le forfait pour l’entretien couvre notamment les besoins de base pour la nourriture, les vêtements et les loisirs;
 - b) le supplément d’intégration de 1'200 francs par personne en formation post-obligatoire;
 - c) le supplément de formation de 1'800 francs par personne en formation post-obligatoire;
-- d) le forfait d'assurance maladie défini en annexe 2 qui fait partie intégrante de la présente ordonnance;
+- d) le forfait d'assurance maladie défini par le département;
 - e) le forfait pour frais divers pour chaque personne du ménage qui est déterminé par le département par catégorie d'âge et en fonction des disponibilités financières du canton.
 
 #### Art. 24
@@ -367,11 +377,17 @@ ordonne: [^ingress-1]
 
 ## 3 Prêts d'études
 
+#### Art. 28a
+
+**Contrat**
+
+<sup>1</sup> Le contrat de prêt d'études doit être signé avant la fin de l'année de formation pour laquelle le prêt d'études a été accordé.
+
 #### Art. 29
 
 **Remboursement des prêts d'études**
 
-<sup>1</sup> L'obligation de remboursement des prêts d'études débute dès la 3<sup>e</sup> année civile suivant la fin des études. La fin des études est fixée à l'article 21b de la LBPE.
+<sup>1</sup> L'obligation de remboursement des prêts d'études débute dès le 1<sup>er</sup> janvier de la 3<sup>e</sup> année civile suivant la fin des études. La fin des études est fixée à l'article 21b de la LBPE.
 
 <sup>2</sup> Après la durée maximale admise de formation de 3 ans pour les doctorants, le doctorat est considéré comme terminé.
 
@@ -412,7 +428,7 @@ ordonne: [^ingress-1]
 
 <sup>2</sup> Le délai faisant foi pour les demandes formulées via le guichet virtuel est la transmission de la demande d'aide dans le système.
 
-<sup>3</sup> Le délai faisant foi pour les demandes adressées au moyen du formulaire papier est la date du timbre postal, respectivement celle du dépôt du formulaire au guichet.
+<sup>3</sup> Le délai faisant foi pour les demandes adressées au moyen du formulaire est la date du timbre postal, respectivement celle du dépôt du formulaire au guichet.
 
 <sup>4</sup> Les demandes d'aides déposées hors des délais mentionnés à l'alinéa 1 ne sont pas recevables.
 
@@ -426,7 +442,7 @@ ordonne: [^ingress-1]
 
 **Changement important dans la situation personnelle**
 
-<sup>1</sup> Lors de l'établissement du calcul d'aide, il est tenu compte de tout changement important dans la situation personnelle entre le 1<sup>er</sup> juillet et le 31 décembre de l'année pour laquelle l'aide est demandée.
+<sup>1</sup> Lors de l'établissement du calcul d'aide, il est tenu compte de tout changement important dans la situation personnelle survenant jusqu'au 31 décembre de l'année pour laquelle l'aide est demandée.
 
 <sup>2</sup> Constitue un changement important dans la situation personnelle:
 
@@ -436,7 +452,7 @@ ordonne: [^ingress-1]
 - d) un changement de formation;
 - e) la prise en compte de frais de logement hors de la famille;
 - f) la fin du délai-cadre de l'assurance-chômage d'un parent;
-- g) la modification du revenu déterminant des parents ou des autres personnes tenues légalement à l'entretien de la personne en formation d'au moins 20 pour cent par rapport à celui ressortant de la taxation fiscale mentionnée à l'article 6 alinéa 1 de la présente ordonnance.
+- g) la modification du revenu déterminant des parents ou des autres personnes tenues légalement à l'entretien de la personne en formation d'au moins 20 pour cent par rapport à celui ressortant de l'article 12 de la présente ordonnance.
 
 <sup>3</sup> Les frais de logement hors de la famille ou un changement de formation peuvent être pris en compte même s'ils sont postérieurs au 31 décembre de l'année pour laquelle l'aide est demandée.
 
@@ -449,6 +465,8 @@ ordonne: [^ingress-1]
 <sup>1</sup> En principe, les décisions sont notifiées dans un délai de 3 mois à compter du dépôt de la demande complète.
 
 <sup>2</sup> L'aide est versée au bénéficiaire, à son représentant légal ou à ses parents, à l'exception des personnes au bénéfice de l'aide sociale pour lesquelles l'aide peut être versée à l'institution sociale qui les suit et qui est au bénéfice d'une cession de créance renouvelée annuellement.
+
+<sup>3</sup> Les décisions peuvent être notifiées par voie électronique.
 
 ## 5 Dispositions transitoires
 

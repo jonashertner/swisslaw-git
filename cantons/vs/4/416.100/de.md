@@ -4,13 +4,12 @@ number: "416.100"
 title: Verordnung über Stipendien und Studiendarlehen
 short: VSSD
 language: de
-version: 2021-07-01
-valid_until: 2023-06-30
-version_adopted: 2021-06-16
+version: 2023-07-01
+version_adopted: 2023-07-19
 adopted: 2021-06-16
 in_force: 2021-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/416.100"
-pdf: "https://lex.vs.ch/api/de/versions/2929/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3228/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2929/pdf_file"
 
 (VSSD)
 
-vom 16.06.2021 (Stand 01.07.2021)
+vom 16.06.2021 (Stand 01.07.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -47,7 +46,7 @@ verordnet [^ingress-1]:
 
 <sup>1</sup> Personen, die eine im Sinne von Artikel 7 und 8 GSSD anerkannte Ausbildung mit einer Dauer von mindestens einem Semester absolvieren, können eine Ausbildungshilfe (nachstehend: Hilfe) erhalten.
 
-<sup>2</sup> Der Besuch einer Klasse der Sekundarstufe I im Sinne von Artikel 7 Absatz 1 Buchstabe b GSSD ist einer nachobligatorischen Ausbildung gleichgestellt
+<sup>2</sup> Der Besuch einer Klasse der Sekundarstufe I im Sinne von Artikel 7 Absatz 1 Buchstabe b GSSD ist einer nachobligatorischen Ausbildung gleichgestellt.
 
 <sup>3</sup> Die für Stipendien und Studiendarlehen zuständige Dienststelle (nachfolgend: die Dienststelle) führt und aktualisiert:
 
@@ -96,6 +95,14 @@ verordnet [^ingress-1]:
 
 <sup>1</sup> Nur die Personen, die ein Gesuch auf Ausbildungshilfe bearbeiten, haben Zugriff auf die für die Bearbeitung notwendigen steuerlichen Daten.
 
+#### Art. 4a
+
+**Konkubinatspartner**
+
+<sup>1</sup> Konkubinatspartner im Sinne dieser Verordnung sind zwei Personen, die zusammenleben und mindestens ein gemeinsames Kind haben.
+
+<sup>2</sup> Der Konkubinatspartner ist in dieser Verordnung dem Ehegatten gleichgestellt.
+
 ## 2 Berechnungsmodus
 
 ### 2.1 Grundsätze
@@ -121,7 +128,7 @@ verordnet [^ingress-1]:
 
 <sup>4</sup> Wenn die massgebende Steuerveranlagung nicht rechtskräftig ist, wird das zu berücksichtigende Einkommen auf Grundlage der ordentlichen oder provisorischen Veranlagung, oder, sofern eine solche nicht vorliegt, auf Grundlage der letzten rechtskräftigen Veranlagung ermittelt.
 
-<sup>5</sup> Liegt keine Steuerveranlagung vor, werden die Mittel auf Grundlage der letzten Einkommensnachweise (Löhne, Renten oder andere) und Vermögensbescheinigungen ermittelt. Bruttoeinkommen werden in Höhe von 80 Prozent berücksichtigt.
+<sup>5</sup> Liegt keine Steuerveranlagung vor oder weist diese ein negatives oder gar kein Einkommen aus, werden die Mittel auf der Grundlage der letzten Einkommensnachweise (Löhne, Renten oder andere) und der Vermögensbescheinigungen ermittelt. Bruttoeinkommen werden in Höhe von 80 Prozent berücksichtigt.
 
 <sup>6</sup> Bei Steuerveranlagungen aus anderen Kantonen oder Ländern werden die für die Berechnung der Hilfe notwendigen Daten, soweit zweckmässig, übernommen.
 
@@ -172,7 +179,7 @@ verordnet [^ingress-1]:
 
 <sup>3</sup> Wenn die Eltern nicht in einem gemeinsamen Haushalt leben und nicht verheiratet sind oder in einer eingetragenen Partnerschaft leben, sie tatsächlich oder aufgrund eines gerichtlichen Entscheids getrennt leben, sie geschieden sind oder wieder geheiratet haben, wird für jeden Elternteil ein separates Budget erstellt.
 
-<sup>4</sup> Wenn einer der Elternteile der Person in Ausbildung einen gerichtlich festgesetzten Unterhaltsbeitrag (nachfolgend: Alimente) zahlt, wird für diesen Elternteil kein Budget erstellt.
+<sup>4</sup> Wenn einer der Elternteile einen gerichtlich festgesetzten Unterhaltsbeitrag und/oder Betreuungsunterhalt (nachfolgend: Alimente) an die Person in Ausbildung zahlt, wird für diesen Elternteil kein Budget erstellt, sofern die Person in Ausbildung nicht bei diesem Elternteil lebt.
 
 #### Art. 12
 
@@ -184,8 +191,9 @@ verordnet [^ingress-1]:
 - b) zuzüglich:
   - 1\. 5 Prozent des aufgewerteten Nettovermögens,
   - 2\. der Beiträge für anerkannte Formen der gebundenen Selbstvorsorge (Säule 3a) bis zu dem für Arbeitnehmer zugelassenen Maximalbetrag,
-  - 3\. des im Ausland erzielten Einkommens, sowie
-  - 4\. des negativen Einkommens aus Liegenschaften;
+  - 3\. des im Ausland erzielten Einkommens,
+  - 4\. des negativen Einkommens aus Liegenschaften, und
+  - 5\. Beiträge zu anerkannten Formen der beruflichen Vorsorge, sofern sie nicht bereits steuerlich abgesetzt sind, insbesondere der Rückkauf von Versicherungsjahren (2100);
 - c) abzüglich:
   - 1\. der gemäss dem Familienrecht oder einer Vereinbarung gezahlten Alimente, sowie
   - 2\. der erhaltenen Kapitalleistungen (Ziffern 1010 und 1020).
@@ -204,12 +212,14 @@ verordnet [^ingress-1]:
 
 <sup>1</sup> Folgende Kosten sind zur Deckung der Bedürfnisse der Familie vorgesehen:
 
-- a) die Pauschale für den Unterhalt, die sich auf Grundlage der Personenzahl des Haushalts und den Pauschalbeträgen errechnet, die in Anhang 1, der integraler Bestandteil der vorliegenden Verordnung bildet, definiert sind. Die Pauschale für den Unterhalt deckt namentlich den grundlegenden Bedarf an Nahrung, Kleidung und Freizeit ab;
-- b) die Wohnkosten, die sich auf Grundlage der Personenzahl des Haushalts und den Pauschalbeträgen errechnen, die in Anhang 1, der integraler Bestandteil der vorliegenden Verordnung bildet, definiert sind;
+- a) die Pauschale für den Unterhalt, die sich gemäss der Personenzahl des Haushalts und den Pauschalbeträgen errechnet, die vom für die Bildung zuständigen Departement (nachfolgend: das Departement) definiert werden. Die Pauschale für den Unterhalt deckt namentlich den grundlegenden Bedarf an Nahrung, Kleidung und Freizeit ab;
+- b) die Wohnkosten, die sich auf Grundlage der Personenzahl des Haushalts und den vom Departement definierten Pauschalbeträgen errechnen;
 - c) der Integrationszuschlag in Höhe von 1’200 Franken, der für jedes Kind in nachobligatorischer Ausbildung im Familienbudget gewährt wird;
 - d) der Ausbildungszuschlag in Höhe von 1’800 Franken, der für jedes Kind in nachobligatorischer Ausbildung im Familienbudget gewährt wird;
-- e) die Krankenversicherungspauschale für jede Person im Haushalt, die in Anhang 1, der integraler Bestandteil der vorliegenden Verordnung bildet, definiert ist;
-- f) die Pauschale für sonstige Kosten für jede Person im Haushalt, die von dem für die Bildung zuständigen Departement (nachfolgend: das Departement) nach Alterskategorie und abhängig von den finanziellen Ressourcen des Kantons festgelegt wird.
+- e) die vom Departement definierte Krankenversicherungspauschale für jede Person im Haushalt;
+- f) die Pauschale für sonstige Kosten für jede Person im Haushalt, die vom Departement nach Alterskategorie und abhängig von den finanziellen Ressourcen des Kantons festgelegt wird.
+
+<sup>2</sup> Hat ein Elternteil seinen Wohnsitz im Ausland und ist der Lebensstandard dort tiefer als in der Schweiz, werden die Kosten zur Deckung der Bedürfnisse der Familie an den Lebensstandard am Wohnort der Eltern angepasst.
 
 #### Art. 14
 
@@ -219,7 +229,7 @@ verordnet [^ingress-1]:
 
 <sup>2</sup> Weist das Budget einen Mittelüberschuss auf, so wird der Elternbeitrag berechnet, indem dieser Überschuss durch die Anzahl der Kinder in nachobligatorischer Ausbildung geteilt wird und sodann bei der Berechnung des Budgets der Person in Ausbildung berücksichtigt wird. Auf den Elternbeitrag kann ein vom Departement festgelegter Koeffizient angewendet werden, der vom verfügbaren Globalbudget abhängt. Ist ein oder sind beide Elternteile wiederverheiratet, wird sein/ihr Elternbeitrag um 50 Prozent reduziert.
 
-<sup>3</sup> Wenn das Budget einen Kostenüberschuss aufweist und die Person in Ausbildung in das Familienbudget integriert wird, so ist der Elternbeitrag gleich null und der Anteil der Person in Ausbildung am Negativsaldo des Familienbudgets wird berechnet, indem der absolute Wert dieses Überschusses durch die Anzahl der zur Familie gehörenden Personen geteilt wird. Der Anteil der Person in Ausbildung am Negativsaldo der Familie wird bei der Berechnung des Budgets der Person in Ausbildung als Kostenposition herangezogen.
+<sup>3</sup> Wenn das Budget einen Kostenüberschuss aufweist und die Person in Ausbildung in das Familienbudget integriert wird, so ist der Elternbeitrag gleich null und der Anteil der Person in Ausbildung am Negativsaldo des Familienbudgets wird berechnet, indem der absolute Wert dieses Überschusses durch die Anzahl der zum Haushalt gehörenden Personen geteilt wird. Auf den Anteil der Person in Ausbildung am Negativsaldo des Familienbudgets kann ein vom Departement festgelegter Koeffizient angewendet werden, der vom verfügbaren Globalbudget abhängt. Der Anteil der Person in Ausbildung am Negativsaldo der Familie wird bei der Berechnung des Budgets der Person in Ausbildung als Kostenposition herangezogen.
 
 #### Art. 15
 
@@ -278,7 +288,7 @@ verordnet [^ingress-1]:
 
 <sup>1</sup> Die Beförderungskosten entsprechen dem Preis des Abonnements für den öffentlichen Verkehr in der 2. Klasse zwischen Wohn- und Ausbildungsort, höchstens jedoch dem Preis des Generalabonnements für die betreffende Personenkategorie, wobei dies auch für Ausbildungen im Ausland gilt.
 
-<sup>2</sup> Wenn die Person in Ausbildung aufgrund der Entfernung des Ausbildungsorts ausserhalb der Wohnung ihrer Eltern lebt, so wird der Preis des Generalabonnements des öffentlichen Verkehrs für die betreffende Personenkategorie berücksichtigt.
+<sup>2</sup> …
 
 <sup>3</sup> Öffentliche Subventionen werden von den berücksichtigten Reisekosten abgezogen.
 
@@ -296,27 +306,27 @@ verordnet [^ingress-1]:
 
 <sup>1</sup> Die Wohnkosten sind durch die Entfernung des Ausbildungsorts gerechtfertigt, wenn der Person eine tägliche Heimfahrt nicht zugemutet werden kann und die Wohnung sich in der Nähe des Ausbildungsorts befindet. In Ausnahmefällen und bei Vorliegen wichtiger Gründe kann eine Wohnung ausserhalb des familiären Wohnsitzes auch dann berücksichtigt werden, wenn sie nicht durch die Entfernung des Ausbildungsorts gerechtfertigt ist.
 
-<sup>2</sup> Die Wohnkosten, inklusive Nebenkosten, werden entsprechend den tatsächlichen Kosten (Miete oder hypothekarische Belastung bei Wohnungseigentümern) bis zu den im Anhang 2 der vorliegenden Verordnung definierten Maximalpauschalen, die sich nach der Anzahl der Personen im Haushalt richten, berücksichtigt.
+<sup>2</sup> Die Wohnkosten, inklusive Nebenkosten, werden entsprechend den tatsächlichen Kosten (Miete oder hypothekarische Belastung bei Wohnungseigentümern) bis in Höhe der vom Departement definierten Maximalbeträge, die sich nach der Anzahl der Personen im Haushalt richten, berücksichtigt.
 
 #### Art. 23
 
 **Kosten zur Deckung des Bedarfs der Person in Ausbildung**
 
-<sup>1</sup> Anerkannte Unterhaltskosten sind die Kosten zur Deckung des Bedarfs der Person in Ausbildung. Sie werden in das Familienbudget integriert, es sei denn, die Person in Ausbildung hat eine eigene Wohnung und erfüllt mindestens eine der folgenden Voraussetzungen:
+<sup>1</sup> Anerkannte Unterhaltskosten sind die Kosten zur Deckung des Bedarfs der Person in Ausbildung. Sie werden in das Familienbudget integriert, es sei denn, die Person in Ausbildung hat einen anderen gesetzlichen Wohnsitz als ihre Eltern und sie erfüllt mindestens eine der folgenden Voraussetzungen:
 
 - a) ist verheiratet oder lebt in einer eingetragenen Partnerschaft;
 - b) hat unterhaltsberechtigte Kinder;
 - c) ist Waise;
-- d) kann 2 Jahre finanzielle Unabhängigkeit nach einer ersten Ausbildung nachweisen;
-- e) kann Probleme innerhalb der Familie (namentlich aufgrund einer Platzierung) nachweisen, oder
+- d) kann 2 Jahre finanzielle Unabhängigkeit nach einer ersten Ausbildung nachweisen, oder
+- e) …
 - f) ist mindestens 35 Jahre alt.
 
 <sup>2</sup> Wenn mindestens eine der Voraussetzungen nach Absatz 1 erfüllt ist, werden die folgenden Kosten zur Deckung des Bedarfs der Person in Ausbildung im Budget der Person in Ausbildung berücksichtigt:
 
-- a) die Pauschale für den Unterhalt, die sich gemäss der Personenzahl des Haushalts und den Pauschalbeträgen errechnet, die in Anhang 2, der integraler Bestandteil der vorliegenden Verordnung bildet, definiert sind. Die Pauschale für den Unterhalt deckt namentlich den grundlegenden Bedarf an Nahrung, Kleidung und Freizeit ab;
+- a) die Pauschale für den Unterhalt, die sich gemäss der Personenzahl des Haushalts und den vom Departement definierten Pauschalbeträgen errechnet. Die Pauschale für den Unterhalt deckt namentlich den grundlegenden Bedarf an Nahrung, Kleidung und Freizeit ab;
 - b) der Integrationszuschlag von 1’200 Franken pro Person in nachobligatorischer Ausbildung;
 - c) der Ausbildungszuschlag von 1’800 Franken pro Person in nachobligatorischer Ausbildung;
-- d) die Krankenversicherungspauschale, die in Anhang 2, der integraler Bestandteil der vorliegenden Verordnung bildet, definiert ist;
+- d) die vom Departement definierte Krankenversicherungspauschale;
 - e) die Pauschale für sonstige Kosten für jede Person im Haushalt, die vom Departement nach Alterskategorie und abhängig von den finanziellen Ressourcen des Kantons festgelegt wird.
 
 #### Art. 24
@@ -367,11 +377,17 @@ verordnet [^ingress-1]:
 
 ## 3 Studiendarlehen
 
+#### Art. 28a
+
+**Vertrag**
+
+<sup>1</sup> Der Darlehensvertrag muss vor Ende des Ausbildungsjahres, für das das Studiendarlehen gewährt wurde, unterzeichnet werden.
+
 #### Art. 29
 
 **Rückzahlung der Studiendarlehen**
 
-<sup>1</sup> Die Rückzahlungspflicht für Studiendarlehen beginnt im 3. Kalenderjahr nach Abschluss des Studiums. Der Abschluss des Studiums ist in Artikel 21b GSSD geregelt.
+<sup>1</sup> Die Rückzahlungspflicht für Studiendarlehen beginnt am 1. Januar des 3. Kalenderjahrs nach Abschluss des Studiums. Der Abschluss des Studiums ist in Artikel 21b GSSD geregelt.
 
 <sup>2</sup> Nach der maximal zulässigen 3-jährigen Ausbildungsdauer von Doktoranden wird das Doktorat als beendet betrachtet.
 
@@ -412,7 +428,7 @@ verordnet [^ingress-1]:
 
 <sup>2</sup> Bei Gesuchen, die über den virtuellen Schalter eingereicht wurden, ist die Übermittlung des Hilfegesuchs im System für die Fristwahrung massgebend.
 
-<sup>3</sup> Bei Gesuchen, die mithilfe des Papierformulars eingereicht wurden, ist das Datum des Poststempels, respektive das Datum der Abgabe des Formulars am Schalter, für die Fristwahrung massgebend.
+<sup>3</sup> Bei Gesuchen, die mithilfe des Formulars eingereicht wurden, ist das Datum des Poststempels, respektive das Datum der Abgabe des Formulars am Schalter, für die Fristwahrung massgebend.
 
 <sup>4</sup> Gesuche, die ausserhalb der in Absatz 1 angegebenen Fristen eingereicht wurden, werden nicht berücksichtigt.
 
@@ -426,7 +442,7 @@ verordnet [^ingress-1]:
 
 **Wesentliche Änderung der persönlichen Situation**
 
-<sup>1</sup> Bei der Berechnung der Hilfe wird jede wesentliche Änderung der persönlichen Situation zwischen dem 1. Juli und dem 31. Dezember des Jahres, für das das Hilfegesuch gestellt wird, berücksichtigt.
+<sup>1</sup> Bei der Berechnung der Hilfe wird jede wesentliche Änderung der persönlichen Situation bis zum 31. Dezember des Jahres, für das das Hilfegesuch gestellt wird, berücksichtigt.
 
 <sup>2</sup> Wesentliche Änderungen der persönlichen Situation sind:
 
@@ -436,7 +452,7 @@ verordnet [^ingress-1]:
 - d) ein Wechsel der Ausbildung;
 - e) die Berücksichtigung von Kosten für die Unterkunft ausserhalb der Familie;
 - f) das Ende der Rahmenfrist der Arbeitslosenversicherung eines Elternteils;
-- g) eine Veränderung des massgebenden Einkommens der Eltern oder anderer Personen, die gesetzlich zum Unterhalt der Person in Ausbildung verpflichtet sind, von mindestens 20 Prozent gegenüber dem Einkommen gemäss der Steuerveranlagung nach Artikel 6 Absatz 1 der vorliegenden Verordnung.
+- g) eine Veränderung des massgebenden Einkommens der Eltern oder anderer Personen, die gesetzlich zum Unterhalt der Person in Ausbildung verpflichtet sind, von mindestens 20 Prozent gegenüber dem Einkommen gemäss Artikel 12 der vorliegenden Verordnung.
 
 <sup>3</sup> Die Kosten der Unterkunft ausserhalb der Familie oder eines Wechsels der Ausbildung können auch dann berücksichtigt werden, wenn sie nach dem 31. Dezember des Jahres, für das das Hilfegesuch gestellt wird, anfallen.
 
@@ -449,6 +465,8 @@ verordnet [^ingress-1]:
 <sup>1</sup> Grundsätzlich werden die Entscheide innerhalb von 3 Monaten nach Einreichen des vollständigen Gesuchs zugestellt.
 
 <sup>2</sup> Die Hilfe wird der begünstigten Person, ihrem gesetzlichen Vertreter oder ihren Eltern ausbezahlt. Ausgenommen hiervon sind Sozialhilfeempfänger, für welche die Hilfe der sozialen Einrichtung überwiesen werden kann, die für die jeweilige Person zuständig und Begünstigte einer jährlich erneuerten Forderungsabtretung ist.
+
+<sup>3</sup> Die Entscheide können auf elektronischem Weg zugestellt werden.
 
 ## 5 Übergangsbestimmungen
 
