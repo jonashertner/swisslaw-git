@@ -3,20 +3,20 @@ canton: BL
 number: "362.14"
 title: Verordnung über die Finanzierung von Pflegeleistungen
 language: de
-version: 2023-01-01
-valid_until: 2023-06-30
-version_adopted: 2022-10-25
+version: 2023-07-01
+valid_until: 2023-12-31
+version_adopted: 2023-06-20
 adopted: 2011-02-22
 in_force: 2011-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/362.14"
-pdf: "https://bl.clex.ch/api/de/versions/3433/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3625/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Finanzierung von Pflegeleistungen
 
-Vom 22.02.2011 (Stand 01.01.2023)
+Vom 22.02.2011 (Stand 01.07.2023)
 
 Der Regierungsrat des Kanton Basel-Landschaft,
 
@@ -62,7 +62,7 @@ beschliesst:
 
 **Ermittlung des Pflegebedarfs in Alters- und Pflegeheimen**
 
-<sup>1</sup> Für die Ermittlung des Pflegebedarfs in Alters- und Pflegeheimen sind die Instrumente BESA LK 2010 und RAI/RUG CH-Index 2016 zugelassen.
+<sup>1</sup> Für die Ermittlung des Pflegebedarfs in Alters- und Pflegeheimen sind die Instrumente BESA Leistungskatalog 2020 und interRAI LTCF zugelassen.
 
 <sup>2</sup> Ohne zugelassenes Bedarfsermittlungsinstrument besteht kein Anspruch auf eine Finanzierung der Pflegeleistungen durch die Gemeinde oder den Kanton. Die ungedeckten Kosten dürfen nicht der versicherten Person in Rechnung gestellt werden.
 
