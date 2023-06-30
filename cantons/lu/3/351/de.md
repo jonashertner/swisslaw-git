@@ -4,13 +4,13 @@ number: "351"
 title: Verordnung über die Luzerner Polizei
 short: PolV
 language: de
-version: 2023-01-01
-valid_until: 2023-06-30
-version_adopted: 2022-12-06
+version: 2023-07-01
+valid_until: 2023-08-31
+version_adopted: 2023-04-25
 adopted: 2004-04-06
 in_force: 2004-05-01
 url: "https://srl.lu.ch/app/de/texts_of_law/351"
-pdf: "https://srl.lu.ch/api/de/versions/4024/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4072/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4024/pdf_file"
 
 (PolV)
 
-vom 06.04.2004 (Stand 01.01.2023)
+vom 06.04.2004 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -41,10 +41,9 @@ beschliesst:
 
 <sup>1</sup> Zuständiges Departement gemäss dem Gesetz über die Luzerner Polizei vom 27. Januar 1998[^1-1] ist das Justiz- und Sicherheitsdepartement.
 
-<sup>2</sup> Dieses ist auch für Begehren im Rahmen von Unterstützungseinsätzen gemäss den Artikeln 4 ff. des Konkordats über die Grundlagen der Polizei-Zusammenarbeit in der Zentralschweiz (Polizeikonkordat Zentralschweiz) vom 6. November 2009[^1-2] zuständig. Bei Dringlichkeit trifft die Luzerner Polizei die unaufschiebbaren Massnahmen.
+<sup>2</sup> Dieses ist auch für Begehren im Rahmen von interkantonalen Unterstützungseinsätzen zuständig. Bei Dringlichkeit trifft die Luzerner Polizei die unaufschiebbaren Massnahmen.
 
 [^1-1]: SRL Nr. [350](https://srl.lu.ch/data/350/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
-[^1-2]: SRL Nr. [352](https://srl.lu.ch/data/352/de)
 
 #### § 2
 
@@ -191,7 +190,7 @@ beschliesst:
 
 **Aufnahmebedingungen Polizeikorps**
 
-<sup>1</sup> In das Korps der Luzerner Polizei kann aufgenommen werden, wer
+<sup>1</sup> In das Korps der Luzerner Polizei kann als Polizist oder Polizistin aufgenommen werden, wer
 
 - a. das Schweizer Bürgerrecht besitzt und
 - b. in der Regel die Interkantonale Polizeischule Hitzkirch mit Erfolg absolviert hat.
@@ -235,8 +234,8 @@ beschliesst:
 - a. …
 - b. Kriminalpolizei,
 - c. Sicherheits- und Verkehrspolizei,
-- d. Technik und Logistik,
-- e. Stab,
+- d. Kommandoabteilung,
+- e. Finanzen und Controlling,
 - f. Human Resources Management,
 - g. Planung und Einsatz,
 - h. Verwaltungspolizei.
@@ -282,10 +281,10 @@ beschliesst:
   - 5\. Dagmersellen: Dagmersellen, Altishofen
   - 6\. Reiden: Reiden, Wikon
 - g. Polizeiregion Willisau mit folgenden Postenkreisen und zugeteilten Gemeinden:
-  - 1\. Willisau: Willisau, Hergiswil, Menznau
+  - 1\. Willisau: Willisau, Altbüron, Fischbach, Grossdietwil, Hergiswil, Luthern, Menznau, Ufhusen, Zell
   - 2\. Pfaffnau: Pfaffnau, Roggliswil
   - 3\. Schötz: Schötz, Alberswil, Egolzwil, Ettiswil, Nebikon, Wauwil
-  - 4\. Zell: Zell, Altbüron, Fischbach, Grossdietwil, Luthern, Ufhusen
+  - 4\. …
   - 5\. Ruswil: Ruswil, Buttisholz, Grosswangen
   - 6\. Wolhusen: Wolhusen, Werthenstein
 - h. Polizeiregion Entlebuch mit folgenden Postenkreisen und zugeteilten Gemeinden:
