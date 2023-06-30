@@ -4,24 +4,23 @@ number: "952.300"
 title: Verordnung betreffend die ausnahmsweise Zufahrt in die Innenstadt
 short: Zufahrtsverordnung
 language: de
-version: 2020-07-01
-valid_until: 2023-06-30
-version_adopted: 2020-05-05
+version: 2023-07-01
+version_adopted: 2023-06-27
 adopted: 2013-08-13
 in_force: 2014-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/952.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5497/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5951/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend die ausnahmsweise Zufahrt in die Innenstadt
 
-Zufahrt in die Innenstadt: Verordnung | Strassenverkehr
+Strassenverkehr
 
 (Zufahrtsverordnung)
 
-Vom 13. August 2013 (Stand 1. Juli 2020)
+Vom 13. August 2013 (Stand 1. Juli 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -173,6 +172,8 @@ beschliesst:
 **Entzug**
 
 <sup>1</sup> Wurde eine Bewilligung oder eine Berechtigung mit unwahren Angaben erschlichen oder missbräuchlich verwendet, erfolgt der entschädigungslose Entzug.
+
+<sup>2</sup> Die Bewilligung oder Berechtigung wird mit einer Sperrfrist von drei, im Wiederholungsfalle von sechs Monaten entzogen, wenn sie missbräuchlich verwendet wurde.
 
 #### § 11
 
