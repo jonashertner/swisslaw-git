@@ -3,13 +3,12 @@ canton: BS
 number: BaB 162.110
 title: Reglement zur Anstellungsordnung
 language: de
-version: 2023-01-01
-valid_until: 2023-06-30
-version_adopted: 2022-09-27
+version: 2023-07-01
+version_adopted: 2023-05-30
 adopted: 1999-01-12
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20162.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5665/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5919/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5665/pdf_file"
 
 Gemeindepersonal
 
-Vom 12. Januar 1999 (Stand 1. Januar 2023)
+Vom 12. Januar 1999 (Stand 1. Juli 2023)
 
 Der Bürgerrat der Stadt Basel erlässt in Ausführung von § 28 der Ordnung betreffend die Anstellungsverhältnisse bei der Bürgergemeinde der Stadt Basel (Anstellungsordnung, AO) vom 28. April 1998[^ingress-1] folgendes Reglement:
 
@@ -411,7 +410,7 @@ Bürgerliches Waisenhaus
 - a) Eigene Heirat — 3 Tage
 - b) Heirat von Töchtern, Söhnen, Geschwistern oder Grosskindern — bis 2 Tage
 - c) Niederkunft der Lebenspartnerin (Vaterschaftsurlaub) — 10 Tage
-- d) Adoptionsurlaub — 5 Tage
+- d) Adoptionsurlaub — 10 Tage
 - e) unvorhergesehene Betreuungsengpässe von nahen Angehörigen oder eines Familienmitglieds mit gesundheitlicher Beeinträchtigung, sofern es an der notwendigen Betreuung fehlt — max. 3 Tage pro Ereignis, max. 10 Tage pro Jahr
 - f) Todesfall von Lebenspartnerin oder Lebenspartner, Kindern, Eltern, Schwiegereltern, Geschwistern oder von Personen, die im gleichen Haushalt gelebt haben — bis 4 Tage
 - g) und gegebenenfalls für die Zeit der Aufnahme des Nachlassinventars — 1/2 bis 1 Tag
