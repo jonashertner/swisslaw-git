@@ -3,20 +3,19 @@ canton: ZG
 number: "417.1"
 title: Sportgesetz
 language: de
-version: 2020-12-05
-valid_until: 2023-06-30
-version_adopted: 2020-12-01
+version: 2023-07-01
+version_adopted: 2023-01-26
 adopted: 2002-08-29
 in_force: 2003-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/417.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2176/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2426/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Sportgesetz
 
-Vom 29. August 2002 (Stand 5. Dezember 2020)
+Vom 29. August 2002 (Stand 1. Juli 2023)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -103,11 +102,11 @@ beschliesst:
 
 #### § 10
 
-**Sport-Toto-Anteil**
+**Sportfonds-Anteil**
 
-<sup>1</sup> Der Regierungsrat verwendet den Sport-Toto-Anteil für die Förderung des Breitensports, zur Unterstützung der Tätigkeit von Verbänden und Vereinen und für Beiträge an Sportinfrastruktur und Sportmaterial.
+<sup>1</sup> Der Regierungsrat verwendet den Sportfonds-Anteil für die Förderung des Breitensports, zur Unterstützung der Tätigkeit von Verbänden und Vereinen und für Beiträge an Sportinfrastruktur und Sportmaterial.
 
-<sup>2</sup> Er führt einen zweckgebundenen Sport-Toto-Fonds.
+<sup>2</sup> Der Regierungsrat führt einen zweckgebundenen Sportfonds.
 
 #### § 11
 
