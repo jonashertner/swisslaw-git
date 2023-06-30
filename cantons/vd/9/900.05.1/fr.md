@@ -4,7 +4,7 @@ number: "900.05.1"
 title: RÈGLEMENT du 03.02.2016 d’application de la loi du 12 juin 2007 sur l’appui au développement économique pour les subventions aux projets régionaux (RLADEPR)
 short: RLADEPR
 language: fr
-version: 2017-01-01
+version: 2023-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05.1?id=b21192a8-6139-4632-b3c4-8416dcbaa2ab"
 ---
 
@@ -49,21 +49,20 @@ arrête
 
 **Application de la loi sur les subventions [^2-1]**
 
-<sup>1</sup> Les subventions accordées au titre du présent règlement sont soumises aux articles 13 à 35 de la loi du 22 février 2005 sur les subventions[^3-1] , fixant les dispositions directement applicables aux subventions.
+<sup>1</sup> Les subventions accordées au titre du présent règlement sont soumises à la loi du 22 février 2005 sur les subventions.
 
-[^2-1]: Modif. 1 du 16.08.2023: Modification Al. 1; entrée en vigueur au 01.07.2023; Introduction Art. 4, Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 5, Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3, a-b; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 4-5; entrée en vigueur au 01.07.2023; Introduction Art. 25, Al. 2; entrée en vigueur au 01.07.2023
-[^3-1]: Loi du 22.02.2005 sur les subventions ([BLV 610.15](https://prestations.vd.ch/pub/blv-publication/actes/consolide/610.15?id=83269e93-101d-4436-b84c-6232d5f7c73f))
+[^2-1]: Modif. 1 du 16.08.2023: Modification Al. 1; entrée en vigueur au 01.07.2023
 
 #### Art. 4
 
-**Dépôt de la demande [^3-2]**
+**Dépôt de la demande [^3-1]**
 
 <sup>1</sup> Le demandeur adresse aux organismes régionaux concernés une demande motivée, comprenant notamment :
 
 - a. son identité, accompagnée de ses statuts, de ses comptes de pertes et profits et bilan des 3 derniers exercices, à l'exception des communes qui en sont dispensées ;
 - b. un descriptif du projet ainsi que des objectifs qualitatifs et quantitatifs visés par celui-ci ;
 - c. le coût estimatif du projet et le financement prévu, accompagné de la liste des subventions, aides et crédits reçus par le demandeur ou en cours d'examen ainsi que l'entité qui les octroie ;
-- d. l'engagement écrit de respecter les conventions collectives de travail ou les usages locaux ;
+- d. l'engagement écrit de respecter les conventions collectives de travail ou les usages locaux, ainsi que les exigences minimales de durabilité de l'Etat de Vaud ;
 - e. pour les infrastructures, la décision de l'organe du demandeur habilité à décider de la réalisation du projet, ou la preuve d'une décision imminente ;
 - f. un état d'avancement des procédures ;
 - g. lorsque cela s'avère pertinent, un plan d'affaires comprenant le budget d'exploitation et un plan de trésorerie pour au moins 3 années ; et
@@ -77,7 +76,9 @@ arrête
 
 <sup>5</sup> Les organismes régionaux informent le demandeur de la date de dépôt de la demande auprès du service.
 
-[^3-2]: Modif. 1 du 16.08.2023: Modification Al. 1, d; entrée en vigueur au 01.07.2023; Introduction Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 5, Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3, a-b; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 4-5; entrée en vigueur au 01.07.2023; Introduction Art. 25, Al. 2; entrée en vigueur au 01.07.2023
+<sup>6</sup> Le service peut imposer des modèles de formulaires.
+
+[^3-1]: Modif. 1 du 16.08.2023: Modification Al. 1, d; entrée en vigueur au 01.07.2023; Introduction Al. 6; entrée en vigueur au 01.07.2023
 
 #### Art. 5
 
@@ -92,8 +93,8 @@ arrête
 - a. la vérification de la contribution du projet aux but et principes de la LADE au sens des articles 1 et 2 de celle-ci, sa cohérence avec la politique d'appui au développement économique et avec les stratégies régionales ;
 - b. une appréciation qualitative, quantitative et financière du projet et du demandeur ;
 - c. la définition des résultats attendus pendant et après la réalisation du projet ainsi qu'une proposition d'indicateurs qualitatifs et/ou quantitatifs de suivi de l'atteinte des résultats ;
-- d. pour les infrastructures, une analyse du projet sous l'angle du développement durable ;
-- e. pour les manifestations, une présentation des mesures qui seront prises sous l'angle du développement durable ;
+- d. pour les infrastructures, une analyse de la durabilité du projet avec un outil approprié (Boussole21 ou une démarche équivalente) ;
+- e. pour les manifestations, une présentation des mesures de durabilité qui seront prises en s'appuyant sur un outil approprié pour l'organisation de manifestations responsable et durable ;
 - f. la description des risques inhérents au projet et les éventuelles mesures à prendre pour les atténuer ;
 - g. la justification d'une éventuelle demande de subvention au titre de la loi fédérale du 6 octobre 2006 sur la politique régionale (ci-après : LPR)[^5-2] ; et
 - h. une proposition du montant, du taux et les éventuelles conditions pour une subvention au sens de la LADE et de la loi fédérale du 6 octobre 2006 sur la politique régionale.
@@ -102,7 +103,9 @@ arrête
 
 <sup>5</sup> Il tient à jour une liste d'exemples d'indicateurs au sens de l'alinéa 3, lettre c qu'il met à disposition des organismes régionaux et peut imposer les indicateurs nécessaires au reporting cantonal et fédéral.
 
-[^4-1]: Modif. 1 du 16.08.2023: Introduction Art. 4, Al. 6; entrée en vigueur au 01.07.2023; Modification Al. 3, d-e; entrée en vigueur au 01.07.2023; Introduction Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3, a-b; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 4-5; entrée en vigueur au 01.07.2023; Introduction Art. 25, Al. 2; entrée en vigueur au 01.07.2023
+<sup>6</sup> Pour garantir la qualité de l'analyse de la durabilité et l'amélioration des projets, le service peut financer des prestations de coaching en faveur des organismes régionaux.
+
+[^4-1]: Modif. 1 du 16.08.2023: Modification Al. 3, d-e; entrée en vigueur au 01.07.2023; Introduction Al. 6; entrée en vigueur au 01.07.2023
 [^5-1]: Loi du 12.06.2007 sur l'appui au développement économique ( [BLV 900.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05?id=933da471-4e8b-4f69-b509-c7769f3baeb4))
 [^5-2]: Loi fédérale du 06.10.2006 sur la politique régionale (RS 901.0)
 
@@ -129,12 +132,18 @@ arrête
 
 <sup>1</sup> Le service est habilité à demander tout document et information complémentaires utiles à l'examen de la demande.
 
-<sup>2</sup> Il procède systématiquement à une consultation formelle et en temps opportun des services particulièrement concernés par le projet. Un préavis négatif du service, confirmé par le département particulièrement concerné, exclut l'octroi, par le département ou le service, d'une aide financière fondée sur la LADE[^7-1] .
+<sup>2</sup> Il procède systématiquement, en temps opportun, à une consultation formelle des services particulièrement concernés par le projet.
 
-<sup>3</sup> Le résultat de l'examen par le service et de la consultation des services et départements ainsi que les préavis régionaux sont soumis à l'autorité compétente pour l'octroi de la subvention, accompagné d'une proposition de décision.
+<sup>3</sup> Pour les infrastructures :
 
-[^6-1]: Modif. 1 du 16.08.2023: Introduction Art. 4, Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 5, Al. 6; entrée en vigueur au 01.07.2023; Modification Al. 2-3; entrée en vigueur au 01.07.2023; Introduction Al. 3, a-b; entrée en vigueur au 01.07.2023; Introduction Al. 4-5; entrée en vigueur au 01.07.2023; Introduction Art. 25, Al. 2; entrée en vigueur au 01.07.2023
-[^7-1]: Loi du 12.06.2007 sur l'appui au développement économique ( [BLV 900.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05?id=933da471-4e8b-4f69-b509-c7769f3baeb4))
+- a. le résultat de l'analyse de la durabilité est intégré à la consultation ;
+- b. pour les projets à fort impact en termes de développement durable, le service peut procéder à cette consultation par le biais d'un groupe de travail interservices.
+
+<sup>4</sup> Un préavis négatif d'un service consulté, confirmé par son département de tutelle, exclut l'octroi, par le département ou le service en charge de la promotion économique, d'une aide financière fondée sur la LADE.
+
+<sup>5</sup> Le résultat de l'examen par le service et de la consultation des services et départements, ainsi que les préavis régionaux, sont soumis à l'autorité compétente pour l'octroi de la subvention, accompagné d'une proposition de décision, comprenant notamment les charges et conditions conformément à l'article 37 LADE.
+
+[^6-1]: Modif. 1 du 16.08.2023: Modification Al. 2-3; entrée en vigueur au 01.07.2023; Introduction Al. 3, a-b; entrée en vigueur au 01.07.2023; Introduction Al. 4-5; entrée en vigueur au 01.07.2023
 
 #### Art. 8
 
@@ -306,7 +315,7 @@ arrête
 - a. Conditions liées au projet :
 - 1\. création particulièrement importante de valeur ajoutée ou d'emplois dans la région ;
 - 2\. importance pour le maintien du positionnement du bénéficiaire sur un marché dominant dans l'économie de la région, ou son entrée sur un marché assurant une diversification économique dans la région ;
-- 3\. localisation dans le périmètre d'impact de la LPR[^25-1] ;
+- 3\. ...
 - 4\. non-distorsion de concurrence avec des projets similaires ;
 - 5\. caractère prioritaire en regard des disponibilités budgétaires
 - b. Conditions liées au bénéficiaire :
@@ -315,8 +324,9 @@ arrête
 - 3\. faible impact de l'exploitation de l'infrastructure sur le cash-flow ;
 - 4\. vraisemblable difficulté à rembourser un prêt.
 
-[^24-3]: Modif. 1 du 16.08.2023: Introduction Art. 4, Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 5, Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3, a-b; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 4-5; entrée en vigueur au 01.07.2023; Abrogation Al. 1, a, 3; entrée en vigueur au 01.07.2023; Introduction Al. 2; entrée en vigueur au 01.07.2023
-[^25-1]: Loi du 12.06.2007 sur l'appui au développement économique ( [BLV 900.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05?id=933da471-4e8b-4f69-b509-c7769f3baeb4))
+<sup>2</sup> En dérogation à l'alinéa 1, les aides visant à soutenir l'achat, la réalisation, la rénovation et la transformation d'infrastructures de nature durable du tourisme régional (« tourisme 4-saisons »), au sens du décret du 27 juin 2023 accordant au Conseil d'Etat un crédit-cadre de 50 millions de francs pour la période 2023-2026, visant à renforcer le soutien de l'Etat aux infrastructures à vocation touristique, peuvent être accordées sous forme d'aides à fonds perdu sitôt qu'une analyse spécifique a démontré la durabilité du projet.
+
+[^24-3]: Modif. 1 du 16.08.2023: Abrogation Al. 1, a, 3; entrée en vigueur au 01.07.2023; Introduction Al. 2; entrée en vigueur au 01.07.2023
 
 ## Chapitre VI Soutien à l'abaissement du prix de vente ou de location de terrain en zone industrielle (art. 24a LADE)
 
