@@ -1,55 +1,67 @@
 ---
 canton: TG
 number: "832.12"
-title: Verordnung des Regierungsrates zur eidgenössischen Verordnung über die Einschränkung der Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
-short: VEZL
+title: Verordnung über die Einschränkung der Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
+short: TG VEZL
 language: de
-version: 2014-06-01
-valid_until: 2023-06-30
-version_adopted: 2014-05-27
+version: 2023-07-01
+valid_until: 2025-06-30
+version_adopted: 2023-06-20
 adopted: 2026-01-19
 in_force: 2026-02-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/832.12"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2281/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2831/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zur eidgenössischen Verordnung über die Einschränkung der Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
+# Verordnung über die Einschränkung der Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
 
-RRV Einschränkung zur Tätigkeit oblig. Krankenpflegeversicherung
+TG VEZL
 
-vom 05.08.2013 (Stand 01.06.2014)
+(TG VEZL)
+
+vom 20.06.2023 (Stand 01.07.2023)
 
 #### § 1
 
-**Geltungsbereich**
+**Geltungsbereich[^1-1]**
 
-<sup>1</sup> Der Einschränkung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung unterliegen die in Art. 1 Abs. 1 der eidgenössischen Verordnung[^1-1] aufgeführten selbständig und unselbständig tätigen Leistungserbringer.
+<sup>1</sup> Diese Verordnung bestimmt für den ambulanten Bereich, in welchen medizinischen Fachgebieten Höchstzahlen für ärztliche Leistungserbringer und Leistungserbringerinnen gemäss Art. 35 Abs. 2 lit. a, lit. h und lit. n des Bundesgesetzes über die Krankenversicherung (KVG)[^1-2] gelten.
 
-<sup>1<sup>bis</sup></sup> Von der Zulassungsbeschränkung ausgenommen sind unselbständig tätige Leistungserbringer in den Fachbereichen Allgemeine Innere Medizin und Pädiatrie.
+<sup>2</sup> Leistungserbringer und Leistungserbringerinnen werden zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung zugelassen, sofern im entsprechenden Fachgebiet die Höchstzahl nach Anhang nicht erreicht wird.
 
-<sup>2</sup> Generell ausgenommen sind Ärzte und Ärztinnen im stationären und ambulanten Bereich von Spitälern nach Art. 39 des Bundesgesetzes über die Krankenversicherung[^1-2].
+<sup>3</sup> Von der Beschränkung ausgenommen sind Ärzte und Ärztinnen, die sich in Weiterbildung in einem Fachgebiet gemäss Anhang befinden.
 
-[^1-1]: SR [832.103](https://db.clex.ch/link/Bund/832.103/de)
+[^1-1]: Diese Verordnung ist gemäss RRB Nr. 346 vom 20. Juni 2023 S. 3 befristet bis zum 30. Juni 2025.
 [^1-2]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
 #### § 2
 
-**Ausnahmen**
+**Warteliste**
 
-<sup>1</sup> Das Departement für Finanzen und Soziales kann von den in den Anhängen 1 und 2 der eidgenössischen Verordnung pro Fachbereich festgelegten Höchstzahlen abweichen, wenn unter Berücksichtigung der lokalen oder regionalen Versorgungslage sowie nach Massgabe von Art. 5 der eidgenössischen Verordnung ein ausgewiesener Bedarf nach zusätzlichen Leistungserbringern eines Fachbereichs besteht.
+<sup>1</sup> Das Amt für Gesundheit führt eine Warteliste je Fachgebiet gemäss Anhang, in der die Zulassungsgesuche, die die Höchstzahl übersteigen, nach der Reihenfolge ihres Eingangsdatums erfasst werden.
+
+<sup>2</sup> Wird die Höchstzahl unterschritten, erfolgt die Zulassungserteilung nach der Reihenfolge auf der Warteliste.
+
+<sup>3</sup> Die Tätigkeit ist ab Zulassungserteilung in der Regel innerhalb von drei Monaten aufzunehmen. Wird die Zulassung nicht benützt, verfällt sie.
 
 #### § 3
 
-**Kantonswechsel**
+**Bestandesschutz und Übertragung**
 
-<sup>1</sup> Die Zulassungsbeschränkung gilt auch für Ärzte und Ärztinnen, die in einem andern Kanton zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung zugelassen sind.
+<sup>1</sup> Zugelassene Leistungserbringer und Leistungserbringerinnen können zum Zeitpunkt des Inkrafttretens dieser Verordnung bestehende Stellen neu besetzen, sofern das Total ihrer Stellenprozente im beschränkten Fachgebiet nicht überschritten wird.
+
+<sup>2</sup> Bestehende Zulassungen können zum Zwecke eines Stellenwechsels eines zugelassenen Leistungserbringers oder einer zugelassenen Leistungserbringerin oder einer Praxisübergabe auf einen anderen Leistungserbringer oder eine Leistungserbringerin gemäss Art. 35 Abs. 2 lit. a, lit. h und lit. n KVG übertragen werden.
+
+<sup>3</sup> Nicht beanspruchte Stellenprozente gemäss Abs. 1 und Abs. 2 verfallen in der Regel innerhalb von sechs Monaten.
+
+<sup>4</sup> Der Nachweis darüber, dass im Falle einer Neubesetzung oder einer Übertragung keine zusätzlichen Stellenprozente geschaffen werden oder die bestehenden Stellenprozente innerhalb von sechs Monaten genutzt werden, obliegt den Leistungserbringern und Leistungserbringerinnen.
 
 #### § 4
 
-**Inkraftsetzung**
+**Meldepflicht**
 
-<sup>1</sup> Diese Verordnung tritt auf den 1. September 2013 in Kraft.
+<sup>1</sup> Leistungserbringer und Leistungserbringerinnen mit Zulassung in einem Fachgebiet gemäss Anhang melden dem Amt für Gesundheit unverzüglich den Verzicht auf eine Zulassung oder anhaltende Reduktionen von Stellenprozenten.
 
-32/2013
+25/2023
