@@ -3,28 +3,28 @@ canton: BL
 number: "144.12"
 title: Dienstordnung der Bau- und Umweltschutzdirektion
 language: de
-version: 2022-04-01
-valid_until: 2023-06-30
-version_adopted: 2022-02-22
+version: 2023-07-01
+valid_until: 2023-12-31
+version_adopted: 2023-06-27
 adopted: 2018-10-23
 in_force: 2019-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/144.12"
-pdf: "https://bl.clex.ch/api/de/versions/3261/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3712/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung der Bau- und Umweltschutzdirektion
 
-Vom 23.10.2018 (Stand 01.04.2022)
+Vom 23.10.2018 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 20 Abs. 4 und § 24 des Gesetzes vom 28. September 2017[^ingress-1] über die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Landschaft (Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft, RVOG BL),
+gestützt auf das Gesetz über die Organisation des Regierungsrats und der Verwaltung des Kantons Basel-Landschaft (Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft, RVOG BL) vom 28. September 2017[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: [SGS 140](https://bl.clex.ch/data/140/de/art20)
+[^ingress-1]: [SGS 140](https://bl.clex.ch/data/140/de)
 
 ## 1 Die Direktion
 
@@ -32,7 +32,7 @@ beschliesst:
 
 **Gliederung der Direktion**
 
-<sup>1</sup> Die Gliederung der Direktion in Dienststellen richtet sich nach § 7 der Verordnung vom 19. Dezember 2017[^1-1] zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft.
+<sup>1</sup> Die Gliederung der Direktion in Dienststellen richtet sich nach § 7 der Verordnung zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft vom 19. Dezember 2017[^1-1].
 
 [^1-1]: [SGS 140.11](https://bl.clex.ch/data/140.11/de/art7)
 
@@ -52,7 +52,7 @@ beschliesst:
 
 <sup>6</sup> In Verwaltungsbelangen wird die Direktionsvorsteherin oder der Direktionsvorsteher von der Generalsekretärin oder vom Generalsekretär vertreten; dies gilt auch für fachliche Routineentscheide der Direktion und für Mitberichte.
 
-<sup>7</sup> Die in den Fachbereich der Direktion fallenden Beteiligungen werden von den jeweils fachlich zuständigen Bereichen verwaltet. Die Abteilung Wirtschaft und Finanzen des Generalsekretariats ist für die Umsetzung des Gesetzes vom 15. Juni 2017[^2-1] über die Beteiligungen verantwortlich und koordiniert die Aufgaben innerhalb der Direktion.
+<sup>7</sup> Die in den Fachbereich der Direktion fallenden Beteiligungen werden von den jeweils fachlich zuständigen Bereichen verwaltet. Die Abteilung Wirtschaft und Finanzen des Generalsekretariats ist für die Umsetzung des Gesetzes über die Beteiligungen vom 15. Juni 2017[^2-1] verantwortlich und koordiniert die Aufgaben innerhalb der Direktion.
 
 [^2-1]: [SGS 314](https://bl.clex.ch/data/314/de)
 
@@ -148,6 +148,7 @@ beschliesst:
   - 2\. Abteilung Wirtschaft und Finanzen;
   - 3\. Abteilung Zentrale Beschaffungsstelle;
   - 4\. administrativ zugeordnetes Aktuariat der Baurekurskommission;
+  - 5\. Abteilung Digitale Transformation.
 - b. Prozesse, bestehend aus folgenden Abteilungen:
   - 1\. Abteilung Kommunikation;
   - 2\. Abteilung Personal;
@@ -178,7 +179,8 @@ beschliesst:
 - f. die Koordination, Bearbeitung von Sachdossiers und Unterstützung der Direktion sowie der Dienststellen im Personalwesen, soweit die Aufgaben nicht vom Dienstleistungszentrum in der Finanz- und Kirchendirektion wahrgenommen werden, die Koordination im Berufsbildungswesen und der Geschäftsverkehr mit dem Personalamt des Kantons;
 - g. die Beschaffung, Wartung, Weiterentwicklung und Projektierung der direktionsinternen Fachapplikationen, soweit dies nicht von der Zentralen Informatik der Finanz- und Kirchendirektion wahrgenommen wird, die Kundenvertretung gegenüber der Zentralen Informatik, die Verantwortlichkeit für die Verfügbarkeit und die Qualitätssicherung der Geobasisdaten in der Direktion und deren Einspielung ins kantonale GeoDataWarehouse;
 - h. …
-- i. umfassende Beratung, Unterstützung und Mitwirkung in allen Phasen des Beschaffungsprozesses der Direktion sowie der anderen Direktionen der kantonalen Verwaltung, insbesondere in der Entwicklung, Überwachung und Durchführung der Prozessabläufe in der kantonalen Verwaltung.
+- i. umfassende Beratung, Unterstützung und Mitwirkung in allen Phasen des Beschaffungsprozesses der Direktion sowie der anderen Direktionen der kantonalen Verwaltung, insbesondere in der Entwicklung, Überwachung und Durchführung der Prozessabläufe in der kantonalen Verwaltung;
+- j. Umsetzung der Digitalen Transformation und der entsprechenden Organisationsentwicklung in der gesamten Direktion.
 
 <sup>3</sup> Dem nur administrativ der Direktion zugeordneten Aktuariat der Baurekurskommission obliegen namentlich die Beschwerdeinstruktion zuhanden der Baurekurskommission, deren Beratung, die Redaktion von Verfügungen und Entscheiden und die Vertretung der Baurekurskommission vor weiteren Rechtsmittelinstanzen, sofern sie abweichend von ihrer Vorinstanz entschieden hat.
 
@@ -186,7 +188,7 @@ beschliesst:
 
 **Fachführung**
 
-<sup>1</sup> In den Fachbereichen Kommunikation, Recht, Wirtschaft und Finanzen, Rechnungswesen, Personal, Informatik sowie Beschaffungswesen obliegt die Fachführung für die ganze Direktion den entsprechenden Abteilungen des Generalsekretariats.
+<sup>1</sup> In den Fachbereichen Kommunikation, Recht, Wirtschaft und Finanzen, Rechnungswesen, Personal, Informatik, Beschaffungswesen sowie Digitale Transformation obliegt die Fachführung für die ganze Direktion den entsprechenden Abteilungen des Generalsekretariats.
 
 <sup>2</sup> Die in Abs. 1 aufgeführten Stellen sind berechtigt, in den genannten Fachbereichen den anderen Dienststellen Anweisungen zu erteilen und Fachaufsicht auszuüben.
 
@@ -198,7 +200,8 @@ beschliesst:
 - c<sup>bis</sup>. das Rechnungswesen mit Hauptbuch, Kreditoren-, Debitorenrechnung und Anlagebuchhaltung der gesamten Direktion durch die Abteilung Rechnungswesen geführt wird;
 - d. für die gesamte Direktion sämtliche Neu- und Wiederbesetzungen, die Stellenausschreibungen sowie die Anstellungen von Mitarbeiterinnen und Mitarbeitern, die Funktionsänderungen, die Personalentscheide, die Personalentwicklung, die Berufsbildung und die Personalplanung über die Abteilung Personal der Direktion zu koordinieren und abzuwickeln sind. Bei Arbeitsverträgen, die nicht von der Direktionsvorsteherin oder vom Direktionsvorsteher mitunterzeichnet werden, erfolgt die Zweitunterschrift durch die Abteilung Personal; die Dienststellen unterbreiten über ihre Bereichsleitung Anträge auf Leistungsprämien und Stufenanstiege der stellvertretenden Generalsekretärin oder dem stellvertretenden Generalsekretär zum Entscheid;
 - e. der Einkauf, die Lagerung und Wartung sowie die Installation von EDV-Material sowohl im Hardware- wie im Softwarebereich der vorgängigen Zustimmung der Informatikabteilung bedarf, die auch rechtzeitig in alle Projekte mit EDV-relevanten Aspekten miteinzubeziehen ist und bei Bedarf die Evaluation von Informatikmitteln koordiniert. Ausnahmen werden von der Direktion gewährt;
-- f. die zentrale Beschaffung der notwendigen Infrastruktur und die Festlegung der Schnittstellen und Verantwortlichkeiten in der Zusammenarbeit und Umsetzung von Beschaffungsverfahren mit den ausschreibenden Stellen und den Beauftragten durch die Zentrale Beschaffungsstelle erfolgt.
+- f. die zentrale Beschaffung der notwendigen Infrastruktur und die Festlegung der Schnittstellen und Verantwortlichkeiten in der Zusammenarbeit und Umsetzung von Beschaffungsverfahren mit den ausschreibenden Stellen und den Beauftragten durch die Zentrale Beschaffungsstelle erfolgt;
+- g. Projekte der Digitalen Transformation ausschliesslich mit vorgängiger Zustimmung der Abteilung Digitale Transformation geplant und umgesetzt werden dürfen.
 
 ### 2.2 Amt für Industrielle Betriebe
 
@@ -238,7 +241,7 @@ beschliesst:
 
 <sup>1</sup> Die Dienststellenleiterin oder der Dienststellenleiter als Kantonsplanerin oder als Kantonsplaner führt das Amt für Raumplanung. Sie oder er bildet zusammen mit der Stellvertreterin oder dem Stellvertreter und der verantwortlichen Person für die administrativen Belange der Dienststelle die Amtsleitung.
 
-<sup>2</sup> Das Amt für Raumplanung, dem gemäss Vereinbarung vom 21. September 1993[^15-1] über die Organisation und die Führung der Regionalplanung beider Basel auch die Regionalplanungsstelle beider Basel (RPS) als Stabstelle zugeordnet ist, gliedert sich in folgende funktionale Einheiten:
+<sup>2</sup> Das Amt für Raumplanung, dem gemäss Vereinbarung über die Organisation und die Führung der Regionalplanung beider Basel vom 21. September 1993[^15-1] auch die Regionalplanungsstelle beider Basel (RPS) als Stabstelle zugeordnet ist, gliedert sich in folgende funktionale Einheiten:
 
 - a. Rauminformation (Stabstelle);
 - b. Regionalplanungsstelle beider Basel (Stabstelle);
@@ -346,7 +349,7 @@ beschliesst:
 - h. Fachprüfung im eigenen Kompetenzbereich im Falle von Stockwerkeigentumsbegründungen, Behandlung bau- und zonenrechtlicher Probleme und Grundstückmutationen im Rahmen der entsprechenden Prüfungsverfahren;
 - i. Behandlung von Anfragen und Aufträgen, die nicht im Zusammenhang mit hängigen Baugesuchsverfahren stehen;
 - j. Katalogisierung und Archivierung der Baugesuche;
-- k. Instruktion der Entscheide der Bau- und Umweltschutzdirektion betreffend die Zonenkonformität von Vorhaben ausserhalb Baugebiet und betreffend die Erteilung von Ausnahmebewilligungen gemäss Art. 24 ff. des eidg. Raumplanungsgesetzes vom 22. Juni 1979[^20-1] (RPG);
+- k. Instruktion der Entscheide der Bau- und Umweltschutzdirektion betreffend die Zonenkonformität von Vorhaben ausserhalb Baugebiet und betreffend die Erteilung von Ausnahmebewilligungen gemäss Art. 24 ff. des eidg. Raumplanungsgesetzes (RPG) vom 22. Juni 1979[^20-1];
 - l. Federführung bei der Vertretung der kantonalen Baubewilligungsbehörde vor der Baurekurskommission und bei Entscheidbestätigung vor Kantonsgericht und vor Bundesgericht;
 - m. Instruktion der Entscheide der Bau- und Umweltschutzdirektion betreffend Zwangsvollzugskosten in Baubewilligungssachen des Bauinspektorats;
 - n. Umsetzung, Organisation, Begleitung und Kontrolle von Zwangsvollzugsmassnahmen in Baubewilligungssachen nach Urteil der Zwangsvollstreckungsbehörden.
@@ -414,7 +417,7 @@ beschliesst:
 
 <sup>1</sup> Das Lufthygieneamt beider Basel ist administrativ der Bau- und Umweltschutzdirektion unterstellt, fachlich gemeinsam der Bau- und Umweltschutzdirektion des Kantons Basel-Landschaft und dem Departement für Wirtschaft, Soziales und Umwelt des Kantons Basel-Stadt.
 
-<sup>2</sup> Die Gründung und der Betrieb des Lufthygieneamts beider Basel basieren auf der Vereinbarung vom 21. Mai 1985[^23-1] über das Lufthygieneamt beider Basel, welche auch vorsieht, dass die Aufgaben und die Organisation in einer gemeinsam zu erlassenden Dienstordnung festgelegt werden. Es wird auf diese Dienstordnung verwiesen.[^23-2]
+<sup>2</sup> Die Gründung und der Betrieb des Lufthygieneamts beider Basel basieren auf der Vereinbarung über das Lufthygieneamt beider Basel vom 21. Mai 1985[^23-1], welche auch vorsieht, dass die Aufgaben und die Organisation in einer gemeinsam zu erlassenden Dienstordnung festgelegt werden. Es wird auf diese Dienstordnung verwiesen.[^23-2]
 
 [^23-1]: [SGS 144.6](https://bl.clex.ch/data/144.6/de)
 [^23-2]: [SGS 144.61](https://bl.clex.ch/data/144.61/de)
