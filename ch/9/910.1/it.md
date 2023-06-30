@@ -4,11 +4,11 @@ title: "Legge federale del 29 aprile 1998 sull'agricoltura (Legge sull'agricoltu
 short: LAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: it
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230101/it"
 
 (Legge sull’agricoltura, LAgr)
 
-del 29 aprile 1998 (Stato 1° gennaio 2023)
+del 29 aprile 1998 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -2648,10 +2648,10 @@ Al fine di ripristinare la situazione legale possono inoltre essere prese le mis
 
 <sup>1</sup> Chiunque usa illecitamente una denominazione d’origine protetta o un’indicazione geografica protetta secondo l’articolo 16 oppure una classificazione o designazione secondo l’articolo 63 è punito a querela di parte con una pena detentiva sino a un anno o con una pena pecuniaria. In materia di classificazione e designazione secondo l’articolo 63, il diritto di querela spetta anche all’organo di controllo designato dal Consiglio federale secondo l’articolo 64 capoverso 4 e agli organi di controllo istituiti dai Cantoni.
 
-<sup>2</sup> Chi agisce per mestiere è perseguito d’ufficio. È punito con una pena detentiva sino a cinque anni o con una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.[^172-2]
+<sup>2</sup> Chi agisce per mestiere è perseguito d’ufficio. È punito con una pena detentiva sino a cinque anni o con una pena pecuniaria. ...[^172-2]
 
 [^172-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^172-2]: Per. introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^172-2]: Terzo per. introdotto dal n. I della LF del 22 mar. 2013 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)). Abrogato dal n. I 33 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 173
 

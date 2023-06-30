@@ -4,11 +4,11 @@ title: "Loi fédérale du 29 avril 1998 sur l'agriculture (Loi sur l'agriculture
 short: LAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: fr
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230101/fr"
 
 (Loi sur l’agriculture, LAgr)
 
-du 29 avril 1998 (Etat le 1<sup>er</sup> janvier 2023)
+du 29 avril 1998 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -2645,10 +2645,10 @@ En vue du rétablissement d’une situation conforme au droit, les mesures suppl
 
 <sup>1</sup> Celui qui utilise illicitement une appellation d’origine ou une indication géographique protégées en vertu de l’art. 16 ou encore un classement ou une désignation visés à l’art. 63 est, sur plainte, puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire. L’organe de contrôle désigné par le Conseil fédéral en vertu de l’art. 64, al. 4, et les organes de contrôle institués par les cantons ont également le droit de porter plainte en matière de classement et de désignation visés à l’art. 63.
 
-<sup>2</sup> Celui qui agit par métier est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.[^172-2]
+<sup>2</sup> Celui qui agit par métier est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. … [^172-2]
 
 [^172-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 6027](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^172-2]: Phrase introduite par le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^172-2]: Phrase introduite par le ch. I de la LF du 22 mars 2013 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)). Abrogée par le ch. I 33 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 173
 
@@ -2998,7 +2998,7 @@ Le Conseil fédéral désigne une commission consultative permanente composée d
 
 <sup>3</sup>
 
-Lors de la formulation des objectifs et stratégies visés à l’al. 2, il faut en particulier tenir compte :
+Lors de la formulation des objectifs et stratégies visés à l’al. 2, il faut en particulier tenir compte:
 
 - a. des objectifs environnementaux pour l’agriculture;
 - b. des recommandations et directives internationales;

@@ -4,11 +4,11 @@ title: "Lescha federala dals 29 d'avrigl 1998 davart l'agricultura (Lescha d'agr
 short: LAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: rm
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230701-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha d’agricultura, LAgr)
 
-dals 29 d’avrigl 1998 (versiun dal 1. da schaner 2023)
+dals 29 d’avrigl 1998 (versiun dal 1. da fanadur 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -2592,7 +2592,7 @@ En cas da cuntravenziuns cunter questa lescha, cunter sias disposiziuns executiv
 - e. bloccada da la furniziun, da la consegna e da l’utilisaziun;
 - f. execuziun d’uffizi sin custs da la persuna che ha violà las disposiziuns e las decretaziuns sco er da l’organisaziun incaricada da las incumbensas;
 - g. sequestraziun;
-- h.[^169-1] adossament d’in import fin maximalmain 10 000 francs.
+- h.[^169-1] adossament d’in import da maximalmain 10 000 francs.
 
 <sup>2</sup> Sche products vegnan mess en circulaziun illegalmain u sche contribuziuns vegnan pretendidas u retratgas illegalmain, po vegnir incassà in import che correspunda maximalmain al retgav brut dals products mess en circulaziun illegalmain u a l’import da las contribuziuns pretendidas u retratgas illegalmain.[^169-2]
 
@@ -2652,12 +2652,12 @@ Per restabilir il stadi legal pon vegnir prendidas supplementarmain las suandant
 
 **Delicts e crims**[^172-1]
 
-<sup>1</sup> Tgi che dovra illegalmain ina denominaziun d’origin protegida u ina indicaziun geografica protegida tenor l’artitgel 16 u ina classificaziun u designaziun tenor l’artitgel 63, vegn chastià sin dumonda cun in chasti da detenziun fin ad 1 onn u cun in chasti pecuniar. En quai che concerna la classificaziun e la designaziun tenor l’artitgel 63 han il dretg da pretender in chasti er ils organs da controlla ch’èn incumbensads dal Cussegl federal tenor l’artitgel 64 alinea 4 sco er quels ch’èn nominads dals chantuns.
+<sup>1</sup> Tgi che dovra illegalmain ina denominaziun d’origin protegida u ina indicaziun geografica protegida tenor l’artitgel 16 u ina classificaziun u designaziun tenor l’artitgel 63, vegn chastià sin dumonda cun in chasti da detenziun da fin 1 onn u cun in chasti pecuniar. En quai che concerna la classificaziun e la designaziun tenor l’artitgel 63 han il dretg da pretender in chasti er ils organs da controlla ch’èn incumbensads dal Cussegl federal tenor l’artitgel 64 alinea 4 sco er quels ch’èn nominads dals chantuns.
 
-<sup>2</sup> Tgi che agescha da professiun, vegn persequità d’uffizi. Il chastì è in chasti da detenziun fin a 5 onns u in chasti pecuniar. Cun il chasti da detenziun sto vegnir pronunzià er in chasti pecuniar.[^172-2]
+<sup>2</sup> Tgi che agescha da professiun, vegn persequità d’uffizi. Il chastì è in chasti da detenziun da fin 5 onns u in chasti pecuniar. …[^172-2]
 
 [^172-1]: Versiun tenor la cifra I da la LF dals 22 da zer. 2007, en vigur dapi il 1. da schan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^172-2]: Integrà la terza frasa tras la cifra I da la LF dals 22 da mars 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^172-2]: Integrà la terza frasa tras la cifra I da la LF dals 22 da mars 2013, ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)). Terza frasa abolida tras la cifra I 33 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 173
 
@@ -2665,7 +2665,7 @@ Per restabilir il stadi legal pon vegnir prendidas supplementarmain las suandant
 
 <sup>1</sup>
 
-Premess ch’il malfatg na vegnia betg smanatschà cun in chasti pli grev tenor in’autra prescripziun, vegn chastià cun multa fin a 40 000 francs tgi che:[^173-1]
+Premess ch’il malfatg na vegnia betg smanatschà cun in chasti pli grev tenor in’autra prescripziun, vegn chastià cun multa da fin 40 000 francs tgi che:[^173-1]
 
 - a.[^173-2] violescha u usurpescha l’apparientscha cuminaivla che la Confederaziun ha fixà tenor l’artitgel 12 alinea 3;
 - a<sup>bis</sup>.[^173-3] cuntrafa a las prescripziuns da designaziun decretadas u renconuschidas tenor ils artitgels 14 alinea 1 literas a–c, e ed f sco er 15;
@@ -2691,11 +2691,11 @@ Premess ch’il malfatg na vegnia betg smanatschà cun in chasti pli grev tenor 
 - n. na fa betg las indicaziuns tenor l’artitgel 164;
 - o. n’ademplescha betg l’obligaziun da dar infurmaziuns tenor l’artitgel 183.
 
-<sup>2</sup> Tgi che agescha per negligientscha, vegn chastià cun ina multa fin a 10 000 francs.
+<sup>2</sup> Tgi che agescha per negligientscha, vegn chastià cun ina multa da fin 10 000 francs.
 
 <sup>3</sup>
 
-Premess ch’il malfatg na vegnia betg smanatschà cun in chasti pli grev tenor in’autra prescripziun, vegn chastià cun multa fin a 5000 francs tgi che:
+Premess ch’il malfatg na vegnia betg smanatschà cun in chasti pli grev tenor in’autra prescripziun, vegn chastià cun multa da fin 5000 francs tgi che:
 
 - a.[^173-15] ...
 - b. cuntrafa ad ina disposiziun executiva, da la quala il surpassament è vegnì declerà sco chastiabel.
@@ -2987,7 +2987,7 @@ Il Cussegl federal nominescha ina cumissiun consultativa permanenta da maximalma
 
 **Disposiziun transitorica da la midada dals 22 da zercladur 2007**[^187c-1]
 
-<sup>1</sup> Vins da l’annada 2007 e d’annadas pli veglias pon vegnir elavurads e designads tenor il dretg vertent. Els dastgan vegnir vendids als consuments fin che las reservas èn exaustas.
+<sup>1</sup> Vins da l’annada 2007 e d’annadas pli veglias pon vegnir elavurads e designads tenor il dretg vertent. Els dastgan vegnir vendids als consuments, fin che las reservas èn exaustas.
 
 <sup>2</sup> ...[^187c-2]
 

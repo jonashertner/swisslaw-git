@@ -4,11 +4,11 @@ title: "Federal Act of 29 April 1998 on Agriculture (Agriculture Act, AgricA)"
 short: AgricA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: en
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,11 +19,11 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Agriculture Act, AgricA)
 
-of 29 April 1998 (Status as of 1 January 2023)
+of 29 April 1998 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
-based on Articles 45, 46 paragraph 1, 102–104, 120, 123 and 147 of the Federal Constitution[^ingress-1],[^ingress-2]
+based on Articles 45, 46 paragraph 1, 102–104, 120, 123 and 147 of the Federal Constitution[^ingress-1]<sup>,</sup>[^ingress-2]
 
 and having considered the Federal Council Dispatch dated 26 June 1996[^ingress-3],
 
@@ -2656,10 +2656,10 @@ In order to restore the lawful position, the following measures may be taken in 
 
 <sup>1</sup> Any person who unlawfully uses a designation of origin or a geographical indication protected under Article 16 or a classification or label under Article 63 shall on complaint be liable to a custodial sentence not exceeding one year or to a monetary penalty. In relation to classification and labelling under Article 63, monitoring agencies mandated by the Federal Council under Article 64 paragraph 4 and used by the cantons also have the right to file a complaint.
 
-<sup>2</sup> Any person suspected of committing an offence for commercial gain shall be prosecuted *ex officio*, and shall be liable to a custodial sentence not exceeding five years or a monetary penalty. A custodial sentence must be combined with a monetary penalty.[^172-2]
+<sup>2</sup> Any person suspected of committing an offence for commercial gain shall be prosecuted *ex officio*, and shall be liable to a custodial sentence not exceeding five years or a monetary penalty. …[^172-2]
 
 [^172-1]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^172-2]: Third sentence inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^172-2]: Sentence inserted by No I of the FA of 22 March 2013 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)). Repealed by No I 33 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Police, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 173
 

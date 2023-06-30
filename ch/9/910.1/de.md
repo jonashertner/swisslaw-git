@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 29. April 1998 über die Landwirtschaft (Landwirtschaft
 short: LwG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: de
-version: 2023-01-01
+version: 2023-07-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230101/de"
 
 (Landwirtschaftsgesetz, LwG)
 
-vom 29. April 1998 (Stand am 1. Januar 2023)
+vom 29. April 1998 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -2652,10 +2652,10 @@ Zur Wiederherstellung des rechtmässigen Zustandes können zusätzlich folgende 
 
 <sup>1</sup> Wer eine geschützte Ursprungsbezeichnung oder eine geschützte geografische Angabe nach Artikel 16 oder eine Klassierung oder Kennzeichnung nach Artikel 63 widerrechtlich verwendet, wird auf Antrag mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft. Bezüglich der Klassierung und Kennzeichnung nach Artikel 63 steht das Antragsrecht auch dem vom Bundesrat nach Artikel 64 Absatz 4 beauftragten sowie den durch die Kantone eingesetzten Kontrollorganen zu.
 
-<sup>2</sup> Wer gewerbsmässig handelt, wird von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.[^172-2]
+<sup>2</sup> Wer gewerbsmässig handelt, wird von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. …[^172-2]
 
 [^172-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^172-2]: Dritter Satz eingefügt durch Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^172-2]: Dritter Satz eingefügt durch Ziff. I des BG vom 22. März 2013 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)). Aufgehoben durch Ziff. I 33 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 173
 
