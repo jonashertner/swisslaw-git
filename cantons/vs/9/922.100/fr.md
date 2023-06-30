@@ -4,13 +4,13 @@ number: "922.100"
 title: "Règlement d'exécution de la loi sur la chasse"
 short: RexChP
 language: fr
-version: 2022-07-08
-corrected: 2022-07-26
-version_adopted: 2022-06-28
+version: 2023-07-01
+valid_until: 2024-06-30
+version_adopted: 2023-06-14
 adopted: 2021-06-16
 in_force: 2021-06-25
 url: "https://lex.vs.ch/app/fr/texts_of_law/922.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3049/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3221/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3049/pdf_file"
 
 (RexChP)
 
-du 16.06.2021 (état 08.07.2022)
+du 16.06.2021 (état 01.07.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -33,25 +33,25 @@ arrête:[^ingress-1]
 
 [^ingress-1]: Dans le présent règlement, toute désignation de personne, de statut ou de fonction, vise indifféremment l'homme ou la femme.
 
-## 1 Examen de capacité
+## 1 Formation et examens des candidats chasseurs
 
 #### Art. 1
 
 **Principe**
 
-<sup>1</sup> Pour obtenir le permis de chasse, le candidat doit suivre une formation théorique et pratique obligatoire d’une durée de 2 ans, puis réussir un examen écrit et oral, ainsi qu'un examen de tir à la carabine et au fusil.
+<sup>1</sup> Pour obtenir le permis de chasse, le candidat doit suivre une formation pratique et théorique obligatoire et réussir un examen de tir ainsi qu’un examen théorique (ci-après : formation).
 
-<sup>2</sup> Aucun permis de chasse ne peut être délivré à une personne dont il y a lieu de craindre qu'en possession d'une arme elle puisse l'utiliser d'une manière dangereuse pour elle-même ou pour autrui.
+<sup>2</sup> L’accès à la formation et la délivrance d’un permis de chasse n’est pas possible pour les personnes ne remplissant pas les conditions d’obtention du permis de chasse selon l’article 13 LcChP.
 
 <sup>3</sup> La responsabilité de la formation obligatoire incombe au Service de la chasse, de la pêche et de la faune (ci-après: SCPF), qui peut déléguer à la Fédération valaisanne des sociétés de chasse (ci-après: FVSC) tout ou partie de l'organisation des cours et examens nécessaires.
 
-<sup>4</sup> En cas d'échec à l'examen, le candidat n'est pas tenu de suivre à nouveau les cours de formation.
+<sup>4</sup> …
 
 #### Art. 2
 
 **Formation**
 
-<sup>1</sup> La formation s'étend sur 2 ans au minimum.
+<sup>1</sup> La formation s'étend sur 2 ans.
 
 <sup>2</sup> Le programme de la première année consiste en une formation pratique de 50 heures au moins portant notamment sur les matières suivantes:
 
@@ -59,11 +59,11 @@ arrête:[^ingress-1]
 - b) la connaissance de l'environnement, de la biodiversité et de l'écologie;
 - c) la connaissance et l'utilisation des chiens de chasse et de rouge;
 - d) le tir, la connaissance et la manipulation des armes;
-- e) des travaux d'utilité, définis de cas en cas par le SCPF, pour un maximum de 10 heures.
+- e) des travaux d'utilité, approuvés par le SCPF, pour un maximum de 10 heures.
 
-<sup>3</sup> La commission d'examen fixe le nombre minimum d'heures de formation à suivre dans les différents modules pour être admis aux examens. Le candidat qui a manqué une journée de formation pour des motifs impérieux, peut la remplacer par une journée de rattrapage organisée par le SCPF.
+<sup>3</sup> La commission d'examen fixe le nombre minimum d'heures de formation à suivre dans les différents modules pour être admis aux examens. Le candidat qui a manqué une journée de formation pour des motifs impérieux, peut la remplacer par une journée de rattrapage approuvée par le SCPF.
 
-<sup>4</sup> Le programme de la deuxième année comprend un cours théorique, avec une fréquentation minimale de 7 jours. L'instruction porte notamment sur:
+<sup>4</sup> Le programme de la deuxième année consiste en une formation théorique, avec une fréquentation minimale de 7 jours de cours. L'instruction porte notamment sur:
 
 - a) la législation relative à la chasse et à la protection des mammifères et oiseaux sauvages, ainsi que sur les législations connexes;
 - b) l'éthique de la chasse, la biodiversité et l'écologie;
@@ -73,25 +73,25 @@ arrête:[^ingress-1]
 - f) les armes et les munitions de chasse;
 - g) les maladies du gibier et les dommages aux cultures.
 
-<sup>5</sup> Le SCPF est compétent pour exclure de la formation un candidat dont le comportement perturbe le bon déroulement des cours ou qui démontre un désintérêt manifeste pour l'enseignement dispensé. Cette procédure intervient sur rapport écrit d'un instructeur. L'exclusion ne donne pas droit au remboursement de l'émolument de formation et d'examen.
+<sup>5</sup> Le SCPF est compétent pour exclure de la formation un candidat pour de justes motifs.
 
 #### Art. 3
 
 **Stands de tir**
 
-<sup>1</sup> Les entraînements et les examens de tir sont organisés sur des stands de tirs déterminés par le SCPF dans les différentes régions du canton.
+<sup>1</sup> Les entraînements et les examens de tir sont organisés sur des stands de tirs déterminés par le SCPF.
 
 <sup>2</sup> Le SCPF peut prévoir un tournus entre les stands de tirs agréés.
 
 #### Art. 4
 
-**Inscription aux cours de formation**
+**Inscription à la formation**
 
 <sup>1</sup> Celui qui requiert son inscription aux cours de formation doit être âgé d'au moins 18 ans révolus au 31 décembre de l'année en cours et ne pas réaliser un motif de refus du permis selon l’article 13 LcChP.
 
 <sup>2</sup> L'inscription doit être accomplie au plus tard le 1<sup>er</sup> octobre de l'année en cours.
 
-<sup>3</sup> L'inscription n'est valable que pour une période de 2 ans tant pour la formation pratique que théorique. Passé ce délai, une nouvelle inscription est obligatoire.
+<sup>3</sup> L'inscription est valable pour la prochaine session de formation. Il ne peut s’écouler plus de 5 ans entre le premier cours suivi et la réussite de l’examen théorique. Passé ce délai, une nouvelle inscription est nécessaire et le candidat doit répéter l’entier de la formation.
 
 #### Art. 5
 
@@ -101,28 +101,28 @@ arrête:[^ingress-1]
 
 <sup>2</sup> L'examen comporte:
 
-- a) une épreuve de tir avec une arme à canon rayée et une arme à canon lisse au terme de la formation pratique;
-- b) un examen théorique, écrit et oral, au terme de la deuxième année de formation.
+- a) un examen de tir au terme de la première année de formation;
+- b) un examen théorique au terme de la deuxième année de formation.
 
-<sup>3</sup> Celui qui obtient un résultat insuffisant aux épreuves du tir n'est pas autorisé à poursuivre sa formation.
+<sup>3</sup> Les résultats de l’examen de tir et l’examen théorique sont dissociés. Celui qui obtient un résultat insuffisant à l'examen de tir n'est pas autorisé à poursuivre sa formation.
 
-<sup>4</sup> Celui qui échoue à l’examen théorique est dispensé de refaire l’épreuve du tir dans le délai de quatre ans.
+<sup>4</sup> Celui qui échoue à l’examen théorique est dispensé de refaire l’épreuve du tir dans le délai de 4 ans.
 
 <sup>5</sup> Dès le deuxième échec à l'examen théorique, le candidat peut demander d'effectuer la totalité de l'examen par oral. Cet examen est organisé lors des sessions ordinaires.
 
-<sup>6</sup> Dès le deuxième échec à l'examen de tir, le candidat peut demander à effectuer le tir seul. Cet examen personnel, organisé hors d'une session ordinaire, exige la disponibilité d'une cible équipée de système électronique avec une imprimante affichant le résultat.
+<sup>6</sup> Dès le deuxième échec à l'examen de tir, le candidat peut demander à effectuer le tir seul. Cet examen personnel est organisé à la suite d'une session ordinaire.
 
 #### Art. 6
 
 **Sessions d'examens et inscriptions à l'examen**
 
-<sup>1</sup> L'examen théorique a lieu au printemps. L'épreuve de tir est organisée à raison de deux sessions par année, une en automne et une au printemps.
+<sup>1</sup> L'examen de tir a lieu à la fin de la première année de formation. Un examen de tir de rattrapage est organisé avant le début de la deuxième année de formation. L'examen théorique a lieu à la fin de la deuxième année de formation.
 
 <sup>2</sup> Le candidat est réputé inscrit à l'examen pour la session qui suit chaque période de formation, sauf avis contraire de sa part signifié au SCPF 15 jours avant la session. Le SCPF décide des exceptions pour de justes motifs.
 
-<sup>3</sup> Le candidat qui ne se présente pas à l'examen ou qui a subi un échec peut se réinscrire auprès du SCPF, au plus tard dans les 30 jours qui précèdent une nouvelle session et s'acquitter dans le même délai de la taxe prescrite.
+<sup>3</sup> Le candidat qui ne se présente pas à l'examen ou qui a subi un échec peut se réinscrire auprès du SCPF, au plus tard dans les 30 jours qui précèdent une nouvelle session d'examen et s'acquitter dans le même délai de l'émolument fixé.
 
-<sup>4</sup> Le candidat qui échoue aux épreuves de tir a la possibilité de refaire ces examens lors de la même session. Si cette deuxième tentative se solde par un échec, il doit se présenter à une nouvelle session, selon les modalités définies à l'alinéa 3 ci-dessus.
+<sup>4</sup> Le candidat qui échoue aux épreuves de tir a la possibilité de refaire l'épreuve lors de la même session et doit s'acquitter de l'émolument fixé. Si cette deuxième tentative se solde par un échec, il doit se présenter à une nouvelle session d'examen, selon les modalités définies à l'alinéa 3 ci-dessus.
 
 #### Art. 7
 
@@ -130,9 +130,9 @@ arrête:[^ingress-1]
 
 <sup>1</sup> Une commission d'examen est nommée par le Conseil d'Etat pour la période administrative, comprenant un groupe pour le Valais romand et un groupe pour le Haut-Valais. Cette commission présidée par le chef du service ou par son remplaçant se réunit au minimum une fois tous les 5 ans. Elle a notamment pour tâches:
 
-- a) de fixer les conditions des épreuves de tir, des examens écrits et oraux, le nombre de questions à poser et le barème des points pour les différentes épreuves;
+- a) de fixer les conditions des examens, le nombre de questions à poser et le barème des points pour les différentes épreuves;
 - b) de déterminer le nombre de points à obtenir pour la réussite des examens;
-- c) d'apprécier les travaux des candidats et d'attribuer les notes.
+- c) d'évaluer les examens des candidats et d'attribuer les notes.
 
 <sup>2</sup> Les prescriptions d'examen découlant des lettres a et b de l'alinéa 1 ci-devant sont communiquées d'avance aux candidats.
 
@@ -329,7 +329,7 @@ arrête:[^ingress-1]
 
 **Contrôle**
 
-<sup>1</sup> Tout chasseur doit être porteur de son permis ou d'une pièce d'identité valable et de son carnet de contrôle ou un document similaire (ci-après: carnet de contrôle). Sur réquisition du surveillant de la faune, il est tenu de fournir tous les renseignements relatifs au tir d'un animal ou à son matériel de chasse.
+<sup>1</sup> Tout chasseur doit être porteur de son permis ou d'une pièce d'identité valable et de son carnet de contrôle ou un document similaire (ci-après: carnet de contrôle).
 
 <sup>2</sup> Sur réquisition du surveillant de la faune, il est tenu de fournir tous les renseignements relatifs au tir d'un animal ou à son matériel de chasse.
 
@@ -418,13 +418,13 @@ arrête:[^ingress-1]
 
 <sup>5</sup> Les instruments d'optique tels que les jumelles, longues-vues, lunettes de visée et télémètres sont autorisés.
 
-<sup>5<sup>bis</sup></sup> Pendant les 24 heures du jour de chasse autorisé, la détention et l'utilisation des instruments d'optique à visée nocturne ou thermique, des appareils électroniques de reproduction du son pour attirer les animaux, des appareils produisant des électrochocs, des sources lumineuses artificielles, des miroirs ou autres objets éblouissants ainsi que des dispositifs de visée laser ou de visée nocturne et combinaisons d’appareils de fonction comparable ainsi qu’aéronefs civils sans occupant, en particulier drones, sont interdites pour le chasseur et tout accompagnant.
+<sup>5<sup>bis</sup></sup> Pendant les 24 heures du jour de chasse autorisé, la détention et l'utilisation des instruments d'optique à vision nocturne ou thermique, des appareils électroniques de reproduction du son pour attirer les animaux, des appareils produisant des électrochocs, des sources lumineuses artificielles, des miroirs ou autres objets éblouissants ainsi que des dispositifs de visée laser ou de visée nocturne et combinaisons d’appareils de fonction comparable ainsi qu’aéronefs civils sans occupant, en particulier drones, sont interdites pour le chasseur et tout accompagnant.
 
 <sup>6</sup> La création ou l'utilisation de miradors à des fins de chasse est interdite.
 
 <sup>7</sup> Durant l'exercice de la chasse, l'utilisation de pièges photographiques est interdite.
 
-<sup>8</sup> La construction d'un poste fixe d'affût et son utilisation sont interdites. Le chasseur peut aménager un poste provisoire pour autant qu'il se serve exclusivement des matériaux disponibles sur place (sans recours à des clous ou des vis). Une bâche peut être utilisée uniquement pour une fonction de couverture contre les précipitations météorologiques. L'aménagement d'un tel poste ne donne aucune exclusivité sur son utilisation. Par contre la responsabilité de la remise en état des lieux après la chasse revient au chasseur qui a aménagé le poste; les dispositions applicables en matière de police des constructions sont en outre réservées.
+<sup>8</sup> La construction d'un poste fixe d'affût et son utilisation sont interdites. Sous réserve de dispositions contraires, il est interdit de prendre position et/ou de tirer depuis l’intérieur d’un bâtiment. Le chasseur peut aménager un poste provisoire pour autant qu'il se serve exclusivement des matériaux disponibles sur place (sans recours à des clous ou des vis). Une bâche peut être utilisée uniquement pour une fonction de couverture contre les précipitations météorologiques. L'aménagement d'un tel poste ne donne aucune exclusivité sur son utilisation. Par contre la responsabilité de la remise en état des lieux après la chasse revient au chasseur qui a aménagé le poste; les dispositions applicables en matière de police des constructions sont en outre réservées.
 
 <sup>9</sup> La mise en place et l'utilisation provisoires d'une tente de bivouac dans le terrain ouvert à la chasse sont autorisées, sous réserve du respect des autres exigences légales en la matière (forêt, aménagement du territoire, règlements communaux, etc.).
 
@@ -540,7 +540,7 @@ arrête:[^ingress-1]
 
 **Gibier protégé**
 
-<sup>1</sup> Sous réserve d'une disposition expresse dans l'arrêté périodique ou un avenant, les animaux suivants sont protégés: le mouflon, la chèvre de chamois allaitante, la chevrette allaitante et la laie allaitante, le cabri de chamois, la marmotte de l'année, ainsi que le gibier portant un collier émetteur ou un dispositif similaire.
+<sup>1</sup> Sous réserve d'une disposition expresse dans l'arrêté périodique ou un avenant, les animaux suivants sont protégés: le mouflon, la chèvre de chamois allaitante, la chevrette allaitante et la laie allaitante, le cabri de chamois, la marmotte de l'année, les bouquetins munis d'une marque auriculaire, ainsi que le gibier portant un collier émetteur ou un dispositif similaire.
 
 #### Art. 44
 
@@ -556,6 +556,7 @@ arrête:[^ingress-1]
   - 1\. tir d'une chèvre de chamois allaitante: — Fr. 300.-
   - 2\. tir d'un cabri de chamois: — Fr. 200.-
   - 3\. tir d'un éterle de chamois non autorisé: — Fr. 200.-
+  - 3<sup>bis</sup>. tir d’un chamois de 2,5 ans : — Fr. 200.-
   - 4\. erreur de tir sur la catégorie chamois lorsque le chasseur ne dispose plus du droit de tir correspondant: — Fr. 200.-
   - 5\. tir d'une chevrette allaitante: — Fr. 250.-
   - 6\. tir d'un faon de chevreuil: — Fr. 200.-
@@ -817,5 +818,15 @@ arrête:[^ingress-1]
 **Adaptations de dispositions et dispositions transitoires**
 
 <sup>1</sup> Dans un délai transitoire de 4 ans, dès l’entrée en vigueur du présent règlement d’exécution, afin de justifier de ses capacités à utiliser son arme avec efficience le chasseur doit présenter, au minimum tous les 2 ans, une attestation correspondant aux modalités fixées dans la directive du SCPF relative aux exercices périodiques de tir. Pour 2022, le chasseur qui n’a pas fourni d’attestation en 2021, doit impérativement faire valoir une attestation justifiant de ses compétences de tir pour la délivrance de son permis de chasse.
+
+## T2 Disposition transitoire de la modification du 14 juin 2023
+
+#### Art. T2-1
+
+**Adaptations de dispositions et dispositions transitoires**
+
+<sup>1</sup> Dans un délai transitoire de 4 ans, dès l’entrée en vigueur du présent règlement d’exécution, afin de justifier de ses capacités à utiliser son arme avec efficience le chasseur doit présenter, au minimum tous les 2 ans, une attestation correspondant aux modalités fixées dans la directive du SCPF relative aux exercices périodiques de tir. Pour 2023, le chasseur qui n’a pas fourni d’attestation en 2022, doit impérativement faire valoir une attestation justifiant de ses compétences de tir pour la délivrance de son permis de chasse. Dès 2025, le chasseur doit fournir annuellement une attestation correspondant à l'année civile.
+
+<sup>2</sup> Le délai transitoire pour l'utilisation de la cartouche à grenaille d'un diamètre de plus 4,5 millimètres est repoussé d'une année. L'interdiction de cette munition est effective à l'ouverture de l'exercice de la chasse 2024-2025.
 
 RCV RO/AGS 2021-075

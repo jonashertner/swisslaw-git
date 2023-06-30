@@ -4,13 +4,13 @@ number: "922.100"
 title: Ausführungsreglement zum Jagdgesetz
 short: ReKJSG
 language: de
-version: 2022-07-08
-corrected: 2022-07-26
-version_adopted: 2022-06-28
+version: 2023-07-01
+valid_until: 2024-06-30
+version_adopted: 2023-06-14
 adopted: 2021-06-16
 in_force: 2021-06-25
 url: "https://lex.vs.ch/app/de/texts_of_law/922.100"
-pdf: "https://lex.vs.ch/api/de/versions/3049/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3221/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3049/pdf_file"
 
 (ReKJSG)
 
-vom 16.06.2021 (Stand 08.07.2022)
+vom 16.06.2021 (Stand 01.07.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -33,65 +33,65 @@ beschliesst:[^ingress-1]
 
 [^ingress-1]: In diesem Reglement gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
 
-## 1 Jagdausbildung
+## 1 Ausbildung und Prüfung von Jungjägerkandidaten
 
 #### Art. 1
 
 **Grundsätze**
 
-<sup>1</sup> Zur Erlangung des Jagdpatentes hat der Kandidat nach Absolvierung der obligatorischen zweijährigen Ausbildung in Theorie und Praxis eine schriftliche und mündliche Eignungsprüfung sowie eine Schiessprüfung mit Büchse und Flinte zu bestehen.
+<sup>1</sup> Zur Erlangung des Jagdpatentes muss der Kandidat die obligatorische Ausbildung in Praxis und Theorie absolvieren sowie eine Schiessprüfung und eine Theorieprüfung bestehen (nachfolgend: Ausbildung).
 
-<sup>2</sup> Kein Jagdpatent darf einer Person ausgegeben werden, wenn diese zur Annahme Anlass gibt, dass sie sich selbst oder Dritte durch den Waffenbesitz gefährdet.
+<sup>2</sup> Die Zulassung zu der Ausbildung und die Ausgabe eines Jagdpatentes ist nicht möglich für Personen, welche die Bedingungen für den Erhalt eines Jagdpatentes im Sinne von Artikel 13 KJSG nicht erfüllen.
 
 <sup>3</sup> Die Dienststelle für Jagd, Fischerei und Wildtiere (nachfolgend: DJFW) ist für die obligatorische Ausbildung verantwortlich. Sie kann einen Teil oder die gesamte Durchführung der Ausbildung und der notwendigen Prüfungen an den Kantonalen Walliser Jägerverband (nachfolgend: KWJV) delegieren.
 
-<sup>4</sup> Wenn ein Kandidat die Prüfung nicht bestanden hat, ist er nicht verpflichtet, die Ausbildungskurse erneut zu besuchen.
+<sup>4</sup> …
 
 #### Art. 2
 
 **Ausbildung**
 
-<sup>1</sup> Die Ausbildung dauert mindestens 2 Jahre.
+<sup>1</sup> Die Ausbildung erstreckt sich über 2 Jahre.
 
-<sup>2</sup> Das Programm des ersten Jahres besteht in einer praktischen Ausbildung von mindestens 50 Stunden. Es beinhaltet namentlich folgende Themengebiete:
+<sup>2</sup> Das Programm des ersten Ausbildungsjahres besteht in einer praktischen Ausbildung von mindestens 50 Stunden. Es beinhaltet namentlich folgende Themengebiete:
 
-- a) Kenntnis der wildlebenden Tiere und deren Lebensräume;
-- b) Kenntnis der Umwelt, der Biodiversität und der Ökologie;
+- a) Kenntnis von Wildtieren und ihren Habitaten;
+- b) Kenntnis über die Umwelt, die Biodiversität und die Ökologie;
 - c) Kenntnis von Jagd- und Schweisshunden und deren praktischer Einsatz;
 - d) Schiessen, Waffenhandhabung und Waffenkenntnis;
-- e) nützliche, von der DJFW bestimmte Arbeiten, jedoch maximal 10 Stunden.
+- e) nützliche, von der DJFW bestimmte Arbeiten, im Umfang von maximal 10 Stunden.
 
 <sup>3</sup> Die Prüfungskommission legt die Mindeststundenzahl, welche in jedem Themengebiet für die Zulassung zur Prüfung geleistet werden muss, fest. Wer aus triftigen Gründen einen Ausbildungstag versäumt hat, kann diesen an einem von der DJFW organisierten zusätzlichen Ausbildungstag nachholen.
 
-<sup>4</sup> Das zweite Jahr umfasst eine theoretische Ausbildung von mindestens 7 Ausbildungstagen und enthält namentlich folgendes Ausbildungsprogramm:
+<sup>4</sup> Das zweite Ausbildungsjahr umfasst eine theoretische Ausbildung von mindestens 7 Ausbildungstagen und enthält namentlich folgendes Ausbildungsprogramm:
 
-- a) Jagdgesetzgebung über die Jagd und den Schutz wildlebender Säugetiere und Vögel und mit der Jagd in Verbindung stehende Gesetzgebungen;
-- b) Jagdethik, Biodiversität, Ökologie;
-- c) Kenntnis der wildlebenden Säugetiere, Vögel und deren Habitate;
+- a) Gesetzgebung über die Jagd und den Schutz wildlebender Säugetiere und Vögel sowie mit der Jagd in Verbindung stehende Gesetzgebungen;
+- b) Jagdethik, Biodiversität und Ökologie;
+- c) Kenntnis über wildlebende Säugetiere, Vögel und deren Habitate;
 - d) Jagdtechnik und Jagdpraxis;
 - e) Jagd- und Schweisshunde;
 - f) Jagdwaffen und -munition;
 - g) Wildtierkrankheiten und Wildschäden.
 
-<sup>5</sup> Ein Kandidat, der sich im Kurs in störender Weise aufführt oder das notwendige Interesse offensichtlich vermissen lässt, wird auf Bericht des jeweiligen Instruktors von der DJFW vom weiteren Kursbesuch ausgeschlossen. Der Kandidat hat im Falle eines Ausschlusses keinen Anspruch auf Rückerstattung der Einschreibegebühr.
+<sup>5</sup> Die DJFW ist ermächtigt, einen Kandidaten aus triftigen Gründen von der Ausbildung auszuschliessen.
 
 #### Art. 3
 
 **Schiessstände**
 
-<sup>1</sup> Die Trainings- und Prüfungsschiessen werden auf den von der DJFW in den verschiedenen Regionen bezeichneten Ständen durchgeführt.
+<sup>1</sup> Die Trainings- und Prüfungsschiessen werden auf den von der DJFW bezeichneten Ständen durchgeführt.
 
 <sup>2</sup> Die DJFW kann zwischen den hierfür anerkannten Ständen einen Turnus festlegen.
 
 #### Art. 4
 
-**Anmeldung zu den Ausbildungskursen**
+**Anmeldung zu der Ausbildung**
 
 <sup>1</sup> Wer sich für die Ausbildungskurse anmeldet, muss bis zum 31. Dezember des laufenden Jahres das 18. Altersjahr erfüllt haben und es darf kein Grund zur Verweigerung des Jagdpatentes im Sinne von Artikel 13 KJSG vorliegen.
 
 <sup>2</sup> Die Einschreibung muss bis spätestens am 1. Oktober des laufenden Jahres erfolgen.
 
-<sup>3</sup> Die Einschreibung ist sowohl für die praktische wie die theoretische Ausbildung nur für eine Dauer von 2 Jahren gültig. Nach Ablauf dieser Zeit ist eine neue Anmeldung erforderlich.
+<sup>3</sup> Die Einschreibung ist für die nächste Session gültig. Zwischen dem ersten besuchten Kurs und dem Bestehen der Theorieprüfung dürfen nicht mehr als 5 Jahre liegen. Nach Ablauf dieser Frist ist eine neue Anmeldung erforderlich und der Kandidat muss die gesamte Ausbildung wiederholen.
 
 #### Art. 5
 
@@ -101,28 +101,28 @@ beschliesst:[^ingress-1]
 
 <sup>2</sup> Die Prüfung umfasst:
 
-- a) eine Schiessprüfung mit Büchse und Flinte am Ende der praktischen Ausbildung;
-- b) eine schriftliche und mündliche Prüfung am Ende des zweiten Ausbildungsjahres.
+- a) eine Schiessprüfung am Ende des ersten Ausbildungsjahres;
+- b) eine Theorieprüfung am Ende des zweiten Ausbildungsjahres.
 
-<sup>3</sup> Wer bei den Schiessprüfungen ein ungenügendes Resultat erzielt, wird zur theoretischen Ausbildung nicht zugelassen.
+<sup>3</sup> Die Schiessprüfung und die Theorieprüfung sind resultatmässig nicht miteinander verknüpft. Wer bei den Schiessprüfungen ein ungenügendes Resultat erzielt, wird zur theoretischen Ausbildung nicht zugelassen.
 
-<sup>4</sup> Wer die theoretische Prüfung nicht bestanden hat, ist für vier Jahre von der Wiederholung der Schiessprüfung befreit.
+<sup>4</sup> Wer die Theorieprüfung nicht bestanden hat, ist für 4 Jahre von der Wiederholung der Schiessprüfung befreit.
 
-<sup>5</sup> Hat der Kandidat die theoretische Prüfung zweimal nicht bestanden, kann er das Gesuch stellen, die ganze Prüfung mündlich abzulegen. Diese Prüfung erfolgt während der ordentlichen Prüfungssession.
+<sup>5</sup> Hat der Kandidat die Theorieprüfung zweimal nicht bestanden, kann er das Gesuch stellen, die ganze Prüfung mündlich abzulegen. Diese Prüfung erfolgt während der ordentlichen Prüfungssession.
 
-<sup>6</sup> Hat ein Kandidat die Schiessprüfung zweimal nicht bestanden, kann er ein Gesuch stellen, um die Prüfung allein zu absolvieren. Die Einzel-Schiessprüfung erfolgt auf einer Polytronic-Scheibe mit automatischem Resultatausdruck, ausserhalb der ordentlichen Prüfungssession.
+<sup>6</sup> Hat ein Kandidat die Schiessprüfung zweimal nicht bestanden, kann er ein Gesuch stellen, um die Prüfung allein zu absolvieren. Die Einzel-Schiessprüfung erfolgt im Anschluss an eine ordentliche Prüfungssession.
 
 #### Art. 6
 
 **Prüfungssessionen und Einschreibung für die Prüfung**
 
-<sup>1</sup> Die theoretische Prüfung findet im Frühjahr statt. Die Schiessprüfung wird zweimal im Jahr organisiert; je einmal im Frühjahr und im Herbst.
+<sup>1</sup> Die Schiessprüfung findet am Ende des ersten Ausbildungsjahres statt. Eine Wiederholungsschiessprüfung wird vor Beginn des zweiten Ausbildungsjahres organisiert. Die Theorieprüfung findet am Ende des zweiten Ausbildungsjahres statt.
 
 <sup>2</sup> Der Kandidat gilt für die Prüfung des laufenden Jahres als eingeschrieben, wenn er sich nicht 15 Tage vorher abmeldet. Die DJFW entscheidet über Ausnahmen aus wichtigen Gründen.
 
-<sup>3</sup> Der Kandidat, der sich nicht zur Prüfung stellt oder der die Prüfung nicht bestanden hat, kann sich bis spätestens 30 Tage vor der neuen Prüfungssession erneut bei der DJFW anmelden. Innert derselben Frist ist auch die vorgeschriebene Einschreibegebühr zu entrichten.
+<sup>3</sup> Der Kandidat, der sich nicht zur Prüfung stellt oder der die Prüfung nicht bestanden hat, kann sich bis spätestens 30 Tage vor der neuen Prüfungssession erneut bei der DJFW anmelden. Innert derselben Frist ist auch die festgesetzte Einschreibegebühr zu entrichten.
 
-<sup>4</sup> Der Kandidat, der die Schiessprüfungen nicht besteht, hat die Möglichkeit, diese während der gleichen Session zu wiederholen. Besteht der Kandidat auch den zweiten Versuch nicht, so muss er an einer neuen Prüfungssession gemäss den Bestimmungen im vorangehenden Absatz 3 teilnehmen.
+<sup>4</sup> Der Kandidat, der die Schiessprüfungen nicht besteht, hat die Möglichkeit, diese während der gleichen Prüfungssession und gegen eine festgesetzte Gebühr zu wiederholen. Besteht der Kandidat auch den zweiten Versuch nicht, so muss er an einer neuen Prüfungssession gemäss den Bestimmungen im vorangehenden Absatz 3 teilnehmen.
 
 #### Art. 7
 
@@ -130,9 +130,9 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Eine für die laufende Verwaltungsperiode vom Staatsrat ernannte Prüfungskommission besteht aus einer Gruppe für das Unter- und einer für das Oberwallis. Diese vom Dienstchef oder seinem Stellvertreter präsidierte Kommission hält mindestens alle 5 Jahre eine Sitzung ab. Sie hat insbesondere folgende Aufgaben:
 
-- a) Festlegen der Bedingungen der Schiessprüfung; Vorbereitung der schriftlichen und mündlichen Prüfung; Festlegung der Anzahl Fragen und der Punktetabelle für die verschiedenen Prüfungen;
+- a) Festlegen der Prüfungsbedingungen; Festlegung der Anzahl Fragen und der Punktetabelle für die verschiedenen Prüfungen;
 - b) Festsetzung der Punktzahl, die der Kandidat erreichen muss, um die Prüfung zu bestehen;
-- c) Bewertung der Arbeit der Kandidaten und Notengebung.
+- c) Bewertung der Prüfung und Notengebung.
 
 <sup>2</sup> Die gemäss Absatz 1 Buchstaben a und b festgelegten Prüfungsbestimmungen werden den Kandidaten vorgängig mitgeteilt.
 
@@ -424,13 +424,13 @@ beschliesst:[^ingress-1]
 
 <sup>7</sup> Während der Jagdausübung ist die Verwendung von Wildtierkameras (Fotofallen) verboten.
 
-<sup>8</sup> Das Erstellen und Benutzen von festen Ansitzposten zu Jagdzwecken ist verboten. Der Jäger darf zur Errichtung eines vorübergehenden Postens nur das vor Ort vorhandene natürliche Material verwenden (ohne Einsatz von Nägeln und Schrauben). Eine Blache darf nur als Abdeckung zum Schutz vor Witterungseinflüssen verwendet werden. Die Errichtung eines solchen Postens gibt keinerlei Anrecht auf dessen exklusive Nutzung. Dagegen ist der Jäger, der diesen erstellt hat, zum Rückbau des Postens nach Abschluss der Jagd verpflichtet. Vorbehalten bleiben im Übrigen die baupolizeilichen Vorschriften.
+<sup>8</sup> Das Erstellen und Benutzen von festen Ansitzposten zu Jagdzwecken ist verboten. Unter Vorbehalt gegenteiliger Bestimmungen, ist die Benutzung eines Jagdpostens im Innern eines Gebäudes und/oder das Schiessen aus dem Innern eines Gebäudes verboten. Der Jäger darf zur Errichtung eines vorübergehenden Postens nur das vor Ort vorhandene natürliche Material verwenden (ohne Einsatz von Nägeln und Schrauben). Eine Blache darf nur als Abdeckung zum Schutz vor Witterungseinflüssen verwendet werden. Die Errichtung eines solchen Postens gibt keinerlei Anrecht auf dessen exklusive Nutzung. Dagegen ist der Jäger, der diesen erstellt hat, zum Rückbau des Postens nach Abschluss der Jagd verpflichtet. Vorbehalten bleiben im Übrigen die baupolizeilichen Vorschriften.
 
 <sup>9</sup> Das Mitführen und vorübergehende Aufstellen von Biwakzelten im freien Jagdgebiet ist gestattet. Vorbehalten bleiben andere diesbezügliche gesetzliche Bestimmungen (Forst, Raumplanung, Gemeindereglemente, usw.).
 
 #### Art. 33
 
-**Zugelassene Hunde**
+**Für die Ausübung der Jagd zugelassene Hunde**
 
 <sup>1</sup> Der Jäger darf bei der Ausübung der Jagd der verschiedenen Patentarten einen Hund aus einer von der Schweizerischen Kynologischen Gesellschaft zugelassenen Kategorie einsetzen und zwar:
 
@@ -442,7 +442,7 @@ beschliesst:[^ingress-1]
 
 <sup>2</sup> Der periodische Beschluss spezifiziert die besonderen Bestimmungen. Bestehen Zweifel über die Geeignetheit eines Hundes entscheidet die DJFW.
 
-<sup>3</sup> Um den bundesrechtlichen Bestimmungen der Tierschutzgesetzgebung zu entsprechen, muss jeder Hund über eine entsprechende Ausbildung und über alle erforderlichen Fähigkeiten für diejenige Jagdart verfügen, für welche er eingesetzt wird. Für den Einsatz bei der Nachsuche, der Jagd mit Vorstehhund, der Jagd auf Wasserwild (Apportieren), der Baujagd und der Spezialjagd auf Wildschweine werden von der DJFW nur Hunde anerkannt, die über einen Fähigkeitsnachweis des KWJV verfügen sowie die Prüfungen absolviert haben, die den Anforderungen des Reglements der Arbeitsgemeinschaft für das Jagdhundewesen (nachfolgend: AGJ) entsprechen und die von kynologischen Gesellschaften organisiert werden und von der AGJ validiert sind.
+<sup>3</sup> Um den bundesrechtlichen Bestimmungen der Tierschutzgesetzgebung zu entsprechen, muss jeder Hund über eine entsprechende Ausbildung und über alle erforderlichen Fähigkeiten für diejenige Jagdart verfügen, für welche er eingesetzt wird. Für den Einsatz bei der Nachsuche, der Jagd mit Vorstehhund, der Jagd auf Wasserwild (Apportieren), der Baujagd und der Spezialjagd auf Wildschweine werden von der DJFW nur Hunde anerkannt, die über einen Fähigkeitsnachweis des KWJV verfügen oder welche Prüfungen absolviert haben, die den Anforderungen des Reglements der Arbeitsgemeinschaft für das Jagdhundewesen (nachfolgend: AGJ) entsprechen und die von kynologischen Gesellschaften organisiert werden und von der AGJ validiert sind.
 
 <sup>4</sup> Auf schriftlichen Bericht eines Wildhüters kann die DJFW die Verwendung eines offensichtlich ungeeigneten Hundes verbieten. Gegebenenfalls kann dieses Verbot aufgehoben werden, wenn dessen Besitzer ein entsprechendes Attest über eine bestandene Prüfung, die die Geeignetheit bezeugt, vorlegt.
 
@@ -540,7 +540,7 @@ beschliesst:[^ingress-1]
 
 **Geschütztes Wild**
 
-<sup>1</sup> Unter Vorbehalt ergänzender Bestimmungen im periodischen Beschluss oder Nachtrag sind folgende Tiere geschützt: das Muffelwild, melke Gäms- und Rehgeissen, melke Bachen, Gämskitze, das Murmeltierkätzchen sowie Wild, das einen Halsbandsender oder ein funktionell gleichartiges Gerät trägt.
+<sup>1</sup> Unter Vorbehalt ergänzender Bestimmungen im periodischen Beschluss oder Nachtrag sind folgende Tiere geschützt: das Muffelwild, melke Gäms- und Rehgeissen, melke Bachen, Gämskitze, das Murmeltierkätzchen, mit Ohrmarken markiertes Steinwild sowie sämtliches Wild, das einen Halsbandsender oder ein funktionell gleichartiges Gerät trägt.
 
 #### Art. 44
 
@@ -556,6 +556,7 @@ beschliesst:[^ingress-1]
   - 1\. Abschuss einer melken Gämsgeiss: — Fr. 300.-
   - 2\. Abschuss eines Gämskitzes: — Fr. 200.-
   - 3\. Abschuss eines nicht erlaubten Gämsjährlings: — Fr. 200.-
+  - 3<sup>bis</sup>. Abschuss einer 2.5 jährigen Gämse — Fr. 200.-
   - 4\. Abschuss einer Gämse aus einer Kategorie, über die der Jäger nicht mehr verfügt: — Fr. 200.-
   - 5\. Abschuss einer melken Rehgeiss: — Fr. 250.-
   - 6\. Abschuss eines Rehkitzes: — Fr. 200.-
@@ -817,5 +818,13 @@ beschliesst:[^ingress-1]
 **Anpassungen der Bestimmungen und Übergangsbestimmungen**
 
 <sup>1</sup> Während einer Übergangsfrist von 4 Jahren ab Inkrafttreten dieses Ausführungsreglements muss der Jäger mindestens alle 2 Jahre einen Treffsicherheitsnachweis über die Befähigung zum effizienten Umgang mit seiner Waffe vorlegen, die den Anforderungen der DJFW gemäss der Richtlinie über periodische Schiessübungen entspricht. Für das Jahr 2022 muss der Jäger, der 2021 keinen Treffsicherheitsnachweis vorgelegt hat, für die Erteilung eines Patentes zwingend einen Treffsicherheitsnachweis vorlegen.
+
+## T2 Übergangsbestimmung der Änderung vom 14. Juni 2023
+
+#### Art. T2-1
+
+<sup>1</sup> Während einer Übergangsfrist von 4 Jahren ab Inkrafttreten dieses Ausführungsreglements muss der Jäger mindestens alle 2 Jahre einen Treffsicherheitsnachweis über die Befähigung zum effizienten Umgang mit seiner Waffe vorlegen, die den Anforderungen der DJFW gemäss der Richtlinie über periodische Schiessübungen entspricht. Für das Jahr 2023 muss der Jäger, der 2022 keinen Treffsicherheitsnachweis vorgelegt hat, für die Erteilung eines Patentes zwingend einen Treffsicherheitsnachweis vorlegen. Ab dem Jahr 2025 muss der Jäger jährlich einen Treffsicherheitsnachweis vorlegen, welcher vom entsprechenden Kalenderjahr datiert ist.
+
+<sup>2</sup> Die Übergangsfrist für das Verwenden von Schrotpatronen mit einem Durchmesser von mehr als 4,5 Millimetern wird um ein Jahr verlängert. Das Verbot dieser Munition tritt mit der Jagderöffnung 2024-2025 in Kraft.
 
 CSW RO/AGS 2021-075
