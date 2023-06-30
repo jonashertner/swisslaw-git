@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über Lebensmittel für Personen
 short: VLBE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/180"
 language: de
-version: 2021-05-31
+version: 2023-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20210531/de/xml/fedlex-data-admin-ch-eli-cc-2017-180-20210531-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20210531/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2017-180-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20210531/de"
 
 (VLBE)
 
-vom 16. Dezember 2016 (Stand am 31. Mai 2021)
+vom 16. Dezember 2016 (Stand am 1. Juli 2023)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 10 Absatz 4, 12 Absatz 3, 14 Absatz 1, 25 Absatz 2 und
 
 verordnet:
 
-[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -45,10 +45,10 @@ Lebensmittel für Personen mit besonderem Ernährungsbedarf werden in folgende K
 - b. Folgenahrung;
 - c. Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder;
 - d. Lebensmittel für besondere medizinische Zwecke;
-- e.[^2-1] Tagesrationen für eine gewichtskontrollierende Ernährung;
+- e.[^2-1] Lebensmittel für gewichtskontrollierende Ernährung;
 - f. Lebensmittel für Sportlerinnen und Sportler.
 
-[^2-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^2-1]: Fassung gemäss Ziff. I der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 #### Art. 3
 
@@ -79,8 +79,8 @@ Den Lebensmitteln nach Artikel 2 Buchstaben a–e dürfen folgende Stoffe und Ve
 
 <sup>7</sup> Die Stoffe nach Anhang 4 der Verordnung des EDI vom 16. Dezember 2016[^3-2] über den Zusatz von Vitaminen, Mineralstoffen und sonstigen Stoffen in Lebensmitteln (VZVM) sind verboten.[^3-3]
 
-[^3-1]: [SR 817.022.2](https://fedlex.data.admin.ch/eli/cc/2017/159)
-[^3-2]: [SR 817.022.32](https://fedlex.data.admin.ch/eli/cc/2017/161)
+[^3-1]: [SR 817.022.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9680)
+[^3-2]: [SR 817.022.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9684)
 [^3-3]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 #### Art. 4
@@ -93,7 +93,7 @@ Den Lebensmitteln nach Artikel 2 Buchstaben a–e dürfen folgende Stoffe und Ve
 
 <sup>3</sup> Alle obligatorischen Angaben sind in einer für Konsumentinnen und Konsumenten gut verständlichen Sprache zu verfassen.
 
-[^4-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^4-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ## 2. Kapitel: Lebensmittel für Säuglinge und Kleinkinder
 
@@ -129,7 +129,7 @@ Für Säuglingsanfangsnahrung gelten folgende Anforderungen:
   - 1\. falls sie auch als Zusatzstoffe verwendet werden können: die Reinheitskriterien nach Anhang 4 der Zusatzstoffverordnung vom 25. November 2013[^6-1] (ZuV);
   - 2\. falls sie nicht auch als Zusatzstoffe verwendet werden oder die Reinheitskriterien nach Anhang 4 ZuV nicht anwendbar sind: die anerkannten Reinheitskriterien von internationalen Stellen.
 
-[^6-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^6-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 #### Art. 7
 
@@ -208,7 +208,7 @@ Nährwert- und gesundheitsbezogene Angaben nach dem 12. Abschnitt LIV sind für 
 - c. der Hinweis «laktosefrei» für aus anderen Proteinquellen als Sojaproteinisolaten hergestellten Säuglingsanfangsnahrung, sofern ihm der Hinweis «für Säuglinge mit Galaktosämie nicht geeignet» beigefügt wird, und zwar in derselben Schriftgrösse und mit derselben Sichtbarkeit wie der Hinweis «laktosefrei» und in unmittelbarer Nähe dazu;
 - d. der Hinweis «enthält Docosahexaensäure (gesetzlich für Säuglingsanfangsnahrung vorgeschrieben)» oder «enthält DHA (gesetzlich für Säuglingsanfangsnahrung vorgeschrieben)».
 
-[^8-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^8-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 9
 
@@ -263,7 +263,7 @@ Für Folgenahrung gelten folgende Anforderungen:
   - 1\. falls sie auch als Zusatzstoffe verwendet werden können: die Reinheitskriterien nach Anhang 4 ZuV[^13-1];
   - 2\. falls sie nicht auch als Zusatzstoffe verwendet werden oder die Reinheitskriterien nach Anhang 4 ZuV nicht anwendbar sind: die anerkannten Reinheitskriterien von internationalen Stellen.
 
-[^13-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^13-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 #### Art. 14
 
@@ -296,7 +296,7 @@ Zusätzlich zu den Angaben nach Artikel 4 sind folgende Angaben auf dem Etikett 
 - d. die Warnung, dass eine unangemessene Zubereitung und Lagerung gesundheitsschädlich sein kann;
 - e.
 
-  eine Angabe wie „Wichtiger Hinweis“, gefolgt von:
+  eine Angabe wie «Wichtiger Hinweis», gefolgt von:
 
   - 1\. einem Hinweis, dass das Stillen der Verabreichung von Folgenahrung überlegen ist, und
   - 2\. der Empfehlung, das Erzeugnis nur auf den Rat unabhängiger Fachleute auf dem Gebiet der Medizin, der Ernährung, der Pharmazie oder der Säuglings- und Kleinkinderpflege zu verwenden.
@@ -355,7 +355,7 @@ Folgende Hinweise auf Laktose sind zulässig:
 - b. der Hinweis «laktosefrei», wenn der Laktoseanteil in dem Erzeugnis 2,5 mg/100 kJ (10 mg/100 kcal) nicht überschreitet;
 - c. der Hinweis «laktosefrei» für aus anderen Proteinquellen als Sojaproteinisolaten hergestellte Folgenahrung , sofern ihm der Hinweis «für Säuglinge mit Galaktosämie nicht geeignet» beigefügt wird, und zwar in derselben Schriftgrösse und mit derselben Sichtbarkeit wie der Hinweis «laktosefrei» und in unmittelbarer Nähe dazu.
 
-[^15-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^15-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 16
 
@@ -447,7 +447,7 @@ Zusätzlich zu den Angaben nach Artikel 4 muss das Etikett folgende Angaben und 
 
 <sup>4</sup> In verkaufsfertigen oder nach Anweisung der Herstellerin oder des Herstellers hergestellten Produkten dürfen Rückstände von Pflanzenschutzmitteln nicht in einer Menge enthalten sein, die 0,01 mg/kg je Wirkstoff übersteigt.
 
-### 5. Abschnitt:**** Anforderungen an Säuglingsanfangsnahrung und Folgenahrung bezüglich der Informationen zur Ernährung von Säuglingen und Kleinkindern
+### 5. Abschnitt: Anforderungen an Säuglingsanfangsnahrung und Folgenahrung bezüglich der Informationen zur Ernährung von Säuglingen und Kleinkindern
 
 [^chap2-sec5-1]
 
@@ -538,7 +538,7 @@ Zusätzlich zu den Angaben nach Artikel 4 sind auf dem Etikett folgende Angaben 
 
 - a. ein Hinweis, dass das Erzeugnis unter ärztlicher Aufsicht verwendet werden muss;
 - b. ein Hinweis, ob das Erzeugnis zur Verwendung als einzige Nahrungsquelle geeignet ist;
-- c. ein Hinweis «Zum Diätmanagement bei ...», ergänzt durch die Krankheit, die Störung oder die Beschwerden, für die das Erzeugnis bestimmt ist;
+- c. ein Hinweis «Zum Diätmanagement bei …», ergänzt durch die Krankheit, die Störung oder die Beschwerden, für die das Erzeugnis bestimmt ist;
 - d. eine Beschreibung der Eigenschaften und Merkmale, denen das Erzeugnis seine Zweckdienlichkeit in Bezug auf die Krankheit, die Störung oder die Beschwerden verdankt, für deren Diätmanagement es vorgesehen ist, gegebenenfalls hinsichtlich der besonderen Verarbeitung und Formulierung, mit Angaben zu denjenigen Nährstoffen, die vermehrt, vermindert, eliminiert oder auf andere Weise verändert wurden;
 - e. eine Begründung für die Verwendung des Erzeugnisses.
 
@@ -575,7 +575,7 @@ Zusätzlich zu den Angaben nach dem 11. Abschnitt LIV[^29-1] sind in der Nährwe
 
 <sup>5</sup> Nährwert- und gesundheitsbezogene Angaben sind bei Lebensmitteln für besondere medizinische Zwecke nicht zulässig.
 
-[^29-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^29-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 30
 
@@ -599,11 +599,18 @@ Für Lebensmittel für besondere medizinische Zwecke, die für die Ernährungsan
 
 <sup>3</sup> Herstellerinnen,Hersteller, Vertreiberinnen und Vertreiber dürfen diese Lebensmittel der Bevölkerung, namentlich Schwangeren, Müttern und deren Familienmitgliedern, nicht als kostenlose oder verbilligte Erzeugnisse, Proben oder Muster oder andere Werbegeschenke abgeben.
 
-## 4. Kapitel:**** Tagesration für gewichtskontrollierende Ernährung
+## 4. Kapitel: Lebensmittel für gewichtskontrollierende Ernährung
 
-[^chap4-1]
+[^chap4-1][^chap4-2]
 
 [^chap4-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^chap4-2]: Fassung gemäss Ziff. I der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+
+### 1. Abschnitt: Tagesration für gewichtskontrollierende Ernährung
+
+[^chap4-sec1-1]
+
+[^chap4-sec1-1]: Eingefügt durch Ziff. I der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 #### Art. 32
 
@@ -646,7 +653,7 @@ Zusätzlich zu den obligatorischen Angaben nach Artikel 3 Absatz 1 LIV[^35-1] si
 
 <sup>3</sup> Kennzeichnung, Aufmachung und Bewerbung von Tagesrationen für gewichtskontrollierende Ernährung dürfen nicht auf das Tempo oder den Umfang der Gewichtsverringerung Bezug nehmen, die durch den Verzehr der Erzeugnisse bewirkt werden kann.
 
-[^35-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^35-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 35a
 
@@ -684,7 +691,7 @@ Zusätzlich zu den Angaben nach Artikel 23 Absatz 1 LIV kann der Inhalt der obli
 
 <sup>13</sup> Der Hinweis «kalorienarme Ernährung» darf bei Tagesrationen für gewichtskontrollierende Ernährung angebracht werden, sofern der Energiegehalt des Erzeugnisses zwischen 3360 kJ/Tag (800 kcal/Tag) und 5040 kJ/Tag (1200 kcal/Tag) liegt.
 
-[^35a-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^35a-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 35b
 
@@ -693,6 +700,26 @@ Zusätzlich zu den Angaben nach Artikel 23 Absatz 1 LIV kann der Inhalt der obli
 <sup>1</sup> Nährwert- und gesundheitsbezogene Angaben zu Tagesrationen für gewichtskontrollierende Ernährung sind nicht zulässig.
 
 <sup>2</sup> Abweichend von Absatz 1 darf bei Tagesrationen für gewichtskontrollierende Ernährung die nährwertbezogene Angabe «Zusatz von Ballaststoffen» verwendet werden, sofern der Ballaststoffgehalt des Erzeugnisses nicht weniger als 10 g beträgt.
+
+### 2. Abschnitt: Mahlzeitersatz für gewichtskontrollierende Ernährung
+
+[^chap4-sec2-1]
+
+[^chap4-sec2-1]: Eingefügt durch Ziff. I der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+
+#### Art. 35c
+
+**Begriff**
+
+Ein Mahlzeitersatz für gewichtskontrollierende Ernährung ist ein Lebensmittel mit einer besonderen Zusammensetzung, das bei der Verwendung entsprechend den Anweisungen der Herstellerin oder des Herstellers eine Tagesration teilweise ersetzt.
+
+#### Art. 35d
+
+**Anforderungen**
+
+<sup>1</sup> Ein Mahlzeitersatz für gewichtskontrollierende Ernährung muss die Zusammensetzungsanforderungen nach Anhang 10*a* erfüllen.
+
+<sup>2</sup> Die Zusammensetzungsanforderungen nach Anhang 10*a* gelten für gebrauchsfertige Lebensmittel, die als solche oder nach Zubereitung gemäss den Anweisungen der Herstellerin oder des Herstellers vermarktet werden.
 
 ## 5. Kapitel: Lebensmittel für Sportlerinnen und Sportler
 
@@ -739,7 +766,7 @@ Lebensmittel für Sportlerinnen und Sportler dürfen enthalten:
 
 <sup>5</sup> Für Kombinationen nach Artikel 37 Buchstabe d gelten die Anforderungen an die einzelnen Komponenten.
 
-[^38-1]: [SR 817.022.2](https://fedlex.data.admin.ch/eli/cc/2017/159)
+[^38-1]: [SR 817.022.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9680)
 
 #### Art. 39
 
@@ -770,7 +797,7 @@ Auf den Zusatz lebender Bakterienkulturen muss im Verzeichnis der Zutaten und in
 
 <sup>5</sup> Getränke mit einer Osmolarität von 260–300 mosmol pro Liter können als isoton, Getränke mit einer Osmolarität von 260 mosmol pro Liter oder weniger als hypoton bezeichnet werden.[^40-3]
 
-[^40-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^40-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^40-2]: www.the-icsp.org
 [^40-3]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
@@ -790,7 +817,7 @@ Auf den Zusatz lebender Bakterienkulturen muss im Verzeichnis der Zutaten und in
 
 Die Verordnung des EDI vom 23. November 2005[^42-1] über Speziallebensmittel wird aufgehoben.
 
-[^42-1]: [[AS 2005 5953](https://fedlex.data.admin.ch/eli/oc/2005/797), [2006 4919](https://fedlex.data.admin.ch/eli/oc/2006/768), [2007 1065](https://fedlex.data.admin.ch/eli/oc/2007/179), [2008 961](https://fedlex.data.admin.ch/eli/oc/2008/197)[6035](https://fedlex.data.admin.ch/eli/oc/2008/835), [2009 1997](https://fedlex.data.admin.ch/eli/oc/2009/280), [2010 973](https://fedlex.data.admin.ch/eli/oc/2010/157)[4615](https://fedlex.data.admin.ch/eli/oc/2010/669), [2011 6253](https://fedlex.data.admin.ch/eli/oc/2011/877), [2013 4919](https://fedlex.data.admin.ch/eli/oc/2013/835), [2014 405](https://fedlex.data.admin.ch/eli/oc/2014/65)]
+[^42-1]: [[AS 2005 5953](https://fedlex.data.admin.ch/eli/oc/2005/797); [2006 4919](https://fedlex.data.admin.ch/eli/oc/2006/768); [2007 1065](https://fedlex.data.admin.ch/eli/oc/2007/179); [2008 961](https://fedlex.data.admin.ch/eli/oc/2008/197), [6035](https://fedlex.data.admin.ch/eli/oc/2008/835); [2009 1997](https://fedlex.data.admin.ch/eli/oc/2009/280); [2010 973](https://fedlex.data.admin.ch/eli/oc/2010/157), [4615](https://fedlex.data.admin.ch/eli/oc/2010/669); [2011 6253](https://fedlex.data.admin.ch/eli/oc/2011/877); [2013 4919](https://fedlex.data.admin.ch/eli/oc/2013/835); [2014 405](https://fedlex.data.admin.ch/eli/oc/2014/65)]
 
 #### Art. 43
 
@@ -806,7 +833,7 @@ Die Verordnung des EDI vom 23. November 2005[^42-1] über Speziallebensmittel wi
 
 Diese Verordnung tritt am 1. Mai 2017 in Kraft.
 
-## Übergangsbestimmung zur Änderung vom 27. Mai 2020****
+## Übergangsbestimmung zur Änderung vom 27. Mai 2020
 
 [^u1-1]
 
@@ -814,204 +841,205 @@ Diese Verordnung tritt am 1. Mai 2017 in Kraft.
 
 Lebensmittel für Personen mit besonderem Ernährungsbedarf, die der Änderung vom 27. Mai 2020 dieser Verordnung nicht entsprechen, dürfen noch bis zum 30. Juni 2022 nach bisherigem Recht hergestellt, eingeführt und gekennzeichnet werden. Sie dürfen noch bis zur Erschöpfung der Bestände nach bisherigem Recht an Konsumentinnen und Konsumenten abgegeben werden.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 3 Abs. 2 Bst. a, 6 Bst. d, 8 Abs. 3 Bst. c, 13 Bst. d, 15 Abs. 3 Bst. c, 17 Abs. 1, 19 Abs. 3 Bst. c, 21 Abs. 1, 25 Abs. 2, 34 Abs. 1 und 35*a* Abs. 3 Bst. b)
 
 ## Stoffe und Verbindungen
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 <table>
-<tr><th>Stoffe</th><th>Verbindungen</th><th colspan="4">Lebensmittelkategorien</th></tr>
-<tr><th></th><th></th><th>Säuglingsanfangs- und Folgenahrung</th><th>Getreidebeikost und andere Beikost</th><th>Lebensmittel für besondere medizinische Zwecke</th><th>Tagesration für eine gewichtskontrollierende Ernährung</th></tr>
-<tr><td>**Vitamine**</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Biotin</td><td>D-Biotin</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Folat</td><td>Calcium-L-methylfolat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Folsäure oder Pteroylmonoglutaminsäure</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Niacin</td><td>Nicotinamid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Nicotinsäure</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Pantothensäure</td><td>Calcium-D-pantothenat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Dexpanthenol</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natrium-D-pantothenat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Riboflavin</td><td>Natrium-Riboflavin-5'-phosphat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Riboflavin</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Thiamin</td><td>Thiaminhydrochlorid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Thiaminmononitrat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Vitamin A</td><td>β-Carotin</td><td></td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Retinol</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Retinylacetat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Retinylpalmitat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Vitamin B<sub>6</sub></td><td>Pyridoxin-5'-phosphat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Pyridoxindipalmitat</td><td></td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Pyridoxinhydrochlorid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Vitamin B<sub>12</sub></td><td>Cyanocobalmin</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Hydroxocobalamin</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Vitamin C</td><td>Calcium-L-ascorbat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Kalium-L-ascorbat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Ascorbinsäure</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Ascorbyl-6-palmitat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natrium-L-ascorbat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Vitamin D</td><td>Cholecalciferol</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Ergocalciferol</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Vitamin E</td><td>D-α-Tocopherol</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>D-α-Tocopherylacetat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>D-α-tocopheryl-Polyethylenglycol-1000-Succinat (TPGS)</td><td></td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>D-α-Tocopherylsäuresuccinat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>DL-α-Tocopherol</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>DL-α-Tocopherylacetat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Vitamin K</td><td>Menachinon[^annex1-lvlu1-1]</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Phyllochinon oder Phytomenadion</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>**Mineralstoff****e**</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Bor</td><td>Borsäure</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumborat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td>Calcium</td><td>Calciumbisglycinat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Calciumcarbonat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Calciumchlorid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Calciumcitrat oder Calciumsalze der Zitronensäure</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Calciumcitratmalat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Calciumgluconat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Calciumglycerophosphat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Calciumhydroxid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Calciumlactat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Calcium-L-pidolat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Calciummalat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Calciumorthophosphat oder Calciumsalze der Orthophosphorsäure</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Calciumoxid</td><td></td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Calcium-Phosphoryl-Oligosaccharide</td><td></td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>Calciumsulfat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td>Chrom</td><td>Chrom-(III)-Chlorid und sein Hexahydrat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Chrom-(III)-Sulfat und sein Hexahydrat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Chrompiccolinat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td>Eisen</td><td>Eisenammoniumcitrat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Eisenammoniumphosphat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Eisenbisglycinat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Eisencarbonat</td><td></td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Eisencitrat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Eisendiphosphat oder Eisenpyrophospha)</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Eisenfumarat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Eisengluconat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Eisenlactat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Eisen-L-pidolat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Eisennatriumdiphosphat</td><td></td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Eisen-Natrium-EDTA</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Eisensaccharat</td><td></td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Eisensulfat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Elementares Eisen, aus Carbonyl + elektrolytisch +wasserstoffreduziert</td><td></td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Fluorid</td><td>Kaliumfluorid</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumfluorid</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td>Jod</td><td>Kaliumjodid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Kaliumjodat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumjodat</td><td></td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumjodid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Kalium</td><td>Kaliumbicarbonat</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Kaliumcarbonat</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Kaliumchlorid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Kaliumcitrat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Kaliumgluconat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Kaliumglycerophosphat</td><td></td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Kaliumhydroxid</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Kaliumlactat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Kaliumsalze der Orthophosphorsäure</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Magnesiumkaliumcitrat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td>Kupfer</td><td>Kupfercarbonat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Kupfercitrat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Kupfergluconat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Kupfer-Lysinkomplex</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Kupfersulfat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Magnesium</td><td>Magnesiumacetat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Magnesiumbisglycinat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Magnesiumcarbonat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Magnesiumchlorid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Magnesiumcitrat oder Magnesiumsalze der Zitronensäure</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Magnesiumgluconat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Magnesiumglycerophosphat</td><td></td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Magnesiumhydroxid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Magnesiumkaliumcitrat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Magnesiumlactat</td><td></td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Magnesium-L-aspartat</td><td></td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>Magnesium-L-pidolat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Magnesiumorthophosphat oder Magnesiumsalze der Orthophosphorsäure</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Magnesiumoxid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Magnesiumsulfat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Mangan</td><td>Mangancarbonat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Manganchlorid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Mangancitrat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Mangangluconat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Manganglycerophosphat</td><td></td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Mangansulfat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Molybdän</td><td>Ammoniummolybdat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriummolybdat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td>Natrium</td><td>Natriumbicarbonat</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumcarbonat</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumchlorid</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumcitrat</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumgluconat</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumhydroxid</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumlactat</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumsalze der Orthophosphorsäure</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td>Selen</td><td>Natriumhydrogenselenit</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumselenat</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumselenit</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Selenangereicherte Hefe[^annex1-lvlu1-2]</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td>Zink</td><td>Zinkacetat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Zinkbisglycinat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Zinkcarbonat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Zinkchlorid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Zinkcitrat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Zinkgluconat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Zinklactat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Zinkoxid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Zink</td><td>Zinksulfat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>**Aminosäuren**</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Aminosäuren[^annex1-lvlu1-3]</td><td>Cystin[^annex1-lvlu1-4]</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Glycin</td><td></td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>L-Alanin</td><td></td><td>–</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Arginin</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Arginin-L-Aspartat</td><td></td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>L-Asparaginsäure</td><td></td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>L-Citrullin</td><td></td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>L-Cystein</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Glutamin</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Glutaminsäure</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Histidin</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Isoleucin</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Leucin</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Lysin</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Lysinacetat</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Lysin-L-Aspartat</td><td></td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>L-Lysin-L-Glutamat</td><td></td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>L-Methionin</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Ornithin</td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Phenylalanin</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Prolin</td><td></td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>L-Serin</td><td></td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>L-Threonin</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Tryptophan</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Tyrosin</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Valin</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>N-Acetyl-L-Cystein</td><td></td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>N-Acetyl-L-Methionin</td><td></td><td></td><td>x in Erzeugnissen, die für Personen ab 1 Jahr bestimmt sind.</td><td></td></tr>
-<tr><td colspan="6">**Sonstige Stoffe, ohne Aminosäuren**</td></tr>
-<tr><td>Carnitin und Taurin</td><td>L-Carnitin</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Carnitinhydrochlorid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>L-Carnitin-L-Tartrat</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Taurin</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td>Cholin und Inositol</td><td>Cholin</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Cholinbitartrat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Cholinchlorid</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Cholincitrat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Inositol</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>Nukleotide</td><td>Adenosin-5'-phosphorsäure (AMP)</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Cytidin-5'-monophosphorsäure (CMP</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Guanosin-5'-phosphorsäure (GMP)</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Ionosin-5'-phosphorsäure (IMP)</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumsalz der AMP</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumsalz der CMP</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumsalz der GMP</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumsalze der IMP</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Natriumsalze der UMP</td><td>x</td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Uridin-5'-phophorsäure (UMP)</td><td>x</td><td></td><td>x</td><td>x</td></tr>
+<tr><th>Stoffe</th><th>Verbindungen</th><th colspan="4">Lebensmittelkategorien</th><th></th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th>Säuglingsanfangs- und Folgenahrung</th><th>Getreidebeikost und andere Beikost</th><th>Lebensmittel für besondere medizinische Zwecke</th><th>Tagesration für gewichtskontrollierende Ernährung</th><th colspan="4">Mahlzeitersatz für gewichtskontrollierende Ernährung</th></tr>
+<tr><td>Vitamine</td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
+<tr><td>Biotin</td><td>D-Biotin</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Folat</td><td>Calcium-L-methylfolat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Folsäure oder Pteroylmonoglutaminsäure</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Niacin</td><td>Nicotinamid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Nicotinsäure</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Pantothensäure</td><td>Calcium-D-pantothenat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Dexpanthenol</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natrium-D-pantothenat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Riboflavin</td><td>Natrium-Riboflavin-5’-phosphat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Riboflavin</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Thiamin</td><td>Thiaminhydrochlorid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Thiaminmononitrat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Vitamin A</td><td>β-Carotin</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Retinol</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Retinylacetat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Retinylpalmitat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Vitamin B<sub>6</sub></td><td>Pyridoxin-5’-phosphat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Pyridoxindipalmitat</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Pyridoxinhydrochlorid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Vitamin B<sub>12</sub></td><td>Cyanocobalamin</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Hydroxocobalamin</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Vitamin C</td><td>Calcium-L-ascorbat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Kalium-L-ascorbat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Ascorbinsäure</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Ascorbyl-6-palmitat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natrium-L-ascorbat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Vitamin D</td><td>Cholecalciferol</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Ergocalciferol</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Vitamin E</td><td>D-α-Tocopherol</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>D-α-Tocopherylacetat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>D-α-tocopheryl-Polyethylenglycol-1000-Succinat (TPGS)</td><td></td><td></td><td>x</td><td></td><td colspan="4"></td></tr>
+<tr><td></td><td>D-α-Tocopherylsäuresuccinat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>DL-α-Tocopherol</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>DL-α-Tocopherylacetat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Vitamin K</td><td>Menachinon[^annex1-lvlu1-1]</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Phyllochinon oder Phytomenadion</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Mineralstoffe</td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
+<tr><td>Bor</td><td>Borsäure</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumborat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Calcium</td><td>Calciumbisglycinat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Calciumcarbonat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Calciumchlorid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Calciumcitrat oder Calciumsalze der Zitronensäure</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Calciumcitratmalat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Calciumgluconat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Calciumglycerophosphat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Calciumhydroxid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Calciumlactat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Calcium-L-pidolat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Calciummalat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Calciumorthophosphat oder Calciumsalze der Orthophosphorsäure</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Calciumoxid</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Calcium-Phosphoryl-Oligosaccharide</td><td></td><td></td><td>x</td><td></td><td colspan="4">x</td></tr>
+<tr><td></td><td>Calciumsulfat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Chrom</td><td>Chrom-(III)-Chlorid und sein Hexahydrat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Chrom-(III)-Sulfat und sein Hexahydrat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Chrompiccolinat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Chrom(III)-lactattrihydrat</td><td></td><td></td><td></td><td></td><td colspan="4">x</td></tr>
+<tr><td>Eisen</td><td>Eisenammoniumcitrat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Eisen(II)-Ammoniumphosphat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Eisenbisglycinat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Eisencarbonat</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Eisencitrat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Eisendiphosphat oder Eisenpyrophospha)</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Eisenfumarat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Eisengluconat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Eisenlactat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Eisen-L-pidolat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Eisennatriumdiphosphat</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Eisen-Natrium-EDTA</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Eisensaccharat</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Eisensulfat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Elementares Eisen, aus Carbonyl + elektrolytisch +wasserstoffreduziert</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Fluorid</td><td>Kaliumfluorid</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumfluorid</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Jod</td><td>Kaliumjodid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Kaliumjodat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumjodat</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumjodid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Kalium</td><td>Kaliumbicarbonat</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Kaliumcarbonat</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Kaliumchlorid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Kaliumcitrat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Kaliumgluconat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Kaliumglycerophosphat</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Kaliumhydroxid</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Kaliumlactat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Kaliumsalze der Orthophosphorsäure</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Magnesiumkaliumcitrat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Kupfer</td><td>Kupfercarbonat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Kupfercitrat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Kupfergluconat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Kupfer-Lysinkomplex</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Kupfersulfat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Magnesium</td><td>Magnesiumacetat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Magnesiumbisglycinat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Magnesiumcarbonat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Magnesiumchlorid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Magnesiumcitrat oder Magnesiumsalze der Zitronensäure</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Magnesiumgluconat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Magnesiumglycerophosphat</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Magnesiumhydroxid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Magnesiumkaliumcitrat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Magnesiumlactat</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Magnesium-L-aspartat</td><td></td><td></td><td>x</td><td></td><td colspan="4"></td></tr>
+<tr><td></td><td>Magnesium-L-pidolat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Magnesiumorthophosphat oder Magnesiumsalze der Orthophosphorsäure</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Magnesiumoxid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Magnesiumsulfat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Mangan</td><td>Mangancarbonat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Manganchlorid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Mangancitrat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Mangangluconat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Manganglycerophosphat</td><td></td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Mangansulfat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Molybdän</td><td>Ammoniummolybdat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriummolybdat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Natrium</td><td>Natriumbicarbonat</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumcarbonat</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumchlorid</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumcitrat</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumgluconat</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumhydroxid</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumlactat</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumsalze der Orthophosphorsäure</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Selen</td><td>Natriumhydrogenselenit</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumselenat</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumselenit</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Selenangereicherte Hefe[^annex1-lvlu1-2]</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Zink</td><td>Zinkacetat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Zinkbisglycinat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Zinkcarbonat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Zinkchlorid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Zinkcitrat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Zinkgluconat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Zinklactat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Zinkoxid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Zinksulfat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Aminosäuren</td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
+<tr><td>Aminosäuren[^annex1-lvlu1-3]</td><td>Cystin[^annex1-lvlu1-4]</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Glycin</td><td></td><td></td><td>x</td><td></td><td colspan="4"></td></tr>
+<tr><td></td><td>L-Alanin</td><td></td><td>–</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Arginin</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Arginin-L-Aspartat</td><td></td><td></td><td>x</td><td></td><td colspan="4"></td></tr>
+<tr><td></td><td>L-Asparaginsäure</td><td></td><td></td><td>x</td><td></td><td colspan="4"></td></tr>
+<tr><td></td><td>L-Citrullin</td><td></td><td></td><td>x</td><td></td><td colspan="4"></td></tr>
+<tr><td></td><td>L-Cystein</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Glutamin</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Glutaminsäure</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Histidin</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Isoleucin</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Leucin</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Lysin</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Lysinacetat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Lysin-L-Aspartat</td><td></td><td></td><td>x</td><td></td><td colspan="4"></td></tr>
+<tr><td></td><td>L-Lysin-L-Glutamat</td><td></td><td></td><td>x</td><td></td><td colspan="4"></td></tr>
+<tr><td></td><td>L-Methionin</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Ornithin</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Phenylalanin</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Prolin</td><td></td><td></td><td>x</td><td></td><td colspan="4"></td></tr>
+<tr><td></td><td>L-Serin</td><td></td><td></td><td>x</td><td></td><td colspan="4"></td></tr>
+<tr><td></td><td>L-Threonin</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Tryptophan</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Tyrosin</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Valin</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>N-Acetyl-L-Cystein</td><td></td><td></td><td>x</td><td></td><td colspan="4"></td></tr>
+<tr><td></td><td>N-Acetyl-L-Methionin</td><td></td><td></td><td>x in Erzeugnissen, die für Personen ab 1 Jahr bestimmt sind.</td><td></td><td colspan="4"></td></tr>
+<tr><td colspan="10">**Sonstige Stoffe, ohne** **Aminosäuren**</td></tr>
+<tr><td>Carnitin und Taurin</td><td>L-Carnitin</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Carnitinhydrochlorid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>L-Carnitin-L-Tartrat</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Taurin</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Cholin und Inositol</td><td>Cholin</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Cholinbitartrat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Cholinchlorid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Cholincitrat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Inositol</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Nukleotide</td><td>Adenosin-5’-phosphorsäure (AMP)</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Cytidin-5’-monophosphorsäure (CMP)</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Guanosin-5’-phosphorsäure (GMP)</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Ionosin-5’-phosphorsäure (IMP)</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumsalz der AMP</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumsalz der CMP</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumsalz der GMP</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumsalze der IMP</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Natriumsalze der UMP</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Uridin-5’-phophorsäure (UMP)</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: Menachinon kommt in erster Linie als Menachinon-7 und in geringerem Masse als Menachinon-6 vor.
@@ -1019,7 +1047,7 @@ Anhang 1*[^t-1]*
 [^annex1-lvlu1-3]: Für Aminosäuren, die Säuglingsanfangsnahrung und Folgenahrung, Getreidebeikost und anderer Beikost zugesetzt werden, dürfen nur die ausdrücklich genannten Hydrochloride verwendet werden. Für Aminosäuren, die Lebensmitteln für besondere medizinische Zwecke und für Tagesrationen für gewichtskontrollierende Ernährung zugesetzt werden, dürfen gegebenenfalls auch die Natrium-, Kalium-, Calcium- und Magnesiumsalze sowie ihre Hydrochloride verwendet werden.
 [^annex1-lvlu1-4]: Im Falle der Verwendung in Säuglingsanfangsnahrung und Folgenahrung, Getreidebeikost und anderer Beikost darf Cystin nur in Form von L-Cystin zugesetzt werden.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 6 Bst. a Ziff. 1 und b sowie 8 Abs. 3)
 
@@ -1310,7 +1338,7 @@ Das molare Verhältnis zwischen Kalzium und verwertbarem Phosphor beträgt minde
 [^annex2-lvlu1-lvl12-1]: Die Gesamtkonzentration an Nukleotiden darf 1,2 mg/100 kJ nicht überschreiten.
 [^annex2-lvlu1-lvl12-2]: Die Gesamtkonzentration an Nukleotiden darf 5 mg/100 kcal nicht überschreiten.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 13 Bst. a Ziff. 1 und b sowie 15 Abs. 3)
 
@@ -1553,7 +1581,7 @@ Anhang 3*[^t-3]*
 [^annex3-lvlu1-lvl10-1]: Die Gesamtkonzentration an Nukleotiden darf 1,2 mg/100 kJ nicht überschreiten.
 [^annex3-lvlu1-lvl10-2]: Die Gesamtkonzentration an Nukleotiden darf 5 mg/100 kcal nicht überschreiten.
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 15 Abs. 1 Bst. c und 21 Abs. 2)
 
@@ -1595,7 +1623,7 @@ Anhang 4*[^t-4]*
 [^annex4-lvlu1-2]: Vorgebildetes Vitamin A; RE = Retinoläquivalent, all-trans.
 [^annex4-lvlu1-3]: α-TE = d-α-Tocopheroläquivalent.
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-5]
 
 (Art. 19 Abs. 3 Bst. a und 20 Bst. c)
 
@@ -1810,9 +1838,7 @@ Anhang 8
 - – Aldrin und Dieldrin, ausgedrückt als Dieldrin
 - – Endrin
 
-### Liste B****: Höchstgehalte
-
-[^annex8-lvlu1-lvlu2-1]
+### Liste B[^annex8-lvlu1-lvlu2-1]: Höchstgehalte
 
 [^annex8-lvlu1-lvlu2-1]: Die in der Liste B genannten Werte gelten für verbrauchsfertig angebotene oder nach den Anweisungen der Herstellerin oder des Herstellers rekonstituierte Erzeugnisse.
 
@@ -1825,7 +1851,7 @@ Anhang 8
 <tr><td>Propineb/Propylen-thioharnstoff (Summe von Propineb und Propylen-thioharnstoff)</td><td>0,006</td></tr>
 </table>
 
-Anhang 9*[^t-6]*
+Anhang 9[^t-6]
 
 (Art. 25 Abs. 3 Bst. c und 29 Abs. 1 Bst. a)
 
@@ -1958,13 +1984,13 @@ Die Spezifikationen beziehen sich auf das gebrauchsfertige Erzeugnis, sei es als
 [^annex9-lvlu1-lvl3-lvl32-3]: Für Erzeugnisse, die für Kinder von 1 bis 10 Jahren bestimmt sind
 [^annex9-lvlu1-lvl3-lvl32-4]: Für Erzeugnisse, die für Kinder von 1 bis 10 Jahren bestimmt sind
 
-Anhang 10*[^t-7]*
+Anhang 10[^t-7]
 
-(Art. 34 Abs. 1 und 2 sowie 35*a* Abs. 1)
+(Art. 34 und 35*a* Abs. 1)
 
 ## Anforderungen an die Zusammensetzung von Tagesrationen für gewichtskontrollierende Ernährung
 
-[^t-7]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-7]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
 
 *Anmerkung:* Die festgelegten Zusammensetzungsanforderungen gelten für gebrauchsfertige Lebensmittel, die als solche oder nach Zubereitung gemäss den Anweisungen des Herstellers vermarktet werden.
 
@@ -2050,13 +2076,60 @@ Tagesrationen für gewichtskontrollierende Ernährung dürfen pro Tagesration ni
 [^annex10-lvlu1-lvl6-3]: Retinol-Äquivalente.
 [^annex10-lvlu1-lvl6-4]: Vitamin-E-Aktivität von RRR-α-Tocopherol.
 
-Anhang 11*[^t-8]*
+Anhang 10a[^t-8]
+
+(Art. 35*d*)
+
+## Anforderungen an die Zusammensetzung von Mahlzeitersatz für gewichtskontrollierende Ernährung
+
+[^t-8]: Eingefügt durch Ziff. II Abs. 3 der V des EDI vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)).
+
+### 1 Energiewert
+
+Der Energiewert eines Mahlzeitersatzes für gewichtskontrollierende Ernährung darf nicht weniger als 840 kJ (200 kcal) und nicht mehr als 1046 kJ (250 kcal) je Mahlzeit betragen.
+
+### 2 Proteine
+
+- 2\.1 Der Energiewert eines Mahlzeitersatzes für gewichtskontrollierende Ernährung muss zu mindestens 25 und darf zu höchstens 50 Prozent auf Proteine entfallen.
+- 2\.2 Der chemische Proteinindex muss dem Aminosäurenindex entsprechen, den die Weltgesundheitsorganisation[^annex10a-lvlu1-lvl2-1] festgelegt hat:
+
+<table>
+<tr><th>Anforderungsschema für Aminosäuren</th><th>g/100 g Protein</th></tr>
+<tr><td>Cystin + Methionin</td><td>1,7</td></tr>
+<tr><td>Histidin</td><td>1,6</td></tr>
+<tr><td>Isoleucin</td><td>1,3</td></tr>
+<tr><td>Leucin</td><td>1,9</td></tr>
+<tr><td>Lysin</td><td>1,6</td></tr>
+<tr><td>Phenylalanin + Tyrosin</td><td>1,9</td></tr>
+<tr><td>Threonin</td><td>0,9</td></tr>
+<tr><td>Tryptophan</td><td>0,5</td></tr>
+<tr><td>Valin</td><td>1,3</td></tr>
+</table>
+
+- 2\.3 Der chemische Index ist das kleinste Verhältnis zwischen der Menge der einzelnen essentiellen Aminosäuren des Testproteins und der Menge der entsprechenden Aminosäure des Referenzproteins.
+- 2\.4 Liegt der chemische Index unter 100 Prozent des Indexes des Referenzproteins, so ist der Mindestproteingehalt entsprechend zu erhöhen. Der chemische Index des Proteins muss in jedem Fall zumindest bei 80 Prozent des Indexes des Referenzproteins liegen.
+- 2\.5 Der Zusatz von Aminosäuren ist nur zur Verbesserung des Nährwerts der in einem Mahlzeitersatz für gewichtskontrollierende Ernährung enthaltenen Proteine und in den hierfür notwendigen Mengen gestattet.
+
+[^annex10a-lvlu1-lvl2-1]: Weltgesundheitsorganisation. Energy and protein requirements (Brennwert- und Proteinanforderungen). Bericht einer gemeinsamen FAO/WHO/UNU-Tagung. Genf: Weltgesundheitsorganisation, 1985 (WHO Technical Report Series: 724).
+
+### 3 Fette
+
+- 3\.1 Der Energiewert der Fette darf 30 Prozent des gesamten Energiewerts eines Mahlzeitersatzes für gewichtskontrollierende Ernährung nicht überschreiten.
+- 3\.2 Die in einem Mahlzeitersatz für gewichtskontrollierende Ernährung enthaltene Linolsäure in Form von Glyceriden darf nicht weniger als 1 g betragen.
+
+### 4 Vitamine und Mineralstoffe
+
+Ein Mahlzeitersatz für gewichtskontrollierende Ernährung muss je Mahlzeit mindestens 30 Prozent der Nährstoffbezugswerte für Vitamine und Mineralstoffe nach Anhang 10 LIV[^annex10a-lvlu1-lvl4-1] enthalten. Diese Vorschrift gilt nicht für Fluorid, Chrom, Chlorid und Molybdän. Die Natriummenge in einem Lebensmittel muss je Mahlzeit mindestens 172,5 mg betragen. Die Kaliummenge in einem Mahlzeitersatz muss je Mahlzeit mindestens 500 mg betragen.
+
+[^annex10a-lvlu1-lvl4-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
+
+Anhang 11[^t-9]
 
 (Art. 38 Abs. 1 Bst. a, 39 Bst. a und b sowie 40 Abs. 2)
 
 ## Vitamine, Mineralstoffe und sonstige Stoffe in den für Erwachsene zulässigen Höchstmengen
 
-[^t-8]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Bereinigt gemäss Berichtigung vom 31. Mai 2021 ([AS 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)).
+[^t-9]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Bereinigt gemäss Berichtigung vom 31. Mai 2021 ([AS 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)).
 
 Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-lvlu1-1] für Zusatzstoffe festgelegt sind. Für Stoffe, für die keine Reinheitskriterien festgelegt wurden, gelten die allgemein anerkannten Reinheitskriterien, die von internationalen Gremien, wie der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen (FAO), der Weltgesundheitsorganisation (WHO) oder internationalen Pharmakopöen empfohlen werden.
 
@@ -2125,7 +2198,7 @@ Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-
 <tr><td>Carotinoid Lutein</td><td>20 mg</td><td></td></tr>
 <tr><td>Carotinoid Zeaxanthin</td><td>2 mg</td><td></td></tr>
 <tr><td>Cholin</td><td>550 mg</td><td></td></tr>
-<tr><td>Chondroitinsulfat</td><td>500 mg</td><td>*«Für schwangere und stillende Frauen, Kinder, Jugendliche und Per**sonen mit gerinnungshemmenden Arzneimitteln nicht geeignet.»*</td></tr>
+<tr><td>Chondroitinsulfat</td><td>500 mg</td><td>*«Für schwangere und stillende Frauen, Kinder, Jugendliche und Personen mit gerinnungshemmenden Arzneimitteln nicht geeignet.»*</td></tr>
 <tr><td>L-Carnitin</td><td>2000 mg</td><td></td></tr>
 <tr><td>L-Carnosin</td><td>55 mg</td><td></td></tr>
 <tr><td>Coenzym NADH (Nicotinamidadenindinukleotid)</td><td>20 mg</td><td></td></tr>
@@ -2139,7 +2212,7 @@ Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-
 <tr><td>Inositol</td><td>1000 mg</td><td></td></tr>
 <tr><td>Isoflavone</td><td>50 mg (bezogen auf das Aglycon)</td><td></td></tr>
 <tr><td>Katechine, Epigallocatechingallat (EGCG)</td><td>90 mg (berechnet als EGCG)</td><td>*«Nicht auf nüchternen Magen, nicht bei strikter, kalorienarmer Ernährung und nicht gleichzeitig mit anderen Produkten auf Basis von Grüntee einnehmen.»*</td></tr>
-<tr><td>konjugierte Linolsäure (CLA)</td><td>3 g</td><td>*«Für Diabetiker**innen und Diabetiker, Jugendliche, schwangere und stillende Frauen nicht geeignet.»*</td></tr>
+<tr><td>konjugierte Linolsäure (CLA)</td><td>3 g</td><td>*«Für Diabetikerinnen und Diabetiker, Jugendliche, schwangere und stillende Frauen nicht geeignet.»*</td></tr>
 <tr><td>Kreatin</td><td>3 g</td><td></td></tr>
 <tr><td>Lactulose</td><td>10 g</td><td></td></tr>
 <tr><td>Lebende Bakterienkulturen nach</td><td>mind. 10<sup>8</sup> KBE (kolonienbildende Einheiten)</td><td>Anforderungen nach Anhang 13</td></tr>
@@ -2151,16 +2224,16 @@ Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-
 <tr><td>Taurin</td><td>1000 mg</td><td></td></tr>
 </table>
 
-[^annex11-lvlu1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^annex11-lvlu1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 [^annex11-lvlu1-2]: Retinol-Äquivalente, Umrechnungsfaktor: β-Carotin = 6 × Retinol-Äquivalente
 
-Anhang 12*[^t-9]*
+Anhang 12[^t-10]
 
 (Art. 38 Abs. 1 Bst. a, 39 Bst. c und 40 Abs. 2)
 
 ## Zulässige Stoffe und Verbindungen für Lebensmittel für Sportlerinnen und Sportler
 
-[^t-9]: Bereinigt gemäss Ziff. I Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-10]: Bereinigt gemäss Ziff. I Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 ### 1. Kategorie 1: Vitamine
 
