@@ -4,11 +4,11 @@ title: Mineralölsteuergesetz vom 21. Juni 1996 (MinöStG)
 short: MinöStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20220101/de"
 
 (MinöStG)
 
-vom 21. Juni 1996 (Stand am 1. Januar 2022)
+vom 21. Juni 1996 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -331,7 +331,7 @@ Wer Waren liefert, die zum tieferen Satz besteuert werden, muss:
 
 Für Verfügungen und Dienstleistungen können Gebühren erhoben werden. Der Bundesrat setzt die Gebührensätze fest.
 
-## 4. Abschnitt: Steuerbefreiungen und Steuerrückerstattungen****
+## 4. Abschnitt: Steuerbefreiungen und Steuerrückerstattungen
 
 [^sec4-1]
 
@@ -365,7 +365,7 @@ Der Bundesrat kann Treibstoffe ganz oder teilweise von der Steuer befreien, wenn
 - c. als Betriebsmittel im Fahrzeugtank oder in einem Reservekanister eingeführt werden;
 - d. in Pilot- und Demonstrationsanlagen aus erneuerbaren Rohstoffen gewonnen werden.
 
-<sup>3</sup> ...[^17-5]
+<sup>3</sup> …[^17-5]
 
 [^17-1]: Eingefügt durch Anhang Ziff. II 6 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^17-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
@@ -632,17 +632,13 @@ Gegen Verfügungen der Zollstellen kann Beschwerde erhoben werden:
 
 **Beschwerde gegen Sicherstellungsverfügungen**
 
-<sup>1</sup> ...[^37-1]
+<sup>1</sup> …[^37-1]
 
 <sup>2</sup> Beschwerden gegen Sicherstellungsverfügungen haben keine aufschiebende Wirkung.
 
 [^37-1]: Aufgehoben durch Anhang Ziff. 55 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## 9. Abschnitt: Strafbestimmungen****
-
-[^sec9-1]
-
-[^sec9-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
+## 9. Abschnitt: Strafbestimmungen
 
 #### Art. 38
 
@@ -652,17 +648,18 @@ Gegen Verfügungen der Zollstellen kann Beschwerde erhoben werden:
 
 <sup>2</sup>
 
-Bei erschwerenden Umständen wird das Höchstmass der angedrohten Busse um die Hälfte erhöht. Zudem kann auf Gefängnis erkannt werden. Als erschwerende Umstände gelten:
+Bei erschwerenden Umständen wird das Höchstmass der angedrohten Busse um die Hälfte erhöht. Zudem kann auf Freiheitsstrafe bis zu drei Jahren erkannt werden.[^38-2] Als erschwerende Umstände gelten:
 
 - a. die Anwerbung mehrerer Personen für eine Widerhandlung;
 - b. die gewerbs- oder gewohnheitsmässige Verübung von Widerhandlungen.
 
 <sup>3</sup> Kann der gefährdete oder hinterzogene Steuerbetrag nicht genau ermittelt werden, so wird er durch die Steuerbehörde geschätzt.
 
-<sup>4</sup> Erfüllt eine Handlung zugleich den Tatbestand einer Gefährdung oder Hinterziehung der Steuer und einer durch das BAZG zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.[^38-2]
+<sup>4</sup> Erfüllt eine Handlung zugleich den Tatbestand einer Gefährdung oder Hinterziehung der Steuer und einer durch das BAZG zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.[^38-3]
 
 [^38-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^38-2]: Fassung gemäss Ziff. I 22 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^38-2]: Fassung des zweiten Satzes gemäss Ziff. I 8 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^38-3]: Fassung gemäss Ziff. I 22 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 39
 
@@ -751,7 +748,7 @@ Datum des Inkrafttretens: 1. Januar 1997[^49-1]
 
 [^49-1]: BRB vom 20. Nov. 1996
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 12 Abs. 1)
 
@@ -962,12 +959,12 @@ Anhang 1*[^t-1]*
 <tr><td colspan="2">3826.</td><td>Biodiesel und seine Mischungen, keine Erdöle oder Öle aus bituminösen Mineralien enthaltend oder mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von weniger als 70 %:</td><td></td></tr>
 <tr><td colspan="2">0010</td><td>– zur Verwendung als Treibstoff</td><td>458.70</td></tr>
 <tr><td colspan="2">0090</td><td>– zu anderen Zwecken (nur fossiler Anteil)</td><td>3.00</td></tr>
-<tr><td colspan="2">...</td><td>Treibstoffe aus anderen Ausgangsstoffen</td><td>420.60</td></tr>
+<tr><td colspan="2">…</td><td>Treibstoffe aus anderen Ausgangsstoffen</td><td>420.60</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 
-Anhang 1a*[^t-2]*
+Anhang 1a[^t-2]
 
 (Art. 12*a* Abs. 2)
 
@@ -1009,13 +1006,13 @@ Anhang 1a*[^t-2]*
 <tr><td>2910</td><td>– – – zur Verwendung als Treibstoff</td><td>809.20</td><td>587.00</td><td>222.20</td><td>112.50</td><td>109.70</td></tr>
 </table>
 
-[^annex1a-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang; der Generaltarif und seine Änderungen werden nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Der Text kann unter www.ezv.admin.ch eingesehen werden. Die Änderungen werden zudem auch in den Zolltarif übernommen, siehe www.tares.ch.
+[^annex1a-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang; der Generaltarif und seine Änderungen werden nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Der Text kann unter [www.bazg.admin.ch/](http://www.bazg.admin.ch/) eingesehen werden. Die Änderungen werden zudem auch in den Zolltarif übernommen, siehe www.tares.ch.
 [^annex1a-lvlu1-2]: Mineralölsteuer und Mineralölsteuerzuschlag.
 
 Anhang 2
 
 ## Änderung bisherigen Rechts
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)konsultiert werden.

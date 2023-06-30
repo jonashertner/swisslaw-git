@@ -4,11 +4,11 @@ title: "Legge federale del 21 giugno 1996 sull'imposizione degli oli minerali (L
 short: LIOm
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: it
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20220101/it"
 
 (LIOm)
 
-del 21 giugno 1996 (Stato 1° gennaio 2022)
+del 21 giugno 1996 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -331,7 +331,7 @@ Chiunque fornisce merci assoggettate all’aliquota inferiore deve:
 
 Per le decisioni e altre prestazioni possono essere riscosse tasse. Le aliquote sono fissate dal Consiglio federale.
 
-## Sezione 4: Esenzioni dall’imposta e restituzioni dell’imposta****
+## Sezione 4: Esenzioni dall’imposta e restituzioni dell’imposta
 
 [^sec4-1]
 
@@ -636,11 +636,7 @@ Le decisioni degli uffici doganali possono essere impugnate:
 
 [^37-1]: Abrogato dall’all. n. 55 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Sezione 9: Disposizioni penali****
-
-[^sec9-1]
-
-[^sec9-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2 – 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+## Sezione 9: Disposizioni penali
 
 #### Art. 38
 
@@ -650,17 +646,18 @@ Le decisioni degli uffici doganali possono essere impugnate:
 
 <sup>2</sup>
 
-In caso di circostanze aggravanti, il massimo della multa comminata è aumentato della metà. Può inoltre essere inflitta la detenzione. Sono reputate circostanze aggravanti:
+In caso di circostanze aggravanti, il massimo della multa comminata è aumentato della metà. Può inoltre essere inflitta una pena detentiva sino a tre anni.[^38-2] Sono reputate circostanze aggravanti:
 
 - a. il fatto di reclutare più persone per commettere un’infrazione;
 - b. il fatto di commettere infrazioni per mestiere o abitualmente.
 
 <sup>3</sup> Se non può essere accertato esattamente, l’importo dell’imposta sottratto o compromesso è stimato dall’autorità fiscale.
 
-<sup>4</sup> Se un atto costituisce in pari tempo una messa in pericolo o sottrazione dell’imposta e un’infrazione ad altri disposti federali concernenti tributi, che l’UDSC è tenuto a perseguire, si applica la pena corrispondente all’infrazione più grave; tale pena può essere adeguatamente aumentata.[^38-2]
+<sup>4</sup> Se un atto costituisce in pari tempo una messa in pericolo o sottrazione dell’imposta e un’infrazione ad altri disposti federali concernenti tributi, che l’UDSC è tenuto a perseguire, si applica la pena corrispondente all’infrazione più grave; tale pena può essere adeguatamente aumentata.[^38-3]
 
 [^38-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^38-2]: Nuovo testo giusta il n. I 22 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^38-2]: Nuovo testo del per. giusta il n. I 8 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^38-3]: Nuovo testo giusta il n. I 22 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 39
 
@@ -749,7 +746,7 @@ Data dell’entrata in vigore: 1° gennaio 1997[^49-1]
 
 [^49-1]: DCF del 20 nov. 1996.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 12 cpv. 1)
 
@@ -959,13 +956,13 @@ Allegato 1*[^t-1]*
 <tr><td>...</td><td>Carburanti di altri prodotti di base</td><td>420.60</td></tr>
 </table>
 
-Allegato 1a*[^t-2]*
+Allegato 1a[^t-2]
 
 (art. 12*a* cpv. 2)
 
 ## Tariffa d’imposta per il gas naturale e il gas liquido utilizzati come carburante
 
-[^t-2]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2, in vigore dal 1° lug. 2020 19 al 31 dic. 2023 (</sub>[<sub>RU</sub> <sub>2020</sub> <sub>1269</sub>](https://fedlex.data.admin.ch/eli/oc/2020/243)<sub>;</sub> [<sub>FF</sub> <sub>2019</sub> <sub>4719</sub>](https://fedlex.data.admin.ch/eli/fga/2019/2011)<sub>[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).</sub>
+[^t-2]: Introdotto dal n. I della L del 23 mar. 2007 ([RU 2008 579](https://fedlex.data.admin.ch/eli/oc/2008/132); [FF 2006 3889](https://fedlex.data.admin.ch/eli/fga/2006/527)). Nuovo testo giusta il n. I 1 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2, in</sub> <sub>vigore dal 1° lug. 2020 19 al 31 dic. 2023 (</sub>[<sub>RU</sub> <sub>2020</sub> <sub>1269</sub>](https://fedlex.data.admin.ch/eli/oc/2020/243)<sub>;</sub> [<sub>FF</sub> <sub>2019</sub> <sub>4719</sub>](https://fedlex.data.admin.ch/eli/fga/2019/2011)<sub>[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).</sub>
 
 <table>
 <tr><td>Voce di tariffa[^annex1a-lvlu1-1]</td><td>Designazione della merce</td><td>Imposizione fiscale[^annex1a-lvlu1-2] (art. 12)</td><td>Agevolazione fiscale (art. 12*a*)</td><td>Imposizione fiscale (art. 12*a*)</td><td>Imposta sugli oli minerali</td><td>Supplemento fiscale sugli oli minerali</td></tr>

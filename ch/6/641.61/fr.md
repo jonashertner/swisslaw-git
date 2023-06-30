@@ -4,11 +4,11 @@ title: "Loi du 21 juin 1996 sur l'imposition des huiles minérales (Limpmin)"
 short: Limpmin
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20220101/fr"
 
 (Limpmin)
 
-du 21 juin 1996 (Etat le 1<sup>er</sup> janvier 2022)
+du 21 juin 1996 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -331,7 +331,7 @@ Quiconque livre des marchandises qui ont été imposées au taux inférieur doit
 
 Des émoluments peuvent être perçus pour les décisions et autres prestations. Le Conseil fédéral en fixe les taux.
 
-## Section 4 Exonérations et remboursement de l’impôt****
+## Section 4 Exonérations et remboursement de l’impôt
 
 [^sec4-1]
 
@@ -365,7 +365,7 @@ Le Conseil fédéral peut accorder l’exonération, partielle ou totale, de l�
 - c. qui sont importés dans le réservoir d’un véhicule ou dans un jerrycan de réserve;
 - d. qui sont obtenus dans des installations pilotes ou de démonstration à partir de matières premières renouvelables.
 
-<sup>3</sup> ...[^17-5]
+<sup>3</sup> …[^17-5]
 
 [^17-1]: Introduite par l’annexe ch. II 6 de la LF du 22 juin 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^17-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
@@ -630,17 +630,13 @@ Les décisions rendues par les bureaux de douane peuvent faire l’objet d’un 
 
 **Recours contre des décisions de réquisition de sûretés**
 
-<sup>1</sup> ...[^37-1]
+<sup>1</sup> …[^37-1]
 
 <sup>2</sup> Les recours contre des décisions de réquisition de sûretés n’ont pas d’effet suspensif.
 
 [^37-1]: Abrogé par l’annexe ch. 55 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731), [2005 3875](https://fedlex.data.admin.ch/eli/fga/2005/595)).
 
-## Section 9 Dispositions pénales****
-
-[^sec9-1]
-
-[^sec9-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+## Section 9 Dispositions pénales
 
 #### Art. 38
 
@@ -652,17 +648,18 @@ l’impôt soustrait ou mis en péril, ou encore de l’avantage illicite. L’a
 
 <sup>2</sup>
 
-En cas de circonstances aggravantes, le maximum de l’amende est augmenté de moitié. En outre, une peine d’emprisonnement peut être prononcée. Sont réputés circonstances aggravantes:
+En cas de circonstances aggravantes, le maximum de l’amende est augmenté de moitié. En outre, une peine privative de liberté de trois ans au plus peut être prononcée.[^38-2] Sont réputés circonstances aggravantes:
 
 - a. le fait d’embaucher plusieurs personnes pour commettre une infraction;
 - b. le fait de commettre des infractions par métier ou par habitude.
 
 <sup>3</sup> Si le montant de l’impôt soustrait ou mis en péril ne peut être déterminé exactement, il sera évalué par l’autorité fiscale.
 
-<sup>4</sup> Si l’acte punissable constitue à la fois une mise en péril ou une soustraction de l’impôt et une infraction à d’autres lois ou ordonnances fédérales relatives à des redevances que l’OFDF est chargé de poursuivre, la peine applicable sera celle de l’infraction la plus grave; cette peine peut être augmentée de manière appropriée.[^38-2]
+<sup>4</sup> Si l’acte punissable constitue à la fois une mise en péril ou une soustraction de l’impôt et une infraction à d’autres lois ou ordonnances fédérales relatives à des redevances que l’OFDF est chargé de poursuivre, la peine applicable sera celle de l’infraction la plus grave; cette peine peut être augmentée de manière appropriée.[^38-3]
 
 [^38-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^38-2]: Nouvelle teneur selon le ch. I 22 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^38-2]: Nouvelle teneur de la phrase selon le ch. I 8 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^38-3]: Nouvelle teneur selon le ch. I 22 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 39
 
@@ -751,13 +748,13 @@ Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1997[^49-1]
 
 [^49-1]: ACF du 20 nov. 1996.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 12, al. 1)
 
 ## Tarif de l’impôt sur les huiles minérales
 
-[^t-1]: Mise à jour selon l’annexe ch. 1 de l’O du 3 juil. 2001 ([RO 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), l’annexe 4 ch. I de l’O du 28 juin 2006 ([RO 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), l’annexe 3 ch. 1 de l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), l’annexe 3 ch. 2 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) et le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub> ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)) et annexe 3 ch. 2 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-1]: Mise à jour par l’annexe ch. 1 de l’O du 3 juil. 2001 ([RO 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), l’annexe 4 ch. I de l’O du 28 juin 2006 ([RO 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), l’annexe 3 ch. 1 de l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), l’annexe 3 ch. 2 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) et le ch. I 1 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub> ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069)) et annexe 3 ch. 2 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><th>N<sup>o</sup> de tarif</th><th>Désignation de la marchandise</th><th>Taux de l’impôt Fr.</th></tr>
@@ -950,10 +947,10 @@ Annexe 1*[^t-1]*
 <tr><td>3826.</td><td>Biodiesel et ses mélanges, ne contenant pas d’huiles de pétrole ni de minéraux bitumineux ou en contenant moins de 70 % en poids:</td><td></td></tr>
 <tr><td>0010</td><td>[tab] – destinés à être utilisés comme carburant</td><td>458.70</td></tr>
 <tr><td>0090</td><td>[tab] – destinés à d’autres usages (seulement part fossile)</td><td>3.00</td></tr>
-<tr><td>...</td><td>Carburants d’autres matières premières</td><td>420.60</td></tr>
+<tr><td>…</td><td>Carburants d’autres matières premières</td><td>420.60</td></tr>
 </table>
 
-Annexe 1a*[^t-2]*
+Annexe 1a[^t-2]
 
 (art. 12*a*, al. 2)
 
@@ -999,6 +996,6 @@ Annexe 2
 
 ## Modification du droit en vigueur
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Les mod. peuvent être consultées au [RO 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371).
