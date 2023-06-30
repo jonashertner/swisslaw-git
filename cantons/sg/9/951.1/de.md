@@ -4,13 +4,13 @@ number: "951.1"
 title: Gesetz über die Verwaltungsrechtspflege
 short: VRP
 language: de
-version: 2019-01-01
-corrected: 2019-01-17
-version_adopted: 2018-11-20
+version: 2023-07-01
+valid_until: 2023-12-31
+version_adopted: 2022-06-14
 adopted: 1965-05-16
 in_force: 1966-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/951.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2470/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3515/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2470/pdf_file"
 
 (VRP)
 
-vom 16.05.1965 (Stand 01.01.2019)
+vom 16.05.1965 (Stand 01.07.2023)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -576,7 +576,7 @@ als Gesetz:[^ingress-2]
   - 1\. Entscheide der zuständigen Gemeindebehörde oder der Schätzungskommission im Kostenverlegungsverfahren nach Strassengesetz;
   - 2\. Verfügungen und Entscheide der zuständigen Stelle der Gemeinde oder des Kantons oder der Schätzungskommission im Kostenverlegungsverfahren nach Wasserbaugesetz;
   - 3\. Verfügungen und Entscheide der Schätzungskommission nach dem Gesetz über die Melioration der Rheinebene und die Errichtung eines Arbeitsbeschaffungskontos;
-  - 4\. Verfügungen und Entscheide der zuständigen Behörde bei Landumlegung und Grenzbereinigung nach Art. 116 Abs. 3 Bst. b und Art. 122 Abs. 2 des Baugesetzes;
+  - 4\. Verfügungen und Entscheide der zuständigen Behörde bei Landumlegung und Grenzbereinigung nach [Art. 51](https://www.gesetzessammlung.sg.ch/data/731.1/de/art51) Abs. 2 Bst. b und [Art. 52](https://www.gesetzessammlung.sg.ch/data/731.1/de/art52) des Planungs- und Baugesetzes[^41-1];
 - f) …
 - g) öffentliche Dienstpflichten:
   - 1\. Verfügungen der Feuerschutzkommission betreffend die Feuerwehrdienstpflicht oder die Ersatzsteuerpflicht;
@@ -590,8 +590,11 @@ als Gesetz:[^ingress-2]
   - 4\. Einspracheentscheide der Militärpflichtersatzverwaltung;
   - 5\. selbständige Verfügungen und Entscheide der obersten Verwaltungsbehörde einer öffentlich-rechtlichen Körperschaft oder einer selbständigen öffentlich-rechtlichen Anstalt über Gebühren, Taxen, Beiträge und andere öffentlich-rechtliche Geldleistungen Privater sowie über öffentlich-rechtliche Sicherheitsleistungen und Rückerstattungen Privater;
   - 6\. Verfügungen des zuständigen Departementes über Perimeterbeiträge an das Rheinunternehmen;
-  - 7\. Verfügungen des zuständigen Departementes über die Beiträge der Gemeinden nach dem Linthgesetz.
+  - 7\. Verfügungen des zuständigen Departementes über die Beiträge der Gemeinden nach dem Linthgesetz;
 - i) …
+- j) Datenschutz: Verfügungen der Fachstelle für Datenschutz.
+
+[^41-1]: sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
 
 #### Art. 41bis
 
@@ -611,10 +614,11 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Bei der Verwaltungsrekurskommission können mit Rekurs angefochten werden:
 
-- a) erstinstanzliche Verfügungen der Departemente in folgenden Angelegenheiten:
+- a) Verfügungen der Departemente in folgenden Angelegenheiten:
   - 1\. Erteilung und Verweigerung von Bewilligungen zur Berufsausübung;
   - 2\. Disziplinarmassnahmen gegen Medizinalpersonen;
-  - 3\. Auskunftserteilung sowie Zugang zu amtlichen Dokumenten nach dem Öffentlichkeitsgesetz vom 18. November 2014[^41quater-1];
+  - 3\. …
+- a<sup>bis</sup>) Verfügungen der Departemente, der Staatskanzlei und der Leiterin oder des Leiters der Parlamentsdienste betreffend Auskunftserteilung sowie Zugang zu amtlichen Dokumenten nach dem Öffentlichkeitsgesetz vom 18. November 2014[^41quater-1];
 - b) Verfügungen und Entscheide, für welche die Regierung, wenn nicht besondere gesetzliche Vorschriften entgegenstehen, durch Verordnung die Möglichkeit des Weiterzugs an die Verwaltungsrekurskommission vorsieht.
 
 [^41quater-1]: sGS [140.2](https://www.gesetzessammlung.sg.ch/data/140.2/de).
@@ -649,8 +653,8 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Sofern nicht der Weiterzug an die Verwaltungsrekurskommission, an das Versicherungsgericht oder an die Regierung offensteht, können mit Rekurs beim zuständigen Departement angefochten werden:
 
-- a) Verfügungen und Entscheide der obersten Verwaltungsbehörde einer öffentlich-rechtlichen Körperschaft oder einer selbständigen öffentlich-rechtlichen Anstalt, ausgenommen des Verwaltungsrates der Gebäudeversicherung;
-- b) Verfügungen und Entscheide der Verwaltungsbehörden des Staates, ausgenommen des Erziehungsrates, des Universitätsrates, des Rates der Pädagogischen Hochschule St.Gallen und des Gesundheitsrates.
+- a) Verfügungen und Entscheide der obersten Verwaltungsbehörde einer öffentlich-rechtlichen Körperschaft oder einer selbständigen öffentlich-rechtlichen Anstalt, ausgenommen des Verwaltungsrates der Gebäudeversicherung und des Kooperationsgremiums der E-Government St.Gallen (eGovSG);
+- b) Verfügungen und Entscheide der Verwaltungsbehörden des Staates, ausgenommen des Bildungsrates, des Universitätsrates, des Rates der Pädagogischen Hochschule St.Gallen und des Gesundheitsrates.
 
 <sup>2</sup> Der Vorsteher des zuständigen Departementes:
 
@@ -831,7 +835,7 @@ als Gesetz:[^ingress-2]
 
 **b) gegen Verwaltungsbehörden**
 
-<sup>1</sup> Sofern kein ordentliches Rechtsmittel an eine Verwaltungsbehörde oder eine verwaltungsunabhängige Kommission des Bundes oder an das Bundesverwaltungsgericht offensteht, beurteilt das Verwaltungsgericht Beschwerden gegen Verfügungen und Entscheide der Regierung, der Departemente, der Rekursstellen Volksschule, des Erziehungsrates, des Universitätsrates, des Rates der Pädagogischen Hochschule St.Gallen, des Verwaltungsrates der Gebäudeversicherung und des Gesundheitsrates sowie der obersten Behörden der als öffentlich-rechtliche Körperschaft anerkannten Religionsgemeinschaften.
+<sup>1</sup> Sofern kein ordentliches Rechtsmittel an eine Verwaltungsbehörde oder eine verwaltungsunabhängige Kommission des Bundes oder an das Bundesverwaltungsgericht offensteht, beurteilt das Verwaltungsgericht Beschwerden gegen Verfügungen und Entscheide der Regierung, der Departemente, der Rekursstellen Volksschule, des Bildungsrates, des Universitätsrates, des Rates der Pädagogischen Hochschule St.Gallen, der Organe der Ost – Ostschweizer Fachhochschule, des Verwaltungsrates der Gebäudeversicherung, des Kooperationsgremiums der E‑Government St.Gallen (eGovSG) und des Gesundheitsrates sowie der obersten Behörden der als öffentlich-rechtliche Körperschaft anerkannten Religionsgemeinschaften.
 
 <sup>2</sup> Die Beschwerde ist unzulässig:
 
@@ -1063,6 +1067,14 @@ als Gesetz:[^ingress-2]
 
 [^79ter-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
+#### Art. 79quater
+
+**d) personalrechtliche Klagen aus Arbeitsverhältnissen der Ost – Ostschweizer Fachhochschule**
+
+<sup>1</sup> Das Verwaltungsgericht beurteilt personalrechtliche Klagen aus Arbeitsverhältnissen der Ost – Ostschweizer Fachhochschule[^79quater-1].
+
+[^79quater-1]: Vereinbarung über die Ost – Ostschweizer Fachhochschule vom 15. Februar 2019, sGS 218.21.
+
 #### Art. 80
 
 **Massgebliche Vorschriften**
@@ -1157,12 +1169,13 @@ als Gesetz:[^ingress-2]
 - a) untere Instanzen einer öffentlich-rechtlichen Körperschaft oder Anstalt entscheidet die oberste Verwaltungsbehörde der Körperschaft oder Anstalt;
 - b) untere Verwaltungsbehörden des Staates oder oberste Verwaltungsbehörden einer öffentlich-rechtlichen Körperschaft oder Anstalt entscheidet das zuständige Departement;
 - c) Departemente, Verwaltungsrekurskommission oder Versicherungsgericht, soweit dieses nicht als oberes Gericht zuständig ist, entscheidet das Verwaltungsgericht;
+- c<sup>bis</sup>) die Fachstelle für Datenschutz entscheidet die Verwaltungsrekurskommission;
 - d) …
 
 <sup>2</sup> Weitergezogen werden können:
 
 - a) der Entscheid nach Abs. 1 Bst. a dieser Bestimmung mit Rekurs an das zuständige Departement;
-- b) der Entscheid nach Abs. 1 Bst. b und Abs. 2 Bst. a dieser Bestimmung mit Beschwerde an das Verwaltungsgericht.
+- b) der Entscheid nach Abs. 1 Bst. b und Bst. c<sup>bis</sup> sowie Abs. 2 Bst. a dieser Bestimmung mit Beschwerde an das Verwaltungsgericht.
 
 #### Art. 90
 
