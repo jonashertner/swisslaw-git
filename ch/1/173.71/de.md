@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. März 2010 über die Organisation der Strafbehörde
 short: StBOG
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/444"
 language: de
-version: 2021-01-01
+version: 2023-07-01
 adopted: 2010-03-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/444/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2010-444-20210101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/444/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2010-444-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20210101/de"
 
 (Strafbehördenorganisationsgesetz, StBOG)
 
-vom 19. März 2010 (Stand am 1. Januar 2021)
+vom 19. März 2010 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -944,18 +944,18 @@ Es gilt ein Gebührenrahmen von 200–100 000 Franken für jedes der folgenden V
 
 Die Kantone vollziehen die folgenden Strafen und Massnahmen, die von den Strafbehörden des Bundes angeordnet wurden:
 
-- a. gemeinnützige Arbeit;
+- a.[^74-1] …
 - b. Freiheitsstrafen;
 - c. therapeutische Massnahmen;
 - d. Verwahrung;
 - e. Geldstrafen;
 - f. Bussen;
 - g. Friedensbürgschaften;
-- g<sup>bis</sup>.[^74-1] Landesverweisungen;
-- h. Berufsverbote;
+- g<sup>bis</sup>.[^74-2] Landesverweisungen;
+- h.[^74-3] Tätigkeitsverbote, Kontakt- und Rayonverbote;
 - i. Fahrverbote.
 
-<sup>2</sup> Die Strafbehörde des Bundes bestimmt in Anwendung der Artikel 31–36 StPO[^74-2] im Entscheid, welcher Kanton für den Vollzug zuständig ist.
+<sup>2</sup> Die Strafbehörde des Bundes bestimmt in Anwendung der Artikel 31–36 StPO[^74-4] im Entscheid, welcher Kanton für den Vollzug zuständig ist.
 
 <sup>3</sup> Der zuständige Kanton erlässt die Verfügungen über den Vollzug.
 
@@ -963,8 +963,10 @@ Die Kantone vollziehen die folgenden Strafen und Massnahmen, die von den Strafbe
 
 <sup>5</sup> Der Bund entschädigt ihn für die Kosten des Vollzugs freiheitsentziehender Sanktionen. Die Entschädigung bemisst sich nach den Ansätzen, die für den vollziehenden Kanton beim Vollzug eines eigenen Urteils gelten würden.
 
-[^74-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^74-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^74-1]: Aufgehoben durch Ziff. I 1 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, mit Wirkung seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^74-2]: Eingefügt durch Anhang Ziff. 4 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^74-3]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^74-4]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 75
 
@@ -1035,6 +1037,6 @@ Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
 …[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [[AS 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)[2131](https://fedlex.data.admin.ch/eli/oc/2003/313)[3543](https://fedlex.data.admin.ch/eli/oc/2003/510), [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[4213](https://fedlex.data.admin.ch/eli/oc/2006/634), [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)]
-[^annexu1-lvlu1-2]: [[AS 2003 2163](https://fedlex.data.admin.ch/eli/oc/2003/316), [2005 4603](https://fedlex.data.admin.ch/eli/oc/2005/599)]
+[^annexu1-lvlu1-1]: [[AS 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314), [2131](https://fedlex.data.admin.ch/eli/oc/2003/313), [3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218), [2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [4213](https://fedlex.data.admin.ch/eli/oc/2006/634); [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)]
+[^annexu1-lvlu1-2]: [[AS 2003 2163](https://fedlex.data.admin.ch/eli/oc/2003/316); [2005 4603](https://fedlex.data.admin.ch/eli/oc/2005/599)]
 [^annexu1-lvlu1-3]: Die Änderungen können unter [AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444)konsultiert werden.

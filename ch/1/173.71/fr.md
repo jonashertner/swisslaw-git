@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 mars 2010 sur l'organisation des autorités pénale
 short: LOAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/444"
 language: fr
-version: 2021-01-01
+version: 2023-07-01
 adopted: 2010-03-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/444/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-444-20210101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/444/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-444-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20210101/fr"
 
 (Loi sur l’organisation des autorités pénales, LOAP)[^t-1]\*
 
-du 19 mars 2010 (État le 1<sup>er</sup> janvier 2021)
+du 19 mars 2010 (État le 1<sup>er</sup> juillet 2023)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -639,7 +639,7 @@ Ne peuvent être en même temps juges au Tribunal pénal fédéral:
 
 <sup>3</sup> Les sièges vacants sont repourvus pour le reste de la période.
 
-[^48-1]: Nouvelle teneur selon le ch. I 3 de la LF du 16 mars 2012 (Augmentation de l'âge maximal des juges), en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 5647](https://fedlex.data.admin.ch/eli/oc/2012/657); [FF 2011 8255](https://fedlex.data.admin.ch/eli/fga/2011/1551)[8273](https://fedlex.data.admin.ch/eli/fga/2011/1554)).
+[^48-1]: Nouvelle teneur selon le ch. I 3 de la LF du 16 mars 2012 (Augmentation de l’âge maximal des juges), en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 5647](https://fedlex.data.admin.ch/eli/oc/2012/657); [FF 2011 8255](https://fedlex.data.admin.ch/eli/fga/2011/1551)[8273](https://fedlex.data.admin.ch/eli/fga/2011/1554)).
 
 #### Art. 49
 
@@ -946,18 +946,18 @@ La fourchette des émoluments est de 200 à 100 000 francs pour chacune des proc
 
 Les cantons sont chargés de l’exécution des peines et mesures suivantes ordonnées par les autorités pénales de la Confédération:
 
-- a. travail d’intérêt général;
+- a.[^74-1] …
 - b. peines privatives de liberté;
 - c. mesures thérapeutiques;
 - d. internement;
 - e. peines pécuniaires;
 - f. amendes;
 - g. cautionnements préventifs;
-- g<sup>bis</sup>.[^74-1] expulsions;
-- h. interdictions d’exercer une profession;
+- g<sup>bis</sup>.[^74-2] expulsions;
+- h.[^74-3] interdictions d’exercer une activité, interdictions de contact et interdictions géographiques;
 - i. interdictions de conduire.
 
-<sup>2</sup> L’autorité pénale de la Confédération désigne dans son prononcé le canton compétent en matière d’exécution, en application des art. 31 à 36 CPP[^74-2].
+<sup>2</sup> L’autorité pénale de la Confédération désigne dans son prononcé le canton compétent en matière d’exécution, en application des art. 31 à 36 CPP[^74-4].
 
 <sup>3</sup> Le canton compétent rend les ordonnances en matière d’exécution.
 
@@ -965,8 +965,10 @@ Les cantons sont chargés de l’exécution des peines et mesures suivantes ordo
 
 <sup>5</sup> La Confédération l’indemnise pour les frais d’exécution des sanctions privatives de liberté. L’indemnité est calculée selon les tarifs applicables au canton compétent pour l’exécution d’un jugement cantonal.
 
-[^74-1]: Introduite par l’annexe ch. 4 de la LF du 20 mars 2015 (Mise en oeuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^74-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^74-1]: Abrogée par le ch. I 1 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^74-2]: Introduite par l’annexe ch. 4 de la LF du 20 mars 2015 (Mise en oeuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^74-3]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^74-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 75
 
@@ -1035,7 +1037,7 @@ II
 
 Les lois mentionnées ci-après sont modifiées comme suit:
 
-...[^annexu1-lvlu1-3]
+…[^annexu1-lvlu1-3]
 
 [^annexu1-lvlu1-1]: [[RO 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)[2131](https://fedlex.data.admin.ch/eli/oc/2003/313)art. 3 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)annexe ch. II 4 let. C, **2006** 1205 annexe ch. 4 2197 annexe ch. 14 4213 ch. I 2, **2010** 1881 annexe 1 ch. II 4]
 [^annexu1-lvlu1-2]: [[RO 2003 2163](https://fedlex.data.admin.ch/eli/oc/2003/316), [2005 4603](https://fedlex.data.admin.ch/eli/oc/2005/599)art. 5 ch. 2]

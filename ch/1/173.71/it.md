@@ -4,11 +4,11 @@ title: "Legge federale del 19 marzo 2010 sull'organizzazione delle autorità pen
 short: LOAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/444"
 language: it
-version: 2021-01-01
+version: 2023-07-01
 adopted: 2010-03-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/444/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2010-444-20210101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/444/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2010-444-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/444/20210101/it"
 
 (Legge sull’organizzazione delle autorità penali, LOAP)
 
-del 19 marzo 2010 (Stato 1° gennaio 2021)
+del 19 marzo 2010 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -944,18 +944,18 @@ Gli emolumenti variano da un minimo di 200 franchi fino a un massimo di 100 000 
 
 I Cantoni eseguono le seguenti pene e misure pronunciate dalle autorità penali della Confederazione:
 
-- a. lavori di pubblica utilità;
+- a.[^74-1] ...
 - b. pene detentive;
 - c. misure terapeutiche;
 - d. internamenti;
 - e. pene pecuniarie;
 - f. multe;
 - g. cauzioni preventive;
-- g<sup>bis</sup>.[^74-1] espulsioni;
-- h. interdizioni dell’esercizio di una professione;
+- g<sup>bis</sup>.[^74-2] espulsioni;
+- h.[^74-3] interdizioni di esercitare un’attività e divieti di avere contatti e di accedere ad aree determinate;
 - i. divieti di condurre.
 
-<sup>2</sup> Nella sua decisione l’autorità penale della Confederazione designa, in applicazione degli articoli 31–36 CPP[^74-2], il Cantone cui compete l’esecuzione.
+<sup>2</sup> Nella sua decisione l’autorità penale della Confederazione designa, in applicazione degli articoli 31–36 CPP[^74-4], il Cantone cui compete l’esecuzione.
 
 <sup>3</sup> Il Cantone competente prende le decisioni inerenti all’esecuzione.
 
@@ -963,8 +963,10 @@ I Cantoni eseguono le seguenti pene e misure pronunciate dalle autorità penali 
 
 <sup>5</sup> La Confederazione lo indennizza delle spese per l’esecuzione delle pene detentive. L’esecuzione è indennizzata secondo le tariffe che il Cantone cui compete l’esecuzione applicherebbe per l’esecuzione di una propria sentenza.
 
-[^74-1]: Introdotta dall’all. n. 4 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^74-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^74-1]: Abrogato dal n. I 1 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, con effetto dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^74-2]: Introdotta dall’all. n. 4 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^74-3]: Nuovo testo giusta il n. I 1 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^74-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 75
 
@@ -1035,6 +1037,6 @@ Le leggi federali qui appresso sono modificate come segue:
 
 ...[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [[RU 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)[2131](https://fedlex.data.admin.ch/eli/oc/2003/313)art. 3 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. II 4 lett. c, [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)all. n. 4 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 14 [4213](https://fedlex.data.admin.ch/eli/oc/2006/634)n. I 2, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 4]
+[^annexu1-lvlu1-1]: [[RU 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314), [2131](https://fedlex.data.admin.ch/eli/oc/2003/313)art. 3, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. II 4 lett. c; [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)all. n. 4, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 14, [4213](https://fedlex.data.admin.ch/eli/oc/2006/634)n. I 2; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 4]
 [^annexu1-lvlu1-2]: [[RU 2003 2163](https://fedlex.data.admin.ch/eli/oc/2003/316), [2005 4603](https://fedlex.data.admin.ch/eli/oc/2005/599)art. 5 n. 2]
 [^annexu1-lvlu1-3]: Le mod. possono essere consultate alla [RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444).
