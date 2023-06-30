@@ -4,11 +4,10 @@ number: "172.110.1"
 title: Organisationsverordnung der Direktion der Justiz und des Innern (JIOV)
 short: JIOV
 language: de
-version: "2018-04-01"
-nachtrag: "100"
-valid_until: 2023-07-01
+nachtrag: "121"
+valid_until: 2025-07-01
 adopted: 2023-03-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_1-2009_09_16-2009_11_01-100.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_1-2023_03_10-2023_07_01-121.html"
 text: pdf
 ---
 
@@ -16,999 +15,955 @@ text: pdf
 
 # Organisationsverordnung der Direktion der Justiz und des Innern (JIOV)
 
-(vom 16. September 2009)[^t-1]
+(vom 10. März 2023)[^t-1],[^t-2]
 
 Die Direktion der Justiz und des Innern,
 
-gestützt auf § 60 Abs. 1 der Verordnung über die Organisation des Regierungsrates und der kantonalen Verwaltung (VOG RR) vom 18. Juli 2007[^t-2],
+gestützt auf § 40 Abs. 1 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung vom 6. Juni 2005 (OG RR)[^t-3] und § 60 Abs. 1 der Verordnung über die Organisation des Regierungsrates und der kantonalen Verwaltung vom 18. Juli 2007 (VOG RR)[^t-4],
 
 verfügt:
 
-[^t-1]: OS 64, 576.
-[^t-2]: LS 172.11.
+[^t-1]: OS 78, 185; Begründung siehe ABl 2023-03-31.
+[^t-2]: Inkrafttreten: 1. Juli 2023.
+[^t-3]: LS 172.1.
+[^t-4]: LS 172.11.
 
-### 1. Abschnitt: Gliederung
+### 1. Abschnitt: Direktion der Justiz und des Innern
 
-**Verwaltungseinheiten der Direktion**
+#### § 1
 
-§ 1.[^h1AbschnittGliede-1] <sup>1</sup> Die Direktion der Justiz und des Innern gliedert sich in folgende Verwaltungseinheiten:
+**Gliederung (Anhang 2 Ziff. 1.1 und 1.2 VOG RR)**
 
-- a. Generalsekretariat,
+<sup>1</sup> Die Direktion der Justiz und des Innern (Direktion) gliedert sich in folgende Verwaltungseinheiten:
 
-- b. Bereiche:
+- a. das Generalsekretariat,
 
-- 1\. Amt für Justizvollzug (JUV),
+- b. Verwaltungseinheiten mit Amtsstruktur:
 
-- 2\. Strafverfolgung Erwachsene (SVE), bestehend aus der Oberstaatsanwaltschaft (OSTA) und den Staatsanwaltschaften (STA),
+- 1\. Justizvollzug und Wiedereingliederung (JuWe),
 
-- 3\. Jugendstrafrechtspflege (JSP), bestehend aus der Oberjugendanwaltschaft (OJUGA) und den Jugendanwaltschaften (JUGA),
+- 2\. Oberstaatsanwaltschaft und Staatsanwaltschaften (Staatsanwaltschaft, STA.ZH),
+
+- 3\. Oberjugendanwaltschaft und Jugendanwaltschaften (Jugendstrafrechtspflege, JSP)
 
 - 4\. Gemeindeamt (GAZ),
 
-- c. Fachämter:
+- 5\. Handelsregisteramt (HRA),
 
-- 1\. Handelsregisteramt (HRA),
+- 6\. Statistisches Amt (STAT),
 
-- 2\. Statistisches Amt (STAT),
+- 7\. Staatsarchiv (StAZH),
 
-- 3\. Staatsarchiv (STAZH),
+- c. weitere Verwaltungseinheiten:
 
-- d. Fachstellen:
+- 1\. Fachstelle Gleichstellung (FG),
 
-- 1\. Fachstelle für Gleichstellung von Frau und Mann (FFG),
-
-- 2\. Fachstelle für Integrationsfragen (FI),
+- 2\. Fachstelle Integration (FI),
 
 - 3\. Fachstelle Kultur (FK),
 
 - 4\. Kantonale Opferhilfestelle (KOH).
 
-<sup>2</sup> Die Gliederung des Generalsekretariats, der Bereiche und der Fachämter richtet sich nach Anhang 1 dieser Verordnung.
+<sup>2</sup> Die Gliederung richtet sich a. beim Generalsekretariat nach § 8 Abs. 3 und seinem Organisationsreglement,
 
 **1**
 
-- 1\. 4. 18 - 100 § 2. <sup>1</sup> Der Direktion sind die Statthalterämter und die Bezirksratskanzleien angegliedert.[^h1AbschnittGliede-2]
+- 1\. 7. 23 - 121
 
-**Administrativ angegliederte Bereiche**
+- b. bei den Verwaltungseinheiten mit Amtsstruktur nach dem übergeordneten Recht, Anhang 1 und ihrem jeweiligen Organisationsreglement,
 
-<sup>2</sup> Für diese gilt die Verordnung direkt, wo es ausdrücklich erwähnt ist, und sinngemäss, soweit dies mit deren Funktion und Aufgaben vereinbar ist.
+- c. bei den weiteren Verwaltungseinheiten nach dem übergeordneten Recht und ihrem jeweiligen Organisationsreglement.
 
-**Administrativ betreute Einheiten**
+#### § 2
 
-§ 2 a.[^h1AbschnittGliede-3] <sup>1</sup> Die Direktion betreut die Evangelisch-reformierte Landeskirche, die Römisch-katholische Körperschaft, die Christkatholische Kirchgemeinde, die Israelitische Cultusgemeinde Zürich und die Jüdische Liberale Gemeinde nach Massgabe des Kirchengesetzes[^h1AbschnittGliede-4] und des Gesetzes über die anerkannten jüdischen Gemeinden[^h1AbschnittGliede-5] sowie der Verordnung zu diesen Gesetzen.
+**Administrativ angegliederte Einheiten (Anhang 2 Ziff. 1.3 VOG RR)**
 
-<sup>2</sup> Sie dient Behörden, Verwaltungsstellen, Religionsgemeinschaften und Einzelpersonen als Anlaufstelle für Religionsfragen, soweit diese den Staat betreffen.
+<sup>1</sup> Der Direktion administrativ angegliedert sind:
 
-[^h1AbschnittGliede-1]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
-[^h1AbschnittGliede-2]: Fassung gemäss Vfg. vom 16. Januar 2012 (OS 67, 77; ABl 2012, 129). In Kraft seit 1. Januar 2012.
-[^h1AbschnittGliede-3]: Eingefügt durch Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
-[^h1AbschnittGliede-4]: LS 180.1.
-[^h1AbschnittGliede-5]: LS 184.1.
+- a. die Bezirksratskanzleien,
 
-### 2. Abschnitt: Organisation
+- b. die Statthalterämter.
 
-A. Direktionsvorsteherin oder Direktionsvorsteher
+<sup>2</sup> Die Gliederung der administrativ angegliederten Einheiten richtet sich nach dem übergeordneten Recht und ihrem jeweiligen Organisationsreglement.
 
-**Stellung und Aufgaben**
+#### § 3
 
-§ 3. <sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher (DV) trägt die oberste Verantwortung für die Führung und Steuerung der Direktion und deren Aufgabenerfüllung.
+**Kantonale Beteiligungen**
 
-<sup>2</sup> Sie oder er a. stellt die Umsetzung der Legislaturziele des Regierungsrates in der Direktion sicher,
+Die Beteiligungen des Kantons an folgenden Institutionen fallen nach Massgabe der Spezialgesetzgebung in den Zuständigkeitsbereich der Direktion:
 
-- b. legt die Legislaturziele und die ordentliche Aufgaben- und Finanzplanung der Direktion fest,
+- a. BVG- und Stiftungsaufsicht des Kantons Zürich (BVS),
 
-- c. genehmigt Planungen und Anträge der Verwaltungseinheiten, d.[^h2AbschnittOrgani-1] weist den Verwaltungseinheiten Aufgaben und Kompetenzen zu, e.[^h2AbschnittOrgani-1] beaufsichtigt die Verwaltungseinheiten und die administrativ angegliederten Bereiche,
+- b. Opernhaus Zürich AG,
 
-- f. gewährleistet die Vollzugs- und Rechtspflegeaufgaben der Direktion, g.[^h2AbschnittOrgani-2] führt die ihr oder ihm direkt Unterstellten und legt die Führungs- und Controllinginstrumente der Direktion fest.
+- c. Theater am Neumarkt AG,
 
-**Unterstellungen**
+- d. Schauspielhaus Zürich AG,
 
-§ 4.[^h2AbschnittOrgani-3] <sup>1</sup> Der Direktionsvorsteherin oder dem Direktionsvorsteher sind direkt unterstellt:
+- e. Radio- und Fernsehgenossenschaft Zürich Schaffhausen (RFZ),
+
+- f. READ-COOP SCE mit beschränkter Haftung.
+
+#### § 4
+
+**Direktionsvorsteherin oder Direktionsvorsteher a. Stellung**
+
+<sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher trägt die oberste Verantwortung für a. die Vorbereitung der Regierungsgeschäfte und den Vollzug der Beschlüsse des Regierungsrates im Zuständigkeitsbereich der Direktion,
+
+- b. die Leitung und die Aufgabenerfüllung der Direktion.
+
+<sup>2</sup> Sie oder er pflegt im Rahmen ihrer oder seiner Zuständigkeiten Beziehungen zu den Gemeinden, den anderen Kantonen, dem Bund und dem Ausland.
+
+#### § 5
+
+**b. Unterstellungen**
+
+Der Direktionsvorsteherin oder dem Direktionsvorsteher direkt unterstellt sind:
 
 - a. die Generalsekretärin oder der Generalsekretär,
 
-- b. die Leiterinnen und Leiter der Verwaltungseinheiten,
+- b. die Leiterinnen und Leiter der anderen Verwaltungseinheiten,
 
 - c. die Direktionsassistenz.
 
-<sup>2</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher kann die Leiterinnen und Leiter von Fachstellen stattdessen der Generalsekretärin oder dem Generalsekretär unterstellen.[^h2AbschnittOrgani-4]
+#### § 6
 
-B. Generalsekretariat
+**Generalsekretärin oder Generalsekretär**
 
-**Aufgaben und Gliederung**
+<sup>1</sup> Die Generalsekretärin oder der Generalsekretär a. vertritt die Direktionsvorsteherin oder den Direktionsvorsteher im Rahmen der ihr oder ihm übertragenen Befugnisse,
 
-§ 5. <sup>1</sup> Das Generalsekretariat ist allgemeine Stabsstelle und Dienstleistungszentrum der Direktion.
+- b. leitet das Generalsekretariat.
 
-<sup>2</sup> Das Generalsekretariat a. unterstützt die Direktionsvorsteherin oder den Direktionsvorsteher,
+<sup>2</sup> Sie oder er kann a. erstinstanzlich im Namen der Direktion entscheiden, soweit diese Befugnis nicht durch das übergeordnete Recht oder diese Verordnung einer anderen Verwaltungseinheit zugewiesen ist,
 
-- b. unterstützt und begleitet die Verwaltungseinheiten bei den von ihnen zu erfüllenden Aufgaben der Direktion und bringt dabei insbesondere die Sicht der Direktion ein,
+- b. im Namen der Direktion über Rekurse gegen Anordnungen entscheiden, welche die anderen Verwaltungseinheiten erstinstanzlich in eigenem Namen getroffen haben.
 
-- c. erfüllt die Aufgaben der Direktion, soweit sie keiner Verwaltungseinheit zugewiesen werden können,
+#### § 7
 
-- d. vertritt die Direktion in den Koordinationsorganen der Direktionen nach §§ 68 ff. VOG RR[^h2AbschnittOrgani-5],
+**Direktionsassistenz und ihr unterstellte Personen**
 
-- e. leitet die direktionsinternen Koordinationsgremien in den Querschnittbereichen.
+<sup>1</sup> Die Direktionsassistenz und die ihr unterstellten Personen unterstützen a. die Direktionsvorsteherin oder den Direktionsvorsteher,
 
-<sup>3</sup> Es gliedert sich in den Stabs- und Rechtsdienst (SRD), die Hauptabteilung Informatik (IT JI), die Abteilung Finanzen, Controlling und Logistik (FCL) sowie den Personaldienst (PD).[^h2AbschnittOrgani-1]
+- b. die Generalsekretärin oder den Generalsekretär sowie ihre oder seine Stellvertreterinnen und Stellvertreter.
 
-**Generalsekretärin oder Generalsekretär a. Stellung und Aufgaben**
+<sup>2</sup> Zu ihren Aufgaben gehören insbesondere:
 
-§ 6. <sup>1</sup> Die Generalsekretärin oder der Generalsekretär unterstützt die Direktionsvorsteherin oder den Direktionsvorsteher im gesamten Aufgabenbereich. Sie oder er vertritt die Vorsteherin oder den Vorsteher und entscheidet an ihrer oder seiner Stelle im Einvernehmen mit ihr oder ihm.
+- a. Organisation, Koordination und Vorbereitung von Sitzungen und Anlässen,
 
-<sup>2</sup> Sie oder er a. koordiniert die Zusammenarbeit unter den Verwaltungseinheiten der Direktion und mit den anderen Direktionen,
+- b. Terminplanung,
 
-- b. informiert die Mitarbeitenden der Direktion und die Verwaltungseinheiten zusammen mit der oder dem Kommunikationsbeauftragten über Belange der gesamten Direktion.
+- c. Betreuung des physischen und elektronischen Posteingangs und -ausgangs sowie des zentralen Telefonanschlusses der Direktion,
+
+- d. Korrespondenz und Aufbereitung von Führungsinformationen,
+
+- e. Beratung bei und Kontrolle der Einhaltung von internen Abläufen, die insbesondere die Antragstellung an den Regierungsrat und die Kontaktaufnahme mit der Direktionsvorsteherin oder dem Direktionsvorsteher betreffen,
+
+- f. ihre verwaltungsinterne Vernetzung.
+
+<sup>3</sup> Die Direktionsassistenz und die ihr unterstellten Personen sind administrativ dem Generalsekretariat zugeordnet.
+
+### 2. Abschnitt: Generalsekretariat
+
+#### § 8
+
+**Funktion und Gliederung**
+
+<sup>1</sup> Das Generalsekretariat ist die Stabsstelle der Direktion.
+
+<sup>2</sup> Es erfüllt die Aufgaben gemäss § 41 Abs. 2 OG RR, §§ 61–64 VOG RR und dieser Verordnung. Es erfüllt zudem die Aufgaben der Direktion, soweit sie keiner anderen Verwaltungseinheit zugewiesen sind.
 
 **3**
 
-- 1\. 4. 18 - 100
+- 1\. 7. 23 - 121
 
-<sup>3</sup> Im Rahmen der Leitung des Generalsekretariats nimmt sie oder er insbesondere folgende Aufgaben wahr:
+<sup>3</sup> Es gliedert sich in:
 
-- a. Planung und Steuerung der Aufgaben des Generalsekretariats,
+- a. Stabs- und Rechtsdienst (SRD),
 
-- b. Personalführung, c.[^h2AbschnittOrgani-2] Regelung der Geschäftsverwaltung des Generalsekretariats,
+- b. Hauptabteilung Digital Solutions (DigiSol),
 
-- d. Regelung organisatorischer Belange und Festlegung von Prozessen,
+- c. Abteilung Finanzen, Controlling und Logistik (FCL),
 
-- e. Qualitätsmanagement.
+- d. Abteilung Human Resources (HR),
 
-<sup>4</sup> Sie oder er kann im Einvernehmen mit der Direktionsvorsteherin oder dem Direktionsvorsteher bestimmte Aufgaben an ihre oder seine Stellvertretung oder andere Mitarbeitende des Generalsekretariats zur selbstständigen Erledigung übertragen.[^h2AbschnittOrgani-2]
+- e. Abteilung Kommunikation (KOMM),
 
-**b. Personalgeschäfte**
+- f. Abteilung Business Support (BS).
 
-§ 7. <sup>1</sup> Die Generalsekretärin oder der Generalsekretär erledigt Personalgeschäfte von Angestellten der gesamten Direktion ab Lohnklasse 24, die gemäss Personalrecht zwingend einen Entscheid der Direktion erfordern. Vorbehalten bleibt die Zuständigkeit der Direktionsvorsteherin oder des Direktionsvorstehers für die ihr oder ihm direkt Unterstellten.
+#### § 9
 
-<sup>2</sup> Die Generalsekretärin oder der Generalsekretär entscheidet auf Antrag oder nach Rücksprache mit der Leiterin oder dem Leiter der Verwaltungseinheit. Bei wichtigen Personalgeschäften von Angestellten in Schlüsselpositionen nimmt sie oder er zudem Rücksprache mit der Direktionsvorsteherin oder dem Direktionsvorsteher.
+**Aufgaben a. Stabs- und Rechtsdienst**
 
-<sup>3</sup> . . .[^h2AbschnittOrgani-6]
+Der Stabs- und Rechtsdienst a. unterstützt und berät die Direktionsvorsteherin oder den Direktionsvorsteher insbesondere bei der Leitung der Direktion und der Ausübung der Aufsicht über die Verwaltungseinheiten gemäss § 1 Abs. 1 lit. b und c und die administrativ angegliederten Einheiten sowie bei der Antragstellung an den Regierungsrat,
 
-<sup>4</sup> . . .[^h2AbschnittOrgani-6]
+- b. unterstützt und berät das Generalsekretariat, die anderen Verwaltungseinheiten und die administrativ angegliederten Einheiten, insbesondere bei der Antragstellung an den Regierungsrat, bei Rechtsetzungsvorhaben sowie in organisations- und verfahrensrechtlichen Belangen,
 
-**Stabs- und Rechtsdienst**
+- c. leitet Rechtsetzungsvorhaben, Programme oder Projekte oder wirkt an diesen mit,
 
-§ 8.[^h2AbschnittOrgani-1] <sup>1</sup> Der Stabs- und Rechtsdienst besteht aus der Abteilung Justiz und der Abteilung Inneres sowie der oder dem Kommunikationsbeauftragten.
+- d. entscheidet erstinstanzlich im Namen der Direktion, soweit diese Befugnis nicht durch das übergeordnete Recht oder diese Verordnung einer anderen Verwaltungseinheit oder einer anderen untergeordneten Einheit des Generalsekretariats zugewiesen ist und soweit gemäss § 6 Abs. 2 lit. a nicht die Generalsekretärin oder der Generalsekretär entscheidet,
 
-<sup>2</sup> Er nimmt insbesondere folgende Aufgaben wahr:
+- e. entscheidet im Namen der Direktion über Rekurse gegen Anordnungen, welche die Verwaltungseinheiten gemäss § 1 Abs. 1 lit. b und c erstinstanzlich in eigenem Namen getroffen haben, soweit gemäss § 6 Abs. 2 lit. b nicht die Generalsekretärin oder der Generalsekretär entscheidet,
 
-- a. Unterstützung der Direktionsvorsteherin oder des Direktionsvorstehers bei der Führung und Aufsicht der Direktion, einschliesslich Vorbereitung ihrer oder seiner Geschäfte,
+- f. bereitet in Verfahren über Rekurse gegen Anordnungen der administrativ angegliederten Einheiten, die in den sachlichen Zuständigkeitsbereich der Direktion fallen, die Anträge an den Regierungsrat vor,
 
-- b. Rechtspflege namens der Direktion (Rechtsmitteldienst),
+- g. vertritt die Direktion und den Regierungsrat vor Rechtsmittelinstanzen in Verfahren, die in den sachlichen Zuständigkeitsbereich der Direktion fallen,
 
-- c. Juristische und fachliche Unterstützung der Verwaltungseinheiten,
+- h. führt den Gesetzgebungsdienst gemäss § 5 der Rechtsetzungsverordnung vom 29. November 2000[^9-1],
 
-- d. Leitung von oder Mitwirkung bei Rechtsetzungsvorhaben und anderen Projekten,
+- i. ist zuständig für das Kirchenwesen und Religionsfragen nach Massgabe der Spezialgesetzgebung,
 
-- e. Aufgaben des Gesetzgebungsdienstes gemäss Rechtsetzungsverordnung vom 29. November 2000[^h2AbschnittOrgani-7],
+- j. berät die für die Sicherstellung der Einhaltung der Vorgaben über den Datenschutz, die Informationsverwaltung und die Informationssicherheit verantwortlichen Personen innerhalb der Direktion und bei den administrativ angegliederten Einheiten in rechtlicher Hinsicht,
 
-- f. Vollzug des Gesetzes über die Information und den Datenschutz vom 12. Februar 2007 (IDG)[^h2AbschnittOrgani-8] auf Stufe Direktion,
+- k. führt die Ablage der geltenden Fassungen der Organisationsreglemente,
 
-- g. Unterstützung und Koordination der Kommunikation gegen innen und aussen.
+- l. verwaltet die Bibliothek.
 
-<sup>3</sup> Die Leitung des Rechtsmitteldienstes unterzeichnet im Namen der Direktion Rechtsmittelentscheide sowie Eingaben an Rechtsmittelinstanzen. Prozessleitende Entscheide von untergeordneter Bedeutung unterzeichnen die Sachbearbeitenden im Namen der Direktion.
-
-**Hauptabteilung Informatik**
-
-§ 8 a.[^h2AbschnittOrgani-9] <sup>1</sup> Die Hauptabteilung Informatik nimmt insbesondere folgende Aufgaben wahr:
-
-- a. Entwicklung der Informatikstrategie der Direktion sowie Erbringung und Vermittlung aller Informatikdienstleistungen,
-
-- b. Erbringung von Informatikdienstleistungen für die kantonale Verwaltung gemäss den Leistungsvereinbarungen zwischen dem Kantonalen IT-Team (KITT; § 76 VOG RR[^h2AbschnittOrgani-5] und der Direktion.
-
-<sup>2</sup> Wichtige Schritte für die Bereitstellung von Informatikleistungen zugunsten einer Verwaltungseinheit, insbesondere Vertragsabschlüsse, bedürfen der Zustimmung der Leiterin oder des Leiters dieser Verwaltungseinheit.
-
-**Abteilung Finanzen, Controlling und Logistik**
-
-§ 9.[^h2AbschnittOrgani-1] <sup>1</sup> Die Abteilung Finanzen, Controlling und Logistik nimmt insbesondere folgende Aufgaben wahr:
-
-- a. Durchführung und Koordination der Prozesse gemäss Gesetz über Controlling und Rechnungslegung vom 9. Januar 2006 (CRG)[^h2AbschnittOrgani-10] einschliesslich Ressourcen- und Investitionsplanung aus Sicht der Direktion,
-
-- b. Abwicklung des Rechnungswesens für einzelne Verwaltungseinheiten der Direktion und fachliche Beratung im Finanzwesen,
-
-- c. Durchführung des Direktionscontrollings,
-
-- d. Koordination des Internen Kontrollsystems (IKS) einschliesslich Pflege der Datenbank,
-
-- e. Bereitstellung und Bewirtschaftung von Büro- und Betriebsräumlichkeiten sowie weiterer Infrastruktur für die Direktion,
-
-- f. Koordination der Bautätigkeiten und fachliche Beratung der Verwaltungseinheiten im Bauwesen,
-
-- g. fachliche Beratung der Verwaltungseinheiten im Beschaffungswesen.
-
-**5**
-
-- 1\. 4. 18 - 100
-
-<sup>2</sup> Wichtige Schritte für die Bereitstellung von Infrastrukturleistungen zugunsten einer Verwaltungseinheit, insbesondere Vertragsabschlüsse, bedürfen der Zustimmung der Leiterin oder des Leiters dieser Verwaltungseinheit.
-
-[^h2AbschnittOrgani-1]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
-[^h2AbschnittOrgani-2]: Fassung gemäss Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
-[^h2AbschnittOrgani-3]: Fassung gemäss Vfg. vom 9. Dezember 2010 (OS 66, 6; ABl 2010, 3096). In Kraft seit 1. Januar 2011.
-[^h2AbschnittOrgani-4]: Eingefügt durch Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
-[^h2AbschnittOrgani-5]: LS 172.11.
-[^h2AbschnittOrgani-6]: Aufgehoben durch Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
-[^h2AbschnittOrgani-7]: LS 172.16.
-[^h2AbschnittOrgani-8]: LS 170.4.
-[^h2AbschnittOrgani-9]: Eingefügt durch Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
-[^h2AbschnittOrgani-10]: LS 611.
+[^9-1]: LS 172.16.
 
 #### § 10
 
-**Personaldienst a. Aufgaben im Allgemeinen**
+**b. Hauptabteilung Digital Solutions**
 
-Der Personaldienst nimmt insbesondere folgende Aufgaben wahr:[^h2AbschnittOrgani-2] a. Entwicklung und Umsetzung der Personalmanagementstrategie der Direktion,
+Die Hauptabteilung Digital Solutions a. entwickelt die Informatikstrategie der Direktion,
 
-- b. Festlegung einheitlicher Personalmanagementstandards,
+- b. erbringt und vermittelt Informatikdienstleistungen,
 
-- c. Entwicklung und Umsetzung von Personalentwicklungsmassnahmen und Weiterbildungen,
+- c. schliesst nach Zustimmung der Generalsekretärin oder des Generalsekretärs oder der Leiterin oder des Leiters einer anderen Verwaltungseinheit oder einer administrativ angegliederten Einheit Vereinbarungen zur Bereitstellung von Informatikdienstleistungen ab,
 
-- d. Personalcontrolling einschliesslich Überwachung der Stellenpläne sowie der Lohnentwicklung,
-
-- e. Personaladministration und Unterstützung der Verwaltungseinheiten bei den Prozessen des Personalwesens einschliesslich Abschluss von Personalmanagementvereinbarungen,
-
-- f. Betriebliches Gesundheitsmanagement,
-
-- g. Unterstützung der Verwaltungseinheiten bei personalrechtlichen Konflikten und Vertretung der Direktion bei Personalrechtsstreitigkeiten,
-
-- h. Koordination des Internen Kontrollsystems (IKS) in Personalprozessen.
+- d. sorgt unter Vorbehalt der Zuständigkeitsbereiche anderer Direktionen oder der Staatskanzlei für die technischen Voraussetzungen, dass die Vorgaben über den Datenschutz, die Informationsverwaltung und die Informationssicherheit innerhalb der Direktion und bei den administrativ angegliederten Einheiten eingehalten werden können.
 
 #### § 11
 
-**b. Personalrechtliche Entscheide**
+**c. Abteilung Finanzen, Controlling und Logistik**
 
-<sup>1</sup> Die Leiterin oder der Leiter des Personaldienstes erledigt Personalgeschäfte von Angestellten der gesamten Direktion bis Lohnklasse 23, die gemäss Personalrecht zwingend einen Entscheid der Direktion erfordern. Vorbehalten bleibt die Zuständigkeit a. der Direktionsvorsteherin oder des Direktionsvorstehers für die ihr oder ihm direkt Unterstellten,
+Die Abteilung Finanzen, Controlling und Logistik a. führt und koordiniert die Prozesse gemäss der Gesetzgebung über Controlling und Rechnungslegung,
 
-- b. der Generalsekretärin oder des Generalsekretärs für die Angestellten des Generalsekretariats.
+- b. besorgt das Rechnungswesen für das Generalsekretariat und andere Verwaltungseinheiten,
 
-<sup>2</sup> Die Leiterin oder der Leiter des Personaldienstes entscheidet auf Antrag oder nach Rücksprache mit der Leiterin oder dem Leiter der Verwaltungseinheit. Bei wichtigen Personalgeschäften von Angestellten in Schlüsselpositionen nimmt sie oder er zudem Rücksprache mit der Generalsekretärin oder dem Generalsekretär.[^11-1]
+- c. unterstützt und berät das Generalsekretariat, die anderen Verwaltungseinheiten und die administrativ angegliederten Einheiten im Finanzwesen und bei Bauvorhaben,
 
-**Zusammenarbeit mit anderen Verwaltungseinheiten**
+- d. koordiniert die Prozesse des internen Kontrollsystems (IKS) und pflegt die dazugehörige Datenbank,
 
-§ 12. <sup>1</sup> Die Leiterinnen und Leiter des Generalsekretariats, der Hauptabteilung Informatik, der Abteilung Finanzen, Controlling und Logistik sowie des Personaldienstes bezeichnen die Ansprechpersonen für die Zusammenarbeit mit den Verwaltungseinheiten der Direktion und mit den anderen Direktionen.[^11-2]
+- e. vertritt die Interessen der Direktion als Bestellerin und Nutzerin von Büro- und Betriebsräumlichkeiten.
 
-<sup>2</sup> Generalsekretariat und Verwaltungseinheiten informieren sich gegenseitig über Projekte mit Bezügen zu Querschnittaufgaben und beziehen einander nach Bedarf in die Projektorganisation ein.
+#### § 12
 
-**Ergänzende Vorschriften**
+**d. Abteilung Human Resources**
 
-§ 12 a.[^11-3] Soweit keine besonderen Bestimmungen für das Generalsekretariat bestehen, sind die Vorschriften über die Verwaltungseinheiten entsprechend anwendbar.
+Die Abteilung Human Resources a. entwickelt die Personalmanagementstrategie der Direktion und setzt diese um,
 
-[^11-1]: Fassung gemäss Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
-[^11-2]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
-[^11-3]: Eingefügt durch Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
+- b. legt einheitliche Personalmanagementstandards fest,
 
-### C. Verwaltungseinheiten
+**5**
+
+- 1\. 7. 23 - 121
+
+- c. bietet Massnahmen zur Personalentwicklung und Weiterbildungen an,
+
+- d. führt das Personalcontrolling durch, bearbeitet die Stellenpläne und koordiniert die Lohnentwicklungsmassnahmen,
+
+- e. besorgt die Personaladministration des Generalsekretariats, anderer Verwaltungseinheiten und der administrativ angegliederten Einheiten,
+
+- f. unterstützt das Generalsekretariat, die anderen Verwaltungseinheiten und die administrativ angegliederten Einheiten bei den Prozessen des Personalwesens,
+
+- g. koordiniert das betriebliche Gesundheitsmanagement,
+
+- h. unterstützt das Generalsekretariat, die anderen Verwaltungseinheiten und die administrativ angegliederten Einheiten bei der Lösung von personalrechtlichen Konflikten,
+
+- i. koordiniert die Prozesse des IKS im Personalwesen,
+
+- j. berät Mitarbeitende in personalrechtlichen Angelegenheiten.
 
 #### § 13
 
-**Zuständigkeitsbereiche und Aufgaben**
+**e. Abteilung Kommunikation**
 
-Die Verwaltungseinheiten a. bearbeiten die ihnen von der Rechtsordnung zugewiesenen Aufgabenbereiche,
+Die Abteilung Kommunikation a. stellt die Kommunikation der Direktion gegen innen und gegen aussen sicher und bewirtschaftet die Kommunikations- und Informationskanäle der Direktion,
 
-- b. erledigen Aufträge der Direktionsvorsteherin oder des Direktionsvorstehers,
+- b. beantwortet Medienanfragen und vermittelt den Medien Auskunftspersonen,
 
-- c. wirken bei der Vorbereitung von sie betreffenden Regierungsgeschäften mit,
+- c. unterstützt und berät die Direktionsvorsteherin oder den Direktionsvorsteher in Fragen der Kommunikation und bei öffentlichen Auftritten,
 
-- d. wirken bei Gesetzgebungsvorhaben und andern Projekten mit oder leiten solche.
+- d. verfolgt die Berichterstattung der Medien über die Direktion,
+
+- e. macht Vorgaben für Aufnahmekonzepte zu Bild- und Tonaufnahmen, die sensible Aufgabenbereiche betreffen,
+
+- f. unterstützt und berät das Generalsekretariat, die anderen Verwaltungseinheiten, die administrativ angegliederten Einheiten und die Mitarbeitenden in Fragen der Kommunikation und des Corporate Designs,
+
+- g. bietet Weiterbildungen und Anlässe für Mitarbeitende an.
 
 #### § 14
 
-**Leiterin oder Leiter a. Aufgaben**
+**f. Abteilung Business Support**
 
-<sup>1</sup> Die Leiterin oder der Leiter einer Verwaltungseinheit trägt die Verantwortung für deren Führung und Steuerung und deren Aufgabenerfüllung.
+Die Abteilung Business Support a. unterstützt die Generalsekretärin oder den Generalsekretär sowie deren oder dessen Stellvertreterinnen und Stellvertreter in administrativer und technischer Hinsicht, insbesondere bei der Organisation, Koordination und Vorbereitung von Sitzungen und Anlässen,
 
-<sup>2</sup> Sie oder er nimmt dazu insbesondere folgende Aufgaben wahr:
+- b. unterstützt den Stabs- und Rechtsdienst in administrativer und technischer Hinsicht, insbesondere bei der Verfahrensführung, der Aktenablage, der Archivierung, der Verwaltung der Bibliothek und bei Projekten sowie bei der Organisation, Koordination und Vorbereitung von Sitzungen und Anlässen,
 
-- a. Umsetzung der Legislaturziele des Regierungsrates und der Direktion in der Verwaltungseinheit,
+- c. stellt den Unterhalt der Sitzungszimmer und der Cafeteria sicher,
 
-- b. Festlegung der Ziele der Verwaltungseinheit,
+- d. verwaltet das Büromaterial.
 
-- c. Steuerung der Aufgabenerfüllung mit den von der Rechtsordnung vorgesehenen und der Direktion zur Verfügung gestellten Führungsinstrumenten,
+### 3. Abschnitt: Generalsekretariat, andere Verwaltungseinheiten
 
-- d. Führung der ihr oder ihm direkt Unterstellten, e.[^14-1] Regelung der Geschäftsverwaltung der Verwaltungseinheit.
+und administrativ angegliederte Einheiten
 
-**b. Organisationsreglement**
+### A. Aufgaben, Entscheidbefugnisse und Ausgabenkompetenzen
 
-§ 15.[^14-2] <sup>1</sup> Die Leiterin oder der Leiter erlässt ein Organisationsreglement für die Verwaltungseinheit und legt darin insbesondere fest:
+#### § 15
 
-- a. die Gliederung und Organisation der Verwaltungseinheit,
+**Aufgaben und Entscheidbefugnisse**
 
-- b. die Aufgaben der Gliederungseinheiten,
+<sup>1</sup> Das Generalsekretariat, die anderen Verwaltungseinheiten und die administrativ angegliederten Einheiten a. erfüllen die ihnen von der Gesetzgebung und dieser Verordnung zugewiesenen Aufgaben,
 
-- c. die Unterstellungsverhältnisse,
+- b. erledigen Aufträge der Direktionsvorsteherin oder des Direktionsvorstehers,
 
-- d. die Aufgaben, Entscheidbefugnisse und Ausgabenkompetenzen der Direktunterstellten,
+- c. bereiten Regierungs- und Direktionsgeschäfte, die ihren Aufgabenbereich betreffen, vor oder wirken an deren Vorbereitung mit.
 
-- e. die Stellvertretung für sich selbst und die Direktunterstellten,
+<sup>2</sup> Die Verwaltungseinheiten nehmen Querschnittaufgaben gemäss § 62 Abs. 1 lit. c–g VOG RR gemeinsam mit den zuständigen Abteilungen des Generalsekretariats wahr. Vorbehalten bleiben §§ 19 f. und 24 dieser Verordnung.
 
-**7**
+<sup>3</sup> Die administrativ angegliederten Einheiten nehmen Querschnittaufgaben gemäss § 62 Abs. 1 lit. c–f VOG RR gemeinsam mit den zuständigen Abteilungen des Generalsekretariats wahr. Vorbehalten bleiben §§ 19 f. und 24 dieser Verordnung.
 
-- 1\. 4. 18 - 100
-
-- f. die Ansprechpersonen für die Zusammenarbeit mit dem Generalsekretariat, anderen Verwaltungseinheiten und Dritten,
-
-- g. die Information und Kommunikation innerhalb der Verwaltungseinheit und nach aussen,
-
-- h. die nach IDG erforderlichen Regelungen für die Verwaltungseinheit.
-
-<sup>2</sup> Das Organisationsreglement und seine Änderungen sind den Mitarbeitenden der Verwaltungseinheit sowie dem Stabs- und Rechtsdienst in geeigneter Form bekannt zu machen. Der Stabs- und Rechtsdienst führt eine Ablage der Organisationsreglemente aller Verwaltungseinheiten.
-
-<sup>3</sup> Die Ausgabenkompetenzen und ihre Änderungen sind der Abteilung Finanzen, Controlling und Logistik zu melden. Diese leitet die Informationen an die Finanzkontrolle weiter.
-
-[^14-1]: Eingefügt durch Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
-[^14-2]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
+<sup>4</sup> Die Verwaltungseinheiten gemäss § 1 Abs. 1 lit. b und c entscheiden in den Aufgabenbereichen gemäss Anhang 2 im Namen der Direktion.
 
 #### § 16
 
-**c. Genehmigungs- und Informationspflichten**
+**Organisationsreglement (§ 67 Abs. 2 VOG RR)**
 
-<sup>1</sup> Die Leiterin oder der Leiter legt der Direktionsvorsteherin oder dem Direktionsvorsteher frühzeitig folgende Geschäfte zur Genehmigung vor:
+<sup>1</sup> Die Generalsekretärin oder der Generalsekretär sowie die Leiterinnen oder Leiter der anderen Verwaltungseinheiten und der administrativ angegliederten Einheiten erlassen ein Organisationsreglement.
 
-- a. Planung und Zielfestlegungen,
+<sup>2</sup> Das Organisationsreglement des Generalsekretariats a. legt unter Vorbehalt des übergeordneten Rechts und von § 8 Abs. 3 die Gliederung und Organisation des Generalsekretariats fest,
 
-- b. Projekte von besonderer politischer Bedeutung, mit erheblichen organisatorischen, personellen oder finanziellen Auswirkungen oder mit erheblichem Aufwand,
+**7**
 
-- c. Beförderungen, die eine Überschreitung der hierfür zur Verfügung stehenden Lohnsumme nach sich ziehen,
+- 1\. 7. 23 - 121
 
-- d. Festlegung ihrer oder seiner Stellvertretung.
+- b. weist unter Vorbehalt des übergeordneten Rechts und von §§ 9–14 Aufgaben des Generalsekretariats den untergeordneten Einheiten des Generalsekretariats zu,
 
-<sup>2</sup> Die Leiterin oder der Leiter informiert die Direktionsvorsteherin oder den Direktionsvorsteher umgehend über folgende Geschäfte:[^16-1] a.[^16-2] Organisationsregelungen im Sinne von § 15 Abs. 1 lit. a,
+- c. legt die Unterstellungen fest,
 
-- b. Interviewanfragen und Medienkontakte sowie die Erteilung besonderer Auskünfte an andere Behörden oder Institutionen, ausgenommen Detailauskünfte, Routinefragen und Bagatellfragen,
+- d. bezeichnet unter Vorbehalt von § 17 Abs. 2 lit. c die Stellvertreterinnen und Stellvertreter der Generalsekretärin oder des Generalsekretärs,
 
-- c. Personalgeschäfte von Mitarbeitenden in Schlüsselpositionen von besonderer Tragweite, insbesondere Anstellungen, Freistellungen, fristlose Kündigungen und weitere Kündigungen gegen den Willen der Mitarbeitenden,
+- e. bezeichnet die Stellvertreterinnen oder Stellvertreter der Personen, die der Generalsekretärin oder dem Generalsekretär direkt unterstellt sind,
 
-- d. die Verwaltungseinheit betreffende Verfahren bei der Ombudsstelle,
+- f. kann den untergeordneten Einheiten des Generalsekretariats über diese Verordnung hinausgehende erstinstanzliche Entscheidbefugnisse zuweisen, insbesondere für Entscheide im Namen der Direktion,
 
-- e. Geschäfte mit hohem Risiko, wenn ein solches neu auftritt oder sich verschärft.
+- g. legt die Unterschriftsberechtigung der Mitarbeitenden innerhalb der untergeordneten Einheiten des Generalsekretariats fest, insbesondere für Entscheide im Namen der Direktion; für Ausgaben unter Vorbehalt des übergeordneten Rechts sowie von § 18 und Anhang 3,
 
-<sup>3</sup> Bei finanzwirksamen Geschäften und bei Personalgeschäften erfolgt die Vorlage zur Genehmigung oder Information auf dem Fachdienstweg.
+- h. bezeichnet die für die Sicherstellung der Einhaltung der Vorgaben über den Datenschutz, die Informationsverwaltung und die Informationssicherheit verantwortlichen Personen des Generalsekretariats einschliesslich des jeweiligen Verantwortungsbereichs,
 
-[^16-1]: Fassung gemäss Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
-[^16-2]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
-[^16-3]: LS 172.11.
+- i. bezeichnet die für die Sicherstellung der Einhaltung der Vorgaben über den Datenschutz, die Informationsverwaltung und die Informationssicherheit der Direktion verantwortliche Person und ihre Stellvertreterin oder ihren Stellvertreter gemäss § 10 Abs. 2 der Verordnung über die Datenbearbeitung der Direktion der Justiz und des Innern vom 27. Januar 2016[^16-1] einschliesslich des Verantwortungsbereichs,
 
-#### § 17
+- j. führt die Dokumente auf, in denen die für die Sicherstellung der Einhaltung der Vorgaben über den Datenschutz, die Informationsverwaltung und die Informationssicherheit notwendigen Prozesse festgelegt sind.
 
-**Entscheidbefugnisse**
+<sup>3</sup> Das Organisationsreglement einer anderen Verwaltungseinheit a. legt unter Vorbehalt des übergeordneten Rechts und von Anhang 1 die Gliederung und Organisation der Verwaltungseinheit fest,
 
-<sup>1</sup> Die Verwaltungseinheiten entscheiden erstinstanzlich a. in eigenem Namen: in Fällen gemäss § 66 Abs. 1 VOG RR[^16-3],
+- b. weist unter Vorbehalt des übergeordneten Rechts Aufgaben der Verwaltungseinheit den untergeordneten Einheiten der Verwaltungseinheit zu,
 
-- b. im Namen der Direktion: in den Aufgabenbereichen gemäss Anhang 2.
+- c. legt die Unterstellungen fest,
 
-<sup>2</sup> Wird in Fällen nach Abs. 1 lit. b den Begehren der Betroffenen nicht voll entsprochen, ist diesen mit der Eröffnung des Entscheids anzuzeigen, dass sie Einsprache nach § 10 a lit. c des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959[^17-1] erheben können.[^17-2]
+- d. bezeichnet unter Vorbehalt von § 17 Abs. 2 lit. c die Stellvertreterinnen und Stellvertreter der Leiterin oder des Leiters der Verwaltungseinheit,
 
-<sup>3</sup> Wird Einsprache erhoben, entscheidet die Direktionsvorsteherin oder der Direktionsvorsteher.
+- e. bezeichnet die Stellvertreterinnen und Stellvertreter der Personen, die der Leiterin oder dem Leiter der Verwaltungseinheit direkt unterstellt sind,
 
-[^17-1]: LS 175.2.
-[^17-2]: Fassung gemäss Vfg. vom 21. Januar 2013 (OS 68, 125; ABl 2013-02-01). In Kraft seit 1. Januar 2013.
+- f. legt die Unterschriftsberechtigung der Mitarbeitenden der Verwaltungseinheit fest, insbesondere für Entscheide im Namen der Direktion; für Ausgaben unter Vorbehalt des übergeordneten Rechts sowie von § 18 und Anhang 3,
 
-#### § 18
+- g. bezeichnet die für die Sicherstellung der Einhaltung der Vorgaben über den Datenschutz, die Informationsverwaltung und die Informationssicherheit verantwortlichen Personen der Verwaltungseinheit einschliesslich des jeweiligen Verantwortungsbereichs,
 
-**Personalgeschäfte**
+- h. führt die Dokumente auf, in denen die für die Sicherstellung der Einhaltung der Vorgaben über den Datenschutz, die Informationsverwaltung und die Informationssicherheit innerhalb der Verwaltungseinheit notwendigen Prozesse festgelegt sind.
 
-In Personalangelegenheiten haben Verwaltungseinheiten die Aufgaben und Kompetenzen, die das Personalrecht a. den Ämtern zuweist,
+<sup>4</sup> Das Organisationsreglement einer administrativ angegliederten Einheit a. legt unter Vorbehalt des übergeordneten Rechts die Gliederung und Organisation der administrativ angegliederten Einheit fest,
 
-- b. den Direktionen zuweist und dabei die Delegation an Ämter erlaubt.
+- b. weist unter Vorbehalt des übergeordneten Rechts Aufgaben der administrativ angegliederten Einheit den untergeordneten Einheiten der administrativ angegliederten Einheit zu,
 
-#### § 19
+- c. legt die Unterstellungen fest,
 
-**Querschnittaufgaben**
+- d. legt unter Vorbehalt des übergeordneten Rechts die Unterschriftsberechtigung der Mitarbeitenden fest; für Ausgaben zusätzlich unter Vorbehalt von § 18 und Anhang 3,
 
-Die Verwaltungseinheiten nehmen die in den Querschnittbereichen Planung und Steuerung (Controlling) sowie interne Dienstleistungen (Personalwesen, Finanzen, Logistik) anfallenden Aufgaben wahr, soweit sie nicht dem Generalsekretariat obliegen oder diesem zur Erledigung übertragen wurden. Sie arbeiten hierfür mit dem Generalsekretariat zusammen.
+- e. bezeichnet die für die Sicherstellung der Einhaltung der Vorgaben über den Datenschutz, die Informationsverwaltung und die Informationssicherheit verantwortlichen Personen der administrativ angegliederten Einheit einschliesslich des jeweiligen Verantwortungsbereichs,
 
-#### § 20
-
-**Information des Vorgesetzten**
-
-<sup>1</sup> Alle Mitarbeitenden der Direktion informieren umgehend ihre Vorgesetzte oder ihren Vorgesetzten über ausserordentliche Vorfälle in ihrem Aufgabenbereich, wenn diese a. einen dringenden Handlungs- oder Koordinationsbedarf auslösen können,
-
-- b. von besonderer Tragweite oder von politischer Bedeutung sein können.
-
-<sup>2</sup> In ihrem Aufgaben- und Entscheidungsbereich nehmen sie vorab mit ihren Vorgesetzten Rücksprache, wenn politisch sensible Entscheidungen oder Entscheidungen von besonderer Tragweite anstehen oder wenn andere Verwaltungseinheiten von den Entscheidungen wesentlich betroffen sein können.
-
-<sup>3</sup> Bei Bedarf informieren die Vorgesetzten ihrerseits die eigenen Vorgesetzten.
+- f. führt die Dokumente auf, in denen die für die Sicherstellung der Einhaltung der Vorgaben über den Datenschutz, die Informationsverwaltung und die Informationssicherheit innerhalb der administrativ angegliederten Einheit notwendigen Prozesse festgelegt sind.
 
 **9**
 
-- 1\. 4. 18 - 100 § 21. <sup>1</sup> Die Verwaltungseinheiten beschliessen über[^20-1]
+- 1\. 7. 23 - 121
 
-**Ausgaben a. Kompetenzen**
+<sup>5</sup> Die Generalsekretärin oder der Generalsekretär sowie die Leiterinnen und Leiter der anderen Verwaltungseinheiten und der administrativ angegliederten Einheiten informieren die Direktionsvorsteherin oder den Direktionsvorsteher über Inhalt und Änderungen des Organisationsreglements und übermitteln dem Stabs- und Rechtsdienst des Generalsekretariats die jeweils aktuelle Fassung.
 
-- a. neue und gebundene Ausgaben bis zu den in Anhang 3 genannten Beträgen,
+[^16-1]: LS 172.110.11.
 
-- b. gebundene Ausgaben im Rahmen der Ausgabenkompetenz der Direktion (§ 39 Finanzcontrollingverordnung[^20-2], wenn sie sich aus dem Vollzug einer Gesetzesbestimmung ergeben, die in Anhang 4 aufgeführt ist,
+#### § 17
 
-- c. Ausgaben gemäss Spezialbestimmungen in einzelnen Sacherlassen.
+**Informations- und Genehmigungspflichten**
 
-<sup>2</sup> Eine Ausgabe bedarf unabhängig ihrer Höhe der Zustimmung der Direktionsvorsteherin oder des Direktionsvorstehers, wenn sie a. einen politisch besonders sensiblen Bereich betrifft, oder b. in der Finanzplanung nicht vorgesehen ist oder von dieser abweicht.
+<sup>1</sup> Die Generalsekretärin oder der Generalsekretär und die Leiterinnen oder Leiter der anderen Verwaltungseinheiten informieren die Direktionsvorsteherin oder den Direktionsvorsteher oder die zuständige Abteilung des Generalsekretariats umgehend über:
 
-<sup>3</sup> Beträgt eine Ausgabe gemäss Abs. 1 lit. a mehr als ein Fünftel der Kompetenzgrenzen nach Anhang 3, ist die Zweitunterschrift der Stellvertretung der ausgabenberechtigten Person erforderlich.
+- a. Interviewanfragen und Medienkontakte sowie sonstige Anfragen von Behörden, Institutionen oder Personen ausserhalb der Direktion zu Geschäften von besonderer politischer Bedeutung,
 
-[^20-1]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
-[^20-2]: LS 611.2.
+- b. wichtige Personalgeschäfte und personalrechtliche Angelegenheiten,
 
-#### § 22
+- c. Kontaktaufnahmen oder Abklärungen der Finanzkontrolle, der oder des Beauftragten für den Datenschutz, der Ombudsstelle, der oder des Compliancebeauftragten oder anderer Aufsichtsbehörden; ausgenommen sind Kontaktaufnahmen im Rahmen allfälliger institutionalisierter Kontakte,
 
-**b. Budgetdeckung**
+- d. anstehende Entscheide über Ausgaben von besonderer politischer Bedeutung unabhängig von ihrer Höhe,
 
-<sup>1</sup> Ausgaben dürfen nur getätigt werden, wenn diese durch das Budget gedeckt sind.
+- e. besondere Vorkommnisse.
 
-<sup>2</sup> Reicht das Budget einer Verwaltungseinheit voraussichtlich nicht aus, ist der Direktionsvorsteherin oder dem Direktionsvorsteher frühzeitig ein Antrag für einen Nachtragskredit oder für die Bewilligung einer Kreditüberschreitung zu unterbreiten.[^22-1]
+<sup>2</sup> Sie legen der Direktionsvorsteherin oder dem Direktionsvorsteher frühzeitig folgende Geschäfte zur Genehmigung vor:
 
-**c. Form**
+- a. wichtige Planungen und Zielfestlegungen,
 
-§ 23. Ausgaben werden durch Verfügung der zuständigen Stelle oder durch Unterzeichnung des Rechnungsbelegs durch die berechtigte Person bewilligt.
+- b. Projekte von besonderer politischer Bedeutung oder mit erheblichen organisatorischen, personellen oder finanziellen Auswirkungen,
 
-[^22-1]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
+- c. die Bezeichnung ihrer Stellvertreterinnen oder Stellvertreter,
 
-### 3. Abschnitt: Führung und Aufgabenerfüllung
+- d. die Beschaffung von Gütern und Dienstleistungen im freihändigen Verfahren gestützt auf eine Ausnahmebestimmung der Submissionsgesetzgebung.
 
-### A. Allgemeines
+<sup>3</sup> Die Pflichten gemäss Abs. 1 und lit. b und d obliegen auch den Leiterinnen und Leitern der administrativ angegliederten Einheiten.
 
-#### § 24
+#### § 18
 
-**Grundsätze der Personalführung**
+**Ausgabenkompetenzen**
 
-<sup>1</sup> Die Führungskräfte fordern von ihren Mitarbeitenden ziel- und qualitätsorientierte Leistungen und ein ihrer Funktion angemessenes Verhalten. Sie fördern die Selbstständigkeit der Mitarbeitenden, ihre Aus- und Weiterbildung und ihre persönliche Weiterentwicklung. Sie äussern regelmässig ihre Wahrnehmungen und Beurteilungen im Dialog.
+<sup>1</sup> Das Generalsekretariat, die anderen Verwaltungseinheiten und die administrativ angegliederten Einheiten beschliessen über a. neue oder gebundene einmalige oder wiederkehrende Ausgaben bis zu den in Anhang 3 genannten Beträgen,
 
-<sup>2</sup> Sie sind den Mitarbeitenden Vorbild und schaffen Rahmenbedingungen und Freiräume, damit diese ihre Ziele erreichen und sich laufend verbessern können.
+- b. gebundene wiederkehrende Ausgaben unabhängig von ihrer Höhe, sofern sie zulasten eines der im Anhang 1 der Finanzcontrollingverordnung vom 5. März 2008 (FCV)[^18-1] aufgeführten Konten des kantonalen Kontenplans zu verbuchen sind,
 
-<sup>3</sup> Sie tragen und übergeben Verantwortung und sorgen für ein von Vertrauen, Wertschätzung und gegenseitigem Respekt geprägtes Arbeitsklima.
+- c. gebundene einmalige oder wiederkehrende Ausgaben unabhängig von ihrer Höhe, sofern sie aufgrund einer der im Anhang 2 FCV aufgeführten Bestimmungen bewilligt werden.
 
-<sup>4</sup> Sie berücksichtigen die Vereinbarkeit von Beruf und Familie und streben, wo betrieblich möglich, ein ausgewogenes Geschlechterverhältnis der Mitarbeitenden an.
+<sup>2</sup> Besondere Bestimmungen, die dem Generalsekretariat, den anderen Verwaltungseinheiten oder den administrativ angegliederten Einheiten weitergehende Ausgabenkompetenzen einräumen, bleiben vorbehalten.
 
-#### § 25
+<sup>3</sup> Für den Beschluss über Ausgaben gemäss Abs. 1 lit. a, die mehr als ein Fünftel der Beträge gemäss Anhang 3 betragen, ist die Zweitunterschrift einer Stellvertreterin oder eines Stellvertreters der ausgabenberechtigten Person erforderlich.
 
-**Feedback-Kultur**
+[^18-1]: LS 611.2.
 
-Vorgesetzte und Mitarbeitende engagieren sich gemeinsam für eine offene und konstruktive Feedback-Kultur. Sie orientieren sich hierfür an den in der gesamten Direktion geltenden Leitprinzipien.
+### B. Medien und Gesuche um Informationszugang
 
-[^25-1]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
+#### § 19
 
-#### § 26
+**Medienmitteilungen (§ 63 Abs. 2 VOG RR)**
 
-**Leistungserbringung**
+<sup>1</sup> Die untergeordneten Einheiten des Generalsekretariats und die anderen Verwaltungseinheiten übermitteln Medienmitteilungen und Einladungen zu Medienanlässen der Abteilung Kommunikation des Generalsekretariats. Diese übermittelt sie der Regierungskommunikation.
 
-<sup>1</sup> Direktion und Verwaltungseinheiten sorgen für eine kundenfreundliche, wirksame und wirtschaftliche Aufgabenerfüllung.[^25-1]
+<sup>2</sup> Vorbehalten bleibt die Orientierung der Öffentlichkeit im Zusammenhang mit Strafverfahren.
 
-<sup>2</sup> Sie erbringen ihre Leistungen nach Massgabe der übergeordneten Zielsetzungen und berücksichtigen die Belange anderer Verwaltungseinheiten, Behörden und Arbeitspartner. Sie sind frühzeitig für den Informationsaustausch und erforderliche Absprachen besorgt.
+<sup>3</sup> Die administrativ angegliederten Einheiten können Medienmitteilungen und Einladungen zu Medienanlässen direkt den Medien übermitteln.
 
-[^26-1]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
+#### § 20
 
-#### § 27
+**Medienanfragen**
 
-**Entscheidungen**
+<sup>1</sup> Gegenüber Medien erteilen in der Regel Auskunft:
 
-<sup>1</sup> Direktion und Verwaltungseinheiten stellen sicher, dass wichtige Entscheidungen, insbesondere solche mit wesentlichen rechtlichen oder finanziellen Auswirkungen, nach dem Mehr-Augen-Prinzip vorbereitet werden.[^26-1]
+- a. die Direktionsvorsteherin oder der Direktionsvorsteher oder Mitarbeitende des Generalsekretariats, insbesondere der Abteilung Kommunikation, zu Sachverhalten und Vorkommnissen von besonderer politischer Bedeutung oder mit erheblichen organisatorischen, personellen oder finanziellen Auswirkungen,
 
-<sup>2</sup> Sie beziehen mitbetroffene Stellen oder Personen rechtzeitig in den Entscheidprozess ein.
-
-#### § 28
-
-**Mitarbeitende**
-
-<sup>1</sup> Die Mitarbeitenden erfüllen ihre Aufgaben engagiert, initiativ und eigenverantwortlich.
-
-<sup>2</sup> Sie setzen ihre Arbeitskraft und ihre Fähigkeiten zur Erreichung ihrer Ziele ein und nutzen die ihnen gewährten Freiräume.
-
-### B. Führungsinstrumente der Direktionsvorsteherin oder des Direktionsvorstehers
-
-**Leitungskonferenz a. Zusammensetzung und Aufgaben**
-
-§ 29.[^hBFührungsinstrumen-1] <sup>1</sup> Die Leitungskonferenz setzt sich aus der Direktionsvorsteherin oder dem Direktionsvorsteher und aus folgenden Mitgliedern zusammen:
-
-- a. dem ihr oder ihm direkt unterstellten Kader,
-
-- b. dem der Generalsekretärin oder dem Generalsekretär direkt unterstellten Kader.
-
-c.[^hBFührungsinstrumen-2]
+- b. die Verwaltungseinheiten gemäss § 1 Abs. 1 lit. b und c zu den übrigen Sachverhalten und Vorkommnissen aus ihrem Zuständigkeitsbereich.
 
 **11**
 
-- 1\. 4. 18 - 100
+- 1\. 7. 23 - 121
 
-<sup>2</sup> Die Leitungskonferenz a. unterstützt und berät die Direktionsvorsteherin oder den Direktionsvorsteher in Fragen der Führung und Aufgabenerfüllung der Direktion, b.[^hBFührungsinstrumen-3] erarbeitet Grundlagen für die Direktionsstrategie in den Querschnittaufgaben, insbesondere für die Personalpolitik und für die Informatik sowie für den Einsatz von Controllinginstrumenten und für die Geschäftsverwaltung,
+<sup>2</sup> Die Mitarbeitenden des Generalsekretariats und die Verwaltungseinheiten gemäss § 1 Abs. 1 lit. b und c nehmen im Zweifelsfall vor Erteilung einer Auskunft Rücksprache mit der Abteilung Kommunikation des Generalsekretariats.
 
-- c. pflegt den Informationsaustausch,
+<sup>3</sup> Sie beachten die Informationspflicht gemäss § 17 Abs. 1 lit. a.
 
-- d. erörtert Schwerpunktthemen aus aktuellem Anlass, die die Mehrheit der Verwaltungseinheiten betreffen.
+<sup>4</sup> Die administrativ angegliederten Einheiten beantworten an sie gerichtete Medienanfragen direkt.
 
-**b. Sitzungen und Klausur**
+#### § 21
 
-§ 30.[^hBFührungsinstrumen-1] <sup>1</sup> Die Sitzungen der Leitungskonferenz finden zwei- bis dreimal pro Jahr statt.
+**Bild- und Tonaufnahmen a. im Allgemeinen**
 
-<sup>2</sup> Einmal pro Jahr wird eine Klausur zu besonderen Schwerpunktthemen durchgeführt.
+<sup>1</sup> Bild- und Tonaufnahmen bedürfen einer Bewilligung. Zuständig ist:
 
-<sup>3</sup> Bei Bedarf werden Fachpersonen oder Vertretungen der Verwaltungseinheiten beigezogen.
+- a. für das Generalsekretariat die Generalsekretärin oder der Generalsekretär,
 
-**Strafjustizrapport**
+- b. für eine andere Verwaltungseinheit oder administrativ angegliederte Einheit deren Leiterin oder Leiter.
 
-§ 31.[^hBFührungsinstrumen-1] <sup>1</sup> Zur Koordination der Planung und Steuerung der Aufgabenerfüllung im Bereich der Strafjustiz führt die Direktionsvorsteherin oder der Direktionsvorsteher drei- bis fünfmal pro Jahr einen besonderen Rapport durch, an welchem teilnehmen:
+<sup>2</sup> Diese Befugnis kann im Organisationsreglement der Leiterin oder dem Leiter der jeweiligen Kommunikationsabteilung übertragen werden.
 
-- a. die Generalsekretärin oder der Generalsekretär und deren bzw. dessen Stellvertretung,
+#### § 22
 
-- b. die Leiterinnen und Leiter des Amtes für Justizvollzug, des Bereichs Strafverfolgung Erwachsene und des Bereichs Jugendstrafrechtspflege,
+**b. sensible Aufgabenbereiche**
 
-- c. eine Vertreterin oder ein Vertreter der Statthalterinnen und Statthalter, sofern Themen aus dem Bereich des Übertretungsstrafrechts behandelt werden,
+<sup>1</sup> Betreffen die Bild- und Tonaufnahmen sensible Aufgabenbereiche, braucht es für die Bewilligungserteilung ein Aufnahmekonzept.
 
-- d. weitere Personen nach Bedarf und vorgängiger Absprache.
+<sup>2</sup> Das Aufnahmekonzept legt den Inhalt und den Umfang der Aufnahmen, die Mitwirkung des Generalsekretariats, der anderen Verwaltungseinheit oder der administrativ angegliederten Einheit sowie die Vorkehrungen zum Schutz der Persönlichkeitsrechte von Mitarbeitenden und Dritten fest. Es berücksichtigt die Vorgaben der Abteilung Kommunikation des Generalsekretariats.
 
-<sup>2</sup> Im Rapport werden insbesondere folgende Inhalte thematisiert:
+[^22-1]: LS 170.4. 1. 7. 23 - 121 15
 
-- a. Strategieentwicklung und Strategiekoordination einschliesslich Massnahmenplanung und Controlling,
+#### § 23
 
-- b. Entwicklung und Evaluation von gemeinsamen Projekten, allenfalls unter Einbezug weiterer Arbeitspartner,
+**Gesuche um Informationszugang**
 
-- c. Koordination, Festlegung und Bereinigung von Abläufen und Schnittstellen.
+<sup>1</sup> Das Generalsekretariat, die anderen Verwaltungseinheiten und die administrativ angegliederten Einheiten sind öffentliche Organe im Sinne von § 3 Abs. 1 lit. b des Gesetzes über die Information und den Datenschutz vom 12. Februar 2007[^22-1].
 
-<sup>3</sup> Das Generalsekretariat bereitet im Einvernehmen mit den Teilnehmenden die Traktandenliste vor, besorgt die Verteilung von Unterlagen und erstellt ein Beschlussprotokoll sowie eine Pendenzenliste.
+<sup>2</sup> Sie behandeln Gesuche um Informationszugang in ihrem Zuständigkeitsbereich. Fällt ein Gesuch in den Zuständigkeitsbereich mehrerer öffentlicher Organe, wird die Zuständigkeit unter Beizug des Generalsekretariats ermittelt, ausser das Gesuch betrifft nur administrativ angegliederte Einheiten.
 
-[^hBFührungsinstrumen-1]: Fassung gemäss Vfg. vom 16. Januar 2012 (OS 67, 77; ABl 2012, 129). In Kraft seit 1. Januar 2012.
-[^hBFührungsinstrumen-2]: Aufgehoben durch Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
-[^hBFührungsinstrumen-3]: Fassung gemäss Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
+<sup>3</sup> Betrifft ein Gesuch Sachverhalte von besonderer politischer Bedeutung, informieren die Verwaltungseinheiten gemäss § 1 Abs. 1 lit. b und c und die administrativ angegliederten Einheiten vor der Behandlung das Generalsekretariat.
 
-#### § 32
+### C. Mitarbeitende
 
-**Rapporte der Verwaltungseinheiten a. Zweck, Inhalt und Termine**
+#### § 24
 
-<sup>1</sup> Zur Wahrnehmung ihrer oder seiner Führungs- und Aufsichtsfunktion führt die Direktionsvorsteherin oder der Direktionsvorsteher mit den Verwaltungseinheiten periodische Rapporte durch.
+**Personalgeschäfte und personalrechtliche Angelegenheiten**
 
-<sup>2</sup> In den Rapporten werden die Rahmenbedingungen für die eigenverantwortliche Aufgabenerfüllung der Verwaltungseinheiten festgelegt und hierfür insbesondere folgende Inhalte thematisiert:
+<sup>1</sup> Das Generalsekretariat, die anderen Verwaltungseinheiten und die administrativ angegliederten Einheiten nehmen bei Personalgeschäften und in personalrechtlichen Angelegenheiten alle Aufgaben wahr, die durch die Personalgesetzgebung oder diese Verordnung nicht einer anderen Stelle vorbehalten sind.
 
-- a. Führungs-, Planungs- und Steuerungsaufgaben sowie Auftragserteilung der Direktionsvorsteherin oder des Direktionsvorstehers, b.[^32-1] Projektkoordination und einheitliches Vorgehen bei Querschnittaufgaben in den Bereichen Personal, Finanzen, Ressourcenmanagement, Controlling, Bauwesen, Informationsmanagement und Kommunikation,
+<sup>2</sup> In personalrechtlichen Angelegenheiten, die gemäss Personalgesetzgebung einen Entscheid der Direktion erfordern, entscheidet a. die Direktionsvorsteherin oder der Direktionsvorsteher bei ihr oder ihm direkt unterstellten Personen,
 
-- c. Berichterstattung über die Verwaltungseinheit anhand von Führungskennzahlen des Controllings (Budget, Rechnung, Jahresbericht, Personalcontrolling usw.),
+- b. die Generalsekretärin oder der Generalsekretär bei Angestellten der Direktion und der administrativ angegliederten Einheiten ab Lohnklasse 24,
 
-- d. Orientierung über wichtige Projekte, Entwicklungen, besondere Vorfälle und Personalia aus der Verwaltungseinheit und ihrem Umfeld,
+- c. die Leiterin oder der Leiter der Abteilung Human Resources bei Angestellten der Direktion und der administrativ angegliederten Einheiten bis Lohnklasse 23.
 
-- e. Zielvereinbarung und Mitarbeitendenbeurteilung mit den Leiterinnen und Leitern der Verwaltungseinheiten.
+<sup>3</sup> Die Generalsekretärin oder der Generalsekretär und die Leiterin oder der Leiter der Abteilung Human Resources informieren die Direktionsvorsteherin oder den Direktionsvorsteher bei wichtigen Personalgeschäften frühzeitig.
 
-<sup>3</sup> Die Rapporttermine werden mit den Verwaltungseinheiten frühzeitig für das ganze Jahr vereinbart. Nach Bedarf können zusätzliche Sitzungen festgelegt werden.
+#### § 25
 
-**b.Teilnehmende**
+**Information der Vorgesetzten**
 
-§ 33.[^32-2] <sup>1</sup> An den Rapporten nehmen teil:
+Die Mitarbeitenden des Generalsekretariats, der anderen Verwaltungseinheiten und der administrativ angegliederten Einheiten informieren ihre Vorgesetzten a. umgehend über besondere Vorkommnisse in ihrem Aufgabenbereich,
 
-- a. die Direktionsvorsteherin oder der Direktionsvorsteher,
+- b. frühzeitig, wenn Entscheidungen anstehen, die
 
-- b. die Leiterin oder der Leiter der Verwaltungseinheit,
+- 1\. von besonderer politischer Bedeutung sind,
 
-- c. nach Bedarf:
+- 2\. die Staatskanzlei, andere Direktionen, Verwaltungseinheiten oder administrativ angegliederte Einheiten wesentlich betreffen können,
 
-- 1\. die Generalsekretärin oder der Generalsekretär und/oder deren bzw. dessen Stellvertretung, 2.[^32-3] die Leiterin oder der Leiter der zuständigen Abteilung des Stabs- und Rechtsdienstes,
+- 3\. anderweitig über eine besondere Tragweite verfügen.
 
-- 3\. weitere Personen.
+### D. Austauschgefässe
 
-<sup>2</sup> Die Sitzungen werden von der Direktionsvorsteherin oder dem Direktionsvorsteher und im Verhinderungsfall von der Generalsekretärin oder dem Generalsekretär geleitet.
+#### § 26
+
+**Führungskonferenz**
+
+<sup>1</sup> Die Führungskonferenz dient der Information und der Vernetzung von Personen mit Leitungsfunktion.
 
 **13**
 
-- 1\. 4. 18 - 100 § 34. <sup>1</sup> Die Leiterin oder der Leiter der Verwaltungseinheit ist für die Erstellung einer Traktandenliste besorgt. Traktandenliste und begleitende Unterlagen werden den Teilnehmenden rechtzeitig übermittelt. Ergänzungen der Traktandenliste durch weitere Teilnehmende werden der Leiterin oder dem Leiter der Verwaltungseinheit rechtzeitig mitgeteilt.[^32-2]
+- 1\. 7. 23 - 121
 
-**c. Vorbereitung und Protokoll**
+<sup>2</sup> An der Führungskonferenz nehmen teil:
 
-<sup>2</sup> Die Verwaltungseinheit erstellt ein Beschlussprotokoll und eine Pendenzenliste.
+- a. die Direktionsvorsteherin oder der Direktionsvorsteher,
+
+- b. alle Personen mit Leitungsfunktion
+
+- 1\. des Generalsekretariats,
+
+- 2\. der anderen Verwaltungseinheiten,
+
+- 3\. der administrativ angegliederten Einheiten,
+
+- c. weitere Personen nach Bedarf.
+
+#### § 27
 
 **Direktionskonferenz**
 
-§ 35.[^32-2] <sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher führt ein- bis zweimal jährlich eine Direktionskonferenz durch.
+<sup>1</sup> Die Direktionskonferenz dient der Information und der Vernetzung von Personen mit Leitungsfunktion.
 
-<sup>2</sup> An der Konferenz nehmen teil:
+<sup>2</sup> An der Direktionskonferenz nehmen teil:
 
-- a. die Teilnehmenden der Leitungskonferenz gemäss § 29 Abs. 1,
+- a. die Direktionsvorsteherin oder der Direktionsvorsteher,
 
-- b. die zweite Kaderstufe der Bereiche und Fachämter gemäss Anhang 1,
+- b. die Generalsekretärin oder der Generalsekretär und die ihr oder ihm direkt unterstellten Personen mit Leitungsfunktion,
 
-- c. Kadervertretungen der administrativ angegliederten Bereiche,
+- c. die Leiterinnen und Leiter der anderen Verwaltungseinheiten und die ihnen direkt unterstellten Personen mit Leitungsfunktion,
 
-- d. weitere Personen nach Bedarf und vorgängiger Absprache.
+- d. Vertretungen der administrativ angegliederten Einheiten mit Leitungsfunktion,
 
-<sup>3</sup> Die Direktionskonferenz dient der Information, der Koordination und der gegenseitigen Vernetzung. Hierfür werden insbesondere folgende Inhalte thematisiert:
+- e. weitere Personen nach Bedarf.
 
-- a. Querschnittthemen,
+#### § 28
 
-- b. direktionsübergreifende Schwerpunktthemen,
+**Leitungskonferenz**
 
-- c. Weiterbildung, d.[^32-4] Geschäftsverwaltung,
+<sup>1</sup> Die Leitungskonferenz dient der Koordination der Planung und Steuerung der Aufgabenerfüllung innerhalb der Direktion.
 
-- e. Informationen durch Externe aus ausgewählten Bereichen.
+<sup>2</sup> An der Leitungskonferenz nehmen teil:
 
-[^32-1]: Fassung gemäss Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
-[^32-2]: Fassung gemäss Vfg. vom 16. Januar 2012 (OS 67, 77; ABl 2012, 129). In Kraft seit 1. Januar 2012.
-[^32-3]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
-[^32-4]: Eingefügt durch Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
+- a. die Direktionsvorsteherin oder der Direktionsvorsteher,
 
-### C. Internes Kontrollsystem
+- b. die Generalsekretärin oder der Generalsekretär und die ihr oder ihm direkt unterstellten Personen mit Leitungsfunktion,
 
-[^32-4]
+- c. die Leiterinnen und Leiter der anderen Verwaltungseinheiten,
 
-**Internes Kontrollsystem**
+- d. Vertretungen der administrativ angegliederten Einheiten mit Leitungsfunktion,
 
-§ 35 a.[^hCInternesKontroll-1] <sup>1</sup> Die Direktion verfügt über ein Internes Kontrollsystem (IKS), das die wesentlichen finanzrelevanten Risiken abdeckt.
+- e. weitere Personen nach Bedarf.
 
-<sup>2</sup> Das IKS ist ein Führungsinstrument und unterstützt:
+#### § 29
 
-- a. die verlässliche finanzielle Berichterstattung,
+**Kaderretraite**
 
-- b. die Einhaltung der massgeblichen Gesetze und Normen,
+<sup>1</sup> Die Kaderretraite dient der Information und der Vernetzung von Personen mit Leitungsfunktion sowie der Vertiefung leitungsbezogener Herausforderungen.
 
-- c. den Schutz des Staatsvermögens,
+<sup>2</sup> An der Kaderretraite nehmen die Personen gemäss § 28 Abs. 2 teil.
 
-- d. die Sicherstellung der Effektivität und Effizienz der Abläufe,
+#### § 30
 
-- e. die Transparenz über Prozesse, Risiken und Kontrollen.
+**Kaderdialog Strafjustiz**
 
-<sup>3</sup> Im Übrigen richtet sich das IKS nach den Grundsätzen der Finanzdirektion, die diese gestützt auf § 39 der Rechnungslegungsverordnung vom 29. August 2007 (RLV)[^hCInternesKontroll-2] festlegt.
+<sup>1</sup> Der Kaderdialog Strafjustiz dient der Koordination der Planung und Steuerung der Aufgabenerfüllung im Bereich der Strafjustiz.
 
-[^hCInternesKontroll-1]: Eingefügt durch Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
-[^hCInternesKontroll-2]: LS 611.1.
-[^hCInternesKontroll-3]: Fassung gemäss Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
+<sup>2</sup> Am Kaderdialog Strafjustiz nehmen teil:
 
-### D. Kommunikation
+- a. die Direktionsvorsteherin oder der Direktionsvorsteher,
 
-[^hCInternesKontroll-3]
+- b. die Generalsekretärin oder der Generalsekretär und eine oder einer ihrer oder seiner Stellvertreterinnen und Stellvertreter,
 
-#### § 36
+- c. die Leiterinnen oder Leiter von Justizvollzug und Wiedereingliederung, der Oberstaatsanwaltschaft, der Oberjugendanwaltschaft und der Kantonalen Opferhilfestelle,
 
-**Grundsatz**
+- d. eine Statthalterin oder ein Statthalter, soweit Gegenstände aus dem Bereich des Übertretungsstrafrechts behandelt werden,
 
-Führungskräfte und Mitarbeitende kommunizieren aktiv und holen sich die für ihre Aufgabenerfüllung notwendigen Informationen (Gegenseitigkeitsprinzip).
+- e. weitere Personen nach Bedarf.
 
-**Information der Mitarbeitenden**
+#### § 31
 
-§ 37.[^36-1] Die Direktion stellt den Mitarbeitenden der Direktion Informationen von allgemeinem Interesse über das Intranet zur Verfügung. Dort werden insbesondere folgende Dokumente aufgeschaltet:
+**Kaderdialog Gesellschaft**
 
-- a. Informationen aus der Leitungs- und Direktionskonferenz,
+<sup>1</sup> Der Kaderdialog Gesellschaft dient der Koordination der Planung und Steuerung der Aufgabenerfüllung im Bereich der Förderung des gesellschaftlichen Zusammenhalts und der Teilhabe.
 
-- b. Weisungen, Richtlinien und Vorgaben, insbesondere zur Organisation, zu Querschnittaufgaben und zur Kommunikation,
+<sup>2</sup> Am Kaderdialog Gesellschaft nehmen teil:
 
-- c. vom Generalsekretariat erarbeitete Informationen und Hilfsmittel,
+- a. die Direktionsvorsteherin oder der Direktionsvorsteher,
 
-- d. Veranstaltungshinweise.
+- b. die Generalsekretärin oder der Generalsekretär und eine oder einer ihrer oder seiner Stellvertreterinnen und Stellvertreter,
 
-[^36-1]: Fassung gemäss Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
+- c. die Leiterinnen oder Leiter der Fachstelle Integration, der Fachstelle Gleichstellung, der Fachstelle Kultur und der Kantonalen Opferhilfestelle,
 
-#### § 38
+- d. weitere Personen nach Bedarf.
 
-**Dienstweg**
+#### § 32
 
-<sup>1</sup> Wichtige Informationen und Dokumente werden auf dem Dienstweg übermittelt. Dazu gehören insbesondere Auftragserteilungen und -erledigungen, Stellungnahmen und Berichterstattung sowie genehmigungs- und informationspflichtige Geschäfte und Sachverhalte.
+**Kaderdialoge mit Verwaltungseinheiten oder administrativ angegliederten Einheiten**
 
-<sup>2</sup> Bei besonderer Dringlichkeit ist die Direktübermittlung an die Letztadressatin oder den Letztadressaten zulässig. Die übersprungenen Stufen werden zeitgleich mit Kopien bedient.
+<sup>1</sup> Die Kaderdialoge mit den Verwaltungseinheiten gemäss § 1 Abs. 1 lit. b und c oder den administrativ angegliederten Einheiten dienen dem Austausch über die Planung und Steuerung der Aufgabenerfüllung der jeweiligen Einheit.
 
-<sup>3</sup> Erkennt die empfangende Person, dass der Dienstweg verletzt worden ist, informiert sie die übersprungenen Stufen.
+<sup>2</sup> An den Kaderdialogen nehmen teil:
 
-#### § 39
+- a. die Direktionsvorsteherin oder der Direktionsvorsteher,
 
-**Fachdienstweg**
+- b. die Leiterin oder der Leiter der Verwaltungseinheit oder Vertretungen der administrativ angegliederten Einheiten,
 
-<sup>1</sup> Zusammenarbeit und Informationsvermittlung in den Querschnittaufgaben Personalwesen, Finanzen, Controlling, Logistik, Informatik und Kommunikation erfolgen auf dem Fachdienstweg. Die Fachverantwortlichen sorgen für die erforderliche Informationsverbreitung in den Verwaltungseinheiten.
+- c. weitere Personen nach Bedarf.
 
-<sup>2</sup> Die Fachverantwortlichen im Generalsekretariat erteilen Aufträge in der Regel per E-Mail an die zuständige Fachperson in der Verwaltungseinheit. Sie bedienen die Leiterin oder den Leiter der Verwaltungseinheit sowie die Direktionsvorsteherin oder den Direktionsvorsteher oder die Generalsekretärin oder den Generalsekretär zeitgleich mit Kopien.
+### Anhang 1: Gliederung der Verwaltungseinheiten mit Amtsstruktur
 
-<sup>3</sup> Die Auftragserteilung enthält Angaben zu a. Gegenstand und Kontext,
+**(§ 1 Abs. 2 lit. b)**
 
-- b. Terminen und Form,
+**Verwaltungseinheit**
 
-- c. Zuständigkeiten.
+### Gliederung
 
-**15**
+### 1. Justizvollzug und Wiedereingliederung (JuWe)
 
-- 1\. 4. 18 - 100
+- a. Amtssleitung mit Fachbereichen
 
-<sup>4</sup> Die Empfängerin oder der Empfänger besorgt den Einbezug von Vorgesetzten und weiteren Beteiligten in der Verwaltungseinheit und sorgt für die fristgerechte Zustellung der Erledigung.
+- b. Bewährungs- und Vollzugsdienste
 
-<sup>5</sup> Anträge und Anfragen von Verwaltungseinheiten an die Querschnittdienste des Generalsekretariats von grundsätzlicher Bedeutung erfolgen immer schriftlich oder per E-Mail über die Leitung.
+- c. Forschung und Entwicklung
 
-#### § 40
+- d. Justizvollzugsanstalt Pöschwies
 
-**Beratungen des Personaldienstes**
+- e. Massnahmenzentrum Uitikon
 
-<sup>1</sup> Der Personaldienst steht sämtlichen Mitarbeitenden für personalrechtliche Fragen sowie für die persönliche Beratung direkt zur Verfügung.
+- f. Psychiatrisch-Psychologischer
 
-<sup>2</sup> Die Anfragen werden vertraulich behandelt.
+### Dienst
 
-[^40-1]: Fassung gemäss Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
+- g. Untersuchungsgefängnisse Zürich
 
-### E. Elektronischer Geschäftsverkehr
+- h. Vollzugseinrichtungen Zürich
 
-[^40-1]
+- 2\. Oberstaatsanwaltschaft und Staatsanwaltschaften
 
-**Elektronischer Rechtsverkehr a. Geltungsbereich**
+### (Staatsanwaltschaft, STA.ZH)
 
-§ 40 a.[^hEElektronischerGe-1] Die Bestimmungen dieses Abschnitts über den elektronischen Rechtsverkehr gelten für Verwaltungseinheiten, die Verfahren durchführen, auf welche die Schweizerische Zivilprozessordnung vom 19. Dezember 2008[^hEElektronischerGe-2] oder die Schweizerische Strafprozessordnung vom 5. Oktober 2007[^hEElektronischerGe-3] Anwendung findet.
+- a. Oberstaatsanwaltschaft (OSTA)
 
-[^hEElektronischerGe-1]: Fassung gemäss Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
-[^hEElektronischerGe-2]: SR 272.
-[^hEElektronischerGe-3]: SR 312.0.
-[^hEElektronischerGe-4]: SR 272.1.
-
-#### § 40 b
-
-**b. Behördenadressen**
-
-<sup>1</sup> Das Generalsekretariat legt nach Rücksprache mit der betreffenden Verwaltungseinheit deren Behördenadresse gemäss Art. 5 der Verordnung über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren vom 18. Juni 2010 (VeÜ-ZSSV)[^hEElektronischerGe-4] fest.[^hEElektronischerGe-1]
-
-<sup>2</sup> Die Hauptabteilung Informatik führt ein Verzeichnis der Behördenadressen. Sie meldet die Adressen und ihre Änderungen umgehend der Bundeskanzlei.[^40b-1]
-
-**c. Signaturberechtigte Person**
-
-§ 40 c. <sup>1</sup> In jeder Verwaltungseinheit verfügen mindestens eine Person und eine Stellvertretung über eine qualifizierte elektronische Signatur nach Art. 7 VeÜ-ZSSV[^40b-2] (signaturberechtigte Personen).[^40b-3]
-
-<sup>2</sup> Die Verwaltungseinheiten melden die signaturberechtigten Personen der Hauptabteilung Informatik. Sie führt eine Liste über diese Personen.[^40b-1]
-
-**Elektronischer Schriftverkehr**
-
-§ 40 d.[^40b-3] <sup>1</sup> Die Mitarbeitenden der Direktion können Mitteilungen auf elektronischem Weg versenden und empfangen.
-
-<sup>2</sup> Sie können ihre Mitteilungen mit einer qualifizierten elektronischen Signatur versehen. Diese ist der eigenhändigen Unterschrift gleichgestellt, wenn sie auf einem qualifizierten Zertifikat einer anerkannten Anbieterin von Zertifizierungsdiensten im Sinne des Bundesgesetzes vom 19. Dezember 2003 über die elektronische Signatur (ZertES)[^40b-4] beruht.
-
-<sup>3</sup> Die Bestimmungen über den elektronischen Rechtsverkehr bleiben vorbehalten.
-
-§ 40 e.[^40b-5]
-
-[^40b-1]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
-[^40b-2]: SR 272.1.
-[^40b-3]: Fassung gemäss Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
-[^40b-4]: SR 943.03.
-[^40b-5]: Aufgehoben durch Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
-[^40b-6]: Fassung gemäss Vfg. vom 9. Dezember 2010 (OS 66, 6; ABl 2010, 3096). In Kraft seit 1. Januar 2011.
-
-### 4. Abschnitt: Aussenkontakte und Medien
-
-[^40b-3][^40b-6]
-
-#### § 41
-
-**Zuständigkeiten**
-
-<sup>1</sup> Zu Sachverhalten von grundsätzlicher Bedeutung oder grosser politischer Tragweite, insbesondere über Gesetzes- und Reorganisationsvorhaben oder andere Grossprojekte und bei besonderen Vorkommnissen im Zusammenhang mit der Aufgabenerfüllung der Verwaltungseinheiten äussern sich gegenüber Medien und Dritten die Direktionsvorsteherin oder der Direktionsvorsteher und die Generalsekretärin oder der Generalsekretär. Sie werden dabei von der oder dem Kommunikationsbeauftragten der Direktion unterstützt.
-
-<sup>2</sup> Die Verwaltungseinheiten äussern sich gegenüber Medien und Dritten zu Geschäften und Vorkommnissen aus ihrem Aufgabenbereich. Sie können auf in der Öffentlichkeit bereits geäusserte politische Standpunkte der Direktion Bezug nehmen.
-
-<sup>3</sup> Die Verwaltungseinheiten behandeln Gesuche um Informationszugang gemäss IDG[^41-1] in ihrem Aufgabenbereich. Betrifft ein Gesuch Belange der gesamten Direktion oder den Aufgabenbereich mehrerer Verwaltungseinheiten der Direktion, ist es dem Generalsekretariat zu überweisen.
-
-<sup>4</sup> In Zweifelsfällen nehmen die Verwaltungseinheiten vor der Erteilung von Auskünften an Medien und Dritte auf dem Dienstweg Rücksprache mit der Direktion.
-
-[^41-1]: LS 170.4.
-
-#### § 42
-
-**Medienmitteilungen**
-
-<sup>1</sup> Die Verwaltungseinheiten stellen Medienmitteilungen und Einladungen zu Medienanlässen der oder dem Kommunikationsbeauftragten der Direktion zu. Diese oder dieser leitet sie an die Kommunikationsabteilung des Regierungsrates zur zentralen Verbreitung weiter.
-
-<sup>2</sup> Vorbehalten bleibt die Verbreitung von Medieninformationen über die entsprechenden Dienste der Polizeikorps im Rahmen von Strafuntersuchung und Strafvollzug.
-
-#### § 43
-
-**Ton- und Bildaufnahmen, Dokumentationen**
-
-<sup>1</sup> Ton- und Bildaufnahmen, die den Alltag von Verwaltungseinheiten, die in sensiblen Aufgabenbereichen tätig sind, dokumentieren und inhaltlich über Kurzinterviews hinausgehen, sind von der Leiterin oder dem Leiter der Verwaltungseinheit zu bewilligen.
-
-**17**
-
-- 1\. 4. 18 - 100
-
-<sup>2</sup> Die Verwaltungseinheit legt mit der Gesuchstellerin oder dem Gesuchsteller ein verbindliches Aufnahmekonzept fest, das Inhalt und Umfang der Aufnahmen, Mitwirkung und Begleitung der Verwaltungseinheiten bei der Beitragserstellung sowie den Schutz von Persönlichkeitsrechten von Mitarbeitenden und Dritten regelt.
-
-<sup>3</sup> Die Konzepte sind von der Direktionsvorsteherin oder dem Direktionsvorsteher zu genehmigen.
-
-#### § 44
-
-**Äusseres Erscheinungsbild**
-
-<sup>1</sup> Das Logo, die Bezeichnung der Verwaltungseinheit, Briefkopf und Schriftbild sind für die ganze Direktion einheitlich.
-
-<sup>2</sup> Bei der Gestaltung von Internet- und Intranetauftritten sind die Vorgaben des Regierungsrates zu beachten.
-
-<sup>3</sup> Präsentationen werden auf der Grundlage von Formatvorlagen der Direktion erstellt.
-
-<sup>4</sup> Treten Mitarbeitende der Direktion in der Öffentlichkeit auf, haben Inhalt und Erscheinung ihres Auftritts der Bedeutung der Angelegenheit und der Funktion der oder des Mitarbeitenden zu entsprechen.
-
-[^44-1]: Fassung gemäss Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
-[^44-2]: Fassung gemäss Vfg. vom 9. Dezember 2010 (OS 66, 6; ABl 2010, 3096). In Kraft seit 1. Januar 2011.
-
-### 5. Abschnitt: Schlussbestimmungen
-
-[^44-1][^44-2]
-
-#### § 45
-
-**Umsetzung**
-
-Die Verwaltungseinheiten erlassen die Organisationsregelungen gemäss § 15 bis 31. Dezember 2010.
-
-#### § 46
-
-**Inkrafttreten**
-
-Diese Verordnung tritt am 1. November 2009 in Kraft.
-
-[^46-1]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
-
-### Anhang 1: Gliederung des Generalsekretariats, der Bereiche und der Fachämter (§ 1)
-
-[^46-1]
-
-### Verwaltungseinheit Gliederung
-
-- 1\. Generalsekretariat[^hVerwaltungseinheitG-1] a. Stabs- und Rechtsdienst
-
-- b. Informatik
-
-- c. Finanzen, Controlling und Logistik
-
-- d. Personaldienst
-
-[^hVerwaltungseinheitG-1]: Eingefügt durch Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
-[^hVerwaltungseinheitG-2]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
-
-### 2. Bereiche
-
-[^hVerwaltungseinheitG-2]
-
-2.1[^h2hVerwaltungseinh-1] Amt für Justizvollzug a. Amtsleitung mit Stabsdienst b. Bewährungs- und Vollzugsdienste c. Psychiatrisch-Psychologischer Dienst d. Justizvollzugsanstalt Pöschwies e. Massnahmenzentrum Uitikon f. Untersuchungsgefängnisse Zürich g. Vollzugseinrichtungen Zürich
-
-2.2 Strafverfolgung a. Oberstaatsanwaltschaft (OSTA) Erwachsene b. Allgemeine Staatsanwaltschaften (ASTA):
-
-[^h2hVerwaltungseinh-1]: Fassung gemäss Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
+- b. Regionale Staatsanwaltschaften (RSTA):
 
 ### I. Zürich-Limmat II. Zürich-Sihl III. Winterthur/Unterland IV. See/Oberland V. Limmattal/Albis
 
-- c. Besondere Staatsanwaltschaften (BSTA):
+- c. Kantonale Staatsanwaltschaften (KSTA):
 
-### I. Besondere Untersuchungen
+### I. Schwere Gewaltkriminalität
 
-und Rechtshilfe
+II. Schwerpunktkriminalität,
 
-### II. Betäubungsmitteldelikte
+### Cybercrime und Besondere Untersuchungen III. Qualifizierte Wirtschaftskriminalität
 
-und organisierte Kriminalität
-
-### III. Wirtschaftsdelikte IV. Gewaltdelikte
+und internationale Rechtshilfe
 
 ### Verwaltungseinheit Gliederung
 
-2.3 Jugendstrafrechtspflege a.[^hVerwaltungseinheitG_2-1] Oberjugendanwaltschaft (OJUGA) b.[^hVerwaltungseinheitG_2-1] Jugendanwaltschaften (JugA):
+- 3\. Oberjugendanwaltschaft und Jugendanwaltschaften
 
-[^hVerwaltungseinheitG_2-1]: Fassung gemäss Vfg. vom 9. Dezember 2010 (OS 66, 6; ABl 2010, 3096). In Kraft seit 1. Januar 2011.
+### (Jugendstrafrechtspflege, JSP)
+
+- a. Oberjugendanwaltschaft (OJUGA)
+
+- b. Jugendanwaltschaften (JUGA):
 
 ### I. Zürich-Stadt II. Winterthur III. Unterland IV. See/Oberland V. Limmattal/Albis
 
-[^hVerwaltungseinheitG_2-1]
+- 4\. Gemeindeamt (GAZ)
 
-2.4 Gemeindeamt a. Stabsdienst b. Gemeindefinanzen c. Revisionsdienste d. Gemeinderecht e. Einbürgerungen f. Zivilstandswesen
+- a. Einbürgerungen
 
-[^hIhVerwaltungseinh-1]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
+- b. Einwohnerwesen
 
-### 3. Fachämter
+- c. Gemeindefinanzen
 
-[^hIhVerwaltungseinh-1]
+- d. Gemeinderecht
 
-3.1[^h3hIhVerwaltungsei-1] Handelsregisteramt a. Finanzen und Controlling b. Kundendienst und Services c. Sachbearbeitungen 1 und 2
+- e. Stabsdienst
 
-3.2[^h3hIhVerwaltungsei-2] Statistisches Amt a. Data Management b. Data Engineering c. Data Shop d. Analysen und Studien e. Befragungen und Sozialhilfestatistik f. Wahlen und Abstimmungen
+- f. Zivilstandswesen
 
-3.3[^h3hIhVerwaltungsei-3] Staatsarchiv a. Überlieferungsbildung b. Aktenerschliessung c. Individuelle Kundendienste d. Beständeerhaltung e. Editionsprojekte
+- 5\. Handelsregisteramt (HRA)
 
-**21**
+- a. Finanzen und Controlling
 
-- 1\. 4. 18 - 100
+- b. Kundendienst und Services
 
-[^h3hIhVerwaltungsei-1]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
-[^h3hIhVerwaltungsei-2]: Fassung gemäss Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
-[^h3hIhVerwaltungsei-3]: Fassung gemäss Vfg. vom 16. Januar 2012 (OS 67, 77; ABl 2012, 129). In Kraft seit 1. Januar 2012.
+- c. Sachbearbeitung
 
-### Anhang 2: Unselbstständige Entscheidbefugnisse (§ 17 Abs. 1 lit. b)
+- 6\. Statistisches Amt (STAT)
 
-### Verwaltungseinheit Sachbereiche mit Entscheidbefugnis im Namen
+- a. Data Management
 
-der Direktion
+- b. Data Engineering
 
-### Gemeindeamt a. Antragstellung an das Eidgenössische Justiz- und Polizeidepartement betreffend erleichterte Einbürge-
+- c. Data
 
-rung und Wiedereinbürgerung, b.[^hGemeindeamtaAntra-1] Beschwerdeentscheide gemäss Art. 90 Abs. 1 der eidgenössischen Zivilstandsverordnung vom 28. April 2004[^hGemeindeamtaAntra-2] bei Rechtsmitteln gegen Anordnungen kommunaler Zivilstandsämter, c.[^hGemeindeamtaAntra-3] Geschäfte als Aufsichtsbehörde über die Kindes- und Erwachsenenschutzbehörden.
+- d. Analysen und Studien
 
-[^hGemeindeamtaAntra-1]: Fassung gemäss Vfg. vom 9. Dezember 2010 (OS 66, 6; ABl 2010, 3096). In Kraft seit 1. Januar 2011.
-[^hGemeindeamtaAntra-2]: SR 211.112.2.
-[^hGemeindeamtaAntra-3]: Fassung gemäss Vfg. vom 21. Januar 2013 (OS 68, 125; ABl 2013-02-01). In Kraft seit 1. Januar 2013.
-[^hGemeindeamtaAntra-4]: Fassung gemäss Vfg. vom 28. Januar 2015 (OS 70, 22; ABl 2015-02-13). In Kraft seit 1. Januar 2015.
+- e. Befragungen und Sozialhilfestatistik
 
-### Anhang 3: Allgemeine Ausgabenkompetenzen (§ 21 Abs. 1 lit. a)
+**1. 7. 23 - 121**
 
-[^hGemeindeamtaAntra-4]
+**17**
 
-### Einheiten Kompetenzgrenzen (in Fr.) Einmalige Ausgaben
+- f. Wahlen und Abstimmungen
 
-**Wiederkehrende Ausgaben jährlich bis**
+**Verwaltungseinheit**
 
-**100 000 200 000 60 000 30 000 30 000 30 000**
+**Gliederung**
 
-- a. Generalsekretariat 500 000
+### Anhang 2: Entscheidbefugnisse im Namen der Direktion
 
-- b. Bereiche 1 000 000
+**7. Staatsarchiv (StAZH)**
 
-- c. Fachämter 300 000
+**a. Querschnittaufgaben b. Überlieferungsbildung c. Aktenerschliessung d. Nacherschliessung und Digitalisierung e. Individuelle Kundendienste f. Beständeerhaltung g. Gemeindearchive**
 
-- d. Fachstellen 150 000
+**(§ 15 Abs. 4)**
 
-- e. Statthalter/-in 150 000
+**Verwaltungseinheit**
 
-- f. Bezirksratspräsident/-in 150 000
+### Gliederung
 
-### Anhang 4: Ausgabenkompetenzen beim Gesetzesvollzug (§ 21 Abs. 1 lit. b)
+**Gemeindeamt a.**
 
-**Ausgabenkompetenz**
+### Antragstellung an das Eidgenössische Justiz- und Polizeidepartement betreffend
 
-### Nr. Erlass Norm
+erleichterte Einbürgerung und Wiedereinbürgerung
 
-(in Franken)
+**b.**
 
-**unbegrenzt unbegrenzt unbegrenzt unbegrenzt**
+### Entscheide über Beschwerden gegen Anordnungen der Zivilstandsämter gemäss
 
-LS 131.1[^hNrErlassNorm-1] Gemeindegesetz – Beitrag an die Projektkosten § 156 – Zusammenschlussbeitrag § 157 – Entschuldungsbeitrag § 158 – Beitrag zum Ausgleich § 159 von Einbussen beim Finanzausgleich
+#### Art. 90
+
+**Abs. 1 der Zivilstandsverordnung**
+
+vom 28. April 2004[^90-1]
+
+**1. 7. 23 - 121**
+
+**19**
+
+**c.**
+
+[^90-1]: SR 211.112.2.
+
+### Entscheide als Aufsichtsbehörde über die Kindes- und Erwachsenenschutzbehörden
+
+### Anhang 3: Ausgabenkompetenzen (§ 18 Abs. 1 lit. a)
+
+einmalig jährlich wiederkehrend bis (in Fr.) bis (in Fr.)
+
+**500 000 100 000**
+
+- a. Generalsekretariat
+
+**1 000 000 200 000**
+
+- b. Justizvollzug und im Allgemeinen
+
+### Wiedereingliederung
+
+gebundene Ausgaben gemäss
+
+#### §§ 14
+
+**ff. des Straf- und Justiz-**
+
+vollzugsgesetzes vom 19. Juni
 
 **unbegrenzt unbegrenzt**
 
-LS 132.1[^hNrErlassNorm-2] Finanzausgleichsgesetz – Ressourcenzuschuss § 12 – Demografischer § 19 Sonderlastenausgleich – Geografisch-topografischer § 22 Sonderlastenausgleich – Individueller Sonderlastenausgleich § 25
+2006 (StJVG)[^14_2-1]
 
-**unbegrenzt**
+**1 000 000 200 000**
 
-**unbegrenzt**
+- c. Oberstaatsanwaltschaft im Allgemeinen
 
-- Zentrumslastenausgleich §§ 29 und 30 unbegrenzt
+gebundene Ausgaben gemäss
 
-**unbegrenzt**
+[^14_2-1]: LS 331.
 
-- Übergangsausgleich § 37
+#### Art. 422
 
-LS 161[^hNrErlassNorm-3] Gesetz über die politischen Rechte – Druck von Wahl- und §§ 60 ff.; – einmalig bis 1 Mio. Abstimmungsunterlagen § 95 200 000
+**ff. der Schweizerischen**
 
-**– wiederkehrend bis**
+Strafprozessordnung vom
 
-SR 312.0 Schweizerische Strafprozessordnung
+\5. Oktober 2007 (StPO)[^422-1]
 
-- Kosten einer Strafuntersuchung Art. 299 ff.; unbegrenzt
+in Verbindung mit Anhang 2 FCV[^422-2] unbegrenzt unbegrenzt
 
-[^hNrErlassNorm-1]: Eingefügt durch Vfg. vom 19. Januar 2018 (OS 73, 145; ABl 2018-02-02). In Kraft seit 1. April 2018. 1. 4. 18 - 100 19
-[^hNrErlassNorm-2]: Fassung gemäss Vfg. vom 16. Januar 2012 (OS 67, 77; ABl 2012, 129). In Kraft seit 1. Januar 2012.
-[^hNrErlassNorm-3]: Fassung gemäss Vfg. vom 20. Mai 2014 (OS 69, 301; ABl 2014-06-06). In Kraft seit 1. August 2014.
+**1 000 000 200 000**
 
-#### Art. 308
+- d. Oberjugendanwaltschaft im Allgemeinen
 
-**ff.**
+gebundene Ausgaben gemäss
 
-LS 331 Straf- und Justizvollzugsgesetz
+[^422-1]: SR 312.0.
+[^422-2]: LS 611.2.
+[^422-3]: LS 331.
 
-- Kosten des Vollzugs einer straf- §§ 14 ff. unbegrenzt
+#### §§ 33
 
-rechtlichen Sanktion gegenüber einer erwachsenen Person
+**ff. StJVG[^422-3], Art. 44 f.**
 
-- Kosten des Vollzugs von §§ 33 ff. unbegrenzt
+der Schweizerischen Jugend-
 
-Schutzmassnahmen und Strafen gemäss Jugendstrafrecht
+strafprozessordnung vom 20. März
 
-**23**
+2009 und Art. 422 ff. StPO[^33-1]
 
-- 1\. 4. 18 - 100
+in Verbindung mit Anhang 2 FCV[^33-2] unbegrenzt unbegrenzt
 
-**Ausgabenkompetenz**
+**1 000 000 200 000**
 
-### Nr. Erlass Norm
+- e. Gemeindeamt im Allgemeinen
 
-(in Franken)
+gebundene Ausgaben gemäss
 
-LS 341 Einführungsgesetz zum Opferhilfegesetz – Entschädigung und Genugtuung §§ 8 ff.
+[^33-1]: SR 312.0.
+[^33-2]: LS 611.2.
 
-**– einmalig bis 1 Mio. – wiederkehrend bis**
+#### §§ 156
 
-an Opfer 200 000
+**ff. des Gemeindegesetzes**
 
-**– einmalig bis 1 Mio.**
+vom 20. April 2015[^156-1] und §§ 41ff.
 
-SR 312.5 Opferhilfegesetz – Beiträge für Hilfeleistungen Dritter Art. 16 – wiederkehrend bis 200 000
+der Gemeindeverordnung vom
 
-## Weitere Fussnoten
+\29. Juni 2016[^156-2] in Verbindung
 
-- [16] Eingefügt durch Vfg. vom 9. Dezember 2010 (OS 66, 6; ABl 2010, 3096). In Kraft seit 1. Januar 2011.
+**unbegrenzt unbegrenzt**
+
+mit Anhang 2 FCV[^156-3]
+
+**300 000 60 000**
+
+- f. Handelsregisteramt
+
+**21**
+
+- 1\. 7. 23 - 121 einmalig jährlich wiederkehrend bis (in Fr.) bis (in Fr.)
+
+**300 000 60 000**
+
+- g. Statistisches Amt im Allgemeinen
+
+gebundene Ausgaben gemäss
+
+[^156-1]: LS 131.1.
+[^156-2]: LS 131.11.
+[^156-3]: LS 611.2.
+
+#### §§ 60
+
+**ff. und 95 des Gesetzes**
+
+über die politischen Rechte
+
+vom 1. September 2003 (GPR)[^60-1] 1 000 000 200 000
+
+**300 000 60 000**
+
+- h. Staatsarchiv
+
+**150 000 30 000**
+
+- i. Fachstelle Gleichstellung
+
+**150 000 30 000**
+
+- j. Fachstelle Integration
+
+**150 000 30 000**
+
+- k. Fachstelle Kultur
+
+**150 000 30 000**
+
+- l. Kantonale im Allgemeinen
+
+[^60-1]: LS 161.
+
+### Opferhilfestelle
+
+gebundene Ausgaben gemäss
+
+#### §§ 8
+
+**ff. des Einführungsgesetzes**
+
+zum Opferhilfegesetz vom 25. Juni
+
+**1 000 000 200 000**
+
+1995[^8_2-1]
+
+gebundene Ausgaben gemäss
+
+[^8_2-1]: LS 341.
+
+#### Art. 16
+
+**des Bundesgesetzes über**
+
+die Hilfe an Opfer von Straftaten
+
+**1 000 000 200 000**
+
+vom 23. März 2007[^16_2-1]
+
+**150 000 30 000**
+
+- m. Bezirksratspräsidentin im Allgemeinen oder Bezirksratspräsident (einschliesslich Bezirks- gebundene Ausgaben gemäss ratskanzlei) §§ 60 ff. GPR[^16_2-2]
+
+**1 000 000 200 000**
+
+**150 000 30 000**
+
+- n. Statthalteramt
+
+[^16_2-1]: SR 312.5.
+[^16_2-2]: LS 161.
