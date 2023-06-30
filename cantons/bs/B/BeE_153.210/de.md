@@ -4,13 +4,12 @@ number: BeE 153.210
 title: Reglement über die Organisation des Gemeinderats und der Gemeindeverwaltung Bettingen
 short: Organisationsreglement
 language: de
-version: 2021-02-08
-valid_until: 2023-06-30
-version_adopted: 2021-02-01
+version: 2023-07-01
+version_adopted: 2023-06-05
 adopted: 2021-02-01
 in_force: 2021-02-08
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20153.210"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5180/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5948/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Organisationsreglement | Gemeinde Bettingen
 
 (Organisationsreglement)
 
-Vom 1. Februar 2021 (Stand 8. Februar 2021)
+Vom 1. Februar 2021 (Stand 1. Juli 2023)
 
 Der Gemeinderat Bettingen,
 
@@ -348,7 +347,7 @@ beschliesst:
 
 <sup>3</sup> Der Gemeinderat regelt die Einzelheiten. Er bestimmt, wer zum Vollzug des geschäftsauslösenden Entscheids mit der eigenen Unterschrift die entsprechenden Verpflichtungen gegenüber Dritten eingeht.
 
-<sup>4</sup> Bei einmaligem Auftragsvolumen über Fr. 15'000 sind mehrere Offerten einzuholen.
+<sup>4</sup> …
 
 <sup>5</sup> Es gelten die Grundsätze des öffentlichen Beschaffungswesens und der Beschaffungsstandard von Energiestadt.
 
