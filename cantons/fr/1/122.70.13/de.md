@@ -1,31 +1,32 @@
 ---
 canton: FR
 number: "122.70.13"
-title: Verordnung über die Weiterbildung des Staatspersonals
+title: Verordnung über die Aus- und Weiterbildung des Staatspersonals
 short: AWBV
 language: de
-version: 2015-06-01
-valid_until: 2023-06-30
-version_adopted: 2015-07-10
+version: 2023-07-01
+version_adopted: 2023-06-26
 adopted: 2023-06-26
 in_force: 2023-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.70.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/7380/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8293/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Weiterbildung des Staatspersonals
+# Verordnung über die Aus- und Weiterbildung des Staatspersonals
 
-Staatspersonal, Weiterbildung – V
+Staatspersonal, Aus- und Weiterbildung – V
 
-vom 30.05.2012 (Fassung in Kraft getreten am 01.06.2015)
+(AWBV)
+
+vom 26.06.2023 (Fassung in Kraft getreten am 01.07.2023)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf die Artikel 20, 73, 118 Abs. 2 und 121 des Gesetzes vom 17. Oktober 2001 über das Staatspersonal (StPG);
+gestützt auf die Artikel 8 Abs. 1 Bst. a und 20 Abs. 1 des Gesetzes vom 17. Oktober 2001 über das Staatspersonal (StPG),
 
-auf Antrag der Finanzdirektion;
+auf Antrag der Finanzdirektion,
 
 beschliesst:
 
@@ -35,374 +36,365 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Diese Verordnung regelt die Organisation, die hauptsächlichen Prozesse und die Finanzierung der Massnahmen, die für die Umsetzung der vom Staatsrat beschlossenen Weiterbildungskonzepte für das Personal notwendig sind.
+<sup>1</sup> Diese Verordnung regelt die Organisation und die Finanzierung der für die Kompetenzentwicklung erforderlichen Aus- und Weiterbildung.
 
-<sup>2</sup> Sie bestimmt ausserdem die Rechte und Pflichten des Personals bei der Weiterbildung und legt die Grundsätze fest, nach denen es möglich ist:
-
-- a) Weiterbildungspartnerschaften mit staatsinternen oder -externen Stellen einzugehen;
-- b) Weiterbildungsleistungen auch anderen öffentlichen Körperschaften oder subventionierten Einrichtungen anzubieten.
+<sup>2</sup> Sie bestimmt ausserdem die Rechte und Pflichten der Mitarbeiterinnen und Mitarbeiter bei der Aus- und Weiterbildung und legt die Anwendungsgrundsätze fest.
 
 #### Art. 2
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung gilt für die Weiterbildung des gesamten Personals, das dem StPG unterstellt ist.
+<sup>1</sup> Diese Verordnung gilt für das gesamte Personal des Staats Freiburg, das dem StPG[^2-1] unterstellt ist; spezifische rechtliche Bestimmungen für bestimmte Personalkategorien bleiben vorbehalten. Diese dürfen für das Personal nicht restriktiver sein als diese Verordnung. Sie werden dem Staatsrat auf Stellungnahme des Amtes für Personal und Organisation zur Genehmigung vorgelegt.
 
-<sup>2</sup> Die spezifische Weiterbildung für bestimmte Personalkategorien richtet sich nach den spezifischen Bestimmungen und Konzepten, die von den betroffenen Direktionen und Anstalten erlassen und vom Staatsrat nach Artikel 20 Abs. 2 StPG genehmigt werden.
+<sup>2</sup> Diese Verordnung gilt unabhängig vom Beschäftigungsgrad für Mitarbeiterinnen und Mitarbeiter mit einem unbefristeten Vertrag oder mit einem befristeten Vertrag von einem Jahr oder mehr. Sie gilt nicht für Mitarbeiterinnen und Mitarbeiter mit einem befristeten Vertrag unter einem Jahr, ausser in Ausnahmefällen, die mit einem Erfordernis der Verwaltungseinheit zusammenhängen.
 
-<sup>3</sup> Die Weiterbildung des Personals des freiburger spitals (HFR) und des Freiburger Netzwerks für psychische Gesundheit (FNPG) richtet sich nach spezifischen Verordnungen und Konzepten, die vom jeweils zuständigen Verwaltungsrat verabschiedet und dem Staatsrat zur Genehmigung unterbreitet werden.
+[^2-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 #### Art. 3
 
-**Begriffsbestimmung**
+**Grundsatz**
 
-<sup>1</sup> Die Weiterbildung im Sinne dieser Verordnung deckt alle Tätigkeiten ab, die förderlich sind für:
-
-- a) die laufende Aktualisierung der Kompetenzen des Personals, die für die Erfüllung der Aufgaben nach Pflichtenheft erforderlich sind;
-- b) die Entwicklung von Kompetenzen zur Sicherstellung der Mobilität und der Beschäftigungsfähigkeit des Personals entsprechend den Bedürfnissen des Arbeitgebers Staat;
-- c) die sachgemässe Umsetzung der Grundsätze für die Sicherheit und den Gesundheitsschutz am Arbeitsplatz durch das Personal.
+<sup>1</sup> Der Arbeitgeber Staat (der Arbeitgeber) unterstützt sein Personal, um die für den reibungslosen Betrieb des Staats erforderlichen Kompetenzen zu erhalten und weiterzuentwickeln, und stellt zu diesem Zweck die erforderlichen Mittel zur Verfügung.
 
 #### Art. 4
 
-**Konzepte**
+**Begriffsbestimmung**
 
-<sup>1</sup> Der Staatsrat genehmigt je ein Konzept für die Weiterbildung des Personals und des Kaders.
+<sup>1</sup> Die Aus- und Weiterbildung im Sinne dieser Verordnung deckt alle Tätigkeiten ab, die förderlich sind für:
 
-<sup>2</sup> Die Konzepte setzen die Richtlinien fest, die gelten für:
+- a) den Erwerb und die Entwicklung der Kompetenzen, die für die Erfüllung des Pflichtenhefts erforderlich sind;
+- b) die Entwicklung und die Aktualisierung der Kompetenzen zur Sicherstellung der beruflichen Mobilität der Mitarbeiterinnen und Mitarbeiter entsprechend den Bedürfnissen des Arbeitgebers.
 
-- a) die Planung des Weiterbildungsbedarfs ausgehend von den in Zusammenarbeit mit den Anstellungsbehörden und den Verwaltungseinheiten erhobenen Bedürfnissen;
-- b) die Abdeckung der ermittelten Bedürfnisse durch standardisierte oder massgeschneiderte Weiterbildungsprogramme unter Berücksichtigung der verfügbaren finanziellen und organisatorischen Mittel;
-- c) die periodische Beurteilung, ob die Weiterbildungsprogramme den erhobenen Bedürfnissen entsprechen, und die Messung der am Arbeitsplatz erzielten Ergebnisse;
-- d) die Zusammenarbeitsprozesse zwischen den Weiterbildungsakteuren und für die Buchführungsregeln, insbesondere, was die Aufstellung von Finanzplan, Voranschlag und Rechnung sowie die interne und externe Leistungsverrechnung anbelangt.
+<sup>2</sup> Als Aus- und Weiterbildung gelten alle formalen und nichtformalen Fortbildungen, die zur Entwicklung oder zum Erwerb einer Kompetenz führen.
 
-## 2 Weiterbildungsakteure
+## 2 Akteure und Kompetenzen
 
 #### Art. 5
 
 **Mitarbeiterinnen und Mitarbeiter**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter sind dafür verantwortlich, dass sie ihre beruflichen Fachkompetenzen regelmässig aktualisieren und erweitern, soweit das für die Erfüllung der Aufgaben gemäss Pflichtenheft notwendig ist.
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter sind dafür verantwortlich, dass sie ihre Kompetenzen, die zur Erfüllung ihres Pflichtenhefts und für ihre berufliche Mobilität erforderlich sind, regelmässig aktualisieren und weiterentwickeln.
 
-<sup>2</sup> Zu diesem Zweck unterbreiten sie ihrer oder ihrem direkten Vorgesetzten Weiterbildungsanträge, die ihren Bedürfnissen entsprechen.
+<sup>2</sup> Sie unterbreiten ihrer oder ihrem direkten Vorgesetzten ihren Bedarf und ihre Anliegen betreffend Kompetenzentwicklung.
 
 #### Art. 6
 
 **Direkte Vorgesetzte**
 
-<sup>1</sup> Die direkten Vorgesetzten ermitteln die Weiterbildungsbedürfnisse insbesondere anhand der Personalbeurteilung und der Anträge ihrer Untergebenen.
-
-<sup>2</sup> Die direkten Vorgesetzten teilen den Dienstchefinnen und Dienstchefs die ermittelten Weiterbildungsbedürfnisse mit und leiten ihnen gegebenenfalls die Weiterbildungsanträge der Mitarbeiterinnen und Mitarbeiter weiter.
+<sup>1</sup> Die direkten Vorgesetzten ermitteln die Aus- und Weiterbildungsbedürfnisse ihrer Mitarbeitenden anlässlich des Zielvereinbarungs-, Entwicklungs- und Beurteilungsgesprächs (ZEB), auf der Grundlage des von der Verwaltungseinheit identifizierten Bedarfs.
 
 #### Art. 7
 
-**Anstellungsbehörden, Dienstchefinnen und Dienstchefs**
+**Verantwortliche der Verwaltungseinheiten**
 
-<sup>1</sup> Die Anstellungsbehörden sowie die Dienstchefinnen und Dienstchefs bestimmen periodisch die allgemeinen Weiterbildungsbedürfnisse für das Personal und das Kader. Sie berücksichtigen dabei die Vorgaben der Konzepte des Staatsrats, den Auftrag, die erzielten Ergebnisse und die Entwicklung des Leistungskatalogs ihrer Verwaltungseinheit.
+<sup>1</sup> Die Verantwortlichen der Verwaltungseinheiten analysieren den Bedarf der Verwaltungseinheiten und ermitteln die zu entwickelnden Kompetenzen.
 
-<sup>2</sup> Die Weiterbildungsbedürfnisse werden der Fachstelle Aus- und Weiterbildung nach Artikel 8 gemäss den Modalitäten, die von den Konzepten vorgegeben werden, mitgeteilt.
+<sup>2</sup> In diesem Sinne unterstützen sie die Aus- und Weiterbildungsanträge ihrer Mitarbeiterinnen und Mitarbeiter.
+
+<sup>3</sup> Sie sorgen dafür, dass die Aus- und Weiterbildungskosten gemäss den geltenden Bestimmungen abgerechnet werden.
+
+<sup>4</sup> Auf der Grundlage von Indikatoren, die vom Amt für Personal und Organisation festgelegt werden, stellen sie diesem die Daten über die von ihren Mitarbeiterinnen und Mitarbeitern besuchten Aus- und Weiterbildungen zur Verfügung.
 
 #### Art. 8
 
-**Fachstelle Aus- und Weiterbildung**
+**Personalfachstellen**
 
-<sup>1</sup> Das Amt für Personal und Organisation (POA), insbesondere seine für die Weiterbildung zuständige Fachstelle (SPO-F), sorgt für die Umsetzung der Massnahmen, die vom Staatsrat in den Weiterbildungskonzepten vorgesehen werden.
+<sup>1</sup> Die Personalfachstellen im Sinne von Artikel 6 des Reglements vom 17. Dezember 2002 über das Staatspersonal[^8-1] oder, falls diese nicht vorhanden sind, die bei den Direktionen und Anstalten für das Personalmanagement verantwortlichen Personen unterstützen und beraten die Verwaltungseinheiten in ihrer Zuständigkeit und sorgen für die korrekte Umsetzung dieser Verordnung.
 
-<sup>2</sup> Dazu:
+<sup>2</sup> Sie sind für die Stellungnahmen zur Kostenübernahme von Aus- und Weiterbildungen durch den Arbeitgeber zuständig.
 
-- a) erfasst und sichtet das POA die von den Anstellungsbehörden übermittelten Weiterbildungsbedürfnisse;
-- b) plant, erstellt und realisiert es das Weiterbildungsprogramm, das den ermittelten gemeinsamen Bedürfnissen entspricht, und verfasst periodisch einen entsprechenden Evaluationsbericht;
-- c) unterstützt es die Anstellungsbehörden und die Dienstchefinnen und Dienstchefs in allgemeinen Weiterbildungsfragen und bei der spezifischen Weiterbildung in ihrem Tätigkeitsbereich;
-- d) stellt es den allgemeinen Voranschlag nach Artikel 31 auf;
-- e) schliesst es die Verträge mit den externen und internen Kursanbietern nach Artikel 14 Abs. 3 ab;
-- f) berät es auf Anfrage das Personal in Weiterbildungsfragen;
-- g) schliesst es die Leistungsaufträge nach Artikel 11 ab; Verträge über einen Betrag von mehr als 100'000 Franken, die der Finanzdirektion zur Genehmigung unterbreitet werden müssen, bleiben vorbehalten;
-- h) entscheidet es über das Leistungsangebot für andere Arbeitgeber nach Artikel 12 und legt die Einzelheiten fest;
-- i) arbeitet es mit Blick auf mögliche Synergien beim Weiterbildungsangebot und bei der Kursteilnahme mit den interkantonalen Weiterbildungsnetzwerken zusammen.
+[^8-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 9
 
-**Personalfachstellen**
+**Anstellungsbehörden**
 
-<sup>1</sup> Die Personalfachstellen nach Artikel 6 des Reglements vom 17. Dezember 2002 über das Staatspersonal oder gegebenenfalls die bei den Direktionen und Anstalten für das Personalmanagement verantwortlichen Personen arbeiten mit der Fachstelle Aus- und Weiterbildung zusammen.
+<sup>1</sup> Die Anstellungsbehörden bestimmen periodisch die allgemeinen Aus- und Weiterbildungsbedürfnisse der Mitarbeiterinnen und Mitarbeiter; sie berücksichtigen dabei die Vorgaben der Konzepte des Staatsrats, den Auftrag, die erzielten Ergebnisse und die Entwicklung des Leistungskatalogs ihrer Verwaltungseinheiten.
+
+<sup>2</sup> Sie sind für die Unterstützung des Aus- oder Weiterbildungsantrags der Verantwortlichen der Verwaltungseinheiten zuständig.
+
+<sup>3</sup> Sie sind für die Unterzeichnung jeglicher Aus- und Weiterbildungsvereinbarungen auf der Grundlage der Stellungnahme der Personalfachstelle zuständig.
 
 #### Art. 10
 
-**Konsultation der Sozialpartner**
+**Amt für Personal und Organisation**
 
-<sup>1</sup> Die Fachstelle Aus- und Weiterbildung konsultiert regelmässig die Föderation der Personalverbände der Staatsangestellten des Kantons Freiburg (FEDE) und die Vereinigung der höheren Kader und Magistratspersonen des Staates Freiburg zur strategischen Ausrichtung der Weiterbildung des Staatspersonals und zu den allgemeinen Weiterbildungsbedürfnissen des Personals und des Kaders.
+<sup>1</sup> Das Amt für Personal und Organisation (POA) unterstützt die Verwaltungseinheiten bei der Bestimmung von Aus- und Weiterbildungszielen und berät sie bei allen ausbildungsrelevanten Themen.
 
-## 3 Partnerschaften und Leistungsangebote
+<sup>2</sup> Es bietet Aus- und Weiterbildungen zur bereichsübergreifenden Kompetenzentwicklung an und stellt die Planung, Koordination, Organisation, Durchführung und Nachbereitung dieser Angebote sicher.
+
+<sup>3</sup> Es schult die HR-Fachpersonen, die über die Kostenübernahme der Aus- und Weiterbildung entscheiden, namentlich die Personalfachstellen, und stellt Praxisleitfäden zur Verfügung.
+
+<sup>4</sup> Es führt ein allgemeines Monitoring der Kompetenzentwicklung durch und erstellt auf der Grundlage der Informationen, die von den Verantwortlichen der Verwaltungseinheiten zur Verfügung gestellt werden, Statistiken über die vom Staat finanzierten Aus- und Weiterbildungen.
+
+<sup>5</sup> Es sorgt für die Gleichbehandlung und ist in diesem Sinne für die Stellungnahme zu bestimmten Arten der Aus- und Weiterbildung zuständig (Art. 24).
+
+## 3 Angebot und Arten der Aus- und Weiterbildung
+
+### 3.1 Aus- und Weiterbildungsangebot
 
 #### Art. 11
 
-**Leistungsaufträge**
+**Internes Angebot**
 
-<sup>1</sup> Mit anerkannten Ausbildungszentren oder anderen Ausbildungseinrichtungen können Partnerschaften in Form von Leistungsaufträgen abgeschlossen werden, wenn:
+<sup>1</sup> Das interne Angebot umfasst alle vom Arbeitgeber organisierten Aus- und Weiterbildungen.
 
-- a) die Kosten vollumfänglich über den Voranschlag gedeckt sind und
-- b) die Qualität der Ausbildung gewährleistet ist.
+<sup>2</sup> Das POA stellt ein Aus- und Weiterbildungsangebot für die Mitarbeiterinnen und Mitarbeiter des Staats bereit. Den Aus- und Weiterbildungsbedürfnissen der Verwaltungseinheiten und des Personals wird Rechnung getragen.
 
-<sup>2</sup> Die Fachstelle Aus- und Weiterbildung kann der Auftragnehmerin oder dem Auftragnehmer mit einem Leistungsauftrag die Aufgaben nach Artikel 8 Abs. 2 übertragen. Davon ausgenommen sind die Aufgaben nach den Buchstaben a, d, f, g, h und i.
+<sup>3</sup> Um die spezifische Kompetenzentwicklung ihres Personals und ihrer Organisation zu gewährleisten, kann eine Verwaltungseinheit spezifische interne Aus- und Weiterbildungen anbieten.
 
 #### Art. 12
 
-**Leistungsangebote**
+**Externes Angebot**
 
-<sup>1</sup> Der Staat kann anderen öffentlichen Körperschaften oder subventionierten Einrichtungen Weiterbildungsleistungen anbieten, vorausgesetzt, die für den Staat anfallenden Kosten werden vollumfänglich von den Arbeitgebern der Leistungsempfängerinnen und -empfänger übernommen.
+<sup>1</sup> Das externe Angebot umfasst alle von Privatunternehmen und öffentlichen Institutionen (ohne Arbeitgeber) organisierten Aus- und Weiterbildungen.
 
-<sup>2</sup> Der Staatsrat erstellt eine Liste der subventionierten Einrichtungen, die Leistungen nach Absatz 1 beziehen können.
-
-## 4 Entlöhnung der Ausbildnerinnen und Ausbildner
+### 3.2 Arten der Aus- und Weiterbildung
 
 #### Art. 13
 
-**Externe Ausbildnerinnen und Ausbildner**
+**Vom Arbeitgeber vorgeschriebene Aus- und Weiterbildung**
 
-<sup>1</sup> Den externen Ausbildnerinnen und Ausbildnern werden marktübliche Löhne bezahlt. Die Gesetzgebung über das öffentliche Beschaffungswesen bleibt vorbehalten.
+<sup>1</sup> Vorgeschrieben ist jede vom Arbeitgeber ausdrücklich verlangte Aus- und Weiterbildung für Mitarbeiterinnen und Mitarbeiter, die ihre Stelle bereits angetreten haben.
 
 #### Art. 14
 
-**Interne Ausbildnerinnen und Ausbildner**
+**Zur Berufsausübung erforderliche Aus- und Weiterbildung**
 
-<sup>1</sup> Als interne Ausbildnerinnen und Ausbildner gelten Mitarbeiterinnen und Mitarbeiter des Staates, die von der Fachstelle Aus- und Weiterbildung oder von deren Beauftragten mit der Durchführung von Weiterbildungskursen betraut werden.
-
-<sup>2</sup> Die internen Ausbildnerinnen und Ausbildner, die mit der Genehmigung ihrer Dienstchefin oder ihres Dienstchefs Weiterbildungskurse erteilen, die als Arbeitszeit zählen (Zeit für die Vorbereitung, Durchführung und Nachbearbeitung), werden nach folgendem Pauschaltarif entlöhnt:
-
-- a) 250 Franken pro Kurstag (7 Stunden und mehr);
-- b) 125 Franken pro halber Kurstag (mehr als zwei, weniger als sieben Stunden);
-- c) 80 Franken pro Stunde, aber höchstens 125 Franken ab zwei Kursstunden.
-
-<sup>3</sup> Die internen Ausbildnerinnen und Ausbildner, welche die Weiterbildungskurse nicht als Arbeitszeit abrechnen, werden nach Artikel 13 entlöhnt. Sie müssen über eine entsprechende Bewilligung ihrer Dienstchefin oder ihres Dienstchefs und bei einer Vollzeitbeschäftigung beim Staat über eine Ermächtigung der Anstellungsbehörde für eine Nebenbeschäftigung nach Artikel 67 StPG verfügen.
-
-<sup>4</sup> Von den Löhnen der internen Ausbildnerinnen und Ausbildner werden die Sozialversicherungsbeiträge abgezogen, mit Ausnahme der Beiträge für die Lohngarantie und die Pensionskasse des Staatspersonals. Absatz 5 bleibt vorbehalten.
-
-<sup>5</sup> Gibt eine Mitarbeiterin oder ein Mitarbeiter an, die Weiterbildungstätigkeit in selbstständiger Erwerbstätigkeit auszuüben, so ist der Bescheid der Ausgleichskasse erforderlich.
-
-## 5 Weiterbildungsarten
+<sup>1</sup> Zur Berufsausübung erforderlich ist jede Aus- und Weiterbildung, die aufgrund der einschlägigen Gesetzgebung oder laut anerkannten Berufsverbänden für die Ausübung des Berufs obligatorisch ist. Die Mitarbeiterin oder der Mitarbeiter ist vor Stellenantritt nicht im Besitz der erforderlichen Aus- oder Weiterbildung.
 
 #### Art. 15
 
-**Obligatorische Weiterbildung**
+**Aus- und Weiterbildung von gegenseitigem Interesse**
 
-<sup>1</sup> Die Anstellungsbehörde kann ganzen Personalkategorien eine Weiterbildung zur Erreichung bestimmter Ziele vorschreiben.
-
-<sup>2</sup> Einer Mitarbeiterin oder einem Mitarbeiter kann eine Weiterbildung auch dann vorgeschrieben werden, wenn neue Fachkompetenzen für die Ausübung der Funktion unabdingbar sind.
-
-<sup>3</sup> Soweit möglich findet die Weiterbildung während der Arbeitszeit der betreffenden Person statt.
+<sup>1</sup> Von gegenseitigem Interesse ist jede Aus- und Weiterbildung, die sowohl für die Mitarbeiterin oder den Mitarbeiter als auch für den Arbeitgeber von Nutzen ist.
 
 #### Art. 16
 
-**Freiwillige Weiterbildung – Weiterbildung von kurzer Dauer**
+**Aus- und Weiterbildung im ausschliesslichen Interesse der Mitarbeiterin oder des Mitarbeiters**
 
-<sup>1</sup> Als freiwillige Weiterbildung von kurzer Dauer gilt eine höchstens dreitägige Weiterbildung.
+<sup>1</sup> Im ausschliesslichen Interesse der Mitarbeiterin oder des Mitarbeiters ist jede Aus- und Weiterbildung, die nur den Interessen der Mitarbeiterin oder des Mitarbeiters dient.
 
-<sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter haben Anspruch auf drei Tage (25,2 Stunden) bezahlten Urlaub für Kurse, die im Weiterbildungsprogramm der Fachstelle Aus- und Weiterbildung angeboten werden. Sie können frei wählen, welche Kurse des Weiterbildungsprogramms sie besuchen wollen, vorausgesetzt, dass sie zum angegebenen Zielpublikum gehören.
-
-<sup>3</sup> Die Mitarbeiterinnen und Mitarbeiter können bei ihrer Dienstchefin oder ihrem Dienstchef den Besuch einer Weiterbildung von kurzer Dauer beantragen, die nicht im Weiterbildungsprogramm angeboten wird; dazu zählt namentlich die Teilnahme an Tagungen oder wissenschaftlichen Kongressen. Entspricht der Antrag einem nachgewiesenen Bedürfnis, so werden der betreffenden Mitarbeiterin oder dem betreffenden Mitarbeiter bis zu drei Tage als Urlaubstage nach Absatz 2 angerechnet.
-
-<sup>4</sup> Der Anspruch auf bezahlten Urlaub für das in Teilzeit angestellte Personal berechnet sich im Verhältnis zum Beschäftigungsgrad, besteht aber für mindestens einen vollen Tag pro Jahr (8,4 Stunden). Das POA erlässt Richtlinien für die Arbeitszeitanrechnung des Urlaubs.
-
-<sup>5</sup> Bis zu drei Tage bezahlten Urlaubs pro Jahr können für eine freiwillige längerfristige Weiterbildung nach Artikel 17 verwendet werden. Dabei können die Urlaubstage auf der Basis eines von der Anstellungsbehörde genehmigten Ausbildungsplans über einen Zeitraum von drei Jahren kumuliert werden. Die nach Ablauf der drei Jahre nicht bezogenen Urlaubstage verfallen ohne Ausgleich.
-
-<sup>6</sup> Bei einer obligatorischen Weiterbildung nach Artikel 15, die im Weiterbildungsprogramm angeboten wird und fünf Tage oder mehr pro Jahr dauert, haben die Mitarbeiterinnen und Mitarbeiter keinen Anspruch auf zusätzliche bezahlte Urlaubstage für ihre freiwillige Weiterbildung mehr. Artikel 17 bleibt allerdings vorbehalten. Ihr Anspruch auf freiwillige Weiterbildung verringert sich auf einen Tag, wenn die obligatorische Weiterbildung vier Tage dauert, und auf zwei Tage, wenn sie drei Tage dauert.
-
-<sup>7</sup> Mitarbeiterinnen und Mitarbeiter mit einem befristeten Anstellungsvertrag mit einer Vertragsdauer von weniger als einem Jahr haben keinen Anspruch auf bezahlten Urlaub für die freiwillige Weiterbildung, es sei denn, es liegt eine ausdrückliche Ausnahmegenehmigung der Anstellungsbehörde vor.
+### 3.3 Aus- und Weiterbildung in der Partnersprache
 
 #### Art. 17
 
-**Freiwillige Weiterbildung – Längerfristige Weiterbildung**
+**Partnersprachen**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter können ihrer Dienstchefin oder ihrem Dienstchef eine Weiterbildung, die länger dauert als in Artikel 16 vorgesehen, beantragen oder von diesen dazu aufgefordert werden.
+<sup>1</sup> Jede Verwaltungseinheit stellt sicher, dass ihre Mitarbeiterinnen und Mitarbeiter über die mündlichen und schriftlichen Kenntnisse der Partnersprache verfügen, die für die Ausübung ihrer Funktion erforderlich sind.
 
-<sup>2</sup> Ist die Weiterbildung von Interesse für den Staat, so beteiligt er sich nach Artikel 24 an der Kostenübernahme. In jedem Fall werden die für diese Weiterbildung gewährten Urlaubstage im Verhältnis zum Beschäftigungsgrad berechnet.
+<sup>2</sup> Als partnersprachliche Aus- und Weiterbildung gilt der Erhalt bestehender Sprachkenntnisse oder die Aneignung der erforderlichen Sprachkenntnisse.
+
+<sup>3</sup> Partnersprachen sind Deutsch und Französisch.
+
+<sup>4</sup> Die Modalitäten dieser Verordnung gelten für die partnersprachliche Aus- und Weiterbildung.
+
+<sup>5</sup> Die besondere Unterstützung der Partnersprachen ist Gegenstand eines Konzepts des Staatsrats.
+
+## 4 Finanzierung
+
+### 4.1 Budget
 
 #### Art. 18
 
-**Weiterbildung in der Partnersprache**
+**Budget**
 
-<sup>1</sup> Der Staat bietet seinem Personal die Möglichkeit, die Sprachkenntnisse in den Amtssprachen (Deutsch und Französisch) zu verbessern. Die Fachstelle Aus- und Weiterbildung steht für Fragen der Ausbildung in der Partnersprache beratend zur Verfügung und schlägt entsprechende Massnahmen vor.
+<sup>1</sup> Das POA verfügt über ein spezifisches Budget zur Umsetzung verschiedener Massnahmen zur Kompetenzentwicklung, namentlich für das interne, bereichsübergreifende Aus- und Weiterbildungsangebot.
 
-<sup>2</sup> Der Zeitaufwand für diese Weiterbildung wird bis zu höchstens drei Tage pro Jahr als Arbeitszeit angerechnet. Er wird mit dem Anspruch auf bezahlten Urlaub nach Artikel 16 verrechnet. Der über drei Tage hinausgehende Zeitaufwand zählt nicht als Arbeitszeit.
+<sup>2</sup> Die Verwaltungseinheiten verfügen über ihr eigenes Budget für ihre spezifischen internen oder externen Aus- und Weiterbildungen.
 
-## 6 Verfahren
+### 4.2 Kostenübernahme
 
 #### Art. 19
 
-**Entscheidungsbefugnis**
+**Aus- und Weiterbildungskosten**
 
-<sup>1</sup> Über die Erlaubnis zum Besuch einer Weiterbildung, die Gewährung von Urlaub und die Übernahme der Weiterbildungskosten (Art. 22) entscheiden:
+<sup>1</sup> Als Aus- und Weiterbildungskosten gelten:
 
-- a) die Dienstchefinnen und Dienstchefs für bezahlten Urlaub von bis zu fünf Tagen pro Kalenderjahr und nach Stellungnahme der Personalfachstelle für unbezahlten Urlaub bis zu zwanzig Tagen pro Kalenderjahr;
-- b) die Anstellungsbehörden auf Antrag der Dienstchefinnen und Dienstchefs und nach Stellungnahme der Personalfachstelle für bezahlten Urlaub von mehr als fünf Tagen pro Kalenderjahr, für unbezahlten Urlaub von mehr als zwanzig Tagen pro Kalenderjahr, für Weiterbildung im Ausland sowie in jedem Fall für die Weiterbildung, deren Gesamtkosten zu Lasten des Staates den Betrag von 3000 Franken übersteigen.
+- a) die Lohnkosten entsprechend dem Zeitaufwand für die Aus- und Weiterbildung, d. h. die Gesamtheit der aufgewendeten Stunden für Kurse, Seminare oder Workshops sowie Prüfungen;
+- b) die direkten Aus- und Weiterbildungskosten, d. h. die Auslagen für die Anmeldung, die Kurse oder die Honorare, sowie die Auslagen für Material und Lehrmittel;
+- c) die indirekten Aus- und Weiterbildungskosten, d. h. die Fahr- und Verpflegungskosten.
 
-<sup>2</sup> Die Fachstelle Aus- und Weiterbildung nimmt Stellung zum Antrag auf Übernahme der Weiterbildungskosten, für die die Anstellungsbehörde zuständig ist.
+<sup>2</sup> Die Berechnung der Fahr- und Verpflegungskosten wird in den Richtlinien über die Dienstreisen geregelt.
 
 #### Art. 20
 
-**Anmeldung**
+**Bildungsurlaub**
 
-<sup>1</sup> Bevor die zuständige Stelle eine Mitarbeiterin oder einen Mitarbeiter zum Besuch einer Weiterbildung verpflichtet oder autorisiert, kann sie von der Fachstelle Aus- und Weiterbildung eine Beratung oder Hilfeleistung anfordern.
+<sup>1</sup> Zusätzlich zu den vorgeschriebenen Aus- und Weiterbildungen hat eine Mitarbeiterin oder ein Mitarbeiter unabhängig vom Beschäftigungsgrad Anspruch auf drei Tage Bildungsurlaub pro Jahr (25,2 Stunden) für den Besuch einer internen oder externen Aus- oder Weiterbildung (gemäss den Bedingungen in Art. 4).
 
-<sup>2</sup> Wird die Weiterbildung über die Fachstelle Aus- und Weiterbildung organisiert, so melden sich die Mitarbeiterinnen und Mitarbeiter nach den von ihr vorgesehenen Modalitäten an.
+<sup>2</sup> Zusätzlich zum Urlaub nach Absatz 1 hat eine Mitarbeiterin oder ein Mitarbeiter Anspruch auf zwei Tage Bildungsurlaub pro Jahr (16,8 Stunden) für einen Sprachkurs in der Partnersprache.
 
-<sup>3</sup> Bei der Anmeldung gibt die Dienstchefin oder der Dienstchef oder gegebenenfalls die Anstellungsbehörde an, ob es sich um eine obligatorische oder freiwillige Weiterbildung handelt.
+<sup>3</sup> Der Urlaub nach Absatz 1 und 2 kann gegebenenfalls in die Aus- und Weiterbildungsvereinbarung integriert werden und muss nicht zurückgezahlt werden.
 
-<sup>4</sup> Alle Weiterbildungsentscheide werden der Fachstelle Aus- und Weiterbildung übermittelt, auch dann, wenn die Organisation der entsprechenden Weiterbildung nicht über die Fachstelle erfolgt.
+<sup>4</sup> Der Anspruch auf Bildungsurlaub kann über maximal drei Jahre hinweg kumuliert werden.
+
+<sup>5</sup> Bei internen oder externen Aus- und Weiterbildungen werden die vom Arbeitgeber übernommenen Kurs- oder Prüfungstage gemäss den Bestimmungen des Reglements über die Arbeitszeit des Staatspersonals im Zeiterfassungssystem erfasst.
+
+<sup>6</sup> Im Rahmen des vom POA angebotenen internen Ausbildungsangebots (Art. 11 Abs. 2) werden für die Teilnahme an einem Ausbildungstag 8 Stunden 24 Minuten und für einen halben Tag 4 Stunden 12 Minuten angerechnet. Bei allen anderen Aus- oder Weiterbildungen werden die Stunden effektiv verrechnet.
 
 #### Art. 21
 
-**Weiterbildungsbestätigung**
+**Kostenübernahme der internen Aus- und Weiterbildung**
 
-<sup>1</sup> Die Mitarbeiterin oder der Mitarbeiter gibt der Dienstchefin oder dem Dienstchef eine Weiterbildungsbestätigung und gegebenenfalls die Prüfungsergebnisse und die erreichten Kompetenzniveaus ab. Diese Angaben können elektronisch erfasst werden und sind Bestandteil des Personaldossiers der Mitarbeiterin oder des Mitarbeiters.
+<sup>1</sup> Das POA übernimmt die direkten Kosten des internen Aus- und Weiterbildungsangebots für die bereichsübergreifende Kompetenzentwicklung.
 
-## 7 Finanzielle Bestimmungen
+<sup>2</sup> Die Verwaltungseinheiten übernehmen die übrigen Aus- und Weiterbildungskosten.
 
-### 7.1 Kostenübernahme
+<sup>3</sup> Die Berechnung der Fahr- und Verpflegungskosten wird in den Richtlinien über die Dienstreisen geregelt.
 
 #### Art. 22
 
-**Weiterbildungskosten**
+**Kostenübernahme der externen Aus- und Weiterbildung**
 
-<sup>1</sup> Als Weiterbildungskosten gelten:
+<sup>1</sup> Die Kosten der vorgeschriebenen (Art. 13) und der zur Berufsausübung erforderlichen Aus- und Weiterbildungen (Art. 14) werden vollumfänglich von der betroffenen Verwaltungseinheit übernommen.
 
-- a) die Lohnkosten entsprechend dem Zeitaufwand für die Ausbildung, d.h. die Gesamtheit der aufgewendeten Stunden für Kurse, Seminare und Ateliers sowie Prüfungen;
-- b) die Ausbildungsauslagen, d.h. die Auslagen für die Anmeldung, die Kurse und die Honorare, die Reise- und Verpflegungsspesen sowie die Auslagen für Material und Lehrmittel.
+<sup>2</sup> Die Kosten der Aus- und Weiterbildungen von gegenseitigem Interesse (Art. 15) werden zu 25, 50, 75 oder 100 Prozent von der betroffenen Verwaltungseinheit übernommen.
+
+<sup>3</sup> Die Kosten der Aus- und Weiterbildungen im ausschliesslichen Interesse der Mitarbeiterin oder des Mitarbeiters werden vollumfänglich von der Mitarbeiterin oder vom Mitarbeiter übernommen. Der Arbeitgeber übernimmt keine Aus-, Weiterbildungs- oder Fahrkosten; die Aus- und Weiterbildungstage zählen nicht als Arbeitszeit.
+
+<sup>4</sup> Der Arbeitgeber übernimmt keine Kosten, die aus der Wiederholung einer Aus- oder Weiterbildung entstehen. Dies bezieht sich sowohl auf die Lohnkosten als auch auf die direkten und indirekten Aus- und Weiterbildungskosten.
+
+<sup>5</sup> Müssen Prüfungen wiederholt werden, so entscheidet die Anstellungsbehörde über die vollständige oder teilweise Übernahme dieser Kosten.
 
 #### Art. 23
 
-**Vollumfängliche Kostenübernahme durch den Arbeitgeber Staat**
+**Kostenübernahme für vorbereitende Kurse auf eidgenössische Prüfungen**
 
-<sup>1</sup> Vom Arbeitgeber Staat übernommen werden die Weiterbildungskosten für:
+<sup>1</sup> Vorbereitende Kurse auf eidgenössische Fachprüfungen (eidg. Fachausweis) oder auf eidgenössische höhere Fachprüfungen (höhere Fachprüfung, Meisterprüfung) können zu einem Bundesbeitrag in Höhe von 50 % der anrechenbaren Kurskosten führen. Der Staat übernimmt gegebenenfalls einzig die verbleibenden Kosten gemäss dieser Verordnung.
 
-- a) die obligatorische Weiterbildung (Art. 15);
-- b) die freiwillige Weiterbildung von kurzer Dauer im Rahmen des Weiterbildungsprogramms (Art. 16 Abs. 1); allfällige Reise- und Verpflegungsspesen sowie Auslagen für Bücher und Unterrichtsmaterial, die zu Lasten der Mitarbeiterinnen und Mitarbeiter gehen, bleiben vorbehalten;
-- c) die Weiterbildung in der Partnersprache im Sinne von Artikel 18, wobei höchstens drei Tage bezahlter Urlaub und 3000 Franken Ausbildungsauslagen geltend gemacht werden können.
-
-<sup>2</sup> Artikel 24 Abs. 2 Bst. d in fine bleibt vorbehalten.
+### 4.3 Stellungnahme
 
 #### Art. 24
 
-**Geteilte Kostenübernahme**
+**Stellungnahme**
 
-<sup>1</sup> Die Kosten für die freiwillige längerfristige Weiterbildung (Art. 17), die Weiterbildung von kurzer Dauer ausserhalb des Weiterbildungsprogramms (Art. 16 Abs. 3) und die Weiterbildung in der Partnersprache, die über die in Artikel 18 vorgesehene Dauer hinausgeht, werden im Verhältnis zum Beschäftigungsgrad aufgeteilt.
+<sup>1</sup> Für die Übernahme der Kosten von Aus- und Weiterbildungen, die 5000 Franken übersteigen, ist die Stellungnahme der betroffenen Personalfachstelle erforderlich.
 
-<sup>2</sup> Der Anteil des Staates an den Weiterbildungskosten wird nach folgenden Regeln bestimmt; der Anspruch auf bezahlten Urlaub nach den Artikeln 16 und 18 bleibt vorbehalten:
+<sup>2</sup> Für die Übernahme der Kosten von Aus- und Weiterbildungen gemäss Artikel 27 Abs. 2 ist die Stellungnahme des POA erforderlich. Das POA kann seine Kompetenz für zukünftige Stellungnahmen, welche die gleiche Aus- oder Weiterbildung und den gleichen Beruf betreffen, an die betroffene Personalfachstelle delegieren.
 
-- a) Entspricht die Weiterbildung einem persönlichen Interesse der Mitarbeiterin oder des Mitarbeiters: keine Beteiligung des Staates;
-- b) entspricht die Weiterbildung überwiegend einem persönlichen Interesse der Mitarbeiterin oder des Mitarbeiters: Beteiligung des Staates zu 25 %;
-- c) entspricht die Weiterbildung zu gleichen Teilen einem Interesse von Arbeitgeber und Mitarbeiterin oder Mitarbeiter: Beteiligung des Staates zu 50 %;
-- d) entspricht die Weiterbildung überwiegend einem Interesse des Arbeitgebers: Beteiligung des Staates zu 75 %. Erfolgt die Weiterbildung jedoch im Rahmen der Nachwuchsplanung, von Präventionsmassnahmen für Gesundheit und Sicherheit am Arbeitsplatz oder entsprechend der geplanten Weiterentwicklung der betroffenen Verwaltungseinheit, kann sich der Staat bis zu 100 % beteiligen.
+<sup>3</sup> Für vorgeschriebene (Art. 13) und zur Berufsausübung erforderliche (Art. 14) Aus- und Weiterbildungen nimmt das POA zur Art der identifizierten Aus- und Weiterbildung Stellung. Auf der Grundlage der allgemeinen Stellungnahme des POA nehmen die Personalfachstellen Stellung zu den individuellen Aus- und Weiterbildungsanträgen.
 
-<sup>3</sup> In jedem Fall können vom Staat keine Aus- und Weiterbildungsmassnahmen für Personen, die bei der Anstellung nicht über die vorausgesetzte Mindestausbildung oder die darüber hinausgehenden erforderlichen Zusatzkenntnisse verfügen, mitfinanziert werden.
+## 5 Rückzahlungspflicht
 
 #### Art. 25
 
-**Eintrag im Lohnausweis**
+**Grundsatz**
 
-<sup>1</sup> Der vom Arbeitgeber übernommene Betrag der Weiterbildungskosten wird nach den Richtlinien der Schweizer Steuerkonferenz im Lohnausweis deklariert.
+<sup>1</sup> Vom Arbeitgeber vorgeschriebene Aus- und Weiterbildungen müssen nicht zurückgezahlt werden.
+
+<sup>2</sup> Die effektiv vom Arbeitgeber übernommenen Kosten der übrigen Arten der Aus- und Weiterbildung sind gemäss den Bedingungen in diesem Abschnitt zurückzuzahlen.
 
 #### Art. 26
 
-**Rückzahlungspflicht – Grundsatz**
+**Rückzahlungsfrist – Begriffsbestimmung**
 
-<sup>1</sup> Die Mitarbeiterin oder der Mitarbeiter muss die gesamten oder einen Teil der Weiterbildungskosten in folgenden Fällen zurückzahlen; Artikel 27 bleibt vorbehalten:
+<sup>1</sup> Die Rückzahlungsfrist umfasst den Zeitraum, für den sich die Mitarbeiterin oder der Mitarbeiter im Rahmen der Aus- und Weiterbildungsvereinbarung verpflichtet, nach Abschluss der Aus- oder Weiterbildung weiterhin beim Staat tätig zu sein.
 
-- a) Sie oder er kündigt die Stelle vor Ablauf der zeitlichen Bindung nach Artikel 30.
-- b) Sie oder er bricht die Weiterbildung ohne triftigen Grund ab.
-- c) Sie oder er wird aus wichtigen Gründen im Sinne von Artikel 44 StPG vor Ablauf der zeitlichen Bindung entlassen.
-- d) Sie oder er besteht wegen eines schweren Verschuldens die Prüfungen nicht.
-
-<sup>2</sup> Je nach Anteil der vom Staat übernommenen Weiterbildungskosten bestimmt sich die Rückzahlungspflicht wie folgt:
-
-- a) bei freiwilliger Weiterbildung (Art. 24): Rückzahlung der gesamten vom Staat übernommenen Kosten;
-- b) bei obligatorischer Weiterbildung (Art. 23 Abs. 1 Bst. a): Rückzahlung von bis zu 10 % des vom Staat übernommenen Betrags, höchstens aber 3000 Franken.
+<sup>2</sup> Der Abschluss der Aus- oder Weiterbildung entspricht dem Abschlussdatum des Qualifikationsverfahrens (Prüfung oder schriftliche Arbeit) oder, sollte kein Qualifikationsverfahren vorgesehen sein, dem letzten Aus- oder Weiterbildungstag.
 
 #### Art. 27
 
-**Rückzahlungspflicht – Ausnahmen**
+**Rückzahlungsfrist – Abstufung**
 
-<sup>1</sup> Nicht rückzahlungspflichtig sind:
+<sup>1</sup> Die Rückzahlungsfrist wird nach folgender Abstufung gestützt auf die gesamten vom Arbeitgeber übernommenen Kosten festgelegt:
 
-- a) die Weiterbildung von kurzer Dauer, wenn sie auf der Grundlage des Weiterbildungsprogramms absolviert wird (Art. 16 Abs. 1);
-- b) die Teilnahme an wissenschaftlichen Tagungen und Kongressen, sofern der gewährte Urlaub drei Tage pro Jahr nicht übersteigt;
-- c) die freiwillige Weiterbildung, für die der Staat Kosten von weniger als 500 Franken übernommen hat;
-- d) die obligatorischen Weiterbildung, für die der Staat Kosten von weniger als 5000 Franken übernommen hat;
-- e) die obligatorische kollektive Weiterbildung.
+<table>
+<tr><th>Gesamtkosten der vom Arbeitgeber übernommenen Aus- und Weiterbildung (gemäss Art. 19)</th><th>Rückzahlungsfrist</th></tr>
+<tr><td>bis 5000 Franken</td><td>keine</td></tr>
+<tr><td>von 5001 bis 10'000 Franken</td><td>12 Monate</td></tr>
+<tr><td>von 10'001 bis 15'000 Franken</td><td>24 Monate</td></tr>
+<tr><td>ab 15'001 Franken</td><td>36 Monate</td></tr>
+</table>
 
-<sup>2</sup> Die nach den Artikeln 16 und 18 gewährten Urlaubstage sind in keinem Fall rückzahlungspflichtig.
+<sup>2</sup> Auf begründeten Antrag der Verwaltungseinheit an die Anstellungsbehörde und nach positiver Stellungnahme des POA kann die Rückzahlungsfrist für Aus- und Weiterbildungen auf maximal 60 Monate festgelegt werden.
 
-### 7.2 Ausbildungsvereinbarung
+<sup>3</sup> Die Dauer der Rückzahlungsfrist wird nach Abschluss der Aus- oder Weiterbildung neu berechnet und gegebenenfalls an die effektiven Kosten angepasst.
 
 #### Art. 28
 
-**Inhalt**
+**Rückzahlung – Ende des Dienstverhältnisses**
 
-<sup>1</sup> Eine Ausbildungsvereinbarung ist dann erforderlich, wenn die Mitarbeiterin oder der Mitarbeiter zur Rückzahlung der gesamten oder eines Teils der Ausbildungskosten verpflichtet wird.
+<sup>1</sup> Bei Kündigung, Entlassung aus wichtigen Gründen oder Ende des befristeten Vertrags vor Beginn der Rückzahlungsfrist, sind alle vom Arbeitgeber übernommenen Aus- und Weiterbildungskosten zurückzuzahlen.
 
-<sup>2</sup> Die Ausbildungsvereinbarung umfasst folgende Punkte:
-
-- a) Beschreibung und Dauer der Weiterbildung;
-- b) Gesamtkosten der Weiterbildung;
-- c) Betrag der nach Artikel 24 Abs. 2 übernommenen Kosten;
-- d) Bindung an den Arbeitgeber nach Artikel 30;
-- e) Rückzahlungspflicht nach Artikel 26.
+<sup>2</sup> Bei Kündigung, Entlassung aus wichtigen Gründen oder Ende des befristeten Vertrags vor Beendigung der Rückzahlungsfrist, sind die vom Arbeitgeber übernommenen Aus- und Weiterbildungskosten anteilsmässig zurückzuzahlen.
 
 #### Art. 29
 
-**Verfahren**
+**Rückzahlung – Nichtbestehen oder Abbruch einer Aus- oder Weiterbildung**
 
-<sup>1</sup> Die betreffende Dienstchefin oder der betreffende Dienstchef unterbreitet der Anstellungsbehörde ein Dossier mit dem Antrag auf Übernahme der Weiterbildungskosten, dem Entwurf der Ausbildungsvereinbarung und der Stellungnahme der Fachstelle für Aus- und Weiterbildung; die Befugnisse der Personalfachstelle bleiben vorbehalten. Die Ausbildungsvereinbarung wird von der Anstellungsbehörde unterzeichnet.
+<sup>1</sup> Bricht eine Mitarbeiterin oder ein Mitarbeiter eine Aus- oder Weiterbildung ohne triftigen Grund ab, erscheint nicht zu den Prüfungen oder besteht die Prüfung aufgrund schweren Verschuldens (Betrug, Plagiat) nicht, so sind die vollständigen vom Arbeitgeber übernommenen Aus- oder Weiterbildungskosten zurückzuzahlen.
 
-<sup>2</sup> Die Ausbildungsvereinbarung muss von der Mitarbeiterin oder vom Mitarbeiter unterzeichnet werden. Andernfalls wird eine Beteiligung des Staates an den Weiterbildungskosten abgelehnt.
-
-<sup>3</sup> Der Fachstelle für Aus- und Weiterbildung sowie der Lohnberechnungsstelle wird eine Kopie der Ausbildungsvereinbarung zur weiteren Bearbeitung zugestellt.
-
-<sup>4</sup> Das POA erlässt Richtlinien zu den Ausbildungsvereinbarungen und stellt die entsprechenden Vorlagen zur Verfügung.
+<sup>2</sup> Bei definitivem Nichtbestehen der Prüfung ohne schweres Verschulden wird die Rückzahlung der vom Arbeitgeber übernommenen Aus- und Weiterbildungskosten nicht eingefordert und die Rückzahlungsfrist ist anwendbar.
 
 #### Art. 30
 
-**Zeitliche Bindung**
+**Anteilsmässige Rückzahlung**
 
-<sup>1</sup> Die zeitliche Bindung erstreckt sich über den in der Ausbildungsvereinbarung angegebenen Zeitraum, während dem die Mitarbeiterin oder der Mitarbeiter nach Abschluss der Weiterbildung weiterhin beim Staat tätig sein muss. Die zeitliche Bindung beträgt ein bis höchstens fünf Jahre, je nach Kosten und Beteiligung des Staates an den Weiterbildungskosten.
-
-<sup>2</sup> Die Dauer der zeitlichen Bindung an den Arbeitgeber wird aufgrund des rückzahlbaren Betrags nach folgender Abstufung festgelegt:
-
-- a) 500 – 3000 Franken: — 1 Jahr
-- b) 3001 – 7000 Franken: — 2 Jahre
-- c) 7001 – 10'500 Franken: — 3 Jahre
-- d) 10'501 – 14'000 Franken: — 4 Jahre
-- e) ab 14'001 Franken: — 5 Jahre
-
-<sup>3</sup> Innerhalb der in Absatz 2 festgesetzten Tranchen ist der rückzahlbare Betrag entsprechend der Arbeitsmonate, die seit Abschluss der Weiterbildung geleistet wurden, linear degressiv. Bei einer Änderung des Beschäftigungsgrads nach Abschluss der Weiterbildung wird der rückzahlbare Betrag im Verhältnis angepasst.
-
-### 7.3 Budget
+<sup>1</sup> Der Betrag, der gemäss Artikel 28 Abs. 2 anteilsmässig zurückzuzahlen ist, wird gestützt auf die effektiven vom Arbeitgeber übernommenen Gesamtkosten berechnet, geteilt durch die gesamte Rückzahlungsfrist (in Tagen) und multipliziert mit der verbleibenden Rückzahlungsfrist.
 
 #### Art. 31
 
-<sup>1</sup> Der Voranschlag für die über die Fachstelle Aus- und Weiterbildung vermittelte Weiterbildung wird beim POA zentral verwaltet. Je nach Entwicklung der Weiterbildungsprogramme nach Artikel 8 Abs. 2 Bst. b und c kann dieser Voranschlag nach Stellungnahme der Fachstelle bei den entsprechenden Verwaltungseinheiten eingestellt werden.
+**Rückzahlung – Zuständige Stelle**
 
-<sup>2</sup> Reicht der bei den Verwaltungseinheiten im Voranschlag eingestellte Betrag nicht aus, die Kosten der massgeschneiderten Weiterbildungsprogramme, für die Leistungen der Fachstelle in Anspruch genommen wurden, zu decken, so kann der beim POA zentral verwaltete Voranschlag im Rahmen der verfügbaren Beträge verwendet werden, um einen Teil oder die gesamten Kosten zu finanzieren.
-
-<sup>3</sup> Die Voranschläge für die Weiterbildung, für die keine Leistungen der Fachstelle in Anspruch genommen wurden oder die im Rahmen eines spezifischen Programms durchgeführt wird, werden bei den betroffenen Verwaltungseinheiten eingestellt und der Aus- und Weiterbildungsstelle mitgeteilt.
-
-<sup>4</sup> Die Fachstelle Aus- und Weiterbildung kann im Rahmen des Voranschlagsverfahrens von der Finanzdirektion aufgefordert werden, ihre Stellungnahme abzugeben, Kontrollen durchzuführen und die Gesamtkonsolidierung des Weiterbildungsvoranschlags für das Staatspersonal vorzunehmen.
-
-## 8 Schlussbestimmungen
+<sup>1</sup> Die Anstellungsbehörde entscheidet über den zurückzuzahlenden Betrag gemäss Bedingungen der Aus- und Weiterbildungsvereinbarung.
 
 #### Art. 32
 
-**Änderung und Aufhebung bisherigen Rechts**
+**Teilweiser oder vollständiger Verzicht auf Rückzahlung**
 
-<sup>1</sup> Das Reglement vom 17. Dezember 2002 über das Staatspersonal (SGF 122.70.11) wird wie folgt geändert:
+<sup>1</sup> Beim Abschluss der Vereinbarung und auf Stellungnahme des POA kann die Anstellungsbehörde ausnahmsweise in bestimmten Fällen und insbesondere bei Aus- und Weiterbildungen, die zur Berufsausübung erforderlich sind, einen zurückzuzahlenden Höchstbetrag beschliessen.
 
-...
+<sup>2</sup> Die Anstellungsbehörde kann ausnahmsweise, aus wichtigen Gründen und auf Stellungnahme der Personalfachstelle, vollständig oder teilweise auf die in der Vereinbarung vorgesehene Rückzahlung verzichten. Als wichtige Gründe gelten namentlich ein schwerer Unfall oder eine länger dauernde schwere Erkrankung der Mitarbeiterin oder des Mitarbeiters.
 
-<sup>2</sup> Die Artikel 135–142 des Reglements vom 10. Juli 1985 für das Staatspersonal, die am Schluss des geltenden Reglements stehen, werden aufgehoben.
+## 6 Aus- und Weiterbildungsvereinbarung
+
+### 6.1 Abschluss einer Vereinbarung
 
 #### Art. 33
 
-**Inkrafttreten**
+**Abschluss einer Vereinbarung**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2013 in Kraft.
+<sup>1</sup> Für jede Aus- und Weiterbildung, deren vom Arbeitgeber übernommene Kosten über 5000 Franken liegen, wird vor Beginn der Aus- oder Weiterbildung eine Aus- und Weiterbildungsvereinbarung zwischen der Mitarbeiterin oder dem Mitarbeiter und der Anstellungsbehörde unterzeichnet.
 
-2012\_047
+<sup>2</sup> Die Vereinbarung umfasst namentlich die Art und den Betrag der übernommenen Kosten, die Rückzahlungsfrist und die Rückzahlungspflichten.
+
+<sup>3</sup> Vom Arbeitgeber vorgeschriebene Aus- und Weiterbildungen führen nicht zum Abschluss einer Vereinbarung.
+
+<sup>4</sup> Die Vereinbarung wird vor Beginn der Aus- oder Weiterbildung abgeschlossen; bei Aus- und Weiterbildungen, die zur Berufsausübung erforderlich sind, erfolgt der Abschluss der Vereinbarung bei der Anstellung.
+
+<sup>5</sup> Jede Vereinbarung wird im Personaldossier der Mitarbeiterin oder des Mitarbeiters bei der Anstellungsbehörde vermerkt.
+
+<sup>6</sup> In begründeten Fällen ist es möglich, mehrere Vereinbarungen abzuschliessen, deren Rückzahlungsfristen sich überschneiden.
+
+### 6.2 Übernahme einer früheren Vereinbarung
+
+#### Art. 34
+
+**Übernahme einer staatsinternen Vereinbarung**
+
+<sup>1</sup> Wechselt eine Mitarbeiterin oder ein Mitarbeiter mit einer Aus- oder Weiterbildungsvereinbarung die Verwaltungseinheit, so informiert die bisherige Verwaltungseinheit die neue Verwaltungseinheit über die Vereinbarung.
+
+<sup>2</sup> Ist die Aus- oder Weiterbildung abgeschlossen, so wird die Vereinbarung an die neue Verwaltungseinheit übertragen, die sie als Ganzes übernimmt.
+
+<sup>3</sup> Ist die Aus- oder Weiterbildung nicht abgeschlossen, so einigen sich die beiden Verwaltungseinheiten über die Kostenübernahme. Die Vereinbarung wird der neuen Verwaltungseinheit übertragen.
+
+#### Art. 35
+
+**Übernahme einer staatsexternen Vereinbarung**
+
+<sup>1</sup> Bei einer Neuanstellung kann der Arbeitgeber unabhängig davon, ob die Aus- oder Weiterbildung abgeschlossen ist oder nicht, die ganzen oder einen Teil der Kosten einer Aus- oder Weiterbildungsvereinbarung übernehmen, die zwischen der Mitarbeiterin oder dem Mitarbeiter und ihrem oder seinem früheren Arbeitgeber abgeschlossen wurde.
+
+<sup>2</sup> Bei der Übernahme einer externen Vereinbarung erstellt die Verwaltungseinheit gemäss den Bedingungen dieser Verordnung eine neue Vereinbarung mit der Mitarbeiterin oder dem Mitarbeiter und unterzeichnet sie.
+
+## 7 Schlussbestimmungen
+
+#### Art. 36
+
+**Übergangsrecht**
+
+<sup>1</sup> Aus- und Weiterbildungsvereinbarungen, die vor dem Inkrafttreten dieser Verordnung abgeschlossen und deren Aus- und Weiterbildungen vor dem Inkrafttreten dieser Verordnung begonnen wurden, behalten ihre Gültigkeit, mit Ausnahme der Rückzahlungsfristen, für welche diese Verordnung als neue Grundlage gilt.
+
+<sup>2</sup> Für Aus- und Weiterbildungsvereinbarungen, die vor dem Inkrafttreten dieser Verordnung abgeschlossen wurden und deren Aus- oder Weiterbildung nach dem Inkrafttreten dieser Verordnung beginnt, ist letztere anwendbar.
+
+2023\_056
