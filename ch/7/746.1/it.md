@@ -4,31 +4,31 @@ title: "Legge federale del 4 ottobre 1963 sugli impianti di trasporto in condott
 short: LITC
 eli: "https://fedlex.data.admin.ch/eli/cc/1964/99_95_95"
 language: it
-version: 2021-01-01
+version: 2023-07-01
 adopted: 1963-10-04
 in_force: 1964-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/99_95_95/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1964-99_95_95-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/99_95_95/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1964-99_95_95-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sugli impianti di trasporto in condotta di combustibili e carburanti liquidi o gassosi
 
-(Legge sugli impianti di trasporto in condotta, LITC**[^t-1]**)
+(Legge sugli impianti di trasporto in condotta, LITC[^t-1])
 
-del 4 ottobre 1963 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 4 ottobre 1963 (Stato 1° luglio 2023)
 
 [^t-1]: Abbreviazione introdotta dal n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visto gli articoli 23, 24<sup>quater</sup>, 26<sup>bis</sup>, 64 e 64<sup>bis</sup> della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 28 settembre 1962[^ingress-3],
+visti gli articoli 81 e 91 capoverso 2 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 28 settembre 1962[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [CS **1** 3; [RU 1961 498](https://fedlex.data.admin.ch/eli/oc/1961/476_486_498),[1976 711](https://fedlex.data.admin.ch/eli/oc/1976/711_711_711)]. Queste disp. corrispondono agli art. 81, 91, 122 e 123 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nuovo testo giusta l’all. n. 21 alla L del 24 mar. 2000 sul foro, in vigore dal 1° gen. 2001, in vigore dal 1° gen. 2017 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo giusta il n. I 23 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: FF **1962** 1365
 
 ## I. Disposizioni generali
@@ -56,7 +56,7 @@ Essa è interamente applicabile:
 
 <sup>5</sup> ...[^1-1]
 
-[^1-1]: Abrogato dall’all. n. 78 alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^1-1]: Abrogato dall’all. n. 78 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 1. Approvazione dei piani
 
@@ -320,7 +320,7 @@ La procedura di eliminazione delle divergenze nell’Amministrazione federale è
 <sup>3</sup> ...[^23-2]
 
 [^23-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
-[^23-2]: Abrogato dall’all. n. 78 alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); FF **2001** [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^23-2]: Abrogato dall’all. n. 78 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); FF **2001** [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 3. Procedura semplificata
 
@@ -587,7 +587,7 @@ La sospensione e la cessazione dell’assicurazione devono essere notificate dal
 
 [^40-1]
 
-[^40-1]: Abrogato dell’all. n. 21 alla L del 24 mar. 2000 sul foro, con effetto dal 1° gen. 2017 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
+[^40-1]: Abrogato dell’all. n. 21 della L del 24 mar. 2000 sul foro, con effetto dal 1° gen. 2017 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
 
 ## IV. Impianti sottoposti alla vigilanza dei Cantoni
 
@@ -599,7 +599,7 @@ La sospensione e la cessazione dell’assicurazione devono essere notificate dal
 
 Gli impianti non considerati nell’articolo 1 capoverso 2 e non esentati dalla presente legge in virtù dell’articolo 1 capoverso 4 sono sottoposti, oltre che alle disposizioni del presente capo, soltanto a quelle sull’obbligo di trasporto (art. 13), sulla responsabilità civile e sull’assicurazione (capo III), sulle pene e sulle misure amministrative (capo V) e alle prescrizioni di sicurezza da emanarsi dal Consiglio federale.
 
-[^41-1]: Nuovo testo giusta l’all. n. II 11 alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^41-1]: Nuovo testo giusta l’all. n. II 11 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 ### 2. Obbligo d’una licenza
 
@@ -615,37 +615,47 @@ Gli impianti non considerati nell’articolo 1 capoverso 2 e non esentati dalla 
 
 Gli impianti con licenza cantonale secondo l’articolo 42 soggiacciono alla vigilanza del Cantone e all’alta vigilanza della Confederazione.
 
-## V. Pene e misure amministrative****
+## V. Pene e misure amministrative
 
-[^lvlV-1]
-
-[^lvlV-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2–6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
-
-### 1. Danneggiamento di impianti di trasporti in condotta e perturbamento dell’esercizio
+### 1. Danneggiamento di impianti di trasporto in condotta e perturbamento dell’esercizio
 
 #### Art. 44
 
-<sup>1</sup> Chiunque intenzionalmente guasta un impianto di trasporto in condotta e con ciò, in particolare cagionando un inquinamento o altro dannoso perturbamento delle acque aperte o del sottosuolo, mette scientemente in pericolo la vita o la salute delle persone o cosa altrui di notevole valore, è punito con la reclusione o la detenzione.
+[^44-1]
 
-<sup>2</sup> Chiunque intenzionalmente impedisce, perturba o pone in pericolo l’esercizio di un impianto di trasporto in condotta d’interesse pubblico è punito con la detenzione, sempreché non sia applicabile il capoverso 1.
+<sup>1</sup> Chiunque intenzionalmente guasta un impianto di trasporto in condotta e con ciò, in particolare cagionando un inquinamento o altro dannoso perturbamento delle acque aperte o del sottosuolo, mette scientemente in pericolo la vita o la salute delle persone o cosa altrui di notevole valore, è punito con una pena detentiva non inferiore a un anno.
 
-<sup>3</sup> La pena è della detenzione o della multa se il colpevole ha agito per negligenza.
+<sup>2</sup> Chiunque intenzionalmente impedisce, perturba o pone in pericolo l’esercizio di un impianto di trasporto in condotta d’interesse pubblico è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria, sempreché non sia applicabile il capoverso 1.
+
+<sup>3</sup> La pena è una pena detentiva sino a tre anni o una pena pecuniaria se l’autore ha agito per negligenza.
+
+[^44-1]: Nuovo testo giusta il n. I 23 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 2. Infrazioni della legge
 
 #### Art. 45
 
-<sup>1.</sup> Chiunque dà informazioni inesatte o incomplete per ottenere un’approvazione dei piani, chiunque, senz’esserne autorizzato, incomincia o prosegue la costruzione d’un impianto di trasporto in condotta oppure un’opera di cui all’articolo 28, chiunque, senz’esserne autorizzato, imprende o prosegue l’esercizio d’un impianto di trasporto in condotta, chiunque non osserva le condizioni o gli oneri attenenti a un’approvazione dei piani, oppure l’obbligo di stipulare un’assicurazione o di fornire garanzie, chiunque, cessando d’essere stagno un impianto di trasporto in condotta, non provvede immediatamente ai rimedi e agli avvisi previsti nell’articolo 32, è punito, ove abbia agito con intenzione, né il fatto costituisca un reato più grave, con l’arresto o con la multa fino a 20 000 franchi. Il tentativo e la complicità sono punibili.
+[^45-1]
 
-Se le condizioni o gli oneri inosservati sono stati posti per tutelare la sicurezza del Paese, l’indipendenza o la neutralità della Svizzera o per evitare una dipendenza economica incompatibile con l’interesse generale del Paese, può essere pronunciata la detenzione.
+<sup>1</sup>
 
-<sup>2.</sup> La pena è della multa fino a 10 000 franchi, se il colpevole ha agito per negligenza.
+Se non è adempiuta una fattispecie di reato più grave, è punito con la multa fino a 100 000 franchi chiunque, intenzionalmente:
 
-<sup>3.</sup> Il Consiglio federale può comminare le stesse pene per le infrazioni delle disposizioni d’applicazione.
+- a. dà informazioni inesatte o incomplete per ottenere un’approvazione dei piani;
+- b. incomincia o prosegue la costruzione d’un impianto di trasporto in condotta oppure un’opera di cui all’articolo 28, senz’esserne autorizzato;
+- c. imprende o prosegue l’esercizio d’un impianto di trasporto in condotta, senz’esserne autorizzato;
+- d. non osserva le condizioni o gli oneri attinenti a un’approvazione dei piani, oppure l’obbligo di stipulare un’assicurazione o di fornire garanzie;
+- e. cessando d’essere stagno un impianto di trasporto in condotta, non provvede immediatamente ai rimedi e agli avvisi previsti nell’articolo 32.
 
-<sup>4.</sup> ...[^45-1]
+<sup>2</sup> Il tentativo è punibile.
 
-[^45-1]: Abrogato dall’all. n. 14 al DPA, con effetto dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+<sup>3</sup> Se le condizioni o gli oneri inosservati sono stati posti per tutelare la sicurezza del Paese, l’indipendenza o la neutralità della Svizzera o per evitare una dipendenza economica incompatibile con l’interesse gene-rale del Paese, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
+
+<sup>4</sup> La pena è della multa fino a 50 000 franchi se l’autore ha agito per negligenza.
+
+<sup>5</sup> Il Consiglio federale può comminare le stesse pene per le infrazioni delle disposizioni d’applicazione.
+
+[^45-1]: Nuovo testo giusta il n. I 23 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 2a Altre disposizioni penali
 
@@ -774,7 +784,7 @@ Esso emana le necessarie prescrizioni d’applicazione, che indicano segnatament
 
 <sup>3</sup> I Cantoni regolano, in quanto occorra, le competenze per i compiti loro assegnati e la procedura applicabile.
 
-Data dell’entrata in vigore: 1° marzo 1964[^52-4].
+Data dell’entrata in vigore: 1° marzo 1964[^52-4]
 
 [^52-1]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
 [^52-2]: Nuovo testo giusta il n. I 11 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).

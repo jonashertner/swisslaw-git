@@ -4,31 +4,31 @@ title: "Bundesgesetz vom 4. Oktober 1963 über Rohrleitungsanlagen zur Beförder
 short: RLG
 eli: "https://fedlex.data.admin.ch/eli/cc/1964/99_95_95"
 language: de
-version: 2021-01-01
+version: 2023-07-01
 adopted: 1963-10-04
 in_force: 1964-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/99_95_95/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1964-99_95_95-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/99_95_95/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1964-99_95_95-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über Rohrleitungsanlagen zur Beförderung flüssiger oder gasförmiger Brenn- oder Treibstoffe
 
-(Rohrleitungsgesetz, RLG**[^t-1]**)
+(Rohrleitungsgesetz, RLG[^t-1])
 
-vom 4. Oktober 1963 (Stand am 1. Januar 2021)
+vom 4. Oktober 1963 (Stand am 1. Juli 2023)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I 11 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 23, 24<sup>quater</sup>, 26<sup>bis</sup>, 64 und 64<sup>bis</sup> der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 28. September 1962[^ingress-3],
+gestützt auf die Artikel 81 und 91 Absatz 2 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 28. September 1962[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3; [AS 1961 476](https://fedlex.data.admin.ch/eli/oc/1961/476_486_498), [1976 711](https://fedlex.data.admin.ch/eli/oc/1976/711_711_711)]. Den genannten Bestimmungen entsprechen heute die Art. 81, 91, 122 und 123 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Fassung gemäss Anhang Ziff. 21 des Gerichtsstandsgesetzes vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I 23 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [BBl 1962 II 791](https://fedlex.data.admin.ch/eli/fga/1962/2_791_788_1365)
 
 ## I. Allgemeine Bestimmungen
@@ -54,7 +54,7 @@ In vollem Umfange ist das Gesetz anwendbar auf:
 
 <sup>4</sup> Der Bundesrat kann Rohrleitungen von geringer Länge, namentlich Rohrleitungen, die Bestandteil einer Einrichtung zur Lagerung, zum Umschlag, zur Aufbereitung oder zur Verwertung von Brenn- oder Treibstoffen bilden, vom Gesetz ausnehmen.
 
-<sup>5</sup> ...[^1-1]
+<sup>5</sup> …[^1-1]
 
 [^1-1]: Aufgehoben durch Anhang Ziff. 78 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -262,12 +262,12 @@ Das Plangenehmigungsgesuch ist mit den erforderlichen Unterlagen beim Bundesamt 
 
 <sup>2</sup> Das Gesuch ist in den amtlichen Publikationsorganen der betroffenen Kantone und Gemeinden zu publizieren und während 30 Tagen öffentlich aufzulegen.
 
-<sup>3</sup> ...[^21b-2]
+<sup>3</sup> …[^21b-2]
 
 [^21b-1]: Eingefügt durch Ziff. I 11 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^21b-2]: Aufgehoben durch Anhang Ziff. 15 des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
-### d. ...
+### d. …
 
 #### Art. 22
 
@@ -314,7 +314,7 @@ Das Bereinigungsverfahren in der Bundesverwaltung richtet sich nach Artikel 62*b
 
 <sup>2</sup> Die Plangenehmigung erlischt, wenn ein Jahr nach ihrer rechtskräftigen Erteilung mit der Ausführung des Bauvorhabens nicht begonnen worden ist. Das Bundesamt kann die Geltungsdauer der Plangenehmigung aus wichtigen Gründen angemessen verlängern.
 
-<sup>3</sup> ...[^23-2]
+<sup>3</sup> …[^23-2]
 
 [^23-1]: Fassung gemäss Ziff. I 11 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^23-2]: Aufgehoben durch Anhang Ziff. 78 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -363,7 +363,7 @@ Vor der rechtskräftigen Genehmigung der Pläne darf mit dem Bau nicht begonnen 
 
 <sup>1</sup> Nach Abschluss des Plangenehmigungsverfahrens wird, soweit erforderlich, das Einigungs- und Schätzungsverfahren vor der Eidgenössischen Schätzungskommission (Schätzungskommission) nach den Bestimmungen des EntG[^26-2] durchgeführt.[^26-3]
 
-<sup>2</sup> ...[^26-4]
+<sup>2</sup> …[^26-4]
 
 <sup>3</sup> Der Präsident der Schätzungskommission kann gestützt auf einen vollstreckbaren Plangenehmigungsentscheid die vorzeitige Besitzeinweisung bewilligen. Dabei wird vermutet, dass dem Enteigner ohne die vorzeitige Besitzeinweisung bedeutende Nachteile entstünden. Im Übrigen gilt Artikel 76 EntG.
 
@@ -578,7 +578,7 @@ Aussetzen und Aufhören der Versicherung sind vom Versicherer dem Bundesamt[^36-
 [^39-1]: Fassung gemäss Anhang Ziff. 13 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^39-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### b. ...
+### b. …
 
 #### Art. 40
 
@@ -612,47 +612,47 @@ Rohrleitungsanlagen, die nicht unter Artikel 1 Absatz 2 fallen und nicht gestüt
 
 Rohrleitungsanlagen mit kantonaler Bewilligung gemäss Artikel 42 unterstehen der Aufsicht des Kantons und der Oberaufsicht des Bundes.
 
-## V. Strafen und Verwaltungsmassnahmen****
+## V. Strafen und Verwaltungsmassnahmen
 
-[^lvlV-1]
-
-[^lvlV-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
-
-### 1. Beschädigung von Rohrleitungsanlagen und Störung des Betriebes
+### 1. Beschädigung von Rohrleitungsanlagen und Störung des Betriebs
 
 #### Art. 44
 
-<sup>1</sup> Wer vorsätzlich eine Rohrleitungsanlage beschädigt und dadurch, insbesondere durch Verunreinigung oder andere schädliche Beeinträchtigung ober- oder unterirdischer Gewässer, wissentlich das Leben oder die Gesundheit von Menschen oder fremde Sachen von erheblichem Wert in Gefahr bringt, wird mit Zuchthaus oder Gefängnis bestraft.
+[^44-1]
 
-<sup>2</sup> Wer vorsätzlich den Betrieb einer Rohrleitungsanlage, die im öffentlichen Interesse liegt, hindert, stört oder gefährdet, wird, sofern nicht Absatz 1 anwendbar ist, mit Gefängnis bestraft.
+<sup>1</sup> Wer vorsätzlich eine Rohrleitungsanlage beschädigt und dadurch, insbesondere durch Verunreinigung oder andere schädliche Beeinträchtigung ober- oder unterirdischer Gewässer, wissentlich das Leben oder die Gesundheit von Menschen oder fremde Sachen von erheblichem Wert in Gefahr bringt, wird mit Freiheitsstrafe nicht unter einem Jahr bestraft.
 
-<sup>3</sup> Handelt der Täter fahrlässig, so ist die Strafe Gefängnis oder Busse.
+<sup>2</sup> Wer vorsätzlich den Betrieb einer Rohrleitungsanlage, die im öffentlichen Interesse liegt, hindert, stört oder gefährdet, wird, sofern nicht Absatz 1 anwendbar ist, mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+
+<sup>3</sup> Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
+
+[^44-1]: Fassung gemäss Ziff. I 23 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 2. Widerhandlungen gegen das Gesetz
 
 #### Art. 45
 
-<sup>1.</sup> Wer zwecks Erlangung einer Plangenehmigung unrichtige oder unvollständige Angaben macht,
+[^45-1]
 
-wer unbefugt den Bau einer Rohrleitungsanlage oder die Verwirklichung eines Bauvorhabens gemäss Artikel 28 beginnt oder weiterführt,
+<sup>1</sup>
 
-wer unbefugt den Betrieb einer Rohrleitungsanlage aufnimmt oder weiterführt,
+Sofern kein schwererer Tatbestand erfüllt ist, wird mit Busse bis zu 100 000 Franken bestraft, wer vorsätzlich:
 
-wer die an eine Plangenehmigung oder Bewilligung geknüpften Bedingungen oder Auflagen oder seine Versicherungs- oder Sicherstellungspflicht nicht erfüllt,
+- a. zwecks Erlangung einer Plangenehmigung unrichtige oder unvollständige Angaben macht;
+- b. unbefugt den Bau einer Rohrleitungsanlage oder die Verwirklichung eines Bauvorhabens gemäss Artikel 28 beginnt oder weiterführt;
+- c. unbefugt den Betrieb einer Rohrleitungsanlage aufnimmt oder weiterführt;
+- d. die an eine Plangenehmigung oder Bewilligung geknüpften Bedingungen oder Auflagen oder seine Versicherungs- oder Sicherstellungspflicht nicht erfüllt;
+- e. bei Undichtwerden einer Rohrleitungsanlage die in Artikel 32 vorgesehenen Massnahmen und Meldungen nicht unverzüglich vornimmt.
 
-wer bei Undichtwerden einer Rohrleitungsanlage die in Artikel 32 vorgesehenen Massnahmen und Meldungen nicht unverzüglich vornimmt,
+<sup>2</sup> Der Versuch ist strafbar.
 
-wird, wenn er vorsätzlich handelt, und sofern kein schwererer Straftatbestand erfüllt ist, mit Haft oder Busse bis zu 20 000 Franken bestraft. Versuch und Gehilfenschaft sind strafbar.
+<sup>3</sup> Dienen die verletzten Bedingungen oder Auflagen dem Schutz der Sicherheit des Landes, der Unabhängigkeit oder der Neutralität der Schweiz oder der Vermeidung einer dem Gesamtinteresse des Landes widersprechenden wirtschaftlichen Abhängigkeit, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-Dienen die verletzten Bedingungen oder Auflagen dem Schutze der Sicherheit des Landes, der Unabhängigkeit oder der Neutralität der Schweiz oder der Vermeidung einer dem Gesamtinteresse des Landes widersprechenden wirtschaftlichen Abhängigkeit, so kann auf Gefängnis erkannt werden.
+<sup>4</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse bis zu 50 000 Franken.
 
-<sup>2.</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse bis 10 000 Franken.
+<sup>5</sup> Der Bundesrat kann Widerhandlungen gegen die Ausführungsvorschriften mit den gleichen Strafen bedrohen.
 
-<sup>3.</sup> Der Bundesrat kann Widerhandlungen gegen die Ausführungsvorschriften mit den gleichen Strafen bedrohen.
-
-<sup>4.</sup> ...[^45-1]
-
-[^45-1]: Aufgehoben durch Ziff. 14 des Anhangs zum VStrR, mit Wirkung seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^45-1]: Fassung gemäss Ziff. I 23 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 2a. Weitere Strafbestimmungen
 
@@ -698,7 +698,7 @@ Die besonderen Bestimmungen des Bundesgesetzes vom 22. März 1974[^45a-2] über 
 
 <sup>1</sup> Wird eine Verfügung des Bundesamtes nach vorausgegangener Mahnung nicht innert der festgesetzten Frist befolgt, so kann sie das Bundesamt unbeschadet der Einleitung oder des Ausganges eines Strafverfahrens auf Kosten des Säumigen durchführen oder durchführen lassen.
 
-<sup>2</sup> ...[^47-1]
+<sup>2</sup> …[^47-1]
 
 [^47-1]: Aufgehoben durch Ziff. I 11 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, mit Wirkung seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 

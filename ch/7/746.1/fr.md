@@ -4,31 +4,31 @@ title: "Loi fédérale du 4 octobre 1963 sur les installations de transport par 
 short: LITC
 eli: "https://fedlex.data.admin.ch/eli/cc/1964/99_95_95"
 language: fr
-version: 2021-01-01
+version: 2023-07-01
 adopted: 1963-10-04
 in_force: 1964-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/99_95_95/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1964-99_95_95-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/99_95_95/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1964-99_95_95-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/99_95_95/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur les installations de transport par conduites de combustibles ou carburants liquides ou gazeux
 
-(Loi sur les installations de transport par conduites, LITC**[^t-1]**)
+(Loi sur les installations de transport par conduites, LITC[^t-1])
 
-du 4 octobre 1963 (Etat le 1<sup>er</sup> janvier 2021)
+du 4 octobre 1963 (État le 1<sup>er</sup> juillet 2023)
 
 [^t-1]: Abréviation introduite par le ch. I 11 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2221).
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 23, 24<sup>quater</sup>, 26<sup>bis</sup>, 64 et 64<sup>bis</sup> de la constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 28 septembre 1962[^ingress-3],
+vu les art. 81 et 91, al. 2, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 28 septembre 1962[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [RS **1** 3; [RO 1961 486](https://fedlex.data.admin.ch/eli/oc/1961/476_486_498), [1976 711](https://fedlex.data.admin.ch/eli/oc/1976/711_711_711)]. Aux disp. mentionnées correspondent actuellement les art. 81, 91, 122 et 123 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nouvelle teneur selon l’annexe ch. 21 de la L du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nouvelle teneur selon le ch. I 23 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^ingress-3]: [FF 1962 II 788](https://fedlex.data.admin.ch/eli/fga/1962/2_791_788_1365)
 
 ## I. Dispositions générales
@@ -615,47 +615,47 @@ Les installations qui ne sont pas visées par l’art. 1, al. 2, et qui ne font 
 
 Les installations subordonnées à une autorisation cantonale selon l’art. 42 sont soumises à la surveillance du canton et à la haute surveillance de la Confédération.
 
-## V. Peines et mesures administratives****
-
-[^lvlV-1]
-
-[^lvlV-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+## V. Peines et mesures administratives
 
 ### 1. Endommagement d’installations de transport par conduites et trouble dans l’exploitation
 
 #### Art. 44
 
-<sup>1</sup> Celui qui, intentionnellement, aura endommagé une installation de transport par conduites et aura ainsi, notamment en causant des pollutions ou autres dommages à des eaux de surface ou souterraines, mis sciemment en danger la vie ou l’intégrité corporelle de personnes ou des biens de grande valeur appartenant à autrui, sera puni de la réclusion ou de l’emprisonnement.
+[^44-1]
 
-<sup>2</sup> Celui qui intentionnellement, aura entravé, troublé ou mis en danger l’exploitation d’une installation de transport par conduites d’intérêt public, sera puni de l’emprisonnement, à moins que l’al. 1 ne soit applicable.
+<sup>1</sup> Quiconque, intentionnellement, endommage une installation de transport par conduites et ainsi, notamment en causant des pollutions ou autres dommages à des eaux de surface ou souterraines, met sciemment en danger la vie ou l’intégrité corporelle de personnes ou des biens de grande valeur appartenant à autrui est puni d’une peine privative de liberté d’un an au moins.
 
-<sup>3</sup> La peine sera l’emprisonnement ou l’amende si le délinquant a agi par négligence.
+<sup>2</sup> Quiconque, intentionnellement, entrave, trouble ou met en danger l’exploitation d’une installation de transport par conduites d’intérêt public est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire, à moins que l’al. 1 ne soit applicable.
+
+<sup>3</sup> L’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.
+
+[^44-1]: Nouvelle teneur selon le ch. I 23 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 2. Infractions à la loi
 
 #### Art. 45
 
-<sup>1.</sup> Celui qui aura donné des renseignements inexacts ou incomplets en vue d’obtenir une décision d’approbation des plans,
+[^45-1]
 
-celui qui, sans y être autorisé, aura commencé les travaux de construction d’une installation de transport par conduites ou l’exécution d’un projet de construction selon l’art. 28, ou les aura poursuivis,
+<sup>1</sup>
 
-celui qui aura, sans y être autorisé, entrepris ou poursuivi l’exploitation d’une installation de transport par conduites,
+À moins qu’un délit plus grave n’ait été commis, est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement:
 
-celui qui n’aura pas observé les conditions ou charges attachées à une décision d’approbation des plans ou une autorisation ou n’aura pas rempli son obligation concernant l’assurance ou les sûretés à fournir,
+- a. donne des renseignements inexacts ou incomplets en vue d’obtenir une décision d’approbation des plans;
+- b. sans y être autorisé, commence les travaux de construction d’une installation de transport par conduites ou l’exécution d’un projet de construction selon l’art. 28, ou les poursuit;
+- c. sans y être autorisé, entreprend ou poursuit l’exploitation d’une installation de transport par conduites;
+- d. n’observe pas les conditions ou charges attachées à une décision d’approbation des plans ou une autorisation ou ne remplit pas son obligation concernant l’assurance ou les sûretés à fournir;
+- e. dès qu’une installation de transport par conduites n’est plus étanche, ne prend pas immédiatement les mesures ni n’avise les autorités conformément à l’art. 32.
 
-celui qui, dès qu’une installation de transport par conduites n’est plus étanche, n’aura pas immédiatement pris les mesures et avisé les autorités conformément à l’art. 32,
+<sup>2</sup> La tentative est punissable.
 
-sera, s’il a agi intentionnellement et à moins qu’un délit plus grave n’ait été commis, puni des arrêts ou de l’amende jusqu’à 20 000 francs au plus. La tentative et la complicité sont punissables.
+<sup>3</sup> Si les conditions ou charges inobservées ont été prévues pour sauvegarder la sécurité du pays, l’indépendance ou la neutralité de la Suisse ou pour empêcher une dépendance économique contraire à l’intérêt général du pays, l’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-Si les conditions ou charges inobservées ont été prévues pour sauvegarder la sécurité du pays, l’indépendance ou la neutralité de la Suisse ou pour empêcher une dépendance économique contraire à l’intérêt général du pays, la peine pourra être l’emprisonnement.
+<sup>4</sup> L’auteur est puni d’une amende de 50 000 francs au plus s’il agit par négligence.
 
-<sup>2.</sup> Si le délinquant a agi par négligence, la peine sera une amende de 10 000 francs au plus.
+<sup>5</sup> Le Conseil fédéral peut prévoir les mêmes peines pour les infractions aux dispositions d’exécution.
 
-<sup>3.</sup> Le Conseil fédéral peut prévoir les mêmes peines pour les infractions aux dispositions d’exécution.
-
-<sup>4.</sup> …[^45-1]
-
-[^45-1]: Abrogé par l’annexe ch. 14 du DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^45-1]: Nouvelle teneur selon le ch. I 23 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 2*a*. Autres dispositions pénales
 
