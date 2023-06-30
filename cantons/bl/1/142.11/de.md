@@ -4,13 +4,13 @@ number: "142.11"
 title: Dienstordnung der Finanz- und Kirchendirektion
 short: Do FKD
 language: de
-version: 2023-01-01
-valid_until: 2023-06-30
-version_adopted: 2022-12-13
+version: 2023-07-01
+valid_until: 2024-01-31
+version_adopted: 2023-06-27
 adopted: 2022-05-10
 in_force: 2022-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/142.11"
-pdf: "https://bl.clex.ch/api/de/versions/3472/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3636/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3472/pdf_file"
 
 (Do FKD)
 
-Vom 10.05.2022 (Stand 01.01.2023)
+Vom 10.05.2022 (Stand 01.07.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -55,7 +55,8 @@ beschliesst:
 - i. Kirchen;
 - j. Medienpolitik;
 - k. Beteiligungen;
-- l. Registerwesen.
+- l. Registerwesen;
+- m. Digitale Transformation.
 
 #### § 3
 
@@ -132,7 +133,8 @@ beschliesst:
 
 - a. Stabsaufgaben;
 - b. HR-Beratung;
-- c. Stabsstelle Gemeinden.
+- c. Stabsstelle Gemeinden;
+- d. Digital Transformation Management.
 
 #### § 9
 
@@ -146,7 +148,8 @@ beschliesst:
 - d. Planung, Koordination und Qualitätssicherung innerhalb der Direktion;
 - e. Kompetenzzentrum für allgemeine Gemeindefragen und Aufsicht über die Gemeinden (exklusive Gemeindefinanzen);
 - f. Wahrnehmung der Aufgaben im Zusammenhang mit den Landeskirchen und Religionsgemeinschaften sowie der Aufsicht über die «Stiftung Kirchengut» im Auftrag des Regierungsrats;
-- g. Kompetenzzentrum für Kommunikation und Medienpolitik.
+- g. Kompetenzzentrum für Kommunikation und Medienpolitik;
+- h. Digitale Transformation und Organisationsentwicklung in der Direktion.
 
 ### 2.2 Fachstelle Gleichstellung für Frauen und Männer
 
@@ -264,7 +267,7 @@ beschliesst:
 - b. Kompetenzzentrum:
   - 1\. Fachbereich Honorierung,
   - 2\. Fachbereich Personalrecht,
-  - 3\. Fachbereich Personal- und Organisationsentwicklung.
+  - 3\. Fachbereich Personalentwicklung.
 
 <sup>2</sup> Der Leitung des Personalamts sind die Stabstellen Controlling sowie Kommunikation und Projekte unterstellt.
 
@@ -281,13 +284,13 @@ beschliesst:
 - e. Beratung der kantonalen Verwaltung, der Gemeinden und der öffentlich-rechtlichen Institutionen;
 - f. Durchführung der administrativen HR-Prozesse und des Lohnlaufs.
 
-### 2.6 Statistisches Amt
+### 2.6 Amt für Daten und Statistik (AfDS)
 
 #### § 18
 
 **Organisation**
 
-<sup>1</sup> Das Statistische Amt ist wie folgt gegliedert:
+<sup>1</sup> Das Amt für Daten und Statistik ist wie folgt gegliedert:
 
 - a. Stabsaufgaben;
 - b. Statistik;
@@ -299,7 +302,7 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Das Statistische Amt hat folgende Aufgaben:
+<sup>1</sup> Das Amt für Daten und Statistik hat folgende Aufgaben:
 
 - a. Vollzug der kantonalen Statistikaufgaben;
 - b. Vollzug von Bundesstatistiken;
@@ -332,7 +335,7 @@ beschliesst:
 
 - a. Erarbeitung der Grundsätze für die Sozialhilfepolitik;
 - b. Aufsicht über die kommunalen Sozialhilfebehörden;
-- c. Vollzug der kantonalen Aufgaben in den Bereichen Sozialhilfe, Bevorschussung und Vollstreckung für Unterhaltsbeiträge und Asyl- und Flüchtlingswesen.
+- c. Vollzug der kantonalen Aufgaben in den Bereichen Sozialhilfe, Mietzinsbeiträge, Bevorschussung und Vollstreckung für Unterhaltsbeiträge und Asyl- und Flüchtlingswesen.
 
 ### 2.8 Zentrale Informatik
 
@@ -358,5 +361,31 @@ beschliesst:
 [^23-2]: [SGS 164.11](https://bl.clex.ch/data/164.11/de)
 [^23-3]: [SGS 162.51](https://bl.clex.ch/data/162.51/de)
 [^23-4]: [SGS 140.15](https://bl.clex.ch/data/140.15/de)
+
+### 2.9 Dienststelle Digitale Transformation (DiDiT)
+
+#### § 24
+
+**Organisation**
+
+<sup>1</sup> Die Dienststelle Digitale Transformation ist wie folgt gegliedert:
+
+- a. Leitung;
+- b. Services.
+
+#### § 25
+
+**Aufgaben**
+
+<sup>1</sup> Die Dienststelle Digitale Transformation hat insbesondere folgende Aufgaben:
+
+- a. Führung und Koordination der übergeordneten Prozesse und Weiterentwicklung der Organisation im Bereich der digitalen Transformation;
+- b. Strategiecontrolling;
+- c. Entwicklung und Vermittlung der Projektführungsmethodik BL;
+- d. Erarbeitung von Leistungsvereinbarungen mit Dienststellen zum Führen von digitalen Basisplattformen und Erbringen von Infrastruktur-Dienstleistungen, deren Bewirtschaftung und Überwachung;
+- e. Unterstützung der Direktionen, der Landeskanzlei und der Gerichte bei Vorhaben der digitalen Transformation;
+- f. Koordination und Sicherstellung der Vertretung in fachlichen Gremien und Konferenzen mit Themenbezug Digitalisierung sowie in Verbundprojekten;
+- g. Aufgaben in Steuerungsgremien für digitale Transformation;
+- h. Sicherstellung des direktions- und behördenübergreifenden Informations- und Erfahrungsaustauschs.
 
 GS 2022.051
