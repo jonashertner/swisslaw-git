@@ -4,10 +4,11 @@ number: "721.1"
 title: Immobilienverordnung (ImV)
 short: ImV
 language: de
-nachtrag: "104"
-valid_until: 2023-07-01
+version: "2023-07-01"
+nachtrag: "121"
+valid_until: 2024-01-01
 adopted: 2018-06-20
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-721_1-2018_06_20-2019_01_01-104.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-721_1-2018_06_20-2019_01_01-121.html"
 text: pdf
 ---
 
@@ -57,7 +58,7 @@ In dieser Verordnung bedeuten a. Immobilien: mit dem Boden fest und dauernd verb
 
 **1**
 
-- 1\. 4. 19 - 104
+- 1\. 7. 23 - 121
 
 - f. Instandsetzung: räumliche, insbesondere bauliche Massnahmen zur Wiederherstellung der Gebrauchstauglichkeit und Sicherheit der Immobilie und der zugehörigen technischen Anlagen,
 
@@ -135,7 +136,7 @@ Bei Uneinigkeit zwischen einer Direktion und der Baudirektion entscheidet der Re
 
 **3**
 
-- 1\. 4. 19 - 104
+- 1\. 7. 23 - 121
 
 <sup>3</sup> Die Betreiberorganisationen führen für die von ihnen betriebenen Immobilien im Verwaltungs- und Finanzvermögen und in Fonds die Instandhaltungsplanung.
 
@@ -199,11 +200,13 @@ Das Immobilienamt entwickelt mit den betroffenen Direktionen nach Bedarf immobil
 
 <sup>2</sup> Es löst Projektaufträge für räumliche Massnahmen bezüglich Immobilien im Finanzvermögen ohne vorgängige Bestellung aus.
 
+[^14-1]: Fassung gemäss RRB vom 2. November 2022 (OS 78, 226; ABl 2022-11-11). In Kraft seit 1. Juli 2023.
+
 #### § 15
 
 **b. Betreiberorganisationen**
 
-<sup>1</sup> Die Betreiberorganisation kann, in Abweichung von §§ 12 und 13, räumliche Massnahmen mit aktivierbaren Kosten von je höchstens Fr. 150 000 auslösen, wenn a. kein baurechtliches Bewilligungsverfahren erforderlich ist oder b. die Immobilie kein Schutzobjekt darstellt.
+<sup>1</sup> Die Betreiberorganisation kann, in Abweichung von §§ 12 und 13, räumliche Massnahmen mit aktivierbaren Kosten von je höchstens Fr. 300 000 auslösen. Ausgenommen sind Vorhaben, die ein baurechtliches Bewilligungsverfahren erfordern, und Vorhaben an Schutzobjekten.[^14-1]
 
 <sup>2</sup> Sie kann damit das Hochbauamt oder externe Dienstleistende beauftragen. Ist der Beizug von Fachplanenden notwendig, wird das Hochbauamt beauftragt.
 
@@ -241,7 +244,7 @@ Das Sozialamt schliesst Mietverträge für Asylunterkünfte mit Dritten in Abwei
 
 **5**
 
-- 1\. 4. 19 - 104 § 19. <sup>1</sup> Das Immobilienamt erstellt aufgrund der Planungsliste und der Planungsliste der Universität Zürich in Abstimmung mit dem Hochbauamt und den Direktionen jährlich eine Planungsübersicht. Diese enthält die Projekte und räumlichen Massnahmen nach Massgabe des Höchstbetrags der Investitionsausgaben für Immobilien gemäss § 21.
+- 1\. 7. 23 - 121 § 19. <sup>1</sup> Das Immobilienamt erstellt aufgrund der Planungsliste und der Planungsliste der Universität Zürich in Abstimmung mit dem Hochbauamt und den Direktionen jährlich eine Planungsübersicht. Diese enthält die Projekte und räumlichen Massnahmen nach Massgabe des Höchstbetrags der Investitionsausgaben für Immobilien gemäss § 21.
 
 **Planungsübersicht**
 
@@ -323,7 +326,7 @@ Der Regierungsrat legt den Höchstbetrag der Investitionsausgaben für Immobilie
 
 **7**
 
-- 1\. 4. 19 - 104 § 24. Das Immobilienamt entscheidet in Abstimmung mit der bestellenden Direktion aufgrund der Ergebnisse der Vorstudienphase über die Freigabe des Projekts für die nächste Phase.
+- 1\. 7. 23 - 121 § 24. Das Immobilienamt entscheidet in Abstimmung mit der bestellenden Direktion aufgrund der Ergebnisse der Vorstudienphase über die Freigabe des Projekts für die nächste Phase.
 
 #### § 25
 
@@ -417,7 +420,7 @@ Das Immobilienamt ist zuständig für die Planung und Umsetzung der übrigen Pro
 
 **9**
 
-- 1\. 4. 19 - 104
+- 1\. 7. 23 - 121
 
 ### 4. Abschnitt: Bewirtschaftung
 
@@ -519,7 +522,7 @@ Die Betreiberorganisation kann die Erbringung ihrer Leistungen Dritten übertrag
 
 **11**
 
-- 1\. 4. 19 - 104
+- 1\. 7. 23 - 121
 
 <sup>3</sup> Die öffentlich-rechtlichen Anstalten einschliesslich der Universität Zürich und die Fondsverantwortlichen bzw. deren Betreiberorganisationen sind berechtigt, die vom Immobilienamt koordiniert beschafften Dienstleistungen und Güter für die Bewirtschaftung zu beziehen.
 
