@@ -4,13 +4,12 @@ number: "835.120"
 title: "Ordinaziun tar la lescha davart l'indemnisaziun da donns elementars betg assicurabels"
 short: OIDE
 language: rm
-version: 2022-01-01
-valid_until: 2023-06-30
-version_adopted: 2021-06-22
+version: 2023-07-01
+version_adopted: 2023-04-04
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/835.120"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3172/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3302/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3172/pdf_file"
 
 (OIDE)
 
-dals 26-10-2010 (versiun dals 01-01-2022)
+dals 26-10-2010 (versiun dals 01-07-2023)
 
 sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1]
 
@@ -77,13 +76,13 @@ relaschada da la regenza ils 26 d'october 2010
 
 **Tariffa d'indemnisaziun**
 
-<sup>1</sup> La tariffa d'indemnisaziun da la cassa importa en cas da donn 70 pertschient da la summa dal donn imputabla.
+<sup>1</sup> La tariffa d'indemnisaziun da la cassa importa en cas da donn 80 pertschient da la summa dal donn imputabla.
 
 #### Art. 7
 
 **Donn minimal**
 
-<sup>1</sup> Donns da main che 300 francs na vegnan betg indemnisads.
+<sup>1</sup> Donns da main che 500 francs na vegnan betg indemnisads.
 
 ## 4. Procedura en cas da donn
 
@@ -102,6 +101,8 @@ relaschada da la regenza ils 26 d'october 2010
 <sup>1</sup> Sch'igl è avant maun in donn che po vegnir indemnisà tenor la lescha, sto il secretariat eruir quel immediatamain.
 
 <sup>2</sup> La persuna donnegiada sto vegnir envidada a la stimaziun. Ella è autorisada da sa laschar substituir e d'envidar sin agens custs expertas ed experts.
+
+<sup>3</sup> Per atgnas prestaziuns fixescha il secretariat las tariffas per ura.
 
 #### Art. 10
 
@@ -146,5 +147,11 @@ relaschada da la regenza ils 26 d'october 2010
 
 [^14-1]: 1. da schaner 2011
 [^14-2]: DG [835.100](https://www.gr-lex.gr.ch/data/835.100/rm)
+
+#### Art. 15
+
+**Disposiziun transitorica tar la revisiun parziala dals 4 d'avrigl 2023**
+
+<sup>1</sup> Per donns ch'èn capitads avant che questa revisiun parziala è entrada en vigur, vegn applitgà il dretg vegl.
 
 -

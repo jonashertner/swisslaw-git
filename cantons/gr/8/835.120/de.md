@@ -4,13 +4,12 @@ number: "835.120"
 title: Verordnung zum Gesetz über die Vergütung nicht versicherbarer Elementarschäden
 short: VVE
 language: de
-version: 2022-01-01
-valid_until: 2023-06-30
-version_adopted: 2021-06-22
+version: 2023-07-01
+version_adopted: 2023-04-04
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/835.120"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3172/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3302/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3172/pdf_file"
 
 (VVE)
 
-Vom 26.10.2010 (Stand 01.01.2022)
+Vom 26.10.2010 (Stand 01.07.2023)
 
 Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
 
@@ -77,13 +76,13 @@ von der Regierung erlassen am 26. Oktober 2010
 
 **Entschädigungssatz**
 
-<sup>1</sup> Der Entschädigungssatz der Kasse beträgt im Schadenfall 70 Prozent der anrechenbaren Schadensumme.
+<sup>1</sup> Der Entschädigungssatz der Kasse beträgt im Schadenfall 80 Prozent der anrechenbaren Schadensumme.
 
 #### Art. 7
 
 **Minimalschaden**
 
-<sup>1</sup> Schäden, die den Betrag von 300 Franken nicht erreichen, werden nicht entschädigt.
+<sup>1</sup> Schäden, die den Betrag von 500 Franken nicht erreichen, werden nicht entschädigt.
 
 ## 4. Verfahren im Schadenfall
 
@@ -102,6 +101,8 @@ von der Regierung erlassen am 26. Oktober 2010
 <sup>1</sup> Liegt ein entschädigungsberechtigter Schaden im Sinne des Gesetzes vor, hat die Geschäftsstelle diesen umgehend zu ermitteln.
 
 <sup>2</sup> Die geschädigte Person ist zur Schätzung einzuladen. Sie ist berechtigt, sich vertreten zu lassen und auf ihre Kosten Sachverständige einzuladen.
+
+<sup>3</sup> Die Geschäftsstelle legt die Stundensätze für Eigenleistungen fest.
 
 #### Art. 10
 
@@ -146,5 +147,11 @@ von der Regierung erlassen am 26. Oktober 2010
 
 [^14-1]: BR [835.100](https://www.gr-lex.gr.ch/data/835.100/de)
 [^14-2]: 1. Januar 2011
+
+#### Art. 15
+
+**Übergangsbestimmung zur Teilrevision vom 4. April 2023**
+
+<sup>1</sup> Auf Schadenfälle, die vor Inkrafttreten dieser Teilrevision eingetreten sind, findet das bisherige Recht Anwendung.
 
 -

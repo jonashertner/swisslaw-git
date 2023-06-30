@@ -4,13 +4,12 @@ number: "835.120"
 title: "Ordinanza relativa alla legge sull'indennizzo dei danni causati dalla natura non assicurabili"
 short: OIDN
 language: it
-version: 2022-01-01
-valid_until: 2023-06-30
-version_adopted: 2021-06-22
+version: 2023-07-01
+version_adopted: 2023-04-04
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/835.120"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3172/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3302/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3172/pdf_file"
 
 (OIDN)
 
-del 26.10.2010 (stato 01.01.2022)
+del 26.10.2010 (stato 01.07.2023)
 
 emanata dal Governo il 26 ottobre 2010
 
@@ -77,13 +76,13 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **Aliquota di indennizzo**
 
-<sup>1</sup> In caso di sinistro l'aliquota di indennizzo della Cassa ammonta al 70 percento della somma computabile del sinistro.
+<sup>1</sup> In caso di sinistro l'aliquota di indennizzo della Cassa ammonta all'80 per cento della somma computabile del sinistro.
 
 #### Art. 7
 
 **Danno minimo**
 
-<sup>1</sup> I danni il cui importo non raggiunge i 300 franchi non vengono indennizzati.
+<sup>1</sup> I danni il cui importo non raggiunge i 500 franchi non vengono indennizzati.
 
 ## 4. Procedura in caso di sinistro
 
@@ -102,6 +101,8 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 <sup>1</sup> Se sussiste un danno avente diritto a indennizzo ai sensi della legge, la segreteria deve determinarlo immediatamente.
 
 <sup>2</sup> La persona danneggiata dev'essere invitata alla stima. Ha il diritto di farsi rappresentare e di invitare a proprie spese degli esperti.
+
+<sup>3</sup> La segreteria fissa le tariffe orarie per le prestazioni proprie.
 
 #### Art. 10
 
@@ -146,5 +147,11 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 [^14-1]: 1° gennaio 2011
 [^14-2]: CSC [835.100](https://www.gr-lex.gr.ch/data/835.100/it)
+
+#### Art. 15
+
+**Disposizione transitoria relativa alla revisione parziale del 4 aprile 2023**
+
+<sup>1</sup> A sinistri verificatisi prima dell'entrata in vigore della presente revisione parziale si applica il diritto previgente.
 
 -
