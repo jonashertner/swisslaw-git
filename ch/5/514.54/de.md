@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 20. Juni 1997 über Waffen, Waffenzubehör und Munition
 short: WG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: de
-version: 2023-01-23
+version: 2023-07-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230123/de/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230123-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über Waffen, Waffenzubehör und Munition (Waffengesetz, WG)
 
-vom 20. Juni 1997 (Stand am 23. Januar 2023)
+vom 20. Juni 1997 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1369,24 +1369,25 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsä
 
 - g. Personen nach Artikel 7 Absatz 1, die keine Ausnahmebewilligung nach Artikel 7 Absatz 2 vorweisen können, Waffen, wesentliche oder besonders konstruierte Waffenbestandteile, Waffenzubehör, Munition oder Munitionsbestandteile anbietet, überträgt oder vermittelt.
 
-<sup>2</sup> Handelt der Täter oder die Täterin fahrlässig, so ist die Strafe Busse. In leichten Fällen kann von einer Bestrafung abgesehen werden.
+<sup>2</sup> Handelt der Täter oder die Täterin fahrlässig, so ist die Strafe Geldstrafe.[^33-6]
 
 <sup>3</sup>
 
 Mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe wird bestraft, wer vorsätzlich und gewerbsmässig ohne Berechtigung:
 
-- a.[^33-6] Waffen, wesentliche oder besonders konstruierte Waffenbestandteile, Waffenzubehör, Munition oder Munitionsbestandteile anbietet, überträgt, vermittelt, herstellt, repariert, abändert, umbaut, in einen Schengen-Staat ausführt oder in das schweizerische Staatsgebiet verbringt;
-- b.[^33-7] …
-- c.[^33-8] nicht gemäss Artikel 18*a* oder 18*b* markierte oder unrechtmässig ins schweizerische Staatsgebiet verbrachte Feuerwaffen, deren wesentliche oder besonders konstruierte Waffenbestandteile, Waffenzubehör oder Munition anbietet, erwirbt, überträgt oder vermittelt.
+- a.[^33-7] Waffen, wesentliche oder besonders konstruierte Waffenbestandteile, Waffenzubehör, Munition oder Munitionsbestandteile anbietet, überträgt, vermittelt, herstellt, repariert, abändert, umbaut, in einen Schengen-Staat ausführt oder in das schweizerische Staatsgebiet verbringt;
+- b.[^33-8] …
+- c.[^33-9] nicht gemäss Artikel 18*a* oder 18*b* markierte oder unrechtmässig ins schweizerische Staatsgebiet verbrachte Feuerwaffen, deren wesentliche oder besonders konstruierte Waffenbestandteile, Waffenzubehör oder Munition anbietet, erwirbt, überträgt oder vermittelt.
 
 [^33-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^33-2]: Fassung gemäss Art. 2 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die Übernahme der Richtlinie 2008/51/EG zur Änderung der Waffenrichtlinie, in Kraft seit 28. Juli 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 [^33-3]: Fassung gemäss Art. 2 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die Übernahme der Richtlinie 2008/51/EG zur Änderung der Waffenrichtlinie, in Kraft seit 28. Juli 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 [^33-4]: Eingefügt durch Art. 2 des BB vom 23. Dez. 2011 über die Genehmigung und die Umsetzung des UNO-Feuerwaffenprotokolls, in Kraft seit 1. Jan. 2013 ([AS 2012 6777](https://fedlex.data.admin.ch/eli/oc/2012/819); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)).
 [^33-5]: Fassung gemäss Art. 2 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die Übernahme der Richtlinie 2008/51/EG zur Änderung der Waffenrichtlinie, in Kraft seit 28. Juli 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
-[^33-6]: Fassung gemäss Art. 2 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die Übernahme der Richtlinie 2008/51/EG zur Änderung der Waffenrichtlinie, in Kraft seit 28. Juli 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
-[^33-7]: Aufgehoben durch Art. 2 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die Übernahme der Richtlinie 2008/51/EG zur Änderung der Waffenrichtlinie, mit Wirkung seit 28. Juli 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
-[^33-8]: Eingefügt durch Art. 2 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die Übernahme der Richtlinie 2008/51/EG zur Änderung der Waffenrichtlinie, in Kraft seit 28. Juli 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^33-6]: Fassung gemäss Ziff. I 18 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^33-7]: Fassung gemäss Art. 2 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die Übernahme der Richtlinie 2008/51/EG zur Änderung der Waffenrichtlinie, in Kraft seit 28. Juli 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^33-8]: Aufgehoben durch Art. 2 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die Übernahme der Richtlinie 2008/51/EG zur Änderung der Waffenrichtlinie, mit Wirkung seit 28. Juli 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^33-9]: Eingefügt durch Art. 2 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die Übernahme der Richtlinie 2008/51/EG zur Änderung der Waffenrichtlinie, in Kraft seit 28. Juli 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 
 #### Art. 34
 
@@ -1413,11 +1414,12 @@ Mit Busse wird bestraft, wer:
 - n. eine Feuerwaffe transportiert, ohne Waffe und Munition zu trennen (Art. 28 Abs. 2);
 - o. auf andere Weise einer Bestimmung dieses Gesetzes vorsätzlich zuwider handelt, deren Übertretung der Bundesrat in den Ausführungsbestimmungen für strafbar erklärt.
 
-<sup>2</sup> In leichten Fällen kann von einer Bestrafung abgesehen werden.
+<sup>2</sup> …[^34-4]
 
 [^34-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^34-2]: Fassung gemäss Ziff. I des BG vom 11. Dez. 2009 (Anpassung der Umsetzung des Schengen-Besitzstands), in Kraft seit 28. Juli 2010 ([AS 2010 2823](https://fedlex.data.admin.ch/eli/oc/2010/369); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 [^34-3]: Eingefügt durch Ziff. I des BG vom 11. Dez. 2009 (Anpassung der Umsetzung des Schengen-Besitzstands), in Kraft seit 28. Juli 2010 ([AS 2010 2823](https://fedlex.data.admin.ch/eli/oc/2010/369); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^34-4]: Aufgehoben durch Ziff. I 18 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 35
 

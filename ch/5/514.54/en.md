@@ -4,11 +4,11 @@ title: "Federal Act of 20 June 1997 on Weapons, Weapon Accessories and Ammunitio
 short: WA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: en
-version: 2023-01-23
+version: 2023-07-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230123/en/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230123-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230123/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230123/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 20 June 1997 (Status as of 23 January 2023)
+of 20 June 1997 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1369,15 +1369,15 @@ Any person who wilfully carries out any of the following acts is liable to a cus
 
 - g. as a person in accordance with Article 7 paragraph 1, offers for acquisition, transfers possession of or brokers weapons, essential or specially designed weapon components, weapon accessories, ammunition or ammunition components and who is not able to produce an exemption permit in accordance with Article 7 paragraph 2.
 
-<sup>2</sup> If the perpetrator acts negligently, the penalty is a fine. The penalty may be waived in minor cases.
+<sup>2</sup> If the perpetrator acts negligently, he or she is liable to a monetary penalty.[^33-6]
 
 <sup>3</sup>
 
 Any person who wilfully and on a commercial basis unlawfully:
 
-- a.[^33-6] offers for acquisition, transfers possession of, brokers, manufactures, repairs, alters, modifies, takes to a Schengen state or brings into Switzerland weapons, essential or specially designed weapon components, weapon accessories, ammunition or ammunition components;
-- b.[^33-7] ...
-- c.[^33-8] offers for acquisition, acquires, transfers possession of or brokers firearms, their essential or specially designed weapon components, weapon accessories or ammunition that have not been marked in accordance with Article 18*a* or 18*b*, or that have been brought into Switzerland unlawfully;
+- a.[^33-7] offers for acquisition, transfers possession of, brokers, manufactures, repairs, alters, modifies, takes to a Schengen state or brings into Switzerland weapons, essential or specially designed weapon components, weapon accessories, ammunition or ammunition components;
+- b.[^33-8] ...
+- c.[^33-9] offers for acquisition, acquires, transfers possession of or brokers firearms, their essential or specially designed weapon components, weapon accessories or ammunition that have not been marked in accordance with Article 18*a* or 18*b*, or that have been brought into Switzerland unlawfully;
 - [tab] is liable to a custodial sentence not exceeding five years or a monetary penalty.
 
 [^33-1]: Amended by No I of the FA of 22 June 2007, in force since 12 Dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
@@ -1385,9 +1385,10 @@ Any person who wilfully and on a commercial basis unlawfully:
 [^33-3]: Amended by Art. 2 of the FD of 11 Dec. 2009 on the Adoption and Implementation of the Exchange of Notes between Switzerland and the EC concerning the Adoption of Directive 2008/51/EC on Amending the Weapons Directive, in force since 28 July 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 [^33-4]: Inserted by Art. 2 of the FD of 23 Dec. 2011 on the Adoption and Implementation of the UN Firearms Protocol, in force since 1 Jan. 2013 ([AS 2012 6777](https://fedlex.data.admin.ch/eli/oc/2012/819); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)).
 [^33-5]: Amended by Art. 2 of the FD of 11 Dec. 2009 on the Adoption and Implementation of the Exchange of Notes between Switzerland and the EC concerning the Adoption of Directive 2008/51/EC on Amending the Weapons Directive, in force since 28 July 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
-[^33-6]: Amended by Art. 2 of the FD of 11 Dec. 2009 on the Adoption and Implementation of the Exchange of Notes between Switzerland and the EC concerning the Adoption of Directive 2008/51/EC on Amending the Weapons Directive, in force since 28 July 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
-[^33-7]: Repealed by Art. 2 of the FD of 11 Dec. 2009 on the Adoption and Implementation of the Exchange of Notes between Switzerland and the EC concerning the Adoption of Directive 2008/51/EC on Amending the Weapons Directive, with effect from 28 July 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
-[^33-8]: Inserted by Art. 2 of the FD of 11 Dec. 2009 on the Adoption and Implementation of the Exchange of Notes between Switzerland and the EC concerning the Adoption of Directive 2008/51/EC on Amending the Weapons Directive, in force since 28 July 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^33-6]: Amended by No I 18 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^33-7]: Amended by Art. 2 of the FD of 11 Dec. 2009 on the Adoption and Implementation of the Exchange of Notes between Switzerland and the EC concerning the Adoption of Directive 2008/51/EC on Amending the Weapons Directive, in force since 28 July 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^33-8]: Repealed by Art. 2 of the FD of 11 Dec. 2009 on the Adoption and Implementation of the Exchange of Notes between Switzerland and the EC concerning the Adoption of Directive 2008/51/EC on Amending the Weapons Directive, with effect from 28 July 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^33-9]: Inserted by Art. 2 of the FD of 11 Dec. 2009 on the Adoption and Implementation of the Exchange of Notes between Switzerland and the EC concerning the Adoption of Directive 2008/51/EC on Amending the Weapons Directive, in force since 28 July 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 
 #### Art. 34
 
@@ -1414,11 +1415,12 @@ Any person who carries out any of the following acts is liable to a fine:
 - n. transports a firearm without keeping weapon and ammunition separate (Art. 28 para. 2);
 - o. in any other way wilfully violates a provision of this Act, whose contravention the Federal Council has declared punishable in the implementing regulations.
 
-<sup>2</sup> The penalty may be waived in minor cases.
+<sup>2</sup> …[^34-4]
 
 [^34-1]: Amended by No I of the FA of 22 June 2007, in force since 12 Dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^34-2]: Amended by No I of the FA of 11 Dec. 2009 (Adaptation of the Implementation of the Schengen Acquis), in force since 28 July 2010 ([AS 2010 2823](https://fedlex.data.admin.ch/eli/oc/2010/369); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 [^34-3]: Inserted by No I of the FA of 11 Dec. 2009 (Adaptation of the Implementation of the Schengen Acquis), in force since 28 July 2010 ([AS 2010 2823](https://fedlex.data.admin.ch/eli/oc/2010/369); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^34-4]: Repealed by No I 18 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 35
 

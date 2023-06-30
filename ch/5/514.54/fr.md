@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 1997 sur les armes, les accessoires d'armes et
 short: LArm
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: fr
-version: 2023-01-23
+version: 2023-07-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230123-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230123/fr"
 
 (Loi sur les armes, LArm)
 
-du 20 juin 1997 (État le 23 janvier 2023)
+du 20 juin 1997 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -230,7 +230,7 @@ Le Conseil fédéral peut interdire l’acquisition, la possession, l’offre, l
 
 <sup>2</sup> Il est interdit d’offrir des armes, des éléments essentiels d’armes, des composants d’armes spécialement conçus, des accessoires d’armes, des munitions ou des éléments de munitions lors d’expositions ou de marchés accessibles au public. Les personnes dûment annoncées qui proposent ces objets lors de bourses d’armes publiques autorisées par les autorités compétentes font exception à cette règle.
 
-[^7b-1]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d) ; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280).
+[^7b-1]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d); [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280).
 
 ## Chapitre 2 Acquisition et possession d’armes et d’éléments essentiels d’armes
 
@@ -523,7 +523,7 @@ Toute personne qui effectue l’une des opérations suivantes à titre professio
 
 **Marquage des armes à feu**[^18a-1]
 
-<sup>1</sup> Les fabricants d’armes à feu et de leurs éléments essentiels ou accessoires doivent marquer chacun de ces objets de manière distincte à des fins d’identification et de traçabilité. ... . [^18a-2] [^18a-3]
+<sup>1</sup> Les fabricants d’armes à feu et de leurs éléments essentiels ou accessoires doivent marquer chacun de ces objets de manière distincte à des fins d’identification et de traçabilité. … . [^18a-2] [^18a-3]
 
 <sup>2</sup> Une marque distincte doit être apposée sur chaque arme à feu, élément essentiel d’arme à feu et accessoire d’arme à feu introduit sur le territoire suisse.
 
@@ -1372,24 +1372,25 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 - g. offre ou aliène des armes, des éléments essentiels d’armes, des composants d’armes spécialement conçus, des accessoires d’armes, des munitions ou des éléments de munitions à des personnes visées à l’art. 7, al. 1, ou en fait le courtage pour lesdites personnes sans qu’elles soient en mesure de produire une autorisation exceptionnelle au sens de l’art. 7, al. 2.
 
-<sup>2</sup> Si l’auteur agit par négligence, la peine est une amende. Dans les cas de peu de gravité, le juge peut exempter l’auteur de toute peine.
+<sup>2</sup> Si l’auteur agit par négligence, il est puni d’une peine pécuniaire.[^33-6]
 
 <sup>3</sup>
 
 Est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire quiconque, à titre professionnel, intentionnellement et sans droit:
 
-- a.[^33-6] offre, aliène, fabrique, répare, modifie, transforme, exporte vers un État Schengen ou introduit sur le territoire suisse des armes, des éléments essentiels d’armes, des composants d’armes spécialement conçus, des accessoires d’armes, des munitions ou des éléments de munitions, ou en fait le courtage;
-- b.[^33-7] …
-- c.[^33-8] offre, acquiert ou aliène des armes à feu, des éléments essentiels d’armes, des composants spécialement conçus, des accessoires d’armes ou des munitions qui n’ont pas été marqués conformément à l’art. 18*a* ou 18*b* ou qui ont été introduits de manière illicite sur le territoire suisse, ou en fait le courtage.
+- a.[^33-7] offre, aliène, fabrique, répare, modifie, transforme, exporte vers un État Schengen ou introduit sur le territoire suisse des armes, des éléments essentiels d’armes, des composants d’armes spécialement conçus, des accessoires d’armes, des munitions ou des éléments de munitions, ou en fait le courtage;
+- b.[^33-8] …
+- c.[^33-9] offre, acquiert ou aliène des armes à feu, des éléments essentiels d’armes, des composants spécialement conçus, des accessoires d’armes ou des munitions qui n’ont pas été marqués conformément à l’art. 18*a* ou 18*b* ou qui ont été introduits de manière illicite sur le territoire suisse, ou en fait le courtage.
 
 [^33-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^33-2]: Nouvelle teneur selon l’art. 2 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive 2008/51/CE modifiant la directive relative aux armes, en vigueur depuis le 28 juil. 2010 ([RO 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3181](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 [^33-3]: Nouvelle teneur selon l’art. 2 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive 2008/51/CE modifiant la directive relative aux armes, en vigueur depuis le 28 juil. 2010 ([RO 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3181](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 [^33-4]: Introduite par l’art. 2 de l’AF du 23 déc. 2012 (Prot. de l’ONU sur les armes à feu), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6777](https://fedlex.data.admin.ch/eli/oc/2012/819); [FF 2011 4217](https://fedlex.data.admin.ch/eli/fga/2011/715)).
 [^33-5]: Nouvelle teneur selon l’art. 2 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive 2008/51/CE modifiant la directive relative aux armes, en vigueur depuis le 28 juil. 2010 ([RO 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3181](https://fedlex.data.admin.ch/eli/fga/2009/730)).
-[^33-6]: Nouvelle teneur selon l’art. 2 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive 2008/51/CE modifiant la directive relative aux armes, en vigueur depuis le 28 juil. 2010 ([RO 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3181](https://fedlex.data.admin.ch/eli/fga/2009/730)).
-[^33-7]: Abrogée par l’art. 2 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive 2008/51/CE modifiant la directive relative aux armes, avec effet au 28 juil. 2010 ([RO 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3181](https://fedlex.data.admin.ch/eli/fga/2009/730)).
-[^33-8]: Introduite par l’art. 2 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive 2008/51/CE modifiant la directive relative aux armes, en vigueur depuis le 28 juil. 2010 ([RO 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3181](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^33-6]: Nouvelle teneur selon le ch. I 18 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^33-7]: Nouvelle teneur selon l’art. 2 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive 2008/51/CE modifiant la directive relative aux armes, en vigueur depuis le 28 juil. 2010 ([RO 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3181](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^33-8]: Abrogée par l’art. 2 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive 2008/51/CE modifiant la directive relative aux armes, avec effet au 28 juil. 2010 ([RO 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3181](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^33-9]: Introduite par l’art. 2 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive 2008/51/CE modifiant la directive relative aux armes, en vigueur depuis le 28 juil. 2010 ([RO 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3181](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 
 #### Art. 34
 
@@ -1416,11 +1417,12 @@ Est puni de l’amende quiconque:
 - n. transporte une arme à feu sans avoir séparé l’arme des munitions (art. 28, al. 2);
 - o. contrevient intentionnellement d’une autre manière à une disposition de la présente loi dont la violation est déclarée punissable par le Conseil fédéral dans les dispositions d’exécution.
 
-<sup>2</sup> Dans les cas de peu de gravité, le juge peut exempter l’auteur de toute peine.
+<sup>2</sup> …[^34-4]
 
 [^34-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^34-2]: Nouvelle teneur selon le ch. I de la LF du 11 déc. 2009 (Adaptation de la mise en œuvre de l’acquis de Schengen), en vigueur depuis le 28 juil. 2010 ([RO 2010 2823](https://fedlex.data.admin.ch/eli/oc/2010/369); [FF 2009 3181](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 [^34-3]: Introduite par le ch. I de la LF du 11 déc. 2009 (Adaptation de la mise en œuvre de l’acquis de Schengen), en vigueur depuis le 28 juil. 2010 ([RO 2010 2823](https://fedlex.data.admin.ch/eli/oc/2010/369); [FF 2009 3181](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^34-4]: Abrogé par le ch. I 18 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 35
 

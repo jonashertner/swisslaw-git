@@ -4,11 +4,11 @@ title: "Lescha federala dals 20 da zercladur 1997 davart las armas, ils accessor
 short: LArm
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: rm
-version: 2023-01-23
+version: 2023-07-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230123/rm/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230123-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230123/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230701-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230123/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 20 da zercladur 1997 (versiun dals 23 da schaner 2023)
+dals 20 da zercladur 1997 (versiun dal 1. da fanadur 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1371,24 +1371,25 @@ Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià,
 
 - g. offrescha, transferescha u intermediescha a persunas tenor l’artitgel 7 alinea 1, che na pon betg preschentar ina permissiun excepziunala tenor l’artitgel 7 alinea 2, armas, parts essenzialas d’armas u parts d’armas construidas spezialmain, accessoris d’armas, muniziun u elements da muniziun.
 
-<sup>2</sup> Il delinquent vegn chastià cun ina multa, sch’el agescha per negligientscha. En cas levs poi vegnir desistì d’in chasti.
+<sup>2</sup> Il delinquent vegn chastià cun in chasti pecuniar, sch’el agescha per negligientscha.[^33-6]
 
 <sup>3</sup>
 
 Cun in chasti da detenziun da fin 5 onns u cun in chasti pecuniar vegn chastià, tgi che fa intenziunadamain, a titel professiunal e senza autorisaziun il suandant:
 
-- a.[^33-6] offrescha, transferescha, intermediescha, producescha, reparescha, mida, modifitgescha, exporta en in stadi da Schengen u apporta en il territori svizzer armas, parts essenzialas d’armas u parts d’armas construidas spezialmain, accessoris d’armas, muniziun u elements da muniziun;
-- b.[^33-7] ...
-- c.[^33-8] offrescha, acquista, transferescha u intermediescha armas da fieu, lur parts essenzialas u construidas spezialmain, accessoris d’armas u muniziun che n’èn betg vegnids marcads tenor l’artitgel 18*a* u 18*b* u ch’èn vegnids apportads illegalmain en il territori svizzer.
+- a.[^33-7] offrescha, transferescha, intermediescha, producescha, reparescha, mida, modifitgescha, exporta en in stadi da Schengen u apporta en il territori svizzer armas, parts essenzialas d’armas u parts d’armas construidas spezialmain, accessoris d’armas, muniziun u elements da muniziun;
+- b.[^33-8] ...
+- c.[^33-9] offrescha, acquista, transferescha u intermediescha armas da fieu, lur parts essenzialas u construidas spezialmain, accessoris d’armas u muniziun che n’èn betg vegnids marcads tenor l’artitgel 18*a* u 18*b* u ch’èn vegnids apportads illegalmain en il territori svizzer.
 
 [^33-1]: Versiun tenor la cifra I da la LF dals 22 da zer. 2007, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^33-2]: Versiun tenor l’art. 2 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE concernent la surpigliada da la directiva 2008/51/CE per midar la directiva davart las armas, en vigur dapi ils 28 da fan. 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 [^33-3]: Versiun tenor l’art. 2 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE concernent la surpigliada da la directiva 2008/51/CE per midar la directiva davart las armas, en vigur dapi ils 28 da fan. 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 [^33-4]: Integrà tras l’art. 2 dal COF dals 23 da dec. 2011 davart l’approvaziun e la realisaziun dal Protocol da l’ONU davart las armas da fieu, en vigur dapi il 1. da schan. 2013 ([AS 2012 6777](https://fedlex.data.admin.ch/eli/oc/2012/819); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)).
 [^33-5]: Versiun tenor l’art. 2 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE concernent la surpigliada da la directiva 2008/51/CE per midar la directiva davart las armas, en vigur dapi ils 28 da fan. 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
-[^33-6]: Versiun tenor l’art. 2 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE concernent la surpigliada da la directiva 2008/51/CE per midar la directiva davart las armas, en vigur dapi ils 28 da fan. 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
-[^33-7]: Abolì tras l’art. 2 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE concernent la surpigliada da la directiva 2008/51/CE per midar la directiva davart las armas, cun effect dapi ils 28 da fan. 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
-[^33-8]: Integrà tras l’art. 2 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE concernent la surpigliada da la directiva 2008/51/CE per midar la directiva davart las armas, en vigur dapi ils 28 da fan. 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^33-6]: Versiun tenor la cifra I 18 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^33-7]: Versiun tenor l’art. 2 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE concernent la surpigliada da la directiva 2008/51/CE per midar la directiva davart las armas, en vigur dapi ils 28 da fan. 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^33-8]: Abolì tras l’art. 2 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE concernent la surpigliada da la directiva 2008/51/CE per midar la directiva davart las armas, cun effect dapi ils 28 da fan. 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^33-9]: Integrà tras l’art. 2 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE concernent la surpigliada da la directiva 2008/51/CE per midar la directiva davart las armas, en vigur dapi ils 28 da fan. 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 
 #### Art. 34
 
@@ -1415,11 +1416,12 @@ Cun ina multa vegn chastià, tgi che:
 - n. transporta in’arma da fieu senza separar l’arma e la muniziun (art. 28 al. 2);
 - o. cuntrafa intenziunadamain en autra moda ad ina disposiziun da questa lescha, da la quala il surpassament vegn declerà dal Cussegl federal sco chastiabel en las disposiziuns executivas.
 
-<sup>2</sup> En cas levs poi vegnir desistì d’in chasti.
+<sup>2</sup> …[^34-4]
 
 [^34-1]: Versiun tenor la cifra I da la LF dals 22 da zer. 2007, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^34-2]: Versiun tenor la cifra I da la LF dals 11 da dec. 2009 (adattaziun da la realisaziun da l’acquist da Schengen), en vigur dapi ils 28 da fan. 2010 ([AS 2010 2823](https://fedlex.data.admin.ch/eli/oc/2010/369); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 [^34-3]: Integrà tras la cifra I da la LF dals 11 da dec. 2009 (adattaziun da la realisaziun da l’acquist da Schengen), en vigur dapi ils 28 da fan. 2010 ([AS 2010 2823](https://fedlex.data.admin.ch/eli/oc/2010/369); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^34-4]: Abolì tras la cifra I 18 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 35
 

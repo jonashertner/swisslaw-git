@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 1997 sulle armi, gli accessori di armi e le
 short: LArm
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: it
-version: 2023-01-23
+version: 2023-07-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230123/it/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230123-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230123/it"
 
 (Legge sulle armi, LArm)
 
-del 20 giugno 1997 (Stato 23 gennaio 2023) (Stato 23 gennaio 2023)
+del 20 giugno 1997 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1375,24 +1375,25 @@ Le competenti autorità cantonali e i servizi di comunicazione trasmettono all�
 
 - g. offre, aliena o procura per mediazione armi, parti di armi, essenziali o costruite appositamente, accessori di armi, munizioni o elementi di munizioni a persone ai sensi dell’articolo 7 capoverso 1 che non sono in grado di presentare un’autorizzazione eccezionale ai sensi dell’articolo 7 capoverso 2.
 
-<sup>2</sup> Chi ha agito per negligenza è punito con la multa. Nei casi di poca gravità si può prescindere da ogni pena.
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.[^33-6]
 
 <sup>3</sup>
 
 È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria chiunque senza diritto, intenzionalmente e per mestiere:
 
-- a.[^33-6] offre, aliena, procura per mediazione, fabbrica, ripara, modifica, trasforma, esporta in uno Stato Schengen o introduce sul territorio svizzero armi, parti di armi, essenziali o costruite appositamente, accessori di armi, munizioni o elementi di munizioni;
-- b.[^33-7] ...
-- c.[^33-8] offre, acquista, aliena o procura per mediazione armi da fuoco, loro parti essenziali o costruite appositamente, accessori di armi o munizioni non con-trassegnati conformemente all’articolo 18*a* o 18*b* o introdotti illecitamente sul territorio svizzero.
+- a.[^33-7] offre, aliena, procura per mediazione, fabbrica, ripara, modifica, trasforma, esporta in uno Stato Schengen o introduce sul territorio svizzero armi, parti di armi, essenziali o costruite appositamente, accessori di armi, munizioni o elementi di munizioni;
+- b.[^33-8] ...
+- c.[^33-9] offre, acquista, aliena o procura per mediazione armi da fuoco, loro parti essenziali o costruite appositamente, accessori di armi o munizioni non con-trassegnati conformemente all’articolo 18*a* o 18*b* o introdotti illecitamente sul territorio svizzero.
 
 [^33-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^33-2]: Nuovo testo giusta l’art. 2 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE relativo al recepimento della direttiva 2008/51/CE che modifica la direttiva sulle armi, in vigore dal 28 lug. 2010 ([RU 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3051](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 [^33-3]: Nuovo testo giusta l’art. 2 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE relativo al recepimento della direttiva 2008/51/CE che modifica la direttiva sulle armi, in vigore dal 28 lug. 2010 ([RU 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3051](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 [^33-4]: Introdotta dall’art. 2 del DF del 23 dic. 2011 (Protocollo ONU sulle armi da fuoco), in vigore dal 1° gen. 2013 ([RU 2012 6777](https://fedlex.data.admin.ch/eli/oc/2012/819); [FF 2011 4077](https://fedlex.data.admin.ch/eli/fga/2011/715)).
 [^33-5]: Nuovo testo giusta l’art. 2 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE relativo al recepimento della direttiva 2008/51/CE che modifica la direttiva sulle armi, in vigore dal 28 lug. 2010 ([RU 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3051](https://fedlex.data.admin.ch/eli/fga/2009/730)).
-[^33-6]: Nuovo testo giusta l’art. 2 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE relativo al recepimento della direttiva 2008/51/CE che modifica la direttiva sulle armi, in vigore dal 28 lug. 2010 ([RU 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3051](https://fedlex.data.admin.ch/eli/fga/2009/730)).
-[^33-7]: Abrogata dall’art. 2 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE relativo al recepimento della direttiva 2008/51/CE che modifica la direttiva sulle armi, con effetto dal 28 lug. 2010 ([RU 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3051](https://fedlex.data.admin.ch/eli/fga/2009/730)).
-[^33-8]: Introdotta dall’art. 2 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE relativo al recepimento della direttiva 2008/51/CE che modifica la direttiva sulle armi, in vigore dal 28 lug. 2010 ([RU 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3051](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^33-6]: Nuovo testo giusta il n. I 18 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^33-7]: Nuovo testo giusta l’art. 2 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE relativo al recepimento della direttiva 2008/51/CE che modifica la direttiva sulle armi, in vigore dal 28 lug. 2010 ([RU 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3051](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^33-8]: Abrogata dall’art. 2 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE relativo al recepimento della direttiva 2008/51/CE che modifica la direttiva sulle armi, con effetto dal 28 lug. 2010 ([RU 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3051](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^33-9]: Introdotta dall’art. 2 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE relativo al recepimento della direttiva 2008/51/CE che modifica la direttiva sulle armi, in vigore dal 28 lug. 2010 ([RU 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3051](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 
 #### Art. 34
 
@@ -1419,11 +1420,12 @@ Le competenti autorità cantonali e i servizi di comunicazione trasmettono all�
 - n. trasporta un’arma da fuoco senza tenere separate arma e munizioni (art. 28 cpv. 2);
 - o. in altro modo contravviene intenzionalmente a una disposizione della presente legge la cui violazione è dichiarata punibile dal Consiglio federale nelle disposizioni esecutive.
 
-<sup>2</sup> Nei casi di poca gravità si può prescindere da ogni pena.
+<sup>2</sup> ...[^34-4]
 
 [^34-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^34-2]: Nuovo testo giusta il n. I della LF dell’11 dic. 2009 (Adeguamento della trasposizione dell’acquis di Schengen), in vigore dal 28 lug. 2010 ([RU 2010 2823](https://fedlex.data.admin.ch/eli/oc/2010/369); [FF 2009 3051](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 [^34-3]: Introdotta dal n. I della LF dell’11 dic. 2009 (Adeguamento della trasposizione dell’acquis di Schengen), in vigore dal 28 lug. 2010 ([RU 2010 2823](https://fedlex.data.admin.ch/eli/oc/2010/369); [FF 2009 3051](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^34-4]: Abrogato dal n. I 18 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 35
 
