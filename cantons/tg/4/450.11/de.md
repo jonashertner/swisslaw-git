@@ -1,27 +1,26 @@
 ---
 canton: TG
 number: "450.11"
-title: Verordnung des Regierungsrates zum Gesetz zum Schutz und zur Pflege der Natur und der Heimat
-short: RRV NHG
+title: Verordnung zum Schutz und zur Pflege der Natur und der Heimat
+short: TG NHV
 language: de
-version: 2020-05-09
-valid_until: 2023-06-30
-version_adopted: 2020-05-05
+version: 2023-07-01
+version_adopted: 2023-06-06
 adopted: 1994-03-29
 in_force: 1994-04-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/450.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2148/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2743/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Gesetz zum Schutz und zur Pflege der Natur und der Heimat
+# Verordnung zum Schutz und zur Pflege der Natur und der Heimat
 
-RRV NHG
+TG NHV
 
-(RRV NHG)
+(TG NHV)
 
-vom 29.03.1994 (Stand 09.05.2020)
+vom 29.03.1994 (Stand 01.07.2023)
 
 ## 1. Allgemeines
 
@@ -29,45 +28,55 @@ vom 29.03.1994 (Stand 09.05.2020)
 
 **Fachstellen**
 
-<sup>1</sup> Fachstellen des Kantons sind
+<sup>1</sup> Fachstellen des Kantons sind:
 
-- 1\. das Amt für Raumentwicklung für den Bereich Natur- und Landschaftsschutz,
-- 2\. das Amt für Denkmalpflege für den Bereich Denkmalpflege und Inventarisation,
-- 3\. das Amt für Archäologie für den Bereich Archäologie.
+- 1\. das Amt für Raumentwicklung für den Bereich Natur- und Landschaftsschutz
+- 2\. das Amt für Denkmalpflege für den Bereich Denkmalpflege und Inventarisation
+- 3\. das Amt für Archäologie für den Bereich Archäologie
 
 #### § 2
 
 **Aufsicht, Vollzug**
 
-<sup>1</sup> Das Departement für Erziehung und Kultur führt die Aufsicht über den Vollzug des Gesetzes im Bereich Archäologie, im übrigen das Departement für Bau und Umwelt.
+<sup>1</sup> Das Departement für Erziehung und Kultur führt die Aufsicht über den Vollzug des Gesetzes zum Schutz und zur Pflege der Natur und der Heimat (TG NHG)[^2-1] im Bereich Archäologie, im übrigen das Departement für Bau und Umwelt.
 
-<sup>2</sup> Die Fachstellen vollziehen das Gesetz in ihren Bereichen und erlassen die erforderlichen Anordnungen, soweit keine abweichenden Zuständigkeiten festgelegt sind.
+<sup>2</sup> Die Fachstellen vollziehen das TG NHG in ihren Bereichen und erlassen die erforderlichen Anordnungen, soweit keine abweichenden Zuständigkeiten festgelegt sind.
 
-<sup>3</sup> Die Fachstellen schliessen Verträge im Sinne von § 19 des Gesetzes über den Erwerb von Objekten von erheblicher kantonaler Bedeutung ab. Die Verträge bedürfen der Genehmigung durch den Regierungsrat.
+<sup>3</sup> Die Fachstellen schliessen Verträge im Sinne von § 19 TG NHG über den Erwerb von Objekten von erheblicher kantonaler Bedeutung ab. Die Verträge bedürfen der Genehmigung durch den Regierungsrat.
+
+[^2-1]: RB [450.1](https://www.rechtsbuch.tg.ch/data/450.1/de)
 
 #### § 3
 
 **Anhörung**
 
-<sup>1</sup> Gesuche gemäss § 7 und § 13 des Gesetzes sind bei der Gemeindebehörde einzureichen. Diese unterbreitet sie den betroffenen Fachstellen zur Vernehmlassung. Deren Stellungnahmen sind auch vor dem Entscheid über Wiederherstellungs- und Ersatzmassnahmen gemäss § 25 des Gesetzes einzuholen.
+<sup>1</sup> Gesuche gemäss § 7 und § 13 TG NHG sind bei der Gemeindebehörde einzureichen. Diese unterbreitet sie den betroffenen Fachstellen zur Vernehmlassung. Deren Stellungnahmen sind auch vor dem Entscheid über Wiederherstellungs- und Ersatzmassnahmen gemäss § 25 TG NHG einzuholen.
+
+#### § 3a
+
+**Aufnahmeverfahren für Entscheide**
+
+<sup>1</sup> Die Gemeindebehörde stellt Entscheide gemäss § 10 Abs. 1 TG NHG zusätzlich den betroffenen Fachstellen gemäss § 1 Abs. 1 zu.
+
+<sup>2</sup> Sie veranlasst innert 20 Tagen nach Eintritt der Rechtskraft von Entscheiden gemäss Abs. 1 deren Eintrag in den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster). Davon ausgenommen sind Entscheide betreffend Nichtunterschutzstellungen.
 
 #### § 4
 
 **Rechtsmittelberechtigte Verbände**
 
-<sup>1</sup> Die Organisationen, denen gemäss § 24 des Gesetzes Gesuche oder Entscheide mitzuteilen sind, sind in Anhang I zu dieser Verordnung aufgelistet.
+<sup>1</sup> Die Organisationen, denen gemäss § 24 TG NHG Gesuche oder Entscheide mitzuteilen sind, sind in Anhang I zu dieser Verordnung aufgelistet.
 
 #### § 5
 
 **Schadenersatz**
 
-<sup>1</sup> Schadenersatzansprüche im Sinne von § 6 Abs. 2 des Gesetzes können für den Kanton bis zu einem Betrag von Fr. 5'000 durch die Departemente anerkannt werden. Die Anerkennung höherer Schadensummen bedarf der Zustimmung des Regierungsrates.
+<sup>1</sup> Schadenersatzansprüche im Sinne von § 6 Abs. 2 TG NHG können für den Kanton bis zu einem Betrag von Fr. 5'000 durch die Departemente anerkannt werden. Die Anerkennung höherer Schadensummen bedarf der Zustimmung des Regierungsrates.
 
 #### § 6
 
 **Geringfügige Eingriffe**
 
-<sup>1</sup> Geringfügige Eingriffe gemäss § 7 Abs. 1 des Gesetzes sind Eingriffe, welche einfach rückgängig zu machen sind und weder die Substanz des Objektes noch das Schutzziel beeinträchtigen.
+<sup>1</sup> Geringfügige Eingriffe gemäss § 7 Abs. 1 TG NHG sind Eingriffe, welche einfach rückgängig zu machen sind und weder die Substanz des Objektes noch das Schutzziel beeinträchtigen.
 
 ## 2. Beiträge und Abgeltungen
 
@@ -77,7 +86,7 @@ vom 29.03.1994 (Stand 09.05.2020)
 
 **Zuständigkeit**
 
-<sup>1</sup> Über die Gewährung von Beiträgen und Abgeltungen nach § 18 des Gesetzes entscheiden die Fachstellen im Rahmen der vom Regierungsrat bewilligten Entnahmen aus der Spezialfinanzierung.
+<sup>1</sup> Über die Gewährung von Beiträgen und Abgeltungen nach § 18 TG NHG entscheiden die Fachstellen im Rahmen der vom Regierungsrat bewilligten Entnahmen aus der Spezialfinanzierung.
 
 <sup>2</sup> Über wiederkehrende Beiträge können die Departemente befristete Vereinbarungen abschliessen.
 
@@ -87,7 +96,7 @@ vom 29.03.1994 (Stand 09.05.2020)
 
 **Prioritätenordnung**
 
-<sup>1</sup> Soweit kein Rechtsanspruch im Sinne von § 18 Abs. 2 und Abs. 3 des Gesetzes besteht, werden neue Beiträge und Abgeltungen des Kantons nur unter dem Vorbehalt gewährt oder zugesichert, dass entsprechende Mittel in der Spezialfinanzierung verfügbar sind.
+<sup>1</sup> Soweit kein Rechtsanspruch im Sinne von § 18 Abs. 2 und Abs. 3 TG NHG besteht, werden neue Beiträge und Abgeltungen des Kantons nur unter dem Vorbehalt gewährt oder zugesichert, dass entsprechende Mittel in der Spezialfinanzierung verfügbar sind.
 
 <sup>2</sup> Reichen die vorhandenen Mittel nicht aus, um sämtliche Gesuche zu berücksichtigen, kann das Departement für Bau und Umwelt eine Prioritätenordnung erlassen.
 
@@ -125,8 +134,8 @@ vom 29.03.1994 (Stand 09.05.2020)
 
 <sup>1</sup> Beiträge werden geleistet für:
 
-- 1\. die Bewirtschaftung und Pflege von erhaltenswerten Objekten sowie von Flächen zum ökologischen Ausgleich;
-- 2\. die Neuanlage von ökologischen Ausgleichsflächen wie Hecken, Feldgehölzen und dergleichen.
+- 1\. die Bewirtschaftung und Pflege von erhaltenswerten Objekten sowie von Flächen zum ökologischen Ausgleich
+- 2\. die Neuanlage von ökologischen Ausgleichsflächen wie Hecken, Feldgehölzen und dergleichen
 
 <sup>2</sup> Beiträge werden in der Regel jährlich wiederkehrend geleistet.
 
@@ -152,8 +161,8 @@ vom 29.03.1994 (Stand 09.05.2020)
 
 <sup>1</sup> Keine Beiträge werden geleistet für Massnahmen, welche
 
-- 1\. in Erfüllung der Unterhaltspflicht gemäss § 9 und § 31 des Gesetzes über den Wasserbau und den Schutz vor gravitativen Naturgefahren (WBSNG)[^14-1] erbracht werden müssen,
-- 2\. in Erfüllung der Unterhaltspflicht nach der Forstgesetzgebung erbracht werden müssen,
+- 1\. in Erfüllung der Unterhaltspflicht gemäss § 9 und § 31 des Gesetzes über den Wasserbau und den Schutz vor gravitativen Naturgefahren (WBSNG)[^14-1] erbracht werden müssen oder
+- 2\. in Erfüllung der Unterhaltspflicht nach der Forstgesetzgebung erbracht werden müssen.
 - 3\. …
 
 [^14-1]: RB [721.1](https://www.rechtsbuch.tg.ch/data/721.1/de)
@@ -200,26 +209,24 @@ vom 29.03.1994 (Stand 09.05.2020)
 
 **Abgeltungen**
 
-<sup>1</sup> Abgeltungen nach § 18 Abs. 3 TG NHG[^20-1] werden jährlich wiederkehrend geleistet. Sie setzen voraus, dass die bisherige Nutzung zulässig und einem nachhaltigen Nutzungspotential entsprechend war.
+<sup>1</sup> Abgeltungen nach § 18 Abs. 3 TG NHG werden jährlich wiederkehrend geleistet. Sie setzen voraus, dass die bisherige Nutzung zulässig und einem nachhaltigen Nutzungspotential entsprechend war.
 
 <sup>2</sup> Abgeltungen für Nutzungsbeschränkungen in Pufferzonen von Biotopen von nationaler Bedeutung werden während 25 Jahren ausgerichtet.
 
 <sup>3</sup> In Abhängigkeit von der bisherigen Nutzung wird pro Are landwirtschaftlich bewirtschafteter Fläche folgende jährliche Abgeltung gemäss Abs. 2 entrichtet:
 
-- 1\. Futterbau konventionell und biologisch Fr. 15;
-- 2\. Ackerbau konventionell Fr. 15;
-- 3\. Ackerbau biologisch Fr. 45;
-- 4\. Gemüsebau konventionell Fr. 55;
-- 5\. Gemüsebau biologisch Fr. 75;
-- 6\. Andere Kulturen maximal Fr. 75.
-
-[^20-1]: RB [450.1](https://www.rechtsbuch.tg.ch/data/450.1/de)
+- 1\. Futterbau konventionell und biologisch Fr. 15
+- 2\. Ackerbau konventionell Fr. 15
+- 3\. Ackerbau biologisch Fr. 45
+- 4\. Gemüsebau konventionell Fr. 55
+- 5\. Gemüsebau biologisch Fr. 75
+- 6\. Andere Kulturen maximal Fr. 75
 
 #### § 21
 
 **Weitere Beiträge**
 
-<sup>1</sup> Der Kanton kann weitere Beiträge gemäss Art. 18 Abs. 1 des Gesetzes ausrichten.
+<sup>1</sup> Der Kanton kann weitere Beiträge gemäss Art. 18 Abs. 1 TG NHG ausrichten.
 
 ### 2.2.3. Bewirtschaftungsverträge, Verfahren
 
@@ -229,15 +236,15 @@ vom 29.03.1994 (Stand 09.05.2020)
 
 <sup>1</sup> Bewirtschaftungsverträge der Gemeinden oder des Kantons sind für eine Dauer von mindestens acht Jahren abzuschliessen und haben mindestens zu enthalten:
 
-- 1\. die Vertragsdauer;
-- 1a. die Vertragspartner;
-- 2\. die planliche Bezeichnung der Flächen oder Objekte mit Ortsangabe, Koordinaten und Parzellennummern;
-- 3\. die Umschreibung der Flächen oder Objekte mit genauen Massangaben;
-- 4\. Nutzungsbeschränkungen und Bewirtschaftungsvorschriften in Abweichung zu den Bestimmungen der Direktzahlungsverordnung;
-- 5\. die Beitragshöhe, unterteilt nach Grundbeitrag, Zuschlägen und Abgeltungen;
-- 6\. den Zeitpunkt der Auszahlung;
-- 7\. die Beitragsempfänger;
-- 8\. die Folgen der Nichterfüllung.
+- 1\. die Vertragsdauer
+- 1a. die Vertragspartner
+- 2\. die planliche Bezeichnung der Flächen oder Objekte mit Ortsangabe, Koordinaten und Parzellennummern
+- 3\. die Umschreibung der Flächen oder Objekte mit genauen Massangaben
+- 4\. Nutzungsbeschränkungen und Bewirtschaftungsvorschriften in Abweichung zu den Bestimmungen der Direktzahlungsverordnung
+- 5\. die Beitragshöhe, unterteilt nach Grundbeitrag, Zuschlägen und Abgeltungen
+- 6\. den Zeitpunkt der Auszahlung
+- 7\. die Beitragsempfänger
+- 8\. die Folgen der Nichterfüllung
 
 #### § 23
 
@@ -283,9 +290,9 @@ vom 29.03.1994 (Stand 09.05.2020)
 
 <sup>1</sup> Die Beiträge des Kantons betragen:
 
-- 1\. 10 % bei Objekten von lokaler Bedeutung;
-- 2\. 15 % bei Objekten von regionaler Bedeutung;
-- 3\. 20 % bei Objekten von nationaler Bedeutung.
+- 1\. 10 % bei Objekten von lokaler Bedeutung
+- 2\. 15 % bei Objekten von regionaler Bedeutung
+- 3\. 20 % bei Objekten von nationaler Bedeutung
 
 <sup>2</sup> Der Ansatz nach Abs. 1 Ziff. 3 kann für aufwendige Massnahmen an Bauteilen von besonderer Bedeutung ausnahmsweise auf höchstens 45 % erhöht werden.
 
@@ -343,23 +350,23 @@ vom 29.03.1994 (Stand 09.05.2020)
 
 <sup>1</sup> Zu den kantonalen Inventaren und Grundlagen gehören namentlich:
 
-- 1\. das kantonale Landschaftsentwicklungskonzept;
-- 2\. der kantonale Richtplan, Bereiche Siedlung und Landschaft;
-- 3\. das Amphibieninventar;
-- 4\. der Fischatlas;
-- 5\. das Reptilieninventar;
-- 6\. das Libelleninventar;
-- 7\. das Heckeninventar;
-- 8\. das Strandraseninventar.
+- 1\. das kantonale Landschaftsentwicklungskonzept
+- 2\. der kantonale Richtplan, Bereiche Siedlung und Landschaft
+- 3\. das Amphibieninventar
+- 4\. der Fischatlas
+- 5\. das Reptilieninventar
+- 6\. das Libelleninventar
+- 7\. das Heckeninventar
+- 8\. das Strandraseninventar
 
-<sup>2</sup> Als Inventare des Bundes sind namentlich zu beachten
+<sup>2</sup> Als Inventare des Bundes sind namentlich zu beachten:
 
-- 1\. das Flach- und Hochmoorinventar,
-- 2\. das Auenwaldinventar,
-- 3\. das Inventar der Wasser- und Zugvogelreservate von nationaler und internationaler Bedeutung,
-- 4\. das Inventar der Landschaften und Naturdenkmäler von nationaler Bedeutung,
-- 5\. das Inventar der Trockenwiesen und -weiden,
-- 6\. das Inventar der Amphibienlaichgebiete.
+- 1\. das Flach- und Hochmoorinventar
+- 2\. das Auenwaldinventar
+- 3\. das Inventar der Wasser- und Zugvogelreservate von nationaler und internationaler Bedeutung
+- 4\. das Inventar der Landschaften und Naturdenkmäler von nationaler Bedeutung
+- 5\. das Inventar der Trockenwiesen und -weiden
+- 6\. das Inventar der Amphibienlaichgebiete
 
 #### § 33a
 
@@ -386,7 +393,7 @@ vom 29.03.1994 (Stand 09.05.2020)
 
 **Ersatzprinzip**
 
-<sup>1</sup> Mit der Erteilung der Bewilligung nach § 7 des Gesetzes legt die Bewilligungsbehörde auch Art und Ausmass eines allfälligen Ersatzes im Sinne von § 8 Abs. 3 des Gesetzes fest.
+<sup>1</sup> Mit der Erteilung der Bewilligung nach § 7 TG NHG legt die Bewilligungsbehörde auch Art und Ausmass eines allfälligen Ersatzes im Sinne von § 8 Abs. 3 TG NHG fest.
 
 <sup>2</sup> In Ausnahmefällen, namentlich wenn eine Neuanlage gleichartiger Lebensräume nicht sinnvoll oder nicht möglich ist, kann der Ersatz in Form einer Geldleistung erfolgen. Diese ist aufgrund einer ökologischen Gesamtwürdigung festzulegen und hat zumindest den Kosten für die Wiederherstellung oder für angemessene Ersatzmassnahmen zu entsprechen.
 
@@ -455,19 +462,19 @@ vom 29.03.1994 (Stand 09.05.2020)
 
 **Inventare**
 
-<sup>1</sup> Zu den kantonalen Inventaren und Grundlagen gehören namentlich
+<sup>1</sup> Zu den kantonalen Inventaren und Grundlagen gehören namentlich:
 
-- 1\. der kantonale Richtplan,
-- 2\. das Inventar der Kunstdenkmäler,
-- 3\. das Hinweisinventar Bauten,
-- 4\. das Inventar der kirchlichen Kunst.
+- 1\. der kantonale Richtplan
+- 2\. das Inventar der Kunstdenkmäler
+- 3\. das Hinweisinventar Bauten
+- 4\. das Inventar der kirchlichen Kunst
 
 <sup>2</sup> Als Inventare des Bundes sind namentlich zu beachten:
 
-- 1\. das Schweizerische Inventar der Kulturgüter von nationaler und regionaler Bedeutung;
-- 2\. das Inventar der neueren Schweizer Architektur;
-- 3\. das Inventar schützenswerter Ortsbilder der Schweiz;
-- 4\. das Inventar der historischen Verkehrswege.
+- 1\. das Schweizerische Inventar der Kulturgüter von nationaler und regionaler Bedeutung
+- 2\. das Inventar der neueren Schweizer Architektur
+- 3\. das Inventar schützenswerter Ortsbilder der Schweiz
+- 4\. das Inventar der historischen Verkehrswege
 
 #### § 43a
 
@@ -475,25 +482,25 @@ vom 29.03.1994 (Stand 09.05.2020)
 
 <sup>1</sup> Im Hinweisinventar Bauten werden nach denkmalpflegerischen Grundsätzen Bauten erfasst, welche von kulturgeschichtlicher Bedeutung sind oder sein könnten.
 
-<sup>2</sup> Die erfassten Bauten werden, abgestuft nach ihrer kulturgeschichtlichen Bedeutung, als "besonders wertvoll" oder "wertvoll" klassiert.
+<sup>2</sup> Die erfassten Bauten werden, abgestuft nach ihrer kulturgeschichtlichen Bedeutung, als «besonders wertvoll» oder «wertvoll» klassiert.
 
-<sup>3</sup> Über "besonders wertvolle" und "wertvolle" Objekte ist ein Entscheid nach § 10 des Gesetzes zu fällen.
+<sup>3</sup> Über «besonders wertvolle» und «wertvolle» Objekte ist ein Entscheid nach § 10 TG NHG zu fällen.
 
-<sup>4</sup> Bei "besonders wertvollen" und "wertvollen" Objekten wird im Hinweisinventar Bauten in geeigneter Weise vermerkt, ob
+<sup>4</sup> Bei «besonders wertvollen» und «wertvollen» Objekten wird im Hinweisinventar Bauten in geeigneter Weise vermerkt, ob
 
-- 1\. das Objekt rechtskräftig unter Schutz gestellt wurde;
-- 2\. das Objekt rechtskräftig nicht unter Schutz gestellt wurde;
+- 1\. das Objekt rechtskräftig unter Schutz gestellt wurde,
+- 2\. das Objekt rechtskräftig nicht unter Schutz gestellt wurde oder
 - 3\. über das Objekt noch kein Entscheid über den Schutz gefällt wurde.
 
 <sup>5</sup> Das Hinweisinventar Bauten kann Informationen zu weiteren Bauten enthalten, insbesondere über solche, welche durch ihre Stellung im Ortsbild oder ihre Wechselwirkung mit anderen Objekten von Bedeutung sein können. Solche Bauten werden als "bemerkenswert" klassiert.
 
-<sup>6</sup> Bauten, welche im Rahmen der Inventarisationsarbeiten weder als "besonders wertvoll", noch als "wertvoll" oder "bemerkenswert" klassiert wurden, werden im Hinweisinventar Bauten als "aufgenommen" bezeichnet.
+<sup>6</sup> Bauten, welche im Rahmen der Inventarisationsarbeiten weder als «besonders wertvoll», noch als «wertvoll» oder «bemerkenswert» klassiert wurden, werden im Hinweisinventar Bauten als «aufgenommen» bezeichnet.
 
 #### § 44
 
 **Historischer Mehrwert**
 
-<sup>1</sup> Die Bezeichnung der Gebäude, bei welchen der Kanton gemäss § 18 Abs. 4 des Gesetzes die Gebäudeversicherungsprämie für den historischen Mehrwert übernimmt, erfolgt auf Gesuch des Eigentümers oder von Amtes wegen mit dessen Zustimmung.
+<sup>1</sup> Die Bezeichnung der Gebäude, bei welchen der Kanton gemäss § 18 Abs. 4 TG NHG die Gebäudeversicherungsprämie für den historischen Mehrwert übernimmt, erfolgt auf Gesuch des Eigentümers oder von Amtes wegen mit dessen Zustimmung.
 
 <sup>2</sup> Der historische Mehrwert des Gebäudes wird aufgrund einer Schätzung durch die Gebäudeversicherung unter Mitwirkung des Amtes für Denkmalpflege ermittelt und zur Information des Eigentümers auf der Versicherungspolice aufgeführt.
 
@@ -515,20 +522,20 @@ vom 29.03.1994 (Stand 09.05.2020)
 
 **Besondere Aufgaben der Fachstelle**
 
-<sup>1</sup> Der Fachstelle obliegen insbesondere
+<sup>1</sup> Der Fachstelle obliegen insbesondere:
 
-- 1\. die Wahrung der archäologischen Fundstellen und Objekte,
-- 2\. die Durchführung und Beaufsichtigung sämtlicher archäologischer Grabungen sowie in Absprache mit dem Amt für Denkmalpflege die bauanalytischen Untersuchungen,
-- 3\. die Sicherstellung archäologischer Bodenfunde und Befunde sowie von Naturkörpern erd- und vegetationsgeschichtlicher Art,
-- 4\. der Unterhalt von Ruinen,
-- 5\. die archäologische Prospektion,
-- 6\. die Bearbeitung und Nachführung des archäologischen Fundstelleninventars sowie die Inventarisierung der Bodenfunde.
+- 1\. die Wahrung der archäologischen Fundstellen und Objekte
+- 2\. die Durchführung und Beaufsichtigung sämtlicher archäologischer Grabungen sowie in Absprache mit dem Amt für Denkmalpflege die bauanalytischen Untersuchungen
+- 3\. die Sicherstellung archäologischer Bodenfunde und Befunde sowie von Naturkörpern erd- und vegetationsgeschichtlicher Art
+- 4\. der Unterhalt von Ruinen
+- 5\. die archäologische Prospektion
+- 6\. die Bearbeitung und Nachführung des archäologischen Fundstelleninventars sowie die Inventarisierung der Bodenfunde
 
 #### § 47
 
 **Such- und Untersuchungsbewilligung**
 
-<sup>1</sup> Die Bewilligung nach § 9 des Gesetzes erteilt die Fachstelle.
+<sup>1</sup> Die Bewilligung nach § 9 TG NHG erteilt die Fachstelle.
 
 <sup>2</sup> Der Bewilligungspflicht unterliegen insbesondere das Graben, Tauchen und systematische Absuchen nach archäologischen Gegenständen.
 
@@ -550,7 +557,7 @@ vom 29.03.1994 (Stand 09.05.2020)
 
 **Sicherung von Funden**
 
-<sup>1</sup> Zur Sicherung des Eigentums an wissenschaftlichen Gegenständen gemäss Art. 724 des Schweizerischen Zivilgesetzbuches[^49-1] kann die Fachstelle die erforderlichen Massnahmen, insbesondere die Einstellung von Bauarbeiten, anordnen. Die Anordnungen sind sofort vollstreckbar.
+<sup>1</sup> Zur Sicherung des Eigentums an wissenschaftlichen Gegenständen gemäss Art. 724 des Schweizerischen Zivilgesetzbuches (ZGB)[^49-1] kann die Fachstelle die erforderlichen Massnahmen, insbesondere die Einstellung von Bauarbeiten, anordnen. Die Anordnungen sind sofort vollstreckbar.
 
 [^49-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
@@ -578,20 +585,8 @@ vom 29.03.1994 (Stand 09.05.2020)
 
 [^51-1]: SR [451](https://db.clex.ch/link/Bund/451/de)
 
-#### § 52
+#### § 52–54
 
-**Beiträge, Abgeltungen**
-
-<sup>1</sup> Beiträge und Abgeltungen nach § 18 des Gesetzes werden nur für Massnahmen gewährt, die nach der Inkraftsetzung des Gesetzes in Angriff genommen oder weitergeführt werden.
-
-#### § 53
-
-**Übergangsbestimmung**
-
-<sup>1</sup> Bis zur Rechtskraft der Anordnungen der Gemeinden gemäss § 10 des Gesetzes gilt für die Pflicht der Gemeinden zu Beitragsleistungen im Bereich der Denkmalpflege das bisherige Recht.
-
-#### § 54
-
-**Inkrafttreten**
+**…**
 
 ABl. 13/1994
