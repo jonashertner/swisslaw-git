@@ -4,11 +4,11 @@ title: "Ordinanza del 29 febbraio 1988 sulla caccia e la protezione dei mammifer
 short: OCP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/517_517_517"
 language: it
-version: 2021-07-15
+version: 2023-07-01
 adopted: 1988-02-29
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20210715/it/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20210715-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20210715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20210715/it"
 
 (Ordinanza sulla caccia, OCP)
 
-del 29 febbraio 1988 (Stato 15 luglio 2021)
+del 29 febbraio 1988 (Stato 1° luglio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -176,23 +176,27 @@ Nella loro istanza, i Cantoni indicano all’UFAM:
 
 **Regolazione del lupo**[^4bis-1]
 
-<sup>1</sup> I lupi di un branco possono essere regolati solo se il branco interessato si è riprodotto con successo nell’anno in cui è stata autorizzata la regolazione. La regolazione avviene abbattendo giovani animali. Può essere abbattuto al massimo un numero di lupi non superiore alla metà dei cuccioli nati nell’anno in questione.[^4bis-2]
+<sup>1</sup> I lupi di un branco possono essere regolati solo se il branco interessato si è riprodotto con successo nell’anno in cui è stata autorizzata la regolazione. La regolazione avviene abbattendo giovani animali. Può essere abbattuto al massimo un numero di lupi non superiore alla metà dei giovani animali nati nell’anno in questione. Nelle regioni in cui sono presenti più branchi di lupi, possono essere abbattuti al massimo due terzi dei giovani animali nati nell’anno in questione.[^4bis-2]
 
-<sup>1bis</sup> Nel quadro della regolazione di cui al capoverso 1, da novembre a gennaio può essere abbattuto, in via eccezionale, anche un genitore che risulta essere particolarmente dannoso. Segnatamente, un genitore è considerato particolarmente dannoso se nell’arco di diversi anni causa annualmente almeno i due terzi dei danni di cui al capoverso 2.[^4bis-3]
+<sup>1bis</sup> Negli anni in cui non avviene la riproduzione, nelle regioni in cui sono presenti più branchi di lupi può essere abbattuto un giovane animale nato nell’anno precedente.[^4bis-3]
 
-<sup>1ter</sup> L’abbattimento dei lupi deve avvenire, per quanto possibile, in prossimità di insediamenti o di greggi e mandrie di animali da reddito.[^4bis-4]
+<sup>1ter</sup> Nel quadro della regolazione di cui al capoverso 1, da novembre a gennaio può essere abbattuto, in via eccezionale, anche un genitore che risulta essere particolarmente dannoso. Segnatamente, un genitore è considerato particolarmente dannoso se nell’arco di diversi anni causa annualmente almeno i due terzi dei danni di cui al capoverso 2.[^4bis-4]
 
-<sup>2</sup> In caso di danni ad animali da reddito, la regolazione è autorizzata se nell’areale abituale di attività di un branco di lupi riprodottosi con successo sono stati uccisi almeno dieci animali da reddito nell’arco di quattro mesi.[^4bis-5] Per valutare i danni è applicabile per analogia l’articolo 9<sup>bis</sup> capoversi 3 e 4.
+<sup>1quater</sup> L’abbattimento dei lupi deve avvenire, per quanto possibile, in prossimità di insediamenti e di greggi e mandrie di animali da reddito.[^4bis-5]
 
-<sup>3</sup> In caso di grave pericolo per l’uomo, la regolazione è autorizzata se lupi appartenenti a un branco si aggirano regolarmente e spontaneamente all’interno o nelle immediate vicinanze di insediamenti mostrandosi aggressivi o troppo poco timorosi nei confronti dell’uomo.
+<sup>2</sup> In caso di danni ad animali da reddito, la regolazione è autorizzata se nell’areale abituale di attività di un branco di lupi sono stati uccisi almeno otto animali da reddito nell’arco di quattro mesi oppure se è stato ucciso o gravemente ferito un bovino, un equino o un camelide del nuovo mondo. Per valutare i danni è applicabile per analogia l’articolo 9<sup>bis</sup> capoverso 4.[^4bis-6]
+
+<sup>3</sup> In caso di grave pericolo per le persone, la regolazione è autorizzata in particolare se lupi appartenenti a un branco si aggirano regolarmente e spontaneamente all’interno o nelle immediate vicinanze di insediamenti mostrandosi aggressivi o troppo poco timorosi nei confronti delle persone.[^4bis-7]
 
 <sup>4</sup> Le autorizzazioni di abbattimento devono essere limitate all’areale abituale di attività del branco di lupi. Devono essere rilasciate entro il 31 dicembre dell’anno in questione e la loro validità non può andare oltre il 31 marzo dell’anno successivo.
 
 [^4bis-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
-[^4bis-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
-[^4bis-3]: Introdotto dal n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
-[^4bis-4]: Introdotto dal n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)
-[^4bis-5]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^4bis-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-3]: Introdotto dal n. I dell’O del 30 giu. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)). Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-4]: Introdotto dal n. I dell’O del 30 giu. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)). Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-5]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-6]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-7]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 
 #### Art. 4<sup>ter</sup>
 
@@ -340,7 +344,7 @@ Sono competenti:
 
 **Misure contro singoli lupi**[^9bis-1]
 
-<sup>1</sup> Il Cantone può rilasciare un’autorizzazione di abbattimento per singoli lupi che causano danni rilevanti ad animali da reddito.
+<sup>1</sup> Il Cantone può rilasciare un’autorizzazione di abbattimento per singoli lupi non appartenenti a un branco che causano danni rilevanti ad animali da reddito o che mettono gravemente in pericolo le persone.[^9bis-2]
 
 <sup>2</sup>
 
@@ -348,20 +352,31 @@ Un danno ad animali da reddito causato da un singolo lupo è considerato rilevan
 
 - a. sono uccisi almeno 25 animali da reddito nell’arco di quattro mesi;
 - b. sono uccisi almeno 15 animali da reddito nell’arco di un mese; o
-- c. sono uccisi almeno 10 animali da reddito nell’arco di quattro mesi dopo che in passato erano già stati registrati danni causati da lupi.[^9bis-2]
+- c.[^9bis-3] sono uccisi almeno sei animali da reddito nell’arco di quattro mesi dopo che in passato erano già stati registrati danni causati da lupi.[^9bis-4]
 
-<sup>3</sup> In caso di bovini, equini e camelidi del nuovo mondo si ha un danno rilevante quando un singolo lupo uccide nell’arco di quattro mesi almeno due animali da reddito.[^9bis-3]
+<sup>3</sup> In caso di bovini, equini e camelidi del nuovo mondo si ha un danno rilevante quando un singolo lupo uccide o ferisce gravemente almeno un animale da reddito.[^9bis-5]
 
-<sup>4</sup> Per valutare il danno di cui ai capoversi 2 lettera c e 3 non sono considerati gli animali da reddito che sono uccisi in una zona in cui, malgrado i danni risalenti a più di quattro mesi prima, non è stata adottata alcuna misura di protezione ragionevolmente esigibile di cui all’articolo 10<sup>quinquies</sup>.[^9bis-4]
+<sup>4</sup> Per valutare il danno di cui ai capoversi 2 lettera c e 3 non sono considerati gli animali da reddito che sono uccisi in una zona in cui, malgrado i danni risalenti a più di quattro mesi prima, non è stata adottata alcuna misura di protezione ragionevolmente esigibile di cui all’articolo 10<sup>quinquies</sup>.[^9bis-6]
 
 <sup>5</sup> I danni verificatisi sul territorio di due o più Cantoni devono essere valutati in modo coordinato dai Cantoni interessati.
 
-<sup>6</sup> L’autorizzazione di abbattimento deve servire a prevenire altri danni ad animali da reddito. La sua validità deve essere limitata a un massimo di 60 giorni e a un perimetro di abbattimento adeguato. Quest’ultimo corrisponde al perimetro dell’alpeggio, se al suo interno non può essere adottata alcuna misura di protezione ragionevolmente esigibile.
+<sup>6</sup> L’autorizzazione di abbattimento deve servire a prevenire altri danni ad animali da reddito o altri pericoli gravi per le persone causati da un singolo lupo.[^9bis-7] La sua validità deve essere limitata a un massimo di 60 giorni e a un perimetro di abbattimento adeguato. Quest’ultimo corrisponde al perimetro dell’alpeggio, se al suo interno non può essere adottata alcuna misura di protezione ragionevolmente esigibile.
 
 [^9bis-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
-[^9bis-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
-[^9bis-3]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^9bis-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^9bis-3]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 [^9bis-4]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^9bis-5]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^9bis-6]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^9bis-7]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+
+#### Art. 9<sup>ter</sup>
+
+**Abbattimento di un singolo lupo di un branco**[^9ter-1]
+
+Se un lupo di un branco rappresenta un pericolo grave e imminente per le persone, il Cantone può, in deroga all’articolo 4 capoverso 1, ordinarne l’abbattimento senza l’approvazione dell’UFAM.
+
+[^9ter-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 
 #### Art. 10
 
@@ -376,19 +391,26 @@ La Confederazione paga ai Cantoni le seguenti indennità per il risarcimento di 
 
 <sup>2</sup> I Cantoni determinano l’entità e la causa dei danni da selvaggina.
 
-<sup>3</sup> La Confederazione partecipa al risarcimento solamente se i Cantoni si assumono i costi rimanenti.
+<sup>3</sup>
 
-<sup>4</sup> La Confederazione promuove misure per prevenire danni causati da linci, orsi, lupi e sciacalli dorati.[^10-3]
+La Confederazione paga l’indennità per gli animali da reddito alle seguenti condizioni:
 
-<sup>5</sup> L’UFAM può ordinare misure contro castori, lontre e aquile che causano danni rilevanti.[^10-4]
+- a. al momento della predazione gli animali da reddito sono registrati correttamente nella banca dati sul traffico di animali di cui all’articolo 45*b* della legge del 1° luglio 1966[^10-3] sulle epizoozie; e
+- b. il Cantone si assume i costi rimanenti.[^10-4]
 
-<sup>6</sup> ...[^10-5]
+<sup>4</sup> La Confederazione promuove misure per prevenire danni causati da linci, orsi, lupi e sciacalli dorati.[^10-5]
+
+<sup>5</sup> L’UFAM può ordinare misure contro castori, lontre e aquile che causano danni rilevanti.[^10-6]
+
+<sup>6</sup> ...[^10-7]
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 28 mar. 2001, in vigore dal 15 apr. 2001 ([RU 2001 1005](https://fedlex.data.admin.ch/eli/oc/2001/143)).
 [^10-2]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4315](https://fedlex.data.admin.ch/eli/oc/2013/767)).
-[^10-3]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4315](https://fedlex.data.admin.ch/eli/oc/2013/767)).
-[^10-4]: Nuovo testo giusta il n. I dell’O del 15 gen. 2003**,** in vigore dal 1° feb. 2003([RU 2003 269](https://fedlex.data.admin.ch/eli/oc/2003/48)).
-[^10-5]: Abrogato dal n. I dell’O del 27 giu. 2012, con effetto dal 15 lug. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
+[^10-3]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^10-4]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^10-5]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4315](https://fedlex.data.admin.ch/eli/oc/2013/767)).
+[^10-6]: Nuovo testo giusta il n. I dell’O del 15 gen. 2003**,** in vigore dal 1° feb. 2003([RU 2003 269](https://fedlex.data.admin.ch/eli/oc/2003/48)).
+[^10-7]: Abrogato dal n. I dell’O del 27 giu. 2012, con effetto dal 15 lug. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
 
 #### Art. 10<sup>bis</sup>
 
@@ -609,7 +631,7 @@ L’ordinanza d’esecuzione, del 7 giugno 1971[^19-1], della legge federale su 
 
 La presente ordinanza entra in vigore il 1° aprile 1988.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 8<sup>bis</sup> cpv. 2)
 
@@ -645,7 +667,7 @@ Allegato 1*[^t-1]*
 
 [^annex1-lvlu1-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 8<sup>bis</sup> cpv. 2)
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 29. Februar 1988 über die Jagd und den Schutz wildlebend
 short: JSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/517_517_517"
 language: de
-version: 2021-07-15
+version: 2023-07-01
 adopted: 1988-02-29
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20210715/de/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20210715-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20210715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20210715/de"
 
 (Jagdverordnung, JSV)
 
-vom 29. Februar 1988 (Stand am 15. Juli 2021)
+vom 29. Februar 1988 (Stand am 1. Juli 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -176,23 +176,27 @@ Die Kantone geben dem BAFU in ihrem Antrag an:
 
 **Regulierung von Wölfen**[^4bis-1]
 
-<sup>1</sup> Wölfe eines Rudels dürfen nur reguliert werden, wenn sich das betroffene Rudel im Jahr, in dem die Regulierung bewilligt wird, erfolgreich fortgepflanzt hat. Die Regulierung erfolgt über den Abschuss von Jungtieren. Es darf höchstens eine Anzahl Wölfe erlegt werden, welche die Hälfte der im betreffenden Jahr geborenen Jungtiere nicht übersteigt.[^4bis-2]
+<sup>1</sup> Wölfe eines Rudels dürfen nur reguliert werden, wenn sich das betroffene Rudel im Jahr, in dem die Regulierung bewilligt wird, erfolgreich fortgepflanzt hat. Die Regulierung erfolgt über den Abschuss von Jungtieren. Es darf höchstens eine Anzahl Wölfe erlegt werden, welche die Hälfte der im betreffenden Jahr geborenen Jungtiere nicht übersteigt. In Regionen, in denen es mehr als ein Wolfsrudel gibt, dürfen höchstens zwei Drittel der im betreffenden Jahr geborenen Jungtiere erlegt werden.[^4bis-2]
 
-<sup>1bis</sup> Ausnahmsweise kann im Rahmen der Regulierung nach Absatz 1 auch ein Elterntier, das besonders schadenstiftend in Erscheinung tritt, in den Monaten November bis Januar erlegt werden. Ein Elterntier gilt insbesondere dann als besonders schadenstiftend, wenn es über mehrere Jahre jeweils mindestens zwei Drittel des Schadens nach Absatz 2 verursacht.[^4bis-3]
+<sup>1bis</sup> In Jahren ohne Fortpflanzung darf in Regionen, in denen es mehr als ein Wolfsrudel gibt, ein Jungtier, das im Vorjahr geboren wurde, erlegt werden.[^4bis-3]
 
-<sup>1ter</sup> Die Wölfe sind soweit möglich nahe von Siedlungen oder Nutztierherden zu erlegen.[^4bis-4]
+<sup>1ter</sup> Ausnahmsweise kann im Rahmen der Regulierung nach Absatz 1 auch ein Elterntier, das besonders schadenstiftend in Erscheinung tritt, in den Monaten November bis Januar erlegt werden. Ein Elterntier gilt insbesondere dann als besonders schadenstiftend, wenn es über mehrere Jahre jeweils mindestens zwei Drittel des Schadens nach Absatz 2 verursacht.[^4bis-4]
 
-<sup>2</sup> Eine Regulierung bei Schäden an Nutztierbeständen ist zulässig, wenn im Streifgebiet eines Wolfsrudels, das sich erfolgreich fortgepflanzt hat, innerhalb von vier Monaten mindestens 10 Nutztiere getötet worden sind.[^4bis-5] Bei der Beurteilung der Schäden sind Artikel 9<sup>bis</sup> Absätze 3 und 4 sinngemäss anwendbar.
+<sup>1quater</sup> Die Wölfe sind soweit möglich nahe von Siedlungen und Nutztierherden zu erlegen.[^4bis-5]
 
-<sup>3</sup> Eine Regulierung infolge erheblicher Gefährdung von Menschen ist zulässig, wenn sich Wölfe aus einem Rudel aus eigenem Antrieb regelmässig innerhalb oder in unmittelbarer Nähe von Siedlungen aufhalten und sich dabei gegenüber Menschen zu wenig scheu oder aggressiv zeigen.
+<sup>2</sup> Eine Regulierung aufgrund von Schäden an Nutztierbeständen ist zulässig, wenn im Streifgebiet eines Wolfsrudels innerhalb von vier Monaten mindestens 8 Nutztiere getötet worden oder ein Tier der Rinder- oder Pferdegattung oder Neuweltkameliden getötet oder schwer verletzt worden sind. Bei der Beurteilung der Schäden ist Artikel 9<sup>bis</sup> Absatz 4 sinngemäss anwendbar.[^4bis-6]
+
+<sup>3</sup> Eine Regulierung aufgrund einer erheblichen Gefährdung von Menschen ist insbesondere zulässig, wenn sich Wölfe eines Rudels aus eigenem Antrieb regelmässig innerhalb oder in unmittelbarer Nähe von Siedlungen aufhalten und sich dabei gegenüber Menschen zu wenig scheu oder aggressiv zeigen.[^4bis-7]
 
 <sup>4</sup> Abschussbewilligungen sind auf das Streifgebiet des betreffenden Wolfsrudels zu beschränken. Sie sind bis spätestens am 31. Dezember des betreffenden Jahres zu erteilen und bis längstens am 31. März des nachfolgenden Jahres zu befristen.
 
 [^4bis-1]: Eingefügt durch Ziff. I der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
-[^4bis-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
-[^4bis-3]: Eingefügt durch Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
-[^4bis-4]: Eingefügt durch Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
-[^4bis-5]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^4bis-2]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-3]: Eingefügt durch Ziff. I der V vom 30. Juni 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)). Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-4]: Eingefügt durch Ziff. I der V vom 30. Juni 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)). Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-5]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-6]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-7]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 
 #### Art. 4<sup>ter</sup>
 
@@ -340,7 +344,7 @@ Zuständig sind:
 
 **Massnahmen gegen einzelne Wölfe**[^9bis-1]
 
-<sup>1</sup> Der Kanton kann eine Abschussbewilligung für einzelne Wölfe erteilen, die erheblichen Schaden an Nutztieren anrichten.
+<sup>1</sup> Der Kanton kann eine Abschussbewilligung für einzelne, nicht zu einem Rudel gehörende Wölfe erteilen, die erheblichen Schaden an Nutztieren anrichten oder Menschen erheblich gefährden.[^9bis-2]
 
 <sup>2</sup>
 
@@ -348,20 +352,31 @@ Ein erheblicher Schaden an Nutztieren durch einen einzelnen Wolf liegt vor, wenn
 
 - a. mindestens 25 Nutztiere innerhalb von vier Monaten getötet werden;
 - b. mindestens 15 Nutztiere innerhalb von einem Monat getötet werden; oder
-- c. mindestens 10 Nutztiere innerhalb von vier Monaten getötet werden, nachdem früher bereits Schäden durch Wölfe zu verzeichnen waren.[^9bis-2]
+- c.[^9bis-3] mindestens 6 Nutztiere innerhalb von vier Monaten getötet werden, nachdem früher bereits Schäden durch Wölfe zu verzeichnen waren.[^9bis-4]
 
-<sup>3</sup> Bei Tieren der Rinder- und Pferdegattung sowie bei Neuweltkameliden liegt ein erheblicher Schaden vor, wenn durch einen einzelnen Wolf innerhalb von vier Monaten mindestens zwei Nutztiere getötet wurden.[^9bis-3]
+<sup>3</sup> Bei Tieren der Rinder- oder Pferdegattung sowie bei Neuweltkameliden liegt ein erheblicher Schaden vor, wenn durch einen einzelnen Wolf mindestens ein Nutztier getötet oder schwer verletzt wurde.[^9bis-5]
 
-<sup>4</sup> Bei der Beurteilung des Schadens nach den Absätzen 2 Buchstabe c und 3 unberücksichtigt bleiben Nutztiere, die in einem Gebiet getötet werden, in dem trotz Schäden, die mehr als vier Monate zurückliegen, keine zumutbaren Schutzmassnahmen nach Artikel 10<sup>quinquies</sup> ergriffen worden sind.[^9bis-4]
+<sup>4</sup> Bei der Beurteilung des Schadens nach den Absätzen 2 Buchstabe c und 3 unberücksichtigt bleiben Nutztiere, die in einem Gebiet getötet werden, in dem trotz Schäden, die mehr als vier Monate zurückliegen, keine zumutbaren Schutzmassnahmen nach Artikel 10<sup>quinquies</sup> ergriffen worden sind.[^9bis-6]
 
 <sup>5</sup> Schäden, die auf dem Gebiet von zwei oder mehr Kantonen entstanden sind, sind von den betroffenen Kantonen koordiniert zu beurteilen.
 
-<sup>6</sup> Die Abschussbewilligung muss der Verhütung weiteren Schadens an Nutztieren dienen. Sie ist auf längstens 60 Tage zu befristen sowie auf einen angemessenen Abschussperimeter zu beschränken. Dieser entspricht dem Alpperimeter, wenn dort keine zumutbaren Schutzmassnahmen ergriffen werden können.
+<sup>6</sup> Die Abschussbewilligung muss der Verhütung weiteren Schadens an Nutztieren oder der Verhütung weiterer erheblicher Gefährdung der Menschen durch einen einzelnen Wolf dienen.[^9bis-7] Sie ist auf längstens 60 Tage zu befristen sowie auf einen angemessenen Abschussperimeter zu beschränken. Dieser entspricht dem Alpperimeter, wenn dort keine zumutbaren Schutzmassnahmen ergriffen werden können.
 
 [^9bis-1]: Eingefügt durch Ziff. I der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
-[^9bis-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
-[^9bis-3]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^9bis-2]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^9bis-3]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 [^9bis-4]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^9bis-5]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^9bis-6]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^9bis-7]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+
+#### Art. 9<sup>ter</sup>
+
+**Einzelabschuss eines Wolfs aus einem Rudel**[^9ter-1]
+
+Bei einer schweren und unmittelbar drohenden Gefahr für den Menschen durch einen Wolf eines Rudels kann der Kanton in Abweichung von Artikel 4 Absatz 1 ohne Zustimmung des BAFU den Abschuss des Wolfes anordnen.
+
+[^9ter-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 
 #### Art. 10
 
@@ -376,19 +391,26 @@ Der Bund leistet den Kantonen an die Entschädigung von Wildschäden die folgend
 
 <sup>2</sup> Die Kantone ermitteln die Höhe und die Verursacher des Wildschadens.
 
-<sup>3</sup> Der Bund leistet die Abgeltung nur, wenn der Kanton die Restkosten übernimmt.
+<sup>3</sup>
 
-<sup>4</sup> Der Bund fördert Massnahmen, um Wildschäden durch Luchse, Bären, Wölfe und Goldschakale zu verhüten.[^10-3]
+Der Bund leistet die Abgeltung für Nutztiere unter den folgenden Voraussetzungen:
 
-<sup>5</sup> Das BAFU kann Massnahmen gegen Biber, Fischotter und Adler verfügen, die erheblichen Schaden anrichten.[^10-4]
+- a. Die Nutztiere sind in der Tierverkehrsdatenbank gemäss Artikel 45*b* Tierseuchengesetz vom1. Juli 1966[^10-3] zum Zeitpunkt des Risses korrekt registriert; und
+- b. der Kanton übernimmt die Restkosten.[^10-4]
 
-<sup>6</sup> ...[^10-5]
+<sup>4</sup> Der Bund fördert Massnahmen, um Wildschäden durch Luchse, Bären, Wölfe und Goldschakale zu verhüten.[^10-5]
+
+<sup>5</sup> Das BAFU kann Massnahmen gegen Biber, Fischotter und Adler verfügen, die erheblichen Schaden anrichten.[^10-6]
+
+<sup>6</sup> …[^10-7]
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 28. März 2001, in Kraft seit 15. April 2001 ([AS 2001 1005](https://fedlex.data.admin.ch/eli/oc/2001/143)).
 [^10-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4315](https://fedlex.data.admin.ch/eli/oc/2013/767)).
-[^10-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4315](https://fedlex.data.admin.ch/eli/oc/2013/767)).
-[^10-4]: Fassung gemäss Ziff. I der V vom 15. Jan. 2003, in Kraft seit 1. Febr. 2003 ([AS 2003 269](https://fedlex.data.admin.ch/eli/oc/2003/48)).
-[^10-5]: Aufgehoben durch Ziff. I der V vom 27. Juni 2012, mit Wirkung seit 15. Juli 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
+[^10-3]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^10-4]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^10-5]: Fassung gemäss Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4315](https://fedlex.data.admin.ch/eli/oc/2013/767)).
+[^10-6]: Fassung gemäss Ziff. I der V vom 15. Jan. 2003, in Kraft seit 1. Febr. 2003 ([AS 2003 269](https://fedlex.data.admin.ch/eli/oc/2003/48)).
+[^10-7]: Aufgehoben durch Ziff. I der V vom 27. Juni 2012, mit Wirkung seit 15. Juli 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
 
 #### Art. 10<sup>bis</sup>
 
@@ -452,7 +474,7 @@ Das BAFU fördert den Herdenschutz mit Hunden, die:
 - a. zu einer Rasse gehören, die für den Herdenschutz geeignet ist;
 - b. für den Herdenschutz fachgerecht gezüchtet, ausgebildet, gehalten und eingesetzt werden;
 - c. hauptsächlich für das Bewachen von Nutztieren eingesetzt werden, deren Haltung oder Sömmerung nach der Direktzahlungsverordnung vom 23. Oktober 2013[^10quater-2] gefördert wird; und
-- d.[^10quater-3] ...
+- d.[^10quater-3] …
 
 <sup>3</sup> Das BAFU erlässt nach Anhörung des BLV Richtlinien zu Eignung, Zucht, Ausbildung, Haltung und Einsatz von geförderten Herdenschutzhunden.[^10quater-4]
 
@@ -593,7 +615,7 @@ Die Vollziehungsverordnung vom 7. Juni 1971[^19-1] zum Bundesgesetz über Jagd u
 
 **Änderung bisherigen Rechts**
 
-...[^20-1]
+…[^20-1]
 
 [^20-1]: Die Änderungen können unter [AS 1988 517](https://fedlex.data.admin.ch/eli/oc/1988/517_517_517)konsultiert werden.
 
@@ -609,7 +631,7 @@ Die Vollziehungsverordnung vom 7. Juni 1971[^19-1] zum Bundesgesetz über Jagd u
 
 Diese Verordnung tritt am 1. April 1988 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 8<sup>bis</sup> Abs. 2)
 
@@ -645,7 +667,7 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 8<sup>bis</sup> Abs. 2)
 

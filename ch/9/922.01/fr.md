@@ -4,11 +4,11 @@ title: "Ordonnance du 29 février 1988 sur la chasse et la protection des mammif
 short: OChP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/517_517_517"
 language: fr
-version: 2021-07-15
+version: 2023-07-01
 adopted: 1988-02-29
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20210715/fr/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20210715-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20210715/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20210715/fr"
 
 (Ordonnance sur la chasse, OChP)
 
-du 29 février 1988 (Etat le 15 juillet 2021)
+du 29 février 1988 (État le 1<sup>er</sup> juillet 2023)
 
 Le Conseil fédéral suisse,
 
@@ -178,23 +178,27 @@ Dans leur proposition, les cantons indiquent à l’OFEV:[^4-6]
 
 **Régulation du loup**[^4bis-1]
 
-<sup>1</sup> Le loup ne peut être régulé que si la meute concernée s’est reproduite avec succès pendant l’année durant laquelle la régulation a été autorisée. La régulation se fait par le tir de jeunes animaux. Le nombre d’individus abattus ne doit pas dépasser la moitié des jeunes animaux nés l’année en question.[^4bis-2]
+<sup>1</sup> Le loup ne peut être régulé que si la meute concernée s’est reproduite avec succès pendant l’année durant laquelle la régulation a été autorisée. La régulation se fait par le tir de jeunes animaux. Le nombre d’individus abattus ne doit pas dépasser la moitié des jeunes animaux nés l’année en question. Dans les régions où il y a plus d’une meute de loups, deux tiers au maximum des jeunes animaux nés dans l’année peuvent être abattus.[^4bis-2]
 
-<sup>1bis</sup> À titre exceptionnel, un géniteur particulièrement nuisible peut être abattu de novembre à janvier dans le cadre de la régulation visée à l’al. 1. Un géniteur est considéré comme particulièrement nuisible notamment s’il cause chaque année, durant plusieurs années, au moins deux tiers des dommages au sens de l’al. 2.[^4bis-3]
+<sup>1bis</sup> Les années sans reproduction, un jeune animal né l’année précédente peut être abattu dans les régions où il y a plus d’une meute de loups.[^4bis-3]
 
-<sup>1ter</sup> Les loups doivent être abattus, dans la mesure du possible, à proximité des zones habitées et des troupeaux d’animaux de rente.[^4bis-4]
+<sup>1ter</sup> À titre exceptionnel, un géniteur particulièrement nuisible peut être abattu de novembre à janvier dans le cadre de la régulation visée à l’al. 1. Un géniteur est considéré comme particulièrement nuisible notamment s’il cause chaque année, durant plusieurs années, au moins deux tiers des dommages au sens de l’al. 2.[^4bis-4]
 
-<sup>2</sup> Une régulation lorsque les loups causent des dommages aux animaux de rente est admissible si au moins dix animaux de rente ont été tués en quatre mois sur le territoire d’une meute de loups qui s’est reproduite avec succès.[^4bis-5] Pour l’évaluation des dommages, l’art. 9<sup>bis</sup>, al. 3 et 4, s’applique par analogie.
+<sup>1quater</sup> Les loups doivent être abattus, dans la mesure du possible, à proximité des zones habitées et des troupeaux d’animaux de rente.[^4bis-5]
 
-<sup>3</sup> Une régulation lorsque les loups représentent un grave danger pour l’homme est admissible si, de leur propre initiative, des loups vivant en meute s’approchent régulièrement de zones habitées ou y pénètrent en se montrant trop peu farouches ou agressifs envers l’homme.
+<sup>2</sup> Une régulation en cas de dommages causés aux animaux de rente est admissible si en quatre mois, sur le territoire d’une meute de loups, au moins huit animaux de rente ont été tués ou au moins un bovidé, un équidé ou un camélidé du Nouveau-Monde a été tué ou gravement blessé. Pour l’évaluation des dommages, l’art. 9<sup>bis</sup>, al. 4, s’applique par analogie.[^4bis-6]
+
+<sup>3</sup> Une régulation en cas de grave danger pour l’homme est en particulier admissible si, de leur propre initiative, des loups d’une meute s’approchent régulièrement de zones habitées ou y pénètrent en se montrant trop peu farouches ou agressifs envers l’homme.[^4bis-7]
 
 <sup>4</sup> Les autorisations de tir sont restreintes au territoire de la meute concernée. Elles sont accordées au plus tard le 31 décembre de l’année en question pour une durée limitée au 31 mars de l’année suivante.
 
 [^4bis-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
-[^4bis-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
-[^4bis-3]: Introduit par le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
-[^4bis-4]: Introduit par le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
-[^4bis-5]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^4bis-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-3]: Introduit par le ch. I de l’O du 30 juin 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)). Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-4]: Introduit par le ch. I de l’O du 30 juin 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)). Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-5]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-6]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-7]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 
 #### Art. 4<sup>ter</sup>
 
@@ -343,7 +347,7 @@ Sont compétents:
 
 **Mesures contre des loups isolés**[^9bis-1]
 
-<sup>1</sup> Les cantons peuvent accorder une autorisation de tir pour des loups isolés causant d’importants dommages aux animaux de rente.
+<sup>1</sup> Les cantons peuvent accorder une autorisation de tir pour des loups isolés, qui ne vivent pas en meute, si ceux-ci causent d’importants dommages aux animaux de rente ou représentent un grave danger pour l’homme.[^9bis-2]
 
 <sup>2</sup>
 
@@ -351,20 +355,31 @@ Un loup isolé cause d’importants dommages aux animaux de rente lorsque, sur s
 
 - a. au moins 25 animaux de rente en quatre mois;
 - b. au moins 15 animaux de rente en un mois, ou
-- c. au moins 10 animaux de rente en quatre mois, alors que des congénères ont déjà causé des dommages auparavant.[^9bis-2]
+- c.[^9bis-3] au moins six animaux de rente en quatre mois, alors que des congénères ont déjà causé des dommages auparavant.[^9bis-4]
 
-<sup>3</sup> S’agissant des bovidés, des équidés et des camélidés du Nouveau-Monde, un loup isolé cause d’importants dommages lorsqu’il tue au moins deux animaux de rente en quatre mois.[^9bis-3]
+<sup>3</sup> S’agissant des bovidés, des équidés et des camélidés du Nouveau-Monde, un loup isolé cause d’importants dommages lorsqu’il tue ou blesse gravement au moins un animal de rente.[^9bis-5]
 
-<sup>4</sup> L’évaluation des dommages au sens des al. 2, let. c, et 3 ne tient pas compte des animaux de rente tués dans une région dans laquelle des loups ont déjà causé des dommages qui remontent à plus de quatre mois et dans laquelle aucune mesure de protection raisonnable au sens de l’art. 10<sup>quinquies</sup> n’a été prise.[^9bis-4]
+<sup>4</sup> L’évaluation des dommages au sens des al. 2, let. c, et 3 ne tient pas compte des animaux de rente tués dans une région dans laquelle des loups ont déjà causé des dommages qui remontent à plus de quatre mois et dans laquelle aucune mesure de protection raisonnable au sens de l’art. 10<sup>quinquies</sup> n’a été prise.[^9bis-6]
 
 <sup>5</sup> Les dommages survenant sur le territoire de deux cantons ou plus sont évalués par les cantons concernés de manière coordonnée.
 
-<sup>6</sup> L’autorisation de tir doit servir à empêcher que les animaux de rente ne subissent d’autres dommages. D’une durée limitée à 60 jours, elle est restreinte à un périmètre de tir approprié. Celui-ci correspond au périmètre de l’alpage, si aucune mesure de protection raisonnable ne peut y être prise.
+<sup>6</sup> L’autorisation de tir doit servir à empêcher qu’un loup isolé ne cause d’autres dommages aux animaux de rente ou ne fasse encourir d’autres graves dangers à l’homme.[^9bis-7] D’une durée limitée à 60 jours, elle est restreinte à un périmètre de tir approprié. Celui-ci correspond au périmètre de l’alpage, si aucune mesure de protection raisonnable ne peut y être prise.
 
 [^9bis-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
-[^9bis-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
-[^9bis-3]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^9bis-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^9bis-3]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 [^9bis-4]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^9bis-5]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^9bis-6]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^9bis-7]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+
+#### Art. 9<sup>ter</sup>
+
+**Tir isolé d’un loup d’une meute**[^9ter-1]
+
+Si un loup d’une meute représente un danger important et imminent pour l’homme, les cantons peuvent, en dérogation à l’art. 4, al. 1, autoriser le tir de ce loup sans l’assentiment de l’OFEV.
+
+[^9ter-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 
 #### Art. 10
 
@@ -379,19 +394,26 @@ La Confédération verse aux cantons les indemnités suivantes pour des dégâts
 
 <sup>2</sup> Les cantons déterminent le montant du dégât et ses causes.
 
-<sup>3</sup> La Confédération ne verse l’indemnité que si le canton prend à sa charge les frais restants.
+<sup>3</sup>
 
-<sup>4</sup> La Confédération encourage des mesures prises pour prévenir les dégâts causés par des lynx, des ours, des loups et des chacals dorés.[^10-3]
+La Confédération verse l’indemnité pour les animaux de rente si les conditions suivantes sont réunies:
 
-<sup>5</sup> L’OFEV peut ordonner des mesures contre les castors, les loutres et les aigles si ces animaux causent des dommages importants.[^10-4]
+- a. au moment de l’attaque, les animaux de rente sont correctement enregistrés dans la banque de données sur le trafic des animaux visée à l’art. 45*b* de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^10-3], et
+- b. le canton prend à sa charge les frais restants.[^10-4]
 
-<sup>6</sup> ...[^10-5]
+<sup>4</sup> La Confédération encourage des mesures prises pour prévenir les dégâts causés par des lynx, des ours, des loups et des chacals dorés.[^10-5]
+
+<sup>5</sup> L’OFEV peut ordonner des mesures contre les castors, les loutres et les aigles si ces animaux causent des dommages importants.[^10-6]
+
+<sup>6</sup> ...[^10-7]
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1005](https://fedlex.data.admin.ch/eli/oc/2001/143)).
 [^10-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4315](https://fedlex.data.admin.ch/eli/oc/2013/767)).
-[^10-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4315](https://fedlex.data.admin.ch/eli/oc/2013/767)).
-[^10-4]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2003, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 269](https://fedlex.data.admin.ch/eli/oc/2003/48)).
-[^10-5]: Abrogé par le ch. I de l’O du 27 juin 2012, avec effet au 15 juil. 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
+[^10-3]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^10-4]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^10-5]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4315](https://fedlex.data.admin.ch/eli/oc/2013/767)).
+[^10-6]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2003, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 269](https://fedlex.data.admin.ch/eli/oc/2003/48)).
+[^10-7]: Abrogé par le ch. I de l’O du 27 juin 2012, avec effet au 15 juil. 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
 
 #### Art. 10<sup>bis</sup>
 
@@ -612,7 +634,7 @@ L’ordonnance d’exécution de la loi fédérale du 7 juin 1971[^19-1] sur la 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 1988.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 8<sup>bis</sup>, al. 2)
 
@@ -648,7 +670,7 @@ Annexe 1*[^t-1]*
 
 [^annex1-lvlu1-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 8<sup>bis</sup>, al. 2)
 
