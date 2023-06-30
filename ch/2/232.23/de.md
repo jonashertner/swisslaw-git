@@ -3,18 +3,18 @@ sr: "232.23"
 title: Bundesgesetz vom 15. Dezember 1961 zum Schutz von Namen und Zeichen der Organisation der Vereinten Nationen und anderer zwischenstaatlicher Organisationen
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/455_461_475"
 language: de
-version: 2017-01-01
+version: 2023-07-01
 adopted: 1961-12-15
 in_force: 1962-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/455_461_475/20170101/de/xml/fedlex-data-admin-ch-eli-cc-1962-455_461_475-20170101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/455_461_475/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/455_461_475/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1962-455_461_475-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/455_461_475/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz zum Schutz von Namen und Zeichen der Organisation der Vereinten Nationen und anderer zwischenstaatlicher Organisationen
 
-vom 15. Dezember 1961 (Stand am 1. Januar 2017)
+vom 15. Dezember 1961 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -100,14 +100,14 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer:
 - a. vorsätzlich und entgegen den Vorschriften dieses Gesetzes die Namen, Sigel, Wappen, Flaggen oder andere Kennzeichen der in den Artikeln 1–3 genannten zwischenstaatlichen Organisationen oder ein anderes damit verwechselbares Zeichen verwendet;
 - b. solche Kennzeichen auf Geschäftsschildern, Anzeigen, Prospekten, Geschäftspapieren, Internetseiten oder dergleichen anbringt oder sie auf Waren oder ihrer Verpackung anbringt oder so gekennzeichnete Waren verkauft, feilhält, ein-, aus- oder durchführt oder sonst in Verkehr setzt.[^7-1]
 
-<sup>1bis</sup> Handelt der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden. In leichten Fällen oder wenn der Täter fahrlässig gehandelt hat, kann auf Busse erkannt werden.[^7-2]
+<sup>1bis</sup> Handelt der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. In leichten Fällen oder wenn der Täter fahrlässig gehandelt hat, kann auf Busse erkannt werden.[^7-2]
 
 <sup>2</sup> Vorbehalten bleiben überdies strengere Bestimmungen des besonderen Teils des Schweizerischen Strafgesetzbuches[^7-3].
 
 <sup>3</sup> …[^7-4]
 
 [^7-1]: Fassung gemäss Anhang 3 Ziff. II 2 des Wappenschutzgesetzes vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^7-2]: Eingefügt durch Anhang 3 Ziff. II 2 des Wappenschutzgesetzes vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^7-2]: Eingefügt durch Anhang 3 Ziff. II 2 des Wappenschutzgesetzes vom 21. Juni 2013 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Fassung gemäss Ziff. I 11 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^7-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^7-4]: Aufgehoben durch Ziff. II 15 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)3452; [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
