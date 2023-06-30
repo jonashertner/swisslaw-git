@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les limites maximales applica
 short: OPOVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: fr
-version: 2022-10-15
+version: 2023-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20221015/fr/xml/fedlex-data-admin-ch-eli-cc-2017-151-20221015-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20221015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-151-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20221015/fr"
 
 (OPOVA)
 
-du 16 décembre 2016 (État le 15 octobre 2022)
+du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2023)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -254,6 +254,14 @@ Les denrées alimentaires non conformes à la modification du 26 septembre 2022 
 
 [^13c-1]: Introduit par le ch. I de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
 
+#### Art. 13d
+
+**Disposition transitoire de la modification du 31 mai 2023**[^13d-1]
+
+Les denrées alimentaires non conformes à la modification du 31 mai 2023 peuvent encore être importées et fabriquées selon l’ancien droit jusqu’au 1<sup>er</sup> janvier 2024 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^13d-1]: Introduit par le ch. I de l’O de l’OSAV du 31 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)).
+
 #### Art. 14
 
 **Entrée en vigueur**
@@ -299,8 +307,8 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 30 juin 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)) et le ch. II al. 1 de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/563](https://fedlex.data.admin.ch/eli/oc/2022/563) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 30 juin 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), le ch. II al. 1 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)) et ch. II de l’O de l’OSAV du 31 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/289](https://fedlex.data.admin.ch/eli/oc/2023/289) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-3]
 

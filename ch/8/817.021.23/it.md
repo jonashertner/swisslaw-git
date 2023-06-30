@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 concernente i livelli massimi per 
 short: OAOVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: it
-version: 2022-10-15
+version: 2023-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20221015/it/xml/fedlex-data-admin-ch-eli-cc-2017-151-20221015-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20221015/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2017-151-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20221015/it"
 
 (OAOVA)
 
-del 16 dicembre 2016 (Stato 15 ottobre 2022)
+del 16 dicembre 2016 (Stato 1° luglio 2023)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -252,6 +252,14 @@ Le derrate alimentari non conformi alla modifica del 26 settembre 2022 possono e
 
 [^13c-1]: Introdotto dal n. I dell’O dell’USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
 
+#### Art. 13d
+
+**Disposizione transitoria della modifica del 31 maggio 2023**[^13d-1]
+
+Le derrate alimentari non conformi alla modifica del 31 maggio 2023 possono essere importate e fabbricate secondo il diritto anteriore fino al 1° gennaio 2024 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^13d-1]: Introdotto dal n. I dell’O dell’USAV del 31 mag. 2023, in vigore dal 1° lug. 2023 (RU **202****3** 289).
+
 #### Art. 14
 
 **Entrata in vigore**
@@ -297,8 +305,8 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Aggiornato dal n. I cpv. 1 dell’O dell’USAV del 30 giu. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)) e dal n. II cpv. 1 dell’O dell’USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/563](https://fedlex.data.admin.ch/eli/oc/2022/563) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Aggiornato dal n. I cpv. 1 dell’O dell’USAV del 30 giu. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), dal n. II cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)) e dal n. II dell’O dell’USAV del 31 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/289](https://fedlex.data.admin.ch/eli/oc/2023/289) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-3]
 

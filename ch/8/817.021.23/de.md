@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über die Höchstgehalte für Pe
 short: VPRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: de
-version: 2022-10-15
+version: 2023-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20221015/de/xml/fedlex-data-admin-ch-eli-cc-2017-151-20221015-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20221015/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2017-151-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20221015/de"
 
 (VPRH)
 
-vom 16. Dezember 2016 (Stand am 15. Oktober 2022)
+vom 16. Dezember 2016 (Stand am 1. Juli 2023)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -169,7 +169,7 @@ Unter Anhang 1 fallende Erzeugnisse dürfen nicht in Verkehr gebracht werden, we
 - a. die in Anhang 2 festgelegten Rückstandshöchstgehalte, einschliesslich der Rückstandhöchstgehalte für verarbeitet und vermischte Erzeugnisse nach Artikel 5;
 - b. 0,01 mg/kg bei Erzeugnissen, die in Anhang 1 einen EU-Code haben und Buchstabe a nicht entsprechen, sofern die betreffenden Wirkstoffe nicht in Anhang 3 aufgeführt sind.
 
-<sup>2</sup> ...[^8-1]
+<sup>2</sup> …[^8-1]
 
 <sup>3</sup>
 
@@ -213,7 +213,7 @@ Erzeugnisse, die die Pestizidrückstandswerte nach Artikel 8 Absatz 1 nicht einh
 
 Die Verordnung des EDI vom 26. Juni 1995[^12-1] über Fremd- und Inhaltsstoffe in Lebensmitteln wird aufgehoben.
 
-[^12-1]: [[AS 1995 2893](https://fedlex.data.admin.ch/eli/oc/1995/2893_2893_2893), [2002 955](https://fedlex.data.admin.ch/eli/oc/2002/172), [2005 5749](https://fedlex.data.admin.ch/eli/oc/2005/793), [2008 793](https://fedlex.data.admin.ch/eli/oc/2008/196)[4475](https://fedlex.data.admin.ch/eli/oc/2008/623)[6027](https://fedlex.data.admin.ch/eli/oc/2008/834), [2009 4741](https://fedlex.data.admin.ch/eli/oc/2009/557), [2011 1985](https://fedlex.data.admin.ch/eli/oc/2011/291), [2012 2147](https://fedlex.data.admin.ch/eli/oc/2012/278), [2013 4715](https://fedlex.data.admin.ch/eli/oc/2013/833), [2015 3219](https://fedlex.data.admin.ch/eli/oc/2015/600)]
+[^12-1]: [[AS 1995 2893](https://fedlex.data.admin.ch/eli/oc/1995/2893_2893_2893); [2002 955](https://fedlex.data.admin.ch/eli/oc/2002/172); [2005 5749](https://fedlex.data.admin.ch/eli/oc/2005/793); [2008 793](https://fedlex.data.admin.ch/eli/oc/2008/196), [4475](https://fedlex.data.admin.ch/eli/oc/2008/623), [6027](https://fedlex.data.admin.ch/eli/oc/2008/834); [2009 4741](https://fedlex.data.admin.ch/eli/oc/2009/557); [2011 1985](https://fedlex.data.admin.ch/eli/oc/2011/291); [2012 2147](https://fedlex.data.admin.ch/eli/oc/2012/278); [2013 4715](https://fedlex.data.admin.ch/eli/oc/2013/833); [2015 3219](https://fedlex.data.admin.ch/eli/oc/2015/600)]
 
 #### Art. 13
 
@@ -248,6 +248,14 @@ Lebensmittel, die der Änderung vom 12. März 2018 nicht genügen, dürfen noch 
 Lebensmittel, die der Änderung vom 26. September 2022 nicht entsprechen, dürfen noch bis zum 14. April 2023 nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
 
 [^13c-1]: Eingefügt durch Ziff. I der V des BLV vom 26. Sept. 2022, in Kraft seit 15. Oktober 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
+
+#### Art. 13d
+
+**Übergangsbestimmung zur Änderung vom 31. Mai 2023**[^13d-1]
+
+Lebensmittel, die der Änderung vom 31. Mai 2023 nicht entsprechen, dürfen noch bis zum 1. Januar 2024 nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^13d-1]: Eingefügt durch Ziff. I der V des BLV vom 31. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)).
 
 #### Art. 14
 
@@ -294,8 +302,8 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)) und Ziff. II Abs.1 vom 26. Sept. 2022, in Kraft seit 15. Oktober 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröf-fentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/563](https://fedlex.data.admin.ch/eli/oc/2022/563) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), Ziff. II Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)) und Ziff. II der V des BLV vom 31. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/289](https://fedlex.data.admin.ch/eli/oc/2023/289) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-3]
 
