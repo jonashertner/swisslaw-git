@@ -4,11 +4,11 @@ title: "Loi du 21 mars 2003 sur l'énergie nucléaire (LENu)"
 short: LENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-723-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20220101/fr"
 
 (LENu)
 
-du 21 mars 2003 (Etat le 1<sup>er</sup> janvier 2022)
+du 21 mars 2003 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1246,11 +1246,7 @@ Les cantons peuvent prélever des émoluments auprès des détenteurs d’instal
 
 La Confédération peut verser des contributions à des organisations internationales actives dans le domaine de l’utilisation pacifique de l’énergie nucléaire, notamment en faveur de la non-prolifération des armements nucléaires, de la sécurité, de la santé et de l’environnement et participer à des projets internationaux.
 
-## Chapitre 9 Dispositions pénales****
-
-[^chap9-1]
-
-[^chap9-1]: A partir du 1<sup>er janv.</sup> 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+## Chapitre 9 Dispositions pénales
 
 #### Art. 88
 
@@ -1258,15 +1254,19 @@ La Confédération peut verser des contributions à des organisations internatio
 
 <sup>1</sup>
 
-Sera puni de l’emprisonnement ou de l’amende jusqu’à 500 000 francs quiconque, intentionnellement:
+Est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire quiconque, intentionnellement:[^88-1]
 
 - a. fabrique ou livre des composants défectueux qui sont destinés à une centrale nucléaire et qui sont déterminants pour la sécurité nucléaire ou la sûreté;
 - b. dans une installation nucléaire, endommage, supprime, rend inutilisable, actionne en violation des prescriptions ou met hors service, omet d’installer ou ne met pas en état de fonctionner un dispositif déterminant pour la sécurité nucléaire ou pour la sûreté;
 - c. en manipulant des matières nucléaires ou des déchets radioactifs, néglige de prendre les mesures de protection qui sont déterminantes pour assurer la sécurité nucléaire ou la sûreté.
 
-<sup>2</sup> Quiconque met sciemment en danger la vie ou la santé d’un grand nombre de personnes ou des biens d’une valeur considérable appartenant à des tiers sera puni de la réclusion. Il pourra en outre être condamné à une amende de 500 000 francs au plus.
+<sup>2</sup> Quiconque met sciemment en danger la vie ou la santé d’un grand nombre de personnes ou des biens d’une valeur considérable appartenant à des tiers est puni d’une peine privative de liberté d’un an au moins.[^88-2]
 
-<sup>3</sup> Si l’auteur de l’infraction agit par négligence, il sera puni de l’emprisonnement ou d’une amende de 100 000 francs au plus.
+<sup>3</sup> L’auteur est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire s’il agit par négligence.[^88-3]
+
+[^88-1]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^88-2]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^88-3]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 89
 
@@ -1274,20 +1274,23 @@ Sera puni de l’emprisonnement ou de l’amende jusqu’à 500 000 francs quico
 
 <sup>1</sup>
 
-Sera puni de l’emprisonnement ou d’une amende de 1 million de francs au plus quiconque, intentionnellement:
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement:[^89-1]
 
 - a. manipule sans autorisation des articles nucléaires ou des déchets radioactifs, ou ne respecte pas les conditions et les charges fixées dans l’autorisation;
 - b. dans une requête, donne des indications fausses ou incomplètes alors qu’elles sont essentielles pour l’octroi de l’autorisation, ou utilise une telle requête rédigée par un tiers;
-- c.[^89-1] ne déclare pas ou déclare de manière inexacte des articles nucléaires ou des déchets radioactifs destinés à l’importation, à l’exportation ou au transit;
+- c.[^89-2] ne déclare pas ou déclare de manière inexacte des articles nucléaires ou des déchets radioactifs destinés à l’importation, à l’exportation ou au transit;
 - d. personnellement ou par personne interposée, livre, transmet ou procure à titre d’intermédiaire des articles nucléaires ou des déchets radioactifs à un acquéreur final ou à un lieu de destination autre que celui qui est mentionné dans l’autorisation;
 - e. fait parvenir des articles nucléaires ou des déchets radioactifs à une personne dont il sait ou doit présumer qu’elle les transmettra, directement ou non, à un acquéreur final non autorisé à les recevoir;
 - f. participe aux opérations de paiement d’un trafic d’articles nucléaires ou de déchets radioactifs, ou sert d’intermédiaire dans le financement d’une telle affaire.
 
-<sup>2</sup> Dans les cas graves, la peine sera la réclusion pour dix ans au plus. Elle pourra être assortie d’une amende de 5 millions de francs au plus.
+<sup>2</sup> Dans les cas graves, l’auteur est puni d’une peine privative de liberté d’un à dix ans.[^89-3]
 
-<sup>3</sup> Si l’auteur de l’infraction agit par négligence, il sera puni de l’emprisonnement de six mois au plus ou d’une amende de 100 000 francs au plus.
+<sup>3</sup> L’auteur est puni d’une peine pécuniaire s’il agit par négligence.[^89-4]
 
-[^89-1]: Nouvelle teneur selon l’annexe ch. 13 de la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^89-1]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^89-2]: Nouvelle teneur selon l’annexe ch. 13 de la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^89-3]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^89-4]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 90
 
@@ -1295,16 +1298,23 @@ Sera puni de l’emprisonnement ou d’une amende de 1 million de francs au plus
 
 <sup>1</sup>
 
-Sera puni de l’emprisonnement ou d’une amende de 500 000 francs au plus quiconque, intentionnellement:
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement:[^90-1]
 
 - a. construit ou exploite une installation nucléaire sans autorisation;
 - b. contrevient aux obligations liées à l’autorisation d’exploiter une installation nucléaire (art. 22 et 38), à la désaffectation (art. 26) ou à l’évacuation des déchets radioactifs ou à la fermeture d’un dépôt en profondeur (art. 31 et 39, al. 1 et 2);
 - c. accomplit sans autorisation des actes portant atteinte à la zone de protection d’un dépôt en profondeur;
 - d. accomplit un acte soumis au permis d’exécution sans l’avoir obtenu.
 
-<sup>2</sup> Si l’auteur de l’infraction a agi par négligence, il sera puni de l’emprisonnement de six mois au plus ou d’une amende de 100 000 francs au plus.
+<sup>2</sup> L’auteur est puni d’une peine pécuniaire s’il agit par négligence.[^90-2]
 
-<sup>3</sup> Quiconque, intentionnellement ou par négligence, accomplit sans autorisation d’autres actes soumis au régime de l’autorisation en vertu de la présente loi ou d’une ordonnance d’exécution sera puni de l’emprisonnement de six mois au plus ou d’une amende de 100 000 francs au plus.
+<sup>3</sup> Quiconque, intentionnellement, accomplit sans autorisation d’autres actes soumis au régime de l’autorisation en vertu de la présente loi ou d’une ordonnance d’exécution est puni d’une peine pécuniaire.[^90-3]
+
+<sup>4</sup> L’auteur est puni d’une amende de 100 000 francs au plus s’il agit par négligence.[^90-4]
+
+[^90-1]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-2]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-3]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-4]: Introduit par le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 91
 
@@ -1312,20 +1322,25 @@ Sera puni de l’emprisonnement ou d’une amende de 500 000 francs au plus quic
 
 <sup>1</sup>
 
-Sera puni de l’emprisonnement ou d’une amende de 500 000 francs au plus quiconque, intentionnellement:
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement:[^91-1]
 
 - a. pour les révéler ou les rendre accessibles à des personnes non autorisées ou pour en faire usage lui-même de manière illicite, espionne des faits ou des dispositifs tenus secrets et destinés à protéger les installations nucléaires, les matières nucléaires et les déchets radioactifs contre les atteintes de tiers et contre les conséquences de la guerre;
 - b. révèle ou rend accessibles de tels faits ou de tels dispositifs à des personnes non autorisées.
 
-<sup>2</sup> Si l’auteur de l’infraction agit par négligence, il sera puni de l’emprisonnement de six mois au plus ou d’une amende de 100 000 francs au plus.
+<sup>2</sup> L’auteur est puni d’une peine pécuniaire s’il agit par négligence.[^91-2]
+
+[^91-1]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^91-2]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 92
 
-**Abandon de la possession**
+**Abandon de la possession**[^92-1]
 
-<sup>1</sup> Quiconque abandonne intentionnellement la possession de matières nucléaires ou de déchets radioactifs sans y être autorisé sera puni de l’emprisonnement ou d’une amende de 100 000 francs au plus.
+<sup>1</sup> Quiconque abandonne intentionnellement la possession de matières nucléaires ou de déchets radioactifs sans y être autorisé est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-<sup>2</sup> Si l’auteur de l’infraction agit par négligence, il sera puni de l’emprisonnement de six mois au plus ou de l’amende.
+<sup>2</sup> L’auteur est puni d’une peine pécuniaire s’il agit par négligence.
+
+[^92-1]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 93
 
@@ -1333,7 +1348,7 @@ Sera puni de l’emprisonnement ou d’une amende de 500 000 francs au plus quic
 
 <sup>1</sup>
 
-Sera puni des arrêts ou d’une amende de 100 000 francs au plus quiconque, intentionnellement:
+Est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement:[^93-1]
 
 - a. refuse de donner des informations, de fournir des documents, d’accorder l’accès aux locaux de l’entreprise et la consultation des pièces conformément à l’art. 73, ou qui donne de fausses indications à ce sujet;
 - b. contrevient à l’obligation de faire une déclaration, un contrôle ou une comptabilité ou d’établir un dossier imposés par la présente loi ou par une ordonnance d’exécution;
@@ -1341,7 +1356,10 @@ Sera puni des arrêts ou d’une amende de 100 000 francs au plus quiconque, int
 
 <sup>2</sup> La tentative et la complicité sont punissables.
 
-<sup>3</sup> Si le contrevenant agit par négligence, il sera puni d’une amende de 40 000 francs au plus.
+<sup>3</sup> L’auteur est puni d’une amende de 40 000 francs au plus s’il agit par négligence.[^93-2]
+
+[^93-1]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^93-2]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 94
 
@@ -1361,9 +1379,11 @@ L’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administrati
 
 #### Art. 96
 
-**Prescription des contraventions**
+**Prescription des contraventions**[^96-1]
 
-Les contraventions à la présente loi se prescrivent par cinq ans. L’action pénale est en tout cas prescrite lorsque le délai ordinaire est dépassé de moitié.
+Les contraventions à la présente loi se prescrivent par cinq ans.
+
+[^96-1]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 97
 
@@ -1385,11 +1405,12 @@ Les valeurs confisquées et les créances compensatrices sont dévolues à la Co
 
 #### Art. 99
 
-**Rapport avec le code pénal**
+**Rapport avec le code pénal**[^99-1]
 
-Au surplus, la confiscation au sens des art. 97 et 98 de la présente loi est régie par les art. 58 et 59 du code pénal[^99-1].
+Au surplus, la confiscation au sens des art. 97 et 98 est régie par les art. 69 à 72 du code pénal[^99-2].
 
-[^99-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Actuellement «art. 69 et 70».
+[^99-1]: Nouvelle teneur selon le ch. I 21 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^99-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 100
 

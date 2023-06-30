@@ -4,11 +4,11 @@ title: Nuclear Energy Act of 21 March 2003 (NEA)
 short: NEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: en
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2004-723-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NEA)
 
-of 21 March 2003 (Status as of 1 January 2022)
+of 21 March 2003 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation
 
@@ -1080,11 +1080,13 @@ The NSC performs the following advisory tasks on behalf of ENSI, the Department 
 
 <sup>3</sup> Manufacturing and business secrecy shall be duly observed.
 
-**Art. 74***a*[^74-1] Reporting on developments in nuclear technology
+#### Art. 74a
+
+**Reporting on developments in nuclear technology**[^74a-1]
 
 The Federal Council shall report regularly to the Federal Assembly on developments in nuclear technology.
 
-[^74-1]: Inserted by Annex No II 7 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^74a-1]: Inserted by Annex No II 7 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 #### Art. 75
 
@@ -1246,102 +1248,120 @@ The cantonal authorities may collect fees from owners of nuclear installations, 
 
 The Confederation may contribute to international organisations and participate in international projects connected with the peaceful use of nuclear energy, and in particular the non-proliferation of nuclear arms, safety, public health and environmental protection.
 
-## Chapter 9 Criminal Provisions****
-
-[^chap9-1]
-
-[^chap9-1]: From 1 Jan. 2007, the penalties and prescriptive periods must be interpreted and/or recalculated in application of Art. 333 paras. 2–6 of the Swiss Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) amended in accordance with the FA of 13 Dec. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+## Chapter 9 Criminal Provisions
 
 #### Art. 88
 
 **Failure to observe safety and security measures**
 
-<sup>1</sup>
+<sup>1</sup> shall be liable to custodial sentence not exceeding five years or to a monetary penalty.[^88-1]
 
-Any person who wilfully commits any of the following offences shall be liable to a term of imprisonment or a fine not exceeding 500,000 Swiss francs:
+Any person who wilfully:
 
-- a. manufacturing or supplying faulty components of a nuclear installation that are important in terms of nuclear safety or security;
-- b. damaging, removing, rendering unusable, using in an improper manner or putting out of operation an installation in a nuclear installation that is important in terms of nuclear safety or security, or failing to install or render such an installation ready for operation;
-- c. failing to observe protective measures that are important in terms of nuclear safety or security when handling nuclear materials or radioactive waste.
+- a. manufactures or supplies faulty components of a nuclear installation that are important in terms of nuclear safety or security;
+- b. damages, removes, renders unusable, uses in an improper manner or puts out of operation an installation in a nuclear installation that is important in terms of nuclear safety or security, or fails to install or render such an installation ready for operation;
+- c. fails to observe protective measures that are important in terms of nuclear safety or security when handling nuclear materials or radioactive waste
 
-<sup>2</sup> Any person who by committing the foregoing offences knowingly endangers the life or health of a number of humans, or causes damage to property of significant value, shall be liable to a term of penal servitude, which may also be combined with a fine not exceeding 500,000 Swiss francs.
+<sup>2</sup> Any person who by committing the foregoing offences knowingly endangers the life or health of a number of human beings, or causes damage to property of significant value, shall be liable to a custodial sentence of not less than one year.[^88-2]
 
-<sup>3</sup> If the offender has acted negligently, he shall be liable to a term of imprisonment or a fine not exceeding 100,000 Swiss francs.
+<sup>3</sup> If the offender acts through negligence, the penalty shall be a custodial sentence not exceeding three years or a monetary penalty.[^88-3]
+
+[^88-1]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^88-2]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^88-3]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 89
 
 **Offences involving nuclear goods and radioactive waste**
 
-<sup>1</sup>
+<sup>1</sup> shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^89-1]
 
-Any person who wilfully commits any of the following offences shall be liable to a term of imprisonment or a fine not exceeding 1 million Swiss francs:
+Any person who wilfully:
 
-- a. handling nuclear goods or radioactive waste without holding the necessary licence, or failing to comply with the conditions or requirements stipulated in a licence;
-- b. when applying for a licence, providing essential information that is incomplete or false, or using an application that has been completed by a third party;
-- c.[^89-1] failing to declare or incorrectly declaring nuclear goods or radioactive waste when importing, exporting or conveying such matter in transit;
-- d. actively or passively supplying, transferring or brokering nuclear goods or radioactive waste to another end-user or destination than the one named in the licence;
-- e. supplying a person with nuclear goods or radioactive waste even though it is known or has to be assumed that the person concerned will directly or indirectly pass them on unlawfully to an end-user;
-- f. participating in the financing of an illegal transaction with nuclear goods or radioactive waste, or mediating in the financing of such a transaction.
+- a. handles nuclear goods or radioactive waste without holding the necessary licence, or fails to comply with the conditions or requirements stipulated in a licence;
+- b. when applying for a licence, provides essential information that is incomplete or false, or uses an application that has been completed by a third party;
+- c.[^89-2] fails to declare or incorrectly declares nuclear goods or radioactive waste when importing, exporting or conveying such matter in transit;
+- d. actively or passively supplies, transfers or brokers nuclear goods or radioactive waste to another end-user or destination than the one named in the licence;
+- e. supplies a person with nuclear goods or radioactive waste even though it is known or has to be assumed that the person concerned will directly or indirectly pass them on unlawfully to an end-user;
+- f. participates in the financing of an illegal transaction with nuclear goods or radioactive waste, or mediates in the financing of such a transaction
 
-<sup>2</sup> In serious cases, the penalty shall be a term of penal servitude not exceeding ten years. This penalty may also be combined with a fine not exceeding 5 million Swiss francs.
+<sup>2</sup> In serious cases, the penalty shall be a custodial sentence of between one and ten years.[^89-3]
 
-<sup>3</sup> If the offender has acted negligently, he shall be liable to a term of imprisonment not exceeding six months, or a fine not exceeding 100,000 Swiss francs.
+<sup>3</sup> If the offender acts through negligence, he shall be liable to a monetary penalty.[^89-4]
 
-[^89-1]: Amended by Annex No 13 of the Customs Act of 18 March 2005, in force since 1 May 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^89-1]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^89-2]: Amended by Annex No 13 of the Customs Act of 18 March 2005, in force since 1 May 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^89-3]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^89-4]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 90
 
 **Failure to fulfil the licence obligations for nuclear installations**
 
-<sup>1</sup>
+<sup>1</sup> shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^90-1]
 
-Any person who wilfully commits any of the following offences shall be liable to a term of imprisonment or a fine not exceeding 500,000 Swiss francs:
+Any person who wilfully:
 
-- a. constructing or operating a nuclear installation without a licence;
-- b. failing to fulfil the obligations arising from an operating licence for a nuclear installation (Articles 22 and 38), decommissioning obligations (Article 26) or the obligations associated with the disposal of radioactive waste and the sealing of a deep geological repository (Article 31 and Article 39, paragraphs 1 and 2);
-- c. carrying out operations that affect the protection zone of a deep geological repository, without holding the necessary licence;
-- d. carrying out an activity that requires a permit, without first obtaining the necessary permit.
+- a. constructs or operates a nuclear installation without a licence;
+- b. fails to fulfil the obligations arising from an operating licence for a nuclear installation (Articles 22 and 38), decommissioning obligations (Article 26) or the obligations associated with the disposal of radioactive waste and the sealing of a deep geological repository (Article 31 and Article 39, paragraphs 1 and 2);
+- c. carries out operations that affect the protection zone of a deep geological repository without holding the necessary licence;
+- d. carries out an activity that requires a permit without first obtaining the necessary permit.
 
-<sup>2</sup> If the offender has acted negligently, he shall be liable to a term of imprisonment not exceeding six months, or a fine not exceeding 100,000 Swiss francs.
+<sup>2</sup> If the offender acts through negligence, he shall be liable to a monetary penalty.[^90-2]
 
-<sup>3</sup> Any person who wilfully or negligently carries out other activities that are subject to the granting of a licence in accordance with the provisions of this Act or an implementing ordinance, but who does not hold the requisite licence, shall be liable to a term of imprisonment not exceeding six months or a fine not exceeding 100,000 Swiss francs.
+<sup>3</sup> Any person who wilfully carries out other activities that are subject to the granting of a licence in accordance with the provisions of this Act or an implementing ordinance, but who does not hold the requisite licence, shall be liable to a monetary penalty.[^90-3]
+
+<sup>4</sup> If the offender acts through negligence, the penalty shall be a fine not exceeding 100,000 francs.[^90-4]
+
+[^90-1]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-2]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-3]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-4]: Inserted by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 91
 
 **Breach of secrecy**
 
-<sup>1</sup>
+<sup>1</sup> shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^91-1]
 
-Any person who wilfully commits any of the following offences shall be liable to a term of imprisonment or a fine not exceeding 500,000 Swiss francs:
+Any person who wilfully:
 
-- a. obtaining details of secret facts or precautionary measures aimed at protecting nuclear installations, nuclear materials or radioactive waste against intervention by third parties or the effects of armed conflicts, in order to make them known, or make them accessible to unauthorised parties, or to use the information thus obtained themselves in an unauthorised manner;
-- b. making such facts or measures known or making them accessible to unauthorised parties.
+- a. obtains details of secret facts or precautionary measures aimed at protecting nuclear installations, nuclear materials or radioactive waste against intervention by third parties or the effects of armed conflicts, in order to make them known, or make them accessible to unauthorised parties, or to use the information thus obtained themselves in an unauthorised manner;
+- b. makes such facts or measures known or makes them accessible to unauthorised parties
 
-<sup>2</sup> If the offender has acted negligently, he shall be liable to a term of imprisonment not exceeding six months or a fine not exceeding 100,000 Swiss francs.
+<sup>2</sup> If the offender acts through negligence, he shall be liable to a monetary penalty.[^91-2]
+
+[^91-1]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^91-2]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 92
 
-**Surrendering ownership**
+**Surrendering ownership**[^92-1]
 
-<sup>1</sup> Any person who wilfully surrenders ownership of nuclear materials or radioactive waste without the necessary authorisation to do so shall be liable to a term of imprisonment or a fine not exceeding 100,000 Swiss francs.
+<sup>1</sup> Any person who wilfully surrenders ownership of nuclear materials or radioactive waste without the necessary authorisation to do so shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>2</sup> If the offender has acted negligently, he shall be liable to a term of imprisonment not exceeding six months or a fine.
+<sup>2</sup> If the offender acts through negligence, he shall be liable to a monetary penalty.
+
+[^92-1]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 93
 
 **Contraventions**
 
-<sup>1</sup>
+<sup>1</sup> shall be liable to a fine not exceeding 100,000 francs.[^93-1]
 
-Any person who wilfully commits any of the following contraventions shall be liable to a term of imprisonment or a fine not exceeding 100,000 Swiss francs:
+Any person who wilfully:
 
-- a. refusing to provide information, submit documentation or permit access to business premises or inspection of documentation in accordance with Article 73, or giving false information in this regard;
-- b. failing to comply with a reporting obligation, an auditing and accounting obligation or an obligation to keep records in accordance with this Act, or infringing against an implementing ordinance;
-- c. infringing in any other way a provision of this Act or of an implementing regulation if the contravention thereof is declared to be an offence, or against a ruling if infringement thereof is declared punishable by law, where no unlawful behaviour is involved in accordance with another criminal offence.
+- a. refuses to provide information, submit documentation or permit access to business premises or inspection of documentation in accordance with Article 73, or gives false information in this regard;
+- b. fails to comply with a reporting obligation, an auditing and accounting obligation or an obligation to keep records in accordance with this Act, or infringes an implementing ordinance;
+- c. infringes in any other way a provision of this Act or of an implementing regulation if the contravention thereof is declared to be an offence, or of a ruling issued with a reference to the penalties under this Article, where no unlawful conduct is involved that constitutes another criminal offence
 
 <sup>2</sup> Attempts and aiding and abetting shall also be offences.
 
-<sup>3</sup> If the offender has acted negligently, he shall be liable to a fine not exceeding 40,000 Swiss francs.
+<sup>3</sup> If the offender acts through negligence, he shall be liable to a fine not exceeding 40,000 francs.[^93-2]
+
+[^93-1]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^93-2]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 94
 
@@ -1361,9 +1381,11 @@ For offences in accordance with this Act, Article 6 of the Federal Act of 22 Mar
 
 #### Art. 96
 
-**Prescription of contraventions**
+**Prescription of contraventions**[^96-1]
 
-The prescriptive period for contraventions is five years. This period may not be extended by more than half as the result of interruptions.
+The prescriptive period for contraventions is five years.
+
+[^96-1]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 97
 
@@ -1385,11 +1407,12 @@ Any confiscated assets or substitute claims shall become the property of the Con
 
 #### Art. 99
 
-**Relationship to the Criminal Code**
+**Relationship to the Criminal Code**[^99-1]
 
-Seizure of goods and assets under Articles 97 and 98 above shall also be subject to the provisions of Articles 58 and 59 of the Swiss Criminal Code[^99-1].
+Seizure of goods and assets under Articles 697 and 98 above shall also be subject to the provisions of Articles 69–72 of the Swiss Criminal Code[^99-2].
 
-[^99-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^99-1]: Amended by No I 21 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^99-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 100
 

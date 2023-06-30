@@ -4,11 +4,11 @@ title: "Legge federale del 21 marzo 2003 sull'energia nucleare (LENu)"
 short: LENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: it
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2004-723-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20220101/it"
 
 (LENu)
 
-del 21 marzo 2003 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 21 marzo 2003 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1245,17 +1245,13 @@ I Cantoni possono chiedere emolumenti e il rimborso degli esborsi agli esercenti
 
 La Confederazione può versare, nel campo dello sfruttamento pacifico dell’energia nucleare, segnatamente nei settori della non proliferazione delle armi nucleari, della sicurezza, della sanità e dell’ambiente, contributi a organizzazioni internazionali e partecipare a progetti internazionali.
 
-## Capitolo 9:**** Disposizioni penali
-
-[^chap9-1]
-
-[^chap9-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2–6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+## Capitolo 9: Disposizioni penali
 
 #### Art. 88
 
 **Inosservanza di provvedimenti di sicurezza interna ed esterna**
 
-<sup>1</sup> è punito con la detenzione o con la multa fino a 500 000 franchi.
+<sup>1</sup> è punito con una pena detentiva fino a cinque anni o con una pena pecuniaria.[^88-1]
 
 Chiunque intenzionalmente:
 
@@ -1263,36 +1259,43 @@ Chiunque intenzionalmente:
 - b. danneggia, elimina, rende inservibile, aziona in modo contrario alle prescrizioni, mette fuori esercizio, non installa o non rende pronto all’esercizio un dispositivo di un impianto nucleare, essenziale per la sicurezza interna ed esterna;
 - c. omette di prendere provvedimenti di protezione essenziali per la sicurezza interna ed esterna allorquando manipola materiali nucleari o scorie radioattive,
 
-<sup>2</sup> Chiunque in tal modo causa scientemente un pericolo per la vita o la salute di un numero elevato di persone o per la proprietà altrui di notevole valore, è punito con la reclusione. Con la reclusione può essere cumulata la multa fino a 500 000 franchi.
+<sup>2</sup> Chiunque in tal modo causa scientemente un pericolo per la vita o la salute di un numero elevato di persone o per la proprietà altrui di notevole valore, è punito con una pena detentiva non inferiore a un anno.[^88-2]
 
-<sup>3</sup> Se il colpevole ha agito per negligenza, la pena è della detenzione o della multa fino a 100 000 franchi.
+<sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena detentiva fino a tre anni o una pena pecuniaria.[^88-3]
+
+[^88-1]: Nuovo testo della comminatoria giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^88-2]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^88-3]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 89
 
 **Infrazioni con beni nucleari e scorie radioattive**
 
-<sup>1</sup> è punito con la detenzione o con la multa fino a 1 milione di franchi.
+<sup>1</sup> è punito con una pena detentiva fino a tre anni o con una pena pecuniaria.[^89-1]
 
 Chiunque intenzionalmente:
 
 - a. senza disporre della corrispondente licenza, manipola beni nucleari o scorie radioattive o non rispetta le condizioni o gli oneri stabiliti in una licenza;
 - b. fornisce in una domanda indicazioni errate o incomplete, essenziali per il rilascio di un’autorizzazione o di una licenza, o utilizza una domanda di questo tipo redatta da un terzo;
-- c.[^89-1] non notifica o non notifica correttamente beni nucleari o scorie radioattive per l’importazione, l’esportazione o il transito;
+- c.[^89-2] non notifica o non notifica correttamente beni nucleari o scorie radioattive per l’importazione, l’esportazione o il transito;
 - d. fornisce, cede, procura per intermediazione o per mezzo di un terzo beni nucleari o scorie radioattive a un acquirente finale o a un luogo di destinazione diversi da quelli nominati nella licenza;
 - e. fa pervenire beni nucleari o scorie radioattive a una persona di cui sa o deve presumere che intende trasmetterli direttamente o indirettamente a un acquirente finale al quale la trasmissione sarebbe preclusa;
 - f. partecipa al disbrigo finanziario di un affare illegale relativo a beni nucleari o scorie radioattive o fa da intermediario per il finanziamento,
 
-<sup>2</sup> In casi gravi la pena è della reclusione fino a dieci anni. Con la reclusione può essere cumulata la multa fino a 5 milioni di franchi.
+<sup>2</sup> Nei casi gravi, la pena è una pena detentiva da uno a dieci anni.[^89-3]
 
-<sup>3</sup> Se il colpevole ha agito per negligenza, la pena è della detenzione fino a sei mesi o della multa fino a 100 000 franchi.
+<sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.[^89-4]
 
-[^89-1]: Nuovo testo giusta l’all. n. 13 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^89-1]: Nuovo testo della comminatoria giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^89-2]: Nuovo testo giusta l’all. n. 13 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^89-3]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^89-4]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 90
 
 **Inosservanza degli obblighi di autorizzazione o licenza per impianti nucleari**
 
-<sup>1</sup> è punito con la detenzione o con la multa fino a 500 000 franchi.
+<sup>1</sup> è punito con una pena detentiva fino a tre anni o con una pena pecuniaria.[^90-1]
 
 Chiunque intenzionalmente:
 
@@ -1301,36 +1304,48 @@ Chiunque intenzionalmente:
 - c. senza licenza esegue operazioni con le quali viene toccata l’area di protezione di un deposito in strati geologici profondi;
 - d. effettua un’operazione senza disporre del relativo nullaosta,
 
-<sup>2</sup> Se il colpevole ha agito per negligenza, la pena è della detenzione fino a sei mesi o della multa fino a 100 000 franchi.
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.[^90-2]
 
-<sup>3</sup> Chiunque intenzionalmente o per negligenza effettua senza autorizzazione o licenza altre operazioni che, secondo la presente legge o un’ordinanza di esecuzione, sono soggette ad autorizzazione o licenza è punito con la detenzione fino a sei mesi o con la multa fino a 100 000 franchi.
+<sup>3</sup> Chiunque intenzionalmente effettua senza autorizzazione o licenza altre operazioni che, secondo la presente legge o un’ordinanza di esecuzione, sono soggette ad autorizzazione o licenza è punito con una pena pecuniaria.[^90-3]
+
+<sup>4</sup> Se l’autore ha agito per negligenza, la pena è della multa fino a 100 000 franchi.[^90-4]
+
+[^90-1]: Nuovo testo della comminatoria giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-2]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-3]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-4]: Introdotto dal n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 91
 
 **Violazione del segreto**
 
-<sup>1</sup> è punito con la detenzione o con la multa fino a 500 000 franchi.
+<sup>1</sup> è punito con una pena detentiva fino a tre anni o con una pena pecuniaria.[^91-1]
 
 Chiunque intenzionalmente:
 
 - a. indaga su fatti o provvedimenti segreti che servono alla protezione di impianti nucleari, di materiali nucleari o di scorie radioattive contro effetti dovuti a terzi o contro eventi bellici, per comunicarli o renderli accessibili a persone non autorizzate o per utilizzare egli stesso in modo non autorizzato le conoscenze così acquisite;
 - b. comunica o rende accessibili tali fatti o provvedimenti a persone non autorizzate,
 
-<sup>2</sup> Se il colpevole ha agito per negligenza, la pena è della detenzione fino a sei mesi o della multa fino a 100 000 franchi.
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.[^91-2]
+
+[^91-1]: Nuovo testo della comminatoria giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^91-2]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 92
 
-**Abbandono del possesso**
+**Abbandono del possesso**[^92-1]
 
-<sup>1</sup> Chiunque abbandona intenzionalmente il possesso di materiali nucleari o di scorie radioattive senza esserne autorizzato è punito con la detenzione o con la multa fino a 100 000 franchi.
+<sup>1</sup> Chiunque abbandona intenzionalmente il possesso di materiali nucleari o di scorie radioattive senza esserne autorizzato è punito con una pena detentiva fino a tre anni o con una pena pecuniaria.
 
-<sup>2</sup> Se il colpevole ha agito per negligenza, la pena è della detenzione fino a sei mesi o della multa.
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.
+
+[^92-1]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 93
 
 **Contravvenzioni**
 
-<sup>1</sup> è punito con l’arresto o con la multa fino a 100 000 franchi.
+<sup>1</sup> è punito con la multa fino a 100 000 franchi.[^93-1]
 
 Chiunque intenzionalmente:
 
@@ -1340,7 +1355,10 @@ Chiunque intenzionalmente:
 
 <sup>2</sup> Il tentativo e la complicità sono punibili.
 
-<sup>3</sup> Se l’atto è stato compiuto per negligenza, la pena è della multa fino a 40 000 franchi.
+<sup>3</sup> Se l’autore ha agito per negligenza, la pena è della multa fino a 40 000 franchi.[^93-2]
+
+[^93-1]: Nuovo testo della comminatoria giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^93-2]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 94
 
@@ -1360,9 +1378,11 @@ Alle infrazioni secondo la presente legge è applicabile l’articolo 6 della le
 
 #### Art. 96
 
-**Prescrizione di contravvenzioni**
+**Prescrizione di contravvenzioni**[^96-1]
 
-Il procedimento penale per le contravvenzioni si prescrive in cinque anni. In caso d’interruzione, il termine di prescrizione non può essere prolungato di oltre la metà.
+Il procedimento penale per le contravvenzioni si prescrive in cinque anni.
+
+[^96-1]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 97
 
@@ -1384,11 +1404,12 @@ I valori patrimoniali confiscati e i risarcimenti equivalenti sono devoluti alla
 
 #### Art. 99
 
-**Rapporto con il Codice penale**
+**Rapporto con il Codice penale**[^99-1]
 
-Del rimanente, alla confisca secondo gli articoli 97 e 98 sono applicabili gli articoli 58 e 59 del Codice penale[^99-1].
+Del rimanente, alla confisca secondo gli articoli 97 e 98 sono applicabili gli artico-li 69–72 del Codice penale[^99-2].
 
-[^99-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Ora: art. 69 e 70.
+[^99-1]: Nuovo testo giusta il n. I 21 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^99-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 100
 

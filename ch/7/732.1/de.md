@@ -4,11 +4,11 @@ title: Kernenergiegesetz vom 21. März 2003 (KEG)
 short: KEG
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-723-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2004-723-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20220101/de"
 
 (KEG)
 
-vom 21. März 2003 (Stand am 1. Januar 2022)
+vom 21. März 2003 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -801,7 +801,7 @@ Dem Gesuchsteller steht das Enteignungsrecht zu für:
 
 <sup>2</sup> Das Gesuch ist in den amtlichen Publikationsorganen der betroffenen Kantone und Gemeinden sowie im Bundesblatt zu publizieren und während 30 Tagen öffentlich aufzulegen.
 
-<sup>3</sup> ...[^53-1]
+<sup>3</sup> …[^53-1]
 
 [^53-1]: Aufgehoben durch Anhang Ziff. 11 des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
@@ -848,7 +848,7 @@ Mit der Erteilung der Bewilligung entscheidet das Departement gleichzeitig auch 
 
 <sup>1</sup> Nach Abschluss des Bewilligungsverfahrens wird, soweit erforderlich, das Einigungs- und Schätzungsverfahren vor der Eidgenössischen Schätzungskommission (Schätzungskommission) nach den Bestimmungen des EntG[^58-2] durchgeführt.[^58-3]
 
-<sup>2</sup> ...[^58-4]
+<sup>2</sup> …[^58-4]
 
 <sup>3</sup> Der Präsident der Schätzungskommission kann gestützt auf einen vollstreckbaren Bewilligungsentscheid die vorzeitige Besitzeinweisung bewilligen. Dabei wird vermutet, dass dem Enteigner ohne die vorzeitige Besitzeinweisung bedeutende Nachteile entstünden. Im Übrigen gilt Artikel 76 EntG.
 
@@ -867,7 +867,7 @@ Mit der Erteilung der Bewilligung entscheidet das Departement gleichzeitig auch 
 
 <sup>3</sup> Der von einer Eigentumsbeschränkung Betroffene hat seine Ansprüche innert fünf Jahren nach erfolgter definitiver Anmerkung (Art. 40 Abs. 3) schriftlich beim Inhaber des Lagers anzumelden. Werden die Ansprüche ganz oder teilweise bestritten, so richtet sich das Verfahren nach dem EntG[^59-1].[^59-2]
 
-<sup>4</sup> ...[^59-3]
+<sup>4</sup> …[^59-3]
 
 <sup>5</sup> Die Entschädigung wird vom Zeitpunkt an verzinst, indem die Eigentumsbeschränkung wirksam wird.
 
@@ -1096,7 +1096,7 @@ Der Bundesrat erstattet der Bundesversammlung regelmässig Bericht über die Ent
 
 <sup>3</sup> Die Daten können elektronisch aufbewahrt werden.
 
-### 7. Abschnitt: ...
+### 7. Abschnitt: …
 
 #### Art. 76
 
@@ -1246,11 +1246,7 @@ Die Kantone können von den Inhabern von Kernanlagen, nuklearen Gütern und radi
 
 Der Bund kann auf dem Gebiet der friedlichen Nutzung der Kernenergie, insbesondere in den Bereichen Nichtverbreitung von Kernwaffen, Sicherheit, Gesundheit und Umwelt, Beiträge an internationale Organisationen ausrichten und sich an internationalen Projekten beteiligen.
 
-## 9. Kapitel: Strafbestimmungen****
-
-[^chap9-1]
-
-[^chap9-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
+## 9. Kapitel: Strafbestimmungen
 
 #### Art. 88
 
@@ -1258,15 +1254,19 @@ Der Bund kann auf dem Gebiet der friedlichen Nutzung der Kernenergie, insbesonde
 
 <sup>1</sup>
 
-Mit Gefängnis oder mit Busse bis 500 000 Franken wird bestraft, wer vorsätzlich:
+Mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:[^88-1]
 
 - a. Bestandteile einer Kernanlage, die für die nukleare Sicherheit oder Sicherung wesentlich sind, fehlerhaft herstellt oder liefert;
 - b. in einer Kernanlage eine Vorrichtung, die für die nukleare Sicherheit oder Sicherung wesentlich ist, beschädigt, beseitigt, unbrauchbar macht, vorschriftswidrig betätigt oder ausser Betrieb setzt, nicht anbringt oder nicht betriebsbereit macht;
 - c. beim Umgang mit Kernmaterialien oder radioaktiven Abfällen Schutzmassnahmen, die für die nukleare Sicherheit oder Sicherung wesentlich sind, ausser Acht lässt.
 
-<sup>2</sup> Wer dadurch wissentlich eine Gefahr für das Leben oder die Gesundheit vieler Menschen oder für fremdes Eigentum von erheblichem Wert verursacht, wird mit Zuchthaus bestraft. Damit kann eine Busse bis zu 500 000 Franken verbunden werden.
+<sup>2</sup> Wer dadurch wissentlich eine Gefahr für das Leben oder die Gesundheit vieler Menschen oder für fremdes Eigentum von erheblichem Wert verursacht, wird mit Freiheitsstrafe nicht unter einem Jahr bestraft.[^88-2]
 
-<sup>3</sup> Handelt der Täter fahrlässig, so ist die Strafe Gefängnis oder Busse bis zu 100 000 Franken.
+<sup>3</sup> Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.[^88-3]
+
+[^88-1]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^88-2]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^88-3]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 89
 
@@ -1274,20 +1274,23 @@ Mit Gefängnis oder mit Busse bis 500 000 Franken wird bestraft, wer vorsätzlic
 
 <sup>1</sup>
 
-Mit Gefängnis oder mit Busse bis zu 1 Million Franken wird bestraft, wer vorsätzlich:
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:[^89-1]
 
 - a. ohne entsprechende Bewilligung mit nuklearen Gütern oder radioaktiven Abfällen umgeht oder die in einer Bewilligung festgesetzten Bedingungen oder Auflagen nicht einhält;
 - b. in einem Gesuch Angaben, die für die Erteilung einer Bewilligung wesentlich sind, unrichtig oder unvollständig macht oder ein von einem Dritten verfasstes Gesuch dieser Art verwendet;
-- c.[^89-1] nukleare Güter oder radioaktive Abfälle nicht oder nicht richtig zur Ein-, Aus- oder Durchfuhr anmeldet;
+- c.[^89-2] nukleare Güter oder radioaktive Abfälle nicht oder nicht richtig zur Ein-, Aus- oder Durchfuhr anmeldet;
 - d. nukleare Güter oder radioaktive Abfälle an einen anderen als an den in der Bewilligung genannten Enderwerber oder Bestimmungsort liefert, überträgt, vermittelt oder dies tun lässt;
 - e. jemandem nukleare Güter oder radioaktive Abfälle zukommen lässt, von dem er weiss oder annehmen muss, dass er sie direkt oder indirekt an einen Enderwerber weiterleitet, an den dies nicht zulässig wäre;
 - f. bei der finanziellen Abwicklung eines illegalen Geschäfts mit nuklearen Gütern oder radioaktiven Abfällen mitwirkt oder dessen Finanzierung vermittelt.
 
-<sup>2</sup> In schweren Fällen ist die Strafe Zuchthaus bis zu zehn Jahren. Damit kann eine Busse bis zu 5 Millionen Franken verbunden werden.
+<sup>2</sup> In schweren Fällen ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren.[^89-3]
 
-<sup>3</sup> Handelt der Täter fahrlässig, so ist die Strafe Gefängnis bis zu sechs Monaten oder Busse bis zu 100 000 Franken.
+<sup>3</sup> Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe.[^89-4]
 
-[^89-1]: Fassung gemäss Anhang Ziff. 13 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^89-1]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^89-2]: Fassung gemäss Anhang Ziff. 13 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^89-3]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^89-4]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 90
 
@@ -1295,16 +1298,23 @@ Mit Gefängnis oder mit Busse bis zu 1 Million Franken wird bestraft, wer vorsä
 
 <sup>1</sup>
 
-Mit Gefängnis oder mit Busse bis 500 000 Franken wird bestraft, wer vorsätzlich:
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:[^90-1]
 
 - a. ohne Bewilligung eine Kernanlage erstellt oder betreibt;
 - b. die Pflichten aus einer Betriebsbewilligung einer Kernanlage (Art. 22 und 38), die Stilllegungspflichten (Art. 26) oder die Pflicht zur Entsorgung der radioaktiven Abfälle und zum Verschluss eines geologischen Tiefenlagers (Art. 31 und 39 Abs. 1 und 2) missachtet;
 - c. ohne Bewilligung Handlungen ausführt, durch die der Schutzbereich eines geologischen Tiefenlagers berührt wird;
 - d. eine freigabepflichtige Handlung ohne Freigabe vornimmt.
 
-<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Gefängnis bis zu sechs Monaten oder Busse bis zu 100 000 Franken.
+<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe.[^90-2]
 
-<sup>3</sup> Wer vorsätzlich oder fahrlässig andere Handlungen ohne Bewilligung vornimmt, die nach diesem Gesetz oder einer Ausführungsverordnung bewilligungspflichtig sind, wird mit Gefängnis bis zu sechs Monaten oder mit Busse bis zu 100 000 Franken bestraft.
+<sup>3</sup> Wer vorsätzlich andere Handlungen ohne Bewilligung vornimmt, die nach diesem Gesetz oder einer Ausführungsverordnung bewilligungspflichtig sind, wird mit Geldstrafe bestraft.[^90-3]
+
+<sup>4</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse bis zu 100 000 Franken.[^90-4]
+
+[^90-1]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-2]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-3]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-4]: Eingefügt durch Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 91
 
@@ -1312,20 +1322,25 @@ Mit Gefängnis oder mit Busse bis 500 000 Franken wird bestraft, wer vorsätzlic
 
 <sup>1</sup>
 
-Mit Gefängnis oder mit Busse bis 500 000 Franken wird bestraft, wer vorsätzlich:
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:[^91-1]
 
 - a. geheime Tatsachen oder Vorkehren, die dem Schutz von Kernanlagen, Kernmaterialien oder radioaktiven Abfällen vor Einwirkungen Dritter oder vor kriegerischen Einwirkungen dienen, auskundschaftet, um sie Unbefugten bekannt oder zugänglich zu machen oder die so erhaltenen Kenntnisse selbst unbefugt zu verwenden;
 - b. solche Tatsachen oder Vorkehren Unbefugten bekannt oder zugänglich macht.
 
-<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Gefängnis bis zu sechs Monaten oder Busse bis zu 100 000 Franken.
+<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe.[^91-2]
+
+[^91-1]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^91-2]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 92
 
-**Besitzaufgabe**
+**Besitzaufgabe**[^92-1]
 
-<sup>1</sup> Wer vorsätzlich den Besitz an Kernmaterialien oder radioaktiven Abfällen aufgibt, ohne dazu ermächtigt zu sein, wird mit Gefängnis oder mit Busse bis zu 100 000 Franken bestraft.
+<sup>1</sup> Wer vorsätzlich den Besitz an Kernmaterialien oder radioaktiven Abfällen aufgibt, ohne dazu ermächtigt zu sein, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Gefängnis bis zu sechs Monaten oder Busse.
+<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe.
+
+[^92-1]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 93
 
@@ -1333,7 +1348,7 @@ Mit Gefängnis oder mit Busse bis 500 000 Franken wird bestraft, wer vorsätzlic
 
 <sup>1</sup>
 
-Mit Haft oder Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
+Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:[^93-1]
 
 - a. die Auskünfte, die Vorlage von Unterlagen, den Zutritt zu den Geschäftsräumen und die Einsicht in Unterlagen nach Artikel 73 verweigert oder in diesem Zusammenhang falsche Angaben macht;
 - b. eine Meldepflicht, eine Pflicht zu Kontrolle und Buchführung oder eine Dokumentationspflicht nach diesem Gesetz oder einer Ausführungsverordnung verletzt;
@@ -1341,7 +1356,10 @@ Mit Haft oder Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>2</sup> Versuch und Gehilfenschaft sind strafbar.
 
-<sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Busse bis 40 000 Franken.
+<sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Busse bis zu 40 000 Franken.[^93-2]
+
+[^93-1]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^93-2]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 94
 
@@ -1361,9 +1379,11 @@ Auf Widerhandlungen nach diesem Gesetz ist Artikel 6 des Bundesgesetzes vom 22. 
 
 #### Art. 96
 
-**Verjährung von Übertretungen**
+**Verjährung von Übertretungen**[^96-1]
 
-Die Verfolgung von Übertretungen verjährt nach fünf Jahren. Die Verjährung kann durch Unterbrechung nicht um mehr als die Hälfte hinausgeschoben werden.
+Die Verfolgung von Übertretungen verjährt nach fünf Jahren.
+
+[^96-1]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 97
 
@@ -1385,11 +1405,12 @@ Die eingezogenen Vermögenswerte oder die Ersatzforderungen verfallen unter Vorb
 
 #### Art. 99
 
-**Verhältnis zum Strafgesetzbuch**
+**Verhältnis zum Strafgesetzbuch**[^99-1]
 
-Im Übrigen sind für die Einziehung nach den Artikeln 97 und 98 die Artikel 58 und 59 des Strafgesetzbuches[^99-1] anwendbar.
+Im Übrigen sind für die Einziehung nach den Artikeln 97 und 98 die Artikel 69–72 des Strafgesetzbuchs[^99-2] anwendbar.
 
-[^99-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Heute: die Art. 69 und 70.
+[^99-1]: Fassung gemäss Ziff. I 21 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^99-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 100
 
@@ -1488,7 +1509,7 @@ Aufhebung und Änderung bisherigen Rechts werden im Anhang geregelt.
 
 <sup>3</sup> Die Betriebsbewilligung für ein bestehendes Kernkraftwerk kann ohne Rahmenbewilligung auf einen neuen Inhaber übertragen werden. Die Artikel 13 Absatz 2, 31 Absatz 3 und 66 Absatz 2 sind sinngemäss anwendbar.
 
-<sup>4</sup> ...[^106-2]
+<sup>4</sup> …[^106-2]
 
 [^106-1]: Eingefügt durch Anhang Ziff. II 7 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^106-2]: Aufgehoben durch Anhang Ziff. II 7 des Energiegesetzes vom 30. Sept. 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
@@ -1525,8 +1546,8 @@ II
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annexu1-lvlu1-3]
+…[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [[AS 1960 541](https://fedlex.data.admin.ch/eli/oc/1960/541_585_571), [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 Ziff. 2, [1987 544](https://fedlex.data.admin.ch/eli/oc/1987/544_544_544), [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 9, [1994 1933](https://fedlex.data.admin.ch/eli/oc/1994/1933_1933_1933)Art. 48 Ziff. 1, [1995 4954](https://fedlex.data.admin.ch/eli/oc/1995/4954_4954_4954), [2002 3673](https://fedlex.data.admin.ch/eli/oc/2002/564)Art. 17 Ziff. 3, [2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)Anhang Ziff. 4]
-[^annexu1-lvlu1-2]: [[AS 1979 816](https://fedlex.data.admin.ch/eli/oc/1979/816_816_816), [2001 283](https://fedlex.data.admin.ch/eli/oc/2001/57)]
+[^annexu1-lvlu1-1]: [[AS 1960 541](https://fedlex.data.admin.ch/eli/oc/1960/541_585_571); [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 Ziff. 2; [1987 544](https://fedlex.data.admin.ch/eli/oc/1987/544_544_544); [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 9; [1994 1933](https://fedlex.data.admin.ch/eli/oc/1994/1933_1933_1933)Art. 48 Ziff. 1; [1995 4954](https://fedlex.data.admin.ch/eli/oc/1995/4954_4954_4954); [2002 3673](https://fedlex.data.admin.ch/eli/oc/2002/564)Art. 17 Ziff. 3; [2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)Anhang Ziff. 4]
+[^annexu1-lvlu1-2]: [[AS 1979 816](https://fedlex.data.admin.ch/eli/oc/1979/816_816_816); [2001 283](https://fedlex.data.admin.ch/eli/oc/2001/57)]
 [^annexu1-lvlu1-3]: Die Änderungen können unter [AS 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)konsultiert werden
