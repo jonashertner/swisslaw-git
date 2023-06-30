@@ -3,18 +3,18 @@ sr: "832.102.14"
 title: Ordinanza del DFI del 20 novembre 2012 sugli insiemi di dati per la trasmissione dei dati tra fornitori di prestazioni e assicuratori
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/867"
 language: it
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2012-11-20
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-867-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2012-867-20230701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sugli insiemi di dati per la trasmissione dei dati tra fornitori di prestazioni e assicuratori
 
-del 20 novembre 2012 (Stato 1° gennaio 2022)
+del 20 novembre 2012 (Stato 1° luglio 2023)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -32,13 +32,13 @@ La struttura degli insiemi di dati di cui all’articolo 59*a* capoverso 1 OAMal
 
 La presente ordinanza entra in vigore il 1° gennaio 2013.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 1)
 
 ## Struttura uniforme degli insiemi di dati valida in tutta la Svizzera
 
-[^t-1]: Aggiornato dal n. I dell’O del DFI del 25 ott. 2017 ([RU 2017 6341](https://fedlex.data.admin.ch/eli/oc/2017/704)), dall’all. dell’O del DFI del 30 nov. 2018 ([RU 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), dal n. III dell’O del DFI del 6 giu. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), dal n. I delle O del DFI del 6 dic. 2019 ([RU 2019 4381](https://fedlex.data.admin.ch/eli/oc/2019/755)) e del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 839](https://fedlex.data.admin.ch/eli/oc/2021/839)).
+[^t-1]: Aggiornato dal n. I dell’O del DFI del 3 dic. 2021 ([RU 2021 839](https://fedlex.data.admin.ch/eli/oc/2021/839)) e dall’all. dell’O del DFI del 16 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
 
 ### 1 In generale
 
@@ -71,10 +71,10 @@ ICD-10 Classificazione statistica internazionale delle malattie e dei problemi s
 <tr><td>Durata della respirazione artificiale</td><td>4.4.V01</td><td>Numero di ore</td></tr>
 <tr><td>Peso all’ammissione</td><td>4.5.V01</td><td>In grammi</td></tr>
 <tr><td>Chiarimento garante</td><td>2.2.V06</td><td>0 = no 1 = sì 9 = sconosciuto</td></tr>
-<tr><td>Motivazione della degenza in ospedale</td><td>–</td><td>1-99[^annexu1-lvlu1-lvl1-lvl12-1]</td></tr>
+<tr><td>Motivazione della degenza in ospedale</td><td>–</td><td>Secondo la colonna «N.» dell’allegato 1*a* cifra II dell’ordinanza del 29 settembre 1995[^annexu1-lvlu1-lvl1-lvl12-1] sulle prestazioni</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-lvl12-1]: Secondo l’all. 1*a* OPre cifra II. Criteri a favore di un’esecuzione stazionaria ([RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)).
+[^annexu1-lvlu1-lvl1-lvl12-1]: [RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
 
 ### 1.3 Insieme di dati amministrativi
 

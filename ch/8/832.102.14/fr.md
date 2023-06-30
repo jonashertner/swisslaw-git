@@ -3,18 +3,18 @@ sr: "832.102.14"
 title: Ordonnance du DFI du 20 novembre 2012 sur les fichiers de données pour la transmission des données entre fournisseurs de prestations et assureurs
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/867"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2012-11-20
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-867-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2012-867-20230701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI sur les fichiers de données pour la transmission des données entre fournisseurs de prestations et assureurs
 
-du 20 novembre 2012 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 novembre 2012 (État le 1<sup>er</sup> juillet 2023)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -32,13 +32,13 @@ La structure des fichiers de données visée à l’art. 59*a*, al. 1, OAMal est
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2013.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 1)
 
 ## Structure uniforme au niveau suisse des fichiers de données
 
-[^t-1]: Mise à jour par le ch. I de l’O du DFI du 25 oct. 2017 ([RO 2017 6341](https://fedlex.data.admin.ch/eli/oc/2017/704)), l’annexe de l’O du DFI du 30 nov. 2018 ([RO 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), le ch. III de l’O du DFI du 6 juin 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), le ch. I des O du DFI du 6 déc. 2019 ([RO 2019 4381](https://fedlex.data.admin.ch/eli/oc/2019/755)) et du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 839](https://fedlex.data.admin.ch/eli/oc/2021/839)).
+[^t-1]: Mise à jour par le ch. I de l’O du DFI du 3 déc. 2021 ([RO 2021 839](https://fedlex.data.admin.ch/eli/oc/2021/839)) et l’annexe de l’O du DFI du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
 
 ### 1 Généralités
 
@@ -68,10 +68,10 @@ Annexe*[^t-1]*
 <tr><td>Durée de la ventilation artificielle</td><td>4.4.V01</td><td>Nombre d’heures</td></tr>
 <tr><td>Poids à l’admission</td><td>4.5.V01</td><td>En grammes</td></tr>
 <tr><td>Prise en charge</td><td>2.2.V06</td><td>0 = non 1 = oui 9 = inconnu</td></tr>
-<tr><td>Justification pour le séjour à l’hôpital</td><td>–</td><td>1-99[^annexu1-lvlu1-lvl1-lvl12-1]</td></tr>
+<tr><td>Justification pour le séjour à l’hôpital</td><td>–</td><td>Selon colonne «N<sup>o</sup>» de l’annexe 1*a*, ch. II, de l’ordonnance du 29 septembre 1995 sur les prestations de l’assurance des soins[^annexu1-lvlu1-lvl1-lvl12-1]</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-lvl12-1]: Selon l’annexe 1*a* OPAS, ch. II. Critères à satisfaire pour un traitement en milieu hospitalier ([RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)).
+[^annexu1-lvlu1-lvl1-lvl12-1]: [RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
 
 ### 1.3 Fichier de données administratives
 

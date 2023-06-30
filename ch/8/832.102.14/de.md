@@ -3,18 +3,18 @@ sr: "832.102.14"
 title: Verordnung des EDI vom 20. November 2012 über die Datensätze für die Datenweitergabe zwischen Leistungserbringern und Versicherern
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/867"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2012-11-20
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-867-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2012-867-20230701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Datensätze für die Datenweitergabe zwischen Leistungserbringern und Versicherern
 
-vom 20. November 2012 (Stand am 1. Januar 2022)
+vom 20. November 2012 (Stand am 1. Juli 2023)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -32,13 +32,13 @@ Die Struktur der Datensätze nach Artikel 59*a* Absatz 1 KVV ist im Anhang festg
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 1)
 
 ## Gesamtschweizerisch einheitliche Struktur der Datensätze
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 25. Okt. 2017 ([AS 2017 6341](https://fedlex.data.admin.ch/eli/oc/2017/704)), gemäss Beilage der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. III der V vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), Ziff. I der V des EDI vom 6. Dez. 2019 ([AS 2019 4381](https://fedlex.data.admin.ch/eli/oc/2019/755)) und vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 839](https://fedlex.data.admin.ch/eli/oc/2021/839)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 3. Dez. 2021 ([AS 2021 839](https://fedlex.data.admin.ch/eli/oc/2021/839)) und Anhang der V des EDI vom 16. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
 
 ### 1 Allgemeines
 
@@ -68,10 +68,10 @@ Anhang*[^t-1]*
 <tr><td>Dauer der künstlichen Beatmung</td><td>4.4.V01</td><td>Anzahl Stunden</td></tr>
 <tr><td>Aufnahmegewicht</td><td>4.5.V01</td><td>in Gramm</td></tr>
 <tr><td>Abklärung Garant</td><td>2.2.V06</td><td>0 = nein 1 = ja 9 = unbekannt</td></tr>
-<tr><td>Begründung für stationären Aufenthalt</td><td>–</td><td>1-99[^annexu1-lvlu1-lvl1-lvl12-1]</td></tr>
+<tr><td>Begründung für stationären Aufenthalt</td><td>–</td><td>Gemäss Spalte «Nr.» in Anhang 1*a* Ziffer II der Krankenpflege-Leistungsverordnung vom 29. Sept. 1995[^annexu1-lvlu1-lvl1-lvl12-1]</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-lvl12-1]: Gemäss Anhang 1*a* KLV Ziff. II. Kriterien zugunsten einer stationären Durchführung ([SR 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)).
+[^annexu1-lvlu1-lvl1-lvl12-1]: [SR 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
 
 ### 1.3 Administrativer Datensatz
 
