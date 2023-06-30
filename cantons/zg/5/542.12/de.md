@@ -3,20 +3,19 @@ canton: ZG
 number: "542.12"
 title: Kantonsratsbeschluss betreffend sofortige Hilfeleistungen bei Katastrophen und Kriegen
 language: de
-version: 2018-01-01
-valid_until: 2023-06-30
-version_adopted: 2017-08-31
+version: 2023-07-01
+version_adopted: 2023-01-26
 adopted: 2002-04-25
 in_force: 2002-07-06
 url: "https://bgs.zg.ch/app/de/texts_of_law/542.12"
-pdf: "https://bgs.zg.ch/api/de/versions/2943/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2944/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsbeschluss betreffend sofortige Hilfeleistungen bei Katastrophen und Kriegen
 
-Vom 25. April 2002 (Stand 1. Januar 2018)
+Vom 25. April 2002 (Stand 1. Juli 2023)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -28,11 +27,13 @@ beschliesst:
 
 #### § 1
 
-<sup>1</sup> Der Regierungsrat wird ermächtigt, für sofortige Hilfeleistungen bei Katastrophen im In- und Ausland sowie bei Kriegen Beiträge für humanitäre Hilfe zulasten des Lotteriefonds auszurichten.
+<sup>1</sup> Der Regierungsrat wird ermächtigt, für sofortige Hilfeleistungen bei Katastrophen im In- und Ausland sowie bei Kriegen Beiträge für humanitäre Hilfe zulasten der Laufenden Rechnung auszurichten.
 
 <sup>2</sup> Pro Ereignis darf die Beitragsleistung höchstens Fr. 500 000.– betragen.
 
 <sup>3</sup> …
+
+<sup>4</sup> Bei Hilfeleistungen aus dem Ertragsüberschuss der Laufenden Rechnung sind die vom Regierungsrat im Rechnungsjahr gesprochenen Beiträge gemäss Abs. 1 jeweils zu berücksichtigen.
 
 #### § 2
 
