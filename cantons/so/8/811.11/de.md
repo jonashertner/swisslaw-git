@@ -4,13 +4,13 @@ number: "811.11"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2022-01-01
-valid_until: 2023-06-30
-version_adopted: 2021-08-31
+version: 2023-07-01
+valid_until: 2023-07-31
+version_adopted: 2023-06-18
 adopted: 2018-12-19
 in_force: 2019-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/811.11"
-pdf: "https://bgs.so.ch/api/de/versions/5264/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5364/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +19,18 @@ pdf: "https://bgs.so.ch/api/de/versions/5264/pdf_file"
 
 (GesG)
 
-Vom 19.12.2018 (Stand 01.01.2022)
+Vom 19.12.2018 (Stand 01.07.2023)
 
 Der Kantonsrat von Solothurn
 
-gestützt auf Artikel 100 und 101 der Verfassung des Kantons Solothurn (KV) vom 8. Juni 1986[^ingress-1]
+gestützt auf die Artikel 36, 38 Absatz 1 und 55a Absätze 1 und 6 des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994[^ingress-1] sowie die Artikel 100 und 101 der Verfassung des Kantons Solothurn (KV) vom 8. Juni 1986[^ingress-2]
 
 nach Kenntnisnahme von Botschaft und Entwurf des Regierungsrates vom 29. Mai 2018 (RRB Nr. 2018/820)
 
 beschliesst:
 
-[^ingress-1]: BGS [111.1](https://bgs.so.ch/data/111.1/de).
+[^ingress-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+[^ingress-2]: BGS [111.1](https://bgs.so.ch/data/111.1/de).
 
 ## 1. Allgemeine Bestimmungen
 
@@ -412,6 +413,30 @@ beschliesst:
 
 <sup>2</sup> Einrichtungen des Gesundheitswesens mit öffentlichen Aufgaben bieten Patientendokumentationen nach Ablauf der Aufbewahrungsfrist dem zuständigen Archiv zur Übernahme an und sind diesbezüglich vom Berufsgeheimnis entbunden.
 
+## 4<sup>bis</sup> Zulassung von Leistungserbringern im ambulanten Bereich
+
+#### § 25bis
+
+**Zulassung**
+
+<sup>1</sup> Wer als Leistungserbringer im ambulanten Bereich zulasten der obligatorischen Krankenpflegeversicherung tätig sein will, bedarf einer Zulassung des Departements und untersteht dessen Aufsicht.
+
+<sup>2</sup> Die Zulassung kann mit bestimmten Einschränkungen fachlicher, zeitlicher und räumlicher Art oder mit Auflagen verbunden werden, soweit dies für die Sicherung einer qualitativ hochstehenden und zweckmässigen Leistungserbringung erforderlich ist.
+
+<sup>3</sup> Sie erlischt, wenn ihr Inhaber oder ihre Inhaberin nicht innert sechs Monaten nach der Erteilung von ihr Gebrauch macht, wobei das Departement diese Frist aus wichtigen Gründen auf Gesuch hin verlängern kann.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten des Zulassungsverfahrens sowie die Meldepflichten der Inhaber und Inhaberinnen einer Zulassung in einer Verordnung.
+
+#### § 25ter
+
+**Beschränkung der Zulassung von Ärzten und Ärztinnen**
+
+<sup>1</sup> Der Regierungsrat legt in einem oder mehreren medizinischen Fachgebieten oder in bestimmten Regionen Höchstzahlen für Ärzte und Ärztinnen, die im ambulanten Bereich Leistungen zulasten der obligatorischen Krankenpflegeversicherung erbringen, gemäss den bundesrechtlichen Vorgaben in einer Verordnung fest.
+
+<sup>2</sup> Er kann einen sofortigen Zulassungsstopp in einem bestimmten Fachgebiet anordnen, sofern die Voraussetzungen gemäss Artikel 55*a* Absatz 6 KVG[^25ter-1] erfüllt sind.
+
+[^25ter-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+
 ## 5. Rechte und Pflichten der Patienten und Patientinnen
 
 ### 5.1. Allgemeine Bestimmungen
@@ -709,7 +734,7 @@ beschliesst:
 
 **Bundes- und Drittmittel**
 
-<sup>1</sup> Der Regierungsrat verwendet Bundes- und Drittmittel, insbesondere die Abgabe gemäss Bundesgesetz über die Krankenversicherung (KVG) vom 18. März 1994[^48bis-1] für die allgemeine Krankheitsverhütung, im Rahmen der Zweckbestimmung zur Finanzierung von Projekten der Prävention und Gesundheitsförderung im Sozial- und Gesundheitsbereich.
+<sup>1</sup> Der Regierungsrat verwendet Bundes- und Drittmittel, insbesondere die Abgabe gemäss KVG[^48bis-1] für die allgemeine Krankheitsverhütung, im Rahmen der Zweckbestimmung zur Finanzierung von Projekten der Prävention und Gesundheitsförderung im Sozial- und Gesundheitsbereich.
 
 [^48bis-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 
