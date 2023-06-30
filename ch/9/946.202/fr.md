@@ -4,33 +4,32 @@ title: "Loi fédérale du 13 décembre 1996 sur le contrôle des biens utilisabl
 short: LCB
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1996-12-13
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20230701-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur le contrôle des biens utilisables à des fins civiles et militaires, des biens militaires spécifiques et des biens stratégiques****
+# Loi fédérale sur le contrôle des biens utilisables à des fins civiles et militaires, des biens militaires spécifiques et des biens stratégiques
 
 (Loi sur le contrôle des biens, LCB)[^t-1]
 
-du 13 décembre 1996 (Etat le 1<sup>er</sup> janvier 2022)
+du 13 décembre 1996 (État le 1<sup>er</sup> juillet 2023)
 
 [^t-1]: Nouvelle teneur selon l’art. 2 à l’AF du 26 sept. 2014 sur l’approbation et la mise en œuvre de l’Ac. de coopération entre la Suisse, d’une part, et l’UE et ses États membres, d’autre part, relatif aux programmes européens de navigation par satellite, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2191](https://fedlex.data.admin.ch/eli/oc/2016/351); [FF 2014 343](https://fedlex.data.admin.ch/eli/fga/2014/69)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu la compétence de la Confédération en matière de relations extérieures[^ingress-1], vu l’art. 64<sup>bis</sup> de la constitution[^ingress-2],[^ingress-3] vu le message du Conseil fédéral du 22 février 1995[^ingress-4],
+vu l’art. 54, al. 1, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 22 février 1995[^ingress-3],
 
 arrête:
 
-[^ingress-1]: Cette compétence correspond à l’art. 54, al. 1 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [RS **1** 3]. À la disp. mentionnée correspond l’art. 123 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-3]: Nouvelle teneur selon le ch. I 4 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^ingress-4]: [FF 1995 II 1251](https://fedlex.data.admin.ch/eli/fga/1995/2_1301_1251_1106)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nouvelle teneur selon le ch. I 34 de la LF du 17 déc. 2023 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [FF 1995 II 1251](https://fedlex.data.admin.ch/eli/fga/1995/2_1301_1251_1106)
 
 ## Section 1 Dispositions générales
 
@@ -197,11 +196,7 @@ En cas de recours déposé contre une décision prise en vertu de la présente l
 
 Le Conseil fédéral renseigne l’Assemblée fédérale sur l’application de la présente loi par le biais des rapports sur la politique économique extérieure.
 
-## Section 5 Dispositions pénales****
-
-[^sec5-1]
-
-[^sec5-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+## Section 5 Dispositions pénales
 
 #### Art. 14
 
@@ -209,7 +204,7 @@ Le Conseil fédéral renseigne l’Assemblée fédérale sur l’application de 
 
 <sup>1</sup>
 
-Sera puni de l’emprisonnement ou d’une amende de 1 million de francs au plus quiconque, intentionnellement:
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement:[^14-1]
 
 - a. sans être titulaire d’un permis, fabrique, entrepose, transfère, utilise, importe, exporte, fait transiter ou se livre au courtage des marchandises ou n’observe pas les conditions et les charges prévues dans un permis;
 - b. sans être titulaire d’un permis, transfère des technologies ou des logiciels à des destinataires à l’étranger ou se livre à leur courtage ou n’observe pas les conditions et les charges prévues dans un permis;
@@ -218,9 +213,13 @@ Sera puni de l’emprisonnement ou d’une amende de 1 million de francs au plus
 - e. fait ou fait faire le courtage des biens, les livre ou les fait livrer, les transfère ou les fait transférer à un destinataire ou vers un lieu de destination autre que celui qui figure dans le permis;
 - f. fait parvenir des biens à un tiers, dont il sait ou doit présumer qu’il les transmettra, directement ou indirectement, à un utilisateur final auquel ils ne doivent pas être livrés.
 
-<sup>2</sup> En cas d’infraction grave, la peine sera la réclusion pour dix ans au plus. La peine privative de liberté pourra être assortie d’une amende de 5 millions de francs au plus.
+<sup>2</sup> En cas d’infraction grave, l’auteur est puni d’une peine privative de liberté d’un à dix ans.[^14-2]
 
-<sup>3</sup> Si l’auteur a agi par négligence, la peine sera l’emprisonnement pour six mois au plus ou une amende pouvant s’élever jusqu’à 100 000 francs.
+<sup>3</sup> L’auteur est puni d’une peine pécuniaire s’il agit par négligence.[^14-3]
+
+[^14-1]: Nouvelle teneur selon le ch. I 34 de la LF du 17 déc. 2023 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^14-2]: Nouvelle teneur selon le ch. I 34 de la LF du 17 déc. 2023 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^14-3]: Nouvelle teneur selon le ch. I 34 de la LF du 17 déc. 2023 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 15
 
@@ -228,16 +227,20 @@ Sera puni de l’emprisonnement ou d’une amende de 1 million de francs au plus
 
 <sup>1</sup>
 
-Sera puni des arrêts ou d’une amende de 100 000 francs au plus, quiconque, intentionnellement:
+Est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement:[^15-1]
 
 - a. refuse de fournir les renseignements, les documents ou l’accès aux locaux commerciaux prévus par les art. 9 et 10, al. 1, ou fait de fausses déclarations;
 - b. contrevient d’une autre manière à la présente loi, à l’une de ses dispositions d’exécution dont la violation est déclarée punissable, ou encore à une décision se référant aux dispositions pénales du présent art., sans que son comportement soit punissable en vertu d’une autre infraction.
 
 <sup>2</sup> La tentative et la complicité sont punissables.
 
-<sup>3</sup> Si l’auteur agit par négligence, la peine sera une amende de 40 000 francs au plus.
+<sup>3</sup> L’auteur est puni d’une amende de 40 000 francs au plus s’il agit par négligence.[^15-2]
 
-<sup>4</sup> L’action pénale se prescrit par cinq ans. En cas d’interruption de la prescription, ce délai ne peut être dépassé de plus de la moitié.
+<sup>4</sup> L’action pénale se prescrit par cinq ans.[^15-3]
+
+[^15-1]: Nouvelle teneur selon le ch. I 34 de la LF du 17 déc. 2023 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^15-2]: Nouvelle teneur selon le ch. I 34 de la LF du 17 déc. 2023 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^15-3]: Nouvelle teneur selon le ch. I 34 de la LF du 17 déc. 2023 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 15a
 
@@ -268,7 +271,7 @@ En cas d’infraction commise dans une entreprise, l’art. 6 de la loi fédéra
 
 Le juge prononce, alors même qu’aucune personne déterminée n’est punissable, la confiscation du matériel en cause si aucune garantie ne peut être donnée pour une utilisation ultérieure conforme au droit. Le matériel confisqué ainsi que le produit éventuel de sa liquidation sont dévolus à la Confédération, sous réserve de l’application de la loi fédérale du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées[^17-2].
 
-[^17-1]: Nouvelle teneur selon le ch. 6 de l’annexe à la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 423](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^17-1]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 423](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 [^17-2]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
 
 #### Art. 18
@@ -277,13 +280,14 @@ Le juge prononce, alors même qu’aucune personne déterminée n’est punissab
 
 <sup>1</sup> La poursuite et le jugement des infractions visées aux art. 14 et 15 relèvent de la juridiction pénale fédérale.[^18-1]
 
-<sup>1bis</sup> La loi fédérale du 22 mars 1974 sur le droit pénal administratif[^18-2] est applicable à la poursuite et au jugement des infractions visées à l’art. 15*a*.[^18-3]
+<sup>1bis</sup> La loi fédérale du 22 mars 1974 sur le droit pénal administratif[^18-2] est applicable à la poursuite et au jugement des infractions visées à l’art. 15*a*.[^18-3] L’autorité de poursuite et de jugement est le Secrétariat d’État à l’économie.[^18-4]
 
 <sup>2</sup> Les autorités habilitées à délivrer les permis et chargées du contrôle, les organes de police des cantons et des communes, ainsi que les organes des douanes sont tenus de dénoncer au Ministère public de la Confédération les infractions à la présente loi qu’ils ont découvertes ou dont ils ont eu connaissance dans l’exercice de leurs fonctions.
 
 [^18-1]: Nouvelle teneur selon le ch. I 4 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 [^18-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^18-3]: Introduit par le ch. I 4 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^18-4]: Phrase introduite par le ch. I 34 de la LF du 17 déc. 2023 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ## Section 6 Collaboration entre autorités
 

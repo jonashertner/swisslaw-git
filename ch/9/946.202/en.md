@@ -4,35 +4,36 @@ title: "Federal Act of 13 December 1996 on the Control of Dual-Use Goods, Specif
 short: GCA
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697"
 language: en
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1996-12-13
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20230701-en-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
-# Federal Act on the Control of Dual-Use Goods, Specific Military Goods and Strategic Goods****
+# Federal Act on the Control of Dual-Use Goods, Specific Military Goods and Strategic Goods
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.[^t-1]
 
 (Goods Control Act, GCA)
 
-of 13 December 1996 (Status as of 1 January 2022)
+of 13 December 1996 (Status as of 1 July 2023)
 
 [^t-1]: Amended by Art. 2 of the FD of 26 Sept. 2014 on the Adoption and Implementation of the Cooperation Agreement between Switzerland and the EU and its Member States on the European Satellite Navigation Programmes, in force since 1 July 2016 ([AS 2016 2191](https://fedlex.data.admin.ch/eli/oc/2016/351); [BBl 2014 357](https://fedlex.data.admin.ch/eli/fga/2014/69)).
 
 The Federal Assembly the Swiss Confederation,
 
-based on the powers of the Confederation in foreign affairs[^ingress-1] as well as on Article 64<sup>bis</sup> of the Federal Constitution[^ingress-2],[^ingress-3] and having considered the Federal Council Dispatch dated 22 February 1995[^ingress-4],
+based on Article 54 paragraph 1 of the Federal Constitution[^ingress-1],[^ingress-2]
+
+and having considered the Federal Council Dispatch dated 22 February 1995[^ingress-3],
 
 decrees:
 
-[^ingress-1]: Powers in accordance with Art. 54 para. 1 of the Federal Constitution of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [BS **1** 3]. This provision now corresponds to Art. 123 of the Federal Constitution of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-3]: Amended by No I 4 of the FA of 22 June 2001 on the Streamlining of Federal Legislation on Arms, War Materiel, Explosives and Goods Usable for Civilian and Military Purposes, in force since 1 March 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^ingress-4]: [BBl 1995 II 1301](https://fedlex.data.admin.ch/eli/fga/1995/2_1301_1251_1106)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Amended by No I 34 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [BBl 1995 II 1301](https://fedlex.data.admin.ch/eli/fga/1995/2_1301_1251_1106)
 
 ## Section 1 General Provisions
 
@@ -103,7 +104,7 @@ in respect of the import, export, transit and brokerage of goods.
 In support of international control measures that are not binding under international law, provided such measures are also supported by Switzerland’s most important trading partners, the Federal Council may:
 
 - a. introduce licence and reporting requirements;
-- a. order supervisory measures
+- b. order supervisory measures
 
 #### Art. 6
 
@@ -198,49 +199,51 @@ The procedure for appeals against rulings under this Act is governed by the gene
 
 The Federal Council shall inform the Federal Assembly on the application of this Act in its reports on foreign economic policy.
 
-## Section 5 Criminal Provisions****
-
-[^sec5-1]
-
-[^sec5-1]: As of 1 Jan. 2007 the potential penalties and prescriptive periods must be interpreted and/or calculated in application of Art. 333 para. 2–6 of the Swiss Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in the wording of the FA of 13 Dec. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+## Section 5 Criminal Provisions
 
 #### Art. 14
 
 **Felonies and misdemeanours**
 
-<sup>1</sup>
+<sup>1</sup> shall be liable to a custodial sentence not exceeding three years or a monetary penalty
 
-A sentence of imprisonment or a fine not exceeding 1 million francs shall be imposed on anyone who wilfully:
+Any person who wilfully:[^14-1]
 
 - a. produces, stores, passes on, uses, imports, exports, transports or brokers goods without the required licence, or fails to comply with the conditions and requirements of a related licence;
 - b. passes on to or brokers technology or software for a recipient abroad without the required licence or fails to comply with the conditions and requirements of a related licence;
 - c. provides in an application incorrect or incomplete information that is necessary for the granting of a licence, or uses such an application that has been completed by a third party;
-- d.[^14-1] fails to report or incorrectly reports goods for import, export, transit or brokerage;
+- d.[^14-2] fails to report or incorrectly reports goods for import, export, transit or brokerage;
 - e. delivers or passes on goods to or brokers goods, or has goods delivered or passed on to or brokered for a person other than the end purchaser or final destination stated in the licence;
-- f. allows goods to come into the possession of a person whom he knows or must assume will pass such goods on directly or indirectly to end consumers who may not be supplied with such goods.
+- f. allows goods to come into the possession of a person whom he knows or must assume will pass such goods on directly or indirectly to end consumers who may not be supplied with such goods
 
-<sup>2</sup> In serious cases, the penalty is penal servitude not exceeding ten years, which may be combined with a fine not exceeding 5 million francs.
+<sup>2</sup> In serious cases, the penalty shall be a custodial sentence of between one and ten years.[^14-3]
 
-<sup>3</sup> If the offence is committed through negligence, the penalty is imprisonment not exceeding six months or a fine not exceeding 100 000 francs.
+<sup>3</sup> If the offence is committed through negligence, a monetary penalty shall be imposed.[^14-4]
 
-[^14-1]: Amended by Annex No 21 of the Customs Act of 18 March 2005, in force since 1 May 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^14-1]: Amended by No I 34 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^14-2]: Amended by Annex No 21 of the Customs Act of 18 March 2005, in force since 1 May 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^14-3]: Amended by No I 34 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^14-4]: Amended by No I 34 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 15
 
 **Contraventions**
 
-<sup>1</sup>
+<sup>1</sup> shall be liable to a fine not exceeding 100 000 francs
 
-A sentence of detention or a fine not exceeding 100 000 francs shall be imposed on anyone who wilfully:
+Any person who wilfully:[^15-1]
 
 - a. refuses to provide information, documents or access to business premises in accordance with Articles 9 and 10 paragraph 1 or provides false information in this connection;
-- b. violates in any other way a provision of this Act or of an implementation regulation, the contravention of which is declared to be a criminal offence, or an order issued that makes reference to the penalties provided in this Article provided that the culpable conduct does not constitute a different criminal offence.
+- b. violates in any other way a provision of this Act or of an implementation regulation, the contravention of which is declared to be a criminal offence, or an order issued that makes reference to the penalties provided in this Article provided that the culpable conduct does not constitute a different criminal offence
 
 <sup>2</sup> Attempts and complicity also constitute a criminal offence.
 
 <sup>3</sup> If the offence is committed through negligence, the penalty is a fine not exceeding 40 000 francs.
 
-<sup>4</sup> The right to prosecute prescribes after five years. In the event that the prescriptive period is interrupted, it may be extended by up to a maximum of one half.
+<sup>4</sup> The right to prosecute prescribes after five years.[^15-2]
+
+[^15-1]: Amended by No I 34 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^15-2]: Amended by No I 34 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 15a
 
@@ -280,13 +283,14 @@ The court shall, without regard to the culpability of any specific person, order
 
 <sup>1</sup> The prosecution and judgement of offences under Articles 14 and 15 are subject to federal criminal jurisdiction.[^18-1]
 
-<sup>1bis</sup> The prosecution and judgement of offences under Article 15*a* are subject to the Federal Act of 22 March 1974[^18-2] on Administrative Criminal Law.[^18-3]
+<sup>1bis</sup> The prosecution and judgement of offences under Article 15*a* are subject to the Federal Act of 22 March 1974[^18-2] on Administrative Criminal Law.[^18-3] The State Secretariat for Economic Affairs is the prosecuting and adjudicating authority.[^18-4]
 
 <sup>2</sup> The licensing and control authorities, the police in the cantons and the communes and the customs authorities are obliged to report to the Office of the Attorney General of Switzerland any offences against this Act that they encounter or that come to their knowledge in the course of their official activities.
 
 [^18-1]: Amended by No I 4 of the FA of 22 June 2001 on the Streamlining of Federal Legislation on Arms, War Materiel, Explosives and Goods Usable for Civilian and Military Purposes, in force since 1 March 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 [^18-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^18-3]: Inserted by No I 4 of the FA of 22 June 2001 on the Streamlining of Federal Legislation on Arms, War Materiel, Explosives and Goods Usable for Civilian and Military Purposes, in force since 1 March 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^18-4]: Second sentence inserted by No I 34 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ## Section 6 Cooperation among Authorities
 

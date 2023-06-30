@@ -4,33 +4,32 @@ title: "Bundesgesetz vom 13. Dezember 1996 über die Kontrolle zivil und militä
 short: GKG
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1996-12-13
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20230701-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Bundesgesetz über die Kontrolle zivil und militärisch verwendbarer Güter, besonderer militärischer Güter sowie strategischer Güter****
+# Bundesgesetz über die Kontrolle zivil und militärisch verwendbarer Güter, besonderer militärischer Güter sowie strategischer Güter
 
 (Güterkontrollgesetz, GKG)[^t-1]
 
-vom 13. Dezember 1996 (Stand am 1. Januar 2022)
+vom 13. Dezember 1996 (Stand am 1. Juli 2023)
 
 [^t-1]: Fassung gemäss Art. 2 des BB vom 26. Sept. 2014 über die Genehmigung und die Umsetzung des Kooperationsabkommens zwischen der Schweiz und der EU und ihren Mitgliedstaaten über die europäischen Satellitennavigationsprogramme, in Kraft seit 1. Juli 2016 ([AS 2016 2191](https://fedlex.data.admin.ch/eli/oc/2016/351); [BBl 2014 357](https://fedlex.data.admin.ch/eli/fga/2014/69)).
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Zuständigkeit des Bundes in auswärtigen Angelegenheiten[^ingress-1] sowie auf Artikel 64<sup>bis</sup> der Bundesverfassung[^ingress-2],[^ingress-3] nach Einsicht in die Botschaft des Bundesrates vom 22. Februar 1995[^ingress-4],
+gestützt auf Artikel 54 Absatz 1 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaft des Bundesrates vom 22. Februar 1995[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: Dieser Zuständigkeitsumschreibung entspricht Art. 54 Abs. 1 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [BS **1** 3]. Dieser Bestimmung entspricht heute Art. 123 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-3]: Fassung gemäss Ziff. I 4 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^ingress-4]: [BBl 1995 II 1301](https://fedlex.data.admin.ch/eli/fga/1995/2_1301_1251_1106)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I 34 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [BBl 1995 II 1301](https://fedlex.data.admin.ch/eli/fga/1995/2_1301_1251_1106)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -56,7 +55,7 @@ Dieses Gesetz soll erlauben, doppelt verwendbare Güter, besondere militärische
 
 [^2-1]: Eingefügt durch Art. 2 des BB vom 26. Sept. 2014 über die Genehmigung und die Umsetzung des Kooperationsabkommens zwischen der Schweiz und der EU und ihren Mitgliedstaaten über die europäischen Satellitennavigationsprogramme, in Kraft seit 1. Juli 2016 ([AS 2016 2191](https://fedlex.data.admin.ch/eli/oc/2016/351); [BBl 2014 357](https://fedlex.data.admin.ch/eli/fga/2014/69)).
 [^2-2]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^2-3]: [[AS 1960 541](https://fedlex.data.admin.ch/eli/oc/1960/541_585_571), [1987 544](https://fedlex.data.admin.ch/eli/oc/1987/544_544_544), [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 9, [1994 1933](https://fedlex.data.admin.ch/eli/oc/1994/1933_1933_1933)Art. 48 Ziff. 1, [1995 4954](https://fedlex.data.admin.ch/eli/oc/1995/4954_4954_4954), [2002 3673](https://fedlex.data.admin.ch/eli/oc/2002/564)Art. 17 Ziff. 3, [2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)Anhang Ziff. 4. [AS 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang I Ziff. 1]. Siehe heute: das Kernenergiegesetz vom 21. März 2003 ([SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)).
+[^2-3]: [[AS 1960 541](https://fedlex.data.admin.ch/eli/oc/1960/541_585_571); [1987 544](https://fedlex.data.admin.ch/eli/oc/1987/544_544_544); [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 9; [1994 1933](https://fedlex.data.admin.ch/eli/oc/1994/1933_1933_1933)Art. 48 Ziff. 1; [1995 4954](https://fedlex.data.admin.ch/eli/oc/1995/4954_4954_4954); [2002 3673](https://fedlex.data.admin.ch/eli/oc/2002/564)Art. 17 Ziff. 3; [2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)Anhang Ziff. 4. [AS 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang I Ziff. 1]. Siehe heute: das Kernenergiegesetz vom 21. März 2003 ([SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)).
 
 #### Art. 3
 
@@ -194,11 +193,7 @@ Das Verfahren für Beschwerden gegen Verfügungen nach diesem Gesetz richtet sic
 
 Der Bundesrat orientiert die Bundesversammlung über die Anwendung dieses Gesetzes in seinen Berichten zur Aussenwirtschaftspolitik.
 
-## 5. Abschnitt: Strafbestimmungen****
-
-[^sec5-1]
-
-[^sec5-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
+## 5. Abschnitt: Strafbestimmungen
 
 #### Art. 14
 
@@ -206,20 +201,23 @@ Der Bundesrat orientiert die Bundesversammlung über die Anwendung dieses Gesetz
 
 <sup>1</sup>
 
-Mit Gefängnis oder mit Busse bis zu 1 Million Franken wird bestraft, wer vorsätzlich:
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:[^14-1]
 
 - a. ohne entsprechende Bewilligung Waren herstellt, lagert, weitergibt, verwendet, ein-, aus-, durchführt oder vermittelt oder an eine Bewilligung geknüpfte Bedingungen und Auflagen nicht einhält;
 - b. ohne entsprechende Bewilligung Technologie oder Software an Empfänger im Ausland weitergibt oder vermittelt oder an eine Bewilligung geknüpfte Bedingungen und Auflagen nicht einhält;
 - c. in einem Gesuch Angaben, die für die Erteilung einer Bewilligung wesentlich sind, unrichtig oder unvollständig macht oder ein von einem Dritten verfasstes Gesuch dieser Art verwendet;
-- d.[^14-1] Güter nicht oder nicht richtig zur Ein-, Aus-, Durchfuhr oder Vermittlung anmeldet;
+- d.[^14-2] Güter nicht oder nicht richtig zur Ein-, Aus-, Durchfuhr oder Vermittlung anmeldet;
 - e. Güter an einen anderen als den in der Bewilligung genannten Enderwerber oder Bestimmungsort liefert, überträgt oder vermittelt beziehungsweise liefern, übertragen oder vermitteln lässt;
 - f. Güter jemandem zukommen lässt, von dem er weiss oder annehmen muss, dass er sie direkt oder indirekt an einen Endverbraucher weiterleitet, an den sie nicht geliefert werden dürfen.
 
-<sup>2</sup> In schweren Fällen ist die Strafe Zuchthaus bis zu zehn Jahren. Damit kann eine Busse bis zu 5 Millionen Franken verbunden werden.
+<sup>2</sup> In schweren Fällen ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren.[^14-3]
 
-<sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Gefängnis bis zu sechs Monaten oder Busse bis zu 100 000 Franken.
+<sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Geldstrafe.[^14-4]
 
-[^14-1]: Fassung gemäss Anhang Ziff. 21 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^14-1]: Fassung gemäss Ziff. I 34 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^14-2]: Fassung gemäss Anhang Ziff. 21 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^14-3]: Fassung gemäss Ziff. I 34 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^14-4]: Fassung gemäss Ziff. I 34 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 15
 
@@ -227,7 +225,7 @@ Mit Gefängnis oder mit Busse bis zu 1 Million Franken wird bestraft, wer vorsä
 
 <sup>1</sup>
 
-Mit Haft oder mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
+Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:[^15-1]
 
 - a. die Auskünfte, die Herausgabe von Unterlagen oder den Zutritt zu den Geschäftsräumen nach den Artikeln 9 und 10 Absatz 1 verweigert oder in diesem Zusammenhang falsche Angaben macht;
 - b. auf andere Weise einer Bestimmung dieses Gesetzes oder einer Ausführungsvorschrift, deren Übertretung für strafbar erklärt wird, oder einer unter Hinweis auf die Strafdrohung dieses Artikels erlassenen Verfügung zuwiderhandelt, ohne dass ein strafbares Verhalten nach einem andern Straftatbestand vorliegt.
@@ -236,7 +234,10 @@ Mit Haft oder mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Busse bis zu 40 000 Franken.
 
-<sup>4</sup> Die Strafverfolgung verjährt in fünf Jahren. Die Verjährung kann durch Unterbrechung nicht um mehr als die Hälfte hinausgeschoben werden.
+<sup>4</sup> Die Strafverfolgung verjährt in fünf Jahren.[^15-2]
+
+[^15-1]: Fassung gemäss Ziff. I 34 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^15-2]: Fassung gemäss Ziff. I 34 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 15a
 
@@ -276,13 +277,14 @@ Der Richter verfügt ohne Rücksicht auf die Strafbarkeit einer bestimmten Perso
 
 <sup>1</sup> Verfolgung und Beurteilung der Widerhandlungen nach den Artikeln 14 und 15 unterstehen der Bundesstrafgerichtsbarkeit.[^18-1]
 
-<sup>1bis</sup> Widerhandlungen nach Artikel 15*a* werden nach dem Verwaltungsstrafrechtsgesetz vom 22. März 1974[^18-2] verfolgt und beurteilt.[^18-3]
+<sup>1bis</sup> Widerhandlungen nach Artikel 15*a* werden nach dem Verwaltungsstrafrechtsgesetz vom 22. März 1974[^18-2] verfolgt und beurteilt.[^18-3] Verfolgende und urteilende Behörde ist das Staatssekretariat für Wirtschaft.[^18-4]
 
 <sup>2</sup> Die Bewilligungs- und Kontrollbehörden, die Polizeiorgane der Kantone und der Gemeinden sowie die Zollorgane sind verpflichtet, Widerhandlungen gegen dieses Gesetz, die sie bei ihrer dienstlichen Tätigkeit wahrnehmen oder von denen sie dabei Kenntnis erhalten, der Bundesanwaltschaft anzuzeigen.
 
 [^18-1]: Fassung gemäss Ziff. I 4 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 [^18-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^18-3]: Eingefügt durch Ziff. I 4 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^18-4]: Zweiter Satz eingefügt durch Ziff. I 34 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ## 6. Abschnitt: Zusammenarbeit von Behörden
 

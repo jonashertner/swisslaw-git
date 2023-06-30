@@ -4,33 +4,32 @@ title: "Legge federale del 13 dicembre 1996 sul controllo dei beni utilizzabili 
 short: LBDI
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697"
 language: it
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1996-12-13
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1997-1697_1697_1697-20230701-it-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Legge federale sul controllo dei beni utilizzabili a fini civili e militari, dei beni militari speciali e dei beni strategici****
+# Legge federale sul controllo dei beni utilizzabili a fini civili e militari, dei beni militari speciali e dei beni strategici
 
 (Legge sul controllo dei beni a duplice impiego, LBDI)[^t-1]
 
-del 13 dicembre 1996 (Stato 1° gennaio 2022)
+del 13 dicembre 1996 (Stato 1° luglio 2023)
 
 [^t-1]: Nuovo testo giusta l’art. 2 del DF del 26 set. 2016 che approva e traspone nel diritto svizzero l’Accordo di cooperazione tra la Svizzera e l’Unione europea e i suoi Stati membri sui programmi europei di navigazione satellitare, in vigore dal 1° lug. 2016 ([RU 2016 2191](https://fedlex.data.admin.ch/eli/oc/2016/351); [FF 2014 331](https://fedlex.data.admin.ch/eli/fga/2014/69)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
-vista la competenza della Confederazione in materia di affari esteri[^ingress-1], visto l’articolo 64<sup>bis</sup> della Costituzione federale[^ingress-2];[^ingress-3] visto il messaggio del Consiglio federale del 22 febbraio 1995[^ingress-4],
+visto l’articolo 54 capoverso 1 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 22 febbraio 1995[^ingress-3],
 
 decreta:
 
-[^ingress-1]: A questa attribuzione di competenza corrisponde l’art. 54 cpv. 1 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [CS **1** 3]. A questa disp. corrisponde l’art. 123 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-3]: Nuovo testo giusta il n. I 4 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53), [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^ingress-4]: [FF 1995 II 1106](https://fedlex.data.admin.ch/eli/fga/1995/2_1301_1251_1106)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo del comma giusta il n. I 34 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [FF 1995 II 1106](https://fedlex.data.admin.ch/eli/fga/1995/2_1301_1251_1106)
 
 ## Sezione 1: Disposizioni generali
 
@@ -196,38 +195,37 @@ La procedura di ricorso contro decisioni fondate sulla presente legge è retta d
 
 Il Consiglio federale informa l’Assemblea federale sull’applicazione della presente legge nei rapporti sulla politica economica esterna.
 
-## Sezione 5: Disposizioni penali****
-
-[^sec5-1]
-
-[^sec5-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2 – 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+## Sezione 5: Disposizioni penali
 
 #### Art. 14
 
 **Crimini e delitti**
 
-<sup>1</sup> è punito con la detenzione o con la multa sino a un milione di franchi.
+<sup>1</sup> è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.[^14-1]
 
 Chiunque, intenzionalmente:
 
 - a. senza autorizzazione, o contravvenendo alle condizioni o oneri stabiliti in un’autorizzazione, fabbrica, deposita, trasferisce, utilizza, importa, esporta o fa transitare merci ai sensi della presente legge o ne fa mediazione;
 - b. senza autorizzazione, o contravvenendo alle condizioni e oneri stabiliti in un’autorizzazione, trasferisce tecnologie o software ai sensi della presente legge o ne fa mediazione per destinatari all’estero;
 - c. in una domanda, fornisce indicazioni inesatte o incomplete, determinanti per il rilascio di un’autorizzazione, oppure fa uso di una siffatta domanda allestita da un terzo;
-- d.[^14-1] non dichiara o non dichiara correttamente merci per l’importazione, l’esportazione o il transito oppure merci destinate alla mediazione;
+- d.[^14-2] non dichiara o non dichiara correttamente merci per l’importazione, l’esportazione o il transito oppure merci destinate alla mediazione;
 - e. esercita o fa esercitare la mediazione di beni, li fornisce o li fa fornire, li trasferisce o li fa trasferire a un destinatario finale o verso un luogo di destinazione diverso da quello che figura nell’autorizzazione;
 - f. procura a un terzo beni, sapendo o potendo presumere che saranno deviati direttamente o indirettamente verso un destinatario finale al quale non potrebbero essere forniti,
 
-<sup>2</sup> Nei casi gravi, la pena è della reclusione fino a dieci anni. In via accessoria può essere pronunciata la multa fino a cinque milioni di franchi.
+<sup>2</sup> Nei casi gravi, la pena è una pena detentiva da uno a dieci anni.[^14-3]
 
-<sup>3</sup> Se l’autore ha agito per negligenza, la pena è della detenzione fino a sei mesi o della multa fino a 100 000 franchi.
+<sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.[^14-4]
 
-[^14-1]: Nuovo testo giusta il n. 21 dell’all. alla L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^14-1]: Nuovo testo della comminatoria giusta il n. I 34 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^14-2]: Nuovo testo giusta l’all. n. 21 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^14-3]: Nuovo testo giusta il n. I 34 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^14-4]: Nuovo testo giusta il n. I 34 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 15
 
 **Contravvenzioni**
 
-<sup>1</sup> è punito con l’arresto o la multa fino a 100 000 franchi.
+<sup>1</sup> è punito con la multa sino a 100 000 franchi.[^15-1]
 
 Chiunque, intenzionalmente:
 
@@ -238,7 +236,10 @@ Chiunque, intenzionalmente:
 
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è della multa fino a 40 000 franchi.
 
-<sup>4</sup> L’azione penale si prescrive in cinque anni. In caso d’interruzione, il termine ordinario della prescrizione non può essere superato di più della metà.
+<sup>4</sup> L’azione penale si prescrive in cinque anni.[^15-2]
+
+[^15-1]: Nuovo testo della comminatoria giusta il n. I 34 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^15-2]: Nuovo testo giusta il n. I 34 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 15a
 
@@ -269,7 +270,7 @@ Se l’infrazione è commessa nell’ambito della conduzione aziendale, è appli
 
 Il giudice, indipendentemente dalla punibilità di una data persona, ordina la confisca del materiale in causa se e nella misura in cui non è data la garanzia di un ulteriore impiego conforme al diritto. Il materiale confiscato nonché l’eventuale ricavo della realizzazione sono devoluti alla Confederazione fatta salva l’applicazione della legge federale del 19 marzo 2004[^17-2] sulla ripartizione dei valori patrimoniali confiscati.
 
-[^17-1]: Nuovo testo giusta il n. 6 dell’all. alla LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^17-1]: Nuovo testo giusta l’all. n. 6 della LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 [^17-2]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
 
 #### Art. 18
@@ -278,13 +279,14 @@ Il giudice, indipendentemente dalla punibilità di una data persona, ordina la c
 
 <sup>1</sup> Il perseguimento e il giudizio delle infrazioni ai sensi degli articoli 14 e 15 sottostanno alla giurisdizione penale federale.[^18-1]
 
-<sup>1bis</sup> Le infrazioni di cui all’articolo 15*a* sono perseguite e giudicate secondo la legge federale del 22 marzo 1974[^18-2] sul diritto penale amministrativo.[^18-3]
+<sup>1bis</sup> Le infrazioni di cui all’articolo 15*a* sono perseguite e giudicate secondo la legge federale del 22 marzo 1974[^18-2] sul diritto penale amministrativo.[^18-3] L’autorità competente per il perseguimento e il giudizio è la Segreteria di Sta-to dell’economia.[^18-4]
 
 <sup>2</sup> Le autorità preposte al rilascio delle autorizzazioni e al controllo, gli organi di polizia cantonali e comunali nonché le autorità doganali sono tenuti a denunciare al Ministero pubblico della Confederazione le infrazioni alla presente legge che hanno accertato o di cui hanno avuto notizia nell’esercizio delle loro funzioni.
 
 [^18-1]: Nuovo testo giusta il n. I 4 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53), [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 [^18-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^18-3]: Introdotto dal n. I 4 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53), [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^18-4]: Per. introdotto dal n. I 34 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ## Sezione 6: Collaborazione tra le autorità
 
