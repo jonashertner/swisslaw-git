@@ -4,11 +4,11 @@ title: Legge del 9 ottobre 1992 sulla statistica federale (LStat)
 short: LStat
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080"
 language: it
-version: 2016-01-01
+version: 2023-07-01
 adopted: 1992-10-09
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20160101/it/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20160101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20160101/it"
 
 (LStat)
 
-del 9 ottobre 1992 (Stato 1° gennaio 2016) (Stato 1° gennaio 2016)
+del 9 ottobre 1992 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 27<sup>sexies</sup>, 31<sup>quinquies</sup> capoverso 5 e 85 numero 1 della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 30 ottobre 1991[^ingress-2],
+visti gli articoli 65 capoverso 1 e 173 capoverso 2 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 30 ottobre 1991[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [CS **1** 3; [RU 1973 1051](https://fedlex.data.admin.ch/eli/oc/1973/1053_1053_1051)]. A dette disposizioni corrispondono ora gli art. 64, 65, 100, 164 cpv. 1 g della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [FF 1992 I 321](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo giusta il n. I 6 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [FF 1992 I 321](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)
 
 ## Sezione 1: Disposizioni generali
 
@@ -65,7 +66,7 @@ Il Consiglio federale può dichiarare alcune disposizioni applicabili ad altre c
 
 <sup>4</sup> Il Consiglio federale rispetta la libertà di ricerca nonché i compiti legali e l’autonomia delle organizzazioni che sottopone alla presente legge conformemente ai capoversi 2 e 3.
 
-[^2-1]: Nuovo testo giusta il n. 4 dell’all. alla LF sulle ferrovie federali svizzere del 20 mar. 1998, in vigore dal 1° gen. 1999 ([RU 1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847); [FF 1997 I 809](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
+[^2-1]: Nuovo testo giusta l’all. n. 4 della LF sulle ferrovie federali svizzere del 20 mar. 1998, in vigore dal 1° gen. 1999 ([RU 1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847); [FF 1997 I 809](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
 [^2-2]: Nuovo testo giusta il n. II 6 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
 #### Art. 3
@@ -86,9 +87,9 @@ Essa serve per:
 
 <sup>3</sup> Nell’ambito di questi compiti, la Confederazione collabora con i Cantoni, i Comuni, gli ambienti scientifici ed economici, le parti sociali e le organizzazioni internazionali; per quanto possibile considera i loro bisogni di informazione.
 
-[^3-1]: Nuovo testo giusta il n. II 5 dell’all. alla LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^3-2]: Nuovo testo giusta il n. 1 dell’all. alla L del 13 dic. 2002 sui disabili, in vigore dal 1° gen. 2004 ([RU 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [FF 2001 1477](https://fedlex.data.admin.ch/eli/fga/2001/434)).
-[^3-3]: Introdotta dal n. II 5 dell’all. alla LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^3-1]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^3-2]: Nuovo testo giusta l’all. n. 1 della L del 13 dic. 2002 sui disabili, in vigore dal 1° gen. 2004 ([RU 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [FF 2001 1477](https://fedlex.data.admin.ch/eli/fga/2001/434)).
+[^3-3]: Introdotta dall’all. n. II 5 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 #### Art. 4
 
@@ -216,8 +217,8 @@ Il programma pluriennale informa su:
 [^10-1]: Introdotto dall’art. 10 della LF del 26 giu. 1998 sul censimento federale della popolazione ([RU 1999 917](https://fedlex.data.admin.ch/eli/oc/1999/137); [FF 1997 III 1009](https://fedlex.data.admin.ch/eli/fga/1997/3_1225_1089_1009)). Nuovo testo giusta l’art. 24 n. 1 della LF del 20 mar. 2015 sulle abitazioni secondarie, in vigore dal 1° gen 2016 ([RU 2015 5657](https://fedlex.data.admin.ch/eli/oc/2015/886); [FF 2014 2065](https://fedlex.data.admin.ch/eli/fga/2014/409)).
 [^10-2]: [RU 1999 1503](https://fedlex.data.admin.ch/eli/oc/1999/224)
 [^10-3]: Introdotto dall’art. 25 della LF dell’8 ott. 1999 sull’aiuto alle università, in vigore dal 1° apr. 2000 fino al 31 dic. 2007 ([RU 1999 917](https://fedlex.data.admin.ch/eli/oc/1999/137); [FF 1997 III 1009](https://fedlex.data.admin.ch/eli/fga/1997/3_1225_1089_1009)).
-[^10-4]: Introdotto dal n. 2 dell’all. alla LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351))
-[^10-5]: Introdotto dal n. 2 dell’all. alla LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351))
+[^10-4]: Introdotto dall’all. n. 2 della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351))
+[^10-5]: Introdotto dall’all. n. 2 della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351))
 [^10-6]: Rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^10-7]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
@@ -269,7 +270,7 @@ Il programma pluriennale informa su:
 
 <sup>2</sup> Per adempiere i loro compiti statistici, i servizi statistici cantonali e comunali possono collegare i dati dell’Ufficio federale con altri dati soltanto previa approvazione scritta da parte di quest’ultimo e in ottemperanza alle condizioni stabilite dallo stesso.
 
-[^14a-1]: Introdotto dal n. 4 dell’all. alla L del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° nov. 2006 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^14a-1]: Introdotto dall’all. n. 4 della L del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° nov. 2006 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 
 #### Art. 15
 
@@ -283,7 +284,7 @@ Il programma pluriennale informa su:
 
 <sup>4</sup> I dati possono essere conservati e archiviati presso il servizio statistico competente della Confederazione, presso l’Ufficio federale o, previa approvazione scritta da parte di quest’ultimo e in ottemperanza alle condizioni stabilite dallo stesso, presso il servizio statistico cantonale, purché non contengano nomi o numeri di identificazione delle persone interessate.[^15-1]
 
-[^15-1]: Nuovo testo giusta il n. 4 dell’all. alla L del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° nov. 2006 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^15-1]: Nuovo testo giusta l’all. n. 4 della L del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° nov. 2006 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 
 #### Art. 16
 
@@ -348,11 +349,7 @@ I produttori di statistiche della Confederazione possono comunicare dati persona
 
 Il Consiglio federale fissa gli emolumenti per le pubblicazioni, le prestazioni di servizi e le autorizzazioni.
 
-## Sezione 6: Disposizioni penali****
-
-[^sec6-1]
-
-[^sec6-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2–6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+## Sezione 6: Disposizioni penali
 
 #### Art. 22
 
@@ -362,9 +359,13 @@ Chiunque, in occasione di una rilevazione statistica ordinata in base alla prese
 
 #### Art. 23
 
-**Violazione del segreto statistico**
+**Violazione del segreto statistico**[^23-1]
 
-Chiunque, intenzionalmente o per negligenza, viola la disposizione di cui all’articolo 14 comunicando dati che devono restare segreti o utilizzandoli per scopi diversi da quelli statistici, è punito con l’arresto o con la multa.
+<sup>1</sup> Chiunque intenzionalmente viola la disposizione di cui all’articolo 14 comunicando dati che devono restare segreti o utilizzandoli per scopi diversi da quelli statistici, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.
+
+[^23-1]: Nuovo testo giusta il n. I 6 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 24
 
@@ -411,7 +412,7 @@ Allegato
 
 ## Abrogazione e modificazione di atti legislativi
 
-### 1. Legge federale del 23 luglio 1870**** concernente l’assumere dati statistici officiali nella Svizzera
+### 1. Legge federale del 23 luglio 1870 concernente l’assumere dati statistici officiali nella Svizzera
 
 [^annexu1-lvlu1-lvl1-1]
 
@@ -419,7 +420,7 @@ Allegato
 
 Abrogata
 
-### 2. Ris. fed. del 17 settembre 1875**** sui quadri statistici delle nascite, dei decessi, dei matrimoni, dei divorzi e delle dichiarazioni di nullità di matrimonio nella Svizzera
+### 2. Ris. fed. del 17 settembre 1875 sui quadri statistici delle nascite, dei decessi, dei matrimoni, dei divorzi e delle dichiarazioni di nullità di matrimonio nella Svizzera
 
 [^annexu1-lvlu1-lvl2-1]
 
@@ -427,7 +428,7 @@ Abrogata
 
 Abrogata
 
-### 3. Legge federale del 27 giugno 1973**** concernente l’esecuzione di una statistica scolastica
+### 3. Legge federale del 27 giugno 1973 concernente l’esecuzione di una statistica scolastica
 
 [^annexu1-lvlu1-lvl3-1]
 
@@ -435,7 +436,7 @@ Abrogata
 
 Abrogata
 
-### 4. Decreto federale del 30 novembre 1964**** concernente il censimento periodico della circolazione stradale
+### 4. Decreto federale del 30 novembre 1964 concernente il censimento periodico della circolazione stradale
 
 [^annexu1-lvlu1-lvl4-1]
 
@@ -443,7 +444,7 @@ Abrogata
 
 Abrogato
 
-### 5. DAF del 14 giugno 1954**** concernente l’esecuzione periodica di un censimento della aziende
+### 5. DAF del 14 giugno 1954 concernente l’esecuzione periodica di un censimento della aziende
 
 [^annexu1-lvlu1-lvl5-1]
 
@@ -451,7 +452,7 @@ Abrogato
 
 Abrogato
 
-### 6. DAF del 12 aprile 1933**** che istituisce una statistica federale del turismo
+### 6. DAF del 12 aprile 1933 che istituisce una statistica federale del turismo
 
 [^annexu1-lvlu1-lvl6-1]
 
@@ -459,7 +460,7 @@ Abrogato
 
 Abrogato
 
-### 7.–14.
+### 7. a 14.
 
 ...[^annexu1-lvlu1-lvl7-1]
 

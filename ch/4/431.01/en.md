@@ -4,11 +4,11 @@ title: Federal Statistics Act of 9 October 1992 (FStatA)
 short: FStatA
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080"
 language: en
-version: 2016-01-01
+version: 2023-07-01
 adopted: 1992-10-09
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20160101/en/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20160101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20160101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20230701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,16 +19,17 @@ English is not an official language of the Swiss Confederation. This translation
 
 (FStatA)
 
-of 9 October 1992 (Status as of 1 January 2016)
+of 9 October 1992 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
-based on the Articles 27<sup>sexies</sup>, 31<sup>quinquies</sup> paragraph 5 and 85 number 1 of the Federal Constitution[^ingress-1], and having considered the Federal Council Dispatch dated 30 October 1991[^ingress-2],
+based on the Articles 65 paragraph 1 and 173 paragraph 2 of the Federal Constitution[^ingress-1],[^ingress-2] and having considered the Federal Council Dispatch dated 30 October 1991[^ingress-3],
 
 decrees:
 
-[^ingress-1]: [BS **1** 3; [AS 1973 1051](https://fedlex.data.admin.ch/eli/oc/1973/1051_1051_1049), [1978 484](https://fedlex.data.admin.ch/eli/oc/1978/484_484_484)]. The provisions mentioned are now Art. 64, 65, 100 and 164 para. 1 let. g of the Federal Constitution of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [BBl 1992 I 373](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Amended by No I 6 of the FA of 17 Dec. 2021 on the Harmonisation of Secondary Criminal Law with the Amended Law on Sanctions, in force since 1 July 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [BBl 1992 I 373](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)
 
 ## Section 1 General Provisions
 
@@ -205,22 +206,23 @@ The multi-year programme provides information on:
 
 <sup>3bis</sup> The Federal Office cooperates closely with the cantons in the maintenance of a Federal Register of Buildings and Dwellings (RBD). Access to the Register for statistical, research and planning purposes and to fulfil statutory obligations is open to the Confederation, and to each canton and commune in respect of the data pertaining to its territory. The Federal Council shall regulate the management of the Register and decree more detailed provisions on data protection. Insofar as no personal data is involved, the Federal Council may make the data in the register accessible to the public.[^10-1]
 
-<sup>3ter</sup> ...[^10-2]
+<sup>3ter</sup> The Federal Office shall in close cooperation with the universities maintain Swiss Register of Students as an aid for compiling statistics. The cantons and the universities may use information from this register for checks that serve to safeguard their financial, administrative and legal interests in accordance with the Intercantonal Universities Agreement of 20 February 1997[^10-2]. The Federal Council shall determine the characteristics to be disclosed for this purpose and the modalities of disclosure.[^10-3]
 
-<sup>3quater</sup> The Federal Office maintains a Random Sample Register used as an aid for surveys of households and persons. Providers of public telephone services are obliged to provide the Federal Office with the required customer data, as far as this data is available. They may be compensated partially or fully for their time and efforts. The offices called on to participate in the survey may not use the data for their own purposes. Data in the Random Sample Register may only be used for surveys in accordance with this Act.[^10-3]
+<sup>3quater</sup> The Federal Office maintains a Random Sample Register used as an aid for surveys of households and persons. Providers of public telephone services are obliged to provide the Federal Office with the required customer data, as far as this data is available. They may be compensated partially or fully for their time and efforts. The offices called on to participate in the survey may not use the data for their own purposes. Data in the Random Sample Register may only be used for surveys in accordance with this Act.[^10-4]
 
-<sup>3quinquies</sup> The Federal Council shall regulate the details.[^10-4]
+<sup>3quinquies</sup> The Federal Council shall regulate the details.[^10-5]
 
 <sup>4</sup> The administrative units as well as the other organisations, depending on the extent to which they are subject to Article 2 paragraph 3, provide the Federal Office with the results and principles of their statistical activities and, if required, data from their data records and surveys in order that the Federal Office may fulfil its duties.
 
-<sup>5</sup> Duties of confidentiality and disclosure prohibitions may only prevent the disclosure of data to the Federal Office if a Federal Act expressly excludes divulging or using data for statistical purposes. The Federal Office may not divulge such data in accordance with Article 19 of this Act as well as Article 22[^10-5] of the Data Protection Act of 19 June 1992[^10-6].
+<sup>5</sup> Duties of confidentiality and disclosure prohibitions may only prevent the disclosure of data to the Federal Office if a Federal Act expressly excludes divulging or using data for statistical purposes. The Federal Office may not divulge such data in accordance with Article 19 of this Act as well as Article 22[^10-6] of the Data Protection Act of 19 June 1992[^10-7].
 
 [^10-1]: Inserted by Art. 10 of the FA of 26 June 1998 on the Federal Census ([AS 1999 917](https://fedlex.data.admin.ch/eli/oc/1999/137); [BBl 1997 III 1225](https://fedlex.data.admin.ch/eli/fga/1997/3_1225_1089_1009)). Amended by Art. 24 No 1 of the Second Homes Act of 20 March 2015, in force since 1 Jan. 2016 ([AS 2015 5657](https://fedlex.data.admin.ch/eli/oc/2015/886); [BBl 2014 2287](https://fedlex.data.admin.ch/eli/fga/2014/409)).
-[^10-2]: Inserted by Art. 25 of the University Support Act of 8 Oct. 1999, in force since 1 April 2000 valid to 31 Dec. 2007 ([AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); BBl **1993** 297).
-[^10-3]: Inserted by Annex No 2 of the FA of 24. March 2006, in force since 1 April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^10-4]: Inserted in accordance with Annex No 2 of the FA of 24 March 2006, in force since 1 April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^10-5]: Revised by the Drafting Committee of the Federal Assembly (Art. 33 Inter-Council Relations Act; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^10-6]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-2]: [AS 1999 1503](https://fedlex.data.admin.ch/eli/oc/1999/224)
+[^10-3]: Inserted by Art. 25 of the University Funding Act of 8 Oct. 1999, in force from 1 April 2000, valid until 31 Dec. 2007 ([AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); BBl **1999** 297).
+[^10-4]: Inserted by Annex No 2 of the FA of 24. March 2006, in force since 1 April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^10-5]: Inserted in accordance with Annex No 2 of the FA of 24 March 2006, in force since 1 April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^10-6]: Revised by the Drafting Committee of the Federal Assembly (Art. 33 Inter-Council Relations Act; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^10-7]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 11
 
@@ -349,23 +351,23 @@ The federal statistical bodies providers may disclose personal data for purposes
 
 The Federal Council regulates the fees for publications, services and authorisations.
 
-## Section 6 Criminal Provisions****
-
-[^sec6-1]
-
-[^sec6-1]: From 1 Jan. 2007 the potential penalties must be interpreted and the limitation periods recalculated in accordance with Art. 333 paras. 2–6 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in its version according to the FA of 13 Dec. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+## Section 6 Criminal Provisions
 
 #### Art. 22
 
 **Violation of the disclosure obligation**
 
-Anyone who in a survey commissioned under this Act wilfully provides false information or does not or does not properly fulfil the duty to disclose information despite receiving a reminder is liable to a fine.
+Any person who in a survey commissioned under this Act wilfully provides false information or does not or does not properly fulfil the duty to disclose information despite receiving a reminder is liable to a fine.
 
 #### Art. 23
 
-**Violation of data protection and official secrecy**
+**Violation of data protection and official secrecy**[^23-1]
 
-Anyone who wilfully or negligently violates the provisions of Article 14 by divulging data that must remain secret or by using data for purposes other than statistical purposes is liable to imprisonment or a fine.
+<sup>1</sup> Any person who wilfully violates the provisions of Article 14 by divulging data that must remain secret or by using data for purposes other than statistical purposes shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+
+<sup>2</sup> If the offender acts through negligence, he or she shall be liable to a monetary penalty.
+
+[^23-1]: Amended by No I 6 of the FA of 17 Dec. 2021 on the Harmonisation of Secondary Criminal Law with the Amended Law on Sanctions, in force since 1 July 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 24
 
@@ -412,7 +414,7 @@ Annex
 
 ## Repeal and Amendment of other Legislation
 
-### 1. Federal Act of 23 July 1870**** on Official Statistical Surveys in Switzerland
+### 1. Federal Act of 23 July 1870 on Official Statistical Surveys in Switzerland
 
 [^annexu1-lvlu1-lvl1-1]
 
@@ -420,7 +422,7 @@ Annex
 
 Repealed
 
-### 2. Federal Decree of 17 September 1875**** on the Statistical Compilation of Births, Deaths, Marriages, Divorces and Marriage Annulments occurring in Switzerland
+### 2. Federal Decree of 17 September 1875 on the Statistical Compilation of Births, Deaths, Marriages, Divorces and Marriage Annulments occurring in Switzerland
 
 [^annexu1-lvlu1-lvl2-1]
 
@@ -428,7 +430,7 @@ Repealed
 
 Repealed
 
-### 3. Federal Act of 27 June 1973**** on Statistical School Surveys
+### 3. Federal Act of 27 June 1973 on Statistical School Surveys
 
 [^annexu1-lvlu1-lvl3-1]
 
@@ -436,7 +438,7 @@ Repealed
 
 Repealed
 
-### 4. Federal Decree of 30 November 1964**** on the Periodic Conduct of Road Traffic Censuses
+### 4. Federal Decree of 30 November 1964 on the Periodic Conduct of Road Traffic Censuses
 
 [^annexu1-lvlu1-lvl4-1]
 
@@ -444,7 +446,7 @@ Repealed
 
 Repealed
 
-### 5. Federal Assembly Decree of 14 June 1954**** on the Periodic Conduct of Business Censuses
+### 5. Federal Assembly Decree of 14 June 1954 on the Periodic Conduct of Business Censuses
 
 [^annexu1-lvlu1-lvl5-1]
 
@@ -452,7 +454,7 @@ Repealed
 
 Repealed
 
-### 6. Federal Assembly Decree of 12 April 1933**** on the Introduction of Federal Statistics on Tourism
+### 6. Federal Assembly Decree of 12 April 1933 on the Introduction of Federal Statistics on Tourism
 
 [^annexu1-lvlu1-lvl6-1]
 

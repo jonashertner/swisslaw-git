@@ -4,11 +4,11 @@ title: Bundesstatistikgesetz vom 9. Oktober 1992 (BStatG)
 short: BStatG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080"
 language: de
-version: 2016-01-01
+version: 2023-07-01
 adopted: 1992-10-09
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20160101/de/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20160101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20160101/de"
 
 (BStatG)
 
-vom 9. Oktober 1992 (Stand am 1. Januar 2016)
+vom 9. Oktober 1992 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 27<sup>sexies</sup>, 31<sup>quinquies</sup> Absatz 5 und 85 Ziffer 1 der Bundesverfassung[^ingress-1], nach Einsicht in die Botschaft des Bundesrates vom 30. Oktober 1991[^ingress-2],
+gestützt auf die Artikel 65 Absatz 1 und 173 Absatz 2 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaft des Bundesrates vom 30. Oktober 1991[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3; [AS 1973 1051](https://fedlex.data.admin.ch/eli/oc/1973/1051_1051_1049), [1978 484](https://fedlex.data.admin.ch/eli/oc/1978/484_484_484)]. Den genannten Bestimmungen entsprechen heute Art. 64, 65, 100 und 164 Abs. 1 Bst. g der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [BBl 1992 I 373](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I 6 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [BBl 1992 I 373](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -348,11 +349,7 @@ Die Statistikproduzenten des Bundes dürfen Personendaten für nicht personenbez
 
 Der Bundesrat regelt die Gebühren für die Veröffentlichungen, Dienstleistungen und Bewilligungen.
 
-## 6. Abschnitt: Strafbestimmungen****
-
-[^sec6-1]
-
-[^sec6-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
+## 6. Abschnitt: Strafbestimmungen
 
 #### Art. 22
 
@@ -362,9 +359,13 @@ Wer bei einer aufgrund dieses Gesetzes angeordneten Erhebung vorsätzlich falsch
 
 #### Art. 23
 
-**Verletzung von Datenschutz und Amtsgeheimnis**
+**Verletzung von Datenschutz und Amtsgeheimnis**[^23-1]
 
-Wer vorsätzlich oder fahrlässig die Bestimmungen von Artikel 14 verletzt, indem er geheim zu haltende Daten weitergibt oder zu anderen als statistischen Zwecken verwendet, wird mit Gefängnis oder mit Busse bestraft.
+<sup>1</sup> Wer vorsätzlich die Bestimmungen von Artikel 14 verletzt, indem er geheim zu haltende Daten weitergibt oder zu anderen als statistischen Zwecken verwendet, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+<sup>2</sup> Handelt der Täter oder die Täterin fahrlässig, so ist die Strafe Geldstrafe.
+
+[^23-1]: Fassung gemäss Ziff. I 6 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 24
 
@@ -411,7 +412,7 @@ Anhang
 
 ## Aufhebung und Änderung von anderen Erlassen
 
-### 1. Bundesgesetz vom 23. Juli 1870**** betreffend die amtlichen statistischen Aufnahmen in der Schweiz
+### 1. Bundesgesetz vom 23. Juli 1870 betreffend die amtlichen statistischen Aufnahmen in der Schweiz
 
 [^annexu1-lvlu1-lvl1-1]
 
@@ -419,7 +420,7 @@ Anhang
 
 Aufgehoben
 
-### 2. Bundesbeschluss vom 17. September 1875**** betreffend die statistische Zusammenstellung der in der Schweiz vorkommenden Geburten, Sterbefälle, Trauungen, Scheidungen und Nichtigerklärung von Ehen
+### 2. Bundesbeschluss vom 17. September 1875 betreffend die statistische Zusammenstellung der in der Schweiz vorkommenden Geburten, Sterbefälle, Trauungen, Scheidungen und Nichtigerklärung von Ehen
 
 [^annexu1-lvlu1-lvl2-1]
 
@@ -427,7 +428,7 @@ Aufgehoben
 
 Aufgehoben
 
-### 3. Bundesgesetz vom 27. Juni 1973**** über schulstatistische Erhebungen
+### 3. Bundesgesetz vom 27. Juni 1973 über schulstatistische Erhebungen
 
 [^annexu1-lvlu1-lvl3-1]
 
@@ -435,7 +436,7 @@ Aufgehoben
 
 Aufgehoben
 
-### 4. Bundesbeschluss vom 30. November 1964**** über die periodische Durchführung von Strassenverkehrszählungen
+### 4. Bundesbeschluss vom 30. November 1964 über die periodische Durchführung von Strassenverkehrszählungen
 
 [^annexu1-lvlu1-lvl4-1]
 
@@ -443,15 +444,15 @@ Aufgehoben
 
 Aufgehoben
 
-### 5. Beschluss der Bundesversammlung vom 14. Juni 1954**** über die periodische Durchführung von Betriebszählungen
+### 5. Beschluss der Bundesversammlung vom 14. Juni 1954 über die periodische Durchführung von Betriebszählungen
 
 [^annexu1-lvlu1-lvl5-1]
 
-[^annexu1-lvlu1-lvl5-1]: [[AS 1954 652](https://fedlex.data.admin.ch/eli/oc/1954/652_666_555), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 26]
+[^annexu1-lvlu1-lvl5-1]: [[AS 1954 652](https://fedlex.data.admin.ch/eli/oc/1954/652_666_555); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 26]
 
 Aufgehoben
 
-### 6. Beschluss der Bundesversammlung vom 12. April 1933**** über die Einführung einer eidgenössischen Fremdenverkehrsstatistik
+### 6. Beschluss der Bundesversammlung vom 12. April 1933 über die Einführung einer eidgenössischen Fremdenverkehrsstatistik
 
 [^annexu1-lvlu1-lvl6-1]
 
@@ -461,6 +462,6 @@ Aufgehoben
 
 ### 7. –14.
 
-...[^annexu1-lvlu1-lvl7-1]
+…[^annexu1-lvlu1-lvl7-1]
 
 [^annexu1-lvlu1-lvl7-1]: Die Änderungen können unter [AS 1993 2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)konsultiert werden.
