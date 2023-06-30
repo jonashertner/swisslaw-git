@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 2012 sur l'encouragement de la recherche 
 short: LERI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: fr
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230701-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230101/fr"
 
 (LERI)
 
-du 14 décembre 2012 (Etat le 1<sup>er</sup> janvier 2023)
+du 14 décembre 2012 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 64, al. 1 et 3, de la Constitution[^ingress-1], vu le message du Con
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2011 8089](https://fedlex.data.admin.ch/eli/fga/2011/1544)
 
 ## Chapitre 1 Dispositions générales
@@ -103,8 +103,8 @@ Les organes de recherche au sens de la présente loi sont:
 
 [^4-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^4-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^4-3]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^4-4]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^4-3]: [RS 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
+[^4-4]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 5
 
@@ -169,7 +169,7 @@ La Confédération encourage comme suit la recherche et l’innovation conformé
 
 <sup>4</sup> Il peut confier aux institutions chargées d’encourager la recherche et à Innosuisse des tâches de coopération internationale dont l’exécution requiert leurs compétences spécifiques.[^7-5]
 
-[^7-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^7-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^7-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^7-3]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^7-4]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
@@ -293,8 +293,8 @@ Les institutions chargées d’encourager la recherche prévoient des sanctions 
 
 <sup>5</sup> Les infractions au sens des art. 37 ou 38 de la loi du 5 octobre 1990 sur les subventions[^12-1] commises dans le domaine de l’encouragement de la recherche sont poursuivies par le SEFRI selon les dispositions de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^12-2].
 
-[^12-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^12-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^12-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^12-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 13
 
@@ -315,7 +315,7 @@ Le requérant peut former un recours:
 
 <sup>5</sup> Au surplus, la procédure de recours est régie par les dispositions générales de la procédure fédérale.
 
-[^13-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^13-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### Section 3 Recherche et encouragement de la recherche de l’administration
 
@@ -420,8 +420,8 @@ La recherche de l’administration peut comprendre les mesures suivantes:
 Elle peut également soutenir:
 
 - a.[^18-1] les mesures visant à développer et à renforcer l’entrepreneuriat fondé sur la science;
-- b<sup>bis</sup>.[^18-2] les mesures visant à encourager les personnes hautement qualifiées dans le domaine de l’innovation;
 - b. les mesures en faveur de la création et du développement d’entreprises dont les activités sont fondées sur la science;
+- b<sup>bis</sup>.[^18-2] les mesures visant à encourager les personnes hautement qualifiées dans le domaine de l’innovation;
 - c. la mise en valeur du savoir et le transfert de savoir et de technologie entre les hautes écoles, les entreprises et la société;
 - d.[^18-3] l’information sur les possibilités d’encouragement aux niveaux national et international.
 
@@ -479,7 +479,7 @@ Dans des cas particuliers, Innosuisse peut réclamer une participation supérieu
 
 <sup>6</sup> Les projets encouragés doivent respecter les principes de l’intégrité scientifique et des bonnes pratiques scientifiques. Les sanctions et l’obligation d’informer au sens de l’art. 12, al. 2 à 4, s’appliquent aux infractions.
 
-[^19-1]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
+[^19-1]: [RS 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
 [^19-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^19-3]: Introduit par le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^19-4]: Abrogée par le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
@@ -593,7 +593,7 @@ Innosuisse peut soutenir la mise en valeur du savoir et le transfert de savoir e
 La loi du 5 octobre 1990 sur les subventions[^24-2] est applicable à l’encouragement de l’innovation par Innosuisse.
 
 [^24-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^24-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^24-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 25
 
@@ -601,8 +601,8 @@ La loi du 5 octobre 1990 sur les subventions[^24-2] est applicable à l’encour
 
 Les infractions au sens de l’art. 37 ou 38 de la loi du 5 octobre 1990 sur les subventions[^25-1] commises dans le domaine de l’encouragement de l’innovation sont sanctionnées par le DEFR conformément aux dispositions de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^25-2].
 
-[^25-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^25-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^25-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Section 5 Compétence du Conseil fédéral d’édicter des conditions d’encouragement supplémentaires
 
@@ -723,9 +723,13 @@ Dans le cadre de ces accords, il peut également régler:
 - c. la protection et l’attribution de la propriété intellectuelle créée ou nécessaire dans le cadre de la coopération scientifique;
 - d. la participation de la Confédération à des entités juridiques de droit public ou privé;
 - e. l’adhésion à des organisations internationales;
+- e<sup>bis</sup>.[^31-1] l’adhésion à des infrastructures de recherche internationales ayant leur siège à l’étranger régies par le règlement (CE) n<sup>o</sup> 723/2009[^31-2];
 - f. les activités de contrôle exercées par des représentants d’États tiers et par des organisations internationales auprès d’établissements de recherche du domaine des hautes écoles et d’autres institutions de recherche privées ou publiques concernées en Suisse.
 
 <sup>3</sup> Les organes de recherche concernés, la Conférence suisse des hautes écoles ou le Conseil des EPF sont préalablement consultés lorsqu’un accord au sens de l’al. 1 touche des tâches qui leur incombent.
+
+[^31-1]: Introduite par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 226](https://fedlex.data.admin.ch/eli/oc/2023/226); [FF 2022 1137](https://fedlex.data.admin.ch/eli/fga/2022/1137)).
+[^31-2]: Règlement (CE) n<sup>o</sup> 723/2009 du Conseil du 25 juin 2009 relatif à un cadre juridique communautaire applicable à un Consortium pour une infrastructure européenne de recherche (ERIC), JO L 206 du 8.8.2009, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 1261/2013, JO L 326 du 6.12.2013, p. 1.
 
 ### Section 7 Parc suisse d’innovation
 
@@ -759,7 +763,11 @@ Le soutien de la Confédération au parc suisse d’innovation peut prendre les 
 - d. l’acquisition de bien-fonds appartenant à des tiers;
 - e. une combinaison des mesures prévues aux let. a à d;
 - f.[^33-1] d’autres mesures nécessaires au succès des parcs d’innovation qui ne peuvent pas être réalisées dans le cadre de l’encouragement ordinaire au sens de l’art. 7, al. 1, notamment des prêts sans intérêts de durée limitée, d’autres instruments de financement appropriés et des contributions aux charges de fonctionnement de l’institution responsable visée à l’al. 2, let. b.
-- [tab] <sup>2</sup> Le soutien peut être accordé aux conditions suivantes:
+
+<sup>2</sup>
+
+Le soutien peut être accordé aux conditions suivantes:
+
 - a. à l’adoption de l’arrêté fédéral visé à l’art. 32, al. 2, l’affectation des biens-fonds est entièrement compatible avec les exigences en matière de gestion territoriale et de planification des zones relatives à l’affectation des biens-fonds;
 - b. la mise en place du parc d’innovation est confiée à une institution de droit privé ou public portée par un large partenariat national et comprenant la participation de plusieurs cantons et d’entreprises privées; sa création prend effet au plus tard à l’adoption de l’arrêté fédéral;
 - c.
@@ -836,7 +844,7 @@ Les contributions fédérales allouées dans le cadre de la coopération interna
 - a. les accords internationaux concernés;
 - b. les décisions et conventions de prestations concernées.
 
-[^37-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^37-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### Section 9 Restitution et remboursement
 
@@ -881,7 +889,7 @@ Lorsque les résultats de recherches financées en tout ou partie par la Conféd
 <sup>3</sup> Les institutions chargées d’encourager la recherche, Innosuisse[^40-1] et l’administration fédérale, dans la mesure où elle assume des tâches d’encouragement de la recherche ou de l’innovation, coordonnent leurs activités en concertant leurs mesures d’encouragement et en coopérant dans le cadre de leurs activités d’encouragement. Elles tiennent compte dans leurs efforts de coordination des exigences de l’enseignement, de la recherche exécutée sans l’aide de la Confédération, de la recherche exécutée à l’étranger et de la coordination au sens de la LEHE[^40-2].
 
 [^40-1]: Nouvelle expression selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Il a été tenu compte de cette mod. dans tout le texte.
-[^40-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^40-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 ### Section 2 Coordination par le Conseil fédéral
 
@@ -985,8 +993,8 @@ Les organismes suivants sont tenus d’établir des programmes pluriannuels:
 
 <sup>3</sup> Les deux EPF et les établissements de recherche du domaine des EPF fournissent les informations nécessaires sur leurs recherches dans le cadre de la procédure prévue par la loi du 4 octobre 1991 sur les EPF[^46-2].
 
-[^46-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^46-2]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^46-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^46-2]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 #### Art. 47
 
@@ -1064,8 +1072,8 @@ Les institutions chargées d’encourager la recherche, Innosuisse et l’admini
 
 <sup>4</sup> Le SEFRI gère une banque de données sur les projets de recherche de l’administration.
 
-[^53-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^53-2]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^53-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^53-2]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 ## Chapitre 6 Conseil suisse de la science
 
@@ -1093,7 +1101,7 @@ Sur mandat du gouvernement ou du DEFR, le CSS exerce les tâches suivantes:
 - d. conseiller le Conseil fédéral dans la mise en œuvre de la présente loi.
 
 [^54-1]: Nouvelle expression selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Il a été tenu compte de cette mod. dans tout le texte.
-[^54-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^54-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 55
 
@@ -1128,7 +1136,7 @@ Le Conseil fédéral édicte les dispositions d’exécution.
 …[^57-3]
 
 [^57-1]: [[RO 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 19, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)annexe ch. 4 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)annexe ch. 9, [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99), [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286), [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 39, [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99), [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)ch. I 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 13, [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532)]
-[^57-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691); en vigueur depuis le 1<sup>er</sup> janv. 2015
+[^57-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771); en vigueur depuis le 1<sup>er</sup> janv. 2015
 [^57-3]: La mod. peut être consultée au [RO 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786).
 
 #### Art. 57a
@@ -1147,15 +1155,18 @@ Les conseillers qui exercent l’une des activités visées à l’art. 20, al. 
 
 <sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
 
-<sup>3</sup> Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2014[^58-1]. Les art. 4, let. c, ch. 2, art. 7, al. 1, let. b, et art. 46, al. 2 entrent en vigueur en même temps que la LEHE (art. 58, al. 3). RS **414.20**; en vigueur depuis le 1<sup>er</sup> janv. 2015 (RO **2014** 4103).
+<sup>3</sup>
 
-Il met en vigueur les dispositions ci-après en même temps que la LEHE[^58-2]:
+Il met en vigueur les dispositions ci-après en même temps que la LEHE[^58-1]:
 
 - a. art. 4, let. c, ch. 2;
 - b. art. 7, al. 1, let. b;
 - c. art. 46, al. 2.
-- [tab] <sup>4</sup> Les art. 5, let. b, ch. 2 et 3, 6, al. 1, let. b et c, et 24, al. 2, de la loi du 7 octobre 1983 sur la recherche et l’innovation[^58-3] sont abrogés à l’entrée en vigueur de la LEHE.
 
-[^58-1]: ACF du 29 nov. 2013
-[^58-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^58-3]: [[RO 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109)]
+<sup>4</sup> Les art. 5, let. b, ch. 2 et 3, 6, al. 1, let. b et c, et 24, al. 2, de la loi du 7 octobre 1983 sur la recherche et l’innovation[^58-2] sont abrogés à l’entrée en vigueur de la LEHE.
+
+Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2014[^58-3]. Les art. 4, let. c, ch. 2, art. 7, al. 1, let. b, et art. 46, al. 2 entrent en vigueur en même temps que la LEHE (art. 58, al. 3). RS **414.20**; en vigueur depuis le 1<sup>er</sup> janv. 2015 (RO **2014** 4103).
+
+[^58-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^58-2]: [[RO 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109)]
+[^58-3]: ACF du 29 nov. 2013

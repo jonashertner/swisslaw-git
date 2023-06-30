@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 2012 sulla promozione della ricerca e del
 short: LPRI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: it
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230701-it-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230101/it"
 
 (LPRI)
 
-del 14 dicembre 2012 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
+del 14 dicembre 2012 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 64 capoversi 1 e 3 della Costituzione federale[^ingress-1]; v
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2011 7811](https://fedlex.data.admin.ch/eli/fga/2011/1544)
 
 ## Capitolo 1: Disposizioni generali
@@ -101,10 +101,10 @@ Sono organi di ricerca ai sensi della presente legge:
   - 1\. svolga ricerche per l’adempimento dei propri compiti (ricerca del settore pubblico), o
   - 2\. svolga compiti di promozione della ricerca e dell’innovazione.
 
-[^4-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^4-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^4-2]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^4-3]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^4-4]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^4-3]: [RS 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
+[^4-4]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 5
 
@@ -169,10 +169,10 @@ La Confederazione promuove la ricerca e l’innovazione secondo la presente legg
 
 <sup>4</sup> Il Consiglio federale può affidare alle istituzioni di promozione della ricerca e a Innosuisse compiti nell’ambito della cooperazione internazionale il cui adempimento necessita della loro competenza specifica.[^7-5]
 
-[^7-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^7-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^7-2]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^7-3]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^7-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^7-4]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^7-5]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 8
@@ -205,7 +205,7 @@ Promuovono la ricerca dei centri di ricerca extrauniversitari a scopo non lucrat
 - b. la ricerca è utile alla formazione e al perfezionamento delle nuove leve scientifiche;
 - c. i risultati sono resi accessibili alla comunità scientifica.
 
-[^9-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^9-1]: Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° feb. 2017 ([RU 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 10
 
@@ -240,8 +240,8 @@ Nell’ambito dei compiti e delle competenze conferitigli, il FNS stabilisce gli
 
 <sup>7</sup> La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI) conclude periodicamente con il FNS una convenzione sulle prestazioni fondata sui decreti di finanziamento dell’Assemblea federale. In tale convenzione sono specificati anche i compiti supplementari delegati dal Consiglio federale.
 
-[^10-1]: Nuovo testo del secondo per. giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^10-2]: Per. introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^10-1]: Nuovo testo del secondo per. giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^10-2]: Per. introdotto dalla cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 11
 
@@ -267,11 +267,11 @@ Impiegano i sussidi accordati loro dalla Confederazione segnatamente per i segue
 
 <sup>7</sup> La SEFRI conclude periodicamente con le Accademie svizzere delle scienze una convenzione sulle prestazioni fondata sui decreti di finanziamento dell’Assemblea federale. In tale convenzione può incaricare le stesse Accademie e le singole istituzioni di cui all’articolo 4 lettera a numero 2 di effettuare valutazioni, svolgere progetti scientifici, gestire strutture di cui al capoverso 6 e svolgere altri compiti speciali nell’ambito dei compiti e delle competenze di cui ai capoversi 2–6.[^11-5]
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^11-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^11-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^11-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^11-5]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-3]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-4]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-5]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 12
 
@@ -294,8 +294,8 @@ Nei loro regolamenti prevedono sanzioni di diritto amministrativo per le violazi
 
 <sup>5</sup> I reati di cui agli articoli 37 e 38 della legge del 5 ottobre 1990[^12-1] sui sussidi commessi nell’ambito della promozione della ricerca sono perseguiti dalla SEFRI conformemente alle disposizioni della legge federale del 22 marzo 1974[^12-2] sul diritto penale amministrativo.
 
-[^12-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^12-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^12-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^12-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 13
 
@@ -316,7 +316,7 @@ Il richiedente può far valere mediante ricorso:
 
 <sup>5</sup> Per il resto, la procedura di ricorso è retta dalle disposizioni generali sull’amministrazione della giustizia federale.
 
-[^13-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^13-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### Sezione 3: Ricerca e promozione della ricerca da parte dell’Amministrazione federale
 
@@ -386,10 +386,10 @@ La ricerca del settore pubblico può contemplare i provvedimenti seguenti:
 
 <sup>7</sup> Le disposizioni sul finanziamento di cui alla sezione 8 non si applicano alla ricerca del settore pubblico.
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^16-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^16-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^16-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^16-3]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^16-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^16-4]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 17
 
@@ -431,9 +431,9 @@ La Confederazione può inoltre sostenere:
 
 <sup>4</sup> Assicura la valutazione dell’attività di promozione.
 
-[^18-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^18-2]: Introdotta dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^18-3]: Introdotta dall’all. n. 2 della L del 17 giu. 2016 su Innosuisse ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^18-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^18-2]: Introdotta dalla cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^18-3]: Introdotta dall’all. n. 2 della L del 17 giu. 2016 su Innosuisse ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 19
 
@@ -481,17 +481,17 @@ In singoli casi può esigere dal partner attuatore una partecipazione superiore 
 
 <sup>6</sup> I progetti promossi devono rispettare i principi dell’integrità scientifica e della buona prassi scientifica. In caso di violazione di tali principi, si applicano le sanzioni e l’obbligo d’informare di cui all’articolo 12 capoversi 2–4.
 
-[^19-1]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^19-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-3]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-4]: Abrogata dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), con effetto dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-5]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-6]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-7]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-8]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-9]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-10]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 15 apr. 2022 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-11]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 15 apr. 2022 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-1]: [RS 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
+[^19-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-3]: Introdotto dalla cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-4]: Abrogata dalla cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), con effetto dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-5]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-6]: Introdotto dalla cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-7]: Introdotto dalla cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-8]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-9]: Introdotto dalla cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-10]: Introdotto dalla cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 15 apr. 2022 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-11]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 15 apr. 2022 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 20
 
@@ -510,7 +510,7 @@ Può sostenere la costituzione e lo sviluppo di imprese la cui attività è fond
 
 <sup>3</sup> Definisce i fornitori di prestazioni per i provvedimenti di cui al capoverso 2 lettera a mediante una procedura di selezione e tiene un elenco accessibile al pubblico dei fornitori selezionati.
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 20a
 
@@ -530,7 +530,7 @@ A tal fine può concedere sussidi affinché queste persone abbiano la possibilit
 
 <sup>4</sup> I sussidi sono accordati soltanto se l’obiettivo di promozione non può essere raggiunto nell’ambito di un progetto d’innovazione di cui all’articolo 19 o di un provvedimento di cui all’articolo 20 capoverso 1 o 2.
 
-[^20a-1]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^20a-1]: Introdotto dalla cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 21
 
@@ -549,7 +549,7 @@ Innosuisse può sostenere la valorizzazione del sapere e il trasferimento di sap
 
 <sup>3</sup> Nel suo ambito di competenza può promuovere l’informazione sulle possibilità di promozione a livello nazionale e internazionale e sulla presentazione di domande di sussidio, in particolare mediante sussidi a terzi che propongono tali offerte di informazione.
 
-[^21-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^21-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 22
 
@@ -561,7 +561,7 @@ Innosuisse può sostenere la valorizzazione del sapere e il trasferimento di sap
 
 <sup>3</sup> Può partecipare ad attività di promozione ai sensi dell’articolo 28 capoverso 2 lettera c.
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 22a
 
@@ -571,7 +571,7 @@ Innosuisse può sostenere la valorizzazione del sapere e il trasferimento di sap
 
 <sup>2</sup> Le parti interessate disciplinano in regolamenti comuni le modalità di attuazione e le condizioni di promozione.
 
-[^22a-1]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^22a-1]: Introdotto dalla cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 23
 
@@ -584,8 +584,8 @@ Innosuisse può sostenere la valorizzazione del sapere e il trasferimento di sap
 <sup>2</sup> Per il resto il Consiglio federale disciplina i principi del calcolo dei sussidi.[^23-3]
 
 [^23-1]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^23-2]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^23-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-2]: Introdotto dalla cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-3]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 24
 
@@ -594,7 +594,7 @@ Innosuisse può sostenere la valorizzazione del sapere e il trasferimento di sap
 Alla promozione dell’innovazione da parte di Innosuisse si applicano le disposizioni della legge del 5 ottobre 1990[^24-2] sui sussidi.
 
 [^24-1]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^24-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^24-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 25
 
@@ -602,8 +602,8 @@ Alla promozione dell’innovazione da parte di Innosuisse si applicano le dispos
 
 I reati di cui agli articoli 37 e 38 della legge del 5 ottobre 1990[^25-1] sui sussidi commessi nell’ambito della promozione dell’innovazione sono perseguiti dal DEFR conformemente alle disposizioni della legge federale del 22 marzo 1974[^25-2] sul diritto penale amministrativo.
 
-[^25-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^25-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^25-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Sezione 5: Condizioni supplementari per la promozione: competenza del Consiglio federale
 
@@ -691,12 +691,12 @@ Nei limiti dei crediti stanziati, il Consiglio federale può accordare i sussidi
 
 <sup>2</sup> Il Consiglio federale disciplina il calcolo dei sussidi e la procedura.
 
-[^29-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^29-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^29-3]: Introdotta dal n. I della LF del 27 set. 2013, in vigore dal 1° mar. 2014 ([RU 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1687](https://fedlex.data.admin.ch/eli/fga/2013/360)).
-[^29-4]: Introdotta dal n. I della LF del 27 set. 2013, in vigore dal 1° mar. 2014 ([RU 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1687](https://fedlex.data.admin.ch/eli/fga/2013/360)).
-[^29-5]: Originaria lett. d. Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mar. 2017 ([RU 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^29-6]: Originaria lett. e. Abrogata dal n. I della LF del 30 set. 2016, con effetto dal 1° mar. 2017 ([RU 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^29-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^29-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^29-3]: Introdotta dalla cifra I della LF del 27 set. 2013, in vigore dal 1° mar. 2014 ([RU 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1687](https://fedlex.data.admin.ch/eli/fga/2013/360)).
+[^29-4]: Introdotta dalla cifra I della LF del 27 set. 2013, in vigore dal 1° mar. 2014 ([RU 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1687](https://fedlex.data.admin.ch/eli/fga/2013/360)).
+[^29-5]: Originaria lett. d. Nuovo testo giusta la cifra I della LF del 30 set. 2016, in vigore dal 1° mar. 2017 ([RU 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^29-6]: Originaria lett. e. Abrogata dalla cifra I della LF del 30 set. 2016, con effetto dal 1° mar. 2017 ([RU 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 30
 
@@ -724,9 +724,13 @@ Nei trattati può anche stipulare accordi concernenti:
 - c. la protezione e l’attribuzione della proprietà intellettuale generata o necessaria nell’ambito della cooperazione scientifica;
 - d. la partecipazione della Confederazione a persone giuridiche di diritto pubblico o privato;
 - e. l’adesione a organizzazioni internazionali;
+- e<sup>bis</sup>.[^31-1] l’adesione a infrastrutture di ricerca internazionali con sede all’estero rette dal regolamento (CE) n. 723/2009[^31-2];
 - f. le attività di controllo svolte da rappresentanti di Paesi terzi e da organizzazioni internazionali in centri di ricerca universitari e in altre istituzioni di ricerca private o pubbliche in Svizzera.
 
 <sup>3</sup> Se i trattati di cui al capoverso 1 interessano i loro compiti, gli organi di ricerca, la Conferenza svizzera delle scuole universitarie e il settore dei PF devono essere previamente sentiti.
+
+[^31-1]: Introdotta dalla cifra I della LF del 16 dic. 2022, in vigore dal 1° lug. 2023 ([RU 2023 226](https://fedlex.data.admin.ch/eli/oc/2023/226); [FF 2022 1137](https://fedlex.data.admin.ch/eli/fga/2022/1137)).
+[^31-2]: Regolamento (CE) n. 723/2009 del Consiglio, del 25 giugno 2009, relativo al quadro giuridico comunitario applicabile ad un consorzio per un’infrastruttura europea di ricerca (ERIC), GU L 206 dell’8.8.2009, pag. 1; modificato da ultimo dal regolamento (UE) n. 1261/2013, GU L 326 del 6.12.2013, pag. 1.
 
 ### Sezione 7: Parco svizzero dell’innovazione
 
@@ -778,7 +782,7 @@ Il sostegno può essere accordato alle condizioni seguenti:
 
 <sup>3</sup> Il parco dell’innovazione è suddiviso in più sedi. Per le istituzioni responsabili delle sedi possono essere previsti diversi enti responsabili secondo il capoverso 2 lettera b. Le condizioni di cui al capoverso 2 lettera c si applicano a ogni istituzione. Le istituzioni responsabili delle varie sedi devono inoltre offrire sufficienti garanzie per un’interconnessione appropriata tra le sedi.
 
-[^33-1]: Nuovo testo giusta il n. I della LF del 25 set. 2020, in vigore dal 15 apr. 2021 ([RU 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [FF 2020 3295](https://fedlex.data.admin.ch/eli/fga/2020/866)).
+[^33-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2020, in vigore dal 15 apr. 2021 ([RU 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [FF 2020 3295](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 34
 
@@ -822,7 +826,7 @@ L’Assemblea federale stabilisce per un periodo pluriennale, mediante decreto f
 - e.[^36-2] il limite di spesa per le spese d’esercizio dell’istituzione responsabile del parco svizzero dell’innovazione secondo l’articolo 33 capoverso 2 lettera b.
 
 [^36-1]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^36-2]: Introdotta dal n. I della LF del 25 set. 2020, in vigore dal 15 apr. 2021 ([RU 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [FF 2020 3295](https://fedlex.data.admin.ch/eli/fga/2020/866)).
+[^36-2]: Introdotta dalla cifra I della LF del 25 set. 2020, in vigore dal 15 apr. 2021 ([RU 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [FF 2020 3295](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 37
 
@@ -841,7 +845,7 @@ I sussidi federali destinati alla cooperazione internazionale sono liberati e ve
 - a. nei trattati internazionali; o
 - b. nelle relative decisioni e nelle convenzioni.
 
-[^37-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^37-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### Sezione 9: Restituzione e rimborso
 
@@ -886,7 +890,7 @@ Se i risultati della ricerca finanziata in tutto o in parte dalla Confederazione
 <sup>3</sup> Le istituzioni di promozione della ricerca, Innosuisse[^40-1] e l’Amministrazione federale, per quanto svolga compiti di promozione della ricerca o dell’innovazione, coordinano le loro attività armonizzando i provvedimenti di promozione e collaborando nell’ambito delle rispettive attività di promozione. Nei loro sforzi di coordinamento, tengono conto delle esigenze dell’insegnamento, della ricerca svolta senza l’aiuto della Confederazione, della ricerca condotta all’estero e del coordinamento secondo la LPSU[^40-2].
 
 [^40-1]: Nuova espr. giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^40-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^40-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 ### Sezione 2: Coordinamento da parte del Consiglio federale
 
@@ -990,8 +994,8 @@ Devono elaborare programmi pluriennali:
 
 <sup>3</sup> I due PF e i centri di ricerca del settore dei PF forniscono le informazioni necessarie sulle loro ricerche nell’ambito della procedura prevista dalla legge del 4 ottobre 1991[^46-2] sui PF.
 
-[^46-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^46-2]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^46-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^46-2]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 #### Art. 47
 
@@ -1069,8 +1073,8 @@ Le istituzioni di promozione della ricerca, Innosuisse e l’Amministrazione fed
 
 <sup>4</sup> La SEFRI gestisce una banca dati sui progetti di ricerca del settore pubblico*.*
 
-[^53-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^53-2]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^53-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^53-2]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 ## Capitolo 6: Consiglio svizzero della scienza
 
@@ -1098,7 +1102,7 @@ Su mandato del Consiglio federale o del DEFR, svolge i seguenti compiti:
 - d. presta consulenza al Consiglio federale nell’esecuzione della presente legge.
 
 [^54-1]: Nuova espr. giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^54-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^54-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 55
 
@@ -1110,7 +1114,7 @@ Su mandato del Consiglio federale o del DEFR, svolge i seguenti compiti:
 
 <sup>3</sup> Il CSS disciplina la sua organizzazione e la sua gestione in un’ordinanza. Questa sottostà all’approvazione del Consiglio federale.[^55-1]
 
-[^55-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^55-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 ## Capitolo 7: Disposizioni finali
 
@@ -1132,8 +1136,8 @@ Il Consiglio federale emana le disposizioni d’esecuzione.
 
 …[^57-3]
 
-[^57-1]: [[RU 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 19; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. 3 n. 3, [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)all. n. 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)n. I 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 13; [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532)]
-[^57-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^57-1]: [[RU 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 19; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. 3 n. 3, [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)all. n. 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)cifra I n. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I n. 13; [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532)]
+[^57-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^57-3]: La mod. può essere consultata alla [RU 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786).
 
 #### Art. 57a
@@ -1164,7 +1168,7 @@ Mette in vigore le disposizioni qui appresso simultaneamente alla LPSU[^58-1]:
 
 Data dell’entrata in vigore: 1° gennaio 2014[^58-3] Art. 4 lett. c n. 2, 7 cpv. 1 lett. b e 46 cpv. 2 entrano in vigore simultaneamente alla LPSU (art. 58 cpv. 3).[^58-4]
 
-[^58-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^58-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^58-2]: [[RU 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109)]
 [^58-3]: DCF del 29 nov. 2013.
-[^58-4]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691); in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)).
+[^58-4]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771); in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)).

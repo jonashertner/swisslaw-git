@@ -4,11 +4,11 @@ title: Bundesgesetz vom 14. Dezember 2012 über die Förderung der Forschung und
 short: FIFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: de
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230701-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230101/de"
 
 (FIFG)
 
-vom 14. Dezember 2012 (Stand am 1. Januar 2023)
+vom 14. Dezember 2012 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 64 Absätze 1 und 3 der Bundesverfassung[^ingress-1], nach
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2011 8827](https://fedlex.data.admin.ch/eli/fga/2011/1544)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -103,8 +103,8 @@ Forschungsorgane nach diesem Gesetz sind:
 
 [^4-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^4-2]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^4-3]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^4-4]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^4-3]: [SR 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
+[^4-4]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 5
 
@@ -169,7 +169,7 @@ Der Bund fördert die Forschung und die Innovation nach diesem Gesetz sowie nach
 
 <sup>4</sup> Er kann die Forschungsförderungsinstitutionen und die Innosuisse mit Aufgaben der internationalen Zusammenarbeit beauftragen, deren Erfüllung ihre Fachkompetenz erfordert.[^7-5]
 
-[^7-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^7-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^7-2]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^7-3]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^7-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
@@ -294,8 +294,8 @@ Sie sehen in ihren Reglementen für Verstösse gegen die wissenschaftliche Integ
 
 <sup>5</sup> Straftaten nach Artikel 37 oder 38 des Subventionsgesetzes vom 5. Oktober 1990[^12-1] im Bereich der Forschungsförderung werden nach den Bestimmungen des Bundesgesetzes vom 22. März 1974[^12-2] über das Verwaltungsstrafrecht durch das SBFI geahndet.
 
-[^12-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^12-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^12-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^12-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 13
 
@@ -316,7 +316,7 @@ Die Gesuchstellerinnen und Gesuchsteller können mit Beschwerde rügen:
 
 <sup>5</sup> Im Übrigen richtet sich das Beschwerdeverfahren nach den allgemeinen Bestimmungen über die Bundesrechtspflege.
 
-[^13-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^13-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 3. Abschnitt: Forschung und Forschungsförderung durch die Bundesverwaltung
 
@@ -482,7 +482,7 @@ Sie kann in Einzelfällen vom Umsetzungspartner eine höhere Beteiligung als 60 
 
 <sup>6</sup> Die geförderten Vorhaben müssen die Grundsätze der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis beachten. Bei Verstössen gelten die Sanktionen und die Informationspflicht nach Artikel 12 Absätze 2–4.
 
-[^19-1]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
+[^19-1]: [SR 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
 [^19-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^19-3]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^19-4]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), mit Wirkung seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
@@ -596,7 +596,7 @@ Die Innosuisse kann die Verwertung des Wissens und den Wissens- und Technologiet
 Für die Förderung der Innovation durch die Innosuisse gelten die Vorgaben des Subventionsgesetzes vom 5. Oktober 1990[^24-2].
 
 [^24-1]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^24-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^24-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 25
 
@@ -604,8 +604,8 @@ Für die Förderung der Innovation durch die Innosuisse gelten die Vorgaben des 
 
 Straftaten nach Artikel 37 oder 38 des Subventionsgesetzes vom 5. Oktober 1990[^25-1] im Bereich der Innovationsförderung werden nach den Bestimmungen des Bundesgesetzes vom 22. März 1974[^25-2] über das Verwaltungsstrafrecht durch das WBF geahndet.
 
-[^25-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^25-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^25-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### 5. Abschnitt: Kompetenz des Bundesrates zum Erlass zusätzlicher Fördervoraussetzungen
 
@@ -726,9 +726,13 @@ In den Verträgen kann er auch Vereinbarungen treffen über:
 - c. die Sicherung und die Zuteilung des im Rahmen der wissenschaftlichen Zusammenarbeit entstehenden oder benötigten geistigen Eigentums;
 - d. die Beteiligung des Bundes an öffentlich-rechtlichen oder privatrechtlichen juristischen Personen;
 - e. den Beitritt zu internationalen Organisationen;
+- e<sup>bis</sup>.[^31-1] den Beitritt zu internationalen Forschungsinfrastrukturen mit Sitz im Ausland nach der Verordnung (EG) Nr. 723/2009[^31-2];
 - f. die Kontrolltätigkeiten von Vertreterinnen und Vertretern aus Drittstaaten und von internationalen Organisationen bei Hochschulforschungsstätten und andern beteiligten privaten oder öffentlichen Forschungsinstitutionen in der Schweiz.
 
 <sup>3</sup> Berühren die Verträge nach Absatz 1 die Aufgaben bestimmter Forschungsorgane, der Schweizerischen Hochschulkonferenz oder des ETH-Rates, so sind diese vorher anzuhören.
+
+[^31-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Juli 2023 ([AS 2023 226](https://fedlex.data.admin.ch/eli/oc/2023/226); [BBl 2022 1137](https://fedlex.data.admin.ch/eli/fga/2022/1137)).
+[^31-2]: Verordnung (EG) Nr. 723/2009 des Rates vom 25. Juni 2009 über den gemeinschaftlichen Rechtsrahmen für ein Konsortium für eine europäische Forschungsinfrastruktur (ERIC), ABl. L 206 vom 8.8.2009, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 1261/2013, ABl. L 326 vom 6.12.2013, S. 1.
 
 ### 7. Abschnitt: Schweizerischer Innovationspark
 
@@ -843,7 +847,7 @@ Die Freigabe und die Auszahlung der Bundesbeiträge im Rahmen der internationale
 - a. den Bestimmungen der völkerrechtlichen Verträge; oder
 - b. den Bestimmungen der Beitragsverfügungen und Vereinbarungen.
 
-[^37-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^37-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### 9. Abschnitt: Rückforderung und Rückzahlung
 
@@ -887,7 +891,7 @@ Werden die Resultate der ganz oder teilweise mit Bundesmitteln finanzierten Fors
 
 <sup>3</sup> Die Forschungsförderungsinstitutionen, die Innosuisse sowie die Bundesverwaltung, soweit sie Aufgaben der Forschungs- oder Innovationsförderung wahrnimmt, koordinieren ihre Tätigkeiten durch Abstimmung ihrer Fördermassnahmen und Zusammenarbeit im Rahmen ihrer Förderaktivitäten. Sie berücksichtigen bei ihren Koordinationsanstrengungen die Bedürfnisse der Lehre, die ohne Bundeshilfe durchgeführte Forschung, die Forschung im Ausland und die Koordination nach dem HFKG[^40-1].
 
-[^40-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^40-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 ### 2. Abschnitt: Koordination durch den Bundesrat
 
@@ -991,8 +995,8 @@ Zur Ausarbeitung von Mehrjahresprogrammen sind verpflichtet:
 
 <sup>3</sup> Die beiden ETH und die Forschungsanstalten des ETH-Bereichs liefern die erforderlichen Informationen über ihre Forschung im Rahmen der Verfahren nach dem ETH-Gesetz vom 4. Oktober 1991[^46-2].
 
-[^46-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^46-2]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^46-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^46-2]: [SR 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 #### Art. 47
 
@@ -1070,8 +1074,8 @@ Die Forschungsförderungsinstitutionen, die Innosuisse und die Bundesverwaltung 
 
 <sup>4</sup> Das SBFI führt für die Projekte der Ressortforschung eine Datenbank*.*
 
-[^53-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^53-2]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^53-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^53-2]: [SR 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 ## 6. Kapitel: Schweizerischer Wissenschaftsrat
 
@@ -1099,7 +1103,7 @@ Er erfüllt im Auftrag des Bundesrates oder des WBF die folgenden Aufgaben:
 - d. Er berät den Bundesrat beim Vollzug dieses Gesetzes.
 
 [^54-1]: Ausdruck gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Diese Änd. wurde im ganzen Erlass berücksichtig.
-[^54-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^54-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 55
 
@@ -1134,7 +1138,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 …[^57-3]
 
 [^57-1]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)Art. 19; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 4 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Anhang Ziff. 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)Ziff. I 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 13; [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532)]
-[^57-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^57-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^57-3]: Die Änderung kann unter [AS 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)konsultiert werden.
 
 #### Art. 57a
@@ -1153,16 +1157,19 @@ Beraterinnen und Berater, die zum Zeitpunkt des Inkrafttretens der Änderung vom
 
 <sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
 
-<sup>3</sup> Datum des Inkrafttretens: 1. Januar 2014[^58-1] Artikel 4 Buchstabe c Ziffer 2, 7 Absatz 1 Buchstabe b und 46 Absatz 2 werden gleichzeitig mit dem HFKG[^58-2] in Kraft gesetzt (Art. 58 Abs. 3).
+<sup>3</sup>
 
-Er setzt die folgenden Bestimmungen gleichzeitig mit dem HFKG[^58-3] in Kraft:
+Er setzt die folgenden Bestimmungen gleichzeitig mit dem HFKG[^58-1] in Kraft:
 
 - a. Artikel 4 Buchstabe c Ziffer 2;
 - b. Artikel 7 Absatz 1 Buchstabe b;
 - c. Artikel 46 Absatz 2.
-- [tab] <sup>4</sup> Die Artikel 5 Buchstabe b Ziffern 2 und 3, 6 Absatz 1 Buchstaben b und c sowie 24 Absatz 2 des Forschungs- und Innovationsförderungsgesetzes vom 7. Oktober 1983[^58-4] werden gleichzeitig mit dem Inkrafttreten des HFKG aufgehoben.
 
-[^58-1]: BRB vom 29. Nov. 2013
-[^58-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691), in Kraft seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691))
-[^58-3]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^58-4]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99)**]**
+<sup>4</sup> Die Artikel 5 Buchstabe b Ziffern 2 und 3, 6 Absatz 1 Buchstaben b und c sowie 24 Absatz 2 des Forschungs- und Innovationsförderungsgesetzes vom 7. Oktober 1983[^58-2] werden gleichzeitig mit dem Inkrafttreten des HFKG aufgehoben.
+
+Datum des Inkrafttretens: 1. Januar 2014[^58-3] Artikel 4 Buchstabe c Ziffer 2, 7 Absatz 1 Buchstabe b und 46 Absatz 2 werden gleichzeitig mit dem HFKG[^58-4] in Kraft gesetzt (Art. 58 Abs. 3).
+
+[^58-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^58-2]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99)**]**
+[^58-3]: BRB vom 29. Nov. 2013
+[^58-4]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771), in Kraft seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691))

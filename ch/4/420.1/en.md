@@ -4,11 +4,11 @@ title: Federal Act of 14 December 2012 on the Promotion of Research and Innovati
 short: RIPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: en
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230101-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230701-en-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RIPA)
 
-of 14 December 2012 (Status as of 1 January 2023)
+of 14 December 2012 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Article 64 paragraphs 1 and 3 of the Federal Constitution[^ingress-1], 
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2011 8827](https://fedlex.data.admin.ch/eli/fga/2011/1544)
 
 ## Chapter 1 General Provisions
@@ -101,20 +101,20 @@ Pursuant to this Act, research bodies are:
   the Federal Administration, insofar as it:
 
   - 1\. conducts policy research for the fulfilment of its remit, or
-  - 2\. carries out activities to promote research and innovation.
+  - 2\. carries out activities to encourage research and innovation.
 
 [^4-1]: Amended by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^4-2]: Amended by Annex No 2 of the FA of 17 June 2016 on the Swiss Innovation Agency, in force since 1 Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^4-3]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^4-4]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^4-3]: [SR 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
+[^4-4]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 5
 
 **Non-commercial research centres outside the higher education sector**
 
-Pursuant to this Act, non-commercial research centres outside the higher education sector are defined as institutions with public or private funding bodies which are not research bodies under Article 4, whose aim is to conduct research activities and which meet the following requirements:
+Pursuant to this Act, non-commercial research centres outside the higher education sector are defined as publicly or privately controlled institutions which are not research bodies under Article 4, whose aim is to conduct research activities and which meet the following requirements:
 
-- a. the funding bodies and owners of the institution do not gain pecuniary advantage from its research activities;
+- a. the parties that control or own the institution do not derive any pecuniary benefits from its research activities;
 - b. the level and quality of the research is comparable to that of research carried out by higher education research centres.
 
 #### Art. 6
@@ -143,7 +143,7 @@ Furthermore, when fulfilling their tasks, they take account of:
 - a. the goals of the sustainable development of society, the economy and the environment;
 - b. international collaboration undertaken by other research bodies and the Confederation.
 
-<sup>4</sup> When promoting innovation they are attentive to their contribution to competitiveness, value creation and employment in Switzerland.
+<sup>4</sup> When encouraging innovation they are attentive to their contribution to competitiveness, value creation and employment in Switzerland.
 
 ## Chapter 2 Promotion
 
@@ -155,23 +155,23 @@ Furthermore, when fulfilling their tasks, they take account of:
 
 <sup>1</sup>
 
-The Confederation shall promote research and innovation pursuant to this Act and other specific legislation by:
+The Confederation shall encourage research and innovation pursuant to this Act and other specific legislation by:
 
-- a. supporting the two federal institutes of technology and the research institutes within the Federal Institutes of Technology Domain;
+- a. managing the two federal institutes of technology and the research institutes within the Federal Institutes of Technology Domain;
 - b. granting financial contributions under the HEdA[^7-1];
 - c. supporting research funding institutions;
 - d. supporting research facilities of national importance;
-- e. its own policy research, including setting up and operating federal research institutes;
+- e. conducting its own policy research, including setting up and operating federal research institutes;
 - f.[^7-2] managing Innosuisse and other innovation support measures;
-- g.[^7-3] international cooperation in research and innovation.
+- g.[^7-3] pursuing international cooperation in research and innovation.
 
 <sup>2</sup> The Confederation may support the creation of a Swiss Innovation Park in order to secure Switzerland’s position as a location for research and innovation.
 
-<sup>3</sup> The Federal Council may give research funding institutions and Innosuisse, individually or jointly, the task of implementing special programmes or topic-specific funding programmes.[^7-4]
+<sup>3</sup> The Federal Council may give research funding institutions and Innosuisse, individually or jointly, the task of implementing special programmes or topic-specific funding and support programmes.[^7-4]
 
 <sup>4</sup> It may delegate international cooperation tasks to research funding institutions and Innosuisse, when their specific competencies are required in order to carry out these tasks.[^7-5]
 
-[^7-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^7-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^7-2]: Amended by Annex No 2 of the FA of 17 June 2016 on the Swiss Innovation Agency, in force since 1 Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^7-3]: Amended by Annex No 2 of the FA of 17 June 2016 on the Swiss Innovation Agency, in force since 1 Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^7-4]: Amended by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
@@ -193,15 +193,15 @@ The Confederation shall promote research and innovation pursuant to this Act and
 
 <sup>1</sup> The research funding institutions perform tasks that, in practice, need to be carried out within the scope of scientific self-governance.
 
-<sup>2</sup> They promote research which does not directly serve commercial purposes.
+<sup>2</sup> They encourage research which does not directly serve commercial purposes.
 
-<sup>3</sup> They promote research in accordance with their own statutes and regulations. These require the approval of the Federal Council, insofar as they cover activities for which federal funding is used. The research funding institutions may delegate the task of issuing implementing provisions of minor importance to the statutes and regulations requiring approval to subsidiary bodies. These provisions do not require approval.[^9-1]
+<sup>3</sup> They encourage research in accordance with their own statutes and regulations. These require the approval of the Federal Council, insofar as they cover activities for which federal funding is used. The research funding institutions may delegate the task of issuing implementing provisions of minor importance to the statutes and regulations requiring approval to subsidiary bodies. These provisions do not require approval.[^9-1]
 
-<sup>4</sup> The research funding institutions place particular emphasis on the promotion of basic research.
+<sup>4</sup> The research funding institutions place particular emphasis on encouraging basic research.
 
 <sup>5</sup>
 
-They promote research in non-commercial research institutes outside the higher education sector according to the following requirements:
+They encourage research in non-commercial research institutes outside the higher education sector according to the following requirements:
 
 - a. the scientific independence of the persons in charge of the implementation of research is ensured;
 - b. the research serves the education and training of young researchers;
@@ -219,11 +219,11 @@ They promote research in non-commercial research institutes outside the higher e
 
 It uses the contributions granted by the Confederation for, in particular:
 
-- a. research funding within the framework of the research instruments that it has set up;
+- a. research funding within the framework of the funding instruments that it has established;
 - b. funding programmes and networked research projects at national and international level that it has decided to participate in;
 - c. implementing national funding programmes which have been approved and commissioned by the Federal Council, particularly the National Research Programmes and the National Centres of Competence in Research;
 - d. supporting Switzerland’s participation in international programmes which have been approved and commissioned by the Federal Council;
-- e. supporting measures for the evaluation and exploitation of results of research which it has encouraged.
+- e. supporting measures for the evaluation and exploitation of results of research that it has funded.
 
 <sup>3</sup>
 
@@ -255,13 +255,13 @@ Within its remit and responsibilities, it decides on suitable instruments and th
 
 They shall use the contributions granted by the Confederation for the following purposes in particular:
 
-- a. conducting and promoting the early recognition of themes relevant to society in education, research and innovation;
+- a. conducting and supporting the early recognition of themes relevant to society in education, research and innovation;
 - b. striving to ensure that whoever makes or applies scientific discoveries fulfils their ethical responsibilities;
-- c. encouraging dialogue between the world of science and society; they shall promote studies on the opportunities and risks of innovations and technologies.[^11-3]
+- c. encouraging dialogue between the world of science and society; they shall fund studies on the opportunities and risks of innovations and technologies.[^11-3]
 
 <sup>3</sup> The individual institutions mentioned in Article 4 letter a number 2 shall coordinate their research funding activities in the context of the Swiss Academies of Arts and Sciences and in particular ensure collaboration with higher education research centres.[^11-4]
 
-<sup>4</sup> They promote collaboration among scientists and experts in specialist bodies, commissions and other suitable organisational forms and use these to perform their tasks.
+<sup>4</sup> They encourage collaboration among scientists and experts in specialist bodies, commissions and other suitable organisational forms and use these to perform their tasks.
 
 <sup>5</sup> They support international scientific collaboration by funding or running suitable institutions, in particular national coordination platforms and scientific administrative offices for internationally coordinated programmes in which Switzerland participates.
 
@@ -281,7 +281,7 @@ They shall use the contributions granted by the Confederation for the following 
 
 <sup>1</sup> The research funding institutions ensure that research which they support conforms to the rules of scientific integrity and good scientific practice.
 
-<sup>2</sup> If they have good reason to believe that these rules are being breached, they may, within their promotion and controlling mechanisms, obtain information from national or foreign institutions or persons concerned and provide information to such institutions or persons.
+<sup>2</sup> If they have good reason to believe that these rules are being breached, they may, within their funding and controlling mechanisms, obtain information from national or foreign institutions or persons concerned and provide information to such institutions or persons.
 
 <sup>3</sup>
 
@@ -294,10 +294,10 @@ They shall set out administrative sanctions in their regulations for violations 
 
 <sup>4</sup> They may inform the employing institution of violations and sanctions.
 
-<sup>5</sup> Offences under Article 37 or 38 of the Subsidies Act of 5 October 1990[^12-1] in relation to the promotion of research are prosecuted by SERI in accordance with the provisions of the Federal Act of 22 March 1974[^12-2] on Administrative Criminal Law.
+<sup>5</sup> Offences under Article 37 or 38 of the Subsidies Act of 5 October 1990[^12-1] in relation to research funding are prosecuted by SERI in accordance with the provisions of the Federal Act of 22 March 1974[^12-2] on Administrative Criminal Law.
 
-[^12-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^12-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^12-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^12-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 13
 
@@ -305,7 +305,7 @@ They shall set out administrative sanctions in their regulations for violations 
 
 <sup>1</sup> The research funding institutions regulate their procedures for rulings on funding. These must comply with the requirements of Articles 10 and 26–38 of the Administrative Procedure Act of 20 December 1968[^13-1] (APA).
 
-<sup>2</sup> Article 11*b* APA applies to notification of rulings given to applicants abroad in the case of cross-border procedures.
+<sup>2</sup> Article 11*b* APA applies to notification of rulings given to applicants abroad in the case of cross-border funding procedures.
 
 <sup>3</sup>
 
@@ -318,7 +318,7 @@ Applicants may appeal against:
 
 <sup>5</sup> Furthermore the appeal procedure shall comply with the general provisions on the administration of federal justice.
 
-[^13-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^13-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### Section 3 Research and Research Promotion by the Federal Administration
 
@@ -375,10 +375,10 @@ Policy research may include the following measures:
 
 - a. the awarding of research contracts (contract research);
 - b. running the Confederation's own research institutes;
-- c. implementing the Federal Administration’s own research programmes, in particular in cooperation with higher education research centres, research funding institutions, Innosuisse or other funding organisations;
+- c. implementing the Federal Administration’s own research programmes, in particular in cooperation with higher education research centres, research funding institutions, Innosuisse or other organisations that fund research;
 - d. providing contributions to higher education research centres for the implementation of research programmes.[^16-2]
 
-<sup>3</sup> In addition to the measures under paragraph 2, policy research institutions which are not federal research institutes, but which must conduct their own research projects for the appropriate fulfilment of their remit, may apply to Innosuisse[^16-3] or other national and international funding organisations for third party funding or for participation in programmes.[^16-4]
+<sup>3</sup> In addition to the measures under paragraph 2, policy research institutions which are not federal research institutes, but which must conduct their own research projects for the appropriate fulfilment of their remit, may apply for third-party funding or programme participation from Innosuisse[^16-3] or other national and international organisations that fund research.[^16-4]
 
 <sup>4</sup> Policy research is subject to the principles of Article 6 paragraph 1 letters a, b and c as well as paragraph 3 and 4.
 
@@ -408,11 +408,11 @@ Policy research may include the following measures:
 
 <sup>5</sup> If measures under paragraphs 1 and 2 affect the activities of other research bodies, the Swiss University Conference or the ETH Board, they shall be consulted beforehand.
 
-<sup>6</sup> Federal research institutes may apply to Innosuisse or other national and international funding organisations for third party funding or for participation in programmes.[^17-1]
+<sup>6</sup> Federal research institutes may apply for third-party funding or programme participation fromInnosuisse or other national and international organisations that fund research.[^17-1]
 
 [^17-1]: Inserted by Annex No 2 of the FA of 17 June 2016 on the Swiss Innovation Agency, in force since 1 Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
-### Section 4 Innovation Promotion
+### Section 4 Innovation Support
 
 #### Art. 18
 
@@ -424,15 +424,15 @@ Policy research may include the following measures:
 
 In addition, it may support:
 
-- a.[^18-1] measures to develop and support science-based entrepreneurial initiatives;
+- a.[^18-1] measures to develop and support science-based entrepreneurship;
 - b. measures for setting up and developing science-based companies;
-- b<sup>bis</sup>.[^18-2] measures to encourage highly qualified persons in the field of innovation;
+- b<sup>bis</sup>.[^18-2] measures to support highly qualified persons in the field of innovation;
 - c. the exploitation of knowledge and the knowledge and technology transfer between higher education institutions, the private sector and society;
-- d.[^18-3] the provision of information on funding options at national and international level.
+- d.[^18-3] the provision of information on support options at national and international level.
 
-<sup>3</sup> It shall develop the principles for promoting innovation.
+<sup>3</sup> It shall develop the principles for supporting innovation.
 
-<sup>4</sup> It shall ensure the evaluation of funding activities.
+<sup>4</sup> It shall ensure the evaluation of support activities.
 
 [^18-1]: Amended by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^18-2]: Inserted by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
@@ -442,9 +442,9 @@ In addition, it may support:
 
 **Innovation project funding**
 
-<sup>1</sup> As the Confederation’s funding institution for science-based innovation, Innosuisse may fund innovation projects as defined in the Federal Act of 17 June 2016[^19-1] on the Swiss Innovation Agency that are carried out by higher education research centres and non-commercial research centres outside the higher education sector (research partners) with private or public partners, which are responsible for exploiting the results (implementing partners).[^19-2]
+<sup>1</sup> As the Confederation’s funding body for science-based innovation as defined in the Federal Act of 17 June 2016[^19-1] on the Swiss Innovation Agency, Innosuisse may fund innovation projects that are carried out by higher education research centres and non-commercial research centres outside the higher education sector (research partners) with private or public partners, which are responsible for exploiting the results (implementation partners).[^19-2]
 
-<sup>1bis</sup> The contribution from Innosuisse shall be used to cover the direct project costs incurred by the research partners. Innosuisse may in its Contribution Ordinance provide that contributions are also paid to implementing partners, if this is required for international cooperation in the field of science-based innovation.[^19-3]
+<sup>1bis</sup> The contribution from Innosuisse shall be used to cover the direct project costs incurred by the research partners. Innosuisse may in its Funding Ordinance provide that contributions are also paid to implementation partners, if this is required for international cooperation in the field of science-based innovation.[^19-3]
 
 <sup>2</sup>
 
@@ -453,38 +453,38 @@ Contributions shall only be granted if the following requirements are fulfilled:
 - a.[^19-4] ...
 - b. effective implementation of the research findings in favour of the economy and society may be expected;
 - c. the project could probably not be carried out without the Confederation’s support;
-- d.[^19-5] the implementing partners participate in the project by means of their own contributions or contributions to the research partners amounting to 40–60 per cent of the direct overall project costs;
+- d.[^19-5] the implementation partners participate in the project by means of their own contributions or contributions to the research partners amounting to 40–60 per cent of the direct overall project costs;
 - e. the project contributes to the practice-oriented training of young researchers.
 
 <sup>2bis</sup>
 
-Innosuisse may in individual cases demand a smaller participation than 40 per cent from the implementing partners, provided any one of the following requirements is met:
+Innosuisse may in individual cases demand a smaller participation than 40 per cent from the implementation partners, provided any one of the following requirements is met:
 
 - a. The project has above-average realisation risks but at the same time the potential for above-average economic success or a high social benefit.
-- b. The anticipated results have the potential to benefit not only the implementing partners, but also a broad group of users who are not participants in the project.
-- c. The implementing partner is financially unable at the time that the contribution is granted to contribute to the project to the extent demanded, but has an above-average potential for implementing the project results successfully.
+- b. The anticipated results have the potential to benefit not only the implementation partners, but also a broad group of users who are not participants in the project.
+- c. The implementation partner lacks the financial resources at the time that the contribution is granted to contribute to the project to the extent demanded, but has an above-average potential for implementing the project results successfully.
 - d. The project will be carried out as part of a time-limited special programme in accordance with Article 7 paragraph 3.[^19-6]
 
 <sup>2ter</sup>
 
-It may in individual cases demand a higher participation than 60 per cent from the implementing partners provided any one of the following requirements is met:
+It may in individual cases demand a higher participation than 60 per cent from the implementation partners provided any one of the following requirements is met:
 
-- a. The project has lower realisation risks and at the same time an above-average potential for economic success for the implementing partner.
-- b. The economic capacity of the implementing partner or the characteristics of the project justify a higher participation, especially if the implementing partner does not finance part of its participation itself due to other support.[^19-7]
+- a. The project has lower realisation risks and at the same time an above-average potential for economic success for the implementation partner.
+- b. The economic capacity of the implementation partner or the characteristics of the project justify a higher participation, especially if the implementation partner does not finance part of its participation itself due to other support.[^19-7]
 
-<sup>3</sup> It may support innovation projects which are being pursued by research partners without implementing partners, provided the projects offer significant but not yet sufficiently specific innovation potential.[^19-8]
+<sup>3</sup> It may support innovation projects which are being pursued by research partners without implementation partners, provided the projects offer significant but not yet sufficiently specific innovation potential.[^19-8]
 
-<sup>3bis</sup> It may support the innovation projects of start-ups, if the project requires preparatory work for first-time market entry. Innosuisse’s contribution may be used to partially or fully cover both the start-up’s own direct project costs and the costs for third-party services. Innosuisse shall specify the eligibility criteria and the criteria for determining the amount of the start-up’s own contributions in its Contribution Ordinance. In particular, it shall take into account the criteria specified in paragraphs 2<sup>bis</sup> and 2<sup>ter</sup>.[^19-9]
+<sup>3bis</sup> It may support the innovation projects of start-ups, if the project requires preparatory work for first-time market entry. Innosuisse’s contribution may be used to partially or fully cover both the start-up’s own direct project costs and the costs for third-party services. Innosuisse shall specify the eligibility criteria and the criteria for determining the amount of the start-up’s own contributions in its Funding Ordinance. In particular, it shall take into account the criteria specified in paragraphs 2<sup>bis</sup> and 2<sup>ter</sup>.[^19-9]
 
-<sup>3ter</sup> Where Swiss companies are denied access to European Commission funding opportunities for individual projects, Innosuisse may support projects with significant innovation potential from start-ups and small and medium-sized enterprises that target rapid and efficient commercialisation and corresponding growth. Innosuisse's contribution may be used to partially or fully cover both the company’s own direct project costs and the costs for third-party services. Innosuisse shall specify the eligibility criteria and the criteria for determining the amount of the companies' own contributions in its Contribution Ordinance.[^19-10]
+<sup>3ter</sup> Where Swiss companies are denied access to European Commission funding opportunities for individual projects, Innosuisse may support projects with significant innovation potential from start-ups and small and medium-sized enterprises that target rapid and efficient commercialisation and corresponding growth. Innosuisse's contribution may be used to partially or fully cover both the company’s own direct project costs and the costs for third-party services. Innosuisse shall specify the eligibility criteria and the criteria for determining the amount of the companies' own contributions in its Funding Ordinance.[^19-10]
 
-<sup>4</sup> It may in addition provide for instruments to subsidise the costs of studies carried out by companies to determine the effectiveness and feasibility of projects.[^19-11]
+<sup>4</sup> It may in addition provide for instruments to subsidise the costs of studies to determine the effectiveness and feasibility of projects carried out by companies.[^19-11]
 
-<sup>5</sup> In particular, it shall promote projects under paragraphs 1 3, 3<sup>bis</sup>, 3<sup>ter</sup> and 4 which make a contribution to the sustainable use of resources.[^19-12]
+<sup>5</sup> In particular, it shall fund projects under paragraphs 1 3, 3<sup>bis</sup>, 3<sup>ter</sup> and 4 which make a contribution to the sustainable use of resources.[^19-12]
 
-<sup>6</sup> The projects promoted must follow the principles of scientific integrity and good scientific practice. If this is not the case, the sanctions and the duty to provide information under Article 12 paragraphs 2–4 apply.
+<sup>6</sup> The projects that receive funding must follow the principles of scientific integrity and good scientific practice. If this is not the case, the sanctions and the duty to provide information under Article 12 paragraphs 2–4 apply.
 
-[^19-1]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
+[^19-1]: [SR 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
 [^19-2]: Amended by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^19-3]: Inserted by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^19-4]: Repealed by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), with effect from 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
@@ -493,15 +493,15 @@ It may in individual cases demand a higher participation than 60 per cent from t
 [^19-7]: Inserted by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^19-8]: Amended by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^19-9]: Inserted by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-10]: Inserted by No I of the FA of 17 Dec. 2021 (Changes to Innovation Promotion), in force since 15 April 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-10]: Inserted by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 15 April 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^19-11]: Amended by Annex No 2 of the FA of 17 June 2016 on the Swiss Innovation Agency, in force since 1 Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-12]: Amended by No I of the FA of 17 Dec. 2021 (Changes to Innovation Promotion), in force since 15 April 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-12]: Amended by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 15 April 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 20
 
-**Support for science-based companies**[^20-1]
+**Support for science-based entrepreneurship**[^20-1]
 
-<sup>1</sup> As part of its efforts to help science-based businesses to develop and improve, Innosuisse may provide training, raise awareness and offer information and advisory services to individuals who wish to start a business, who have recently started a business or who wish become part of an existing business or who wish to reorient their business activities.
+<sup>1</sup> Among the measures to develop and support science-based entrepreneurship, Inno-suisse may provide training, raise awareness and offer information and advisory services to individuals who wish to establish or have established a company, take over an existing company or reorient their business activities.
 
 <sup>2</sup>
 
@@ -527,7 +527,7 @@ It may support the setting up and development of science-based companies by:
 For this purpose, contributions may be paid to enable such persons to:
 
 - a. conduct feasibility studies or similar projects;
-- b. pursue continuing education and training;
+- b. take part in continuing education and training programmes;
 - c. undertake guest residencies to foster interaction between researchers and practitioners.
 
 <sup>3</sup> The contributions may be paid to a highly qualified person to cover direct project costs, participation fees or living expenses or in the case of guest residencies to their employer to cover the costs of continued payment of salary. They may also be paid in the form of grants or interest-free loans.
@@ -547,11 +547,11 @@ Innosuisse may support the use of knowledge and the transfer of knowledge and te
 - a. measures to bring science-based innovation stakeholders together for the purpose of pursuing innovation projects;
 - b. measures to improve the innovative capacity of small- and medium-sized enterprises, such as innovation mentoring, continuing education and training or information-sharing platforms;
 - c. measures to help clarify intellectual property issues;
-- d. measures to ensure adequate coordination and training for innovation projects in accordance with Article 19.
+- d. coordination and training measures in innovation projects in accordance with Article 19.
 
 <sup>2</sup> It may carry out a selection procedure to accredit providers of mentoring services in accordance with paragraph 1 letter b and maintain a publicly accessible list of eligible service providers.
 
-<sup>3</sup> It may in its area of responsibility support the provision of information on funding prospects at national and international level and on the submission of applications, in particular through contributions paid to third parties that offer such information services.
+<sup>3</sup> It may in its area of responsibility support the provision of information on funding options at national and international level and on the submission of applications, in particular through contributions paid to third parties that offer such information services.
 
 [^21-1]: Amended by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
@@ -571,7 +571,7 @@ Innosuisse may support the use of knowledge and the transfer of knowledge and te
 
 **Cooperation with other research bodies**[^22a-1]
 
-<sup>1</sup> Innosuisse may pursue joint support measures with other research bodies through its instruments Articles 19–21.
+<sup>1</sup> Innosuisse may pursue joint support measures with other research bodies through its instruments in accordance with Articles 19–21.
 
 <sup>2</sup> The participating parties shall draft joint regulations laying down the procedures to be followed and the conditions of support.
 
@@ -583,7 +583,7 @@ Innosuisse may support the use of knowledge and the transfer of knowledge and te
 
 <sup>1</sup> As part of its support activities, Innosuisse shall make contributions to compensate for indirect research costs (*overheads*) incurred by higher education research centres and by non-commercial research centres outside the higher education sector.
 
-<sup>1bis</sup> If a federally funded centre of technological excellence (Art. 15 para. 3 let. c) is given a higher maximum contribution rate than that applying to other higher education research centres and non-commercial research centres outside the higher education sector, the Federal Council shall submit a corresponding proposal to the Federal Assembly with the payment structure in accordance with Article 36 letter c.[^23-2]
+<sup>1bis</sup> If a federally funded centre of technological excellence (Art. 15 para. 3 let. c) is to receive a higher maximum contribution rate than that applying to other higher education research centres and non-commercial research centres outside the higher education sector, then the Federal Council shall submit a corresponding proposal to the Federal Assembly with the payment structure in accordance with Article 36 letter c.[^23-2]
 
 <sup>2</sup> The Federal Council shall otherwise regulate the principles for calculating the contributions.[^23-3]
 
@@ -598,7 +598,7 @@ Innosuisse may support the use of knowledge and the transfer of knowledge and te
 The provisions of the Federal Act of 5 October 1990[^24-2] on Financial Assistance and Subsidies apply to Innosuisse innovation support activities.
 
 [^24-1]: Amended by Annex No 2 of the FA of 17 June 2016 on the Swiss Innovation Agency, in force since 1 Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^24-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^24-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 25
 
@@ -606,8 +606,8 @@ The provisions of the Federal Act of 5 October 1990[^24-2] on Financial Assistan
 
 Offences referred to in Article 37 or 38 of the Subsidies Act of 5 October 1990[^25-1] in relation to innovation support shall be prosecuted by the EAER under the provisions of the Federal Act of 22 March 1974[^25-2] on Administrative Criminal Law.
 
-[^25-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^25-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^25-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Section 5 Responsibility of the Federal Council for additional Eligibility Conditions
 
@@ -642,8 +642,8 @@ Measures are deemed particularly necessary in cases where:
 It may additionally make the granting of federal funding contingent on one or more of the following requirements:
 
 - a. the intellectual property rights or the rights of use to the results of federally funded research are transferred to the employer higher education research centre;
-- b. the employer higher education research centre concerned takes measures to promote the exploitation of research results, in particular their commercial use, and to share the revenues appropriately with the creators of the intellectual property;
-- c. the research and implementing partners propose regulations for intellectual property and rights of use*.*
+- b. the employer higher education research centre concerned takes measures to encourage the exploitation of research results, in particular their commercial use, and to share the revenues appropriately with the creators of the intellectual property;
+- c. the research and implementation partners propose regulations for intellectual property and rights of use*.*
 
 <sup>3</sup> If the higher education research centres concerned fail to implement the measures under paragraph 2 letter b, the creators may request the reassignment of the intellectual property rights or the rights of use.
 
@@ -657,11 +657,11 @@ It may additionally make the granting of federal funding contingent on one or mo
 
 <sup>2</sup>
 
-In the context of the overall goals for Switzerland’s international research and innovation policy, it may promote:
+In the context of the overall goals for Switzerland’s international research and innovation policy, it may support:
 
 - a. Switzerland’s participation in the development and operation of international research facilities and internationally coordinated research infrastructures;
-- b. Switzerland’s participation in international programmes and projects promoting research and innovation;
-- c. Switzerland’s involvement in international organisations and bodies in the conception, planning, implementation, operation and development of the corresponding promotion activities;
+- b. Switzerland’s participation in international programmes and projects encouraging research and innovation;
+- c. Switzerland’s involvement in international organisations and bodies in the conception, planning, implementation, operation and development of the corresponding support activities;
 - d. further bilateral and multilateral cooperation and cooperation in research and innovation.
 
 #### Art. 29
@@ -683,7 +683,7 @@ Within the limits of the credits authorised, the Federal Council may make the fo
 
 - c.[^29-2] contributions to institutions in accordance with letter b for bilateral or multilateral cooperation in research or for specific research activities abroad outside international programmes and organisations; in this context, the Federal Council may make its contribution contingent on the beneficiary making its own suitable contributions in the interests of Switzerland’s international research and innovation policy;
 - d.[^29-3] contributions to Swiss companies for devising project proposals for participation in the European Union’s framework research programmes;
-- e.[^29-4] contributions to Swiss companies for the promotion of their participation in the European Union’s framework research programmes and the initiatives and programmes co-financed by these framework programmes, provided provision is made for the company to receive government contributions for such participation;
+- e.[^29-4] contributions to Swiss companies to encourage their participation in the European Union’s framework research programmes and the initiatives and programmes co-financed by these framework programmes, provided provision is made for the company to receive government contributions for such participation;
 - f. [^29-5]
 
   contributions to non-commercial institutions and organisations for the following activities, provided they are not carried out by the Confederation itself:
@@ -710,7 +710,7 @@ The Federal Council may give the SNSF the following tasks within its remit and e
 
 - a. representing the interests of the Swiss Confederation in international bodies that conceive and plan international funding programmes in which Switzerland participates;
 - b. evaluating applications for programmes in which Switzerland participates;
-- c. implementing national promotional measures to support the Confederation’s international promotional measures;
+- c. implementing national measures to support the Confederation’s international measures to encourage research;
 - d. concluding agreements that fall within its remit with research funding organisations in other countries.
 
 #### Art. 31
@@ -728,9 +728,13 @@ In the treaties, it may make arrangements for:
 - c. safeguarding and allocating intellectual property that results from or is required in the context of scientific collaboration;
 - d. the federal participation in public or private legal entities;
 - e. accession to international organisations;
+- e<sup>bis</sup>.[^31-1] joining a foreign-based European Research Infrastructure Consortium within the meaning of Regulation (EC) No 723/2009[^31-2];
 - f. controlling activities by representatives from third countries and from international organisations in higher education research centres and other private or public research institutions involved in Switzerland.
 
 <sup>3</sup> If the agreements under paragraph 1 affect the tasks of specific research bodies, the Swiss University Conference or the ETH Board, they must be consulted beforehand.
+
+[^31-1]: Inserted by No I of the FA of 16 Dec. 2022, in force since 1 July 2023 ([AS 2023 226](https://fedlex.data.admin.ch/eli/oc/2023/226); [BBl 2022 1137](https://fedlex.data.admin.ch/eli/fga/2022/1137)).
+[^31-2]: Council Regulation (EC) No 723/2009 of 25 June 2009 on the Community legal framework for a European Research Infrastructure Consortium (ERIC), OJ L 206 of 8.8.2009, p. 1; last amended by Regulation (EU) No 1261/2013, OJ. L 326 of 6.12.2013, p. 1.
 
 ### Section 7 Swiss Innovation Park
 
@@ -744,8 +748,8 @@ The Confederation may support the construction of a Swiss Innovation Park subjec
 
 - a. the innovation park serves a greater national interest, competitiveness, resource efficiency and sustainable development;
 - b. in order to maintain a balance between the regions, it is from the outset established on several regional sites, which are coordinated and which work with the higher education institutions;
-- c. it cannot be realised as part of the ordinary promotion activities under Article 7 paragraph 1;
-- d. it complements the standard promotion activities under Sections 2 and 4 in an appropriate manner;
+- c. it cannot be realised as part of the ordinary support activities under Article 7 paragraph 1;
+- d. it complements the standard funding and support activities under Sections 2 and 4 in an appropriate manner;
 - e. it makes an effective contribution to the networking of innovation activities in Switzerland in both institutions and regions.
 
 <sup>2</sup> The Federal Assembly shall approve the Confederation’s support of a Swiss Innovation Park with a simple federal decree.
@@ -763,7 +767,7 @@ The Confederation’s support for the Swiss Innovation Park can be implemented b
 - c. the provision of suitable real estate owned by the Confederation subject to a fixed-term waiver of claims to land lease interests;
 - d. the acquisition of real estate owned by third parties;
 - e. a combination of the measures under letters a–d;
-- f.[^33-1] further measures necessary to the success of the innovation parks which cannot be achieved through standard promotion methods under Article 7 paragraph 1, particularly fixed-term interest-free loans or other appropriate financing instruments or contributions to the operating costs of the institution responsible under paragraph 2 letter b.
+- f.[^33-1] further measures necessary to the success of the innovation parks which cannot be achieved through standard support methods under Article 7 paragraph 1, particularly fixed-term interest-free loans or other appropriate financing instruments or contributions to the operating costs of the investors under paragraph 2 letter b.
 
 <sup>2</sup>
 
@@ -780,7 +784,7 @@ The following requirements apply to the support:
   - 3\. a clearly regulated structural and management organisation adapted to its legal form, which observes the principles applicable to public institutions regarding accounting, financial controlling and financial reporting to its investors;
   - 4\. regulated rights for the ETH Board, research institutes within the Federal Institutes of Technology Domain and other interested higher education institutions to participate in decision-making processes on issues affecting the activities and interests of these bodies and institutions.
 
-<sup>3</sup> The construction of the innovation park will be divided across several sites. For the institutions responsible for the locations, different funding bodies may be provided under paragraph 2 letter b. The requirements under paragraph 2 letter c apply to all of these institutions. Furthermore, the institutions responsible for each location must be able to provide a sufficient guarantee of appropriate networking of the locations.
+<sup>3</sup> The construction of the innovation park will be divided across several sites. For the institutions responsible for the locations, different investors may be provided under paragraph 2 letter b. The requirements under paragraph 2 letter c apply to all of these institutions. Furthermore, the institutions responsible for each location must be able to provide a sufficient guarantee of appropriate networking of the locations.
 
 [^33-1]: Amended by No I of the FA of 25 Sept. 2020, in force since 15 April 2021 ([AS 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [BBl 2020 3681](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
@@ -832,7 +836,7 @@ The Federal Assembly shall authorise the following for a multi-year period by si
 
 **Approval and payment of funds**
 
-<sup>1</sup> Federal contributions to research funding institutions are approved on the basis of the promotion plans which are presented annually by the institutions and approved by the relevant federal offices (Art. 48).
+<sup>1</sup> Federal contributions to research funding institutions are approved on the basis of the funding plans which are presented annually by the institutions and approved by the relevant federal offices (Art. 48).
 
 <sup>2</sup> Federal contributions to research facilities of national importance (Art. 15) are approved on the basis of rulings on contributions and on service level agreements.
 
@@ -845,7 +849,7 @@ The approval and payment of federal contributions in the context of internationa
 - a. the provisions of the international treaties; or
 - b. the provisions of rulings on contributions and agreements.
 
-[^37-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^37-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### Section 9 Repayment of Funds
 
@@ -887,9 +891,9 @@ If the results of fully or partially federally-funded research are used commerci
 
 <sup>2</sup> Research bodies shall coordinate their activities between themselves by providing each other with information in good time.
 
-<sup>3</sup> The research funding institutions, Innosuisse and the Federal Administration, insofar as they promote research and innovation, shall coordinate their activities by adjusting their promotion measures and collaboration within the scope of their promotion activities. They shall in their coordination efforts take account of teaching needs, research carried out without government funding, research abroad and coordination under the HEdA[^40-1].
+<sup>3</sup> The research funding institutions, Innosuisse and the Federal Administration, insofar as they support research and innovation, shall coordinate their activities by adjusting their support measures and collaboration within the scope of their support activities. They shall in their coordination efforts take account of teaching needs, research carried out without government funding, research abroad and coordination under the HEdA[^40-1].
 
-[^40-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^40-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 ### Section 2 Coordination by the Federal Council
 
@@ -905,19 +909,19 @@ If the results of fully or partially federally-funded research are used commerci
 
 It checks, periodically or when required:
 
-- a. the coordination between national and international promotion of research and innovation;
+- a. the coordination between national and international support for research and innovation;
 - b. the coherence between international cooperation on research and innovation and Switzerland’s economic foreign policy, development policy and general foreign policy.
 
 <sup>4</sup>
 
-Additionally, it shall take the required measures for the coherent coordination of the Confederation’s international research and innovation promotion, particularly regarding cost-intensive research infrastructures, with:
+Additionally, it shall take the required measures for the coherent coordination of the Confederation’s international support for research and innovation, particularly regarding cost-intensive research infrastructures, with:
 
 - a. development planning within the Federal Institutes of Technology Domain; and
 - b. national coordination of higher education policy and division of tasks in particularly cost- intensive fields.
 
-<sup>5</sup> It shall coordinate the planning and implementation of national promotion initiatives in the field of research and innovation which, due to their organisational and financial consequences cannot be implemented within the standard promotion activities of the research funding institutions and Innosuisse.
+<sup>5</sup> It shall coordinate the planning and implementation of national support initiatives in the field of research and innovation which, due to their organisational and financial consequences cannot be implemented within the standard support activities of the research funding institutions and Innosuisse.
 
-<sup>6</sup> In doing so, it shall ensure that the research bodies, the Swiss University Conference and the ETH Board are involved in the planning. It shall draft proposals to the Federal Assembly regarding promotional measures under paragraph 5, including decisions on financing and implementation, in agreement with the Swiss University Conference.
+<sup>6</sup> In doing so, it shall ensure that the research bodies, the Swiss University Conference and the ETH Board are involved in the planning. It shall draft proposals to the Federal Assembly regarding support measures under paragraph 5, including decisions on financing and implementation, in agreement with the Swiss University Conference.
 
 #### Art. 42
 
@@ -944,25 +948,25 @@ The coordination committee has the following tasks:
 
 The resources used for research and innovation policy planning are:
 
-- a. the review of the strategic objectives of the Confederation’s promotion policy;
+- a. the review of the strategic objectives of the Confederation’s funding policy;
 - b. the multi-year programmes;
 - c. the annual plan.
 
 #### Art. 44
 
-**Reviewing the strategic objectives of the Confederation’s promotion policy**
+**Reviewing the strategic objectives of the Confederation’s funding policy**
 
-<sup>1</sup> The EAER shall instruct national or international expert commissions to conduct the periodic review of Swiss research and innovation promotion policy or parts thereof.
+<sup>1</sup> The EAER shall instruct national or international expert commissions to conduct the periodic review of Swiss research and innovation funding policy or parts thereof.
 
 <sup>2</sup> It shall obtain an overarching statement from the Swiss Science Council[^44-1] concerning the results.
 
 <sup>3</sup> In certain cases it may instruct the Swiss Science and Innovation Council to conduct reviews under paragraph 1 or the coordination thereof.
 
-<sup>4</sup> Based on the review under paragraph 1, the Federal Council shall determine the strategic objectives for the Confederation’s research and innovation promotion policy. Before doing so, it shall consult the Swiss University Conference, the ETH Board, the SNSF, Innosuisse and, if required, other research bodies concerned.
+<sup>4</sup> Based on the review under paragraph 1, the Federal Council shall determine the strategic objectives for the Confederation’s research and innovation funding policy. Before doing so, it shall consult the Swiss University Conference, the ETH Board, the SNSF, Innosuisse and, if required, other research bodies concerned.
 
-<sup>5</sup> It shall adapt promotion policy to the new conditions.
+<sup>5</sup> It shall adapt funding policy to the new conditions.
 
-<sup>6</sup> It shall periodically submit a report on the results of the reviews under paragraph 1 and on its research and innovation promotion policy strategy to the Federal Assembly at the same time as it submits the ERI Dispatch.
+<sup>6</sup> It shall periodically submit a report on the results of the reviews under paragraph 1 and on its strategy for a research and innovation funding policy to the Federal Assembly at the same time as it submits the ERI Dispatch.
 
 [^44-1]: Term in accordance with Annex No 2 of the FA of 17 June 2016 on the Swiss Innovation Agency, in force since 1 Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)). This amendment has been made throughout the text.
 
@@ -993,8 +997,8 @@ Responsibility for development of the multi-year programme lies with:
 
 <sup>3</sup> The two federal institutes of technology and the research institutes within the Federal Institutes of Technology Domain shall provide the necessary information on their research in accordance with the procedures specified in the Federal Act of 4 October 1991[^46-2] on the Federal Institutes of Technology.
 
-[^46-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^46-2]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^46-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^46-2]: [SR 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 #### Art. 47
 
@@ -1018,7 +1022,7 @@ The multi-year programmes shall be presented to:
 
 **Annual plan**
 
-<sup>1</sup> Research funding institutions shall issue an annual promotion plan. They shall submit it to the EAER for approval.
+<sup>1</sup> Research funding institutions shall issue an annual funding plan. They shall submit it to the EAER for approval.
 
 <sup>2</sup> The EAER may delegate its power of approval to the relevant administrative unit.
 
@@ -1028,9 +1032,9 @@ The multi-year programmes shall be presented to:
 
 #### Art. 49
 
-**Information on promotion activities**
+**Information on support activities**
 
-<sup>1</sup> The research funding institutions, Innosuisse and the Federal Administration shall inform the public of their promotion activities in a suitable manner.
+<sup>1</sup> The research funding institutions, Innosuisse and the Federal Administration shall inform the public of their support activities in a suitable manner.
 
 <sup>2</sup> To this end, they shall operate publicly accessible information systems on the projects they fund in the field of research and innovation.
 
@@ -1054,7 +1058,7 @@ The research funding institutions, Innosuisse and the Federal Administration sha
 
 **Reporting**
 
-<sup>1</sup> The research funding institutions and the Federal Administration, insofar as it carries out or promotes research, shall periodically report on their activities and on the implementation of the multi-year programme to the Federal Council or the department responsible.
+<sup>1</sup> The research funding institutions and the Federal Administration, insofar as it carries out or supports research, shall periodically report on their activities and on the implementation of the multi-year programme to the Federal Council or the department responsible.
 
 <sup>2</sup> The department responsible regulates the form, extent and timing of the report, if appropriate in the context of the service level agreement concluded.
 
@@ -1072,8 +1076,8 @@ The research funding institutions, Innosuisse and the Federal Administration sha
 
 <sup>4</sup> SERI runs a database for policy research projects*.*
 
-[^53-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^53-2]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^53-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^53-2]: [SR 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 ## Chapter 6 Swiss Science Council
 
@@ -1091,9 +1095,9 @@ On behalf of the Federal Council or the EAER, it has the following tasks:
 
   It evaluates in particular:
 
-  - 1\. the Confederation’s promotion measures;
+  - 1\. the Confederation’s support measures;
   - 2\. the research bodies’ fulfilment of their tasks;
-  - 3\. the funding instruments of the research funding institutions and Innosuisse;
+  - 3\. the funding and support instruments of the research funding institutions and Innosuisse;
   - 4\. the efficacy of policy research measures.
 
 - b. It comments on specific plans or problems in research and innovation policy.
@@ -1101,7 +1105,7 @@ On behalf of the Federal Council or the EAER, it has the following tasks:
 - d. It advises the Federal Council on the implementation of this Act.
 
 [^54-1]: Term in accordance with Annex No 2 of the FA of 17 June 2016 on the Swiss Innovation Agency, in force since 1 Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)). This amendment has been made throughout the text.
-[^54-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^54-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 55
 
@@ -1136,7 +1140,7 @@ The Federal Council shall issue the implementing provisions.
 ...[^57-3]
 
 [^57-1]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)Art. 19; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Annex No 4, [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Annex No 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)No I 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 13; [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532)]
-[^57-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^57-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^57-3]: The amendments may be consulted under [AS 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786).
 
 #### Art. 57a
@@ -1155,16 +1159,19 @@ Advisors who carried out an activity within the framework of Article 20 paragrap
 
 <sup>2</sup> The Federal Council shall determine the commencement date.
 
-<sup>3</sup> Commencement date: 1 January 2014[^58-1] Article 4 letter c number 2, 7 paragraph 1 letter b and 46 paragraph 2 come into force at the same time as the HEdA[^58-2] (Art. 58 par. 3).
+<sup>3</sup>
 
-It shall bring the following provisions into force at the same time as the HEdA[^58-3]:
+It shall bring the following provisions into force at the same time as the HEdA[^58-1]:
 
 - a. Article 4 letter c number 2;
 - b. Article 7 paragraph 1 letter b;
 - c. Article 46 paragraph 2.
-- [tab] <sup>4</sup> Articles 5 letter b numbers 2 and 3, 6 paragraph 1 letters b and c and 24 paragraph 2 of the Research and Innovation Promotion Act of 7 October 1983[^58-4] shall be repealed at the same time as the HEdA comes into force.
 
-[^58-1]: FCD of 29 Nov. 2013.
-[^58-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691), in force since 1 Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)).
-[^58-3]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^58-4]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99)]
+<sup>4</sup> Articles 5 letter b numbers 2 and 3, 6 paragraph 1 letters b and c and 24 paragraph 2 of the Research and Innovation Promotion Act of 7 October 1983[^58-2] shall be repealed at the same time as the HEdA comes into force.
+
+Commencement date: 1 January 2014[^58-3] Article 4 letter c number 2, 7 paragraph 1 letter b and 46 paragraph 2 come into force at the same time as the HEdA[^58-4] (Art. 58 par. 3).
+
+[^58-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^58-2]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99)]
+[^58-3]: FCD of 29 Nov. 2013.
+[^58-4]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771), in force since 1 Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)).

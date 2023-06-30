@@ -4,11 +4,11 @@ title: "Lescha federala dals 14 da december 2012 davart la promoziun da la persc
 short: LPPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: rm
-version: 2023-01-01
+version: 2023-07-01
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230101-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230701-rm-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPPI)
 
-dals 14 da december 2012 (versiun dal 1. da schaner 2023)
+dals 14 da december 2012 (versiun dal 1. da fanadur 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin l’artitgel 64 alineas 1 e 3 da la Constituziun federala[^ingress
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2011 8827](https://fedlex.data.admin.ch/eli/fga/2011/1544)
 
 ## 1. chapitel Disposiziuns generalas
@@ -105,8 +105,8 @@ Organs da perscrutaziun tenor questa lescha èn:
 
 [^4-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^4-2]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^4-3]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^4-4]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^4-3]: [SR 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
+[^4-4]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 5
 
@@ -171,7 +171,7 @@ La Confederaziun promova la perscrutaziun e l’innovaziun tenor questa lescha e
 
 <sup>4</sup> El po incumbensar las instituziuns da promoziun da la perscrutaziun e la Innosuisse da collavurar sin plaun internaziunal, nua ch’i dovra lur cumpetenza spezialisada.[^7-5]
 
-[^7-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^7-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^7-2]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^7-3]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^7-4]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
@@ -296,8 +296,8 @@ En lur reglaments prevesan ellas sancziuns da dretg administrativ en cas da cunt
 
 <sup>5</sup> Acts chastiabels en il sectur da la promoziun da la perscrutaziun tenor l’artitgel 37 u 38 da la Lescha da subvenziuns dals 5 d’october 1990[^12-1] vegnan chastiads tenor las disposiziuns da la Lescha federala dals 22 da mars 1974[^12-2] davart il dretg penal administrativ tras il SEFRI.
 
-[^12-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^12-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^12-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^12-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 13
 
@@ -318,7 +318,7 @@ Ils petents pon recurrer cunter:
 
 <sup>5</sup> Dal rest sa drizza la procedura da recurs tenor las disposiziuns generalas da la giurisdicziun federala.
 
-[^13-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^13-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 3. secziun Perscrutaziun e promoziun da la perscrutaziun tras l’administraziun federala
 
@@ -484,7 +484,7 @@ En cas singuls po la Innosuisse pretender dal partenari da realisaziun ina parti
 
 <sup>6</sup> Ils projects promovids ston observar ils princips da l’integritad scientifica e da la buna pratica scientifica. En cas da cuntravenziuns valan las sancziuns e l’obligaziun d’infurmaziun tenor l’artitgel 12 alineas 2–4.
 
-[^19-1]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
+[^19-1]: [SR 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
 [^19-2]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^19-3]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^19-4]: Abolì tras la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), cun effect dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
@@ -598,7 +598,7 @@ La Innosuisse po sustegnair l’utilisaziun da la savida ed il transfer da savid
 Per la promoziun da l’innovaziun tras la Innosuisse valan las prescripziuns da la Lescha da subvenziuns dals 5 d’october 1990[^24-2].
 
 [^24-1]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^24-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^24-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 25
 
@@ -606,8 +606,8 @@ Per la promoziun da l’innovaziun tras la Innosuisse valan las prescripziuns da
 
 Acts chastiabels en il sectur da la promoziun da l’innovaziun tenor l’artitgel 37 u 38 da la Lescha da subvenziuns dals 5 d’october 1990[^25-1] vegnan chastiads tenor las disposiziuns da la Lescha federala dals 22 da mars 1974[^25-2] davart il dretg penal administrativ tras il DEFR.
 
-[^25-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^25-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^25-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### 5. secziun Cumpetenza dal Cussegl federal per decretar ulteriuras premissas da promoziun
 
@@ -728,9 +728,13 @@ En ils contracts po el er far cunvegnas davart:
 - c. la garanzia e l’attribuziun da la proprietad intellectuala che resulta u che vegn duvrada en il rom da la collavuraziun scientifica;
 - d. la participaziun da la Confederaziun a persunas giuridicas da dretg public u da dretg privat;
 - e. la participaziun ad organisaziuns internaziunalas;
+- e<sup>bis</sup>.[^31-1] la participaziun ad infrastructuras da perscrutaziun internaziunalas cun sedia a l’exteriur tenor l’Ordinaziun (CE) nr. 723/2009[^31-2];
 - f. las activitads da controlla da represchentants da terzs stadis e d’organisaziuns internaziunalas en instituts da la perscrutaziun en scolas autas ed en autras instituziuns da perscrutaziun privatas u publicas participadas en Svizra.
 
 <sup>3</sup> Sche las cunvegnas tenor l’alinea 1 tangheschan las incumbensas da tscherts organs da perscrutaziun, da la Conferenza universitara svizra u dal Cussegl da las Scolas politecnicas federalas, ston quellas vegnir consultadas ordavant.
+
+[^31-1]: Integrà tras la cifra I da la LF dals 16 da dec. 2022, en vigur dapi il 1. da fan. 2023 ([AS 2023 226](https://fedlex.data.admin.ch/eli/oc/2023/226); [BBl 2022 1137](https://fedlex.data.admin.ch/eli/fga/2022/1137)).
+[^31-2]: Ordinaziun (CE) nr. 723/2009 dal Cussegl dals 25 da zer. 2009 davart in rom giuridic cuminaivel applitgabel per in consorzi per ina infrastructura europeica da perscrutaziun (ERIC), ABl. L 206 dals 8 d’avust 2009, p. 1; midà l’ultima giada tras l’Ordinaziun (UE) nr. 1261/2013, ABl. L 326 dals 6 da dec. 2013, p. 1.
 
 ### 7. secziun Parc svizzer d’innovaziun
 
@@ -845,7 +849,7 @@ La deliberaziun ed il pajament da las contribuziuns federalas en il rom da la co
 - a. las disposiziuns dals contracts internaziunals; u
 - b. las prescripziuns da las disposiziuns da contribuziun e da las cunvegnas.
 
-[^37-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^37-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### 9. secziun Restituziun e rembursament
 
@@ -889,7 +893,7 @@ Sch’ils resultats da la perscrutaziun che vegn finanziada per part u dal tutta
 
 <sup>3</sup> Las instituziuns da promoziun da la perscrutaziun, la Innosuisse sco er l’administraziun federala, uschenavant ch’ella ademplescha incumbensas da la promoziun da la perscrutaziun e da l’innovaziun, coordineschan lur activitads accordond lur mesiras da promoziun e la collavuraziun en il rom da lur activitads da promoziun. Ellas resguardan tar lur stentas da coordinaziun ils basegns da l’instrucziun, la perscrutaziun che vegn realisada senza agid federal, la perscrutaziun a l’exteriur e la coordinaziun tenor la LASA[^40-1].
 
-[^40-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^40-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 ### 2. secziun Coordinaziun tras il Cussegl federal
 
@@ -993,8 +997,8 @@ Obligads d’elavurar programs da plirs onns èn:
 
 <sup>3</sup> Las duas Scolas politecnicas federalas ed ils instituts da perscrutaziun dal sectur SPF furneschan las infurmaziuns necessarias davart lur perscrutaziun en il rom da la procedura tenor la Lescha davart las SPF dals 4 d’october 1991[^46-2].
 
-[^46-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^46-2]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^46-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^46-2]: [SR 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 #### Art. 47
 
@@ -1072,8 +1076,8 @@ Las instituziuns da promoziun da la perscrutaziun, la Innosuisse e l’administr
 
 <sup>4</sup> Il SEFRI maina ina banca da datas per ils projects da la perscrutaziun da l’administraziun.
 
-[^53-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^53-2]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^53-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^53-2]: [SR 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 ## 6. chapitel Cussegl svizzer da la scienza
 
@@ -1101,7 +1105,7 @@ Per incumbensa dal Cussegl federal u dal DEFR ademplescha el las suandantas incu
 - d. El cusseglia il Cussegl federal tar l’execuziun da questa lescha.
 
 [^54-1]: Expressiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Questa midada è vegnida resguardada en l’entir decret.
-[^54-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^54-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 55
 
@@ -1136,7 +1140,7 @@ Il Cussegl federal decretescha las disposiziuns executivas.
 ...[^57-3]
 
 [^57-1]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 19; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)agiunta cifra 4 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)agiunta cifra 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)cifra I 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I 13; [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532)]
-[^57-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^57-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^57-3]: La midada po vegnir consultada en la [AS 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786).
 
 #### Art. 57a
@@ -1165,6 +1169,6 @@ El metta en vigur las suandantas disposiziuns ensemen cun la LASA[^58-3]:
 - [tab] <sup>4</sup> Ils artitgels 5 litera b cifras 2 e 3, 6 alinea 1 literas b e c sco er 24 alinea 2 da la Lescha federala dals 7 d’october 1983[^58-4] davart la promoziun da la perscrutaziun e da l’innovaziun vegnan abolids il mument che la LASA entra en vigur.
 
 [^58-1]: COCF dals 29 da nov. 2013.
-[^58-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691), en vigur dapi il 1. da schan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)).
-[^58-3]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^58-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771), en vigur dapi il 1. da schan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)).
+[^58-3]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^58-4]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99)]
