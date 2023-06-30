@@ -4,13 +4,13 @@ number: "940.11"
 title: Wirtschafts- und Arbeitsgesetz
 short: WAG
 language: de
-version: 2021-01-01
-valid_until: 2023-06-30
-version_adopted: 2020-06-24
+version: 2023-07-01
+valid_until: 2025-08-31
+version_adopted: 2022-07-06
 adopted: 2015-03-08
 in_force: 2016-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/940.11"
-pdf: "https://bgs.so.ch/api/de/versions/5008/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5331/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5008/pdf_file"
 
 (WAG)
 
-Vom 08.03.2015 (Stand 01.01.2021)
+Vom 08.03.2015 (Stand 01.07.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -338,11 +338,7 @@ beschliesst:
 
 #### § 16
 
-**Amtsblatt**
-
-<sup>1</sup> In den öffentlichen Räumen muss das Amtsblatt zur unentgeltlichen Einsichtnahme aufliegen.
-
-<sup>2</sup> Der Regierungsrat kann durch Verordnung diese Pflicht einschränken.
+**…**
 
 #### § 17
 
