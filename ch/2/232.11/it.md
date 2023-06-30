@@ -4,11 +4,11 @@ title: "Legge federale del 28 agosto 1992 sulla protezione dei marchi e delle in
 short: LPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/274_274_274"
 language: it
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1992-08-28
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20220101/it"
 
 (Legge sulla protezione dei marchi, LPM)
 
-del 28 agosto 1992 (Stato 1° gennaio 2022)
+del 28 agosto 1992 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -324,7 +324,7 @@ Se il titolare tollera che il marchio di garanzia o il marchio collettivo sia ri
 
 Per essere validi, il trasferimento del marchio di garanzia o del marchio collettivo e la concessione di licenze su marchi collettivi devono essere iscritti nel registro.
 
-### Capitolo 2*a*:**** Marchio geografico
+### Capitolo 2*a*: Marchio geografico
 
 [^tit1-chap2a-1]
 
@@ -533,7 +533,7 @@ Il Consiglio federale disciplina le modalità della procedura.
 
 [^36-1]: Abrogato dall’all. n. 21 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Sezione 5: Registro, pubblicazioni e comunicazione elettronica con le autorità****
+### Sezione 5: Registro, pubblicazioni e comunicazione elettronica con le autorità
 
 [^tit1-chap3-sec5-1]
 
@@ -697,13 +697,13 @@ Una registrazione internazionale può essere trasformata in una domanda di regis
 
 [^46a-1]: Introdotto dal n. I della LF del 4 ott. 1996, in vigore dal 1° mag. 1997 ([RU 1997 1028](https://fedlex.data.admin.ch/eli/oc/1997/1028_1028_1028); [FF 1996 II 1273](https://fedlex.data.admin.ch/eli/fga/1996/2_1425_1393_1273)).
 
-## Titolo 2: Indicazioni di provenienza e indicazioni geografiche****
+## Titolo 2: Indicazioni di provenienza e indicazioni geografiche
 
 [^tit2-1]
 
 [^tit2-1]: Nuovo testo giusta l’all. del DF del 19 mar. 2021 che approva l’Atto di Ginevra dell’Accordo di Lisbona sulle denominazioni d’origine e le indicazioni geografiche e lo traspone nel diritto svizzero, in vigore dal 1° dic. 2021 ([RU 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5215](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
 
-### Capitolo 1: Disposizioni generali****
+### Capitolo 1: Disposizioni generali
 
 [^tit2-chap1-1]
 
@@ -786,7 +786,7 @@ Dal calcolo di cui al capoverso 2 sono esclusi i prodotti naturali:
 <sup>5</sup> L’indicazione di provenienza deve inoltre corrispondere al luogo in cui si è svolta la trasformazione che ha conferito alla derrata alimentare le sue caratteristiche essenziali.
 
 [^48b-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^48b-2]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6, [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480), [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)n. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. n. I.]. Vedi ora la LF del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^48b-2]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6; [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480); [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)n. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. n. I]. Vedi ora la LF del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
 
 #### Art. 48c
 
@@ -875,7 +875,7 @@ Se lo esigono gli interessi di un settore economico, il Consiglio federale può 
 
 [^50a-1]: Originario art. 51.
 
-### Capitolo 2: Registrazione delle indicazioni geografiche****
+### Capitolo 2: Registrazione delle indicazioni geografiche
 
 [^tit2-chap2-1]
 
@@ -920,7 +920,7 @@ Le indicazioni geografiche registrate sono protette in particolare contro:
 
 [^50b-1]: Originario art. 50*a* (senza rubrica). Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-### Capitolo 3:**** Registrazione internazionale delle indicazioni geografiche
+### Capitolo 3: Registrazione internazionale delle indicazioni geografiche
 
 [^tit2-chap3-1]
 
@@ -1135,11 +1135,12 @@ A querela della parte lesa è punito con una pena detentiva fino a un anno o con
 
 <sup>2</sup> È punito con la stessa pena, su querela della parte lesa, chiunque rifiuta d’indicare la provenienza e la quantità degli oggetti in suo possesso muniti illecitamente di un marchio, nonché i destinatari e l’entità delle loro ulteriori forniture ad acquirenti commerciali.
 
-<sup>3</sup> Se agisce per mestiere, l’autore del reato è perseguito d’ufficio. È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.
+<sup>3</sup> Se agisce per mestiere, l’autore del reato è perseguito d’ufficio. È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria. ...[^61-4]
 
 [^61-1]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^61-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^61-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^61-4]: Terzo per. abrogato dal n. I 6 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 62
 
@@ -1152,13 +1153,14 @@ Su querela della parte lesa è punito con una pena detentiva fino a un anno o co
 - a. contrassegna illecitamente prodotti o servizi con il marchio di un terzo a scopo di inganno, facendo credere che si tratta di prodotti o di servizi originali;
 - b. offre o immette in commercio come originali prodotti muniti illecitamente del marchio di un terzo oppure offre o fornisce come originali servizi contrassegnati con il marchio di un terzo.
 
-<sup>2</sup> Se agisce per mestiere, l’autore del reato è perseguito d’ufficio. È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.[^62-2]
+<sup>2</sup> Se agisce per mestiere, l’autore del reato è perseguito d’ufficio. È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria ....[^62-2] [^62-3]
 
-<sup>3</sup> …[^62-3]
+<sup>3</sup> …[^62-4]
 
 [^62-1]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^62-2]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^62-3]: Abrogato dal n. I della LF del 21 giu. 2013, con effetto dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^62-2]: Per. abrogato dal n. I 6 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^62-3]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^62-4]: Abrogato dal n. I della LF del 21 giu. 2013, con effetto dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 #### Art. 63
 
@@ -1170,10 +1172,11 @@ Su querela della parte lesa è punito con una pena detentiva fino a un anno o co
 
 <sup>3</sup> Se sono toccate disposizioni poco importanti del regolamento, il giudice può rinunciare a qualsiasi pena.
 
-<sup>4</sup> Se agisce per mestiere, l’autore del reato è perseguito d’ufficio. È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.[^63-2]
+<sup>4</sup> Se agisce per mestiere, l’autore del reato è perseguito d’ufficio. È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria.[^63-2] ...[^63-3]
 
 [^63-1]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^63-2]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^63-3]: Terzo per. abrogato dal n. I 6 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 64
 
@@ -1187,11 +1190,12 @@ Su querela della parte lesa è punito con una pena detentiva fino a un anno o co
 - b. usa una designazione che può essere confusa con un’indicazione di provenienza non pertinente;
 - c. crea un rischio di inganno usando un nome, una ditta, un indirizzo o un marchio in rapporto con prodotti o servizi d’altra provenienza.
 
-<sup>2</sup> Se agisce per mestiere, l’autore del reato è punito con una pena detentiva fino a cinque anni o con una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.
+<sup>2</sup> Se agisce per mestiere, l’autore del reato è punito con una pena detentiva fino a cinque anni o con una pena pecuniaria. ...[^64-2]
 
 <sup>3</sup> L’IPI può sporgere denuncia all’autorità di perseguimento penale competente e avvalersi nel procedimento dei diritti dell’accusatore privato.
 
 [^64-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^64-2]: Per. abrogato dal n. I 6 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 65
 
@@ -1240,7 +1244,7 @@ L’articolo 69 del Codice penale[^68-2] è applicabile; il giudice può ordinar
 
 Il perseguimento penale spetta ai Cantoni.
 
-### Capitolo 3: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini****
+### Capitolo 3: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini
 
 [^tit3-chap3-1]
 

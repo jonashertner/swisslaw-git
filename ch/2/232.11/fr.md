@@ -4,11 +4,11 @@ title: "Loi fédérale du 28 août 1992 sur la protection des marques et des ind
 short: LPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/274_274_274"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1992-08-28
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20220101/fr"
 
 (Loi sur la protection des marques, LPM)
 
-du 28 août 1992 (Etat le 1<sup>er</sup> janvier 2022)
+du 28 août 1992 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -141,7 +141,7 @@ Quiconque présente un produit ou des services désignés par une marque dans un
 
 <sup>3</sup> La demande de prolongation doit être présentée auprès de l’IPI dans les douze mois qui précèdent l’échéance de l’enregistrement, ou au plus tard dans les six mois qui la suivent.[^10-2]
 
-<sup>4</sup> ...[^10-3]
+<sup>4</sup> …[^10-3]
 
 [^10-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 24 mars 1995 sur le statut et les tâches de l’IPI, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^10-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
@@ -262,7 +262,7 @@ Si une marque est reproduite dans un dictionnaire, un autre ouvrage de référen
 
 #### Art. 20
 
-<sup>1</sup> ...[^20-1]
+<sup>1</sup> …[^20-1]
 
 <sup>2</sup> Les traités internationaux auxquels la Suisse est partie qui accordent des droits plus étendus que ceux prévus dans la présente loi s’appliquent aussi aux ressortissants suisses.
 
@@ -324,7 +324,7 @@ Si le titulaire tolère, contrairement aux dispositions essentielles du règleme
 
 Pour être valables, le transfert de la marque de garantie ou de la marque collective ainsi que l’octroi d’une licence concernant une marque collective doivent être inscrits au registre.
 
-### Chapitre 2*a***** Marque géographique
+### Chapitre 2*a* Marque géographique
 
 [^tit1-chap2a-1]
 
@@ -401,7 +401,7 @@ Quiconque veut déposer une marque doit remettre à l’IPI:
 
 <sup>3</sup> Pour le dépôt, les taxes prévues à cet effet par l’ordonnance sont dues.[^28-1]
 
-<sup>4</sup> ...[^28-2]
+<sup>4</sup> …[^28-2]
 
 [^28-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 24 mars 1995 sur le statut et les tâches de l’IPI, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^28-2]: Abrogé par l’annexe ch. 2 de la LF du 24 mars 1995 sur le statut et les tâches de l’IPI, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
@@ -528,7 +528,7 @@ Le Conseil fédéral règle les modalités de la procédure.
 
 [^35c-1]: Introduit par le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-### Section 4 ...
+### Section 4 …
 
 #### Art. 36
 
@@ -536,7 +536,7 @@ Le Conseil fédéral règle les modalités de la procédure.
 
 [^36-1]: Abrogé par l’annexe ch. 21 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Section 5 Registre, publications et communication électronique avec les autorités****
+### Section 5 Registre, publications et communication électronique avec les autorités
 
 [^tit1-chap3-sec5-1]
 
@@ -637,7 +637,7 @@ La poursuite de la procédure est exclue en cas d’inobservation:
 
 <sup>1</sup> Outre les taxes prévues par la présente loi, des taxes doivent être acquittées pour les prestations de l’IPI à la suite de requêtes particulières.
 
-<sup>2</sup> ...[^43-1]
+<sup>2</sup> …[^43-1]
 
 [^43-1]: Abrogé par l’annexe ch. 2 de la LF du 24 mars 1995 sur le statut et les tâches de l’IPI, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 951](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 
@@ -700,13 +700,13 @@ L’enregistrement international peut être transformé en demande d’enregistr
 
 [^46a-1]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 1028](https://fedlex.data.admin.ch/eli/oc/1997/1028_1028_1028); [FF 1996 II 1393](https://fedlex.data.admin.ch/eli/fga/1996/2_1425_1393_1273)).
 
-## Titre 2 Indications de provenance et indications géographiques****
+## Titre 2 Indications de provenance et indications géographiques
 
 [^tit2-1]
 
 [^tit2-1]: Nouvelle teneur selon l’annexe de l’AF du 19 mars 2021 portant approbation et mise en œuvre de l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5655](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
 
-## Chapitre 1 Dispositions générales****
+## Chapitre 1 Dispositions générales
 
 [^tit3-1]
 
@@ -878,7 +878,7 @@ Lorsque les intérêts d’un secteur économique l’exigent, le Conseil fédé
 
 [^50a-1]: Anciennement art. 51.
 
-### Chapitre 2 Enregistrement des indications géographiques****
+### Chapitre 2 Enregistrement des indications géographiques
 
 [^tit3-chap1-1]
 
@@ -923,7 +923,7 @@ Les indications géographiques enregistrées sont protégées en particulier con
 
 [^50b-1]: Anciennement art. 50*a* (sans titre). Introduit par le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-### Chapitre 3**** Enregistrement international des indications géographiques
+### Chapitre 3 Enregistrement international des indications géographiques
 
 [^tit3-chap2-1]
 
@@ -1138,10 +1138,11 @@ Sur plainte du lésé, est puni d’une peine privative de liberté d’un an au
 
 <sup>2</sup> Est puni de la même peine, sur plainte du lésé, celui qui refuse d’indiquer la provenance et la quantité des objets se trouvant en sa possession et sur lesquels la marque a été apposée illicitement et de désigner les destinataires et la quantité des objets qui ont été remis à des acheteurs commerciaux.
 
-<sup>3</sup> Si l’auteur de l’infraction agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
+<sup>3</sup> Si l’auteur de l’infraction agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. …[^61-3]
 
 [^61-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^61-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^61-3]: Phrase abrogée par le ch. I 6 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 62
 
@@ -1154,12 +1155,13 @@ Sur plainte du lésé, est puni d’une peine privative de liberté d’un an au
 - a. désigne illicitement des produits ou des services par la marque d’un tiers en vue de tromper autrui, faisant croire ainsi qu’il s’agissait de produits ou de services originaux;
 - b. offre ou met en circulation comme originaux des produits désignés illicitement par la marque d’un tiers ou offre ou fournit comme originaux des services désignés par la marque d’un tiers.
 
-<sup>2</sup> Si l’auteur de l’infraction agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
+<sup>2</sup> Si l’auteur de l’infraction agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. …[^62-2]
 
-<sup>3</sup> ...[^62-2]
+<sup>3</sup> …[^62-3]
 
 [^62-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^62-2]: Abrogé par le ch. I de la LF du 21 juin 2013, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^62-2]: Phrase abrogée par le ch. I 6 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^62-3]: Abrogé par le ch. I de la LF du 21 juin 2013, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 #### Art. 63
 
@@ -1171,11 +1173,12 @@ Sur plainte du lésé, est puni d’une peine privative de liberté d’un an au
 
 <sup>3</sup> Lorsqu’il ne s’agit que de dispositions peu importantes du règlement, le juge peut renoncer à toute peine.
 
-<sup>4</sup> Si l’auteur de l’infraction agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.[^63-3]
+<sup>4</sup> Si l’auteur de l’infraction agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. …[^63-3] [^63-4]
 
 [^63-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^63-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^63-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^63-3]: Phrase abrogée par le ch. I 6 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^63-4]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 64
 
@@ -1189,11 +1192,12 @@ Est puni d’une peine privative de liberté d’un an au plus ou d’une peine 
 - b. utilise une désignation susceptible d’être confondue avec une indication de provenance inexacte;
 - c. crée un risque de tromperie en utilisant un nom, une raison de commerce, une adresse ou une marque en rapport avec des produits ou des services d’une autre provenance.
 
-<sup>2</sup> Si l’auteur de l’infraction agit par métier, la peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
+<sup>2</sup> Si l’auteur de l’infraction agit par métier, la peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. …[^64-2]
 
 <sup>3</sup> L’IPI peut dénoncer une infraction auprès des autorités de poursuite pénale compétentes et faire valoir les droits d’une partie plaignante dans la procédure.
 
 [^64-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^64-2]: Phrase abrogée par le ch. I 6 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 65
 
@@ -1244,7 +1248,7 @@ L’art. 69 du code pénal[^68-2] est applicable; le juge peut ordonner la confi
 
 La poursuite pénale incombe aux cantons.
 
-### Chapitre 3 Intervention de l’Office fédéral de la douane et de la sécurité des frontières****
+### Chapitre 3 Intervention de l’Office fédéral de la douane et de la sécurité des frontières
 
 [^tit4-chap3-1]
 
@@ -1393,7 +1397,7 @@ La loi fédérale du 26 septembre 1890[^74-1] concernant la protection des marqu
 
 **Modification du droit en vigueur**
 
-<sup>1.</sup> et 2. ...[^75-1]
+<sup>1.</sup> et 2. …[^75-1]
 
 <sup>3.</sup> Dans tous les actes législatifs, l’expression «*marque de fabrique et de com**merce*» est remplacée par l’expression «*marque*», à l’exception des art. 1 et 2 de la loi fédérale du 5 juin 1931 pour la protection des armoiries publiques et autres signes publics[^75-2]. Les actes législatifs concernés seront adaptés à la prochaine occasion.
 
@@ -1430,7 +1434,7 @@ Si les demandes d’enregistrement concernant des marques exclues de l’enregis
 
 <sup>1</sup> Celui qui, avant l’entrée en vigueur de la présente loi, a le premier utilisé une marque sur des produits ou leur emballage ou pour des services jouit d’un droit qui prime celui du premier déposant, à condition de déposer la marque dans les deux ans suivant l’entrée en vigueur de la présente loi et d’indiquer le moment à partir duquel la marque a été utilisée.
 
-<sup>2</sup> ...[^78-1]
+<sup>2</sup> …[^78-1]
 
 [^78-1]: Abrogé par le ch. II 11 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 

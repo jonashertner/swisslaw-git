@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 28. August 1992 über den Schutz von Marken und Herkunf
 short: MSchG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/274_274_274"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1992-08-28
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20220101/de"
 
 (Markenschutzgesetz, MSchG)
 
-vom 28. August 1992 (Stand am 1. Januar 2022)
+vom 28. August 1992 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -141,7 +141,7 @@ Wer eine mit einer Marke gekennzeichnete Ware oder Dienstleistung auf einer offi
 
 <sup>3</sup> Der Verlängerungsantrag muss innerhalb der letzten zwölf Monate vor Ablauf der Gültigkeitsdauer, spätestens jedoch innerhalb von sechs Monaten nach ihrem Ablauf beim IGE eingereicht werden.[^10-2]
 
-<sup>4</sup> ...[^10-3]
+<sup>4</sup> …[^10-3]
 
 [^10-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 24. März 1995 über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum, in Kraft seit 1. Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^10-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
@@ -262,7 +262,7 @@ Ist in einem Wörterbuch, in einem anderen Nachschlagewerk oder in einem ähnlic
 
 #### Art. 20
 
-<sup>1</sup> ...[^20-1]
+<sup>1</sup> …[^20-1]
 
 <sup>2</sup> Gewähren für die Schweiz verbindliche völkerrechtliche Verträge weitergehende Rechte als dieses Gesetz, so gelten diese auch für schweizerische Staatsangehörige.
 
@@ -324,7 +324,7 @@ Duldet der Markeninhaber einen wiederholten Gebrauch der Garantie- oder Kollekti
 
 Die Übertragung der Garantie- oder Kollektivmarke sowie die Erteilung von Lizenzen an Kollektivmarken sind nur gültig, wenn sie im Register eingetragen sind.
 
-### 2*a*. Kapitel:**** Geografische Marke
+### 2*a*. Kapitel: Geografische Marke
 
 [^tit1-chap2a-1]
 
@@ -401,7 +401,7 @@ Für die Hinterlegung sind beim IGE einzureichen:
 
 <sup>3</sup> Für die Hinterlegung müssen die in der Verordnung dafür vorgesehenen Gebühren bezahlt werden.[^28-1]
 
-<sup>4</sup> ...[^28-2]
+<sup>4</sup> …[^28-2]
 
 [^28-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 24. März 1995 über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum, in Kraft seit 1. Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^28-2]: Aufgehoben durch Anhang Ziff. 2 des BG vom 24. März 1995 über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum, mit Wirkung seit 1. Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
@@ -526,7 +526,7 @@ Der Bundesrat regelt die Einzelheiten des Verfahrens.
 
 [^35c-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-### 4. Abschnitt: ...
+### 4. Abschnitt: …
 
 #### Art. 36
 
@@ -534,7 +534,7 @@ Der Bundesrat regelt die Einzelheiten des Verfahrens.
 
 [^36-1]: Aufgehoben durch Anhang Ziff. 21 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### 5. Abschnitt: Register, Veröffentlichungen und elektronischer Behördenverkehr****
+### 5. Abschnitt: Register, Veröffentlichungen und elektronischer Behördenverkehr
 
 [^tit1-chap3-sec5-1]
 
@@ -635,11 +635,11 @@ Die Weiterbehandlung ist ausgeschlossen bei Versäumnis:
 
 <sup>1</sup> Ausser in den in diesem Gesetz genannten Fällen sind Gebühren zu entrichten für Amtshandlungen, die durch einen besonderen Antrag veranlasst werden.
 
-<sup>2</sup> ...[^43-1]
+<sup>2</sup> …[^43-1]
 
 [^43-1]: Aufgehoben durch Anhang Ziff. 2 des BG vom 24. März 1995 über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum, mit Wirkung seit 1. Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 
-### 4. Kapitel:**** Internationale Markenregistrierung
+### 4. Kapitel: Internationale Markenregistrierung
 
 [^tit1-chap4-1]
 
@@ -696,13 +696,13 @@ Eine internationale Registrierung kann in ein nationales Eintragungsgesuch umgew
 
 <sup>2</sup> Widersprüche gegen die Eintragung von Marken, die nach Absatz 1 hinterlegt wurden, sind unzulässig.
 
-## 2. Titel: Herkunftsangaben und geografische Angaben****
+## 2. Titel: Herkunftsangaben und geografische Angaben
 
 [^tit2-1]
 
 [^tit2-1]: Fassung gemäss Anhang des BB vom 19. März 2021 über die Genehmigung der Genfer Akte des Lissabonner Abk. über Ursprungsbezeichnungen und geografische Angaben und über ihre Umsetzung, in Kraft seit 1. Dez. 2021 ([AS 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [BBl 2020 5827](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
 
-### 1. Kapitel: Allgemeine Bestimmungen****
+### 1. Kapitel: Allgemeine Bestimmungen
 
 [^tit2-chap1-1]
 
@@ -874,7 +874,7 @@ Wenn die Interessen einer Wirtschaftsbranche es erfordern, kann der Bundesrat vo
 
 [^50a-1]: Ursprünglich Art. 51.
 
-### 2. Kapitel: Registrierung von geografischen Angaben****
+### 2. Kapitel: Registrierung von geografischen Angaben
 
 [^tit2-chap2-1]
 
@@ -882,7 +882,7 @@ Wenn die Interessen einer Wirtschaftsbranche es erfordern, kann der Bundesrat vo
 
 #### Art. 50b
 
-**...**[^50b-1]
+**…**[^50b-1]
 
 <sup>1</sup> Der Bundesrat schafft ein Register für geografische Angaben für Waren, mit Ausnahme von landwirtschaftlichen Erzeugnissen, verarbeiteten landwirtschaftlichen Erzeugnissen und Wein sowie waldwirtschaftlichen Erzeugnissen und deren Verarbeitungsprodukten.
 
@@ -919,7 +919,7 @@ Eingetragene geografische Angaben sind insbesondere geschützt gegen:
 
 [^50b-1]: Ursprünglich Art. 50*a* (ohne Sachüberschrift). Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-### 3. Kapitel:**** Internationale Registrierung von geografischen Angaben
+### 3. Kapitel: Internationale Registrierung von geografischen Angaben
 
 [^tit2-chap3-1]
 
@@ -1134,10 +1134,11 @@ Auf Antrag des Verletzten wird mit Freiheitsstrafe bis zu einem Jahr oder Geldst
 
 <sup>2</sup> Ebenso wird auf Antrag des Verletzten bestraft, wer sich weigert, Herkunft und Menge der in seinem Besitz befindlichen Gegenstände, die widerrechtlich mit der Marke versehen sind, anzugeben und Adressaten sowie Ausmass einer Weitergabe an gewerbliche Abnehmer zu nennen.
 
-<sup>3</sup> Handelt der Täter gewerbsmässig, so wird er von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.
+<sup>3</sup> Handelt der Täter gewerbsmässig, so wird er von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. …[^61-3]
 
 [^61-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^61-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^61-3]: Dritter Satz aufgehoben durch Ziff. I 6 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 62
 
@@ -1150,13 +1151,14 @@ Auf Antrag des Verletzten wird mit Freiheitsstrafe bis zu einem Jahr oder Geldst
 - a. Waren oder Dienstleistungen zum Zwecke der Täuschung widerrechtlich mit der Marke eines anderen kennzeichnet und auf diese Weise den Anschein erweckt, es handle sich um Originalwaren oder -dienstleistungen;
 - b. widerrechtlich mit der Marke eines anderen gekennzeichnete Waren oder Dienstleistungen als Originalwaren anbietet oder in Verkehr setzt oder als Originaldienstleistungen anbietet oder erbringt.
 
-<sup>2</sup> Handelt der Täter gewerbsmässig, so wird er von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.[^62-2]
+<sup>2</sup> Handelt der Täter gewerbsmässig, so wird er von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. …[^62-2] [^62-3]
 
-<sup>3</sup> ...[^62-3]
+<sup>3</sup> …[^62-4]
 
 [^62-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^62-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^62-3]: Aufgehoben durch Ziff. I des BG vom 21. Juni 2013, mit Wirkung seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^62-2]: Dritter Satz aufgehoben durch Ziff. I 6 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^62-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^62-4]: Aufgehoben durch Ziff. I des BG vom 21. Juni 2013, mit Wirkung seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 #### Art. 63
 
@@ -1168,10 +1170,11 @@ Auf Antrag des Verletzten wird mit Freiheitsstrafe bis zu einem Jahr oder Geldst
 
 <sup>3</sup> Sind nur unwesentliche Bestimmungen des Reglements betroffen, so kann von einer Bestrafung abgesehen werden.
 
-<sup>4</sup> Handelt der Täter gewerbsmässig, so wird er von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.[^63-2]
+<sup>4</sup> Handelt der Täter gewerbsmässig, so wird er von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. …[^63-2] [^63-3]
 
 [^63-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^63-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^63-2]: Dritter Satz aufgehoben durch Ziff. I 6 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^63-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 64
 
@@ -1185,11 +1188,12 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer vor
 - b. eine mit einer unzutreffenden Herkunftsangabe verwechselbare Bezeichnung gebraucht;
 - c. eine Täuschungsgefahr schafft, indem er einen Namen, eine Firma, eine Adresse oder eine Marke im Zusammenhang mit Waren oder Dienstleistungen fremder Herkunft gebraucht.
 
-<sup>2</sup> Handelt der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.
+<sup>2</sup> Handelt der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. …[^64-2]
 
 <sup>3</sup> Das IGE kann bei der zuständigen Strafverfolgungsbehörde Anzeige erstatten und im Verfahren die Rechte einer Privatklägerschaft wahrnehmen.
 
 [^64-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^64-2]: Zweiter Satz aufgehoben durch Ziff. I 6 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 65
 
@@ -1238,7 +1242,7 @@ Artikel 69 des Strafgesetzbuches[^68-2] ist anwendbar; der Richter kann anordnen
 
 Die Strafverfolgung ist Sache der Kantone.
 
-### 3. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit****
+### 3. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit
 
 [^tit3-chap3-1]
 
@@ -1387,7 +1391,7 @@ Das Bundesgesetz vom 26. September 1890[^74-1] betreffend den Schutz der Fabrik-
 
 **Änderung bisherigen Rechts**
 
-<sup>1.</sup> und 2. ...[^75-1]
+<sup>1.</sup> und 2. …[^75-1]
 
 <sup>3.</sup> Der Ausdruck «Fabrik- und Handelsmarken» wird in sämtlichen Erlassen durch «Marken» ersetzt; davon ausgenommen sind die Artikel 1 und 2 des Bundesgesetzes vom 5. Juni 1931[^75-2] zum Schutz öffentlicher Wappen und anderer öffentlicher Zeichen. Die betreffenden Erlasse sind bei nächster Gelegenheit entsprechend anzupassen.
 
@@ -1424,7 +1428,7 @@ Sind beim Inkrafttreten dieses Gesetzes Eintragungsgesuche für Marken hängig, 
 
 <sup>1</sup> Wer eine Marke vor dem Inkrafttreten dieses Gesetzes auf Waren oder deren Verpackung oder zur Kennzeichnung von Dienstleistungen zuerst gebraucht hat, ist gegenüber dem ersten Hinterleger besser berechtigt, sofern er die Marke innerhalb von zwei Jahren nach Inkrafttreten dieses Gesetzes hinterlegt und zugleich den Zeitpunkt angibt, in dem die Marke in Gebrauch genommen wurde.
 
-<sup>2</sup> ...[^78-1]
+<sup>2</sup> …[^78-1]
 
 [^78-1]: Aufgehoben durch Ziff. II 11 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 

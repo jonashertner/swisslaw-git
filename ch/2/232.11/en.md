@@ -4,11 +4,11 @@ title: "Federal Act of 28 August 1992 on the Protection of Trade Marks and Indic
 short: TmPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/274_274_274"
 language: en
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1992-08-28
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20220101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20230701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Trade Mark Protection Act, TmPA)
 
-of 28 August 1992 (Status as of 1 January 2022)
+of 28 August 1992 (Status as of 1 July 2023) [3]
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -327,7 +327,7 @@ Where the proprietor of the mark tolerates repeated use of a guarantee or collec
 
 The assignment of a guarantee or collective mark and the grant of licences with respect to collective marks are only valid if entered in the Register.
 
-### Chapter 2*a***** Geographical Marks
+### Chapter 2*a* Geographical Marks
 
 [^tit1-chap2a-1]
 
@@ -537,7 +537,7 @@ The Federal Council shall enact rules governing the details of this procedure.
 
 [^36-1]: Repealed by Annex No 21 of the Federal Administrative Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Section 5 Register, Publications and Electronic Administrative Communication****
+### Section 5 Register, Publications and Electronic Administrative Communication
 
 [^tit1-chap3-sec5-1]
 
@@ -642,7 +642,7 @@ Any person who is party to an administrative procedure under this Act but is not
 
 [^43-1]: Repealed by Annex No 2 of the FA of 24 March 1995 on the Status and Tasks of the Swiss Federal Institute of Intellectual Property, with effect from 1 Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 
-### Chapter 4**** International Registration of Trade Marks
+### Chapter 4 International Registration of Trade Marks
 
 [^tit1-chap4-1]
 
@@ -699,13 +699,13 @@ An international registration may be converted into a national application for r
 
 <sup>2</sup> Objections raised against the registration of trade marks filed in accordance with paragraph 1 are inadmissible.
 
-## Title 2 Indications of Source and Geographical Indications****
+## Title 2 Indications of Source and Geographical Indications
 
 [^tit2-1]
 
 [^tit2-1]: Amended by Annex of FD of 19 March 2021 on the Approval of the Geneva Act of the Lisbon Agreement for the Protection of Appellations of Origin and Geographical Indications and on its implementation, in force since 1 Dec. 2021 ([AS 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [BBl 2020 5827](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
 
-### Chapter 1 General Provisions****
+### Chapter 1 General Provisions
 
 [^tit2-chap1-1]
 
@@ -877,7 +877,7 @@ Where the interests of an economic sector so require, the Federal Council may pr
 
 [^50a-1]: Originally Art. 51.
 
-### Chapter 2 Registration of Geographical Indications****
+### Chapter 2 Registration of Geographical Indications
 
 [^tit2-chap2-1]
 
@@ -922,7 +922,7 @@ Registered geographical indications are protected in particular against:
 
 [^50b-1]: Inserted by No I of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-### Chapter 3**** International Registration of Geographical Indications
+### Chapter 3 International Registration of Geographical Indications
 
 [^tit2-chap3-1]
 
@@ -1139,10 +1139,11 @@ On complaint of the injured party, any person who wilfully infringes the trade m
 
 <sup>2</sup> On complaint of the injured party, any person who refuses to provide information on the origin or quantity of the items in his possession that unlawfully bear the trade mark and to name the recipients and disclose the extent of distribution to commercial and industrial customers is also liable to the same penalties.
 
-<sup>3</sup> If the offender acts for commercial gain, he shall be prosecuted e*x officio*. The penalty is a custodial sentence not exceeding five years or a monetary penalty. The custodial sentence shall be combined with a monetary penalty.
+<sup>3</sup> If the offender acts for commercial gain, he shall be prosecuted e*x officio*. The penalty is a custodial sentence not exceeding five years or a monetary penalty. …[^61-3]
 
 [^61-1]: Amended by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^61-2]: Amended by No I of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^61-3]: Third sentence repealed by No I 6 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 62
 
@@ -1155,13 +1156,14 @@ On complaint of the injured party, any person who commits any of the following a
 - a. unlawfully labels goods or services with the trade mark of another person in order to mislead and thereby give the impression that the goods or services are original goods or services;
 - b. offers or places goods or services on the market as original goods or services, or offers or provides original services that unlawfully bear the trade mark of another;
 
-<sup>2</sup> If the offender acts for commercial gain, he shall be prosecuted e*x officio*. The penalty is a custodial sentence not exceeding five years or a monetary penalty. The custodial sentence shall be combined with a monetary penalty.[^62-2]
+<sup>2</sup> If the offender acts for commercial gain, he shall be prosecuted e*x officio*. The penalty is a custodial sentence not exceeding five years or a monetary penalty. …[^62-2] [^62-3]
 
-<sup>3</sup> ...[^62-3]
+<sup>3</sup> ...[^62-4]
 
 [^62-1]: Amended by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^62-2]: Amended by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^62-3]: Repealed by No I of the FA of 21 June 2013, with effect from 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^62-2]: Third sentence repealed by No I 6 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^62-3]: Amended by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^62-4]: Repealed by No I of the FA of 21 June 2013, with effect from 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 #### Art. 63
 
@@ -1173,10 +1175,11 @@ On complaint of the injured party, any person who commits any of the following a
 
 <sup>3</sup> Where only minor regulation provisions are concerned, a penalty may be dispensed with.
 
-<sup>4</sup> If the offender acts for commercial gain, he shall be prosecuted e*x officio*. The penalty is a custodial sentence not exceeding five years or a monetary penalty. The custodial sentence shall be combined with a monetary penalty.[^63-2]
+<sup>4</sup> If the offender acts for commercial gain, he shall be prosecuted e*x officio*. The penalty is a custodial sentence not exceeding five years or a monetary penalty. …[^63-2] [^63-3]
 
 [^63-1]: Amended by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^63-2]: Amended by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^63-2]: Third sentence repealed by No I 6 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^63-3]: Amended by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 64
 
@@ -1190,11 +1193,12 @@ Any person who wilfully commits any of the following acts is liable to a custodi
 - b. uses a denomination that can be confused with an incorrect indication of source;
 - c. creates a risk of deception by using a name, a company name, an address or a trade mark associated with goods or services of a different origin.
 
-<sup>2</sup> If the offender acts for commercial gain, the penalty is a custodial sentence not exceeding five years or a monetary penalty. The custodial sentence shall be combined with a monetary penalty.
+<sup>2</sup> If the offender acts for commercial gain, the penalty is a custodial sentence not exceeding five years or a monetary penalty. …[^64-2]
 
 <sup>3</sup> The IPI may file a complaint with the competent prosecution authority and exercise the rights of a private claimant in proceedings.
 
 [^64-1]: Amended by No I of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^64-2]: Second sentence repealed by No I 6 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 65
 
@@ -1204,9 +1208,9 @@ Any person who wilfully infringes the regulations concerning the producer identi
 
 #### Art. 65a
 
-**Non-punishable acts**[^65a-1]
+**Acts that are not offences**[^65a-1]
 
-Acts under Article 13 paragraph 2<sup>bis</sup> are not punishable.
+Acts under Article 13 paragraph 2<sup>bis</sup> are not criminal offences.
 
 [^65a-1]: Inserted by Annex No 3 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1243,7 +1247,7 @@ Article 69 of the Swiss Criminal Code[^68-2] applies; the court can order the fo
 
 Criminal prosecution is a matter for the cantonal authorities.
 
-### Chapter 3 Assistance provided by the Federal Office for Customs and Border Security****
+### Chapter 3 Assistance provided by the Federal Office for Customs and Border Security
 
 [^tit3-chap3-1]
 
