@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 1986 über die Jagd und den Schutz wildlebende
 short: JSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/506_506_506"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1986-06-20
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20220101/de"
 
 (Jagdgesetz, JSG)
 
-vom 20. Juni 1986 (Stand am 1. Januar 2022)
+vom 20. Juni 1986 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -344,14 +344,20 @@ Artikel 6 des Bundesgesetzes vom 22. März 1974[^19-1] über das Verwaltungsstra
 
 <sup>1</sup>
 
-Die Jagdberechtigung wird vom Richter für mindestens ein Jahr und höchstens zehn Jahre entzogen, wenn der Träger der Berechtigung:
+Die Jagdberechtigung kann vom Gericht für mindestens ein Jahr und höchstens zehn Jahre entzogen werden, wenn:
 
-- a. vorsätzlich oder fahrlässig eine Person auf der Jagd tötet oder erheblich verletzt;
-- b. eine Widerhandlung nach Artikel 17 als Täter, Anstifter oder Gehilfe vorsätzlich begangen oder versucht hat.
+- a. der Träger der Berechtigung vorsätzlich oder fahrlässig eine Person auf der Jagd getötet oder erheblich verletzt hat oder eine Widerhandlung nach Artikel 17 als Täter, Anstifter oder Gehilfe vorsätzlich begangen oder versucht hat; und
+- b. die Gefahr besteht, dass er weitere solche Taten begeht.[^20-1]
+
+<sup>1bis</sup> Die Massnahme kann auch angeordnet werden, wenn der Täter nach Artikel 19 Absätze 1 und 2 des Strafgesetzbuchs[^20-2] schuldunfähig oder vermindert schuldfähig ist.[^20-3]
 
 <sup>2</sup> Der Entzug gilt für die ganze Schweiz.
 
 <sup>3</sup> Die Kantone können weitere Entzugsgründe sowie Verweigerungsgründe festlegen. Die gestützt darauf erlassenen administrativen Verfügungen gelten nur für den betreffenden Kanton.
+
+[^20-1]: Fassung gemäss Ziff. I 12 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^20-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^20-3]: Eingefügt durch Ziff. I 12 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ## 8. Abschnitt: Strafverfahren
 
@@ -378,13 +384,14 @@ Die Jagdberechtigung wird vom Richter für mindestens ein Jahr und höchstens ze
 
 **Mitteilungspflicht**[^22-1]
 
-<sup>1</sup> Jeder vom Richter verfügte Entzug der Jagdberechtigung ist dem Bundesamt mitzuteilen.
+<sup>1</sup> Jeder vom Gericht verfügte Entzug der Jagdberechtigung ist dem Bundesamt mitzuteilen.[^22-2]
 
 <sup>2</sup> Das Bundesamt stellt den Kantonen eine Liste der Personen zu, denen die Jagdberechtigung entzogen wurde; diese Liste dient den Kantonen dazu, den Entzug der Jagdberechtigung auf ihrem Gebiet zu gewährleisten.
 
 <sup>3</sup> Das Bundesamt darf diese Daten in einer elektronischen Datensammlung aufbewahren. Nach Ablauf des Entzugs der Jagdberechtigung löscht es die elektronischen Einträge und vernichtet die entsprechenden kantonalen Verfügungen. Es darf letztere in anonymisierter Form zu wissenschaftlichen oder statistischen Zwecken aufbewahren.
 
 [^22-1]: Fassung gemäss Ziff. VIII 1 des BG vom 24. März 2000 über die Schaffung und die An-passung gesetzlicher Grundlagen für die Bearbeitung von Personendaten, in Kraft seit 1. Sept. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^22-2]: Fassung gemäss Ziff. I 12 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 23
 
@@ -394,7 +401,7 @@ In Pachtgebieten ist der Pächter, in den übrigen Gebieten der Kanton oder die 
 
 [^23-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## 9. Abschnitt: Vollzug und Verfahren****
+## 9. Abschnitt: Vollzug und Verfahren
 
 [^chap9-1]
 
@@ -439,13 +446,13 @@ Die Kantone regeln für den Vollzug dieses Gesetzes die Durchsuchung von Räumen
 
 **Aufhebung und Änderung von Bundesgesetzen**
 
-### Das Bundesgesetz vom 10. Juni 1925** über Jagd und Vogelschutz wird aufgehoben.
+### Das Bundesgesetz vom 10. Juni 1925 über Jagd und Vogelschutz wird aufgehoben.
 
 [^27-subdivu1-1]
 
-[^27-subdivu1-1]: [BS **9** 544; [AS 1954 559](https://fedlex.data.admin.ch/eli/oc/1954/559_573_455)Ziff. I 7, [1959 931](https://fedlex.data.admin.ch/eli/oc/1959/931_961_953)Art. 11 Bst. c, [1962 794](https://fedlex.data.admin.ch/eli/oc/1962/794_832_852), [1971 852](https://fedlex.data.admin.ch/eli/oc/1971/852_854_855), [1977 1907](https://fedlex.data.admin.ch/eli/oc/1977/1907_1907_1907)Art. 1, 2, [1981 497](https://fedlex.data.admin.ch/eli/oc/1981/497_497_497)Art. 1]
+[^27-subdivu1-1]: [BS **9** 544; [AS 1954 559](https://fedlex.data.admin.ch/eli/oc/1954/559_573_455)Ziff. I 7; [1959 931](https://fedlex.data.admin.ch/eli/oc/1959/931_961_953)Art. 11 Bst. c; [1962 794](https://fedlex.data.admin.ch/eli/oc/1962/794_832_852); [1971 852](https://fedlex.data.admin.ch/eli/oc/1971/852_854_855); [1977 1907](https://fedlex.data.admin.ch/eli/oc/1977/1907_1907_1907)Art. 1 und 2; [1981 497](https://fedlex.data.admin.ch/eli/oc/1981/497_497_497)Art. 1]
 
-### und 3. ...**
+### und 3. …
 
 [^27-subdivu2-1]
 

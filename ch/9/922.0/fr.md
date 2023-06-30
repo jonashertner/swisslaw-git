@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 1986 sur la chasse et la protection des mammif
 short: LChP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/506_506_506"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1986-06-20
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20220101/fr"
 
 (Loi sur la chasse, LChP)
 
-du 20 juin 1986 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 juin 1986 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -26,7 +26,7 @@ vu les art. 74, al. 1, 78, al. 4, 79 et 80, al. 1, de la Constitution[^ingress-1
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nouvelle teneur selon le ch. 2 de l’annexe à la L du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 [^ingress-3]: [FF 1983 II 1229](https://fedlex.data.admin.ch/eli/fga/1983/2_1197_1229_1169)
 
 ## Chapitre 1 But et champ d’application
@@ -156,7 +156,7 @@ Les espèces suivantes peuvent être chassées toute l’année:
 
 <sup>2</sup> Les cantons peuvent, avec l’assentiment préalable de l’Office fédéral de l’environnement (Office fédéral)[^7-1], prévoir le tir d’animaux protégés si la sauvegarde des biotopes ou le maintien de la diversité des espèces l’exige. Le Conseil fédéral désigne les animaux visés par cette disposition.
 
-<sup>3</sup> La chasse des bouquetins peut être autorisée du 1<sup>er</sup> septembre au 30 novembre, lorsqu’elle vise à une régulation des populations. A cette fin, les cantons soumettent chaque année à l’approbation du Département une planification des tirs. Le Conseil fédéral arrête les prescriptions nécessaires.
+<sup>3</sup> La chasse des bouquetins peut être autorisée du 1<sup>er</sup> septembre au 30 novembre, lorsqu’elle vise à une régulation des populations. À cette fin, les cantons soumettent chaque année à l’approbation du Département une planification des tirs. Le Conseil fédéral arrête les prescriptions nécessaires.
 
 <sup>4</sup> Les cantons assurent une protection suffisante des mammifères et des oiseaux sauvages contre les dérangements.
 
@@ -231,11 +231,11 @@ Une autorisation de la Confédération est nécessaire pour:
 
 <sup>5</sup> La Confédération encourage et coordonne les mesures des cantons visant à prévenir les dommages causés par les grands prédateurs aux animaux de rente.[^12-4] Elle peut charger des collectivités de droit public ou des particuliers d’exécuter ces tâches contre rémunération.[^12-5]
 
-[^12-1]: Nouvelle teneur selon le ch. II 11 de l’annexe à la LF du 22 mars 2002 sur l’adaptation de disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
-[^12-2]: Introduit par le ch. II 11 de l’annexe à la LF du 22 mars 2002 sur l’adaptation de disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
-[^12-3]: Nouvelle teneur selon le ch. II 11 de l’annexe à la LF du 22 mars 2002 sur l’adaptation de disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
-[^12-4]: Introduit par le ch. 9 de l’annexe à la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^12-5]: Phrase introduite par le ch. 2 de l’annexe à la L du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^12-1]: Nouvelle teneur selon l’annexe ch. II 11 de la LF du 22 mars 2002 sur l’adaptation de disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+[^12-2]: Introduit par l’annexe ch. II 11 de la LF du 22 mars 2002 sur l’adaptation de disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+[^12-3]: Nouvelle teneur selon l’annexe ch. II 11 de la LF du 22 mars 2002 sur l’adaptation de disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+[^12-4]: Introduit par l’annexe ch. 9 de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^12-5]: Phrase introduite par l’annexe ch. 2 de la L du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 13
 
@@ -249,7 +249,7 @@ Une autorisation de la Confédération est nécessaire pour:
 
 <sup>4</sup> La Confédération et les cantons participent à l’indemnisation des dommages causés par certains animaux protégés. Le Conseil fédéral, après avoir consulté les cantons, détermine ces espèces protégées et fixe les conditions d’indemnisation.
 
-[^13-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la L du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^13-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 ## Chapitre 5 Information, formation et recherche
 
@@ -259,13 +259,13 @@ Une autorisation de la Confédération est nécessaire pour:
 
 <sup>2</sup> Ils règlent la formation et la formation continue des surveillants de la faune sauvage et des chasseurs. La Confédération organise des cours pour la formation continue complémentaire du personnel affecté à la surveillance des zones protégées de la Confédération.[^14-1]
 
-<sup>3</sup> La Confédération encourage l’étude des animaux sauvages, de leurs maladies et de leurs biotopes. A cet effet, l’Office fédéral peut déroger aux dispositions de la présente loi concernant les animaux protégés. Les dérogations qui ont trait aux animaux pouvant être chassés sont du ressort des cantons.
+<sup>3</sup> La Confédération encourage l’étude des animaux sauvages, de leurs maladies et de leurs biotopes. À cet effet, l’Office fédéral peut déroger aux dispositions de la présente loi concernant les animaux protégés. Les dérogations qui ont trait aux animaux pouvant être chassés sont du ressort des cantons.
 
 <sup>4</sup> La Confédération gère le Centre suisse de documentation sur la recherche concernant la faune sauvage. Elle encourage l’information du public et peut allouer des subventions à des centres de recherche et à d’autres institutions de formation et de recherche d’importance nationale.
 
 <sup>5</sup> Le Conseil fédéral édicte des prescriptions sur le marquage des mammifères et des oiseaux sauvages.
 
-[^14-1]: Nouvelle teneur selon le ch. 43 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^14-1]: Nouvelle teneur selon l’annexe ch. 43 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 ## Chapitre 6 Responsabilité et assurance
 
@@ -315,8 +315,8 @@ Sera puni d’une peine privative de liberté d’un an au plus ou d’une peine
 
 <sup>2</sup> Si le délinquant a agi par négligence, il sera puni de l’amende.
 
-[^17-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
-[^17-2]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^17-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^17-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
 #### Art. 18
 
@@ -359,14 +359,20 @@ L’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administrati
 
 <sup>1</sup>
 
-Le retrait de l’autorisation de chasser est prononcé par le juge, pour une année au minimum et dix ans au maximum, lorsque le titulaire:
+Le retrait de l’autorisation de chasser peut être prononcé par le juge, pour un an au minimum et dix ans au maximum, lorsque le titulaire:
 
-- a. intentionnellement ou par négligence, a tué ou blessé grièvement une personne au cours de la chasse;
-- b. a, intentionnellement, commis ou tenté de commettre un délit visé à l’art. 17, qu’il en soit l’auteur, l’instigateur ou le complice.
+- a. intentionnellement ou par négligence, tue ou blesse grièvement une personne au cours de la chasse ou, intentionnellement, commet ou tente de commettre un délit visé à l’art. 17, qu’il en soit l’auteur, l’instigateur ou le complice;
+- b. risque de commettre d’autres actes du même genre.[^20-1]
+
+<sup>1bis</sup> La mesure peut aussi être ordonnée si l’auteur est irresponsable ou qu’il a une responsabilité restreinte au sens de l’art. 19, al. 1 et 2, du code pénal[^20-2].[^20-3]
 
 <sup>2</sup> Le retrait de l’autorisation vaut pour toute la Suisse.
 
 <sup>3</sup> Les cantons peuvent prévoir d’autres motifs de retrait de l’autorisation ainsi que du refus de celle-ci. Les dispositions administratives édictées à ce sujet ne sont valables que pour le canton concerné.
+
+[^20-1]: Nouvelle teneur selon le ch. I 12 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^20-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^20-3]: Introduit par le ch. I 12 de la LF du 17 déc. 2021 sur l’adaptation du droit pénal accessoire au droit des sanctions modifié, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ## Chapitre 8 Procédure pénale
 
@@ -387,7 +393,7 @@ Le retrait de l’autorisation de chasser est prononcé par le juge, pour une an
 [^21-5]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
 [^21-6]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^21-7]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^21-8]: Nouvelle teneur selon le ch. II 8 de l’annexe à la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^21-8]: Nouvelle teneur selon l’annexe ch. II 8 de la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 #### Art. 22
 
@@ -397,7 +403,7 @@ Le retrait de l’autorisation de chasser est prononcé par le juge, pour une an
 
 <sup>2</sup> L’Office fédéral communique aux cantons la liste des personnes auxquelles l’autorisation a été retirée pour qu’ils puissent assurer le retrait de l’autorisation sur leur territoire.
 
-<sup>3</sup> Il peut conserver ces données dans un fichier électronique. A l’échéance du retrait de l’autorisation, il efface les inscriptions électroniques et détruit les décisions cantonales correspondantes. Il peut conserver celles-ci sous une forme anonyme à des fins scientifiques ou statistiques.
+<sup>3</sup> Il peut conserver ces données dans un fichier électronique. À l’échéance du retrait de l’autorisation, il efface les inscriptions électroniques et détruit les décisions cantonales correspondantes. Il peut conserver celles-ci sous une forme anonyme à des fins scientifiques ou statistiques.
 
 [^22-1]: Nouvelle teneur selon le ch.VIII 1 de la LF du 24 mars 2000 sur la création et l’adaptation de bases légales concernant le traitement de données personnelles, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979))
 
@@ -409,11 +415,11 @@ Le locataire de la chasse, dans les régions où la chasse est affermée, le can
 
 [^23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## Chapitre 9 Exécution et procédure****
+## Chapitre 9 Exécution et procédure
 
 [^chap9-1]
 
-[^chap9-1]: Nouvelle teneur selon le ch. 10 de l’annexe à la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^chap9-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 #### Art. 24
 
@@ -421,7 +427,7 @@ Le locataire de la chasse, dans les régions où la chasse est affermée, le can
 
 Le Conseil fédéral édicte les dispositions d’exécution.
 
-[^24-1]: Nouvelle teneur selon le ch. 10 de l’annexe à la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^24-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 #### Art. 25
 
@@ -433,14 +439,14 @@ Le Conseil fédéral édicte les dispositions d’exécution.
 
 <sup>3</sup> Toutes les prescriptions légales des cantons relatives à la chasse seront communiquées à l’Office fédéral avant leur entrée en vigueur.
 
-[^25-1]: Nouvelle teneur selon le ch. 10 de l’annexe à la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^25-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^25-2]: Modifié par le ch. III de la LF du 15 déc. 1989 relative à l’approbation d’actes législatifs des cantons par la Confédération, en vigueur depuis le 1<sup>er</sup> fév. 1991 ([RO 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 #### Art. 25a
 
 [^25a-1]
 
-[^25a-1]: Introduit par le ch. 10 de l’annexe à la LF du 21 mars 2003 sur le génie génétique ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogé par le ch. 128 de l’annexe à la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^25a-1]: Introduit par l’annexe ch. 10 de la LF du 21 mars 2003 sur le génie génétique ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogé par l’annexe ch. 128 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 26
 
@@ -454,7 +460,7 @@ Les cantons règlent le droit de perquisitionner dans les locaux et installation
 
 **Abrogation et modification de lois fédérales**
 
-### La loi fédérale du 10 juin 1925 sur la chasse et la protection des oiseaux** est abrogée.
+### La loi fédérale du 10 juin 1925 sur la chasse et la protection des oiseaux est abrogée.
 
 [^27-subdivu1-1]
 

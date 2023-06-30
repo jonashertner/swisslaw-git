@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 1986 su la caccia e la protezione dei mammi
 short: LCP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/506_506_506"
 language: it
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1986-06-20
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20220101/it"
 
 (Legge sulla caccia, LCP)
 
-del 20 giugno 1986 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 20 giugno 1986 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -26,7 +26,7 @@ visti gli articoli 74 capoverso 1, 78 capoverso 4, 79 e 80 capoverso 1 della Cos
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. 2 dell’all. alla L del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^ingress-2]: Nuovo testo giusta l’all. n. 2 della L del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 [^ingress-3]: [FF 1983 II 1169](https://fedlex.data.admin.ch/eli/fga/1983/2_1197_1229_1169)
 
 ## Capitolo 1: Scopo e campo di applicazione
@@ -216,10 +216,10 @@ Necessita di un’autorizzazione della Confederazione chi vuole:
 
 <sup>5</sup> La Confederazione promuove e coordina le misure dei Cantoni volte a prevenire i danni causati dalla selvaggina, segnatamente quelli causati dai grandi predatori agli animali da reddito.[^12-3] Può affidare l’esecuzione di tali compiti, contro indennità, a corporazioni di diritto pubblico o a privati.[^12-4]
 
-[^12-1]: Nuovo testo giusta il n. II 11 dell’all. alla LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
-[^12-2]: Introdotto dal n. II 11 dell’all. alla LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
-[^12-3]: Introdotto dal n. 9 dell’all. alla LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^12-4]: Per. introdotto dal n. 2 dell’all. alla L del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^12-1]: Nuovo testo giusta l’all. n. II 11 della LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+[^12-2]: Introdotto dall’all. n. II 11 della LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+[^12-3]: Introdotto dall’all n. 9 della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^12-4]: Per. introdotto dall’all. n. 2 della L del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 13
 
@@ -233,7 +233,7 @@ Necessita di un’autorizzazione della Confederazione chi vuole:
 
 <sup>4</sup> Confederazione e Cantoni partecipano al risarcimento dei danni causati da certi animali protetti. Il Consiglio federale, sentiti i Cantoni, designa queste specie protette e determina le condizioni dell’obbligo di risarcimento.
 
-[^13-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^13-1]: Nuovo testo giusta l’all. n. 2 della L del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 ## Capitolo 5: Informazione, formazione e ricerca
 
@@ -249,7 +249,7 @@ Necessita di un’autorizzazione della Confederazione chi vuole:
 
 <sup>5</sup> Il Consiglio federale emana prescrizioni concernenti la marcatura di mammiferi e uccelli selvatici.
 
-[^14-1]: Nuovo testo giusta il n. 43 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^14-1]: Nuovo testo giusta l’all. n. 43 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 ## Capitolo 6: Responsabilità civile e assicurazione
 
@@ -299,8 +299,8 @@ Necessita di un’autorizzazione della Confederazione chi vuole:
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è della multa.
 
-[^17-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
-[^17-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^17-1]: Nuovo testo giusta l’all. n. 2 della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^17-2]: Nuovo testo giusta l’all. n. 2 della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
 #### Art. 18
 
@@ -343,14 +343,20 @@ Necessita di un’autorizzazione della Confederazione chi vuole:
 
 <sup>1</sup>
 
-Chi ha un’autorizzazione di caccia ne è privato dal giudice per uno sino a dieci anni se:
+Chi ha un’autorizzazione di caccia ne può essere privato dal giudice per uno sino a dieci anni se:
 
-- a. intenzionalmente o per negligenza, uccide o ferisce gravemente una persona durante l’esercizio della caccia;
-- b. ha intenzionalmente commesso o tentato di commettere un delitto di cui all’articolo 17, in qualità di autore, istigatore o complice.
+- a. intenzionalmente o per negligenza, uccide o ferisce gravemente una persona durante l’esercizio della caccia o ha intenzionalmente commesso o tentato di commettere un delitto di cui all’articolo 17, in qualità di autore, istigatore o complice; e
+- b. vi è il pericolo che commetta altri reati analoghi.[^20-1]
+
+<sup>1bis</sup> La misura può essere ordinata anche in caso di incapacità o scemata imputabilità dell’autore secondo l’articolo 19 capoversi 1 e 2 del Codice penale[^20-2].[^20-3]
 
 <sup>2</sup> Il ritiro dell’autorizzazione vale per tutta la Svizzera.
 
 <sup>3</sup> I Cantoni possono prevedere altri motivi di ritiro o diniego dell’autorizzazione di caccia. Le pertinenti disposizioni amministrative valgono unicamente per il Cantone di cui si tratta.
+
+[^20-1]: Nuovo testo giusta il n. I 12 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^20-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^20-3]: Introdotto dal n. I 12 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ## Capitolo 8: Procedura penale
 
@@ -371,7 +377,7 @@ Chi ha un’autorizzazione di caccia ne è privato dal giudice per uno sino a di
 [^21-5]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
 [^21-6]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^21-7]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^21-8]: Nuovo testo giusta il n. II 8 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^21-8]: Nuovo testo giusta l’all. n. II 8 della L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 #### Art. 22
 
@@ -393,11 +399,11 @@ L’affittuario, in zone con regime di riserva, e il Cantone o il Comune, nelle 
 
 [^23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## Capitolo 9: Esecuzione e procedura****
+## Capitolo 9: Esecuzione e procedura
 
 [^chap9-1]
 
-[^chap9-1]: Nuovo testo giusta in n. 10 dell’all. alla LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^chap9-1]: Nuovo testo giusta l’all. n. 10 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 #### Art. 24
 
@@ -405,7 +411,7 @@ L’affittuario, in zone con regime di riserva, e il Cantone o il Comune, nelle 
 
 Il Consiglio federale emana le disposizioni esecutive.
 
-[^24-1]: Nuovo testo giusta in n. 10 dell’all. alla LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^24-1]: Nuovo testo giusta l’all. n. 10 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 #### Art. 25
 
@@ -417,14 +423,14 @@ Il Consiglio federale emana le disposizioni esecutive.
 
 <sup>3</sup> Tutti gli atti normativi cantonali concernenti la caccia devono essere comunicati all’Ufficio federale prima della loro entrata in vigore.
 
-[^25-1]: Nuovo testo giusta in n. 10 dell’all. alla LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^25-1]: Nuovo testo giusta l’all. n. 10 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^25-2]: Espr. modificata dal n. III della LF del 15 dic. 1989 conc. l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 #### Art. 25a
 
 [^25a-1]
 
-[^25a-1]: Introdotto dal n. 10 dell’all. alla LF del 21 mar. 2003 sull’ingegneria genetica ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogato dal n. 128 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^25a-1]: Introdotto dall’all. n. 10 della LF del 21 mar. 2003 sull’ingegneria genetica ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogato dall’all. n. 128 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 26
 
@@ -438,7 +444,7 @@ I Cantoni disciplinano il diritto di perquisire i locali e gli impianti e di seq
 
 **Abrogazione e modificazione di leggi federali**
 
-### La legge federale del 10 giugno 1925** sulla caccia e la protezione degli uccelli è abrogata.
+### La legge federale del 10 giugno 1925 sulla caccia e la protezione degli uccelli è abrogata.
 
 [^27-subdivu1-1]
 
