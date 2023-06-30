@@ -4,7 +4,7 @@ number: "850.11"
 title: "LOI du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale (LAPRAMS)"
 short: LAPRAMS
 language: fr
-version: 2021-03-01
+version: 2023-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11?id=2fa7a6aa-651f-4e5c-88ba-73796e00dd98"
 ---
 
@@ -88,9 +88,13 @@ décrète
 
 <sup>2bis</sup> Le département, par sa Direction en charge de l'octroi des prestations au sens de la présente loi, peut confier à la Caisse cantonale de compensation AVS (ci-après : la Caisse) l'exécution de certaines tâches prévues par la loi.
 
+<sup>2ter</sup> Le département, par sa direction en charge de l'octroi des prestations au sens de la présente loi, peut évaluer périodiquement le besoin en logement adapté avec accompagnement (ci-après : LADA).
+
+<sup>2quater</sup> Le département veille à mettre en œuvre une coordination étroite avec les différents acteurs médico-sociaux, associations et entités privées notamment, dans le but de renforcer et de développer le dispositif LADA. Une coordination étroite avec le département en charge du logement est mise en œuvre lors de la communication officielle avec les collectivités publiques.
+
 <sup>3</sup> Le règlement [^4-2] précise les modalités.
 
-[^3-1]: Modif. 13 du 11.12.2019: Introduction Al. 2bis; entrée en vigueur au 01.03.2020 · Modif. 15 du 21.11.2023: Introduction Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3bis; entrée en vigueur au 01.07.2023; Introduction Art. 12a; entrée en vigueur au 01.07.2023; Introduction Art. 16, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 16a; entrée en vigueur au 01.07.2023; Introduction Art. 16b; entrée en vigueur au 01.07.2023
+[^3-1]: Modif. 13 du 11.12.2019: Introduction Al. 2bis; entrée en vigueur au 01.03.2020 · Modif. 15 du 21.11.2023: Introduction Al. 2quater,2ter; entrée en vigueur au 01.07.2023
 [^4-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 [^4-2]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
 
@@ -98,11 +102,11 @@ décrète
 
 **Délégation à l'AVASAD [^4-3]**
 
-<sup>1</sup> Dans le cadre de la subvention prévue à l'article 2, alinéa 2, le département délègue à l'AVASAD la compétence de réduire le coût de ses prestations d'aide à domicile mises à la charge des bénéficiaires, en fonction de leurs ressources. Le département édicte des normes qui comprennent, entre autres, la liste et le barême des prix des prestations et qui portent notamment sur l'aide à la famille, les repas à domicile, l'aide au ménage et les veilles et présences.
+<sup>1</sup> Dans le cadre de la subvention prévue à l'article 2, alinéa 2, le département délègue à l'AVASAD la compétence de réduire le coût de ses prestations d'aide à domicile mises à la charge des bénéficiaires, en fonction de leurs ressources. Le département édicte des normes qui comprennent, entre autres, la liste et le barème des prix des prestations et qui portent notamment sur l'aide à la famille, les repas à domicile, l'aide au ménage, les veilles et présences et les prestations fournies en LADA telles que mentionnées à l'article 16, alinéa 2 de la présente loi.
 
 <sup>2</sup> Les prestations sont fournies sur la base d'une évaluation de la situation du requérant et de son entourage. La loi sur l'harmonisation et la coordination de l'octroi des prestations sociales et d'aide à la formation et au logement cantonales vaudoises [^4a-1] est applicable en ce qui concerne le calcul du revenu déterminant et la composition de l'unité économique de référence. Les articles 9, alinéa 3, 11, alinéas 2 et 4 et 12, alinéas 1 à 3 de la loi d'application vaudoise de la loi fédérale sur l'assurance-maladie[^4a-2] sont également applicables par analogie.
 
-[^4-3]: Modif. 3 du 06.10.2009: Introduction Art. 4a; entrée en vigueur au 01.01.2010 · Modif. 4 du 09.11.2010: Modification Al. 2; entrée en vigueur au 01.01.2013 · Modif. 15 du 21.11.2023: Introduction Art. 4, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Modification Al. 1; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3bis; entrée en vigueur au 01.07.2023; Introduction Art. 12a; entrée en vigueur au 01.07.2023; Introduction Art. 16, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 16a; entrée en vigueur au 01.07.2023; Introduction Art. 16b; entrée en vigueur au 01.07.2023
+[^4-3]: Modif. 3 du 06.10.2009: Introduction Art. 4a; entrée en vigueur au 01.01.2010 · Modif. 4 du 09.11.2010: Modification Al. 2; entrée en vigueur au 01.01.2013 · Modif. 15 du 21.11.2023: Modification Al. 1; entrée en vigueur au 01.07.2023
 [^4a-1]: Loi du 09.11.2010 sur l'harmonisation et la coordination de l'octroi des prestations sociales et d'aide à la formation et au logement cantonales vaudoises ([BLV 850.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.03?id=db1ccfb7-873f-4a81-8cd5-fbabe8fe816c))
 [^4a-2]: Loi du 25.06.1996 d'application vaudoise de la loi fédérale sur l'assurance-maladie ( [BLV 832.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/832.01?id=604dfd14-925f-4149-ba81-bf2d4ecb9284))
 
@@ -112,11 +116,11 @@ décrète
 
 <sup>1</sup> En principe, les aides financières accordées aux bénéficiaires des régimes sociaux, notamment les prestations complémentaires à l'AVS/AI (ci-après : PC AVS/AI) et les aides individuelles versées au titre de la loi, sont fixées dans le cadre de conventions tarifaires conclues entre le département et les fournisseurs de prestations.
 
-<sup>2</sup> Le Conseil d'Etat fixe les règles sur lesquelles se fondent les conventions, relativement aux montants que peuvent facturer les fournisseurs de prestations aux bénéficiaires de la loi, ainsi qu'au montant mensuel affecté à leurs dépenses personnelles. Elles ont notamment pour but de régler les conditions de prise en charge financière des bénéficiaires et le tarif des prestations.
+<sup>2</sup> Le Conseil d'Etat fixe les règles sur lesquelles se fondent les conventions, relativement aux montants que peuvent facturer les fournisseurs de prestations, respectivement les propriétaires et, si distincts, les prestataires de services pour les LADA, aux bénéficiaires de la loi, ainsi qu'au montant mensuel affecté à leurs dépenses personnelles. Elles ont notamment pour but de régler les conditions de prise en charge financière des bénéficiaires et le tarif des prestations.
 
 <sup>3</sup> En cas d'absence de conventions entre le département et les EMS, les EPSM, les PPS ou les HNM, le Conseil d'Etat fixe les tarifs par voie d'arrêté.
 
-[^4a-3]: Modif. 11 du 07.11.2017: Modification Al. 3; entrée en vigueur au 01.01.2018 · Modif. 15 du 21.11.2023: Introduction Art. 4, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Modification Al. 2; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3bis; entrée en vigueur au 01.07.2023; Introduction Art. 12a; entrée en vigueur au 01.07.2023; Introduction Art. 16, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 16a; entrée en vigueur au 01.07.2023; Introduction Art. 16b; entrée en vigueur au 01.07.2023
+[^4a-3]: Modif. 11 du 07.11.2017: Modification Al. 3; entrée en vigueur au 01.01.2018 · Modif. 15 du 21.11.2023: Modification Al. 2; entrée en vigueur au 01.07.2023
 
 #### Art. 6
 
@@ -200,11 +204,13 @@ décrète
 
 <sup>3</sup> Pour les EMS, les EPSM, les PPS et les HNM, le département, par la Coordination interservices des visites en EMS au sens de la réglementation sur les établissements sanitaires, s'assure de la qualité de prise en charge sociale des personnes accueillies et peut visiter les établissements en tout temps.
 
+<sup>3bis</sup> Pour les LADA labélisés au sens de l'article 16a, le département, par sa direction en charge de l'octroi des prestations au sens de la présente loi, s'assure du suivi de la qualité des prestations fournies ainsi que du respect des dispositions légales, réglementaires et conventionnelles en la matière.
+
 <sup>4</sup> …
 
 <sup>5</sup> Le règlement [^7-1] précise la portée et les modalités relatives à la surveillance, au contrôle et aux informations requises.
 
-[^6d-1]: Modif. 5 du 17.05.2011: Modification Al. 1,2; entrée en vigueur au 01.10.2011; Abrogation Al. 4; entrée en vigueur au 01.10.2011 · Modif. 11 du 07.11.2017: Modification Al. 3; entrée en vigueur au 01.01.2018 · Modif. 15 du 21.11.2023: Introduction Art. 4, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Al. 3bis; entrée en vigueur au 01.07.2023; Introduction Art. 12a; entrée en vigueur au 01.07.2023; Introduction Art. 16, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 16a; entrée en vigueur au 01.07.2023; Introduction Art. 16b; entrée en vigueur au 01.07.2023
+[^6d-1]: Modif. 5 du 17.05.2011: Modification Al. 1,2; entrée en vigueur au 01.10.2011; Abrogation Al. 4; entrée en vigueur au 01.10.2011 · Modif. 11 du 07.11.2017: Modification Al. 3; entrée en vigueur au 01.01.2018 · Modif. 15 du 21.11.2023: Introduction Al. 3bis; entrée en vigueur au 01.07.2023
 [^7-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
 
 #### Art. 8
@@ -278,11 +284,25 @@ décrète
 <sup>4</sup> Le règlement [^12-1] fixe les modalités.
 
 [^12-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
-[^12-2]: Modif. 11 du 07.11.2017: Modification ; entrée en vigueur au 01.01.2018
+
+#### Art. 12a
+
+**Aide à l'adaptation du logement individuel [^12-2]**
+
+<sup>1</sup> Une aide financière individuelle peut être octroyée, pour permettre à une personne de réaliser des travaux d'adaptation du logement, afin de pouvoir y demeurer le plus longtemps possible et ainsi, retarder une entrée en institution.
+
+<sup>2</sup> Cette aide financière est subsidiaire à toute prestation visant les mêmes fins, que la personne concernée peut solliciter d'un tiers, notamment une assurance sociale ou privée.
+
+<sup>3</sup> La demande d'aide s'effectue sur la base d'une évaluation réalisée par un organisme ou un professionnel reconnu par la direction en charge de l'octroi des prestations au sens de la présente loi.
+
+<sup>4</sup> Le règlement fixe les conditions et les modalités d'octroi de cette aide.
+
+[^12-2]: Modif. 15 du 21.11.2023: Introduction Art. 12a; entrée en vigueur au 01.07.2023
+[^12a-1]: Modif. 11 du 07.11.2017: Modification ; entrée en vigueur au 01.01.2018
 
 ### Section II Centre d'accueil temporaire
 
-[^12-2]
+[^12a-1]
 
 #### Art. 13
 
@@ -335,7 +355,7 @@ décrète
 [^15-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
 [^15-2]: Modif. 15 du 21.11.2023: Modification ; entrée en vigueur au 01.07.2023
 
-### Section III Logement protégé
+### Section III Logement adapté avec accompagnement et logement supervisé
 
 [^15-2]
 
@@ -343,35 +363,78 @@ décrète
 
 **Définition [^sectionSectionIII-1]**
 
-<sup>1</sup> Un logement protégé (al. 2) ou un logement supervisé (al. 2<sup>bis</sup>) est un appartement indépendant conçu pour permettre le maintien à domicile de personnes âgées, handicapées ou souffrant de troubles psychiques et dans lequel des prestations médico-sociales ou psycho-éducatives reconnues par la loi sont dispensées.
+<sup>1</sup> Un LADA est un appartement indépendant, conçu pour permettre le maintien à domicile de personnes âgées ou handicapées, dans lequel des prestations médico-sociales reconnues par la loi sont dispensées.
 
-<sup>2</sup> Les personnes âgées qui, moyennant un bail à loyer, vivent en logement protégé, disposent au minimum d'un appartement adapté, d'espaces communautaires et d'un encadrement sécuritaire.
+<sup>2</sup> Les personnes qui, moyennant un bail à loyer, vivent en LADA, disposent au minimum d'un appartement adapté, d'espaces communautaires et d'un accompagnement sécurisant.
 
-<sup>2bis</sup> Les personnes souffrant de troubles psychiques ou handicapées psychiques qui, moyennant un bail à loyer, vivent en logement supervisé, disposent au minimum d'un appartement individuel, d'espaces communautaires et d'un soutien psycho-éducatif.
+<sup>2bis</sup> Un logement supervisé est un appartement indépendant, conçu pour permettre le maintien à domicile de personnes souffrant de troubles psychiques ou handicapées psychiques, dans lequel des prestations psycho-éducatives reconnues par la loi sont dispensées.
+
+<sup>2ter</sup> Les personnes qui, moyennant un bail à loyer, vivent en logement supervisé, disposent au minimum d'un appartement individuel, d'espaces communautaires et d'un soutien psycho-éducatif.
+
+<sup>2quater</sup> Les personnes vivant en LADA peuvent bénéficier de prestations psycho-éducatives selon les modalités fixées dans le règlement.
 
 <sup>3</sup> Le règlement [^16-1] fixe les modalités.
 
-[^sectionSectionIII-1]: Modif. 11 du 07.11.2017: Modification Al. 1,2; entrée en vigueur au 01.01.2018; Introduction Al. 2bis; entrée en vigueur au 01.01.2018 · Modif. 15 du 21.11.2023: Introduction Art. 4, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3bis; entrée en vigueur au 01.07.2023; Introduction Art. 12a; entrée en vigueur au 01.07.2023; Modification Al. 1,2,2bis; entrée en vigueur au 01.07.2023; Introduction Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 16a; entrée en vigueur au 01.07.2023; Introduction Art. 16b; entrée en vigueur au 01.07.2023
+[^sectionSectionIII-1]: Modif. 11 du 07.11.2017: Modification Al. 1,2; entrée en vigueur au 01.01.2018; Introduction Al. 2bis; entrée en vigueur au 01.01.2018 · Modif. 15 du 21.11.2023: Modification Al. 1,2,2bis; entrée en vigueur au 01.07.2023; Introduction Al. 2quater,2ter; entrée en vigueur au 01.07.2023
 [^16-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+#### Art. 16a
+
+**Processus de labélisation [^16-2]**
+
+<sup>1</sup> Les LADA sont labélisés par le département aux conditions cumulatives suivantes :
+
+- a. Ils sont au bénéfice d'une reconnaissance d'utilité publique (ci-après LUP) au sens de la loi sur la préservation et la promotion du parc locatif du 10 mais 2016 (ci-après: LPPPL) ;
+- b. Ils respectent les exigences techniques et architecturales posées par une directive de la direction en charge de l'octroi des prestations au sens de la présente loi ;
+- c. Ils proposent un concept d'accompagnement sécurisant, d'accompagnement social et d'animation conformément aux exigences fixées par une directive de la direction en charge de l'octroi des prestations au sens de la présente loi ;
+- d. Les professionnels travaillant pour les LADA, notamment les référents sociaux bénéficient de formations continues afin de mettre à jour les connaissances et compétences nécessaires au bon accomplissement de leur activité. Le règlement précise les modalités ;
+- e. Ils sont attribués aux locataires par une commission d'attribution et de suivi ;
+- f. Les locataires sont au bénéfice d'un contrat de bail à loyer type établi par la direction en charge de l'octroi des prestations au sens de la présente loi, qui intègre également les prestations délivrées en LADA ;
+- g. Les propriétaires et, si distincts, les prestataires de service concluent une convention de reconnaissance de la mission LADA portant notamment sur les prestations fournies et sur les montants pris en charge par les régimes sociaux, avec la direction en charge de l'octroi des prestations au sens de la présente loi.
+
+<sup>2</sup> La procédure de labélisation par le département est fixée par une directive de la direction en charge de l'octroi des prestations au sens de la présente loi.
+
+<sup>3</sup> La signature de la convention de reconnaissance de la mission LADA donne droit à l'utilisation du label LADA. Ce dernier doit être utilisé par les propriétaires et, si distincts les prestataires de service, dans leurs relations avec les tiers.
+
+[^16-2]: Modif. 15 du 21.11.2023: Introduction Art. 16a; entrée en vigueur au 01.07.2023
+
+#### Art. 16b
+
+**Rôle du Bureau régional d'information et d'orientation [^16a-1]**
+
+<sup>1</sup> Dans le cadre du dispositif LADA, les Bureaux régionaux d'information et d'orientation (BRIO) tels que mis en place par la loi du 30 janvier 2007 sur les réseaux de soins (ci-après: LRS), assument notamment les tâches suivantes :
+
+- a. Informer et orienter la population ;
+- b. Intégrer les commissions d'attribution et de suivi des LADA;
+- c. Centraliser et gérer les disponibilités des LADA ;
+- d. Évaluer la situation et préaviser les attributions des LADA ;
+- e. Participer au système d'information et au monitoring en lien avec les LADA ;
+- f. Animer une coordination régionale destinée à consolider l'échange d'information, renforcer les synergies entre les partenaires, suivre le dispositif et relayer les besoins des partenaires en étant force de proposition auprès de la direction en charge de l'octroi des prestations au sens de la présente loi.
+
+<sup>2</sup> S'agissant des tâches mentionnées sous l'alinéa 1, lettre d, le règlement précise les modalités de collaboration avec l'AVASAD et/ou les partenaires médico-sociaux concernés.
+
+<sup>3</sup> Le règlement précise les conditions auxquelles les BRIO peuvent étendre leur collaboration avec des partenaires non reconnus par le DSAS, mais poursuivant une mission identique.
+
+[^16a-1]: Modif. 15 du 21.11.2023: Introduction Art. 16b; entrée en vigueur au 01.07.2023
 
 #### Art. 17
 
-**Aide individuelle [^16-2]**
+**Aide individuelle [^16b-1]**
 
-<sup>1</sup> Une aide financière individuelle peut être octroyée à la personne résidant dans un logement protégé ou supervisé, dont les prestations médico-sociales, respectivement psycho-éducatives, sont gérées par une structure qui remplit cumulativement les conditions suivantes :
+<sup>1</sup> Une aide financière individuelle peut être octroyée à la personne résidant dans un LADA ou un logement supervisé, dont les prestations médico-sociales, respectivement psycho-éducatives, sont gérées par un prestataire de service qui remplit cumulativement les conditions suivantes :
 
-- a. être constituée en association ou fondation ;
-- b. appliquer les tarifs convenus et s'engager avec le bénéficiaire par le biais d'un contrat de prise en charge ;
+- a. être constituée en association ou fondation ou, pour les LADA, être une collectivité publique dotée de la personnalité juridique ;
+- b. appliquer les tarifs convenus et s'engager avec le bénéficiaire par le biais d'un contrat de prestations ;
 - c. assurer une qualité de prise en charge satisfaisante dans l'application des prestations minimums définies à l'article 16 et disposer du personnel qualifié ;
 - d. collaborer avec les dispositifs d'information et d'orientation des résidents mis en place par le réseau de soins.
 
-<sup>2</sup> L'aide financière peut être octroyée sur la base d'une évaluation des besoins et des ressources du bénéficiaire par une OSAD reconnue ou par une institution signataire d'une convention tarifaire.
+<sup>2</sup> L'aide financière est octroyée sur la base d'une évaluation des besoins et des ressources du bénéficiaire par une OSAD reconnue ou par une institution signataire d'une convention tarifaire. Dans le cadre du dispositif LADA, l'aide est octroyée conformément à l'article 4a de la présente loi.
 
 <sup>3</sup> Elle est accordée sur la base d'un contrat conclu entre le résident et la structure gérant le logement protégé.
 
 <sup>4</sup> Le règlement[^17-1] précise les modalités.
 
-[^16-2]: Modif. 11 du 07.11.2017: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 15 du 21.11.2023: Introduction Art. 4, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3bis; entrée en vigueur au 01.07.2023; Introduction Art. 12a; entrée en vigueur au 01.07.2023; Introduction Art. 16, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 16a; entrée en vigueur au 01.07.2023; Introduction Art. 16b; entrée en vigueur au 01.07.2023; Modification Al. 1; entrée en vigueur au 01.07.2023; Modification Al. 1, a-b; entrée en vigueur au 01.07.2023; Modification Al. 2; entrée en vigueur au 01.07.2023
+[^16b-1]: Modif. 11 du 07.11.2017: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 15 du 21.11.2023: Modification Al. 1; entrée en vigueur au 01.07.2023; Modification Al. 1, a-b; entrée en vigueur au 01.07.2023; Modification Al. 2; entrée en vigueur au 01.07.2023
 [^17-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
 
 ### Section IV Court séjour
