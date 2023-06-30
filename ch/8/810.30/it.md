@@ -4,11 +4,11 @@ title: "Legge federale del 30 settembre 2011 concernente la ricerca sull'essere 
 short: LRUm
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: it
-version: 2022-12-01
+version: 2023-07-01
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2013-617-20221201-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2013-617-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20221201/it"
 
 (Legge sulla ricerca umana, LRUm)
 
-del 30 settembre 2011 (Stato 1° dicembre 2022)
+del 30 settembre 2011 (Stato 1° luglio 2023) (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -853,13 +853,14 @@ Sempre che non si tratti di un reato più grave secondo il Codice penale[^62-1],
 - d. conduce un progetto di ricerca che si prefigge di modificare le caratteristiche dell’embrione o del feto che non siano correlate a una malattia (art. 25);
 - e. utilizza embrioni o feti provenienti da interruzioni di gravidanza e aborti spontanei per un progetto di ricerca prima che ne sia stato accertato il decesso (art. 39 cpv. 3 e 40 cpv. 2).
 
-<sup>2</sup> Se l’autore ha agito per mestiere, la pena è una pena detentiva sino a tre anni; con quest’ultima è cumulata una pena pecuniaria.
+<sup>2</sup> Se l’autore ha agito per mestiere, la pena è una pena detentiva sino a cinque anni o una pena pecuniaria.[^62-4]
 
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria fino a 180 aliquote giornaliere.
 
 [^62-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^62-2]: Nuovo testo giusta l’all. n. 2 del DF del 19 giu. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa contro il traffico di organi umani, in vigore dal 1° feb. 2021 ([RU 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 4903](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 [^62-3]: Introdotta dall’all. n. 2 del DF del 19 giu. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa contro il traffico di organi umani, in vigore dal 1° feb. 2021 ([RU 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 4903](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^62-4]: Nuovo testo giusta il n. I 27 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 63
 

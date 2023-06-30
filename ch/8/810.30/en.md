@@ -4,11 +4,11 @@ title: "Federal Act of 30 September 2011 on Research involving Human Beings (Hum
 short: HRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: en
-version: 2022-12-01
+version: 2023-07-01
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20221201/en/xml/fedlex-data-admin-ch-eli-cc-2013-617-20221201-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20221201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2013-617-20230701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Human Research Act, HRA)
 
-of 30 September 2011 (Status as of 1 December 2022)
+of 30 September 2011 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -853,13 +853,14 @@ Unless a more serious offence has been committed under the Criminal Code[^62-1],
 - d. conducts a research project designed to modify properties of the embryo or foetus for non-disease-related reasons (Art. 25);
 - e. uses embryos or foetuses from induced or spontaneous abortions for a research project before death has been determined (Art. 39 para. 3, Art. 40 para. 2)
 
-<sup>2</sup> If the act is committed for commercial gain, the penalty shall be a custodial sentence not exceeding three years; this shall be combined with a monetary penalty.
+<sup>2</sup> If the act is committed for commercial gain, the penalty shall be a custodial sentence not exceeding five years or a monetary penalty.[^62-4]
 
 <sup>3</sup> If the act is committed through negligence, the penalty shall be a monetary penalty not exceeding 180 daily penalty units.
 
 [^62-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^62-2]: Amended by Annex No 2 of the FD of 19 June 2020 on the Approval of the Council of Europe Convention against Trafficking in Human Organs and on its Implementation, in force since 1 Feb. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 [^62-3]: Inserted by Annex No 2 of the FD of 19 June 2020 on the Approval of the Council of Europe Convention against Trafficking in Human Organs and on its Implementation, in force since 1 Feb. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^62-4]: Amended by Annex No I 27 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 63
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 30. September 2011 über die Forschung am Menschen (Hum
 short: HFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: de
-version: 2022-12-01
+version: 2023-07-01
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2013-617-20221201-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2013-617-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20221201/de"
 
 (Humanforschungsgesetz, HFG)
 
-vom 30. September 2011 (Stand am 1. Dezember 2022)
+vom 30. September 2011 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -851,13 +851,14 @@ Sofern keine schwerere strafbare Handlung nach dem Strafgesetzbuch[^62-1] vorlie
 - d. ein Forschungsprojekt durchführt, das eine Änderung von Eigenschaften des Embryos oder des Fötus ohne Bezug zu einer Krankheit zum Ziel hat (Art. 25);
 - e. Embryonen oder Föten aus Schwangerschaftsabbrüchen und Spontanaborten für ein Forschungsprojekt verwendet, bevor der Tod festgestellt worden ist (Art. 39 Abs. 3, 40 Abs. 2).
 
-<sup>2</sup> Wird die Tat gewerbsmässig begangen, so ist die Strafe Freiheitsstrafe bis zu drei Jahren; mit dieser ist eine Geldstrafe zu verbinden.
+<sup>2</sup> Wird die Tat gewerbsmässig begangen, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.[^62-4]
 
 <sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Geldstrafe bis zu 180 Tagessätzen.
 
 [^62-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^62-2]: Fassung gemäss Anhang Ziff. 2 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 [^62-3]: Eingefügt durch Anhang Ziff. 2 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^62-4]: Fassung gemäss Ziff. I 27 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 63
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 septembre 2011 relative à la recherche sur l'être
 short: LRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: fr
-version: 2022-12-01
+version: 2023-07-01
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2013-617-20221201-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2013-617-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20221201/fr"
 
 (Loi relative à la recherche sur l’être humain, LRH)
 
-du 30 septembre 2011 (État le 1<sup>er</sup> décembre 2022)
+du 30 septembre 2011 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -102,7 +102,7 @@ Au sens de la présente loi, on entend par:
 - i. *matériel biologique anonymisé et données anonymisées liées à la santé:* le matériel biologique et les données liées à la santé qui ne peuvent être mis en relation avec une personne déterminée ou ne peuvent l’être sans engager des efforts démesurés;
 - j. *enfant:* le mineur âgé de moins de 14 ans;
 - k. *adolescent:* le mineur âgé d’au moins 14 ans;
-- l.[^3-2] ...
+- l.[^3-2] …
 
 [^3-1]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 15 juin 2018 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 5253](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 [^3-2]: Abrogée par l’annexe de la LF du 22 mars 2019, avec effet au 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
@@ -853,13 +853,14 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 - d. réalise un projet de recherche qui a pour but de modifier les caractéristiques d’un embryon ou d’un fœtus sans rapport avec une maladie (art. 25);
 - e. utilise dans un projet de recherche un embryon ou un fœtus issu d’une interruption de grossesse ou d’un avortement spontané avant que le décès ne soit constaté (art. 39, al. 3, et 40, al. 2).
 
-<sup>2</sup> Si l’auteur de l’infraction agit par métier, il est puni d’une peine privative de liberté de trois ans au plus; celle-ci doit être cumulée avec une peine pécuniaire.
+<sup>2</sup> Si l’auteur de l’infraction agit par métier, il est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.[^62-4]
 
 <sup>3</sup> Si l’auteur de l’infraction agit par négligence, il est puni d’une peine pécuniaire de 180 jours-amende au plus.
 
 [^62-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^62-2]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 [^62-3]: Introduite par l’annexe ch. 2 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^62-4]: Nouvelle teneur selon le ch. I 27 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 63
 
@@ -944,6 +945,6 @@ Annexe
 
 Les lois mentionnées ci-après sont modifiées comme suit:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617).
