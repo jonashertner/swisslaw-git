@@ -3,27 +3,27 @@ canton: GR
 number: "490.250"
 title: Benutzungsordnung der Kantonsbibliothek Graubünden
 language: de
-version: 2009-06-01
-corrected: 2014-11-25
-version_adopted: 2009-05-19
+version: 2023-07-01
+version_adopted: 2023-05-09
 adopted: 2009-05-19
 in_force: 2009-06-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/490.250"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/782/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3796/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Benutzungsordnung der Kantonsbibliothek Graubünden
 
-Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^t-1]
+Vom 19.05.2009 (Stand 01.07.2023)
+
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
 von der Regierung erlassen am 19. Mai 2009
 
-I. Allgemeine Bestimmungen
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 
-[^t-1]: BR 110.100 1.07.2009 1
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -37,7 +37,7 @@ I. Allgemeine Bestimmungen
 
 **Öffnungszeiten**
 
-Die Öffnungszeiten der Kantonsbibliothek werden vom zuständigen Departement auf Antrag der Bibliotheksleitung festgelegt und öffentlich bekannt gemacht.
+<sup>1</sup> Die Öffnungszeiten der Kantonsbibliothek werden vom zuständigen Departement auf Antrag der Bibliotheksleitung festgelegt und öffentlich bekannt gemacht.
 
 #### Art. 3
 
@@ -49,7 +49,7 @@ Die Öffnungszeiten der Kantonsbibliothek werden vom zuständigen Departement au
 
 <sup>3</sup> Die Daten der Benutzenden werden nur für bibliothekarische Zwecke innerhalb des Bibliotheksverbundes verwendet.
 
-### II. Benutzung und Ausleihe der Medien
+## 2. Benutzung und Ausleihe der Medien
 
 #### Art. 4
 
@@ -63,7 +63,7 @@ Die Öffnungszeiten der Kantonsbibliothek werden vom zuständigen Departement au
 
 **Ausleihfristen**
 
-Die Ausleihfristen für die einzelnen Medienarten werden von der Bibliotheksleitung festgelegt und öffentlich bekannt gemacht.
+<sup>1</sup> Die Ausleihfristen für die einzelnen Medienarten werden von der Bibliotheksleitung festgelegt und öffentlich bekannt gemacht.
 
 #### Art. 6
 
@@ -107,11 +107,7 @@ Die Ausleihfristen für die einzelnen Medienarten werden von der Bibliotheksleit
 
 <sup>2</sup> Den Weisungen des Bibliothekspersonals zur Aufrechterhaltung der Hausordnung ist in jedem Fall Folge zu leisten.
 
-**2**
-
-1.07.2009
-
-### III. Gebühren
+## 3. Gebühren
 
 #### Art. 11
 
@@ -123,7 +119,7 @@ Die Ausleihfristen für die einzelnen Medienarten werden von der Bibliotheksleit
 
 <sup>3</sup> Für den Verlust eines Bibliotheksmediums werden die Wiederbeschaffungskosten sowie zusätzlich Verwaltungsgebühren verrechnet.
 
-### IV. Weitere Bestimmungen
+## 4. Weitere Bestimmungen
 
 #### Art. 12
 
@@ -137,90 +133,54 @@ Die Ausleihfristen für die einzelnen Medienarten werden von der Bibliotheksleit
 
 **Verstösse**
 
-Bei Verstössen gegen die Benutzungsordnung, Störung des Bibliotheksbetriebs sowie vorsätzlicher Schädigung des Bibliothekseigentums kann das Benutzungsrecht eingeschränkt, bei schwerwiegenden oder wiederholten Verstössen befristet aufgehoben werden.
+<sup>1</sup> Bei Verstössen gegen die Benutzungsordnung, Störung des Bibliotheksbetriebs sowie vorsätzlicher Schädigung des Bibliothekseigentums kann das Benutzungsrecht eingeschränkt, bei schwerwiegenden oder wiederholten Verstössen befristet aufgehoben werden.
 
-### V. Schlussbestimmungen
+## 5. Schlussbestimmungen
 
 #### Art. 14
 
 **Aufhebung bisherigen Rechts**
 
-Die Benutzungsordnung der Kantonsbibliothek vom 20. Dezember 1994[^14-1] wird aufgehoben.
+<sup>1</sup> Die Benutzungsordnung der Kantonsbibliothek vom 20. Dezember 1994[^14-1] wird aufgehoben.
 
-[^14-1]: AGS 1994, 3256; AGS 1998, 4234 und AGS 2003, KA 1886 und KA 3958 1.07.2009 3
+[^14-1]: AGS 1994, 3256; AGS 1998, 4234 und AGS 2003, KA 1886 und KA 3958
 
 #### Art. 15
 
 **Inkrafttreten**
 
-Diese Verordnung tritt am 1. Juni 2009 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Juni 2009 in Kraft.
 
-### Anhang
+## A1 Anhang 1: Gebühren der Kantonsbibliothek (Art. 11 Abs. 1)
 
-(Art. 11 Abs. 1)
+#### Art. A1-1
 
-### Gebühren der Kantonsbibliothek
+<sup>1</sup> Für die Dienstleistungen der Kantonsbibliothek werden folgende Gebühren erhoben:
 
-Für die Dienstleistungen der Kantonsbibliothek werden folgende Gebühren erhoben:
+- a) Benutzungsgebühr:
+  - 1\. Jahresbenutzungsgebühr (Abgabe Bibliotheksausweis): — Fr. 30.00
+  - 2\. Monatsbenutzungsgebühr (Abgabe Bibliotheksausweis): — Fr. 10.00
+- b) Ersatz Bibliotheksausweis: — Fr. 10.00
+- c) Versandkosten:
+  - 1\. Kanton Graubünden (pauschal pro Paket oder Brief): — Fr. 10.00
+  - 2\. übrige Schweiz: — nach Aufwand
+- d) Mahnungen (pro Medium):
+  - 1\. 1. Mahnung: — Fr. 5.00
+  - 2\. 2. Mahnung: — Fr. 10.00
+  - 3\. 3. Mahnung: — Fr. 20.00
+  - 4\. Rechnung (bei erfolgloser 3. Mahnung: Mahngebühren Fr. 20.00 und zusätzlich Fr. 20.00 Bearbeitungskosten): — Fr. 40.00
+- e) Ersatz verlorener Medien: Wiederbeschaffungskosten des zu ersetzenden Mediums plus Fr. 40.00 Bearbeitungsgebühr (bei Selbstkauf gratis)
+- f) Fernleihe:
+  - 1\. in der Schweiz: — nach Aufwand
+  - 2\. aus dem Ausland: — nach Aufwand
+- g) Internetnutzung im Haus:
+  - 1\. Internetnutzung: — gratis
+  - 2\. WLAN: — gratis
+- h) Verlorene Schliessfachschlüssel: — Fr. 100.00
+- i) Reproduktionen:
+  - 1\. Fotokopien (Seite A4 oder A3): — Fr. 0.20
+  - 2\. Kopieraufträge: — nach Aufwand
 
-- 1\. Benutzungsgebühr:
+<sup>2</sup> Für besondere Dienstleistungen können Gebühren nach Aufwand nach Massgabe der Verrechnungsansätze für Dienstleistungen der Kantonalen Verwaltung an Dritte erhoben werden.
 
-**Fr. 30.–**
-
-- a) Jahresbenutzungsgebühr (Abgabe Bibliotheksausweis)
-
-**Fr. 10.– Fr. 10.–**
-
-- b) Monatsbenutzungsgebühr (Abgabe Bibliotheksausweis)
-
-- 2\. Ersatz Bibliotheksausweis
-
-- 3\. Versandkosten
-
-**Fr. 10.– nach Aufwand**
-
-- a) Kanton Graubünden (pauschal pro Paket oder Brief)
-
-- b) übrige Schweiz
-
-- 4\. Mahnungen (pro Medium):
-
-**Fr. 10.– Fr. 20.– Fr. 35.–**
-
-- a) 1. Mahnung
-
-- b) 2. Mahnung
-
-- c) 3. Mahnung
-
-- d) Rechnung (bei fruchtloser 3. Mahnung:
-
-**Fr. 55.–**
-
-Mahngebühren Fr 35.00 und zusätzlich Fr. 20.00 Bearbeitungskosten) 5. Ersatz verlorener Medien:
-
-Wiederbeschaffungskosten des zu ersetzenden Mediums plus Fr. 40.00 Bearbeitungsgebühr (bei Selbstkauf gratis) 6. Fernleihe:
-
-**nach Aufwand nach Aufwand**
-
-- a) in der Schweiz
-
-- b) aus dem Ausland
-
-- 7\. Internetnutzung im Haus:
-
-**gratis**
-
-Kurznutzung bis maximal 15 Minuten einmal pro Tag (für eingeschriebene Benutzende unbefristet gratis) 8. Verlorene Schliessfachschlüssel 9. Reproduktionen:
-
-**Fr. 100.–**
-
-**Fr. 0.20 nach Aufwand**
-
-- a) Fotokopien (Seite A4 oder A3)
-
-- b) Kopieraufträge Für besondere Dienstleistungen können Gebühren nach Aufwand nach Massgabe der Verrechnungsansätze für Dienstleistungen der Kantonalen Verwaltung an Dritte erhoben werden.
-
-**4**
-
-1.07.2009
+-
