@@ -4,18 +4,18 @@ title: Codice penale militare del 13 giugno 1927 (CPM)
 short: CPM
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: it
-version: 2023-01-23
+version: 2023-07-01
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230123/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230123-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230701/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale militare
 
-del 13 giugno 1927 (Stato 23 gennaio 2023)
+del 13 giugno 1927 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -67,7 +67,7 @@ Sono sottoposti al diritto penale militare:
 - 4\.[^3-3] le persone obbligate al servizio militare, anche fuori del servizio, per quanto concerne la loro posizione militare e i loro doveri di servizio, nonché le persone che erano obbligate al servizio militare, fintanto che non hanno adempiuto i loro doveri di servizio;
 - 5\.[^3-4] le persone soggette all’obbligo di leva per quanto concerne l’obbligo di presentarsi, nonché durante la giornata informativa e le giornate di reclutamento;
 - 6\. i militari di professione, i militari a contratto temporaneo, i membri del Corpo delle guardie di confine, nonché le persone che prestano servizio di promovimento della pace ai sensi dell’articolo 66 della legge militare del 3 febbraio 1995[^3-5], durante il servizio o fuori ma in relazione con i loro doveri di servizio o la loro posizione militare, oppure quando portano l’uniforme;
-- 7\. le persone di condizione civile o i militari stranieri che si rendono colpevoli di tradimento con la violazione di segreti militari (art. 86), di sabotaggio (art. 86*a*), d’indebolimento della forza difensiva del Paese (art. 94-96), di violazione di segreti militari (art. 106) o di disobbedienza a misure prese dalle autorità militari e civili allo scopo di preparare o di eseguire la mobilitazione dell’esercito o di tutelare il segreto militare (art. 107);
+- 7\. le persone di condizione civile o i militari stranieri che si rendono colpevoli di tradimento con la violazione di segreti militari (art. 86), di sabotaggio (art. 86*a*), d’indebolimento della forza difensiva del Paese (art. 94–96), di violazione di segreti militari (art. 106) o di disobbedienza a misure prese dalle autorità militari e civili allo scopo di preparare o di eseguire la mobilitazione dell’esercito o di tutelare il segreto militare (art. 107);
 - 8\.[^3-6] le persone di condizione civile o i militari stranieri, per i reati di cui agli articoli 115–179 da essi commessi in qualità di impiegati o incaricati dell’esercito o dell’amministrazione militare congiuntamente con la truppa;
 - 9\.[^3-7] le persone di condizione civile e i militari stranieri che commettono all’estero contro un militare svizzero un reato previsto dal capo sesto (art. 108 e 109) o sesto<sup>bis</sup> (art. 110–114) della parte seconda o dall’articolo 114*a*.
 
@@ -427,9 +427,9 @@ Si tiene conto delle speciali relazioni, qualità e circostanze personali che ag
 Il capoverso 1 non si applica se il giudice accerta che:
 
 - a. la testimonianza è necessaria per preservare da un pericolo imminente la vita o l’integrità fisica di una persona; oppure
-- b.[^27a-1] senza testimonianza non è possibile far luce su un omicidio ai sensi degli articoli 115–117 o su un altro crimine punito con una pena detentiva non inferiore a tre anni oppure su un reato ai sensi degli articoli 141–143*a* e 153–156 del presente Codice, degli articoli 197 numero 3, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>septies</sup> del Codice penale svizzero[^27a-2], o ai sensi dell’articolo 19 numero 2 della legge del 3 ottobre 1951[^27a-3] sugli stupefacenti, o non è possibile catturare il colpevole di un simile reato.
+- b.[^27a-1] senza testimonianza non è possibile far luce su un omicidio ai sensi degli articoli 115–117 o su un altro crimine punito con una pena detentiva non inferiore a tre anni oppure su un reato ai sensi degli articoli 141–143*a* e 153–156 del presente Codice, degli articoli 197 capoverso 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>septies</sup> del Codice penale svizzero[^27a-2], o ai sensi dell’articolo 19 numero 2 della legge del 3 ottobre 1951[^27a-3] sugli stupefacenti (LStup), o non è possibile catturare il colpevole di un simile reato.
 
-[^27a-1]: Nuovo testo giusta l’all. n. II 4 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^27a-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^27a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^27a-3]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
@@ -820,19 +820,21 @@ Il giudice espelle dal territorio svizzero per un tempo da cinque a quindici ann
 
 - a. omicidio intenzionale (art. 115), assassinio (art. 116), omicidio passionale (art. 117), incitamento e aiuto al suicidio (art. 119);
 - b. lesioni personali gravi (art. 121), aggressione (art. 128*a*);
-- c. appropriazione indebita qualificata (art. 130 n. 2), furto qualificato (art. 131 n. 3 e 4), rapina (art. 132), danneggiamento con danno considerevole (art. 134 cpv. 3), truffa per mestiere (art. 135 cpv. 4), estorsione qualificata (art. 137*a* n. 2–4), ricettazione per mestiere (art. 137*b* cpv. 2), saccheggio qualificato (art. 139 cpv. 2);
+- c.[^49a-2] appropriazione indebita qualificata (art. 130 n. 2), furto qualificato (art. 131 n. 4), rapina (art. 132), danneggiamento con danno considerevole (art. 134 cpv. 3), truffa per mestiere (art. 135 cpv. 4), estorsione qualificata (art. 137*a* n. 2–4), ricettazione per mestiere (art. 137*b* n. 2), saccheggio qualificato (art. 139 cpv. 2);
 - d. furto (art. 131) in combinazione con violazione di domicilio (art. 152);
 - e. sequestro di persona e rapimento (art. 151*a*), sequestro di persona e rapimento qualificati (art. 151*b*), presa d’ostaggio (art. 151*c*);
 - f coazione sessuale (art. 153), violenza carnale (art. 154), atti sessuali con persone incapaci di discernimento o inette a resistere (art. 155), atti sessuali con fanciulli (art. 156 n. 1);
-- g. incendio intenzionale (art. 160 cpv. 1 e 2), esplosione intenzionale (art. 161 n. 1, primo e terzo comma), uso delittuoso di materie esplosive o gas velenosi (art. 162 cpv. 1 e 3), uso colposo intenzionale di materie esplosive o gas velenosi (art. 163 cpv. 1), fabbricazione, occultamento e trasporto di materie esplosive o gas velenosi (art. 164), inondazione, franamento cagionati intenzionalmente (art. 165 n. 1, primo e terzo comma), danneggiamento intenzionale d’impianti elettrici, di opere idrauliche e di opere di premunizione (art. 166 n. 1, primo comma), propagazione intenzionale di malattie dell’uomo (art. 167 n. 1), inquinamento intenzionale di acque potabili (art. 169 cpv. 1), perturbamento qualificato della circolazione pubblica (art. 169*a* n. 2), perturbamento intenzionale del servizio ferroviario (art. 170 cpv. 1), atti preparatori punibili (art. 171*b*);
-- h. genocidio (art. 108), crimini contro l’umanità (art. 109), gravi violazioni delle Convenzioni di Ginevra del 12 agosto 1949[^49a-2] (art. 111), altri crimini di guerra (art. 112–112*d*).
+- g.[^49a-3] incendio intenzionale (art. 160 cpv. 1 e 2), esplosione intenzionale (art. 161 n. 1, primo e terzo comma), uso delittuoso di materie esplosive o gas velenosi (art. 162 cpv. 1 e 3), uso colposo intenzionale di materie esplosive o gas velenosi (art. 163 cpv. 1), fabbricazione, occultamento e trasporto di materie esplosive o gas velenosi (art. 164), inondazione, franamento cagionati intenzionalmente (art. 165 n. 1, primo e terzo comma), danneggiamento intenzionale d’impianti elettrici, di opere idrauliche e di opere di premunizione (art. 166 n. 1, primo comma), propagazione di malattie dell’essere umano (art. 167), inquinamento intenzionale di acque potabili (art. 169 cpv. 1), perturbamento della circolazione pubblica (art. 169*a* n. 1), atti preparatori punibili (art. 171*b*);
+- h. genocidio (art. 108), crimini contro l’umanità (art. 109), gravi violazioni delle Convenzioni di Ginevra del 12 agosto 1949[^49a-4] (art. 111), altri crimini di guerra (art. 112–112*d*).
 
 <sup>2</sup> Il giudice può rinunciare eccezionalmente a pronunciare l’espulsione se questa costituirebbe per lo straniero un grave caso di rigore personale e l’interesse pubblico all’espulsione non prevale sull’interesse privato dello straniero a rimanere in Svizzera. Tiene in ogni modo conto della situazione particolare dello straniero nato o cresciuto in Svizzera.
 
 <sup>3</sup> Il giudice può inoltre rinunciare a pronunciare l’espulsione se il fatto è stato commesso per legittima difesa discolpante (art. 16*a* cpv. 1) o in stato di necessità discolpante (art. 17*a* cpv. 1).
 
 [^49a-1]: Introdotto dal n. I 2 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^49a-2]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^49a-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49a-3]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49a-4]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
 
 ### b. Espulsione non obbligatoria
 
@@ -1165,7 +1167,7 @@ L’azione penale si prescrive:
 <sup>4</sup> La prescrizione dell’azione penale in caso di atti sessuali con fanciulli (art. 156) e di reati secondo gli articoli 115–117, 121 e 153–155, commessi su fanciulli minori di sedici anni, è retta dai capoversi 1–3 se il reato è stato commesso prima dell’entrata in vigore della modifica del presente Codice del 5 ottobre 2001[^55-2] e il relativo termine di prescrizione non è ancora scaduto a tale data.
 
 [^55-1]: Nuovo testo giusta il n. I 2 della LF del 21 giu. 2013 (Prolungamento dei termini di prescrizione dell’azione penale), in vigore dal 1° gen. 2014 ([RU 2013 4417](https://fedlex.data.admin.ch/eli/oc/2013/783); [FF 2012 8119](https://fedlex.data.admin.ch/eli/fga/2012/1719)).
-[^55-2]: [RU 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430)[3146](https://fedlex.data.admin.ch/eli/oc/2002/465)
+[^55-2]: [RU 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430), [3146](https://fedlex.data.admin.ch/eli/oc/2002/465)
 
 ### Decorrenza
 
@@ -1302,7 +1304,9 @@ Le disposizioni della parte prima del presente Codice si applicano anche alle co
 
 <sup>4</sup> Il pagamento ulteriore della multa comporta una riduzione proporzionale della pena detentiva sostitutiva.
 
-<sup>5</sup> Per l’esazione e la commutazione si applicano per analogia gli articoli 29 e 30 capoversi 2–5.
+<sup>5</sup> Per l’esazione e la commutazione si applicano per analogia gli arti-coli 29 e 30 capoverso 2.[^60c-1]
+
+[^60c-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 60d
 
@@ -1459,15 +1463,20 @@ chiunque fa scientemente un rapporto inveritiero sopra un reclamo o una denuncia
 
 #### Art. 73
 
-<sup>1.</sup> Chiunque adopera abusivamente, aliena, dà in pegno, sopprime, abbandona oppure intenzionalmente o per negligenza danneggia o lascia deperire o andar perduti armi, munizioni, materiali d’equipaggiamento, cavalli, veicoli od altre cose a lui affidate o altrimenti consegnate in occasione del servizio,
+<sup>1.</sup> Chiunque adopera abusivamente, aliena, dà in pegno, sopprime, abbandona, danneggia, lascia deperire o andar perduti armi, munizioni, materiali d’equipaggiamento, cavalli, veicoli od altre cose a lui affidate o altrimenti consegnate in occasione del servizio,
 
 chiunque adopera abusivamente tali cose a lui accessibili,
 
-è punito con una pena detentiva sino a tre anni o con una pena pecuniaria, ove non sia applicabile un’altra disposizione penale.
+è punito con una pena detentiva sino a tre anni o con una pena pecuniaria, ove non sia applicabile un’altra disposizione penale.[^73-1]
+
+1<sup>bis</sup>. Chiunque per negligenza danneggia, lascia deperire o andar perduti armi, munizioni, materiali d’equipaggiamento, cavalli, veicoli o altre cose a lui affidate o altrimenti consegnate in occasione del servizio, è punito con una pena pecuniaria.[^73-2]
 
 <sup>2.</sup> Nei casi poco gravi si applica una pena disciplinare.
 
 <sup>3.</sup> In tempo di guerra può essere pronunciata una pena detentiva.
+
+[^73-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^73-2]: Introdotto dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Vigliaccheria
 
@@ -1498,19 +1507,23 @@ il comandante di truppa, che nel combattimento abbandoni il suo posto o si arren
 
 #### Art. 76
 
-<sup>1.</sup> Chiunque, intenzionalmente o per negligenza, si mette in istato di non poter adempiere i suoi doveri di servizio come guardia,
+<sup>1.</sup> Chiunque intenzionalmente si mette in istato di non poter adempiere i suoi doveri di servizio come guardia,
 
 chiunque arbitrariamente abbandona il proprio posto di guardia o trasgredisce in altro modo le disposizioni sul servizio di guardia,
 
-è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+è punito con una pena detentiva sino a tre anni o con una pena pecuniaria. [^76-1]
+
+1<sup>bis</sup>. Chiunque per negligenza si mette in istato di non poter adempiere i suoi doveri di servizio come guardia, è punito con una pena pecuniaria.[^76-2]
 
 <sup>2.</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-<sup>3.</sup> In tempo di guerra può essere pronunciata una pena detentiva.[^76-1]
+<sup>3.</sup> In tempo di guerra può essere pronunciata una pena detentiva.[^76-3]
 
 Se il reato avviene intenzionalmente in faccia al nemico, può essere pronunciata la pena detentiva a vita.
 
-[^76-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
+[^76-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^76-2]: Introdotto dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^76-3]: Nuovo testo giusta il n. I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
 
 ### Violazione del segreto di servizio
 
@@ -1554,7 +1567,7 @@ Nei casi poco gravi si applica una pena disciplinare.
 
 #### Art. 80
 
-<sup>1.</sup> Chiunque, essendo in istato di ebbrezza, suscita pubblico scandalo è punito con una pena pecuniaria sino a 90 aliquote giornaliere[^80-1].
+<sup>1.</sup> Chiunque, essendo in istato di ebbrezza, suscita pubblico scandalo è punito con la multa.[^80-1]
 
 <sup>2.</sup> Chiunque, essendo in istato di irresponsabilità a cagione di ebbrezza colposa, prodotta da alcool o da altra intossicazione, commette un fatto represso come crimine o delitto, è punito con una pena pecuniaria[^80-2].
 
@@ -1562,7 +1575,7 @@ La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpev
 
 <sup>3.</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^80-1]: Nuova espr. giusta il n. II 1 cpv. 11 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^80-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^80-2]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^80-3]: Nuovo testo del per. 2 giusta il n. I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
 
@@ -1653,15 +1666,16 @@ La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpev
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-<sup>3</sup> In servizio attivo il giudice può pronunciare una pena pecuniaria sino a 90 aliquote giornaliere.
+<sup>3</sup> In servizio attivo il giudice può pronunciare una pena pecuniaria sino a 90 aliquote giornaliere[^83-5].
 
-<sup>4</sup> È fatto salvo l’articolo 84.[^83-5]
+<sup>4</sup> È fatto salvo l’articolo 84.[^83-6]
 
 [^83-1]: Nuovo testo giusta l’all. n. 5 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^83-2]: Nuova espr. giusta il n. II 1 cpv. 5 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
 [^83-3]: Introdotta dall’all. n. 1 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^83-4]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
-[^83-5]: Nuovo testo giusta il n. II 3 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^83-5]: Nuova espr. giusta il n. II 1 cpv. 17 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^83-6]: Nuovo testo giusta il n. II 3 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Reati contro i doveri del servizio in caso di ammissione al servizio civile, assegnazione al servizio non armato e inabilità al servizio
 
@@ -1736,7 +1750,7 @@ e scientemente nuoce con ciò alla difesa nazionale o la mette in pericolo,
 
 è punito con una pena detentiva sino a tre anni o con una pena pecuniaria, nei casi gravi con una pena detentiva non inferiore ad un anno[^86a-2].
 
-[^86a-1]: Introdotto dal n. I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta il n. I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
+[^86a-1]: Introdotto dal n. I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta il n. I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685). Giusta il n. I 1 cpv. 2 della LF del 23 mar. 1979 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037)), nella designazione degli articoli, le lettere «a», «b», «c», «d», ecc. sostituiscono i numerali «<sup>bis</sup>», «<sup>ter</sup>», «<sup>quater</sup>», «<sup>quinquies</sup>» ecc.
 [^86a-2]: Nuova espr. giusta il n. II 1 cpv. 17 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### Tradimento militare
@@ -1768,11 +1782,11 @@ Chiunque, in tempo di guerra, intraprende atti di ostilità contro l’esercito 
 
 #### Art. 89
 
-<sup>1</sup> Chiunque, mentre delle truppe si trovano in servizio attivo, intenzionalmente turba o mette in pericolo le operazioni dell’esercito svizzero diffondendo false notizie, è punito con una pena detentiva o con una pena pecuniaria non inferiore a 60 aliquote giornaliere[^89-1].
+<sup>1</sup> Chiunque, mentre delle truppe si trovano in servizio attivo, intenzionalmente turba o mette in pericolo le operazioni dell’esercito svizzero diffondendo false notizie, è punito con una pena detentiva non inferiore a due mesi o con una pena pecuniaria non inferiore a 60 aliquote giornaliere.[^89-1]
 
 <sup>2</sup> Se il colpevole ha agito per negligenza, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
 
-[^89-1]: Nuova espr. giusta il n. II 1 cpv. 19 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^89-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Uso d’armi contro la Confederazione
 
@@ -1843,12 +1857,12 @@ chiunque arruola persone per servizi siffatti o li favorisce,
 
 <sup>2</sup> Gli svizzeri, domiciliati in un altro Stato di cui posseggono pure la nazionalità, che prestano servizio militare nell’esercito di questo Stato non sono punibili.
 
-<sup>3</sup> Chiunque arruola uno Svizzero per il servizio militare straniero o ne favorisce l’arruolamento è punito con una pena detentiva sino a tre anni o con una pena pecuniaria non inferiore a 30 aliquote giornaliere. Con la pena detentiva dev’essere cumulata la pena pecuniaria[^94-2].
+<sup>3</sup> Chiunque arruola uno Svizzero per il servizio militare straniero o ne favorisce l’arruolamento è punito con una pena detentiva da un mese a tre anni o con una pena pecuniaria non inferiore a 30 aliquote giornaliere.[^94-2]
 
 <sup>4</sup> In tempo di guerra può essere pronunciata una pena detentiva.
 
 [^94-1]: Nuovo testo giusta il n. I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
-[^94-2]: Nuova espr. giusta il n. II 1 cpv. 20 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^94-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Mutilazione
 
@@ -1861,6 +1875,10 @@ chiunque mutila od in altro modo rende taluno, con suo consenso, inetto, del tut
 è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
 <sup>2.</sup> In tempo di guerra può essere pronunciata una pena detentiva.
+
+<sup>3.</sup> Nei casi poco gravi si applica una pena disciplinare.[^95-1]
+
+[^95-1]: Introdotto dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Frode per liberarsi del servizio
 
@@ -1960,11 +1978,11 @@ Chiunque, mentre delle truppe si trovano in servizio attivo, diffonde notizie ch
 
 chiunque fa uso di tali ordini od istruzioni contraffatti o alterati,
 
-è punito con una pena detentiva o pecuniaria.
+è punito con una pena detentiva sino a cinque anni o con una pena pe-cuniaria.
 
-<sup>2.</sup> La pena è una pena detentiva sino a tre anni o una pena pecuniaria
+<sup>2.</sup> Se il colpevole ha agito per negligenza, la pena è una pena pecuniaria.
 
-[^103-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^103-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Incitamento di internati o di prigionieri all’insubordinazione
 
@@ -1982,9 +2000,9 @@ chiunque fa uso di tali ordini od istruzioni contraffatti o alterati,
 
 <sup>2.</sup> Se il reato è commesso da un assembramento, chiunque vi partecipa è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-I compartecipi, che hanno commesso atti di violenza contro le persone o le cose, sono puniti con una pena detentiva sino a tre anni o con una pena pecuniaria non inferiore a 30 aliquote giornaliere[^105-1].
+I compartecipi che hanno commesso atti di violenza contro le persone o le cose sono puniti con una pena detentiva da tre mesi a tre anni o con una pena pecuniaria non inferiore a 90 aliquote giornaliere.[^105-1]
 
-[^105-1]: Nuova espr. giusta il n. II 1 cpv. 21 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^105-1]: Nuovo testo del secondo comma giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violazione di segreti militari
 
@@ -2004,19 +2022,23 @@ I compartecipi, che hanno commesso atti di violenza contro le persone o le cose,
 [^106-2]: Nuovo testo giusta il n. II della LF del 10 ott. 1997, in vigore dal 1° apr. 1998 (RU **1998** 1852 856; [FF 1996 IV 449](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
 [^106-3]: Introdotto dal n. I 2 della LF del 23 mar. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
-### Disobbedienza a misure prese dalle autorità militari e civili
+### Disobbedienza a misure prese dalle autorità militari o civili
 
 #### Art. 107
 
 [^107-1]
 
-Chiunque, intenzionalmente o per negligenza, contravviene alle ordinanze pubblicate o agli ordini generali che il Consiglio federale, un Governo cantonale od altra autorità competente civile o militare ha emanato per la tutela degli interessi militari o della neutralità o nell’esercizio delle proprie attribuzioni di polizia,
+<sup>1.</sup> Chiunque intenzionalmente contravviene alle ordinanze pubblicate o agli ordini generali che il Consiglio federale, un Governo cantonale o altra autorità competente civile o militare ha emanato per la tutela degli interessi militari o della neutralità o nell’esercizio delle proprie attribuzioni di polizia,
 
 chiunque intenzionalmente contravviene agli ordini speciali od avvisi emanati per la tutela degli interessi militari da un’autorità militare, da un militare o da un’autorità civile,
 
-è punito, ove non sia applicabile un’altra disposizione penale, con una pena detentiva sino a tre anni o con una pena pecuniaria oppure, nei casi poco gravi, con una pena disciplinare.
+è punito, ove non sia applicabile un’altra disposizione penale, con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-[^107-1]: Nuovo testo giusta il n. I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
+<sup>2.</sup> Chiunque in tempo di guerra commette per negligenza un reato secondo il numero 1 primo comma, è punito con una pena pecuniaria.
+
+<sup>3.</sup> Nei casi poco gravi si applica una pena disciplinare.
+
+[^107-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, invigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Capo sesto: Genocidio e crimini contro l’umanità
 
@@ -2365,15 +2387,17 @@ Chiunque per negligenza cagiona la morte di alcuno è punito con una pena detent
 
 [^121-1]
 
-Chiunque intenzionalmente ferisce una persona mettendone in pericolo la vita,
-
-chiunque intenzionalmente mutila il corpo, un organo o arto importante di una persona, o le produce la perdita dell’uso di un tale organo o arto, o le cagiona permanentemente incapacità al lavoro, infermità o malattia mentale, o le sfregia in modo grave e permanente il viso,
-
 chiunque intenzionalmente cagiona un altro grave danno al corpo od alla salute fisica o mentale di una persona,
 
 è punito con una pena detentiva da sei mesi a dieci anni[^121-2].
 
-[^121-1]: Nuovo testo giusta il n. II della LF del 23 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
+È punito con una pena detentiva da uno a dieci anni chiunque intenzionalmente:
+
+- a. ferisce una persona mettendone in pericolo la vita;
+- b. mutila il corpo, un organo o arto importante di una persona, o le produce la perdita dell’uso di un tale organo o arto, o le cagiona permanentemente incapacità al lavoro, infermità o malattia mentale, o le sfregia in modo grave e permanente il viso;
+- c. cagiona un altro grave danno al corpo od alla salute fisica o mentale di una persona.
+
+[^121-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^121-2]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
 ### Lesioni semplici. Vie di fatto
@@ -2384,7 +2408,7 @@ chiunque intenzionalmente cagiona un altro grave danno al corpo od alla salute f
 
 Nei casi poco gravi si applica una pena disciplinare.
 
-<sup>2.</sup> e 3.[^122-1]
+<sup>2.</sup> e 3. ...[^122-1]
 
 [^122-1]: Abrogati dal n. II della LF del 23 giu. 1989, con effetto dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
@@ -2455,9 +2479,13 @@ Nei casi poco gravi si applica una pena disciplinare.
 
 <sup>1.</sup> Chiunque, per procacciare a sé o ad altri un indebito profitto, si appropria una cosa mobile altrui, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria, in quanto non siano adempiute le condizioni degli articoli 130–132.
 
-<sup>2.</sup> Se il colpevole ha trovato la cosa o ne è entrato in possesso in modo indipendente dalla sua volontà o ha agito senza fine di lucro, la pena è la stessa. Nei casi poco gravi si applica una pena disciplinare.
+<sup>2.</sup> Se il colpevole ha trovato la cosa o ne è entrato in possesso in modo indipendente dalla sua volontà o ha agito senza fine di lucro, la pena è la stessa.[^129-2]
+
+<sup>3.</sup> Nei casi poco gravi si applica una pena disciplinare.[^129-3]
 
 [^129-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^129-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^129-3]: Introdotto dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Appropriazione indebita
 
@@ -2486,20 +2514,22 @@ se ha commesso il fatto a danno di un capo, di un subalterno o di un camerata, d
 
 <sup>1.</sup> Chiunque, per procacciare a sé o ad altri un indebito profitto, sottrae al fine di appropriarsene una cosa mobile altrui, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-<sup>2.</sup> Il colpevole è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria non inferiore a 30 aliquote giornaliere[^131-2], se ha rubato ad un capo, ad un subalterno o ad un camerata, se ha commesso il furto in un luogo al quale aveva facilità d’accesso per ragione di accantonamento o di alloggio.
+<sup>2.</sup> e 3. ...[^131-2]
 
-<sup>3.</sup> Il colpevole è punito con una pena detentiva sino a dieci anni o con una pena pecuniaria non inferiore a 90 aliquote giornaliere[^131-3] se fa mestiere del furto.
+<sup>4.</sup>
 
-<sup>4.</sup> Il colpevole è punito con una pena detentiva da sei mesi a dieci anni[^131-4] se
+Il colpevole è punito con una pena detentiva da sei mesi a dieci an-ni se:
 
-ha perpetrato il furto come associato ad una banda intesa a commettere furti o rapine, per commettere il furto si è munito di un’arma da fuoco o di un’altra arma pericolosa o, per il modo in cui ha perpetrato il furto, si dimostra particolarmente pericoloso.
+- a. fa mestiere del furto;
+- b. ha perpetrato il furto come associato ad una banda intesa a commettere furti o rapine;
+- c. per commettere il furto si è munito di un’arma da fuoco o di un’altra arma pericolosa o ha cagionato un’esplosione; o
+- d. per il modo in cui ha perpetrato il furto, si dimostra comunque particolarmente pericoloso.[^131-3]
 
 <sup>5.</sup> Nei casi poco gravi si applica una pena disciplinare.
 
 [^131-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^131-2]: Nuova espr. giusta il n. II 1 cpv. 14 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
-[^131-3]: Nuova espr. giusta il n. II 1 cpv. 8 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
-[^131-4]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^131-2]: Abrogati dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^131-3]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Rapina
 
@@ -2559,9 +2589,10 @@ per il modo in cui ha perpetrato la rapina, si dimostra comunque particolarmente
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-<sup>3</sup> Il giudice pronuncia una pena detentiva non inferiore a un anno se il colpevole ha causato un danno considerevole o se, in tempo di guerra, ha per cattiveria o capriccio devastato la proprietà altrui.
+<sup>3</sup> Il giudice pronuncia una pena detentiva sino a cinque anni o una pena pecuniaria se il colpevole ha causato un danno considerevole o se, in tempo di guerra, ha per cattiveria o capriccio devastato la proprietà altrui.[^134-2]
 
 [^134-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^134-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Truffa
 
@@ -2571,14 +2602,15 @@ per il modo in cui ha perpetrato la rapina, si dimostra comunque particolarmente
 
 <sup>1</sup> Chiunque, per procacciare a sé o ad altri un indebito profitto, inganna con astuzia una persona affermando cose false o dissimulando cose vere, oppure ne conferma subdolamente l’errore inducendola in tal modo ad atti pregiudizievoli al patrimonio proprio o altrui, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-<sup>2</sup> Il colpevole è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria non inferiore a 30 aliquote giornaliere, se ha commesso la truffa a danno di un capo, di un subalterno o di un camerata, della persona presso la quale alloggia o di un membro di quell’economia domestica.
+<sup>2</sup> ...[^135-2]
 
 <sup>3</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-<sup>4</sup> La pena è una pena detentiva sino a dieci anni o una pena pecuniaria non inferiore a 90 aliquote giornaliere se il colpevole fa mestiere della truffa. …[^135-2]
+<sup>4</sup> La pena è una pena detentiva da sei mesi a dieci anni se il colpevole fa mestiere della truffa.[^135-3]
 
 [^135-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^135-2]: Per. abrogato dal il n. II 1 cpv. 25 della LF del 21 mar. 2003, con effetto dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^135-2]: Abrogato dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^135-3]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Frode dello scotto
 
@@ -2612,15 +2644,16 @@ per il modo in cui ha perpetrato la rapina, si dimostra comunque particolarmente
 
 <sup>1.</sup> Chiunque, per procacciare a sé o ad altri un indebito profitto, usando violenza contro una persona o minacciandola di un grave danno, la induce ad atti pregiudizievoli al patrimonio proprio o altrui, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria. …[^137a-2]
 
-2.[^137a-3] Il colpevole è punito con una pena detentiva da uno a dieci anni se fa mestiere dell’estorsione o commette ripetutamente l’estorsione in danno della medesima persona.
+<sup>2.</sup> Il colpevole è punito con una pena detentiva da uno a dieci anni se fa mestiere dell’estorsione o commette ripetutamente l’estorsione in danno della medesima persona.[^137a-3]
 
-<sup>3.</sup> Se il colpevole commette l’estorsione usando violenza contro una persona o minacciandola di un pericolo imminente alla vita o all’integrità corporale, la pena è quella comminata dall’articolo 132.
+<sup>3.</sup> Se il colpevole commette l’estorsione usando violenza contro una persona o minacciandola di un pericolo imminente alla vita o all’integrità corporale, la pena è quella comminata dall’articolo 132
 
-<sup>4.</sup> Se il colpevole minaccia di mettere in pericolo la vita o l’integrità corporale di molte persone o di cagionare gravi danni a cose di grande interesse pubblico, la pena è una pena detentiva non inferiore a un anno.
+<sup>4.</sup> Se il colpevole minaccia di mettere[^137a-4] in pericolo la vita o l’integrità corporale di molte persone o di cagionare gravi danni a cose di grande interesse pubblico, la pena è una pena detentiva non inferiore a un anno.
 
 [^137a-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 [^137a-2]: Per. abrogato dal n. II 1 cpv. 25 della LF del 21 mar. 2003, con effetto dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 [^137a-3]: Nuovo testo giusta il n. II 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^137a-4]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Ricettazione
 
@@ -2636,10 +2669,10 @@ Ove il reato preliminare sia perseguibile solo a querela di parte, la ricettazio
 
 Nei casi poco gravi si applica una pena disciplinare.
 
-<sup>2.</sup> Il colpevole è punito con una pena detentiva sino a dieci anni o con una pena pecuniaria non inferiore a 90 aliquote giornaliere se fa mestiere della ricettazione. …[^137b-2]
+<sup>2.</sup> Il colpevole è punito con una pena detentiva da sei mesi a dieci anni se fa mestiere della ricettazione.[^137b-2]
 
 [^137b-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^137b-2]: Per. abrogato dal n. II 1 cpv. 25 della LF del 21 mar. 2003, con effetto dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^137b-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Preda
 
@@ -2655,11 +2688,12 @@ Nei casi poco gravi si applica una pena disciplinare.
 
 [^139-1]
 
-<sup>1</sup> Chiunque, in tempo di guerra o in servizio attivo, commette saccheggio, si appropria in altro indebito modo di beni altrui o esercita atti di violenza contro la proprietà altrui, è punito con una pena detentiva o con una pena pecuniaria non inferiore a 60 aliquote giornaliere.
+<sup>1</sup> Chiunque, in tempo di guerra o in servizio attivo, commette saccheggio, si appropria in altro indebito modo di beni altrui o esercita atti di violenza contro la proprietà altrui, è punito con una pena detentiva non inferiore a due mesi o con una pena pecuniaria non inferiore a 60 aliquote giornaliere*.* [^139-2]
 
 <sup>2</sup> Se il colpevole ha esercitato violenza contro una persona, le ha minacciato un pericolo imminente alla vita o alla salute o l’ha resa in altro modo incapace a opporre resistenza, è punito con una pena detentiva non inferiore a cinque anni.
 
 [^139-1]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^139-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 140
 
@@ -2733,11 +2767,11 @@ Chiunque domanda, si fa promettere o accetta un indebito vantaggio, per sé o pe
 
 <sup>1</sup> Chiunque, in atti dell’amministrazione militare, in specie nelle operazioni concernenti il conteggio, la distribuzione od altro uso del soldo, delle derrate alimentari, dei foraggi, delle munizioni o d’altre cose che servono all’armata, lede gli interessi che egli deve tutelare, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-<sup>2</sup> Se il colpevole ha agito per fine di lucro, la pena è una pena detentiva sino a cinque anni o una pena pecuniaria. …[^144-1]
+<sup>2</sup> Se il colpevole ha agito per procacciare a sé o ad altri un indebito profitto, la pena è una pena detentiva sino a cinque anni o una pena pecuniaria.[^144-1]
 
 <sup>3</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^144-1]: Per. abrogato dal il n. II 1 cpv. 25 della LF del 21 mar. 2003, con effetto dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^144-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 144a
 
@@ -2799,7 +2833,7 @@ chiunque, sapendo di dire cosa non vera, divulga una tale incolpazione o un tale
 
 Nei casi poco gravi si applica una pena disciplinare.[^146-2]
 
-<sup>2.</sup> Se il colpevole ha agito col proposito deliberato di rovinare la reputazione di una persona, la pena è una pena detentiva sino a tre anni o una pena pecuniaria[^146-3].
+<sup>2.</sup> Se il colpevole ha agito col proposito deliberato di rovinare la repu-tazione di una persona, la pena è una pena detentiva da un mese a tre anni o una pena pecuniaria non inferiore a 30 aliquote giornaliere.[^146-3]
 
 <sup>3.</sup> Se il colpevole ritratta davanti al giudice come non vero quando egli ha detto, può essere punito con pena attenuata. Il giudice dà all’offeso atto della ritrattazione.
 
@@ -2807,7 +2841,7 @@ Nei casi poco gravi si applica una pena disciplinare.[^146-2]
 
 [^146-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 [^146-2]: Nuovo testo giusta il n. I della LF del 21 dic. 1950, in vigore dal 1° luglio 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
-[^146-3]: Nuova espr. giusta il n. II 1 cpv. 24 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^146-3]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^146-4]: Abrogato dal n. I 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
 ### Disposizione comune
@@ -2828,7 +2862,7 @@ Alla diffamazione e alla calunnia verbali sono parificate la diffamazione e la c
 
 <sup>1.</sup> Chiunque offende in altro modo con parole, scritti, immagini, gesti o vie di fatto l’onore di una persona è punito, a querela della parte lesa o dell’autorità competente a dare l’ordine di procedere all’istruzione preparatoria, con una pena pecuniaria sino a 90 aliquote giornaliere o con la multa.[^148-2]
 
-Se l’ingiuria è diretta contro un capo o un superiore, contro una guardia militare, contro un subalterno od inferiore, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
+...[^148-3]
 
 Nei casi poco gravi si applica una pena disciplinare.
 
@@ -2836,11 +2870,12 @@ Nei casi poco gravi si applica una pena disciplinare.
 
 Se all’ingiuria si è immediatamente risposto con ingiuria o con vie di fatto, il giudice può mandar esenti da pena le parti o una di esse.
 
-<sup>3.</sup> …[^148-3]
+<sup>3.</sup> …[^148-4]
 
 [^148-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 [^148-2]: Nuovo testo giusta il n. I della LF del 21 dic. 1950, in vigore dal 1° luglio 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
-[^148-3]: Abrogato dal n. I 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
+[^148-3]: Secondo comma abrogato dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^148-4]: Abrogato dal n. I 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
 ### Diritto di querela
 
@@ -2858,7 +2893,7 @@ Se all’ingiuria si è immediatamente risposto con ingiuria o con vie di fatto,
 
 <sup>5</sup> La desistenza dalla querela contro uno degli imputati vale per tutti. Essa non vale per un imputato che faccia opposizione.
 
-[^148a-1]: Introdotto dal n. I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
+[^148a-1]: Introdotto dal n. I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685). Giusta il n. I 1 cpv. 2 della LF del 23 mar. 1979 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037)), nella designazione degli articoli, le lettere «a», «b», «c», «d», ecc. sostituiscono i numerali «<sup>bis</sup>», «<sup>ter</sup>», «<sup>quater</sup>», «<sup>quinquies</sup>» ecc.
 [^148a-2]: Nuovo testo giusta il n. II 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Prescrizione dell’azione penale
@@ -3099,11 +3134,12 @@ Se un reato previsto nel presente capo è stato commesso insieme da più persone
 
 [^160a-1]
 
-<sup>1</sup> Chiunque per negligenza cagiona un incendio, se dal fatto deriva danno alla cosa altrui o pericolo per l’incolumità pubblica, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria. Nei casi poco gravi si applica una pena disciplinare.
+<sup>1</sup> Chiunque per negligenza cagiona un incendio, se dal fatto deriva danno alla cosa altrui o pericolo per l’incolumità pubblica, è punito con una pena detentiva sino a un anno o con una pena pecuniaria. Nei casi poco gravi si applica una pena disciplinare.[^160a-2]
 
 <sup>2</sup> La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpevole mette per negligenza in pericolo la vita o l’integrità delle persone.
 
 [^160a-1]: Introdotto dal n. I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta il n. II 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^160a-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Esplosione
 
@@ -3141,12 +3177,16 @@ Se il colpevole ha distrutto in tempo di guerra cose che servono all’esercito,
 
 [^163-1]
 
-<sup>1</sup> Chiunque, intenzionalmente ma senza fine delittuoso ovvero per negligenza, mette in pericolo con materie esplosive o gas velenosi la vita o l’integrità delle persone o la proprietà altrui è punito una pena detentiva sino a cinque anni o con una pena pecuniaria.
+<sup>1</sup> Chiunque, intenzionalmente ma senza fine delittuoso, mette in pericolo con materie esplosive o gas velenosi la vita o l’integrità delle persone o la proprietà altrui è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.[^163-2]
 
-<sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.[^163-2]
+<sup>1bis</sup> Se il colpevole ha agito per negligenza, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.[^163-3]
+
+<sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.[^163-4]
 
 [^163-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
-[^163-2]: Nuovo testo giusta il n. II 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^163-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^163-3]: Introdotto dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^163-4]: Nuovo testo giusta il n. II 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 ### Fabbricazione, occultamento e trasporto di materie esplosive o gas velenosi
 
@@ -3156,12 +3196,14 @@ Se il colpevole ha distrutto in tempo di guerra cose che servono all’esercito,
 
 <sup>1</sup> Chiunque fabbrica materie esplosive o gas velenosi, sapendo o dovendo presumere che sono destinati ad uso delittuoso, è punito con una pena detentiva da sei mesi a dieci anni[^164-2].
 
-<sup>2</sup> Chiunque si procura, consegna ad altri, riceve da altri, custodisce, nasconde o trasporta materie esplosive, gas velenosi o sostanze destinate alla loro fabbricazione, è punito, se sa o deve presumere che sono destinati ad uso delittuoso, con una pena detentiva sino a cinque anni o con una pena pecuniaria non inferiore a 30 aliquote giornaliere.
+<sup>2</sup> Chiunque si procura, consegna ad altri, riceve da altri, custodisce, nasconde o trasporta materie esplosive, gas velenosi o sostanze destinate alla loro fabbricazione, è punito, se sa o deve presumere che sono destinati ad uso delittuoso, con una pena detentiva da un mese a cinque anni o con una pena pecuniaria non inferiore a 30 aliquote giornaliere.[^164-3]
 
-<sup>3</sup> Chiunque, sapendo o dovendo presumere che taluno si propone di fare uso delittuoso di materie esplosive o di gas velenosi, gli dà istruzioni per la loro fabbricazione, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria non inferiore a 30 aliquote giornaliere.
+<sup>3</sup> Chiunque, sapendo o dovendo presumere che taluno si propone di fare uso delittuoso di materie esplosive o di gas velenosi, gli dà istruzioni per la loro fabbricazione, è punito con una pena detentiva da un mese a cinque anni o con una pena pecuniaria non inferiore a 30 ali-quote giornaliere.[^164-4]
 
 [^164-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 [^164-2]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^164-3]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^164-4]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Inondazione. Franamento
 
@@ -3185,21 +3227,14 @@ Se il colpevole ha distrutto in tempo di guerra cose che servono all’esercito,
 
 [^166-1]
 
-<sup>1.</sup> Chiunque intenzionalmente distrugge o guasta:
-
-impianti elettrici,
-
-opere idrauliche, in ispecie argini, dighe, traverse, chiuse,
-
-opere di premunizione contro fenomeni naturali, come frane o valanghe,
-
-e mette con ciò scientemente in pericolo la vita o l’integrità delle persone o la proprietà altrui, è punito con una pena detentiva non inferiore a un anno.
+<sup>1.</sup> Chiunque intenzionalmente guasta o distrugge impianti elettrici, opere idrauliche, segnatamente argini, dighe, traverse e chiuse, oppure opere di premunizione contro fenomeni naturali come frane o valanghe, e mette con ciò scientemente in pericolo la vita o l’integrità delle persone o la proprietà altrui, è punito con una pena detentiva non inferiore a un anno.[^166-2]
 
 Se ne è derivato soltanto un danno di lieve importanza, può essere pronunciata una pena detentiva sino a tre anni o una pena pecuniaria.
 
 <sup>2.</sup> La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpevole ha agito per negligenza. Nei casi poco gravi si applica una pena disciplinare.
 
 [^166-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^166-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Propagazione di malattie dell’essere umano
 
@@ -3229,9 +3264,11 @@ Se il colpevole ha, con animo abietto, cagionato un grave danno, la pena è una 
 
 #### Art. 169
 
-<sup>1</sup> Chiunque intenzionalmente inquina con materie nocive alla salute l’acqua potabile destinata all’uso delle persone o degli animali domestici, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria non inferiore a 30 aliquote giornaliere.
+<sup>1</sup> Chiunque intenzionalmente inquina con materie nocive alla salute l’acqua potabile destinata all’uso delle persone o degli animali domestici, è punito con una pena detentiva da un mese a cinque anni o con una pena pecuniaria non inferiore a 30 aliquote giornaliere.[^169-1]
 
 <sup>2</sup> Se il colpevole ha agito per negligenza, la pena è una pena detentiva sino a tre anni o una pena pecuniaria. Nei casi poco gravi si applica una pena disciplinare.
+
+[^169-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Perturbamento della circolazione pubblica
 
@@ -3239,27 +3276,21 @@ Se il colpevole ha, con animo abietto, cagionato un grave danno, la pena è una 
 
 [^169a-1]
 
-<sup>1.</sup> Chiunque, intenzionalmente o per negligenza, impedisce, perturba o pone in pericolo la circolazione pubblica, in modo particolare la circolazione sulle strade, sull’acqua o nell’aria, e mette con ciò scientemente in pericolo la vita o l’integrità delle persone, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+<sup>1.</sup> Chiunque intenzionalmente impedisce, perturba o pone in pericolo la circolazione pubblica, in modo particolare la circolazione sulle strade, sull’acqua, nell’aria o su rotaia, e mette con ciò scientemente in pericolo la vita o l’integrità delle persone o la proprietà altrui, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-Nei casi poco gravi si applica una pena disciplinare, se il colpevole ha agito per negligenza.
+Se il colpevole mette scientemente in pericolo la vita o l’integrità di molte persone, la pena è una pena detentiva sino a dieci anni o una pe-na pecuniaria.
 
-<sup>2.</sup> Se il colpevole mette scientemente in pericolo la vita o l’integrità di molte persone, può essere pronunciata una pena detentiva da uno a dieci anni.
+<sup>2.</sup> La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpevole ha agito per negligenza. Nei casi poco gravi si applica una pena disciplinare.
 
-<sup>3.</sup> Il numero 1 non è applicabile quando il perturbamento della circolazione pubblica è cagionato dalla violazione di norme della circolazione stradale.
+<sup>3.</sup> Il numero 2 non è applicabile quando il perturbamento della circolazione pubblica è cagionato dalla violazione di norme della circolazione stradale.
 
-[^169a-1]: Introdotto dal n. I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta il n. I della LF del 5 ott. 1967, in vigore dal 1° mar. 1968 ([RU 1968 228](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228); [FF 1967 I 421](https://fedlex.data.admin.ch/eli/fga/1967/1_581_605_421)).
-
-### Perturbamento del servizio ferroviario
+[^169a-1]: Introdotto dal n. I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 170
 
 [^170-1]
 
-<sup>1</sup> Chiunque intenzionalmente impedisce, perturba o pone in pericolo il servizio delle strade ferrate e mette con ciò scientemente in pericolo la vita o l’integrità delle persone o la proprietà altrui, in modo particolare chiunque cagiona il pericolo di un deviamento o di uno scontro di treni, è punito con una pena detentiva o pecuniaria.
-
-<sup>2</sup> La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpevole ha agito per negligenza e messo in grave pericolo la vita o l’integrità delle persone o la proprietà altrui. Nei casi poco gravi si applica una pena disciplinare.
-
-[^170-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^170-1]: Abrogato dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Perturbamento di pubblici servizi
 
@@ -3267,15 +3298,15 @@ Nei casi poco gravi si applica una pena disciplinare, se il colpevole ha agito p
 
 [^171-1]
 
-<sup>1.</sup> Chiunque intenzionalmente impedisce, perturba o mette in pericolo l’esercizio di un’impresa pubblica di comunicazione, in modo particolare l’esercizio delle strade ferrate, delle poste, dei telegrafi o dei telefoni,
+<sup>1.</sup> Chiunque intenzionalmente impedisce, perturba o mette in pericolo l’esercizio di un’impresa pubblica di comunicazione, in modo particolare l’esercizio delle strade ferrate, delle poste, dei telegrafi o dei tele-foni,
 
 chiunque intenzionalmente impedisce, perturba o mette in pericolo l’esercizio di uno stabilimento o di un impianto che fornisce al pubblico acqua, luce, forza o calore,
 
-è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
+è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-<sup>2.</sup> La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpevole ha agito per negligenza. Nei casi poco gravi si applica una pena disciplinare.
+<sup>2.</sup> La pena è una pena detentiva sino a un anno o una pena pecuniaria se il colpevole ha agito per negligenza. Nei casi poco gravi si applica una pena disciplinare.
 
-[^171-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^171-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Pubblica istigazione a un crimine o alla violenza
 
@@ -3283,14 +3314,16 @@ chiunque intenzionalmente impedisce, perturba o mette in pericolo l’esercizio 
 
 [^171a-1]
 
-<sup>1</sup> Chiunque pubblicamente istiga a commettere un crimine, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+<sup>1</sup> Chiunque pubblicamente istiga a commettere un delitto implicante atti di violenza contro persone o cose o un crimine, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.[^171a-2]
 
-<sup>1bis</sup> La pubblica istigazione al genocidio (art. 108), da commettere in tutto o in parte in Svizzera, è punibile anche se l’istigazione avviene all’estero.[^171a-2]
+<sup>1bis</sup> La pubblica istigazione al genocidio (art. 108), da commettere in tutto o in parte in Svizzera, è punibile anche se l’istigazione avviene all’estero.[^171a-3]
 
-<sup>2</sup> Chiunque pubblicamente istiga a commettere un delitto implicante atti di violenza contro persone o cose, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+<sup>2</sup> ...[^171a-4]
 
 [^171a-1]: Introdotto dal n. I della LF del 9 ott. 1981, in vigore dal 1° ott. 1982 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
-[^171a-2]: Introdotto dal n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^171a-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^171a-3]: Introdotto dal n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^171a-4]: Abrogato dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Atti preparatori punibili
 
@@ -3325,9 +3358,9 @@ chiunque intenzionalmente impedisce, perturba o mette in pericolo l’esercizio 
 
 ### Discriminazione e incitamento all’odio
 
-[^book1-part2-chap13-lvlu17-1]
+[^book1-part2-chap13-lvlu16-1]
 
-[^book1-part2-chap13-lvlu17-1]: Nuovo testo giusta il n. I 2 della LF del 14 dic. 2018 (Discriminazione e incitamento all’odio basati sull’orientamento sessuale), in vigore dal 1° lug. 2020 ([RU 2020 1609](https://fedlex.data.admin.ch/eli/oc/2020/329); [FF 2018 3209](https://fedlex.data.admin.ch/eli/fga/2018/1411)[4431](https://fedlex.data.admin.ch/eli/fga/2018/1916)).
+[^book1-part2-chap13-lvlu16-1]: Nuovo testo giusta il n. I 2 della LF del 14 dic. 2018 (Discriminazione e incitamento all’odio basati sull’orientamento sessuale), in vigore dal 1° lug. 2020 ([RU 2020 1609](https://fedlex.data.admin.ch/eli/oc/2020/329); [FF 2018 3209](https://fedlex.data.admin.ch/eli/fga/2018/1411)[4431](https://fedlex.data.admin.ch/eli/fga/2018/1916)).
 
 #### Art. 171c
 
@@ -3366,9 +3399,10 @@ fa uso, a scopo d’inganno, di un tale documento,
 
 è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria
 
-<sup>2.</sup> Nei casi di esigua gravità, può essere pronunciata una pena detentiva sino a tre anni o una pena pecuniaria o una pena disciplinare.
+<sup>2.</sup> Nei casi di esigua gravità si applica una pena disciplinare.[^172-2]
 
 [^172-1]: Nuovo testo giusta il n. II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^172-2]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Conseguimento fraudolento di una falsa attestazione
 
@@ -3423,12 +3457,13 @@ Chiunque, al fine di nuocere al patrimonio o ad altri diritti di una persona o d
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-<sup>3</sup> Se fra il colpevole e la persona favoreggiata esistono relazioni così strette da rendere scusabile la sua condotta, il giudice può prescindere da ogni pena.
+<sup>3</sup> Se il colpevole favorisce un congiunto o un’altra persona con cui esistono relazioni personali così strette da rendere scusabile la sua condotta, il giudice prescinde da ogni pena.[^176-5]
 
 [^176-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 [^176-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^176-3]: Nuovo testo giusta il n. II 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF 1999 1669).
 [^176-4]: Introdotto dal n. I della LF del 9 ott. 1981 ([RU 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [FF 1980 I 1032](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)). Nuovo testo giusta il n. II 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^176-5]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Liberazione di detenuti
 
@@ -3440,9 +3475,10 @@ Chiunque, al fine di nuocere al patrimonio o ad altri diritti di una persona o d
 
 <sup>2.</sup> Se il reato è commesso da un assembramento di persone, chiunque vi partecipa è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-I compartecipi, che hanno commesso atti di violenza contro le persone o le cose, sono puniti con una pena detentiva sino a tre anni o con una pena pecuniaria non inferiore a 30 aliquote giornaliere.
+I compartecipi che hanno commesso atti di violenza contro le persone o le cose sono puniti con una pena detentiva da tre mesi a tre anni o con una pena pecuniaria non inferiore a 90 aliquote giornaliere.[^177-2]
 
 [^177-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^177-2]: Nuovo testo del secondo comma giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Denuncia mendace
 
@@ -3450,15 +3486,15 @@ I compartecipi, che hanno commesso atti di violenza contro le persone o le cose,
 
 [^178-1]
 
-<sup>1.</sup> Chiunque denuncia ad un capo o ad un’altra autorità militare o civile come colpevole di reato una persona che egli sa innocente, per provocare contro di essa un procedimento penale,
+<sup>1.</sup> Chiunque denuncia ad un capo o ad un’altra autorità militare o civile come colpevole di un crimine o di un delitto una persona che egli sa innocente, per provocare contro di essa un procedimento penale,
 
 chiunque in altro modo ordisce mene subdole per provocare un procedimento penale contro una persona che egli sa innocente,
 
-è punito con una pena detentiva o pecuniaria.
+è punito con una pena detentiva sino a cinque anni o con una pena pe-cuniaria.
 
-<sup>2.</sup> Se la denuncia mendace concerne una contravvenzione o una mancanza di disciplina, la pena è una pena detentiva sino a tre anni o una pena pecuniaria. Nei casi poco gravi si applica una pena disciplinare.
+<sup>2.</sup> Se la denuncia mendace concerne una contravvenzione o una man-canza di disciplina, la pena è una pena detentiva sino a un anno o una pena pecuniaria. Nei casi poco gravi si applica una pena disciplinare.
 
-[^178-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^178-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Falsa testimonianza, falsa perizia, falsa traduzione od interpretazione
 
@@ -3473,7 +3509,7 @@ chiunque in altro modo ordisce mene subdole per provocare un procedimento penale
 [^179-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 [^179-2]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### Attenuazione di pene
+### Attenuazione di pene o impunibilità
 
 #### Art. 179a
 
@@ -3481,9 +3517,14 @@ chiunque in altro modo ordisce mene subdole per provocare un procedimento penale
 
 <sup>1</sup> Se l’autore d’un reato previsto negli articoli 178 e 179 rettifica spontaneamente la sua falsa denuncia o falsa dichiarazione prima che ne sia risultato un pregiudizio dei diritti altrui, il giudice può attenuare la pena (art. 42*a*) o prescindere da ogni pena.
 
-<sup>2</sup> Se l’autore di un reato previsto nell’articolo 179 ha fatto una falsa dichiarazione perché, manifestando il vero, avrebbe esposto a procedimento penale sé medesimo o un prossimo congiunto, il giudice può attenuare la pena (art. 42*a*).
+<sup>2</sup>
 
-[^179a-1]: Introdotto dal n. I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta il n. II 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+L’autore di un reato previsto nell’articolo 179 è esente da pena se ha fatto una falsa dichiarazione perché, manifestando il vero:
+
+- a. si sarebbe esposto a procedimento penale; o
+- b. avrebbe esposto a procedimento penale un congiunto o un’al-tra persona con cui esistono relazioni personali così strette da rendere scusabile la sua condotta.
+
+[^179a-1]: Introdotto dal n. I della LF del 13 giu. 1941 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513). Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Procedura davanti a tribunali internazionali
 

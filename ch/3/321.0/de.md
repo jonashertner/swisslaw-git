@@ -4,11 +4,11 @@ title: Militärstrafgesetz vom 13. Juni 1927 (MStG)
 short: MStG
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: de
-version: 2023-01-23
+version: 2023-07-01
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230123/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230123-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230701/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230123/de"
 
 (MStG)
 
-vom 13. Juni 1927 (Stand am 23. Januar 2023)
+vom 13. Juni 1927 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -431,9 +431,9 @@ Besondere persönliche Verhältnisse, Eigenschaften und Umstände, welche die St
 Absatz 1 gilt nicht, wenn das Gericht feststellt, dass:
 
 - a. das Zeugnis erforderlich ist, um eine Person aus einer unmittelbaren Gefahr für Leib und Leben zu retten; oder
-- b.[^27a-1] ohne das Zeugnis ein Tötungsdelikt im Sinne der Artikel 115–117 des vorliegenden Gesetzes oder ein anderes Verbrechen, das mit einer Mindeststrafe von drei Jahren Freiheitsstrafe bedroht ist, oder eine Straftat nach den Artikeln 141–143*a* und 153–156 dieses Gesetzes, nach den Artikeln 197 Ziffer 3, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> und 322<sup>septies</sup> des Strafgesetzbuches[^27a-2] oder nach Artikel 19 Ziffer 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^27a-3] nicht aufgeklärt werden oder der einer solchen Tat Beschuldigte nicht ergriffen werden kann.
+- b.[^27a-1] ohne das Zeugnis ein Tötungsdelikt im Sinne der Artikel 115–117 des vorliegenden Gesetzes oder ein anderes Verbrechen, das mit einer Mindeststrafe von drei Jahren Freiheitsstrafe bedroht ist, oder eine Straftat nach den Artikeln 141–143*a* und 153–156 dieses Gesetzes, nach den Artikeln 197 Absatz 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> und 322<sup>septies</sup> des Strafgesetzbuchs[^27a-2] sowie nach Artikel 19 Absatz 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^27a-3] (BetmG) nicht aufgeklärt werden oder der einer solchen Tat Beschuldigte nicht ergriffen werden kann.
 
-[^27a-1]: Fassung gemäss Anhang Ziff. II 4 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^27a-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^27a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^27a-3]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
@@ -826,19 +826,21 @@ Das Gericht verweist den Ausländer, der wegen einer der folgenden strafbaren Ha
 
 - a. vorsätzliche Tötung (Art. 115), Mord (Art. 116), Totschlag (Art. 117), Verleitung und Beihilfe zum Selbstmord (Art. 119);
 - b. schwere Körperverletzung (Art. 121), Angriff (Art. 128*a*);
-- c. qualifizierte Veruntreuung (Art. 130 Ziff. 2), qualifizierter Diebstahl (Art. 131 Ziff. 3 und 4), Raub (Art. 132), Sachbeschädigung mit grossem Schaden (Art. 134 Abs. 3), gewerbsmässiger Betrug (Art. 135 Abs. 4), qualifizierte Erpressung (Art. 137*a* Ziff. 2–4), gewerbsmässige Hehlerei (Art. 137*b* Ziff. 2), qualifizierte Plünderung (Art. 139 Abs. 2);
+- c.[^49a-2] qualifizierte Veruntreuung (Art. 130 Ziff. 2), qualifizierter Diebstahl (Art. 131 Ziff. 4), Raub (Art. 132), Sachbeschädigung mit grossem Schaden (Art. 134 Abs. 3), gewerbsmässiger Betrug (Art. 135 Abs. 4), qualifizierte Erpressung (Art. 137*a* Ziff. 2–4), gewerbsmässige Hehlerei (Art. 137*b* Ziff. 2), qualifizierte Plünderung (Art. 139 Abs. 2);
 - d. Diebstahl (Art. 131) in Verbindung mit Hausfriedensbruch (Art. 152);
 - e. Freiheitsberaubung und Entführung (Art. 151*a*), qualifizierte Freiheitsberaubung und Entführung (Art. 151*b*), Geiselnahme (Art. 151*c*);
 - f. sexuelle Nötigung (Art. 153), Vergewaltigung (Art. 154), Schändung (Art. 155), sexuelle Handlungen mit Kindern (Art. 156 Ziff. 1);
-- g. Brandstiftung (Art. 160 Abs. 1 und 2), vorsätzliche Verursachung einer Explosion (Art. 161 Ziff. 1 Abs. 1 und 3), Gefährdung durch Sprengstoffe und giftige Gase in verbrecherischer Absicht (Art. 162 Abs. 1 und 3), vorsätzliche Gefährdung ohne verbrecherische Absicht (Art. 163 Abs. 1), Herstellen, Verbergen, Weiterschaffen von Sprengstoffen und giftigen Gasen (Art. 164), vorsätzliches Verursachen einer Überschwemmung oder eines Einsturzes (Art. 165 Ziff. 1 Abs. 1 und 3), vorsätzliche Beschädigung von elektrischen Anlagen, Wasserbauten und Schutzvorrichtungen (Art. 166 Ziff. 1 Abs. 1), vorsätzliches Verbreiten menschlicher Krankheiten (Art. 167 Ziff. 1), vorsätzliche Trinkwasserverunreinigung (Art. 169 Abs. 1), qualifizierte Störung des öffentlichen Verkehrs (Art. 169*a* Ziff. 2), vorsätzliche Störung des Eisenbahnverkehrs (Art. 170 Abs. 1), strafbare Vorbereitungshandlungen (Art. 171*b*);
-- h. Völkermord (Art. 108), Verbrechen gegen die Menschlichkeit (Art. 109), schwere Verletzungen der Genfer Konventionen vom 12. August 1949[^49a-2] (Art. 111), andere Kriegsverbrechen (Art. 112–112*d*).
+- g.[^49a-3] Brandstiftung (Art. 160 Abs. 1 und 2), vorsätzliche Verursachung einer Explosion (Art. 161 Ziff. 1 Abs. 1 und 3), Gefährdung durch Sprengstoffe und giftige Gase in verbrecherischer Absicht (Art. 162 Abs. 1 und 3), vorsätzliche Gefährdung ohne verbrecherische Absicht (Art. 163 Abs. 1), Herstellen, Verbergen, Weiterschaffen von Sprengstoffen und giftigen Gasen (Art. 164), vorsätzliches Verursachen einer Überschwemmung oder eines Einsturzes (Art. 165 Ziff. 1 Abs. 1 und 3), vorsätzliche Beschädigung von elektrischen Anlagen, Wasserbauten und Schutzvorrichtungen (Art. 166 Ziff. 1 Abs. 1), Verbreiten menschlicher Krankheiten (Art. 167), vorsätzliche Trinkwasserverunreinigung (Art. 169 Abs. 1), Störung des öffentlichen Verkehrs (Art. 169*a* Ziff. 1), strafbare Vorbereitungshandlungen (Art. 171*b*);
+- h. Völkermord (Art. 108), Verbrechen gegen die Menschlichkeit (Art. 109), schwere Verletzungen der Genfer Konventionen vom 12. August 1949[^49a-4] (Art. 111), andere Kriegsverbrechen (Art. 112–112*d*).
 
 <sup>2</sup> Das Gericht kann ausnahmsweise von einer Landesverweisung absehen, wenn diese für den Ausländer einen schweren persönlichen Härtefall bewirken würde und die öffentlichen Interessen an der Landesverweisung gegenüber den privaten Interessen des Ausländers am Verbleib in der Schweiz nicht überwiegen. Dabei ist der besonderen Situation von Ausländern Rechnung zu tragen, die in der Schweiz geboren oder aufgewachsen sind.
 
 <sup>3</sup> Von einer Landesverweisung kann ferner abgesehen werden, wenn die Tat in entschuldbarer Notwehr (Art. 16*a* Abs. 1) oder in entschuldbarem Notstand (Art. 17*a* Abs. 1) begangen wurde.
 
 [^49a-1]: Eingefügt durch Ziff. I 2 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^49a-2]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^49a-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49a-3]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49a-4]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
 
 ### b. Nicht obligatorische Landes-verweisung
 
@@ -1301,13 +1303,16 @@ Die Bestimmungen des Ersten Teils gelten mit den nachfolgenden Änderungen auch 
 
 <sup>1</sup> Bestimmt es das Gesetz nicht anders, so ist der Höchstbetrag der Busse 10 000 Franken.
 
-<sup>2</sup> Der Richter spricht im Urteil für den Fall, dass die Busse schuldhaft nicht bezahlt wird, eine Ersatzfreiheitsstrafe von mindestens einem Tag und höchstens drei Monaten aus.
+<sup>2</sup> Das Gericht[^60c-1] spricht im Urteil für den Fall, dass die Busse schuldhaft nicht bezahlt wird, eine Ersatzfreiheitsstrafe von mindestens einem Tag und höchstens drei Monaten aus.
 
 <sup>3</sup> Das Gericht bemisst Busse und Ersatzfreiheitsstrafe je nach den Verhältnissen des Täters so, dass dieser die Strafe erleidet, die seinem Verschulden angemessen ist.
 
 <sup>4</sup> Die Ersatzfreiheitsstrafe entfällt, soweit die Busse nachträglich bezahlt wird.
 
-<sup>5</sup> Auf den Vollzug und die Umwandlung sind die Artikel 29 und 30 Absätze 2–5 sinngemäss anwendbar.
+<sup>5</sup> Auf den Vollzug und die Umwandlung der Busse sind die Artikel 29 und 30 Absatz 2 sinngemäss anwendbar.[^60c-2]
+
+[^60c-1]: Ausdruck gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^60c-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 60d
 
@@ -1464,15 +1469,20 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
 #### Art. 73
 
-<sup>1.</sup> Wer Waffen, Munition, Ausrüstungsgegenstände, Pferde, Fahrzeuge oder andere ihm dienstlich anvertraute oder überlassene Sachen missbräuchlich verwendet, veräussert, verpfändet, beiseite schafft, im Stiche lässt, vorsätzlich oder fahrlässig beschädigt, Schaden nehmen oder zugrunde gehen lässt,
+<sup>1.</sup> Wer Waffen, Munition, Ausrüstungsgegenstände, Pferde, Fahrzeuge oder andere ihm dienstlich anvertraute oder überlassene Sachen missbräuchlich verwendet, veräussert, verpfändet, beiseiteschafft, im Stiche lässt, beschädigt, Schaden nehmen oder zugrunde gehen lässt,
 
 wer solche ihm zugängliche Sachen missbräuchlich verwendet,
 
-wird, sofern keine andere Strafbestimmung zutrifft, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+wird, sofern keine andere Strafbestimmung zutrifft, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^73-1]
+
+1<sup>bis</sup>. Wer Waffen, Munition, Ausrüstungsgegenstände, Pferde, Fahrzeuge oder andere ihm dienstlich anvertraute oder überlassene Sachen fahrlässig beschädigt, Schaden nehmen oder zugrunde gehen lässt, wird mit Geldstrafe bestraft.[^73-2]
 
 <sup>2.</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
 <sup>3.</sup> In Kriegszeiten kann auf Freiheitsstrafe erkannt werden.
+
+[^73-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^73-2]: Eingefügt durch Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Feigheit
 
@@ -1503,17 +1513,21 @@ wird mit lebenslänglicher Freiheitsstrafe oder mit Freiheitsstrafe bestraft.
 
 #### Art. 76
 
-<sup>1.</sup> Wer sich vorsätzlich oder fahrlässig ausserstand setzt, seine Dienstpflichten als Wache zu erfüllen,
+<sup>1.</sup> Wer sich vorsätzlich ausserstand setzt, seine Dienstpflichten als Wache zu erfüllen,
 
 wer eigenmächtig seinen Wachtposten verlässt oder sonst den Vorschriften über den Wachtdienst zuwiderhandelt,
 
-wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^76-1]
+
+1<sup>bis</sup>. Wer sich fahrlässig ausserstand setzt, seine Dienstpflichten als Wache zu erfüllen, wird mit Geldstrafe bestraft.[^76-2]
 
 <sup>2.</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>3.</sup> In Kriegszeiten kann auf Freiheitsstrafe erkannt werden. Auf lebenslängliche Freiheitsstrafe kann erkannt werden, wenn die Tat vorsätzlich vor dem Feind erfolgt.[^76-1]
+<sup>3.</sup> In Kriegszeiten kann auf Freiheitsstrafe erkannt werden. Auf lebenslängliche Freiheitsstrafe kann erkannt werden, wenn die Tat vorsätzlich vor dem Feind erfolgt.[^76-3]
 
-[^76-1]: Fassung gemäss Ziff. I des BG vom 20. März 1992, in Kraft seit 1. Sept. 1992 ([AS 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [BBl 1991 II 1462](https://fedlex.data.admin.ch/eli/fga/1991/2_1462__), IV 184).
+[^76-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^76-2]: Eingefügt durch Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^76-3]: Fassung gemäss Ziff. I des BG vom 20. März 1992, in Kraft seit 1. Sept. 1992 ([AS 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [BBl 1991 II 1462](https://fedlex.data.admin.ch/eli/fga/1991/2_1462__), IV 184).
 
 ### Verletzung des Dienstgeheimnisses
 
@@ -1563,7 +1577,7 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
 #### Art. 80
 
-<sup>1.</sup> Wer in einem Zustand der Trunkenheit öffentliches Ärgernis erregt, wird mit Geldstrafe bis zu 90 Tagessätzen[^80-1] bestraft.
+<sup>1.</sup> Wer in einem Zustand der Trunkenheit öffentliches Ärgernis erregt, wird mit Busse bestraft.[^80-1]
 
 <sup>2.</sup> Wer infolge selbstverschuldeter Trunkenheit oder Betäubung unzurechnungsfähig ist und in diesem Zustand eine als Verbrechen oder Vergehen bedrohte Tat verübt, wird mit Geldstrafe bestraft.[^80-2]
 
@@ -1571,7 +1585,7 @@ Hat der Täter in diesem selbstverschuldeten Zustand eine mit Freiheitsstrafe al
 
 <sup>3.</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-[^80-1]: Ausdruck gemäss Ziff. II 1 Abs. 11 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979). Diese Änd. wurde im ganzen zweiten Teil des ersten Buches berücksichtigt.
+[^80-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^80-2]: Fassung gemäss Ziff. II 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^80-3]: Fassung des zweiten Abs. gemäss Ziff. I des BG vom 20. März 1992, in Kraft seit 1. Sept. 1992 ([AS 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [BBl 1991](https://fedlex.data.admin.ch/eli/fga/1991/2_1462__)I I V184).
 
@@ -1598,7 +1612,7 @@ Mit Freiheitsstrafe bis zu 18 Monaten oder Geldstrafe wird bestraft, wer in der 
 
 <sup>2</sup> Im Aktivdienst ist die Strafe Freiheitsstrafe oder Geldstrafe.
 
-<sup>3</sup> Wer als Angehöriger einer religiösen Gemeinschaft aus religiösen Gründen den Militärdienst verweigert und kein Gesuch um Zulassung zum Zivildienst stellt, wird schuldig erklärt und zu einer Arbeitsleistung im öffentlichen Interesse verpflichtet, deren Dauer sich in der Regel nach Artikel 8 des Zivildienstgesetzes vom 6. Oktober 1995[^81-5] richtet. Die Arbeitsleistung wird im Rahmen und nach den Vorschriften des Zivildienstes vollzogen. Der Richter kann den Täter aus der Armee ausschliessen.
+<sup>3</sup> Wer als Angehöriger einer religiösen Gemeinschaft aus religiösen Gründen den Militärdienst verweigert und kein Gesuch um Zulassung zum Zivildienst stellt, wird schuldig erklärt und zu einer Arbeitsleistung im öffentlichen Interesse verpflichtet, deren Dauer sich in der Regel nach Artikel 8 des Zivildienstgesetzes vom 6. Oktober 1995[^81-5] richtet. Die Arbeitsleistung wird im Rahmen und nach den Vorschriften des Zivildienstes vollzogen. Das Gericht kann den Täter aus der Armee ausschliessen.
 
 <sup>4</sup> Wer glaubhaft darlegt, dass er den Ausbildungsdienst für einen höheren Grad mit seinem Gewissen nicht vereinbaren kann, aber bereit ist, im bisherigen Grad Militärdienst zu leisten, wird zu einer Arbeitsleistung im öffentlichen Interesse verpflichtet. Sie dauert in der Regel 1,1‑mal so lange wie der verweigerte Ausbildungsdienst zur Erreichung des höheren Grades und wird im Rahmen und nach den Vorschriften des Zivildienstes vollzogen.
 
@@ -1633,7 +1647,7 @@ Mit Geldstrafe wird bestraft, wer ohne Absicht, den Militärdienst zu verweigern
 
 <sup>3</sup> Im Aktivdienst ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-<sup>4</sup> Stellt sich der Täter nachträglich aus eigenem Antrieb zum Dienst, so kann der Richter die Strafe mildern (Art. 42*a*).[^82-5]
+<sup>4</sup> Stellt sich der Täter nachträglich aus eigenem Antrieb zum Dienst, so kann das Gerichtdie Strafe mildern (Art. 42*a*).[^82-5]
 
 <sup>5</sup> Artikel 84 bleibt vorbehalten.[^82-6]
 
@@ -1662,15 +1676,16 @@ Mit Busse[^83-2] wird bestraft, wer fahrlässig:
 
 <sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>3</sup> Im Aktivdienst kann der Richter eine Geldstrafe bis zu 90 Tagessätzen verhängen.
+<sup>3</sup> Im Aktivdienst kann das Gerichteine Geldstrafe bis zu 90 Tagessätzen[^83-5] verhängen.
 
-<sup>4</sup> Artikel 84 bleibt vorbehalten.[^83-5]
+<sup>4</sup> Artikel 84 bleibt vorbehalten.[^83-6]
 
 [^83-1]: Fassung gemäss Anhang Ziff. 5 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^83-2]: Ausdruck gemäss Ziff. II 1 Abs. 5 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979). Diese Änd. wurde im ganzen zweiten Teil des ersten Buches berücksichtigt.
 [^83-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^83-4]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
-[^83-5]: Fassung gemäss Ziff. II 2 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^83-5]: Ausdruck gemäss Ziff. II 1 Abs. 11 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979). Diese Änd. wurde im ganzen zweiten Teil des ersten Buches berücksichtigt.
+[^83-6]: Fassung gemäss Ziff. II 2 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Verletzung der Pflicht zur Dienstleistung bei Zulassung zum Zivildienst, Zuweisung zum waffenlosen Dienst und Dienstuntauglichkeit
 
@@ -1777,11 +1792,11 @@ Wer in Kriegszeiten Feindseligkeiten gegen die schweizerische Armee unternimmt, 
 
 #### Art. 89
 
-<sup>1</sup> Wer vorsätzlich in einer Zeit, da Truppen zum aktiven Dienste aufgeboten sind, die Unternehmungen der schweizerischen Armee durch Verbreitung unwahrer Nachrichten stört oder gefährdet, wird mit Freiheitsstrafe oder Geldstrafe nicht unter 60 Tagessätzen[^89-1] bestraft.
+<sup>1</sup> Wer vorsätzlich in einer Zeit, da Truppen zum aktiven Dienste aufgeboten sind, die Unternehmungen der schweizerischen Armee durch Verbreitung unwahrer Nachrichten stört oder gefährdet, wird mit Freiheitsstrafe nicht unter zwei Monaten oder Geldstrafe nicht unter 60 Tagessätzen bestraft.[^89-1]
 
 <sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-[^89-1]: Ausdruck gemäss Ziff. II 1 Abs. 19 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979). Diese Änd. wurde im ganzen zweiten Teil des ersten Buches berücksichtigt.
+[^89-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Waffenhilfe
 
@@ -1852,12 +1867,12 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^93-1]
 
 <sup>2</sup> Der Schweizer, der noch eine andere Staatszugehörigkeit besitzt, im andern Staate niedergelassen ist und dort Militärdienst leistet, bleibt straflos.
 
-<sup>3</sup> Wer einen Schweizer für fremden Militärdienst anwirbt oder der Anwerbung Vorschub leistet, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe nicht unter 30 Tagessätzen bestraft. Mit der Freiheitsstrafe ist Geldstrafe zu verbinden[^94-2].
+<sup>3</sup> Wer einen Schweizer für fremden Militärdienst anwirbt oder der Anwerbung Vorschub leistet, wird mit Freiheitsstrafe von einem Monat bis zu drei Jahren oder mit Geldstrafe nicht unter 30 Tagessätzen bestraft.[^94-2]
 
 <sup>4</sup> In Kriegszeiten kann auf Freiheitsstrafe erkannt werden.
 
 [^94-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1950, in Kraft seit 1. Juli 1951 ([AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); [BBl 1949 II 137](https://fedlex.data.admin.ch/eli/fga/1949/2_137_133_685)).
-[^94-2]: Ausdruck gemäss Ziff. II 1 Abs. 20 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
+[^94-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Verstümmelung
 
@@ -1870,6 +1885,10 @@ wer einen andern, mit dessen Einwilligung, durch Verstümmelung oder auf andere 
 wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
 <sup>2.</sup> In Kriegszeiten kann auf Freiheitsstrafe erkannt werden.
+
+<sup>3.</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.[^95-1]
+
+[^95-1]: Eingefügt durch Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Dienstpflichtbetrug
 
@@ -1949,7 +1968,7 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
 <sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>3</sup> Hat der Beschimpfte durch sein ungebührliches Verhalten zu der Beschimpfung unmittelbar Anlass gegeben, so kann der Richter den Täter von Strafe befreien.
+<sup>3</sup> Hat der Beschimpfte durch sein ungebührliches Verhalten zu der Beschimpfung unmittelbar Anlass gegeben, so kann das Gerichtden Täter von Strafe befreien.
 
 ### Verbreiten unwahrer Nachrichten
 
@@ -1967,11 +1986,11 @@ Wer in einer Zeit, da Truppen zum aktiven Dienste aufgeboten sind, wider bessere
 
 wer ein gefälschtes oder verfälschtes Aufgebot oder eine solche Weisung gebraucht,
 
-wird mit Freiheitsstrafe oder Geldstrafe bestraft.
+wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
-<sup>2.</sup> Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
+<sup>2.</sup> Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe.
 
-[^103-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 1941, in Kraft seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997).
+[^103-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Verleitung von Internierten und Kriegsgefangenen zur Gehorsamsverweigerung
 
@@ -1989,9 +2008,9 @@ wird mit Freiheitsstrafe oder Geldstrafe bestraft.
 
 <sup>2.</sup> Wird die Tat von einem zusammengerotteten Haufen begangen, so wird jeder, der an der Zusammenrottung teilnimmt, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-Der Teilnehmer, der Gewalt an Personen oder Sachen verübt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe nicht unter 30 Tagessätzen[^105-1] bestraft.
+Der Teilnehmer, der Gewalt an Personen oder Sachen verübt, wird mit Freiheitsstrafe von drei Monaten bis zu drei Jahren oder Geldstrafe nicht unter 90 Tagessätzen bestraft.[^105-1]
 
-[^105-1]: Ausdruck gemäss Ziff. II 1 Abs. 21 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979). Diese Änd. wurde im ganzen zweiten Teil des ersten Buches berücksichtigt.
+[^105-1]: Fassung des zweiten Absatzes gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Verletzung militärischer Geheimnisse
 
@@ -2011,19 +2030,23 @@ Der Teilnehmer, der Gewalt an Personen oder Sachen verübt, wird mit Freiheitsst
 [^106-2]: Fassung gemäss Ziff. II des BG vom 10. Okt. 1997, in Kraft seit 1. April 1998 ([AS 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852)856; [BBl 1996 IV 525](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
 [^106-3]: Eingefügt durch Ziff. I 2 des BG vom 23. März 1979, in Kraft seit 1. Jan. 1980 ([AS 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [BBl 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
-### Ungehorsam gegen militärische und behördliche Massnahmen
+### Ungehorsam gegen militärische oder behördliche Massnahmen
 
 #### Art. 107
 
 [^107-1]
 
-Wer vom Bundesrate, kantonalen Regierungen oder andern bürgerlichen oder militärischen zuständigen Stellen zur Wahrung der militärischen Interessen oder der Neutralität oder in Ausübung der Polizeigewalt erlassenen allgemeinen Befehlen oder bekannt gemachten Verordnungen vorsätzlich oder fahrlässig zuwiderhandelt,
+<sup>1.</sup> Wer vom Bundesrat, von kantonalen Regierungen oder andern bürgerlichen oder militärischen zuständigen Stellen zur Wahrung der militärischen Interessen oder der Neutralität oder in Ausübung der Polizeigewalt erlassenen allgemeinen Befehlen oder bekannt gemachten Verordnungen vorsätzlich zuwiderhandelt,
 
 wer vorsätzlich besondern Anordnungen oder Weisungen zuwiderhandelt, die von einer militärischen Stelle, einem Angehörigen der Armee oder einer bürgerlichen Stelle zur Wahrung der militärischen Interessen erlassen sind,
 
-wird, sofern keine andere Strafbestimmung zutrifft, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe, in leichten Fällen disziplinarisch bestraft.
+wird, sofern keine andere Strafbestimmung zutrifft, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-[^107-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1950, in Kraft seit 1. Juli 1951 ([AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); [BBl 1949 II 137](https://fedlex.data.admin.ch/eli/fga/1949/2_137_133_685)).
+<sup>2.</sup> Wer in Kriegszeiten eine Tat nach Ziffer 1 erster Absatz fahrlässig begeht, wird mit Geldstrafe bestraft.
+
+<sup>3.</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
+
+[^107-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Sechster Abschnitt: Völkermord und Verbrechen gegen die Menschlichkeit
 
@@ -2370,16 +2393,13 @@ Wer fahrlässig den Tod eines Menschen verursacht, wird mit Freiheitsstrafe bis 
 
 [^121-1]
 
-Wer vorsätzlich einen Menschen lebensgefährlich verletzt,
+Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird bestraft, wer vorsätzlich:
 
-wer vorsätzlich den Körper, ein wichtiges Organ oder Glied eines Menschen verstümmelt oder ein wichtiges Organ oder Glied unbrauchbar macht, einen Menschen bleibend arbeitsunfähig, gebrechlich oder geisteskrank macht, das Gesicht eines Menschen arg und bleibend entstellt,
+- a. einen Menschen lebensgefährlich verletzt;
+- b. den Körper, ein wichtiges Organ oder Glied eines Menschen verstümmelt oder ein wichtiges Organ oder Glied unbrauchbar macht, einen Menschen bleibend arbeitsunfähig, gebrechlich oder geisteskrank macht, das Gesicht eines Menschen arg und bleibend entstellt;
+- c. eine andere schwere Schädigung des Körpers oder der körperlichen oder geistigen Gesundheit eines Menschen verursacht.
 
-wer vorsätzlich eine andere schwere Schädigung des Körpers oder der körperlichen oder geistigen Gesundheit eines Menschen verursacht,
-
-wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.[^121-2]
-
-[^121-1]: Fassung gemäss Ziff. II des BG vom 23. Juni 1989, in Kraft seit 1. Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
-[^121-2]: Fassung gemäss Ziff. II 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^121-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Einfache Körperverletzung. Tätlichkeiten
 
@@ -2462,11 +2482,13 @@ eines Dritten zur Folge hat, wird mit Freiheitsstrafe bis zu fünf Jahren oder G
 
 <sup>1.</sup> Wer sich eine fremde bewegliche Sache aneignet, um sich oder einen andern damit unrechtmässig zu bereichern, wird, wenn nicht die besonderen Voraussetzungen der Artikel 130–132 zutreffen, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-<sup>2.</sup> Hat der Täter die Sache gefunden oder ist sie ihm ohne seinen Willen zugekommen oder handelt er ohne Bereicherungsabsicht, so wird er mit der gleichen Strafe belegt.
+<sup>2.</sup> Hat der Täter die Sache gefunden oder ist sie ihm ohne seinen Willen zugekommen oder handelt er ohne Bereicherungsabsicht, so wird er mit der gleichen Strafe belegt.[^129-2]
 
-In leichten Fällen erfolgt disziplinarische Bestrafung.
+<sup>3.</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.[^129-3]
 
 [^129-1]: Fassung gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^129-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^129-3]: Eingefügt durch Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Veruntreuung
 
@@ -2499,28 +2521,22 @@ wenn er eine ihm dienstlich anvertraute Sache veruntreut.
 
 <sup>1.</sup> Wer jemandem eine fremde bewegliche Sache zur Aneignung wegnimmt, um sich oder einen andern damit unrechtmässig zu bereichern, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
-<sup>2.</sup> Der Dieb wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe nicht unter 30 Tagessätzen[^131-2] bestraft,
+<sup>2.</sup> und 3. …[^131-2]
 
-wenn er einen Vorgesetzten, einen Untergebenen oder einen Kameraden bestiehlt,
+<sup>4.</sup>
 
-wenn er den Diebstahl in einem Raume begeht, zu dem er infolge Kantonierung oder Einquartierung erleichterten Zutritt hat.
+Der Dieb wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft, wenn er:
 
-<sup>3.</sup> Der Dieb wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter 90 Tagessätzen[^131-3] bestraft, wenn er gewerbsmässig stiehlt.
-
-<sup>4.</sup> Der Dieb wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft,[^131-4]
-
-wenn er den Diebstahl als Mitglied einer Bande ausführt, die sich zur fortgesetzten Verübung von Raub oder Diebstahl zusammengefunden hat,
-
-wenn er zum Zweck des Diebstahls eine Schusswaffe oder eine andere gefährliche Waffe mit sich führt oder
-
-wenn er sonst wie durch die Art, wie er den Diebstahl begeht, seine besondere Gefährlichkeit offenbart.
+- a. gewerbsmässig stiehlt;
+- b. den Diebstahl als Mitglied einer Bande ausführt, die sich zur fortgesetzten Verübung von Raub oder Diebstahl zusammengefunden hat;
+- c. zum Zweck des Diebstahls eine Schusswaffe oder eine andere gefährliche Waffe mit sich führt oder eine Explosion verursacht; oder
+- d. sonst wie durch die Art, wie er den Diebstahl begeht, seine besondere Gefährlichkeit offenbart.[^131-3]
 
 <sup>5.</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
 [^131-1]: Fassung gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^131-2]: Ausdruck gemäss Ziff. II 1 Abs. 14 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979). Diese Änd. wurde im ganzen zweiten Teil des ersten Buches berücksichtigt.
-[^131-3]: Ausdruck gemäss Ziff. II 1 Abs. 8 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979). Diese Änd. wurde im ganzen zweiten Teil des ersten Buches berücksichtigt.
-[^131-4]: Fassung gemäss Ziff. II 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^131-2]: Aufgehoben durch Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^131-3]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Raub
 
@@ -2580,9 +2596,10 @@ wenn er sonst wie durch die Art, wie er den Raub begeht, seine besondere Gefähr
 
 <sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>3</sup> Verursacht der Täter einen grossen Schaden oder verwüstet er in Kriegszeiten aus Bosheit oder Mutwillen fremdes Eigentum, so ist die Strafe Freiheitsstrafe nicht unter einem Jahr.
+<sup>3</sup> Verursacht der Täter einen grossen Schaden oder verwüstet er in Kriegszeiten aus Bosheit oder Mutwillen fremdes Eigentum, so wird er mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.[^134-2]
 
 [^134-1]: Fassung gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^134-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Betrug
 
@@ -2592,14 +2609,15 @@ wenn er sonst wie durch die Art, wie er den Raub begeht, seine besondere Gefähr
 
 <sup>1</sup> Wer in der Absicht, sich oder einen andern unrechtmässig zu bereichern, jemanden durch Vorspiegelung oder Unterdrückung von Tatsachen arglistig irreführt oder ihn in einem Irrtum arglistig bestärkt und so den Irrenden zu einem Verhalten bestimmt, wodurch dieser sich selbst oder einen andern am Vermögen schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
-<sup>2</sup> Der Täter wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe nicht unter 30 Tagessätzen bestraft, wenn er den Betrug gegenüber einem Vorgesetzten, einem Untergebenen oder Kameraden, gegenüber seinem Quartiergeber oder einer zu dessen Hausstand gehörigen Person begeht.
+<sup>2</sup> …[^135-2]
 
 <sup>3</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>4</sup> Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter 90 Tagessätzen bestraft. …[^135-2]
+<sup>4</sup> Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.[^135-3]
 
 [^135-1]: Fassung gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^135-2]: Satz aufgehoben durch Ziff. II 1 Abs. 25 des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
+[^135-2]: Aufgehoben durch Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^135-3]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Zechprellerei
 
@@ -2633,7 +2651,7 @@ wenn er sonst wie durch die Art, wie er den Raub begeht, seine besondere Gefähr
 
 <sup>1.</sup> Wer in der Absicht, sich oder einen andern unrechtmässig zu bereichern, jemanden durch Gewalt oder Androhung ernstlicher Nachteile zu einem Verhalten bestimmt, wodurch dieser sich selber oder einen andern am Vermögen schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft. …[^137a-2]
 
-<sup>2.</sup> Handelt der Täter gewerbsmässig oder erpresst er die gleiche Person fortgesetzt, so wird er mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.[^137a-3]
+<sup>2.</sup> Handelt der Täter gewerbsmässig oder erpresst er die gleiche Person fortgesetzt, so wird er mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.[^137a-3]
 
 <sup>3.</sup> Wendet der Täter gegen eine Person Gewalt an oder bedroht er sie mit einer gegenwärtigen Gefahr für Leib und Leben, so richtet sich die Strafe nach Artikel 132.
 
@@ -2641,7 +2659,7 @@ wenn er sonst wie durch die Art, wie er den Raub begeht, seine besondere Gefähr
 
 [^137a-1]: Fassung gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 [^137a-2]: Satz aufgehoben durch Ziff. II 1 Abs. 25 des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
-[^137a-3]: Strafdrohung neu festgelegt gemäss Ziff. II 1 Abs. 25 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
+[^137a-3]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Hehlerei
 
@@ -2657,10 +2675,10 @@ Ist die Vortat ein Antragsdelikt, so wird die Hehlerei nur verfolgt, wenn ein An
 
 In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>2.</sup> Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter 90 Tagessätzen bestraft. …[^137b-2]
+<sup>2.</sup> Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.[^137b-2]
 
 [^137b-1]: Fassung gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
-[^137b-2]: Satz aufgehoben durch Ziff. II 1 Abs. 25 des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
+[^137b-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Marode
 
@@ -2676,11 +2694,12 @@ In leichten Fällen erfolgt disziplinarische Bestrafung.
 
 [^139-1]
 
-<sup>1</sup> Wer in Kriegszeiten oder im aktiven Dienst plündert, sich auf andere Weise unrechtmässig Gut aneignet oder Gewalt an fremdem Gut verübt, wird mit Freiheitsstrafe oder Geldstrafe nicht unter 60 Tagessätzen bestraft.
+<sup>1</sup> Wer in Kriegszeiten oder im aktiven Dienst plündert, sich auf andere Weise unrechtmässig Gut aneignet oder Gewalt an fremdem Gut verübt, wird mit Freiheitsstrafe nicht unter zwei Monaten oder Geldstrafe nicht unter 60 Tagessätzen bestraft.[^139-2]
 
 <sup>2</sup> Verübt der Täter Gewalt gegen eine Person, bedroht er sie mit einer unmittelbaren Gefahr für Leib oder Leben oder macht er sie in anderer Weise zum Widerstand unfähig, so wird er mit Freiheitsstrafe nicht unter fünf Jahren bestraft.
 
 [^139-1]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesge-setzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^139-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 140
 
@@ -2766,11 +2785,11 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^143-2]
 
 <sup>1</sup> Wer bei Besorgung der militärischen Verwaltung, insbesondere bei der Berechnung, Austeilung oder sonstigen Verwendung von Sold, Lebens- oder Futtermitteln, Munition oder andern Gegenständen des militärischen Bedarfs, die ihm anvertrauten Interessen schädigt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-<sup>2</sup> Handelt der Täter aus Gewinnsucht, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. …[^144-1]
+<sup>2</sup> Handelt der Täter in der Absicht, sich oder einen andern unrechtmässig zu bereichern, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.[^144-1]
 
 <sup>3</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-[^144-1]: Satz aufgehoben durch Ziff. II 1 Abs. 25 des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
+[^144-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 144a
 
@@ -2810,7 +2829,7 @@ wird auf Antrag des Verletzten oder der zur Erteilung des Befehles zur Anhebung 
 
 <sup>5.</sup> Nimmt der Täter seine Äusserungen als unwahr zurück, so kann er milder bestraft oder ganz von Strafe befreit werden.
 
-<sup>6.</sup> Hat der Beschuldigte den Wahrheitsbeweis nicht erbracht, oder sind seine Äusserungen unwahr oder nimmt der Beschuldigte sie zurück, so hat der Richter dies im Urteil oder in einer andern Urkunde festzustellen.
+<sup>6.</sup> Hat der Beschuldigte den Wahrheitsbeweis nicht erbracht, oder sind seine Äusserungen unwahr oder nimmt der Beschuldigte sie zurück, so hat das Gericht dies im Urteil oder in einer andern Urkunde festzustellen.
 
 <sup>7.</sup> …[^145-3]
 
@@ -2832,7 +2851,7 @@ wird auf Antrag des Verletzten oder der für die Erteilung des Befehles zur Anhe
 
 In leichten Fällen erfolgt disziplinarische Bestrafung.[^146-2]
 
-<sup>2.</sup> Ist der Täter planmässig darauf ausgegangen, den guten Ruf einer Person zu untergraben, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe nicht unter 30 Tagessätzen[^146-3].
+<sup>2.</sup> Ist der Täter planmässig darauf ausgegangen, den guten Ruf einer Person zu untergraben, so ist die Strafe Freiheitsstrafe von einem Monat bis zu drei Jahren oder Geldstrafe nicht unter 30 Tagessätzen.[^146-3]
 
 <sup>3.</sup> Zieht der Täter seine Äusserungen vor dem Richter als unwahr zurück, so kann er milder bestraft werden. Der Richter stellt dem Verletzten über den Rückzug eine Urkunde aus.
 
@@ -2840,7 +2859,7 @@ In leichten Fällen erfolgt disziplinarische Bestrafung.[^146-2]
 
 [^146-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 1941, in Kraft seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997).
 [^146-2]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1950, in Kraft seit 1. Juli 1951 ([AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); [BBl 1949 II 137](https://fedlex.data.admin.ch/eli/fga/1949/2_137_133_685)).
-[^146-3]: Ausdruck gemäss Ziff. II 1 Abs. 24 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979). Diese Änd. wurde im ganzen zweiten Teil des ersten Buches berücksichtigt.
+[^146-3]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^146-4]: Aufgehoben durch Ziff. I 2 des BG vom 23. März 1979, mit Wirkung seit 1. Jan. 1980 ([AS 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [BBl 1979 II 1](https://fedlex.data.admin.ch/eli/fga/1979/2_1_8_)).
 
 ### Gemeinsame Bestimmung
@@ -2857,20 +2876,21 @@ Der mündlichen üblen Nachrede und der mündlichen Verleumdung ist die Äusseru
 
 #### Art. 148
 
-<sup>1.</sup> Wer jemanden in anderer Weise durch Wort, Schrift, Bild, Gebärde oder Tätlichkeiten in seiner Ehre angreift, wird auf Antrag des Verletzten oder der für die Erteilung des Befehles zur Anhebung der Voruntersuchung zuständigen Stelle mit Geldstrafe bis zu 90 Tagessätzen oder mit Busse bestraft.[^148-1]
+<sup>1.</sup> Wer jemanden in anderer Weise durch Wort, Schrift, Bild, Gebärde oder Tätlichkeiten in seiner Ehre angreift, wird auf Antrag des Verletzten oder der Stelle, die für die Erteilung des Befehls zur Anhebung der Voruntersuchung zuständig ist, mit Geldstrafe bis zu 90 Tagessätzen bestraft.[^148-1]
 
-Richtet sich die Beschimpfung gegen einen Vorgesetzten oder Höheren, gegen eine militärische Wache, gegen einen Untergebenen oder im Range Nachstehenden, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
+…[^148-2]
 
 In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>2.</sup> Hat der Beschimpfte durch sein ungebührliches Verhalten zu der Beschimpfung unmittelbar Anlass gegeben, so kann der Richter den Täter von Strafe befreien.
+<sup>2.</sup> Hat der Beschimpfte durch sein ungebührliches Verhalten zu der Beschimpfung unmittelbar Anlass gegeben, so kann das Gericht den Täter von Strafe befreien.
 
-Ist die Beschimpfung unmittelbar mit einer Beschimpfung oder Tätlichkeit erwidert worden, so kann der Richter einen Täter oder beide von Strafe befreien.
+Ist die Beschimpfung unmittelbar mit einer Beschimpfung oder Tätlichkeit erwidert worden, so kann das Gericht einen Täter oder beide von Strafe befreien.
 
-<sup>3.</sup> …[^148-2]
+<sup>3.</sup> …[^148-3]
 
-[^148-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1950, in Kraft seit 1. Juli 1951 ([AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); [BBl 1949 II 137](https://fedlex.data.admin.ch/eli/fga/1949/2_137_133_685)).
-[^148-2]: Aufgehoben durch Ziff. I 2 des BG vom 23. März 1979, mit Wirkung seit 1. Jan. 1980 ([AS 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [BBl 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
+[^148-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^148-2]: Zweiter Absatz aufgehoben durch Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^148-3]: Aufgehoben durch Ziff. I 2 des BG vom 23. März 1979, mit Wirkung seit 1. Jan. 1980 ([AS 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [BBl 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
 ### Antragsrecht
 
@@ -2888,7 +2908,7 @@ Ist die Beschimpfung unmittelbar mit einer Beschimpfung oder Tätlichkeit erwide
 
 <sup>5</sup> Zieht der Berechtigte seinen Strafantrag gegenüber einem Beschuldigten zurück, so gilt der Rückzug für alle Beschuldigten. Erhebt der Beschuldigte gegen den Rückzug des Strafantrages Einspruch, so gilt der Rückzug für ihn nicht.
 
-[^148a-1]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1950, in Kraft seit 1. Juli 1951 ([AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); [BBl 1949 II 137](https://fedlex.data.admin.ch/eli/fga/1949/2_137_133_685)).
+[^148a-1]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1950, in Kraft seit 1. Juli 1951 ([AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); [BBl 1949 II 137](https://fedlex.data.admin.ch/eli/fga/1949/2_137_133_685)). Gemäss Ziff. I 1 Abs. 2 des BG vom 23. März 1979 ([AS 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037)) wurden die mit «<sup>bis</sup>», «<sup>ter</sup>» usw. numerierten Artikel durch die Buchstaben «a», «b» usw. ersetzt.
 [^148a-2]: Fassung gemäss Ziff. II 1 Abs. 25 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
 [^148a-3]: Fassung gemäss Ziff. II 1 Abs. 25 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
 
@@ -3106,7 +3126,7 @@ wird mit Busse bestraft.
 
 #### Art. 159b
 
-Wird eine strafbare Handlung dieses Abschnittes gemeinsam von mehreren Personen ausgeführt, so kann der Richter die Strafe erhöhen, darf jedoch das höchste Mass der angedrohten Strafe nicht um mehr als die Hälfte überschreiten. Dabei ist er an das gesetzliche Höchstmass der Strafart gebunden.
+Wird eine strafbare Handlung dieses Abschnittes gemeinsam von mehreren Personen ausgeführt, so kann das Gericht die Strafe erhöhen, darf jedoch das höchste Mass der angedrohten Strafe nicht um mehr als die Hälfte überschreiten. Dabei ist es an das gesetzliche Höchstmass der Strafart gebunden.
 
 ### Dreizehnter Abschnitt: Gemeingefährliche Verbrechen oder Vergehen
 
@@ -3130,11 +3150,12 @@ Wird eine strafbare Handlung dieses Abschnittes gemeinsam von mehreren Personen 
 
 [^160a-1]
 
-<sup>1</sup> Wer fahrlässig zum Schaden eines anderen oder unter Herbeiführung einer Gemeingefahr eine Feuersbrunst verursacht, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft. In leichten Fällen erfolgt disziplinarische Bestrafung.
+<sup>1</sup> Wer fahrlässig zum Schaden eines anderen oder unter Herbeiführung einer Gemeingefahr eine Feuersbrunst verursacht, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft. In leichten Fällen erfolgt disziplinarische Bestrafung.[^160a-2]
 
 <sup>2</sup> Bringt der Täter fahrlässig Leib und Leben von Menschen in Gefahr, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
 [^160a-1]: Eingefügt durch Ziff. I des BG vom 13. Juni 1941 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997). Fassung gemäss Ziff. II 1 Abs. 25 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
+[^160a-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Verursachung einer Explosion
 
@@ -3164,12 +3185,16 @@ Zerstört der Täter in Kriegszeiten der Armee dienende Sachen, so wird er mit F
 
 [^163-1]
 
-<sup>1</sup> Wer vorsätzlich, jedoch ohne verbrecherische Absicht, oder wer fahrlässig durch Sprengstoffe oder giftige Gase Leib und Leben von Menschen oder fremdes Eigentum in Gefahr bringt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+<sup>1</sup> Wer vorsätzlich, jedoch ohne verbrecherische Absicht, durch Sprengstoffe oder giftige Gase Leib und Leben von Menschen oder fremdes Eigentum in Gefahr bringt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.[^163-2]
 
-<sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.[^163-2]
+<sup>1bis</sup> Handelt der Täter fahrlässig, so wird er mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^163-3]
+
+<sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.[^163-4]
 
 [^163-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 1941, in Kraft seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997).
-[^163-2]: Fassung gemäss Ziff. II 1 Abs. 25 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
+[^163-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^163-3]: Eingefügt durch Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^163-4]: Fassung gemäss Ziff. II 1 Abs. 25 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
 
 ### Herstellen, Verbergen, Weiterschaffen von Sprengstoffen und giftigen Gasen
 
@@ -3179,12 +3204,14 @@ Zerstört der Täter in Kriegszeiten der Armee dienende Sachen, so wird er mit F
 
 <sup>1</sup> Wer Sprengstoffe oder giftige Gase herstellt, die, wie er weiss oder annehmen muss, zu verbrecherischem Gebrauch bestimmt sind, wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.[^164-2]
 
-<sup>2</sup> Wer Sprengstoffe, giftige Gase oder Stoffe, die zu deren Herstellung geeignet sind, sich verschafft, einem andern übergibt, von einem andern übernimmt, aufbewahrt, verbirgt oder weiterschafft, wird, wenn er weiss oder annehmen muss, dass sie zu verbrecherischem Gebrauch bestimmt sind, mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe nicht unter 30 Tagessätzen bestraft.
+<sup>2</sup> Wer Sprengstoffe, giftige Gase oder Stoffe, die zu deren Herstellung geeignet sind, sich verschafft, einem andern übergibt, von einem andern übernimmt, aufbewahrt, verbirgt oder weiterschafft, wird, wenn er weiss oder annehmen muss, dass sie zu verbrecherischem Gebrauch bestimmt sind, mit Freiheitsstrafe von einem Monat bis zu fünf Jahren oder Geldstrafe nicht unter 30 Tagessätzen bestraft.[^164-3]
 
-<sup>3</sup> Wer jemandem, der, wie er weiss oder annehmen muss, einen verbrecherischen Gebrauch von Sprengstoffen oder giftigen Gasen plant, zu deren Herstellung Anleitung gibt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe nicht unter 30 Tagessätzen bestraft.
+<sup>3</sup> Wer jemandem, der, wie er weiss oder annehmen muss, einen verbrecherischen Gebrauch von Sprengstoffen oder giftigen Gasen plant, zu deren Herstellung Anleitung gibt, wird mit Freiheitsstrafe von einem Monat bis zu fünf Jahren oder Geldstrafe nicht unter 30 Tagessätzen bestraft.[^164-4]
 
 [^164-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 1941, in Kraft seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997).
 [^164-2]: Fassung gemäss Ziff. II 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^164-3]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^164-4]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Verursachung einer Überschwemmung oder eines Einsturzes
 
@@ -3204,19 +3231,13 @@ Zerstört der Täter in Kriegszeiten der Armee dienende Sachen, so wird er mit F
 
 #### Art. 166
 
-<sup>1.</sup> Wer vorsätzlich
-
-elektrische Anlagen,
-
-Wasserbauten, namentlich Dämme, Wehre, Deiche, Schleusen,
-
-Schutzvorrichtungen gegen Naturereignisse, so gegen Bergsturz oder Lawinen,
-
-zerstört oder beschädigt und dadurch wissentlich Leib und Leben von Menschen oder fremdes Eigentum in Gefahr bringt, wird mit Freiheitsstrafe nicht unter einem Jahr bestraft.
+<sup>1.</sup> Wer vorsätzlich elektrische Anlagen, Wasserbauten, namentlich Dämme, Wehre, Deiche, Schleusen, oder Schutzvorrichtungen gegen Naturereignisse wie Bergstürze oder Lawinen beschädigt oder zerstört und dadurch wissentlich Leib und Leben von Menschen oder fremdes Eigentum in Gefahr bringt, wird mit Freiheitsstrafe nicht unter einem Jahr bestraft.[^166-1]
 
 Ist nur ein geringer Schaden entstanden, so kann auf Freiheitsstrafe bis zu drei Jahren oder Geldstrafe erkannt werden.
 
 <sup>2.</sup> Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe. In leichten Fällen erfolgt disziplinarische Bestrafung.
+
+[^166-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Verbreiten menschlicher Krankheiten
 
@@ -3246,9 +3267,11 @@ Hat der Täter aus gemeiner Gesinnung einen grossen Schaden verursacht, so ist d
 
 #### Art. 169
 
-<sup>1</sup> Wer vorsätzlich das Trinkwasser für Menschen oder Haustiere mit gesundheitsschädlichen Stoffen verunreinigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe nicht unter 30 Tagessätzen bestraft.
+<sup>1</sup> Wer vorsätzlich das Trinkwasser für Menschen oder Haustiere mit gesundheitsschädlichen Stoffen verunreinigt, wird mit Freiheitsstrafe von einem Monat bis zu fünf Jahren oder Geldstrafe nicht unter 30 Tagessätzen bestraft.[^169-1]
 
 <sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe. In leichten Fällen erfolgt disziplinarische Bestrafung.
+
+[^169-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Störung des öffentlichen Verkehrs
 
@@ -3256,41 +3279,37 @@ Hat der Täter aus gemeiner Gesinnung einen grossen Schaden verursacht, so ist d
 
 [^169a-1]
 
-<sup>1.</sup> Wer vorsätzlich oder fahrlässig den öffentlichen Verkehr, namentlich den Verkehr auf der Strasse, auf dem Wasser oder in der Luft hindert, stört oder gefährdet und dadurch wissentlich Leib und Leben von Menschen in Gefahr bringt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+<sup>1.</sup> Wer vorsätzlich den öffentlichen Verkehr, namentlich den Verkehr auf der Strasse, auf dem Wasser, in der Luft oder auf der Schiene, hindert, stört oder gefährdet und dadurch wissentlich Leib und Leben von Menschen oder fremdes Eigentum in Gefahr bringt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
-Handelt der Täter fahrlässig, so wird er in leichten Fällen disziplinarisch bestraft.
+Bringt der Täter dadurch wissentlich Leib und Leben vieler Menschen in Gefahr, so wird er mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
 
-<sup>2.</sup> Bringt der Täter wissentlich Leib und Leben vieler Menschen in Gefahr, so kann auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren erkannt werden.
+<sup>2.</sup> Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe. In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>3.</sup> Ziffer 1 findet keine Anwendung auf Verkehrsgefährdungen, begangen durch Verletzung von Strassenverkehrsvorschriften.
+<sup>3.</sup> Ziffer 2 findet keine Anwendung auf Verkehrsgefährdungen, begangen durch Verletzung von Strassenverkehrsvorschriften.
 
-[^169a-1]: Eingefügt durch Ziff. I des BG vom 13. Juni 1941 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997). Fassung gemäss Ziff. I des BG vom 5. Okt. 1967, in Kraft seit 1. März 1968 ([AS 1968 212](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228); [BBl 1967 I 581](https://fedlex.data.admin.ch/eli/fga/1967/1_581_605_421)).
-
-### Störung des Eisenbahnverkehrs
+[^169a-1]: Eingefügt durch Ziff. I des BG vom 13. Juni 1941 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997). Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 170
 
 [^170-1]
 
-<sup>1</sup> Wer vorsätzlich den Eisenbahnverkehr hindert, stört oder gefährdet und dadurch wissentlich Leib und Leben von Menschen oder fremdes Eigentum in Gefahr bringt, namentlich die Gefahr einer Entgleisung oder eines Zusammenstosses herbeiführt, wird mit Freiheitsstrafe oder Geldstrafe bestraft.
+[^170-1]: Aufgehoben durch Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-<sup>2</sup> Handelt der Täter fahrlässig und werden dadurch Leib und Leben von Menschen oder fremdes Eigentum erheblich gefährdet, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe. In leichten Fällen erfolgt disziplinarische Bestrafung.
-
-[^170-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 1941, in Kraft seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997).
-
-### Störung von Betrieben, die der Allgemeinheit dienen
+### Störung von Betrieben im Dienste der Allgemeinheit
 
 #### Art. 171
 
-1.[^171-1] Wer vorsätzlich den Betrieb einer öffentlichen Verkehrsanstalt, namentlich den Eisenbahn-, Post-, Telegrafen- oder Telefonbetrieb hindert, stört oder gefährdet,
+[^171-1]
+
+<sup>1.</sup> Wer vorsätzlich den Betrieb einer öffentlichen Verkehrsanstalt, namentlich den Eisenbahn-, Post-, Telegrafen- oder Telefonbetrieb hindert, stört oder gefährdet,
 
 wer vorsätzlich den Betrieb einer zur allgemeinen Versorgung mit Wasser, Licht, Kraft oder Wärme dienenden Anstalt oder Anlage hindert, stört oder gefährdet,
 
-wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-<sup>2.</sup> Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe. In leichten Fällen erfolgt disziplinarische Bestrafung.
+<sup>2.</sup> Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe. In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-[^171-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 1941, in Kraft seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997).
+[^171-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Öffentliche Aufforderung zu Verbrechen oder zur Gewalttätigkeit
 
@@ -3298,14 +3317,16 @@ wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
 [^171a-1]
 
-<sup>1</sup> Wer öffentlich zu einem Verbrechen auffordert, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+<sup>1</sup> Wer öffentlich zu einem Vergehen mit Gewalttätigkeit gegen Menschen oder Sachen oder zu einem Verbrechen auffordert, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^171a-2]
 
-<sup>1bis</sup> Die öffentliche Aufforderung zum Völkermord (Art. 108), der ganz oder teilweise in der Schweiz begangen werden soll, ist auch strafbar, wenn die Aufforderung im Ausland erfolgt.[^171a-2]
+<sup>1bis</sup> Die öffentliche Aufforderung zum Völkermord (Art. 108), der ganz oder teilweise in der Schweiz begangen werden soll, ist auch strafbar, wenn die Aufforderung im Ausland erfolgt.[^171a-3]
 
-<sup>2</sup> Wer öffentlich zu einem Vergehen mit Gewalttätigkeit gegen Menschen oder Sachen auffordert, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+<sup>2</sup> …[^171a-4]
 
 [^171a-1]: Eingefügt durch Ziff. I des BG vom 9. Okt. 1981, in Kraft seit 1. Okt. 1982 ([AS 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [BBl 1980 I 1241](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
-[^171a-2]: Eingefügt durch Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesgesetzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^171a-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^171a-3]: Eingefügt durch Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesgesetzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^171a-4]: Aufgehoben durch Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Strafbare Vorbereitungshandlungen
 
@@ -3340,9 +3361,9 @@ Mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe wird bestraft, wer planm
 
 ### Diskriminierung und Aufruf zu Hass
 
-[^book1-part2-chap13-lvlu17-1]
+[^book1-part2-chap13-lvlu16-1]
 
-[^book1-part2-chap13-lvlu17-1]: Fassung gemäss Ziff. I 2 des BG vom 14. Dez. 2018 (Diskriminierung und Aufruf zu Hass aufgrund der sexuellen Orientierung), in Kraft seit 1. Juli 2020 ([AS 2020 1609](https://fedlex.data.admin.ch/eli/oc/2020/329); [BBl 2018 3773](https://fedlex.data.admin.ch/eli/fga/2018/1411)[5231](https://fedlex.data.admin.ch/eli/fga/2018/1916)).
+[^book1-part2-chap13-lvlu16-1]: Fassung gemäss Ziff. I 2 des BG vom 14. Dez. 2018 (Diskriminierung und Aufruf zu Hass aufgrund der sexuellen Orientierung), in Kraft seit 1. Juli 2020 ([AS 2020 1609](https://fedlex.data.admin.ch/eli/oc/2020/329); [BBl 2018 3773](https://fedlex.data.admin.ch/eli/fga/2018/1411)[5231](https://fedlex.data.admin.ch/eli/fga/2018/1916)).
 
 #### Art. 171c
 
@@ -3381,9 +3402,10 @@ eine Urkunde dieser Art zur Täuschung gebraucht,
 
 wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
-<sup>2.</sup> In besonders leichten Fällen kann auf Freiheitsstrafe bis zu drei Jahren oder Geldstrafe oder auf disziplinarische Bestrafung erkannt werden.
+<sup>2.</sup> In besonders leichten Fällen erfolgt disziplinarische Bestrafung.[^172-2]
 
 [^172-1]: Fassung gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
+[^172-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Erschleichung einer falschen Beurkundung
 
@@ -3405,9 +3427,9 @@ wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
 [^174-1]
 
-Wer eine Urkunde, über die er nicht allein verfügen darf, beschädigt, vernichtet, beiseite schafft oder entwendet, in der Absicht, jemanden am Vermögen oder an andern Rechten zu schädigen oder sich oder einem andern einen unrechtmässigen Vorteil zu verschaffen, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+Wer eine Urkunde, über die er nicht allein verfügen darf, beschädigt, vernichtet, beiseiteschafft oder entwendet, in der Absicht, jemanden am Vermögen oder an andern Rechten zu schädigen oder sich oder einem andern einen unrechtmässigen Vorteil zu verschaffen, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
-[^174-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 1941, in Kraft seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997)
+[^174-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Gemeinsame Bestimmungen
 
@@ -3432,27 +3454,29 @@ Wer eine Urkunde, über die er nicht allein verfügen darf, beschädigt, vernich
 
 <sup>1</sup> Wer jemanden der Strafverfolgung, dem Strafvollzug oder dem Vollzug einer der in den Artikeln 59–61, 63 und 64 des Strafgesetzbuches[^176-1] vorgesehenen Massnahmen entzieht, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^176-2]
 
-<sup>1bis</sup> Ebenso wird bestraft, wer jemanden, der im Ausland wegen eines Verbrechens nach Artikel 59 dieses Gesetzes verfolgt wird oder verurteilt wurde, der dortigen Strafverfolgung oder dem dortigen Vollzug einer Freiheitsstrafe oder einer Massnahme im Sinne der Artikel 59‑61, 63 und 64 des Strafgesetzbuches entzieht.[^176-3]
+<sup>1bis</sup> Ebenso wird bestraft, wer jemanden, der im Ausland wegen eines Verbrechens nach Artikel 59 dieses Gesetzes verfolgt wird oder verurteilt wurde, der dortigen Strafverfolgung oder dem dortigen Vollzug einer Freiheitsstrafe oder einer Massnahme im Sinne der Artikel 59–61, 63 und 64 des Strafgesetzbuches entzieht.[^176-3]
 
 <sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>3</sup> Steht der Täter in so nahen Beziehungen zu dem Begünstigten, dass sein Verhalten entschuldbar ist, so kann der Richter von einer Bestrafung Umgang nehmen.
+<sup>3</sup> Begünstigt der Täter seine Angehörigen oder jemand anderen, zu dem er in so nahen persönlichen Beziehungen steht, dass sein Verhalten entschuldbar ist, so bleibt er straflos.[^176-4]
 
 [^176-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^176-2]: Fassung gemäss Ziff. II 2 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
 [^176-3]: Eingefügt durch Ziff. I des BG vom 9. Okt. 1981 ([AS 1982 1535](https://fedlex.data.admin.ch/eli/oc/1982/1535_1535_1535); [BBl 1980 I 1241](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)). Fassung gemäss Ziff. II 2 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
+[^176-4]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Befreiung von Gefangenen
 
 #### Art. 177
 
-1.[^177-1] Wer mit Gewalt, Drohung oder List einen Arrestanten, einen Verhafteten, einen Gefangenen oder einen andern auf amtliche Anordnung in eine Anstalt Eingewiesenen befreit oder ihm zur Flucht behilflich ist, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+<sup>1.</sup> Wer mit Gewalt, Drohung oder List einen Arrestanten, einen Verhafteten, einen Gefangenen oder einen andern auf amtliche Anordnung in eine Anstalt Eingewiesenen befreit oder ihm zur Flucht behilflich ist, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^177-1]
 
 <sup>2.</sup> Wird die Tat von einem zusammengerotteten Haufen begangen, so wird jeder, der an der Zusammenrottung teilnimmt, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-Der Teilnehmer, der Gewalt an Personen oder Sachen verübt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe nicht unter 30 Tagessätzen bestraft.
+Der Teilnehmer, der Gewalt an Personen oder Sachen verübt, wird mit Freiheitsstrafe von drei Monaten bis zu drei Jahren oder Geldstrafe nicht unter 90 Tagessätzen bestraft.[^177-2]
 
 [^177-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 1941, in Kraft seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997).
+[^177-2]: Fassung des zweiten Absatzes gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Falsche Anschuldigung
 
@@ -3464,11 +3488,11 @@ Der Teilnehmer, der Gewalt an Personen oder Sachen verübt, wird mit Freiheitsst
 
 wer in anderer Weise arglistige Veranstaltungen trifft, in der Absicht, eine Strafverfolgung gegen einen Nichtschuldigen herbeizuführen,
 
-wird mit Freiheitsstrafe oder Geldstrafe bestraft.
+wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
-<sup>2.</sup> Betrifft die falsche Anschuldigung eine Übertretung oder einen Disziplinarfehler, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe. In leichten Fällen erfolgt disziplinarische Bestrafung.
+<sup>2.</sup> Betrifft die falsche Anschuldigung eine Übertretung oder einen Disziplinarfehler, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe. In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-[^178-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 1941, in Kraft seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997).
+[^178-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Falsches Zeugnis. Falsches Gutachten. Falsche Übersetzung
 
@@ -3483,17 +3507,22 @@ wird mit Freiheitsstrafe oder Geldstrafe bestraft.
 [^179-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 1941, in Kraft seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997).
 [^179-2]: Fassung gemäss Ziff. II 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### Strafmilderungen
+### Strafmilderungen oder Straflosigkeit
 
 #### Art. 179a
 
 [^179a-1]
 
-<sup>1</sup> Berichtigt der Täter seine falsche Anschuldigung (Art. 178) oder seine falsche Aussage (Art. 179) aus eigenem Antrieb und bevor durch sie ein Rechtsnachteil für einen andern entstanden ist, so kann der Richter die Strafe mildern (Art. 42*a*) oder von einer Bestrafung Umgang nehmen.
+<sup>1</sup> Berichtigt der Täter seine falsche Anschuldigung (Art. 178) oder seine falsche Äusserung (Art. 179) aus eigenem Antrieb und bevor durch sie ein Rechtsnachteil für einen andern entstanden ist, so kann das Gericht die Strafe mildern (Art. 42*a*) oder von einer Strafe absehen.
 
-<sup>2</sup> Hat der Täter eine falsche Äusserung getan (Art. 179), weil er durch die wahre Aussage sich oder seine Angehörigen der Gefahr strafrechtlicher Verfolgung aussetzen würde, so kann der Richter die Strafe mildern (Art. 42*a*).
+<sup>2</sup>
 
-[^179a-1]: Eingefügt durch Ziff. I des BG vom 13. Juni 1941 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997). Fassung gemäss Ziff. II 2 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
+Der Täter bleibt straflos, wenn er eine falsche Äusserung getan hat (Art. 179), weil er:
+
+- a. sich durch die wahre Äusserung der Gefahr strafrechtlicher Verfolgung aussetzen würde; oder
+- b. durch die wahre Äusserung seine Angehörigen oder jemand anderen, zu dem er in so nahen persönlichen Beziehungen steht, dass sein Verhalten entschuldbar ist, der Gefahr strafrechtlicher Verfolgung aussetzen würde.
+
+[^179a-1]: Eingefügt durch Ziff. I des BG vom 13. Juni 1941 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997). Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Verfahren vor internationalen Gerichten
 
@@ -4090,7 +4119,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 
 <sup>2</sup> Sind an einem gemeinen Verbrechen oder Vergehen (Art. 115–179) neben Personen, die dem Militärstrafrecht unterstehen, andere Personen beteiligt, so bleiben diese der zivilen Strafgerichtsbarkeit unterworfen.
 
-<sup>3</sup> In Fällen nach Absatz 2 kann der Bundesrat die der Militärstrafgerichtsbarkeit unterworfenen Personen ebenfalls dem zivilen Strafgericht unterstellen. Der Richter wendet auf diese Personen das Militärstrafrecht an.
+<sup>3</sup> In Fällen nach Absatz 2 kann der Bundesrat die der Militärstrafgerichtsbarkeit unterworfenen Personen ebenfalls dem zivilen Strafgericht unterstellen. Das Gericht wendet auf diese Personen das Militärstrafrecht an.
 
 [^220-1]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesge-setzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
