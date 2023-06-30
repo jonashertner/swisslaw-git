@@ -3,18 +3,18 @@ sr: "143.111"
 title: "Ordinanza del DFGP del 16 febbraio 2010 sui documenti d'identità dei cittadini svizzeri"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/96"
 language: it
-version: 2019-01-01
+version: 2023-07-01
 adopted: 2010-02-16
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/96/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2010-96-20190101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/96/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/96/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2010-96-20230701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/96/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFGP sui documenti d’identità dei cittadini svizzeri
 
-del 16 febbraio 2010 (Stato 1° gennaio 2019)
+del 16 febbraio 2010 (Stato 1° luglio 2023)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -50,12 +50,14 @@ ordina:
 
 **Forma**
 
-<sup>1</sup> Il passaporto ordinario e quello provvisorio sono rilasciati sotto forma di libretto[^3-1].
+<sup>1</sup> Il passaporto ordinario e quello provvisorio sono rilasciati sotto forma di libretto in formato ID-3[^3-1].[^3-2]
 
-<sup>2</sup> La carta d’identità (CID) è rilasciata in formato carta di credito[^3-2].
+<sup>2</sup> La carta d’identità (CID) è rilasciata in formato carta di credito in formato ID-1[^3-3].[^3-4]
 
-[^3-1]: ISO/IEC 7810; formato ID-3; OACI 9303
-[^3-2]: ISO/IEC 7810; formato ID-1; OACI 9303
+[^3-1]: ISO/IEC 7810; formato ID-3; OACI 9303; la norma può essere ottenuta a pagamento all’indirizzo Internet [www.iso.org/store.html](https://www.iso.org/fr/home.html) &gt; Standards catalogue &gt; 35 &gt; 35.240 &gt; 35.240.15 oppure consultata gratuitamente presso l’Associazione svizzera di normalizzazione (SNV) Sulzerallee 70, 8404 Winterthur.
+[^3-2]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^3-3]: ISO/IEC 7810; formato ID-1; OACI 9303; la norma può essere ottenuta a pagamento all’indirizzo Internet [www.iso.org/store.html](https://www.iso.org/fr/home.html) &gt; Standards catalogue &gt; 35 &gt; 35.240 &gt; 35.240.15 oppure consultata gratuitamente presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur.
+[^3-4]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 ### Sezione 2: Contenuto del documento d’identità
 
@@ -65,13 +67,14 @@ ordina:
 
 <sup>1</sup> Il cognome ufficiale è iscritto in base a quanto figura in Infostar, nel registro del controllo degli abitanti, nell’atto d’origine, nel registro delle famiglie o nel sistema d’informazione per documenti d’identità (ISA).
 
-<sup>2</sup> Per il rilascio di un passaporto o in caso di richiesta contemporanea di un passaporto e di una carta d’identità (offerta combinata), sono disponibili per il cognome al massimo 45 caratteri compresi gli spazi vuoti. Per il rilascio di una carta d’identità sono disponibili per il cognome al massimo 45 caratteri compresi gli spazi vuoti e i trattini.
+<sup>2</sup> Per il rilascio di un passaporto o di una carta d’identità sono disponibili per il cognome al massimo 50 caratteri compresi gli spazi vuoti.[^4-1]
 
 <sup>3</sup> Se per ragioni di spazio non rientra nel campo disponibile, il cognome usuale è anticipato e iscritto nel campo come ultima componente del cognome, d’intesa con la persona richiedente. I cognomi abbreviati sono iscritti interamente e nell’ordine corretto nella rubrica delle integrazioni d’ufficio del passaporto.
 
-<sup>4</sup> ...[^4-1]
+<sup>4</sup> ...[^4-2]
 
-[^4-1]: Abrogato dal n. I dell’O del DFGP del 29 gen. 2014, con effetto dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^4-1]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^4-2]: Abrogato dal n. I dell’O del DFGP del 29 gen. 2014, con effetto dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 4a
 
@@ -96,11 +99,13 @@ La prima parte del cognome d’affinità è costituita dall’attuale cognome uf
 
 <sup>1</sup> Il nome è iscritto nello stesso ordine figurante in Infostar, nel registro del controllo degli abitanti, nell’atto d’origine, nel registro delle famiglie o in ISA. Il nome usuale non è contrassegnato.
 
-<sup>2</sup> Per il rilascio di un passaporto sono disponibili per il nome al massimo 45 caratteri compresi gli spazi vuoti. Per il rilascio di una carta d’identità o in caso di un’offerta combinata, sono disponibili per il nome al massimo 30 caratteri compresi gli spazi vuoti.
+<sup>2</sup> Per il rilascio di un passaporto o di una carta d’identità sono disponibili per il nome al massimo 50 caratteri compresi gli spazi vuoti.[^5-1]
 
 <sup>3</sup> Se per ragioni di spazio non rientra nel campo disponibile, il nome usuale è anticipato e iscritto nel campo come ultima componente non abbreviata del nome, d’intesa con la persona richiedente. I nomi abbreviati sono iscritti interamente e nell’ordine corretto nella rubrica delle integrazioni d’ufficio del passaporto. Su richiesta della persona richiedente il nome usuale può essere iscritto nella rubrica delle integrazioni d’ufficio del passaporto.
 
 <sup>4</sup> Se la persona richiedente non ha un nome, si iscrivono tre asterischi (\*\*\*).
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 #### Art. 6
 
@@ -126,9 +131,11 @@ La statura è iscritta in centimetri (cm). Se la statura è omessa in virtù del
 
 #### Art. 9
 
-**Luogo d’origine**
+**Luogo d’origine**[^9-1]
 
-Il luogo di nascita in Svizzera è iscritto conformemente alla grafia dell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica, seguito dalla sigla ufficiale del relativo Cantone.
+Il luogo d’origine in Svizzera è iscritto conformemente alla grafia dell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica, seguito dalla sigla ufficiale del relativo Cantone.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 #### Art. 10
 
@@ -158,9 +165,9 @@ Il luogo di nascita in Svizzera è iscritto conformemente alla grafia dell’ele
 
 **Fotografia**
 
-<sup>1</sup> Se l’autorità di rilascio consente di portare con sé la fotografia, quest’ultima dev’essere registrata in una cartella separata su una chiave USB non cifrata e non protetta contro l’accesso (sistema di file FAT 32). Le autorità di rilascio non rispondono di eventuali perdite di dati registrati sulla chiave USB.
+<sup>1</sup> L’autorità di rilascio può consentire di portare con sé una fotografia digitale. Se la persona richiedente intende avvalersi di questa possibilità, lo deve comunicare nel momento in cui richiede il rilascio di un documento d’identità. In questo caso, l’autorità di rilascio invia un link per posta elettronica, tramite il quale è possibile caricare la fotografia digitale nel sistema relativo ai documenti d’identità.[^12-1]
 
-<sup>2</sup> La fotografia dev’essere consegnata come immagine a livelli di grigio (8 bit/pixel) in formato JPEG[^12-1] compresso e di qualità elevata (dimensioni del file pari a circa 700 KB) nonché in formato Baseline (standard). È vietato ritoccarla.
+<sup>2</sup> La fotografia dev’essere consegnata come immagine a colori (8 bit/pixel) in formato JPEG compresso e di qualità elevata (dimensioni del file pari a circa 700 KB) nonché in formato Baseline (standard). È vietato ritoccarla.[^12-2]
 
 <sup>3</sup> Ad eccezione dei requisiti riguardanti il formato si devono rispettare le prescrizioni del campionario di fotografie di cui all’articolo 13.
 
@@ -170,14 +177,15 @@ Per il formato valgono i requisiti seguenti:
 
 - a. la dimensione dell’immagine deve essere di 1980 × 1440 pixel (altezza × larghezza);
 - b. la distanza fra gli occhi (da pupilla a pupilla) deve corrispondere al 15–20 per cento della larghezza dell’immagine;
-- c.[^12-2] gli occhi devono essere situati in una zona compresa tra il 50 e il 60 per cento dell’altezza dell’immagine misurata dal margine inferiore.
+- c.[^12-3] gli occhi devono essere situati in una zona compresa tra il 50 e il 60 per cento dell’altezza dell’immagine misurata dal margine inferiore.
 
 <sup>5</sup> La fotografia portata dalla persona richiedente è controllata con l’ausilio di un’immagine registrata sul posto e ulteriormente trattata nel sistema. Non esiste alcun diritto all’uso della fotografia se essa non soddisfa tutti i requisiti.
 
 <sup>6</sup> Il fatto di portare una fotografia non comporta una riduzione dell’emolumento. Alla persona richiedente non sono rimborsate le spese.
 
-[^12-1]: ISO/IEC IS 10918-1
-[^12-2]: Nuovo testo giusta il n. I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^12-1]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^12-2]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^12-3]: Nuovo testo giusta il n. I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 13
 
@@ -186,7 +194,7 @@ Per il formato valgono i requisiti seguenti:
 In virtù dell’articolo 5 della legge del 18 giugno 2004[^13-1] sulle pubblicazioni ufficiali il campionario di fotografie non è pubblicato nella Raccolta ufficiale delle leggi federali. Esso è accessibile in forma elettronica[^13-2] e può essere consultato gratuitamente presso le autorità di rilascio.
 
 [^13-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^13-2]: www.passaportosvizzero.ch
+[^13-2]: [www.passaportosvizzero.ch](http://www.passaportosvizzero.ch)
 
 #### Art. 14
 
@@ -204,11 +212,11 @@ Se non è possibile rilevare le impronte digitali di una mano, si registrano due
 
 #### Art. 16
 
-**Numero del documento d’identità**
+**Numero del documento d’identità**[^16-1]
 
-Il servizio preposto all’allestimento[^16-1] assegna un numero unico a ogni documento d’identità. Per i passaporti il numero è inoltre creato secondo il principio di casualità.
+Il servizio preposto all’allestimento assegna un numero unico a ogni documento d’identità, creato secondo il principio di casualità.
 
-[^16-1]: Nuova espr. giusta il n. I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^16-1]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 ### Sezione 3: Registrazione di ulteriori dati in ISA
 
@@ -422,10 +430,11 @@ Il software utilizzato dal Comune di domicilio deve soddisfare i seguenti requis
 - a. sistema operativo: Windows 7 o versioni successive;
 - b. terminal server: Citrix Xenapp 6.5 con Windows 2008 R2 o versioni successive;
 - c. software antivirus aggiornato;
-- d. versione aggiornata di JAVA;
+- d.[^35a-2] ...
 - e. architettura interamente a 32 o 64 bit.
 
 [^35a-1]: Introdotto dal n. I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^35a-2]: Abrogata dal n. I dell’O del DFGP del 12 mag. 2023, con effetto dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 #### Art. 36
 
@@ -464,7 +473,7 @@ Allegato
 
 <table>
 <tr><td>0</td><td></td><td>32</td><td>Space</td><td>64</td><td>@</td><td>96</td><td>\`</td><td>128</td><td>€</td><td>160</td><td></td><td>192</td><td>À</td><td>224</td><td>à</td></tr>
-<tr><td>1</td><td></td><td>33</td><td>!</td><td>65</td><td>A</td><td>97</td><td>a</td><td>129</td><td></td><td>161</td><td>¡</td><td>193</td><td>Á</td><td>225</td><td>á</td></tr>
+<tr><td>1</td><td></td><td>33</td><td>!</td><td>65</td><td>A</td><td>97</td><td>a</td><td>129</td><td></td><td>161</td><td>¡</td><td>193</td><td>Á</td><td>225</td><td>á</td></tr>
 <tr><td>2</td><td></td><td>34</td><td>"</td><td>66</td><td>B</td><td>98</td><td>b</td><td>130</td><td>‚</td><td>162</td><td>¢</td><td>194</td><td>Â</td><td>226</td><td>â</td></tr>
 <tr><td>3</td><td></td><td>35</td><td>#</td><td>67</td><td>C</td><td>99</td><td>c</td><td>131</td><td>ƒ</td><td>163</td><td>£</td><td>195</td><td>Ã</td><td>227</td><td>ã</td></tr>
 <tr><td>4</td><td></td><td>36</td><td>$</td><td>68</td><td>D</td><td>100</td><td>d</td><td>132</td><td>„</td><td>164</td><td>¤</td><td>196</td><td>Ä</td><td>228</td><td>ä</td></tr>
@@ -476,10 +485,10 @@ Allegato
 <tr><td>10</td><td></td><td>42</td><td>\*</td><td>74</td><td>J</td><td>106</td><td>j</td><td>138</td><td>Š</td><td>170</td><td>ª</td><td>202</td><td>Ê</td><td>234</td><td>ê</td></tr>
 <tr><td>11</td><td></td><td>43</td><td>+</td><td>75</td><td>K</td><td>107</td><td>k</td><td>139</td><td>‹</td><td>171</td><td>«</td><td>203</td><td>Ë</td><td>235</td><td>ë</td></tr>
 <tr><td>12</td><td></td><td>44</td><td>,</td><td>76</td><td>L</td><td>108</td><td>l</td><td>140</td><td>Œ</td><td>172</td><td>¬</td><td>204</td><td>Ì</td><td>236</td><td>ì</td></tr>
-<tr><td>13</td><td></td><td>45</td><td>-</td><td>77</td><td>M</td><td>109</td><td>m</td><td>141</td><td></td><td>173</td><td>­</td><td>205</td><td>Í</td><td>237</td><td>í</td></tr>
+<tr><td>13</td><td></td><td>45</td><td>-</td><td>77</td><td>M</td><td>109</td><td>m</td><td>141</td><td></td><td>173</td><td>­</td><td>205</td><td>Í</td><td>237</td><td>í</td></tr>
 <tr><td>14</td><td></td><td>46</td><td>.</td><td>78</td><td>N</td><td>110</td><td>n</td><td>142</td><td>Ž</td><td>174</td><td>®</td><td>206</td><td>Î</td><td>238</td><td>î</td></tr>
-<tr><td>15</td><td></td><td>47</td><td>/</td><td>79</td><td>O</td><td>111</td><td>o</td><td>143</td><td></td><td>175</td><td>¯</td><td>207</td><td>Ï</td><td>239</td><td>ï</td></tr>
-<tr><td>16</td><td></td><td>48</td><td>0</td><td>80</td><td>P</td><td>112</td><td>p</td><td>144</td><td></td><td>176</td><td>°</td><td>208</td><td>Ð</td><td>240</td><td>ð</td></tr>
+<tr><td>15</td><td></td><td>47</td><td>/</td><td>79</td><td>O</td><td>111</td><td>o</td><td>143</td><td></td><td>175</td><td>¯</td><td>207</td><td>Ï</td><td>239</td><td>ï</td></tr>
+<tr><td>16</td><td></td><td>48</td><td>0</td><td>80</td><td>P</td><td>112</td><td>p</td><td>144</td><td></td><td>176</td><td>°</td><td>208</td><td>Ð</td><td>240</td><td>ð</td></tr>
 <tr><td>17</td><td></td><td>49</td><td>1</td><td>81</td><td>Q</td><td>113</td><td>q</td><td>145</td><td>‘</td><td>177</td><td>±</td><td>209</td><td>Ñ</td><td>241</td><td>ñ</td></tr>
 <tr><td>18</td><td></td><td>50</td><td>2</td><td>82</td><td>R</td><td>114</td><td>r</td><td>146</td><td>’</td><td>178</td><td>²</td><td>210</td><td>Ò</td><td>242</td><td>ò</td></tr>
 <tr><td>19</td><td></td><td>51</td><td>3</td><td>83</td><td>S</td><td>115</td><td>s</td><td>147</td><td>“</td><td>179</td><td>³</td><td>211</td><td>Ó</td><td>243</td><td>ó</td></tr>
@@ -492,9 +501,9 @@ Allegato
 <tr><td>26</td><td></td><td>58</td><td>:</td><td>90</td><td>Z</td><td>122</td><td>z</td><td>154</td><td>š</td><td>186</td><td>º</td><td>218</td><td>Ú</td><td>250</td><td>ú</td></tr>
 <tr><td>27</td><td></td><td>59</td><td>;</td><td>91</td><td>[</td><td>123</td><td>{</td><td>155</td><td>›</td><td>187</td><td>»</td><td>219</td><td>Û</td><td>251</td><td>û</td></tr>
 <tr><td>28</td><td></td><td>60</td><td>&lt;</td><td>92</td><td>\\</td><td>124</td><td>|</td><td>156</td><td>œ</td><td>188</td><td>¼</td><td>220</td><td>Ü</td><td>252</td><td>ü</td></tr>
-<tr><td>29</td><td></td><td>61</td><td>=</td><td>93</td><td>]</td><td>125</td><td>}</td><td>157</td><td></td><td>189</td><td>½</td><td>221</td><td>Ý</td><td>253</td><td>ý</td></tr>
+<tr><td>29</td><td></td><td>61</td><td>=</td><td>93</td><td>]</td><td>125</td><td>}</td><td>157</td><td></td><td>189</td><td>½</td><td>221</td><td>Ý</td><td>253</td><td>ý</td></tr>
 <tr><td>30</td><td>‑</td><td>62</td><td>&gt;</td><td>94</td><td>^</td><td>126</td><td>~</td><td>158</td><td>ž</td><td>190</td><td>¾</td><td>222</td><td>Þ</td><td>254</td><td>þ</td></tr>
-<tr><td>31</td><td></td><td>63</td><td>?</td><td>95</td><td>\_</td><td>127</td><td></td><td>159</td><td>Ÿ</td><td>191</td><td>¿</td><td>223</td><td>ß</td><td>255</td><td>ÿ</td></tr>
+<tr><td>31</td><td></td><td>63</td><td>?</td><td>95</td><td>\_</td><td>127</td><td></td><td>159</td><td>Ÿ</td><td>191</td><td>¿</td><td>223</td><td>ß</td><td>255</td><td>ÿ</td></tr>
 </table>
 
 ### Applicazione (solo per i fonemi)

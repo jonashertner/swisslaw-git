@@ -3,18 +3,18 @@ sr: "143.111"
 title: "Ordonnance du DFJP du 16 février 2010 sur les documents d'identité des ressortissants suisses"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/96"
 language: fr
-version: 2019-01-01
+version: 2023-07-01
 adopted: 2010-02-16
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/96/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-96-20190101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/96/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/96/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-96-20230701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/96/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFJP sur les documents d’identité des ressortissants suisses
 
-du 16 février 2010 (Etat le 1<sup>er</sup> janvier 2019)
+du 16 février 2010 (État le 1<sup>er</sup> juillet 2023)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -50,12 +50,14 @@ arrête:
 
 **Présentation**
 
-<sup>1</sup> Le passeport ordinaire et le passeport provisoire sont émis sous forme de livret[^3-1].
+<sup>1</sup> Le passeport ordinaire et le passeport provisoire sont émis sous forme de livret selon le format ID-3[^3-1].[^3-2]
 
-<sup>2</sup> La carte d’identité est émise au format d’une carte de crédit[^3-2].
+<sup>2</sup> La carte d’identité est émise sous forme de carte de crédit selon le format ID-1[^3-3].[^3-4]
 
-[^3-1]: ISO/IEC 7810; format ID-3; OACI 9303
-[^3-2]: ISO/IEC 7810; format ID-1; OACI 9303
+[^3-1]: ISO/IEC 7810; format ID-3; OACI 9303; la norme peut être consultée sur Internet moyennant paiement à l’adresse [www.iso.org](https://www.iso.org/fr/home.html) &gt; Store &gt; Catalogue de normes &gt; 35 &gt; 35.240 &gt; 35.240.15 ou gratuitement auprès de l’Association Suisse de Normalisation, Sulzerallee 70, 8404 Winterthour.
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^3-3]: ISO/IEC 7810; format ID-1; OACI 9303; la norme peut être consultée sur Internet moyennant paiement à l’adresse [www.iso.org](https://www.iso.org/fr/home.html) &gt; Store &gt; Catalogue de normes &gt; 35 &gt; 35.240 &gt; 35.240.15 ou gratuitement auprès de l’Association Suisse de Normalisation, Sulzerallee 70, 8404 Winterthour.
+[^3-4]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 ### Section 2 Contenu
 
@@ -65,13 +67,14 @@ arrête:
 
 <sup>1</sup> Le nom officiel est inscrit conformément à celui figurant dans Infostar, dans le registre du contrôle des habitants, sur l’acte d’origine, dans le registre des familles ou dans le système d’information relatif aux documents d’identité (ISA).
 
-<sup>2</sup> Pour l’établissement d’un passeport ou pour une demande simultanée de passeport et de carte d’identité (offre combinée), le nom ne peut pas comporter plus de 45 caractères, espaces inclus. Pour l’établissement d’une carte d’identité, il ne peut pas comporter plus de 45 caractères, espaces inclus.
+<sup>2</sup> Pour l’établissement d’un passeport ou d’une carte d’identité, le nom ne peut pas comporter plus de 50 caractères, espaces incluses.[^4-1]
 
 <sup>3</sup> Si le nom le plus usité ne peut pas figurer, pour des raisons de place, dans la zone disponible pour le nom, il peut être placé comme dernier nom dans l’espace disponible, avec l’accord du requérant. Les noms doivent figurer en entier et dans l’ordre correct à la rubrique des compléments officiels du passeport.
 
-<sup>4</sup> …[^4-1]
+<sup>4</sup> …[^4-2]
 
-[^4-1]: Abrogé par le ch. I de l’O du DFJP du 29 janv. 2014, avec effet au 1<sup>er</sup> mars 2014 ([RO 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^4-2]: Abrogé par le ch. I de l’O du DFJP du 29 janv. 2014, avec effet au 1<sup>er</sup> mars 2014 ([RO 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 4a
 
@@ -81,7 +84,7 @@ arrête:
 
 <sup>2</sup>
 
-La première partie du nom d’alliance est le nom officiel actuel du requérant. A ce nom, séparé par un trait d’union, peut être ajouté:
+La première partie du nom d’alliance est le nom officiel actuel du requérant. À ce nom, séparé par un trait d’union, peut être ajouté:
 
 - a. en cas de nom commun: le dernier nom officiel ou le nom de célibataire porté avant le mariage ou le partenariat enregistré par l’époux ou le partenaire ne donnant pas son nom au nouveau nom;
 - b. en cas de nom différent: le nom officiel ou le nom de célibataire de l’époux ou du partenaire.
@@ -96,11 +99,13 @@ La première partie du nom d’alliance est le nom officiel actuel du requérant
 
 <sup>1</sup> Le prénom est inscrit dans l’ordre figurant dans Infostar, dans le registre du contrôle des habitants, sur l’acte d’origine, dans le registre des familles ou dans ISA. Le prénom usuel n’est pas mentionné.
 
-<sup>2</sup> Pour l’établissement d’un passeport, le prénom ne peut pas comporter plus de 45 caractères, espaces inclus. Pour l’établissement d’une carte d’identité ou pour une offre combinée, il ne peut pas comporter plus de 30 caractères, espaces inclus.
+<sup>2</sup> Pour l’établissement d’un passeport ou d’une carte d’identité, le prénom ne peut pas comporter plus de 50 caractères, espaces incluses.[^5-1]
 
 <sup>3</sup> Si le prénom usuel ne peut pas figurer, pour des raisons de place, dans la zone disponible pour le prénom, il peut être placé comme dernier prénom dans l’espace disponible, avec l’accord du requérant. Les prénoms doivent figurer en entier et dans l’ordre correct à la rubrique des compléments officiels du passeport. Sur demande du requérant, le prénom usuel peut être inscrit à la rubrique des compléments officiels du passeport.
 
 <sup>4</sup> Si le requérant n’a pas de prénom, trois astérisques (\*\*\*) sont inscrits dans le champ.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 #### Art. 6
 
@@ -156,11 +161,11 @@ L’orthographe du lieu d’origine est conforme à la liste officielle des comm
 
 **Photographie**
 
-<sup>1</sup> Si l’autorité d’établissement accepte que le requérant apporte une photographie, elle doit être enregistrée dans un répertoire séparé sur une clé USB non cryptée et non protégée (système de fichiers FAT 32). Les autorités d’établissement n’ont pas à répondre d’une éventuelle perte des données enregistrées sur la clé USB.
+<sup>1</sup> L’autorité d’établissement peut accepter que le requérant apporte une photographie numérique. Si le requérant souhaite recourir à cette possibilité, il doit le faire savoir lorsqu’il demande l’établissement d’un document d’identité. Dans ce cas, l’autorité d’établissement lui envoie par courriel un lien via lequel la photographie numérique peut être téléchargée dans le système de documents d’identité.[^12-1]
 
-<sup>2</sup> La photographie doit comporter les caractéristiques suivantes: image en niveaux de gris (8 bits par pixel) en format JPEG[^12-1], avec une compression de haute qualité (taille du fichier: env. 700 kB) de format baseline (standard). Elle ne peut pas être retouchée.
+<sup>2</sup> La photographie doit comporter les caractéristiques suivantes: image couleur (8 bits par pixel) en format JPEG, avec une compression de haute qualité (taille du fichier: env. 700 kB) de format baseline (standard). Elle ne peut pas être retouchée.[^12-2]
 
-<sup>3</sup> A l’exception des exigences relatives au format, les prescriptions prévues par le tableau des photos-types selon l’art. 13 doivent être respectées.
+<sup>3</sup> À l’exception des exigences relatives au format, les prescriptions prévues par le tableau des photos-types selon l’art. 13 doivent être respectées.
 
 <sup>4</sup>
 
@@ -168,14 +173,15 @@ Le format doit répondre aux exigences suivantes:
 
 - a. les dimensions de la photographie doivent être les suivantes: 1980 × 1440 pixels (hauteur × largeur);
 - b. l’espace entre les yeux (entre les deux pupilles) doit représenter entre 15 et 20 % de la largeur de la photographie;
-- c.[^12-2] Les yeux doivent figurer dans une zone se situant entre 50 et 60 % de la hauteur de la photographie à compter du bord inférieur de celle-ci.
+- c.[^12-3] Les yeux doivent figurer dans une zone se situant entre 50 et 60 % de la hauteur de la photographie à compter du bord inférieur de celle-ci.
 
 <sup>5</sup> La photographie apportée par le requérant est vérifiée à l’aide d’une photographie prise sur place et est adaptée dans le système. Il n’existe aucun droit à l’utilisation de cette photographie si elle ne répond pas à toutes les exigences requises.
 
 <sup>6</sup> Le fait d’apporter une photographie ne donne aucun droit à une réduction de l’émolument. Le requérant n’est pas remboursé pour les frais occasionnés.
 
-[^12-1]: ISO/IEC IS 10918-1
-[^12-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 29 janv. 2014, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^12-3]: Nouvelle teneur selon le ch. I de l’O du DFJP du 29 janv. 2014, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 13
 
@@ -184,7 +190,7 @@ Le format doit répondre aux exigences suivantes:
 Conformément à l’art. 5 de la loi du 18 juin 2004 sur les publications officielles[^13-1], le tableau des photos-types n’est pas publié dans le Recueil officiel du droit fédéral. Il est accessible sous forme électronique[^13-2] et peut être consulté gratuitement auprès des autorités d’établissement.
 
 [^13-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^13-2]: www.passeportsuisse.ch
+[^13-2]: [www.passeportsuisse.ch](http://www.passeportsuisse.ch)
 
 #### Art. 14
 
@@ -202,9 +208,11 @@ Lorsqu’il est impossible de prendre les empreintes digitales d’une main, il 
 
 #### Art. 16
 
-**Numéro du document d’identité**
+**Numéro du document d’identité**[^16-1]
 
 Le centre chargé de produire les documents d’identité attribue un numéro différent à chaque document d’identité. Le numéro des passeports est, de surcroît, généré au hasard.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 ### Section 3 Saisie d’autres données dans ISA
 
@@ -293,7 +301,7 @@ Pour la saisie des données de la demande, seuls les caractères prévus dans le
 
 **Rectification de données dans ISA conformément à l’art. 35, al. 1, OLDI**
 
-A l’exception de la rubrique des compléments officiels dans le passeport, l’autorité d’établissement compétente ne peut rectifier que les données qui ne figurent pas directement dans le document d’identité ou qui ne sont pas enregistrées sur la puce. Dans tous les autres cas, un nouveau document d’identité doit être demandé, avec correction correspondante dans ISA.
+À l’exception de la rubrique des compléments officiels dans le passeport, l’autorité d’établissement compétente ne peut rectifier que les données qui ne figurent pas directement dans le document d’identité ou qui ne sont pas enregistrées sur la puce. Dans tous les autres cas, un nouveau document d’identité doit être demandé, avec correction correspondante dans ISA.
 
 #### Art. 25
 
@@ -304,7 +312,7 @@ A l’exception de la rubrique des compléments officiels dans le passeport, l�
 En cas de pertes réitérées du document d’identité conformément à l’art. 5, al. 3, OLDI, l’autorité d’établissement compétente demande au requérant:
 
 - a. une déclaration de perte établie par la police;
-- b. un compte rendu écrit détaillé de toutes les pertes; et
+- b. un compte rendu écrit détaillé de toutes les pertes, et
 - c. une confirmation attestant que ce compte rendu est conforme en tous points à la vérité.
 
 <sup>2</sup> Si un abus en matière de documents d’identité ne peut être exclu, l’autorité d’établissement compétente déclare le cas à l’Office fédéral de la police (office) et joint à sa déclaration un rapport sur les circonstances et sur les mesures ordonnées.
@@ -329,9 +337,9 @@ En cas de pertes réitérées du document d’identité conformément à l’art
 
 #### Art. 28
 
-**Etablissement de documents d’identité en cas de mariage**
+**Établissement de documents d’identité en cas de mariage**
 
-<sup>1</sup> Les futurs époux peuvent demander un document d’identité contenant les nouvelles données personnelles valables dès le mariage au plus tôt 60 jours ouvrables avant la date prévue du mariage. Le document d’identité peut être remis au requérant par l’officier d’état-civil lors de la cérémonie de mariage. A l’étranger, le document d’identité est remis par la représentation diplomatique ou consulaire après le mariage.
+<sup>1</sup> Les futurs époux peuvent demander un document d’identité contenant les nouvelles données personnelles valables dès le mariage au plus tôt 60 jours ouvrables avant la date prévue du mariage. Le document d’identité peut être remis au requérant par l’officier d’état-civil lors de la cérémonie de mariage. À l’étranger, le document d’identité est remis par la représentation diplomatique ou consulaire après le mariage.
 
 <sup>2</sup> Si le nouveau document d’identité est nécessaire pour l’obtention d’un visa, il peut être remis au plus tôt 30 jours ouvrables avant le mariage contre restitution de l’ancien document d’identité. Si l’ancien document d’identité est encore nécessaire durant cette période, le nouveau document d’identité peut être remis contre engagement écrit de restitution. Si le titulaire reçoit ce nouveau document d’identité en retour avant le mariage, il doit le déposer auprès d’une autorité jusqu’au mariage.
 
@@ -379,7 +387,7 @@ Si une personne dépose à plusieurs reprises des demandes de passeport provisoi
 
 <sup>1</sup> La durée de validité est limitée au strict minimum.
 
-<sup>2</sup> Le champ d’application se limite au retour direct en Suisse. Le laissez-passer doit être rédigé dans au moins une des langues nationales suisses et dans une langue comprise dans l’Etat où se trouve l’autorité d’établissement.
+<sup>2</sup> Le champ d’application se limite au retour direct en Suisse. Le laissez-passer doit être rédigé dans au moins une des langues nationales suisses et dans une langue comprise dans l’État où se trouve l’autorité d’établissement.
 
 ## Chapitre 6 Demande de carte d’identité auprès de la commune de domicile
 
@@ -418,10 +426,11 @@ Le logiciel utilisé par la commune de domicile doit répondre aux exigences min
 - a. système d’exploitation: Windows 7 ou versions suivantes;
 - b. terminal server: Citrix Xenapp 6.5 avec Windows 2008 R2 ou versions suivantes;
 - c. antivirus à jour;
-- d. version JAVA à jour;
+- d.[^35a-2] …
 - e. architecture entière de 32 bits ou de 64 bits.
 
 [^35a-1]: Introduit par le ch. I de l’O du DFJP du 29 janv. 2014, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^35a-2]: Abrogée par le ch. I de l’O du DFJP du 13 mai 2023, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 #### Art. 36
 
@@ -460,7 +469,7 @@ Annexe
 
 <table>
 <tr><td>0</td><td></td><td>32</td><td>Space</td><td>64</td><td>@</td><td>96</td><td>\`</td><td>128</td><td>€</td><td>160</td><td></td><td>192</td><td>À</td><td>224</td><td>à</td></tr>
-<tr><td>1</td><td></td><td>33</td><td>!</td><td>65</td><td>A</td><td>97</td><td>a</td><td>129</td><td></td><td>161</td><td>¡</td><td>193</td><td>Á</td><td>225</td><td>á</td></tr>
+<tr><td>1</td><td></td><td>33</td><td>!</td><td>65</td><td>A</td><td>97</td><td>a</td><td>129</td><td></td><td>161</td><td>¡</td><td>193</td><td>Á</td><td>225</td><td>á</td></tr>
 <tr><td>2</td><td></td><td>34</td><td>"</td><td>66</td><td>B</td><td>98</td><td>b</td><td>130</td><td>‚</td><td>162</td><td>¢</td><td>194</td><td>Â</td><td>226</td><td>â</td></tr>
 <tr><td>3</td><td></td><td>35</td><td>#</td><td>67</td><td>C</td><td>99</td><td>c</td><td>131</td><td>ƒ</td><td>163</td><td>£</td><td>195</td><td>Ã</td><td>227</td><td>ã</td></tr>
 <tr><td>4</td><td></td><td>36</td><td>$</td><td>68</td><td>D</td><td>100</td><td>d</td><td>132</td><td>„</td><td>164</td><td>¤</td><td>196</td><td>Ä</td><td>228</td><td>ä</td></tr>
@@ -472,10 +481,10 @@ Annexe
 <tr><td>10</td><td></td><td>42</td><td>\*</td><td>74</td><td>J</td><td>106</td><td>j</td><td>138</td><td>Š</td><td>170</td><td>ª</td><td>202</td><td>Ê</td><td>234</td><td>ê</td></tr>
 <tr><td>11</td><td></td><td>43</td><td>+</td><td>75</td><td>K</td><td>107</td><td>k</td><td>139</td><td>‹</td><td>171</td><td>«</td><td>203</td><td>Ë</td><td>235</td><td>ë</td></tr>
 <tr><td>12</td><td></td><td>44</td><td>,</td><td>76</td><td>L</td><td>108</td><td>l</td><td>140</td><td>Œ</td><td>172</td><td>¬</td><td>204</td><td>Ì</td><td>236</td><td>ì</td></tr>
-<tr><td>13</td><td></td><td>45</td><td>-</td><td>77</td><td>M</td><td>109</td><td>m</td><td>141</td><td></td><td>173</td><td>­</td><td>205</td><td>Í</td><td>237</td><td>í</td></tr>
+<tr><td>13</td><td></td><td>45</td><td>-</td><td>77</td><td>M</td><td>109</td><td>m</td><td>141</td><td></td><td>173</td><td>­</td><td>205</td><td>Í</td><td>237</td><td>í</td></tr>
 <tr><td>14</td><td></td><td>46</td><td>.</td><td>78</td><td>N</td><td>110</td><td>n</td><td>142</td><td>Ž</td><td>174</td><td>®</td><td>206</td><td>Î</td><td>238</td><td>î</td></tr>
-<tr><td>15</td><td></td><td>47</td><td>/</td><td>79</td><td>O</td><td>111</td><td>o</td><td>143</td><td></td><td>175</td><td>¯</td><td>207</td><td>Ï</td><td>239</td><td>ï</td></tr>
-<tr><td>16</td><td></td><td>48</td><td>0</td><td>80</td><td>P</td><td>112</td><td>p</td><td>144</td><td></td><td>176</td><td>°</td><td>208</td><td>Ð</td><td>240</td><td>ð</td></tr>
+<tr><td>15</td><td></td><td>47</td><td>/</td><td>79</td><td>O</td><td>111</td><td>o</td><td>143</td><td></td><td>175</td><td>¯</td><td>207</td><td>Ï</td><td>239</td><td>ï</td></tr>
+<tr><td>16</td><td></td><td>48</td><td>0</td><td>80</td><td>P</td><td>112</td><td>p</td><td>144</td><td></td><td>176</td><td>°</td><td>208</td><td>Ð</td><td>240</td><td>ð</td></tr>
 <tr><td>17</td><td></td><td>49</td><td>1</td><td>81</td><td>Q</td><td>113</td><td>q</td><td>145</td><td>’</td><td>177</td><td>±</td><td>209</td><td>Ñ</td><td>241</td><td>ñ</td></tr>
 <tr><td>18</td><td></td><td>50</td><td>2</td><td>82</td><td>R</td><td>114</td><td>r</td><td>146</td><td>’</td><td>178</td><td>²</td><td>210</td><td>Ò</td><td>242</td><td>ò</td></tr>
 <tr><td>19</td><td></td><td>51</td><td>3</td><td>83</td><td>S</td><td>115</td><td>s</td><td>147</td><td>“</td><td>179</td><td>³</td><td>211</td><td>Ó</td><td>243</td><td>ó</td></tr>
@@ -488,9 +497,9 @@ Annexe
 <tr><td>26</td><td></td><td>58</td><td>:</td><td>90</td><td>Z</td><td>122</td><td>z</td><td>154</td><td>š</td><td>186</td><td>º</td><td>218</td><td>Ú</td><td>250</td><td>ú</td></tr>
 <tr><td>27</td><td></td><td>59</td><td>;</td><td>91</td><td>[</td><td>123</td><td>{</td><td>155</td><td>›</td><td>187</td><td>»</td><td>219</td><td>Û</td><td>251</td><td>û</td></tr>
 <tr><td>28</td><td></td><td>60</td><td>&lt;</td><td>92</td><td>\\</td><td>124</td><td>|</td><td>156</td><td>œ</td><td>188</td><td>¼</td><td>220</td><td>Ü</td><td>252</td><td>ü</td></tr>
-<tr><td>29</td><td></td><td>61</td><td>=</td><td>93</td><td>]</td><td>125</td><td>}</td><td>157</td><td></td><td>189</td><td>½</td><td>221</td><td>Ý</td><td>253</td><td>ý</td></tr>
+<tr><td>29</td><td></td><td>61</td><td>=</td><td>93</td><td>]</td><td>125</td><td>}</td><td>157</td><td></td><td>189</td><td>½</td><td>221</td><td>Ý</td><td>253</td><td>ý</td></tr>
 <tr><td>30</td><td>‑</td><td>62</td><td>&gt;</td><td>94</td><td>^</td><td>126</td><td>~</td><td>158</td><td>ž</td><td>190</td><td>¾</td><td>222</td><td>Þ</td><td>254</td><td>þ</td></tr>
-<tr><td>31</td><td></td><td>63</td><td>?</td><td>95</td><td>\_</td><td>127</td><td></td><td>159</td><td>Ÿ</td><td>191</td><td>¿</td><td>223</td><td>ß</td><td>255</td><td>ÿ</td></tr>
+<tr><td>31</td><td></td><td>63</td><td>?</td><td>95</td><td>\_</td><td>127</td><td></td><td>159</td><td>Ÿ</td><td>191</td><td>¿</td><td>223</td><td>ß</td><td>255</td><td>ÿ</td></tr>
 </table>
 
 ### Application (pour les tableaux de phonétique uniquement)

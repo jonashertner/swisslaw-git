@@ -3,18 +3,18 @@ sr: "143.111"
 title: Verordnung des EJPD vom 16. Februar 2010 über die Ausweise für Schweizer Staatsangehörige
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/96"
 language: de
-version: 2019-01-01
+version: 2023-07-01
 adopted: 2010-02-16
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/96/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2010-96-20190101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/96/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/96/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2010-96-20230701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/96/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EJPD über die Ausweise für Schweizer Staatsangehörige
 
-vom 16. Februar 2010 (Stand am 1. Januar 2019)
+vom 16. Februar 2010 (Stand am 1. Juli 2023)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -50,12 +50,14 @@ verordnet:
 
 **Erscheinungsform**
 
-<sup>1</sup> Der ordentliche und provisorische Pass werden in Form eines Büchleins[^3-1] ausgestellt.
+<sup>1</sup> Der ordentliche und provisorische Pass werden in Form eines Büchleins nach dem ID-3-Format[^3-1] ausgestellt.[^3-2]
 
-<sup>2</sup> Die Identitätskarte (IDK) wird in Kreditkartenformat[^3-2] ausgestellt.
+<sup>2</sup> Die Identitätskarte (IDK) wird im Kreditkartenformat nach dem ID-1-Format[^3-3] ausgestellt.[^3-4]
 
-[^3-1]: ISO/IEC 7810; ID-3-Format; ICAO 9303
-[^3-2]: ISO/IEC 7810; ID-1-Format; ICAO 9303
+[^3-1]: ISO/IEC 7810; ID-3-Format; ICAO 9303; die Norm kann im Internet unter [www.iso.org](http://www.iso.org)/store.html &gt; Standards catalogue &gt; 35 &gt; 35.240 &gt; 35.240.15 gegen Bezahlung abgerufen oder kostenlos eingesehen werden bei der Schweizerischen Normen-Vereinigung, Sulzerallee 70, 8404 Winterthur.
+[^3-2]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^3-3]: ISO/IEC 7810; ID-1-Format; ICAO 9303; die Norm kann im Internet unter [www.iso.org](http://www.iso.org)/store.html &gt; Standards catalogue &gt; 35 &gt; 35.240 &gt; 35.240.15 gegen Bezahlung abgerufen oder kostenlos eingesehen werden bei der Schweizerischen Normen-Vereinigung, Sulzerallee 70, 8404 Winterthur.
+[^3-4]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 ### 2. Abschnitt: Inhalt des Ausweises
 
@@ -65,13 +67,14 @@ verordnet:
 
 <sup>1</sup> Der amtliche Name wird gemäss Infostar, Einwohnerkontrollregister, Heimatschein, Familienregister oder dem Informationssystem Ausweisschriften (ISA) eingetragen.
 
-<sup>2</sup> Bei der Ausstellung eines Passes oder im Falle einer gleichzeitigen Beantragung eines Passes und einer Identitätskarte (Kombiangebot) stehen für den Namen inklusive Leerzeichen maximal 45 Zeichen zur Verfügung. Für die Ausstellung einer Identitätskarte stehen für den Namen maximal 45 Zeichen inklusive Leerzeichen zur Verfügung.
+<sup>2</sup> Bei der Ausstellung eines Passes oder einer Identitätskarte stehen für den Namen inklusive Leerzeichen maximal 50 Zeichen zur Verfügung.[^4-1]
 
 <sup>3</sup> Ist der meistverwendete Name innerhalb der verfügbaren Zeilenlänge nicht enthalten, so wird er in Absprache mit der antragstellenden Person vorgezogen und als letzter Name eingetragen. Gekürzte Namen sind im Pass in der Rubrik amtliche Ergänzungen vollständig und in der korrekten Reihenfolge aufzuführen.
 
-<sup>4</sup> …[^4-1]
+<sup>4</sup> …[^4-2]
 
-[^4-1]: Aufgehoben durch Ziff. I der V des EJPD vom 29. Jan. 2014, mit Wirkung seit 1. März 2014 ([AS 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^4-1]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^4-2]: Aufgehoben durch Ziff. I der V des EJPD vom 29. Jan. 2014, mit Wirkung seit 1. März 2014 ([AS 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 4a
 
@@ -96,11 +99,13 @@ Als erster Teil des Allianznamens steht der aktuelle amtliche Name der antragste
 
 <sup>1</sup> Der Vorname wird gemäss Reihenfolge im Infostar, Einwohnerkontrollregister, Heimatschein, Familienregister oder ISA eingetragen. Der Rufname wird nicht gekennzeichnet.
 
-<sup>2</sup> Bei der Ausstellung eines Passes stehen für den Vornamen maximal 45 Zeichen inklusive Leerzeichen zur Verfügung. Für die Ausstellung einer Identitätskarte oder im Falle eines Kombiangebotes stehen für den Vornamen inklusive Leerzeichen maximal 30 Zeichen zur Verfügung.
+<sup>2</sup> Bei der Ausstellung eines Passes oder einer Identitätskarte stehen für den Vornamen inklusive Leerzeichen maximal 50 Zeichen zur Verfügung.[^5-1]
 
 <sup>3</sup> Ist der Rufname innerhalb der verfügbaren Zeilenlänge nicht enthalten, so wird er in Absprache mit der antragstellenden Person vorgezogen und als letzter ungekürzter Vorname eingetragen. Gekürzte Vornamen sind im Pass in der Rubrik amtliche Ergänzungen vollständig und in der korrekten Reihenfolge aufzuführen. Im Pass kann der Rufname auf Verlangen der antragstellenden Person in der Rubrik amtliche Ergänzungen eingetragen werden.
 
 <sup>4</sup> Hat die antragstellende Person keinen Vornamen, so werden drei Sterne (\*\*\*) eingetragen.
+
+[^5-1]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 #### Art. 6
 
@@ -156,9 +161,9 @@ Die Schreibweise des Heimatortes richtet sich nach dem amtlichen Gemeindeverzeic
 
 **Fotografie**
 
-<sup>1</sup> Sofern die ausstellende Behörde das Mitbringen von Fotos zulässt, muss dieses auf einem unverschlüsselten und nicht gegen Zugriff geschützten USB-Stick (Filesystem FAT 32) in einem separaten Verzeichnis gespeichert sein. Die ausstellenden Behörden haften nicht für allfällige Datenverluste auf dem USB-Stick.
+<sup>1</sup> Die ausstellende Behörde kann das Mitbringen einer digitalen Fotografie zulassen. Will die antragstellende Person diese Möglichkeit nutzen, so muss sie dies beim Antrag auf Ausstellung eines Ausweises mitteilen. Die ausstellende Behörde versendet diesfalls einen Link per E-Mail, über den die digitale Fotografie in das Ausweissystem hochgeladen werden kann.[^12-1]
 
-<sup>2</sup> Die Fotografie muss als Graustufenbild (8 Bit/Pixel) im Format JPEG[^12-1] mit Kompression mit hoher Qualität (Dateigrösse ca. 700 kB) und Baseline (Standard)-Format beigebracht werden. Sie darf nicht retouchiert sein.
+<sup>2</sup> Die Fotografie muss als Farbbild (8 Bit/Pixel) im Format JPEG mit Kompression mit hoher Qualität (Dateigrösse ca. 700 kB) und Baseline (Standard)-Format beigebracht werden. Sie darf nicht retouchiert sein.[^12-2]
 
 <sup>3</sup> Mit Ausnahme der Anforderungen betreffend Format müssen die Vorgaben der Fotomustertafel nach Artikel 13 eingehalten werden.
 
@@ -168,14 +173,15 @@ Es gelten folgende Anforderungen bezüglich Format:
 
 - a. Die Grösse des Bildes muss 1980 × 1440 Pixel (Höhe × Breite) betragen;
 - b. Der Augenabstand (Pupille zu Pupille) muss zwischen 15 und 20 Prozent der Bildbreite betragen;
-- c.[^12-2] Die Augen müssen im Bereich von 50–60 Prozent der Bildhöhe, gemessen vom unteren Bildrand, liegen.
+- c.[^12-3] Die Augen müssen im Bereich von 50–60 Prozent der Bildhöhe, gemessen vom unteren Bildrand, liegen.
 
 <sup>5</sup> Die mitgebrachte Fotografie wird mit einem vor Ort erfassten Bild verifiziert und im System nachbearbeitet. Es besteht kein Anspruch auf Verwendung der Fotografie, wenn diese nicht alle Anforderungen erfüllt.
 
 <sup>6</sup> Das Mitbringen einer Fotografie hat keine Gebührenreduktion zu Folge. Der antragstellenden Person wird kein Ersatz für ihre Auslagen erstattet.
 
-[^12-1]: ISO/IEC IS 10918-1.
-[^12-2]: Fassung gemäss Ziff. I der V des EJPD vom 29. Jan. 2014, in Kraft seit 1. März 2014 ([AS 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^12-1]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^12-2]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^12-3]: Fassung gemäss Ziff. I der V des EJPD vom 29. Jan. 2014, in Kraft seit 1. März 2014 ([AS 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 13
 
@@ -184,7 +190,7 @@ Es gelten folgende Anforderungen bezüglich Format:
 Die Fotomustertafel wird nach Artikel 5 des Publikationsgesetzes vom 18. Juni 2004[^13-1] nicht in der Amtlichen Sammlung des Bundesrechts veröffentlicht. Sie ist in elektronischer Form[^13-2] zugänglich und kann unentgeltlich bei den ausstellenden Behörden eingesehen werden.
 
 [^13-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^13-2]: www.schweizerpass.ch
+[^13-2]: [www.schweizerpass.ch](http://www.schweizerpass.ch)
 
 #### Art. 14
 
@@ -202,9 +208,11 @@ Können von einer Hand keine Fingerabdrücke genommen werden, müssen zwei Finge
 
 #### Art. 16
 
-**Ausweisnummer**
+**Ausweisnummer**[^16-1]
 
-Jedem Ausweis wird durch die Ausfertigungsstelle eine einmalige Ausweisnummer zugewiesen. Beim Pass wird sie zudem zufällig generiert.
+Jedem Ausweis wird durch die Ausfertigungsstelle eine einmalige Ausweisnummer zugewiesen, die zufällig generiert wird.
+
+[^16-1]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 ### 3. Abschnitt: Erfassung weiterer Daten im ISA
 
@@ -418,10 +426,11 @@ Die von der Wohnsitzgemeinde eingesetzte Software muss folgende Mindestanforderu
 - a. Betriebssystem: Windows 7 oder höher;
 - b. Terminalserver: Citrix Xenapp 6.5 mit Windows 2008 R2 oder höher;
 - c. aktueller Virenscanner;
-- d. aktuelle JAVA-Version;
+- d.[^35a-2] …
 - e. durchgängige 32-Bit oder 64-Bit Architektur.
 
 [^35a-1]: Eingefügt durch Ziff. I der V des EJPD vom 29. Jan. 2014, in Kraft seit 1. März 2014 ([AS 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^35a-2]: Aufgehoben durch Ziff. I der V des EJPD vom 13. Mai 2023, mit Wirkung seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 #### Art. 36
 
@@ -460,7 +469,7 @@ Anhang
 
 <table>
 <tr><td>0</td><td></td><td>32</td><td>Space</td><td>64</td><td>@</td><td>96</td><td>\`</td><td>128</td><td>€</td><td>160</td><td></td><td>192</td><td>À</td><td>224</td><td>à</td></tr>
-<tr><td>1</td><td></td><td>33</td><td>!</td><td>65</td><td>A</td><td>97</td><td>a</td><td>129</td><td></td><td>161</td><td>¡</td><td>193</td><td>Á</td><td>225</td><td>á</td></tr>
+<tr><td>1</td><td></td><td>33</td><td>!</td><td>65</td><td>A</td><td>97</td><td>a</td><td>129</td><td></td><td>161</td><td>¡</td><td>193</td><td>Á</td><td>225</td><td>á</td></tr>
 <tr><td>2</td><td></td><td>34</td><td>"</td><td>66</td><td>B</td><td>98</td><td>b</td><td>130</td><td>‚</td><td>162</td><td>¢</td><td>194</td><td>Â</td><td>226</td><td>â</td></tr>
 <tr><td>3</td><td></td><td>35</td><td>#</td><td>67</td><td>C</td><td>99</td><td>c</td><td>131</td><td>ƒ</td><td>163</td><td>£</td><td>195</td><td>Ã</td><td>227</td><td>ã</td></tr>
 <tr><td>4</td><td></td><td>36</td><td>$</td><td>68</td><td>D</td><td>100</td><td>d</td><td>132</td><td>„</td><td>164</td><td>¤</td><td>196</td><td>Ä</td><td>228</td><td>ä</td></tr>
@@ -472,10 +481,10 @@ Anhang
 <tr><td>10</td><td></td><td>42</td><td>\*</td><td>74</td><td>J</td><td>106</td><td>j</td><td>138</td><td>Š</td><td>170</td><td>ª</td><td>202</td><td>Ê</td><td>234</td><td>ê</td></tr>
 <tr><td>11</td><td></td><td>43</td><td>+</td><td>75</td><td>K</td><td>107</td><td>k</td><td>139</td><td>‹</td><td>171</td><td>«</td><td>203</td><td>Ë</td><td>235</td><td>ë</td></tr>
 <tr><td>12</td><td></td><td>44</td><td>,</td><td>76</td><td>L</td><td>108</td><td>l</td><td>140</td><td>Œ</td><td>172</td><td>¬</td><td>204</td><td>Ì</td><td>236</td><td>ì</td></tr>
-<tr><td>13</td><td></td><td>45</td><td>-</td><td>77</td><td>M</td><td>109</td><td>m</td><td>141</td><td></td><td>173</td><td>­</td><td>205</td><td>Í</td><td>237</td><td>í</td></tr>
+<tr><td>13</td><td></td><td>45</td><td>-</td><td>77</td><td>M</td><td>109</td><td>m</td><td>141</td><td></td><td>173</td><td>­</td><td>205</td><td>Í</td><td>237</td><td>í</td></tr>
 <tr><td>14</td><td></td><td>46</td><td>.</td><td>78</td><td>N</td><td>110</td><td>n</td><td>142</td><td>Ž</td><td>174</td><td>®</td><td>206</td><td>Î</td><td>238</td><td>î</td></tr>
-<tr><td>15</td><td></td><td>47</td><td>/</td><td>79</td><td>O</td><td>111</td><td>o</td><td>143</td><td></td><td>175</td><td>¯</td><td>207</td><td>Ï</td><td>239</td><td>ï</td></tr>
-<tr><td>16</td><td></td><td>48</td><td>0</td><td>80</td><td>P</td><td>112</td><td>p</td><td>144</td><td></td><td>176</td><td>°</td><td>208</td><td>Ð</td><td>240</td><td>ð</td></tr>
+<tr><td>15</td><td></td><td>47</td><td>/</td><td>79</td><td>O</td><td>111</td><td>o</td><td>143</td><td></td><td>175</td><td>¯</td><td>207</td><td>Ï</td><td>239</td><td>ï</td></tr>
+<tr><td>16</td><td></td><td>48</td><td>0</td><td>80</td><td>P</td><td>112</td><td>p</td><td>144</td><td></td><td>176</td><td>°</td><td>208</td><td>Ð</td><td>240</td><td>ð</td></tr>
 <tr><td>17</td><td></td><td>49</td><td>1</td><td>81</td><td>Q</td><td>113</td><td>q</td><td>145</td><td>‘</td><td>177</td><td>±</td><td>209</td><td>Ñ</td><td>241</td><td>ñ</td></tr>
 <tr><td>18</td><td></td><td>50</td><td>2</td><td>82</td><td>R</td><td>114</td><td>r</td><td>146</td><td>’</td><td>178</td><td>²</td><td>210</td><td>Ò</td><td>242</td><td>ò</td></tr>
 <tr><td>19</td><td></td><td>51</td><td>3</td><td>83</td><td>S</td><td>115</td><td>s</td><td>147</td><td>“</td><td>179</td><td>³</td><td>211</td><td>Ó</td><td>243</td><td>ó</td></tr>
@@ -488,9 +497,9 @@ Anhang
 <tr><td>26</td><td></td><td>58</td><td>:</td><td>90</td><td>Z</td><td>122</td><td>z</td><td>154</td><td>š</td><td>186</td><td>º</td><td>218</td><td>Ú</td><td>250</td><td>ú</td></tr>
 <tr><td>27</td><td></td><td>59</td><td>;</td><td>91</td><td>[</td><td>123</td><td>{</td><td>155</td><td>›</td><td>187</td><td>»</td><td>219</td><td>Û</td><td>251</td><td>û</td></tr>
 <tr><td>28</td><td></td><td>60</td><td>&lt;</td><td>92</td><td>\\</td><td>124</td><td>|</td><td>156</td><td>œ</td><td>188</td><td>¼</td><td>220</td><td>Ü</td><td>252</td><td>ü</td></tr>
-<tr><td>29</td><td></td><td>61</td><td>=</td><td>93</td><td>]</td><td>125</td><td>}</td><td>157</td><td></td><td>189</td><td>½</td><td>221</td><td>Ý</td><td>253</td><td>ý</td></tr>
+<tr><td>29</td><td></td><td>61</td><td>=</td><td>93</td><td>]</td><td>125</td><td>}</td><td>157</td><td></td><td>189</td><td>½</td><td>221</td><td>Ý</td><td>253</td><td>ý</td></tr>
 <tr><td>30</td><td>‑</td><td>62</td><td>&gt;</td><td>94</td><td>^</td><td>126</td><td>~</td><td>158</td><td>ž</td><td>190</td><td>¾</td><td>222</td><td>Þ</td><td>254</td><td>þ</td></tr>
-<tr><td>31</td><td></td><td>63</td><td>?</td><td>95</td><td>\_</td><td>127</td><td></td><td>159</td><td>Ÿ</td><td>191</td><td>¿</td><td>223</td><td>ß</td><td>255</td><td>ÿ</td></tr>
+<tr><td>31</td><td></td><td>63</td><td>?</td><td>95</td><td>\_</td><td>127</td><td></td><td>159</td><td>Ÿ</td><td>191</td><td>¿</td><td>223</td><td>ß</td><td>255</td><td>ÿ</td></tr>
 </table>
 
 ### Umsetzung (nur für die Phonetik-Tabellen)
