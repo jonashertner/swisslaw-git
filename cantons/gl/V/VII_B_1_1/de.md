@@ -4,13 +4,13 @@ number: VII B/1/1
 title: Raumentwicklungs- und Baugesetz
 short: RBG
 language: de
-version: 2018-07-01
-valid_until: 2023-06-30
-version_adopted: 2017-05-07
+version: 2023-07-01
+valid_until: 2025-12-31
+version_adopted: 2023-05-07
 adopted: 2010-05-02
 in_force: 2011-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-B.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2010/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2425/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2010/pdf_file"
 
 (RBG)
 
-Vom 02.05.2010 (Stand 01.07.2018)
+Vom 02.05.2010 (Stand 01.07.2023)
 
 (Erlassen von der Landsgemeinde am 2. Mai 2010)
 
@@ -854,7 +854,7 @@ Vom 02.05.2010 (Stand 01.07.2018)
 
 <sup>6</sup> Unterirdische Gebäude und Gebäudeteile unterliegen keinen Abstandsvorschriften.
 
-<sup>7</sup> Die Einhaltung der Grenzabstandsvorschriften bzw. das Vorliegen einer nachbarrechtlichen Abmachung ist von der Baubewilligungsbehörde zu prüfen. Diese Abmachung hat in Form einer im Grundbuch eingetragenen Dienstbarkeit vorzuliegen.
+<sup>7</sup> Die Einhaltung der Grenzabstandsvorschriften bzw. das Vorliegen einer nachbarrechtlichen Abmachung ist von der Baubewilligungsbehörde zu prüfen. Diese Abmachung hat in Form einer im Grundbuch eingetragenen Dienstbarkeit bis zur Baufreigabe vorzuliegen.
 
 <sup>8</sup> Inhaltlich unklare nachbarrechtliche Abmachungen sind auf dem zivilrechtlichen Weg zu klären. Die Baubewilligung ist zu erteilen.
 
@@ -1274,8 +1274,4 @@ Vom 02.05.2010 (Stand 01.07.2018)
 
 <sup>1</sup> Der Regierungsrat bestimmt das Inkrafttreten dieses Gesetzes.
 
-Datum des Inkrafttretens: 1. Juli 2011[^footer-1]
-
 SBE XI/5 353
-
-[^footer-1]: B RR vom 7. Juni 2011
