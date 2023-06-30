@@ -3,11 +3,11 @@ sr: "0.632.401.2"
 title: Protokoll Nr. 2 vom 22. Juli 1972 über bestimmte landwirtschaftliche Verarbeitungserzeugnisse (mit Tabellen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997"
 language: de
-version: 2022-10-01
+version: 2023-07-01
 adopted: 1972-07-22
 in_force: 1973-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997/20221001/de/xml/fedlex-data-admin-ch-eli-cc-1972-3163_3217_2997-20221001-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/3163_3217_2997/20221001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1972-3163_3217_2997-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/3163_3217_2997/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 22. Juli 1972 Von der Bundesversammlung genehmigt am 3. Oktober 1972[^t-2] Schweizerische. Ratifikation mitgeteilt am 21. Dezember 1972 In Kraft getreten am 1. Januar 1973
 
-(Stand am 1. Oktober 2022)
+(Stand am 1. Juli 2023)
 
 [^t-1]: Fassung gemäss Art. 1 Ziff. 2 des Abk. vom 26. Okt. 2004 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft zur Änd. des Abk. zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Wirtschaftsgemeinschaft vom 22. Juli 1972 in Bezug auf die Bestimmungen über landwirtschaftliche Verarbeitungserzeugnisse, von der BVers genehmigt am 8. Dez. 2004, in Kraft seit 30. März 2005 ([AS 2005 1533](https://fedlex.data.admin.ch/eli/oc/2005/238); [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^t-2]: Art. 1 Abs. 1 des BB vom 3. Okt. 1972 ([AS 1972 3111](https://fedlex.data.admin.ch/eli/oc/1972/3111_3165_2945))
@@ -279,50 +279,50 @@ Tabelle III[^t-5]
 
 ## Referenzpreise der EU und der Schweiz auf dem Inlandsmarkt
 
-[^t-5]: Fassung gemäss Art. 1 Bst. a des Beschlusses Nr. 1/2022 des Gemischten Ausschusses Schweiz–EU vom 8. Sept. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 539](https://fedlex.data.admin.ch/eli/oc/2022/539)).
+[^t-5]: Fassung gemäss Art. 1 Bst. a des Beschlusses Nr. 1/2023 des Gemischten Ausschusses Schweiz–EU vom 12. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 308](https://fedlex.data.admin.ch/eli/oc/2023/308)).
 
 <table>
-<tr><th colspan="2">Landwirtschaftlicher Rohstoff</th><th>Referenzpreis auf dem Inlandsmarkt der Schweiz</th><th colspan="2">Referenzpreis auf dem Inlandsmarkt der EU</th><th colspan="2">**Art. 4 Abs. 1** **auf Schweizer Seite angewendete** Referenzpreis- differenz Schweiz/EU</th><th colspan="2">**Art. 3 Abs. 3** **auf EU-Seite** **angewendete** Referenzpreis- differenz Schweiz/EU</th></tr>
-<tr><th colspan="2"></th><th>CHF je 100 kg Eigengewicht</th><th colspan="2">CHF je 100 kg Eigengewicht</th><th colspan="2">CHF je 100 kg Eigengewicht</th><th colspan="2">EUR je 100 kg Eigengewicht</th></tr>
-<tr><td>Weichweizen</td><td colspan="2">51,80</td><td colspan="2">23,54</td><td colspan="2">28,25</td><td colspan="2">0,00</td></tr>
-<tr><td>Hartweizen</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">1,20</td><td colspan="2">0,00</td></tr>
-<tr><td>Roggen</td><td colspan="2">42,80</td><td colspan="2">18,50</td><td colspan="2">24,30</td><td colspan="2">0,00</td></tr>
-<tr><td>Gerste</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>Mais</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>Weichweizenmehl</td><td colspan="2">91,60</td><td colspan="2">46,68</td><td colspan="2">44,90</td><td colspan="2">0,00</td></tr>
-<tr><td>Vollmilchpulver</td><td colspan="2">629,60</td><td colspan="2">323,59</td><td colspan="2">306,00</td><td colspan="2">0,00</td></tr>
-<tr><td>Magermilchpulver</td><td colspan="2">420,10</td><td colspan="2">260,22</td><td colspan="2">159,90</td><td colspan="2">0,00</td></tr>
-<tr><td>Butter</td><td colspan="2">1128,35</td><td colspan="2">409,97</td><td colspan="2">718,40</td><td colspan="2">0,00</td></tr>
-<tr><td>Weisszucker</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>Eier</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">38,00</td><td colspan="2">0,00</td></tr>
-<tr><td>Kartoffeln, frisch</td><td colspan="2">40,05</td><td colspan="2">17,05</td><td colspan="2">23,00</td><td colspan="2">0,00</td></tr>
-<tr><td>Pflanzliche Fette</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">170,00</td><td colspan="2">0,00</td></tr>
+<tr><th>Landwirtschaftlicher Rohstoff</th><th>Referenzpreis auf dem Inlandsmarkt der Schweiz</th><th>Referenzpreis auf dem Inlandsmarkt der EU</th><th>**Artikel 4 Absatz 1** **auf Schweizer Seite angewendete** Referenzpreis- differenz Schweiz/EU</th><th>**Artikel 3 Absatz 3** **auf EU-Seite** **angewendete** Referenzpreis- differenz Schweiz/EU</th></tr>
+<tr><th></th><th>CHF je 100 kg Eigengewicht</th><th>CHF je 100 kg Eigengewicht</th><th>CHF je 100 kg Eigengewicht</th><th>EUR je 100 kg Eigengewicht</th></tr>
+<tr><td>Weichweizen</td><td>55,03</td><td>34,01</td><td>21,00</td><td>0,00</td></tr>
+<tr><td>Hartweizen</td><td>–</td><td>–</td><td>1,20</td><td>0,00</td></tr>
+<tr><td>Roggen</td><td>45,00</td><td>30,60</td><td>14,40</td><td>0,00</td></tr>
+<tr><td>Gerste</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Mais</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Weichweizenmehl</td><td>95,24</td><td>60,71</td><td>34,55</td><td>0,00</td></tr>
+<tr><td>Vollmilchpulver</td><td>652,27</td><td>463,32</td><td>188,95</td><td>0,00</td></tr>
+<tr><td>Magermilchpulver</td><td>437,33</td><td>372,75</td><td>64,60</td><td>0,00</td></tr>
+<tr><td>Butter</td><td>1168,37</td><td>648,74</td><td>519,65</td><td>0,00</td></tr>
+<tr><td>Weißzucker</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Eier</td><td>–</td><td>–</td><td>38,00</td><td>0,00</td></tr>
+<tr><td>Kartoffeln, frisch</td><td>40,06</td><td>15,77</td><td>24,30</td><td>0,00</td></tr>
+<tr><td>Pflanzliche Fette</td><td>–</td><td>–</td><td>170,00</td><td>0,00</td></tr>
 </table>
 
 Tabelle IV[^t-6]
 
 ## Schweizerische Einfuhrreglung
 
-[^t-6]: Bereinigt durch Art. 1 des Beschlusses Nr. 2/2006 des Gemischten Ausschusses Schweiz–EU vom 31. Jan. 2006 ([AS 2006 1163](https://fedlex.data.admin.ch/eli/oc/2006/211)) und Art. 1 Bst. b des Beschlusses Nr. 1/2022 des Gemischten Ausschusses Schweiz–EU vom 8. Sept. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 539](https://fedlex.data.admin.ch/eli/oc/2022/539)).
+[^t-6]: Bereinigt durch Art. 1 des Beschlusses Nr. 2/2006 des Gemischten Ausschusses Schweiz–EU vom 31. Jan. 2006 ([AS 2006 1163](https://fedlex.data.admin.ch/eli/oc/2006/211)) und Art. 1 Bst. b des Beschlusses Nr. 1/2023 des Gemischten Ausschusses Schweiz–EU vom 12. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 308](https://fedlex.data.admin.ch/eli/oc/2023/308)).
 
 - a) Der Zoll auf die in der Anlage zu dieser Tabelle genannten Waren ist ein auf der Grundlage des Eigengewichts berechneter Agrarteilbetrag. Die Standardzusammensetzungen werden in der Anlage beschrieben.
 - b) Grundbeträge für die landwirtschaftlichen Rohstoffe, die bei der Berechnung der Agrarteilbeträge berücksichtigt werden:
 
 <table>
-<tr><th>Landwirtschaftlicher Rohstoff</th><th>**Auf Schweizer Seite** **angewendeter Grundbetrag** Art. 3 Abs. 2</th><th>**Auf EU-Seite** **angewendeter Grundbetrag** Art. 4 Abs. 2</th></tr>
+<tr><th>Landwirtschaftlicher Rohstoff</th><th>**Auf Schweizer Seite** **angewendeter Grundbetrag** Artikel 3 Absatz 2</th><th>**Auf EU-Seite** **angewendeter Grundbetrag** Artikel 4 Absatz 2</th></tr>
 <tr><th></th><th>CHF je 100 kg Eigengewicht</th><th>EUR je 100 kg Eigengewicht</th></tr>
-<tr><td>Weichweizen</td><td>23,00</td><td>0,00</td></tr>
+<tr><td>Weichweizen</td><td>17,10</td><td>0,00</td></tr>
 <tr><td>Hartweizen</td><td>1,00</td><td>0,00</td></tr>
-<tr><td>Roggen</td><td>19,80</td><td>0,00</td></tr>
+<tr><td>Roggen</td><td>11,05</td><td>0,00</td></tr>
 <tr><td>Gerste</td><td>–</td><td>–</td></tr>
 <tr><td>Mais</td><td>–</td><td>–</td></tr>
-<tr><td>Weichweizenmehl</td><td>36,60</td><td>0,00</td></tr>
-<tr><td>Vollmilchpulver</td><td>248,45</td><td>0,00</td></tr>
-<tr><td>Magermilchpulver</td><td>130,30</td><td>0,00</td></tr>
-<tr><td>Butter</td><td>570,15</td><td>0,00</td></tr>
-<tr><td>Weisszucker</td><td>–</td><td>–</td></tr>
+<tr><td>Weichweizenmehl</td><td>28,15</td><td>0,00</td></tr>
+<tr><td>Vollmilchpulver</td><td>154,00</td><td>0,00</td></tr>
+<tr><td>Magermilchpulver</td><td>52,65</td><td>0,00</td></tr>
+<tr><td>Butter</td><td>423,50</td><td>0,00</td></tr>
+<tr><td>Weißzucker</td><td>–</td><td>–</td></tr>
 <tr><td>Eier</td><td>30,95</td><td>0,00</td></tr>
-<tr><td>Kartoffeln, frisch</td><td>18,20</td><td>0,00</td></tr>
+<tr><td>Kartoffeln, frisch</td><td>18,55</td><td>0,00</td></tr>
 <tr><td>Pflanzliche Fette</td><td>138,55</td><td>0,00</td></tr>
 </table>
 
