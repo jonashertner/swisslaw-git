@@ -4,13 +4,12 @@ number: "741.1"
 title: Gesetz über die Strassenverkehrsabgaben
 short: SVAG
 language: de
-version: 2011-01-01
-valid_until: 2023-06-30
-version_adopted: 2010-07-07
+version: 2023-07-01
+version_adopted: 2023-02-15
 adopted: 2006-08-16
 in_force: 2007-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/741.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2225/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2685/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ SVAG
 
 (SVAG)
 
-vom 16.08.2006 (Stand 01.01.2011)
+vom 16.08.2006 (Stand 01.07.2023)
 
 ## 1. Strassenverkehrsabgaben
 
@@ -86,10 +85,10 @@ vom 16.08.2006 (Stand 01.01.2011)
   - 3\.1. bis 450 cm³ Hubraum — Fr. 105
   - 3\.2. Zuschlag für jede weitere volle oder angebrochene 200 cm³ — Fr. 27
 - 4\. Transportanhänger an Motorwagen und gewerblichen Motoreinachsern
-  - 4\.1. bis 1 000 kg Gesamtgewicht — Fr. 100
-  - 4\.2. 1 001 bis 2 500 kg Gesamtgewicht — Fr. 150
-  - 4\.3. 2 501 bis 5 000 kg Gesamtgewicht — Fr. 250
-  - 4\.4. über 5 000 kg Gesamtgewicht — Fr. 350
+  - 4\.1. bis 1'000 kg Gesamtgewicht — Fr. 100
+  - 4\.2. 1'001 bis 2'500 kg Gesamtgewicht — Fr. 150
+  - 4\.3. 2'501 bis 5'000 kg Gesamtgewicht — Fr. 250
+  - 4\.4. über 5'000 kg Gesamtgewicht — Fr. 350
 
 ### 2.3. Pauschale Steuer
 
@@ -108,26 +107,26 @@ vom 16.08.2006 (Stand 01.01.2011)
 - 1\. Motorfahrräder, Elektromotorfahrräder — Fr. 2.50
 - 2\. Kleinmotorräder, Elektromotorräder — Fr. 30
 - 3\. gewerbliche Arbeitsmaschinen
-  - 3\.1. bis 3 500 kg Gesamtgewicht — Fr. 72
-  - 3\.2. über 3 500 kg Gesamtgewicht — Fr. 144
+  - 3\.1. bis 3'500 kg Gesamtgewicht — Fr. 72
+  - 3\.2. über 3'500 kg Gesamtgewicht — Fr. 144
 - 4\. gewerbliche Arbeitskarren
-  - 4\.1. bis 2 500 kg Gesamtgewicht — Fr. 48
-  - 4\.2. 2 501 bis 5 000 kg Gesamtgewicht — Fr. 72
-  - 4\.3. über 5 000 kg Gesamtgewicht — Fr. 96
+  - 4\.1. bis 2'500 kg Gesamtgewicht — Fr. 48
+  - 4\.2. 2'501 bis 5'000 kg Gesamtgewicht — Fr. 72
+  - 4\.3. über 5'000 kg Gesamtgewicht — Fr. 96
 - 5\. gewerbliche Motorkarren
-  - 5\.1. bis 3 500 kg Gesamtgewicht — Fr. 48
-  - 5\.2. über 3 500 kg Gesamtgewicht — Fr. 120
+  - 5\.1. bis 3'500 kg Gesamtgewicht — Fr. 48
+  - 5\.2. über 3'500 kg Gesamtgewicht — Fr. 120
 - 6\. gewerbliche Motoreinachser — Fr. 48
 - 7\. Anhänger an Kleinmotorrädern — Fr. 24
 - 8\. Motorradanhänger — Fr. 50
 - 9\. Wohn- und Sportgeräteanhänger — Fr. 100
 - 10\. Schaustelleranhänger — Fr. 36
 - 11\. gewerbliche Arbeitsanhänger
-  - 11\.1. bis 1 500 kg Gesamtgewicht — Fr. 36
-  - 11\.2. über 1 500 kg Gesamtgewicht — Fr. 60
+  - 11\.1. bis 1'500 kg Gesamtgewicht — Fr. 36
+  - 11\.2. über 1'500 kg Gesamtgewicht — Fr. 60
 - 12\. landwirtschaftliche Motorfahrzeuge — Fr. 60
 - 13\. landwirtschaftliche Motoreinachser mit Anhänger, Arbeitskarren — Fr. 30
-- 14\. landwirtschaftliche Anhänger über 1 500 kg — Fr. 48
+- 14\. landwirtschaftliche Anhänger über 1'500 kg — Fr. 48
 - 15\. Händlerschilder
   - 15\.1. für Motorräder und Kleinmotorräder — Fr. 75
   - 15\.2. für Motorwagen — Fr. 400
@@ -145,8 +144,8 @@ vom 16.08.2006 (Stand 01.01.2011)
 
 - 1\. Motorräder, Kleinmotorräder und dreirädrige Fahrzeuge — Fr. 5
 - 2\. Motorwagen
-  - 2\.1. bis 3 500 kg Gesamtgewicht — Fr. 10
-  - 2\.2. über 3 500 kg Gesamtgewicht — Fr. 20
+  - 2\.1. bis 3'500 kg Gesamtgewicht — Fr. 10
+  - 2\.2. über 3'500 kg Gesamtgewicht — Fr. 20
   - 2\.3. Anhänger — Fr. 6
 
 ### 2.4. Besondere Bestimmungen
@@ -209,15 +208,15 @@ vom 16.08.2006 (Stand 01.01.2011)
 
 <sup>1</sup> Von der Steuer befreit sind:
 
-- 1\. der Kanton, die Feuerwehren und der Bund für ihre Dienstfahrzeuge;
-- 2\. Halterinnen oder Halter von ausschliesslich im öffentlichen, fahrplanmässigen Linienverkehr verwendeten Motorfahrzeugen und Anhängern für die entsprechenden Fahrzeuge.
+- 1\. der Kanton, die Feuerwehren, der Zivilschutz und der Bund für ihre Dienstfahrzeuge
+- 2\. Halterinnen oder Halter von ausschliesslich im öffentlichen, fahrplanmässigen Linienverkehr verwendeten Motorfahrzeugen und Anhängern für die entsprechenden Fahrzeuge
 
 <sup>2</sup> Der Kanton kann Halterinnen oder Halter im Einzelfall von der Steuer befreien oder die entsprechenden Ansätze reduzieren, wenn
 
-- 1\. sie behindert sind;
-- 2\. sie regelmässig behinderte Personen transportieren;
-- 3\. ihre Fahrzeuge nur teilweise im öffentlichen, fahrplanmässigen Verkehr eingesetzt werden;
-- 4\. ihre Fahrzeuge in verselbständigten Betrieben des Kantons eingesetzt werden;
+- 1\. sie behindert sind,
+- 2\. sie regelmässig behinderte Personen transportieren,
+- 3\. ihre Fahrzeuge nur teilweise im öffentlichen, fahrplanmässigen Verkehr eingesetzt werden,
+- 4\. ihre Fahrzeuge in verselbständigten Betrieben des Kantons eingesetzt werden,
 - 5\. ihre Fahrzeuge ausschliesslich für Aufgaben der Rettungsdienste verwendet werden.
 
 #### § 13a
@@ -246,7 +245,7 @@ vom 16.08.2006 (Stand 01.01.2011)
 
 **Grundsatz**
 
-<sup>1</sup> Vom Bruttoertrag der Verkehrssteuern gehen nach Abzug der Bezugsaufwendungen 15 % an die Gemeinden, der Rest an den Kanton.
+<sup>1</sup> Vom Bruttoertrag der Verkehrssteuern gehen nach Abzug der Bezugsaufwendungen 23 % an die Gemeinden, der Rest an den Kanton.
 
 <sup>2</sup> Der Abzug für die Bezugsaufwendungen beträgt 1 % des Bruttoertrages.
 
@@ -266,13 +265,13 @@ vom 16.08.2006 (Stand 01.01.2011)
 
 <sup>1</sup> Der Kantonsanteil gemäss § 15 Abs. 1 wird verwendet für
 
-- 1\. den Bau und Unterhalt von Strassen und Wegen des Kantons;
-- 2\. die Kosten der Verkehrspolizei, für Verkehrssicherheits- und Unfallverhütungsmassnahmen;
-- 3\. verkehrsbedingte Massnahmen im Umweltschutzbereich.
+- 1\. den Bau und Unterhalt von Strassen und Wegen des Kantons
+- 2\. die Kosten der Verkehrspolizei, für Verkehrssicherheits- und Unfallverhütungsmassnahmen
+- 3\. verkehrsbedingte Massnahmen im Umweltschutzbereich
 
 <sup>2</sup> Die Zuteilung erfolgt mit dem Staatsvoranschlag und der Staatsrechnung.
 
-## 4. Straf-, Übergangs- und Schlussbestimmungen
+## 4. Strafbestimmungen
 
 #### § 18
 
@@ -285,24 +284,8 @@ vom 16.08.2006 (Stand 01.01.2011)
 
 <sup>2</sup> Bei Steuerhinterziehung beträgt die Busse in der Regel das Fünf- bis Zehnfache des hinterzogenen Betrages.
 
-#### § 19
+#### § 19–21
 
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Die Vollziehungsverordnung des Regierungsrates vom 28. Dezember 1932 zum Bundesgesetz vom 15. März 1932 und zur eidgenössischen Vollziehungsverordnung vom 25. November 1932 über den Motorfahrzeug- und Fahrradverkehr wird aufgehoben.
-
-#### § 20
-
-**Übergangsbestimmung**
-
-<sup>1</sup> Der Gemeindeanteil gemäss § 15 Abs. 1 wird erstmals im auf das Jahr der Inkraftsetzung dieses Gesetzes folgenden Jahr ausbezahlt.
-
-#### § 21
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt auf einen durch den Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^21-1].
-
-[^21-1]: In Kraft gesetzt auf den 1. Januar 2007.
+**…**
 
 ABl. 34/2006
