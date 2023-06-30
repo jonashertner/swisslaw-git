@@ -4,13 +4,12 @@ number: "450.1"
 title: Gesetz zum Schutz und zur Pflege der Natur und der Heimat
 short: TG NHG
 language: de
-version: 2017-01-01
-valid_until: 2023-06-30
-version_adopted: 2016-08-31
+version: 2023-07-01
+version_adopted: 2022-10-03
 adopted: 1992-04-08
 in_force: 1994-04-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/450.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2147/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2681/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ TG NHG
 
 (TG NHG)
 
-vom 08.04.1992 (Stand 01.01.2017)
+vom 08.04.1992 (Stand 01.07.2023)
 
 ## 1. Allgemeines
 
@@ -35,18 +34,20 @@ vom 08.04.1992 (Stand 01.01.2017)
 
 <sup>3</sup> Die einheimische Tier- und Pflanzenwelt und ihr natürlicher Lebensraum sind zu schützen.
 
+<sup>4</sup> Die biologische Vielfalt (Biodiversität) ist zu fördern.
+
 #### § 2
 
 **Erhaltenswerte Objekte**
 
 <sup>1</sup> Erhaltenswerte Objekte können namentlich sein:
 
-- 1\. Lebensräume für Tiere und Pflanzen wie Hecken, Moore, Feuchtgebiete, Schilfgürtel, Uferzonen, Auenwälder, Magerwiesen, Trockenrasen;
-- 2\. Bäume und Baumgruppen ausserhalb des Waldareals, die das Landschaftsbild prägen;
-- 3\. besondere Landschaften wie Hochäcker- und Drumlinlandschaften, seltene Obst- und andere Gärten;
-- 4\. Siedlungen, Siedlungsteile, Baugruppen sowie Bauten, Bauteile oder Anlagen samt Ausstattung und Umgebung von kulturgeschichtlicher Bedeutung, die sich zum Beispiel durch architektonisch-formale oder handwerkliche Qualitäten auszeichnen;
-- 5\. Stätten von historischer Bedeutung;
-- 6\. archäologische Fundstellen oder Objekte, archäologisch wichtige Orte oder Gebiete sowie Erdbauwerke oder Ruinen.
+- 1\. Lebensräume für Tiere und Pflanzen wie Hecken, Moore, Feuchtgebiete, Schilfgürtel, Uferzonen, Auenwälder, Magerwiesen, Trockenrasen
+- 2\. Bäume und Baumgruppen ausserhalb des Waldareals, die das Landschaftsbild prägen
+- 3\. besondere Landschaften wie Hochäcker- und Drumlinlandschaften, seltene Obst- und andere Gärten
+- 4\. Siedlungen, Siedlungsteile, Baugruppen sowie Bauten, Bauteile oder Anlagen samt Ausstattung und Umgebung von kulturgeschichtlicher Bedeutung, die sich zum Beispiel durch architektonisch-formale oder handwerkliche Qualitäten auszeichnen
+- 5\. Stätten von historischer Bedeutung
+- 6\. archäologische Fundstellen oder Objekte, archäologisch wichtige Orte oder Gebiete sowie Erdbauwerke oder Ruinen
 
 <sup>2</sup> Hinweise auf erhaltenswerte Objekte ergeben sich vor allem aus Inventaren, Sach- und Richtplänen des Bundes, des Kantons und der Gemeinden.
 
@@ -54,7 +55,7 @@ vom 08.04.1992 (Stand 01.01.2017)
 
 **Verpflichtung des Gemeinwesens**
 
-<sup>1</sup> Kanton, Gemeinden und die übrigen öffentlich-rechtlichen Körperschaften oder Anstalten nehmen bei der Erfüllung ihrer Aufgaben Rücksicht auf Natur und Heimat, namentlich auch durch Bewahrung erhaltenswerter Objekte.
+<sup>1</sup> Kanton, Gemeinden und die übrigen öffentlich-rechtlichen Körperschaften oder Anstalten nehmen bei der Erfüllung ihrer Aufgaben Rücksicht auf die Ziele dieses Gesetzes, namentlich auch durch Bewahrung erhaltenswerter Objekte.
 
 ## 2. Stellung der Eigentümer und weiterer Berechtigter
 
@@ -86,7 +87,7 @@ vom 08.04.1992 (Stand 01.01.2017)
 
 <sup>1</sup> Eingriffe in Objekte, die nach § 10, § 12 oder § 16 geschützt sind, bedürfen einer Bewilligung. Unterhalt und Pflege im üblichen Rahmen sind davon ausgenommen.
 
-<sup>2</sup> Zuständig ist bei Objekten, welche durch Anordnungen gemäss § 10 oder § 12 geschützt sind, die Ortsbehörde, bei Schutzobjekten aufgrund von § 16 das Departement für Bau und Umwelt. Die zuständigen Fachstellen des Kantons beraten Ortsbehörde und Gesuchsteller.
+<sup>2</sup> Zuständig ist bei Objekten, welche durch Anordnungen gemäss § 10 oder § 12 geschützt sind, die Gemeindebehörde, bei Schutzobjekten aufgrund von § 16 das Departement für Bau und Umwelt. Die zuständigen Fachstellen des Kantons beraten Gemeindebehörde und Gesuchsteller.
 
 <sup>3</sup> Das Bewilligungsverfahren richtet sich sinngemäss nach den entsprechenden Bestimmungen des Planungs- und Baugesetzes (PBG)[^7-1].
 
@@ -116,7 +117,19 @@ vom 08.04.1992 (Stand 01.01.2017)
 
 <sup>1</sup> Die Gemeinden sichern Schutz und Pflege erhaltenswerter Objekte in erster Linie durch Reglemente oder Nutzungspläne nach PBG. Zum gleichen Zweck können die Gemeindebehörden Anordnungen über erhaltenswerte Einzelobjekte durch Entscheid treffen.
 
-<sup>2</sup> Die Anordnungen der Gemeinden können in Eingliederungs- oder Gestaltungsvorschriften, Abbruchverboten, Nutzungsbeschränkungen, umfassenden Eingriffsverboten oder Bewirtschaftungsvorschriften bestehen. Sie haben den Grundsatz der Verhältnismässigkeit in sachlicher und örtlicher Hinsicht zu wahren.
+<sup>1<sup>bis</sup></sup> Entscheide im Sinne von Abs. 1 werden mit ihrer Aufnahme in den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster) rechtswirksam. Der Regierungsrat regelt das Aufnahmeverfahren.
+
+<sup>2</sup> Die Anordnungen der Gemeinden können in Eingliederungs- oder Gestaltungsvorschriften, Abbruchverboten, Nutzungsbeschränkungen, umfassenden Eingriffsverboten oder Bewirtschaftungsvorschriften bestehen. Sie haben den Grundsatz der Verhältnismässigkeit in sachlicher und örtlicher Hinsicht zu wahren, wobei insbesondere die übergeordneten raumplanerischen Ziele, die noch vorhandene Bausubstanz und die wirtschaftliche Zumutbarkeit zu berücksichtigen sind.
+
+#### § 10a
+
+**Schutz von Bauten, Bauteilen oder Anlagen**
+
+<sup>1</sup> Die Anordnungen der Gemeinden bei Bauten, Bauteilen oder Anlagen samt Ausstattung und Umgebung im Sinne von § 2 Abs. 1 Ziff. 4 umfassen:
+
+- 1\. die äussere Bausubstanz und die tragenden Bauteile mit Aussenwirkung
+- 2\. die Umgebung, soweit sie für den wirksamen Schutz des Objekts notwendig ist
+- 3\. die innere Bausubstanz wie Decken, Wände, Böden und Ausstattungen sowie die Raumaufteilung und die Vertikalerschliessung, sofern diese von herausragender kulturgeschichtlicher Bedeutung sind
 
 #### § 11
 
@@ -178,16 +191,16 @@ vom 08.04.1992 (Stand 01.01.2017)
 
 **Finanzielle Leistungen des Kantons**
 
-<sup>1</sup> Der Kanton kann einmalige oder wiederkehrende Beiträge ausrichten, insbesondere
+<sup>1</sup> Der Kanton kann einmalige oder wiederkehrende Beiträge ausrichten, insbesondere:
 
-- 1\. für die Pflege, die Restaurierung oder den Schutz der Umgebung erhaltenswerter Objekte,
-- 2\. für die Wiederherstellung erhaltenswerter Natur- oder Landschaftsobjekte,
-- 3\. zum Schutz einheimischer Tiere oder Pflanzen und ihres natürlichen Lebensraums,
-- 4\. für Massnahmen zum ökologischen Ausgleich,
-- 5\. für Beschränkungen der Bewirtschaftung des Bodens,
-- 6\. an Leistungen von Gemeinden oder Privaten für den Erwerb von Rechten an erhaltenswerten Objekten sowie an Entschädigungsleistungen von Gemeinden bei materieller Enteignung,
-- 7\. zur objekt- oder projektbezogenen Unterstützung privater Organisationen des Natur- und Heimatschutzes,
-- 8\. an den Abbruch nicht mehr genutzter Bauten oder Anlagen ausserhalb des Baugebietes, deren Beseitigung im Interesse des Natur- oder Landschaftsschutzes liegt.
+- 1\. für die Pflege, die Restaurierung oder den Schutz der Umgebung erhaltenswerter Objekte
+- 2\. für die Wiederherstellung erhaltenswerter Natur- oder Landschaftsobjekte
+- 3\. zum Schutz einheimischer Tiere oder Pflanzen und ihres natürlichen Lebensraums
+- 4\. für Massnahmen zum ökologischen Ausgleich
+- 5\. für Beschränkungen der Bewirtschaftung des Bodens
+- 6\. an Leistungen von Gemeinden oder Privaten für den Erwerb von Rechten an erhaltenswerten Objekten sowie an Entschädigungsleistungen von Gemeinden bei materieller Enteignung
+- 7\. zur objekt- oder projektbezogenen Unterstützung privater Organisationen des Natur- und Heimatschutzes
+- 8\. an den Abbruch nicht mehr genutzter Bauten oder Anlagen ausserhalb des Baugebietes, deren Beseitigung im Interesse des Natur- oder Landschaftsschutzes liegt
 
 <sup>2</sup> Die Höhe des Beitrags richtet sich namentlich nach der Bedeutung des Objektes oder Projektes und den anrechenbaren Kosten. An den Beitrag können Bedingungen oder Auflagen, insbesondere in Verbindung mit der Pflicht zur Rückerstattung, geknüpft werden. Eigentümer oder andere Berechtigte haben Anspruch auf angemessene Beiträge, sofern Anordnungen von Gemeinden oder des Kantons die Nutzung einschränken oder zu erheblichen finanziellen Belastungen führen.
 
@@ -209,20 +222,49 @@ vom 08.04.1992 (Stand 01.01.2017)
 
 <sup>2</sup> Er informiert die Bevölkerung über die Anliegen des Natur- und Heimatschutzes.
 
+#### § 20a
+
+**Biodiversitätsstrategie und Massnahmenplan Biodiversität**
+
+<sup>1</sup> Der Regierungsrat legt eine Strategie zur Förderung der Biodiversität fest und überprüft diese periodisch auf Inhalt und Wirkung.
+
+<sup>2</sup> Für die Umsetzung der Strategie beschliesst er für jeweils vier Jahre den Massnahmenplan Biodiversität.
+
+<sup>3</sup> Strategie, Massnahmenplan Biodiversität und Finanzbedarf sind dem Grossen Rat zur Kenntnis zu bringen.
+
 #### § 21
 
-**Spezialfinanzierung**
+**Spezialfinanzierung Denkmalpflege und Archäologie**
 
-<sup>1</sup> Zur Erfüllung der Aufgaben gemäss § 17 bis § 20 wird eine Spezialfinanzierung geführt. Sie wird gespeist durch:
+<sup>1</sup> Zur Erfüllung der Aufgaben in den Bereichen Denkmalpflege und Archäologie gemäss § 18 bis § 20 wird eine Spezialfinanzierung geführt. Sie wird gespeist durch:
 
-- 1\. allgemeine Staatsmittel;
-- 2\. zweckgebundene Beiträge und Abgeltungen des Bundes.
+- 1\. allgemeine Staatsmittel
+- 2\. zweckgebundene Beiträge und Abgeltungen des Bundes
 
 <sup>2</sup> Der Grosse Rat entscheidet über die Höhe der Einlagen aus allgemeinen Staatsmitteln mit dem Voranschlag.
 
 <sup>3</sup> Für denkmalpflegerische Belange können zusätzliche Einlagen aus dem Lotteriefonds getätigt werden.
 
 <sup>4</sup> Über die Verwendung der Spezialfinanzierung entscheidet der Regierungsrat.
+
+#### § 21a
+
+**Spezialfinanzierung Natur, Landschaft und Biodiversität**
+
+<sup>1</sup> Zur Erfüllung der Aufgaben in den Bereichen Natur, Landschaft und Biodiversität gemäss § 17 bis § 20a wird eine Spezialfinanzierung geführt.
+
+<sup>2</sup> Der Spezialfinanzierung werden auch die Personalkosten des Kantons für die Planung, Koordination und Umsetzung des Massnahmenplans Biodiversität belastet.
+
+<sup>3</sup> Die Spezialfinanzierung wird gespeist durch:
+
+- 1\. allgemeine Staatsmittel
+- 2\. zweckgebundene Beiträge und Abgeltungen des Bundes
+
+<sup>4</sup> Mit dem Budget sind der Spezialfinanzierung jährlich 6 Mio. Franken als Übertrag aus den allgemeinen Mitteln zuzuweisen. Übersteigt der Bestand der Spezialfinanzierung 24 Mio. Franken, kann auf die jährliche Zuweisung ganz oder teilweise verzichtet werden.
+
+<sup>5</sup> Der Grosse Rat kann zusätzliche Mittel in die Spezialfinanzierung einlegen.
+
+<sup>6</sup> Über die Verwendung der Spezialfinanzierung entscheidet der Regierungsrat.
 
 ## 4. Besondere Bestimmungen
 
@@ -281,6 +323,14 @@ vom 08.04.1992 (Stand 01.01.2017)
 **Beiträge der Gemeinden gemäss § 15**
 
 <sup>1</sup> Bis zur Rechtskraft der Anordnungen der Gemeinden gemäss § 10 gilt für die Pflicht der Gemeinden zu Beitragsleistungen im Bereich der Denkmalpflege das bisherige Recht.
+
+#### § 27b
+
+**Schutz von Bauten, Bauteilen oder Anlagen gemäss § 10a**
+
+<sup>1</sup> Bei Anordnungen, die vor Inkrafttreten von § 10a erlassen worden sind, wird der Schutzumfang im Rahmen der Entscheide über einen Eingriff gemäss § 7 oder eines Gesuchs gemäss § 13 auf seine Übereinstimmung mit § 10a überprüft und bei Bedarf konkretisiert.
+
+<sup>2</sup> Für nicht im ÖREB-Kataster publizierte Anordnungen, die vor dem Erlass von § 10a in Kraft getreten sind, ist im Rahmen der Überprüfung und Konkretisierung gemäss Abs. 1 das Aufnahmeverfahren gemäss den Vorgaben des Regierungsrates nachzuholen. Eine fehlende Publikation im Kataster hat keinen Einfluss auf die Rechtswirksamkeit dieser Anordnungen.
 
 #### § 28–30
 
