@@ -4,13 +4,12 @@ number: "142.21"
 title: Personalgesetz
 short: PG
 language: de
-version: 2019-06-01
-valid_until: 2023-06-30
-version_adopted: 2018-09-24
+version: 2023-07-01
+version_adopted: 2023-03-27
 adopted: 2005-10-24
 in_force: 2008-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/142.21"
-pdf: "https://ar.clex.ch/api/de/versions/1260/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1470/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1260/pdf_file"
 
 (PG)
 
-vom 24.10.2005 (Stand 01.06.2019)
+vom 24.10.2005 (Stand 01.07.2023)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -333,7 +332,7 @@ beschliesst:
 
 - a) während die oder der Angestellte schweizerischen obligatorischen Militär- oder Schutzdienst oder schweizerischen Zivildienst leistet sowie während 4 Wochen vorher und nachher, sofern die Dienstleistung mehr als 11 Kalendertage dauert;
 - b) während 180 Kalendertagen, an denen die oder der Angestellte ohne eigenes Verschulden durch Krankheit oder Unfall ganz oder teilweise an der Arbeitsleistung verhindert ist;
-- c) während der Schwangerschaft und in den 112 Kalendertagen nach der Geburt eines Kindes;
+- c) während der Schwangerschaft und in den 112 Kalendertagen nach der Geburt eines Kindes; die Sperrfrist verlängert sich im Falle von Art. 42 Abs. 2<sup>bis</sup> um die Dauer der Hospitalisierung, höchstens aber um 56 Kalendertage;
 - d) während die oder der Angestellte mit Zustimmung des Arbeitgebers an einer von der zuständigen Bundesbehörde angeordneten Dienstleistung für eine Hilfsaktion im Ausland teilnimmt.
 
 <sup>2</sup> Die Kündigungsfrist beginnt mit Empfang der Kündigung durch die Angestellte oder den Angestellten zu laufen.
@@ -474,9 +473,11 @@ beschliesst:
 
 **Lohnfortzahlung bei Mutterschaft**
 
-<sup>1</sup> Die Lohnfortzahlung bei Mutterschaft richtet sich unter Vorbehalt von Abs. 2 nach dem Erwerbsersatzgesetz[^42-1].
+<sup>1</sup> Die Lohnfortzahlung bei Mutterschaft richtet sich unter Vorbehalt von Abs. 2 und 2<sup>bis</sup> nach dem Erwerbsersatzgesetz[^42-1].
 
 <sup>2</sup> Die Lohnfortzahlung beträgt 100 % des Lohnes und dauert 112 Kalendertage. Der Mutterschaftsurlaub beginnt frühestens 14 Kalendertage vor der voraussichtlichen Geburt des Kindes und ist zusammenhängend zu beziehen.
+
+<sup>2<sup>bis</sup></sup> Hat das Kind mindestens 14 Kalendertage im Spital verbracht, verlängert sich die Lohnfortzahlung gemäss Abs. 2 um die Dauer der Hospitalisierung, höchstens aber um 56 Kalendertage.
 
 <sup>3</sup> Der Arbeitgeber schliesst für den Teil der Lohnfortzahlung, welcher die Leistungen nach EOG übersteigt, eine Versicherung ab. Die Prämie wird je zur Hälfte vom Arbeitgeber und den Angestellten getragen.
 
@@ -594,7 +595,7 @@ beschliesst:
 
 <sup>2</sup> Die Kalendertage der einzelnen Gründe einer Arbeitsverhinderung werden zusammengerechnet.
 
-<sup>3</sup> Der Bezug des Mutterschaftsurlaubes nach Art. 42 hat keine Kürzung des Ferienanspruches zur Folge.
+<sup>3</sup> Der Bezug des Mutterschafts-, Elternschafts-, Adoptions- oder Betreuungsurlaubs hat keine Kürzung des Ferienanspruches zur Folge.
 
 #### Art. 52
 
@@ -636,9 +637,31 @@ beschliesst:
 
 #### Art. 54a
 
-**Vaterschaftsurlaub**
+**Elternschaftsurlaub**
 
-<sup>1</sup> Ein Angestellter hat Anspruch auf bezahlten Vaterschaftsurlaub von 5 Arbeitstagen. Dieser ist im ersten Lebensjahr des Kindes zu beziehen.
+<sup>1</sup> Angestellte haben bei Vaterschaft oder Elternschaft nach Art. 255*a* ZGB[^54a-1] Anspruch auf einen bezahlten Urlaub von 10 Arbeitstagen. Dieser ist innerhalb eines Jahres seit der Geburt des Kindes zu beziehen.
+
+[^54a-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+
+#### Art. 54b
+
+**Adoptionsurlaub**
+
+<sup>1</sup> Angestellte, welche ein weniger als vier Jahre altes Kind zur Adoption aufnehmen, haben Anspruch auf einen bezahlten Urlaub von 10 Arbeitstagen. Dieser ist innerhalb eines Jahres seit der Aufnahme des Kindes zu beziehen.
+
+<sup>2</sup> Kein Anspruch entsteht bei einer Stiefkindadoption nach Art. 264*c* ZGB[^54b-1].
+
+[^54b-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+
+#### Art. 54c
+
+**Betreuungsurlaub**
+
+<sup>1</sup> Angestellte, deren Kind im Sinne von Art. 16*o* EOG[^54c-1] gesundheitlich schwer beeinträchtigt ist, haben Anspruch auf einen bezahlten Betreuungsurlaub von höchstens 70 Arbeitstagen. Pro Krankheitsfall oder Unfall entsteht nur ein Anspruch.
+
+<sup>2</sup> Der Betreuungsurlaub kann am Stück oder innerhalb einer Rahmenfrist von 18 Monaten tageweise bezogen werden.
+
+[^54c-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
 
 ## VI. Weitere Rechte
 
@@ -946,6 +969,12 @@ beschliesst:
 <sup>3</sup> Für ordentliche und vorzeitige Pensionierungen, die vor Inkrafttreten dieses Gesetzes erfolgten, gilt bisheriges Recht bezüglich der Übergangsleistungen bis zum Pensionsalter nach dem Bundesgesetz über die Alters- und Hinterlassenenversicherung[^77-1]
 
 [^77-1]: AHVG (SR [831.10](https://db.clex.ch/link/Bund/831.10/de))
+
+#### Art. 77a
+
+**Übergangsbestimmung zur Änderung vom 27. März 2023**
+
+<sup>1</sup> Der Anspruch auf Vaterschaftsurlaub für Geburten, die sich vor dem Inkrafttreten dieser Änderung ereigneten, richtet sich nach dem bisherigen Recht.
 
 #### Art. 78
 
