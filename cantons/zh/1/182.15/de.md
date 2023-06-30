@@ -4,11 +4,10 @@ number: "182.15"
 title: "Entschädigungsreglement der Römisch-katholischen Körperschaft des Kantons Zürich (Entschädigungsreglement, ER)"
 short: ER
 language: de
-version: "2021-10-01"
-nachtrag: "114"
-valid_until: 2023-07-01
+version: "2023-07-01"
+nachtrag: "121"
 adopted: 2009-10-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_15-2009_10_01-2010_01_01-114.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_15-2009_10_01-2010_01_01-121.html"
 text: pdf
 ---
 
@@ -42,95 +41,87 @@ gen der Synode, der Geschäftsleitung, der Kommissionen und der Fraktionen eine 
 
 <sup>2</sup> Die Geschäftsleitung regelt den Auszahlungsmodus der Entschädigungen.
 
-#### Art. 2
+**Grundentschädigung**
 
-**Grund-**
+Art. 2[^1-1] <sup>1</sup> Es werden folgende Grundentschädigungen ausgerichtet:
 
-Es werden folgende Grundentschädigungen ausgerichtet:
-
-**Fr. 500 pro Jahr entschädigung**
+**Fr. 500 pro Jahr**
 
 - a. für die Synodalen
 
-**Fr. 1000 pro Jahr**
+**Fr. 1 500 pro Jahr**
 
-- b. für die Präsidentin oder den Präsidenten der ständigen Kommissionen c.[^2-1] für die Präsidentin oder den Präsidenten der Fraktionen
+- b. für die Präsidentin oder den Präsidenten der ständigen Kommissionen c.[^1-2] für die Präsidentin oder den Präsidenten der Fraktionen
 
-**Fr. 1000 pro Jahr Fr. 1000 pro Jahr**
+**Fr. 1000 pro Jahr Fr. 1 500 pro Jahr**
 
 - d. für die Mitglieder der Geschäftsleitung
 
-**Fr. 8000 pro Jahr**
+**Fr. 10 000 pro Jahr**
 
 - e. für die Präsidentin oder den Präsidenten der Synode
 
-[^2-1]: Eingefügt durch B vom 15. April 2021 (OS 76, 306; ABl 2021-04-30). In Kraft seit 1. Oktober 2021.
+**Fr. 750 pro Jahr**
 
-#### Art. 3
+- f. für die Mitglieder der ständigen Kommissionen
 
-**Sitzungsgeld**
-
-<sup>1</sup> Das Sitzungsgeld beträgt
-
-**Fr. 100**
-
-- a. für Sitzungen bis zu 2 Stunden Dauer (einfaches Sitzungsgeld)
-
-**Fr. 150**
-
-- b. für Sitzungen bis 4 Stunden (Halbtagessitzungen der Synode)
+<sup>2</sup> Die Grundentschädigung gemäss Abs. 1 lit. a wird nicht zusätzlich zu den Entschädigungen gemäss Abs. 1 lit. b–f ausgerichtet.
 
 **1**
 
-1.10. 21 - 114 c. für Sitzungen über 4 Stunden (Ganztagessitzungen der Synode) d.[^3-1] für die Teilnahme an Fraktionssitzungen
+- 1\. 7. 23 - 121 Art. 3[^1-1] <sup>1</sup> Das Sitzungsgeld beträgt:
 
-**Fr. 250 Fr. 150**
+**Sitzungsgeld**
+
+**Fr. 110**
+
+- a. für Sitzungen bis zu 2 Stunden Dauer (einfaches Sitzungsgeld)
+
+**Fr. 165**
+
+- b. für Sitzungen bis 4 Stunden sowie Halbtagessitzungen der Synode
+
+**Fr. 275 Fr. 165**
+
+- c. für Sitzungen über 4 Stunden sowie Ganztagessitzungen der Synode
+
+- d. für die Teilnahme an Fraktionssitzungen
 
 <sup>2</sup> Für die Berechnung der Sitzungsdauer ist das Protokoll massgebend.
 
-<sup>3</sup> Für offizielle Verpflichtungen erhält die Präsidentin oder der Präsident der Synode oder die Stellvertretung ein Sitzungsgeld gemäss Art. 3.
-
-[^3-1]: Fassung gemäss Berichtigung vom 2. Juli 2010 (OS 65, 479).
-
-#### Art. 4
+<sup>3</sup> Für offizielle Verpflichtungen erhalten die von der Geschäftsleitung definierten Delegierten der Synode pro Anlass eine Pauschalentschädigung von Fr. 165.
 
 **Sitzungsgeld für die Vorsitzenden**
 
-Der oder dem Vorsitzenden der Sitzungen der Synode, der Geschäftsleitung und der Kommissionen wird das doppelte Sitzungsgeld ausgerichtet.
-
-#### Art. 5
+Art. 4[^1-1] Der oder dem Vorsitzenden der Sitzungen der Synode, der Geschäftsleitung, der Kommissionen und der Fraktionen wird das doppelte Sitzungsgeld ausgerichtet.
 
 **Protokollführung durch Synodalen**
 
-<sup>1</sup> Übernehmen Synodalen die Protokollführung an einer
-
-Sitzung der Geschäftsleitung oder von Kommissionen, wird ein doppeltes einfaches Sitzungsgeld ausgerichtet.
+Art. 5[^1-1] <sup>1</sup> Übernehmen Synodalen die Protokollführung an einer Sitzung der Geschäftsleitung oder der Kommissionen, wird ein doppeltes einfaches Sitzungsgeld ausgerichtet.
 
 <sup>2</sup> Die Bereinigung von Synodensitzungsprotokollen wird abgegolten mit:
 
-**Fr. 100 Fr. 150**
+**Fr. 165 Fr. 275**
 
 - a. bei Halbtagessitzungen
 
 - b. bei Ganztagessitzungen
 
-#### Art. 6
-
 **Verpflegungspauschale**
 
-<sup>1</sup> Für die Teilnahme an den Sitzungen der Synode wird eine
+Art. 6[^1-1] <sup>1</sup> Für die Teilnahme an den Sitzungen der Synode wird eine Verpflegungspauschale von Fr. 30 ausgerichtet.
 
-Verpflegungspauschale von Fr. 20 ausgerichtet.
+<sup>2</sup> Für die Teilnahme an den Sitzungen der Geschäftsleitung und der Kommissionen wird eine Verpflegungspauschale von Fr. 15 ausgerichtet, sofern keine Verpflegung zur Verfügung gestellt wird.
 
-<sup>2</sup> Für die Teilnahme an den Sitzungen der Geschäftsleitung und von Kommissionen wird eine Verpflegungspauschale von Fr. 10 ausgerichtet.
+<sup>3</sup> Finden am gleichen Tag mehrere Sitzungen statt, wird die Verpflegungspauschale nur einmal ausgerichtet.
 
-<sup>3</sup> Finden am gleichen Tag mehrere Sitzungen statt, wird der Zuschlag nur einmal ausgerichtet.
-
-[^6-1]: Eingefügt durch B vom 10. September 2020 (OS 75, 479; ABl 2020-09-25). In Kraft seit 1. Januar 2021.
+[^1-1]: Fassung gemäss B vom 13. April 2023 (OS 78, 208; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
+[^1-2]: Eingefügt durch B vom 15. April 2021 (OS 76, 306; ABl 2021-04-30). In Kraft seit 1. Oktober 2021.
+[^1-3]: Eingefügt durch B vom 10. September 2020 (OS 75, 479; ABl 2020-09-25). In Kraft seit 1. Januar 2021.
 
 #### Art. 6 a
 
-**IT-Entschädigung**[^6-1]
+**IT-Entschädigung**[^1-3]
 
 **Für die Bereitstellung der IT-Infrastruktur wird den Syn-**
 
@@ -144,21 +135,23 @@ odalen eine jährliche Entschädigung von Fr. 250 ausgerichtet.
 
 tung und der Kommissionen werden nach dem Tarif des öffentlichen Verkehrsmittels 2. Klasse entschädigt.
 
-<sup>2</sup> Der Ersatz weiterer Spesen richtet sich sinngemäss nach den Bestimmungen der Anstellungsordnung.
+<sup>2</sup> Den Mitgliedern der Geschäftsleitung und der ständigen Kommissionen wird der Betrag für ein Halbtax-Abonnement vergütet. Die Entschädigung gemäss Abs. 1 erfolgt zum Halbtax-Tarif.[^7-1]
+
+<sup>3</sup> Der Ersatz weiterer Spesen richtet sich sinngemäss nach den Bestimmungen der Anstellungsordnung.
+
+[^7-1]: Eingefügt durch B vom 13. April 2023 (OS 78, 208; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
 
 ### II. Entschädigung der Fraktionen
 
-**Entschädigung für den Vorsitz der Sitzungen der Fraktionen**
+[^hIIEntschädigungde-1]: Aufgehoben durch B vom 13. April 2023 (OS 78, 208; ABl 2023-05-05). In Kraft seit 1. Juli 2023. 1. 7. 23 - 121 5
 
-Art. 8[^hIIEntschädigungde-1] Der oder dem Vorsitzenden der Sitzungen der Fraktionen wird das doppelte Sitzungsgeld ausgerichtet.
+#### Art. 8
 
-[^hIIEntschädigungde-1]: Fassung gemäss B vom 15. April 2021 (OS 76, 306; ABl 2021-04-30). In Kraft seit 1. Oktober 2021. 1.10. 21 - 114 5
+**Spesen bei Fraktionssitzungen**[^hIIEntschädigungde-1]
 
-#### Art. 9
+Art. 9[^8-1] Bei Fraktionssitzungen werden das Essen und die Getränke nach Abrechnung und bis zu einem Höchstbetrag von Fr. 15 pro teilnehmende Person vergütet.
 
-**Spesen bei Fraktionssitzungen**
-
-Bei Fraktionssitzungen werden das Essen und die Getränke nach Abrechnung vergütet.
+[^8-1]: Fassung gemäss B vom 13. April 2023 (OS 78, 208; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
 
 ### III. Freier Kredit
 
@@ -168,17 +161,18 @@ Bei Fraktionssitzungen werden das Essen und die Getränke nach Abrechnung vergü
 
 Der Geschäftsleitung steht für besondere Auslagen ein freier Kredit von Fr. 5000 pro Jahr zur Verfügung.
 
-#### Art. 11
+**Freier Kredit der ständigen Kommissionen und Fraktionen**
 
-**Freier Kredit der ständigen Kommissionen**
+Art. 11[^10-1] <sup>1</sup> Den ständigen Kommissionen steht für besondere Auslagen ein freier Kredit von Fr. 1200 pro Jahr zur Verfügung.
 
-Den ständigen Kommissionen steht für besondere Auslagen ein freier Kredit von Fr. 1000 pro Jahr zur Verfügung.
+<sup>2</sup> Den Fraktionen steht pro Legislatur ein freier Kredit von Fr. 2000 zur Verfügung.
 
-[^11-1]: Fassung gemäss B vom 12. April 2018 (OS 73, 197; ABl 2018-05-04). In Kraft seit 1. Juli 2018.
+[^10-1]: Fassung gemäss B vom 13. April 2023 (OS 78, 208; ABl 2023-05-05). In Kraft seit 1. Juli 2023.
+[^10-2]: Fassung gemäss B vom 12. April 2018 (OS 73, 197; ABl 2018-05-04). In Kraft seit 1. Juli 2018.
 
 ### B. Synodalrat und Kommissionen
 
-[^11-1]
+[^10-2]
 
 [^hBSynodalratundKo-1]: Eingefügt durch B vom 12. April 2018 (OS 73, 197; ABl 2018-05-04). In Kraft seit 1. Juli 2018.
 
@@ -212,7 +206,7 @@ Der Spesenersatz der Mitglieder des Synodalrates richtet sich sinngemäss nach d
 
 **3**
 
-1.10. 21 - 114
+- 1\. 7. 23 - 121
 
 [^15-1]: Eingefügt durch B vom 12. April 2018 (OS 73, 197; ABl 2018-05-04). In Kraft seit 1. Juli 2018.
 
@@ -306,3 +300,8 @@ Dieses Reglement tritt auf den 1. Januar 2010 in Kraft.
 **Übergangsbestimmungen**
 
 Für den Synodalrat beträgt die Jahresentschädigung ab dem 1. Januar 2010 bis zum Ende der Amtsdauer 2007–2011 anteilsmässig 90% der Ansätze gemäss Art. 12, 13 und 14 dieses Reglementes.
+
+## Weitere Fussnoten
+
+- [4] Fassung gemäss Berichtigung vom 2. Juli 2010 (OS 65, 479).
+- [11] Fassung gemäss B vom 15. April 2021 (OS 76, 306; ABl 2021-04-30). In Kraft seit 1. Oktober 2021.
