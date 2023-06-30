@@ -3,20 +3,19 @@ canton: GL
 number: VIII D/6/5
 title: Verordnung über den Vollzug des Einführungsgesetzes zum Bundesgesetz über die Arbeitsvermittlung und den Personalverleih sowie des Einführungsgesetzes zum Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung
 language: de
-version: 2014-09-01
-valid_until: 2023-06-30
-version_adopted: 2014-04-22
+version: 2023-07-01
+version_adopted: 2023-05-16
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-D.6.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/1549/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2428/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Vollzug des Einführungsgesetzes zum Bundesgesetz über die Arbeitsvermittlung und den Personalverleih sowie des Einführungsgesetzes zum Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung
 
-Vom 21.03.2006 (Stand 01.09.2014)
+Vom 21.03.2006 (Stand 01.07.2023)
 
 Der Regierungsrat,
 
@@ -30,13 +29,13 @@ verordnet:
 
 #### Art. 1
 
-**Departement für Volkswirtschaft und Inneres**
+**Departement Volkswirtschaft und Inneres**
 
-<sup>1</sup> Das Departement für Volkswirtschaft und Inneres überwacht den Vollzug der Gesetzgebung über die Arbeitsvermittlung und den Personalverleih und über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung. Insbesondere übt es die Aufsicht über das Arbeitsamt und über das regionale Arbeitsvermittlungszentrum aus.
+<sup>1</sup> Das Departement Volkswirtschaft und Inneres überwacht den Vollzug der Gesetzgebung über die Arbeitsvermittlung und den Personalverleih und über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung. Insbesondere übt es die Aufsicht über das Arbeitsamt und über das regionale Arbeitsvermittlungszentrum aus.
 
 #### Art. 2
 
-**Funktionen des Arbeitsamtes**
+**Arbeitsamt**
 
 <sup>1</sup> Das Arbeitsamt im Sinne des Einführungsgesetzes zum Bundesgesetz über die Arbeitsvermittlung und den Personalverleih ist zugleich die kantonale Verwaltungsbehörde im Sinne von Artikel 2 des Einführungsgesetzes zum Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung; es erfüllt in dieser Funktion die Aufgaben gemäss Artikel 85 des Bundesgesetzes über die Arbeitslosenversicherung und die Insolvenzentschädigung.
 
@@ -44,7 +43,7 @@ verordnet:
 
 #### Art. 3
 
-**Arbeitslosenkasse des Kantons Glarus**
+**Arbeitslosenkasse**
 
 <sup>1</sup> Die Organisation der Arbeitslosenkasse richtet sich nach der Verordnung über die Arbeitslosenkasse des Kantons Glarus[^3-1].
 
@@ -52,11 +51,7 @@ verordnet:
 
 #### Art. 4
 
-**Ausgesteuertenhilfe**
-
-<sup>1</sup> Die Durchführung der Ausgesteuertenhilfe richtet sich nach der Verordnung über die Hilfeleistung an ausgesteuerte versicherte Arbeitslose[^4-1].
-
-[^4-1]: GS [VIII D/6/6](https://gesetze.gl.ch/data/VIII-D.6.6/de)
+**…**
 
 #### Art. 5
 
