@@ -4,11 +4,11 @@ title: "Swiss Criminal Procedure Code of 5 October 2007 (Criminal Procedure Code
 short: CrimPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: en
-version: 2023-01-23
+version: 2023-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230123/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230123-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230123/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Criminal Procedure Code, CrimPC)
 
-of 5 October 2007 (Status as of 23 January 2023)
+of 5 October 2007 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -301,7 +301,7 @@ The following offences in the SCC[^23-1] are subject to federal jurisdiction:
 - h. the offences in Article 260<sup>bis</sup> and in Titles Thirteen to Fifteen and in Title Seventeen, provided they are directed against the Confederation, the authorities of the Confederation, the will of the People in federal elections, popular votes, requests for a referendum or initiatives, against federal powers or against the administration of federal justice;
 - i. the felonies and misdemeanours in Title Sixteen;
 - j. the offences in Titles Eighteen and Nineteen insofar as they are committed by a member of an authority or an employee of the Confederation or against the Confederation;
-- k. the contraventions in Articles 329–331;
+- k.[^23-5] the contraventions in Articles 329 and 331;
 - l. political felonies and misdemeanours that are the cause or consequence of unrest that gives rise to armed federal intervention.
 
 <sup>2</sup> The regulations contained in special federal acts on the jurisdiction of the Federal Criminal Court are reserved.
@@ -310,6 +310,7 @@ The following offences in the SCC[^23-1] are subject to federal jurisdiction:
 [^23-2]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^23-3]: Amended by Annex No II 1 of the Fixed Penalties Act of 18 March 2016, in force since 1 Jan. 2018 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 [^23-4]: Amended by No I 3 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statute of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^23-5]: Amended by No I 12 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 24
 
@@ -450,13 +451,14 @@ The public prosecutor and the courts may separate or combine criminal proceeding
 
 **Place of jurisdiction in the case of Debt Enforcement and Bankruptcy offences and criminal proceedings against corporate undertakings**
 
-<sup>1</sup> In the case of offences in accordance with Articles 163–171<sup>bis</sup> SCC[^36-1], the authorities at the domicile, place of habitual residence or registered office of the debtor have jurisdiction responsible.
+<sup>1</sup> In the case of offences in accordance with Articles 163–171 SCC[^36-1], the authorities at the domicile, place of habitual residence or registered office of the debtor have jurisdiction responsible.[^36-2]
 
 <sup>2</sup> For criminal proceedings against a corporate undertaking in terms of Article 102 SCC, the authorities at the registered office of the undertaking have jurisdiction. The foregoing also applies if a person acting for the undertaking is also being prosecuted for the same offence.
 
 <sup>3</sup> In the absence of a place of jurisdiction in accordance with paragraphs 1 and 2, jurisdiction is established in accordance with Articles 31–35.
 
 [^36-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-2]: Amended by No I 12 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 37
 
@@ -3508,7 +3510,7 @@ The public prosecutor may arrange for post and telecommunications to be monitore
 
 Surveillance may be ordered in the investigation of the offences under the following Articles:
 
-- a.[^269-1] SCC: Articles 111–113, 115, 118 paragraph 2, 122, 124, 127, 129, 135, 138–140, 143, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146–148, 156, 157 number 2, 158 number 1 paragraph 3 and number 2, 160, 163 number 1, 180, 181, 182–185, 187, 188 number 1, 189–191, 192 paragraph 1, 195–197, 220, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 226, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 238 paragraph 1, 240 paragraph 1, 242, 244, 251 number 1, 258, 259 paragraph 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 285, 301, 303 number 1, 305, 305<sup>bis</sup> number 2, 310, 312, 314, 317 number 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> and 322<sup>septies</sup>;
+- a.[^269-1] SCC: Articles 111–113, 115, 118 paragraph 2, 122, 124, 127, 129, 135, 138–140, 143, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146–148, 156, 157 number 2, 158 number 1 paragraph 3 and number 2, 160, 163 number 1, 180, 181, 182–185, 187, 188 number 1, 189–191, 192 paragraph 1, 195–197, 220, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 226, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 240 paragraph 1, 242, 244, 251 number 1, 258, 259 paragraph 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 285, 301, 303 number 1, 305, 305<sup>bis</sup> number 2, 310, 312, 314, 317 number 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> and 322<sup>septies</sup>;
 - b.[^269-2] Foreign Nationals and Integration Act[^269-3] of 16 December 2005[^269-4]: Articles 116 paragraph 3 and 118 paragraph 3;
 - c. Federal Act of 22 June 2001[^269-5] on the Hague Convention on Adoption and on Measures to Protect Children in International Adoption Cases: Article 24;
 - d.[^269-6] War Material Act of 13 December 1996[^269-7]: Articles 33 paragraph 2 and 34–35*b*;
@@ -3525,7 +3527,7 @@ Surveillance may be ordered in the investigation of the offences under the follo
 
 <sup>3</sup> If the adjudication an offence subject to military jurisdiction is assigned to the jurisdiction of the civil courts, the surveillance of post and telecommunications may also be ordered in the investigation of the offences under Article 70 paragraph 2 of the Military Criminal Procedure Code of 23 March 1979[^269-25].
 
-[^269-1]: Amended by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-1]: Amended by No I 12 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^269-2]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^269-3]: Title amended on 1 Jan. 2019 in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). This change has been made throughout the text.
 [^269-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -3655,15 +3657,15 @@ Information under paragraph 1 need not be separated beforehand if:
 
 **Subscriber information, location identification and technical transmission features**[^273-1]
 
-<sup>1</sup> If there is a strong suspicion that a felony or misdemeanour or a contravention in terms of Article 179<sup>septies</sup> SCC[^273-2] has been committed, and if the requirements of Article 269 paragraph 1 letters b and c of this Code are met, the public prosecutor may request metadata relating to telecommunications in accordance with Article 8 letter b of the Federal Act of 18 March 2016[^273-3] on the Surveillance of Postal and Telecommunications Traffic (SPTA) and metadata relating to post in accordance with Article 19 paragraph 1 letter b SPTA relating to the person under surveillance.
+<sup>1</sup> If there is a strong suspicion that a felony or misdemeanour has been committed, and if the requirements of Article 269 paragraph 1 letters b and c of this Code are met, the public prosecutor may request metadata relating to telecommunications in accordance with Article 8 letter b of the Federal Act of 18 March 2016[^273-2] on the Surveillance of Postal and Telecommunications Traffic (SPTA) and metadata relating to post in accordance with Article 19 paragraph 1 letter b SPTA relating to the person under surveillance.[^273-3]
 
 <sup>2</sup> The order requires the approval of the compulsory measures court.
 
 <sup>3</sup> The information mentioned in paragraph 1 may be requested irrespective of the duration of surveillance and for the 6 months prior to the date of the request.
 
 [^273-1]: Amended by Annex No II 1 of the FA of 18 March 2016 on the Surveillance of Postal and Telecommunications Traffic, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^273-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^273-3]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^273-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^273-3]: Amended by No I 12 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 274
 
@@ -3876,7 +3878,7 @@ The public prosecutor may order an undercover investigation if:
 
 An undercover investigation is permitted in respect of offences under the following Articles:
 
-- a.[^286-1] SCC: Articles 111–113, 122, 124, 129, 135, 138–140, 143 paragraph 1, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146 paragraphs 1 and 2, 147 paragraphs 1 and 2, 148, 156, 160, 182–185, 187, 188 number 1, 189 paragraphs 1 and 3, 190 paragraphs 1 and 3, 191, 192 paragraph 1, 195, 196, 197 paragraphs 3–5, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 238 paragraph 1, 240 paragraph 1, 242, 244 paragraph 2, 251 number 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 301, 305<sup>bis</sup> number 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup>, 322<sup>septies</sup>;
+- a.[^286-1] SCC: Articles 111–113, 122, 124, 129, 135, 138–140, 143 paragraph 1, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146 paragraphs 1 and 2, 147 paragraphs 1 and 2, 148, 156, 160, 182–185, 187, 188 number 1, 189 paragraphs 1 and 3, 190 paragraphs 1 and 3, 191, 192 paragraph 1, 195, 196, 197 paragraphs 3–5, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 240 paragraph 1, 242, 244 paragraph 2, 251 number 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 301, 305<sup>bis</sup> number 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> and 322<sup>septies</sup>;
 - b.[^286-2] Foreign Nationals and Integration Act of 16. December 2005[^286-3]: Articles 116 paragraph 3 and 118 paragraph 3;
 - c. Federal Act of 22. June 2001[^286-4] on the Hague Convention on Adoption and on Measures to Protect Children in International Adoption Cases: Article 24;
 - d.[^286-5] War Material Act of 13 December 1996[^286-6]: Articles 33 paragraph 2 and 34–35*b*;
@@ -3891,7 +3893,7 @@ An undercover investigation is permitted in respect of offences under the follow
 
 <sup>3</sup> If the adjudication an offence subject to military jurisdiction is assigned to the jurisdiction of the civil courts, an undercover investigation may also be ordered in respect of offences under Article 70 paragraph 2 of the Military Criminal Procedure Code of 23 March 1979[^286-21].
 
-[^286-1]: Amended by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-1]: Amended by No I 12 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^286-2]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^286-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^286-4]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)

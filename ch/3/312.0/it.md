@@ -4,11 +4,11 @@ title: "Codice di diritto processuale penale svizzero del 5 ottobre 2007 (Codice
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: it
-version: 2023-01-23
+version: 2023-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230123-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230123/it"
 
 (Codice di procedura penale, CPP)
 
-del 5 ottobre 2007 (Stato 23 gennaio 2023)
+del 5 ottobre 2007 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -299,7 +299,7 @@ Sottostanno alla giurisdizione federale i seguenti reati previsti nel CP[^23-1]:
 - h. i reati di cui all’articolo 260<sup>bis</sup> e ai titoli da tredicesimo a quindicesimo e diciassettesimo, in quanto diretti contro la Confederazione o le sue autorità, contro la volontà popolare in elezioni, votazioni e domande di referendum o d’iniziativa federali o contro l’autorità o la giustizia federali;
 - i. i crimini e i delitti di cui al titolo sedicesimo;
 - j. i reati di cui ai titoli diciottesimo e diciannovesimo, in quanto commessi da un membro di un’autorità federale o da un impiegato federale o diretti contro la Confederazione;
-- k. le contravvenzioni di cui agli articoli 329–331;
+- k.[^23-6] le contravvenzioni di cui agli articoli 329 e 331;
 - l. i crimini e delitti politici che sono causa o conseguenza di disordini tali da rendere necessario un intervento federale armato.
 
 <sup>2</sup> Sono fatte salve le disposizioni concernenti la competenza del Tribunale penale federale previste in leggi federali speciali.
@@ -309,6 +309,7 @@ Sottostanno alla giurisdizione federale i seguenti reati previsti nel CP[^23-1]:
 [^23-3]: Nuovo testo giusta l’all. n. II 1 della L del 18 mar. 2016 sulle multe disciplinari, in vigore dal 1° gen. 2018 ([RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725); [FF 2015 869](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 [^23-4]: Correzione della Commissione di redazione dell’AF del 20 dic. 2013, pubblicata il 21 gen. 2014 ([RU 2014 243](https://fedlex.data.admin.ch/eli/oc/2014/38)).
 [^23-5]: Nuovo testo giusta il n. I 3 della LF del 18 giu. 2010 che modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)),
+[^23-6]: Nuovo testo giusta il n. I 12 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 24
 
@@ -449,13 +450,14 @@ Per motivi sostanziali, il pubblico ministero e il giudice possono disgiungere o
 
 **Foro in caso di reati nell’esecuzione per debiti e nel fallimento e in caso di procedimenti penali contro imprese**
 
-<sup>1</sup> In caso di reati secondo gli articoli 163–171<sup>bis</sup> CP[^36-1], sono competenti le autorità del luogo di domicilio, di dimora abituale o di sede del debitore.
+<sup>1</sup> In caso di reati secondo gli articoli 163–171 CP[^36-1], sono competenti le autorità del luogo di domicilio, di dimora abituale o di sede del debitore.[^36-2]
 
 <sup>2</sup> Per i procedimenti penali contro imprese secondo l’articolo 102 CP sono competenti le autorità del luogo di sede dell’impresa. Lo stesso vale se il procedimento è diretto, per il medesimo fatto, anche contro una persona che agisce per l’impresa.
 
 <sup>3</sup> Se non è dato alcun foro secondo i capoversi 1 e 2, il foro si determina secondo gli articoli 31–35.
 
 [^36-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-2]: Nuovo testo giusta il n. I 12 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 37
 
@@ -3503,7 +3505,7 @@ Il pubblico ministero può disporre la sorveglianza della corrispondenza postale
 
 La sorveglianza può essere disposta per perseguire i reati di cui alle disposizioni seguenti:
 
-- a.[^269-1] CP[^269-2]: articoli 111–113, 115, 118 capoverso 2, 122, 124, 127, 129, 135, 138–140, 143, 144 capoverso 3, 144<sup>bis</sup> numero 1 secondo comma e numero 2 secondo comma, 146–148, 156, 157 numero 2, 158 numero 1 terzo comma e numero 2, 160, 163 numero 1, 180–185<sup>bis</sup>, 187, 188 numero 1, 189–191, 192 capoverso 1, 195–197, 220, 221 capoversi 1 e 2, 223 numero 1, 224 capoverso 1, 226, 227 numero 1 primo comma, 228 numero 1 primo comma, 230<sup>bis</sup>, 231, 232 numero 1, 233 numero 1, 234 capoverso 1, 237 numero 1, 238 capoverso 1, 240 capoverso 1, 242, 244, 251 numero 1, 258, 259 capoverso 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 numero 2, 273, 274 numero 1 secondo comma, 285, 301, 303 numero 1, 305, 305<sup>bis</sup> numero 2, 310, 312, 314, 317 numero 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> e 322<sup>septies</sup>;
+- a.[^269-1] CP[^269-2]: articoli 111–113, 115, 118 capoverso 2, 122, 124, 127, 129, 135, 138–140, 143, 144 capoverso 3, 144<sup>bis</sup> numero 1 secondo comma e numero 2 secondo comma, 146–148, 156, 157 numero 2, 158 numero 1 terzo comma e numero 2, 160, 163 numero 1, 180–185<sup>bis</sup>, 187, 188 numero 1, 189–191, 192 capoverso 1, 195–197, 220, 221 capoversi 1 e 2, 223 numero 1, 224 capoverso 1, 226, 227 numero 1 primo comma, 228 numero 1 primo comma, 230<sup>bis</sup>, 231, 232 numero 1, 233 numero 1, 234 capoverso 1, 237 numero 1, 240 capoverso 1, 242, 244, 251 numero 1, 258, 259 capoverso 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 numero 2, 273, 274 numero 1 secondo comma, 285, 301, 303 numero 1, 305, 305<sup>bis</sup> numero 2, 310, 312, 314, 317 numero 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> e 322<sup>septies</sup>;
 - b.[^269-3] legge federale del 16 dicembre 2005[^269-4] sugli stranieri e la loro integrazione[^269-5]: articoli 116 capoverso 3 e 118 capoverso 3;
 - c. legge federale del 22 giugno 2001[^269-6] relativa alla Convenzione dell’Aia sull’adozione e a provvedimenti per la protezione del minore nelle adozioni internazionali: articolo 24;
 - d.[^269-7] legge federale del 13 dicembre 1996[^269-8] sul materiale bellico: articoli 33 capoverso 2 e 34–35*b*;
@@ -3520,7 +3522,7 @@ La sorveglianza può essere disposta per perseguire i reati di cui alle disposiz
 
 <sup>3</sup> Se il giudizio di un reato che sottostà alla giurisdizione militare è deferito alla giurisdizione ordinaria, la sorveglianza può inoltre essere disposta per perseguire i reati di cui all’articolo 70 capoverso 2 della procedura penale militare del 23 marzo 1979[^269-26].
 
-[^269-1]: Nuovo testo giusta l’all. n. II 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-1]: Nuovo testo giusta il n. I 12 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^269-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^269-3]: Nuovo testo giusta l’all. n. II 7 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^269-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -3651,15 +3653,15 @@ La cernita delle informazioni secondo il capoverso 1 non è necessaria se:
 
 **Identificazione degli utenti, localizzazione e caratteristiche tecniche della corrispondenza**[^273-1]
 
-<sup>1</sup> Se sussiste il grave sospetto che sia stato commesso un crimine o un delitto o una contravvenzione a tenore dell’articolo 179<sup>septies</sup> CP[^273-2] e se le condizioni di cui all’articolo 269 capoverso 1 lettere b e c del presente Codice sono soddisfatte, il pubblico ministero può esigere che gli siano forniti i metadati delle telecomunicazioni ai sensi dell’articolo 8 lettera b della legge federale del 18 marzo 2016[^273-3] sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (LSCPT) e i metadati postali ai sensi dell’articolo 19 capoverso 1 lettera b LSCPT relativi alla persona sorvegliata.
+<sup>1</sup> Se sussiste il grave sospetto che sia stato commesso un crimine o un delitto e se le condizioni di cui all’articolo 269 capoverso 1 lettere b e c del presente Codice sono soddisfatte, il pubblico ministero può esigere che gli siano forniti i metadati delle telecomunicazioni ai sensi dell’articolo 8 lettera b della legge federale del 18 marzo 2016[^273-2] sulla sorveglianza della corrispondenza postale e del traffico delle telecomu-nicazioni (LSCPT) e i metadati postali ai sensi dell’articolo 19 capoverso 1 lettera b LSCPT relativi alla persona sorvegliata.[^273-3]
 
 <sup>2</sup> L’ordine di fornire tali informazioni sottostà all’approvazione del giudice dei provvedimenti coercitivi.
 
 <sup>3</sup> L’ordine di fornire le informazioni può essere dato con effetto retroattivo fino a sei mesi, indipendentemente dalla durata della sorveglianza.
 
 [^273-1]: Nuovo testo giusta l’all. n. II 1 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^273-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^273-3]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^273-2]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^273-3]: Nuovo testo giusta il n. I 12 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 274
 
@@ -3874,7 +3876,7 @@ Il pubblico ministero può disporre un’inchiesta mascherata se:
 
 L’inchiesta mascherata può essere disposta per perseguire i reati di cui alle disposizioni seguenti:
 
-- a.[^286-1] CP[^286-2]: articoli 111–113, 122, 124, 129, 135, 138–140, 143 capoverso 1, 144 capoverso 3, 144<sup>bis</sup> numero 1 secondo comma e numero 2 secondo comma, 146 capoversi 1 e 2, 147 capoversi 1 e 2, 148, 156, 160, 182–185<sup>bis</sup>, 187, 188 numero 1, 189 capoversi 1 e 3, 190 capoversi 1 e 3, 191, 192 capoverso 1, 195, 196, 197 capoversi 3–5, 221 capoversi 1 e 2, 223 numero 1, 224 capoverso 1, 227 numero 1 primo comma, 228 numero 1 primo comma, 230<sup>bis</sup>, 231, 232 numero 1, 233 numero 1, 234 capoverso 1, 237 numero 1, 238 capoverso 1, 240 capoverso 1, 242, 244 capoverso 2, 251 numero 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 numero 2, 273, 274 numero 1 secondo comma, 301, 305<sup>bis</sup> numero 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup>, 322<sup>septies</sup>;
+- a.[^286-1] CP[^286-2]: articoli 111–113, 122, 124, 129, 135, 138–140, 143 capoverso 1, 144 capoverso 3, 144<sup>bis</sup> numero 1 secondo comma e numero 2 secondo comma, 146 capoversi 1 e 2, 147 capoversi 1 e 2, 148, 156, 160, 182–185<sup>bis</sup>, 187, 188 numero 1, 189 capoversi 1 e 3, 190 capoversi 1 e 3, 191, 192 capoverso 1, 195, 196, 197 capoversi 3–5, 221 capoversi 1 e 2, 223 numero 1, 224 capoverso 1, 227 numero 1 primo comma, 228 numero 1 primo comma, 230<sup>bis</sup>, 231, 232 numero 1, 233 numero 1, 234 capoverso 1, 237 numero 1, 240 capoverso 1, 242, 244 capoverso 2, 251 numero 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 numero 2, 273, 274 numero 1 secondo comma, 301, 305<sup>bis</sup> numero 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> e 322<sup>septies</sup>;
 - b.[^286-3] legge federale del 16 dicembre 2005[^286-4] sugli stranieri e la loro integrazione: articoli 116 capoverso 3 e 118 capoverso 3;
 - c. legge federale del 22 giugno 2001[^286-5] relativa alla Convenzione dell’Aia sull’adozione e a provvedimenti per la protezione del minore nelle adozioni internazionali: articolo 24;
 - d.[^286-6] legge federale del 13 dicembre 1996[^286-7] sul materiale bellico: articoli 33 capoverso 2 e 34–35*b*;
@@ -3889,7 +3891,7 @@ L’inchiesta mascherata può essere disposta per perseguire i reati di cui alle
 
 <sup>3</sup> Se il giudizio di un reato che sottostà alla giurisdizione militare è deferito alla giurisdizione ordinaria, l’inchiesta mascherata può inoltre essere disposta per perseguire i reati di cui all’articolo 70 capoverso 2 della procedura penale militare del 23 marzo 1979[^286-22].
 
-[^286-1]: Nuovo testo giusta l’all. n. II 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-1]: Nuovo testo giusta il n. I 12 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^286-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^286-3]: Nuovo testo giusta l’all. n. II 7 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^286-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -6246,8 +6248,8 @@ Le leggi federali qui appresso sono modificate come segue:
 
 …[^annex1-lvlu1-3]
 
-[^annex1-lvlu1-1]: [CS **3** 286; [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)n. III 4, [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 2, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 4, [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 15 [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)all. n. 2, [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 7, [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)n. I 3 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)n. II 3 [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)n. II, [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)n. I 3 [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)n. II 1 [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)all. n. 2 [3308](https://fedlex.data.admin.ch/eli/oc/2001/492), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 9, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 4, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 19, [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)all. n. 10, [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811), [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)all. n. 1 [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)all. 1 n. 6 [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)all. n. 3, [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)all. n. II 3]
-[^annex1-lvlu1-2]: [[RU 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 29 [5437](https://fedlex.data.admin.ch/eli/oc/2006/823)art. 2 n. 2, [2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. n. II 6]
+[^annex1-lvlu1-1]: [CS **3** 286; [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)n. III 4; [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 2; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 4; [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 15, [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)all. n. 2; [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 7; [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)n. I 3, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)n. II 3, [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)n. II; [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)n. I 3, [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)n. II 1, [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)all. n. 2, [3308](https://fedlex.data.admin.ch/eli/oc/2001/492); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 9; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 4; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 19; [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)all. n. 10; [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811); [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)all. n. 1, [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)all. 1 n. 6, [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)all. n. 3; [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)all. n. II 3]
+[^annex1-lvlu1-2]: [[RU 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 29, [5437](https://fedlex.data.admin.ch/eli/oc/2006/823)art. 2 n. 2; [2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. n. II 6]
 [^annex1-lvlu1-3]: Le mod. possono essere consultate alla [RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267).
 
 Allegato 2

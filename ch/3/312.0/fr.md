@@ -4,11 +4,11 @@ title: "Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure 
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: fr
-version: 2023-01-23
+version: 2023-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230123-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230123/fr"
 
 (Code de procédure pénale, CPP)
 
-du 5 octobre 2007 (État le 23 janvier 2023)
+du 5 octobre 2007 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -299,7 +299,7 @@ Les infractions suivantes au CP[^23-1] sont soumises à la juridiction fédéral
 - h. les infractions visées à l’art. 260<sup>bis</sup> ainsi qu’aux titres 13 à 15 et au titre 17, en tant qu’elles ont été commises contre la Confédération, les autorités fédérales, contre la volonté populaire dans les élections, les votations, les demandes de référendum ou les initiatives fédérales, ou contre l’autorité ou la justice fédérale;
 - i. les crimes et délits visés au titre 16;
 - j. les infractions visées aux titres 18 et 19 commises par un membre des autorités fédérales ou par un employé de la Confédération ou les infractions commises contre la Confédération;
-- k. les contraventions visées aux art. 329 à 331;
+- k.[^23-6] les contraventions visées aux art. 329 et 331;
 - l. les crimes et les délits politiques qui sont la cause ou la conséquence de troubles ayant causé une intervention fédérale armée.
 
 <sup>2</sup> Les dispositions des lois fédérales spéciales qui concernent la compétence du Tribunal pénal fédéral sont réservées.
@@ -309,6 +309,7 @@ Les infractions suivantes au CP[^23-1] sont soumises à la juridiction fédéral
 [^23-3]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^23-4]: Nouvelle teneur selon l’annexe ch. II 1 de la L de l’Ass. féd. du 18 mars 2016 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725); [FF 2015 909](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 [^23-5]: Nouvelle teneur selon le ch. I 3 de la LF du 18 juin 2010 portant mod. de LF en vue de la mise en œuvre du Statut de Rome de la Cour pénale internationale, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3461](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^23-6]: Nouvelle teneur selon le ch. I 12 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 24
 
@@ -449,13 +450,14 @@ Si des raisons objectives le justifient, le ministère public et les tribunaux p
 
 **For des infractions en matière de poursuite pour dettes et de faillite et des infractions commises au sein d’une entreprise**
 
-<sup>1</sup> L’autorité du lieu où le débiteur a son domicile ou sa résidence habituelle ou celle du lieu où le débiteur a son siège est compétente pour poursuivre les infractions visées aux art. 163 à 171<sup>bis</sup> CP[^36-1].
+<sup>1</sup> L’autorité du lieu où le débiteur a son domicile ou sa résidence habituelle ou celle du lieu où le débiteur a son siège est compétente pour poursuivre les infractions visées aux art. 163 à 171 CP[^36-1].[^36-2]
 
 <sup>2</sup> L’autorité du lieu où l’entreprise a son siège est compétente pour poursuivre les infractions commises au sein d’une entreprise au sens de l’art. 102 CP. Elle est également compétente lorsque la même procédure pour le même état de fait est aussi dirigée contre une personne agissant au nom de l’entreprise.
 
 <sup>3</sup> Lorsque le for ne peut être fixé selon les al. 1 et 2, il est déterminé selon les art. 31 à 35.
 
 [^36-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-2]: Nouvelle teneur selon le ch. I 12 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 37
 
@@ -3504,7 +3506,7 @@ Le ministère public peut ordonner la surveillance de la correspondance par post
 
 Une surveillance peut être ordonnée aux fins de poursuivre les infractions visées par les dispositions suivantes:
 
-- a.[^269-1] CP: art. 111 à 113, 115, 118, al. 2, 122, 124, 127, 129, 135, 138 à 140, 143, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146 à 148, 156, 157, ch. 2, 158, ch. 1, par. 3, et ch. 2, 160, 163, ch. 1, 180 à 185<sup>bis</sup>, 187, 188, ch. 1, 189 à 191, 192, al. 1, 195 à 197, 220, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 226, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 238, al. 1, 240, al. 1, 242, 244, 251, ch. 1, 258, 259, al. 1, 260<sup>bis</sup> à 260<sup>sexies</sup>, 261<sup>bis</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 285, 301, 303, ch. 1, 305, 305<sup>bis</sup>, ch. 2, 310, 312, 314, 317, ch. 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
+- a.[^269-1] CP: art. 111 à 113, 115, 118, al. 2, 122, 124, 127, 129, 135, 138 à 140, 143, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146 à 148, 156, 157, ch. 2, 158, ch. 1, par. 3, et ch. 2, 160, 163, ch. 1, 180 à 185<sup>bis</sup>, 187, 188, ch. 1, 189 à 191, 192, al. 1, 195 à 197, 220, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 226, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 240, al. 1, 242, 244, 251, ch. 1, 258, 259, al. 1, 260<sup>bis</sup> à 260<sup>sexies</sup>, 261<sup>bis</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 285, 301, 303, ch. 1, 305, 305<sup>bis</sup>, ch. 2, 310, 312, 314, 317, ch. 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
 - b.[^269-2] loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^269-3]: art. 116, al. 3, et 118, al. 3;
 - c. loi fédérale du 22 juin 2001 relative à la Convention de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale[^269-4]: art. 24;
 - d.[^269-5] loi fédérale du 13 décembre 1996 sur le matériel de guerre[^269-6]: art. 33, al. 2, et 34 à 35*b*;
@@ -3521,7 +3523,7 @@ Une surveillance peut être ordonnée aux fins de poursuivre les infractions vis
 
 <sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction militaire est délégué à une juridiction civile, la surveillance de la correspondance par poste et télécommunication peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 70, al. 2, de la procédure pénale militaire du 23 mars 1979[^269-24].
 
-[^269-1]: Nouvelle teneur selon l’annexe ch. II 3 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-1]: Nouvelle teneur selon le ch. I 12 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^269-2]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^269-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
 [^269-4]: [RS 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
@@ -3650,15 +3652,15 @@ Le tri préalable des informations visé à l’al. 1 ne doit pas être effectu�
 
 **Identification des usagers, localisation et caractéristiques techniques de la correspondance**[^273-1]
 
-<sup>1</sup> Lorsque de graves soupçons laissent présumer qu’un crime, un délit ou une contravention au sens de l’art. 179<sup>septies</sup> CP[^273-2] a été commis et que les conditions visées à l’art. 269, al. 1, let. b et c du présent code, sont remplies, le ministère public peut exiger que lui soient fournies les données secondaires de télécommunication au sens de l’art. 8, let. b, de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication (LSCPT)[^273-3] et les données secondaires postales au sens de l’art. 19, al. 1, let. b, LSCPT de la personne surveillée.
+<sup>1</sup> Lorsque de graves soupçons laissent présumer qu’un crime ou un délit a été commis et que les conditions visées à l’art. 269, al. 1, let. b et c, du présent code sont remplies, le ministère public peut exiger que lui soient fournies les données secondaires de télécommunication au sens de l’art. 8, let. b, de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication (LSCPT)[^273-2] et les données secondaires postales au sens de l’art. 19, al. 1, let. b, LSCPT de la personne surveillée.[^273-3]
 
 <sup>2</sup> L’ordre de surveillance est soumis à l’autorisation du tribunal des mesures de contrainte.
 
 <sup>3</sup> Les données mentionnées à l’al. 1 peuvent être demandées avec effet rétroactif sur une période de six mois au plus, indépendamment de la durée de la surveillance.
 
 [^273-1]: Nouvelle teneur selon l’annexe ch. II 1 de la LF du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^273-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^273-3]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^273-2]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^273-3]: Nouvelle teneur selon le ch. I 12 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 274
 
@@ -3871,7 +3873,7 @@ Le ministère public peut ordonner une investigation secrète aux conditions sui
 
 L’investigation secrète peut être ordonnée aux fins de poursuivre les infractions visées par les dispositions suivantes:
 
-- a.[^286-1] CP: art. 111 à 113, 122, 124, 129, 135, 138 à 140, 143, al. 1, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146, al. 1 et 2, 147, al. 1 et 2, 148, 156, 160, 182 à 185<sup>bis</sup>, 187, 188, ch. 1, 189, al. 1 et 3, 190, al. 1 et 3, 191, 192, al. 1, 195, 196, 197, al. 3 à 5, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 238, al. 1, 240, al. 1, 242, 244, al. 2, 251, ch. 1, 260<sup>bis</sup> à 260<sup>sexies</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 301, 305<sup>bis</sup>, ch. 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
+- a.[^286-1] CP: art. 111 à 113, 122, 124, 129, 135, 138 à 140, 143, al. 1, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146, al. 1 et 2, 147, al. 1 et 2, 148, 156, 160, 182 à 185<sup>bis</sup>, 187, 188, ch. 1, 189, al. 1 et 3, 190, al. 1 et 3, 191, 192, al. 1, 195, 196, 197, al. 3 à 5, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 240, al. 1, 242, 244, al. 2, 251, ch. 1, 260<sup>bis</sup> à 260<sup>sexies</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 301, 305<sup>bis</sup>, ch. 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
 - b.[^286-2] loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^286-3]: art. 116, al. 3, et 118, al. 3;
 - c. loi fédérale du 22 juin 2001 relative à la Convention de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale[^286-4]: art. 24;
 - d.[^286-5] loi fédérale du 13 décembre 1996 sur le matériel de guerre[^286-6]: art. 33, al. 2, et 34 à 35*b*;
@@ -3886,7 +3888,7 @@ L’investigation secrète peut être ordonnée aux fins de poursuivre les infra
 
 <sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction militaire est délégué à une juridiction civile, l’investigation secrète peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 70, al. 2, de la procédure pénale militaire du 23 mars 1979[^286-21].
 
-[^286-1]: Nouvelle teneur selon l’annexe ch. II 3 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-1]: Nouvelle teneur selon le ch. I 12 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^286-2]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^286-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^286-4]: [RS 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)

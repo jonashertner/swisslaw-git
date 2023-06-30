@@ -4,11 +4,11 @@ title: "Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordn
 short: StPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: de
-version: 2023-01-23
+version: 2023-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230123-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230123/de"
 
 (Strafprozessordnung, StPO)
 
-vom 5. Oktober 2007 (Stand am 23. Januar 2023)
+vom 5. Oktober 2007 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -299,7 +299,7 @@ Der Bundesgerichtsbarkeit unterstehen folgende Straftaten des StGB[^23-1]:
 - h. die Straftaten des Artikels 260<sup>bis</sup> sowie des dreizehnten bis fünfzehnten und des siebzehnten Titels, sofern sie gegen den Bund, die Behörden des Bundes, gegen den Volkswillen bei eidgenössischen Wahlen, Abstimmungen, Referendums- oder Initiativbegehren, gegen die Bundesgewalt oder gegen die Bundesrechtspflege gerichtet sind;
 - i. die Verbrechen und Vergehen des sechzehnten Titels;
 - j. die Straftaten des achtzehnten und neunzehnten Titels, sofern sie von einem Behördenmitglied oder Angestellten des Bundes oder gegen den Bund verübt wurden;
-- k. die Übertretungen der Artikel 329–331;
+- k.[^23-5] die Übertretungen der Artikel 329 und 331;
 - l. die politischen Verbrechen und Vergehen, die Ursache oder Folge von Unruhen sind, durch die eine bewaffnete eidgenössische Intervention veranlasst wird.
 
 <sup>2</sup> Die in besonderen Bundesgesetzen enthaltenen Vorschriften über die Zuständigkeit des Bundesstrafgerichts bleiben vorbehalten.
@@ -308,6 +308,7 @@ Der Bundesgerichtsbarkeit unterstehen folgende Straftaten des StGB[^23-1]:
 [^23-2]: Fassung gemäss Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^23-3]: Fassung gemäss Anhang Ziff. II 1 des Ordnungsbussengesetzes vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 [^23-4]: Fassung gemäss Ziff. I 3 des BG vom 18. Juni 2010 über die Änderung von Bundesgesetzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^23-5]: Fassung gemäss Ziff. I 12 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 24
 
@@ -448,13 +449,14 @@ Die Staatsanwaltschaft und die Gerichte können aus sachlichen Gründen Strafver
 
 **Gerichtsstand bei Betreibungs- und Konkursdelikten und bei Strafverfahren gegen Unternehmen**
 
-<sup>1</sup> Bei Straftaten nach den Artikeln 163–171<sup>bis</sup> StGB[^36-1] sind die Behörden am Wohnsitz, am gewöhnlichen Aufenthaltsort oder am Sitz der Schuldnerin oder des Schuldners zuständig.
+<sup>1</sup> Bei Straftaten nach den Artikeln 163–171 StGB[^36-1] sind die Behörden am Wohnsitz, am gewöhnlichen Aufenthaltsort oder am Sitz der Schuldnerin oder des Schuldners zuständig.[^36-2]
 
 <sup>2</sup> Für Strafverfahren gegen das Unternehmen nach Artikel 102 StGB sind die Behörden am Sitz des Unternehmens zuständig. Dies gilt ebenso, wenn sich das Verfahren wegen des gleichen Sachverhalts auch gegen eine für das Unternehmen handelnde Person richtet.
 
 <sup>3</sup> Fehlt ein Gerichtsstand nach den Absätzen 1 und 2, so bestimmt er sich nach den Artikeln 31–35.
 
 [^36-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^36-2]: Fassung gemäss Ziff. I 12 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 37
 
@@ -3506,7 +3508,7 @@ Die Staatsanwaltschaft kann den Post- und den Fernmeldeverkehr überwachen lasse
 
 Eine Überwachung kann zur Verfolgung der in den folgenden Artikeln aufgeführten Straftaten angeordnet werden:
 
-- a.[^269-1] StGB: Artikel 111–113, 115, 118 Absatz 2, 122, 124, 127, 129, 135, 138–140, 143, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146–148, 156, 157 Ziffer 2, 158 Ziffer 1 Absatz 3 und Ziffer 2, 160, 163 Ziffer 1, 180–185<sup>bis</sup>, 187, 188 Ziffer 1, 189–191, 192 Absatz 1, 195–197, 220, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 226, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 238 Absatz 1, 240 Absatz 1, 242, 244, 251 Ziffer 1, 258, 259 Absatz 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 285, 301, 303 Ziffer 1, 305, 305<sup>bis</sup> Ziffer 2, 310, 312, 314, 317 Ziffer 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> und 322<sup>septies</sup>;
+- a.[^269-1] StGB: Artikel 111–113, 115, 118 Absatz 2, 122, 124, 127, 129, 135, 138–140, 143, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146–148, 156, 157 Ziffer 2, 158 Ziffer 1 Absatz 3 und Ziffer 2, 160, 163 Ziffer 1, 180–185<sup>bis</sup>, 187, 188 Ziffer 1, 189–191, 192 Absatz 1, 195–197, 220, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 226, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 240 Absatz 1, 242, 244, 251 Ziffer 1, 258, 259 Absatz 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 285, 301, 303 Ziffer 1, 305, 305<sup>bis</sup> Ziffer 2, 310, 312, 314, 317 Ziffer 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> und 322<sup>septies</sup>;
 - b.[^269-2] Ausländer- und Integrationsgesetz[^269-3] vom 16. Dezember 2005[^269-4]: Artikel 116 Absatz 3 und 118 Absatz 3;
 - c. Bundesgesetz vom 22. Juni 2001[^269-5] zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen: Artikel 24;
 - d.[^269-6] Kriegsmaterialgesetz vom 13. Dezember 1996[^269-7]: Artikel 33 Absatz 2 und 34–35*b*;
@@ -3523,7 +3525,7 @@ Eine Überwachung kann zur Verfolgung der in den folgenden Artikeln aufgeführte
 
 <sup>3</sup> Wird die Beurteilung einer der militärischen Gerichtsbarkeit unterstehenden Straftat der zivilen Gerichtsbarkeit übertragen, so kann die Überwachung des Post- und Fernmeldeverkehrs auch angeordnet werden zur Verfolgung der in Artikel 70 Absatz 2 des Militärstrafprozesses vom 23. März 1979[^269-25] aufgeführten Straftaten.
 
-[^269-1]: Fassung gemäss Anhang Ziff. II 3 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-1]: Fassung gemäss Ziff. I 12 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^269-2]: Fassung gemäss Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^269-3]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^269-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -3653,15 +3655,15 @@ Informationen nach Absatz 1 müssen nicht vorgängig ausgesondert werden, wenn:
 
 **Teilnehmeridentifikation, Standortermittlung und technische Merkmale des Verkehrs**[^273-1]
 
-<sup>1</sup> Besteht der dringende Verdacht, ein Verbrechen, ein Vergehen oder eine Übertretung nach Artikel 179<sup>septies</sup> StGB[^273-2] sei begangen worden, und sind die Voraussetzungen nach Artikel 269 Absatz 1 Buchstaben b und c dieses Gesetzes erfüllt, so kann die Staatsanwaltschaft die Randdaten des Fernmeldeverkehrs gemäss Artikel 8 Buchstabe b des Bundesgesetzes vom 18. März 2016[^273-3] betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF) und die Randdaten des Postverkehrs gemäss Artikel 19 Absatz 1 Buchstabe b BÜPF der überwachten Person verlangen.
+<sup>1</sup> Besteht der dringende Verdacht, ein Verbrechen oder ein Vergehen sei begangen worden, und sind die Voraussetzungen nach Artikel 269 Absatz 1 Buchstaben b und c dieses Gesetzes erfüllt, so kann die Staatsanwaltschaft die Randdaten des Fernmeldeverkehrs gemäss Artikel 8 Buchstabe b des Bundesgesetzes vom 18. März 2016[^273-2] betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF) und die Randdaten des Postverkehrs gemäss Artikel 19 Absatz 1 Buchstabe b BÜPF der überwachten Person verlangen.[^273-3]
 
 <sup>2</sup> Die Anordnung bedarf der Genehmigung durch das Zwangsmassnahmengericht.
 
 <sup>3</sup> Auskünfte nach Absatz 1 können unabhängig von der Dauer der Überwachung und bis 6 Monate rückwirkend verlangt werden.
 
 [^273-1]: Fassung gemäss Anhang Ziff. II 1 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^273-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^273-3]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^273-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^273-3]: Fassung gemäss Ziff. I 12 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 274
 
@@ -3874,7 +3876,7 @@ Die Staatsanwaltschaft kann eine verdeckte Ermittlung anordnen, wenn:
 
 Die verdeckte Ermittlung kann zur Verfolgung der in den folgenden Artikeln aufgeführten Straftaten eingesetzt werden:
 
-- a.[^286-1] StGB: Artikel 111–113, 122, 124, 129, 135, 138–140, 143 Absatz 1, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146 Absätze 1 und 2, 147 Absätze 1 und 2, 148, 156, 160, 182–185<sup>bis</sup>, 187, 188 Ziffer 1, 189 Absätze 1 und 3, 190 Absätze 1 und 3, 191, 192 Absatz 1, 195, 196, 197 Absätze 3–5, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 238 Absatz 1, 240 Absatz 1, 242, 244 Absatz 2, 251 Ziffer 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 301, 305<sup>bis</sup> Ziffer 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup>, 322<sup>septies</sup>;
+- a.[^286-1] StGB: Artikel 111–113, 122, 124, 129, 135, 138–140, 143 Absatz 1, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146 Absätze 1 und 2, 147 Absätze 1 und 2, 148, 156, 160, 182–185<sup>bis</sup>, 187, 188 Ziffer 1, 189 Absätze 1 und 3, 190 Absätze 1 und 3, 191, 192 Absatz 1, 195, 196, 197 Absätze 3–5, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 240 Absatz 1, 242, 244 Absatz 2, 251 Ziffer 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 301, 305<sup>bis</sup> Ziffer 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> und 322<sup>septies</sup>;
 - b.[^286-2] Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^286-3]: Artikel 116 Absatz 3 und 118 Absatz 3;
 - c. Bundesgesetz vom 22. Juni 2001[^286-4] zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen: Artikel 24;
 - d.[^286-5] Kriegsmaterialgesetz vom 13. Dezember 1996[^286-6]: Artikel 33 Absatz 2 und 34–35*b*;
@@ -3889,7 +3891,7 @@ Die verdeckte Ermittlung kann zur Verfolgung der in den folgenden Artikeln aufge
 
 <sup>3</sup> Wird die Beurteilung einer der militärischen Gerichtsbarkeit unterstehenden strafbaren Handlung der zivilen Gerichtsbarkeit übertragen, so kann die verdeckte Ermittlung auch zur Verfolgung der in Artikel 70 Absatz 2 des Militärstrafprozesses vom 23. März 1979[^286-21] aufgeführten Straftaten angeordnet werden.
 
-[^286-1]: Fassung gemäss Anhang Ziff. II 3 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-1]: Fassung gemäss Ziff. I 12 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^286-2]: Fassung gemäss Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^286-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^286-4]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
