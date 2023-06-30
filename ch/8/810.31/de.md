@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. Dezember 2003 über die Forschung an embryonalen St
 short: StFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/104"
 language: de
-version: 2014-01-01
+version: 2023-07-01
 adopted: 2003-12-19
 in_force: 2005-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/104/20140101/de/xml/fedlex-data-admin-ch-eli-cc-2005-104-20140101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/104/20140101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/104/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2005-104-20230701-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/104/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/104/20140101/de"
 
 (Stammzellenforschungsgesetz, StFG)
 
-vom 19. Dezember 2003 (Stand am 1. Januar 2014)
+vom 19. Dezember 2003 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -353,39 +353,27 @@ Gebühren werden erhoben für:
 
 <sup>2</sup> Das Eidgenössische Departement des Innern erstattet dem Bundesrat nach Abschluss der Evaluation, spätestens aber fünf Jahre nach Inkrafttreten dieses Gesetzes Bericht und unterbreitet Vorschläge für das weitere Vorgehen.
 
-## 5. Abschnitt: Strafbestimmungen****
-
-[^sec5-1]
-
-[^sec5-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2-6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)) zu interpretieren beziehungsweise umzurechnen.
+## 5. Abschnitt: Strafbestimmungen
 
 #### Art. 24
 
-**Vergehen**
+**Verbrechen und Vergehen**[^24-1]
 
 <sup>1</sup>
 
-Mit Gefängnis wird bestraft, wer vorsätzlich:
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:
 
 - a. aus einem zu Forschungszwecken erzeugten oder in seinem Erbgut veränderten Embryo oder aus einem Klon, einer Chimäre, einer Hybride oder einer Parthenote embryonale Stammzellen gewinnt oder solche embryonalen Stammzellen verwendet oder einen solchen Embryo oder einen Klon, eine Chimäre, eine Hybride oder eine Parthenote ein- oder ausführt (Art. 3 Abs. 1);
-- b. einen überzähligen Embryo zu einem anderen Zweck als der Gewinnung embryonaler Stammzellen verwendet oder ein- oder ausführt oder aus einem überzähligen Embryo nach dem siebten Tag seiner Entwicklung Stammzellen gewinnt oder einen zur Stammzellengewinnung verwendeten überzähligen Embryo auf eine Frau überträgt (Art. 3 Abs. 2).
+- b. einen überzähligen Embryo zu einem anderen Zweck als der Gewinnung embryonaler Stammzellen verwendet oder ein- oder ausführt oder aus einem überzähligen Embryo nach dem siebten Tag seiner Entwicklung Stammzellen gewinnt oder einen zur Stammzellengewinnung verwendeten überzähligen Embryo auf eine Frau überträgt (Art. 3 Abs. 2);
+- c. überzählige Embryonen oder embryonale Stammzellen gegen Entgelt erwirbt oder veräussert oder überzählige Embryonen oder embryonale Stammzellen, die gegen Entgelt erworben worden sind, verwendet (Art. 4);
+- d. die Vorschriften über die Einwilligung des betroffenen Paares verletzt (Art. 5);
+- e. bewilligungspflichtige Tätigkeiten ohne Bewilligung vornimmt (Art. 7, 8, 10 und 15).
 
-<sup>2</sup>
+<sup>2</sup> Handelt der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
-Mit Gefängnis oder mit Busse bis zu 200 000 Franken wird bestraft, wer vorsätzlich:
+<sup>3</sup> Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe.
 
-- a. überzählige Embryonen oder embryonale Stammzellen gegen Entgelt erwirbt oder veräussert oder überzählige Embryonen oder embryonale Stammzellen, die gegen Entgelt erworben worden sind, verwendet (Art. 4);
-- b. die Vorschriften über die Einwilligung des betroffenen Paares verletzt (Art. 5);
-- c. bewilligungspflichtige Tätigkeiten ohne Bewilligung vornimmt (Art. 7, 8, 10 und 15).
-
-<sup>3</sup>
-
-Handelt die Täterin oder der Täter gewerbsmässig, so ist die Strafe:
-
-- a. für die Tatbestände nach Absatz 1 Gefängnis bis zu fünf Jahren und Busse bis zu 500 000 Franken;
-- b. für die Tatbestände nach Absatz 2 Gefängnis bis zu fünf Jahren oder Busse bis zu 500 000 Franken.
-
-<sup>4</sup> Handelt die Täterin oder der Täter fahrlässig, so ist die Strafe Gefängnis bis zu sechs Monaten oder Busse bis zu 100 000 Franken.
+[^24-1]: Fassung gemäss Ziff. I 28 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 25
 
@@ -393,7 +381,7 @@ Handelt die Täterin oder der Täter gewerbsmässig, so ist die Strafe:
 
 <sup>1</sup>
 
-Mit Haft oder Busse bis zu 50 000 Franken wird bestraft, wer vorsätzlich oder fahrlässig und ohne dass ein Vergehen nach Artikel 24 vorliegt:
+Mit Busse bis zu 50 000 Franken wird bestraft, wer vorsätzlich:[^25-1]
 
 - a. die Vorschriften über die Unabhängigkeit der beteiligten Personen verletzt (Art. 6);
 - b. Pflichten als Inhaberin oder Inhaber einer Bewilligung oder an die Bewilligung geknüpfte Auflagen oder Pflichten der Projektleitung nicht erfüllt oder die Meldepflicht verletzt (Art. 9, 10, 13, 15 und 16);
@@ -401,11 +389,17 @@ Mit Haft oder Busse bis zu 50 000 Franken wird bestraft, wer vorsätzlich oder f
 - d. die Mitwirkungspflicht verletzt (Art. 20);
 - e. gegen eine Ausführungsvorschrift, deren Übertretung vom Bundesrat für strafbar erklärt wird, oder gegen eine unter Hinweis auf die Strafdrohung dieses Artikels an ihn oder sie gerichtete Verfügung verstösst.
 
+<sup>1bis</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Busse bis zu 20 000 Franken.[^25-2]
+
 <sup>2</sup> Versuch und Gehilfenschaft sind strafbar.
 
 <sup>3</sup> Eine Übertretung und die Strafe für eine Übertretung verjähren in fünf Jahren.
 
-<sup>4</sup> In besonders leichten Fällen kann auf Strafanzeige, Strafverfolgung und Bestrafung verzichtet werden.
+<sup>4</sup> …[^25-3]
+
+[^25-1]: Fassung gemäss Ziff. I 28 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^25-2]: Eingefügt durch Ziff. I 28 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^25-3]: Aufgehoben durch Ziff. I 28 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 26
 

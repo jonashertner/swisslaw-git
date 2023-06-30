@@ -4,11 +4,11 @@ title: "Lescha federala dals 19 da december 2003 davart la perscrutaziun da cell
 short: LCB
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/104"
 language: rm
-version: 2014-01-01
+version: 2023-07-01
 adopted: 2003-12-19
 in_force: 2005-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/104/20140101/rm/xml/fedlex-data-admin-ch-eli-cc-2005-104-20140101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/104/20140101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/104/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-2005-104-20230701-rm-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/104/20230701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart las cellas da basa, LCB)
 
-dals 19 da december 2003 (stadi dal 1. da schaner 2014)
+dals 19 da december 2003 (versiun dal 1. da fanadur 2023)
 
 L’Assamblea federala da la Confederaziun svizra
 
@@ -36,9 +36,9 @@ concluda:
 
 **Object, intent e champ d’applicaziun**
 
-<sup>1</sup> Questa lescha fixescha sut tge premissas che cellas embrionalas umanas da basa dastgan vegnir producidas or d’embrios davanz per las utilisar per intents da perscrutaziun.
+<sup>1</sup> Questa lescha fixescha sut tge premissas che cellas embrionalas umanas da basa dastgan vegnir producidas or d’embrios danvanz per las utilisar per intents da perscrutaziun.
 
-<sup>2</sup> Ella duai impedir l’utilisaziun abusiva d’embrios davanz e da cellas embrionalas da basa sco er proteger la dignitad umana.
+<sup>2</sup> Ella duai impedir l’utilisaziun abusiva d’embrios danvanz e da cellas embrionalas da basa sco er proteger la dignitad umana.
 
 <sup>3</sup> Ella n’è betg applitgabla per l’utilisaziun da cellas embrionalas da basa per intents da transplantaziun en il rom d’experiments clinics.
 
@@ -49,7 +49,7 @@ concluda:
 En questa lescha signifitgescha:
 
 - a. *embrio:* il fritg da la fusiun dals nuschegls fin tar la terminaziun dal svilup dals organs;
-- b. *embrio davanz:* in embrio producì en il rom da la fertilisaziun in vitro che na po betg vegnir duvrà per chaschunar ina gravidanza e che n’ha perquai nagina schanza da surviver;
+- b. *embrio danvanz:* in embrio producì en il rom da la fertilisaziun in vitro che na po betg vegnir duvrà per chaschunar ina gravidanza e che n’ha perquai nagina schanza da surviver;
 - c. *cellas embrionalas da basa:* cella d’in embrio in vitro ch’è abla da sa differenziar en ils differents tips da cellas, ma che n’è betg abla da sa sviluppar ad in uman, e la lingia da cellas che deriva da quella;
 - d. *partenot:* organissem che deriva d’ina cella d’ov nunfructifitgada.
 
@@ -61,9 +61,9 @@ En questa lescha signifitgescha:
 
 Igl è scumandà:
 
-- a. da crear in embrio per intents da perscrutaziun (art. 29 al. 1 da la Lescha davart la medischina da reproducziun dals 18 da december 1998[^3-1]), da producir cellas embrionalas da basa or d’in tal embrio u d’utilisar talas;
-- b. d’intervegnir en moda modifitganta en il patrimoni genetic d’ina cella schermiglianta (art. 35 al. 1 da la Lescha davart la medischina da reproducziun dals 18 da december 1998), da producir cellas embrionalas da basa or d’in embrio modifitgà en tala maniera u d’utilisar talas;
-- c. da crear in clon, ina schimera u in ibrid (art. 36 al. 1 da la Lescha davart la medischina da reproducziun dals 18 da december 1998), da producir cellas embrionalas da basa or d’ina tala creatira u d’utilisar talas;
+- a. da crear in embrio per intents da perscrutaziun (art. 29 al. 1 da la Lescha dals 18 da december 1998[^3-1] davart la medischina da reproducziun), da producir cellas embrionalas da basa or d’in tal embrio u d’utilisar talas;
+- b. d’intervegnir en moda modifitganta en il patrimoni genetic d’ina cella schermiglianta (art. 35 al. 1 da la Lescha dals 18 da december 1998 davart la medischina da reproducziun), da producir cellas embrionalas da basa or d’in embrio modifitgà en tala maniera u d’utilisar talas;
+- c. da crear in clon, ina schimera u in ibrid (art. 36 al. 1 da la Lescha dals 18 da december 1998 davart la medischina da reproducziun), da producir cellas embrionalas da basa or d’ina tala creatira u d’utilisar talas;
 - d. da sviluppar in partenot, da producir cellas embrionalas da basa or da quel u d’utilisar talas;
 - e. d’importar u d’exportar in embrio tenor la litera a u b, in clon, ina schimera, in ibrid u in partenot.
 
@@ -71,20 +71,20 @@ Igl è scumandà:
 
 Ultra da quai èsi scumandà:
 
-- a. d’utilisar embrios davanz per in auter intent che per producir cellas embrionalas da basa;
-- b. d’importar u d’exportar embrios davanz;
-- c. da producir cellas embrionalas da basa or d’in embrio davanz suenter il settavel di da ses svilup;
-- d. d’implantar en ina dunna in embrio davanz ch’è vegnì duvrà per la producziun da cellas embrionalas da basa.
+- a. d’utilisar embrios danvanz per in auter intent che per producir cellas embrionalas da basa;
+- b. d’importar u d’exportar embrios danvanz;
+- c. da producir cellas embrionalas da basa or d’in embrio danvanz suenter il settavel di da ses svilup;
+- d. d’implantar en ina dunna in embrio danvanz ch’è vegnì duvrà per la producziun da cellas embrionalas da basa.
 
-[^3-1]: SR **814.90**
+[^3-1]: [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
 
 #### Art. 4
 
 **Gratuitadad**
 
-<sup>1</sup> Embrios davanz e cellas embrionalas da basa na dastgan betg vegnir vendids u cumprads cunter pajament.
+<sup>1</sup> Embrios danvanz e cellas embrionalas da basa na dastgan betg vegnir vendids u cumprads cunter pajament.
 
-<sup>2</sup> Embrios davanz e cellas embrionalas da basa ch’èn vegnids acquistads cunter pajament na dastgan betg vegnir utilisads.
+<sup>2</sup> Embrios danvanz e cellas embrionalas da basa ch’èn vegnids acquistads cunter pajament na dastgan betg vegnir utilisads.
 
 <sup>3</sup> Sco pajament vala er, sche avantatgs betg finanzials vegnan retschets respectivamain concedids.
 
@@ -92,24 +92,24 @@ Ultra da quai èsi scumandà:
 
 Indemnisadas dastgan vegnir las expensas per:
 
-- a. conservar u dar vinavant embrios davanz;
+- a. conservar u dar vinavant embrios danvanz;
 - b. producir, elavurar, conservar u dar vinavant cellas embrionalas da basa.
 
-## 2. part Producziun da cellas embrionalas da basa or d’embrios davanz
+## 2. part Producziun da cellas embrionalas da basa or d’embrios danvanz
 
 #### Art. 5
 
 **Consentiment e scleriment**
 
-<sup>1</sup> In embrio davanz dastga mo vegnir duvrà per la producziun da cellas embrionalas da basa, sch’il pèr pertutgà ha consentì da libra veglia ed en scrit. Avant ch’el dat ses consentiment sto el vegnir sclerì suffizientamain a bucca ed en scrit en moda enclegentaivla davart l’utilisaziun da l’embrio.
+<sup>1</sup> In embrio danvanz dastga mo vegnir duvrà per la producziun da cellas embrionalas da basa, sch’il pèr pertutgà ha consentì da libra veglia ed en scrit. Avant ch’el dat ses consentiment sto el vegnir sclerì suffizientamain a bucca ed en scrit en moda enclegentaivla davart l’utilisaziun da l’embrio.
 
-<sup>2</sup> Il pèr dastga vegnir dumandà pir cur ch’igl è vegnì constatà che l’embrio è davanz.
+<sup>2</sup> Il pèr dastga vegnir dumandà pir cur ch’igl è vegnì constatà che l’embrio è danvanz.
 
 <sup>3</sup> Il pèr respectivamain la dunna u l’um po revocar il consentiment da tut temp e senza indicaziun da motivs fin al cumenzament da la producziun da cellas embrionalas da basa.
 
 <sup>4</sup> Sch’il consentiment vegn refusà u revocà, sto l’embrio vegnir destruì immediatamain.
 
-<sup>5</sup> En cas da mort decida la partenaria surviventa u il partenari survivent davart l’utilisaziun da l’embrio per producir cellas embrionalas da basa; ella u el sto observar la voluntad declerada u presumabla da la persuna morta.
+<sup>5</sup> En cas da mort decida il partenari survivent davart l’utilisaziun da l’embrio per producir cellas embrionalas da basa; el sto observar la voluntad declerada u presumabla da la persuna morta.
 
 #### Art. 6
 
@@ -121,7 +121,7 @@ Las persunas ch’èn participadas a la producziun da cellas embrionalas da basa
 
 **Obligaziun da dumandar ina permissiun per producir cellas embrionalas da basa**
 
-<sup>1</sup> Tgi che vul producir cellas embrionalas da basa or d’embrios davanz per realisar in project da perscrutaziun, basegna ina permissiun da l’Uffizi federal da sanadad publica (uffizi federal).
+<sup>1</sup> Tgi che vul producir cellas embrionalas da basa or d’embrios danvanz per realisar in project da perscrutaziun, basegna ina permissiun da l’Uffizi federal da sanadad publica (uffizi federal).
 
 <sup>2</sup>
 
@@ -129,7 +129,7 @@ La permissiun vegn concedida, sche:
 
 - a.[^7-1] la permissiun da la Cumissiun etica tenor l’artitgel 11 è avant maun per il project da perscrutaziun;
 - b. i n’existan naginas cellas embrionalas da basa adattadas en Svizra;
-- c. i na vegnan betg duvrads dapli embrios davanz che quai ch’i èn absolutamain necessaris per producir las cellas embrionalas da basa; e
+- c. i na vegnan betg duvrads dapli embrios danvanz che quai ch’i èn absolutamain necessaris per producir las cellas embrionalas da basa; e
 - d. las premissas areguard la tecnica ed areguard il manaschi èn dadas.
 
 [^7-1]: Versiun tenor la cifra 5 da l’agiunta tar la LF dals 30 da sett. 2011 davart la perscrutaziun vi da l’uman, en vigur dapi il 1. da schan. 2014 ([AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
@@ -138,14 +138,14 @@ La permissiun vegn concedida, sche:
 
 **Obligaziun da dumandar ina permissiun per projects da perscrutaziun per meglierar las metodas da producziun**
 
-<sup>1</sup> Tgi che vul producir cellas embrionalas da basa or d’embrios davanz en il rom d’in project da perscrutaziun per meglierar las metodas da producziun, basegna ina permissiun da l’uffizi federal.
+<sup>1</sup> Tgi che vul producir cellas embrionalas da basa or d’embrios danvanz en il rom d’in project da perscrutaziun per meglierar las metodas da producziun, basegna ina permissiun da l’uffizi federal.
 
 <sup>2</sup>
 
 La permissiun vegn concedida, sche:
 
 - a. il project ademplescha las pretensiuns scientificas ed eticas tenor l’alinea 3;
-- b. i na vegnan betg duvrads dapli embrios davanz che quai ch’igl èn absolutamain necessaris per cuntanscher la finamira da la perscrutaziun; e
+- b. i na vegnan betg duvrads dapli embrios danvanz che quai ch’igl èn absolutamain necessaris per cuntanscher la finamira da la perscrutaziun; e
 - c. las premissas areguard la tecnica ed areguard il manaschi èn dadas.
 
 <sup>3</sup>
@@ -165,7 +165,7 @@ Il project da perscrutaziun dastga mo vegnir realisà, sche:
 
 <sup>1</sup>
 
-La titulara u il titular da la permissiun tenor ils artitgels 7 u 8 è obligada u obligà:
+Il titular da la permissiun tenor ils artitgels 7 u 8 è obligada u obligà:
 
 - a. da destruir l’embrio immediatamain suenter la producziun da las cellas embrionalas da basa;
 - b. da rapportar a l’uffizi federal davart la producziun da cellas embrionalas da basa;
@@ -173,7 +173,7 @@ La titulara u il titular da la permissiun tenor ils artitgels 7 u 8 è obligada 
 
 <sup>2</sup>
 
-En connex cun in project da perscrutaziun per meglierar las metodas da producziun è la titulara u il titular da la permissiun ultra da quai obligà:
+En connex cun in project da perscrutaziun per meglierar las metodas da producziun è il titular da la permissiun ultra da quai obligà:
 
 - a. da communitgar a l’uffizi federal la terminaziun u l’interrupziun dal project;
 - b. da render accessibla a la publicitad – suenter la terminaziun u l’interrupziun dal project – ina resumaziun dals resultats entaifer in termin commensurà.
@@ -182,9 +182,9 @@ En connex cun in project da perscrutaziun per meglierar las metodas da producziu
 
 #### Art. 10
 
-**Obligaziun da dumandar ina permissiun per conservar embrios davanz**
+**Obligaziun da dumandar ina permissiun per conservar embrios danvanz**
 
-<sup>1</sup> Tgi che vul conservar embrios davanz, basegna ina permissiun da l’uffizi federal.
+<sup>1</sup> Tgi che vul conservar embrios danvanz, basegna ina permissiun da l’uffizi federal.
 
 <sup>2</sup>
 
@@ -202,7 +202,7 @@ La permissiun vegn concedida, sche:
 
 <sup>1</sup> In project da perscrutaziun cun cellas embrionalas da basa dastga vegnir cumenzà pir, sch’ina permissiun da la Cumissiun etica cumpetenta è avant maun.
 
-<sup>2</sup> La cumpetenza da la Cumissiun etica e da la procedura da permissiun sa drizzan tenor la Lescha federala dals 30 da settember 2011 davart la perscrutaziun vi da l’uman[^11-2].
+<sup>2</sup> La cumpetenza da la Cumissiun etica e da la procedura da permissiun sa drizzan tenor la Lescha federala dals 30 da settember 2011[^11-2] davart la perscrutaziun vi da l’uman.
 
 [^11-1]: Versiun tenor la cifra 5 da l’agiunta tar la LF dals 30 da sett. 2011 davart la perscrutaziun vi da l’uman, en vigur dapi il 1. da schan. 2014 ([AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
 [^11-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
@@ -262,7 +262,7 @@ La permissiun d’import vegn concedida, sche:
 
 - a. las cellas embrionalas da basa vegnan duvradas per in project da perscrutaziun concret;
 - b. las cellas embrionalas da basa èn vegnidas producidas d’embrios ch’èn vegnids creads per chaschunar ina gravidanza, che n’han dentant betg pudì vegnir duvrads per quest intent; e
-- c. il pèr pertutgà ha – suenter ch'el è vegnì sclerì – consentì da libra veglia en l’utilisaziun da l’embrio per intents da perscrutaziun e na survegn nagina indemnisaziun per quai.
+- c. il pèr pertutgà ha – suenter ch’el è vegnì sclerì – consentì da libra veglia en l’utilisaziun da l’embrio per intents da perscrutaziun e na survegn nagina indemnisaziun per quai.
 
 <sup>4</sup> La permissiun d’export vegn concedida, sche las cundiziuns per l’utilisaziun da las cellas embrionalas da basa èn equivalentas en il pajais da destinaziun sco quellas en questa lescha.
 
@@ -313,7 +313,7 @@ Per ademplir questas incumbensas è el autorisà:
 
 **Obligaziun da cooperar**
 
-Tgi che utilisescha embrios davanz u cellas embrionalas da basa sto gidar gratuitamain l’uffizi federal tar l’adempliment da sias incumbensas e spezialmain:
+Tgi che utilisescha embrios danvanz u cellas embrionalas da basa sto gidar gratuitamain l’uffizi federal tar l’adempliment da sias incumbensas e spezialmain:
 
 - a. al dar infurmaziuns;
 - b. al conceder invista dals documents;
@@ -359,31 +359,23 @@ Taxas vegnan incassadas per:
 
 #### Art. 24
 
-**Delicts**
+**Crims e delicts**[^24-1]
 
 <sup>1</sup>
 
-Cun praschun vegn chastià, tgi che – sapientivamain:
+Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià, tgi che fa intenziunadamain il suandant:
 
 - a. producescha cellas embrionalas da basa or d’in embrio ch’è vegnì creà u modifitgà en ses patrimoni genetic per intents da perscrutaziun u or d’in clon, or d’ina schimera, or d’in ibrid u or d’in partenot u tgi che utilisescha talas cellas embrionalas da basa u tgi che importa u exporta in tal embrio u in tal clon, ina tala schimera, in tal ibrid u in tal partenot (art. 3 al. 1);
-- b. dovra in embrio davanz per in auter intent che per producir cellas embrionalas da basa u importa u exporta in tal u producescha cellas embrionalas da basa or d’in embrio suenter il settavel di da ses svilup u implanta en ina dunna in embrio davanz ch’è vegnì duvrà per la producziun da cellas embrionalas da basa (art. 3 al. 2).
+- b. dovra in embrio danvanz per in auter intent che per producir cellas embrionalas da basa u importa u exporta in tal u producescha cellas embrionalas da basa or d’in embrio suenter il settavel di da ses svilup u implanta en ina dunna in embrio danvanz ch’è vegnì duvrà per la producziun da cellas embrionalas da basa (art. 3 al. 2);
+- c. acquista u venda embrios danvanz u cellas embrionalas da basa cunter pajament u dovra embrios danvanz u cellas embrionalas da basa ch’en vegnids acquistads cunter pajament (art. 4);
+- d. violescha las prescripziuns davart il consentiment dal pèr pertutgà (art. 5);
+- e. exequescha senza permissiun activitads che basegnan ina permissiun (art. 7, 8, 10 e 15).
 
-<sup>2</sup>
+<sup>2</sup> Sch’il delinquent agescha da professiun, è il chastì in chasti da detenziun da fin 5 onns u in chasti pecuniar.
 
-Cun praschun u cun multa fin 200 000 francs vegn chastià, tgi che – sapientivamain:
+<sup>3</sup> Il delinquent vegn chastià cun in chasti pecuniar, sch’el agescha per negligientscha.
 
-- a. acquista u venda embrios davanz u cellas embrionalas da basa cunter pajament u dovra embrios davanz u cellas embrionalas da basa ch’en vegnids acquistads cunter pajament (art. 4);
-- b. violescha las prescripziuns davart il consentiment dal pèr pertutgà (art. 5);
-- c. exequescha senza permissiun activitads che basegnan ina permissiun (art. 7, 8, 10 e 15).
-
-<sup>3</sup>
-
-Sche l’autura u l’autur dal delict agescha da professiun, importa il chasti:
-
-- a. per il causal tenor l’alinea 1 praschun fin tschintg onns ed ina multa fin 500 000 francs;
-- b. per ils causals tenor l’alinea 2 praschun fin tschintg onns u ina multa fin 500 000 francs.
-
-<sup>4</sup> Sche l’autura u l’autur dal delict agescha per negligientscha, è il chasti praschun fin sis mais u ina multa fin 100 000 francs.
+[^24-1]: Versiun tenor la cifra I 28 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 25
 
@@ -391,7 +383,7 @@ Sche l’autura u l’autur dal delict agescha da professiun, importa il chasti:
 
 <sup>1</sup>
 
-Cun arrest u multa fin 50 000 francs vegn chastià, tgi che – sapientivamain u per negligientscha e senza ch’igl existia in delict tenor l’artitgel 24:
+Cun ina multa da fin 50 000 francs vegn chastià, tgi che fa intenziunadamain il suandant:[^25-1]
 
 - a. violescha las prescripziuns davart l’independenza da las persunas pertutgadas (art. 6);
 - b. n’ademplescha betg las obligaziuns sco titulara u titular d’ina permissiun u las cundiziuns ch’èn colliadas cun la permissiun u las obligaziuns da la direcziun dal project u violescha l’obligaziun d’annunzia (art. 9, 10, 13, 15 e 16);
@@ -399,11 +391,17 @@ Cun arrest u multa fin 50 000 francs vegn chastià, tgi che – sapientivamain u
 - d. violescha l’obligaziun da cooperar (art. 20);
 - e. surpassa ina prescripziun executiva, da la quala il surpassament vegn declerà dal Cussegl federal sco chastiabel, u surpassa ina disposiziun ch’è drizzada cunter el u cunter ella sut la smanatscha da chasti da quest artitgel.
 
+<sup>1bis</sup> Sch’il malfatg vegn commess per negligientscha, è il chasti ina multa da fin 20 000 francs.[^25-2]
+
 <sup>2</sup> La tentativa e la cumplicitad èn chastiablas.
 
 <sup>3</sup> In surpassament ed il chasti per in surpassament suranneschan suenter tschintg onns.
 
-<sup>4</sup> En cas spezialmain levs po vegnir desistì d’ina denunzia penala, d’ina persecuziun penala e d’in chasti.
+<sup>4</sup> …[^25-3]
+
+[^25-1]: Versiun tenor la cifra I 28 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^25-2]: Integrà tras la cifra I 28 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^25-3]: Abolì tras la cifra I 28 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 26
 
@@ -423,7 +421,7 @@ Cun arrest u multa fin 50 000 francs vegn chastià, tgi che – sapientivamain u
 
 …[^27-1]
 
-[^27-1]: Las midadas pon vegnir consultadas sut [AS 2005 947](https://fedlex.data.admin.ch/eli/oc/2005/104).
+[^27-1]: Las midadas pon vegnir consultadas en la [AS 2005 947](https://fedlex.data.admin.ch/eli/oc/2005/104).
 
 #### Art. 28
 
@@ -439,6 +437,6 @@ Tgi che ha gia cumenzà cun in project da perscrutaziun cun cellas embrionalas d
 
 <sup>2</sup> Il Cussegl federal fixescha l’entrada en vigur.
 
-Entrada in vigur: 1. da mars 2005[^29-1]
+Entrada en vigur: 1. da mars 2005[^29-1]
 
-[^29-1]: Decisiun dal Cussegl federal dals 2 da favrer 2005 (AS **2005** 956).
+[^29-1]: Decisiun dal Cussegl federal dals 2 da favr. 2005.

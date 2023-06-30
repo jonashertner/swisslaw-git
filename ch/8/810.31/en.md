@@ -4,22 +4,22 @@ title: "Federal Act of 19 December 2003 on Research Involving Embryonic Stem Cel
 short: StRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/104"
 language: en
-version: 2014-01-01
+version: 2023-07-01
 adopted: 2003-12-19
 in_force: 2005-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/104/20140101/en/xml/fedlex-data-admin-ch-eli-cc-2005-104-20140101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/104/20140101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/104/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2005-104-20230701-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/104/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
-# Federal Act on Research Involving Embryonic Stem Cells
+# Federal Act on Research involving Embryonic Stem Cells
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
 (Stem Cell Research Act, StRA)
 
-of 19 December 2003 (Status as of 1 January 2014)
+of 19 December 2003 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -286,14 +286,14 @@ The Federal Council shall:
 - b. specify in more detail the requirements for licences and the procedures for licensing under Articles 7, 8, 10 and 15;
 - c. specify in more detail the duties of the licensee under Article 9 and of persons subject to licensing requirements under Articles 10 and 15;
 - d. specify in more detail the content of the notification requirement and the duties of the persons subject to notification requirements and of the project manager under Articles 13 and 16;
-- e. specify in more detail the content of the registry to be maintained under Article 18;
+- e. specify in more detail the content of the register to be maintained under Article 18;
 - f. set the charges to be levied under Article 22.
 
 #### Art. 18
 
-**Registry**
+**Register**
 
-The Federal Office shall maintain a public registry of the embryonic stem cells present in this country and of research projects.
+The Federal Office shall maintain a public register of the embryonic stem cells present in this country and of research projects.
 
 #### Art. 19
 
@@ -343,9 +343,9 @@ It is in particular empowered:
 
 Charges shall be levied for:
 
-- a. the grant, suspension and revocation of licences;
-- b. the performance of controls;
-- c. the ordering and implementation of measures.
+- a. granting, suspending and revoking licences;
+- b. performing controls;
+- c. ordering and implementing measures.
 
 #### Art. 23
 
@@ -355,59 +355,53 @@ Charges shall be levied for:
 
 <sup>2</sup> On completion of the evaluation, but no later than five years after the commencement of this Act, the Federal Department of Home Affairs shall report to the Federal Council and submit proposals for future action.
 
-## Section 5 Criminal Provisions****
-
-[^sec5-1]
-
-[^sec5-1]: From 1 Jan. 2007, penalties and limitation periods are to be interpreted or converted in application of Art. 333 para. 2-6 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in accordance with the version of the FA of 13 Dec. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+## Section 5 Criminal Provisions
 
 #### Art. 24
 
-**Misdemeanours**
+**Felonies and misdemeanours**[^24-1]
 
-<sup>1</sup>
+<sup>1</sup> shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-A person shall be liable to imprisonment for wilfully:
+Any person who wilfully:
 
-- a. deriving embryonic stem cells from an embryo created for research purposes or genetically modified, or from a clone, chimera, hybrid or parthenote, or using such embryonic stem cells, or importing or exporting such an embryo or a clone, chimera, hybrid or parthenote (Art. 3 para. 1);
-- b. using a surplus embryo for any purpose other than the derivation of embryonic stem cells, or importing or exporting such an embryo, or deriving stem cells from a surplus embryo after the seventh day of its development, or placing in a woman a surplus embryo used for stem cell derivation (Art. 3 para. 2).
+- a. derives embryonic stem cells from an embryo created for research purposes or genetically modified, or from a clone, chimera, hybrid or parthenote, or uses such embryonic stem cells, or imports or exports such an embryo or a clone, chimera, hybrid or parthenote (Art. 3 para. 1);
+- b. uses a surplus embryo for any purpose other than the derivation of embryonic stem cells, or imports or exports such an embryo, or derives stem cells from a surplus embryo after the seventh day of its development, or places in a woman a surplus embryo used for stem cell derivation (Art. 3 para. 2);
+- c. acquires or disposes of surplus embryos or embryonic stem cells in exchange for payment, or uses surplus embryos or embryonic stem cells acquired in exchange for payment (Art. 4);
+- d. contravenes the requirements concerning the consent of the couple concerned (Art. 5);
+- e. undertakes activities subject to licensing requirements without a licence (Arts. 7, 8, 10 and 15),
 
-<sup>2</sup>
+<sup>2</sup> If the offender acts on a commercial basis, he or she shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
-A person shall be liable to imprisonment or a fine not exceeding 200 000 Swiss francs for wilfully:
+<sup>3</sup> If the offender acts through negligence, he or she shall be liable to a monetary penalty.
 
-- a. acquiring or disposing of surplus embryos or embryonic stem cells in exchange for payment, or using surplus embryos or embryonic stem cells acquired in exchange for payment (Art. 4);
-- b. contravening the requirements concerning the consent of the couple concerned (Art. 5);
-- c. undertaking activities subject to licensing requirements without a licence (Arts. 7, 8, 10 and 15).
-
-<sup>3</sup>
-
-If the offender acts on a commercial basis, the penalty shall be:
-
-- a. for the offences specified in paragraph 1, imprisonment for a term not exceeding five years and a fine not exceeding 500 000 Swiss francs;
-- b. for the offences specified in paragraph 2, imprisonment for a term not exceeding five years or a fine not exceeding 500 000 Swiss francs.
-
-<sup>4</sup> If the offender acts negligently, the penalty shall be imprisonment for a term not exceeding six months or a fine not exceeding 100 000 Swiss francs.
+[^24-1]: Amended by No I 28 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 25
 
 **Contraventions**
 
-<sup>1</sup>
+<sup>1</sup> shall be liable to a fine not exceeding 50 000 Swiss francs.[^25-1]
 
-A person shall be liable to detention or a fine not exceeding 50 000 Swiss francs for wilfully or negligently, without an offence having been committed as specified in Article 24:
+Any person who wilfully:
 
-- a. contravening the requirements concerning the independence of participants (Art. 6);
-- b. failing to comply with the duties of a licensee or conditions attached to a licence or the duties of a project manager, or contravening the notification requirement (Arts. 9, 10, 13, 15 and 16);
-- c. carrying out a research project although it has been prohibited by the Federal Office, or failing to fulfil conditions attached thereto (Art. 14);
-- d. failing to comply with the duty of cooperation (Art. 20);
-- e. contravening an implementing regulation, infringement of which has been declared by the Federal Council to carry a penalty, or contravening an order addressed to that person with reference being made to the penalty provided for in this Article.
+- a. contravenes the requirements concerning the independence of participants (Art. 6);
+- b. fails to comply with the duties of a licensee or conditions attached to a licence or the duties of a project manager, or contravenes the notification requirement (Arts. 9, 10, 13, 15 and 16);
+- c. carries out a research project although it has been prohibited by the Federal Office, or fails to fulfil conditions attached thereto (Art. 14);
+- d. fails to comply with the duty of cooperation (Art. 20);
+- e. contravenes an implementing regulation, infringement of which has been declared by the Federal Council to carry a penalty, or contravenes an order addressed to that person with reference being made to the penalty provided for in this Article,
 
-<sup>2</sup> Attempt and complicity shall also be punishable.
+<sup>1bis</sup> If the offence is committed through negligence, the penalty is a fine not exceeding 20 000 francs.[^25-2]
+
+<sup>2</sup> Attempt and complicity are also offences.
 
 <sup>3</sup> A contravention and the penalty for a contravention are subject to a five-year prescriptive period.
 
-<sup>4</sup> In particularly trivial cases, charging, prosecution and punishment may be waived.
+<sup>4</sup> …[^25-3]
+
+[^25-1]: Amended by No I 28 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^25-2]: Inserted by No I 28 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^25-3]: Repealed by No I 28 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 26
 
@@ -441,7 +435,7 @@ Any person who has already initiated a research project involving embryonic stem
 
 <sup>1</sup> This Act is subject to an optional referendum.
 
-<sup>2</sup> The Federal Council shall determine the date of commencement hereof.
+<sup>2</sup> The Federal Council shall determine the commencement date.
 
 Commencement date:[^29-1] 1 March 2005
 

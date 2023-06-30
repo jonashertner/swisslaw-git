@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 décembre 2003 relative à la recherche sur les cel
 short: LRCS
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/104"
 language: fr
-version: 2014-01-01
+version: 2023-07-01
 adopted: 2003-12-19
 in_force: 2005-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/104/20140101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-104-20140101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/104/20140101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/104/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-104-20230701-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/104/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/104/20140101/fr"
 
 (Loi relative à la recherche sur les cellules souches, LRCS)
 
-du 19 décembre 2003 (Etat le 1<sup>er</sup> janvier 2014)
+du 19 décembre 2003 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -86,7 +86,10 @@ Il est également interdit:
 
 <sup>3</sup> Sont également considérés comme rémunération l’octroi ou l’acceptation d’avantages non pécuniaires.
 
-- [tab] <sup>4</sup> Peuvent donner lieu à une indemnisation les frais liés:
+<sup>4</sup>
+
+Peuvent donner lieu à une indemnisation les frais liés:
+
 - a. à la conservation ou à la remise d’embryons surnuméraires;
 - b. à la production, au traitement, à la conservation ou à la remise de cellules souches.
 
@@ -127,7 +130,7 @@ L’autorisation est délivrée aux conditions suivantes:
 - c. le nombre d’embryons surnuméraires utilisés ne dépasse pas le nombre strictement nécessaire à la production des cellules souches;
 - d. le personnel scientifique et l’exploitation satisfont aux exigences requises.
 
-[^7-1]: Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 30 sept. 2011 relative à la recherche sur l’être humain, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 7259](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
+[^7-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 30 sept. 2011 relative à la recherche sur l’être humain, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 7259](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
 
 #### Art. 8
 
@@ -173,7 +176,7 @@ Le titulaire de l’autorisation pour un projet visant à améliorer les process
 - a. de déclarer à l’office l’achèvement ou l’interruption du projet de recherche;
 - b. de rendre accessible au public un résumé de ces résultats dans un délai raisonnable après l’achèvement ou l’interruption du projet de recherche.
 
-[^9-1]: Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 30 sept. 2011 relative à la recherche sur l’être humain, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 7259](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
+[^9-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 30 sept. 2011 relative à la recherche sur l’être humain, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 7259](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
 
 #### Art. 10
 
@@ -199,7 +202,7 @@ L’autorisation est délivrée aux conditions suivantes:
 
 <sup>2</sup> La compétence de la commission d’éthique et la procédure d’autorisation se fondent sur la loi du 30 septembre 2011 relative à la recherche sur l’être humain[^11-2].
 
-[^11-1]: Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 30 sept. 2011 relative à la recherche sur l’être humain, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 7259](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
+[^11-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 30 sept. 2011 relative à la recherche sur l’être humain, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 7259](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
 [^11-2]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
 
 #### Art. 12
@@ -241,7 +244,7 @@ Elle est également tenue:
 
 **Attributions de l’office**
 
-- [tab] L’office peut interdire un projet de recherche pour lequel des cellules souches embryonnaires seront utilisées ou l’assortir de charges s’il ne satisfait pas intégralement aux exigences de la présente loi.
+L’office peut interdire un projet de recherche pour lequel des cellules souches embryonnaires seront utilisées ou l’assortir de charges s’il ne satisfait pas intégralement aux exigences de la présente loi.
 
 #### Art. 15
 
@@ -294,7 +297,7 @@ L’office tient un registre public recensant les cellules souches embryonnaires
 
 **Contrôle**
 
-<sup>1</sup> L’office vérifie que la présente loi est respectée. A cet effet, il procède notamment à des inspections périodiques.
+<sup>1</sup> L’office vérifie que la présente loi est respectée. À cet effet, il procède notamment à des inspections périodiques.
 
 <sup>2</sup>
 
@@ -334,7 +337,7 @@ Il a notamment qualité pour:
 
 #### Art. 22
 
-**Emoluments**
+**Émoluments**
 
 Des émoluments sont perçus pour:
 
@@ -344,45 +347,33 @@ Des émoluments sont perçus pour:
 
 #### Art. 23
 
-**Evaluation**
+**Évaluation**
 
 <sup>1</sup> L’office veille à faire évaluer l’efficacité de la présente loi.
 
 <sup>2</sup> Le Département fédéral de l’intérieur présente un rapport au Conseil fédéral lorsque l’évaluation est terminée, mais au plus tard cinq ans après l’entrée en vigueur de la présente loi, et lui soumet des propositions sur la suite à donner à cette évaluation.
 
-## Section 5 Dispositions pénales****
-
-[^sec5-1]
-
-[^sec5-1]: A partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l'art. 333 al. 2 à 6 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+## Section 5 Dispositions pénales
 
 #### Art. 24
 
-**Délits**
+**Crimes et délits**[^24-1]
 
 <sup>1</sup>
 
-Est passible de l’emprisonnement quiconque, intentionnellement:
+Est passible d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement:
 
-- a. a produit des cellules souches embryonnaires à partir d’un embryon créé à des fins de recherche, d’un embryon dont le patrimoine héréditaire a été modifié ou d’un clone, d’une chimère, d’un hybride ou d’un parthénote, a utilisé de telles cellules ou a importé ou exporté un tel embryon, un clone, une chimère, un hybride ou un parthénote (art. 3, al. 1);
-- b. a utilisé un embryon surnuméraire à des fins autres que la production de cellules souches embryonnaires, l’a importé ou exporté, a produit des cellules souches embryonnaires à partir d’un embryon surnuméraire au-delà de son septième jour de développement, ou a implanté chez une femme un embryon surnuméraire utilisé en vue de la production de cellules souches embryonnaires (art. 3, al. 2).
+- a. produit des cellules souches embryonnaires à partir d’un embryon créé à des fins de recherche, d’un embryon dont le patrimoine héréditaire a été modifié ou d’un clone, d’une chimère, d’un hybride ou d’un parthénote, utilise de telles cellules ou importe ou exporte un tel embryon, un clone, une chimère, un hybride ou un parthénote (art. 3, al. 1);
+- b. utilise un embryon surnuméraire à des fins autres que la production de cellules souches embryonnaires, l’importe ou l’exporte, produit des cellules souches embryonnaires à partir d’un embryon surnuméraire au-delà de son septième jour de développement, ou implante chez une femme un embryon surnuméraire utilisé en vue de la production de cellules souches embryonnaires (art. 3, al. 2);
+- c. acquiert ou cède des embryons ou des cellules souches embryonnaires surnuméraires contre rémunération, ou utilise des embryons ou des cellules souches embryonnaires surnuméraires acquis contre rémunération (art. 4);
+- d. contrevient aux prescriptions régissant le consentement du couple concerné (art. 5);
+- e. se livre à des actes soumis à autorisation sans être en possession d’une telle autorisation (art. 7, 8, 10 et 15).
 
-<sup>2</sup>
+<sup>2</sup> L’auteur est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire s’il agit par métier.
 
-Est passible de l’emprisonnement ou d’une amende de 200 000 francs au plus, quiconque, intentionnellement:
+<sup>3</sup> L’auteur est puni d’une peine pécuniaire s’il agit par négligence.
 
-- a. a acquis ou cédé des embryons surnuméraires ou des cellules souches embryonnaires contre rémunération, ou a utilisé des embryons surnuméraires ou des cellules souches embryonnaires acquis contre rémunération (art. 4);
-- b. a contrevenu aux prescriptions régissant le consentement du couple concerné (art. 5);
-- c. s’est livré à des actes soumis à autorisation sans être titulaire d’une autorisation (art. 7, 8, 10 et 15).
-
-<sup>3</sup>
-
-Si l’auteur a agi par métier, il est passible:
-
-- a. d’une peine d’emprisonnement de cinq ans au plus et d’une amende de 500 000 francs au plus dans le cas visé à l’al. 1;
-- b. d’une peine d’emprisonnement de cinq ans au plus ou d’une amende de 500 000 francs au plus dans le cas visé à l’al. 2.
-
-<sup>4</sup> Si l’auteur a agi par négligence, la peine d’emprisonnement est de six mois au plus ou l’amende de 100 000 francs au plus.
+[^24-1]: Nouvelle teneur selon le ch. I 28 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 25
 
@@ -390,7 +381,7 @@ Si l’auteur a agi par métier, il est passible:
 
 <sup>1</sup>
 
-Est passible des arrêts ou d’une amende de 50 000 francs au plus quiconque, intentionnellement ou par négligence, sans avoir commis de délit au sens de l’art. 24:
+Est passible d’une amende de 50 000 francs au plus quiconque, intentionnellement:[^25-1]
 
 - a. a contrevenu aux prescriptions régissant l’indépendance des personnes participant à la recherche (art. 6);
 - b. n’a pas rempli les obligations qui lui incombaient en sa qualité de titulaire de l’autorisation, n’a pas rempli les charges liées à l’autorisation, n’a pas rempli les obligations qui incombaient à la direction du projet ou a enfreint l’obligation de déclarer (art. 9, 10, 13, 15 et 16);
@@ -398,11 +389,17 @@ Est passible des arrêts ou d’une amende de 50 000 francs au plus quiconque, i
 - d. a contrevenu à l’obligation de collaborer (art. 20);
 - e. a contrevenu à une prescription d’exécution dont l’inobservation est déclarée punissable par le Conseil fédéral ou ne s’est pas conformé à une décision qui lui avait été signifiée sous la menace de la peine prévue au présent article.
 
+<sup>1bis</sup> L’auteur est puni d’une amende de 20 000 francs au plus s’il agit par négligence.[^25-2]
+
 <sup>2</sup> La tentative et la complicité sont punissables.
 
 <sup>3</sup> La contravention et la peine se prescrivent par cinq ans.
 
-<sup>4</sup> Dans les cas de très peu de gravité, il peut être renoncé à la plainte pénale, à la poursuite pénale et à la sanction.
+<sup>4</sup> ...[^25-3]
+
+[^25-1]: Nouvelle teneur selon le ch. I 28 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^25-2]: Introduit par le ch. I 28 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^25-3]: Abrogé par le ch. I 28 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 26
 

@@ -4,11 +4,11 @@ title: "Legge federale del 19 dicembre 2003 concernente la ricerca sulle cellule
 short: LCel
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/104"
 language: it
-version: 2014-01-01
+version: 2023-07-01
 adopted: 2003-12-19
 in_force: 2005-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/104/20140101/it/xml/fedlex-data-admin-ch-eli-cc-2005-104-20140101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/104/20140101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/104/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2005-104-20230701-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/104/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/104/20140101/it"
 
 (Legge sulle cellule staminali, LCel)
 
-del 19 dicembre 2003 (Stato 1° gennaio 2014)
+del 19 dicembre 2003 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -130,7 +130,7 @@ L’autorizzazione è rilasciata se:
 - c. non viene utilizzato un numero di embrioni soprannumerari superiore a quello assolutamente necessario per derivare cellule staminali embrionali; e
 - d. sono date le condizioni tecniche e d’esercizio.
 
-[^7-1]: Nuovo testo giusta il n. 5 dell’all. alla LF del 30 set. 2011 sulla ricerca umana, in vigore dal 1° gen. 2014 ([RU 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 6979](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
+[^7-1]: Nuovo testo giusta l’all. n. 5 della LF del 30 set. 2011 sulla ricerca umana, in vigore dal 1° gen. 2014 ([RU 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 6979](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
 
 #### Art. 8
 
@@ -176,7 +176,7 @@ Se si tratta di un progetto di ricerca volto a migliorare il processo di derivaz
 - a. comunicare all’Ufficio la conclusione o l’interruzione del progetto;
 - b. rendere accessibile al pubblico un riassunto dei risultati entro un congruo termine dopo la conclusione o l’interruzione del progetto.
 
-[^9-1]: Nuovo testo giusta il n. 5 dell’all. alla LF del 30 set. 2011 sulla ricerca umana, in vigore dal 1° gen. 2014 ([RU 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 6979](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
+[^9-1]: Nuovo testo giusta l’all. n. 5 della LF del 30 set. 2011 sulla ricerca umana, in vigore dal 1° gen. 2014 ([RU 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 6979](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
 
 #### Art. 10
 
@@ -202,7 +202,7 @@ L’autorizzazione è rilasciata se:
 
 <sup>2</sup> La competenza della Commissione d’etica e la procedura d’autorizzazione sono rette dalla legge del 30 settembre 2011[^11-2] sulla ricerca umana.
 
-[^11-1]: Nuovo testo giusta il n. 5 dell’all. alla LF del 30 set. 2011 sulla ricerca umana, in vigore dal 1° gen. 2014 ([RU 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 6979](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
+[^11-1]: Nuovo testo giusta l’all. n. 5 della LF del 30 set. 2011 sulla ricerca umana, in vigore dal 1° gen. 2014 ([RU 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 6979](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
 [^11-2]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
 
 #### Art. 12
@@ -353,39 +353,27 @@ Sono prelevati emolumenti per:
 
 <sup>2</sup> Il Dipartimento federale dell’interno riferisce al Consiglio federale al termine della valutazione, ma al più tardi cinque anni dopo l’entrata in vigore della presente legge, sottoponendogli proposte circa l’ulteriore procedere.
 
-## Sezione 5: Disposizioni penali****
-
-[^sec5-1]
-
-[^sec5-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell'art. 333 cpv. 2 - 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+## Sezione 5: Disposizioni penali
 
 #### Art. 24
 
-**Delitti**
+**Crimini e delitti**[^24-1]
 
 <sup>1</sup>
 
-È punito con la detenzione chiunque intenzionalmente:
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque intenzionalmente:
 
-- a. deriva cellule staminali embrionali da un embrione prodotto per scopi di ricerca, o il cui patrimonio genetico è stato modificato, o da un clone, una chimera, un ibrido o un partenote, oppure utilizza simili cellule staminali embrionali oppure importa o esporta un simile embrione o un clone, una chimera, un ibrido o un partenote (art. 3 cpv. 1);
-- b. utilizza per scopi diversi dalla derivazione di cellule staminali embrionali oppure importa od esporta un embrione soprannumerario oppure deriva cellule staminali da un embrione soprannumerario dopo il settimo giorno del suo sviluppo oppure trasferisce in una donna un embrione soprannumerario utilizzato per la derivazione di cellule staminali (art. 3 cpv. 2).
+- a. deriva cellule staminali embrionali da un embrione prodotto per scopi di ricerca o il cui patrimonio genetico è stato modificato, o da un clone, una chimera, un ibrido o un partenote, oppure utilizza simili cellule staminali embrionali oppure importa o esporta un simile embrione o un clone, una chimera, un ibrido o un partenote (art. 3 cpv. 1);
+- b. utilizza per scopi diversi dalla derivazione di cellule staminali embrionali oppure importa od esporta un embrione soprannumerario oppure deriva cellule staminali da un embrione soprannumerario dopo il settimo giorno del suo sviluppo oppure trasferisce in una donna un embrione soprannumerario utilizzato per la derivazione di cellule staminali (art. 3 cpv. 2);
+- c. acquista o aliena dietro compenso embrioni soprannumerari o cellule staminali embrionali o utilizza embrioni soprannumerari o cellule staminali embrionali acquistati dietro compenso (art. 4);
+- d. viola le prescrizioni sul consenso della coppia interessata (art. 5);
+- e. svolge senza esserne autorizzato attività soggette ad autorizzazione (art. 7, 8, 10 e 15).
 
-<sup>2</sup>
+<sup>2</sup> Se l’autore ha agito per mestiere, la pena è una pena detentiva sino a cinque anni o una pena pecuniaria.
 
-È punito con la detenzione o con la multa fino a 200 000 franchi chiunque, intenzionalmente:
+<sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.
 
-- a. acquista o aliena dietro compenso embrioni soprannumerari o cellule staminali embrionali o utilizza embrioni soprannumerari o cellule staminali embrionali acquistati dietro compenso (art. 4);
-- b. viola le prescrizioni sul consenso della coppia interessata (art. 5);
-- c. svolge senza esserne autorizzato attività soggette ad autorizzazione (art. 7, 8, 10 e 15).
-
-<sup>3</sup>
-
-Se l’autore ha agito per mestiere, la pena è:
-
-- a. della detenzione fino a cinque anni e della multa fino a 500 000 franchi per le fattispecie di cui al capoverso 1;
-- b. della detenzione fino a cinque anni o della multa fino a 500 000 franchi per le fattispecie di cui al capoverso 2.
-
-<sup>4</sup> Se l’autore ha agito per negligenza, la pena è della detenzione fino a sei mesi o della multa fino a 100 000 franchi.
+[^24-1]: Nuovo testo giusta il n. I 28 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 25
 
@@ -393,7 +381,7 @@ Se l’autore ha agito per mestiere, la pena è:
 
 <sup>1</sup>
 
-È punito con l’arresto o con la multa fino a 50 000 franchi chiunque, intenzionalmente o per negligenza e senza commettere un delitto giusta l’articolo 24:
+È punito con la multa fino a 50 000 franchi chiunque intenzionalmente:[^25-1]
 
 - a. viola le prescrizioni sull’indipendenza delle persone coinvolte (art. 6);
 - b. non adempie gli obblighi o gli oneri connessi all’autorizzazione di cui è titolare o non adempie gli obblighi o gli oneri che incombono alla direzione di progetto oppure viola l’obbligo di notifica (art. 9, 10, 13, 15 e 16);
@@ -401,11 +389,17 @@ Se l’autore ha agito per mestiere, la pena è:
 - d. viola l’obbligo di collaborare (art. 20);
 - e. contravviene a una disposizione esecutiva la cui violazione è dichiarata punibile dal Consiglio federale o contravviene a una decisione presa nei suoi confronti con comminatoria della pena prevista nel presente articolo.
 
+<sup>1bis</sup> Se l’autore ha agito per negligenza, la pena è della multa fino a 20 000 franchi.[^25-2]
+
 <sup>2</sup> Il tentativo e la complicità sono punibili.
 
 <sup>3</sup> Le contravvenzioni e le relative pene si prescrivono in cinque anni.
 
-<sup>4</sup> Nei casi di esigua gravità si può prescindere dalla denuncia, dal perseguimento penale e dalla punizione.
+<sup>4</sup> ... [^25-3]
+
+[^25-1]: Nuovo testo giusta il n. I 28 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^25-2]: Introdotto dal n. I 28 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^25-3]: Abrogato dal n. I 28 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 26
 
