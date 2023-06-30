@@ -4,11 +4,11 @@ title: "Ordinanza del 4 giugno 2021 sulle prescrizioni di sicurezza per gli impi
 short: OSITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/348"
 language: it
-version: 2021-07-01
+version: 2023-07-01
 adopted: 2021-06-04
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2021-348-20210701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2021-348-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20210701/it"
 
 (Ordinanza sulla sicurezza degli impianti di trasporto in condotta, OSITC)
 
-del 4 giugno 2021 (Stato 1° luglio 2021)
+del 4 giugno 2021 (Stato 1° luglio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -746,11 +746,13 @@ La modifica di altri atti normativi è disciplinata nell’allegato 2.
 
 La presente ordinanza entra in vigore il 1° luglio 2021.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 3 cpv. 2)
 
 ## Regole della tecnica
+
+[^t-1]: Aggiornato dal n. I dell’O del DATEC del 24 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 277](https://fedlex.data.admin.ch/eli/oc/2023/277)).
 
 Sono considerate regole della tecnica in particolare:
 
@@ -758,7 +760,7 @@ Sono considerate regole della tecnica in particolare:
 
   per gli oleodotti e i gasdotti con pressione d’esercizio massima ammessa superiore a 5 bar:
 
-  - 1\.1 la direttiva dell’IFO sulla pianificazione, la costruzione e l’esercizio di impianti di trasporto in condotta con pressioni superiori a 5 bar, revisione 2.1 del settembre 2009[^annex1-lvlu1-1];
+  - 1\.1 la direttiva dell’IFO sulla pianificazione, la costruzione e l’esercizio di impianti di trasporto in condotta con pressioni superiori a 5 bar, revisione 3.0 del 1° ottobre 2022[^annex1-lvlu1-1];
 
 - 2\.
 
@@ -771,7 +773,7 @@ Sono considerate regole della tecnica in particolare:
 
     - 2\.2.1 direttiva C1 sulla progettazione, la realizzazione e l’esercizio dei dispositivi di protezione catodica delle condotte contro la corrosione, edizione 2015,
     - 2\.2.2 direttiva C2 sulla protezione dalla corrosione di impianti metallici interrati, edizione 1993,
-    - 2\.2.3 direttiva C3 sulla protezione dalle correnti vaganti generate dagli impianti a corrente continua, edizione 2011,
+    - 2\.2.3 direttiva C3 sulla protezione dalle correnti vaganti generate dagli impianti a corrente continua, edizione 2022,
     - 2\.2.4 direttiva C4, raccomandazione sulla procedura e sulla ripartizione dei costi per misure di protezione in caso di correnti vaganti, edizione 1987,
     - 2\.2.5 direttiva C5 per la progettazione, l’esecuzione e l’esercizio della protezione catodica di serbatoi di stoccaggio in acciaio interrati e delle relative condotte, edizione 2018;
 
@@ -791,10 +793,10 @@ Sono considerate regole della tecnica in particolare:
     - 3\.1.6 G18: Proprietà del gas, aprile 2013,
     - 3\.1.7 G21: Requisiti per la qualificazione e l’organizzazione del comparto tecnico delle società di gestione di reti di distribuzione del gas sotto la sorveglianza dei cantoni, marzo 2013.
 
-[^annex1-lvlu1-1]: La direttiva può essere ordinata a pagamento all’Ispettorato federale degli oleo- e gasdotti, Richtistrasse 15, 8304 Wallisellen all’indirizzo Internet: www.svti.ch &gt; Ispettorato federale degli oleo- e gasdotti &gt; Regolamenti in vigore oppure all’indirizzo e-mail eri@svti.ch.
+[^annex1-lvlu1-1]: La direttiva può essere ordinata gratuitamente all’Ispettorato federale degli oleo- e gasdotti, Richtistrasse 15, 8304 Wallisellen, all’indirizzo Internet: www.svti.ch &gt; Ispettorato federale degli oleo- e gasdotti &gt; Regolamenti in vigore oppure all’indirizzo e‑mail eri@svti.ch
 [^annex1-lvlu1-2]: La direttiva può essere ordinata gratuitamente all’Ispettorato federale degli impianti a corrente forte, Luppmenstrasse 1, 8320 Fehraltorf, all’indirizzo Internet: www.esti.admin.ch &gt; Documentazione &gt; Direttive ESTI oppure all’indirizzo e-mail info@esti.admin.ch.
-[^annex1-lvlu1-3]: Le direttive possono essere ordinate a pagamento alla Società svizzera per la protezione contro la corrosione, Technoparkstrasse 1, 8005 Zurigo, all’indirizzo Internet: **Fehler! Linkreferenz ungültig.** oppure all’indirizzo e-mail sgk@sgk.ch (disponibili soltanto in tedesco, francese e inglese).
-[^annex1-lvlu1-4]: Le direttive possono essere ordinate a pagamento alla Società svizzera dell’industria del gas e delle acque, Grütlistrasse 44, 8002 Zurigo, all’indirizzo Internet: www.svgw &gt; Regolamento/Shop &gt; Direttive gas oppure all’indirizzo e-mail info@svgw.ch.
+[^annex1-lvlu1-3]: Le direttive possono essere ordinate a pagamento alla Società svizzera per la protezione contro la corrosione, Technoparkstrasse 1, 8005 Zurigo, all’indirizzo Internet www.sgk.ch &gt; Directives oppure all’indirizzo e-mail sgk@sgk.ch (disponibili soltanto in tedesco, francese e inglese).
+[^annex1-lvlu1-4]: Le direttive possono essere ordinate a pagamento alla Società svizzera dell’industria del gas e delle acque, Grütlistrasse 44, 8002 Zurigo, all’indirizzo Internet: www.svgw &gt; Regolamento/Shop &gt; Direttive gas oppure all’indirizzo e-mail info@svgw.ch
 
 Allegato 2
 

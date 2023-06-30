@@ -4,11 +4,11 @@ title: "Ordonnance du 4 juin 2021 concernant les prescriptions de sécurité pou
 short: OSITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/348"
 language: fr
-version: 2021-07-01
+version: 2023-07-01
 adopted: 2021-06-04
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2021-348-20210701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2021-348-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20210701/fr"
 
 (Ordonnance sur la sécurité des installations de transport par conduites, OSITC)
 
-du 4 juin 2021 (Etat le 1<sup>er</sup> juillet 2021)
+du 4 juin 2021 (État le 1<sup>er</sup> juillet 2023)
 
 Le Conseil fédéral suisse,
 
@@ -746,11 +746,13 @@ La modification d’autres actes est réglée dans l’annexe 2.
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2021.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 3, al. 2)
 
 ## Règles techniques
+
+[^t-1]: Mise à jour par le ch. I de l’O du DETEC du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 277](https://fedlex.data.admin.ch/eli/oc/2023/277)).
 
 Sont notamment considérées comme des règles techniques:
 
@@ -758,7 +760,7 @@ Sont notamment considérées comme des règles techniques:
 
   pour les oléoducs et les gazoducs dont la pression de service maximale admissible est supérieure à 5 bars:
 
-  - 1\.1 la directive de l’IFP pour la planification, la construction et l’exploitation d’installations de transport par conduites dont la pression est supérieure à 5 bars, révision 2.1 de septembre 2009 [^annex1-lvlu1-1];
+  - 1\.1 la directive de l’IFP pour la planification, la construction et l’exploitation d’installations de transport par conduites dont la pression est supérieure à 5 bars, révision 3.0 du 1<sup>er</sup> octobre 2022[^annex1-lvlu1-1];
 
 - 2\.
 
@@ -771,7 +773,7 @@ Sont notamment considérées comme des règles techniques:
 
     - 2\.2.1 directive C1 pour la planification, l’exécution et l’exploitation de la protection cathodique d’installations de transport par conduites, édition 2015,
     - 2\.2.2 directive C2 pour la protection contre la corrosion des installations métalliques enterrées, édition 1993,
-    - 2\.2.3 directive C3 pour la protection contre la corrosion provoquée par les courants vagabonds d’installations à courant continu, édition 2011,
+    - 2\.2.3 directive C3 pour la protection contre la corrosion provoquée par les courants vagabonds d’installations à courant continu, édition 2022,
     - 2\.2.4 directive C4, recommandation qui traite de la démarche à adopter et de la répartition des frais lors de la protection contre les courants vagabonds, édition 1987,
     - 2\.2.5 directive C5 pour la planification, l’exécution et l’exploitation de la protection contre la corrosion des réservoirs en acier enterrés et des conduites associées, édition 2018;
 
@@ -788,10 +790,10 @@ Sont notamment considérées comme des règles techniques:
     - 3\.1.6. G18: Directive pour la qualité du gaz, avril 2013,
     - 3\.1.7. G21: Directive; Exigences techniques envers l’organisation et la qualification des exploitants de réseau de gaz sous surveillance cantonale, mars 2013.
 
-[^annex1-lvlu1-1]: La directive peut être commandée, contre paiement, auprès de l’Inspection fédérale des pipelines, Richtistrasse 15, 8304 Wallisellen, sur Internet sous www.svti.ch &gt; Inspection Fédérale des Pipelines &gt; Prescriptions en vigueur ou par courriel à eri@svti.ch.
-[^annex1-lvlu1-2]: La directive peut être commandée gratuitement auprès de l’Inspection fédérale des installations à courant fort ESTI, Luppmenstrasse 1, 8320 Fehraltorf, sur Internet sous www.esti.admin.ch &gt; Directives ESTI ou par courriel à info@esti.admin.ch.
-[^annex1-lvlu1-3]: Les directives peuvent être commandées, contre paiement, auprès de la Société suisse de protection contre la corrosion, Technoparkstrasse 1, 8005 Zurich, sur Internet sous www.sgk.ch &gt; Directives &gt; ou par courriel à sgk@sgk.ch.
-[^annex1-lvlu1-4]: Les directives peuvent être commandées, contre paiement, auprès de la Société suisse de l’industrie du gaz et des eaux, Grütlistrasse 44, 8002 Zurich, sur Internet sous [www.svgw.ch/fr/ &gt; Réglementation &gt; entrer «gaz» dans la fenêtre de recherche](http://www.svgw.ch/fr/%20%3e%20Réglementation%20%3e%20entrer%20) ou par courriel à info@svgw.ch.
+[^annex1-lvlu1-1]: La directive peut être commandée gratuitement auprès de l’Inspection fédérale des pipelines, Richtistrasse 15, 8304 Wallisellen, sur Internet sous [www.svti.ch](http://www.svti.ch) &gt; Inspection Fédérale des Pipelines &gt; Prescriptions en vigueur ou par courriel à eri@svti.ch.
+[^annex1-lvlu1-2]: La directive peut être commandée gratuitement auprès de l’Inspection fédérale des installations à courant fort ESTI, Luppmenstrasse 1, 8320 Fehraltorf, sur Internet sous [www.esti.admin.ch](http://www.esti.admin.ch) &gt; Directives ESTI ou par courriel à info@esti.admin.ch.
+[^annex1-lvlu1-3]: Les directives peuvent être commandées, contre paiement, auprès de la Société suisse de protection contre la corrosion, Technoparkstrasse 1, 8005 Zurich, sur Internet sous [www.sgk.ch](http://www.sgk.ch) &gt; Directives &gt; ou par courriel à sgk@sgk.ch.
+[^annex1-lvlu1-4]: Les directives peuvent être commandées, contre paiement, auprès de la Société suisse de l’industrie du gaz et des eaux, Grütlistrasse 44, 8002 Zurich, sur Internet sous [www.svgw.ch](http://www.svgw.ch) &gt; Réglementation &gt; entrer «gaz» dans la fenêtre de recherche ou par courriel à info@svgw.ch.
 
 Annexe 2
 
@@ -801,6 +803,6 @@ Annexe 2
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Les mod. peuvent être consultées au [RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348).

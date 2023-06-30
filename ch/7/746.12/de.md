@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Juni 2021 über Sicherheitsvorschriften für Rohrleitu
 short: RLSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/348"
 language: de
-version: 2021-07-01
+version: 2023-07-01
 adopted: 2021-06-04
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2021-348-20210701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2021-348-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20210701/de"
 
 (Rohrleitungssicherheitsverordnung, RLSV)
 
-vom 4. Juni 2021 (Stand am 1. Juli 2021)
+vom 4. Juni 2021 (Stand am 1. Juli 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -604,7 +604,7 @@ Die Schutzbereiche von Rohrleitungen und Nebenanlagen gemäss Artikel 16 sind im
 
 <sup>2</sup> Instandhaltungsarbeiten dürfen den Sicherheitsgrad der Rohrleitung nicht vermindern.
 
-[^55-1]: SR **746****.****11**
+[^55-1]: [SR 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
 
 #### Art. 56
 
@@ -746,11 +746,13 @@ Die Änderung anderer Erlasse wird in Anhang 2 geregelt.
 
 Diese Verordnung tritt am 1. Juli 2021 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 3 Abs. 2)
 
 ## Regeln der Technik
+
+[^t-1]: Bereinigt gemäss Ziff. I der V des UVEK vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 277](https://fedlex.data.admin.ch/eli/oc/2023/277)).
 
 Als Regeln der Technik gelten insbesondere:
 
@@ -758,7 +760,7 @@ Als Regeln der Technik gelten insbesondere:
 
   für Ölleitungen und für Gasleitungen mit einem maximal zulässigen Betriebsdruck grösser als 5 bar:
 
-  - 1\.1 die Richtlinie des ERI für Planung, Bau und Betrieb von Rohrleitungsanlagen über 5 bar, Revision 2.1 vom September 2009[^annex1-lvlu1-1];
+  - 1\.1 die Richtlinie des ERI für Planung, Bau und Betrieb von Rohrleitungsanlagen über 5 bar, Revision 3.0 vom 1. Oktober 2022[^annex1-lvlu1-1];
 
 - 2\.
 
@@ -771,7 +773,7 @@ Als Regeln der Technik gelten insbesondere:
 
     - 2\.2.1 Richtlinie C1 für Projektierung, Ausführung und Betrieb des kathodischen Schutzes von Rohrleitungen, Ausgabe 2015
     - 2\.2.2 Richtlinie C2 zum Korrosionsschutz von erdverlegten metallischen Anlagen, Ausgabe 1993
-    - 2\.2.3 Richtlinie C3 zum Schutz gegen Korrosion durch Streuströme von Gleichstromanlagen, Ausgabe 2011
+    - 2\.2.3 Richtlinie C3 zum Schutz gegen Korrosion durch Streuströme von Gleichstromanlagen, Ausgabe 2022
     - 2\.2.4 Richtlinie C4, Empfehlung für Vorgehen und Kostenteilung bei Streustrom-Schutzmassnahmen, Ausgabe 1987
     - 2\.2.5 Richtlinie C5 für Projektierung, Ausführung und Betrieb des Korrosionsschutzes erdverlegter Behälter aus Stahl und zugehörigen Rohrleitungen, Ausgabe 2018;
 
@@ -791,10 +793,10 @@ Als Regeln der Technik gelten insbesondere:
     - 3\.1.6 G18: Gasbeschaffenheit vom April 2013
     - 3\.1.7 G21: Anforderungen an die Qualifikation und die Organisation des technischen Bereiches von Gasnetzbetreibern unter kantonaler Aufsicht vom März 2013.
 
-[^annex1-lvlu1-1]: Die Richtlinie kann gegen Bezahlung beim Eidgenössischen Rohrleitungsinspektorat, Richtistrasse 15, 8304 Wallisellen, im Internet unter www.svti.ch &gt; Eidg. Rohrleitungsinspektorat &gt; Gültige Vorschriften oder per E-Mail an eri@svti.ch bestellt werden.
-[^annex1-lvlu1-2]: Die Weisung kann kostenlos beim Eidgenössischen Starkstrominspektorat, Luppmenstrasse 1, 8320 Fehraltorf, im Internet unter www.esti.admin.ch &gt; dokumentation &gt; ESTI-Weisungen oder per E-Mail an info@esti.admin.ch bestellt werden.
-[^annex1-lvlu1-3]: Die Richtlinien können gegen Bezahlung bei der Schweizerischen Gesellschaft für Korrosionsschutz, Technoparkstrasse 1, 8005 Zürich, im Internet unter www.sgk.ch &gt; Richtlinien oder per E-Mail an sgk@sgk.ch bestellt werden.
-[^annex1-lvlu1-4]: Die Richtlinien können gegen Bezahlung beim Schweizerischen Verein des Gas- und Wasserfaches, Grütlistrasse 44, 8002 Zürich, oder im Internet unter www.svgw.ch &gt; Regelwerk &gt; Suchfenster: «Gas» eingeben oder per E-Mail an info@svgw.ch bestellt werden.
+[^annex1-lvlu1-1]: Die Richtlinie kann kostenlos beim Eidgenössischen Rohrleitungsinspektorat, Richtistrasse 15, 8304 Wallisellen, im Internet unter [www.svti.ch](https://www.svti.ch) &gt; Eidg. Rohrleitungsinspektorat &gt; Gültige Vorschriften oder per E-Mail an eri@svti.ch bestellt werden.
+[^annex1-lvlu1-2]: Die Weisung kann kostenlos beim Eidgenössischen Starkstrominspektorat, Luppmenstrasse 1, 8320 Fehraltorf, im Internet unter [www.esti.admin.ch](http://www.esti.admin.ch) &gt; dokumentation &gt; ESTI-Weisungen oder per E-Mail an info@esti.admin.ch bestellt werden.
+[^annex1-lvlu1-3]: Die Richtlinien können gegen Bezahlung bei der Schweizerischen Gesellschaft für Korrosionsschutz, Technoparkstrasse 1, 8005 Zürich, im Internet unter [www.sgk.ch](http://www.sgk.ch) &gt; Richtlinien oder per E-Mail an sgk@sgk.ch bestellt werden.
+[^annex1-lvlu1-4]: Die Richtlinien können gegen Bezahlung beim Schweizerischen Verein des Gas- und Wasserfaches, Grütlistrasse 44, 8002 Zürich, oder im Internet unter [www.svgw.ch](http://www.svgw.ch) &gt; Regelwerk &gt; Suchfenster: «Gas» eingeben oder per E-Mail an info@svgw.ch bestellt werden.
 
 Anhang 2
 
@@ -804,6 +806,6 @@ Anhang 2
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)konsultiert werden.
