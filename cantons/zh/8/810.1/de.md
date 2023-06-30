@@ -4,11 +4,11 @@ number: "810.1"
 title: Gesundheitsgesetz (GesG)
 short: GesG
 language: de
-version: "2023-05-01"
-nachtrag: "121"
-valid_until: 2023-07-01
+version: "2023-07-01"
+nachtrag: "122"
+valid_until: 2026-01-01
 adopted: 2007-04-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-810_1-2007_04_02-2008_07_01-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-810_1-2007_04_02-2008_07_01-122.html"
 text: pdf
 ---
 
@@ -552,6 +552,10 @@ des Gesundheitswesens
 
 <sup>3</sup> Über die Pflichtleistungen nach Massgabe der Sozialversicherungsgesetzgebung des Bundes hinaus besteht kein Recht auf Inanspruchnahme von medizinischen Leistungen. Bei Nichtpflichtleistungen gilt die Beistandspflicht der Institutionen solange und im Umfang, als es nach den Umständen zumutbar ist. Der Regierungsrat kann in einer Verordnung den kantonalen Spitälern die Vornahme von solchen Nichtpflichtleistungen untersagen, deren Kosten die durchschnittlichen Untersuchungs-, Diagnose-, Therapie- und Pflegekosten in einem für das Gemeinwesen untragbaren Ausmass übersteigen. Die Spitäler der hochspezialisierten Versorgung und die Universität werden angehört.
 
+**Sterbehilfe**
+
+§ 38 a.<sup>31</sup> Bewohnerinnen und Bewohner einer von einer Gemeinde betriebenen oder beauftragten Institution gemäss § 35 Abs. 2 lit. b können in deren Räumlichkeiten auf eigene Kosten Sterbehilfe in Anspruch nehmen.
+
 #### § 39
 
 **Patientendokumentation**
@@ -620,15 +624,15 @@ Der Regierungsrat erlässt die Vorschriften zum Vollzug der Bundesgesetzgebung �
 
 <sup>1</sup> Der Kanton und die Gemeinden bekämpfen den Suchtmittelmissbrauch.
 
+**15**
+
+- 1\. 7. 23 - 121
+
 <sup>2</sup> Die Plakatwerbung oder andere weiträumig wahrnehmbare Werbung für Tabak, Alkohol und andere Suchtmittel mit vergleichbarem Gefährdungspotenzial ist verboten auf öffentlichem Grund sowie in öffentlichen Gebäuden. Vom Verbot ausgenommen sind:
 
 - a. Anschriften und Schilder von Betrieben,
 
 - b. Werbung direkt in und an den Verkaufsstellen,
-
-**15**
-
-- 1\. 7. 23 - 121
 
 - c. Hinweise auf Anlässe zur Verkaufsförderung für Bier, Wein sowie andere Getränke, die weniger als 15 Prozent vergorenen Alkohol enthalten,
 
@@ -692,13 +696,13 @@ Die Direktion und die Gemeinden können gemeinnützige Institutionen bis zu 100 
 
 § 53 a.<sup>30</sup> <sup>1</sup> Der Kanton stellt im Fall einer Epidemie oder eines anderen aussergewöhnlichen Ereignisses die Versorgung der Institutionen des Gesundheitswesens und der selbstständig tätigen Medizinalpersonen und Gesundheitsfachpersonen mit Arzneimitteln, Medizinprodukten und weiterem für die Gesundheitsversorgung erforderlichem Material sicher.
 
-<sup>2</sup> Er kann die Institutionen des Gesundheitswesens und die selbstständig tätigen Medizinalpersonen und Gesundheitsfachpersonen verpflichten, auf eigene Kosten angemessene Vorsorgeleistungen im Sinne von Abs. 1 zu erbringen. Die Direktion überwacht die Einhaltung der Vorgaben. Die Verordnung regelt die Einzelheiten.
-
-<sup>3</sup> Verpflichtet der Kanton Institutionen des Gesundheitswesens und selbstständig tätige Medizinalpersonen und Gesundheitsfachpersonen zu weitergehenden Vorsorgeleistungen, übernimmt er 100% der ungedeckten Kosten.
-
 **17**
 
 - 1\. 7. 23 - 121
+
+<sup>2</sup> Er kann die Institutionen des Gesundheitswesens und die selbstständig tätigen Medizinalpersonen und Gesundheitsfachpersonen verpflichten, auf eigene Kosten angemessene Vorsorgeleistungen im Sinne von Abs. 1 zu erbringen. Die Direktion überwacht die Einhaltung der Vorgaben. Die Verordnung regelt die Einzelheiten.
+
+<sup>3</sup> Verpflichtet der Kanton Institutionen des Gesundheitswesens und selbstständig tätige Medizinalpersonen und Gesundheitsfachpersonen zu weitergehenden Vorsorgeleistungen, übernimmt er 100% der ungedeckten Kosten.
 
 ### 2. Abschnitt: Bekämpfung übertragbarer Krankheiten<sup>25</sup>
 
@@ -760,6 +764,10 @@ Die Direktion und die Gemeinden können gemeinnützige Institutionen bis zu 100 
 
 <sup>2</sup> Wenn die oder der Verstorbene nicht im Kanton Zürich wohnte und die Leiche nicht an den ausserkantonalen Wohnort überführt wird, erfolgt die Bestattung auf dem Friedhof der Gemeinde, wo der Tod eingetreten oder die Leiche aufgefunden worden ist.
 
+**19**
+
+- 1\. 7. 23 - 121
+
 <sup>3</sup> Auf Wunsch der oder des Verstorbenen oder der Angehörigen kann die Bestattung auch in einer anderen Gemeinde erfolgen, sofern diese zustimmt.
 
 <sup>4</sup> Bei Kremationen ist die Leichenasche in einer Urne zu sammeln. Die Angehörigen der verstorbenen Person verfügen darüber im Rahmen der Schicklichkeit.
@@ -774,11 +782,11 @@ Die Direktion und die Gemeinden können gemeinnützige Institutionen bis zu 100 
 
 <sup>3</sup> An Bestattungen ausserhalb der Wohngemeinde leistet die Wohngemeinde eine vom Regierungsrat festzusetzende Vergütung.
 
-**19**
-
-- 1\. 7. 23 - 121 § 57. Die Gemeinden stellen auf den Friedhöfen genügend Grabplätze für Erd- und Urnenbestattungen zur Verfügung.
+#### § 57
 
 **Grabanspruch**
+
+Die Gemeinden stellen auf den Friedhöfen genügend Grabplätze für Erd- und Urnenbestattungen zur Verfügung.
 
 ### 7. Teil: Schlussbestimmungen
 
@@ -840,6 +848,10 @@ Die Direktion und die Gemeinden können gemeinnützige Institutionen bis zu 100 
 
 - d. eine befristete selbstständige Tätigkeit im Sinne von Art. 5 des bilateralen Abkommens vom 21. Juni 1999 über die Freizügigkeit<sup>12</sup> ohne vorgängige Anzeige bei der Direktion oder vor der Mitteilung durch die Direktion gemäss § 9 Abs. 3 aufnimmt,
 
+**21**
+
+- 1\. 7. 23 - 121
+
 - e. als Inhaberin oder Inhaber einer ausserkantonalen Berufsausübungsbewilligung ohne vorgängige Anzeige bei der Direktion oder vor der Mitteilung durch die Direktion gemäss § 9 Abs. 3 die selbstständige Tätigkeit aufnimmt,
 
 - f. ohne Bewilligung unselbstständig Tätige oder Vertreterinnen und Vertreter bewilligungspflichtige Tätigkeiten ausüben lässt,
@@ -847,10 +859,6 @@ Die Direktion und die Gemeinden können gemeinnützige Institutionen bis zu 100 
 - g. unselbstständig Tätigen Verrichtungen überträgt, die deren berufliche Qualifikationen übersteigen,
 
 - h. eine Institution gemäss § 35 betreibt, ohne über eine Betriebsbewilligung zu verfügen. Ist die Betreiberin eine juristische Person, machen sich diejenigen natürlichen Personen strafbar, in deren Verantwortung die Pflicht zum Einholen der Bewilligung fällt,
-
-**21**
-
-- 1\. 7. 23 - 121
 
 - i. für Alkohol, Tabak und andere Suchtmittel mit vergleichbarem Gefährdungspotenzial auf öffentlichem Grund sowie in öffentlichen Gebäuden gemäss § 48 Abs. 2 verbotene Werbung betreibt,
 
@@ -918,6 +926,10 @@ Bis zum Inkrafttreten des Bundesgesetzes über die universitären Medizinalberuf
 
 - 1\. Professorinnen und Professoren der Universität Zürich mit einem Lehrauftrag für klinische Fächer im Rahmen ihrer Anstellung,
 
+**23**
+
+- 1\. 7. 23 - 121
+
 - 2\. im Grenzgebiet zu anderen Kantonen und zum Ausland praxisberechtigte Ärztinnen und Ärzte mit eidgenössischem oder eidgenössisch anerkanntem ausländischem Diplom für die gelegentliche Berufstätigkeit, die sie von ihrem Praxisstandort aus im Grenzgebiet des Kantons Zürich ausüben.
 
 #### § 68
@@ -925,10 +937,6 @@ Bis zum Inkrafttreten des Bundesgesetzes über die universitären Medizinalberuf
 **c. Zahnärztinnen und Zahnärzte**
 
 <sup>1</sup> Die Bewilligung zur selbstständigen zahnärztlichen Tätigkeit setzt in fachlicher Hinsicht voraus, dass die Gesuchstellerin oder der Gesuchsteller über ein eidgenössisches oder eidgenössisch anerkanntes ausländisches Zahnarztdiplom verfügt.
-
-**23**
-
-- 1\. 7. 23 - 121
 
 <sup>2</sup> Zur selbstständigen zahnärztlichen Tätigkeit sind ohne Bewilligung berechtigt:
 
@@ -1002,6 +1010,10 @@ Die erste öffentliche Ausschreibung gemäss § 17 h ist so vorzunehmen, dass di
 
 <sup>16</sup> Aufgehoben durch Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
 
+**25**
+
+- 1\. 7. 23 - 121
+
 <sup>17</sup> Eingefügt durch G vom 27. Juni 2011 (OS 66, 850; ABl 2010, 2385). In Kraft seit 1. Januar 2012.
 
 <sup>18</sup> Fassung gemäss Änderung vom 30. November 2008 (OS 66, 652; ABl 2007, 2060). In Kraft seit 1. Mai 2012 (gemäss Urteil des Verwaltungsgerichts VB.2011.00722 vom 17. Januar 2012).
@@ -1013,10 +1025,6 @@ Die erste öffentliche Ausschreibung gemäss § 17 h ist so vorzunehmen, dass di
 <sup>21</sup> Aufgehoben durch G vom 14. Januar 2013 (OS 69, 177; ABl 2012, 1102). In Kraft seit 1. Mai 2014.
 
 <sup>22</sup> Fassung gemäss G vom 24. November 2014 (OS 70, 259; ABl 2014-03-14). In Kraft seit 1. September 2015.
-
-**25**
-
-- 1\. 7. 23 - 121
 
 <sup>23</sup> Eingefügt durch G vom 19. Dezember 2017 (OS 73, 1; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
 
@@ -1033,3 +1041,5 @@ Die erste öffentliche Ausschreibung gemäss § 17 h ist so vorzunehmen, dass di
 <sup>29</sup> Fassung gemäss G vom 21. März 2022 (OS 77, 527; ABl 2021-11-26). In Kraft seit 1. November 2022.
 
 <sup>30</sup> Eingefügt durch Gesetz über die Verselbstständigung der Kantonsapotheke Zürich vom 7. November 2022 (OS 78, 140; ABl 2018-07-20). In Kraft seit 1. Mai 2023.
+
+<sup>31</sup> Eingefügt durch G vom 31. Oktober 2022 (OS 78, 243; ABl 2022-04-08). In Kraft seit 1. Juli 2023.
