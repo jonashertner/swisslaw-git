@@ -4,7 +4,7 @@ number: "642.11"
 title: LOI du 04.07.2000 sur les impôts directs cantonaux (LI)
 short: LI
 language: fr
-version: 2023-01-01
+version: 2023-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.11?id=8df99d51-8df8-49ed-9ef5-2fa4817d0004"
 ---
 
@@ -1828,7 +1828,7 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 <sup>2</sup> Le taux de l'impôt peut être majoré dans des cas particuliers en lien avec les relations internationales.
 
-[^sectionSectionI-1]: Modif. 28 du 30.04.2013: Modification Al. 1; entrée en vigueur au 01.01.2013 · Modif. 31 du 29.09.2015: Modification Al. 1; entrée en vigueur au 01.01.2019; Introduction Al. 2; entrée en vigueur au 01.01.2019 · Modif. 43 du 03.10.2023: Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 3; entrée en vigueur au 01.01.2025; Introduction Art. 111, Al. 3; entrée en vigueur au 01.01.2025; Introduction Art. 277k, Al. 3-4; entrée en vigueur au 01.07.2023
+[^sectionSectionI-1]: Modif. 28 du 30.04.2013: Modification Al. 1; entrée en vigueur au 01.01.2013 · Modif. 31 du 29.09.2015: Modification Al. 1; entrée en vigueur au 01.01.2019; Introduction Al. 2; entrée en vigueur au 01.01.2019 · Modif. 43 du 03.10.2023: Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 3; entrée en vigueur au 01.01.2025; Introduction Art. 111, Al. 3; entrée en vigueur au 01.01.2025
 
 #### Art. 106
 
@@ -1918,7 +1918,7 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 <sup>2</sup> Le bénéfice n'est pas imposé lorsqu'il n'excède pas 20'000 francs.
 
-[^sectionSectionIII-4]: Modif. 12 du 12.12.2007: Modification Al. 1; entrée en vigueur au 01.01.2008 · Modif. 32 du 08.12.2015: Modification Al. 2; entrée en vigueur au 01.01.2018 · Modif. 39 du 08.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1; entrée en vigueur au 01.01.2021; Introduction Al. 1bis; entrée en vigueur au 01.01.2021 · Modif. 43 du 03.10.2023: Introduction Art. 105, Al. 3; entrée en vigueur au 01.01.2025; Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 3; entrée en vigueur au 01.01.2025; Introduction Art. 277k, Al. 3-4; entrée en vigueur au 01.07.2023
+[^sectionSectionIII-4]: Modif. 12 du 12.12.2007: Modification Al. 1; entrée en vigueur au 01.01.2008 · Modif. 32 du 08.12.2015: Modification Al. 2; entrée en vigueur au 01.01.2018 · Modif. 39 du 08.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1; entrée en vigueur au 01.01.2021; Introduction Al. 1bis; entrée en vigueur au 01.01.2021 · Modif. 43 du 03.10.2023: Introduction Art. 105, Al. 3; entrée en vigueur au 01.01.2025; Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 3; entrée en vigueur au 01.01.2025
 
 ### Titre III Impôt sur le capital
 
@@ -1942,7 +1942,7 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 <sup>2</sup> Est imposable au moins le capital-actions ou le capital social libéré.
 
-[^sectionSectionII-6]: Modif. 43 du 03.10.2023: Introduction Art. 105, Al. 3; entrée en vigueur au 01.01.2025; Introduction Art. 111, Al. 3; entrée en vigueur au 01.01.2025; Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Art. 277k, Al. 3-4; entrée en vigueur au 01.07.2023
+[^sectionSectionII-6]: Modif. 43 du 03.10.2023: Introduction Art. 105, Al. 3; entrée en vigueur au 01.01.2025; Introduction Art. 111, Al. 3; entrée en vigueur au 01.01.2025; Modification Al. 1; entrée en vigueur au 01.01.2025
 
 #### Art. 114
 
@@ -4221,11 +4221,15 @@ Le Conseil d'Etat arrête les dispositions d'application du présent article ; l
 
 **Imposition distincte [^277i-1]**
 
-<sup>1</sup> Les réserves latentes existant à la fin de l'imposition selon les articles 108 et 109, y compris la plus-value créée par le contribuable lui-même, sont imposées séparément lors de leur réalisation, dans les 5 ans qui suivent, au taux de 2%.
+<sup>1</sup> Les personnes morales, imposées sur la base des articles 108 et 109 de la présente loi, dans sa teneur jusqu'au 31 décembre 2019 (aLI), qui ont déclaré les réserves latentes existant à la fin de cette imposition, y compris la plus-value créée par le contribuable lui-même, peuvent, soit être imposées séparément au taux de 2% lors de la réalisation de ces réserves latentes dans les cinq ans qui suivent, mais au plus tard jusqu'à la période fiscale 2024 comprise, soit amortir ces réserves latentes.
 
-<sup>2</sup> Le montant des réserves latentes que le contribuable fait valoir, y compris la plus-value qu'il a créée lui-même, est fixé par une décision de l'Office d'impôt des personnes morales.
+<sup>2</sup> Le montant des réserves latentes à la fin de l'imposition fondée sur les articles 108 et 109 aLI que le contribuable fait valoir, y compris la plus-value qu'il a créée lui-même, est fixé par une décision de l'Office d'impôt des personnes morales. Le montant total des réserves latentes qui peut être amorti selon l'alinéa 1 correspond au montant des réserves latentes constatées par la décision de l'Office d'impôt des personnes morales après déduction des réserves latentes réalisées depuis la période fiscale 2020.
 
-[^277i-1]: Modif. 36 du 12.12.2018: Introduction Art. 277k; entrée en vigueur au 01.07.2019 · Modif. 43 du 03.10.2023: Introduction Art. 105, Al. 3; entrée en vigueur au 01.01.2025; Introduction Art. 111, Al. 3; entrée en vigueur au 01.01.2025; Modification Al. 1-2; entrée en vigueur au 01.07.2023; Introduction Al. 3-4; entrée en vigueur au 01.07.2023
+<sup>3</sup> Les réserves latentes telles que déterminées selon l'alinéa 2 peuvent être amorties jusqu'à la période fiscale 2029 comprise. Dans la mesure où de telles réserves latentes existent encore à la date de clôture de la période fiscale 2029, elles ne sont fiscalement plus prises en compte à partir de la période fiscale 2030.
+
+<sup>4</sup> Si des réserves latentes, y compris la plus-value créée par la personne morale elle-même, qui ont été déclarées à la fin de l'imposition fondée sur les articles 108 et 109 aLI, existent et sont amorties selon alinéa 1, l'article 95b est applicable. Dans ce cas, le plafond des abattements de l'article 95b alinéa 1 est porté à 30%.
+
+[^277i-1]: Modif. 36 du 12.12.2018: Introduction Art. 277k; entrée en vigueur au 01.07.2019 · Modif. 43 du 03.10.2023: Modification Al. 1-2; entrée en vigueur au 01.07.2023; Introduction Al. 3-4; entrée en vigueur au 01.07.2023 · Modif. 43 du 03.10.2023: Introduction Art. 105, Al. 3; entrée en vigueur au 01.01.2025; Introduction Art. 111, Al. 3; entrée en vigueur au 01.01.2025
 
 #### Art. 277l
 
