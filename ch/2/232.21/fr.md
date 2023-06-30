@@ -4,11 +4,11 @@ title: "Loi du 21 juin 2013 sur la protection des armoiries de la Suisse et des 
 short: LPAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/613"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2013-06-21
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-613-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-613-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20220101/fr"
 
 (Loi sur la protection des armoiries, LPAP)[^t-1]
 
-du 21 juin 2013 (Etat le 1<sup>er</sup> janvier 2022)
+du 21 juin 2013 (État le 1<sup>er</sup> juillet 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -324,11 +324,12 @@ Est puni d’une peine privative de liberté d’un an au plus ou d’une peine 
 - d. utilise une désignation officielle ou une désignation susceptible d’être confondue avec celle-ci;
 - e. utilise un signe national figuratif ou verbal suisse ou étranger.
 
-<sup>2</sup> Si l’auteur de l’infraction agit par métier, il encourt une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
+<sup>2</sup> Si l’auteur de l’infraction agit par métier, il encourt une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. …[^28-1]
 
-<sup>3</sup> L’art. 64 LPM[^28-1] est réservé.
+<sup>3</sup> L’art. 64 LPM[^28-2] est réservé.
 
-[^28-1]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^28-1]: Phrase abrogée par le ch. I 9 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^28-2]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
 
 #### Art. 29
 
@@ -352,7 +353,7 @@ Même en cas d’acquittement, le juge peut ordonner la confiscation ou la destr
 
 <sup>2</sup> L’IPI peut dénoncer une infraction auprès des autorités de poursuite pénale compétentes et faire valoir les droits d’une partie plaignante dans la procédure.
 
-## Chapitre 5 Intervention de l’Office fédéral de la douane et de la sécurité des frontières****
+## Chapitre 5 Intervention de l’Office fédéral de la douane et de la sécurité des frontières
 
 [^chap5-1]
 
@@ -435,7 +436,7 @@ Annexe 1
 
 ## Les armoiries de la Confédération suisse
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20230701/fr/xml/image/image1.png)
 
 Définition de la couleur rouge:
 
@@ -459,7 +460,7 @@ Annexe 2
 
 ## Le drapeau suisse
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20230701/fr/xml/image/image2.png)
 
 Définition de la couleur rouge:
 

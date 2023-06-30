@@ -4,11 +4,11 @@ title: "Federal Act of 21 June 2013 on the Protection of the Swiss Coat of Arms 
 short: CAPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/613"
 language: en
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2013-06-21
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2015-613-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2015-613-20230701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Coat of Arms Protection Act, CAPA)
 
-of 21 June 2013 (Status as of 1 January 2022)
+of 21 June 2013 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation
 
@@ -324,11 +324,12 @@ Any person who wilfully and unlawfully commits any of the following acts is liab
 - d. uses an official designation or a designation that could be confused with it;
 - e. uses a domestic or foreign national figurative or word sign.
 
-<sup>2</sup> If the offender acts for commercial gain, the penalty is a custodial sentence not exceeding five years or a monetary penalty. The custodial sentence shall be combined with a monetary penalty.
+<sup>2</sup> If the offender acts for commercial gain, the penalty is a custodial sentence not exceeding five years or a monetary penalty. …[^28-1]
 
-<sup>3</sup> Article 64 TmPA[^28-1] remains reserved.
+<sup>3</sup> Article 64 TmPA[^28-2] remains reserved.
 
-[^28-1]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^28-1]: Second sentence repealed by No I 9 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^28-2]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
 
 #### Art. 29
 
@@ -352,7 +353,7 @@ Even in the event of an acquittal, the court may order the forfeiture or destruc
 
 <sup>2</sup> The IPI may file a complaint with the competent prosecution authority and exercise the rights of a private claimant in proceedings.
 
-## Chapter 5 Assistance provided by the Federal Office for Customs and Border Security****
+## Chapter 5 Assistance provided by the Federal Office for Customs and Border Security
 
 [^chap5-1]
 
@@ -435,7 +436,7 @@ Annex 1
 
 ## The Swiss coat of arms
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20230701/en/xml/image/image1.png)
 
 Definition of the colour red:
 
@@ -459,7 +460,7 @@ Annex 2
 
 ## The Swiss flag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20230701/en/xml/image/image2.png)
 
 Definition of the colour red:
 

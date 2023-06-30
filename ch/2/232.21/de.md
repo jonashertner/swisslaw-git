@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. Juni 2013 über den Schutz des Schweizerwappens und
 short: WSchG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/613"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2013-06-21
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-613-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2015-613-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20220101/de"
 
 (Wappenschutzgesetz, WSchG)
 
-vom 21. Juni 2013 (Stand am 1. Januar 2022)
+vom 21. Juni 2013 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -322,11 +322,12 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer vor
 - d. eine amtliche Bezeichnung oder eine damit verwechselbare Bezeichnung gebraucht;
 - e. ein nationales Bild- oder Wortzeichen des In- oder Auslandes gebraucht.
 
-<sup>2</sup> Handelt die Täterin oder der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.
+<sup>2</sup> Handelt die Täterin oder der Täter gewerbsmässig, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. …[^28-1]
 
-<sup>3</sup> Artikel 64 MSchG[^28-1] bleibt vorbehalten.
+<sup>3</sup> Artikel 64 MSchG[^28-2] bleibt vorbehalten.
 
-[^28-1]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^28-1]: Zweiter Satz aufgehoben durch Ziff. I 9 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^28-2]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
 
 #### Art. 29
 
@@ -350,7 +351,7 @@ Das Gericht kann, selbst im Falle eines Freispruchs die Einziehung oder Vernicht
 
 <sup>2</sup> Das IGE kann bei der zuständigen Strafverfolgungsbehörde Anzeige erstatten und im Verfahren die Rechte einer Privatklägerschaft wahrnehmen.
 
-## 5. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit****
+## 5. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit
 
 [^chap5-1]
 
@@ -433,7 +434,7 @@ Anhang 1
 
 ## Schweizerwappen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20230701/de/xml/image/image1.png)
 
 Farbdefinition Rot:
 
@@ -457,7 +458,7 @@ Anhang 2
 
 ## Schweizerfahne
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20230701/de/xml/image/image2.png)
 
 Farbdefinition Rot:
 
@@ -492,8 +493,8 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex3-lvlu1-3]
+…[^annex3-lvlu1-3]
 
-[^annex3-lvlu1-1]: [BS **2** 935; [AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 25, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 13]
+[^annex3-lvlu1-1]: [BS **2** 935; [AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 25; [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 13]
 [^annex3-lvlu1-2]: [AS **1** 147]
 [^annex3-lvlu1-3]: Die Änderungen können unter [AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613)konsultiert werden.
