@@ -4,11 +4,11 @@ title: "Loi fédérale du 9 octobre 1992 sur la protection des topographies de p
 short: LTo
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1828_1828_1828-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1828_1828_1828-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20220101/fr"
 
 (Loi sur les topographies, LTo)
 
-du 9 octobre 1992 (Etat le 1<sup>er</sup> janvier 2022)
+du 9 octobre 1992 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -144,9 +144,10 @@ Sur plainte du lésé, est puni d’une peine privative de liberté d’un an au
 - b. propose au public, aliène, loue, prête ou, de quelque autre manière, met en circulation une topographie ou l’importe à ces fins;
 - c. refuse de déclarer aux autorités compétentes la provenance des objets qui ont été produits ou mis en circulation de manière illicite et qui se trouvent en sa possession.
 
-<sup>2</sup> Si l’auteur d’une infraction au sens de l’al. 1 agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.
+<sup>2</sup> Si l’auteur d’une infraction au sens de l’al. 1 agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. …[^11-2]
 
 [^11-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^11-2]: Phrase abrogée par le ch. I 5 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 12
 

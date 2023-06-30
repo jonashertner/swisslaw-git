@@ -4,11 +4,11 @@ title: "Legge federale del 9 ottobre 1992 sulla protezione delle topografie di p
 short: LTo
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828"
 language: it
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1828_1828_1828-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1993-1828_1828_1828-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20220101/it"
 
 (Legge sulle topografie, LTo)
 
-del 9 ottobre 1992 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 9 ottobre 1992 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -26,7 +26,7 @@ visto l’articolo 122 della Costituzione federale[^ingress-1];[^ingress-2] vist
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. 4 dell’all. alla LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^ingress-2]: Nuovo testo giusta l’all. n. 4 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [FF 1989 III 413](https://fedlex.data.admin.ch/eli/fga/1989/3_477_465_413)
 
 ## Capitolo 1: Disposizioni generali
@@ -84,7 +84,7 @@ Il produttore ha il diritto esclusivo di:
 - a. copiare la topografia con qualsiasi mezzo o in qualsivoglia forma;
 - b.[^5-1] immettere sul mercato, proporre al pubblico, alienare, locare, prestare o diffondere in qualsiasi altro modo oppure importare, esportare o far transitare a tal fine la topografia o copie della stessa.
 
-[^5-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^5-1]: Nuovo testo giusta l’all. n. 2 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 6
 
@@ -144,11 +144,12 @@ A querela della parte lesa è punito con una pena detentiva fino a un anno o con
 - b. offre, aliena, dà in locazione, presta o mette altrimenti in circolazione oppure importa a tal fine topografie o copie delle stesse;
 - c.[^11-2] si rifiuta d’indicare all’autorità competente la provenienza degli oggetti in suo possesso illecitamente fabbricati o immessi sul mercato.
 
-<sup>2</sup> Chiunque commette a titolo commerciale un reato di cui al capoverso 1 è perseguito d’ufficio. È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.[^11-3]
+<sup>2</sup> Chiunque commette a titolo commerciale un reato di cui al capoverso 1 è perseguito d’ufficio. È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria. ...[^11-3] [^11-4]
 
-[^11-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^11-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^11-3]: Nuovo testo giusta il n. 2 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^11-1]: Nuovo testo giusta l’all. n. 2 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^11-2]: Nuovo testo giusta l’all. n. 2 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^11-3]: Per. abrogato dal n. I 5 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^11-4]: Nuovo testo giusta l’all. n. 2 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 12
 
@@ -167,8 +168,8 @@ L’intervento dell’Ufficio federale della dogana e della sicurezza dei confin
 
 L’Istituto federale della proprietà intellettuale[^13-1] (IPI)[^13-2] tiene il registro delle topografie.
 
-[^13-1]: Nuova espr. giusta il n. 3 dell’all. alla L del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^13-2]: Nuovo testo giusta il n. 4 dell’all. alla LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^13-1]: Nuova espr. giusta l’all. n. 3 della L del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^13-2]: Nuovo testo giusta l’all. n. 4 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 14
 
@@ -220,13 +221,13 @@ Ognuno può, versando una tassa, consultare il registro e i documenti della doma
 
 <sup>5</sup> Le pubblicazioni dell’IPI possono essere fatte in forma elettronica; la versione elettronica è tuttavia determinante soltanto se i dati sono pubblicati esclusivamente in forma elettronica.
 
-[^16a-1]: Introdotto dal n. 3 dell’all. alla L del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
+[^16a-1]: Introdotto dall’all. n. 3 della L del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
 #### Art. 17
 
 [^17-1]
 
-[^17-1]: Abrogato dal n. 20 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^17-1]: Abrogato dall’all. n. 20 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Capitolo 3: Disposizioni finali
 

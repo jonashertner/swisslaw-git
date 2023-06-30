@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 9. Oktober 1992 über den Schutz von Topographien von H
 short: ToG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1828_1828_1828-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1828_1828_1828/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1993-1828_1828_1828-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1828_1828_1828/20220101/de"
 
 (Topographiengesetz, ToG)
 
-vom 9. Oktober 1992 (Stand am 1. Januar 2022)
+vom 9. Oktober 1992 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -144,11 +144,12 @@ Auf Antrag der in ihren Rechten verletzten Person wird mit Freiheitsstrafe bis z
 - b. eine Topographie oder nachgebildete Ausführungen einer Topographie in Verkehr bringt, anbietet, veräussert, vermietet, verleiht oder sonst wie verbreitet oder zu diesen Zwecken einführt;
 - c. sich weigert, der zuständigen Behörde die Herkunft der in seinem Besitz befindlichen Gegenstände, die widerrechtlich hergestellt oder in Verkehr gebracht worden sind, anzugeben.[^11-2]
 
-<sup>2</sup> Wer eine Tat nach Absatz 1 gewerbsmässig begangen hat, wird von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.[^11-3]
+<sup>2</sup> Wer eine Tat nach Absatz 1 gewerbsmässig begangen hat, wird von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. …[^11-3] [^11-4]
 
 [^11-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^11-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^11-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^11-3]: Dritter Satz aufgehoben durch Ziff. I 5 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^11-4]: Fassung gemäss Anhang Ziff. 2 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 12
 
