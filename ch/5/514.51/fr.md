@@ -4,11 +4,11 @@ title: Loi fédérale du 13 décembre 1996 sur le matériel de guerre (LFMG)
 short: LFMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/794_794_794"
 language: fr
-version: 2022-05-01
+version: 2023-07-01
 adopted: 1996-12-13
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20220501-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20230701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,19 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220501/fr"
 
 (LFMG)
 
-du 13 décembre 1996 (Etat le 1<sup>er</sup> mai 2022)
+du 13 décembre 1996 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 54, al. 1, 107, al. 2, et 123 de la Constitution[^ingress-1],[^ingress-2] vu la compétence de la Confédération en matière de relations extérieures[^ingress-3],[^ingress-4] vu le message du Conseil fédéral du 15 février 1995[^ingress-5],
+vu les art. 54, al. 1 et 107, al. 2, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 15 février 1995[^ingress-3],
 
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 226](https://fedlex.data.admin.ch/eli/oc/2022/226); [FF 2021 623](https://fedlex.data.admin.ch/eli/fga/2021/623)).
-[^ingress-3]: Cette compétence correspond à l’art. 54 al. 1 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-4]: Nouvelle teneur selon le ch. I 2 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^ingress-5]: [FF 1995 II 988](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)
+[^ingress-2]: Nouvelle teneur selon le ch. II 3 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [FF 1995 II 988](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)
 
 ## Chapitre 1 Dispositions générales
 
@@ -97,7 +95,7 @@ Par courtage, on entend:
 - a. la création des conditions essentielles pour la conclusion de contrats ayant pour objet la fabrication, l’offre, l’acquisition ou le transfert de matériel de guerre, ou encore le transfert de biens immatériels, y compris le know-how, ou la concession de droits y afférents, pour autant que ceux-ci concernent du matériel de guerre;
 - b. la conclusion de tels contrats lorsque les prestations sont fournies par des tiers.
 
-## Chapitre 2 Matériels de guerre prohibés****
+## Chapitre 2 Matériels de guerre prohibés
 
 [^chap2-1]
 
@@ -228,7 +226,7 @@ Aucune autorisation initiale n’est requise pour celui qui:
 
 L’autorisation initiale est accordée aux personnes physiques ou morales:
 
-- a. qui offrent les garanties nécessaires d’une gestion régulière de leurs affaires; et
+- a. qui offrent les garanties nécessaires d’une gestion régulière de leurs affaires, et
 - b. dont l’activité prévue n’est pas contraire aux intérêts du pays.
 
 <sup>2</sup> Si, pour exercer son activité, le requérant doit en outre être titulaire d’une autorisation prévue par la législation fédérale ou cantonale sur les armes, l’autorisation initiale ne sera délivrée que si la première autorisation a été accordée.
@@ -251,7 +249,7 @@ L’autorisation initiale est accordée aux personnes physiques ou morales:
 
 Pour les activités soumises au régime de l’autorisation selon la présente loi, on distingue les autorisations spécifiques suivantes:
 
-- a.[^12-1] ...
+- a.[^12-1] …
 - b. l’autorisation de courtage;
 - c. l’autorisation d’importation;
 - d. l’autorisation d’exportation;
@@ -262,7 +260,7 @@ Pour les activités soumises au régime de l’autorisation selon la présente l
 [^12-1]: Abrogée par le ch. I 2 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, avec effet au 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 [^12-2]: Introduite par le ch. I 2 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 
-### Section 2 ...
+### Section 2 …
 
 #### Art. 13 et 14
 
@@ -292,7 +290,7 @@ Pour les activités soumises au régime de l’autorisation selon la présente l
 
 <sup>2</sup> Si des circonstances exceptionnelles l’exigent, l’autorisation de courtage peut être suspendue ou révoquée.
 
-### Section 3*a***** Autorisation de commerce
+### Section 3*a* Autorisation de commerce
 
 [^chap4-sec3a-1]
 
@@ -379,7 +377,7 @@ Ne sont pas soumis à autorisation les biens immatériels, y compris le know-how
 
 - a. nécessités par les travaux d’installation, d’entretien, de contrôle et de réparation de matériel de guerre, lorsqu’il s’agit de travaux de routine et que l’exportation de ce matériel avait été autorisée;
 - b. tombés dans le domaine public;
-- c. qui doivent être divulgués en vue du dépôt d’une demande de brevet dans un État tiers; ou
+- c. qui doivent être divulgués en vue du dépôt d’une demande de brevet dans un État tiers, ou
 - d. qui servent la recherche scientifique fondamentale.
 
 <sup>3</sup> Le Conseil fédéral peut prévoir des exceptions pour certains pays.
@@ -426,7 +424,7 @@ L’autorisation concernant les affaires avec l’étranger au sens de l’art. 
 <sup>4</sup> Par dérogation à l’al. 2, une autorisation concernant une affaire avec l’étranger en vue d’un engagement en faveur de la paix peut être accordée si l’engagement résulte d’un mandat des Nations Unies, de l’Organisation pour la sécurité et la coopération en Europe ou d’une organisation supranationale ayant pour mission la promotion de la paix.
 
 [^22a-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 226](https://fedlex.data.admin.ch/eli/oc/2022/226); [FF 2021 623](https://fedlex.data.admin.ch/eli/fga/2021/623)).
-[^22a-2]: La liste établie par le Comité d’aide au développement de l’OCDE peut être consultée à l’adresse suivante: www.ocde.org.
+[^22a-2]: La liste établie par le Comité d’aide au développement de l’OCDE peut être consultée à l’adresse suivante: [www.ocde.org](http://www.ocde.org).
 
 #### Art. 23
 
@@ -501,7 +499,7 @@ Le titulaire d’une autorisation au sens de la présente loi ainsi que les dét
 
 <sup>2</sup> L’office central participe à l’exécution de la présente loi ainsi qu’à la prévention des infractions et dénonce les infractions aux dispositions de la présente loi aux autorités compétentes en matière de poursuite pénale. Il a le droit de traiter des données personnelles, y compris des données sensibles et des profils de la personnalité, dans la mesure et aussi longtemps que ses tâches l’exigent. [^30-1]
 
-[^30-1]: Nouvelle teneur selon le ch. I 6 de l'O du 12 déc. 2008 sur l’adaptation des dispositions légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^30-1]: Nouvelle teneur selon le ch. I 6 de l’O du 12 déc. 2008 sur l’adaptation des dispositions légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 
 #### Art. 31
 
@@ -533,16 +531,16 @@ Est punie d’une peine privative de liberté de trois ans au plus ou d’une pe
 - e. transfère des droits immatériels, y compris le know-how, ou concède des droits y afférents à un destinataire ou vers un lieu de destination autre que celui qui figure dans l’autorisation;
 - f. participe aux opérations financières liées à un trafic illicite de matériel de guerre ou sert d’intermédiaire dans le financement d’une telle affaire.
 
-<sup>2</sup> Dans les cas graves, la peine sera une peine privative de liberté de un à dix ans. La peine privative de liberté peut être assortie d’une peine pécuniaire.[^33-3]
+<sup>2</sup> Dans les cas graves, la peine sera une peine privative de liberté de un à dix ans.[^33-3]
 
-<sup>3</sup> Si l’auteur agit par négligence, il est puni d’une peine pécuniaire de 180 jours-amende au plus.[^33-4]
+<sup>3</sup> L’auteur est puni d’une peine pécuniaire s’il agit par négligence.[^33-4]
 
 <sup>4</sup> En cas d’importation ou de transit non autorisés, l’infraction commise à l’étranger est également punissable.
 
 [^33-1]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^33-2]: Nouvelle teneur selon l’annexe ch. 5 de la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^33-3]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^33-4]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^33-3]: Nouvelle teneur selon le ch. I 17 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^33-4]: Nouvelle teneur selon le ch. I 17 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 34
 
@@ -553,10 +551,10 @@ Est punie d’une peine privative de liberté de trois ans au plus ou d’une pe
 Est punie d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire toute personne qui, intentionnellement et sans qu’elle puisse invoquer l’une des exceptions prévues à l’art. 7, al. 2:[^34-1]
 
 - a. développe, fabrique, procure à titre d’intermédiaire, acquiert, remet à quiconque, importe, exporte, fait transiter, entrepose des armes nucléaires, biologiques ou chimiques (armes ABC) ou en dispose d’une autre manière;
-- b. incite quiconque à commettre un acte mentionné à la let. a; ou
+- b. incite quiconque à commettre un acte mentionné à la let. a, ou
 - c. favorise l’accomplissement d’un acte mentionné à la let. a.
 
-<sup>2</sup> La peine privative de liberté peut être assortie d’une peine pécuniaire.[^34-2]
+<sup>2</sup> …[^34-2]
 
 <sup>3</sup> Si l’auteur agit par négligence, il est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.[^34-3]
 
@@ -564,13 +562,13 @@ Est punie d’une peine privative de liberté de dix ans au plus ou d’une pein
 
 Tout acte commis à l’étranger est punissable, indépendamment du droit applicable au lieu de commission:
 
-- a. s’il viole des accords de droit international auxquels la Suisse est partie; et
+- a. s’il viole des accords de droit international auxquels la Suisse est partie, et
 - b. si son auteur est Suisse ou a son domicile en Suisse.
 
 <sup>5</sup> L’art. 7, al. 4 et 5, du code pénal[^34-4] est applicable.[^34-5]
 
 [^34-1]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^34-2]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^34-2]: Abrogé par le ch. I 17 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^34-3]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^34-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^34-5]: Introduit par le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
@@ -587,12 +585,12 @@ Est punie d’une peine privative de liberté de dix ans au plus ou d’une pein
 - b. incite quiconque à commettre un des actes mentionnés à la let. a, ou
 - c. favorise l’accomplissement d’un des actes mentionnés à la let. a.
 
-<sup>2</sup> La peine privative de liberté peut être assortie d’une peine pécuniaire.[^35-2]
+<sup>2</sup> …[^35-2]
 
 <sup>3</sup> Si l’auteur agit par négligence, il est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.[^35-3]
 
 [^35-1]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^35-2]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^35-2]: Abrogé par le ch. I 17 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^35-3]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 
 #### Art. 35a
@@ -607,11 +605,12 @@ Est punie d’une peine privative de liberté de dix ans au plus ou d’une pein
 - b. incite quiconque à commettre un acte mentionné à la let. a;
 - c. favorise l’accomplissement d’un acte mentionné à la let. a.
 
-<sup>2</sup> La peine privative de liberté peut être assortie d’une peine pécuniaire.
+<sup>2</sup> …[^35a-2]
 
 <sup>3</sup> Si l’auteur a agi par négligence, il est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.
 
 [^35a-1]: Introduit par le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^35a-2]: Abrogé par le ch. I 17 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 35b
 
@@ -619,11 +618,12 @@ Est punie d’une peine privative de liberté de dix ans au plus ou d’une pein
 
 <sup>1</sup> Est punie d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire toute personne qui, intentionnellement et sans qu’elle puisse invoquer l’une des exceptions prévues aux art. 7, al. 2, 8, al. 2, ou 8*a*, al*.* 3, enfreint les interdictions de financement prévues aux art. 8*b* et 8*c*.
 
-<sup>2</sup> La peine privative de liberté peut être assortie d’une peine pécuniaire.
+<sup>2</sup> …[^35b-2]
 
 <sup>3</sup> Si l’auteur ne fait que s’accommoder de l’éventualité d’une infraction aux interdictions de financement prévues aux art. 8*b* et 8*c*, il n’est pas punissable au sens de la présente disposition.
 
 [^35b-1]: Introduit par le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^35b-2]: Abrogé par le ch. I 17 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 36
 
@@ -725,7 +725,7 @@ Si l’État étranger accorde la réciprocité, elles peuvent communiquer les d
 
 <sup>1</sup> Le Conseil fédéral arrête les dispositions d’exécution.
 
-<sup>2</sup> ...[^43-1]
+<sup>2</sup> …[^43-1]
 
 [^43-1]: Abrogé par le ch. I 2 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, avec effet au 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 
@@ -741,7 +741,7 @@ La loi fédérale du 30 juin 1972[^44-1] sur le matériel de guerre est abrogée
 
 **Modification du droit en vigueur**
 
-...[^45-1]
+…[^45-1]
 
 [^45-1]: La mod. peut être consultée au [RO 1998 794](https://fedlex.data.admin.ch/eli/oc/1998/794_794_794).
 
@@ -749,7 +749,7 @@ La loi fédérale du 30 juin 1972[^44-1] sur le matériel de guerre est abrogée
 
 **Dispositions transitoires**
 
-<sup>1</sup> ...[^46-1]
+<sup>1</sup> …[^46-1]
 
 <sup>2</sup> Les contrats relatifs au transfert de biens immatériels, y compris le know-how, ou à la concession de droits y afférents, qui ont été conclus avant l’entrée en vigueur de la présente loi, ne requièrent pas d’autorisation prévue par cette dernière.
 

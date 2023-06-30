@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 1996 on War Material (War Material Act, WMA)"
 short: WMA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/794_794_794"
 language: en
-version: 2022-05-01
+version: 2023-07-01
 adopted: 1996-12-13
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20220501/en/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20220501-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20230701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,19 +19,17 @@ English is not an official language of the Swiss Confederation. This translation
 
 (War Mat Act, WMA)
 
-of 13 December 1996 (Status as of 1 May 2022)
+of 13 December 1996 (Status as of 1 July 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
-based on the Articles 54 paragraph 1, 107 paragraph 2 and 3 and 123 of the Federal Constitution[^ingress-1],[^ingress-2] and on the powers of the Confederation in foreign affairs[^ingress-3],[^ingress-4] and having considered the Federal Council Dispatch dated 15 February 1995[^ingress-5],
+based on the Articles 54 paragraph 1 and 107 paragraph 2 of the Federal Constitution[^ingress-1],[^ingress-2] and having considered the Federal Council Dispatch dated 15 February 1995[^ingress-3],
 
 decrees:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Amended by No I of the FA of 1 Oct. 2021, in force since 1 May 2022 ([AS 2022 226](https://fedlex.data.admin.ch/eli/oc/2022/226); [BBl 2021 623](https://fedlex.data.admin.ch/eli/fga/2021/623)).
-[^ingress-3]: This description of powers corresponds to Article 54 paragraph 1 of the Federal Constitution of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-4]: Amended by No I 2 of the Federal Act of 22 June 2001 on the Streamlining of Federal Legislation on Arms, War Materiel, Explosives and Goods Usable for Civilian and Military Purposes, in force since 1 March 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^ingress-5]: [BBl 1995 II 1027](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)
+[^ingress-2]: Amended by No II 3 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [BBl 1995 II 1027](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)
 
 ## Chapter 1 General Provisions
 
@@ -80,7 +78,7 @@ The following are deemed to be war materiel:
 - a. weapons, weapons systems, munitions and military explosives;
 - b. equipment that has been specifically conceived or modified for use in combat or for the conduct of combat and which is not as a general rule used for civilian purposes.
 
-<sup>2</sup> War materiel also includes individual components and assembly packages, which may also be partially processed, provided it is discernable that such components cannot be used in the same form for civilian purposes.
+<sup>2</sup> War materiel also includes individual components and assembly packages, which may also be partially processed, provided it is discernible that such components cannot be used in the same form for civilian purposes.
 
 <sup>3</sup> The Federal Council shall designate what is war materiel in an ordinance.
 
@@ -99,7 +97,7 @@ The following are deemed to be war materiel:
 - a. the creation of the essential requirements for the conclusion of contracts relating to the manufacture, offer, acquisition or passing on of war materiel, the transfer of intellectual property, including know-how, or the granting of rights thereto, insofar as they relate to war materiel;
 - b. the conclusion of such contracts if this service is provided by third parties.
 
-## Chapter 2 Prohibited War Materiel****
+## Chapter 2 Prohibited War Materiel
 
 [^chap2-1]
 
@@ -297,7 +295,7 @@ In respect of the activities that require a licence in terms of this Act, a dist
 
 <sup>2</sup> If exceptional circumstances so require, a brokerage licence may be suspended or revoked.
 
-### Section 3*a***** Trading Licence
+### Section 3*a* Trading Licence
 
 [^chap4-sec3a-1]
 
@@ -344,6 +342,7 @@ In respect of the activities that require a licence in terms of this Act, a dist
 No import licence under this Act is required by those who:
 
 - a. import war materiel intended for use by the Swiss Confederation;
+
 - b.[^17-4] bring firearms, their components or accessories, or their munitions or munitions components into Swiss territory under the legislation on weapons;
 - c. import explosives, pyrotechnic devices or propellant powder.[^17-5]
 
@@ -535,16 +534,16 @@ Any person who wilfully commits any of the following acts is liable to a custodi
 - e. the transfer of intellectual property, including know-how, relating to war materiel, or the granting of rights thereto to a recipient or destination other than that named in the licence;
 - a. the participation in financial dealings relating to an illegal war materiel transaction or the procurement funding for such a transaction as an intermediary.
 
-<sup>2</sup> In serious cases the penalty is a custodial sentence of at least one year but not exceeding ten years. The custodial sentence may be combined with a monetary penalty.[^33-3]
+<sup>2</sup> In serious cases the penalty is a custodial sentence of between one and ten years.[^33-3]
 
-<sup>3</sup> If the act is committed through negligence, a monetary penalty not exceeding 180 daily penalty units may be imposed.[^33-4]
+<sup>3</sup> If the act is committed through negligence, a monetary penalty shall be imposed.[^33-4]
 
 <sup>4</sup> In the case of unauthorised import or transit, an act committed abroad is also a criminal offence.
 
 [^33-1]: Amended by No I of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^33-2]: Amended by Annex No 5 of the Customs Act of 18 March 2005, in force since 1 May 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^33-3]: Amended by No I of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^33-4]: Amended by No I of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^33-3]: Amended by No I 17 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^33-4]: Amended by No I 17 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 34
 
@@ -558,7 +557,7 @@ Any person who wilfully commits any of the following acts without being able to 
 - b. incitement to commit any of the acts listed under letter a; or
 - c. assisting in the commission of an act listed under letter a.
 
-<sup>2</sup> A custodial sentence may be combined with a monetary penalty.[^34-2]
+<sup>2</sup> …[^34-2]
 
 <sup>3</sup> If the act is committed through negligence, the penalty is a custodial sentence not exceeding one year or a monetary penalty.[^34-3]
 
@@ -571,7 +570,7 @@ An act committed abroad is an offence in terms of these provisions irrespective 
 - [tab] <sup>5</sup> Article 7 paragraphs 4 and 5 of the Criminal Code[^34-4] apply.[^34-5]
 
 [^34-1]: Amended by No I of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^34-2]: Amended by No I of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^34-2]: Repealed by No I 17 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^34-3]: Amended by No I of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^34-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^34-5]: Inserted by No I of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
@@ -588,12 +587,12 @@ Any person who wilfully commits any of the following acts without being able to 
 - b. incitement to commit any of the acts listed under letter a; or
 - c. assisting in the commission of an act listed under letter a.
 
-<sup>2</sup> A custodial sentence may be combined with a monetary penalty.[^35-2]
+<sup>2</sup> …[^35-2]
 
 <sup>3</sup> If the act is committed through negligence, the penalty is a custodial sentence not exceeding one year or a monetary penalty.[^35-3]
 
 [^35-1]: Amended by No I of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^35-2]: Amended by No I of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^35-2]: Repealed by No I 17 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^35-3]: Amended by No I of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 
 #### Art. 35a
@@ -608,11 +607,12 @@ Any person who wilfully commits any of the following acts without being able to 
 - b. incitement to commit any of the acts listed under letter a; or
 - c. assisting in the commission of an act listed under letter a.
 
-<sup>2</sup> A custodial sentence may be combined with a monetary penalty.
+<sup>2</sup> …[^35a-2]
 
 <sup>3</sup> If the act is committed through negligence, the penalty is a custodial sentence not exceeding one year or a monetary penalty.
 
 [^35a-1]: Inserted by No I of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^35a-2]: Repealed by No I 17 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 35b
 
@@ -620,11 +620,12 @@ Any person who wilfully commits any of the following acts without being able to 
 
 <sup>1</sup> Any person who wilfully fails to comply with the prohibition of financing under Articles 8*b* or 8*c* without being able to claim an exemption under Article 7 paragraph 2, Article 8 paragraph 2 or Article 8*a* paragraph 3is liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
-<sup>2</sup> A custodial sentence may be combined with a monetary penalty.
+<sup>2</sup> …[^35b-2]
 
 <sup>3</sup> A person who merely accepts the possibility of an offence against the prohibition of financing under Articles 8*b* or 8*c* does not commit an offence.
 
 [^35b-1]: Inserted by No I of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^35b-2]: Repealed by No I 17 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 36
 
@@ -658,9 +659,9 @@ In relation to offences in commercial enterprises, Article 6 of the Federal Act 
 
 **Confiscation of war materiel**[^38-1]
 
-The court shall order the confiscation of the war materiel concerned, irrespective of the criminal liability of any person, if and to the extent that no guarantee of its lawful continued use is offered. The confiscated war materiel, together with any proceeds of sale, becomes the property of the Confederation subject to the reservation of the Federal Act of 19 March 2004[^38-2] on the Division of Confiscated Assets.
+The court shall order the confiscation of the war materiel concerned, irrespective of the criminal liability of any person, to the extent that no guarantee of its lawful continued use is offered. The confiscated war materiel, together with any proceeds of sale, becomes the property of the Confederation; the foregoing is subject to the Federal Act of 19 March 2004[^38-2] on the Division of Confiscated Assets.
 
-[^38-1]: Amended by Annex No 3 of the Federal Act of 19 March 2004 on the Division of Confiscated Assets, in force since 1 Aug. 2004 ([AS 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [BBl 2002 441](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^38-1]: Amended by No I 17 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^38-2]: [SR 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
 
 #### Art. 39

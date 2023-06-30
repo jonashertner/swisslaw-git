@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 1996 über das Kriegsmaterial (Kriegsmater
 short: KMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/794_794_794"
 language: de
-version: 2022-05-01
+version: 2023-07-01
 adopted: 1996-12-13
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20220501/de/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20220501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20230701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,21 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220501/de"
 
 (Kriegsmaterialgesetz, KMG)
 
-vom 13. Dezember 1996 (Stand am 1. Mai 2022)
+vom 13. Dezember 1996 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 54 Absatz 1, 107 Absatz 2 und 123 der Bundesverfassung[^ingress-1],[^ingress-2] und auf die Zuständigkeit des Bundes in auswärtigen Angelegenheiten[^ingress-3],[^ingress-4]
+gestützt auf die Artikel 54 Absatz 1 und 107 Absatz 2 der Bundesverfassung[^ingress-1],[^ingress-2]
 
-nach Einsicht in die Botschaft des Bundesrates vom 15. Februar 1995[^ingress-5],
+nach Einsicht in die Botschaft des Bundesrates vom 15. Februar 1995[^ingress-3],
 
 beschliesst:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 226](https://fedlex.data.admin.ch/eli/oc/2022/226); [BBl 2021 623](https://fedlex.data.admin.ch/eli/fga/2021/623)).
-[^ingress-3]: Dieser Zuständigkeitsumschreibung entspricht Artikel 54 Absatz 1 der Bundesverfassung vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-4]: Fassung gemäss Ziff. I 2 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^ingress-5]: [BBl 1995 II 1027](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)
+[^ingress-2]: Fassung gemäss Ziff. II 3 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [BBl 1995 II 1027](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -99,7 +97,7 @@ Als Vermittlung gilt:
 - a. die Schaffung der wesentlichen Voraussetzungen für den Abschluss von Verträgen betreffend die Herstellung, das Anbieten, Erwerben oder Weitergeben von Kriegsmaterial, die Übertragung von Immaterialgütern, einschliesslich Know-how, oder die Einräumung von Rechten daran, soweit sich diese auf Kriegsmaterial beziehen;
 - b. der Abschluss solcher Verträge, wenn die Leistung durch Dritte erbracht werden soll.
 
-## 2. Kapitel: Verbotenes Kriegsmaterial****
+## 2. Kapitel: Verbotenes Kriegsmaterial
 
 [^chap2-1]
 
@@ -296,7 +294,7 @@ Für Tätigkeiten, die nach diesem Gesetz einer Bewilligung bedürfen, werden fo
 
 <sup>2</sup> Wenn ausserordentliche Umstände es erfordern, kann die Vermittlungsbewilligung suspendiert oder widerrufen werden.
 
-### 3*a*. Abschnitt:**** Handelsbewilligung
+### 3*a*. Abschnitt: Handelsbewilligung
 
 [^chap4-sec3a-1]
 
@@ -533,16 +531,16 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsä
 - e. an einen anderen als den in der Bewilligung genannten Empfänger oder Bestimmungsort Immaterialgüter, einschliesslich Know-how, überträgt oder Rechte daran einräumt;
 - f. bei der finanziellen Abwicklung eines illegalen Kriegsmaterialgeschäfts mitwirkt oder dessen Finanzierung vermittelt.
 
-<sup>2</sup> In schweren Fällen ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren. Mit der Freiheitsstrafe kann eine Geldstrafe verbunden werden.[^33-3]
+<sup>2</sup> In schweren Fällen ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren.[^33-3]
 
-<sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Geldstrafe bis zu 180 Tagessätzen.[^33-4]
+<sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Geldstrafe.[^33-4]
 
 <sup>4</sup> Bei der nicht bewilligten Ein- oder Durchfuhr ist auch die im Ausland verübte Tat strafbar.
 
 [^33-1]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^33-2]: Fassung gemäss Anhang Ziff. 5 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^33-3]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^33-4]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^33-3]: Fassung gemäss Ziff. I 17 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^33-4]: Fassung gemäss Ziff. I 17 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 34
 
@@ -556,7 +554,7 @@ Mit einer Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer 
 - b. jemanden zu einer der unter Buchstabe a bezeichneten Handlungen verleitet; oder
 - c. eine unter Buchstabe a bezeichnete Handlung fördert.
 
-<sup>2</sup> Mit der Freiheitsstrafe kann eine Geldstrafe verbunden werden.[^34-2]
+<sup>2</sup> …[^34-2]
 
 <sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.[^34-3]
 
@@ -570,7 +568,7 @@ Die im Ausland verübte Tat ist, unabhängig vom Recht des Tatorts, nach diesen 
 <sup>5</sup> Artikel 7 Absätze 4 und 5 des Strafgesetzbuches[^34-4] sind anwendbar.[^34-5]
 
 [^34-1]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^34-2]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^34-2]: Aufgehoben durch Ziff. I 17 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^34-3]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^34-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^34-5]: Eingefügt durch Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
@@ -587,12 +585,12 @@ Mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer vorsä
 - b. jemanden zu einer der unter Buchstabe a bezeichneten Handlungen verleitet; oder
 - c. eine der unter Buchstabe a bezeichneten Handlungen fördert.
 
-<sup>2</sup> Mit der Freiheitsstrafe kann eine Geldstrafe verbunden werden.[^35-2]
+<sup>2</sup> …[^35-2]
 
 <sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.[^35-3]
 
 [^35-1]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^35-2]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^35-2]: Aufgehoben durch Ziff. I 17 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^35-3]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 
 #### Art. 35a
@@ -607,11 +605,12 @@ Mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer vorsä
 - b. jemanden zu einer der unter Buchstabe a bezeichneten Handlungen verleitet; oder
 - c. eine der unter Buchstabe a bezeichneten Handlungen fördert.
 
-<sup>2</sup> Mit der Freiheitsstrafe kann eine Geldstrafe verbunden werden.
+<sup>2</sup> …[^35a-2]
 
 <sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 [^35a-1]: Eingefügt durch Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^35a-2]: Aufgehoben durch Ziff. I 17 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 35b
 
@@ -619,11 +618,12 @@ Mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer vorsä
 
 <sup>1</sup> Mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe wird bestraft, wer vorsätzlich und ohne dass er eine Ausnahme nach Artikel 7 Absatz 2, Artikel 8 Absatz 2 oder Artikel 8*a* Absatz 3 in Anspruch nehmen kann, gegen das Finanzierungsverbot nach den Artikeln 8*b* oder 8*c* verstösst.
 
-<sup>2</sup> Mit der Freiheitsstrafe kann eine Geldstrafe verbunden werden.
+<sup>2</sup> …[^35b-2]
 
 <sup>3</sup> Nimmt der Täter die Möglichkeit einer Widerhandlung gegen das Finanzierungsverbot gemäss den Artikeln 8*b* oder 8*c* lediglich in Kauf, so macht er sich nach dieser Bestimmung nicht strafbar.
 
 [^35b-1]: Eingefügt durch Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^35b-2]: Aufgehoben durch Ziff. I 17 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 36
 
@@ -657,9 +657,9 @@ Auf Widerhandlungen in Geschäftsbetrieben ist Artikel 6 des Verwaltungsstrafrec
 
 **Einziehung von Kriegsmaterial**[^38-1]
 
-Der Richter verfügt ohne Rücksicht auf die Strafbarkeit einer bestimmten Person die Einziehung des betreffenden Kriegsmaterials, wenn und soweit keine Gewähr für eine rechtmässige weitere Verwendung geboten wird. Das eingezogene Kriegsmaterial sowie ein allfälliger Verwertungserlös verfallen unter Vorbehalt des Bundesgesetzes vom 19. März 2004[^38-2] über die Teilung eingezogener Vermögenswerte dem Bund.
+Das Gericht verfügt ohne Rücksicht auf die Strafbarkeit einer bestimmten Person die Einziehung des betreffenden Kriegsmaterials, soweit keine Gewähr für eine rechtmässige weitere Verwendung geboten wird. Das eingezogene Kriegsmaterial sowie ein allfälliger Verwertungserlös fallen an den Bund; vorbehalten bleibt das Bundesgesetz vom 19. März 2004[^38-2] über die Teilung eingezogener Vermögenswerte.
 
-[^38-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. März 2004 über die Teilung eingezogener Vermögenswerte, in Kraft seit 1. Aug. 2004 ([AS 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [BBl 2002 441](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^38-1]: Fassung gemäss Ziff. I 17 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^38-2]: [SR 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
 
 #### Art. 39

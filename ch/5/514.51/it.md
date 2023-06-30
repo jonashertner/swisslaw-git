@@ -4,11 +4,11 @@ title: Legge federale del 13 dicembre 1996 sul materiale bellico (LMB)
 short: LMB
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/794_794_794"
 language: it
-version: 2022-05-01
+version: 2023-07-01
 adopted: 1996-12-13
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20220501/it/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20220501-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20230701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,19 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20220501/it"
 
 (LMB)
 
-del 13 dicembre 1996 (Stato 1° maggio 2022)
+del 13 dicembre 1996 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 54 capoverso 1, 107 capoverso 2 e 123 della Costituzione federale[^ingress-1],[^ingress-2] vista la competenza della Confederazione in materia di affari esteri[^ingress-3];[^ingress-4] visto il messaggio del Consiglio federale del 15 febbraio 1995[^ingress-5],
+visti gli articoli 54 capoverso 1 e 107 capoverso 2 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 15 febbraio 1995[^ingress-3],
 
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° mag. 2022 ([RU 2022 226](https://fedlex.data.admin.ch/eli/oc/2022/226); [FF 2021 623](https://fedlex.data.admin.ch/eli/fga/2021/623)).
-[^ingress-3]: A questa attribuzione di competenza corrisponde ora l’art. 54 cpv. 1 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-4]: Nuovo testo giusta il n. I 2 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^ingress-5]: [FF 1995 II 864](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)
+[^ingress-2]: Nuovo testo giusta il n. II 3 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [FF 1995 II 864](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -97,7 +95,7 @@ Per mediazione s’intendono:
 - a. le attività intese a creare le condizioni necessarie alla conclusione di contratti che vertono sulla fabbricazione, l’offerta, l’acquisto o il trasferimento di materiale bellico, il trasferimento di beni immateriali, «know how» compreso, o il conferimento di diritti sugli stessi beni in quanto concernano materiale bellico;
 - b. la conclusione di siffatti contratti, qualora le prestazioni siano fornite da terzi.
 
-## Capitolo 2: Materiale bellico vietato****
+## Capitolo 2: Materiale bellico vietato
 
 [^chap2-1]
 
@@ -296,7 +294,7 @@ Per le attività sottoposte ad autorizzazione conformemente alla presente legge 
 
 <sup>2</sup> L’autorizzazione di mediazione può essere sospesa o revocata, qualora circostanze eccezionali lo esigano.
 
-### Sezione 3*a*:**** Patente di commercio
+### Sezione 3*a*: Patente di commercio
 
 [^chap4-sec3a-1]
 
@@ -534,16 +532,16 @@ Chiunque, intenzionalmente:
 - e. trasferisce beni immateriali, «know how» compreso, o conferisce diritti sugli stessi beni a un destinatario o a un luogo di destinazione diverso da quello menzionato nell’autorizzazione;
 - f. partecipa al finanziamento di un traffico illecito di materiale bellico o svolge attività di mediazione per il finanziamento di un tale traffico
 
-<sup>2</sup> Nei casi gravi, la pena è una pena detentiva da uno a dieci anni. Con la pena detentiva può essere cumulata una pena pecuniaria.[^33-3]
+<sup>2</sup> Nei casi gravi, la pena è una pena detentiva da uno a dieci anni.[^33-3]
 
-<sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria sino a 180 aliquote giornaliere.[^33-4]
+<sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.[^33-4]
 
 <sup>4</sup> Ove si tratti di importazione o di transito non permessi, è parimenti punibile l’infrazione commessa all’estero.
 
 [^33-1]: Nuova comminatoria giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^33-2]: Nuovo testo giusta l’all. n. 5 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^33-3]: Nuovo testo giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^33-4]: Nuovo testo giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^33-3]: Nuovo testo giusta il n. I 17 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^33-4]: Nuovo testo giusta il n. I 17 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 34
 
@@ -557,7 +555,7 @@ Chiunque, intenzionalmente e senza poter far valere una deroga giusta l’artico
 - b. induce altri[^34-4] a commettere una delle infrazioni definite nella lettera a, oppure
 - c. favorisce una delle infrazioni definite nella lettera a,
 
-<sup>2</sup> Con la pena detentiva può essere cumulata una pena pecuniaria.[^34-5]
+<sup>2</sup> ...[^34-5]
 
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena detentiva sino a un anno o una pena pecuniaria.[^34-6]
 
@@ -574,7 +572,7 @@ L’infrazione commessa all’estero è punibile, indipendentemente dal diritto 
 [^34-2]: Nuova espr. giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^34-3]: Nuova espr. giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^34-4]: Nuova espr. giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^34-5]: Nuovo testo giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^34-5]: Abrogato dal n. I 17 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^34-6]: Nuovo testo giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^34-7]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^34-8]: Introdotto dal n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
@@ -591,14 +589,14 @@ Chiunque, intenzionalmente e senza poter far valere una deroga secondo l’artic
 - b. induce altri[^35-3] a commettere una delle infrazioni definite nella lettera a, o
 - c. favorisce una delle infrazioni definite nella lettera a,
 
-<sup>2</sup> Con la pena detentiva può essere cumulata una pena pecuniaria.[^35-4]
+<sup>2</sup> ...[^35-4]
 
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena detentiva sino a un anno o una pena pecuniaria.[^35-5]
 
 [^35-1]: Nuova comminatoria giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^35-2]: Nuova espr. giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^35-3]: Nuova espr. giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^35-4]: Nuovo testo giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^35-4]: Abrogato dal n. I 17 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^35-5]: Nuovo testo giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 
 #### Art. 35a
@@ -613,11 +611,12 @@ Chiunque, intenzionalmente e senza poter far valere una deroga secondo l’artic
 - b. induce altri a commettere una delle infrazioni definite nella lettera a; o
 - c. favorisce una delle infrazioni definite nella lettera a,
 
-<sup>2</sup> Con la pena detentiva può essere cumulata una pena pecuniaria.
+<sup>2</sup> ...[^35a-2]
 
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena detentiva sino a un anno o una pena pecuniaria.
 
-[^35a-1]: Introdotto dal n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); £[FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^35a-1]: Introdotto dal n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^35a-2]: Abrogato dal n. I 17 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 35b
 
@@ -625,11 +624,12 @@ Chiunque, intenzionalmente e senza poter far valere una deroga secondo l’artic
 
 <sup>1</sup> Chiunque, intenzionalmente e senza poter far valere una deroga secondo gli articoli 7 capoverso 2, 8 capoverso 2 o 8*a* capoverso 3, infrange il divieto di finanziamento di cui agli articoli 8*b* o 8*c* è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-<sup>2</sup> Con la pena detentiva può essere cumulata una pena pecuniaria.
+<sup>2</sup> ...[^35b-2]
 
 <sup>3</sup> Non si rende punibile secondo la presente disposizione chi si limita a tollerare l’eventualità di un’infrazione al divieto di finanziamento di cui agli articoli 8*b* o 8*c*.
 
 [^35b-1]: Introdotto dal n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^35b-2]: Abrogato dal n. I 17 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 36
 
@@ -663,9 +663,9 @@ Se l’infrazione è commessa nell’ambito della conduzione aziendale, è appli
 
 **Confisca di materiale bellico**[^38-1]
 
-Il giudice, indipendentemente dalla punibilità di una data persona, ordina la confisca del materiale bellico in causa se e nella misura in cui non è data la garanzia di un ulteriore impiego conforme al diritto. Il materiale bellico confiscato nonché l’eventuale ricavo della realizzazione sono devoluti alla Confederazione, fatta salva l’applicazione della legge federale del 19 marzo 2004[^38-2] sulla ripartizione dei valori patrimoniali confiscati.
+Il giudice, indipendentemente dalla punibilità di una data persona, ordina la confisca del materiale bellico in causa nella misura in cui non è data la garanzia di un ulteriore impiego conforme al diritto. Il materiale bellico confiscato nonché l’eventuale ricavo della realizzazione sono devoluti alla Confederazione; è fatta salva l’applicazione della legge federale del 19 marzo 2004[^38-2] sulla ripartizione dei valori patrimoniali confiscati.
 
-[^38-1]: Nuovo testo giusta l’all. n. 3 della LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^38-1]: Nuovo testo giusta il n. I 17 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^38-2]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
 
 #### Art. 39
