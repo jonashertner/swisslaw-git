@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 sulla promozione della produzione di ele
 short: OPEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: it
-version: 2023-04-01
+version: 2023-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20230401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230401/it"
 
 (Ordinanza sulla promozione dell’energia, OPEn)
 
-del 1° novembre 2017 (Stato 1° aprile 2023)
+del 1° novembre 2017 (Stato 1° luglio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -134,9 +134,13 @@ Oltre agli impianti idroelettrici collegati con impianti di approvvigionamento d
 Oltre agli impianti accessori secondo l’articolo 26 capoverso 4 LEne, gli impianti idroelettrici seguenti sono esclusi dal limite inferiore di cui all’articolo 26 capoverso 1 LEne:
 
 - a. centrali con utilizzo di acqua di dotazione;
-- b. impianti presso scolatori di piena creati in modo artificiale, canali industriali e canali di derivazione e di restituzione esistenti, sempre che non vengano provocati nuovi interventi nelle acque naturali o preziose sul piano ecologico.
+- b. impianti presso scolatori di piena creati in modo artificiale, canali industriali e canali di derivazione e di restituzione esistenti, sempre che non vengano provocati nuovi interventi nelle acque naturali o preziose sul piano ecologico;
+- c.[^9-2] impianti nei quali vengono o sono state realizzate misure di risanamento di cui all’articolo 83*a* della legge federale del 24 gennaio 1991[^9-3] sulla protezione delle acque (LPAc) o all’articolo 10 della legge federale del 21 giugno 1991[^9-4] sulla pesca (LFSP), sempre che gli ampliamenti o i rinnovamenti non causino nuovo o ulteriore pregiudizio sul piano ecologico.
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^9-2]: Introdotta dal n. I dell’O del 24 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
+[^9-3]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^9-4]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 
 #### Art. 10
 
@@ -188,20 +192,17 @@ Al sistema di rimunerazione per l’immissione di elettricità possono partecipa
 
 #### Art. 15
 
-**Prezzo di mercato di riferimento**
+**Prezzo di mercato di riferimento**[^15-1]
 
-<sup>1</sup> Il prezzo di mercato di riferimento per l’elettricità prodotta dagli impianti fotovoltaici corrisponde alla media dei prezzi determinati alla borsa elettrica in un trimestre per il giorno successivo per la regione di mercato svizzera, ponderati in base all’effettiva immissione in rete ogni quarto d’ora degli impianti fotovoltaici sottoposti a una misurazione del profilo di carico.
+<sup>1</sup> Il prezzo di mercato di riferimento per l’elettricità prodotta da impianti fotovoltaici, idroelettrici, a biomassa, eolici e geotermici corrisponde alla media dei prezzi determinati alla borsa elettrica per il giorno successivo per la regione di mercato svizzera, ponderati in base all’effettiva immissione in rete ogni quarto d’ora degli impianti di ciascuna tecnologia sottoposti a una misurazione del profilo di carico.
 
-<sup>2</sup>
+<sup>2</sup> Per gli impianti la cui produzione è comunicata mensilmente, si applica la media mensile.
 
-Il prezzo di mercato di riferimento per l’elettricità prodotta dalle altre tecnologie corrisponde alla media dei prezzi determinati alla borsa elettrica nel seguente periodo di tempo per il giorno successivo per la regione di mercato svizzera:
+<sup>3</sup> Per gli impianti la cui produzione è comunicata trimestralmente, si applica la media trimestrale.
 
-- a. per gli impianti sottoposti a una misurazione del profilo di carico: un mese;
-- b. per gli impianti non sottoposti a una misurazione del profilo di carico: un trimestre.[^15-1]
+<sup>4</sup> L’UFE calcola e pubblica ogni trimestre i prezzi di mercato di riferimento.
 
-<sup>3</sup> L’UFE calcola e pubblica ogni trimestre i prezzi di mercato di riferimento.
-
-[^15-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+[^15-1]: Nuovo testo giusta il n. I dell’O del 24 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
 
 #### Art. 16
 
@@ -1158,13 +1159,14 @@ Per il calcolo del contributo d’investimento sono computabili in particolare i
 Non sono computabili in particolare i costi:
 
 - a. inerenti a parti dell’impianto che servono al pompaggio-turbinaggio;
-- b. rimunerati in altro modo, segnatamente i costi per le misure di cui all’articolo 83*a* della legge federale del 24 gennaio 1991[^62-2] sulla protezione delle acque (LPAc) e i provvedimenti di cui all’articolo 10 della legge federale del 21 giugno 1991[^62-3] sulla pesca (LFSP).
+- b.[^62-2] rimunerati in altro modo, segnatamente i costi per le misure di cui all’articolo 83*a* LPAc[^62-3] e all’articolo 10 LFSP[^62-4].
 
 <sup>2</sup> Se una parte dell’impianto non serve esclusivamente al pompaggio-turbinaggio, non sono computabili solamente i costi inerenti al pompaggio-turbinaggio.
 
 [^62-1]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
-[^62-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^62-3]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^62-2]: Nuovo testo giusta il n. I dell’O del 24 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
+[^62-3]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^62-4]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 
 #### Art. 63
 
@@ -2199,7 +2201,7 @@ Allegato 1.1[^t-1]
 - 2\.4.1 Se la quota destinata alla realizzazione delle opere idrauliche secondo lo stato della tecnica, condotte forzate incluse, è inferiore al 20 per cento dei costi di investimento complessivi del progetto, il diritto al bonus per le opere idrauliche decade. Se tale quota è superiore al 50 per cento, si ha diritto al bonus completo. Per i valori compresi fra il 20 e il 50 per cento viene effettuata un’interpolazione lineare secondo il seguente grafico. Le misure di cui all’articolo 83*a* LPAC[^annex11-lvlu1-lvl2-1] o all’articolo 10 LFSP[^annex11-lvlu1-lvl2-2] non sono computabili ai fini del bonus.
 - 2\.4.2 Le centrali con utilizzo di acqua di dotazione non hanno diritto al bonus per le opere idrauliche. Gli impianti accessori con una potenza superiore a 100 kW hanno diritto al bonus per le opere idrauliche solo fino alla potenza equivalente di 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230401/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/it/xml/image/image1.png)
 
 - 2\.4.3 Il tasso per il bonus per le opere idrauliche secondo le classi di potenza ammonta dopo il 1° gennaio 2013 a:
 
@@ -2562,7 +2564,7 @@ Allegato 1.4[^t-4]
 
 - 3\.1 Gli impianti geotermici devono presentare, al più tardi dall’inizio del terzo anno civile completo dopo la messa in esercizio, un coefficiente di sfruttamento globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230401/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/it/xml/image/image2.png)
 
 - 3\.2 Il periodo di valutazione rilevante per la determinazione del coefficiente di sfruttamento globale è un anno civile completo; il coefficiente di sfruttamento globale si riferisce all’energia annua misurata alla testa del pozzo con:
 - coefficiente di sfruttamento del calore = calore sfruttato diviso per energia misurata alla testa del pozzo
@@ -2686,7 +2688,7 @@ Allegato 1.5[^t-5]
 - 2\.2.2 Il periodo di valutazione per i requisiti energetici minimi è l’anno civile completo.
 - 2\.2.3 I cicli del vapore, in particolare il ciclo Rankine organico, le turbine a vapore e i motori a vapore, devono raggiungere un coefficiente di sfruttamento energetico globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230401/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/it/xml/image/image3.png)
 
 - Per il calcolo del coefficiente di sfruttamento globale si utilizza il potere calorifico inferiore H<sub>u</sub> del combustibile impiegato.
 - Calcolo del coefficiente di sfruttamento elettrico = la produzione di energia elettrica divisa per la quantità di energia immessa nell’impianto a combustione.
@@ -2698,7 +2700,7 @@ Allegato 1.5[^t-5]
   - a. rendimento elettrico:
   - il modulo di cogenerazione deve raggiungere un rendimento elettrico minimo conformemente al seguente diagramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230401/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/it/xml/image/image4.png)
 
 - b.
 

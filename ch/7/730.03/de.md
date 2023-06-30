@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Förderung der Produktion von 
 short: EnFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: de
-version: 2023-04-01
+version: 2023-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20230401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230401/de"
 
 (Energieförderungsverordnung, EnFV)
 
-vom 1. November 2017 (Stand am 1. April 2023)
+vom 1. November 2017 (Stand am 1. Juli 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -134,9 +134,13 @@ Nebst den Wasserkraftanlagen, die mit Trinkwasserversorgungs- oder Abwasseranlag
 Nebst den Nebennutzungsanlagen nach Artikel 26 Absatz 4 EnG sind folgende Wasserkraftanlagen von der Untergrenze nach Artikel 26 Absatz 1 EnG ausgenommen:
 
 - a. Dotierkraftwerke;
-- b. Anlagen an künstlich geschaffenen Hochwasserentlastungskanälen, Industriekanälen und bestehenden Ausleit- und Unterwasserkanälen, sofern keine neuen Eingriffe in natürliche oder ökologisch wertvolle Gewässer bewirkt werden.
+- b. Anlagen an künstlich geschaffenen Hochwasserentlastungskanälen, Industriekanälen und bestehenden Ausleit- und Unterwasserkanälen, sofern keine neuen Eingriffe in natürliche oder ökologisch wertvolle Gewässer bewirkt werden;
+- c.[^9-2] Anlagen, an denen Sanierungsmassnahmen nach Artikel 83*a* des Gewässerschutzgesetzes vom 24. Januar 1991[^9-3] (GSchG) oder Artikel 10 des Bundesgesetzes vom 21. Juni 1991[^9-4] über die Fischerei (BGF) umgesetzt werden oder wurden, sofern durch die Erweiterung oder die Erneuerung keine neuen oder zusätzlichen ökologischen Beeinträchtigungen entstehen.
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^9-2]: Eingefügt durch Ziff. I der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
+[^9-3]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^9-4]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 
 #### Art. 10
 
@@ -188,20 +192,17 @@ Am Einspeisevergütungssystem können nur grosse Photovoltaikanlagen teilnehmen.
 
 #### Art. 15
 
-**Referenz-Marktpreis**
+**Referenz-Marktpreis**[^15-1]
 
-<sup>1</sup> Der Referenz-Marktpreis für Elektrizität aus Photovoltaikanlagen entspricht dem Durchschnitt der Preise, die an der Strombörse in einem Vierteljahr jeweils für den Folgetag für das Marktgebiet Schweiz festgesetzt werden, gewichtet nach der tatsächlichen viertelstündlichen Einspeisung der lastganggemessenen Photovoltaikanlagen.
+<sup>1</sup> Der Referenz-Marktpreis für Elektrizität aus Photovoltaik-, Wasserkraft-, Biomasse-, Windkraft- und Geothermieanlagen entspricht dem Durchschnitt der Preise, die an der Strombörse jeweils für den Folgetag für das Marktgebiet Schweiz festgesetzt werden, gewichtet nach der tatsächlichen viertelstündlichen Einspeisung der lastganggemessenen Anlagen der jeweiligen Technologie.
 
-<sup>2</sup>
+<sup>2</sup> Für Anlagen, deren Produktion monatlich gemeldet wird, gilt der monatliche Durchschnitt.
 
-Der Referenz-Marktpreis für Elektrizität aus den übrigen Technologien entspricht dem Durchschnitt der Preise, die an der Strombörse in folgendem Zeitraum jeweils für den Folgetag für das Marktgebiet Schweiz festgesetzt werden:
+<sup>3</sup> Für Anlagen, deren Produktion vierteljährlich gemeldet wird, gilt der vierteljährliche Durchschnitt.
 
-- a. für lastganggemessene Anlagen: in einem Monat;
-- b. für nicht lastganggemessene Anlagen: in einem Vierteljahr.[^15-1]
+<sup>4</sup> Das BFE berechnet und veröffentlicht die Referenz-Marktpreise vierteljährlich.
 
-<sup>3</sup> Das BFE berechnet und veröffentlicht die Referenz-Marktpreise vierteljährlich.
-
-[^15-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
 
 #### Art. 16
 
@@ -1160,13 +1161,14 @@ Für die Berechnung des Investitionsbeitrags sind insbesondere die Erstellungs-,
 Nicht anrechenbar sind insbesondere Kosten:
 
 - a. die im Zusammenhang mit Anlagenteilen entstehen, die dem Umwälzbetrieb dienen;
-- b. die anderweitig vergütet werden, namentlich die Kosten für Massnahmen nach Artikel 83*a* des Gewässerschutzgesetzes vom 24. Januar 1991[^62-2] (GSchG) und Artikel 10 des Bundesgesetzes vom 21. Juni 1991[^62-3] über die Fischerei (BGF).
+- b.[^62-2] die anderweitig vergütet werden, namentlich die Kosten für Massnahmen nach Artikel 83*a* GSchG[^62-3] und Artikel 10 BGF[^62-4].
 
 <sup>2</sup> Dient ein Anlagenteil nicht ausschliesslich dem Umwälzbetrieb, so können nur die Kosten nicht angerechnet werden, die auf den Umwälzbetrieb entfallen.
 
 [^62-1]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
-[^62-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^62-3]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^62-2]: Fassung gemäss Ziff. I der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
+[^62-3]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^62-4]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 
 #### Art. 63
 
@@ -2199,7 +2201,7 @@ Anhang 1.1[^t-1]
 - 2\.4.1 Beträgt der Anteil des nach dem Stand der Technik realisierten Wasserbaus, einschliesslich der Druckleitungen, weniger als 20 Prozent der gesamten Investitionskosten des Projekts, so entfällt der Anspruch auf den Wasserbau-Bonus. Beträgt er mehr als 50 Prozent, so besteht Anspruch auf den vollen Bonus. Zwischen 20 Prozent und 50 Prozent wird er gemäss der unten stehenden Grafik linear interpoliert. Massnahmen nach Artikel 83*a* GSchG[^annex11-lvlu1-lvl2-1] oder nach Artikel 10 BGF[^annex11-lvlu1-lvl2-2] sind für den Bonus nicht anrechenbar.
 - 2\.4.2 Dotierkraftwerke haben keinen Anspruch auf den Wasserbau-Bonus. Nebennutzungsanlagen mit einer Leistung von mehr als 100 kW haben nur bis zur äquivalenten Leistung von 100 kW Anspruch auf den Wasserbau-Bonus.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230401/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/de/xml/image/image1.png)
 
 - 2\.4.3 Der Satz für den Wasserbau-Bonus beträgt ab 1. Januar 2013 je Leistungsklasse:
 
@@ -2557,7 +2559,7 @@ Anhang 1.4[^t-4]
 
 - 3\.1 Geothermieanlagen müssen spätestens ab Beginn des dritten vollen Kalenderjahres nach der Inbetriebnahme einen minimalen Gesamtnutzungsgrad respektive Elektrizitätsnutzungsgrad gemäss folgendem Diagramm aufweisen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230401/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/de/xml/image/image2.png)
 
 - 3\.2 Die für die Bestimmung des Gesamtnutzungsgrads relevante Beurteilungsperiode ist das ganze Kalenderjahr; der Gesamtnutzungsgrad bezieht sich auf die jährliche Energie am Bohrlochkopf mit:
 - Nutzungsgrad Wärme = genutzte Wärme dividiert durch Energie am Bohrlochkopf
@@ -2682,7 +2684,7 @@ Anhang 1.5[^t-5]
 - 2\.2.2 Die Beurteilungsperiode für die energetischen Mindestanforderungen ist das ganze Kalenderjahr.
 - 2\.2.3 Dampfprozesse, insbesondere Organic-Rankine-Cycle, Dampfturbinen und Dampfmotoren müssen einen minimalen Gesamtenergienutzungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230401/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/de/xml/image/image3.png)
 
 - Für die Berechnung des Gesamtnutzungsgrades wird der untere Heizwert H<sub>u</sub> des eingesetzten Brennstoffs verwendet.
 - Berechnung:
@@ -2695,7 +2697,7 @@ Anhang 1.5[^t-5]
   - a. elektrischer Wirkungsgrad:
   - Das WKK-Modul muss einen minimalen elektrischen Wirkungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230401/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230701/de/xml/image/image4.png)
 
 - b.
 
