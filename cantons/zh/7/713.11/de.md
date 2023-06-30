@@ -4,17 +4,16 @@ number: "713.11"
 title: Verordnung zum Massnahmenplan Luftreinhaltung (VML)
 short: VML
 language: de
-version: "2016-05-01"
-nachtrag: "93"
-valid_until: 2023-07-01
+version: "2023-07-01"
+nachtrag: "121"
 adopted: 2009-12-09
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-713_11-2009_12_09-2010_03_01-093.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-713_11-2009_12_09-2010_03_01-121.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung zum Massnahmenplan Luftreinhaltung
+# Verordnung zum Massnahmenplan Luftreinhaltung (VML)<sup>8</sup>
 
 (vom 9. Dezember 2009)<sup>1</sup>
 
@@ -54,7 +53,7 @@ beschliesst:
 
 **1**
 
-- 1\. 7. 16 - 93 § 3. <sup>1</sup> Bei Feuerungsanlagen mit Heizmediumstemperaturen über
+- 1\. 7. 23 - 121 § 3. <sup>1</sup> Bei Feuerungsanlagen mit Heizmediumstemperaturen über
 
 **b. Bei Heizmediumstemperaturen über 110 °C**
 
@@ -122,13 +121,15 @@ Hält eine Feuerungsanlage für Öl oder Gas mit einer Feuerungswärmeleistung �
 
 <sup>4</sup> Die Gemeinden kontrollieren bei Holzzentralheizungen alle zwei Jahre die Einhaltung der Grenzwerte gemäss Abs. 3.
 
+<sup>5</sup> Heizkessel für Holzpellets mit einer Feuerungswärmeleistung bis 70 kW, die keinen Wärmespeicher aufweisen, dürfen täglich höchstens dreimal angefeuert werden. Entspricht die Anlage dem Stand der Technik, ist sie einwandfrei gewartet und werden als Brennstoff Normpellets verwendet, dürfen Heizkessel täglich höchstens fünfmal angefeuert werden.<sup>7</sup>
+
 **c. Holzfeuerungen über 70 kW und besondere Feuerungen**
 
 § 8 b.<sup>5</sup> <sup>1</sup> Die Ausrüstung und der Betrieb von Holzfeuerungen mit einer Feuerungswärmeleistung über 70 kW, die mit Brennstoffen gemäss Anhang 5 Ziff. 31 Abs. 1 Bst. b und c LRV betrieben und automatisch beschickt werden, richten sich nach dem Stand der Technik, wie er insbesondere im Q-Leitfaden der Arbeitsgemeinschaft QM Holzheizwerke, Ausgabe 2011[^7-1], Anhänge Tabelle 20, zum Ausdruck kommt.
 
 <sup>2</sup> Für Holzfeuerungsanlagen mit einer Feuerungswärmeleistung über 70 kW, in denen naturbelassenes Holz oder Restholz gemäss Anhang 5 Ziff. 31 Abs. 1 Bst. a–c LRV verbrannt wird, gelten für die Einhaltung der in Anhang 3 Ziff. 522 LRV vorgeschriebenen Emissionsgrenzwerte folgende Sanierungsfristen:
 
-[^7-1]: Bezugsquelle: www.qmholzheizwerke.ch. Einsehbar beim kantonalen Amt für Abfall, Wasser, Energie und Luft, Abteilung Lufthygiene. 1. 7. 16 - 93 3
+[^7-1]: Bezugsquelle: www.qmholzheizwerke.ch. Einsehbar beim kantonalen Amt für Abfall, Wasser, Energie und Luft, Abteilung Lufthygiene. 1. 7. 23 - 121 3
 
 ### Feuerungs- Sanierungsfristen
 
@@ -178,6 +179,10 @@ wärmeleistung\* Naturbelassenes Holz bis Restholz bis
 
 <sup>3</sup> Die zuständige Behörde ordnet die Sanierung der Anlage an. Sie räumt dafür eine Frist von höchstens zwei Jahren ein.
 
+**5**
+
+- 1\. 7. 23 - 121
+
 <sup>4</sup> Die Emissionsbegrenzungen von Neuanlagen sind, soweit dies technisch und betrieblich möglich ist, durch die zuständige Fachstelle für Luftreinhaltung zu verschärfen. Die Betreiberin oder der Betreiber der Anlage reicht im Rahmen des Bewilligungsverfahrens Vorschläge ein, wie die verschärften Anforderungen erreicht werden können.
 
 #### § 12
@@ -185,10 +190,6 @@ wärmeleistung\* Naturbelassenes Holz bis Restholz bis
 **b. Reinigungsarbeiten**
 
 <sup>1</sup> Industrielle oder gewerbliche Betriebe, die jährlich mehr als 400 kg Stoffe gemäss Anhang 1 Ziff. 7 LRV für Reinigungsarbeiten verbrauchen, führen diese Arbeiten im Rahmen der technischen Möglichkeiten in geschlossenen Anlagen aus.
-
-**5**
-
-- 1\. 7. 16 - 93
 
 <sup>2</sup> Die Abluft ist zu fassen und soweit technisch und betrieblich möglich mit geeigneten Methoden zu reinigen.
 
@@ -232,14 +233,11 @@ wärmeleistung\* Naturbelassenes Holz bis Restholz bis
 
 **b. Benzintankstellen**
 
-§ 16.[^15-1] Die Ausrüstung und der Betrieb von Benzintankstellen richten sich nach dem Stand der Technik, wie er insbesondere in der Empfehlung Nr. 22 über den Vollzug bei Gasrückführungssystemen an Benzintankstellen der Schweizerischen Gesellschaft der Lufthygiene-Fachleute (Cercl’Air) zum Ausdruck kommt.
+§ 16.<sup>6</sup> Die Ausrüstung und der Betrieb von Benzintankstellen richten sich nach dem Stand der Technik, wie er insbesondere in der Empfehlung Nr. 22 über den Vollzug bei Gasrückführungssystemen an Benzintankstellen der Schweizerischen Gesellschaft der Lufthygiene-Fachleute (Cercl’Air) zum Ausdruck kommt.
 
 **Anlagen zum Trocknen von Grünfutter**
 
-§ 16 a.[^15-2] Bei Anlagen zum Trocknen von Grünfutter dürfen die staubförmigen Emissionen 75 mg/m<sup>3</sup> nicht überschreiten.
-
-[^15-1]: Fassung gemäss RRB vom 13. Januar 2016 (OS 71, 100; ABl 2016-01-22). In Kraft seit 1. Mai 2016.
-[^15-2]: Eingefügt durch RRB vom 13. Januar 2016 (OS 71, 100; ABl 2016-01-22). In Kraft seit 1. Mai 2016.
+§ 16 a.<sup>5</sup> Bei Anlagen zum Trocknen von Grünfutter dürfen die staubförmigen Emissionen 75 mg/m<sup>3</sup> nicht überschreiten.
 
 ### F. Verbrennung von Wald-, Feld- und Gartenabfällen im Freien
 
@@ -263,6 +261,10 @@ wärmeleistung\* Naturbelassenes Holz bis Restholz bis
 
 - b. Hecken- und Weidepflege in schwer zugänglichem Gebiet.
 
+**7**
+
+- 1\. 7. 23 - 121
+
 [^17-1]: Eingefügt durch RRB vom 13. Januar 2016 (OS 71, 100; ABl 2016-01-22). In Kraft seit 1. Mai 2016.
 
 ### G. Landwirtschaft
@@ -272,10 +274,6 @@ wärmeleistung\* Naturbelassenes Holz bis Restholz bis
 § 17 a.[^hGLandwirtschaft1-1] <sup>1</sup> Neue Tierhaltungsanlagen für Schweine und Geflügel sind so zu betreiben, dass die Ammoniakemissionen aus geschlossenen Ställen mit kontrollierter Lüftung 650 kg/Jahr nicht überschreiten.
 
 <sup>2</sup> Bestehende Tierhaltungsanlagen für Schweine und Geflügel sind so zu betreiben, dass die Ammoniakemissionen aus geschlossenen Ställen mit kontrollierter Lüftung 1300 kg/Jahr nicht überschreiten.
-
-**7**
-
-- 1\. 7. 16 - 93
 
 [^hGLandwirtschaft1-1]: Eingefügt durch RRB vom 13. Januar 2016 (OS 71, 100; ABl 2016-01-22). In Kraft seit 1. Mai 2016.
 [^hGLandwirtschaft1-2]: Fassung gemäss RRB vom 13. Januar 2016 (OS 71, 100; ABl 2016-01-22). In Kraft seit 1. Mai 2016.
@@ -296,19 +294,13 @@ Diese Verordnung tritt am 1. März 2010 in Kraft.
 
 § 1. Bestehende Holzzentralheizungen, welche die Anforderungen von § 8 Abs. 3 nicht erfüllen, sind innert vier Jahren zu sanieren. Die Behörde kann im Einzelfall aus Gründen der Verhältnismässigkeit längere Sanierungsfristen gewähren.
 
-#### § 2
-
-**b. Holzfeuerungen bis 70 kW**
-
-<sup>1</sup> Bestehende Holzfeuerungen bis 70 kW, welche die Emissionsgrenzwerte gemäss § 8 a Abs. 3 überschreiten, sind innert vier Jahren zu sanieren.
-
-<sup>2</sup> Die Frist beginnt mit dem Inkrafttreten der Verordnungsänderung, jedoch nicht vor Ablauf von 20 Jahren ab Inbetriebnahme der Holzfeuerung zu laufen.
-
-#### § 3
+§ 2.[^hÜbergangsbestimmunge-1]
 
 **Benzintankstellen**
 
-Bestehende Benzintankstellen, die den Anforderungen von § 16 nicht genügen, sind innert dreier Jahre zu sanieren.
+§ 3. Bestehende Benzintankstellen, die den Anforderungen von § 16 nicht genügen, sind innert dreier Jahre zu sanieren.
+
+[^hÜbergangsbestimmunge-1]: Aufgehoben durch RRB vom 19. April 2023 (OS 78, 224; ABl 2023-04-28). In Kraft seit 1. Juli 2023. 1. 7. 23 - 121 9
 
 #### § 4
 
@@ -316,9 +308,18 @@ Bestehende Benzintankstellen, die den Anforderungen von § 16 nicht genügen, si
 
 Bestehende Tierhaltungsanlagen, welche die Anforderungen von § 17 a Abs. 2 nicht erfüllen, sind innert vier Jahren zu sanieren.
 
+### Übergangsbestimmung zur Änderung vom 19. April 2023
+
+(OS 78, 224)
+
+Bestehende Holzzentralheizungen mit einer Feuerungswärmeleistung bis 70 kW, welche die Anforderungen von § 8 a Abs. 3 oder 5 oder die Anforderungen gemäss Anhang 3 Ziff. 523 LRV[^hÜbergangsbestimmung-1] nicht erfüllen, sind bis spätestens 31. Mai 2028 zu sanieren.
+
+[^hÜbergangsbestimmung-1]: SR 814.318.142.1.
+
 ## Weitere Fussnoten
 
 - [1] OS 65, 10; Begründung siehe ABl 2010, 54.
 - [2] SR 641.811.
 - [3] SR 814.01.
-- [4] SR 814.318.142.1.
+- [7] Eingefügt durch RRB vom 19. April 2023 (OS 78, 224; ABl 2023-04-28). In Kraft seit 1. Juli 2023.
+- [8] Fassung gemäss RRB vom 19. April 2023 (OS 78, 224; ABl 2023-04-28). In Kraft seit 1. Juli 2023.
