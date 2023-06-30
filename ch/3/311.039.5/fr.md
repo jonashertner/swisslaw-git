@@ -3,11 +3,11 @@ sr: "311.039.5"
 title: "Ordonnance du 16 mai 2018 sur les mesures visant à prévenir et à combattre la radicalisation et l'extrémisme violent (Ordonnance contre la radicalisation et l'extrémisme)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/335"
 language: fr
-version: 2018-07-01
+version: 2023-07-01
 adopted: 2018-05-16
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/335/20180701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-335-20180701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/335/20180701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/335/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-335-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/335/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/335/20180701/fr"
 
 (Ordonnance contre la radicalisation et l’extrémisme)
 
-du 16 mai 2018 (État le 1<sup>er</sup> juillet 2018)
+du 16 mai 2018 (État le 1<sup>er</sup> juillet 2023)
 
 Le Conseil fédéral suisse,
 
@@ -246,4 +246,8 @@ Les voies de droit sont régies par les dispositions générales de la procédur
 
 #### Art. 19
 
-La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2018 et a effet jusqu’au 30 juin 2023.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2018 et a effet jusqu’au 30 juin 2023.
+
+<sup>2</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 30 juin 2028.[^19-1]
+
+[^19-1]: Introduit par le ch. I de l’O du 19 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 217](https://fedlex.data.admin.ch/eli/oc/2023/217)).

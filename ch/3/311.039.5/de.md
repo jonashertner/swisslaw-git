@@ -3,11 +3,11 @@ sr: "311.039.5"
 title: Verordnung vom 16. Mai 2018 über Massnahmen zur Verhinderung und Bekämpfung von Radikalisierung und gewalttätigem Extremismus (Verordnung gegen Radikalisierung und Extremismus)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/335"
 language: de
-version: 2018-07-01
+version: 2023-07-01
 adopted: 2018-05-16
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/335/20180701/de/xml/fedlex-data-admin-ch-eli-cc-2018-335-20180701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/335/20180701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/335/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2018-335-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/335/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/335/20180701/de"
 
 (Verordnung gegen Radikalisierung und Extremismus)
 
-vom 16. Mai 2018 (Stand am 1. Juli 2018)
+vom 16. Mai 2018 (Stand am 1. Juli 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -246,4 +246,8 @@ Der Rechtsschutz richtet sich nach den allgemeinen Bestimmungen über die Bundes
 
 #### Art. 19
 
-Diese Verordnung tritt am 1. Juli 2018 in Kraft und gilt bis am 30. Juni 2023.
+<sup>1</sup> Diese Verordnung tritt am 1. Juli 2018 in Kraft und gilt bis am 30. Juni 2023.
+
+<sup>2</sup> Die Geltungsdauer dieser Verordnung wird bis zum 30. Juni 2028 verlängert.[^19-1]
+
+[^19-1]: Eingefügt durch Ziff. I der V vom 19. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 217](https://fedlex.data.admin.ch/eli/oc/2023/217)).
