@@ -4,13 +4,13 @@ number: II A/3/3
 title: Verordnung über die Organisation des Regierungsrates und der Verwaltung
 short: Regierungs- und Verwaltungsorganisationsverordnung; RVOV
 language: de
-version: 2023-05-01
-valid_until: 2023-06-30
-version_adopted: 2023-03-28
+version: 2023-07-01
+valid_until: 2023-12-31
+version_adopted: 2023-05-23
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.3.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2415/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2423/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2415/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung; RVOV)
 
-Vom 21.03.2006 (Stand 01.05.2023)
+Vom 21.03.2006 (Stand 01.07.2023)
 
 Der Regierungsrat,
 
@@ -560,7 +560,7 @@ verordnet:
 - h. Handelsregister,
 - i. Stiftungsaufsicht (klassische Stiftungen),
 - k. Grundbuch,
-- l. Sekretariat Schlichtungsbehörde für Mietverhältnisse,
+- l. …
 - m. Konsumkredit,
 - n. Arbeitsrecht,
 - o. arbeitsmarktliche Massnahmen,
@@ -750,40 +750,48 @@ verordnet:
   - 0\.1. Beschwerdewesen
   - 0\.2. …
   - 0\.3. Gemeindefragen
-  - 0\.4. Entschädigungsbehörde Opferhilfegesetz
+  - 0\.4. Opferhilfestelle
   - 0\.5. …
   - 0\.6. Einigungsstelle (administrativ zugewiesen)
+  - 0\.7. Korporationswesen
+  - 0\.8. Koordinationsstelle Häusliche Gewalt und Gewaltprävention
 - b. Hauptabteilung Wirtschaft und Arbeit
   - 0\.1. Kontaktstelle für Wirtschaft
-  - 0\.2. Handelsregister mit Stiftungsaufsicht
+  - 0\.2. Handelsregister mit Stiftungsaufsicht (klassische Stiftungen)
   - 0\.3. Kantonale Zentralstelle für wirtschaftliche Landesversorgung
   - 1\. Abteilung Arbeit
-  - 1\.1. Kantonale Amtsstelle Arbeit
+  - 1\.1. Kantonale Amtsstelle Arbeit/Arbeitsmarkt (KAST/AM)
   - 1\.2. Arbeitslosenkasse
-  - 1\.3. Logistik arbeitsmarktliche Massnahmen
+  - 1\.3. Logistik arbeitsmarktliche Massnahmen (LAM)
   - 1\.4. Arbeitsinspektorat
   - 2\. Abteilung Arbeitsvermittlung (RAV)
   - 3\. Abteilung Landwirtschaft
   - 3\.1. Kommission für Strukturverbesserungen und Betriebshilfe (administrativ zugewiesen)
-  - 3\.2. Landwirtschaftskommission (administrativ zugewiesen)
+  - 3\.2. Landwirtschaftskommission
   - 3\.3.–3.4. …
   - 4\. Abteilung Grundbuchamt
 - c. Hauptabteilung Soziales
   - 0\.1. Zentrale Dienste
-  - 0\.2. Behindertenfragen
-  - 0\.3. Asylwesen
+  - 0\.2. Behindertenfragen und soziale Einrichtungen
+  - 0\.3. …
   - 0\.4. Kommission für Behindertenbauten
   - 0\.5. Pflege und Betreuung
   - 1\. Abteilung Kindes- und Erwachsenenschutz
   - 1\.1. Kindes- und Erwachsenenschutz
   - 1\.2. Erbschaft
+  - 1\.3. Private Mandatstragende
   - 2\. Abteilung Soziale Dienste
-  - 2\.1. Sozialhilfe (bildet das Grundangebot und wird in drei Stützpunkten Nord, Mitte, Süd angeboten)
-  - 2\.2. Alimentenhilfe
+  - 2\.1. Existenzsicherung
+  - 2\.2. …
   - 2\.3. Opferberatungsstelle
-  - 2\.4. strafrechtliche Mandate
-  - 2\.5. zivilrechtliche Mandate
-  - 2\.6. Pflegekinder
+  - 2\.4. …
+  - 2\.5. Berufsbeistandschaften
+  - 2\.6. Kinder- und Jugendhilfe
+  - 3\. Abteilung Asyl
+  - 3\.1. Asylsozialhilfe
+  - 3\.2. Integration Flüchtlinge
+  - 3\.3. Zentrale Dienste
+  - 3\.4. Rückkehrberatung
 - d. Sozialversicherungen Glarus (gemäss Art. 25 Abs. 3 RVOG administrativ zugewiesen)
   - 1\. Ausgleichskasse/Familienausgleichskasse
   - 2\. IV-Stelle
