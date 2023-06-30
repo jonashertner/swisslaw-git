@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 3. Oktober 1951 über die Betäubungsmittel und die psy
 short: BetmG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: de
-version: 2022-08-01
+version: 2023-07-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20220801/de/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20220801-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20230701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220801/de"
 
 (Betäubungsmittelgesetz, BetmG)[^t-1]
 
-vom 3. Oktober 1951 (Stand am 1. August 2022)
+vom 3. Oktober 1951 (Stand am 1. Juli 2023)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Juli 1996 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -687,7 +687,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
 
 <sup>2</sup>
 
-Der Täter wird mit einer Freiheitsstrafe nicht unter einem Jahr, womit eine Geldstrafe verbunden werden kann, bestraft, wenn er:
+Der Täter wird mit einer Freiheitsstrafe nicht unter einem Jahr bestraft, wenn er:[^19-2]
 
 - a. weiss oder annehmen muss, dass die Widerhandlung mittelbar oder unmittelbar die Gesundheit vieler Menschen in Gefahr bringen kann;
 - b. als Mitglied einer Bande handelt, die sich zur fortgesetzten Ausübung des unerlaubten Betäubungsmittelhandels zusammengefunden hat;
@@ -701,10 +701,11 @@ Das Gericht kann in folgenden Fällen die Strafe nach freiem Ermessen mildern:
 - a. bei einer Widerhandlung nach Absatz 1 Buchstabe g;
 - b. bei einer Widerhandlung nach Absatz 2, wenn der Täter von Betäubungsmitteln abhängig ist und diese Widerhandlung zur Finanzierung des eigenen Betäubungsmittelkonsums hätte dienen sollen.
 
-<sup>4</sup> Nach den Bestimmungen der Absätze 1 und 2 ist auch strafbar, wer die Tat im Ausland begangen hat, sich in der Schweiz befindet und nicht ausgeliefert wird, sofern die Tat auch am Begehungsort strafbar ist. Ist das Gesetz des Begehungsortes für den Täter das mildere, so ist dieses anzuwenden. Artikel 6 des Strafgesetzbuches[^19-2] ist anwendbar.
+<sup>4</sup> Nach den Bestimmungen der Absätze 1 und 2 ist auch strafbar, wer die Tat im Ausland begangen hat, sich in der Schweiz befindet und nicht ausgeliefert wird, sofern die Tat auch am Begehungsort strafbar ist. Ist das Gesetz des Begehungsortes für den Täter das mildere, so ist dieses anzuwenden. Artikel 6 des Strafgesetzbuches[^19-3] ist anwendbar.
 
 [^19-1]: Fassung gemäss Ziff. I des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352); [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086), [8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^19-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-2]: Fassung gemäss Ziff. I 29 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^19-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 19<sup>bis</sup>
 
@@ -724,11 +725,12 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer einer 
 
 <sup>3.</sup> Untersteht oder unterzieht sich der Täter wegen Konsums von Betäubungsmitteln einer ärztlich beaufsichtigten Betreuung, so kann von einer Strafverfolgung abgesehen werden. Das Strafverfahren wird durchgeführt, wenn sich der Täter der Betreuung oder der Behandlung entzieht.
 
-<sup>4.</sup> Ist der Täter von Betäubungsmitteln abhängig, so kann ihn der Richter in eine Heilanstalt einweisen. Artikel 44 des Strafgesetzbuches[^19a-3] gilt sinngemäss.
+<sup>4.</sup> Ist der Täter von Betäubungsmitteln abhängig, so kann ihn das Gericht in eine spezialisierte Einrichtung einweisen. Die Artikel 60 und 63 des Strafgesetzbuchs[^19a-3] gelten sinngemäss.[^19a-4]
 
 [^19a-1]: Eingefügt durch Ziff. I des BG vom 20. März 1975, in Kraft seit 1. Aug. 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^19a-2]: Ausdruck gemäss Anhang Ziff. 3 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [BBl 1999 II 1979](https://fedlex.data.admin.ch/eli/fga/1999/1_1979_1787_1669)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^19a-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Heute Art. 60 und 63.
+[^19a-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19a-4]: Fassung gemäss Ziff. I 29 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 19b
 
@@ -763,11 +765,12 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
 - d. als Medizinalperson[^20-3] Betäubungsmittel anders als nach Artikel 11 oder 13 verwendet oder abgibt;
 - e. wer als Arzt oder Tierarzt Betäubungsmittel anders als nach Artikel 11 verschreibt.
 
-<sup>2</sup> Der Täter wird mit einer Freiheitsstrafe nicht unter einem Jahr bestraft, wenn er durch gewerbsmässigen Handel einen grossen Umsatz oder einen erheblichen Gewinn erzielt. Die Freiheitsstrafe kann mit einer Geldstrafe verbunden werden.
+<sup>2</sup> Der Täter wird mit einer Freiheitsstrafe nicht unter einem Jahr bestraft, wenn er durch gewerbsmässigen Handel einen grossen Umsatz oder einen erheblichen Gewinn erzielt. …[^20-4]
 
 [^20-1]: Fassung gemäss Ziff. I des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352); [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086), [8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^20-2]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 [^20-3]: Begriff: Arzneimittel-Bewilligungsverordnung vom 14. Nov. 2018 ([SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
+[^20-4]: Zweiter Satz aufgehoben durch Ziff. I 29 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 21
 
@@ -777,12 +780,14 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
 
 Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:
 
-- a. die Meldungen nach den Artikeln 11 Absatz 1<sup>bis</sup>, 16 und 17 Absatz 1 nicht macht, die vorgeschriebenen Lieferscheine und Betäubungsmittelkontrollen nicht erstellt oder darin falsche Angaben macht oder Angaben, die er hätte machen sollen, einzutragen unterlässt;
+- a.[^21-2] die Meldungen nach den Artikeln 11 Absatz 1<sup>bis</sup>, 16 und 17 Absätze 2 und 3 nicht macht, die vorgeschriebenen Lieferscheine und Betäubungsmittelkontrollen nicht erstellt oder darin falsche Angaben macht oder Angaben, die er hätte machen sollen, einzutragen unterlässt;
 - b. von Lieferscheinen oder Betäubungsmittelkontrollen Gebrauch macht, die falsche oder unvollständige Angaben enthalten.
 
-<sup>2</sup> Der Täter wird mit Busse bestraft, wenn er fahrlässig handelt.
+<sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe.[^21-3]
 
 [^21-1]: Fassung gemäss Ziff. I des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352); [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086), [8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^21-2]: Fassung gemäss Ziff. I 29 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^21-3]: Fassung gemäss Ziff. I 29 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 22
 

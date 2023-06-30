@@ -4,11 +4,11 @@ title: "Lescha federala dals 3 d'october 1951 davart ils narcotics e las substan
 short: LNarc
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: rm
-version: 2022-08-01
+version: 2023-07-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20220801/rm/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20220801-rm-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220801/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20230701-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220801/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-(Lescha da narcotics, LNarc)**[^t-1]**
+(Lescha da narcotics, LNarc)[^t-1]
 
-dals 3 d’october 1951 (versiun dal 1. d’avust 2022)
+dals 3 d’october 1951 (versiun dal 1. da fanadur 2023)
 
 [^t-1]: Versiun dal titel tenor la cifra I da la LF dals 24 da mars 1995, en vigur dapi il 1. da fan. 1996 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -33,7 +33,7 @@ concluda:
 [^ingress-2]: Versiun tenor la cifra 7 da la LF dals 19 da mars 2010 davart la realisaziun dal conclus da basa 2008/977/JI davart la protecziun da datas da persunas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, en vigur dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 [^ingress-3]: [BBl 1951 I 829](https://fedlex.data.admin.ch/eli/fga/1951/1_829_841_).
 
-## 1. chapitel**** Disposiziuns generalas
+## 1. chapitel Disposiziuns generalas
 
 [^chap1-1]
 
@@ -134,7 +134,7 @@ Uschenavant che la lescha na prevesa nagut auter, valan las disposiziuns davart 
 
 [^3a-1]: Integrà tras la cifra I da la LF dals 24 da mars 1995 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)). Abolì tras la cifra I da la LF dals 20 da mars 2008, cun effect dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352); [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086), [8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
-## 1*a*. chapitel**** Prevenziun, terapia e reducziun da donns
+## 1*a*. chapitel Prevenziun, terapia e reducziun da donns
 
 [^chap1a-1]
 
@@ -294,12 +294,13 @@ En collavuraziun cun ils chantuns sviluppa la Confederaziun recumandaziuns per l
 
 <sup>1bis</sup> Il Cussegl federal po prevair disposiziuns spezialas per l’import e per l’export da narcotics tras viagiaturs malsauns. Swissmedic po elavurar datas da persunas spezialmain sensiblas en connex cun l’import e l’export da narcotics tras viagiaturs malsauns, uschenavant che quai è necessari sin basa da cunvegnas internaziunalas.[^5-4]
 
-<sup>2</sup> L’Administraziun da duana surveglia ensemen cun Swissmedic il transit da narcotics.
+<sup>2</sup> L’Uffizi federal da la duana e da la segirezza dals cunfins[^5-5] surveglia ensemen cun l’institut il transit da narcotics.
 
 [^5-1]: Integrà tras la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352); [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086), [8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^5-2]: Versiun tenor la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352); [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086), [8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^5-3]: Versiun tenor la cifra I da la LF dals 20 da mars 1975, en vigur dapi il 1. d’avust 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^5-4]: Integrà tras l’art. 3 cifra 9 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. f; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^5-5]: La designaziun da l’unitad administrativa è vegnida adattada per il 1. da schan. 2022 applitgond l’art. 20 al. 2 da l’O dals 7 d’oct. 2015 davart las publicaziuns uffizialas ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -463,7 +464,7 @@ Il UFSP metta a disposiziun ils resultats da l’evaluaziun statistica:
 
 #### Art. 12
 
-<sup>1</sup> Sche persunas medicinalas[^12-1] autorisadas èn dependentas da narcotics u han commess cuntravenziuns tenor ils artitgels 19 fin 22, las pon ils chantuns privar da las cumpetenzas tenor l’artitgel 9, e quai per in tschert temp u definitivamain.[^12-2]
+<sup>1</sup> Sche persunas medicinalas[^12-1] autorisadas èn dependentas da narcotics u han commess cuntravenziuns tenor ils artitgels 19–22, las pon ils chantuns privar da las cumpetenzas tenor l’artitgel 9, e quai per in tschert temp u definitivamain.[^12-2]
 
 <sup>2</sup> Talas disposiziuns valan per tut il territori da la Confederaziun svizra.
 
@@ -490,7 +491,7 @@ En las apotecas dastgan narcotics vegnir consegnads al public mo sin prescripziu
 [^14-1]: Versiun tenor la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352); [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086), [8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^14-2]: Integrà tras la cifra I da la LF dals 20 da mars 1975, en vigur dapi il 1. d’avust 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 
-### 3*a*. secziun**** Organisaziuns ed autoritads
+### 3*a*. secziun Organisaziuns ed autoritads
 
 [^chap2-sec3a-1]
 
@@ -504,7 +505,7 @@ En las apotecas dastgan narcotics vegnir consegnads al public mo sin prescripziu
 
 <sup>2</sup> Il Cussegl federal ed ils chantuns pon retrair per in tschert temp u definitivamain las permissiuns ch’els han concedì, sche circumstanzas spezialas pretendan quai.
 
-### 4. secziun …****
+### 4. secziun …
 
 [^chap2-sec4-1]
 
@@ -560,14 +561,14 @@ Per mintga furniziun da narcotics sto vegnir emessa ina quittanza che vegn surda
 [^18-1]: Versiun tenor la cifra I da la LF dals 18 da dec. 1968, en vigur dapi il 1. da schan. 1970 ([AS 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9), 13; [BBl 1968 I 737](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
 [^18-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-## 3*a*. chapitel**** Protecziun da datas ed elavuraziun da datas****
+## 3*a*. chapitel Protecziun da datas ed elavuraziun da datas
 
 [^chap3a-1][^chap3a-2]
 
 [^chap3a-1]: Integrà tras l’art. 3 cifra 9 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. f; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^chap3a-2]: Versiun tenor la cifra I da la LF dals 19 da mars 2021, en vigur dapi il 1. d’avust 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
-### 1. secziun Protecziun da datas en il rom da las cunvegnas d’associaziun a la reglamentaziun da Schengen****
+### 1. secziun Protecziun da datas en il rom da las cunvegnas d’associaziun a la reglamentaziun da Schengen
 
 [^chap3a-sec1-1]
 
@@ -595,7 +596,7 @@ Il dretg da survegnir infurmaziuns sa drizza tenor las disposiziuns davart la pr
 
 [^18c-1]: Versiun tenor la cifra 7 da la LF dals 19 da mars 2010 davart la realisaziun dal conclus da basa 2008/977/JI davart la protecziun da datas da persunas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, en vigur dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-### 2. secziun Elavuraziun da datas****
+### 2. secziun Elavuraziun da datas
 
 [^chap3a-sec2-1]
 
@@ -666,7 +667,7 @@ Il Cussegl federal fixescha:
 
 ## 4. chapitel Disposiziuns penalas
 
-### 1. secziun Acts chastiabels****
+### 1. secziun Acts chastiabels
 
 [^chap4-sec1-1]
 
@@ -686,11 +687,11 @@ Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià,
 - d. posseda, conserva, acquista u survegn en in’autra moda e maniera narcotics senza avair il dretg latiers;
 - e. finanziescha il commerzi illegal cun narcotics u intermediescha sia finanziaziun;
 - f. incitescha publicamain al consum da narcotics u communitgescha publicamain ina chaschun d’acquistar u da consumar narcotics;
-- g. fa preparativas per commetter ina cuntravenziun tenor las literas a fin f.
+- g. fa preparativas per commetter ina cuntravenziun tenor las literas a–f.
 
 <sup>2</sup>
 
-Il delinquent vegn chastià cun in chasti da detenziun d’almain 1 onn, il qual po vegnir collià cun in chasti pecuniar, sch’ella u el:
+Il delinquent vegn chastià cun in chasti da detenziun d’almain 1 onn, sch’el:[^19-2]
 
 - a. sa u sto supponer che la cuntravenziun po metter en privel directamain u indirectamain la sanadad da blers umans;
 - b. agescha sco commember d’ina banda ch’è s’unida cun l’intent da far cuntinuadamain commerzi illegal cun narcotics;
@@ -704,10 +705,11 @@ En ils suandants cas po la dretgira reducir il chasti tenor liber appreziar:
 - a. en cas d’ina cuntravenziun tenor l’alinea 1 litera g;
 - b. en cas d’ina cuntravenziun tenor l’alinea 2, sch’il delinquent è dependent da narcotics e sche questa cuntravenziun dueva gidar a finanziar l’agen consum da narcotics.
 
-<sup>4</sup> Tenor las disposiziuns dals alineas 1 e 2 è er chastiabla quella persuna che ha commess l’act a l’exteriur, che sa chatta en Svizra e che na vegn betg extradida, uschenavant che l’act è chastiabel er al lieu, nua ch’el è vegnì commess. La lescha dal lieu, nua che l’act è vegnì commess, sto vegnir applitgada, sche quella è pli miaivla per il delinquent. L’artitgel 6 dal Cudesch penal[^19-2] è applitgabel.
+<sup>4</sup> Tenor las disposiziuns dals alineas 1 e 2 è er chastiabla quella persuna che ha commess l’act a l’exteriur, che sa chatta en Svizra e che na vegn betg extradida, uschenavant che l’act è chastiabel er al lieu, nua ch’el è vegnì commess. La lescha dal lieu, nua che l’act è vegnì commess, sto vegnir applitgada, sche quella è pli miaivla per il delinquent. L’artitgel 6 dal Cudesch penal[^19-3] è applitgabel.
 
 [^19-1]: Versiun tenor la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352); [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086), [8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^19-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-2]: Versiun tenor la cifra I 29 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^19-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 19<sup>bis</sup>
 
@@ -727,11 +729,12 @@ Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià,
 
 <sup>3.</sup> Sch’il delinquent suttastat u sa suttametta ad ina tgira medicala pervia dal consum da narcotics, poi vegnir desistì d’ina persecuziun penala. La procedura penala vegn realisada, sch’il delinquent sa retira dal tractament.
 
-<sup>4.</sup> Sch’il delinquent è dependent da narcotics, al po il derschader trametter en in institut da cura. L’artitgel 44 dal Cudesch penal[^19a-3] vala tenor il senn.
+<sup>4.</sup> Sch’il delinquent è dependent da narcotics, al po la dretgira trametter en ina instituziun spezialisada. Ils artitgels 60 e 63 dal Cudesch penal[^19a-3] valan tenor il senn.[^19a-4]
 
 [^19a-1]: Integrà tras la cifra I da la LF dals 20 da mars 1975, en vigur dapi il 1. d’avust 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^19a-2]: Expressiun tenor la cifra 3 da l’agiunta da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [BBl 1999 II 1979](https://fedlex.data.admin.ch/eli/fga/1999/1_1979_1787_1669)). Questa midada è resguardada en l’entir decret.
-[^19a-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)**.** Oz art. 60 e 63.
+[^19a-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19a-4]: Versiun tenor la cifra I 29 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 19b
 
@@ -750,7 +753,7 @@ Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià,
 
 Tgi che instighescha u emprova d’instigar da consumar illegalmain narcotics, vegn chastià cun ina multa.
 
-[^19c-1]: Integrà tras la cifra I da la LF dals 20 da mars 1975, en vigur dapi il 1. d’avust 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); BBl **19****73** I 1348).
+[^19c-1]: Integrà tras la cifra I da la LF dals 20 da mars 1975, en vigur dapi il 1. d’avust 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 
 #### Art. 20
 
@@ -766,11 +769,12 @@ Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià,
 - d. utilisescha u consegna sco persuna medicinala[^20-3] narcotics en autra moda e maniera che tenor l’artitgel 11 u 13;
 - e. prescriva sco media u sco medi narcotics en autra moda e maniera che tenor l’artitgel 11.
 
-<sup>2</sup> Il delinquent vegn chastià cun in chasti da detenziun d’almain 1 onn, sch’el fa – tras commerzi professiunal – ina gronda svieuta u in gudogn considerabel. Il chasti da detenziun po vegnir collià cun in chasti pecuniar.
+<sup>2</sup> Il delinquent vegn chastià cun in chasti da detenziun d’almain 1 onn, sch’el fa – tras commerzi professiunal – ina gronda svieuta u in gudogn considerabel. …[^20-4]
 
 [^20-1]: Versiun tenor la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352); [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086), [8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^20-2]: Versiun tenor la cifra I da la LF dals 19 da mars 2021, en vigur dapi il 1. d’avust 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
-[^20-3]: Noziun: O dals 14 da nov. 2018 davart la permissiun da medicaments ([SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). Il renviament è vegnì adattà per il 1. da schan. 2019 applitgond l’art. 12 al. 2 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas (SR **170****.****512**).
+[^20-3]: Noziun: O dals 14 da nov. 2018 davart la permissiun da medicaments ([SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). Il renviament è vegnì adattà per il 1. da schan. 2019 applitgond l’art. 12 al. 2 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^20-4]: Abolì la segunda frasa tras la cifra I 29 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, cun effect dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 21
 
@@ -780,12 +784,14 @@ Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià,
 
 Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià, tgi che fa intenziunadamain il suandant:
 
-- a. tralascha da far las annunzias tenor l’artitgel 11 alinea 1<sup>bis</sup>, tenor l’artitgel 16 e tenor l’artitgel 17 alinea 1, n’emetta betg las quittanzas e las controllas da narcotics prescrittas, fa indicaziuns faussas en quellas u tralascha da far indicaziuns che avessan stuì vegnir fatgas en quellas;
+- a.[^21-2] tralascha da far las annunzias tenor l’artitgel 11 alinea 1<sup>bis</sup>, tenor l’artitgel 16 e tenor l’artitgel 17 alineas 2 e 3, n’emetta betg las quittanzas e las controllas da narcotics prescrittas, fa indicaziuns faussas en quellas u tralascha da far indicaziuns che avessan stuì vegnir fatgas en quellas;
 - b. fa diever da quittanzas u da controllas da narcotics che cuntegnan indicaziuns faussas u incumplettas.
 
-<sup>2</sup> Il delinquent vegn chastià cun ina multa, sch’el agescha per negligientscha.
+<sup>2</sup> Il delinquent vegn chastià cun in chasti pecuniar, sch’el agescha per negligientscha.[^21-3]
 
 [^21-1]: Versiun tenor la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352); [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086), [8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^21-2]: Versiun tenor la cifra I 29 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^21-3]: Versiun tenor la cifra I 29 da la LF dals 17 da dec. 2021 davart l’armonisaziun dal rom penal, en vigur dapi il 1. da fan. 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 22
 
@@ -804,7 +810,7 @@ Cun ina multa vegn chastià, tgi che violescha intenziunadamain u per negligient
 
 [^23-1]
 
-<sup>1</sup> Sch’in funcziunari ch’è incumbensà d’exequir questa lescha commetta intenziunadamain ina cuntravenziun tenor ils artitgels 19 fin 22, vegn il chasti augmentà commensuradamain.
+<sup>1</sup> Sch’in funcziunari ch’è incumbensà d’exequir questa lescha commetta intenziunadamain ina cuntravenziun tenor ils artitgels 19–22, vegn il chasti augmentà commensuradamain.
 
 <sup>2</sup> Il funcziunari ch’è incumbensà da cumbatter cunter il commerzi illegal cun narcotics e che accepta sez ina purschida da narcotics, na vegn betg chastià, er sch’el na communitgescha betg sia identitad e sia funcziun.[^23-2]
 
@@ -851,7 +857,7 @@ Las disposiziuns generalas dal Cudesch penal[^26-1] vegnan applitgadas per quant
 [^27-5]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^27-6]: [[AS 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)cifra II 4; [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820); [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II 45; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)agiunta 4 cifra 24, [6657](https://fedlex.data.admin.ch/eli/oc/2007/861)agiunta cifra 9. [AS 2009 6743](https://fedlex.data.admin.ch/eli/oc/2009/828)art. 163]. Guardar ussa: O dals 27 da nov. 2009 davart la taglia sin la plivalur ([SR 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)).
 
-### 2. secziun Persecuziun penala****
+### 2. secziun Persecuziun penala
 
 [^chap4-sec2-1]
 
@@ -874,7 +880,7 @@ Las disposiziuns generalas dal Cudesch penal[^26-1] vegnan applitgadas per quant
 
 [^28a-1]
 
-Cuntravenziuns tenor ils artitgels 20 fin 22, che vegnan constatadas da l’autoritad federala cumpetenta en il sectur executiv da la Confederaziun, vegnan persequitadas e giuditgadas da l’autoritad federala. Per la procedura vala la Lescha federala dals 22 da mars 1974[^28a-2] davart il dretg penal administrativ.
+Cuntravenziuns tenor ils artitgels 20–22, che vegnan constatadas da l’autoritad federala cumpetenta en il sectur executiv da la Confederaziun, vegnan persequitadas e giuditgadas da l’autoritad federala. Per la procedura vala la Lescha federala dals 22 da mars 1974[^28a-2] davart il dretg penal administrativ.
 
 [^28a-1]: Integrà tras la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352); [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086), [8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^28a-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -885,7 +891,7 @@ Cuntravenziuns tenor ils artitgels 20 fin 22, che vegnan constatadas da l’auto
 
 [^28b28l-1]: Integrà tras la cifra I da la LF dals 28 da sett. 2012 ([AS 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [BBl 2011 8195](https://fedlex.data.admin.ch/eli/fga/2011/1437), [8221](https://fedlex.data.admin.ch/eli/fga/2011/1439)). Abolì tras la cifra II 3 da l’agiunta da la LF dals 18 da mars 2016 davart las multas disciplinaras, cun effect dapi il 1. da schan. 2020 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725); [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 
-## 5. chapitel**** Incumbensas dals chantuns e da la Confederaziun
+## 5. chapitel Incumbensas dals chantuns e da la Confederaziun
 
 [^chap5-1]
 
@@ -965,9 +971,9 @@ Ils chantuns decreteschan las prescripziuns ch’èn necessarias per exequir il 
 - a. las incumbensas e las cumpetenzas dals secturs da la prevenziun, da la terapia e da la reintegraziun sco er da la reducziun da donns e da l’agid per surviver (chap. 1*a*), en spezial retschaiver las annunzias davart persunas cun disturbis existents u smanatschants che resultan da la dependenza (art. 3*c*);
 - b. conceder permissiuns (art. 3*e*, art. 14 ed art. 14*a* al. 1<sup>bis</sup>);
 - c. retschaiver las annunzias davart consegnas e davart ordinaziuns da narcotics per autras indicaziuns che las indicaziuns permessas (art. 11 al. 1<sup>bis</sup>);
-- d. la controlla (art. 16 fin 18);
+- d. la controlla (art. 16–18);
 - e. la persecuziun penala (art. 28) e la privaziun da l’autorisaziun da far commerzi cun narcotics (art. 12);
-- f. survegliar las autoritads ed ils organs ch’èn menziunads sut las literas a fin e sco er ils servetschs da tractament e d’agid social admess.
+- f. survegliar las autoritads ed ils organs ch’èn menziunads sut las literas a–e sco er ils servetschs da tractament e d’agid social admess.
 
 <sup>2</sup> Ils chantuns han il dretg d’incassar taxas per conceder las permissiuns (art. 3*e*, art. 14 ed art. 14*a* al. 1bis) sco er da decretar las disposiziuns spezialas e per far las controllas.
 

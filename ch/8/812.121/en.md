@@ -4,11 +4,11 @@ title: "Federal Act of 3 October 1951 on Narcotics and Psychotropic Substances (
 short: NarcA
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: en
-version: 2022-08-01
+version: 2023-07-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20220801/en/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20220801-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20230701-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Narcotics Act, NarcA)[^t-1]
 
-of 3 October 1951 (Status as of 1 August 2022)
+of 3 October 1951 (Status as of 1 July 2023)
 
 [^t-1]: Title amended by No I of the FA of 24 March 1995, in force since 1 July 1996 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -294,13 +294,13 @@ In consultation with the cantons, the Confederation shall develop recommendation
 
 <sup>1bis</sup> The Federal Council may issue special provisions on the import or export of narcotics by travellers suffering from medical conditions. Swissmedic may process sensitive personal data connected with the import or export of narcotics by travellers suffering from medical conditions, provided this is required by international agreements.[^5-4]
 
-<sup>2</sup> The supervision of the transit of narcotics shall be carried out by the Federal Office for Customs and Border Security[^5-5] in consultation with the Agency.
+<sup>2</sup> The supervision of the transit of narcotics shall be carried out by the Federal Office for Customs and Border Security[^5-5] in consultation with Swissmedic.
 
 [^5-1]: Inserted by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^5-2]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^5-3]: Amended by No I of the FA of 20 March 1975, in force since 1 Aug. 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^5-4]: Inserted by Art. 3 No 9 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association to Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. f; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^5-5]: The name of this administrative unit was modified on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-5]: The name of this administrative unit was changed on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -677,7 +677,7 @@ The Federal Council shall specify:
 
 [^19-1]
 
-<sup>1</sup> is liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1</sup> shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 Any person who without authorisation:
 
@@ -691,7 +691,7 @@ Any person who without authorisation:
 
 <sup>2</sup>
 
-The offender is liable to a custodial sentence of not less than one year, which may be combined with a monetary penalty, if he or she:
+The offender shall be liable to a custodial sentence of not less than one year if he or she:[^19-2]
 
 - a. knows or must assume that the offence relates to a quantity of narcotic substances that could directly or indirectly endanger the health of a large number of people;
 - b. acts as a member of a group that has been formed in order to trade unlawfully in narcotic substances;
@@ -705,16 +705,17 @@ The court may at its discretion mitigate the penalty in the following cases:
 - a. an offence under paragraph 1 letter g;
 - b. an offence under paragraph 2, where the offender is dependent on narcotic substances and the offence was intended to finance his or her own consumption of narcotic substances.
 
-<sup>4</sup> The offender also commits an offence under the provisions of paragraphs 1 and 2 if he or she committed the offence abroad but is apprehended in Switzerland and is not extradited, provided the act is also an offence at the place of commission. If the law at the place of commission is more lenient, it shall be applied. Article 6 of the Criminal Code[^19-2] applies.
+<sup>4</sup> The offender also commits an offence under the provisions of paragraphs 1 and 2 if he or she committed the offence abroad but is apprehended in Switzerland and is not extradited, provided the act is also an offence at the place of commission. If the law at the place of commission is more lenient, it shall be applied. Article 6 of the Criminal Code[^19-3] applies.
 
 [^19-1]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^19-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-2]: Amended by No I 29 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^19-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 19<sup>bis</sup>
 
 [^19bis-1]
 
-Any person who offers, supplies or in any other way makes accessible narcotics to a person under 18 without medical grounds for doing so is liable to a custodial sentence not exceeding three years or a monetary penalty.
+Any person who offers, supplies or in any other way makes accessible narcotics to a person under 18 without medical grounds for doing so shall be liable to a custodial sentence not exceeding three years or a monetary penalty.
 
 [^19bis-1]: Inserted by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
@@ -722,17 +723,18 @@ Any person who offers, supplies or in any other way makes accessible narcotics t
 
 [^19a-1]
 
-<sup>1.</sup> Any person who wilfully consumes without authorisation narcotics or any person who commits an offence in terms of Article 19 for his or her own consumption is liable to a fine[^19a-2].
+<sup>1.</sup> Any person who wilfully consumes without authorisation narcotics or any person who commits an offence in terms of Article 19 for his or her own consumption shall be liable to a fine[^19a-2].
 
 <sup>2.</sup> In minor cases, no proceedings may be taken or the penalty may be waived. An official caution may be issued.
 
 <sup>3.</sup> If the offender is or makes himself or herself subject to medically supervised care due to consumption of narcotics, prosecution may be waived. Criminal proceedings shall be conducted if the offender withdraws from care or treatment.
 
-<sup>4.</sup> If the offender is dependent on narcotics, the court may order him or her to be admitted to a hospital. Article 44 of the Criminal Code[^19a-3] applies *mutatis mutandis*.
+<sup>4.</sup> If the offender is dependent on narcotics, the court may order him or her to be admitted to a specialised facility. Articles 60 and 63 of the Criminal Code[^19a-3] apply *mutatis mutandis*.[^19a-4]
 
 [^19a-1]: Inserted by No I of the FA of 20 March 1975, in force since 1 Aug. 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^19a-2]: Term in accordance with Annex No 3 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). This amendment has been made throughout the text.
-[^19a-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Now Art. 60 and 63.
+[^19a-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799).
+[^19a-4]: Amended by No I 29 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 19b
 
@@ -749,7 +751,7 @@ Any person who offers, supplies or in any other way makes accessible narcotics t
 
 [^19c-1]
 
-Any person who wilfully incites or attempts to incite another to consume narcotics without authorisation is liable to a fine.
+Any person who wilfully incites or attempts to incite another to consume narcotics without authorisation shall be liable to a fine.
 
 [^19c-1]: Inserted by No I of the FA of 20 March 1975, in force since 1 Aug. 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 
@@ -757,7 +759,7 @@ Any person who wilfully incites or attempts to incite another to consume narcoti
 
 [^20-1]
 
-<sup>1</sup> is liable to a custodial sentence not exceeding three years or to monetary penalty.
+<sup>1</sup> shall be liable to a custodial sentence not exceeding three years or to monetary penalty.
 
 Any person who:
 
@@ -767,32 +769,35 @@ Any person who:
 - d. as a medical professional[^20-3] uses or dispenses narcotics other than in accordance with Articles 11 or 13;
 - e. as a physician or veterinary surgeon prescribes narcotics other than in accordance with Article 11;
 
-<sup>2</sup> The offender is liable to a custodial sentence of no less than one year if he or she achieves a large turnover or substantial profit through commercial trading. The custodial sentence may be combined with a monetary penalty.
+<sup>2</sup> The offender shall be liable to a custodial sentence of no less than one year if he or she achieves a large turnover or substantial profit through commercial trading. …[^20-4]
 
 [^20-1]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^20-2]: Amended by No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 [^20-3]: Term: Medicinal Products Licensing Ordinance of 14 Nov. 2018 ([SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). The reference was adapted in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) on 1. Jan. 2019.
+[^20-4]: Second sentence repealed by No I 29 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 21
 
 [^21-1]
 
-<sup>1</sup> is liable to a custodial sentence not exceeding three years or monetary penalty.
+<sup>1</sup> shall be liable to a custodial sentence not exceeding three years or monetary penalty.
 
 Any person who wilfully:
 
-- a. fails to file reports under Articles 11 paragraph 1<sup>bis</sup>, 16 and 17 paragraph 1, issue the required delivery notes or make narcotics controls or provides false information therein or omits to enter information that he or she should have included;
-- b. uses delivery notes or narcotics controls that contain false or incomplete information;
+- a.[^21-2] fails to file reports under Articles 11 paragraph 1<sup>bis</sup>, 16 and 17 paragraphs 2 and 3, issue the required delivery notes or make narcotics controls or provides false information therein or omits to enter information that he or she should have included;
+- b. uses delivery notes or narcotics controls that contain false or incomplete information,
 
-<sup>2</sup> The offender is liable to a fine if he or she acts through negligence.
+<sup>2</sup> The offender shall be liable to a monetary penalty if he or she acts through negligence.[^21-3]
 
 [^21-1]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^21-2]: Amended by No I 29 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^21-3]: Amended by No I 29 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 22
 
 [^22-1]
 
-is liable to a fine.
+shall be liable to a fine.
 
 Any person who wilfully or negligently:
 
@@ -1035,4 +1040,4 @@ The cantons shall issue the required regulations for implementing the federal la
 Commencement Date: 1 June 1952[^37-2]
 
 [^37-1]: [BS **4** 434]
-[^37-2]: FCD of 4 March 1952..
+[^37-2]: FCD of 4 March 1952.

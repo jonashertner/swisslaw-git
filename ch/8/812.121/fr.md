@@ -4,11 +4,11 @@ title: "Loi fédérale du 3 octobre 1951 sur les stupéfiants et les substances 
 short: LStup
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: fr
-version: 2022-08-01
+version: 2023-07-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20220801-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20230701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220801/fr"
 
 (Loi sur les stupéfiants, LStup)[^t-1]
 
-du 3 octobre 1951 (État le 1<sup>er</sup> août 2022)
+du 3 octobre 1951 (État le 1<sup>er</sup> juillet 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> juil. 1996([RO 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1249](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -696,9 +696,9 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 <sup>2</sup>
 
-L’auteur de l’infraction est puni d’une peine privative de liberté d’un an au moins, cette sanction pouvant être cumulée avec une peine pécuniaire:
+L’auteur de l’infraction est puni d’une peine privative de liberté d’un an au moins:[^19-2]
 
-- a.[^19-2] s’il sait ou ne peut ignorer que l’infraction peut directement ou indirectement mettre en danger la santé de nombreuses personnes;
+- a.[^19-3] s’il sait ou ne peut ignorer que l’infraction peut directement ou indirectement mettre en danger la santé de nombreuses personnes;
 - b. s’il agit comme membre d’une bande formée pour se livrer de manière systématique au trafic illicite de stupéfiants;
 - c. s’il se livre au trafic par métier et réalise ainsi un chiffre d’affaires ou un gain important;
 - d. si, par métier, il propose, cède ou permet de toute autre manière à des tiers d’avoir accès à des stupéfiants dans les lieux de formation principalement réservés aux mineurs ou dans leur périmètre immédiat.
@@ -710,11 +710,12 @@ Le tribunal peut atténuer librement la peine:
 - a. dans le cas d’une infraction visée à l’al. 1, let. g;
 - b. dans le cas d’une infraction visée à l’al. 2, si l’auteur est dépendant et que cette infraction aurait dû servir au financement de sa propre consommation de stupéfiants.
 
-<sup>4</sup> Est également punissable en vertu des al. 1 et 2 celui qui commet l’acte à l’étranger, se trouve en Suisse et n’est pas extradé, pour autant que l’acte soit également punissable dans le pays où il a été commis. La législation de ce dernier est applicable si elle est plus favorable à l’auteur. L’art. 6 du code pénal[^19-3] est applicable.
+<sup>4</sup> Est également punissable en vertu des al. 1 et 2 celui qui commet l’acte à l’étranger, se trouve en Suisse et n’est pas extradé, pour autant que l’acte soit également punissable dans le pays où il a été commis. La législation de ce dernier est applicable si elle est plus favorable à l’auteur. L’art. 6 du code pénal[^19-4] est applicable.
 
 [^19-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^19-2]: [RO 2011 3147](https://fedlex.data.admin.ch/eli/oc/2011/395)
-[^19-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-2]: Nouvelle teneur selon le ch. I 29 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^19-3]: [RO 2011 3147](https://fedlex.data.admin.ch/eli/oc/2011/395)
+[^19-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 19<sup>bis</sup>
 
@@ -728,17 +729,16 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 [^19a-1]
 
-<sup>1.</sup> Celui qui, sans droit, aura consommé intentionnellement des stupéfiants ou celui qui aura commis une infraction à l’art. 19 pour assurer sa propre consommation est passible de l’amende[^19a-2].
+<sup>1.</sup> Quiconque, sans droit, consomme intentionnellement des stupéfiants ou commet une infraction à l’art. 19 pour assurer sa propre consommation est passible d’une amende.
 
-<sup>2.</sup> Dans les cas bénins, l’autorité compétente pourra suspendre la procédure ou renoncer à infliger une peine. Une réprimande peut être prononcée.
+<sup>2.</sup> Dans les cas bénins, l’autorité compétente peut suspendre la procédure ou renoncer à prononcer une peine. Une réprimande peut être prononcée.
 
-<sup>3.</sup> Il est possible de renoncer à la poursuite pénale lorsque l’auteur de l’infraction est déjà soumis, pour avoir consommé des stupéfiants, à des mesures de protection, contrôlées par un médecin, ou s’il accepte de s’y soumettre. La poursuite pénale sera engagée, s’il se soustrait à ces mesures.
+<sup>3.</sup> Il est possible de renoncer à la poursuite pénale lorsque l’auteur de l’infraction est déjà soumis, pour avoir consommé des stupéfiants, à des mesures de protection, contrôlées par un médecin, ou s’il accepte de s’y soumettre. La poursuite pénale est engagée s’il se soustrait à ces mesures.
 
-<sup>4.</sup> Lorsque l’auteur sera victime d’une dépendance aux stupéfiants, le juge pourra ordonner son renvoi dans une maison de santé. L’art. 44 du code pénal suisse[^19a-3] est applicable par analogie.
+<sup>4.</sup> Lorsque l’auteur est victime d’une dépendance aux stupéfiants, le juge peut ordonner son renvoi dans une institution spécialisée. Les art. 60 et 63 du code pénal[^19a-2] sont applicables par analogie.
 
-[^19a-1]: Introduit par le ch. I de la LF du 20 mars 1975, en vigueur depuis le 1<sup>er</sup> août 1975 ([RO 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [FF 1973 I 1303](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
-[^19a-2]: Nouvelle expression selon l’annexe ch. 3 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [FF 1999 II 1787](https://fedlex.data.admin.ch/eli/fga/1999/1_1979_1787_1669)). Il a été tenu compte de cette mod. dans tout le texte.
-[^19a-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Actuellement "les art. 60 et 63".
+[^19a-1]: Introduit par le ch. I de la LF du 20 mars 1975 ([RO 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [FF 1973 I 1303](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)). Nouvelle teneur selon le ch. I 29 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^19a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 19b
 
@@ -773,11 +773,12 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 - d. les professionnels de la santé[^20-3] qui utilisent ou remettent des stupéfiants en dehors des cas prévus aux art. 11 ou 13;
 - e. le médecin ou le médecin-vétérinaire qui prescrit des stupéfiants en dehors des cas prévus à l’art. 11.
 
-<sup>2</sup> L’auteur de l’infraction est puni d’une peine privative de liberté d’un an au moins s’il se livre au trafic par métier et qu’il réalise ainsi un chiffre d’affaires élevé ou un gain important. La peine privative de liberté peut être cumulée avec une peine pécuniaire.
+<sup>2</sup> L’auteur de l’infraction est puni d’une peine privative de liberté d’un an au moins s’il se livre au trafic par métier et qu’il réalise ainsi un chiffre d’affaires élevé ou un gain important. ...[^20-4]
 
 [^20-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^20-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 [^20-3]: Définition: O du 14 nov. 2018 sur les autorisations dans le domaine des médicaments ([RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^20-4]: Phrase abrogée par le ch. I 29 de la LF du 17 déc. 2021 sur l’harmonisation des peines, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 21
 
@@ -787,12 +788,14 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire celui qui, intentionnellement:
 
-- a. omet de procéder aux notifications requises aux art. 11, al. 1<sup>bis</sup>, 16 et 17, al. 1, ou d’établir les bulletins de livraison et les registres de contrôle prescrits, y inscrit de fausses indications ou néglige d’y consigner les indications requises;
+- a.[^21-2] omet de procéder aux notifications requises aux art. 11, al. 1<sup>bis</sup>, 16 et 17, al. 2 et 3, ou d’établir les bulletins de livraison et les registres de contrôle prescrits, y inscrit de fausses indications ou néglige d’y consigner les indications requises;
 - b. fait usage de bulletins de livraison ou de registres de contrôle contenant des indications fausses ou incomplètes.
 
-<sup>2</sup> Si l’auteur agit par négligence, il est puni d’une amende.
+<sup>2</sup> L’auteur est puni d’une peine pécuniaire s’il agit par négligence.[^21-3]
 
 [^21-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^21-2]: Nouvelle teneur selon le ch. I 29 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^21-3]: Nouvelle teneur selon le ch. I 29 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 22
 

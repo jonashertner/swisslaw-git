@@ -4,11 +4,11 @@ title: "Legge federale del 3 ottobre 1951 sugli stupefacenti e sulle sostanze ps
 short: LStup
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: it
-version: 2022-08-01
+version: 2023-07-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20220801/it/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20220801-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20230701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220801/it"
 
 (Legge sugli stupefacenti, LStup)[^t-1]
 
-del 3 ottobre 1951 (Stato 1° agosto 2022)
+del 3 ottobre 1951 (Stato 1° luglio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° lug. 1996 ([RU 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1137](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -685,7 +685,7 @@ Il Consiglio federale stabilisce:
 
 <sup>2</sup>
 
-L’autore è punito con una pena detentiva non inferiore a un anno, che può essere cumulata con una pena pecuniaria, se:
+L’autore è punito con una pena detentiva non inferiore a un anno se:[^19-2]
 
 - a. sa o deve presumere che l’infrazione può mettere direttamente o indirettamente in pericolo la salute di molte persone;
 - b. agisce come membro di una banda costituitasi per esercitare sistematicamente il traffico illecito di stupefacenti;
@@ -699,10 +699,11 @@ Il giudice può attenuare la pena secondo il suo libero apprezzamento:
 - a. in caso di infrazione ai sensi del capoverso 1 lettera g;
 - b. in caso di infrazione ai sensi del capoverso 2, se l’autore è tossicomane e l’infrazione era destinata a finanziare il proprio consumo di stupefacenti.
 
-<sup>4</sup> È altresì punibile in virtù delle disposizioni di cui ai capoversi 1 e 2 chiunque ha commesso l’atto all’estero, si trova in Svizzera e non è estradato, sempreché l’atto sia punibile anche nel luogo in cui è stato commesso. Si applica però la legge di tale luogo se è più favorevole all’autore. L’articolo 6 del Codice penale[^19-2] è applicabile.
+<sup>4</sup> È altresì punibile in virtù delle disposizioni di cui ai capoversi 1 e 2 chiunque ha commesso l’atto all’estero, si trova in Svizzera e non è estradato, sempreché l’atto sia punibile anche nel luogo in cui è stato commesso. Si applica però la legge di tale luogo se è più favorevole all’autore. L’articolo 6 del Codice penale[^19-3] è applicabile.
 
 [^19-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^19-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-2]: Nuovo testo giusta il n. I 29 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^19-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 19<sup>bis</sup>
 
@@ -722,11 +723,12 @@ Il giudice può attenuare la pena secondo il suo libero apprezzamento:
 
 <sup>3.</sup> Si può prescindere dall’azione penale se l’autore, per aver consumato stupefacenti, sottostà o si sottopone a un’assistenza sorvegliata dal medico. L’azione penale è eseguita se l’autore si sottrae all’assistenza o al trattamento.
 
-<sup>4.</sup> Se l’autore è tossicomane, il giudice può ordinare il collocamento in una casa di salute. L’articolo 44 del Codice penale svizzero[^19a-3] è applicabile per analogia.
+<sup>4.</sup> Se l’autore è tossicomane, il giudice può ordinare il collocamento in una struttura specializzata. Gli articoli 60 e 63 del Codice penale[^19a-3] si applicano per analogia.[^19a-4]
 
 [^19a-1]: Introdotto dal n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
 [^19a-2]: Nuova espr. giusta l’all. n. 3 della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [FF 1999 II 1669](https://fedlex.data.admin.ch/eli/fga/1999/1_1979_1787_1669)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^19a-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)**.** Ora gli art. 60 e 63.
+[^19a-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19a-4]: Nuovo testo giusta il n. I 29 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 19b
 
@@ -761,11 +763,12 @@ Chiunque intenzionalmente istiga o tenta di istigare altri a consumare illecitam
 - d. in qualità di operatore sanitario[^20-3], usa o dispensa stupefacenti diversamente da quanto previsto negli articoli 11 o 13;
 - e. in qualità di medico o veterinario, prescrive stupefacenti diversamente da quanto previsto nell’articolo 11.
 
-<sup>2</sup> L’autore è punito con una pena detentiva non inferiore a un anno se, trafficando per mestiere, realizza una grossa cifra d’affari o un guadagno considerevole. La pena detentiva può essere cumulata con una pena pecuniaria.
+<sup>2</sup> L’autore è punito con una pena detentiva non inferiore a un anno se, trafficando per mestiere, realizza una grossa cifra d’affari o un guadagno considerevole. ...[^20-4]
 
 [^20-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^20-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° ago. 2022 ([RU 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5391](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 [^20-3]: Definizione: O del 14 nov. 2018 sull’autorizzazione dei medicamenti ([RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019.
+[^20-4]: Per. abrogato dal n. I 29 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 21
 
@@ -775,12 +778,14 @@ Chiunque intenzionalmente istiga o tenta di istigare altri a consumare illecitam
 
 È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque, intenzionalmente:
 
-- a. non effettua le notificazioni previste negli articoli 11 capoverso 1<sup>bis</sup>, 16 e 17 capoverso 1, non allestisce i bollettini di consegna e i registri di controllo prescritti, vi iscrive indicazioni false od omette di iscrivervi indicazioni cui è tenuto;
+- a.[^21-2] non effettua le notificazioni previste negli articoli 11 capoverso 1<sup>bis</sup>, 16 e 17 capoversi 2 e 3, non allestisce i bollettini di consegna e i registri di controllo prescritti, vi iscrive indicazioni false od omette di iscrivervi indicazioni cui è tenuto;
 - b. si serve di bollettini di consegna o di registri di controllo contenenti indicazioni false o incomplete.
 
-<sup>2</sup> Se l’autore ha agito per negligenza, la pena è la multa.
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.[^21-3]
 
 [^21-1]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^21-2]: Nuovo testo giusta il n. I 29 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^21-3]: Nuovo testo giusta il n. I 29 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 22
 
