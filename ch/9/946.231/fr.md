@@ -4,11 +4,11 @@ title: "Loi fédérale du 22 mars 2002 sur l'application de sanctions internatio
 short: LEmb
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/564"
 language: fr
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2002-03-22
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/564/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-564-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/564/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-564-20230701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20220101/fr"
 
 (Loi sur les embargos, LEmb)
 
-du 22 mars 2002 (Etat le 1<sup>er</sup> janvier 2022)
+du 22 mars 2002 (État le 1<sup>er</sup> juillet 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 54, al. 1, 122, al. 1, et 123, al. 1, de la Constitution[^ingress-1], vu le message du Conseil fédéral du 20 décembre 2000[^ingress-2],
+vu l’art. 54, al. 1, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 20 décembre 2000[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [FF 2001 1341](https://fedlex.data.admin.ch/eli/fga/2001/318)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nouvelle teneur selon le ch. I 35 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [FF 2001 1341](https://fedlex.data.admin.ch/eli/fga/2001/318)
 
 ## Section 1 Dispositions générales
 
@@ -126,7 +127,7 @@ Les autorités fédérales peuvent communiquer d’office les données visées �
 <sup>6</sup> En cas d’infractions à la présente loi, l’entraide judiciaire peut être accordée aux autorités étrangères et aux organisations ou organismes internationaux mentionnés à l’al. 1. Ces infractions ne sont pas considérées comme des actes contrevenant à des mesures monétaires, économiques ou commerciales au sens de l’art. 3, al. 3, de la loi du 20 mars 1981 sur l’entraide pénale internationale[^7-2]; les dispositions procédurales de cette dernière sont applicables.
 
 [^7-1]: Office fédéral de la justice
-[^7-2]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^7-2]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 
 ## Section 4 Voies de droit
 
@@ -134,21 +135,19 @@ Les autorités fédérales peuvent communiquer d’office les données visées �
 
 Les dispositions générales sur la procédure fédérale sont applicables aux recours contre les décisions prises en vertu de la présente loi.
 
-## Section 5 Dispositions pénales et mesures****
-
-[^sec5-1]
-
-[^sec5-1]: A partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l'art. 333 al. 2 à 6 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+## Section 5 Dispositions pénales et mesures
 
 #### Art. 9
 
-**Délits**
+**Crimes et délits**[^9-1]
 
-<sup>1</sup> Quiconque viole intentionnellement les dispositions des ordonnances visées à l’art. 2, al. 3, dont la violation est déclarée punissable est puni de l’emprisonnement pour un an au plus ou d’une amende de 500 000 francs au plus.
+<sup>1</sup> Quiconque viole intentionnellement les dispositions des ordonnances visées à l’art. 2, al. 3, dont la violation est déclarée punissable est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.
 
-<sup>2</sup> Dans les cas graves, la peine est l’emprisonnement pour cinq ans au plus. La peine privative de liberté peut être assortie d’une amende de 1 million de francs au plus.
+<sup>2</sup> Dans les cas graves, l’auteur est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.
 
-<sup>3</sup> Si l’auteur agit par négligence, la peine est l’emprisonnement pour trois mois au plus ou une amende de 100 000 francs au plus.
+<sup>3</sup> L’auteur est puni d’une amende de 100 000 francs au plus s’il agit par négligence.
+
+[^9-1]: Nouvelle teneur selon le ch. I 35 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 10
 
@@ -156,7 +155,7 @@ Les dispositions générales sur la procédure fédérale sont applicables aux r
 
 <sup>1</sup>
 
-Est puni des arrêts ou d’une amende de 100 000 francs au plus quiconque, intentionnellement:
+Est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement:[^10-1]
 
 - a. refuse de fournir les renseignements, les documents ou l’accès aux locaux commerciaux visés aux art. 3 et 4, al. 1, ou fait de fausses déclarations ou des déclarations induisant en erreur;
 - b. contrevient d’une autre manière à la présente loi ou à des dispositions des ordonnances visées à l’art. 2, al. 3, dont la violation est déclarée punissable, ou encore à une décision se référant aux dispositions pénales du présent article, sans que son comportement soit punissable en vertu d’une autre infraction.
@@ -165,20 +164,24 @@ Est puni des arrêts ou d’une amende de 100 000 francs au plus quiconque, inte
 
 <sup>3</sup> Si l’auteur agit par négligence, la peine est une amende de 40 000 francs au plus.
 
-<sup>4</sup> L’action pénale se prescrit par cinq ans. En cas d’interruption de la prescription, ce délai ne peut être dépassé de plus de la moitié.
+<sup>4</sup> L’action pénale se prescrit par cinq ans.[^10-2]
+
+[^10-1]: Nouvelle teneur selon le ch. I 35 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^10-2]: Nouvelle teneur selon le ch. I 35 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 11
 
-**Concours de plusieurs dispositions pénales**
+**Concours de plusieurs dispositions pénales**[^11-1]
 
-<sup>1</sup> Si une infraction à la présente loi constitue simultanément une infraction à la loi du 13 décembre 1996 sur le matériel de guerre[^11-1], à la loi du 13 décembre 1996 sur le contrôle des biens[^11-2] ou à la loi du 23 décembre 1959 sur l’énergie atomique[^11-3], seules les dispositions pénales de la loi prévoyant la peine la plus sévère sont applicables.
+<sup>1</sup> Si une infraction à la présente loi constitue simultanément une infraction à la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^11-2], à la loi du 13 décembre 1996 sur le contrôle des biens[^11-3] ou à la loi du 21 mars 2003 sur l’énergie nucléaire[^11-4], seules les dispositions pénales de la loi prévoyant la peine la plus sévère sont applicables.
 
-<sup>2</sup> Si une infraction à la présente loi constitue simultanément un trafic prohibé aux termes de l’art. 76 de la loi du 1<sup>er</sup> octobre 1925 sur les douanes[^11-4], seules les dispositions pénales de cette dernière loi sont applicables; l’al. 1 est réservé.
+<sup>2</sup> Si une infraction à la présente loi constitue simultanément un trafic prohibé aux termes de l’art. 120 de la loi du 18 mars 2005 sur les douanes[^11-5], seules les dispositions pénales de cette dernière loi sont applicables; l’al. 1 est réservé.
 
-[^11-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^11-2]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^11-3]: [RS 732.0](https://fedlex.data.admin.ch/eli/cc/1960/541_585_571)
-[^11-4]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^11-1]: Nouvelle teneur selon le ch. I 35 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^11-2]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^11-3]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^11-4]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
+[^11-5]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 12
 
@@ -186,7 +189,7 @@ Est puni des arrêts ou d’une amende de 100 000 francs au plus quiconque, inte
 
 L’art. 6 de la loi du 22 mars 1974 sur le droit pénal administratif[^12-1] est applicable aux infractions commises dans les entreprises.
 
-[^12-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^12-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 13
 
@@ -196,17 +199,18 @@ L’art. 6 de la loi du 22 mars 1974 sur le droit pénal administratif[^12-1] es
 
 <sup>2</sup> Le matériel et les valeurs confisqués ainsi que le produit éventuel de leur réalisation sont dévolus à la Confédération, sous réserve de l’application de la loi fédérale du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées.[^13-1]
 
-[^13-1]: Nouvelle teneur selon le ch. 7 de l’annexe à la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)).
+[^13-1]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)).
 
 #### Art. 14
 
 **Juridiction**
 
-<sup>1</sup> La loi fédérale du 22 mars 1974 sur le droit pénal administratif[^14-1] est applicable.
+<sup>1</sup> La loi fédérale du 22 mars 1974 sur le droit pénal administratif[^14-1] est applicable. L’autorité de poursuite et de jugement est le Secrétariat d’État à l’économie.[^14-2]
 
 <sup>2</sup> Si les dispositions pénales de la présente loi sont applicables, le Ministère public de la Confédération peut ouvrir une enquête de police à la demande de l’unité administrative compétente, lorsque l’importance de l’infraction le justifie. Lorsque l’enquête de police est ouverte par le Ministère public de la Confédération, elle relève de la juridiction fédérale.
 
-[^14-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^14-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^14-2]: Phrase introduite par le ch. I 35 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ## Section 6 Dispositions finales
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. März 2002 über die Durchsetzung von international
 short: EmbG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/564"
 language: de
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2002-03-22
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/564/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-564-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/564/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2002-564-20230701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20220101/de"
 
 (Embargogesetz, EmbG)
 
-vom 22. März 2002 (Stand am 1. Januar 2022)
+vom 22. März 2002 (Stand am 1. Juli 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 54 Absatz 1, 122 Absatz 1 und 123 Absatz 1 der Bundesverfassung[^ingress-1], nach Einsicht in die Botschaft des Bundesrates vom 20. Dezember 2000[^ingress-2],
+gestützt auf Artikel 54 Absatz 1 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaft des Bundesrates vom 20. Dezember 2000[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [BBl 2001 1433](https://fedlex.data.admin.ch/eli/fga/2001/318)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Fassung gemäss Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [BBl 2001 1433](https://fedlex.data.admin.ch/eli/fga/2001/318)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -126,7 +127,7 @@ Die Bundesbehörden können die Daten nach Absatz 2 von sich aus oder auf Ersuch
 <sup>6</sup> In Fällen von Verstössen gegen dieses Gesetz kann den ausländischen Behörden, internationalen Organisationen oder Gremien nach Absatz 1 Rechtshilfe geleistet werden. Solche Verstösse gelten nicht als währungs‑, handels- oder wirtschaftspolitische Delikte im Sinne von Artikel 3 Absatz 3 des Rechtshilfegesetzes vom 20. März 1981[^7-2]; dessen Verfahrensbestimmungen bleiben anwendbar.
 
 [^7-1]: Zurzeit Bundesamt für Justiz
-[^7-2]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^7-2]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 
 ## 4. Abschnitt: Rechtsschutz
 
@@ -134,21 +135,19 @@ Die Bundesbehörden können die Daten nach Absatz 2 von sich aus oder auf Ersuch
 
 Das Verfahren für Beschwerden gegen Verfügungen nach diesem Gesetz richtet sich nach den allgemeinen Bestimmungen über die Bundesrechtspflege.
 
-## 5. Abschnitt: Strafbestimmungen und Massnahmen****
-
-[^sec5-1]
-
-[^sec5-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)) zu interpretieren beziehungsweise umzurechnen.
+## 5. Abschnitt: Strafbestimmungen und Massnahmen
 
 #### Art. 9
 
-**Vergehen**
+**Verbrechen und Vergehen**[^9-1]
 
-<sup>1</sup> Wer vorsätzlich gegen Vorschriften von Verordnungen nach Artikel 2 Absatz 3 verstösst, deren Verletzung für strafbar erklärt wird, wird mit Gefängnis bis zu einem Jahr oder mit Busse bis zu 500 000 Franken bestraft.
+<sup>1</sup> Wer vorsätzlich gegen Vorschriften von Verordnungen nach Artikel 2 Absatz 3 verstösst, deren Verletzung für strafbar erklärt wird, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.
 
-<sup>2</sup> In schweren Fällen ist die Strafe Gefängnis bis zu fünf Jahren. Mit der Freiheits-strafe kann eine Busse bis zu 1 Million Franken verbunden werden.
+<sup>2</sup> In schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
-<sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Gefängnis bis zu drei Monaten oder Busse bis zu 100 000 Franken.
+<sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Busse bis zu 100 000 Franken.
+
+[^9-1]: Fassung gemäss Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 10
 
@@ -156,7 +155,7 @@ Das Verfahren für Beschwerden gegen Verfügungen nach diesem Gesetz richtet sic
 
 <sup>1</sup>
 
-Mit Haft oder mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
+Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:[^10-1]
 
 - a. die Auskünfte, die Herausgabe von Unterlagen oder den Zutritt zu Geschäftsräumen nach den Artikeln 3 und 4 Absatz 1 verweigert oder in diesem Zusammenhang falsche oder irreführende Angaben macht;
 - b. auf andere Weise gegen dieses Gesetz oder gegen Vorschriften von Verordnungen nach Artikel 2 Absatz 3, deren Übertretung für strafbar erklärt wird, oder gegen eine unter Hinweis auf die Strafdrohung dieses Artikels erlassene Verfügung verstösst, ohne dass ein strafbares Verhalten nach einem andern Straftatbestand vorliegt.
@@ -165,20 +164,24 @@ Mit Haft oder mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Busse bis zu 40 000 Franken.
 
-<sup>4</sup> Die Strafverfolgung verjährt in fünf Jahren. Die Verjährung kann durch Unter-brechung nicht um mehr als die Hälfte hinausgeschoben werden.
+<sup>4</sup> Die Strafverfolgung verjährt in fünf Jahren.[^10-2]
+
+[^10-1]: Fassung gemäss Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^10-2]: Fassung gemäss Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 11
 
-**Zusammentreffen mehrerer Strafbestimmungen**
+**Zusammentreffen mehrerer Strafbestimmungen**[^11-1]
 
-<sup>1</sup> Erfüllt ein Verstoss gegen dieses Gesetz zugleich den Tatbestand eines Verstosses gegen das Kriegsmaterialgesetz vom 13. Dezember 1996[^11-1], das Güterkontrollgesetz vom 13. Dezember 1996[^11-2] oder das Atomgesetz vom 23. Dezember 1959[^11-3], so gelten ausschliesslich die Strafbestimmungen desjenigen Gesetzes, welche die schwerste Strafe vorsehen.
+<sup>1</sup> Erfüllt ein Verstoss gegen dieses Gesetz zugleich einen Tatbestand des Kriegsmaterialgesetzes vom 13. Dezember 1996[^11-2], des Güterkontrollgesetzes vom 13. Dezember 1996[^11-3] oder des Kernenergiegesetzes vom 21. März 2003[^11-4], so sind ausschliesslich die Strafbestimmungen desjenigen Gesetzes anwendbar, das die schwerste Strafe vorsieht.
 
-<sup>2</sup> Erfüllt ein Verstoss gegen dieses Gesetz zugleich den Tatbestand eines Bannbruchs nach Artikel 76 des Zollgesetzes vom 1. Oktober 1925[^11-4], so sind ausschliesslich dessen Strafbestimmungen anwendbar; Absatz 1 bleibt vorbehalten.
+<sup>2</sup> Erfüllt ein Verstoss gegen dieses Gesetz zugleich den Tatbestand eines Bannbruchs nach Artikel 120 des Zollgesetzes vom 18. März 2005[^11-5], so sind ausschliesslich dessen Strafbestimmungen anwendbar; Absatz 1 bleibt vorbehalten.
 
-[^11-1]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^11-2]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^11-3]: [SR 732.0](https://fedlex.data.admin.ch/eli/cc/1960/541_585_571)
-[^11-4]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^11-1]: Fassung gemäss Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^11-2]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^11-3]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^11-4]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
+[^11-5]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 12
 
@@ -186,7 +189,7 @@ Mit Haft oder mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 
 Auf Verstösse in Geschäftsbetrieben ist Artikel 6 des Bundesgesetzes vom 22. März 1974[^12-1] über das Verwaltungsstrafrecht anwendbar.
 
-[^12-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^12-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 13
 
@@ -196,18 +199,19 @@ Auf Verstösse in Geschäftsbetrieben ist Artikel 6 des Bundesgesetzes vom 22. M
 
 <sup>2</sup> Die eingezogenen Gegenstände und Vermögenswerte sowie ein allfälliger Verwertungserlös verfallen unter Vorbehalt des Bundesgesetzes vom 19. März 2004[^13-1] über die Teilung eingezogener Vermögenswerte dem Bund.[^13-2]
 
-[^13-1]: [SR 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
+[^13-1]: [SR 312.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6224)
 [^13-2]: Fassung gemäss Anhang Ziff. 7 des BG vom 19. März 2004 über die Teilung eingezogener Vermögenswerte, in Kraft seit 1. Aug. 2004 ([AS 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)).
 
 #### Art. 14
 
 **Gerichtsbarkeit**
 
-<sup>1</sup> Das Bundesgesetz vom 22. März 1974[^14-1] über das Verwaltungsstrafrecht ist anwendbar.
+<sup>1</sup> Das Bundesgesetz vom 22. März 1974[^14-1] über das Verwaltungsstrafrecht ist anwendbar. Verfolgende und urteilende Behörde ist das Staatssekretariat für Wirtschaft.[^14-2]
 
-<sup>2</sup> Finden die Strafbestimmungen dieses Gesetzes Anwendung, so kann die Bundes-anwaltschaft auf Ersuchen der betroffenen Verwaltungseinheit ein Ermittlungsverfahren eröffnen, wenn die besondere Bedeutung der Straftat dies rechtfertigt. Die Eröffnung des Ermittlungsverfahrens durch die Bundesanwaltschaft begründet Bundesgerichtsbarkeit.
+<sup>2</sup> Finden die Strafbestimmungen dieses Gesetzes Anwendung, so kann die Bundesanwaltschaft auf Ersuchen der betroffenen Verwaltungseinheit ein Ermittlungsverfahren eröffnen, wenn die besondere Bedeutung der Straftat dies rechtfertigt. Die Eröffnung des Ermittlungsverfahrens durch die Bundesanwaltschaft begründet Bundesgerichtsbarkeit.
 
-[^14-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^14-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^14-2]: Zweiter Satz eingefügt durch Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ## 6. Abschnitt: Schlussbestimmungen
 
@@ -231,7 +235,7 @@ Das zuständige Departement[^16-1] kann die Anhänge von Verordnungen nach Artik
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^17-1]
+…[^17-1]
 
 [^17-1]: Die Änd. können unter [AS 2002 3673](https://fedlex.data.admin.ch/eli/oc/2002/564)konsultiert werden.
 

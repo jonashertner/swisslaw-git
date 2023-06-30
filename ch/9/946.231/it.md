@@ -4,27 +4,28 @@ title: "Legge federale del 22 marzo 2002 sull'applicazione di sanzioni internazi
 short: LEmb
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/564"
 language: it
-version: 2022-01-01
+version: 2023-07-01
 adopted: 2002-03-22
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/564/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-564-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/564/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2002-564-20230701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/564/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sull’applicazione di sanzioni internazionali (Legge sugli embarghi, LEmb)
 
-del 22 marzo 2002 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 22 marzo 2002 (Stato 1° luglio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 54 capoverso 1, 122 capoverso 1 e 123 capoverso 1 della Costituzione federale[^ingress-1], visto il messaggio del Consiglio federale del 20 dicembre 2000[^ingress-2],
+visto l’articolo 54 capoverso 1 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 20 dicembre 2000[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [FF 2001 1247](https://fedlex.data.admin.ch/eli/fga/2001/318)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta il n. I 35 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-3]: [FF 2001 1247](https://fedlex.data.admin.ch/eli/fga/2001/318)
 
 ## Sezione 1: Disposizioni generali
 
@@ -123,8 +124,8 @@ Le autorità federali possono comunicare i dati di cui al capoverso 2, di propri
 
 <sup>6</sup> In caso d’infrazioni alla presente legge, è possibile accordare assistenza giudiziaria alle autorità estere, alle organizzazioni o ai consessi internazionali di cui al capoverso 1. Tali infrazioni non sono considerate reati contro provvedimenti di politica monetaria, commerciale o economica ai sensi dell’articolo 3 capoverso 3 della legge sull’assistenza internazionale in materia penale del 20 marzo 1981[^7-2]; rimangono applicabili le disposizioni procedurali di tale legge.
 
-[^7-1]: Attualmente: l’Ufficio federale di giustizia
-[^7-2]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^7-1]: Attualmente: l’Ufficio federale di giustizia.
+[^7-2]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 
 ## Sezione 4: Protezione giuridica
 
@@ -132,27 +133,25 @@ Le autorità federali possono comunicare i dati di cui al capoverso 2, di propri
 
 La procedura per i ricorsi contro le decisioni adottate in virtù della presente legge è disciplinata dalle disposizioni generali sulla procedura federale.
 
-## Sezione 5: Disposizioni penali e misure****
-
-[^sec5-1]
-
-[^sec5-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell'art. 333 cpv. 2 – 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+## Sezione 5: Disposizioni penali e misure
 
 #### Art. 9
 
-**Delitti**
+**Crimini e delitti**[^9-1]
 
-<sup>1</sup> Chiunque intenzionalmente viola disposizioni delle ordinanze di cui all’articolo 2 capoverso 3, la cui violazione è dichiarata punibile, è punito con la detenzione fino a un anno o con la multa fino a 500 000 franchi.
+<sup>1</sup> Chiunque intenzionalmente viola disposizioni delle ordinanze di cui all’articolo 2 capoverso 3 la cui violazione è dichiarata punibile è punito con una pena detentiva fino a un anno o con una pena pecuniaria.
 
-<sup>2</sup> Nei casi gravi, la pena è la detenzione fino a cinque anni. Con la pena privativa della libertà può essere cumulata la multa fino a un milione di franchi.
+<sup>2</sup> Nei casi gravi, la pena è una pena detentiva sino a cinque anni o una pena pecuniaria.
 
-<sup>3</sup> Se il reato è commesso per negligenza, la pena è la detenzione fino a tre mesi o la multa fino a 100 000 franchi.
+<sup>3</sup> Se il reato è commesso per negligenza, la pena è della multa sino a 100 000 franchi.
+
+[^9-1]: Nuovo testo giusta il n. I 35 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 10
 
 **Contravvenzioni**
 
-<sup>1</sup> è punito con l’arresto o con la multa fino a 100 000 franchi.
+<sup>1</sup> è punito con la multa sino a 100 000 franchi.[^10-1]
 
 Chiunque intenzionalmente:
 
@@ -163,20 +162,24 @@ Chiunque intenzionalmente:
 
 <sup>3</sup> Se il reato è commesso per negligenza, la pena è la multa fino a 40 000 franchi.
 
-<sup>4</sup> L’azione penale si prescrive in cinque anni. In caso di interruzione, il termine ordinario della prescrizione non può essere superato di più della metà.
+<sup>4</sup> L’azione penale si prescrive in cinque anni.[^10-2]
+
+[^10-1]: Nuovo testo della comminatoria giusta il n. I 35 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^10-2]: Nuovo testo giusta il n. I 35 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 11
 
-**Concorso di diverse disposizioni penali**
+**Concorso di diverse disposizioni penali**[^11-1]
 
-<sup>1</sup> Se un’infrazione alla presente legge costituisce simultaneamente un’infrazione alla legge sul materiale bellico del 13 dicembre 1996[^11-1], alla legge sul controllo dei beni a duplice impiego del 13 dicembre 1996[^11-2] o alla legge sull’energia nucleare del 23 dicembre 1959[^11-3], sono applicabili solo le disposizioni penali di quella legge che prevede la pena più severa.
+<sup>1</sup> Se un’infrazione alla presente legge costituisce simultaneamente un’infrazione alla legge federale del 13 dicembre 1996[^11-2] sul materiale bellico, alla legge del 13 dicembre 1996[^11-3] sul controllo dei beni a duplice impiego o alla legge federale del 21 marzo 2003[^11-4] sull’energia nucleare, sono applicabili solo le disposizioni penali di quella legge che prevede la pena più severa.
 
-<sup>2</sup> Se un’infrazione alla presente legge costituisce simultaneamente un’infrazione ai divieti secondo l’articolo 76 della legge sulle dogane del 1° ottobre 1925[^11-4], sono applicabili solo le disposizioni penali della legge sulle dogane; è fatto salvo il capoverso 1.
+<sup>2</sup> Se un’infrazione alla presente legge costituisce simultaneamente un’infrazione ai divieti secondo l’articolo 120 della legge del 18 marzo 2005[^11-5] sulle dogane, sono applicabili solo le disposizioni penali della legge sulle dogane; è fatto salvo il capoverso 1.
 
-[^11-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^11-2]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^11-3]: [RS 732.0](https://fedlex.data.admin.ch/eli/cc/1960/541_585_571)
-[^11-4]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^11-1]: Nuovo testo giusta il n. I 35 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^11-2]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^11-3]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^11-4]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
+[^11-5]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 12
 
@@ -184,7 +187,7 @@ Chiunque intenzionalmente:
 
 Alle infrazioni commesse nelle aziende è applicabile l’articolo 6 della legge federale del 22 marzo 1974[^12-1] sul diritto penale amministrativo.
 
-[^12-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^12-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 13
 
@@ -194,18 +197,19 @@ Alle infrazioni commesse nelle aziende è applicabile l’articolo 6 della legge
 
 <sup>2</sup> Gli oggetti e i valori patrimoniali confiscati nonché l’eventuale ricavo della loro realizzazione sono devoluti alla Confederazione, fatta salva la legge federale del 19 marzo 2004[^13-1] sulla ripartizione dei valori patrimoniali confiscati.[^13-2]
 
-[^13-1]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
-[^13-2]: Nuovo testo giusta il n. 7 dell’all. della LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)).
+[^13-1]: [RS 312.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6224)
+[^13-2]: Nuovo testo giusta l’all. n. 7 della LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)).
 
 #### Art. 14
 
 **Giurisdizione**
 
-<sup>1</sup> È applicabile la legge federale del 22 marzo 1974[^14-1] sul diritto penale amministrativo.
+<sup>1</sup> È applicabile la legge federale del 22 marzo 1974[^14-1] sul diritto penale amministrativo. L’autorità competente per il perseguimento e il giudizio è la Segreteria di Stato dell’economia.[^14-2]
 
 <sup>2</sup> Se le disposizioni penali della presente legge sono applicabili, il Ministero pubblico della Confederazione può, su richiesta dell’amministrazione federale interessata, aprire un’inchiesta se l’importanza del reato lo giustifica. L’apertura dell’inchiesta da parte del Ministero pubblico della Confederazione fonda la giurisdizione federale.
 
-[^14-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^14-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^14-2]: Per. introdotto dal n. I 35 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ## Sezione 6: Disposizioni finali
 
@@ -221,7 +225,7 @@ Il Consiglio federale informa l’Assemblea federale sull’applicazione della p
 
 Il Dipartimento competente[^16-1] può aggiornare gli allegati delle ordinanze di cui all’articolo 2 capoverso 3.
 
-[^16-1]: Attualmente: l’Dipartimento federale dell’economia, della formazione e della ricerca.
+[^16-1]: Attualmente: il Dipartimento federale dell’economia, della formazione e della ricerca.
 
 #### Art. 17
 
