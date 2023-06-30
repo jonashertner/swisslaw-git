@@ -4,11 +4,11 @@ title: Verordnung vom 30. September 1991 über die eidgenössischen Jagdbanngebi
 short: VEJ
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304"
 language: de
-version: 2015-07-15
+version: 2023-07-01
 adopted: 1991-09-30
 in_force: 1992-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304/20150715/de/xml/fedlex-data-admin-ch-eli-cc-1991-2304_2304_2304-20150715-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/2304_2304_2304/20150715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1991-2304_2304_2304-20230701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/2304_2304_2304/20230701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/2304_2304_2304/20150715/de"
 
 (VEJ)
 
-vom 30. September 1991 (Stand am 15. Juli 2015)
+vom 30. September 1991 (Stand am 1. Juli 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -157,7 +157,7 @@ In den Banngebieten ist der Erhaltung von Biotopen im Sinne von Artikel 18 Absat
 
 <sup>2</sup> Die Wildhüter der Banngebiete können auf Anordnung der kantonalen Fachstelle jederzeit Massnahmen gegen einzelne jagdbare Tiere ergreifen, welche erheblichen Schaden anrichten.
 
-<sup>3</sup> ...[^8-1]
+<sup>3</sup> …[^8-1]
 
 <sup>4</sup> Im Übrigen gelten die kantonalen Bestimmungen über die Verhütung von Wildschäden.
 
@@ -266,7 +266,7 @@ Die kantonale Fachstelle weist den Wildhütern folgende Aufgaben zu:[^12-1]
 
 <sup>2</sup> Das BAFU führt für die besonderen Belange der Banngebiete Weiterbildungskurse durch.
 
-## 6. Abschnitt:**** Abgeltungen
+## 6. Abschnitt: Abgeltungen
 
 [^sec6-1]
 
@@ -335,7 +335,7 @@ Globale Abgeltungen werden gewährt an die Kosten für:
 
 Die Verordnung vom 19. August 1981[^18-1] über die eidgenössischen Banngebiete wird aufgehoben.
 
-[^18-1]: [[AS 1981 1452](https://fedlex.data.admin.ch/eli/oc/1981/1452_1452_1452), [1986 1440](https://fedlex.data.admin.ch/eli/oc/1986/1440_1440_1440), [1988 517](https://fedlex.data.admin.ch/eli/oc/1988/517_517_517)Art. 20 Ziff. 3]
+[^18-1]: [[AS 1981 1452](https://fedlex.data.admin.ch/eli/oc/1981/1452_1452_1452); [1986 1440](https://fedlex.data.admin.ch/eli/oc/1986/1440_1440_1440); [1988 517](https://fedlex.data.admin.ch/eli/oc/1988/517_517_517)Art. 20 Ziff. 3]
 
 #### Art. 19
 
@@ -343,13 +343,13 @@ Die Verordnung vom 19. August 1981[^18-1] über die eidgenössischen Banngebiete
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 2 Abs. 1)
 
 ## Eidgenössische Jagdbanngebiete
 
-[^t-1]: Bereinigt gemäss Ziff. I der V vom 18. Febr. 2004 ([AS 2004 1265](https://fedlex.data.admin.ch/eli/oc/2004/147)) und Ziff. II 1 der V vom 20. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4537](https://fedlex.data.admin.ch/eli/oc/2013/806)).
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 18. Febr. 2004 ([AS 2004 1265](https://fedlex.data.admin.ch/eli/oc/2004/147)), Ziff. II 1 der V vom 20. Nov. 2013 ([AS 2013 4537](https://fedlex.data.admin.ch/eli/oc/2013/806)) und Ziff. III der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 
 - 1\. Augstmatthorn Kanton BE
 - 2\. Combe-Grède Kanton BE
@@ -393,8 +393,9 @@ Anhang 1*[^t-1]*
 - 40\. Turtmanntal Kanton VS
 - 41\. Dixence Kanton VS
 - 42\. Bannalp-Walenstöcke Kantone OW/NW
+- 43\. Chrauchtal Kanton GL
 - [tab]
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 [^t-2]: Aufgehoben durch Ziff. I der V vom 20. Nov. 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 4537](https://fedlex.data.admin.ch/eli/oc/2013/806)).

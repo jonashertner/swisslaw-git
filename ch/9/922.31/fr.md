@@ -4,11 +4,11 @@ title: Ordonnance du 30 septembre 1991 concernant les districts francs fédérau
 short: ODF
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304"
 language: fr
-version: 2015-07-15
+version: 2023-07-01
 adopted: 1991-09-30
 in_force: 1992-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304/20150715/fr/xml/fedlex-data-admin-ch-eli-cc-1991-2304_2304_2304-20150715-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/2304_2304_2304/20150715/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1991-2304_2304_2304-20230701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/2304_2304_2304/20230701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/2304_2304_2304/20150715/fr"
 
 (ODF)
 
-du 30 septembre 1991 (Etat le 15 juillet 2015)
+du 30 septembre 1991 (État le 1<sup>er</sup> juillet 2023)
 
 Le Conseil fédéral suisse,
 
@@ -265,7 +265,7 @@ Le service cantonal compétent charge les gardes-chasse de l’accomplissement d
 
 <sup>2</sup> L’OFEV organise des cours de perfectionnement sur les problèmes relatifs aux districts francs.
 
-## Section 6**** Indemnités
+## Section 6 Indemnités
 
 [^sec6-1]
 
@@ -342,13 +342,13 @@ L’ordonnance du 19 août 1981 concernant les districts francs fédéraux[^18-1
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1992.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 2, al. 1)
 
 ## Districts francs fédéraux
 
-[^t-1]: Mise à jour selon le ch. I de l’O du 18 fév. 2004 ([RO 2004 1265](https://fedlex.data.admin.ch/eli/oc/2004/147)), et selon le ch. II 1 de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4537](https://fedlex.data.admin.ch/eli/oc/2013/806)).
+[^t-1]: Mise à jour par le ch. I de l’O du 18 fév. 2004 ([RO 2004 1265](https://fedlex.data.admin.ch/eli/oc/2004/147)), le ch. II 1 de l’O du 20 nov. 2013 ([RO 2013 4537](https://fedlex.data.admin.ch/eli/oc/2013/806)) et le ch. III de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 
 \1. Augstmatthorn, canton de Berne
 
@@ -434,6 +434,8 @@ Annexe 1*[^t-1]*
 
 \42. Bannalp-Walenstöcke, cantons d’Obwald/Nidwald
 
-Annexe 2*[^t-2]*
+\43. Chrauchtal, canton de Glaris
+
+Annexe 2[^t-2]
 
 [^t-2]: Abrogée par le ch. I de l’O du 20 nov. 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 4537](https://fedlex.data.admin.ch/eli/oc/2013/806)).

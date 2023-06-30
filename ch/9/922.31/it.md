@@ -4,20 +4,20 @@ title: Ordinanza del 30 settembre 1991 sulle bandite federali (OBAF)
 short: OBAF
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304"
 language: it
-version: 2015-07-15
+version: 2023-07-01
 adopted: 1991-09-30
 in_force: 1992-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304/20150715/it/xml/fedlex-data-admin-ch-eli-cc-1991-2304_2304_2304-20150715-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/2304_2304_2304/20150715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1991-2304_2304_2304-20230701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/2304_2304_2304/20230701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle bandite federali
 
-(OBAF)**[^t-1]**
+(OBAF)[^t-1]
 
-del 30 settembre 1991 (Stato 15 luglio 2015) (Stato 15 luglio 2015)
+del 30 settembre 1991 (Stato 1° luglio 2023)
 
 [^t-1]: Nuovo testo giusta l’art. 2 lett. r dell’O del 10 gen. 1996 che rettifica alcune abbreviazioni di titoli di atti normativi ([RU 1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)).
 
@@ -55,7 +55,7 @@ L’inventario federale delle bandite federali (inventario) comprende per ogni z
 
 <sup>3</sup> L’inventario, parte integrante della presente ordinanza, non è pubblicato nella Raccolta ufficiale delle leggi federali (RU), bensì esclusivamente in forma elettronica sul sito Internet dell’Ufficio federale dell’ambiente (UFAM)[^2-1] (art. 5 della L del 18 giu. 2004[^2-2] sulle pubblicazioni ufficiali).[^2-3]
 
-[^2-1]: www.bafu.admin.ch &gt; Temi &gt; Zone protette &gt; Bandite di caccia &gt; Descrizione degli oggetti
+[^2-1]: [www.bafu.admin.ch](http://www.bafu.admin.ch/)&gt; Temi &gt; Zone protette &gt; Bandite di caccia &gt; Descrizione degli oggetti
 [^2-2]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
 [^2-3]: Nuovo testo giusta il n. I dell’O del 20 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4537](https://fedlex.data.admin.ch/eli/oc/2013/806)).
 
@@ -269,7 +269,7 @@ Il servizio cantonale competente affida ai guardiacaccia i compiti seguenti:
 
 <sup>2</sup> L’UFAM indice corsi di perfezionamento per le esigenze particolari delle bandite.
 
-## Sezione 6:**** Indennità
+## Sezione 6: Indennità
 
 [^sec6-1]
 
@@ -346,13 +346,13 @@ L’ordinanza del 19 agosto 1981[^18-1] sulle bandite federali è abrogata.
 
 La presente ordinanza entra in vigore il 1° gennaio 1992.
 
-Appendice 1*[^t-2]*
+Appendice 1[^t-2]
 
 (art. 2 cpv. 1)
 
 ## Bandite federali
 
-[^t-2]: Aggiornata dal n. I dell’O del 18 feb. 2004 ([RU 2004 1265](https://fedlex.data.admin.ch/eli/oc/2004/147)) e dal n. II 1 dell’O del 20 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4537](https://fedlex.data.admin.ch/eli/oc/2013/806)).
+[^t-2]: Aggiornata dal n. I dell’O del 18 feb. 2004 ([RU 2004 1265](https://fedlex.data.admin.ch/eli/oc/2004/147)), dal n. II 1 dell’O del 20 nov. 2013 ([RU 2013 4537](https://fedlex.data.admin.ch/eli/oc/2013/806)) e dal n. III dell’O del 2 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
 
 - 1\. Augstmàtthorn BE
 - 2\. Combe-Grède BE
@@ -396,7 +396,8 @@ Appendice 1*[^t-2]*
 - 40\. Turtmanntal VS
 - 41\. Dixence VS
 - 42\. Bannalp-Walenstöcke, Cantoni di OW/NW
+- 43\. Chrauchtal GL
 
-Appendice 2*[^t-3]*
+Appendice 2[^t-3]
 
 [^t-3]: Abrogata dal n. I dell’O del 20 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4537](https://fedlex.data.admin.ch/eli/oc/2013/806)).
