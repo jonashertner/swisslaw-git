@@ -4,13 +4,12 @@ number: "152.221.111.2"
 title: "Direktionsverordnung über die Delegation von Befugnissen der Wirtschafts-, Energie- und Umweltdirektion"
 short: DelDV WEU
 language: de
-version: 2022-08-01
-valid_until: 2023-06-30
-version_adopted: 2022-07-05
+version: 2023-07-01
+version_adopted: 2023-06-07
 adopted: 2005-04-26
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.111.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2641/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2842/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2641/pdf_file"
 
 (DelDV WEU)
 
-vom 26.04.2005 (Stand 01.08.2022)
+vom 26.04.2005 (Stand 01.07.2023)
 
 Die Volkswirtschaftsdirektion des Kantons Bern,
 
-gestützt auf Artikel 19 Absatz 2 des Personalgesetzes vom 16. September 2004 (PG)[^ingress-1], Artikel 2 Absatz 2 und Artikel 14 Absatz 1 Buchstaben a und b der Personalverordnung vom 18. Mai 2005 (PV)[^ingress-2], Artikel 153 Absatz 1 der Verordnung vom 3. Dezember 2003 über die Steuerung von Finanzen und Leistungen (FLV)[^ingress-3], Artikel 21 Absatz 1b und Absatz 2 des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG)[^ingress-4] sowie die Artikel 5 und 6 der Verordnung vom 18. Oktober 1995 über die Organisation und die Aufgaben der Wirtschafts-, Energie- und Umweltdirektion (Organisationsverordnung WEU, OrV WEU)[^ingress-5],
+gestützt auf Artikel 19 Absatz 2 des Personalgesetzes vom 16. September 2004 (PG)[^ingress-1], Artikel 2 Absatz 2 und Artikel 14 Absatz 1 Buchstaben a und b der Personalverordnung vom 18. Mai 2005 (PV)[^ingress-2], Artikel 37 Absatz 1 der Finanzhaushaltsverordnung vom 16. November 2022 (FHaV)[^ingress-3], Artikel 21 Absatz 1b und Absatz 2 des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG)[^ingress-4] sowie die Artikel 5 und 6 der Verordnung vom 18. Oktober 1995 über die Organisation und die Aufgaben der Wirtschafts-, Energie- und Umweltdirektion (Organisationsverordnung WEU, OrV WEU)[^ingress-5],
 
 beschliesst:
 
@@ -121,13 +120,13 @@ beschliesst:
 
 **Personalrechtliche Bewilligungen und Anordnungen**
 
-<sup>1</sup> Die Generalsekretärin oder der Generalsekretär bzw. die Amtsvorsteherinnen und Amtsvorsteher sind unter Beachtung der Weisungen der Direktorin oder des Direktors für die Erteilung von personalrechtlichen Bewilligungen zuständig, sofern die Personalgesetzgebung nicht die ausschliessliche Zuständigkeit der Direktion vorsieht.
+<sup>1</sup> Die Generalsekretärin oder der Generalsekretär bzw. die Amtsvorsteherinnen und Amtsvorsteher sind unter Beachtung der Weisungen der Direktorin oder des Direktors für die Erteilung von personalrechtlichen Bewilligungen und Anordnungen zuständig, sofern die Personalgesetzgebung nicht die ausschliessliche Zuständigkeit der Direktion vorsieht.
 
 <sup>2</sup> Sie können ihre Befugnisse in ihrem Organisationsreglement an eine ihnen unterstellte Organisationseinheit übertragen.
 
 <sup>3</sup> Für folgende Befugnisse ist eine Delegation gemäss Absatz 2 ausgeschlossen:
 
-- a die Bewilligung von Urlaub für den Besuch externer Weiterbildungsveranstaltungen von mehr als zehn Arbeitstagen pro Anlass, mit Ausnahme der angeordneten Weiterbildungen für Mitarbeitende der Regionalen Arbeitsvermittlungszentren (RAV),
+- a die Bewilligung von Urlaub für den Besuch externer Weiterbildungsveranstaltungen von mehr als zehn Arbeitstagen pro Anlass, mit Ausnahme der angeordneten Weiterbildungen für Mitarbeiterinnen und Mitarbeiter der Regionalen Arbeitsvermittlungszentren (RAV),
 - b die Anordnung von Pikettdienst von mehr als 14 Tagen,
 - c die Bewilligung von unbezahltem Urlaub von mehr als einem Monat.
 
@@ -153,7 +152,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Die Generalsekretärin oder der Generalsekretär sowie die Amtsvorsteherinnen und Amtsvorsteher können ihre Ausgabenbefugnisse schriftlich ganz oder teilweise an die Abteilungsleiterinnen und Abteilungsleiter, Bereichsleiterinnen und Bereichsleiter sowie Schuldirektorinnen und Schuldirektoren übertragen.
+<sup>3</sup> Die Generalsekretärin oder der Generalsekretär sowie die Amtsvorsteherinnen und Amtsvorsteher können ihre Ausgabenbefugnisse schriftlich ganz oder teilweise an die Abteilungsleiterinnen und Abteilungsleiter, Bereichsleiterinnen und Bereichsleiter sowie Schuldirektorinnen und Schuldirektoren übertragen. Im Übrigen gilt Artikel 31 Absatz 1 FHaV.
 
 <sup>4</sup> Die delegierten Ausgabenbefugnisse sind umgehend der Finanzkontrolle zu melden.
 

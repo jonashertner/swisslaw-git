@@ -4,13 +4,12 @@ number: "152.221.111.2"
 title: "Ordonnance de Direction sur la délégation de compétences de la Direction de l'économie, de l'énergie et de l'environnement *"
 short: ODDél DEEE
 language: fr
-version: 2022-08-01
-valid_until: 2023-06-30
-version_adopted: 2022-07-05
+version: 2023-07-01
+version_adopted: 2023-06-07
 adopted: 2005-04-26
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.111.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2641/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2842/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,11 +18,11 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2641/pdf_file"
 
 (ODDél DEEE)
 
-du 26.04.2005 (état au 01.08.2022)
+du 26.04.2005 (état au 01.07.2023)
 
 La Direction de l’économie publique du canton de Berne,
 
-vu l’article 19, alinéa 2 de la loi du 16 septembre 2004 sur le personnel (LPers)[^ingress-1], les articles 2, alinéa 2 et 14, alinéa 1, lettres a et b de l’ordonnance du 18 mai 2005 sur le personnel (OPers)[^ingress-2], l’article 153, alinéa 1 de l’ordonnance du 3 décembre 2003 sur le pilotage des finances et des prestations (OFP)[^ingress-3], l'article 21, alinéas 1b et 2 de la loi du 20 juin 1995 sur l'organisation du Conseil-exécutif et de l'administration (loi d'organisation, LOCA)[^ingress-4] ainsi que les articles 5 et 6 de l'ordonnance du 18 octobre 1995 sur l'organisation et les tâches de la Direction de l'économie, de l'énergie et de l'environnement (ordonnance d'organisation DEEE, OO DEEE)[^ingress-5],
+vu l’article 19, alinéa 2 de la loi du 16 septembre 2004 sur le personnel (LPers)[^ingress-1], les articles 2, alinéa 2 et 14, alinéa 1, lettres a et b de l’ordonnance du 18 mai 2005 sur le personnel (OPers)[^ingress-2], l’article 37, alinéa 1 de l’ordonnance du 16 novembre 2022 sur les finances (OFin)[^ingress-3], l'article 21, alinéas 1b et 2 de la loi du 20 juin 1995 sur l'organisation du Conseil-exécutif et de l'administration (loi d'organisation, LOCA)[^ingress-4] ainsi que les articles 5 et 6 de l'ordonnance du 18 octobre 1995 sur l'organisation et les tâches de la Direction de l'économie, de l'énergie et de l'environnement (ordonnance d'organisation DEEE, OO DEEE)[^ingress-5],
 
 arrête:
 
@@ -37,15 +36,15 @@ arrête:
 
 #### Art. 1
 
-<sup>1</sup> La présente ordonnance règle la délégation de compétences de la Direction de l’économie, de l’énergie et de l’environnement en matière de conduite, d'édiction d'instructions, de personnel et d’autorisation de dépenses aux unités administratives qui lui sont subordonnées.
+<sup>1</sup> La présente ordonnance règle la délégation de compétences de la Direction de l’économie, de l’énergie et de l’environnement en matière de conduite, d'édiction de directives, de personnel et d’autorisation de dépenses aux unités administratives qui lui sont subordonnées.
 
-## 1a Compétences en matière de conduite et d'édiction d'instructions
+## 1a Compétences en matière de conduite et d'édiction de directives
 
 #### Art. 1a
 
-**Compétences en matière de conduite et d'édiction d'instructions**
+**Compétences en matière de conduite et d'édiction de directives**
 
-<sup>1</sup> La secrétaire générale ou le secrétaire général peut, sur mandat de la directrice ou du directeur, donner des instructions aux cheffes et chefs d’office, notamment
+<sup>1</sup> La secrétaire générale ou le secrétaire général peut, sur mandat de la directrice ou du directeur, donner des directives aux cheffes et chefs d’office, notamment
 
 - a pour régler le déroulement des affaires de Direction,
 - b pour garantir l’exécution des mandats,
@@ -107,7 +106,7 @@ arrête:
 - b définir des limites d’avertissement dérogatoires conformément au règlement du temps de travail annualisé;
 - c autoriser le travail en dehors de la Suisse.
 
-<sup>2</sup> Si nécessaire, elle ou il peut édicter des instructions pour l’ensemble de la Direction dans tous les autres domaines relevant de la politique du personnel, à condition que la législation sur le personnel le permette.
+<sup>2</sup> Si nécessaire, elle ou il peut édicter des directives pour l’ensemble de la Direction dans tous les autres domaines relevant de la politique du personnel, à condition que la législation sur le personnel le permette.
 
 <sup>3</sup> Le Secrétariat général a en particulier compétence pour:
 
@@ -121,7 +120,7 @@ arrête:
 
 **Autorisations et instructions relevant du droit du personnel**
 
-<sup>1</sup> La secrétaire générale ou le secrétaire général ​ainsi que les cheffes et chefs d’office sont compétents pour octroyer des autorisations relevant du droit du personnel conformément aux instructions de la directrice ou du directeur, à condition que la législation sur le personnel ne réserve pas cette compétence à la Direction.
+<sup>1</sup> La secrétaire générale ou le secrétaire général ​ainsi que les cheffes et chefs d’office sont compétents pour octroyer des autorisations et édicter des instructions relevant du droit du personnel conformément aux directives de la directrice ou du directeur, à condition que la législation sur le personnel ne réserve pas cette compétence à la Direction.
 
 <sup>2</sup> Elles ou ils peuvent déléguer leurs compétences par voie de règlement d'organisation à une unité administrative qui leur est subordonnée.
 
@@ -153,7 +152,7 @@ arrête:
 
 <sup>2</sup> …
 
-<sup>3</sup> La secrétaire générale ou le secrétaire général ainsi que les cheffes et chefs d’office peuvent déléguer par écrit tout ou partie de leurs compétences en matière d’autorisation de dépenses aux cheffes et chefs de division, ​aux cheffes et chefs de domaine ainsi qu’aux directrices et directeurs d’école.
+<sup>3</sup> La secrétaire générale ou le secrétaire général ainsi que les cheffes et chefs d’office peuvent déléguer par écrit tout ou partie de leurs compétences en matière d’autorisation de dépenses aux cheffes et chefs de division, ​aux cheffes et chefs de domaine ainsi qu’aux directrices et directeurs d’école. Au surplus, l'article 31, alinéa 1 OFin est applicable.
 
 <sup>4</sup> Le Contrôle des finances doit être immédiatement informé de toute délégation de compétences en matière d’autorisation de dépenses.
 
